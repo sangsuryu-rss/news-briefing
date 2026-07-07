@@ -1,8 +1,17 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.07 (화) 07:20",
+  "updatedAt": "2026.07.07 (화) 16:55",
   "banner": {
-    "show": false
+    "show": true,
+    "icon": "🔗",
+    "title": "세림전자 업무 시스템",
+    "desc": "그룹웨어에서 메일·전자결재·일정을 확인하세요.",
+    "links": [
+      {
+        "label": "📋 그룹웨어 바로가기",
+        "url": "https://ngwx.ktbizoffice.com/LoginN.aspx?compid=selim04"
+      }
+    ]
   },
   "sections": [
     {
@@ -17,7 +26,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/07",
           "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
+          "img": ""
         },
         {
           "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
@@ -52,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"국산 AI 반도체 써보세요\"…전담 지원센터 개소",
-          "desc": "센터는 앞으로 국산 AI 반도체 도입 상담과 기술 컨설팅을 비롯해 △활용 분야별 심층 자문 △시험·검증 지원 및 연계 △도입 후 SW 최적화 △우수 사례 확산 △수요·공급기업 간 네트워킹 등 전주기적 지원을 제공할...",
-          "src": "ebn",
+          "title": "AWS 공인 파트너 '노타', AI칩 최적화 서비스 출시",
+          "desc": "서비스는 기술검증(PoC) 및 진단, 모델 포팅 및 경량화, 성능 튜닝 단계로 구성된다. 노타는 AWS 트레이니움... 온전히 활용할 수 있도록 모델 튜닝을 지원한다\"며 \"AWS AI 칩 기반 인프라 도입을 검토하는 기업 고객에게...",
+          "src": "ZDNet코리아",
           "date": "07/07",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715440",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1715440_744513_1434_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002429601?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/07/3f1f46510a1e31a4024c733b007befce.jpg"
         },
         {
-          "title": "피시오, '국방 정보화 신기술 제안발표회'서 AI 기반 영상 실시간 최적...",
-          "desc": "AI 기반 영상 최적화 기술과 보안 전송 기술을 융합한 Smart LinkShield 및 LinkShield Aizip 제품군을 지속... 피시오는 발표자료를 통해 실제 국방 개선사례로 기존 2Mbps 수준의 제한된 통신 환경에서 Aizip을 도입한 후...",
-          "src": "kdpress",
+          "title": "[WIKI 현장] '보이는 안전' 설계한 KCC…디자인·AI·도료로 산업안전 해...",
+          "desc": "산업현장의 안전이 보호장비를 넘어 색채와 디자인, 인공지능(AI) 기술을 활용한 '보이는 안전'으로 진화하고... 설비를 도입하지 않더라도 도장 시공과 안전 디자인만으로도 적은 비용으로 큰 안전 효과를 얻을 수 있다\"고...",
+          "src": "wikileaks-kr",
           "date": "07/07",
-          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206707",
-          "img": "https://cdn.kdpress.co.kr/news/photo/202607/206707_132858_83.jpg"
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189454",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189454_202006_5412_v150.jpg"
         },
         {
-          "title": "생성형 AI로 제작한 작품 공모한다",
-          "desc": "AI 기술을 활용한다. 국민이 직접 AI로 지진안전 콘텐츠를 제작하며 재난 대응 역량을 높이고 안전 문화를 확산하려는 취지다. 특히, 지난 2018년부터 시작된 지진안전 공모전은 올해 최초로 '국민 선호도 심사'를 도입...",
-          "src": "ikoreanspirit",
+          "title": "미래에셋증권, 글로벌 금융 애니메이션 '동물원정대2' 공개",
+          "desc": "생성형 AI 기술을 활용해 시각적 연출을 강화했으며, 청강문화산업대학교와 산학협력을 통해 작품의... 한편, 미래에셋증권은 금융투자업계 최초로 금융교육 전문위원 제도를 도입했으며, 영업점과 인근 초·중·고교가...",
+          "src": "finomy",
           "date": "07/07",
-          "url": "http://www.ikoreanspirit.com/news/articleView.html?idxno=86233",
-          "img": "https://cdn.ikoreanspirit.com/news/photo/202607/86233_109521_1423.png"
+          "url": "http://www.finomy.com/news/articleView.html?idxno=256950",
+          "img": "https://cdn.finomy.com/news/thumbnail/202607/256950_251976_4918_v150.jpg"
         },
         {
-          "title": "'종이 없는 오피스' 확산… 전자명패, 공공·민간 디지털 인프라로 안착",
-          "desc": "이러한 변화는 글로벌 기술 트렌드 및 정부 정책과 맞물려 확산되고 있다. 올해 3월 삼성전자는 사무공간 내... 전자종이를 활용한 업무환경 도입이 늘면서 종이 명패를 대체하는 전자명패도 회의실을 넘어 일반...",
-          "src": "itbiznews",
+          "title": "[뉴스워커_NHN] 전 직원에 클로드 도입…AI 전환 가속 내용은?",
+          "desc": "NHN은 지난 2일 판교 플레이뮤지엄에서 NHN·NHN클라우드·NHN두레이 임직원 600여 명이 참여한 기술 공유... 임직원에게 도입하며 AX를 한층 확대했다. 기존 개발 조직 중심의 AI 활용을 전 직군으로 넓혀 업무 생산성을...",
+          "src": "newsworker",
           "date": "07/07",
-          "url": "https://www.itbiznews.com/news/articleView.html?idxno=218457",
-          "img": "https://cdn.itbiznews.com/news/photo/202607/218457_220875_5243.png"
+          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=435086",
+          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/435086_476332_5517_v150.jpg"
         }
       ]
     },
@@ -105,7 +114,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "07/07",
           "url": "https://n.news.naver.com/mnews/article/011/0004638886?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/07/07/news-p.v1.20260706.0342a8599c93487c8fd59c94f8e479e7_R.jpeg"
         },
         {
           "title": "[더벨]삼성전자, 갤럭시 S26 생산 두 배 늘린다",
@@ -145,7 +154,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         },
         {
           "title": "[르포] 실차 없이 서킷 주행하고 금형 없이 뚝딱…현대차 남양연구소 R...",
@@ -168,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
-    },
-    {
       "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
       "url": "https://n.news.naver.com/mnews/article/015/0005307183?sid=101",
       "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
@@ -188,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
     },
     {
-      "title": "\"국산 AI 반도체 써보세요\"…전담 지원센터 개소",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715440",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1715440_744513_1434_v150.jpg"
+      "title": "AWS 공인 파트너 '노타', AI칩 최적화 서비스 출시",
+      "url": "https://n.news.naver.com/mnews/article/092/0002429601?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/07/07/3f1f46510a1e31a4024c733b007befce.jpg"
     },
     {
-      "title": "피시오, '국방 정보화 신기술 제안발표회'서 AI 기반 영상 실시간 최적...",
-      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206707",
-      "img": "https://cdn.kdpress.co.kr/news/photo/202607/206707_132858_83.jpg"
+      "title": "[WIKI 현장] '보이는 안전' 설계한 KCC…디자인·AI·도료로 산업안전 해...",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189454",
+      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189454_202006_5412_v150.jpg"
+    },
+    {
+      "title": "미래에셋증권, 글로벌 금융 애니메이션 '동물원정대2' 공개",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=256950",
+      "img": "https://cdn.finomy.com/news/thumbnail/202607/256950_251976_4918_v150.jpg"
     }
   ]
 };
