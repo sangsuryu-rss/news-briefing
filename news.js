@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.08 (수) 07:48",
+  "updatedAt": "2026.07.08 (수) 08:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "하나투어, 조좌진 신임 CEO 내정…프리미엄·인바운드·AI로 ‘제2 도약...",
-          "desc": "적극 활용해 일본과 동남아시아 관광객을 타깃으로 한 방한 여행 서비스를 강화하고, 하나투어를 대한민국 대표 인바운드 플랫폼으로 키우겠다는 구상이다. 이와 함께 데이터와 AI 기술을 접목해 상담, 상품 기획, 마케팅...",
-          "src": "sportsseoul",
+          "title": "플래티어 엑스젠, GS인증 1등급 획득",
+          "desc": "도입할 수 있는 최우선 선택지임을 객관적으로 증명한 결과”라며, “공공기관들이 우선구매 제도와 수의계약 등 제도적 혜택을 활용해 안정적인 업무 효율화를 이룰 수 있도록 공공 시장에 최적화된 에이전틱 AI...",
+          "src": "이데일리",
           "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/468/0001252382?sid=103",
-          "img": "https://file.sportsseoul.com/news/cms/2026/07/08/news-p.v1.20260708.20adafec9fbb4459916172267a00395a_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006325042?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800289.jpg"
         },
         {
-          "title": "AI 메모리 대란에 중국산 채택 확대 [메모리發 AI PC 시장 재편]",
-          "desc": "주요 PC 제조사들의 중국산 메모리 도입 검토에 이어 최근에는 애플이 중국 CXMT의 메모리 사용을 위해... CXMT의 메모리는 표준 제품으로 활용하기에 충분한 수준까지는 성숙했다는 평가를 받고 있다. 중국 내수...",
-          "src": "조선일보",
+          "title": "액체 냉각·보안까지 잡았다…삼성전자, 4나노 컨트롤러 탑재 PM1763 양산",
+          "desc": "양자 컴퓨터를 활용한 해킹 위협을 방어할 수 있는 PQC 암호화 알고리즘이 도입됐으며, 가상화 인프라에서 외부의 무단 개입을 차단하는 TDISP 기술을 통해 데이터 이동 경로의 안전성을 확보했다. 삼성전자...",
+          "src": "pointe",
           "date": "07/08",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165270",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165270_447001_5456_v150.jpg"
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=81521",
+          "img": "https://cdn.pointe.co.kr/news/photo/202607/81521_110564_2558.jpg"
         },
         {
-          "title": "\"AI· 반도체·바이오 등 국가전략기술사업 생산비용 15% 세액공제\" ... ...",
-          "desc": "이를 감안해 개정안은 AI, 반도체, 바이오 등 국가전략기술을 활용한 제품을 국내에서 생산하는 기업에 생산비용의 15%를 세액공제하는 생산세액공제 제도를 도입하는 것이 핵심이다. 미국과 중국 등 주요국이 생산 중심...",
-          "src": "핀포인트뉴스",
+          "title": "GS네오텍, 클라우드 보안 통합 플랫폼 '시큐리티 렌즈' 출시",
+          "desc": "최근 기업 IT 환경은 클라우드 전환과 AI 도입이 맞물리며 빠르게 복잡해지고 있다. 하이브리드 클라우드... 시큐리티 렌즈는 온톨로지 기반 자산 연결 관계 분석 기술을 적용해 인터넷에 노출된 자산부터 내부 핵심...",
+          "src": "머니투데이",
           "date": "07/08",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466343",
-          "img": "https://www.pinpointnews.co.kr/image/logo/snslogo_20221006054135.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005382894?sid=105",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026070808254926839_1.jpg"
         },
         {
-          "title": "세계로 퍼진 알리바바·바이트댄스 AI, 베이징이 해외접근 차단 검토",
-          "desc": "이어 6월 초에는 중국 투자자·기술·데이터가 관련된 해외 거래에 대한 정부 심사를 확대하는 규정이 새로 도입됐다. 중국 당국은 또 마누스를 비롯해 해외로 거점을 옮긴 자국 AI 스타트업들이 수출 통제 규정을...",
-          "src": "wikitree",
+          "title": "로봇 데이터부터 범용 모델까지…컨피그 “1년 내 세계 최고 모델 내놓...",
+          "desc": "피지컬 AI 기술 개발과 제조업 접목에 투자하고 있는 만큼, 컨피그 투자와 함께 기술적인 협업도 진행하고 있는 것으로 파악된다. LG그룹의 IT 계열사인 LG CNS와는 이미 공개적으로 협업하며 제조 현장의 로보틱스 도입에...",
+          "src": "매일경제",
           "date": "07/08",
-          "url": "https://www.wikitree.co.kr/articles/1145286",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/08/202607080653383359_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005704266?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/08/news-p.v1.20260707.da343473f08f4fe18df88e83b8da5369_R.jpg"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "07/02",
           "url": "https://www.theguru.co.kr/news/article.html?no=103837",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260727/art_17829481333298_18adfc.jpg"
         }
       ]
     }
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
     },
     {
-      "title": "하나투어, 조좌진 신임 CEO 내정…프리미엄·인바운드·AI로 ‘제2 도약...",
-      "url": "https://n.news.naver.com/mnews/article/468/0001252382?sid=103",
-      "img": "https://file.sportsseoul.com/news/cms/2026/07/08/news-p.v1.20260708.20adafec9fbb4459916172267a00395a_P1.jpg"
+      "title": "플래티어 엑스젠, GS인증 1등급 획득",
+      "url": "https://n.news.naver.com/mnews/article/018/0006325042?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800289.jpg"
     },
     {
-      "title": "AI 메모리 대란에 중국산 채택 확대 [메모리發 AI PC 시장 재편]",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165270",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165270_447001_5456_v150.jpg"
+      "title": "액체 냉각·보안까지 잡았다…삼성전자, 4나노 컨트롤러 탑재 PM1763 양산",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=81521",
+      "img": "https://cdn.pointe.co.kr/news/photo/202607/81521_110564_2558.jpg"
     }
   ]
 };
