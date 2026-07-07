@@ -1,0 +1,9 @@
+{
+  "show": true,
+  "icon": "🔗",
+  "title": "세림전자 업무 시스템",
+  "desc": "그룹웨어에서 메일·전자결재·일정을 확인하세요.",
+  "links": [
+    { "label": "📋 그룹웨어 바로가기", "url": "https://ngwx.ktbizoffice.com/LoginN.aspx?compid=selim04" }
+  ]
+}

@@ -77,6 +77,9 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner .fest-badge-wrap{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px}
 .festival-banner .fest-badge{font-size:11px;font-weight:700;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.3);border-radius:20px;padding:3px 10px;white-space:nowrap}
 .festival-banner .fest-badge.highlight{background:#ffd700;color:#1428a0;border-color:#ffd700}
+.festival-banner .fest-link-wrap{display:flex;flex-wrap:wrap;gap:8px;margin-top:9px}
+.festival-banner .fest-link{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;font-weight:800;background:#fff;color:#1428a0;border-radius:20px;padding:6px 15px;text-decoration:none;white-space:nowrap;box-shadow:0 1px 4px rgba(0,0,0,.15);transition:transform .12s,box-shadow .12s}
+.festival-banner .fest-link:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(0,0,0,.25)}
 .festival-banner .fest-dday{text-align:center;flex-shrink:0;background:rgba(255,255,255,.12);border-radius:10px;padding:8px 14px;border:1px solid rgba(255,255,255,.2)}
 .festival-banner .fest-dday .dday-label{font-size:10px;color:rgba(255,255,255,.7)}
 .festival-banner .fest-dday .dday-val{font-size:20px;font-weight:900;color:#ffd700;line-height:1.1}
@@ -153,6 +156,9 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
     var badges = (b.badges||[]).map(function(bd){
       return '<span class="fest-badge'+(bd.highlight?' highlight':'')+'">'+esc(bd.text)+'</span>';
     }).join('');
+    var links = (b.links||[]).map(function(lk){
+      return '<a class="fest-link" href="'+esc(lk.url)+'" target="_blank" rel="noopener">'+esc(lk.label)+'</a>';
+    }).join('');
     var ddayHtml = '';
     if(b.dday){
       var end2 = new Date(b.dday.date + 'T23:59:59+09:00');
@@ -169,6 +175,7 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
           '<div class="fest-title">'+esc(b.title||'')+'</div>'+
           '<div class="fest-desc">'+esc(b.desc||'')+'</div>'+
           (badges?'<div class="fest-badge-wrap">'+badges+'</div>':'')+
+          (links?'<div class="fest-link-wrap">'+links+'</div>':'')+
         '</div>'+ ddayHtml +
       '</div>';
   })();
