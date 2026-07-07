@@ -1,0 +1,12 @@
+{
+  "show": true,
+  "icon": "🎉",
+  "title": "👑 삼성전자 \"국민과 함께, 감사 페스티벌\" 진행 중",
+  "desc": "행사 기간: 2026년 6월 8일(월) ~ 7월 5일(일) · 삼성 공식 온·오프라인 매장 전체 적용",
+  "badges": [
+    { "text": "구매금액 20% 온누리상품권 증정", "highlight": true },
+    { "text": "K-Hero 추가 10% 할인", "highlight": false },
+    { "text": "AI 구독클럽 멤버십 포인트 지원", "highlight": false }
+  ],
+  "dday": { "label": "행사 종료까지", "date": "2026-07-05", "dateText": "~7월 5일" }
+}

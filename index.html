@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css">
+<title>세림전자 뉴스 브리핑</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,"Apple SD Gothic Neo","Malgun Gothic","Segoe UI",sans-serif;background:#f4f5f7;color:#1a1a1a;line-height:1.5}
+.wrap{max-width:1380px;margin:0 auto;padding:20px 16px 60px}
+header.top{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;padding-bottom:14px;margin-bottom:16px;border-bottom:3px solid #1428a0}
+header.top h1{font-size:23px;font-weight:800;color:#1428a0;letter-spacing:-.5px}
+header.top .date{font-size:13px;color:#666}
+.page-layout{display:grid;grid-template-columns:1fr 310px;gap:22px;align-items:start}
+@media(max-width:880px){.page-layout{grid-template-columns:1fr}.side-col{order:-1}}
+.section-title{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:700;margin:24px 0 12px;padding-left:10px;border-left:5px solid #1428a0}
+.section-title.ai{border-left-color:#00a86b}.section-title.harness{border-left-color:#e8842c}.section-title.partner{border-left-color:#7b3fe4}
+.section-title .badge{font-size:11px;font-weight:600;color:#fff;background:#1428a0;padding:2px 8px;border-radius:10px}
+.section-title.ai .badge{background:#00a86b}.section-title.harness .badge{background:#e8842c}.section-title.partner .badge{background:#7b3fe4}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08);text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s;border:1px solid #eaeaea}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
+.thumb{width:100%;height:140px;object-fit:cover;background:#e8eaf0;display:block}
+.thumb-ph{display:flex;align-items:center;justify-content:center;font-size:44px;color:#fff}
+.card-body{padding:10px 12px 12px;display:flex;flex-direction:column;flex:1}
+.card-title{font-size:13.5px;font-weight:700;line-height:1.4;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-desc{font-size:12px;color:#555;flex:1;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{margin-top:8px;font-size:11px;color:#999}
+.card-meta .src{color:#1428a0;font-weight:600}
+.sec-ai .card-meta .src{color:#00a86b}.sec-harness .card-meta .src{color:#e8842c}.sec-partner .card-meta .src{color:#7b3fe4}
+.side-col{display:flex;flex-direction:column;gap:14px;position:sticky;top:16px}
+.widget{background:#fff;border-radius:14px;box-shadow:0 1px 4px rgba(0,0,0,.09);border:1px solid #eaeaea;overflow:hidden}
+.widget-hd{display:flex;align-items:center;justify-content:space-between;padding:11px 14px;border-bottom:1px solid #f0f0f0;background:#fafafa}
+.widget-hd h2{font-size:13.5px;font-weight:800;color:#1a1a1a}
+.widget-hd .time-tag{font-size:10px;color:#999;background:#f0f0f0;padding:2px 7px;border-radius:8px}
+.w-card{padding:18px 16px 14px;color:#fff;border-radius:0}
+.w-card .w-top{display:flex;align-items:flex-start;justify-content:space-between}
+.w-card .w-left .w-loc-label{font-size:11px;opacity:.75;margin-bottom:5px}
+.w-card .w-left .w-temp{font-size:50px;font-weight:900;line-height:1;letter-spacing:-2px}
+.w-card .w-left .w-temp span{font-size:22px;font-weight:400;opacity:.85}
+.w-card .w-left .w-desc{font-size:13px;font-weight:600;margin-top:5px;opacity:.95}
+.w-card .w-right{text-align:right}
+.w-card .w-right i{font-size:68px;opacity:.92;filter:drop-shadow(0 3px 8px rgba(0,0,0,.2))}
+.w-card .w-right .w-time{font-size:10px;opacity:.65;margin-top:5px}
+.w-stats{display:grid;grid-template-columns:repeat(2,1fr);gap:6px;margin-top:14px}
+.w-stat{background:rgba(255,255,255,.22);border-radius:9px;padding:8px 6px;text-align:center;backdrop-filter:blur(4px)}
+.w-stat .s-lbl{font-size:10px;opacity:.78}
+.w-stat .s-val{font-size:14px;font-weight:800;margin-top:2px}
+.w-week-hd{font-size:11px;font-weight:700;color:#666;padding:10px 12px 0}
+.w-week{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;padding:8px 6px 12px;background:#fff}
+.w-week .wk-day{text-align:center;padding:4px 1px;border-radius:8px}
+.w-week .wk-day.today{background:#eef2f7}
+.w-week .wk-dow{font-size:10px;color:#8a93a2;margin-bottom:3px}
+.w-week .wk-day.today .wk-dow{color:#1428a0;font-weight:800}
+.w-week .wk-ico{font-size:17px;color:#3a3f47;line-height:1}
+.w-week .wk-tmax{font-size:11px;font-weight:800;color:#1a1a1a;margin-top:5px}
+.w-week .wk-tmin{font-size:10px;color:#aab0bb;margin-top:1px}
+.rank-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:#ebebeb}
+.rank-item{background:#fff;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:background .12s}
+.rank-item:hover{background:#f8f9fd}
+.rank-img-wrap{position:relative;width:100%;padding-top:68%;overflow:hidden;background:#e8eaf0}
+.rank-img-wrap img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover}
+.rank-img-ph{position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:26px;color:#fff}
+.rank-num{position:absolute;bottom:5px;left:5px;min-width:22px;height:22px;border-radius:11px;padding:0 5px;background:rgba(20,40,160,.85);color:#fff;font-size:12px;font-weight:800;display:flex;align-items:center;justify-content:center;z-index:2}
+.rank-num.t3{background:#d4880a}
+.rank-ttl{padding:6px 8px 8px;font-size:11.5px;font-weight:600;line-height:1.4;color:#1a1a1a;word-break:keep-all}
+.rank-more{padding:7px 12px;text-align:right;background:#fafafa;border-top:1px solid #f0f0f0}
+.rank-more a{font-size:11px;color:#1428a0;text-decoration:none;font-weight:600}
+footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
+.festival-banner{display:flex;align-items:center;gap:14px;background:linear-gradient(135deg,#1428a0 0%,#0d1e7a 100%);color:#fff;border-radius:14px;padding:14px 18px;margin-bottom:18px;box-shadow:0 2px 10px rgba(20,40,160,.25)}
+.festival-banner .fest-icon{font-size:30px;flex-shrink:0}
+.festival-banner .fest-body{flex:1}
+.festival-banner .fest-title{font-size:15px;font-weight:800;letter-spacing:-.3px;margin-bottom:3px}
+.festival-banner .fest-desc{font-size:12px;color:rgba(255,255,255,.82);line-height:1.5}
+.festival-banner .fest-badge-wrap{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px}
+.festival-banner .fest-badge{font-size:11px;font-weight:700;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.3);border-radius:20px;padding:3px 10px;white-space:nowrap}
+.festival-banner .fest-badge.highlight{background:#ffd700;color:#1428a0;border-color:#ffd700}
+.festival-banner .fest-dday{text-align:center;flex-shrink:0;background:rgba(255,255,255,.12);border-radius:10px;padding:8px 14px;border:1px solid rgba(255,255,255,.2)}
+.festival-banner .fest-dday .dday-label{font-size:10px;color:rgba(255,255,255,.7)}
+.festival-banner .fest-dday .dday-val{font-size:20px;font-weight:900;color:#ffd700;line-height:1.1}
+.festival-banner .fest-dday .dday-date{font-size:10px;color:rgba(255,255,255,.6);margin-top:2px}
+.data-error{background:#fff3f3;border:1px solid #ffd0d0;color:#c0392b;border-radius:12px;padding:16px 18px;font-size:13px;margin-bottom:18px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <h1>☀️ 세림전자 뉴스 브리핑</h1>
+  <span class="date" id="hd-date">불러오는 중...</span>
+</header>
+
+<div id="banner-slot"></div>
+
+<div class="page-layout">
+<main class="main-col" id="main-col">
+  <div style="padding:40px;text-align:center;color:#bbb;font-size:13px">뉴스를 불러오는 중...</div>
+</main>
+
+<aside class="side-col">
+
+<div class="widget" style="overflow:hidden">
+  <div id="weather-content">
+    <div style="padding:24px;color:#bbb;font-size:12px;text-align:center">날씨 정보 불러오는 중...</div>
+  </div>
+  <div id="weather-week"></div>
+</div>
+
+<div class="widget">
+  <div class="widget-hd">
+    <h2>📰 오늘의 주요 뉴스</h2>
+    <span class="time-tag" id="rank-time">기준</span>
+  </div>
+  <div class="rank-grid" id="rank-grid"></div>
+  <div class="rank-more"><a href="https://search.naver.com/search.naver?where=news&query=삼성전자+협력사" target="_blank" rel="noopener">전체 뉴스 보기 →</a></div>
+</div>
+</aside>
+</div>
+
+<footer class="foot">세림전자 경영지원팀 &middot; AI 뉴스 브리핑 시스템 &middot; 데이터: 네이버 뉴스 검색</footer>
+</div>
+
+<!-- 뉴스 데이터 (collect.py 가 매일 자동 생성) -->
+<script src="news.js"></script>
+
+<!-- 화면 렌더링 -->
+<script>
+(function(){
+  var D = window.NEWS_DATA;
+  function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
+
+  if(!D || !D.sections){
+    document.getElementById('main-col').innerHTML =
+      '<div class="data-error">뉴스 데이터(news.js)를 불러오지 못했습니다. 수집기(collect.py)가 정상 실행됐는지 확인해 주세요.</div>';
+    return;
+  }
+
+  // 상단 날짜
+  document.getElementById('hd-date').textContent = '['+ (D.updatedAt||'') +'] 기준 · 데이터: 네이버 뉴스';
+  document.getElementById('rank-time').textContent = (D.updatedAt||'').split(' ').slice(-1)[0] + ' 기준';
+
+  // 배너 (편집형 - 있을 때만)
+  (function(){
+    var slot = document.getElementById('banner-slot');
+    var b = D.banner;
+    if(!b || !b.show){ return; }
+    // 종료일 지나면 자동 숨김
+    if(b.dday && b.dday.date){
+      var end = new Date(b.dday.date + 'T23:59:59+09:00');
+      if(new Date() > end){ return; }
+    }
+    var badges = (b.badges||[]).map(function(bd){
+      return '<span class="fest-badge'+(bd.highlight?' highlight':'')+'">'+esc(bd.text)+'</span>';
+    }).join('');
+    var ddayHtml = '';
+    if(b.dday){
+      var end2 = new Date(b.dday.date + 'T23:59:59+09:00');
+      var diff = Math.ceil((end2 - new Date())/(1000*60*60*24));
+      var dval = diff===0 ? 'D-Day' : 'D-'+diff;
+      ddayHtml = '<div class="fest-dday"><div class="dday-label">'+esc(b.dday.label||'')+'</div>'+
+                 '<div class="dday-val">'+dval+'</div>'+
+                 '<div class="dday-date">'+esc(b.dday.dateText||'')+'</div></div>';
+    }
+    slot.innerHTML =
+      '<div class="festival-banner">'+
+        '<div class="fest-icon">'+esc(b.icon||'📢')+'</div>'+
+        '<div class="fest-body">'+
+          '<div class="fest-title">'+esc(b.title||'')+'</div>'+
+          '<div class="fest-desc">'+esc(b.desc||'')+'</div>'+
+          (badges?'<div class="fest-badge-wrap">'+badges+'</div>':'')+
+        '</div>'+ ddayHtml +
+      '</div>';
+  })();
+
+  // 뉴스 카드 썸네일 (이미지 없으면 색상 플레이스홀더)
+  function thumb(item, color, icon){
+    if(item.img){
+      return '<img class="thumb" referrerpolicy="no-referrer" src="'+esc(item.img)+'" '+
+             'onerror="this.outerHTML=\'<div class=&quot;thumb thumb-ph&quot; style=&quot;background:'+color+'&quot;>'+icon+'</div>\'">';
+    }
+    return '<div class="thumb thumb-ph" style="background:linear-gradient(135deg,'+color+',#0d1e7a)">'+icon+'</div>';
+  }
+
+  // 섹션 렌더
+  var secClsMap = {'ai':'sec-ai','harness':'sec-harness','partner':'sec-partner','':''};
+  var html = '';
+  D.sections.forEach(function(sec){
+    var color = sec.color || '#1428a0';
+    var icon = sec.icon || '📰';
+    var cards = (sec.items||[]).map(function(it){
+      return '<a class="card" href="'+esc(it.url)+'" target="_blank" rel="noopener">'+
+               thumb(it, color, icon)+
+               '<div class="card-body">'+
+                 '<div class="card-title">'+esc(it.title)+'</div>'+
+                 '<div class="card-desc">'+esc(it.desc)+'</div>'+
+                 '<div class="card-meta"><span class="src">'+esc(it.src)+'</span> · '+esc(it.date)+'</div>'+
+               '</div></a>';
+    }).join('');
+    html += '<section class="sec '+(secClsMap[sec.cls]||'')+'">'+
+              '<div class="section-title '+esc(sec.cls)+'"><span>'+esc(icon+' '+sec.title)+'</span>'+
+              '<span class="badge">'+(sec.items||[]).length+'건</span></div>'+
+              '<div class="grid">'+cards+'</div>'+
+            '</section>';
+  });
+  document.getElementById('main-col').innerHTML = html;
+
+  // 오늘의 주요 뉴스 (랭킹)
+  var rg = document.getElementById('rank-grid');
+  (D.ranking||[]).slice(0,6).forEach(function(it, i){
+    var n = i+1;
+    var imgHtml = it.img
+      ? '<img referrerpolicy="no-referrer" src="'+esc(it.img)+'">'
+      : '<div class="rank-img-ph" style="background:linear-gradient(135deg,#1428a0,#0d1e7a)">📰</div>';
+    var a = document.createElement('a');
+    a.className = 'rank-item'; a.href = it.url; a.target='_blank'; a.rel='noopener';
+    a.innerHTML = '<div class="rank-img-wrap">'+imgHtml+'<span class="rank-num'+(n<=3?' t3':'')+'">'+n+'</span></div>'+
+                  '<div class="rank-ttl">'+esc(it.title)+'</div>';
+    rg.appendChild(a);
+  });
+})();
+</script>
+
+<!-- 날씨 위젯 (wttr.in 실시간, 기존과 동일) -->
+<script>
+(async function(){
+  const wiMap={113:'wi-day-sunny',116:'wi-day-sunny-overcast',119:'wi-day-cloudy',122:'wi-cloudy',143:'wi-fog',176:'wi-showers',179:'wi-snow',182:'wi-sleet',200:'wi-thunderstorm',227:'wi-snow',230:'wi-snow-wind',248:'wi-fog',260:'wi-fog',263:'wi-sprinkle',266:'wi-sprinkle',293:'wi-rain',296:'wi-rain',299:'wi-showers',302:'wi-rain',305:'wi-rain',308:'wi-rain-wind',353:'wi-showers',356:'wi-showers',386:'wi-thunderstorm',389:'wi-storm-showers'};
+  const descMap={113:'맑음',116:'구름 조금',119:'구름 많음',122:'흐림',143:'안개',176:'비',179:'눈',182:'진눈깨비',200:'뇌우',227:'눈',230:'폭설',248:'안개',260:'안개',263:'이슬비',266:'이슬비',293:'비',296:'비',299:'소나기',302:'비',305:'비',308:'폭우',353:'소나기',356:'소나기',386:'뇌우',389:'뇌우'};
+  function getGrad(code){
+    if(code===113) return 'linear-gradient(135deg,#f7971e 0%,#ffd200 100%)';
+    if(code===116) return 'linear-gradient(135deg,#4facfe 0%,#00c6fb 100%)';
+    if(code<=122) return 'linear-gradient(135deg,#4A90D9 0%,#74b9e8 100%)';
+    if(code<=260) return 'linear-gradient(135deg,#6B7B8D 0%,#9AABB8 100%)';
+    if(code<=308) return 'linear-gradient(135deg,#2c3e7a 0%,#4a69bd 100%)';
+    if(code<=377) return 'linear-gradient(135deg,#74ebd5 0%,#ACB6E5 100%)';
+    return 'linear-gradient(135deg,#1a1a2e 0%,#374785 100%)';
+  }
+  function renderFallback(){
+    document.getElementById('weather-content').innerHTML='<a href="https://wttr.in/Gwangju?lang=ko" target="_blank" rel="noopener" style="display:block;line-height:0"><img src="https://wttr.in/Gwangju_1.png?lang=ko&m" style="width:100%;display:block" referrerpolicy="no-referrer"></a>';
+  }
+  try{
+    const r = await fetch('https://wttr.in/Gwangju?format=j1');
+    if(!r.ok) throw new Error('fail');
+    const d = await r.json();
+    const c = d.current_condition[0];
+    const code = parseInt(c.weatherCode);
+    const temp = c.temp_C;
+    const feel = c.FeelsLikeC;
+    const hum = c.humidity;
+    const wind = c.windspeedKmph;
+    const desc = descMap[code] || c.weatherDesc[0].value;
+    const wiClass = wiMap[code] || 'wi-day-cloudy';
+    const grad = getGrad(code);
+    const now = new Date();
+    const timeStr = now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
+    const rain = d.weather && d.weather[0] && d.weather[0].hourly ? (() => {
+      const h = now.getHours();
+      const slot = d.weather[0].hourly.find(x => parseInt(x.time)/100 <= h) || d.weather[0].hourly[0];
+      return slot ? slot.chanceofrain : '-';
+    })() : '-';
+    document.getElementById('weather-content').innerHTML=
+      '<div class="w-card" style="background:'+grad+'">'+
+      '<div class="w-top"><div class="w-left">'+
+      '<div class="w-loc-label">📍 광주 | 현재 날씨</div>'+
+      '<div class="w-temp">'+temp+'<span>°C</span></div>'+
+      '<div class="w-desc">'+desc+'</div></div>'+
+      '<div class="w-right"><i class="wi '+wiClass+'"></i>'+
+      '<div class="w-time">'+timeStr+' 기준</div></div></div>'+
+      '<div class="w-stats">'+
+      '<div class="w-stat"><div class="s-lbl">체감온도</div><div class="s-val">'+feel+'°</div></div>'+
+      '<div class="w-stat"><div class="s-lbl">습도</div><div class="s-val">'+hum+'%</div></div>'+
+      '<div class="w-stat"><div class="s-lbl">풍속</div><div class="s-val">'+wind+'km/h</div></div>'+
+      '<div class="w-stat"><div class="s-lbl">🌧 강수확률</div><div class="s-val">'+rain+'%</div></div>'+
+      '</div></div>';
+  }catch(e){ renderFallback(); }
+})();
+
+// 이번주 날씨 예보 (open-meteo, 무료·키불필요). 실패 시 조용히 생략.
+(async function(){
+  var box = document.getElementById('weather-week');
+  if(!box) return;
+  function wmoIcon(c){
+    if(c===0) return 'wi-day-sunny';
+    if(c<=2) return 'wi-day-cloudy';
+    if(c===3) return 'wi-cloudy';
+    if(c===45||c===48) return 'wi-fog';
+    if(c>=51 && c<=57) return 'wi-sprinkle';
+    if(c>=61 && c<=67) return 'wi-rain';
+    if(c>=71 && c<=77) return 'wi-snow';
+    if(c>=80 && c<=82) return 'wi-showers';
+    if(c>=85 && c<=86) return 'wi-snow';
+    if(c>=95) return 'wi-thunderstorm';
+    return 'wi-day-cloudy';
+  }
+  try{
+    var url='https://api.open-meteo.com/v1/forecast?latitude=35.16&longitude=126.85'+
+            '&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=Asia%2FSeoul&forecast_days=7';
+    var r = await fetch(url);
+    if(!r.ok) throw new Error('fail');
+    var d = (await r.json()).daily;
+    var dows = ['일','월','화','수','목','금','토'];
+    var html = '<div class="w-week-hd">📅 이번주 광주 날씨</div><div class="w-week">';
+    for(var i=0; i<d.time.length; i++){
+      var dt = new Date(d.time[i]+'T00:00:00+09:00');
+      var dow = (i===0) ? '오늘' : dows[dt.getDay()];
+      html += '<div class="wk-day'+(i===0?' today':'')+'">'+
+                '<div class="wk-dow">'+dow+'</div>'+
+                '<i class="wi '+wmoIcon(d.weathercode[i])+' wk-ico"></i>'+
+                '<div class="wk-tmax">'+Math.round(d.temperature_2m_max[i])+'°</div>'+
+                '<div class="wk-tmin">'+Math.round(d.temperature_2m_min[i])+'°</div>'+
+              '</div>';
+    }
+    html += '</div>';
+    box.innerHTML = html;
+  }catch(e){ /* 주간예보 실패 시 생략 */ }
+})();
+</script>
+</body>
+</html>
