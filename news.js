@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.08 (수) 08:30",
+  "updatedAt": "2026.07.08 (수) 08:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
-          "desc": "삼성전자는 비스포크 AI, 고효율 가전, 초대형·프리미엄 TV 등 고부가 제품군 중심으로 제품 믹스 개선에 나설 전망이다. 저수익 제품군은 줄이고 AI 기능과 에너지 효율, 연결 경험을 앞세워 방어에 집중할 것으로...",
-          "src": "전자신문",
+          "title": "일상의 품격 높인 혁신·건강·디테일…고객 마음을 열다",
+          "desc": "출시 2년 만에 신혼부부를 위한 필수 가전으로 자리 잡으며 작년 판매량이 전년 대비 40%가량 늘었다. 기존 모델보다 최대 두 배 더 강력한 흡입력을 갖춘 삼성전자의 ‘비스포크 AI 스팀’ 로봇청소기 역시 우수 제품...",
+          "src": "한국경제",
           "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005307211?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/AA.44941496.1.jpg"
         },
         {
           "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
         },
         {
-          "title": "LG전자 - 건조 용량 25㎏까지 확대 / 삼성전자 - ‘비스포크’로 AI 가전...",
-          "desc": "삼성전자는 ‘비스포크 AI 건조기’를 중심으로 AI 가전 선도 이미지를 구축했다. 내부 온도와 습도를 주기적으로 감지해 건조 시간과 에너지를 줄여주는 ‘AI 맞춤건조’ 기능과 직접 관리형 열교환기 등으로...",
-          "src": "조선일보",
-          "date": "07/06",
-          "url": "https://n.news.naver.com/mnews/article/023/0003985861?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
+          "title": "크룹스, 가로폭 15cm 초슬림 '커피 크러쉬' 선보여...국내 출시 기념 프...",
+          "desc": "삼성전자도 지난해 협소한 공간에서도 쓸 수 있는 경량 무선청소기 '비스포크 제트 AI 라이트'를 선보였다. 1인가구가 늘어나면서 소형 가전이 주력 제품군으로 자리 잡고 있다는 평가가 나온다.▲초슬림 전자동...",
+          "src": "소비자가만드는신문",
+          "date": "07/07",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=758868",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/758868_314872_3855_v150.jpg"
         },
         {
-          "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
-          "desc": "삼성닷컴 방문자 수도 200% 이상 증가했다. 행사 기간 소비자들이 가장 많이 선택한 제품은 스마트폰과 세탁기, 냉장고, TV, 에어컨 등이다. 신혼 필수 가전으로 꼽히는 ‘비스포크 AI 스팀’ 로봇청소기는 구독으로...",
-          "src": "이데일리",
-          "date": "07/05",
-          "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
+          "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
+          "desc": "삼성전자는 비스포크 AI, 고효율 가전, 초대형·프리미엄 TV 등 고부가 제품군 중심으로 제품 믹스 개선에 나설 전망이다. 저수익 제품군은 줄이고 AI 기능과 에너지 효율, 연결 경험을 앞세워 방어에 집중할 것으로...",
+          "src": "전자신문",
+          "date": "07/07",
+          "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "플래티어 엑스젠, GS인증 1등급 획득",
-          "desc": "도입할 수 있는 최우선 선택지임을 객관적으로 증명한 결과”라며, “공공기관들이 우선구매 제도와 수의계약 등 제도적 혜택을 활용해 안정적인 업무 효율화를 이룰 수 있도록 공공 시장에 최적화된 에이전틱 AI...",
+          "title": "개방형 AI 모델 공세 속...앤트로픽, 타격 덜 받는다?",
+          "desc": "대규모로 활용하는 '생산' 단계를 맡게 될 것으로 내다봤다. AI 시장 자체가 커지는 만큼 최상위 모델들도 지속적인 수요를 확보할 수 있다는 것이다. 또 기업들이 개방형 모델을 도입하더라도 고난도 작업에서는 여전히...",
+          "src": "choicenews",
+          "date": "07/08",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=167789",
+          "img": "https://cdn.choicenews.co.kr/news/thumbnail/202607/167789_127744_2211_v150.jpg"
+        },
+        {
+          "title": "안산시, 행안부 '국가 AI 프로젝트' 최종 선정…'스마트 도시' 박차",
+          "desc": "[사진=안산시] 경기 안산시가 행정안전부 주관 국가 AI 프로젝트에 선정되면서 인공지능(AI)을 활용한 행정... 특히, 재난·안전 분야를 중심으로 공공서비스 전반에 AI 기술과 데이터 분석 기법을 도입해, 재난 위험을 사전...",
+          "src": "joongangenews",
+          "date": "07/08",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=531304",
+          "img": "https://cdn.joongangenews.com/news/photo/202607/531304_336402_3340.jpg"
+        },
+        {
+          "title": "크리스피크림, 수제 장식 도넛으로 반등 노린다",
+          "desc": "회사는 제조 공정에 인공지능을 도입하고, 연결 기술을 활용해 기계 문제를 진단하는 방식을 추진하고 있다. 대량생산과 설비 운영에서는 자동화와 데이터 활용을 강화하지만, 소비자 눈에 보이는 장식 공정에서는 사람...",
+          "src": "한국경제",
+          "date": "07/08",
+          "url": "https://n.news.naver.com/mnews/article/015/0005307475?sid=103",
+          "img": "https://img.hankyung.com/photo/202607/01.44957411.1.jpg"
+        },
+        {
+          "title": "\"AI 투자 새 국면…개발에서 확산으로, 반도체 밖 투자처 넓어진다\"",
+          "desc": "지역별로는 하드웨어 구축이 앞선 미국과 아시아가 AI 투자 초기 수혜를, 실제 도입과 확산이 본격화되는... 뱅상 모르티에(Vincent Mortier) 아문디 그룹 최고투자책임자(CIO)는 “AI 투자의 관건이 기술을 선도적으로...",
           "src": "이데일리",
           "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/018/0006325042?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800289.jpg"
-        },
-        {
-          "title": "액체 냉각·보안까지 잡았다…삼성전자, 4나노 컨트롤러 탑재 PM1763 양산",
-          "desc": "양자 컴퓨터를 활용한 해킹 위협을 방어할 수 있는 PQC 암호화 알고리즘이 도입됐으며, 가상화 인프라에서 외부의 무단 개입을 차단하는 TDISP 기술을 통해 데이터 이동 경로의 안전성을 확보했다. 삼성전자...",
-          "src": "pointe",
-          "date": "07/08",
-          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=81521",
-          "img": "https://cdn.pointe.co.kr/news/photo/202607/81521_110564_2558.jpg"
-        },
-        {
-          "title": "GS네오텍, 클라우드 보안 통합 플랫폼 '시큐리티 렌즈' 출시",
-          "desc": "최근 기업 IT 환경은 클라우드 전환과 AI 도입이 맞물리며 빠르게 복잡해지고 있다. 하이브리드 클라우드... 시큐리티 렌즈는 온톨로지 기반 자산 연결 관계 분석 기술을 적용해 인터넷에 노출된 자산부터 내부 핵심...",
-          "src": "머니투데이",
-          "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/008/0005382894?sid=105",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026070808254926839_1.jpg"
-        },
-        {
-          "title": "로봇 데이터부터 범용 모델까지…컨피그 “1년 내 세계 최고 모델 내놓...",
-          "desc": "피지컬 AI 기술 개발과 제조업 접목에 투자하고 있는 만큼, 컨피그 투자와 함께 기술적인 협업도 진행하고 있는 것으로 파악된다. LG그룹의 IT 계열사인 LG CNS와는 이미 공개적으로 협업하며 제조 현장의 로보틱스 도입에...",
-          "src": "매일경제",
-          "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/009/0005704266?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/08/news-p.v1.20260707.da343473f08f4fe18df88e83b8da5369_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006325073?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800332.jpg"
         }
       ]
     },
@@ -101,20 +101,12 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "파업·DX부진·대규모 투자부담…최대실적에도 웃지 못하는 삼성",
-          "desc": "커지는 대내외 경고음 성과급 놓고 노사 불씨 남아 425조 투자재원 마련도 변수 삼성전자가 인공지능(AI)... 반도체 협력사 유치, 전문 인력 확보 등 해결해야 할 과제가 적지 않다. 업계에서는 단순히 공장을 짓는 것을...",
-          "src": "매일경제",
-          "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/009/0005704130?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/08/20260708_01160103000002_L00.jpg"
-        },
-        {
-          "title": "현대차그룹, 협력사와 상생협력 강화...미래 모빌리티 경쟁력 높인다",
-          "desc": "첨단부품 협력사를 육성한다. 현대오토에버는 AI 교육과 소프트웨어 역량 강화 프로그램을 운영하며... 1차 협력사를 넘어 공급망 전반으로 상생 지원을 확대하고 있다. 앞서 삼성은 지난달 29일 삼성전자...",
-          "src": "econonews",
-          "date": "07/07",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440845",
-          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440845_372491_735_v150.jpg"
+          "title": "반도체도 자동차도 ‘속도 조절’…키움證, 삼성전자·현대차 목표가 하...",
+          "desc": "키움증권이 삼성전자와 현대차의 목표주가를 나란히 낮췄다. 메모리 업황에 대한 기대치가 다소 낮아진... 국내 공장과 협력사의 연이은 화재에 따른 생산 차질이 판매 부진으로 이어진 데다 원·달러 및 원·유로 환율...",
+          "src": "서울경제",
+          "date": "07/08",
+          "url": "https://n.news.naver.com/mnews/article/011/0004639262?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/07/08/rcv.NEWS1.NEWS1.20260707.2026-07-07T160524_1007996478_FINANCE-STOCK_I_R.jpg"
         },
         {
           "title": "100대 기업 경제기여액 1731조원…삼성전자 177조 '1위'",
@@ -123,6 +115,14 @@ window.NEWS_DATA = {
           "date": "07/08",
           "url": "https://www.sjsori.com/news/articleView.html?idxno=87419",
           "img": "https://cdn.sjsori.com/news/photo/202607/87419_108758_3532.jpg"
+        },
+        {
+          "title": "파업·DX부진·대규모 투자부담…최대실적에도 웃지 못하는 삼성",
+          "desc": "커지는 대내외 경고음 성과급 놓고 노사 불씨 남아 425조 투자재원 마련도 변수 삼성전자가 인공지능(AI)... 반도체 협력사 유치, 전문 인력 확보 등 해결해야 할 과제가 적지 않다. 업계에서는 단순히 공장을 짓는 것을...",
+          "src": "매일경제",
+          "date": "07/07",
+          "url": "https://n.news.naver.com/mnews/article/009/0005704130?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/08/20260708_01160103000002_L00.jpg"
         },
         {
           "title": "재계, 상생 생태계 1·2·3차 협력사까지 넓힌다",
@@ -149,12 +149,12 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
         },
         {
-          "title": "효성화학, 고순도 수소 생산 핵심 소재 국산화 앞당긴다…시장 선점 가...",
-          "desc": "친환경 완성차 브랜드의 견고한 판매 실적에 기반해 대형 완성차 제조사인 기아와 전장 제어 부품 전문사인... 수소 충전소용 고순도 수소 공급망을 확보한 풍국주정과 차량용 와이어링 하네스를 다루는 티에이치엔 역시...",
-          "src": "핀포인트뉴스",
-          "date": "07/03",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465387",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/465387_453842_1927_v150.jpg"
+          "title": "아스팔트 질감까지 데이터로…현대차·기아 '1㎜ 가상도로' 신차 검증 [...",
+          "desc": "대신 테스트벤치 위에 제어기와 전장 부품, 와이어링 하네스가 실제 차량처럼 연결돼 있었다. 차체는 없지만 차량의 전기·전자 시스템은 실물 하드웨어로 구현된 구조다. 자동차가 SDV로 바뀌면서 개별 부품의...",
+          "src": "데일리안",
+          "date": "07/02",
+          "url": "https://n.news.naver.com/mnews/article/119/0003107053?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
         },
         {
           "title": "'첨단車 개발 전진기지' …현대차·기아 남양기술연구소",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
+      "title": "일상의 품격 높인 혁신·건강·디테일…고객 마음을 열다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005307211?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/AA.44941496.1.jpg"
     },
     {
       "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
     },
     {
-      "title": "LG전자 - 건조 용량 25㎏까지 확대 / 삼성전자 - ‘비스포크’로 AI 가전...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985861?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
+      "title": "크룹스, 가로폭 15cm 초슬림 '커피 크러쉬' 선보여...국내 출시 기념 프...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=758868",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202607/758868_314872_3855_v150.jpg"
     },
     {
-      "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
-      "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
+      "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
     },
     {
-      "title": "플래티어 엑스젠, GS인증 1등급 획득",
-      "url": "https://n.news.naver.com/mnews/article/018/0006325042?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800289.jpg"
+      "title": "개방형 AI 모델 공세 속...앤트로픽, 타격 덜 받는다?",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=167789",
+      "img": "https://cdn.choicenews.co.kr/news/thumbnail/202607/167789_127744_2211_v150.jpg"
     },
     {
-      "title": "액체 냉각·보안까지 잡았다…삼성전자, 4나노 컨트롤러 탑재 PM1763 양산",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=81521",
-      "img": "https://cdn.pointe.co.kr/news/photo/202607/81521_110564_2558.jpg"
+      "title": "안산시, 행안부 '국가 AI 프로젝트' 최종 선정…'스마트 도시' 박차",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=531304",
+      "img": "https://cdn.joongangenews.com/news/photo/202607/531304_336402_3340.jpg"
     }
   ]
 };
