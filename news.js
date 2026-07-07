@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.08 (수) 07:25",
+  "updatedAt": "2026.07.08 (수) 07:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -26,7 +26,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/07",
           "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
         },
         {
           "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[스타트UP] 뇌 전용 PET 넘어 암·치매 진단까지…브라이토닉스이미징 ...",
-          "desc": "최신 디지털 PET 장비는 뛰어난 성능을 제공하지만, 높은 가격으로 인해 의료기관의 도입 부담이 크다는... 기술과 AI 기반 영상처리 기술을 활용해 프리미엄 장비와 경쟁할 수 있는 성능을 확보하면서도 시스템 비용은...",
+          "title": "하나투어, 조좌진 신임 CEO 내정…프리미엄·인바운드·AI로 ‘제2 도약...",
+          "desc": "적극 활용해 일본과 동남아시아 관광객을 타깃으로 한 방한 여행 서비스를 강화하고, 하나투어를 대한민국 대표 인바운드 플랫폼으로 키우겠다는 구상이다. 이와 함께 데이터와 AI 기술을 접목해 상담, 상품 기획, 마케팅...",
+          "src": "sportsseoul",
+          "date": "07/08",
+          "url": "https://n.news.naver.com/mnews/article/468/0001252382?sid=103",
+          "img": "https://file.sportsseoul.com/news/cms/2026/07/08/news-p.v1.20260708.20adafec9fbb4459916172267a00395a_P1.jpg"
+        },
+        {
+          "title": "AI 메모리 대란에 중국산 채택 확대 [메모리發 AI PC 시장 재편]",
+          "desc": "주요 PC 제조사들의 중국산 메모리 도입 검토에 이어 최근에는 애플이 중국 CXMT의 메모리 사용을 위해... CXMT의 메모리는 표준 제품으로 활용하기에 충분한 수준까지는 성숙했다는 평가를 받고 있다. 중국 내수...",
           "src": "조선일보",
           "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/366/0001177478?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/372G3VXKCFCVTKVLBLNBSHAZLU.jpg?auth=07ff023a26ae16855c05b13023ca2e33d984a8877f855e83f04b531de9e87559&width=1200&height=630&smart=true"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165270",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165270_447001_5456_v150.jpg"
         },
         {
-          "title": "경기도, 산업단지·물류시설에 AI '광역 화재안전망' 구축 나선다",
-          "desc": "이번 사업은 외부 서버를 거치지 않고 기기 자체에서 데이터를 분석하는 온디바이스 AI 기술을 활용하는... 이번 사업은 단순히 AI 화재감지 시스템을 도입하는 데 그치지 않고, AI를 활용한 선제적 재난 대응체계를...",
-          "src": "econonews",
+          "title": "\"AI· 반도체·바이오 등 국가전략기술사업 생산비용 15% 세액공제\" ... ...",
+          "desc": "이를 감안해 개정안은 AI, 반도체, 바이오 등 국가전략기술을 활용한 제품을 국내에서 생산하는 기업에 생산비용의 15%를 세액공제하는 생산세액공제 제도를 도입하는 것이 핵심이다. 미국과 중국 등 주요국이 생산 중심...",
+          "src": "핀포인트뉴스",
           "date": "07/08",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440854",
-          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440854_372494_2155_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466343",
+          "img": "https://www.pinpointnews.co.kr/image/logo/snslogo_20221006054135.png"
         },
         {
-          "title": "[인터뷰] ‘조선업의 맥킨지’ DNV 한국 대표 “조선업, 탈탄소·AX·전략...",
-          "desc": "LNG선·고부가 기술, 中 생산능력 강점 “스마트 야드·AI가 미래 조선업 경쟁력 좌우” “조선업은 이제... AI 활용은 이미 시범 사업 단계를 넘어 실제 성과를 내고 있다. 한국 조선업계는 AI와 로보틱스를 빠르게 도입해...",
-          "src": "조선일보",
+          "title": "세계로 퍼진 알리바바·바이트댄스 AI, 베이징이 해외접근 차단 검토",
+          "desc": "이어 6월 초에는 중국 투자자·기술·데이터가 관련된 해외 거래에 대한 정부 심사를 확대하는 규정이 새로 도입됐다. 중국 당국은 또 마누스를 비롯해 해외로 거점을 옮긴 자국 AI 스타트업들이 수출 통제 규정을...",
+          "src": "wikitree",
           "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/366/0001177477?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/HNPYYGLQIVA5LD5B54MYI65WXY.jpg?auth=932fcfdfa27057be6259a543a6055375044116ca2692e4c505e7599419d15192&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "NHN, 기술 공유 행사 '에이전틱 데이' 개최…AI 활용 사례와 성과 공유",
-          "desc": "위한 AI 에이전트 활용 사례와 성과를 공유하는 자리로 마련됐다. 최근 NHN 기술본부 수장으로 신규 선임된... 한편, NHN은 지난 1일 미국의 생성형 AI 기업 '엔트로픽(Anthropic)'의 '클로드'를 전사 도입하며 사내 AX 추진...",
-          "src": "worktoday",
-          "date": "07/08",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86491",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86491_124573_86_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1145286",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/08/202607080653383359_ai.jpeg"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         },
         {
           "title": "[르포] 실차 없이 서킷 주행하고 금형 없이 뚝딱…현대차 남양연구소 R...",
@@ -170,12 +170,17 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "07/02",
           "url": "https://www.theguru.co.kr/news/article.html?no=103837",
-          "img": "https://www.theguru.co.kr/data/photos/20260727/art_17829481333298_18adfc.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
+    {
+      "title": "[이슈플러스]반도체 초호황 뒤 세트 부담…삼성 TV·가전 수익성 방어전",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445154?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
+    },
     {
       "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
       "url": "https://n.news.naver.com/mnews/article/015/0005307183?sid=101",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
     },
     {
-      "title": "[스타트UP] 뇌 전용 PET 넘어 암·치매 진단까지…브라이토닉스이미징 ...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001177478?sid=101",
-      "img": "https://biz.chosun.com/resizer/v2/372G3VXKCFCVTKVLBLNBSHAZLU.jpg?auth=07ff023a26ae16855c05b13023ca2e33d984a8877f855e83f04b531de9e87559&width=1200&height=630&smart=true"
+      "title": "하나투어, 조좌진 신임 CEO 내정…프리미엄·인바운드·AI로 ‘제2 도약...",
+      "url": "https://n.news.naver.com/mnews/article/468/0001252382?sid=103",
+      "img": "https://file.sportsseoul.com/news/cms/2026/07/08/news-p.v1.20260708.20adafec9fbb4459916172267a00395a_P1.jpg"
     },
     {
-      "title": "경기도, 산업단지·물류시설에 AI '광역 화재안전망' 구축 나선다",
-      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440854",
-      "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440854_372494_2155_v150.jpg"
-    },
-    {
-      "title": "[인터뷰] ‘조선업의 맥킨지’ DNV 한국 대표 “조선업, 탈탄소·AX·전략...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001177477?sid=101",
-      "img": "https://biz.chosun.com/resizer/v2/HNPYYGLQIVA5LD5B54MYI65WXY.jpg?auth=932fcfdfa27057be6259a543a6055375044116ca2692e4c505e7599419d15192&width=1200&height=630&smart=true"
+      "title": "AI 메모리 대란에 중국산 채택 확대 [메모리發 AI PC 시장 재편]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165270",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165270_447001_5456_v150.jpg"
     }
   ]
 };
