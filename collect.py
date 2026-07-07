@@ -155,7 +155,11 @@ def load_banner():
 
 
 def main():
-    now = datetime.datetime.now()
+    try:                                   # GitHub 서버는 UTC → 한국시간(KST)으로 표기
+        from zoneinfo import ZoneInfo
+        now = datetime.datetime.now(ZoneInfo("Asia/Seoul"))
+    except Exception:
+        now = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
     weekday = "월화수목금토일"[now.weekday()]
     updated = now.strftime("%Y.%m.%d (") + weekday + now.strftime(") %H:%M")
 
