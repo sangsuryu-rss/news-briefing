@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.07 (화) 16:55",
+  "updatedAt": "2026.07.08 (수) 07:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
         },
         {
-          "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
-          "desc": "삼성닷컴 방문자 수도 200% 이상 증가했다. 행사 기간 소비자들이 가장 많이 선택한 제품은 스마트폰과 세탁기, 냉장고, TV, 에어컨 등이다. 신혼 필수 가전으로 꼽히는 ‘비스포크 AI 스팀’ 로봇청소기는 구독으로...",
-          "src": "이데일리",
-          "date": "07/05",
-          "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
-        },
-        {
           "title": "LG전자 - 건조 용량 25㎏까지 확대 / 삼성전자 - ‘비스포크’로 AI 가전...",
           "desc": "삼성전자는 ‘비스포크 AI 건조기’를 중심으로 AI 가전 선도 이미지를 구축했다. 내부 온도와 습도를 주기적으로 감지해 건조 시간과 에너지를 줄여주는 ‘AI 맞춤건조’ 기능과 직접 관리형 열교환기 등으로...",
           "src": "조선일보",
           "date": "07/06",
           "url": "https://n.news.naver.com/mnews/article/023/0003985861?sid=101",
           "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
+        },
+        {
+          "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
+          "desc": "삼성닷컴 방문자 수도 200% 이상 증가했다. 행사 기간 소비자들이 가장 많이 선택한 제품은 스마트폰과 세탁기, 냉장고, TV, 에어컨 등이다. 신혼 필수 가전으로 꼽히는 ‘비스포크 AI 스팀’ 로봇청소기는 구독으로...",
+          "src": "이데일리",
+          "date": "07/05",
+          "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AWS 공인 파트너 '노타', AI칩 최적화 서비스 출시",
-          "desc": "서비스는 기술검증(PoC) 및 진단, 모델 포팅 및 경량화, 성능 튜닝 단계로 구성된다. 노타는 AWS 트레이니움... 온전히 활용할 수 있도록 모델 튜닝을 지원한다\"며 \"AWS AI 칩 기반 인프라 도입을 검토하는 기업 고객에게...",
-          "src": "ZDNet코리아",
-          "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/092/0002429601?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/07/3f1f46510a1e31a4024c733b007befce.jpg"
+          "title": "[스타트UP] 뇌 전용 PET 넘어 암·치매 진단까지…브라이토닉스이미징 ...",
+          "desc": "최신 디지털 PET 장비는 뛰어난 성능을 제공하지만, 높은 가격으로 인해 의료기관의 도입 부담이 크다는... 기술과 AI 기반 영상처리 기술을 활용해 프리미엄 장비와 경쟁할 수 있는 성능을 확보하면서도 시스템 비용은...",
+          "src": "조선일보",
+          "date": "07/08",
+          "url": "https://n.news.naver.com/mnews/article/366/0001177478?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/372G3VXKCFCVTKVLBLNBSHAZLU.jpg?auth=07ff023a26ae16855c05b13023ca2e33d984a8877f855e83f04b531de9e87559&width=1200&height=630&smart=true"
         },
         {
-          "title": "[WIKI 현장] '보이는 안전' 설계한 KCC…디자인·AI·도료로 산업안전 해...",
-          "desc": "산업현장의 안전이 보호장비를 넘어 색채와 디자인, 인공지능(AI) 기술을 활용한 '보이는 안전'으로 진화하고... 설비를 도입하지 않더라도 도장 시공과 안전 디자인만으로도 적은 비용으로 큰 안전 효과를 얻을 수 있다\"고...",
-          "src": "wikileaks-kr",
-          "date": "07/07",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189454",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189454_202006_5412_v150.jpg"
+          "title": "경기도, 산업단지·물류시설에 AI '광역 화재안전망' 구축 나선다",
+          "desc": "이번 사업은 외부 서버를 거치지 않고 기기 자체에서 데이터를 분석하는 온디바이스 AI 기술을 활용하는... 이번 사업은 단순히 AI 화재감지 시스템을 도입하는 데 그치지 않고, AI를 활용한 선제적 재난 대응체계를...",
+          "src": "econonews",
+          "date": "07/08",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440854",
+          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440854_372494_2155_v150.jpg"
         },
         {
-          "title": "미래에셋증권, 글로벌 금융 애니메이션 '동물원정대2' 공개",
-          "desc": "생성형 AI 기술을 활용해 시각적 연출을 강화했으며, 청강문화산업대학교와 산학협력을 통해 작품의... 한편, 미래에셋증권은 금융투자업계 최초로 금융교육 전문위원 제도를 도입했으며, 영업점과 인근 초·중·고교가...",
-          "src": "finomy",
-          "date": "07/07",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=256950",
-          "img": "https://cdn.finomy.com/news/thumbnail/202607/256950_251976_4918_v150.jpg"
+          "title": "[인터뷰] ‘조선업의 맥킨지’ DNV 한국 대표 “조선업, 탈탄소·AX·전략...",
+          "desc": "LNG선·고부가 기술, 中 생산능력 강점 “스마트 야드·AI가 미래 조선업 경쟁력 좌우” “조선업은 이제... AI 활용은 이미 시범 사업 단계를 넘어 실제 성과를 내고 있다. 한국 조선업계는 AI와 로보틱스를 빠르게 도입해...",
+          "src": "조선일보",
+          "date": "07/08",
+          "url": "https://n.news.naver.com/mnews/article/366/0001177477?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/HNPYYGLQIVA5LD5B54MYI65WXY.jpg?auth=932fcfdfa27057be6259a543a6055375044116ca2692e4c505e7599419d15192&width=1200&height=630&smart=true"
         },
         {
-          "title": "[뉴스워커_NHN] 전 직원에 클로드 도입…AI 전환 가속 내용은?",
-          "desc": "NHN은 지난 2일 판교 플레이뮤지엄에서 NHN·NHN클라우드·NHN두레이 임직원 600여 명이 참여한 기술 공유... 임직원에게 도입하며 AX를 한층 확대했다. 기존 개발 조직 중심의 AI 활용을 전 직군으로 넓혀 업무 생산성을...",
-          "src": "newsworker",
-          "date": "07/07",
-          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=435086",
-          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/435086_476332_5517_v150.jpg"
+          "title": "NHN, 기술 공유 행사 '에이전틱 데이' 개최…AI 활용 사례와 성과 공유",
+          "desc": "위한 AI 에이전트 활용 사례와 성과를 공유하는 자리로 마련됐다. 최근 NHN 기술본부 수장으로 신규 선임된... 한편, NHN은 지난 1일 미국의 생성형 AI 기업 '엔트로픽(Anthropic)'의 '클로드'를 전사 도입하며 사내 AX 추진...",
+          "src": "worktoday",
+          "date": "07/08",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86491",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86491_124573_86_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "파업·DX부진·대규모 투자부담…최대실적에도 웃지 못하는 삼성",
+          "desc": "커지는 대내외 경고음 성과급 놓고 노사 불씨 남아 425조 투자재원 마련도 변수 삼성전자가 인공지능(AI)... 반도체 협력사 유치, 전문 인력 확보 등 해결해야 할 과제가 적지 않다. 업계에서는 단순히 공장을 짓는 것을...",
+          "src": "매일경제",
+          "date": "07/07",
+          "url": "https://n.news.naver.com/mnews/article/009/0005704130?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/08/20260708_01160103000002_L00.jpg"
+        },
+        {
           "title": "현대차그룹, 협력사와 상생협력 강화...미래 모빌리티 경쟁력 높인다",
           "desc": "첨단부품 협력사를 육성한다. 현대오토에버는 AI 교육과 소프트웨어 역량 강화 프로그램을 운영하며... 1차 협력사를 넘어 공급망 전반으로 상생 지원을 확대하고 있다. 앞서 삼성은 지난달 29일 삼성전자...",
           "src": "econonews",
           "date": "07/07",
           "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440845",
-          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440845_372483_1251_v150.jpg"
+          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440845_372491_735_v150.jpg"
         },
         {
-          "title": "삼성·SK 광주 반도체 팹 4기…‘속도전’ 승부수",
-          "desc": "■ 반도체 벨트 확장: 정부가 광주 군공항 부지에 호남권 반도체 산업단지 조성을 확정하며 삼성전자... 年 2만 건 샘플분석 제공…소부장 키우는 하이닉스 - 핵심 요약: SK하이닉스가 중소 협력사의 소재·부품...",
-          "src": "서울경제",
-          "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/011/0004638886?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/07/news-p.v1.20260706.0342a8599c93487c8fd59c94f8e479e7_R.jpeg"
+          "title": "100대 기업 경제기여액 1731조원…삼성전자 177조 '1위'",
+          "desc": "국내 100대 기업이 지난해 협력사와 임직원, 주주, 정부 등에 기여한 경제적 가치가 1731조원을 넘어선 것으로 나타났다. 기업별로는 삼성전자가 경제기여액과 주주환원 부문에서 모두 1위를 차지했다. 8일...",
+          "src": "sjsori",
+          "date": "07/08",
+          "url": "https://www.sjsori.com/news/articleView.html?idxno=87419",
+          "img": "https://cdn.sjsori.com/news/photo/202607/87419_108758_3532.jpg"
         },
         {
-          "title": "[더벨]삼성전자, 갤럭시 S26 생산 두 배 늘린다",
-          "desc": "3일 업계에 따르면 삼성전자 MX사업부는 최근 부품 협력사들에 갤럭시 S26 일반 모델과 울트라 모델의 생산량 확대 계획을 공유했다. MX사업부는 부품 수급과 생산 일정 관리를 위해 매달 협력사들에 생산 계획을...",
-          "src": "더벨",
+          "title": "재계, 상생 생태계 1·2·3차 협력사까지 넓힌다",
+          "desc": "채용 박람회, 상생협력 아카데미, 연간 수백 개 교육 프로그램을 통해 협력사의 인력 확보와 역량 강화를 동시에 지원한다. 단순 비용 지원이 아닌 '체질 개선형 상생'이라는 점이 핵심이다. 노태문 삼성전자 사장은...",
+          "src": "popcornnews",
           "date": "07/07",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607030957186000101978",
-          "img": ""
-        },
-        {
-          "title": "[이로운분석]삼성전자, 분기 영업익 89조원 돌파…AI 메모리 호황이 만...",
-          "desc": "모바일 사업 역시 부품 가격 상승과 경쟁 심화 속에서 수익성을 지켜야 하는 상황이다. ◆ 3분기 관건은 HBM... 삼성전자의 이번 잠정 실적은 한국 경제에도 의미가 작지 않다. 반도체 수출과 설비투자, 협력사 생산...",
-          "src": "이로운넷",
-          "date": "07/07",
-          "url": "https://www.eroun.net/news/articleView.html?idxno=84791",
-          "img": "https://cdn.eroun.net/news/thumbnail/202607/84791_140598_4051_v150.jpg"
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=125876",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202607/125876_150146_4857_v150.jpg"
         }
       ]
     },
@@ -140,6 +140,14 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "[GAM]16년만의 홍콩행 '럭스쉐어'① 애플 공급망 1인자의 진화",
+          "desc": "그러나 글로벌 공급망 재편과 인공지능(AI) 시대의 도래, 자동차 전장과 데이터센터 시장의... 주요 제품으로는 △자동차 와이어링 하네스 신경망 시스템 △스마트 콕핏 △첨단운전자보조시스템(ADAS) △스마트...",
+          "src": "뉴스핌",
+          "date": "07/08",
+          "url": "https://www.newspim.com/news/view/20260707001002",
+          "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
+        },
         {
           "title": "효성화학, 고순도 수소 생산 핵심 소재 국산화 앞당긴다…시장 선점 가...",
           "desc": "친환경 완성차 브랜드의 견고한 판매 실적에 기반해 대형 완성차 제조사인 기아와 전장 제어 부품 전문사인... 수소 충전소용 고순도 수소 공급망을 확보한 풍국주정과 차량용 와이어링 하네스를 다루는 티에이치엔 역시...",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "07/02",
           "url": "https://www.theguru.co.kr/news/article.html?no=103837",
           "img": "https://www.theguru.co.kr/data/photos/20260727/art_17829481333298_18adfc.jpg"
-        },
-        {
-          "title": "[르포] \"데이터로 먼저 달린다\"…베일 벗은 현대차·기아 '디지털 남양연...",
-          "desc": "대신 차량 제어기와 전장 부품, 와이어링 하네스를 실제 차량처럼 연결한 '와이어카'가 줄지어 있었다. 대형 차종의 경우 제어기와 전장 부품은 수백 개에 달하고, 와이어링 커넥터 역시 촘촘하게 연결된다. 노바랩은 이런...",
-          "src": "뉴스핌",
-          "date": "07/02",
-          "url": "https://www.newspim.com/news/view/20260702000006",
-          "img": "https://img.newspim.com/news/2026/07/02/2607020031450802_906_tc.jpg"
         }
       ]
     }
@@ -182,29 +182,29 @@ window.NEWS_DATA = {
       "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
     },
     {
-      "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
-      "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
-    },
-    {
       "title": "LG전자 - 건조 용량 25㎏까지 확대 / 삼성전자 - ‘비스포크’로 AI 가전...",
       "url": "https://n.news.naver.com/mnews/article/023/0003985861?sid=101",
       "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
     },
     {
-      "title": "AWS 공인 파트너 '노타', AI칩 최적화 서비스 출시",
-      "url": "https://n.news.naver.com/mnews/article/092/0002429601?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/07/3f1f46510a1e31a4024c733b007befce.jpg"
+      "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
+      "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
     },
     {
-      "title": "[WIKI 현장] '보이는 안전' 설계한 KCC…디자인·AI·도료로 산업안전 해...",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189454",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189454_202006_5412_v150.jpg"
+      "title": "[스타트UP] 뇌 전용 PET 넘어 암·치매 진단까지…브라이토닉스이미징 ...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177478?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/372G3VXKCFCVTKVLBLNBSHAZLU.jpg?auth=07ff023a26ae16855c05b13023ca2e33d984a8877f855e83f04b531de9e87559&width=1200&height=630&smart=true"
     },
     {
-      "title": "미래에셋증권, 글로벌 금융 애니메이션 '동물원정대2' 공개",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=256950",
-      "img": "https://cdn.finomy.com/news/thumbnail/202607/256950_251976_4918_v150.jpg"
+      "title": "경기도, 산업단지·물류시설에 AI '광역 화재안전망' 구축 나선다",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440854",
+      "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440854_372494_2155_v150.jpg"
+    },
+    {
+      "title": "[인터뷰] ‘조선업의 맥킨지’ DNV 한국 대표 “조선업, 탈탄소·AX·전략...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177477?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/HNPYYGLQIVA5LD5B54MYI65WXY.jpg?auth=932fcfdfa27057be6259a543a6055375044116ca2692e4c505e7599419d15192&width=1200&height=630&smart=true"
     }
   ]
 };
