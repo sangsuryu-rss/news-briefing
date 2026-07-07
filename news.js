@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.07 (화) 11:27",
+  "updatedAt": "2026.07.07 (화) 07:20",
   "banner": {
     "show": false
   },
@@ -20,6 +20,14 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
         },
         {
+          "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
+          "desc": "비스포크 AI 콤보는 출시 2년 만에 삼성전자의 대표 생활가전으로 자리 잡았다. 지난해 판매량은 전년 대비 약 40% 증가했다. 삼성전자 관계자는 “일체형 세탁건조기 외에도 결합형과 분리형 등 세탁가전 전 제품군을...",
+          "src": "한국경제",
+          "date": "07/07",
+          "url": "https://n.news.naver.com/mnews/article/015/0005307183?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
+        },
+        {
           "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
           "desc": "삼성닷컴 방문자 수도 200% 이상 증가했다. 행사 기간 소비자들이 가장 많이 선택한 제품은 스마트폰과 세탁기, 냉장고, TV, 에어컨 등이다. 신혼 필수 가전으로 꼽히는 ‘비스포크 AI 스팀’ 로봇청소기는 구독으로...",
           "src": "이데일리",
@@ -34,14 +42,6 @@ window.NEWS_DATA = {
           "date": "07/06",
           "url": "https://n.news.naver.com/mnews/article/023/0003985861?sid=101",
           "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
-        },
-        {
-          "title": "[IT’s 가성비] 검증된 구조에 필수 기능만, 삼성 김치냉장고 RQ33DG71J3EW",
-          "desc": "이번에 소개할 삼성전자의 보급형 김치냉장고 ‘비스포크 김치플러스 RQ33DG71J3EW’ 역시 이러한 백색가전 시장의 보수적인 특성을 뚜렷하게 보여주는 제품입니다. 너무 크지도, 작지도 않은 328L 가정에서 김치냉장고를...",
-          "src": "동아일보",
-          "date": "07/06",
-          "url": "https://it.donga.com/109141/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/7/6/166eafd9f5c34da0-thumbnail-960x540-70.jpg"
         }
       ]
     },
@@ -52,36 +52,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"창작 시작부터 완성까지”...데이븐AI, 교육·제작 파트너십 동시 확대",
-          "desc": "레이어드는 데이븐AI를 정식 교육 플랫폼으로 도입했으며, 이달부터 수강생 20명에게 데이븐 AI 무제한... 지원에 활용 중이다. 양사는 앞으로 AI 창작 기술을 접목한 공동 교육 커리큘럼 개발도 함께 논의할 계획이다....",
-          "src": "ZDNet코리아",
+          "title": "\"국산 AI 반도체 써보세요\"…전담 지원센터 개소",
+          "desc": "센터는 앞으로 국산 AI 반도체 도입 상담과 기술 컨설팅을 비롯해 △활용 분야별 심층 자문 △시험·검증 지원 및 연계 △도입 후 SW 최적화 △우수 사례 확산 △수요·공급기업 간 네트워킹 등 전주기적 지원을 제공할...",
+          "src": "ebn",
           "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/092/0002429538?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/07/b91360c9a999267fb8af555c3d6ae22f.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715440",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1715440_744513_1434_v150.jpg"
         },
         {
-          "title": "모비젠, AI 운영 기술 고도화 사업 수주… 에너지 공공기관 발주",
-          "desc": "생성형 AI 도입의 성패를 가르는 요소로 꼽힌다. 모비젠은 이번 사업에서 운영 기술 문서에 담긴 핵심... Graphio는 기업 데이터에 의미와 맥락을 더해 AI가 스스로 판단하고 활용할 수 있게 만드는 플랫폼이다. 금융...",
-          "src": "디지털데일리",
+          "title": "피시오, '국방 정보화 신기술 제안발표회'서 AI 기반 영상 실시간 최적...",
+          "desc": "AI 기반 영상 최적화 기술과 보안 전송 기술을 융합한 Smart LinkShield 및 LinkShield Aizip 제품군을 지속... 피시오는 발표자료를 통해 실제 국방 개선사례로 기존 2Mbps 수준의 제한된 통신 환경에서 Aizip을 도입한 후...",
+          "src": "kdpress",
           "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/138/0002233381?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/07/2026070711221939563_l.jpg"
+          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206707",
+          "img": "https://cdn.kdpress.co.kr/news/photo/202607/206707_132858_83.jpg"
         },
         {
-          "title": "세일포인트 \"AI 에이전트, 소유 아닌 양육 대상… 통제 잃으면 치명적\"",
-          "desc": "다나 리드 세일포인트 필드최고기술책임자(CTO)는 최근 <디지털데일리>를 만나 \"기업 환경 내 AI 에이전트... 기업이 인력 확장을 위해 AI 도입에 막대한 자본을 쏟아붓지만 정작 이를 보호하고 관리할 예산 할당은...",
-          "src": "디지털데일리",
+          "title": "생성형 AI로 제작한 작품 공모한다",
+          "desc": "AI 기술을 활용한다. 국민이 직접 AI로 지진안전 콘텐츠를 제작하며 재난 대응 역량을 높이고 안전 문화를 확산하려는 취지다. 특히, 지난 2018년부터 시작된 지진안전 공모전은 올해 최초로 '국민 선호도 심사'를 도입...",
+          "src": "ikoreanspirit",
           "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/138/0002233378?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/07/2026070710152836683_l.jpg"
+          "url": "http://www.ikoreanspirit.com/news/articleView.html?idxno=86233",
+          "img": "https://cdn.ikoreanspirit.com/news/photo/202607/86233_109521_1423.png"
         },
         {
-          "title": "더 안전한 무인 자율주행차 시대 열린다…정부, 레벨4 자율주행 가이드...",
-          "desc": "국제기준이 국내 법령으로 본격 도입되기 전이라도 기업들이 임시운행허가를 받아 레벨4 수준의 완전... 우선 광주 자율주행 실증도시에 투입되는 전용 차량을 단계적으로 무인화해 레벨4 기술 검증에 활용할 예정이다....",
-          "src": "AI타임스",
+          "title": "'종이 없는 오피스' 확산… 전자명패, 공공·민간 디지털 인프라로 안착",
+          "desc": "이러한 변화는 글로벌 기술 트렌드 및 정부 정책과 맞물려 확산되고 있다. 올해 3월 삼성전자는 사무공간 내... 전자종이를 활용한 업무환경 도입이 늘면서 종이 명패를 대체하는 전자명패도 회의실을 넘어 일반...",
+          "src": "itbiznews",
           "date": "07/07",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=40863",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202607/40863_61594_1842_v150.jpg"
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=218457",
+          "img": "https://cdn.itbiznews.com/news/photo/202607/218457_220875_5243.png"
         }
       ]
     },
@@ -92,12 +92,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "현대차그룹, 협력사와 상생협력 강화...미래 모빌리티 경쟁력 높인다",
+          "desc": "첨단부품 협력사를 육성한다. 현대오토에버는 AI 교육과 소프트웨어 역량 강화 프로그램을 운영하며... 1차 협력사를 넘어 공급망 전반으로 상생 지원을 확대하고 있다. 앞서 삼성은 지난달 29일 삼성전자...",
+          "src": "econonews",
+          "date": "07/07",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440845",
+          "img": "https://cdn.econonews.co.kr/news/thumbnail/202607/440845_372483_1251_v150.jpg"
+        },
+        {
           "title": "삼성·SK 광주 반도체 팹 4기…‘속도전’ 승부수",
           "desc": "■ 반도체 벨트 확장: 정부가 광주 군공항 부지에 호남권 반도체 산업단지 조성을 확정하며 삼성전자... 年 2만 건 샘플분석 제공…소부장 키우는 하이닉스 - 핵심 요약: SK하이닉스가 중소 협력사의 소재·부품...",
           "src": "서울경제",
           "date": "07/07",
           "url": "https://n.news.naver.com/mnews/article/011/0004638886?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/07/news-p.v1.20260706.0342a8599c93487c8fd59c94f8e479e7_R.jpeg"
+          "img": ""
         },
         {
           "title": "[더벨]삼성전자, 갤럭시 S26 생산 두 배 늘린다",
@@ -114,14 +122,6 @@ window.NEWS_DATA = {
           "date": "07/07",
           "url": "https://www.eroun.net/news/articleView.html?idxno=84791",
           "img": "https://cdn.eroun.net/news/thumbnail/202607/84791_140598_4051_v150.jpg"
-        },
-        {
-          "title": "공정위 손잡고 상생협력 '속속'…삼성·SK 이어 LG도",
-          "desc": "삼성은 지난달 29일 삼성전자와 삼성디스플레이 등 11개 계열사가 참여하는 상생안을 발표했다. 총 3조5000억원 규모의 상생펀드와 ESG 펀드를 가동한다. 이를 통해 약 6700개 협력사의 금융 지원과 글로벌 진출을...",
-          "src": "아시아타임즈",
-          "date": "07/06",
-          "url": "https://www.asiatime.co.kr/article/20260706500263",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/06/.cache/512/20260706500262.jpg"
         }
       ]
     },
@@ -173,6 +173,11 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.fd8ee73c88b248e6afd114c6fba86b4c_P1.jpg"
     },
     {
+      "title": "삼성전자, 빨랫감 국내 최대 용량 소화 '비스포크 AI 콤보'…세탁·건조...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005307183?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/AA.44941469.1.jpg"
+    },
+    {
       "title": "\"20% 환급에 2조 팔렸다\" 삼성 감사 페스티벌 초대박…DX 실적 청신호",
       "url": "https://n.news.naver.com/mnews/article/018/0006323067?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070500519.jpg"
@@ -183,19 +188,14 @@ window.NEWS_DATA = {
       "img": "https://www.chosun.com/resizer/v2/B7WCMRE7EFC4JGT3I2QJYQOERM.jpg?auth=52931044a29de37165310c81bb6db690e8a89fd12dcdf537b4bfd983a771aca8&width=667&height=350&smart=true"
     },
     {
-      "title": "[IT’s 가성비] 검증된 구조에 필수 기능만, 삼성 김치냉장고 RQ33DG71J3EW",
-      "url": "https://it.donga.com/109141/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/7/6/166eafd9f5c34da0-thumbnail-960x540-70.jpg"
+      "title": "\"국산 AI 반도체 써보세요\"…전담 지원센터 개소",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715440",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1715440_744513_1434_v150.jpg"
     },
     {
-      "title": "\"창작 시작부터 완성까지”...데이븐AI, 교육·제작 파트너십 동시 확대",
-      "url": "https://n.news.naver.com/mnews/article/092/0002429538?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/07/b91360c9a999267fb8af555c3d6ae22f.jpg"
-    },
-    {
-      "title": "모비젠, AI 운영 기술 고도화 사업 수주… 에너지 공공기관 발주",
-      "url": "https://n.news.naver.com/mnews/article/138/0002233381?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/07/07/2026070711221939563_l.jpg"
+      "title": "피시오, '국방 정보화 신기술 제안발표회'서 AI 기반 영상 실시간 최적...",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206707",
+      "img": "https://cdn.kdpress.co.kr/news/photo/202607/206707_132858_83.jpg"
     }
   ]
 };
