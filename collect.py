@@ -27,13 +27,13 @@ import requests
 # 1) 수집할 카테고리 정의  (title/색상/아이콘은 index.html 디자인과 1:1 대응)
 #    query 만 바꾸면 원하는 주제로 얼마든지 커스터마이즈 가능
 # ─────────────────────────────────────────────────────────────
-# sort: "sim"=정확도순(주제 적합·잡음 적음) / "date"=최신순
-#   실적발표일 등엔 최신순이 특정 이슈로 도배되므로, 주제형 섹션은 sim 권장
+# 당일/최근 관련 기사 우선 → 뉴스가 매일 나오는 섹션은 최신순(date)
+# 와이어하네스는 니치 주제(+'전장'이 '전쟁터'로 오매칭) → 관련성 우선(sim)
 SECTIONS = [
-    {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "query": "삼성전자 비스포크 가전", "sort": "sim",  "count": 4},
+    {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "query": "삼성전자 비스포크 가전", "sort": "date", "count": 4},
     {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
-    {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "sim",  "count": 4},
-    {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장",   "sort": "date", "count": 4},
+    {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
+    {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
 ]
 
 # 언론사 도메인 → 한글 표기 (없으면 도메인 그대로)
