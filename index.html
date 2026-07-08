@@ -171,17 +171,23 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
       return '<a class="fest-link" href="'+esc(lk.url)+'" target="_blank" rel="noopener">'+esc(lk.label)+'</a>';
     }).join('');
 
-    // 오른쪽 영역(빨간 네모 자리): 공지(notice) 있으면 공지, 없으면 D-day, 둘 다 없으면 빈칸
+    // 공지: notice.txt 를 실시간으로 읽음 — 파일에 글자가 있으면 표시, 비어 있으면 미표시
+    var ntext = '';
+    try{
+      var nr = await fetch('notice.txt?t=' + Date.now());
+      if(nr.ok){ ntext = (await nr.text()).trim(); }
+    }catch(e){}
+    if(!ntext && b.notice){  // notice.txt 가 비어 있으면 banner.json 의 notice 사용(선택)
+      ntext = (typeof b.notice === 'string') ? b.notice : (b.notice.text || '');
+    }
+
+    // 오른쪽 영역(빨간 네모 자리): 공지 있으면 공지, 없으면 D-day, 둘 다 없으면 빈칸
     var rightHtml = '';
-    var notice = b.notice;
-    var ntext = notice ? (typeof notice === 'string' ? notice : notice.text) : '';
     if(ntext){
-      var ntitle = (typeof notice === 'object' && notice.title) ? notice.title : '📢 공지사항';
-      var urgent = (typeof notice === 'object' && notice.urgent) ? ' urgent' : '';
-      var ntime  = (typeof notice === 'object' && notice.time) ? '<div class="fn-time">'+esc(notice.time)+'</div>' : '';
+      var urgent = /^\s*(긴급|!)/.test(ntext) ? ' urgent' : '';   // '긴급' 또는 '!' 로 시작하면 빨간색 강조
       rightHtml = '<div class="fest-notice'+urgent+'">'+
-                    '<div class="fn-hd">'+esc(ntitle)+'</div>'+
-                    '<div class="fn-body">'+esc(ntext)+'</div>'+ ntime +
+                    '<div class="fn-hd">📢 공지사항</div>'+
+                    '<div class="fn-body">'+esc(ntext)+'</div>'+
                   '</div>';
     } else if(b.dday){
       var end2 = new Date(b.dday.date + 'T23:59:59+09:00');
