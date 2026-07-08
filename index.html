@@ -13,6 +13,9 @@ body{font-family:-apple-system,"Apple SD Gothic Neo","Malgun Gothic","Segoe UI",
 header.top{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;padding-bottom:14px;margin-bottom:16px;border-bottom:3px solid #1428a0}
 header.top h1{font-size:23px;font-weight:800;color:#1428a0;letter-spacing:-.5px}
 header.top .date{font-size:13px;color:#666}
+header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap:5px}
+.hd-guide{font-size:11px;font-weight:700;color:#7a828f;text-decoration:none;border:1px solid #dfe3ec;border-radius:14px;padding:3px 11px;transition:color .12s,border-color .12s,background .12s;white-space:nowrap}
+.hd-guide:hover{color:#1428a0;border-color:#1428a0;background:#f2f5fc}
 .page-layout{display:grid;grid-template-columns:1fr 310px;gap:22px;align-items:start}
 @media(max-width:1024px){.page-layout{grid-template-columns:1fr}.side-col{order:-1}}
 .section-title{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:700;margin:24px 0 12px;padding-left:10px;border-left:5px solid #1428a0}
@@ -105,7 +108,10 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 <div class="wrap">
 <header class="top">
   <h1>☀️ 세림전자 뉴스 브리핑</h1>
-  <span class="date" id="hd-date">불러오는 중...</span>
+  <div class="hd-right">
+    <a class="hd-guide" href="guide.html" target="_blank" rel="noopener">📖 운영 가이드</a>
+    <span class="date" id="hd-date">불러오는 중...</span>
+  </div>
 </header>
 
 <div id="banner-slot"></div>

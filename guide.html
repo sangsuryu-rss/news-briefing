@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>뉴스 브리핑 운영 가이드 (관리자용)</title>
+<style>
+  :root{
+    --navy-1:#24379c; --navy-2:#182a72; --navy-3:#101d54;
+    --ink:#1b2440; --muted:#5c667e; --line:#e4e8f2;
+    --ground:#eceff7; --card:#ffffff; --gold:#e7a915; --gold-soft:#fff4d6;
+    --red:#ED1B24; --red-soft:#fdeaea;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"Apple SD Gothic Neo","Malgun Gothic","Segoe UI",sans-serif;
+    color:var(--ink);background:var(--ground);padding:26px 16px;line-height:1.6}
+  .page{max-width:860px;margin:0 auto;background:var(--card);border-radius:18px;overflow:hidden;
+    box-shadow:0 10px 40px rgba(16,29,84,.14)}
+  .hero{background:linear-gradient(120deg,var(--navy-1),var(--navy-2) 55%,var(--navy-3));color:#fff;
+    padding:28px 38px 24px;position:relative}
+  .hero .accent{position:absolute;top:0;left:0;width:6px;height:100%;background:var(--red)}
+  .hero .tag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:1px;background:var(--red);
+    color:#fff;padding:4px 11px;border-radius:20px}
+  .hero h1{font-size:27px;font-weight:800;letter-spacing:-.8px;margin-top:11px}
+  .hero p{font-size:13.5px;color:rgba(255,255,255,.82);margin-top:8px;max-width:62ch}
+  .body{padding:24px 38px 30px}
+  .section-h{display:flex;align-items:center;gap:9px;font-size:13px;font-weight:800;color:var(--navy-1);margin:24px 0 12px}
+  .section-h:first-child{margin-top:0}
+  .section-h .n{width:22px;height:22px;border-radius:7px;background:var(--gold-soft);color:#8a6410;
+    font-size:12px;font-weight:900;display:flex;align-items:center;justify-content:center}
+  .urls{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+  .u{display:flex;gap:11px;align-items:center;border:1px solid var(--line);border-radius:11px;padding:11px 14px}
+  .u .em{font-size:18px;flex-shrink:0}
+  .u .t{font-size:12.5px;font-weight:800;color:var(--ink)}
+  .u .a{font-size:11px;color:var(--navy-1);word-break:break-all;margin-top:1px;font-weight:600}
+  .u a{color:var(--navy-1);text-decoration:none}
+  .steps{display:flex;flex-direction:column;gap:9px}
+  .step{display:flex;gap:13px;align-items:flex-start;background:#f7f9ff;border:1px solid #e2e9fb;border-radius:11px;padding:12px 15px}
+  .step .sn{width:24px;height:24px;flex-shrink:0;border-radius:50%;background:var(--navy-1);color:#fff;
+    font-size:12px;font-weight:800;display:flex;align-items:center;justify-content:center}
+  .step .st{font-size:13.5px}.step .st b{font-weight:800}
+  .step code{background:#e7ecfb;color:var(--navy-2);padding:1px 7px;border-radius:5px;font-size:12px;font-family:"Consolas",monospace}
+  .hint{font-size:12px;color:var(--muted);margin-top:7px}.hint b{color:var(--red);font-weight:800}
+  .rules{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+  .rule{border:1px solid var(--line);border-top:3px solid var(--red);border-radius:0 0 10px 10px;padding:12px 14px}
+  .rule .rt{font-size:12.5px;font-weight:800;color:var(--navy-2)}
+  .rule .rd{font-size:12px;color:var(--muted);margin-top:4px;line-height:1.5}
+  .strip{display:flex;gap:20px;flex-wrap:wrap;background:var(--navy-1);color:#fff;border-radius:13px;padding:15px 22px;margin-top:4px}
+  .strip .b{flex:1;min-width:180px}
+  .strip .bt{font-size:12.5px;font-weight:800}
+  .strip .bd{font-size:12px;color:rgba(255,255,255,.8);margin-top:2px;line-height:1.5}
+  .foot{border-top:1px solid var(--line);margin-top:22px;padding-top:13px;font-size:12px;color:var(--muted)}
+  .foot b{color:var(--navy-2);font-weight:800}
+  .back{display:inline-block;margin:0 auto 14px;max-width:860px;font-size:13px;color:var(--navy-1);text-decoration:none;font-weight:700}
+  .backwrap{max-width:860px;margin:0 auto 12px}
+  @media(max-width:640px){.urls,.rules{grid-template-columns:1fr}.hero,.body{padding-left:24px;padding-right:24px}}
+</style>
+</head>
+<body>
+  <div class="backwrap"><a class="back" href="index.html">← 뉴스 브리핑으로 돌아가기</a></div>
+  <div class="page">
+    <div class="hero">
+      <div class="accent"></div>
+      <span class="tag">관리자 전용</span>
+      <h1>뉴스 브리핑 운영 가이드</h1>
+      <p>세림전자 아침 뉴스 브리핑을 관리하는 방법입니다. 평소엔 자동으로 돌아가며, 공지 게시 등 필요할 때만 아래 순서를 따르세요.</p>
+    </div>
+    <div class="body">
+      <div class="section-h"><span class="n">1</span>관리 주소 (즐겨찾기 권장)</div>
+      <div class="urls">
+        <div class="u"><span class="em">📰</span><div><div class="t">뉴스 사이트 (공유용)</div><div class="a"><a href="https://sangsuryu-rss.github.io/news-briefing/" target="_blank">sangsuryu-rss.github.io/news-briefing</a></div></div></div>
+        <div class="u"><span class="em">📢</span><div><div class="t">공지 올리기·내리기</div><div class="a"><a href="https://github.com/sangsuryu-rss/news-briefing/edit/main/notice.txt" target="_blank">…/edit/main/notice.txt</a></div></div></div>
+        <div class="u"><span class="em">🔄</span><div><div class="t">즉시 뉴스 갱신</div><div class="a"><a href="https://github.com/sangsuryu-rss/news-briefing/actions/workflows/update.yml" target="_blank">…/actions/workflows/update.yml</a></div></div></div>
+        <div class="u"><span class="em">📁</span><div><div class="t">파일 올리기 (디자인·설정 변경)</div><div class="a"><a href="https://github.com/sangsuryu-rss/news-briefing/upload/main" target="_blank">…/upload/main</a></div></div></div>
+      </div>
+
+      <div class="section-h"><span class="n">2</span>공지사항 올리기 · 내리기 <span style="font-weight:600;color:var(--muted);font-size:12px">(가장 자주 쓰는 기능)</span></div>
+      <div class="steps">
+        <div class="step"><span class="sn">1</span><div class="st"><b>공지 올리기 주소</b> 접속 → 연필(✏️) 편집 화면이 열립니다.</div></div>
+        <div class="step"><span class="sn">2</span><div class="st">빈 칸에 공지 내용을 <b>타이핑</b> (엔터로 여러 줄 가능).</div></div>
+        <div class="step"><span class="sn">3</span><div class="st">오른쪽 위 <code>Commit changes</code> → 창에서 다시 <code>Commit changes</code>.</div></div>
+        <div class="step"><span class="sn">4</span><div class="st">1~2분 뒤 사이트에서 <code>Ctrl+Shift+R</code> → 배너 오른쪽에 공지 표시 ✅</div></div>
+      </div>
+      <div class="hint">▸ <b>긴급 공지</b>는 맨 앞에 <code>긴급</code> 또는 <code>!</code> → 빨간색 강조. &nbsp; ▸ <b>공지 내리기</b>: 같은 화면에서 글자를 전부 지우고 Commit.</div>
+
+      <div class="section-h"><span class="n">3</span>지금 당장 최신 뉴스로 (수동 갱신)</div>
+      <div class="steps">
+        <div class="step"><span class="sn">1</span><div class="st"><b>즉시 갱신 주소</b> 접속 → <code>Run workflow</code> → 초록 <code>Run workflow</code> 재클릭.</div></div>
+        <div class="step"><span class="sn">2</span><div class="st">1~2분 뒤 사이트 강력새로고침(<code>Ctrl+Shift+R</code>) → 최신 뉴스 반영.</div></div>
+      </div>
+
+      <div class="section-h"><span class="n">4</span>꼭 기억할 규칙</div>
+      <div class="rules">
+        <div class="rule"><div class="rt">🚫 로컬 파일 금지</div><div class="rd">내 컴퓨터의 index.html을 더블클릭하면 공지·날씨가 안 뜹니다. 항상 <b>github.io 주소</b>로 확인.</div></div>
+        <div class="rule"><div class="rt">📤 업로드해야 반영</div><div class="rd">파일을 바꾸면 반드시 GitHub에 <b>Commit(업로드)</b> 해야 사이트에 적용됩니다.</div></div>
+        <div class="rule"><div class="rt">⏱️ 반영엔 1~2분</div><div class="rd">바꾼 직후 안 보여도 실패 아님. 잠시 뒤 <b>Ctrl+Shift+R</b>.</div></div>
+      </div>
+
+      <div class="section-h"><span class="n">5</span>자동 운영 &amp; 문제 해결</div>
+      <div class="strip">
+        <div class="b"><div class="bt">🕕 매일 아침 6~7시 자동 갱신</div><div class="bd">평소엔 손 안 대도 뉴스가 자동으로 최신화됩니다.</div></div>
+        <div class="b"><div class="bt">🛠️ 안 될 때</div><div class="bd">공지 안 보임 → 주소·Ctrl+Shift+R·2분 대기 / 그래도 이상하면 화면 캡처해 문의.</div></div>
+        <div class="b"><div class="bt">✏️ 주제·디자인 변경</div><div class="bd">"○○ 뉴스로 바꿔줘"라고 요청하면 파일을 만들어 드립니다.</div></div>
+      </div>
+
+      <div class="foot">운영 · <b>경영지원팀</b> &nbsp;|&nbsp; 시스템: GitHub Pages 자동 배포 · 네이버 뉴스 API · 완전 무료 운영</div>
+    </div>
+  </div>
+</body>
+</html>
