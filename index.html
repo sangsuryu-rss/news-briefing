@@ -14,12 +14,12 @@ header.top{display:flex;align-items:baseline;justify-content:space-between;flex-
 header.top h1{font-size:23px;font-weight:800;color:#1428a0;letter-spacing:-.5px}
 header.top .date{font-size:13px;color:#666}
 .page-layout{display:grid;grid-template-columns:1fr 310px;gap:22px;align-items:start}
-@media(max-width:880px){.page-layout{grid-template-columns:1fr}.side-col{order:-1}}
+@media(max-width:1024px){.page-layout{grid-template-columns:1fr}.side-col{order:-1}}
 .section-title{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:700;margin:24px 0 12px;padding-left:10px;border-left:5px solid #1428a0}
 .section-title.ai{border-left-color:#00a86b}.section-title.harness{border-left-color:#e8842c}.section-title.partner{border-left-color:#7b3fe4}
 .section-title .badge{font-size:11px;font-weight:600;color:#fff;background:#1428a0;padding:2px 8px;border-radius:10px}
 .section-title.ai .badge{background:#00a86b}.section-title.harness .badge{background:#e8842c}.section-title.partner .badge{background:#7b3fe4}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
 .card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08);text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s;border:1px solid #eaeaea}
 .card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
 .thumb{width:100%;height:140px;object-fit:cover;background:#e8eaf0;display:block}
@@ -30,7 +30,8 @@ header.top .date{font-size:13px;color:#666}
 .card-meta{margin-top:8px;font-size:11px;color:#999}
 .card-meta .src{color:#1428a0;font-weight:600}
 .sec-ai .card-meta .src{color:#00a86b}.sec-harness .card-meta .src{color:#e8842c}.sec-partner .card-meta .src{color:#7b3fe4}
-.side-col{display:flex;flex-direction:column;gap:14px;position:sticky;top:16px}
+.side-col{display:flex;flex-direction:column;gap:14px}
+@media(min-width:1025px){.side-col{position:sticky;top:16px}}
 .widget{background:#fff;border-radius:14px;box-shadow:0 1px 4px rgba(0,0,0,.09);border:1px solid #eaeaea;overflow:hidden}
 .widget-hd{display:flex;align-items:center;justify-content:space-between;padding:11px 14px;border-bottom:1px solid #f0f0f0;background:#fafafa}
 .widget-hd h2{font-size:13.5px;font-weight:800;color:#1a1a1a}
@@ -80,6 +81,13 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner .fest-link-wrap{display:flex;flex-wrap:wrap;gap:8px;margin-top:9px}
 .festival-banner .fest-link{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;font-weight:800;background:#fff;color:#1428a0;border-radius:20px;padding:6px 15px;text-decoration:none;white-space:nowrap;box-shadow:0 1px 4px rgba(0,0,0,.15);transition:transform .12s,box-shadow .12s}
 .festival-banner .fest-link:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(0,0,0,.25)}
+.festival-banner .fest-notice{flex:0 0 auto;width:56%;max-width:660px;min-width:240px;align-self:stretch;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);border-radius:11px;padding:11px 16px;display:flex;flex-direction:column;justify-content:center}
+.festival-banner .fest-notice .fn-hd{font-size:11px;font-weight:800;color:#ffd700;margin-bottom:5px;letter-spacing:.4px}
+.festival-banner .fest-notice .fn-body{font-size:13px;font-weight:600;color:#fff;line-height:1.55;white-space:pre-line}
+.festival-banner .fest-notice .fn-time{font-size:10px;color:rgba(255,255,255,.6);margin-top:6px}
+.festival-banner .fest-notice.urgent{background:rgba(229,60,60,.34);border-color:rgba(255,150,150,.55)}
+.festival-banner .fest-notice.urgent .fn-hd{color:#fff}
+@media(max-width:1024px){.festival-banner{flex-wrap:wrap}.festival-banner .fest-notice{width:100%;max-width:100%}}
 .festival-banner .fest-dday{text-align:center;flex-shrink:0;background:rgba(255,255,255,.12);border-radius:10px;padding:8px 14px;border:1px solid rgba(255,255,255,.2)}
 .festival-banner .fest-dday .dday-label{font-size:10px;color:rgba(255,255,255,.7)}
 .festival-banner .fest-dday .dday-val{font-size:20px;font-weight:900;color:#ffd700;line-height:1.1}
@@ -143,15 +151,18 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
   document.getElementById('hd-date').textContent = '['+ (D.updatedAt||'') +'] 기준 · 데이터: 네이버 뉴스';
   document.getElementById('rank-time').textContent = (D.updatedAt||'').split(' ').slice(-1)[0] + ' 기준';
 
-  // 배너 (편집형 - 있을 때만)
-  (function(){
+  // 배너 (그룹웨어 + 공지) — banner.json 을 직접 읽어 실시간 반영, 실패 시 news.js 값 사용
+  (async function(){
     var slot = document.getElementById('banner-slot');
     var b = D.banner;
+    try{
+      var r = await fetch('banner.json?t=' + Date.now());
+      if(r.ok){ b = await r.json(); }
+    }catch(e){}
     if(!b || !b.show){ return; }
-    // 종료일 지나면 자동 숨김
     if(b.dday && b.dday.date){
-      var end = new Date(b.dday.date + 'T23:59:59+09:00');
-      if(new Date() > end){ return; }
+      var endD = new Date(b.dday.date + 'T23:59:59+09:00');
+      if(new Date() > endD){ b = Object.assign({}, b, {dday:null}); }  // 만료된 D-day 무시(배너는 유지)
     }
     var badges = (b.badges||[]).map(function(bd){
       return '<span class="fest-badge'+(bd.highlight?' highlight':'')+'">'+esc(bd.text)+'</span>';
@@ -159,15 +170,28 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
     var links = (b.links||[]).map(function(lk){
       return '<a class="fest-link" href="'+esc(lk.url)+'" target="_blank" rel="noopener">'+esc(lk.label)+'</a>';
     }).join('');
-    var ddayHtml = '';
-    if(b.dday){
+
+    // 오른쪽 영역(빨간 네모 자리): 공지(notice) 있으면 공지, 없으면 D-day, 둘 다 없으면 빈칸
+    var rightHtml = '';
+    var notice = b.notice;
+    var ntext = notice ? (typeof notice === 'string' ? notice : notice.text) : '';
+    if(ntext){
+      var ntitle = (typeof notice === 'object' && notice.title) ? notice.title : '📢 공지사항';
+      var urgent = (typeof notice === 'object' && notice.urgent) ? ' urgent' : '';
+      var ntime  = (typeof notice === 'object' && notice.time) ? '<div class="fn-time">'+esc(notice.time)+'</div>' : '';
+      rightHtml = '<div class="fest-notice'+urgent+'">'+
+                    '<div class="fn-hd">'+esc(ntitle)+'</div>'+
+                    '<div class="fn-body">'+esc(ntext)+'</div>'+ ntime +
+                  '</div>';
+    } else if(b.dday){
       var end2 = new Date(b.dday.date + 'T23:59:59+09:00');
       var diff = Math.ceil((end2 - new Date())/(1000*60*60*24));
       var dval = diff===0 ? 'D-Day' : 'D-'+diff;
-      ddayHtml = '<div class="fest-dday"><div class="dday-label">'+esc(b.dday.label||'')+'</div>'+
-                 '<div class="dday-val">'+dval+'</div>'+
-                 '<div class="dday-date">'+esc(b.dday.dateText||'')+'</div></div>';
+      rightHtml = '<div class="fest-dday"><div class="dday-label">'+esc(b.dday.label||'')+'</div>'+
+                  '<div class="dday-val">'+dval+'</div>'+
+                  '<div class="dday-date">'+esc(b.dday.dateText||'')+'</div></div>';
     }
+
     slot.innerHTML =
       '<div class="festival-banner">'+
         '<div class="fest-icon">'+esc(b.icon||'📢')+'</div>'+
@@ -176,7 +200,7 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
           '<div class="fest-desc">'+esc(b.desc||'')+'</div>'+
           (badges?'<div class="fest-badge-wrap">'+badges+'</div>':'')+
           (links?'<div class="fest-link-wrap">'+links+'</div>':'')+
-        '</div>'+ ddayHtml +
+        '</div>'+ rightHtml +
       '</div>';
   })();
 
