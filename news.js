@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.09 (목) 07:02",
+  "updatedAt": "2026.07.10 (금) 07:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,14 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
+          "desc": "2018년 삼성전자 세탁기용 댐퍼 양산 공급을 시작으로 구축된 협력관계는 2025년 ‘비스포크 AI 콤보’ 2세대 개발까지 확대됐다. 가전제품이 AI 기반으로 진화함에 따라 정숙성, 정밀제어, 내구성에 대한 요구수준이 한층...",
+          "src": "biz",
+          "date": "07/09",
+          "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
+        },
+        {
           "title": "삼성전자 '전자레인지·큐커' 사업 접는다…\"가격경쟁력 떨어져 수익성...",
           "desc": "삼성전자는 지난해에도 삼립과 협력을 통해 바코드를 받아 '비스포크 큐커'에서 스캔만 하면 간편하게... 또한 삼성전자 DA(가전) 사업부는 지난 4월 임직원을 대상으로 '경영 설명회'를 열고 수익성 제고를 위한 사업 구조...",
           "src": "newsworks",
@@ -34,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003445876?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/07/08/news-p.v1.20260708.2ff77ec6b95a44e2a56629440ff6aa2c_P1.jpg"
+          "img": ""
         },
         {
           "title": "[현장] 삼성·LG, 나노코리아 2026서 미래 기술 경쟁 선보여",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "07/08",
           "url": "https://www.smartbizn.com/news/articleView.html?idxno=148112",
           "img": "https://cdn.smartbizn.com/news/photo/202607/148112_252975_523.jpg"
-        },
-        {
-          "title": "일상의 품격 높인 혁신·건강·디테일…고객 마음을 열다",
-          "desc": "출시 2년 만에 신혼부부를 위한 필수 가전으로 자리 잡으며 작년 판매량이 전년 대비 40%가량 늘었다. 기존 모델보다 최대 두 배 더 강력한 흡입력을 갖춘 삼성전자의 ‘비스포크 AI 스팀’ 로봇청소기 역시 우수 제품...",
-          "src": "한국경제",
-          "date": "07/07",
-          "url": "https://n.news.naver.com/mnews/article/015/0005307211?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/AA.44941496.1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[정보보호 테크] ⑤SK텔레콤, 해킹 후 보안투자 '70% 증액' 효과보나",
-          "desc": "적극 활용한 것으로 풀이된다. 보안 체계를 단기간에 재정비해야 하는 상황에서 내부 인력 양성보다 즉시... 이외에 기술 측면에서는 AI 기반 위협 탐지 체계를 도입해 사용자 행위와 서버, 네트워크, 외부 위협 정보를...",
-          "src": "fetv",
-          "date": "07/09",
-          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306023",
-          "img": "https://cdn.fetv.co.kr/news/photo/202607/306023_305647_05.jpg"
+          "title": "'나스닥 상장' SK하이닉스, 37조원 장전…글로벌 증설 드라이브",
+          "desc": "메모리 반도체 수요가 꾸준히 늘어나는 상황에서, 이번에 조달한 자금을 생산능력 확대와 기술 경쟁력... 투자에 활용하겠다고 밝혔다. 내년 말까지 도입할 예정인 극자외선(EUV) 노광장비 구매에도 11조9000억원을...",
+          "src": "ziksir",
+          "date": "07/10",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=139639",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202607/139639_159714_1535_v150.jpg"
         },
         {
-          "title": "[김동헌의 AI패러다임(42)] 월드컵이 보여준 AI의 역할 – 그라운드 밖에...",
-          "desc": "오심 논란, VAR 도입, 반자동 오프사이드 기술, 커넥티드 볼의 등장은 모두 인간 심판이 더 정확히 볼 수 있도록 무엇을 더 제공할 것인가라는 같은 질문에서 출발했다. 같은 시기, AI 모델들은 성능과 비용의 경쟁을...",
-          "src": "news2day",
-          "date": "07/09",
-          "url": "https://www.news2day.co.kr/article/20260707500078",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/07/.cache/512/20260707500074.png"
+          "title": "[창간특집] AI가 찾은 후보물질, 신약 파이프라인 될 수 있나",
+          "desc": "줄일 기술로 주목받았지만, 지금은 도입 여부를 넘어 실제 연구개발 의사결정과 파이프라인 성과로 이어질 수 있는지에 관심이 모인다. 글로벌 빅파마와 국내 제약바이오 기업들의 AI 활용 전략을 통해 K-신약개발의...",
+          "src": "docdocdoc",
+          "date": "07/10",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040824",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202607/3040824_3044390_2434_v150.jpg"
         },
         {
-          "title": "보안사고 커지는데… 4대 은행, 정보보호 투자비중 되레 줄어",
-          "desc": "완화와 디지털 전환, AI 기술을 활용한 서비스가 본격화하는 상황에서 제로트러스트 등 새로운 보안 체계를 도입하고 보안 신기술을 활용하는 데 더 적극적으로 나서야 한다\"고 말했다. 한재희 기자 onej@chosunbiz.com",
-          "src": "조선일보",
-          "date": "07/09",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165407",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165407_447174_1756_v150.jpg"
+          "title": "오픈AI, 「검색 불가」라더니 로그 7800만건 확보",
+          "desc": "오픈AI가 이를 막아왔다고 주장한다. 법원은 이 증거가 오픈AI를 침해자로 판단할지, 아니면 챗봇 기술을... 이번 공방의 결과는 오픈AI가 뉴욕타임스 콘텐츠를 학습에 활용하고 챗GPT 응답으로 재현한 행위가 침해인지...",
+          "src": "wikitree",
+          "date": "07/10",
+          "url": "https://www.wikitree.co.kr/articles/1145699",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/10/202607100651442177_ai.jpeg"
         },
         {
-          "title": "대형건설사, 스마트건설 생태계 구축 ‘속도’",
-          "desc": "스마트 기술 도입을 확대하고 있다. ‘AI 네이티브’ 속도 대우건설은 AX 및 스마트건설 체계 확립을 위한... 협업하는 ‘AI 네이티브’ 환경을 달성한다는 목표다. AI 네이티브는 단순히 업무 보조용으로 AI를 활용하...",
-          "src": "dnews",
-          "date": "07/09",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081204016650398",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/07/08/202607081204016650398-2-676679.png"
+          "title": "미쓰비시자동차, 도쿄대 벤처와 손잡고 '피지컬 AI' 로봇 대량 생산 닻 ...",
+          "desc": "현장 도입으로 협력의 판을 키운 것이다. 교토 공장 인프라 개방과 실전 투입 미쓰비시자동차는 로봇 대량... 피지컬 AI가 제대로 작동하기 위해서는 고도화된 소프트웨어 기술뿐만 아니라, 실제 산업 현장에서 획득한...",
+          "src": "g-enews",
+          "date": "07/10",
+          "url": "https://www.g-enews.com/view.php?ud=202607100707276707e7e8286d56_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20250321175325079780c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "3대 메가프로젝트 속도전 주문에 환경·야권 반발 확산",
-          "desc": "4기와 협력사·인력 생태계를 구축하고, 피지컬 AI 분야에서는 새만금 로봇 파운드리와 부품 클러스터를... 내용\"이라며 \"정권이 삼성전자와 SK하이닉스의 돈으로 특정 지역, 특정 지지층에 이익을 몰아주고, 그 대가로 표를...",
-          "src": "sisafocus",
-          "date": "07/08",
-          "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362291",
-          "img": "https://cdn.sisafocus.co.kr/news/thumbnail/202607/362291_445608_516_v150.jpg"
+          "title": "성과급 17조 떼고도 엔비디아 제친 삼성…‘HBM4’ 내세워 독주 체제 굳...",
+          "desc": "삼성전자가 올해 2분기 반도체 슈퍼사이클(초호황)에 힘입어 역대 최고 분기 실적을 새롭게 썼다. 글로벌... 기존 계획보다 수년 앞당겨진 팹 완성 스케줄과 동시 구축 요구가 협력사들의 수용 한계를 넘어서고 있다는...",
+          "src": "sportsseoul",
+          "date": "07/10",
+          "url": "https://n.news.naver.com/mnews/article/468/0001252841?sid=101",
+          "img": "https://file.sportsseoul.com/news/cms/2026/07/09/rcv.YNA.20260707.PYH2026070703200001300_P1.jpg"
         },
         {
-          "title": "현대차, 2분기 '매출 50조원' 눈앞…기아는 내실 다져",
-          "desc": "미국 판매 호조와 우호적 환율 효과로 외형은 성장했지만 협력사 화재와 원자재 가격 상승 등의 영향으로... 현재 국내에서 분기 매출 50조원을 달성한 기업은 삼성전자와 SK하이닉스 단 두 곳이다. 현대차가 '매출...",
-          "src": "sidae",
-          "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/417/0001150852?sid=103",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/08/06/2026070809315721923_1.jpg"
+          "title": "삼성 모바일, 판매 늘어도 수익성 부담…하반기 폴더블 시험대",
+          "desc": "통신업계에 따르면 삼성전자는 최근 부품 협력사에 갤럭시S26 시리즈의 7월 생산량을 기존 100만대 수준에서 150만대 이상으로 확대해 달라고 요청했다. 국내와 해외 시장 공급 물량을 모두 포함한 규모다. 생산 확대의...",
+          "src": "itdaily",
+          "date": "07/10",
+          "url": "http://www.itdaily.kr/news/articleView.html?idxno=240321",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240321_245691_2440_v150.jpg"
         },
         {
-          "title": "서남권 반도체 클러스터, '소부장 인프라' 대책 있나",
-          "desc": "삼성전자와 SK하이닉스가 주도하는 800조원 규모의 서남권 신규 반도체 클러스터 부지가 확정된 가운데, 업계에선 고대역폭메모리(HBM) 등 첨단 메모리 제조를 위한 핵심 소재·부품·장비(소부장) 인프라 배치와 협력사들의...",
-          "src": "sisajournal-e",
-          "date": "07/08",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422285",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202607/422285_236899_1852_v150.jpg"
+          "title": "“팔면 팔수록 손해”…삼성 무섭게 쫓던 샤오미도 ‘더 이상 못 만들겠...",
+          "desc": "가성비를 앞세워 글로벌 스마트폰 시장에서 애플과 삼성전자를 추격해온 중국 브랜드들이 올해 출하 목표를 대폭 낮춘 것으로 전해졌다. 인공지능(AI) 서버 수요가 폭발하면서 메모리 가격이 뛰고 스마트폰용 부품...",
+          "src": "서울경제",
+          "date": "07/09",
+          "url": "https://n.news.naver.com/mnews/article/011/0004640083?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/07/09/news-p.v1.20260709.c79b02508941476084e682673a50209d_R.jpg"
         },
         {
-          "title": "“인허가도 인프라도 동시에”⋯ 서남권 반도체 클러스터 구축 ‘속도전...",
-          "desc": "조 과장은 기업들이 요구하는 핵심 조건으로 대규모 산업부지와 협력사 입주 공간, 전용 변전소, 하루 40만톤... 이와 함께 소부장(소재·부품·장비) 기업 지원 확대 필요성도 제기됐다. 삼성전자와 SK하이닉스가 서남권에...",
-          "src": "viva100",
-          "date": "07/08",
-          "url": "https://www.viva100.com/article/20260708501005",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/08/.cache/512/20260708500879.jpg?v=20260709070251"
+          "title": "219조 베팅…메타, 9월 자체 AI칩 양산·내년 AI 인프라 14GW 확대",
+          "desc": "메타는 자사 수요에 맞춘 최적화 설계를 위해 칩 설계 협력사 브로드컴과 협력하고 있으며, 위탁생산... 글로벌 공급망 병목 현상에 대비한 핵심 부품 확보에도 나섰다. 고성능 메모리 반도체는 삼성전자로부터...",
+          "src": "joseilbo",
+          "date": "07/09",
+          "url": "https://n.news.naver.com/mnews/article/123/0002386271?sid=004",
+          "img": "https://www.joseilbo.com/gisa_img/17836011981783601198_shhappylife2001.png"
         }
       ]
     },
@@ -170,21 +170,21 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
+    },
+    {
       "title": "삼성전자 '전자레인지·큐커' 사업 접는다…\"가격경쟁력 떨어져 수익성...",
       "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846581",
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
-    },
-    {
-      "title": "동탄 아파트 규제 강화 속 주거용 오피스텔 분양… '대방 디에트르 퍼스...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445876?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/07/08/news-p.v1.20260708.2ff77ec6b95a44e2a56629440ff6aa2c_P1.jpg"
     },
     {
       "title": "[현장] 삼성·LG, 나노코리아 2026서 미래 기술 경쟁 선보여",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.smartbizn.com/news/photo/202607/148112_252975_523.jpg"
     },
     {
-      "title": "일상의 품격 높인 혁신·건강·디테일…고객 마음을 열다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307211?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/AA.44941496.1.jpg"
+      "title": "'나스닥 상장' SK하이닉스, 37조원 장전…글로벌 증설 드라이브",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=139639",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202607/139639_159714_1535_v150.jpg"
     },
     {
-      "title": "[정보보호 테크] ⑤SK텔레콤, 해킹 후 보안투자 '70% 증액' 효과보나",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=306023",
-      "img": "https://cdn.fetv.co.kr/news/photo/202607/306023_305647_05.jpg"
+      "title": "[창간특집] AI가 찾은 후보물질, 신약 파이프라인 될 수 있나",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040824",
+      "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202607/3040824_3044390_2434_v150.jpg"
     },
     {
-      "title": "[김동헌의 AI패러다임(42)] 월드컵이 보여준 AI의 역할 – 그라운드 밖에...",
-      "url": "https://www.news2day.co.kr/article/20260707500078",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/07/.cache/512/20260707500074.png"
+      "title": "오픈AI, 「검색 불가」라더니 로그 7800만건 확보",
+      "url": "https://www.wikitree.co.kr/articles/1145699",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/10/202607100651442177_ai.jpeg"
     }
   ]
 };
