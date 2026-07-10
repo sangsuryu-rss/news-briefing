@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.10 (금) 07:19",
+  "updatedAt": "2026.07.11 (토) 06:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,22 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
+          "desc": "삼성전자는 AI 가전을 집 안 생활을 돕는 '홈 컴패니언'으로 키우는 중이다. CES 2026에선 비스포크 AI 가전이 스마트싱스와 빅스비, 스크린·카메라를 기반으로 사용자를 이해하도록 진화한다고 설명했다. LG전자는 AI...",
+          "src": "한국경제",
+          "date": "07/10",
+          "url": "https://n.news.naver.com/mnews/article/015/0005308579?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.44986277.1.jpg"
+        },
+        {
+          "title": "자동차·가전·방산 ‘종횡무진’…제조설비 혁신 이끈다",
+          "desc": "자동차, 가전, 방위산업 분야를 종횡무진하는 한 강소기업이 주목받고 있다. 반월·시화국가산업단지... 2018년 삼성전자 세탁기용 댐퍼 양산 공급을 시작으로 구축된 협력관계는 2025년 ‘비스포크 AI 콤보’ 2세대 개발까지...",
+          "src": "biz",
+          "date": "07/10",
+          "url": "https://n.news.naver.com/mnews/article/016/0002668627?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/news-p.v1.20260709.4e0f3f8972ef416a900feeca98f3d0e1_T1.jpg"
+        },
+        {
           "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
           "desc": "2018년 삼성전자 세탁기용 댐퍼 양산 공급을 시작으로 구축된 협력관계는 2025년 ‘비스포크 AI 콤보’ 2세대 개발까지 확대됐다. 가전제품이 AI 기반으로 진화함에 따라 정숙성, 정밀제어, 내구성에 대한 요구수준이 한층...",
           "src": "biz",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "07/08",
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846581",
           "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
-        },
-        {
-          "title": "동탄 아파트 규제 강화 속 주거용 오피스텔 분양… '대방 디에트르 퍼스...",
-          "desc": "삼성 비스포크 냉장고와 김치냉장고, 스팀오븐, 천장형 냉난방 시스템(FCU), 일체형 비데 등 다양한 빌트인 가전을 기본 제공하며 피트니스센터와 골프연습장 등 커뮤니티 시설도 이용할 수 있어 실거주 만족도를...",
-          "src": "전자신문",
-          "date": "07/08",
-          "url": "https://n.news.naver.com/mnews/article/030/0003445876?sid=101",
-          "img": ""
-        },
-        {
-          "title": "[현장] 삼성·LG, 나노코리아 2026서 미래 기술 경쟁 선보여",
-          "desc": "나노기술, 생활가전에도 적용 삼성전자는 반도체뿐 아니라 나노기술을 활용한 생활가전도 함께 선보였다. 비스포크 AI 무풍 에어컨과 인피니트 AI 공기청정기에는 리유저블(재사용 가능) 집진·탈취 필터 기술이...",
-          "src": "smartbizn",
-          "date": "07/08",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=148112",
-          "img": "https://cdn.smartbizn.com/news/photo/202607/148112_252975_523.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'나스닥 상장' SK하이닉스, 37조원 장전…글로벌 증설 드라이브",
-          "desc": "메모리 반도체 수요가 꾸준히 늘어나는 상황에서, 이번에 조달한 자금을 생산능력 확대와 기술 경쟁력... 투자에 활용하겠다고 밝혔다. 내년 말까지 도입할 예정인 극자외선(EUV) 노광장비 구매에도 11조9000억원을...",
-          "src": "ziksir",
-          "date": "07/10",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=139639",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/139639_159714_1535_v150.jpg"
+          "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다",
+          "desc": "보고 기술 주도권 확보와 생태계 선점에 사활을 걸고 있다. '아는 AI'에서 '일하는 AI'로…중견기업도 도입... 글로벌 AI 설문조사에 따르면 전 세계 기업의 65%가 이미 업무에 생성형 AI를 정기적으로 활용하고 있다. 이는...",
+          "src": "연합뉴스",
+          "date": "07/11",
+          "url": "https://n.news.naver.com/mnews/article/001/0016188476?sid=105",
+          "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709038600017_01_i_P4.jpg"
         },
         {
-          "title": "[창간특집] AI가 찾은 후보물질, 신약 파이프라인 될 수 있나",
-          "desc": "줄일 기술로 주목받았지만, 지금은 도입 여부를 넘어 실제 연구개발 의사결정과 파이프라인 성과로 이어질 수 있는지에 관심이 모인다. 글로벌 빅파마와 국내 제약바이오 기업들의 AI 활용 전략을 통해 K-신약개발의...",
-          "src": "docdocdoc",
-          "date": "07/10",
-          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040824",
-          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202607/3040824_3044390_2434_v150.jpg"
+          "title": "[제약공시 책갈피] 7월 2주차 - HLB·리가켐바이오·롯데바이오 外",
+          "desc": "삼성바이오에피스와 프로티나는 인공지능(AI)을 활용한 개량항체 공동기술개발과 기술도입 옵션 계약을 체결했다. 동아쏘시오홀딩스 자회사 비티젠은 알테오젠의 추가 생산 배치 요청에 따라 바이오의약품...",
+          "src": "medipana",
+          "date": "07/11",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=414429",
+          "img": "https://cdn.medipana.com/news/photo/202607/414429_320530_455.jpg"
         },
         {
-          "title": "오픈AI, 「검색 불가」라더니 로그 7800만건 확보",
-          "desc": "오픈AI가 이를 막아왔다고 주장한다. 법원은 이 증거가 오픈AI를 침해자로 판단할지, 아니면 챗봇 기술을... 이번 공방의 결과는 오픈AI가 뉴욕타임스 콘텐츠를 학습에 활용하고 챗GPT 응답으로 재현한 행위가 침해인지...",
-          "src": "wikitree",
-          "date": "07/10",
-          "url": "https://www.wikitree.co.kr/articles/1145699",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/10/202607100651442177_ai.jpeg"
+          "title": "일본 기초의학 석학 \"일본 연구 위기 직면, 한일 공동 연구 구축해야\"",
+          "desc": "과학기술혁신기본계획(2026~2030)에서 바이오ㆍ헬스케어를 국가 전략 분야로 지정했다. 특히 의사과학자... 시스템을 도입하고 연구 계획서 작성 시 AI를 활용하는 연구 디지털 전환을 통해 연구 시간을 확보하는 내용을...",
+          "src": "newsmp",
+          "date": "07/11",
+          "url": "http://www.newsmp.com/news/articleView.html?idxno=256081",
+          "img": "http://www.newsmp.com/news/thumbnail/202607/256081_293046_1936_v150.jpg"
         },
         {
-          "title": "미쓰비시자동차, 도쿄대 벤처와 손잡고 '피지컬 AI' 로봇 대량 생산 닻 ...",
-          "desc": "현장 도입으로 협력의 판을 키운 것이다. 교토 공장 인프라 개방과 실전 투입 미쓰비시자동차는 로봇 대량... 피지컬 AI가 제대로 작동하기 위해서는 고도화된 소프트웨어 기술뿐만 아니라, 실제 산업 현장에서 획득한...",
-          "src": "g-enews",
-          "date": "07/10",
-          "url": "https://www.g-enews.com/view.php?ud=202607100707276707e7e8286d56_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20250321175325079780c8c1c064d22114611240.jpg"
+          "title": "'홀로서기' 삼성에피스, 비만약에 항체도 탑재…신약 투자 가속",
+          "desc": "프로티나와 기술도입 옵션…세 번째 기술도입 계약 11일 금융감독원에 따르면 삼성바이오에피스는 최근... 주관 '인공지능(AI) 모델을 활용한 항체 바이오의약품 개발 및 실증' 국책과제의 후속 계약이다. 계약 기간은...",
+          "src": "dailypharm",
+          "date": "07/11",
+          "url": "https://www.dailypharm.com/user/news/340355?REFERER=NP",
+          "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/07/10/4d8fe0d7-e4fa-4a58-9f85-646adcebceb6.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "성과급 17조 떼고도 엔비디아 제친 삼성…‘HBM4’ 내세워 독주 체제 굳...",
-          "desc": "삼성전자가 올해 2분기 반도체 슈퍼사이클(초호황)에 힘입어 역대 최고 분기 실적을 새롭게 썼다. 글로벌... 기존 계획보다 수년 앞당겨진 팹 완성 스케줄과 동시 구축 요구가 협력사들의 수용 한계를 넘어서고 있다는...",
-          "src": "sportsseoul",
+          "title": "[산업X파일] 칼날도 견디는 옷? 중대재해법 타고 ‘작업복’이 뜬다",
+          "desc": "K2세이프티는 2023년 10월 삼성전자 평택캠퍼스 근처에 직영점을 연 데 이어, 올 1월엔 용인 반도체 클러스터 인근에 추가로 직영점을 개점했다. 반도체 협력사에서 단체로 구매하기도 하고, 개인이 사 가는 경우도 있다고...",
+          "src": "조선일보",
+          "date": "07/11",
+          "url": "https://n.news.naver.com/mnews/article/023/0003987040?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/BBAZ55NYUJA4LIDW7IOF3EX3BE.jpg?auth=e70cc6ac4413460589ce041d13f882d3113eaa1291cd8df635afabf632272bfd&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "최태원 \"AI 메모리 수요, 2배 늘려도 부족…과거 사이클과 달라\"",
+          "desc": "주주, 협력사, 파트너들에게 감사드린다\"고 말했다. 이어 \"이번 상장을 통해 글로벌 자본시장에 직접... 구글과 엔비디아 등 주요 빅테크가 HBM 사용량을 줄이는 방향으로 제품을 설계하고, 삼성전자 등 경쟁사도...",
+          "src": "apnews",
+          "date": "07/11",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3049685",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049685_81639_4740_v150.jpg"
+        },
+        {
+          "title": "호남 반도체 벨트 쟁점 들여다보니",
+          "desc": "수도권에 집중된 연구개발 인력, 소재·부품·장비 협력사를 호남권에 정착시키는 일도 난제다. 전문가들은... 지난해 말 착공한 삼성전자 평택 P5 팹1 면적은 약 13만㎡다. 변전소와 폐수 처리시설 등 기반시설을...",
+          "src": "매일경제",
           "date": "07/10",
-          "url": "https://n.news.naver.com/mnews/article/468/0001252841?sid=101",
-          "img": "https://file.sportsseoul.com/news/cms/2026/07/09/rcv.YNA.20260707.PYH2026070703200001300_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000106802?sid=101",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "삼성 모바일, 판매 늘어도 수익성 부담…하반기 폴더블 시험대",
-          "desc": "통신업계에 따르면 삼성전자는 최근 부품 협력사에 갤럭시S26 시리즈의 7월 생산량을 기존 100만대 수준에서 150만대 이상으로 확대해 달라고 요청했다. 국내와 해외 시장 공급 물량을 모두 포함한 규모다. 생산 확대의...",
-          "src": "itdaily",
+          "title": "최원용 평택시장 \"삼성전자 적기 투자 행정지원\"",
+          "desc": "(소재·부품·장비) 산업 생태계'를 본격적으로 육성하고자 마련됐다. 현재 삼성전자는 평택캠퍼스 1단지(P1... 중소 협력사가 윈윈하며 공존할 수 있는 튼튼한 생태계를 다지는 데 행정·재정적 지원을 아끼지 않겠다\"고...",
+          "src": "enewstoday",
           "date": "07/10",
-          "url": "http://www.itdaily.kr/news/articleView.html?idxno=240321",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240321_245691_2440_v150.jpg"
-        },
-        {
-          "title": "“팔면 팔수록 손해”…삼성 무섭게 쫓던 샤오미도 ‘더 이상 못 만들겠...",
-          "desc": "가성비를 앞세워 글로벌 스마트폰 시장에서 애플과 삼성전자를 추격해온 중국 브랜드들이 올해 출하 목표를 대폭 낮춘 것으로 전해졌다. 인공지능(AI) 서버 수요가 폭발하면서 메모리 가격이 뛰고 스마트폰용 부품...",
-          "src": "서울경제",
-          "date": "07/09",
-          "url": "https://n.news.naver.com/mnews/article/011/0004640083?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/09/news-p.v1.20260709.c79b02508941476084e682673a50209d_R.jpg"
-        },
-        {
-          "title": "219조 베팅…메타, 9월 자체 AI칩 양산·내년 AI 인프라 14GW 확대",
-          "desc": "메타는 자사 수요에 맞춘 최적화 설계를 위해 칩 설계 협력사 브로드컴과 협력하고 있으며, 위탁생산... 글로벌 공급망 병목 현상에 대비한 핵심 부품 확보에도 나섰다. 고성능 메모리 반도체는 삼성전자로부터...",
-          "src": "joseilbo",
-          "date": "07/09",
-          "url": "https://n.news.naver.com/mnews/article/123/0002386271?sid=004",
-          "img": "https://www.joseilbo.com/gisa_img/17836011981783601198_shhappylife2001.png"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447796",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2447796_1285844_425_v150.jpg"
         }
       ]
     },
@@ -170,12 +170,22 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
+    {
+      "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308579?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/01.44986277.1.jpg"
+    },
+    {
+      "title": "자동차·가전·방산 ‘종횡무진’…제조설비 혁신 이끈다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668627?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/news-p.v1.20260709.4e0f3f8972ef416a900feeca98f3d0e1_T1.jpg"
+    },
     {
       "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
       "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
     },
     {
-      "title": "[현장] 삼성·LG, 나노코리아 2026서 미래 기술 경쟁 선보여",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=148112",
-      "img": "https://cdn.smartbizn.com/news/photo/202607/148112_252975_523.jpg"
+      "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188476?sid=105",
+      "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709038600017_01_i_P4.jpg"
     },
     {
-      "title": "'나스닥 상장' SK하이닉스, 37조원 장전…글로벌 증설 드라이브",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=139639",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/139639_159714_1535_v150.jpg"
-    },
-    {
-      "title": "[창간특집] AI가 찾은 후보물질, 신약 파이프라인 될 수 있나",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040824",
-      "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202607/3040824_3044390_2434_v150.jpg"
-    },
-    {
-      "title": "오픈AI, 「검색 불가」라더니 로그 7800만건 확보",
-      "url": "https://www.wikitree.co.kr/articles/1145699",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/10/202607100651442177_ai.jpeg"
+      "title": "[제약공시 책갈피] 7월 2주차 - HLB·리가켐바이오·롯데바이오 外",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=414429",
+      "img": "https://cdn.medipana.com/news/photo/202607/414429_320530_455.jpg"
     }
   ]
 };
