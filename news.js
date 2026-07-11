@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.11 (토) 06:58",
+  "updatedAt": "2026.07.12 (일) 06:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다",
-          "desc": "보고 기술 주도권 확보와 생태계 선점에 사활을 걸고 있다. '아는 AI'에서 '일하는 AI'로…중견기업도 도입... 글로벌 AI 설문조사에 따르면 전 세계 기업의 65%가 이미 업무에 생성형 AI를 정기적으로 활용하고 있다. 이는...",
+          "title": "[AI혁명](206)세계 최초 로봇 내시경…메디인테크 \"의료에 피지컬 AI 접목...",
+          "desc": "소화기 내시경 장비에 로봇과 피지컬 AI 기술을 적용한 건 인티온이 세계 최초라는 게 메디인테크의... AI를 활용한 만큼 병변을 감지하는 확률도 높아졌다. 식품의약품안전처의 허가를 위한 임상시험 데이터 기준으로...",
+          "src": "view",
+          "date": "07/12",
+          "url": "https://n.news.naver.com/mnews/article/277/0005788615?sid=105",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026062315331320544_1782196393.jpg"
+        },
+        {
+          "title": "[박근종 칼럼] 산업전환은 빛의 속도인데 고용 한파에 멍든 청년층 생계...",
+          "desc": "AI의 도입으로 일자리의 모습이 바뀌고 있는 것은 거역할 수 없는 도도한 시대적 조류이자 목도(目睹)되고 있는 분명한 현실이다. 국가데이터처가 지난 6월 11일 발표한 '2026년 5월 고용동향'을 보면 전문과학 및 기술...",
+          "src": "mhns",
+          "date": "07/12",
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=753121",
+          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+        },
+        {
+          "title": "반도체에 천문학적 투자… 삼성·SK 자금조달 전략은",
+          "desc": "노광장비 도입 등에 투입할 계획이다. 미국 자본시장을 활용하면 투자 재원을 확보하는 동시에 글로벌 투자자 기반을 확대하는 효과도 기대할 수 있다. 류영호 NH투자증권 연구원은 \"이번 발표로 메모리가 AI 시대...",
+          "src": "조선일보",
+          "date": "07/12",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165310",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165310_447039_721_v150.jpg"
+        },
+        {
+          "title": "[소셜＋] 익명 뒤 숨은 혐오·외설… 대학 플랫폼 전국 게시판 논란",
+          "desc": "(B과학기술원), \"자유민주주의를 끝장낼 40·50과 호남,\"(C대학) 대학별 폐쇄형 커뮤니티로 운영되던... 아울러 비누랩스는 자체 개발 중인 'AI(인공지능) 모니터링 시스템'을 2학기부터 전면 도입할 예정이라며 본인 명의 인증...",
           "src": "연합뉴스",
-          "date": "07/11",
-          "url": "https://n.news.naver.com/mnews/article/001/0016188476?sid=105",
-          "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709038600017_01_i_P4.jpg"
-        },
-        {
-          "title": "[제약공시 책갈피] 7월 2주차 - HLB·리가켐바이오·롯데바이오 外",
-          "desc": "삼성바이오에피스와 프로티나는 인공지능(AI)을 활용한 개량항체 공동기술개발과 기술도입 옵션 계약을 체결했다. 동아쏘시오홀딩스 자회사 비티젠은 알테오젠의 추가 생산 배치 요청에 따라 바이오의약품...",
-          "src": "medipana",
-          "date": "07/11",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=414429",
-          "img": "https://cdn.medipana.com/news/photo/202607/414429_320530_455.jpg"
-        },
-        {
-          "title": "일본 기초의학 석학 \"일본 연구 위기 직면, 한일 공동 연구 구축해야\"",
-          "desc": "과학기술혁신기본계획(2026~2030)에서 바이오ㆍ헬스케어를 국가 전략 분야로 지정했다. 특히 의사과학자... 시스템을 도입하고 연구 계획서 작성 시 AI를 활용하는 연구 디지털 전환을 통해 연구 시간을 확보하는 내용을...",
-          "src": "newsmp",
-          "date": "07/11",
-          "url": "http://www.newsmp.com/news/articleView.html?idxno=256081",
-          "img": "http://www.newsmp.com/news/thumbnail/202607/256081_293046_1936_v150.jpg"
-        },
-        {
-          "title": "'홀로서기' 삼성에피스, 비만약에 항체도 탑재…신약 투자 가속",
-          "desc": "프로티나와 기술도입 옵션…세 번째 기술도입 계약 11일 금융감독원에 따르면 삼성바이오에피스는 최근... 주관 '인공지능(AI) 모델을 활용한 항체 바이오의약품 개발 및 실증' 국책과제의 후속 계약이다. 계약 기간은...",
-          "src": "dailypharm",
-          "date": "07/11",
-          "url": "https://www.dailypharm.com/user/news/340355?REFERER=NP",
-          "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/07/10/4d8fe0d7-e4fa-4a58-9f85-646adcebceb6.jpg"
+          "date": "07/12",
+          "url": "https://n.news.naver.com/mnews/article/001/0016189107?sid=102",
+          "img": "https://img6.yna.co.kr/photo/cms/2025/07/18/64/PCM20250718000064990_P4.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[산업X파일] 칼날도 견디는 옷? 중대재해법 타고 ‘작업복’이 뜬다",
-          "desc": "K2세이프티는 2023년 10월 삼성전자 평택캠퍼스 근처에 직영점을 연 데 이어, 올 1월엔 용인 반도체 클러스터 인근에 추가로 직영점을 개점했다. 반도체 협력사에서 단체로 구매하기도 하고, 개인이 사 가는 경우도 있다고...",
-          "src": "조선일보",
-          "date": "07/11",
-          "url": "https://n.news.naver.com/mnews/article/023/0003987040?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/BBAZ55NYUJA4LIDW7IOF3EX3BE.jpg?auth=e70cc6ac4413460589ce041d13f882d3113eaa1291cd8df635afabf632272bfd&width=1200&height=630&smart=true"
+          "title": "“사실 의아하다” 호남 반도체 ‘한 지붕 두 회사’…치밀한 공간배치...",
+          "desc": "호남 반도체 클러스터는 삼성전자와 SK하이닉스가 ‘한지붕’ 아래 동거하는 첫 사례인 데다 각 회사의 소재·부품·장비 협력사들의 입주까지 고려한다면 효율적 공간 배치가 필요하다는 주장이 나온다. 김상묵...",
+          "src": "biz",
+          "date": "07/12",
+          "url": "https://n.news.naver.com/mnews/article/016/0002668996?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/rcv.YNA.20260707.PYH2026070706690005400_T1.jpg"
         },
         {
-          "title": "최태원 \"AI 메모리 수요, 2배 늘려도 부족…과거 사이클과 달라\"",
-          "desc": "주주, 협력사, 파트너들에게 감사드린다\"고 말했다. 이어 \"이번 상장을 통해 글로벌 자본시장에 직접... 구글과 엔비디아 등 주요 빅테크가 HBM 사용량을 줄이는 방향으로 제품을 설계하고, 삼성전자 등 경쟁사도...",
-          "src": "apnews",
-          "date": "07/11",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3049685",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049685_81639_4740_v150.jpg"
-        },
-        {
-          "title": "호남 반도체 벨트 쟁점 들여다보니",
-          "desc": "수도권에 집중된 연구개발 인력, 소재·부품·장비 협력사를 호남권에 정착시키는 일도 난제다. 전문가들은... 지난해 말 착공한 삼성전자 평택 P5 팹1 면적은 약 13만㎡다. 변전소와 폐수 처리시설 등 기반시설을...",
+          "title": "호남 반도체 800조 베팅, 성공 조건은",
+          "desc": "정부는 삼성전자와 SK하이닉스가 광주 일대에 총 800조원을 투자해 메모리 반도체 팹 4기를 짓는 구상을... 대기업이 입주하더라도 이를 받쳐줄 소재, 부품, 장비 협력사들이 함께 집적화된 생태계를 형성하지 못하면 공정...",
           "src": "매일경제",
-          "date": "07/10",
-          "url": "https://n.news.naver.com/mnews/article/024/0000106802?sid=101",
+          "date": "07/11",
+          "url": "https://n.news.naver.com/mnews/article/024/0000106815?sid=101",
           "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "최원용 평택시장 \"삼성전자 적기 투자 행정지원\"",
-          "desc": "(소재·부품·장비) 산업 생태계'를 본격적으로 육성하고자 마련됐다. 현재 삼성전자는 평택캠퍼스 1단지(P1... 중소 협력사가 윈윈하며 공존할 수 있는 튼튼한 생태계를 다지는 데 행정·재정적 지원을 아끼지 않겠다\"고...",
-          "src": "enewstoday",
-          "date": "07/10",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447796",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2447796_1285844_425_v150.jpg"
+          "title": "\"로봇 믿고 쓸어담았는데\"…증권가 전망에 개미들 '대혼란' [투자톡]",
+          "desc": "삼성전자, SK하이닉스 등 반도체 기업을 빼면 국내 첫 '분기 매출 50조 클럽' 멤버가 되기 때문이다.... 연이은 협력사 화재가 부담으로 작용했다\"고 짚었다. 원·달러, 원·유로 환율 상승도 현대차에는 부정적인 요인으로...",
+          "src": "한국경제",
+          "date": "07/11",
+          "url": "https://n.news.naver.com/mnews/article/015/0005308878?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.44976694.1.jpg"
+        },
+        {
+          "title": "하나은행 반도체 소부장 협력기업에 생산적금융 공급…스케일업 지원",
+          "desc": "삼성전자·SK하이닉스 등 대기업 중심으로 편중된 반도체시장 성장세를 소부장(소재·부품·장비)과 중소... 그러면서 \"생산적금융 실천을 위해 반도체 관련업종은 물론 대기업의 2차·3차 협력사까지 폭넓은 지원이...",
+          "src": "inthenews",
+          "date": "07/11",
+          "url": "https://www.inthenews.co.kr/news/article.html?no=89202",
+          "img": ""
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
     },
     {
-      "title": "[AI돋보기] '챗봇'은 옛말…알아서 일하는 'AI 에이전트' 뜬다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016188476?sid=105",
-      "img": "https://img3.yna.co.kr/etc/inner/KR/2026/07/09/AKR20260709038600017_01_i_P4.jpg"
+      "title": "[AI혁명](206)세계 최초 로봇 내시경…메디인테크 \"의료에 피지컬 AI 접목...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788615?sid=105",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026062315331320544_1782196393.jpg"
     },
     {
-      "title": "[제약공시 책갈피] 7월 2주차 - HLB·리가켐바이오·롯데바이오 外",
-      "url": "https://www.medipana.com/news/articleView.html?idxno=414429",
-      "img": "https://cdn.medipana.com/news/photo/202607/414429_320530_455.jpg"
+      "title": "[박근종 칼럼] 산업전환은 빛의 속도인데 고용 한파에 멍든 청년층 생계...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=753121",
+      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
     }
   ]
 };
