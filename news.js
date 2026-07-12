@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.12 (일) 06:45",
+  "updatedAt": "2026.07.13 (월) 06:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AI혁명](206)세계 최초 로봇 내시경…메디인테크 \"의료에 피지컬 AI 접목...",
-          "desc": "소화기 내시경 장비에 로봇과 피지컬 AI 기술을 적용한 건 인티온이 세계 최초라는 게 메디인테크의... AI를 활용한 만큼 병변을 감지하는 확률도 높아졌다. 식품의약품안전처의 허가를 위한 임상시험 데이터 기준으로...",
-          "src": "view",
-          "date": "07/12",
-          "url": "https://n.news.naver.com/mnews/article/277/0005788615?sid=105",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026062315331320544_1782196393.jpg"
+          "title": "표적을 고르는 AI, ‘책임 공백’은 새로운 전쟁범죄",
+          "desc": "〈인간 없는 전쟁〉을 쓴 최재운 광운대 교수(경영학부 빅데이터경영), 교육 현장에 AI 기술이 활용될... 기존에는 머신러닝을 통해 스팸메시지 등에서 이상 행위를 탐지하고, 산불 같은 재난에 AI 감시 체계를 도입하는...",
+          "src": "sisain",
+          "date": "07/13",
+          "url": "https://n.news.naver.com/mnews/article/308/0000038502?sid=102",
+          "img": "https://cdn.sisain.co.kr/news/photo/202607/58197_112916_2523.jpg"
         },
         {
-          "title": "[박근종 칼럼] 산업전환은 빛의 속도인데 고용 한파에 멍든 청년층 생계...",
-          "desc": "AI의 도입으로 일자리의 모습이 바뀌고 있는 것은 거역할 수 없는 도도한 시대적 조류이자 목도(目睹)되고 있는 분명한 현실이다. 국가데이터처가 지난 6월 11일 발표한 '2026년 5월 고용동향'을 보면 전문과학 및 기술...",
-          "src": "mhns",
-          "date": "07/12",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=753121",
-          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+          "title": "[N2 인터뷰] 이재광 나루씨큐리티 위협대응센터장 \"보안은 예방 아닌 검...",
+          "desc": "과거에는 \"어떤 솔루션을 추가로 도입해야 하는가\", \"외부 공격을 어떻게 차단할 것인가\"가 관심사였다면... AI를 활용한 공격이 빠르게 진화하고 있다. 나루씨큐리티는 어떤 대응 전략을 준비하고 있나. A. \"AI 기반 공격의...",
+          "src": "news2day",
+          "date": "07/13",
+          "url": "https://www.news2day.co.kr/article/20260710500237",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/10/.cache/512/20260710500228.png"
         },
         {
-          "title": "반도체에 천문학적 투자… 삼성·SK 자금조달 전략은",
-          "desc": "노광장비 도입 등에 투입할 계획이다. 미국 자본시장을 활용하면 투자 재원을 확보하는 동시에 글로벌 투자자 기반을 확대하는 효과도 기대할 수 있다. 류영호 NH투자증권 연구원은 \"이번 발표로 메모리가 AI 시대...",
-          "src": "조선일보",
-          "date": "07/12",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165310",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165310_447039_721_v150.jpg"
+          "title": "SK하이닉스, '40조' 실탄으로 '새로운 미래' 만든다",
+          "desc": "자금으로 활용할 계획이라고 공시했다. 내년 말까지 도입 예정인 극자외선(EUV) 노광장비 도입에도... SK하이닉스는 기술 리더십을 증명하며 AI가 있는 모든 곳에 함께하겠다\"고 말했다. [비즈월드= / ]",
+          "src": "bizwnews",
+          "date": "07/13",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=140475",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202607/140475_157137_538_v150.jpg"
         },
         {
-          "title": "[소셜＋] 익명 뒤 숨은 혐오·외설… 대학 플랫폼 전국 게시판 논란",
-          "desc": "(B과학기술원), \"자유민주주의를 끝장낼 40·50과 호남,\"(C대학) 대학별 폐쇄형 커뮤니티로 운영되던... 아울러 비누랩스는 자체 개발 중인 'AI(인공지능) 모니터링 시스템'을 2학기부터 전면 도입할 예정이라며 본인 명의 인증...",
-          "src": "연합뉴스",
-          "date": "07/12",
-          "url": "https://n.news.naver.com/mnews/article/001/0016189107?sid=102",
-          "img": "https://img6.yna.co.kr/photo/cms/2025/07/18/64/PCM20250718000064990_P4.jpg"
+          "title": "K-제약 경쟁력 ”AI가 직접 실험하는 ‘자율실험실’에 달렸다”",
+          "desc": "피지컬 AI 기술이다. 실제로 해외에서는 자율실험실 구현을 위한 소프트웨어 플랫폼 개발과 인프라 구축이... 특히 개별 기관 중심의 자율실험실 구축·운영을 넘어 산·학·연·병이 공동 활용하는 피지컬 AI 기반 공유...",
+          "src": "viva100",
+          "date": "07/13",
+          "url": "https://www.viva100.com/article/20260712500320",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500319.png?v=20260713064449"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "“사실 의아하다” 호남 반도체 ‘한 지붕 두 회사’…치밀한 공간배치...",
-          "desc": "호남 반도체 클러스터는 삼성전자와 SK하이닉스가 ‘한지붕’ 아래 동거하는 첫 사례인 데다 각 회사의 소재·부품·장비 협력사들의 입주까지 고려한다면 효율적 공간 배치가 필요하다는 주장이 나온다. 김상묵...",
-          "src": "biz",
+          "title": "“발주 늘었지만 마진은 그대로”… 삼성전자·SK하이닉스 초호황에도 ...",
+          "desc": "따르면 삼성전자·SK하이닉스가 AI 메모리 수퍼사이클(초호황기)에 역대급 수익성을 기록하고 있지만, 국내 소재·부품·장비(소부장) 협력사 사이에서는 “일은 늘었는데 마진은 크게 달라지지 않았다”는 말이...",
+          "src": "조선일보",
+          "date": "07/13",
+          "url": "https://n.news.naver.com/mnews/article/366/0001178648?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/CPC6TBOCIFHNDFKAMEND4X5SUE.jpg?auth=954c7a3c4743f29a7983fa7a26ba1aed221209ba60199ac900a1c1b891cd890b&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "로봇 공포가 낳은 현대차의 기괴한 월급제 합의",
+          "desc": "무엇보다 현대차의 과격한 자동화 속도를 따라가지 못해 고사 위기에 처할 중소 부품 협력사들에게도 생존을... 최근 본격적인 세력 확장과 파업 노선을 다듬고 있는 삼성전자 노조를 비롯해, AI와 첨단 무인화의 파고를...",
+          "src": "ngonews",
           "date": "07/12",
-          "url": "https://n.news.naver.com/mnews/article/016/0002668996?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/rcv.YNA.20260707.PYH2026070706690005400_T1.jpg"
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=232744",
+          "img": "https://cdn.ngonews.kr/news/photo/202607/232744_236004_5838.png"
         },
         {
-          "title": "호남 반도체 800조 베팅, 성공 조건은",
-          "desc": "정부는 삼성전자와 SK하이닉스가 광주 일대에 총 800조원을 투자해 메모리 반도체 팹 4기를 짓는 구상을... 대기업이 입주하더라도 이를 받쳐줄 소재, 부품, 장비 협력사들이 함께 집적화된 생태계를 형성하지 못하면 공정...",
-          "src": "매일경제",
-          "date": "07/11",
-          "url": "https://n.news.naver.com/mnews/article/024/0000106815?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "카카오뱅크, 한-몽골 비즈니스 포럼서 디지털 금융 혁신 경험 공유 外",
+          "desc": "이번 협약은 최근 삼성전자, SK하이닉스 등 대기업 중심으로 편중된 반도체 시장의 성장세를 소부장 및 중소... 3차 협력사들까지 폭넓은 지원이 실질적으로 이뤄지도록 금융지원에 앞장서겠다\"고 밝혔다. KB금융...",
+          "src": "rcast",
+          "date": "07/12",
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31245",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31245_60397_1310_v150.jpg"
         },
         {
-          "title": "\"로봇 믿고 쓸어담았는데\"…증권가 전망에 개미들 '대혼란' [투자톡]",
-          "desc": "삼성전자, SK하이닉스 등 반도체 기업을 빼면 국내 첫 '분기 매출 50조 클럽' 멤버가 되기 때문이다.... 연이은 협력사 화재가 부담으로 작용했다\"고 짚었다. 원·달러, 원·유로 환율 상승도 현대차에는 부정적인 요인으로...",
-          "src": "한국경제",
-          "date": "07/11",
-          "url": "https://n.news.naver.com/mnews/article/015/0005308878?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.44976694.1.jpg"
-        },
-        {
-          "title": "하나은행 반도체 소부장 협력기업에 생산적금융 공급…스케일업 지원",
-          "desc": "삼성전자·SK하이닉스 등 대기업 중심으로 편중된 반도체시장 성장세를 소부장(소재·부품·장비)과 중소... 그러면서 \"생산적금융 실천을 위해 반도체 관련업종은 물론 대기업의 2차·3차 협력사까지 폭넓은 지원이...",
-          "src": "inthenews",
-          "date": "07/11",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=89202",
-          "img": ""
+          "title": "“美에 메모리 공장 지어라” 압박에… 반도체 투자 딜레마 빠진 삼전닉...",
+          "desc": "상무장관이 ‘삼성전자와 SK하이닉스가 미국 내에 메모리 반도체 생산시설을 지어야 한다’는 입장을... 미국은 인건비·건설비가 높고 소재·부품·장비 협력사 생태계도 얇아 같은 팹이라도 국내보다 훨씬 많은 비용과...",
+          "src": "segye",
+          "date": "07/12",
+          "url": "https://n.news.naver.com/mnews/article/022/0004142460?sid=101",
+          "img": "https://www.segye.com/content/image/2026/07/12/20260712513891.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
     },
     {
-      "title": "[AI혁명](206)세계 최초 로봇 내시경…메디인테크 \"의료에 피지컬 AI 접목...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005788615?sid=105",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026062315331320544_1782196393.jpg"
+      "title": "표적을 고르는 AI, ‘책임 공백’은 새로운 전쟁범죄",
+      "url": "https://n.news.naver.com/mnews/article/308/0000038502?sid=102",
+      "img": "https://cdn.sisain.co.kr/news/photo/202607/58197_112916_2523.jpg"
     },
     {
-      "title": "[박근종 칼럼] 산업전환은 빛의 속도인데 고용 한파에 멍든 청년층 생계...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=753121",
-      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+      "title": "[N2 인터뷰] 이재광 나루씨큐리티 위협대응센터장 \"보안은 예방 아닌 검...",
+      "url": "https://www.news2day.co.kr/article/20260710500237",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/10/.cache/512/20260710500228.png"
     }
   ]
 };
