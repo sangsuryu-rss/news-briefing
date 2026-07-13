@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 07:25",
+  "updatedAt": "2026.07.14 (화) 07:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -17,40 +17,40 @@ window.NEWS_DATA = {
     {
       "cls": "",
       "icon": "📺",
-      "title": "삼성전자 가전·DX",
+      "title": "삼성전자 가전",
       "color": "#1428a0",
       "items": [
         {
-          "title": "[박종면칼럼] 삼성전자 '승어부' 이재용, '낡은 틀' 사업지원실",
-          "desc": "가전과 모바일의 DX부문에는 600만원 상당의 자사주를 지급하기로 했습니다. 파업은 막았지만 성공한 협상이라고 부르기는 어렵습니다. 삼성의 대응 논리도 낡았습니다. 성과급을 영업이익의 일정 비율로 지급하면...",
-          "src": "블로터",
+          "title": "세계서 돈 제일 잘 버는 삼성전자, 분기 영업익 '100조원' 시대 눈앞",
+          "desc": "중국의 시장조사업체 AVC에 따르면 지난 4월 기준 삼성전자의 중국 가전 시장 점유율은 TV의 경우 3.62%로 5위, 냉장고는 0.41%로 13위, 세탁기는 0.38%로 15위에 각각 랭크됐다. DX 부문 실적을 지탱하는 모바일경험(MX)...",
+          "src": "weekly",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/293/0000087585?sid=110",
-          "img": "https://cdn.bloter.net/news/thumbnail/202607/667935_280811_1110_v150.jpg"
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173688",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7173688_239580_1447_v150.jpg"
         },
         {
-          "title": "메모리 원가 부담·애플 추격..삼성전자, Z폴드8 '폼팩터 혁신' 승부수",
-          "desc": "노태문 삼성전자 DX부문 사장은 최근 기고문에서 \"똑똑한 AI보다 더 중요한 것은 나를 가장 잘 아는 AI\"라며... 증권시장에서는 모바일 영업이익이 5000억원에서 1조원 대에 그치고 TV와 생활가전은 1000억원을 밑돌...",
-          "src": "파이낸셜투데이",
+          "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
+          "desc": "삼성전자는 보안과 화재, 누수, 에너지 비용 문제를 AI홈의 핵심 공략 포인트로 삼았다. AI 도어캠과 홈캠, 로봇청소기를 통해 집 안팎의 보안을 실시간으로 관리하고, 주변 환경과 생활 패턴에 맞춰 냉난방을 최적화해...",
+          "src": "파이낸셜뉴스",
           "date": "07/13",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362021",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362021_370588_4458_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005547546?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/13/202607131808481186_l.jpg"
         },
         {
-          "title": "칩플레이션에 가전·휴대폰 수리비도 올라... 삼성전자 자재비 5~9% 인상",
-          "desc": "휴대폰과 가전제품의 가격뿐 아니라 수리 비용까지 끌어올리고 있다. 13일 업계에 따르면, 삼성전자는... 삼성전자의 올해 1분기 원재료 매입액은 27조8,078억 원으로, 전년 대비 7,650억 원(2.8%) 증가했다. 완제품(DX)...",
-          "src": "한국일보",
+          "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
+          "desc": "국내외 가전업계 간판, 삼성전자와 LG전자가 글로벌 B2B(기업 간 거래) 가전 시장 공략에 속도를 내고 있다.... 세탁기와 건조기, 일체형 세탁건조기 등 총 6종으로 구성된 LG 프로페셔널은 호텔과 병원, 요양시설 등...",
+          "src": "브릿지경제",
           "date": "07/13",
-          "url": "https://n.news.naver.com/mnews/article/469/0000942002?sid=105",
-          "img": "https://newsimg.hankookilbo.com/2026/07/13/1f6755a8-f022-4889-95d2-1f900d56b002.jpg"
+          "url": "https://www.viva100.com/article/20260712500366",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714073725"
         },
         {
-          "title": "삼성전자 가전 '보상 불만' 계속…연이어 노조 집회",
-          "desc": "삼성전자에서 가전사업을 맡는 디바이스경험(DX)부문의 성과보상을 둘러싼 불만이 잦아들지 않고 있다. 성과보상 격차에 반발한 노조가 잇달아 집회를 예고하며 회사에 실질적인 보상 대책과 구성원 사기 진작 방안...",
-          "src": "뉴스핌",
-          "date": "07/13",
-          "url": "https://www.newspim.com/news/view/20260713000920",
-          "img": "https://img.newspim.com/news/2026/07/13/260713151554652_333_tc.jpg"
+          "title": "폭염보다 뜨거운 '발열'…삼성은 공조, LG는 데이터센터 주력",
+          "desc": "기록적인 폭염으로 냉방 수요가 급증하는 가운데, 삼성전자와 LG전자는 가정용 에어컨보다는 기업간거래... 생활가전에서 고효율 HVAC와 데이터센터 열관리 분야로 빠르게 이동하고 있다. 결국 AI 시대 공조 경쟁은...",
+          "src": "IT데일리",
+          "date": "07/14",
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240372",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240372_245752_010_v150.jpg"
         }
       ]
     },
@@ -61,12 +61,28 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[인터뷰] 1시간만 가르치면 되는 로봇이 나온다",
+          "desc": "이와 같은 비정형 작업은 기존의 로봇 기술로는 풀기 어려운 영역이다. 유튜브에서 백덤블링을 선보이는... 온프레미스를 도입할 경우 구축 단가는 높아지고요. 피지컬 AI 운영체제(OS)도 출시할 예정입니다. 지금은...",
+          "src": "byline",
+          "date": "07/14",
+          "url": "https://byline.network/?p=9004111222611064",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/carbonsix-2.jpg"
+        },
+        {
+          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+          "desc": "안양시는 AI가 분석한 실종자 위치와 이동 경로를 경찰서-소방서 등 유관기관에 즉시 공유하는 협력체계도 운영 중이다. 최대호 안양시장은 전수식에서 “이번 수상은 첨단 기술을 시민 생명과 안전을 지키는 데 활용하...",
+          "src": "ekn",
+          "date": "07/14",
+          "url": "https://www.ekn.kr/web/view.php?key=20260714027322168",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.4d305a7011464c9c84188eb00a6749fd_R.jpg"
+        },
+        {
           "title": "학교 AI 교육, 기기 보급보다 학생 역량 먼저",
           "desc": "보고서는 국내 AI 교육정책이 이 같은 역량보다 기술과 도구 활용을 앞세운 측면이 있다고 진단했다. 1인... 이는 2029년부터 국제학업성취도평가(PISA)에 도입되는 미디어·AI 리터러시 평가와도 연결된다. 해당 평가는...",
           "src": "hangyo",
           "date": "07/14",
           "url": "https://www.hangyo.com/news/article.html?no=108452",
-          "img": ""
+          "img": "https://www.hangyo.com/data/design/logo/default_image_share_20161101002915.png"
         },
         {
           "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "07/14",
           "url": "https://n.news.naver.com/mnews/article/001/0016192378?sid=102",
           "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713145000546_01_i_P4.jpg"
-        },
-        {
-          "title": "[오늘의 주요일정·14일] 민선9기 지방자치단체장 재난안전교육",
-          "desc": "노동부, AI 기술혁신에 발맞춘 새로운 사회 혁신의 길 토론회(14:00 서울) ▲ 기후부, 호남권 반도체 산단... 초과이익 활용 방안 제안 기자회견](11:40) 최수진 의원, [학부모단체연합대표, 배재고 현안 관련 입장문...",
-          "src": "safetimes",
-          "date": "07/14",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244180",
-          "img": "https://cdn.safetimes.co.kr/news/thumbnail/202607/244180_154134_3318_v150.jpg"
-        },
-        {
-          "title": "[더벨][thebell interview] 김호준 에티포스 대표 \"통신 반도체 국산화 주...",
-          "desc": "\"피지컬 AI 시대에서는 로봇과 차량, 드론 등이 스스로 판단해 움직여야 한다. 다만 AI 모델만으로는 물리... 분야에서 활용도가 많아질 것\"이라고 했다. ◇기술 검증 마무리, 공공 인프라서 우선 도입 필요 김 대표는 통신...",
-          "src": "더벨",
-          "date": "07/14",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607130841573580107886",
-          "img": ""
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "비즈니스포스트",
           "date": "07/14",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441857",
-          "img": "https://www.businesspost.co.kr/news/photo/202607/20260708213256_10552.jpeg"
+          "img": ""
         },
         {
           "title": "[해외건설 톡!파원] 한국-인도 산업협력 새 전환…韓 전용 산업단지 조...",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[박종면칼럼] 삼성전자 '승어부' 이재용, '낡은 틀' 사업지원실",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087585?sid=110",
-      "img": "https://cdn.bloter.net/news/thumbnail/202607/667935_280811_1110_v150.jpg"
+      "title": "세계서 돈 제일 잘 버는 삼성전자, 분기 영업익 '100조원' 시대 눈앞",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173688",
+      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7173688_239580_1447_v150.jpg"
     },
     {
-      "title": "메모리 원가 부담·애플 추격..삼성전자, Z폴드8 '폼팩터 혁신' 승부수",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362021",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362021_370588_4458_v150.jpg"
+      "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
+      "url": "https://n.news.naver.com/mnews/article/014/0005547546?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/13/202607131808481186_l.jpg"
     },
     {
-      "title": "칩플레이션에 가전·휴대폰 수리비도 올라... 삼성전자 자재비 5~9% 인상",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942002?sid=105",
-      "img": "https://newsimg.hankookilbo.com/2026/07/13/1f6755a8-f022-4889-95d2-1f900d56b002.jpg"
+      "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
+      "url": "https://www.viva100.com/article/20260712500366",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714073725"
     },
     {
-      "title": "삼성전자 가전 '보상 불만' 계속…연이어 노조 집회",
-      "url": "https://www.newspim.com/news/view/20260713000920",
-      "img": "https://img.newspim.com/news/2026/07/13/260713151554652_333_tc.jpg"
+      "title": "폭염보다 뜨거운 '발열'…삼성은 공조, LG는 데이터센터 주력",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240372",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240372_245752_010_v150.jpg"
     },
     {
-      "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
-      "url": "https://n.news.naver.com/mnews/article/001/0016192378?sid=102",
-      "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713145000546_01_i_P4.jpg"
+      "title": "[인터뷰] 1시간만 가르치면 되는 로봇이 나온다",
+      "url": "https://byline.network/?p=9004111222611064",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/carbonsix-2.jpg"
     },
     {
-      "title": "[오늘의 주요일정·14일] 민선9기 지방자치단체장 재난안전교육",
-      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244180",
-      "img": "https://cdn.safetimes.co.kr/news/thumbnail/202607/244180_154134_3318_v150.jpg"
+      "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260714027322168",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.4d305a7011464c9c84188eb00a6749fd_R.jpg"
     }
   ]
 };
