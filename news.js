@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 06:53",
+  "updatedAt": "2026.07.14 (화) 07:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -17,40 +17,40 @@ window.NEWS_DATA = {
     {
       "cls": "",
       "icon": "📺",
-      "title": "삼성전자 가전",
+      "title": "삼성전자 가전·DX",
       "color": "#1428a0",
       "items": [
         {
-          "title": "올여름 삼성 에어컨 수리비 더 비싸진다…칩플레이션에 부품값도 인상",
-          "desc": "삼성전자 가전과 모바일 제품을 판매하는 완제품(DX) 부문은 비용 증가로 인해 실적 부진을 겪고 있다.... 일례로 ‘비스포크 AI 무풍콤보 갤러리’는 2025년형 제품이 최저 사양 기준 325만 원이었던 반면 2026년형은...",
-          "src": "서울경제",
+          "title": "[박종면칼럼] 삼성전자 '승어부' 이재용, '낡은 틀' 사업지원실",
+          "desc": "가전과 모바일의 DX부문에는 600만원 상당의 자사주를 지급하기로 했습니다. 파업은 막았지만 성공한 협상이라고 부르기는 어렵습니다. 삼성의 대응 논리도 낡았습니다. 성과급을 영업이익의 일정 비율로 지급하면...",
+          "src": "블로터",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/293/0000087585?sid=110",
+          "img": "https://cdn.bloter.net/news/thumbnail/202607/667935_280811_1110_v150.jpg"
+        },
+        {
+          "title": "메모리 원가 부담·애플 추격..삼성전자, Z폴드8 '폼팩터 혁신' 승부수",
+          "desc": "노태문 삼성전자 DX부문 사장은 최근 기고문에서 \"똑똑한 AI보다 더 중요한 것은 나를 가장 잘 아는 AI\"라며... 증권시장에서는 모바일 영업이익이 5000억원에서 1조원 대에 그치고 TV와 생활가전은 1000억원을 밑돌...",
+          "src": "파이낸셜투데이",
           "date": "07/13",
-          "url": "https://n.news.naver.com/mnews/article/011/0004640890?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/13/news-p.v1.20260713.0b9dcb9747a74ca88872a8e2bb1226e3_R.jpg"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362021",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362021_370588_4458_v150.jpg"
         },
         {
-          "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
-          "desc": "삼성전자는 AI 가전을 집 안 생활을 돕는 '홈 컴패니언'으로 키우는 중이다. CES 2026에선 비스포크 AI 가전이 스마트싱스와 빅스비, 스크린·카메라를 기반으로 사용자를 이해하도록 진화한다고 설명했다. LG전자는 AI...",
-          "src": "한국경제",
-          "date": "07/10",
-          "url": "https://n.news.naver.com/mnews/article/015/0005308579?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.44986277.1.jpg"
+          "title": "칩플레이션에 가전·휴대폰 수리비도 올라... 삼성전자 자재비 5~9% 인상",
+          "desc": "휴대폰과 가전제품의 가격뿐 아니라 수리 비용까지 끌어올리고 있다. 13일 업계에 따르면, 삼성전자는... 삼성전자의 올해 1분기 원재료 매입액은 27조8,078억 원으로, 전년 대비 7,650억 원(2.8%) 증가했다. 완제품(DX)...",
+          "src": "한국일보",
+          "date": "07/13",
+          "url": "https://n.news.naver.com/mnews/article/469/0000942002?sid=105",
+          "img": "https://newsimg.hankookilbo.com/2026/07/13/1f6755a8-f022-4889-95d2-1f900d56b002.jpg"
         },
         {
-          "title": "자동차·가전·방산 ‘종횡무진’…제조설비 혁신 이끈다",
-          "desc": "자동차, 가전, 방위산업 분야를 종횡무진하는 한 강소기업이 주목받고 있다. 반월·시화국가산업단지... 2018년 삼성전자 세탁기용 댐퍼 양산 공급을 시작으로 구축된 협력관계는 2025년 ‘비스포크 AI 콤보’ 2세대 개발까지...",
-          "src": "biz",
-          "date": "07/10",
-          "url": "https://n.news.naver.com/mnews/article/016/0002668627?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/news-p.v1.20260709.4e0f3f8972ef416a900feeca98f3d0e1_T1.jpg"
-        },
-        {
-          "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
-          "desc": "2018년 삼성전자 세탁기용 댐퍼 양산 공급을 시작으로 구축된 협력관계는 2025년 ‘비스포크 AI 콤보’ 2세대 개발까지 확대됐다. 가전제품이 AI 기반으로 진화함에 따라 정숙성, 정밀제어, 내구성에 대한 요구수준이 한층...",
-          "src": "biz",
-          "date": "07/09",
-          "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
+          "title": "삼성전자 가전 '보상 불만' 계속…연이어 노조 집회",
+          "desc": "삼성전자에서 가전사업을 맡는 디바이스경험(DX)부문의 성과보상을 둘러싼 불만이 잦아들지 않고 있다. 성과보상 격차에 반발한 노조가 잇달아 집회를 예고하며 회사에 실질적인 보상 대책과 구성원 사기 진작 방안...",
+          "src": "뉴스핌",
+          "date": "07/13",
+          "url": "https://www.newspim.com/news/view/20260713000920",
+          "img": "https://img.newspim.com/news/2026/07/13/260713151554652_333_tc.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인공지능 줌인] 모틀리풀이 진단하는 'AI 장기 투자' 가능성",
-          "desc": "최근의 한 예로 메타가 여유 용량 중 일부를 활용해 클라우드 컴퓨팅 서비스를 출시할 수 있다고 밝힌 것을... 다만, 투자자들이 모든 달걀을 한 바구니에 담아서는 안 되며, 포트폴리오가 기술주와 AI 주식에 다소...",
-          "src": "wikileaks-kr",
+          "title": "학교 AI 교육, 기기 보급보다 학생 역량 먼저",
+          "desc": "보고서는 국내 AI 교육정책이 이 같은 역량보다 기술과 도구 활용을 앞세운 측면이 있다고 진단했다. 1인... 이는 2029년부터 국제학업성취도평가(PISA)에 도입되는 미디어·AI 리터러시 평가와도 연결된다. 해당 평가는...",
+          "src": "hangyo",
           "date": "07/14",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189667",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189667_202408_2327_v150.jpg"
+          "url": "https://www.hangyo.com/news/article.html?no=108452",
+          "img": ""
         },
         {
-          "title": "'독파모+엔비디아 프리미엄' 슈퍼브AI, 기술특례 상장 준비 속도",
-          "desc": "AI) 스타트업 슈퍼브에이아이가 비전 AI 올인원 플랫폼과 누적 630억 원 규모 투자금을 바탕으로 기술특례... 기업의 AI 도입 장벽을 낮추고 산업 현장의 디지털 전환을 지원하고 있다. 현재까지 3500건 이상의 산업 특화...",
-          "src": "뉴스1",
+          "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
+          "desc": "그러다 보니 AI를 활용한 기업들의 생산성 향상 노력 못지않게 개인들의 AI 창업이 관심사로 떠오르고 있다. 과거에는 인터넷이나 정보기술(IT)관련 창업을 하려면 개발자, 디자이너, 회계 담당자 등 필수 임무를 맡길...",
+          "src": "연합뉴스",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/421/0009057331?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/13/8005258/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016192378?sid=102",
+          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713145000546_01_i_P4.jpg"
         },
         {
-          "title": "'기업정보화 실태' 전수 점검…과기정통부 '로 데이터' 확보 박차",
-          "desc": "기업들의 'AI 활용 실태'까지 들여다본다. 한국지능정보사회진흥원에 따르면, 조사에는 업무 시 AI 사용 여부를 비롯해 △도입한 AI의 유형 △이용 목적 △도입 후 실제 나타난 효과 등이 상세히 포함된다. 이를 통해...",
-          "src": "뉴스1",
+          "title": "[오늘의 주요일정·14일] 민선9기 지방자치단체장 재난안전교육",
+          "desc": "노동부, AI 기술혁신에 발맞춘 새로운 사회 혁신의 길 토론회(14:00 서울) ▲ 기후부, 호남권 반도체 산단... 초과이익 활용 방안 제안 기자회견](11:40) 최수진 의원, [학부모단체연합대표, 배재고 현안 관련 입장문...",
+          "src": "safetimes",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/421/0009057318?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/6/29/7981826/high.jpg"
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244180",
+          "img": "https://cdn.safetimes.co.kr/news/thumbnail/202607/244180_154134_3318_v150.jpg"
         },
         {
-          "title": "[정책 인사이트] 첫 800조원 예산 시대…이재명 정부, 'AI·반도체 국가...",
-          "desc": "재원으로 활용하겠다\"고 밝혔다. 정부는 이날 회의에서 2027년도 총지출을 올해 본예산보다 10% 이상 늘린... 또 AI 기술 발전의 혜택이 특정 계층에만 집중되지 않도록 국민 모두가 기술 발전의 성과를 공유할 수 있는...",
-          "src": "moneystorm",
+          "title": "[더벨][thebell interview] 김호준 에티포스 대표 \"통신 반도체 국산화 주...",
+          "desc": "\"피지컬 AI 시대에서는 로봇과 차량, 드론 등이 스스로 판단해 움직여야 한다. 다만 AI 모델만으로는 물리... 분야에서 활용도가 많아질 것\"이라고 했다. ◇기술 검증 마무리, 공공 인프라서 우선 도입 필요 김 대표는 통신...",
+          "src": "더벨",
           "date": "07/14",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5064",
-          "img": "https://cdn.moneystorm.kr/news/photo/202607/5064_4812_77.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607130841573580107886",
+          "img": ""
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[Who Is ?] 홍완훈 에스에이엠티 부회장",
+          "desc": "한편 에스에이엠티는 1990년 삼성물산 전자부품 유통사업부에서 설립된 '삼테크'에 뿌리를 두고 있다.... 삼성전기 재직 당시 중소 협력사와의 계약 파기 건에 대해 \"삼성전기의 잘못된 판단으로 사업이 중단된...",
+          "src": "비즈니스포스트",
+          "date": "07/14",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441857",
+          "img": "https://www.businesspost.co.kr/news/photo/202607/20260708213256_10552.jpeg"
+        },
         {
           "title": "[해외건설 톡!파원] 한국-인도 산업협력 새 전환…韓 전용 산업단지 조...",
           "desc": "현대차와삼성전자 등이 이미 대규모 생산기지를 운영하고 있고, 관련 부품ㆍ소재 기업들의 동반진출... 기자재 협력사들의 동반진출 수요도 새로운 축으로 부상하고 있다. 타밀나두 주정부 투자청 내 코리아데스크는...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "07/14",
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165712",
           "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165712_447499_4411_v150.jpg"
-        },
-        {
-          "title": "“일은 늘었는데 수익은 제자리…” 삼전닉스 호황에 씁쓸한 ‘소부장...",
-          "desc": "메모리 3사 영업이익률 75~80% 국내 협력사 상당수 10~20%대 인공지능(AI) 메모리 호황으로 삼성전자와 SK하이닉스가 역대급 수익을 올리고 있지만, 소재·부품·장비(소부장) 협력사들은 “일은 늘어도 수익은 제자리”...",
-          "src": "조선일보",
-          "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/023/0003987381?sid=101",
-          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2276"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "올여름 삼성 에어컨 수리비 더 비싸진다…칩플레이션에 부품값도 인상",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640890?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/07/13/news-p.v1.20260713.0b9dcb9747a74ca88872a8e2bb1226e3_R.jpg"
+      "title": "[박종면칼럼] 삼성전자 '승어부' 이재용, '낡은 틀' 사업지원실",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087585?sid=110",
+      "img": "https://cdn.bloter.net/news/thumbnail/202607/667935_280811_1110_v150.jpg"
     },
     {
-      "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308579?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/01.44986277.1.jpg"
+      "title": "메모리 원가 부담·애플 추격..삼성전자, Z폴드8 '폼팩터 혁신' 승부수",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362021",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362021_370588_4458_v150.jpg"
     },
     {
-      "title": "자동차·가전·방산 ‘종횡무진’…제조설비 혁신 이끈다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668627?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/10/news-p.v1.20260709.4e0f3f8972ef416a900feeca98f3d0e1_T1.jpg"
+      "title": "칩플레이션에 가전·휴대폰 수리비도 올라... 삼성전자 자재비 5~9% 인상",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942002?sid=105",
+      "img": "https://newsimg.hankookilbo.com/2026/07/13/1f6755a8-f022-4889-95d2-1f900d56b002.jpg"
     },
     {
-      "title": "세양메카트로닉스, 자동차·가전·방산 생산성 향상 동반자",
-      "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
+      "title": "삼성전자 가전 '보상 불만' 계속…연이어 노조 집회",
+      "url": "https://www.newspim.com/news/view/20260713000920",
+      "img": "https://img.newspim.com/news/2026/07/13/260713151554652_333_tc.jpg"
     },
     {
-      "title": "[인공지능 줌인] 모틀리풀이 진단하는 'AI 장기 투자' 가능성",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189667",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189667_202408_2327_v150.jpg"
+      "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
+      "url": "https://n.news.naver.com/mnews/article/001/0016192378?sid=102",
+      "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713145000546_01_i_P4.jpg"
     },
     {
-      "title": "'독파모+엔비디아 프리미엄' 슈퍼브AI, 기술특례 상장 준비 속도",
-      "url": "https://n.news.naver.com/mnews/article/421/0009057331?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/13/8005258/high.jpg"
+      "title": "[오늘의 주요일정·14일] 민선9기 지방자치단체장 재난안전교육",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244180",
+      "img": "https://cdn.safetimes.co.kr/news/thumbnail/202607/244180_154134_3318_v150.jpg"
     }
   ]
 };
