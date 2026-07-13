@@ -30,7 +30,7 @@ import requests
 # 당일/최근 관련 기사 우선 → 뉴스가 매일 나오는 섹션은 최신순(date)
 # 와이어하네스는 니치 주제(+'전장'이 '전쟁터'로 오매칭) → 관련성 우선(sim)
 SECTIONS = [
-    {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "query": "삼성전자 비스포크 가전", "sort": "date", "count": 4},
+    {"cls": "",        "icon": "📺", "title": "삼성전자 가전·DX",  "color": "#1428a0", "query": "삼성전자 가전 DX",       "sort": "date", "count": 4},
     {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
     {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
     {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
@@ -58,7 +58,9 @@ SRC_MAP = {
     "seoultimes.news": "서울타임즈", "yonhapnewstv.co.kr": "연합뉴스TV",
     "ktnews.com": "전자신문", "zdnet.co.kr": "ZDNet코리아", "yna.co.kr": "연합뉴스",
     "news1.kr": "뉴스1", "newsis.com": "뉴시스", "fnnews.com": "파이낸셜뉴스",
-    "ddaily.kr": "디지털데일리",
+    "ddaily.kr": "디지털데일리", "bloter.net": "블로터", "ftoday.co.kr": "파이낸셜투데이",
+    "newsworks.co.kr": "뉴스웍스", "jeonmae.co.kr": "전매신문", "sjsori.com": "세종의소리",
+    "popcornnews.net": "팝콘뉴스", "ilyoseoul.co.kr": "일요서울", "the-stock.kr": "더스탁",
 }
 
 CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "")
