@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.13 (월) 07:14",
+  "updatedAt": "2026.07.14 (화) 06:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -20,6 +20,14 @@ window.NEWS_DATA = {
       "title": "삼성전자 가전",
       "color": "#1428a0",
       "items": [
+        {
+          "title": "올여름 삼성 에어컨 수리비 더 비싸진다…칩플레이션에 부품값도 인상",
+          "desc": "삼성전자 가전과 모바일 제품을 판매하는 완제품(DX) 부문은 비용 증가로 인해 실적 부진을 겪고 있다.... 일례로 ‘비스포크 AI 무풍콤보 갤러리’는 2025년형 제품이 최저 사양 기준 325만 원이었던 반면 2026년형은...",
+          "src": "서울경제",
+          "date": "07/13",
+          "url": "https://n.news.naver.com/mnews/article/011/0004640890?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/07/13/news-p.v1.20260713.0b9dcb9747a74ca88872a8e2bb1226e3_R.jpg"
+        },
         {
           "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
           "desc": "삼성전자는 AI 가전을 집 안 생활을 돕는 '홈 컴패니언'으로 키우는 중이다. CES 2026에선 비스포크 AI 가전이 스마트싱스와 빅스비, 스크린·카메라를 기반으로 사용자를 이해하도록 진화한다고 설명했다. LG전자는 AI...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "07/09",
           "url": "https://n.news.naver.com/mnews/article/016/0002667896?sid=101",
           "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
-        },
-        {
-          "title": "삼성전자 '전자레인지·큐커' 사업 접는다…\"가격경쟁력 떨어져 수익성...",
-          "desc": "삼성전자는 지난해에도 삼립과 협력을 통해 바코드를 받아 '비스포크 큐커'에서 스캔만 하면 간편하게... 또한 삼성전자 DA(가전) 사업부는 지난 4월 임직원을 대상으로 '경영 설명회'를 열고 수익성 제고를 위한 사업 구조...",
-          "src": "newsworks",
-          "date": "07/08",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846581",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대만, 총 40억 달러 로봇개 시장 정조준… ‘비중국 공급망’ 구축 가속",
-          "desc": "이 플랫폼은 모터, 라이다(LiDAR), AI 컴퓨팅 플랫폼 등 핵심 부품과 시스템 통합 기술을 포함한다. 특히 엔비디아(Nvidia)의 ‘타이베이-1(Taipei-1)’ 슈퍼컴퓨터와 ‘옴니버스(Omniverse)’ 디지털 트윈 플랫폼을 활용해 가상...",
-          "src": "g-enews",
-          "date": "07/13",
-          "url": "https://www.g-enews.com/view.php?ud=2026071307065082902bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260713070810062682bd56fbc3c21121419978.jpg"
+          "title": "[인공지능 줌인] 모틀리풀이 진단하는 'AI 장기 투자' 가능성",
+          "desc": "최근의 한 예로 메타가 여유 용량 중 일부를 활용해 클라우드 컴퓨팅 서비스를 출시할 수 있다고 밝힌 것을... 다만, 투자자들이 모든 달걀을 한 바구니에 담아서는 안 되며, 포트폴리오가 기술주와 AI 주식에 다소...",
+          "src": "wikileaks-kr",
+          "date": "07/14",
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189667",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189667_202408_2327_v150.jpg"
         },
         {
-          "title": "보온병 속 수천만원 밀반출하려다 덜미…책갈피 달러는 옛말?",
-          "desc": "세관은 앞으로 인공지능(AI)을 활용한 지폐 자동 탐지 기술도 도입해 외화 밀반출 단속을 더욱 강화할 계획입니다. 한편 여행객이 미화 1만 달러를 초과하는 외화를 반출할 경우 반드시 세관에 신고해야 하며, 이를...",
-          "src": "biz",
-          "date": "07/13",
-          "url": "https://n.news.naver.com/mnews/article/374/0000521239?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2025/12/15/l8r1765790552940-850.jpg"
+          "title": "'독파모+엔비디아 프리미엄' 슈퍼브AI, 기술특례 상장 준비 속도",
+          "desc": "AI) 스타트업 슈퍼브에이아이가 비전 AI 올인원 플랫폼과 누적 630억 원 규모 투자금을 바탕으로 기술특례... 기업의 AI 도입 장벽을 낮추고 산업 현장의 디지털 전환을 지원하고 있다. 현재까지 3500건 이상의 산업 특화...",
+          "src": "뉴스1",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/421/0009057331?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/13/8005258/high.jpg"
         },
         {
-          "title": "[BS모닝] AI 경쟁 가속에 캐피탈사, 영업 지원 넘어 고객 맞춤 금융까지",
-          "desc": "‘렌터카 AI 챗봇’을 도입했다. 렌터카 AI 챗봇은 렌터카 중개업체 직원들이 업무 과정에서 자주 발생하는... KB캐피탈은 AI 기술을 활용해 자동차금융 서비스 고도화에 나서고 있다. KB차차차의 ‘차테크’ 서비스는 AI가...",
-          "src": "segyebiz",
-          "date": "07/13",
-          "url": "http://www.segyebiz.com/newsView/20260712512489?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/07/12/20260712512488.png"
+          "title": "'기업정보화 실태' 전수 점검…과기정통부 '로 데이터' 확보 박차",
+          "desc": "기업들의 'AI 활용 실태'까지 들여다본다. 한국지능정보사회진흥원에 따르면, 조사에는 업무 시 AI 사용 여부를 비롯해 △도입한 AI의 유형 △이용 목적 △도입 후 실제 나타난 효과 등이 상세히 포함된다. 이를 통해...",
+          "src": "뉴스1",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/421/0009057318?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/6/29/7981826/high.jpg"
         },
         {
-          "title": "[더벨][한민에코텍 IPO] \"국내엔 비교 대상 없다\"…도시광산 밸류체인 주...",
-          "desc": "위해 활용할 계획이다. 구체적으로 핵심 거점인 충남 예산 제3공장에 집중적으로 투자한다는 방침이다. 해당 공장에 최신 전해정련 공정과 인공지능(AI) 기반 스마트팩토리 시스템을 도입하고 이를 통해 고부가가치 금속...",
-          "src": "더벨",
-          "date": "07/13",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081654038440101528",
-          "img": ""
+          "title": "[정책 인사이트] 첫 800조원 예산 시대…이재명 정부, 'AI·반도체 국가...",
+          "desc": "재원으로 활용하겠다\"고 밝혔다. 정부는 이날 회의에서 2027년도 총지출을 올해 본예산보다 10% 이상 늘린... 또 AI 기술 발전의 혜택이 특정 계층에만 집중되지 않도록 국민 모두가 기술 발전의 성과를 공유할 수 있는...",
+          "src": "moneystorm",
+          "date": "07/14",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5064",
+          "img": "https://cdn.moneystorm.kr/news/photo/202607/5064_4812_77.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[Who Is ?] 전선규 미코 대표이사 회장",
-          "desc": "생산·품질 관리 자료와 부품 검사성적서, 협력사 관련 문서도 함께 공개됐다고 주장했다. 코미코는 삼성전자와 SK하이닉스, TSMC, 인텔 등 글로벌 반도체 기업을 고객사로 두고 있다. 이 때문에 반도체 공급망 관련...",
-          "src": "비즈니스포스트",
-          "date": "07/13",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441567",
-          "img": ""
+          "title": "[해외건설 톡!파원] 한국-인도 산업협력 새 전환…韓 전용 산업단지 조...",
+          "desc": "현대차와삼성전자 등이 이미 대규모 생산기지를 운영하고 있고, 관련 부품ㆍ소재 기업들의 동반진출... 기자재 협력사들의 동반진출 수요도 새로운 축으로 부상하고 있다. 타밀나두 주정부 투자청 내 코리아데스크는...",
+          "src": "dnews",
+          "date": "07/14",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291032167540096",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/07/01/202606291032167540096-2-675153.jpg"
         },
         {
-          "title": "“발주 늘었지만 마진은 그대로”… 삼성전자·SK하이닉스 초호황에도 ...",
-          "desc": "따르면 삼성전자·SK하이닉스가 AI 메모리 수퍼사이클(초호황기)에 역대급 수익성을 기록하고 있지만, 국내 소재·부품·장비(소부장) 협력사 사이에서는 “일은 늘었는데 마진은 크게 달라지지 않았다”는 말이...",
+          "title": "호남 반도체 팹 4기 들어서면…과연 경제적 파급효과는?",
+          "desc": "삼성전자와 SK하이닉스가 광주 군공항 부지(250만 평)에 총 800조 원을 투입해 반도체 팹(Fab·제조시설) 4기를... 글로벌 소부장(소재·부품·장비) 기업과 유틸리티 상주 인력은 3만명을 넘을 것으로 예측된다. 최첨단 칩을...",
+          "src": "뉴스1",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/421/0009057323?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/6/7994258/high.jpg"
+        },
+        {
+          "title": "4500조 쏟는데 또 …K-반도체 옥죄는 美 투자 압박",
+          "desc": "하워드 러트닉 미국 상무장관이 삼성전자와 SK하이닉스를 직접 겨냥해 미국 내 메모리 반도체 생산시설... 미국은 인건비와 건설비가 높고 소재·부품·장비 협력사 생태계도 얇아 같은 팹이라도 투자 효율성이...",
           "src": "조선일보",
-          "date": "07/13",
-          "url": "https://n.news.naver.com/mnews/article/366/0001178648?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/CPC6TBOCIFHNDFKAMEND4X5SUE.jpg?auth=954c7a3c4743f29a7983fa7a26ba1aed221209ba60199ac900a1c1b891cd890b&width=1200&height=630&smart=true"
+          "date": "07/14",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165712",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165712_447499_4411_v150.jpg"
         },
         {
-          "title": "로봇 공포가 낳은 현대차의 기괴한 월급제 합의",
-          "desc": "무엇보다 현대차의 과격한 자동화 속도를 따라가지 못해 고사 위기에 처할 중소 부품 협력사들에게도 생존을... 최근 본격적인 세력 확장과 파업 노선을 다듬고 있는 삼성전자 노조를 비롯해, AI와 첨단 무인화의 파고를...",
-          "src": "ngonews",
-          "date": "07/12",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=232744",
-          "img": "https://cdn.ngonews.kr/news/photo/202607/232744_236004_5838.png"
-        },
-        {
-          "title": "카카오뱅크, 한-몽골 비즈니스 포럼서 디지털 금융 혁신 경험 공유 外",
-          "desc": "이번 협약은 최근 삼성전자, SK하이닉스 등 대기업 중심으로 편중된 반도체 시장의 성장세를 소부장 및 중소... 3차 협력사들까지 폭넓은 지원이 실질적으로 이뤄지도록 금융지원에 앞장서겠다\"고 밝혔다. KB금융...",
-          "src": "rcast",
-          "date": "07/12",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31245",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31245_60397_1310_v150.jpg"
+          "title": "“일은 늘었는데 수익은 제자리…” 삼전닉스 호황에 씁쓸한 ‘소부장...",
+          "desc": "메모리 3사 영업이익률 75~80% 국내 협력사 상당수 10~20%대 인공지능(AI) 메모리 호황으로 삼성전자와 SK하이닉스가 역대급 수익을 올리고 있지만, 소재·부품·장비(소부장) 협력사들은 “일은 늘어도 수익은 제자리”...",
+          "src": "조선일보",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/023/0003987381?sid=101",
+          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2276"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "올여름 삼성 에어컨 수리비 더 비싸진다…칩플레이션에 부품값도 인상",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640890?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/07/13/news-p.v1.20260713.0b9dcb9747a74ca88872a8e2bb1226e3_R.jpg"
+    },
+    {
       "title": "\"판매량 경쟁으론 어렵다\"…삼성·LG가 'AI 가전' 공들이는 이유 있었네",
       "url": "https://n.news.naver.com/mnews/article/015/0005308579?sid=101",
       "img": "https://img.hankyung.com/photo/202607/01.44986277.1.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260708.3155f648ca7f411f87e8e7b5bd818093_T1.jpg"
     },
     {
-      "title": "삼성전자 '전자레인지·큐커' 사업 접는다…\"가격경쟁력 떨어져 수익성...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846581",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/846581_805117_5549_v150.jpg"
+      "title": "[인공지능 줌인] 모틀리풀이 진단하는 'AI 장기 투자' 가능성",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189667",
+      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189667_202408_2327_v150.jpg"
     },
     {
-      "title": "대만, 총 40억 달러 로봇개 시장 정조준… ‘비중국 공급망’ 구축 가속",
-      "url": "https://www.g-enews.com/view.php?ud=2026071307065082902bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260713070810062682bd56fbc3c21121419978.jpg"
-    },
-    {
-      "title": "보온병 속 수천만원 밀반출하려다 덜미…책갈피 달러는 옛말?",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521239?sid=101",
-      "img": "https://img.biz.sbs.co.kr/upload/2025/12/15/l8r1765790552940-850.jpg"
+      "title": "'독파모+엔비디아 프리미엄' 슈퍼브AI, 기술특례 상장 준비 속도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009057331?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/13/8005258/high.jpg"
     }
   ]
 };
