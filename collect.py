@@ -30,7 +30,8 @@ import requests
 # 당일/최근 관련 기사 우선 → 뉴스가 매일 나오는 섹션은 최신순(date)
 # 와이어하네스는 니치 주제(+'전장'이 '전쟁터'로 오매칭) → 관련성 우선(sim)
 SECTIONS = [
-    {"cls": "",        "icon": "📺", "title": "삼성전자 가전·DX",  "color": "#1428a0", "query": "삼성전자 가전 DX",       "sort": "date", "count": 4},
+    {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "sort": "date", "count": 4,
+     "queries": ["삼성전자 가전", "삼성전자 로봇청소기", "삼성전자 건조기", "삼성전자 세탁기", "삼성전자 냉장고"]},
     {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
     {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
     {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
@@ -61,6 +62,8 @@ SRC_MAP = {
     "ddaily.kr": "디지털데일리", "bloter.net": "블로터", "ftoday.co.kr": "파이낸셜투데이",
     "newsworks.co.kr": "뉴스웍스", "jeonmae.co.kr": "전매신문", "sjsori.com": "세종의소리",
     "popcornnews.net": "팝콘뉴스", "ilyoseoul.co.kr": "일요서울", "the-stock.kr": "더스탁",
+    "itdaily.kr": "IT데일리", "viva100.com": "브릿지경제", "metroseoul.co.kr": "메트로신문",
+    "biz.heraldcorp.com": "헤럴드경제", "heraldcorp.com": "헤럴드경제", "ftoday.co.kr": "F투데이",
 }
 
 CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "")
@@ -118,7 +121,7 @@ def og_image(url: str) -> str:
     return ""
 
 
-def search_news(query: str, count: int, sort: str = "date"):
+def search_news(query: str, count: int, sort: str = "date", with_image: bool = True):
     """네이버 뉴스 검색. 결과가 count 개가 될 때까지 유효 기사 수집."""
     if not CLIENT_ID or not CLIENT_SECRET:
         raise RuntimeError("환경변수 NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 가 설정되지 않았습니다.")
@@ -130,19 +133,53 @@ def search_news(query: str, count: int, sort: str = "date"):
     r.raise_for_status()
     items = []
     for it in r.json().get("items", []):
+        title = clean(it.get("title"))
+        if re.search(r"한줄뉴스|단신|브리핑|모아보기|간추린|주요뉴스|주요 뉴스", title):
+            continue  # 요약·모음기사 제외
         link = it.get("link") or it.get("originallink") or ""
         art_url = it.get("originallink") or link  # og:image 는 원문에서 더 잘 잡힘
         items.append({
-            "title": clean(it.get("title")),
+            "title": title,
             "desc": clean(it.get("description")),
             "src": source_of(art_url),
             "date": fmt_date(it.get("pubDate", "")),
             "url": link,
-            "img": og_image(art_url),
+            "img": og_image(art_url) if with_image else "",
+            "_src": art_url,
         })
         if len(items) >= count:
             break
     return items
+
+
+def collect_section(sec):
+    """단일 query 또는 우선순위 queries(라운드로빈 병합)로 기사 수집.
+    queries 가 있으면 각 키워드를 순서대로 검색해 골고루 섞고, 최신 우선."""
+    n = sec["count"]
+    sort = sec.get("sort", "date")
+    qs = sec.get("queries")
+    if not qs:
+        return search_news(sec["query"], n, sort)
+    # 여러 키워드 각각 검색(이미지 생략) → 1순위부터 라운드로빈으로 병합
+    pools = []
+    for q in qs:
+        try:
+            pools.append(search_news(q, 3, sort, with_image=False))
+        except Exception as e:
+            print("   (검색 실패: %s %s)" % (q, e))
+            pools.append([])
+    merged, seen, i = [], set(), 0
+    while len(merged) < n and any(i < len(p) for p in pools):
+        for p in pools:
+            if i < len(p) and p[i]["url"] not in seen:
+                seen.add(p[i]["url"])
+                merged.append(p[i])
+                if len(merged) >= n:
+                    break
+        i += 1
+    for it in merged:            # 최종 선정분만 대표이미지 수집
+        it["img"] = og_image(it["_src"])
+    return merged
 
 
 def load_banner():
@@ -168,11 +205,13 @@ def main():
     sections, all_items = [], []
     for sec in SECTIONS:
         try:
-            items = search_news(sec["query"], sec["count"], sec.get("sort", "date"))
+            items = collect_section(sec)
             print("[수집] %-14s %d건" % (sec["title"], len(items)))
         except Exception as e:
             print("[실패] %-14s %s" % (sec["title"], e))
             items = []
+        for it in items:
+            it.pop("_src", None)   # 내부용 필드 제거
         sections.append({k: sec[k] for k in ("cls", "icon", "title", "color")} | {"items": items})
         all_items += items
 
