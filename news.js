@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 12:39",
+  "updatedAt": "2026.07.14 (화) 16:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,487.20",
-        "diff": "-12.30",
-        "rate": "-0.82%",
+        "value": "1,494.90",
+        "diff": "-4.60",
+        "rate": "-0.31%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "916.61",
-        "diff": "-6.61",
-        "rate": "-0.72%",
+        "value": "920.73",
+        "diff": "-2.49",
+        "rate": "-0.27%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.22",
-        "diff": "-0.08",
-        "rate": "-0.96%",
+        "value": "8.26",
+        "diff": "-0.04",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.67",
-        "diff": "-0.05",
-        "rate": "-0.87%",
+        "value": "5.69",
+        "diff": "-0.03",
+        "rate": "-0.52%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.49",
-        "diff": "-0.19",
-        "rate": "-1.21%",
+        "value": "15.54",
+        "diff": "-0.14",
+        "rate": "-0.89%",
         "dir": "down"
       }
     ]
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, '레드닷 디자인 콘셉트' 최고상 수상…세계 3대 디자인상 석...",
-          "desc": "가전 소모품 선행 콘셉트 디자인 컨슈머타임스=김동역 기자 | 삼성전자가 세계적인 디자인 공모전인 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서 최고상인 '베스트 오브 더 베스트' 2개 등 총 8개의 상을...",
-          "src": "cstimes",
+          "title": "이 대통령 4번째 거론 힘 실리는 ‘히트펌프’ 시장서 삼성·LG 격돌",
+          "desc": "김 장관은 13일 회의에서 러시아우크라이나 전쟁 영향이 크다며 히트펌프 설치 비용의 40를 지원해 줬다고 보고했다.유럽서 기술력 입증한 삼성LG, 국내 시장 본격 진출가전 양대 산맥인 삼성전자와 LG전자는 정부 기조에...",
+          "src": "vop",
           "date": "07/14",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=713372",
-          "img": "https://www.cstimes.com/news/photo/202607/713372_633451_378.jpg"
+          "url": "https://vop.co.kr/A00001695817.html",
+          "img": ""
         },
         {
-          "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
-          "desc": "삼성전자는 보안과 화재, 누수, 에너지 비용 문제를 AI홈의 핵심 공략 포인트로 삼았다. AI 도어캠과 홈캠, 로봇청소기를 통해 집 안팎의 보안을 실시간으로 관리하고, 주변 환경과 생활 패턴에 맞춰 냉난방을 최적화해...",
-          "src": "파이낸셜뉴스",
-          "date": "07/13",
-          "url": "https://n.news.naver.com/mnews/article/014/0005547546?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/13/202607131808481186_l.jpg"
+          "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
+          "desc": "AI와 디자인 융합…삼성전자, 레드닷 최고상 2관왕 삼성전자는 세계적 권위의 레드닷 디자인 어워드 2026... AI 지역정보 영상을 시청 후 QR코드로 응모하면 추첨을 통해 총 116명에게 다이슨 청소기, 배달의민족...",
+          "src": "sisaon",
+          "date": "07/14",
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
         },
         {
           "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714123913"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714160813"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"재생에너지 확대·산업 탈탄소 추진\"...정부 성장전략 살펴보니",
-          "desc": "기술 개발뿐 아니라 설비 교체와 시장 창출도 함께 지원해 산업 전환 속도를 높인다는 계획이다. 순환경제 분야에서는 제품 설계 단계부터 재활용을 고려하는 'K-에코디자인'을 도입하고, 재생원료 설비와 광학선별기...",
-          "src": "newspenguin",
+          "title": "(2026 하반기 경제성장전략)경제 골든타임…'반도체 온기'에 성장률 3% 대...",
+          "desc": "호황을 활용하기 위해 3대 메가프로젝트를 추진해 투자를 늘리고 생산성을 올려 이재명정부 내에 추진할... 이밖에 중동 전쟁 등으로 취약성이 드러나 공급망 문제에 대응하기 위해선 국내생산세액공제를 도입하고...",
+          "src": "newstomato",
           "date": "07/14",
-          "url": "https://www.newspenguin.com/news/articleView.html?idxno=21869",
-          "img": "https://cdn.newspenguin.com/news/thumbnail/202607/21869_64523_3322_v150.jpg"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1307142&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/7/14/1307142/attach.jpg?v=202607141604"
         },
         {
-          "title": "반도체 800조·AI 550조 투자…정부, 초격차로 잠재성장률 반등 승부수",
-          "desc": "네트워크를 활용하는 것이 효율적이라고 판단했다\"고 설명했다. 다만 정부는 기존 외환보유액 운용계정과... 여기에 청년형 개인종합자산관리계좌(ISA)를 도입해 자산 형성을 지원하고 신혼부부 주거 지원도 확대한다....",
-          "src": "imaeil",
+          "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
+          "desc": "e-Content △AI를 활용한 인터랙티브 게임 제작을 평가하는 e-Interactive 등 4개 종목에서 실력을 발휘한다.... 기업의 AI 도입 전략과 최신 기술을 공유하는 자리다. LG유플러스는 전시 부스를 통해 상담 에이전트 생성...",
+          "src": "sisaon",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/088/0001018964?sid=101",
-          "img": "https://www.imaeil.com/photos/2026/07/14/2026071409441453126_l.jpg"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
         },
         {
-          "title": "CJ올리브네트웍스, UHD·AI 중계차 구축한다…스포츠 방송 혁신 주도",
-          "desc": "이번 사업은 스포츠 중계의 UHD 전환과 AI 기반 제작 환경 도입에 대응하기 위해 추진됐다.... 초고화질과 AI 기술이 결합된 차별화된 스포츠 중계 환경을 구현하고 빠르게 변화하는 중계 시장에서 고객 경쟁력 강화를 적극...",
-          "src": "ZDNet코리아",
+          "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
+          "desc": "AI 제품·서비스 확인 제도가 새로 도입되고, 확인을 받은 제품과 서비스에는 조달시장 참여 요건 완화와 가점 등 우대 조치가 적용된다. 과학기술정보통신부는 AI 활용 활성화를 위한 '인공지능 발전과 신뢰 기반 조성...",
+          "src": "파이낸셜뉴스",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/092/0002430463?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/14/ff8ffe1aff74d8505637f207b3b1e98c.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005548055?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/14/202607141546070260_l.jpg"
         },
         {
-          "title": "3억2250만명이 선택한 바이낸스…창립 9년 만에 성과",
-          "desc": "투자 환경 조성과 더불어 기술 생태계 확장에도 힘쓰고 있다. 바이낸스 개발자 센터는 고성능 API와 SDK... 등이 활용되고 있다. 급격한 AI 도입 과정에서 발생할 수 있는 윤리적 문제를 방지하고, 안전한 데이터 관리를...",
-          "src": "newsway",
+          "title": "[현장] 창작자의 '디테일 붓'부터 유저의 '깐부'까지… AI가 게임개발 패...",
+          "desc": "실전 AI 기술을 꺼내 들었다. 가장 눈길을 끈 것은 인게임 AI 동료 '엘라이(ALLI)'다. 온디바이스 소형언어모델... 나 팀장은 2023년 여름 스팀(Steam)의 AI 사용 고지 정책 도입 이후 출시작이 42% 늘어나는 등 AI로인해 게임...",
+          "src": "인더스트리뉴스",
           "date": "07/14",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026071408374558117",
-          "img": "https://nimage.newsway.co.kr/photo/2026/07/14/20260714000001_1200.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83300",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202607/83300_102931_1643.jpg"
         }
       ]
     },
@@ -235,26 +235,21 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, '레드닷 디자인 콘셉트' 최고상 수상…세계 3대 디자인상 석...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=713372",
-      "img": "https://www.cstimes.com/news/photo/202607/713372_633451_378.jpg"
-    },
-    {
-      "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
-      "url": "https://n.news.naver.com/mnews/article/014/0005547546?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/07/13/202607131808481186_l.jpg"
+      "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
     },
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714123913"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714160813"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "\"재생에너지 확대·산업 탈탄소 추진\"...정부 성장전략 살펴보니",
-      "url": "https://www.newspenguin.com/news/articleView.html?idxno=21869",
-      "img": "https://cdn.newspenguin.com/news/thumbnail/202607/21869_64523_3322_v150.jpg"
+      "title": "(2026 하반기 경제성장전략)경제 골든타임…'반도체 온기'에 성장률 3% 대...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1307142&inflow=N",
+      "img": "https://image.newstomato.com/newsimg/2026/7/14/1307142/attach.jpg?v=202607141604"
     },
     {
-      "title": "반도체 800조·AI 550조 투자…정부, 초격차로 잠재성장률 반등 승부수",
-      "url": "https://n.news.naver.com/mnews/article/088/0001018964?sid=101",
-      "img": "https://www.imaeil.com/photos/2026/07/14/2026071409441453126_l.jpg"
+      "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
+    },
+    {
+      "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548055?sid=105",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/14/202607141546070260_l.jpg"
     }
   ]
 };
