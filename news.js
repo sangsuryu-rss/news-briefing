@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 07:37",
+  "updatedAt": "2026.07.14 (화) 10:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "세계서 돈 제일 잘 버는 삼성전자, 분기 영업익 '100조원' 시대 눈앞",
-          "desc": "중국의 시장조사업체 AVC에 따르면 지난 4월 기준 삼성전자의 중국 가전 시장 점유율은 TV의 경우 3.62%로 5위, 냉장고는 0.41%로 13위, 세탁기는 0.38%로 15위에 각각 랭크됐다. DX 부문 실적을 지탱하는 모바일경험(MX)...",
-          "src": "weekly",
+          "title": "삼성전자, 레드닷 디자인상 8관왕…키즈 AI 로봇 최고상",
+          "desc": "삼성전자가 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서 최고상 2개를 포함해 총 8개의 상을 받았다고 14일 밝혔다. 최고상은 색상만으로 가전 부품의 관리 방법을 구분할 수 있도록 한 소모품 디자인과...",
+          "src": "webeconomy",
           "date": "07/14",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173688",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7173688_239580_1447_v150.jpg"
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231765",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202607/2231765_1040172_2836.jpg"
         },
         {
           "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714073725"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714104428"
         },
         {
-          "title": "폭염보다 뜨거운 '발열'…삼성은 공조, LG는 데이터센터 주력",
-          "desc": "기록적인 폭염으로 냉방 수요가 급증하는 가운데, 삼성전자와 LG전자는 가정용 에어컨보다는 기업간거래... 생활가전에서 고효율 HVAC와 데이터센터 열관리 분야로 빠르게 이동하고 있다. 결국 AI 시대 공조 경쟁은...",
-          "src": "IT데일리",
+          "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
+          "desc": "<기자> 삼성전자가 이달 초에 수리용 자재비를 인상했는데요. 사실 올해만 두 번째입니다. 스마트폰 자재비는 평균 5%, 냉장고나 세탁기 같은 생활가전제품 자재비는 평균 9% 올랐는데요. 1월에 한 번 올리고 6개월 만에 또...",
+          "src": "news",
           "date": "07/14",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240372",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240372_245752_010_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001372255?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] 1시간만 가르치면 되는 로봇이 나온다",
-          "desc": "이와 같은 비정형 작업은 기존의 로봇 기술로는 풀기 어려운 영역이다. 유튜브에서 백덤블링을 선보이는... 온프레미스를 도입할 경우 구축 단가는 높아지고요. 피지컬 AI 운영체제(OS)도 출시할 예정입니다. 지금은...",
-          "src": "byline",
+          "title": "[오늘의 게임·IT 소식] 바이낸스, 창립 9년 만에 이용자 3억2250만명 돌...",
+          "desc": "상대강도지수(RSI), 이동평균수렴·확산지수(MACD), 볼린저 밴드 등 15종의 기술적 지표를 활용할 수 있으며... 방식으로 도입했다고 14일 밝혔다. 이를 통해 이용자는 기존 자동응답시스템(ARS) 인증과 함께 가 원하는...",
+          "src": "dealsite",
           "date": "07/14",
-          "url": "https://byline.network/?p=9004111222611064",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/carbonsix-2.jpg"
+          "url": "https://dealsite.co.kr/articles/165280",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/14/07268d3136ad4bb8b1a7a9ca10999a7a/thumb.jpg"
         },
         {
-          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-          "desc": "안양시는 AI가 분석한 실종자 위치와 이동 경로를 경찰서-소방서 등 유관기관에 즉시 공유하는 협력체계도 운영 중이다. 최대호 안양시장은 전수식에서 “이번 수상은 첨단 기술을 시민 생명과 안전을 지키는 데 활용하...",
-          "src": "ekn",
+          "title": "비전엑스, ‘2026 K-에듀테크 미래교육박람회’서 교육 ICT 통합제어 솔...",
+          "desc": "전자교탁 터치패널을 활용해 여러 장비를 한 번에 조작할 수 있어 강의 운영과 시설 관리의 편의성을 높인 것이 특징이다. 최근 교육 현장에서는 학교 공간재구조화 사업과 AI 디지털교과서 도입, 미래형 교육환경 구축...",
+          "src": "segyebiz",
           "date": "07/14",
-          "url": "https://www.ekn.kr/web/view.php?key=20260714027322168",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.4d305a7011464c9c84188eb00a6749fd_R.jpg"
+          "url": "http://www.segyebiz.com/newsView/20260714508921?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/07/14/20260714508883.jpg"
         },
         {
-          "title": "학교 AI 교육, 기기 보급보다 학생 역량 먼저",
-          "desc": "보고서는 국내 AI 교육정책이 이 같은 역량보다 기술과 도구 활용을 앞세운 측면이 있다고 진단했다. 1인... 이는 2029년부터 국제학업성취도평가(PISA)에 도입되는 미디어·AI 리터러시 평가와도 연결된다. 해당 평가는...",
-          "src": "hangyo",
+          "title": "컴투스플랫폼, 'AMPLIFY 2026'에서 AI 기반 글로벌 게임 서비스 비전 제시",
+          "desc": "(사진=컴투스플랫폼) ‘AMPLIFY 2026’은 AI 기술을 활용해 글로벌 시장 진출을 준비하는 게임 개발사와 업계 관계자를 위한 컨퍼런스다. 컴투스플랫폼을 비롯해 앵커노드, 유모델러, 창조공작소 등 AI 솔루션 기업 4곳이...",
+          "src": "이데일리",
           "date": "07/14",
-          "url": "https://www.hangyo.com/news/article.html?no=108452",
-          "img": "https://www.hangyo.com/data/design/logo/default_image_share_20161101002915.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006329804?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071400550.jpg"
         },
         {
-          "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
-          "desc": "그러다 보니 AI를 활용한 기업들의 생산성 향상 노력 못지않게 개인들의 AI 창업이 관심사로 떠오르고 있다. 과거에는 인터넷이나 정보기술(IT)관련 창업을 하려면 개발자, 디자이너, 회계 담당자 등 필수 임무를 맡길...",
-          "src": "연합뉴스",
+          "title": "[단독] 은행연합회, AI 도입 전략 마련 착수…단계별 AI 로드맵 그린다",
+          "desc": "사진=은행연합회  은행연합회가 인공지능(AI) 도입 전략 수립에 나선다. 은행연합회 업무 전반에 AI를 어떻게... 구축 계약을 체결하고, 금융권 협회 최초로 AI 기술을 활용한 광고심의 시스템 개발에 본격 착수한 바 있다.",
+          "src": "daily",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/001/0016192378?sid=102",
-          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713145000546_01_i_P4.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1385676",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1385676_1567150_3037_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성, 갤럭시S26 7월 보안 업데이트 글로벌 확대…판매 호조에 생산량 ...",
+          "desc": "외신에 따르면 삼성전자는 부품 협력사에 7월 생산량을 기존 100만 대에서 150만 대 이상으로 확대해 달라고 요청한 것으로 알려졌다. 이는 기존 계획보다 약 50% 증가한 규모다. 생산 확대의 배경으로는 공격적인...",
+          "src": "kbench",
+          "date": "07/14",
+          "url": "https://kbench.com/?q=node/280346",
+          "img": ""
+        },
+        {
+          "title": "\"한국은 AI 시대 혁신 엔진...인텔도 동참할 것\"",
+          "desc": "(사진=인텔) 그는 이어 \"이번 한국 방문 목적 역시 핵심 고객사와 협력사 관계 강화에 있다. 새로운 엣지... 이재명 대통령과 이재용 삼성전자 회장, 최태원 SK그룹 회장이 29일 청와대 영빈관에서 열린 대한민국 대도약...",
+          "src": "ZDNet코리아",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/092/0002430388?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/14/5c48b6002d7cee4f6eb7fb2afaa989dc.jpg"
+        },
         {
           "title": "[Who Is ?] 홍완훈 에스에이엠티 부회장",
           "desc": "한편 에스에이엠티는 1990년 삼성물산 전자부품 유통사업부에서 설립된 '삼테크'에 뿌리를 두고 있다.... 삼성전기 재직 당시 중소 협력사와의 계약 파기 건에 대해 \"삼성전기의 잘못된 판단으로 사업이 중단된...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "07/14",
           "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291032167540096",
           "img": "https://image.dnews.co.kr/photo/photo/2026/07/01/202606291032167540096-2-675153.jpg"
-        },
-        {
-          "title": "호남 반도체 팹 4기 들어서면…과연 경제적 파급효과는?",
-          "desc": "삼성전자와 SK하이닉스가 광주 군공항 부지(250만 평)에 총 800조 원을 투입해 반도체 팹(Fab·제조시설) 4기를... 글로벌 소부장(소재·부품·장비) 기업과 유틸리티 상주 인력은 3만명을 넘을 것으로 예측된다. 최첨단 칩을...",
-          "src": "뉴스1",
-          "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/421/0009057323?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/6/7994258/high.jpg"
-        },
-        {
-          "title": "4500조 쏟는데 또 …K-반도체 옥죄는 美 투자 압박",
-          "desc": "하워드 러트닉 미국 상무장관이 삼성전자와 SK하이닉스를 직접 겨냥해 미국 내 메모리 반도체 생산시설... 미국은 인건비와 건설비가 높고 소재·부품·장비 협력사 생태계도 얇아 같은 팹이라도 투자 효율성이...",
-          "src": "조선일보",
-          "date": "07/14",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165712",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165712_447499_4411_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "세계서 돈 제일 잘 버는 삼성전자, 분기 영업익 '100조원' 시대 눈앞",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173688",
-      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7173688_239580_1447_v150.jpg"
+      "title": "삼성전자, 레드닷 디자인상 8관왕…키즈 AI 로봇 최고상",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231765",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202607/2231765_1040172_2836.jpg"
     },
     {
       "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
@@ -189,22 +189,22 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714073725"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714104428"
     },
     {
-      "title": "폭염보다 뜨거운 '발열'…삼성은 공조, LG는 데이터센터 주력",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240372",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240372_245752_010_v150.jpg"
+      "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
+      "url": "https://n.news.naver.com/mnews/article/055/0001372255?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "[인터뷰] 1시간만 가르치면 되는 로봇이 나온다",
-      "url": "https://byline.network/?p=9004111222611064",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/carbonsix-2.jpg"
+      "title": "[오늘의 게임·IT 소식] 바이낸스, 창립 9년 만에 이용자 3억2250만명 돌...",
+      "url": "https://dealsite.co.kr/articles/165280",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/14/07268d3136ad4bb8b1a7a9ca10999a7a/thumb.jpg"
     },
     {
-      "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260714027322168",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.4d305a7011464c9c84188eb00a6749fd_R.jpg"
+      "title": "비전엑스, ‘2026 K-에듀테크 미래교육박람회’서 교육 ICT 통합제어 솔...",
+      "url": "http://www.segyebiz.com/newsView/20260714508921?OutUrl=naver",
+      "img": "http://www.segyebiz.com//content/image/2026/07/14/20260714508883.jpg"
     }
   ]
 };
