@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.15 (수) 02:58",
+  "updatedAt": "2026.07.15 (수) 06:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "78.14",
-        "diff": "+6.73",
-        "rate": "+9.42%",
+        "value": "79.34",
+        "diff": "+1.20",
+        "rate": "+1.54%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,490.20",
-        "diff": "-9.30",
-        "rate": "-0.62%",
+        "value": "1,490.50",
+        "diff": "-9.00",
+        "rate": "-0.60%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.91",
-        "diff": "-4.31",
-        "rate": "-0.47%",
+        "value": "918.73",
+        "diff": "-4.49",
+        "rate": "-0.49%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘레드닷’ 8개상 휩쓴 삼성전자",
-          "desc": "삼성전자가 국제 디자인상인 ‘레드닷 디자인 어워드 2026’ 디자인 콘셉트 부문에서 최고상인 ‘베스트 오브 더 베스트’ 2개를 포함해 8개 상을 받았다고 14일 밝혔다. 최고상은 ‘가전 소모품 선행 콘셉트...",
-          "src": "동아일보",
+          "title": "AI가 촉발한 ‘칩플레이션’에 전자제품 가격 폭등… 스마트폰·PC 판매...",
+          "desc": "소비자 가전 시장을 덮쳤다. AI 특수를 누리는 메모리 반도체 거두들이 고부가가치 AI 칩 생산에만 라인을... 한국의 삼성전자, SK하이닉스, 그리고 미국의 마이크론 테크놀로지는 사상 최대의 신용 창출 매커니즘을...",
+          "src": "g-enews",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/020/0003733919?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134298413.4.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026071417501343040c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714175126016140c8c1c064d39124169111.jpg"
         },
         {
           "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715025836"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715065323"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "민병희 충남도의원, 대한민국 최초 부여군 'AI 고령친화도시' 조성 제안",
-          "desc": "인공지능 기술·복지정책을 결합한 'AI 고령친화도시' 모델을 만들어야 한다\"고 제안했다. 민병희 의원은... 연계한 'AI 의료지원 플랫폼' 도입 ▲ 백제 역사문화 자원을 활용한 걷기 프로그램과 문화해설 프로그램·디지털...",
-          "src": "newstnt",
+          "title": "식품로봇, 외식현장으로",
+          "desc": "현장 도입을 검토하는 외식업주와 창업자가 식품로봇의 활용 방식과 효과를 직접 확인할 수 있도록 할 계획이다. 유튜브와 블로그 등에 공개된 다양한 조리법을 로봇이 인식할 수 있는 데이터로 전환하는 AI 통합 데이터...",
+          "src": "fsnews",
           "date": "07/15",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=710280",
-          "img": "https://cdn.newstnt.com/news/photo/202607/710280_712357_1257.png"
+          "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=61561",
+          "img": "http://www.fsnews.co.kr/news/thumbnail/202607/61561_52442_154_v150.jpg"
         },
         {
-          "title": "페어팩스 경찰, AI로 911 신고 분석한다",
-          "desc": "버지니아주 페어팩스 카운티 경찰국이 인공지능(AI)을 활용해 911 신고를 실시간으로 분석하는 시스템을... 이번 시스템은 경찰국의 실시간 범죄센터(Real Time Crime Center, RTCC)에 새롭게 도입된 AI 기술을 기반으로...",
-          "src": "koreatimes",
+          "title": "국립대병원장이 '지역·필수의료 총괄' 전망",
+          "desc": "총인건비 제한 완화 및 탄력적 정원 운영, 신속채용 절차 도입 등 인력 확보를 위한 제도 개선 방안도 포함됐다. 연구 역량 강화 방안도 포함됐다. 정부는 국립대병원을 중증·희귀난치질환 연구와 의료기술 혁신을...",
+          "src": "dailymedi",
           "date": "07/15",
-          "url": "http://www.koreatimes.com/article/1621338",
-          "img": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg"
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938440",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
         },
         {
-          "title": "[2026 OT 보안 솔루션 리포트] 세계가 주목하는 한국 첨단 제조업, OT 보...",
-          "desc": "한번 도입하면 10-20년씩 사용하는 특성으로 유지보수가 어렵다는 OT 환경의 문제를 해결하기 위해 출시 후... 줄이고, AI 기술 등을 활용해 알람 중 실제 위협을 탐지하고 제대로 대응할 수 있어야 한다는 목소리가...",
-          "src": "boannews",
+          "title": "美·日 이어 英도 뛰어든 '토큰화 전쟁'…\"韓, 로드맵 넘어 실행 나서야...",
+          "desc": "기술을 도입하기 위한 민관 협력 프로그램을 추진한다. 블랙록과 골드만삭스, HSBC, JP모건, 모건스탠리, UBS 등 54개 금융·기술 기업이 참여한다. 참여 기관들은 1년간 영국 금융시장에서 실제 토큰화 자산 활용 사례를...",
+          "src": "뉴스1",
           "date": "07/15",
-          "url": "http://www.boannews.com/media/view.asp?idx=144688&kind=3",
-          "img": "http://www.boannews.com/media/upFiles2/2026/07/774588238_7525.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009059860?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2021/3/15/4666378/high.jpg"
         },
         {
-          "title": "워시 美 연준 의장 \"인플레는 세금…없애겠다\"",
-          "desc": "인공지능(AI) 관련 투자에서 나오는 혜택도 함께 강조해 왔다. 그는 연준 운영 전반을 들여다보기 위해 설치한 5개 태스크포스(TF)를 소개했다. 이 TF들은 소통 방식과 기술, 대차대조표, 연준이 활용하는 경제 지표...",
-          "src": "뉴스핌",
+          "title": "데이터센터 로봇 시장 2035년 1134억 달러 급성장… AI 인프라 운영이 판...",
+          "desc": "트윈과 AI 기반 진단 기술이 결합된 로봇 플랫폼이 도입되고 있다. ABB와 슈나이더 일렉트릭, 지멘스는 로봇... 많은 운영사는 초기 투자 비용 부담을 낮추기 위해 구독 형태인 로봇 서비스(RaaS) 모델을 활용한다. 국내...",
+          "src": "g-enews",
           "date": "07/15",
-          "url": "https://www.newspim.com/news/view/20260714001235",
-          "img": "https://img.newspim.com/news/2026/07/15/2607150041193590_672_tc.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026071506331176382bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260715063449032322bd56fbc3c21121419978.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘레드닷’ 8개상 휩쓴 삼성전자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733919?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134298413.4.jpg"
+      "title": "AI가 촉발한 ‘칩플레이션’에 전자제품 가격 폭등… 스마트폰·PC 판매...",
+      "url": "https://www.g-enews.com/view.php?ud=2026071417501343040c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714175126016140c8c1c064d39124169111.jpg"
     },
     {
       "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -254,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715025836"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715065323"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "민병희 충남도의원, 대한민국 최초 부여군 'AI 고령친화도시' 조성 제안",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=710280",
-      "img": "https://cdn.newstnt.com/news/photo/202607/710280_712357_1257.png"
+      "title": "식품로봇, 외식현장으로",
+      "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=61561",
+      "img": "http://www.fsnews.co.kr/news/thumbnail/202607/61561_52442_154_v150.jpg"
     },
     {
-      "title": "페어팩스 경찰, AI로 911 신고 분석한다",
-      "url": "http://www.koreatimes.com/article/1621338",
-      "img": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg"
+      "title": "국립대병원장이 '지역·필수의료 총괄' 전망",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938440",
+      "img": "https://www.dailymedi.com/img/d_logo.jpg"
     }
   ]
 };
