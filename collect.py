@@ -182,6 +182,96 @@ def collect_section(sec):
     return merged
 
 
+# ─────────────────────────────────────────────────────────────
+# 시장지표 (네이버 금융 실시간 시세) — 원자재·환율
+#   metal/energy: prices?page=1&pageSize=1 / exchange 동일. closePrice·fluctuations 사용
+# ─────────────────────────────────────────────────────────────
+MARKET = [
+    {"kind": "metals",   "code": "CMCU0",     "label": "LME 구리",     "unit": "$/톤",  "mult": 1,       "dec": 0, "avg": True},
+    {"kind": "energy",   "code": "CLcv1",     "label": "국제유가 WTI", "unit": "$/bbl", "mult": 1,       "dec": 2},
+    {"kind": "exchange", "code": "FX_USDKRW", "label": "달러",         "unit": "원",    "mult": 1,       "dec": 2},
+    {"kind": "exchange", "code": "FX_JPYKRW", "label": "엔 (100)",     "unit": "원",    "mult": 1,       "dec": 2},
+    {"kind": "exchange", "code": "FX_IDRKRW", "label": "루피아 (100)", "unit": "원",    "mult": 1,       "dec": 2},
+    {"kind": "exchange", "code": "FX_VNDKRW", "label": "베트남 동 (100)", "unit": "원", "mult": 1,       "dec": 2},
+    {"kind": "exchange", "code": "FX_INRKRW", "label": "인도 INR",     "unit": "원",    "mult": 1,       "dec": 2},
+]
+
+
+def _num(s):
+    try:
+        return float(str(s).replace(",", ""))
+    except Exception:
+        return 0.0
+
+
+def _prev_month_avg(kind, code, mult):
+    """직전 달(전월)의 종가 평균. 여러 페이지 조회해 계산, 실패 시 None."""
+    rows = []
+    for pg in range(1, 9):                # 12건×8 ≈ 최근 96거래일
+        try:
+            j = requests.get(
+                "https://api.stock.naver.com/marketindex/%s/%s/prices?page=%d&pageSize=12" % (kind, code, pg),
+                headers={"User-Agent": "Mozilla/5.0"}, timeout=8).json()
+        except Exception:
+            break
+        if not j:
+            break
+        rows += j
+    if not rows:
+        return None
+    seen, uniq = set(), []
+    for x in rows:
+        d = str(x.get("localTradedAt", ""))[:10]
+        if d and d not in seen:
+            seen.add(d)
+            uniq.append(x)
+    if not uniq:
+        return None
+    uniq.sort(key=lambda x: x.get("localTradedAt", ""), reverse=True)
+    cur_m = str(uniq[0]["localTradedAt"])[:7]
+    y, mo = int(cur_m[:4]), int(cur_m[5:7])
+    pm = "%04d-%02d" % ((y, mo - 1) if mo > 1 else (y - 1, 12))
+    vals = [_num(x["closePrice"]) * mult for x in uniq if str(x["localTradedAt"])[:7] == pm]
+    return sum(vals) / len(vals) if vals else None
+
+
+def fetch_market():
+    """네이버 금융 시세에서 원자재·환율 현재값 수집."""
+    items, asof = [], ""
+    for m in MARKET:
+        try:
+            url = "https://api.stock.naver.com/marketindex/%s/%s/prices?page=1&pageSize=1" % (m["kind"], m["code"])
+            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+            r.raise_for_status()
+            it = r.json()[0]
+            val = _num(it["closePrice"]) * m["mult"]
+            diff = _num(it["fluctuations"]) * m["mult"]
+            name = (it.get("fluctuationsType") or {}).get("name", "")
+            dirn = "up" if name == "RISING" else ("down" if name == "FALLING" else "flat")
+            fmt = "{:,.%df}" % m["dec"]
+            entry = {
+                "label": m["label"], "unit": m["unit"],
+                "value": fmt.format(val),
+                "diff": ("+" if diff >= 0 else "") + fmt.format(diff),
+                "rate": ("+" if dirn == "up" else "") + str(it.get("fluctuationsRatio", "")) + "%",
+                "dir": dirn,
+            }
+            if m.get("avg"):                       # 전월평균 대비 비교
+                avg = _prev_month_avg(m["kind"], m["code"], m["mult"])
+                if avg:
+                    ad = val - avg
+                    entry["avg"] = fmt.format(avg)
+                    entry["avgDiff"] = ("+" if ad >= 0 else "") + fmt.format(ad)
+                    entry["avgRate"] = ("+" if ad >= 0 else "") + ("%.1f%%" % (ad / avg * 100))
+                    entry["avgDir"] = "up" if ad > 0 else ("down" if ad < 0 else "flat")
+            items.append(entry)
+            if m["kind"] == "exchange" and not asof:
+                asof = str(it.get("localTradedAt", ""))
+        except Exception as e:
+            print("   (시장지표 실패: %s %s)" % (m["code"], e))
+    return {"asOf": asof, "items": items}
+
+
 def load_banner():
     """banner.json 이 있으면 그 내용을, 없으면 배너 미표시."""
     if os.path.exists(BANNER_JSON):
@@ -219,7 +309,10 @@ def main():
     ranked = sorted(all_items, key=lambda x: 0 if x["img"] else 1)[:6]
     ranking = [{"title": it["title"], "url": it["url"], "img": it["img"]} for it in ranked]
 
-    data = {"updatedAt": updated, "banner": load_banner(), "sections": sections, "ranking": ranking}
+    market = fetch_market()
+    print("[수집] 시장지표         %d건" % len(market["items"]))
+
+    data = {"updatedAt": updated, "banner": load_banner(), "market": market, "sections": sections, "ranking": ranking}
 
     with open(OUT_JS, "w", encoding="utf-8") as f:
         f.write("/* collect.py 가 자동 생성 — 직접 수정하지 마세요 */\n")

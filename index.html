@@ -17,7 +17,8 @@ header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap
 .hd-guide{font-size:11px;font-weight:700;color:#7a828f;text-decoration:none;border:1px solid #dfe3ec;border-radius:14px;padding:3px 11px;transition:color .12s,border-color .12s,background .12s;white-space:nowrap}
 .hd-guide:hover{color:#1428a0;border-color:#1428a0;background:#f2f5fc}
 .page-layout{display:grid;grid-template-columns:1fr 310px;gap:22px;align-items:start}
-@media(max-width:1024px){.page-layout{grid-template-columns:1fr}.side-col{order:-1}}
+.main-wrap{min-width:0}
+@media(max-width:1024px){.page-layout{grid-template-columns:1fr}}
 .section-title{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:700;margin:24px 0 12px;padding-left:10px;border-left:5px solid #1428a0}
 .section-title.ai{border-left-color:#00a86b}.section-title.harness{border-left-color:#e8842c}.section-title.partner{border-left-color:#7b3fe4}
 .section-title .badge{font-size:11px;font-weight:600;color:#fff;background:#1428a0;padding:2px 8px;border-radius:10px}
@@ -72,6 +73,19 @@ header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap
 .rank-ttl{padding:6px 8px 8px;font-size:11.5px;font-weight:600;line-height:1.4;color:#1a1a1a;word-break:keep-all}
 .rank-more{padding:7px 12px;text-align:right;background:#fafafa;border-top:1px solid #f0f0f0}
 .rank-more a{font-size:11px;color:#1428a0;text-decoration:none;font-weight:600}
+.mkt-row{display:flex;align-items:center;justify-content:space-between;padding:9px 14px;border-bottom:1px solid #f2f4f8}
+.mkt-row:last-child{border-bottom:none}
+.mkt-lbl{font-size:12px;color:#333;font-weight:700}
+.mkt-lbl .u{font-size:10px;color:#aab;font-weight:600;margin-left:3px}
+.mkt-right{text-align:right;white-space:nowrap}
+.mkt-val{font-size:13px;font-weight:800;color:#1a1a1a}
+.mkt-chg{font-size:10.5px;font-weight:700;margin-left:6px}
+.mkt-up{color:#d93025}.mkt-down{color:#1a56db}.mkt-flat{color:#888}
+.mkt-item{border-bottom:1px solid #f2f4f8}
+.mkt-item:last-child{border-bottom:none}
+.mkt-item .mkt-row{border-bottom:none}
+.mkt-sub{font-size:10.5px;color:#8a93a2;padding:0 14px 9px}
+.mkt-sub b{color:#555;font-weight:800}
 footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner{display:flex;align-items:stretch;background:linear-gradient(120deg,#24379c 0%,#17287a 52%,#0e1a5e 100%);color:#fff;border-radius:16px;margin-bottom:18px;box-shadow:0 8px 24px rgba(16,30,110,.3);overflow:hidden}
 .festival-banner .fest-gw{display:flex;align-items:center;gap:15px;padding:18px 24px;flex:0 1 auto;min-width:240px}
@@ -106,22 +120,32 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 </head>
 <body>
 <div class="wrap">
-<header class="top">
-  <h1>☀️ 세림전자 뉴스 브리핑</h1>
-  <div class="hd-right">
-    <a class="hd-guide" href="guide.html" target="_blank" rel="noopener">📖 운영 가이드</a>
-    <span class="date" id="hd-date">불러오는 중...</span>
-  </div>
-</header>
-
-<div id="banner-slot"></div>
-
 <div class="page-layout">
-<main class="main-col" id="main-col">
-  <div style="padding:40px;text-align:center;color:#bbb;font-size:13px">뉴스를 불러오는 중...</div>
-</main>
+<div class="main-wrap">
+  <header class="top">
+    <h1>☀️ 세림전자 뉴스 브리핑</h1>
+    <div class="hd-right">
+      <a class="hd-guide" href="guide.html" target="_blank" rel="noopener">📖 운영 가이드</a>
+      <span class="date" id="hd-date">불러오는 중...</span>
+    </div>
+  </header>
+  <div id="banner-slot"></div>
+  <main class="main-col" id="main-col">
+    <div style="padding:40px;text-align:center;color:#bbb;font-size:13px">뉴스를 불러오는 중...</div>
+  </main>
+</div>
 
 <aside class="side-col">
+
+<div class="widget">
+  <div class="widget-hd">
+    <h2>📈 시장지표</h2>
+    <span class="time-tag" id="mkt-time"></span>
+  </div>
+  <div id="market-body">
+    <div style="padding:18px;color:#bbb;font-size:12px;text-align:center">불러오는 중...</div>
+  </div>
+</div>
 
 <div class="widget" style="overflow:hidden">
   <div id="weather-content">
@@ -144,12 +168,9 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 <footer class="foot">세림전자 경영지원팀 &middot; AI 뉴스 브리핑 시스템 &middot; 데이터: 네이버 뉴스 검색</footer>
 </div>
 
-<!-- 뉴스 데이터 (collect.py 가 매일 자동 생성) -->
-<script src="news.js"></script>
-
-<!-- 화면 렌더링 -->
+<!-- 화면 렌더링 (뉴스 데이터 news.js 는 아래에서 캐시 우회로 매번 새로 로드) -->
 <script>
-(function(){
+function renderNews(){
   var D = window.NEWS_DATA;
   function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
 
@@ -269,6 +290,36 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
                   '<div class="rank-ttl">'+esc(it.title)+'</div>';
     rg.appendChild(a);
   });
+
+  // 시장지표
+  (function(){
+    var mb = document.getElementById('market-body');
+    var mk = D.market;
+    if(!mb) return;
+    if(!mk || !mk.items || !mk.items.length){ mb.innerHTML = '<div style="padding:16px;color:#bbb;font-size:12px;text-align:center">시장지표 없음</div>'; return; }
+    var tt = document.getElementById('mkt-time'); if(tt){ tt.textContent = (mk.asOf||'') + ' 기준'; }
+    function arw(d){ return d==='up'?'▲':(d==='down'?'▼':'–'); }
+    function cls(d){ return d==='up'?'mkt-up':(d==='down'?'mkt-down':'mkt-flat'); }
+    mb.innerHTML = mk.items.map(function(it){
+      var sub = it.avg
+        ? '<div class="mkt-sub">전월평균(네이버) <b>'+esc(it.avg)+'</b> · 대비 <span class="'+cls(it.avgDir)+'">'+arw(it.avgDir)+' '+esc(it.avgRate)+'</span></div>'
+        : '';
+      return '<div class="mkt-item">'+
+               '<div class="mkt-row">'+
+                 '<div class="mkt-lbl">'+esc(it.label)+'<span class="u">'+esc(it.unit)+'</span></div>'+
+                 '<div class="mkt-right"><span class="mkt-val">'+esc(it.value)+'</span>'+
+                   '<span class="mkt-chg '+cls(it.dir)+'">'+arw(it.dir)+' '+esc(it.rate)+'</span></div>'+
+               '</div>'+ sub +
+             '</div>';
+    }).join('');
+  })();
+}
+(function(){
+  var s = document.createElement('script');
+  s.src = 'news.js?t=' + Date.now();   // 캐시 우회 → 항상 최신 뉴스 로드
+  s.onload = renderNews;
+  s.onerror = renderNews;
+  document.head.appendChild(s);
 })();
 </script>
 
