@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 10:44",
+  "updatedAt": "2026.07.14 (화) 12:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -13,6 +13,71 @@ window.NEWS_DATA = {
       }
     ]
   },
+  "market": {
+    "asOf": "2026-07-14",
+    "items": [
+      {
+        "label": "LME 구리",
+        "unit": "$/톤",
+        "value": "13,488",
+        "diff": "+69",
+        "rate": "+0.52%",
+        "dir": "up",
+        "avg": "13,552",
+        "avgDiff": "-64",
+        "avgRate": "-0.5%",
+        "avgDir": "down"
+      },
+      {
+        "label": "국제유가 WTI",
+        "unit": "$/bbl",
+        "value": "78.14",
+        "diff": "+6.73",
+        "rate": "+9.42%",
+        "dir": "up"
+      },
+      {
+        "label": "달러",
+        "unit": "원",
+        "value": "1,487.20",
+        "diff": "-12.30",
+        "rate": "-0.82%",
+        "dir": "down"
+      },
+      {
+        "label": "엔 (100)",
+        "unit": "원",
+        "value": "916.61",
+        "diff": "-6.61",
+        "rate": "-0.72%",
+        "dir": "down"
+      },
+      {
+        "label": "루피아 (100)",
+        "unit": "원",
+        "value": "8.22",
+        "diff": "-0.08",
+        "rate": "-0.96%",
+        "dir": "down"
+      },
+      {
+        "label": "베트남 동 (100)",
+        "unit": "원",
+        "value": "5.67",
+        "diff": "-0.05",
+        "rate": "-0.87%",
+        "dir": "down"
+      },
+      {
+        "label": "인도 INR",
+        "unit": "원",
+        "value": "15.49",
+        "diff": "-0.19",
+        "rate": "-1.21%",
+        "dir": "down"
+      }
+    ]
+  },
   "sections": [
     {
       "cls": "",
@@ -21,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 레드닷 디자인상 8관왕…키즈 AI 로봇 최고상",
-          "desc": "삼성전자가 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서 최고상 2개를 포함해 총 8개의 상을 받았다고 14일 밝혔다. 최고상은 색상만으로 가전 부품의 관리 방법을 구분할 수 있도록 한 소모품 디자인과...",
-          "src": "webeconomy",
+          "title": "삼성전자, '레드닷 디자인 콘셉트' 최고상 수상…세계 3대 디자인상 석...",
+          "desc": "가전 소모품 선행 콘셉트 디자인 컨슈머타임스=김동역 기자 | 삼성전자가 세계적인 디자인 공모전인 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서 최고상인 '베스트 오브 더 베스트' 2개 등 총 8개의 상을...",
+          "src": "cstimes",
           "date": "07/14",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231765",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202607/2231765_1040172_2836.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=713372",
+          "img": "https://www.cstimes.com/news/photo/202607/713372_633451_378.jpg"
         },
         {
           "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
@@ -42,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714104428"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714123913"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -61,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[오늘의 게임·IT 소식] 바이낸스, 창립 9년 만에 이용자 3억2250만명 돌...",
-          "desc": "상대강도지수(RSI), 이동평균수렴·확산지수(MACD), 볼린저 밴드 등 15종의 기술적 지표를 활용할 수 있으며... 방식으로 도입했다고 14일 밝혔다. 이를 통해 이용자는 기존 자동응답시스템(ARS) 인증과 함께 가 원하는...",
-          "src": "dealsite",
+          "title": "\"재생에너지 확대·산업 탈탄소 추진\"...정부 성장전략 살펴보니",
+          "desc": "기술 개발뿐 아니라 설비 교체와 시장 창출도 함께 지원해 산업 전환 속도를 높인다는 계획이다. 순환경제 분야에서는 제품 설계 단계부터 재활용을 고려하는 'K-에코디자인'을 도입하고, 재생원료 설비와 광학선별기...",
+          "src": "newspenguin",
           "date": "07/14",
-          "url": "https://dealsite.co.kr/articles/165280",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/14/07268d3136ad4bb8b1a7a9ca10999a7a/thumb.jpg"
+          "url": "https://www.newspenguin.com/news/articleView.html?idxno=21869",
+          "img": "https://cdn.newspenguin.com/news/thumbnail/202607/21869_64523_3322_v150.jpg"
         },
         {
-          "title": "비전엑스, ‘2026 K-에듀테크 미래교육박람회’서 교육 ICT 통합제어 솔...",
-          "desc": "전자교탁 터치패널을 활용해 여러 장비를 한 번에 조작할 수 있어 강의 운영과 시설 관리의 편의성을 높인 것이 특징이다. 최근 교육 현장에서는 학교 공간재구조화 사업과 AI 디지털교과서 도입, 미래형 교육환경 구축...",
-          "src": "segyebiz",
+          "title": "반도체 800조·AI 550조 투자…정부, 초격차로 잠재성장률 반등 승부수",
+          "desc": "네트워크를 활용하는 것이 효율적이라고 판단했다\"고 설명했다. 다만 정부는 기존 외환보유액 운용계정과... 여기에 청년형 개인종합자산관리계좌(ISA)를 도입해 자산 형성을 지원하고 신혼부부 주거 지원도 확대한다....",
+          "src": "imaeil",
           "date": "07/14",
-          "url": "http://www.segyebiz.com/newsView/20260714508921?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/07/14/20260714508883.jpg"
+          "url": "https://n.news.naver.com/mnews/article/088/0001018964?sid=101",
+          "img": "https://www.imaeil.com/photos/2026/07/14/2026071409441453126_l.jpg"
         },
         {
-          "title": "컴투스플랫폼, 'AMPLIFY 2026'에서 AI 기반 글로벌 게임 서비스 비전 제시",
-          "desc": "(사진=컴투스플랫폼) ‘AMPLIFY 2026’은 AI 기술을 활용해 글로벌 시장 진출을 준비하는 게임 개발사와 업계 관계자를 위한 컨퍼런스다. 컴투스플랫폼을 비롯해 앵커노드, 유모델러, 창조공작소 등 AI 솔루션 기업 4곳이...",
-          "src": "이데일리",
+          "title": "CJ올리브네트웍스, UHD·AI 중계차 구축한다…스포츠 방송 혁신 주도",
+          "desc": "이번 사업은 스포츠 중계의 UHD 전환과 AI 기반 제작 환경 도입에 대응하기 위해 추진됐다.... 초고화질과 AI 기술이 결합된 차별화된 스포츠 중계 환경을 구현하고 빠르게 변화하는 중계 시장에서 고객 경쟁력 강화를 적극...",
+          "src": "ZDNet코리아",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006329804?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071400550.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002430463?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/14/ff8ffe1aff74d8505637f207b3b1e98c.png"
         },
         {
-          "title": "[단독] 은행연합회, AI 도입 전략 마련 착수…단계별 AI 로드맵 그린다",
-          "desc": "사진=은행연합회  은행연합회가 인공지능(AI) 도입 전략 수립에 나선다. 은행연합회 업무 전반에 AI를 어떻게... 구축 계약을 체결하고, 금융권 협회 최초로 AI 기술을 활용한 광고심의 시스템 개발에 본격 착수한 바 있다.",
-          "src": "daily",
+          "title": "3억2250만명이 선택한 바이낸스…창립 9년 만에 성과",
+          "desc": "투자 환경 조성과 더불어 기술 생태계 확장에도 힘쓰고 있다. 바이낸스 개발자 센터는 고성능 API와 SDK... 등이 활용되고 있다. 급격한 AI 도입 과정에서 발생할 수 있는 윤리적 문제를 방지하고, 안전한 데이터 관리를...",
+          "src": "newsway",
           "date": "07/14",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1385676",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1385676_1567150_3037_v150.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026071408374558117",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/14/20260714000001_1200.jpg"
         }
       ]
     },
@@ -100,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성전자·SK하이닉스 ‘동반 입주’ 호남 반도체, 치밀한 공간배치가 ...",
+          "desc": "호남 반도체 클러스터는 삼성전자와 SK하이닉스가 ‘한지붕’ 아래 동거하는 첫 사례인 데다 각 회사의 소재·부품·장비 협력사들의 입주까지 고려한다면 효율적 공간 배치가 필요하다는 주장이 나온다. 김상묵...",
+          "src": "헤럴드경제",
+          "date": "07/14",
+          "url": "https://n.news.naver.com/mnews/article/016/0002669987?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/14/rcv.YNA.20260707.PYH2026070706690005400_T1.jpg"
+        },
         {
           "title": "삼성, 갤럭시S26 7월 보안 업데이트 글로벌 확대…판매 호조에 생산량 ...",
           "desc": "외신에 따르면 삼성전자는 부품 협력사에 7월 생산량을 기존 100만 대에서 150만 대 이상으로 확대해 달라고 요청한 것으로 알려졌다. 이는 기존 계획보다 약 50% 증가한 규모다. 생산 확대의 배경으로는 공격적인...",
@@ -123,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/14",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441857",
           "img": ""
-        },
-        {
-          "title": "[해외건설 톡!파원] 한국-인도 산업협력 새 전환…韓 전용 산업단지 조...",
-          "desc": "현대차와삼성전자 등이 이미 대규모 생산기지를 운영하고 있고, 관련 부품ㆍ소재 기업들의 동반진출... 기자재 협력사들의 동반진출 수요도 새로운 축으로 부상하고 있다. 타밀나두 주정부 투자청 내 코리아데스크는...",
-          "src": "dnews",
-          "date": "07/14",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606291032167540096",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/07/01/202606291032167540096-2-675153.jpg"
         }
       ]
     },
@@ -177,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 레드닷 디자인상 8관왕…키즈 AI 로봇 최고상",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231765",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202607/2231765_1040172_2836.jpg"
+      "title": "삼성전자, '레드닷 디자인 콘셉트' 최고상 수상…세계 3대 디자인상 석...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=713372",
+      "img": "https://www.cstimes.com/news/photo/202607/713372_633451_378.jpg"
     },
     {
       "title": "이제는 'AI홈' 전쟁이다… 삼성·LG, 미래 주거 플랫폼 격돌",
@@ -189,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714104428"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714123913"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -197,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "[오늘의 게임·IT 소식] 바이낸스, 창립 9년 만에 이용자 3억2250만명 돌...",
-      "url": "https://dealsite.co.kr/articles/165280",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/14/07268d3136ad4bb8b1a7a9ca10999a7a/thumb.jpg"
+      "title": "\"재생에너지 확대·산업 탈탄소 추진\"...정부 성장전략 살펴보니",
+      "url": "https://www.newspenguin.com/news/articleView.html?idxno=21869",
+      "img": "https://cdn.newspenguin.com/news/thumbnail/202607/21869_64523_3322_v150.jpg"
     },
     {
-      "title": "비전엑스, ‘2026 K-에듀테크 미래교육박람회’서 교육 ICT 통합제어 솔...",
-      "url": "http://www.segyebiz.com/newsView/20260714508921?OutUrl=naver",
-      "img": "http://www.segyebiz.com//content/image/2026/07/14/20260714508883.jpg"
+      "title": "반도체 800조·AI 550조 투자…정부, 초격차로 잠재성장률 반등 승부수",
+      "url": "https://n.news.naver.com/mnews/article/088/0001018964?sid=101",
+      "img": "https://www.imaeil.com/photos/2026/07/14/2026071409441453126_l.jpg"
     }
   ]
 };
