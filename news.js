@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 23:45",
+  "updatedAt": "2026.07.15 (수) 02:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,489.60",
-        "diff": "-9.90",
-        "rate": "-0.66%",
+        "value": "1,490.20",
+        "diff": "-9.30",
+        "rate": "-0.62%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "919.85",
-        "diff": "-3.37",
-        "rate": "-0.37%",
+        "value": "918.91",
+        "diff": "-4.31",
+        "rate": "-0.47%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.25",
-        "diff": "-0.05",
-        "rate": "-0.60%",
+        "value": "8.26",
+        "diff": "-0.04",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.68",
-        "diff": "-0.04",
-        "rate": "-0.70%",
+        "value": "5.69",
+        "diff": "-0.03",
+        "rate": "-0.52%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.48",
-        "diff": "-0.20",
-        "rate": "-1.28%",
+        "value": "15.49",
+        "diff": "-0.19",
+        "rate": "-1.21%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 ADR설, 회사는 즉각 부인",
-          "desc": "블룸버그에 따르면 미국 투자자는 AI 반도체와 메모리 업황을 중심으로 삼성전자를 볼 가능성이 크지만 삼성전자의 실제 기업가치는 스마트폰과 소비자가전, 파운드리, 부품 사업 전체가 함께 반영된다. 이 때문에 ADR...",
-          "src": "g-enews",
-          "date": "07/14",
-          "url": "https://www.g-enews.com/view.php?ud=2026071419575882729a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714212230078709a1f30943117511616074.jpg"
+          "title": "‘레드닷’ 8개상 휩쓴 삼성전자",
+          "desc": "삼성전자가 국제 디자인상인 ‘레드닷 디자인 어워드 2026’ 디자인 콘셉트 부문에서 최고상인 ‘베스트 오브 더 베스트’ 2개를 포함해 8개 상을 받았다고 14일 밝혔다. 최고상은 ‘가전 소모품 선행 콘셉트...",
+          "src": "동아일보",
+          "date": "07/15",
+          "url": "https://n.news.naver.com/mnews/article/020/0003733919?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134298413.4.jpg"
         },
         {
           "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714234516"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715025836"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'유령 도로'가 된 자전거 도로, 이제는 안전한 이동권 돌려주어야 할 때",
-          "desc": "셋째, 기술을 활용한 단속의 촘촘함과 효율성을 높여야 한다. 한정된 단속 인력만으로는 도심 곳곳의 위반 차량을 모두 잡아내기 어렵다. AI 기반의 무인 CCTV 단속 카메라를 자전거 도로 주변에 확대 배치하고, 시민들이...",
-          "src": "newsjeju",
-          "date": "07/14",
-          "url": "https://www.newsjeju.net/news/articleView.html?idxno=423326",
-          "img": "https://cdn.newsjeju.net/news/thumbnail/202607/423326_526378_4117_v150.jpg"
+          "title": "민병희 충남도의원, 대한민국 최초 부여군 'AI 고령친화도시' 조성 제안",
+          "desc": "인공지능 기술·복지정책을 결합한 'AI 고령친화도시' 모델을 만들어야 한다\"고 제안했다. 민병희 의원은... 연계한 'AI 의료지원 플랫폼' 도입 ▲ 백제 역사문화 자원을 활용한 걷기 프로그램과 문화해설 프로그램·디지털...",
+          "src": "newstnt",
+          "date": "07/15",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=710280",
+          "img": "https://cdn.newstnt.com/news/photo/202607/710280_712357_1257.png"
         },
         {
-          "title": "[패트롤] 익산시-익산시의회",
-          "desc": "현장에 AI 기술을 접목할 수 있는 실무형 인재를 양성하고 기업 경쟁력을 높이기 위해 추진됐다. 교육은... 과정은 기초과정인 '생성형 AI의 이해'와 심화과정인 'AI 현장 도입'으로 구성됐다. 참가자들은 생성형 AI 활용...",
-          "src": "ekn",
-          "date": "07/14",
-          "url": "https://www.ekn.kr/web/view.php?key=20260714027022414",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.9d13ccf3dfc44c03949a9383ec86cbdc_R.jpg"
+          "title": "페어팩스 경찰, AI로 911 신고 분석한다",
+          "desc": "버지니아주 페어팩스 카운티 경찰국이 인공지능(AI)을 활용해 911 신고를 실시간으로 분석하는 시스템을... 이번 시스템은 경찰국의 실시간 범죄센터(Real Time Crime Center, RTCC)에 새롭게 도입된 AI 기술을 기반으로...",
+          "src": "koreatimes",
+          "date": "07/15",
+          "url": "http://www.koreatimes.com/article/1621338",
+          "img": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg"
         },
         {
-          "title": "음향 AI 업계 난제 '기억 쌓는 AI'로 새 해법 제시 .... 한화비전 - GIST ...",
-          "desc": "불러내 활용하는 '딥인버전 기반 생성형 리플레이' 방식을 도입했다. 별도의 데이터 수집 없이도 분류 모델... 활용될 것으로 기대하고 있다. 임정은 한화비전 AI연구소장은 \"이번 수상이 회사의 연구 방향성과 기술력이...",
-          "src": "worktoday",
-          "date": "07/14",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86751",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86751_124944_5540_v150.jpg"
+          "title": "[2026 OT 보안 솔루션 리포트] 세계가 주목하는 한국 첨단 제조업, OT 보...",
+          "desc": "한번 도입하면 10-20년씩 사용하는 특성으로 유지보수가 어렵다는 OT 환경의 문제를 해결하기 위해 출시 후... 줄이고, AI 기술 등을 활용해 알람 중 실제 위협을 탐지하고 제대로 대응할 수 있어야 한다는 목소리가...",
+          "src": "boannews",
+          "date": "07/15",
+          "url": "http://www.boannews.com/media/view.asp?idx=144688&kind=3",
+          "img": "http://www.boannews.com/media/upFiles2/2026/07/774588238_7525.jpg"
         },
         {
-          "title": "[시사천국] 드론이 바꾼 전쟁의 문법…평화를 위한 K-방산의 과제는?",
-          "desc": "이를테면 대형 사업을 도입을 할 때 미국도 참가하고 프랑스나 다른 유럽 국가도 참여하는데 유사하거나... 드론도 AI까지 탑재해서 스스로 자발적으로 작전 수행을 하는 형태까지 발전했거든요. 그 신기술의 흐름을 우리...",
-          "src": "news",
-          "date": "07/14",
-          "url": "https://news.cpbc.co.kr/article/1174362?division=NAVER",
-          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/07/14/6oH1784030232565.jpg"
+          "title": "워시 美 연준 의장 \"인플레는 세금…없애겠다\"",
+          "desc": "인공지능(AI) 관련 투자에서 나오는 혜택도 함께 강조해 왔다. 그는 연준 운영 전반을 들여다보기 위해 설치한 5개 태스크포스(TF)를 소개했다. 이 TF들은 소통 방식과 기술, 대차대조표, 연준이 활용하는 경제 지표...",
+          "src": "뉴스핌",
+          "date": "07/15",
+          "url": "https://www.newspim.com/news/view/20260714001235",
+          "img": "https://img.newspim.com/news/2026/07/15/2607150041193590_672_tc.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 ADR설, 회사는 즉각 부인",
-      "url": "https://www.g-enews.com/view.php?ud=2026071419575882729a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714212230078709a1f30943117511616074.jpg"
+      "title": "‘레드닷’ 8개상 휩쓴 삼성전자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733919?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134298413.4.jpg"
     },
     {
       "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -254,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714234516"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715025836"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "'유령 도로'가 된 자전거 도로, 이제는 안전한 이동권 돌려주어야 할 때",
-      "url": "https://www.newsjeju.net/news/articleView.html?idxno=423326",
-      "img": "https://cdn.newsjeju.net/news/thumbnail/202607/423326_526378_4117_v150.jpg"
+      "title": "민병희 충남도의원, 대한민국 최초 부여군 'AI 고령친화도시' 조성 제안",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=710280",
+      "img": "https://cdn.newstnt.com/news/photo/202607/710280_712357_1257.png"
     },
     {
-      "title": "[패트롤] 익산시-익산시의회",
-      "url": "https://www.ekn.kr/web/view.php?key=20260714027022414",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.9d13ccf3dfc44c03949a9383ec86cbdc_R.jpg"
+      "title": "페어팩스 경찰, AI로 911 신고 분석한다",
+      "url": "http://www.koreatimes.com/article/1621338",
+      "img": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg"
     }
   ]
 };
