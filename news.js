@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 16:08",
+  "updatedAt": "2026.07.14 (화) 19:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,494.90",
-        "diff": "-4.60",
-        "rate": "-0.31%",
+        "value": "1,497.00",
+        "diff": "-2.50",
+        "rate": "-0.17%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "920.73",
-        "diff": "-2.49",
-        "rate": "-0.27%",
+        "value": "922.68",
+        "diff": "-0.54",
+        "rate": "-0.06%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "-0.04",
-        "rate": "-0.48%",
+        "value": "8.29",
+        "diff": "-0.01",
+        "rate": "-0.12%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.69",
-        "diff": "-0.03",
-        "rate": "-0.52%",
+        "value": "5.71",
+        "diff": "-0.01",
+        "rate": "-0.17%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.54",
-        "diff": "-0.14",
-        "rate": "-0.89%",
+        "value": "15.56",
+        "diff": "-0.12",
+        "rate": "-0.77%",
         "dir": "down"
       }
     ]
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이 대통령 4번째 거론 힘 실리는 ‘히트펌프’ 시장서 삼성·LG 격돌",
-          "desc": "김 장관은 13일 회의에서 러시아우크라이나 전쟁 영향이 크다며 히트펌프 설치 비용의 40를 지원해 줬다고 보고했다.유럽서 기술력 입증한 삼성LG, 국내 시장 본격 진출가전 양대 산맥인 삼성전자와 LG전자는 정부 기조에...",
-          "src": "vop",
+          "title": "삼성전자, ADR 상장설 일축…\"美 상장 검토 안 한다\"",
+          "desc": "하지만 삼성전자는 충분한 현금성 자산을 확보하고 있어 대규모 자금 조달 필요성이 상대적으로 낮다는 평가다. 반도체뿐 아니라 스마트폰, TV, 가전, 디스플레이 등 다양한 사업 포트폴리오를 보유한 만큼...",
+          "src": "econovill",
           "date": "07/14",
-          "url": "https://vop.co.kr/A00001695817.html",
-          "img": ""
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745209",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/745209_718709_556_v150.jpg"
         },
         {
-          "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
-          "desc": "AI와 디자인 융합…삼성전자, 레드닷 최고상 2관왕 삼성전자는 세계적 권위의 레드닷 디자인 어워드 2026... AI 지역정보 영상을 시청 후 QR코드로 응모하면 추첨을 통해 총 116명에게 다이슨 청소기, 배달의민족...",
-          "src": "sisaon",
+          "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
+          "desc": "로봇 등 3종을 실증해 안전성과 생산성 향상을 검증할 계획이다. 우면동 KT 연구개발센터에는 삼성전자와... 경품은 다이슨 청소기(1명), 배달의 민족 상품권 5만원권(5명), 마켓컬리 상품권 3만원권(10명), 메가커피...",
+          "src": "뉴스웍스",
           "date": "07/14",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847216",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847216_806052_182_v150.jpg"
         },
         {
           "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714160813"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714194043"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "(2026 하반기 경제성장전략)경제 골든타임…'반도체 온기'에 성장률 3% 대...",
-          "desc": "호황을 활용하기 위해 3대 메가프로젝트를 추진해 투자를 늘리고 생산성을 올려 이재명정부 내에 추진할... 이밖에 중동 전쟁 등으로 취약성이 드러나 공급망 문제에 대응하기 위해선 국내생산세액공제를 도입하고...",
-          "src": "newstomato",
+          "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
+          "desc": "AI 반도체 로봇 등 첨단산업으로 인재가 몰리면서 전기공사업은 상대적으로 외면받고 있다는 것이다. 전기공사는 전문기술 분야로 분류돼 외국인 인력 활용도 제한적인 만큼 인력난을 해소할 방법이 많지 않다. 이에...",
+          "src": "kookje",
           "date": "07/14",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1307142&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/7/14/1307142/attach.jpg?v=202607141604"
+          "url": "https://n.news.naver.com/mnews/article/658/0000149552?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0715/L20260715.22017004338i1.jpg?35"
         },
         {
-          "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
-          "desc": "e-Content △AI를 활용한 인터랙티브 게임 제작을 평가하는 e-Interactive 등 4개 종목에서 실력을 발휘한다.... 기업의 AI 도입 전략과 최신 기술을 공유하는 자리다. LG유플러스는 전시 부스를 통해 상담 에이전트 생성...",
-          "src": "sisaon",
+          "title": "[AI & 윤리⑭] 시험 공정성 흔드는 'AI 안경'...신종 부정행위 우려 확산",
+          "desc": "인공지능(AI) 기술은 정치·경제·사회·문화 전반의 작동 방식을 바꿔놓고 있다. 효율과 편리함을 확장하는... 올바르게 활용될 수 있는 제품을 신뢰하고 선택하게 되는 만큼 장기적으로는 선제적으로 안전장치를 도입하...",
+          "src": "ntoday",
           "date": "07/14",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128185",
+          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128185_113842_4631_v150.jpg"
         },
         {
-          "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
-          "desc": "AI 제품·서비스 확인 제도가 새로 도입되고, 확인을 받은 제품과 서비스에는 조달시장 참여 요건 완화와 가점 등 우대 조치가 적용된다. 과학기술정보통신부는 AI 활용 활성화를 위한 '인공지능 발전과 신뢰 기반 조성...",
-          "src": "파이낸셜뉴스",
+          "title": "[현장에서] 지속가능한 농업의 미래, '성인지 관점' 담은 사람 중심 혁신...",
+          "desc": "오늘날에는 AI, 스마트팜, 자동화 기술 등 첨단기술이 접목되며 거대한 전환기를 맞이하고 있다. 그러나 기술이 아무리 화려하게 발전하더라도 이를 사용하는 사람이 편리하고 안전하게 활용할 수 없다면 진정한...",
+          "src": "dynews",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/014/0005548055?sid=105",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/14/202607141546070260_l.jpg"
+          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858042",
+          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858042_394786_3105_v150.jpg"
         },
         {
-          "title": "[현장] 창작자의 '디테일 붓'부터 유저의 '깐부'까지… AI가 게임개발 패...",
-          "desc": "실전 AI 기술을 꺼내 들었다. 가장 눈길을 끈 것은 인게임 AI 동료 '엘라이(ALLI)'다. 온디바이스 소형언어모델... 나 팀장은 2023년 여름 스팀(Steam)의 AI 사용 고지 정책 도입 이후 출시작이 42% 늘어나는 등 AI로인해 게임...",
-          "src": "인더스트리뉴스",
+          "title": "풍향계/ AI시대 로컬의 길",
+          "desc": "디지털 기술이 융합된 미디어아트였다. 이어령 선생은 \"AI를 전쟁에 사용하면 재앙이 올 것이고, 문화에 활용... 분야에서는 AI 없이는 제작 자체가 불가능하다. 더 나아가 사진, 미술, 공예, 축제현장 등에서도 적극 도입하...",
+          "src": "dynews",
           "date": "07/14",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83300",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202607/83300_102931_1643.jpg"
+          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858051",
+          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858051_394790_3108_v150.jpg"
         }
       ]
     },
@@ -235,21 +235,26 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
-      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
+      "title": "삼성전자, ADR 상장설 일축…\"美 상장 검토 안 한다\"",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745209",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/745209_718709_556_v150.jpg"
+    },
+    {
+      "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847216",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847216_806052_182_v150.jpg"
     },
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714160813"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714194043"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "(2026 하반기 경제성장전략)경제 골든타임…'반도체 온기'에 성장률 3% 대...",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1307142&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/7/14/1307142/attach.jpg?v=202607141604"
+      "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
+      "url": "https://n.news.naver.com/mnews/article/658/0000149552?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0715/L20260715.22017004338i1.jpg?35"
     },
     {
-      "title": "LG전자, GITC 한국대회 개최…삼성전자, 레드닷 최고상 2관왕 [IT오늘]",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202674",
-      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202674_303848_434.jpg"
-    },
-    {
-      "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
-      "url": "https://n.news.naver.com/mnews/article/014/0005548055?sid=105",
-      "img": "https://image.fnnews.com/resource/media/image/2026/07/14/202607141546070260_l.jpg"
+      "title": "[AI & 윤리⑭] 시험 공정성 흔드는 'AI 안경'...신종 부정행위 우려 확산",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128185",
+      "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128185_113842_4631_v150.jpg"
     }
   ]
 };
