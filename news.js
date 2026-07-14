@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.14 (화) 19:40",
+  "updatedAt": "2026.07.14 (화) 23:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,497.00",
-        "diff": "-2.50",
-        "rate": "-0.17%",
+        "value": "1,489.60",
+        "diff": "-9.90",
+        "rate": "-0.66%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "922.68",
-        "diff": "-0.54",
-        "rate": "-0.06%",
+        "value": "919.85",
+        "diff": "-3.37",
+        "rate": "-0.37%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.29",
-        "diff": "-0.01",
-        "rate": "-0.12%",
+        "value": "8.25",
+        "diff": "-0.05",
+        "rate": "-0.60%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.71",
-        "diff": "-0.01",
-        "rate": "-0.17%",
+        "value": "5.68",
+        "diff": "-0.04",
+        "rate": "-0.70%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.56",
-        "diff": "-0.12",
-        "rate": "-0.77%",
+        "value": "15.48",
+        "diff": "-0.20",
+        "rate": "-1.28%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, ADR 상장설 일축…\"美 상장 검토 안 한다\"",
-          "desc": "하지만 삼성전자는 충분한 현금성 자산을 확보하고 있어 대규모 자금 조달 필요성이 상대적으로 낮다는 평가다. 반도체뿐 아니라 스마트폰, TV, 가전, 디스플레이 등 다양한 사업 포트폴리오를 보유한 만큼...",
-          "src": "econovill",
+          "title": "삼성전자 ADR설, 회사는 즉각 부인",
+          "desc": "블룸버그에 따르면 미국 투자자는 AI 반도체와 메모리 업황을 중심으로 삼성전자를 볼 가능성이 크지만 삼성전자의 실제 기업가치는 스마트폰과 소비자가전, 파운드리, 부품 사업 전체가 함께 반영된다. 이 때문에 ADR...",
+          "src": "g-enews",
           "date": "07/14",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745209",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/745209_718709_556_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026071419575882729a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714212230078709a1f30943117511616074.jpg"
         },
         {
           "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714194043"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714234516"
         },
         {
           "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
-          "desc": "AI 반도체 로봇 등 첨단산업으로 인재가 몰리면서 전기공사업은 상대적으로 외면받고 있다는 것이다. 전기공사는 전문기술 분야로 분류돼 외국인 인력 활용도 제한적인 만큼 인력난을 해소할 방법이 많지 않다. 이에...",
-          "src": "kookje",
+          "title": "'유령 도로'가 된 자전거 도로, 이제는 안전한 이동권 돌려주어야 할 때",
+          "desc": "셋째, 기술을 활용한 단속의 촘촘함과 효율성을 높여야 한다. 한정된 단속 인력만으로는 도심 곳곳의 위반 차량을 모두 잡아내기 어렵다. AI 기반의 무인 CCTV 단속 카메라를 자전거 도로 주변에 확대 배치하고, 시민들이...",
+          "src": "newsjeju",
           "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/658/0000149552?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0715/L20260715.22017004338i1.jpg?35"
+          "url": "https://www.newsjeju.net/news/articleView.html?idxno=423326",
+          "img": "https://cdn.newsjeju.net/news/thumbnail/202607/423326_526378_4117_v150.jpg"
         },
         {
-          "title": "[AI & 윤리⑭] 시험 공정성 흔드는 'AI 안경'...신종 부정행위 우려 확산",
-          "desc": "인공지능(AI) 기술은 정치·경제·사회·문화 전반의 작동 방식을 바꿔놓고 있다. 효율과 편리함을 확장하는... 올바르게 활용될 수 있는 제품을 신뢰하고 선택하게 되는 만큼 장기적으로는 선제적으로 안전장치를 도입하...",
-          "src": "ntoday",
+          "title": "[패트롤] 익산시-익산시의회",
+          "desc": "현장에 AI 기술을 접목할 수 있는 실무형 인재를 양성하고 기업 경쟁력을 높이기 위해 추진됐다. 교육은... 과정은 기초과정인 '생성형 AI의 이해'와 심화과정인 'AI 현장 도입'으로 구성됐다. 참가자들은 생성형 AI 활용...",
+          "src": "ekn",
           "date": "07/14",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128185",
-          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128185_113842_4631_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260714027022414",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.9d13ccf3dfc44c03949a9383ec86cbdc_R.jpg"
         },
         {
-          "title": "[현장에서] 지속가능한 농업의 미래, '성인지 관점' 담은 사람 중심 혁신...",
-          "desc": "오늘날에는 AI, 스마트팜, 자동화 기술 등 첨단기술이 접목되며 거대한 전환기를 맞이하고 있다. 그러나 기술이 아무리 화려하게 발전하더라도 이를 사용하는 사람이 편리하고 안전하게 활용할 수 없다면 진정한...",
-          "src": "dynews",
+          "title": "음향 AI 업계 난제 '기억 쌓는 AI'로 새 해법 제시 .... 한화비전 - GIST ...",
+          "desc": "불러내 활용하는 '딥인버전 기반 생성형 리플레이' 방식을 도입했다. 별도의 데이터 수집 없이도 분류 모델... 활용될 것으로 기대하고 있다. 임정은 한화비전 AI연구소장은 \"이번 수상이 회사의 연구 방향성과 기술력이...",
+          "src": "worktoday",
           "date": "07/14",
-          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858042",
-          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858042_394786_3105_v150.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86751",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86751_124944_5540_v150.jpg"
         },
         {
-          "title": "풍향계/ AI시대 로컬의 길",
-          "desc": "디지털 기술이 융합된 미디어아트였다. 이어령 선생은 \"AI를 전쟁에 사용하면 재앙이 올 것이고, 문화에 활용... 분야에서는 AI 없이는 제작 자체가 불가능하다. 더 나아가 사진, 미술, 공예, 축제현장 등에서도 적극 도입하...",
-          "src": "dynews",
+          "title": "[시사천국] 드론이 바꾼 전쟁의 문법…평화를 위한 K-방산의 과제는?",
+          "desc": "이를테면 대형 사업을 도입을 할 때 미국도 참가하고 프랑스나 다른 유럽 국가도 참여하는데 유사하거나... 드론도 AI까지 탑재해서 스스로 자발적으로 작전 수행을 하는 형태까지 발전했거든요. 그 신기술의 흐름을 우리...",
+          "src": "news",
           "date": "07/14",
-          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858051",
-          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858051_394790_3108_v150.jpg"
+          "url": "https://news.cpbc.co.kr/article/1174362?division=NAVER",
+          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/07/14/6oH1784030232565.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, ADR 상장설 일축…\"美 상장 검토 안 한다\"",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=745209",
-      "img": "https://cdn.econovill.com/news/thumbnail/202607/745209_718709_556_v150.jpg"
+      "title": "삼성전자 ADR설, 회사는 즉각 부인",
+      "url": "https://www.g-enews.com/view.php?ud=2026071419575882729a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260714212230078709a1f30943117511616074.jpg"
     },
     {
       "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
@@ -254,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714194043"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260714234516"
     },
     {
       "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
     },
     {
-      "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
-      "url": "https://n.news.naver.com/mnews/article/658/0000149552?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0715/L20260715.22017004338i1.jpg?35"
+      "title": "'유령 도로'가 된 자전거 도로, 이제는 안전한 이동권 돌려주어야 할 때",
+      "url": "https://www.newsjeju.net/news/articleView.html?idxno=423326",
+      "img": "https://cdn.newsjeju.net/news/thumbnail/202607/423326_526378_4117_v150.jpg"
     },
     {
-      "title": "[AI & 윤리⑭] 시험 공정성 흔드는 'AI 안경'...신종 부정행위 우려 확산",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128185",
-      "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128185_113842_4631_v150.jpg"
+      "title": "[패트롤] 익산시-익산시의회",
+      "url": "https://www.ekn.kr/web/view.php?key=20260714027022414",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.9d13ccf3dfc44c03949a9383ec86cbdc_R.jpg"
     }
   ]
 };
