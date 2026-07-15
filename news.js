@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 03:02",
+  "updatedAt": "2026.07.16 (목) 06:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,34 +31,34 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.34",
-        "diff": "+1.20",
-        "rate": "+1.54%",
+        "value": "79.60",
+        "diff": "+0.26",
+        "rate": "+0.33%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,487.10",
-        "diff": "-3.90",
-        "rate": "-0.26%",
+        "value": "1,488.50",
+        "diff": "-2.50",
+        "rate": "-0.17%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.25",
-        "diff": "-0.93",
-        "rate": "-0.10%",
+        "value": "917.95",
+        "diff": "-1.23",
+        "rate": "-0.13%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.25",
-        "diff": "-0.01",
-        "rate": "-0.12%",
-        "dir": "down"
+        "value": "8.26",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "베트남 동 (100)",
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.45",
-        "diff": "-0.05",
-        "rate": "-0.32%",
+        "value": "15.46",
+        "diff": "-0.04",
+        "rate": "-0.26%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "날아온 3개의 청구서… 호황 반도체 발목 잡나",
-          "desc": "삼성전자 DX(스마트폰·가전) 부문 직원들은 14일 수원 본사에서 성과급 격차와 구성원 사기 저하 대책을 요구하는 집회를 열었고, 16일에도 추가 집회가 예고돼 있다. 호남 반도체 투자 건은 ‘우리한테도 투자를...",
-          "src": "조선일보",
+          "title": "[소비자분쟁 The50 ㉘] \"부품 없으니 기다려\"…매일 쓰는 가전, 기약 없...",
+          "desc": "삼성전자와 LG전자, 신일전자, 바디프랜드, 휴테크, 코지마 등 가전업계 전반에서 이같은 민원이 제기되고 있다. 부품이 없어 수리를 못하는 데 대해 가전업계는 글로벌 공급망 불안이 부품 수급에 영향을 미치고 있다는...",
+          "src": "소비자가만드는신문",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/023/0003987850?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/MKIETVQUXRDKDIIV6FVXZRPB6U.png?auth=398c181b3c332c46e956986ebc2bc677fcd178088495f30b1dbdbe223c1b369a&width=1200&height=630&smart=true"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759320",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/759320_315268_5933_v150.jpg"
         },
         {
           "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716030211"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716065351"
         },
         {
-          "title": "[테크 in 넘버] 1만1000원 외",
-          "desc": "삼성전자서비스에서 수리를 받을 경우 에어컨 수리비는 평균 8000원, 냉장고 수리비는 평균 3000원 올랐다. 스마트폰 수리비는 평균 1만1000원 상승했다. 200명 노벨상 수상자 15명과 앤스로픽·오픈AI·구글 임원을 포함한...",
-          "src": "조선일보",
+          "title": "[칩플레이션 쇼크] 메모리값 급등에 삼성·애플·구글 신제품 가격 오르...",
+          "desc": "고대역폭메모리(HBM)와 첨단 AI 반도체로 생산 라인이 쏠리면서, 스마트폰·PC·가전에 필수로 들어가는 범용... 삼성전자가 오는 22일(현지시간) 영국 런던에서 공개할 예정인 ‘갤럭시 Z 폴드8’은 대형 디스플레이와...",
+          "src": "dnews",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/023/0003987829?sid=105",
-          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2276"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151449137140323",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/07/15/202607151449137140323-2-678066.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "농진청, 맞춤형 종균 산업화 고삐",
-          "desc": "농진청은 산업적 활용도가 높은 36종의 균주를 분말 또는 액상 형태의 '맞춤형 발효 종균' 제품으로 개발하는... AI) 기술과 접목해 제조업체가 원하는 최적의 균주를 자동 매칭·추천해 주는 개인화 맞춤 서비스를 도입할...",
-          "src": "amnews",
+          "title": "\"AI는 묻는 만큼 일한다\"…최태원, 제주포럼서 '일하는 방식 재설계' 촉...",
+          "desc": "단순한 기술 도입을 넘어 조직과 업무 프로세스 전반의 'AX(AI 전환)'이 이뤄져야 한다는 메시지다. 성장의... 전통 산업과 로컬 자원을 활용한 청년 창업 모델을 현장에서 체감할 수 있도록 한 구성이다. 강명수 대한상의...",
+          "src": "newsroad",
           "date": "07/16",
-          "url": "http://www.amnews.co.kr/news/articleView.html?idxno=73513",
-          "img": "http://www.amnews.co.kr/news/thumbnail/202607/73513_61379_3456_v150.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/61630_83270_5311_v150.jpg"
         },
         {
-          "title": "금융위, 국민성장펀드 200兆로 확대…\"KB식 주담대 한도 축소, 다른 銀 ...",
-          "desc": "금융위는 포용금융 종합평가체계와 포용금융최고책임자(CIFO) 제도를 도입하고 정책서민금융의 안정적인... 개편해 AI와 데이터 기술을 활용한 맞춤형 금융서비스를 확대한다. 디지털금융 보안 규율체계를 정비하고 해킹...",
-          "src": "weekly",
+          "title": "‘AI 3대 강국’ 자신하는 박태웅 위원장이 던지는 진짜 질문",
+          "desc": "〈인간 없는 전쟁〉을 쓴 최재운 광운대 교수(경영학부 빅데이터경영), 교육 현장에 AI 기술이 활용될... 페드램프는 AI 모델을 정부나 군에 도입하려면 거쳐야 했던 최소 수개월에서 최대 수년간의 보안 검증 절차와...",
+          "src": "sisain",
           "date": "07/16",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7174517",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7174517_240179_5414_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/308/0000038520?sid=102",
+          "img": "https://cdn.sisain.co.kr/news/photo/202607/58194_112909_1783609087.jpg"
         },
         {
-          "title": "대웅제약 '블록형 도매 모델', 의약품 유통구조 개편 탄력 주나",
-          "desc": "양측의 갈등은 지난 3월 대웅제약이 블록형 거점 도매 모델을 도입하면서부터 시작됐다. 블록형 거점 도매... 인공지능(AI) 기반 수요 예측, 바코드 배송 추적 시스템(TMS)을 활용해 재고를 실시간으로 관리한다. 대웅제약은...",
-          "src": "pointdaily",
+          "title": "[N2 인터뷰] 유봉석 유락 대표 \"증거는 현장에 있다…AI 포렌식으로 데...",
+          "desc": "유 대표는 \"보안 솔루션을 도입했다고 데이터가 완벽하게 관리되는 것은 아니다\"라며 \"문제는 사고가 발생한... 여기에 온디바이스 AI 포렌식 기술까지 적용되면 활용 범위는 더욱 넓어진다. 인터넷 연결이 차단된...",
+          "src": "news2day",
           "date": "07/16",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312047",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312047_307806_2930_v150.jpg"
+          "url": "https://www.news2day.co.kr/article/20260715500231",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/15/.cache/512/20260715500230.png"
         },
         {
-          "title": "GS네오텍, 구글 클라우드 AI 행사서 ‘제미나이 엔터프라이즈’ 기반 AX...",
-          "desc": "GS네오텍이 광고·여행·제조 등 산업별 도입 사례 기반으로 실무 중심 AI 활용 방안을 제시했다. 분산... ‘Agentic AI를 통한 업무 혁신’을 주제로 열린 AI 컨퍼런스다. 발표 세션과 라이브 데모, 참가자가 직접 기술...",
-          "src": "sports",
+          "title": "[외신 헤드라인] \"앤트로픽, 투자자 사전면담…이르면 10월 IPO\"",
+          "desc": "기어코 도입을 했고요. 당장은 자사의 주력 노트북용 프로세서를 만드는데 활용되지만, 단순히 제품을 만들기 위한 목적보다, 차세대 제조기술을 실제 환경에서 검증하기 위한 성격이 강하다는 해석입니다. 이번 과정을...",
+          "src": "biz",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/144/0001126421?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/374/0000522009?sid=104",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/07/16/mGc1784150613621.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성·SK 하이닉스, 피 말리는 인재 확보 경쟁… 학계 \"10만 명 키워야\"",
+          "desc": "삼성전자가 반도체 분야의 경력 직원 대규모 채용 공고를 냈다. SK하이닉스는 경력직을 수시로 뽑고 있다.... 팹 1기당 △직접 운영 2,000~3,000명 △소부장·협력사 최소 3,000명을 가정하고 △용인 10기 △호남 4기에...",
+          "src": "한국일보",
+          "date": "07/16",
+          "url": "https://n.news.naver.com/mnews/article/469/0000942542?sid=101",
+          "img": "https://newsimg.hankookilbo.com/2026/07/15/fef408c4-bdf4-4872-bcfd-db5d25c05ec1.jpg"
+        },
         {
           "title": "[창간 21주년 특집] 노태문의 삼성전자, DX·DS 두 축으로 'ESG 혁신' 앞장",
           "desc": "성과 삼성전자 DX 부문은 사업장 내 온실가스 감축을 넘어 제품의 전 과정(Life Cycle)과 협력사 공급망까지... 트레이 부품 소재로 재활용하는 완결형 자원 순환 체계를 이뤄냈다. 수자원 안정을 위한 'Water Positive...",
@@ -187,15 +195,7 @@ window.NEWS_DATA = {
           "src": "pressian",
           "date": "07/15",
           "url": "https://n.news.naver.com/mnews/article/002/0002448445?sid=102",
-          "img": ""
-        },
-        {
-          "title": "[메인비즈협회 선정, ‘이달의 혁신기업인’] ㈜엠이티 김영삼 대표 인...",
-          "desc": "-지난해 삼성전자 1차 협력사로 선정될 수 있었던 배경에도 이러한 경쟁력이 크게 작용했겠습니다. 김 대표: 그렇다고 봅니다. 삼성전자의 반도체 생산공정에도 오래된 장비가 있습니다. 부품이 고장 난 뒤 수리하는...",
-          "src": "매일경제",
-          "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/009/0005707672?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/15/news-p.v1.20260715.bcad69db7ba24355b1ae64533b7f0350_R.jpg"
+          "img": "https://cdn.pressian.com/_resources/10/2026/07/15/2026071418261482727_l.jpg"
         }
       ]
     },
@@ -219,7 +219,7 @@ window.NEWS_DATA = {
           "src": "뉴스핌",
           "date": "07/08",
           "url": "https://www.newspim.com/news/view/20260707001002",
-          "img": ""
+          "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
         },
         {
           "title": "아스팔트 질감까지 데이터로…현대차·기아 '1㎜ 가상도로' 신차 검증 [...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "날아온 3개의 청구서… 호황 반도체 발목 잡나",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987850?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/MKIETVQUXRDKDIIV6FVXZRPB6U.png?auth=398c181b3c332c46e956986ebc2bc677fcd178088495f30b1dbdbe223c1b369a&width=1200&height=630&smart=true"
+      "title": "[소비자분쟁 The50 ㉘] \"부품 없으니 기다려\"…매일 쓰는 가전, 기약 없...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759320",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202607/759320_315268_5933_v150.jpg"
     },
     {
       "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -254,22 +254,22 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716030211"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716065351"
     },
     {
-      "title": "[테크 in 넘버] 1만1000원 외",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987829?sid=105",
-      "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2276"
+      "title": "[칩플레이션 쇼크] 메모리값 급등에 삼성·애플·구글 신제품 가격 오르...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151449137140323",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/07/15/202607151449137140323-2-678066.jpg"
     },
     {
-      "title": "농진청, 맞춤형 종균 산업화 고삐",
-      "url": "http://www.amnews.co.kr/news/articleView.html?idxno=73513",
-      "img": "http://www.amnews.co.kr/news/thumbnail/202607/73513_61379_3456_v150.jpg"
+      "title": "\"AI는 묻는 만큼 일한다\"…최태원, 제주포럼서 '일하는 방식 재설계' 촉...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
+      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/61630_83270_5311_v150.jpg"
     },
     {
-      "title": "금융위, 국민성장펀드 200兆로 확대…\"KB식 주담대 한도 축소, 다른 銀 ...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7174517",
-      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7174517_240179_5414_v150.jpg"
+      "title": "‘AI 3대 강국’ 자신하는 박태웅 위원장이 던지는 진짜 질문",
+      "url": "https://n.news.naver.com/mnews/article/308/0000038520?sid=102",
+      "img": "https://cdn.sisain.co.kr/news/photo/202607/58194_112909_1783609087.jpg"
     }
   ]
 };
