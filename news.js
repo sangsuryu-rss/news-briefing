@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.15 (수) 14:38",
+  "updatedAt": "2026.07.15 (수) 16:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,17 +39,17 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,489.90",
-        "diff": "-1.10",
-        "rate": "-0.07%",
+        "value": "1,489.60",
+        "diff": "-1.40",
+        "rate": "-0.09%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.53",
-        "diff": "-0.65",
-        "rate": "-0.07%",
+        "value": "918.20",
+        "diff": "-0.98",
+        "rate": "-0.11%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.49",
-        "diff": "-0.01",
-        "rate": "-0.06%",
+        "value": "15.48",
+        "diff": "-0.02",
+        "rate": "-0.13%",
         "dir": "down"
       }
     ]
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘에어컨 불모지’ 유럽도 달라졌다…폭염에 웃는 삼성·LG",
-          "desc": "이에 선풍기와 에어컨 등 냉방 가전에 대한 수요가 급증하며 삼성전자[005930]와 LG전자[066570] 등 국내 가전업체도 수혜를 입고 있습니다. 유럽중기예보센터가 운영하는 코페르니쿠스 기후변화서비스에 따르면 올 6월...",
-          "src": "inthenews",
+          "title": "\"스마트폰 다음은 글라스\"… 삼성, '항상 연결된 AI' 구축",
+          "desc": "삼성전자가 가진 강점은 스마트폰뿐 아니라 TV, 가전까지 폭넓은 하드웨어 포트폴리오를 갖추고 있다는 점이다. AI 글라스 역시 하나의 신제품이라기보다 이들 기기를 유기적으로 연결해 갤럭시 AI 경험을 확장하는...",
+          "src": "mediapen",
           "date": "07/15",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=89368",
-          "img": "https://www.inthenews.co.kr/data/photos/20260729/art_17840868887322_e53808.jpg"
+          "url": "https://www.mediapen.com/news/view/1110338",
+          "img": "https://image.mediapen.com/news/202607/news_1110338_1784094554_m.png"
         },
         {
-          "title": "삼성도 못 막았다…라방 한번에 3억 잭팟 '난리 난 혼수템' [불라방③]",
-          "desc": "삼성전자는 2024년 4월 먼지 흡입과 물걸레 청소, 자동 세척, 스팀 살균까지 한 대에 담은 첫 올인원 로봇청소기 '비스포크 AI 스팀'을 내놓으며 이 시장에 뛰어들었다. 지난 3월 정식 출시된 2026년형 모델은 5월 월...",
-          "src": "한국경제",
+          "title": "[전자는 지금] 삼성전자, 폴더블 신기술 '플렉스 티타늄' 공개 外",
+          "desc": "삼성전자가 차세대 갤럭시 폴더블에 적용할 디스플레이 기술 '플렉스 티타늄(Flex Titanium)'을 공개했다.... 행사장에는 로봇청소기와 무선청소기 등 주요 제품을 직접 체험할 수 있는 브랜드존이 마련되며...",
+          "src": "dealsite",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/015/0005310274?sid=105",
-          "img": "https://img.hankyung.com/photo/202607/01.44022507.1.jpg"
+          "url": "https://dealsite.co.kr/articles/165349",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/15/214e5890cae340bf983e8e30582242eb/thumb.jpg"
         },
         {
           "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715143852"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715161124"
         },
         {
-          "title": "온누리쇼핑, 디지털 온누리상품권 기획전 확대…생활·디지털가전 중심...",
-          "desc": "가비파트너스가 운영하는 온누리쇼핑이 삼성전자 감사 페스티벌과 연계해 디지털 온누리상품권 이용 고객을... 회사 측은 TV와 냉장고, 세탁기, 에어컨 등 대형 가전을 구매한 뒤 추가 생활가전을 찾는 소비자 수요를...",
-          "src": "고코리아",
+          "title": "[기획]끝나지 않은 중동 사태…'호르무즈 없는 시나리오' 짜는 산업계",
+          "desc": "삼성전자와 LG전자 등은 주요 소재와 부품 재고를 확보하고 있으며 반도체는 항공 운송 비중이 높아 직접적인 영향은 제한적일 것으로 보고 있다. 다만 냉장고와 세탁기 등 대형 가전과 완성차는 해상 운송 의존도가 높은...",
+          "src": "m-i",
           "date": "07/15",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=872116",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872116_149294_348_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1391934",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1391934_1179542_570_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "NH농협생명, AI 기반 통합 이미지 시스템 구축…보험 AX 속도 낸다",
-          "desc": "NH농협생명은 이번 프로젝트를 통해 AI OCR 기술을 새롭게 도입하는 동시에 노후화된 통합 이미지 시스템도 재구축했다. 특히 AI가 문서를 인식한 뒤 분류하고 활용하는 전 과정을 하나의 흐름으로 연결하는 End-to-End 업무...",
-          "src": "e-science",
+          "title": "[2027 수시/단국대학교] AI·X 캠퍼스 본격화… 전교생 AI교육·첨단산업...",
+          "desc": "(사진=단국대)  단국대학교(총장 안순철)가 AI 기반 교육모델 도입과 첨단 연구 혁신, 전교생 대상 AI... 등 AI 기술을 활용해 실제 건설 현장의 문제를 해결하는 실무 역량을 기르는 데 초점을 맞췄다. 학생들은...",
+          "src": "news",
           "date": "07/15",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=131978",
-          "img": "https://cdn.e-science.co.kr/news/photo/202607/131978_64088_3629.jpg"
+          "url": "https://news.unn.net/news/articleView.html?idxno=594461",
+          "img": "https://cdn.news.unn.net/news/thumbnail/202607/594461_418708_63_v150.jpg"
         },
         {
-          "title": "고려대, 국제 기후 교육 프로그램 'Climate Corps Summer School 2026' 성료",
-          "desc": "참가자들은 3개 대주제(▲기술과 혁신을 통한 기후 솔루션의 확산 및 가속화 ▲기후 행동을 위한 정책... 서비스를 도입해 참가자들의 참여를 다방면으로 독려했다. 3일 차에는 업사이클링 복합문화공간 '서울새활용플...",
-          "src": "팝콘뉴스",
+          "title": "KB금융그룹, 취약계층 빚 경감·소상공인 재기 … 2030년까지 16조 쏜다",
+          "desc": "출연금은 중소기업과 소상공인의 인공지능(AI) 전환, 영세사업장의 안전기술 도입과 산업안전 자문, 한국형... 일부 영업점의 유휴공간도 소상공인 컨설팅 장소로 활용하고 있다. 교육 프로그램인 ‘KB소상공인...",
+          "src": "한국경제",
           "date": "07/15",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=126711",
-          "img": "https://cdn.popcornnews.net/news/thumbnail/202607/126711_151096_3454_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005310337?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/AA.45036332.1.jpg"
         },
         {
-          "title": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득",
-          "desc": "적용되는 AI 기술을 포괄한다. 공인된 제3자 인증기관의 독립적인 심사를 통해 검증을 마쳤다. 출입통제... 슈프리마는 현재 생체인증의 정확도와 처리 속도를 높이는 목적으로 AI를 활용하고 있으며, 향후 기능...",
-          "src": "dailysecu",
+          "title": "신동빈, 사장단 모아 AI 전략 점검···롯데 하반기 VCM서 AX 속도전",
+          "desc": "미래학자이자 글로벌 경영 컨설턴트인 더그 스티븐스가 AI 기술 변화와 글로벌 시장 트렌드를 주제로... 단순히 AI 도입을 지시하는 경영자가 아니라 AI를 직접 활용하는 리더십을 보여준 사례라는 평가다. 신 회장은...",
+          "src": "smartbizn",
           "date": "07/15",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207611",
-          "img": "https://cdn.dailysecu.com/news/photo/202607/207611_208510_3157.jpg"
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=148655",
+          "img": "https://cdn.smartbizn.com/news/photo/202607/148655_253706_830.jpg"
         },
         {
-          "title": "금융위 “디지털자산법 연내 마련…스테이블코인 AML 규율 강화”",
-          "desc": "금융위는 핵심 추진과제 중 하나로 ‘AI 등 신기술을 활용해 국민이 체감하는 금융서비스 구현’을 제시하고... (참조 이데일리 7월14일자 <정부 “스테이블코인법 연내 입법”…비트코인 ETF 도입>) 유동수 국회...",
-          "src": "이데일리",
+          "title": "대한상의 \"AI시대 자격제도, 평생 직무역량 관리해야\"",
+          "desc": "이번 학술대회는 AI를 비롯한 신기술 도입과 인구구조 변화에 대응할 국가자격체계 혁신 방안을 논의하기... 개인이 업무와 경력 단계에 맞춰 역량을 순차적으로 쌓을 수 있어 재직자 직무전환과 재교육에도 활용할 수...",
+          "src": "ebn",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/018/0006330833?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071500957.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716531",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1716531_746155_68_v150.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘에어컨 불모지’ 유럽도 달라졌다…폭염에 웃는 삼성·LG",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=89368",
-      "img": "https://www.inthenews.co.kr/data/photos/20260729/art_17840868887322_e53808.jpg"
+      "title": "\"스마트폰 다음은 글라스\"… 삼성, '항상 연결된 AI' 구축",
+      "url": "https://www.mediapen.com/news/view/1110338",
+      "img": "https://image.mediapen.com/news/202607/news_1110338_1784094554_m.png"
     },
     {
-      "title": "삼성도 못 막았다…라방 한번에 3억 잭팟 '난리 난 혼수템' [불라방③]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310274?sid=105",
-      "img": "https://img.hankyung.com/photo/202607/01.44022507.1.jpg"
+      "title": "[전자는 지금] 삼성전자, 폴더블 신기술 '플렉스 티타늄' 공개 外",
+      "url": "https://dealsite.co.kr/articles/165349",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/15/214e5890cae340bf983e8e30582242eb/thumb.jpg"
     },
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715143852"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715161124"
     },
     {
-      "title": "온누리쇼핑, 디지털 온누리상품권 기획전 확대…생활·디지털가전 중심...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=872116",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872116_149294_348_v150.jpg"
+      "title": "[기획]끝나지 않은 중동 사태…'호르무즈 없는 시나리오' 짜는 산업계",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1391934",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202607/1391934_1179542_570_v150.jpg"
     },
     {
-      "title": "NH농협생명, AI 기반 통합 이미지 시스템 구축…보험 AX 속도 낸다",
-      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=131978",
-      "img": "https://cdn.e-science.co.kr/news/photo/202607/131978_64088_3629.jpg"
+      "title": "[2027 수시/단국대학교] AI·X 캠퍼스 본격화… 전교생 AI교육·첨단산업...",
+      "url": "https://news.unn.net/news/articleView.html?idxno=594461",
+      "img": "https://cdn.news.unn.net/news/thumbnail/202607/594461_418708_63_v150.jpg"
     },
     {
-      "title": "고려대, 국제 기후 교육 프로그램 'Climate Corps Summer School 2026' 성료",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126711",
-      "img": "https://cdn.popcornnews.net/news/thumbnail/202607/126711_151096_3454_v150.jpg"
+      "title": "KB금융그룹, 취약계층 빚 경감·소상공인 재기 … 2030년까지 16조 쏜다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310337?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/AA.45036332.1.jpg"
     }
   ]
 };
