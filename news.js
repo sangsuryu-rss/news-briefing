@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 07:32",
+  "updatedAt": "2026.07.16 (목) 07:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-15",
+    "asOf": "2026-07-16",
     "items": [
       {
         "label": "LME 구리",
@@ -31,9 +31,9 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.60",
-        "diff": "+0.26",
-        "rate": "+0.33%",
+        "value": "80.32",
+        "diff": "+0.72",
+        "rate": "+0.90%",
         "dir": "up"
       },
       {
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716073256"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716075734"
         },
         {
           "title": "[중국 D램 CXMT 해부] ④메모리 3강 체제, 본격적 도전장 내밀다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "씽킹머신스 첫 모델 잉클링, 9750억 파라미터 중 410억만 작동",
-          "desc": "오픈AI 최고기술책임자(CTO)를 지낸 미라 무라티(Mira Murati)가 회사를 세운 지 1년 반 만이다. 잉클링은... 잉클링은 네 가지 양식을 모두 활용해 추론할 수 있지만, 현재 출력은 텍스트와 코드, 스타일이 적용된...",
-          "src": "wikitree",
+          "title": "[인터뷰] \"모니터에 AI 입히니 2.4초에 1대씩 팔려\"...LG전자, '게이밍 모...",
+          "desc": "예상 뛰어 넘은 폭발적 수요…\"AI 기능 도입해 범용성 높여\" 올레드 게이밍모니터 신제품 개발을... 중국이나 대만 등 일부 경쟁업체들이 적의 위치나 발소리를 알려주는 일종의 치팅 기술에 AI를 적용하고 있는 반면...",
+          "src": "아주경제",
           "date": "07/16",
-          "url": "https://www.wikitree.co.kr/articles/1146714",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/16/202607160651492078_ai.jpeg"
+          "url": "https://www.ajunews.com/view/20260715144351330",
+          "img": "https://image.ajunews.com/content/image/2026/07/15/20260715150752917340.jpg"
         },
         {
-          "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 ...",
-          "desc": "기술적 지표는 바닥 형성 가능성을 시사했다. 3일 기준 상대강도지수(RSI)는 강세 다이버전스를 나타냈고... 프로토콜 도입 이후 100만 건 이상의 AI 기반 결제를 처리했다. 또 RLUSD와 XRP를 활용한 결제 네트워크...",
-          "src": "coinreaders",
-          "date": "07/16",
-          "url": "http://coinreaders.com/247983",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202402/2024022936596159.jpg"
-        },
-        {
-          "title": "AI 승부처는 모델보다 현장 적용… 앤트로픽, 합작사 오드 앞세워 기업...",
-          "desc": "AI를 도입하는 과정에서 대형 컨설팅사와 소규모 AI 서비스 회사를 함께 활용했고, 이 가운데 프랙셔널 AI가... 오드는 가능하면 앤트로픽 기술을 먼저 적용하고 슬랙 클로드 태그 같은 기능도 활용한다.",
-          "src": "digitaltoday",
-          "date": "07/16",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684500",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684500_632793_136.jpg"
-        },
-        {
-          "title": "\"체인간 교환·상호운용 해결…법정화폐 금융시스템 효율성 높인다\"",
-          "desc": "“이 기술을 이용하면 AI 에이전트가 솔라나에서 자산을 보유하고 있더라도 템포에서는 스퀴드를 통해 바로 마이크로 페이먼트를 처리할 수 있어 이미 많은 개발자들이 스퀴드를 활용해 AI 에이전트 기반 결제...",
+          "title": "구글 대신 알리바바·바이두 손잡은 애플…중국서 AI 출시 승인[모닝폰...",
+          "desc": "중국 시장에 도입되는 애플 인텔리전스는 중국 정부의 규제 기준에 맞춰 알리바바의 기술을 일종의 필터로 활용해 대형언어모델(LLM)의 업데이트 과정을 조율하도록 설계됐다. 또 미국 버전에서 구글 제미나이와 오픈AI의...",
           "src": "이데일리",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/018/0006331315?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071600254.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006331334?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071600285.jpg"
+        },
+        {
+          "title": "MS-3M, AI 데이터센터 동맹…애저에 차세대 광연결 기술 적용",
+          "desc": "관련 기술의 표준화와 시장 확산을 위한 다중공급자협약(MSA) 마련에도 참여했다. 3M은 고객 서비스와 재무, 영업·마케팅 등 주요 업무에 MS의 AI·디지털 플랫폼을 도입한다. 양사는 AI 에이전트를 활용해 고객 주문...",
+          "src": "전자신문",
+          "date": "07/16",
+          "url": "https://n.news.naver.com/mnews/article/030/0003448296?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/07/16/news-p.v1.20260716.42f758203bfc4439a3ff762aeda725ec_P1.png"
+        },
+        {
+          "title": "LS일렉트릭, 전 직원 RSU·자사주 확대 지급…노사 상생 문화 강화",
+          "desc": "제도를 도입한 바 있다. 글로벌 빅테크(대형 정보기술 기업)들이 핵심 인재 영입 및 유지를 위해 3~5년 분할 지급 조건의 RSU를 주요 보상 수단으로 활용하는 추세를 국내 대기업 중 선도적으로 도입해 운영해 왔다....",
+          "src": "view",
+          "date": "07/16",
+          "url": "https://n.news.naver.com/mnews/article/277/0005790630?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071607442447763_1784155465.jpg"
         }
       ]
     },
@@ -171,7 +171,7 @@ window.NEWS_DATA = {
           "src": "digitaltoday",
           "date": "07/16",
           "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684439",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632730_819.jpeg"
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632800_5334.jpg"
         },
         {
           "title": "삼성·SK 하이닉스, 피 말리는 인재 확보 경쟁… 학계 \"10만 명 키워야\"",
@@ -235,7 +235,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
@@ -254,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716073256"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716075734"
     },
     {
       "title": "[중국 D램 CXMT 해부] ④메모리 3강 체제, 본격적 도전장 내밀다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.newspim.com/news/2026/07/15/2607150337306352_449_tc.jpg"
     },
     {
-      "title": "씽킹머신스 첫 모델 잉클링, 9750억 파라미터 중 410억만 작동",
-      "url": "https://www.wikitree.co.kr/articles/1146714",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/16/202607160651492078_ai.jpeg"
+      "title": "[인터뷰] \"모니터에 AI 입히니 2.4초에 1대씩 팔려\"...LG전자, '게이밍 모...",
+      "url": "https://www.ajunews.com/view/20260715144351330",
+      "img": "https://image.ajunews.com/content/image/2026/07/15/20260715150752917340.jpg"
     },
     {
-      "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 ...",
-      "url": "http://coinreaders.com/247983",
-      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202402/2024022936596159.jpg"
+      "title": "구글 대신 알리바바·바이두 손잡은 애플…중국서 AI 출시 승인[모닝폰...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331334?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071600285.jpg"
     }
   ]
 };
