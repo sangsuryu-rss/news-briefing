@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 06:53",
+  "updatedAt": "2026.07.16 (목) 07:32",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -47,9 +47,9 @@ window.NEWS_DATA = {
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.95",
-        "diff": "-1.23",
-        "rate": "-0.13%",
+        "value": "918.23",
+        "diff": "-0.95",
+        "rate": "-0.10%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[소비자분쟁 The50 ㉘] \"부품 없으니 기다려\"…매일 쓰는 가전, 기약 없...",
-          "desc": "삼성전자와 LG전자, 신일전자, 바디프랜드, 휴테크, 코지마 등 가전업계 전반에서 이같은 민원이 제기되고 있다. 부품이 없어 수리를 못하는 데 대해 가전업계는 글로벌 공급망 불안이 부품 수급에 영향을 미치고 있다는...",
-          "src": "소비자가만드는신문",
+          "title": "\"가전 넘어 주거 플랫폼으로\"⋯삼성·LG, AI홈 B2B 사업 확대",
+          "desc": "삼성전자와 LG전자가 가전과 주거 인프라를 연결하는 인공지능(AI) 홈 사업을 확대하고 있다. 개별 가전 판매를 넘어 건설사와 주거 공간을 설계하고 플랫폼과 에너지, 로봇 서비스를 제공하는 기업간거래(B2B) 시장으로...",
+          "src": "아이뉴스24",
           "date": "07/16",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759320",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/759320_315268_5933_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001042575?sid=101",
+          "img": "https://image.inews24.com/v1/b391b69f6f469b.jpg"
         },
         {
           "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716065351"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716073256"
         },
         {
-          "title": "[칩플레이션 쇼크] 메모리값 급등에 삼성·애플·구글 신제품 가격 오르...",
-          "desc": "고대역폭메모리(HBM)와 첨단 AI 반도체로 생산 라인이 쏠리면서, 스마트폰·PC·가전에 필수로 들어가는 범용... 삼성전자가 오는 22일(현지시간) 영국 런던에서 공개할 예정인 ‘갤럭시 Z 폴드8’은 대형 디스플레이와...",
-          "src": "dnews",
+          "title": "[중국 D램 CXMT 해부] ④메모리 3강 체제, 본격적 도전장 내밀다",
+          "desc": "SK하이닉스·삼성전자·마이크론의 '3강 체제'에 중국 중국 최대 D램(DRAM) 개발사 창신메모리테크놀로지... 반도체뿐 아니라 스마트폰, 가전, 디스플레이, 파운드리 등 다양한 사업 포트폴리오를 보유하고 있어...",
+          "src": "뉴스핌",
           "date": "07/16",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151449137140323",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/07/15/202607151449137140323-2-678066.jpg"
+          "url": "https://www.newspim.com/news/view/20260715001104",
+          "img": "https://img.newspim.com/news/2026/07/15/2607150337306352_449_tc.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI는 묻는 만큼 일한다\"…최태원, 제주포럼서 '일하는 방식 재설계' 촉...",
-          "desc": "단순한 기술 도입을 넘어 조직과 업무 프로세스 전반의 'AX(AI 전환)'이 이뤄져야 한다는 메시지다. 성장의... 전통 산업과 로컬 자원을 활용한 청년 창업 모델을 현장에서 체감할 수 있도록 한 구성이다. 강명수 대한상의...",
-          "src": "newsroad",
+          "title": "씽킹머신스 첫 모델 잉클링, 9750억 파라미터 중 410억만 작동",
+          "desc": "오픈AI 최고기술책임자(CTO)를 지낸 미라 무라티(Mira Murati)가 회사를 세운 지 1년 반 만이다. 잉클링은... 잉클링은 네 가지 양식을 모두 활용해 추론할 수 있지만, 현재 출력은 텍스트와 코드, 스타일이 적용된...",
+          "src": "wikitree",
           "date": "07/16",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
-          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/61630_83270_5311_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1146714",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/16/202607160651492078_ai.jpeg"
         },
         {
-          "title": "‘AI 3대 강국’ 자신하는 박태웅 위원장이 던지는 진짜 질문",
-          "desc": "〈인간 없는 전쟁〉을 쓴 최재운 광운대 교수(경영학부 빅데이터경영), 교육 현장에 AI 기술이 활용될... 페드램프는 AI 모델을 정부나 군에 도입하려면 거쳐야 했던 최소 수개월에서 최대 수년간의 보안 검증 절차와...",
-          "src": "sisain",
+          "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 ...",
+          "desc": "기술적 지표는 바닥 형성 가능성을 시사했다. 3일 기준 상대강도지수(RSI)는 강세 다이버전스를 나타냈고... 프로토콜 도입 이후 100만 건 이상의 AI 기반 결제를 처리했다. 또 RLUSD와 XRP를 활용한 결제 네트워크...",
+          "src": "coinreaders",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/308/0000038520?sid=102",
-          "img": "https://cdn.sisain.co.kr/news/photo/202607/58194_112909_1783609087.jpg"
+          "url": "http://coinreaders.com/247983",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202402/2024022936596159.jpg"
         },
         {
-          "title": "[N2 인터뷰] 유봉석 유락 대표 \"증거는 현장에 있다…AI 포렌식으로 데...",
-          "desc": "유 대표는 \"보안 솔루션을 도입했다고 데이터가 완벽하게 관리되는 것은 아니다\"라며 \"문제는 사고가 발생한... 여기에 온디바이스 AI 포렌식 기술까지 적용되면 활용 범위는 더욱 넓어진다. 인터넷 연결이 차단된...",
-          "src": "news2day",
+          "title": "AI 승부처는 모델보다 현장 적용… 앤트로픽, 합작사 오드 앞세워 기업...",
+          "desc": "AI를 도입하는 과정에서 대형 컨설팅사와 소규모 AI 서비스 회사를 함께 활용했고, 이 가운데 프랙셔널 AI가... 오드는 가능하면 앤트로픽 기술을 먼저 적용하고 슬랙 클로드 태그 같은 기능도 활용한다.",
+          "src": "digitaltoday",
           "date": "07/16",
-          "url": "https://www.news2day.co.kr/article/20260715500231",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/15/.cache/512/20260715500230.png"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684500",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684500_632793_136.jpg"
         },
         {
-          "title": "[외신 헤드라인] \"앤트로픽, 투자자 사전면담…이르면 10월 IPO\"",
-          "desc": "기어코 도입을 했고요. 당장은 자사의 주력 노트북용 프로세서를 만드는데 활용되지만, 단순히 제품을 만들기 위한 목적보다, 차세대 제조기술을 실제 환경에서 검증하기 위한 성격이 강하다는 해석입니다. 이번 과정을...",
-          "src": "biz",
+          "title": "\"체인간 교환·상호운용 해결…법정화폐 금융시스템 효율성 높인다\"",
+          "desc": "“이 기술을 이용하면 AI 에이전트가 솔라나에서 자산을 보유하고 있더라도 템포에서는 스퀴드를 통해 바로 마이크로 페이먼트를 처리할 수 있어 이미 많은 개발자들이 스퀴드를 활용해 AI 에이전트 기반 결제...",
+          "src": "이데일리",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/374/0000522009?sid=104",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/07/16/mGc1784150613621.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006331315?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071600254.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "공급망 기술력이 곧 제조 경쟁력...삼성전자 '소부장 생태계' 키운다",
+          "desc": "[사진: KTV] 삼성전자가 반도체 초격차 전략의 무게중심을 소재·부품·장비(소부장) 생태계로 옮기고 있다.... 첨단공정에서 안정적 수율과 생산능력을 뒷받침하려면 삼성전자는 소재·장비 협력사의 기술 수준이 함께...",
+          "src": "digitaltoday",
+          "date": "07/16",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684439",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632730_819.jpeg"
+        },
         {
           "title": "삼성·SK 하이닉스, 피 말리는 인재 확보 경쟁… 학계 \"10만 명 키워야\"",
           "desc": "삼성전자가 반도체 분야의 경력 직원 대규모 채용 공고를 냈다. SK하이닉스는 경력직을 수시로 뽑고 있다.... 팹 1기당 △직접 운영 2,000~3,000명 △소부장·협력사 최소 3,000명을 가정하고 △용인 10기 △호남 4기에...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/15",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260716010005916",
           "img": "https://img.asiatoday.co.kr/file/2026y/07m/16d/2026071601001069300059161.jpg"
-        },
-        {
-          "title": "AI·반도체 초과이윤에 '특별목적세' 부과할까…\"하청 지원·인재 양성에...",
-          "desc": "정 박사는 \"반도체 산업 내 소재·부품·장비 등을 생산하는 하청업체는 영업이익이 그리 크지 않아 재투자할 만한 여력이 부족하다\"며 \"이런 측면에서 접근해보자\"고 했다. 아울러 \"삼성전자는 문재인 정부 당시 사회 기부...",
-          "src": "pressian",
-          "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/002/0002448445?sid=102",
-          "img": "https://cdn.pressian.com/_resources/10/2026/07/15/2026071418261482727_l.jpg"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[소비자분쟁 The50 ㉘] \"부품 없으니 기다려\"…매일 쓰는 가전, 기약 없...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759320",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202607/759320_315268_5933_v150.jpg"
+      "title": "\"가전 넘어 주거 플랫폼으로\"⋯삼성·LG, AI홈 B2B 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/031/0001042575?sid=101",
+      "img": "https://image.inews24.com/v1/b391b69f6f469b.jpg"
     },
     {
       "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -254,22 +254,22 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716065351"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260716073256"
     },
     {
-      "title": "[칩플레이션 쇼크] 메모리값 급등에 삼성·애플·구글 신제품 가격 오르...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151449137140323",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/07/15/202607151449137140323-2-678066.jpg"
+      "title": "[중국 D램 CXMT 해부] ④메모리 3강 체제, 본격적 도전장 내밀다",
+      "url": "https://www.newspim.com/news/view/20260715001104",
+      "img": "https://img.newspim.com/news/2026/07/15/2607150337306352_449_tc.jpg"
     },
     {
-      "title": "\"AI는 묻는 만큼 일한다\"…최태원, 제주포럼서 '일하는 방식 재설계' 촉...",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
-      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/61630_83270_5311_v150.jpg"
+      "title": "씽킹머신스 첫 모델 잉클링, 9750억 파라미터 중 410억만 작동",
+      "url": "https://www.wikitree.co.kr/articles/1146714",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/16/202607160651492078_ai.jpeg"
     },
     {
-      "title": "‘AI 3대 강국’ 자신하는 박태웅 위원장이 던지는 진짜 질문",
-      "url": "https://n.news.naver.com/mnews/article/308/0000038520?sid=102",
-      "img": "https://cdn.sisain.co.kr/news/photo/202607/58194_112909_1783609087.jpg"
+      "title": "XRP, 1달러 지지선과 1.18달러 저항 사이 횡보…리플은 사상 최고의 한 ...",
+      "url": "http://coinreaders.com/247983",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202402/2024022936596159.jpg"
     }
   ]
 };
