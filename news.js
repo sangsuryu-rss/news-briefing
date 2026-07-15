@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.15 (수) 12:54",
+  "updatedAt": "2026.07.15 (수) 14:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,42 +39,42 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,491.80",
-        "diff": "+0.80",
-        "rate": "+0.05%",
-        "dir": "up"
+        "value": "1,489.90",
+        "diff": "-1.10",
+        "rate": "-0.07%",
+        "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "919.96",
-        "diff": "+0.78",
-        "rate": "+0.08%",
-        "dir": "up"
+        "value": "918.53",
+        "diff": "-0.65",
+        "rate": "-0.07%",
+        "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "8.25",
+        "diff": "-0.01",
+        "rate": "-0.12%",
+        "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.68",
-        "diff": "-0.01",
-        "rate": "-0.18%",
+        "value": "5.67",
+        "diff": "-0.02",
+        "rate": "-0.35%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.53",
-        "diff": "+0.03",
-        "rate": "+0.19%",
-        "dir": "up"
+        "value": "15.49",
+        "diff": "-0.01",
+        "rate": "-0.06%",
+        "dir": "down"
       }
     ]
   },
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 \"美 ADR 발행 검토 안 해, 상황 다르다\"… 나스닥 상장설 부인",
-          "desc": "SK하이닉스는 HBM 생산 확대를 위해 대규모 설비 투자를 진행하고 있으나 삼성전자는 반도체뿐 아니라 스마트폰, 가전, 디스플레이 등 여러 사업을 운영하고 있는 데다 자체 현금 창출력도 크다는 것이다. 상장 방식도...",
-          "src": "financialpost",
+          "title": "‘에어컨 불모지’ 유럽도 달라졌다…폭염에 웃는 삼성·LG",
+          "desc": "이에 선풍기와 에어컨 등 냉방 가전에 대한 수요가 급증하며 삼성전자[005930]와 LG전자[066570] 등 국내 가전업체도 수혜를 입고 있습니다. 유럽중기예보센터가 운영하는 코페르니쿠스 기후변화서비스에 따르면 올 6월...",
+          "src": "inthenews",
           "date": "07/15",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=266644",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/266644_339984_1937_v150.jpg"
+          "url": "https://www.inthenews.co.kr/news/article.html?no=89368",
+          "img": "https://www.inthenews.co.kr/data/photos/20260729/art_17840868887322_e53808.jpg"
         },
         {
-          "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
-          "desc": "로봇 등 3종을 실증해 안전성과 생산성 향상을 검증할 계획이다. 우면동 KT 연구개발센터에는 삼성전자와... 경품은 다이슨 청소기(1명), 배달의 민족 상품권 5만원권(5명), 마켓컬리 상품권 3만원권(10명), 메가커피...",
-          "src": "뉴스웍스",
-          "date": "07/14",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847216",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847216_806052_182_v150.jpg"
+          "title": "삼성도 못 막았다…라방 한번에 3억 잭팟 '난리 난 혼수템' [불라방③]",
+          "desc": "삼성전자는 2024년 4월 먼지 흡입과 물걸레 청소, 자동 세척, 스팀 살균까지 한 대에 담은 첫 올인원 로봇청소기 '비스포크 AI 스팀'을 내놓으며 이 시장에 뛰어들었다. 지난 3월 정식 출시된 2026년형 모델은 5월 월...",
+          "src": "한국경제",
+          "date": "07/15",
+          "url": "https://n.news.naver.com/mnews/article/015/0005310274?sid=105",
+          "img": "https://img.hankyung.com/photo/202607/01.44022507.1.jpg"
         },
         {
           "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715125452"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715143852"
         },
         {
-          "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
-          "desc": "<기자> 삼성전자가 이달 초에 수리용 자재비를 인상했는데요. 사실 올해만 두 번째입니다. 스마트폰 자재비는 평균 5%, 냉장고나 세탁기 같은 생활가전제품 자재비는 평균 9% 올랐는데요. 1월에 한 번 올리고 6개월 만에 또...",
-          "src": "news",
-          "date": "07/14",
-          "url": "https://n.news.naver.com/mnews/article/055/0001372255?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
+          "title": "온누리쇼핑, 디지털 온누리상품권 기획전 확대…생활·디지털가전 중심...",
+          "desc": "가비파트너스가 운영하는 온누리쇼핑이 삼성전자 감사 페스티벌과 연계해 디지털 온누리상품권 이용 고객을... 회사 측은 TV와 냉장고, 세탁기, 에어컨 등 대형 가전을 구매한 뒤 추가 생활가전을 찾는 소비자 수요를...",
+          "src": "고코리아",
+          "date": "07/15",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=872116",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872116_149294_348_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "하반기 금융 구조개혁 본격화…국민성장펀드 200조 확대",
-          "desc": "국가전략기술에 집중 투자하는 '한국전략기술파트너스(KSTP)'를 신설해 최대 10조원의 장기 자금을 공급... 금융회사 부실에 대비해 금융안정계정을 신설하고 신속정리제도를 도입하는 등 금융안전망도 강화한다. AI 기반...",
-          "src": "mediapen",
+          "title": "NH농협생명, AI 기반 통합 이미지 시스템 구축…보험 AX 속도 낸다",
+          "desc": "NH농협생명은 이번 프로젝트를 통해 AI OCR 기술을 새롭게 도입하는 동시에 노후화된 통합 이미지 시스템도 재구축했다. 특히 AI가 문서를 인식한 뒤 분류하고 활용하는 전 과정을 하나의 흐름으로 연결하는 End-to-End 업무...",
+          "src": "e-science",
           "date": "07/15",
-          "url": "https://www.mediapen.com/news/view/1110298",
-          "img": "https://image.mediapen.com/news/202607/news_1110298_1784082696_m.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=131978",
+          "img": "https://cdn.e-science.co.kr/news/photo/202607/131978_64088_3629.jpg"
         },
         {
-          "title": "로보티즈·두산로보틱스 주가 파죽지세… 로봇 생태계 전방위 매수세 유...",
-          "desc": "제조업뿐 아니라 물류, 국방, 의료, 서비스 분야까지 로봇 활용 범위가 확대되면서 관련 기업들의 실적 개선 가능성도 높아지고 있다. 증시 전문가들은 \"산업용 로봇 시장은 AI 기술 발전과 스마트팩토리 투자 확대가...",
-          "src": "핀포인트뉴스",
+          "title": "고려대, 국제 기후 교육 프로그램 'Climate Corps Summer School 2026' 성료",
+          "desc": "참가자들은 3개 대주제(▲기술과 혁신을 통한 기후 솔루션의 확산 및 가속화 ▲기후 행동을 위한 정책... 서비스를 도입해 참가자들의 참여를 다방면으로 독려했다. 3일 차에는 업사이클링 복합문화공간 '서울새활용플...",
+          "src": "팝콘뉴스",
           "date": "07/15",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468627",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/468627_456587_5115_v150.jpg"
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=126711",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202607/126711_151096_3454_v150.jpg"
         },
         {
-          "title": "AI코가 쌀의 팝콘향 지킨다...화성시, '수향미' 명품 관리 본격화",
-          "desc": "전격 도입, 향기 성분에 대한 계량화와 빅데이터 기반의 품질 관리에 본격적으로 나선다고 15일 밝혔다.... 생육 기술을 정립하는 귀중한 기초 원천 자료로 활용된다. 이로써 외부 기후 여건이 요동치더라도 소비자들이...",
-          "src": "g-enews",
+          "title": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득",
+          "desc": "적용되는 AI 기술을 포괄한다. 공인된 제3자 인증기관의 독립적인 심사를 통해 검증을 마쳤다. 출입통제... 슈프리마는 현재 생체인증의 정확도와 처리 속도를 높이는 목적으로 AI를 활용하고 있으며, 향후 기능...",
+          "src": "dailysecu",
           "date": "07/15",
-          "url": "https://www.g-enews.com/view.php?ud=202607151053437514d6b0ab7f1c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026071510542803434d6b0ab7f1c591322451.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207611",
+          "img": "https://cdn.dailysecu.com/news/photo/202607/207611_208510_3157.jpg"
         },
         {
-          "title": "\"보험 서류, AI가 알아서 척척\"…NH농협생명, 'AI 통합 이미지 시스템'으...",
-          "desc": "특히 인공지능이 문서의 첫 시작점인 이미지 인식부터 분류, 실제 활용에 이르기까지 전 과정을 한 번에... 고성능 AI와 최신 디지털 IT 기술을 업무 구석구석에 적극적으로 도입해 체질 혁신을 멈추지 않을 것이며 영업...",
-          "src": "dailysmart",
+          "title": "금융위 “디지털자산법 연내 마련…스테이블코인 AML 규율 강화”",
+          "desc": "금융위는 핵심 추진과제 중 하나로 ‘AI 등 신기술을 활용해 국민이 체감하는 금융서비스 구현’을 제시하고... (참조 이데일리 7월14일자 <정부 “스테이블코인법 연내 입법”…비트코인 ETF 도입>) 유동수 국회...",
+          "src": "이데일리",
           "date": "07/15",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126936",
-          "img": "https://cdn.dailysmart.co.kr/news/photo/202607/126936_126308_4520.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006330833?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071500957.jpg"
         }
       ]
     },
@@ -227,7 +227,7 @@ window.NEWS_DATA = {
           "src": "데일리안",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/119/0003107053?sid=101",
-          "img": ""
+          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
         },
         {
           "title": "'첨단車 개발 전진기지' …현대차·기아 남양기술연구소",
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 \"美 ADR 발행 검토 안 해, 상황 다르다\"… 나스닥 상장설 부인",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=266644",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/266644_339984_1937_v150.jpg"
+      "title": "‘에어컨 불모지’ 유럽도 달라졌다…폭염에 웃는 삼성·LG",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=89368",
+      "img": "https://www.inthenews.co.kr/data/photos/20260729/art_17840868887322_e53808.jpg"
     },
     {
-      "title": "[#통신 풍향계] 통신3사 'V프로필' 출시·SKT 'AI-RAN 선도망' 구축·KT '공...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847216",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847216_806052_182_v150.jpg"
+      "title": "삼성도 못 막았다…라방 한번에 3억 잭팟 '난리 난 혼수템' [불라방③]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310274?sid=105",
+      "img": "https://img.hankyung.com/photo/202607/01.44022507.1.jpg"
     },
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715125452"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715143852"
     },
     {
-      "title": "[친절한 경제] 또 오르는 장바구니 물가…은행은 대출 조인다",
-      "url": "https://n.news.naver.com/mnews/article/055/0001372255?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260714/202201933_1280.jpg"
+      "title": "온누리쇼핑, 디지털 온누리상품권 기획전 확대…생활·디지털가전 중심...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=872116",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872116_149294_348_v150.jpg"
     },
     {
-      "title": "하반기 금융 구조개혁 본격화…국민성장펀드 200조 확대",
-      "url": "https://www.mediapen.com/news/view/1110298",
-      "img": "https://image.mediapen.com/news/202607/news_1110298_1784082696_m.jpg"
+      "title": "NH농협생명, AI 기반 통합 이미지 시스템 구축…보험 AX 속도 낸다",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=131978",
+      "img": "https://cdn.e-science.co.kr/news/photo/202607/131978_64088_3629.jpg"
     },
     {
-      "title": "로보티즈·두산로보틱스 주가 파죽지세… 로봇 생태계 전방위 매수세 유...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468627",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/468627_456587_5115_v150.jpg"
+      "title": "고려대, 국제 기후 교육 프로그램 'Climate Corps Summer School 2026' 성료",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126711",
+      "img": "https://cdn.popcornnews.net/news/thumbnail/202607/126711_151096_3454_v150.jpg"
     }
   ]
 };
