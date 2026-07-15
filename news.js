@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.15 (수) 19:44",
+  "updatedAt": "2026.07.15 (수) 23:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,25 +39,25 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,492.40",
-        "diff": "+1.40",
-        "rate": "+0.09%",
+        "value": "1,491.40",
+        "diff": "+0.40",
+        "rate": "+0.03%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.88",
-        "diff": "-0.30",
-        "rate": "-0.03%",
-        "dir": "down"
+        "value": "919.51",
+        "diff": "+0.33",
+        "rate": "+0.04%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.28",
-        "diff": "+0.02",
-        "rate": "+0.24%",
+        "value": "8.27",
+        "diff": "+0.01",
+        "rate": "+0.12%",
         "dir": "up"
       },
       {
@@ -71,10 +71,10 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.50",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "15.49",
+        "diff": "-0.01",
+        "rate": "-0.06%",
+        "dir": "down"
       }
     ]
   },
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[인문학 칼럼] 성과급 갈등, 맹자 정도전이라면",
-          "desc": "삼성전자 내부에서 반도체를 담당하는 DS 부문과 스마트폰·가전을 담당하는 DX 부문 간 성과급 격차는 구성원 사이 깊은 감정의 균열을 낳았다. 대기업 내부의 결속을 뒤흔드는 내부 해체선을 여실히 보여준다. 이런 격차와...",
-          "src": "kookje",
+          "title": "민주노총, 7.15 총파업 \"원청 교섭\" 촉구",
+          "desc": "노동부장관이 뛰어다녀야 할 곳은 삼성전자가 아니라 노동자들이 일자리를 잃은 홈플러스, 우창코넥타... 홍장의 서비스연맹 수석부위원장은 \"서비스연맹에는 배달, 택배, 대리, 가전 설치, 방문 점검, 학습지, 방과 후...",
+          "src": "ohmynews",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/658/0000149692?sid=110",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0716/L20260716.22023004725i1.jpg?25"
+          "url": "https://n.news.naver.com/mnews/article/047/0002522674?sid=102",
+          "img": "https://ojsfile.ohmynews.com/CT_T_IMG/2026/0715/IE003647956_LT.jpg"
         },
         {
           "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715194429"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715234457"
         },
         {
-          "title": "삼성전자서비스 임직원들, 전국 희망디딤돌센터 찾아 재능기부",
-          "desc": "삼성전자서비스 임직원들이 현장에서 갈고닦은 기술과 노하우는 사회에 첫발을 내딛는 자립준비청년들을... 전국 삼성희망디딤돌센터를 찾아 가전제품 점검 및 세척, 생필품 후원 활동 등을 펼쳤다....",
-          "src": "kmib",
+          "title": "[창간 21주년 특집] 노태문의 삼성전자, DX·DS 두 축으로 'ESG 혁신' 앞장",
+          "desc": "<편집자 주> 노태문 삼성전자 대표이사 사장(DX부문장)이 이끄는 ESG 경영이 소비자들의 선택을 받았다.... 스마트폰, TV, 냉장고 등 제품군의 소비 전력을 2019년 대비 평균 30% 개선하겠다는 중장기 목표를 세웠다. 이는...",
+          "src": "F투데이",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/005/0001861215?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0715/2026071519021186471_1784109731_1784099220.jpg"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362128",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362128_370779_575_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "박성현 광양시장, '민선9기 첫 시민보고회'... '비상경제' 선언·5대 대전...",
-          "desc": "AI 대전환과 관련해서는 교통과 생활 안전, 각종 도시 문제 해결 과정에 AI 기술을 적극 도입해 시민 체감형... 광양시는 광양제철소 철강을 활용한 접는·제습 컨테이너 생산기지를 유치해 중국산 중심의 세계 컨테이너...",
-          "src": "newsworker",
+          "title": "구글 AI 검색, 자살 신호도 못 잡고 숙제 100% 대신 풀어줘",
+          "desc": "청소년 기술 안전을 연구하는 비영리기관 커먼센스미디어(Common Sense Media) 산하 유스 AI 세이프티... 이런 가운데 미국 의회에서도 이달 중 각종 AI 도구에 새로운 규제를 도입하는 법안이 논의될 예정이어서, 학교...",
+          "src": "wikitree",
           "date": "07/15",
-          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=436718",
-          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/436718_478458_1238_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1146706",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/15/202607152336123052_ai.jpeg"
         },
         {
-          "title": "[2차 부처보고-기획처] 李 \"부정부패 신고업, 국가에 기여하는 것\"…기...",
-          "desc": "2045 국가발전전략은 향후 범정부 정책 우선순위와 재원배분의 기준으로 활용될 예정이다. 이번 업무보고는... 재생에너지 보급, 핵심 기술 R&D, 산업구조 탈탄소 전환에도 투자가 확대된다. 박홍근 장관은 \"저성장의 벽을...",
-          "src": "polinews",
+          "title": "MS 7월 패치 570건, 한 달 만에 최다 경신",
+          "desc": "보안 전문 매체 크레브스 온 시큐리티(krebsonsecurity.com)와 블리핑컴퓨터(BleepingComputer)에 따르면 마이크로소프트는 이번 패치 규모 급증의 배경으로 인공지능(AI)을 활용한 취약점 발견 기술 도입을 지목했다....",
+          "src": "wikitree",
           "date": "07/15",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737157",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737157_557972_2735_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1146705",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/15/202607152312564643_it.jpeg"
         },
         {
-          "title": "ETRI 'AI 기반 주파수 예측 기술' 글로벌 표준 됐다",
-          "desc": "앞으로 이 방법론은 AI 기반 주파수 이용 효율화 방안 마련, 데이터 기반 스펙트럼 관리 도입, 6G 시대 주파수 공급 전략 수립 등에서 국제적인 참고 기술로 활용될 전망이다. ETRI 박승근 전파연구본부장은 \"이번 ITU-R...",
-          "src": "ggilbo",
+          "title": "AI가 사람을 흉내내는 시대…월드, ‘인간 증명’으로 기업 보안 판 바...",
+          "desc": "0 기반 인증 기술을 통해 화상회의와 전자계약, 기업 업무 전반으로 활용 범위를 확대한다는 전략이다. 월드(World) 로고 (자료 제공: 월드) 계정 아닌 ‘사람’을 인증하는 시대 AI 기술이 사람의 얼굴과 목소리를...",
+          "src": "venturesquare",
           "date": "07/15",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169691",
-          "img": "https://cdn.ggilbo.com/news/photo/202607/1169691_1022015_3349.jpg"
+          "url": "https://www.venturesquare.net/1098837/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/07/WOL.png"
         },
         {
-          "title": "유락, ‘현장형 AI 포렌식’으로 인도 4개 주 실증 확보",
-          "desc": "온디바이스 AI 등 차별화 기능을 소개하고 구체적인 도입 절차를 논의했다. 이러한 기술 경쟁력이 현지... 반면 현지 디지털 포렌식 전문 인력은 약 9만 명이 부족한 것으로 추산돼, 비전문가도 쉽게 활용할 수 있는...",
-          "src": "boannews",
+          "title": "[#통신 풍향계] SKT-SK바이오팜 '난치성 암 신약 연구' 가속·KT 'AX 테크...",
+          "desc": "이 방법론은 AI 기반 주파수 이용 효율화와 데이터 기반 스펙트럼 관리 도입, 6G 시대 주파수 공급 전략 수립에 활용될 전망이다. ETRI는 LTE 네트워크의 수요와 공급 균형을 평가하는 기술 등을 연구해왔으며 이를...",
+          "src": "뉴스웍스",
           "date": "07/15",
-          "url": "http://www.boannews.com/media/view.asp?idx=144710&kind=3",
-          "img": "http://www.boannews.com/media/upFiles2/2026/07/988185222_1952.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847338",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847338_806267_1647_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[창간 21주년 특집] 노태문의 삼성전자, DX·DS 두 축으로 'ESG 혁신' 앞장",
+          "desc": "성과 삼성전자 DX 부문은 사업장 내 온실가스 감축을 넘어 제품의 전 과정(Life Cycle)과 협력사 공급망까지... 트레이 부품 소재로 재활용하는 완결형 자원 순환 체계를 이뤄냈다. 수자원 안정을 위한 'Water Positive...",
+          "src": "F투데이",
+          "date": "07/15",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362128",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362128_370779_575_v150.jpg"
+        },
         {
           "title": "외형은 최대·이익은 주춤… 신차로 반전 노리는 현대차·기아",
           "desc": "컨센서스를 웃도는 실적을 거둘 경우 현대차는 국내 기업 가운데 삼성전자와 SK하이닉스에 이어 분기 매출... 협력사 화재에 따른 부품 공급 차질과 원자재 가격 부담도 수익성 악화 요인으로 꼽힌다.현대차와 기아는...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/15",
           "url": "https://n.news.naver.com/mnews/article/009/0005707672?sid=101",
           "img": "https://pimg.mk.co.kr/news/cms/202607/15/news-p.v1.20260715.bcad69db7ba24355b1ae64533b7f0350_R.jpg"
-        },
-        {
-          "title": "대한민국 첨단 산업의 새 축, ‘천안 제6일반산업단지’가 여는 미래 생...",
-          "desc": "삼성전자와 삼성SDI 등 글로벌 첨단 기업들의 대규모 투자가 이어지며 충남 천안이 국가 첨단산업의 핵심... 첨단 제조업에서 중요한 물류 효율성과 협력사 간 신속한 공급망 구축이 가능한 입지라는 점에서 기업들의...",
-          "src": "view",
-          "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/277/0005790125?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071413295545391_1784003396.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[인문학 칼럼] 성과급 갈등, 맹자 정도전이라면",
-      "url": "https://n.news.naver.com/mnews/article/658/0000149692?sid=110",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0716/L20260716.22023004725i1.jpg?25"
+      "title": "민주노총, 7.15 총파업 \"원청 교섭\" 촉구",
+      "url": "https://n.news.naver.com/mnews/article/047/0002522674?sid=102",
+      "img": "https://ojsfile.ohmynews.com/CT_T_IMG/2026/0715/IE003647956_LT.jpg"
     },
     {
       "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
@@ -254,22 +254,22 @@ window.NEWS_DATA = {
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715194429"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715234457"
     },
     {
-      "title": "삼성전자서비스 임직원들, 전국 희망디딤돌센터 찾아 재능기부",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861215?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0715/2026071519021186471_1784109731_1784099220.jpg"
+      "title": "[창간 21주년 특집] 노태문의 삼성전자, DX·DS 두 축으로 'ESG 혁신' 앞장",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362128",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362128_370779_575_v150.jpg"
     },
     {
-      "title": "박성현 광양시장, '민선9기 첫 시민보고회'... '비상경제' 선언·5대 대전...",
-      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=436718",
-      "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/436718_478458_1238_v150.jpg"
+      "title": "구글 AI 검색, 자살 신호도 못 잡고 숙제 100% 대신 풀어줘",
+      "url": "https://www.wikitree.co.kr/articles/1146706",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/15/202607152336123052_ai.jpeg"
     },
     {
-      "title": "[2차 부처보고-기획처] 李 \"부정부패 신고업, 국가에 기여하는 것\"…기...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737157",
-      "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737157_557972_2735_v150.jpg"
+      "title": "MS 7월 패치 570건, 한 달 만에 최다 경신",
+      "url": "https://www.wikitree.co.kr/articles/1146705",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/15/202607152312564643_it.jpeg"
     }
   ]
 };
