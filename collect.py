@@ -235,15 +235,22 @@ def _prev_month_avg(kind, code, mult):
     return sum(vals) / len(vals) if vals else None
 
 
+def _current_info(kind, code):
+    """개별 endpoint = 현재값(환율은 하나은행 실시간, 원자재는 10분 지연).
+    /prices(일별 마감가)와 달리 장중에도 갱신됨. exchange는 exchangeInfo로 감싸짐."""
+    r = requests.get("https://api.stock.naver.com/marketindex/%s/%s" % (kind, code),
+                     headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+    r.raise_for_status()
+    j = r.json()
+    return j.get("exchangeInfo") or j
+
+
 def fetch_market():
     """네이버 금융 시세에서 원자재·환율 현재값 수집."""
     items, asof = [], ""
     for m in MARKET:
         try:
-            url = "https://api.stock.naver.com/marketindex/%s/%s/prices?page=1&pageSize=1" % (m["kind"], m["code"])
-            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
-            r.raise_for_status()
-            it = r.json()[0]
+            it = _current_info(m["kind"], m["code"])
             val = _num(it["closePrice"]) * m["mult"]
             diff = _num(it["fluctuations"]) * m["mult"]
             name = (it.get("fluctuationsType") or {}).get("name", "")
@@ -266,7 +273,7 @@ def fetch_market():
                     entry["avgDir"] = "up" if ad > 0 else ("down" if ad < 0 else "flat")
             items.append(entry)
             if m["kind"] == "exchange" and not asof:
-                asof = str(it.get("localTradedAt", ""))
+                asof = str(it.get("localTradedAt", ""))[:10]
         except Exception as e:
             print("   (시장지표 실패: %s %s)" % (m["code"], e))
     return {"asOf": asof, "items": items}
