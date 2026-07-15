@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.15 (수) 16:11",
+  "updatedAt": "2026.07.15 (수) 19:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,42 +39,42 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,489.60",
-        "diff": "-1.40",
-        "rate": "-0.09%",
-        "dir": "down"
+        "value": "1,492.40",
+        "diff": "+1.40",
+        "rate": "+0.09%",
+        "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.20",
-        "diff": "-0.98",
-        "rate": "-0.11%",
+        "value": "918.88",
+        "diff": "-0.30",
+        "rate": "-0.03%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.25",
-        "diff": "-0.01",
-        "rate": "-0.12%",
-        "dir": "down"
+        "value": "8.28",
+        "diff": "+0.02",
+        "rate": "+0.24%",
+        "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.67",
-        "diff": "-0.02",
-        "rate": "-0.35%",
-        "dir": "down"
+        "value": "5.69",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.48",
-        "diff": "-0.02",
-        "rate": "-0.13%",
-        "dir": "down"
+        "value": "15.50",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"스마트폰 다음은 글라스\"… 삼성, '항상 연결된 AI' 구축",
-          "desc": "삼성전자가 가진 강점은 스마트폰뿐 아니라 TV, 가전까지 폭넓은 하드웨어 포트폴리오를 갖추고 있다는 점이다. AI 글라스 역시 하나의 신제품이라기보다 이들 기기를 유기적으로 연결해 갤럭시 AI 경험을 확장하는...",
-          "src": "mediapen",
+          "title": "[인문학 칼럼] 성과급 갈등, 맹자 정도전이라면",
+          "desc": "삼성전자 내부에서 반도체를 담당하는 DS 부문과 스마트폰·가전을 담당하는 DX 부문 간 성과급 격차는 구성원 사이 깊은 감정의 균열을 낳았다. 대기업 내부의 결속을 뒤흔드는 내부 해체선을 여실히 보여준다. 이런 격차와...",
+          "src": "kookje",
           "date": "07/15",
-          "url": "https://www.mediapen.com/news/view/1110338",
-          "img": "https://image.mediapen.com/news/202607/news_1110338_1784094554_m.png"
+          "url": "https://n.news.naver.com/mnews/article/658/0000149692?sid=110",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0716/L20260716.22023004725i1.jpg?25"
         },
         {
-          "title": "[전자는 지금] 삼성전자, 폴더블 신기술 '플렉스 티타늄' 공개 外",
-          "desc": "삼성전자가 차세대 갤럭시 폴더블에 적용할 디스플레이 기술 '플렉스 티타늄(Flex Titanium)'을 공개했다.... 행사장에는 로봇청소기와 무선청소기 등 주요 제품을 직접 체험할 수 있는 브랜드존이 마련되며...",
-          "src": "dealsite",
+          "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
+          "desc": "가비파트너스가 운영하는 온누리쇼핑이 삼성전자 감사 페스티벌에 맞춰 디지털 온누리상품권 사용 고객을... 음식물처리기, 무선청소기, 로봇청소기, 제습기, 에어써큘레이터, 커피머신, 소형 주방가전, PC 주변기기 등을...",
+          "src": "woodkorea",
           "date": "07/15",
-          "url": "https://dealsite.co.kr/articles/165349",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/15/214e5890cae340bf983e8e30582242eb/thumb.jpg"
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90289",
+          "img": "https://cdn.woodkorea.co.kr/news/photo/202607/90289_103456_5858.png"
         },
         {
           "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
@@ -107,15 +107,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "07/13",
           "url": "https://www.viva100.com/article/20260712500366",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715161124"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715194429"
         },
         {
-          "title": "[기획]끝나지 않은 중동 사태…'호르무즈 없는 시나리오' 짜는 산업계",
-          "desc": "삼성전자와 LG전자 등은 주요 소재와 부품 재고를 확보하고 있으며 반도체는 항공 운송 비중이 높아 직접적인 영향은 제한적일 것으로 보고 있다. 다만 냉장고와 세탁기 등 대형 가전과 완성차는 해상 운송 의존도가 높은...",
-          "src": "m-i",
+          "title": "삼성전자서비스 임직원들, 전국 희망디딤돌센터 찾아 재능기부",
+          "desc": "삼성전자서비스 임직원들이 현장에서 갈고닦은 기술과 노하우는 사회에 첫발을 내딛는 자립준비청년들을... 전국 삼성희망디딤돌센터를 찾아 가전제품 점검 및 세척, 생필품 후원 활동 등을 펼쳤다....",
+          "src": "kmib",
           "date": "07/15",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1391934",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1391934_1179542_570_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/005/0001861215?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0715/2026071519021186471_1784109731_1784099220.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[2027 수시/단국대학교] AI·X 캠퍼스 본격화… 전교생 AI교육·첨단산업...",
-          "desc": "(사진=단국대)  단국대학교(총장 안순철)가 AI 기반 교육모델 도입과 첨단 연구 혁신, 전교생 대상 AI... 등 AI 기술을 활용해 실제 건설 현장의 문제를 해결하는 실무 역량을 기르는 데 초점을 맞췄다. 학생들은...",
-          "src": "news",
+          "title": "박성현 광양시장, '민선9기 첫 시민보고회'... '비상경제' 선언·5대 대전...",
+          "desc": "AI 대전환과 관련해서는 교통과 생활 안전, 각종 도시 문제 해결 과정에 AI 기술을 적극 도입해 시민 체감형... 광양시는 광양제철소 철강을 활용한 접는·제습 컨테이너 생산기지를 유치해 중국산 중심의 세계 컨테이너...",
+          "src": "newsworker",
           "date": "07/15",
-          "url": "https://news.unn.net/news/articleView.html?idxno=594461",
-          "img": "https://cdn.news.unn.net/news/thumbnail/202607/594461_418708_63_v150.jpg"
+          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=436718",
+          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/436718_478458_1238_v150.jpg"
         },
         {
-          "title": "KB금융그룹, 취약계층 빚 경감·소상공인 재기 … 2030년까지 16조 쏜다",
-          "desc": "출연금은 중소기업과 소상공인의 인공지능(AI) 전환, 영세사업장의 안전기술 도입과 산업안전 자문, 한국형... 일부 영업점의 유휴공간도 소상공인 컨설팅 장소로 활용하고 있다. 교육 프로그램인 ‘KB소상공인...",
-          "src": "한국경제",
+          "title": "[2차 부처보고-기획처] 李 \"부정부패 신고업, 국가에 기여하는 것\"…기...",
+          "desc": "2045 국가발전전략은 향후 범정부 정책 우선순위와 재원배분의 기준으로 활용될 예정이다. 이번 업무보고는... 재생에너지 보급, 핵심 기술 R&D, 산업구조 탈탄소 전환에도 투자가 확대된다. 박홍근 장관은 \"저성장의 벽을...",
+          "src": "polinews",
           "date": "07/15",
-          "url": "https://n.news.naver.com/mnews/article/015/0005310337?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/AA.45036332.1.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737157",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737157_557972_2735_v150.jpg"
         },
         {
-          "title": "신동빈, 사장단 모아 AI 전략 점검···롯데 하반기 VCM서 AX 속도전",
-          "desc": "미래학자이자 글로벌 경영 컨설턴트인 더그 스티븐스가 AI 기술 변화와 글로벌 시장 트렌드를 주제로... 단순히 AI 도입을 지시하는 경영자가 아니라 AI를 직접 활용하는 리더십을 보여준 사례라는 평가다. 신 회장은...",
-          "src": "smartbizn",
+          "title": "ETRI 'AI 기반 주파수 예측 기술' 글로벌 표준 됐다",
+          "desc": "앞으로 이 방법론은 AI 기반 주파수 이용 효율화 방안 마련, 데이터 기반 스펙트럼 관리 도입, 6G 시대 주파수 공급 전략 수립 등에서 국제적인 참고 기술로 활용될 전망이다. ETRI 박승근 전파연구본부장은 \"이번 ITU-R...",
+          "src": "ggilbo",
           "date": "07/15",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=148655",
-          "img": "https://cdn.smartbizn.com/news/photo/202607/148655_253706_830.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169691",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1169691_1022015_3349.jpg"
         },
         {
-          "title": "대한상의 \"AI시대 자격제도, 평생 직무역량 관리해야\"",
-          "desc": "이번 학술대회는 AI를 비롯한 신기술 도입과 인구구조 변화에 대응할 국가자격체계 혁신 방안을 논의하기... 개인이 업무와 경력 단계에 맞춰 역량을 순차적으로 쌓을 수 있어 재직자 직무전환과 재교육에도 활용할 수...",
-          "src": "ebn",
+          "title": "유락, ‘현장형 AI 포렌식’으로 인도 4개 주 실증 확보",
+          "desc": "온디바이스 AI 등 차별화 기능을 소개하고 구체적인 도입 절차를 논의했다. 이러한 기술 경쟁력이 현지... 반면 현지 디지털 포렌식 전문 인력은 약 9만 명이 부족한 것으로 추산돼, 비전문가도 쉽게 활용할 수 있는...",
+          "src": "boannews",
           "date": "07/15",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716531",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202607/1716531_746155_68_v150.jpg"
+          "url": "http://www.boannews.com/media/view.asp?idx=144710&kind=3",
+          "img": "http://www.boannews.com/media/upFiles2/2026/07/988185222_1952.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "외형은 최대·이익은 주춤… 신차로 반전 노리는 현대차·기아",
+          "desc": "컨센서스를 웃도는 실적을 거둘 경우 현대차는 국내 기업 가운데 삼성전자와 SK하이닉스에 이어 분기 매출... 협력사 화재에 따른 부품 공급 차질과 원자재 가격 부담도 수익성 악화 요인으로 꼽힌다.현대차와 기아는...",
+          "src": "asiatoday",
+          "date": "07/15",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260716010005916",
+          "img": "https://img.asiatoday.co.kr/file/2026y/07m/16d/2026071601001069300059161.jpg"
+        },
         {
           "title": "AI·반도체 초과이윤에 '특별목적세' 부과할까…\"하청 지원·인재 양성에...",
           "desc": "정 박사는 \"반도체 산업 내 소재·부품·장비 등을 생산하는 하청업체는 영업이익이 그리 크지 않아 재투자할 만한 여력이 부족하다\"며 \"이런 측면에서 접근해보자\"고 했다. 아울러 \"삼성전자는 문재인 정부 당시 사회 기부...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/15",
           "url": "https://n.news.naver.com/mnews/article/277/0005790125?sid=101",
           "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071413295545391_1784003396.jpg"
-        },
-        {
-          "title": "“AI 거점 반갑지만 체감은 아직”⋯새로운 제조기업 기다리는 구미 [르...",
-          "desc": "소재·부품 기업은 많지만 메모리나 시스템반도체를 생산하는 반도체 팹은 없다”며 “지금 있는 기업들도 대부분 완성품 업체에 납품하는 협력사인 만큼 산업 생태계를 한 단계 끌어올리려면 삼성전자나 SK하이닉스...",
-          "src": "이투데이",
-          "date": "07/15",
-          "url": "https://www.etoday.co.kr/news/view/2603342",
-          "img": "https://img.etoday.co.kr/pto_db/2026/07/20260714171215_2359473_656_256.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"스마트폰 다음은 글라스\"… 삼성, '항상 연결된 AI' 구축",
-      "url": "https://www.mediapen.com/news/view/1110338",
-      "img": "https://image.mediapen.com/news/202607/news_1110338_1784094554_m.png"
+      "title": "[인문학 칼럼] 성과급 갈등, 맹자 정도전이라면",
+      "url": "https://n.news.naver.com/mnews/article/658/0000149692?sid=110",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0716/L20260716.22023004725i1.jpg?25"
     },
     {
-      "title": "[전자는 지금] 삼성전자, 폴더블 신기술 '플렉스 티타늄' 공개 外",
-      "url": "https://dealsite.co.kr/articles/165349",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/15/214e5890cae340bf983e8e30582242eb/thumb.jpg"
+      "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
+      "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90289",
+      "img": "https://cdn.woodkorea.co.kr/news/photo/202607/90289_103456_5858.png"
     },
     {
       "title": "삼성 ‘무풍 공조’ vs LG ‘상업용 세탁’⋯ 결 다른 K-가전 글로벌 ‘...",
       "url": "https://www.viva100.com/article/20260712500366",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715161124"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/12/.cache/512/20260712500364.png?v=20260715194429"
     },
     {
-      "title": "[기획]끝나지 않은 중동 사태…'호르무즈 없는 시나리오' 짜는 산업계",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1391934",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202607/1391934_1179542_570_v150.jpg"
+      "title": "삼성전자서비스 임직원들, 전국 희망디딤돌센터 찾아 재능기부",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861215?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0715/2026071519021186471_1784109731_1784099220.jpg"
     },
     {
-      "title": "[2027 수시/단국대학교] AI·X 캠퍼스 본격화… 전교생 AI교육·첨단산업...",
-      "url": "https://news.unn.net/news/articleView.html?idxno=594461",
-      "img": "https://cdn.news.unn.net/news/thumbnail/202607/594461_418708_63_v150.jpg"
+      "title": "박성현 광양시장, '민선9기 첫 시민보고회'... '비상경제' 선언·5대 대전...",
+      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=436718",
+      "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/436718_478458_1238_v150.jpg"
     },
     {
-      "title": "KB금융그룹, 취약계층 빚 경감·소상공인 재기 … 2030년까지 16조 쏜다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310337?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/AA.45036332.1.jpg"
+      "title": "[2차 부처보고-기획처] 李 \"부정부패 신고업, 국가에 기여하는 것\"…기...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737157",
+      "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737157_557972_2735_v150.jpg"
     }
   ]
 };
