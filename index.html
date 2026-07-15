@@ -116,6 +116,7 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner .fest-dday .dday-val{font-size:20px;font-weight:900;color:#ffd700;line-height:1.1}
 .festival-banner .fest-dday .dday-date{font-size:10px;color:rgba(255,255,255,.6);margin-top:2px}
 .data-error{background:#fff3f3;border:1px solid #ffd0d0;color:#c0392b;border-radius:12px;padding:16px 18px;font-size:13px;margin-bottom:18px}
+.w-week .wk-uv{  font-size:9px;  font-weight:700;  color:#d97706;  margin-top:4px;}
 </style>
 </head>
 <body>
@@ -395,8 +396,24 @@ function renderNews(){
     return 'wi-day-cloudy';
   }
   try{
-    var url='https://api.open-meteo.com/v1/forecast?latitude=35.16&longitude=126.85'+
-            '&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=Asia%2FSeoul&forecast_days=7';
+var url='https://api.open-meteo.com/v1/forecast?latitude=35.16&longitude=126.85'+
+        '&daily=weathercode,temperature_2m_max,temperature_2m_min,uv_index_max'+
+        '&timezone=Asia%2FSeoul&forecast_days=7';
+    function getUVInfo(uv) {
+    if (uv < 3)
+        return { text: "낮음", color: "#4CAF50", emoji: "🟢" };
+
+    if (uv < 6)
+        return { text: "보통", color: "#FFC107", emoji: "🟡" };
+
+    if (uv < 8)
+        return { text: "높음", color: "#FF9800", emoji: "🟠" };
+
+    if (uv < 11)
+        return { text: "매우 높음", color: "#F44336", emoji: "🔴" };
+
+    return { text: "위험", color: "#9C27B0", emoji: "🟣" };
+    }
     var r = await fetch(url);
     if(!r.ok) throw new Error('fail');
     var d = (await r.json()).daily;
@@ -405,12 +422,14 @@ function renderNews(){
     for(var i=0; i<d.time.length; i++){
       var dt = new Date(d.time[i]+'T00:00:00+09:00');
       var dow = (i===0) ? '오늘' : dows[dt.getDay()];
+      var uv = Math.round(d.uv_index_max[i]);
+      var uvInfo = getUVInfo(uv);
       html += '<div class="wk-day'+(i===0?' today':'')+'">'+
                 '<div class="wk-dow">'+dow+'</div>'+
                 '<i class="wi '+wmoIcon(d.weathercode[i])+' wk-ico"></i>'+
                 '<div class="wk-tmax">'+Math.round(d.temperature_2m_max[i])+'°</div>'+
                 '<div class="wk-tmin">'+Math.round(d.temperature_2m_min[i])+'°</div>'+
-              '</div>';
+'<div class="wk-uv" style="color:' + uvInfo.color + '"> UV ' + uvInfo.emoji  + uvInfo.text + ' (' + uv + ')</div>'+              '</div>';
     }
     html += '</div>';
     box.innerHTML = html;
