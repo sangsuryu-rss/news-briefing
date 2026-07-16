@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 16:19",
+  "updatedAt": "2026.07.16 (목) 19:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,41 +31,41 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.49",
-        "diff": "-0.11",
-        "rate": "-0.14%",
-        "dir": "down"
+        "value": "79.60",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,477.30",
-        "diff": "-11.20",
-        "rate": "-0.75%",
+        "value": "1,477.90",
+        "diff": "-10.60",
+        "rate": "-0.71%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.60",
-        "diff": "-6.63",
-        "rate": "-0.72%",
+        "value": "911.30",
+        "diff": "-6.93",
+        "rate": "-0.75%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.22",
-        "diff": "-0.04",
-        "rate": "-0.48%",
+        "value": "8.23",
+        "diff": "-0.03",
+        "rate": "-0.36%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.63",
-        "diff": "-0.05",
-        "rate": "-0.88%",
+        "value": "5.64",
+        "diff": "-0.04",
+        "rate": "-0.70%",
         "dir": "down"
       },
       {
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "8인치 파운드리 강세 지속…DB하이텍 2분기 실적 청신호",
-          "desc": "PMIC(전력관리칩)와 전력반도체가 여전히 8인치 공정에 의존하는 가운데 TSMC와 삼성전자 등 선도 업체들이... DB하이텍은 제품 비중도 그동안 가전과 통신 중심 성장에서 자동차·산업 위주의 고부가가치 구조로...",
-          "src": "daily",
+          "title": "[IT's 가성비] 냉장고, 정수기 대체용 10만원 이하 제빙기?",
+          "desc": "이름 그대로 얼음을 만드는 기능에만 특화된 가전제품의 일종이죠. 제빙기는 본래 식당이나 카페 등의... 이 시장에서 삼성전자나 LG전자 수준의 제품이나 A/S를 기대하지 말라는 의미죠. 그렇기 때문에 가정용 제빙기를...",
+          "src": "동아일보",
           "date": "07/16",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386789",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1386789_1568109_4440_v150.jpg"
+          "url": "https://it.donga.com/109206/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/7/16/f7c678abac184e49-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "집 전체를 똑똑하게… 삼성·LG, 'AI 홈' 빅픽처 그린다",
-          "desc": "냉장고, 세탁기, 에어컨, 로봇청소기 등 다양한 생활가전이 하나의 플랫폼으로 연결돼 사용자의 일상에 맞춰 스스로 작동하는 '초개인화' 서비스 구현이 AI 홈 전략의 핵심이다. 삼성전자는 스마트싱스를 중심으로...",
-          "src": "sisaon",
+          "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
+          "desc": "2000억원 가운데 삼성전자는 1500억원을 출연할 계획이며, 삼성미소금융재단을 운영하는 ▲삼성생명... 대표 행사상품은 다이슨 ‘스팟앤스크럽 로봇 청소기’로, 오는 19일까지 6월 대비 20% 할인한 99만원에 제공....",
+          "src": "topdaily",
           "date": "07/16",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202745",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202745_303975_3823.jpg"
+          "url": "https://www.topdaily.kr/articles/111035",
+          "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
         },
         {
           "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
         },
         {
-          "title": "삼성, 포용금융에 2000억 출연…\"사회 기여 약속 실행 본격화\"",
-          "desc": "앞서 삼성전자는 사회 기여 이행을 위해 지난 6월 8일부터 4주간 가전 구매 고객에게 결제액의 20%에서 최대 30%까지 온누리상품권으로 환급하는 대규모 감사 행사를 진행하기도 했다. 당초 지원 금액 규모는 약...",
-          "src": "m-i",
+          "title": "[오늘의 ABC 뉴스룸] \"청약에만 300조 원이 쏟아졌습니다\" 미국 시장에서...",
+          "desc": "업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 올해 1월에 이어 6개월 만에 또다시 인상했습니다. 스마트폰 등 모바일 제품 자재비는 평균 5%, 에어컨과 세탁기 등 생활가전 자재비는...",
+          "src": "아주경제",
           "date": "07/16",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392440",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392440_1180082_5724_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260713162636068",
+          "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "선린대학교 교수학습지원센터, 2026학년도 혁신교수법 워크숍 개최",
-          "desc": "2026학년도에는 교원의 AI 활용 역량 향상을 위한 'AI 교수역량개발 부트캠프'와 수업 적용 성과 확산을 위한 '교수역량 챌린지'를 새롭게 도입해 변화하는 교육환경에 대응한 수업 혁신을 지속적으로 지원할 계획이다.",
-          "src": "gukjenews",
+          "title": "“AI 허브 골든타임…‘전력·세제·규제 혁신’ 서둘러야”",
+          "desc": "형태로 도입하면 AIDC 경쟁력 강화에 도움이 될 것\"이라고 제안했다. 또 “대한민국은 반도체와 EPC 역량... 기준보다 활용 기간이 짧다\"며 “감가상각 제도를 AI 기술 발전 속도에 맞게 개선해야 기업들이 보다...",
+          "src": "ekn",
           "date": "07/16",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638229",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3638229_3802720_1242_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260716024583324",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260716.fabbb9f64b414c8cb86a53ded8e3c030_R.jpg"
         },
         {
-          "title": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
-          "desc": "정보보호 투자와 전문 인력을 확대하는 한편 AI를 활용한 보안관제와 보이스피싱 대응 기술을 고도화하며... 온디바이스 AI 기술 ‘안티딥보이스’를 적용했다. 익시 스팸필터 도입 이후 올해 상반기 스팸 차단...",
-          "src": "매일경제",
+          "title": "KAIST, 동문 이범규 팀스파르타 대표 AI 연구지원 위해 1억 기부 … 생성...",
+          "desc": "KAIST가 생성형 AI 에이전트를 활용한 연구지원 프로그램을 도입하며 AI 기반 연구혁신에 속도를 낸다.... 이번 기부는 민간 AI 기업과 대학이 협력해 연구 현장에 최신 AI 기술을 도입하는 사례로, 향후 국내 대학...",
+          "src": "worktoday",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/009/0005708464?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.a9fc7072c7fe463489ec67340de55b10_R.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86855",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86855_125079_4035_v150.jpg"
         },
         {
-          "title": "동부건설, AI로 현장 안전·품질 혁신…통번역·하자 공유 시스템 전면...",
-          "desc": "(AI) 기술을 현장 안전·품질관리 전반으로 확대하며 건설 현장 디지털 전환에 속도를 내고 있다. 동부건설은 외국인 근로자와의 원활한 소통을 위해 AI 동시 통번역 프로그램을 전 현장에 도입했다고 16일 밝혔다....",
-          "src": "weekly",
+          "title": "더리얼, 광명 이어 제주도 ‘온실가스감축 도민실천 마일리지 플랫폼 구...",
+          "desc": "특히 최근 AI 기술의 급격한 발달로 종이영수증이나 사진을 활용한 인증의 위·변조 우려가 커지고, 중앙은행 디지털화폐(CBDC) 도입 등 전자화폐 시대로의 전환이 빨라지면서 위·변조가 불가능한 '전자영수증' 기반 보안...",
+          "src": "한국경제",
           "date": "07/16",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7174700",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7174700_240299_1621_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005310958?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45056462.1.png"
         },
         {
-          "title": "서울시 ‘AI×바이오’에 425억 승부수… 대학·병원 손잡고 글로벌 허브...",
-          "desc": "AI를 활용한 신약 개발부터 의료데이터 표준화, 양자컴퓨팅 기반 차세대 바이오 기술까지 미래 헬스케어... 차세대 기술로 양자컴퓨팅을 제시했다. 연세대는 국내 최초 수준의 100큐비트 이상 양자컴퓨터를 도입해 AI와...",
-          "src": "조선일보",
+          "title": "독자 AI로 세계 2강 도전... '모두의 AI' 연내 출시·미토스급 개발",
+          "desc": "사진=연합뉴스 배경훈 부총리 겸 과학기술정보통신부 장관이 한국의 인공지능(AI) 경쟁력을 국제 평가 기준... 연구지원시스템에 AI 기능을 도입하고, 평가위원 추천과 연구비 모니터링 등 R&D 관리 전반에도 AI를 접목해...",
+          "src": "meconomynews",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/366/0001179796?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/P2ZFQ5VCAFEABHHVML6K5FYRS4.jpg?auth=9ab2613d84be3f91a50d1082e7504ae6c7ddda24ef3f5517dd781a4714ac05a7&width=1200&height=630&smart=true"
+          "url": "https://www.meconomynews.com/news/articleView.html?idxno=132883",
+          "img": "https://www.meconomynews.com/news/thumbnail/202607/132883_166348_2944_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "800조 반도체 팹, 입지보다 먼저 따질 '전력·용수·사람'",
+          "desc": "삼성전자의 반도체 생산 라인 전경. (사진=삼성전자) 팹 4기보다 먼저 봐야 할 '전력망' 전문가들이 가장 먼저... 소재·부품을 공급하는 협력사 직원, 연구개발 인력까지 광범위한 전문인력이 필요하다. 정부도 서남권 팹...",
+          "src": "IT데일리",
+          "date": "07/16",
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240462",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240462_245857_1659_v150.jpg"
+        },
         {
           "title": "[자막뉴스] \"믿을 수 없이 성공적\" 젠슨 황 일본에서 하이닉스 ADR 상장...",
           "desc": "SK하이닉스는 엔비디아에 AI 반도체 핵심 부품인 고성능 HBM을 공급하는 핵심 협력사입니다. 황 CEO의... 한국에서 삼성전자, SK, 현대차 등 주요 글로벌 협력 기업 대표들과 치맥, 삼겹살 회동을 했던 황 CEO는...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/16",
           "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684439",
           "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632800_5334.jpg"
-        },
-        {
-          "title": "삼성전자·SK하이닉스, 피 말리는 인재 확보 경쟁… 학계 \"10만 명 키워야...",
-          "desc": "삼성전자가 반도체 분야의 경력 직원 대규모 채용 공고를 냈다. SK하이닉스는 경력직을 수시로 뽑고 있다.... 팹 1기당 △직접 운영 2,000~3,000명 △소부장·협력사 최소 3,000명을 가정하고 △용인 10기 △호남 4기에...",
-          "src": "한국일보",
-          "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/469/0000942542?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/07/15/fef408c4-bdf4-4872-bcfd-db5d25c05ec1.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "8인치 파운드리 강세 지속…DB하이텍 2분기 실적 청신호",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386789",
-      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1386789_1568109_4440_v150.jpg"
+      "title": "[IT's 가성비] 냉장고, 정수기 대체용 10만원 이하 제빙기?",
+      "url": "https://it.donga.com/109206/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/7/16/f7c678abac184e49-thumbnail-960x540-70.jpg"
     },
     {
-      "title": "집 전체를 똑똑하게… 삼성·LG, 'AI 홈' 빅픽처 그린다",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202745",
-      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202745_303975_3823.jpg"
+      "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
+      "url": "https://www.topdaily.kr/articles/111035",
+      "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
     },
     {
       "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
     },
     {
-      "title": "삼성, 포용금융에 2000억 출연…\"사회 기여 약속 실행 본격화\"",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1392440",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392440_1180082_5724_v150.jpg"
+      "title": "[오늘의 ABC 뉴스룸] \"청약에만 300조 원이 쏟아졌습니다\" 미국 시장에서...",
+      "url": "https://www.ajunews.com/view/20260713162636068",
+      "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
     },
     {
-      "title": "선린대학교 교수학습지원센터, 2026학년도 혁신교수법 워크숍 개최",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638229",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3638229_3802720_1242_v150.jpg"
+      "title": "“AI 허브 골든타임…‘전력·세제·규제 혁신’ 서둘러야”",
+      "url": "https://www.ekn.kr/web/view.php?key=20260716024583324",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260716.fabbb9f64b414c8cb86a53ded8e3c030_R.jpg"
     },
     {
-      "title": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708464?sid=105",
-      "img": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.a9fc7072c7fe463489ec67340de55b10_R.jpg"
+      "title": "KAIST, 동문 이범규 팀스파르타 대표 AI 연구지원 위해 1억 기부 … 생성...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86855",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86855_125079_4035_v150.jpg"
     }
   ]
 };
