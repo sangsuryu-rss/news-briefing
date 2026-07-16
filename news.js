@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 19:53",
+  "updatedAt": "2026.07.16 (목) 23:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.60",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "79.83",
+        "diff": "+0.23",
+        "rate": "+0.29%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,477.90",
-        "diff": "-10.60",
-        "rate": "-0.71%",
+        "value": "1,481.90",
+        "diff": "-6.60",
+        "rate": "-0.44%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.30",
-        "diff": "-6.93",
-        "rate": "-0.75%",
+        "value": "912.28",
+        "diff": "-5.95",
+        "rate": "-0.65%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.23",
-        "diff": "-0.03",
-        "rate": "-0.36%",
-        "dir": "down"
+        "value": "8.26",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.64",
-        "diff": "-0.04",
-        "rate": "-0.70%",
+        "value": "5.66",
+        "diff": "-0.02",
+        "rate": "-0.35%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.34",
-        "diff": "-0.12",
-        "rate": "-0.78%",
+        "value": "15.38",
+        "diff": "-0.08",
+        "rate": "-0.52%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IT's 가성비] 냉장고, 정수기 대체용 10만원 이하 제빙기?",
-          "desc": "이름 그대로 얼음을 만드는 기능에만 특화된 가전제품의 일종이죠. 제빙기는 본래 식당이나 카페 등의... 이 시장에서 삼성전자나 LG전자 수준의 제품이나 A/S를 기대하지 말라는 의미죠. 그렇기 때문에 가정용 제빙기를...",
-          "src": "동아일보",
+          "title": "삼성 DX노조 \"같은 회사인데...성과급 격차 해소\"",
+          "desc": "삼성전자의 모바일·가전 사업을 담당하는 DX 부문 노조가 반도체 부문과의 성과급 격차 해소를 요구했습니다. 삼성전자노동조합 동행은 오늘(16일) 오후 수원사업장 앞에서 집회를 열고 DX 부문 직원 1인당 자사주 1천...",
+          "src": "ytn",
           "date": "07/16",
-          "url": "https://it.donga.com/109206/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/7/16/f7c678abac184e49-thumbnail-960x540-70.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002380626?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0716/202607162250149285_t.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“AI 허브 골든타임…‘전력·세제·규제 혁신’ 서둘러야”",
-          "desc": "형태로 도입하면 AIDC 경쟁력 강화에 도움이 될 것\"이라고 제안했다. 또 “대한민국은 반도체와 EPC 역량... 기준보다 활용 기간이 짧다\"며 “감가상각 제도를 AI 기술 발전 속도에 맞게 개선해야 기업들이 보다...",
-          "src": "ekn",
+          "title": "윈스테크넷, ‘SNIPER AIVAX’ 기반 N2SF 대응 본격화",
+          "desc": "최근 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 국가·공공기관의 국가망보안체계 도입을... 생성형 AI를 활용할 수 있도록 AI 데이터 보안 기술 고도화에 지속적으로 투자해 나갈 계획”이라고 밝혔다.",
+          "src": "ZDNet코리아",
           "date": "07/16",
-          "url": "https://www.ekn.kr/web/view.php?key=20260716024583324",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260716.fabbb9f64b414c8cb86a53ded8e3c030_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002430888?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/16/bf474b00e8b7650178099c26861b63bb.png"
         },
         {
-          "title": "KAIST, 동문 이범규 팀스파르타 대표 AI 연구지원 위해 1억 기부 … 생성...",
-          "desc": "KAIST가 생성형 AI 에이전트를 활용한 연구지원 프로그램을 도입하며 AI 기반 연구혁신에 속도를 낸다.... 이번 기부는 민간 AI 기업과 대학이 협력해 연구 현장에 최신 AI 기술을 도입하는 사례로, 향후 국내 대학...",
-          "src": "worktoday",
+          "title": "[뉴스타운 심층인터뷰] 이민근 안산시장 \"민선 9기, 안산의 변화를 시민...",
+          "desc": "AI, 로봇, 반도체, 바이오, 미래모빌리티 같은 첨단산업과 기존 제조업을 융합해 새로운 산업생태계를 구축하는 것이 매우 중요하다\"고 말했다. 산업 고도화는 기술 도입만으로 완성되지 않는다. 기술을 개발하고 활용할...",
+          "src": "newstown",
           "date": "07/16",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86855",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86855_125079_4035_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709469",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202607/709469_663768_4310_v150.jpg"
         },
         {
-          "title": "더리얼, 광명 이어 제주도 ‘온실가스감축 도민실천 마일리지 플랫폼 구...",
-          "desc": "특히 최근 AI 기술의 급격한 발달로 종이영수증이나 사진을 활용한 인증의 위·변조 우려가 커지고, 중앙은행 디지털화폐(CBDC) 도입 등 전자화폐 시대로의 전환이 빨라지면서 위·변조가 불가능한 '전자영수증' 기반 보안...",
-          "src": "한국경제",
+          "title": "구미푸드페스티벌, 10월 개막 준비 본격화",
+          "desc": "\"조리로봇·AI·QR 주문까지…첨단기술이 축제장을 바꾼다\" 푸드테크&체험존에서는 조리로봇과 식품 3D프린터... 방문객 편의를 위해 QR코드 기반 스마트 주문시스템도 도입된다. 축제장 곳곳에 설치된 QR코드를...",
+          "src": "getnews",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/015/0005310958?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45056462.1.png"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875367",
+          "img": "https://cdn.getnews.co.kr/news/photo/202607/875367_530490_3558.jpeg"
         },
         {
-          "title": "독자 AI로 세계 2강 도전... '모두의 AI' 연내 출시·미토스급 개발",
-          "desc": "사진=연합뉴스 배경훈 부총리 겸 과학기술정보통신부 장관이 한국의 인공지능(AI) 경쟁력을 국제 평가 기준... 연구지원시스템에 AI 기능을 도입하고, 평가위원 추천과 연구비 모니터링 등 R&D 관리 전반에도 AI를 접목해...",
-          "src": "meconomynews",
+          "title": "동두천시, AI·IoT 활용한 스마트 건강관리 본격 운영…예방 중심 노인복...",
+          "desc": "단순한 질병 치료에서 벗어나 디지털 기술을 활용해 어르신 스스로 건강을 관리할 수 있도록 지원하는 새로운 보건서비스 모델이다. 동두천시 보건소는 올해 처음 도입한 'AI·IoT 기반 어르신 건강관리사업'의 사전 준비를...",
+          "src": "tournews21",
           "date": "07/16",
-          "url": "https://www.meconomynews.com/news/articleView.html?idxno=132883",
-          "img": "https://www.meconomynews.com/news/thumbnail/202607/132883_166348_2944_v150.jpg"
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=138780",
+          "img": "https://cdn.tournews21.com/news/photo/202607/138780_262362_1042.jpg"
         }
       ]
     },
@@ -195,7 +195,7 @@ window.NEWS_DATA = {
           "src": "digitaltoday",
           "date": "07/16",
           "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684439",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632800_5334.jpg"
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632799_5334.jpg"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[IT's 가성비] 냉장고, 정수기 대체용 10만원 이하 제빙기?",
-      "url": "https://it.donga.com/109206/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/7/16/f7c678abac184e49-thumbnail-960x540-70.jpg"
+      "title": "삼성 DX노조 \"같은 회사인데...성과급 격차 해소\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002380626?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0716/202607162250149285_t.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
     },
     {
-      "title": "“AI 허브 골든타임…‘전력·세제·규제 혁신’ 서둘러야”",
-      "url": "https://www.ekn.kr/web/view.php?key=20260716024583324",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260716.fabbb9f64b414c8cb86a53ded8e3c030_R.jpg"
+      "title": "윈스테크넷, ‘SNIPER AIVAX’ 기반 N2SF 대응 본격화",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430888?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/07/16/bf474b00e8b7650178099c26861b63bb.png"
     },
     {
-      "title": "KAIST, 동문 이범규 팀스파르타 대표 AI 연구지원 위해 1억 기부 … 생성...",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86855",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202607/86855_125079_4035_v150.jpg"
+      "title": "[뉴스타운 심층인터뷰] 이민근 안산시장 \"민선 9기, 안산의 변화를 시민...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709469",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202607/709469_663768_4310_v150.jpg"
     }
   ]
 };
