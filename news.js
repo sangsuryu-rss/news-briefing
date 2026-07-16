@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 23:55",
+  "updatedAt": "2026.07.17 (금) 03:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-16",
+    "asOf": "2026-07-17",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.83",
-        "diff": "+0.23",
-        "rate": "+0.29%",
-        "dir": "up"
+        "value": "78.20",
+        "diff": "-0.92",
+        "rate": "-1.16%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,481.90",
-        "diff": "-6.60",
-        "rate": "-0.44%",
+        "value": "1,481.10",
+        "diff": "-7.40",
+        "rate": "-0.50%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "912.28",
-        "diff": "-5.95",
-        "rate": "-0.65%",
+        "value": "911.92",
+        "diff": "-6.31",
+        "rate": "-0.69%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "8.25",
+        "diff": "-0.01",
+        "rate": "-0.12%",
+        "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.66",
-        "diff": "-0.02",
-        "rate": "-0.35%",
+        "value": "5.65",
+        "diff": "-0.03",
+        "rate": "-0.53%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.38",
-        "diff": "-0.08",
-        "rate": "-0.52%",
+        "value": "15.37",
+        "diff": "-0.09",
+        "rate": "-0.58%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 DX노조 \"같은 회사인데...성과급 격차 해소\"",
-          "desc": "삼성전자의 모바일·가전 사업을 담당하는 DX 부문 노조가 반도체 부문과의 성과급 격차 해소를 요구했습니다. 삼성전자노동조합 동행은 오늘(16일) 오후 수원사업장 앞에서 집회를 열고 DX 부문 직원 1인당 자사주 1천...",
+          "title": "역대 최대 실적 내고도...삼성 내부 파열음 심화",
+          "desc": "하지만 파운드리와 시스템LSI사업부가 수년째 실적 부진을 면하지 못하고 있고 가전과 스마트폰 역시 메모리 등 원가 인상 탓에 적자가 예상되는 상황에 삼성전자 경영진이 고민도 깊어지고 있습니다. YTN 박기완입니다....",
           "src": "ytn",
-          "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/052/0002380626?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0716/202607162250149285_t.jpg"
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/052/0002380659?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0717/202607170101043764_t.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "윈스테크넷, ‘SNIPER AIVAX’ 기반 N2SF 대응 본격화",
-          "desc": "최근 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 국가·공공기관의 국가망보안체계 도입을... 생성형 AI를 활용할 수 있도록 AI 데이터 보안 기술 고도화에 지속적으로 투자해 나갈 계획”이라고 밝혔다.",
-          "src": "ZDNet코리아",
-          "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/092/0002430888?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/16/bf474b00e8b7650178099c26861b63bb.png"
+          "title": "“소양강변에 AI 데이터센터 유치… 풍부한 물, 수도권 접근성 갖춰”",
+          "desc": "AI, 정보통신기술(ICT), 정밀 의료 등 기업을 유치할 생각이다.” -AI 데이터센터는 어디에. “동면 지내리... “소양강의 심층수를 AI 데이터센터의 냉각수로 활용한다. 데이터센터를 통과하며 따뜻해진 물은 스마트팜...",
+          "src": "조선일보",
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/023/0003988084?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/R7XCC7VZSBHN5BDJSNFAQBCEOY.jpg?auth=d0af806fd2d0be80f1f8d11abed2aeea65541f586b99c204aaf75ef0042632b9&width=650&height=341&smart=true"
         },
         {
-          "title": "[뉴스타운 심층인터뷰] 이민근 안산시장 \"민선 9기, 안산의 변화를 시민...",
-          "desc": "AI, 로봇, 반도체, 바이오, 미래모빌리티 같은 첨단산업과 기존 제조업을 융합해 새로운 산업생태계를 구축하는 것이 매우 중요하다\"고 말했다. 산업 고도화는 기술 도입만으로 완성되지 않는다. 기술을 개발하고 활용할...",
-          "src": "newstown",
-          "date": "07/16",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709469",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202607/709469_663768_4310_v150.jpg"
+          "title": "수원시의회 업무보고 사흘째… 안전·복지·문화 정책 해법 주문",
+          "desc": "도로 파손을 자동으로 찾아내는 'AI 기반 지능형 포트홀 탐지 플랫폼'에 대해서는 사업 지연 없이 조속히 구축해야 한다고 촉구했다. 기술 도입 자체보다 탐지된 포트홀이 실제 보수와 사고 예방으로 얼마나 빠르게...",
+          "src": "newscj",
+          "date": "07/17",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3417765",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3417765_3526305_3557_v150.jpg"
         },
         {
-          "title": "구미푸드페스티벌, 10월 개막 준비 본격화",
-          "desc": "\"조리로봇·AI·QR 주문까지…첨단기술이 축제장을 바꾼다\" 푸드테크&체험존에서는 조리로봇과 식품 3D프린터... 방문객 편의를 위해 QR코드 기반 스마트 주문시스템도 도입된다. 축제장 곳곳에 설치된 QR코드를...",
-          "src": "getnews",
-          "date": "07/16",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875367",
-          "img": "https://cdn.getnews.co.kr/news/photo/202607/875367_530490_3558.jpeg"
+          "title": "젠슨 황, 日서도 종횡무진… 간판 기업들 돌며 ‘피지컬AI’ 동맹",
+          "desc": "심’을 도입해 디지털 트윈을 구축할 계획이다. 나아가 AI 기반 모빌리티 시스템과 교통 관리 기술 등에도 엔비디아 솔루션을 적극 활용한다는 방침이다. 미쓰비시중공업과는 차세대 데이터센터 ‘AI 팩토리’용...",
+          "src": "kmib",
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/005/0001861506?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0717/2026071621180591976_1784204285_1784194377.jpg"
         },
         {
-          "title": "동두천시, AI·IoT 활용한 스마트 건강관리 본격 운영…예방 중심 노인복...",
-          "desc": "단순한 질병 치료에서 벗어나 디지털 기술을 활용해 어르신 스스로 건강을 관리할 수 있도록 지원하는 새로운 보건서비스 모델이다. 동두천시 보건소는 올해 처음 도입한 'AI·IoT 기반 어르신 건강관리사업'의 사전 준비를...",
-          "src": "tournews21",
-          "date": "07/16",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=138780",
-          "img": "https://cdn.tournews21.com/news/photo/202607/138780_262362_1042.jpg"
+          "title": "[#시큐리티 포커스] 지란지교 '우수 정보보호 기술' 지정·세이픽스 '플...",
+          "desc": "기존 방식과 달리 고가의 프록시 서버나 복잡한 망 변경이 필요 없어 중소, 중견기업의 도입 장벽을... 윈스테크넷은 공공기관이 안전하게 생성형 AI를 활용하도록 기술 고도화에 지속적으로 투자할 계획이다....",
+          "src": "뉴스웍스",
+          "date": "07/17",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847491",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847491_806535_284_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 DX노조 \"같은 회사인데...성과급 격차 해소\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002380626?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0716/202607162250149285_t.jpg"
+      "title": "역대 최대 실적 내고도...삼성 내부 파열음 심화",
+      "url": "https://n.news.naver.com/mnews/article/052/0002380659?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0717/202607170101043764_t.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
     },
     {
-      "title": "윈스테크넷, ‘SNIPER AIVAX’ 기반 N2SF 대응 본격화",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430888?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/16/bf474b00e8b7650178099c26861b63bb.png"
+      "title": "“소양강변에 AI 데이터센터 유치… 풍부한 물, 수도권 접근성 갖춰”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988084?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/R7XCC7VZSBHN5BDJSNFAQBCEOY.jpg?auth=d0af806fd2d0be80f1f8d11abed2aeea65541f586b99c204aaf75ef0042632b9&width=650&height=341&smart=true"
     },
     {
-      "title": "[뉴스타운 심층인터뷰] 이민근 안산시장 \"민선 9기, 안산의 변화를 시민...",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=709469",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202607/709469_663768_4310_v150.jpg"
+      "title": "수원시의회 업무보고 사흘째… 안전·복지·문화 정책 해법 주문",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3417765",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3417765_3526305_3557_v150.jpg"
     }
   ]
 };
