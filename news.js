@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.16 (목) 12:57",
+  "updatedAt": "2026.07.16 (목) 16:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.41",
-        "diff": "-0.19",
-        "rate": "-0.24%",
+        "value": "79.49",
+        "diff": "-0.11",
+        "rate": "-0.14%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,483.00",
-        "diff": "-5.50",
-        "rate": "-0.37%",
+        "value": "1,477.30",
+        "diff": "-11.20",
+        "rate": "-0.75%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "914.72",
-        "diff": "-3.51",
-        "rate": "-0.38%",
+        "value": "911.60",
+        "diff": "-6.63",
+        "rate": "-0.72%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.21",
-        "diff": "-0.05",
-        "rate": "-0.61%",
+        "value": "8.22",
+        "diff": "-0.04",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.65",
-        "diff": "-0.03",
-        "rate": "-0.53%",
+        "value": "5.63",
+        "diff": "-0.05",
+        "rate": "-0.88%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.40",
-        "diff": "-0.06",
-        "rate": "-0.39%",
+        "value": "15.34",
+        "diff": "-0.12",
+        "rate": "-0.78%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“신규 팹 완성해도 메모리 공급 부족 여전”",
-          "desc": "지금은 차원이 다른 ‘AI(인공지능) 시대’입니다.” 최근 삼성전자와 SK하이닉스가 신규 반도체 팹 및... 스마트 가전의 온디바이스 에이전트단으로 자연스럽게 스며들어 새로운 하이브리드 인프라 생태계를...",
-          "src": "헤럴드경제",
+          "title": "8인치 파운드리 강세 지속…DB하이텍 2분기 실적 청신호",
+          "desc": "PMIC(전력관리칩)와 전력반도체가 여전히 8인치 공정에 의존하는 가운데 TSMC와 삼성전자 등 선도 업체들이... DB하이텍은 제품 비중도 그동안 가전과 통신 중심 성장에서 자동차·산업 위주의 고부가가치 구조로...",
+          "src": "daily",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/016/0002671239?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/16/news-p.v1.20260716.39c2dcac8a20458186707c0615eda143_T1.png"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386789",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1386789_1568109_4440_v150.jpg"
         },
         {
-          "title": "\"얼음 한 컵 줘\"..LG, 가전 9종 제어하는 정수기 출시",
-          "desc": "씽큐에 등록된 세탁기·건조기·로봇청소기·에어컨·공기청정기·제습기·광파오븐·냉장고·식기세척기는... 삼성전자도 2월 출시한 '비스포크 AI 얼음정수기'에 가족 구성원의 목소리를 구분해 미리 설정한 물을...",
-          "src": "4th",
+          "title": "집 전체를 똑똑하게… 삼성·LG, 'AI 홈' 빅픽처 그린다",
+          "desc": "냉장고, 세탁기, 에어컨, 로봇청소기 등 다양한 생활가전이 하나의 플랫폼으로 연결돼 사용자의 일상에 맞춰 스스로 작동하는 '초개인화' 서비스 구현이 AI 홈 전략의 핵심이다. 삼성전자는 스마트싱스를 중심으로...",
+          "src": "sisaon",
           "date": "07/16",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2114842",
-          "img": "https://cdn.4th.kr/news/thumbnail/202607/2114842_210720_3958_v150.jpg"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202745",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202607/202745_303975_3823.jpg"
         },
         {
-          "title": "구글, '삼성 통신칩' 빼기로… 삼성은 스마트홈서 활로",
-          "desc": "모바일에서 검증한 5G 기술력을 사물인터넷(IoT)과 가전 분야로 이식하겠다는 구상이다. 이정원 삼성전자 시스템LSI 모뎀 개발팀장 부사장은 \"삼성전자가 차세대 5G 연결을 위해 파이보콤과 전략적 협력을 강화하게 돼...",
-          "src": "the-biz",
+          "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
+          "desc": "위닉스는 이번 협찬을 통해 공기청정기, 컴팩트 건조기, 뽀송 인버터 제습기, 얼음정수기 등 생활가전 5종을... ◇ 삼성전자, '플렉스 티타늄' 기술로 폴더블 디스플레이의 새로운 기준 제시 플렉스 티타늄 디스플레이....",
+          "src": "ibabynews",
           "date": "07/16",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724522",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202607/724522_927992_421.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=152975",
+          "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
         },
         {
-          "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
-          "desc": "가비파트너스가 운영하는 온누리쇼핑이 삼성전자 감사 페스티벌에 맞춰 디지털 온누리상품권 사용 고객을... 음식물처리기, 무선청소기, 로봇청소기, 제습기, 에어써큘레이터, 커피머신, 소형 주방가전, PC 주변기기 등을...",
-          "src": "woodkorea",
-          "date": "07/15",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90289",
-          "img": "https://cdn.woodkorea.co.kr/news/photo/202607/90289_103456_5858.png"
+          "title": "삼성, 포용금융에 2000억 출연…\"사회 기여 약속 실행 본격화\"",
+          "desc": "앞서 삼성전자는 사회 기여 이행을 위해 지난 6월 8일부터 4주간 가전 구매 고객에게 결제액의 20%에서 최대 30%까지 온누리상품권으로 환급하는 대규모 감사 행사를 진행하기도 했다. 당초 지원 금액 규모는 약...",
+          "src": "m-i",
+          "date": "07/16",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392440",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392440_1180082_5724_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인천해양포럼] \"공항·항만 보유한 인천은 AI 실증 최적지\"",
-          "desc": "AI 기술뿐 아니라 현장 전문가와 산업 데이터를 활용한 실증이 함께 이뤄져야 한다고 강조했다. 심 원장은 \"기업들은 AI 도입 필요성은 공감하지만 데이터 보안 문제 때문에 실제 적용에는 어려움을 겪고 성공 사례도...",
-          "src": "연합뉴스",
+          "title": "선린대학교 교수학습지원센터, 2026학년도 혁신교수법 워크숍 개최",
+          "desc": "2026학년도에는 교원의 AI 활용 역량 향상을 위한 'AI 교수역량개발 부트캠프'와 수업 적용 성과 확산을 위한 '교수역량 챌린지'를 새롭게 도입해 변화하는 교육환경에 대응한 수업 혁신을 지속적으로 지원할 계획이다.",
+          "src": "gukjenews",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/001/0016198593?sid=102",
-          "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071609440006500_P4.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638229",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3638229_3802720_1242_v150.jpg"
         },
         {
-          "title": "경기도일자리재단, AI 전환 시대의 고용정책 제안",
-          "desc": "세계 AI 도입률은 지난 2023년 55%에서 2025년 88%로 급격히 상승하는 등 기업 현장에서의 기술 전환이 빠르게... 대기업의 인공지능 활용률이 40% 수준인 반면 중소기업은 12%에 그쳐 기업 규모에 따른 격차가 상당한 것으로...",
-          "src": "뉴스핌",
+          "title": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
+          "desc": "정보보호 투자와 전문 인력을 확대하는 한편 AI를 활용한 보안관제와 보이스피싱 대응 기술을 고도화하며... 온디바이스 AI 기술 ‘안티딥보이스’를 적용했다. 익시 스팸필터 도입 이후 올해 상반기 스팸 차단...",
+          "src": "매일경제",
           "date": "07/16",
-          "url": "https://www.newspim.com/news/view/20260716000397",
-          "img": "https://img.newspim.com/news/2026/07/16/2607161021170490_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005708464?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.a9fc7072c7fe463489ec67340de55b10_R.jpg"
         },
         {
-          "title": "산업 AX, 예술(Art)에서 공학(Engineering)으로: 자율 기업을 향한 성숙도...",
-          "desc": "에이전틱 AI의 미래상이다. 그러나 현실은 기술 도입이 가장 빠르다는 소프트웨어 분야조차 이제 막... AI를 단순한 활용 도구가 아닌 조직 내에서 독립된 직무(Job)를 수행하는 주체로 인식하는 패러다임의...",
-          "src": "ifs",
+          "title": "동부건설, AI로 현장 안전·품질 혁신…통번역·하자 공유 시스템 전면...",
+          "desc": "(AI) 기술을 현장 안전·품질관리 전반으로 확대하며 건설 현장 디지털 전환에 속도를 내고 있다. 동부건설은 외국인 근로자와의 원활한 소통을 위해 AI 동시 통번역 프로그램을 전 현장에 도입했다고 16일 밝혔다....",
+          "src": "weekly",
           "date": "07/16",
-          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55918",
-          "img": ""
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7174700",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7174700_240299_1621_v150.jpg"
         },
         {
-          "title": "개보위원장 \"정보유출 제재, 시효 없다\"…李 \"확실한가\"",
-          "desc": "이 대통령은 AI 기술을 활용하면 사람의 능력을 뛰어넘는 수준으로 해킹 취약점을 탐색할 수 있다는 점을... 제도 도입 여부를 물었다. 이 대통령은 \"정부 산하기관이나 정부가 위탁한 민간회사가 실제 피해는 끼치지 않고...",
-          "src": "nocutnews",
+          "title": "서울시 ‘AI×바이오’에 425억 승부수… 대학·병원 손잡고 글로벌 허브...",
+          "desc": "AI를 활용한 신약 개발부터 의료데이터 표준화, 양자컴퓨팅 기반 차세대 바이오 기술까지 미래 헬스케어... 차세대 기술로 양자컴퓨팅을 제시했다. 연세대는 국내 최초 수준의 100큐비트 이상 양자컴퓨터를 도입해 AI와...",
+          "src": "조선일보",
           "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/079/0004169114?sid=103",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/16/202607161243517359_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001179796?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/P2ZFQ5VCAFEABHHVML6K5FYRS4.jpg?auth=9ab2613d84be3f91a50d1082e7504ae6c7ddda24ef3f5517dd781a4714ac05a7&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -235,41 +235,41 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "“신규 팹 완성해도 메모리 공급 부족 여전”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671239?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/16/news-p.v1.20260716.39c2dcac8a20458186707c0615eda143_T1.png"
+      "title": "8인치 파운드리 강세 지속…DB하이텍 2분기 실적 청신호",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386789",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1386789_1568109_4440_v150.jpg"
     },
     {
-      "title": "\"얼음 한 컵 줘\"..LG, 가전 9종 제어하는 정수기 출시",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2114842",
-      "img": "https://cdn.4th.kr/news/thumbnail/202607/2114842_210720_3958_v150.jpg"
+      "title": "집 전체를 똑똑하게… 삼성·LG, 'AI 홈' 빅픽처 그린다",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202745",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202607/202745_303975_3823.jpg"
     },
     {
-      "title": "구글, '삼성 통신칩' 빼기로… 삼성은 스마트홈서 활로",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724522",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202607/724522_927992_421.jpg"
+      "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=152975",
+      "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
     },
     {
-      "title": "온누리쇼핑, 삼성전자 감사 페스티벌 맞춰 온누리상품권 기획전 확대 운...",
-      "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90289",
-      "img": "https://cdn.woodkorea.co.kr/news/photo/202607/90289_103456_5858.png"
+      "title": "삼성, 포용금융에 2000억 출연…\"사회 기여 약속 실행 본격화\"",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1392440",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392440_1180082_5724_v150.jpg"
     },
     {
-      "title": "[인천해양포럼] \"공항·항만 보유한 인천은 AI 실증 최적지\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016198593?sid=102",
-      "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/16/PYH2026071609440006500_P4.jpg"
+      "title": "선린대학교 교수학습지원센터, 2026학년도 혁신교수법 워크숍 개최",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638229",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3638229_3802720_1242_v150.jpg"
     },
     {
-      "title": "경기도일자리재단, AI 전환 시대의 고용정책 제안",
-      "url": "https://www.newspim.com/news/view/20260716000397",
-      "img": "https://img.newspim.com/news/2026/07/16/2607161021170490_t1.jpg"
+      "title": "“20만번 막고 966억원 썼다”…LG유플러스, AI 보안 역량 공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708464?sid=105",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.a9fc7072c7fe463489ec67340de55b10_R.jpg"
     }
   ]
 };
