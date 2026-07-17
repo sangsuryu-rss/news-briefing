@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 02:59",
+  "updatedAt": "2026.07.18 (토) 06:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.81",
-        "diff": "+3.53",
-        "rate": "+4.51%",
+        "value": "81.78",
+        "diff": "+3.50",
+        "rate": "+4.47%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,492.00",
-        "diff": "+3.50",
-        "rate": "+0.24%",
+        "value": "1,490.00",
+        "diff": "+1.50",
+        "rate": "+0.10%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "918.32",
-        "diff": "+0.09",
-        "rate": "+0.01%",
-        "dir": "up"
+        "value": "917.35",
+        "diff": "-0.88",
+        "rate": "-0.10%",
+        "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.36",
-        "diff": "+0.10",
-        "rate": "+1.21%",
+        "value": "8.35",
+        "diff": "+0.09",
+        "rate": "+1.09%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.69",
-        "diff": "+0.01",
-        "rate": "+0.18%",
-        "dir": "up"
+        "value": "5.68",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.50",
-        "diff": "+0.04",
-        "rate": "+0.26%",
+        "value": "15.47",
+        "diff": "+0.01",
+        "rate": "+0.06%",
         "dir": "up"
       }
     ]
@@ -86,8 +86,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
+          "desc": "반도체 초호황 성과를 국민과 나누겠다며 삼성전자가 마련한 '감사 페스티벌'이 4조원에 달하는 판매고를... 전국 400여개 삼성스토어와 가전 양판점, 대형마트, 주요 온라인 쇼핑몰 등 온·오프라인 1000여개 매장에서...",
+          "src": "한국경제",
+          "date": "07/18",
+          "url": "https://n.news.naver.com/mnews/article/015/0005311190?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/02.42864594.1.jpg"
+        },
+        {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
-          "desc": "이에 맞서 삼성전자와 LG전자 등 국내 가전업계 역시 더 가벼운 무게와 고도화된 AI 기능으로 무장한 신제품을 내놓으며 주도권 수성에 나섰다. 이처럼 경쟁이 치열해지는 배경에는 가파른 시장 성장세가 있다. 글로벌...",
+          "desc": "◆치열해지는 무선 청소기 시장, 편리함으로 도전장 던진 로보락 드리미, 샤오미 등 중국 경쟁사들이 로봇... 무선청소기 라인업을 확대해 국내 시장에서의 입지를 견고히 다지겠다는 전략이다. 이에 맞서 삼성전자와...",
           "src": "F투데이",
           "date": "07/17",
           "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
@@ -102,20 +110,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "[A 주간 서머리] 경제·산업계 \"한은 금리인상 단행...삼성전자, 수리 자...",
-          "desc": "삼성전자가 수리 자재비를 5~9% 인상한다. LG유플러스가 AI 시대에 맞춰 고도화한 정보보호 체계와 고객 보호... 에어컨·세탁기 등 생활가전(DA) 사업부 자재비는 평균 9% 인상됐다. 스마트폰용 칩과 패널은 물론, 가전에...",
-          "src": "asiaa",
-          "date": "07/17",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=255400",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202607/255400_276590_2450.jpg"
-        },
-        {
-          "title": "수박 반값에 이어 이번엔 한우다… 이마트, 7월 연휴 작정하고 최대 50%...",
-          "desc": "캠핑 냉장고와 차량용품, 모기장 등도 이번 할인 대상에 포함됐다. 특히 최근 몇 년째 캠핑족 사이에서... 벽걸이 에어컨과 제습기는 특가에 판매하며, 삼성전자와 LG전자 멀티 에어컨을 구매하는 고객에게는 무이자...",
-          "src": "wikitree",
-          "date": "07/17",
-          "url": "https://www.wikitree.co.kr/articles/1147007",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/17/202607171543537962.jpg"
+          "title": "반도체값 때문이… 스마트폰·가전 수리비 줄줄이 올라",
+          "desc": "18일 업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 공급하는 수리용 자재 가격을 인상했다. 1월에... 인상 대상에는 스마트폰에 탑재되는 메모리 반도체와 디스플레이 패널뿐 아니라 에어컨·세탁기에 사용되는...",
+          "src": "조선일보",
+          "date": "07/18",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165938",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165938_447756_4951_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오늘의 운세 띠별 운세 7월18일",
-          "desc": "우호적인 시장 환경을 활용하여 보류되었던 계약을 즉시 성사시키십시오. 60년생 : 조직 내 지배력이... 용띠 고착화된 업무 프로세스에 과감한 혁신을 도입하십시오. 새로운 소프트웨어나 효율적인 매뉴얼을 실무 현장에...",
-          "src": "BNT뉴스",
+          "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌",
+          "desc": "엄격한 AI 안전장치를 도입하도록 유도함으로써 경쟁자들 앞의 장벽을 더 높이고 우위를 확보하려는 전략을... 의원들이 AI 기술을 규제하는 데 있어 공통된 합의점을 찾도록 촉구해 왔기 때문이다. 앤트로픽의 미국 주...",
+          "src": "wikileaks-kr",
           "date": "07/18",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202607170161",
-          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/17/bnt202607170365.jpg"
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189859",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189859_202812_4452_v150.jpg"
         },
         {
-          "title": "[메디컬 인사이트 145회] 연령별 현명한 건강검진 선택법",
-          "desc": "역사적으로 전쟁을 치르면서 전쟁터에 보낼 병사들을 선별하기 위한 검사 기술이 발전했고요. 정상... ◆신진영: 최근 대학병원에서는 AI를 활용하는 영상 판독 보조 솔루션을 적극 도입하였습니다. 유방암, 흉부...",
-          "src": "ytn",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/052/0002380935?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0717/202607172220018625_t.jpg"
+          "title": "[위클리 에너지 리포트] GS칼텍스, 디지털·AI 기술 활용해 대정비작업...",
+          "desc": "정유·석유화학 산업과 같은 전통 제조업에서 디지털·AI 기술의 도입은 단순한 기술 적용을 넘어 운영... 회사는 생산동 및 창고동 지붕을 활용하여 태양광 설비를 설치했으며, 생산된 전력을 공장 운영에 직접...",
+          "src": "goodkyung",
+          "date": "07/18",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=289271",
+          "img": "https://cdn.goodkyung.com/news/thumbnail/202607/289271_261107_818_v150.jpg"
         },
         {
-          "title": "최태원, 미·중 틈새 겨냥한 AI 전략 제시…수출 범위 컴퓨팅·앱 확대",
-          "desc": "만큼 기술 활용 능력만으로 인재를 평가해서는 안 된다고 지적했다. 최 회장은 \"AI를 많이 사용하면서 기술은... AI 도입을 인력 감축과 바로 연결해서도 안 된다고 강조했다. AI가 기존 업무를 대신하면서 생긴 인력 여력을...",
-          "src": "ziksir",
-          "date": "07/17",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=140418",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140418_160379_2220_v150.jpg"
+          "title": "허가 행정과 조인트스템, 미프진… 오젬픽 페이스와 에스테틱",
+          "desc": "다국적 제약사 품목 도입이 협상력과 컴플라이언스 규제 등으로 갈수록 어려워지는 가운데 국내사 간... 아울러 싸이티바 송도 APAC 패스트 트랙 센터를 활용해 mRNA와 세포·유전자치료제(CGT) 공정 최적화 기술 지원과...",
+          "src": "hitnews",
+          "date": "07/18",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77720",
+          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202607/77720_105925_3746_v150.jpg"
         },
         {
-          "title": "\"中 메모리 안돼\" 美 의원들 초강수…K메모리 '호재' 될까",
-          "desc": "반도체 도입을 검토하는 움직임도 문제 삼았다. 물레나 위원장은 \"중국의 주요 메모리 반도체... 모두 활용될 수 있는 핵심 기술에 대한 인민해방군의 개발을 직접 지원하게 될 것\"이라고 했다. 실제로 미 국방부는 올해...",
-          "src": "한국경제",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005311161?sid=104",
-          "img": "https://img.hankyung.com/photo/202607/99.33245425.1.jpg"
+          "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
+          "desc": "참석해 ‘AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다’를 주제로 강연하고 있다. 한국경제인협회... 박 대표는 내년은 AI가 컴퓨터를 활용하는 '컴퓨터 유즈' 개념이 현실화될 것이라고 전망했다. 이를 위해...",
+          "src": "segye",
+          "date": "07/18",
+          "url": "https://n.news.naver.com/mnews/article/022/0004143936?sid=101",
+          "img": "https://www.segye.com/content/image/2026/07/17/20260717507708.jpg"
         }
       ]
     },
@@ -235,12 +235,17 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
+    {
+      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311190?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/02.42864594.1.jpg"
+    },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
       "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
@@ -252,24 +257,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "[A 주간 서머리] 경제·산업계 \"한은 금리인상 단행...삼성전자, 수리 자...",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=255400",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202607/255400_276590_2450.jpg"
+      "title": "반도체값 때문이… 스마트폰·가전 수리비 줄줄이 올라",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165938",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165938_447756_4951_v150.jpg"
     },
     {
-      "title": "수박 반값에 이어 이번엔 한우다… 이마트, 7월 연휴 작정하고 최대 50%...",
-      "url": "https://www.wikitree.co.kr/articles/1147007",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/17/202607171543537962.jpg"
+      "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189859",
+      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189859_202812_4452_v150.jpg"
     },
     {
-      "title": "오늘의 운세 띠별 운세 7월18일",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607170161",
-      "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/17/bnt202607170365.jpg"
-    },
-    {
-      "title": "[메디컬 인사이트 145회] 연령별 현명한 건강검진 선택법",
-      "url": "https://n.news.naver.com/mnews/article/052/0002380935?sid=102",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0717/202607172220018625_t.jpg"
+      "title": "[위클리 에너지 리포트] GS칼텍스, 디지털·AI 기술 활용해 대정비작업...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=289271",
+      "img": "https://cdn.goodkyung.com/news/thumbnail/202607/289271_261107_818_v150.jpg"
     }
   ]
 };
