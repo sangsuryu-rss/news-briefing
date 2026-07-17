@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.17 (금) 12:56",
+  "updatedAt": "2026.07.17 (금) 16:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,34 +31,34 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.06",
-        "diff": "+0.78",
-        "rate": "+1.00%",
+        "value": "78.75",
+        "diff": "+0.47",
+        "rate": "+0.60%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,481.50",
-        "diff": "-7.00",
-        "rate": "-0.47%",
+        "value": "1,482.50",
+        "diff": "-6.00",
+        "rate": "-0.40%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "912.48",
-        "diff": "-5.75",
-        "rate": "-0.63%",
+        "value": "913.85",
+        "diff": "-4.38",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.25",
-        "diff": "-0.01",
-        "rate": "-0.12%",
-        "dir": "down"
+        "value": "8.30",
+        "diff": "+0.04",
+        "rate": "+0.48%",
+        "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.38",
-        "diff": "-0.08",
-        "rate": "-0.52%",
+        "value": "15.39",
+        "diff": "-0.07",
+        "rate": "-0.45%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
-          "desc": "박 대표는 올해 초 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES를 언급하면서 피지컬AI... 이어 “현대자동차나 삼성전자가 완전한 무인 공장 플랜을 짜며 움직이고 있다”고 부연했다.",
-          "src": "이데일리",
+          "title": "수박 반값에 이어 이번엔 한우다… 이마트, 7월 연휴 작정하고 최대 50%...",
+          "desc": "벽걸이 에어컨과 제습기는 특가에 판매하며, 삼성전자와 LG전자 멀티 에어컨을 구매하는 고객에게는 무이자 할부와 추가 사은 혜택이 제공된다. 연일 폭염특보가 이어지는 날씨 탓에 냉방가전 수요가 몰리는 시기인...",
+          "src": "wikitree",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1147007",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/17/202607171543537962.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "수리 맡겼다가 깜짝!… 삼성전자, 생활가전·스마트폰 수리비용 인상",
-          "desc": "사진= 삼성전자 삼성전자 에어컨과 냉장고, 스마트폰 등의 수리 비용이 인상됐다. 부품 가격 상승분이 소비자가 부담하는 애프터서비스 비용에도 반영된 것이다. 지난 14일 업계에 따르면 삼성전자서비스의 에어컨...",
-          "src": "ggilbo",
+          "title": "\"휴가철 소비 잡아라\"…이마트, 먹거리부터 캠핑·냉방가전까지 총공세",
+          "desc": "이마트는 먹거리와 주류는 물론 캠핑용품, 물놀이용품, 냉방가전까지 아우르는 대규모 할인 행사를... 삼성전자와 LG전자 멀티 에어컨 구매 고객에게는 10개월 무이자 할부와 함께 이마티콘 5만원을 추가 증정한다....",
+          "src": "인더스트리뉴스",
           "date": "07/17",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169234",
-          "img": "https://cdn.ggilbo.com/news/photo/202607/1169234_1021554_319.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83413",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202607/83413_103078_4117.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI·상생 내세운 GS파워···'광명시흥 수주전' 선제 타격",
-          "desc": "발표한 'AI 활용 에너지 시스템 전환 정책방향'이 올해 하반기 신도시 수주 심사에 처음 도입되기 때문이다. 이에 따라 단순 설비 규모 중심이었던 과거 평가 방식과 달리, 이번 심사에서는 디지털 기술 혁신성과 상생...",
-          "src": "newsfreezone",
+          "title": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
+          "desc": "GPU 도입 13개 글로벌 연구기관 협력 미·중 AI 기술 패권에 승부수 일본이 소프트뱅크를 비롯한 44개 기업이... 있는 AI 기반 모델을 구축하겠다”고 강조했다. 노에트라에는 이미 다양한 산업 분야의 활용 사례가 축적돼...",
+          "src": "매일경제",
           "date": "07/17",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699814",
-          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/699814_745602_4749_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005708756?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/17/rcv.YNA.20260716.PRU20260716349201009_R.jpg"
         },
         {
-          "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
-          "desc": "참석해 'AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다'를 주제로 강연하고 있다. (사진=한경협) 결국... 다만 AI를 도입한다고 바로 활용이 가능하지 않기 때문에 기업들이 준비를 올해 해야 한다고 봤다. 그는...",
-          "src": "이데일리",
+          "title": "AI를 볼배합에 활용하는 구단이 있다? MLB가 더그아웃 아이패드 사용에...",
+          "desc": "일부 구단은 현재 진행 중인 경기 정보를 AI 모델에 즉각 입력해 투수의 다음 투구를 예측하거나 추천받는 방식으로 활용해왔다. 드라이브라인 베이스볼의 잭 램버트 야구운영 디렉터는 볼배합이야말로 이 기술을...",
+          "src": "spochoo",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
+          "url": "https://m.sports.naver.com/wbaseball/article/529/0000077894",
+          "img": "https://cdn.spochoo.com/news/thumbnail/202607/127614_253838_2317_v150.jpg"
         },
         {
-          "title": "박민준 뤼튼 대표 \"내년부터 에이전트AI라는 '똑똑한 신입사원들'이 온...",
-          "desc": "박 대표는 이날 제주 서귀포시 롯데호텔에서 열린 한국경제인협회 제주포럼에서 'AI 기술 도입은 쉬웠지만... 비유하며, \"올해는 AI가 활용할 수 있도록 데이터를 정리하고 맥락을 구축하는 이른바 '철도'를 까는 작업을...",
-          "src": "파이낸셜뉴스",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/014/0005549472?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/17/202607171153204410_l.jpg"
-        },
-        {
-          "title": "뤼튼 AX \"생산성 큰 핵심 업무 AI로 전환해 살아남아야\"",
-          "desc": "참석해 'AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다'를 주제로 강연하고 있다./사진=한경협\"가장 큰... 박 대표는 내년이면 이 컴퓨터를 활용하는 AI 에이젠트(Agent)가 기업의 리더 업무까지 하게 될 것이라며...",
+          "title": "[전국] 대학-부산 제조업 손잡고 DX 전환·인재양성 나선다",
+          "desc": "\"] 이번 협력은 기술 개발에 그치지 않습니다. 대학원생들은 실제 제조 데이터를 활용해 연구를 수행하고, 학부생들은 인턴십 등을 통해 산업 현장을 경험하며 지역 산업이 필요로 하는 AI 인재로 성장하게 됩니다. [김재봉...",
           "src": "news",
           "date": "07/17",
-          "url": "https://news.mtn.co.kr/news-detail/2026071712165584130",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/07/17/2026071712165584130_00_220.jpg"
+          "url": "http://news.lghellovision.net/news/articleView.html?idxno=548692",
+          "img": "http://news.lghellovision.net/image/logo/snslogo_20221125013215.png"
+        },
+        {
+          "title": "최태원 \"SK하이닉스, 샀다 팔았다 말고 가만히 기다려야\"",
+          "desc": "한편, 최 회장은 AI 기술 발전이 곧바로 고용 축소로 이어질 것이라는 우려에는 선을 그었다. 최 회장은 \"AI 도입의 궁극적인 목표는 단순한 비용 절감이 아니다\"라며 \"AI 활용으로 여유가 생긴 인력이...",
+          "src": "더팩트",
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/629/0000516927?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/07/17/202647541784265914.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
+      "title": "수박 반값에 이어 이번엔 한우다… 이마트, 7월 연휴 작정하고 최대 50%...",
+      "url": "https://www.wikitree.co.kr/articles/1147007",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/17/202607171543537962.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "수리 맡겼다가 깜짝!… 삼성전자, 생활가전·스마트폰 수리비용 인상",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169234",
-      "img": "https://cdn.ggilbo.com/news/photo/202607/1169234_1021554_319.jpg"
+      "title": "\"휴가철 소비 잡아라\"…이마트, 먹거리부터 캠핑·냉방가전까지 총공세",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83413",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202607/83413_103078_4117.jpg"
     },
     {
-      "title": "AI·상생 내세운 GS파워···'광명시흥 수주전' 선제 타격",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699814",
-      "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/699814_745602_4749_v150.jpg"
+      "title": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708756?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/17/rcv.YNA.20260716.PRU20260716349201009_R.jpg"
     },
     {
-      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
+      "title": "AI를 볼배합에 활용하는 구단이 있다? MLB가 더그아웃 아이패드 사용에...",
+      "url": "https://m.sports.naver.com/wbaseball/article/529/0000077894",
+      "img": "https://cdn.spochoo.com/news/thumbnail/202607/127614_253838_2317_v150.jpg"
     }
   ]
 };
