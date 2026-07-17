@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.17 (금) 23:28",
+  "updatedAt": "2026.07.18 (토) 02:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-17",
+    "asOf": "2026-07-18",
     "items": [
       {
         "label": "LME 구리",
@@ -31,50 +31,50 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "80.97",
-        "diff": "+2.69",
-        "rate": "+3.44%",
+        "value": "81.81",
+        "diff": "+3.53",
+        "rate": "+4.51%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,486.50",
-        "diff": "-2.00",
-        "rate": "-0.13%",
-        "dir": "down"
+        "value": "1,492.00",
+        "diff": "+3.50",
+        "rate": "+0.24%",
+        "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "915.42",
-        "diff": "-2.81",
-        "rate": "-0.31%",
-        "dir": "down"
+        "value": "918.32",
+        "diff": "+0.09",
+        "rate": "+0.01%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.33",
-        "diff": "+0.07",
-        "rate": "+0.85%",
+        "value": "8.36",
+        "diff": "+0.10",
+        "rate": "+1.21%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.66",
-        "diff": "-0.02",
-        "rate": "-0.35%",
-        "dir": "down"
+        "value": "5.69",
+        "diff": "+0.01",
+        "rate": "+0.18%",
+        "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.44",
-        "diff": "-0.02",
-        "rate": "-0.13%",
-        "dir": "down"
+        "value": "15.50",
+        "diff": "+0.04",
+        "rate": "+0.26%",
+        "dir": "up"
       }
     ]
   },
@@ -126,6 +126,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "오늘의 운세 띠별 운세 7월18일",
+          "desc": "우호적인 시장 환경을 활용하여 보류되었던 계약을 즉시 성사시키십시오. 60년생 : 조직 내 지배력이... 용띠 고착화된 업무 프로세스에 과감한 혁신을 도입하십시오. 새로운 소프트웨어나 효율적인 매뉴얼을 실무 현장에...",
+          "src": "BNT뉴스",
+          "date": "07/18",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202607170161",
+          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/17/bnt202607170365.jpg"
+        },
+        {
           "title": "[메디컬 인사이트 145회] 연령별 현명한 건강검진 선택법",
           "desc": "역사적으로 전쟁을 치르면서 전쟁터에 보낼 병사들을 선별하기 위한 검사 기술이 발전했고요. 정상... ◆신진영: 최근 대학병원에서는 AI를 활용하는 영상 판독 보조 솔루션을 적극 도입하였습니다. 유방암, 흉부...",
           "src": "ytn",
@@ -148,14 +156,6 @@ window.NEWS_DATA = {
           "date": "07/17",
           "url": "https://n.news.naver.com/mnews/article/015/0005311161?sid=104",
           "img": "https://img.hankyung.com/photo/202607/99.33245425.1.jpg"
-        },
-        {
-          "title": "‘넷워스 트랩’ 연구한 이승주 옥스퍼드대 재무경제학 교수 [인터뷰]",
-          "desc": "AI 상용화는 단순한 경기 회복이 아니라 경제의 생산함수 자체를 바꾸는 기술 변화다. AI 인프라 구축에는 HBM... 논란 이후 “새 세금 도입이 아니라 초과 세수 활용 원칙 제시”라는 해명이 나왔지만, 시장은 이미 정책...",
-          "src": "매일경제",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/024/0000106937?sid=102",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         }
       ]
     },
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/17/202607171543537962.jpg"
     },
     {
+      "title": "오늘의 운세 띠별 운세 7월18일",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607170161",
+      "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/17/bnt202607170365.jpg"
+    },
+    {
       "title": "[메디컬 인사이트 145회] 연령별 현명한 건강검진 선택법",
       "url": "https://n.news.naver.com/mnews/article/052/0002380935?sid=102",
       "img": "https://image.ytn.co.kr/general/jpg/2026/0717/202607172220018625_t.jpg"
-    },
-    {
-      "title": "최태원, 미·중 틈새 겨냥한 AI 전략 제시…수출 범위 컴퓨팅·앱 확대",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=140418",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140418_160379_2220_v150.jpg"
     }
   ]
 };
