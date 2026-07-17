@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.17 (금) 06:59",
+  "updatedAt": "2026.07.17 (금) 12:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,37 +19,37 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,534",
-        "diff": "-62",
-        "rate": "-0.45%",
-        "dir": "down",
+        "value": "13,554",
+        "diff": "+20",
+        "rate": "+0.15%",
+        "dir": "up",
         "avg": "13,552",
-        "avgDiff": "-18",
-        "avgRate": "-0.1%",
-        "avgDir": "down"
+        "avgDiff": "+2",
+        "avgRate": "+0.0%",
+        "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "78.28",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "79.06",
+        "diff": "+0.78",
+        "rate": "+1.00%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,480.60",
-        "diff": "-7.90",
-        "rate": "-0.53%",
+        "value": "1,481.50",
+        "diff": "-7.00",
+        "rate": "-0.47%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.70",
-        "diff": "-6.53",
-        "rate": "-0.71%",
+        "value": "912.48",
+        "diff": "-5.75",
+        "rate": "-0.63%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.37",
-        "diff": "-0.09",
-        "rate": "-0.58%",
+        "value": "15.38",
+        "diff": "-0.08",
+        "rate": "-0.52%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "칩플레이션에 수천억 장비값도 오른다...중국은 수용, TSMC는 반발",
-          "desc": "5나노미터(㎚·10억분의 1m) 공정에서 EUV가, 이보다 넓은 회로 선폭이나 자동차 및 가전용 반도체에는 범용적인 DUV가 쓰인다. TSMC, 삼성전자(005930), SK하이닉스(000660) 등이 ASML의 대표 고객사다. 디인포메이션은...",
-          "src": "서울경제",
+          "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
+          "desc": "박 대표는 올해 초 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES를 언급하면서 피지컬AI... 이어 “현대자동차나 삼성전자가 완전한 무인 공장 플랜을 짜며 움직이고 있다”고 부연했다.",
+          "src": "이데일리",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/011/0004642464?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/16/rcv.YNA.20260716.PRU20260716273001009_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
         },
         {
-          "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
-          "desc": "위닉스는 이번 협찬을 통해 공기청정기, 컴팩트 건조기, 뽀송 인버터 제습기, 얼음정수기 등 생활가전 5종을... ◇ 삼성전자, '플렉스 티타늄' 기술로 폴더블 디스플레이의 새로운 기준 제시 플렉스 티타늄 디스플레이....",
-          "src": "ibabynews",
-          "date": "07/16",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=152975",
-          "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
+          "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
+          "desc": "도밍게스 주지사는 생산 라인 견학을 통해 냉장고, 세탁기, 건조기 등 프리미엄 생활가전의 제조 및 조립 공정을 직접 점검하며 삼성전자가 지역 경제 발전에 기여한 공로를 높이 평가했다. 김완수 삼성전자 케레타로...",
+          "src": "g-enews",
+          "date": "07/17",
+          "url": "https://www.g-enews.com/view.php?ud=2026071708404868400c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "[오늘의 ABC 뉴스룸] \"청약에만 300조 원이 쏟아졌습니다\" 미국 시장에서...",
-          "desc": "업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 올해 1월에 이어 6개월 만에 또다시 인상했습니다. 스마트폰 등 모바일 제품 자재비는 평균 5%, 에어컨과 세탁기 등 생활가전 자재비는...",
-          "src": "아주경제",
-          "date": "07/16",
-          "url": "https://www.ajunews.com/view/20260713162636068",
-          "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
+          "title": "수리 맡겼다가 깜짝!… 삼성전자, 생활가전·스마트폰 수리비용 인상",
+          "desc": "사진= 삼성전자 삼성전자 에어컨과 냉장고, 스마트폰 등의 수리 비용이 인상됐다. 부품 가격 상승분이 소비자가 부담하는 애프터서비스 비용에도 반영된 것이다. 지난 14일 업계에 따르면 삼성전자서비스의 에어컨...",
+          "src": "ggilbo",
+          "date": "07/17",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169234",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1169234_1021554_319.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"지원금도 '원클릭' 시대\"…中企·소상공인 지원도 서비스 경쟁",
-          "desc": "중진공은 기업 진단과 정책 추천에 데이터와 AI를 활용하고 있다. 'K-Doctor'는 기업의 재무·경영 데이터를 분석해 경영상태를 진단하고 필요한 지원사업을 안내한다. 기업이 AI 도입 수준을 점검하는 AX 자가진단과...",
-          "src": "뉴스1",
+          "title": "AI·상생 내세운 GS파워···'광명시흥 수주전' 선제 타격",
+          "desc": "발표한 'AI 활용 에너지 시스템 전환 정책방향'이 올해 하반기 신도시 수주 심사에 처음 도입되기 때문이다. 이에 따라 단순 설비 규모 중심이었던 과거 평가 방식과 달리, 이번 심사에서는 디지털 기술 혁신성과 상생...",
+          "src": "newsfreezone",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/421/0009064763?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/9/7999958/high.jpg"
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699814",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/699814_745602_4749_v150.jpg"
         },
         {
-          "title": "말산업도 AI로 진화…콘텐츠·관리·치유서비스까지 확장",
-          "desc": "17일 업계에 따르면 한국마사회는 최근 AI 기술을 활용한 말산업 창업기업 육성과 사업화 지원을 확대하며... ■ 오픈이노베이션 기업이 다른 기업이나 연구기관 등 외부로부터 특정 기술과 정보를 도입하는 동시에 기업...",
-          "src": "뉴스1",
+          "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
+          "desc": "참석해 'AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다'를 주제로 강연하고 있다. (사진=한경협) 결국... 다만 AI를 도입한다고 바로 활용이 가능하지 않기 때문에 기업들이 준비를 올해 해야 한다고 봤다. 그는...",
+          "src": "이데일리",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/421/0009064745?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012239/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
         },
         {
-          "title": "돌봄이 산업이 되는 시대, 주민과 지역의 힘으로 만들어가는 돌봄의 혁...",
-          "desc": "지원해주는 기술의 혁신과 도입은 꼭 필요하다. 돌봄 산업의 발달과 함께 서비스가 세분화되고 그간 비어... 대규모 돌봄 사업이나 AI 돌봄 기술벤처 뿐 아니라 지역주민들의 돌봄생태계활동에도 실패해도 되는 자유를...",
-          "src": "pressian",
+          "title": "박민준 뤼튼 대표 \"내년부터 에이전트AI라는 '똑똑한 신입사원들'이 온...",
+          "desc": "박 대표는 이날 제주 서귀포시 롯데호텔에서 열린 한국경제인협회 제주포럼에서 'AI 기술 도입은 쉬웠지만... 비유하며, \"올해는 AI가 활용할 수 있도록 데이터를 정리하고 맥락을 구축하는 이른바 '철도'를 까는 작업을...",
+          "src": "파이낸셜뉴스",
           "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/002/0002448756?sid=102",
-          "img": "https://cdn.pressian.com/_resources/10/2026/07/17/2026071617322161223_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005549472?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/17/202607171153204410_l.jpg"
         },
         {
-          "title": "GS칼텍스, 대정비작업 성공적 완료…디지털 혁신 나서",
-          "desc": "가이드를 도입해 구성원의 자발적 안전 활동을 장려하고 있다. 허세홍 GS칼텍스 부회장은 \"이번 TA가 현장 경험과 디지털·AI 기술의 결합으로 효율성과 안전을 동시에 높인 사례이다\"며 \"DAX 전략을 바탕으로...",
-          "src": "gukjenews",
+          "title": "뤼튼 AX \"생산성 큰 핵심 업무 AI로 전환해 살아남아야\"",
+          "desc": "참석해 'AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다'를 주제로 강연하고 있다./사진=한경협\"가장 큰... 박 대표는 내년이면 이 컴퓨터를 활용하는 AI 에이젠트(Agent)가 기업의 리더 업무까지 하게 될 것이라며...",
+          "src": "news",
           "date": "07/17",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638691",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3638691_3803257_4311_v150.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026071712165584130",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/07/17/2026071712165584130_00_220.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "마이크론과 현대모비스·퀄컴과 첨단 차량용 메모리 장기공급 계약",
+          "desc": "1차 협력사 및 관련 생태계 파트너사들과 차량용 인공지능(AI) 반도체 부품 공급을 위한 전략고객협약(SCA)을... 삼성전자, SK하이닉스와 함께 3대 메모리 제조사인 마이크론은 지난달 회계연도 3분기(3∼5월) 실적 발표에서...",
+          "src": "한국일보",
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/469/0000942801?sid=101",
+          "img": "https://newsimg.hankookilbo.com/2026/07/17/f5ed1614-a0e6-4370-9953-df295a1906d1.png"
+        },
+        {
+          "title": "5대그룹 대금 결제 ‘10일’로 단축…재계, 협력사 상생 ‘속도’",
+          "desc": "현대모비스도 첨단 부품 협력사 육성을 통해 미래 모빌리티 생태계 확대에 나설 예정이다. LG그룹은 상생 자금이 2·3차 협력사까지 전달되는 체계 구축에 집중한다. LG전자, LG화학 등 7개 계열사는 대기업이 지급한...",
+          "src": "mydaily",
+          "date": "07/17",
+          "url": "https://n.news.naver.com/mnews/article/117/0004085446?sid=103",
+          "img": "https://mydaily.co.kr/photos/2026/07/16/2026071615055898106_l.jpg"
+        },
+        {
+          "title": "[총수家] 젠슨 황 엔비디아 CEO ②ㅣ 글로벌 AI 생태계 확장…일본과 협...",
+          "desc": "핵심 부품인 고성능 HBM(고대역폭 메모리)을 공급하는 주요 협력사다. SK하이닉스 ADR은 상장 후 3거래일째인... 황 CEO는 지난해 10월과 올해 6월 한국을 방문해 삼성전자, SK하이닉스 등 반도체 업계와 정부 고위 인사들을...",
+          "src": "cbci",
+          "date": "07/17",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=589785",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202607/589785_401403_5954_v150.jpg"
+        },
+        {
           "title": "800조 반도체 팹, 입지보다 먼저 따질 '전력·용수·사람'",
           "desc": "삼성전자의 반도체 생산 라인 전경. (사진=삼성전자) 팹 4기보다 먼저 봐야 할 '전력망' 전문가들이 가장 먼저... 소재·부품을 공급하는 협력사 직원, 연구개발 인력까지 광범위한 전문인력이 필요하다. 정부도 서남권 팹...",
           "src": "IT데일리",
           "date": "07/16",
           "url": "https://www.itdaily.kr/news/articleView.html?idxno=240462",
           "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240462_245857_1659_v150.jpg"
-        },
-        {
-          "title": "[자막뉴스] \"믿을 수 없이 성공적\" 젠슨 황 일본에서 하이닉스 ADR 상장...",
-          "desc": "SK하이닉스는 엔비디아에 AI 반도체 핵심 부품인 고성능 HBM을 공급하는 핵심 협력사입니다. 황 CEO의... 한국에서 삼성전자, SK, 현대차 등 주요 글로벌 협력 기업 대표들과 치맥, 삼겹살 회동을 했던 황 CEO는...",
-          "src": "news",
-          "date": "07/16",
-          "url": "https://n.news.naver.com/mnews/article/055/0001373015?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260716/202202824_1280.jpg"
-        },
-        {
-          "title": "7월 3주차 국내 ESG 핫클립",
-          "desc": "17개 대·중견기업이 원청기업으로 참여해 협력사의 설비투자와 공정 개선을 지원하며, 기업 부담에 따라... 삼성전자, 반도체 자연자본 리스크 5개로 압축…핵심은 결국 '물' 삼성전자가 반도체 사업의 자연자본...",
-          "src": "impacton",
-          "date": "07/16",
-          "url": "http://www.impacton.net/news/articleView.html?idxno=19625",
-          "img": "https://cdn.impacton.net/news/thumbnail/202607/19625_31183_4035_v150.jpg"
-        },
-        {
-          "title": "공급망 기술력이 곧 제조 경쟁력...삼성전자 '소부장 생태계' 키운다",
-          "desc": "[사진: KTV] 삼성전자가 반도체 초격차 전략의 무게중심을 소재·부품·장비(소부장) 생태계로 옮기고 있다.... 첨단공정에서 안정적 수율과 생산능력을 뒷받침하려면 삼성전자는 소재·장비 협력사의 기술 수준이 함께...",
-          "src": "digitaltoday",
-          "date": "07/16",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684439",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/684439_632799_5334.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "칩플레이션에 수천억 장비값도 오른다...중국은 수용, TSMC는 반발",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642464?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/07/16/rcv.YNA.20260716.PRU20260716273001009_R.jpg"
+      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
     },
     {
-      "title": "[가전트렌드] 위닉스, MBC 일일드라마 '가족관계증명서'에 가전제품 협...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=152975",
-      "img": "https://www.ibabynews.com/news/photo/202607/152975_117702_4013.png"
+      "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
+      "url": "https://www.g-enews.com/view.php?ud=2026071708404868400c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "[오늘의 ABC 뉴스룸] \"청약에만 300조 원이 쏟아졌습니다\" 미국 시장에서...",
-      "url": "https://www.ajunews.com/view/20260713162636068",
-      "img": "https://image.ajunews.com/content/image/2026/07/13/20260713163204713100.png"
+      "title": "수리 맡겼다가 깜짝!… 삼성전자, 생활가전·스마트폰 수리비용 인상",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169234",
+      "img": "https://cdn.ggilbo.com/news/photo/202607/1169234_1021554_319.jpg"
     },
     {
-      "title": "\"지원금도 '원클릭' 시대\"…中企·소상공인 지원도 서비스 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/421/0009064763?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/9/7999958/high.jpg"
+      "title": "AI·상생 내세운 GS파워···'광명시흥 수주전' 선제 타격",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699814",
+      "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/699814_745602_4749_v150.jpg"
     },
     {
-      "title": "말산업도 AI로 진화…콘텐츠·관리·치유서비스까지 확장",
-      "url": "https://n.news.naver.com/mnews/article/421/0009064745?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012239/high.jpg"
+      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332169?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071700301.jpg"
     }
   ]
 };
