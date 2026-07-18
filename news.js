@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 15:57",
+  "updatedAt": "2026.07.18 (토) 19:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"골목상권에 8천억 푼다\"...삼성 '5조 사회 기여' 첫발부터 4조 잭팟",
-          "desc": "18일 가전업계에 따르면 삼성전자가 이번 행사를 통해 고객에게 지급할 온누리상품권은 8000억원을 넘을 것으로 예상된다. 삼성전자가 처음 계획한 4000억원의 2배에 해당하는 규모다. 구매액의 20%를 온누리상품권으로...",
-          "src": "insight",
+          "title": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업...",
+          "desc": "이재명 대통령이 최근 모듈러주택과 히트펌프를 잇달아 언급하면서 삼성전자와 LG전자가 공들이는 주거·에너지 사업이 주목받고 있다. 양사는 가전과 인공지능(AI) 플랫폼을 주택에 결합하고 고효율 냉난방 제품을...",
+          "src": "뉴시스",
           "date": "07/18",
-          "url": "https://www.insight.co.kr/news/563556",
-          "img": "https://img.insight.co.kr/static/2026/07/18/1200/img_20260718131931_33gzo3o9.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014073616?sid=101",
+          "img": "https://img1.newsis.com/2026/07/13/NISI20260713_0021362571_web.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "원광대, AI 혁신대학 도약...디지털 인재 양성 가속",
-          "desc": "원광대학교 전경./원광대 | 익산=한스경제 이인호 기자 | 원광대학교가 대학 생활 전반에 AI를 도입해 AI... 원광대는 디지털 기술 확산에 대응해 모든 구성원이 AI 활용 능력을 갖추도록 지원할 계획이다. 박성태...",
-          "src": "한스경제",
+          "title": "\"AI 시대 공공기관, 서비스 제공 넘어 산업 생태계 이끌어야\"",
+          "desc": "그는 \"AI 서비스 구축은 단순히 기술을 도입하는 것이 아니라 기관이 보유한 데이터를 어떻게 수집하고 활용할 것인지 스스로 결정할 수 있는 역량이 중요하다\"며 \"공공기관이 업무 현장을 가장 잘 이해하는 기획자가...",
+          "src": "energy-news",
           "date": "07/18",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850947",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850947_868360_5532_v150.jpg"
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226880",
+          "img": "https://cdn.energy-news.co.kr/news/thumbnail/202607/226880_102154_5859_v150.jpg"
         },
         {
-          "title": "하정우 \"강력한 패 '메모리 반도체'로 AI 주도권 쥐어야\"",
-          "desc": "그는 \"전 세계 모든 공장들에 AI와 로봇이 도입됐을 때 우리나라에서 만들어낸 지능들을 활용을 하게 되면... 주도적으로 활용하는 국가 전략\"이라며 \"AI 전후방 기술과 산업의 전략자산화 속에서 자체 경쟁력과 제어...",
-          "src": "news",
+          "title": "샤오펑 L03, 65개국 동시 출시, 스마트폰 연결 없이 구글맵 쓴다",
+          "desc": "L03는 샤오펑이 차세대 AI SUV 쿠페로 내세운 신차다. 회사는 중국을 제외한 주요 해외 시장에서 구글맵 Auto SDK를 활용한 자체 내비게이션 시스템을 처음 적용한다. Auto SDK는 완성차 업체가 구글의 지도 기술을 토대로...",
+          "src": "autodaily",
           "date": "07/18",
-          "url": "https://news.mtn.co.kr/news-detail/2026071814002375198",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/07/18/2026071814002375198_00_737.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545848",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545848_189264_574_v150.jpg"
         },
         {
-          "title": "통역·매장안내는 기본, 가상소비자까지 등장…유통가 구석구석 AI 확산",
-          "desc": "유통업계의 AI 활용이 매장 안내와 통역 같은 고객 접점 서비스를 넘어 상품 기획과 물류 등 사업 전... 15일 유통업계에 따르면 CU 운영사 BGF리테일은 최근 합성소비자(Synthetic Consumer) 기술을 보유한 스타트업...",
-          "src": "서울경제",
+          "title": "AI 속도전의 역설…거품 걷히자 진짜 승자가 보인다 [인사이드아웃AI]",
+          "desc": "기술 그 자체를 만든 소수 기업이 아니라, 전기를 안정적으로 공급하는 인프라를 구축하고 이를 활용해... AI 기술의 격변기 속에서 우리는 매일같이 쏟아지는 화려한 AI 모델 기술에만 시선을 빼앗겨서는 안 된다. 그...",
+          "src": "sisajournal",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/011/0004642685?sid=101",
+          "url": "https://n.news.naver.com/mnews/article/586/0000134017?sid=101",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202607/379810_387955_511_v150.jpg"
+        },
+        {
+          "title": "레알 마드리드가 선택한 HP의 기술… 베르나베우 디지털 전환 사례 공개",
+          "desc": "이번 행사는 HP의 AI와 보안, 협업 기술이 레알 마드리드의 실제 업무 환경에서 어떻게 활용되고 있는지를... 7 도입이 진행되고 있다. AI와 가상현실, 증강현실 등 새로운 기술이 등장하더라도 경기장 전체를 다시...",
+          "src": "kbench",
+          "date": "07/18",
+          "url": "https://kbench.com/?q=node/280471",
           "img": ""
-        },
-        {
-          "title": "[위클리 뱅크이슈] \"인공지능이 미래\"…은행권 'AX' 전방위 확산",
-          "desc": "단순 기술 도입이 아니라 AI 기업과의 협업을 통해 업무 프로세스 자체를 재설계하겠다는 구상이다. ◆업무... 양종희 KB금융 회장은 \"AI 시대에는 모든 경험이 데이터가 되고 데이터를 얼마나 잘 활용하느냐가 경쟁력이...",
-          "src": "the-biz",
-          "date": "07/18",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202607/724547_928030_1941.jpg"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"골목상권에 8천억 푼다\"...삼성 '5조 사회 기여' 첫발부터 4조 잭팟",
-      "url": "https://www.insight.co.kr/news/563556",
-      "img": "https://img.insight.co.kr/static/2026/07/18/1200/img_20260718131931_33gzo3o9.jpg"
+      "title": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014073616?sid=101",
+      "img": "https://img1.newsis.com/2026/07/13/NISI20260713_0021362571_web.jpg"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
     },
     {
-      "title": "원광대, AI 혁신대학 도약...디지털 인재 양성 가속",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850947",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850947_868360_5532_v150.jpg"
+      "title": "\"AI 시대 공공기관, 서비스 제공 넘어 산업 생태계 이끌어야\"",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226880",
+      "img": "https://cdn.energy-news.co.kr/news/thumbnail/202607/226880_102154_5859_v150.jpg"
     },
     {
-      "title": "하정우 \"강력한 패 '메모리 반도체'로 AI 주도권 쥐어야\"",
-      "url": "https://news.mtn.co.kr/news-detail/2026071814002375198",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/07/18/2026071814002375198_00_737.jpg"
+      "title": "샤오펑 L03, 65개국 동시 출시, 스마트폰 연결 없이 구글맵 쓴다",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545848",
+      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545848_189264_574_v150.jpg"
     }
   ]
 };
