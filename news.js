@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 23:18",
+  "updatedAt": "2026.07.19 (일) 02:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -126,6 +126,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"AI를 쓰면서 양심의 가책을 느끼지 않나요?\"…왠 죄책감?",
+          "desc": "시스템이 도입되어야 한다. 흥미로운 것은, 기술이 극도로 첨단화할수록 교육은 다시 가장 원초적인 인간의 모습으로 돌아가고 있다는 사실이다. 최근 미국의 일부 대학에서는 생성형 AI의 확산 이후 리포트 과제를 줄이는...",
+          "src": "newsverse",
+          "date": "07/19",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=10963",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202607/10963_18899_5216_v150.jpg"
+        },
+        {
+          "title": "드론으로 '하천 고립' 막는다...사각지대도 감시",
+          "desc": "하천 수위가 높아지면 드론이 출동해 AI 기술로 보행자를 찾아내고, 탑재된 스피커를 통해 대피를... 전환으로 AI 드론 시스템을 도입했습니다.] 안양시는 앞으로 산불 감시와 취약 지역 순찰 등으로 드론 활용을...",
+          "src": "ytn",
+          "date": "07/19",
+          "url": "https://n.news.naver.com/mnews/article/052/0002381296?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0719/202607190120146614_t.jpg"
+        },
+        {
           "title": "월가, 토큰화 실전 단계로…금융기관 84% 핵심 전략 인식",
           "desc": "증권을 활용한 실제 거래를 처음으로 실행하며 전통 금융 시장 내 블록체인 도입의 중요한 전환점을... 기존 금융 시스템과 블록체인을 연결하는 과정에서 기술적·운영적 복잡성도 큰 과제로 지적됩니다. TP AI 유의사항",
           "src": "tokenpost",
@@ -140,22 +156,6 @@ window.NEWS_DATA = {
           "date": "07/18",
           "url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
           "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.48263b4e755c473581592141fe600c28_R.png"
-        },
-        {
-          "title": "미국 일상에 녹아든 무인 서비스",
-          "desc": "샐러드 체인점 ‘스위트그린’도 자동화 주방을 도입했다. 스위트그린 인피니트 키친은 주문이 들어오면... 이미 AI 로봇키친 기술을 통해 식당 운영의 상당 부분을 무인화했다. 향후 서비스 휴머노이드 로봇이...",
-          "src": "매일경제",
-          "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/024/0000106969?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
-        },
-        {
-          "title": "한국인터넷진흥원(KISA)·한국수자원공사, '건설 현장 특화 CCTV 기술 개...",
-          "desc": "(CCTV) 기술 확산과 성능시험·인증 기반 조성에 나선다. 댐과 수도 건설 현장의 사고 예방을 위한 지능형 관제 체계가 본격적으로 도입될 전망이다. 한국인터넷진흥원과 한국수자원공사는 지난 7월 16일 한국수자원공사...",
-          "src": "cstimes",
-          "date": "07/18",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=713831",
-          "img": "https://www.cstimes.com/news/photo/202607/713831_633929_2813.jpg"
         }
       ]
     },
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
     },
     {
-      "title": "월가, 토큰화 실전 단계로…금융기관 84% 핵심 전략 인식",
-      "url": "https://www.tokenpost.kr/news/blockchain/379078",
-      "img": "https://f1.tokenpost.kr/2026/07/7lg483kneg.webp"
+      "title": "\"AI를 쓰면서 양심의 가책을 느끼지 않나요?\"…왠 죄책감?",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=10963",
+      "img": "https://cdn.newsverse.kr/news/thumbnail/202607/10963_18899_5216_v150.jpg"
     },
     {
-      "title": "[패트롤] 구리시-김포시-남양주시-양평군-하남시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.48263b4e755c473581592141fe600c28_R.png"
+      "title": "드론으로 '하천 고립' 막는다...사각지대도 감시",
+      "url": "https://n.news.naver.com/mnews/article/052/0002381296?sid=102",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0719/202607190120146614_t.jpg"
     }
   ]
 };
