@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 12:50",
+  "updatedAt": "2026.07.18 (토) 15:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
-          "desc": "LG전자의 구독 사업 매출은 2022년 8500억원에서 2023년 1조원을 넘어서며 빠르게 성장했고, 삼성전자도 구독 시장 진출로 맞불을 놓았다. 목돈 부담을 매달 이용료로 분산해 프리미엄 가전의 진입 장벽을 낮추는 방식이...",
-          "src": "econovill",
+          "title": "\"골목상권에 8천억 푼다\"...삼성 '5조 사회 기여' 첫발부터 4조 잭팟",
+          "desc": "18일 가전업계에 따르면 삼성전자가 이번 행사를 통해 고객에게 지급할 온누리상품권은 8000억원을 넘을 것으로 예상된다. 삼성전자가 처음 계획한 4000억원의 2배에 해당하는 규모다. 구매액의 20%를 온누리상품권으로...",
+          "src": "insight",
           "date": "07/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
+          "url": "https://www.insight.co.kr/news/563556",
+          "img": "https://img.insight.co.kr/static/2026/07/18/1200/img_20260718131931_33gzo3o9.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "삼성전자 '가전 소모품 콘셉트', 세계 3대 디자인상 석권…레드닷 최고...",
-          "desc": "삼성전자는 최근 세계적 권위의 국제 디자인상인 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서... 최고상은 '가전 소모품 선행 콘셉트 디자인'과 키즈 로봇 '드리모와 미니모(Dremo & Minimo)'가 각각 받았다. 가전...",
+          "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
+          "desc": "냉장고와 세탁기가 이미 대부분 가정에 놓인 시대, 가전업계의 셈법이 달라지고 있다. 새 제품을 만들어... LG전자의 구독 사업 매출은 2022년 8500억원에서 2023년 1조원을 넘어서며 빠르게 성장했고, 삼성전자도 구독 시장...",
           "src": "econovill",
           "date": "07/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745518",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/745518_719118_1840_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI는 적응해야 할 환경…'지금 바로' 실행할 때\"…한경협 제주포럼 폐...",
-          "desc": "환영사에서 AI를 단순한 기술이 아닌 인류가 적응해야 할 새로운 환경으로 규정했다. 류 회장은 \"과거... AI를 '도입할 것인가'를 넘어 '어떻게 활용해 새로운 성장동력을 만들 것인가'를 화두로 던지며 나흘간의 일정을...",
-          "src": "뉴스1",
+          "title": "원광대, AI 혁신대학 도약...디지털 인재 양성 가속",
+          "desc": "원광대학교 전경./원광대 | 익산=한스경제 이인호 기자 | 원광대학교가 대학 생활 전반에 AI를 도입해 AI... 원광대는 디지털 기술 확산에 대응해 모든 구성원이 AI 활용 능력을 갖추도록 지원할 계획이다. 박성태...",
+          "src": "한스경제",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/421/0009065959?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/15/8010864/high.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850947",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850947_868360_5532_v150.jpg"
         },
         {
-          "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-          "desc": "특히 창릉신도시 구간에 시민이 자연스럽게 모여 소통하고 문화를 즐길 수 있는 특화시설이 도입될 수... 홍보관에서 양주시는 다양한 시각자료를 활용한 전시와 인공지능(AI)-메타버스를 활용한 체험 콘텐츠를 통해...",
-          "src": "ekn",
+          "title": "하정우 \"강력한 패 '메모리 반도체'로 AI 주도권 쥐어야\"",
+          "desc": "그는 \"전 세계 모든 공장들에 AI와 로봇이 도입됐을 때 우리나라에서 만들어낸 지능들을 활용을 하게 되면... 주도적으로 활용하는 국가 전략\"이라며 \"AI 전후방 기술과 산업의 전략자산화 속에서 자체 경쟁력과 제어...",
+          "src": "news",
           "date": "07/18",
-          "url": "https://www.ekn.kr/web/view.php?key=20260718021533544",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.87b2ca91f9714679bd9f369a79987dfc_R.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026071814002375198",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/07/18/2026071814002375198_00_737.jpg"
         },
         {
-          "title": "[VC’s Pick]“사람과 로봇이 함께 작업”…홀리데이로보틱스, 투자 유치",
-          "desc": "또 디지털 트윈 기반 시뮬레이션 기술을 활용해 실제 공장 구축 전 로봇 동선과 운영 방식을 가상환경에서 검증한다. 이를 실제 현장에 적용하는 ‘심 투 리얼(Sim-to-Real)’ 기술을 적용했다. 로봇 도입 기간을 기존 대비...",
-          "src": "이데일리",
+          "title": "통역·매장안내는 기본, 가상소비자까지 등장…유통가 구석구석 AI 확산",
+          "desc": "유통업계의 AI 활용이 매장 안내와 통역 같은 고객 접점 서비스를 넘어 상품 기획과 물류 등 사업 전... 15일 유통업계에 따르면 CU 운영사 BGF리테일은 최근 합성소비자(Synthetic Consumer) 기술을 보유한 스타트업...",
+          "src": "서울경제",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/018/0006332349?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071800342.600x.0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004642685?sid=101",
+          "img": ""
         },
         {
-          "title": "제천시, 아동 성폭력 예방 포스터 공모전 성황리 개최",
-          "desc": "올해 새롭게 도입된 AI 성평등 포스터 공모전은 특수학급 학생들이 생성형 AI를 활용해 성평등에 대한 생각과 메시지를 자유롭게 표현하도록 기획됐다. 이를 통해 디지털 기술을 접목한 새로운 교육 방식은 물론 교육 참여...",
-          "src": "브릿지경제",
+          "title": "[위클리 뱅크이슈] \"인공지능이 미래\"…은행권 'AX' 전방위 확산",
+          "desc": "단순 기술 도입이 아니라 AI 기업과의 협업을 통해 업무 프로세스 자체를 재설계하겠다는 구상이다. ◆업무... 양종희 KB금융 회장은 \"AI 시대에는 모든 경험이 데이터가 되고 데이터를 얼마나 잘 활용하느냐가 경쟁력이...",
+          "src": "the-biz",
           "date": "07/18",
-          "url": "https://www.viva100.com/article/20260718500069",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500067.jpg?v=20260718125116"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724547",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202607/724547_928030_1941.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
-      "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
+      "title": "\"골목상권에 8천억 푼다\"...삼성 '5조 사회 기여' 첫발부터 4조 잭팟",
+      "url": "https://www.insight.co.kr/news/563556",
+      "img": "https://img.insight.co.kr/static/2026/07/18/1200/img_20260718131931_33gzo3o9.jpg"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "삼성전자 '가전 소모품 콘셉트', 세계 3대 디자인상 석권…레드닷 최고...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=745518",
-      "img": "https://cdn.econovill.com/news/thumbnail/202607/745518_719118_1840_v150.jpg"
+      "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
     },
     {
-      "title": "\"AI는 적응해야 할 환경…'지금 바로' 실행할 때\"…한경협 제주포럼 폐...",
-      "url": "https://n.news.naver.com/mnews/article/421/0009065959?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/15/8010864/high.jpg"
+      "title": "원광대, AI 혁신대학 도약...디지털 인재 양성 가속",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850947",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850947_868360_5532_v150.jpg"
     },
     {
-      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260718021533544",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.87b2ca91f9714679bd9f369a79987dfc_R.jpg"
+      "title": "하정우 \"강력한 패 '메모리 반도체'로 AI 주도권 쥐어야\"",
+      "url": "https://news.mtn.co.kr/news-detail/2026071814002375198",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/07/18/2026071814002375198_00_737.jpg"
     }
   ]
 };
