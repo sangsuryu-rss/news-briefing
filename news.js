@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.19 (일) 02:52",
+  "updatedAt": "2026.07.19 (일) 06:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업...",
-          "desc": "이재명 대통령이 최근 모듈러주택과 히트펌프를 잇달아 언급하면서 삼성전자와 LG전자가 공들이는 주거·에너지 사업이 주목받고 있다. 양사는 가전과 인공지능(AI) 플랫폼을 주택에 결합하고 고효율 냉난방 제품을...",
-          "src": "뉴시스",
-          "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/003/0014073616?sid=101",
-          "img": "https://img1.newsis.com/2026/07/13/NISI20260713_0021362571_web.jpg"
+          "title": "냉장고까지 번진 ‘AI 통행세’…가전 할인 줄고 가격 오르나",
+          "desc": "삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 올해 들어 두 번째로 인상했다. 생활가전(DA) 제품 자재비는 평균 9%, 모바일 제품은 평균 5% 올랐다. 냉장고는 부품 1개당 평균 3000원, 에어컨은 8000원...",
+          "src": "kukinews",
+          "date": "07/19",
+          "url": "https://www.kukinews.com/article/view/kuk202607160177",
+          "img": ""
         },
         {
-          "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
-          "desc": "◆치열해지는 무선 청소기 시장, 편리함으로 도전장 던진 로보락 드리미, 샤오미 등 중국 경쟁사들이 로봇... 무선청소기 라인업을 확대해 국내 시장에서의 입지를 견고히 다지겠다는 전략이다. 이에 맞서 삼성전자와...",
-          "src": "F투데이",
-          "date": "07/17",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
+          "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
+          "desc": "이 주택은 공간제작소가 최근 삼성전자와 협업해 선보인 목조 모듈러주택이다. 주택 설계 정보를 공간제작소 공장 생산설비에 입력하면 로봇이 목재를 절단하고 벽체와 지붕 구조체를 제작한다. 창호와 단열재, 전기...",
+          "src": "조선일보",
+          "date": "07/19",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/16/2026071603113.html",
+          "img": "https://image.chosun.com/sitedata/image/202607/16/2026071603109_0.jpg"
         },
         {
           "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
-          "desc": "냉장고와 세탁기가 이미 대부분 가정에 놓인 시대, 가전업계의 셈법이 달라지고 있다. 새 제품을 만들어... LG전자의 구독 사업 매출은 2022년 8500억원에서 2023년 1조원을 넘어서며 빠르게 성장했고, 삼성전자도 구독 시장...",
-          "src": "econovill",
-          "date": "07/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
+          "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
+          "desc": "◆치열해지는 무선 청소기 시장, 편리함으로 도전장 던진 로보락 드리미, 샤오미 등 중국 경쟁사들이 로봇... 무선청소기 라인업을 확대해 국내 시장에서의 입지를 견고히 다지겠다는 전략이다. 이에 맞서 삼성전자와...",
+          "src": "F투데이",
+          "date": "07/17",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI를 쓰면서 양심의 가책을 느끼지 않나요?\"…왠 죄책감?",
-          "desc": "시스템이 도입되어야 한다. 흥미로운 것은, 기술이 극도로 첨단화할수록 교육은 다시 가장 원초적인 인간의 모습으로 돌아가고 있다는 사실이다. 최근 미국의 일부 대학에서는 생성형 AI의 확산 이후 리포트 과제를 줄이는...",
-          "src": "newsverse",
+          "title": "\"K-NPU 써본 후 도입\"…퓨리오사AI, 유럽서 '풀스택 실증 전략' 속도",
+          "desc": "데이터센터에도 도입 문턱을 낮췄다는 평가다. 오픈소스 모델 실증 사례 유럽 이식…맞춤형 수요 공략 리스본 LS2 데이터센터는 다수 글로벌 기업이 활용하는 데이터센터다. 퓨리오사AI와 에퀴닉스는 LS2를 유럽...",
+          "src": "뉴스1",
           "date": "07/19",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=10963",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202607/10963_18899_5216_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009066240?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/13/8006293/high.jpg"
         },
         {
-          "title": "드론으로 '하천 고립' 막는다...사각지대도 감시",
-          "desc": "하천 수위가 높아지면 드론이 출동해 AI 기술로 보행자를 찾아내고, 탑재된 스피커를 통해 대피를... 전환으로 AI 드론 시스템을 도입했습니다.] 안양시는 앞으로 산불 감시와 취약 지역 순찰 등으로 드론 활용을...",
-          "src": "ytn",
+          "title": "'기술은 있는데 살 사람이 없어요'…정부 첫 고객 프로젝트 탄생 비화",
+          "desc": "혁신기술을 도입하고 싶어도 실증 비용 부담이 컸고, 구매 담당자는 감사 부담과 복잡한 내부 절차 때문에... 현장에서 기술을 검증받을 기회를 얻었다. 대표적으로 경찰청은 산악 구조 현장에서 활용할 사족보행 로봇과...",
+          "src": "뉴스1",
           "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/052/0002381296?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0719/202607190120146614_t.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009066241?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012217/high.jpg"
         },
         {
-          "title": "월가, 토큰화 실전 단계로…금융기관 84% 핵심 전략 인식",
-          "desc": "증권을 활용한 실제 거래를 처음으로 실행하며 전통 금융 시장 내 블록체인 도입의 중요한 전환점을... 기존 금융 시스템과 블록체인을 연결하는 과정에서 기술적·운영적 복잡성도 큰 과제로 지적됩니다. TP AI 유의사항",
-          "src": "tokenpost",
-          "date": "07/18",
-          "url": "https://www.tokenpost.kr/news/blockchain/379078",
-          "img": "https://f1.tokenpost.kr/2026/07/7lg483kneg.webp"
+          "title": "“AI가 만들었다” 표시 의무화… 21일부터 ‘AI기본법 개정안’ 시행",
+          "desc": "고영향 AI 적용 범위를 둘러싼 현장 혼선과 규제 비용을 우려하고 있다. 19일 과학기술정보통신부와 관련... 과기정통부 장관이 AI 활용 여부를 확인하는 ‘AI 제품·서비스 확인제도’도 도입된다. 확인서를 받은 기업은...",
+          "src": "kbmaeil",
+          "date": "07/19",
+          "url": "https://www.kbmaeil.com/article/20260719500014",
+          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719500012.png"
         },
         {
-          "title": "[패트롤] 구리시-김포시-남양주시-양평군-하남시",
-          "desc": "또한 다른 신도시가 비슷한 지구 지정 단계에서 정차역으로 인정받은 사례를 찾아 협상 근거로 활용하고... 전진선 양평군수는 “민선9기 공약사업인 '어르신 인공지능(AI) 돌봄 시스템 24'가 단순한 기술 도입을 넘어 실제...",
-          "src": "ekn",
-          "date": "07/18",
-          "url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.48263b4e755c473581592141fe600c28_R.png"
+          "title": "[AI 인사이드] AI 기업들의 유럽 시장 채권 발행 증가…이점과 위험성은...",
+          "desc": "다사니는 \"5대 대형 기술 기업들이 2026년 1분기에 발행한 유로화 '투자등급' 채권(신용이 높은 우량기업이... 그리고 AI 유도형 투자 붐을 적극 활용하면서 유로화 표시 국제 채권 발행량이 급증했다. 유럽중앙은행(ECB)...",
+          "src": "wikileaks-kr",
+          "date": "07/19",
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189777",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189777_202599_449_v150.jpg"
         }
       ]
     },
@@ -242,14 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014073616?sid=101",
-      "img": "https://img1.newsis.com/2026/07/13/NISI20260713_0021362571_web.jpg"
-    },
-    {
-      "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
+      "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/16/2026071603113.html",
+      "img": "https://image.chosun.com/sitedata/image/202607/16/2026071603109_0.jpg"
     },
     {
       "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
@@ -257,19 +252,24 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
-      "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
+      "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
     },
     {
-      "title": "\"AI를 쓰면서 양심의 가책을 느끼지 않나요?\"…왠 죄책감?",
-      "url": "https://www.newsverse.kr/news/articleView.html?idxno=10963",
-      "img": "https://cdn.newsverse.kr/news/thumbnail/202607/10963_18899_5216_v150.jpg"
+      "title": "\"K-NPU 써본 후 도입\"…퓨리오사AI, 유럽서 '풀스택 실증 전략' 속도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009066240?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/13/8006293/high.jpg"
     },
     {
-      "title": "드론으로 '하천 고립' 막는다...사각지대도 감시",
-      "url": "https://n.news.naver.com/mnews/article/052/0002381296?sid=102",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0719/202607190120146614_t.jpg"
+      "title": "'기술은 있는데 살 사람이 없어요'…정부 첫 고객 프로젝트 탄생 비화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009066241?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012217/high.jpg"
+    },
+    {
+      "title": "“AI가 만들었다” 표시 의무화… 21일부터 ‘AI기본법 개정안’ 시행",
+      "url": "https://www.kbmaeil.com/article/20260719500014",
+      "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719500012.png"
     }
   ]
 };
