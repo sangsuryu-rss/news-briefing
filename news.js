@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 19:14",
+  "updatedAt": "2026.07.18 (토) 23:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI 시대 공공기관, 서비스 제공 넘어 산업 생태계 이끌어야\"",
-          "desc": "그는 \"AI 서비스 구축은 단순히 기술을 도입하는 것이 아니라 기관이 보유한 데이터를 어떻게 수집하고 활용할 것인지 스스로 결정할 수 있는 역량이 중요하다\"며 \"공공기관이 업무 현장을 가장 잘 이해하는 기획자가...",
-          "src": "energy-news",
+          "title": "월가, 토큰화 실전 단계로…금융기관 84% 핵심 전략 인식",
+          "desc": "증권을 활용한 실제 거래를 처음으로 실행하며 전통 금융 시장 내 블록체인 도입의 중요한 전환점을... 기존 금융 시스템과 블록체인을 연결하는 과정에서 기술적·운영적 복잡성도 큰 과제로 지적됩니다. TP AI 유의사항",
+          "src": "tokenpost",
           "date": "07/18",
-          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226880",
-          "img": "https://cdn.energy-news.co.kr/news/thumbnail/202607/226880_102154_5859_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/379078",
+          "img": "https://f1.tokenpost.kr/2026/07/7lg483kneg.webp"
         },
         {
-          "title": "샤오펑 L03, 65개국 동시 출시, 스마트폰 연결 없이 구글맵 쓴다",
-          "desc": "L03는 샤오펑이 차세대 AI SUV 쿠페로 내세운 신차다. 회사는 중국을 제외한 주요 해외 시장에서 구글맵 Auto SDK를 활용한 자체 내비게이션 시스템을 처음 적용한다. Auto SDK는 완성차 업체가 구글의 지도 기술을 토대로...",
-          "src": "autodaily",
+          "title": "[패트롤] 구리시-김포시-남양주시-양평군-하남시",
+          "desc": "또한 다른 신도시가 비슷한 지구 지정 단계에서 정차역으로 인정받은 사례를 찾아 협상 근거로 활용하고... 전진선 양평군수는 “민선9기 공약사업인 '어르신 인공지능(AI) 돌봄 시스템 24'가 단순한 기술 도입을 넘어 실제...",
+          "src": "ekn",
           "date": "07/18",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545848",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545848_189264_574_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.48263b4e755c473581592141fe600c28_R.png"
         },
         {
-          "title": "AI 속도전의 역설…거품 걷히자 진짜 승자가 보인다 [인사이드아웃AI]",
-          "desc": "기술 그 자체를 만든 소수 기업이 아니라, 전기를 안정적으로 공급하는 인프라를 구축하고 이를 활용해... AI 기술의 격변기 속에서 우리는 매일같이 쏟아지는 화려한 AI 모델 기술에만 시선을 빼앗겨서는 안 된다. 그...",
-          "src": "sisajournal",
+          "title": "미국 일상에 녹아든 무인 서비스",
+          "desc": "샐러드 체인점 ‘스위트그린’도 자동화 주방을 도입했다. 스위트그린 인피니트 키친은 주문이 들어오면... 이미 AI 로봇키친 기술을 통해 식당 운영의 상당 부분을 무인화했다. 향후 서비스 휴머노이드 로봇이...",
+          "src": "매일경제",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/586/0000134017?sid=101",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202607/379810_387955_511_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000106969?sid=101",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "레알 마드리드가 선택한 HP의 기술… 베르나베우 디지털 전환 사례 공개",
-          "desc": "이번 행사는 HP의 AI와 보안, 협업 기술이 레알 마드리드의 실제 업무 환경에서 어떻게 활용되고 있는지를... 7 도입이 진행되고 있다. AI와 가상현실, 증강현실 등 새로운 기술이 등장하더라도 경기장 전체를 다시...",
-          "src": "kbench",
+          "title": "한국인터넷진흥원(KISA)·한국수자원공사, '건설 현장 특화 CCTV 기술 개...",
+          "desc": "(CCTV) 기술 확산과 성능시험·인증 기반 조성에 나선다. 댐과 수도 건설 현장의 사고 예방을 위한 지능형 관제 체계가 본격적으로 도입될 전망이다. 한국인터넷진흥원과 한국수자원공사는 지난 7월 16일 한국수자원공사...",
+          "src": "cstimes",
           "date": "07/18",
-          "url": "https://kbench.com/?q=node/280471",
-          "img": ""
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=713831",
+          "img": "https://www.cstimes.com/news/photo/202607/713831_633929_2813.jpg"
         }
       ]
     },
@@ -235,7 +235,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
     },
     {
-      "title": "\"AI 시대 공공기관, 서비스 제공 넘어 산업 생태계 이끌어야\"",
-      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226880",
-      "img": "https://cdn.energy-news.co.kr/news/thumbnail/202607/226880_102154_5859_v150.jpg"
+      "title": "월가, 토큰화 실전 단계로…금융기관 84% 핵심 전략 인식",
+      "url": "https://www.tokenpost.kr/news/blockchain/379078",
+      "img": "https://f1.tokenpost.kr/2026/07/7lg483kneg.webp"
     },
     {
-      "title": "샤오펑 L03, 65개국 동시 출시, 스마트폰 연결 없이 구글맵 쓴다",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545848",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545848_189264_574_v150.jpg"
+      "title": "[패트롤] 구리시-김포시-남양주시-양평군-하남시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.48263b4e755c473581592141fe600c28_R.png"
     }
   ]
 };
