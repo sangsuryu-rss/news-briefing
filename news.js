@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.18 (토) 06:45",
+  "updatedAt": "2026.07.18 (토) 12:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,14 +19,14 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,554",
-        "diff": "+20",
-        "rate": "+0.15%",
-        "dir": "up",
+        "value": "13,501",
+        "diff": "-53",
+        "rate": "-0.39%",
+        "dir": "down",
         "avg": "13,552",
-        "avgDiff": "+2",
-        "avgRate": "+0.0%",
-        "avgDir": "up"
+        "avgDiff": "-51",
+        "avgRate": "-0.4%",
+        "avgDir": "down"
       },
       {
         "label": "국제유가 WTI",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
-          "desc": "반도체 초호황 성과를 국민과 나누겠다며 삼성전자가 마련한 '감사 페스티벌'이 4조원에 달하는 판매고를... 전국 400여개 삼성스토어와 가전 양판점, 대형마트, 주요 온라인 쇼핑몰 등 온·오프라인 1000여개 매장에서...",
-          "src": "한국경제",
+          "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
+          "desc": "LG전자의 구독 사업 매출은 2022년 8500억원에서 2023년 1조원을 넘어서며 빠르게 성장했고, 삼성전자도 구독 시장 진출로 맞불을 놓았다. 목돈 부담을 매달 이용료로 분산해 프리미엄 가전의 진입 장벽을 낮추는 방식이...",
+          "src": "econovill",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/015/0005311190?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/02.42864594.1.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
         },
         {
-          "title": "반도체값 때문이… 스마트폰·가전 수리비 줄줄이 올라",
-          "desc": "18일 업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 공급하는 수리용 자재 가격을 인상했다. 1월에... 인상 대상에는 스마트폰에 탑재되는 메모리 반도체와 디스플레이 패널뿐 아니라 에어컨·세탁기에 사용되는...",
-          "src": "조선일보",
+          "title": "삼성전자 '가전 소모품 콘셉트', 세계 3대 디자인상 석권…레드닷 최고...",
+          "desc": "삼성전자는 최근 세계적 권위의 국제 디자인상인 '레드닷 디자인 어워드 2026' 디자인 콘셉트 부문에서... 최고상은 '가전 소모품 선행 콘셉트 디자인'과 키즈 로봇 '드리모와 미니모(Dremo & Minimo)'가 각각 받았다. 가전...",
+          "src": "econovill",
           "date": "07/18",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165938",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165938_447756_4951_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745518",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/745518_719118_1840_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌",
-          "desc": "엄격한 AI 안전장치를 도입하도록 유도함으로써 경쟁자들 앞의 장벽을 더 높이고 우위를 확보하려는 전략을... 의원들이 AI 기술을 규제하는 데 있어 공통된 합의점을 찾도록 촉구해 왔기 때문이다. 앤트로픽의 미국 주...",
-          "src": "wikileaks-kr",
+          "title": "\"AI는 적응해야 할 환경…'지금 바로' 실행할 때\"…한경협 제주포럼 폐...",
+          "desc": "환영사에서 AI를 단순한 기술이 아닌 인류가 적응해야 할 새로운 환경으로 규정했다. 류 회장은 \"과거... AI를 '도입할 것인가'를 넘어 '어떻게 활용해 새로운 성장동력을 만들 것인가'를 화두로 던지며 나흘간의 일정을...",
+          "src": "뉴스1",
           "date": "07/18",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189859",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189859_202812_4452_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009065959?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/15/8010864/high.jpg"
         },
         {
-          "title": "[위클리 에너지 리포트] GS칼텍스, 디지털·AI 기술 활용해 대정비작업...",
-          "desc": "정유·석유화학 산업과 같은 전통 제조업에서 디지털·AI 기술의 도입은 단순한 기술 적용을 넘어 운영... 회사는 생산동 및 창고동 지붕을 활용하여 태양광 설비를 설치했으며, 생산된 전력을 공장 운영에 직접...",
-          "src": "goodkyung",
+          "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+          "desc": "특히 창릉신도시 구간에 시민이 자연스럽게 모여 소통하고 문화를 즐길 수 있는 특화시설이 도입될 수... 홍보관에서 양주시는 다양한 시각자료를 활용한 전시와 인공지능(AI)-메타버스를 활용한 체험 콘텐츠를 통해...",
+          "src": "ekn",
           "date": "07/18",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=289271",
-          "img": "https://cdn.goodkyung.com/news/thumbnail/202607/289271_261107_818_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260718021533544",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.87b2ca91f9714679bd9f369a79987dfc_R.jpg"
         },
         {
-          "title": "허가 행정과 조인트스템, 미프진… 오젬픽 페이스와 에스테틱",
-          "desc": "다국적 제약사 품목 도입이 협상력과 컴플라이언스 규제 등으로 갈수록 어려워지는 가운데 국내사 간... 아울러 싸이티바 송도 APAC 패스트 트랙 센터를 활용해 mRNA와 세포·유전자치료제(CGT) 공정 최적화 기술 지원과...",
-          "src": "hitnews",
+          "title": "[VC’s Pick]“사람과 로봇이 함께 작업”…홀리데이로보틱스, 투자 유치",
+          "desc": "또 디지털 트윈 기반 시뮬레이션 기술을 활용해 실제 공장 구축 전 로봇 동선과 운영 방식을 가상환경에서 검증한다. 이를 실제 현장에 적용하는 ‘심 투 리얼(Sim-to-Real)’ 기술을 적용했다. 로봇 도입 기간을 기존 대비...",
+          "src": "이데일리",
           "date": "07/18",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77720",
-          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202607/77720_105925_3746_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006332349?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071800342.600x.0.jpg"
         },
         {
-          "title": "박민준 뤼튼AX 대표 “AI가 컴퓨터 직접 쓰는 시대 내년에 온다”",
-          "desc": "참석해 ‘AI 기술 도입은 쉬웠지만, 기업의 AI 전환은 없었다’를 주제로 강연하고 있다. 한국경제인협회... 박 대표는 내년은 AI가 컴퓨터를 활용하는 '컴퓨터 유즈' 개념이 현실화될 것이라고 전망했다. 이를 위해...",
-          "src": "segye",
+          "title": "제천시, 아동 성폭력 예방 포스터 공모전 성황리 개최",
+          "desc": "올해 새롭게 도입된 AI 성평등 포스터 공모전은 특수학급 학생들이 생성형 AI를 활용해 성평등에 대한 생각과 메시지를 자유롭게 표현하도록 기획됐다. 이를 통해 디지털 기술을 접목한 새로운 교육 방식은 물론 교육 참여...",
+          "src": "브릿지경제",
           "date": "07/18",
-          "url": "https://n.news.naver.com/mnews/article/022/0004143936?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/17/20260717507708.jpg"
+          "url": "https://www.viva100.com/article/20260718500069",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500067.jpg?v=20260718125116"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "마이크론, 퀄컴·현대모비스·하만 등 자동차 생태계 7곳과 SCA 체결",
+          "desc": "마이크론이 전세계 자동차 산업을 지원하는 생태계 협력사 7곳과 전략적 고객 계약(SCA)를 체결했다고 16일... 하만은 삼성전자가 2016년 인수한 자동차 전장, 오디오 기업이다. 이규석 현대모비스 사장은 \"자동차...",
+          "src": "thelec",
+          "date": "07/18",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=59714",
+          "img": "https://cdn.thelec.kr/news/photo/202607/59714_47116_3444.jpg"
+        },
+        {
+          "title": "삼성 계열 하만. 현대모비스, 美 마이크론과 메모리 반도체 장기 공급 ...",
+          "desc": "현대모비스와 삼성전자 자회사 하만(Harman) 등을 포함한 글로벌 자동차 부품업체 7곳과 전략적 고객 계약(SCA)... 1 협력사들의 공급망 전략과 맞물리면서 이번 계약으로 이어진 것으로 분석된다. 또, SK하이닉스와...",
+          "src": "autodaily",
+          "date": "07/18",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545844",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545844_189258_5154_v150.jpg"
+        },
         {
           "title": "마이크론과 현대모비스·퀄컴과 첨단 차량용 메모리 장기공급 계약",
           "desc": "1차 협력사 및 관련 생태계 파트너사들과 차량용 인공지능(AI) 반도체 부품 공급을 위한 전략고객협약(SCA)을... 삼성전자, SK하이닉스와 함께 3대 메모리 제조사인 마이크론은 지난달 회계연도 3분기(3∼5월) 실적 발표에서...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/17",
           "url": "https://n.news.naver.com/mnews/article/117/0004085446?sid=103",
           "img": "https://mydaily.co.kr/photos/2026/07/16/2026071615055898106_l.jpg"
-        },
-        {
-          "title": "[총수家] 젠슨 황 엔비디아 CEO ②ㅣ 글로벌 AI 생태계 확장…일본과 협...",
-          "desc": "핵심 부품인 고성능 HBM(고대역폭 메모리)을 공급하는 주요 협력사다. SK하이닉스 ADR은 상장 후 3거래일째인... 황 CEO는 지난해 10월과 올해 6월 한국을 방문해 삼성전자, SK하이닉스 등 반도체 업계와 정부 고위 인사들을...",
-          "src": "cbci",
-          "date": "07/17",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=589785",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202607/589785_401403_5954_v150.jpg"
-        },
-        {
-          "title": "800조 반도체 팹, 입지보다 먼저 따질 '전력·용수·사람'",
-          "desc": "삼성전자의 반도체 생산 라인 전경. (사진=삼성전자) 팹 4기보다 먼저 봐야 할 '전력망' 전문가들이 가장 먼저... 소재·부품을 공급하는 협력사 직원, 연구개발 인력까지 광범위한 전문인력이 필요하다. 정부도 서남권 팹...",
-          "src": "IT데일리",
-          "date": "07/16",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240462",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240462_245857_1659_v150.jpg"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311190?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/02.42864594.1.jpg"
+      "title": "냉장고 다 있는 시대…가전업계, AI·구독·체험으로 활로 뚫는다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745521",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/745521_719130_4959_v150.jpg"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
     },
     {
-      "title": "반도체값 때문이… 스마트폰·가전 수리비 줄줄이 올라",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165938",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165938_447756_4951_v150.jpg"
+      "title": "삼성전자 '가전 소모품 콘셉트', 세계 3대 디자인상 석권…레드닷 최고...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745518",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/745518_719118_1840_v150.jpg"
     },
     {
-      "title": "[인공지능 줌인] 앤트로픽 vs 오픈AI… 규제 입법 로비에서도 충돌",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189859",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189859_202812_4452_v150.jpg"
+      "title": "\"AI는 적응해야 할 환경…'지금 바로' 실행할 때\"…한경협 제주포럼 폐...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009065959?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/15/8010864/high.jpg"
     },
     {
-      "title": "[위클리 에너지 리포트] GS칼텍스, 디지털·AI 기술 활용해 대정비작업...",
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=289271",
-      "img": "https://cdn.goodkyung.com/news/thumbnail/202607/289271_261107_818_v150.jpg"
+      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260718021533544",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260718.87b2ca91f9714679bd9f369a79987dfc_R.jpg"
     }
   ]
 };
