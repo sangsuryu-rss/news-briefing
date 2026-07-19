@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.19 (일) 16:24",
+  "updatedAt": "2026.07.19 (일) 19:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "로이터 “삼성 美 가전법인, 텍사스 본사 이전 추진…739개 직무 영향\"",
-          "desc": "이에 대해 삼성전자는 \"현재 가전 사업 전반에 걸친 글로벌 구조조정은 진행하고 있지 않다\"고 선을 그었다. 한편 삼성전자의 IT 서비스 계열사인 삼성SDS 아메리카 역시 지난달 뉴저지 리지필드파크 사업장에서 북미 본사...",
-          "src": "joseilbo",
+          "title": "주차로봇·가전구독 … 재건축 단지로 눈돌린 기업들",
+          "desc": "현대자동차그룹 등 로보틱스 기업들은 정부가 아파트에 주차로봇을 설치할 수 있도록 규정 완화를 추진하며 주거지로 포트폴리오를 확장하고 있고, 삼성·LG전자를 비롯한 가전업계는 프리미엄 단지를 중심으로...",
+          "src": "매일경제",
           "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/123/0002386782?sid=004",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/009/0005709156?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/20/20260720_01110113000004_L00.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "테크M",
           "date": "07/19",
           "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
+          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
         },
         {
           "title": "TCL코리아, 메모리 대란에 TV·냉장고·세탁기 가격 내달 인상",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "분당서울대병원, 의료 AI 통합 모델 실증사업 착수",
-          "desc": "분당서울대병원은 사업을 통해 의료 AI 도입 6단계 온보딩 매뉴얼, 의료기관 AI 활용 성숙도 진단·평가 체계, AI 보안·윤리 거버넌스 등을 마련해 공개할 계획이라고 밝혔다. 분당서울대병원 전영태 원장은 \"기술을...",
-          "src": "lawissue",
+          "title": "김성경 한국농어촌공사 경기지역본부장 “안전은 타협할 수 없는 최우선...",
+          "desc": "점검 결과는 안전상황실에 집계돼 취약 현장을 선별 관리하고, 폭염기에는 기상청 데이터와 연계해 온열질환 예방에도 활용한다. 이 같은 AI 기술 도입으로 서류 작성 부담은 줄고 관리자가 현장을 직접 살피는 시간은...",
+          "src": "kyeonggi",
           "date": "07/19",
-          "url": "http://www.lawissue.co.kr/view.php?ud=20260719161919918f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260719161933036680f4ab64559d21096220114.jpg&nmt=12"
+          "url": "https://n.news.naver.com/mnews/article/666/0000115737?sid=101",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719580091.jpg?v=20260719192224"
         },
         {
-          "title": "분당서울대병원, 풀스택 의료 AI 구축 착수",
-          "desc": "사업책임자인 정세영 분당서울대병원 정보화실장은 \"의료 AI 활용의 병목은 기술이 아니라 도입 방식에 있다\"며 \"AICON은 표준 기반 공통 플랫폼 위에서 병원과 AI가 만나는 구조를 만들어 대형병원뿐 아니라 지역...",
-          "src": "전매신문",
+          "title": "영산대 한국어문화교육학과, AI 활용 교사양성 특별교육",
+          "desc": "영산대학교 한국어문화교육학과가 예비 한국어교사들의 디지털 교수역량을 강화하기 위해 생성형 AI를 활용... 최근 교육 현장 전반에 인공지능 기술이 빠르게 도입됨에 따라 한국어교육 분야에서도 AI 기반의 맞춤형...",
+          "src": "gnnews",
           "date": "07/19",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275527",
-          "img": "https://www.jeonmae.co.kr/news/thumbnail/202607/1275527_999420_5855_v150.jpg"
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=641276",
+          "img": "https://cdn.gnnews.co.kr/news/photo/202607/641276_441969_5124.jpg"
         },
         {
-          "title": "국산 NPU 주목… AI 주권 지킬 핵심으로 떠오르다",
-          "desc": "국내 기업에서는 이미 이러한 NPU를 적극적으로 활용하려는 움직임이 감지되고 있다. 최근 업스테이지와... 이러한 기술을 적극 도입해줄 것을 요청했다. 정부는 또한 '하이퍼-AI 네트워크' 구축에도 박차를 가하고...",
-          "src": "고코리아",
+          "title": "비트코인 양자 취약 코인 동결 논쟁…제로지식증명, 복구 해법 될까",
+          "desc": "이 방식은 ‘상위 키’가 존재해야 작동하는데, 해당 구조는 2012년 BIP-32 도입 이후에야 등장했다. 그 이전... 하지만 제로지식증명 기술을 활용하면, 실제 소유자가 자신의 권리를 증명해 다시 코인을 이동시킬 수 있는...",
+          "src": "tokenpost",
           "date": "07/19",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=872404",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872404_149592_915_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/379213",
+          "img": "https://f1.tokenpost.kr/2026/07/zxxymcm4di.webp"
         },
         {
-          "title": "분당서울대병원, ‘풀스택 의료 AI’ 통합 모델 구축 착수",
-          "desc": "이는 병원별로 개별 시스템을 구축하던 기존 방식과 달리, 표준화된 AI를 다양한 의료기관에서 공통 활용할 수 있도록 해 비용과 기술 장벽을 낮출 것으로 기대된다. 또한 사업을 통해 개발되는 의료 AI 도입 6단계...",
-          "src": "kgnews",
+          "title": "에너지 전환 속도전 본격화...RE100·AIDC가 산업 지형 다시 그린다",
+          "desc": "재생에너지 조달률 OECD 최하위권...제도 개선·특별법 도입, 기업 부담·기회 확대 탈탄소화·원전 수출·AI... (탄소포집·활용·저장) 등 신기술 도입 시 정부 지원을 받을 수 있게 됐다. 이는 단순한 규제가 아니라 산업...",
+          "src": "m-economynews",
           "date": "07/19",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=904303",
-          "img": ""
+          "url": "https://www.m-economynews.com/news/article.html?no=68869",
+          "img": "https://www.m-economynews.com/data/photos/20260729/art_17844551333505_1ffed5.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "주차로봇·가전구독 … 재건축 단지로 눈돌린 기업들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709156?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/20/20260720_01110113000004_L00.jpg"
+    },
+    {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
       "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
@@ -249,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
       "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
+      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
     },
     {
       "title": "TCL코리아, 메모리 대란에 TV·냉장고·세탁기 가격 내달 인상",
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2025/06/09/news-p.v1.20250609.b049d36883ca455290c4e37512a2997b_P1.jpg"
     },
     {
-      "title": "분당서울대병원, 의료 AI 통합 모델 실증사업 착수",
-      "url": "http://www.lawissue.co.kr/view.php?ud=20260719161919918f4ab64559d_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260719161933036680f4ab64559d21096220114.jpg&nmt=12"
+      "title": "김성경 한국농어촌공사 경기지역본부장 “안전은 타협할 수 없는 최우선...",
+      "url": "https://n.news.naver.com/mnews/article/666/0000115737?sid=101",
+      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719580091.jpg?v=20260719192224"
     },
     {
-      "title": "분당서울대병원, 풀스택 의료 AI 구축 착수",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275527",
-      "img": "https://www.jeonmae.co.kr/news/thumbnail/202607/1275527_999420_5855_v150.jpg"
-    },
-    {
-      "title": "국산 NPU 주목… AI 주권 지킬 핵심으로 떠오르다",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=872404",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872404_149592_915_v150.jpg"
+      "title": "영산대 한국어문화교육학과, AI 활용 교사양성 특별교육",
+      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=641276",
+      "img": "https://cdn.gnnews.co.kr/news/photo/202607/641276_441969_5124.jpg"
     }
   ]
 };
