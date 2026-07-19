@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 07:20",
+  "updatedAt": "2026.07.20 (월) 07:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,9 +31,9 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.83",
-        "diff": "+2.05",
-        "rate": "+2.51%",
+        "value": "83.89",
+        "diff": "+2.11",
+        "rate": "+2.58%",
         "dir": "up"
       },
       {
@@ -150,12 +150,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719231650044329a1f30943117511616074.jpg"
         },
         {
-          "title": "[인터뷰] 김대중 전남광주통합특별시교육감 \"교육이 지역 미래… 인재 ...",
-          "desc": "광주권은 AI 기반 맞춤형 학습을 강화하고 전남권은 디지털 기술을 활용한 농산어촌 특화 교육환경 조성에... 올해 지침 예고와 교원 연수를 통해 현장 기반을 마련하고 2027학년도부터 단계적으로 도입해 2032년 전면...",
-          "src": "newscj",
+          "title": "[더벨]KT, 팔란티어 손잡고 'AX 수익화 속도'",
+          "desc": "플랫폼 'AIP'를 활용해 데이터를 의미 단위로 연결하는 온톨로지를 구축하고 이를 기반으로 AI 에이전트를 구현했다. 이 과정에서는 팔란티어의 FDE가 멘토로 참여해 기술 멘토링과 협업을 지원한 것으로 전해진다....",
+          "src": "더벨",
           "date": "07/20",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3418128",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3418128_3526789_3155_v150.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607160903565680102986",
+          "img": ""
         }
       ]
     },
