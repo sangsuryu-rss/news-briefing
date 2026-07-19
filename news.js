@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 06:45",
+  "updatedAt": "2026.07.20 (월) 07:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.78",
-        "diff": "+3.50",
-        "rate": "+4.47%",
+        "value": "83.83",
+        "diff": "+2.05",
+        "rate": "+2.51%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,490.20",
-        "diff": "+1.70",
-        "rate": "+0.11%",
+        "value": "1,490.80",
+        "diff": "+2.30",
+        "rate": "+0.15%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.70",
-        "diff": "-0.53",
-        "rate": "-0.06%",
+        "value": "917.36",
+        "diff": "-0.87",
+        "rate": "-0.09%",
         "dir": "down"
       },
       {
@@ -86,12 +86,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
+          "desc": "◇QR코드 하나로 냉장고·커튼·보안장치 연결 주택 내부로 들어서자 냉장고와 에어컨, 공기청정기, TV 등 삼성전자 가전제품이 거실과 주방, 침실 곳곳에 배치돼 있었다. 겉보기에는 고급 단독주택의 일반적인 내부와...",
+          "src": "조선일보",
+          "date": "07/20",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/20/2026072000534.html",
+          "img": "https://image.chosun.com/sitedata/image/202607/20/2026072000533_0.jpg"
+        },
+        {
           "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
-          "desc": "가전·로보틱스 기업, 시장 선점나서 현대차, 주차·경비로봇 설명회 열어 삼성·LG전자도 고급가전 구독 공략 서울 압구정동 등에서 고급 아파트 재건축 사업이 본격화하며 주요 기업들이 공동주택으로 잇달아 사업...",
+          "desc": "입주민들은 냉장고와 세탁기, 건조기, 스타일러, 식기세척기 등 최대 7종의 가전을 구독 방식으로 선택할 수... 삼성전자도 스마트싱스 기반 AI 홈과 프리미엄 빌트인 가전을 앞세워 국내외 고급 주거시장 공략을...",
           "src": "매일경제",
           "date": "07/20",
           "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
           "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
+        },
+        {
+          "title": "[Who Is ?] 장동복 예스티 대표이사",
+          "desc": "이를 통해 스마트폰, 가전, 반도체 제조 기업 등 다양한 글로벌 고객사에 솔루션을 제공 중이다. 글로벌... 예스티의 실적 그래프 <비즈니스포스트> △삼성전자와 228억 원 규모 반도체 장비 공급 계약 체결 예스티가...",
+          "src": "비즈니스포스트",
+          "date": "07/20",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442294",
+          "img": ""
         },
         {
           "title": "[시대리포트]거실엔 로보락, 도로엔 BYD…우리 일상 파고든 중국 기술",
@@ -100,22 +116,6 @@ window.NEWS_DATA = {
           "date": "07/20",
           "url": "https://n.news.naver.com/mnews/article/417/0001152103?sid=101",
           "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
-        },
-        {
-          "title": "B2B 앞세워 소비침체 뚫는 가전 ‘투톱’",
-          "desc": "LG전자 제공 가전 강자인 삼성전자와 LG전자가 나란히 B2B 시장에 공을 들이는 이유는 ‘환경의 변화’가 자리한다. 세계적인 경기 침체로 인해 가전 수요는 나날이 감소하고 있다. 여기에 하이얼과 샤오미를 포함한...",
-          "src": "segye",
-          "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/022/0004144240?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/19/20260719513614.jpg"
-        },
-        {
-          "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
-          "desc": "◆치열해지는 무선 청소기 시장, 편리함으로 도전장 던진 로보락 드리미, 샤오미 등 중국 경쟁사들이 로봇... 무선청소기 라인업을 확대해 국내 시장에서의 입지를 견고히 다지겠다는 전략이다. 이에 맞서 삼성전자와...",
-          "src": "F투데이",
-          "date": "07/17",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AI&] AI·드론까지…극한 무더위에 진화하는 폭염 대응 外",
-          "desc": "인공지능과 드론 같은 첨단기술을 활용한 선제 대응부터 취약계층을 직접 찾아가는 맞춤형 보호까지, 폭염 대응도 진화하고 있습니다. 정지훈 기자입니다. ▶ 딸기 따고 도축까지…AI 로봇으로 농업 '첨단 진화' 갓 만든...",
-          "src": "연합뉴스TV",
+          "title": "‘3대 메가프로젝트’ 때문에 원전?…빈대 잡으려다 초가삼간 태울라",
+          "desc": "“전력수요 급증과 기저전원 안정화를 위한 신규 원전과 소형모듈원전(SMR) 도입 여부를 전문가 의견과... 자원을 활용해 전력공급이 가능하다”며 “특히 재생에너지와 원전에 ESS, 전력망 운영 기술을 효율적으로...",
+          "src": "한겨레",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/422/0000886677?sid=105",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260720064015mrn.jpg"
+          "url": "https://n.news.naver.com/mnews/article/036/0000053916?sid=102",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0716/20260716503508.jpg"
         },
         {
-          "title": "[비바100] 美·日 창고 지각변동, 로봇 100만대의 거침없는 역습",
-          "desc": "한국로봇산업진흥원은 최근 정책 동향 보고서를 통해 글로벌 물류로봇 시장의 무게중심이 ‘기술 실증’... 로봇 도입 계획이 전혀 없다는 응답은 지난해 9%에서 올해 3%로 떨어졌다. 로봇 활용이 보편적 과제로...",
-          "src": "브릿지경제",
+          "title": "충남대학교, 과기부 '2026 기초연구실지원사업' 4개 연구실 선정…미래...",
+          "desc": "센싱 기술이 요구하는 복합 전파 환경 해석 분야에 활용할 계획이다. 김우석 교수가 연구책임을 맡은 제설용 액체 염수로 인한 콘크리트 열화 AI 기반 해석 및 구조 성능 변화 탐지 방안 연구실에는 경북대 정유석...",
+          "src": "lecturernews",
           "date": "07/20",
-          "url": "https://www.viva100.com/article/20260718500179",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500172.jpg?v=20260720064516"
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=206568",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206568_474758_433_v150.jpg"
         },
         {
-          "title": "2040년 인간형 로봇 10억 대 시대… 인프라 패권이 승부처",
-          "desc": "그대로 활용할 수 있어 범용성이 뛰어나다. 소프트뱅크 측은 휴머노이드 1대가 10명의 노동력을 대체할 수... 전문가들은 향후 로봇 도입 경쟁이 기술 그 자체보다 에너지와 자본 그리고 데이터를 얼마나 효율적으로...",
+          "title": "MS, 코파일럿 2000만 돌파…AI에 1900억달러 투자",
+          "desc": "사티아 나델라 MS 최고경영자는 AI 에이전트가 확산하면서 기술 체계 전반을 바꾸는 새로운 플랫폼 전환이... 기존 마이크로소프트365 고객이 별도의 업무용 소프트웨어를 도입하지 않고 AI 에이전트를 활용할 수...",
           "src": "g-enews",
           "date": "07/20",
-          "url": "https://www.g-enews.com/view.php?ud=2026072006213919352bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260720062250065862bd56fbc3c21121419978.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026071922573558889a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719231650044329a1f30943117511616074.jpg"
         },
         {
-          "title": "“병원 경보 전에 잡는다”… AI, 차세대 팬데믹 예측 게임 체인저 부상",
-          "desc": "인공지능(AI) 기술이 전 세계 공중보건의 유일한 자강론적 예방 통제 무기로 부상하고 있다. 병원이나... 이후 과학계는 사람, 동물, 생태계의 건강을 통합 관리하는 ‘원 헬스(One Health)’ 개념에 AI 머신러닝을 활용해...",
-          "src": "g-enews",
+          "title": "[인터뷰] 김대중 전남광주통합특별시교육감 \"교육이 지역 미래… 인재 ...",
+          "desc": "광주권은 AI 기반 맞춤형 학습을 강화하고 전남권은 디지털 기술을 활용한 농산어촌 특화 교육환경 조성에... 올해 지침 예고와 교원 연수를 통해 현장 기반을 마련하고 2027학년도부터 단계적으로 도입해 2032년 전면...",
+          "src": "newscj",
           "date": "07/20",
-          "url": "https://www.g-enews.com/view.php?ud=2026071923244552030c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719232625054990c8c1c064d22114611240.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3418128",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3418128_3526789_3155_v150.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/20/2026072000534.html",
+      "img": "https://image.chosun.com/sitedata/image/202607/20/2026072000533_0.jpg"
+    },
+    {
       "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
       "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
       "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
@@ -252,24 +257,19 @@ window.NEWS_DATA = {
       "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
     },
     {
-      "title": "B2B 앞세워 소비침체 뚫는 가전 ‘투톱’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004144240?sid=101",
-      "img": "https://www.segye.com/content/image/2026/07/19/20260719513614.jpg"
+      "title": "‘3대 메가프로젝트’ 때문에 원전?…빈대 잡으려다 초가삼간 태울라",
+      "url": "https://n.news.naver.com/mnews/article/036/0000053916?sid=102",
+      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0716/20260716503508.jpg"
     },
     {
-      "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
+      "title": "충남대학교, 과기부 '2026 기초연구실지원사업' 4개 연구실 선정…미래...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=206568",
+      "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206568_474758_433_v150.jpg"
     },
     {
-      "title": "[AI&] AI·드론까지…극한 무더위에 진화하는 폭염 대응 外",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886677?sid=105",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260720064015mrn.jpg"
-    },
-    {
-      "title": "[비바100] 美·日 창고 지각변동, 로봇 100만대의 거침없는 역습",
-      "url": "https://www.viva100.com/article/20260718500179",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500172.jpg?v=20260720064516"
+      "title": "MS, 코파일럿 2000만 돌파…AI에 1900억달러 투자",
+      "url": "https://www.g-enews.com/view.php?ud=2026071922573558889a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719231650044329a1f30943117511616074.jpg"
     }
   ]
 };
