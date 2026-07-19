@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 02:53",
+  "updatedAt": "2026.07.20 (월) 06:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-18",
+    "asOf": "2026-07-20",
     "items": [
       {
         "label": "LME 구리",
@@ -39,17 +39,17 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,490.00",
-        "diff": "+1.50",
-        "rate": "+0.10%",
+        "value": "1,490.20",
+        "diff": "+1.70",
+        "rate": "+0.11%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.35",
-        "diff": "-0.88",
-        "rate": "-0.10%",
+        "value": "917.70",
+        "diff": "-0.53",
+        "rate": "-0.06%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.47",
-        "diff": "+0.01",
-        "rate": "+0.06%",
+        "value": "15.48",
+        "diff": "+0.02",
+        "rate": "+0.13%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘뇌 이식’ 뉴럴링크, K-기술 리더십이 주도",
-          "desc": "이를 통해 텔레비전이나 공기청정기 같은 스마트 가전까지 생각만으로 제어할 수 있게 됐다. 이후... 삼성전자 ‘원스톱 턴키’ 수주 이러한 한국계 리더십의 기술적 방향성은 생산 파트에서 국내 반도체 거인인...",
-          "src": "fntimes",
+          "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
+          "desc": "가전·로보틱스 기업, 시장 선점나서 현대차, 주차·경비로봇 설명회 열어 삼성·LG전자도 고급가전 구독 공략 서울 압구정동 등에서 고급 아파트 재건축 사업이 본격화하며 주요 기업들이 공동주택으로 잇달아 사업...",
+          "src": "매일경제",
           "date": "07/20",
-          "url": "https://www.fntimes.com/html/view.php?ud=202607162304368031dd55077bc2_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260716230517006040dd55077bc212411124362.jpg&nmt=18"
+          "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
+        },
+        {
+          "title": "[시대리포트]거실엔 로보락, 도로엔 BYD…우리 일상 파고든 중국 기술",
+          "desc": "최근 결혼한 직장인 유주경씨(32)는 \"냉장고나 세탁기는 삼성전자 패키지로 맞췄지만 로봇청소기만큼은 중국산이 국산보다 낫다는 얘기가 많아서 로보락을 골랐다\"며 \"신제품 출시 주기가 빠르고 기능도 다양하다\"고...",
+          "src": "sidae",
+          "date": "07/20",
+          "url": "https://n.news.naver.com/mnews/article/417/0001152103?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
+        },
+        {
+          "title": "B2B 앞세워 소비침체 뚫는 가전 ‘투톱’",
+          "desc": "LG전자 제공 가전 강자인 삼성전자와 LG전자가 나란히 B2B 시장에 공을 들이는 이유는 ‘환경의 변화’가 자리한다. 세계적인 경기 침체로 인해 가전 수요는 나날이 감소하고 있다. 여기에 하이얼과 샤오미를 포함한...",
+          "src": "segye",
+          "date": "07/20",
+          "url": "https://n.news.naver.com/mnews/article/022/0004144240?sid=101",
+          "img": "https://www.segye.com/content/image/2026/07/19/20260719513614.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -100,22 +116,6 @@ window.NEWS_DATA = {
           "date": "07/17",
           "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
           "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
-        },
-        {
-          "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
-          "desc": "삼성전자는 사우디아라비아 8개 도시 모스크 100곳에 HVAC 설루션 1000대를 공급한다/사진=삼성전자 제공... 구역에 따라 ▲냉장고 ▲세탁기 ▲건조기 ▲의류관리기 ▲식기세척기 등 5~7종을 선택할 수 있다....",
-          "src": "테크M",
-          "date": "07/19",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
-        },
-        {
-          "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
-          "desc": "삼성전자의 대규모 고객 환원 행사가 가전 판매 급증으로 이어지면서 대유위니아 계열사 파산 등으로... 냉장고와 세탁기, 에어컨, TV 등 생활가전은 물론 스마트폰까지 판매가 크게 늘면서 일부 인기 제품은 품절될...",
-          "src": "kwangju",
-          "date": "07/19",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
-          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
-          "desc": "세일은 AI 프로그램을 통해 전우 칩의 연산 성능을 최대한 활용하도록 지원하는 소프트웨어다. 티헤드 측은 이번 오픈소스 공개가 자사의 하드웨어를 도입하려는 전 세계 개발자들의 진입 장벽을 낮추기 위한...",
-          "src": "tfmedia",
+          "title": "[AI&] AI·드론까지…극한 무더위에 진화하는 폭염 대응 外",
+          "desc": "인공지능과 드론 같은 첨단기술을 활용한 선제 대응부터 취약계층을 직접 찾아가는 맞춤형 보호까지, 폭염 대응도 진화하고 있습니다. 정지훈 기자입니다. ▶ 딸기 따고 도축까지…AI 로봇으로 농업 '첨단 진화' 갓 만든...",
+          "src": "연합뉴스TV",
           "date": "07/20",
-          "url": "https://www.tfmedia.co.kr/news/article.html?no=205851",
-          "img": "https://www.tfmedia.co.kr/data/photos/20260730/art_17844775989533_fbd81b.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000886677?sid=105",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260720064015mrn.jpg"
         },
         {
-          "title": "입구엔 3m 변신 로봇, 옆엔 중국산 AI칩 수천장 묶은 ‘수퍼포드’",
-          "desc": "글로벌 AI 규칙과 기술 표준을 주도하겠다는 의지를 밝혔다. 20일 폐막일까지 중국 AI 공급망을 관통하는... 완료된 AI모델의 핵심 가중치를 공개해 누구나 내려받아 활용할 수 있는 방식) 모델로, 독립 평가기관 종합...",
-          "src": "조선일보",
+          "title": "[비바100] 美·日 창고 지각변동, 로봇 100만대의 거침없는 역습",
+          "desc": "한국로봇산업진흥원은 최근 정책 동향 보고서를 통해 글로벌 물류로봇 시장의 무게중심이 ‘기술 실증’... 로봇 도입 계획이 전혀 없다는 응답은 지난해 9%에서 올해 3%로 떨어졌다. 로봇 활용이 보편적 과제로...",
+          "src": "브릿지경제",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/023/0003988470?sid=104",
-          "img": "https://www.chosun.com/resizer/v2/5ZURLVOSHRFQHCN5JGPC3VPK5A.jpg?auth=9620222ea4459cb8b5f8a4e524d3f77bbaddd2c67d5c64a8ac031a0fae361fe7&width=1200&height=630&smart=true"
+          "url": "https://www.viva100.com/article/20260718500179",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500172.jpg?v=20260720064516"
         },
         {
-          "title": "글로싸인, 전자서명 API 패키지 선보여",
-          "desc": "전면에 도입했다. Cursor, Claude Code 등 AI 에이전트를 활용해 글로싸인 API로 전자서명 기능을 개발해 줘와... 관계자는 \"경쟁사들이 시도하지 않은 AI 최적화 연동 기술을 통해 독점적 기술 우위를 입증하는 동시에...",
-          "src": "technoa",
+          "title": "2040년 인간형 로봇 10억 대 시대… 인프라 패권이 승부처",
+          "desc": "그대로 활용할 수 있어 범용성이 뛰어나다. 소프트뱅크 측은 휴머노이드 1대가 10명의 노동력을 대체할 수... 전문가들은 향후 로봇 도입 경쟁이 기술 그 자체보다 에너지와 자본 그리고 데이터를 얼마나 효율적으로...",
+          "src": "g-enews",
           "date": "07/20",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101164",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026072006213919352bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260720062250065862bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "'배움에서 취업·정주까지' 강원형 인재 함께 키운다",
-          "desc": "LRS를 도입했다. 학생들은 자신의 강의 시청 시간과 출석률, 과제 제출 현황, 평균 점수 등을 실시간으로 확인하며 자기주도 학습을 할 수 있다. 교수들은 AI와 축적된 학습 데이터를 활용해 학습 부진 학생을 조기에...",
-          "src": "kado",
+          "title": "“병원 경보 전에 잡는다”… AI, 차세대 팬데믹 예측 게임 체인저 부상",
+          "desc": "인공지능(AI) 기술이 전 세계 공중보건의 유일한 자강론적 예방 통제 무기로 부상하고 있다. 병원이나... 이후 과학계는 사람, 동물, 생태계의 건강을 통합 관리하는 ‘원 헬스(One Health)’ 개념에 AI 머신러닝을 활용해...",
+          "src": "g-enews",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/654/0000190966?sid=100",
-          "img": "https://cdn.kado.net/news/photo/202607/2061867_869597_1820.png"
+          "url": "https://www.g-enews.com/view.php?ud=2026071923244552030c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719232625054990c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -242,9 +242,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘뇌 이식’ 뉴럴링크, K-기술 리더십이 주도",
-      "url": "https://www.fntimes.com/html/view.php?ud=202607162304368031dd55077bc2_18",
-      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260716230517006040dd55077bc212411124362.jpg&nmt=18"
+      "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
+    },
+    {
+      "title": "[시대리포트]거실엔 로보락, 도로엔 BYD…우리 일상 파고든 중국 기술",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152103?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
+    },
+    {
+      "title": "B2B 앞세워 소비침체 뚫는 가전 ‘투톱’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004144240?sid=101",
+      "img": "https://www.segye.com/content/image/2026/07/19/20260719513614.jpg"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -252,24 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
     },
     {
-      "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
+      "title": "[AI&] AI·드론까지…극한 무더위에 진화하는 폭염 대응 外",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886677?sid=105",
+      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260720064015mrn.jpg"
     },
     {
-      "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
-      "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
-      "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
-    },
-    {
-      "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=205851",
-      "img": "https://www.tfmedia.co.kr/data/photos/20260730/art_17844775989533_fbd81b.jpg"
-    },
-    {
-      "title": "입구엔 3m 변신 로봇, 옆엔 중국산 AI칩 수천장 묶은 ‘수퍼포드’",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988470?sid=104",
-      "img": "https://www.chosun.com/resizer/v2/5ZURLVOSHRFQHCN5JGPC3VPK5A.jpg?auth=9620222ea4459cb8b5f8a4e524d3f77bbaddd2c67d5c64a8ac031a0fae361fe7&width=1200&height=630&smart=true"
+      "title": "[비바100] 美·日 창고 지각변동, 로봇 100만대의 거침없는 역습",
+      "url": "https://www.viva100.com/article/20260718500179",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500172.jpg?v=20260720064516"
     }
   ]
 };
