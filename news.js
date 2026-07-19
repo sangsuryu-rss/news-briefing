@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.19 (일) 13:18",
+  "updatedAt": "2026.07.19 (일) 16:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
-          "desc": "삼성전자는 HVAC을 가전 사업 활로로 여기고 있다. 삼성전자는 작년 독일 플랙트그룹을 인수했다. HVAC 사업 기업(B2B) 확장을 위해서다. 삼성전자는 지난 6월 사우디아라비아 고루스 채리티와 업무협약(MOU)을 체결했다....",
-          "src": "테크M",
+          "title": "로이터 “삼성 美 가전법인, 텍사스 본사 이전 추진…739개 직무 영향\"",
+          "desc": "이에 대해 삼성전자는 \"현재 가전 사업 전반에 걸친 글로벌 구조조정은 진행하고 있지 않다\"고 선을 그었다. 한편 삼성전자의 IT 서비스 계열사인 삼성SDS 아메리카 역시 지난달 뉴저지 리지필드파크 사업장에서 북미 본사...",
+          "src": "joseilbo",
           "date": "07/19",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/123/0002386782?sid=004",
+          "img": ""
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
         },
         {
-          "title": "삼성전자, 사우디 모스크 100곳에 맞춤형 HVAC 솔루션 공급",
-          "desc": "임성택 삼성전자 디지털가전(DA)사업부 부사장은 “이번 공급은 예배 공간의 특성과 현지 문화를 반영한 맞춤형 HVAC 솔루션 경쟁력을 입증한 사례”라며 “앞으로도 지역별 환경과 고객 수요를 반영한 다양한 HVAC...",
-          "src": "socialvalue",
+          "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
+          "desc": "삼성전자는 사우디아라비아 8개 도시 모스크 100곳에 HVAC 설루션 1000대를 공급한다/사진=삼성전자 제공... 구역에 따라 ▲냉장고 ▲세탁기 ▲건조기 ▲의류관리기 ▲식기세척기 등 5~7종을 선택할 수 있다....",
+          "src": "테크M",
           "date": "07/19",
-          "url": "https://www.socialvalue.kr/news/view/1065579744831568",
-          "img": "http://www.socialvalue.kr/news/data/20260719/p1065579744831568_896_thum.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
+          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
         },
         {
-          "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
-          "desc": "2000억원 가운데 삼성전자는 1500억원을 출연할 계획이며, 삼성미소금융재단을 운영하는 ▲삼성생명... 대표 행사상품은 다이슨 ‘스팟앤스크럽 로봇 청소기’로, 오는 19일까지 6월 대비 20% 할인한 99만원에 제공....",
-          "src": "topdaily",
-          "date": "07/16",
-          "url": "https://www.topdaily.kr/articles/111035",
-          "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
+          "title": "TCL코리아, 메모리 대란에 TV·냉장고·세탁기 가격 내달 인상",
+          "desc": "TCL코리아는 내달 1일부터 TV 전 라인업과 냉장고·세탁기 일부 제품 가격을 인상한다. 이달 말(7월 31일)... 소폭 인상에도 삼성전자와 LG전자 등 국내 기업이 반사이익을 얻을 수 있다는 관측이 제기된다. TCL이 보유한...",
+          "src": "전자신문",
+          "date": "07/19",
+          "url": "https://n.news.naver.com/mnews/article/030/0003448826?sid=105",
+          "img": "https://img.etnews.com/news/article/2025/06/09/news-p.v1.20250609.b049d36883ca455290c4e37512a2997b_P1.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인천공항공사, 'AI 대전환' 속도…자율주행 로봇·생성형 AI로 공항 혁신...",
-          "desc": "약 40명의 직원이 참여하는 해당 협의체는 현장 문제를 AI 기술로 해결하는 프로젝트를 수행하며 공사 내 AI 활용 문화 확산을 이끌고 있다. 김범호 인천국제공항공사 사장직무대행은 \"AX는 단순한 기술 도입을 넘어...",
-          "src": "megaeconomy",
+          "title": "분당서울대병원, 의료 AI 통합 모델 실증사업 착수",
+          "desc": "분당서울대병원은 사업을 통해 의료 AI 도입 6단계 온보딩 매뉴얼, 의료기관 AI 활용 성숙도 진단·평가 체계, AI 보안·윤리 거버넌스 등을 마련해 공개할 계획이라고 밝혔다. 분당서울대병원 전영태 원장은 \"기술을...",
+          "src": "lawissue",
           "date": "07/19",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586173834489",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260719/p1065586173834489_284_thum.jpg"
+          "url": "http://www.lawissue.co.kr/view.php?ud=20260719161919918f4ab64559d_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260719161933036680f4ab64559d21096220114.jpg&nmt=12"
         },
         {
-          "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-          "desc": "협상에 의한 계약 방식으로 추진되며, 기술평가 90점, 가격평가 10점의 비율로 사업자를 선정할 계획이다. 주요 내용은 출판도시 현황 진단 및 전환 비전 수립을 비롯해 △공간-콘텐츠-기업-인재 육성 전략 마련 △AI...",
-          "src": "ekn",
+          "title": "분당서울대병원, 풀스택 의료 AI 구축 착수",
+          "desc": "사업책임자인 정세영 분당서울대병원 정보화실장은 \"의료 AI 활용의 병목은 기술이 아니라 도입 방식에 있다\"며 \"AICON은 표준 기반 공통 플랫폼 위에서 병원과 AI가 만나는 구조를 만들어 대형병원뿐 아니라 지역...",
+          "src": "전매신문",
           "date": "07/19",
-          "url": "https://www.ekn.kr/web/view.php?key=20260719026243672",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260719.4e0944f0afb942219891f3d1c8eaa770_R.jpg"
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275527",
+          "img": "https://www.jeonmae.co.kr/news/thumbnail/202607/1275527_999420_5855_v150.jpg"
         },
         {
-          "title": "노동부 \"2026 국민내일배움카드 우수사례 수기·영상 공모전 개최\"",
-          "desc": "응모 대상은 국민내일배움카드를 활용해 취·창업, 이직 등에 성공한 국민이며, 응모 방법은 수기 또는... 있다\"며 \"AI와 같은 첨단 기술이 빠르게 도입되는 산업 전환기에는 노동자들이 새로운 역량을 습득해 경쟁력을...",
-          "src": "m-i",
+          "title": "국산 NPU 주목… AI 주권 지킬 핵심으로 떠오르다",
+          "desc": "국내 기업에서는 이미 이러한 NPU를 적극적으로 활용하려는 움직임이 감지되고 있다. 최근 업스테이지와... 이러한 기술을 적극 도입해줄 것을 요청했다. 정부는 또한 '하이퍼-AI 네트워크' 구축에도 박차를 가하고...",
+          "src": "고코리아",
           "date": "07/19",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392684",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392684_1180324_257_v150.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=872404",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872404_149592_915_v150.jpg"
         },
         {
-          "title": "금융감독원, AX 실행 로드맵 구축한다…전략 수립 '착수'",
-          "desc": "금감원 관계자는 “최근 AI 기술이 빠르게 발전하면서 AI 적절한 도입과 활용이 미래 경쟁력을 좌우하는 핵심 요소로 급부상하고 있다”며 “이미 민간 영역에서는 업종을 막론하고 전방위적인 AI 도입·활용이...",
-          "src": "전자신문",
+          "title": "분당서울대병원, ‘풀스택 의료 AI’ 통합 모델 구축 착수",
+          "desc": "이는 병원별로 개별 시스템을 구축하던 기존 방식과 달리, 표준화된 AI를 다양한 의료기관에서 공통 활용할 수 있도록 해 비용과 기술 장벽을 낮출 것으로 기대된다. 또한 사업을 통해 개발되는 의료 AI 도입 6단계...",
+          "src": "kgnews",
           "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/030/0003448781?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.6c544bbdaf234590b4b92c372fa585ea_P2.jpg"
+          "url": "https://www.kgnews.co.kr/news/article.html?no=904303",
+          "img": ""
         }
       ]
     },
@@ -235,41 +235,41 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
-      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
-    },
-    {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
       "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
     },
     {
-      "title": "삼성전자, 사우디 모스크 100곳에 맞춤형 HVAC 솔루션 공급",
-      "url": "https://www.socialvalue.kr/news/view/1065579744831568",
-      "img": "http://www.socialvalue.kr/news/data/20260719/p1065579744831568_896_thum.jpg"
+      "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
+      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
     },
     {
-      "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
-      "url": "https://www.topdaily.kr/articles/111035",
-      "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
+      "title": "TCL코리아, 메모리 대란에 TV·냉장고·세탁기 가격 내달 인상",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448826?sid=105",
+      "img": "https://img.etnews.com/news/article/2025/06/09/news-p.v1.20250609.b049d36883ca455290c4e37512a2997b_P1.jpg"
     },
     {
-      "title": "인천공항공사, 'AI 대전환' 속도…자율주행 로봇·생성형 AI로 공항 혁신...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586173834489",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260719/p1065586173834489_284_thum.jpg"
+      "title": "분당서울대병원, 의료 AI 통합 모델 실증사업 착수",
+      "url": "http://www.lawissue.co.kr/view.php?ud=20260719161919918f4ab64559d_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260719161933036680f4ab64559d21096220114.jpg&nmt=12"
     },
     {
-      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260719026243672",
-      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260719.4e0944f0afb942219891f3d1c8eaa770_R.jpg"
+      "title": "분당서울대병원, 풀스택 의료 AI 구축 착수",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275527",
+      "img": "https://www.jeonmae.co.kr/news/thumbnail/202607/1275527_999420_5855_v150.jpg"
+    },
+    {
+      "title": "국산 NPU 주목… AI 주권 지킬 핵심으로 떠오르다",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=872404",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/872404_149592_915_v150.jpg"
     }
   ]
 };
