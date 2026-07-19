@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.19 (일) 23:21",
+  "updatedAt": "2026.07.20 (월) 02:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
-          "desc": "특히 현재 3000여명이 근무 중인 삼성전자 광주사업장은 지역 가전산업을 지탱하는 핵심 생산기지로서 존재감을 키우고 있다. 광주시와 지역 산업계에 따르면 광주사업장을 중심으로 한 호남권 협력업체는 80여개, 연관...",
-          "src": "kwangju",
-          "date": "07/19",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
-          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
+          "title": "‘뇌 이식’ 뉴럴링크, K-기술 리더십이 주도",
+          "desc": "이를 통해 텔레비전이나 공기청정기 같은 스마트 가전까지 생각만으로 제어할 수 있게 됐다. 이후... 삼성전자 ‘원스톱 턴키’ 수주 이러한 한국계 리더십의 기술적 방향성은 생산 파트에서 국내 반도체 거인인...",
+          "src": "fntimes",
+          "date": "07/20",
+          "url": "https://www.fntimes.com/html/view.php?ud=202607162304368031dd55077bc2_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260716230517006040dd55077bc212411124362.jpg&nmt=18"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
         },
         {
-          "title": "\"바캉스·홈캉스 준비, 이마트서 하세요\"",
-          "desc": "19일 이마트에 따르면 22일까지 '홈캉스&바캉스 여름 특가전'을 펼친다. 우선 맥주와 위스키 등 주류... 삼성전자, LG전자 멀티 에어컨 구매 시 10개월 무이자 할부 혜택과 함께 이마티콘 5만원도 추가 증정한다. 이밖에...",
-          "src": "hidomin",
+          "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
+          "desc": "삼성전자의 대규모 고객 환원 행사가 가전 판매 급증으로 이어지면서 대유위니아 계열사 파산 등으로... 냉장고와 세탁기, 에어컨, TV 등 생활가전은 물론 스마트폰까지 판매가 크게 늘면서 일부 인기 제품은 품절될...",
+          "src": "kwangju",
           "date": "07/19",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=713822",
-          "img": "https://cdn.hidomin.com/news/photo/202607/713822_415476_4524.jpg"
+          "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
+          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[특파원 칼럼/김철중]AI-로봇 굴기 앞세우는 中의 역설",
-          "desc": "AI를 활용한 제작물이었다. 반면 실제 배우들이 동원되는 실사 촬영은 70% 가까이 줄었다. AI 도입으로... ‘피지컬 AI’를 국가 전략 미래 산업의 핵심 과제로 올려놨다. 중국이 AI 기술을 불과 수년 만에 미국도 경계할 만한...",
-          "src": "동아일보",
-          "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/020/0003734885?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/19/134325064.1.png"
+          "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
+          "desc": "세일은 AI 프로그램을 통해 전우 칩의 연산 성능을 최대한 활용하도록 지원하는 소프트웨어다. 티헤드 측은 이번 오픈소스 공개가 자사의 하드웨어를 도입하려는 전 세계 개발자들의 진입 장벽을 낮추기 위한...",
+          "src": "tfmedia",
+          "date": "07/20",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=205851",
+          "img": "https://www.tfmedia.co.kr/data/photos/20260730/art_17844775989533_fbd81b.jpg"
         },
         {
-          "title": "인천공항공사, AX 가속…피지컬 AI 로봇 현장 적용 확대",
-          "desc": "기술 도입과 함께 조직문화 혁신도 병행한다. 공사는 경영진부터 AI를 적극 활용하는 문화를 조성하고자 관리자 대상 AX 리더십 프로그램을 운영 중이다. 이날 워크숍에서는 복잡한 프로그래밍 언어 대신 자연어로...",
-          "src": "electimes",
-          "date": "07/19",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370417",
-          "img": "https://cdn.electimes.com/news/thumbnail/202607/370417_583060_727_v150.jpg"
+          "title": "입구엔 3m 변신 로봇, 옆엔 중국산 AI칩 수천장 묶은 ‘수퍼포드’",
+          "desc": "글로벌 AI 규칙과 기술 표준을 주도하겠다는 의지를 밝혔다. 20일 폐막일까지 중국 AI 공급망을 관통하는... 완료된 AI모델의 핵심 가중치를 공개해 누구나 내려받아 활용할 수 있는 방식) 모델로, 독립 평가기관 종합...",
+          "src": "조선일보",
+          "date": "07/20",
+          "url": "https://n.news.naver.com/mnews/article/023/0003988470?sid=104",
+          "img": "https://www.chosun.com/resizer/v2/5ZURLVOSHRFQHCN5JGPC3VPK5A.jpg?auth=9620222ea4459cb8b5f8a4e524d3f77bbaddd2c67d5c64a8ac031a0fae361fe7&width=1200&height=630&smart=true"
         },
         {
-          "title": "AI가 흔든 온라인 신뢰… 해법으로 떠오른 ZK 검증",
-          "desc": "금융·의료·커머스 등 고위험 영역에서는 ZK 기반 검증 레이어 도입이 규제 대응과 동시에 리스크 관리... 독립적 AI 시스템 프라이버시 강화 기술(PET): 개인정보 노출 없이 데이터 활용을 가능하게 하는 암호 기술 집합...",
-          "src": "tokenpost",
-          "date": "07/19",
-          "url": "https://www.tokenpost.kr/news/ai/379246",
-          "img": "https://f1.tokenpost.kr/2026/07/qkka84q9wd.webp"
+          "title": "글로싸인, 전자서명 API 패키지 선보여",
+          "desc": "전면에 도입했다. Cursor, Claude Code 등 AI 에이전트를 활용해 글로싸인 API로 전자서명 기능을 개발해 줘와... 관계자는 \"경쟁사들이 시도하지 않은 AI 최적화 연동 기술을 통해 독점적 기술 우위를 입증하는 동시에...",
+          "src": "technoa",
+          "date": "07/20",
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101164",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
-          "title": "한국마사회, 농식품 스타트업 박람회서 AI 말산업 혁신 공개…동물복지...",
-          "desc": "도입돼 종마 활동을 이어가고 있는 '닉스고'를 활용한 콘텐츠를 비롯해 경마를 넘어 지식재산(IP) 기반 콘텐츠 산업으로 확장되는 말산업의 미래 비전을 소개했다. AIㆍ증강현실 활용한 유기동물 입양 지원 기술 등...",
-          "src": "youngnong",
-          "date": "07/19",
-          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61011",
-          "img": "http://cdn.youngnong.co.kr/news/photo/202607/61011_52531_514.jpg"
+          "title": "'배움에서 취업·정주까지' 강원형 인재 함께 키운다",
+          "desc": "LRS를 도입했다. 학생들은 자신의 강의 시청 시간과 출석률, 과제 제출 현황, 평균 점수 등을 실시간으로 확인하며 자기주도 학습을 할 수 있다. 교수들은 AI와 축적된 학습 데이터를 활용해 학습 부진 학생을 조기에...",
+          "src": "kado",
+          "date": "07/20",
+          "url": "https://n.news.naver.com/mnews/article/654/0000190966?sid=100",
+          "img": "https://cdn.kado.net/news/photo/202607/2061867_869597_1820.png"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
-      "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
-      "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
+      "title": "‘뇌 이식’ 뉴럴링크, K-기술 리더십이 주도",
+      "url": "https://www.fntimes.com/html/view.php?ud=202607162304368031dd55077bc2_18",
+      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260716230517006040dd55077bc212411124362.jpg&nmt=18"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216659_22_v150.jpg"
     },
     {
-      "title": "\"바캉스·홈캉스 준비, 이마트서 하세요\"",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=713822",
-      "img": "https://cdn.hidomin.com/news/photo/202607/713822_415476_4524.jpg"
+      "title": "광주 가전산업, ‘삼성발 훈풍’에 활기가 돈다",
+      "url": "http://www.kwangju.co.kr/article.php?aid=1784463600801364005",
+      "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801364.jpeg"
     },
     {
-      "title": "[특파원 칼럼/김철중]AI-로봇 굴기 앞세우는 中의 역설",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734885?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/19/134325064.1.png"
+      "title": "中알리바바, AI칩 소프트웨어 무료 공개…엔비디아 쿠다 대항마",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=205851",
+      "img": "https://www.tfmedia.co.kr/data/photos/20260730/art_17844775989533_fbd81b.jpg"
     },
     {
-      "title": "인천공항공사, AX 가속…피지컬 AI 로봇 현장 적용 확대",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=370417",
-      "img": "https://cdn.electimes.com/news/thumbnail/202607/370417_583060_727_v150.jpg"
+      "title": "입구엔 3m 변신 로봇, 옆엔 중국산 AI칩 수천장 묶은 ‘수퍼포드’",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988470?sid=104",
+      "img": "https://www.chosun.com/resizer/v2/5ZURLVOSHRFQHCN5JGPC3VPK5A.jpg?auth=9620222ea4459cb8b5f8a4e524d3f77bbaddd2c67d5c64a8ac031a0fae361fe7&width=1200&height=630&smart=true"
     }
   ]
 };
