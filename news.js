@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.19 (일) 06:44",
+  "updatedAt": "2026.07.19 (일) 13:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,28 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "냉장고까지 번진 ‘AI 통행세’…가전 할인 줄고 가격 오르나",
-          "desc": "삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 올해 들어 두 번째로 인상했다. 생활가전(DA) 제품 자재비는 평균 9%, 모바일 제품은 평균 5% 올랐다. 냉장고는 부품 1개당 평균 3000원, 에어컨은 8000원...",
-          "src": "kukinews",
+          "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
+          "desc": "삼성전자는 HVAC을 가전 사업 활로로 여기고 있다. 삼성전자는 작년 독일 플랙트그룹을 인수했다. HVAC 사업 기업(B2B) 확장을 위해서다. 삼성전자는 지난 6월 사우디아라비아 고루스 채리티와 업무협약(MOU)을 체결했다....",
+          "src": "테크M",
           "date": "07/19",
-          "url": "https://www.kukinews.com/article/view/kuk202607160177",
-          "img": ""
-        },
-        {
-          "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
-          "desc": "이 주택은 공간제작소가 최근 삼성전자와 협업해 선보인 목조 모듈러주택이다. 주택 설계 정보를 공간제작소 공장 생산설비에 입력하면 로봇이 목재를 절단하고 벽체와 지붕 구조체를 제작한다. 창호와 단열재, 전기...",
-          "src": "조선일보",
-          "date": "07/19",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/16/2026071603113.html",
-          "img": "https://image.chosun.com/sitedata/image/202607/16/2026071603109_0.jpg"
-        },
-        {
-          "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
-          "desc": "도밍게스 주지사는 생산 라인 견학을 통해 냉장고, 세탁기, 건조기 등 프리미엄 생활가전의 제조 및 조립 공정을 직접 점검하며 삼성전자가 지역 경제 발전에 기여한 공로를 높이 평가했다. 김완수 삼성전자 케레타로...",
-          "src": "g-enews",
-          "date": "07/17",
-          "url": "https://www.g-enews.com/view.php?ud=2026071708404868400c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
+          "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
         },
         {
           "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -116,6 +100,22 @@ window.NEWS_DATA = {
           "date": "07/17",
           "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362180",
           "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
+        },
+        {
+          "title": "삼성전자, 사우디 모스크 100곳에 맞춤형 HVAC 솔루션 공급",
+          "desc": "임성택 삼성전자 디지털가전(DA)사업부 부사장은 “이번 공급은 예배 공간의 특성과 현지 문화를 반영한 맞춤형 HVAC 솔루션 경쟁력을 입증한 사례”라며 “앞으로도 지역별 환경과 고객 수요를 반영한 다양한 HVAC...",
+          "src": "socialvalue",
+          "date": "07/19",
+          "url": "https://www.socialvalue.kr/news/view/1065579744831568",
+          "img": "http://www.socialvalue.kr/news/data/20260719/p1065579744831568_896_thum.jpg"
+        },
+        {
+          "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
+          "desc": "2000억원 가운데 삼성전자는 1500억원을 출연할 계획이며, 삼성미소금융재단을 운영하는 ▲삼성생명... 대표 행사상품은 다이슨 ‘스팟앤스크럽 로봇 청소기’로, 오는 19일까지 6월 대비 20% 할인한 99만원에 제공....",
+          "src": "topdaily",
+          "date": "07/16",
+          "url": "https://www.topdaily.kr/articles/111035",
+          "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"K-NPU 써본 후 도입\"…퓨리오사AI, 유럽서 '풀스택 실증 전략' 속도",
-          "desc": "데이터센터에도 도입 문턱을 낮췄다는 평가다. 오픈소스 모델 실증 사례 유럽 이식…맞춤형 수요 공략 리스본 LS2 데이터센터는 다수 글로벌 기업이 활용하는 데이터센터다. 퓨리오사AI와 에퀴닉스는 LS2를 유럽...",
-          "src": "뉴스1",
+          "title": "인천공항공사, 'AI 대전환' 속도…자율주행 로봇·생성형 AI로 공항 혁신...",
+          "desc": "약 40명의 직원이 참여하는 해당 협의체는 현장 문제를 AI 기술로 해결하는 프로젝트를 수행하며 공사 내 AI 활용 문화 확산을 이끌고 있다. 김범호 인천국제공항공사 사장직무대행은 \"AX는 단순한 기술 도입을 넘어...",
+          "src": "megaeconomy",
           "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/421/0009066240?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/13/8006293/high.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586173834489",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260719/p1065586173834489_284_thum.jpg"
         },
         {
-          "title": "'기술은 있는데 살 사람이 없어요'…정부 첫 고객 프로젝트 탄생 비화",
-          "desc": "혁신기술을 도입하고 싶어도 실증 비용 부담이 컸고, 구매 담당자는 감사 부담과 복잡한 내부 절차 때문에... 현장에서 기술을 검증받을 기회를 얻었다. 대표적으로 경찰청은 산악 구조 현장에서 활용할 사족보행 로봇과...",
-          "src": "뉴스1",
+          "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+          "desc": "협상에 의한 계약 방식으로 추진되며, 기술평가 90점, 가격평가 10점의 비율로 사업자를 선정할 계획이다. 주요 내용은 출판도시 현황 진단 및 전환 비전 수립을 비롯해 △공간-콘텐츠-기업-인재 육성 전략 마련 △AI...",
+          "src": "ekn",
           "date": "07/19",
-          "url": "https://n.news.naver.com/mnews/article/421/0009066241?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012217/high.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260719026243672",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260719.4e0944f0afb942219891f3d1c8eaa770_R.jpg"
         },
         {
-          "title": "“AI가 만들었다” 표시 의무화… 21일부터 ‘AI기본법 개정안’ 시행",
-          "desc": "고영향 AI 적용 범위를 둘러싼 현장 혼선과 규제 비용을 우려하고 있다. 19일 과학기술정보통신부와 관련... 과기정통부 장관이 AI 활용 여부를 확인하는 ‘AI 제품·서비스 확인제도’도 도입된다. 확인서를 받은 기업은...",
-          "src": "kbmaeil",
+          "title": "노동부 \"2026 국민내일배움카드 우수사례 수기·영상 공모전 개최\"",
+          "desc": "응모 대상은 국민내일배움카드를 활용해 취·창업, 이직 등에 성공한 국민이며, 응모 방법은 수기 또는... 있다\"며 \"AI와 같은 첨단 기술이 빠르게 도입되는 산업 전환기에는 노동자들이 새로운 역량을 습득해 경쟁력을...",
+          "src": "m-i",
           "date": "07/19",
-          "url": "https://www.kbmaeil.com/article/20260719500014",
-          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719500012.png"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392684",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202607/1392684_1180324_257_v150.jpg"
         },
         {
-          "title": "[AI 인사이드] AI 기업들의 유럽 시장 채권 발행 증가…이점과 위험성은...",
-          "desc": "다사니는 \"5대 대형 기술 기업들이 2026년 1분기에 발행한 유로화 '투자등급' 채권(신용이 높은 우량기업이... 그리고 AI 유도형 투자 붐을 적극 활용하면서 유로화 표시 국제 채권 발행량이 급증했다. 유럽중앙은행(ECB)...",
-          "src": "wikileaks-kr",
+          "title": "금융감독원, AX 실행 로드맵 구축한다…전략 수립 '착수'",
+          "desc": "금감원 관계자는 “최근 AI 기술이 빠르게 발전하면서 AI 적절한 도입과 활용이 미래 경쟁력을 좌우하는 핵심 요소로 급부상하고 있다”며 “이미 민간 영역에서는 업종을 막론하고 전방위적인 AI 도입·활용이...",
+          "src": "전자신문",
           "date": "07/19",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189777",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/189777_202599_449_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003448781?sid=101",
+          "img": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.6c544bbdaf234590b4b92c372fa585ea_P2.jpg"
         }
       ]
     },
@@ -235,21 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/16/2026071603113.html",
-      "img": "https://image.chosun.com/sitedata/image/202607/16/2026071603109_0.jpg"
-    },
-    {
-      "title": "삼성전자, 멕시코 케레타로 공장 ‘스마트팩토리’ 전환 속도… 3,216명...",
-      "url": "https://www.g-enews.com/view.php?ud=2026071708404868400c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260717084154081810c8c1c064d22114611240.jpg"
+      "title": "삼성전자·LG전자, 'HVAC·AI 홈' B2B 확대 '잰걸음'",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=153486",
+      "img": "https://cdn.techm.kr/news/thumbnail/202607/153486_216643_1415_v150.jpg"
     },
     {
       "title": "[체험기] 청소 후 10초의 마법…로보락 'H60 허브 플러스' 써보니",
@@ -257,19 +252,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362180_370809_055_v150.jpg"
     },
     {
-      "title": "\"K-NPU 써본 후 도입\"…퓨리오사AI, 유럽서 '풀스택 실증 전략' 속도",
-      "url": "https://n.news.naver.com/mnews/article/421/0009066240?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/13/8006293/high.jpg"
+      "title": "삼성전자, 사우디 모스크 100곳에 맞춤형 HVAC 솔루션 공급",
+      "url": "https://www.socialvalue.kr/news/view/1065579744831568",
+      "img": "http://www.socialvalue.kr/news/data/20260719/p1065579744831568_896_thum.jpg"
     },
     {
-      "title": "'기술은 있는데 살 사람이 없어요'…정부 첫 고객 프로젝트 탄생 비화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009066241?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/16/8012217/high.jpg"
+      "title": "[TOP's Pick] [전자·IT] 삼성, 포용금융 확대 위해 2000억 출연 外",
+      "url": "https://www.topdaily.kr/articles/111035",
+      "img": "https://assets.repress.co.kr/photos/9afdb3254cdfa48ba66a59b3df56782f/thumb.jpg"
     },
     {
-      "title": "“AI가 만들었다” 표시 의무화… 21일부터 ‘AI기본법 개정안’ 시행",
-      "url": "https://www.kbmaeil.com/article/20260719500014",
-      "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/07/19/.cache/512/20260719500012.png"
+      "title": "인천공항공사, 'AI 대전환' 속도…자율주행 로봇·생성형 AI로 공항 혁신...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586173834489",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260719/p1065586173834489_284_thum.jpg"
+    },
+    {
+      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260719026243672",
+      "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260719.4e0944f0afb942219891f3d1c8eaa770_R.jpg"
     }
   ]
 };
