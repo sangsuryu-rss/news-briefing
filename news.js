@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 13:32",
+  "updatedAt": "2026.07.20 (월) 16:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.72",
-        "diff": "+1.94",
-        "rate": "+2.37%",
+        "value": "82.23",
+        "diff": "+0.45",
+        "rate": "+0.55%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,480.50",
-        "diff": "-10.50",
-        "rate": "-0.70%",
+        "value": "1,480.40",
+        "diff": "-10.60",
+        "rate": "-0.71%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.71",
-        "diff": "-5.80",
-        "rate": "-0.63%",
+        "value": "911.91",
+        "diff": "-5.60",
+        "rate": "-0.61%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.24",
-        "diff": "-0.11",
-        "rate": "-1.32%",
+        "value": "8.26",
+        "diff": "-0.09",
+        "rate": "-1.08%",
         "dir": "down"
       },
       {
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'로봇청소기 1위' 中 로보락, 韓 세탁건조기 시장 진출",
-          "desc": "이번 국내 출시를 계기로 삼성전자와 LG전자가 주도하는 국내 세탁가전 시장에서 경쟁에 본격 나설 것으로 보인다. 로보락 관계자는 \"제오 X는 세탁과 건조 성능은 물론 사용 편의성과 위생 관리 기능까지 강화한...",
-          "src": "아이뉴스24",
+          "title": "안방서 만나는 ‘루브르 명작’…삼성전자, 아트 스토어 컬렉션 확대",
+          "desc": "삼성전자는 자사 TV 전용 예술 작품 구독 플랫폼인 ‘삼성 아트 스토어’를 통해 루브르 박물관의 대표 명작... 제공 중이며, 올해 새롭게 출시된 OLED(SH95) 모델과 더 프레임 등 2026년형 가전 라인업에서 만나볼 수 있다.",
+          "src": "kyeonggi",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/031/0001043193?sid=101",
-          "img": "https://image.inews24.com/v1/d37572c3081ce5.jpg"
+          "url": "https://n.news.naver.com/mnews/article/666/0000115853?sid=101",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/20/.cache/512/20260720580359.jpg?v=20260720165435"
         },
         {
-          "title": "\"바캉스부터 홈캉스까지\"…이마트, 22일까지 여름휴가 필수템 최대 50% ...",
-          "desc": "'알피쿨 캠핑 냉장고(15L)'와 모기장, 불스원 차량 용품 등은 신세계포인트 적립 때 30% 할인한다. 집에서... '일렉트로맨 by 쿠쿠 벽걸이 에어컨'과 '쿠쿠 인스퓨어 22L 제습기'와 삼성전자·LG전자 멀티 에어컨 구매 때...",
-          "src": "bizwnews",
+          "title": "“사물인터넷(IoT) 활용 갈수록 늘어나는 데”…최소한의 보안기준 없어",
+          "desc": "사물인터넷(IoT) 기능을 탑재한 로봇청소기와 IP카메라 등이 빠르게 늘고 있지만 국내에는 반드시 지켜야 할... 삼성전자에 따르면 지난해말 기준 국내 스마트싱스 등록 기기는 2000만대를 넘었다. 전년 대비 약 30...",
+          "src": "전자신문",
           "date": "07/20",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=140959",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202607/140959_157710_354_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003449194?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/04/20/news-p.v1.20260420.2144967fdafa41899ffdf6b5dcf4a8c8_P1.jpg"
         },
         {
-          "title": "삼성전자, 사우디 모스크 공조시장 공략 확대…루브르 명작도 '삼성 아...",
-          "desc": "삼성전자가 중동 공조(HVAC) 시장 공략과 글로벌 문화예술 콘텐츠 확대를 동시에 추진하며 생활가전과 TV 사업 경쟁력을 강화하고 있다. 삼성전자는 사우디아라비아 리야드와 메카, 메디나 등 8개 주요 도시의 모스크...",
-          "src": "newstnt",
+          "title": "\"누가 TV로 냉장고 사나요\" 1500억 증발…삼성·LG도 갈아탔다 [홈쇼크①...",
+          "desc": "국내 주요 가전 제조사인 삼성전자·LG전자의 홈쇼핑 디지털·가전 거래액이 각각 20% 넘게 줄어든 것으로... 제품군별로 보면 PC·노트북 61.1%, 세탁기·건조기 51.5%, 음향·이어폰 46.8%, 청소기 46.2%씩 줄었다....",
+          "src": "한국경제",
           "date": "07/20",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=710784",
-          "img": "https://cdn.newstnt.com/news/photo/202607/710784_712913_1127.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005311646?sid=105",
+          "img": "https://img.hankyung.com/photo/202607/99.12032066.1.jpg"
         },
         {
-          "title": "이젠 '움직임'… 삼성·LG, 로봇 '관절'과 '근육'에 집중하는 이유",
-          "desc": "이처럼 삼성전자가 로봇의 관절 연구 투자에 집중하는 것은 휴머노이드 성능과 직결되기 때문이다.... LG전자의 악시움 개발 능력은 '가전 사업'이 기반이 됐다. 세탁기와 건조기, 청소기 등 모터 기술력을 보유한...",
-          "src": "sisaweek",
+          "title": "\"일상 동반자로 거듭날 것\"…삼성 계정, 기기 연결 넘어 가족까지 잇는...",
+          "desc": "삼성전자 뉴스룸에 따르면 삼성 계정 하나만 있으면 삼성 헬스, 삼성 월렛, 갤럭시 스토어, 삼성 클라우드 등 다양한 서비스를 자유롭게 이용할 수 있다. 또 '스마트싱스(SmartThing)'를 통해 모바일, TV, 가전까지 연결된...",
+          "src": "financialpost",
           "date": "07/20",
-          "url": "https://www.sisaweek.com/news/articleView.html?idxno=236750",
-          "img": "https://cdn.sisaweek.com/news/thumbnail/202607/236750_253929_4746_v150.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267147",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267147_341311_3341_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "히타치 밴타라, 기가옴 '6년 연속 리더 및 패스트 무버' 선정",
-          "desc": "기가옴 비정형 데이터 관리 레이더는 기술 경쟁력과 혁신성, 비즈니스 영향력을 종합적으로 평가해... AI 도입을 확대하는 과정에서 여러 시스템에 흩어진 데이터를 어떻게 통합 관리하고 안전하게 활용할 것인지...",
-          "src": "IT데일리",
+          "title": "기업들 \"어렵지만 하반기 투자 늘리겠다\"...'노동 경직성 해소' 촉구",
+          "desc": "AI 투자, 생산성 제고 중심…도입‧전환 비용·전문인력 양성 지원 필요 기업들이 AI를 신사업 진출보다 생산성 제고와 경쟁력 확보를 위한 투자수단으로 우선 활용하고 있는 것으로 나타났다. AI 기술 확산에 따른...",
+          "src": "banronbodo",
           "date": "07/20",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240470",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240470_245872_342_v150.jpg"
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=32663",
+          "img": "https://cdn.banronbodo.com/news/photo/202607/32663_47779_4946.jpg"
         },
         {
-          "title": "HD현대, 네이버와 조선 AI 생태계 구축…스마트조선소 경쟁 가속",
-          "desc": "협력 ▲피지컬 AI·로봇 기술 활용 ▲디지털 교육 등을 공동 추진한다. 양사는 조선업 맞춤형 클라우드와... 한화오션은 거제사업장의 용접과 물류 공정을 중심으로 피지컬 AI를 도입하고 있다. 현재 거제사업장 실내...",
-          "src": "4th",
+          "title": "[제약업계 소식] 7월 20일",
+          "desc": "■대웅제약, 삼성서울병원 스마트병실에 혈압 모니터링 '카트온' 결합한 '씽크' 도입 대웅제약(대표 이창재... 대웅제약은 AI 기술이 생체신호를 분석해 심정지 및 사망 전 발생하는 악성부정맥 등의 전조증상을...",
+          "src": "doctorstimes",
           "date": "07/20",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2114959",
-          "img": "https://cdn.4th.kr/news/thumbnail/202607/2114959_210978_2717_v150.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239096",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239096_108986_5840_v150.jpg"
         },
         {
-          "title": "'100% AI'로 만든 콘텐츠로 학부모 마음 잡는다",
-          "desc": "제작 과정 전반에 생성형 AI 기술이 도입되어 기획부터 더빙까지 완성도 높은 숏폼 및 롱폼 콘텐츠를 효율적으로 구현해낸 점이 특징이다. 아이스크림에듀 관계자는 \"홈런의 인기 캐릭터를 활용해 학부모들에게 공감과...",
-          "src": "파이낸셜뉴스",
+          "title": "[병원계 소식] 7월 20일",
+          "desc": "사업책임자인 정세영 정보화실장(가정의학과)은 \"의료 AI 활용의 병목은 기술이 아니라 '도입 방식'에 있다\"며 \"AICON은 표준 기반 공통 플랫폼 위에서 병원과 AI가 만나는 구조를 만들어, 대형병원뿐 아니라 지역의...",
+          "src": "doctorstimes",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/014/0005550118?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/20/202607201326100981_l.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239097",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239097_108990_318_v150.jpg"
         },
         {
-          "title": "엔젤스윙, 'NextCon 2026' 참가…드론 스테이션 기반 스마트건설 DX 운영...",
-          "desc": "파노라마, AI 분석으로 이어지는 스마트건설 DX 운영 과정을 현장에서 소개할 예정이다. 고객사가 직접 참여하는 세미나도 마련된다. 드론 스테이션 도입 이후 현장 데이터 취득과 활용 방식이 어떻게 변화했는지...",
-          "src": "thefirstmedia",
+          "title": "국산 NPU 상용화 확대…클라우드 서비스 새 국면",
+          "desc": "전력 소비와 운영 비용을 고려한 추론용 반도체 도입도 이어지고 있기 때문이다. 공공 분야 활용 넓어져…클라우드 서비스 증가 국산 NPU의 활용 범위도 넓어지고 있다. LG CNS는 퓨리오사AI와 AI 인프라 분야 협력을 위한...",
+          "src": "polinews",
           "date": "07/20",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204111",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202607/204111_188026_2324_v150.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737432",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737432_558320_2610_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "현대차 노조, 오늘부터 또 파업…휴가 전 협상 분수령",
+          "desc": "생산 차질이 장기화될 경우 3분기 실적은 물론, 부품을 납품하는 협력업체의 피해도 커질 수 있다는 우려가... 특히 협력사가 많은 자동차 산업의 특징상 피해가 확산될 가능성이 있습니다. 전문가들은 삼성전자 노사...",
+          "src": "MBN",
+          "date": "07/20",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005883088",
+          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/07/20/20260720162148_10_103_0_MM1005883088_4_98.jpg"
+        },
         {
           "title": "[이슈 분석] '한국판 IRA' 국내생산세액공제 도입 본격화… 글로벌 보조...",
           "desc": "결국  탄탄한 흑자를 내며 대규모 법인세를 납부하고 있는 일부 대기업(삼성전자, SK하이닉스, 현대차·기아 등)만 즉각적인 수혜를 입고, 정작 자금줄이 시급한 배터리, 부품 협력사들은 혜택을 먼 미래로 이월해야 하는...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/18",
           "url": "https://www.thelec.kr/news/articleView.html?idxno=59714",
           "img": "https://cdn.thelec.kr/news/photo/202607/59714_47116_3444.jpg"
-        },
-        {
-          "title": "삼성 계열 하만. 현대모비스, 美 마이크론과 메모리 반도체 장기 공급 ...",
-          "desc": "현대모비스와 삼성전자 자회사 하만(Harman) 등을 포함한 글로벌 자동차 부품업체 7곳과 전략적 고객 계약(SCA)... 1 협력사들의 공급망 전략과 맞물리면서 이번 계약으로 이어진 것으로 분석된다. 또, SK하이닉스와...",
-          "src": "autodaily",
-          "date": "07/18",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545844",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545844_189258_5154_v150.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'로봇청소기 1위' 中 로보락, 韓 세탁건조기 시장 진출",
-      "url": "https://n.news.naver.com/mnews/article/031/0001043193?sid=101",
-      "img": "https://image.inews24.com/v1/d37572c3081ce5.jpg"
+      "title": "안방서 만나는 ‘루브르 명작’…삼성전자, 아트 스토어 컬렉션 확대",
+      "url": "https://n.news.naver.com/mnews/article/666/0000115853?sid=101",
+      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/20/.cache/512/20260720580359.jpg?v=20260720165435"
     },
     {
-      "title": "\"바캉스부터 홈캉스까지\"…이마트, 22일까지 여름휴가 필수템 최대 50% ...",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140959",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202607/140959_157710_354_v150.jpg"
+      "title": "“사물인터넷(IoT) 활용 갈수록 늘어나는 데”…최소한의 보안기준 없어",
+      "url": "https://n.news.naver.com/mnews/article/030/0003449194?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/04/20/news-p.v1.20260420.2144967fdafa41899ffdf6b5dcf4a8c8_P1.jpg"
     },
     {
-      "title": "삼성전자, 사우디 모스크 공조시장 공략 확대…루브르 명작도 '삼성 아...",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=710784",
-      "img": "https://cdn.newstnt.com/news/photo/202607/710784_712913_1127.jpg"
+      "title": "\"누가 TV로 냉장고 사나요\" 1500억 증발…삼성·LG도 갈아탔다 [홈쇼크①...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311646?sid=105",
+      "img": "https://img.hankyung.com/photo/202607/99.12032066.1.jpg"
     },
     {
-      "title": "이젠 '움직임'… 삼성·LG, 로봇 '관절'과 '근육'에 집중하는 이유",
-      "url": "https://www.sisaweek.com/news/articleView.html?idxno=236750",
-      "img": "https://cdn.sisaweek.com/news/thumbnail/202607/236750_253929_4746_v150.jpg"
+      "title": "\"일상 동반자로 거듭날 것\"…삼성 계정, 기기 연결 넘어 가족까지 잇는...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267147",
+      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267147_341311_3341_v150.jpg"
     },
     {
-      "title": "히타치 밴타라, 기가옴 '6년 연속 리더 및 패스트 무버' 선정",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240470",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240470_245872_342_v150.jpg"
+      "title": "기업들 \"어렵지만 하반기 투자 늘리겠다\"...'노동 경직성 해소' 촉구",
+      "url": "https://www.banronbodo.com/news/articleView.html?idxno=32663",
+      "img": "https://cdn.banronbodo.com/news/photo/202607/32663_47779_4946.jpg"
     },
     {
-      "title": "HD현대, 네이버와 조선 AI 생태계 구축…스마트조선소 경쟁 가속",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2114959",
-      "img": "https://cdn.4th.kr/news/thumbnail/202607/2114959_210978_2717_v150.jpg"
+      "title": "[제약업계 소식] 7월 20일",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239096",
+      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239096_108986_5840_v150.jpg"
     }
   ]
 };
