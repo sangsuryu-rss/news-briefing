@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 20:39",
+  "updatedAt": "2026.07.21 (화) 00:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-20",
+    "asOf": "2026-07-21",
     "items": [
       {
         "label": "LME 구리",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.58",
-        "diff": "-0.20",
-        "rate": "-0.24%",
-        "dir": "down"
+        "value": "81.90",
+        "diff": "+0.12",
+        "rate": "+0.15%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,480.10",
-        "diff": "-10.90",
-        "rate": "-0.73%",
+        "value": "1,478.90",
+        "diff": "-12.10",
+        "rate": "-0.81%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.78",
-        "diff": "-5.73",
-        "rate": "-0.62%",
+        "value": "909.81",
+        "diff": "-7.70",
+        "rate": "-0.84%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.27",
-        "diff": "-0.08",
-        "rate": "-0.96%",
+        "value": "8.26",
+        "diff": "-0.09",
+        "rate": "-1.08%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.34",
-        "diff": "-0.15",
-        "rate": "-0.97%",
+        "value": "15.33",
+        "diff": "-0.16",
+        "rate": "-1.03%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
-          "desc": "이 기술은 올해 1월 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES 2026에서 삼성전자의 스타트업 육성 프로그램인 'C랩 전시관'을 통해 공개되기도 했다. 당시 인력난과 고물가 대안을 찾는 글로벌 F&B 관계자의...",
-          "src": "한국경제",
-          "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
+          "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
+          "desc": "29일에는 SK하이닉스가 2분기 실적을 공개하고, 30일에는 삼성전자가 확정 실적과 함께 컨퍼런스콜을... IT가전, 2차전지, 조선, 화학, 기계 업종은 6000선대에서 분할 매수 전략이 유효하다\"고 말했다. 조준기 SK증권...",
+          "src": "ziksir",
+          "date": "07/21",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
         },
         {
           "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
         },
         {
-          "title": "한국어 무장한 '메타' vs 구글 연합한 '삼성'…AI글라스 패권 경쟁 촉발",
-          "desc": "대형 가전매장을 비롯해 국내 이동통신 3사의 온·오프라인 스토어로 판매처를 확대해 대중화에 속도를 낼 방침이다 ◆삼성전자, 구글과 연합전선...'갤럭시 글라스'로 반격 삼성전자는 오는 22일 영국에서 열리는...",
-          "src": "F투데이",
+          "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
+          "desc": "이 기술은 올해 1월 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES 2026에서 삼성전자의 스타트업 육성 프로그램인 'C랩 전시관'을 통해 공개되기도 했다. 당시 인력난과 고물가 대안을 찾는 글로벌 F&B 관계자의...",
+          "src": "한국경제",
           "date": "07/20",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362292",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362292_370998_5644_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "제주항공, 전자 비행계획 솔루션 도입…\"AI 기반 업무 효율성 강화 기대...",
-          "desc": "제주항공은 앞서 2024년 발표한 기업가치 제고 계획에서 태블릿PC를 활용한 전자비행정보 도입과 탑승 서류 전자화를 탄소배출 저감을 위한 주요 과제로 제시한 바 있다고 말했다. 당시 제주항공은 정보기술(IT) 시스템...",
-          "src": "econonews",
-          "date": "07/20",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441468",
-          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+          "title": "[안현실칼럼]울산형 산업 AX 모델을 위하여",
+          "desc": "제조AI 2030 전략은 △핵심 제조데이터 관리 및 활용 △제조업 특화 AI모델 개발, 그리고 △제조기업... 특화AI 파운데이션 모델 개발에 이미 나섰다. 동남권 부·울·경의 과학기술원 UNIST가 HD현대중공업과 손잡고 수행...",
+          "src": "ksilbo",
+          "date": "07/21",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062565",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062565_641767_2145_v150.jpg"
         },
         {
-          "title": "안산시 반월·시화국가산단 AI 제조혁신 협력 본격화",
-          "desc": "참여 기관들은 제조업 AI 전환과 디지털 혁신 확산을 위해 AI 기술 도입과 데이터 활용, 기술 실증, 전문인력 양성, 기업 맞춤형 지원을 연계하는 협력체계를 구축하기로 뜻을 모았습니다. 특히 AI 기술 공급기업과...",
-          "src": "newsclaim",
-          "date": "07/20",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069820",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3069820_111380_5941_v150.jpg"
+          "title": "[사설]‘운''에 맡기는 데이터센터 사업자 선정, 정상인가",
+          "desc": "데이터센터는 막대한 전력 소비와 냉각 시스템이 필수적인데, 소양강댐의 차가운 심층수를 활용해 냉각... 글로벌 AI 경쟁이 분초를 다투는 국면에서 고용 창출 효과가 크고, 기술력이 검증됐으며, 지속 가능한 투자 능력을...",
+          "src": "kwnews",
+          "date": "07/21",
+          "url": "https://n.news.naver.com/mnews/article/087/0001206115?sid=110",
+          "img": ""
         },
         {
-          "title": "중국 AI 기상경보 시스템, 글로벌사우스 확산…7개국서 운영",
-          "desc": "개발도상국 도입…40개국서 클라우드 버전 시험 시진핑 \"5년 내 30개국 확대\"…AI 기반 공공기술 외교 강화... 파키스탄에서는 재난 경보 발령에, 나이지리아에서는 도시 홍수 예측에 활용되는 등 실제 적용 사례도...",
-          "src": "아주경제",
-          "date": "07/20",
-          "url": "https://www.ajunews.com/view/20260720201355460",
-          "img": "https://image.ajunews.com/content/image/2026/07/20/20260720201525984460.jpg"
+          "title": "울산 남구, 기업 AI·디지털 전환 속도 높인다",
+          "desc": "이번 협약은 두 기관이 상호 신뢰를 바탕으로 유기적인 협력 체계를 구축함으로써 남구 내 AI 기술 도입을... AI 전환에 든든한 발판이 되기를 기대한다\"며 \"앞으로도 정보산업진흥원의 우수한 인프라를 활용해 기업...",
+          "src": "ksilbo",
+          "date": "07/21",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062560",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062560_641764_1738_v150.jpg"
         },
         {
-          "title": "한은 CBDC, 9월 실거래 테스트…9개 은행 참여로 상용화 성큼",
-          "desc": "분산원장 기술을 활용해 결제 효율성과 투명성을 강화한 점이 특징이다. 전 세계적으로는 아직 도입 초기... 기사요약 by TokenPost.ai 시장 해석 한국은행이 CBDC 2단계에 돌입하며 실제 거래 기반 테스트를 시작함에 따라...",
-          "src": "tokenpost",
-          "date": "07/20",
-          "url": "https://www.tokenpost.kr/news/blockchain/379510",
-          "img": "https://f1.tokenpost.kr/2026/07/c7bf5eq036.webp"
+          "title": "오늘의 운세 띠별 운세 7월21일",
+          "desc": "63년생 : 검증되지 않은 신규 수익 모델 도입 기안을 즉각 단호하게 반려하십시오. 기존에 가장 안정적인... 해당 데이터를 본인의 포트폴리오에 정확히 기입하여 향후 인사 고과 상향 및 권한 확대의 근거로 활용하십시오....",
+          "src": "BNT뉴스",
+          "date": "07/21",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202607200289",
+          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/20/bnt202607200654.jpg"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
+      "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
     },
     {
       "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
     },
     {
-      "title": "한국어 무장한 '메타' vs 구글 연합한 '삼성'…AI글라스 패권 경쟁 촉발",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362292",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362292_370998_5644_v150.jpg"
+      "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
     },
     {
-      "title": "제주항공, 전자 비행계획 솔루션 도입…\"AI 기반 업무 효율성 강화 기대...",
-      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441468",
-      "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+      "title": "[안현실칼럼]울산형 산업 AX 모델을 위하여",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062565",
+      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062565_641767_2145_v150.jpg"
     },
     {
-      "title": "안산시 반월·시화국가산단 AI 제조혁신 협력 본격화",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069820",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3069820_111380_5941_v150.jpg"
+      "title": "울산 남구, 기업 AI·디지털 전환 속도 높인다",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062560",
+      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062560_641764_1738_v150.jpg"
     }
   ]
 };
