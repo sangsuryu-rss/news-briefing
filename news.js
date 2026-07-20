@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 07:23",
+  "updatedAt": "2026.07.20 (월) 13:32",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,50 +31,50 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.89",
-        "diff": "+2.11",
-        "rate": "+2.58%",
+        "value": "83.72",
+        "diff": "+1.94",
+        "rate": "+2.37%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,490.80",
-        "diff": "+2.30",
-        "rate": "+0.15%",
-        "dir": "up"
+        "value": "1,480.50",
+        "diff": "-10.50",
+        "rate": "-0.70%",
+        "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.36",
-        "diff": "-0.87",
-        "rate": "-0.09%",
+        "value": "911.71",
+        "diff": "-5.80",
+        "rate": "-0.63%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.35",
-        "diff": "+0.09",
-        "rate": "+1.09%",
-        "dir": "up"
+        "value": "8.24",
+        "diff": "-0.11",
+        "rate": "-1.32%",
+        "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.68",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "5.63",
+        "diff": "-0.05",
+        "rate": "-0.88%",
+        "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.48",
-        "diff": "+0.02",
-        "rate": "+0.13%",
-        "dir": "up"
+        "value": "15.35",
+        "diff": "-0.14",
+        "rate": "-0.90%",
+        "dir": "down"
       }
     ]
   },
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
-          "desc": "◇QR코드 하나로 냉장고·커튼·보안장치 연결 주택 내부로 들어서자 냉장고와 에어컨, 공기청정기, TV 등 삼성전자 가전제품이 거실과 주방, 침실 곳곳에 배치돼 있었다. 겉보기에는 고급 단독주택의 일반적인 내부와...",
-          "src": "조선일보",
+          "title": "'로봇청소기 1위' 中 로보락, 韓 세탁건조기 시장 진출",
+          "desc": "이번 국내 출시를 계기로 삼성전자와 LG전자가 주도하는 국내 세탁가전 시장에서 경쟁에 본격 나설 것으로 보인다. 로보락 관계자는 \"제오 X는 세탁과 건조 성능은 물론 사용 편의성과 위생 관리 기능까지 강화한...",
+          "src": "아이뉴스24",
           "date": "07/20",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/20/2026072000534.html",
-          "img": "https://image.chosun.com/sitedata/image/202607/20/2026072000533_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001043193?sid=101",
+          "img": "https://image.inews24.com/v1/d37572c3081ce5.jpg"
         },
         {
-          "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
-          "desc": "입주민들은 냉장고와 세탁기, 건조기, 스타일러, 식기세척기 등 최대 7종의 가전을 구독 방식으로 선택할 수... 삼성전자도 스마트싱스 기반 AI 홈과 프리미엄 빌트인 가전을 앞세워 국내외 고급 주거시장 공략을...",
-          "src": "매일경제",
+          "title": "\"바캉스부터 홈캉스까지\"…이마트, 22일까지 여름휴가 필수템 최대 50% ...",
+          "desc": "'알피쿨 캠핑 냉장고(15L)'와 모기장, 불스원 차량 용품 등은 신세계포인트 적립 때 30% 할인한다. 집에서... '일렉트로맨 by 쿠쿠 벽걸이 에어컨'과 '쿠쿠 인스퓨어 22L 제습기'와 삼성전자·LG전자 멀티 에어컨 구매 때...",
+          "src": "bizwnews",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=140959",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202607/140959_157710_354_v150.jpg"
         },
         {
-          "title": "[Who Is ?] 장동복 예스티 대표이사",
-          "desc": "이를 통해 스마트폰, 가전, 반도체 제조 기업 등 다양한 글로벌 고객사에 솔루션을 제공 중이다. 글로벌... 예스티의 실적 그래프 <비즈니스포스트> △삼성전자와 228억 원 규모 반도체 장비 공급 계약 체결 예스티가...",
-          "src": "비즈니스포스트",
+          "title": "삼성전자, 사우디 모스크 공조시장 공략 확대…루브르 명작도 '삼성 아...",
+          "desc": "삼성전자가 중동 공조(HVAC) 시장 공략과 글로벌 문화예술 콘텐츠 확대를 동시에 추진하며 생활가전과 TV 사업 경쟁력을 강화하고 있다. 삼성전자는 사우디아라비아 리야드와 메카, 메디나 등 8개 주요 도시의 모스크...",
+          "src": "newstnt",
           "date": "07/20",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442294",
-          "img": ""
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=710784",
+          "img": "https://cdn.newstnt.com/news/photo/202607/710784_712913_1127.jpg"
         },
         {
-          "title": "[시대리포트]거실엔 로보락, 도로엔 BYD…우리 일상 파고든 중국 기술",
-          "desc": "최근 결혼한 직장인 유주경씨(32)는 \"냉장고나 세탁기는 삼성전자 패키지로 맞췄지만 로봇청소기만큼은 중국산이 국산보다 낫다는 얘기가 많아서 로보락을 골랐다\"며 \"신제품 출시 주기가 빠르고 기능도 다양하다\"고...",
-          "src": "sidae",
+          "title": "이젠 '움직임'… 삼성·LG, 로봇 '관절'과 '근육'에 집중하는 이유",
+          "desc": "이처럼 삼성전자가 로봇의 관절 연구 투자에 집중하는 것은 휴머노이드 성능과 직결되기 때문이다.... LG전자의 악시움 개발 능력은 '가전 사업'이 기반이 됐다. 세탁기와 건조기, 청소기 등 모터 기술력을 보유한...",
+          "src": "sisaweek",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/417/0001152103?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
+          "url": "https://www.sisaweek.com/news/articleView.html?idxno=236750",
+          "img": "https://cdn.sisaweek.com/news/thumbnail/202607/236750_253929_4746_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "‘3대 메가프로젝트’ 때문에 원전?…빈대 잡으려다 초가삼간 태울라",
-          "desc": "“전력수요 급증과 기저전원 안정화를 위한 신규 원전과 소형모듈원전(SMR) 도입 여부를 전문가 의견과... 자원을 활용해 전력공급이 가능하다”며 “특히 재생에너지와 원전에 ESS, 전력망 운영 기술을 효율적으로...",
-          "src": "한겨레",
+          "title": "히타치 밴타라, 기가옴 '6년 연속 리더 및 패스트 무버' 선정",
+          "desc": "기가옴 비정형 데이터 관리 레이더는 기술 경쟁력과 혁신성, 비즈니스 영향력을 종합적으로 평가해... AI 도입을 확대하는 과정에서 여러 시스템에 흩어진 데이터를 어떻게 통합 관리하고 안전하게 활용할 것인지...",
+          "src": "IT데일리",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/036/0000053916?sid=102",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0716/20260716503508.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240470",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240470_245872_342_v150.jpg"
         },
         {
-          "title": "충남대학교, 과기부 '2026 기초연구실지원사업' 4개 연구실 선정…미래...",
-          "desc": "센싱 기술이 요구하는 복합 전파 환경 해석 분야에 활용할 계획이다. 김우석 교수가 연구책임을 맡은 제설용 액체 염수로 인한 콘크리트 열화 AI 기반 해석 및 구조 성능 변화 탐지 방안 연구실에는 경북대 정유석...",
-          "src": "lecturernews",
+          "title": "HD현대, 네이버와 조선 AI 생태계 구축…스마트조선소 경쟁 가속",
+          "desc": "협력 ▲피지컬 AI·로봇 기술 활용 ▲디지털 교육 등을 공동 추진한다. 양사는 조선업 맞춤형 클라우드와... 한화오션은 거제사업장의 용접과 물류 공정을 중심으로 피지컬 AI를 도입하고 있다. 현재 거제사업장 실내...",
+          "src": "4th",
           "date": "07/20",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=206568",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206568_474758_433_v150.jpg"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2114959",
+          "img": "https://cdn.4th.kr/news/thumbnail/202607/2114959_210978_2717_v150.jpg"
         },
         {
-          "title": "MS, 코파일럿 2000만 돌파…AI에 1900억달러 투자",
-          "desc": "사티아 나델라 MS 최고경영자는 AI 에이전트가 확산하면서 기술 체계 전반을 바꾸는 새로운 플랫폼 전환이... 기존 마이크로소프트365 고객이 별도의 업무용 소프트웨어를 도입하지 않고 AI 에이전트를 활용할 수...",
-          "src": "g-enews",
+          "title": "'100% AI'로 만든 콘텐츠로 학부모 마음 잡는다",
+          "desc": "제작 과정 전반에 생성형 AI 기술이 도입되어 기획부터 더빙까지 완성도 높은 숏폼 및 롱폼 콘텐츠를 효율적으로 구현해낸 점이 특징이다. 아이스크림에듀 관계자는 \"홈런의 인기 캐릭터를 활용해 학부모들에게 공감과...",
+          "src": "파이낸셜뉴스",
           "date": "07/20",
-          "url": "https://www.g-enews.com/view.php?ud=2026071922573558889a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719231650044329a1f30943117511616074.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005550118?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/20/202607201326100981_l.jpg"
         },
         {
-          "title": "[더벨]KT, 팔란티어 손잡고 'AX 수익화 속도'",
-          "desc": "플랫폼 'AIP'를 활용해 데이터를 의미 단위로 연결하는 온톨로지를 구축하고 이를 기반으로 AI 에이전트를 구현했다. 이 과정에서는 팔란티어의 FDE가 멘토로 참여해 기술 멘토링과 협업을 지원한 것으로 전해진다....",
-          "src": "더벨",
+          "title": "엔젤스윙, 'NextCon 2026' 참가…드론 스테이션 기반 스마트건설 DX 운영...",
+          "desc": "파노라마, AI 분석으로 이어지는 스마트건설 DX 운영 과정을 현장에서 소개할 예정이다. 고객사가 직접 참여하는 세미나도 마련된다. 드론 스테이션 도입 이후 현장 데이터 취득과 활용 방식이 어떻게 변화했는지...",
+          "src": "thefirstmedia",
           "date": "07/20",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607160903565680102986",
-          "img": ""
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204111",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202607/204111_188026_2324_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[이슈 분석] '한국판 IRA' 국내생산세액공제 도입 본격화… 글로벌 보조...",
+          "desc": "결국  탄탄한 흑자를 내며 대규모 법인세를 납부하고 있는 일부 대기업(삼성전자, SK하이닉스, 현대차·기아 등)만 즉각적인 수혜를 입고, 정작 자금줄이 시급한 배터리, 부품 협력사들은 혜택을 먼 미래로 이월해야 하는...",
+          "src": "businesskorea",
+          "date": "07/20",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273240",
+          "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273240_280502_3213_v150.jpg"
+        },
+        {
+          "title": "천안 제6일반산업단지, 총 96만㎡ 규모로 조성…사전청약 진행 중",
+          "desc": "입주 가능 업종은 전자부품·전기장비·기계장비·자동차·금속가공·화학제품 등 제조업 전반을 아우른다.... 물류 효율성과 협력사 접근성을 함께 갖춘 입지로 평가받는다. 현재 사전청약이 진행 중이다. 업계에서는...",
+          "src": "nextdaily",
+          "date": "07/20",
+          "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251385",
+          "img": "https://cdn.nextdaily.co.kr/news/photo/202607/251385_351443_214.jpg"
+        },
         {
           "title": "마이크론, 퀄컴·현대모비스·하만 등 자동차 생태계 7곳과 SCA 체결",
           "desc": "마이크론이 전세계 자동차 산업을 지원하는 생태계 협력사 7곳과 전략적 고객 계약(SCA)를 체결했다고 16일... 하만은 삼성전자가 2016년 인수한 자동차 전장, 오디오 기업이다. 이규석 현대모비스 사장은 \"자동차...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/18",
           "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545844",
           "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545844_189258_5154_v150.jpg"
-        },
-        {
-          "title": "마이크론과 현대모비스·퀄컴과 첨단 차량용 메모리 장기공급 계약",
-          "desc": "1차 협력사 및 관련 생태계 파트너사들과 차량용 인공지능(AI) 반도체 부품 공급을 위한 전략고객협약(SCA)을... 삼성전자, SK하이닉스와 함께 3대 메모리 제조사인 마이크론은 지난달 회계연도 3분기(3∼5월) 실적 발표에서...",
-          "src": "한국일보",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/469/0000942801?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/07/17/f5ed1614-a0e6-4370-9953-df295a1906d1.png"
-        },
-        {
-          "title": "5대그룹 대금 결제 ‘10일’로 단축…재계, 협력사 상생 ‘속도’",
-          "desc": "현대모비스도 첨단 부품 협력사 육성을 통해 미래 모빌리티 생태계 확대에 나설 예정이다. LG그룹은 상생 자금이 2·3차 협력사까지 전달되는 체계 구축에 집중한다. LG전자, LG화학 등 7개 계열사는 대기업이 지급한...",
-          "src": "mydaily",
-          "date": "07/17",
-          "url": "https://n.news.naver.com/mnews/article/117/0004085446?sid=103",
-          "img": "https://mydaily.co.kr/photos/2026/07/16/2026071615055898106_l.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"아파트 공사비의 절반\"…삼성이 3년간 1만 호 노리는 집 [르포]",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/20/2026072000534.html",
-      "img": "https://image.chosun.com/sitedata/image/202607/20/2026072000533_0.jpg"
+      "title": "'로봇청소기 1위' 中 로보락, 韓 세탁건조기 시장 진출",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043193?sid=101",
+      "img": "https://image.inews24.com/v1/d37572c3081ce5.jpg"
     },
     {
-      "title": "“주차·순찰로봇 들이시죠”…강남 재건축단지 영업뛰는 기업들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709307?sid=103",
-      "img": "https://pimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260719.fe8da42a28f74f64b1d08ab1bf43852a_R.png"
+      "title": "\"바캉스부터 홈캉스까지\"…이마트, 22일까지 여름휴가 필수템 최대 50% ...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140959",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202607/140959_157710_354_v150.jpg"
     },
     {
-      "title": "[시대리포트]거실엔 로보락, 도로엔 BYD…우리 일상 파고든 중국 기술",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152103?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/16/06/2026071612544817894_3.jpg"
+      "title": "삼성전자, 사우디 모스크 공조시장 공략 확대…루브르 명작도 '삼성 아...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=710784",
+      "img": "https://cdn.newstnt.com/news/photo/202607/710784_712913_1127.jpg"
     },
     {
-      "title": "‘3대 메가프로젝트’ 때문에 원전?…빈대 잡으려다 초가삼간 태울라",
-      "url": "https://n.news.naver.com/mnews/article/036/0000053916?sid=102",
-      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0716/20260716503508.jpg"
+      "title": "이젠 '움직임'… 삼성·LG, 로봇 '관절'과 '근육'에 집중하는 이유",
+      "url": "https://www.sisaweek.com/news/articleView.html?idxno=236750",
+      "img": "https://cdn.sisaweek.com/news/thumbnail/202607/236750_253929_4746_v150.jpg"
     },
     {
-      "title": "충남대학교, 과기부 '2026 기초연구실지원사업' 4개 연구실 선정…미래...",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=206568",
-      "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206568_474758_433_v150.jpg"
+      "title": "히타치 밴타라, 기가옴 '6년 연속 리더 및 패스트 무버' 선정",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240470",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240470_245872_342_v150.jpg"
     },
     {
-      "title": "MS, 코파일럿 2000만 돌파…AI에 1900억달러 투자",
-      "url": "https://www.g-enews.com/view.php?ud=2026071922573558889a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260719231650044329a1f30943117511616074.jpg"
+      "title": "HD현대, 네이버와 조선 AI 생태계 구축…스마트조선소 경쟁 가속",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114959",
+      "img": "https://cdn.4th.kr/news/thumbnail/202607/2114959_210978_2717_v150.jpg"
     }
   ]
 };
