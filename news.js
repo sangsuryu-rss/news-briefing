@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.21 (화) 00:06",
+  "updatedAt": "2026.07.21 (화) 03:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.90",
-        "diff": "+0.12",
-        "rate": "+0.15%",
+        "value": "82.72",
+        "diff": "+0.94",
+        "rate": "+1.15%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,478.90",
-        "diff": "-12.10",
-        "rate": "-0.81%",
+        "value": "1,477.80",
+        "diff": "-13.20",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "909.81",
-        "diff": "-7.70",
-        "rate": "-0.84%",
+        "value": "909.33",
+        "diff": "-8.18",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
@@ -63,17 +63,17 @@ window.NEWS_DATA = {
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.64",
-        "diff": "-0.04",
-        "rate": "-0.70%",
+        "value": "5.63",
+        "diff": "-0.05",
+        "rate": "-0.88%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.33",
-        "diff": "-0.16",
-        "rate": "-1.03%",
+        "value": "15.32",
+        "diff": "-0.17",
+        "rate": "-1.10%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
-          "desc": "29일에는 SK하이닉스가 2분기 실적을 공개하고, 30일에는 삼성전자가 확정 실적과 함께 컨퍼런스콜을... IT가전, 2차전지, 조선, 화학, 기계 업종은 6000선대에서 분할 매수 전략이 유효하다\"고 말했다. 조준기 SK증권...",
-          "src": "ziksir",
+          "title": "\"주총 승인 없는 최대 40조 성과급?\"…삼성전자 소액주주, 국민연금에 행...",
+          "desc": "스마트폰·가전을 담당하는 DX 부문은 추가 성과급 없이 600만원 상당의 자사주만 지급받는다. 같은 회사 직원 사이 성과급이 최대 100배 차이가 나는 셈이다. DX 부문 조합원이 많은 전국삼성전자노동조합(전삼노)의...",
+          "src": "joongangenews",
           "date": "07/21",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=534034",
+          "img": "https://cdn.joongangenews.com/news/photo/202607/534034_339365_220.png"
         },
         {
           "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
         },
         {
-          "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
-          "desc": "이 기술은 올해 1월 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES 2026에서 삼성전자의 스타트업 육성 프로그램인 'C랩 전시관'을 통해 공개되기도 했다. 당시 인력난과 고물가 대안을 찾는 글로벌 F&B 관계자의...",
-          "src": "한국경제",
-          "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
+          "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
+          "desc": "29일에는 SK하이닉스가 2분기 실적을 공개하고, 30일에는 삼성전자가 확정 실적과 함께 컨퍼런스콜을... IT가전, 2차전지, 조선, 화학, 기계 업종은 6000선대에서 분할 매수 전략이 유효하다\"고 말했다. 조준기 SK증권...",
+          "src": "ziksir",
+          "date": "07/21",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[안현실칼럼]울산형 산업 AX 모델을 위하여",
-          "desc": "제조AI 2030 전략은 △핵심 제조데이터 관리 및 활용 △제조업 특화 AI모델 개발, 그리고 △제조기업... 특화AI 파운데이션 모델 개발에 이미 나섰다. 동남권 부·울·경의 과학기술원 UNIST가 HD현대중공업과 손잡고 수행...",
-          "src": "ksilbo",
+          "title": "‘AI 광풍’ 뒤의 그늘… 화이트칼라 프리미엄 흔들린다",
+          "desc": "과거 저임금 노동자가 주로 겪던 고용 불확실성 현상이 고임금 기술 전문직으로 확대되는 셈이다. 1970년대 제조업 자동화가 두 세대에 걸쳐 진행된 반면 2020년대 사무직 AI 도입은 실시간으로 이뤄진다. 노동시장...",
+          "src": "g-enews",
           "date": "07/21",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062565",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062565_641767_2145_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202607201815421782fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072018174600411fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "[사설]‘운''에 맡기는 데이터센터 사업자 선정, 정상인가",
-          "desc": "데이터센터는 막대한 전력 소비와 냉각 시스템이 필수적인데, 소양강댐의 차가운 심층수를 활용해 냉각... 글로벌 AI 경쟁이 분초를 다투는 국면에서 고용 창출 효과가 크고, 기술력이 검증됐으며, 지속 가능한 투자 능력을...",
-          "src": "kwnews",
+          "title": "AMD, 첫 AI 랙 시스템 '헬리오스'로 엔비디아에 도전",
+          "desc": "먼저 도입하기도 했다. MS는 자체 개발한 AI 칩인 마이아도 데이터센터에서 함께 활용하고 있다. MS는... 헬리오스는 AMD가 자체 개발한 GPU, 중앙처리장치(CPU), 네트워킹, 소프트웨어 등 4개 핵심 기술을 하나의...",
+          "src": "블로터",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/087/0001206115?sid=110",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/293/0000087839?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202607/668483_281426_4349_v150.jpg"
         },
         {
-          "title": "울산 남구, 기업 AI·디지털 전환 속도 높인다",
-          "desc": "이번 협약은 두 기관이 상호 신뢰를 바탕으로 유기적인 협력 체계를 구축함으로써 남구 내 AI 기술 도입을... AI 전환에 든든한 발판이 되기를 기대한다\"며 \"앞으로도 정보산업진흥원의 우수한 인프라를 활용해 기업...",
-          "src": "ksilbo",
+          "title": "CJ제일제당 부산공장 ‘색’ 더해 안전 높인다…식품업계 최초",
+          "desc": "배색과 명도·채도차를 활용해 시인성을 높이고 화물차량 지게차 작업자 등의 이동 동선을 보다 명확히... 실제로 부산공장은 최근 인공지능(AI)을 통한 위험 감지 시스템과 스마트 안전모 등 첨단 기술을 적극 도입하며...",
+          "src": "kookje",
           "date": "07/21",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062560",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062560_641764_1738_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000150090?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0720/L20260720.99099005787i1.jpg?34"
         },
         {
-          "title": "오늘의 운세 띠별 운세 7월21일",
-          "desc": "63년생 : 검증되지 않은 신규 수익 모델 도입 기안을 즉각 단호하게 반려하십시오. 기존에 가장 안정적인... 해당 데이터를 본인의 포트폴리오에 정확히 기입하여 향후 인사 고과 상향 및 권한 확대의 근거로 활용하십시오....",
-          "src": "BNT뉴스",
+          "title": "[직장 돋보기 분석] SK하이닉스, 평균연봉 1억8500만원·정규직 99%…AI 초...",
+          "desc": "종합적으로 활용합니다. <편집자 주> 곽노정 SK하이닉스 대표이사 / 사진편집=뉴스투데이 [뉴스투데이... 수준의 기술력을 보유한 대한민국 대표 글로벌 반도체 기업이다. AI, 데이터센터, 모바일, PC, 자동차 등...",
+          "src": "news2day",
           "date": "07/21",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202607200289",
-          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/20/bnt202607200654.jpg"
+          "url": "https://www.news2day.co.kr/article/20260716500131",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/16/.cache/512/20260716500130.png"
         }
       ]
     },
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
+      "title": "\"주총 승인 없는 최대 40조 성과급?\"…삼성전자 소액주주, 국민연금에 행...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=534034",
+      "img": "https://cdn.joongangenews.com/news/photo/202607/534034_339365_220.png"
     },
     {
       "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
     },
     {
-      "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
+      "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
     },
     {
-      "title": "[안현실칼럼]울산형 산업 AX 모델을 위하여",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062565",
-      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062565_641767_2145_v150.jpg"
+      "title": "‘AI 광풍’ 뒤의 그늘… 화이트칼라 프리미엄 흔들린다",
+      "url": "https://www.g-enews.com/view.php?ud=202607201815421782fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072018174600411fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "울산 남구, 기업 AI·디지털 전환 속도 높인다",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062560",
-      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202607/1062560_641764_1738_v150.jpg"
+      "title": "AMD, 첫 AI 랙 시스템 '헬리오스'로 엔비디아에 도전",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087839?sid=105",
+      "img": "https://cdn.bloter.net/news/thumbnail/202607/668483_281426_4349_v150.jpg"
     }
   ]
 };
