@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.20 (월) 16:54",
+  "updatedAt": "2026.07.20 (월) 20:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.23",
-        "diff": "+0.45",
-        "rate": "+0.55%",
-        "dir": "up"
+        "value": "81.58",
+        "diff": "-0.20",
+        "rate": "-0.24%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,480.40",
-        "diff": "-10.60",
-        "rate": "-0.71%",
+        "value": "1,480.10",
+        "diff": "-10.90",
+        "rate": "-0.73%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "911.91",
-        "diff": "-5.60",
-        "rate": "-0.61%",
+        "value": "911.78",
+        "diff": "-5.73",
+        "rate": "-0.62%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "-0.09",
-        "rate": "-1.08%",
+        "value": "8.27",
+        "diff": "-0.08",
+        "rate": "-0.96%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.63",
-        "diff": "-0.05",
-        "rate": "-0.88%",
+        "value": "5.64",
+        "diff": "-0.04",
+        "rate": "-0.70%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.35",
-        "diff": "-0.14",
-        "rate": "-0.90%",
+        "value": "15.34",
+        "diff": "-0.15",
+        "rate": "-0.97%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "안방서 만나는 ‘루브르 명작’…삼성전자, 아트 스토어 컬렉션 확대",
-          "desc": "삼성전자는 자사 TV 전용 예술 작품 구독 플랫폼인 ‘삼성 아트 스토어’를 통해 루브르 박물관의 대표 명작... 제공 중이며, 올해 새롭게 출시된 OLED(SH95) 모델과 더 프레임 등 2026년형 가전 라인업에서 만나볼 수 있다.",
-          "src": "kyeonggi",
-          "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/666/0000115853?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/20/.cache/512/20260720580359.jpg?v=20260720165435"
-        },
-        {
-          "title": "“사물인터넷(IoT) 활용 갈수록 늘어나는 데”…최소한의 보안기준 없어",
-          "desc": "사물인터넷(IoT) 기능을 탑재한 로봇청소기와 IP카메라 등이 빠르게 늘고 있지만 국내에는 반드시 지켜야 할... 삼성전자에 따르면 지난해말 기준 국내 스마트싱스 등록 기기는 2000만대를 넘었다. 전년 대비 약 30...",
-          "src": "전자신문",
-          "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/030/0003449194?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/04/20/news-p.v1.20260420.2144967fdafa41899ffdf6b5dcf4a8c8_P1.jpg"
-        },
-        {
-          "title": "\"누가 TV로 냉장고 사나요\" 1500억 증발…삼성·LG도 갈아탔다 [홈쇼크①...",
-          "desc": "국내 주요 가전 제조사인 삼성전자·LG전자의 홈쇼핑 디지털·가전 거래액이 각각 20% 넘게 줄어든 것으로... 제품군별로 보면 PC·노트북 61.1%, 세탁기·건조기 51.5%, 음향·이어폰 46.8%, 청소기 46.2%씩 줄었다....",
+          "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
+          "desc": "이 기술은 올해 1월 미국 라스베이거스에서 열린 세계 최대 가전·IT 박람회 CES 2026에서 삼성전자의 스타트업 육성 프로그램인 'C랩 전시관'을 통해 공개되기도 했다. 당시 인력난과 고물가 대안을 찾는 글로벌 F&B 관계자의...",
           "src": "한국경제",
           "date": "07/20",
-          "url": "https://n.news.naver.com/mnews/article/015/0005311646?sid=105",
-          "img": "https://img.hankyung.com/photo/202607/99.12032066.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
         },
         {
-          "title": "\"일상 동반자로 거듭날 것\"…삼성 계정, 기기 연결 넘어 가족까지 잇는...",
-          "desc": "삼성전자 뉴스룸에 따르면 삼성 계정 하나만 있으면 삼성 헬스, 삼성 월렛, 갤럭시 스토어, 삼성 클라우드 등 다양한 서비스를 자유롭게 이용할 수 있다. 또 '스마트싱스(SmartThing)'를 통해 모바일, TV, 가전까지 연결된...",
-          "src": "financialpost",
+          "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
+          "desc": "로봇청소기 인지도를 기반으로 국내 세탁가전 시장 공략을 본격화한 것으로 해석됐다. 국내 가전업계는... 삼성전자 공식 홈페이지에서 ‘비스포크 AI 콤보’는 약 400만원에, LG전자의 ‘LG 트롬 AI 오브제컬렉션...",
+          "src": "한국경제",
           "date": "07/20",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267147",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267147_341311_3341_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005311753?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/ZK.45086790.1.jpg"
+        },
+        {
+          "title": "삼성 감사페스티벌, 배송 지연돼 온누리상품권 못받을까 '불안'",
+          "desc": "또 다른 소비자 B씨는 \"지난달 30일 지마켓에서 삼성전자 4도어 냉장고를 주문했는데 배송예정일은 8월 25일이며, 더 늦어질 수도 있다는 답변을 받았다\"며 \"온누리상품권은 9월 5일까지 배송이 완료돼야 받을 수 있다는데...",
+          "src": "consumuch",
+          "date": "07/20",
+          "url": "https://www.consumuch.com/news/articleView.html?idxno=78580",
+          "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
+        },
+        {
+          "title": "한국어 무장한 '메타' vs 구글 연합한 '삼성'…AI글라스 패권 경쟁 촉발",
+          "desc": "대형 가전매장을 비롯해 국내 이동통신 3사의 온·오프라인 스토어로 판매처를 확대해 대중화에 속도를 낼 방침이다 ◆삼성전자, 구글과 연합전선...'갤럭시 글라스'로 반격 삼성전자는 오는 22일 영국에서 열리는...",
+          "src": "F투데이",
+          "date": "07/20",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362292",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362292_370998_5644_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "기업들 \"어렵지만 하반기 투자 늘리겠다\"...'노동 경직성 해소' 촉구",
-          "desc": "AI 투자, 생산성 제고 중심…도입‧전환 비용·전문인력 양성 지원 필요 기업들이 AI를 신사업 진출보다 생산성 제고와 경쟁력 확보를 위한 투자수단으로 우선 활용하고 있는 것으로 나타났다. AI 기술 확산에 따른...",
-          "src": "banronbodo",
+          "title": "제주항공, 전자 비행계획 솔루션 도입…\"AI 기반 업무 효율성 강화 기대...",
+          "desc": "제주항공은 앞서 2024년 발표한 기업가치 제고 계획에서 태블릿PC를 활용한 전자비행정보 도입과 탑승 서류 전자화를 탄소배출 저감을 위한 주요 과제로 제시한 바 있다고 말했다. 당시 제주항공은 정보기술(IT) 시스템...",
+          "src": "econonews",
           "date": "07/20",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=32663",
-          "img": "https://cdn.banronbodo.com/news/photo/202607/32663_47779_4946.jpg"
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441468",
+          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
         },
         {
-          "title": "[제약업계 소식] 7월 20일",
-          "desc": "■대웅제약, 삼성서울병원 스마트병실에 혈압 모니터링 '카트온' 결합한 '씽크' 도입 대웅제약(대표 이창재... 대웅제약은 AI 기술이 생체신호를 분석해 심정지 및 사망 전 발생하는 악성부정맥 등의 전조증상을...",
-          "src": "doctorstimes",
+          "title": "안산시 반월·시화국가산단 AI 제조혁신 협력 본격화",
+          "desc": "참여 기관들은 제조업 AI 전환과 디지털 혁신 확산을 위해 AI 기술 도입과 데이터 활용, 기술 실증, 전문인력 양성, 기업 맞춤형 지원을 연계하는 협력체계를 구축하기로 뜻을 모았습니다. 특히 AI 기술 공급기업과...",
+          "src": "newsclaim",
           "date": "07/20",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239096",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239096_108986_5840_v150.jpg"
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069820",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3069820_111380_5941_v150.jpg"
         },
         {
-          "title": "[병원계 소식] 7월 20일",
-          "desc": "사업책임자인 정세영 정보화실장(가정의학과)은 \"의료 AI 활용의 병목은 기술이 아니라 '도입 방식'에 있다\"며 \"AICON은 표준 기반 공통 플랫폼 위에서 병원과 AI가 만나는 구조를 만들어, 대형병원뿐 아니라 지역의...",
-          "src": "doctorstimes",
+          "title": "중국 AI 기상경보 시스템, 글로벌사우스 확산…7개국서 운영",
+          "desc": "개발도상국 도입…40개국서 클라우드 버전 시험 시진핑 \"5년 내 30개국 확대\"…AI 기반 공공기술 외교 강화... 파키스탄에서는 재난 경보 발령에, 나이지리아에서는 도시 홍수 예측에 활용되는 등 실제 적용 사례도...",
+          "src": "아주경제",
           "date": "07/20",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239097",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239097_108990_318_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260720201355460",
+          "img": "https://image.ajunews.com/content/image/2026/07/20/20260720201525984460.jpg"
         },
         {
-          "title": "국산 NPU 상용화 확대…클라우드 서비스 새 국면",
-          "desc": "전력 소비와 운영 비용을 고려한 추론용 반도체 도입도 이어지고 있기 때문이다. 공공 분야 활용 넓어져…클라우드 서비스 증가 국산 NPU의 활용 범위도 넓어지고 있다. LG CNS는 퓨리오사AI와 AI 인프라 분야 협력을 위한...",
-          "src": "polinews",
+          "title": "한은 CBDC, 9월 실거래 테스트…9개 은행 참여로 상용화 성큼",
+          "desc": "분산원장 기술을 활용해 결제 효율성과 투명성을 강화한 점이 특징이다. 전 세계적으로는 아직 도입 초기... 기사요약 by TokenPost.ai 시장 해석 한국은행이 CBDC 2단계에 돌입하며 실제 거래 기반 테스트를 시작함에 따라...",
+          "src": "tokenpost",
           "date": "07/20",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737432",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/737432_558320_2610_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/379510",
+          "img": "https://f1.tokenpost.kr/2026/07/c7bf5eq036.webp"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "안방서 만나는 ‘루브르 명작’…삼성전자, 아트 스토어 컬렉션 확대",
-      "url": "https://n.news.naver.com/mnews/article/666/0000115853?sid=101",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/20/.cache/512/20260720580359.jpg?v=20260720165435"
+      "title": "베테랑 셰프도 놀라겠네…'직원 3명 몫' 해낸 주방의 비밀 [영상]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311856?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/01.45090563.1.gif"
     },
     {
-      "title": "“사물인터넷(IoT) 활용 갈수록 늘어나는 데”…최소한의 보안기준 없어",
-      "url": "https://n.news.naver.com/mnews/article/030/0003449194?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/04/20/news-p.v1.20260420.2144967fdafa41899ffdf6b5dcf4a8c8_P1.jpg"
+      "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311753?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/ZK.45086790.1.jpg"
     },
     {
-      "title": "\"누가 TV로 냉장고 사나요\" 1500억 증발…삼성·LG도 갈아탔다 [홈쇼크①...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311646?sid=105",
-      "img": "https://img.hankyung.com/photo/202607/99.12032066.1.jpg"
+      "title": "삼성 감사페스티벌, 배송 지연돼 온누리상품권 못받을까 '불안'",
+      "url": "https://www.consumuch.com/news/articleView.html?idxno=78580",
+      "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
     },
     {
-      "title": "\"일상 동반자로 거듭날 것\"…삼성 계정, 기기 연결 넘어 가족까지 잇는...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267147",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267147_341311_3341_v150.jpg"
+      "title": "한국어 무장한 '메타' vs 구글 연합한 '삼성'…AI글라스 패권 경쟁 촉발",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=362292",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202607/362292_370998_5644_v150.jpg"
     },
     {
-      "title": "기업들 \"어렵지만 하반기 투자 늘리겠다\"...'노동 경직성 해소' 촉구",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=32663",
-      "img": "https://cdn.banronbodo.com/news/photo/202607/32663_47779_4946.jpg"
+      "title": "제주항공, 전자 비행계획 솔루션 도입…\"AI 기반 업무 효율성 강화 기대...",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441468",
+      "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
     },
     {
-      "title": "[제약업계 소식] 7월 20일",
-      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239096",
-      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239096_108986_5840_v150.jpg"
+      "title": "안산시 반월·시화국가산단 AI 제조혁신 협력 본격화",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069820",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3069820_111380_5941_v150.jpg"
     }
   ]
 };
