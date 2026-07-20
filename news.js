@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.21 (화) 03:50",
+  "updatedAt": "2026.07.21 (화) 06:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.72",
-        "diff": "+0.94",
-        "rate": "+1.15%",
-        "dir": "up"
+        "value": "82.48",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,477.80",
-        "diff": "-13.20",
-        "rate": "-0.89%",
+        "value": "1,478.50",
+        "diff": "-12.50",
+        "rate": "-0.84%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "909.33",
-        "diff": "-8.18",
-        "rate": "-0.89%",
+        "value": "909.82",
+        "diff": "-7.69",
+        "rate": "-0.84%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.32",
-        "diff": "-0.17",
-        "rate": "-1.10%",
+        "value": "15.33",
+        "diff": "-0.16",
+        "rate": "-1.03%",
         "dir": "down"
       }
     ]
@@ -86,16 +86,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"주총 승인 없는 최대 40조 성과급?\"…삼성전자 소액주주, 국민연금에 행...",
-          "desc": "스마트폰·가전을 담당하는 DX 부문은 추가 성과급 없이 600만원 상당의 자사주만 지급받는다. 같은 회사 직원 사이 성과급이 최대 100배 차이가 나는 셈이다. DX 부문 조합원이 많은 전국삼성전자노동조합(전삼노)의...",
-          "src": "joongangenews",
+          "title": "[바캉스 소비지도 ⑥] \"집 밖은 위험해\"…에어컨·로봇청소기 완성 '스마...",
+          "desc": "집안 가전 생태계의 초연결 플랫폼과 온디바이스 AI 엔진을 통해 차원이 다른 맞춤형 기류를 선사한다. 국내 냉방 시장을 양분하는 삼성전자와 LG전자는 각사의 핵심 AI 칩셋과 하드웨어 플랫폼을 앞세워 스마트 냉방...",
+          "src": "디지털데일리",
           "date": "07/21",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=534034",
-          "img": "https://cdn.joongangenews.com/news/photo/202607/534034_339365_220.png"
+          "url": "https://n.news.naver.com/mnews/article/138/0002234734?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/05/22/2026052213265750519_l.jpg"
         },
         {
           "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
-          "desc": "로봇청소기 인지도를 기반으로 국내 세탁가전 시장 공략을 본격화한 것으로 해석됐다. 국내 가전업계는... 삼성전자 공식 홈페이지에서 ‘비스포크 AI 콤보’는 약 400만원에, LG전자의 ‘LG 트롬 AI 오브제컬렉션...",
+          "desc": "그동안 국내 가전업체는 대용량·고가 제품을 중심으로 프리미엄 세탁건조기 시장에 주력했다. 삼성전자 공식 홈페이지에서 ‘비스포크 AI 콤보’는 약 400만원에, LG전자의 ‘LG 트롬 AI 오브제컬렉션 워시콤보’는 약...",
           "src": "한국경제",
           "date": "07/20",
           "url": "https://n.news.naver.com/mnews/article/015/0005311753?sid=101",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
         },
         {
-          "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
-          "desc": "29일에는 SK하이닉스가 2분기 실적을 공개하고, 30일에는 삼성전자가 확정 실적과 함께 컨퍼런스콜을... IT가전, 2차전지, 조선, 화학, 기계 업종은 6000선대에서 분할 매수 전략이 유효하다\"고 말했다. 조준기 SK증권...",
-          "src": "ziksir",
+          "title": "日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
+          "desc": "기기 값에 구독료까지 더해져 소비자가 체감하는 '애플 생태계 입장료'가 전반적으로 비싸지는 셈이다.... 선보일 삼성전자에는 기회와 부담이 동시에 작용할 것으로 보인다. 아이폰의 가격이 오르면 갤럭시 S시리즈나...",
+          "src": "뉴시스",
           "date": "07/21",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
+          "img": "https://img1.newsis.com/2025/04/15/NISI20250415_0001818314_web.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "‘AI 광풍’ 뒤의 그늘… 화이트칼라 프리미엄 흔들린다",
-          "desc": "과거 저임금 노동자가 주로 겪던 고용 불확실성 현상이 고임금 기술 전문직으로 확대되는 셈이다. 1970년대 제조업 자동화가 두 세대에 걸쳐 진행된 반면 2020년대 사무직 AI 도입은 실시간으로 이뤄진다. 노동시장...",
-          "src": "g-enews",
+          "title": "갤럭시 언팩 D-1...삼성, 英피카딜리 광장 등서 변화 예고",
+          "desc": "삼성전자는 이달 초순부터 티저 영상 공개, 갤럭시 언팩 2026 초대장 발송, 플렉스 티타늄 디스플레이 기술... 당시 삼성전자는 \"(티저) 영상은 AI 활용이 확대되고 AI 경험의 핵심 진입점으로 모바일 기기가 자리잡는...",
+          "src": "ZDNet코리아",
           "date": "07/21",
-          "url": "https://www.g-enews.com/view.php?ud=202607201815421782fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072018174600411fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002431161?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/21/859c5fa7ebf1d63059f5a417aa7d31d1.png"
         },
         {
-          "title": "AMD, 첫 AI 랙 시스템 '헬리오스'로 엔비디아에 도전",
-          "desc": "먼저 도입하기도 했다. MS는 자체 개발한 AI 칩인 마이아도 데이터센터에서 함께 활용하고 있다. MS는... 헬리오스는 AMD가 자체 개발한 GPU, 중앙처리장치(CPU), 네트워킹, 소프트웨어 등 4개 핵심 기술을 하나의...",
-          "src": "블로터",
+          "title": "AI기본법 후속 개정안 시행…생성형 AI 표시 의무 본격화",
+          "desc": "정부는 국가기관이 제품과 서비스를 조달할 때 AI 제품을 우선 고려하도록 하고, 과학기술정보통신부 장관이 AI 활용 여부를 확인하는 제도를 도입합니다. 확인서를 받은 기업은 다수공급자계약 참여 요건 완화와...",
+          "src": "MBN",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/293/0000087839?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202607/668483_281426_4349_v150.jpg"
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005883469",
+          "img": ""
         },
         {
-          "title": "CJ제일제당 부산공장 ‘색’ 더해 안전 높인다…식품업계 최초",
-          "desc": "배색과 명도·채도차를 활용해 시인성을 높이고 화물차량 지게차 작업자 등의 이동 동선을 보다 명확히... 실제로 부산공장은 최근 인공지능(AI)을 통한 위험 감지 시스템과 스마트 안전모 등 첨단 기술을 적극 도입하며...",
-          "src": "kookje",
+          "title": "“연내 입법”…오늘 스테이블코인법 첫 정부 포럼 열린다",
+          "desc": "그는 “국회와 정부는 AI 에이전트가 안전하게 거래할 수 있는 법적 기반을 마련하고, 원화 기반 스테이블코인의 활용과 국제 경쟁력을 함께 고민해야 한다”며 “국가 경쟁력은 기술뿐 아니라 제도를 얼마나 먼저...",
+          "src": "이데일리",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/658/0000150090?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0720/L20260720.99099005787i1.jpg?34"
+          "url": "https://n.news.naver.com/mnews/article/018/0006333492?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072100178.jpg"
         },
         {
-          "title": "[직장 돋보기 분석] SK하이닉스, 평균연봉 1억8500만원·정규직 99%…AI 초...",
-          "desc": "종합적으로 활용합니다. <편집자 주> 곽노정 SK하이닉스 대표이사 / 사진편집=뉴스투데이 [뉴스투데이... 수준의 기술력을 보유한 대한민국 대표 글로벌 반도체 기업이다. AI, 데이터센터, 모바일, PC, 자동차 등...",
+          "title": "뉴욕증시, 미·이란 긴장 속 빅테크 실적 관망하며 하락…SK하이닉스 AD...",
+          "desc": "위해 AI(인공지능)를 활용해 제작했습니다. [그림=챗GPT] [뉴스투데이=황수분 기자] 뉴욕증시가 미국과 이란 간의 군사적 긴장 고조와 이번 주 본격화되는 주요 기술기업들의 실적 발표를 앞둔 경계심리가 맞물리며...",
           "src": "news2day",
           "date": "07/21",
-          "url": "https://www.news2day.co.kr/article/20260716500131",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/16/.cache/512/20260716500130.png"
+          "url": "https://www.news2day.co.kr/article/20260721500013",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/21/.cache/512/20260721500012.png"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"주총 승인 없는 최대 40조 성과급?\"…삼성전자 소액주주, 국민연금에 행...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=534034",
-      "img": "https://cdn.joongangenews.com/news/photo/202607/534034_339365_220.png"
+      "title": "[바캉스 소비지도 ⑥] \"집 밖은 위험해\"…에어컨·로봇청소기 완성 '스마...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234734?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/05/22/2026052213265750519_l.jpg"
     },
     {
       "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
     },
     {
-      "title": "'6500선' 흔들린 증시 살아날까…어닝시즌, 순환매 분수령",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=140524",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140524_160468_3226_v150.jpg"
+      "title": "日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
+      "img": "https://img1.newsis.com/2025/04/15/NISI20250415_0001818314_web.jpg"
     },
     {
-      "title": "‘AI 광풍’ 뒤의 그늘… 화이트칼라 프리미엄 흔들린다",
-      "url": "https://www.g-enews.com/view.php?ud=202607201815421782fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072018174600411fbbec65dfb211211153121.jpg"
+      "title": "갤럭시 언팩 D-1...삼성, 英피카딜리 광장 등서 변화 예고",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431161?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/07/21/859c5fa7ebf1d63059f5a417aa7d31d1.png"
     },
     {
-      "title": "AMD, 첫 AI 랙 시스템 '헬리오스'로 엔비디아에 도전",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087839?sid=105",
-      "img": "https://cdn.bloter.net/news/thumbnail/202607/668483_281426_4349_v150.jpg"
+      "title": "“연내 입법”…오늘 스테이블코인법 첫 정부 포럼 열린다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006333492?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072100178.jpg"
     }
   ]
 };
