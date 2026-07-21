@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.22 (수) 00:00",
+  "updatedAt": "2026.07.22 (수) 03:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-21",
+    "asOf": "2026-07-22",
     "items": [
       {
         "label": "LME 구리",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.51",
-        "diff": "+2.03",
-        "rate": "+2.46%",
+        "value": "84.27",
+        "diff": "+1.79",
+        "rate": "+2.17%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,481.60",
-        "diff": "+3.10",
-        "rate": "+0.21%",
+        "value": "1,480.60",
+        "diff": "+2.10",
+        "rate": "+0.14%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "908.79",
-        "diff": "-1.03",
-        "rate": "-0.11%",
+        "value": "907.65",
+        "diff": "-2.17",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.30",
-        "diff": "+0.04",
-        "rate": "+0.48%",
+        "value": "8.29",
+        "diff": "+0.03",
+        "rate": "+0.36%",
         "dir": "up"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.39",
-        "diff": "+0.06",
-        "rate": "+0.39%",
+        "value": "15.38",
+        "diff": "+0.05",
+        "rate": "+0.33%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성, 반도체 다음은 '로봇'…압도적 제조 데이터로 보스턴다이나믹스...",
-          "desc": "반도체(DS)가 슈퍼사이클에 힘입어 초유의 실적을 기록하는 동안 DX 부문은 가전 부진과 스마트폰 정체라는 이중고에 직면했기 때문이다. 삼성전자는 RX사업추진실을 필두로 로봇을 DX 부문의 차세대 주력 사업으로...",
-          "src": "아주경제",
-          "date": "07/21",
-          "url": "https://www.ajunews.com/view/20260721142411490",
-          "img": "https://image.ajunews.com/content/image/2026/07/21/20260721143205688954.jpg"
+          "title": "7월 4주 주요 제조업 전망",
+          "desc": "추가 투자까지 합치면 TSMC 총 대미 투자액은 2,650억 달러(약 391조7,000억 원) 규모임 □ 삼성전자 로봇 전담... 기반 가전기기 사용 증대 즉 스마트홈 구축 증대에 따라 집 전체를 아우르는 메시 와이파이 시스템은...",
+          "src": "laborplus",
+          "date": "07/22",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41170",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202607/41170_73085_3740.png"
         },
         {
           "title": "[주식마감] '로봇주' 강세에 코스모로보틱스 상한가... 에브리봇, 스모...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
         },
         {
-          "title": "AI 고효율 가전, 8년 연속 ‘에너지대상’",
-          "desc": "삼성전자가 소비자시민모임이 주최하고 기후에너지환경부와 한국에너지공단이 후원하는 ‘제29회 올해의 에너지위너상’에서 8년 연속 ‘에너지대상’을 수상했다고 21일 밝혔다. 사진은 에너지대상을 받은 삼성전자...",
-          "src": "segye",
-          "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/022/0004144802?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/21/20260721519382.jpg"
+          "title": "삼성전자의 승부수… 로봇 사업 본격 나선다",
+          "desc": "업계에서는 삼성전자가 로봇 분야 M&A(인수·합병)와 스타트업 투자에도 나설 것으로 보고 있다. 너도나도 로봇에 뛰어들어 최근 세계 가전·전자업체들은 일제히 로봇 사업에 뛰어들고 있다. LG전자는 3주 전 류재철...",
+          "src": "조선일보",
+          "date": "07/22",
+          "url": "https://n.news.naver.com/mnews/article/023/0003988846?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/BDQHWTAKNFHBBA5Z4AZJV3LEJA.jpg?auth=be469bcb7c7215a038b6dd2d5287a866055772e9ae502185eeba6a332ea741e2&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경북도, 푸드테크 기술 외식 현장으로… 식품로봇 실증 거점 구축",
-          "desc": "현장 도입을 고민하는 이들이 식품로봇의 실제 활용 모습을 눈으로 쉽게 확인하도록 도울 방침이다. 또한 유튜브와 블로그 등에 공개된 다양한 조리법을 로봇이 인식할 수 있는 데이터로 변환하는 '에이아이(AI) 통합...",
-          "src": "youngnong",
-          "date": "07/21",
-          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61046",
-          "img": "http://cdn.youngnong.co.kr/news/photo/202607/61046_52560_5835.jpg"
+          "title": "AI가 돕는 목회 일 허용 범위는? 美서 뜨거운 논쟁",
+          "desc": "AI를 활용했다고 답한 목회자들이 2023년 조사 결과보다 전반적으로 늘었다. 목회자 10명 중 8명은 AI가 개개인의 영적 필요를 파악해 제공하는 맞춤형 신앙 서비스를 교회에 도입할 의향이 있다고 답했다. WSJ 보도에...",
+          "src": "kmib",
+          "date": "07/22",
+          "url": "https://n.news.naver.com/mnews/article/005/0001862364?sid=103",
+          "img": "https://image.kmib.co.kr/online_image/2026/0722/2026072120330623897_1784633586_1784621976.jpg"
         },
         {
-          "title": "박관문 광주시장 \"시민과 직통하는 행정으로 광주 대전환…AI·반도체 중...",
-          "desc": "셔틀열차를 도입하고 광주형 올빼미버스를 운영하는 한편 철도와 도로망을 단계적으로 확충하겠다\"고 밝혔다. 이어 스마트 교통기술을 활용해 상습 정체구간을 개선하고 대중교통 서비스도 획기적으로 개선하겠다며...",
-          "src": "fntoday",
-          "date": "07/21",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388568",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202607/388568_311558_2358_v150.jpg"
+          "title": "중국산 AI 공세에 흔들리는 美 규제전선",
+          "desc": "이에 따라 오픈웨이트 모델의 접근성을 제한하면 미국 기업의 AI 비용 절감과 기술 활용까지 위축될 수... 다만 의회와 행정부는 그 이후 중국산 AI 모델 전반을 대상으로 한 추가 규제는 도입하지 않았다. 미국 당국은...",
+          "src": "g-enews",
+          "date": "07/22",
+          "url": "https://www.g-enews.com/view.php?ud=2026072120114836729a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260721202156028649a1f30943117511616074.jpg"
         },
         {
-          "title": "박칠성 서울시의원, 도시안전건설위원장 선출…\"AI 기반 재난대응으로 ...",
-          "desc": "박 위원장은 인공지능(AI)과 첨단기술을 활용한 재난 대응체계 구축과 노후 기반시설 안전관리 강화 등을... 그는 \"화재 취약지역에는 화재감시 로봇 등 첨단장비를 적극 도입하고 지하철과 지하상가, 복합시설 등 대규모...",
-          "src": "fntoday",
-          "date": "07/21",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388567",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202607/388567_311557_1715_v150.jpg"
+          "title": "미중, 9월 AI 공식협상 개최…트럼프 취임 후 첫 정부간 대화",
+          "desc": "이 같은 흐름 속에 앤트로픽은 지난 2월 문샷 등 일부 AI 연구소가 ‘증류(distillation)’ 방식을 활용했다고... 규제를 도입하는 방안까지 검토 중인 것으로 전해졌다. 반대로 중국 당국도 자국 AI 기술에 대한 해외 접근을...",
+          "src": "wikitree",
+          "date": "07/22",
+          "url": "https://www.wikitree.co.kr/articles/1147650",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/22/202607220237470631_ai.jpeg"
         },
         {
-          "title": "우리금융그룹, AI 악용 보이스피싱 대응 세미나 개최…예방책 강화",
-          "desc": "세미나에서는 경찰청 전기통신금융사기 통합대응단 박상현 경정이 강사로 나서 AI 기술을 활용한 신종... 3%포인트의 금리 인하 혜택을 제공하고 있으며, 2024년 4월 금융권 최초로 도입한 보이스피싱 피해 무료 보험...",
-          "src": "gukjenews",
-          "date": "07/21",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3642346",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3642346_3807162_5947_v150.jpg"
+          "title": "[MT시평/박양수]기술 보호에서 기술거래 활성화로",
+          "desc": "이들 분야는 기술기업이 혁신을 주도하고, 대기업은 자본과 네트워크, 글로벌 사업화 역량을 활용해 이를... 대기업과 중견기업은 M&A를 통해 신사업 진출, 기술역량 강화, AI 전환 가속화라는 효과를 얻고, 기술기업은...",
+          "src": "머니투데이",
+          "date": "07/22",
+          "url": "https://n.news.naver.com/mnews/article/008/0005388914?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071509242651227_1.jpg"
         }
       ]
     },
@@ -230,21 +230,21 @@ window.NEWS_DATA = {
           "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
         },
         {
-          "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
-          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
-          "src": "dailysecu",
-          "date": "05/11",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
+          "title": "7월 4주 주요 제조업 전망",
+          "desc": "사용하는 '와이어링 하니스' 부품의 종류는 세부 사양별로 약 7만 종에 달함. 이 부품은 배터리와 센서... 사토 부회장은 이 배선 하네스만 몇 가지 종류로 표준화해도 생산성을 최대 10배까지 향상시킬 수 있다고...",
+          "src": "laborplus",
+          "date": "07/22",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41170",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202607/41170_73085_3740.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성, 반도체 다음은 '로봇'…압도적 제조 데이터로 보스턴다이나믹스...",
-      "url": "https://www.ajunews.com/view/20260721142411490",
-      "img": "https://image.ajunews.com/content/image/2026/07/21/20260721143205688954.jpg"
+      "title": "7월 4주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41170",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202607/41170_73085_3740.png"
     },
     {
       "title": "[주식마감] '로봇주' 강세에 코스모로보틱스 상한가... 에브리봇, 스모...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
     },
     {
-      "title": "AI 고효율 가전, 8년 연속 ‘에너지대상’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004144802?sid=101",
-      "img": "https://www.segye.com/content/image/2026/07/21/20260721519382.jpg"
+      "title": "삼성전자의 승부수… 로봇 사업 본격 나선다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988846?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/BDQHWTAKNFHBBA5Z4AZJV3LEJA.jpg?auth=be469bcb7c7215a038b6dd2d5287a866055772e9ae502185eeba6a332ea741e2&width=1200&height=630&smart=true"
     },
     {
-      "title": "경북도, 푸드테크 기술 외식 현장으로… 식품로봇 실증 거점 구축",
-      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61046",
-      "img": "http://cdn.youngnong.co.kr/news/photo/202607/61046_52560_5835.jpg"
+      "title": "AI가 돕는 목회 일 허용 범위는? 美서 뜨거운 논쟁",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862364?sid=103",
+      "img": "https://image.kmib.co.kr/online_image/2026/0722/2026072120330623897_1784633586_1784621976.jpg"
     },
     {
-      "title": "박관문 광주시장 \"시민과 직통하는 행정으로 광주 대전환…AI·반도체 중...",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388568",
-      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202607/388568_311558_2358_v150.jpg"
+      "title": "중국산 AI 공세에 흔들리는 美 규제전선",
+      "url": "https://www.g-enews.com/view.php?ud=2026072120114836729a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260721202156028649a1f30943117511616074.jpg"
     }
   ]
 };
