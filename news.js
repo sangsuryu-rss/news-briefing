@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.21 (화) 06:57",
+  "updatedAt": "2026.07.21 (화) 13:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,501",
-        "diff": "-53",
-        "rate": "-0.39%",
-        "dir": "down",
+        "value": "13,621",
+        "diff": "+120",
+        "rate": "+0.89%",
+        "dir": "up",
         "avg": "13,552",
-        "avgDiff": "-51",
-        "avgRate": "-0.4%",
-        "avgDir": "down"
+        "avgDiff": "+69",
+        "avgRate": "+0.5%",
+        "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.48",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "82.14",
+        "diff": "-0.34",
+        "rate": "-0.41%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,478.50",
-        "diff": "-12.50",
-        "rate": "-0.84%",
+        "value": "1,474.00",
+        "diff": "-4.50",
+        "rate": "-0.30%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "909.82",
-        "diff": "-7.69",
-        "rate": "-0.84%",
+        "value": "907.19",
+        "diff": "-2.63",
+        "rate": "-0.29%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "-0.09",
-        "rate": "-1.08%",
+        "value": "8.24",
+        "diff": "-0.02",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.63",
-        "diff": "-0.05",
-        "rate": "-0.88%",
+        "value": "5.60",
+        "diff": "-0.03",
+        "rate": "-0.53%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.33",
-        "diff": "-0.16",
-        "rate": "-1.03%",
+        "value": "15.30",
+        "diff": "-0.03",
+        "rate": "-0.20%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성·LG전자, 고효율 AI 가전 앞세워 '에너지위너상' 석권",
+          "desc": "삼성전자, 8년 연속 '에너지대상' 수상 LG전자, 12개 업계 최다 수상 기록 삼성전자와 LG전자가 인공지능(AI)·고효율 기술을 적용한 생활가전을 앞세워 '에너지위너상'을 휩쓸었다. 삼성전자는 소비자시민모임이...",
+          "src": "더팩트",
+          "date": "07/21",
+          "url": "https://n.news.naver.com/mnews/article/629/0000517622?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/07/21/202617081784604423.jpg"
+        },
+        {
           "title": "[바캉스 소비지도 ⑥] \"집 밖은 위험해\"…에어컨·로봇청소기 완성 '스마...",
-          "desc": "집안 가전 생태계의 초연결 플랫폼과 온디바이스 AI 엔진을 통해 차원이 다른 맞춤형 기류를 선사한다. 국내 냉방 시장을 양분하는 삼성전자와 LG전자는 각사의 핵심 AI 칩셋과 하드웨어 플랫폼을 앞세워 스마트 냉방...",
+          "desc": "국내 냉방 시장을 양분하는 삼성전자와 LG전자는 각사의 핵심 AI 칩셋과 하드웨어 플랫폼을 앞세워 스마트... ◆ 로보락·에코백스가 이끄는 올인원 로봇청소기의 가사 해방 진정한 휴식의 완성은 몸을 움직여야 하는...",
           "src": "디지털데일리",
           "date": "07/21",
           "url": "https://n.news.naver.com/mnews/article/138/0002234734?sid=105",
           "img": "https://www.ddaily.co.kr/photos/2026/05/22/2026052213265750519_l.jpg"
         },
         {
-          "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
-          "desc": "그동안 국내 가전업체는 대용량·고가 제품을 중심으로 프리미엄 세탁건조기 시장에 주력했다. 삼성전자 공식 홈페이지에서 ‘비스포크 AI 콤보’는 약 400만원에, LG전자의 ‘LG 트롬 AI 오브제컬렉션 워시콤보’는 약...",
+          "title": "삼성·LG 가전영토 확장에 속도전",
+          "desc": "삼성전자와 LG전자가 가전사업 확장에 속도를 내고 있다. 개별 소비를 넘어 종교시설이나 재건축단지... 조합원에게는 구역에 따라 냉장고 세탁기 건조기 스타일러 식기세척기 등 5~7종의 가전을 선택할 수 있다. 특히 3...",
+          "src": "naeil",
+          "date": "07/21",
+          "url": "https://www.naeil.com/news/read/595895?ref=naver",
+          "img": "https://wimg.naeil.com/paper/2026/07/21/20260721_01100114000001_L01.jpg"
+        },
+        {
+          "title": "이번엔 세탁건조기…가성비 꺼내든 로보락",
+          "desc": "로봇청소기 인지도를 기반으로 국내 세탁가전 시장 공략을 본격화한 것으로 해석됐다. 국내 가전업계는... 삼성전자 공식 홈페이지에서 ‘비스포크 AI 콤보’는 약 400만원에, LG전자의 ‘LG 트롬 AI 오브제컬렉션...",
           "src": "한국경제",
           "date": "07/20",
           "url": "https://n.news.naver.com/mnews/article/015/0005311753?sid=101",
           "img": "https://img.hankyung.com/photo/202607/ZK.45086790.1.jpg"
-        },
-        {
-          "title": "삼성 감사페스티벌, 배송 지연돼 온누리상품권 못받을까 '불안'",
-          "desc": "또 다른 소비자 B씨는 \"지난달 30일 지마켓에서 삼성전자 4도어 냉장고를 주문했는데 배송예정일은 8월 25일이며, 더 늦어질 수도 있다는 답변을 받았다\"며 \"온누리상품권은 9월 5일까지 배송이 완료돼야 받을 수 있다는데...",
-          "src": "consumuch",
-          "date": "07/20",
-          "url": "https://www.consumuch.com/news/articleView.html?idxno=78580",
-          "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
-        },
-        {
-          "title": "日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
-          "desc": "기기 값에 구독료까지 더해져 소비자가 체감하는 '애플 생태계 입장료'가 전반적으로 비싸지는 셈이다.... 선보일 삼성전자에는 기회와 부담이 동시에 작용할 것으로 보인다. 아이폰의 가격이 오르면 갤럭시 S시리즈나...",
-          "src": "뉴시스",
-          "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
-          "img": "https://img1.newsis.com/2025/04/15/NISI20250415_0001818314_web.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "갤럭시 언팩 D-1...삼성, 英피카딜리 광장 등서 변화 예고",
-          "desc": "삼성전자는 이달 초순부터 티저 영상 공개, 갤럭시 언팩 2026 초대장 발송, 플렉스 티타늄 디스플레이 기술... 당시 삼성전자는 \"(티저) 영상은 AI 활용이 확대되고 AI 경험의 핵심 진입점으로 모바일 기기가 자리잡는...",
-          "src": "ZDNet코리아",
+          "title": "'가짜·베끼기' 특허 출원 싹 잡는다...지재처, '신의성실' 위반 법령 정...",
+          "desc": "(AI)기술의 급격한 발전에 따라 대량으로 자동 생성된 부실 명세서나 기계적인 데이터 조작 출원이 급증하고 있는 산업계의 현실과도 맞닿아 있다는 분석이다. 정교해진 AI 도구를 활용해 사실상 존재하지 않는 가상의 실험...",
+          "src": "파이낸셜뉴스",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/092/0002431161?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/21/859c5fa7ebf1d63059f5a417aa7d31d1.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005550696?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/21/202607211250582514_l.jpg"
         },
         {
-          "title": "AI기본법 후속 개정안 시행…생성형 AI 표시 의무 본격화",
-          "desc": "정부는 국가기관이 제품과 서비스를 조달할 때 AI 제품을 우선 고려하도록 하고, 과학기술정보통신부 장관이 AI 활용 여부를 확인하는 제도를 도입합니다. 확인서를 받은 기업은 다수공급자계약 참여 요건 완화와...",
-          "src": "MBN",
+          "title": "모비젠, 삼성전자 출신 보안·플랫폼 전문가 이재원 이사 영입",
+          "desc": "위해서는 기술의 언어와 현장의 요구를 함께 이해하고, 이를 신뢰할 수 있는 구조로 설계하는 역량이 중요하다\"며 \"AI 역시 모델의 성능을 넘어 실제 운영 환경에서 안정적으로 활용될 수 있는 플랫폼이 중요하다....",
+          "src": "itbiznews",
           "date": "07/21",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005883469",
-          "img": ""
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=219621",
+          "img": "https://cdn.itbiznews.com/news/photo/202607/219621_222257_630.png"
         },
         {
-          "title": "“연내 입법”…오늘 스테이블코인법 첫 정부 포럼 열린다",
-          "desc": "그는 “국회와 정부는 AI 에이전트가 안전하게 거래할 수 있는 법적 기반을 마련하고, 원화 기반 스테이블코인의 활용과 국제 경쟁력을 함께 고민해야 한다”며 “국가 경쟁력은 기술뿐 아니라 제도를 얼마나 먼저...",
-          "src": "이데일리",
+          "title": "신한은행, '신한 AX 에이전트 서밋 2026' 개최",
+          "desc": "제공하고 AI 네이티브 조직 전환을 위한 발전 방향을 제시했다. 신한은행 관계자는 \"금융 AX는 새로운 기술을 도입하는 것뿐 아니라 실제 업무에 안전하고 효율적으로 활용할 수 있도록 지속적으로 검증하고 개선하는...",
+          "src": "ezyeconomy",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/018/0006333492?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072100178.jpg"
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=237757",
+          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202607/237757_139145_456_v150.jpg"
         },
         {
-          "title": "뉴욕증시, 미·이란 긴장 속 빅테크 실적 관망하며 하락…SK하이닉스 AD...",
-          "desc": "위해 AI(인공지능)를 활용해 제작했습니다. [그림=챗GPT] [뉴스투데이=황수분 기자] 뉴욕증시가 미국과 이란 간의 군사적 긴장 고조와 이번 주 본격화되는 주요 기술기업들의 실적 발표를 앞둔 경계심리가 맞물리며...",
-          "src": "news2day",
+          "title": "제이오션중공업·유캐스트, 군산조선소 스마트 전환 협력... 정부 국책사...",
+          "desc": "피지컬 AI 솔루션을 도입하는 스마트 조선소 구축에 나선다고 밝혔다. 제이오션중공업은 HJ중공업의... 제이오션중공업 관계자는 \"이번 협약은 군산조선소에 최첨단 이음5G와 피지컬 AI 기술을 적용하는 상징적 의미가...",
+          "src": "gukjenews",
           "date": "07/21",
-          "url": "https://www.news2day.co.kr/article/20260721500013",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/21/.cache/512/20260721500012.png"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3641712",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3641712_3806462_319_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[메가이슈토픽] 현대차 \"성과급 30%·파업은 미래 경쟁력 발목\"…최영일...",
+          "desc": "▲[사진=챗GPT4] 삼성전자와 SK하이닉스에서 촉발된 이른바 ‘N% 성과급’ 요구가 자동차·조선·철강업계로... ◆ 완성차·조선·철강업계 번진 '몫의 전쟁'…파업 장기화 땐 협력사·고객 피해 불가피 재계에서는 성과에 대한...",
+          "src": "megaeconomy",
+          "date": "07/21",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577554248177",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260721/p1065577554248177_948_thum.png"
+        },
+        {
+          "title": "충청권 대규모 첨단산업 투자…세종, 행정 넘어 산업 자족도시로",
+          "desc": "대규모 산업시설 투자는 생산시설 조성 과정의 건설 인력 수요부터 준공 후 상시 고용, 협력사 유입까지... 실제로 삼성전자 반도체 캠퍼스가 위치한 경기 평택과 SK하이닉스 사업장이 자리한 충북 청주에서는 설비투자...",
+          "src": "apnews",
+          "date": "07/21",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3049885",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049885_82070_339_v150.jpg"
+        },
         {
           "title": "현대차 노조, 오늘부터 또 파업…휴가 전 협상 분수령",
           "desc": "생산 차질이 장기화될 경우 3분기 실적은 물론, 부품을 납품하는 협력업체의 피해도 커질 수 있다는 우려가... 특히 협력사가 많은 자동차 산업의 특징상 피해가 확산될 가능성이 있습니다. 전문가들은 삼성전자 노사...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/20",
           "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273240",
           "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273240_280502_3213_v150.jpg"
-        },
-        {
-          "title": "천안 제6일반산업단지, 총 96만㎡ 규모로 조성…사전청약 진행 중",
-          "desc": "입주 가능 업종은 전자부품·전기장비·기계장비·자동차·금속가공·화학제품 등 제조업 전반을 아우른다.... 물류 효율성과 협력사 접근성을 함께 갖춘 입지로 평가받는다. 현재 사전청약이 진행 중이다. 업계에서는...",
-          "src": "nextdaily",
-          "date": "07/20",
-          "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251385",
-          "img": "https://cdn.nextdaily.co.kr/news/photo/202607/251385_351443_214.jpg"
-        },
-        {
-          "title": "마이크론, 퀄컴·현대모비스·하만 등 자동차 생태계 7곳과 SCA 체결",
-          "desc": "마이크론이 전세계 자동차 산업을 지원하는 생태계 협력사 7곳과 전략적 고객 계약(SCA)를 체결했다고 16일... 하만은 삼성전자가 2016년 인수한 자동차 전장, 오디오 기업이다. 이규석 현대모비스 사장은 \"자동차...",
-          "src": "thelec",
-          "date": "07/18",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=59714",
-          "img": "https://cdn.thelec.kr/news/photo/202607/59714_47116_3444.jpg"
         }
       ]
     },
@@ -230,46 +230,46 @@ window.NEWS_DATA = {
           "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
         },
         {
-          "title": "'첨단車 개발 전진기지' …현대차·기아 남양기술연구소",
-          "desc": "김상연 현대차·기아 노바랩 파트장은 “2019년부터 와이어카를 개발했다”며 “SDV 프로젝트 초기 단계에서 제어기, 전장, 와이어링 하네스가 제대로 작동하는 지 검증하며 사전에 문제점을 없애 SDV 완성도를 높이자는...",
-          "src": "전자신문",
-          "date": "07/02",
-          "url": "https://n.news.naver.com/mnews/article/030/0003443806?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/07/02/news-p.v1.20260702.d595931810d54f8da064fda05aac9727_P1.jpg"
+          "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
+          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
+          "src": "dailysecu",
+          "date": "05/11",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
+          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "삼성·LG전자, 고효율 AI 가전 앞세워 '에너지위너상' 석권",
+      "url": "https://n.news.naver.com/mnews/article/629/0000517622?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/07/21/202617081784604423.jpg"
+    },
+    {
       "title": "[바캉스 소비지도 ⑥] \"집 밖은 위험해\"…에어컨·로봇청소기 완성 '스마...",
       "url": "https://n.news.naver.com/mnews/article/138/0002234734?sid=105",
       "img": "https://www.ddaily.co.kr/photos/2026/05/22/2026052213265750519_l.jpg"
     },
     {
-      "title": "100만원대 '가성비'에 관심 폭발…삼성·LG 노린 中 '초강수'",
+      "title": "삼성·LG 가전영토 확장에 속도전",
+      "url": "https://www.naeil.com/news/read/595895?ref=naver",
+      "img": "https://wimg.naeil.com/paper/2026/07/21/20260721_01100114000001_L01.jpg"
+    },
+    {
+      "title": "이번엔 세탁건조기…가성비 꺼내든 로보락",
       "url": "https://n.news.naver.com/mnews/article/015/0005311753?sid=101",
       "img": "https://img.hankyung.com/photo/202607/ZK.45086790.1.jpg"
     },
     {
-      "title": "삼성 감사페스티벌, 배송 지연돼 온누리상품권 못받을까 '불안'",
-      "url": "https://www.consumuch.com/news/articleView.html?idxno=78580",
-      "img": "https://cdn.consumuch.com/news/thumbnail/202607/78580_67263_571_v150.jpg"
+      "title": "'가짜·베끼기' 특허 출원 싹 잡는다...지재처, '신의성실' 위반 법령 정...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005550696?sid=102",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/21/202607211250582514_l.jpg"
     },
     {
-      "title": "日서 먼저 오른 아이폰값…'200만원 아이폰' 한국도 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/003/0014077151?sid=105",
-      "img": "https://img1.newsis.com/2025/04/15/NISI20250415_0001818314_web.jpg"
-    },
-    {
-      "title": "갤럭시 언팩 D-1...삼성, 英피카딜리 광장 등서 변화 예고",
-      "url": "https://n.news.naver.com/mnews/article/092/0002431161?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/21/859c5fa7ebf1d63059f5a417aa7d31d1.png"
-    },
-    {
-      "title": "“연내 입법”…오늘 스테이블코인법 첫 정부 포럼 열린다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006333492?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072100178.jpg"
+      "title": "모비젠, 삼성전자 출신 보안·플랫폼 전문가 이재원 이사 영입",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=219621",
+      "img": "https://cdn.itbiznews.com/news/photo/202607/219621_222257_630.png"
     }
   ]
 };
