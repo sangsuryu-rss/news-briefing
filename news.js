@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.21 (화) 16:29",
+  "updatedAt": "2026.07.21 (화) 20:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,50 +31,50 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.70",
-        "diff": "+0.22",
-        "rate": "+0.27%",
+        "value": "83.19",
+        "diff": "+0.71",
+        "rate": "+0.86%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,475.00",
-        "diff": "-3.50",
-        "rate": "-0.24%",
+        "value": "1,477.30",
+        "diff": "-1.20",
+        "rate": "-0.08%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "907.37",
-        "diff": "-2.45",
-        "rate": "-0.27%",
+        "value": "908.11",
+        "diff": "-1.71",
+        "rate": "-0.19%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.26",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "8.28",
+        "diff": "+0.02",
+        "rate": "+0.24%",
+        "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.61",
-        "diff": "-0.02",
-        "rate": "-0.36%",
+        "value": "5.62",
+        "diff": "-0.01",
+        "rate": "-0.18%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.33",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "15.35",
+        "diff": "+0.02",
+        "rate": "+0.13%",
+        "dir": "up"
       }
     ]
   },
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[재계 투데이] 삼성전자, 고효율 AI 가전 8년 연속 '에너지대상' 수상 外",
-          "desc": "◆삼성전자, 고효율 AI 가전으로 8년 연속 '에너지대상' 수상 삼성전자가 소비자시민모임이 주최하고 기후에너지환경부, 한국에너지공단이 후원하는 '제29회 올해의 에너지위너상'에서 8년 연속 '에너지대상'을...",
-          "src": "news",
+          "title": "삼성·LG전자, '에너지위너상' 휩쓸어…AI 고효율 가전 경쟁 본격화",
+          "desc": "사진=삼성전자  삼성전자와 LG전자가 인공지능(AI)과 고효율 기술을 적용한 가전·공조 제품을 앞세워 '제29회 올해의 에너지위너상'에서 나란히 대규모 수상 성과를 거뒀다. 21일 업계에 따르면 소비자시민모임이...",
+          "src": "pointdaily",
           "date": "07/21",
-          "url": "https://news.dealsitetv.com/articles/173543",
-          "img": ""
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312646",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
         },
         {
-          "title": "삼성전자 감사 페스티벌 고객들 \"온누리상품권 어디서 쓰나요?\"…온누리...",
-          "desc": "가비파트너스가 운영하는 온누리쇼핑은 삼성전자 감사 페스티벌 이후 디지털 온누리상품권 사용처를 찾는... 무선청소기, 로봇청소기, 제습기 등 생활가전과 디지털기기를 함께 구매하려는 사례가 증가한 것으로...",
-          "src": "thebilliards",
+          "title": "[주식마감] '로봇주' 강세에 코스모로보틱스 상한가... 에브리봇, 스모...",
+          "desc": "코스모로보틱스 주가가 삼성전자의 로봇 사업 확대 기대감에 힘입어 로봇 테마주 전반으로 매수세가... 회사는 청소기, 공기청정기, 정수기, 비데, 냉장고 등 다양한 생활가전에 들어가는 감속모터와 구동 모듈을...",
+          "src": "ggilbo",
           "date": "07/21",
-          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=31516",
-          "img": "https://cdn.thebilliards.kr/news/thumbnail/202607/31516_50519_3326_v150.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170536",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1170536_1022915_3153.jpg"
         },
         {
-          "title": "삼성전자, 8년 연속 '에너지대상'…LG전자, 업계 최다 '12관왕'",
-          "desc": "삼성전자와 LG전자가 인공지능(AI)과 고효율 기술을 적용한 생활가전으로 에너지 효율 경쟁력을 입증했다.... 이 밖에 EHS 히트펌프 보일러, 비스포크 AI 콤보 세탁건조기, 비스포크 AI 하이브리드 냉장고, AI 무풍콤보...",
-          "src": "slist",
+          "title": "삼성·LG AI 모듈러 주택 관심 확산…부지 확보가 최대 변수",
+          "desc": "이후 냉장고와 에어컨, 세탁기, 로봇청소기, 보안기기 등 AI 가전과 스마트홈 플랫폼을 선택해 적용하는 과정에서 삼성전자와 LG전자 등 가전업체가 참여한다. LG전자 스마트코티지 내부 모습(사진=LG전자) 목조 모듈러...",
+          "src": "이데일리",
           "date": "07/21",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=753192",
-          "img": "https://cdn.slist.kr/news/thumbnail/202607/753192_1154985_1311_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006334152?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072101355.jpg"
         },
         {
-          "title": "삼성전자, 에어컨 등 7개 고효율 제품 에너지위너상 수상",
-          "desc": "삼성전자가 소비자시민모임 주최 올해의 에너지위너상'에서 8년 연속 최고상인 '에너지대상'을 수상했다.... 이와 함께 스마트싱스 앱의 'AI 절약모드'를 활용하면 냉장고는 최대 15%, 세탁기는 최대 70%, 에어컨은 최대 30...",
-          "src": "autodaily",
+          "title": "삼성전자, 에너지위너상 8년 연속 '에너지대상'…총 10개 부문 수상",
+          "desc": "이 밖에 삼성전자는 히트펌프와 AI 절감 기술을 적용한 생활가전 7종으로 에너지위너상을 받았다. 올해 국내 첫선을 보인 'EHS 히트펌프 보일러'를 비롯해 '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 하이브리드...",
+          "src": "wolyo",
           "date": "07/21",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545933",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545933_189381_2321_v150.jpg"
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315376",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202607/315376_221332_5742.png"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 시대 노사관계, 임금교섭 넘어 ESG·알고리즘 관리로 넓혀야",
-          "desc": "AI 거버넌스는 경영진의 기술 도입 권한과 근로자의 보호를 대립시키는 제도가 아니라, 분쟁이 발생하기 전에 위험을 발견하고 조정해 AI 활용의 지속가능성을 높이는 장치로 설계돼야 한다는 설명이다.",
-          "src": "esgeconomy",
+          "title": "대구테크노파크, 제조 AI 도입 전 공장 데이터부터 해부",
+          "desc": "김민규 기자 대구 제조기업의 AI 도입이 솔루션 구매보다 데이터 진단에서 시작된다. 같은 기계·소재부품... 선정 기업에는 생산설비와 공정에서 어떤 데이터가 생성되는지, 실제 분석에 활용할 수 있는지, AI를 어느...",
+          "src": "dkilbo",
           "date": "07/21",
-          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16106",
-          "img": "https://cdn.esgeconomy.com/news/thumbnail/202607/16106_23724_1947_v150.jpg"
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=549246",
+          "img": "https://cdn.dkilbo.com/news/thumbnail/202607/549246_434788_5315_v150.jpg"
         },
         {
-          "title": "우리금융, 경찰과 AI보이스피싱 대응 세미나…진화하는 금융사기 잡는다",
-          "desc": "이번 세미나는 인공지능 기술을 악용한 신종 보이스피싱과 금융범죄 수법이 빠르게 변화하는 상황에서 그룹... 이날 행사에는 경찰청 전기통신금융사기 통합대응단 박상현 경정이 강사로 참여해 AI 활용 금융범죄 수법...",
-          "src": "newsmap",
+          "title": "“데이터와 맥락 주면 실행까지”…AB180이 말하는 AI 시대의 마테크",
+          "desc": "최근 AB180은 광고 집행, 데이터 분석, 개인화 마케팅 등 전 과정에 AI 에이전트를 도입해 마케터의 실무 효율을 극대화하고 있다. 정헌재 AB180 대표는 AI 마케팅 에이전트로 진화한 에어브릿지의 주요 기능과 활용...",
+          "src": "동아일보",
           "date": "07/21",
-          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1577",
-          "img": "https://cdn.newsmap.co.kr/news/photo/202607/1577_2156_3551.jpg"
+          "url": "https://it.donga.com/109227/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/7/21/9419a1b8e0804d38-thumbnail-960x540-70.jpeg"
         },
         {
-          "title": "이노폴리스벤처협회, 스마트제조 고급인력 양성…대전 제조기업 AX·DX 가...",
-          "desc": "최근 제조업계는 생성형 AI와 빅데이터 등 디지털 기술의 확산으로 생산성과 품질 경쟁력 확보를 위한 디지털 전환이 필수 과제로 떠오르고 있다. 이에 따라 제조 현장에서 즉시 활용 가능한 실무형 인재와 기업 맞춤형...",
-          "src": "전자신문",
+          "title": "충남도의회, 공공의료 재정·스마트농업 현장성 집중 점검",
+          "desc": "충원·AI 농업기술 조기 보급 주문 아주경제=허희만 기자 hmher@ajunews.com 제370회 임시회 제4차... 김영춘 위원(부여2·국민의힘)은 태양광과 에너지저장장치(ESS)를 활용한 시설농업 전력 절감 모델을 시범 도입해 농가...",
+          "src": "아주경제",
           "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/030/0003449545?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/21/news-p.v1.20260721.84658443928a467088b93618ef8ff317_P1.jpg"
+          "url": "https://www.ajunews.com/view/20260721193137174",
+          "img": "https://image.ajunews.com/content/image/2026/07/21/20260721194556807098.jpg"
         },
         {
-          "title": "백원기 계명대 의대학장 “지역의사제, 지역 공동체가 함께 키워야 성공...",
-          "desc": "적극 도입하고 있다. 백 학장은 “AI가 의사를 대신하지는 않겠지만, AI를 이해하는 의사는 그렇지 못한 의사를 대신하게 될 것”이라며 “기술을 올바르게 이해하고 환자 중심으로 활용할 수 있는 역량을 키우는 교육에...",
-          "src": "kbmaeil",
+          "title": "교모세포종·혈액암 첨단재생의료 확대…정부 주도 임상연구 본격 추진",
+          "desc": "연구 결과는 치료계획 심의에서 안전성과 유효성, 치료비용 등을 종합적으로 검토해 실제 치료 도입 여부를... 인공지능(AI)·바이오 빅데이터를 활용한 기술개발과 공익적 연구를 확대하고, AI·로봇 기반 제조 공정...",
+          "src": "hemophilia",
           "date": "07/21",
-          "url": "https://www.kbmaeil.com/article/20260721500500",
-          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/07/21/.cache/512/20260721500460.jpg"
+          "url": "http://www.hemophilia.co.kr/news/articleView.html?idxno=43321",
+          "img": "https://cdn.hemophilia.co.kr/news/photo/202607/43321_64320_396.png"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "정명근 화성시장, 추미애 지사와 ASM코리아 찾아 반도체 기업 애로 청취",
+          "desc": "고객·협력사 지원 기능을 확대했다. 화성시는 ASM코리아가 2025년 기준 매출 4724억원과 임직원 534명 규모로... 정 시장은 경기도의 대표 산업을 반도체라고 표현할 수 있을 만큼 산업적 비중이 크며 삼성전자와 글로벌...",
+          "src": "아주경제",
+          "date": "07/21",
+          "url": "https://www.ajunews.com/view/20260721174054082",
+          "img": "https://image.ajunews.com/content/image/2026/07/21/20260721174303528227.jpg"
+        },
+        {
+          "title": "삼성, 평택에 하이브리드 본딩 50대 규모 양산 라인 만든다",
+          "desc": "장비 구조 변경은 고객사 요청에 맞춰 장비의 설계나 부품, 모듈 등 일부 사양을 바꾸는 작업이다. 베시의... 삼성전자는 한화세미텍도 하이브리드 본더 협력사로 고려 중이다. 한화세미텍은 올해 2월 2세대 D2W...",
+          "src": "thelec",
+          "date": "07/21",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=59804",
+          "img": "https://cdn.thelec.kr/news/photo/202607/59804_47189_4625.jpg"
+        },
+        {
+          "title": "삼성전자 '로봇 초격차' 시동…구미산단 대전환 분수령 될까",
+          "desc": "관계자는 \"삼성전자가 직접 추진하는 로봇 사업의 거점으로서 구미 1공장은 확실한 강점을 갖고 있지만, 이를 지역 경제 활력으로 연결하려면 구미 산단 자체의 체질 변화가 병행돼야 한다\"며 \"지역 협력사들의 로봇 부품...",
+          "src": "imaeil",
+          "date": "07/21",
+          "url": "https://n.news.naver.com/mnews/article/088/0001020060?sid=102",
+          "img": "https://www.imaeil.com/photos/2025/07/10/2025071015035763733_l.jpg"
+        },
+        {
           "title": "하루 8시간 멈춘 현대차 라인…협력사도 피해 확산 우려",
           "desc": "최근 현대차가 국회에 제출한 자료에 따르면 현대차의 사내협력사(124개) 및 1차 부품 협력사(386개)를 비롯해... 최근 삼성전자 노조의 성과급 타결 사례가 '끝까지 투쟁하면 더 얻어낼 수 있다'는 신호를 주면서 올해...",
           "src": "아이뉴스24",
           "date": "07/21",
           "url": "https://n.news.naver.com/mnews/article/031/0001043680?sid=103",
           "img": "https://image.inews24.com/v1/dae4b4587affc5.jpg"
-        },
-        {
-          "title": "추미애 지사, ASM 혁신제조센터 찾아 \"반도체 소부장·대기업 동반성장...",
-          "desc": "이번 방문은 삼성전자 평택캠퍼스와 화성 연구시설, 용인 반도체 국가산업단지 등 대규모 생산거점 지원에 이어 글로벌 장비기업과 국내 협력사의 투자·기술개발·공급망 현안까지 직접 확인하기 위해 마련됐다. ASM은...",
-          "src": "아주경제",
-          "date": "07/21",
-          "url": "https://www.ajunews.com/view/20260721153317738",
-          "img": "https://image.ajunews.com/content/image/2026/07/21/20260721153804144832.jpg"
-        },
-        {
-          "title": "[이슈] 현대차·현대로템 이번주 성적표... 희비 갈리는 2분기",
-          "desc": "달성 시 삼성전자, SK하이닉스에 이어 국내 세 번째이자 반도체 기업 외 첫 사례가 된다. 미국 판매 호조와... 부품 협력사 화재에 따른 생산 차질과 미국 관세 부담, 환율 급등으로 인한 판매보증충당부채 재평가...",
-          "src": "startuptoday",
-          "date": "07/21",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807249",
-          "img": "https://cdn.startuptoday.co.kr/news/photo/202607/807249_606959_1726.jpeg"
-        },
-        {
-          "title": "글로벌테크놀로지, 코스닥 상장예비심사 통과… \"연내 상장 목표\"",
-          "desc": "글로벌테크놀로지는 이미 삼성전자(VD 1차 협력사), LG, 현대차 등 국내 글로벌 탑티어 고객사를... 회사는 막강한 저가 공세를 펼치는 중국 부품사들에 맞서 독자적인 'RGB 시분할 구동 기술'을 통해 고화질과 저전력...",
-          "src": "더스탁",
-          "date": "07/21",
-          "url": "https://www.the-stock.kr/news/articleView.html?idxno=32982",
-          "img": "https://cdn.the-stock.kr/news/photo/202607/32982_33846_2914.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 감사 페스티벌 고객들 \"온누리상품권 어디서 쓰나요?\"…온누리...",
-      "url": "https://www.thebilliards.kr/news/articleView.html?idxno=31516",
-      "img": "https://cdn.thebilliards.kr/news/thumbnail/202607/31516_50519_3326_v150.jpg"
+      "title": "삼성·LG전자, '에너지위너상' 휩쓸어…AI 고효율 가전 경쟁 본격화",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312646",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
     },
     {
-      "title": "삼성전자, 8년 연속 '에너지대상'…LG전자, 업계 최다 '12관왕'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=753192",
-      "img": "https://cdn.slist.kr/news/thumbnail/202607/753192_1154985_1311_v150.jpg"
+      "title": "[주식마감] '로봇주' 강세에 코스모로보틱스 상한가... 에브리봇, 스모...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170536",
+      "img": "https://cdn.ggilbo.com/news/photo/202607/1170536_1022915_3153.jpg"
     },
     {
-      "title": "삼성전자, 에어컨 등 7개 고효율 제품 에너지위너상 수상",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545933",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545933_189381_2321_v150.jpg"
+      "title": "삼성·LG AI 모듈러 주택 관심 확산…부지 확보가 최대 변수",
+      "url": "https://n.news.naver.com/mnews/article/018/0006334152?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072101355.jpg"
     },
     {
-      "title": "AI 시대 노사관계, 임금교섭 넘어 ESG·알고리즘 관리로 넓혀야",
-      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16106",
-      "img": "https://cdn.esgeconomy.com/news/thumbnail/202607/16106_23724_1947_v150.jpg"
+      "title": "삼성전자, 에너지위너상 8년 연속 '에너지대상'…총 10개 부문 수상",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315376",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202607/315376_221332_5742.png"
     },
     {
-      "title": "우리금융, 경찰과 AI보이스피싱 대응 세미나…진화하는 금융사기 잡는다",
-      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1577",
-      "img": "https://cdn.newsmap.co.kr/news/photo/202607/1577_2156_3551.jpg"
+      "title": "대구테크노파크, 제조 AI 도입 전 공장 데이터부터 해부",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=549246",
+      "img": "https://cdn.dkilbo.com/news/thumbnail/202607/549246_434788_5315_v150.jpg"
     },
     {
-      "title": "이노폴리스벤처협회, 스마트제조 고급인력 양성…대전 제조기업 AX·DX 가...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003449545?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/07/21/news-p.v1.20260721.84658443928a467088b93618ef8ff317_P1.jpg"
+      "title": "“데이터와 맥락 주면 실행까지”…AB180이 말하는 AI 시대의 마테크",
+      "url": "https://it.donga.com/109227/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/7/21/9419a1b8e0804d38-thumbnail-960x540-70.jpeg"
     }
   ]
 };
