@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.22 (수) 16:31",
+  "updatedAt": "2026.07.22 (수) 20:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "86.59",
-        "diff": "+2.25",
-        "rate": "+2.67%",
+        "value": "87.13",
+        "diff": "+2.79",
+        "rate": "+3.31%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,478.20",
-        "diff": "-4.30",
-        "rate": "-0.29%",
+        "value": "1,480.00",
+        "diff": "-2.50",
+        "rate": "-0.17%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "907.40",
-        "diff": "-0.97",
-        "rate": "-0.11%",
+        "value": "907.86",
+        "diff": "-0.51",
+        "rate": "-0.06%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.27",
-        "diff": "-0.04",
-        "rate": "-0.48%",
+        "value": "8.29",
+        "diff": "-0.02",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.61",
-        "diff": "-0.04",
-        "rate": "-0.71%",
+        "value": "5.64",
+        "diff": "-0.01",
+        "rate": "-0.18%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.32",
-        "diff": "-0.08",
-        "rate": "-0.52%",
+        "value": "15.33",
+        "diff": "-0.07",
+        "rate": "-0.45%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성도 참전…재계, 로봇 중심 ‘AX’ 본격 속도전",
-          "desc": "(사진=LG전자) 22일 재계에 따르면 삼성전자는 전날 노태문 삼성전자 대표이사 겸 디바이스경험(DX) 부문장... LG전자는 가전 핵심 거점인 창원 LG스마트파크와 미국 테네시 공장 등 ‘등대공장’(혁신 선도 공장)을...",
-          "src": "newstomato",
+          "title": "삼성전자의 새 승부수는 '로봇'… 노태문 직속 조직 띄우고 사업화 속도",
+          "desc": "삼성전자가 대표이사 직속 로봇 전담 조직을 신설하며 로봇 사업 확대에 본격적으로 나섰다. 연구 개발... 재계 관계자는 \"삼성은 세계 각지의 생산기지와 반도체, AI, 가전 기술을 모두 보유하고 있어 로봇을 직접...",
+          "src": "thepublic",
           "date": "07/22",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1307886&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/7/22/1307886/attach.jpg?v=202607221613"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312292",
+          "img": "https://cdn.thepublic.kr/news/photo/202607/312292_315239_1650.jpg"
         },
         {
           "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
         },
         {
-          "title": "김성환 장관, 히트펌프·다회용기·핵심광물 재활용 현장 점검…순환경...",
-          "desc": "김성환 기후에너지환경부 장관은 22일 경기도 소재 삼성물산 주거성능연구소와 삼성전자 수원사업장... 김 장관은 이어 용인 소재 수도권자원순환센터를 찾아 폐냉장고와 폐에어컨 해체 과정, 냉매 회수는 물론 구리...",
-          "src": "energydaily",
+          "title": "건물 냉난방 탈탄소화 속도… 히트펌프 보급 기반 마련",
+          "desc": "삼성전자, 삼성에스디아이 및 삼성디스플레이를 포함한 총 13개 사업장에서 확대 시행하고 있다. 이후 김 장관은 용인에 소재한 수도권자원순환센터도 방문해 냉장고‧에어컨 해체 및 냉매(기후‧생태계 변화 유발 물질)...",
+          "src": "e-platform",
           "date": "07/22",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201625",
-          "img": "https://cdn.energydaily.co.kr/news/photo/202607/201625_201392_415.jpg"
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=104033",
+          "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
         },
         {
-          "title": "[사설] 삼성 구미 로봇투자 '제2 갤럭시 신화' 기대된다",
-          "desc": "삼성전자가 대표이사 직속으로 'RX(Robotics eXperience)사업추진실'을 신설하며 로봇 사업을 미래 성장의... 삼성은 후발주자이지만 반도체와 스마트폰, 가전, AI, 배터리 등 세계 최고 수준의 풀 밸류체인 제조 역량을 갖춘...",
-          "src": "kyongbuk",
+          "title": "[AI 전쟁] 삼성전자의 대규모 프랑스 미스트랄 AI 투자, 한국 '소버린 A...",
+          "desc": "따라서 삼성전자는 제한된 연산 자원과 배터리 환경에서도 자신의 스마트폰/태블릿/웨어러블 부문에서 최고 수준의 AI 추론을 수행하는 온디바이스 AI 모델 탑재가 가능하다. 가전/로봇 부문에서도 Bixby 등 삼성 AI...",
+          "src": "businesskorea",
           "date": "07/22",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078963",
-          "img": "https://www.kyongbuk.co.kr/image/logo/snslogo_20231113014605.png"
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
+          "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273438_280710_1138_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "李대통령 \"공공의료 국가책임 강화\"…응급·취약지 AI 지원 확대",
-          "desc": "인공지능(AI)을 활용한다. 보건복지부와 과학기술정보통신부는 22일 청와대에서 이재명 대통령 주재로 열린... 정부는 취약지 보건소와 보건지소에 진료·행정·건강관리 보조 AI 패키지를 도입한다. 의무기록 자동 생성 등...",
-          "src": "ziksir",
+          "title": "한수원, 신입사원 229명 채용 및 협력기업 '보안관리 제도 개선 설명회...",
+          "desc": "우선 '협력기업 보안 수준 평가제도'를 도입해 협력사들이 기본적인 보안 기준을 충족하도록 제도적 기반을 다졌다. 아울러 제공되는 기술자료의 전송, 보관, 활용, 반납 및 파기에 이르는 전 과정을 통제하는 '기술정보...",
+          "src": "cstimes",
           "date": "07/22",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=140844",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/140844_160765_2531_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=714282",
+          "img": "https://www.cstimes.com/news/photo/202607/714282_634439_4444.jpg"
         },
         {
-          "title": "대중골프장협회, 골프장 홍보·마케팅 사례 및 무전기 사용 현황 발표....",
-          "desc": "를 활용한 친환경·고품질 코스 관리를 위한 바이오 솔루션을 소개해 이목을 끌었다. 이어, 아이로바의 이배희 대표는 줄어드는 캐디인력 감소와 골프 비용절감, 고객만족 향상, 경영효율성 증가를 위한 솔루션으로 AI기술...",
-          "src": "starnewskorea",
+          "title": "인터뷰/ 이재영 증평군수, '스마트 증평' 선언… 군정 전반 혁신",
+          "desc": "이 군수는 인터뷰를 통해 \" '스마트'의 개념은 단순한 인공지능(AI)이나 디지털 기술 도입에 국한되지 않고... 이 군수는 기술을 수단으로 활용해 군민 중심의 효율적인 도시를 만들겠다는 구상이다. 이 군수는 첫 임기 동안...",
+          "src": "dynews",
           "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/108/0003454928?sid=004",
-          "img": "https://image.starnewskorea.com/21/2026/07/2026072216263324027_1.jpg"
+          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858909",
+          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858909_395583_3732_v150.jpg"
         },
         {
-          "title": "대구시, 제조AI로 미래모빌리티 전환 앞당겨.....총사업비 245억 원 투입",
-          "desc": "이번 사업은 AI와 디지털트윈 기술을 활용해 지역 모빌리티 부품기업의 생산공정을 고도화하고, 생산성과... 기업 지원 분야에선 제조공정 개선 시뮬레이션과 병목 분석, 제조AI 도입 컨설팅, 기술지도 등을 제공한다....",
-          "src": "wikitree",
+          "title": "대구시, 245억 투입 ‘모빌리티부품 제조AI 확산센터’ 구축",
+          "desc": "시는 공용 인프라를 활용해 중소·중견기업의 초기 투자 부담을 줄이고 제조공정 시뮬레이션과 병목 분석, AI 도입 컨설팅, 기술지도 등을 지원할 계획이다. 또한 재직자와 예비 인력을 대상으로 전문교육을 제공하고...",
+          "src": "nspna",
           "date": "07/22",
-          "url": "https://www.wikitree.co.kr/articles/1147826",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/22/img_20260722144214_ae12fb7d.jpg"
+          "url": "https://www.nspna.com/news/?mode=view&newsid=821588",
+          "img": "https://file.nspna.com/news/2026/07/22/20260722180601_821588_1.jpg"
         },
         {
-          "title": "[CEDEC2026] '엔드리스 라그나로크', 캐릭터 게임의 배틀과 게임 디자인...",
-          "desc": "동료 AI가 소개됐다. 미키 수석은 딜 기여, 아군 구조, 회복·버프 활용, 연계 호응 등 여러 목표 위에... 마스터 스타일 도입으로 캐릭터당 최대 3가지 패턴에 개별 대응이 필요해진 문제는 FSM 확장으로 풀었다. 메타 AI는...",
-          "src": "inven",
+          "title": "업스테이지, 독파모 2차 '솔라 오픈2' 공개…\"GPU 2장으로 실무형 AI 구현...",
+          "desc": "실제 도입할 수 있는 실용성이 중요하다\"고 말했다. 노타AI도 행사에서 솔라 오픈2 전용 양자화(Quantization) 모델을 공개했다. 모델 경량화와 프루닝(Pruning) 기술을 적용해 모델 용량을 줄이고, GPU 두 장에서도...",
+          "src": "아이뉴스24",
           "date": "07/22",
-          "url": "https://m.sports.naver.com/esports/article/442/0000194688",
-          "img": "https://static.inven.co.kr/column/2026/07/22/news/i1338630004.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001044104?sid=105",
+          "img": "https://image.inews24.com/v1/360f33f4f0f2d9.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "'역대급' 실적 예고한 삼전닉스…HBM으로 증명할 K-반도체 저력",
+          "desc": "복수의 HBM 공정 장비 협력사와 하반기 발주를 논의 중인 것으로 전해지면서 HBM4 공급 확대에도 속도가 붙을 것이란 해석을 낳았다. 삼성전자는 범용 D램과 낸드플래시에서 확보한 안정적인 시장 지배력을 바탕으로...",
+          "src": "ntoday",
+          "date": "07/22",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128302",
+          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128302_114101_5654_v150.jpg"
+        },
+        {
+          "title": "삼성전자 로봇 사업 확대, 국내 로봇주 반등 견인",
+          "desc": "어렵고 부품 조달, 생산 체계, 판매처 확보가 함께 갖춰져야 하는데, 삼성전자처럼 자금력과 공급망을 갖춘... 확대가 부품사와 협력사로 얼마나 연결되고 코스닥 시장에 자금이 얼마나 유입되느냐에 따라 종목별...",
+          "src": "tokenpost",
+          "date": "07/22",
+          "url": "https://www.tokenpost.kr/news/tech/380138",
+          "img": "https://f1.tokenpost.kr/2026/07/1w9clpgv7k.jpg"
+        },
         {
           "title": "청년 일자리 틔우고 AI생태계 일구고 … 기업 나눔, 대한민국 내일 여는...",
           "desc": "전자·삼성디스플레이·삼성전기·삼성SDI·삼성SDS·삼성물산·삼성중공업·삼성E&A 등 11개 계열사와 협력사... 특히 방산·항공우주 생산 거점인 경남을 중심으로 소재·부품·장비(소부장) 기업의 기술 경쟁력을 높이고...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/22",
           "url": "https://www.asiatime.co.kr/article/20260722500321",
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/22/.cache/512/20260722500309.png"
-        },
-        {
-          "title": "판 벌린 삼성 휴머노이드 로봇 사업...배터리.액츄에이터 등 핵심 부품...",
-          "desc": "핵심 부품 공급망으로 쏠리고 있다. 삼성전자는 최근 로봇 사업을 총괄하는 신규 조직 'RX(Robotics eXperience)'를... 이를 기반으로 로봇용 액추에이터를 자체 개발하거나 계열사 및 협력사를 중심으로 공급망을 구축할...",
-          "src": "autodaily",
-          "date": "07/22",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545980",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/545980_189452_2135_v150.jpg"
-        },
-        {
-          "title": "블랙스톤도 찜한 로봇 관절…냉장고 모터회사에 개미들 몰려간 이유 [이...",
-          "desc": "정보에서부터 협력사, 고객사, 투자사 등 연관 기업에 대한 분석까지 함께 전달합니다. 기업의 재무 상황과... 삼성전자가 지분을 보유한 이 로봇 기업의 협동로봇·양팔로봇·4족보행로봇 전 라인업에 에스피지가...",
-          "src": "view",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/277/0005792758?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072110511952375_1784598679.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성도 참전…재계, 로봇 중심 ‘AX’ 본격 속도전",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1307886&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/7/22/1307886/attach.jpg?v=202607221613"
+      "title": "삼성전자의 새 승부수는 '로봇'… 노태문 직속 조직 띄우고 사업화 속도",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=312292",
+      "img": "https://cdn.thepublic.kr/news/photo/202607/312292_315239_1650.jpg"
     },
     {
       "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
     },
     {
-      "title": "김성환 장관, 히트펌프·다회용기·핵심광물 재활용 현장 점검…순환경...",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201625",
-      "img": "https://cdn.energydaily.co.kr/news/photo/202607/201625_201392_415.jpg"
+      "title": "건물 냉난방 탈탄소화 속도… 히트펌프 보급 기반 마련",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=104033",
+      "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
     },
     {
-      "title": "[사설] 삼성 구미 로봇투자 '제2 갤럭시 신화' 기대된다",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078963",
-      "img": "https://www.kyongbuk.co.kr/image/logo/snslogo_20231113014605.png"
+      "title": "[AI 전쟁] 삼성전자의 대규모 프랑스 미스트랄 AI 투자, 한국 '소버린 A...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
+      "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273438_280710_1138_v150.jpg"
     },
     {
-      "title": "李대통령 \"공공의료 국가책임 강화\"…응급·취약지 AI 지원 확대",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=140844",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/140844_160765_2531_v150.jpg"
+      "title": "한수원, 신입사원 229명 채용 및 협력기업 '보안관리 제도 개선 설명회...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=714282",
+      "img": "https://www.cstimes.com/news/photo/202607/714282_634439_4444.jpg"
     },
     {
-      "title": "대중골프장협회, 골프장 홍보·마케팅 사례 및 무전기 사용 현황 발표....",
-      "url": "https://n.news.naver.com/mnews/article/108/0003454928?sid=004",
-      "img": "https://image.starnewskorea.com/21/2026/07/2026072216263324027_1.jpg"
+      "title": "인터뷰/ 이재영 증평군수, '스마트 증평' 선언… 군정 전반 혁신",
+      "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858909",
+      "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858909_395583_3732_v150.jpg"
     }
   ]
 };
