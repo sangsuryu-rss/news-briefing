@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.22 (수) 07:00",
+  "updatedAt": "2026.07.22 (수) 13:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,621",
-        "diff": "+120",
-        "rate": "+0.89%",
+        "value": "13,898",
+        "diff": "+277",
+        "rate": "+2.04%",
         "dir": "up",
         "avg": "13,552",
-        "avgDiff": "+69",
-        "avgRate": "+0.5%",
+        "avgDiff": "+346",
+        "avgRate": "+2.6%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.34",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "85.29",
+        "diff": "+0.95",
+        "rate": "+1.13%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,482.50",
-        "diff": "+4.00",
-        "rate": "+0.27%",
+        "value": "1,483.70",
+        "diff": "+1.20",
+        "rate": "+0.08%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "908.37",
-        "diff": "-1.45",
-        "rate": "-0.16%",
-        "dir": "down"
+        "value": "909.16",
+        "diff": "+0.79",
+        "rate": "+0.09%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.31",
-        "diff": "+0.05",
-        "rate": "+0.61%",
-        "dir": "up"
+        "value": "8.28",
+        "diff": "-0.03",
+        "rate": "-0.36%",
+        "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.65",
-        "diff": "+0.02",
-        "rate": "+0.36%",
-        "dir": "up"
+        "value": "5.63",
+        "diff": "-0.02",
+        "rate": "-0.35%",
+        "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.40",
-        "diff": "+0.07",
-        "rate": "+0.46%",
+        "value": "15.41",
+        "diff": "+0.01",
+        "rate": "+0.06%",
         "dir": "up"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 로봇 사업 키운다…사장 직속 ‘사업추진실’ 신설",
-          "desc": "삼성전자는 이르면 올 하반기 자사 생산라인에 휴머노이드 로봇을 투입할 예정이다. 반도체·스마트폰·가전 생산 현장에서 축적한 데이터를 바탕으로 로봇 성능을 고도화한다는 구상이다. 독자적인 생산라인과...",
-          "src": "BNT뉴스",
+          "title": "로봇 사업 본궤도 올리는 삼성... \"연구개발 넘어 상용화\"",
+          "desc": "반도체와 스마트폰, 가전 등 성격이 다른 생산 공장을 전 세계에 보유하고 있다는 점은 삼성전자의 강점으로 꼽힌다. 하나의 공정에 특화된 로봇이 아닌 다양한 작업을 수행할 수 있는 휴머노이드를 개발하려면 폭넓은...",
+          "src": "데일리안",
           "date": "07/22",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202607220016",
-          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/22/bnt202607220041.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003113708?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1784691079_1669586_m_1.png"
         },
         {
-          "title": "이재용 회장 왜?…삼성전자 미래 먹거리 '로봇' 점찍은 이유 3가지",
-          "desc": "삼성전자가 로봇을 미래 성장동력으로 점찍고 본격 개발에 나선 것은 이재용 회장의 의중이 강하게 반영된... 세탁기의 회전, 에어컨과 청소기의 작동 원리 등이 대표적인 사례다. RX 조직을 DX부문 내에 설립한 이유이기도...",
-          "src": "뉴스1",
+          "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
+          "desc": "삼성전자는 현재 광주 내 3개의 캠퍼스(그린1·2·3)에서 에어컨, 냉장고, 세탁기·건조기 등을 생산하고 있는데, 이번 신공장 부지는 그린3캠퍼스 내로 정해졌다. 삼성전자는 지난해 11월 유럽 최대 공조기기 업체인...",
+          "src": "헤럴드경제",
           "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/421/0009071502?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/7/7995049/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
         },
         {
-          "title": "삼성·LG전자, '에너지위너상' 휩쓸어…AI 고효율 가전 경쟁 본격화",
-          "desc": "삼성전자는 이 밖에도 히트펌프와 AI 절전 기술을 적용한 7개 제품으로 에너지위너상을 받았다. 수상 제품은 'EHS 히트펌프 보일러'를 비롯해 비스포크 AI 콤보 세탁건조기, 비스포크 AI 하이브리드 냉장고, AI 무풍콤보...",
-          "src": "pointdaily",
-          "date": "07/21",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312646",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
+          "title": "[파워인터뷰] 전병서 중국경제금융연구소장 \"하반기 중국 증시는 실적장...",
+          "desc": "그러다 보니까 중국도 이게 반도체의 가격 상승 공급 부족에 우리도 지금 뭐 삼성전자, 하이닉스가 떼돈을... 이런 가전 이런 데들은 부진하고 반대로 중국 정부가 이제 목숨 걸고 지키고 키우려는 사람이 있어요. 그게...",
+          "src": "paxetv",
+          "date": "07/22",
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=277593",
+          "img": "http://www.paxetv.com/news/thumbnail/202607/277593_253419_4919_v150.jpg"
         },
         {
-          "title": "갤럭시 100만원 싸지자 네이버에 몰렸다…거래액 20배↑",
-          "desc": "최근 네이버와 삼성전자가 각각 마련한 대규모 할인 행사가 동시에 진행되면서 네이버 쇼핑라이브를 통한... 냉장고와 세탁기 등 가전제품을 두 개 이상 함께 산 다품목 구매 고객도 2.5배 늘었다. 로보락은 신제품과...",
-          "src": "뉴시스",
+          "title": "삼성전자 감사 페스티벌 이후 온누리상품권 사용처 문의 증가…생활가...",
+          "desc": "이 같은 수요에 맞춰 음식물처리기, 무선청소기, 로봇청소기, 제습기, 소형 주방가전, PC 주변기기, 게임기 등 관련 품목에 대한 관심도 높아지고 있다. 가비파트너스 관계자는 \"삼성전자 감사 페스티벌 이후 디지털...",
+          "src": "stardailynews",
           "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/003/0014079798?sid=105",
-          "img": "https://img1.newsis.com/2026/03/11/NISI20260311_0021203774_web.jpg"
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543437",
+          "img": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/543437_575454_155_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "서브스택, 사람이 쓰지 않은 블로그 가려내는 AI 탐지 기능 도입",
-          "desc": "기능을 도입했다. 21일(현지시간)  더 버지에 따르면 이 기능은 AI 탐지 업체 팽그램 기술에 기반하며 게시물... 팽그램은 텍스트 작성에 AI가 쓰였는지만 감지할 수 있다. AI 도구가 자료 출처로 활용됐는지는 판별하지...",
-          "src": "digitaltoday",
+          "title": "유리산업도 AI·탈탄소 전환 본격화… ‘glasstec 2026’서 미래 제조기...",
+          "desc": "AI와 친환경 기술이 산업 변화 이끌어 유리 제조업계에서는 에너지 사용량을 줄이는 공정 기술과 함께 생산 데이터를 활용한 공정 최적화, 품질 예측, 설비 관리 등 디지털 기반 운영 방식의 도입이 확대되고...",
+          "src": "kidd",
           "date": "07/22",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685806",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/685806_634017_5038.png"
+          "url": "https://kidd.co.kr/news/246781",
+          "img": "https://img.daara.co.kr/kidd/og_image/main.jpg"
         },
         {
-          "title": "XRP 폭망할 줄 알았지?…거시 경제 악재 뚫고 터진 역대급 대형 호재",
-          "desc": "첨단 기술 부문에서의 접점이 급격히 늘어나는 점에 주목해야 한다\"고 말했다. 첫 번째 주요 성과는 인공지능(AI) 경제와 결합한 실시간 결제 네트워크의 구축이다. 최근 AI 에이전트 간의 자율적인 거래량이 급증함에...",
-          "src": "핀포인트뉴스",
+          "title": "신의료기술평가 통과 기술 10건 중 6건 의료현장 진입",
+          "desc": "의료현장에 도입된 것으로 나타났다. 특히 인공지능(AI)과 디지털헬스 기반 의료기술 증가에 맞춰... 의료기술 신청이 늘어난 영향으로 분석했다. 혁신의료기술과 선진입 제도 활용도도 꾸준히 확대됐다. 최근...",
+          "src": "whosaeng",
           "date": "07/22",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470275",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/470275_458000_4321_v150.jpg"
+          "url": "http://www.whosaeng.com/172296",
+          "img": "https://www.whosaeng.com/data/whosaeng_com/mainimages/202607/2026072206071638.jpg"
         },
         {
-          "title": "식약처, 규제혁신 '전진기어' … 용기 표기 단순화 등 '급가속'",
-          "desc": "▲바이오의약품 품질검사 인프라 국산화=최신 기술 및 동물유래 원료를 활용한 바이오의약품 품질시험... 또 품목갱신 시 안전성 자료의 정기적 안전성 보고서(PSUR) 대체 기준 마련, AI 활용 의약품 심사 가이드라인...",
-          "src": "medisobizanews",
+          "title": "신의료기술 10건 중 6건 의료현장 안착…처치·시술 가장 많아",
+          "desc": "현재 전국 2,378개 의료기관에서 활용되고 있다. 지난해에는 최근 5년 가운데 가장 많은 평가유예 신청이 이뤄졌다. 이재태 원장은 \"앞으로도 AI와 디지털헬스 등 미래 의료기술 환경 변화에 대응해 평가체계를...",
+          "src": "뉴스1",
           "date": "07/22",
-          "url": "http://www.medisobizanews.com/news/articleView.html?idxno=140395",
-          "img": "https://cdn.medisobizanews.com/news/thumbnail/202607/140395_133427_2917_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009072640?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2022/8/24/5542681/high.jpg"
         },
         {
-          "title": "'AI 개방형 모델' 고집하는 중국, 숨겨진 의도는[베이징노트]",
-          "desc": "미국의 AI 반도체 규제 속에서 중국이 빠르게 기술 격차를 줄이는 모습이 속속 목격되고 있지만, 중국의... 회사 측은 \"이번 오픈소스 공개가 우리의 하드웨어를 도입하려는 전 세계 개발자들의 진입 장벽을 낮추기 위한...",
-          "src": "nocutnews",
+          "title": "동부건설, 2026년 하반기 경영전략회의 개최",
+          "desc": "디지털 기술의 현장 활용 범위도 안전 및 품질관리 영역으로 확대했다. 동부건설은 최근 현장 내 외국인 근로자와의 원활한 소통과 안전사고 예방을 위해 실시간 AI 동시 통번역 프로그램을 전 현장에 도입해 작업 전...",
+          "src": "브릿지경제",
           "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/079/0004170646?sid=104",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/21/202607212157058843_0.jpg"
+          "url": "https://www.viva100.com/article/20260722500597",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/22/.cache/512/20260722500586.png?v=20260722131338"
         }
       ]
     },
@@ -166,12 +166,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "블랙스톤도 찜한 로봇 관절…냉장고 모터회사에 개미들 몰려간 이유 [이...",
+          "desc": "정보에서부터 협력사, 고객사, 투자사 등 연관 기업에 대한 분석까지 함께 전달합니다. 기업의 재무 상황과... 삼성전자가 지분을 보유한 이 로봇 기업의 협동로봇·양팔로봇·4족보행로봇 전 라인업에 에스피지가...",
+          "src": "view",
+          "date": "07/22",
+          "url": "https://n.news.naver.com/mnews/article/277/0005792758?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072110511952375_1784598679.jpg"
+        },
+        {
+          "title": "반도체 ‘남방한계선’? 광주가 말하는 메가프로젝트 해법",
+          "desc": "“우리는 갈 일 없겠죠?” 삼성전자 메모리 반도체 분야 정규직 개발자인 A씨(32)는 호남 반도체 산단 유치... (소재·부품·장비 산업)과 협력사 인력 3000명 이상이 필요하다. 용인 팹 10기와 광주 팹 4기가 구축될 경우 숙련...",
+          "src": "sisain",
+          "date": "07/22",
+          "url": "https://n.news.naver.com/mnews/article/308/0000038543?sid=102",
+          "img": "https://cdn.sisain.co.kr/news/photo/202607/58183_112877_1783603875.jpg"
+        },
+        {
           "title": "“빅테크 공급망 2030 압박…RE100 답도 호남에 있다”",
           "desc": "이어 협력사에 온실가스 감축 이행을 요구하고 있다. 구글은 2029년까지 삼성전자와 SK하이닉스를 포함한 주요 하드웨어 공급사에 재생에너지 100%로 부품을 납품받겠다고 통보한 상태다. 마이크로소프트와...",
           "src": "kwangju",
           "date": "07/21",
           "url": "http://www.kwangju.co.kr/article.php?aid=1784633100801457277",
-          "img": ""
+          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202607/801457.jpg"
         },
         {
           "title": "정명근 화성시장, 추미애 지사와 ASM코리아 찾아 반도체 기업 애로 청취",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/21",
           "url": "https://www.ajunews.com/view/20260721174054082",
           "img": "https://image.ajunews.com/content/image/2026/07/21/20260721174303528227.jpg"
-        },
-        {
-          "title": "삼성, 평택에 하이브리드 본딩 50대 규모 양산 라인 만든다",
-          "desc": "장비 구조 변경은 고객사 요청에 맞춰 장비의 설계나 부품, 모듈 등 일부 사양을 바꾸는 작업이다. 베시의... 삼성전자는 한화세미텍도 하이브리드 본더 협력사로 고려 중이다. 한화세미텍은 올해 2월 2세대 D2W...",
-          "src": "thelec",
-          "date": "07/21",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=59804",
-          "img": "https://cdn.thelec.kr/news/photo/202607/59804_47189_4625.jpg"
-        },
-        {
-          "title": "삼성전자 '로봇 초격차' 시동…구미산단 대전환 분수령 될까",
-          "desc": "관계자는 \"삼성전자가 직접 추진하는 로봇 사업의 거점으로서 구미 1공장은 확실한 강점을 갖고 있지만, 이를 지역 경제 활력으로 연결하려면 구미 산단 자체의 체질 변화가 병행돼야 한다\"며 \"지역 협력사들의 로봇 부품...",
-          "src": "imaeil",
-          "date": "07/21",
-          "url": "https://n.news.naver.com/mnews/article/088/0001020060?sid=102",
-          "img": "https://www.imaeil.com/photos/2025/07/10/2025071015035763733_l.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 로봇 사업 키운다…사장 직속 ‘사업추진실’ 신설",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607220016",
-      "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/22/bnt202607220041.jpg"
+      "title": "로봇 사업 본궤도 올리는 삼성... \"연구개발 넘어 상용화\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003113708?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202607/news_1784691079_1669586_m_1.png"
     },
     {
-      "title": "이재용 회장 왜?…삼성전자 미래 먹거리 '로봇' 점찍은 이유 3가지",
-      "url": "https://n.news.naver.com/mnews/article/421/0009071502?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/7/7995049/high.jpg"
+      "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
     },
     {
-      "title": "삼성·LG전자, '에너지위너상' 휩쓸어…AI 고효율 가전 경쟁 본격화",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312646",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202607/312646_308432_369_v150.jpg"
+      "title": "[파워인터뷰] 전병서 중국경제금융연구소장 \"하반기 중국 증시는 실적장...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=277593",
+      "img": "http://www.paxetv.com/news/thumbnail/202607/277593_253419_4919_v150.jpg"
     },
     {
-      "title": "갤럭시 100만원 싸지자 네이버에 몰렸다…거래액 20배↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014079798?sid=105",
-      "img": "https://img1.newsis.com/2026/03/11/NISI20260311_0021203774_web.jpg"
+      "title": "삼성전자 감사 페스티벌 이후 온누리상품권 사용처 문의 증가…생활가...",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543437",
+      "img": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/543437_575454_155_v150.jpg"
     },
     {
-      "title": "서브스택, 사람이 쓰지 않은 블로그 가려내는 AI 탐지 기능 도입",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685806",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202607/685806_634017_5038.png"
+      "title": "유리산업도 AI·탈탄소 전환 본격화… ‘glasstec 2026’서 미래 제조기...",
+      "url": "https://kidd.co.kr/news/246781",
+      "img": "https://img.daara.co.kr/kidd/og_image/main.jpg"
     },
     {
-      "title": "XRP 폭망할 줄 알았지?…거시 경제 악재 뚫고 터진 역대급 대형 호재",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470275",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/470275_458000_4321_v150.jpg"
+      "title": "신의료기술평가 통과 기술 10건 중 6건 의료현장 진입",
+      "url": "http://www.whosaeng.com/172296",
+      "img": "https://www.whosaeng.com/data/whosaeng_com/mainimages/202607/2026072206071638.jpg"
     }
   ]
 };
