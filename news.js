@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 03:05",
+  "updatedAt": "2026.07.23 (목) 07:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "86.87",
-        "diff": "+2.53",
-        "rate": "+3.00%",
-        "dir": "up"
+        "value": "86.83",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,478.20",
-        "diff": "-4.30",
-        "rate": "-0.29%",
+        "value": "1,479.00",
+        "diff": "-3.50",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "905.93",
-        "diff": "-2.44",
-        "rate": "-0.27%",
+        "value": "906.53",
+        "diff": "-1.84",
+        "rate": "-0.20%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.28",
-        "diff": "-0.03",
-        "rate": "-0.36%",
+        "value": "8.29",
+        "diff": "-0.02",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.31",
-        "diff": "-0.09",
-        "rate": "-0.58%",
+        "value": "15.32",
+        "diff": "-0.08",
+        "rate": "-0.52%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
-          "desc": "가전기기는 물론 새로 선보일 AI 웨어러블 기기를 통해서다. 삼성전자는 22일(현지시간) 영국 런던에서 갤럭시 언팩 2026행사를 열고 △갤럭시Z폴드 8 울트라 △갤럭시Z플립8 △갤럭시Z폴드 8 폴더블 폰 신제품 3종을...",
-          "src": "뉴스1",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
+          "title": "한 달 새 33% 빠지더니…삼성 한마디에 '상한가 속출' 반전 [종목+]",
+          "desc": "국내 로봇주가 삼성전자의 로봇사업 전담 조직 신설 소식에 일제히 반등했다. 하반기에는 현대차그룹과... 지난 1월 세계 최대 정보기술(IT)·가전 전시회인 CES 2026에서는 보스턴다이내믹스가 양산형 휴머노이드를...",
+          "src": "한국경제",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/015/0005312842?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45113966.1.jpg"
         },
         {
           "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
         },
         {
-          "title": "[갤럭시 언팩 2026] 노태문 사장 \"연내 '갤럭시 AI' 8억대 이상 탑재\"",
-          "desc": "삼성전자가 올해 안으로 8억대가 넘는 기기에 '갤럭시 AI'를 탑재하며 모바일 인공지능(AI) 대중화를 선도하겠다는 비전을 선언했다. 스마트폰을 중심으로 가전과 웨어러블, 나아가 새로 선보인 AI 안경(인텔리전트...",
-          "src": "newscj",
+          "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
+          "desc": "가전기기는 물론 새로 선보일 AI 웨어러블 기기를 통해서다. 삼성전자는 22일(현지시간) 영국 런던에서 갤럭시 언팩 2026행사를 열고 △갤럭시Z폴드 8 울트라 △갤럭시Z플립8 △갤럭시Z폴드 8 폴더블 폰 신제품 3종을...",
+          "src": "뉴스1",
           "date": "07/22",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3419168",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419168_3528198_5456_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "강원 기업 현안, AI 인재가 직접 푼다…한컴이노스트림·한림대 맞손",
-          "desc": "이번 협약은 대학에서 배운 AI 기술을 산업 현장에서 활용할 수 있도록 교육과 기업 프로젝트, 진로·취업... 지역 기업에도 AI 도입 가능성을 점검하는 기회가 될 전망이다. 별도의 대규모 투자에 앞서 학생들의...",
-          "src": "apnews",
+          "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
+          "desc": "글로벌 게이트웨이 자리를 노리는 미국은 민간이 표준을 주도하고 미국 국립표준기술연구소(NIST)가 뒤를... 2014년 도입된 금융회사 망분리 규제에 대해서는 \"지난 6월부터 보안 목적의 AI 활용을 위한 긴급 완화 조치를...",
+          "src": "byline",
           "date": "07/23",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3049944",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049944_82196_5015_v150.jpg"
+          "url": "https://byline.network/?p=9004111222612746",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/20260721_image.jpg"
         },
         {
-          "title": "포항TP, 철강 제조현장 AI 도입 본격화…실증사업 착수",
-          "desc": "필요한 AI 기술을 검증하고 고도화하는 데 초점을 맞추고 있다. 실증 분야는 ▲원자재와 수요 예측을 활용한 재고관리 최적화 ▲제조공정의 원료 투입 및 에너지 절감 최적화 ▲철강제품 표면 결함 품질관리 ▲작업...",
-          "src": "tournews21",
+          "title": "[이용호의 손에 잡히는 인공지능]  중국 키미 K3가 흔든 AI 생태계의 질...",
+          "desc": "여기에 모델 가중치 공개까지 예고되면서 중국 AI가 다시 세계 기술 시장을 흔들고 있다는 분석이... 인공지능\", \"스마트폰 AI 활용하기\", \"시니어와 MZ세대간의 소통\"등이 있으며, 저서로는 『프롬프트 엔지니어링...",
+          "src": "lecturernews",
           "date": "07/23",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=139152",
-          "img": "https://cdn.tournews21.com/news/photo/202607/139152_262874_1219.png"
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=206897",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206897_475194_2825_v150.jpg"
         },
         {
-          "title": "가스公, AI-온톨로지 기반 데이터베이스 구축한다",
-          "desc": "인공지능(AI)과 온톨로지 기술을 활용해 분산된 업무 데이터를 통합·연결하는 'AX 플랫폼' 구축에... 전반으로 활용 범위를 넓혀나갈 예정이다. 가스공사 관계자는 \"생성형 AI 도입이 확산되는 상황에서 AI 모델 자체보다...",
-          "src": "e2news",
+          "title": "몰입감·생산성 극대화…삼성, 8세대 폴더블폰 '갤럭시Z폴드8' 공개",
+          "desc": "특히 플렉스윈도우에서 AI 기능도 편리하게 활용할 수 있어 측면 버튼이나 음성 명령만으로 여러 앱과... 신제품에는 티타늄 합금 필름과 강화 티타늄 플레이트를 결합한 플렉스 티타늄 기술이 최초로 적용돼...",
+          "src": "itbiznews",
           "date": "07/23",
-          "url": "http://www.e2news.com/news/articleView.html?idxno=332565",
-          "img": "https://cdn.e2news.com/news/thumbnail/202607/332565_230574_56_v150.jpg"
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=219848",
+          "img": "https://cdn.itbiznews.com/news/photo/202607/219848_222504_2056.jpg"
         },
         {
-          "title": "[파워인터뷰] 마키나락스 윤성호 대표 \"6000개 AI 모델로 피지컬 AI 공략...",
-          "desc": "하지만 마키나락스의 AI는 현장에서 지속적으로 운영되면서 AI 기술이 고도화되는 만큼 공급된 솔루션도 함께 발전합니다. 즉 한 번 도입하고 끝나는 것이 아니라 계속해서 활용할 수 있는 AI입니다. 이것이 저희가...",
-          "src": "paxetv",
+          "title": "\"AI 활용능력이 취업·인사 성패 가른다\"… 기업 인사 방정식 'AI'에 무게...",
+          "desc": "이제 기업의 진짜 리스크는 기술 격차가 아닌 AI를 업무에 접목할 수 있는 'AI 활용 격차'로 옮겨갔다.... 대신 AI 도구를 활용해 문제를 정의하고 해결 과정을 검증하는 'AI 과제' 전형을 새롭게 도입했다. 이들이...",
+          "src": "economytalk",
           "date": "07/23",
-          "url": "http://www.paxetv.com/news/articleView.html?idxno=277658",
-          "img": ""
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=422937",
+          "img": "https://cdn.economytalk.kr/news/photo/202607/422937_229517_4026.png"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "글로벌 반도체·AI 리더 美서 회동… 피크아웃 우려 잠재우나",
+          "desc": "이재용 삼성전자·최태원 SK그룹·정의선 현대차그룹 회장과 이해진 네이버 이사회 의장이 젠슨 황... 거대 자금을 운용하는 협력사들과의 논의가 필수적이다. 이 의장이 황 CEO와 회동 전에 최수연 네이버 대표 등과...",
+          "src": "segye",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/022/0004145194?sid=101",
+          "img": "https://www.segye.com/content/image/2026/07/22/20260722524949.jpg"
+        },
         {
           "title": "'역대급' 실적 예고한 삼전닉스…HBM으로 증명할 K-반도체 저력",
           "desc": "복수의 HBM 공정 장비 협력사와 하반기 발주를 논의 중인 것으로 전해지면서 HBM4 공급 확대에도 속도가 붙을 것이란 해석을 낳았다. 삼성전자는 범용 D램과 낸드플래시에서 확보한 안정적인 시장 지배력을 바탕으로...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/22",
           "url": "https://n.news.naver.com/mnews/article/009/0005710770?sid=101",
           "img": "https://pimg.mk.co.kr/news/cms/202607/23/20260723_01110201000002_L00.jpg"
-        },
-        {
-          "title": "반도체 투톱 승승장구에도 납품가 인상은 ‘먼 일’",
-          "desc": "기자] 삼성전자와 SK하이닉스가 사상 최대 실적을 경신하고 있지만 국내 소재·부품·장비(소부장) 협력사들의 한숨은 오히려 깊어지고 있다. 원자재와 인건비가 폭등했지만 납품단가 인상은커녕 원가 절감 압박이...",
-          "src": "아시아타임즈",
-          "date": "07/22",
-          "url": "https://www.asiatime.co.kr/article/20260722500321",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/22/.cache/512/20260722500309.png"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
+      "title": "한 달 새 33% 빠지더니…삼성 한마디에 '상한가 속출' 반전 [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005312842?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/01.45113966.1.jpg"
     },
     {
       "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
     },
     {
-      "title": "[갤럭시 언팩 2026] 노태문 사장 \"연내 '갤럭시 AI' 8억대 이상 탑재\"",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3419168",
-      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419168_3528198_5456_v150.jpg"
+      "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
     },
     {
-      "title": "강원 기업 현안, AI 인재가 직접 푼다…한컴이노스트림·한림대 맞손",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3049944",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049944_82196_5015_v150.jpg"
+      "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
+      "url": "https://byline.network/?p=9004111222612746",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/20260721_image.jpg"
     },
     {
-      "title": "포항TP, 철강 제조현장 AI 도입 본격화…실증사업 착수",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=139152",
-      "img": "https://cdn.tournews21.com/news/photo/202607/139152_262874_1219.png"
+      "title": "[이용호의 손에 잡히는 인공지능]  중국 키미 K3가 흔든 AI 생태계의 질...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=206897",
+      "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206897_475194_2825_v150.jpg"
     }
   ]
 };
