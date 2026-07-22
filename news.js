@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 07:00",
+  "updatedAt": "2026.07.23 (목) 07:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,24 +31,24 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "86.83",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "88.29",
+        "diff": "+1.46",
+        "rate": "+1.68%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,479.00",
-        "diff": "-3.50",
-        "rate": "-0.24%",
+        "value": "1,478.50",
+        "diff": "-4.00",
+        "rate": "-0.27%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "906.53",
-        "diff": "-1.84",
+        "value": "906.55",
+        "diff": "-1.82",
         "rate": "-0.20%",
         "dir": "down"
       },
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.32",
-        "diff": "-0.08",
-        "rate": "-0.52%",
+        "value": "15.31",
+        "diff": "-0.09",
+        "rate": "-0.58%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한 달 새 33% 빠지더니…삼성 한마디에 '상한가 속출' 반전 [종목+]",
-          "desc": "국내 로봇주가 삼성전자의 로봇사업 전담 조직 신설 소식에 일제히 반등했다. 하반기에는 현대차그룹과... 지난 1월 세계 최대 정보기술(IT)·가전 전시회인 CES 2026에서는 보스턴다이내믹스가 양산형 휴머노이드를...",
-          "src": "한국경제",
+          "title": "삼성전자, 로봇 사업 '전사 총력전'… 휴머노이드 상용화 승부수",
+          "desc": "반도체와 스마트폰, 생활가전 등 다양한 제품을 생산하는 만큼 공정별로 요구되는 작업 환경과 동작이 다르기 때문이다. 삼성전자가 오는 2030년까지 국내외 생산 거점을 AI 자율공장으로 전환한다는 계획까지 현실화할...",
+          "src": "koreaittimes",
           "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/015/0005312842?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45113966.1.jpg"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155389",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202607/155389_104907_1532_v150.jpg"
+        },
+        {
+          "title": "[Who Is ?] 구본학 쿠쿠홈시스 대표이사 사장",
+          "desc": "쿠쿠홈시스의 실적 그래프 <비즈니스포스트> △스마트 홈 플랫폼 시장 참전 쿠쿠가 삼성전자와 LG전자가... 쿠쿠홈시스는 2025년 5월 로봇청소기 최초로 보안 인증을 받았다. 인공지능(AI) 성능을 탑재한 로봇청소기...",
+          "src": "비즈니스포스트",
+          "date": "07/23",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442066",
+          "img": ""
         },
         {
           "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -102,20 +110,12 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
         },
         {
-          "title": "건물 냉난방 탈탄소화 속도… 히트펌프 보급 기반 마련",
-          "desc": "삼성전자, 삼성에스디아이 및 삼성디스플레이를 포함한 총 13개 사업장에서 확대 시행하고 있다. 이후 김 장관은 용인에 소재한 수도권자원순환센터도 방문해 냉장고‧에어컨 해체 및 냉매(기후‧생태계 변화 유발 물질)...",
-          "src": "e-platform",
+          "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
+          "desc": "삼성전자는 현재 광주 내 3개의 캠퍼스(그린1·2·3)에서 에어컨, 냉장고, 세탁기·건조기 등을 생산하고 있는데, 이번 신공장 부지는 그린3캠퍼스 내로 정해졌다. 삼성전자는 지난해 11월 유럽 최대 공조기기 업체인...",
+          "src": "헤럴드경제",
           "date": "07/22",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=104033",
-          "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
-        },
-        {
-          "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
-          "desc": "가전기기는 물론 새로 선보일 AI 웨어러블 기기를 통해서다. 삼성전자는 22일(현지시간) 영국 런던에서 갤럭시 언팩 2026행사를 열고 △갤럭시Z폴드 8 울트라 △갤럭시Z플립8 △갤럭시Z폴드 8 폴더블 폰 신제품 3종을...",
-          "src": "뉴스1",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
-          "desc": "글로벌 게이트웨이 자리를 노리는 미국은 민간이 표준을 주도하고 미국 국립표준기술연구소(NIST)가 뒤를... 2014년 도입된 금융회사 망분리 규제에 대해서는 \"지난 6월부터 보안 목적의 AI 활용을 위한 긴급 완화 조치를...",
-          "src": "byline",
+          "title": "금리는 은행을 살리고, AI·디지털자산은 판을 바꾼다…4대 금융지주 회...",
+          "desc": "전략은 AI를 단순한 기술 도입이 아니라 조직 운영 방식의 변화로 보는 데 있다. 신한금융은 신한 슈퍼SOL을... 금융업계는 2026년 금융권 경쟁이 이익 규모보다 디지털 전환 속도와 활용 역량에서 갈릴 것이라는 진단이...",
+          "src": "peoplewatch",
           "date": "07/23",
-          "url": "https://byline.network/?p=9004111222612746",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/20260721_image.jpg"
+          "url": "https://www.peoplewatch.co.kr/article/view/ppw202607090001",
+          "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/07/09/ppw20260709000003.jpg"
         },
         {
-          "title": "[이용호의 손에 잡히는 인공지능]  중국 키미 K3가 흔든 AI 생태계의 질...",
-          "desc": "여기에 모델 가중치 공개까지 예고되면서 중국 AI가 다시 세계 기술 시장을 흔들고 있다는 분석이... 인공지능\", \"스마트폰 AI 활용하기\", \"시니어와 MZ세대간의 소통\"등이 있으며, 저서로는 『프롬프트 엔지니어링...",
-          "src": "lecturernews",
+          "title": "롯데百 'AI 비즈센터' 론칭→신세계百 AI, 세계최고 학회 인정",
+          "desc": "22일 공식 홈페이지를 통해 운영을 시작한 'AI 비즈센터'는 AI 기술을 활용해 백화점 입점 및 상담 절차를... 이 같은 지능형 프로세스의 도입으로 제안서의 표준화 및 정교한 부서 매칭이 가능해져 상담 제안부터 유관...",
+          "src": "slist",
           "date": "07/23",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=206897",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206897_475194_2825_v150.jpg"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=753570",
+          "img": "https://cdn.slist.kr/news/thumbnail/202607/753570_1155497_2453_v150.jpg"
         },
         {
-          "title": "몰입감·생산성 극대화…삼성, 8세대 폴더블폰 '갤럭시Z폴드8' 공개",
-          "desc": "특히 플렉스윈도우에서 AI 기능도 편리하게 활용할 수 있어 측면 버튼이나 음성 명령만으로 여러 앱과... 신제품에는 티타늄 합금 필름과 강화 티타늄 플레이트를 결합한 플렉스 티타늄 기술이 최초로 적용돼...",
-          "src": "itbiznews",
+          "title": "롯데백화점, 업계 첫 AI 입점 상담 서비스 도입…신생 브랜드 제안서 작...",
+          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점과 상담 절차를 간소화한 서비스로, 복잡한 입점 과정 때문에 기회를 놓치는 신생 브랜드의 불편을 해소하기 위해 개발됐습니다. 파트너사는 AI 비즈센터에 접속해 브랜드명과...",
+          "src": "biz",
           "date": "07/23",
-          "url": "https://www.itbiznews.com/news/articleView.html?idxno=219848",
-          "img": "https://cdn.itbiznews.com/news/photo/202607/219848_222504_2056.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000523186?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2023/05/02/WAD1683004578697-850.jpg"
         },
         {
-          "title": "\"AI 활용능력이 취업·인사 성패 가른다\"… 기업 인사 방정식 'AI'에 무게...",
-          "desc": "이제 기업의 진짜 리스크는 기술 격차가 아닌 AI를 업무에 접목할 수 있는 'AI 활용 격차'로 옮겨갔다.... 대신 AI 도구를 활용해 문제를 정의하고 해결 과정을 검증하는 'AI 과제' 전형을 새롭게 도입했다. 이들이...",
-          "src": "economytalk",
+          "title": "한국가스공사, 온톨로지 기반 AX 플랫폼 구축 착수",
+          "desc": "한국가스공사는 데이터 활용도가 높은 천연가스 생산 분야에 온톨로지 기반 AI 시스템을 우선적으로 도입하여 검증한 뒤, 향후 도입 범위를 가스 산업 전체...",
+          "src": "breaknews",
           "date": "07/23",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=422937",
-          "img": "https://cdn.economytalk.kr/news/photo/202607/422937_229517_4026.png"
+          "url": "http://www.breaknews.com/1223687",
+          "img": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072315163788.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "한 달 새 33% 빠지더니…삼성 한마디에 '상한가 속출' 반전 [종목+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312842?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/01.45113966.1.jpg"
+      "title": "삼성전자, 로봇 사업 '전사 총력전'… 휴머노이드 상용화 승부수",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155389",
+      "img": "https://www.koreaittimes.com/news/thumbnail/202607/155389_104907_1532_v150.jpg"
     },
     {
       "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
     },
     {
-      "title": "건물 냉난방 탈탄소화 속도… 히트펌프 보급 기반 마련",
-      "url": "http://www.e-platform.net/news/articleView.html?idxno=104033",
-      "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
+      "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
     },
     {
-      "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
+      "title": "금리는 은행을 살리고, AI·디지털자산은 판을 바꾼다…4대 금융지주 회...",
+      "url": "https://www.peoplewatch.co.kr/article/view/ppw202607090001",
+      "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/07/09/ppw20260709000003.jpg"
     },
     {
-      "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
-      "url": "https://byline.network/?p=9004111222612746",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/20260721_image.jpg"
+      "title": "롯데百 'AI 비즈센터' 론칭→신세계百 AI, 세계최고 학회 인정",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=753570",
+      "img": "https://cdn.slist.kr/news/thumbnail/202607/753570_1155497_2453_v150.jpg"
     },
     {
-      "title": "[이용호의 손에 잡히는 인공지능]  중국 키미 K3가 흔든 AI 생태계의 질...",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=206897",
-      "img": "https://cdn.lecturernews.com/news/thumbnail/202607/206897_475194_2825_v150.jpg"
+      "title": "롯데백화점, 업계 첫 AI 입점 상담 서비스 도입…신생 브랜드 제안서 작...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523186?sid=101",
+      "img": "https://img.biz.sbs.co.kr/upload/2023/05/02/WAD1683004578697-850.jpg"
     }
   ]
 };
