@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.22 (수) 20:03",
+  "updatedAt": "2026.07.23 (목) 00:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "87.13",
-        "diff": "+2.79",
-        "rate": "+3.31%",
+        "value": "86.85",
+        "diff": "+2.51",
+        "rate": "+2.98%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,480.00",
-        "diff": "-2.50",
-        "rate": "-0.17%",
+        "value": "1,476.70",
+        "diff": "-5.80",
+        "rate": "-0.39%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "907.86",
-        "diff": "-0.51",
-        "rate": "-0.06%",
+        "value": "905.45",
+        "diff": "-2.92",
+        "rate": "-0.32%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.29",
-        "diff": "-0.02",
-        "rate": "-0.24%",
+        "value": "8.27",
+        "diff": "-0.04",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.64",
-        "diff": "-0.01",
-        "rate": "-0.18%",
+        "value": "5.62",
+        "diff": "-0.03",
+        "rate": "-0.53%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.33",
-        "diff": "-0.07",
-        "rate": "-0.45%",
+        "value": "15.29",
+        "diff": "-0.11",
+        "rate": "-0.71%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자의 새 승부수는 '로봇'… 노태문 직속 조직 띄우고 사업화 속도",
-          "desc": "삼성전자가 대표이사 직속 로봇 전담 조직을 신설하며 로봇 사업 확대에 본격적으로 나섰다. 연구 개발... 재계 관계자는 \"삼성은 세계 각지의 생산기지와 반도체, AI, 가전 기술을 모두 보유하고 있어 로봇을 직접...",
-          "src": "thepublic",
+          "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
+          "desc": "가전기기는 물론 새로 선보일 AI 웨어러블 기기를 통해서다. 삼성전자는 22일(현지시간) 영국 런던에서 갤럭시 언팩 2026행사를 열고 △갤럭시Z폴드 8 울트라 △갤럭시Z플립8 △갤럭시Z폴드 8 폴더블 폰 신제품 3종을...",
+          "src": "뉴스1",
           "date": "07/22",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312292",
-          "img": "https://cdn.thepublic.kr/news/photo/202607/312292_315239_1650.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
         },
         {
           "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
         },
         {
-          "title": "[AI 전쟁] 삼성전자의 대규모 프랑스 미스트랄 AI 투자, 한국 '소버린 A...",
-          "desc": "따라서 삼성전자는 제한된 연산 자원과 배터리 환경에서도 자신의 스마트폰/태블릿/웨어러블 부문에서 최고 수준의 AI 추론을 수행하는 온디바이스 AI 모델 탑재가 가능하다. 가전/로봇 부문에서도 Bixby 등 삼성 AI...",
-          "src": "businesskorea",
+          "title": "[갤럭시 언팩 2026] 노태문 사장 \"연내 '갤럭시 AI' 8억대 이상 탑재\"",
+          "desc": "삼성전자가 올해 안으로 8억대가 넘는 기기에 '갤럭시 AI'를 탑재하며 모바일 인공지능(AI) 대중화를 선도하겠다는 비전을 선언했다. 스마트폰을 중심으로 가전과 웨어러블, 나아가 새로 선보인 AI 안경(인텔리전트...",
+          "src": "newscj",
           "date": "07/22",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
-          "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273438_280710_1138_v150.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3419168",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419168_3528198_5456_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한수원, 신입사원 229명 채용 및 협력기업 '보안관리 제도 개선 설명회...",
-          "desc": "우선 '협력기업 보안 수준 평가제도'를 도입해 협력사들이 기본적인 보안 기준을 충족하도록 제도적 기반을 다졌다. 아울러 제공되는 기술자료의 전송, 보관, 활용, 반납 및 파기에 이르는 전 과정을 통제하는 '기술정보...",
-          "src": "cstimes",
+          "title": "\"AI 대체 넘어 조직 바꿔라\"… 성패 가르는 건 모델 아닌 'KPI'",
+          "desc": "기업이 인공지능(AI)을 도입하면서 가장 먼저 부딪히는 실수는 어떤 모델과 기술을 쓸지부터 정하는... 맞지만 기술 자체가 비즈니스 가치를 만들어주지는 않는다\"고 밝혔다. 조 교수는 기업의 AI 활용 수준을 AI, AS(AI...",
+          "src": "newscj",
           "date": "07/22",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=714282",
-          "img": "https://www.cstimes.com/news/photo/202607/714282_634439_4444.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3419176",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419176_3528214_4426_v150.jpg"
         },
         {
-          "title": "인터뷰/ 이재영 증평군수, '스마트 증평' 선언… 군정 전반 혁신",
-          "desc": "이 군수는 인터뷰를 통해 \" '스마트'의 개념은 단순한 인공지능(AI)이나 디지털 기술 도입에 국한되지 않고... 이 군수는 기술을 수단으로 활용해 군민 중심의 효율적인 도시를 만들겠다는 구상이다. 이 군수는 첫 임기 동안...",
-          "src": "dynews",
+          "title": "기후변화가 키운 재선충병…확산 막을 해법은",
+          "desc": "산림청은 전국 산림을 100m×100m 격자 단위로 세분화해 관리하는 '면적 단위 예찰·방제체계'를 도입한다.... 예찰 과정에는 위성과 헬기, 드론은 물론 LiDAR와 인공지능(AI) 기술도 활용된다. 수집된 자료를 중앙에서 통합...",
+          "src": "newsfarm",
           "date": "07/22",
-          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858909",
-          "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858909_395583_3732_v150.jpg"
+          "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101773",
+          "img": "https://cdn.newsfarm.co.kr/news/thumbnail/202607/101773_74601_4647_v150.jpg"
         },
         {
-          "title": "대구시, 245억 투입 ‘모빌리티부품 제조AI 확산센터’ 구축",
-          "desc": "시는 공용 인프라를 활용해 중소·중견기업의 초기 투자 부담을 줄이고 제조공정 시뮬레이션과 병목 분석, AI 도입 컨설팅, 기술지도 등을 지원할 계획이다. 또한 재직자와 예비 인력을 대상으로 전문교육을 제공하고...",
-          "src": "nspna",
+          "title": "[갤럭시 언팩] 노태문 대표 \"AI 시대 '이정표'\"...'폴더블폰·워치·안경...",
+          "desc": "'갤럭시 Z폴드8' 상세 사양/사진=삼성전자 유튜브 Z폴드8과 Z폴드8 울트라는 플렉스 타타늄 기술을... AI를 일상에서 자연스럽고 직관적으로 활용할 수 있도록 한다. 최원준 삼성전자 모바일경험(MX)사업부...",
+          "src": "테크M",
           "date": "07/22",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=821588",
-          "img": "https://file.nspna.com/news/2026/07/22/20260722180601_821588_1.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=153586",
+          "img": "https://cdn.techm.kr/news/thumbnail/202607/153586_216882_484_v150.jpg"
         },
         {
-          "title": "업스테이지, 독파모 2차 '솔라 오픈2' 공개…\"GPU 2장으로 실무형 AI 구현...",
-          "desc": "실제 도입할 수 있는 실용성이 중요하다\"고 말했다. 노타AI도 행사에서 솔라 오픈2 전용 양자화(Quantization) 모델을 공개했다. 모델 경량화와 프루닝(Pruning) 기술을 적용해 모델 용량을 줄이고, GPU 두 장에서도...",
-          "src": "아이뉴스24",
+          "title": "[기고] 드론과 피지컬 AI 운용할 ‘스마트 강군’ 만들자",
+          "desc": "AI·드론 전력 중심으로 급격히 이동하고 있음을 보여준다. 고성윤 한국군사과학포럼 대표 하지만 기술적... 피지컬 AI 전력을 도입하는 방식이다. 기존 박격포탄을 드론용 타격 수단으로 개조하여 활용하기 위한...",
+          "src": "segye",
           "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/031/0001044104?sid=105",
-          "img": "https://image.inews24.com/v1/360f33f4f0f2d9.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004145159?sid=110",
+          "img": "https://www.segye.com/content/image/2026/03/16/20260316518739.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자의 새 승부수는 '로봇'… 노태문 직속 조직 띄우고 사업화 속도",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=312292",
-      "img": "https://cdn.thepublic.kr/news/photo/202607/312292_315239_1650.jpg"
+      "title": "노태문 \"새 폴더블 폰 3종, 역대 가장 강력하고 다재다능\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009073830?sid=105",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/22/8020967/high.jpg"
     },
     {
       "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
     },
     {
-      "title": "[AI 전쟁] 삼성전자의 대규모 프랑스 미스트랄 AI 투자, 한국 '소버린 A...",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
-      "img": "https://www.businesskorea.co.kr/news/thumbnail/202607/273438_280710_1138_v150.jpg"
+      "title": "[갤럭시 언팩 2026] 노태문 사장 \"연내 '갤럭시 AI' 8억대 이상 탑재\"",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3419168",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419168_3528198_5456_v150.jpg"
     },
     {
-      "title": "한수원, 신입사원 229명 채용 및 협력기업 '보안관리 제도 개선 설명회...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=714282",
-      "img": "https://www.cstimes.com/news/photo/202607/714282_634439_4444.jpg"
+      "title": "\"AI 대체 넘어 조직 바꿔라\"… 성패 가르는 건 모델 아닌 'KPI'",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3419176",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419176_3528214_4426_v150.jpg"
     },
     {
-      "title": "인터뷰/ 이재영 증평군수, '스마트 증평' 선언… 군정 전반 혁신",
-      "url": "https://www.dynews.co.kr/news/articleView.html?idxno=858909",
-      "img": "https://cdn.dynews.co.kr/news/thumbnail/202607/858909_395583_3732_v150.jpg"
+      "title": "기후변화가 키운 재선충병…확산 막을 해법은",
+      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101773",
+      "img": "https://cdn.newsfarm.co.kr/news/thumbnail/202607/101773_74601_4647_v150.jpg"
     }
   ]
 };
