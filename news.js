@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 00:00",
+  "updatedAt": "2026.07.23 (목) 03:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-22",
+    "asOf": "2026-07-23",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "86.85",
-        "diff": "+2.51",
-        "rate": "+2.98%",
+        "value": "86.87",
+        "diff": "+2.53",
+        "rate": "+3.00%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,476.70",
-        "diff": "-5.80",
-        "rate": "-0.39%",
+        "value": "1,478.20",
+        "diff": "-4.30",
+        "rate": "-0.29%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "905.45",
-        "diff": "-2.92",
-        "rate": "-0.32%",
+        "value": "905.93",
+        "diff": "-2.44",
+        "rate": "-0.27%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.27",
-        "diff": "-0.04",
-        "rate": "-0.48%",
+        "value": "8.28",
+        "diff": "-0.03",
+        "rate": "-0.36%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.62",
-        "diff": "-0.03",
-        "rate": "-0.53%",
+        "value": "5.63",
+        "diff": "-0.02",
+        "rate": "-0.35%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.29",
-        "diff": "-0.11",
-        "rate": "-0.71%",
+        "value": "15.31",
+        "diff": "-0.09",
+        "rate": "-0.58%",
         "dir": "down"
       }
     ]
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI 대체 넘어 조직 바꿔라\"… 성패 가르는 건 모델 아닌 'KPI'",
-          "desc": "기업이 인공지능(AI)을 도입하면서 가장 먼저 부딪히는 실수는 어떤 모델과 기술을 쓸지부터 정하는... 맞지만 기술 자체가 비즈니스 가치를 만들어주지는 않는다\"고 밝혔다. 조 교수는 기업의 AI 활용 수준을 AI, AS(AI...",
-          "src": "newscj",
-          "date": "07/22",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3419176",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419176_3528214_4426_v150.jpg"
+          "title": "강원 기업 현안, AI 인재가 직접 푼다…한컴이노스트림·한림대 맞손",
+          "desc": "이번 협약은 대학에서 배운 AI 기술을 산업 현장에서 활용할 수 있도록 교육과 기업 프로젝트, 진로·취업... 지역 기업에도 AI 도입 가능성을 점검하는 기회가 될 전망이다. 별도의 대규모 투자에 앞서 학생들의...",
+          "src": "apnews",
+          "date": "07/23",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3049944",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049944_82196_5015_v150.jpg"
         },
         {
-          "title": "기후변화가 키운 재선충병…확산 막을 해법은",
-          "desc": "산림청은 전국 산림을 100m×100m 격자 단위로 세분화해 관리하는 '면적 단위 예찰·방제체계'를 도입한다.... 예찰 과정에는 위성과 헬기, 드론은 물론 LiDAR와 인공지능(AI) 기술도 활용된다. 수집된 자료를 중앙에서 통합...",
-          "src": "newsfarm",
-          "date": "07/22",
-          "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101773",
-          "img": "https://cdn.newsfarm.co.kr/news/thumbnail/202607/101773_74601_4647_v150.jpg"
+          "title": "포항TP, 철강 제조현장 AI 도입 본격화…실증사업 착수",
+          "desc": "필요한 AI 기술을 검증하고 고도화하는 데 초점을 맞추고 있다. 실증 분야는 ▲원자재와 수요 예측을 활용한 재고관리 최적화 ▲제조공정의 원료 투입 및 에너지 절감 최적화 ▲철강제품 표면 결함 품질관리 ▲작업...",
+          "src": "tournews21",
+          "date": "07/23",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=139152",
+          "img": "https://cdn.tournews21.com/news/photo/202607/139152_262874_1219.png"
         },
         {
-          "title": "[갤럭시 언팩] 노태문 대표 \"AI 시대 '이정표'\"...'폴더블폰·워치·안경...",
-          "desc": "'갤럭시 Z폴드8' 상세 사양/사진=삼성전자 유튜브 Z폴드8과 Z폴드8 울트라는 플렉스 타타늄 기술을... AI를 일상에서 자연스럽고 직관적으로 활용할 수 있도록 한다. 최원준 삼성전자 모바일경험(MX)사업부...",
-          "src": "테크M",
-          "date": "07/22",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=153586",
-          "img": "https://cdn.techm.kr/news/thumbnail/202607/153586_216882_484_v150.jpg"
+          "title": "가스公, AI-온톨로지 기반 데이터베이스 구축한다",
+          "desc": "인공지능(AI)과 온톨로지 기술을 활용해 분산된 업무 데이터를 통합·연결하는 'AX 플랫폼' 구축에... 전반으로 활용 범위를 넓혀나갈 예정이다. 가스공사 관계자는 \"생성형 AI 도입이 확산되는 상황에서 AI 모델 자체보다...",
+          "src": "e2news",
+          "date": "07/23",
+          "url": "http://www.e2news.com/news/articleView.html?idxno=332565",
+          "img": "https://cdn.e2news.com/news/thumbnail/202607/332565_230574_56_v150.jpg"
         },
         {
-          "title": "[기고] 드론과 피지컬 AI 운용할 ‘스마트 강군’ 만들자",
-          "desc": "AI·드론 전력 중심으로 급격히 이동하고 있음을 보여준다. 고성윤 한국군사과학포럼 대표 하지만 기술적... 피지컬 AI 전력을 도입하는 방식이다. 기존 박격포탄을 드론용 타격 수단으로 개조하여 활용하기 위한...",
-          "src": "segye",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/022/0004145159?sid=110",
-          "img": "https://www.segye.com/content/image/2026/03/16/20260316518739.jpg"
+          "title": "[파워인터뷰] 마키나락스 윤성호 대표 \"6000개 AI 모델로 피지컬 AI 공략...",
+          "desc": "하지만 마키나락스의 AI는 현장에서 지속적으로 운영되면서 AI 기술이 고도화되는 만큼 공급된 솔루션도 함께 발전합니다. 즉 한 번 도입하고 끝나는 것이 아니라 계속해서 활용할 수 있는 AI입니다. 이것이 저희가...",
+          "src": "paxetv",
+          "date": "07/23",
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=277658",
+          "img": ""
         }
       ]
     },
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newscj.com/news/thumbnail/202607/3419168_3528198_5456_v150.jpg"
     },
     {
-      "title": "\"AI 대체 넘어 조직 바꿔라\"… 성패 가르는 건 모델 아닌 'KPI'",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3419176",
-      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419176_3528214_4426_v150.jpg"
+      "title": "강원 기업 현안, AI 인재가 직접 푼다…한컴이노스트림·한림대 맞손",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3049944",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202607/3049944_82196_5015_v150.jpg"
     },
     {
-      "title": "기후변화가 키운 재선충병…확산 막을 해법은",
-      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101773",
-      "img": "https://cdn.newsfarm.co.kr/news/thumbnail/202607/101773_74601_4647_v150.jpg"
+      "title": "포항TP, 철강 제조현장 AI 도입 본격화…실증사업 착수",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=139152",
+      "img": "https://cdn.tournews21.com/news/photo/202607/139152_262874_1219.png"
     }
   ]
 };
