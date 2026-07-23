@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 13:11",
+  "updatedAt": "2026.07.23 (목) 16:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "88.34",
-        "diff": "+1.51",
-        "rate": "+1.74%",
+        "value": "89.42",
+        "diff": "+2.59",
+        "rate": "+2.98%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,466.20",
-        "diff": "-12.80",
-        "rate": "-0.87%",
+        "value": "1,469.30",
+        "diff": "-9.70",
+        "rate": "-0.66%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "899.26",
-        "diff": "-7.32",
-        "rate": "-0.81%",
+        "value": "900.50",
+        "diff": "-6.08",
+        "rate": "-0.67%",
         "dir": "down"
       },
       {
@@ -63,17 +63,17 @@ window.NEWS_DATA = {
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.57",
-        "diff": "-0.06",
-        "rate": "-1.07%",
+        "value": "5.58",
+        "diff": "-0.05",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.19",
-        "diff": "-0.13",
-        "rate": "-0.85%",
+        "value": "15.22",
+        "diff": "-0.10",
+        "rate": "-0.65%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
-          "desc": "삼성전자는 스마트폰과 워치, TV, 가전 등 다양한 디바이스를 통해 축적한 사용자 데이터를 AI 경쟁력의 기반으로 활용한다는 계획이다. 노 대표는 \"삼성만큼 다양한 디바이스로 일상 전반을 연결하는 기업은 없다\"며...",
-          "src": "dizzotv",
+          "title": "구글 선언에 웃는 삼성전자… 메모리 공급으로 최대 수혜",
+          "desc": "모바일 등 소비자 가전 시장의 경기 변동에 흔들리지 않는 튼튼한 이익 구조를 구축했다는 평가다. KB증권은 삼성전자에 대해 투자의견 '매수'와 목표주가 60만 원을 유지했다. 사진=연합뉴스 (더쎈뉴스 / The CEN News)",
+          "src": "mhns",
           "date": "07/23",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
-          "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=754246",
+          "img": "https://cdn.mhns.co.kr/news/thumbnail/202607/754246_887513_1459_v150.jpg"
         },
         {
           "title": "[Who Is ?] 구본학 쿠쿠홈시스 대표이사 사장",
@@ -102,12 +102,12 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "삼성전자, 냉장고·건조기 美 1위 싹쓸이…구글 AI 투자 수혜 기대감도...",
-          "desc": "삼성전자는 프렌치도어 냉장고, 상냉동·하냉장 냉장고, 양문형 냉장고, 의류 건조기, 후드 일체형 전자레인지, 식기세척기 부문에서 최고 평가를 받으며 최다 수상 브랜드로 선정됐다. 냉장고 제품군에서는 주요...",
-          "src": "whitepaper",
+          "title": "삼성전자, 미국 JD 파워 생활가전 만족도 6개 부문 1위",
+          "desc": "냉장고 3종·건조기·전자레인지·식기세척기 석권…최다 수상 브랜드 선정 투데이e코노믹 = 유서진 기자 | 삼성전자가 미국 소비자를 대상으로 진행된 생활가전 만족도 조사에서 6개 제품 부문 1위를 차지하며 가장 많은...",
+          "src": "todayeconomic",
           "date": "07/23",
-          "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264877",
-          "img": "http://www.whitepaper.co.kr/news/thumbnail/202607/264877_197985_536_v150.jpg"
+          "url": "https://www.todayeconomic.com/news/article.html?no=31419",
+          "img": "https://www.todayeconomic.com/data/photos/20260730/art_17847886650521_e55a4e.jpg"
         },
         {
           "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "헤지스, 글로벌 바이어 명동 ‘스페이스H’에 꽂혔다! AI기반 디지털 시...",
-          "desc": "AI 기술을 활용한 콘텐츠도 함께 선보인다. 27SS 시즌을 대표하는 키 룩(Key Look)을 AI 런웨이 영상으로 구현해... 수주 방식에도 AI를 처음 도입했다. 헤지스는 AI로 제작한 디지털 룩북과 연동한 글로벌 B2B 오더 시스템을...",
-          "src": "fashionn",
+          "title": "앤트로픽, AMD와 AI 인프라 '동맹'…7조원 투자 유치",
+          "desc": "차세대 AI 가속기 '인스팅트 MI450'을 최대 2기가와트(GW) 규모로 도입한다. AMD는 구축 일정에 맞춰 최대 50억... 양사는 단순 칩 공급을 넘어 기술 협력도 확대한다. AMD는 앤트로픽의 AI 모델 '클로드'를 활용해 자사 칩과...",
+          "src": "ZDNet코리아",
           "date": "07/23",
-          "url": "http://www.fashionn.com/board/read_new.php?table=1006&number=61805",
-          "img": "https://www.fashionn.com/files/board/2026/image/o_1ju6i472tbjo16mt157eqkgirbb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002431661?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/01/06/8c0e0b4f24fa0d5824e3394edb25d836.jpg"
         },
         {
-          "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
-          "desc": "여기에 새 소재 기술인 '플렉스 티타늄'을 도입해 내구성과 경량화를 동시에 구현했다. 티타늄의 강도와... 데이터를 AI 경쟁력의 기반으로 활용한다는 계획이다. 노 대표는 \"삼성만큼 다양한 디바이스로 일상 전반을...",
-          "src": "dizzotv",
+          "title": "[의료기기업계 소식] 7월 23일",
+          "desc": "환경에서 활용될 수 있다. 또한, 낮은 관전압 기술을 적용해 조영제 사용량과 방사선량 관리를 고려한 검사... AI 분석 기술을 기반으로 연속적으로 수집되는 심전도 데이터를 구간 단위와 비트 단위로 세밀하게 분석하고...",
+          "src": "doctorstimes",
           "date": "07/23",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
-          "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239187",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239187_109236_3036_v150.jpg"
         },
         {
-          "title": "이재영, 군의회 첫 군정보고서 '생활밀착형 스마트도시' 도약 선언",
-          "desc": "특히 과학기술정보통신부 '온디바이스 AI 실증확산 공모사업'으로 생활 밀착형 스마트 행정 구현에 속도를... CCTV를 활용한 통합 안전돌봄 체계를 구축하고, 장뜰전통시장과 도서관 등에는 피지컬 AI를 도입해 무인 시간대...",
-          "src": "뉴스1",
+          "title": "취임 1년 넘긴 김인중 농어촌공사 사장, ‘AI·청년농·재해예방’ 키웠...",
+          "desc": "23일 농림축산식품부가 AI와 드론을 활용해 전국 농지 195만㏊에 대한 전수조사를 진행하고 있다고 밝히면서... 학습한 AI 수질 예측 시스템도 도입됐다. 기존 수질 분석에 2~3주가 걸리던 한계를 기술로 보완한 것이다....",
+          "src": "sateconomy",
           "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/421/0009075110?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/23/8022108/high.jpg"
+          "url": "https://sateconomy.co.kr/news/view/1065597602821899",
+          "img": "http://sateconomy.co.kr/news/data/20260723/p1065597602821899_566_thum.PNG"
         },
         {
-          "title": "정부, '에이전틱 AI 이니셔티브' 마련...실행 중심의 에이전틱 AI 생태계...",
-          "desc": "배경훈 부총리(사진:본지DB) 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈. 이하, 과기정통부)는... 특히, 권한 오남용, 보안 위협, 민감 데이터 유출 등 문제가 발생할 가능성도 있어 에이전틱 AI의 도입·활용...",
-          "src": "AI타임스",
+          "title": "[제약업계 소식] 7월 23일",
+          "desc": "올해 1월부터 불법 유통 적발 시 즉시 거래를 영구 중단하는 제도를 도입했으며, 국내 병·의원에 안내문을... 있도록 AI 신약개발의 핵심 개념과 최신 기술 동향, 산업 활용 사례를 소개하는 입문 과정이다. 제약바이오...",
+          "src": "doctorstimes",
           "date": "07/23",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41110",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41110_61924_435_v150.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239186",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239186_109218_558_v150.jpg"
         }
       ]
     },
@@ -166,7 +166,15 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "달라진 삼성전자 갤럭시 폴드8 마케팅?",
+          "title": "[갤럭시 언팩 2026] 폴더블 '선택의 시대' 선언… 노태문, AI 전략 가속",
+          "desc": "반도체 가격 상승과 부품 수급 부담에는 장기간 구축한 공급망과 전략적 파트너십으로 대응한다. 삼성전자... 노 사장은 \"원가 상승분을 소비자 가격에 모두 전가하기보다 공급망과 협력사들과 함께 비용 부담을...",
+          "src": "biztribune",
+          "date": "07/23",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356354",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202607/356354_261281_3739_v150.jpg"
+        },
+        {
+          "title": "'공식 출시 전 제이홉의 폴드8'...달라진 삼성전자 갤럭시 마케팅?",
           "desc": "삼성전자는 23일(현지시간) 영국 런던에서 '갤럭시 언팩 2026'을 열고 폴더블폰 갤럭시Z 시리즈 8세대... 사내 직원들은 물론 부품사, 이동통신사 등 유통사, 케이스 제조사 등 외부 협력사들에게 신제품 관련 정보를...",
           "src": "fntimes",
           "date": "07/23",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/23",
           "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607230947101780190",
           "img": "https://image.dnews.co.kr/photo/photo/2026/07/23/202607230947101780190-2-679481.jpg"
-        },
-        {
-          "title": "노태문 \"한국 소비자가 키운 갤럭시…가격으로 보답\"…미국보다 최대 5...",
-          "desc": "메모리값 올라가도…\"100% 소비자 전가 안 해\" 최근 메모리와 주요 부품 가격이 오르면서 스마트폰 제조 원가 부담도 커지고 있다. 삼성전자는 공급망 최적화와 협력사 공동 개발을 통해 가격 상승 영향을 최대한...",
-          "src": "아이뉴스24",
-          "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/031/0001044182?sid=105",
-          "img": "https://image.inews24.com/v1/e1ec063478307a.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
-      "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
-      "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
+      "title": "구글 선언에 웃는 삼성전자… 메모리 공급으로 최대 수혜",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=754246",
+      "img": "https://cdn.mhns.co.kr/news/thumbnail/202607/754246_887513_1459_v150.jpg"
     },
     {
-      "title": "삼성전자, 냉장고·건조기 美 1위 싹쓸이…구글 AI 투자 수혜 기대감도...",
-      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264877",
-      "img": "http://www.whitepaper.co.kr/news/thumbnail/202607/264877_197985_536_v150.jpg"
+      "title": "삼성전자, 미국 JD 파워 생활가전 만족도 6개 부문 1위",
+      "url": "https://www.todayeconomic.com/news/article.html?no=31419",
+      "img": "https://www.todayeconomic.com/data/photos/20260730/art_17847886650521_e55a4e.jpg"
     },
     {
       "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "헤지스, 글로벌 바이어 명동 ‘스페이스H’에 꽂혔다! AI기반 디지털 시...",
-      "url": "http://www.fashionn.com/board/read_new.php?table=1006&number=61805",
-      "img": "https://www.fashionn.com/files/board/2026/image/o_1ju6i472tbjo16mt157eqkgirbb.jpg"
+      "title": "앤트로픽, AMD와 AI 인프라 '동맹'…7조원 투자 유치",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431661?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/01/06/8c0e0b4f24fa0d5824e3394edb25d836.jpg"
     },
     {
-      "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
-      "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
-      "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
+      "title": "[의료기기업계 소식] 7월 23일",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239187",
+      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239187_109236_3036_v150.jpg"
     },
     {
-      "title": "이재영, 군의회 첫 군정보고서 '생활밀착형 스마트도시' 도약 선언",
-      "url": "https://n.news.naver.com/mnews/article/421/0009075110?sid=102",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/23/8022108/high.jpg"
+      "title": "취임 1년 넘긴 김인중 농어촌공사 사장, ‘AI·청년농·재해예방’ 키웠...",
+      "url": "https://sateconomy.co.kr/news/view/1065597602821899",
+      "img": "http://sateconomy.co.kr/news/data/20260723/p1065597602821899_566_thum.PNG"
     }
   ]
 };
