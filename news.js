@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 20:05",
+  "updatedAt": "2026.07.24 (금) 00:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-23",
+    "asOf": "2026-07-24",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "90.14",
-        "diff": "+3.31",
-        "rate": "+3.81%",
+        "value": "91.97",
+        "diff": "+5.14",
+        "rate": "+5.92%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,469.60",
-        "diff": "-9.40",
-        "rate": "-0.64%",
+        "value": "1,472.80",
+        "diff": "-6.20",
+        "rate": "-0.42%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "899.53",
-        "diff": "-7.05",
-        "rate": "-0.78%",
+        "value": "898.76",
+        "diff": "-7.82",
+        "rate": "-0.86%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.23",
-        "diff": "-0.06",
-        "rate": "-0.72%",
+        "value": "8.25",
+        "diff": "-0.04",
+        "rate": "-0.48%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.60",
-        "diff": "-0.03",
-        "rate": "-0.53%",
+        "value": "5.61",
+        "diff": "-0.02",
+        "rate": "-0.36%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.22",
-        "diff": "-0.10",
-        "rate": "-0.65%",
+        "value": "15.25",
+        "diff": "-0.07",
+        "rate": "-0.46%",
         "dir": "down"
       }
     ]
@@ -86,28 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "수출·내수 절반씩 쌍끌이… 2026년 성장률 3% 달성 청신호 [뉴스 투데이...",
-          "desc": "한은은 삼성전자 상품권 환급 행사로 인해 가전 부문에서만 최소 3조원대 소비가 이뤄진 것으로 파악했다. 2분기 성장률은 기저효과를 감안할 때 특히 강세로 평가된다. 앞서 1분기 실질 GDP는 전 분기 대비 1.8...",
-          "src": "segye",
-          "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/022/0004145398?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/23/20260723522350.jpg"
+          "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
+          "desc": "삼성전자의 상품권 환급 행사로 가전으로만 최소 3조원대 소비가 이뤄졌고, 증시 호황으로 백화점·의류·가방 등 소비가 늘어난 점도 한몫을 했다. 이대로라면 3·4분기 성장률이 평균 -0.1% 이상으로만 나와도, 올해 3...",
+          "src": "중앙일보",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/025/0003539791?sid=101",
+          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
         },
         {
-          "title": "[Who Is ?] 구본학 쿠쿠홈시스 대표이사 사장",
-          "desc": "쿠쿠홈시스의 실적 그래프 <비즈니스포스트> △스마트 홈 플랫폼 시장 참전 쿠쿠가 삼성전자와 LG전자가... 쿠쿠홈시스는 2025년 5월 로봇청소기 최초로 보안 인증을 받았다. 인공지능(AI) 성능을 탑재한 로봇청소기...",
-          "src": "비즈니스포스트",
+          "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
+          "desc": "-편집자 말 ◇ 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연내 출시 삼성전자, 인텔리전트... 대표적인 제품으로는 비쎌의 습식 청소기 '스팟클린 하이드로스팀 프로'가 꼽힌다. 95℃ 고온 스팀과 분사·세척...",
+          "src": "ibabynews",
           "date": "07/23",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442066",
-          "img": ""
-        },
-        {
-          "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
-          "desc": "이와 함께 음식물쓰레기 건조기 제작 및 지자체 위탁관리 등의 환경사업과 F&B, 식자재 사업 등을... 현재는 Actuator(OIS), 광학디바이스, 메타모빌리티 등을 주요 사업으로 영위하고 있으며, 삼성전자·삼성전기·소니...",
-          "src": "ggilbo",
-          "date": "07/23",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
-          "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153130",
+          "img": "https://www.ibabynews.com/news/photo/202607/153130_118141_5342.jpg"
         },
         {
           "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -116,6 +108,14 @@ window.NEWS_DATA = {
           "date": "07/23",
           "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374",
           "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
+        },
+        {
+          "title": "새 '폴드' 나왔지만…'칩플레이션'에 가격 '껑충'",
+          "desc": "삼성전자가 여권 크기의 새로운 폴더블폰을 전격 공개하며 글로벌 시장에 승부수를 띄웠습니다. 다만... 급등이 전자기기 가격을 끌어올리는 이른바 '칩플레이션'이 본격화한 겁니다. [김대현/대학생 : 웬만한 냉장고나...",
+          "src": "news",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/055/0001374954?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260723/202205130_1280.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "獨 정부, 방산 스타트업 지분 직접 취득키로… 국책은행 통해 민간과 공...",
-          "desc": "방식까지 도입하겠다는 것이다. 이를 통해 방산 기술 스타트업의 자금 조달을 돕고 해외 자본으로의... 우크라이나 전쟁 이후 유럽 각국이 국방비를 대폭 늘리면서 드론과 인공지능(AI), 자율주행, 위성, 양자기술 등...",
-          "src": "뉴스핌",
-          "date": "07/23",
-          "url": "https://www.newspim.com/news/view/20260723001288",
-          "img": "https://img.newspim.com/news/2026/07/23/2607231957020260_t1.jpg"
+          "title": "달항아리의 영감…한국 쪽빛에도 물든 K패션",
+          "desc": "인공지능(AI) 활용도 돋보였다. 헤지스는 수주 방식에 AI 기술을 도입해 해외 바이어의 이용 편의성을 높였다. 바이어들이 AI로 만들어진 디지털 룩북에서 스타일링을 구현한 뒤, 별도의 문서 작업 없이 곧바로 주문할 수...",
+          "src": "중앙일보",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/025/0003539783?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/24/d466e641-80c1-4eee-861e-3aafa65cf308.jpg"
         },
         {
-          "title": "'300억 이하 철도현장' 스마트 안전장비 넓힌다",
-          "desc": "안전장비 도입까지 현장 맞춤형 지원을 바탕으로 모두가 안심하고 일할 수 있는 환경을 조성해 나가겠다\"고 말했다. 한편 스마트 안전기술은 IoT(사물인터넷), AI(인공지능), 무선통신 등의 첨단 기술을 활용해 산업...",
-          "src": "bzeronews",
+          "title": "롯데백화점 \"파트너사 지원도 'AI'가 대세\"",
+          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점 및 상담 절차를 간소화한 AI 서비스다. 우수한 경쟁력을 갖춘... 롯데백화점은 이 같은 지능형 프로세스의 도입으로 제안서의 표준화 및 정교한 부서 매칭이 가능해져 상담...",
+          "src": "shinailbo",
           "date": "07/23",
-          "url": "https://www.bzeronews.com/news/articleView.html?idxno=820436",
-          "img": "https://cdn.bzeronews.com/news/photo/202607/820436_2029580_561.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044036",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044036_2042482_5525.jpg"
         },
         {
-          "title": "영국 토큰화 국채 실험…성패는 온체인 결제에 달렸다",
-          "desc": "현재 영국의 결제 완결성 관련 법은 분산원장 기술을 충분히 반영하지 못하고 있어, 참여 기관이 파산할... 스테이블코인 도입 여부에 달려 있다. 2차 시장(레포·담보 활용) 기능이 핵심 가치이므로, 단순 발행보다 거래...",
+          "title": "RWA 토큰화, 실험 넘어 실사용으로…다음 과제는 인프라 구축",
+          "desc": "기사요약 by TokenPost.ai 시장 해석 토큰화된 실물자산(RWA)은 실험 단계를 넘어 실제 금융 시스템에서 활용되는 단계로 진입했다. 자산운용사들의 관심도 ‘도입 여부’에서 ‘구체적 활용 방식’으로 이동했으며, 시장...",
           "src": "tokenpost",
           "date": "07/23",
-          "url": "https://www.tokenpost.kr/news/blockchain/380476",
-          "img": "https://f1.tokenpost.kr/2026/07/lk5mqkmfkk.webp"
+          "url": "https://www.tokenpost.kr/news/blockchain/380609",
+          "img": "https://f1.tokenpost.kr/2026/07/wbaq7n2379.webp"
         },
         {
-          "title": "섬유개발연구원 대구 패션기업에 '생성형 AI' 장착 돕는다",
-          "desc": "AI 기술을 밀착 지원하는 '패션 AI 솔루션 활용 지원사업' 추진에 본격 착수했다. 이 사업은 한정된... 마지막으로 스튜디오 랩사의 '젠시(Gency)'를 도입해 온라인 판매의 필수품인 상품 상세 페이지와 홍보 콘텐츠를...",
-          "src": "hidomin",
+          "title": "히포홀딩스, 클로드 도입 30일 만에 직원 90% 이상 매주 사용",
+          "desc": "전사 확산 배경…엔지니어링 넘어 모든 팀으로히포의 이번 조치는 그동안 특정 부서에 국한됐던 AI 활용... 걸쳐 AI 도구를 배포했다는 점이 특징이다. 회사 측은 이번 결과가 기술 도입 자체보다 직원 교육과 조직...",
+          "src": "wikitree",
           "date": "07/23",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=714533",
-          "img": "https://cdn.hidomin.com/news/photo/202607/714533_416259_5226.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1148147",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/23/202607232335556861_ai.jpeg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "수출·내수 절반씩 쌍끌이… 2026년 성장률 3% 달성 청신호 [뉴스 투데이...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145398?sid=101",
-      "img": "https://www.segye.com/content/image/2026/07/23/20260723522350.jpg"
+      "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
+      "url": "https://n.news.naver.com/mnews/article/025/0003539791?sid=101",
+      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
     },
     {
-      "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
-      "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
+      "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153130",
+      "img": "https://www.ibabynews.com/news/photo/202607/153130_118141_5342.jpg"
     },
     {
       "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "獨 정부, 방산 스타트업 지분 직접 취득키로… 국책은행 통해 민간과 공...",
-      "url": "https://www.newspim.com/news/view/20260723001288",
-      "img": "https://img.newspim.com/news/2026/07/23/2607231957020260_t1.jpg"
+      "title": "새 '폴드' 나왔지만…'칩플레이션'에 가격 '껑충'",
+      "url": "https://n.news.naver.com/mnews/article/055/0001374954?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260723/202205130_1280.jpg"
     },
     {
-      "title": "'300억 이하 철도현장' 스마트 안전장비 넓힌다",
-      "url": "https://www.bzeronews.com/news/articleView.html?idxno=820436",
-      "img": "https://cdn.bzeronews.com/news/photo/202607/820436_2029580_561.jpg"
+      "title": "달항아리의 영감…한국 쪽빛에도 물든 K패션",
+      "url": "https://n.news.naver.com/mnews/article/025/0003539783?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/24/d466e641-80c1-4eee-861e-3aafa65cf308.jpg"
     },
     {
-      "title": "영국 토큰화 국채 실험…성패는 온체인 결제에 달렸다",
-      "url": "https://www.tokenpost.kr/news/blockchain/380476",
-      "img": "https://f1.tokenpost.kr/2026/07/lk5mqkmfkk.webp"
+      "title": "롯데백화점 \"파트너사 지원도 'AI'가 대세\"",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044036",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044036_2042482_5525.jpg"
     }
   ]
 };
