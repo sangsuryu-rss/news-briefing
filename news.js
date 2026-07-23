@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 00:04",
+  "updatedAt": "2026.07.24 (금) 03:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "91.97",
-        "diff": "+5.14",
-        "rate": "+5.92%",
+        "value": "93.17",
+        "diff": "+6.34",
+        "rate": "+7.30%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,472.80",
-        "diff": "-6.20",
-        "rate": "-0.42%",
+        "value": "1,476.60",
+        "diff": "-2.40",
+        "rate": "-0.16%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "898.76",
-        "diff": "-7.82",
-        "rate": "-0.86%",
+        "value": "901.33",
+        "diff": "-5.25",
+        "rate": "-0.58%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.25",
-        "diff": "-0.04",
-        "rate": "-0.48%",
+        "value": "8.27",
+        "diff": "-0.02",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.61",
-        "diff": "-0.02",
-        "rate": "-0.36%",
+        "value": "5.62",
+        "diff": "-0.01",
+        "rate": "-0.18%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.25",
-        "diff": "-0.07",
-        "rate": "-0.46%",
+        "value": "15.29",
+        "diff": "-0.03",
+        "rate": "-0.20%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
-          "desc": "삼성전자의 상품권 환급 행사로 가전으로만 최소 3조원대 소비가 이뤄졌고, 증시 호황으로 백화점·의류·가방 등 소비가 늘어난 점도 한몫을 했다. 이대로라면 3·4분기 성장률이 평균 -0.1% 이상으로만 나와도, 올해 3...",
-          "src": "중앙일보",
+          "title": "노태문 “폴더블 7년 경험, 하루아침 못 따라와” 애플에 자신감",
+          "desc": "더 많은 기업들이 들어올 것이고 우리는 환영한다.” 노태문 삼성전자 디바이스경험(DX)부문장 사장은 22일... TV, 가전까지 삼성만큼 사용자 일상 곳곳에 함께하며 잘 이해하는 회사는 없고, 앞으로의 AI 경쟁력은 여기서...",
+          "src": "동아일보",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/025/0003539791?sid=101",
-          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+          "url": "https://n.news.naver.com/mnews/article/020/0003736135?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134353681.4.jpg"
         },
         {
           "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "달항아리의 영감…한국 쪽빛에도 물든 K패션",
-          "desc": "인공지능(AI) 활용도 돋보였다. 헤지스는 수주 방식에 AI 기술을 도입해 해외 바이어의 이용 편의성을 높였다. 바이어들이 AI로 만들어진 디지털 룩북에서 스타일링을 구현한 뒤, 별도의 문서 작업 없이 곧바로 주문할 수...",
-          "src": "중앙일보",
+          "title": "AI시대, 인간다움 지킬 원천 인문학에 있다",
+          "desc": "과학기술 만능주의 속에서 인문학적 성찰이 왜 절실한지를 역설한다. 책의 도입부에서는 인문학의 역사적 기원과 학문적 정의를 내리며 다소 긴 호흡으로 페이지를 넘기게 하고 후반부에서는 인공지능(AI) 시대를...",
+          "src": "kmib",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/025/0003539783?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/24/d466e641-80c1-4eee-861e-3aafa65cf308.jpg"
+          "url": "https://n.news.naver.com/mnews/article/005/0001862858?sid=103",
+          "img": "https://image.kmib.co.kr/online_image/2026/0724/2026072320510533559_1784807465_1784777979.jpg"
         },
         {
-          "title": "롯데백화점 \"파트너사 지원도 'AI'가 대세\"",
-          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점 및 상담 절차를 간소화한 AI 서비스다. 우수한 경쟁력을 갖춘... 롯데백화점은 이 같은 지능형 프로세스의 도입으로 제안서의 표준화 및 정교한 부서 매칭이 가능해져 상담...",
-          "src": "shinailbo",
-          "date": "07/23",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044036",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044036_2042482_5525.jpg"
-        },
-        {
-          "title": "RWA 토큰화, 실험 넘어 실사용으로…다음 과제는 인프라 구축",
-          "desc": "기사요약 by TokenPost.ai 시장 해석 토큰화된 실물자산(RWA)은 실험 단계를 넘어 실제 금융 시스템에서 활용되는 단계로 진입했다. 자산운용사들의 관심도 ‘도입 여부’에서 ‘구체적 활용 방식’으로 이동했으며, 시장...",
+          "title": "코인베이스, AI 에이전트 결제·거래 동시 확대…인프라 선점 나섰다",
+          "desc": "코인베이스는 AI 에이전트가 수행하는 거래를 실시간으로 확인할 수 있는 ‘라이브 오더 리스트’를 도입... x402 프로토콜은 웹과 API 환경에서 자동 결제를 표준화해주는 기술로, AI와 서비스가 별도 인증 과정 없이...",
           "src": "tokenpost",
-          "date": "07/23",
-          "url": "https://www.tokenpost.kr/news/blockchain/380609",
-          "img": "https://f1.tokenpost.kr/2026/07/wbaq7n2379.webp"
+          "date": "07/24",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/380658",
+          "img": "https://f1.tokenpost.kr/2026/07/d5f7mnm6in.webp"
         },
         {
-          "title": "히포홀딩스, 클로드 도입 30일 만에 직원 90% 이상 매주 사용",
-          "desc": "전사 확산 배경…엔지니어링 넘어 모든 팀으로히포의 이번 조치는 그동안 특정 부서에 국한됐던 AI 활용... 걸쳐 AI 도구를 배포했다는 점이 특징이다. 회사 측은 이번 결과가 기술 도입 자체보다 직원 교육과 조직...",
-          "src": "wikitree",
-          "date": "07/23",
-          "url": "https://www.wikitree.co.kr/articles/1148147",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/23/202607232335556861_ai.jpeg"
+          "title": "\"해양산업 AI 격차 줄인다\" 한국해양진흥공사, 중소선사 맞춤형 AI 컨설...",
+          "desc": "이번 제2차 협의회는 특히 중소선사 실무진의 참여 폭을 대폭 확대해 최신 AI 기술 동향과 실제 현장 활용... 상시적으로 AI를 도입하고 활용할 수 있도록 돕는 전용 온라인 사이트 역시 체계적으로 운영하고 있다....",
+          "src": "cstimes",
+          "date": "07/24",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=714478",
+          "img": "https://www.cstimes.com/news/photo/202607/714478_634658_3346.jpg"
+        },
+        {
+          "title": "\"기상캐스터도 AI가?\"…온라인 발칵 뒤집은 날씨 영상의 정체",
+          "desc": "최근 생성형 AI 기술이 발전하면서 가상 인물과 실제 인물을 구분하기 어려워지고 있다는 점을 보여주는... 기상캐스터를 활용한 사례가 있다. 여수MBC는 2021년 방송사 최초로 AI 기상캐스터와 라디오 뉴스 앵커를 도입했...",
+          "src": "뉴시스",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/003/0014085160?sid=102",
+          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194182_web.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "2분기 한국경제, 고유가에도 0.6% 성장…금리 추가인상 전망",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539791?sid=101",
-      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+      "title": "노태문 “폴더블 7년 경험, 하루아침 못 따라와” 애플에 자신감",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736135?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134353681.4.jpg"
     },
     {
       "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.sbs.co.kr/newimg/news/20260723/202205130_1280.jpg"
     },
     {
-      "title": "달항아리의 영감…한국 쪽빛에도 물든 K패션",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539783?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/24/d466e641-80c1-4eee-861e-3aafa65cf308.jpg"
+      "title": "AI시대, 인간다움 지킬 원천 인문학에 있다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862858?sid=103",
+      "img": "https://image.kmib.co.kr/online_image/2026/0724/2026072320510533559_1784807465_1784777979.jpg"
     },
     {
-      "title": "롯데백화점 \"파트너사 지원도 'AI'가 대세\"",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044036",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044036_2042482_5525.jpg"
+      "title": "코인베이스, AI 에이전트 결제·거래 동시 확대…인프라 선점 나섰다",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/380658",
+      "img": "https://f1.tokenpost.kr/2026/07/d5f7mnm6in.webp"
     }
   ]
 };
