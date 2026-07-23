@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 07:00",
+  "updatedAt": "2026.07.24 (금) 07:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,10 +31,10 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "92.19",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "92.43",
+        "diff": "+0.24",
+        "rate": "+0.26%",
+        "dir": "up"
       },
       {
         "label": "달러",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
-          "desc": "삼성전자가 새롭게 출시한 폴더블 폰의 최고 용량 모델 가격이 처음으로 300만 원을 돌파했습니다. 최근... [김대현/대학생 : 웬만한 냉장고나 그런 가전보다 훨씬 비싸다 보니까 체감되는 게 크긴 하죠. 당장 사용하는데...",
-          "src": "news",
+          "title": "“한국 증시 전체가 만신창이… 실적 멀쩡한데 주가 많이 떨어진 기업들...",
+          "desc": "삼성전자, SK하이닉스 등 메모리 반도체 고점론이 절대적인 영향을 미쳤다. 넉 달 전 미국-이란 전쟁으로... 휴대전화, 가전, 개인용 컴퓨터(PC) 등 소비경기와 밀접하게 연결돼 있었기 때문이다. 이익 증가율이 꺾인 뒤...",
+          "src": "동아일보",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
+          "url": "https://n.news.naver.com/mnews/article/037/0000038557?sid=101",
+          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/61/ad/38/6a61ad381255a0a0a0a.jpg"
         },
         {
           "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
         },
         {
-          "title": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
-          "desc": "삼성전자의 온누리 상품권 환급 행사 등으로 가전에서만 최소 3조 원대 소비가 이뤄진 것으로 파악됩니다. 한은 관계자는 \"삼성전자 온누리 상품권이 속초 중앙시장까지 쓰이는 것으로 알고 있다\"며 반도체 열기가 민간...",
+          "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
+          "desc": "삼성전자가 새롭게 출시한 폴더블 폰의 최고 용량 모델 가격이 처음으로 300만 원을 돌파했습니다. 최근... 전자기기 가격을 끌어올리는 이른바 '칩플레이션'이 본격화한 것입니다. [김대현/대학생 : 웬만한 냉장고나 그런...",
           "src": "news",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/055/0001375009?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205203_1280.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[더벨][HD현대 AI 시프트] AI '컨트롤타워' 대표직속으로, AIX추진실 힘실...",
+          "desc": "단순히 AI 기술을 도입하기 위해서가 아니다. 조선업은 대표적인 노동집약 산업이다. 선박 한 척을... 진행되던 AI 사업을 통합적으로 운영할 수 있게 됐다. 출범 초기에는 AI센터와 DX센터를 중심으로 생성형 AI 활용과...",
+          "src": "더벨",
+          "date": "07/24",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221446094440101779",
+          "img": ""
+        },
+        {
+          "title": "\"연구에만 몰두해요\"…임상의 반복 업무 돕는 AI",
+          "desc": "AMIST를 개발한 연구팀은 최근 열린 과학기술정보통신부가 주최하고 한국연구재단이 주관한 ‘2026 AI Co... 연구팀은 골관절염·요통 등 근골격계 질환 데이터를 활용해 의료 AI 플랫폼의 실제 임상 적용 가능성을...",
+          "src": "뉴시스",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/003/0014085273?sid=102",
+          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194181_web.jpg"
+        },
+        {
           "title": "[AI정책노트]정부, ‘에이전틱 AI’ 생태계 선점 속도…안전·실행·확산...",
           "desc": "법령정보 활용성을 높인다는 계획입니다. 이번 회의 안건들은 에이전틱 AI를 단순 기술 과제가 아니라 생태계 과제로 다룬다는 점에서 맞물려 있습니다. 이니셔티브는 안전·실행·도입 전략을 제시하고, GPU...",
           "src": "디지털데일리",
           "date": "07/24",
           "url": "https://n.news.naver.com/mnews/article/138/0002235258?sid=105",
-          "img": ""
+          "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072317030023168_l.jpg"
         },
         {
-          "title": "롯데백화점, AI 에이전트 'AI 비즈센터' 도입…협력사 입점 절차 간소화",
-          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점 및 상담 절차를 간소화한 서비스다. 신생 브랜드들이 입점과... 롯데백화점은 이번 AI 비즈센터 도입으로 고객 경험(CX), 사내 업무(BI)에 이어 파트너사 지원 영역까지 AI 활용...",
-          "src": "thepublic",
+          "title": "[中 하드테크 IPO 빅뱅] ⑦'즈푸AI'. 3대 성장축 승부수의 기회∙한계",
+          "desc": "AI 도입 사업에서 최우선 공급업체로 꼽힌다. 이에 즈푸AI의 핵심 과제는 중국산 AI 대체 정책의 수혜와 정부·기업 고객 기반의 높은 신뢰를 활용해 B2B 시장의 입지를 더욱 공고히 하고, 기술 경쟁력을 기업용...",
+          "src": "뉴스핌",
           "date": "07/24",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312336",
-          "img": "https://cdn.thepublic.kr/news/photo/202607/312336_315280_4146.jpg"
-        },
-        {
-          "title": "[공기업레이더] '2320억 달러' 굴리는 KIC, 전략투자계정 신설 앞두고 운...",
-          "desc": "운용체계 도입을 본격화한 점을 주요 성과로 평하기도 했다. 이 위원회는 한국투자공사법에 따라... 네트워크를 활용해 종합형 국부펀드로 확대하는 방식이다. 투자 대상은 반도체와 AI 데이터센터, 피지컬 AI 등...",
-          "src": "weekly",
-          "date": "07/24",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175705",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7175705_241006_2930_v150.jpg"
-        },
-        {
-          "title": "노동의 비결정성과 플랫폼 경제",
-          "desc": "곧바로 활용할 수 있도록 노동자를 붙들어 둘 방안을 모색하고자 한다. 새로운 기술의 등장은 때마다 이러한... 노동력 활용의 이면에 자리한 극도의 유연성과 불확정성을 억제하기 위해 하청 모델을 도입하는 모습 역시...",
-          "src": "labortoday",
-          "date": "07/24",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235880",
-          "img": "https://cdn.labortoday.co.kr/news/thumbnail/202607/235880_113959_3321_v150.jpg"
+          "url": "https://www.newspim.com/news/view/20260723001009",
+          "img": "https://img.newspim.com/news/2026/07/23/2607230325468831_639_tc.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
+      "title": "“한국 증시 전체가 만신창이… 실적 멀쩡한데 주가 많이 떨어진 기업들...",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038557?sid=101",
+      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/61/ad/38/6a61ad381255a0a0a0a.jpg"
     },
     {
       "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375009?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205203_1280.jpg"
+      "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
     },
     {
-      "title": "롯데백화점, AI 에이전트 'AI 비즈센터' 도입…협력사 입점 절차 간소화",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=312336",
-      "img": "https://cdn.thepublic.kr/news/photo/202607/312336_315280_4146.jpg"
+      "title": "\"연구에만 몰두해요\"…임상의 반복 업무 돕는 AI",
+      "url": "https://n.news.naver.com/mnews/article/003/0014085273?sid=102",
+      "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194181_web.jpg"
     },
     {
-      "title": "[공기업레이더] '2320억 달러' 굴리는 KIC, 전략투자계정 신설 앞두고 운...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175705",
-      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7175705_241006_2930_v150.jpg"
+      "title": "[AI정책노트]정부, ‘에이전틱 AI’ 생태계 선점 속도…안전·실행·확산...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235258?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072317030023168_l.jpg"
     }
   ]
 };
