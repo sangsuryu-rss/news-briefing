@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 03:08",
+  "updatedAt": "2026.07.24 (금) 07:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "93.17",
-        "diff": "+6.34",
-        "rate": "+7.30%",
-        "dir": "up"
+        "value": "92.19",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,476.60",
-        "diff": "-2.40",
-        "rate": "-0.16%",
+        "value": "1,476.50",
+        "diff": "-2.50",
+        "rate": "-0.17%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "901.33",
-        "diff": "-5.25",
-        "rate": "-0.58%",
+        "value": "901.38",
+        "diff": "-5.20",
+        "rate": "-0.57%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "노태문 “폴더블 7년 경험, 하루아침 못 따라와” 애플에 자신감",
-          "desc": "더 많은 기업들이 들어올 것이고 우리는 환영한다.” 노태문 삼성전자 디바이스경험(DX)부문장 사장은 22일... TV, 가전까지 삼성만큼 사용자 일상 곳곳에 함께하며 잘 이해하는 회사는 없고, 앞으로의 AI 경쟁력은 여기서...",
-          "src": "동아일보",
+          "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
+          "desc": "삼성전자가 새롭게 출시한 폴더블 폰의 최고 용량 모델 가격이 처음으로 300만 원을 돌파했습니다. 최근... [김대현/대학생 : 웬만한 냉장고나 그런 가전보다 훨씬 비싸다 보니까 체감되는 게 크긴 하죠. 당장 사용하는데...",
+          "src": "news",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/020/0003736135?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134353681.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
         },
         {
           "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
         },
         {
-          "title": "새 '폴드' 나왔지만…'칩플레이션'에 가격 '껑충'",
-          "desc": "삼성전자가 여권 크기의 새로운 폴더블폰을 전격 공개하며 글로벌 시장에 승부수를 띄웠습니다. 다만... 급등이 전자기기 가격을 끌어올리는 이른바 '칩플레이션'이 본격화한 겁니다. [김대현/대학생 : 웬만한 냉장고나...",
+          "title": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
+          "desc": "삼성전자의 온누리 상품권 환급 행사 등으로 가전에서만 최소 3조 원대 소비가 이뤄진 것으로 파악됩니다. 한은 관계자는 \"삼성전자 온누리 상품권이 속초 중앙시장까지 쓰이는 것으로 알고 있다\"며 반도체 열기가 민간...",
           "src": "news",
-          "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/055/0001374954?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260723/202205130_1280.jpg"
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/055/0001375009?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205203_1280.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI시대, 인간다움 지킬 원천 인문학에 있다",
-          "desc": "과학기술 만능주의 속에서 인문학적 성찰이 왜 절실한지를 역설한다. 책의 도입부에서는 인문학의 역사적 기원과 학문적 정의를 내리며 다소 긴 호흡으로 페이지를 넘기게 하고 후반부에서는 인공지능(AI) 시대를...",
-          "src": "kmib",
+          "title": "[AI정책노트]정부, ‘에이전틱 AI’ 생태계 선점 속도…안전·실행·확산...",
+          "desc": "법령정보 활용성을 높인다는 계획입니다. 이번 회의 안건들은 에이전틱 AI를 단순 기술 과제가 아니라 생태계 과제로 다룬다는 점에서 맞물려 있습니다. 이니셔티브는 안전·실행·도입 전략을 제시하고, GPU...",
+          "src": "디지털데일리",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/005/0001862858?sid=103",
-          "img": "https://image.kmib.co.kr/online_image/2026/0724/2026072320510533559_1784807465_1784777979.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002235258?sid=105",
+          "img": ""
         },
         {
-          "title": "코인베이스, AI 에이전트 결제·거래 동시 확대…인프라 선점 나섰다",
-          "desc": "코인베이스는 AI 에이전트가 수행하는 거래를 실시간으로 확인할 수 있는 ‘라이브 오더 리스트’를 도입... x402 프로토콜은 웹과 API 환경에서 자동 결제를 표준화해주는 기술로, AI와 서비스가 별도 인증 과정 없이...",
-          "src": "tokenpost",
+          "title": "롯데백화점, AI 에이전트 'AI 비즈센터' 도입…협력사 입점 절차 간소화",
+          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점 및 상담 절차를 간소화한 서비스다. 신생 브랜드들이 입점과... 롯데백화점은 이번 AI 비즈센터 도입으로 고객 경험(CX), 사내 업무(BI)에 이어 파트너사 지원 영역까지 AI 활용...",
+          "src": "thepublic",
           "date": "07/24",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/380658",
-          "img": "https://f1.tokenpost.kr/2026/07/d5f7mnm6in.webp"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312336",
+          "img": "https://cdn.thepublic.kr/news/photo/202607/312336_315280_4146.jpg"
         },
         {
-          "title": "\"해양산업 AI 격차 줄인다\" 한국해양진흥공사, 중소선사 맞춤형 AI 컨설...",
-          "desc": "이번 제2차 협의회는 특히 중소선사 실무진의 참여 폭을 대폭 확대해 최신 AI 기술 동향과 실제 현장 활용... 상시적으로 AI를 도입하고 활용할 수 있도록 돕는 전용 온라인 사이트 역시 체계적으로 운영하고 있다....",
-          "src": "cstimes",
+          "title": "[공기업레이더] '2320억 달러' 굴리는 KIC, 전략투자계정 신설 앞두고 운...",
+          "desc": "운용체계 도입을 본격화한 점을 주요 성과로 평하기도 했다. 이 위원회는 한국투자공사법에 따라... 네트워크를 활용해 종합형 국부펀드로 확대하는 방식이다. 투자 대상은 반도체와 AI 데이터센터, 피지컬 AI 등...",
+          "src": "weekly",
           "date": "07/24",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=714478",
-          "img": "https://www.cstimes.com/news/photo/202607/714478_634658_3346.jpg"
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175705",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7175705_241006_2930_v150.jpg"
         },
         {
-          "title": "\"기상캐스터도 AI가?\"…온라인 발칵 뒤집은 날씨 영상의 정체",
-          "desc": "최근 생성형 AI 기술이 발전하면서 가상 인물과 실제 인물을 구분하기 어려워지고 있다는 점을 보여주는... 기상캐스터를 활용한 사례가 있다. 여수MBC는 2021년 방송사 최초로 AI 기상캐스터와 라디오 뉴스 앵커를 도입했...",
-          "src": "뉴시스",
+          "title": "노동의 비결정성과 플랫폼 경제",
+          "desc": "곧바로 활용할 수 있도록 노동자를 붙들어 둘 방안을 모색하고자 한다. 새로운 기술의 등장은 때마다 이러한... 노동력 활용의 이면에 자리한 극도의 유연성과 불확정성을 억제하기 위해 하청 모델을 도입하는 모습 역시...",
+          "src": "labortoday",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/003/0014085160?sid=102",
-          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194182_web.jpg"
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235880",
+          "img": "https://cdn.labortoday.co.kr/news/thumbnail/202607/235880_113959_3321_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "테슬라, 프리몬트 공장 옵티머스 1세대 라인 구축... 삼성 24조원 반도체...",
+          "desc": "소재·부품·장비 종목 투자자들에게 기회와 리스크를 동시에 제시하고 있다. 자동차 생산 라인을 축소하고 로봇에 역량을 쏟는 전략이 단기적인 주가 밸류에이션 변동성을 키우고 있으나, 삼성전자 파운드리를 축으로...",
+          "src": "g-enews",
+          "date": "07/24",
+          "url": "https://www.g-enews.com/view.php?ud=2026072320161219262bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260723201817025622bd56fbc3c21121419978.jpg"
+        },
         {
           "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
           "desc": "현재는 Actuator(OIS), 광학디바이스, 메타모빌리티 등을 주요 사업으로 영위하고 있으며, 삼성전자... 휴림에이텍은 지난 1993년 설립된 현대자동차 및 기아자동차의 1차 협력사로 자동차 내·외장재를 개발, 생산하는...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/23",
           "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005885835",
           "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/07/23/20260723162647_10_103_0_MM1005885835_4_116.jpg"
-        },
-        {
-          "title": "[갤럭시 언팩 2026] 폴더블 '선택의 시대' 선언… 노태문, AI 전략 가속",
-          "desc": "반도체 가격 상승과 부품 수급 부담에는 장기간 구축한 공급망과 전략적 파트너십으로 대응한다. 삼성전자... 노 사장은 \"원가 상승분을 소비자 가격에 모두 전가하기보다 공급망과 협력사들과 함께 비용 부담을...",
-          "src": "biztribune",
-          "date": "07/23",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356354",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202607/356354_261281_3739_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "노태문 “폴더블 7년 경험, 하루아침 못 따라와” 애플에 자신감",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736135?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134353681.4.jpg"
+      "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
     },
     {
       "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "새 '폴드' 나왔지만…'칩플레이션'에 가격 '껑충'",
-      "url": "https://n.news.naver.com/mnews/article/055/0001374954?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260723/202205130_1280.jpg"
+      "title": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375009?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205203_1280.jpg"
     },
     {
-      "title": "AI시대, 인간다움 지킬 원천 인문학에 있다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001862858?sid=103",
-      "img": "https://image.kmib.co.kr/online_image/2026/0724/2026072320510533559_1784807465_1784777979.jpg"
+      "title": "롯데백화점, AI 에이전트 'AI 비즈센터' 도입…협력사 입점 절차 간소화",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=312336",
+      "img": "https://cdn.thepublic.kr/news/photo/202607/312336_315280_4146.jpg"
     },
     {
-      "title": "코인베이스, AI 에이전트 결제·거래 동시 확대…인프라 선점 나섰다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/380658",
-      "img": "https://f1.tokenpost.kr/2026/07/d5f7mnm6in.webp"
+      "title": "[공기업레이더] '2320억 달러' 굴리는 KIC, 전략투자계정 신설 앞두고 운...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7175705",
+      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7175705_241006_2930_v150.jpg"
     }
   ]
 };
