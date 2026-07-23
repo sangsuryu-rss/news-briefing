@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 16:28",
+  "updatedAt": "2026.07.23 (목) 20:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,41 +31,41 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "89.42",
-        "diff": "+2.59",
-        "rate": "+2.98%",
+        "value": "90.14",
+        "diff": "+3.31",
+        "rate": "+3.81%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,469.30",
-        "diff": "-9.70",
-        "rate": "-0.66%",
+        "value": "1,469.60",
+        "diff": "-9.40",
+        "rate": "-0.64%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "900.50",
-        "diff": "-6.08",
-        "rate": "-0.67%",
+        "value": "899.53",
+        "diff": "-7.05",
+        "rate": "-0.78%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.20",
-        "diff": "-0.09",
-        "rate": "-1.09%",
+        "value": "8.23",
+        "diff": "-0.06",
+        "rate": "-0.72%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.58",
-        "diff": "-0.05",
-        "rate": "-0.89%",
+        "value": "5.60",
+        "diff": "-0.03",
+        "rate": "-0.53%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "구글 선언에 웃는 삼성전자… 메모리 공급으로 최대 수혜",
-          "desc": "모바일 등 소비자 가전 시장의 경기 변동에 흔들리지 않는 튼튼한 이익 구조를 구축했다는 평가다. KB증권은 삼성전자에 대해 투자의견 '매수'와 목표주가 60만 원을 유지했다. 사진=연합뉴스 (더쎈뉴스 / The CEN News)",
-          "src": "mhns",
+          "title": "수출·내수 절반씩 쌍끌이… 2026년 성장률 3% 달성 청신호 [뉴스 투데이...",
+          "desc": "한은은 삼성전자 상품권 환급 행사로 인해 가전 부문에서만 최소 3조원대 소비가 이뤄진 것으로 파악했다. 2분기 성장률은 기저효과를 감안할 때 특히 강세로 평가된다. 앞서 1분기 실질 GDP는 전 분기 대비 1.8...",
+          "src": "segye",
           "date": "07/23",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=754246",
-          "img": "https://cdn.mhns.co.kr/news/thumbnail/202607/754246_887513_1459_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004145398?sid=101",
+          "img": "https://www.segye.com/content/image/2026/07/23/20260723522350.jpg"
         },
         {
           "title": "[Who Is ?] 구본학 쿠쿠홈시스 대표이사 사장",
@@ -102,12 +102,12 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "삼성전자, 미국 JD 파워 생활가전 만족도 6개 부문 1위",
-          "desc": "냉장고 3종·건조기·전자레인지·식기세척기 석권…최다 수상 브랜드 선정 투데이e코노믹 = 유서진 기자 | 삼성전자가 미국 소비자를 대상으로 진행된 생활가전 만족도 조사에서 6개 제품 부문 1위를 차지하며 가장 많은...",
-          "src": "todayeconomic",
+          "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
+          "desc": "이와 함께 음식물쓰레기 건조기 제작 및 지자체 위탁관리 등의 환경사업과 F&B, 식자재 사업 등을... 현재는 Actuator(OIS), 광학디바이스, 메타모빌리티 등을 주요 사업으로 영위하고 있으며, 삼성전자·삼성전기·소니...",
+          "src": "ggilbo",
           "date": "07/23",
-          "url": "https://www.todayeconomic.com/news/article.html?no=31419",
-          "img": "https://www.todayeconomic.com/data/photos/20260730/art_17847886650521_e55a4e.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
         },
         {
           "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "앤트로픽, AMD와 AI 인프라 '동맹'…7조원 투자 유치",
-          "desc": "차세대 AI 가속기 '인스팅트 MI450'을 최대 2기가와트(GW) 규모로 도입한다. AMD는 구축 일정에 맞춰 최대 50억... 양사는 단순 칩 공급을 넘어 기술 협력도 확대한다. AMD는 앤트로픽의 AI 모델 '클로드'를 활용해 자사 칩과...",
-          "src": "ZDNet코리아",
+          "title": "獨 정부, 방산 스타트업 지분 직접 취득키로… 국책은행 통해 민간과 공...",
+          "desc": "방식까지 도입하겠다는 것이다. 이를 통해 방산 기술 스타트업의 자금 조달을 돕고 해외 자본으로의... 우크라이나 전쟁 이후 유럽 각국이 국방비를 대폭 늘리면서 드론과 인공지능(AI), 자율주행, 위성, 양자기술 등...",
+          "src": "뉴스핌",
           "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/092/0002431661?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/01/06/8c0e0b4f24fa0d5824e3394edb25d836.jpg"
+          "url": "https://www.newspim.com/news/view/20260723001288",
+          "img": "https://img.newspim.com/news/2026/07/23/2607231957020260_t1.jpg"
         },
         {
-          "title": "[의료기기업계 소식] 7월 23일",
-          "desc": "환경에서 활용될 수 있다. 또한, 낮은 관전압 기술을 적용해 조영제 사용량과 방사선량 관리를 고려한 검사... AI 분석 기술을 기반으로 연속적으로 수집되는 심전도 데이터를 구간 단위와 비트 단위로 세밀하게 분석하고...",
-          "src": "doctorstimes",
+          "title": "'300억 이하 철도현장' 스마트 안전장비 넓힌다",
+          "desc": "안전장비 도입까지 현장 맞춤형 지원을 바탕으로 모두가 안심하고 일할 수 있는 환경을 조성해 나가겠다\"고 말했다. 한편 스마트 안전기술은 IoT(사물인터넷), AI(인공지능), 무선통신 등의 첨단 기술을 활용해 산업...",
+          "src": "bzeronews",
           "date": "07/23",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239187",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239187_109236_3036_v150.jpg"
+          "url": "https://www.bzeronews.com/news/articleView.html?idxno=820436",
+          "img": "https://cdn.bzeronews.com/news/photo/202607/820436_2029580_561.jpg"
         },
         {
-          "title": "취임 1년 넘긴 김인중 농어촌공사 사장, ‘AI·청년농·재해예방’ 키웠...",
-          "desc": "23일 농림축산식품부가 AI와 드론을 활용해 전국 농지 195만㏊에 대한 전수조사를 진행하고 있다고 밝히면서... 학습한 AI 수질 예측 시스템도 도입됐다. 기존 수질 분석에 2~3주가 걸리던 한계를 기술로 보완한 것이다....",
-          "src": "sateconomy",
+          "title": "영국 토큰화 국채 실험…성패는 온체인 결제에 달렸다",
+          "desc": "현재 영국의 결제 완결성 관련 법은 분산원장 기술을 충분히 반영하지 못하고 있어, 참여 기관이 파산할... 스테이블코인 도입 여부에 달려 있다. 2차 시장(레포·담보 활용) 기능이 핵심 가치이므로, 단순 발행보다 거래...",
+          "src": "tokenpost",
           "date": "07/23",
-          "url": "https://sateconomy.co.kr/news/view/1065597602821899",
-          "img": "http://sateconomy.co.kr/news/data/20260723/p1065597602821899_566_thum.PNG"
+          "url": "https://www.tokenpost.kr/news/blockchain/380476",
+          "img": "https://f1.tokenpost.kr/2026/07/lk5mqkmfkk.webp"
         },
         {
-          "title": "[제약업계 소식] 7월 23일",
-          "desc": "올해 1월부터 불법 유통 적발 시 즉시 거래를 영구 중단하는 제도를 도입했으며, 국내 병·의원에 안내문을... 있도록 AI 신약개발의 핵심 개념과 최신 기술 동향, 산업 활용 사례를 소개하는 입문 과정이다. 제약바이오...",
-          "src": "doctorstimes",
+          "title": "섬유개발연구원 대구 패션기업에 '생성형 AI' 장착 돕는다",
+          "desc": "AI 기술을 밀착 지원하는 '패션 AI 솔루션 활용 지원사업' 추진에 본격 착수했다. 이 사업은 한정된... 마지막으로 스튜디오 랩사의 '젠시(Gency)'를 도입해 온라인 판매의 필수품인 상품 상세 페이지와 홍보 콘텐츠를...",
+          "src": "hidomin",
           "date": "07/23",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239186",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239186_109218_558_v150.jpg"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=714533",
+          "img": "https://cdn.hidomin.com/news/photo/202607/714533_416259_5226.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
+          "desc": "현재는 Actuator(OIS), 광학디바이스, 메타모빌리티 등을 주요 사업으로 영위하고 있으며, 삼성전자... 휴림에이텍은 지난 1993년 설립된 현대자동차 및 기아자동차의 1차 협력사로 자동차 내·외장재를 개발, 생산하는...",
+          "src": "ggilbo",
+          "date": "07/23",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
+        },
+        {
+          "title": "갤럭시Z 폴드8, 국내 가격 40% 이상 저렴…애플 폴더블폰 대비 '안방 사...",
+          "desc": "최적화와 부품 협력사와의 긴밀한 협력을 통해 비용 증가분을 최대한 흡수하고 있다고 설명했다. 다만 일부 비용 상승은 해외 판매 가격에 반영될 수밖에 없었다고 덧붙였다. 삼성은 갤럭시 Z 폴드8 울트라와 Z 폴드8...",
+          "src": "kbench",
+          "date": "07/23",
+          "url": "https://kbench.com/?q=node/280620",
+          "img": ""
+        },
+        {
+          "title": "2분기 반도체 '훈풍'타고 0.6% 성장…3분기 '노사 갈등·파업' 악재 넘을...",
+          "desc": "삼성전자 초기업노조는 호남 반도체 메가프로젝트를 내년도 교섭 의제로 다룰 것을 예고하는 등 사측과 또 한번 대립할 가능성이 커지고 있습니다. 대기업 노조의 파업과 생산 중단은 협력사의 설비투자와 고용...",
+          "src": "MBN",
+          "date": "07/23",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005885835",
+          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/07/23/20260723162647_10_103_0_MM1005885835_4_116.jpg"
+        },
+        {
           "title": "[갤럭시 언팩 2026] 폴더블 '선택의 시대' 선언… 노태문, AI 전략 가속",
           "desc": "반도체 가격 상승과 부품 수급 부담에는 장기간 구축한 공급망과 전략적 파트너십으로 대응한다. 삼성전자... 노 사장은 \"원가 상승분을 소비자 가격에 모두 전가하기보다 공급망과 협력사들과 함께 비용 부담을...",
           "src": "biztribune",
           "date": "07/23",
           "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356354",
           "img": "http://www.biztribune.co.kr/news/thumbnail/202607/356354_261281_3739_v150.jpg"
-        },
-        {
-          "title": "'공식 출시 전 제이홉의 폴드8'...달라진 삼성전자 갤럭시 마케팅?",
-          "desc": "삼성전자는 23일(현지시간) 영국 런던에서 '갤럭시 언팩 2026'을 열고 폴더블폰 갤럭시Z 시리즈 8세대... 사내 직원들은 물론 부품사, 이동통신사 등 유통사, 케이스 제조사 등 외부 협력사들에게 신제품 관련 정보를...",
-          "src": "fntimes",
-          "date": "07/23",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026072312002567117de3572ddd_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202607231212170031007de3572ddd112153150145.jpg&nmt=18"
-        },
-        {
-          "title": "‘안보전’ 미국 vs ‘표심 안배’ 한국…거꾸로 가는 반도체 정책",
-          "desc": "반면 한국은 글로벌 메모리·파운드리 시장을 주도하는 삼성전자와 SK하이닉스라는 ‘투톱’을 보유하고도... 소재·부품·장비(소부장) 협력사들과의 물리적 격리는 수율 확보와 속도전에 불리하게 작용할 수 있다....",
-          "src": "mediapen",
-          "date": "07/23",
-          "url": "https://www.mediapen.com/news/view/1111736",
-          "img": "https://image.mediapen.com/news/202607/news_1111736_1784769887_m.jpg"
-        },
-        {
-          "title": "[갤럭시 언팩 2026] ③노태문, 애플 추격에 ‘7년 폴더블 노하우·AI’로...",
-          "desc": "것이 삼성 헬스의 궁극적 방향”이라며 수면·운동 관리를 넘어 생체 징후까지 아우르는 맞춤형 디지털 헬스 경험 확대를 약속했다. 글로벌 빅테크 및 부품 협력사들과의 전략적 연대도 더욱 공고히 한다. Z폴드8...",
-          "src": "dnews",
-          "date": "07/23",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607230947101780190",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/07/23/202607230947101780190-2-679481.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "구글 선언에 웃는 삼성전자… 메모리 공급으로 최대 수혜",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=754246",
-      "img": "https://cdn.mhns.co.kr/news/thumbnail/202607/754246_887513_1459_v150.jpg"
+      "title": "수출·내수 절반씩 쌍끌이… 2026년 성장률 3% 달성 청신호 [뉴스 투데이...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145398?sid=101",
+      "img": "https://www.segye.com/content/image/2026/07/23/20260723522350.jpg"
     },
     {
-      "title": "삼성전자, 미국 JD 파워 생활가전 만족도 6개 부문 1위",
-      "url": "https://www.todayeconomic.com/news/article.html?no=31419",
-      "img": "https://www.todayeconomic.com/data/photos/20260730/art_17847886650521_e55a4e.jpg"
+      "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
+      "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
     },
     {
       "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "앤트로픽, AMD와 AI 인프라 '동맹'…7조원 투자 유치",
-      "url": "https://n.news.naver.com/mnews/article/092/0002431661?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/01/06/8c0e0b4f24fa0d5824e3394edb25d836.jpg"
+      "title": "獨 정부, 방산 스타트업 지분 직접 취득키로… 국책은행 통해 민간과 공...",
+      "url": "https://www.newspim.com/news/view/20260723001288",
+      "img": "https://img.newspim.com/news/2026/07/23/2607231957020260_t1.jpg"
     },
     {
-      "title": "[의료기기업계 소식] 7월 23일",
-      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239187",
-      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239187_109236_3036_v150.jpg"
+      "title": "'300억 이하 철도현장' 스마트 안전장비 넓힌다",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=820436",
+      "img": "https://cdn.bzeronews.com/news/photo/202607/820436_2029580_561.jpg"
     },
     {
-      "title": "취임 1년 넘긴 김인중 농어촌공사 사장, ‘AI·청년농·재해예방’ 키웠...",
-      "url": "https://sateconomy.co.kr/news/view/1065597602821899",
-      "img": "http://sateconomy.co.kr/news/data/20260723/p1065597602821899_566_thum.PNG"
+      "title": "영국 토큰화 국채 실험…성패는 온체인 결제에 달렸다",
+      "url": "https://www.tokenpost.kr/news/blockchain/380476",
+      "img": "https://f1.tokenpost.kr/2026/07/lk5mqkmfkk.webp"
     }
   ]
 };
