@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.23 (목) 07:40",
+  "updatedAt": "2026.07.23 (목) 13:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,898",
-        "diff": "+277",
-        "rate": "+2.04%",
-        "dir": "up",
+        "value": "13,813",
+        "diff": "-86",
+        "rate": "-0.62%",
+        "dir": "down",
         "avg": "13,552",
-        "avgDiff": "+346",
-        "avgRate": "+2.6%",
+        "avgDiff": "+261",
+        "avgRate": "+1.9%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "88.29",
-        "diff": "+1.46",
-        "rate": "+1.68%",
+        "value": "88.34",
+        "diff": "+1.51",
+        "rate": "+1.74%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,478.50",
-        "diff": "-4.00",
-        "rate": "-0.27%",
+        "value": "1,466.20",
+        "diff": "-12.80",
+        "rate": "-0.87%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "906.55",
-        "diff": "-1.82",
-        "rate": "-0.20%",
+        "value": "899.26",
+        "diff": "-7.32",
+        "rate": "-0.81%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.29",
-        "diff": "-0.02",
-        "rate": "-0.24%",
+        "value": "8.20",
+        "diff": "-0.09",
+        "rate": "-1.09%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.63",
-        "diff": "-0.02",
-        "rate": "-0.35%",
+        "value": "5.57",
+        "diff": "-0.06",
+        "rate": "-1.07%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.31",
-        "diff": "-0.09",
-        "rate": "-0.58%",
+        "value": "15.19",
+        "diff": "-0.13",
+        "rate": "-0.85%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 로봇 사업 '전사 총력전'… 휴머노이드 상용화 승부수",
-          "desc": "반도체와 스마트폰, 생활가전 등 다양한 제품을 생산하는 만큼 공정별로 요구되는 작업 환경과 동작이 다르기 때문이다. 삼성전자가 오는 2030년까지 국내외 생산 거점을 AI 자율공장으로 전환한다는 계획까지 현실화할...",
-          "src": "koreaittimes",
+          "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
+          "desc": "삼성전자는 스마트폰과 워치, TV, 가전 등 다양한 디바이스를 통해 축적한 사용자 데이터를 AI 경쟁력의 기반으로 활용한다는 계획이다. 노 대표는 \"삼성만큼 다양한 디바이스로 일상 전반을 연결하는 기업은 없다\"며...",
+          "src": "dizzotv",
           "date": "07/23",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155389",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202607/155389_104907_1532_v150.jpg"
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
+          "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
         },
         {
           "title": "[Who Is ?] 구본학 쿠쿠홈시스 대표이사 사장",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
-          "desc": "로봇청소기 시장 세계 1위 로보락이 가성비를 내세워 국내 세탁건조기 시장을 정조준한다. 삼성전자와 LG전자의 프리미엄 세탁가전 시장에서 1인 가구를 공략하기 위한 틈새를 겨냥한 전략 상품이다. 22일 가전 업계에...",
-          "src": "매일경제",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/009/0005710748?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
+          "title": "삼성전자, 냉장고·건조기 美 1위 싹쓸이…구글 AI 투자 수혜 기대감도...",
+          "desc": "삼성전자는 프렌치도어 냉장고, 상냉동·하냉장 냉장고, 양문형 냉장고, 의류 건조기, 후드 일체형 전자레인지, 식기세척기 부문에서 최고 평가를 받으며 최다 수상 브랜드로 선정됐다. 냉장고 제품군에서는 주요...",
+          "src": "whitepaper",
+          "date": "07/23",
+          "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264877",
+          "img": "http://www.whitepaper.co.kr/news/thumbnail/202607/264877_197985_536_v150.jpg"
         },
         {
-          "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
-          "desc": "삼성전자는 현재 광주 내 3개의 캠퍼스(그린1·2·3)에서 에어컨, 냉장고, 세탁기·건조기 등을 생산하고 있는데, 이번 신공장 부지는 그린3캠퍼스 내로 정해졌다. 삼성전자는 지난해 11월 유럽 최대 공조기기 업체인...",
-          "src": "헤럴드경제",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
+          "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
+          "desc": "그러면서 노 사장은 삼성전자의 강력한 가전 생태계를 언급했다. 스마트폰을 비록한 워치, TV, 세탁기, 냉장고, 에어컨 등 다양한 디바이스로 고객의 일상 전반과 연결된 기업은 삼성전자가 거의 유일하다면서다. 노...",
+          "src": "lcnews",
+          "date": "07/23",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "금리는 은행을 살리고, AI·디지털자산은 판을 바꾼다…4대 금융지주 회...",
-          "desc": "전략은 AI를 단순한 기술 도입이 아니라 조직 운영 방식의 변화로 보는 데 있다. 신한금융은 신한 슈퍼SOL을... 금융업계는 2026년 금융권 경쟁이 이익 규모보다 디지털 전환 속도와 활용 역량에서 갈릴 것이라는 진단이...",
-          "src": "peoplewatch",
+          "title": "헤지스, 글로벌 바이어 명동 ‘스페이스H’에 꽂혔다! AI기반 디지털 시...",
+          "desc": "AI 기술을 활용한 콘텐츠도 함께 선보인다. 27SS 시즌을 대표하는 키 룩(Key Look)을 AI 런웨이 영상으로 구현해... 수주 방식에도 AI를 처음 도입했다. 헤지스는 AI로 제작한 디지털 룩북과 연동한 글로벌 B2B 오더 시스템을...",
+          "src": "fashionn",
           "date": "07/23",
-          "url": "https://www.peoplewatch.co.kr/article/view/ppw202607090001",
-          "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/07/09/ppw20260709000003.jpg"
+          "url": "http://www.fashionn.com/board/read_new.php?table=1006&number=61805",
+          "img": "https://www.fashionn.com/files/board/2026/image/o_1ju6i472tbjo16mt157eqkgirbb.jpg"
         },
         {
-          "title": "롯데百 'AI 비즈센터' 론칭→신세계百 AI, 세계최고 학회 인정",
-          "desc": "22일 공식 홈페이지를 통해 운영을 시작한 'AI 비즈센터'는 AI 기술을 활용해 백화점 입점 및 상담 절차를... 이 같은 지능형 프로세스의 도입으로 제안서의 표준화 및 정교한 부서 매칭이 가능해져 상담 제안부터 유관...",
-          "src": "slist",
+          "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
+          "desc": "여기에 새 소재 기술인 '플렉스 티타늄'을 도입해 내구성과 경량화를 동시에 구현했다. 티타늄의 강도와... 데이터를 AI 경쟁력의 기반으로 활용한다는 계획이다. 노 대표는 \"삼성만큼 다양한 디바이스로 일상 전반을...",
+          "src": "dizzotv",
           "date": "07/23",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=753570",
-          "img": "https://cdn.slist.kr/news/thumbnail/202607/753570_1155497_2453_v150.jpg"
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
+          "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
         },
         {
-          "title": "롯데백화점, 업계 첫 AI 입점 상담 서비스 도입…신생 브랜드 제안서 작...",
-          "desc": "AI 비즈센터는 AI 기술을 활용해 백화점 입점과 상담 절차를 간소화한 서비스로, 복잡한 입점 과정 때문에 기회를 놓치는 신생 브랜드의 불편을 해소하기 위해 개발됐습니다. 파트너사는 AI 비즈센터에 접속해 브랜드명과...",
-          "src": "biz",
+          "title": "이재영, 군의회 첫 군정보고서 '생활밀착형 스마트도시' 도약 선언",
+          "desc": "특히 과학기술정보통신부 '온디바이스 AI 실증확산 공모사업'으로 생활 밀착형 스마트 행정 구현에 속도를... CCTV를 활용한 통합 안전돌봄 체계를 구축하고, 장뜰전통시장과 도서관 등에는 피지컬 AI를 도입해 무인 시간대...",
+          "src": "뉴스1",
           "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/374/0000523186?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2023/05/02/WAD1683004578697-850.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009075110?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/23/8022108/high.jpg"
         },
         {
-          "title": "한국가스공사, 온톨로지 기반 AX 플랫폼 구축 착수",
-          "desc": "한국가스공사는 데이터 활용도가 높은 천연가스 생산 분야에 온톨로지 기반 AI 시스템을 우선적으로 도입하여 검증한 뒤, 향후 도입 범위를 가스 산업 전체...",
-          "src": "breaknews",
+          "title": "정부, '에이전틱 AI 이니셔티브' 마련...실행 중심의 에이전틱 AI 생태계...",
+          "desc": "배경훈 부총리(사진:본지DB) 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈. 이하, 과기정통부)는... 특히, 권한 오남용, 보안 위협, 민감 데이터 유출 등 문제가 발생할 가능성도 있어 에이전틱 AI의 도입·활용...",
+          "src": "AI타임스",
           "date": "07/23",
-          "url": "http://www.breaknews.com/1223687",
-          "img": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072315163788.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41110",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41110_61924_435_v150.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "글로벌 반도체·AI 리더 美서 회동… 피크아웃 우려 잠재우나",
-          "desc": "이재용 삼성전자·최태원 SK그룹·정의선 현대차그룹 회장과 이해진 네이버 이사회 의장이 젠슨 황... 거대 자금을 운용하는 협력사들과의 논의가 필수적이다. 이 의장이 황 CEO와 회동 전에 최수연 네이버 대표 등과...",
-          "src": "segye",
+          "title": "달라진 삼성전자 갤럭시 폴드8 마케팅?",
+          "desc": "삼성전자는 23일(현지시간) 영국 런던에서 '갤럭시 언팩 2026'을 열고 폴더블폰 갤럭시Z 시리즈 8세대... 사내 직원들은 물론 부품사, 이동통신사 등 유통사, 케이스 제조사 등 외부 협력사들에게 신제품 관련 정보를...",
+          "src": "fntimes",
           "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/022/0004145194?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/22/20260722524949.jpg"
+          "url": "https://www.fntimes.com/html/view.php?ud=2026072312002567117de3572ddd_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202607231212170031007de3572ddd112153150145.jpg&nmt=18"
         },
         {
-          "title": "'역대급' 실적 예고한 삼전닉스…HBM으로 증명할 K-반도체 저력",
-          "desc": "복수의 HBM 공정 장비 협력사와 하반기 발주를 논의 중인 것으로 전해지면서 HBM4 공급 확대에도 속도가 붙을 것이란 해석을 낳았다. 삼성전자는 범용 D램과 낸드플래시에서 확보한 안정적인 시장 지배력을 바탕으로...",
-          "src": "ntoday",
-          "date": "07/22",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128302",
-          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128302_114101_5654_v150.jpg"
+          "title": "‘안보전’ 미국 vs ‘표심 안배’ 한국…거꾸로 가는 반도체 정책",
+          "desc": "반면 한국은 글로벌 메모리·파운드리 시장을 주도하는 삼성전자와 SK하이닉스라는 ‘투톱’을 보유하고도... 소재·부품·장비(소부장) 협력사들과의 물리적 격리는 수율 확보와 속도전에 불리하게 작용할 수 있다....",
+          "src": "mediapen",
+          "date": "07/23",
+          "url": "https://www.mediapen.com/news/view/1111736",
+          "img": "https://image.mediapen.com/news/202607/news_1111736_1784769887_m.jpg"
         },
         {
-          "title": "삼성전자 로봇 사업 확대, 국내 로봇주 반등 견인",
-          "desc": "어렵고 부품 조달, 생산 체계, 판매처 확보가 함께 갖춰져야 하는데, 삼성전자처럼 자금력과 공급망을 갖춘... 확대가 부품사와 협력사로 얼마나 연결되고 코스닥 시장에 자금이 얼마나 유입되느냐에 따라 종목별...",
-          "src": "tokenpost",
-          "date": "07/22",
-          "url": "https://www.tokenpost.kr/news/tech/380138",
-          "img": "https://f1.tokenpost.kr/2026/07/1w9clpgv7k.jpg"
+          "title": "[갤럭시 언팩 2026] ③노태문, 애플 추격에 ‘7년 폴더블 노하우·AI’로...",
+          "desc": "것이 삼성 헬스의 궁극적 방향”이라며 수면·운동 관리를 넘어 생체 징후까지 아우르는 맞춤형 디지털 헬스 경험 확대를 약속했다. 글로벌 빅테크 및 부품 협력사들과의 전략적 연대도 더욱 공고히 한다. Z폴드8...",
+          "src": "dnews",
+          "date": "07/23",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607230947101780190",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/07/23/202607230947101780190-2-679481.jpg"
         },
         {
-          "title": "청년 일자리 틔우고 AI생태계 일구고 … 기업 나눔, 대한민국 내일 여는...",
-          "desc": "전자·삼성디스플레이·삼성전기·삼성SDI·삼성SDS·삼성물산·삼성중공업·삼성E&A 등 11개 계열사와 협력사... 특히 방산·항공우주 생산 거점인 경남을 중심으로 소재·부품·장비(소부장) 기업의 기술 경쟁력을 높이고...",
-          "src": "매일경제",
-          "date": "07/22",
-          "url": "https://n.news.naver.com/mnews/article/009/0005710770?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/23/20260723_01110201000002_L00.jpg"
+          "title": "노태문 \"한국 소비자가 키운 갤럭시…가격으로 보답\"…미국보다 최대 5...",
+          "desc": "메모리값 올라가도…\"100% 소비자 전가 안 해\" 최근 메모리와 주요 부품 가격이 오르면서 스마트폰 제조 원가 부담도 커지고 있다. 삼성전자는 공급망 최적화와 협력사 공동 개발을 통해 가격 상승 영향을 최대한...",
+          "src": "아이뉴스24",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/031/0001044182?sid=105",
+          "img": "https://image.inews24.com/v1/e1ec063478307a.jpg"
         }
       ]
     },
@@ -222,54 +222,54 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
         },
         {
+          "title": "대동 AI 농업에 맞불…TYM, 자율주행·전동화 R&D 속도 낸다",
+          "desc": "세부적으로는 전장 회로 및 와이어링 하네스 설계, 전장 모듈 개발, 센서·통신 인터페이스 통합, 배터리 시스템 설계, 모터·감속기·제어기 최적화, CAN(Controller Area Network) 기반 제어 로직 개발 등을 맡게 된다. 전동...",
+          "src": "sidae",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/417/0001152670?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/23/06/2026072309493349146_1.jpg"
+        },
+        {
           "title": "아스팔트 질감까지 데이터로…현대차·기아 '1㎜ 가상도로' 신차 검증 [...",
           "desc": "대신 테스트벤치 위에 제어기와 전장 부품, 와이어링 하네스가 실제 차량처럼 연결돼 있었다. 차체는 없지만 차량의 전기·전자 시스템은 실물 하드웨어로 구현된 구조다. 자동차가 SDV로 바뀌면서 개별 부품의...",
           "src": "데일리안",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/119/0003107053?sid=101",
           "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
-        },
-        {
-          "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
-          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
-          "src": "dailysecu",
-          "date": "05/11",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 로봇 사업 '전사 총력전'… 휴머노이드 상용화 승부수",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155389",
-      "img": "https://www.koreaittimes.com/news/thumbnail/202607/155389_104907_1532_v150.jpg"
+      "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
+      "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
+      "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
     },
     {
-      "title": "“와인셀러인 줄 알았는데 세탁건조기네”…로보락, 삼성·LG 틈새 공략...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710748?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202607/22/news-p.v1.20260722.8fc608431e9c4c8091cc007934e83f47_R.png"
+      "title": "삼성전자, 냉장고·건조기 美 1위 싹쓸이…구글 AI 투자 수혜 기대감도...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264877",
+      "img": "http://www.whitepaper.co.kr/news/thumbnail/202607/264877_197985_536_v150.jpg"
     },
     {
-      "title": "삼성전자, 광주에 HVAC 공장 짓는다 [H-EXCLUSIVE]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002673399?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f08aee2e085c4f468eb8630e7a1a73c9_T1.jpg"
+      "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
     },
     {
-      "title": "금리는 은행을 살리고, AI·디지털자산은 판을 바꾼다…4대 금융지주 회...",
-      "url": "https://www.peoplewatch.co.kr/article/view/ppw202607090001",
-      "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/07/09/ppw20260709000003.jpg"
+      "title": "헤지스, 글로벌 바이어 명동 ‘스페이스H’에 꽂혔다! AI기반 디지털 시...",
+      "url": "http://www.fashionn.com/board/read_new.php?table=1006&number=61805",
+      "img": "https://www.fashionn.com/files/board/2026/image/o_1ju6i472tbjo16mt157eqkgirbb.jpg"
     },
     {
-      "title": "롯데百 'AI 비즈센터' 론칭→신세계百 AI, 세계최고 학회 인정",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=753570",
-      "img": "https://cdn.slist.kr/news/thumbnail/202607/753570_1155497_2453_v150.jpg"
+      "title": "노태문 \"경쟁 치열할수록 새 기준 제시\"…폴더블 선도 자신한 삼성",
+      "url": "https://www.dizzotv.com/site/data/html_dir/2026/07/23/2026072380075.html",
+      "img": "https://www.dizzotv.com/site/data/img_dir/2026/07/23/2026072380073_0.jpg"
     },
     {
-      "title": "롯데백화점, 업계 첫 AI 입점 상담 서비스 도입…신생 브랜드 제안서 작...",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523186?sid=101",
-      "img": "https://img.biz.sbs.co.kr/upload/2023/05/02/WAD1683004578697-850.jpg"
+      "title": "이재영, 군의회 첫 군정보고서 '생활밀착형 스마트도시' 도약 선언",
+      "url": "https://n.news.naver.com/mnews/article/421/0009075110?sid=102",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/23/8022108/high.jpg"
     }
   ]
 };
