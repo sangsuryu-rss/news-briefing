@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 16:27",
+  "updatedAt": "2026.07.24 (금) 19:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "90.44",
-        "diff": "-1.75",
-        "rate": "-1.90%",
+        "value": "89.77",
+        "diff": "-2.42",
+        "rate": "-2.63%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,465.00",
-        "diff": "-11.50",
-        "rate": "-0.78%",
+        "value": "1,461.50",
+        "diff": "-15.00",
+        "rate": "-1.02%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "894.88",
-        "diff": "-6.50",
-        "rate": "-0.72%",
+        "value": "892.25",
+        "diff": "-9.13",
+        "rate": "-1.01%",
         "dir": "down"
       },
       {
@@ -63,17 +63,17 @@ window.NEWS_DATA = {
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.57",
-        "diff": "-0.05",
-        "rate": "-0.89%",
+        "value": "5.56",
+        "diff": "-0.06",
+        "rate": "-1.07%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.20",
-        "diff": "-0.09",
-        "rate": "-0.59%",
+        "value": "15.13",
+        "diff": "-0.16",
+        "rate": "-1.05%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'추적 60분', 동탄 집값부터 노노 갈등까지 반도체 성과급이 만든 계급...",
-          "desc": "최근 인공지능(AI) 산업 확대와 함께 메모리 반도체 수요가 급증하면서 삼성전자와 SK하이닉스는 역대급... 메모리 반도체를 담당하는 DS부문과 스마트폰·가전 사업을 맡는 DX부문의 성과급 규모는 큰 차이를 보이며...",
-          "src": "nc",
+          "title": "성과급 계급사회, 나만 가난해지고 있다?···‘6억 VS 600만 원’ 新 계...",
+          "desc": "메모리 반도체를 생산하는 DS부문의 경우 약 6억 원의 성과급을 받지만, 스마트폰과 가전 등을 담당하는 DX부문의 성과급은 약 600만 원에 불과하다. 같은 삼성전자 직원이라도 사업부에 따라 성과급이 100배 가까이 차이...",
+          "src": "sports",
           "date": "07/24",
-          "url": "https://www.nc.press/news/articleView.html?idxno=621648",
-          "img": "https://cdn.nc.press/news/photo/202607/621648_846994_2234.jpg"
+          "url": "https://m.entertain.naver.com/article/144/0001127974",
+          "img": ""
         },
         {
           "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "美 301조 관세 일단 한숨 돌린 산업계…'과잉생산'이 진짜 변수",
-          "desc": "냉장고·세탁기·건조기 등 일부 생활가전은 이미 제품에 포함된 철강 등에 232조 관세가 부과되고 있다. TV... 한국 기업뿐 아니라 일본과 유럽 등 주요 경쟁업체들도 미국의 관세 정책 영향을 함께 받는 데다, 삼성전자...",
-          "src": "아이뉴스24",
+          "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
+          "desc": "에너지대상을 수상한 삼성전자 ‘비스포크 AI 무풍콤보 갤러리 프로’ 에어컨 라이프스타일 이미지. (사진... 올해 국내 시장에 첫선을 보인 'EHS 히트펌프 보일러'를 시작으로 △'비스포크 AI 콤보' 세탁건조기...",
+          "src": "아시아타임즈",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/031/0001044548?sid=101",
-          "img": "https://image.inews24.com/v1/1058276536e5d0.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260724500327",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/24/.cache/512/20260724500324.jpg"
         },
         {
-          "title": "‘美 301조 관세’ 한숨 돌렸지만…한국 기업들, 최종 관세 촉각",
-          "desc": "예를 들어 삼성전자는 사우스캐롤라이나, LG전자는 테네시에서 세탁기 등 가전제품을 생산하고 있어 현지에서 생산해 판매하는 물량은 수입관세의 직접적인 영향을 받지 않는다. 배터리 업계도 미국 현지 생산능력을...",
-          "src": "서울신문",
+          "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'",
+          "desc": "삼성전자 가전 판매와 연계한 할인·무이자 할부 혜택이 삼성카드 결제 수요를 늘린 것으로 분석된다.... 삼성카드와 KB국민카드로 결제하면 7% 할인과 최대 12개월 무이자 할부 혜택도 제공했다. TV 냉장고 세탁기 등...",
+          "src": "한국경제",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/081/0003664468?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/07/24/SSC_20260724153947_O2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005313649?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "2026 데이터바우처 지원사업, 데이터 품질 점검 체계 강화",
-          "desc": "다양한 AI 모델 학습에도 활용될 수 있도록 고품질 데이터 확보 기반 마련에 중점을 두었다. 과학기술정보통... 체계를 도입한다. 품질 점검 대상은 데이터바우처 지원사업을 통해 구축되는 정형·반정형·비정형 데이터를...",
-          "src": "sisunnews",
+          "title": "남이섬, 'AI 숏폼 공모전' 전격 개최 ... \"메타세쿼이아길에 AI 상상을 입...",
+          "desc": "남이섬은 생성형 AI 기술을 활용해 자신만의 독창적인 관광 홍보 영상을 제작하는 '남이섬 AI 영상 광고 숏폼... 특히, 단순한 현장 촬영을 넘어, 영상 제작 과정의 전체 또는 일부에 생성형 AI 툴을 적극 도입해야 하는 점이...",
+          "src": "ttlnews",
           "date": "07/24",
-          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243081",
-          "img": "http://www.sisunnews.co.kr/image/logo/snslogo_20230905103538.png"
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128645",
+          "img": "https://cdn.ttlnews.com/news/photo/202607/3128645_731390_283.jpg"
         },
         {
-          "title": "울산, 산업 AI 전환 승부수… 실물AI·데이터센터 육성 본격화",
-          "desc": "기반을 활용해 고품질 산업 데이터를 확보하고 로봇·조선·자동차 등 제조 현장의 인공지능 기술 개발과... 조기 도입 등을 정부와 협력해 추진할 방침이다. 울산시 관계자는 “산업과 에너지 기반의 강점을 극대화해...",
-          "src": "브릿지경제",
+          "title": "HD한국조선해양, 미래 'AI 조선소'로 조선업 패러다임 전환 이끈다",
+          "desc": "플랫폼' 도입을 위한 본계약을 체결했다.(왼쪽부터) 김정관 산업통상부 장관, HD한국조선해양 김형관 대표... 공정을 AI·디지털 기술로 3D 모델의 단일 데이터로 통합, 전 단계에서 동일한 정보를 활용 가능토록 하는...",
+          "src": "AI타임스",
           "date": "07/24",
-          "url": "https://www.viva100.com/article/20260724500667",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/24/.cache/512/20260724500674.jpg?v=20260724162751"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41152_61981_2153_v150.jpg"
         },
         {
-          "title": "동대문구, AI 시각보조기 도입…정보취약계층 민원 접근성 강화",
-          "desc": "최동민 동대문구청장은 \"정보취약계층이 보다 편리하고 독립적으로 민원서비스를 이용할 수 있도록 지원하기 위해 AI 시각보조기를 도입했다\"며 \"앞으로도 AI를 비롯한 디지털 기술을 적극 활용해 누구도 소외되지 않는...",
-          "src": "hg-times",
+          "title": "인텔, 18A 공정 수율 개선으로 파운드리 상업화 속도",
+          "desc": "인텔이 2026년 2분기 실적 발표에서 파운드리 사업의 기술력 성과를 공개했다. 인텔은 24일 공식... 네덜란드 반도체 장비 기업 ASML은 지난 15일 실적 발표회에서 인텔이 고해상도 극자외선 장비를 활용해 로직...",
+          "src": "g-enews",
           "date": "07/24",
-          "url": "https://www.hg-times.com/news/articleView.html?idxno=303878",
-          "img": "https://cdn.hg-times.com/news/photo/202607/303878_304213_2052.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202607241912237241fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072419183802001fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "“삼성 예약합니다”",
-          "desc": "커버 디스플레이 '플렉스윈도우'를 AI 중심으로 개편해 화면을 열지 않고도 주요 기능을 활용할 수 있다. 폴드8과 울트라에는 '플렉스 티타늄' 기술이 처음 적용돼 내구성 강화와 화면 주름 개선 효과를 기대할 수...",
-          "src": "bigtanews",
+          "title": "XRP, 저항선 앞 주춤…1.5달러 향방은 거래량에 달렸다",
+          "desc": "새롭게 도입했다. 해당 업데이트는 발행 지연을 줄이고 정산 예측 가능성을 높이는 데 초점을 맞췄다.... 미국 증시는 대형 기술주 중심으로 약세를 보이며 투자심리가 위축됐다. 인공지능(AI) 관련 지출 우려와 관세...",
+          "src": "tokenpost",
           "date": "07/24",
-          "url": "https://www.bigtanews.co.kr/article/view/big202607240012",
-          "img": "https://www.bigtanews.co.kr/data/big/image/2026/07/24/big20260724000013.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/380974",
+          "img": "https://f1.tokenpost.kr/2026/07/c3f7l4edyw.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "현대차, 생산 차질로 판매 주춤…아반떼·아이오닉3 '구원투수' 나선다",
+          "desc": "지난 3월 협력사 화재로 인한 부품 공급 차질도 판매량에 영향을 끼쳤다. 현대차 경영진도 이 같은 상황을... 이는 2020년 삼성전자 이재용 회장과 정의선 회장이 직접 만나 논의했던 '배터리 동맹'의 첫 결실이기도 하다....",
+          "src": "ntoday",
+          "date": "07/24",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128377",
+          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128377_114208_1640_v150.jpg"
+        },
         {
           "title": "\"K-반도체 뿌리 단단하게\"… 하나은행, 소부장 기업에 1000억원 맞춤형 ...",
           "desc": "이번 협약은 삼성전자, SK하이닉스 등 대기업 중심으로 쏠린 반도체 시장의 성과를 소부장,  중소 협력업체로... 특히 대기업 1차 협력사에만 혜택이 집중되던 기존 관행에서 벗어나 생태계 하단에 위치한 2차·3차 중소...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/24",
           "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360779",
           "img": "https://cdn.smedaily.co.kr/news/thumbnail/202607/360779_295846_247_v150.jpg"
-        },
-        {
-          "title": "삼성·현대차에는 '찬스'...\"찍어내질 못해\" 주가 15% 폭락, 머스크의 고...",
-          "desc": "머스크 CEO의 언급은 삼성전자와 현대차에는 추격의 여지를 남기고 있다. 자동차 산업에서 축적한 부품 표준화와 모듈화, 협력사 품질관리, 원가 절감, 대규모 공장 운영 경험은 휴머노이드 양산에도 활용할 수 있다....",
-          "src": "view",
-          "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/277/0005794189?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072413511357474_1784868674.png"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'추적 60분', 동탄 집값부터 노노 갈등까지 반도체 성과급이 만든 계급...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=621648",
-      "img": "https://cdn.nc.press/news/photo/202607/621648_846994_2234.jpg"
+      "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
+      "url": "https://www.asiatime.co.kr/article/20260724500327",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/24/.cache/512/20260724500324.jpg"
     },
     {
-      "title": "美 301조 관세 일단 한숨 돌린 산업계…'과잉생산'이 진짜 변수",
-      "url": "https://n.news.naver.com/mnews/article/031/0001044548?sid=101",
-      "img": "https://image.inews24.com/v1/1058276536e5d0.jpg"
+      "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313649?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
     },
     {
-      "title": "‘美 301조 관세’ 한숨 돌렸지만…한국 기업들, 최종 관세 촉각",
-      "url": "https://n.news.naver.com/mnews/article/081/0003664468?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/07/24/SSC_20260724153947_O2.jpg"
+      "title": "남이섬, 'AI 숏폼 공모전' 전격 개최 ... \"메타세쿼이아길에 AI 상상을 입...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128645",
+      "img": "https://cdn.ttlnews.com/news/photo/202607/3128645_731390_283.jpg"
     },
     {
-      "title": "2026 데이터바우처 지원사업, 데이터 품질 점검 체계 강화",
-      "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243081",
-      "img": "http://www.sisunnews.co.kr/image/logo/snslogo_20230905103538.png"
+      "title": "HD한국조선해양, 미래 'AI 조선소'로 조선업 패러다임 전환 이끈다",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41152_61981_2153_v150.jpg"
     },
     {
-      "title": "울산, 산업 AI 전환 승부수… 실물AI·데이터센터 육성 본격화",
-      "url": "https://www.viva100.com/article/20260724500667",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/24/.cache/512/20260724500674.jpg?v=20260724162751"
+      "title": "인텔, 18A 공정 수율 개선으로 파운드리 상업화 속도",
+      "url": "https://www.g-enews.com/view.php?ud=202607241912237241fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072419183802001fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "동대문구, AI 시각보조기 도입…정보취약계층 민원 접근성 강화",
-      "url": "https://www.hg-times.com/news/articleView.html?idxno=303878",
-      "img": "https://cdn.hg-times.com/news/photo/202607/303878_304213_2052.jpg"
+      "title": "XRP, 저항선 앞 주춤…1.5달러 향방은 거래량에 달렸다",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/380974",
+      "img": "https://f1.tokenpost.kr/2026/07/c3f7l4edyw.jpg"
     }
   ]
 };
