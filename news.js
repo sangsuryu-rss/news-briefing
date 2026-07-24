@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 03:14",
+  "updatedAt": "2026.07.25 (토) 06:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "88.85",
-        "diff": "-3.34",
-        "rate": "-3.62%",
+        "value": "89.31",
+        "diff": "-2.88",
+        "rate": "-3.12%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,461.00",
-        "diff": "-15.50",
-        "rate": "-1.05%",
+        "value": "1,461.50",
+        "diff": "-15.00",
+        "rate": "-1.02%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "891.86",
-        "diff": "-9.52",
-        "rate": "-1.06%",
+        "value": "891.95",
+        "diff": "-9.43",
+        "rate": "-1.05%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "유럽 덮친 역대급 폭염… ‘에어컨 불모지’ 삼성-LG 새 격전지로",
-          "desc": "다만 허가 절차를 피하려는 방편일 뿐이라 삼성전자와 LG전자 등 국내 가전회사들은 다양한 냉방기기 대안으로 시장 확보에 나서고 있다. 실외기 한 대로 수십 대를 돌릴 수 있는 시스템에어컨, 낡은 보일러를 대체하는...",
-          "src": "동아일보",
+          "title": "반도체로 냉각하는 시대",
+          "desc": "·      초소형화: 거대한 컴프레서와 복잡한 배관을 줄일 수 있어 가전제품의 설계 자유도를 크게 넓힌다.... ·      CHESS(제어된 계층 구조의 초격자 구조): 삼성전자와 미국 존스홉킨스대학교 응용물리학연구소(APL)...",
+          "src": "abcn",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/020/0003736428?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359480.4.jpg"
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
+          "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
         },
         {
           "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
@@ -99,7 +99,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/24",
           "url": "https://news.dealsitetv.com/articles/173743",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/06405b9022a236c47865a566f9302a54/thumb.jpg"
+          "img": ""
         },
         {
           "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "젠스파크, 한국 정식 진출… \"3년간 1억달러 투자\"",
-          "desc": "차세대 AI 업무 환경 비전을 공개했다. 이날 행사에는 웬 상 최고운영책임자(COO), 케이 주 최고기술책임자... 그는 \"한국의 AI 도입 열기와 절박함은 실리콘밸리에서도 보기 어려울 정도\"라며 \"문제는 AI 자체가 아니라...",
-          "src": "newscj",
+          "title": "반도체로 냉각하는 시대",
+          "desc": "펠티어 기술이 그동안 대형 가전에 전면 도입되지 못했던 이유는 명확하다. 바로 낮은 열효율(COP... 폐열 회수와 에너지 하베스팅 기술에 활용 ·      증기 압축 방식(Vapor Compression): 기체 상태의 냉매를 압축·응축...",
+          "src": "abcn",
           "date": "07/25",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3419755",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419755_3529104_158_v150.jpg"
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
+          "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
         },
         {
-          "title": "[책의 향기]AI에 ‘생각을 넘긴’ 인간이 받은 대가",
-          "desc": "미국에서 널리 쓰이는 데이팅 앱 힌지(Hinge)는 인공지능(AI)을 활용해 이용자의 메시지 작성을 돕는다.... 약 100년 전 지능검사가 도입된 이후 세계적으로 지능지수(IQ) 점수는 꾸준히 상승해 왔다. 그런데 이 점수가 최근...",
-          "src": "동아일보",
+          "title": "[일잘러AI] “데이터 뽑아주세요” 눈치 보고 줄 설 일 없다…뤼튼에는...",
+          "desc": "이 개발자는 “사람마다 일을 포기하게 되는 문턱이 있는데 에이전트 AI를 활용하면 그 문턱을 크게 낮출 수... 이 개발자는 우선 뤼튼테크놀로지스가 어떤 정보기술(IT) 인프라를 쓰는지 조사했습니다. 구글 클라우드의...",
+          "src": "디지털데일리",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/020/0003736430?sid=103",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359366.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002235399?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/07/24/2026072415591572614_l.jpg"
         },
         {
-          "title": "90% 할인 ‘땡처리’서 금맥 캐는 청년… “1700조원 글로벌 시장 노려”...",
-          "desc": "(Agentic AI)을 활용해 적합한 구매상을 찾아 효율적으로 판매하고 있다. 14일 경기 성남시 판교동 사무실에서... 최첨단 AI 기술로 뜯어고쳐 가고 있다는 데 있다. ● 구매상을 관리하고 매칭하는 ‘리맥스’ 버려질 뻔했던...",
-          "src": "동아일보",
+          "title": "[제약·바이오 트렌드] 한미약품, AI로 '근육 늘리고 지방 줄이는' 비만...",
+          "desc": "◇ 성모윌병원, AI 스마트병상 '씽크' 도입…척추·관절 수술환자 안전관리 강화 성모윌병원, 대웅제약과... 전반의 기술 변화와 AI 활용 방향을 논의한다. 코젠바이오텍은 이번 참가를 통해 기존 식품위생·안전...",
+          "src": "ibabynews",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/020/0003736397?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/25/134359531.5.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153231",
+          "img": "https://www.ibabynews.com/news/photo/202607/153231_118390_013.jpg"
         },
         {
-          "title": "자치구도 AI 앓이…현장 공무원 개발한 AI 툴로 업무혁신",
-          "desc": "AI 이용 증가세…이용 경험률 67% 자치구, 주민 교육부터 업무 활용까지 AI(인공지능)가 산업 현장을 넘어 사회 전반으로 빠르게 확산하면서 자치구도 앞다퉈 AI 행정 도입과 주민 교육에 뛰어들고 있다. 22일...",
-          "src": "더팩트",
+          "title": "새 정책에 묻어가려던 약 양도양수, 급변침... '고배' 마신 TG-C",
+          "desc": "계기로 '미프진' 도입 논의는 다시 속도를 내기 시작했습니다. 기대를 모았던 골관절염... ADC 후보물질 개발 경험을 갖춘 강종수 전무를 영입해 ADC 독성·유효성 평가 역량을 강화하는 한편, 오가노이드 기술을 활용한...",
+          "src": "hitnews",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/629/0000518927?sid=102",
-          "img": "https://img.tf.co.kr/article/home/2026/07/22/2026186178489638700.jpg"
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77928",
+          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202607/77928_106195_2827_v150.jpg"
         }
       ]
     },
@@ -242,14 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "유럽 덮친 역대급 폭염… ‘에어컨 불모지’ 삼성-LG 새 격전지로",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736428?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359480.4.jpg"
-    },
-    {
-      "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
-      "url": "https://news.dealsitetv.com/articles/173743",
-      "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/06405b9022a236c47865a566f9302a54/thumb.jpg"
+      "title": "반도체로 냉각하는 시대",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
+      "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
     },
     {
       "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
     },
     {
-      "title": "젠스파크, 한국 정식 진출… \"3년간 1억달러 투자\"",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3419755",
-      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419755_3529104_158_v150.jpg"
+      "title": "반도체로 냉각하는 시대",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
+      "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
     },
     {
-      "title": "[책의 향기]AI에 ‘생각을 넘긴’ 인간이 받은 대가",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736430?sid=103",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359366.4.jpg"
+      "title": "[일잘러AI] “데이터 뽑아주세요” 눈치 보고 줄 설 일 없다…뤼튼에는...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235399?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/07/24/2026072415591572614_l.jpg"
+    },
+    {
+      "title": "[제약·바이오 트렌드] 한미약품, AI로 '근육 늘리고 지방 줄이는' 비만...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153231",
+      "img": "https://www.ibabynews.com/news/photo/202607/153231_118390_013.jpg"
     }
   ]
 };
