@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 07:16",
+  "updatedAt": "2026.07.24 (금) 13:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,813",
-        "diff": "-86",
-        "rate": "-0.62%",
+        "value": "13,599",
+        "diff": "-214",
+        "rate": "-1.55%",
         "dir": "down",
         "avg": "13,552",
-        "avgDiff": "+261",
-        "avgRate": "+1.9%",
+        "avgDiff": "+47",
+        "avgRate": "+0.3%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "92.43",
-        "diff": "+0.24",
-        "rate": "+0.26%",
-        "dir": "up"
+        "value": "91.94",
+        "diff": "-0.25",
+        "rate": "-0.27%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,476.50",
-        "diff": "-2.50",
-        "rate": "-0.17%",
+        "value": "1,463.40",
+        "diff": "-13.10",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "901.38",
-        "diff": "-5.20",
-        "rate": "-0.57%",
+        "value": "893.38",
+        "diff": "-8.00",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.27",
-        "diff": "-0.02",
-        "rate": "-0.24%",
+        "value": "8.14",
+        "diff": "-0.13",
+        "rate": "-1.57%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.62",
-        "diff": "-0.01",
-        "rate": "-0.18%",
+        "value": "5.56",
+        "diff": "-0.06",
+        "rate": "-1.07%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.29",
-        "diff": "-0.03",
-        "rate": "-0.20%",
+        "value": "15.16",
+        "diff": "-0.13",
+        "rate": "-0.85%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“한국 증시 전체가 만신창이… 실적 멀쩡한데 주가 많이 떨어진 기업들...",
-          "desc": "삼성전자, SK하이닉스 등 메모리 반도체 고점론이 절대적인 영향을 미쳤다. 넉 달 전 미국-이란 전쟁으로... 휴대전화, 가전, 개인용 컴퓨터(PC) 등 소비경기와 밀접하게 연결돼 있었기 때문이다. 이익 증가율이 꺾인 뒤...",
-          "src": "동아일보",
+          "title": "에어비앤비, 한옥에 인공지능 기술 접목",
+          "desc": "에어비앤비는 서울 종로구 부암동 한옥 숙소 ‘웰컴 미스테익스 하우스’를 삼성전자의 인공지능 가전과 스마트싱스 기술을 적용한 체험 공간으로 새롭게 꾸몄다고 24일 밝혔다. 이번 협업은 한옥의 전통적인 공간에 첨단...",
+          "src": "naeil",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/037/0000038557?sid=101",
-          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/61/ad/38/6a61ad381255a0a0a0a.jpg"
+          "url": "https://www.naeil.com/news/read/596420?ref=naver",
+          "img": "https://wimg.naeil.com/paper/2026/07/24/20260724_01100115000002_M01.jpg"
         },
         {
-          "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
-          "desc": "-편집자 말 ◇ 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연내 출시 삼성전자, 인텔리전트... 대표적인 제품으로는 비쎌의 습식 청소기 '스팟클린 하이드로스팀 프로'가 꼽힌다. 95℃ 고온 스팀과 분사·세척...",
-          "src": "ibabynews",
-          "date": "07/23",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153130",
-          "img": "https://www.ibabynews.com/news/photo/202607/153130_118141_5342.jpg"
-        },
-        {
-          "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
-          "desc": "그러면서 노 사장은 삼성전자의 강력한 가전 생태계를 언급했다. 스마트폰을 비록한 워치, TV, 세탁기, 냉장고, 에어컨 등 다양한 디바이스로 고객의 일상 전반과 연결된 기업은 삼성전자가 거의 유일하다면서다. 노...",
-          "src": "lcnews",
-          "date": "07/23",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
-        },
-        {
-          "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
-          "desc": "삼성전자가 새롭게 출시한 폴더블 폰의 최고 용량 모델 가격이 처음으로 300만 원을 돌파했습니다. 최근... 전자기기 가격을 끌어올리는 이른바 '칩플레이션'이 본격화한 것입니다. [김대현/대학생 : 웬만한 냉장고나 그런...",
-          "src": "news",
+          "title": "“‘24시간 충전’ 로봇청소기 불안해요”…압구정 한양아파트 화재 ‘...",
+          "desc": "발열·타는 냄새 나면 즉시 사용 중단을 삼성전자, 로보락 등 국내외 로봇청소기 사용 설명서에 있는 안전을 위한 주의사항을 보면 충전 중 제품이 평소보다 뜨겁거나 타는 냄새, 연기, 배터리 팽창, 반복적인 충전 오류...",
+          "src": "매일경제",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005711701?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/24/news-p.v1.20260721.d7adbb6f85d4419c9d29b1aa12592fd5_R.png"
+        },
+        {
+          "title": "美 301조 관세 일단 한숨 돌린 산업계…'과잉생산'이 진짜 변수",
+          "desc": "냉장고·세탁기·건조기 등 일부 생활가전은 이미 제품에 포함된 철강 등에 232조 관세가 부과되고 있다. TV... 한국 기업뿐 아니라 일본과 유럽 등 주요 경쟁업체들도 미국의 관세 정책 영향을 함께 받는 데다, 삼성전자...",
+          "src": "아이뉴스24",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/031/0001044548?sid=101",
+          "img": "https://image.inews24.com/v1/1058276536e5d0.jpg"
+        },
+        {
+          "title": "'美 301조 관세' 한숨 돌렸지만…'관세 진화'에 韓 기업 셈법 복잡",
+          "desc": "일례로 삼성전자는 사우스캐롤라이나, LG전자는 테네시에서 세탁기 등 가전제품을 생산하고 있어 현지에서 생산해 판매하는 물량은 수입관세의 직접적인 영향을 받지 않는다. 배터리 업계 역시 미국 현지 생산능력을...",
+          "src": "뉴스1",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/421/0009077105?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/24/8023574/high.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[더벨][HD현대 AI 시프트] AI '컨트롤타워' 대표직속으로, AIX추진실 힘실...",
-          "desc": "단순히 AI 기술을 도입하기 위해서가 아니다. 조선업은 대표적인 노동집약 산업이다. 선박 한 척을... 진행되던 AI 사업을 통합적으로 운영할 수 있게 됐다. 출범 초기에는 AI센터와 DX센터를 중심으로 생성형 AI 활용과...",
-          "src": "더벨",
-          "date": "07/24",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221446094440101779",
-          "img": ""
-        },
-        {
           "title": "\"연구에만 몰두해요\"…임상의 반복 업무 돕는 AI",
-          "desc": "AMIST를 개발한 연구팀은 최근 열린 과학기술정보통신부가 주최하고 한국연구재단이 주관한 ‘2026 AI Co... 연구팀은 골관절염·요통 등 근골격계 질환 데이터를 활용해 의료 AI 플랫폼의 실제 임상 적용 가능성을...",
-          "src": "뉴시스",
+          "desc": "AMIST를 개발한 연구팀은 최근 열린 과학기술정보통신부가 주최하고 한국연구재단이 주관한 '2026 AI Co... 연구팀은 골관절염·요통 등 근골격계 질환 데이터를 활용해 의료 AI 플랫폼의 실제 임상 적용 가능성을...",
+          "src": "widedaily",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/003/0014085273?sid=102",
-          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194181_web.jpg"
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=298172",
+          "img": "https://cdn.widedaily.com/news/thumbnail/202607/298172_305753_646_v150.jpg"
         },
         {
-          "title": "[AI정책노트]정부, ‘에이전틱 AI’ 생태계 선점 속도…안전·실행·확산...",
-          "desc": "법령정보 활용성을 높인다는 계획입니다. 이번 회의 안건들은 에이전틱 AI를 단순 기술 과제가 아니라 생태계 과제로 다룬다는 점에서 맞물려 있습니다. 이니셔티브는 안전·실행·도입 전략을 제시하고, GPU...",
-          "src": "디지털데일리",
+          "title": "고려대-안암병원, 의료 AI 설명 ‘강건성’ 임상 타당성 입증",
+          "desc": "현장 도입이 어려웠다. 최근 설명가능 인공지능(XAI) 기술이 발전하면서 AI의 판단 근거를 시각화하는... 데이터로 활용했다. 서로 다른 9가지 딥러닝 모델 구조와 8가지 설명 기법을 조합해 1만 건 이상의 대규모...",
+          "src": "medigatenews",
           "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/138/0002235258?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072317030023168_l.jpg"
+          "url": "https://www.medigatenews.com/news/1161945908",
+          "img": "https://medigatenews.com/file/news/513467"
         },
         {
-          "title": "[中 하드테크 IPO 빅뱅] ⑦'즈푸AI'. 3대 성장축 승부수의 기회∙한계",
-          "desc": "AI 도입 사업에서 최우선 공급업체로 꼽힌다. 이에 즈푸AI의 핵심 과제는 중국산 AI 대체 정책의 수혜와 정부·기업 고객 기반의 높은 신뢰를 활용해 B2B 시장의 입지를 더욱 공고히 하고, 기술 경쟁력을 기업용...",
-          "src": "뉴스핌",
+          "title": "인공지능이 바꾸는 인사권, 채용·평가·배치까지",
+          "desc": "기업에 필요한 것은 인공지능 도입 실적이 아니라 활용 기준이다. 어떤 업무에 적용하고, 판단 과정을 어디까지 공개하며, 오류나 차별이 발생했을 때 누가 책임질지를 정하는 일이 기술 도입보다 앞서야 한다. 장세풍·",
+          "src": "naeil",
           "date": "07/24",
-          "url": "https://www.newspim.com/news/view/20260723001009",
-          "img": "https://img.newspim.com/news/2026/07/23/2607230325468831_639_tc.jpg"
+          "url": "https://www.naeil.com/news/read/596429?ref=naver",
+          "img": "https://wimg.naeil.com/paper/2026/07/24/20260724_01100118000002_L01.jpg"
+        },
+        {
+          "title": "인공지능으로 배우는 전기·수소차 환경인증",
+          "desc": "인공지능(AI) 모델 교육’이 신규 도입됐다. 자동차 분야에 특화된 데이터 분석 및 인공지능 기술을 배울 수... 가상현실(VR) 기술을 활용한 실습을 통해 실제와 유사한 환경에서 전기차 배터리와 전기모터를 분해·조립하고...",
+          "src": "naeil",
+          "date": "07/24",
+          "url": "https://www.naeil.com/news/read/596387?ref=naver",
+          "img": "https://static.naeil.com/img/rect_logo.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "테슬라, 프리몬트 공장 옵티머스 1세대 라인 구축... 삼성 24조원 반도체...",
-          "desc": "소재·부품·장비 종목 투자자들에게 기회와 리스크를 동시에 제시하고 있다. 자동차 생산 라인을 축소하고 로봇에 역량을 쏟는 전략이 단기적인 주가 밸류에이션 변동성을 키우고 있으나, 삼성전자 파운드리를 축으로...",
-          "src": "g-enews",
+          "title": "갤럭시 언팩서 드러난 삼성의 반도체 셈법은",
+          "desc": "TSMC와 협력사 퀄컴이 주도하는 원가 상승 랠리의 악순환을 끊기 위해서다. 앞서 삼성전자는 플래그십... 제조사의 부품 원가(BOM) 부담이 가중되는 것으로 알려졌다. 삼성전자로선 성능 및 전성비의 상대적 열세라는...",
+          "src": "이데일리",
           "date": "07/24",
-          "url": "https://www.g-enews.com/view.php?ud=2026072320161219262bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260723201817025622bd56fbc3c21121419978.jpg"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360779",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202607/360779_295846_247_v150.jpg"
         },
         {
-          "title": "[주식마감] 국제유가 급등 소식에 SK이터닉스 상한가... 서울식품우, 지...",
-          "desc": "현재는 Actuator(OIS), 광학디바이스, 메타모빌리티 등을 주요 사업으로 영위하고 있으며, 삼성전자... 휴림에이텍은 지난 1993년 설립된 현대자동차 및 기아자동차의 1차 협력사로 자동차 내·외장재를 개발, 생산하는...",
-          "src": "ggilbo",
-          "date": "07/23",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1171113",
-          "img": "https://cdn.ggilbo.com/news/photo/202607/1171113_1023462_385.jpg"
+          "title": "삼성·현대차에는 '찬스'...\"찍어내질 못해\" 주가 15% 폭락, 머스크의 고...",
+          "desc": "머스크 CEO의 언급은 삼성전자와 현대차에는 추격의 여지를 남기고 있다. 자동차 산업에서 축적한 부품 표준화와 모듈화, 협력사 품질관리, 원가 절감, 대규모 공장 운영 경험은 휴머노이드 양산에도 활용할 수 있다....",
+          "src": "view",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/277/0005794189?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072409572557063_1784854649.jpg"
         },
         {
-          "title": "갤럭시Z 폴드8, 국내 가격 40% 이상 저렴…애플 폴더블폰 대비 '안방 사...",
-          "desc": "최적화와 부품 협력사와의 긴밀한 협력을 통해 비용 증가분을 최대한 흡수하고 있다고 설명했다. 다만 일부 비용 상승은 해외 판매 가격에 반영될 수밖에 없었다고 덧붙였다. 삼성은 갤럭시 Z 폴드8 울트라와 Z 폴드8...",
-          "src": "kbench",
-          "date": "07/23",
-          "url": "https://kbench.com/?q=node/280620",
+          "title": "[N% 성과급이 남긴 것]③이상민 한양대 교수…\"흑자와 적자에 같은 원칙...",
+          "desc": "이 교수는 \"인공지능(AI)이 어떻게 진화할지 모르고 고대역폭메모리(HBM) 기술 대응이 늦어 삼성전자가 고초를... 그는 \"반도체 산업과 관련된 중소기업의 인프라와 투자·정책금융·소재부품장비 기업을 지원하는 기금으로...",
+          "src": "view",
+          "date": "07/24",
+          "url": "https://n.news.naver.com/mnews/article/277/0005794153?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072215184054519_1784701120.jpg"
+        },
+        {
+          "title": "애플 '폴더블 아이폰' 출시 시기 여전히 불투명, 삼성전자 갤럭시Z폴드...",
+          "desc": "애플의 첫 폴더블 아이폰이 양산 차질로 예정보다 늦게 출시되면 삼성전자 '갤럭시Z폴드8'과 경쟁에 약점을... 애플의 여러 제조 협력사 가운데 폭스콘이 유일하게 아이폰 울트라 양산 목표를 달성할 것으로 전망된다는...",
+          "src": "비즈니스포스트",
+          "date": "07/24",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443038",
           "img": ""
-        },
-        {
-          "title": "2분기 반도체 '훈풍'타고 0.6% 성장…3분기 '노사 갈등·파업' 악재 넘을...",
-          "desc": "삼성전자 초기업노조는 호남 반도체 메가프로젝트를 내년도 교섭 의제로 다룰 것을 예고하는 등 사측과 또 한번 대립할 가능성이 커지고 있습니다. 대기업 노조의 파업과 생산 중단은 협력사의 설비투자와 고용...",
-          "src": "MBN",
-          "date": "07/23",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005885835",
-          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/07/23/20260723162647_10_103_0_MM1005885835_4_116.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“한국 증시 전체가 만신창이… 실적 멀쩡한데 주가 많이 떨어진 기업들...",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038557?sid=101",
-      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/61/ad/38/6a61ad381255a0a0a0a.jpg"
+      "title": "에어비앤비, 한옥에 인공지능 기술 접목",
+      "url": "https://www.naeil.com/news/read/596420?ref=naver",
+      "img": "https://wimg.naeil.com/paper/2026/07/24/20260724_01100115000002_M01.jpg"
     },
     {
-      "title": "[가전 트렌드] 삼성전자, AI 안경 '인텔리전트 아이웨어' 추가 공개…연...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153130",
-      "img": "https://www.ibabynews.com/news/photo/202607/153130_118141_5342.jpg"
+      "title": "“‘24시간 충전’ 로봇청소기 불안해요”…압구정 한양아파트 화재 ‘...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005711701?sid=102",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/24/news-p.v1.20260721.d7adbb6f85d4419c9d29b1aa12592fd5_R.png"
     },
     {
-      "title": "\"폴더블은 성숙기…갤럭시 Z8 시리즈는 새로운 기준\"",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205374",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202607/205374_207089_171.jpg"
+      "title": "美 301조 관세 일단 한숨 돌린 산업계…'과잉생산'이 진짜 변수",
+      "url": "https://n.news.naver.com/mnews/article/031/0001044548?sid=101",
+      "img": "https://image.inews24.com/v1/1058276536e5d0.jpg"
     },
     {
-      "title": "'칩플레이션'에 가격 '껑충'…스마트폰 300만 원 시대",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375011?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260724/202205218_1280.jpg"
+      "title": "'美 301조 관세' 한숨 돌렸지만…'관세 진화'에 韓 기업 셈법 복잡",
+      "url": "https://n.news.naver.com/mnews/article/421/0009077105?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/7/24/8023574/high.jpg"
     },
     {
       "title": "\"연구에만 몰두해요\"…임상의 반복 업무 돕는 AI",
-      "url": "https://n.news.naver.com/mnews/article/003/0014085273?sid=102",
-      "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0002194181_web.jpg"
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=298172",
+      "img": "https://cdn.widedaily.com/news/thumbnail/202607/298172_305753_646_v150.jpg"
     },
     {
-      "title": "[AI정책노트]정부, ‘에이전틱 AI’ 생태계 선점 속도…안전·실행·확산...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235258?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072317030023168_l.jpg"
+      "title": "고려대-안암병원, 의료 AI 설명 ‘강건성’ 임상 타당성 입증",
+      "url": "https://www.medigatenews.com/news/1161945908",
+      "img": "https://medigatenews.com/file/news/513467"
     }
   ]
 };
