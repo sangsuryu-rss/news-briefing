@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 23:50",
+  "updatedAt": "2026.07.25 (토) 03:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-24",
+    "asOf": "2026-07-25",
     "items": [
       {
         "label": "LME 구리",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "89.79",
-        "diff": "-2.40",
-        "rate": "-2.60%",
+        "value": "88.85",
+        "diff": "-3.34",
+        "rate": "-3.62%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,460.90",
-        "diff": "-15.60",
-        "rate": "-1.06%",
+        "value": "1,461.00",
+        "diff": "-15.50",
+        "rate": "-1.05%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "892.18",
-        "diff": "-9.20",
-        "rate": "-1.02%",
+        "value": "891.86",
+        "diff": "-9.52",
+        "rate": "-1.06%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "KBS ‘추적 60분’, 반도체 성과급이 만든 새로운 계급사회 추적",
-          "desc": "방송은 메모리 반도체를 담당하는 DS부문 직원들의 성과급과 스마트폰·가전 등을 담당하는 DX부문 직원들의 성과급이 최대 100배 가까이 벌어질 수 있다고 전한다. 같은 삼성전자 직원이고 직급도 비슷하지만 어느...",
-          "src": "wikitree",
-          "date": "07/24",
-          "url": "https://www.wikitree.co.kr/articles/1148252",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/img_20260724122712_7549cc90.jpg"
+          "title": "유럽 덮친 역대급 폭염… ‘에어컨 불모지’ 삼성-LG 새 격전지로",
+          "desc": "다만 허가 절차를 피하려는 방편일 뿐이라 삼성전자와 LG전자 등 국내 가전회사들은 다양한 냉방기기 대안으로 시장 확보에 나서고 있다. 실외기 한 대로 수십 대를 돌릴 수 있는 시스템에어컨, 낡은 보일러를 대체하는...",
+          "src": "동아일보",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/020/0003736428?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359480.4.jpg"
         },
         {
           "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
@@ -99,7 +99,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/24",
           "url": "https://news.dealsitetv.com/articles/173743",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/06405b9022a236c47865a566f9302a54/thumb.jpg"
         },
         {
           "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "퇴원환자 중심 방문재활 확대될까···장애인·노인 위한 '지역사회 상...",
-          "desc": "하반기 도입될 예정이다. 제도의 성패는 방문 횟수를 늘리는 데 그치지 않고 환자별 치료 목표와 안전·책임... 정보통신기술을 활용한 원격지도를 받아 의료기관 밖에서 업무를 수행하도록 하는 개정안이 계류돼 있다. 다만...",
-          "src": "womaneconomy",
-          "date": "07/24",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256538",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256538_461184_619_v150.jpg"
+          "title": "젠스파크, 한국 정식 진출… \"3년간 1억달러 투자\"",
+          "desc": "차세대 AI 업무 환경 비전을 공개했다. 이날 행사에는 웬 상 최고운영책임자(COO), 케이 주 최고기술책임자... 그는 \"한국의 AI 도입 열기와 절박함은 실리콘밸리에서도 보기 어려울 정도\"라며 \"문제는 AI 자체가 아니라...",
+          "src": "newscj",
+          "date": "07/25",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3419755",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3419755_3529104_158_v150.jpg"
         },
         {
-          "title": "토스증권, '연금저축계좌' 출시 外",
-          "desc": "특히 기존 외부 제작 중심 운영 방식에서 벗어나 2024년부터 생성형 AI를 선제적으로 도입해 최신 트렌드에... (비찌)를 활용해 금융의 이해도를 높여 MZ세대 고객과 소통 노력을 지속한 점도 인정받았다. 또한 AI 기술을...",
-          "src": "rcast",
-          "date": "07/24",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31338",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31338_60629_578_v150.jpg"
+          "title": "[책의 향기]AI에 ‘생각을 넘긴’ 인간이 받은 대가",
+          "desc": "미국에서 널리 쓰이는 데이팅 앱 힌지(Hinge)는 인공지능(AI)을 활용해 이용자의 메시지 작성을 돕는다.... 약 100년 전 지능검사가 도입된 이후 세계적으로 지능지수(IQ) 점수는 꾸준히 상승해 왔다. 그런데 이 점수가 최근...",
+          "src": "동아일보",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/020/0003736430?sid=103",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359366.4.jpg"
         },
         {
-          "title": "HD한국조선해양-지멘스, 'AI 조선소' 구축…차세대 플랫폼 계약",
-          "desc": "이번에 도입되는 차세대 마린 플랫폼은 선박 설계와 생산, 공급망 관리, 품질 관리, 유지보수에 이르는 건조 전 과정을 AI·디지털 기술을 활용해 3D 모델의 단일 데이터로 통합 관리하는 시스템이다. 이를 통해 모든 공정...",
-          "src": "smarttimes",
-          "date": "07/24",
-          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47570",
-          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47570_46186_2840_v150.jpg"
+          "title": "90% 할인 ‘땡처리’서 금맥 캐는 청년… “1700조원 글로벌 시장 노려”...",
+          "desc": "(Agentic AI)을 활용해 적합한 구매상을 찾아 효율적으로 판매하고 있다. 14일 경기 성남시 판교동 사무실에서... 최첨단 AI 기술로 뜯어고쳐 가고 있다는 데 있다. ● 구매상을 관리하고 매칭하는 ‘리맥스’ 버려질 뻔했던...",
+          "src": "동아일보",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/020/0003736397?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/25/134359531.5.jpg"
         },
         {
-          "title": "심평원-6개 국립대 치과병원, AI 기반 치의료 인프라 구축 협약 '체결'",
-          "desc": "인공지능(AI) 기술을 활용해 지역 간 치의료 격차 해소에 나서기 위한 협력이 추진된다. 24일 홍승권 심평원... 심평원과 국립대학치과병원은 필수 및 공공 치의료 인프라에 AI 기술을 도입하기로 뜻을 모았다. 앞으로...",
-          "src": "gukjenews",
-          "date": "07/24",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645779",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3645779_3811067_5949_v150.jpg"
+          "title": "자치구도 AI 앓이…현장 공무원 개발한 AI 툴로 업무혁신",
+          "desc": "AI 이용 증가세…이용 경험률 67% 자치구, 주민 교육부터 업무 활용까지 AI(인공지능)가 산업 현장을 넘어 사회 전반으로 빠르게 확산하면서 자치구도 앞다퉈 AI 행정 도입과 주민 교육에 뛰어들고 있다. 22일...",
+          "src": "더팩트",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/629/0000518927?sid=102",
+          "img": "https://img.tf.co.kr/article/home/2026/07/22/2026186178489638700.jpg"
         }
       ]
     },
@@ -242,9 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "KBS ‘추적 60분’, 반도체 성과급이 만든 새로운 계급사회 추적",
-      "url": "https://www.wikitree.co.kr/articles/1148252",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/img_20260724122712_7549cc90.jpg"
+      "title": "유럽 덮친 역대급 폭염… ‘에어컨 불모지’ 삼성-LG 새 격전지로",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736428?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359480.4.jpg"
+    },
+    {
+      "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
+      "url": "https://news.dealsitetv.com/articles/173743",
+      "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/06405b9022a236c47865a566f9302a54/thumb.jpg"
     },
     {
       "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
     },
     {
-      "title": "퇴원환자 중심 방문재활 확대될까···장애인·노인 위한 '지역사회 상...",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256538",
-      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256538_461184_619_v150.jpg"
+      "title": "젠스파크, 한국 정식 진출… \"3년간 1억달러 투자\"",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3419755",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3419755_3529104_158_v150.jpg"
     },
     {
-      "title": "토스증권, '연금저축계좌' 출시 外",
-      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31338",
-      "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31338_60629_578_v150.jpg"
-    },
-    {
-      "title": "HD한국조선해양-지멘스, 'AI 조선소' 구축…차세대 플랫폼 계약",
-      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47570",
-      "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47570_46186_2840_v150.jpg"
+      "title": "[책의 향기]AI에 ‘생각을 넘긴’ 인간이 받은 대가",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736430?sid=103",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134359366.4.jpg"
     }
   ]
 };
