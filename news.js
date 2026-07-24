@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.24 (금) 19:58",
+  "updatedAt": "2026.07.24 (금) 23:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "89.77",
-        "diff": "-2.42",
-        "rate": "-2.63%",
+        "value": "89.79",
+        "diff": "-2.40",
+        "rate": "-2.60%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,461.50",
-        "diff": "-15.00",
-        "rate": "-1.02%",
+        "value": "1,460.90",
+        "diff": "-15.60",
+        "rate": "-1.06%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "892.25",
-        "diff": "-9.13",
-        "rate": "-1.01%",
+        "value": "892.18",
+        "diff": "-9.20",
+        "rate": "-1.02%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "성과급 계급사회, 나만 가난해지고 있다?···‘6억 VS 600만 원’ 新 계...",
-          "desc": "메모리 반도체를 생산하는 DS부문의 경우 약 6억 원의 성과급을 받지만, 스마트폰과 가전 등을 담당하는 DX부문의 성과급은 약 600만 원에 불과하다. 같은 삼성전자 직원이라도 사업부에 따라 성과급이 100배 가까이 차이...",
-          "src": "sports",
+          "title": "KBS ‘추적 60분’, 반도체 성과급이 만든 새로운 계급사회 추적",
+          "desc": "방송은 메모리 반도체를 담당하는 DS부문 직원들의 성과급과 스마트폰·가전 등을 담당하는 DX부문 직원들의 성과급이 최대 100배 가까이 벌어질 수 있다고 전한다. 같은 삼성전자 직원이고 직급도 비슷하지만 어느...",
+          "src": "wikitree",
           "date": "07/24",
-          "url": "https://m.entertain.naver.com/article/144/0001127974",
-          "img": ""
+          "url": "https://www.wikitree.co.kr/articles/1148252",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/img_20260724122712_7549cc90.jpg"
         },
         {
           "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "남이섬, 'AI 숏폼 공모전' 전격 개최 ... \"메타세쿼이아길에 AI 상상을 입...",
-          "desc": "남이섬은 생성형 AI 기술을 활용해 자신만의 독창적인 관광 홍보 영상을 제작하는 '남이섬 AI 영상 광고 숏폼... 특히, 단순한 현장 촬영을 넘어, 영상 제작 과정의 전체 또는 일부에 생성형 AI 툴을 적극 도입해야 하는 점이...",
-          "src": "ttlnews",
+          "title": "퇴원환자 중심 방문재활 확대될까···장애인·노인 위한 '지역사회 상...",
+          "desc": "하반기 도입될 예정이다. 제도의 성패는 방문 횟수를 늘리는 데 그치지 않고 환자별 치료 목표와 안전·책임... 정보통신기술을 활용한 원격지도를 받아 의료기관 밖에서 업무를 수행하도록 하는 개정안이 계류돼 있다. 다만...",
+          "src": "womaneconomy",
           "date": "07/24",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128645",
-          "img": "https://cdn.ttlnews.com/news/photo/202607/3128645_731390_283.jpg"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256538",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256538_461184_619_v150.jpg"
         },
         {
-          "title": "HD한국조선해양, 미래 'AI 조선소'로 조선업 패러다임 전환 이끈다",
-          "desc": "플랫폼' 도입을 위한 본계약을 체결했다.(왼쪽부터) 김정관 산업통상부 장관, HD한국조선해양 김형관 대표... 공정을 AI·디지털 기술로 3D 모델의 단일 데이터로 통합, 전 단계에서 동일한 정보를 활용 가능토록 하는...",
-          "src": "AI타임스",
+          "title": "토스증권, '연금저축계좌' 출시 外",
+          "desc": "특히 기존 외부 제작 중심 운영 방식에서 벗어나 2024년부터 생성형 AI를 선제적으로 도입해 최신 트렌드에... (비찌)를 활용해 금융의 이해도를 높여 MZ세대 고객과 소통 노력을 지속한 점도 인정받았다. 또한 AI 기술을...",
+          "src": "rcast",
           "date": "07/24",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41152_61981_2153_v150.jpg"
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31338",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31338_60629_578_v150.jpg"
         },
         {
-          "title": "인텔, 18A 공정 수율 개선으로 파운드리 상업화 속도",
-          "desc": "인텔이 2026년 2분기 실적 발표에서 파운드리 사업의 기술력 성과를 공개했다. 인텔은 24일 공식... 네덜란드 반도체 장비 기업 ASML은 지난 15일 실적 발표회에서 인텔이 고해상도 극자외선 장비를 활용해 로직...",
-          "src": "g-enews",
+          "title": "HD한국조선해양-지멘스, 'AI 조선소' 구축…차세대 플랫폼 계약",
+          "desc": "이번에 도입되는 차세대 마린 플랫폼은 선박 설계와 생산, 공급망 관리, 품질 관리, 유지보수에 이르는 건조 전 과정을 AI·디지털 기술을 활용해 3D 모델의 단일 데이터로 통합 관리하는 시스템이다. 이를 통해 모든 공정...",
+          "src": "smarttimes",
           "date": "07/24",
-          "url": "https://www.g-enews.com/view.php?ud=202607241912237241fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072419183802001fbbec65dfb211211153121.jpg"
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47570",
+          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47570_46186_2840_v150.jpg"
         },
         {
-          "title": "XRP, 저항선 앞 주춤…1.5달러 향방은 거래량에 달렸다",
-          "desc": "새롭게 도입했다. 해당 업데이트는 발행 지연을 줄이고 정산 예측 가능성을 높이는 데 초점을 맞췄다.... 미국 증시는 대형 기술주 중심으로 약세를 보이며 투자심리가 위축됐다. 인공지능(AI) 관련 지출 우려와 관세...",
-          "src": "tokenpost",
+          "title": "심평원-6개 국립대 치과병원, AI 기반 치의료 인프라 구축 협약 '체결'",
+          "desc": "인공지능(AI) 기술을 활용해 지역 간 치의료 격차 해소에 나서기 위한 협력이 추진된다. 24일 홍승권 심평원... 심평원과 국립대학치과병원은 필수 및 공공 치의료 인프라에 AI 기술을 도입하기로 뜻을 모았다. 앞으로...",
+          "src": "gukjenews",
           "date": "07/24",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/380974",
-          "img": "https://f1.tokenpost.kr/2026/07/c3f7l4edyw.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645779",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202607/3645779_3811067_5949_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "아이폰 울트라, 폭스콘 최종조정에 한두 달 지연 가능성",
+          "desc": "앞서 삼성전자가 지난 22일(현지시각) 영국 런던에서 갤럭시 언팩 2026 행사를 열고 갤럭시 Z 폴드8 울트라... 업계 소식통 한 명은 폭스콘이 예상 생산 목표를 맞출 현실적 가능성을 가진 유일한 애플 협력사라고...",
+          "src": "wikitree",
+          "date": "07/24",
+          "url": "https://www.wikitree.co.kr/articles/1148355",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/202607242308201886_it.jpeg"
+        },
         {
           "title": "현대차, 생산 차질로 판매 주춤…아반떼·아이오닉3 '구원투수' 나선다",
           "desc": "지난 3월 협력사 화재로 인한 부품 공급 차질도 판매량에 영향을 끼쳤다. 현대차 경영진도 이 같은 상황을... 이는 2020년 삼성전자 이재용 회장과 정의선 회장이 직접 만나 논의했던 '배터리 동맹'의 첫 결실이기도 하다....",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/24",
           "url": "https://www.g-enews.com/view.php?ud=202607241449454760e250e8e188_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072414521903778e250e8e18810625224987.jpg"
-        },
-        {
-          "title": "갤럭시 언팩서 드러난 삼성의 반도체 셈법은",
-          "desc": "TSMC와 협력사 퀄컴이 주도하는 원가 상승 랠리의 악순환을 끊기 위해서다. 앞서 삼성전자는 플래그십... 제조사의 부품 원가(BOM) 부담이 가중되는 것으로 알려졌다. 삼성전자로선 성능 및 전성비의 상대적 열세라는...",
-          "src": "이데일리",
-          "date": "07/24",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360779",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202607/360779_295846_247_v150.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "KBS ‘추적 60분’, 반도체 성과급이 만든 새로운 계급사회 추적",
+      "url": "https://www.wikitree.co.kr/articles/1148252",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/img_20260724122712_7549cc90.jpg"
+    },
+    {
       "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
       "url": "https://www.asiatime.co.kr/article/20260724500327",
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/24/.cache/512/20260724500324.jpg"
@@ -252,24 +257,19 @@ window.NEWS_DATA = {
       "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
     },
     {
-      "title": "남이섬, 'AI 숏폼 공모전' 전격 개최 ... \"메타세쿼이아길에 AI 상상을 입...",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3128645",
-      "img": "https://cdn.ttlnews.com/news/photo/202607/3128645_731390_283.jpg"
+      "title": "퇴원환자 중심 방문재활 확대될까···장애인·노인 위한 '지역사회 상...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256538",
+      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256538_461184_619_v150.jpg"
     },
     {
-      "title": "HD한국조선해양, 미래 'AI 조선소'로 조선업 패러다임 전환 이끈다",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41152",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202607/41152_61981_2153_v150.jpg"
+      "title": "토스증권, '연금저축계좌' 출시 外",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31338",
+      "img": "https://cdn.rcast.co.kr/news/thumbnail/202607/31338_60629_578_v150.jpg"
     },
     {
-      "title": "인텔, 18A 공정 수율 개선으로 파운드리 상업화 속도",
-      "url": "https://www.g-enews.com/view.php?ud=202607241912237241fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072419183802001fbbec65dfb211211153121.jpg"
-    },
-    {
-      "title": "XRP, 저항선 앞 주춤…1.5달러 향방은 거래량에 달렸다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/380974",
-      "img": "https://f1.tokenpost.kr/2026/07/c3f7l4edyw.jpg"
+      "title": "HD한국조선해양-지멘스, 'AI 조선소' 구축…차세대 플랫폼 계약",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47570",
+      "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47570_46186_2840_v150.jpg"
     }
   ]
 };
