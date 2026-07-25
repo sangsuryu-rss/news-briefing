@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 12:59",
+  "updatedAt": "2026.07.25 (토) 16:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,25 +39,25 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,464.50",
-        "diff": "-12.00",
-        "rate": "-0.81%",
+        "value": "1,463.10",
+        "diff": "-13.40",
+        "rate": "-0.91%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "893.81",
-        "diff": "-7.57",
-        "rate": "-0.84%",
+        "value": "892.95",
+        "diff": "-8.43",
+        "rate": "-0.94%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.18",
-        "diff": "-0.09",
-        "rate": "-1.09%",
+        "value": "8.17",
+        "diff": "-0.10",
+        "rate": "-1.21%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.17",
-        "diff": "-0.12",
-        "rate": "-0.78%",
+        "value": "15.15",
+        "diff": "-0.14",
+        "rate": "-0.92%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 제품 사면 5% 돌려준다… 미국서 첫 갤럭시 카드 혜택은?",
-          "desc": "삼성전자가 스마트폰과 가전제품 판매에 카드 혜택을 결합해 이용자의 삼성 제품 재구매와 삼성월렛 사용을 동시에 끌어올리려는 전략이라는 분석이다. 로이터통신은 삼성 갤럭시 카드 출시로 삼성전자가 미국 결제...",
-          "src": "ggilbo",
+          "title": "반도체 편중 성장률보다 '청년 일자리·집값 안정' 중요하다",
+          "desc": "이것도 삼성전자가 반도체 초호황 성과를 나누겠다며 고객 구매액의 20%를 온누리상품권으로 지급하자 3조원 넘는 가전제품 소비가 일어난 영향이 컸다. 생산활동을 통해 벌어들인 소득의 구매력을 나타내는 실질...",
+          "src": "thescoop",
           "date": "07/25",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170494",
-          "img": "https://cdn.ggilbo.com/news/photo/202607/1170494_1022859_5233.png"
+          "url": "https://n.news.naver.com/mnews/article/665/0000007810?sid=101",
+          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311016_227507_732_v150.jpg"
         },
         {
           "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
         },
         {
-          "title": "[종합] 글로벌 빅테크 만난 李대통령, 'AI 네이티브 국가' 투자 유치 총...",
-          "desc": "SK하이닉스·삼성전자와 칩, 메모리 디자인 협력을 진행한다\"고 밝혔다. 또한 네이버 대규모 투자, 현대차그룹과의 자율주행·로보틱스 공동 개발, LG와의 발전 시스템·가전 AI 개발, 카이스트 협력 기반 'AI...",
-          "src": "뉴스핌",
+          "title": "여름철 냉장고는 ‘가득 채워야’ 이득? …의외로 모르는 보관법",
+          "desc": "이 때문에 삼성전자와 LG전자, 일본 파나소닉과 히타치 등 주요 제조사들은 냉장실은 약 60~70% 정도만 채워 냉기가 순환할 공간을 확보하는 것이 좋다고 권장한다. 냉장고 주변 환경도 냉각 성능에 영향을 준다. 냉장고는...",
+          "src": "khan",
           "date": "07/25",
-          "url": "https://www.newspim.com/news/view/20260725000044",
-          "img": "https://img.newspim.com/news/2026/07/25/2607251001455280_467_tc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003460305?sid=103",
+          "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "KB국민카드, 건전성·수익성 균형 잡았다…\"상반기 '내실 경영' 성과 입...",
-          "desc": "AI 기반 운영 모델을 중심으로 업무와 의사결정 체계를 재편하고, 코파일럿 도입과 데이터 재구조화를 통해 AI 활용을 실질적인 성과로 연결하고 있다. 동시에 투자 대비 효과(ROI)를 고려한 정보기술(IT) 투자와 클라우드...",
-          "src": "view",
+          "title": "삼성SDS, 앤트로픽과 손잡고 '클로드' 기반 기업용 AI 사업 확대",
+          "desc": "이번 협약으로 양사는 ▲국내 시장 신규 비즈니스 기회 공동 창출 ▲클로드 도입·운영 전문가인 응용형 AI... 생성형 AI 기술을 안전하고 효율적으로 활용하도록 돕고 있다. 삼성SDS는 글로벌 AI 기업과의 협력을...",
+          "src": "lcnews",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/277/0005794468?sid=101",
-          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205496",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202607/205496_207251_924.jpg"
         },
         {
-          "title": "LG, 피지컬 AI 시대 핵심 수혜주…로봇 생태계 완성 박차",
-          "desc": "피지컬 AI는 로봇과 자율기기, 스마트팩토리 등 실제 산업 현장에서 활용되는 기술이라는 점에서 성장... 중장기적으로는 제조업과 물류, 서비스 산업 전반에서 피지컬 AI 기반 로봇 도입이 확대될 것으로 예상되는 만큼...",
-          "src": "핀포인트뉴스",
+          "title": "삼성·SK·네이버, 글로벌 빅테크와 AI 동맹…9500억달러 협력 본격화",
+          "desc": "공정을 활용한 차세대 반도체 개발을 확대하기로 했다. 삼성전자는 HBM을 비롯한 최첨단 메모리 솔루션을 브로드컴 AI 가속기에 공급하고 첨단 파운드리와 패키징 기술을 결합한 원스톱 턴키 솔루션을 제공할...",
+          "src": "dealsite",
           "date": "07/25",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471442",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471442_459043_2236_v150.jpg"
+          "url": "https://dealsite.co.kr/articles/165962",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/25/47044d60a7594ef7b66352fa0d31fc96/thumb.jpg"
         },
         {
-          "title": "'HBM 세계 1위'…한국, AI 3강 도약 선언에 달렸다",
-          "desc": "AI 기술 개발뿐만 아니라 산업 현장으로의 확산 역시 과제로 꼽힌다. OECD 등 주요 기관이 측정한 국내 기업의 AI 도입률은 최근 큰 폭으로 증가하고 있으나, 250인 미만 중소기업의 경우 독일, 아일랜드 등 주요국보다...",
-          "src": "cwn",
+          "title": "삼성SDS, 앤트로픽과 첫 전략적 협력‥기업용 AI 확대",
+          "desc": "두 회사는 이번 협약을 통해 한국 시장에서 신규 사업 기회를 공동으로 발굴하고, 기업의 AI 도입과 활용을 지원하기로 했습니다. 구체적으로 공동 마케팅과 기술 검증, 합작 사업 등을 추진하며 국내 기업용 AI 시장...",
+          "src": "imnews",
           "date": "07/25",
-          "url": "https://www.cwn.kr/news/articleView.html?idxno=51339",
-          "img": "https://cdn.cwn.kr/news/photo/202607/51339_51311_3336.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001513873?sid=101",
+          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/07/25/jhp_20260725_11.jpg"
         },
         {
-          "title": "[김현우의 돌보다] 요양원 원장 불안 요소, '낙상' 예방하는 액자의 정...",
-          "desc": "만약 이런 얄팍한 꼼수로 기계를 도입한다면 그 요양원은 조만간 문을 닫게 될 것이다. 기계는 치매 어르신의... AI 시대를 만나 이런 방식이 더 쉽고 저렴해질 가능성이 생겼다. 다만 저는 이 지점에서 기술 낙관론에...",
-          "src": "womaneconomy",
+          "title": "오픈AI, 李대통령·삼성·SK 연쇄 회동…한국 AI 동맹 확대",
+          "desc": "AI 활용 확대를 추진하고 있다. 기업 AI 전환 넘어 공공·보안 협력 확대 오픈AI는 한국 공공 부문에서 한국전력공사와 한국수자원공사, 기술보증기금 등과 업무협약을 체결하고 각 기관의 AI 전환을 지원하고 있다....",
+          "src": "블로터",
           "date": "07/25",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256492",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256492_461147_2833_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000088097?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202607/668992_282014_3639_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 제품 사면 5% 돌려준다… 미국서 첫 갤럭시 카드 혜택은?",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170494",
-      "img": "https://cdn.ggilbo.com/news/photo/202607/1170494_1022859_5233.png"
+      "title": "반도체 편중 성장률보다 '청년 일자리·집값 안정' 중요하다",
+      "url": "https://n.news.naver.com/mnews/article/665/0000007810?sid=101",
+      "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311016_227507_732_v150.jpg"
     },
     {
       "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
     },
     {
-      "title": "[종합] 글로벌 빅테크 만난 李대통령, 'AI 네이티브 국가' 투자 유치 총...",
-      "url": "https://www.newspim.com/news/view/20260725000044",
-      "img": "https://img.newspim.com/news/2026/07/25/2607251001455280_467_tc.jpg"
+      "title": "여름철 냉장고는 ‘가득 채워야’ 이득? …의외로 모르는 보관법",
+      "url": "https://n.news.naver.com/mnews/article/032/0003460305?sid=103",
+      "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
     },
     {
-      "title": "KB국민카드, 건전성·수익성 균형 잡았다…\"상반기 '내실 경영' 성과 입...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794468?sid=101",
-      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+      "title": "삼성SDS, 앤트로픽과 손잡고 '클로드' 기반 기업용 AI 사업 확대",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205496",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202607/205496_207251_924.jpg"
     },
     {
-      "title": "LG, 피지컬 AI 시대 핵심 수혜주…로봇 생태계 완성 박차",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471442",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471442_459043_2236_v150.jpg"
+      "title": "삼성·SK·네이버, 글로벌 빅테크와 AI 동맹…9500억달러 협력 본격화",
+      "url": "https://dealsite.co.kr/articles/165962",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/25/47044d60a7594ef7b66352fa0d31fc96/thumb.jpg"
     }
   ]
 };
