@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 06:59",
+  "updatedAt": "2026.07.25 (토) 12:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,13 +19,13 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,599",
-        "diff": "-214",
-        "rate": "-1.55%",
-        "dir": "down",
+        "value": "13,654",
+        "diff": "+55",
+        "rate": "+0.40%",
+        "dir": "up",
         "avg": "13,552",
-        "avgDiff": "+47",
-        "avgRate": "+0.3%",
+        "avgDiff": "+102",
+        "avgRate": "+0.8%",
         "avgDir": "up"
       },
       {
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,461.50",
-        "diff": "-15.00",
-        "rate": "-1.02%",
+        "value": "1,464.50",
+        "diff": "-12.00",
+        "rate": "-0.81%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "891.95",
-        "diff": "-9.43",
-        "rate": "-1.05%",
+        "value": "893.81",
+        "diff": "-7.57",
+        "rate": "-0.84%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.16",
-        "diff": "-0.11",
-        "rate": "-1.33%",
+        "value": "8.18",
+        "diff": "-0.09",
+        "rate": "-1.09%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.56",
-        "diff": "-0.06",
-        "rate": "-1.07%",
+        "value": "5.57",
+        "diff": "-0.05",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.13",
-        "diff": "-0.16",
-        "rate": "-1.05%",
+        "value": "15.17",
+        "diff": "-0.12",
+        "rate": "-0.78%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체로 냉각하는 시대",
-          "desc": "·      초소형화: 거대한 컴프레서와 복잡한 배관을 줄일 수 있어 가전제품의 설계 자유도를 크게 넓힌다.... ·      CHESS(제어된 계층 구조의 초격자 구조): 삼성전자와 미국 존스홉킨스대학교 응용물리학연구소(APL)...",
-          "src": "abcn",
+          "title": "삼성 제품 사면 5% 돌려준다… 미국서 첫 갤럭시 카드 혜택은?",
+          "desc": "삼성전자가 스마트폰과 가전제품 판매에 카드 혜택을 결합해 이용자의 삼성 제품 재구매와 삼성월렛 사용을 동시에 끌어올리려는 전략이라는 분석이다. 로이터통신은 삼성 갤럭시 카드 출시로 삼성전자가 미국 결제...",
+          "src": "ggilbo",
           "date": "07/25",
-          "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
-          "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170494",
+          "img": "https://cdn.ggilbo.com/news/photo/202607/1170494_1022859_5233.png"
         },
         {
-          "title": "[재계 투데이] LG, 에티오피아 참전용사 후손들 ‘음악의 꿈’ 선물 外",
-          "desc": "◆로보락, Q레보 2 프로·F25 Steam 국내 출시 로보락은 로봇청소기 ‘Q레보 2 프로’와 진공 물걸레 청소기... ◆KT, 갤럭시 폴드8·플립8 체험공간 전국 운영 KT는 삼성전자의 폴더블 스마트폰 신제품 출시를 맞아 KT 온맞이...",
-          "src": "news",
-          "date": "07/24",
-          "url": "https://news.dealsitetv.com/articles/173743",
-          "img": ""
+          "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
+          "desc": "고가 로봇청소기가 시장에서 성능을 인정받으면서 소비자 인식도 많이 달라졌다\"며 \"중국 업체들이 냉장고와 세탁기, 에어컨으로 제품군을 넓히고 서비스망까지 강화하면 삼성전자와 LG전자도 국내 시장에서 이전보다...",
+          "src": "블로터",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/293/0000088088?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
         },
         {
-          "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
-          "desc": "에너지대상을 수상한 삼성전자 ‘비스포크 AI 무풍콤보 갤러리 프로’ 에어컨 라이프스타일 이미지. (사진... 올해 국내 시장에 첫선을 보인 'EHS 히트펌프 보일러'를 시작으로 △'비스포크 AI 콤보' 세탁건조기...",
-          "src": "아시아타임즈",
-          "date": "07/24",
-          "url": "https://www.asiatime.co.kr/article/20260724500327",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/24/.cache/512/20260724500324.jpg"
+          "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
+          "desc": "또 삼성전자가 구축하고 있는 비즈니스가 반도체만 있는 게 아니라 비반도체업이 있지 않습니까? 휴대폰, PC, 가전제품 이런 영역에도 AI PC로, AI 냉장고로, AI 세탁기로 다 피지컬 AI거든요. 이런 방향으로 한 발 더...",
+          "src": "ytn",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
         },
         {
-          "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'",
-          "desc": "삼성전자 가전 판매와 연계한 할인·무이자 할부 혜택이 삼성카드 결제 수요를 늘린 것으로 분석된다.... 삼성카드와 KB국민카드로 결제하면 7% 할인과 최대 12개월 무이자 할부 혜택도 제공했다. TV 냉장고 세탁기 등...",
-          "src": "한국경제",
-          "date": "07/24",
-          "url": "https://n.news.naver.com/mnews/article/015/0005313649?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
+          "title": "[종합] 글로벌 빅테크 만난 李대통령, 'AI 네이티브 국가' 투자 유치 총...",
+          "desc": "SK하이닉스·삼성전자와 칩, 메모리 디자인 협력을 진행한다\"고 밝혔다. 또한 네이버 대규모 투자, 현대차그룹과의 자율주행·로보틱스 공동 개발, LG와의 발전 시스템·가전 AI 개발, 카이스트 협력 기반 'AI...",
+          "src": "뉴스핌",
+          "date": "07/25",
+          "url": "https://www.newspim.com/news/view/20260725000044",
+          "img": "https://img.newspim.com/news/2026/07/25/2607251001455280_467_tc.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "반도체로 냉각하는 시대",
-          "desc": "펠티어 기술이 그동안 대형 가전에 전면 도입되지 못했던 이유는 명확하다. 바로 낮은 열효율(COP... 폐열 회수와 에너지 하베스팅 기술에 활용 ·      증기 압축 방식(Vapor Compression): 기체 상태의 냉매를 압축·응축...",
-          "src": "abcn",
+          "title": "KB국민카드, 건전성·수익성 균형 잡았다…\"상반기 '내실 경영' 성과 입...",
+          "desc": "AI 기반 운영 모델을 중심으로 업무와 의사결정 체계를 재편하고, 코파일럿 도입과 데이터 재구조화를 통해 AI 활용을 실질적인 성과로 연결하고 있다. 동시에 투자 대비 효과(ROI)를 고려한 정보기술(IT) 투자와 클라우드...",
+          "src": "view",
           "date": "07/25",
-          "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
-          "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005794468?sid=101",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         },
         {
-          "title": "[일잘러AI] “데이터 뽑아주세요” 눈치 보고 줄 설 일 없다…뤼튼에는...",
-          "desc": "이 개발자는 “사람마다 일을 포기하게 되는 문턱이 있는데 에이전트 AI를 활용하면 그 문턱을 크게 낮출 수... 이 개발자는 우선 뤼튼테크놀로지스가 어떤 정보기술(IT) 인프라를 쓰는지 조사했습니다. 구글 클라우드의...",
-          "src": "디지털데일리",
+          "title": "LG, 피지컬 AI 시대 핵심 수혜주…로봇 생태계 완성 박차",
+          "desc": "피지컬 AI는 로봇과 자율기기, 스마트팩토리 등 실제 산업 현장에서 활용되는 기술이라는 점에서 성장... 중장기적으로는 제조업과 물류, 서비스 산업 전반에서 피지컬 AI 기반 로봇 도입이 확대될 것으로 예상되는 만큼...",
+          "src": "핀포인트뉴스",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/138/0002235399?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/24/2026072415591572614_l.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471442",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471442_459043_2236_v150.jpg"
         },
         {
-          "title": "[제약·바이오 트렌드] 한미약품, AI로 '근육 늘리고 지방 줄이는' 비만...",
-          "desc": "◇ 성모윌병원, AI 스마트병상 '씽크' 도입…척추·관절 수술환자 안전관리 강화 성모윌병원, 대웅제약과... 전반의 기술 변화와 AI 활용 방향을 논의한다. 코젠바이오텍은 이번 참가를 통해 기존 식품위생·안전...",
-          "src": "ibabynews",
+          "title": "'HBM 세계 1위'…한국, AI 3강 도약 선언에 달렸다",
+          "desc": "AI 기술 개발뿐만 아니라 산업 현장으로의 확산 역시 과제로 꼽힌다. OECD 등 주요 기관이 측정한 국내 기업의 AI 도입률은 최근 큰 폭으로 증가하고 있으나, 250인 미만 중소기업의 경우 독일, 아일랜드 등 주요국보다...",
+          "src": "cwn",
           "date": "07/25",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153231",
-          "img": "https://www.ibabynews.com/news/photo/202607/153231_118390_013.jpg"
+          "url": "https://www.cwn.kr/news/articleView.html?idxno=51339",
+          "img": "https://cdn.cwn.kr/news/photo/202607/51339_51311_3336.jpg"
         },
         {
-          "title": "새 정책에 묻어가려던 약 양도양수, 급변침... '고배' 마신 TG-C",
-          "desc": "계기로 '미프진' 도입 논의는 다시 속도를 내기 시작했습니다. 기대를 모았던 골관절염... ADC 후보물질 개발 경험을 갖춘 강종수 전무를 영입해 ADC 독성·유효성 평가 역량을 강화하는 한편, 오가노이드 기술을 활용한...",
-          "src": "hitnews",
+          "title": "[김현우의 돌보다] 요양원 원장 불안 요소, '낙상' 예방하는 액자의 정...",
+          "desc": "만약 이런 얄팍한 꼼수로 기계를 도입한다면 그 요양원은 조만간 문을 닫게 될 것이다. 기계는 치매 어르신의... AI 시대를 만나 이런 방식이 더 쉽고 저렴해질 가능성이 생겼다. 다만 저는 이 지점에서 기술 낙관론에...",
+          "src": "womaneconomy",
           "date": "07/25",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77928",
-          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202607/77928_106195_2827_v150.jpg"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256492",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202607/256492_461147_2833_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
+          "desc": "[김광석] 이 기업들은 어찌 보면 경쟁사이자 협력사. 한자리에서 모이기는 쉽지 않아요. 쭉 나열되어 있는데... 왜냐하면 삼성전자에 부품을 공급하는 밴더사들, 그 밴더사들에 제품을 공급하는 수많은 중소기업들. 이게...",
+          "src": "ytn",
+          "date": "07/25",
+          "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
+        },
         {
           "title": "아이폰 울트라, 폭스콘 최종조정에 한두 달 지연 가능성",
           "desc": "앞서 삼성전자가 지난 22일(현지시각) 영국 런던에서 갤럭시 언팩 2026 행사를 열고 갤럭시 Z 폴드8 울트라... 업계 소식통 한 명은 폭스콘이 예상 생산 목표를 맞출 현실적 가능성을 가진 유일한 애플 협력사라고...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/24",
           "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127333",
           "img": "https://cdn.dailysmart.co.kr/news/photo/202607/127333_126698_2836.jpg"
-        },
-        {
-          "title": "중국 반도체 '쌍둥이 별' CXMT·YMTC, AI 붐 타고 몸집 부풀리기",
-          "desc": "급기야 지난 6월 안후이성 허페이의 CXMT 공장 클린룸에서 연구개발(R&D)을 돕던 화웨이 협력사... 심지어 최신 서버용 DDR5 메모리 모듈 가격을 한국의 삼성전자 제품보다 높게 책정했음에도 중국 국내 기업들이 울며...",
-          "src": "g-enews",
-          "date": "07/24",
-          "url": "https://www.g-enews.com/view.php?ud=202607241449454760e250e8e188_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072414521903778e250e8e18810625224987.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체로 냉각하는 시대",
-      "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
-      "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
+      "title": "삼성 제품 사면 5% 돌려준다… 미국서 첫 갤럭시 카드 혜택은?",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170494",
+      "img": "https://cdn.ggilbo.com/news/photo/202607/1170494_1022859_5233.png"
     },
     {
-      "title": "AI 시대 가전 경쟁력은 '전력 효율'…삼성·LG 기술력 주목",
-      "url": "https://www.asiatime.co.kr/article/20260724500327",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/24/.cache/512/20260724500324.jpg"
+      "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088088?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
     },
     {
-      "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313649?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/99.10925536.1.jpg"
+      "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
+      "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
     },
     {
-      "title": "반도체로 냉각하는 시대",
-      "url": "https://www.abcn.kr/news/articleView.html?idxno=89768",
-      "img": "https://cdn.abcn.kr/news/thumbnail/202607/89768_47297_4626_v150.jpg"
+      "title": "[종합] 글로벌 빅테크 만난 李대통령, 'AI 네이티브 국가' 투자 유치 총...",
+      "url": "https://www.newspim.com/news/view/20260725000044",
+      "img": "https://img.newspim.com/news/2026/07/25/2607251001455280_467_tc.jpg"
     },
     {
-      "title": "[일잘러AI] “데이터 뽑아주세요” 눈치 보고 줄 설 일 없다…뤼튼에는...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235399?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/07/24/2026072415591572614_l.jpg"
+      "title": "KB국민카드, 건전성·수익성 균형 잡았다…\"상반기 '내실 경영' 성과 입...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794468?sid=101",
+      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
     },
     {
-      "title": "[제약·바이오 트렌드] 한미약품, AI로 '근육 늘리고 지방 줄이는' 비만...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153231",
-      "img": "https://www.ibabynews.com/news/photo/202607/153231_118390_013.jpg"
+      "title": "LG, 피지컬 AI 시대 핵심 수혜주…로봇 생태계 완성 박차",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471442",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471442_459043_2236_v150.jpg"
     }
   ]
 };
