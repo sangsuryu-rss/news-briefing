@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 19:23",
+  "updatedAt": "2026.07.25 (토) 23:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 편중 성장률보다 '청년 일자리·집값 안정' 중요하다",
-          "desc": "이것도 삼성전자가 반도체 초호황 성과를 나누겠다며 고객 구매액의 20%를 온누리상품권으로 지급하자 3조원 넘는 가전제품 소비가 일어난 영향이 컸다. 생산활동을 통해 벌어들인 소득의 구매력을 나타내는 실질...",
-          "src": "thescoop",
+          "title": "전남광주특별시, 기아오토랜드 광주·삼성전자와 폭염 속 취약계층 지원",
+          "desc": "행사에는 ▲황기연 행정부시장 ▲김승현 기아 오토랜드 광주 안전시설실장 ▲정혁준 삼성전자 생활가전 광주지원센터장 ▲구제길 광주사회복지공동모금회장과 지역사회보장협의체·지역아동센터·경로당 관계자 등...",
+          "src": "namdonews",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/665/0000007810?sid=101",
-          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311016_227507_732_v150.jpg"
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=917943",
+          "img": "https://cdn.namdonews.com/news/photo/202607/917943_622246_3517.jpg"
         },
         {
           "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오픈AI, 한국과 전략적 협력 확대…이재명 대통령·삼성·SK와 AI 동맹 강...",
-          "desc": "Edu)'를 도입해 AI 기반 교육 환경 구축에 나섰다. 공공 분야에서는 한국전력공사와 한국수자원공사, 기술... 오픈AI의 사이버 보안 프로그램인 '데이브레이크(Daybreak)'를 활용할 수 있도록 지원하는 '한국 사이버 액션...",
-          "src": "efnews",
+          "title": "[이진상의 인사이드 아프리카] 다극화 시대, 아프리카 지역주의와 과제",
+          "desc": "군사 정권이 정치적 조건 없이 중국이나 러시아로부터 군사 장비를 손쉽게 도입할 수 있는 상황에서... 글로벌AI 모델의 원자재로 추출되어 활용되는 것을 방지하고, 자국 기술 생태계를 위한 디지털 권익을...",
+          "src": "아주경제",
           "date": "07/25",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131206",
-          "img": "http://www.efnews.co.kr/news/photo/202607/131206_117883_354.jpg"
+          "url": "https://www.ajunews.com/view/20260709162914325",
+          "img": "https://image.ajunews.com/content/image/2024/11/05/20241105103218418971.jpg"
         },
         {
-          "title": "SK, 엔비디아·MS·AWS와 AI 인프라 동맹 확대…글로벌 빅테크와 협력 본...",
-          "desc": "여기에 SK하이닉스의 HBM4가 적용된 차세대 AI 컴퓨팅 시스템 '베라 루빈(Vera Rubin)'을 도입해 2027년부터... 양사는 SK텔레콤의 데이터센터 구축·운영 역량과 AWS의 클라우드 및 AI 기술력을 결합해 국내 주요 거점으로...",
-          "src": "efnews",
+          "title": "이재용, 美 AI 설계·韓 반도체 묶는다…브로드컴과 2000억달러 협력",
+          "desc": "발전시키고 활용하느냐에 따라 우리 앞에 얼마나 다른 미래가 펼쳐질 수 있는지를 보여주고 있다\"고 설명했다. 이어 \"인류가 일하고 생각하고 살아가는 방식이 송두리째 바뀌고 있다\"며 AI 기술을 둘러싼 산업과 사회의...",
+          "src": "apnews",
           "date": "07/25",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131205",
-          "img": "http://www.efnews.co.kr/news/photo/202607/131205_117881_1744.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050030",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050030_82302_2336_v150.jpg"
         },
         {
-          "title": "삼성SDS, 앤트로픽과 국내 기업 AI 시장 공략…'클로드' 기반 AX 사업 확...",
-          "desc": "있는 '응용형 AI 엔지니어(Applied AI Engineer)' 양성에도 나선다. 해당 전문 인력은 클로드 도입 기획부터... 구축하고, 기업 고객이 최신 생성형 AI 기술을 활용할 수 있도록 지원하고 있다. [파이낸셜신문=황병우 기자]",
-          "src": "efnews",
+          "title": "삼성전자, 브로드컴과 2030년까지 2000억 달러 규모 '전략적 협력'",
+          "desc": "자체 AI 가속기(ASIC) 도입이 빠르게 확대되는 가운데, 이번 협력은 커스텀 반도체 설계 분야를 선도하는 브로드컴과 메모리·제조·패키징 기술을 아우르는 삼성전자의 역량을 결합해 차세대 AI 반도체 경쟁력을...",
+          "src": "livesnews",
           "date": "07/25",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131204",
-          "img": "http://www.efnews.co.kr/news/photo/202607/131204_117880_519.jpg"
+          "url": "https://www.livesnews.com/news/article.html?no=62924",
+          "img": "https://www.livesnews.com/data/design/logo/default_image_share_20250123151746.jpg"
         },
         {
-          "title": "구리시, 간부 공무원 AI 디지털 리더십 교육",
-          "desc": "활용한 정책 발굴과 중장기 계획 수립, 공공데이터 분석을 통한 행정 의사결정, 디지털 리더십, AI 도입에... 디지털 기술을 얼마나 효과적으로 활용하느냐에 달려 있다\"라며 \"간부 공무원들이 AI를 적극 활용해 업무...",
-          "src": "job-post",
+          "title": "韓美 빅테크, 1천400조원 AI 동맹…삼성·SK·네이버·현대차, 엔비디아...",
+          "desc": "청와대와 과학기술정보통신부, 한미 기업들은 24일(현지시간) 미국 샌프란시스코에서 열린 '샌프란시스코... 공정을 활용한 AI 반도체 생산 협력도 확대할 계획이다. 삼성SDS는 앤트로픽과 전략적 파트너십을...",
+          "src": "livebiz",
           "date": "07/25",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=222113",
-          "img": "https://cdn.job-post.co.kr/news/photo/202607/222113_324525_1427.jpg"
+          "url": "https://www.livebiz.today/news/articleView.html?idxno=203588",
+          "img": "https://cdn.livebiz.today/news/photo/202607/203588_204725_455.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 편중 성장률보다 '청년 일자리·집값 안정' 중요하다",
-      "url": "https://n.news.naver.com/mnews/article/665/0000007810?sid=101",
-      "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311016_227507_732_v150.jpg"
+      "title": "전남광주특별시, 기아오토랜드 광주·삼성전자와 폭염 속 취약계층 지원",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=917943",
+      "img": "https://cdn.namdonews.com/news/photo/202607/917943_622246_3517.jpg"
     },
     {
       "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
     },
     {
-      "title": "오픈AI, 한국과 전략적 협력 확대…이재명 대통령·삼성·SK와 AI 동맹 강...",
-      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131206",
-      "img": "http://www.efnews.co.kr/news/photo/202607/131206_117883_354.jpg"
+      "title": "[이진상의 인사이드 아프리카] 다극화 시대, 아프리카 지역주의와 과제",
+      "url": "https://www.ajunews.com/view/20260709162914325",
+      "img": "https://image.ajunews.com/content/image/2024/11/05/20241105103218418971.jpg"
     },
     {
-      "title": "SK, 엔비디아·MS·AWS와 AI 인프라 동맹 확대…글로벌 빅테크와 협력 본...",
-      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131205",
-      "img": "http://www.efnews.co.kr/news/photo/202607/131205_117881_1744.jpg"
+      "title": "이재용, 美 AI 설계·韓 반도체 묶는다…브로드컴과 2000억달러 협력",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050030",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050030_82302_2336_v150.jpg"
     }
   ]
 };
