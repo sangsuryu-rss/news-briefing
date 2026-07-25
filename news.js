@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 23:27",
+  "updatedAt": "2026.07.26 (일) 02:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[이진상의 인사이드 아프리카] 다극화 시대, 아프리카 지역주의와 과제",
-          "desc": "군사 정권이 정치적 조건 없이 중국이나 러시아로부터 군사 장비를 손쉽게 도입할 수 있는 상황에서... 글로벌AI 모델의 원자재로 추출되어 활용되는 것을 방지하고, 자국 기술 생태계를 위한 디지털 권익을...",
-          "src": "아주경제",
-          "date": "07/25",
-          "url": "https://www.ajunews.com/view/20260709162914325",
-          "img": "https://image.ajunews.com/content/image/2024/11/05/20241105103218418971.jpg"
+          "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축",
+          "desc": "최태원 SK 회장은 \"AI 시대의 경쟁력은 AI를 얼마나 잘 활용하느냐를 넘어, 얼마나 많은 지능을... 시스템을 도입해 2027년부터 국내 최대 2기가와트(GW) 규모의 AI 팩토리를 구축할 예정이다. SK하이닉스는 엔비디아와...",
+          "src": "디지털데일리",
+          "date": "07/26",
+          "url": "https://n.news.naver.com/mnews/article/138/0002235428?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/07/26/2026072602014517946_l.jpg"
         },
         {
-          "title": "이재용, 美 AI 설계·韓 반도체 묶는다…브로드컴과 2000억달러 협력",
-          "desc": "발전시키고 활용하느냐에 따라 우리 앞에 얼마나 다른 미래가 펼쳐질 수 있는지를 보여주고 있다\"고 설명했다. 이어 \"인류가 일하고 생각하고 살아가는 방식이 송두리째 바뀌고 있다\"며 AI 기술을 둘러싼 산업과 사회의...",
+          "title": "李, '샌프란시스코 AI 선언' 발표…\"韓, 글로벌 AI 허브 구축\"",
+          "desc": "이어 올해 말부터 5000만 국민이 함께 활용하는 '모두의 AI' 프로젝트를 본격적으로 추진해 행정과 복지, 교육 등 공공서비스 전반에 AI를 적극 도입하겠다는 계획도 밝혔다. 또 \"여러분의 기술과 아이디어를 가장...",
+          "src": "enewstoday",
+          "date": "07/26",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2452471_1291585_5833_v150.jpg"
+        },
+        {
+          "title": "이해진, '글로벌 AI 팩토리' 전환점 열었다…엔비디아·브룩필드 14조 베...",
+          "desc": "데이터센터 기술 및 운영 경험을 글로벌 AI 인프라 사업으로 확장하는 전환점이 될 것이란 전망이... 네이버는 브룩필드의 자본 조달력과 전력·데이터센터 투자 경험을 활용해 AI 팩토리 구축 속도를 높일 계획이다....",
           "src": "apnews",
-          "date": "07/25",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050030",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050030_82302_2336_v150.jpg"
+          "date": "07/26",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050033",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050033_82305_101_v150.jpg"
         },
         {
-          "title": "삼성전자, 브로드컴과 2030년까지 2000억 달러 규모 '전략적 협력'",
-          "desc": "자체 AI 가속기(ASIC) 도입이 빠르게 확대되는 가운데, 이번 협력은 커스텀 반도체 설계 분야를 선도하는 브로드컴과 메모리·제조·패키징 기술을 아우르는 삼성전자의 역량을 결합해 차세대 AI 반도체 경쟁력을...",
-          "src": "livesnews",
-          "date": "07/25",
-          "url": "https://www.livesnews.com/news/article.html?no=62924",
-          "img": "https://www.livesnews.com/data/design/logo/default_image_share_20250123151746.jpg"
-        },
-        {
-          "title": "韓美 빅테크, 1천400조원 AI 동맹…삼성·SK·네이버·현대차, 엔비디아...",
-          "desc": "청와대와 과학기술정보통신부, 한미 기업들은 24일(현지시간) 미국 샌프란시스코에서 열린 '샌프란시스코... 공정을 활용한 AI 반도체 생산 협력도 확대할 계획이다. 삼성SDS는 앤트로픽과 전략적 파트너십을...",
-          "src": "livebiz",
-          "date": "07/25",
-          "url": "https://www.livebiz.today/news/articleView.html?idxno=203588",
-          "img": "https://cdn.livebiz.today/news/photo/202607/203588_204725_455.jpg"
+          "title": "SK, 엔비디아와 5000억달러 AI 동맹…최태원 \"한국을 AI 인프라 허브로\"",
+          "desc": "AI 인프라 구축을 추진하는 내용의 의향서(LOI)를 체결했다. AI 팩토리 건설과 그래픽처리장치(GPU) 도입... 그는 프로젝트 성공을 위한 과제로 국민 1인당 최소 하나의 AI 에이전트를 활용하는 'AI 네이티브 국가' 구현과...",
+          "src": "wolyo",
+          "date": "07/26",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202607/315585_221722_010.jpg"
         }
       ]
     },
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
     },
     {
-      "title": "[이진상의 인사이드 아프리카] 다극화 시대, 아프리카 지역주의와 과제",
-      "url": "https://www.ajunews.com/view/20260709162914325",
-      "img": "https://image.ajunews.com/content/image/2024/11/05/20241105103218418971.jpg"
+      "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235428?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/07/26/2026072602014517946_l.jpg"
     },
     {
-      "title": "이재용, 美 AI 설계·韓 반도체 묶는다…브로드컴과 2000억달러 협력",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050030",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050030_82302_2336_v150.jpg"
+      "title": "李, '샌프란시스코 AI 선언' 발표…\"韓, 글로벌 AI 허브 구축\"",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2452471_1291585_5833_v150.jpg"
     }
   ]
 };
