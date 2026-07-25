@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.25 (토) 16:11",
+  "updatedAt": "2026.07.25 (토) 19:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "삼성SDS, 앤트로픽과 손잡고 '클로드' 기반 기업용 AI 사업 확대",
-          "desc": "이번 협약으로 양사는 ▲국내 시장 신규 비즈니스 기회 공동 창출 ▲클로드 도입·운영 전문가인 응용형 AI... 생성형 AI 기술을 안전하고 효율적으로 활용하도록 돕고 있다. 삼성SDS는 글로벌 AI 기업과의 협력을...",
-          "src": "lcnews",
+          "title": "오픈AI, 한국과 전략적 협력 확대…이재명 대통령·삼성·SK와 AI 동맹 강...",
+          "desc": "Edu)'를 도입해 AI 기반 교육 환경 구축에 나섰다. 공공 분야에서는 한국전력공사와 한국수자원공사, 기술... 오픈AI의 사이버 보안 프로그램인 '데이브레이크(Daybreak)'를 활용할 수 있도록 지원하는 '한국 사이버 액션...",
+          "src": "efnews",
           "date": "07/25",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205496",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202607/205496_207251_924.jpg"
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131206",
+          "img": "http://www.efnews.co.kr/news/photo/202607/131206_117883_354.jpg"
         },
         {
-          "title": "삼성·SK·네이버, 글로벌 빅테크와 AI 동맹…9500억달러 협력 본격화",
-          "desc": "공정을 활용한 차세대 반도체 개발을 확대하기로 했다. 삼성전자는 HBM을 비롯한 최첨단 메모리 솔루션을 브로드컴 AI 가속기에 공급하고 첨단 파운드리와 패키징 기술을 결합한 원스톱 턴키 솔루션을 제공할...",
-          "src": "dealsite",
+          "title": "SK, 엔비디아·MS·AWS와 AI 인프라 동맹 확대…글로벌 빅테크와 협력 본...",
+          "desc": "여기에 SK하이닉스의 HBM4가 적용된 차세대 AI 컴퓨팅 시스템 '베라 루빈(Vera Rubin)'을 도입해 2027년부터... 양사는 SK텔레콤의 데이터센터 구축·운영 역량과 AWS의 클라우드 및 AI 기술력을 결합해 국내 주요 거점으로...",
+          "src": "efnews",
           "date": "07/25",
-          "url": "https://dealsite.co.kr/articles/165962",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/25/47044d60a7594ef7b66352fa0d31fc96/thumb.jpg"
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131205",
+          "img": "http://www.efnews.co.kr/news/photo/202607/131205_117881_1744.jpg"
         },
         {
-          "title": "삼성SDS, 앤트로픽과 첫 전략적 협력‥기업용 AI 확대",
-          "desc": "두 회사는 이번 협약을 통해 한국 시장에서 신규 사업 기회를 공동으로 발굴하고, 기업의 AI 도입과 활용을 지원하기로 했습니다. 구체적으로 공동 마케팅과 기술 검증, 합작 사업 등을 추진하며 국내 기업용 AI 시장...",
-          "src": "imnews",
+          "title": "삼성SDS, 앤트로픽과 국내 기업 AI 시장 공략…'클로드' 기반 AX 사업 확...",
+          "desc": "있는 '응용형 AI 엔지니어(Applied AI Engineer)' 양성에도 나선다. 해당 전문 인력은 클로드 도입 기획부터... 구축하고, 기업 고객이 최신 생성형 AI 기술을 활용할 수 있도록 지원하고 있다. [파이낸셜신문=황병우 기자]",
+          "src": "efnews",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/214/0001513873?sid=101",
-          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/07/25/jhp_20260725_11.jpg"
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131204",
+          "img": "http://www.efnews.co.kr/news/photo/202607/131204_117880_519.jpg"
         },
         {
-          "title": "오픈AI, 李대통령·삼성·SK 연쇄 회동…한국 AI 동맹 확대",
-          "desc": "AI 활용 확대를 추진하고 있다. 기업 AI 전환 넘어 공공·보안 협력 확대 오픈AI는 한국 공공 부문에서 한국전력공사와 한국수자원공사, 기술보증기금 등과 업무협약을 체결하고 각 기관의 AI 전환을 지원하고 있다....",
-          "src": "블로터",
+          "title": "구리시, 간부 공무원 AI 디지털 리더십 교육",
+          "desc": "활용한 정책 발굴과 중장기 계획 수립, 공공데이터 분석을 통한 행정 의사결정, 디지털 리더십, AI 도입에... 디지털 기술을 얼마나 효과적으로 활용하느냐에 달려 있다\"라며 \"간부 공무원들이 AI를 적극 활용해 업무...",
+          "src": "job-post",
           "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088097?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202607/668992_282014_3639_v150.jpg"
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=222113",
+          "img": "https://cdn.job-post.co.kr/news/photo/202607/222113_324525_1427.jpg"
         }
       ]
     },
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
     },
     {
-      "title": "삼성SDS, 앤트로픽과 손잡고 '클로드' 기반 기업용 AI 사업 확대",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205496",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202607/205496_207251_924.jpg"
+      "title": "오픈AI, 한국과 전략적 협력 확대…이재명 대통령·삼성·SK와 AI 동맹 강...",
+      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131206",
+      "img": "http://www.efnews.co.kr/news/photo/202607/131206_117883_354.jpg"
     },
     {
-      "title": "삼성·SK·네이버, 글로벌 빅테크와 AI 동맹…9500억달러 협력 본격화",
-      "url": "https://dealsite.co.kr/articles/165962",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/25/47044d60a7594ef7b66352fa0d31fc96/thumb.jpg"
+      "title": "SK, 엔비디아·MS·AWS와 AI 인프라 동맹 확대…글로벌 빅테크와 협력 본...",
+      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131205",
+      "img": "http://www.efnews.co.kr/news/photo/202607/131205_117881_1744.jpg"
     }
   ]
 };
