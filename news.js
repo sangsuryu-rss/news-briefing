@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.26 (일) 02:54",
+  "updatedAt": "2026.07.26 (일) 06:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "전남광주특별시, 기아오토랜드 광주·삼성전자와 폭염 속 취약계층 지원",
-          "desc": "행사에는 ▲황기연 행정부시장 ▲김승현 기아 오토랜드 광주 안전시설실장 ▲정혁준 삼성전자 생활가전 광주지원센터장 ▲구제길 광주사회복지공동모금회장과 지역사회보장협의체·지역아동센터·경로당 관계자 등...",
-          "src": "namdonews",
-          "date": "07/25",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=917943",
-          "img": "https://cdn.namdonews.com/news/photo/202607/917943_622246_3517.jpg"
+          "title": "미 민주당 \"트럼프 행정부, 삼성·SK하닉 보조금 정책 재고는 실책\"",
+          "desc": "서한에서 삼성전자와 SK하이닉스의 미국 내 반도체 공장 설립을 지원하기 위한 조 바이든 전 행정부의... 소비가전 가격 상승의 원인을 제공했다\"고 말했다. 서한은 이어 \"최근 보고에 따르면 상무부가 삼성과...",
+          "src": "파이낸셜뉴스",
+          "date": "07/26",
+          "url": "https://n.news.naver.com/mnews/article/014/0005552796?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/15/202607151802326766_l.jpg"
         },
         {
           "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축",
-          "desc": "최태원 SK 회장은 \"AI 시대의 경쟁력은 AI를 얼마나 잘 활용하느냐를 넘어, 얼마나 많은 지능을... 시스템을 도입해 2027년부터 국내 최대 2기가와트(GW) 규모의 AI 팩토리를 구축할 예정이다. SK하이닉스는 엔비디아와...",
-          "src": "디지털데일리",
+          "title": "학부모·교사 반발에…美고교, 휴머노이드 AI 로봇 도입 보류",
+          "desc": "인공지능(AI) 로봇 도입이 학부모와 교사들의 거센 반발에 부딪혀 잠정 중단됐다. 25일(현지시간) 뉴욕타임스... 우선 활용될 예정이었다. 하지만 인간과 유사한 외형의 AI 로봇을 교실에 들이는 방안을 두고 학부모와...",
+          "src": "연합뉴스",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/138/0002235428?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/26/2026072602014517946_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016214711?sid=104",
+          "img": ""
         },
         {
-          "title": "李, '샌프란시스코 AI 선언' 발표…\"韓, 글로벌 AI 허브 구축\"",
-          "desc": "이어 올해 말부터 5000만 국민이 함께 활용하는 '모두의 AI' 프로젝트를 본격적으로 추진해 행정과 복지, 교육 등 공공서비스 전반에 AI를 적극 도입하겠다는 계획도 밝혔다. 또 \"여러분의 기술과 아이디어를 가장...",
-          "src": "enewstoday",
+          "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플...",
+          "desc": "기업들의 활용성과 편의성이 더욱 높아질 것으로 기대된다\"고 평가했다. 이번 적합성 평가는 탄소관리... 감축 기술과 함께 '검증 가능한 데이터 인프라'를 확보하는 데 있다고 진단한다. AI 기반 탄소관리와 디지털 MRV...",
+          "src": "energydaily",
           "date": "07/26",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2452471_1291585_5833_v150.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201735",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202607/201735_201491_4433.png"
         },
         {
-          "title": "이해진, '글로벌 AI 팩토리' 전환점 열었다…엔비디아·브룩필드 14조 베...",
-          "desc": "데이터센터 기술 및 운영 경험을 글로벌 AI 인프라 사업으로 확장하는 전환점이 될 것이란 전망이... 네이버는 브룩필드의 자본 조달력과 전력·데이터센터 투자 경험을 활용해 AI 팩토리 구축 속도를 높일 계획이다....",
-          "src": "apnews",
+          "title": "기업이 사람을 자른 뒤에야 깨달은 AI 시대 인재는",
+          "desc": "없애는 직무가 AI로 직접 대체되는 것은 아니지만, AI 도입으로 업무 방식과 필요한 역할이 바뀌어 모든... AI 기술을 가장 많이 아는 사람이 아니다. 자신의 분야를 가장 깊이 이해하면서 AI를 가장 적절하게 활용하는...",
+          "src": "newsverse",
           "date": "07/26",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050033",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202607/3050033_82305_101_v150.jpg"
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11010",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202607/11010_18972_2518_v150.jpg"
         },
         {
-          "title": "SK, 엔비디아와 5000억달러 AI 동맹…최태원 \"한국을 AI 인프라 허브로\"",
-          "desc": "AI 인프라 구축을 추진하는 내용의 의향서(LOI)를 체결했다. AI 팩토리 건설과 그래픽처리장치(GPU) 도입... 그는 프로젝트 성공을 위한 과제로 국민 1인당 최소 하나의 AI 에이전트를 활용하는 'AI 네이티브 국가' 구현과...",
-          "src": "wolyo",
+          "title": "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성...",
+          "desc": "고성능 AI 모델이 우수한 성능으로 주목을 받고 있다. 이에 엔비디아 반도체의 중국 수출이 미국의 기술... 크라치오스 정책실장은 문샷AI가 태국에 위치한 엔비디아 고성능 인공지능 반도체 GB300 기반 서버를 활용해...",
+          "src": "비즈니스포스트",
           "date": "07/26",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202607/315585_221722_010.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443110",
+          "img": ""
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "반도체 빼면 불황인데 … 車·철강·조선까지 하투 확산에 생산차질 '비...",
+          "desc": "협력사 손실은 별도다. 최영일 현대차 대표이사는 임직원에게 보내는 글을 통해 \"교섭이 중단되고 파업이... 업계에서는 삼성전자와 SK하이닉스의 N% 성과급 합의, 노란봉투법의 후폭풍이 제조업 전체에 큰 충격을 주고...",
+          "src": "biz",
+          "date": "07/26",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400090.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/07/24/2026072400090_0.jpg"
+        },
         {
           "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
           "desc": "[김광석] 이 기업들은 어찌 보면 경쟁사이자 협력사. 한자리에서 모이기는 쉽지 않아요. 쭉 나열되어 있는데... 왜냐하면 삼성전자에 부품을 공급하는 밴더사들, 그 밴더사들에 제품을 공급하는 수많은 중소기업들. 이게...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/24",
           "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128377",
           "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128377_114208_1640_v150.jpg"
-        },
-        {
-          "title": "\"K-반도체 뿌리 단단하게\"… 하나은행, 소부장 기업에 1000억원 맞춤형 ...",
-          "desc": "이번 협약은 삼성전자, SK하이닉스 등 대기업 중심으로 쏠린 반도체 시장의 성과를 소부장,  중소 협력업체로... 특히 대기업 1차 협력사에만 혜택이 집중되던 기존 관행에서 벗어나 생태계 하단에 위치한 2차·3차 중소...",
-          "src": "dailysmart",
-          "date": "07/24",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127333",
-          "img": "https://cdn.dailysmart.co.kr/news/photo/202607/127333_126698_2836.jpg"
         }
       ]
     },
@@ -222,29 +222,29 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
         },
         {
-          "title": "대동 AI 농업에 맞불…TYM, 자율주행·전동화 R&D 속도 낸다",
-          "desc": "세부적으로는 전장 회로 및 와이어링 하네스 설계, 전장 모듈 개발, 센서·통신 인터페이스 통합, 배터리 시스템 설계, 모터·감속기·제어기 최적화, CAN(Controller Area Network) 기반 제어 로직 개발 등을 맡게 된다. 전동...",
-          "src": "sidae",
-          "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/417/0001152670?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/23/06/2026072309493349146_1.jpg"
-        },
-        {
           "title": "아스팔트 질감까지 데이터로…현대차·기아 '1㎜ 가상도로' 신차 검증 [...",
           "desc": "대신 테스트벤치 위에 제어기와 전장 부품, 와이어링 하네스가 실제 차량처럼 연결돼 있었다. 차체는 없지만 차량의 전기·전자 시스템은 실물 하드웨어로 구현된 구조다. 자동차가 SDV로 바뀌면서 개별 부품의...",
           "src": "데일리안",
           "date": "07/02",
           "url": "https://n.news.naver.com/mnews/article/119/0003107053?sid=101",
           "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
+        },
+        {
+          "title": "대동 AI 농업에 맞불…TYM, 자율주행·전동화 R&D 속도 낸다",
+          "desc": "세부적으로는 전장 회로 및 와이어링 하네스 설계, 전장 모듈 개발, 센서·통신 인터페이스 통합, 배터리 시스템 설계, 모터·감속기·제어기 최적화, CAN(Controller Area Network) 기반 제어 로직 개발 등을 맡게 된다. 전동...",
+          "src": "sidae",
+          "date": "07/23",
+          "url": "https://n.news.naver.com/mnews/article/417/0001152670?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/23/06/2026072309493349146_1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "전남광주특별시, 기아오토랜드 광주·삼성전자와 폭염 속 취약계층 지원",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=917943",
-      "img": "https://cdn.namdonews.com/news/photo/202607/917943_622246_3517.jpg"
+      "title": "미 민주당 \"트럼프 행정부, 삼성·SK하닉 보조금 정책 재고는 실책\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552796?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/15/202607151802326766_l.jpg"
     },
     {
       "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
     },
     {
-      "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235428?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/07/26/2026072602014517946_l.jpg"
+      "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플...",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201735",
+      "img": "https://cdn.energydaily.co.kr/news/photo/202607/201735_201491_4433.png"
     },
     {
-      "title": "李, '샌프란시스코 AI 선언' 발표…\"韓, 글로벌 AI 허브 구축\"",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2452471_1291585_5833_v150.jpg"
+      "title": "기업이 사람을 자른 뒤에야 깨달은 AI 시대 인재는",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11010",
+      "img": "https://cdn.newsverse.kr/news/thumbnail/202607/11010_18972_2518_v150.jpg"
     }
   ]
 };
