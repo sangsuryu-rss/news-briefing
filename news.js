@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.26 (일) 19:39",
+  "updatedAt": "2026.07.26 (일) 23:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,28 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"통신비 다이어트 지원\"…롯데하이마트, 자체 요금제 띄웠다",
-          "desc": "고물가 기조가 장기화하며 ‘통신비 다이어트’에 나서는 소비자가 크게 늘어난 가운데 국내 대표 가전... 롯데하이마트는 하반기 스마트폰 시장 최대 기대작인 삼성전자의 ‘갤럭시 Z8 시리즈(폴드8, 폴드8 울트라...",
-          "src": "한국경제",
+          "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
+          "desc": "삼성전자는 현재 전 세계에 반도체와 스마트폰, 가전 생산기지를 운영하고 있어 자체 공장에서 기술을 검증하고 확대 적용할 수 있는 장점을 갖고 있다. 로봇이 공장 생산라인에 투입될 경우, 반도체 부문을 비롯한 주여...",
+          "src": "autodaily",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/015/0005313967?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45151072.1.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
         },
         {
-          "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
-          "desc": "고가 로봇청소기가 시장에서 성능을 인정받으면서 소비자 인식도 많이 달라졌다\"며 \"중국 업체들이 냉장고와 세탁기, 에어컨으로 제품군을 넓히고 서비스망까지 강화하면 삼성전자와 LG전자도 국내 시장에서 이전보다...",
-          "src": "블로터",
-          "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088088?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 베트남 상업용 세탁·건조 시장 진출…현지 3사와 유통망 구...",
-          "desc": "삼성전자 베트남법인이 최근 아시아테크 홀딩스, 워시프렌즈 베트남, WW 베트남 등 현지 파트너 3사와 유통망을 구축하고 상업용 세탁기·건조기 솔루션을 출시했다. (사진=삼성전자)",
-          "src": "더구루",
+          "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
+          "desc": "로봇청소기 시장 세계 1위 로보락이 국내에서 제품군을 빠르게 넓히고 있다. 주력인 청소가전 라인업을 강화하는 동시에, 삼성전자와 LG전자가 장악한 세탁가전 시장에도 신제품을 투입하며 종합 가전 브랜드로의...",
+          "src": "econovill",
           "date": "07/26",
-          "url": "https://www.theguru.co.kr/news/article.html?no=104909",
-          "img": "https://www.theguru.co.kr/data/photos/20260730/art_17849380220875_c855e0.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746194",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746194_720111_023_v150.jpg"
         },
         {
           "title": "[그때 그 광고]\"시간 좀 내주오\"로 시장 평정한 하이마트",
@@ -116,6 +108,14 @@ window.NEWS_DATA = {
           "date": "07/26",
           "url": "https://n.news.naver.com/mnews/article/648/0000049207?sid=101",
           "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
+        },
+        {
+          "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
+          "desc": "가전과 유통, 백화점, 면세점, 호텔·레저, 여행 등 내수와 관광 소비 회복에 민감한 업종 비중이 높은... 반도체 삼성전자, SK하이닉스의 높은 변동성에 방어적인 성격을 가져 최근 증시 흐름이 양호했다\"라면서 \"특히...",
+          "src": "파이낸셜뉴스",
+          "date": "07/26",
+          "url": "https://n.news.naver.com/mnews/article/014/0005553062?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/23/202607230904125407_l.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "보험업 AI, 활용 가능 업무 83개 중 실제 활용은 8개… \"AI 확산 대비 역...",
-          "desc": "업무의 AI 잠재노출도와 관측노출도를 비교하고, 이론적 활용 가능성과 실제 도입 수준 사이에 상당한... 업무에 AI 사용이 집중됐다. 보고서는 실행 격차의 원인으로 AI 모델의 기술적 신뢰성 한계와 법적 자격·권한...",
-          "src": "insnews",
+          "title": "금융위 상반기 적극행정 우수공무원 선정해 표창장",
+          "desc": "고객확인제도를 활용한 범죄이용 의심계좌 거래정지제도를 도입했습니다. 장희진 사무관은 수백개에... 정보공유·분석 AI플랫폼 구축 등 보이스피싱 선제적 예방·차단을 위한 기술·제도적 인프라를 구축한 공적으로...",
+          "src": "inthenews",
           "date": "07/26",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92057",
-          "img": "https://cdn.insnews.co.kr/news/photo/202607/92057_56843_2535.jpg"
+          "url": "https://www.inthenews.co.kr/news/article.html?no=89759",
+          "img": "https://www.inthenews.co.kr/data/photos/20260730/art_17850739009046_dca580.jpg"
         },
         {
-          "title": "[취준생을 위하여(306)] 한국마사회, 신규 경마장부터 AI 전환에 이르는...",
-          "desc": "또한 AI 기술을 다양한 분야에 접목하며 업무 혁신을 추진하고 있다. 기존 오프라인 중심의 발매 환경을 모바일 중심으로 전환하는 한편, AI를 활용한 스마트 이용자 보호 시스템을 구축해 이상 거래를 모니터링하고 과몰입...",
-          "src": "news2day",
+          "title": "이 회장 샘올트먼 회동·브로드컴과 2000억 달러 협력관계 구축…AI써밋...",
+          "desc": "최근 글로벌 빅테크 기업들을 중심으로 자체 AI 가속기(ASIC) 도입이 빠르게 확대되는 가운데, 이번 협력은 커스텀 반도체 설계 분야를 선도하는 브로드컴과 메모리·제조·패키징 기술 전반을 아우르는 삼성전자가...",
+          "src": "public25",
           "date": "07/26",
-          "url": "https://www.news2day.co.kr/article/20260726500015",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/26/.cache/512/20260726500013.png"
+          "url": "https://www.public25.com/news/articleView.html?idxno=51440",
+          "img": "https://cdn.public25.com/news/photo/202607/51440_51689_3326.jpg"
         },
         {
-          "title": "함양 서상고, 인공지능 기반 미래교육모델 구축",
-          "desc": "인공지능(AI)과 디지털 기술을 활용한 미래교육 혁신에 나섰다. 지-넥스트 사업은 경남도교육청, 경남도청... 아울러 구글 협력학교로서 교육 현장에 다양한 디지털 도구를 도입하고 교사와 학생의 디지털 활용...",
-          "src": "gnnews",
+          "title": "충북도, 도시계획 행정에 '스마트 인턴' 체계 도입",
+          "desc": "체계를 도입한다고 26일 밝혔다. 스마트 인턴은 국토교통부의 국가공간정보통합플랫폼(K-GeoP)을 핵심 인프라로 활용한 공간정보·AI 체계다. K-GeoP는 공간정보와 데이터 기술에 기반한 첨단 시스템으로 입지 적정성 검토...",
+          "src": "ccdailynews",
           "date": "07/26",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=641752",
-          "img": "https://cdn.gnnews.co.kr/news/photo/202607/641752_442483_575.jpg"
+          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2430281",
+          "img": "https://www.ccdailynews.com/image/logo/snslogo_20200717012712.jpg"
         },
         {
-          "title": "인공지능이 상품기획·발주까지…유통업계 ‘AI 활용 붐’",
-          "desc": "이 문제를 해결하는 데도 AI 기술이 도입됐다. 쿠팡은 주문이 들어오기 전 단계부터 AI를 활용한다. 예상 수요를 공급업체와 미리 공유해 발주 일정을 조정하도록 하고, 물류센터 운영 효율화에도 AI를 적용하고 있다....",
-          "src": "nongmin",
+          "title": "오픈AI, 백악관서 차세대 AI 시연…\"80년 난제 풀고 기업 시스템 침투\"",
+          "desc": "첨단 AI 모델에 대한 자율적 사전 승인(voluntary pre-approval) 제도 도입을 준비하는 시점에 이뤄진다. 오픈AI는... 개발에 활용했을 가능성을 제기하며 기술 보호와 사용 감시를 강화해야 한다는 입장을 밝혀왔다. 오픈AI는...",
+          "src": "4th",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/662/0000100482?sid=101",
-          "img": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/07/26/.cache/512/20260726500067.png"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2115281",
+          "img": "https://cdn.4th.kr/news/thumbnail/202607/2115281_211631_237_v150.jpg"
         }
       ]
     },
@@ -242,19 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"통신비 다이어트 지원\"…롯데하이마트, 자체 요금제 띄웠다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313967?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/01.45151072.1.jpg"
+      "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
+      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
     },
     {
-      "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088088?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
-    },
-    {
-      "title": "삼성전자, 베트남 상업용 세탁·건조 시장 진출…현지 3사와 유통망 구...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=104909",
-      "img": "https://www.theguru.co.kr/data/photos/20260730/art_17849380220875_c855e0.jpg"
+      "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=746194",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/746194_720111_023_v150.jpg"
     },
     {
       "title": "[그때 그 광고]\"시간 좀 내주오\"로 시장 평정한 하이마트",
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "보험업 AI, 활용 가능 업무 83개 중 실제 활용은 8개… \"AI 확산 대비 역...",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92057",
-      "img": "https://cdn.insnews.co.kr/news/photo/202607/92057_56843_2535.jpg"
+      "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553062?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/23/202607230904125407_l.jpg"
     },
     {
-      "title": "[취준생을 위하여(306)] 한국마사회, 신규 경마장부터 AI 전환에 이르는...",
-      "url": "https://www.news2day.co.kr/article/20260726500015",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/26/.cache/512/20260726500013.png"
+      "title": "금융위 상반기 적극행정 우수공무원 선정해 표창장",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=89759",
+      "img": "https://www.inthenews.co.kr/data/photos/20260730/art_17850739009046_dca580.jpg"
+    },
+    {
+      "title": "이 회장 샘올트먼 회동·브로드컴과 2000억 달러 협력관계 구축…AI써밋...",
+      "url": "https://www.public25.com/news/articleView.html?idxno=51440",
+      "img": "https://cdn.public25.com/news/photo/202607/51440_51689_3326.jpg"
     }
   ]
 };
