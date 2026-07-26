@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.26 (일) 23:26",
+  "updatedAt": "2026.07.27 (월) 02:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
-          "desc": "삼성전자는 현재 전 세계에 반도체와 스마트폰, 가전 생산기지를 운영하고 있어 자체 공장에서 기술을 검증하고 확대 적용할 수 있는 장점을 갖고 있다. 로봇이 공장 생산라인에 투입될 경우, 반도체 부문을 비롯한 주여...",
-          "src": "autodaily",
-          "date": "07/26",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
+          "title": "AI 모델·SW·데이터센터 핵심 부품… 중국 수출 품목, 첨단 기술로 이동",
+          "desc": "과거 저가 가전과 기계 장비 중심이던 중국 수출이 이제는 인공지능(AI) 모델, 소프트웨어, 데이터센터... 업계 관계자는 “국내 AI 기업과의 가격 경쟁이 심화될 수 있지만, 세계적인 AI 모델 이용 증가는 삼성전자와...",
+          "src": "조선일보",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/023/0003989720?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/RGNNGYNDZNBLHBZCQVJ2W24O2A.jpg?auth=fc357d9eefa4d98e50f76a0d9e9548bc958aab0b98eff6e5e32081b45b8e2731&width=1200&height=630&smart=true"
         },
         {
           "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
         },
         {
-          "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
-          "desc": "가전과 유통, 백화점, 면세점, 호텔·레저, 여행 등 내수와 관광 소비 회복에 민감한 업종 비중이 높은... 반도체 삼성전자, SK하이닉스의 높은 변동성에 방어적인 성격을 가져 최근 증시 흐름이 양호했다\"라면서 \"특히...",
-          "src": "파이낸셜뉴스",
+          "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
+          "desc": "삼성전자는 현재 전 세계에 반도체와 스마트폰, 가전 생산기지를 운영하고 있어 자체 공장에서 기술을 검증하고 확대 적용할 수 있는 장점을 갖고 있다. 로봇이 공장 생산라인에 투입될 경우, 반도체 부문을 비롯한 주여...",
+          "src": "autodaily",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/014/0005553062?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/23/202607230904125407_l.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "금융위 상반기 적극행정 우수공무원 선정해 표창장",
-          "desc": "고객확인제도를 활용한 범죄이용 의심계좌 거래정지제도를 도입했습니다. 장희진 사무관은 수백개에... 정보공유·분석 AI플랫폼 구축 등 보이스피싱 선제적 예방·차단을 위한 기술·제도적 인프라를 구축한 공적으로...",
-          "src": "inthenews",
-          "date": "07/26",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=89759",
-          "img": "https://www.inthenews.co.kr/data/photos/20260730/art_17850739009046_dca580.jpg"
+          "title": "[인터뷰]김유경 대구소마고 교장, “AI에 대체되는 개발자 아닌, AI 리딩...",
+          "desc": "=이제는 코딩 기술만 갖춘 개발자보다, 현장의 수요를 정확히 읽고 기획, 개발, 시스템 관리, 데이터 분석, 마케팅, 피드백 반영까지 프로젝트 전 과정을 주도하는 'AI 활용 풀스택 엔지니어링' 역량을 갖춘 인재가...",
+          "src": "전자신문",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/030/0003451047?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/07/23/news-p.v1.20260723.cc1ae22e79d24ac6b862c7be839b448b_P1.png"
         },
         {
-          "title": "이 회장 샘올트먼 회동·브로드컴과 2000억 달러 협력관계 구축…AI써밋...",
-          "desc": "최근 글로벌 빅테크 기업들을 중심으로 자체 AI 가속기(ASIC) 도입이 빠르게 확대되는 가운데, 이번 협력은 커스텀 반도체 설계 분야를 선도하는 브로드컴과 메모리·제조·패키징 기술 전반을 아우르는 삼성전자가...",
-          "src": "public25",
-          "date": "07/26",
-          "url": "https://www.public25.com/news/articleView.html?idxno=51440",
-          "img": "https://cdn.public25.com/news/photo/202607/51440_51689_3326.jpg"
+          "title": "AI에 일자리 뺏겼다, IT·전문직 청년 취업자 17% 줄어",
+          "desc": "한국의 AI 도입률이 향후 10년 내 주요국 중 가장 높은 수준이 될 것이라는 전망 또한 청년 고용 시장엔 악재다. 한 공기업 대표는 “정부 지침 없이는 인원을 줄일 수 없겠지만, 이미 내부적으로는 AI를 잘 활용하면...",
+          "src": "조선일보",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/023/0003989772?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/LKI445KAUBAOLLN5Q2HRML22VE.png?auth=6e293a2bc1bbfa89e0898764caf660dd88276fb631b34cda0fc23caba13d8c4e&width=1200&height=630&smart=true"
         },
         {
-          "title": "충북도, 도시계획 행정에 '스마트 인턴' 체계 도입",
-          "desc": "체계를 도입한다고 26일 밝혔다. 스마트 인턴은 국토교통부의 국가공간정보통합플랫폼(K-GeoP)을 핵심 인프라로 활용한 공간정보·AI 체계다. K-GeoP는 공간정보와 데이터 기술에 기반한 첨단 시스템으로 입지 적정성 검토...",
-          "src": "ccdailynews",
-          "date": "07/26",
-          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2430281",
-          "img": "https://www.ccdailynews.com/image/logo/snslogo_20200717012712.jpg"
+          "title": "[이경전의 AI와 비즈니스모델] 현실에선 AI가 일자리 만든다",
+          "desc": "공고에 AI라는 단어가 더 자주 등장하고 있다. 기업이 사람을 필요로 하지 않는 것이 아니라, AI를 활용해... AI 도입으로 인력 감축이 일어난다는 통념은 구체적인 데이터로 확인되지 않는다. 기업은 AI 때문에 사람을...",
+          "src": "한국경제",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/015/0005313982?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "오픈AI, 백악관서 차세대 AI 시연…\"80년 난제 풀고 기업 시스템 침투\"",
-          "desc": "첨단 AI 모델에 대한 자율적 사전 승인(voluntary pre-approval) 제도 도입을 준비하는 시점에 이뤄진다. 오픈AI는... 개발에 활용했을 가능성을 제기하며 기술 보호와 사용 감시를 강화해야 한다는 입장을 밝혀왔다. 오픈AI는...",
-          "src": "4th",
-          "date": "07/26",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2115281",
-          "img": "https://cdn.4th.kr/news/thumbnail/202607/2115281_211631_237_v150.jpg"
+          "title": "\"안중근 유해발굴은 동양평화의 사명\"",
+          "desc": "구체적이고 신빙성 있는 핀포인트 좌표가 특정된 만큼, 마잉푸 일대에 대한 지표투과레이더(GPR) 기술 도입 및 인공지능(AI)을 활용한 정밀 위치 추정 탐사는 유해 발굴의 성패를 가를 필수적인 과정이다. 중국 당국은...",
+          "src": "tongilnews",
+          "date": "07/27",
+          "url": "http://www.tongilnews.com/news/articleView.html?idxno=217071",
+          "img": "https://cdn.tongilnews.com/news/thumbnail/202607/217071_117312_3254_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
+      "title": "AI 모델·SW·데이터센터 핵심 부품… 중국 수출 품목, 첨단 기술로 이동",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989720?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/RGNNGYNDZNBLHBZCQVJ2W24O2A.jpg?auth=fc357d9eefa4d98e50f76a0d9e9548bc958aab0b98eff6e5e32081b45b8e2731&width=1200&height=630&smart=true"
     },
     {
       "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "AI 조정장속 의외의 승자 '경기소비재 ETF'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553062?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/07/23/202607230904125407_l.jpg"
+      "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
+      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
     },
     {
-      "title": "금융위 상반기 적극행정 우수공무원 선정해 표창장",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=89759",
-      "img": "https://www.inthenews.co.kr/data/photos/20260730/art_17850739009046_dca580.jpg"
+      "title": "[인터뷰]김유경 대구소마고 교장, “AI에 대체되는 개발자 아닌, AI 리딩...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003451047?sid=102",
+      "img": "https://img.etnews.com/news/article/2026/07/23/news-p.v1.20260723.cc1ae22e79d24ac6b862c7be839b448b_P1.png"
     },
     {
-      "title": "이 회장 샘올트먼 회동·브로드컴과 2000억 달러 협력관계 구축…AI써밋...",
-      "url": "https://www.public25.com/news/articleView.html?idxno=51440",
-      "img": "https://cdn.public25.com/news/photo/202607/51440_51689_3326.jpg"
+      "title": "AI에 일자리 뺏겼다, IT·전문직 청년 취업자 17% 줄어",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989772?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/LKI445KAUBAOLLN5Q2HRML22VE.png?auth=6e293a2bc1bbfa89e0898764caf660dd88276fb631b34cda0fc23caba13d8c4e&width=1200&height=630&smart=true"
     }
   ]
 };
