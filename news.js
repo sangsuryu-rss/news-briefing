@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.26 (일) 06:49",
+  "updatedAt": "2026.07.26 (일) 13:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "미 민주당 \"트럼프 행정부, 삼성·SK하닉 보조금 정책 재고는 실책\"",
-          "desc": "서한에서 삼성전자와 SK하이닉스의 미국 내 반도체 공장 설립을 지원하기 위한 조 바이든 전 행정부의... 소비가전 가격 상승의 원인을 제공했다\"고 말했다. 서한은 이어 \"최근 보고에 따르면 상무부가 삼성과...",
-          "src": "파이낸셜뉴스",
+          "title": "\"AI, 화면 밖으로 나왔다\"…안경·워치·링 '착용형 생태계' 승부[언팩,...",
+          "desc": "\"더 똑똑한 AI보다 날 더 잘 아는 AI\"…믿고 맡길 보안이 관건 안경이 외부 세계를 보고 워치와 링이 몸 상태를 읽으면, 삼성전자는 스마트폰과 가전까지 아우르는 방대한 일상 데이터를 AI에 연결할 수 있다. 노 사장은...",
+          "src": "뉴시스",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/014/0005552796?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/15/202607151802326766_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014088496?sid=105",
+          "img": "https://img1.newsis.com/2026/07/24/NISI20260724_0002195182_web.jpg"
         },
         {
           "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
         },
         {
-          "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
-          "desc": "또 삼성전자가 구축하고 있는 비즈니스가 반도체만 있는 게 아니라 비반도체업이 있지 않습니까? 휴대폰, PC, 가전제품 이런 영역에도 AI PC로, AI 냉장고로, AI 세탁기로 다 피지컬 AI거든요. 이런 방향으로 한 발 더...",
-          "src": "ytn",
-          "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
+          "title": "삼성전자, 베트남 상업용 세탁·건조 시장 진출…현지 3사와 유통망 구...",
+          "desc": "삼성전자 베트남법인이 최근 아시아테크 홀딩스, 워시프렌즈 베트남, WW 베트남 등 현지 파트너 3사와 유통망을 구축하고 상업용 세탁기·건조기 솔루션을 출시했다. (사진=삼성전자)",
+          "src": "더구루",
+          "date": "07/26",
+          "url": "https://www.theguru.co.kr/news/article.html?no=104909",
+          "img": "https://www.theguru.co.kr/data/photos/20260730/art_17849380220875_c855e0.jpg"
         },
         {
-          "title": "여름철 냉장고는 ‘가득 채워야’ 이득? …의외로 모르는 보관법",
-          "desc": "이 때문에 삼성전자와 LG전자, 일본 파나소닉과 히타치 등 주요 제조사들은 냉장실은 약 60~70% 정도만 채워 냉기가 순환할 공간을 확보하는 것이 좋다고 권장한다. 냉장고 주변 환경도 냉각 성능에 영향을 준다. 냉장고는...",
-          "src": "khan",
-          "date": "07/25",
-          "url": "https://n.news.naver.com/mnews/article/032/0003460305?sid=103",
-          "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
+          "title": "[그때 그 광고]\"시간 좀 내주오\"로 시장 평정한 하이마트",
+          "desc": "특히 혼수 가전처럼 한 번에 여러 품목을 사야 하는 경우 냉장고는 삼성, 세탁기는 LG 하는 식으로 골라 담을... 삼성전자, LG전자가 직접 운영하는 '삼성스토어'와 'LG베스트샵'은 가전양판점 못지 않은 규모를 갖추고...",
+          "src": "news",
+          "date": "07/26",
+          "url": "https://n.news.naver.com/mnews/article/648/0000049207?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "학부모·교사 반발에…美고교, 휴머노이드 AI 로봇 도입 보류",
-          "desc": "인공지능(AI) 로봇 도입이 학부모와 교사들의 거센 반발에 부딪혀 잠정 중단됐다. 25일(현지시간) 뉴욕타임스... 우선 활용될 예정이었다. 하지만 인간과 유사한 외형의 AI 로봇을 교실에 들이는 방안을 두고 학부모와...",
-          "src": "연합뉴스",
+          "title": "삼성SDS, 앤트로픽과 파트너십…기업 AI사업 확대",
+          "desc": "앤트로픽의 AI 어시스턴트인 클로드 서비스 도입 기획부터 구축·운영·기술 지원까지 전 과정을 담당할... 먼저 도입해 활용하고 있다. 클로드 도입 후 초기 몇 주 동안 삼성SDS 직원들이 클로드와 나눈 메시지는...",
+          "src": "shinailbo",
           "date": "07/26",
-          "url": "https://n.news.naver.com/mnews/article/001/0016214711?sid=104",
-          "img": ""
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044550",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044550_2043028_4050.jpg"
         },
         {
-          "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플...",
-          "desc": "기업들의 활용성과 편의성이 더욱 높아질 것으로 기대된다\"고 평가했다. 이번 적합성 평가는 탄소관리... 감축 기술과 함께 '검증 가능한 데이터 인프라'를 확보하는 데 있다고 진단한다. AI 기반 탄소관리와 디지털 MRV...",
-          "src": "energydaily",
+          "title": "의령과 하동에서 인공지능(AI) 기반 택시·버스 달린다",
+          "desc": "26일 농림축산식품부는 첨단 기술을 활용해 소멸 위기에 몰린 지역의 교통 문제를 해결하고자 ‘농촌 특화 AI... 교통수단을 도입하는 것이 아니라 AI와 데이터를 활용, 농촌 주민의 이동권을 근본적으로 개선하기 위한...",
+          "src": "kookje",
           "date": "07/26",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201735",
-          "img": "https://cdn.energydaily.co.kr/news/photo/202607/201735_201491_4433.png"
+          "url": "https://n.news.naver.com/mnews/article/658/0000150551?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0726/L20260726.99099007547i1.jpg?23"
         },
         {
-          "title": "기업이 사람을 자른 뒤에야 깨달은 AI 시대 인재는",
-          "desc": "없애는 직무가 AI로 직접 대체되는 것은 아니지만, AI 도입으로 업무 방식과 필요한 역할이 바뀌어 모든... AI 기술을 가장 많이 아는 사람이 아니다. 자신의 분야를 가장 깊이 이해하면서 AI를 가장 적절하게 활용하는...",
-          "src": "newsverse",
+          "title": "[美 깐부회동] 이재용, 젠슨 황과 다시 한자리… 한미 AI 동맹 넓혔다",
+          "desc": "있다\"며 \"우리가 AI를 어떻게 발전시키고 활용하느냐에 따라 우리 앞에 얼마나 다른 미래가 펼쳐지게 될지를... 공동 마케팅과 기술 검증, 전문 인력 양성 등을 추진해 국내 기업의 AI 도입을 지원할 방침이다. 삼성SDS는...",
+          "src": "biztribune",
           "date": "07/26",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11010",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202607/11010_18972_2518_v150.jpg"
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356494",
+          "img": "http://www.biztribune.co.kr/image/logo/snslogo_20190215014007.png"
         },
         {
-          "title": "'키미 K3' AI 열풍은 젠슨 황에 악재, 엔비디아 반도체 중국 수출 당위성...",
-          "desc": "고성능 AI 모델이 우수한 성능으로 주목을 받고 있다. 이에 엔비디아 반도체의 중국 수출이 미국의 기술... 크라치오스 정책실장은 문샷AI가 태국에 위치한 엔비디아 고성능 인공지능 반도체 GB300 기반 서버를 활용해...",
-          "src": "비즈니스포스트",
+          "title": "하루 걸리던 상품 검수가 3분 만에...AI로 기업 혁신 돕는다",
+          "desc": "인핸스가 기업별 업무 특성을 고려한 AI 에이전트 개발을 가능케 한 핵심 기술은 ‘온톨로지’(Ontology)다.... 특히 다양한 데이터 시스템이 고유한 보안 체계에서 분산 운영돼 AI 도입이 까다로운 국방 영역에서 성과를...",
+          "src": "이데일리",
           "date": "07/26",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443110",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/018/0006337010?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072600279.jpg"
         }
       ]
     },
@@ -166,12 +166,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "기능성 필름부터 반도체 기판까지… 세경하이테크 부품 라인업 공개",
+          "desc": "및 부품 라인업을 공개했다. 폴더블 디스플레이 분야에서는 균열 발생을 차단하는 UTG(Ultra Thin Glass)... 삼성전자 ‘갤럭시 Z 폴드·플립’ 시리즈에 탑재되는 UTG 보호필름(PL)을 공급해 온 주요 협력사다....",
+          "src": "kidd",
+          "date": "07/26",
+          "url": "https://kidd.co.kr/news/246825",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/24/1784876685_54.jpg"
+        },
+        {
+          "title": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\"",
+          "desc": "소재 ▲부품 최적화 등을 적용해 얇고 가벼운 디자인을 구현했다고 강조했다. 그리고 ▲이마·광대·귀 주변 등 접촉 부위 착용감 ▲좌우 무게 균형 ▲방열 구조 등을 적용했다. 삼성전자는 아이웨어 협력사의 안경 품질...",
+          "src": "ZDNet코리아",
+          "date": "07/26",
+          "url": "https://n.news.naver.com/mnews/article/092/0002431878?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/26/d415726998c962e53074bc92fd96ce02.png"
+        },
+        {
           "title": "반도체 빼면 불황인데 … 車·철강·조선까지 하투 확산에 생산차질 '비...",
           "desc": "협력사 손실은 별도다. 최영일 현대차 대표이사는 임직원에게 보내는 글을 통해 \"교섭이 중단되고 파업이... 업계에서는 삼성전자와 SK하이닉스의 N% 성과급 합의, 노란봉투법의 후폭풍이 제조업 전체에 큰 충격을 주고...",
           "src": "biz",
           "date": "07/26",
           "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400090.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/07/24/2026072400090_0.jpg"
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/07/24/2026072400090_0.jpg?u=20260726085256?u=20260726085256"
         },
         {
           "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/25",
           "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
           "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
-        },
-        {
-          "title": "아이폰 울트라, 폭스콘 최종조정에 한두 달 지연 가능성",
-          "desc": "앞서 삼성전자가 지난 22일(현지시각) 영국 런던에서 갤럭시 언팩 2026 행사를 열고 갤럭시 Z 폴드8 울트라... 업계 소식통 한 명은 폭스콘이 예상 생산 목표를 맞출 현실적 가능성을 가진 유일한 애플 협력사라고...",
-          "src": "wikitree",
-          "date": "07/24",
-          "url": "https://www.wikitree.co.kr/articles/1148355",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/24/202607242308201886_it.jpeg"
-        },
-        {
-          "title": "현대차, 생산 차질로 판매 주춤…아반떼·아이오닉3 '구원투수' 나선다",
-          "desc": "지난 3월 협력사 화재로 인한 부품 공급 차질도 판매량에 영향을 끼쳤다. 현대차 경영진도 이 같은 상황을... 이는 2020년 삼성전자 이재용 회장과 정의선 회장이 직접 만나 논의했던 '배터리 동맹'의 첫 결실이기도 하다....",
-          "src": "ntoday",
-          "date": "07/24",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128377",
-          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202607/128377_114208_1640_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "미 민주당 \"트럼프 행정부, 삼성·SK하닉 보조금 정책 재고는 실책\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552796?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/07/15/202607151802326766_l.jpg"
+      "title": "\"AI, 화면 밖으로 나왔다\"…안경·워치·링 '착용형 생태계' 승부[언팩,...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014088496?sid=105",
+      "img": "https://img1.newsis.com/2026/07/24/NISI20260724_0002195182_web.jpg"
     },
     {
       "title": "로청 넘어 냉장고·에어컨까지…中가전, 한국 안방 파고든다",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.bloter.net/news/thumbnail/202607/668917_281904_811_v150.jpg"
     },
     {
-      "title": "'AI 어벤져스 8인' 집결...이 대통령, '샌프란 AI 선언' 발표",
-      "url": "https://n.news.naver.com/mnews/article/052/0002384338?sid=100",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0725/202607251039157948_t.jpg"
+      "title": "삼성전자, 베트남 상업용 세탁·건조 시장 진출…현지 3사와 유통망 구...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=104909",
+      "img": "https://www.theguru.co.kr/data/photos/20260730/art_17849380220875_c855e0.jpg"
     },
     {
-      "title": "여름철 냉장고는 ‘가득 채워야’ 이득? …의외로 모르는 보관법",
-      "url": "https://n.news.naver.com/mnews/article/032/0003460305?sid=103",
-      "img": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260723.ffd4846f50524d1985c7ba343548d533_P1.jpg"
+      "title": "[그때 그 광고]\"시간 좀 내주오\"로 시장 평정한 하이마트",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049207?sid=101",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "탄소 데이터도 '검증'이 경쟁력…하나루프, 국제표준 기반 탄소관리 플...",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201735",
-      "img": "https://cdn.energydaily.co.kr/news/photo/202607/201735_201491_4433.png"
+      "title": "삼성SDS, 앤트로픽과 파트너십…기업 AI사업 확대",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044550",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202607/5044550_2043028_4050.jpg"
     },
     {
-      "title": "기업이 사람을 자른 뒤에야 깨달은 AI 시대 인재는",
-      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11010",
-      "img": "https://cdn.newsverse.kr/news/thumbnail/202607/11010_18972_2518_v150.jpg"
+      "title": "의령과 하동에서 인공지능(AI) 기반 택시·버스 달린다",
+      "url": "https://n.news.naver.com/mnews/article/658/0000150551?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0726/L20260726.99099007547i1.jpg?23"
     }
   ]
 };
