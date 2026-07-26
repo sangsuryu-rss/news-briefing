@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.27 (월) 02:57",
+  "updatedAt": "2026.07.27 (월) 06:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-25",
+    "asOf": "2026-07-27",
     "items": [
       {
         "label": "LME 구리",
@@ -39,17 +39,17 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,463.10",
-        "diff": "-13.40",
-        "rate": "-0.91%",
+        "value": "1,462.70",
+        "diff": "-13.80",
+        "rate": "-0.93%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "892.95",
-        "diff": "-8.43",
-        "rate": "-0.94%",
+        "value": "893.72",
+        "diff": "-7.66",
+        "rate": "-0.85%",
         "dir": "down"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 모델·SW·데이터센터 핵심 부품… 중국 수출 품목, 첨단 기술로 이동",
-          "desc": "과거 저가 가전과 기계 장비 중심이던 중국 수출이 이제는 인공지능(AI) 모델, 소프트웨어, 데이터센터... 업계 관계자는 “국내 AI 기업과의 가격 경쟁이 심화될 수 있지만, 세계적인 AI 모델 이용 증가는 삼성전자와...",
+          "title": "삼성이 점찍은 '집 짓는 공장'…다음 목표는 20층 목조 아파트",
+          "desc": "처음에는 박람회에 함께 참여해 가전제품을 설치하는 정도였지만 이후 공간제작소 쇼룸과 주택에 삼성전자 가전과 스마트홈 시스템을 적용하는 협업으로 확대됐다. 주택을 제작할 때 냉장고와 에어컨 등 가전제품을 미리...",
           "src": "조선일보",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/023/0003989720?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/RGNNGYNDZNBLHBZCQVJ2W24O2A.jpg?auth=fc357d9eefa4d98e50f76a0d9e9548bc958aab0b98eff6e5e32081b45b8e2731&width=1200&height=630&smart=true"
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/24/2026072401164.html",
+          "img": "https://image.chosun.com/sitedata/image/202607/24/2026072401160_0.jpg"
         },
         {
           "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
         },
         {
-          "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
-          "desc": "삼성전자는 현재 전 세계에 반도체와 스마트폰, 가전 생산기지를 운영하고 있어 자체 공장에서 기술을 검증하고 확대 적용할 수 있는 장점을 갖고 있다. 로봇이 공장 생산라인에 투입될 경우, 반도체 부문을 비롯한 주여...",
-          "src": "autodaily",
-          "date": "07/26",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
+          "title": "[재계 이슈] 현대의 '거북선 외교'… 조선 명가와 英 왕실의 반세기 인...",
+          "desc": "| 국내 최대 '에이전틱 AI' 도입 계약 삼성전자, 업무용 AI로 제미나이 선택삼성전자가 스마트폰·TV·생활가전을 담당하는 디바이스경험(DX)부문의 기업용 인공지능(AI) 업무 플랫폼으로 구글 ‘제미나이 엔터프라이즈’...",
+          "src": "조선일보",
+          "date": "07/27",
+          "url": "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000026.html",
+          "img": "https://economychosun.com/site/data/img_dir/2026/07/20/2026072000026_0.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰]김유경 대구소마고 교장, “AI에 대체되는 개발자 아닌, AI 리딩...",
-          "desc": "=이제는 코딩 기술만 갖춘 개발자보다, 현장의 수요를 정확히 읽고 기획, 개발, 시스템 관리, 데이터 분석, 마케팅, 피드백 반영까지 프로젝트 전 과정을 주도하는 'AI 활용 풀스택 엔지니어링' 역량을 갖춘 인재가...",
-          "src": "전자신문",
+          "title": "서초구, ‘인공지능위원회’ 출범…공공·민간 AI 정책 안전성 강화",
+          "desc": "앞으로는 민간 분야 AI 활용에 대해서도 윤리성과 안전성 검토 및 자문 기능을 확대할 계획이다. 구는 위원회 운영을 통해 공공행정과 민간의 AI 기술 도입 과정에서 발생할 수 있는 부작용을 최소화하고 보다 신뢰도 높은...",
+          "src": "munhwa",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/030/0003451047?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/07/23/news-p.v1.20260723.cc1ae22e79d24ac6b862c7be839b448b_P1.png"
+          "url": "https://n.news.naver.com/mnews/article/021/0002807088?sid=102",
+          "img": "https://wimg.munhwa.com/news/cms/2026/07/27/news-p.v1.20260727.95efc1991cde4a49b91fdd486b4fa9c5_R.jpg"
         },
         {
-          "title": "AI에 일자리 뺏겼다, IT·전문직 청년 취업자 17% 줄어",
-          "desc": "한국의 AI 도입률이 향후 10년 내 주요국 중 가장 높은 수준이 될 것이라는 전망 또한 청년 고용 시장엔 악재다. 한 공기업 대표는 “정부 지침 없이는 인원을 줄일 수 없겠지만, 이미 내부적으로는 AI를 잘 활용하면...",
-          "src": "조선일보",
+          "title": "[지금, 대학가는] 경기과기대, 반월·시화 산단 '제조-AX' 혁신 주도 / 서...",
+          "desc": "경기과학기술대학교(이하 경기과기대)가 반월·시화 국가산업단지 내 2만5천여 제조 중소기업의 인공지능... 경기과기대는 영세 소공인들이 AI 도입 시 겪는 '데이터 병목' 문제를 해결하기 위해 개발된 저비용 실증...",
+          "src": "bizwnews",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/023/0003989772?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/LKI445KAUBAOLLN5Q2HRML22VE.png?auth=6e293a2bc1bbfa89e0898764caf660dd88276fb631b34cda0fc23caba13d8c4e&width=1200&height=630&smart=true"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=141534",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202607/141534_158308_589_v150.jpg"
         },
         {
-          "title": "[이경전의 AI와 비즈니스모델] 현실에선 AI가 일자리 만든다",
-          "desc": "공고에 AI라는 단어가 더 자주 등장하고 있다. 기업이 사람을 필요로 하지 않는 것이 아니라, AI를 활용해... AI 도입으로 인력 감축이 일어난다는 통념은 구체적인 데이터로 확인되지 않는다. 기업은 AI 때문에 사람을...",
-          "src": "한국경제",
+          "title": "조철제, AI시대 로컬IT 확산을 위한 PR전략",
+          "desc": "[산업과 생활 속으로 급속히 확산되고 있는 AI] 이제 AI는 단순한 기술 혁신을 통한 개인 생활의 영향력을... 게다가 다양한 분야에 AI가 도입되고 빅데이터가 활용되면서 그 데이터의 양은 점점 증가하고 있다. 2024년...",
+          "src": "abcn",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005313982?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=89818",
+          "img": "https://cdn.abcn.kr/news/thumbnail/202607/89818_47383_2942_v150.jpg"
         },
         {
-          "title": "\"안중근 유해발굴은 동양평화의 사명\"",
-          "desc": "구체적이고 신빙성 있는 핀포인트 좌표가 특정된 만큼, 마잉푸 일대에 대한 지표투과레이더(GPR) 기술 도입 및 인공지능(AI)을 활용한 정밀 위치 추정 탐사는 유해 발굴의 성패를 가를 필수적인 과정이다. 중국 당국은...",
-          "src": "tongilnews",
+          "title": "[비바100] “멀티오믹스 AI로 신약 개발 패러다임 바꾼다⋯ 신약 발굴 전...",
+          "desc": "바이오인포메틱스는 AI와 컴퓨터 기술을 활용해 방대한 생명정보와 유전자 데이터를 분석하고 신약... MuN-AI를 도입했다. 배영우 대표는 “움트와의 전략적 파트너십을 통해 임상시험 전문성과 AI 기술력을 결합해...",
+          "src": "브릿지경제",
           "date": "07/27",
-          "url": "http://www.tongilnews.com/news/articleView.html?idxno=217071",
-          "img": "https://cdn.tongilnews.com/news/thumbnail/202607/217071_117312_3254_v150.jpg"
+          "url": "https://www.viva100.com/article/20260725500274",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/25/.cache/512/20260725500267.jpg?v=20260727065420"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI 모델·SW·데이터센터 핵심 부품… 중국 수출 품목, 첨단 기술로 이동",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989720?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/RGNNGYNDZNBLHBZCQVJ2W24O2A.jpg?auth=fc357d9eefa4d98e50f76a0d9e9548bc958aab0b98eff6e5e32081b45b8e2731&width=1200&height=630&smart=true"
+      "title": "삼성이 점찍은 '집 짓는 공장'…다음 목표는 20층 목조 아파트",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/24/2026072401164.html",
+      "img": "https://image.chosun.com/sitedata/image/202607/24/2026072401160_0.jpg"
     },
     {
       "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "삼성 로봇사업, 옵티머스. 아틀라스와 경쟁보다 AI 공장 전환에 초점",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546114",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546114_189669_2528_v150.jpg"
+      "title": "[재계 이슈] 현대의 '거북선 외교'… 조선 명가와 英 왕실의 반세기 인...",
+      "url": "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000026.html",
+      "img": "https://economychosun.com/site/data/img_dir/2026/07/20/2026072000026_0.jpg"
     },
     {
-      "title": "[인터뷰]김유경 대구소마고 교장, “AI에 대체되는 개발자 아닌, AI 리딩...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003451047?sid=102",
-      "img": "https://img.etnews.com/news/article/2026/07/23/news-p.v1.20260723.cc1ae22e79d24ac6b862c7be839b448b_P1.png"
+      "title": "서초구, ‘인공지능위원회’ 출범…공공·민간 AI 정책 안전성 강화",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807088?sid=102",
+      "img": "https://wimg.munhwa.com/news/cms/2026/07/27/news-p.v1.20260727.95efc1991cde4a49b91fdd486b4fa9c5_R.jpg"
     },
     {
-      "title": "AI에 일자리 뺏겼다, IT·전문직 청년 취업자 17% 줄어",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989772?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/LKI445KAUBAOLLN5Q2HRML22VE.png?auth=6e293a2bc1bbfa89e0898764caf660dd88276fb631b34cda0fc23caba13d8c4e&width=1200&height=630&smart=true"
+      "title": "[지금, 대학가는] 경기과기대, 반월·시화 산단 '제조-AX' 혁신 주도 / 서...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=141534",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202607/141534_158308_589_v150.jpg"
     }
   ]
 };
