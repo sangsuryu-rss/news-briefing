@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.27 (월) 17:25",
+  "updatedAt": "2026.07.27 (월) 21:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,41 +31,41 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.40",
-        "diff": "-4.91",
-        "rate": "-5.50%",
+        "value": "83.57",
+        "diff": "-5.74",
+        "rate": "-6.43%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,471.50",
-        "diff": "+9.00",
-        "rate": "+0.62%",
+        "value": "1,471.00",
+        "diff": "+8.50",
+        "rate": "+0.58%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "899.56",
-        "diff": "+6.02",
-        "rate": "+0.67%",
+        "value": "898.70",
+        "diff": "+5.16",
+        "rate": "+0.58%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.17",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "8.19",
+        "diff": "+0.02",
+        "rate": "+0.24%",
+        "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.59",
-        "diff": "+0.02",
-        "rate": "+0.36%",
+        "value": "5.60",
+        "diff": "+0.03",
+        "rate": "+0.54%",
         "dir": "up"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 공동주택 환경서 고효율 히트펌프 ‘EHS 올인원’ 실증",
-          "desc": "임성택 삼성전자 DA(생활가전)사업부 부사장은 “실증을 통해 확보한 데이터를 바탕으로 공동주택의 전기 기반 냉난방 전환을 지원하고 건물 부문의 탄소중립 실현을 위한 히트펌프 기술 개발과 보급을 지속 확대해 나갈...",
-          "src": "서울신문",
+          "title": "몰락이냐 '제2 한강의 기적'이냐…한국에 경고 쏟아졌다",
+          "desc": "나빈 기리샹카르 CSIS 경제안보기술부 부문장은 “중국 기업이 가전, 배터리, 석유화학, 전기차 등 주요... CSIS는 삼성전자와 SK하이닉스의 고대역폭메모리(HBM)를 대표 사례로 꼽았다. 한국 기업은 세계 HBM 시장에서 80...",
+          "src": "한국경제",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/081/0003665063?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727170326_O2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005314437?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/99.40832020.1.jpg"
         },
         {
           "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[병원계 소식] 7월 27일",
-          "desc": "기존 고주파나 냉각 방식이 열을 이용하는 것과 달리, 펄스장절제술은 열이 아닌 전기장 에너지를 활용한다.... 이번 협약은 대한민국 전역의 필수 및 공공 치의료 인프라에 인공지능(AI) 기술을 성공적으로 도입...",
-          "src": "doctorstimes",
+          "title": "\"AI로 대체한다더니…\" 기업들, 감원 멈추고 채용",
+          "desc": "AI 기술을 도입하는 것만으로는 성장을 도모하기 어렵고, 오히려 AI를 활용해 업무를 수행할 전문 인력이 필수적이라는 인식이 확산한 영향이다. 26일(현지시간) 월스트리트저널(WSJ)에 따르면 철도 대기업 CSX부터 구글...",
+          "src": "한스경제",
           "date": "07/27",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239221",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239221_109327_3932_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852752",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/852752_871200_753_v150.jpg"
         },
         {
-          "title": "철도차량 정비 전주기 관리체계 손질…예방중심 정비체계 정착",
-          "desc": "제3자 정비현장 지원체계 구축을 위해 정비지도사 도입 및 현장 밀착점검을 추진하고 취약시간 정비품질... 김태병 국토부 철도국장은 \"노후화, 기후변화, AI 기술 등 열차 운행환경 변화에 선제적으로 대응하기 위해...",
-          "src": "korea",
+          "title": "안양시, 정부 AI 공모 9개 싹쓸이...619억 확보로 첨단도시 대전환",
+          "desc": "4) 수준의 자율주행 셔틀 서비스 도입. AI 탄력 주차 서비스: 도심 주차 난제를 해결하기 위해 주차 수요를... 취약계층 가구(약 50여 곳 등)를 대상으로 AI 기술을 활용한 자율형 능동 돌봄 및 모니터링 서비스 지원 등이다.",
+          "src": "CNB뉴스",
           "date": "07/27",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968845&call_from=naver_news",
-          "img": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/27/701d59ae312c7032449eafaf3ca7a691.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009370",
+          "img": "https://cdn.cnbnews.com/news/photo/202607/1009370_510351_3645.jpg"
         },
         {
-          "title": "CJ대한통운-환경공단, AI 기반 적정포장 검증 체계 구축",
-          "desc": "현장에 도입되면 적정포장 검증 과정의 디지털 전환은 물론 규제 적용의 일관성을 높일 수 있을 것으로 기대하고 있다. 김정희 CJ대한통운 TES물류기술연구소장은 \"이번 협력은 민관이 함께 AI 기술을 활용해 적정포장...",
-          "src": "아이뉴스24",
+          "title": "수원시 ‘스마트 포용도시’ 정책…유엔이 인정한 ‘국제 표준’",
+          "desc": "디지털 혁신 영역의 ‘새빛톡톡’은 96.3점(매우 우수)을 받으며 기술 복지의 우수성을 증명했다. 수원시의 인공지능 혁신 거버넌스 소개. 수원시 제공 유엔 해비타트는 수원시 모델을 전 세계 도시가 활용할 수 있는...",
+          "src": "segye",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/031/0001045137?sid=101",
-          "img": "https://image.inews24.com/v1/a5252ca69f4a44.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004146330?sid=102",
+          "img": "https://www.segye.com/content/image/2026/07/27/20260727517350.jpg"
         },
         {
-          "title": "차바이오텍, 세포치료제 개발·인허가 문서 업무 AI로 자동화",
-          "desc": "차바이오텍이 생성형 인공지능(AI)을 활용해 세포치료제 개발과 인허가에 필요한 규제 문서 작성·검증 업무를 자동화한다. 차바이오텍은 과학기술정보통신부가 주관하는 'AX(인공지능 전환) 원스톱 바우처' 지원사업에...",
-          "src": "소비자가만드는신문",
+          "title": "인천환경공단, 전국 공공기관 최초 'AI 활용 보고문서 사전 검증' 제도 ...",
+          "desc": "현재 공단은 방류수 수질예측 시스템 고도화 및 지능형 안전관리 기술 실증 등을 통해 스마트 공단으로의 체질 개선에 온 힘을 쏟고 있다. 김성훈 인천환경공단 이사장은 \"AI 사전 검증 제도 도입은 공단 행정의 신뢰도와...",
+          "src": "cstimes",
           "date": "07/27",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760186",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/760186_315762_5835_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=714783",
+          "img": "https://www.cstimes.com/news/photo/202607/714783_634981_352.jpg"
         }
       ]
     },
@@ -166,12 +166,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "‘반도체 생산’ 수도권 비중 82%···‘호남 클러스터’가 반도체 지도...",
+          "desc": "그간 수도권에는 삼성전자와 SK하이닉스 같은 대기업이 반도체 시설을 짓고 그 주변으로 협력사와 소부장(소재·부품·장비) 기업들이 자리를 잡으면서 하나의 ‘반도체 생태계’가 조성됐다. 최근에는 수도권에...",
+          "src": "khan",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/032/0003460647?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/07/27/news-p.v1.20260727.0d73f7fb5632400896f7a31fab05dcee_P1.png"
+        },
+        {
+          "title": "[매일신문 조규덕 기자의 위클리TK] 삼성 구미 19조 투자, 조직 개편",
+          "desc": "삼성이 미래 먹거리로 선택한 '로봇 사업'의 윤곽이 조금씩 드러나고 있습니다. 특히 삼성전자 대표이사... 삼성의 대형 투자 효과를 지역 전체로 확산시키려면, 협력사들이 고도화된 로봇 정밀 부품과 센서 체계로 빠르게...",
+          "src": "srn",
+          "date": "07/27",
+          "url": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026072700019&story_seq=0&soCode=114&socttSn=NS2026072700019&socttSeq=0",
+          "img": ""
+        },
+        {
           "title": "국산 장비사 수주잔고 폭발… 삼성⋅SK '용인 속도전'이 당긴 호황기",
           "desc": "장비 협력사들의 올해 1분기 말 수주 잔고가 역대 최고 수준인 수천억원대를 기록하며 반도체 소재·부품·장비(소부장) 업계가 완연한 호황기(빅사이클)에 진입했다. 이번 수주 폭발은 삼성전자와 SK하이닉스가 용인...",
           "src": "디지털데일리",
           "date": "07/27",
           "url": "https://n.news.naver.com/mnews/article/138/0002235586?sid=105",
-          "img": ""
+          "img": "https://www.ddaily.co.kr/photos/2025/12/10/2025121016554496160_l.jpg"
         },
         {
           "title": "온디바이스 AI·디자인하우스 호재… 시스템반도체 테마 '훨훨'",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/27",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471814",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471814_459354_215_v150.jpg"
-        },
-        {
-          "title": "[오늘의 특징주] 로봇 손 신기술 발표에… 케이엔알시스템 등 코스닥 7개...",
-          "desc": "로봇 기술 전문기업 케이엔알시스템은 산업형 '슈퍼휴머노이드'의 핵심 부품인 초고하중 로봇손 개발... 핵심 협력사인 오브젠으로 대규모 AI 수혜 매수세가 집중됐다. 첨단 소재 기업 아이씨에이치는 삼성전자 차세대...",
-          "src": "ppss",
-          "date": "07/27",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=303292",
-          "img": "https://cdn.ppss.kr/news/photo/202607/303292_122995_1358.jpeg"
-        },
-        {
-          "title": "<포커스> 전북 800조 반도체 협력도시 제안과 옛 김제공항 예정부지",
-          "desc": "삼성전자의 800조 반도체 공장 투자는 전남·광주에 밀렸지만, 그 협력사들은 우리 전북에 유치하자는 제안을... 삼전이나 닉스 등 초일류기업들의 반도체 공장 한 곳이 가동되려면, 부품·장비·소재 협력기업 수천 곳이...",
-          "src": "domin",
-          "date": "07/26",
-          "url": "http://www.domin.co.kr/news/articleView.html?idxno=1563040",
-          "img": "http://www.domin.co.kr/news/thumbnail/202607/1563040_774784_296_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 공동주택 환경서 고효율 히트펌프 ‘EHS 올인원’ 실증",
-      "url": "https://n.news.naver.com/mnews/article/081/0003665063?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727170326_O2.jpg"
+      "title": "몰락이냐 '제2 한강의 기적'이냐…한국에 경고 쏟아졌다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314437?sid=101",
+      "img": "https://img.hankyung.com/photo/202607/99.40832020.1.jpg"
     },
     {
       "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "[병원계 소식] 7월 27일",
-      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239221",
-      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239221_109327_3932_v150.jpg"
+      "title": "\"AI로 대체한다더니…\" 기업들, 감원 멈추고 채용",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852752",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/852752_871200_753_v150.jpg"
     },
     {
-      "title": "철도차량 정비 전주기 관리체계 손질…예방중심 정비체계 정착",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968845&call_from=naver_news",
-      "img": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/27/701d59ae312c7032449eafaf3ca7a691.jpg"
+      "title": "안양시, 정부 AI 공모 9개 싹쓸이...619억 확보로 첨단도시 대전환",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009370",
+      "img": "https://cdn.cnbnews.com/news/photo/202607/1009370_510351_3645.jpg"
     }
   ]
 };
