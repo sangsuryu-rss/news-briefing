@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.27 (월) 08:52",
+  "updatedAt": "2026.07.27 (월) 13:32",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,50 +31,50 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.70",
-        "diff": "-4.61",
-        "rate": "-5.16%",
+        "value": "85.01",
+        "diff": "-4.30",
+        "rate": "-4.81%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,461.00",
-        "diff": "-1.50",
-        "rate": "-0.10%",
-        "dir": "down"
+        "value": "1,466.90",
+        "diff": "+4.40",
+        "rate": "+0.30%",
+        "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "892.65",
-        "diff": "-0.89",
-        "rate": "-0.10%",
-        "dir": "down"
+        "value": "896.75",
+        "diff": "+3.21",
+        "rate": "+0.36%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.16",
-        "diff": "-0.01",
-        "rate": "-0.12%",
+        "value": "8.15",
+        "diff": "-0.02",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.56",
-        "diff": "-0.01",
-        "rate": "-0.18%",
-        "dir": "down"
+        "value": "5.57",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.12",
-        "diff": "-0.02",
-        "rate": "-0.13%",
-        "dir": "down"
+        "value": "15.24",
+        "diff": "+0.10",
+        "rate": "+0.66%",
+        "dir": "up"
       }
     ]
   },
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 공동주택 환경서 고효율 히트펌프 'EHS 올인원' 실증",
-          "desc": "임성택 삼성전자 DA(생활가전)사업부 부사장은 \"실증을 통해 확보한 데이터를 바탕으로 공동주택의 전기 기반 냉난방 전환과 건물 부문 탄소중립 실현을 위한 히트펌프 기술 개발과 보급을 지속 확대해 나갈 계획\"이라고...",
-          "src": "연합뉴스",
+          "title": "삼성전자, 히트펌프 실증 확대·갤럭시 Z8 출시…미래시장 공략 본격화",
+          "desc": "삼성전자가 공동주택용 전기 기반 냉난방 시스템 실증과 차세대 폴더블 스마트폰 출시를 통해 친환경 가전과 모바일 사업 경쟁력 강화에 나선다. 삼성전자는 이달부터 경기도 용인시 삼성물산 주거성능연구소에서...",
+          "src": "newstnt",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/001/0016215806?sid=101",
-          "img": ""
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=711703",
+          "img": "https://cdn.newstnt.com/news/photo/202607/711703_713977_1833.jpg"
         },
         {
           "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "하나금융, 그룹사 임원 140명 대상 'AX 워크숍'…AI와 함께 일하는 금융...",
-          "desc": "구현하며 AI를 단순한 업무 보조 도구가 아닌 함께 일하는 파트너로 활용하는 새로운 업무 방식을 체험했다. 하나금융그룹은 성공적인 AX 전환을 위해서는 기술 도입뿐 아니라 조직을 이끄는 리더들의 인식과 업무 방식...",
-          "src": "public25",
+          "title": "코드게이트, AI 화이트해커 키운다…글로벌 펠로우십 출범",
+          "desc": "AI 기술을 활용할 수 있는 차세대 화이트해커를 체계적으로 육성하기 위한 교육 프로그램을 새롭게... 프로그램을 도입한다고 27일 밝혔다. 첫 기수는 오는 9월 모집할 예정이다. 글로벌 펠로우십은 기존의 취약점 분석...",
+          "src": "매일경제",
           "date": "07/27",
-          "url": "https://www.public25.com/news/articleView.html?idxno=51456",
-          "img": "https://cdn.public25.com/news/photo/202607/51456_51704_4951.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005712671?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.d5a5bba4e66a492ba6f26e0b0f753c79_R.jpg"
         },
         {
-          "title": "[디지털 대한민국을 선도한다] LX한국국토정보공사 강원지역본부 이강성...",
-          "desc": "먼저 사업 경쟁력 강화를 위해 본부 중심의 영업체계를 확대하고, 권역 단위 인력·팀 운영방식을 도입했다.... 단순히 기술을 소개하는 교육이 아니라, 교육생들이 AI를 직접 활용해 지역 현장에서 필요한 결과물을...",
-          "src": "ikld",
+          "title": "브라질서 젖소 토큰화 첫 사례…막힌 농가 대출, RWA 돌파구 되나",
+          "desc": "회사는 이 중 최대 20%가 토큰화 금융 모델을 도입할 것으로 보고 있으며, 이를 통해 약 7,760만 달러(약 1... 기사요약 by TokenPost.ai 시장 해석 브라질 농가가 젖소를 토큰화해 증권거래소에서 담보로 활용한 사례는...",
+          "src": "tokenpost",
           "date": "07/27",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=338117",
-          "img": "http://www.ikld.kr/news/thumbnail/202607/338117_185045_5013_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/381584",
+          "img": "https://f1.tokenpost.kr/2026/07/yyz9d16ppz.webp"
         },
         {
-          "title": "태양광발전소 고장나면 AI가 원인 분석해 단시간내 복구 손실 줄인다",
-          "desc": "AI 도입 전 평균 10.58일이 걸리던 과정이 4시간대로 줄었다. 헬리오스는 이상이 발생한 위치와 유형을 좁혀... 정하는 기술이 활용된다. 드론 열화상 촬영도 현장 점검에 들어왔다. 넓은 발전소를 사람이 일일이 훑는 대신...",
-          "src": "g-enews",
+          "title": "차바이오텍, AI 기반 CMC 플랫폼 구축…세포치료제 상용화 가속",
+          "desc": "인공지능(AI)이 본격 도입된다. 차바이오텍이 AI 기반 CMC(Chemistry, Manufacturing and Controls·제조·품질관리)... 여기에 AI 운영기술(AI Ops)을 접목해 AI 모델 관리와 데이터 운영을 자동화함으로써 검색(Search)-분석(Analysis)...",
+          "src": "e-science",
           "date": "07/27",
-          "url": "https://www.g-enews.com/view.php?ud=20260726084948293f7ba87f45b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072522502007126f7ba87f45b6178187211.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=132484",
+          "img": "https://cdn.e-science.co.kr/news/photo/202607/132484_64696_2725.jpg"
         },
         {
-          "title": "삼성SDS, 앤트로픽과 전략적 협력…국내 엔터프라이즈 AI 공략 강화",
-          "desc": "양사는 기술력과 산업별 노하우를 결합해 국내 기업의 AI 도입을 지원하고 새로운 사업 기회를 공동... 먼저 도입해 활용하고 있다. 회사에 따르면 도입 초기 몇 주 동안 임직원이 클로드와 주고받은 메시지는 100만...",
-          "src": "epnc",
+          "title": "\"결과 예측 넘어 이유까지 이해\"… KAIST '이론화 학습' AI 한계 넘는다",
+          "desc": "이를 통해 정답 제공 없이도 AI가 독자적으로 유의미한 변환 규칙을 추출할 수 있음을 입증했다.이번 기술은 향후 지능형 로봇과 자율 에이전트 분야에서 활용도가 클 것으로 예상된다.기존 로봇 제어 기술은 수많은...",
+          "src": "cctoday",
           "date": "07/27",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404725",
-          "img": "https://cdn.epnc.co.kr/news/photo/202607/404725_405051_4540.jpg"
+          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233841",
+          "img": "https://cdn.cctoday.co.kr/news/photo/202607/2233841_690915_2458.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "온디바이스 AI·디자인하우스 호재… 시스템반도체 테마 '훨훨'",
+          "desc": "삼성전자 파운드리의 핵심 디자인 솔루션 파트너로서 최첨단 공정 기반의 AI 칩 수주 확대 기대감이 주가... 마이크로 LED 및 디스플레이 구동칩 관련 설계를 담당하는 사피엔반도체와 삼성 파운드리 주요 협력사인...",
+          "src": "핀포인트뉴스",
+          "date": "07/27",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471814",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471814_459354_215_v150.jpg"
+        },
+        {
+          "title": "[오늘의 특징주] 로봇 손 신기술 발표에… 케이엔알시스템 등 코스닥 7개...",
+          "desc": "로봇 기술 전문기업 케이엔알시스템은 산업형 '슈퍼휴머노이드'의 핵심 부품인 초고하중 로봇손 개발... 핵심 협력사인 오브젠으로 대규모 AI 수혜 매수세가 집중됐다. 첨단 소재 기업 아이씨에이치는 삼성전자 차세대...",
+          "src": "ppss",
+          "date": "07/27",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=303292",
+          "img": "https://cdn.ppss.kr/news/photo/202607/303292_122995_1358.jpeg"
+        },
         {
           "title": "<포커스> 전북 800조 반도체 협력도시 제안과 옛 김제공항 예정부지",
           "desc": "삼성전자의 800조 반도체 공장 투자는 전남·광주에 밀렸지만, 그 협력사들은 우리 전북에 유치하자는 제안을... 삼전이나 닉스 등 초일류기업들의 반도체 공장 한 곳이 가동되려면, 부품·장비·소재 협력기업 수천 곳이...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/26",
           "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267880",
           "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267880_343006_2533_v150.jpg"
-        },
-        {
-          "title": "하나AI, 제조·물류·로봇을 AI로 연결한다",
-          "desc": "◇삼성전자 1차 협력사와 제조 AX 계약 하나AI는 최근 삼성전자 1차 협력사인 J사와 제조현장 AX 도입을 위한... ◇로봇·자동차부품 산업으로 적용 확대 하나AI는 코스닥 상장을 준비 중인 로봇기업 A사와도 산업용...",
-          "src": "ccdn",
-          "date": "07/26",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1090163",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202607/1090163_600548_5523_v150.jpg"
-        },
-        {
-          "title": "기능성 필름부터 반도체 기판까지… 세경하이테크 부품 라인업 공개",
-          "desc": "및 부품 라인업을 공개했다. 폴더블 디스플레이 분야에서는 균열 발생을 차단하는 UTG(Ultra Thin Glass)... 삼성전자 ‘갤럭시 Z 폴드·플립’ 시리즈에 탑재되는 UTG 보호필름(PL)을 공급해 온 주요 협력사다....",
-          "src": "kidd",
-          "date": "07/26",
-          "url": "https://kidd.co.kr/news/246825",
-          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/24/1784876685_54.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, 히트펌프 실증 확대·갤럭시 Z8 출시…미래시장 공략 본격화",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=711703",
+      "img": "https://cdn.newstnt.com/news/photo/202607/711703_713977_1833.jpg"
+    },
+    {
       "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
       "url": "https://www.econovill.com/news/articleView.html?idxno=746194",
       "img": "https://cdn.econovill.com/news/thumbnail/202607/746194_720111_023_v150.jpg"
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/7/26/8025988/high.jpg"
     },
     {
-      "title": "하나금융, 그룹사 임원 140명 대상 'AX 워크숍'…AI와 함께 일하는 금융...",
-      "url": "https://www.public25.com/news/articleView.html?idxno=51456",
-      "img": "https://cdn.public25.com/news/photo/202607/51456_51704_4951.jpg"
+      "title": "코드게이트, AI 화이트해커 키운다…글로벌 펠로우십 출범",
+      "url": "https://n.news.naver.com/mnews/article/009/0005712671?sid=105",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.d5a5bba4e66a492ba6f26e0b0f753c79_R.jpg"
     },
     {
-      "title": "[디지털 대한민국을 선도한다] LX한국국토정보공사 강원지역본부 이강성...",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=338117",
-      "img": "http://www.ikld.kr/news/thumbnail/202607/338117_185045_5013_v150.jpg"
-    },
-    {
-      "title": "태양광발전소 고장나면 AI가 원인 분석해 단시간내 복구 손실 줄인다",
-      "url": "https://www.g-enews.com/view.php?ud=20260726084948293f7ba87f45b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072522502007126f7ba87f45b6178187211.jpg"
+      "title": "브라질서 젖소 토큰화 첫 사례…막힌 농가 대출, RWA 돌파구 되나",
+      "url": "https://www.tokenpost.kr/news/blockchain/381584",
+      "img": "https://f1.tokenpost.kr/2026/07/yyz9d16ppz.webp"
     }
   ]
 };
