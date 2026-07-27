@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.27 (월) 21:16",
+  "updatedAt": "2026.07.28 (화) 00:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-27",
+    "asOf": "2026-07-28",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.57",
-        "diff": "-5.74",
-        "rate": "-6.43%",
+        "value": "83.18",
+        "diff": "-6.13",
+        "rate": "-6.86%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,471.00",
-        "diff": "+8.50",
-        "rate": "+0.58%",
+        "value": "1,468.10",
+        "diff": "+5.60",
+        "rate": "+0.38%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "898.70",
-        "diff": "+5.16",
-        "rate": "+0.58%",
+        "value": "896.91",
+        "diff": "+3.37",
+        "rate": "+0.38%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.19",
-        "diff": "+0.02",
-        "rate": "+0.24%",
-        "dir": "up"
+        "value": "8.17",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.60",
-        "diff": "+0.03",
-        "rate": "+0.54%",
+        "value": "5.59",
+        "diff": "+0.02",
+        "rate": "+0.36%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.34",
-        "diff": "+0.20",
-        "rate": "+1.32%",
+        "value": "15.31",
+        "diff": "+0.17",
+        "rate": "+1.12%",
         "dir": "up"
       }
     ]
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "몰락이냐 '제2 한강의 기적'이냐…한국에 경고 쏟아졌다",
-          "desc": "나빈 기리샹카르 CSIS 경제안보기술부 부문장은 “중국 기업이 가전, 배터리, 석유화학, 전기차 등 주요... CSIS는 삼성전자와 SK하이닉스의 고대역폭메모리(HBM)를 대표 사례로 꼽았다. 한국 기업은 세계 HBM 시장에서 80...",
-          "src": "한국경제",
-          "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005314437?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/99.40832020.1.jpg"
+          "title": "7000선 무너진 코스피···'150조 실적' 삼성·SK, 구원투수 등판할까",
+          "desc": "다만, 이번 주는 미국 연방공개시장위원회(FOMC)와 빅테크 실적, 삼성전자·SK하이닉스 2분기 실적 발표가... 실적 우려를 주가에 선반영한 만큼 반도체를 비롯해 IT하드웨어, IT가전, 2차전지, 조선, 화학, 기계 등 기존...",
+          "src": "ziksir",
+          "date": "07/28",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=141260",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202607/141260_161146_715_v150.jpg"
         },
         {
-          "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
-          "desc": "정 회장은 CES 2026 기간 삼성전자 전시관을 찾아 노태문 삼성전자 대표에게 즉석에서 협업을 제안했습니다. 전시된 로봇청소기 앞에서 정 회장은 “모베드와 결합하면 뒤집어지지도 않고 어디든 갈 수 있고 높낮이도...",
-          "src": "newstomato",
+          "title": "[인터뷰] 고레로보틱스, 로봇으로 건설 기간을 단축하는 방법은",
+          "desc": "로봇 분야에는 ‘상용화에 성공한 로봇은 로봇청소기밖에 없다’는 말이 있거든요. 그 말처럼 목적이... 삼성전자 평택 반도체 건설 현장의 경우 매년 참가해온 스마트건설 엑스포에서 인연이 닿아 이달 PoC를 진행하게...",
+          "src": "byline",
           "date": "07/27",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1308319&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/7/27/1308319/attach.jpg?v=202607271619"
+          "url": "https://byline.network/?p=9004111222613256",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/golerobotics-1.jpg"
         },
         {
           "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI로 대체한다더니…\" 기업들, 감원 멈추고 채용",
-          "desc": "AI 기술을 도입하는 것만으로는 성장을 도모하기 어렵고, 오히려 AI를 활용해 업무를 수행할 전문 인력이 필수적이라는 인식이 확산한 영향이다. 26일(현지시간) 월스트리트저널(WSJ)에 따르면 철도 대기업 CSX부터 구글...",
-          "src": "한스경제",
-          "date": "07/27",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852752",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/852752_871200_753_v150.jpg"
+          "title": "日, 칩·車·로봇 역량 결합… 피지컬 AI 선점 나서",
+          "desc": "제조 기술을 활용해 미래 AI 시장 주도권을 쥐겠다는 구상이다. 피지컬 AI는 눈(센서)과 몸(로봇)을 갖고... 소프트뱅크, 라쿠텐, 산업기술종합연구소(AIST) 등은 엔비디아 최신 AI 칩을 도입해 피지컬 AI 학습 인프라를...",
+          "src": "조선일보",
+          "date": "07/28",
+          "url": "https://n.news.naver.com/mnews/article/023/0003989912?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/V4VDW7YGOZDNZIWIOR6ECZDRG4.jpg?auth=fee8e688c1a29456944d7cdcc01204b2ad0576a57d5b0c20ad27fbbdda4670d9&width=999&height=524&smart=true"
         },
         {
-          "title": "안양시, 정부 AI 공모 9개 싹쓸이...619억 확보로 첨단도시 대전환",
-          "desc": "4) 수준의 자율주행 셔틀 서비스 도입. AI 탄력 주차 서비스: 도심 주차 난제를 해결하기 위해 주차 수요를... 취약계층 가구(약 50여 곳 등)를 대상으로 AI 기술을 활용한 자율형 능동 돌봄 및 모니터링 서비스 지원 등이다.",
-          "src": "CNB뉴스",
-          "date": "07/27",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009370",
-          "img": "https://cdn.cnbnews.com/news/photo/202607/1009370_510351_3645.jpg"
+          "title": "[신(新)인물탐구(49)] HD현대그룹 정기선 회장⑦ 리스크 관리 - 현장에서...",
+          "desc": "기술을 성장의 수단인 동시에 리스크 관리의 도구로 활용하는 시각이다. 대표적인 사례가 HD현대의 미래형 조선소(FOS·Future of Shipyard) 프로젝트다. HD현대는 2021년부터 데이터와 AI, 자동화, 로보틱스 기술을 적용한 스마트...",
+          "src": "news2day",
+          "date": "07/28",
+          "url": "https://www.news2day.co.kr/article/20260727500125",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500129.png"
         },
         {
-          "title": "수원시 ‘스마트 포용도시’ 정책…유엔이 인정한 ‘국제 표준’",
-          "desc": "디지털 혁신 영역의 ‘새빛톡톡’은 96.3점(매우 우수)을 받으며 기술 복지의 우수성을 증명했다. 수원시의 인공지능 혁신 거버넌스 소개. 수원시 제공 유엔 해비타트는 수원시 모델을 전 세계 도시가 활용할 수 있는...",
-          "src": "segye",
-          "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/022/0004146330?sid=102",
-          "img": "https://www.segye.com/content/image/2026/07/27/20260727517350.jpg"
+          "title": "AI 만나 폭발적 성장… 로봇 패권 전쟁 시작됐다",
+          "desc": "또 미국·중국·일본에 각각 글로벌 연구 거점을 두고 현지 기술 활용 및 인재 확보를 통해 경쟁력을... (RaaS)를 도입한다는 게 골자다. 이를 위해 그룹사 역량이 총동원된다. 현대차·기아는 제조 인프라와 대규모 생산...",
+          "src": "kmib",
+          "date": "07/28",
+          "url": "https://n.news.naver.com/mnews/article/005/0001863412?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0728/2026072720330650737_1785151986_1785052734.jpg"
         },
         {
-          "title": "인천환경공단, 전국 공공기관 최초 'AI 활용 보고문서 사전 검증' 제도 ...",
-          "desc": "현재 공단은 방류수 수질예측 시스템 고도화 및 지능형 안전관리 기술 실증 등을 통해 스마트 공단으로의 체질 개선에 온 힘을 쏟고 있다. 김성훈 인천환경공단 이사장은 \"AI 사전 검증 제도 도입은 공단 행정의 신뢰도와...",
-          "src": "cstimes",
-          "date": "07/27",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=714783",
-          "img": "https://www.cstimes.com/news/photo/202607/714783_634981_352.jpg"
+          "title": "[권희춘의 인공지능세상] AI 패권 승부, 지금이 골든타임이다",
+          "desc": "이러한 상황에서 대한민국이 메모리 기술이라는 세계 최고의 카드를 제대로 활용하지 못한다면 AI시대의... 다섯째, 국산 AI 추론칩과 AI 시스템반도체를 공공 분야부터 적극 도입해 국내 기업이 성장할 시장을 만들어야...",
+          "src": "m",
+          "date": "07/28",
+          "url": "https://m.skyedaily.com/news_view.html?ID=308553",
+          "img": "https://pds.skyedaily.com/top_image/202607/308553_p.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "수도권에 82% 쏠린 반도체 생산 지도, ‘호남 클러스터’가 바꿔낼까",
+          "desc": "그간 수도권에는 삼성전자와 SK하이닉스 같은 대기업이 반도체 시설을 짓고 그 주변으로 협력사와 소부장(소재·부품·장비) 기업들이 자리를 잡으면서 하나의 ‘반도체 생태계’가 조성됐다. 최근에는 수도권에...",
+          "src": "khan",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/032/0003460721?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/07/27/l_2026072801000825500080471.jpg"
+        },
         {
           "title": "‘반도체 생산’ 수도권 비중 82%···‘호남 클러스터’가 반도체 지도...",
           "desc": "그간 수도권에는 삼성전자와 SK하이닉스 같은 대기업이 반도체 시설을 짓고 그 주변으로 협력사와 소부장(소재·부품·장비) 기업들이 자리를 잡으면서 하나의 ‘반도체 생태계’가 조성됐다. 최근에는 수도권에...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/27",
           "url": "https://n.news.naver.com/mnews/article/138/0002235586?sid=105",
           "img": "https://www.ddaily.co.kr/photos/2025/12/10/2025121016554496160_l.jpg"
-        },
-        {
-          "title": "온디바이스 AI·디자인하우스 호재… 시스템반도체 테마 '훨훨'",
-          "desc": "삼성전자 파운드리의 핵심 디자인 솔루션 파트너로서 최첨단 공정 기반의 AI 칩 수주 확대 기대감이 주가... 마이크로 LED 및 디스플레이 구동칩 관련 설계를 담당하는 사피엔반도체와 삼성 파운드리 주요 협력사인...",
-          "src": "핀포인트뉴스",
-          "date": "07/27",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471814",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/471814_459354_215_v150.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "몰락이냐 '제2 한강의 기적'이냐…한국에 경고 쏟아졌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314437?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/99.40832020.1.jpg"
+      "title": "7000선 무너진 코스피···'150조 실적' 삼성·SK, 구원투수 등판할까",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=141260",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202607/141260_161146_715_v150.jpg"
     },
     {
-      "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1308319&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/7/27/1308319/attach.jpg?v=202607271619"
+      "title": "[인터뷰] 고레로보틱스, 로봇으로 건설 기간을 단축하는 방법은",
+      "url": "https://byline.network/?p=9004111222613256",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/golerobotics-1.jpg"
     },
     {
       "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "\"AI로 대체한다더니…\" 기업들, 감원 멈추고 채용",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852752",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/852752_871200_753_v150.jpg"
+      "title": "日, 칩·車·로봇 역량 결합… 피지컬 AI 선점 나서",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989912?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/V4VDW7YGOZDNZIWIOR6ECZDRG4.jpg?auth=fee8e688c1a29456944d7cdcc01204b2ad0576a57d5b0c20ad27fbbdda4670d9&width=999&height=524&smart=true"
     },
     {
-      "title": "안양시, 정부 AI 공모 9개 싹쓸이...619억 확보로 첨단도시 대전환",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009370",
-      "img": "https://cdn.cnbnews.com/news/photo/202607/1009370_510351_3645.jpg"
+      "title": "[신(新)인물탐구(49)] HD현대그룹 정기선 회장⑦ 리스크 관리 - 현장에서...",
+      "url": "https://www.news2day.co.kr/article/20260727500125",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500129.png"
     }
   ]
 };
