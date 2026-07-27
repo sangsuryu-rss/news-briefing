@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.27 (월) 13:32",
+  "updatedAt": "2026.07.27 (월) 17:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "85.01",
-        "diff": "-4.30",
-        "rate": "-4.81%",
+        "value": "84.40",
+        "diff": "-4.91",
+        "rate": "-5.50%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,466.90",
-        "diff": "+4.40",
-        "rate": "+0.30%",
+        "value": "1,471.50",
+        "diff": "+9.00",
+        "rate": "+0.62%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "896.75",
-        "diff": "+3.21",
-        "rate": "+0.36%",
+        "value": "899.56",
+        "diff": "+6.02",
+        "rate": "+0.67%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.15",
-        "diff": "-0.02",
-        "rate": "-0.24%",
-        "dir": "down"
-      },
-      {
-        "label": "베트남 동 (100)",
-        "unit": "원",
-        "value": "5.57",
+        "value": "8.17",
         "diff": "+0.00",
         "rate": "0.00%",
         "dir": "flat"
       },
       {
+        "label": "베트남 동 (100)",
+        "unit": "원",
+        "value": "5.59",
+        "diff": "+0.02",
+        "rate": "+0.36%",
+        "dir": "up"
+      },
+      {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.24",
-        "diff": "+0.10",
-        "rate": "+0.66%",
+        "value": "15.34",
+        "diff": "+0.20",
+        "rate": "+1.32%",
         "dir": "up"
       }
     ]
@@ -86,16 +86,24 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 히트펌프 실증 확대·갤럭시 Z8 출시…미래시장 공략 본격화",
-          "desc": "삼성전자가 공동주택용 전기 기반 냉난방 시스템 실증과 차세대 폴더블 스마트폰 출시를 통해 친환경 가전과 모바일 사업 경쟁력 강화에 나선다. 삼성전자는 이달부터 경기도 용인시 삼성물산 주거성능연구소에서...",
-          "src": "newstnt",
+          "title": "삼성전자, 공동주택 환경서 고효율 히트펌프 ‘EHS 올인원’ 실증",
+          "desc": "임성택 삼성전자 DA(생활가전)사업부 부사장은 “실증을 통해 확보한 데이터를 바탕으로 공동주택의 전기 기반 냉난방 전환을 지원하고 건물 부문의 탄소중립 실현을 위한 히트펌프 기술 개발과 보급을 지속 확대해 나갈...",
+          "src": "서울신문",
           "date": "07/27",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=711703",
-          "img": "https://cdn.newstnt.com/news/photo/202607/711703_713977_1833.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003665063?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727170326_O2.jpg"
+        },
+        {
+          "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
+          "desc": "정 회장은 CES 2026 기간 삼성전자 전시관을 찾아 노태문 삼성전자 대표에게 즉석에서 협업을 제안했습니다. 전시된 로봇청소기 앞에서 정 회장은 “모베드와 결합하면 뒤집어지지도 않고 어디든 갈 수 있고 높낮이도...",
+          "src": "newstomato",
+          "date": "07/27",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1308319&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/7/27/1308319/attach.jpg?v=202607271619"
         },
         {
           "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
-          "desc": "로봇청소기 시장 세계 1위 로보락이 국내에서 제품군을 빠르게 넓히고 있다. 주력인 청소가전 라인업을 강화하는 동시에, 삼성전자와 LG전자가 장악한 세탁가전 시장에도 신제품을 투입하며 종합 가전 브랜드로의...",
+          "desc": "주력인 청소가전 라인업을 강화하는 동시에, 삼성전자와 LG전자가 장악한 세탁가전 시장에도 신제품을 투입하며 종합 가전 브랜드로의 전환을 노린다. 로보락은 프리미엄 올인원 세탁건조기 'Zeo X(제오엑스)'를 지난...",
           "src": "econovill",
           "date": "07/26",
           "url": "https://www.econovill.com/news/articleView.html?idxno=746194",
@@ -108,14 +116,6 @@ window.NEWS_DATA = {
           "date": "07/26",
           "url": "https://n.news.naver.com/mnews/article/648/0000049207?sid=101",
           "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
-        },
-        {
-          "title": "드라마속 '투명한 스피어아이스' 이렇게 탄생…현실판 강시우 만났다",
-          "desc": "당시 스피어 아이스 기술 개발을 이끈 정진 삼성전자 DA 사업부 냉장고개발그룹 파트장과 김주영 생활가전사업부 개발팀 프로를 지난 23일 만나 탄생 비화를 들었다. 스피어 아이스 \"냉각 정밀 제어, 구조·실링 기술 녹아...",
-          "src": "뉴스1",
-          "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/421/0009079867?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/26/8025988/high.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "코드게이트, AI 화이트해커 키운다…글로벌 펠로우십 출범",
-          "desc": "AI 기술을 활용할 수 있는 차세대 화이트해커를 체계적으로 육성하기 위한 교육 프로그램을 새롭게... 프로그램을 도입한다고 27일 밝혔다. 첫 기수는 오는 9월 모집할 예정이다. 글로벌 펠로우십은 기존의 취약점 분석...",
-          "src": "매일경제",
+          "title": "[병원계 소식] 7월 27일",
+          "desc": "기존 고주파나 냉각 방식이 열을 이용하는 것과 달리, 펄스장절제술은 열이 아닌 전기장 에너지를 활용한다.... 이번 협약은 대한민국 전역의 필수 및 공공 치의료 인프라에 인공지능(AI) 기술을 성공적으로 도입...",
+          "src": "doctorstimes",
           "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/009/0005712671?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.d5a5bba4e66a492ba6f26e0b0f753c79_R.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239221",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202607/239221_109327_3932_v150.jpg"
         },
         {
-          "title": "브라질서 젖소 토큰화 첫 사례…막힌 농가 대출, RWA 돌파구 되나",
-          "desc": "회사는 이 중 최대 20%가 토큰화 금융 모델을 도입할 것으로 보고 있으며, 이를 통해 약 7,760만 달러(약 1... 기사요약 by TokenPost.ai 시장 해석 브라질 농가가 젖소를 토큰화해 증권거래소에서 담보로 활용한 사례는...",
-          "src": "tokenpost",
+          "title": "철도차량 정비 전주기 관리체계 손질…예방중심 정비체계 정착",
+          "desc": "제3자 정비현장 지원체계 구축을 위해 정비지도사 도입 및 현장 밀착점검을 추진하고 취약시간 정비품질... 김태병 국토부 철도국장은 \"노후화, 기후변화, AI 기술 등 열차 운행환경 변화에 선제적으로 대응하기 위해...",
+          "src": "korea",
           "date": "07/27",
-          "url": "https://www.tokenpost.kr/news/blockchain/381584",
-          "img": "https://f1.tokenpost.kr/2026/07/yyz9d16ppz.webp"
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968845&call_from=naver_news",
+          "img": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/27/701d59ae312c7032449eafaf3ca7a691.jpg"
         },
         {
-          "title": "차바이오텍, AI 기반 CMC 플랫폼 구축…세포치료제 상용화 가속",
-          "desc": "인공지능(AI)이 본격 도입된다. 차바이오텍이 AI 기반 CMC(Chemistry, Manufacturing and Controls·제조·품질관리)... 여기에 AI 운영기술(AI Ops)을 접목해 AI 모델 관리와 데이터 운영을 자동화함으로써 검색(Search)-분석(Analysis)...",
-          "src": "e-science",
+          "title": "CJ대한통운-환경공단, AI 기반 적정포장 검증 체계 구축",
+          "desc": "현장에 도입되면 적정포장 검증 과정의 디지털 전환은 물론 규제 적용의 일관성을 높일 수 있을 것으로 기대하고 있다. 김정희 CJ대한통운 TES물류기술연구소장은 \"이번 협력은 민관이 함께 AI 기술을 활용해 적정포장...",
+          "src": "아이뉴스24",
           "date": "07/27",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=132484",
-          "img": "https://cdn.e-science.co.kr/news/photo/202607/132484_64696_2725.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001045137?sid=101",
+          "img": "https://image.inews24.com/v1/a5252ca69f4a44.jpg"
         },
         {
-          "title": "\"결과 예측 넘어 이유까지 이해\"… KAIST '이론화 학습' AI 한계 넘는다",
-          "desc": "이를 통해 정답 제공 없이도 AI가 독자적으로 유의미한 변환 규칙을 추출할 수 있음을 입증했다.이번 기술은 향후 지능형 로봇과 자율 에이전트 분야에서 활용도가 클 것으로 예상된다.기존 로봇 제어 기술은 수많은...",
-          "src": "cctoday",
+          "title": "차바이오텍, 세포치료제 개발·인허가 문서 업무 AI로 자동화",
+          "desc": "차바이오텍이 생성형 인공지능(AI)을 활용해 세포치료제 개발과 인허가에 필요한 규제 문서 작성·검증 업무를 자동화한다. 차바이오텍은 과학기술정보통신부가 주관하는 'AX(인공지능 전환) 원스톱 바우처' 지원사업에...",
+          "src": "소비자가만드는신문",
           "date": "07/27",
-          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233841",
-          "img": "https://cdn.cctoday.co.kr/news/photo/202607/2233841_690915_2458.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760186",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/760186_315762_5835_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "국산 장비사 수주잔고 폭발… 삼성⋅SK '용인 속도전'이 당긴 호황기",
+          "desc": "장비 협력사들의 올해 1분기 말 수주 잔고가 역대 최고 수준인 수천억원대를 기록하며 반도체 소재·부품·장비(소부장) 업계가 완연한 호황기(빅사이클)에 진입했다. 이번 수주 폭발은 삼성전자와 SK하이닉스가 용인...",
+          "src": "디지털데일리",
+          "date": "07/27",
+          "url": "https://n.news.naver.com/mnews/article/138/0002235586?sid=105",
+          "img": ""
+        },
         {
           "title": "온디바이스 AI·디자인하우스 호재… 시스템반도체 테마 '훨훨'",
           "desc": "삼성전자 파운드리의 핵심 디자인 솔루션 파트너로서 최첨단 공정 기반의 AI 칩 수주 확대 기대감이 주가... 마이크로 LED 및 디스플레이 구동칩 관련 설계를 담당하는 사피엔반도체와 삼성 파운드리 주요 협력사인...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/26",
           "url": "http://www.domin.co.kr/news/articleView.html?idxno=1563040",
           "img": "http://www.domin.co.kr/news/thumbnail/202607/1563040_774784_296_v150.jpg"
-        },
-        {
-          "title": "이재용·올트먼, 美 샌프란시스코서 회동… 삼성, 오픈AI 'AI 인프라' 공...",
-          "desc": "반도체와 전력, 데이터 센터 확보 경쟁으로 확대되고 있다\"며 \"삼성이 오픈AI와 반도체 공급과 인프라 구축을 함께 추진할 경우 단순 부품 공급사를 넘어 AI 인프라의 핵심 협력사로 자리 잡을 가능성이 있다\"고 말했다.",
-          "src": "financialpost",
-          "date": "07/26",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267880",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/267880_343006_2533_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 히트펌프 실증 확대·갤럭시 Z8 출시…미래시장 공략 본격화",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=711703",
-      "img": "https://cdn.newstnt.com/news/photo/202607/711703_713977_1833.jpg"
+      "title": "삼성전자, 공동주택 환경서 고효율 히트펌프 ‘EHS 올인원’ 실증",
+      "url": "https://n.news.naver.com/mnews/article/081/0003665063?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727170326_O2.jpg"
+    },
+    {
+      "title": "공장 거쳐 가정 ‘정조준’…현대차의 로봇 야심",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1308319&inflow=N",
+      "img": "https://image.newstomato.com/newsimg/2026/7/27/1308319/attach.jpg?v=202607271619"
     },
     {
       "title": "로보락, 세탁건조기·로봇청소기 신제품 쏟아낸다…스마트홈 생태계 확...",
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2025/12/30/1c2585ca69ed0259d709a6836f95a04b.jpg"
     },
     {
-      "title": "드라마속 '투명한 스피어아이스' 이렇게 탄생…현실판 강시우 만났다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009079867?sid=102",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/26/8025988/high.jpg"
+      "title": "[병원계 소식] 7월 27일",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239221",
+      "img": "http://www.doctorstimes.com/news/thumbnail/202607/239221_109327_3932_v150.jpg"
     },
     {
-      "title": "코드게이트, AI 화이트해커 키운다…글로벌 펠로우십 출범",
-      "url": "https://n.news.naver.com/mnews/article/009/0005712671?sid=105",
-      "img": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.d5a5bba4e66a492ba6f26e0b0f753c79_R.jpg"
-    },
-    {
-      "title": "브라질서 젖소 토큰화 첫 사례…막힌 농가 대출, RWA 돌파구 되나",
-      "url": "https://www.tokenpost.kr/news/blockchain/381584",
-      "img": "https://f1.tokenpost.kr/2026/07/yyz9d16ppz.webp"
+      "title": "철도차량 정비 전주기 관리체계 손질…예방중심 정비체계 정착",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968845&call_from=naver_news",
+      "img": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/27/701d59ae312c7032449eafaf3ca7a691.jpg"
     }
   ]
 };
