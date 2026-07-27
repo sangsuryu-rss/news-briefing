@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.28 (화) 03:20",
+  "updatedAt": "2026.07.28 (화) 07:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.33",
-        "diff": "-6.98",
-        "rate": "-7.82%",
-        "dir": "down"
-      },
-      {
-        "label": "달러",
-        "unit": "원",
-        "value": "1,467.30",
-        "diff": "+4.80",
-        "rate": "+0.33%",
-        "dir": "up"
-      },
-      {
-        "label": "엔 (100)",
-        "unit": "원",
-        "value": "896.23",
-        "diff": "+2.69",
-        "rate": "+0.30%",
-        "dir": "up"
-      },
-      {
-        "label": "루피아 (100)",
-        "unit": "원",
-        "value": "8.17",
+        "value": "82.61",
         "diff": "+0.00",
         "rate": "0.00%",
         "dir": "flat"
       },
       {
+        "label": "달러",
+        "unit": "원",
+        "value": "1,466.00",
+        "diff": "+3.50",
+        "rate": "+0.24%",
+        "dir": "up"
+      },
+      {
+        "label": "엔 (100)",
+        "unit": "원",
+        "value": "895.29",
+        "diff": "+1.75",
+        "rate": "+0.20%",
+        "dir": "up"
+      },
+      {
+        "label": "루피아 (100)",
+        "unit": "원",
+        "value": "8.16",
+        "diff": "-0.01",
+        "rate": "-0.12%",
+        "dir": "down"
+      },
+      {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.59",
-        "diff": "+0.02",
-        "rate": "+0.36%",
+        "value": "5.58",
+        "diff": "+0.01",
+        "rate": "+0.18%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.30",
-        "diff": "+0.16",
-        "rate": "+1.06%",
+        "value": "15.28",
+        "diff": "+0.14",
+        "rate": "+0.92%",
         "dir": "up"
       }
     ]
@@ -86,6 +86,14 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성-LG, 가전 경쟁에서 로봇 경쟁으로…하반기 승부 시동",
+          "desc": "삼성전자는 제조 현장 자동화와 물류, 휴머노이드 등 B2B 분야에 역량을 집중하고 있다. 휴머노이드와 자율이동로봇(AMR) 등을 반도체·가전 생산라인 등 그룹 내 제조 현장에 우선 적용해 기술을 고도화하고 이를...",
+          "src": "news2day",
+          "date": "07/28",
+          "url": "https://www.news2day.co.kr/article/20260727500207",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500187.png"
+        },
+        {
           "title": "전기 사용량 1%만 줄여도 캐시백…여름 피크시간 절감 땐 kWh당 500원",
           "desc": "대상 제품은 삼성전자와 LG전자의 세탁기, 건조기, 식기세척기, 의류관리기 등 4개 품목이다. 제품을 보유하고 있더라도 스마트가전 캐시백 가입과 기기 연동 등 필요한 절차를 마쳐야 이용 실적이 정상적으로 집계될 수...",
           "src": "cbci",
@@ -94,12 +102,12 @@ window.NEWS_DATA = {
           "img": "https://www.cbci.co.kr/news/thumbnail/202607/592326_403313_3914_v150.jpg"
         },
         {
-          "title": "[인터뷰] 고레로보틱스, 로봇으로 건설 기간을 단축하는 방법은",
-          "desc": "로봇 분야에는 ‘상용화에 성공한 로봇은 로봇청소기밖에 없다’는 말이 있거든요. 그 말처럼 목적이... 삼성전자 평택 반도체 건설 현장의 경우 매년 참가해온 스마트건설 엑스포에서 인연이 닿아 이달 PoC를 진행하게...",
-          "src": "byline",
-          "date": "07/27",
-          "url": "https://byline.network/?p=9004111222613256",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/golerobotics-1.jpg"
+          "title": "中 하이센스 인도에 '세탁기 폭탄'...삼성·LG 텃밭에 도전장",
+          "desc": "중국 가전 기업 하이센스가 삼성전자·LG전자 텃밭인 인도 세탁기 시장에 도전장을 내밀었다. 하이센스는 그동안 인도에서 TV와 에어컨 중심으로 사업을 전개해왔다. 세탁기 출시로 사업 영역을 생활가전 전반으로...",
+          "src": "전자신문",
+          "date": "07/28",
+          "url": "https://n.news.naver.com/mnews/article/030/0003451542?sid=101",
+          "img": ""
         },
         {
           "title": "'보이는 냉장고'의 진화…식생활까지 품었다",
@@ -108,14 +116,6 @@ window.NEWS_DATA = {
           "date": "07/27",
           "url": "https://www.asiatime.co.kr/article/20260727500326",
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/27/.cache/512/20260727500324.jpg"
-        },
-        {
-          "title": "7000선 무너진 코스피···'150조 실적' 삼성·SK, 구원투수 등판할까",
-          "desc": "다만, 이번 주는 미국 연방공개시장위원회(FOMC)와 빅테크 실적, 삼성전자·SK하이닉스 2분기 실적 발표가... 실적 우려를 주가에 선반영한 만큼 반도체를 비롯해 IT하드웨어, IT가전, 2차전지, 조선, 화학, 기계 등 기존...",
-          "src": "ziksir",
-          "date": "07/28",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=141260",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202607/141260_161146_715_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한-브라질 136분 정상회담…'우주·핵심광물·공급망' 전방위 밀착(종합...",
-          "desc": "간소화 절차가 완료되면 이노스페이스 등 우리 기업이 브라질 발사장을 활용할 때 행정비용 감소, 발사... 소재 △인공지능(AI) 등 첨단 전략산업 등 7개 분야의 기술 협력도 촉진하기로 했다. 한-브라질 양 정상은 △경제...",
+          "title": "하닉 레버리지 75% 폭락 '깜짝'…매일 베팅 배율 바꾸는 홍콩, 한국은?",
+          "desc": "한국이 이런 홍콩식 해법을 도입하려면 법 개정부터 거쳐야 하는 상황이다. 한국은 자본시장법상 배율... 배율은 기술적으로 불가능한 건 아니라서 추가적으로 토론해야 한다\"고 밝혔다. 홍콩, '레버리지·인버스 배율...",
+          "src": "머니투데이",
+          "date": "07/28",
+          "url": "https://n.news.naver.com/mnews/article/008/0005391791?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=862,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072722450484088_1.jpg"
+        },
+        {
+          "title": "마이크론, LPDDR5X로 AI 서버 전력난 정면 돌파한다",
+          "desc": "마이크론 보고서를 보면 새 모듈은 메모리 용량 부족으로 저장 장치 영역을 임시로 활용하던 병목 현상(disk... 저전력 반도체 기술 도입이 인공지능 산업의 전력 공급 부족과 환경 문제를 완벽히 해결할 수 있을지는...",
+          "src": "g-enews",
+          "date": "07/28",
+          "url": "https://www.g-enews.com/view.php?ud=20260728062908223fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072806432702845fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "[비바100] “유리천장보다 ‘플로어 빌더’⋯ 후배 여성 의사 길 만들어...",
+          "desc": "특히 의학전문대학원 제도 도입 이후 다양한 전공과 사회 경험을 가진 사람들이 의료계에 들어오면서 의사... 박 수석부회장은 AI는 이제 의료계가 제대로 활용하지 않으면 살아남기 어려운 기술이라고 평가했다. 실제...",
+          "src": "브릿지경제",
+          "date": "07/28",
+          "url": "https://www.viva100.com/article/20260726500583",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/26/.cache/512/20260726500514.jpg?v=20260728070107"
+        },
+        {
+          "title": "국내 넘어 글로벌 CRO로…LSK글로벌PS, 데이터·AI 앞세워 경쟁력↑",
+          "desc": "(RWD)를 활용한 임상 전략 수립과 리얼월드에비던스(RWE) 기반 연구도 강화하고 있다. 다만 AI는 임상을 대체하는 기술이 아니라 전문가의 업무를 지원하는 도구라는 입장이다. AI가 초안 작성과 데이터 분석 등 반복...",
           "src": "뉴스1",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/421/0009082041?sid=100",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/28/8028101/high.jpg"
-        },
-        {
-          "title": "룰라 만난 이 대통령 \"우주·핵심광물 공급망 협력\"",
-          "desc": "양국은 우리 공군이 국내 기업 부품이 적용된 브라질 C-390 수송기를 도입하는 것을 계기로 방산 협력도... 반도체·인공지능(AI) 등 첨단 전략산업과 공급망 기초요소 분야에서 협력하는 ‘산업기술 협력 MOU’ 등도...",
-          "src": "한국경제",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/015/0005314474?sid=100",
-          "img": "https://img.hankyung.com/photo/202607/AA.45162253.1.jpg"
-        },
-        {
-          "title": "브라질, 韓-메르코수르 협정 지지…李 \"미룰 수 없는 중요 과제\"(종합)",
-          "desc": "소재 △인공지능(AI) 등 첨단 전략산업 등 7개 분야의 기술 협력을 촉진하기로 했다. 방산 분야 협력도... 그러면서 \"하반기 대한민국 공군이 도입하게 될 브라질의 C-390 수속이게 우리 기업의 부품이 탑재된 것은 양국 방산...",
-          "src": "뉴스1",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/421/0009082039?sid=100",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/28/8028191/high.jpg"
-        },
-        {
-          "title": "李대통령·룰라, 한·메르코수르 협정공감…광물·방산·우주협력",
-          "desc": "공군이 도입하게 될 브라질의 C-390 수송기에 우리 기업들의 부품이 탑재된 것은 양국 방산 협력의 상징적인... 전략산업(AI·반도체·자동차·조선·배터리) 등 7개 분야 기술 협력을 촉진한다. 이와 함께 체육 협력 MOU와...",
-          "src": "파이낸셜뉴스",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/014/0005553677?sid=100",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/28/202607280017408275_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009082164?sid=103",
+          "img": "https://i3n.news1.kr/system/photos/2019/8/7/3768161/high.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성-LG, 가전 경쟁에서 로봇 경쟁으로…하반기 승부 시동",
+      "url": "https://www.news2day.co.kr/article/20260727500207",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500187.png"
+    },
+    {
       "title": "전기 사용량 1%만 줄여도 캐시백…여름 피크시간 절감 땐 kWh당 500원",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592326",
       "img": "https://www.cbci.co.kr/news/thumbnail/202607/592326_403313_3914_v150.jpg"
-    },
-    {
-      "title": "[인터뷰] 고레로보틱스, 로봇으로 건설 기간을 단축하는 방법은",
-      "url": "https://byline.network/?p=9004111222613256",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/golerobotics-1.jpg"
     },
     {
       "title": "'보이는 냉장고'의 진화…식생활까지 품었다",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/27/.cache/512/20260727500324.jpg"
     },
     {
-      "title": "7000선 무너진 코스피···'150조 실적' 삼성·SK, 구원투수 등판할까",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=141260",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202607/141260_161146_715_v150.jpg"
+      "title": "하닉 레버리지 75% 폭락 '깜짝'…매일 베팅 배율 바꾸는 홍콩, 한국은?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391791?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=862,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072722450484088_1.jpg"
     },
     {
-      "title": "한-브라질 136분 정상회담…'우주·핵심광물·공급망' 전방위 밀착(종합...",
-      "url": "https://n.news.naver.com/mnews/article/421/0009082041?sid=100",
-      "img": "https://i3n.news1.kr/system/photos/2026/7/28/8028101/high.jpg"
+      "title": "마이크론, LPDDR5X로 AI 서버 전력난 정면 돌파한다",
+      "url": "https://www.g-enews.com/view.php?ud=20260728062908223fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072806432702845fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "룰라 만난 이 대통령 \"우주·핵심광물 공급망 협력\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314474?sid=100",
-      "img": "https://img.hankyung.com/photo/202607/AA.45162253.1.jpg"
+      "title": "[비바100] “유리천장보다 ‘플로어 빌더’⋯ 후배 여성 의사 길 만들어...",
+      "url": "https://www.viva100.com/article/20260726500583",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/26/.cache/512/20260726500514.jpg?v=20260728070107"
     }
   ]
 };
