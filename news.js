@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.29 (수) 00:15",
+  "updatedAt": "2026.07.29 (수) 03:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.48",
-        "diff": "-1.13",
-        "rate": "-1.37%",
+        "value": "79.54",
+        "diff": "-3.07",
+        "rate": "-3.72%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,455.20",
-        "diff": "-10.80",
-        "rate": "-0.74%",
+        "value": "1,453.40",
+        "diff": "-12.60",
+        "rate": "-0.86%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "888.54",
-        "diff": "-6.67",
-        "rate": "-0.75%",
+        "value": "887.25",
+        "diff": "-7.96",
+        "rate": "-0.89%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.07",
-        "diff": "-0.09",
-        "rate": "-1.10%",
+        "value": "8.06",
+        "diff": "-0.10",
+        "rate": "-1.23%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.54",
-        "diff": "-0.04",
-        "rate": "-0.72%",
+        "value": "5.53",
+        "diff": "-0.05",
+        "rate": "-0.90%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.18",
-        "diff": "-0.10",
-        "rate": "-0.65%",
+        "value": "15.16",
+        "diff": "-0.12",
+        "rate": "-0.79%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "학습된 회의론, 반도체로 끝내자",
-          "desc": "정부 주도로 삼성전자와 SK하이닉스가 광주 군공항 이전 부지에 800조 원 규모의 호남권 반도체 생산기지를... 자동차와 가전, 철강, 석유화학 산업을 갖춘 전남광주는 어느 지역에도 뒤지지 않는 제조업 경험과 산업...",
-          "src": "kwangju",
+          "title": "로봇 동선까지 고려… 주택 설계 공식 바뀐다",
+          "desc": "◇집 짓는 단계부터 AI 심는다 28일 가전 업계에 따르면 삼성전자와 LG전자는 건설사와 손잡고 건물 골조 단계부터 로봇 동선과 스마트홈 운영체제(OS)를 이식하는 인프라 선점 경쟁에 돌입했다. 이는 단순한 가전 판매...",
+          "src": "조선일보",
           "date": "07/29",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1785251400801695085",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/023/0003990125?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/SSRB6F65KZHHHK5GZKV2E2TZNM.png?auth=5692c39821ebf61aa98b2537a1dcc593fb08e9d274899ba28c9dc643e485cd21&width=1084&height=569&smart=true"
         },
         {
           "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
         },
         {
-          "title": "‘2배 용량’ 받을까…‘50% 보상’ 받을까",
-          "desc": "통신 3사 모두 사전 예약 기간에는 삼성전자의 ‘더블 스토리지’ 할인 혜택으로 Z8 시리즈 256GB 단말을... 통해 가전 등을 증정한다. 보상판매 프로그램도 운영한다. SKT는 이번에 Z8 시리즈를 구매하고 2년 후 삼성...",
-          "src": "중앙일보",
+          "title": "학습된 회의론, 반도체로 끝내자",
+          "desc": "정부 주도로 삼성전자와 SK하이닉스가 광주 군공항 이전 부지에 800조 원 규모의 호남권 반도체 생산기지를... 자동차와 가전, 철강, 석유화학 산업을 갖춘 전남광주는 어느 지역에도 뒤지지 않는 제조업 경험과 산업...",
+          "src": "kwangju",
           "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/025/0003540773?sid=105",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/514c982f-69c6-4867-8a52-335f857ada37.jpg"
+          "url": "http://www.kwangju.co.kr/article.php?aid=1785251400801695085",
+          "img": ""
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지캐시, 아이언우드 가동…366만 ZEC 묶인 오차드 풀 봉인됐다",
-          "desc": "해당 결함은 2022년 5월 도입 이후 약 4년간 존재했던 것으로 확인됐다. 다만 실제 악용 정황은 발견되지... 기사요약 by TokenPost.ai 시장 해석 이번 아이언우드 업그레이드는 단순한 기술 패치가 아니라 지캐시의 신뢰...",
-          "src": "tokenpost",
+          "title": "미국 카드사 비자, 마스터 카드에 이어 대규모 인력 감축...\"AI·스테이블...",
+          "desc": "등 기술 변화에 따른 결제 시장의 지각 변동이 예고되고 있습니다. 앞서 마스터 카드도 올해 초 전체 직원의 4%를 감축하겠다고 발표했습니다. 비자는 스테이블 코인을 활용한 결제 정산 프로그램을 도입한다고 발표했고...",
+          "src": "ytn",
           "date": "07/29",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/382347",
-          "img": "https://f1.tokenpost.kr/2026/07/nxp8mh6131.webp"
+          "url": "https://n.news.naver.com/mnews/article/052/0002385890?sid=104",
+          "img": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
         },
         {
-          "title": "금융권 챗봇 넘어 실무형 기술로",
-          "desc": "사진=KB금융그룹 금융권의 AI 활용이 단순 상담 응답에서 업무 지원형 에이전트로 넓어지고 있다.... 생성형 AI가 고도화되면서 금융사들도 단순 질의응답을 넘어 업무와 고객 상담을 지원하는 에이전트 도입에...",
-          "src": "newsclaim",
+          "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
+          "desc": "등 기술 변화에 따른 결제 시장의 지각 변동이 예고되고 있다. 앞서 마스터카드도 올해 초 전체 직원의 4%를 감축하겠다고 발표한 바 있다. 비자는 스테이블코인을 활용한 결제 정산 프로그램을 도입한다고 발표했고...",
+          "src": "tfmedia",
           "date": "07/29",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070590",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070590_112229_5738_v150.jpg"
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=206069",
+          "img": "https://www.tfmedia.co.kr/data/design/logo/default_image_share_20250318142437.jpg"
         },
         {
-          "title": "호반건설, AI 기반 레미콘 물량 산출 기술 시범 적용",
-          "desc": "도구로 활용하고 있습니다. 현장 실무자의 업무 부담을 줄이고 공정 및 원가 관리의 정확도를 높일 수 있는 AI 기술 도입을 확대하겠습니다\" (호반건설 관계자) 호반건설은 AI 기반 '레미콘 자동 수량 산출 기술'을 개발해...",
-          "src": "thedailypost",
-          "date": "07/28",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114839",
-          "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114839_118848_5551_v150.jpg"
+          "title": "[GAM] 디웨이브 퀀텀 ② 경쟁 심화 속 성장 가능성 주목",
+          "desc": "활용하고 있으며, 이는 실질적이고 실용적인 양자컴퓨팅 응용에 초점을 맞춘 회사의 전략을 보여준다. ◆ 그럼에도 커지는 기대…AI 다음은 양자컴퓨팅 그럼에도 업계에서는 양자컴퓨팅을 AI의 뒤를 잇는 다음 기술...",
+          "src": "뉴스핌",
+          "date": "07/29",
+          "url": "https://www.newspim.com/news/view/20260729000028",
+          "img": "https://img.newspim.com/news/2026/07/29/2607290227232860_t1.jpg"
         },
         {
-          "title": "농협중앙회, AI 기반 업무혁신 본격화…일하는 방식 전면 개편",
-          "desc": "농협중앙회가 AI와 디지털 기술을 활용한 전사적인 업무 혁신에 나선다. 업무 전 과정을 재설계해 불필요한... 최신 법령과 내부 규정, 실무 매뉴얼을 학습한 '업무용 지식검색 AI 에이전트'를 도입하고, 데이터 입력과...",
-          "src": "fntimes",
-          "date": "07/28",
-          "url": "https://www.fntimes.com/html/view.php?ud=202607282347219050dd55077bc2_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260728234749088690dd55077bc25812315132.jpg&nmt=18"
+          "title": "[GAM] 디웨이브 퀀텀 ① AT&T와 양자컴퓨팅 계약 확대",
+          "desc": "미국 통신 대기업 AT&T(T)와 양자컴퓨팅 기술 활용을 네트워크 운영 전반으로 확대하는 계약을 발표한 데... 디웨이브 퀀텀 로고 [사진=업체 홈페이지] ◆ AT&T, 시범 도입 넘어 네트워크 운영 전반으로 확대 디웨이브는...",
+          "src": "뉴스핌",
+          "date": "07/29",
+          "url": "https://www.newspim.com/news/view/20260729000027",
+          "img": "https://img.newspim.com/news/2026/07/29/2607290227136730_t1.jpg"
         }
       ]
     },
@@ -195,7 +195,7 @@ window.NEWS_DATA = {
           "src": "서울신문",
           "date": "07/28",
           "url": "http://www.metroseoul.co.kr/article/20260728500459",
-          "img": ""
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/07/28/.cache/512/20260728500460.jpg"
         }
       ]
     },
@@ -230,17 +230,22 @@ window.NEWS_DATA = {
           "img": "https://cdnimage.dailian.co.kr/news/202607/news_1782899332_1662316_m_1.jpg"
         },
         {
-          "title": "대동 AI 농업에 맞불…TYM, 자율주행·전동화 R&D 속도 낸다",
-          "desc": "세부적으로는 전장 회로 및 와이어링 하네스 설계, 전장 모듈 개발, 센서·통신 인터페이스 통합, 배터리 시스템 설계, 모터·감속기·제어기 최적화, CAN(Controller Area Network) 기반 제어 로직 개발 등을 맡게 된다. 전동...",
-          "src": "sidae",
-          "date": "07/23",
-          "url": "https://n.news.naver.com/mnews/article/417/0001152670?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/07/23/06/2026072309493349146_1.jpg"
+          "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
+          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
+          "src": "dailysecu",
+          "date": "05/11",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
+          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         }
       ]
     }
   ],
   "ranking": [
+    {
+      "title": "로봇 동선까지 고려… 주택 설계 공식 바뀐다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990125?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/SSRB6F65KZHHHK5GZKV2E2TZNM.png?auth=5692c39821ebf61aa98b2537a1dcc593fb08e9d274899ba28c9dc643e485cd21&width=1084&height=569&smart=true"
+    },
     {
       "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
       "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84868",
@@ -252,24 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
     },
     {
-      "title": "‘2배 용량’ 받을까…‘50% 보상’ 받을까",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540773?sid=105",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/514c982f-69c6-4867-8a52-335f857ada37.jpg"
+      "title": "미국 카드사 비자, 마스터 카드에 이어 대규모 인력 감축...\"AI·스테이블...",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385890?sid=104",
+      "img": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
     },
     {
-      "title": "지캐시, 아이언우드 가동…366만 ZEC 묶인 오차드 풀 봉인됐다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/382347",
-      "img": "https://f1.tokenpost.kr/2026/07/nxp8mh6131.webp"
+      "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=206069",
+      "img": "https://www.tfmedia.co.kr/data/design/logo/default_image_share_20250318142437.jpg"
     },
     {
-      "title": "금융권 챗봇 넘어 실무형 기술로",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070590",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070590_112229_5738_v150.jpg"
-    },
-    {
-      "title": "호반건설, AI 기반 레미콘 물량 산출 기술 시범 적용",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114839",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114839_118848_5551_v150.jpg"
+      "title": "[GAM] 디웨이브 퀀텀 ② 경쟁 심화 속 성장 가능성 주목",
+      "url": "https://www.newspim.com/news/view/20260729000028",
+      "img": "https://img.newspim.com/news/2026/07/29/2607290227232860_t1.jpg"
     }
   ]
 };
