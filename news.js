@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.29 (수) 03:09",
+  "updatedAt": "2026.07.29 (수) 06:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.54",
-        "diff": "-3.07",
-        "rate": "-3.72%",
-        "dir": "down"
+        "value": "79.26",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,453.40",
-        "diff": "-12.60",
-        "rate": "-0.86%",
+        "value": "1,454.80",
+        "diff": "-11.20",
+        "rate": "-0.76%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "887.25",
-        "diff": "-7.96",
-        "rate": "-0.89%",
+        "value": "887.86",
+        "diff": "-7.35",
+        "rate": "-0.82%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.06",
-        "diff": "-0.10",
-        "rate": "-1.23%",
+        "value": "8.07",
+        "diff": "-0.09",
+        "rate": "-1.10%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.53",
-        "diff": "-0.05",
-        "rate": "-0.90%",
+        "value": "5.54",
+        "diff": "-0.04",
+        "rate": "-0.72%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.16",
-        "diff": "-0.12",
-        "rate": "-0.79%",
+        "value": "15.18",
+        "diff": "-0.10",
+        "rate": "-0.65%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "로봇 동선까지 고려… 주택 설계 공식 바뀐다",
-          "desc": "◇집 짓는 단계부터 AI 심는다 28일 가전 업계에 따르면 삼성전자와 LG전자는 건설사와 손잡고 건물 골조 단계부터 로봇 동선과 스마트홈 운영체제(OS)를 이식하는 인프라 선점 경쟁에 돌입했다. 이는 단순한 가전 판매...",
-          "src": "조선일보",
+          "title": "전세계 1위 기업, 12년만에 교체…아마존이 월마트 꺾었다",
+          "desc": "삼성전자는 글로벌 500대 기업 순위에서 26위로 한국 기업 중 가장 높은 순위를 기록했다. 메모리 반도체와 파운드리, 스마트폰·가전 등 다양한 사업 포트폴리오를 기반으로 글로벌 제조업 최상위권 지위를...",
+          "src": "thescoop",
           "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0003990125?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/SSRB6F65KZHHHK5GZKV2E2TZNM.png?auth=5692c39821ebf61aa98b2537a1dcc593fb08e9d274899ba28c9dc643e485cd21&width=1084&height=569&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/665/0000007834?sid=101",
+          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311058_227618_3138_v150.jpg"
         },
         {
           "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
         },
         {
-          "title": "학습된 회의론, 반도체로 끝내자",
-          "desc": "정부 주도로 삼성전자와 SK하이닉스가 광주 군공항 이전 부지에 800조 원 규모의 호남권 반도체 생산기지를... 자동차와 가전, 철강, 석유화학 산업을 갖춘 전남광주는 어느 지역에도 뒤지지 않는 제조업 경험과 산업...",
-          "src": "kwangju",
+          "title": "韓·브라질 경제인 만난 李, 고위급 직통라인 조속 가동…기업 간 MOU 7건...",
+          "desc": "LG전자는 브라질 진출 30여년 동안 생산기반을 지속적으로 확대해 왔으며, 파라나주에 새로 건설한 냉장고... 삼성전자는 1987년 브라질에 진출한 이후 약 5000명의 현지 인력을 고용하고 있다며 브라질 정부의 디지털 전환...",
+          "src": "view",
           "date": "07/29",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1785251400801695085",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/277/0005795885?sid=100",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "미국 카드사 비자, 마스터 카드에 이어 대규모 인력 감축...\"AI·스테이블...",
-          "desc": "등 기술 변화에 따른 결제 시장의 지각 변동이 예고되고 있습니다. 앞서 마스터 카드도 올해 초 전체 직원의 4%를 감축하겠다고 발표했습니다. 비자는 스테이블 코인을 활용한 결제 정산 프로그램을 도입한다고 발표했고...",
-          "src": "ytn",
+          "title": "지캐시 아이언우드 가동, 17억달러 새 풀로 이전됐다",
+          "desc": "8)을 활용한 감사 과정에서 이 결함을 포착했다. 비트코인닷컴(news.bitcoin.com)은 취약점이 Halo 2 증명... notes)도 도입했다. 이는 지캐시를 당장 양자컴퓨팅에 내성을 갖게 만드는 것은 아니지만, 향후 암호화 기술이...",
+          "src": "wikitree",
           "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/052/0002385890?sid=104",
-          "img": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1149082",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/29/202607290621259892_coin.jpeg"
         },
         {
-          "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
-          "desc": "등 기술 변화에 따른 결제 시장의 지각 변동이 예고되고 있다. 앞서 마스터카드도 올해 초 전체 직원의 4%를 감축하겠다고 발표한 바 있다. 비자는 스테이블코인을 활용한 결제 정산 프로그램을 도입한다고 발표했고...",
-          "src": "tfmedia",
+          "title": "농협중앙회, AI·디지털로 '일하는 방식' 갈아엔다…업무 전 과정 재설계",
+          "desc": "AI와 자동화 기술을 활용한 업무 지원체계도 본격 구축한다. 생성형 AI와 로봇프로세스자동화(RPA)를 도입해 직원들이 직접 처리해온 반복 업무를 대폭 줄인다는 목표다. 최신 법령과 내부 규정, 실무 매뉴얼을 학습한...",
+          "src": "newsroad",
           "date": "07/29",
-          "url": "https://www.tfmedia.co.kr/news/article.html?no=206069",
-          "img": "https://www.tfmedia.co.kr/data/design/logo/default_image_share_20250318142437.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62126",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/62126_83982_2228_v150.jpg"
         },
         {
-          "title": "[GAM] 디웨이브 퀀텀 ② 경쟁 심화 속 성장 가능성 주목",
-          "desc": "활용하고 있으며, 이는 실질적이고 실용적인 양자컴퓨팅 응용에 초점을 맞춘 회사의 전략을 보여준다. ◆ 그럼에도 커지는 기대…AI 다음은 양자컴퓨팅 그럼에도 업계에서는 양자컴퓨팅을 AI의 뒤를 잇는 다음 기술...",
-          "src": "뉴스핌",
+          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+          "desc": "이날 발표회에선 생활밀착형 스마트 기술을 활용한 3개 정책 아이디어가 제안됐다. 1팀은 스마트... 여기에 AI 대화형 키오스크를 도입해 디지털 취약계층도 쉽고 편리하게 행정서비스를 이용할 수 있는 환경을 조성하는...",
+          "src": "ekn",
           "date": "07/29",
-          "url": "https://www.newspim.com/news/view/20260729000028",
-          "img": "https://img.newspim.com/news/2026/07/29/2607290227232860_t1.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260729020577194",
+          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260729.f71efb07719b411ea7872eac52c3674e_R.jpg"
         },
         {
-          "title": "[GAM] 디웨이브 퀀텀 ① AT&T와 양자컴퓨팅 계약 확대",
-          "desc": "미국 통신 대기업 AT&T(T)와 양자컴퓨팅 기술 활용을 네트워크 운영 전반으로 확대하는 계약을 발표한 데... 디웨이브 퀀텀 로고 [사진=업체 홈페이지] ◆ AT&T, 시범 도입 넘어 네트워크 운영 전반으로 확대 디웨이브는...",
-          "src": "뉴스핌",
+          "title": "8월 약가 인하 앞두고...‘준혁신형 제약기업’ 안갯속 제약업계 혼란",
+          "desc": "업계, 지원책·제도 보완 요구 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해 제작했습니다.... 약가 인하와 함께 연구개발(R&D) 투자와 혁신 성과를 갖춘 기업에는 약가 인센티브도 도입된다. 정부는 일반...",
+          "src": "news2day",
           "date": "07/29",
-          "url": "https://www.newspim.com/news/view/20260729000027",
-          "img": "https://img.newspim.com/news/2026/07/29/2607290227136730_t1.jpg"
+          "url": "https://www.news2day.co.kr/article/20260728500277",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/28/.cache/512/20260728500276.png"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[취재수첩] 시총 잣대에 흔들리는 배터리 생태계",
+          "desc": "삼성전자와 SK하이닉스 등 대형 반도체 기업에 자금이 집중된 반면, 그 이외 분야의 코스닥 중소·중견기업은... 특히 배터리 산업은 작은 협력사 하나가 특정 공정의 생산성과 안전성을 좌우하는 경우가 많다. 대형 부품...",
+          "src": "디지털데일리",
+          "date": "07/29",
+          "url": "https://n.news.naver.com/mnews/article/138/0002235778?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/05/28/2026052808085092163_l.jpg"
+        },
         {
           "title": "반도체 팹 1개의 마법…전남광주 경제 지도 바꾼다",
           "desc": "삼성전자와 SK하이닉스가 총 800조원을 투입해 전남광주시에 메모리 반도체 팹(제조시설) 4기를 건설하는... 여기에 반도체 소재·부품·장비(소부장) 등 1차 협력사 동반 입주 효과를 더하면 통상 직접고용의 2~3배 수준의...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/28",
           "url": "https://www.m-economynews.com/news/article.html?no=69121",
           "img": "https://www.m-economynews.com/data/photos/20260731/art_17851353894119_4b063d.jpg"
-        },
-        {
-          "title": "애플 부품난 심화에…삼성, 제조 경쟁력·신제품으로 승부수",
-          "desc": "노태문 삼성전자 DX부문 사장은 지난 22일 영국 런던에서 열린 '갤럭시 언팩 2026' 기자간담회에서 \"현재 부품 수급에 어려움이 있는 것은 사실이나 주요 협력사들과 긴밀히 협의해 중장기적 관점에서 공급 안정성을...",
-          "src": "서울신문",
-          "date": "07/28",
-          "url": "http://www.metroseoul.co.kr/article/20260728500459",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/07/28/.cache/512/20260728500460.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "로봇 동선까지 고려… 주택 설계 공식 바뀐다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003990125?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/SSRB6F65KZHHHK5GZKV2E2TZNM.png?auth=5692c39821ebf61aa98b2537a1dcc593fb08e9d274899ba28c9dc643e485cd21&width=1084&height=569&smart=true"
+      "title": "전세계 1위 기업, 12년만에 교체…아마존이 월마트 꺾었다",
+      "url": "https://n.news.naver.com/mnews/article/665/0000007834?sid=101",
+      "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311058_227618_3138_v150.jpg"
     },
     {
       "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
     },
     {
-      "title": "미국 카드사 비자, 마스터 카드에 이어 대규모 인력 감축...\"AI·스테이블...",
-      "url": "https://n.news.naver.com/mnews/article/052/0002385890?sid=104",
-      "img": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
+      "title": "韓·브라질 경제인 만난 李, 고위급 직통라인 조속 가동…기업 간 MOU 7건...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795885?sid=100",
+      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
     },
     {
-      "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=206069",
-      "img": "https://www.tfmedia.co.kr/data/design/logo/default_image_share_20250318142437.jpg"
+      "title": "지캐시 아이언우드 가동, 17억달러 새 풀로 이전됐다",
+      "url": "https://www.wikitree.co.kr/articles/1149082",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/29/202607290621259892_coin.jpeg"
     },
     {
-      "title": "[GAM] 디웨이브 퀀텀 ② 경쟁 심화 속 성장 가능성 주목",
-      "url": "https://www.newspim.com/news/view/20260729000028",
-      "img": "https://img.newspim.com/news/2026/07/29/2607290227232860_t1.jpg"
+      "title": "농협중앙회, AI·디지털로 '일하는 방식' 갈아엔다…업무 전 과정 재설계",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62126",
+      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/62126_83982_2228_v150.jpg"
     }
   ]
 };
