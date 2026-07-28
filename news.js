@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.28 (화) 07:00",
+  "updatedAt": "2026.07.28 (화) 12:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,654",
-        "diff": "+55",
-        "rate": "+0.40%",
+        "value": "13,771",
+        "diff": "+117",
+        "rate": "+0.86%",
         "dir": "up",
         "avg": "13,552",
-        "avgDiff": "+102",
-        "avgRate": "+0.8%",
+        "avgDiff": "+219",
+        "avgRate": "+1.6%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.61",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "81.47",
+        "diff": "-1.14",
+        "rate": "-1.38%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,466.00",
-        "diff": "+3.50",
-        "rate": "+0.24%",
-        "dir": "up"
+        "value": "1,464.90",
+        "diff": "-1.10",
+        "rate": "-0.08%",
+        "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "895.29",
-        "diff": "+1.75",
-        "rate": "+0.20%",
-        "dir": "up"
+        "value": "894.54",
+        "diff": "-0.67",
+        "rate": "-0.07%",
+        "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.16",
-        "diff": "-0.01",
-        "rate": "-0.12%",
+        "value": "8.10",
+        "diff": "-0.06",
+        "rate": "-0.74%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.58",
-        "diff": "+0.01",
-        "rate": "+0.18%",
-        "dir": "up"
+        "value": "5.56",
+        "diff": "-0.02",
+        "rate": "-0.36%",
+        "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.28",
-        "diff": "+0.14",
-        "rate": "+0.92%",
+        "value": "15.31",
+        "diff": "+0.03",
+        "rate": "+0.20%",
         "dir": "up"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성-LG, 가전 경쟁에서 로봇 경쟁으로…하반기 승부 시동",
-          "desc": "삼성전자는 제조 현장 자동화와 물류, 휴머노이드 등 B2B 분야에 역량을 집중하고 있다. 휴머노이드와 자율이동로봇(AMR) 등을 반도체·가전 생산라인 등 그룹 내 제조 현장에 우선 적용해 기술을 고도화하고 이를...",
-          "src": "news2day",
+          "title": "삼성전자, '올해의 녹색상품' 16개 선정…업계 최다 수상",
+          "desc": "삼성전자가 생활가전과 스마트폰 등 16개 제품으로 올해 녹색상품 명단에 이름을 올렸다. 인공지능(AI) 기반 에너지 절감 기술과 고효율 기술이 소비자와 환경 전문가 모두에게 높은 평가를 받았다. 삼성전자는 총 16개...",
+          "src": "econovill",
           "date": "07/28",
-          "url": "https://www.news2day.co.kr/article/20260727500207",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500187.png"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746401",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746401_720358_2122_v150.jpg"
         },
         {
-          "title": "전기 사용량 1%만 줄여도 캐시백…여름 피크시간 절감 땐 kWh당 500원",
-          "desc": "대상 제품은 삼성전자와 LG전자의 세탁기, 건조기, 식기세척기, 의류관리기 등 4개 품목이다. 제품을 보유하고 있더라도 스마트가전 캐시백 가입과 기기 연동 등 필요한 절차를 마쳐야 이용 실적이 정상적으로 집계될 수...",
-          "src": "cbci",
+          "title": "이마트, '고래잇 페스타' 연다…제주 은갈치·산수박 최대 50% 할인",
+          "desc": "이와타니 타프마루 버너는 신세계포인트 적립 시 7만9900원에 한정 판매하며, 일렉트로맨 바이 쿠쿠 세탁기(11kg)는 행사카드 결제 시 40% 할인한 27만5400원에 구매할 수 있다. 삼성전자 갤럭시 Z8 시리즈 사전예약 고객을...",
+          "src": "joongangenews",
           "date": "07/28",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592326",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202607/592326_403313_3914_v150.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=535789",
+          "img": "https://cdn.joongangenews.com/news/photo/202607/535789_341256_5819.png"
         },
         {
-          "title": "中 하이센스 인도에 '세탁기 폭탄'...삼성·LG 텃밭에 도전장",
-          "desc": "중국 가전 기업 하이센스가 삼성전자·LG전자 텃밭인 인도 세탁기 시장에 도전장을 내밀었다. 하이센스는 그동안 인도에서 TV와 에어컨 중심으로 사업을 전개해왔다. 세탁기 출시로 사업 영역을 생활가전 전반으로...",
-          "src": "전자신문",
+          "title": "갤럭시 신형 폴더블 사전예약 돌입...통신 3사 혜택 비교해보니",
+          "desc": "이동통신 3사가 삼성전자의 신형 폴더블 스마트폰 사전예약에 돌입했다. 공통적으로 저장 용량을... 등 가전제품 할인을 제공하는 상품 등으로 구성됐다. 단말 관리와 교체 혜택도 함께 강화했다. KT의 폰케어...",
+          "src": "ekoreanews",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/030/0003451542?sid=101",
-          "img": ""
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87175",
+          "img": "https://cdn.ekoreanews.co.kr/news/photo/202607/87175_108835_650.jpg"
         },
         {
-          "title": "'보이는 냉장고'의 진화…식생활까지 품었다",
-          "desc": "두드림이 냉장고 사용방식의 변화를 이끌었듯 AI와 혁신적인 냉장·보관 기술을 바탕으로 고객의 식생활을 더욱 편리하고 즐겁게 만들어 나갈 것\"이라고 말했다. 삼성전자는 차세대 AI 경험을 전면에 내세우며 스마트...",
-          "src": "아시아타임즈",
-          "date": "07/27",
-          "url": "https://www.asiatime.co.kr/article/20260727500326",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/27/.cache/512/20260727500324.jpg"
+          "title": "삼성전자, '대한민국 올해의 녹색상품' 16관왕…AI 가전 친환경 경쟁력...",
+          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자, 26년 올해의 녹색상품 선정. [사진=삼성전자]  삼성전자가... 울트라 로봇청소기, 비스포크 AI 에어드레서, 비스포크 AI 인덕션, 인피니트 라인 후드일체형 인덕션, 인버터...",
+          "src": "joongangenews",
+          "date": "07/28",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=535809",
+          "img": "https://cdn.joongangenews.com/news/photo/202607/535809_341276_3159.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "하닉 레버리지 75% 폭락 '깜짝'…매일 베팅 배율 바꾸는 홍콩, 한국은?",
-          "desc": "한국이 이런 홍콩식 해법을 도입하려면 법 개정부터 거쳐야 하는 상황이다. 한국은 자본시장법상 배율... 배율은 기술적으로 불가능한 건 아니라서 추가적으로 토론해야 한다\"고 밝혔다. 홍콩, '레버리지·인버스 배율...",
-          "src": "머니투데이",
+          "title": "[금융家] 케이뱅크 ②ㅣ AI 송금·글로벌 결제까지 '디지털 금융 확장' ...",
+          "desc": "● 2026-07-27 케이뱅크, AI 이체 서비스 출시…음성 송금 금융권 최초 케이뱅크가 AI를 활용해 문장 입력이나... 관련 기술 및 서비스 협력, 그리고 디지털자산을 활용한 새로운 비즈니스 모델 개발을 공동으로 추진한다....",
+          "src": "cbci",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/008/0005391791?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=862,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072722450484088_1.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592462",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202607/592462_403412_421_v150.jpg"
         },
         {
-          "title": "마이크론, LPDDR5X로 AI 서버 전력난 정면 돌파한다",
-          "desc": "마이크론 보고서를 보면 새 모듈은 메모리 용량 부족으로 저장 장치 영역을 임시로 활용하던 병목 현상(disk... 저전력 반도체 기술 도입이 인공지능 산업의 전력 공급 부족과 환경 문제를 완벽히 해결할 수 있을지는...",
-          "src": "g-enews",
+          "title": "카카오, 자체 개발 한국형 경량 AI 모델 '카나나-2' 오픈소스 공개",
+          "desc": "카카오는 연구자, 개발자, 스타트업이 별도 제약 없이 기술을 이용할 수 있도록 상업적 활용을 허용하는 카나나 오픈 라이선스로 배포한다. 이번 공개로 카카오는 고성능 한국어 AI 모델 활용 기반을...",
+          "src": "globale",
           "date": "07/28",
-          "url": "https://www.g-enews.com/view.php?ud=20260728062908223fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072806432702845fbbec65dfb211211153121.jpg"
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=39559",
+          "img": "https://cdn.globale.co.kr/news/thumbnail/202607/39559_64933_5233_v150.jpg"
         },
         {
-          "title": "[비바100] “유리천장보다 ‘플로어 빌더’⋯ 후배 여성 의사 길 만들어...",
-          "desc": "특히 의학전문대학원 제도 도입 이후 다양한 전공과 사회 경험을 가진 사람들이 의료계에 들어오면서 의사... 박 수석부회장은 AI는 이제 의료계가 제대로 활용하지 않으면 살아남기 어려운 기술이라고 평가했다. 실제...",
-          "src": "브릿지경제",
+          "title": "KB금융, 구글과 손잡고 AI 금융 플랫폼 구축 속도 높인다",
+          "desc": "현재 내부 테스트를 마쳤으며 향후 고객이 이용하는 서비스에 순차적으로 도입될 예정이다. KB금융은... 이해하는 기술을 뜻한다. KB금융 관계자는 \"AI를 미래 금융 서비스를 만드는 핵심 파트너로 활용할 것...",
+          "src": "econovill",
           "date": "07/28",
-          "url": "https://www.viva100.com/article/20260726500583",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/26/.cache/512/20260726500514.jpg?v=20260728070107"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746404",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746404_720361_3050_v150.jpg"
         },
         {
-          "title": "국내 넘어 글로벌 CRO로…LSK글로벌PS, 데이터·AI 앞세워 경쟁력↑",
-          "desc": "(RWD)를 활용한 임상 전략 수립과 리얼월드에비던스(RWE) 기반 연구도 강화하고 있다. 다만 AI는 임상을 대체하는 기술이 아니라 전문가의 업무를 지원하는 도구라는 입장이다. AI가 초안 작성과 데이터 분석 등 반복...",
-          "src": "뉴스1",
+          "title": "104경기 떠받친 AI… 레노버, 역대 최대 월드컵 기술 지원 완수",
+          "desc": "인텔리전스를 활용할 수 있었다\"며 \"AI가 단순히 업무를 자동화하는 데 그치지 않고 전문성을 대중화할 수 있음을 입증한 사례\"라고 강조했다. 중계 혁신 기술인 '레퍼리 뷰'도 주목받았다. 심판 시점의 경기 장면을...",
+          "src": "econovill",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/421/0009082164?sid=103",
-          "img": "https://i3n.news1.kr/system/photos/2019/8/7/3768161/high.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746395",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746395_720349_528_v150.jpg"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성-LG, 가전 경쟁에서 로봇 경쟁으로…하반기 승부 시동",
-      "url": "https://www.news2day.co.kr/article/20260727500207",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/27/.cache/512/20260727500187.png"
+      "title": "삼성전자, '올해의 녹색상품' 16개 선정…업계 최다 수상",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=746401",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/746401_720358_2122_v150.jpg"
     },
     {
-      "title": "전기 사용량 1%만 줄여도 캐시백…여름 피크시간 절감 땐 kWh당 500원",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592326",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202607/592326_403313_3914_v150.jpg"
+      "title": "이마트, '고래잇 페스타' 연다…제주 은갈치·산수박 최대 50% 할인",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=535789",
+      "img": "https://cdn.joongangenews.com/news/photo/202607/535789_341256_5819.png"
     },
     {
-      "title": "'보이는 냉장고'의 진화…식생활까지 품었다",
-      "url": "https://www.asiatime.co.kr/article/20260727500326",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/07/27/.cache/512/20260727500324.jpg"
+      "title": "갤럭시 신형 폴더블 사전예약 돌입...통신 3사 혜택 비교해보니",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87175",
+      "img": "https://cdn.ekoreanews.co.kr/news/photo/202607/87175_108835_650.jpg"
     },
     {
-      "title": "하닉 레버리지 75% 폭락 '깜짝'…매일 베팅 배율 바꾸는 홍콩, 한국은?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391791?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=862,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072722450484088_1.jpg"
+      "title": "삼성전자, '대한민국 올해의 녹색상품' 16관왕…AI 가전 친환경 경쟁력...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=535809",
+      "img": "https://cdn.joongangenews.com/news/photo/202607/535809_341276_3159.jpg"
     },
     {
-      "title": "마이크론, LPDDR5X로 AI 서버 전력난 정면 돌파한다",
-      "url": "https://www.g-enews.com/view.php?ud=20260728062908223fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026072806432702845fbbec65dfb211211153121.jpg"
+      "title": "[금융家] 케이뱅크 ②ㅣ AI 송금·글로벌 결제까지 '디지털 금융 확장' ...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592462",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202607/592462_403412_421_v150.jpg"
     },
     {
-      "title": "[비바100] “유리천장보다 ‘플로어 빌더’⋯ 후배 여성 의사 길 만들어...",
-      "url": "https://www.viva100.com/article/20260726500583",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/26/.cache/512/20260726500514.jpg?v=20260728070107"
+      "title": "카카오, 자체 개발 한국형 경량 AI 모델 '카나나-2' 오픈소스 공개",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=39559",
+      "img": "https://cdn.globale.co.kr/news/thumbnail/202607/39559_64933_5233_v150.jpg"
     }
   ]
 };
