@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.28 (화) 16:35",
+  "updatedAt": "2026.07.28 (화) 20:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.03",
-        "diff": "-1.58",
-        "rate": "-1.91%",
+        "value": "81.04",
+        "diff": "-1.57",
+        "rate": "-1.90%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,460.50",
-        "diff": "-5.50",
-        "rate": "-0.38%",
+        "value": "1,459.80",
+        "diff": "-6.20",
+        "rate": "-0.42%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "891.91",
-        "diff": "-3.30",
-        "rate": "-0.37%",
+        "value": "890.53",
+        "diff": "-4.68",
+        "rate": "-0.52%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.09",
-        "diff": "-0.07",
-        "rate": "-0.86%",
+        "value": "8.10",
+        "diff": "-0.06",
+        "rate": "-0.74%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.25",
-        "diff": "-0.03",
-        "rate": "-0.20%",
+        "value": "15.23",
+        "diff": "-0.05",
+        "rate": "-0.33%",
         "dir": "down"
       }
     ]
@@ -86,36 +86,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, ‘대한민국 올해의 녹색상품’ 16개 선정…업계 최다",
-          "desc": "삼성전자의 생활가전과 모바일 제품 총 16종이 녹색구매네트워크가 주관한 ‘2026 대한민국 올해의 녹색상품’에 선정됐다. 삼성전자는 생활가전 14개 제품과 모바일 2개 제품이 이름을 올리며 업계 최다 수상 기록을...",
-          "src": "kyeonggi",
+          "title": "“업황은 여전한데 심리 무너졌다”...‘반도체 불장’ 맞췄던 센터장의...",
+          "desc": "CXMT가 당장 삼성전자와 SK하이닉스의 실질적인 경쟁자가 될 가능성도 낮게 봤다. CXMT는 중국 내수용 스마트폰·PC·가전 시장에 주력하는 반면 국내 업체들은 글로벌 빅테크의 AI 데이터센터에 고성능 메모리를 공급하고...",
+          "src": "매일경제",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/666/0000116948?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/28/.cache/512/20260728580388.jpg?v=20260728163503"
+          "url": "https://n.news.naver.com/mnews/article/009/0005713539?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202607/28/news-p.v1.20260728.a306f41dac8c4c7ab15c770f40ef9fd6_R.jpg"
         },
         {
-          "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 수상…가전·모바일 1...",
-          "desc": "퍼블릭타임스=삼성전자가 생활가전과 스마트폰 등 총 16개 제품을 앞세워 '2026 대한민국 올해의 녹색상품... 울트라 로봇청소기, 비스포크 AI 에어드레서, 비스포크 AI 인덕션, 인피니트 라인 후드일체형 인덕션...",
-          "src": "public25",
+          "title": "삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정",
+          "desc": "삼성전자는 생활가전과 스마트폰 등 총 16개 제품이 비영리 시민단체 녹색구매네트워크가 주관하는 '2026... 울트라 로봇청소기 △비스포크 AI 에어드레서 △비스포크 AI 인덕션 △인피니트 라인 후드일체형 인덕션...",
+          "src": "koreastocknews",
           "date": "07/28",
-          "url": "https://www.public25.com/news/articleView.html?idxno=51595",
-          "img": "https://cdn.public25.com/news/photo/202607/51595_51825_4735.jpg"
+          "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120147",
+          "img": "https://cdn.koreastocknews.com/news/thumbnail/202607/120147_100434_4926_v150.jpg"
         },
         {
-          "title": "\"신선식품 최대 '50%' 할인\"…이마트, '고래잇 페스타'로 고객 지갑 책임...",
-          "desc": "이 외에도 휴가철 맞이 야외활동에 필요한 여름 필수품과 세탁기 등 가전제품  할인, 삼성전자 '갤럭시 Z8 시리즈' 사전예약 기간 이마트 단독 혜택 등 다양한 혜택을 누릴 수 있다. 행사 기간 이벤트도 풍성하다. 매장에...",
-          "src": "financialpost",
+          "title": "AI·고효율 기술 앞세운 삼성전자, 환경단체·소비자 선정 '녹색상품' 최...",
+          "desc": "ㅣ데일리포스트=곽민구 기자ㅣ삼성전자의 생활가전과 스마트폰 등 총 16개 품목이 비영리 시민단체... 일체형 세탁건조기 '비스포크 AI 콤보'는 '프리히트(Pre-heat)' 방식의 고효율 히트펌프 기술을 적용해 '쾌속 코스...",
+          "src": "thedailypost",
           "date": "07/28",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=268168",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/268168_343566_3346_v150.jpg"
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114822",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114822_118830_285_v150.jpg"
         },
         {
-          "title": "환경성·만족도 다 잡았다…소비자가 선택한 '2026 녹색상품'은?",
-          "desc": "삼성전자는 생활가전 14개, 모바일 2개 제품이 선정되며 업계 최다 수상의 영예를 안았습니다. 소비자 투표로 선정한 '소비자가 뽑은 올해의 인기상'에는 삼성전자와 LG전자를 비롯해 씨앤제이타올, 에덴바이오벽지...",
-          "src": "MBN",
+          "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
+          "desc": "냉장고와 세탁기에서 익숙해진 '비스포크(Bespoke)' 개념이 빵으로 확장됐다. 삼립이 소비자가 직접 재료를... 국내에서는 삼성전자가 2019년 냉장고를 시작으로 색상과 기능을 선택할 수 있는 '비스포크' 가전을 선보이면서...",
+          "src": "newscj",
           "date": "07/28",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005889130",
-          "img": ""
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3420629",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "공공 CCTV 1만 8100대에 국산 NPU 탑재된다",
-          "desc": "공공 CCTV에 국산 NPU 반도체를 탑재해 AI 전환을 이끄는 사업이 추진된다. 과학기술정보통신부는... 위해 활용할 계획이다. 정부가 공공 CCTV에 국산 NPU 도입을 지원해 AI CCTV 구축에 나선다. 사진_클립아트코리아 이...",
-          "src": "ZDNet코리아",
+          "title": "중진공 대구경북연수원, 지역 중소기업 재직자 대상 'AI데이터 역량강화...",
+          "desc": "BI를 활용한 데이터 분석 시각화 등 총 4개 과정으로 구성된다. 각 과정은 1일(8시간) 단위로 개별 신청할 수 있으며, 교재와 중식이 무료로 제공된다. 정기환 대구경북지방중소벤처기업청장은 \"AI 기술은 피지컬 AI 도입...",
+          "src": "hidomin",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/092/0002432223?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/28/5b247e642732f5ba116d80feda308c66.jpg"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=715106",
+          "img": "https://cdn.hidomin.com/news/photo/202607/715106_416872_5949.jpg"
         },
         {
-          "title": "이광재 \"대통령은 미래 보고 왔는데 국회는 과거와 싸워\"",
-          "desc": "군 복무와 첨단기술 교육을 연계하고 해외 우수 인재를 적극 유치하는 국가 차원의 인재 전략이 필요하다는 주장이다. 또 해저 광케이블과 저궤도 위성통신망을 활용한 글로벌 데이터 허브 구축, 송전선로·데이터센터...",
-          "src": "newsfreezone",
+          "title": "[인터뷰] 김진수 KISIA 회장 \"성과 중심 KISIA로...K-시큐리티 국가전략...",
+          "desc": "AI 보안과 피지컬 AI, 개인정보보호, 금융권 SaaS 도입, 공공 보안인증제도, 국가안보와 공급망 보안 등... 등 AI 활용 과정에서 발생하는 새로운 위협을 차단하는 기술도 함께 발전해야 한다고 봤다. AI 시대의 보안은 'AI를...",
+          "src": "dailysecu",
           "date": "07/28",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701437",
-          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/701437_747421_455_v150.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207827",
+          "img": "https://cdn.dailysecu.com/news/photo/202607/207827_208737_031.jpg"
         },
         {
-          "title": "차가 스스로 \"주차 기울어졌어요\"…작은 혁신이 바꾸는 일상",
-          "desc": "모바일 앱과 연계해 개인별 주차 이력을 관리하고 주차 습관 개선 가이드를 제공하는 방식도 도입할 수 있다. 나아가 인공지능(AI)이 운전자 특성을 학습해 맞춤형 주차 코칭을 제공하는 서비스로 발전할 전망이다. 기술...",
-          "src": "한국경제",
+          "title": "“지역화폐 사용 통합 플랫폼 구축…침체된 지역상권 살리기 최우선”",
+          "desc": "또 방과 후에는 AI와 디지털 첨단기술 교육을 제공해 미래 역량을 키우고, 교육발전특구 전략과 연계해 국제학교와 특성화학교 등 차별화된 교육기관을 유치, 세계적으로 검증된 글로벌 교육과정을 도입한다는 구상도...",
+          "src": "kookje",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/015/0005314716?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/AA.45165776.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000150828?sid=102",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0729/L20260729.22008006147i1.jpg?15"
         },
         {
-          "title": "\"70년 연구 품었다\"…아모레퍼시픽, AI 연구혁신 시동",
-          "desc": "아모레퍼시픽은 이번 플랫폼 구축을 계기로 연구개발 전반에 AI 활용 범위를 확대할 계획이다. 앞으로 AI 에이전트 도입 등을 통해 반복적인 정보 탐색 업무를 줄이고 연구원들이 새로운 가설 수립과 기술 혁신 등...",
-          "src": "megaeconomy",
+          "title": "'AX 전환' 포스코퓨처엠, 개발기간 줄이고 생산성 높인다",
+          "desc": "연구개발 부문에서는 AI를 활용한 기술트렌드 분석·설계와 가상검증을 적용해 제품개발 기간을... 원료가격 예측부터 고객사 수요 전망, 판매가격 협상에 이르는 전 과정에 AI 시뮬레이션을 적극 도입, 실증적...",
+          "src": "hidomin",
           "date": "07/28",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597704414009",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260728/p1065597704414009_481_thum.jpg"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=715103",
+          "img": "https://cdn.hidomin.com/news/photo/202607/715103_416870_5608.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "“2011년 베트남 진출…소재·부품·조립 공급망 생태계 구축”",
+          "desc": "전동규 서진시스템 대표 탈중국 공급망 기회 발견 “세관 불확실성도 해소 중” 삼성전자를 비롯해 국내... 예컨대 ESS 하나를 만들기 위해 통상 수백개 협력사 부품이 들어가는데 베트남에서는 글로벌 고객사들의 품질...",
+          "src": "매일경제",
+          "date": "07/28",
+          "url": "https://n.news.naver.com/mnews/article/009/0005713427?sid=101",
+          "img": "https://static.mk.co.kr/facebook_mknews.jpg"
+        },
+        {
+          "title": "3대 메가프로젝트, 국토 균형발전 '시험대'…지역 건설·경제 낙수효과...",
+          "desc": "정부는 서남권에 반도체 팹 4기와 협력사, 인력 생태계를 구축해 수도권에 이은 ‘제2의 생산거점’을... ◇ 대기업 중심 투자…지역·중소업체로 낙수효과 이어질까 3대 메가프로젝트에는 삼성전자와 SK하이닉스를 비롯해...",
+          "src": "m-economynews",
+          "date": "07/28",
+          "url": "https://www.m-economynews.com/news/article.html?no=69121",
+          "img": "https://www.m-economynews.com/data/photos/20260731/art_17851353894119_4b063d.jpg"
+        },
         {
           "title": "애플 부품난 심화에…삼성, 제조 경쟁력·신제품으로 승부수",
           "desc": "노태문 삼성전자 DX부문 사장은 지난 22일 영국 런던에서 열린 '갤럭시 언팩 2026' 기자간담회에서 \"현재 부품 수급에 어려움이 있는 것은 사실이나 주요 협력사들과 긴밀히 협의해 중장기적 관점에서 공급 안정성을...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/28",
           "url": "https://n.news.naver.com/mnews/article/011/0004646050?sid=102",
           "img": "https://wimg.sedaily.com/news/cms/2026/07/28/news-p.v1.20260107.f7a8df3e53cf46e3b343281787d99f5e_R.png"
-        },
-        {
-          "title": "수도권에 82% 쏠린 반도체 생산 지도, ‘호남 클러스터’가 바꿔낼까",
-          "desc": "그간 수도권에는 삼성전자와 SK하이닉스 같은 대기업이 반도체 시설을 짓고 그 주변으로 협력사와 소부장(소재·부품·장비) 기업들이 자리를 잡으면서 하나의 ‘반도체 생태계’가 조성됐다. 최근에는 수도권에...",
-          "src": "khan",
-          "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/032/0003460721?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/07/27/l_2026072801000825500080471.jpg"
-        },
-        {
-          "title": "‘반도체 생산’ 수도권 비중 82%···‘호남 클러스터’가 반도체 지도...",
-          "desc": "그간 수도권에는 삼성전자와 SK하이닉스 같은 대기업이 반도체 시설을 짓고 그 주변으로 협력사와 소부장(소재·부품·장비) 기업들이 자리를 잡으면서 하나의 ‘반도체 생태계’가 조성됐다. 최근에는 수도권에...",
-          "src": "khan",
-          "date": "07/27",
-          "url": "https://n.news.naver.com/mnews/article/032/0003460647?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/07/27/news-p.v1.20260727.0d73f7fb5632400896f7a31fab05dcee_P1.png"
         }
       ]
     },
@@ -242,34 +242,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, ‘대한민국 올해의 녹색상품’ 16개 선정…업계 최다",
-      "url": "https://n.news.naver.com/mnews/article/666/0000116948?sid=101",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/28/.cache/512/20260728580388.jpg?v=20260728163503"
+      "title": "“업황은 여전한데 심리 무너졌다”...‘반도체 불장’ 맞췄던 센터장의...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005713539?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202607/28/news-p.v1.20260728.a306f41dac8c4c7ab15c770f40ef9fd6_R.jpg"
     },
     {
-      "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 수상…가전·모바일 1...",
-      "url": "https://www.public25.com/news/articleView.html?idxno=51595",
-      "img": "https://cdn.public25.com/news/photo/202607/51595_51825_4735.jpg"
+      "title": "삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120147",
+      "img": "https://cdn.koreastocknews.com/news/thumbnail/202607/120147_100434_4926_v150.jpg"
     },
     {
-      "title": "\"신선식품 최대 '50%' 할인\"…이마트, '고래잇 페스타'로 고객 지갑 책임...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=268168",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202607/268168_343566_3346_v150.jpg"
+      "title": "AI·고효율 기술 앞세운 삼성전자, 환경단체·소비자 선정 '녹색상품' 최...",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114822",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114822_118830_285_v150.jpg"
     },
     {
-      "title": "공공 CCTV 1만 8100대에 국산 NPU 탑재된다",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432223?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/28/5b247e642732f5ba116d80feda308c66.jpg"
+      "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3420629",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
     },
     {
-      "title": "이광재 \"대통령은 미래 보고 왔는데 국회는 과거와 싸워\"",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701437",
-      "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/701437_747421_455_v150.jpg"
+      "title": "중진공 대구경북연수원, 지역 중소기업 재직자 대상 'AI데이터 역량강화...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=715106",
+      "img": "https://cdn.hidomin.com/news/photo/202607/715106_416872_5949.jpg"
     },
     {
-      "title": "차가 스스로 \"주차 기울어졌어요\"…작은 혁신이 바꾸는 일상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314716?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/AA.45165776.1.jpg"
+      "title": "[인터뷰] 김진수 KISIA 회장 \"성과 중심 KISIA로...K-시큐리티 국가전략...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207827",
+      "img": "https://cdn.dailysecu.com/news/photo/202607/207827_208737_031.jpg"
     }
   ]
 };
