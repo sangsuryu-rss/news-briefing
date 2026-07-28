@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.28 (화) 20:12",
+  "updatedAt": "2026.07.29 (수) 00:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-28",
+    "asOf": "2026-07-29",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "81.04",
-        "diff": "-1.57",
-        "rate": "-1.90%",
+        "value": "81.48",
+        "diff": "-1.13",
+        "rate": "-1.37%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,459.80",
-        "diff": "-6.20",
-        "rate": "-0.42%",
+        "value": "1,455.20",
+        "diff": "-10.80",
+        "rate": "-0.74%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "890.53",
-        "diff": "-4.68",
-        "rate": "-0.52%",
+        "value": "888.54",
+        "diff": "-6.67",
+        "rate": "-0.75%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.10",
-        "diff": "-0.06",
-        "rate": "-0.74%",
+        "value": "8.07",
+        "diff": "-0.09",
+        "rate": "-1.10%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.55",
-        "diff": "-0.03",
-        "rate": "-0.54%",
+        "value": "5.54",
+        "diff": "-0.04",
+        "rate": "-0.72%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.23",
-        "diff": "-0.05",
-        "rate": "-0.33%",
+        "value": "15.18",
+        "diff": "-0.10",
+        "rate": "-0.65%",
         "dir": "down"
       }
     ]
@@ -86,28 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“업황은 여전한데 심리 무너졌다”...‘반도체 불장’ 맞췄던 센터장의...",
-          "desc": "CXMT가 당장 삼성전자와 SK하이닉스의 실질적인 경쟁자가 될 가능성도 낮게 봤다. CXMT는 중국 내수용 스마트폰·PC·가전 시장에 주력하는 반면 국내 업체들은 글로벌 빅테크의 AI 데이터센터에 고성능 메모리를 공급하고...",
-          "src": "매일경제",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/009/0005713539?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202607/28/news-p.v1.20260728.a306f41dac8c4c7ab15c770f40ef9fd6_R.jpg"
+          "title": "학습된 회의론, 반도체로 끝내자",
+          "desc": "정부 주도로 삼성전자와 SK하이닉스가 광주 군공항 이전 부지에 800조 원 규모의 호남권 반도체 생산기지를... 자동차와 가전, 철강, 석유화학 산업을 갖춘 전남광주는 어느 지역에도 뒤지지 않는 제조업 경험과 산업...",
+          "src": "kwangju",
+          "date": "07/29",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1785251400801695085",
+          "img": ""
         },
         {
-          "title": "삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정",
-          "desc": "삼성전자는 생활가전과 스마트폰 등 총 16개 제품이 비영리 시민단체 녹색구매네트워크가 주관하는 '2026... 울트라 로봇청소기 △비스포크 AI 에어드레서 △비스포크 AI 인덕션 △인피니트 라인 후드일체형 인덕션...",
-          "src": "koreastocknews",
+          "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
+          "desc": "삼성전자가 생활가전과 모바일 제품을 포함한 총 16개 제품을 '2026 대한민국 올해의 녹색상품'에 올리며... 울트라 로봇청소기, 비스포크 AI 에어드레서, 비스포크 AI 인덕션, 인피니트 라인 후드일체형 인덕션, 인버터...",
+          "src": "mediafine",
           "date": "07/28",
-          "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120147",
-          "img": "https://cdn.koreastocknews.com/news/thumbnail/202607/120147_100434_4926_v150.jpg"
-        },
-        {
-          "title": "AI·고효율 기술 앞세운 삼성전자, 환경단체·소비자 선정 '녹색상품' 최...",
-          "desc": "ㅣ데일리포스트=곽민구 기자ㅣ삼성전자의 생활가전과 스마트폰 등 총 16개 품목이 비영리 시민단체... 일체형 세탁건조기 '비스포크 AI 콤보'는 '프리히트(Pre-heat)' 방식의 고효율 히트펌프 기술을 적용해 '쾌속 코스...",
-          "src": "thedailypost",
-          "date": "07/28",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114822",
-          "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114822_118830_285_v150.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84868",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202607/84868_122133_346.jpg"
         },
         {
           "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
@@ -116,6 +108,14 @@ window.NEWS_DATA = {
           "date": "07/28",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3420629",
           "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
+        },
+        {
+          "title": "‘2배 용량’ 받을까…‘50% 보상’ 받을까",
+          "desc": "통신 3사 모두 사전 예약 기간에는 삼성전자의 ‘더블 스토리지’ 할인 혜택으로 Z8 시리즈 256GB 단말을... 통해 가전 등을 증정한다. 보상판매 프로그램도 운영한다. SKT는 이번에 Z8 시리즈를 구매하고 2년 후 삼성...",
+          "src": "중앙일보",
+          "date": "07/29",
+          "url": "https://n.news.naver.com/mnews/article/025/0003540773?sid=105",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/514c982f-69c6-4867-8a52-335f857ada37.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "중진공 대구경북연수원, 지역 중소기업 재직자 대상 'AI데이터 역량강화...",
-          "desc": "BI를 활용한 데이터 분석 시각화 등 총 4개 과정으로 구성된다. 각 과정은 1일(8시간) 단위로 개별 신청할 수 있으며, 교재와 중식이 무료로 제공된다. 정기환 대구경북지방중소벤처기업청장은 \"AI 기술은 피지컬 AI 도입...",
-          "src": "hidomin",
-          "date": "07/28",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=715106",
-          "img": "https://cdn.hidomin.com/news/photo/202607/715106_416872_5949.jpg"
+          "title": "지캐시, 아이언우드 가동…366만 ZEC 묶인 오차드 풀 봉인됐다",
+          "desc": "해당 결함은 2022년 5월 도입 이후 약 4년간 존재했던 것으로 확인됐다. 다만 실제 악용 정황은 발견되지... 기사요약 by TokenPost.ai 시장 해석 이번 아이언우드 업그레이드는 단순한 기술 패치가 아니라 지캐시의 신뢰...",
+          "src": "tokenpost",
+          "date": "07/29",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/382347",
+          "img": "https://f1.tokenpost.kr/2026/07/nxp8mh6131.webp"
         },
         {
-          "title": "[인터뷰] 김진수 KISIA 회장 \"성과 중심 KISIA로...K-시큐리티 국가전략...",
-          "desc": "AI 보안과 피지컬 AI, 개인정보보호, 금융권 SaaS 도입, 공공 보안인증제도, 국가안보와 공급망 보안 등... 등 AI 활용 과정에서 발생하는 새로운 위협을 차단하는 기술도 함께 발전해야 한다고 봤다. AI 시대의 보안은 'AI를...",
-          "src": "dailysecu",
-          "date": "07/28",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207827",
-          "img": "https://cdn.dailysecu.com/news/photo/202607/207827_208737_031.jpg"
+          "title": "금융권 챗봇 넘어 실무형 기술로",
+          "desc": "사진=KB금융그룹 금융권의 AI 활용이 단순 상담 응답에서 업무 지원형 에이전트로 넓어지고 있다.... 생성형 AI가 고도화되면서 금융사들도 단순 질의응답을 넘어 업무와 고객 상담을 지원하는 에이전트 도입에...",
+          "src": "newsclaim",
+          "date": "07/29",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070590",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070590_112229_5738_v150.jpg"
         },
         {
-          "title": "“지역화폐 사용 통합 플랫폼 구축…침체된 지역상권 살리기 최우선”",
-          "desc": "또 방과 후에는 AI와 디지털 첨단기술 교육을 제공해 미래 역량을 키우고, 교육발전특구 전략과 연계해 국제학교와 특성화학교 등 차별화된 교육기관을 유치, 세계적으로 검증된 글로벌 교육과정을 도입한다는 구상도...",
-          "src": "kookje",
+          "title": "호반건설, AI 기반 레미콘 물량 산출 기술 시범 적용",
+          "desc": "도구로 활용하고 있습니다. 현장 실무자의 업무 부담을 줄이고 공정 및 원가 관리의 정확도를 높일 수 있는 AI 기술 도입을 확대하겠습니다\" (호반건설 관계자) 호반건설은 AI 기반 '레미콘 자동 수량 산출 기술'을 개발해...",
+          "src": "thedailypost",
           "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/658/0000150828?sid=102",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0729/L20260729.22008006147i1.jpg?15"
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114839",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114839_118848_5551_v150.jpg"
         },
         {
-          "title": "'AX 전환' 포스코퓨처엠, 개발기간 줄이고 생산성 높인다",
-          "desc": "연구개발 부문에서는 AI를 활용한 기술트렌드 분석·설계와 가상검증을 적용해 제품개발 기간을... 원료가격 예측부터 고객사 수요 전망, 판매가격 협상에 이르는 전 과정에 AI 시뮬레이션을 적극 도입, 실증적...",
-          "src": "hidomin",
+          "title": "농협중앙회, AI 기반 업무혁신 본격화…일하는 방식 전면 개편",
+          "desc": "농협중앙회가 AI와 디지털 기술을 활용한 전사적인 업무 혁신에 나선다. 업무 전 과정을 재설계해 불필요한... 최신 법령과 내부 규정, 실무 매뉴얼을 학습한 '업무용 지식검색 AI 에이전트'를 도입하고, 데이터 입력과...",
+          "src": "fntimes",
           "date": "07/28",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=715103",
-          "img": "https://cdn.hidomin.com/news/photo/202607/715103_416870_5608.jpg"
+          "url": "https://www.fntimes.com/html/view.php?ud=202607282347219050dd55077bc2_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260728234749088690dd55077bc25812315132.jpg&nmt=18"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "반도체 팹 1개의 마법…전남광주 경제 지도 바꾼다",
+          "desc": "삼성전자와 SK하이닉스가 총 800조원을 투입해 전남광주시에 메모리 반도체 팹(제조시설) 4기를 건설하는... 여기에 반도체 소재·부품·장비(소부장) 등 1차 협력사 동반 입주 효과를 더하면 통상 직접고용의 2~3배 수준의...",
+          "src": "kwangju",
+          "date": "07/28",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1785240000801703277",
+          "img": ""
+        },
         {
           "title": "“2011년 베트남 진출…소재·부품·조립 공급망 생태계 구축”",
           "desc": "전동규 서진시스템 대표 탈중국 공급망 기회 발견 “세관 불확실성도 해소 중” 삼성전자를 비롯해 국내... 예컨대 ESS 하나를 만들기 위해 통상 수백개 협력사 부품이 들어가는데 베트남에서는 글로벌 고객사들의 품질...",
@@ -187,15 +195,7 @@ window.NEWS_DATA = {
           "src": "서울신문",
           "date": "07/28",
           "url": "http://www.metroseoul.co.kr/article/20260728500459",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/07/28/.cache/512/20260728500460.jpg"
-        },
-        {
-          "title": "800조 반도체 복권 당첨에도 웃지 못하는 전남광주…강성 노조 시한폭탄...",
-          "desc": "롯데칠성음료 광주공장 폐쇄(2026년 내 완료 예정)를 시작으로 삼성전자 일부 라인 해외 이전 검토, GGM 노사... 이에 따라 1차 협력사나 모듈 공급사(현대모비스 자회사 등)의 노사 갈등으로 부품 납품이 차단되면 완제품...",
-          "src": "서울경제",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/011/0004646050?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/28/news-p.v1.20260107.f7a8df3e53cf46e3b343281787d99f5e_R.png"
+          "img": ""
         }
       ]
     },
@@ -242,19 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“업황은 여전한데 심리 무너졌다”...‘반도체 불장’ 맞췄던 센터장의...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005713539?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202607/28/news-p.v1.20260728.a306f41dac8c4c7ab15c770f40ef9fd6_R.jpg"
-    },
-    {
-      "title": "삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정",
-      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120147",
-      "img": "https://cdn.koreastocknews.com/news/thumbnail/202607/120147_100434_4926_v150.jpg"
-    },
-    {
-      "title": "AI·고효율 기술 앞세운 삼성전자, 환경단체·소비자 선정 '녹색상품' 최...",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114822",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114822_118830_285_v150.jpg"
+      "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84868",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202607/84868_122133_346.jpg"
     },
     {
       "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
@@ -262,14 +252,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
     },
     {
-      "title": "중진공 대구경북연수원, 지역 중소기업 재직자 대상 'AI데이터 역량강화...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=715106",
-      "img": "https://cdn.hidomin.com/news/photo/202607/715106_416872_5949.jpg"
+      "title": "‘2배 용량’ 받을까…‘50% 보상’ 받을까",
+      "url": "https://n.news.naver.com/mnews/article/025/0003540773?sid=105",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/514c982f-69c6-4867-8a52-335f857ada37.jpg"
     },
     {
-      "title": "[인터뷰] 김진수 KISIA 회장 \"성과 중심 KISIA로...K-시큐리티 국가전략...",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207827",
-      "img": "https://cdn.dailysecu.com/news/photo/202607/207827_208737_031.jpg"
+      "title": "지캐시, 아이언우드 가동…366만 ZEC 묶인 오차드 풀 봉인됐다",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/382347",
+      "img": "https://f1.tokenpost.kr/2026/07/nxp8mh6131.webp"
+    },
+    {
+      "title": "금융권 챗봇 넘어 실무형 기술로",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070590",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070590_112229_5738_v150.jpg"
+    },
+    {
+      "title": "호반건설, AI 기반 레미콘 물량 산출 기술 시범 적용",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114839",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202607/114839_118848_5551_v150.jpg"
     }
   ]
 };
