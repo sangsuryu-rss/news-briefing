@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.30 (목) 06:55",
+  "updatedAt": "2026.07.30 (목) 07:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,33 +31,33 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.46",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "84.25",
+        "diff": "-0.21",
+        "rate": "-0.25%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,445.00",
-        "diff": "-10.20",
-        "rate": "-0.70%",
+        "value": "1,446.00",
+        "diff": "-9.20",
+        "rate": "-0.63%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "884.28",
-        "diff": "-3.82",
-        "rate": "-0.43%",
+        "value": "884.76",
+        "diff": "-3.34",
+        "rate": "-0.38%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.02",
-        "diff": "-0.05",
-        "rate": "-0.62%",
+        "value": "8.03",
+        "diff": "-0.04",
+        "rate": "-0.50%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.11",
-        "diff": "-0.07",
-        "rate": "-0.46%",
+        "value": "15.12",
+        "diff": "-0.06",
+        "rate": "-0.40%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[소비자분쟁 The50 ㉚] \"10층 외벽 실외기는 AS불가\"...중대재해법 이유...",
-          "desc": "것이 가전업계 관계자 설명이다. 한마디로 일정한 가이드라인이 부재해 소비자 혼란을 불러오는 실정이다. 삼성전자서비스·LG전자 등 관련 업계는 산안법과 내부 방침에 따라 사업주의 의무인 근로자 보호조치를...",
-          "src": "소비자가만드는신문",
+          "title": "[모듈러 홈 전쟁] [삼성전자] 집은 공간제작소 몫…실상은 AI 생태계 구...",
+          "desc": "삼성전자는 가전제품이나 스마트싱스 연동 서비스에서 문제가 발생했을 때만 책임진다. 소비자는 ‘삼성 AI 모듈러 홈’이라는 하나의 상품처럼 접하지만 실제 계약과 사후관리 구조는 주택과 가전으로 갈리는 셈이다....",
+          "src": "dealsite",
           "date": "07/30",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760288",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202607/760288_315833_728_v150.jpg"
+          "url": "https://dealsite.co.kr/articles/166179",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/06/18/45594e1c753440dcb34c3fd799ad7b4d/thumb.jpg"
         },
         {
           "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "http://www.dailypop.kr/news/thumbnail/202607/101006_168028_1951_v150.jpg"
         },
         {
-          "title": "1800만원 中 휴머노이드의 속살…부품값 900만원, 승부는 ‘움직임’",
-          "desc": "냉장고와 세탁기 등 가전에서 얻은 정보와 로봇의 센서 데이터를 결합해 가정환경에 맞는 동작을 수행하도록 고도화하고 있다. 삼성전자(005930)도 레인보우로보틱스(277810)의 이족보행·전신제어 기술에 AI·소프트웨어...",
-          "src": "이데일리",
-          "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/018/0006339323?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072901402.jpg"
+          "title": "삼성전자 실적 오늘 발표…DS 이익 88조 육박 전망",
+          "desc": "삼성전자가 30일 올해 2분기 확정 실적을 발표한다. 사업 부문별 세부 성적표 공개가 특히 주목된다.... 다만 TV·생활가전을 담당하는 VD·DA 사업부는 반도체 가격 상승에 따른 원가 부담 증가와 글로벌 경쟁 심화로...",
+          "src": "BNT뉴스",
+          "date": "07/30",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202607300008",
+          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/30/bnt202607300008.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[보안 진단②] N2SF, 공공기관은 무엇을 준비해야 하나",
-          "desc": "프라이빗에이아이 관계자는 \"현장은 N2SF 도입 방안을 적극 검토하는 분위기\"라며 \"중요도와 업무 특성에 따라 통제 수준을 달리할 수 있게 되며 클라우드·AI를 안전하게 활용하려는 공공기관 수요가 늘었다\"고 말했다....",
-          "src": "IT데일리",
+          "title": "[미국 특징주] ARM, AI 수요 타고 실적 전망 상회…시간외 주가는 8%↓",
+          "desc": "자체 AI 칩 개발을 확대하고 있으며, 이 과정에서 ARM의 설계 기술 활용이 증가하고 있다. 르네 하스 CEO는... ◆ AGI CPU 수요 20억 달러 돌파…오라클도 신규 칩 도입 ARM은 AI 데이터센터 시장 공략을 위해 자체 CPU...",
+          "src": "뉴스핌",
           "date": "07/30",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240666",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240666_246119_1512_v150.jpg"
+          "url": "https://www.newspim.com/news/view/20260730000046",
+          "img": "https://img.newspim.com/news/2026/07/30/2607300719422610_273_tc.jpg"
         },
         {
-          "title": "화웨이, 2027년 AI 칩 유리 기판 도입… 한국 추격",
-          "desc": "중국 화웨이가 미세 공정 한계를 극복하고 반도체 연산 성능을 높이기 위해 차세대 인공지능 가속기에 유리 기판 기술을 도입한다. 미국 제재로 첨단 노광장비 확보가 어려운 상황에서 패키징 혁신으로 돌파구를...",
-          "src": "g-enews",
+          "title": "넥슨, AI로 게임 등급 분류한다…국가 R&D 과제 합류",
+          "desc": "분류에 활용될 수 있으며, 이용자 보호 강화와 국내 게임 산업의 해외 진출 지원에도 기여할 것이라는 게 업계 중론이다. 개발 후 실제 업무 환경에 해당 기술을 도입하게 되면, AI가 반복적인 검토 업무를 수행하면서...",
+          "src": "newsway",
           "date": "07/30",
-          "url": "https://www.g-enews.com/view.php?ud=202607300630041678fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026073006330803825fbbec65dfb211211153121.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026072916225363288",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/29/20260729000037_1200.png"
         },
         {
-          "title": "“한 팀 떨어진다”⋯‘국대 AI’ 2R, 성능 넘어 ‘실전’ 서바이벌",
-          "desc": "폭넓게 활용될 수 있도록 기능을 고도화했다”고 강조했다. 1차 평가 선두인 LG AI연구원은 산업 현장에... 지자체·공공기관 도입을 지원할 계획이다. 막차로 합류한 모티프테크놀로지스는 자체 설계한 ‘모티프3’...",
-          "src": "브릿지경제",
+          "title": "독파모 2차 평가 초읽기…정예팀 4곳의 막판 '필승 전략'",
+          "desc": "과학기술정보통신부가 내달 '독자 인공지능(AI) 파운데이션 모델' 프로젝트 2차 단계평가를 실시하는... 업무에 활용할 수 있는 에이전트 AI를 구현했다. 모델 용량을 줄여 기업의 AI 도입 실용성을 높이고 AX 과정의...",
+          "src": "newsway",
           "date": "07/30",
-          "url": "https://www.viva100.com/article/20260729500886",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/30/.cache/512/20260730500002.png?v=20260730065518"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026072915583334160",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/20/20260720000030_1200.png"
         },
         {
-          "title": "우체국 트럭에 마스오토 자율주행 장비 탑재",
-          "desc": "이를 통해 대형 화물차 주행 데이터를 취합해 자율주행 엔드투엔드(E2E) 인공지능(AI) 기술을 고도화한다.... 현재 20대의 우체국 운송 차량에 코파일럿 설치가 완료됐으며 향후 도입 대수를 늘릴 계획이다. 박일수...",
-          "src": "서울경제",
+          "title": "[우분투칼럼] AI·녹색전환 시대…아프리카 핵심광물과 공급망 재편",
+          "desc": "셋째, '첨단 기술 혁신의 전면적 도입'이다. 다국적 기구나 정부 주도의 대규모 인프라 투자가 완공되기만을 마냥 기다릴 수는 없다. 당장의 비효율을 타개하기 위해 AI와 빅데이터 분석, 자동화된 무인 시추 장비를...",
+          "src": "연합뉴스",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/011/0004646700?sid=105",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/29/news-p.v1.20260729.33c73e079bc74686a245d18acb289758_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016223030?sid=101",
+          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/07/21/AKR20260721031200898_01_i_P4.jpg"
         }
       ]
     },
@@ -171,7 +171,7 @@ window.NEWS_DATA = {
           "src": "wolyo",
           "date": "07/30",
           "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315764",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202607/315764_222036_431.png"
+          "img": ""
         },
         {
           "title": "광주 군공항 부지, 반도체 국가산단 첫 관문 넘었다",
@@ -211,7 +211,7 @@ window.NEWS_DATA = {
           "src": "livebiz",
           "date": "07/09",
           "url": "https://www.livebiz.today/news/articleView.html?idxno=203185",
-          "img": "https://cdn.livebiz.today/news/photo/202607/203185_204215_2938.png"
+          "img": ""
         },
         {
           "title": "[GAM]16년만의 홍콩행 '럭스쉐어'① 애플 공급망 1인자의 진화",
@@ -235,16 +235,16 @@ window.NEWS_DATA = {
           "src": "dailysecu",
           "date": "05/11",
           "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[소비자분쟁 The50 ㉚] \"10층 외벽 실외기는 AS불가\"...중대재해법 이유...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760288",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202607/760288_315833_728_v150.jpg"
+      "title": "[모듈러 홈 전쟁] [삼성전자] 집은 공간제작소 몫…실상은 AI 생태계 구...",
+      "url": "https://dealsite.co.kr/articles/166179",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/06/18/45594e1c753440dcb34c3fd799ad7b4d/thumb.jpg"
     },
     {
       "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "http://www.dailypop.kr/news/thumbnail/202607/101006_168028_1951_v150.jpg"
     },
     {
-      "title": "1800만원 中 휴머노이드의 속살…부품값 900만원, 승부는 ‘움직임’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339323?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072901402.jpg"
+      "title": "삼성전자 실적 오늘 발표…DS 이익 88조 육박 전망",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607300008",
+      "img": "https://www.bntnews.co.kr/data/bnt/image/2026/07/30/bnt202607300008.jpg"
     },
     {
-      "title": "[보안 진단②] N2SF, 공공기관은 무엇을 준비해야 하나",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240666",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202607/240666_246119_1512_v150.jpg"
+      "title": "[미국 특징주] ARM, AI 수요 타고 실적 전망 상회…시간외 주가는 8%↓",
+      "url": "https://www.newspim.com/news/view/20260730000046",
+      "img": "https://img.newspim.com/news/2026/07/30/2607300719422610_273_tc.jpg"
     },
     {
-      "title": "화웨이, 2027년 AI 칩 유리 기판 도입… 한국 추격",
-      "url": "https://www.g-enews.com/view.php?ud=202607300630041678fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026073006330803825fbbec65dfb211211153121.jpg"
+      "title": "넥슨, AI로 게임 등급 분류한다…국가 R&D 과제 합류",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026072916225363288",
+      "img": "https://nimage.newsway.co.kr/photo/2026/07/29/20260729000037_1200.png"
     }
   ]
 };
