@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.29 (수) 06:57",
+  "updatedAt": "2026.07.29 (수) 13:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,61 +19,61 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,771",
-        "diff": "+117",
-        "rate": "+0.86%",
-        "dir": "up",
+        "value": "13,715",
+        "diff": "-55",
+        "rate": "-0.40%",
+        "dir": "down",
         "avg": "13,552",
-        "avgDiff": "+219",
-        "avgRate": "+1.6%",
+        "avgDiff": "+163",
+        "avgRate": "+1.2%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.26",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "82.71",
+        "diff": "+3.45",
+        "rate": "+4.35%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,454.80",
-        "diff": "-11.20",
-        "rate": "-0.76%",
+        "value": "1,451.70",
+        "diff": "-3.50",
+        "rate": "-0.24%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "887.86",
-        "diff": "-7.35",
-        "rate": "-0.82%",
+        "value": "887.27",
+        "diff": "-0.83",
+        "rate": "-0.09%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.07",
-        "diff": "-0.09",
-        "rate": "-1.10%",
+        "value": "8.03",
+        "diff": "-0.04",
+        "rate": "-0.50%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.54",
-        "diff": "-0.04",
-        "rate": "-0.72%",
+        "value": "5.51",
+        "diff": "-0.03",
+        "rate": "-0.54%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.18",
-        "diff": "-0.10",
-        "rate": "-0.65%",
+        "value": "15.16",
+        "diff": "-0.02",
+        "rate": "-0.13%",
         "dir": "down"
       }
     ]
@@ -86,20 +86,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "전세계 1위 기업, 12년만에 교체…아마존이 월마트 꺾었다",
-          "desc": "삼성전자는 글로벌 500대 기업 순위에서 26위로 한국 기업 중 가장 높은 순위를 기록했다. 메모리 반도체와 파운드리, 스마트폰·가전 등 다양한 사업 포트폴리오를 기반으로 글로벌 제조업 최상위권 지위를...",
-          "src": "thescoop",
+          "title": "韓 1위 삼성전자, 포춘 글로벌 500 '26위'…SK하이닉스, 311위→210위로 ...",
+          "desc": "따르면 삼성전자는 지난해 매출액 2346억8000만달러(약 341조3000억원), 순이익 311억4000만 달러(약 45조3000억원)로 한국 기업 중 1위, 글로벌 순위 26위를 차지했다. 메모리 반도체와 파운드리, 스마트폰·가전 등...",
+          "src": "더구루",
           "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/665/0000007834?sid=101",
-          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311058_227618_3138_v150.jpg"
+          "url": "https://www.theguru.co.kr/news/article.html?no=105061",
+          "img": ""
         },
         {
-          "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
-          "desc": "삼성전자가 생활가전과 모바일 제품을 포함한 총 16개 제품을 '2026 대한민국 올해의 녹색상품'에 올리며... 울트라 로봇청소기, 비스포크 AI 에어드레서, 비스포크 AI 인덕션, 인피니트 라인 후드일체형 인덕션, 인버터...",
-          "src": "mediafine",
-          "date": "07/28",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84868",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202607/84868_122133_346.jpg"
+          "title": "삼성전자, '대한민국 올해의 녹색상품'서 16개 제품 선정…업계 최다",
+          "desc": "삼성전자는 생활가전 14개와 모바일 2개 등 총 16개 제품이 '2026 대한민국 올해의 녹색상품'으로 선정되며... 식기세척기, 로봇청소기, 에어드레서, 인덕션, 제습기, 정수기 등이 선정됐다. 이 가운데 '비스포크 AI...",
+          "src": "thepublic",
+          "date": "07/29",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312971",
+          "img": "https://cdn.thepublic.kr/news/photo/202607/312971_316013_1838.jpg"
+        },
+        {
+          "title": "삼성전자·LX하우시스·청호나이스, 친환경 기술과 소통 행보로 '소비자...",
+          "desc": "■ 삼성전자·LX하우시스, '2026 대한민국 올해의 녹색상품' 대거 수상 7월 28일 사단법인... 일체형 세탁건조기 '비스포크 AI 콤보'는 고효율 히트펌프 기술을 적용해 69분 만에 세탁·건조를 마치며, AI 절약 모드로 최대 60...",
+          "src": "dailypop",
+          "date": "07/29",
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101006",
+          "img": "http://www.dailypop.kr/news/thumbnail/202607/101006_168028_1951_v150.jpg"
         },
         {
           "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
@@ -108,14 +116,6 @@ window.NEWS_DATA = {
           "date": "07/28",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3420629",
           "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
-        },
-        {
-          "title": "韓·브라질 경제인 만난 李, 고위급 직통라인 조속 가동…기업 간 MOU 7건...",
-          "desc": "LG전자는 브라질 진출 30여년 동안 생산기반을 지속적으로 확대해 왔으며, 파라나주에 새로 건설한 냉장고... 삼성전자는 1987년 브라질에 진출한 이후 약 5000명의 현지 인력을 고용하고 있다며 브라질 정부의 디지털 전환...",
-          "src": "view",
-          "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/277/0005795885?sid=100",
-          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지캐시 아이언우드 가동, 17억달러 새 풀로 이전됐다",
-          "desc": "8)을 활용한 감사 과정에서 이 결함을 포착했다. 비트코인닷컴(news.bitcoin.com)은 취약점이 Halo 2 증명... notes)도 도입했다. 이는 지캐시를 당장 양자컴퓨팅에 내성을 갖게 만드는 것은 아니지만, 향후 암호화 기술이...",
-          "src": "wikitree",
+          "title": "[분석_스마트팩토리 ①한신기계공업] 최영민 대표의 한신기계공업, 테마...",
+          "desc": "공기압축기는 공장 자동화와 공정 제어, 기계 구동의 핵심 설비로 활용되는 만큼 스마트팩토리 투자 확대에... 자동화 설비 도입이 확대될수록 관련 수요도 꾸준히 발생하는 구조이며, 정부의 스마트 제조혁신 지원...",
+          "src": "newsworker",
           "date": "07/29",
-          "url": "https://www.wikitree.co.kr/articles/1149082",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/29/202607290621259892_coin.jpeg"
+          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=438829",
+          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/438829_481258_1785297603_v150.jpg"
         },
         {
-          "title": "농협중앙회, AI·디지털로 '일하는 방식' 갈아엔다…업무 전 과정 재설계",
-          "desc": "AI와 자동화 기술을 활용한 업무 지원체계도 본격 구축한다. 생성형 AI와 로봇프로세스자동화(RPA)를 도입해 직원들이 직접 처리해온 반복 업무를 대폭 줄인다는 목표다. 최신 법령과 내부 규정, 실무 매뉴얼을 학습한...",
-          "src": "newsroad",
+          "title": "인천대학교, 7개 대학·기업·기관과 AI 로봇·제조 AX 협력 본격화",
+          "desc": "교육과 연구, 현장 실증, 기술사업화를 연계하는 협력 기반을 마련해 산업 현장에서 활용 가능한 AI 로봇... 위한 기술 도입이 확대되고 있다. 대학과 기업이 공동으로 교육과 실증을 추진하는 사례도 늘어나면서 산업...",
+          "src": "kmaeil",
           "date": "07/29",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62126",
-          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/62126_83982_2228_v150.jpg"
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=646858",
+          "img": "https://cdn.kmaeil.com/news/photo/202607/646858_445464_5842.jpg"
         },
         {
-          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-          "desc": "이날 발표회에선 생활밀착형 스마트 기술을 활용한 3개 정책 아이디어가 제안됐다. 1팀은 스마트... 여기에 AI 대화형 키오스크를 도입해 디지털 취약계층도 쉽고 편리하게 행정서비스를 이용할 수 있는 환경을 조성하는...",
-          "src": "ekn",
+          "title": "“실업급여 창구에서 경력개발 플랫폼으로”",
+          "desc": "실업급여 지급 등 반복적인 행정업무는 AI를 활용해 자동화하고 고용센터 상담사는 취업 취약계층과 경력... 최석현 한국교원대 교수도 “AI 도입은 기술 적용에 그칠 것이 아니라 업무 흐름 전체를 재설계하는 수준으로...",
+          "src": "naeil",
           "date": "07/29",
-          "url": "https://www.ekn.kr/web/view.php?key=20260729020577194",
-          "img": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260729.f71efb07719b411ea7872eac52c3674e_R.jpg"
+          "url": "https://www.naeil.com/news/read/596940?ref=naver",
+          "img": "https://static.naeil.com/img/rect_logo.jpg"
         },
         {
-          "title": "8월 약가 인하 앞두고...‘준혁신형 제약기업’ 안갯속 제약업계 혼란",
-          "desc": "업계, 지원책·제도 보완 요구 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해 제작했습니다.... 약가 인하와 함께 연구개발(R&D) 투자와 혁신 성과를 갖춘 기업에는 약가 인센티브도 도입된다. 정부는 일반...",
-          "src": "news2day",
+          "title": "테솔로 로봇핸드, 스탠퍼드 연구 플랫폼으로 채택",
+          "desc": "로봇 기업 테솔로는 자사의 다관절 로봇핸드가 글로벌 연구 현장에서 실험 플랫폼으로 활용되며 세계... 액추에이터, AI 기반 제어 기술을 발표했다. 테솔로는 연구 확장 추세에 맞춰 하드웨어와...",
+          "src": "newsfreezone",
           "date": "07/29",
-          "url": "https://www.news2day.co.kr/article/20260728500277",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/07/28/.cache/512/20260728500276.png"
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701577",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202607/701577_747589_3817_v150.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[취재수첩] 시총 잣대에 흔들리는 배터리 생태계",
-          "desc": "삼성전자와 SK하이닉스 등 대형 반도체 기업에 자금이 집중된 반면, 그 이외 분야의 코스닥 중소·중견기업은... 특히 배터리 산업은 작은 협력사 하나가 특정 공정의 생산성과 안전성을 좌우하는 경우가 많다. 대형 부품...",
-          "src": "디지털데일리",
+          "title": "[Invest]삼전닉스 랠리에 매력 높아진 반도체 벤더사…해외서 인수 문의...",
+          "desc": "소재·부품·장비를 공급하는 벤더사에 쏠리고 있다.삼성전자와 하이닉스 등 주도 종목과 비교할 때 상장... 해외 투자자가 두 자릿수 영업이익률을 요구하나 대기업-협력사 구조상 조건에 맞는 대상을 찾기도 어렵다는...",
+          "src": "조선일보",
           "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/138/0002235778?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/05/28/2026052808085092163_l.jpg"
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/29/2026072980040.html",
+          "img": "https://img.investchosun.com/site/data/img_dir/2026/07/29/2026072980040_0.png"
         },
         {
-          "title": "반도체 팹 1개의 마법…전남광주 경제 지도 바꾼다",
-          "desc": "삼성전자와 SK하이닉스가 총 800조원을 투입해 전남광주시에 메모리 반도체 팹(제조시설) 4기를 건설하는... 여기에 반도체 소재·부품·장비(소부장) 등 1차 협력사 동반 입주 효과를 더하면 통상 직접고용의 2~3배 수준의...",
-          "src": "kwangju",
-          "date": "07/28",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1785240000801703277",
+          "title": "글로벌에스엠, 전자·차 균형 완성… AI·로봇·이차전지 패스너로 외형...",
+          "desc": "자동차·로봇 부품기업의 4족보행 로봇 개발 프로젝트에 1차 협력사로 선정됐다. 이차전지 분야에서는... 일본 소니 납품을 시작으로 삼성전자, LG전자로 거래를 넓혔으며, 정밀 나사 수요가 폭증했던 피처폰 시절...",
+          "src": "머니투데이",
+          "date": "07/29",
+          "url": "https://n.news.naver.com/mnews/article/008/0005392502?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=672,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072909323899223_1.jpg"
+        },
+        {
+          "title": "7월 28일 주식시장 주요공시",
+          "desc": "(계약기간:2026-07-27~2027-02-09) ▶에스티아이, 삼성전자와 276.60억원(최근 매출액대비 8.4%) 규모... 미국전기차신공장(HMGMA) 차체부품 진출 협력사로 선정됨에 따른 추가 부품개발 및 공급을 위한...",
+          "src": "catchnews",
+          "date": "07/29",
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=126691",
+          "img": "https://cdn.catchnews.kr/news/thumbnail/202607/126691_162746_4945_v150.jpg"
+        },
+        {
+          "title": "[Who Is ?] 차정훈 엠케이전자 회장 겸 한국토지신탁 회장",
+          "desc": "엠케이전자는 삼성전자, SK하이닉스, TSMC 등 주요 반도체 기업뿐만 아니라 전 세계 140여 개 글로벌... △중국·대만서 우수 협력사상 엠케이전자가 중국 반도체 시장에서 품질을 인정받고 있다. 엠케이전자는 2025년...",
+          "src": "비즈니스포스트",
+          "date": "07/29",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442306",
           "img": ""
-        },
-        {
-          "title": "“2011년 베트남 진출…소재·부품·조립 공급망 생태계 구축”",
-          "desc": "전동규 서진시스템 대표 탈중국 공급망 기회 발견 “세관 불확실성도 해소 중” 삼성전자를 비롯해 국내... 예컨대 ESS 하나를 만들기 위해 통상 수백개 협력사 부품이 들어가는데 베트남에서는 글로벌 고객사들의 품질...",
-          "src": "매일경제",
-          "date": "07/28",
-          "url": "https://n.news.naver.com/mnews/article/009/0005713427?sid=101",
-          "img": "https://static.mk.co.kr/facebook_mknews.jpg"
-        },
-        {
-          "title": "3대 메가프로젝트, 국토 균형발전 '시험대'…지역 건설·경제 낙수효과...",
-          "desc": "정부는 서남권에 반도체 팹 4기와 협력사, 인력 생태계를 구축해 수도권에 이은 ‘제2의 생산거점’을... ◇ 대기업 중심 투자…지역·중소업체로 낙수효과 이어질까 3대 메가프로젝트에는 삼성전자와 SK하이닉스를 비롯해...",
-          "src": "m-economynews",
-          "date": "07/28",
-          "url": "https://www.m-economynews.com/news/article.html?no=69121",
-          "img": "https://www.m-economynews.com/data/photos/20260731/art_17851353894119_4b063d.jpg"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "전세계 1위 기업, 12년만에 교체…아마존이 월마트 꺾었다",
-      "url": "https://n.news.naver.com/mnews/article/665/0000007834?sid=101",
-      "img": "https://cdn.thescoop.co.kr/news/thumbnail/202607/311058_227618_3138_v150.jpg"
+      "title": "삼성전자, '대한민국 올해의 녹색상품'서 16개 제품 선정…업계 최다",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=312971",
+      "img": "https://cdn.thepublic.kr/news/photo/202607/312971_316013_1838.jpg"
     },
     {
-      "title": "삼성전자, '2026 대한민국 올해의 녹색상품' 최다 선정… AI·고효율 기술...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84868",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202607/84868_122133_346.jpg"
+      "title": "삼성전자·LX하우시스·청호나이스, 친환경 기술과 소통 행보로 '소비자...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101006",
+      "img": "http://www.dailypop.kr/news/thumbnail/202607/101006_168028_1951_v150.jpg"
     },
     {
       "title": "출근길엔 패스츄리, 사무실엔 허니볼… 삼립 '비스포크빵' 승부수",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.newscj.com/news/thumbnail/202607/3420629_3530428_1018_v150.jpg"
     },
     {
-      "title": "韓·브라질 경제인 만난 李, 고위급 직통라인 조속 가동…기업 간 MOU 7건...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795885?sid=100",
-      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+      "title": "[분석_스마트팩토리 ①한신기계공업] 최영민 대표의 한신기계공업, 테마...",
+      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=438829",
+      "img": "https://cdn.newsworker.co.kr/news/thumbnail/202607/438829_481258_1785297603_v150.jpg"
     },
     {
-      "title": "지캐시 아이언우드 가동, 17억달러 새 풀로 이전됐다",
-      "url": "https://www.wikitree.co.kr/articles/1149082",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/29/202607290621259892_coin.jpeg"
+      "title": "인천대학교, 7개 대학·기업·기관과 AI 로봇·제조 AX 협력 본격화",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=646858",
+      "img": "https://cdn.kmaeil.com/news/photo/202607/646858_445464_5842.jpg"
     },
     {
-      "title": "농협중앙회, AI·디지털로 '일하는 방식' 갈아엔다…업무 전 과정 재설계",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62126",
-      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202607/62126_83982_2228_v150.jpg"
+      "title": "“실업급여 창구에서 경력개발 플랫폼으로”",
+      "url": "https://www.naeil.com/news/read/596940?ref=naver",
+      "img": "https://static.naeil.com/img/rect_logo.jpg"
     }
   ]
 };
