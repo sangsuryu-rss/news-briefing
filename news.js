@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.30 (목) 00:30",
+  "updatedAt": "2026.07.30 (목) 03:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "85.20",
-        "diff": "+5.94",
-        "rate": "+7.49%",
+        "value": "84.64",
+        "diff": "+5.38",
+        "rate": "+6.79%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,451.40",
-        "diff": "-3.80",
-        "rate": "-0.26%",
+        "value": "1,445.10",
+        "diff": "-10.10",
+        "rate": "-0.69%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "885.81",
-        "diff": "-2.29",
-        "rate": "-0.26%",
+        "value": "884.10",
+        "diff": "-4.00",
+        "rate": "-0.45%",
         "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.06",
-        "diff": "-0.01",
-        "rate": "-0.12%",
+        "value": "8.02",
+        "diff": "-0.05",
+        "rate": "-0.62%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.52",
-        "diff": "-0.02",
-        "rate": "-0.36%",
+        "value": "5.50",
+        "diff": "-0.04",
+        "rate": "-0.72%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.17",
-        "diff": "-0.01",
-        "rate": "-0.07%",
+        "value": "15.11",
+        "diff": "-0.07",
+        "rate": "-0.46%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 반도체 영업익 90조 넘을까…30일 2분기 실적 발표 '주목'",
-          "desc": "삼성전자가 30일 2분기 확정실적을 발표하는 가운데 반도체(DS) 부문에 관심이 쏠린다. 증권가에서는 이미... 이날은 지난 7일 잠정실적 때와 달리 반도체(DS), DX(모바일·VD·생활가전), SDC(디스플레이) 등으로 나눠...",
-          "src": "이데일리",
-          "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/018/0006339499?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072902088.jpg"
+          "title": "[단독]“가스비 60% 줄었다” 난방비 폭탄 잡은 삼성 히트펌프",
+          "desc": "삼성전자의 가전 생태계인 ‘스마트싱스’ 앱과의 시너지도 눈길이 간다. 기기에 부착된 바코드를 스마트폰으로 스캔한 뒤 와이파이 비밀번호만 입력하면 복잡한 과정 없이 즉시 연동된다. 외출 중에도 집 안 온도나...",
+          "src": "동아일보",
+          "date": "07/30",
+          "url": "https://n.news.naver.com/mnews/article/020/0003737526?sid=101",
+          "img": ""
         },
         {
           "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
@@ -99,7 +99,7 @@ window.NEWS_DATA = {
           "src": "한국경제",
           "date": "07/29",
           "url": "https://n.news.naver.com/mnews/article/015/0005315289?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/ZA.44890553.1.jpg"
+          "img": "https://img.hankyung.com/photo/202607/01.45187573.1.jpg"
         },
         {
           "title": "삼성전자·LX하우시스·청호나이스, 친환경 기술과 소통 행보로 '소비자...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "저커버그 \"중국 AI 규제보다 미국 경쟁력 강화가 우선\"",
-          "desc": "또 AI 기술이 소수 기업에 집중되는 것을 우려했다. 그는 \"이해관계를 가진 기업들이 서로를 심사하면... 트럼프 행정부가 AI 모델 출시 전 자발적인 안전성 검증 체계 도입을 추진하는 것에 대해서는 동료 평가(peer...",
-          "src": "파이낸셜뉴스",
+          "title": "리플(XRP), 거시경제 불확실성 속 소폭 반등세",
+          "desc": "특히 스테이블코인 도입과 실물자산(RWA) 토큰화 분야에서 기관 참여가 늘고 있어, XRP 레저의 네트워크 가치 제고에 긍정적으로 작용하고 있다는 평가다. 리플의 장기 생태계 전략은 XRP를 브리지 자산으로 활용...",
+          "src": "tokenpost",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/014/0005554869?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/01/29/202601291621343058_l.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/382726",
+          "img": "https://f1.tokenpost.kr/2026/07/hbrvj96qbh.png"
         },
         {
-          "title": "생명존중 복지국가를 만들어 간다",
-          "desc": "정보를 활용해 신청 부담을 줄인다. 중증장애인 생계급여 부양의무자 기준을 폐지하고 의료급여는 예방... 국가대표기술 30선'을 집중 육성한다. 이달 중 발표할 'AI 기본의료 전략'을 마련해 보건의료데이터 개방을...",
-          "src": "gjdream",
+          "title": "\"로봇 선생님이라더니\"…제작사가 '리얼돌' 업체 인수? 美 고교 발칵",
+          "desc": "(Sally)’를 활용한 시범 프로그램을 진행할 예정이라고 보도했다. 이 로봇은 5만7590달러(약 8300만원)에 도입될 예정으로, 원격 접속이 가능한 AI 교육 보조 시스템 '옵티오'와 연동돼 학생들에게 맞춤형 학습 지원을 제공하는...",
+          "src": "뉴시스",
           "date": "07/30",
-          "url": "http://www.gjdream.com/news/articleView.html?idxno=671382",
-          "img": "https://cdn.gjdream.com/news/photo/202607/671382_286605_123.png"
+          "url": "https://n.news.naver.com/mnews/article/003/0014096823?sid=104",
+          "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0002199307_web.jpg"
         },
         {
-          "title": "[TF미래전략포럼] SK 'AI 전문가'의 경고…\"AI 시대, 인재 격차 더 커진...",
-          "desc": "그룹의 AI 전략 수립과 산업 변화 대응을 지원하고 있다. 주요 ICT 계열사의 AI 역량을 연결하고, 기술과 시장... ◆ \"보조 도구 넘어 업무 주체로…기업의 모든 것이 바뀐다\" 김 부사장은 생성형 AI 도입 이후 기업 현장에서...",
-          "src": "더팩트",
+          "title": "건국대병원 헬스케어센터, 치매·알츠하이머 특화 검진 신설…AI 뇌 분석...",
+          "desc": "인공지능(AI) 기반 뇌 건강 분석 서비스를 도입한다. 건국대병원은 오는 9월부터 기존 개인건강검진... 병원장도 \"AI 기술을 활용한 스마트병원 인프라 구축을 지속 확대하겠다\"고 말했다. 건국대병원 헬스케어센터의...",
+          "src": "thefirstmedia",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/629/0000520202?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/07/28/202637291785221071.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204957",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202607/204957_188886_236_v150.jpg"
         },
         {
-          "title": "\"기술특례상장, 기술력보다 사업화·시장성 입증이 관건\"",
-          "desc": "기술특례 제도는 2005년 도입 이후 바이오 기업 중심으로 활용됐지만 현재는 AI와 ICT, 소재·부품·장비 등 대부분의 기술기업으로 확대됐다. 반면 심사 기준은 오히려 더욱 까다로워지고 있다. 윤 이사는 \"과거 상장했던...",
-          "src": "junggi",
+          "title": "중앙대학교의료원, AWS·NDS와 AX 전환 착수…AI 기반 의료데이터 플랫폼...",
+          "desc": "생성형 AI 등 디지털 기술이 의료 현장에서 활용될 수 있는 기반을 조성한다는 방침이다. 이철희... 또한 AX 추진을 위한 전담 위원회와 추진단을 구성해 중장기 전략을 수립하고, 기술 도입 중심이 아닌 의료진과...",
+          "src": "thefirstmedia",
           "date": "07/30",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37214",
-          "img": "https://cdn.junggi.co.kr/news/photo/202607/37214_43519_4311.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204960",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202607/204960_188890_5416_v150.jpg"
         }
       ]
     },
@@ -242,14 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 반도체 영업익 90조 넘을까…30일 2분기 실적 발표 '주목'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339499?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072902088.jpg"
-    },
-    {
       "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
       "url": "https://n.news.naver.com/mnews/article/015/0005315289?sid=101",
-      "img": "https://img.hankyung.com/photo/202607/ZA.44890553.1.jpg"
+      "img": "https://img.hankyung.com/photo/202607/01.45187573.1.jpg"
     },
     {
       "title": "삼성전자·LX하우시스·청호나이스, 친환경 기술과 소통 행보로 '소비자...",
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072901402.jpg"
     },
     {
-      "title": "저커버그 \"중국 AI 규제보다 미국 경쟁력 강화가 우선\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554869?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/01/29/202601291621343058_l.jpg"
+      "title": "리플(XRP), 거시경제 불확실성 속 소폭 반등세",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/382726",
+      "img": "https://f1.tokenpost.kr/2026/07/hbrvj96qbh.png"
     },
     {
-      "title": "생명존중 복지국가를 만들어 간다",
-      "url": "http://www.gjdream.com/news/articleView.html?idxno=671382",
-      "img": "https://cdn.gjdream.com/news/photo/202607/671382_286605_123.png"
+      "title": "\"로봇 선생님이라더니\"…제작사가 '리얼돌' 업체 인수? 美 고교 발칵",
+      "url": "https://n.news.naver.com/mnews/article/003/0014096823?sid=104",
+      "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0002199307_web.jpg"
+    },
+    {
+      "title": "건국대병원 헬스케어센터, 치매·알츠하이머 특화 검진 신설…AI 뇌 분석...",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204957",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202607/204957_188886_236_v150.jpg"
     }
   ]
 };
