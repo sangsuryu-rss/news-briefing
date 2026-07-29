@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.29 (수) 20:19",
+  "updatedAt": "2026.07.30 (목) 00:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-29",
+    "asOf": "2026-07-30",
     "items": [
       {
         "label": "LME 구리",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.02",
-        "diff": "+3.76",
-        "rate": "+4.74%",
+        "value": "85.20",
+        "diff": "+5.94",
+        "rate": "+7.49%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,452.10",
-        "diff": "-3.10",
-        "rate": "-0.21%",
+        "value": "1,451.40",
+        "diff": "-3.80",
+        "rate": "-0.26%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "887.18",
-        "diff": "-0.92",
-        "rate": "-0.10%",
+        "value": "885.81",
+        "diff": "-2.29",
+        "rate": "-0.26%",
         "dir": "down"
       },
       {
@@ -63,18 +63,18 @@ window.NEWS_DATA = {
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.53",
-        "diff": "-0.01",
-        "rate": "-0.18%",
+        "value": "5.52",
+        "diff": "-0.02",
+        "rate": "-0.36%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.18",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "15.17",
+        "diff": "-0.01",
+        "rate": "-0.07%",
+        "dir": "down"
       }
     ]
   },
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"부르지도 않았는데 대화 끼어들어\" AI 가전, 똑똑하지만 불편해",
-          "desc": "AI 기능을 장착한 생활가전 제품들이 사용자의 말을 정확하게 구분하지 못하면서 불편을 호소하는... 삼성전자 비스포크 AI 에어컨을 구매한 소비자 A씨도 비슷한 불편을 겪었다. A씨는 \"에어컨에 대해 이야기하지...",
-          "src": "autodaily",
+          "title": "삼성전자, 반도체 영업익 90조 넘을까…30일 2분기 실적 발표 '주목'",
+          "desc": "삼성전자가 30일 2분기 확정실적을 발표하는 가운데 반도체(DS) 부문에 관심이 쏠린다. 증권가에서는 이미... 이날은 지난 7일 잠정실적 때와 달리 반도체(DS), DX(모바일·VD·생활가전), SDC(디스플레이) 등으로 나눠...",
+          "src": "이데일리",
           "date": "07/29",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546238",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546238_189856_3131_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006339499?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072902088.jpg"
         },
         {
           "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경산시, AI 산업 육성 국비 59억 확보",
-          "desc": "사업의 핵심은 경북IT융합산업기술원에 구축된 초거대AI클라우드팜센터의 GPU 112장 등 AI 기반시설을 활용해... 조현일 시장은 그동안 구축한 AI 기반시설을 지역 중소기업과 연결해 기술 도입 문턱을 낮추고 새로운...",
-          "src": "thepowernews",
-          "date": "07/29",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=202607291854463076c923548bdf_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260729192104042800c923548bdf1251853498.jpg&nmt=7"
+          "title": "저커버그 \"중국 AI 규제보다 미국 경쟁력 강화가 우선\"",
+          "desc": "또 AI 기술이 소수 기업에 집중되는 것을 우려했다. 그는 \"이해관계를 가진 기업들이 서로를 심사하면... 트럼프 행정부가 AI 모델 출시 전 자발적인 안전성 검증 체계 도입을 추진하는 것에 대해서는 동료 평가(peer...",
+          "src": "파이낸셜뉴스",
+          "date": "07/30",
+          "url": "https://n.news.naver.com/mnews/article/014/0005554869?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/01/29/202601291621343058_l.jpg"
         },
         {
-          "title": "“에이전틱 AI, 사람데이터AI 상호작용 방식을 보호해야”",
-          "desc": "이를 통해 고객은 프루프포인트의 모든 보안 역량을 활용하는 동시에, 현지에서 필요한 서비스와 기술... 생성형 AI와 AI 에이전트 도입이 확대되면서 기업은 AI 도구가 어떻게 활용되고 있는지, 어떤 데이터가 AI에...",
-          "src": "byline",
-          "date": "07/29",
-          "url": "https://byline.network/?p=9004111222613569",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/proofpoint-apj-gm-vp.jpeg"
+          "title": "생명존중 복지국가를 만들어 간다",
+          "desc": "정보를 활용해 신청 부담을 줄인다. 중증장애인 생계급여 부양의무자 기준을 폐지하고 의료급여는 예방... 국가대표기술 30선'을 집중 육성한다. 이달 중 발표할 'AI 기본의료 전략'을 마련해 보건의료데이터 개방을...",
+          "src": "gjdream",
+          "date": "07/30",
+          "url": "http://www.gjdream.com/news/articleView.html?idxno=671382",
+          "img": "https://cdn.gjdream.com/news/photo/202607/671382_286605_123.png"
         },
         {
-          "title": "교보생명 22년째 우수FP 자녀 어학연수…신창재 의장 ‘사람중심경영’...",
-          "desc": "AI기술 활용한 '보장분석 AI서포터'를 도입해 FP가 고객에 더 신뢰할 수 있는 정보를 신속하게 제공하도록 돕고 있습니다. 신창재 교보생명 대표이사 겸 이사회 의장. 사진ㅣ교보생명 지난 20일 인천국제공항에서 우수FP...",
-          "src": "inthenews",
-          "date": "07/29",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=89943",
-          "img": "https://www.inthenews.co.kr/data/photos/20260731/art_17853220939624_3b4b03.jpg"
+          "title": "[TF미래전략포럼] SK 'AI 전문가'의 경고…\"AI 시대, 인재 격차 더 커진...",
+          "desc": "그룹의 AI 전략 수립과 산업 변화 대응을 지원하고 있다. 주요 ICT 계열사의 AI 역량을 연결하고, 기술과 시장... ◆ \"보조 도구 넘어 업무 주체로…기업의 모든 것이 바뀐다\" 김 부사장은 생성형 AI 도입 이후 기업 현장에서...",
+          "src": "더팩트",
+          "date": "07/30",
+          "url": "https://n.news.naver.com/mnews/article/629/0000520202?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/07/28/202637291785221071.jpg"
         },
         {
-          "title": "국토부, '제2차 BRT 종합계획' 발표… 2030년까지 전국 38개 노선 구축 및...",
-          "desc": "친환경차 도입, 자율주행 기술 적용 등 4대 핵심 목표와 5대 분야 14개 추진 과제를 담고 있다. ■ BRT 전용... 저상버스 도입을 확대한다. AI 기반 관제: 인공지능(AI)을 활용한 운영·관제 시스템을 고도화하여 정밀한...",
-          "src": "discoverynews",
-          "date": "07/29",
-          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097377",
-          "img": "https://cdn.discoverynews.kr/news/thumbnail/202607/1097377_1139966_5412_v150.jpg"
+          "title": "\"기술특례상장, 기술력보다 사업화·시장성 입증이 관건\"",
+          "desc": "기술특례 제도는 2005년 도입 이후 바이오 기업 중심으로 활용됐지만 현재는 AI와 ICT, 소재·부품·장비 등 대부분의 기술기업으로 확대됐다. 반면 심사 기준은 오히려 더욱 까다로워지고 있다. 윤 이사는 \"과거 상장했던...",
+          "src": "junggi",
+          "date": "07/30",
+          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37214",
+          "img": "https://cdn.junggi.co.kr/news/photo/202607/37214_43519_4311.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "광주 군공항 부지, 호남권 반도체 국가산단 후보지 최종 낙점",
+          "desc": "이번 결정은 산업통상자원부가 삼성전자와 SK하이닉스 등 글로벌 앵커기업들의 막대한 투자 수요를 근거로... 국토부는 이 일대를 단순한 공장 밀집 구역이 아닌, 핵심 대기업과 소재·부품·장비(소부장) 협력사, 그리고...",
+          "src": "kwangju",
+          "date": "07/29",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1785327720801756277",
+          "img": ""
+        },
         {
           "title": "日 강진에 공장 일단 ‘멈춤’… 반도체 르네상스 꿈 ‘흔들’ [짚어봅...",
           "desc": "다만 현재까지는 구조적인 피해가 확인되지 않았고 생산 재개도 순차적으로 이뤄지고 있어, 삼성전자 등... 설계와 협력사 지원을 바탕으로 본진 발생 35일 만에 생산능력을 100% 회복했다. 시장조사업체 트렌드포스는...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/29",
           "url": "https://www.investchosun.com/site/data/html_dir/2026/07/29/2026072980040.html",
           "img": "https://img.investchosun.com/site/data/img_dir/2026/07/29/2026072980040_0.png"
-        },
-        {
-          "title": "글로벌에스엠, 전자·차 균형 완성… AI·로봇·이차전지 패스너로 외형...",
-          "desc": "자동차·로봇 부품기업의 4족보행 로봇 개발 프로젝트에 1차 협력사로 선정됐다. 이차전지 분야에서는... 일본 소니 납품을 시작으로 삼성전자, LG전자로 거래를 넓혔으며, 정밀 나사 수요가 폭증했던 피처폰 시절...",
-          "src": "머니투데이",
-          "date": "07/29",
-          "url": "https://n.news.naver.com/mnews/article/008/0005392502?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=672,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072909323899223_1.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"부르지도 않았는데 대화 끼어들어\" AI 가전, 똑똑하지만 불편해",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546238",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202607/546238_189856_3131_v150.jpg"
+      "title": "삼성전자, 반도체 영업익 90조 넘을까…30일 2분기 실적 발표 '주목'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339499?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072902088.jpg"
     },
     {
       "title": "'중국 다 나가' 美 초강수…현대차 로봇 '대형 호재' 터졌다",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26072901402.jpg"
     },
     {
-      "title": "경산시, AI 산업 육성 국비 59억 확보",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202607291854463076c923548bdf_7",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260729192104042800c923548bdf1251853498.jpg&nmt=7"
+      "title": "저커버그 \"중국 AI 규제보다 미국 경쟁력 강화가 우선\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554869?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/01/29/202601291621343058_l.jpg"
     },
     {
-      "title": "“에이전틱 AI, 사람데이터AI 상호작용 방식을 보호해야”",
-      "url": "https://byline.network/?p=9004111222613569",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/07/proofpoint-apj-gm-vp.jpeg"
+      "title": "생명존중 복지국가를 만들어 간다",
+      "url": "http://www.gjdream.com/news/articleView.html?idxno=671382",
+      "img": "https://cdn.gjdream.com/news/photo/202607/671382_286605_123.png"
     }
   ]
 };
