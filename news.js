@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 03:11",
+  "updatedAt": "2026.07.31 (금) 07:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.09",
-        "diff": "-0.37",
-        "rate": "-0.44%",
-        "dir": "down"
+        "value": "83.59",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,421.10",
-        "diff": "-24.90",
-        "rate": "-1.72%",
+        "value": "1,425.70",
+        "diff": "-20.30",
+        "rate": "-1.40%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "894.42",
-        "diff": "+9.66",
-        "rate": "+1.09%",
+        "value": "893.21",
+        "diff": "+8.45",
+        "rate": "+0.96%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.88",
-        "diff": "-0.15",
-        "rate": "-1.87%",
+        "value": "7.90",
+        "diff": "-0.13",
+        "rate": "-1.62%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.42",
-        "diff": "-0.08",
-        "rate": "-1.45%",
+        "value": "5.44",
+        "diff": "-0.06",
+        "rate": "-1.09%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "14.86",
-        "diff": "-0.26",
-        "rate": "-1.72%",
+        "value": "14.90",
+        "diff": "-0.22",
+        "rate": "-1.46%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼전닉스, 매일 1.6조 벌었다",
-          "desc": "삼성전자가 또다시 최대 실적기록을 갈아치웠다. 주가폭락 등으로 드러난 시장의 공포와 달리 반도체... 스마트폰을 만드는 MX(모바일경험)사업부가 7000억원, TV·가전사업부가 100억원 등의 적자를 냈다. 자회사인...",
-          "src": "머니투데이",
+          "title": "로봇 사업에 삼성전자가 직접 나섰다… 레인보우로보틱스·에스피지 수...",
+          "desc": "로봇 공급망 중요성이 강조되면서 삼성전자 로봇 생태계에 투자자들 관심이 쏠리고 있다. 삼성전자는 7월... 만들어온 가전 부품 회사였다. 현재는 국내에서 유일하게 3가지 방식의 산업용 로봇 감속기를 모두 만들...",
+          "src": "동아일보",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/008/0005393682?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073020141517971_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/037/0000038597?sid=101",
+          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/6b/0c/48/6a6b0c480162a0a0a0a.jpg"
         },
         {
           "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
         },
         {
-          "title": "상반기 매출 100조 찍은 DX, 갤Z8·HVAC로 반전 노린다",
-          "desc": "부품 원가 급등과 글로벌 수요 위축이라는 복합 위기에도 삼성전자(005930) 디바이스경험(DX) 부문이 사상... 내수 시장에서는 올인원 세탁건조기 ‘비스포크 AI 콤보’가 누적 30만 대를 돌파해 실적을 받치고 있다....",
-          "src": "서울경제",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/011/0004647017?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/07/30/news-p.v1.20260722.2978180126a8429b9c233aabdd9f7d6f_R.jpg"
+          "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
+          "desc": "삼성전자와 애플 등 주요 스마트폰 제조사는 자급제 스마트폰에 보상 판매 및 정기 교체 프로그램을 결합한... 매달 일정액을 내면 1~2년마다 최신 기기로 교체해주고 있다.LG전자는 세탁기, 건조기, 냉장고 등 대형 가전에...",
+          "src": "news",
+          "date": "07/31",
+          "url": "https://news.mtn.co.kr/news-detail/2026073015041212168",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
         },
         {
-          "title": "가전·휴대폰 잘 팔렸지만…'칩플레이션'에 발목 잡힌 DX부문 [삼성 2분...",
-          "desc": "30일 삼성전자에 따르면 지난 2·4분기에 MX사업부(휴대폰)는 창사 이래 첫 적자(7000억원 영업손실)를 기록했으며, 지난해 3·4분기와 4·4분기 연속 적자를 냈던 VD사업부(TV 등)와 DA사업부(냉장고·세탁기 등 생활가전)는...",
-          "src": "파이낸셜뉴스",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/014/0005555363?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
+          "title": "[오늘의 브릿지경제 1면] 세계는 지금 C커머스 규제 강화 중⋯ 한국 풍선...",
+          "desc": "◆“영업익 99%가 반도체”⋯ 삼성전자, 실적 편중 과제 남겼다 ‘반도체는 웃고 모바일·가전은 울었다.’ 삼성전자 양대 부문 간 실적 양극화가 이번 분기 더욱 뚜렷해졌다. 직전 1분기 전체 영업이익에서...",
+          "src": "브릿지경제",
+          "date": "07/31",
+          "url": "https://www.viva100.com/article/20260730501290",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/30/.cache/512/20260730501289.jpg?v=20260731070737"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 오류로 예산 860% 초과…아마존 비상",
-          "desc": "세계 최대 전자상거래 기업 아마존이 인공지능(AI)을 사내 기술 프로젝트에 적용하는 과정에서 예산을 크게... 파이낸셜타임스(FT)는 아마존 고위 엔지니어들이 28일(이하 현지시각) 열린 직원회의에서 AI 도입 방식의...",
-          "src": "g-enews",
+          "title": "[더벨][thebell interview] 최찬열 링크알파 대표 \"글로벌 AI투자 워크플...",
+          "desc": "생성형 AI를 M&A 업무에 도입했다고 답했다. 타깃 기업 발굴과 기업 스크리닝, 실사 등 딜의 가장 앞단에서 가장 활발하게 활용되고 있다. 링크알파는 이런 상황에서 한국의 금융시장에 큰 기회가 있다고 바라보고 있다....",
+          "src": "더벨",
           "date": "07/31",
-          "url": "https://www.g-enews.com/view.php?ud=2026073019384238449a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260730194317060639a1f30943117511616074.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291333104040109286",
+          "img": ""
         },
         {
-          "title": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다",
-          "desc": "조경의 경우 AI기술을 활용하면 다양한 설계안을 자동으로 생성해 초기단계에서부터 비교·검토할 수 있다.... 지난해 업계 최초로 도입한 AI 기반 '미디어 파고라'는 조경공간의 기능성과 감성적 경험을 결합한 사례로...",
-          "src": "머니투데이",
+          "title": "[인터뷰] 김태성 신안군수 \"신안 발전의 결실은 군민 소득으로\"",
+          "desc": "AI 기반 공공의료와 맞춤형 동행 서비스 등을 도입해 100세까지 행복한 '해피100' 신안을 만들겠다. 또한 '고품격 체류형 관광'을 육성해 주민에게 수익이 돌아가는 모델을 확산시키겠다. 또 신안의 햇빛과 바람을 활용한...",
+          "src": "newscj",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/008/0005393678?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073019490763542_1.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3421332",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3421332_3531516_3426_v150.jpg"
         },
         {
-          "title": "[Startup’s Story #537] 픽스업헬스가 동작 인식 기술을 걷어낸 이유",
-          "desc": "미국의사협회(AMA)가 2022년 RTM 관련 진료 코드(CPT)를 도입하고, 메디케어·메디케이드 서비스센터(CMS)가 이를... 홍 CTO는 \"요새 나오는 AI 툴을 잘 활용하면서 프로덕트를 하나 맡아 개발도 하고 만들어 낼 수 있는 분\"이라고...",
-          "src": "platum",
+          "title": "[세계의 창] 방글라 치명적 우기, 지속 가능한 해법을 위한 종합계획",
+          "desc": "트윈 기술을 활용하고 있다. 디지털 트윈은 도시를 가상 공간에 그대로 구현한 것으로 인공지능(AI) 기반... 또한 방글라데시는 물이 스며들지 않는 콘크리트 지표면을 확대하는 대신 투수성 포장재를 도입하고 사라진...",
+          "src": "newscj",
           "date": "07/31",
-          "url": "https://platum.kr/archives/291692",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/07/KakaoTalk_20260731_005752976.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3420796",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3420796_3530706_5549_v150.jpg"
         },
         {
-          "title": "하이닉스 ‘반나절 심층 면접’ … AI 활용 능력 평가",
-          "desc": "AI 활용 역량과 반도체 직무 전문성을 자유롭게 작성하는 새로운 서식을 도입한다. 스펙보다 실무에서 AI를 어떻게 응용할 수 있는지를 집중적으로 검증하겠다는 취지다. 이번 채용은 설계, 소자, R&D 공정, 양산기술 등...",
-          "src": "조선일보",
+          "title": "[K-AI 국가대표③] 업스테이지, 체급 확장과 '다음' 빅데이터로 역전 극...",
+          "desc": "소버린 AI의 명확한 기술적 기준을 확립해 준 모범 사례가 됐다. 정책적 측면에서도 전직 고위 공직자의... 대기업 컨소시엄 못지않은 고난도 연산 능력을 갖추면서도 기업들이 도입하기 가장 합리적인 '가성비 최강'의...",
+          "src": "newscj",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/023/0003990588?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/GZSTAMTCGJSTKMJQMZRWCYRQMM.jpg?auth=e3facd8f76ae7dc35e45bad39188563d15a26b25ad6ad838d0c665c9df0d5c8a&width=1200&height=630&smart=true"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3421258",
+          "img": "https://cdn.newscj.com/news/thumbnail/202607/3421258_3531391_3638_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼전닉스, 매일 1.6조 벌었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393682?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073020141517971_1.jpg"
+      "title": "로봇 사업에 삼성전자가 직접 나섰다… 레인보우로보틱스·에스피지 수...",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038597?sid=101",
+      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/6b/0c/48/6a6b0c480162a0a0a0a.jpg"
     },
     {
       "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
     },
     {
-      "title": "상반기 매출 100조 찍은 DX, 갤Z8·HVAC로 반전 노린다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647017?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/07/30/news-p.v1.20260722.2978180126a8429b9c233aabdd9f7d6f_R.jpg"
+      "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
+      "url": "https://news.mtn.co.kr/news-detail/2026073015041212168",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
     },
     {
-      "title": "가전·휴대폰 잘 팔렸지만…'칩플레이션'에 발목 잡힌 DX부문 [삼성 2분...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555363?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
+      "title": "[오늘의 브릿지경제 1면] 세계는 지금 C커머스 규제 강화 중⋯ 한국 풍선...",
+      "url": "https://www.viva100.com/article/20260730501290",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/30/.cache/512/20260730501289.jpg?v=20260731070737"
     },
     {
-      "title": "AI 오류로 예산 860% 초과…아마존 비상",
-      "url": "https://www.g-enews.com/view.php?ud=2026073019384238449a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260730194317060639a1f30943117511616074.jpg"
+      "title": "[인터뷰] 김태성 신안군수 \"신안 발전의 결실은 군민 소득으로\"",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3421332",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3421332_3531516_3426_v150.jpg"
     },
     {
-      "title": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393678?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073019490763542_1.jpg"
+      "title": "[세계의 창] 방글라 치명적 우기, 지속 가능한 해법을 위한 종합계획",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3420796",
+      "img": "https://cdn.newscj.com/news/thumbnail/202607/3420796_3530706_5549_v150.jpg"
     }
   ]
 };
