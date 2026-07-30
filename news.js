@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 00:06",
+  "updatedAt": "2026.07.31 (금) 03:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.28",
-        "diff": "-0.18",
-        "rate": "-0.21%",
+        "value": "84.09",
+        "diff": "-0.37",
+        "rate": "-0.44%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,430.20",
-        "diff": "-15.80",
-        "rate": "-1.09%",
+        "value": "1,421.10",
+        "diff": "-24.90",
+        "rate": "-1.72%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "896.96",
-        "diff": "+12.20",
-        "rate": "+1.38%",
+        "value": "894.42",
+        "diff": "+9.66",
+        "rate": "+1.09%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.93",
-        "diff": "-0.10",
-        "rate": "-1.25%",
+        "value": "7.88",
+        "diff": "-0.15",
+        "rate": "-1.87%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.45",
-        "diff": "-0.05",
-        "rate": "-0.91%",
+        "value": "5.42",
+        "diff": "-0.08",
+        "rate": "-1.45%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "14.95",
-        "diff": "-0.17",
-        "rate": "-1.12%",
+        "value": "14.86",
+        "diff": "-0.26",
+        "rate": "-1.72%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다”",
-          "desc": "삼성전자가 하반기 중 미국 텍사스주 테일러에 두 번째 파운드리(반도체 위탁생산) 공장을 착공한다.... 지난 6월 구매액의 20%를 온누리상품권으로 돌려주는 마케팅 행사를 열며, 국내에서만 3조원대 가전 소비가...",
-          "src": "중앙일보",
+          "title": "삼전닉스, 매일 1.6조 벌었다",
+          "desc": "삼성전자가 또다시 최대 실적기록을 갈아치웠다. 주가폭락 등으로 드러난 시장의 공포와 달리 반도체... 스마트폰을 만드는 MX(모바일경험)사업부가 7000억원, TV·가전사업부가 100억원 등의 적자를 냈다. 자회사인...",
+          "src": "머니투데이",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/025/0003541394?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/31/d9b48f4a-50c7-4c3a-b334-3863c0edf224.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005393682?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073020141517971_1.jpg"
         },
         {
           "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "울산硏 \"울산빅데이터센터 기능 고도화해야\"",
-          "desc": "AI 기본사회는 기술 발전의 혜택이 특정 집단에 편중되지 않고, 모든 국민에게 공정하게 제공되는 포용적... 플랫폼을 활용할 수 있도록 AI 에이전트 기반의 GeoAI(지리정보 AI) 기능을 도입해야 한다는 의견이 제시됐다. 또...",
-          "src": "ksilbo",
+          "title": "AI 오류로 예산 860% 초과…아마존 비상",
+          "desc": "세계 최대 전자상거래 기업 아마존이 인공지능(AI)을 사내 기술 프로젝트에 적용하는 과정에서 예산을 크게... 파이낸셜타임스(FT)는 아마존 고위 엔지니어들이 28일(이하 현지시각) 열린 직원회의에서 AI 도입 방식의...",
+          "src": "g-enews",
           "date": "07/31",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063498",
-          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
+          "url": "https://www.g-enews.com/view.php?ud=2026073019384238449a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260730194317060639a1f30943117511616074.jpg"
         },
         {
-          "title": "한국앤컴퍼니그룹, AI 활용 기준 담은 사내 교육 콘텐츠 제작",
-          "desc": "최근에는 구글 클라우드와 협력해 '제미나이 엔터프라이즈'를 도입하며 AI 기반 업무 환경 구축을 추진하고 있다. 그룹 관계자는 \"AI 리터러시는 AI를 사용하는 기술을 넘어 상황에 맞게 판단하고 책임 있게 활용하...",
-          "src": "getnews",
-          "date": "07/30",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876603",
-          "img": "https://cdn.getnews.co.kr/news/photo/202607/876603_532069_734.png"
+          "title": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다",
+          "desc": "조경의 경우 AI기술을 활용하면 다양한 설계안을 자동으로 생성해 초기단계에서부터 비교·검토할 수 있다.... 지난해 업계 최초로 도입한 AI 기반 '미디어 파고라'는 조경공간의 기능성과 감성적 경험을 결합한 사례로...",
+          "src": "머니투데이",
+          "date": "07/31",
+          "url": "https://n.news.naver.com/mnews/article/008/0005393678?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073019490763542_1.jpg"
         },
         {
-          "title": "롯데글로벌로지스, 물류 작업자 위한 '입는 로봇' 개발한다",
-          "desc": "로봇 기술을 공동 개발·실증하며, 실제 물류 현장에서 활용 가능한 AI 기반 로봇 솔루션의 상용화를 추진한다. 특히 롯데글로벌로지스는 이번 과제에서 에프알티로보틱스가 개발한 웨어러블 로봇을 물류 현장에 도입해...",
-          "src": "klnews",
-          "date": "07/30",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322142",
-          "img": "https://cdn.klnews.co.kr/news/thumbnail/202607/322142_65481_4244_v150.jpg"
+          "title": "[Startup’s Story #537] 픽스업헬스가 동작 인식 기술을 걷어낸 이유",
+          "desc": "미국의사협회(AMA)가 2022년 RTM 관련 진료 코드(CPT)를 도입하고, 메디케어·메디케이드 서비스센터(CMS)가 이를... 홍 CTO는 \"요새 나오는 AI 툴을 잘 활용하면서 프로덕트를 하나 맡아 개발도 하고 만들어 낼 수 있는 분\"이라고...",
+          "src": "platum",
+          "date": "07/31",
+          "url": "https://platum.kr/archives/291692",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/07/KakaoTalk_20260731_005752976.jpg"
         },
         {
-          "title": "세계최고 AI열기, 원주 98개팀 도전, 1팀 만 본선행",
-          "desc": "공공데이터·AI 활용 창업경진대회 본선으로 진출하기 위해, 수많은 국내 AI과학기술자들이 전국의 거점... 로딤스) 도입을 통한 원주시 교통안전 AI 플랫폼 구축’(로디개발팀)이 천신만고 끝에 행안부 주최 본선...",
-          "src": "헤럴드경제",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/016/0002677639?sid=102",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/30/news-p.v1.20260730.8fc0709437974703a2e70a43ecf2dd19_T1.jpg"
+          "title": "하이닉스 ‘반나절 심층 면접’ … AI 활용 능력 평가",
+          "desc": "AI 활용 역량과 반도체 직무 전문성을 자유롭게 작성하는 새로운 서식을 도입한다. 스펙보다 실무에서 AI를 어떻게 응용할 수 있는지를 집중적으로 검증하겠다는 취지다. 이번 채용은 설계, 소자, R&D 공정, 양산기술 등...",
+          "src": "조선일보",
+          "date": "07/31",
+          "url": "https://n.news.naver.com/mnews/article/023/0003990588?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/GZSTAMTCGJSTKMJQMZRWCYRQMM.jpg?auth=e3facd8f76ae7dc35e45bad39188563d15a26b25ad6ad838d0c665c9df0d5c8a&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541394?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/31/d9b48f4a-50c7-4c3a-b334-3863c0edf224.jpg"
+      "title": "삼전닉스, 매일 1.6조 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393682?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073020141517971_1.jpg"
     },
     {
       "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
     },
     {
-      "title": "울산硏 \"울산빅데이터센터 기능 고도화해야\"",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063498",
-      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
+      "title": "AI 오류로 예산 860% 초과…아마존 비상",
+      "url": "https://www.g-enews.com/view.php?ud=2026073019384238449a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260730194317060639a1f30943117511616074.jpg"
     },
     {
-      "title": "한국앤컴퍼니그룹, AI 활용 기준 담은 사내 교육 콘텐츠 제작",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876603",
-      "img": "https://cdn.getnews.co.kr/news/photo/202607/876603_532069_734.png"
+      "title": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393678?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073019490763542_1.jpg"
     }
   ]
 };
