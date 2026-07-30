@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.30 (목) 16:31",
+  "updatedAt": "2026.07.30 (목) 20:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,25 +31,25 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "85.36",
-        "diff": "+0.90",
-        "rate": "+1.07%",
-        "dir": "up"
+        "value": "83.54",
+        "diff": "-0.92",
+        "rate": "-1.09%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,438.10",
-        "diff": "-7.90",
-        "rate": "-0.55%",
+        "value": "1,434.10",
+        "diff": "-11.90",
+        "rate": "-0.82%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "878.63",
-        "diff": "-6.13",
-        "rate": "-0.69%",
+        "value": "880.73",
+        "diff": "-4.03",
+        "rate": "-0.46%",
         "dir": "down"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.03",
-        "diff": "-0.09",
-        "rate": "-0.60%",
+        "value": "14.99",
+        "diff": "-0.13",
+        "rate": "-0.86%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "축구협회 청문회에 대통령이 왜 나와?…‘왜 졌나’ 질문까지 눈살 등 ...",
-          "desc": "생활가전 등 완제품 사업을 맡는 디바이스경험(DX)부문은 매출 성장에도 부품 원가 상승 부담으로 출범 후 첫 분기 적자를 냈다. 전사 실적은 신기록을 냈지만 사업부별 희비는 극명하게 엇갈렸다 삼성전자는 30일 연결...",
-          "src": "데일리안",
+          "title": "부문별 명암 엇갈린 삼성전자 ‘반도체’만 웃었다",
+          "desc": "DX, 100조 매출에도 첫 적자 기록 DS, 2분기 영업익 89조 역대 최대 삼성전자가 올해 2분기에 역대 최대... TV 사업부인 VD는 신제품 등에 매출과 수익성이 개선됐고, 생활가전은 전분기 대비 매출이 성장했으나, 비용...",
+          "src": "kyeongin",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/119/0003116688?sid=102",
-          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1785396430_1672853_m_1.jpg"
+          "url": "https://www.kyeongin.com/article/1768198",
+          "img": "https://wimg.kyeongin.com/news/cms/2026/07/30/news-p.v1.20260730.d45358ff310440fa8bed5804c5a59c57_R.jpg"
         },
         {
           "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
         },
         {
-          "title": "신일전자, 24년 만에 김치냉장고 사업 재도전",
-          "desc": "신일전자는 삼성전자와 LG전자 김치냉장고 제품군이 닿지 않는 틈새 수요를 공략할 것으로 예상된다. 가전 업계 관계자는 “프리미엄 시장을 주도하는 삼성전자·LG전자와 가격 이점을 앞세운 중국 기업 사이에서...",
-          "src": "전자신문",
+          "title": "상반기 매출 100조 찍은 DX, 갤Z8·HVAC로 반전 노린다",
+          "desc": "부품 원가 급등과 글로벌 수요 위축이라는 복합 위기에도 삼성전자(005930) 디바이스경험(DX) 부문이 사상... 내수 시장에서는 올인원 세탁건조기 ‘비스포크 AI 콤보’가 누적 30만 대를 돌파해 실적을 받치고 있다....",
+          "src": "서울경제",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/030/0003452807?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/03/24/news-p.v1.20260324.e5cc5a0c383b489db4efaec3517b0d6f_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004647017?sid=101",
+          "img": ""
         },
         {
-          "title": "[삼성전자 컨콜] 美테일러 2공장 연말 전격 착공…\"ADR 발행 검토 안 해...",
-          "desc": "AI 가전 라인업 확대를 통해 체질 개선을 가속화한다. 테일러 2공장 올해 말 착공·1.4나노 추가 팹 검토 삼성전자는 이날 컨퍼런스콜을 통해 미국 테일러 팹 증설에 대해 \"현재 선단 생산능력(CAPA) 증설 속도가...",
-          "src": "wikileaks-kr",
+          "title": "가전·휴대폰 잘 팔렸지만 '칩플레이션'에 발목… DX는 사상 첫 적자 [삼...",
+          "desc": "30일 삼성전자에 따르면 지난 2·4분기에 MX사업부(휴대폰)는 창사 이래 첫 적자(7000억원 영업손실)를 기록했으며, 지난해 3·4분기와 4·4분기 연속 적자를 냈던 VD사업부(TV 등)와 DA사업부(냉장고·세탁기 등 생활가전)는...",
+          "src": "파이낸셜뉴스",
           "date": "07/30",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190360",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/190360_203730_4620_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005555363?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AX 인재전쟁③] AI인재 '대기업 쏠림' 현상, 'AX 확산' 늦춘다",
-          "desc": "윤종필 한국생산기술연구원 제조AI연구센터장은 \"대기업과 중소기업의 AI 활용률에 큰 차이가 있고... 내부 역량이 부족하면 외부 기술을 도입해도 기업별 데이터 구조와 업무 절차, 기존 시스템에 맞게 조정하기 어렵다....",
-          "src": "sisajournal-e",
+          "title": "[컨콜 종합] LG전자, 엔비디아 CDU 인증 받고 로봇 양산 시동…액추에이...",
+          "desc": "김창태 LG전자 CFO는 \"LG의 로봇 하드웨어 기술과 제조 역량에 피지컬 AI 기술 스택을 결합하는 것을 목표로... LG전자가 야심차게 도입한 클로이드는 PoC를 거쳐 데이터 팩토리에서 고품질 생산 데이터를 쌓는다. 이어...",
+          "src": "econovill",
           "date": "07/30",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422773",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202607/422773_237798_4847_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746720",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746720_720826_340_v150.jpg"
         },
         {
-          "title": "상권과 단골 수요가 대출 한도 가른다…소상공인 특화 신용평가 8월말 ...",
-          "desc": "순차적으로 도입되기 때문이다. 기존 신용등급이 다소 낮더라도 사업의 실제 성장성에 따라 대출 한도와... 데이터까지 활용된다. 평가는 도소매업, 숙박음식점업, 기타 서비스업, 기술업종 등 유사 업종별로 세분화되어...",
-          "src": "segye",
+          "title": "제조업 AI 도입, 데이터 연결부터 운영까지…한국요꼬가와전기·VNTG 협력",
+          "desc": "전사 정보기술(IT) 시스템과 생산설비를 다루는 운영기술(OT) 영역이 각각 운영되는 경우가 많아, 기업이... 한국요꼬가와전기와 VNTG는 지난 29일 서울 마포구 세아타워에서 국내 제조기업의 AI 도입과 활용을 지원하기...",
+          "src": "kidd",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/022/0004147179?sid=101",
-          "img": "https://www.segye.com/content/image/2026/07/30/20260730516010.png"
+          "url": "https://kidd.co.kr/news/246898",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/30/1785399425_60.jpg"
         },
         {
-          "title": "중국 CATL '종합 AI 에너지' 겨냥하며 ESS 지배력 강화, K배터리 설 자리...",
-          "desc": "유사하다\"며 \"기술력과 시장 지배력을 기반으로 경쟁력을 높이는 구조를 만들고 있다\"고 평가했다. 중국... LG에너지솔루션은 지난 10일 기후에너지환경부가 주관한 '2026년 AI 활용 ESS 구축 지원 사업'의 운영 사업자로...",
-          "src": "비즈니스포스트",
+          "title": "‘사계절 딸기 농장’된 물류창고…“에너지 40% 절감”",
+          "desc": "수랭식 LED로 전기료를 38% 정도 더 줄였습니다.\"] 공급과잉으로 공실이 늘어난 물류창고를 활용하고, 대형... 로봇까지 도입한 5세대 스마트팜 기술도 개발할 계획입니다. [이석형/한국농업기술진흥원장 : \"AI라든가...",
+          "src": "news",
           "date": "07/30",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443564",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/056/0012228458?sid=102",
+          "img": "http://news.kbs.co.kr/data/news/2026/07/30/20260730_2JFUWM.png"
         },
         {
-          "title": "롯데글로벌로지스, AI 기반 웨어러블 로봇 상용화 나선다.",
-          "desc": "로봇 기술을 공동 개발·실증한다. 이어 실제 물류 현장에서 활용 가능한 AI 기반 로봇 솔루션의 상용화를 추진한다. 롯데글로벌로지스는 이번 과제에서 에프알티로보틱스가 개발한 웨어러블 로봇을 물류 현장에 도입해...",
-          "src": "byline",
+          "title": "SK하이닉스, 하반기 기술사무직 신입사원 채용",
+          "desc": "서류 단계에서도 자기소개서를 없애는 대신 AI 활용 역량과 반도체 직무 전문성을 기술하는 신규 서식을 도입한다. 채용 설명회는 대학 캠퍼스에서 벗어나 서울, 청주, 대구, 광주에서 누구나 참여할수 있는 거점형...",
+          "src": "ccdn",
           "date": "07/30",
-          "url": "https://byline.network/?p=9004111222613728",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/lottegloballogis_20260730.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1091350",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202607/1091350_601842_1504_v150.jpg"
         }
       ]
     },
@@ -166,36 +166,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "국민성장펀드, LG디스플레이·테크윙에 1조3500억원 지원",
+          "desc": "특히 금융당국은 이번 투자금이 국내 소부장(소재·부품·장비) 협력사에 대한 대규모 발주로 이어져 산업... 금융당국 관계자는 \"테크윙은 삼성전자와 SK하이닉스 등에 반도체 테스트 핸들러를 납품하는 등 글로벌...",
+          "src": "newsprime",
+          "date": "07/30",
+          "url": "http://www.newsprime.co.kr/news/article.html?no=742174",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260731/art_742174_1785401765.jpg"
+        },
+        {
+          "title": "테크윙 'HBM 검사장비' 천안서 증설…국민성장펀드 500억 대출",
+          "desc": "테크윙은 삼성전자와 SK하이닉스 등에 반도체 테스트 핸들러를 납품해 온 중견기업입니다. 테스트... LG디스플레이는 1차 협력사에 지급하던 현금성 결제를 2차 협력사까지 확대하고 있으며, 협력사와 KAIST 등...",
+          "src": "tjb",
+          "date": "07/30",
+          "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/101742",
+          "img": ""
+        },
+        {
+          "title": "中추격 따돌린다…국민성장펀드, LGD·테크윙에 1.3조 저리대출",
+          "desc": "또 대규모 설비투자가 소재·부품·장비 협력업체의 매출 확대와 기술 고도화로 이어지는 산업 생태계... 테크윙은 삼성전자와 SK하이닉스 등에 테스트 핸들러를 공급하는 핵심 협력사다. 최근 개별 HBM 칩을 전수...",
+          "src": "kukinews",
+          "date": "07/30",
+          "url": "https://www.kukinews.com/article/view/kuk202607300168",
+          "img": ""
+        },
+        {
           "title": "국민성장펀드, OLED·HBM에 1.3조 지원… 첨단산업 ‘승부수’",
           "desc": "소재·부품·장비(소부장) 밸류체인을 구축하기 위한 전략이다. 금융위원회는 30일 국민성장펀드... 테크윙은 삼성전자, SK하이닉스 등에 테스트 핸들러를 납품하는 핵심 협력사다. 최근 개별 HBM 칩 전수 검사...",
           "src": "디지털타임스",
           "date": "07/30",
           "url": "https://n.news.naver.com/mnews/article/029/0003039889?sid=101",
           "img": "https://wimg.dt.co.kr/news/cms/2026/07/30/rcv.YNA.20260720.PYH2026072016960001300_R.jpg"
-        },
-        {
-          "title": "\"원가 압박 정면돌파\"…삼성MX, 'AI OS·폼팩터 혁신' 하반기 승부수",
-          "desc": "위해 삼성전자는 초기 흥행을 달리고 있는 ‘갤럭시 Z8’ 시리즈를 필두로 갤럭시 탭 S12, 워치 울트라2 등 신규 에코 제품군을 잇따라 시장에 투입한다. 공급망 최적화와 글로벌 협력사 간 전략 협업을 통해 부품 원가...",
-          "src": "이데일리",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/018/0006340081?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26073001282.jpg"
-        },
-        {
-          "title": "TSMC, '구마모토 강진'에 발목 잡히나…공급망 영향에 반도체 업계 이목...",
-          "desc": "발생하고, 삼성전자·SK하이닉스의 D램 가격 협상이 중단됐던 전례와는 상황이 다르다. 다만, TSMC 및 도쿄일렉트론의 장비·소재 점검이 장기화할 경우 엔비디아 등 글로벌 빅테크의 물량 배분이나 SK하이닉스 등 협력사...",
-          "src": "이데일리",
-          "date": "07/30",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=361061",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202607/361061_296150_135_v150.jpg"
-        },
-        {
-          "title": "갤럭시 밑지고 팔았다…삼성전자 MX \"하반기 '프리미엄' 앞세워 적자 탈...",
-          "desc": "스마트폰 판매가 늘었는데도 손실이 발생한 원인은 메모리와 주요 부품 가격 상승이다. AI 서버용 메모리 수요가 급증하면서 모바일용 메모리 공급이 빠듯해졌고, 구매 가격도 올랐다. 삼성전자 반도체 사업의 호황을...",
-          "src": "데일리안",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/119/0003116544?sid=105",
-          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1784728631_1669827_m_2.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "축구협회 청문회에 대통령이 왜 나와?…‘왜 졌나’ 질문까지 눈살 등 ...",
-      "url": "https://n.news.naver.com/mnews/article/119/0003116688?sid=102",
-      "img": "https://cdnimage.dailian.co.kr/news/202607/news_1785396430_1672853_m_1.jpg"
+      "title": "부문별 명암 엇갈린 삼성전자 ‘반도체’만 웃었다",
+      "url": "https://www.kyeongin.com/article/1768198",
+      "img": "https://wimg.kyeongin.com/news/cms/2026/07/30/news-p.v1.20260730.d45358ff310440fa8bed5804c5a59c57_R.jpg"
     },
     {
       "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
     },
     {
-      "title": "신일전자, 24년 만에 김치냉장고 사업 재도전",
-      "url": "https://n.news.naver.com/mnews/article/030/0003452807?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/03/24/news-p.v1.20260324.e5cc5a0c383b489db4efaec3517b0d6f_P1.jpg"
+      "title": "가전·휴대폰 잘 팔렸지만 '칩플레이션'에 발목… DX는 사상 첫 적자 [삼...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555363?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
     },
     {
-      "title": "[삼성전자 컨콜] 美테일러 2공장 연말 전격 착공…\"ADR 발행 검토 안 해...",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190360",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202607/190360_203730_4620_v150.jpg"
+      "title": "[컨콜 종합] LG전자, 엔비디아 CDU 인증 받고 로봇 양산 시동…액추에이...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=746720",
+      "img": "https://cdn.econovill.com/news/thumbnail/202607/746720_720826_340_v150.jpg"
     },
     {
-      "title": "[AX 인재전쟁③] AI인재 '대기업 쏠림' 현상, 'AX 확산' 늦춘다",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422773",
-      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202607/422773_237798_4847_v150.jpg"
+      "title": "제조업 AI 도입, 데이터 연결부터 운영까지…한국요꼬가와전기·VNTG 협력",
+      "url": "https://kidd.co.kr/news/246898",
+      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/30/1785399425_60.jpg"
     },
     {
-      "title": "상권과 단골 수요가 대출 한도 가른다…소상공인 특화 신용평가 8월말 ...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147179?sid=101",
-      "img": "https://www.segye.com/content/image/2026/07/30/20260730516010.png"
+      "title": "‘사계절 딸기 농장’된 물류창고…“에너지 40% 절감”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012228458?sid=102",
+      "img": "http://news.kbs.co.kr/data/news/2026/07/30/20260730_2JFUWM.png"
     }
   ]
 };
