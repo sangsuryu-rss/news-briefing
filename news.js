@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.30 (목) 20:02",
+  "updatedAt": "2026.07.31 (금) 00:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-30",
+    "asOf": "2026-07-31",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.54",
-        "diff": "-0.92",
-        "rate": "-1.09%",
+        "value": "84.28",
+        "diff": "-0.18",
+        "rate": "-0.21%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,434.10",
-        "diff": "-11.90",
-        "rate": "-0.82%",
+        "value": "1,430.20",
+        "diff": "-15.80",
+        "rate": "-1.09%",
         "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "880.73",
-        "diff": "-4.03",
-        "rate": "-0.46%",
-        "dir": "down"
+        "value": "896.96",
+        "diff": "+12.20",
+        "rate": "+1.38%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.95",
-        "diff": "-0.08",
-        "rate": "-1.00%",
+        "value": "7.93",
+        "diff": "-0.10",
+        "rate": "-1.25%",
         "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.47",
-        "diff": "-0.03",
-        "rate": "-0.55%",
+        "value": "5.45",
+        "diff": "-0.05",
+        "rate": "-0.91%",
         "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "14.99",
-        "diff": "-0.13",
-        "rate": "-0.86%",
+        "value": "14.95",
+        "diff": "-0.17",
+        "rate": "-1.12%",
         "dir": "down"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "부문별 명암 엇갈린 삼성전자 ‘반도체’만 웃었다",
-          "desc": "DX, 100조 매출에도 첫 적자 기록 DS, 2분기 영업익 89조 역대 최대 삼성전자가 올해 2분기에 역대 최대... TV 사업부인 VD는 신제품 등에 매출과 수익성이 개선됐고, 생활가전은 전분기 대비 매출이 성장했으나, 비용...",
-          "src": "kyeongin",
-          "date": "07/30",
-          "url": "https://www.kyeongin.com/article/1768198",
-          "img": "https://wimg.kyeongin.com/news/cms/2026/07/30/news-p.v1.20260730.d45358ff310440fa8bed5804c5a59c57_R.jpg"
+          "title": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다”",
+          "desc": "삼성전자가 하반기 중 미국 텍사스주 테일러에 두 번째 파운드리(반도체 위탁생산) 공장을 착공한다.... 지난 6월 구매액의 20%를 온누리상품권으로 돌려주는 마케팅 행사를 열며, 국내에서만 3조원대 가전 소비가...",
+          "src": "중앙일보",
+          "date": "07/31",
+          "url": "https://n.news.naver.com/mnews/article/025/0003541394?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/31/d9b48f4a-50c7-4c3a-b334-3863c0edf224.jpg"
         },
         {
           "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -107,10 +107,10 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "07/30",
           "url": "https://n.news.naver.com/mnews/article/011/0004647017?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/07/30/news-p.v1.20260722.2978180126a8429b9c233aabdd9f7d6f_R.jpg"
         },
         {
-          "title": "가전·휴대폰 잘 팔렸지만 '칩플레이션'에 발목… DX는 사상 첫 적자 [삼...",
+          "title": "가전·휴대폰 잘 팔렸지만…'칩플레이션'에 발목 잡힌 DX부문 [삼성 2분...",
           "desc": "30일 삼성전자에 따르면 지난 2·4분기에 MX사업부(휴대폰)는 창사 이래 첫 적자(7000억원 영업손실)를 기록했으며, 지난해 3·4분기와 4·4분기 연속 적자를 냈던 VD사업부(TV 등)와 DA사업부(냉장고·세탁기 등 생활가전)는...",
           "src": "파이낸셜뉴스",
           "date": "07/30",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[컨콜 종합] LG전자, 엔비디아 CDU 인증 받고 로봇 양산 시동…액추에이...",
-          "desc": "김창태 LG전자 CFO는 \"LG의 로봇 하드웨어 기술과 제조 역량에 피지컬 AI 기술 스택을 결합하는 것을 목표로... LG전자가 야심차게 도입한 클로이드는 PoC를 거쳐 데이터 팩토리에서 고품질 생산 데이터를 쌓는다. 이어...",
-          "src": "econovill",
-          "date": "07/30",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=746720",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/746720_720826_340_v150.jpg"
+          "title": "울산硏 \"울산빅데이터센터 기능 고도화해야\"",
+          "desc": "AI 기본사회는 기술 발전의 혜택이 특정 집단에 편중되지 않고, 모든 국민에게 공정하게 제공되는 포용적... 플랫폼을 활용할 수 있도록 AI 에이전트 기반의 GeoAI(지리정보 AI) 기능을 도입해야 한다는 의견이 제시됐다. 또...",
+          "src": "ksilbo",
+          "date": "07/31",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063498",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         },
         {
-          "title": "제조업 AI 도입, 데이터 연결부터 운영까지…한국요꼬가와전기·VNTG 협력",
-          "desc": "전사 정보기술(IT) 시스템과 생산설비를 다루는 운영기술(OT) 영역이 각각 운영되는 경우가 많아, 기업이... 한국요꼬가와전기와 VNTG는 지난 29일 서울 마포구 세아타워에서 국내 제조기업의 AI 도입과 활용을 지원하기...",
-          "src": "kidd",
+          "title": "한국앤컴퍼니그룹, AI 활용 기준 담은 사내 교육 콘텐츠 제작",
+          "desc": "최근에는 구글 클라우드와 협력해 '제미나이 엔터프라이즈'를 도입하며 AI 기반 업무 환경 구축을 추진하고 있다. 그룹 관계자는 \"AI 리터러시는 AI를 사용하는 기술을 넘어 상황에 맞게 판단하고 책임 있게 활용하...",
+          "src": "getnews",
           "date": "07/30",
-          "url": "https://kidd.co.kr/news/246898",
-          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/30/1785399425_60.jpg"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876603",
+          "img": "https://cdn.getnews.co.kr/news/photo/202607/876603_532069_734.png"
         },
         {
-          "title": "‘사계절 딸기 농장’된 물류창고…“에너지 40% 절감”",
-          "desc": "수랭식 LED로 전기료를 38% 정도 더 줄였습니다.\"] 공급과잉으로 공실이 늘어난 물류창고를 활용하고, 대형... 로봇까지 도입한 5세대 스마트팜 기술도 개발할 계획입니다. [이석형/한국농업기술진흥원장 : \"AI라든가...",
-          "src": "news",
+          "title": "롯데글로벌로지스, 물류 작업자 위한 '입는 로봇' 개발한다",
+          "desc": "로봇 기술을 공동 개발·실증하며, 실제 물류 현장에서 활용 가능한 AI 기반 로봇 솔루션의 상용화를 추진한다. 특히 롯데글로벌로지스는 이번 과제에서 에프알티로보틱스가 개발한 웨어러블 로봇을 물류 현장에 도입해...",
+          "src": "klnews",
           "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/056/0012228458?sid=102",
-          "img": "http://news.kbs.co.kr/data/news/2026/07/30/20260730_2JFUWM.png"
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322142",
+          "img": "https://cdn.klnews.co.kr/news/thumbnail/202607/322142_65481_4244_v150.jpg"
         },
         {
-          "title": "SK하이닉스, 하반기 기술사무직 신입사원 채용",
-          "desc": "서류 단계에서도 자기소개서를 없애는 대신 AI 활용 역량과 반도체 직무 전문성을 기술하는 신규 서식을 도입한다. 채용 설명회는 대학 캠퍼스에서 벗어나 서울, 청주, 대구, 광주에서 누구나 참여할수 있는 거점형...",
-          "src": "ccdn",
+          "title": "세계최고 AI열기, 원주 98개팀 도전, 1팀 만 본선행",
+          "desc": "공공데이터·AI 활용 창업경진대회 본선으로 진출하기 위해, 수많은 국내 AI과학기술자들이 전국의 거점... 로딤스) 도입을 통한 원주시 교통안전 AI 플랫폼 구축’(로디개발팀)이 천신만고 끝에 행안부 주최 본선...",
+          "src": "헤럴드경제",
           "date": "07/30",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1091350",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202607/1091350_601842_1504_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002677639?sid=102",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/30/news-p.v1.20260730.8fc0709437974703a2e70a43ecf2dd19_T1.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "부문별 명암 엇갈린 삼성전자 ‘반도체’만 웃었다",
-      "url": "https://www.kyeongin.com/article/1768198",
-      "img": "https://wimg.kyeongin.com/news/cms/2026/07/30/news-p.v1.20260730.d45358ff310440fa8bed5804c5a59c57_R.jpg"
+      "title": "역대급 실적 삼성…“연말 미국에 파운드리 2공장 짓겠다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541394?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/31/d9b48f4a-50c7-4c3a-b334-3863c0edf224.jpg"
     },
     {
       "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
     },
     {
-      "title": "가전·휴대폰 잘 팔렸지만 '칩플레이션'에 발목… DX는 사상 첫 적자 [삼...",
+      "title": "상반기 매출 100조 찍은 DX, 갤Z8·HVAC로 반전 노린다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647017?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/07/30/news-p.v1.20260722.2978180126a8429b9c233aabdd9f7d6f_R.jpg"
+    },
+    {
+      "title": "가전·휴대폰 잘 팔렸지만…'칩플레이션'에 발목 잡힌 DX부문 [삼성 2분...",
       "url": "https://n.news.naver.com/mnews/article/014/0005555363?sid=101",
       "img": "https://image.fnnews.com/resource/media/image/2026/07/30/202607301815225789_l.jpg"
     },
     {
-      "title": "[컨콜 종합] LG전자, 엔비디아 CDU 인증 받고 로봇 양산 시동…액추에이...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=746720",
-      "img": "https://cdn.econovill.com/news/thumbnail/202607/746720_720826_340_v150.jpg"
+      "title": "울산硏 \"울산빅데이터센터 기능 고도화해야\"",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063498",
+      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
     },
     {
-      "title": "제조업 AI 도입, 데이터 연결부터 운영까지…한국요꼬가와전기·VNTG 협력",
-      "url": "https://kidd.co.kr/news/246898",
-      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/07/30/1785399425_60.jpg"
-    },
-    {
-      "title": "‘사계절 딸기 농장’된 물류창고…“에너지 40% 절감”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012228458?sid=102",
-      "img": "http://news.kbs.co.kr/data/news/2026/07/30/20260730_2JFUWM.png"
+      "title": "한국앤컴퍼니그룹, AI 활용 기준 담은 사내 교육 콘텐츠 제작",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876603",
+      "img": "https://cdn.getnews.co.kr/news/photo/202607/876603_532069_734.png"
     }
   ]
 };
