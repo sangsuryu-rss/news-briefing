@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 07:07",
+  "updatedAt": "2026.07.31 (금) 13:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,62 +19,62 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,605",
-        "diff": "-110",
-        "rate": "-0.80%",
-        "dir": "down",
+        "value": "13,843",
+        "diff": "+238",
+        "rate": "+1.75%",
+        "dir": "up",
         "avg": "13,552",
-        "avgDiff": "+53",
-        "avgRate": "+0.4%",
+        "avgDiff": "+291",
+        "avgRate": "+2.2%",
         "avgDir": "up"
       },
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "83.59",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "82.13",
+        "diff": "-1.46",
+        "rate": "-1.75%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,425.70",
-        "diff": "-20.30",
-        "rate": "-1.40%",
-        "dir": "down"
+        "value": "1,438.60",
+        "diff": "+12.40",
+        "rate": "+0.87%",
+        "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "893.21",
-        "diff": "+8.45",
-        "rate": "+0.96%",
+        "value": "895.15",
+        "diff": "+2.07",
+        "rate": "+0.23%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.90",
-        "diff": "-0.13",
-        "rate": "-1.62%",
-        "dir": "down"
+        "value": "7.96",
+        "diff": "+0.06",
+        "rate": "+0.76%",
+        "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.44",
-        "diff": "-0.06",
-        "rate": "-1.09%",
-        "dir": "down"
+        "value": "5.48",
+        "diff": "+0.04",
+        "rate": "+0.74%",
+        "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "14.90",
-        "diff": "-0.22",
-        "rate": "-1.46%",
-        "dir": "down"
+        "value": "15.09",
+        "diff": "+0.18",
+        "rate": "+1.21%",
+        "dir": "up"
       }
     ]
   },
@@ -86,20 +86,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "로봇 사업에 삼성전자가 직접 나섰다… 레인보우로보틱스·에스피지 수...",
-          "desc": "로봇 공급망 중요성이 강조되면서 삼성전자 로봇 생태계에 투자자들 관심이 쏠리고 있다. 삼성전자는 7월... 만들어온 가전 부품 회사였다. 현재는 국내에서 유일하게 3가지 방식의 산업용 로봇 감속기를 모두 만들...",
-          "src": "동아일보",
+          "title": "삼성전자, 폴더블폰·히트펌프 보일러 모바일·생활가전 경쟁력 강화",
+          "desc": "삼성전자가 폴더블 스마트폰과 고효율 난방 설비를 앞세워 모바일과 생활가전 사업 경쟁력 강화에 나서고 있다. 스마트폰 시장에서는 갤럭시 Z 시리즈 판매를 통해 프리미엄 수요를 공략하고, 생활가전 분야에서는...",
+          "src": "polinews",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/037/0000038597?sid=101",
-          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/6b/0c/48/6a6b0c480162a0a0a0a.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738667",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/738667_559746_4727_v150.jpg"
         },
         {
-          "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
-          "desc": "올인원 세탁건조기 ‘비스포크 AI 콤보’는 국내 누적 판매량 30만대를 넘었고, 삼성전자 전체 세탁기 판매량에서 차지하는 비중도 40% 이상으로 올라섰다. 로봇청소기 ‘비스포크 AI 스팀’은 지난 2월 출시 이후 월...",
+          "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
+          "desc": "삼성전자 비스포크 AI 스팀 울트라 10W의 강력한 흡입력과 벽면·모서리까지 밀착 청소하는 '팝 아웃 콤보' 기능을 갖춘 AI 로봇청소기다. 100℃ 스팀으로 물걸레를 살균하는 스팀 청정스테이션과 AI 액체 인식 기능을...",
           "src": "조선일보",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/366/0001183160?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
+          "date": "07/31",
+          "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
+          "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
         },
         {
           "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
         },
         {
-          "title": "[오늘의 브릿지경제 1면] 세계는 지금 C커머스 규제 강화 중⋯ 한국 풍선...",
-          "desc": "◆“영업익 99%가 반도체”⋯ 삼성전자, 실적 편중 과제 남겼다 ‘반도체는 웃고 모바일·가전은 울었다.’ 삼성전자 양대 부문 간 실적 양극화가 이번 분기 더욱 뚜렷해졌다. 직전 1분기 전체 영업이익에서...",
-          "src": "브릿지경제",
+          "title": "국민연금 평가액 200조 증발, 레버리지 노답 삼형제 경질하라 불만 폭발...",
+          "desc": "“내 인생은 망했다(My life’s screwed).”삼성전자 압도적 실적에도 주가는 하락 반전.오늘부터 레버리지 ETF... 홍성준(주민)은 “쪽방에 살 때는 주인이 세탁기를 잠가놔서 여름에도 일주일에 한 번만 빨래를 할 수...",
+          "src": "slownews",
           "date": "07/31",
-          "url": "https://www.viva100.com/article/20260730501290",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/30/.cache/512/20260730501289.jpg?v=20260731070737"
+          "url": "https://slownews.kr/164015",
+          "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[더벨][thebell interview] 최찬열 링크알파 대표 \"글로벌 AI투자 워크플...",
-          "desc": "생성형 AI를 M&A 업무에 도입했다고 답했다. 타깃 기업 발굴과 기업 스크리닝, 실사 등 딜의 가장 앞단에서 가장 활발하게 활용되고 있다. 링크알파는 이런 상황에서 한국의 금융시장에 큰 기회가 있다고 바라보고 있다....",
-          "src": "더벨",
+          "title": "캠코, 국유재산 이용 문턱 낮춘다…고령층엔 1대1 디지털 교육",
+          "desc": "기기 활용이 익숙하지 않은 이용자의 접근성을 높이기 위한 조치다. 31일 캠코에 따르면 전날 부산진우체국... 국유재산 관리에 AI와 AR 등 첨단기술을 적용하는 한편 디지털 환경에서 소외될 수 있는 이용자에 대한 대면...",
+          "src": "the-biz",
           "date": "07/31",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291333104040109286",
-          "img": ""
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725425",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202607/725425_929441_1230.jpg"
         },
         {
-          "title": "[인터뷰] 김태성 신안군수 \"신안 발전의 결실은 군민 소득으로\"",
-          "desc": "AI 기반 공공의료와 맞춤형 동행 서비스 등을 도입해 100세까지 행복한 '해피100' 신안을 만들겠다. 또한 '고품격 체류형 관광'을 육성해 주민에게 수익이 돌아가는 모델을 확산시키겠다. 또 신안의 햇빛과 바람을 활용한...",
-          "src": "newscj",
+          "title": "'빌 게이츠 원전' 올라탄 SK이노베이션…국내 4세대 SMR 속도",
+          "desc": "전원으로 활용하는 방안도 검토하고 있다. LNG 발전과 에너지저장장치(ESS)를 결합해 AI 데이터센터에... 국내 도입과 해외 사업도 속도를 낼 전망이다. SK이노베이션은 동남아에서 테라파워 기술을 활용한 사업을 개발할...",
+          "src": "newsway",
           "date": "07/31",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3421332",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3421332_3531516_3426_v150.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026073111171814519",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/31/20260731000003_1200.png"
         },
         {
-          "title": "[세계의 창] 방글라 치명적 우기, 지속 가능한 해법을 위한 종합계획",
-          "desc": "트윈 기술을 활용하고 있다. 디지털 트윈은 도시를 가상 공간에 그대로 구현한 것으로 인공지능(AI) 기반... 또한 방글라데시는 물이 스며들지 않는 콘크리트 지표면을 확대하는 대신 투수성 포장재를 도입하고 사라진...",
-          "src": "newscj",
+          "title": "GS건설, 'AI·온톨로지' 체계 구축…건설 특화 AI 활용 확대",
+          "desc": "스노우플레이크 연계 현장 데이터 AI 정제 안전 감지·원가 분석 등 건설 특화 AI 도입  GS건설이 파편화된... AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 만들어 나갈 것\"이라고 말했다....",
+          "src": "유스경제",
           "date": "07/31",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3420796",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3420796_3530706_5549_v150.jpg"
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=224262",
+          "img": "https://www.youthdaily.co.kr/data/photos/20260731/art_17854706572945_ae61d8.jpg"
         },
         {
-          "title": "[K-AI 국가대표③] 업스테이지, 체급 확장과 '다음' 빅데이터로 역전 극...",
-          "desc": "소버린 AI의 명확한 기술적 기준을 확립해 준 모범 사례가 됐다. 정책적 측면에서도 전직 고위 공직자의... 대기업 컨소시엄 못지않은 고난도 연산 능력을 갖추면서도 기업들이 도입하기 가장 합리적인 '가성비 최강'의...",
-          "src": "newscj",
+          "title": "GS건설, 스노우플레이크로 데이터 기반 경영 전환 속도",
+          "desc": "GS건설은 스노우플레이크 플랫폼을 전사 데이터 플랫폼으로 도입해 사내 여러 시스템에 분산돼 있는 업무... 연결하고 AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 만들어 나갈 것\"이라고 밝혔다.",
+          "src": "arunews",
           "date": "07/31",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3421258",
-          "img": "https://cdn.newscj.com/news/thumbnail/202607/3421258_3531391_3638_v150.jpg"
+          "url": "https://www.arunews.com/news/articleView.html?idxno=65549",
+          "img": "https://cdn.arunews.com/news/photo/202607/65549_67182_33.png"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "BTS·김선호에 런던 술집까지…벼랑 끝 삼성 '파격 승부수'",
+          "desc": "미디어, 인플루언서, 고객, 협력사 등이 현장에서 신제품을 먼저 체험한 것. 미국에선 하이브와 함께 다음... 메모리 등 부품 원가가 급등했지만 이를 제품 가격에 모두 반영하기 어려웠던 영향이다. 삼성전자는 올...",
+          "src": "한국경제",
+          "date": "07/31",
+          "url": "https://n.news.naver.com/mnews/article/015/0005315981?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45204993.1.jpg"
+        },
+        {
+          "title": "[‘2026 한국의 경영자상’ 특별 대담] 정상을 향한 도전, 세계로 향한 ...",
+          "desc": "1980년대 한국에서 메모리 반도체가 막 시작되던 시기, 삼성전자에 합류해 평생을 반도체인으로 살아왔어요.... 이런 자세는 협력사, 파트너사와의 관계에서도 마찬가지입니다. 원익큐엔씨에 부품을 공급하거나 서비스를...",
+          "src": "chiefexe",
+          "date": "07/31",
+          "url": "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OXx8bGltaXRfZmFsc2Ug",
+          "img": "http://www.chiefexe.com/Upload/chiefexe/20260629093827536000.jpg"
+        },
         {
           "title": "국민성장펀드, LG디스플레이·테크윙에 1조3500억원 지원",
           "desc": "특히 금융당국은 이번 투자금이 국내 소부장(소재·부품·장비) 협력사에 대한 대규모 발주로 이어져 산업... 금융당국 관계자는 \"테크윙은 삼성전자와 SK하이닉스 등에 반도체 테스트 핸들러를 납품하는 등 글로벌...",
@@ -179,23 +195,7 @@ window.NEWS_DATA = {
           "src": "tjb",
           "date": "07/30",
           "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/101742",
-          "img": ""
-        },
-        {
-          "title": "中추격 따돌린다…국민성장펀드, LGD·테크윙에 1.3조 저리대출",
-          "desc": "또 대규모 설비투자가 소재·부품·장비 협력업체의 매출 확대와 기술 고도화로 이어지는 산업 생태계... 테크윙은 삼성전자와 SK하이닉스 등에 테스트 핸들러를 공급하는 핵심 협력사다. 최근 개별 HBM 칩을 전수...",
-          "src": "kukinews",
-          "date": "07/30",
-          "url": "https://www.kukinews.com/article/view/kuk202607300168",
-          "img": ""
-        },
-        {
-          "title": "국민성장펀드, OLED·HBM에 1.3조 지원… 첨단산업 ‘승부수’",
-          "desc": "소재·부품·장비(소부장) 밸류체인을 구축하기 위한 전략이다. 금융위원회는 30일 국민성장펀드... 테크윙은 삼성전자, SK하이닉스 등에 테스트 핸들러를 납품하는 핵심 협력사다. 최근 개별 HBM 칩 전수 검사...",
-          "src": "디지털타임스",
-          "date": "07/30",
-          "url": "https://n.news.naver.com/mnews/article/029/0003039889?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/07/30/rcv.YNA.20260720.PYH2026072016960001300_R.jpg"
+          "img": "https://www.tjb.co.kr/html1/images/noimg.png"
         }
       ]
     },
@@ -242,14 +242,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "로봇 사업에 삼성전자가 직접 나섰다… 레인보우로보틱스·에스피지 수...",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038597?sid=101",
-      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/6b/0c/48/6a6b0c480162a0a0a0a.jpg"
+      "title": "삼성전자, 폴더블폰·히트펌프 보일러 모바일·생활가전 경쟁력 강화",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738667",
+      "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/738667_559746_4727_v150.jpg"
     },
     {
-      "title": "삼성전자 DX, 상반기 매출 첫 ‘100조’에도 적자… 원가 충격 속 체질 ...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183160?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/ZSG5DUKWZFPGHFOECR7SEBQVTY.JPG?auth=d4a8b4025d2b19ce0bd7a1f64569906c8b37508a801458b32c5cafd8cc419cd7&width=1200&height=630&smart=true"
+      "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
+      "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
+      "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
     },
     {
       "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
     },
     {
-      "title": "[오늘의 브릿지경제 1면] 세계는 지금 C커머스 규제 강화 중⋯ 한국 풍선...",
-      "url": "https://www.viva100.com/article/20260730501290",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/30/.cache/512/20260730501289.jpg?v=20260731070737"
+      "title": "국민연금 평가액 200조 증발, 레버리지 노답 삼형제 경질하라 불만 폭발...",
+      "url": "https://slownews.kr/164015",
+      "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "[인터뷰] 김태성 신안군수 \"신안 발전의 결실은 군민 소득으로\"",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3421332",
-      "img": "https://cdn.newscj.com/news/thumbnail/202607/3421332_3531516_3426_v150.jpg"
+      "title": "캠코, 국유재산 이용 문턱 낮춘다…고령층엔 1대1 디지털 교육",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725425",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202607/725425_929441_1230.jpg"
     },
     {
-      "title": "[세계의 창] 방글라 치명적 우기, 지속 가능한 해법을 위한 종합계획",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3420796",
-      "img": "https://cdn.newscj.com/news/thumbnail/202607/3420796_3530706_5549_v150.jpg"
+      "title": "'빌 게이츠 원전' 올라탄 SK이노베이션…국내 4세대 SMR 속도",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026073111171814519",
+      "img": "https://nimage.newsway.co.kr/photo/2026/07/31/20260731000003_1200.png"
     }
   ]
 };
