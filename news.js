@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 20:25",
+  "updatedAt": "2026.08.01 (토) 00:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-07-31",
+    "asOf": "2026-08-01",
     "items": [
       {
         "label": "LME 구리",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.14",
-        "diff": "+0.55",
-        "rate": "+0.66%",
+        "value": "85.83",
+        "diff": "+2.24",
+        "rate": "+2.68%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,442.00",
-        "diff": "+15.80",
-        "rate": "+1.11%",
+        "value": "1,437.60",
+        "diff": "+11.40",
+        "rate": "+0.80%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "900.66",
-        "diff": "+7.58",
-        "rate": "+0.85%",
+        "value": "903.10",
+        "diff": "+10.02",
+        "rate": "+1.12%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.03",
-        "diff": "+0.13",
-        "rate": "+1.65%",
+        "value": "8.00",
+        "diff": "+0.10",
+        "rate": "+1.27%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.50",
-        "diff": "+0.06",
-        "rate": "+1.10%",
+        "value": "5.48",
+        "diff": "+0.04",
+        "rate": "+0.74%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.12",
-        "diff": "+0.21",
-        "rate": "+1.41%",
+        "value": "15.07",
+        "diff": "+0.16",
+        "rate": "+1.07%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "가전 명가는 변신 중…삼성·LG 가전 노하우로 '로봇 관절' 경쟁",
-          "desc": "가전 제조 노하우를 바탕으로 이 시장을 선점하겠다는 전략입니다. ▶ 인터뷰 : 강지은 / LG전자 B2B마케팅 파트장 - \"모터를 실제로 설계해서 생산했던 업력이 60년이 넘습니다. 액추에이터도 모터가 근간이거든요.\" 삼성전...",
-          "src": "MBN",
-          "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/057/0001961475?sid=101",
-          "img": "http://img.vod.mbn.co.kr/vod2/552/2026/07/31/20260731200355_20_552_1425497_1080_7.jpg"
+          "title": "中 창신메모리 충격 받은 韓 반도체…증권가 \"삼전닉스 기술 우위, 지금...",
+          "desc": "상장으로 삼성전자와 SK하이닉스 주가가 휘청인 가운데, 증권가에선 여전히 삼전닉스(삼성전자... PC, 가전제품 등 B2C(기업·소비자간거래) 고객들이 체감하는 메모리 부족 현상은 더욱 심화될 것”이라며 “이를...",
+          "src": "더구루",
+          "date": "08/01",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105151",
+          "img": ""
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "GS건설, 스노우플레이크 도입…데이터 기반 경영·AI 전환 본격화",
-          "desc": "GS건설이 클라우드 기반 데이터 플랫폼인 스노우플레이크(Snowflake)를 도입하고 데이터 중심의 경영 체계... 연결하고 AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 확대해 나가겠다\"고 말했다.",
-          "src": "고코리아",
-          "date": "07/31",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873715",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/873715_150897_829_v150.jpg"
+          "title": "동오농촌재단·한국벤처농업대학, 스마트팜 전문 교육과정 운영",
+          "desc": "이번 과정은 스마트팜 기술 활용 역량은 물론 AI·디지털 기술과 농업경영 능력을 함께 갖춘 미래형 농업인... 교육생은 현재 스마트팜을 운영하고 있는 농업인뿐 아니라 스마트팜 도입을 준비하는 농업인과 청년창업농 등...",
+          "src": "ikpnews",
+          "date": "08/01",
+          "url": "http://www.ikpnews.net/news/articleView.html?idxno=71093",
+          "img": "https://cdn.ikpnews.net/news/photo/202607/71093_51277_2810.jpg"
         },
         {
-          "title": "광고 한파에 발목 잡힌 SOOP…일회성 비용 겹쳐 '실적 쇼크'",
-          "desc": "국내·해외 플랫폼 통합 작업을 마무리하면서 P2P 기술을 적용해 회선사용료를 전년 동기 대비 약 5억원... 신규 스트리머 발굴·육성 제도 도입…통합 마케팅 컨설팅 브랜드 선봬 SOOP은 하반기 신규 이용자 유입과 기존...",
-          "src": "dealsite",
+          "title": "국내 4대 밴사 KSNet, 솔라나와 손잡고 블록체인 결제 시대 연다",
+          "desc": "인공지능(AI) 자동결제 기술을 시범 도입한다. KSNet은 7월 30일(현지시각) 솔라나재단과 차세대... 자사 가맹점망에 솔라나페이(Solana Pay)를 연동하는 실험과 x402 프로토콜을 활용한 AI 결제 모델 검증이다. KSNet은...",
+          "src": "wikitree",
           "date": "07/31",
-          "url": "https://dealsite.co.kr/articles/166405",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/2600fec5c4ca47adab659fbe35c8046f/thumb.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1149724",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607312305558999_coin.jpeg"
         },
         {
-          "title": "김정훈 씨지인사이드 규제정책연구소장 “아이호퍼는 컴플라이언스 담...",
-          "desc": "하지만 인공지능(AI) 기술의 대중화로 복잡한 컴플라이언스 분석 효율화가 진행 중이다. AI 기술을 활용해... 집중했다면, AI 기술 도입 이후에는 금융과 공공 부문의 컴플라이언스 업무를 지원하는 특화 AI(버티컬 AI)...",
-          "src": "동아일보",
+          "title": "프리뉴, 육군 교육용 상용 드론 3792대 공급 계약",
+          "desc": "핵심 부품을 국산화한 교육용 상용 드론을 군에 대량 도입해 장병들이 복무 기간 중 드론 조종과 실무 운용... 데 활용된다. 프리뉴는 이번 납품 실적을 바탕으로 방산 시장 내 입지를 강화하고, 차세대 무인기 기술...",
+          "src": "이데일리",
           "date": "07/31",
-          "url": "https://it.donga.com/109295/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/7/31/2e3a67fcfdd14b9f-thumbnail-960x540-70.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006341798?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26073101945.jpg"
         },
         {
-          "title": "\"구급 순간부터 퇴원까지 연결\"…구급대와 병원을 잇는 제주형 AI 심전도...",
-          "desc": "■ 병원용 기술, 현장으로 옮겨 이번 사업의 출발점은 이미 병원 안에서 활용되던 AI 심전도 판독 기술이었다.... 도내 전 지역 119구급대에 AI 기반 심전도 분석 소프트웨어가 도입되면, 현장과 병원의 정보 공유가 훨씬...",
-          "src": "jejudomin",
+          "title": "[#시큐리티 포커스] 이스트시큐 AWS '셀렉트 티어' 획득·슈프리마 '큐페...",
+          "desc": "이스트시큐리티는 승급으로 AWS의 기술 지원, 마케팅 지원, 비즈니스 개발 프로그램 등 글로벌 파트너 혜택을 활용한다. 클라우드 보안과 AI 보안 솔루션 사업 확장에 속도를 낸다. 이스트소프트와도 협업해 AI 보안...",
+          "src": "뉴스웍스",
           "date": "07/31",
-          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321043",
-          "img": "https://cdn.jejudomin.co.kr/news/thumbnail/202607/321043_322152_3120_v150.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=849074",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/849074_808986_514_v150.jpg"
         }
       ]
     },
@@ -242,11 +242,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "가전 명가는 변신 중…삼성·LG 가전 노하우로 '로봇 관절' 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/057/0001961475?sid=101",
-      "img": "http://img.vod.mbn.co.kr/vod2/552/2026/07/31/20260731200355_20_552_1425497_1080_7.jpg"
-    },
-    {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
       "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "GS건설, 스노우플레이크 도입…데이터 기반 경영·AI 전환 본격화",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=873715",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/873715_150897_829_v150.jpg"
+      "title": "동오농촌재단·한국벤처농업대학, 스마트팜 전문 교육과정 운영",
+      "url": "http://www.ikpnews.net/news/articleView.html?idxno=71093",
+      "img": "https://cdn.ikpnews.net/news/photo/202607/71093_51277_2810.jpg"
     },
     {
-      "title": "광고 한파에 발목 잡힌 SOOP…일회성 비용 겹쳐 '실적 쇼크'",
-      "url": "https://dealsite.co.kr/articles/166405",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/2600fec5c4ca47adab659fbe35c8046f/thumb.jpg"
+      "title": "국내 4대 밴사 KSNet, 솔라나와 손잡고 블록체인 결제 시대 연다",
+      "url": "https://www.wikitree.co.kr/articles/1149724",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607312305558999_coin.jpeg"
+    },
+    {
+      "title": "프리뉴, 육군 교육용 상용 드론 3792대 공급 계약",
+      "url": "https://n.news.naver.com/mnews/article/018/0006341798?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26073101945.jpg"
     }
   ]
 };
