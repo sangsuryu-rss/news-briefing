@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 03:16",
+  "updatedAt": "2026.08.01 (토) 06:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.96",
-        "diff": "+1.37",
-        "rate": "+1.64%",
+        "value": "84.67",
+        "diff": "+1.08",
+        "rate": "+1.29%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,441.80",
-        "diff": "+15.60",
-        "rate": "+1.09%",
+        "value": "1,444.30",
+        "diff": "+18.10",
+        "rate": "+1.27%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "908.28",
-        "diff": "+15.20",
-        "rate": "+1.70%",
+        "value": "916.52",
+        "diff": "+23.44",
+        "rate": "+2.62%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.03",
-        "diff": "+0.13",
-        "rate": "+1.65%",
+        "value": "8.04",
+        "diff": "+0.14",
+        "rate": "+1.77%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.49",
-        "diff": "+0.05",
-        "rate": "+0.92%",
+        "value": "5.50",
+        "diff": "+0.06",
+        "rate": "+1.10%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.12",
-        "diff": "+0.21",
-        "rate": "+1.41%",
+        "value": "15.14",
+        "diff": "+0.23",
+        "rate": "+1.54%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "中 창신메모리 충격 받은 韓 반도체…증권가 \"삼전닉스 기술 우위, 지금...",
-          "desc": "상장으로 삼성전자와 SK하이닉스 주가가 휘청인 가운데, 증권가에선 여전히 삼전닉스(삼성전자... PC, 가전제품 등 B2C(기업·소비자간거래) 고객들이 체감하는 메모리 부족 현상은 더욱 심화될 것”이라며 “이를...",
-          "src": "더구루",
+          "title": "[박근종 칼럼] 생산·투자·소비 '트리플 증가', 체감경기 양극화 개선 ...",
+          "desc": "삼성전자와 LG전자 등의 가전제품·통신기기 할인 행사도 소비 증가에 큰 영향을 줬다. 설비투자는 정밀기기 등 기계류 투자가 6.9%, 자동차를 중심으로 한 운송장비 투자가 3.4% 늘면서 전체적으로 5.8% 증가했다....",
+          "src": "mhns",
           "date": "08/01",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105151",
-          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853942423652_d71729.jpg"
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755160",
+          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
-          "desc": "대국민 AI 복지상담, 복지 안내 도우미 AI, 복지공무원 업무지원 AI 에이전트, 모바일 행복이음 활용 등이다.... 심윤식 시 복지국장은 “AI 기술을 복지 현장에 도입해 시민에게 더 신속하고 정교한 복지서비스를 제공할...",
-          "src": "전자신문",
+          "title": "올해 경상도에 비가 덜 내려서 대박 풍년이라는 '이 과일'…지금 놓치면...",
+          "desc": "기사 내용 토대로 AI툴 활용해 제작한 자료사진. 마른하늘이 복숭아에는 오히려 보약과일 재배에서 수확기... 적극 도입해 모양과 맛이 모두 뛰어난 복숭아를 생산한다.경북 영덕군은 동해안의 맑은 바람과 오십천 유역의...",
+          "src": "wikitree",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/030/0003453246?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/08/01/news-p.v1.20260801.3882531b35bc4105a58859bff062aa4a_P1.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1149705",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607311730501613.jpg"
         },
         {
-          "title": "인천도시공사, 인천로봇랜드에 'AI 스마트 안전' 입힌다",
-          "desc": "뉴데일리 송원영 기자 = 인천도시공사(iH)가 생성형 AI를 활용한 스마트 안전관리 시스템을 인천로봇랜드... 인공지능(AI) 기반 스마트안전기술을 도입하기 위한 업무협약을 체결했다고 31일 밝혔다. 협약식에는 임재욱...",
-          "src": "ic",
+          "title": "애플마저 굴복시킨 메모리 가격…갑을관계 뒤집혔다 [칩칩팹팹]",
+          "desc": "복잡한 기술은 쉽게, 뉴스 이면의 이야기와 산업의 흐름은 깊이 있게 전하며, AI 시대를 이끄는 반도체의... 지금 상황은 ‘100년에 한 번 올 법한 홍수’라고 표현할 정도입니다.” (팀 쿡 애플 CEO) “메모리 불황기였던...",
+          "src": "헤럴드경제",
           "date": "08/01",
-          "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/01/2026080100002.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/01/2026080100002_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002678095?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/31/news-p.v1.20260619.baeab7d0d77c4265b5ac0126ea19b565_T1.png"
         },
         {
-          "title": "솔라나(SOL) 73달러 저항선 테스트 중…한국 KSNET과 페이 통합 추진",
-          "desc": "기술적 약세 지속…73달러 방어 실패 시 60달러 하방 리스크 여러 기술 분석 보고서는 솔라나가... 이는 기업 재무에서 솔라나를 수익 창출 자산으로 활용하는 사례로 주목받고 있다. 온체인 거버넌스 도입…검증인...",
-          "src": "tokenpost",
+          "title": "[K바이오 신약대전] '안티푸라민' 93년…유한양행, '렉라자'로 2조 클럽...",
+          "desc": "규모로 기술수출된 렉라자는 2024년 국산 항암제 최초로 미국 식품의약품국(FDA) 허가를 획득했다. 이후... 달성해 나갈 것\"이라고 말했다. 안티푸라민에서 렉라자로 이어진 100년 역사의 유한양행. (사진=생성형 AI 활용)",
+          "src": "더구루",
           "date": "08/01",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/383431",
-          "img": "https://f1.tokenpost.kr/2026/07/4qyd26auuw.png"
+          "url": "https://www.theguru.co.kr/news/article.html?no=105069",
+          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853026893812_9d4aa6.jpg"
         },
         {
-          "title": "너무 깊어지는 ‘챗봇과의 사랑’… “2시간만 대화” 규제 나선 각국",
-          "desc": "과학기술정보통신부의 대통령 업무보고에서 청소년을 겨냥한 소셜네트워크서비스(SNS) 알고리즘과 AI의... 캘리포니아주도 올 1월 비슷한 규제를 도입했다. 특히 정서적으로 취약한 청소년 보호에 초점을 맞췄다. 청소년...",
-          "src": "동아일보",
+          "title": "시흥시, '복지행정 AI 정책실험실' 공모 선정",
+          "desc": "행복이음 활용 등이다. 시는 우선 국민참여단을 모집해 생성형 인공지능 언어모델을 적용한 자연스러운... 심윤식 시흥시 복지국장은 \"시흥시가 인공지능(AI) 기술을 복지 현장에 선도적으로 도입해 시민에게 더 신속하고...",
+          "src": "joongangenews",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/020/0003738073?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/31/134404270.1.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=537091",
+          "img": "https://cdn.joongangenews.com/news/photo/202607/537091_342625_5824.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "中 창신메모리 충격 받은 韓 반도체…증권가 \"삼전닉스 기술 우위, 지금...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=105151",
-      "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853942423652_d71729.jpg"
+      "title": "[박근종 칼럼] 생산·투자·소비 '트리플 증가', 체감경기 양극화 개선 ...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755160",
+      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
-      "url": "https://n.news.naver.com/mnews/article/030/0003453246?sid=102",
-      "img": "https://img.etnews.com/news/article/2026/08/01/news-p.v1.20260801.3882531b35bc4105a58859bff062aa4a_P1.jpg"
+      "title": "올해 경상도에 비가 덜 내려서 대박 풍년이라는 '이 과일'…지금 놓치면...",
+      "url": "https://www.wikitree.co.kr/articles/1149705",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607311730501613.jpg"
     },
     {
-      "title": "인천도시공사, 인천로봇랜드에 'AI 스마트 안전' 입힌다",
-      "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/01/2026080100002.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/01/2026080100002_0.jpg"
+      "title": "애플마저 굴복시킨 메모리 가격…갑을관계 뒤집혔다 [칩칩팹팹]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678095?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/31/news-p.v1.20260619.baeab7d0d77c4265b5ac0126ea19b565_T1.png"
     }
   ]
 };
