@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 13:18",
+  "updatedAt": "2026.07.31 (금) 16:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.13",
-        "diff": "-1.46",
-        "rate": "-1.75%",
+        "value": "82.61",
+        "diff": "-0.98",
+        "rate": "-1.17%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,438.60",
-        "diff": "+12.40",
-        "rate": "+0.87%",
+        "value": "1,430.90",
+        "diff": "+4.70",
+        "rate": "+0.33%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "895.15",
-        "diff": "+2.07",
-        "rate": "+0.23%",
-        "dir": "up"
+        "value": "890.97",
+        "diff": "-2.11",
+        "rate": "-0.24%",
+        "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.96",
-        "diff": "+0.06",
-        "rate": "+0.76%",
+        "value": "7.95",
+        "diff": "+0.05",
+        "rate": "+0.63%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.48",
-        "diff": "+0.04",
-        "rate": "+0.74%",
-        "dir": "up"
+        "value": "5.44",
+        "diff": "+0.00",
+        "rate": "0.00%",
+        "dir": "flat"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.09",
-        "diff": "+0.18",
-        "rate": "+1.21%",
+        "value": "15.00",
+        "diff": "+0.09",
+        "rate": "+0.60%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 폴더블폰·히트펌프 보일러 모바일·생활가전 경쟁력 강화",
-          "desc": "삼성전자가 폴더블 스마트폰과 고효율 난방 설비를 앞세워 모바일과 생활가전 사업 경쟁력 강화에 나서고 있다. 스마트폰 시장에서는 갤럭시 Z 시리즈 판매를 통해 프리미엄 수요를 공략하고, 생활가전 분야에서는...",
-          "src": "polinews",
+          "title": "삼성스토어 시흥, 8월 1일부터 10일간 입주·이사·혼수 가전 맞춤 종합...",
+          "desc": "이번 행사는 시흥, 안산, 광명, 부천 등 인근 지역의 가전 구매 고객을 겨냥해 기획됐다. 지원금, 전용... 축하 지원금 최대 200만 원과 함께 삼성전자 포인트 및 혼수 전용 포인트가 각 최대 80만P씩 제공되며, 삼성카드...",
+          "src": "wowtv",
           "date": "07/31",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738667",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/738667_559746_4727_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/215/0001260744?sid=101",
+          "img": ""
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "캠코, 국유재산 이용 문턱 낮춘다…고령층엔 1대1 디지털 교육",
-          "desc": "기기 활용이 익숙하지 않은 이용자의 접근성을 높이기 위한 조치다. 31일 캠코에 따르면 전날 부산진우체국... 국유재산 관리에 AI와 AR 등 첨단기술을 적용하는 한편 디지털 환경에서 소외될 수 있는 이용자에 대한 대면...",
-          "src": "the-biz",
+          "title": "\"AI 수업 듣는다고 전문가 되나요?\"…정보교사가 말하는 진짜 'AI 시대 인...",
+          "desc": "마포고등학교 서성원 교사, 서울대학교사범대학부설중학교 오상희 교사, 인덕과학기술고등학교 김태서... [사진=서울시교육청] 김 교사는 생성형 AI 활용을 투명하게 드러내는 '자율 표시 제도'를 수업에 도입했다....",
+          "src": "뉴스핌",
           "date": "07/31",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725425",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202607/725425_929441_1230.jpg"
+          "url": "https://www.newspim.com/news/view/20260731001230",
+          "img": "https://img.newspim.com/news/2026/07/31/2607311600570490_961_tc.jpg"
         },
         {
-          "title": "'빌 게이츠 원전' 올라탄 SK이노베이션…국내 4세대 SMR 속도",
-          "desc": "전원으로 활용하는 방안도 검토하고 있다. LNG 발전과 에너지저장장치(ESS)를 결합해 AI 데이터센터에... 국내 도입과 해외 사업도 속도를 낼 전망이다. SK이노베이션은 동남아에서 테라파워 기술을 활용한 사업을 개발할...",
-          "src": "newsway",
+          "title": "LG화학, 2026년 2분기 실적발표 컨퍼런스콜 전문",
+          "desc": "LG에너지솔루션 지분 유동화 관련 구체적인 계획과 유동화 대금의 성장 재원 활용 계획도 궁금하다. A1.... 외부 협력 측면에서는 단백질 설계 AI 기술을 보유한 갤럭시사, 그리고 영국의 AI 신약 개발 기업인...",
+          "src": "thelec",
           "date": "07/31",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026073111171814519",
-          "img": "https://nimage.newsway.co.kr/photo/2026/07/31/20260731000003_1200.png"
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=60393",
+          "img": "https://cdn.thelec.kr/news/photo/202607/60393_47629_267.png"
         },
         {
-          "title": "GS건설, 'AI·온톨로지' 체계 구축…건설 특화 AI 활용 확대",
-          "desc": "스노우플레이크 연계 현장 데이터 AI 정제 안전 감지·원가 분석 등 건설 특화 AI 도입  GS건설이 파편화된... AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 만들어 나갈 것\"이라고 말했다....",
-          "src": "유스경제",
+          "title": "창원시, 제조AX 산학혁신파크 선정…AI 기반 제조업 혁신 전환",
+          "desc": "간 활용이 가능한 데이터 생태계도 조성한다. 시는 이번 사업이 자금과 전문인력 부족으로 AI 도입에 어려움을 겪던 마산권 중소 제조기업의 기술 전환을 돕는 계기가 될 것으로 보고 있다. 강기윤 시장의 후보 시절...",
+          "src": "뉴스핌",
           "date": "07/31",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=224262",
-          "img": "https://www.youthdaily.co.kr/data/photos/20260731/art_17854706572945_ae61d8.jpg"
+          "url": "https://www.newspim.com/news/view/20260731001289",
+          "img": "https://img.newspim.com/news/2026/07/31/2607311633278140_t1.jpg"
         },
         {
-          "title": "GS건설, 스노우플레이크로 데이터 기반 경영 전환 속도",
-          "desc": "GS건설은 스노우플레이크 플랫폼을 전사 데이터 플랫폼으로 도입해 사내 여러 시스템에 분산돼 있는 업무... 연결하고 AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 만들어 나갈 것\"이라고 밝혔다.",
-          "src": "arunews",
+          "title": "[인터뷰] 이기웅 테너블 지사장 “AI 보안에 대한 고민, 테너블 원 플랫...",
+          "desc": "Hexa AI는 수집된 위험 인텔리전스에 대한 체계적인 대응을 제공한다. 심층적인 위험 맥락 분석을 통해 반복적인 관리 과업을 자동화하고, 고도화된 기술 데이터를 경영진이 의사결정에 활용할 수 있는 비즈니스...",
+          "src": "boannews",
           "date": "07/31",
-          "url": "https://www.arunews.com/news/articleView.html?idxno=65549",
-          "img": "https://cdn.arunews.com/news/photo/202607/65549_67182_33.png"
+          "url": "http://www.boannews.com/media/view.asp?idx=144925&kind=3",
+          "img": "http://www.boannews.com/media/upFiles2/2026/07/119152692_47.jpg"
         }
       ]
     },
@@ -165,6 +165,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[재계 투데이] LG디스플레이, 국민성장펀드 지원기업 선정 外",
+          "desc": "이번 투자가 집중되는 파주를 비롯한 경기 지역의 고용과 국내 소재·부품·장비 협력사에도 긍정적인... ◆삼성전자, EHS 히트펌프 보일러 공급 삼성전자가 제주 애월 지역 단독주택에 가정용 'EHS 히트펌프 보일러...",
+          "src": "news",
+          "date": "07/31",
+          "url": "https://news.dealsitetv.com/articles/174098",
+          "img": ""
+        },
+        {
+          "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
+          "desc": "팀 쿡 CEO는 공급망과 반도체 단가 등 측면에서 메모리반도체 협력사가 늘어나면 애플에 긍정적으로 기여할 수 있다며 \"현재 모든 선택지를 고려하고 있다\"고 덧붙였다. 사실상 삼성전자와 SK하이닉스, 마이크론 이외에...",
+          "src": "비즈니스포스트",
+          "date": "07/31",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443656",
+          "img": ""
+        },
         {
           "title": "BTS·김선호에 런던 술집까지…벼랑 끝 삼성 '파격 승부수'",
           "desc": "미디어, 인플루언서, 고객, 협력사 등이 현장에서 신제품을 먼저 체험한 것. 미국에선 하이브와 함께 다음... 메모리 등 부품 원가가 급등했지만 이를 제품 가격에 모두 반영하기 어려웠던 영향이다. 삼성전자는 올...",
@@ -180,22 +196,6 @@ window.NEWS_DATA = {
           "date": "07/31",
           "url": "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OXx8bGltaXRfZmFsc2Ug",
           "img": "http://www.chiefexe.com/Upload/chiefexe/20260629093827536000.jpg"
-        },
-        {
-          "title": "국민성장펀드, LG디스플레이·테크윙에 1조3500억원 지원",
-          "desc": "특히 금융당국은 이번 투자금이 국내 소부장(소재·부품·장비) 협력사에 대한 대규모 발주로 이어져 산업... 금융당국 관계자는 \"테크윙은 삼성전자와 SK하이닉스 등에 반도체 테스트 핸들러를 납품하는 등 글로벌...",
-          "src": "newsprime",
-          "date": "07/30",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=742174",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260731/art_742174_1785401765.jpg"
-        },
-        {
-          "title": "테크윙 'HBM 검사장비' 천안서 증설…국민성장펀드 500억 대출",
-          "desc": "테크윙은 삼성전자와 SK하이닉스 등에 반도체 테스트 핸들러를 납품해 온 중견기업입니다. 테스트... LG디스플레이는 1차 협력사에 지급하던 현금성 결제를 2차 협력사까지 확대하고 있으며, 협력사와 KAIST 등...",
-          "src": "tjb",
-          "date": "07/30",
-          "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/101742",
-          "img": "https://www.tjb.co.kr/html1/images/noimg.png"
         }
       ]
     },
@@ -242,11 +242,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 폴더블폰·히트펌프 보일러 모바일·생활가전 경쟁력 강화",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738667",
-      "img": "https://cdn.polinews.co.kr/news/thumbnail/202607/738667_559746_4727_v150.jpg"
-    },
-    {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
       "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "캠코, 국유재산 이용 문턱 낮춘다…고령층엔 1대1 디지털 교육",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725425",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202607/725425_929441_1230.jpg"
+      "title": "\"AI 수업 듣는다고 전문가 되나요?\"…정보교사가 말하는 진짜 'AI 시대 인...",
+      "url": "https://www.newspim.com/news/view/20260731001230",
+      "img": "https://img.newspim.com/news/2026/07/31/2607311600570490_961_tc.jpg"
     },
     {
-      "title": "'빌 게이츠 원전' 올라탄 SK이노베이션…국내 4세대 SMR 속도",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026073111171814519",
-      "img": "https://nimage.newsway.co.kr/photo/2026/07/31/20260731000003_1200.png"
+      "title": "LG화학, 2026년 2분기 실적발표 컨퍼런스콜 전문",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=60393",
+      "img": "https://cdn.thelec.kr/news/photo/202607/60393_47629_267.png"
+    },
+    {
+      "title": "창원시, 제조AX 산학혁신파크 선정…AI 기반 제조업 혁신 전환",
+      "url": "https://www.newspim.com/news/view/20260731001289",
+      "img": "https://img.newspim.com/news/2026/07/31/2607311633278140_t1.jpg"
     }
   ]
 };
