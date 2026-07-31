@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.07.31 (금) 16:47",
+  "updatedAt": "2026.07.31 (금) 20:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "82.61",
-        "diff": "-0.98",
-        "rate": "-1.17%",
-        "dir": "down"
+        "value": "84.14",
+        "diff": "+0.55",
+        "rate": "+0.66%",
+        "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,430.90",
-        "diff": "+4.70",
-        "rate": "+0.33%",
+        "value": "1,442.00",
+        "diff": "+15.80",
+        "rate": "+1.11%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "890.97",
-        "diff": "-2.11",
-        "rate": "-0.24%",
-        "dir": "down"
+        "value": "900.66",
+        "diff": "+7.58",
+        "rate": "+0.85%",
+        "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.95",
-        "diff": "+0.05",
-        "rate": "+0.63%",
+        "value": "8.03",
+        "diff": "+0.13",
+        "rate": "+1.65%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.44",
-        "diff": "+0.00",
-        "rate": "0.00%",
-        "dir": "flat"
+        "value": "5.50",
+        "diff": "+0.06",
+        "rate": "+1.10%",
+        "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.00",
-        "diff": "+0.09",
-        "rate": "+0.60%",
+        "value": "15.12",
+        "diff": "+0.21",
+        "rate": "+1.41%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성스토어 시흥, 8월 1일부터 10일간 입주·이사·혼수 가전 맞춤 종합...",
-          "desc": "이번 행사는 시흥, 안산, 광명, 부천 등 인근 지역의 가전 구매 고객을 겨냥해 기획됐다. 지원금, 전용... 축하 지원금 최대 200만 원과 함께 삼성전자 포인트 및 혼수 전용 포인트가 각 최대 80만P씩 제공되며, 삼성카드...",
-          "src": "wowtv",
+          "title": "가전 명가는 변신 중…삼성·LG 가전 노하우로 '로봇 관절' 경쟁",
+          "desc": "가전 제조 노하우를 바탕으로 이 시장을 선점하겠다는 전략입니다. ▶ 인터뷰 : 강지은 / LG전자 B2B마케팅 파트장 - \"모터를 실제로 설계해서 생산했던 업력이 60년이 넘습니다. 액추에이터도 모터가 근간이거든요.\" 삼성전...",
+          "src": "MBN",
           "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/215/0001260744?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/057/0001961475?sid=101",
+          "img": "http://img.vod.mbn.co.kr/vod2/552/2026/07/31/20260731200355_20_552_1425497_1080_7.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI 수업 듣는다고 전문가 되나요?\"…정보교사가 말하는 진짜 'AI 시대 인...",
-          "desc": "마포고등학교 서성원 교사, 서울대학교사범대학부설중학교 오상희 교사, 인덕과학기술고등학교 김태서... [사진=서울시교육청] 김 교사는 생성형 AI 활용을 투명하게 드러내는 '자율 표시 제도'를 수업에 도입했다....",
-          "src": "뉴스핌",
+          "title": "GS건설, 스노우플레이크 도입…데이터 기반 경영·AI 전환 본격화",
+          "desc": "GS건설이 클라우드 기반 데이터 플랫폼인 스노우플레이크(Snowflake)를 도입하고 데이터 중심의 경영 체계... 연결하고 AI 기술과 결합해 건설업에 특화된 데이터·AI 활용 모델을 지속적으로 확대해 나가겠다\"고 말했다.",
+          "src": "고코리아",
           "date": "07/31",
-          "url": "https://www.newspim.com/news/view/20260731001230",
-          "img": "https://img.newspim.com/news/2026/07/31/2607311600570490_961_tc.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873715",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202607/873715_150897_829_v150.jpg"
         },
         {
-          "title": "LG화학, 2026년 2분기 실적발표 컨퍼런스콜 전문",
-          "desc": "LG에너지솔루션 지분 유동화 관련 구체적인 계획과 유동화 대금의 성장 재원 활용 계획도 궁금하다. A1.... 외부 협력 측면에서는 단백질 설계 AI 기술을 보유한 갤럭시사, 그리고 영국의 AI 신약 개발 기업인...",
-          "src": "thelec",
+          "title": "광고 한파에 발목 잡힌 SOOP…일회성 비용 겹쳐 '실적 쇼크'",
+          "desc": "국내·해외 플랫폼 통합 작업을 마무리하면서 P2P 기술을 적용해 회선사용료를 전년 동기 대비 약 5억원... 신규 스트리머 발굴·육성 제도 도입…통합 마케팅 컨설팅 브랜드 선봬 SOOP은 하반기 신규 이용자 유입과 기존...",
+          "src": "dealsite",
           "date": "07/31",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=60393",
-          "img": "https://cdn.thelec.kr/news/photo/202607/60393_47629_267.png"
+          "url": "https://dealsite.co.kr/articles/166405",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/2600fec5c4ca47adab659fbe35c8046f/thumb.jpg"
         },
         {
-          "title": "창원시, 제조AX 산학혁신파크 선정…AI 기반 제조업 혁신 전환",
-          "desc": "간 활용이 가능한 데이터 생태계도 조성한다. 시는 이번 사업이 자금과 전문인력 부족으로 AI 도입에 어려움을 겪던 마산권 중소 제조기업의 기술 전환을 돕는 계기가 될 것으로 보고 있다. 강기윤 시장의 후보 시절...",
-          "src": "뉴스핌",
+          "title": "김정훈 씨지인사이드 규제정책연구소장 “아이호퍼는 컴플라이언스 담...",
+          "desc": "하지만 인공지능(AI) 기술의 대중화로 복잡한 컴플라이언스 분석 효율화가 진행 중이다. AI 기술을 활용해... 집중했다면, AI 기술 도입 이후에는 금융과 공공 부문의 컴플라이언스 업무를 지원하는 특화 AI(버티컬 AI)...",
+          "src": "동아일보",
           "date": "07/31",
-          "url": "https://www.newspim.com/news/view/20260731001289",
-          "img": "https://img.newspim.com/news/2026/07/31/2607311633278140_t1.jpg"
+          "url": "https://it.donga.com/109295/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/7/31/2e3a67fcfdd14b9f-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "[인터뷰] 이기웅 테너블 지사장 “AI 보안에 대한 고민, 테너블 원 플랫...",
-          "desc": "Hexa AI는 수집된 위험 인텔리전스에 대한 체계적인 대응을 제공한다. 심층적인 위험 맥락 분석을 통해 반복적인 관리 과업을 자동화하고, 고도화된 기술 데이터를 경영진이 의사결정에 활용할 수 있는 비즈니스...",
-          "src": "boannews",
+          "title": "\"구급 순간부터 퇴원까지 연결\"…구급대와 병원을 잇는 제주형 AI 심전도...",
+          "desc": "■ 병원용 기술, 현장으로 옮겨 이번 사업의 출발점은 이미 병원 안에서 활용되던 AI 심전도 판독 기술이었다.... 도내 전 지역 119구급대에 AI 기반 심전도 분석 소프트웨어가 도입되면, 현장과 병원의 정보 공유가 훨씬...",
+          "src": "jejudomin",
           "date": "07/31",
-          "url": "http://www.boannews.com/media/view.asp?idx=144925&kind=3",
-          "img": "http://www.boannews.com/media/upFiles2/2026/07/119152692_47.jpg"
+          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321043",
+          "img": "https://cdn.jejudomin.co.kr/news/thumbnail/202607/321043_322152_3120_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
+          "desc": "다만 삼성전자와 SK하이닉스, 마이크론 등이 대거 체결 중인 장기공급계약(LTA)에 대해서는 구체적 언급을 피했다. 비메모리 부품에서는 원가 개선이 일부 효과를 냈다고 설명했다. CXMT 메모리 도입설에 마이크론...",
+          "src": "econovill",
+          "date": "07/31",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746844",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746844_720991_2051_v150.jpg"
+        },
         {
           "title": "[재계 투데이] LG디스플레이, 국민성장펀드 지원기업 선정 外",
           "desc": "이번 투자가 집중되는 파주를 비롯한 경기 지역의 고용과 국내 소재·부품·장비 협력사에도 긍정적인... ◆삼성전자, EHS 히트펌프 보일러 공급 삼성전자가 제주 애월 지역 단독주택에 가정용 'EHS 히트펌프 보일러...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/31",
           "url": "https://n.news.naver.com/mnews/article/015/0005315981?sid=101",
           "img": "https://img.hankyung.com/photo/202607/01.45204993.1.jpg"
-        },
-        {
-          "title": "[‘2026 한국의 경영자상’ 특별 대담] 정상을 향한 도전, 세계로 향한 ...",
-          "desc": "1980년대 한국에서 메모리 반도체가 막 시작되던 시기, 삼성전자에 합류해 평생을 반도체인으로 살아왔어요.... 이런 자세는 협력사, 파트너사와의 관계에서도 마찬가지입니다. 원익큐엔씨에 부품을 공급하거나 서비스를...",
-          "src": "chiefexe",
-          "date": "07/31",
-          "url": "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OXx8bGltaXRfZmFsc2Ug",
-          "img": "http://www.chiefexe.com/Upload/chiefexe/20260629093827536000.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "가전 명가는 변신 중…삼성·LG 가전 노하우로 '로봇 관절' 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/057/0001961475?sid=101",
+      "img": "http://img.vod.mbn.co.kr/vod2/552/2026/07/31/20260731200355_20_552_1425497_1080_7.jpg"
+    },
+    {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
       "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "\"AI 수업 듣는다고 전문가 되나요?\"…정보교사가 말하는 진짜 'AI 시대 인...",
-      "url": "https://www.newspim.com/news/view/20260731001230",
-      "img": "https://img.newspim.com/news/2026/07/31/2607311600570490_961_tc.jpg"
+      "title": "GS건설, 스노우플레이크 도입…데이터 기반 경영·AI 전환 본격화",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=873715",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202607/873715_150897_829_v150.jpg"
     },
     {
-      "title": "LG화학, 2026년 2분기 실적발표 컨퍼런스콜 전문",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=60393",
-      "img": "https://cdn.thelec.kr/news/photo/202607/60393_47629_267.png"
-    },
-    {
-      "title": "창원시, 제조AX 산학혁신파크 선정…AI 기반 제조업 혁신 전환",
-      "url": "https://www.newspim.com/news/view/20260731001289",
-      "img": "https://img.newspim.com/news/2026/07/31/2607311633278140_t1.jpg"
+      "title": "광고 한파에 발목 잡힌 SOOP…일회성 비용 겹쳐 '실적 쇼크'",
+      "url": "https://dealsite.co.kr/articles/166405",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/2600fec5c4ca47adab659fbe35c8046f/thumb.jpg"
     }
   ]
 };
