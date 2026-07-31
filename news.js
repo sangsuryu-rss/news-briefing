@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 00:14",
+  "updatedAt": "2026.08.01 (토) 03:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "85.83",
-        "diff": "+2.24",
-        "rate": "+2.68%",
+        "value": "84.96",
+        "diff": "+1.37",
+        "rate": "+1.64%",
         "dir": "up"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,437.60",
-        "diff": "+11.40",
-        "rate": "+0.80%",
+        "value": "1,441.80",
+        "diff": "+15.60",
+        "rate": "+1.09%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "903.10",
-        "diff": "+10.02",
-        "rate": "+1.12%",
+        "value": "908.28",
+        "diff": "+15.20",
+        "rate": "+1.70%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.00",
-        "diff": "+0.10",
-        "rate": "+1.27%",
+        "value": "8.03",
+        "diff": "+0.13",
+        "rate": "+1.65%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.48",
-        "diff": "+0.04",
-        "rate": "+0.74%",
+        "value": "5.49",
+        "diff": "+0.05",
+        "rate": "+0.92%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.07",
-        "diff": "+0.16",
-        "rate": "+1.07%",
+        "value": "15.12",
+        "diff": "+0.21",
+        "rate": "+1.41%",
         "dir": "up"
       }
     ]
@@ -91,7 +91,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "08/01",
           "url": "https://www.theguru.co.kr/news/article.html?no=105151",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853942423652_d71729.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "동오농촌재단·한국벤처농업대학, 스마트팜 전문 교육과정 운영",
-          "desc": "이번 과정은 스마트팜 기술 활용 역량은 물론 AI·디지털 기술과 농업경영 능력을 함께 갖춘 미래형 농업인... 교육생은 현재 스마트팜을 운영하고 있는 농업인뿐 아니라 스마트팜 도입을 준비하는 농업인과 청년창업농 등...",
-          "src": "ikpnews",
+          "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
+          "desc": "대국민 AI 복지상담, 복지 안내 도우미 AI, 복지공무원 업무지원 AI 에이전트, 모바일 행복이음 활용 등이다.... 심윤식 시 복지국장은 “AI 기술을 복지 현장에 도입해 시민에게 더 신속하고 정교한 복지서비스를 제공할...",
+          "src": "전자신문",
           "date": "08/01",
-          "url": "http://www.ikpnews.net/news/articleView.html?idxno=71093",
-          "img": "https://cdn.ikpnews.net/news/photo/202607/71093_51277_2810.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003453246?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/08/01/news-p.v1.20260801.3882531b35bc4105a58859bff062aa4a_P1.jpg"
         },
         {
-          "title": "국내 4대 밴사 KSNet, 솔라나와 손잡고 블록체인 결제 시대 연다",
-          "desc": "인공지능(AI) 자동결제 기술을 시범 도입한다. KSNet은 7월 30일(현지시각) 솔라나재단과 차세대... 자사 가맹점망에 솔라나페이(Solana Pay)를 연동하는 실험과 x402 프로토콜을 활용한 AI 결제 모델 검증이다. KSNet은...",
-          "src": "wikitree",
-          "date": "07/31",
-          "url": "https://www.wikitree.co.kr/articles/1149724",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607312305558999_coin.jpeg"
+          "title": "인천도시공사, 인천로봇랜드에 'AI 스마트 안전' 입힌다",
+          "desc": "뉴데일리 송원영 기자 = 인천도시공사(iH)가 생성형 AI를 활용한 스마트 안전관리 시스템을 인천로봇랜드... 인공지능(AI) 기반 스마트안전기술을 도입하기 위한 업무협약을 체결했다고 31일 밝혔다. 협약식에는 임재욱...",
+          "src": "ic",
+          "date": "08/01",
+          "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/01/2026080100002.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/01/2026080100002_0.jpg"
         },
         {
-          "title": "프리뉴, 육군 교육용 상용 드론 3792대 공급 계약",
-          "desc": "핵심 부품을 국산화한 교육용 상용 드론을 군에 대량 도입해 장병들이 복무 기간 중 드론 조종과 실무 운용... 데 활용된다. 프리뉴는 이번 납품 실적을 바탕으로 방산 시장 내 입지를 강화하고, 차세대 무인기 기술...",
-          "src": "이데일리",
-          "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/018/0006341798?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26073101945.jpg"
+          "title": "솔라나(SOL) 73달러 저항선 테스트 중…한국 KSNET과 페이 통합 추진",
+          "desc": "기술적 약세 지속…73달러 방어 실패 시 60달러 하방 리스크 여러 기술 분석 보고서는 솔라나가... 이는 기업 재무에서 솔라나를 수익 창출 자산으로 활용하는 사례로 주목받고 있다. 온체인 거버넌스 도입…검증인...",
+          "src": "tokenpost",
+          "date": "08/01",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/383431",
+          "img": "https://f1.tokenpost.kr/2026/07/4qyd26auuw.png"
         },
         {
-          "title": "[#시큐리티 포커스] 이스트시큐 AWS '셀렉트 티어' 획득·슈프리마 '큐페...",
-          "desc": "이스트시큐리티는 승급으로 AWS의 기술 지원, 마케팅 지원, 비즈니스 개발 프로그램 등 글로벌 파트너 혜택을 활용한다. 클라우드 보안과 AI 보안 솔루션 사업 확장에 속도를 낸다. 이스트소프트와도 협업해 AI 보안...",
-          "src": "뉴스웍스",
-          "date": "07/31",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=849074",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202607/849074_808986_514_v150.jpg"
+          "title": "너무 깊어지는 ‘챗봇과의 사랑’… “2시간만 대화” 규제 나선 각국",
+          "desc": "과학기술정보통신부의 대통령 업무보고에서 청소년을 겨냥한 소셜네트워크서비스(SNS) 알고리즘과 AI의... 캘리포니아주도 올 1월 비슷한 규제를 도입했다. 특히 정서적으로 취약한 청소년 보호에 초점을 맞췄다. 청소년...",
+          "src": "동아일보",
+          "date": "08/01",
+          "url": "https://n.news.naver.com/mnews/article/020/0003738073?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/31/134404270.1.jpg"
         }
       ]
     },
@@ -242,6 +242,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "中 창신메모리 충격 받은 韓 반도체…증권가 \"삼전닉스 기술 우위, 지금...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=105151",
+      "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853942423652_d71729.jpg"
+    },
+    {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
       "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
@@ -257,19 +262,14 @@ window.NEWS_DATA = {
       "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
     },
     {
-      "title": "동오농촌재단·한국벤처농업대학, 스마트팜 전문 교육과정 운영",
-      "url": "http://www.ikpnews.net/news/articleView.html?idxno=71093",
-      "img": "https://cdn.ikpnews.net/news/photo/202607/71093_51277_2810.jpg"
+      "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
+      "url": "https://n.news.naver.com/mnews/article/030/0003453246?sid=102",
+      "img": "https://img.etnews.com/news/article/2026/08/01/news-p.v1.20260801.3882531b35bc4105a58859bff062aa4a_P1.jpg"
     },
     {
-      "title": "국내 4대 밴사 KSNet, 솔라나와 손잡고 블록체인 결제 시대 연다",
-      "url": "https://www.wikitree.co.kr/articles/1149724",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607312305558999_coin.jpeg"
-    },
-    {
-      "title": "프리뉴, 육군 교육용 상용 드론 3792대 공급 계약",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341798?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26073101945.jpg"
+      "title": "인천도시공사, 인천로봇랜드에 'AI 스마트 안전' 입힌다",
+      "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/01/2026080100002.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/01/2026080100002_0.jpg"
     }
   ]
 };
