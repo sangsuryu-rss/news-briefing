@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 13:17",
+  "updatedAt": "2026.08.01 (토) 16:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,41 +39,41 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,444.30",
-        "diff": "+18.10",
-        "rate": "+1.27%",
+        "value": "1,445.50",
+        "diff": "+19.30",
+        "rate": "+1.35%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "916.52",
-        "diff": "+23.44",
-        "rate": "+2.62%",
+        "value": "917.28",
+        "diff": "+24.20",
+        "rate": "+2.71%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.04",
-        "diff": "+0.14",
-        "rate": "+1.77%",
+        "value": "8.05",
+        "diff": "+0.15",
+        "rate": "+1.90%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.50",
-        "diff": "+0.06",
-        "rate": "+1.10%",
+        "value": "5.51",
+        "diff": "+0.07",
+        "rate": "+1.29%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.14",
-        "diff": "+0.23",
-        "rate": "+1.54%",
+        "value": "15.15",
+        "diff": "+0.24",
+        "rate": "+1.61%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "아이폰 빌려쓰는 애플 '리스', 韓 상륙한다면…보조금 대란 터진다?[폰...",
-          "desc": "삼성 자극할까…지원금 경쟁 촉진 계기 될 수도 애플 리스는 삼성전자와 통신사의 갤럭시폰 판매 전략도... 자동차나 가전제품을 빌려 쓰는 문화는 익숙하다. 하지만 스마트폰은 개인 사진과 금융정보가 담긴 밀착형...",
-          "src": "뉴시스",
+          "title": "‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰 [트럼프 스톡커]",
+          "desc": "현재 애플은 삼성전자(005930), SK하이닉스(000660), 마이크론의 메모리반도체에만 의존하면서 가격... 이들은 “세계 최대 소비자가전 기업이 미국 정부가 중국 군사 기업으로 지정한 회사의 핵심 부품에 의존하게 될 수...",
+          "src": "서울경제",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/003/0014102353?sid=105",
-          "img": "https://img1.newsis.com/2025/09/19/NISI20250919_0020982930_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004647577?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260618.a2d8fee32b404994bf751f96a6a00e05_R.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -110,7 +110,7 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
         },
         {
-          "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자 마케팅팀에 전화해 무조건 ...",
+          "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
           "desc": "이어 5층으로 이동한 권 셰프는 최신식 주방 기구를 소개하며 \"삼성전자로부터 협찬받았다\"고 털어놓았다.... 이후 '냉장고를 부탁해', '언더커버 셰프' 등 다양한 방송에 출연하며 활발한 활동을 이어가고 있으며, 현재...",
           "src": "mydaily",
           "date": "08/01",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "韓美日 등 11개국, '북한 IT 인력' 공동주의보…해외 위장취업 경고",
-          "desc": "북한 정보기술(IT) 인력이 해외에서 국적과 신분을 숨긴 채 원격 근무 일자리를 수주해 외화를 벌고, 이를... 또한 AI 등을 활용해 신원을 더욱 정교하게 은폐하면서 활동 범위를 세계적으로 확대하고 있다고 덧붙였다....",
-          "src": "dongponews",
+          "title": "지멘스, Simcenter PhysicsAI 애드온 출시...AI 기반 CFD 설계 탐색 가속화",
+          "desc": "Simcenter PhysicsAI는 지멘스 Simcenter™ STAR-CCM+™ 소프트웨어의 검증된 기하학적 딥러닝 기술을 활용해 AI 기반 설계 탐색을 가속한다. 새로 도입된 기능을 통해 엔지니어는 전산 유체 역학(Computational Fluid...",
+          "src": "mfgkr",
           "date": "08/01",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=59629",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202608/59629_215321_598_v150.jpg"
+          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28316",
+          "img": "https://cdn.mfgkr.com/news/photo/202607/28316_10909_64.jpg"
         },
         {
-          "title": "“수행평가, AI에 물어보면 답 바로 나와요”",
-          "desc": "생성형 AI 도입으로 학교 수업 환경도 변하고 있다. 일부 학교는 ‘인공지능’ 과목을 통해 AI의 작동... AI 사용을 전면 금지하기보다 활용 범위를 설정해 안내하는 경향이 나타났다. 문산중의 기술·가정 교사 A씨는...",
-          "src": "동아일보",
+          "title": "경기도미술관 20주년·백남준 서거 20주기… \"여름철 미술관으로 피서 ...",
+          "desc": "백남준에게 우주는 단순히 멀리 있는 공간이 아니라, 자연과 기술, 사람과 사물이 끊임없이 새로운 관계를... 경기도미술관은 이번 전시 개막과 함께 'AI 미술 도슨트' 서비스를 새로 도입했습니다. 다양한 언어를 지원하고...",
+          "src": "news",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/262/0000019564?sid=102",
-          "img": "https://dimg.donga.com/ugc/CDB/SHINDONGA/Article/6a/62/cc/55/6a62cc551e8da0a0a0a.jpg"
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=476245",
+          "img": "https://cdn.news.ifm.kr/news/thumbnail/202608/476245_151815_1949_v150.jpg"
         },
         {
-          "title": "“내게 어울리는 K-헤어 미리 본다”…이스트에이드, 준오헤어와 일본 ...",
-          "desc": "구조가 기술과 콘텐츠가 결합한 성공적인 비즈니스 모델로 폭발적 시너지를 내며 실질적인 실적으로 이어질 것”이라고 기대했다. 이처럼 최근 뷰티 산업 전반에서는 AI를 활용한 신규 서비스 도입이 이어지는 추세다....",
-          "src": "서울경제",
+          "title": "오픈AI 80% 가격 인하, AI 생태계 주도권 싸움",
+          "desc": "가격 인하는 AI 도입 비용을 절감하고, 기업들의 AI 활용을 촉진할 수 있음을 회사측은 강조한다. 개방형... 저렴한 모델은 기업의 기술 비용을 절감하는 것 이상의 의미를 지닌다. 인간의 업무를 자동화 시스템으로...",
+          "src": "newstown",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/011/0004647569?sid=105",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260731.59df0ca5fa924a7c98808a5d16790dce_R.png"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711026",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711026_665527_815_v150.jpg"
         },
         {
-          "title": "‘가짜 위성사진’ 확산 우려…구글어스에 AI 입히기 하룻만에 없던 일",
-          "desc": "기능을 도입했다가 허위 정보 확산 우려가 커지자 하루 만에 서비스를 되돌렸다. AI 기술과 정보 신뢰성... 이용자는 실제 위성·항공·3D 지도 데이터를 기반으로 특정 지역을 확대한 뒤 AI를 활용해 다양한 이미지를...",
-          "src": "디지털타임스",
+          "title": "LG, 국내 최대 AI 공개…글로벌 빅테크와 맞붙는다",
+          "desc": "AI 활용 전문가를 육성해 현장 적용을 확산하는 한편 ESS·로봇·드론 등으로 확대되는 배터리 생태계의 AI 플랫폼 선점에 나선다는 방침. 엘앤에프, '탈중국 LFP'로 북미 뚫었다 엘앤에프가 미국 배터리 기술 기업...",
+          "src": "news",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/029/0003040080?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/01/news-p.v1.20260721.616eea52ca7d438290497a2a6e14c6c1_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/648/0000049431?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
+          "img": ""
         },
         {
           "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "아이폰 빌려쓰는 애플 '리스', 韓 상륙한다면…보조금 대란 터진다?[폰...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102353?sid=105",
-      "img": "https://img1.newsis.com/2025/09/19/NISI20250919_0020982930_web.jpg"
+      "title": "‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰 [트럼프 스톡커]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647577?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260618.a2d8fee32b404994bf751f96a6a00e05_R.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
     },
     {
-      "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자 마케팅팀에 전화해 무조건 ...",
+      "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
       "url": "https://m.entertain.naver.com/article/117/0004090764",
       "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
     },
     {
-      "title": "韓美日 등 11개국, '북한 IT 인력' 공동주의보…해외 위장취업 경고",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=59629",
-      "img": "https://cdn.dongponews.net/news/thumbnail/202608/59629_215321_598_v150.jpg"
+      "title": "지멘스, Simcenter PhysicsAI 애드온 출시...AI 기반 CFD 설계 탐색 가속화",
+      "url": "https://www.mfgkr.com/news/articleView.html?idxno=28316",
+      "img": "https://cdn.mfgkr.com/news/photo/202607/28316_10909_64.jpg"
     },
     {
-      "title": "“수행평가, AI에 물어보면 답 바로 나와요”",
-      "url": "https://n.news.naver.com/mnews/article/262/0000019564?sid=102",
-      "img": "https://dimg.donga.com/ugc/CDB/SHINDONGA/Article/6a/62/cc/55/6a62cc551e8da0a0a0a.jpg"
+      "title": "경기도미술관 20주년·백남준 서거 20주기… \"여름철 미술관으로 피서 ...",
+      "url": "https://news.ifm.kr/news/articleView.html?idxno=476245",
+      "img": "https://cdn.news.ifm.kr/news/thumbnail/202608/476245_151815_1949_v150.jpg"
     }
   ]
 };
