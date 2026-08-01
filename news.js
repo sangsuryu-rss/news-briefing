@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 23:24",
+  "updatedAt": "2026.08.02 (일) 02:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 수출 호조 지속…7월 수출액 '역대 2위'",
-          "desc": "[기자] 삼성전자와 SK하이닉스의 반도체가 화물기 가득 실립니다. 반도체 수출 호조에 힘입어, 지난달... 20대 주력 수출 품목 중 가전을 제외한 19개 품목 수출이 증가했는데, 특히 빅테크 기업들의 AI 인프라 투자 확대로...",
-          "src": "연합뉴스TV",
-          "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/422/0000891352?sid=161",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260801/MYH20260801181039dNi.jpg"
+          "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
+          "desc": "삼성전자가 2분기 연결 기준 매출 171조5000억원, 영업이익 89조4924억원으로 역대 최대 분기 실적을 재경신했는데요. 정작 스마트폰·TV·가전 등 완제품을 담당하는 디바이스경험(DX) 부문은 매출 48조원에 영업손실...",
+          "src": "더팩트",
+          "date": "08/02",
+          "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -107,7 +107,7 @@ window.NEWS_DATA = {
           "src": "이데일리",
           "date": "08/01",
           "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080200007.jpg"
         },
         {
           "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[전라 Insight] 100년 하늘을 기록하다…전주기상지청, 기후위기 최전선...",
+          "desc": "자산으로 활용되고 있다. △위탁관측장에서 대표 기상기관으로… 성장으로 증명한 100년사 전주기상지청의... 기상지청은 수치예보모델과 관측 데이터, 예보관의 분석 능력에 AI기술을 결합해 폭염중대경보...",
+          "src": "jeollailbo",
+          "date": "08/02",
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=806512",
+          "img": "https://cdn.jeollailbo.com/news/thumbnail/202607/806512_194188_1824_v150.jpg"
+        },
+        {
+          "title": "기업 투자 몰리는 美 텍사스, 전력·용수 인프라 확충 추진",
+          "desc": "ERCOT는 '배치 제로(Batch Zero)' 절차를 도입했다. 이는 기존 프로젝트별로 순차 심사하는 대신 일정 기간 동안... 용수 분야에서는 '텍사스 수자원개발위원회(TWDB)'를 중심으로 '텍사스 신규 수자원 공급 기금'을 활용한...",
+          "src": "더구루",
+          "date": "08/02",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105145",
+          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853919679408_0714cc.jpg"
+        },
+        {
+          "title": "[팔런티어 테크놀로지스⑦] 로봇이 움직이고, 팔런티어가 판단하며, SAP...",
+          "desc": "정부 자료에는 GPU 약 5만장을 설치해 자율주행과 로봇 등 피지컬 AI 연구개발에 활용한다는 계획도 제시돼... 피지컬 AI와 팔런티어, SAP는 서로 경쟁하는 하나의 기술이 아니라 기업의 서로 다른 층을 담당한다. 이를...",
+          "src": "ilemonde",
+          "date": "08/01",
+          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30445",
+          "img": "https://cdn.ilemonde.com/news/photo/202608/30445_50995_4923.png"
+        },
+        {
           "title": "니어, 토큰 안 쓰고 스테이킹만으로 AI 43종 쓴다",
           "desc": "니어 프로토콜(NEAR Protocol)이 자사 AI 서비스 ‘니어 AI(NEAR AI)’에 스테이킹 기반 결제 시스템을 도입했다.... 있다.기술적으로는 스테이킹으로 발생하는 보상(리워드)이 니어 AI로 직접 전달돼 서비스 대가로 쓰이는...",
           "src": "wikitree",
           "date": "08/01",
           "url": "https://www.wikitree.co.kr/articles/1149835",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/01/202608012254490225_coin.jpeg"
-        },
-        {
-          "title": "[패트롤] 고양시의회-광명시-시흥시-안산시-안양시",
-          "desc": "대국민 AI 복지상담 △복지 안내 도우미 AI △복지공무원 업무지원 AI 에이전트 △모바일 행복이음 활용... 심윤식 시흥시 복지국장은 1일 “시흥시가 인공지능(AI) 기술을 복지 현장에 선도적으로 도입해 시민에게 더...",
-          "src": "ekn",
-          "date": "08/01",
-          "url": "https://www.ekn.kr/web/view.php?key=20260801028378633",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260801.15b64ad332494b6b9e72e64d77e5a74a_R.jpg"
-        },
-        {
-          "title": "[인터뷰] 반야 오버호프, 섭스퀴드 랩스 CEO \"AI는 신뢰할 수 있는 데이...",
-          "desc": "오히려 규제가 탈중앙화 인프라의 확산을 막는 것이 아니라 그 도입을 더욱 가속화할 것으로 본다. 이... 앞으로 AI 기술은 누구나 쉽게 활용할 수 있는 시대가 된다. 새로운 서비스나 소프트웨어를 만드는 일도...",
-          "src": "koreaittimes",
-          "date": "08/01",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155706",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202608/155706_105218_2812_v150.jpg"
-        },
-        {
-          "title": "가트너 \"SASE, AI 에이전트 통제 기능 핵심 요소 될 것\"",
-          "desc": "/AI 생성 이미지 \"2030년까지 연평균 23% 성장\" SASE는 어디서나 일하는 환경(WFA)의 안전한 접근을 위해 도입... 현재 SASE를 사용하는 조직은 전 세계 2만5000여개에 이르지만 SASE의 모든 기능을 온전히 활용하는 기업은...",
-          "src": "datanet",
-          "date": "08/01",
-          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213468",
-          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213468_137675_3141_v150.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 수출 호조 지속…7월 수출액 '역대 2위'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891352?sid=161",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260801/MYH20260801181039dNi.jpg"
+      "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
+      "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -254,7 +254,7 @@ window.NEWS_DATA = {
     {
       "title": "\"세탁기에 돌렸어요\" 버즈4 프로, 50분 견디고 '멀쩡'[잇:써봐]",
       "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080200007.jpg"
     },
     {
       "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
     },
     {
-      "title": "니어, 토큰 안 쓰고 스테이킹만으로 AI 43종 쓴다",
-      "url": "https://www.wikitree.co.kr/articles/1149835",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/01/202608012254490225_coin.jpeg"
+      "title": "[전라 Insight] 100년 하늘을 기록하다…전주기상지청, 기후위기 최전선...",
+      "url": "http://www.jeollailbo.com/news/articleView.html?idxno=806512",
+      "img": "https://cdn.jeollailbo.com/news/thumbnail/202607/806512_194188_1824_v150.jpg"
     },
     {
-      "title": "[패트롤] 고양시의회-광명시-시흥시-안산시-안양시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260801028378633",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260801.15b64ad332494b6b9e72e64d77e5a74a_R.jpg"
+      "title": "기업 투자 몰리는 美 텍사스, 전력·용수 인프라 확충 추진",
+      "url": "https://www.theguru.co.kr/news/article.html?no=105145",
+      "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853919679408_0714cc.jpg"
     }
   ]
 };
