@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 06:59",
+  "updatedAt": "2026.08.01 (토) 13:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -19,13 +19,13 @@ window.NEWS_DATA = {
       {
         "label": "LME 구리",
         "unit": "$/톤",
-        "value": "13,843",
-        "diff": "+238",
-        "rate": "+1.75%",
-        "dir": "up",
+        "value": "13,836",
+        "diff": "-8",
+        "rate": "-0.06%",
+        "dir": "down",
         "avg": "13,552",
-        "avgDiff": "+291",
-        "avgRate": "+2.2%",
+        "avgDiff": "+284",
+        "avgRate": "+2.1%",
         "avgDir": "up"
       },
       {
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[박근종 칼럼] 생산·투자·소비 '트리플 증가', 체감경기 양극화 개선 ...",
-          "desc": "삼성전자와 LG전자 등의 가전제품·통신기기 할인 행사도 소비 증가에 큰 영향을 줬다. 설비투자는 정밀기기 등 기계류 투자가 6.9%, 자동차를 중심으로 한 운송장비 투자가 3.4% 늘면서 전체적으로 5.8% 증가했다....",
-          "src": "mhns",
+          "title": "아이폰 빌려쓰는 애플 '리스', 韓 상륙한다면…보조금 대란 터진다?[폰...",
+          "desc": "삼성 자극할까…지원금 경쟁 촉진 계기 될 수도 애플 리스는 삼성전자와 통신사의 갤럭시폰 판매 전략도... 자동차나 가전제품을 빌려 쓰는 문화는 익숙하다. 하지만 스마트폰은 개인 사진과 금융정보가 담긴 밀착형...",
+          "src": "뉴시스",
           "date": "08/01",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755160",
-          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014102353?sid=105",
+          "img": "https://img1.newsis.com/2025/09/19/NISI20250919_0020982930_web.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
         },
         {
-          "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
-          "desc": "삼성전자와 애플 등 주요 스마트폰 제조사는 자급제 스마트폰에 보상 판매 및 정기 교체 프로그램을 결합한... 매달 일정액을 내면 1~2년마다 최신 기기로 교체해주고 있다.LG전자는 세탁기, 건조기, 냉장고 등 대형 가전에...",
-          "src": "news",
-          "date": "07/31",
-          "url": "https://news.mtn.co.kr/news-detail/2026073015041212168",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
+          "title": "\"세탁기에 돌렸어요\" 버즈4 프로, 50분 견디고 '멀쩡'[잇:써봐]",
+          "desc": "(자료=삼성전자 홈페이지) 해외 유저들도 증언하는 ‘버즈의 생존력’ 해외에서도 과거 갤럭시 버즈와 관련된 경험함을 찾을 수 있다. “세탁기와 건조기에 통째로 돌렸는데 멀쩡하다”, “실수로 세탁기에 넣었는데...",
+          "src": "이데일리",
+          "date": "08/01",
+          "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
         },
         {
-          "title": "국민연금 평가액 200조 증발, 레버리지 노답 삼형제 경질하라 불만 폭발...",
-          "desc": "“내 인생은 망했다(My life’s screwed).”삼성전자 압도적 실적에도 주가는 하락 반전.오늘부터 레버리지 ETF... 홍성준(주민)은 “쪽방에 살 때는 주인이 세탁기를 잠가놔서 여름에도 일주일에 한 번만 빨래를 할 수...",
-          "src": "slownews",
-          "date": "07/31",
-          "url": "https://slownews.kr/164015",
-          "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
+          "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자 마케팅팀에 전화해 무조건 ...",
+          "desc": "이어 5층으로 이동한 권 셰프는 최신식 주방 기구를 소개하며 \"삼성전자로부터 협찬받았다\"고 털어놓았다.... 이후 '냉장고를 부탁해', '언더커버 셰프' 등 다양한 방송에 출연하며 활발한 활동을 이어가고 있으며, 현재...",
+          "src": "mydaily",
+          "date": "08/01",
+          "url": "https://m.entertain.naver.com/article/117/0004090764",
+          "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "올해 경상도에 비가 덜 내려서 대박 풍년이라는 '이 과일'…지금 놓치면...",
-          "desc": "기사 내용 토대로 AI툴 활용해 제작한 자료사진. 마른하늘이 복숭아에는 오히려 보약과일 재배에서 수확기... 적극 도입해 모양과 맛이 모두 뛰어난 복숭아를 생산한다.경북 영덕군은 동해안의 맑은 바람과 오십천 유역의...",
-          "src": "wikitree",
+          "title": "韓美日 등 11개국, '북한 IT 인력' 공동주의보…해외 위장취업 경고",
+          "desc": "북한 정보기술(IT) 인력이 해외에서 국적과 신분을 숨긴 채 원격 근무 일자리를 수주해 외화를 벌고, 이를... 또한 AI 등을 활용해 신원을 더욱 정교하게 은폐하면서 활동 범위를 세계적으로 확대하고 있다고 덧붙였다....",
+          "src": "dongponews",
           "date": "08/01",
-          "url": "https://www.wikitree.co.kr/articles/1149705",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607311730501613.jpg"
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=59629",
+          "img": "https://cdn.dongponews.net/news/thumbnail/202608/59629_215321_598_v150.jpg"
         },
         {
-          "title": "애플마저 굴복시킨 메모리 가격…갑을관계 뒤집혔다 [칩칩팹팹]",
-          "desc": "복잡한 기술은 쉽게, 뉴스 이면의 이야기와 산업의 흐름은 깊이 있게 전하며, AI 시대를 이끄는 반도체의... 지금 상황은 ‘100년에 한 번 올 법한 홍수’라고 표현할 정도입니다.” (팀 쿡 애플 CEO) “메모리 불황기였던...",
-          "src": "헤럴드경제",
+          "title": "“수행평가, AI에 물어보면 답 바로 나와요”",
+          "desc": "생성형 AI 도입으로 학교 수업 환경도 변하고 있다. 일부 학교는 ‘인공지능’ 과목을 통해 AI의 작동... AI 사용을 전면 금지하기보다 활용 범위를 설정해 안내하는 경향이 나타났다. 문산중의 기술·가정 교사 A씨는...",
+          "src": "동아일보",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/016/0002678095?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/07/31/news-p.v1.20260619.baeab7d0d77c4265b5ac0126ea19b565_T1.png"
+          "url": "https://n.news.naver.com/mnews/article/262/0000019564?sid=102",
+          "img": "https://dimg.donga.com/ugc/CDB/SHINDONGA/Article/6a/62/cc/55/6a62cc551e8da0a0a0a.jpg"
         },
         {
-          "title": "[K바이오 신약대전] '안티푸라민' 93년…유한양행, '렉라자'로 2조 클럽...",
-          "desc": "규모로 기술수출된 렉라자는 2024년 국산 항암제 최초로 미국 식품의약품국(FDA) 허가를 획득했다. 이후... 달성해 나갈 것\"이라고 말했다. 안티푸라민에서 렉라자로 이어진 100년 역사의 유한양행. (사진=생성형 AI 활용)",
-          "src": "더구루",
+          "title": "“내게 어울리는 K-헤어 미리 본다”…이스트에이드, 준오헤어와 일본 ...",
+          "desc": "구조가 기술과 콘텐츠가 결합한 성공적인 비즈니스 모델로 폭발적 시너지를 내며 실질적인 실적으로 이어질 것”이라고 기대했다. 이처럼 최근 뷰티 산업 전반에서는 AI를 활용한 신규 서비스 도입이 이어지는 추세다....",
+          "src": "서울경제",
           "date": "08/01",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105069",
-          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853026893812_9d4aa6.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004647569?sid=105",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260731.59df0ca5fa924a7c98808a5d16790dce_R.png"
         },
         {
-          "title": "시흥시, '복지행정 AI 정책실험실' 공모 선정",
-          "desc": "행복이음 활용 등이다. 시는 우선 국민참여단을 모집해 생성형 인공지능 언어모델을 적용한 자연스러운... 심윤식 시흥시 복지국장은 \"시흥시가 인공지능(AI) 기술을 복지 현장에 선도적으로 도입해 시민에게 더 신속하고...",
-          "src": "joongangenews",
+          "title": "‘가짜 위성사진’ 확산 우려…구글어스에 AI 입히기 하룻만에 없던 일",
+          "desc": "기능을 도입했다가 허위 정보 확산 우려가 커지자 하루 만에 서비스를 되돌렸다. AI 기술과 정보 신뢰성... 이용자는 실제 위성·항공·3D 지도 데이터를 기반으로 특정 지역을 확대한 뒤 AI를 활용해 다양한 이미지를...",
+          "src": "디지털타임스",
           "date": "08/01",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=537091",
-          "img": "https://cdn.joongangenews.com/news/photo/202607/537091_342625_5824.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003040080?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/01/news-p.v1.20260721.616eea52ca7d438290497a2a6e14c6c1_R.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
         },
         {
           "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[박근종 칼럼] 생산·투자·소비 '트리플 증가', 체감경기 양극화 개선 ...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755160",
-      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+      "title": "아이폰 빌려쓰는 애플 '리스', 韓 상륙한다면…보조금 대란 터진다?[폰...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102353?sid=105",
+      "img": "https://img1.newsis.com/2025/09/19/NISI20250919_0020982930_web.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
     },
     {
-      "title": "'기술 발전의 역설'…제품 판매 둔화에 제조사도 구독경제 진출",
-      "url": "https://news.mtn.co.kr/news-detail/2026073015041212168",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/07/30/2026073015041212168_00_413.jpg"
+      "title": "\"세탁기에 돌렸어요\" 버즈4 프로, 50분 견디고 '멀쩡'[잇:써봐]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100262.jpg"
     },
     {
-      "title": "국민연금 평가액 200조 증발, 레버리지 노답 삼형제 경질하라 불만 폭발...",
-      "url": "https://slownews.kr/164015",
-      "img": "https://slownews.kr/wp-content/uploads/2026/07/maxresdefault-2.jpg"
+      "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자 마케팅팀에 전화해 무조건 ...",
+      "url": "https://m.entertain.naver.com/article/117/0004090764",
+      "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
     },
     {
-      "title": "올해 경상도에 비가 덜 내려서 대박 풍년이라는 '이 과일'…지금 놓치면...",
-      "url": "https://www.wikitree.co.kr/articles/1149705",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/31/202607311730501613.jpg"
+      "title": "韓美日 등 11개국, '북한 IT 인력' 공동주의보…해외 위장취업 경고",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=59629",
+      "img": "https://cdn.dongponews.net/news/thumbnail/202608/59629_215321_598_v150.jpg"
     },
     {
-      "title": "애플마저 굴복시킨 메모리 가격…갑을관계 뒤집혔다 [칩칩팹팹]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678095?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/07/31/news-p.v1.20260619.baeab7d0d77c4265b5ac0126ea19b565_T1.png"
+      "title": "“수행평가, AI에 물어보면 답 바로 나와요”",
+      "url": "https://n.news.naver.com/mnews/article/262/0000019564?sid=102",
+      "img": "https://dimg.donga.com/ugc/CDB/SHINDONGA/Article/6a/62/cc/55/6a62cc551e8da0a0a0a.jpg"
     }
   ]
 };
