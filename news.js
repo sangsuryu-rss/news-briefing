@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.02 (일) 02:56",
+  "updatedAt": "2026.08.02 (일) 06:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
-          "desc": "삼성전자가 2분기 연결 기준 매출 171조5000억원, 영업이익 89조4924억원으로 역대 최대 분기 실적을 재경신했는데요. 정작 스마트폰·TV·가전 등 완제품을 담당하는 디바이스경험(DX) 부문은 매출 48조원에 영업손실...",
-          "src": "더팩트",
+          "title": "가전서 희비 갈린 삼성·LG…영업익 2분기째 1조원 격차",
+          "desc": "삼성전자의 VD(TV)·DA(생활가전 및 공조)사업부의 매출은 2분기 14조5천억원으로 전분기(14조3천억원)보다 늘었으나, 영업이익은 2천억원에서 100억원 적자로 전환했다. 올해 상반기 양사의 공통된 사업 부문 매출은...",
+          "src": "연합뉴스",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016228577?sid=101",
+          "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -102,20 +102,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
         },
         {
+          "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
+          "desc": "잠식 -다음은 삼성전자 소식입니다. 반도체 초호황 속에서 완제품 부문이 오히려 적자를 냈다고요? -네.... 내수 시장에서 올인원 세탁건조기 '비스포크 AI 콤보'가 누적 30만대를 돌파하며 실적을 뒷받침하고 있고요....",
+          "src": "더팩트",
+          "date": "08/02",
+          "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
+        },
+        {
           "title": "\"세탁기에 돌렸어요\" 버즈4 프로, 50분 견디고 '멀쩡'[잇:써봐]",
           "desc": "(자료=삼성전자 홈페이지) 해외 유저들도 증언하는 ‘버즈의 생존력’ 해외에서도 과거 갤럭시 버즈와 관련된 경험함을 찾을 수 있다. “세탁기와 건조기에 통째로 돌렸는데 멀쩡하다”, “실수로 세탁기에 넣었는데...",
           "src": "이데일리",
           "date": "08/01",
           "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080200007.jpg"
-        },
-        {
-          "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
-          "desc": "이어 5층으로 이동한 권 셰프는 최신식 주방 기구를 소개하며 \"삼성전자로부터 협찬받았다\"고 털어놓았다.... 이후 '냉장고를 부탁해', '언더커버 셰프' 등 다양한 방송에 출연하며 활발한 활동을 이어가고 있으며, 현재...",
-          "src": "mydaily",
-          "date": "08/01",
-          "url": "https://m.entertain.naver.com/article/117/0004090764",
-          "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[전라 Insight] 100년 하늘을 기록하다…전주기상지청, 기후위기 최전선...",
-          "desc": "자산으로 활용되고 있다. △위탁관측장에서 대표 기상기관으로… 성장으로 증명한 100년사 전주기상지청의... 기상지청은 수치예보모델과 관측 데이터, 예보관의 분석 능력에 AI기술을 결합해 폭염중대경보...",
-          "src": "jeollailbo",
+          "title": "'AI부터 소통까지'…양천구, 문화예술·창의체험 협력강사 실무역량 높...",
+          "desc": "'AI·에듀테크 활용 교육'에서는 인공지능과 디지털 기술이 교육 현장에 가져온 변화와 최신 교육 흐름을... 한편, 2017년 도입된 협력강사 지원사업은 학교별 수요에 맞는 전문 강사를 연계해 학생들의 창의성과 예술성...",
+          "src": "m-i",
           "date": "08/02",
-          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=806512",
-          "img": "https://cdn.jeollailbo.com/news/thumbnail/202607/806512_194188_1824_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1397839",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1397839_1185660_4218_v150.jpg"
         },
         {
-          "title": "기업 투자 몰리는 美 텍사스, 전력·용수 인프라 확충 추진",
-          "desc": "ERCOT는 '배치 제로(Batch Zero)' 절차를 도입했다. 이는 기존 프로젝트별로 순차 심사하는 대신 일정 기간 동안... 용수 분야에서는 '텍사스 수자원개발위원회(TWDB)'를 중심으로 '텍사스 신규 수자원 공급 기금'을 활용한...",
-          "src": "더구루",
+          "title": "디핀·스테이블코인·레이어1·디파이 [이주의 상장코인]",
+          "desc": "◆ 이온(AEON) 이온(AEON)은 대규모 가상자산 도입의 미래를 위해 설계된 범용 가상자산 결제 미들웨어를 구축하고 있다. 이온은 통합 노드 네트워크를 활용해 AI 기반 상거래 시나리오를 포함한 온체인 및 오프체인...",
+          "src": "조선일보",
           "date": "08/02",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105145",
-          "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853919679408_0714cc.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166704",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092166704_448776_4526_v150.jpg"
         },
         {
-          "title": "[팔런티어 테크놀로지스⑦] 로봇이 움직이고, 팔런티어가 판단하며, SAP...",
-          "desc": "정부 자료에는 GPU 약 5만장을 설치해 자율주행과 로봇 등 피지컬 AI 연구개발에 활용한다는 계획도 제시돼... 피지컬 AI와 팔런티어, SAP는 서로 경쟁하는 하나의 기술이 아니라 기업의 서로 다른 층을 담당한다. 이를...",
-          "src": "ilemonde",
-          "date": "08/01",
-          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30445",
-          "img": "https://cdn.ilemonde.com/news/photo/202608/30445_50995_4923.png"
+          "title": "[만나보니] \"AI 에이전트 원년…성패는 보안·워크플로우\"",
+          "desc": "잘 활용하는 직원의 80% 이상이 업무 환경 제약 때문에 이직을 고려한다는 조사 결과도 있었다\"라고 말했다. 그는 기업이 AI 투자 대비 높은 투자수익률(ROI)을 거두려면 기술 자체보다 직원의 워크플로우를 정확히...",
+          "src": "연합뉴스",
+          "date": "08/02",
+          "url": "https://n.news.naver.com/mnews/article/001/0016228587?sid=105",
+          "img": "https://img6.yna.co.kr/etc/inner/KR/2026/08/01/AKR20260801041500017_01_i_P4.jpg"
         },
         {
-          "title": "니어, 토큰 안 쓰고 스테이킹만으로 AI 43종 쓴다",
-          "desc": "니어 프로토콜(NEAR Protocol)이 자사 AI 서비스 ‘니어 AI(NEAR AI)’에 스테이킹 기반 결제 시스템을 도입했다.... 있다.기술적으로는 스테이킹으로 발생하는 보상(리워드)이 니어 AI로 직접 전달돼 서비스 대가로 쓰이는...",
-          "src": "wikitree",
-          "date": "08/01",
-          "url": "https://www.wikitree.co.kr/articles/1149835",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/01/202608012254490225_coin.jpeg"
+          "title": "강원대학교, '제2회 원주시 공공데이터·AI 활용 아이디어 공모전' 시상...",
+          "desc": "공공데이터와 AI 기술을 활용해 지역사회가 직면한 다양한 현안을 해결할 창의적인 아이디어를 발굴하고... 심사 결과 대상은 로디개발팀이 제안한 '교통안전시설 통합관리체계(ROADEE-IMS, 로딤스) 도입을 통한 원주시...",
+          "src": "lecturernews",
+          "date": "08/02",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207619",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202608/207619_476233_552_v150.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
         },
         {
           "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
-      "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
-      "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
+      "title": "가전서 희비 갈린 삼성·LG…영업익 2분기째 1조원 격차",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228577?sid=101",
+      "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -252,24 +252,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
     },
     {
+      "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
+      "url": "https://n.news.naver.com/mnews/article/629/0000520991?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
+    },
+    {
       "title": "\"세탁기에 돌렸어요\" 버즈4 프로, 50분 견디고 '멀쩡'[잇:써봐]",
       "url": "https://n.news.naver.com/mnews/article/018/0006341858?sid=105",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080200007.jpg"
     },
     {
-      "title": "'35억 건물주' 권성준의 비굴함, \"삼성전자에 전화해 무조건 달라고 요...",
-      "url": "https://m.entertain.naver.com/article/117/0004090764",
-      "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
+      "title": "'AI부터 소통까지'…양천구, 문화예술·창의체험 협력강사 실무역량 높...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1397839",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1397839_1185660_4218_v150.jpg"
     },
     {
-      "title": "[전라 Insight] 100년 하늘을 기록하다…전주기상지청, 기후위기 최전선...",
-      "url": "http://www.jeollailbo.com/news/articleView.html?idxno=806512",
-      "img": "https://cdn.jeollailbo.com/news/thumbnail/202607/806512_194188_1824_v150.jpg"
-    },
-    {
-      "title": "기업 투자 몰리는 美 텍사스, 전력·용수 인프라 확충 추진",
-      "url": "https://www.theguru.co.kr/news/article.html?no=105145",
-      "img": "https://www.theguru.co.kr/data/photos/20260731/art_17853919679408_0714cc.jpg"
+      "title": "디핀·스테이블코인·레이어1·디파이 [이주의 상장코인]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166704",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092166704_448776_4526_v150.jpg"
     }
   ]
 };
