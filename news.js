@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 19:36",
+  "updatedAt": "2026.08.01 (토) 23:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
-          "desc": "또 중국 정부는 자국 기업들이 화웨이 등 중국산 AI 반도체를 우선 사용하도록 장려하고 있어 실제 도입 규모는 크지 않은 것으로 알려졌다. 업계에서는 중국 클라우드 기업들이 해외에 있는 엔비디아 GPU를 활용한 뒤...",
-          "src": "AI타임스",
+          "title": "니어, 토큰 안 쓰고 스테이킹만으로 AI 43종 쓴다",
+          "desc": "니어 프로토콜(NEAR Protocol)이 자사 AI 서비스 ‘니어 AI(NEAR AI)’에 스테이킹 기반 결제 시스템을 도입했다.... 있다.기술적으로는 스테이킹으로 발생하는 보상(리워드)이 니어 AI로 직접 전달돼 서비스 대가로 쓰이는...",
+          "src": "wikitree",
           "date": "08/01",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
-          "img": "https://cdn.aitimes.com/news/photo/202608/213438_216903_1317.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1149835",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/01/202608012254490225_coin.jpeg"
         },
         {
-          "title": "\"저렴한 AI가 더 많은 수요 만든다\"...오픈AI, 가격 인하 후 사용자 10억...",
-          "desc": "decoding) 기술 개선을 통해 토큰 생성 효율도 15% 이상 향상했다고 설명했다. 또 모델 자체를 변경하지... 기업 고객도 초기에는 특정 팀이나 업무에서 AI를 도입하지만, 성능과 비용 효율성이 개선될수록 활용...",
-          "src": "AI타임스",
+          "title": "[패트롤] 고양시의회-광명시-시흥시-안산시-안양시",
+          "desc": "대국민 AI 복지상담 △복지 안내 도우미 AI △복지공무원 업무지원 AI 에이전트 △모바일 행복이음 활용... 심윤식 시흥시 복지국장은 1일 “시흥시가 인공지능(AI) 기술을 복지 현장에 선도적으로 도입해 시민에게 더...",
+          "src": "ekn",
           "date": "08/01",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
-          "img": "https://cdn.aitimes.com/news/photo/202608/213439_216909_3857.png"
+          "url": "https://www.ekn.kr/web/view.php?key=20260801028378633",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260801.15b64ad332494b6b9e72e64d77e5a74a_R.jpg"
         },
         {
-          "title": "\"10월에 모든 게 달렸다\"…이재용 특명에 삼성 임원들 '비상' [김대영의...",
-          "desc": "기록보다 AI가 실제 업무 방식과 조직 생산성을 얼마나 바꿨는지를 보겠다는 취지다. 'AI를 도입했다'는... 사내 기술인증시험(TCT) 결과를 인사고과·승진에 반영하고 있다. 시험 체계도 실제 업무의 AI 활용 역량을 볼 수...",
-          "src": "한국경제",
+          "title": "[인터뷰] 반야 오버호프, 섭스퀴드 랩스 CEO \"AI는 신뢰할 수 있는 데이...",
+          "desc": "오히려 규제가 탈중앙화 인프라의 확산을 막는 것이 아니라 그 도입을 더욱 가속화할 것으로 본다. 이... 앞으로 AI 기술은 누구나 쉽게 활용할 수 있는 시대가 된다. 새로운 서비스나 소프트웨어를 만드는 일도...",
+          "src": "koreaittimes",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/015/0005316296?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45203455.1.jpg"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155706",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202608/155706_105218_2812_v150.jpg"
         },
         {
-          "title": "\"눈으로 보고도 못 믿겠다\"…소지섭 '3분 액션' 반전 [K컬처인사이드]",
-          "desc": "\" 배우 소지섭이 SBS 새 드라마 '김부장' 속 인공지능(AI) 영상 도입에 대해 밝힌 소회다. 위험성이 크거나... 에피소드'에서 AI 기술을 활용한 제작비 절감 성과를 구체적인 수치로 제시했다. 홍 대표는 \"앞서 '모범택시3'의...",
-          "src": "한국경제",
+          "title": "가트너 \"SASE, AI 에이전트 통제 기능 핵심 요소 될 것\"",
+          "desc": "/AI 생성 이미지 \"2030년까지 연평균 23% 성장\" SASE는 어디서나 일하는 환경(WFA)의 안전한 접근을 위해 도입... 현재 SASE를 사용하는 조직은 전 세계 2만5000여개에 이르지만 SASE의 모든 기능을 온전히 활용하는 기업은...",
+          "src": "datanet",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/015/0005316295?sid=103",
-          "img": "https://img.hankyung.com/photo/202607/01.45207025.1.png"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213468",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213468_137675_3141_v150.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
+          "img": ""
         },
         {
           "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
     },
     {
-      "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
-      "img": "https://cdn.aitimes.com/news/photo/202608/213438_216903_1317.jpg"
+      "title": "니어, 토큰 안 쓰고 스테이킹만으로 AI 43종 쓴다",
+      "url": "https://www.wikitree.co.kr/articles/1149835",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/01/202608012254490225_coin.jpeg"
     },
     {
-      "title": "\"저렴한 AI가 더 많은 수요 만든다\"...오픈AI, 가격 인하 후 사용자 10억...",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
-      "img": "https://cdn.aitimes.com/news/photo/202608/213439_216909_3857.png"
+      "title": "[패트롤] 고양시의회-광명시-시흥시-안산시-안양시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260801028378633",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260801.15b64ad332494b6b9e72e64d77e5a74a_R.jpg"
     }
   ]
 };
