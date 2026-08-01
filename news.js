@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.01 (토) 16:24",
+  "updatedAt": "2026.08.01 (토) 19:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -39,17 +39,17 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,445.50",
-        "diff": "+19.30",
-        "rate": "+1.35%",
+        "value": "1,446.00",
+        "diff": "+19.80",
+        "rate": "+1.39%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.28",
-        "diff": "+24.20",
-        "rate": "+2.71%",
+        "value": "917.60",
+        "diff": "+24.52",
+        "rate": "+2.75%",
         "dir": "up"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.15",
-        "diff": "+0.24",
-        "rate": "+1.61%",
+        "value": "15.16",
+        "diff": "+0.25",
+        "rate": "+1.68%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰 [트럼프 스톡커]",
-          "desc": "현재 애플은 삼성전자(005930), SK하이닉스(000660), 마이크론의 메모리반도체에만 의존하면서 가격... 이들은 “세계 최대 소비자가전 기업이 미국 정부가 중국 군사 기업으로 지정한 회사의 핵심 부품에 의존하게 될 수...",
-          "src": "서울경제",
+          "title": "반도체 수출 호조 지속…7월 수출액 '역대 2위'",
+          "desc": "[기자] 삼성전자와 SK하이닉스의 반도체가 화물기 가득 실립니다. 반도체 수출 호조에 힘입어, 지난달... 20대 주력 수출 품목 중 가전을 제외한 19개 품목 수출이 증가했는데, 특히 빅테크 기업들의 AI 인프라 투자 확대로...",
+          "src": "연합뉴스TV",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/011/0004647577?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260618.a2d8fee32b404994bf751f96a6a00e05_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000891352?sid=161",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260801/MYH20260801181039dNi.jpg"
         },
         {
           "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지멘스, Simcenter PhysicsAI 애드온 출시...AI 기반 CFD 설계 탐색 가속화",
-          "desc": "Simcenter PhysicsAI는 지멘스 Simcenter™ STAR-CCM+™ 소프트웨어의 검증된 기하학적 딥러닝 기술을 활용해 AI 기반 설계 탐색을 가속한다. 새로 도입된 기능을 통해 엔지니어는 전산 유체 역학(Computational Fluid...",
-          "src": "mfgkr",
+          "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
+          "desc": "또 중국 정부는 자국 기업들이 화웨이 등 중국산 AI 반도체를 우선 사용하도록 장려하고 있어 실제 도입 규모는 크지 않은 것으로 알려졌다. 업계에서는 중국 클라우드 기업들이 해외에 있는 엔비디아 GPU를 활용한 뒤...",
+          "src": "AI타임스",
           "date": "08/01",
-          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28316",
-          "img": "https://cdn.mfgkr.com/news/photo/202607/28316_10909_64.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+          "img": "https://cdn.aitimes.com/news/photo/202608/213438_216903_1317.jpg"
         },
         {
-          "title": "경기도미술관 20주년·백남준 서거 20주기… \"여름철 미술관으로 피서 ...",
-          "desc": "백남준에게 우주는 단순히 멀리 있는 공간이 아니라, 자연과 기술, 사람과 사물이 끊임없이 새로운 관계를... 경기도미술관은 이번 전시 개막과 함께 'AI 미술 도슨트' 서비스를 새로 도입했습니다. 다양한 언어를 지원하고...",
-          "src": "news",
+          "title": "\"저렴한 AI가 더 많은 수요 만든다\"...오픈AI, 가격 인하 후 사용자 10억...",
+          "desc": "decoding) 기술 개선을 통해 토큰 생성 효율도 15% 이상 향상했다고 설명했다. 또 모델 자체를 변경하지... 기업 고객도 초기에는 특정 팀이나 업무에서 AI를 도입하지만, 성능과 비용 효율성이 개선될수록 활용...",
+          "src": "AI타임스",
           "date": "08/01",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=476245",
-          "img": "https://cdn.news.ifm.kr/news/thumbnail/202608/476245_151815_1949_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+          "img": "https://cdn.aitimes.com/news/photo/202608/213439_216909_3857.png"
         },
         {
-          "title": "오픈AI 80% 가격 인하, AI 생태계 주도권 싸움",
-          "desc": "가격 인하는 AI 도입 비용을 절감하고, 기업들의 AI 활용을 촉진할 수 있음을 회사측은 강조한다. 개방형... 저렴한 모델은 기업의 기술 비용을 절감하는 것 이상의 의미를 지닌다. 인간의 업무를 자동화 시스템으로...",
-          "src": "newstown",
+          "title": "\"10월에 모든 게 달렸다\"…이재용 특명에 삼성 임원들 '비상' [김대영의...",
+          "desc": "기록보다 AI가 실제 업무 방식과 조직 생산성을 얼마나 바꿨는지를 보겠다는 취지다. 'AI를 도입했다'는... 사내 기술인증시험(TCT) 결과를 인사고과·승진에 반영하고 있다. 시험 체계도 실제 업무의 AI 활용 역량을 볼 수...",
+          "src": "한국경제",
           "date": "08/01",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711026",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711026_665527_815_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005316296?sid=101",
+          "img": "https://img.hankyung.com/photo/202607/01.45203455.1.jpg"
         },
         {
-          "title": "LG, 국내 최대 AI 공개…글로벌 빅테크와 맞붙는다",
-          "desc": "AI 활용 전문가를 육성해 현장 적용을 확산하는 한편 ESS·로봇·드론 등으로 확대되는 배터리 생태계의 AI 플랫폼 선점에 나선다는 방침. 엘앤에프, '탈중국 LFP'로 북미 뚫었다 엘앤에프가 미국 배터리 기술 기업...",
-          "src": "news",
+          "title": "\"눈으로 보고도 못 믿겠다\"…소지섭 '3분 액션' 반전 [K컬처인사이드]",
+          "desc": "\" 배우 소지섭이 SBS 새 드라마 '김부장' 속 인공지능(AI) 영상 도입에 대해 밝힌 소회다. 위험성이 크거나... 에피소드'에서 AI 기술을 활용한 제작비 절감 성과를 구체적인 수치로 제시했다. 홍 대표는 \"앞서 '모범택시3'의...",
+          "src": "한국경제",
           "date": "08/01",
-          "url": "https://n.news.naver.com/mnews/article/648/0000049431?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005316295?sid=103",
+          "img": "https://img.hankyung.com/photo/202607/01.45207025.1.png"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
         },
         {
           "title": "애플 '중국 CXMT의 메모리반도체 구매' 가능성 인정, 팀 쿡 \"모든 선택지...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰 [트럼프 스톡커]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647577?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/01/news-p.v1.20260618.a2d8fee32b404994bf751f96a6a00e05_R.jpg"
+      "title": "반도체 수출 호조 지속…7월 수출액 '역대 2위'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000891352?sid=161",
+      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260801/MYH20260801181039dNi.jpg"
     },
     {
       "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://mydaily.co.kr/photos/2026/08/01/2026080112273980980_l.jpg"
     },
     {
-      "title": "지멘스, Simcenter PhysicsAI 애드온 출시...AI 기반 CFD 설계 탐색 가속화",
-      "url": "https://www.mfgkr.com/news/articleView.html?idxno=28316",
-      "img": "https://cdn.mfgkr.com/news/photo/202607/28316_10909_64.jpg"
+      "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+      "img": "https://cdn.aitimes.com/news/photo/202608/213438_216903_1317.jpg"
     },
     {
-      "title": "경기도미술관 20주년·백남준 서거 20주기… \"여름철 미술관으로 피서 ...",
-      "url": "https://news.ifm.kr/news/articleView.html?idxno=476245",
-      "img": "https://cdn.news.ifm.kr/news/thumbnail/202608/476245_151815_1949_v150.jpg"
+      "title": "\"저렴한 AI가 더 많은 수요 만든다\"...오픈AI, 가격 인하 후 사용자 10억...",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+      "img": "https://cdn.aitimes.com/news/photo/202608/213439_216909_3857.png"
     }
   ]
 };
