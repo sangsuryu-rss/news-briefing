@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.02 (일) 13:21",
+  "updatedAt": "2026.08.02 (일) 16:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,20 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스마트폰·TV 말고 집도 팝니다…삼성·LG가 만드는 'AI 모듈러 주택' [수...",
-          "desc": "삼성 AI 모듈러 홈에는 삼성전자의 AI 가전과 스마트싱스 기반 AI 홈 솔루션이 적용됐다. 주택 형태와 사용 목적에 따라 에어컨과 히트펌프 보일러, 냉장고, TV 등 AI 가전과 홈캠을 비롯한 20여 종의 스마트싱스 연동...",
-          "src": "segye",
+          "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
+          "desc": "삼성전자와 LG전자가 이번에는 TV나 냉장고가 아니라 ‘집’을 팔기 시작했다. AI 가전이 처음부터 집 안에 설치된 미래형 주택 시장을 두고 두 회사의 경쟁이 본격화되고 있다. 삼성·LG, 모듈러 주택 시장 공략...",
+          "src": "서울경제",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/022/0004147718?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/02/20260802503290.jpg"
-        },
-        {
-          "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
-          "desc": "삼성전자 비스포크 AI 스팀 울트라 10W의 강력한 흡입력과 벽면·모서리까지 밀착 청소하는 '팝 아웃 콤보' 기능을 갖춘 AI 로봇청소기다. 100℃ 스팀으로 물걸레를 살균하는 스팀 청정스테이션과 AI 액체 인식 기능을...",
-          "src": "조선일보",
-          "date": "07/31",
-          "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
-          "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
         },
         {
           "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
@@ -116,6 +108,14 @@ window.NEWS_DATA = {
           "date": "08/02",
           "url": "https://www.livebiz.today/news/articleView.html?idxno=203760",
           "img": "https://cdn.livebiz.today/news/photo/202608/203760_204981_3632.jpg"
+        },
+        {
+          "title": "SK하이닉스 쫓는 中 CXMT…차세대 모바일 D램 개발 막바지",
+          "desc": "차기 플래그십 스마트폰이 초기 탑재 제품이 될 가능성이 거론된다. 삼성전자는 1월 열린 세계 최대 가전·정보기술(IT) 전시회인 'CES 2026'에서 LPDDR6 제품을 공개했지만 구체적인 양산 일정은 밝히지 않았다.",
+          "src": "한국일보",
+          "date": "08/02",
+          "url": "https://n.news.naver.com/mnews/article/469/0000945778?sid=104",
+          "img": "https://newsimg.hankookilbo.com/2026/08/02/cd641c02-ba7e-4f78-b4aa-77cc0da3f445.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "삼성물산 AI 시니어 솔루션, 돌봄형 실버타운에 첫 적용",
-          "desc": "인공지능(AI)을 활용한 시니어 돌봄 기술을 프리미엄 돌봄형 실버타운에 적용한다. 삼성물산은 지난달 30일 경기 포천시 ‘케어링 스테이 의정부수목원점’에서 운영사 뉴시니어라이프와 ‘AI 시니어 리빙 솔루션 도입 및...",
-          "src": "g-enews",
+          "title": "경북도, 농산물 유통 '디지털 대전환' 나선다...AI·로봇이 과일 고르고...",
+          "desc": "투자해 AI와 로봇 기술을 도입한 '스마트 산지유통센터(APC)'를 대폭 확대 추진한다고 2일 밝혔다. 현재... 경상북도는 앞으로 농림축산식품부 공모 사업 등을 활용해 국비 506억 원을 확보할 방침으로생산부터 판매까지...",
+          "src": "이로운넷",
           "date": "08/02",
-          "url": "https://www.g-enews.com/view.php?ud=2026080213112865262aa6f4cdad_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260802131332017692aa6f4cdad2111766104.jpg"
+          "url": "https://www.eroun.net/news/articleView.html?idxno=86807",
+          "img": "https://cdn.eroun.net/news/thumbnail/202608/86807_143148_4351_v150.jpg"
         },
         {
-          "title": "[정책탐구생활] 과거-현재-미래를 연결해주는 시대의 대변자 우표",
-          "desc": "(Meme)으로 활용할 정도로 사랑을 받고 있다. 태권브이 우표는 등장인물들의 모습을 원형 딱지 형태로 제작해... 이처럼 AI, 로봇 등 기술의 변화를 우표전시회에서도 느낄 수 있었지만 우표를 직접 기획·제작하는...",
-          "src": "브릿지경제",
+          "title": "서울AI재단, 서울 초등학교에 맞춤형 AI·SW 교육 도입…문제 해결 역량...",
+          "desc": "인공지능(AI) 및 소프트웨어(SW) 교육 프로그램을 도입한다고 2일 발표했다. 이번 교육 프로그램에 참여하는... 이와 함께 데이터와 알고리즘의 원리를 이해하고 생성형 AI 기술을 효과적으로 활용하는 방법도 학년별...",
+          "src": "고코리아",
           "date": "08/02",
-          "url": "https://www.viva100.com/article/20260801500010",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/01/.cache/512/20260801500001.jpg?v=20260802132200"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873842",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873842_151014_45_v150.jpg"
         },
         {
-          "title": "AI 글라스 등장 '대학가 부정행위 대응 지침 마련'...교육계 '대응 미흡...",
-          "desc": "지난해 생성형 AI를 활용한 부정행위 사례가 이어졌음에도, 대학가의 대응은 AI 기술 발전 속도를 따라가지... 박남기 광주교대 명예교수는 \"기술 발전으로 일반 안경과 구분이 어려워진 만큼 탐지기 도입이나 시험 응시...",
-          "src": "cbci",
+          "title": "중국 AI 공세에 맞서… 한국 제조업 전략 전환 필요",
+          "desc": "이는 중국이 제조와 물류 현장에 AI를 대규모로 도입함으로써 자국 중심의 작업 표준을 준비하고, 나아가... 자산을 활용하여 공급망 협력과 시장 진출 전략을 강화하고, 한국이 글로벌 AI 기술 생태계의 공동 설계자로...",
+          "src": "고코리아",
           "date": "08/02",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593907",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/593907_404521_1342_v150.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873841",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873841_151013_343_v150.jpg"
         },
         {
-          "title": "KOTRA, AI 무역인재 5천명 키운다",
-          "desc": "참여하는 AI 무역인재 양성과정을 운영하고 있다. 교육생들은 AI를 활용한 해외 바이어 발굴, 시장조사... 경영진에게 AI 기술과 디지털 트렌드, 신세대 소통 방식을 전달하는 역멘토링도 처음 도입한다. 사장을 포함한...",
-          "src": "dongponews",
+          "title": "AI 기술로 새롭게 재탄생한 드라마 '김부장'…소지섭의 액션 신에 시청...",
+          "desc": "이에 앞서, KBS에서는 이미 단막극 '러브 : 트랙-늑대가 사라진 밤에'를 통해 AI 효과를 성공적으로 활용한 바... AI 기술의 도입이 가속화되고 있는 방송계에서는 이제 기술 자체의 사용 여부보다는 얼마나 완성도 높은...",
+          "src": "고코리아",
           "date": "08/02",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=59638",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202608/59638_215349_5332_v150.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873834",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873834_151006_051_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "갤럭시S27 시리즈, 전 모델에 후면 카메라 3개 채택",
+          "desc": "가장 많이 판매되는 울트라 모델 부품 수를 줄여 갤럭시 S27 시리즈 가격 안정화를 도모하려는 시도다. 2일 업계에 따르면 삼성전자는 갤럭시 S27 카메라 공급 협력사와 이같은 내용을 공유한 것으로 파악됐다. 핵심은...",
+          "src": "전자신문",
+          "date": "08/02",
+          "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
+          "img": ""
+        },
         {
           "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
           "desc": "다만 삼성전자와 SK하이닉스, 마이크론 등이 대거 체결 중인 장기공급계약(LTA)에 대해서는 구체적 언급을 피했다. 비메모리 부품에서는 원가 개선이 일부 효과를 냈다고 설명했다. CXMT 메모리 도입설에 마이크론...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/31",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443656",
           "img": ""
-        },
-        {
-          "title": "BTS·김선호에 런던 술집까지…벼랑 끝 삼성 '파격 승부수'",
-          "desc": "미디어, 인플루언서, 고객, 협력사 등이 현장에서 신제품을 먼저 체험한 것. 미국에선 하이브와 함께 다음... 메모리 등 부품 원가가 급등했지만 이를 제품 가격에 모두 반영하기 어려웠던 영향이다. 삼성전자는 올...",
-          "src": "한국경제",
-          "date": "07/31",
-          "url": "https://n.news.naver.com/mnews/article/015/0005315981?sid=101",
-          "img": "https://img.hankyung.com/photo/202607/01.45204993.1.jpg"
         }
       ]
     },
@@ -242,14 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "스마트폰·TV 말고 집도 팝니다…삼성·LG가 만드는 'AI 모듈러 주택' [수...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147718?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/02/20260802503290.jpg"
-    },
-    {
-      "title": "삶의 질을 바꿔주는 여름 가전 리스트 ①",
-      "url": "http://woman.chosun.com/news/articleView.html?idxno=126347",
-      "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126347_155261_4927_v150.jpg"
+      "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
     },
     {
       "title": "[비즈토크<하>] 삼성전자 DX부문 사상 첫 적자…하반기 돌파구는",
@@ -262,14 +257,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.livebiz.today/news/photo/202608/203760_204981_3632.jpg"
     },
     {
-      "title": "삼성물산 AI 시니어 솔루션, 돌봄형 실버타운에 첫 적용",
-      "url": "https://www.g-enews.com/view.php?ud=2026080213112865262aa6f4cdad_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260802131332017692aa6f4cdad2111766104.jpg"
+      "title": "SK하이닉스 쫓는 中 CXMT…차세대 모바일 D램 개발 막바지",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945778?sid=104",
+      "img": "https://newsimg.hankookilbo.com/2026/08/02/cd641c02-ba7e-4f78-b4aa-77cc0da3f445.jpg"
     },
     {
-      "title": "[정책탐구생활] 과거-현재-미래를 연결해주는 시대의 대변자 우표",
-      "url": "https://www.viva100.com/article/20260801500010",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/01/.cache/512/20260801500001.jpg?v=20260802132200"
+      "title": "경북도, 농산물 유통 '디지털 대전환' 나선다...AI·로봇이 과일 고르고...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=86807",
+      "img": "https://cdn.eroun.net/news/thumbnail/202608/86807_143148_4351_v150.jpg"
+    },
+    {
+      "title": "서울AI재단, 서울 초등학교에 맞춤형 AI·SW 교육 도입…문제 해결 역량...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=873842",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873842_151014_45_v150.jpg"
     }
   ]
 };
