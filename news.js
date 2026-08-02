@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.02 (일) 23:25",
+  "updatedAt": "2026.08.03 (월) 02:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "애플의 딜레마 ‘중국산 칩’ [횡설수설/김창덕]",
-          "desc": "삼성전자만 하더라도 2분기 완제품 부문에서 8000억 원의 손실을 냈다. 옆 사업 부문으로부터 비싼 반도체를 사오니 스마트폰이나 TV를 팔아도 남는 게 많지 않았기 때문이다. PC, 가전, 게임기 등 정보기술(IT) 제품들은...",
-          "src": "동아일보",
-          "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/020/0003738238?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409670.1.png"
+          "title": "‘사운드바 12년 1위’ 삼성… 프리미엄 홈오디오 시장 공략 속도",
+          "desc": "가전제품의 성능을 넘어 집 안 인테리어와 조화를 중시하는 소비 트렌드를 반영한 것이다. 삼성전자는 “몰입감 있는 음향과 공간에 어울리는 디자인, 인공지능(AI) 기능을 하나로 결합한 차세대 사운드 기기를 통해...",
+          "src": "kmib",
+          "date": "08/03",
+          "url": "https://n.news.naver.com/mnews/article/005/0001864533?sid=103",
+          "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080220270677212_1785670026_1785409859.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[특파원 칼럼/황인찬]AI 배우고, 의원 줄이고… 변하는 日국회",
-          "desc": "‘정치 개혁’ 나선 日, 우리도 돌아봐야 일본 국회는 이렇게 AI 도입에 적극적이며, 한편으로는 정원... AI 등 첨단기술을 활용해 정치의 효율성을 높이려는 시도도 찾아보기 어렵다. 정치 개혁은 거창한 구호가 아니라...",
-          "src": "동아일보",
-          "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/020/0003738237?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409660.1.jpg"
+          "title": "수도권 규제 막힌 인천…“소규모 ‘엣지 AI 데이터센터’ 키워야”",
+          "desc": "AI 데이터센터의 경쟁력은 안정적인 전력 공급과 에너지 효율에서 결정되는 만큼 송전망과 변전설비 확충, 재생에너지 연계는 물론 인천의 해양 환경을 활용한 해수 냉각과 액침 냉각 등 차세대 냉각기술 도입도 적극...",
+          "src": "ic",
+          "date": "08/03",
+          "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/03/2026080300005.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/03/2026080300005_0.jpg"
         },
         {
-          "title": "경북도, AI·로봇 기반 ‘스마트 APC’ 확산…농산물 유통체계 대전환",
-          "desc": "경상북도가 인공지능(AI)과 로봇을 활용한 스마트 농산물산지유통센터(APC) 구축을 확대하며 농산물... 경북도는 2023년부터 기존 APC에 AI와 로봇 기술을 접목하는 스마트 APC 구축사업을 추진해 현재 도내 26개 시설의...",
-          "src": "아이뉴스24",
-          "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/031/0001046638?sid=102",
-          "img": "https://image.inews24.com/v1/2d59614288a289.jpg"
+          "title": "[사설] 주52시간 근로제 완화, 호남반도체에 국한할 일 아니다",
+          "desc": "국가 대항전으로 치닫는 인공지능(AI)·반도체 기술 경쟁에서 우위를 차지하려면 생산성의 발목을 잡는 각종... 이그젬션’ 도입 방안이 포함됐다. 선택적 근로시간제 기간을 현 1개월에서 6개월로 확대하고 기간제...",
+          "src": "kmib",
+          "date": "08/03",
+          "url": "https://n.news.naver.com/mnews/article/005/0001864522?sid=110",
+          "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080221364077514_1785674200_1785656571.jpg"
         },
         {
-          "title": "경북도, '자동차 부품 제조 AI 로봇 확산 거점' 구축… 프레스·용접 등...",
-          "desc": "'로봇 플래그쉽 지역거점 구축사업'은 지역별 특화산업에 활용할 수 있는 첨단 로봇 기술의 실증 공간을... 지역거점을 통해 로봇 도입을 확산함으로써 작업자를 산업재해로부터 보호하고 숙련공의 기술을 AI데이터화 하여...",
-          "src": "polinews",
-          "date": "08/02",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738884",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/738884_560099_5540_v150.jpg"
+          "title": "1375조 AI 협력·남미 광물 확보… 李대통령, ‘역대 최장’ 순방 완료",
+          "desc": "이번 순방은 미국의 인공지능(AI) 기술과 자본, 남미의 광물과 에너지·시장을 한국의 반도체와 제조업에... 현대자동차그룹과 엔비디아는 대학과 스타트업이 AI 로봇을 개발·검증할 때 활용할 수 있는 '로봇 레퍼런스...",
+          "src": "디지털타임스",
+          "date": "08/03",
+          "url": "https://n.news.naver.com/mnews/article/029/0003040264?sid=100",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/02/rcv.YNA.20260802.PYH2026080207780001300_R.jpg"
         },
         {
-          "title": "중국, AI로 비트코인(BTC) 자금세탁 90% 정확도 추적 시스템 개발",
-          "desc": "가상자산을 활용한 금융범죄 추적 기술 경쟁이 한층 빨라지는 모습이다. 홍콩 사우스차이나모닝포스트가... 감시 기술과 규제 기술의 결합이 더 강화되고, 각국 수사기관이 인공지능 기반 추적 시스템 도입을 서두르는...",
-          "src": "tokenpost",
-          "date": "08/02",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/383909",
-          "img": "https://f1.tokenpost.kr/2026/08/xzomudldqz.jpg"
+          "title": "[경상시론]우리는 왜 실패를 기록하지 않는가",
+          "desc": "울산 국가산업단지에서도 인공지능(AI) 기반 위험 감지 시스템과 디지털 안전관리 플랫폼 도입 등 스마트 안전 체계 구축이 본격화되고 있다. 그러나 아무리 첨단 기술과 시스템이 도입되더라도, 현장에서 발견한 작은...",
+          "src": "ksilbo",
+          "date": "08/03",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063539",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1063539_642565_4139_v150.jpg"
         }
       ]
     },
@@ -195,7 +195,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
+          "img": ""
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "애플의 딜레마 ‘중국산 칩’ [횡설수설/김창덕]",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738238?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409670.1.png"
+      "title": "‘사운드바 12년 1위’ 삼성… 프리미엄 홈오디오 시장 공략 속도",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864533?sid=103",
+      "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080220270677212_1785670026_1785409859.jpg"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/08/02/20260802150505667831.jpg"
     },
     {
-      "title": "[특파원 칼럼/황인찬]AI 배우고, 의원 줄이고… 변하는 日국회",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738237?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409660.1.jpg"
+      "title": "수도권 규제 막힌 인천…“소규모 ‘엣지 AI 데이터센터’ 키워야”",
+      "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/03/2026080300005.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/03/2026080300005_0.jpg"
     },
     {
-      "title": "경북도, AI·로봇 기반 ‘스마트 APC’ 확산…농산물 유통체계 대전환",
-      "url": "https://n.news.naver.com/mnews/article/031/0001046638?sid=102",
-      "img": "https://image.inews24.com/v1/2d59614288a289.jpg"
+      "title": "[사설] 주52시간 근로제 완화, 호남반도체에 국한할 일 아니다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864522?sid=110",
+      "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080221364077514_1785674200_1785656571.jpg"
     }
   ]
 };
