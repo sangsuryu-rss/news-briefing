@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.02 (일) 19:29",
+  "updatedAt": "2026.08.02 (일) 23:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·LG, 가전 영업익 격차 1조원…삼성 가전사업 재편 '초읽기'",
-          "desc": "LG전자 생활가전은 두 분기 연속 1조 원대 이익을 냈지만, 삼성전자 가전사업부는 적자로 돌아섰습니다. 삼성의 사업 재편도 본격화될 전망입니다. 황민지 기자입니다. [리포트] 같은 날 2분기 실적 성적표를 받아든...",
-          "src": "조선일보",
+          "title": "애플의 딜레마 ‘중국산 칩’ [횡설수설/김창덕]",
+          "desc": "삼성전자만 하더라도 2분기 완제품 부문에서 8000억 원의 손실을 냈다. 옆 사업 부문으로부터 비싼 반도체를 사오니 스마트폰이나 TV를 팔아도 남는 게 많지 않았기 때문이다. PC, 가전, 게임기 등 정보기술(IT) 제품들은...",
+          "src": "동아일보",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/448/0000630931?sid=004",
-          "img": "https://img.tvchosun.com/sitedata/image/202608/02/2026080290108_thumb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003738238?sid=110",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409670.1.png"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "해운대, 첫 글로벌 관광특구 선정… '체류형 관광도시' 도약",
-          "desc": "또 인공지능(AI) 기반 24시간 무인관광안내소와 외국인 스마트 결제 시스템을 도입해 외국인 관광객이 언어 장벽 없이 해운대를 즐길 수 있는 환경을 조성한다. 지능형 폐쇄회로(CC)TV를 활용해 관광객 밀집도 등을...",
-          "src": "파이낸셜뉴스",
+          "title": "[특파원 칼럼/황인찬]AI 배우고, 의원 줄이고… 변하는 日국회",
+          "desc": "‘정치 개혁’ 나선 日, 우리도 돌아봐야 일본 국회는 이렇게 AI 도입에 적극적이며, 한편으로는 정원... AI 등 첨단기술을 활용해 정치의 효율성을 높이려는 시도도 찾아보기 어렵다. 정치 개혁은 거창한 구호가 아니라...",
+          "src": "동아일보",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/014/0005556142?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/02/202608021917227086_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003738237?sid=110",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409660.1.jpg"
         },
         {
-          "title": "[이슈&경제] 정부, 한국 중소유통 생존 지원해야",
-          "desc": "부족해 AI, 데이터 분석, 디지털 스마트 매장 시스템 등에 투자하거나 이를 도입하기가 어렵다. 따라서 정부는 고객 분석, 재고 관리 자동화, 모바일 주문·결제 시스템 등 중소유통 업체들이 활용할 수 있는 표준형 디지털...",
-          "src": "kyeonggi",
+          "title": "경북도, AI·로봇 기반 ‘스마트 APC’ 확산…농산물 유통체계 대전환",
+          "desc": "경상북도가 인공지능(AI)과 로봇을 활용한 스마트 농산물산지유통센터(APC) 구축을 확대하며 농산물... 경북도는 2023년부터 기존 APC에 AI와 로봇 기술을 접목하는 스마트 APC 구축사업을 추진해 현재 도내 26개 시설의...",
+          "src": "아이뉴스24",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/666/0000117555?sid=110",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/02/.cache/512/20260802580180.jpg?v=20260802192938"
+          "url": "https://n.news.naver.com/mnews/article/031/0001046638?sid=102",
+          "img": "https://image.inews24.com/v1/2d59614288a289.jpg"
         },
         {
-          "title": "포스코DX, 사무·경영업무에 ‘AI 직원’ 도입",
-          "desc": "- 업무 자율화 등 ‘AI 컴퍼니’ 도약 포스코그룹의 IT, AI 담당 계열사인 포스코DX는 ‘AI 직원’ 개념을 도입하는 등 본격적인 AI 기술 개발과 사업화에 속도를 내기로 했다. AI 직원이란 AI 플랫폼을 활용해 AI...",
-          "src": "kookje",
+          "title": "경북도, '자동차 부품 제조 AI 로봇 확산 거점' 구축… 프레스·용접 등...",
+          "desc": "'로봇 플래그쉽 지역거점 구축사업'은 지역별 특화산업에 활용할 수 있는 첨단 로봇 기술의 실증 공간을... 지역거점을 통해 로봇 도입을 확산함으로써 작업자를 산업재해로부터 보호하고 숙련공의 기술을 AI데이터화 하여...",
+          "src": "polinews",
           "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/658/0000151185?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0803/L20260803.22012008623i1.jpg?31"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738884",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/738884_560099_5540_v150.jpg"
         },
         {
-          "title": "중앙대의료원, 인공지능 전환 프로젝트 착수",
-          "desc": "활용 기반을 지속적으로 고도화하고, 진료와 운영 과정에서 AI를 접목할 수 있는 영역을 단계적으로 확대해 나갈 방침이다. 또한 관련 위원회와 추진단을 구성하고 중장기 전략과 추진 방향을 수립, 기술 도입...",
-          "src": "dailymedi",
+          "title": "중국, AI로 비트코인(BTC) 자금세탁 90% 정확도 추적 시스템 개발",
+          "desc": "가상자산을 활용한 금융범죄 추적 기술 경쟁이 한층 빨라지는 모습이다. 홍콩 사우스차이나모닝포스트가... 감시 기술과 규제 기술의 결합이 더 강화되고, 각국 수사기관이 인공지능 기반 추적 시스템 도입을 서두르는...",
+          "src": "tokenpost",
           "date": "08/02",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938995",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/383909",
+          "img": "https://f1.tokenpost.kr/2026/08/xzomudldqz.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png"
         },
         {
           "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·LG, 가전 영업익 격차 1조원…삼성 가전사업 재편 '초읽기'",
-      "url": "https://n.news.naver.com/mnews/article/448/0000630931?sid=004",
-      "img": "https://img.tvchosun.com/sitedata/image/202608/02/2026080290108_thumb.jpg"
+      "title": "애플의 딜레마 ‘중국산 칩’ [횡설수설/김창덕]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738238?sid=110",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409670.1.png"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/08/02/20260802150505667831.jpg"
     },
     {
-      "title": "해운대, 첫 글로벌 관광특구 선정… '체류형 관광도시' 도약",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556142?sid=102",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/02/202608021917227086_l.jpg"
+      "title": "[특파원 칼럼/황인찬]AI 배우고, 의원 줄이고… 변하는 日국회",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738237?sid=110",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/02/134409660.1.jpg"
     },
     {
-      "title": "[이슈&경제] 정부, 한국 중소유통 생존 지원해야",
-      "url": "https://n.news.naver.com/mnews/article/666/0000117555?sid=110",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/02/.cache/512/20260802580180.jpg?v=20260802192938"
+      "title": "경북도, AI·로봇 기반 ‘스마트 APC’ 확산…농산물 유통체계 대전환",
+      "url": "https://n.news.naver.com/mnews/article/031/0001046638?sid=102",
+      "img": "https://image.inews24.com/v1/2d59614288a289.jpg"
     }
   ]
 };
