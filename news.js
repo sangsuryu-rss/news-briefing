@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 02:56",
+  "updatedAt": "2026.08.03 (월) 06:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
     ]
   },
   "market": {
-    "asOf": "2026-08-01",
+    "asOf": "2026-08-03",
     "items": [
       {
         "label": "LME 구리",
@@ -39,17 +39,17 @@ window.NEWS_DATA = {
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,446.00",
-        "diff": "+19.80",
-        "rate": "+1.39%",
+        "value": "1,445.00",
+        "diff": "+18.80",
+        "rate": "+1.32%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.60",
-        "diff": "+24.52",
-        "rate": "+2.75%",
+        "value": "917.55",
+        "diff": "+24.47",
+        "rate": "+2.74%",
         "dir": "up"
       },
       {
@@ -71,9 +71,9 @@ window.NEWS_DATA = {
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.16",
-        "diff": "+0.25",
-        "rate": "+1.68%",
+        "value": "15.15",
+        "diff": "+0.24",
+        "rate": "+1.61%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘사운드바 12년 1위’ 삼성… 프리미엄 홈오디오 시장 공략 속도",
-          "desc": "가전제품의 성능을 넘어 집 안 인테리어와 조화를 중시하는 소비 트렌드를 반영한 것이다. 삼성전자는 “몰입감 있는 음향과 공간에 어울리는 디자인, 인공지능(AI) 기능을 하나로 결합한 차세대 사운드 기기를 통해...",
-          "src": "kmib",
+          "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
+          "desc": "SK하이닉스는 주로 메모리를 파는 회사지만 삼성전자는 스마트폰과 가전에 메모리를 넣는 구매자이기도 합니다. 올해 2분기 DS부문이 89조2000억원을 버는 동안 MX·네트워크사업은 높은 부품 가격 등의 영향으로 7000억원...",
+          "src": "블로터",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/005/0001864533?sid=103",
-          "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080220270677212_1785670026_1785409859.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "수도권 규제 막힌 인천…“소규모 ‘엣지 AI 데이터센터’ 키워야”",
-          "desc": "AI 데이터센터의 경쟁력은 안정적인 전력 공급과 에너지 효율에서 결정되는 만큼 송전망과 변전설비 확충, 재생에너지 연계는 물론 인천의 해양 환경을 활용한 해수 냉각과 액침 냉각 등 차세대 냉각기술 도입도 적극...",
-          "src": "ic",
+          "title": "[비바100] 로봇이 용접하고 AI가 공정 짠다… 조선소의 이유 있는 진화",
+          "desc": "플랫폼’ 도입을 위한 본계약을 체결했다. 양 사는 AI와 디지털트윈 기술을 활용해 설계부터 생산, 공급망, 품질관리, 유지보수까지 선박 생애주기 전반을 하나의 데이터 플랫폼으로 연결하는 차세대 마린 플랫폼을 공동...",
+          "src": "브릿지경제",
           "date": "08/03",
-          "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/03/2026080300005.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/03/2026080300005_0.jpg"
+          "url": "https://www.viva100.com/article/20260802500016",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/02/.cache/512/20260802500006.jpg?v=20260803065025"
         },
         {
-          "title": "[사설] 주52시간 근로제 완화, 호남반도체에 국한할 일 아니다",
-          "desc": "국가 대항전으로 치닫는 인공지능(AI)·반도체 기술 경쟁에서 우위를 차지하려면 생산성의 발목을 잡는 각종... 이그젬션’ 도입 방안이 포함됐다. 선택적 근로시간제 기간을 현 1개월에서 6개월로 확대하고 기간제...",
-          "src": "kmib",
+          "title": "이더리움 11주년, 최고가 대비 61% 하락…가격과 금융 인프라의 엇갈린...",
+          "desc": "네트워크 활용도가 엇갈리는 흐름을 나타내고 있다. 코인리더스가 암호화폐 전문매체 크립토포테이토를... 기술 업그레이드도 이더리움의 향후 경쟁력을 좌우할 요소다. 이더리움 공식 로드맵에 따르면 글램스터담...",
+          "src": "cbci",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/005/0001864522?sid=110",
-          "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080221364077514_1785674200_1785656571.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593940",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/593940_404570_1631_v150.jpg"
         },
         {
-          "title": "1375조 AI 협력·남미 광물 확보… 李대통령, ‘역대 최장’ 순방 완료",
-          "desc": "이번 순방은 미국의 인공지능(AI) 기술과 자본, 남미의 광물과 에너지·시장을 한국의 반도체와 제조업에... 현대자동차그룹과 엔비디아는 대학과 스타트업이 AI 로봇을 개발·검증할 때 활용할 수 있는 '로봇 레퍼런스...",
-          "src": "디지털타임스",
+          "title": "경산시, 산업통상부 ‘2026년 로봇 플래그쉽 지역거점 구축사업’공모 ...",
+          "desc": "초거대AI클라우드팜센터와 연계해 실시간 로봇 관제 및 디지털 트윈 기반 시뮬레이션 환경을 조성하고 기업들이 자율제조 기술을 사전에 검증할 수 있도록 지원한다. 또 첨단 제조 로봇의 작동 원리와 활용 사례를 직접...",
+          "src": "헤럴드경제",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/029/0003040264?sid=100",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/02/rcv.YNA.20260802.PYH2026080207780001300_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002678454?sid=102",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/03/news-p.v1.20260803.23994491ea464f48b4c53f32281e9013_T1.jpg"
         },
         {
-          "title": "[경상시론]우리는 왜 실패를 기록하지 않는가",
-          "desc": "울산 국가산업단지에서도 인공지능(AI) 기반 위험 감지 시스템과 디지털 안전관리 플랫폼 도입 등 스마트 안전 체계 구축이 본격화되고 있다. 그러나 아무리 첨단 기술과 시스템이 도입되더라도, 현장에서 발견한 작은...",
-          "src": "ksilbo",
+          "title": "[AI핫이슈]거세지는 AI 가격 경쟁...오픈소스AI 글로벌 대세로",
+          "desc": "ㆍ영상 AI 모델판도 오픈웨이트 바람 부나?...미니맥스, 'H3' 공개 8월 있을 과학기술정보통신부 주관 독자... AI 기반 B2B 영업·마케팅 솔루션 리캐치(운영사 비즈니스캔버스)는 LG화학 CX전략팀과 AI 를 활용한 글로벌...",
+          "src": "digitaltoday",
           "date": "08/03",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063539",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1063539_642565_4139_v150.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689094",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/689094_637163_23.png"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png"
+          "img": ""
         },
         {
           "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
@@ -195,7 +195,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘사운드바 12년 1위’ 삼성… 프리미엄 홈오디오 시장 공략 속도",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864533?sid=103",
-      "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080220270677212_1785670026_1785409859.jpg"
+      "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
+      "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -262,14 +262,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/08/02/20260802150505667831.jpg"
     },
     {
-      "title": "수도권 규제 막힌 인천…“소규모 ‘엣지 AI 데이터센터’ 키워야”",
-      "url": "https://ic.newdaily.co.kr/site/data/html/2026/08/03/2026080300005.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/03/2026080300005_0.jpg"
+      "title": "[비바100] 로봇이 용접하고 AI가 공정 짠다… 조선소의 이유 있는 진화",
+      "url": "https://www.viva100.com/article/20260802500016",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/02/.cache/512/20260802500006.jpg?v=20260803065025"
     },
     {
-      "title": "[사설] 주52시간 근로제 완화, 호남반도체에 국한할 일 아니다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864522?sid=110",
-      "img": "https://image.kmib.co.kr/online_image/2026/0803/2026080221364077514_1785674200_1785656571.jpg"
+      "title": "이더리움 11주년, 최고가 대비 61% 하락…가격과 금융 인프라의 엇갈린...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593940",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/593940_404570_1631_v150.jpg"
     }
   ]
 };
