@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 06:50",
+  "updatedAt": "2026.08.03 (월) 07:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,49 +31,49 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "84.67",
-        "diff": "+1.08",
-        "rate": "+1.29%",
-        "dir": "up"
+        "value": "79.74",
+        "diff": "-4.93",
+        "rate": "-5.82%",
+        "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,445.00",
-        "diff": "+18.80",
-        "rate": "+1.32%",
+        "value": "1,443.00",
+        "diff": "+16.80",
+        "rate": "+1.18%",
         "dir": "up"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "917.55",
-        "diff": "+24.47",
-        "rate": "+2.74%",
+        "value": "919.08",
+        "diff": "+26.00",
+        "rate": "+2.91%",
         "dir": "up"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.05",
-        "diff": "+0.15",
-        "rate": "+1.90%",
+        "value": "8.03",
+        "diff": "+0.13",
+        "rate": "+1.65%",
         "dir": "up"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.51",
-        "diff": "+0.07",
-        "rate": "+1.29%",
+        "value": "5.50",
+        "diff": "+0.06",
+        "rate": "+1.10%",
         "dir": "up"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.15",
-        "diff": "+0.24",
-        "rate": "+1.61%",
+        "value": "15.13",
+        "diff": "+0.22",
+        "rate": "+1.48%",
         "dir": "up"
       }
     ]
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
-          "desc": "SK하이닉스는 주로 메모리를 파는 회사지만 삼성전자는 스마트폰과 가전에 메모리를 넣는 구매자이기도 합니다. 올해 2분기 DS부문이 89조2000억원을 버는 동안 MX·네트워크사업은 높은 부품 가격 등의 영향으로 7000억원...",
-          "src": "블로터",
+          "title": "'명품'도 제친 삼성전자…백화점 가전매출 2배 늘었다",
+          "desc": "함께, 삼성전자 감사 페스티벌' 행사를 진행한 바 있다. 환급 금액이 20%인데다 개인별 한도 또한 없기 때문에 역대 최고 수준의 가전 할인 행사로 꼽혔다. 정부의 내수 진작 정책과 맞물리면서 소비자들이 대형 가전을...",
+          "src": "view",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005797770?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026073115184665913_1785478726.png"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
         },
         {
-          "title": "EU 'AI 법' 발효…삼성·LG, 유럽향 AI 가전 '투명성 표기' 선제 대응",
-          "desc": "삼성전자와 LG전자의 유럽 수출형 AI 스마트 가전은 세탁기, 냉장고, 식기세척기 등으로, 4단계 위험 분류(수용 불가·고위험·제한 위험·최소 위험) 중 '최소 위험' 범주로 분류됐다. 사용 패턴 학습, 에너지 최적화...",
-          "src": "아주경제",
-          "date": "08/02",
-          "url": "https://www.ajunews.com/view/20260802145635368",
-          "img": "https://image.ajunews.com/content/image/2026/08/02/20260802150505667831.jpg"
+          "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
+          "desc": "SK하이닉스는 주로 메모리를 파는 회사지만 삼성전자는 스마트폰과 가전에 메모리를 넣는 구매자이기도 합니다. 올해 2분기 DS부문이 89조2000억원을 버는 동안 MX·네트워크사업은 높은 부품 가격 등의 영향으로 7000억원...",
+          "src": "블로터",
+          "date": "08/03",
+          "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[비바100] 로봇이 용접하고 AI가 공정 짠다… 조선소의 이유 있는 진화",
-          "desc": "플랫폼’ 도입을 위한 본계약을 체결했다. 양 사는 AI와 디지털트윈 기술을 활용해 설계부터 생산, 공급망, 품질관리, 유지보수까지 선박 생애주기 전반을 하나의 데이터 플랫폼으로 연결하는 차세대 마린 플랫폼을 공동...",
-          "src": "브릿지경제",
+          "title": "경북도, 경산에 자동차부품 AI 자율제조 로봇 거점 구축",
+          "desc": "인공지능(AI) 자율제조 확산 거점을 구축한다.경북도는 국비 9억5000만원과 지방비 9억5000만원 등 총사업비... 현장에 도입하기 전에 테스트베드와 디지털트윈 시뮬레이션을 활용해 기술 적용 효과를 예측하고, 기업별...",
+          "src": "kbsm",
           "date": "08/03",
-          "url": "https://www.viva100.com/article/20260802500016",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/02/.cache/512/20260802500006.jpg?v=20260803065025"
+          "url": "https://www.kbsm.net/news/view.php?idx=528804",
+          "img": "https://www.kbsm.net/data/newsThumb/1785636776ADD_thumb780.jpg"
         },
         {
-          "title": "이더리움 11주년, 최고가 대비 61% 하락…가격과 금융 인프라의 엇갈린...",
-          "desc": "네트워크 활용도가 엇갈리는 흐름을 나타내고 있다. 코인리더스가 암호화폐 전문매체 크립토포테이토를... 기술 업그레이드도 이더리움의 향후 경쟁력을 좌우할 요소다. 이더리움 공식 로드맵에 따르면 글램스터담...",
-          "src": "cbci",
+          "title": "'다시는 국장 안한다'...외신도 놀란 한국 개미들의 절망",
+          "desc": "이후 장 막판에는 18%에 달하는 기술적 반등이 나타났지만, 개인투자자들은 오히려 대규모 순매도에 나서며... 블룸버그는 이번 급등락의 배경으로 정부가 지난 5월 도입한 단일 종목 레버리지 ETF를 지목했습니다. 정부는...",
+          "src": "biz",
           "date": "08/03",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593940",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/593940_404570_1631_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000525091?sid=104",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/07/30/Ua41785369990476-850.jpg"
         },
         {
-          "title": "경산시, 산업통상부 ‘2026년 로봇 플래그쉽 지역거점 구축사업’공모 ...",
-          "desc": "초거대AI클라우드팜센터와 연계해 실시간 로봇 관제 및 디지털 트윈 기반 시뮬레이션 환경을 조성하고 기업들이 자율제조 기술을 사전에 검증할 수 있도록 지원한다. 또 첨단 제조 로봇의 작동 원리와 활용 사례를 직접...",
-          "src": "헤럴드경제",
+          "title": "종로구 “전국 최초 ‘AI 4종’ 누리집”…필요한 정보만 쏙쏙",
+          "desc": "이에 AI 기술을 활용해 구민이 일상 언어로 자유롭게 대화하며 필요한 정보를 찾는 서비스를 자체 개발했다. 이번에 도입한 핵심 서비스는 △AI 민원 안내 챗봇 △AI 콘텐츠 요약 △AI 자연어 검색 △AI 다국어 번역 등 네...",
+          "src": "munhwa",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/016/0002678454?sid=102",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/03/news-p.v1.20260803.23994491ea464f48b4c53f32281e9013_T1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002808621?sid=102",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.ba4fb73e1a98403eaac525f2d098bf8f_R.jpg"
         },
         {
-          "title": "[AI핫이슈]거세지는 AI 가격 경쟁...오픈소스AI 글로벌 대세로",
-          "desc": "ㆍ영상 AI 모델판도 오픈웨이트 바람 부나?...미니맥스, 'H3' 공개 8월 있을 과학기술정보통신부 주관 독자... AI 기반 B2B 영업·마케팅 솔루션 리캐치(운영사 비즈니스캔버스)는 LG화학 CX전략팀과 AI 를 활용한 글로벌...",
-          "src": "digitaltoday",
+          "title": "美 CPT 코드 요건 뜯어보니…로킷헬스케어 수혜론에 ‘물음표’",
+          "desc": "인공지능(AI) 장기재생 플랫폼을 활용한 임상과 치료 과정을 미국 의료기관이 공식적으로 기록할 수 있게 됐다고 밝혔다. 다만 AMA가 공개한 코드 개정 원문을 살펴보면 로킷헬스케어의 기술에 직접 적용할 수...",
+          "src": "이데일리",
           "date": "08/03",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689094",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/689094_637163_23.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006342733?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080300072.1280x.0.png"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png"
         },
         {
           "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
@@ -195,7 +195,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "07/31",
           "url": "https://news.dealsitetv.com/articles/174098",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/1eb381992e8ff5f829c9f5fc5797e925/thumb.jpg"
+          "img": ""
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
-      "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
+      "title": "'명품'도 제친 삼성전자…백화점 가전매출 2배 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797770?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026073115184665913_1785478726.png"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
     },
     {
-      "title": "EU 'AI 법' 발효…삼성·LG, 유럽향 AI 가전 '투명성 표기' 선제 대응",
-      "url": "https://www.ajunews.com/view/20260802145635368",
-      "img": "https://image.ajunews.com/content/image/2026/08/02/20260802150505667831.jpg"
+      "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
+      "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
     },
     {
-      "title": "[비바100] 로봇이 용접하고 AI가 공정 짠다… 조선소의 이유 있는 진화",
-      "url": "https://www.viva100.com/article/20260802500016",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/02/.cache/512/20260802500006.jpg?v=20260803065025"
+      "title": "경북도, 경산에 자동차부품 AI 자율제조 로봇 거점 구축",
+      "url": "https://www.kbsm.net/news/view.php?idx=528804",
+      "img": "https://www.kbsm.net/data/newsThumb/1785636776ADD_thumb780.jpg"
     },
     {
-      "title": "이더리움 11주년, 최고가 대비 61% 하락…가격과 금융 인프라의 엇갈린...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593940",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/593940_404570_1631_v150.jpg"
+      "title": "'다시는 국장 안한다'...외신도 놀란 한국 개미들의 절망",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525091?sid=104",
+      "img": "https://img.biz.sbs.co.kr/upload/2026/07/30/Ua41785369990476-850.jpg"
     }
   ]
 };
