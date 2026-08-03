@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 06:59",
+  "updatedAt": "2026.08.04 (화) 08:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
-          "desc": "여기에 자동차와 반도체, 가전, 조선 등 로봇을 실제로 투입해 데이터를 축적할 대규모 제조 현장도... 한국은 현대차그룹뿐 아니라 삼성전자와 LG 등 국가대표 기업들이 피지컬 AI를 미래 경쟁력으로 내세우고 있다....",
-          "src": "한국경제",
+          "title": "삼성전자·LG전자가 만든 스마트 주거 플랫폼 '모듈러 주택'",
+          "desc": "목조 모듈러 주택 전문기업인 공간제작소가 지은 주택에 삼성전자의 AI 가전을 적용한 방식이다. 집 안의 모든 가전제품을 삼성전자의 스마트홈 플랫폼 '스마트싱스(SmartThings)'로 연결해 작동하는 구조다. AI를 활용해...",
+          "src": "조선일보",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
-          "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
+          "url": "http://woman.chosun.com/news/articleView.html?idxno=126363",
+          "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126363_155306_5714_v150.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
         },
         {
-          "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
-          "desc": "AI플랫폼 확장할 새 성장축 진화 ‘데이코 인수’ 삼성전자, 美 확장 LG전자, 유럽 겨냥 패키지 내놔 獨... 비스포크 AI 패밀리허브 냉장고 2026년형의 경우 구글 제미나이를 결합해 AI 비전의 식재료 인식 성능을 크게...",
-          "src": "서울신문",
+          "title": "\"삼성에 안 뺏겨\"… LG전자, 모듈러 주택 선발 주자 굳히기",
+          "desc": "삼성전자는 지난 6월 목조 모듈러 전문기업 공간제작소와 협력해 '삼성 AI 모듈러 홈'을 공개했다. 냉장고·세탁기·에어컨 등 집 안 가전을 스마트홈 플랫폼 '스마트싱스'로 연결해 AI 기반으로 제어하는 것이 핵심이다....",
+          "src": "조선일보",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167191",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167191_449228_456_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
-          "desc": "AI와 소프트웨어, 테슬라에 축적된 데이터를 활용해 로봇의 ‘두뇌’를 선점할 수 있다. 반면 로봇을 구동할... 계획하는 AI와 센싱 기술도 축적했다. 자동차 공장은 휴머노이드의 경제성을 가장 먼저 증명할 수 있는...",
-          "src": "한국경제",
+          "title": "'접근성'이 경쟁력…게임·e스포츠, 장애인 문턱 낮춘다 [엔터그알]",
+          "desc": "시각·청각·운동·인지 영역별 접근성 기능을 체계화해 개발 현장에서 활용할 수 있도록 하고, 향후에는... AI와 에듀테크를 체험할 수 있는 공간도 마련된다. 공연과 문화행사까지 함께 구성해 학생들이 디지털 기술을...",
+          "src": "news",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
-          "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026080316341454406",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/08/03/2026080316341454406_00_163.jpg"
         },
         {
-          "title": "북한 배후 해킹 공격이 전세계 절반 이상 차지",
-          "desc": "사칭해 기술 기업에 취업한 뒤 내부에서 해킹 활동을 벌였다는 것이다. 보고서는 페이머스 천리마가 인공지능(AI)을 악용하는 해킹 공격을 가했다고 덧붙였다. 보고서는 “기업들이 업무 효율을 위해 도입한 AI...",
-          "src": "뉴시스",
+          "title": "AI 활용 공간분석 시대로…국토부, ‘제4차 공간정보산업진흥계획’ 수...",
+          "desc": "GeoAI를 활용해 다양한 서비스도 확대 제공한다. 다양한 공간정보의 상호 운용성을 높이고 공간정보가 AI 등 신기술 분야와 융·복합될 수 있도록 기계가 읽을 수 있는 포맷 표준을 도입하고 공간정보 품질관리 자동화...",
+          "src": "lak",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/003/0014106130?sid=104",
-          "img": "https://img1.newsis.com/2023/04/05/NISI20230405_0001235328_web.jpg"
+          "url": "http://www.lak.co.kr/news/boardview.php?id=23628",
+          "img": ""
         },
         {
-          "title": "“AI로 뭘 하는데?” 점차 윤곽 보이는 은행권 AX",
-          "desc": "4일 금융권에 따르면 시중은행 중 일부는 AI 도입 사실을 공개하며 업무 활용에 본격적인 시동을 걸었다.... 이를 위해 대규모언어모델(LLM), 로봇프로세스자동화(RPA), 문서인식기술(OCR) 등 AI 모델에서 주로 사용되는...",
-          "src": "news2day",
+          "title": "무색해 진 '메가허브'...롯데글로벌로지스, 올 1분기 택배 영업이익률 ...",
+          "desc": "이에 업계에서는 추후 마련될 자금이 신규 성장 투자보다는 기존 설비투자(CAPEX) 집행에 우선 활용될... 롯데글로벌로지스는 AI, 디지털 트윈, 로컬 LLM, 로봇배송 등 미래 물류 기술에 대한 투자를 지속하겠다는 계획을...",
+          "src": "유스경제",
           "date": "08/04",
-          "url": "https://www.news2day.co.kr/article/20260803500251",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/03/.cache/512/20260803500254.png"
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=224347",
+          "img": "https://www.youthdaily.co.kr/data/design/logo/default_image_share_20250708130510.jpg"
         },
         {
-          "title": "AI 인프라 선점의 역설…빅테크 장기계약, 투자위험으로 돌아오나",
-          "desc": "창출에 활용될 수 있다고 설명했다. GPU는 수년, 데이터센터는 30년…커지는 기간 불일치 AI 인프라 장기계약이 위험으로 바뀔 수 있는 첫 번째 요인은 기술 변화다. GPU의 세대교체 주기는 데이터센터 임차 기간보다...",
-          "src": "IT데일리",
+          "title": "[김예령의 보험픽] 보험업계 AI, 속도보다 중요한 것은",
+          "desc": "중요한 것은 AI 자체보다 이를 어떻게 활용하고 책임질 것인지에 대한 기업의 역량이다. 보험업계에서도 AI를... 앞세워 AI 기술력을 적극 알리는 추세다. 그러나 기술 도입 속도가 빨라질수록 한계와 부작용도 드러나고...",
+          "src": "cstimes",
           "date": "08/04",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240755",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240755_246257_3217_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=715565",
+          "img": "https://www.cstimes.com/news/photo/202608/715565_635830_3431.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
-      "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
-      "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
+      "title": "삼성전자·LG전자가 만든 스마트 주거 플랫폼 '모듈러 주택'",
+      "url": "http://woman.chosun.com/news/articleView.html?idxno=126363",
+      "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126363_155306_5714_v150.jpg"
     },
     {
       "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
     },
     {
-      "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
+      "title": "\"삼성에 안 뺏겨\"… LG전자, 모듈러 주택 선발 주자 굳히기",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167191",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167191_449228_456_v150.jpg"
     },
     {
-      "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
-      "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
-      "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
+      "title": "'접근성'이 경쟁력…게임·e스포츠, 장애인 문턱 낮춘다 [엔터그알]",
+      "url": "https://news.mtn.co.kr/news-detail/2026080316341454406",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/08/03/2026080316341454406_00_163.jpg"
     },
     {
-      "title": "북한 배후 해킹 공격이 전세계 절반 이상 차지",
-      "url": "https://n.news.naver.com/mnews/article/003/0014106130?sid=104",
-      "img": "https://img1.newsis.com/2023/04/05/NISI20230405_0001235328_web.jpg"
+      "title": "무색해 진 '메가허브'...롯데글로벌로지스, 올 1분기 택배 영업이익률 ...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=224347",
+      "img": "https://www.youthdaily.co.kr/data/design/logo/default_image_share_20250708130510.jpg"
     },
     {
-      "title": "“AI로 뭘 하는데?” 점차 윤곽 보이는 은행권 AX",
-      "url": "https://www.news2day.co.kr/article/20260803500251",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/03/.cache/512/20260803500254.png"
+      "title": "[김예령의 보험픽] 보험업계 AI, 속도보다 중요한 것은",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=715565",
+      "img": "https://www.cstimes.com/news/photo/202608/715565_635830_3431.jpg"
     }
   ]
 };
