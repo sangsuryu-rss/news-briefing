@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 05:55",
+  "updatedAt": "2026.08.04 (화) 06:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
-          "desc": "AI플랫폼 확장할 새 성장축 진화 ‘데이코 인수’ 삼성전자, 美 확장 LG전자, 유럽 겨냥 패키지 내놔 獨 보쉬는 국내 쇼룸 오픈 ‘맞불’ 삼성전자, LG전자, 보쉬, 밀레 등 글로벌 가전업체들이 앞다퉈 빌트인(붙박이) 시장...",
-          "src": "서울신문",
+          "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
+          "desc": "여기에 자동차와 반도체, 가전, 조선 등 로봇을 실제로 투입해 데이터를 축적할 대규모 제조 현장도... 한국은 현대차그룹뿐 아니라 삼성전자와 LG 등 국가대표 기업들이 피지컬 AI를 미래 경쟁력으로 내세우고 있다....",
+          "src": "한국경제",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
+          "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
+          "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
+          "img": ""
         },
         {
           "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
         },
         {
-          "title": "고물가에도 스마트폰·자동차는 샀다",
-          "desc": "상품별로는 통신기기 거래액이 144.4% 급증했고 자동차·자동차용품(56.8%), 가전·전자(11.9%)도 크게... 데이터처 관계자는 “6월 말 종료된 개별소비세 인하와 테슬라 등 수입 전기차 수요 증가, 삼성전자의...",
+          "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
+          "desc": "AI플랫폼 확장할 새 성장축 진화 ‘데이코 인수’ 삼성전자, 美 확장 LG전자, 유럽 겨냥 패키지 내놔 獨... 비스포크 AI 패밀리허브 냉장고 2026년형의 경우 구글 제미나이를 결합해 AI 비전의 식재료 인식 성능을 크게...",
           "src": "서울신문",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667250?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803181944_O2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"'60만개 병상을 잡아라\" 특명...환자모니터링 시장 놓고 격전",
-          "desc": "규모의 도입 실적을 확보했다. 올해 초 코스닥 상장을 위한 공모 절차에 착수했고, 조달 자금은 북미·유럽 유통망 구축과 AI 기반 예측·진단 기술 고도화, 차세대 제품 임상시험 등에 투입할 계획이다. 휴이노는 심장질환...",
-          "src": "medicaltimes",
+          "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
+          "desc": "AI와 소프트웨어, 테슬라에 축적된 데이터를 활용해 로봇의 ‘두뇌’를 선점할 수 있다. 반면 로봇을 구동할... 계획하는 AI와 센싱 기술도 축적했다. 자동차 공장은 휴머노이드의 경제성을 가장 먼저 증명할 수 있는...",
+          "src": "한국경제",
           "date": "08/04",
-          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170002&ref=naverpc",
-          "img": "https://pds.medicaltimes.com/Thumnail/20260803/1785763344.jpg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
+          "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
         },
         {
-          "title": "\"자료조사는 AI, 최종 판단은 사람\"…증권사 AX 가속화",
-          "desc": "대형 증권사의 한 관계자는 \"AI를 활용하면서 공문과 업무 매뉴얼을 찾는 시간이 상당히 줄었다\"면서도 \"답변이 항상 정확한 것은 아니어서 직원이 출처와 내용을 다시 확인해야 한다\"고 말했다. 증권사들이 AI 도입에...",
+          "title": "북한 배후 해킹 공격이 전세계 절반 이상 차지",
+          "desc": "사칭해 기술 기업에 취업한 뒤 내부에서 해킹 활동을 벌였다는 것이다. 보고서는 페이머스 천리마가 인공지능(AI)을 악용하는 해킹 공격을 가했다고 덧붙였다. 보고서는 “기업들이 업무 효율을 위해 도입한 AI...",
+          "src": "뉴시스",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/003/0014106130?sid=104",
+          "img": "https://img1.newsis.com/2023/04/05/NISI20230405_0001235328_web.jpg"
+        },
+        {
+          "title": "“AI로 뭘 하는데?” 점차 윤곽 보이는 은행권 AX",
+          "desc": "4일 금융권에 따르면 시중은행 중 일부는 AI 도입 사실을 공개하며 업무 활용에 본격적인 시동을 걸었다.... 이를 위해 대규모언어모델(LLM), 로봇프로세스자동화(RPA), 문서인식기술(OCR) 등 AI 모델에서 주로 사용되는...",
           "src": "news2day",
           "date": "08/04",
-          "url": "https://www.news2day.co.kr/article/20260804500007",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/04/.cache/512/20260804500009.png"
+          "url": "https://www.news2day.co.kr/article/20260803500251",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/03/.cache/512/20260803500254.png"
         },
         {
-          "title": "AI·웨어러블 장착…더위 스마트 관리",
-          "desc": "안전 기술을 고도화하고 있다. 삼성전자는 경기 평택캠퍼스 신규 반도체 생산라인 건설 현장에 ‘갤럭시 워치’를 활용한 AI 열스트레스 관리 시스템을 도입했다. 스마트싱스 프로 안전관리 솔루션을 적용해 근로자의...",
-          "src": "서울신문",
+          "title": "AI 인프라 선점의 역설…빅테크 장기계약, 투자위험으로 돌아오나",
+          "desc": "창출에 활용될 수 있다고 설명했다. GPU는 수년, 데이터센터는 30년…커지는 기간 불일치 AI 인프라 장기계약이 위험으로 바뀔 수 있는 첫 번째 요인은 기술 변화다. GPU의 세대교체 주기는 데이터센터 임차 기간보다...",
+          "src": "IT데일리",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667251?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803182518_O2.jpg"
-        },
-        {
-          "title": "“정수장에 축적된 AI 데이터 기술 활용… 상수도 행정 공진화 실증”",
-          "desc": "AI를 전방위적으로 도입해 주목받는 김병기 부산시 상수도사업본부장에게 3일 그 배경과 과정, 효과 등에 대해 들어봤다. 김 본부장은 ‘스마트시티 공진화(共進化) 이론’을 정립하고 이 이론으로 부경대 과학기술정책학...",
-          "src": "서울신문",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667230?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000633_O2.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240755",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240755_246257_3217_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "정운찬 동반성장연구소 이사장 “적절한 이익 공유, 기업 선의 아닌 법...",
+          "desc": "“원래 자율주의자였다”고 한 정 이사장은 기업이 자발적으로 협력사와 이익을 나누는 것이 가장... 정 이사장은 최근 불거진 삼성전자와 SK하이닉스의 대규모 성과급 논란도 같은 문제의식에서 바라봤다. 성과를 낸...",
+          "src": "segye",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/022/0004148200?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/03/20260803517052.jpg"
+        },
         {
           "title": "[시노펙스 줌인]① 반도체 소부장으로 외연 확장…체질 전환 속도",
           "desc": "시노펙스 관계자는 \"2006년 포스코 협력사인 소재 기업 '신양피앤피'와 삼성전자 협력사인 부품 기업 '유원텔레콤'의 합병으로 시노펙스가 출범한 지 20년을 맞았다\"며 \"2030년 매출 1조원 달성을 목표로 FPCB 기술을...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/03",
           "url": "https://www.newsway.co.kr/news/view?ud=2026080310362345718",
           "img": "https://nimage.newsway.co.kr/photo/2026/07/22/20260722000041_1200.jpg"
-        },
-        {
-          "title": "지방소멸 대신 212조 신화 쓴 공무원들",
-          "desc": "당시 DRAM 시장의 96%는 삼성전자, SK하이닉스, 마이크론 3개사가 장악하고 있었고, 중국의 자체 생산 능력은... 개의 협력사가 허페이에 모여들며 '디스플레이 산업단지를 형성했습니다. 그런데 문제가 발생했습니다....",
-          "src": "ohmynews",
-          "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/047/0002524362?sid=101",
-          "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0802/A0003255901_T.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
-    },
-    {
-      "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
+      "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
+      "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
     },
     {
       "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
     },
     {
-      "title": "고물가에도 스마트폰·자동차는 샀다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667250?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803181944_O2.jpg"
+      "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
     },
     {
-      "title": "\"'60만개 병상을 잡아라\" 특명...환자모니터링 시장 놓고 격전",
-      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170002&ref=naverpc",
-      "img": "https://pds.medicaltimes.com/Thumnail/20260803/1785763344.jpg"
+      "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000109277?sid=101",
+      "img": "https://static.hankyung.com/photo/202607/AD.45197875.1.jpg"
     },
     {
-      "title": "\"자료조사는 AI, 최종 판단은 사람\"…증권사 AX 가속화",
-      "url": "https://www.news2day.co.kr/article/20260804500007",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/04/.cache/512/20260804500009.png"
+      "title": "북한 배후 해킹 공격이 전세계 절반 이상 차지",
+      "url": "https://n.news.naver.com/mnews/article/003/0014106130?sid=104",
+      "img": "https://img1.newsis.com/2023/04/05/NISI20230405_0001235328_web.jpg"
+    },
+    {
+      "title": "“AI로 뭘 하는데?” 점차 윤곽 보이는 은행권 AX",
+      "url": "https://www.news2day.co.kr/article/20260803500251",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/03/.cache/512/20260803500254.png"
     }
   ]
 };
