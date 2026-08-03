@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 18:23",
+  "updatedAt": "2026.08.03 (월) 21:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "2분기 역직구 39% 급증…직구는 14분기 만에 꺾여",
-          "desc": "7% 늘었다. 통신기기(144.4%)와 컴퓨터 및 주변기기(26.9%), 가전·전자(11.9%) 판매액이 크게 늘었는데 삼성전자가 온누리상품권 환급 행사를 시행한 영향으로 해석된다.",
-          "src": "서울경제",
+          "title": "K-컬처 타고 역직구 38% 급증…화장품·굿즈가 견인",
+          "desc": "4% 급증했다. 컴퓨터 및 주변기기, 가전·전자도 삼성전자 할인행사에 힘입어 각각 26.9%, 11.9% 증가했다. 자동차 및 자동차용품은 수입 전기차 수요 확대와 개별소비세 인하 영향으로 56.8% 늘었다. [스트레이트뉴스 ]",
+          "src": "straightnews",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/011/0004648115?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/03/rcv.YNA.20260712.PYH2026071204200001300_R.jpg"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308227",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/308227_218878_4523_v150.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "영어·AI로 미래 키운다…서천·아산 지역 맞춤형 교육 눈길",
-          "desc": "적극 활용해 눈길을 끌었다.첫째 날에는 한산중학교 강당에서 팀 매칭 및 빙고 게임 등 아이스브레이킹... 특히 초등학교 단계에서의 인공지능·소프트웨어(AI·SW) 교육은 단순한 정보 처리 기술 습득을 넘어, 미래 사회를...",
-          "src": "cctoday",
+          "title": "예산은 줄이고 항만·AI는 키운다…광양시, 650억원 재정 부족 대응 착수",
+          "desc": "등급제와 AI 기반 예산심사도 도입할 계획이다. 구조조정 과정에서도 시민 안전과 필수 복지, 미래 성장... 정부의 ‘피지컬 AI 항만 전략’에는 광양항을 기술 실증 거점으로 활용하고 가칭 첨단항만기술원 설립을...",
+          "src": "betanews",
           "date": "08/03",
-          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234269",
-          "img": "https://cdn.cctoday.co.kr/news/photo/202608/2234269_691562_5936.jpg"
+          "url": "https://www.betanews.net/article/view/beta202608030069",
+          "img": "https://www.betanews.net/data/beta/image/2026/08/03/beta20260803000077.jpg"
         },
         {
-          "title": "[사천 24시] 사천시, '대한민국 우주항공수도' 실현 청사진 공개",
-          "desc": "지원, AI 자율 제조 및 AX 실증 산단 구축, 드론·로봇 고중량 화물 배송 실증 등 첨단 미래 기술을 행정과... 긴급 도입하고 운행에 나선다. 사천시는 목재문화체험장 방문자센터에서 경사도가 있는 체험장까지의 도보...",
-          "src": "sisajournal",
+          "title": "[부박사]\"버티기냐 증여냐\"…보유세 인상, 시장의 선택?",
+          "desc": "신보연   1980년생, 고려대 경영학과 졸업, 건국대 부동산학 박사, 세종대학교 부동산AI융합학과 교수, 한국부동산경영학회 이사, 서울지방변호사회 분쟁조정위원회 위원, 서초구 도시계획위원회 위원, 과천도시공사 기술...",
+          "src": "조선일보",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/586/0000135132?sid=102",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202608/382123_389800_5911_v150.jpg"
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=70928",
+          "img": "https://cdn.monthly.chosun.com/news/photo/202608/70928_201921_2553.jpg"
         },
         {
-          "title": "LG전자 ES, 상반기 영업익 4843억… 눈에 보이는 실적 만든다",
-          "desc": "시스템을 활용해 전 세계 AI 데이터센터 시장의 급증하는 수요에 효과적으로 대응할 운영 구조를... 냉각 기술을 도입한다고 지난해 밝혔다. 양사는 전통 공랭식과 액체냉각 시스템을 함께 도입·연구해 AI...",
-          "src": "econovill",
+          "title": "디지털 기반 '제조업 혁신' 속도내는 경산",
+          "desc": "로봇 도입 전 성능과 생산성, 현장 적용 가능성을 종합적으로 검증할 수 있도록 지원한다. 조현일 경산시장은 \"이번 공모사업 선정으로 지역 기업들이 AI와 로봇 기술을 제조현장에 적극 활용할 수 있도록 실증 인프라와...",
+          "src": "idaegu",
           "date": "08/03",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=746986",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/746986_721200_139_v150.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=555665",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         },
         {
-          "title": "NIA·과기정통부, '모두의 AI 성장 사다리 프로젝트' 본격 출범",
-          "desc": "과학기술정보통신부는 3일 전남광주 오룡동 국립광주과학관에서 전 국민의 인공지능(AI) 활용 역량 제고와... 8월부터는 민간의 교육 플랫폼까지 연계 범위를 단계적으로 확대하고 로그인·회원 관리 체계를 도입해...",
-          "src": "daily",
+          "title": "대작 IP부터 K-인디까지, 차이나조이 2026을 채운 한국 게임",
+          "desc": "이는 게임플레이 메커니즘과 기술 활용, 예술 디자인 등에서 혁신적인 성과를 인정받은 것으로, '붉은사막... 시스템을 도입해 반복 플레이의 재미를 극대화했다. 차이나조이 현장 시연존에서는 4인 코옵(Co-op)...",
+          "src": "gamevu",
           "date": "08/03",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392249",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1392249_1572907_1148_v150.jpg"
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=59771",
+          "img": "https://cdn.gamevu.co.kr/news/photo/202608/59771_86834_3722.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "2분기 역직구 39% 급증…직구는 14분기 만에 꺾여",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648115?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/03/rcv.YNA.20260712.PYH2026071204200001300_R.jpg"
+      "title": "K-컬처 타고 역직구 38% 급증…화장품·굿즈가 견인",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308227",
+      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/308227_218878_4523_v150.jpg"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
     },
     {
-      "title": "영어·AI로 미래 키운다…서천·아산 지역 맞춤형 교육 눈길",
-      "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234269",
-      "img": "https://cdn.cctoday.co.kr/news/photo/202608/2234269_691562_5936.jpg"
+      "title": "예산은 줄이고 항만·AI는 키운다…광양시, 650억원 재정 부족 대응 착수",
+      "url": "https://www.betanews.net/article/view/beta202608030069",
+      "img": "https://www.betanews.net/data/beta/image/2026/08/03/beta20260803000077.jpg"
     },
     {
-      "title": "[사천 24시] 사천시, '대한민국 우주항공수도' 실현 청사진 공개",
-      "url": "https://n.news.naver.com/mnews/article/586/0000135132?sid=102",
-      "img": "https://cdn.sisajournal.com/news/thumbnail/202608/382123_389800_5911_v150.jpg"
+      "title": "[부박사]\"버티기냐 증여냐\"…보유세 인상, 시장의 선택?",
+      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70928",
+      "img": "https://cdn.monthly.chosun.com/news/photo/202608/70928_201921_2553.jpg"
     }
   ]
 };
