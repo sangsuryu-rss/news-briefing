@@ -186,18 +186,20 @@ def collect_section(sec):
 # 시장지표 (네이버 금융 실시간 시세) — 원자재·환율
 #   metal/energy: prices?page=1&pageSize=1 / exchange 동일. closePrice·fluctuations 사용
 # ─────────────────────────────────────────────────────────────
+# 각 지표의 '전일종가'(등락률 기준)는 사내 시장지표 프로그램과 동일 소스로 계산:
+#   환율=서울외국환중개(smbs, 공식 매매기준율) / LME=네이버 일별(CMDT_CDY) / 유가=네이버 일별(/prices)
 MARKET = [
     {"kind": "metals",   "code": "CMCU0",     "label": "LME 구리",     "unit": "$/톤",  "mult": 1, "dec": 0, "avg": True,
-     "avgDaily": {"cd": "CMDT_CDY", "fdtc": 2}},   # 전월평균은 사내 시장지표 프로그램과 동일 소스(네이버 일별 LME $/ton)
-    {"kind": "energy",   "code": "CLcv1",     "label": "국제유가 WTI", "unit": "$/bbl", "mult": 1, "dec": 2},
-    # 환율: 사내 시장지표 프로그램과 동일 구성 (달러·루피아·베트남동·유로·멕시코페소·위안·인도)
-    {"kind": "exchange", "code": "FX_USDKRW", "label": "달러",          "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_IDRKRW", "label": "루피아 (100)",   "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_VNDKRW", "label": "베트남 동 (100)", "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_EURKRW", "label": "유로",          "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_MXNKRW", "label": "멕시코 페소",    "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_CNYKRW", "label": "위안",          "unit": "원", "mult": 1, "dec": 2},
-    {"kind": "exchange", "code": "FX_INRKRW", "label": "인도 INR",      "unit": "원", "mult": 1, "dec": 2},
+     "avgDaily": {"cd": "CMDT_CDY", "fdtc": 2}},   # 전월평균·전일종가 모두 사내와 동일 소스(네이버 일별 LME $/ton)
+    {"kind": "energy",   "code": "CLcv1",     "label": "국제유가 WTI", "unit": "$/bbl", "mult": 1, "dec": 2},  # 전일종가=네이버 일별(/prices)
+    # 환율: 사내와 동일 구성·소스. 전일종가=서울외국환중개(smbs). ※위안 smbs코드는 CNH(역외).
+    {"kind": "exchange", "code": "FX_USDKRW", "label": "달러",          "unit": "원", "mult": 1, "dec": 2, "smbs": "USD"},
+    {"kind": "exchange", "code": "FX_IDRKRW", "label": "루피아 (100)",   "unit": "원", "mult": 1, "dec": 2, "smbs": "IDR", "smbsUnit": 100},
+    {"kind": "exchange", "code": "FX_VNDKRW", "label": "베트남 동 (100)", "unit": "원", "mult": 1, "dec": 2, "smbs": "VND", "smbsUnit": 100},
+    {"kind": "exchange", "code": "FX_EURKRW", "label": "유로",          "unit": "원", "mult": 1, "dec": 2, "smbs": "EUR"},
+    {"kind": "exchange", "code": "FX_MXNKRW", "label": "멕시코 페소",    "unit": "원", "mult": 1, "dec": 2, "smbs": "MXN"},
+    {"kind": "exchange", "code": "FX_CNYKRW", "label": "위안",          "unit": "원", "mult": 1, "dec": 2, "smbs": "CNH"},
+    {"kind": "exchange", "code": "FX_INRKRW", "label": "인도 INR",      "unit": "원", "mult": 1, "dec": 2, "smbs": "INR"},
 ]
 
 
@@ -280,6 +282,80 @@ def _prev_month_avg_daily(marketindex_cd, fdtc, mult):
     return sum(vals) / len(vals) if vals else None
 
 
+def _smbs_series(smbs_code, unit=1, days=30, idrvnd=False):
+    """서울외국환중개(공식 매매기준율) 일별 [(YYYY-MM-DD, 원/단위)] 최신순. 사내 프로그램과 동일 소스.
+    EUC-KR XML(<set label='YY.MM.DD' value='원'/>). 거래일만 포함. 실패 시 []."""
+    if not smbs_code:
+        return []
+    end = datetime.date.today()
+    begin = end - datetime.timedelta(days=days)
+    url = ("http://www.smbs.biz/ExRate/StdExRate_xml.jsp?arr_value=%s_%s_%s"
+           % (smbs_code, begin.isoformat(), end.isoformat()))
+    try:
+        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=6)
+        txt = r.content.decode("euc-kr", "replace")
+    except Exception:
+        return []
+    out = []
+    for label, val in re.findall(r"<set\b[^>]*label='([^']*)'[^>]*value='([^']*)'", txt):
+        m = re.match(r"(\d\d)\.(\d\d)\.(\d\d)", label.strip())
+        if not m:
+            continue
+        yy, mm, dd = m.groups()
+        try:
+            out.append(("20%s-%s-%s" % (yy, mm, dd), float(val) * unit))
+        except ValueError:
+            pass
+    out.sort(reverse=True)
+    if idrvnd and out:                # IDR/VND: 정상범위(1~50)로 10배수 자동보정
+        latest = abs(out[0][1]); factor = 1.0; guard = 0
+        while latest and latest < 1.0 and guard < 6:
+            factor *= 10; latest *= 10; guard += 1
+        while latest and latest > 50.0 and guard < 6:
+            factor /= 10; latest /= 10; guard += 1
+        if factor != 1.0:
+            out = [(d, v * factor) for d, v in out]
+    return [(d, round(v, 4)) for d, v in out]
+
+
+def _naver_prices_prev_close(kind, code):
+    """네이버 /prices 에서 직전 거래일(오늘 제외) 종가. 실패 시 None."""
+    try:
+        j = requests.get("https://api.stock.naver.com/marketindex/%s/%s/prices?page=1&pageSize=12" % (kind, code),
+                         headers={"User-Agent": "Mozilla/5.0"}, timeout=8).json()
+    except Exception:
+        return None
+    today = datetime.date.today().isoformat()
+    for x in (j or []):
+        d = str(x.get("localTradedAt", ""))[:10]
+        if d and d < today:
+            return _num(x.get("closePrice"))
+    return None
+
+
+def _prev_close(m):
+    """지표의 '전일종가'(직전 영업일 종가) — 사내 시장지표 프로그램과 동일 소스.
+    LME=네이버 일별(CMDT_CDY) / 환율=서울외국환중개(smbs) / 그 외·폴백=네이버 /prices. 실패 시 None."""
+    kind, mult = m["kind"], m.get("mult", 1)
+    today = datetime.date.today().isoformat()
+    # LME: 네이버 일별종가(CMDT_CDY) 직전일
+    if m.get("avgDaily"):
+        cd = m["avgDaily"]["cd"]; fdtc = m["avgDaily"].get("fdtc", 2)
+        for d, v in _naver_daily_quote(cd, fdtc=fdtc, max_pages=8):
+            if d < today:
+                return v * mult
+    # 환율: 서울외국환중개(공식 매매기준율) 직전 영업일
+    if kind == "exchange" and m.get("smbs"):
+        series = _smbs_series(m["smbs"], unit=m.get("smbsUnit", 1), days=14,
+                              idrvnd=(m["code"] in ("FX_IDRKRW", "FX_VNDKRW")))
+        for d, v in series:
+            if d < today:
+                return v
+    # 그 외(유가 등) / 폴백: 네이버 /prices 직전 거래일
+    v = _naver_prices_prev_close(kind, m["code"])
+    return v * mult if v is not None else None
+
+
 def _current_info(kind, code):
     """개별 endpoint = 현재값(환율은 하나은행 실시간, 원자재는 10분 지연).
     /prices(일별 마감가)와 달리 장중에도 갱신됨. exchange는 exchangeInfo로 감싸짐."""
@@ -297,16 +373,26 @@ def fetch_market():
         try:
             it = _current_info(m["kind"], m["code"])
             val = _num(it["closePrice"]) * m["mult"]
-            diff = _num(it["fluctuations"]) * m["mult"]
-            name = (it.get("fluctuationsType") or {}).get("name", "")
-            dirn = "up" if name == "RISING" else ("down" if name == "FALLING" else "flat")
             fmt = "{:,.%df}" % m["dec"]
+            prev = _prev_close(m)                  # 사내와 동일: 전일종가(직전 영업일 종가) 대비로 등락 계산
+            if prev and prev > 0:
+                d = val - prev
+                dirn = "up" if d > 0 else ("down" if d < 0 else "flat")
+                ratio = d / prev * 100
+                rate_str = ("+%.2f%%" % ratio) if d >= 0 else ("%.2f%%" % ratio)
+                diff_val = d
+            else:                                  # 폴백: 전일종가 수집 실패 시 네이버 기본 당일 등락률
+                diff_val = _num(it["fluctuations"]) * m["mult"]
+                name = (it.get("fluctuationsType") or {}).get("name", "")
+                dirn = "up" if name == "RISING" else ("down" if name == "FALLING" else "flat")
+                rate_str = ("+" if dirn == "up" else "") + str(it.get("fluctuationsRatio", "")) + "%"
             entry = {
                 "label": m["label"], "unit": m["unit"],
                 "value": fmt.format(val),
-                "diff": ("+" if diff >= 0 else "") + fmt.format(diff),
-                "rate": ("+" if dirn == "up" else "") + str(it.get("fluctuationsRatio", "")) + "%",
+                "diff": ("+" if diff_val >= 0 else "") + fmt.format(diff_val),
+                "rate": rate_str,
                 "dir": dirn,
+                "prev": fmt.format(prev) if prev else "",   # 전일종가(참고용)
             }
             if m.get("avg"):                       # 전월평균 대비 비교
                 avg = None
