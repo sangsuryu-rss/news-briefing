@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 07:15",
+  "updatedAt": "2026.08.03 (월) 13:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -31,50 +31,50 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.74",
-        "diff": "-4.93",
-        "rate": "-5.82%",
+        "value": "79.79",
+        "diff": "-4.88",
+        "rate": "-5.76%",
         "dir": "down"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,443.00",
-        "diff": "+16.80",
-        "rate": "+1.18%",
-        "dir": "up"
+        "value": "1,431.00",
+        "diff": "-9.00",
+        "rate": "-0.63%",
+        "dir": "down"
       },
       {
         "label": "엔 (100)",
         "unit": "원",
-        "value": "919.08",
-        "diff": "+26.00",
-        "rate": "+2.91%",
-        "dir": "up"
+        "value": "913.99",
+        "diff": "-1.23",
+        "rate": "-0.13%",
+        "dir": "down"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "8.03",
-        "diff": "+0.13",
-        "rate": "+1.65%",
-        "dir": "up"
+        "value": "7.95",
+        "diff": "-0.07",
+        "rate": "-0.87%",
+        "dir": "down"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
-        "value": "5.50",
-        "diff": "+0.06",
-        "rate": "+1.10%",
-        "dir": "up"
+        "value": "5.44",
+        "diff": "-0.05",
+        "rate": "-0.91%",
+        "dir": "down"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.13",
-        "diff": "+0.22",
-        "rate": "+1.48%",
-        "dir": "up"
+        "value": "15.03",
+        "diff": "-0.07",
+        "rate": "-0.46%",
+        "dir": "down"
       }
     ]
   },
@@ -86,12 +86,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'명품'도 제친 삼성전자…백화점 가전매출 2배 늘었다",
-          "desc": "함께, 삼성전자 감사 페스티벌' 행사를 진행한 바 있다. 환급 금액이 20%인데다 개인별 한도 또한 없기 때문에 역대 최고 수준의 가전 할인 행사로 꼽혔다. 정부의 내수 진작 정책과 맞물리면서 소비자들이 대형 가전을...",
-          "src": "view",
+          "title": "AI가 바꾼 삼성전기 부품 지도…MLCC값 올리고 장기계약 확대",
+          "desc": "AI용 고사양 제품 생산이 늘면서 스마트폰과 PC, 가전 등에 사용되는 범용 MLCC의 공급 여력도 줄어드는... 이날 삼성전자와 SK하이닉스 등 주요 반도체 종목이 약세를 보인 가운데 MLCC 장기계약과 가격 인상, FC-BGA 공급...",
+          "src": "데일리안",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/277/0005797770?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026073115184665913_1785478726.png"
+          "url": "https://n.news.naver.com/mnews/article/119/0003117626?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1785730681_1673857_m_1.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -110,12 +110,12 @@ window.NEWS_DATA = {
           "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
         },
         {
-          "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
-          "desc": "SK하이닉스는 주로 메모리를 파는 회사지만 삼성전자는 스마트폰과 가전에 메모리를 넣는 구매자이기도 합니다. 올해 2분기 DS부문이 89조2000억원을 버는 동안 MX·네트워크사업은 높은 부품 가격 등의 영향으로 7000억원...",
-          "src": "블로터",
+          "title": "[모듈러 홈 전쟁] [삼성전자] 가전 부진 돌파구…노태문의 선택, 김철기...",
+          "desc": "②AI Home 생태계 확장 본격화…생활가전 새 성장축 육성 생활가전 시장 성장세가 둔화하는 가운데 삼성전자... 냉장고와 세탁기 등 백색가전은 교체 수요 둔화와 중국 업체들의 저가 공세로 성장성이 예전만 못하다는...",
+          "src": "dealsite",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
+          "url": "https://dealsite.co.kr/articles/166380",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/75f5230773034e62b34a21376594612f/thumb.jpg"
         }
       ]
     },
@@ -126,36 +126,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경북도, 경산에 자동차부품 AI 자율제조 로봇 거점 구축",
-          "desc": "인공지능(AI) 자율제조 확산 거점을 구축한다.경북도는 국비 9억5000만원과 지방비 9억5000만원 등 총사업비... 현장에 도입하기 전에 테스트베드와 디지털트윈 시뮬레이션을 활용해 기술 적용 효과를 예측하고, 기업별...",
-          "src": "kbsm",
+          "title": "AI가 요약·검색·번역까지…종로, 전국 최초 ‘AI 4종’ 홈페이지",
+          "desc": "외국인 주민이나 관광객이 언어 장벽을 넘어 행정 정보를 활용할 수 있을 것으로 기대된다. 구는 민간기업과 업무협약을 맺어 이번 사업을 무상으로 구축해 재정 부담을 최소화했다. 유찬종 구청장은 “신기술 도입으로...",
+          "src": "서울신문",
           "date": "08/03",
-          "url": "https://www.kbsm.net/news/view.php?idx=528804",
-          "img": "https://www.kbsm.net/data/newsThumb/1785636776ADD_thumb780.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003667004?sid=102",
+          "img": "https://imggo.seoul.co.kr/img/go_share.png"
         },
         {
-          "title": "'다시는 국장 안한다'...외신도 놀란 한국 개미들의 절망",
-          "desc": "이후 장 막판에는 18%에 달하는 기술적 반등이 나타났지만, 개인투자자들은 오히려 대규모 순매도에 나서며... 블룸버그는 이번 급등락의 배경으로 정부가 지난 5월 도입한 단일 종목 레버리지 ETF를 지목했습니다. 정부는...",
-          "src": "biz",
+          "title": "신한은행, 금융권 첫 '감정평가서 AI 점검' 도입",
+          "desc": "업무에 AI를 도입했다. 신한은행은 부동산 담보대출 심사 과정에서 활용되는 감정평가서를 자동으로... 감정평가서 AI 점검 Agent는 대규모언어모델(LLM), 로봇프로세스자동화(RPA), 광학문자인식(OCR) 기술을 결합해...",
+          "src": "megaeconomy",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/374/0000525091?sid=104",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/07/30/Ua41785369990476-850.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586130749981",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260803/p1065586130749981_485_thum.jpg"
         },
         {
-          "title": "종로구 “전국 최초 ‘AI 4종’ 누리집”…필요한 정보만 쏙쏙",
-          "desc": "이에 AI 기술을 활용해 구민이 일상 언어로 자유롭게 대화하며 필요한 정보를 찾는 서비스를 자체 개발했다. 이번에 도입한 핵심 서비스는 △AI 민원 안내 챗봇 △AI 콘텐츠 요약 △AI 자연어 검색 △AI 다국어 번역 등 네...",
-          "src": "munhwa",
+          "title": "경산시, 산업부 로봇 플래그십 거점 사업 선정…AI 자율제조 실증 거점...",
+          "desc": "주관기관인 경북IT융합산업기술원과 참여기관인 한국섬유기계융합연구원이 사업을 이끄는 가운데, 지역 제조기업들이 AI·로봇 기술 도입 전 성능과 활용성을 미리...",
+          "src": "breaknews",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/021/0002808621?sid=102",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.ba4fb73e1a98403eaac525f2d098bf8f_R.jpg"
+          "url": "http://www.breaknews.com/1226192",
+          "img": "https://dk.breaknews.com/imgdata/dk_breaknews_com/202608/2026080333238630.jpg"
         },
         {
-          "title": "美 CPT 코드 요건 뜯어보니…로킷헬스케어 수혜론에 ‘물음표’",
-          "desc": "인공지능(AI) 장기재생 플랫폼을 활용한 임상과 치료 과정을 미국 의료기관이 공식적으로 기록할 수 있게 됐다고 밝혔다. 다만 AMA가 공개한 코드 개정 원문을 살펴보면 로킷헬스케어의 기술에 직접 적용할 수...",
-          "src": "이데일리",
+          "title": "데이터 기반 광고 시대 개막…관련 기업 재평가",
+          "desc": "기업들은 소비자 데이터를 활용한 맞춤형 광고에 투자를 확대하고 있으며, 이에 따라 광고 대행과 플랫폼... 광고 산업은 AI 기술 도입으로 새로운 성장 국면에 진입하고 있다. 과거 단순 광고 집행에서 벗어나 소비자...",
+          "src": "핀포인트뉴스",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/018/0006342733?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080300072.1280x.0.png"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473838",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/473838_461157_1842_v150.jpg"
         }
       ]
     },
@@ -165,6 +165,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[단독]사전예약 3배 뛰자…삼성, 갤럭시Z폴드8 부품 긴급 증산",
+          "desc": "3일 관련 업계에 따르면 삼성전자는 최근 국내 초박형 강화유리(UTG) 협력사에 갤럭시Z폴드8용 부품 생산을 늘려달라고 요청했다. 삼성전자의 주요 UTG 협력사는 도우인시스와 이코니 등이다. 이번 증산은 사전예약 기간...",
+          "src": "newsway",
+          "date": "08/03",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026080310362345718",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/22/20260722000041_1200.jpg"
+        },
         {
           "title": "지방소멸 대신 212조 신화 쓴 공무원들",
           "desc": "당시 DRAM 시장의 96%는 삼성전자, SK하이닉스, 마이크론 3개사가 장악하고 있었고, 중국의 자체 생산 능력은... 개의 협력사가 허페이에 모여들며 '디스플레이 산업단지를 형성했습니다. 그런데 문제가 발생했습니다....",
@@ -179,7 +187,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png"
+          "img": ""
         },
         {
           "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
@@ -188,14 +196,6 @@ window.NEWS_DATA = {
           "date": "07/31",
           "url": "https://www.econovill.com/news/articleView.html?idxno=746844",
           "img": "https://cdn.econovill.com/news/thumbnail/202607/746844_720991_2051_v150.jpg"
-        },
-        {
-          "title": "[재계 투데이] LG디스플레이, 국민성장펀드 지원기업 선정 外",
-          "desc": "이번 투자가 집중되는 파주를 비롯한 경기 지역의 고용과 국내 소재·부품·장비 협력사에도 긍정적인... ◆삼성전자, EHS 히트펌프 보일러 공급 삼성전자가 제주 애월 지역 단독주택에 가정용 'EHS 히트펌프 보일러...",
-          "src": "news",
-          "date": "07/31",
-          "url": "https://news.dealsitetv.com/articles/174098",
-          "img": ""
         }
       ]
     },
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'명품'도 제친 삼성전자…백화점 가전매출 2배 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797770?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026073115184665913_1785478726.png"
+      "title": "AI가 바꾼 삼성전기 부품 지도…MLCC값 올리고 장기계약 확대",
+      "url": "https://n.news.naver.com/mnews/article/119/0003117626?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1785730681_1673857_m_1.jpg"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -257,19 +257,19 @@ window.NEWS_DATA = {
       "img": "https://img.tf.co.kr/article/home/2026/07/31/202657821785482225.jpg"
     },
     {
-      "title": "[박종면칼럼] 삼전닉스 최대 리스크는 '70%대 영업이익률'",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088487?sid=110",
-      "img": "https://cdn.bloter.net/news/thumbnail/202608/669795_282816_4623_v150.jpg"
+      "title": "[모듈러 홈 전쟁] [삼성전자] 가전 부진 돌파구…노태문의 선택, 김철기...",
+      "url": "https://dealsite.co.kr/articles/166380",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/07/31/75f5230773034e62b34a21376594612f/thumb.jpg"
     },
     {
-      "title": "경북도, 경산에 자동차부품 AI 자율제조 로봇 거점 구축",
-      "url": "https://www.kbsm.net/news/view.php?idx=528804",
-      "img": "https://www.kbsm.net/data/newsThumb/1785636776ADD_thumb780.jpg"
+      "title": "AI가 요약·검색·번역까지…종로, 전국 최초 ‘AI 4종’ 홈페이지",
+      "url": "https://n.news.naver.com/mnews/article/081/0003667004?sid=102",
+      "img": "https://imggo.seoul.co.kr/img/go_share.png"
     },
     {
-      "title": "'다시는 국장 안한다'...외신도 놀란 한국 개미들의 절망",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525091?sid=104",
-      "img": "https://img.biz.sbs.co.kr/upload/2026/07/30/Ua41785369990476-850.jpg"
+      "title": "신한은행, 금융권 첫 '감정평가서 AI 점검' 도입",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586130749981",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260803/p1065586130749981_485_thum.jpg"
     }
   ]
 };
