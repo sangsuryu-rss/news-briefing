@@ -187,13 +187,17 @@ def collect_section(sec):
 #   metal/energy: prices?page=1&pageSize=1 / exchange 동일. closePrice·fluctuations 사용
 # ─────────────────────────────────────────────────────────────
 MARKET = [
-    {"kind": "metals",   "code": "CMCU0",     "label": "LME 구리",     "unit": "$/톤",  "mult": 1,       "dec": 0, "avg": True},
-    {"kind": "energy",   "code": "CLcv1",     "label": "국제유가 WTI", "unit": "$/bbl", "mult": 1,       "dec": 2},
-    {"kind": "exchange", "code": "FX_USDKRW", "label": "달러",         "unit": "원",    "mult": 1,       "dec": 2},
-    {"kind": "exchange", "code": "FX_JPYKRW", "label": "엔 (100)",     "unit": "원",    "mult": 1,       "dec": 2},
-    {"kind": "exchange", "code": "FX_IDRKRW", "label": "루피아 (100)", "unit": "원",    "mult": 1,       "dec": 2},
-    {"kind": "exchange", "code": "FX_VNDKRW", "label": "베트남 동 (100)", "unit": "원", "mult": 1,       "dec": 2},
-    {"kind": "exchange", "code": "FX_INRKRW", "label": "인도 INR",     "unit": "원",    "mult": 1,       "dec": 2},
+    {"kind": "metals",   "code": "CMCU0",     "label": "LME 구리",     "unit": "$/톤",  "mult": 1, "dec": 0, "avg": True,
+     "avgDaily": {"cd": "CMDT_CDY", "fdtc": 2}},   # 전월평균은 사내 시장지표 프로그램과 동일 소스(네이버 일별 LME $/ton)
+    {"kind": "energy",   "code": "CLcv1",     "label": "국제유가 WTI", "unit": "$/bbl", "mult": 1, "dec": 2},
+    # 환율: 사내 시장지표 프로그램과 동일 구성 (달러·루피아·베트남동·유로·멕시코페소·위안·인도)
+    {"kind": "exchange", "code": "FX_USDKRW", "label": "달러",          "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_IDRKRW", "label": "루피아 (100)",   "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_VNDKRW", "label": "베트남 동 (100)", "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_EURKRW", "label": "유로",          "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_MXNKRW", "label": "멕시코 페소",    "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_CNYKRW", "label": "위안",          "unit": "원", "mult": 1, "dec": 2},
+    {"kind": "exchange", "code": "FX_INRKRW", "label": "인도 INR",      "unit": "원", "mult": 1, "dec": 2},
 ]
 
 
@@ -235,6 +239,47 @@ def _prev_month_avg(kind, code, mult):
     return sum(vals) / len(vals) if vals else None
 
 
+def _naver_daily_quote(marketindex_cd, fdtc=2, max_pages=12):
+    """네이버 금융 worldDailyQuote(일별 시세) HTML 표 → [(YYYY-MM-DD, 종가), ...] 최신순.
+    구리(전기동) CMDT_CDY = LME 기준 $/ton 종가를 직접 제공(사내 시장지표 프로그램과 동일 소스).
+    EUC-KR HTML 표를 정규식으로 파싱. 실패 시 []."""
+    base = "https://finance.naver.com/marketindex/worldDailyQuote.naver"
+    acc = {}
+    row_re = re.compile(r"(\d{4}\.\d{2}\.\d{2})\s*</td>\s*<td[^>]*>\s*([\d,]+\.?\d*)")
+    empty = 0
+    for page in range(1, max_pages + 1):
+        url = "%s?marketindexCd=%s&fdtc=%d&page=%d" % (base, marketindex_cd, fdtc, page)
+        try:
+            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+            txt = r.content.decode("euc-kr", "replace")
+        except Exception:
+            break
+        found = row_re.findall(txt)
+        if not found:                              # 형식 변화 대비 느슨한 재시도
+            found = re.findall(r"(\d{4}\.\d{2}\.\d{2})[^\d]+([\d,]+\.\d{2})", txt)
+        if not found:
+            empty += 1
+            if empty >= 2:                         # 연속 2페이지 비면 종료
+                break
+            continue
+        empty = 0
+        for d, v in found:
+            acc[d.replace(".", "-")] = _num(v)
+    return sorted(acc.items(), reverse=True)
+
+
+def _prev_month_avg_daily(marketindex_cd, fdtc, mult):
+    """worldDailyQuote 일별종가에서 직전 달(전월) 평균. 사내 시장지표 프로그램과 동일 계산. 실패 시 None."""
+    daily = _naver_daily_quote(marketindex_cd, fdtc=fdtc, max_pages=20)
+    if not daily:
+        return None
+    cur_m = daily[0][0][:7]
+    y, mo = int(cur_m[:4]), int(cur_m[5:7])
+    pm = "%04d-%02d" % ((y, mo - 1) if mo > 1 else (y - 1, 12))
+    vals = [c * mult for d, c in daily if d[:7] == pm and c]
+    return sum(vals) / len(vals) if vals else None
+
+
 def _current_info(kind, code):
     """개별 endpoint = 현재값(환율은 하나은행 실시간, 원자재는 10분 지연).
     /prices(일별 마감가)와 달리 장중에도 갱신됨. exchange는 exchangeInfo로 감싸짐."""
@@ -264,7 +309,12 @@ def fetch_market():
                 "dir": dirn,
             }
             if m.get("avg"):                       # 전월평균 대비 비교
-                avg = _prev_month_avg(m["kind"], m["code"], m["mult"])
+                avg = None
+                if m.get("avgDaily"):              # 사내 프로그램과 동일 소스(네이버 일별) 우선
+                    ad_cfg = m["avgDaily"]
+                    avg = _prev_month_avg_daily(ad_cfg["cd"], ad_cfg.get("fdtc", 2), m["mult"])
+                if avg is None:                    # 실패 시 기존 방식(/prices 평균)으로 폴백
+                    avg = _prev_month_avg(m["kind"], m["code"], m["mult"])
                 if avg:
                     ad = val - avg
                     entry["avg"] = fmt.format(avg)

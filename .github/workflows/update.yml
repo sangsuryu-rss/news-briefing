@@ -1,34 +1,40 @@
 name: update-news
 
+# 매일 아침 08:00 (KST) 자동 실행 + 수동 실행 버튼
 on:
   schedule:
-    - cron: '0 21,1,5,9,13,17 * * *'
-  workflow_dispatch:
+    # 1시간마다 (매시 정각) — 시장지표를 사내 프로그램에 가깝게 최신화
+    - cron: '0 * * * *'
+  workflow_dispatch:            # Actions 탭에서 손으로도 돌릴 수 있음
 
 permissions:
-  contents: write
+  contents: write               # news.js 커밋/푸시 권한
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: 저장소 체크아웃
         uses: actions/checkout@v4
-      - name: setup-python
+
+      - name: 파이썬 준비
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: install
+
+      - name: 라이브러리 설치
         run: pip install requests
-      - name: collect
+
+      - name: 뉴스 수집 (news.js 생성)
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python collect.py
-      - name: commit
+
+      - name: 변경분 커밋 & 푸시
         run: |
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git add news.js
-          git commit -m "auto: news update" || echo "no change"
+          git commit -m "chore: 뉴스 자동 갱신 ($(date -u +%Y-%m-%d))" || echo "변경 사항 없음 — 건너뜀"
           git push
