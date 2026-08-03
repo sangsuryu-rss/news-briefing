@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 00:38",
+  "updatedAt": "2026.08.04 (화) 02:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
         },
         {
           "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"35명 중 32명 낙제\"…시험지에 'AI 함정' 숨긴 美교수",
+          "desc": "지난달 25일(현지 시간) 미국 과학·기술 매체 퓨처리즘에 따르면, 미국 미시시피주 알콘 주립대학교 역사학 교수 제이슨 깁슨은 최근 중간고사 답안 작성 지시문에 흰색 글씨로 숨겨둔 문장을 삽입해 AI를 활용한 답안...",
+          "src": "뉴시스",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/003/0014106019?sid=104",
+          "img": "https://img1.newsis.com/2026/08/03/NISI20260803_0002203249_web.jpg"
+        },
+        {
           "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
           "desc": "AX는 생산성 제고를 위한 AI 기술 접목이다. 우리 제조업의 AI 활용률은 2.7%에 불과한 실정이다. 제조업의 AI... 제도 하나, 규제 하나 도입할 때마다 경제적 영향을 신중히 고려해야 한다. 보호무역, 글로벌 공급망 재편...",
           "src": "kmib",
@@ -75,14 +83,6 @@ window.NEWS_DATA = {
           "date": "08/04",
           "url": "https://n.news.naver.com/mnews/article/087/0001209105?sid=102",
           "img": ""
-        },
-        {
-          "title": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 ...",
-          "desc": "둘째, 실제 전장에서 입증된 기술력이다. 러시아-우크라이나 전쟁과 중동 분쟁 등에서 우크라이나군과 미군의 드론 작전 및 타격 목표 선정에 팔란티어 AI 소프트웨어가 활용되어 가시적인 전과를 올리며 단순...",
-          "src": "g-enews",
-          "date": "08/04",
-          "url": "https://www.g-enews.com/view.php?ud=202608030859144168906806b77b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080309112801992906806b77b183988628.jpg"
         },
         {
           "title": "\"폭염 속 가축 지켜라\"...퇴직 공무원이 구원투수로",
@@ -182,6 +182,11 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsverse.kr/news/thumbnail/202608/11084_19084_501_v150.jpg"
     },
     {
+      "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
+    },
+    {
       "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
       "url": "https://n.news.naver.com/mnews/article/081/0003667024?sid=101",
       "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
     },
     {
+      "title": "\"35명 중 32명 낙제\"…시험지에 'AI 함정' 숨긴 美교수",
+      "url": "https://n.news.naver.com/mnews/article/003/0014106019?sid=104",
+      "img": "https://img1.newsis.com/2026/08/03/NISI20260803_0002203249_web.jpg"
+    },
+    {
       "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
       "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
       "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
-    },
-    {
-      "title": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 ...",
-      "url": "https://www.g-enews.com/view.php?ud=202608030859144168906806b77b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080309112801992906806b77b183988628.jpg"
-    },
-    {
-      "title": "\"폭염 속 가축 지켜라\"...퇴직 공무원이 구원투수로",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388466?sid=102",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0804/202608040000172250_t.jpg"
     }
   ]
 };
