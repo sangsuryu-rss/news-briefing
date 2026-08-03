@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 04:19",
+  "updatedAt": "2026.08.04 (화) 05:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오늘의 경제뉴스] 반도체 인재전쟁...억대 성과급 뒤에 숨은 SK하이닉스...",
-          "desc": "하이닉스가 메모리를 중심으로 움직이는 기업이라면 삼성전자는 메모리와 파운드리, 스마트폰, 가전 등 여러 사업을 함께 운영한다. 한 사업부가 낸 초과이익을 보상 공식에 연결하려면 사업부 간 형평성과 투자 재원...",
-          "src": "newsverse",
+          "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
+          "desc": "AI플랫폼 확장할 새 성장축 진화 ‘데이코 인수’ 삼성전자, 美 확장 LG전자, 유럽 겨냥 패키지 내놔 獨 보쉬는 국내 쇼룸 오픈 ‘맞불’ 삼성전자, LG전자, 보쉬, 밀레 등 글로벌 가전업체들이 앞다퉈 빌트인(붙박이) 시장...",
+          "src": "서울신문",
           "date": "08/04",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11084",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202608/11084_19084_501_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
         },
         {
-          "title": "가전 넘어 주택·에너지로…삼성·LG전자, 주거시장 '승부수'",
-          "desc": "에어컨과 히트펌프 보일러, 냉장고, TV, 홈캠 등 20여종의 연동 기기를 설계 단계에서 선택할 수 있다. 보안과 화재·누수 감지, 에너지 절약 기능도 하나의 플랫폼에서 관리한다. 삼성전자는 향후 공동주택과 오피스...",
-          "src": "m-i",
-          "date": "08/03",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1398210",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
+          "title": "고물가에도 스마트폰·자동차는 샀다",
+          "desc": "상품별로는 통신기기 거래액이 144.4% 급증했고 자동차·자동차용품(56.8%), 가전·전자(11.9%)도 크게... 데이터처 관계자는 “6월 말 종료된 개별소비세 인하와 테슬라 등 수입 전기차 수요 증가, 삼성전자의...",
+          "src": "서울신문",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/081/0003667250?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803181944_O2.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[패트롤] 인천시-인천경제자유구역청",
-          "desc": "처음 도입된 공식 애플리케이션은 GPS 기반 행사장 안내, 실시간 혼잡도, 공연 일정과 공지사항 등을 제공해... 실시…AI 활용 등 신규 문항 반영 인천시, 제9기 귀어학교 교육생 모집…8월 31일까지 25명 선발 인천...",
-          "src": "ekn",
+          "title": "\"'60만개 병상을 잡아라\" 특명...환자모니터링 시장 놓고 격전",
+          "desc": "규모의 도입 실적을 확보했다. 올해 초 코스닥 상장을 위한 공모 절차에 착수했고, 조달 자금은 북미·유럽 유통망 구축과 AI 기반 예측·진단 기술 고도화, 차세대 제품 임상시험 등에 투입할 계획이다. 휴이노는 심장질환...",
+          "src": "medicaltimes",
           "date": "08/04",
-          "url": "https://www.ekn.kr/web/view.php?key=20260804021519177",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.24681b57bdc14a0e9f5aa0d8f3aa9282_R.jpeg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170002&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260803/1785763344.jpg"
         },
         {
-          "title": "[패트롤] 오산시-이천시-평택시-화성시",
-          "desc": "평택시는 초거대 언어모델(LLM)과 멀티모달 비전 AI 기술을 활용한 '온프레미스 기반 요양원 어르신 행동 예측 및 이상징후 조기 탐지 시스템'을 도입할 계획이다. 시는 초고령사회 진입과 함께 요양시설의 돌봄 수요가...",
-          "src": "ekn",
+          "title": "\"자료조사는 AI, 최종 판단은 사람\"…증권사 AX 가속화",
+          "desc": "대형 증권사의 한 관계자는 \"AI를 활용하면서 공문과 업무 매뉴얼을 찾는 시간이 상당히 줄었다\"면서도 \"답변이 항상 정확한 것은 아니어서 직원이 출처와 내용을 다시 확인해야 한다\"고 말했다. 증권사들이 AI 도입에...",
+          "src": "news2day",
           "date": "08/04",
-          "url": "https://www.ekn.kr/web/view.php?key=20260804021489204",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.90ee1140087c4ef19f5275fc54ccd1de_R.jpg"
+          "url": "https://www.news2day.co.kr/article/20260804500007",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/04/.cache/512/20260804500009.png"
         },
         {
-          "title": "\"35명 중 32명 낙제\"…시험지에 'AI 함정' 숨긴 美교수",
-          "desc": "지난달 25일(현지 시간) 미국 과학·기술 매체 퓨처리즘에 따르면, 미국 미시시피주 알콘 주립대학교 역사학 교수 제이슨 깁슨은 최근 중간고사 답안 작성 지시문에 흰색 글씨로 숨겨둔 문장을 삽입해 AI를 활용한 답안...",
-          "src": "뉴시스",
+          "title": "AI·웨어러블 장착…더위 스마트 관리",
+          "desc": "안전 기술을 고도화하고 있다. 삼성전자는 경기 평택캠퍼스 신규 반도체 생산라인 건설 현장에 ‘갤럭시 워치’를 활용한 AI 열스트레스 관리 시스템을 도입했다. 스마트싱스 프로 안전관리 솔루션을 적용해 근로자의...",
+          "src": "서울신문",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/003/0014106019?sid=104",
-          "img": "https://img1.newsis.com/2026/08/03/NISI20260803_0002203249_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003667251?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803182518_O2.jpg"
         },
         {
-          "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
-          "desc": "AX는 생산성 제고를 위한 AI 기술 접목이다. 우리 제조업의 AI 활용률은 2.7%에 불과한 실정이다. 제조업의 AI... 제도 하나, 규제 하나 도입할 때마다 경제적 영향을 신중히 고려해야 한다. 보호무역, 글로벌 공급망 재편...",
-          "src": "kmib",
+          "title": "“정수장에 축적된 AI 데이터 기술 활용… 상수도 행정 공진화 실증”",
+          "desc": "AI를 전방위적으로 도입해 주목받는 김병기 부산시 상수도사업본부장에게 3일 그 배경과 과정, 효과 등에 대해 들어봤다. 김 본부장은 ‘스마트시티 공진화(共進化) 이론’을 정립하고 이 이론으로 부경대 과학기술정책학...",
+          "src": "서울신문",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
-          "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003667230?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000633_O2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오늘의 경제뉴스] 반도체 인재전쟁...억대 성과급 뒤에 숨은 SK하이닉스...",
-      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11084",
-      "img": "https://cdn.newsverse.kr/news/thumbnail/202608/11084_19084_501_v150.jpg"
+      "title": "빌트인 가전의 반전, ‘AI홈’ 전쟁 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003667243?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/04/SSC_20260804000503_O2.png"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
     },
     {
-      "title": "가전 넘어 주택·에너지로…삼성·LG전자, 주거시장 '승부수'",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1398210",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
+      "title": "고물가에도 스마트폰·자동차는 샀다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003667250?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803181944_O2.jpg"
     },
     {
-      "title": "[패트롤] 인천시-인천경제자유구역청",
-      "url": "https://www.ekn.kr/web/view.php?key=20260804021519177",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.24681b57bdc14a0e9f5aa0d8f3aa9282_R.jpeg"
+      "title": "\"'60만개 병상을 잡아라\" 특명...환자모니터링 시장 놓고 격전",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170002&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20260803/1785763344.jpg"
     },
     {
-      "title": "[패트롤] 오산시-이천시-평택시-화성시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260804021489204",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.90ee1140087c4ef19f5275fc54ccd1de_R.jpg"
+      "title": "\"자료조사는 AI, 최종 판단은 사람\"…증권사 AX 가속화",
+      "url": "https://www.news2day.co.kr/article/20260804500007",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/04/.cache/512/20260804500009.png"
     }
   ]
 };
