@@ -76,19 +76,6 @@ header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap
 .rank-ttl{padding:6px 8px 8px;font-size:11.5px;font-weight:600;line-height:1.4;color:#1a1a1a;word-break:keep-all}
 .rank-more{padding:7px 12px;text-align:right;background:#fafafa;border-top:1px solid #f0f0f0}
 .rank-more a{font-size:11px;color:#1428a0;text-decoration:none;font-weight:600}
-.mkt-row{display:flex;align-items:center;justify-content:space-between;padding:9px 14px;border-bottom:1px solid #f2f4f8}
-.mkt-row:last-child{border-bottom:none}
-.mkt-lbl{font-size:12px;color:#333;font-weight:700}
-.mkt-lbl .u{font-size:10px;color:#aab;font-weight:600;margin-left:3px}
-.mkt-right{text-align:right;white-space:nowrap}
-.mkt-val{font-size:13px;font-weight:800;color:#1a1a1a}
-.mkt-chg{font-size:10.5px;font-weight:700;margin-left:6px}
-.mkt-up{color:#d93025}.mkt-down{color:#1a56db}.mkt-flat{color:#888}
-.mkt-item{border-bottom:1px solid #f2f4f8}
-.mkt-item:last-child{border-bottom:none}
-.mkt-item .mkt-row{border-bottom:none}
-.mkt-sub{font-size:10.5px;color:#8a93a2;padding:0 14px 9px}
-.mkt-sub b{color:#555;font-weight:800}
 footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner{display:flex;align-items:stretch;background:linear-gradient(120deg,#24379c 0%,#17287a 52%,#0e1a5e 100%);color:#fff;border-radius:16px;margin-bottom:18px;box-shadow:0 8px 24px rgba(16,30,110,.3);overflow:hidden}
 .festival-banner .fest-gw{display:flex;align-items:center;gap:15px;padding:18px 24px;flex:0 1 auto;min-width:240px}
@@ -139,16 +126,6 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 </div>
 
 <aside class="side-col">
-
-<div class="widget">
-  <div class="widget-hd">
-    <h2>📈 시장지표</h2>
-    <span class="time-tag" id="mkt-time"></span>
-  </div>
-  <div id="market-body">
-    <div style="padding:18px;color:#bbb;font-size:12px;text-align:center">불러오는 중...</div>
-  </div>
-</div>
 
 <div class="widget" style="overflow:hidden">
   <div id="weather-content">
@@ -293,29 +270,6 @@ function renderNews(){
                   '<div class="rank-ttl">'+esc(it.title)+'</div>';
     rg.appendChild(a);
   });
-
-  // 시장지표
-  (function(){
-    var mb = document.getElementById('market-body');
-    var mk = D.market;
-    if(!mb) return;
-    if(!mk || !mk.items || !mk.items.length){ mb.innerHTML = '<div style="padding:16px;color:#bbb;font-size:12px;text-align:center">시장지표 없음</div>'; return; }
-    var tt = document.getElementById('mkt-time'); if(tt){ tt.textContent = (mk.asOf||'') + ' 기준'; }
-    function arw(d){ return d==='up'?'▲':(d==='down'?'▼':'–'); }
-    function cls(d){ return d==='up'?'mkt-up':(d==='down'?'mkt-down':'mkt-flat'); }
-    mb.innerHTML = mk.items.map(function(it){
-      var sub = it.avg
-        ? '<div class="mkt-sub">전월평균(네이버) <b>'+esc(it.avg)+'</b> · 대비 <span class="'+cls(it.avgDir)+'">'+arw(it.avgDir)+' '+esc(it.avgRate)+'</span></div>'
-        : '';
-      return '<div class="mkt-item">'+
-               '<div class="mkt-row">'+
-                 '<div class="mkt-lbl">'+esc(it.label)+'<span class="u">'+esc(it.unit)+'</span></div>'+
-                 '<div class="mkt-right"><span class="mkt-val">'+esc(it.value)+'</span>'+
-                   '<span class="mkt-chg '+cls(it.dir)+'">'+arw(it.dir)+' '+esc(it.rate)+'</span></div>'+
-               '</div>'+ sub +
-             '</div>';
-    }).join('');
-  })();
 }
 (function(){
   var s = document.createElement('script');
