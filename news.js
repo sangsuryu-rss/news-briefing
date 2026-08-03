@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 14:44",
+  "updatedAt": "2026.08.03 (월) 15:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -20,9 +20,10 @@ window.NEWS_DATA = {
         "label": "LME 구리",
         "unit": "$/톤",
         "value": "13,836",
-        "diff": "-8",
-        "rate": "-0.06%",
-        "dir": "down",
+        "diff": "+2",
+        "rate": "+0.01%",
+        "dir": "up",
+        "prev": "13,834",
         "avg": "13,574",
         "avgDiff": "+261",
         "avgRate": "+1.9%",
@@ -31,66 +32,74 @@ window.NEWS_DATA = {
       {
         "label": "국제유가 WTI",
         "unit": "$/bbl",
-        "value": "79.47",
-        "diff": "-5.20",
-        "rate": "-6.14%",
-        "dir": "down"
+        "value": "79.72",
+        "diff": "-4.95",
+        "rate": "-5.85%",
+        "dir": "down",
+        "prev": "84.67"
       },
       {
         "label": "달러",
         "unit": "원",
-        "value": "1,428.70",
-        "diff": "-11.30",
-        "rate": "-0.78%",
-        "dir": "down"
+        "value": "1,426.10",
+        "diff": "-15.00",
+        "rate": "-1.04%",
+        "dir": "down",
+        "prev": "1,441.10"
       },
       {
         "label": "루피아 (100)",
         "unit": "원",
-        "value": "7.94",
-        "diff": "-0.08",
-        "rate": "-1.00%",
-        "dir": "down"
+        "value": "7.93",
+        "diff": "-0.04",
+        "rate": "-0.50%",
+        "dir": "down",
+        "prev": "7.97"
       },
       {
         "label": "베트남 동 (100)",
         "unit": "원",
         "value": "5.43",
-        "diff": "-0.06",
-        "rate": "-1.09%",
-        "dir": "down"
+        "diff": "-0.05",
+        "rate": "-0.91%",
+        "dir": "down",
+        "prev": "5.48"
       },
       {
         "label": "유로",
         "unit": "원",
-        "value": "1,647.92",
-        "diff": "-15.28",
-        "rate": "-0.92%",
-        "dir": "down"
+        "value": "1,646.28",
+        "diff": "-14.88",
+        "rate": "-0.90%",
+        "dir": "down",
+        "prev": "1,661.16"
       },
       {
         "label": "멕시코 페소",
         "unit": "원",
-        "value": "82.53",
-        "diff": "-0.69",
-        "rate": "-0.83%",
-        "dir": "down"
+        "value": "82.47",
+        "diff": "-0.60",
+        "rate": "-0.72%",
+        "dir": "down",
+        "prev": "83.07"
       },
       {
         "label": "위안",
         "unit": "원",
-        "value": "211.55",
-        "diff": "-1.89",
-        "rate": "-0.89%",
-        "dir": "down"
+        "value": "211.40",
+        "diff": "-2.16",
+        "rate": "-1.01%",
+        "dir": "down",
+        "prev": "213.56"
       },
       {
         "label": "인도 INR",
         "unit": "원",
-        "value": "15.00",
-        "diff": "-0.10",
-        "rate": "-0.66%",
-        "dir": "down"
+        "value": "14.99",
+        "diff": "-0.07",
+        "rate": "-0.46%",
+        "dir": "down",
+        "prev": "15.06"
       }
     ]
   },
@@ -102,12 +111,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "K-컬처 열풍 덕에 해외 역직구 거래 사상 최대치 기록…\"화장품·아이돌...",
-          "desc": "또한, 삼성전자의 할인행사로 인해 컴퓨터 및 주변기기, 가전·전자 제품의 거래액도 각각 26.9%, 11.9% 증가했다. 자동차 및 자동차용품은 56.8% 증가했는데, 주로 온라인으로 구매하는 테슬라 등 수입 전기차 수요가...",
-          "src": "고코리아",
+          "title": "K-뷰티 타고 역직구 38.7%↑…해외직구는 14분기 만에 감소",
+          "desc": "컴퓨터·주변기기와 가전·전자제품 거래액도 삼성전자 할인행사의 영향으로 각각 26.9%, 11.9% 늘었다. 자동차·자동차용품은 56.8% 증가했다. 온라인 판매 비중이 높은 테슬라 등 수입 전기차 수요 확대가 주요...",
+          "src": "m-i",
           "date": "08/03",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=873934",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873934_151107_3040_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1398249",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398249_1186076_1445_v150.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -142,36 +151,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "SKT, '디지털새싹'에 'AI 그림일기' 도입… 교육 AX 지원",
-          "desc": "김구영 SKT 엔터프라이즈사업본부장은 \"AI 그림일기는 학생이 자기 생각을 글과 이미지·음성으로 확장하도록 돕고 교사는 그 과정을 수업에 활용할 수 있게 하는 교육 현장 AX 설루션\"이라며 \"앞으로도 AI 기술이 지역과...",
+          "title": "\"점검 시간 70% 단축\"…신한은행, 감정평가 AI Agent 도입",
+          "desc": "지원하는 '감정평가서 AI 점검 Agent'를 금융권 최초로 도입했다고 3일 밝혔다. 감정평가서는 부동산 담보대출 심사 과정에서 담보가치 등을 확인하기 위해 활용되는 자료다. 신한은행은 외부 감정평가법인으로부터...",
+          "src": "joongangenews",
+          "date": "08/03",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=537291",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/537291_342831_644.jpg"
+        },
+        {
+          "title": "살인 폭염에 데이터센터 비상…AI 시대 ‘냉각 전쟁’",
+          "desc": "효율적인 열 관리를 위해 LG전자의 액체냉각 기술을 도입한다. LG전자가 자체 개발한 600킬로와트(㎾)급 냉각수분배장치(Coolant Distribution Unit)는 엔비디아의 품질 인증을 획득하며 AI 서버용 액체냉각 기술력을 입증했다....",
           "src": "아시아타임즈",
           "date": "08/03",
-          "url": "https://www.asiatime.co.kr/article/20260803500018",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/03/.cache/512/20260803500015.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260803500165",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/03/.cache/512/20260803500157.jpg"
         },
         {
-          "title": "탈VM웨어, 하이퍼바이저만 바꾸면 끝?…“데이터 보호부터 통합 설계해...",
-          "desc": "김지현 코헤시티 최고기술책임자(CTO)는 지난 7월30일 서울 송파구에 위치한 코헤시티 사무실에서... 코헤시티는 보호한 데이터를 인공지능(AI)에 활용하는 방향으로도 영역을 넓히고 있다. 생성형 AI 제품 ‘가이아(Gaia)’를...",
-          "src": "디지털데일리",
+          "title": "신한은행, 금융권 최초 '감정평가서 AI 점검 에이전트' 도입",
+          "desc": "과정에서 활용되는 감정평가서 점검 업무에 인공지능(AI)을 도입했다. 감정평가서 주요 내용을 AI가... 이번에 도입한 감정평가서 AI 점검 에이전트는 대규모언어모델(LLM), 로봇프로세스 자동화(RPA), 문서인식기술(OCR)을...",
+          "src": "더팩트",
           "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/138/0002236384?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/03/2026080311294729601_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/629/0000521324?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/08/03/202690011785736613.jpg"
         },
         {
-          "title": "신한은행, 금융권 최초 ‘감정평가서 AI 점검 에이전트’ 도입",
-          "desc": "/신한은행 신한은행이 부동산 담보대출 심사에 활용되는 감정평가서 점검 업무에 인공지능(AI)을 도입했다.... 이번 시스템은 대규모언어모델(LLM)과 로봇프로세스자동화(RPA), 광학문자인식(OCR) 기술을 연계해 감정평가서...",
-          "src": "서울신문",
+          "title": "농특세 10조원 돌파…농업 미래투자 전략 마련 착수",
+          "desc": "농식품부는 3일 서울 프레스센터에서 송미령 장관 주재로 '농특세를 활용한 농업·농촌 성장전략 전문가... 농업 규모화·집적화와 농업 과학기술의 현장 실증·확산을 비롯해 농업·농촌 AI 도입 확대, 청년농 지원 강화...",
+          "src": "전자신문",
           "date": "08/03",
-          "url": "http://www.metroseoul.co.kr/article/20260803500296",
-          "img": ""
-        },
-        {
-          "title": "경기 북부 제조업 DX 확산 나선 경기테크노파크…스마트공장 포럼 개최",
-          "desc": "참가 기업들은 스마트공장 도입과 디지털 전환 과정에서 필요한 기술과 지원사업, 구축 전략 등을 현장에서 직접 상담받을 수 있다. 경기도와 경기테크노파크는 이번 포럼을 계기로 경기 북부 제조기업의 AI 활용과...",
-          "src": "g-enews",
-          "date": "08/03",
-          "url": "https://www.g-enews.com/view.php?ud=2026080313290796768fbfc802b3_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260803133055041688fbfc802b314356789.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003453713?sid=101",
+          "img": "https://img.etnews.com/news/article/2026/08/03/news-p.v1.20260803.8a4c626f6a284f6c8fea4d57a4aa1dbc_P1.jpg"
         }
       ]
     },
@@ -181,6 +190,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[메모리 딜레마/上]사상 최대 실적에도 공급과잉 공포 왜?",
+          "desc": "삼성전자와 SK하이닉스는 나란히 사상 최대 실적을 기록했지만, 주가는 패닉셀과 반짝 반등, 재하락을... 글로벌 협력사의 10만 개가 넘는 부품이 들어가고, 그중 핵심인 고출력 레이저 광원 시스템, 초정밀 반사경...",
+          "src": "비즈니스플러스",
+          "date": "08/03",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=114992",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/114992_113083_4048_v150.jpg"
+        },
         {
           "title": "[단독]사전예약 3배 뛰자…삼성, 갤럭시Z폴드8 부품 긴급 증산",
           "desc": "3일 관련 업계에 따르면 삼성전자는 최근 국내 초박형 강화유리(UTG) 협력사에 갤럭시Z폴드8용 부품 생산을 늘려달라고 요청했다. 삼성전자의 주요 UTG 협력사는 도우인시스와 이코니 등이다. 이번 증산은 사전예약 기간...",
@@ -203,15 +220,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/030/0003453390?sid=105",
-          "img": ""
-        },
-        {
-          "title": "애플, 3Q 매출 1094억달러 신기록… 아이폰 매출 22% 증가에도 공급난 경...",
-          "desc": "다만 삼성전자와 SK하이닉스, 마이크론 등이 대거 체결 중인 장기공급계약(LTA)에 대해서는 구체적 언급을 피했다. 비메모리 부품에서는 원가 개선이 일부 효과를 냈다고 설명했다. CXMT 메모리 도입설에 마이크론...",
-          "src": "econovill",
-          "date": "07/31",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=746844",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/746844_720991_2051_v150.jpg"
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png"
         }
       ]
     },
@@ -258,9 +267,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "K-컬처 열풍 덕에 해외 역직구 거래 사상 최대치 기록…\"화장품·아이돌...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=873934",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202608/873934_151107_3040_v150.jpg"
+      "title": "K-뷰티 타고 역직구 38.7%↑…해외직구는 14분기 만에 감소",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1398249",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398249_1186076_1445_v150.jpg"
     },
     {
       "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -278,14 +287,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
     },
     {
-      "title": "SKT, '디지털새싹'에 'AI 그림일기' 도입… 교육 AX 지원",
-      "url": "https://www.asiatime.co.kr/article/20260803500018",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/03/.cache/512/20260803500015.jpg"
+      "title": "\"점검 시간 70% 단축\"…신한은행, 감정평가 AI Agent 도입",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=537291",
+      "img": "https://cdn.joongangenews.com/news/photo/202608/537291_342831_644.jpg"
     },
     {
-      "title": "탈VM웨어, 하이퍼바이저만 바꾸면 끝?…“데이터 보호부터 통합 설계해...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002236384?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/08/03/2026080311294729601_l.jpg"
+      "title": "살인 폭염에 데이터센터 비상…AI 시대 ‘냉각 전쟁’",
+      "url": "https://www.asiatime.co.kr/article/20260803500165",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/03/.cache/512/20260803500157.jpg"
     }
   ]
 };
