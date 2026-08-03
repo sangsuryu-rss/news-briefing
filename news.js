@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 02:43",
+  "updatedAt": "2026.08.04 (화) 04:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[패트롤] 인천시-인천경제자유구역청",
+          "desc": "처음 도입된 공식 애플리케이션은 GPS 기반 행사장 안내, 실시간 혼잡도, 공연 일정과 공지사항 등을 제공해... 실시…AI 활용 등 신규 문항 반영 인천시, 제9기 귀어학교 교육생 모집…8월 31일까지 25명 선발 인천...",
+          "src": "ekn",
+          "date": "08/04",
+          "url": "https://www.ekn.kr/web/view.php?key=20260804021519177",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.24681b57bdc14a0e9f5aa0d8f3aa9282_R.jpeg"
+        },
+        {
+          "title": "[패트롤] 오산시-이천시-평택시-화성시",
+          "desc": "평택시는 초거대 언어모델(LLM)과 멀티모달 비전 AI 기술을 활용한 '온프레미스 기반 요양원 어르신 행동 예측 및 이상징후 조기 탐지 시스템'을 도입할 계획이다. 시는 초고령사회 진입과 함께 요양시설의 돌봄 수요가...",
+          "src": "ekn",
+          "date": "08/04",
+          "url": "https://www.ekn.kr/web/view.php?key=20260804021489204",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.90ee1140087c4ef19f5275fc54ccd1de_R.jpg"
+        },
+        {
           "title": "\"35명 중 32명 낙제\"…시험지에 'AI 함정' 숨긴 美교수",
           "desc": "지난달 25일(현지 시간) 미국 과학·기술 매체 퓨처리즘에 따르면, 미국 미시시피주 알콘 주립대학교 역사학 교수 제이슨 깁슨은 최근 중간고사 답안 작성 지시문에 흰색 글씨로 숨겨둔 문장을 삽입해 AI를 활용한 답안...",
           "src": "뉴시스",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/04",
           "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
           "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
-        },
-        {
-          "title": "[강원포럼]미래산업의 거대한 물결, 강원특별자치도의 대전환이 기대된...",
-          "desc": "타입 AI·데이터센터 도입도 지역별 여건에 따라 적극 고려할 필요가 있다. 셋째, 지속 가능한 청정에너지 이용과 미래 성장 동력을 공고히 하는 것이다. 강원도의 풍부한 수자원과 자연환경을 활용한 ‘청정에너지...",
-          "src": "kwnews",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/087/0001209105?sid=102",
-          "img": ""
-        },
-        {
-          "title": "\"폭염 속 가축 지켜라\"...퇴직 공무원이 구원투수로",
-          "desc": "[신종광 / 경기도 축산정책과장 : 중장기적으로 AI 기반 축산 악취 분석 기술을 도입해서 축적된 데이터를 활용한 과학적이고 체계적인 악취 관리 체계를 구축해 나갈 계획입니다.] 올해 경기도에서 폭염으로 폐사한 가축은...",
-          "src": "ytn",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/052/0002388466?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0804/202608040000172250_t.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
     },
     {
-      "title": "\"35명 중 32명 낙제\"…시험지에 'AI 함정' 숨긴 美교수",
-      "url": "https://n.news.naver.com/mnews/article/003/0014106019?sid=104",
-      "img": "https://img1.newsis.com/2026/08/03/NISI20260803_0002203249_web.jpg"
+      "title": "[패트롤] 인천시-인천경제자유구역청",
+      "url": "https://www.ekn.kr/web/view.php?key=20260804021519177",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.24681b57bdc14a0e9f5aa0d8f3aa9282_R.jpeg"
     },
     {
-      "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
-      "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
+      "title": "[패트롤] 오산시-이천시-평택시-화성시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260804021489204",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260804.90ee1140087c4ef19f5275fc54ccd1de_R.jpg"
     }
   ]
 };
