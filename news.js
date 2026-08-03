@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.03 (월) 21:50",
+  "updatedAt": "2026.08.04 (화) 00:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "K-컬처 타고 역직구 38% 급증…화장품·굿즈가 견인",
-          "desc": "4% 급증했다. 컴퓨터 및 주변기기, 가전·전자도 삼성전자 할인행사에 힘입어 각각 26.9%, 11.9% 증가했다. 자동차 및 자동차용품은 수입 전기차 수요 확대와 개별소비세 인하 영향으로 56.8% 늘었다. [스트레이트뉴스 ]",
-          "src": "straightnews",
-          "date": "08/03",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308227",
-          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/308227_218878_4523_v150.jpg"
+          "title": "[오늘의 경제뉴스] 반도체 인재전쟁...억대 성과급 뒤에 숨은 SK하이닉스...",
+          "desc": "하이닉스가 메모리를 중심으로 움직이는 기업이라면 삼성전자는 메모리와 파운드리, 스마트폰, 가전 등 여러 사업을 함께 운영한다. 한 사업부가 낸 초과이익을 보상 공식에 연결하려면 사업부 간 형평성과 투자 재원...",
+          "src": "newsverse",
+          "date": "08/04",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11084",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202608/11084_19084_501_v150.jpg"
         },
         {
           "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/02",
           "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
+          "img": ""
         },
         {
           "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "예산은 줄이고 항만·AI는 키운다…광양시, 650억원 재정 부족 대응 착수",
-          "desc": "등급제와 AI 기반 예산심사도 도입할 계획이다. 구조조정 과정에서도 시민 안전과 필수 복지, 미래 성장... 정부의 ‘피지컬 AI 항만 전략’에는 광양항을 기술 실증 거점으로 활용하고 가칭 첨단항만기술원 설립을...",
-          "src": "betanews",
-          "date": "08/03",
-          "url": "https://www.betanews.net/article/view/beta202608030069",
-          "img": "https://www.betanews.net/data/beta/image/2026/08/03/beta20260803000077.jpg"
+          "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
+          "desc": "AX는 생산성 제고를 위한 AI 기술 접목이다. 우리 제조업의 AI 활용률은 2.7%에 불과한 실정이다. 제조업의 AI... 제도 하나, 규제 하나 도입할 때마다 경제적 영향을 신중히 고려해야 한다. 보호무역, 글로벌 공급망 재편...",
+          "src": "kmib",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
+          "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
         },
         {
-          "title": "[부박사]\"버티기냐 증여냐\"…보유세 인상, 시장의 선택?",
-          "desc": "신보연   1980년생, 고려대 경영학과 졸업, 건국대 부동산학 박사, 세종대학교 부동산AI융합학과 교수, 한국부동산경영학회 이사, 서울지방변호사회 분쟁조정위원회 위원, 서초구 도시계획위원회 위원, 과천도시공사 기술...",
-          "src": "조선일보",
-          "date": "08/03",
-          "url": "https://monthly.chosun.com/news/articleView.html?idxno=70928",
-          "img": "https://cdn.monthly.chosun.com/news/photo/202608/70928_201921_2553.jpg"
+          "title": "[강원포럼]미래산업의 거대한 물결, 강원특별자치도의 대전환이 기대된...",
+          "desc": "타입 AI·데이터센터 도입도 지역별 여건에 따라 적극 고려할 필요가 있다. 셋째, 지속 가능한 청정에너지 이용과 미래 성장 동력을 공고히 하는 것이다. 강원도의 풍부한 수자원과 자연환경을 활용한 ‘청정에너지...",
+          "src": "kwnews",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/087/0001209105?sid=102",
+          "img": ""
         },
         {
-          "title": "디지털 기반 '제조업 혁신' 속도내는 경산",
-          "desc": "로봇 도입 전 성능과 생산성, 현장 적용 가능성을 종합적으로 검증할 수 있도록 지원한다. 조현일 경산시장은 \"이번 공모사업 선정으로 지역 기업들이 AI와 로봇 기술을 제조현장에 적극 활용할 수 있도록 실증 인프라와...",
-          "src": "idaegu",
-          "date": "08/03",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=555665",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "title": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 ...",
+          "desc": "둘째, 실제 전장에서 입증된 기술력이다. 러시아-우크라이나 전쟁과 중동 분쟁 등에서 우크라이나군과 미군의 드론 작전 및 타격 목표 선정에 팔란티어 AI 소프트웨어가 활용되어 가시적인 전과를 올리며 단순...",
+          "src": "g-enews",
+          "date": "08/04",
+          "url": "https://www.g-enews.com/view.php?ud=202608030859144168906806b77b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080309112801992906806b77b183988628.jpg"
         },
         {
-          "title": "대작 IP부터 K-인디까지, 차이나조이 2026을 채운 한국 게임",
-          "desc": "이는 게임플레이 메커니즘과 기술 활용, 예술 디자인 등에서 혁신적인 성과를 인정받은 것으로, '붉은사막... 시스템을 도입해 반복 플레이의 재미를 극대화했다. 차이나조이 현장 시연존에서는 4인 코옵(Co-op)...",
-          "src": "gamevu",
-          "date": "08/03",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=59771",
-          "img": "https://cdn.gamevu.co.kr/news/photo/202608/59771_86834_3722.jpg"
+          "title": "\"폭염 속 가축 지켜라\"...퇴직 공무원이 구원투수로",
+          "desc": "[신종광 / 경기도 축산정책과장 : 중장기적으로 AI 기반 축산 악취 분석 기술을 도입해서 축적된 데이터를 활용한 과학적이고 체계적인 악취 관리 체계를 구축해 나갈 계획입니다.] 올해 경기도에서 폭염으로 폐사한 가축은...",
+          "src": "ytn",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/052/0002388466?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0804/202608040000172250_t.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "K-컬처 타고 역직구 38% 급증…화장품·굿즈가 견인",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308227",
-      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/308227_218878_4523_v150.jpg"
-    },
-    {
-      "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260802.c320285bc9054cb3b64613b318c44d06_R.png"
+      "title": "[오늘의 경제뉴스] 반도체 인재전쟁...억대 성과급 뒤에 숨은 SK하이닉스...",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11084",
+      "img": "https://cdn.newsverse.kr/news/thumbnail/202608/11084_19084_501_v150.jpg"
     },
     {
       "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1398210_1186040_2624_v150.jpg"
     },
     {
-      "title": "예산은 줄이고 항만·AI는 키운다…광양시, 650억원 재정 부족 대응 착수",
-      "url": "https://www.betanews.net/article/view/beta202608030069",
-      "img": "https://www.betanews.net/data/beta/image/2026/08/03/beta20260803000077.jpg"
+      "title": "[경제시평] 산업 재조의 길, 뉴K-인더스트리",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864749?sid=110",
+      "img": "https://image.kmib.co.kr/online_image/2026/0804/2026080320320681915_1785756726_1785722865.jpg"
     },
     {
-      "title": "[부박사]\"버티기냐 증여냐\"…보유세 인상, 시장의 선택?",
-      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70928",
-      "img": "https://cdn.monthly.chosun.com/news/photo/202608/70928_201921_2553.jpg"
+      "title": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 ...",
+      "url": "https://www.g-enews.com/view.php?ud=202608030859144168906806b77b_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080309112801992906806b77b183988628.jpg"
+    },
+    {
+      "title": "\"폭염 속 가축 지켜라\"...퇴직 공무원이 구원투수로",
+      "url": "https://n.news.naver.com/mnews/article/052/0002388466?sid=102",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0804/202608040000172250_t.jpg"
     }
   ]
 };
