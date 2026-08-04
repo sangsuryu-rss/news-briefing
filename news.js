@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 06:02",
+  "updatedAt": "2026.08.05 (수) 07:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
-          "desc": "각국의 가전업체를 인수하며 사업 영역을 넓혀왔다. 이를 기반으로 스웨덴 일렉트로룩스, 한국의 LG전자·삼성전자 등과 세계 시장에서 경쟁했다. 2015년에는 전체 순매출의 절반이 북미 이외 지역에서 나왔다. 그러나...",
-          "src": "g-enews",
+          "title": "[오현승의 IT 스토리] 치솟는 메모리값 어쩌나…부담 커진 애플·삼성",
+          "desc": "팀 쿡, \"다음 분기 아이폰 판매량 증가률 둔화 전망 삼성전자 MX사업부, 사상 첫 영업손실 전환 '칩플레이션... 최정구 카운터포인트리서치 책임연구원은 최근 보고서에서 “메모리 가격 상승은 모바일이나 가전 같은...",
+          "src": "segyebiz",
           "date": "08/05",
-          "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
+          "url": "http://www.segyebiz.com/newsView/20260804521763?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/08/04/20260804521761.jpg"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
-          "title": "[상반기 테크업종 리포트] ②가전의 K자 양극화…LG 웃고, 삼성 울었다",
-          "desc": "다만 삼성전자는 아직 가전·TV 등 B2C 사업의 실적 영향력이 큰 만큼, B2B 사업 확대가 부품 원가 상승에 따른 수익성 압박을 상쇄할 정도의 실적 개선으로 이어지지는 못하고 있다. LG전자가 구독·B2B를 통해 반복...",
-          "src": "dnews",
+          "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
+          "desc": "이를 기반으로 스웨덴 일렉트로룩스, 한국의 LG전자·삼성전자 등과 세계 시장에서 경쟁했다. 2015년에는... 세탁기와 건조기를 생산하는 오하이오주에서는 고용을 확대하고 있다고 덧붙였다. 가전제품 유통업체들은...",
+          "src": "g-enews",
           "date": "08/05",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041143134250709",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/04/202608041143134250709-2-681972.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
         },
         {
-          "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-          "desc": "최근 글로벌 가전 시장을 이끄는 삼성전자와 LG전자가 자사 스마트 TV 앱스토어에서 악용 우려 코드가 포함된... 오늘날 가정에는 안드로이드 스트리밍 박스, 스마트 냉장고, 로봇 청소기, 에어컨 등 와이파이에 연결된...",
-          "src": "조선일보",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+          "title": "[새 폼팩터 표준화 전쟁]②\"예쁘고 가볍게\" 한미중 AI글래스 선두 주자...",
+          "desc": "메타와 삼성전자, 샤오미·알리바바 등 중국 저가 브랜드 간 3파전 양상을 띠고 있다. 가장 먼저 포문을 연... 올해 1월 세계 최대 가전·정보기술(IT) 전시회 CES에서 AI 글래스 '로키드 스타일'을 공개한 로키드는 챗GPT...",
+          "src": "view",
+          "date": "08/05",
+          "url": "https://n.news.naver.com/mnews/article/277/0005798916?sid=105",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072216135854711_1784704438.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AX 원스톱 지원 ‘AX360°’ 포털 서비스 개시",
-          "desc": "다양한 AI모델의 유형·이용 방식·가격과 도입사례를 안내한다. 데이터는 원윈도우·AI허브·마이데이터... 확인·활용할 수 있도록 지원한다. ‘AI기업 탐색’은 국내 AI기업이 보유한 기술과 솔루션의 기능·적용사례...",
-          "src": "디지털타임스",
+          "title": "[컨콜]김범석 쿠팡Inc 의장 \"고객 복귀 가속…내년부터 수익성 회복\"",
+          "desc": "김 의장은 \"한국에서는 물류 사업을 시작한 뒤 새벽배송을 도입하기까지 4년이 걸렸지만 대만에서는 1년 만에 달성했다\"며 \"한국에서 10년 넘게 축적한 기술과 운영 노하우를 활용한 결과\"라고 말했다. 향후 대만에서는...",
+          "src": "daily",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/029/0003040715?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.a665af4e46aa46d8ba8f76b3260d0954_R.png"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392722",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1392722_1573335_3857_v150.jpg"
         },
         {
-          "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
-          "desc": "퍼플렉시티 활용이 급증하던 시점에 포털의 정체성을 깊이 고민했다\"라며 \"구글의 AI 오버뷰 서비스 도입을... 수집하고, AI는 정리·요약하는 구조로 나눈 것이다. 검색 단계에는 벡터 기반 검색증강생성(RAG) 기술이...",
-          "src": "AI타임스",
+          "title": "사람 대신 드론이 철거현장 살수…현대건설, ‘분당 50ℓ’ 살수드론으...",
+          "desc": "현대건설이 철거현장의 비산먼지와 작업자 안전 문제를 동시에 줄이기 위해 살수드론 도입을 확대한다. 전원... HMG건설기술연구원도 건설현장 자동화에 속도를 내고 있다. 연구원은 ‘AI·로보틱스를 활용한 안전과 품질...",
+          "src": "sportsseoul",
           "date": "08/05",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
-          "img": "https://cdn.aitimes.com/news/photo/202608/213514_217008_25.jpg"
+          "url": "https://n.news.naver.com/mnews/article/468/0001257886?sid=105",
+          "img": "https://file.sportsseoul.com/news/cms/2026/08/05/news-p.v1.20260805.0c3c22c0442d4441870cc81805250f04_P1.jpg"
         },
         {
-          "title": "﻿자체 LLM보다 업무 운영권… 중국 기업의 AX② [박지민의 중국과 미래...",
-          "desc": "지난주 칼럼 '중국 기업의 AX①'에서는 AI 활용을 0~7단계로 나눴다. 이번 '중국 기업의 AX②'에서 볼 것은... 도입 순서는 규정 검색, 보고서 요약, 상담, 개발 보조에서 시작해 자료 심사, 이상거래 탐지, 대출 사후관리...",
-          "src": "조선일보",
+          "title": "“돌려차기 한번 하죠?” 국민의힘이 보완 수사권 논란을 다루는 방식:...",
+          "desc": "AI 지출을 평균 인건비로 나눠 가상 직원 수를 산출하고, 직원들이 AI 에이전트를 채용하려면 직무기술서까... 다양해졌다”며 “AI를 활용한 부동산 직거래가 늘어나는 상황에서 공인중개사가 소비자의 선택을 받으려면...",
+          "src": "slownews",
           "date": "08/05",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166613",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092166613_448544_4028_v150.jpg"
+          "url": "https://slownews.kr/164339",
+          "img": "https://slownews.kr/wp-content/uploads/2026/08/20260723171747kLQKp8e9ijy2cEte6YJA.jpg"
         },
         {
-          "title": "한반도 유사시 7만 불발탄 쏟아진다…폭발물 처리 체계 고도화해야",
-          "desc": "드론·AI 기반의 통합 대응 체계 구축과 한반도 지형·기후에 최적화된 장비 검증이 시급하다는 전문가... 등을 활용해 ERW를 제거하는 등 대응 기술도 발전하는 추세다. 하지만 보고서는 여러 신기술에 따른 장비들도...",
-          "src": "뉴스1",
+          "title": "딥노이드·펩트론 上…엘앤씨바이오는 유상증자에 약세[바이오맥짚기]",
+          "desc": "주사제 기술을 보유한 펩트론을 완제품 생산의 마지막 퍼즐이 될 수 있다는 기대가 나왔다. 펩트론은 앞서 3월 이사회에서 '오송 2공장 자동충전설비 도입 관련 L/C OPEN의 건'을 의결했다. 펩트론 측은 오송...",
+          "src": "이데일리",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/421/0009097358?sid=100",
-          "img": "https://i3n.news1.kr/system/photos/2025/6/18/7349507/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006344748?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080500314.1280x.0.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
-      "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
+      "title": "[오현승의 IT 스토리] 치솟는 메모리값 어쩌나…부담 커진 애플·삼성",
+      "url": "http://www.segyebiz.com/newsView/20260804521763?OutUrl=naver",
+      "img": "http://www.segyebiz.com//content/image/2026/08/04/20260804521761.jpg"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
-      "title": "[상반기 테크업종 리포트] ②가전의 K자 양극화…LG 웃고, 삼성 울었다",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041143134250709",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/04/202608041143134250709-2-681972.jpg"
+      "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
+      "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
     },
     {
-      "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+      "title": "[새 폼팩터 표준화 전쟁]②\"예쁘고 가볍게\" 한미중 AI글래스 선두 주자...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798916?sid=105",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072216135854711_1784704438.jpg"
     },
     {
-      "title": "AX 원스톱 지원 ‘AX360°’ 포털 서비스 개시",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040715?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.a665af4e46aa46d8ba8f76b3260d0954_R.png"
+      "title": "[컨콜]김범석 쿠팡Inc 의장 \"고객 복귀 가속…내년부터 수익성 회복\"",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392722",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1392722_1573335_3857_v150.jpg"
     },
     {
-      "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
-      "img": "https://cdn.aitimes.com/news/photo/202608/213514_217008_25.jpg"
+      "title": "사람 대신 드론이 철거현장 살수…현대건설, ‘분당 50ℓ’ 살수드론으...",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257886?sid=105",
+      "img": "https://file.sportsseoul.com/news/cms/2026/08/05/news-p.v1.20260805.0c3c22c0442d4441870cc81805250f04_P1.jpg"
     }
   ]
 };
