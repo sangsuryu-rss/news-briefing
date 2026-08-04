@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 07:52",
+  "updatedAt": "2026.08.05 (수) 08:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오현승의 IT 스토리] 치솟는 메모리값 어쩌나…부담 커진 애플·삼성",
-          "desc": "팀 쿡, \"다음 분기 아이폰 판매량 증가률 둔화 전망 삼성전자 MX사업부, 사상 첫 영업손실 전환 '칩플레이션... 최정구 카운터포인트리서치 책임연구원은 최근 보고서에서 “메모리 가격 상승은 모바일이나 가전 같은...",
-          "src": "segyebiz",
+          "title": "“거실 에어컨이 왜이렇게 안시원해?”…‘청·정·확·인’ 해보세요",
+          "desc": "다른 가전제품과 함께 용량이 낮은 멀티탭을 사용할 경우 과부하로 차단기가 작동하거나 화재 위험이 커질 수 있다. 마지막은 AI 진단 기능 활용이다. 삼성전자 제품의 경우 AI 홈 솔루션인 스마트싱스의 에어컨 AI 진단...",
+          "src": "매일경제",
           "date": "08/05",
-          "url": "http://www.segyebiz.com/newsView/20260804521763?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/08/04/20260804521761.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005716736?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/05/news-p.v1.20260805.0e66d7280a1c4d36bac9eba2a76acb65_R.jpg"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
+          "title": "[증시키워드] 네이버 AI 팩토리 호재…알테오젠·두산에너빌리티 훈풍",
+          "desc": "5일 금융투자업계에 따르면 이날 장 시작 전 네이버페이증권 실시간 검색 상위권에는 삼성전자... 이 밖에 LG전자는 태국 프랜차이즈 '트렌디 워시' 630개 매장에 상업용 세탁·건조기 공급을 마치며 동남아 B2B 시장...",
+          "src": "이투데이",
+          "date": "08/05",
+          "url": "https://www.etoday.co.kr/news/view/2611071",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260805081041_2368756_936_328.png"
+        },
+        {
           "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
-          "desc": "이를 기반으로 스웨덴 일렉트로룩스, 한국의 LG전자·삼성전자 등과 세계 시장에서 경쟁했다. 2015년에는... 세탁기와 건조기를 생산하는 오하이오주에서는 고용을 확대하고 있다고 덧붙였다. 가전제품 유통업체들은...",
+          "desc": "지난 1911년 세탁기 제조업체로 출발한 월풀은 올해 창립 115주년을 맞은 미국 대표 가전기업이다. 월풀... 이를 기반으로 스웨덴 일렉트로룩스, 한국의 LG전자·삼성전자 등과 세계 시장에서 경쟁했다. 2015년에는 전체...",
           "src": "g-enews",
           "date": "08/05",
           "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
-        },
-        {
-          "title": "[새 폼팩터 표준화 전쟁]②\"예쁘고 가볍게\" 한미중 AI글래스 선두 주자...",
-          "desc": "메타와 삼성전자, 샤오미·알리바바 등 중국 저가 브랜드 간 3파전 양상을 띠고 있다. 가장 먼저 포문을 연... 올해 1월 세계 최대 가전·정보기술(IT) 전시회 CES에서 AI 글래스 '로키드 스타일'을 공개한 로키드는 챗GPT...",
-          "src": "view",
-          "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/277/0005798916?sid=105",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072216135854711_1784704438.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[컨콜]김범석 쿠팡Inc 의장 \"고객 복귀 가속…내년부터 수익성 회복\"",
-          "desc": "김 의장은 \"한국에서는 물류 사업을 시작한 뒤 새벽배송을 도입하기까지 4년이 걸렸지만 대만에서는 1년 만에 달성했다\"며 \"한국에서 10년 넘게 축적한 기술과 운영 노하우를 활용한 결과\"라고 말했다. 향후 대만에서는...",
-          "src": "daily",
+          "title": "경북도, AI 스마트베드 활용 돌봄서비스 실증…예천서 시범 운영",
+          "desc": "김호섭 경북도 복지건강국장은 \"초고령사회에서는 돌봄서비스의 질을 높이면서 돌봄 인력의 부담을 덜어주는 기술 도입이 필수적\"이라며 \"AI 기반 첨단 의료기기를 적극 활용해 어르신들이 안전하고 존엄한 돌봄을 받을...",
+          "src": "shinailbo",
           "date": "08/05",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392722",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1392722_1573335_3857_v150.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047977",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5047977_2046210_2737.jpg"
         },
         {
-          "title": "사람 대신 드론이 철거현장 살수…현대건설, ‘분당 50ℓ’ 살수드론으...",
-          "desc": "현대건설이 철거현장의 비산먼지와 작업자 안전 문제를 동시에 줄이기 위해 살수드론 도입을 확대한다. 전원... HMG건설기술연구원도 건설현장 자동화에 속도를 내고 있다. 연구원은 ‘AI·로보틱스를 활용한 안전과 품질...",
-          "src": "sportsseoul",
+          "title": "김범석 쿠팡Inc 의장 “탈팡족 대부분 돌아왔다”…쿠팡이츠·대만 새벽...",
+          "desc": "도입하는 데는 4년이 걸렸지만 대만에서는 1년 만에 가능했다”며 “한국에서 10년 이상 축적한 기술과 운영... 인공지능(AI) 활용 계획도 언급했다. 그는 “AI가 배가시키는 것은 지난 15년간 구축한 물리적 네트워크와...",
+          "src": "mydaily",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/468/0001257886?sid=105",
-          "img": "https://file.sportsseoul.com/news/cms/2026/08/05/news-p.v1.20260805.0c3c22c0442d4441870cc81805250f04_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/117/0004091856?sid=103",
+          "img": "https://mydaily.co.kr/photos/2026/08/05/2026080508514802132_l.jpg"
         },
         {
-          "title": "“돌려차기 한번 하죠?” 국민의힘이 보완 수사권 논란을 다루는 방식:...",
-          "desc": "AI 지출을 평균 인건비로 나눠 가상 직원 수를 산출하고, 직원들이 AI 에이전트를 채용하려면 직무기술서까... 다양해졌다”며 “AI를 활용한 부동산 직거래가 늘어나는 상황에서 공인중개사가 소비자의 선택을 받으려면...",
-          "src": "slownews",
+          "title": "벤처기업협회, AI 현장 적용 해법 공유…AX브릿지 웨비나 개최",
+          "desc": "피지컬 AI(인공지능)·데이터로 완성하는 기업 AX(AI 전환) 실행 전략'을 주제로, 생성형 AI 활용을 넘어 실제... 기술, 데이터를 아우르는 정보를 제공해 기업들의 AX 실행을 지원한다는 계획이다. 이번 웨비나는 AI 도입...",
+          "src": "뉴스핌",
           "date": "08/05",
-          "url": "https://slownews.kr/164339",
-          "img": "https://slownews.kr/wp-content/uploads/2026/08/20260723171747kLQKp8e9ijy2cEte6YJA.jpg"
+          "url": "https://www.newspim.com/news/view/20260805000144",
+          "img": "https://img.newspim.com/news/2026/08/05/2608050838253900_t1.jpg"
         },
         {
-          "title": "딥노이드·펩트론 上…엘앤씨바이오는 유상증자에 약세[바이오맥짚기]",
-          "desc": "주사제 기술을 보유한 펩트론을 완제품 생산의 마지막 퍼즐이 될 수 있다는 기대가 나왔다. 펩트론은 앞서 3월 이사회에서 '오송 2공장 자동충전설비 도입 관련 L/C OPEN의 건'을 의결했다. 펩트론 측은 오송...",
-          "src": "이데일리",
+          "title": "쿠팡 김범석 \"이탈 고객 대부분 복귀…내년 성장·수익성 정상화\"",
+          "desc": "효과적으로 활용할 것\"이라고 말했다. 이어 \"AI를 고객 경험에 적용하면 상품 탐색과 개인화, 서비스 품질이... 축적한 기술과 운영 노하우를 바탕으로 새벽배송 도입 기간을 4년에서 1년으로 단축했다고 설명했다. 이어...",
+          "src": "sidae",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/018/0006344748?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080500314.1280x.0.png"
+          "url": "https://n.news.naver.com/mnews/article/417/0001154364?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/05/06/2026080508340033697_1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오현승의 IT 스토리] 치솟는 메모리값 어쩌나…부담 커진 애플·삼성",
-      "url": "http://www.segyebiz.com/newsView/20260804521763?OutUrl=naver",
-      "img": "http://www.segyebiz.com//content/image/2026/08/04/20260804521761.jpg"
+      "title": "“거실 에어컨이 왜이렇게 안시원해?”…‘청·정·확·인’ 해보세요",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716736?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/05/news-p.v1.20260805.0e66d7280a1c4d36bac9eba2a76acb65_R.jpg"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
+      "title": "[증시키워드] 네이버 AI 팩토리 호재…알테오젠·두산에너빌리티 훈풍",
+      "url": "https://www.etoday.co.kr/news/view/2611071",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260805081041_2368756_936_328.png"
+    },
+    {
       "title": "글로벌 사업 접은 월풀, 美 주택침체·부채에 흔들",
       "url": "https://www.g-enews.com/view.php?ud=2026080419161511499a1f309431_1",
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260804191952096789a1f30943117511616074.jpg"
     },
     {
-      "title": "[새 폼팩터 표준화 전쟁]②\"예쁘고 가볍게\" 한미중 AI글래스 선두 주자...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798916?sid=105",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026072216135854711_1784704438.jpg"
+      "title": "경북도, AI 스마트베드 활용 돌봄서비스 실증…예천서 시범 운영",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047977",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5047977_2046210_2737.jpg"
     },
     {
-      "title": "[컨콜]김범석 쿠팡Inc 의장 \"고객 복귀 가속…내년부터 수익성 회복\"",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392722",
-      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1392722_1573335_3857_v150.jpg"
-    },
-    {
-      "title": "사람 대신 드론이 철거현장 살수…현대건설, ‘분당 50ℓ’ 살수드론으...",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257886?sid=105",
-      "img": "https://file.sportsseoul.com/news/cms/2026/08/05/news-p.v1.20260805.0c3c22c0442d4441870cc81805250f04_P1.jpg"
+      "title": "김범석 쿠팡Inc 의장 “탈팡족 대부분 돌아왔다”…쿠팡이츠·대만 새벽...",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091856?sid=103",
+      "img": "https://mydaily.co.kr/photos/2026/08/05/2026080508514802132_l.jpg"
     }
   ]
 };
