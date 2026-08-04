@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 02:29",
+  "updatedAt": "2026.08.05 (수) 04:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
-          "desc": "계약상대방은 삼성전자 주식회사이고, 계약상대방 업종은 반도체·가전제품 등으로 기재됐다. 공급지역은 국내이며, 계약기간은 2027년 4월 1일부터 2028년 12월 31일까지다. 계약일은 2026년 8월 3일이다....",
-          "src": "kdpress",
-          "date": "08/04",
-          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
-          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
+          "title": "AI 투자, 칩 넘어 전력·건설장비로…마이크론 7.8%·SOXL 20%↑",
+          "desc": "신규 주문이 증가한 업종에는 전기장비·가전·부품과 기계, 컴퓨터·전자제품 등이 포함됐다. 고객사... 국내장은 삼성전자·SK하이닉스 넘어 전력기기 확산 여부 주목 5일 국내 증시에서는 삼성전자와 SK하이닉스의...",
+          "src": "그린포스트",
+          "date": "08/05",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=346822",
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/346822_398007_3115_v150.jpg"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.laborplus.co.kr/news/photo/202608/41243_73267_217.jpg"
         },
         {
-          "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-          "desc": "최근 글로벌 가전 시장을 이끄는 삼성전자와 LG전자가 자사 스마트 TV 앱스토어에서 악용 우려 코드가 포함된... 오늘날 가정에는 안드로이드 스트리밍 박스, 스마트 냉장고, 로봇 청소기, 에어컨 등 와이파이에 연결된...",
-          "src": "조선일보",
+          "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
+          "desc": "계약상대방은 삼성전자 주식회사이고, 계약상대방 업종은 반도체·가전제품 등으로 기재됐다. 공급지역은 국내이며, 계약기간은 2027년 4월 1일부터 2028년 12월 31일까지다. 계약일은 2026년 8월 3일이다....",
+          "src": "kdpress",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
+          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "미·중 AI 승부, 생태계에서 갈린다[정유신의 china story]",
+          "desc": "기업들은 이를 바탕으로 개발비와 기술 검증 시간을 줄일 수 있었고, 현장 데이터와 성과를 모델 개선에... 그 결과 모델의 도입·운용 비용이 낮아지면서 이를 활용하는 기업도 빠르게 늘어났다. AI 반도체용...",
+          "src": "머니투데이",
+          "date": "08/05",
+          "url": "https://n.news.naver.com/mnews/article/008/0005395698?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080413522030694_1.jpg"
+        },
+        {
+          "title": "삼성, 8억대 갤럭시에 스테이블코인 탑재…유통 판도 바뀔까",
+          "desc": "업계에서는 이번 조치의 핵심을 ‘기술’이 아닌 ‘유통’으로 본다. 암호화폐 투자은행 아레타의 조셉 고... 삼성은 이미 2019년부터 보안 영역 ‘녹스(Knox)’ 기반 디지털 자산 지갑을 도입해 비트코인(BTC), 이더리움(ETH)...",
+          "src": "tokenpost",
+          "date": "08/05",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/385266",
+          "img": "https://f1.tokenpost.kr/2026/08/l66jrnv4lv.webp"
+        },
         {
           "title": "애플 차세대 시리, 구글 제미나이·클라우드로 구동",
           "desc": "ai 시장 해석 애플은 차세대 시리에 구글 제미나이와 클라우드 기술을 도입한다. 구글은 AI 모델과... 애플은 구글 클라우드와 엔비디아 GPU를 활용하더라도 PCC 구조를 적용하고, 애플이 승인한 소프트웨어만...",
@@ -74,23 +90,7 @@ window.NEWS_DATA = {
           "src": "platum",
           "date": "08/05",
           "url": "https://platum.kr/archives/291926",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-4.png"
-        },
-        {
-          "title": "30년 최저 성장에 세계은행, 개발도상국 AI 도입 촉구",
-          "desc": "자체 초거대 모델을 구축하기보다 현지 여건에 맞춘 저비용 AI 도구를 도입하는 방안이 현실적인 해법으로... 이번 보고서 역시 기술 자체보다 현지 제도와 기반 시설을 함께 정비하는 것이 AI 활용 성과를 좌우한다고...",
-          "src": "tokenpost",
-          "date": "08/05",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/385254",
-          "img": "https://f1.tokenpost.kr/2025/03/z2qwqpocxd.jpg"
-        },
-        {
-          "title": "한인교 대표 “AI 시대, 사람이 갖추어야 할 역량”…HSS 청소년 대상 재...",
-          "desc": "중심의 AI 환경을 구축하는 데 역량을 집중하고 있다.한 대표는 “기업이 AI를 도입할 때 가장 먼저... AI 기술을 개발하는 동시에 미래 세대가 AI를 바르게 이해하고 활용할 수 있도록 사회적 책임도 다하겠다”고...",
-          "src": "asiatoday",
-          "date": "08/05",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260805000113215",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/05d/20260805000113215_1785861328_1.jpg"
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/dfsfsfsfsadfa-1024x640.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
-      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
-      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
+      "title": "AI 투자, 칩 넘어 전력·건설장비로…마이크론 7.8%·SOXL 20%↑",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=346822",
+      "img": "https://cdn.greened.kr/news/thumbnail/202608/346822_398007_3115_v150.jpg"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.laborplus.co.kr/news/photo/202608/41243_73267_217.jpg"
     },
     {
-      "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+      "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
+      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
     },
     {
-      "title": "애플 차세대 시리, 구글 제미나이·클라우드로 구동",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/385265",
-      "img": "https://f1.tokenpost.kr/2026/08/byze7sdbbf.jpg"
+      "title": "미·중 AI 승부, 생태계에서 갈린다[정유신의 china story]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395698?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080413522030694_1.jpg"
     },
     {
-      "title": "중견기업 돼도 벤처 특례는 그대로… 중기부의 '헝클어진 머리 빗기'",
-      "url": "https://platum.kr/archives/291926",
-      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-4.png"
+      "title": "삼성, 8억대 갤럭시에 스테이블코인 탑재…유통 판도 바뀔까",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/385266",
+      "img": "https://f1.tokenpost.kr/2026/08/l66jrnv4lv.webp"
     }
   ]
 };
