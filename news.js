@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 00:16",
+  "updatedAt": "2026.08.05 (수) 02:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "‘AI로 만든 음악’ 이젠 저작권 인정",
-          "desc": "생성형 인공지능(AI)을 활용해 만든 음악도 저작권 등록이 가능해졌다. 국내 음악 저작권 등록 및 저작권료... 상생위원회’ 등과 연계하여 AI 음악 식별 기술(디텍션 프로그램) 도입을 검토하고 있다”고 말했다.",
-          "src": "중앙일보",
+          "title": "애플 차세대 시리, 구글 제미나이·클라우드로 구동",
+          "desc": "ai 시장 해석 애플은 차세대 시리에 구글 제미나이와 클라우드 기술을 도입한다. 구글은 AI 모델과... 애플은 구글 클라우드와 엔비디아 GPU를 활용하더라도 PCC 구조를 적용하고, 애플이 승인한 소프트웨어만...",
+          "src": "tokenpost",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/025/0003542318?sid=103",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/05/9c687c54-bd8d-44d8-857d-6c08d68116d9.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/385265",
+          "img": "https://f1.tokenpost.kr/2026/08/byze7sdbbf.jpg"
         },
         {
-          "title": "복지부, AI 의료기기 ‘진료실 안착’ 지원…루닛·제이엘케이 등 6개 컨...",
-          "desc": "AI 의료기기로, 컨소시엄당 최대 19억원 내외를 지원한다. 지원기간은 2026년부터 2027년까지 2년이다. 신의료기술평가와 보험등재, 선진입제도 활용을 위한 임상근거 확보와 다기관 실사용 데이터 축적, 의료기관 도입...",
-          "src": "medigatenews",
-          "date": "08/04",
-          "url": "https://www.medigatenews.com/news/1538134238",
-          "img": "https://medigatenews.com/file/news/515762"
+          "title": "중견기업 돼도 벤처 특례는 그대로… 중기부의 '헝클어진 머리 빗기'",
+          "desc": "처리하는 'AI 자율경영 식당' 모델을 확산한다. 상생 정책은 제조업 중심이던 상생 생태계를 플랫폼, 금융, 방산 분야로 넓히는 데 초점을 뒀다. 기술탈취 대응으로는 시정명령 도입, 최대 50억 원 과징금, 손해배상액...",
+          "src": "platum",
+          "date": "08/05",
+          "url": "https://platum.kr/archives/291926",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-4.png"
         },
         {
-          "title": "XR 입은 ‘허풍선이쇼’ 북미 간다…소울엑스, 뉴욕코믹콘서 첫 공개",
-          "desc": "소울엑스는 AI와 확장현실(XR) 기술을 결합한 실감형 콘텐츠 기업으로, 이번 행사에서 그래피직스의 에듀테인먼트 IP ‘허풍선이쇼’를 활용한 XR 참여형 게임 ‘허풍선이쇼 팡팡(Mind Blowing Breakthroughs XR PANGPANG)’을...",
-          "src": "venturesquare",
-          "date": "08/04",
-          "url": "https://www.venturesquare.net/1103556/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/play.png"
+          "title": "30년 최저 성장에 세계은행, 개발도상국 AI 도입 촉구",
+          "desc": "자체 초거대 모델을 구축하기보다 현지 여건에 맞춘 저비용 AI 도구를 도입하는 방안이 현실적인 해법으로... 이번 보고서 역시 기술 자체보다 현지 제도와 기반 시설을 함께 정비하는 것이 AI 활용 성과를 좌우한다고...",
+          "src": "tokenpost",
+          "date": "08/05",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/385254",
+          "img": "https://f1.tokenpost.kr/2025/03/z2qwqpocxd.jpg"
         },
         {
-          "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 \"일하는 AI 본격화\"",
-          "desc": "SGA는 긴 대화, 다단계 도구 호출, 대규모 문서 참조가 반복되는 AI 에이전트 환경을 겨냥한 기술이다. 김... 현장의 도입 가능성을 높이는 전략을 언급했다. 그는 \"산업 현장이 텍스트로만 움직이지 않는다\"며 \"제조...",
-          "src": "블로터",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088599?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/670006_283032_4934_v150.jpg"
+          "title": "한인교 대표 “AI 시대, 사람이 갖추어야 할 역량”…HSS 청소년 대상 재...",
+          "desc": "중심의 AI 환경을 구축하는 데 역량을 집중하고 있다.한 대표는 “기업이 AI를 도입할 때 가장 먼저... AI 기술을 개발하는 동시에 미래 세대가 AI를 바르게 이해하고 활용할 수 있도록 사회적 책임도 다하겠다”고...",
+          "src": "asiatoday",
+          "date": "08/05",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260805000113215",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/05d/20260805000113215_1785861328_1.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
     },
     {
-      "title": "‘AI로 만든 음악’ 이젠 저작권 인정",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542318?sid=103",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/05/9c687c54-bd8d-44d8-857d-6c08d68116d9.jpg"
+      "title": "애플 차세대 시리, 구글 제미나이·클라우드로 구동",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/385265",
+      "img": "https://f1.tokenpost.kr/2026/08/byze7sdbbf.jpg"
     },
     {
-      "title": "복지부, AI 의료기기 ‘진료실 안착’ 지원…루닛·제이엘케이 등 6개 컨...",
-      "url": "https://www.medigatenews.com/news/1538134238",
-      "img": "https://medigatenews.com/file/news/515762"
+      "title": "중견기업 돼도 벤처 특례는 그대로… 중기부의 '헝클어진 머리 빗기'",
+      "url": "https://platum.kr/archives/291926",
+      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-4.png"
     }
   ]
 };
