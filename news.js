@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 19:27",
+  "updatedAt": "2026.08.04 (화) 21:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,7 +21,7 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "12차 전기본 9~10월 마련… 원전 신설은 내주부터 공론화",
+          "title": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\"",
           "desc": "4개·삼성전자 6개 팹이 단축된 시기 안에 진행되도록 하겠다\"고 말했다. 자원순환 분야는 별도 실로 격상해 두 개 국으로 나누는 방안을 행정안전부와 협의 중이며, 김 장관은 \"폐가전 속 희토류처럼 고철로 팔려나가던...",
           "src": "파이낸셜뉴스",
           "date": "08/04",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "신세계I&C, KT와 뉴타닉스 사업 공동 추진",
-          "desc": "원’을 활용해 아키텍처 설계와 기술 컨설팅 및 구축·운영 지원을 제공한다. 양사는 표준화된 뉴타닉스... 기업의 AI 도입이 늘면서 중요 데이터는 내부 환경에서 관리하고, 필요에 따라 외부 클라우드 자원을 활용하려는...",
-          "src": "디지털타임스",
+          "title": "'K-팔란티어' 전망은?...정부, 신안보 기업 육성 착수",
+          "desc": "AI 소프트웨어나 드론, 위성 부품을 개발한 스타트업이 기술을 완성하고도 첫 납품처를 찾지 못하는 일이... 기술의 활용 범위가 넓어지고 있다. 문제는 민간 기술의 개발 속도와 군의 장비 도입 절차 사이에 차이가 크다는...",
+          "src": "CNB뉴스",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/029/0003040692?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.af34858eff624abf94669a597eebc302_R.png"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010326",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1010326_511415_4549.png"
         },
         {
-          "title": "[강정모의 실사구시 경제] AI 혁명과 교주고슬(膠柱鼓瑟)의 대한민국",
-          "desc": "AI 생태계에 축적된 데이터와 인터페이스는 사용자에게 거대한 전환 비용을 발생시키며 한번 독점된 시장은 고착화돼 심각한 ‘시장실패’를 낳는다. 이는 자본과 데이터를 선점한 소수에게 부가 집중되고, 기술 활용...",
-          "src": "kyeonggi",
+          "title": "제조업 AI 도입하니 생산성 30% ↑ 불량률 15% ↓",
+          "desc": "자율용접·검사 기술을 도입해 생산성을 50% 높였다. 조선·특수가스용 고압 실린더 생산기업은 인공지능... 지역 특화 제조데이터의 수집·활용과 현장형 인력 양성도 병행한다. 산업부는 오는 2030년까지 전국에 AI팩...",
+          "src": "ulsanpress",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/666/0000117894?sid=110",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/04/.cache/512/20260804580626.jpg?v=20260804192811"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580418",
+          "img": "https://www.ulsanpress.net/image/logo/snslogo_20230209014525.png"
         },
         {
-          "title": "창원시, 계도 중심 주차행정 본격화",
-          "desc": "창원시정연구원은 4일 연구원 대회의실에서 '엣지 AI를 활용한 도시지역 도로 주차관리시스템 효율적 도입... 위한 AI 기반 현장관리 방안을 논의했다. 주제발표를 맡은 이유화 한국건설기술연구원 도로교통연구본부...",
-          "src": "gnnews",
+          "title": "동두천시, 지능형(AI) CCTV와 함께! 아동 안전교육 실시",
+          "desc": "이번 체험활동은 관제센터를 방문한 어린이들이 CCTV에 대한 기본 정보 및 활용 사례를 설명 듣고, 비상벨을... 시 관계자는“위험을 감지하고 도움을 요청하는 방법을 아이들이 자연스럽게 익히는 것은 물론, AI 기술이...",
+          "src": "dnews",
           "date": "08/04",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642555",
-          "img": "https://cdn.gnnews.co.kr/news/photo/202608/642555_443221_1525.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041158073910714",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/04/202608041158073910714-2-681877.jpg"
         },
         {
-          "title": "AI로 그린바이오 기업 경쟁력 키운다",
-          "desc": "최근 AI 기술은 연구개발(R&D), 제품 개발, 품질관리, 디자인, 마케팅, 투자 유치, 수출 등 기업 경영 전반의... ◇업무 전반 AI 활용 확대=진흥원은 내부 업무에도 AI를 적극 도입한다. 부서별 AX 활성화를 위한 단계별...",
-          "src": "gnnews",
+          "title": "\"AX에 필요한 모든 정보를 한눈에\"...AX 원스톱 지원포털 'AX360°' 서비스...",
+          "desc": "다양한 AI모델의 유형·이용 방식·가격과 도입사례를 안내한다. 데이터는 원윈도우·AI허브·마이데이터 등... 확인·활용할 수 있도록 지원한다. ▷AI기업 탐색은 국내 인공지능 기업이 보유한 기술과 솔루션의 기능...",
+          "src": "AI타임스",
           "date": "08/04",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642576",
-          "img": "https://cdn.gnnews.co.kr/news/photo/202608/642576_443237_5121.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41307",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41307_62204_3741_v150.jpg"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "디지털데일리",
           "date": "08/04",
           "url": "https://n.news.naver.com/mnews/article/138/0002236549?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/04/2026080415192254284_l.jpg"
+          "img": ""
         }
       ]
     },
@@ -177,7 +177,7 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "12차 전기본 9~10월 마련… 원전 신설은 내주부터 공론화",
+      "title": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\"",
       "url": "https://n.news.naver.com/mnews/article/014/0005557181?sid=101",
       "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041814440713_l.jpg"
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/08/04/20260804150239167889.jpg"
     },
     {
-      "title": "신세계I&C, KT와 뉴타닉스 사업 공동 추진",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040692?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.af34858eff624abf94669a597eebc302_R.png"
+      "title": "'K-팔란티어' 전망은?...정부, 신안보 기업 육성 착수",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010326",
+      "img": "https://cdn.cnbnews.com/news/photo/202608/1010326_511415_4549.png"
     },
     {
-      "title": "[강정모의 실사구시 경제] AI 혁명과 교주고슬(膠柱鼓瑟)의 대한민국",
-      "url": "https://n.news.naver.com/mnews/article/666/0000117894?sid=110",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/04/.cache/512/20260804580626.jpg?v=20260804192811"
+      "title": "제조업 AI 도입하니 생산성 30% ↑ 불량률 15% ↓",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580418",
+      "img": "https://www.ulsanpress.net/image/logo/snslogo_20230209014525.png"
     }
   ]
 };
