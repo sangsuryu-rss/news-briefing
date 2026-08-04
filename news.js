@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 13:55",
+  "updatedAt": "2026.08.04 (화) 16:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…'초이스 더블' 요금제도 새 단장",
-          "desc": "KT가 4일부터 전국 KT 매장과 KT다이렉트샵에서 삼성전자 갤럭시 Z 폴드8 울트라·폴드8·플립8의 사전개통을... 등 가전제품 할인을 받을 수 있는 '초이스 더블 디바이스' 라인업으로 구성했다. 단말 케어와 제휴 할인...",
-          "src": "파이낸셜뉴스",
+          "title": "[TOP's Pick] [전자·IT] SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개...",
+          "desc": "◆삼성전자 ‘갤럭시 Z8 시리즈’, 국내 사전 판매 ‘144만대’로 신기록 삼성전자가 7월 28일부터 8월... 구매 주기가 짧고, 구매 빈도가 높은 카테고리를 강화하고 이를 통해 늘어난 고객 접점을 통해 다른 가전의...",
+          "src": "topdaily",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/014/0005556973?sid=105",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041203513555_l.jpg"
+          "url": "https://www.topdaily.kr/articles/111291",
+          "img": "https://assets.repress.co.kr/photos/d5fead53ec06a36be02dacff5f4a9e73/thumb.jpeg"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -37,12 +37,12 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
-          "title": "SK하이닉스-삼성전자-LG전자, HBF 첫 표준 규격 공개...아마존과 협력 고...",
-          "desc": "SK하이닉스는 샌디스크와 함께 HBF 첫 표준 규격을 공개했으며 삼성전자는 아마존과 협력해 차세대... 세탁기와 건조기 공급을 완료했다고 8월 3일 밝혔다. 올해 새롭게 문을 여는 400여 개 매장에도 제품을...",
-          "src": "wsobi",
+          "title": "소송·관세 안 먹혀…삼성·LG에 밀린 美월풀의 몰락",
+          "desc": "LG전자와 삼성전자의 제품 경쟁력을 뛰어넘지 못한 결과다. 지난 5월 미국 캘리포니아주의 한 홈디포 매장에 진열된 월풀의 세탁기(왼쪽), 건조기(가운데). 오른쪽 제품은 GE의 세탁건조기. (사진=AFP) 월풀은 3일...",
+          "src": "이데일리",
           "date": "08/04",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=316136",
-          "img": "http://www.wsobi.com/news/photo/202608/316136_188615_841.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006344161?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401199.jpg"
         },
         {
           "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "우리은행 'AI상담' 더 똑똑해진다...AI챗봇·상담봇 재구축 사업 착수",
-          "desc": "1단계에서는 멀티모달 기술을 적용한 신규 상담 업무 10종을 먼저 도입하고, 내년 5월 2단계 오픈 때 AI챗봇과... 생성형 AI를 결합해 고객 상담의 자율성과 완결성을 높이는 것이 핵심\"이라며 \"AI를 활용해 고객이 보다 쉽고...",
-          "src": "더팩트",
+          "title": "‘극장 화질을 방구석으로’…삼성전자, 아마존과 차세대 ‘HDR10+ 어드밴...",
+          "desc": "[사진=삼성전자] 삼성전자와 아마존은 프라임 비디오가 지난 2017년 OTT 업계 최초로 ‘HDR10+’를 도입한... ‘인핸스드 브라이트니스’는 매장면의 최적 화면 밝기 정보와 AI 기반 ‘톤 매핑’ 기술을 활용해 TV가...",
+          "src": "swtvnews",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/629/0000521577?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/08/04/202673121785818429.png"
+          "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065596142880417",
+          "img": "https://www.swtvnews.com/news/data/20260804/p1065596142880417_610_thum.jpg"
         },
         {
-          "title": "잡코리아, AI 시대 HR 전략 제시…'흐레카 26' 컨퍼런스 개최",
-          "desc": "올해 행사 주제는 'AI 시대, 승리를 만드는 변화'다. 채용과 조직 운영, 성과관리 등 HR 전반에서 AI 활용이... 정은혜 웍스피어 인사이트전략팀 팀장은 \"AI가 일하는 방식을 바꾸는 시대에는 기술 도입을 넘어 이를...",
-          "src": "더팩트",
+          "title": "쿠팡, '자유로운 휴무 공모전' 개최…백업기사 시스템으로 확산하는 배...",
+          "desc": "서울 송파구 타워 730에서 열린 이번 시상식에서는 현장에서 자유롭게 휴무를 활용하며 일과 삶의 균형을... 이 밖에도 과거 주 6일 근무 당시에는 엄두를 내지 못했던 영상 촬영 AI 기술 교육 등 자기계발에 도전하거나...",
+          "src": "news",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/629/0000521579?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/08/04/202615961785819049.jpg"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098821",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098821_752489_2857_v150.jpg"
         },
         {
-          "title": "'데이터 분석 1분 만에'...여기어때, 구글 클라우드와 맞손으로 AI 업무...",
-          "desc": "도입해 내부 시스템과 외부 도구를 플러그인 방식으로 연결할 수 있도록 했다. 이를 통해 하이브리드 클라우드 기반의 유연한 업무 환경을 마련했다. 조문옥 여기어때 최고기술책임자는 \"전사적 구성원이 AI...",
-          "src": "cwn",
+          "title": "강남구, 민선 9기 하반기 인사 단행...성과와 실행력, 협업 능력 중심, ...",
+          "desc": "또한, 5급·6급으로의 승진심사 시 AI 활용 능력 평가를 도입할 계획이다. AI를 단순한 정보기술이 아니라 행정 생산성과 문제 해결력을 높이는 핵심 업무 역량으로 보고, 실제 행정에 활용할 수 있는 인재를 선발한다. 이번...",
+          "src": "cnbizm",
           "date": "08/04",
-          "url": "https://www.cwn.kr/news/articleView.html?idxno=52199",
-          "img": "https://cdn.cwn.kr/news/photo/202608/52199_52253_196.jpg"
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=310553",
+          "img": "https://cdn.cnbizm.com/news/photo/202608/310553_215285_267.jpg"
         },
         {
-          "title": "과기정통부·KOSA, AX 원스톱 지원포털 ‘AX360°’ 개시",
-          "desc": "AX 자원 찾기에서는 AX 핵심 자원인 GPU, AI 모델, 데이터 정보를 제공한다. GPU는 대표 모델별 성능과 활용... AI 기업 탐색 기능은 국내 AI 기업이 보유한 기술과 솔루션의 기능, 적용 사례, 과금 방식 등을 제공한다. AX를...",
-          "src": "이데일리",
+          "title": "AX 정보 한곳에…과기정통부, 'AX360°' 서비스 개시",
+          "desc": "가격, AI 모델의 도입 사례 등을 확인할 수 있다. 산업과 기능별 검색을 통해 필요한 기술을 보유한 협력기업도 찾을 수 있다. 향후에는 포털에서 탐색한 자원과 기업 정보를 활용해 AX 사업 기획 컨설팅을 온라인으로...",
+          "src": "m-i",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/018/0006344072?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401027.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1398830",
+          "img": "https://www.m-i.kr/image/logo/snslogo_20190410012442.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "액트로, 삼성 갤럭시 'Z폴드8'에 액추에이터 단독 공급",
-          "desc": "1차 협력사로서 폴디드줌, 손떨림 보정(OIS), 자동 초점(AF), 조리개(IRIS) 액추에이터 등 카메라 관련 부품을 공급해 왔다. 향후 공급 물량 전망과 관련해 액트로 측은 \"내년 상반기 출시 예정인 삼성전자 신규 플래그십...",
-          "src": "financialpost",
+          "title": "애플, '공급망 딜레마' 직면…메모리는 비싸고 중국은 멀고",
+          "desc": "애플 측은 삼성전자와 SK하이닉스, 마이크론 등 글로벌 메모리 주요 업체들의 가격 인상이 아이폰 제조원가... 공급처 확대 가능성을 제시하는 것만으로도 기존 협력사와의 가격 협상에서 유리한 위치를 확보할 수 있었기...",
+          "src": "opinionnews",
           "date": "08/04",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=269041",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/269041_345490_2634_v150.jpg"
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142557",
+          "img": "http://www.opinionnews.co.kr/news/thumbnail/202608/142557_104834_4350_v150.jpg"
         },
         {
-          "title": "정운찬 동반성장연구소 이사장 “적절한 이익 공유, 기업 선의 아닌 법...",
-          "desc": "“원래 자율주의자였다”고 한 정 이사장은 기업이 자발적으로 협력사와 이익을 나누는 것이 가장... 정 이사장은 최근 불거진 삼성전자와 SK하이닉스의 대규모 성과급 논란도 같은 문제의식에서 바라봤다. 성과를 낸...",
-          "src": "segye",
+          "title": "메모리값 폭등에 달라진 셈법…갤럭시는 원가 절감·아이폰은 서비스 확...",
+          "desc": "삼성전자는 협력사와 부품 가격을 조정하고 생산과 판매 과정의 효율을 높여 메모리 가격 상승분을 상쇄할 계획이다. 다니엘 아라우조 삼성전자 MX사업부 상무는 최근 실적발표 콘퍼런스콜에서 “기민한 시장 대응과...",
+          "src": "이투데이",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/022/0004148200?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/03/20260803517052.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2610882",
+          "img": "https://img.etoday.co.kr/pto_db/2026/07/20260728090517_2364963_1199_799.jpg"
         },
         {
-          "title": "[시노펙스 줌인]① 반도체 소부장으로 외연 확장…체질 전환 속도",
-          "desc": "시노펙스 관계자는 \"2006년 포스코 협력사인 소재 기업 '신양피앤피'와 삼성전자 협력사인 부품 기업 '유원텔레콤'의 합병으로 시노펙스가 출범한 지 20년을 맞았다\"며 \"2030년 매출 1조원 달성을 목표로 FPCB 기술을...",
-          "src": "블로터",
-          "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088533?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/669825_282893_759_v150.jpg"
+          "title": "[IT백과] 국산 서버가 공공시장에서 살아남을 수 있는 비결은?",
+          "desc": "기준은 부품 원산지가 아니라 조립·생산 공정을 어디서 하느냐다. 서버의 핵심인 CPU와 메모리는 대부분 해외산이다. 인텔, AMD, 삼성전자에서 사 온다. 국내 업체는 이를 메인보드에 얹어 자사 브랜드 완제품으로 만든다....",
+          "src": "디지털데일리",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/138/0002236549?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/04/2026080415192254284_l.jpg"
         },
         {
-          "title": "[메모리 딜레마/上]사상 최대 실적에도 공급과잉 공포 왜?",
-          "desc": "삼성전자와 SK하이닉스는 나란히 사상 최대 실적을 기록했지만, 주가는 패닉셀과 반짝 반등, 재하락을... 글로벌 협력사의 10만 개가 넘는 부품이 들어가고, 그중 핵심인 고출력 레이저 광원 시스템, 초정밀 반사경...",
-          "src": "비즈니스플러스",
-          "date": "08/03",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=114992",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/114992_113083_4048_v150.jpg"
+          "title": "[재계 빅4, 하반기 승부수①] 같은 AI, 각각 다른 투자 공식…실행력 전...",
+          "desc": "이재용 삼성전자 회장은 고대역폭메모리(HBM)와 첨단 패키징 등 AI 핵심부품에 집중했고, 최태원 SK그룹... 소재·부품·장비 기술 개발과 확장에 투입하기로 했다. AI 경쟁력 역시 협력사와 제조 생태계 전체의 생산성...",
+          "src": "mydaily",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/117/0004091588?sid=105",
+          "img": "https://mydaily.co.kr/photos/2026/08/04/2026080413493333063_l.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…'초이스 더블' 요금제도 새 단장",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556973?sid=105",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041203513555_l.jpg"
+      "title": "[TOP's Pick] [전자·IT] SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개...",
+      "url": "https://www.topdaily.kr/articles/111291",
+      "img": "https://assets.repress.co.kr/photos/d5fead53ec06a36be02dacff5f4a9e73/thumb.jpeg"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -187,9 +187,9 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
-      "title": "SK하이닉스-삼성전자-LG전자, HBF 첫 표준 규격 공개...아마존과 협력 고...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=316136",
-      "img": "http://www.wsobi.com/news/photo/202608/316136_188615_841.jpg"
+      "title": "소송·관세 안 먹혀…삼성·LG에 밀린 美월풀의 몰락",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344161?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401199.jpg"
     },
     {
       "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.impacton.net/news/thumbnail/202608/19821_31410_1451_v150.jpg"
     },
     {
-      "title": "우리은행 'AI상담' 더 똑똑해진다...AI챗봇·상담봇 재구축 사업 착수",
-      "url": "https://n.news.naver.com/mnews/article/629/0000521577?sid=101",
-      "img": "https://img.tf.co.kr/article/home/2026/08/04/202673121785818429.png"
+      "title": "‘극장 화질을 방구석으로’…삼성전자, 아마존과 차세대 ‘HDR10+ 어드밴...",
+      "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065596142880417",
+      "img": "https://www.swtvnews.com/news/data/20260804/p1065596142880417_610_thum.jpg"
     },
     {
-      "title": "잡코리아, AI 시대 HR 전략 제시…'흐레카 26' 컨퍼런스 개최",
-      "url": "https://n.news.naver.com/mnews/article/629/0000521579?sid=101",
-      "img": "https://img.tf.co.kr/article/home/2026/08/04/202615961785819049.jpg"
+      "title": "쿠팡, '자유로운 휴무 공모전' 개최…백업기사 시스템으로 확산하는 배...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098821",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098821_752489_2857_v150.jpg"
     }
   ]
 };
