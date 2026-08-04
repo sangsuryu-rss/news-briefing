@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 08:04",
+  "updatedAt": "2026.08.04 (화) 10:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자·LG전자가 만든 스마트 주거 플랫폼 '모듈러 주택'",
-          "desc": "목조 모듈러 주택 전문기업인 공간제작소가 지은 주택에 삼성전자의 AI 가전을 적용한 방식이다. 집 안의 모든 가전제품을 삼성전자의 스마트홈 플랫폼 '스마트싱스(SmartThings)'로 연결해 작동하는 구조다. AI를 활용해...",
+          "title": "[글로벌 마켓노트]EU 포장규제 일주일 앞…전자·가전도 '친환경 포장' ...",
+          "desc": "삼성전자와 LG전자도 이에 대비해 친환경 포장재 사용을 확대해 왔습니다. 삼성전자는 지난해 갤럭시S25 시리즈의 포장재를 모두 100% 재활용 종이 소재로 만들었습니다. 제품을 고정하는 플라스틱 용기도 제품 모양에...",
+          "src": "view",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/277/0005798547?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080315501067855_1785739810.jpg"
+        },
+        {
+          "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
+          "desc": "최근 글로벌 가전 시장을 이끄는 삼성전자와 LG전자가 자사 스마트 TV 앱스토어에서 악용 우려 코드가 포함된... 오늘날 가정에는 안드로이드 스트리밍 박스, 스마트 냉장고, 로봇 청소기, 에어컨 등 와이파이에 연결된...",
           "src": "조선일보",
           "date": "08/04",
-          "url": "http://woman.chosun.com/news/articleView.html?idxno=126363",
-          "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126363_155306_5714_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
         },
         {
-          "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈...",
-          "desc": "스피커, 로봇청소기 등을 통해 음성으로 위험을 알리고 조명도 점멸한다. AI 절약모드와 자동 블라인드, 외출모드, EHS 히트펌프 등을 활용한 에너지 관리 기능도 적용됐다. 삼성전자 관계자는 “단독주택...",
-          "src": "서울경제",
-          "date": "08/02",
-          "url": "https://n.news.naver.com/mnews/article/011/0004647719?sid=101",
-          "img": ""
-        },
-        {
-          "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
-          "desc": "삼성전자가 최근 ‘반도체 초호황 성과를 나누겠다’며 구매액의 20~30%를 온누리상품권으로 지급하는 감사... 의류 건조기, 식기세척기 등 11종입니다. 벽걸이 에어컨은 에너지소비효율 1등급, 그 외 에어컨은 1~3등급이며...",
-          "src": "서울신문",
-          "date": "08/03",
-          "url": "https://n.news.naver.com/mnews/article/081/0003667024?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
-        },
-        {
-          "title": "\"삼성에 안 뺏겨\"… LG전자, 모듈러 주택 선발 주자 굳히기",
-          "desc": "삼성전자는 지난 6월 목조 모듈러 전문기업 공간제작소와 협력해 '삼성 AI 모듈러 홈'을 공개했다. 냉장고·세탁기·에어컨 등 집 안 가전을 스마트홈 플랫폼 '스마트싱스'로 연결해 AI 기반으로 제어하는 것이 핵심이다....",
-          "src": "조선일보",
+          "title": "[가전 트렌드] 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 ...",
+          "desc": "-편집자 말 ◇ 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정 삼성전자, 26년 올해의 녹색상품... 일체형 세탁건조기 '비스포크 AI 콤보'는 고효율 히트펌프 기술을 적용해 세탁부터 건조까지 '쾌속 코스...",
+          "src": "ibabynews",
           "date": "08/04",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167191",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167191_449228_456_v150.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153434",
+          "img": "https://www.ibabynews.com/news/photo/202608/153434_118844_129.jpg"
+        },
+        {
+          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
+          "desc": "이동통신 3사가 삼성전자의 신규 폴더블 스마트폰 갤럭시 Z 폴드8 울트라·폴드8·플립8의 7일간... 유튜브 프리미엄 라이트와 넷플릭스 광고형 스탠다드를 동시에 즐길 수 있는 요금제는 물론 디바이스 및 가전제품...",
+          "src": "newscj",
+          "date": "08/04",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3422267",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3422267_3532975_1053_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'접근성'이 경쟁력…게임·e스포츠, 장애인 문턱 낮춘다 [엔터그알]",
-          "desc": "시각·청각·운동·인지 영역별 접근성 기능을 체계화해 개발 현장에서 활용할 수 있도록 하고, 향후에는... AI와 에듀테크를 체험할 수 있는 공간도 마련된다. 공연과 문화행사까지 함께 구성해 학생들이 디지털 기술을...",
-          "src": "news",
+          "title": "생성형 AI 기술 드라마·예능도 장악",
+          "desc": "최근 방송가에서 AI 기술의 활용 범위가 빠르게 늘어나고 있다. 단순 보조 도구를 넘어 대규모 제작비가... 특히 2회 도입부는 실제 촬영 없이 주요 장면 전체를 AI로 완성한 국내 상업 드라마 최초 사례로 주목받았다....",
+          "src": "kwnews",
           "date": "08/04",
-          "url": "https://news.mtn.co.kr/news-detail/2026080316341454406",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/08/03/2026080316341454406_00_163.jpg"
-        },
-        {
-          "title": "AI 활용 공간분석 시대로…국토부, ‘제4차 공간정보산업진흥계획’ 수...",
-          "desc": "GeoAI를 활용해 다양한 서비스도 확대 제공한다. 다양한 공간정보의 상호 운용성을 높이고 공간정보가 AI 등 신기술 분야와 융·복합될 수 있도록 기계가 읽을 수 있는 포맷 표준을 도입하고 공간정보 품질관리 자동화...",
-          "src": "lak",
-          "date": "08/04",
-          "url": "http://www.lak.co.kr/news/boardview.php?id=23628",
+          "url": "https://n.news.naver.com/mnews/article/087/0001209216?sid=102",
           "img": ""
         },
         {
-          "title": "무색해 진 '메가허브'...롯데글로벌로지스, 올 1분기 택배 영업이익률 ...",
-          "desc": "이에 업계에서는 추후 마련될 자금이 신규 성장 투자보다는 기존 설비투자(CAPEX) 집행에 우선 활용될... 롯데글로벌로지스는 AI, 디지털 트윈, 로컬 LLM, 로봇배송 등 미래 물류 기술에 대한 투자를 지속하겠다는 계획을...",
-          "src": "유스경제",
+          "title": "현대건설, 철거현장에 살수드론 도입",
+          "desc": "현대건설이 철거공사 현장의 비산먼지 저감과 작업자 안전 확보를 위해 무인 살수드론을 도입한다. 회사는... HMG건설기술연구원이 추진하는 스마트 건설 전략의 일환이다. 연구원은 AI(인공지능)·로보틱스 활용을 4대...",
+          "src": "newskr",
           "date": "08/04",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=224347",
-          "img": "https://www.youthdaily.co.kr/data/design/logo/default_image_share_20250708130510.jpg"
+          "url": "http://www.newskr.kr/news/articleView.html?idxno=105324",
+          "img": "https://cdn.newskr.kr/news/thumbnail/202608/105324_94527_2510_v150.jpg"
         },
         {
-          "title": "[김예령의 보험픽] 보험업계 AI, 속도보다 중요한 것은",
-          "desc": "중요한 것은 AI 자체보다 이를 어떻게 활용하고 책임질 것인지에 대한 기업의 역량이다. 보험업계에서도 AI를... 앞세워 AI 기술력을 적극 알리는 추세다. 그러나 기술 도입 속도가 빨라질수록 한계와 부작용도 드러나고...",
-          "src": "cstimes",
+          "title": "현대건설, 철거현장 살수드론 실증 완료… 무인로봇 도입 확대",
+          "desc": "건설기술 도입과 실증을 확대해 보다 안전하고 지속가능한 건설 환경 조성에 앞장서겠다”고 밝혔다. 한편 현대건설과 현대엔지니어링의 통합 연구개발(R&D) 조직인 HMG건설기술연구원은 인공지능(AI)·로보틱스 기반 안전...",
+          "src": "조선일보",
           "date": "08/04",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=715565",
-          "img": "https://www.cstimes.com/news/photo/202608/715565_635830_3431.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001184164?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/DVS6S67IYRHUFMSRE5UNV5RAPQ.jpg?auth=85a8d6253fe9200d4cf18dd549e2cacee4f6d37a99b87067bc75ac6e8dd641e5&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "지니언스, 상반기 영업익 43억원…전년比 294.3% 증가",
+          "desc": "회사 관계자는 “지난해 대형 해킹 사고의 여파로 EDR 수요가 증가한 가운데 백신(AV)과 EDR을 동시에 도입... 최근 앤트로픽의 ‘미토스’ 사례처럼 생성형 AI를 활용한 자율 해킹 위협이 커지면서 사후 수습에서...",
+          "src": "조선일보",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/366/0001184163?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/XIBOLXUUBJGEPB6K4H7FUNEJIA.png?auth=89d87e75157e62d5dca6563f570c75ead7a8f067f72ab528da992c285c562bbd&width=1024&height=537&smart=true"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자·LG전자가 만든 스마트 주거 플랫폼 '모듈러 주택'",
-      "url": "http://woman.chosun.com/news/articleView.html?idxno=126363",
-      "img": "https://cdn.woman.chosun.com/news/thumbnail/202607/126363_155306_5714_v150.jpg"
+      "title": "[글로벌 마켓노트]EU 포장규제 일주일 앞…전자·가전도 '친환경 포장' ...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798547?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080315501067855_1785739810.jpg"
     },
     {
-      "title": "삼성전자 ‘감사 이벤트’ 놓쳤어도…30만원 환급에 세금 공제 ‘알뜰팁...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667024?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/07/27/SSC_20260727164125_O2.jpg"
+      "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
     },
     {
-      "title": "\"삼성에 안 뺏겨\"… LG전자, 모듈러 주택 선발 주자 굳히기",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167191",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167191_449228_456_v150.jpg"
+      "title": "[가전 트렌드] 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 ...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153434",
+      "img": "https://www.ibabynews.com/news/photo/202608/153434_118844_129.jpg"
     },
     {
-      "title": "'접근성'이 경쟁력…게임·e스포츠, 장애인 문턱 낮춘다 [엔터그알]",
-      "url": "https://news.mtn.co.kr/news-detail/2026080316341454406",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/08/03/2026080316341454406_00_163.jpg"
+      "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3422267",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3422267_3532975_1053_v150.jpg"
     },
     {
-      "title": "무색해 진 '메가허브'...롯데글로벌로지스, 올 1분기 택배 영업이익률 ...",
-      "url": "https://www.youthdaily.co.kr/news/article.html?no=224347",
-      "img": "https://www.youthdaily.co.kr/data/design/logo/default_image_share_20250708130510.jpg"
+      "title": "현대건설, 철거현장에 살수드론 도입",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=105324",
+      "img": "https://cdn.newskr.kr/news/thumbnail/202608/105324_94527_2510_v150.jpg"
     },
     {
-      "title": "[김예령의 보험픽] 보험업계 AI, 속도보다 중요한 것은",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=715565",
-      "img": "https://www.cstimes.com/news/photo/202608/715565_635830_3431.jpg"
+      "title": "현대건설, 철거현장 살수드론 실증 완료… 무인로봇 도입 확대",
+      "url": "https://n.news.naver.com/mnews/article/366/0001184164?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/DVS6S67IYRHUFMSRE5UNV5RAPQ.jpg?auth=85a8d6253fe9200d4cf18dd549e2cacee4f6d37a99b87067bc75ac6e8dd641e5&width=1200&height=630&smart=true"
     }
   ]
 };
