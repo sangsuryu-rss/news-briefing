@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 21:53",
+  "updatedAt": "2026.08.05 (수) 00:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\"",
-          "desc": "4개·삼성전자 6개 팹이 단축된 시기 안에 진행되도록 하겠다\"고 말했다. 자원순환 분야는 별도 실로 격상해 두 개 국으로 나누는 방안을 행정안전부와 협의 중이며, 김 장관은 \"폐가전 속 희토류처럼 고철로 팔려나가던...",
-          "src": "파이낸셜뉴스",
+          "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
+          "desc": "계약상대방은 삼성전자 주식회사이고, 계약상대방 업종은 반도체·가전제품 등으로 기재됐다. 공급지역은 국내이며, 계약기간은 2027년 4월 1일부터 2028년 12월 31일까지다. 계약일은 2026년 8월 3일이다....",
+          "src": "kdpress",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/014/0005557181?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041814440713_l.jpg"
+          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
+          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
-          "title": "젊은층서 '코인 빨래방' 열풍…세탁기 시장 큰손 된 동남아",
-          "desc": "이 회사는 런드리유에 세탁기와 건조기를 공급하고 있다. 한국 기업도 동남아 시장에 주목하고 있다. 삼성전자 필리핀 법인은 지난 3월 마닐라에서 ‘스마트워시 비즈니스 솔루션’을 공개하고 상업용 세탁시장...",
-          "src": "한국경제",
+          "title": "8월 1주 주요 제조업 전망",
+          "desc": "전망함 □ 삼성전자 2분기 D램 세계 시장 점유율 1위 - 시장조사업체 카운터포인트리서치에 의하면 올해... LG전자가 3일 태국 2위 빨래방 프랜차이즈 트렌드 워시의 매장 630곳에 세탁기·건조기를 납품했다고 밝힘....",
+          "src": "laborplus",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/015/0005317250?sid=104",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41243",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41243_73267_217.jpg"
         },
         {
-          "title": "트럼프 \"마지막 기회\" 압박…삼성·LG 호르무즈 운임 부담 길어지나",
-          "desc": "[사진=연합뉴스] 도널드 트럼프 미국 대통령이 이란을 향해 협상 압박 수위를 다시 높이면서 삼성전자와... TV와 냉장고, 세탁기 등 대형 제품은 항공보다 해상 운송 의존도가 높다. 선박이 위험 해역을 우회하거나...",
-          "src": "아주경제",
+          "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
+          "desc": "최근 글로벌 가전 시장을 이끄는 삼성전자와 LG전자가 자사 스마트 TV 앱스토어에서 악용 우려 코드가 포함된... 오늘날 가정에는 안드로이드 스트리밍 박스, 스마트 냉장고, 로봇 청소기, 에어컨 등 와이파이에 연결된...",
+          "src": "조선일보",
           "date": "08/04",
-          "url": "https://www.ajunews.com/view/20260804145839506",
-          "img": "https://image.ajunews.com/content/image/2026/08/04/20260804150239167889.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'K-팔란티어' 전망은?...정부, 신안보 기업 육성 착수",
-          "desc": "AI 소프트웨어나 드론, 위성 부품을 개발한 스타트업이 기술을 완성하고도 첫 납품처를 찾지 못하는 일이... 기술의 활용 범위가 넓어지고 있다. 문제는 민간 기술의 개발 속도와 군의 장비 도입 절차 사이에 차이가 크다는...",
-          "src": "CNB뉴스",
-          "date": "08/04",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010326",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1010326_511415_4549.png"
+          "title": "‘AI로 만든 음악’ 이젠 저작권 인정",
+          "desc": "생성형 인공지능(AI)을 활용해 만든 음악도 저작권 등록이 가능해졌다. 국내 음악 저작권 등록 및 저작권료... 상생위원회’ 등과 연계하여 AI 음악 식별 기술(디텍션 프로그램) 도입을 검토하고 있다”고 말했다.",
+          "src": "중앙일보",
+          "date": "08/05",
+          "url": "https://n.news.naver.com/mnews/article/025/0003542318?sid=103",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/05/9c687c54-bd8d-44d8-857d-6c08d68116d9.jpg"
         },
         {
-          "title": "제조업 AI 도입하니 생산성 30% ↑ 불량률 15% ↓",
-          "desc": "자율용접·검사 기술을 도입해 생산성을 50% 높였다. 조선·특수가스용 고압 실린더 생산기업은 인공지능... 지역 특화 제조데이터의 수집·활용과 현장형 인력 양성도 병행한다. 산업부는 오는 2030년까지 전국에 AI팩...",
-          "src": "ulsanpress",
+          "title": "복지부, AI 의료기기 ‘진료실 안착’ 지원…루닛·제이엘케이 등 6개 컨...",
+          "desc": "AI 의료기기로, 컨소시엄당 최대 19억원 내외를 지원한다. 지원기간은 2026년부터 2027년까지 2년이다. 신의료기술평가와 보험등재, 선진입제도 활용을 위한 임상근거 확보와 다기관 실사용 데이터 축적, 의료기관 도입...",
+          "src": "medigatenews",
           "date": "08/04",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580418",
-          "img": "https://www.ulsanpress.net/image/logo/snslogo_20230209014525.png"
+          "url": "https://www.medigatenews.com/news/1538134238",
+          "img": "https://medigatenews.com/file/news/515762"
         },
         {
-          "title": "동두천시, 지능형(AI) CCTV와 함께! 아동 안전교육 실시",
-          "desc": "이번 체험활동은 관제센터를 방문한 어린이들이 CCTV에 대한 기본 정보 및 활용 사례를 설명 듣고, 비상벨을... 시 관계자는“위험을 감지하고 도움을 요청하는 방법을 아이들이 자연스럽게 익히는 것은 물론, AI 기술이...",
-          "src": "dnews",
+          "title": "XR 입은 ‘허풍선이쇼’ 북미 간다…소울엑스, 뉴욕코믹콘서 첫 공개",
+          "desc": "소울엑스는 AI와 확장현실(XR) 기술을 결합한 실감형 콘텐츠 기업으로, 이번 행사에서 그래피직스의 에듀테인먼트 IP ‘허풍선이쇼’를 활용한 XR 참여형 게임 ‘허풍선이쇼 팡팡(Mind Blowing Breakthroughs XR PANGPANG)’을...",
+          "src": "venturesquare",
           "date": "08/04",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041158073910714",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/04/202608041158073910714-2-681877.jpg"
+          "url": "https://www.venturesquare.net/1103556/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/play.png"
         },
         {
-          "title": "\"AX에 필요한 모든 정보를 한눈에\"...AX 원스톱 지원포털 'AX360°' 서비스...",
-          "desc": "다양한 AI모델의 유형·이용 방식·가격과 도입사례를 안내한다. 데이터는 원윈도우·AI허브·마이데이터 등... 확인·활용할 수 있도록 지원한다. ▷AI기업 탐색은 국내 인공지능 기업이 보유한 기술과 솔루션의 기능...",
-          "src": "AI타임스",
+          "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 \"일하는 AI 본격화\"",
+          "desc": "SGA는 긴 대화, 다단계 도구 호출, 대규모 문서 참조가 반복되는 AI 에이전트 환경을 겨냥한 기술이다. 김... 현장의 도입 가능성을 높이는 전략을 언급했다. 그는 \"산업 현장이 텍스트로만 움직이지 않는다\"며 \"제조...",
+          "src": "블로터",
           "date": "08/04",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41307",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41307_62204_3741_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000088599?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/670006_283032_4934_v150.jpg"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "디지털데일리",
           "date": "08/04",
           "url": "https://n.news.naver.com/mnews/article/138/0002236549?sid=105",
-          "img": ""
+          "img": "https://www.ddaily.co.kr/photos/2026/08/04/2026080415192254284_l.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557181?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041814440713_l.jpg"
+      "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
+      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207511_133469_5044.png"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
-      "title": "젊은층서 '코인 빨래방' 열풍…세탁기 시장 큰손 된 동남아",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317250?sid=104",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "8월 1주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41243",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41243_73267_217.jpg"
     },
     {
-      "title": "트럼프 \"마지막 기회\" 압박…삼성·LG 호르무즈 운임 부담 길어지나",
-      "url": "https://www.ajunews.com/view/20260804145839506",
-      "img": "https://image.ajunews.com/content/image/2026/08/04/20260804150239167889.jpg"
+      "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
     },
     {
-      "title": "'K-팔란티어' 전망은?...정부, 신안보 기업 육성 착수",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010326",
-      "img": "https://cdn.cnbnews.com/news/photo/202608/1010326_511415_4549.png"
+      "title": "‘AI로 만든 음악’ 이젠 저작권 인정",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542318?sid=103",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/05/9c687c54-bd8d-44d8-857d-6c08d68116d9.jpg"
     },
     {
-      "title": "제조업 AI 도입하니 생산성 30% ↑ 불량률 15% ↓",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580418",
-      "img": "https://www.ulsanpress.net/image/logo/snslogo_20230209014525.png"
+      "title": "복지부, AI 의료기기 ‘진료실 안착’ 지원…루닛·제이엘케이 등 6개 컨...",
+      "url": "https://www.medigatenews.com/news/1538134238",
+      "img": "https://medigatenews.com/file/news/515762"
     }
   ]
 };
