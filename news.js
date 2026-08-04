@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 10:29",
+  "updatedAt": "2026.08.04 (화) 13:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[글로벌 마켓노트]EU 포장규제 일주일 앞…전자·가전도 '친환경 포장' ...",
-          "desc": "삼성전자와 LG전자도 이에 대비해 친환경 포장재 사용을 확대해 왔습니다. 삼성전자는 지난해 갤럭시S25 시리즈의 포장재를 모두 100% 재활용 종이 소재로 만들었습니다. 제품을 고정하는 플라스틱 용기도 제품 모양에...",
-          "src": "view",
+          "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…'초이스 더블' 요금제도 새 단장",
+          "desc": "KT가 4일부터 전국 KT 매장과 KT다이렉트샵에서 삼성전자 갤럭시 Z 폴드8 울트라·폴드8·플립8의 사전개통을... 등 가전제품 할인을 받을 수 있는 '초이스 더블 디바이스' 라인업으로 구성했다. 단말 케어와 제휴 할인...",
+          "src": "파이낸셜뉴스",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/277/0005798547?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080315501067855_1785739810.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005556973?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041203513555_l.jpg"
         },
         {
-          "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-          "desc": "최근 글로벌 가전 시장을 이끄는 삼성전자와 LG전자가 자사 스마트 TV 앱스토어에서 악용 우려 코드가 포함된... 오늘날 가정에는 안드로이드 스트리밍 박스, 스마트 냉장고, 로봇 청소기, 에어컨 등 와이파이에 연결된...",
-          "src": "조선일보",
+          "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
+          "desc": "서구의 원천 기술을 넘어, 삼성전자와 LG전자의 피땀 어린 노력이 인류의 라이프스타일에 '새로운 청결의 기준'을 이식하며 글로벌 시장을 호령해 온 것이다. 이처럼 치열했던 혁신의 역사를 알기에, 최근 로봇청소기나...",
+          "src": "mediapen",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+          "url": "https://www.mediapen.com/news/view/1114168",
+          "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
-          "title": "[가전 트렌드] 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 ...",
-          "desc": "-편집자 말 ◇ 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 선정 삼성전자, 26년 올해의 녹색상품... 일체형 세탁건조기 '비스포크 AI 콤보'는 고효율 히트펌프 기술을 적용해 세탁부터 건조까지 '쾌속 코스...",
-          "src": "ibabynews",
+          "title": "SK하이닉스-삼성전자-LG전자, HBF 첫 표준 규격 공개...아마존과 협력 고...",
+          "desc": "SK하이닉스는 샌디스크와 함께 HBF 첫 표준 규격을 공개했으며 삼성전자는 아마존과 협력해 차세대... 세탁기와 건조기 공급을 완료했다고 8월 3일 밝혔다. 올해 새롭게 문을 여는 400여 개 매장에도 제품을...",
+          "src": "wsobi",
           "date": "08/04",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153434",
-          "img": "https://www.ibabynews.com/news/photo/202608/153434_118844_129.jpg"
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=316136",
+          "img": "http://www.wsobi.com/news/photo/202608/316136_188615_841.jpg"
         },
         {
-          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
-          "desc": "이동통신 3사가 삼성전자의 신규 폴더블 스마트폰 갤럭시 Z 폴드8 울트라·폴드8·플립8의 7일간... 유튜브 프리미엄 라이트와 넷플릭스 광고형 스탠다드를 동시에 즐길 수 있는 요금제는 물론 디바이스 및 가전제품...",
-          "src": "newscj",
+          "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
+          "desc": "대상은 세탁기와 식기세척기, 냉장고, 건조기, TV와 모니터, 스마트폰과 태블릿 등 EU 법령에 수리가능성... 삼성전자와 LG전자의 유럽 판매·서비스 조직에도 적용되는 조항이다. 삼성전자는 유럽에서 보증기간이 끝난...",
+          "src": "impacton",
           "date": "08/04",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3422267",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3422267_3532975_1053_v150.jpg"
+          "url": "http://www.impacton.net/news/articleView.html?idxno=19821",
+          "img": "https://cdn.impacton.net/news/thumbnail/202608/19821_31410_1451_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "생성형 AI 기술 드라마·예능도 장악",
-          "desc": "최근 방송가에서 AI 기술의 활용 범위가 빠르게 늘어나고 있다. 단순 보조 도구를 넘어 대규모 제작비가... 특히 2회 도입부는 실제 촬영 없이 주요 장면 전체를 AI로 완성한 국내 상업 드라마 최초 사례로 주목받았다....",
-          "src": "kwnews",
+          "title": "우리은행 'AI상담' 더 똑똑해진다...AI챗봇·상담봇 재구축 사업 착수",
+          "desc": "1단계에서는 멀티모달 기술을 적용한 신규 상담 업무 10종을 먼저 도입하고, 내년 5월 2단계 오픈 때 AI챗봇과... 생성형 AI를 결합해 고객 상담의 자율성과 완결성을 높이는 것이 핵심\"이라며 \"AI를 활용해 고객이 보다 쉽고...",
+          "src": "더팩트",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/087/0001209216?sid=102",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/629/0000521577?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/08/04/202673121785818429.png"
         },
         {
-          "title": "현대건설, 철거현장에 살수드론 도입",
-          "desc": "현대건설이 철거공사 현장의 비산먼지 저감과 작업자 안전 확보를 위해 무인 살수드론을 도입한다. 회사는... HMG건설기술연구원이 추진하는 스마트 건설 전략의 일환이다. 연구원은 AI(인공지능)·로보틱스 활용을 4대...",
-          "src": "newskr",
+          "title": "잡코리아, AI 시대 HR 전략 제시…'흐레카 26' 컨퍼런스 개최",
+          "desc": "올해 행사 주제는 'AI 시대, 승리를 만드는 변화'다. 채용과 조직 운영, 성과관리 등 HR 전반에서 AI 활용이... 정은혜 웍스피어 인사이트전략팀 팀장은 \"AI가 일하는 방식을 바꾸는 시대에는 기술 도입을 넘어 이를...",
+          "src": "더팩트",
           "date": "08/04",
-          "url": "http://www.newskr.kr/news/articleView.html?idxno=105324",
-          "img": "https://cdn.newskr.kr/news/thumbnail/202608/105324_94527_2510_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/629/0000521579?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/08/04/202615961785819049.jpg"
         },
         {
-          "title": "현대건설, 철거현장 살수드론 실증 완료… 무인로봇 도입 확대",
-          "desc": "건설기술 도입과 실증을 확대해 보다 안전하고 지속가능한 건설 환경 조성에 앞장서겠다”고 밝혔다. 한편 현대건설과 현대엔지니어링의 통합 연구개발(R&D) 조직인 HMG건설기술연구원은 인공지능(AI)·로보틱스 기반 안전...",
-          "src": "조선일보",
+          "title": "'데이터 분석 1분 만에'...여기어때, 구글 클라우드와 맞손으로 AI 업무...",
+          "desc": "도입해 내부 시스템과 외부 도구를 플러그인 방식으로 연결할 수 있도록 했다. 이를 통해 하이브리드 클라우드 기반의 유연한 업무 환경을 마련했다. 조문옥 여기어때 최고기술책임자는 \"전사적 구성원이 AI...",
+          "src": "cwn",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/366/0001184164?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/DVS6S67IYRHUFMSRE5UNV5RAPQ.jpg?auth=85a8d6253fe9200d4cf18dd549e2cacee4f6d37a99b87067bc75ac6e8dd641e5&width=1200&height=630&smart=true"
+          "url": "https://www.cwn.kr/news/articleView.html?idxno=52199",
+          "img": "https://cdn.cwn.kr/news/photo/202608/52199_52253_196.jpg"
         },
         {
-          "title": "지니언스, 상반기 영업익 43억원…전년比 294.3% 증가",
-          "desc": "회사 관계자는 “지난해 대형 해킹 사고의 여파로 EDR 수요가 증가한 가운데 백신(AV)과 EDR을 동시에 도입... 최근 앤트로픽의 ‘미토스’ 사례처럼 생성형 AI를 활용한 자율 해킹 위협이 커지면서 사후 수습에서...",
-          "src": "조선일보",
+          "title": "과기정통부·KOSA, AX 원스톱 지원포털 ‘AX360°’ 개시",
+          "desc": "AX 자원 찾기에서는 AX 핵심 자원인 GPU, AI 모델, 데이터 정보를 제공한다. GPU는 대표 모델별 성능과 활용... AI 기업 탐색 기능은 국내 AI 기업이 보유한 기술과 솔루션의 기능, 적용 사례, 과금 방식 등을 제공한다. AX를...",
+          "src": "이데일리",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/366/0001184163?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/XIBOLXUUBJGEPB6K4H7FUNEJIA.png?auth=89d87e75157e62d5dca6563f570c75ead7a8f067f72ab528da992c285c562bbd&width=1024&height=537&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/018/0006344072?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401027.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "액트로, 삼성 갤럭시 'Z폴드8'에 액추에이터 단독 공급",
+          "desc": "1차 협력사로서 폴디드줌, 손떨림 보정(OIS), 자동 초점(AF), 조리개(IRIS) 액추에이터 등 카메라 관련 부품을 공급해 왔다. 향후 공급 물량 전망과 관련해 액트로 측은 \"내년 상반기 출시 예정인 삼성전자 신규 플래그십...",
+          "src": "financialpost",
+          "date": "08/04",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=269041",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/269041_345490_2634_v150.jpg"
+        },
         {
           "title": "정운찬 동반성장연구소 이사장 “적절한 이익 공유, 기업 선의 아닌 법...",
           "desc": "“원래 자율주의자였다”고 한 정 이사장은 기업이 자발적으로 협력사와 이익을 나누는 것이 가장... 정 이사장은 최근 불거진 삼성전자와 SK하이닉스의 대규모 성과급 논란도 같은 문제의식에서 바라봤다. 성과를 낸...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/03",
           "url": "https://www.businessplus.kr/news/articleView.html?idxno=114992",
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/114992_113083_4048_v150.jpg"
-        },
-        {
-          "title": "[단독]사전예약 3배 뛰자…삼성, 갤럭시Z폴드8 부품 긴급 증산",
-          "desc": "3일 관련 업계에 따르면 삼성전자는 최근 국내 초박형 강화유리(UTG) 협력사에 갤럭시Z폴드8용 부품 생산을 늘려달라고 요청했다. 삼성전자의 주요 UTG 협력사는 도우인시스와 이코니 등이다. 이번 증산은 사전예약 기간...",
-          "src": "newsway",
-          "date": "08/03",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026080310362345718",
-          "img": "https://nimage.newsway.co.kr/photo/2026/07/22/20260722000041_1200.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[글로벌 마켓노트]EU 포장규제 일주일 앞…전자·가전도 '친환경 포장' ...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798547?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080315501067855_1785739810.jpg"
+      "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…'초이스 더블' 요금제도 새 단장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556973?sid=105",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041203513555_l.jpg"
     },
     {
-      "title": "삼성·LG 스마트TV용 일부 앱, 해킹 우려에 퇴출…와이파이 연결된 순간...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991247?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/JUCJE4QDCBHWJL4CLTPO6VRJPM.png?auth=992e5f159790644ab010fdd1e66a50e13e9cb3f75df863da451e6c44f0419ea5&width=1200&height=630&smart=true"
+      "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
+      "url": "https://www.mediapen.com/news/view/1114168",
+      "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
-      "title": "[가전 트렌드] 삼성전자, '2026 대한민국 올해의 녹색상품'서 16개 제품 ...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153434",
-      "img": "https://www.ibabynews.com/news/photo/202608/153434_118844_129.jpg"
+      "title": "SK하이닉스-삼성전자-LG전자, HBF 첫 표준 규격 공개...아마존과 협력 고...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=316136",
+      "img": "http://www.wsobi.com/news/photo/202608/316136_188615_841.jpg"
     },
     {
-      "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3422267",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3422267_3532975_1053_v150.jpg"
+      "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
+      "url": "http://www.impacton.net/news/articleView.html?idxno=19821",
+      "img": "https://cdn.impacton.net/news/thumbnail/202608/19821_31410_1451_v150.jpg"
     },
     {
-      "title": "현대건설, 철거현장에 살수드론 도입",
-      "url": "http://www.newskr.kr/news/articleView.html?idxno=105324",
-      "img": "https://cdn.newskr.kr/news/thumbnail/202608/105324_94527_2510_v150.jpg"
+      "title": "우리은행 'AI상담' 더 똑똑해진다...AI챗봇·상담봇 재구축 사업 착수",
+      "url": "https://n.news.naver.com/mnews/article/629/0000521577?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/08/04/202673121785818429.png"
     },
     {
-      "title": "현대건설, 철거현장 살수드론 실증 완료… 무인로봇 도입 확대",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184164?sid=101",
-      "img": "https://biz.chosun.com/resizer/v2/DVS6S67IYRHUFMSRE5UNV5RAPQ.jpg?auth=85a8d6253fe9200d4cf18dd549e2cacee4f6d37a99b87067bc75ac6e8dd641e5&width=1200&height=630&smart=true"
+      "title": "잡코리아, AI 시대 HR 전략 제시…'흐레카 26' 컨퍼런스 개최",
+      "url": "https://n.news.naver.com/mnews/article/629/0000521579?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/08/04/202615961785819049.jpg"
     }
   ]
 };
