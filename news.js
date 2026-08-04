@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.04 (화) 16:30",
+  "updatedAt": "2026.08.04 (화) 19:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[TOP's Pick] [전자·IT] SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개...",
-          "desc": "◆삼성전자 ‘갤럭시 Z8 시리즈’, 국내 사전 판매 ‘144만대’로 신기록 삼성전자가 7월 28일부터 8월... 구매 주기가 짧고, 구매 빈도가 높은 카테고리를 강화하고 이를 통해 늘어난 고객 접점을 통해 다른 가전의...",
-          "src": "topdaily",
+          "title": "12차 전기본 9~10월 마련… 원전 신설은 내주부터 공론화",
+          "desc": "4개·삼성전자 6개 팹이 단축된 시기 안에 진행되도록 하겠다\"고 말했다. 자원순환 분야는 별도 실로 격상해 두 개 국으로 나누는 방안을 행정안전부와 협의 중이며, 김 장관은 \"폐가전 속 희토류처럼 고철로 팔려나가던...",
+          "src": "파이낸셜뉴스",
           "date": "08/04",
-          "url": "https://www.topdaily.kr/articles/111291",
-          "img": "https://assets.repress.co.kr/photos/d5fead53ec06a36be02dacff5f4a9e73/thumb.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005557181?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041814440713_l.jpg"
         },
         {
           "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
         },
         {
-          "title": "소송·관세 안 먹혀…삼성·LG에 밀린 美월풀의 몰락",
-          "desc": "LG전자와 삼성전자의 제품 경쟁력을 뛰어넘지 못한 결과다. 지난 5월 미국 캘리포니아주의 한 홈디포 매장에 진열된 월풀의 세탁기(왼쪽), 건조기(가운데). 오른쪽 제품은 GE의 세탁건조기. (사진=AFP) 월풀은 3일...",
-          "src": "이데일리",
+          "title": "젊은층서 '코인 빨래방' 열풍…세탁기 시장 큰손 된 동남아",
+          "desc": "이 회사는 런드리유에 세탁기와 건조기를 공급하고 있다. 한국 기업도 동남아 시장에 주목하고 있다. 삼성전자 필리핀 법인은 지난 3월 마닐라에서 ‘스마트워시 비즈니스 솔루션’을 공개하고 상업용 세탁시장...",
+          "src": "한국경제",
           "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/018/0006344161?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401199.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005317250?sid=104",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
-          "desc": "대상은 세탁기와 식기세척기, 냉장고, 건조기, TV와 모니터, 스마트폰과 태블릿 등 EU 법령에 수리가능성... 삼성전자와 LG전자의 유럽 판매·서비스 조직에도 적용되는 조항이다. 삼성전자는 유럽에서 보증기간이 끝난...",
-          "src": "impacton",
+          "title": "트럼프 \"마지막 기회\" 압박…삼성·LG 호르무즈 운임 부담 길어지나",
+          "desc": "[사진=연합뉴스] 도널드 트럼프 미국 대통령이 이란을 향해 협상 압박 수위를 다시 높이면서 삼성전자와... TV와 냉장고, 세탁기 등 대형 제품은 항공보다 해상 운송 의존도가 높다. 선박이 위험 해역을 우회하거나...",
+          "src": "아주경제",
           "date": "08/04",
-          "url": "http://www.impacton.net/news/articleView.html?idxno=19821",
-          "img": "https://cdn.impacton.net/news/thumbnail/202608/19821_31410_1451_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260804145839506",
+          "img": "https://image.ajunews.com/content/image/2026/08/04/20260804150239167889.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "‘극장 화질을 방구석으로’…삼성전자, 아마존과 차세대 ‘HDR10+ 어드밴...",
-          "desc": "[사진=삼성전자] 삼성전자와 아마존은 프라임 비디오가 지난 2017년 OTT 업계 최초로 ‘HDR10+’를 도입한... ‘인핸스드 브라이트니스’는 매장면의 최적 화면 밝기 정보와 AI 기반 ‘톤 매핑’ 기술을 활용해 TV가...",
-          "src": "swtvnews",
+          "title": "신세계I&C, KT와 뉴타닉스 사업 공동 추진",
+          "desc": "원’을 활용해 아키텍처 설계와 기술 컨설팅 및 구축·운영 지원을 제공한다. 양사는 표준화된 뉴타닉스... 기업의 AI 도입이 늘면서 중요 데이터는 내부 환경에서 관리하고, 필요에 따라 외부 클라우드 자원을 활용하려는...",
+          "src": "디지털타임스",
           "date": "08/04",
-          "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065596142880417",
-          "img": "https://www.swtvnews.com/news/data/20260804/p1065596142880417_610_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003040692?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.af34858eff624abf94669a597eebc302_R.png"
         },
         {
-          "title": "쿠팡, '자유로운 휴무 공모전' 개최…백업기사 시스템으로 확산하는 배...",
-          "desc": "서울 송파구 타워 730에서 열린 이번 시상식에서는 현장에서 자유롭게 휴무를 활용하며 일과 삶의 균형을... 이 밖에도 과거 주 6일 근무 당시에는 엄두를 내지 못했던 영상 촬영 AI 기술 교육 등 자기계발에 도전하거나...",
-          "src": "news",
+          "title": "[강정모의 실사구시 경제] AI 혁명과 교주고슬(膠柱鼓瑟)의 대한민국",
+          "desc": "AI 생태계에 축적된 데이터와 인터페이스는 사용자에게 거대한 전환 비용을 발생시키며 한번 독점된 시장은 고착화돼 심각한 ‘시장실패’를 낳는다. 이는 자본과 데이터를 선점한 소수에게 부가 집중되고, 기술 활용...",
+          "src": "kyeonggi",
           "date": "08/04",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098821",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098821_752489_2857_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/666/0000117894?sid=110",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/04/.cache/512/20260804580626.jpg?v=20260804192811"
         },
         {
-          "title": "강남구, 민선 9기 하반기 인사 단행...성과와 실행력, 협업 능력 중심, ...",
-          "desc": "또한, 5급·6급으로의 승진심사 시 AI 활용 능력 평가를 도입할 계획이다. AI를 단순한 정보기술이 아니라 행정 생산성과 문제 해결력을 높이는 핵심 업무 역량으로 보고, 실제 행정에 활용할 수 있는 인재를 선발한다. 이번...",
-          "src": "cnbizm",
+          "title": "창원시, 계도 중심 주차행정 본격화",
+          "desc": "창원시정연구원은 4일 연구원 대회의실에서 '엣지 AI를 활용한 도시지역 도로 주차관리시스템 효율적 도입... 위한 AI 기반 현장관리 방안을 논의했다. 주제발표를 맡은 이유화 한국건설기술연구원 도로교통연구본부...",
+          "src": "gnnews",
           "date": "08/04",
-          "url": "https://www.cnbizm.com/news/articleView.html?idxno=310553",
-          "img": "https://cdn.cnbizm.com/news/photo/202608/310553_215285_267.jpg"
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642555",
+          "img": "https://cdn.gnnews.co.kr/news/photo/202608/642555_443221_1525.jpg"
         },
         {
-          "title": "AX 정보 한곳에…과기정통부, 'AX360°' 서비스 개시",
-          "desc": "가격, AI 모델의 도입 사례 등을 확인할 수 있다. 산업과 기능별 검색을 통해 필요한 기술을 보유한 협력기업도 찾을 수 있다. 향후에는 포털에서 탐색한 자원과 기업 정보를 활용해 AX 사업 기획 컨설팅을 온라인으로...",
-          "src": "m-i",
+          "title": "AI로 그린바이오 기업 경쟁력 키운다",
+          "desc": "최근 AI 기술은 연구개발(R&D), 제품 개발, 품질관리, 디자인, 마케팅, 투자 유치, 수출 등 기업 경영 전반의... ◇업무 전반 AI 활용 확대=진흥원은 내부 업무에도 AI를 적극 도입한다. 부서별 AX 활성화를 위한 단계별...",
+          "src": "gnnews",
           "date": "08/04",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1398830",
-          "img": "https://www.m-i.kr/image/logo/snslogo_20190410012442.jpg"
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642576",
+          "img": "https://cdn.gnnews.co.kr/news/photo/202608/642576_443237_5121.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "대기업·협력사 함께 미래산업 육성…15조원 ‘함께성장 프로젝트’",
+          "desc": "반도체 산업의 경우 삼성전자와 SK하이닉스와 같은 앵커기업이 펀드 출자자로 참여하고, 펀드는 반도체 소재·부품·장비를 공급하는 중소·중견기업에 투자하는 구조가 될 수 있다. 산업부 관계자는 \"반도체와 로봇...",
+          "src": "wowtv",
+          "date": "08/04",
+          "url": "https://n.news.naver.com/mnews/article/215/0001261125?sid=101",
+          "img": ""
+        },
         {
           "title": "애플, '공급망 딜레마' 직면…메모리는 비싸고 중국은 멀고",
           "desc": "애플 측은 삼성전자와 SK하이닉스, 마이크론 등 글로벌 메모리 주요 업체들의 가격 인상이 아이폰 제조원가... 공급처 확대 가능성을 제시하는 것만으로도 기존 협력사와의 가격 협상에서 유리한 위치를 확보할 수 있었기...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "이투데이",
           "date": "08/04",
           "url": "https://www.etoday.co.kr/news/view/2610882",
-          "img": "https://img.etoday.co.kr/pto_db/2026/07/20260728090517_2364963_1199_799.jpg"
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260804163610_2368619_1199_386.jpg"
         },
         {
           "title": "[IT백과] 국산 서버가 공공시장에서 살아남을 수 있는 비결은?",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/04",
           "url": "https://n.news.naver.com/mnews/article/138/0002236549?sid=105",
           "img": "https://www.ddaily.co.kr/photos/2026/08/04/2026080415192254284_l.jpg"
-        },
-        {
-          "title": "[재계 빅4, 하반기 승부수①] 같은 AI, 각각 다른 투자 공식…실행력 전...",
-          "desc": "이재용 삼성전자 회장은 고대역폭메모리(HBM)와 첨단 패키징 등 AI 핵심부품에 집중했고, 최태원 SK그룹... 소재·부품·장비 기술 개발과 확장에 투입하기로 했다. AI 경쟁력 역시 협력사와 제조 생태계 전체의 생산성...",
-          "src": "mydaily",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/117/0004091588?sid=105",
-          "img": "https://mydaily.co.kr/photos/2026/08/04/2026080413493333063_l.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[TOP's Pick] [전자·IT] SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개...",
-      "url": "https://www.topdaily.kr/articles/111291",
-      "img": "https://assets.repress.co.kr/photos/d5fead53ec06a36be02dacff5f4a9e73/thumb.jpeg"
+      "title": "12차 전기본 9~10월 마련… 원전 신설은 내주부터 공론화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557181?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/04/202608041814440713_l.jpg"
     },
     {
       "title": "[조우현의 아틀라스] \"에어컨 없었으면 어쩔 뻔\"…세상 바꾼 건 정치 아...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1114168_1785808369_m.jpg"
     },
     {
-      "title": "소송·관세 안 먹혀…삼성·LG에 밀린 美월풀의 몰락",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344161?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080401199.jpg"
+      "title": "젊은층서 '코인 빨래방' 열풍…세탁기 시장 큰손 된 동남아",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317250?sid=104",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "삼성·LG, EU 수리권 대응 본격화…기존 판매 제품까지 수리 의무",
-      "url": "http://www.impacton.net/news/articleView.html?idxno=19821",
-      "img": "https://cdn.impacton.net/news/thumbnail/202608/19821_31410_1451_v150.jpg"
+      "title": "트럼프 \"마지막 기회\" 압박…삼성·LG 호르무즈 운임 부담 길어지나",
+      "url": "https://www.ajunews.com/view/20260804145839506",
+      "img": "https://image.ajunews.com/content/image/2026/08/04/20260804150239167889.jpg"
     },
     {
-      "title": "‘극장 화질을 방구석으로’…삼성전자, 아마존과 차세대 ‘HDR10+ 어드밴...",
-      "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065596142880417",
-      "img": "https://www.swtvnews.com/news/data/20260804/p1065596142880417_610_thum.jpg"
+      "title": "신세계I&C, KT와 뉴타닉스 사업 공동 추진",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040692?sid=105",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/04/news-p.v1.20260804.af34858eff624abf94669a597eebc302_R.png"
     },
     {
-      "title": "쿠팡, '자유로운 휴무 공모전' 개최…백업기사 시스템으로 확산하는 배...",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098821",
-      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098821_752489_2857_v150.jpg"
+      "title": "[강정모의 실사구시 경제] AI 혁명과 교주고슬(膠柱鼓瑟)의 대한민국",
+      "url": "https://n.news.naver.com/mnews/article/666/0000117894?sid=110",
+      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/04/.cache/512/20260804580626.jpg?v=20260804192811"
     }
   ]
 };
