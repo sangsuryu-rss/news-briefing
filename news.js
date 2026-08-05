@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 15:43",
+  "updatedAt": "2026.08.05 (수) 19:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이랜시스 주가 거침없는 폭등 랠리…무슨 호재 있나",
-          "desc": "삼성전자 및 글로벌 가전 기업에 디지털 도어락 잠금장치와 핵심 잠금 모듈을 공급하며 물리보안 솔루션 시장 내 높은 점유율을 차지하고 있다는 점이 부각됐다. 고배율 광학 기술과 지능형 영상분석 반도체(SoC)를...",
-          "src": "핀포인트뉴스",
+          "title": "[주식마감] 美 \"중국산 광통신 수입 금지\" 소식에 빛과전자·오이솔루션...",
+          "desc": "생활가전은 물론 로봇, 스마트기기 등 다양한 분야로 적용 범위를 넓혀가고 있다. 이를 통해 기존 가전... 지난 2015년부터 삼성전자 1차 협력업체로 프리미엄급 및 보급형 모델에 제품을 지속 공급하고 있다....",
+          "src": "ggilbo",
           "date": "08/05",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474668",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/474668_461872_3438_v150.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173680",
+          "img": "https://cdn.ggilbo.com/news/photo/202608/1173680_1026019_5539.jpg"
         },
         {
           "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
         },
         {
-          "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
-          "desc": "분석 대상은 ▲삼성전자 ▲SK하이닉스 ▲현대자동차 ▲LG전자 ▲한화에어로스페이스 ▲롯데케미칼... 스코프3는 2030년까지 2020년 대비 TV·냉장고·세탁기 등 7대 주요 제품군의 사용 단계 온실가스 원단위 배출량을 20...",
-          "src": "esgeconomy",
+          "title": "롯데하이마트의 체질 개선 과제 : 플랫폼의 쿠팡, 브랜드의 삼성·LG와 ...",
+          "desc": "특히 국내 생활가전 시장이 삼성전자와 LG전자 중심으로 형성된 데다 객단가와 수익성이 높은 냉장고·세탁기·에어컨 등 프리미엄 대형가전일수록 제조사 직영 판매와 구독 서비스 비중이 커지고 있다. LG전자의 구독...",
+          "src": "huffingtonpost",
           "date": "08/05",
-          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
-          "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
+          "url": "https://www.huffingtonpost.kr/article/259299",
+          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "HD현대, 美 최대 함정 조선소 생산성 높인다…AI 용접 시스템 적용",
-          "desc": "시스템을 도입하며 한·미 조선 협력이 실행 단계에 들어갔다. HD현대는 최근 미국 방산 조선사 헌팅턴... 양사는 이번 시범사업을 계기로 생산기술 협력을 넘어 공정 자동화와 로봇·인공지능(AI)을 활용한 디지털...",
-          "src": "ebn",
+          "title": "내년부터 3세도 무상보육·교육…지방국립대 전액 장학금 검토",
+          "desc": "있도록 '지역협약정원제'와 '인재양성신속트랙제'를 도입하고, 고교 재학 중 산업기사 등 국가기술자격 취득을 지원하는 '자격특화 특성화고'(가칭)도 추진한다. 과학고와 영재학교에 AI 심화 연구반을 신설하고, 대학생...",
+          "src": "iusm",
           "date": "08/05",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719259",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1719259_750048_3532_v150.jpg"
+          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066323",
+          "img": "https://cdn.iusm.co.kr/news/thumbnail/202608/1066323_625886_2507_v150.jpg"
         },
         {
-          "title": "HD현대, 美 헌팅턴 잉걸스와 첨단 조선 기술 협력 본격화",
-          "desc": "또, 작업 과정에서의 정보도 실시간으로 저장돼 품질 관리와 공정 개선, 작업 이력 확인에 활용할 수 있다. 이번 시범사업의 근간인 HD현대와 헌팅턴 잉걸스가 체결한 MOU는 ▲공정 자동화와 로봇·인공지능(AI) 도입을...",
-          "src": "munhwa",
+          "title": "인공지능 기술 도입...교육행정 대전환",
+          "desc": "전북특별자치도교육청이 인공지능(AI) 기술을 교육행정 전반에 도입, 교직원의 업무 부담을 획기적으로... 하나인 ‘AI 에이전트 기반 업무혁신’을 체계적으로 추진하기 위해 ‘AI 활용 교육행정 업무 혁신 실무 추진단...",
+          "src": "sjbnews",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/021/0002809412?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/05/news-p.v1.20260805.4f650a7288444acfbfe99219d7d1ab13_R.jpg"
+          "url": "https://sjbnews.com/news/news.php?number=884613",
+          "img": ""
         },
         {
-          "title": "NH투자증권, 한국경제연구학회와 ‘AI 시대 금융산업’ 정책세미나 개최",
-          "desc": "AI 활용 사례와 제도 개선 방안이 논의됐다. 이경종 KB국민은행 AI금융센터장은 KB금융이 100개 이상의 AI 에이전트를 운영하고 있다고 소개하고, 금융권 공동 대규모언어모델 검증체계와 기술 기반 거버넌스 구축 필요성을...",
-          "src": "todayeconomic",
+          "title": "코오롱글로벌, 사내 AI 플랫폼 ‘KNIT’ 개발",
+          "desc": "AI 추천, 원자재 가격 모니터링, 수주 심의 투표 시스템의 데이터 베이스와 인프라를 단일 창구로 통합했다. 기존에는 담당자가 각 시스템에 접속해 데이터를 관리해야 했지만, 플랫폼 도입으로 접근성과 데이터 활용...",
+          "src": "디지털타임스",
           "date": "08/05",
-          "url": "https://www.todayeconomic.com/news/article.html?no=31616",
-          "img": "https://www.todayeconomic.com/data/photos/20260832/art_17859118083426_4df613.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003040942?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/05/news-p.v1.20260805.9d41b356ccd647969c8399db7f16d8b5_R.png"
         },
         {
-          "title": "솔트웨어, 기업 AI 에이전트 도입 지원…'아마존 퀵 AI 워크숍' 개최",
-          "desc": "환경에서 활용하는 방법을 실습하는 프로그램으로 진행됐다. 워크숍에는 AI 어시스턴트 플랫폼 도입을 검토하는 기술·비즈니스 리더와 반복 업무 자동화를 추진하는 실무자, 사내 데이터와 연계되지 않는 범용 AI...",
-          "src": "e-science",
+          "title": "[기획] 청주대 AI 학습플랫폼 고도화 … 시대 맞춤 융합인재 키운다",
+          "desc": "가하며 AI 기반 교육환경 구축, 첨단 시설 인프라 확충에 속도를 내고 있다. 청주대는 AI와 디지털 기술이... 실제로 활용할 수 있는 시스템으로, 국내 대학에서도 선도적으로 도입·운영해 생성형 AI 기반 인프라를 대학...",
+          "src": "cctimes",
           "date": "08/05",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133015",
-          "img": "https://cdn.e-science.co.kr/news/photo/202608/133015_65325_1638.jpg"
+          "url": "http://www.cctimes.kr/news/articleView.html?idxno=920422",
+          "img": "https://cdn.cctimes.kr/news/thumbnail/202608/920422_405524_4749_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "韓, 대기업 세제·인프라에 집중…中, 국유자본 동원해 기업 육성",
+          "desc": "정부는 세제·금융 지원과 규제 완화, 인력 양성 등 전방위 지원을 약속했고 삼성전자·SK하이닉스 등 민간... 펀드는 7년간 중국 그래픽처리장치(GPU) 기업 메타엑스와 협력사·고객사 등에 투자할 예정이다. 중국은 2026...",
+          "src": "sportsworldi",
+          "date": "08/05",
+          "url": "https://n.news.naver.com/mnews/article/396/0000751533?sid=103",
+          "img": "https://www.sportsworldi.com/content/image/2026/08/05/20260805521906.jpg"
+        },
+        {
+          "title": "[중국 반도체 굴기] 한국 정부 VS 중국 정부, 지금까지 반도체 지원책 비...",
+          "desc": "정부는 세제·금융 지원과 규제 완화, 인력 양성 등 전방위 지원을 약속했고 삼성전자·SK하이닉스 등 민간... 펀드는 7년간 중국 그래픽처리장치(GPU) 기업 메타엑스와 협력사·고객사 등에 투자할 예정이다. 중국은 2026...",
+          "src": "segyebiz",
+          "date": "08/05",
+          "url": "http://www.segyebiz.com/newsView/20260805519479?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/08/05/20260805519476.png"
+        },
         {
           "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
           "desc": "협력사에는 탄소감축 로드맵 수립과 고효율 설비 교체, 부품 전 과정평가를 지원하고, 2026년부터 입찰... 단계에서 부품 탄소배출량을 관리할 계획이다. 삼성전자는 DX부문은 2030년, 반도체를 담당하는 DS부문은...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/05",
           "url": "https://edu.donga.com/news/articleView.html?idxno=110610",
           "img": "https://cdn.edu.donga.com/news/photo/202608/110610_174958_237.jpg"
-        },
-        {
-          "title": "삼성·SK하이닉스, HBM 너머 '차세대 AI 메모리' 주도권 경쟁 본격화",
-          "desc": "표준 규격이 양분되면 협력사들은 두 진영에 맞춰 생산 공정을 다변화해야 하는 과제를 안게 된다. 다만 인공지능 서버용 메모리 수요는 견조하게 유지된다. 삼성전자는 고객사와의 장기 계약 비중이 향후 전체...",
-          "src": "g-enews",
-          "date": "08/05",
-          "url": "https://www.g-enews.com/view.php?ud=202608051018223863fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080513172400761c35228d2f510625224987.jpg"
-        },
-        {
-          "title": "동일토건, 반도체 메가클러스터 품은 '상품특화 아파트' 선봬",
-          "desc": "분양가상한제가 적용되는 희소성 높은 신규 공급으로, SK하이닉스와 삼성전자가 추진 중인 약 960조원 규모... SK하이닉스 협력사가 입주를 위해 부지를 분양받은 것으로 알려졌다. 반도체 클러스터 조성과 함께 '반도체...",
-          "src": "finomy",
-          "date": "08/05",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=258600",
-          "img": "https://cdn.finomy.com/news/thumbnail/202608/258600_253678_5940_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "이랜시스 주가 거침없는 폭등 랠리…무슨 호재 있나",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474668",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/474668_461872_3438_v150.jpg"
+      "title": "[주식마감] 美 \"중국산 광통신 수입 금지\" 소식에 빛과전자·오이솔루션...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173680",
+      "img": "https://cdn.ggilbo.com/news/photo/202608/1173680_1026019_5539.jpg"
     },
     {
       "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
     },
     {
-      "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
-      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
-      "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
+      "title": "롯데하이마트의 체질 개선 과제 : 플랫폼의 쿠팡, 브랜드의 삼성·LG와 ...",
+      "url": "https://www.huffingtonpost.kr/article/259299",
+      "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
     },
     {
-      "title": "HD현대, 美 최대 함정 조선소 생산성 높인다…AI 용접 시스템 적용",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719259",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1719259_750048_3532_v150.jpg"
+      "title": "내년부터 3세도 무상보육·교육…지방국립대 전액 장학금 검토",
+      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066323",
+      "img": "https://cdn.iusm.co.kr/news/thumbnail/202608/1066323_625886_2507_v150.jpg"
     },
     {
-      "title": "HD현대, 美 헌팅턴 잉걸스와 첨단 조선 기술 협력 본격화",
-      "url": "https://n.news.naver.com/mnews/article/021/0002809412?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/08/05/news-p.v1.20260805.4f650a7288444acfbfe99219d7d1ab13_R.jpg"
+      "title": "코오롱글로벌, 사내 AI 플랫폼 ‘KNIT’ 개발",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040942?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/05/news-p.v1.20260805.9d41b356ccd647969c8399db7f16d8b5_R.png"
     }
   ]
 };
