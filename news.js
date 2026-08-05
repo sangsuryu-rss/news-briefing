@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 19:47",
+  "updatedAt": "2026.08.05 (수) 23:35",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[주식마감] 美 \"중국산 광통신 수입 금지\" 소식에 빛과전자·오이솔루션...",
-          "desc": "생활가전은 물론 로봇, 스마트기기 등 다양한 분야로 적용 범위를 넓혀가고 있다. 이를 통해 기존 가전... 지난 2015년부터 삼성전자 1차 협력업체로 프리미엄급 및 보급형 모델에 제품을 지속 공급하고 있다....",
-          "src": "ggilbo",
+          "title": "반도체 투자에 유통업계 훈풍…생활 인프라도 속도전 필요",
+          "desc": "삼성전자 반도체 공장 입주와 맞물려 개발 20여 년 만에 인구 43만 명의 젊은 도시로 성장했습니다. 최근... 키즈나 가전, 가구 해외 명품과 같은 고단가 상품군에 집중하고 있습니다.\"] 8백조 원 규모의 전남광주 반도체 산단...",
+          "src": "news",
           "date": "08/05",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173680",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1173680_1026019_5539.jpg"
+          "url": "https://n.news.naver.com/mnews/article/056/0012232240?sid=101",
+          "img": "http://news.kbs.co.kr/data/news/title_image/newsmp4/gwangju/news9/2026/08/05/50_8629634.jpg"
         },
         {
           "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "내년부터 3세도 무상보육·교육…지방국립대 전액 장학금 검토",
-          "desc": "있도록 '지역협약정원제'와 '인재양성신속트랙제'를 도입하고, 고교 재학 중 산업기사 등 국가기술자격 취득을 지원하는 '자격특화 특성화고'(가칭)도 추진한다. 과학고와 영재학교에 AI 심화 연구반을 신설하고, 대학생...",
-          "src": "iusm",
+          "title": "호서대학교 창업중심대학사업단, ‘Tech Value UP’ 교육·멘토링으로 창...",
+          "desc": "멘토링은 기업별 기술·제품 특성과 사업화 단계에 맞춰 지식재산권 확보 전략, AI 도입 및 활용 방향, 기업 인증 준비, 비즈니스 모델 개선 등 맞춤형 상담 위주로 운영됐다. 지식재산권 기초교육에서는 제품 및...",
+          "src": "한국경제",
           "date": "08/05",
-          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066323",
-          "img": "https://cdn.iusm.co.kr/news/thumbnail/202608/1066323_625886_2507_v150.jpg"
+          "url": "https://magazine.hankyung.com/job-joy/article/202608057329d",
+          "img": "https://static.hankyung.com/photo/202608/AD.45255654.1.jpg"
         },
         {
-          "title": "인공지능 기술 도입...교육행정 대전환",
-          "desc": "전북특별자치도교육청이 인공지능(AI) 기술을 교육행정 전반에 도입, 교직원의 업무 부담을 획기적으로... 하나인 ‘AI 에이전트 기반 업무혁신’을 체계적으로 추진하기 위해 ‘AI 활용 교육행정 업무 혁신 실무 추진단...",
-          "src": "sjbnews",
+          "title": "지방 국립대 등록금 이르면 내년부터 0원",
+          "desc": "국가기술자격을 취득할 수 있게 도울 계획이다. 아울러 교육부는 내년부터 유아 무상보육·교육 지원 대상... 체계에도 AI를 활용할 계획이다. 수능 전 과목 절대평가 전환과 수능 서술·논술형 도입 등 내용을 고민...",
+          "src": "매일경제",
           "date": "08/05",
-          "url": "https://sjbnews.com/news/news.php?number=884613",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/009/0005717260?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/06/20260806_01170125000002_S00.jpg"
         },
         {
-          "title": "코오롱글로벌, 사내 AI 플랫폼 ‘KNIT’ 개발",
-          "desc": "AI 추천, 원자재 가격 모니터링, 수주 심의 투표 시스템의 데이터 베이스와 인프라를 단일 창구로 통합했다. 기존에는 담당자가 각 시스템에 접속해 데이터를 관리해야 했지만, 플랫폼 도입으로 접근성과 데이터 활용...",
-          "src": "디지털타임스",
+          "title": "[평택 민선 9기 연속기획③] 반도체·AI·평택항을 성장축으로…최원용...",
+          "desc": "민선 9기의 과제는 이러한 기반을 활용해 더 많은 기업을 유치하는 데 머물지 않고 연구개발과 인재 양성... AI를 도입한 기업 수와 생산성 개선 정도, 교육 수료자의 취업·창업 연계 실적, 지역기업과의 공동사업 성과를...",
+          "src": "newstown",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/029/0003040942?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/05/news-p.v1.20260805.9d41b356ccd647969c8399db7f16d8b5_R.png"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
         },
         {
-          "title": "[기획] 청주대 AI 학습플랫폼 고도화 … 시대 맞춤 융합인재 키운다",
-          "desc": "가하며 AI 기반 교육환경 구축, 첨단 시설 인프라 확충에 속도를 내고 있다. 청주대는 AI와 디지털 기술이... 실제로 활용할 수 있는 시스템으로, 국내 대학에서도 선도적으로 도입·운영해 생성형 AI 기반 인프라를 대학...",
-          "src": "cctimes",
+          "title": "HD현대 '지능형 용접기술' 美 조선소 전수",
+          "desc": "관리에도 활용할 수 있어 디지털 기반의 스마트 조선소 구축에 기여할 것으로 기대된다. 양사가 체결한 MOU에는 △공정 자동화와 로봇·인공지능(AI) 도입을 통한 디지털 조선소 구축 △양사의 함정 건조 전문성과...",
+          "src": "ujeil",
           "date": "08/05",
-          "url": "http://www.cctimes.kr/news/articleView.html?idxno=920422",
-          "img": "https://cdn.cctimes.kr/news/thumbnail/202608/920422_405524_4749_v150.jpg"
+          "url": "http://www.ujeil.com/news/articleView.html?idxno=389940",
+          "img": "http://cdn.ujeil.com/news/thumbnail/202608/389940_199427_2057_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[평택 민선 9기 연속기획③] 반도체·AI·평택항을 성장축으로…최원용...",
+          "desc": "제조장비와 소재, 부품, 설계, 유지보수, 물류, 환경·안전, 연구개발, 인력 양성 등 수많은 기업과 기관이 연결돼야 경쟁력을 갖출 수 있다. 삼성전자 평택캠퍼스를 중심으로 협력기업과 연구기관, 교육기관, 창업기업이...",
+          "src": "newstown",
+          "date": "08/05",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
+        },
         {
           "title": "韓, 대기업 세제·인프라에 집중…中, 국유자본 동원해 기업 육성",
           "desc": "정부는 세제·금융 지원과 규제 완화, 인력 양성 등 전방위 지원을 약속했고 삼성전자·SK하이닉스 등 민간... 펀드는 7년간 중국 그래픽처리장치(GPU) 기업 메타엑스와 협력사·고객사 등에 투자할 예정이다. 중국은 2026...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/05",
           "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
           "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
-        },
-        {
-          "title": "이젠 상품이 더 중요…반도체벨트 특화설계 아파트 나온다",
-          "desc": "삼성전자가 추진 중인 반도체 클러스터의 총 투자 규모는 약 960조원이다. 이 단지는 SK하이닉스 반도체 클러스터 산업단지 내에 처음 들어서는 아파트다. 현재 용인 반도체 클러스터 협력화단지에는 소부장(소재·부품...",
-          "src": "동아일보",
-          "date": "08/05",
-          "url": "https://edu.donga.com/news/articleView.html?idxno=110610",
-          "img": "https://cdn.edu.donga.com/news/photo/202608/110610_174958_237.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[주식마감] 美 \"중국산 광통신 수입 금지\" 소식에 빛과전자·오이솔루션...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173680",
-      "img": "https://cdn.ggilbo.com/news/photo/202608/1173680_1026019_5539.jpg"
+      "title": "반도체 투자에 유통업계 훈풍…생활 인프라도 속도전 필요",
+      "url": "https://n.news.naver.com/mnews/article/056/0012232240?sid=101",
+      "img": "http://news.kbs.co.kr/data/news/title_image/newsmp4/gwangju/news9/2026/08/05/50_8629634.jpg"
     },
     {
       "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
     },
     {
-      "title": "내년부터 3세도 무상보육·교육…지방국립대 전액 장학금 검토",
-      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066323",
-      "img": "https://cdn.iusm.co.kr/news/thumbnail/202608/1066323_625886_2507_v150.jpg"
+      "title": "호서대학교 창업중심대학사업단, ‘Tech Value UP’ 교육·멘토링으로 창...",
+      "url": "https://magazine.hankyung.com/job-joy/article/202608057329d",
+      "img": "https://static.hankyung.com/photo/202608/AD.45255654.1.jpg"
     },
     {
-      "title": "코오롱글로벌, 사내 AI 플랫폼 ‘KNIT’ 개발",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040942?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/05/news-p.v1.20260805.9d41b356ccd647969c8399db7f16d8b5_R.png"
+      "title": "지방 국립대 등록금 이르면 내년부터 0원",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717260?sid=102",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/06/20260806_01170125000002_S00.jpg"
     }
   ]
 };
