@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 04:56",
+  "updatedAt": "2026.08.06 (목) 06:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 투자에 유통업계 훈풍…생활 인프라도 속도전 필요",
-          "desc": "삼성전자 반도체 공장 입주와 맞물려 개발 20여 년 만에 인구 43만 명의 젊은 도시로 성장했습니다. 최근... 키즈나 가전, 가구 해외 명품과 같은 고단가 상품군에 집중하고 있습니다.\"] 8백조 원 규모의 전남광주 반도체 산단...",
-          "src": "news",
-          "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/056/0012232240?sid=101",
-          "img": "http://news.kbs.co.kr/data/news/title_image/newsmp4/gwangju/news9/2026/08/05/50_8629634.jpg"
+          "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
+          "desc": "AI 글래스 시장 경쟁 심화…독자 플랫폼 생태계 확보해야 6일 업계에 따르면 삼성전자는 올가을 구글과... 갤럭시 워치·링 등 자사 웨어러블 제품을 묶는 '하드웨어 락인' 전략과 전 세계 가전 시장을 장악하고 있는...",
+          "src": "view",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+        },
+        {
+          "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
+          "desc": "하단 걸레받이 공간에 설치하는 로봇청소기 '로니' 히든스테이션과 최소 4㎜ 틈만 확보하면 설치 가능한 '핏 앤 맥스' 냉장고 등이 그 사례다. 삼성전자는 데이코를 앞세워 고급 주거 프로젝트 중심의 B2B 확대 전략을...",
+          "src": "머니투데이",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/008/0005396265?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080515012758773_1.jpg"
+        },
+        {
+          "title": "부지런한 냥집사 돕는 똑똑한 가전들",
+          "desc": "◆집사 옷에 붙은 털·얼룩엔… 삼성 ‘비스포크 AI 콤보’ 세탁건조기 모델들이 삼성 세탁건조기 ‘비스포크 AI 콤보’를 알리고 있다. 삼성전자 제공 반려묘의 털은 집사의 의류에도 쉽게 달라붙는다. 그래서 집사들은...",
+          "src": "sportsworldi",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/396/0000751544?sid=103",
+          "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
         },
         {
           "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "08/05",
           "url": "https://www.asiatime.co.kr/article/20260805500118",
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
-        },
-        {
-          "title": "삼성, 가전 허리띠 졸라맨다…신혼 '충성고객' 혜택 축소",
-          "desc": "건조기, 에어드레서, 공기청정기, 청소기, 인덕션은 대상에서 제외된다. 다만 변경 시행 전 혼수클럽에 가입한 고객에게는 기존 혜택이 그대로 유지된다. 혼수클럽은 삼성전자가 신혼 고객 확보를 위해 운영하는 대표적인...",
-          "src": "newsway",
-          "date": "08/05",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026080514175836073",
-          "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
-        },
-        {
-          "title": "롯데하이마트의 체질 개선 과제 : 플랫폼의 쿠팡, 브랜드의 삼성·LG와 ...",
-          "desc": "특히 국내 생활가전 시장이 삼성전자와 LG전자 중심으로 형성된 데다 객단가와 수익성이 높은 냉장고·세탁기·에어컨 등 프리미엄 대형가전일수록 제조사 직영 판매와 구독 서비스 비중이 커지고 있다. LG전자의 구독...",
-          "src": "huffingtonpost",
-          "date": "08/05",
-          "url": "https://www.huffingtonpost.kr/article/259299",
-          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[블랙햇 USA 2026] 마이크로소프트 \"AI가 공격을 산업화…탐지보다 예방...",
-          "desc": "웨스턴은 \"자동 익스플로잇 생성은 앞으로 흔한 기술이 될 가능성이 높다\"고 말했다. 기존 보안 업계는... 검증을 도입할 것. 셋째, '인프라스트럭처 애즈 코드(Infrastructure as Code(IaC)'와 AI 에이전트를 활용해 인프라...",
-          "src": "dailysecu",
+          "title": "[분석] ② 위험성평가, '서류'에서 '현장 실행'으로…근로자 참여 중심...",
+          "desc": "우리나라 위험성평가 제도는 2013년 도입 이후 10여 년간 운영됐지만, 중소기업을 중심으로 전문인력 부족과... 3단계 판단법과 체크리스트법, 핵심요인기술법, 빈도·강도법, CHARM(화학물질 위험성평가) 등을 활용해 현장...",
+          "src": "energydaily",
           "date": "08/06",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207933",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/207933_208838_4321.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201935",
+          "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
         },
         {
-          "title": "유럽 전통 IT 기업, AI 시대 뜻밖의 수혜자로 부상",
-          "desc": "기업들이 AI 성공에 필요한 기술적·운영적 역량을 갖췄는지 우려하고 있다. 이러한 복잡성은 대기업의... 그러나 인공지능 기술이 고도화될수록 전 세계 대규모 조직 안에서 모델을 실질적으로 활용 가능하게 만드는...",
+          "title": "[AI데이터센터 건설 속도전] (2) 1년 걸릴 골조, PC로 단 2개월…첨단기...",
+          "desc": "평택ㆍ이천ㆍ용인 팹 건설방식 활용 AI 발전 보폭 맞춰 신속 공급 핵심 5층 1개동 골조, 25일 만에 ‘뚝딱’... 건설기술이 AI(인공지능)데이터센터 현장에 대거 이식되고 있다. AI의 발전 보폭에 맞춰 신속한...",
+          "src": "dnews",
+          "date": "08/06",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607251833267400498",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/05/202607251833267400498-2-682282.png"
+        },
+        {
+          "title": "\"사람 대체 어려운 작업엔 입는 로봇\"…'웨어러블 로봇' 도입 속도",
+          "desc": "보조 기술을 병행하는 구조다. 이번 웨어러블 로봇 실증은 정부 11개 부처가 공동 추진하는 'AI 응용제품 신속 상용화 지원사업'(AX스프린트)의 산업통상부 과제로 진행된다. 정부는 산업과 생활 현장에서 활용할 AI 응용제품...",
+          "src": "뉴스1",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/421/0009099611?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/5/8041714/high.jpg"
+        },
+        {
+          "title": "[종합] HD현대, 美 HII와 용접자동화 확대…미시시피 조선소에 전격 도입",
+          "desc": "장비를 도입하는 시범 프로그램을 확대 적용한다고 전했다. 그동안 주로 숙련공의 수동 작업에... 프린팅), AI 기반 고효율 로봇 기술(High-Yield Production Robotics) 등을 대거 투입해 대대적인 조선소 현대화 작업을...",
           "src": "g-enews",
           "date": "08/06",
-          "url": "https://www.g-enews.com/view.php?ud=202608051934265212bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805193558084062bd56fbc3c21121419978.jpg"
-        },
-        {
-          "title": "JP모건 다이먼, AI 위험 공동 대응 민간 동맹 확대",
-          "desc": "제이미 다이먼 JP모건체이스 회장이 인공지능 도입에 따른 보안 위험에 공동 대응하기 위해 미국 중심의 민간 산업 간 동맹을 대폭 확대하고 나섰다. 로이터는 8월 5일(현지시각) 다이먼 회장이 대형 은행과 정보기술 기업...",
-          "src": "g-enews",
-          "date": "08/06",
-          "url": "https://www.g-enews.com/view.php?ud=2026080520403278192bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805204634076442bd56fbc3c21121419978.jpg"
-        },
-        {
-          "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
-          "desc": "AI 인프라 투자를 공격적으로 확대하고 있는 스페이스X가 앞으로도 엔비디아 GPU를 대규모로 도입할... 하지만 현재 가장 큰 수익은 AI 기술 자체가 아니라 GPU와 데이터센터를 임대하는 AI 인프라 사업에서 나오고...",
-          "src": "한국경제",
-          "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/015/0005317865?sid=104",
-          "img": "https://img.hankyung.com/photo/202608/01.45256543.1.png"
+          "url": "https://www.g-enews.com/view.php?ud=202608060609008823e8b8a793f7_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080606095307212e8b8a793f7121131206187.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "newstown",
           "date": "08/05",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
+          "img": "http://www.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
         },
         {
           "title": "韓, 대기업 세제·인프라에 집중…中, 국유자본 동원해 기업 육성",
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 투자에 유통업계 훈풍…생활 인프라도 속도전 필요",
-      "url": "https://n.news.naver.com/mnews/article/056/0012232240?sid=101",
-      "img": "http://news.kbs.co.kr/data/news/title_image/newsmp4/gwangju/news9/2026/08/05/50_8629634.jpg"
+      "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+    },
+    {
+      "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396265?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080515012758773_1.jpg"
+    },
+    {
+      "title": "부지런한 냥집사 돕는 똑똑한 가전들",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751544?sid=103",
+      "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
     },
     {
       "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
     },
     {
-      "title": "삼성, 가전 허리띠 졸라맨다…신혼 '충성고객' 혜택 축소",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080514175836073",
-      "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
+      "title": "[분석] ② 위험성평가, '서류'에서 '현장 실행'으로…근로자 참여 중심...",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201935",
+      "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
     },
     {
-      "title": "롯데하이마트의 체질 개선 과제 : 플랫폼의 쿠팡, 브랜드의 삼성·LG와 ...",
-      "url": "https://www.huffingtonpost.kr/article/259299",
-      "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
-    },
-    {
-      "title": "[블랙햇 USA 2026] 마이크로소프트 \"AI가 공격을 산업화…탐지보다 예방...",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207933",
-      "img": "https://cdn.dailysecu.com/news/photo/202608/207933_208838_4321.jpg"
-    },
-    {
-      "title": "유럽 전통 IT 기업, AI 시대 뜻밖의 수혜자로 부상",
-      "url": "https://www.g-enews.com/view.php?ud=202608051934265212bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805193558084062bd56fbc3c21121419978.jpg"
+      "title": "[AI데이터센터 건설 속도전] (2) 1년 걸릴 골조, PC로 단 2개월…첨단기...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607251833267400498",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/05/202607251833267400498-2-682282.png"
     }
   ]
 };
