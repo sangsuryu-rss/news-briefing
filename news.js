@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 02:54",
+  "updatedAt": "2026.08.06 (목) 04:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[블랙햇 USA 2026] 마이크로소프트 \"AI가 공격을 산업화…탐지보다 예방...",
+          "desc": "웨스턴은 \"자동 익스플로잇 생성은 앞으로 흔한 기술이 될 가능성이 높다\"고 말했다. 기존 보안 업계는... 검증을 도입할 것. 셋째, '인프라스트럭처 애즈 코드(Infrastructure as Code(IaC)'와 AI 에이전트를 활용해 인프라...",
+          "src": "dailysecu",
+          "date": "08/06",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207933",
+          "img": "https://cdn.dailysecu.com/news/photo/202608/207933_208838_4321.jpg"
+        },
+        {
+          "title": "유럽 전통 IT 기업, AI 시대 뜻밖의 수혜자로 부상",
+          "desc": "기업들이 AI 성공에 필요한 기술적·운영적 역량을 갖췄는지 우려하고 있다. 이러한 복잡성은 대기업의... 그러나 인공지능 기술이 고도화될수록 전 세계 대규모 조직 안에서 모델을 실질적으로 활용 가능하게 만드는...",
+          "src": "g-enews",
+          "date": "08/06",
+          "url": "https://www.g-enews.com/view.php?ud=202608051934265212bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805193558084062bd56fbc3c21121419978.jpg"
+        },
+        {
+          "title": "JP모건 다이먼, AI 위험 공동 대응 민간 동맹 확대",
+          "desc": "제이미 다이먼 JP모건체이스 회장이 인공지능 도입에 따른 보안 위험에 공동 대응하기 위해 미국 중심의 민간 산업 간 동맹을 대폭 확대하고 나섰다. 로이터는 8월 5일(현지시각) 다이먼 회장이 대형 은행과 정보기술 기업...",
+          "src": "g-enews",
+          "date": "08/06",
+          "url": "https://www.g-enews.com/view.php?ud=2026080520403278192bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805204634076442bd56fbc3c21121419978.jpg"
+        },
+        {
           "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
           "desc": "AI 인프라 투자를 공격적으로 확대하고 있는 스페이스X가 앞으로도 엔비디아 GPU를 대규모로 도입할... 하지만 현재 가장 큰 수익은 AI 기술 자체가 아니라 GPU와 데이터센터를 임대하는 AI 인프라 사업에서 나오고...",
           "src": "한국경제",
           "date": "08/06",
           "url": "https://n.news.naver.com/mnews/article/015/0005317865?sid=104",
           "img": "https://img.hankyung.com/photo/202608/01.45256543.1.png"
-        },
-        {
-          "title": "[AI로 진화하는 정부와 도시 (9)] 바르셀로나, 데이터에서 ‘과잉관광(O...",
-          "desc": "세계 각국의 정부와 지방자치단체, 공공기관들은 AI를 활용해 도시 문제를 효율적으로 해결하고 시민... 기사가 전용 앱으로 정차와 주차를 예약하면, 센서와 번호판 인식 기술이 차량 식별과 주차 점유율을 자동...",
-          "src": "news2day",
-          "date": "08/06",
-          "url": "https://www.news2day.co.kr/article/20260805500235",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/05/.cache/512/20260805500241.png"
-        },
-        {
-          "title": "\"기술은 사람을 위한 것\" 심형보 헨켈컨슈머브랜드코리아 대표 [ER+적십...",
-          "desc": "헨켈은 생활용품을 만드는 회사이기 전에 사람들의 삶을 더 편리하고, 더 안전하며, 더 풍요롭게 만드는 기업이 되고자 노력해 왔습니다. 제품을 개발할 때도, 새로운 기술을 도입할 때도 가장 먼저 생각하는 것은 '이...",
-          "src": "econovill",
-          "date": "08/06",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=746353",
-          "img": "https://cdn.econovill.com/news/thumbnail/202607/746353_720300_3022_v150.jpg"
-        },
-        {
-          "title": "스포츠 카메라·영상정리 웹 개발…인공지능으로 무장한 울산 스타트업",
-          "desc": "인공지능(AI) 기술 고도화에 발맞춰 울산지역 창업기업들이 AI를 제품 개발과 생산 공정에 적극 도입하며... 살았다\"며 \"AI 기술을 활용하면 전담 개발자 없이도 아이디어를 실현할 수 있다\"고 말했다. 산업의 비효율을...",
-          "src": "ksilbo",
-          "date": "08/06",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063916",
-          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
     },
     {
-      "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317865?sid=104",
-      "img": "https://img.hankyung.com/photo/202608/01.45256543.1.png"
+      "title": "[블랙햇 USA 2026] 마이크로소프트 \"AI가 공격을 산업화…탐지보다 예방...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207933",
+      "img": "https://cdn.dailysecu.com/news/photo/202608/207933_208838_4321.jpg"
     },
     {
-      "title": "[AI로 진화하는 정부와 도시 (9)] 바르셀로나, 데이터에서 ‘과잉관광(O...",
-      "url": "https://www.news2day.co.kr/article/20260805500235",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/05/.cache/512/20260805500241.png"
+      "title": "유럽 전통 IT 기업, AI 시대 뜻밖의 수혜자로 부상",
+      "url": "https://www.g-enews.com/view.php?ud=202608051934265212bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805193558084062bd56fbc3c21121419978.jpg"
     }
   ]
 };
