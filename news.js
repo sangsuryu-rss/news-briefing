@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 06:34",
+  "updatedAt": "2026.08.06 (목) 08:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
-          "desc": "AI 글래스 시장 경쟁 심화…독자 플랫폼 생태계 확보해야 6일 업계에 따르면 삼성전자는 올가을 구글과... 갤럭시 워치·링 등 자사 웨어러블 제품을 묶는 '하드웨어 락인' 전략과 전 세계 가전 시장을 장악하고 있는...",
-          "src": "view",
+          "title": "\"B2B 기반 수익성 확보 급선무\"...삼성전자, DX부문 올 2분기 \"적자 쇼크...",
+          "desc": "그는\"삼성전자 DX부문은 TV와 생활가전 시장의 경쟁 심화, 마케팅 비용 증가, AI 제품 확대를 위한 선제 투자, 재고 조정 등이 동시에 발생하면서 수익성이 크게 악화됐다\"면서 \"결국 외부 환경보다 원가 관리 능력과...",
+          "src": "유스경제",
           "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=224552",
+          "img": "https://www.youthdaily.co.kr/data/photos/20260832/art_17859014663543_876d5b.jpg"
         },
         {
           "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
         },
         {
-          "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
-          "desc": "LG전자, '로니' 체험존으로 디자인 알려 삼성전자, 녹스 보안·급배수 기능 강화 국내 로봇청소기 시장 점유율 경쟁 치열 [아시아타임즈=김빛나 기자] LG전자와 삼성전자가 신제품 로봇청소기를 앞세워 시장 주도권 다툼에...",
-          "src": "아시아타임즈",
-          "date": "08/05",
-          "url": "https://www.asiatime.co.kr/article/20260805500118",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
+          "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
+          "desc": "AI 글라스 시장 경쟁 심화…독자 플랫폼 생태계 확보해야 6일 업계에 따르면 삼성전자는 올가을 구글과... 갤럭시 워치·링 등 자사 웨어러블 제품을 묶는 '하드웨어 록인' 전략과 전 세계 가전 시장을 장악하고 있는...",
+          "src": "view",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[분석] ② 위험성평가, '서류'에서 '현장 실행'으로…근로자 참여 중심...",
-          "desc": "우리나라 위험성평가 제도는 2013년 도입 이후 10여 년간 운영됐지만, 중소기업을 중심으로 전문인력 부족과... 3단계 판단법과 체크리스트법, 핵심요인기술법, 빈도·강도법, CHARM(화학물질 위험성평가) 등을 활용해 현장...",
+          "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 전면 고도화",
+          "desc": "플래티어 관계자는 \"기업이 AI에서 성과를 내기 어려운 이유는 도입에 실패해서가 아니라 운영 과정에서... 경험과 최신 AI 기술을 결합해 기업이 AI를 장기적인 자산으로 활용하도록 하는 데 초점을 맞췄다\"고 설명했다.",
+          "src": "뉴시스",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/003/0014111155?sid=101",
+          "img": "https://img1.newsis.com/2026/08/06/NISI20260806_0002205465_web.jpg"
+        },
+        {
+          "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화",
+          "desc": "AI 운영을 지원한다. 진병권 플래티어 ECS AX 사업부문장은 \"기업이 AI에서 성과를 내기 어려운 이유는 도입에... 경험과 최신 AI 기술을 결합해 기업이 AI를 장기적인 자산으로 활용하도록 하는 데 초점을 맞췄다\"고 말했다.",
+          "src": "view",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/277/0005799498?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080608065471234_1785971214.png"
+        },
+        {
+          "title": "다우 사상 최고…S&P·나스닥 숨고르기[뉴스새벽배송]",
+          "desc": "알파벳도 AI 조직 개편과 핵심 인력 이탈 소식에 4% 넘게 밀리며 기술주별 차별화가 나타나. -스페이스X는... 프로젝트도 활용할 계획이며, 향후 수년간 10GW 규모의 AI 데이터센터 용량 확보를 목표로 인프라 투자를...",
+          "src": "이데일리",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/018/0006345511?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080600320.jpg"
+        },
+        {
+          "title": "[분석]⑤AI·디지털 기술이 바꾸는 화학안전…정부 정책 현실로 만드는...",
+          "desc": "민간은 AI와 디지털 기술을 활용해 이를 효율적으로 실행하는 구조로 변화하고 있는 것이다. 결국... 기업의 AI 활용 수준을 진단하고 공정 특성과 업무 프로세스를 분석한 뒤 AI 도입 전략을 수립하고 프로젝트 기반...",
           "src": "energydaily",
           "date": "08/06",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201935",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201938",
           "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
-        },
-        {
-          "title": "[AI데이터센터 건설 속도전] (2) 1년 걸릴 골조, PC로 단 2개월…첨단기...",
-          "desc": "평택ㆍ이천ㆍ용인 팹 건설방식 활용 AI 발전 보폭 맞춰 신속 공급 핵심 5층 1개동 골조, 25일 만에 ‘뚝딱’... 건설기술이 AI(인공지능)데이터센터 현장에 대거 이식되고 있다. AI의 발전 보폭에 맞춰 신속한...",
-          "src": "dnews",
-          "date": "08/06",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607251833267400498",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/05/202607251833267400498-2-682282.png"
-        },
-        {
-          "title": "\"사람 대체 어려운 작업엔 입는 로봇\"…'웨어러블 로봇' 도입 속도",
-          "desc": "보조 기술을 병행하는 구조다. 이번 웨어러블 로봇 실증은 정부 11개 부처가 공동 추진하는 'AI 응용제품 신속 상용화 지원사업'(AX스프린트)의 산업통상부 과제로 진행된다. 정부는 산업과 생활 현장에서 활용할 AI 응용제품...",
-          "src": "뉴스1",
-          "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/421/0009099611?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/5/8041714/high.jpg"
-        },
-        {
-          "title": "[종합] HD현대, 美 HII와 용접자동화 확대…미시시피 조선소에 전격 도입",
-          "desc": "장비를 도입하는 시범 프로그램을 확대 적용한다고 전했다. 그동안 주로 숙련공의 수동 작업에... 프린팅), AI 기반 고효율 로봇 기술(High-Yield Production Robotics) 등을 대거 투입해 대대적인 조선소 현대화 작업을...",
-          "src": "g-enews",
-          "date": "08/06",
-          "url": "https://www.g-enews.com/view.php?ud=202608060609008823e8b8a793f7_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080606095307212e8b8a793f7121131206187.jpg"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[더벨]파인엠텍, 폴더블폰 시장 2막 '낙수효과 기대'",
+          "desc": "갤럭시Z 시리즈 내내 삼성전자 협력사로 이름을 올리고 있다. 이번 신작에서는 메탈 플레이트 내 레이저... 이는 파인엠텍에 대한 부품 발주가 증가한다는 의미다. 더불어 파인엠텍은 다년간 폴더블폰 노하우를 쌓고...",
+          "src": "더벨",
+          "date": "08/06",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051103248720102017",
+          "img": ""
+        },
+        {
           "title": "[평택 민선 9기 연속기획③] 반도체·AI·평택항을 성장축으로…최원용...",
           "desc": "제조장비와 소재, 부품, 설계, 유지보수, 물류, 환경·안전, 연구개발, 인력 양성 등 수많은 기업과 기관이 연결돼야 경쟁력을 갖출 수 있다. 삼성전자 평택캠퍼스를 중심으로 협력기업과 연구기관, 교육기관, 창업기업이...",
           "src": "newstown",
           "date": "08/05",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
-          "img": "http://www.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
         },
         {
           "title": "韓, 대기업 세제·인프라에 집중…中, 국유자본 동원해 기업 육성",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/05",
           "url": "http://www.segyebiz.com/newsView/20260805519479?OutUrl=naver",
           "img": "http://www.segyebiz.com//content/image/2026/08/05/20260805519476.png"
-        },
-        {
-          "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
-          "desc": "협력사에는 탄소감축 로드맵 수립과 고효율 설비 교체, 부품 전 과정평가를 지원하고, 2026년부터 입찰... 단계에서 부품 탄소배출량을 관리할 계획이다. 삼성전자는 DX부문은 2030년, 반도체를 담당하는 DS부문은...",
-          "src": "esgeconomy",
-          "date": "08/05",
-          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
-          "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+      "title": "\"B2B 기반 수익성 확보 급선무\"...삼성전자, DX부문 올 2분기 \"적자 쇼크...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=224552",
+      "img": "https://www.youthdaily.co.kr/data/photos/20260832/art_17859014663543_876d5b.jpg"
     },
     {
       "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
     },
     {
-      "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
-      "url": "https://www.asiatime.co.kr/article/20260805500118",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
+      "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
     },
     {
-      "title": "[분석] ② 위험성평가, '서류'에서 '현장 실행'으로…근로자 참여 중심...",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201935",
-      "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
+      "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 전면 고도화",
+      "url": "https://n.news.naver.com/mnews/article/003/0014111155?sid=101",
+      "img": "https://img1.newsis.com/2026/08/06/NISI20260806_0002205465_web.jpg"
     },
     {
-      "title": "[AI데이터센터 건설 속도전] (2) 1년 걸릴 골조, PC로 단 2개월…첨단기...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607251833267400498",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/05/202607251833267400498-2-682282.png"
+      "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799498?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080608065471234_1785971214.png"
     }
   ]
 };
