@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 23:35",
+  "updatedAt": "2026.08.06 (목) 02:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "호서대학교 창업중심대학사업단, ‘Tech Value UP’ 교육·멘토링으로 창...",
-          "desc": "멘토링은 기업별 기술·제품 특성과 사업화 단계에 맞춰 지식재산권 확보 전략, AI 도입 및 활용 방향, 기업 인증 준비, 비즈니스 모델 개선 등 맞춤형 상담 위주로 운영됐다. 지식재산권 기초교육에서는 제품 및...",
+          "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
+          "desc": "AI 인프라 투자를 공격적으로 확대하고 있는 스페이스X가 앞으로도 엔비디아 GPU를 대규모로 도입할... 하지만 현재 가장 큰 수익은 AI 기술 자체가 아니라 GPU와 데이터센터를 임대하는 AI 인프라 사업에서 나오고...",
           "src": "한국경제",
-          "date": "08/05",
-          "url": "https://magazine.hankyung.com/job-joy/article/202608057329d",
-          "img": "https://static.hankyung.com/photo/202608/AD.45255654.1.jpg"
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/015/0005317865?sid=104",
+          "img": "https://img.hankyung.com/photo/202608/01.45256543.1.png"
         },
         {
-          "title": "지방 국립대 등록금 이르면 내년부터 0원",
-          "desc": "국가기술자격을 취득할 수 있게 도울 계획이다. 아울러 교육부는 내년부터 유아 무상보육·교육 지원 대상... 체계에도 AI를 활용할 계획이다. 수능 전 과목 절대평가 전환과 수능 서술·논술형 도입 등 내용을 고민...",
-          "src": "매일경제",
-          "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/009/0005717260?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/06/20260806_01170125000002_S00.jpg"
+          "title": "[AI로 진화하는 정부와 도시 (9)] 바르셀로나, 데이터에서 ‘과잉관광(O...",
+          "desc": "세계 각국의 정부와 지방자치단체, 공공기관들은 AI를 활용해 도시 문제를 효율적으로 해결하고 시민... 기사가 전용 앱으로 정차와 주차를 예약하면, 센서와 번호판 인식 기술이 차량 식별과 주차 점유율을 자동...",
+          "src": "news2day",
+          "date": "08/06",
+          "url": "https://www.news2day.co.kr/article/20260805500235",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/05/.cache/512/20260805500241.png"
         },
         {
-          "title": "[평택 민선 9기 연속기획③] 반도체·AI·평택항을 성장축으로…최원용...",
-          "desc": "민선 9기의 과제는 이러한 기반을 활용해 더 많은 기업을 유치하는 데 머물지 않고 연구개발과 인재 양성... AI를 도입한 기업 수와 생산성 개선 정도, 교육 수료자의 취업·창업 연계 실적, 지역기업과의 공동사업 성과를...",
-          "src": "newstown",
-          "date": "08/05",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
+          "title": "\"기술은 사람을 위한 것\" 심형보 헨켈컨슈머브랜드코리아 대표 [ER+적십...",
+          "desc": "헨켈은 생활용품을 만드는 회사이기 전에 사람들의 삶을 더 편리하고, 더 안전하며, 더 풍요롭게 만드는 기업이 되고자 노력해 왔습니다. 제품을 개발할 때도, 새로운 기술을 도입할 때도 가장 먼저 생각하는 것은 '이...",
+          "src": "econovill",
+          "date": "08/06",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=746353",
+          "img": "https://cdn.econovill.com/news/thumbnail/202607/746353_720300_3022_v150.jpg"
         },
         {
-          "title": "HD현대 '지능형 용접기술' 美 조선소 전수",
-          "desc": "관리에도 활용할 수 있어 디지털 기반의 스마트 조선소 구축에 기여할 것으로 기대된다. 양사가 체결한 MOU에는 △공정 자동화와 로봇·인공지능(AI) 도입을 통한 디지털 조선소 구축 △양사의 함정 건조 전문성과...",
-          "src": "ujeil",
-          "date": "08/05",
-          "url": "http://www.ujeil.com/news/articleView.html?idxno=389940",
-          "img": "http://cdn.ujeil.com/news/thumbnail/202608/389940_199427_2057_v150.jpg"
+          "title": "스포츠 카메라·영상정리 웹 개발…인공지능으로 무장한 울산 스타트업",
+          "desc": "인공지능(AI) 기술 고도화에 발맞춰 울산지역 창업기업들이 AI를 제품 개발과 생산 공정에 적극 도입하며... 살았다\"며 \"AI 기술을 활용하면 전담 개발자 없이도 아이디어를 실현할 수 있다\"고 말했다. 산업의 비효율을...",
+          "src": "ksilbo",
+          "date": "08/06",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063916",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608055204.jpg?v=259299"
     },
     {
-      "title": "호서대학교 창업중심대학사업단, ‘Tech Value UP’ 교육·멘토링으로 창...",
-      "url": "https://magazine.hankyung.com/job-joy/article/202608057329d",
-      "img": "https://static.hankyung.com/photo/202608/AD.45255654.1.jpg"
+      "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317865?sid=104",
+      "img": "https://img.hankyung.com/photo/202608/01.45256543.1.png"
     },
     {
-      "title": "지방 국립대 등록금 이르면 내년부터 0원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717260?sid=102",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/06/20260806_01170125000002_S00.jpg"
+      "title": "[AI로 진화하는 정부와 도시 (9)] 바르셀로나, 데이터에서 ‘과잉관광(O...",
+      "url": "https://www.news2day.co.kr/article/20260805500235",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/05/.cache/512/20260805500241.png"
     }
   ]
 };
