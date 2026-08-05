@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.05 (수) 12:35",
+  "updatedAt": "2026.08.05 (수) 15:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"나갔다 올게, 에어컨은 어떻게 하지?\"…전기요금 아끼는 기준",
-          "desc": "삼성전자 생활가전사업부 연구진이 대한설비공학회 하계학술발표대회에서 발표한 실험 결과에 따르면 가정용 인버터 에어컨을 30분 동안 껐다가 다시 켠 경우 전력 소비량은 연속 운전했을 때보다 5% 많았다. 60분 동안...",
-          "src": "조선일보",
+          "title": "이랜시스 주가 거침없는 폭등 랠리…무슨 호재 있나",
+          "desc": "삼성전자 및 글로벌 가전 기업에 디지털 도어락 잠금장치와 핵심 잠금 모듈을 공급하며 물리보안 솔루션 시장 내 높은 점유율을 차지하고 있다는 점이 부각됐다. 고배율 광학 기술과 지능형 영상분석 반도체(SoC)를...",
+          "src": "핀포인트뉴스",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/053/0000060455?sid=102",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54039_83879_1933_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474668",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/474668_461872_3438_v150.jpg"
         },
         {
-          "title": "삼성전자·LG전자 \"에어컨·로봇청소기, 아는 만큼 잘 쓸 수 있어요\"",
-          "desc": "5일 삼성전자와 LG전자는 각각 에어컨과 로봇청소기 마케팅을 강화했다. 삼성전자서비스는 에어컨 '청.정.확.인' 캠페인을 시작했다. '장소/정리/확인/인공지능(AI) 진단' 줄임말이다. 더위가 이어지며 에어컨 관리...",
-          "src": "테크M",
+          "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
+          "desc": "LG전자, '로니' 체험존으로 디자인 알려 삼성전자, 녹스 보안·급배수 기능 강화 국내 로봇청소기 시장 점유율 경쟁 치열 [아시아타임즈=김빛나 기자] LG전자와 삼성전자가 신제품 로봇청소기를 앞세워 시장 주도권 다툼에...",
+          "src": "아시아타임즈",
           "date": "08/05",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=154009",
-          "img": "https://www.techm.kr/news/thumbnail/202608/154009_217825_224_v150.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260805500118",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
         },
         {
-          "title": "삼성전자, 美 J.D.파워 가전 만족도 6개 부문 석권… 글로벌 시장 지배력...",
-          "desc": "삼성전자는 상단 냉동고형 냉장고 부문에서 J.D.파워가 평가한 7개 지표(내구성, 성능, 사용 편의성, 스타일링, 기능, 가성비, 소비자 신뢰) 전체에서 최고 점수를 획득했다. 의류 건조기 역시 모든 성능 지표에서 가장...",
-          "src": "g-enews",
+          "title": "삼성, 가전 허리띠 졸라맨다…신혼 '충성고객' 혜택 축소",
+          "desc": "건조기, 에어드레서, 공기청정기, 청소기, 인덕션은 대상에서 제외된다. 다만 변경 시행 전 혼수클럽에 가입한 고객에게는 기존 혜택이 그대로 유지된다. 혼수클럽은 삼성전자가 신혼 고객 확보를 위해 운영하는 대표적인...",
+          "src": "newsway",
           "date": "08/05",
-          "url": "https://www.g-enews.com/view.php?ud=2026080509052440560c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805090618062050c8c1c064d22114611240.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026080514175836073",
+          "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
         },
         {
-          "title": "[오늘 일본은] 日, 한국산 아연도금강판에 최대 38% 임시 관세…8일부터...",
-          "desc": "건물 지붕과 외벽, 도로 가드레일, 냉장고 부품 등에 널리 사용된다. 이번 조사는 일본제철과 닛테쓰강판... 삼성전자와 SK하이닉스가 장중 약세를 딛고 상승 마감하면서 지수 반등을 뒷받침했다. 코스닥지수는 43....",
-          "src": "pointe",
+          "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
+          "desc": "분석 대상은 ▲삼성전자 ▲SK하이닉스 ▲현대자동차 ▲LG전자 ▲한화에어로스페이스 ▲롯데케미칼... 스코프3는 2030년까지 2020년 대비 TV·냉장고·세탁기 등 7대 주요 제품군의 사용 단계 온실가스 원단위 배출량을 20...",
+          "src": "esgeconomy",
           "date": "08/05",
-          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=82807",
-          "img": "https://cdn.pointe.co.kr/news/photo/202608/82807_112286_1842.jpg"
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
+          "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "방사청, 연내 핵추진잠수함 사업계획 수립…AI·무인전력 확보 본격화",
-          "desc": "방위사업청이 국가전략사업으로 추진 중인 핵추진잠수함 도입을 위해 연내 구체적인 사업계획을... AI 반도체와 피지컬 AI 기반 드론·로봇, 차세대 전투기용 항공엔진 기술을 개발하고, 미국 함정시장과 유지·보수·정비...",
-          "src": "news",
+          "title": "HD현대, 美 최대 함정 조선소 생산성 높인다…AI 용접 시스템 적용",
+          "desc": "시스템을 도입하며 한·미 조선 협력이 실행 단계에 들어갔다. HD현대는 최근 미국 방산 조선사 헌팅턴... 양사는 이번 시범사업을 계기로 생산기술 협력을 넘어 공정 자동화와 로봇·인공지능(AI)을 활용한 디지털...",
+          "src": "ebn",
           "date": "08/05",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098984",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098984_752713_298_v150.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719259",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1719259_750048_3532_v150.jpg"
         },
         {
-          "title": "[경제소식] NH올원뱅크, '고향사랑기부제' 간편 연계 도입",
-          "desc": "지진·화재 대피, 항공기 탈출, 익수자 구조, 소화기를 활용한 화재 진압, 응급처치 등 실제 상황을 가정한... 그러면서 AI 플랫폼의 법적 지위와 책임 범위 명확화, 업무 영역별 위험에 따른 AI 도입 기준 차별화...",
-          "src": "4th",
+          "title": "HD현대, 美 헌팅턴 잉걸스와 첨단 조선 기술 협력 본격화",
+          "desc": "또, 작업 과정에서의 정보도 실시간으로 저장돼 품질 관리와 공정 개선, 작업 이력 확인에 활용할 수 있다. 이번 시범사업의 근간인 HD현대와 헌팅턴 잉걸스가 체결한 MOU는 ▲공정 자동화와 로봇·인공지능(AI) 도입을...",
+          "src": "munhwa",
           "date": "08/05",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2115839",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2115839_212684_336_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002809412?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/05/news-p.v1.20260805.4f650a7288444acfbfe99219d7d1ab13_R.jpg"
         },
         {
-          "title": "[현장] 소버린 AI '코히어' CRO \"아태보다 중요한 시장 없다\"",
-          "desc": "에이전틱 AI 플랫폼 '노스(North)'의 아태 지역 도입도 확대한다. 노스는 고객이 업무 성격과 비용에 따라 프런티어 모델과 오픈소스 모델 등 다양한 모델을 선택해 활용할 수 있는 플랫폼이다. 퍼블릭 클라우드뿐 아니라...",
-          "src": "startuptoday",
+          "title": "NH투자증권, 한국경제연구학회와 ‘AI 시대 금융산업’ 정책세미나 개최",
+          "desc": "AI 활용 사례와 제도 개선 방안이 논의됐다. 이경종 KB국민은행 AI금융센터장은 KB금융이 100개 이상의 AI 에이전트를 운영하고 있다고 소개하고, 금융권 공동 대규모언어모델 검증체계와 기술 기반 거버넌스 구축 필요성을...",
+          "src": "todayeconomic",
           "date": "08/05",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808789",
-          "img": "https://cdn.startuptoday.co.kr/news/photo/202608/808789_608365_451.jpg"
+          "url": "https://www.todayeconomic.com/news/article.html?no=31616",
+          "img": "https://www.todayeconomic.com/data/photos/20260832/art_17859118083426_4df613.jpg"
         },
         {
-          "title": "\"대체불가 K방산\" 선언…핵잠·AI·수출 '삼각축'으로 방산 대전환",
-          "desc": "방사청은 한국형 잠수함 개발 과정에서 축적한 조직과 기술 역량을 활용해 연내 핵추진잠수함 사업계획을... 도입을 신속하게 추진하기 위해 ‘국방첨단전력사업법’ 제정을 추진한다. 기술 변화 속도가 빠른 AI와...",
-          "src": "이데일리",
+          "title": "솔트웨어, 기업 AI 에이전트 도입 지원…'아마존 퀵 AI 워크숍' 개최",
+          "desc": "환경에서 활용하는 방법을 실습하는 프로그램으로 진행됐다. 워크숍에는 AI 어시스턴트 플랫폼 도입을 검토하는 기술·비즈니스 리더와 반복 업무 자동화를 추진하는 실무자, 사내 데이터와 연계되지 않는 범용 AI...",
+          "src": "e-science",
           "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/018/0006345046?sid=100",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080500955.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133015",
+          "img": "https://cdn.e-science.co.kr/news/photo/202608/133015_65325_1638.jpg"
         }
       ]
     },
@@ -101,12 +101,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
+          "desc": "협력사에는 탄소감축 로드맵 수립과 고효율 설비 교체, 부품 전 과정평가를 지원하고, 2026년부터 입찰... 단계에서 부품 탄소배출량을 관리할 계획이다. 삼성전자는 DX부문은 2030년, 반도체를 담당하는 DS부문은...",
+          "src": "esgeconomy",
+          "date": "08/05",
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
+          "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
+        },
+        {
+          "title": "이젠 상품이 더 중요…반도체벨트 특화설계 아파트 나온다",
+          "desc": "삼성전자가 추진 중인 반도체 클러스터의 총 투자 규모는 약 960조원이다. 이 단지는 SK하이닉스 반도체 클러스터 산업단지 내에 처음 들어서는 아파트다. 현재 용인 반도체 클러스터 협력화단지에는 소부장(소재·부품...",
+          "src": "동아일보",
+          "date": "08/05",
+          "url": "https://edu.donga.com/news/articleView.html?idxno=110610",
+          "img": "https://cdn.edu.donga.com/news/photo/202608/110610_174958_237.jpg"
+        },
+        {
           "title": "삼성·SK하이닉스, HBM 너머 '차세대 AI 메모리' 주도권 경쟁 본격화",
           "desc": "표준 규격이 양분되면 협력사들은 두 진영에 맞춰 생산 공정을 다변화해야 하는 과제를 안게 된다. 다만 인공지능 서버용 메모리 수요는 견조하게 유지된다. 삼성전자는 고객사와의 장기 계약 비중이 향후 전체...",
           "src": "g-enews",
           "date": "08/05",
           "url": "https://www.g-enews.com/view.php?ud=202608051018223863fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080510462700693fbbec65dfb22210812861.jpg"
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080513172400761c35228d2f510625224987.jpg"
         },
         {
           "title": "동일토건, 반도체 메가클러스터 품은 '상품특화 아파트' 선봬",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/05",
           "url": "http://www.finomy.com/news/articleView.html?idxno=258600",
           "img": "https://cdn.finomy.com/news/thumbnail/202608/258600_253678_5940_v150.jpg"
-        },
-        {
-          "title": "호남 반도체 성공 열쇠, 구마모토에서 답을 찾다",
-          "desc": "세계적 반도체 기업이 진출하면서 대규모 공장 건설과 관련 협력사, 인력이 몰려들자 지역 경제는 즉각... 삼성전자 노동조합은 이에 반기를 들었다. 중요한 것은 이런 마찰을 패스트 트랙으로 건너뛰는 게 아니다....",
-          "src": "한겨레",
-          "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/028/0002817155?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0804/20260804503384.webp"
-        },
-        {
-          "title": "대기업·협력사 함께 미래산업 육성…15조원 ‘함께성장 프로젝트’",
-          "desc": "반도체 산업의 경우 삼성전자와 SK하이닉스와 같은 앵커기업이 펀드 출자자로 참여하고, 펀드는 반도체 소재·부품·장비를 공급하는 중소·중견기업에 투자하는 구조가 될 수 있다. 산업부 관계자는 \"반도체와 로봇...",
-          "src": "wowtv",
-          "date": "08/04",
-          "url": "https://n.news.naver.com/mnews/article/215/0001261125?sid=101",
-          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"나갔다 올게, 에어컨은 어떻게 하지?\"…전기요금 아끼는 기준",
-      "url": "https://n.news.naver.com/mnews/article/053/0000060455?sid=102",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54039_83879_1933_v150.jpg"
+      "title": "이랜시스 주가 거침없는 폭등 랠리…무슨 호재 있나",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474668",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/474668_461872_3438_v150.jpg"
     },
     {
-      "title": "삼성전자·LG전자 \"에어컨·로봇청소기, 아는 만큼 잘 쓸 수 있어요\"",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=154009",
-      "img": "https://www.techm.kr/news/thumbnail/202608/154009_217825_224_v150.jpg"
+      "title": "LG·삼성, 로봇청소기 '쑥쑥'…체험·라인업으로 시장 공략",
+      "url": "https://www.asiatime.co.kr/article/20260805500118",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/05/.cache/512/20260805500115.jpg"
     },
     {
-      "title": "삼성전자, 美 J.D.파워 가전 만족도 6개 부문 석권… 글로벌 시장 지배력...",
-      "url": "https://www.g-enews.com/view.php?ud=2026080509052440560c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260805090618062050c8c1c064d22114611240.jpg"
+      "title": "삼성, 가전 허리띠 졸라맨다…신혼 '충성고객' 혜택 축소",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080514175836073",
+      "img": "https://nimage.newsway.co.kr/photo/2026/08/05/20260805000068_1200.png"
     },
     {
-      "title": "[오늘 일본은] 日, 한국산 아연도금강판에 최대 38% 임시 관세…8일부터...",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=82807",
-      "img": "https://cdn.pointe.co.kr/news/photo/202608/82807_112286_1842.jpg"
+      "title": "국내 10대 기업 감축목표 뜯어보니…전환계획·재무분석·보상체계 격차",
+      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16282",
+      "img": "https://cdn.esgeconomy.com/news/thumbnail/202608/16282_24027_2443_v150.jpg"
     },
     {
-      "title": "방사청, 연내 핵추진잠수함 사업계획 수립…AI·무인전력 확보 본격화",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098984",
-      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098984_752713_298_v150.jpg"
+      "title": "HD현대, 美 최대 함정 조선소 생산성 높인다…AI 용접 시스템 적용",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719259",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1719259_750048_3532_v150.jpg"
     },
     {
-      "title": "[경제소식] NH올원뱅크, '고향사랑기부제' 간편 연계 도입",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2115839",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2115839_212684_336_v150.jpg"
+      "title": "HD현대, 美 헌팅턴 잉걸스와 첨단 조선 기술 협력 본격화",
+      "url": "https://n.news.naver.com/mnews/article/021/0002809412?sid=101",
+      "img": "https://wimg.munhwa.com/news/cms/2026/08/05/news-p.v1.20260805.4f650a7288444acfbfe99219d7d1ab13_R.jpg"
     }
   ]
 };
