@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 15:47",
+  "updatedAt": "2026.08.06 (목) 19:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,22 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "기록적 폭염에 산업계 '비상'…휴식 늘리고 온열질환 예방 총력",
+          "desc": "모바일·가전 생산설비도 대부분 실내에서 운영돼서다. 전력 사용량 증가와 반도체 신증설 공사 현장의 온열질환 관리는 새로운 과제로 떠오르고 있다. 삼성전자는 고용노동부와 함께 개발한 '갤럭시 워치 기반 열...",
+          "src": "아주경제",
+          "date": "08/06",
+          "url": "https://www.ajunews.com/view/20260806150922108",
+          "img": "https://image.ajunews.com/content/image/2026/08/06/20260806151009802648.jpg"
+        },
+        {
+          "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
+          "desc": "./사진=AI 생성 이미지 로봇청소기 시장에서 삼성전자와 LG전자의 경쟁이 뜨겁다. 중국 브랜드가 장악한 국내 시장을 되찾기 위해 양사가 잇달아 신제품을 통해 성능, 위생, 보안을 앞세워 정면승부에 나섰다. ◇LG...",
+          "src": "비즈니스플러스",
+          "date": "08/06",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115158",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115158_113374_140_v150.jpg"
+        },
+        {
           "title": "신혼부부 혼수 소비 방식 변화…생활 궁합 맞춘다",
           "desc": "이에 삼성전자는 올해 ‘AI 가전이 신혼을 바꾼다’를 내세워 세탁건조기와 로봇청소기, 냉장고, 식기세척기 등을 신혼 생활과 연결한 마케팅을 전개하고 있다. 삼성전자에 따르면 지난해 신혼부부의 AI 가전 구매 비중은...",
           "src": "g-enews",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "08/06",
           "url": "https://www.thebilliards.kr/news/articleView.html?idxno=31646",
           "img": "https://cdn.thebilliards.kr/news/thumbnail/202608/31646_50890_1922_v150.jpg"
-        },
-        {
-          "title": "60조 반도체 이익의 그늘…삼성전자 勞勞 갈등 심화",
-          "desc": "메모리 반도체를 담당하는 디바이스솔루션(DS) 부문과 모바일·가전 중심의 디바이스경험(DX) 부문 간 보상 격차 논란이 노조 간 주도권 경쟁으로 번지는 모습이다. 삼성전자 최대 규모 노조인 삼성그룹 초기업노동조합...",
-          "src": "newsway",
-          "date": "08/06",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026080614462385633",
-          "img": "https://nimage.newsway.co.kr/photo/2026/05/20/20260520000018_1200.jpg"
-        },
-        {
-          "title": "[포커스] 가전업계 공통 숙제 된 '빌트인 구형 제품 AS'…월세·부품보유...",
-          "desc": "9년, 세탁기는 7년 등으로 안내 중\"이라며 \"만약 새 제품을 구매하는 걸 서비스센터에서 제안한 경우는 부품 재고를 알아보는 등 서비스 비용이 너무 커진 케이스일 것\"이라고 말했다. 삼성전자서비스 역시 \"내부 규정에...",
-          "src": "econovill",
-          "date": "08/06",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747230",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747230_721642_4428_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "제20회 과학기술혁신대상, 출품 분야별 수상 경쟁력 높이는 핵심 포인트",
-          "desc": "이 부문은 제조, 물류, 헬스케어, 기업 업무 등 주요 산업 영역에서 AI를 활용해 실질적인 성과를 만든 기술... 분명해야 AI 도입 효과도 확실히 드러나기 때문입니다. 도입 전후의 변화도 제시해야 합니다. 불량 검출...",
-          "src": "ditoday",
+          "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
+          "desc": "다만 정부 정책 수혜가 매드업의 실적 개선으로 직접 연결되는 것은 아니며, 향후 AI 기술 활용 확대와... 또한 국내 포털 최초로 AI 기반 답변형 검색 서비스를 도입했으며, LG AI연구원 컨소시엄에 참여해 AI 검색...",
+          "src": "ggilbo",
           "date": "08/06",
-          "url": "https://ditoday.com/%ec%a0%9c20%ed%9a%8c-%ea%b3%bc%ed%95%99%ea%b8%b0%ec%88%a0%ed%98%81%ec%8b%a0%eb%8c%80%ec%83%81-%ec%b6%9c%ed%92%88-%eb%b6%84%ec%95%bc%eb%b3%84-%ec%88%98%ec%83%81-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%86%92/",
-          "img": ""
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
+          "img": "https://cdn.ggilbo.com/news/photo/202608/1173981_1026312_1948.jpg"
         },
         {
-          "title": "HCG, HR SaaS 솔루션 '단계적 도입' 확산… \"전 기능 대신 필요한 모듈부...",
-          "desc": "효율과 활용률 등 운영 성과에 따라 도입 범위를 확장하는 방식이다. 기업은 초기 투자 비용과 임직원의... 특히 HCG가 특허받은 'AI 피드백 감정 분석 기술'을 적용해 인사평가 피드백을 긍정·부정·중립으로...",
-          "src": "econovill",
+          "title": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합)",
+          "desc": "- 조선업 용접로봇 도입 등 추진 - 곧 차세대 전력반도체 로드맵도 - 가상자산, 국유자산에 포함키로 - 기초... 철강업에서는 AI 제조공정 혁신 및 수소환원제철, 특수 탄소강 등 고부가·친환경 기술개발이 추진된다....",
+          "src": "kookje",
           "date": "08/06",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747320",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747320_721672_4244_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000151688?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0807/L20260807.22002001761i1.jpg?52"
         },
         {
-          "title": "게임산업 새 변곡점 'AI'-'블록체인'…넥써쓰, 통합 플랫폼 구축 속도",
-          "desc": "게임사들이 AI는 개발 보조 도구 중심으로 활용하고, 블록체인 분야는 상대적으로 신중한 전략을 유지하는 것으로 보고 있다. 반면 스타트업이나 신생 기업들은 조직의 민첩성을 바탕으로 신기술을 적극적으로 도입하며...",
-          "src": "khgames",
+          "title": "세계 의회도서관 수장들 서울 집결…AI 정보신뢰 해법 모색",
+          "desc": "제시하며 AI 기술의 급격한 발전 속에서 의회도서관이 민주주의와 인권 등 인본주의적 가치를 지키는... AI 도입 과정에서도 인간 존엄과 민주주의적 가치가 우선돼야 한다는 점을 분명히 했다. 황 관장은 \"인공지능과...",
+          "src": "newscj",
           "date": "08/06",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307085",
-          "img": "https://cdn.khgames.co.kr/news/photo/202608/307085_312772_346.png"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423094",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3423094_3534196_4310_v150.jpg"
         },
         {
-          "title": "JSL인재개발원, 일본 IT 취업 과정에 CCNA 기반 네트워크 교육 신설",
-          "desc": "새롭게 도입한다. 기존 일본 IT 취업 과정이 자바(Java) 등 개발 언어 중심으로 운영됐다면, 이번 개편은... 교육은 자바 프로그래밍, 데이터베이스, JSP·서블릿, 스프링 부트 기반 AI 활용 개발 등 웹 개발 직무교육과...",
-          "src": "it-b",
+          "title": "충북대 전략은 브랜드 단과대",
+          "desc": "특히 산업계 인사가 대학 운영과 인재양성에 직접 참여하는 '산업계 공동학장제'를 도입하고 기업과 함께... 공동연구와 기술사업화까지 연계키로 했다. 이와 함께 AI 융합대학 설립을 통해 AI 기초교육과 전공별 AI...",
+          "src": "ccdn",
           "date": "08/06",
-          "url": "https://www.it-b.co.kr/news/articleView.html?idxno=89407",
-          "img": "https://cdn.it-b.co.kr/news/photo/202608/89407_87783_3943.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092652",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1092652_603262_1513_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "광주반도체산단, 팹 4기+R&D·소부장·인재양성 기능 완비",
+          "desc": "이번 용역은 삼성전자와 SK하이닉스가 각각 400조원씩 총 800조원을 투입해 팹 4기를 짓는 서남권 반도체... 한국반도체디스플레이기술학회는 팹 1기당 직접 운영 2000~3000명, 소부장·협력사 3000명 이상을 가정해 용인...",
+          "src": "kwangju",
+          "date": "08/06",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1786009800802015277",
+          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/06_802015_578.jpg"
+        },
+        {
+          "title": "\"일당 30만원 줘도 사람 못 구해\"…시골 마을에 무슨 일이",
+          "desc": "비슷한 시각, 삼성전자 경기 평택캠퍼스 P5 현장 역시 천지개벽 중이었다. 2023년 반도체 업황 악화 여파로... 광주 군공항 이전 부지를 중심으로 첨단 메모리 생산 라인과 소재·부품·장비 협력사 단지를 함께 구축하는...",
+          "src": "한국경제",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/015/0005318159?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/AA.45264530.1.jpg"
+        },
+        {
+          "title": "'슬립테크'가 키우는 스마트링…오우라 상륙에 시장 '시동'",
+          "desc": "노태문 삼성전자 사장이 지난달 폴더블폰 언팩 행사에서 갤럭시링 관련 \"신제품을 선행개발하고 있다\"고 밝혔지만, 현재 삼성전자 부품협력사가 수행 중인 갤럭시링2 관련 구체적인 개발과제는 없는 것으로 알려졌다. 한...",
+          "src": "ZDNet코리아",
+          "date": "08/06",
+          "url": "https://n.news.naver.com/mnews/article/092/0002433238?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/02/67014fa0046714a3ad4dd24d9403b2d3.png"
+        },
+        {
           "title": "8월 2주차 국내 ESG 핫클립",
           "desc": "삼성전자, 평택 LNG 발전소에 수소 혼소 검토…입찰 조건에 이행계획 반영 삼성전자는 평택 P5... 효성중공업은 현지 협력사와 스태콤(STATCOM) 기술과 동기 조상기를 결합한 '하이브리드 스태콤'을 개발하기 위한...",
           "src": "impacton",
           "date": "08/06",
           "url": "http://www.impacton.net/news/articleView.html?idxno=19867",
           "img": "https://cdn.impacton.net/news/thumbnail/202608/19867_31452_1245_v150.jpg"
-        },
-        {
-          "title": "[더벨]'AI발 메모리 훈풍' 우익반도체 매물로 나왔다",
-          "desc": "우익반도체는 메모리모듈과 SSD 등을 생산하는 전자부품 제조사다. 삼성전자 컴퓨터 사업부와 거래를 시작한 뒤 삼성전자 반도체 부문의 메모리모듈과 SSD 생산 협력사로 사업을 확대했다. 표면실장(SMT) 공정을...",
-          "src": "더벨",
-          "date": "08/06",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608040816457480101231",
-          "img": ""
-        },
-        {
-          "title": "빅테크 메모리반도체 포함 장기 계약 '2.7조 달러' 규모, AI 투자 위축 우...",
-          "desc": "비롯한 협력사들과 막대한 장기 공급 계약을 맺은 것으로 파악됐다. 이는 인공지능(AI) 인프라 투자가... < SK하이닉스 > 삼성전자와 SK하이닉스, 마이크론 등 주요 제조사들이 이러한 과정에서 유리한 위치에 놓이면서...",
-          "src": "비즈니스포스트",
-          "date": "08/06",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444085",
-          "img": ""
-        },
-        {
-          "title": "이젠 상품이 더 중요…반도체벨트 특화설계 아파트 나온다",
-          "desc": "삼성전자가 추진 중인 반도체 클러스터의 총 투자 규모는 약 960조원이다. 이 단지는 SK하이닉스 반도체 클러스터 산업단지 내에 처음 들어서는 아파트다. 현재 용인 반도체 클러스터 협력화단지에는 소부장(소재·부품...",
-          "src": "동아일보",
-          "date": "08/06",
-          "url": "https://edu.donga.com/news/articleView.html?idxno=110636",
-          "img": "https://cdn.edu.donga.com/news/photo/202608/110636_174984_2137.jpg"
         }
       ]
     },
@@ -177,6 +177,16 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "기록적 폭염에 산업계 '비상'…휴식 늘리고 온열질환 예방 총력",
+      "url": "https://www.ajunews.com/view/20260806150922108",
+      "img": "https://image.ajunews.com/content/image/2026/08/06/20260806151009802648.jpg"
+    },
+    {
+      "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115158",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115158_113374_140_v150.jpg"
+    },
+    {
       "title": "신혼부부 혼수 소비 방식 변화…생활 궁합 맞춘다",
       "url": "https://www.g-enews.com/view.php?ud=202608061533046933056c162803_1",
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080615352902330056c162803118235240.jpg"
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.thebilliards.kr/news/thumbnail/202608/31646_50890_1922_v150.jpg"
     },
     {
-      "title": "60조 반도체 이익의 그늘…삼성전자 勞勞 갈등 심화",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080614462385633",
-      "img": "https://nimage.newsway.co.kr/photo/2026/05/20/20260520000018_1200.jpg"
+      "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
+      "img": "https://cdn.ggilbo.com/news/photo/202608/1173981_1026312_1948.jpg"
     },
     {
-      "title": "[포커스] 가전업계 공통 숙제 된 '빌트인 구형 제품 AS'…월세·부품보유...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747230",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747230_721642_4428_v150.jpg"
-    },
-    {
-      "title": "HCG, HR SaaS 솔루션 '단계적 도입' 확산… \"전 기능 대신 필요한 모듈부...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747320",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747320_721672_4244_v150.jpg"
-    },
-    {
-      "title": "게임산업 새 변곡점 'AI'-'블록체인'…넥써쓰, 통합 플랫폼 구축 속도",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307085",
-      "img": "https://cdn.khgames.co.kr/news/photo/202608/307085_312772_346.png"
+      "title": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/658/0000151688?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0807/L20260807.22002001761i1.jpg?52"
     }
   ]
 };
