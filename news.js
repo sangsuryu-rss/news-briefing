@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 19:49",
+  "updatedAt": "2026.08.06 (목) 23:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "기록적 폭염에 산업계 '비상'…휴식 늘리고 온열질환 예방 총력",
-          "desc": "모바일·가전 생산설비도 대부분 실내에서 운영돼서다. 전력 사용량 증가와 반도체 신증설 공사 현장의 온열질환 관리는 새로운 과제로 떠오르고 있다. 삼성전자는 고용노동부와 함께 개발한 '갤럭시 워치 기반 열...",
-          "src": "아주경제",
+          "title": "오텍캐리어, 고효율 히트펌프 2종 정부 지원 대상 선정",
+          "desc": "기업별로는 삼성전자 6종, LG전자 3종, 오텍캐리어와 대성히트에너시스가 각각 2종씩 이름을 올렸다. 기존 대형 가전업체뿐 아니라 냉난방 전문기업들이 지원 대상 제품을 확대하면서 향후 제품 효율과 설치 편의성...",
+          "src": "econovill",
           "date": "08/06",
-          "url": "https://www.ajunews.com/view/20260806150922108",
-          "img": "https://image.ajunews.com/content/image/2026/08/06/20260806151009802648.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747338",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/747338_721690_4853_v150.jpg"
         },
         {
           "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
-          "desc": "다만 정부 정책 수혜가 매드업의 실적 개선으로 직접 연결되는 것은 아니며, 향후 AI 기술 활용 확대와... 또한 국내 포털 최초로 AI 기반 답변형 검색 서비스를 도입했으며, LG AI연구원 컨소시엄에 참여해 AI 검색...",
-          "src": "ggilbo",
+          "title": "\"유통 넘어, 미래사업\"···김동선 사장, 신사업 '집중' 성과까지",
+          "desc": "아워홈은 AI 카메라를 활용한 위생·안전관리 시스템을 시범 운영하고 있으며 AI 기반 발주 시스템도 개발... 갤러리아백화점과 호텔·리조트 역시 AI와 로봇 기술 도입을 검토하고 있다. 한화는 계열사 사업장에서 검증한...",
+          "src": "finomy",
           "date": "08/06",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1173981_1026312_1948.jpg"
+          "url": "http://www.finomy.com/news/articleView.html?idxno=258717",
+          "img": "https://cdn.finomy.com/news/thumbnail/202608/258717_253797_5143_v150.jpg"
         },
         {
-          "title": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합)",
-          "desc": "- 조선업 용접로봇 도입 등 추진 - 곧 차세대 전력반도체 로드맵도 - 가상자산, 국유자산에 포함키로 - 기초... 철강업에서는 AI 제조공정 혁신 및 수소환원제철, 특수 탄소강 등 고부가·친환경 기술개발이 추진된다....",
-          "src": "kookje",
+          "title": "[마켓인사이드] 철옹성 생태계 구축, 'AI 시대 MS 윈도'가 된 엔비디아",
+          "desc": "미국의 AI 기술 의존도를 줄이고 자국 언어와 문화, 법률, 안보를 반영한 AI를 직접 개발하려는... 핀란드의 유럽 슈퍼컴퓨터 LUMI는 AMD 기반으로 운영되고 있으며 유럽 여러 AI 프로젝트도 AMD GPU를 활용하고 있다. AMD는...",
+          "src": "news2day",
           "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/658/0000151688?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0807/L20260807.22002001761i1.jpg?52"
+          "url": "https://www.news2day.co.kr/article/20260806500294",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/06/.cache/512/20260806500295.png"
         },
         {
-          "title": "세계 의회도서관 수장들 서울 집결…AI 정보신뢰 해법 모색",
-          "desc": "제시하며 AI 기술의 급격한 발전 속에서 의회도서관이 민주주의와 인권 등 인본주의적 가치를 지키는... AI 도입 과정에서도 인간 존엄과 민주주의적 가치가 우선돼야 한다는 점을 분명히 했다. 황 관장은 \"인공지능과...",
-          "src": "newscj",
+          "title": "포스코퓨처엠, LFP 양극재 사업 본격화···19만톤 공급 합의",
+          "desc": "경쟁력을 활용해 LFP 양극재의 제조 비용을 낮출 방침이다. 제철 과정에서 발생하는 산화철과 아르헨티나 염호에서 조달한 리튬을 원료로 사용하고 새로운 제조 방식을 도입할 예정이다. 추가 물량 확보도 추진한다....",
+          "src": "finomy",
           "date": "08/06",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3423094",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3423094_3534196_4310_v150.jpg"
+          "url": "http://www.finomy.com/news/articleView.html?idxno=258719",
+          "img": "https://cdn.finomy.com/news/thumbnail/202608/258719_253803_136_v150.jpg"
         },
         {
-          "title": "충북대 전략은 브랜드 단과대",
-          "desc": "특히 산업계 인사가 대학 운영과 인재양성에 직접 참여하는 '산업계 공동학장제'를 도입하고 기업과 함께... 공동연구와 기술사업화까지 연계키로 했다. 이와 함께 AI 융합대학 설립을 통해 AI 기초교육과 전공별 AI...",
-          "src": "ccdn",
+          "title": "[위클리_피지컬AI] 피지컬 AI 데이터 확보 총력전, 학습 최적화 고민도...",
+          "desc": "[위클리_피지컬AI]는 지난 한 주간 주목받은 기술 기업 소식과 연구 성과를 다루고자 한다. 타우 로보틱스, 휴머노이드 활용한 청소 서비스 제공 집안일을 대신해 줄 로봇이 등장한다는 상상은 오랫동안 인류를...",
+          "src": "동아일보",
           "date": "08/06",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092652",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1092652_603262_1513_v150.jpg"
+          "url": "https://it.donga.com/109316/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/8/6/0ead4f5b15cc4af5-thumbnail-960x540-70.jpg"
         }
       ]
     },
@@ -110,11 +110,11 @@ window.NEWS_DATA = {
         },
         {
           "title": "\"일당 30만원 줘도 사람 못 구해\"…시골 마을에 무슨 일이",
-          "desc": "비슷한 시각, 삼성전자 경기 평택캠퍼스 P5 현장 역시 천지개벽 중이었다. 2023년 반도체 업황 악화 여파로... 광주 군공항 이전 부지를 중심으로 첨단 메모리 생산 라인과 소재·부품·장비 협력사 단지를 함께 구축하는...",
+          "desc": "비슷한 시각, 삼성전자 경기 평택캠퍼스 P5 현장 역시 천지개벽 중이었다. 2023년 반도체 업황 악화 여파로... 광주 군공항 이전 부지를 중심으로 첨단 메모리 생산 라인과 소부장 협력사 단지를 함께 구축하는 대형...",
           "src": "한국경제",
           "date": "08/06",
           "url": "https://n.news.naver.com/mnews/article/015/0005318159?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45264530.1.jpg"
+          "img": "https://img.hankyung.com/photo/202608/AA.45265070.1.jpg"
         },
         {
           "title": "'슬립테크'가 키우는 스마트링…오우라 상륙에 시장 '시동'",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "기록적 폭염에 산업계 '비상'…휴식 늘리고 온열질환 예방 총력",
-      "url": "https://www.ajunews.com/view/20260806150922108",
-      "img": "https://image.ajunews.com/content/image/2026/08/06/20260806151009802648.jpg"
+      "title": "오텍캐리어, 고효율 히트펌프 2종 정부 지원 대상 선정",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=747338",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/747338_721690_4853_v150.jpg"
     },
     {
       "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.thebilliards.kr/news/thumbnail/202608/31646_50890_1922_v150.jpg"
     },
     {
-      "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
-      "img": "https://cdn.ggilbo.com/news/photo/202608/1173981_1026312_1948.jpg"
+      "title": "\"유통 넘어, 미래사업\"···김동선 사장, 신사업 '집중' 성과까지",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=258717",
+      "img": "https://cdn.finomy.com/news/thumbnail/202608/258717_253797_5143_v150.jpg"
     },
     {
-      "title": "車·조선·철강 ‘AI 혁신’으로, 반도체 뛰어넘는다(종합)",
-      "url": "https://n.news.naver.com/mnews/article/658/0000151688?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0807/L20260807.22002001761i1.jpg?52"
+      "title": "[마켓인사이드] 철옹성 생태계 구축, 'AI 시대 MS 윈도'가 된 엔비디아",
+      "url": "https://www.news2day.co.kr/article/20260806500294",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/06/.cache/512/20260806500295.png"
     }
   ]
 };
