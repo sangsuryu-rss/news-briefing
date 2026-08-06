@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 08:18",
+  "updatedAt": "2026.08.06 (목) 12:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"B2B 기반 수익성 확보 급선무\"...삼성전자, DX부문 올 2분기 \"적자 쇼크...",
-          "desc": "그는\"삼성전자 DX부문은 TV와 생활가전 시장의 경쟁 심화, 마케팅 비용 증가, AI 제품 확대를 위한 선제 투자, 재고 조정 등이 동시에 발생하면서 수익성이 크게 악화됐다\"면서 \"결국 외부 환경보다 원가 관리 능력과...",
-          "src": "유스경제",
+          "title": "11년 만에 외부 출신 김종윤 대표 선임…롯데하이마트 체질개선 이뤄낼...",
+          "desc": "김영훈 한국신용평가 연구위원은 지난 4월 내놓은 신용평가 보고서에서 “삼성전자와 LG전자 등 가전 제조사가 자체 판매망을 강화한 점도 롯데하이마트에는 부담”이라며 “온라인 시장이 커진 데다 제조사...",
+          "src": "ilyo",
           "date": "08/06",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=224552",
-          "img": "https://www.youthdaily.co.kr/data/photos/20260832/art_17859014663543_876d5b.jpg"
+          "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512163",
+          "img": "https://ilyo.co.kr/contents/article/images/2026/0806/1785970963638686.jpg"
         },
         {
           "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
         },
         {
-          "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
-          "desc": "AI 글라스 시장 경쟁 심화…독자 플랫폼 생태계 확보해야 6일 업계에 따르면 삼성전자는 올가을 구글과... 갤럭시 워치·링 등 자사 웨어러블 제품을 묶는 '하드웨어 록인' 전략과 전 세계 가전 시장을 장악하고 있는...",
-          "src": "view",
+          "title": "[포커스] 가전업계 공통 숙제 된 '빌트인 구형 제품 AS'…월세·부품보유...",
+          "desc": "9년, 세탁기는 7년 등으로 안내 중\"이라며 \"만약 새 제품을 구매하는 걸 서비스센터에서 제안한 경우는 부품 재고를 알아보는 등 서비스 비용이 너무 커진 케이스일 것\"이라고 말했다. 삼성전자서비스 역시 \"내부 규정에...",
+          "src": "econovill",
           "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747230",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/747230_721642_4428_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 전면 고도화",
-          "desc": "플래티어 관계자는 \"기업이 AI에서 성과를 내기 어려운 이유는 도입에 실패해서가 아니라 운영 과정에서... 경험과 최신 AI 기술을 결합해 기업이 AI를 장기적인 자산으로 활용하도록 하는 데 초점을 맞췄다\"고 설명했다.",
-          "src": "뉴시스",
-          "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/003/0014111155?sid=101",
-          "img": "https://img1.newsis.com/2026/08/06/NISI20260806_0002205465_web.jpg"
-        },
-        {
-          "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화",
-          "desc": "AI 운영을 지원한다. 진병권 플래티어 ECS AX 사업부문장은 \"기업이 AI에서 성과를 내기 어려운 이유는 도입에... 경험과 최신 AI 기술을 결합해 기업이 AI를 장기적인 자산으로 활용하도록 하는 데 초점을 맞췄다\"고 말했다.",
-          "src": "view",
-          "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/277/0005799498?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080608065471234_1785971214.png"
-        },
-        {
-          "title": "다우 사상 최고…S&P·나스닥 숨고르기[뉴스새벽배송]",
-          "desc": "알파벳도 AI 조직 개편과 핵심 인력 이탈 소식에 4% 넘게 밀리며 기술주별 차별화가 나타나. -스페이스X는... 프로젝트도 활용할 계획이며, 향후 수년간 10GW 규모의 AI 데이터센터 용량 확보를 목표로 인프라 투자를...",
+          "title": "인터넷은 6년, 챗GPT는 5개월…AI 확산 속도 역대급",
+          "desc": "미국 기업의 AI 도입률과 비슷한 수준이다. AI가 이전 범용 기술보다 빠르게 확산하는 이유는 기존 디지털 인프라를 그대로 활용할 수 있기 때문이다. 전기와 철도, 인터넷 등 과거 범용 기술이 발전소와 송전망, 통신망...",
           "src": "이데일리",
           "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/018/0006345511?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080600320.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006345816?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080601013.jpg"
         },
         {
-          "title": "[분석]⑤AI·디지털 기술이 바꾸는 화학안전…정부 정책 현실로 만드는...",
-          "desc": "민간은 AI와 디지털 기술을 활용해 이를 효율적으로 실행하는 구조로 변화하고 있는 것이다. 결국... 기업의 AI 활용 수준을 진단하고 공정 특성과 업무 프로세스를 분석한 뒤 AI 도입 전략을 수립하고 프로젝트 기반...",
+          "title": "지역·필수의료 공백 AI로 메운다…정부 'AI 기본의료 전략' 추진",
+          "desc": "의료진을 대상으로 AI 활용 교육을 실시하고 지역보건의료정보시스템(PHIS)과 연계해 활용도를 높일... AI 의료기술 자체뿐 아니라 AI 도입에 따른 의료 성과와 환자 편익을 종합적으로 평가하는 보상체계를 검토하고...",
+          "src": "docdocdoc",
+          "date": "08/06",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041565",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041565_3045174_3352_v150.jpg"
+        },
+        {
+          "title": "\"AI 위험경고부터 보건버스까지\" DL이앤씨, 현장 안전·복지 강화",
+          "desc": "DL이앤씨가 인공지능(AI) 기반 스마트 안전기술 도입과 근로자 체감형 복지까지 아우르는 건설 현장 안전... IoT 기반 체감온도계를 활용한 실시간 폭염 관리와 함께 보건관리자가 현장을 찾아 건강 점검과 냉방용품을...",
+          "src": "catchnews",
+          "date": "08/06",
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=127043",
+          "img": "https://cdn.catchnews.kr/news/thumbnail/202608/127043_163368_3020_v150.jpg"
+        },
+        {
+          "title": "S-OIL '2025 ESG 보고서' 발간",
+          "desc": "공정 운영 개선, 저탄소 유틸리티 활용, 수소 도입, 탄소 포집 및 활용, 배출권 확보 등 다양한 탄소 감축... 신기술이 적용돼 원유에서 직접 석유화학 원료를 생산하는 TC2C(Thermal Crude-To-Chemicals) 수첨분해 반응기...",
           "src": "energydaily",
           "date": "08/06",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201938",
-          "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202044",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202608/202044_201779_324.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[더벨]파인엠텍, 폴더블폰 시장 2막 '낙수효과 기대'",
-          "desc": "갤럭시Z 시리즈 내내 삼성전자 협력사로 이름을 올리고 있다. 이번 신작에서는 메탈 플레이트 내 레이저... 이는 파인엠텍에 대한 부품 발주가 증가한다는 의미다. 더불어 파인엠텍은 다년간 폴더블폰 노하우를 쌓고...",
+          "title": "[더벨]'AI발 메모리 훈풍' 우익반도체 매물로 나왔다",
+          "desc": "우익반도체는 메모리모듈과 SSD 등을 생산하는 전자부품 제조사다. 삼성전자 컴퓨터 사업부와 거래를 시작한 뒤 삼성전자 반도체 부문의 메모리모듈과 SSD 생산 협력사로 사업을 확대했다. 표면실장(SMT) 공정을...",
           "src": "더벨",
           "date": "08/06",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051103248720102017",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608040816457480101231",
           "img": ""
         },
         {
-          "title": "[평택 민선 9기 연속기획③] 반도체·AI·평택항을 성장축으로…최원용...",
-          "desc": "제조장비와 소재, 부품, 설계, 유지보수, 물류, 환경·안전, 연구개발, 인력 양성 등 수많은 기업과 기관이 연결돼야 경쟁력을 갖출 수 있다. 삼성전자 평택캠퍼스를 중심으로 협력기업과 연구기관, 교육기관, 창업기업이...",
-          "src": "newstown",
-          "date": "08/05",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711511",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711511_666075_548_v150.jpg"
+          "title": "빅테크 메모리반도체 포함 장기 계약 '2.7조 달러' 규모, AI 투자 위축 우...",
+          "desc": "비롯한 협력사들과 막대한 장기 공급 계약을 맺은 것으로 파악됐다. 이는 인공지능(AI) 인프라 투자가... < SK하이닉스 > 삼성전자와 SK하이닉스, 마이크론 등 주요 제조사들이 이러한 과정에서 유리한 위치에 놓이면서...",
+          "src": "비즈니스포스트",
+          "date": "08/06",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444085",
+          "img": ""
         },
         {
-          "title": "韓, 대기업 세제·인프라에 집중…中, 국유자본 동원해 기업 육성",
-          "desc": "정부는 세제·금융 지원과 규제 완화, 인력 양성 등 전방위 지원을 약속했고 삼성전자·SK하이닉스 등 민간... 펀드는 7년간 중국 그래픽처리장치(GPU) 기업 메타엑스와 협력사·고객사 등에 투자할 예정이다. 중국은 2026...",
-          "src": "sportsworldi",
-          "date": "08/05",
-          "url": "https://n.news.naver.com/mnews/article/396/0000751533?sid=103",
-          "img": "https://www.sportsworldi.com/content/image/2026/08/05/20260805521906.jpg"
+          "title": "이젠 상품이 더 중요…반도체벨트 특화설계 아파트 나온다",
+          "desc": "삼성전자가 추진 중인 반도체 클러스터의 총 투자 규모는 약 960조원이다. 이 단지는 SK하이닉스 반도체 클러스터 산업단지 내에 처음 들어서는 아파트다. 현재 용인 반도체 클러스터 협력화단지에는 소부장(소재·부품...",
+          "src": "동아일보",
+          "date": "08/06",
+          "url": "https://edu.donga.com/news/articleView.html?idxno=110636",
+          "img": "https://cdn.edu.donga.com/news/photo/202608/110636_174984_2137.jpg"
         },
         {
-          "title": "[중국 반도체 굴기] 한국 정부 VS 중국 정부, 지금까지 반도체 지원책 비...",
-          "desc": "정부는 세제·금융 지원과 규제 완화, 인력 양성 등 전방위 지원을 약속했고 삼성전자·SK하이닉스 등 민간... 펀드는 7년간 중국 그래픽처리장치(GPU) 기업 메타엑스와 협력사·고객사 등에 투자할 예정이다. 중국은 2026...",
-          "src": "segyebiz",
-          "date": "08/05",
-          "url": "http://www.segyebiz.com/newsView/20260805519479?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/08/05/20260805519476.png"
+          "title": "실수요자는 이제 상품이 더 중요… 반도체벨트 특화설계 아파트 공급",
+          "desc": "분양가상한제가 적용되는 희소성 높은 신규 공급으로, SK하이닉스와 삼성전자가 추진 중인 약 960조 원 규모... SK하이닉스 협력사가 입주를 위해 부지를 분양받은 것으로 알려졌다. 이와 함께 ‘반도체 고속도로’...",
+          "src": "이투데이",
+          "date": "08/06",
+          "url": "https://www.etoday.co.kr/news/view/2611420",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260805163151_2369160_700_440.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"B2B 기반 수익성 확보 급선무\"...삼성전자, DX부문 올 2분기 \"적자 쇼크...",
-      "url": "https://www.youthdaily.co.kr/news/article.html?no=224552",
-      "img": "https://www.youthdaily.co.kr/data/photos/20260832/art_17859014663543_876d5b.jpg"
+      "title": "11년 만에 외부 출신 김종윤 대표 선임…롯데하이마트 체질개선 이뤄낼...",
+      "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512163",
+      "img": "https://ilyo.co.kr/contents/article/images/2026/0806/1785970963638686.jpg"
     },
     {
       "title": "\"0.5평 늘려드려요\" 이렇게 1.5억 이득?...요즘 가전은 '빌트인' 전쟁",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sportsworldi.com/content/image/2026/08/06/20260806502980.jpg"
     },
     {
-      "title": "[새 폼팩터 표준화 경쟁]③대중화 핵심은 기기 간 연동·합리적 가격",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799454?sid=105",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026071011130441653_1783649584.jpg"
+      "title": "[포커스] 가전업계 공통 숙제 된 '빌트인 구형 제품 AS'…월세·부품보유...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=747230",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/747230_721642_4428_v150.jpg"
     },
     {
-      "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 전면 고도화",
-      "url": "https://n.news.naver.com/mnews/article/003/0014111155?sid=101",
-      "img": "https://img1.newsis.com/2026/08/06/NISI20260806_0002205465_web.jpg"
+      "title": "인터넷은 6년, 챗GPT는 5개월…AI 확산 속도 역대급",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345816?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080601013.jpg"
     },
     {
-      "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799498?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080608065471234_1785971214.png"
+      "title": "지역·필수의료 공백 AI로 메운다…정부 'AI 기본의료 전략' 추진",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041565",
+      "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041565_3045174_3352_v150.jpg"
     }
   ]
 };
