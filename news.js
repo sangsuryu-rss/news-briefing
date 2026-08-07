@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.07 (금) 22:41",
+  "updatedAt": "2026.08.08 (토) 00:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "딥마인드 제안한 HBF, FMS 2026서 첫 표준 공개…SK하이닉스·샌디스크 참...",
+          "desc": "샌디스크 측은 HBF 도입으로 AI가 이전 대화 내용을 효율적으로 관리할 수 있어 응답 속도를 높이고 GPU... 메모리 기술이 시연됐다. CXL Pooled Memory를 활용해 여러 서버와 GPU를 연결한 분산 AI 에이전트 서빙...",
+          "src": "cbci",
+          "date": "08/08",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595792",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/595792_406872_1928_v150.jpg"
+        },
+        {
+          "title": "5위에서 1등 껑충… 외국인 마음 훔친 경기도, 전국 관광공사 싹쓸이",
+          "desc": "단순히 관광객 숫자만 늘린 것이 아니라 외국인 전용 무료 안전보험 도입, 민관 협력 상품 hit, AI 기반... 직원들이 직접 AI를 활용해 홍보 영상과 음악, SNS 콘텐츠를 제작하는 등 업무 전반에 스마트 시스템을 접목했다....",
+          "src": "newscj",
+          "date": "08/07",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423425",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3423425_3534679_5218_v150.jpg"
+        },
+        {
+          "title": "돌봄에 AI 동원...동작구, '2026년 폭염 대비 취약계층 보호대책' 적극 ...",
+          "desc": "재가 돌봄에는 다양한 기기·장비를 연동한 '스마트 홈'을 도입해 건강·안전·정서 지원을 통합 제공한다.... 스마트 기술을 활용한 폭염 대응도 실시한다. 'AI 전화발신 시스템'으로 대상자의 안부를 확인하고...",
+          "src": "cnbizm",
+          "date": "08/07",
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=310938",
+          "img": "https://cdn.cnbizm.com/news/photo/202608/310938_215865_4015.jpg"
+        },
+        {
           "title": "[현장 Q&A] \"최상위 독점 구도 깬다\"…'제우스: 오만의 신' 장기 서비스...",
           "desc": "[사진=송진원 기자] 언리얼 엔진5를 활용해 고품질 캐릭터 모델링과 디테일한 배경 연출을 구현했으며... 인공지능(AI)이 조작하는 '페르소나' 시스템을 도입, 1vs1 PvP 콘텐츠인 '콜로세움'과 길드 간 RvR 콘텐츠인 '아카디아...",
           "src": "tleaves",
           "date": "08/07",
           "url": "https://www.tleaves.co.kr/news/articleView.html?idxno=9671",
           "img": "https://cdn.tleaves.co.kr/news/thumbnail/202608/9671_17130_4149_v150.jpg"
-        },
-        {
-          "title": "AI 사용 표기했다고 끝이 아니다... 시프트업이 직면한 'AI 슬롭' 논란",
-          "desc": "신기술을 도입할 때는 그 기술의 장점뿐만 아니라 한계점까지 파악하는 것이 중요하다는 점을 다시 한 번 상기시켜 주는 일”이라고 강조했다. 생성형 AI가 아직 인간의 판단과 아트 디렉션, 감정의 미묘한 차이를...",
-          "src": "ditoday",
-          "date": "08/07",
-          "url": "https://ditoday.com/ai-%ec%82%ac%ec%9a%a9-%ed%91%9c%ea%b8%b0%ed%96%88%eb%8b%a4%ea%b3%a0-%eb%81%9d%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4-%ec%8b%9c%ed%94%84%ed%8a%b8%ec%97%85%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-ai/",
-          "img": ""
-        },
-        {
-          "title": "당진시, 한우 농가에 인공지능 관찰 시스템 도입",
-          "desc": "충남 당진시가 AI 인공지능 한우 사육 지원에 나선다고 7일 밝혔다. 시는 한우농가에 인공지능 시스템 도입... 지역 내 한우농가 2곳에 지원한 시스템은 농촌진흥청 국립축산과학원, 충남도 농업기술원이 보급했다....",
-          "src": "kukinews",
-          "date": "08/07",
-          "url": "https://www.kukinews.com/article/view/kuk202608070170",
-          "img": ""
-        },
-        {
-          "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
-          "desc": "우선 도입하고, 여기서 축적한 기술과 역량을 바탕으로 B2B, B2C 사업으로 확장하는 것이 목표”라고 밝혔다.... 기술 공급자”라며 “자체 공장에서 로봇을 검증하고 확보한 데이터를 다시 AI와 하드웨어 개발에 활용할...",
-          "src": "매일경제",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107411?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
     },
     {
-      "title": "[현장 Q&A] \"최상위 독점 구도 깬다\"…'제우스: 오만의 신' 장기 서비스...",
-      "url": "https://www.tleaves.co.kr/news/articleView.html?idxno=9671",
-      "img": "https://cdn.tleaves.co.kr/news/thumbnail/202608/9671_17130_4149_v150.jpg"
+      "title": "딥마인드 제안한 HBF, FMS 2026서 첫 표준 공개…SK하이닉스·샌디스크 참...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595792",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/595792_406872_1928_v150.jpg"
     },
     {
-      "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107411?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "5위에서 1등 껑충… 외국인 마음 훔친 경기도, 전국 관광공사 싹쓸이",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3423425",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3423425_3534679_5218_v150.jpg"
     }
   ]
 };
