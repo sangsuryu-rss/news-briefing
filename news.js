@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.07 (금) 16:43",
+  "updatedAt": "2026.08.07 (금) 18:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[ABC Up & Down] 삼성전자, 역대급 실적의 그늘…'갤럭시 포함' DX 부문 첫...",
-          "desc": "휴대폰·가전 사업을 담당하는 DX(Device eXperience) 부문이 출범 이후 처음으로 분기 적자를 낸 삼성전자를 조명했다. 방송은 화려한 실적 이면에 사업부 간 실적 양극화와 내부 갈등 가능성이 커지고 있다며...",
-          "src": "아주경제",
+          "title": "배송중 쓰러지는 쿠팡기사…'땀냄새'로 평점 깎인 삼성기사",
+          "desc": "상황은 삼성전자 가전제품 배송 설치기사도 비슷합니다. 이들은 배정 물량을 소화 못 할 경우 계약 유지에 불이익을 받을 수 있어 무더운 날씨에도 작업을 이어가고 있습니다. 가전제품 설치기사들은 삼성전자가 반도체...",
+          "src": "news",
           "date": "08/07",
-          "url": "https://www.ajunews.com/view/20260806110940756",
-          "img": "https://image.ajunews.com/content/image/2026/08/06/20260806152233589835.png"
+          "url": "https://n.news.naver.com/mnews/article/437/0000505103?sid=102",
+          "img": "https://photo.jtbc.co.kr/news/jam_photo/202608/07/45ee0af6-148e-468d-8b71-83c5e79e3881.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "[기획] 히트펌프가 그리는 열에너지 탈탄소",
-          "desc": "사진=제미나이 국내 가전 양대 산맥인 삼성전자와 LG전자는 최근 제주 지역 단독주택에 잇따라 히트펌프 보일러 1호 가구를 구축하며 초기 시장 선점 경쟁에 나섰고, 정부 역시 열에너지 탈탄소 전략을 발표하며 힘을...",
-          "src": "kfenews",
+          "title": "[오늘의 ABC 뉴스룸] \"폭락장에도 코스피 1만2천 간다\" 월가의 충격 전망...",
+          "desc": "삼성전자와 SK하이닉스 등 우리 증시를 이끄는 반도체 투톱도 크게 휘청이면서 시장 불안감이 커지고... 폭염 속 '인간 냉장고' 등장…일본서 화제 펄펄 끓는 폭염이 전 세계를 덮친 가운데, 일본에서 개발된 1인용 '인간...",
+          "src": "아주경제",
           "date": "08/07",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662049",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662049_135555_2329_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260807163427513",
+          "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
         },
         {
-          "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-          "desc": "7일 업계에 따르면 삼성전자의 로봇청소기인 비스포크 AI 스팀 시리즈는 6월 한달간 큰 폭으로 판매가 늘어나 국내 로봇 청소기 판매 1위를 기록한 것으로 추정되고 있다. 직접적으로는 삼성전자가 지난 6월 진행한 사회...",
-          "src": "매일경제",
+          "title": "세계 PC 업계, 세계적 메모리 부족에 '삼성' 등 눈치 보기",
+          "desc": "PC 업계의 눈치 보기는 미국 정책보다는 한국의 삼성전자와 같은 기존 업체들에 대한 두려움에서 비롯된... 소비자 가전제품에 직접적인 영향을 미치고 있다. 지난 12개월 동안 RAM 현물 가격이 400% 이상 상승했다. PC...",
+          "src": "newstown",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711708",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711708_666290_1925_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "SK하이닉스, 용인 'Y2' 팹과 청주 'M17' 팹 건설에 54조 투자 결정",
-          "desc": "특히 엔터프라이즈 솔리디스테이트드라이브(SSD) 수요 증가에 더해 AI 추론 과정에서 활용되는 'KV 캐시' 저장 수요가 확대되면서 시장이 빠르게 커지고 있다. 향후 에이전틱 AI와 피지컬 AI가 본격 도입되면 낸드 적용...",
-          "src": "비즈니스포스트",
+          "title": "인크로스, 2분기 영업익 28억원 기록…광고·커머스 성장에 수익성 개선",
+          "desc": "인크로스는 인공지능(AI)을 활용한 사업 전환에도 속도를 내고 있다. 그동안 축적한 마케팅 데이터와... 고도화된 AI 기술을 결합해 고객에게 차별화된 성과를 제공하는 선도적인 AI 데이터 인텔리전스 기업으로...",
+          "src": "efnews",
           "date": "08/07",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444254",
-          "img": ""
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131465",
+          "img": "http://www.efnews.co.kr/news/photo/202608/131465_118261_4834.jpg"
         },
         {
-          "title": "\"'이것' 있으면 20㎏ 케틀벨도 거뜬\" 육군 스마트 군수 혁신 현장 가보니",
-          "desc": "형상기억합금(SMA) 와이어로 만들어진 스프링 실을 활용한 근육 옷감이 사용됐다. 장거리 행군 및 복합 지형... 2025년 5월부턴 분류 자동화(팔레타이저) 로봇 및 AI 포장 로봇 등을 도입해 운영 중이며, 올해 중으로 1단계인...",
-          "src": "뉴스1",
+          "title": "[위클리오늘] 해운대구 소식 (8.7)",
+          "desc": "스마트 기술을 접목한 사업계획을 제출해 선정됐다. 사업에는 2026년부터 2027년까지 2년간 국비 30억 원을... 또한 AI 기반 무인관광안내소와 외국인 스마트 결제 시스템을 도입하고, 지능형 CCTV를 활용한 관광객 밀집도...",
+          "src": "weeklytoday",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/421/0009103000?sid=100",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046079/high.jpg"
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=789552",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/789552_972977_1212_v150.jpg"
         },
         {
-          "title": "쿠팡, AI로 상품 비교부터 리뷰 요약까지...쇼핑 편의 강화",
-          "desc": "쿠팡이 AI로 쇼핑 경험 개선에 나섰다. (사진제공=쿠팡)  쿠팡이 인공지능(AI)을 활용해 상품 탐색부터 비교와... 쿠팡 관계자는 \"앞으로 상품 상세 페이지 전반으로 AI 적용 범위를 확대하고 고객 친화적인 기술을 도입할...",
-          "src": "chungnamilbo",
+          "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
+          "desc": "이어 \"오는 10월부터 멤버십 전용 반품센터를 통해 빠른 반품을 지원하고 전용 새벽배송을 본격 도입할... 엔비디아의 기술과 공급 협력에 더해 준비된 전력과 부지, 자본과의 파트너십, 오랜 기간 축적한 AI 풀스택...",
+          "src": "블로터",
           "date": "08/07",
-          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902935",
-          "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/902935_481269_3535_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000088785?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/670370_283441_2754_v150.jpg"
         },
         {
-          "title": "경북도, AI·디지털트윈 기반 '가상공장 플랫폼' 개발 착수",
-          "desc": "경북도가 인공지능(AI)과 디지털트윈 기술을 활용해 실제 공장을 건설하기 전에 생산공정과 설비를... 디지털트윈과 메타버스 기술을 연구하는 학계 전문가들은 이번 가상공장 플랫폼 도입이 단순한 공정 자동화를 넘어...",
-          "src": "CNB뉴스",
+          "title": "코어라인소프트, 독일 폐암검진 소프트웨어 공급·구축으로 시장 본격 ...",
+          "desc": "AI 솔루션을 공급하는 계약을 확보했다고 7일 밝혔다. 초기 소프트웨어 공급·구축에 더해 10년간의 기술... 독일 폐암검진 시장이 개별 CT 장비나 단일 AI 소프트웨어 도입을 넘어, 영상 촬영·AI 분석·판독·결과 관리...",
+          "src": "getnews",
           "date": "08/07",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010792",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1010792_511921_3333.jpg"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=877358",
+          "img": "https://cdn.getnews.co.kr/news/photo/202608/877358_533059_742.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[ABC Up & Down] 삼성전자, 역대급 실적의 그늘…'갤럭시 포함' DX 부문 첫...",
-      "url": "https://www.ajunews.com/view/20260806110940756",
-      "img": "https://image.ajunews.com/content/image/2026/08/06/20260806152233589835.png"
+      "title": "배송중 쓰러지는 쿠팡기사…'땀냄새'로 평점 깎인 삼성기사",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505103?sid=102",
+      "img": "https://photo.jtbc.co.kr/news/jam_photo/202608/07/45ee0af6-148e-468d-8b71-83c5e79e3881.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "[기획] 히트펌프가 그리는 열에너지 탈탄소",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662049",
-      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662049_135555_2329_v150.jpg"
+      "title": "[오늘의 ABC 뉴스룸] \"폭락장에도 코스피 1만2천 간다\" 월가의 충격 전망...",
+      "url": "https://www.ajunews.com/view/20260807163427513",
+      "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
     },
     {
-      "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+      "title": "세계 PC 업계, 세계적 메모리 부족에 '삼성' 등 눈치 보기",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711708",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711708_666290_1925_v150.jpg"
     },
     {
-      "title": "\"'이것' 있으면 20㎏ 케틀벨도 거뜬\" 육군 스마트 군수 혁신 현장 가보니",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103000?sid=100",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046079/high.jpg"
+      "title": "인크로스, 2분기 영업익 28억원 기록…광고·커머스 성장에 수익성 개선",
+      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131465",
+      "img": "http://www.efnews.co.kr/news/photo/202608/131465_118261_4834.jpg"
     },
     {
-      "title": "쿠팡, AI로 상품 비교부터 리뷰 요약까지...쇼핑 편의 강화",
-      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902935",
-      "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/902935_481269_3535_v150.jpg"
+      "title": "[위클리오늘] 해운대구 소식 (8.7)",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=789552",
+      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/789552_972977_1212_v150.jpg"
     }
   ]
 };
