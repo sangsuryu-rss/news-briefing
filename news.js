@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 06:01",
+  "updatedAt": "2026.08.08 (토) 07:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "3백만원 폰·4천만원 아반떼…쓸 땐 쓴다? [취재여담]",
-          "desc": "오늘(8일) 전자·자동차업계에 따르면 삼성전자 갤럭시 Z폴드8은 최상위 모델이 345만원까지 올라 국내... 가전이나 자동차 같은 필수재까지 프리미엄화가 번지면 가계의 실질 구매 부담도 함께 올라갑니다. '지르고 보자...",
-          "src": "biz",
+          "title": "[주간 거래소 기관] 삼성전자·SK하이닉스 팔고 삼성전기·한화솔루션·...",
+          "desc": "NAVER와 LG전자, 삼성에스디에스도 기관 순매수 종목에 포함됐다. 플랫폼과 IT서비스, 가전 업종 전반에서 선별적 매수세가 나타났다. LG생활건강과 삼성SDI 역시 기관 순매수 상위권에 이름을 올렸다. 소비재와 2차전지 대표...",
+          "src": "핀포인트뉴스",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/374/0000526307?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/08/07/QUr1786071715980-850.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475484",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475484_462626_1423_v150.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.segye.com/content/image/2026/08/08/20260808501830.jpg"
         },
         {
-          "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-          "desc": "7일 업계에 따르면 삼성전자의 로봇청소기인 비스포크 AI 스팀 시리즈는 6월 한달간 큰 폭으로 판매가 늘어나 국내 로봇 청소기 판매 1위를 기록한 것으로 추정되고 있다. 직접적으로는 삼성전자가 지난 6월 진행한 사회...",
-          "src": "매일경제",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+          "title": "[탈모바일 삼성전기①] 갤럭시 굴레 끊고, AI·전장으로 물꼬",
+          "desc": "완제품을 만드는 삼성전자와 별개로 핵심 부품을 전문적으로 생산하는 기반을 구축하기 위해서였다. 설립 초기 가전 부품 생산에 집중하던 회사는 1977년 '삼성전기공업'으로 사명을 변경하며 전환점을 맞았다. 이후...",
+          "src": "the-biz",
+          "date": "08/08",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725707",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202608/725707_929864_1427.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "기획부터 공장 가동까지···식품업계, '푸드 AI' 총력전",
-          "desc": "핵심 기술로 자리 잡았다. 내수 부진과 원가 부담이 장기화되는 가운데 식품기업들은 AI를 비용 절감 수단... ◇기업 경쟁력 좌우하는 'AI 활용 능력' 많은 식품기업이 AI 도입에 속도를 내는 이유는 산업 특성과 맞닿아...",
-          "src": "ziksir",
+          "title": "[기획] 글로벌에 맞선 토종 OTA...\"로컬 데이터로 승부해야\"",
+          "desc": "시장 규모가 커지고 글로벌 기업들의 성장세가 가파르자 국내 주요 플랫폼들은 앞다퉈 ATA 서비스를 도입... 이훈 한양대 관광연구소 소장은 “AI 기술 자체는 점차 범용화되고 있어 누구나 활용할 수 있는 단계에...",
+          "src": "서울경제TV",
           "date": "08/08",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=142488",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202608/142488_162327_2621_v150.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202608060131",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/06/sentv20260806000123.jpg"
         },
         {
-          "title": "팀스파르타, ‘2026 기업 AX 벤치마크 리포트’ 발간",
-          "desc": "자체 AI 보유 여부와 활용 방식에서 격차가 벌어지면서, 경쟁력의 축이 AI 도입에서 활용으로 옮겨가고... 팀스파르타는 KAIST 출신 이범규 대표가 2020년 설립한 AI 업스킬링 기업이다. AI 시대 인재·기업·기술을 연결해...",
-          "src": "sports",
+          "title": "트렌드 읽고 제품 만든다…식품업계, AI 경쟁 본격화",
+          "desc": "동원그룹은 최근 동원산업과 동원F&B, 동원홈푸드 등 주요 계열사에 AI 사원을 배치했다. AI는 정보기술(IT)... 향후에는 설비 이상과 생산 차질까지 예측하는 기능도 도입할 예정이다. 신제품 기획 단계에서도 AI 활용이...",
+          "src": "newsway",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/144/0001130644?sid=105",
-          "img": ""
+          "url": "https://www.newsway.co.kr/news/view?ud=2026080710091781940",
+          "img": "https://nimage.newsway.co.kr/photo/2026/08/07/20260807001175_1200.png"
         },
         {
-          "title": "\"로펌·기업 맞춤형 AI 직접 설계\"",
-          "desc": "레고라에서는 '법률 엔지니어'로 로펌 및 기업 법무팀과 협업해 각 조직에 맞춘 AI 도입·활용을 설계... 법률 엔지니어와 기술지원·영업 인력을 포함한 한국팀을 꾸리고 있다. 우선 10명 안팎을 생각하고 있다. 목표는...",
-          "src": "lawtimes",
+          "title": "[Invest]대형은 선택, 중소형은 필수…AI 앞에서 '각자도생' 회계법인들",
+          "desc": "회계법인들의 인공지능(AI) 도입은 필수가 됐다. 그 속도와 방향은 회계법인의 회사 규모에 따라 서로... 당시 간담회 참석자들은 \"AI 기술 활용 시 최종 검증 단계에서 오히려 인력과 시간이 많이 든다\"며 \"비용 절감...",
+          "src": "조선일보",
           "date": "08/08",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224509",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202608/224509_127499_3322.jpg"
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/08/07/2026080780113.html",
+          "img": "https://img.investchosun.com/site/data/img_dir/2026/08/07/2026080780111_0.png"
         },
         {
-          "title": "‘병’보다 ‘삶’을 치료한다…초고령사회 노인의학의 변신 [건강한겨...",
-          "desc": "한편, 인공지능과 생성형 AI 기술이 노인 진료 현장에 도입됨에 따라 미국노인의학회 등에서는 낙상 위험 예측, 복약 관리 및 데이터 분석에서 AI를 활용하는 가이드라인 마련을 위해 노력하고 있다. 퇴원 뒤 고령 환자가...",
-          "src": "한겨레",
+          "title": "킴 카다시안도 찾은 ‘K미용의료’…12.5조원 복합 산업으로",
+          "desc": "플랫폼사들은 정찰제를 도입하고, 실제 방문자 후기 모니터링과 인공지능(AI) 기술을 활용해 의료진과 시술 가격 정보를 앱에 투명하게 공개하기 시작했다. 강남언니는 이용자 950만명을 바탕으로 320만건의 후기와...",
+          "src": "economist",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/028/0002817646?sid=103",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/539/imgdb/original/2026/0805/20260805503643.webp"
+          "url": "https://n.news.naver.com/mnews/article/243/0000101372?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/05/ecn20260805000027.800x.0.jpg"
         }
       ]
     },
@@ -149,14 +149,6 @@ window.NEWS_DATA = {
           "img": "https://cdn.livebiz.today/news/photo/202607/203185_204215_2938.png"
         },
         {
-          "title": "[GAM]16년만의 홍콩행 '럭스쉐어'① 애플 공급망 1인자의 진화",
-          "desc": "그러나 글로벌 공급망 재편과 인공지능(AI) 시대의 도래, 자동차 전장과 데이터센터 시장의... 주요 제품으로는 △자동차 와이어링 하네스 신경망 시스템 △스마트 콕핏 △첨단운전자보조시스템(ADAS) △스마트...",
-          "src": "뉴스핌",
-          "date": "07/08",
-          "url": "https://www.newspim.com/news/view/20260707001002",
-          "img": "https://img.newspim.com/news/2026/07/07/2607070348207130_934_tc.jpg"
-        },
-        {
           "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
           "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
           "src": "dailysecu",
@@ -171,15 +163,23 @@ window.NEWS_DATA = {
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/018/0006275897?sid=101",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/05/PS26050801678.jpg"
+        },
+        {
+          "title": "페스카로, JS오토모티브 인수…'사이버보안·전장·생산' 밸류체인 확보",
+          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산하고 있다. 한국·베트남·중국에 생산체계를 구축했으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 현대기아차 품질인증제도인 'SQ 인증'을...",
+          "src": "전자신문",
+          "date": "05/08",
+          "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "3백만원 폰·4천만원 아반떼…쓸 땐 쓴다? [취재여담]",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526307?sid=101",
-      "img": "https://img.biz.sbs.co.kr/upload/2026/08/07/QUr1786071715980-850.jpg"
+      "title": "[주간 거래소 기관] 삼성전자·SK하이닉스 팔고 삼성전기·한화솔루션·...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475484",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475484_462626_1423_v150.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/08/08/20260808501830.jpg"
     },
     {
-      "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+      "title": "[탈모바일 삼성전기①] 갤럭시 굴레 끊고, AI·전장으로 물꼬",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725707",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202608/725707_929864_1427.jpg"
     },
     {
-      "title": "기획부터 공장 가동까지···식품업계, '푸드 AI' 총력전",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=142488",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202608/142488_162327_2621_v150.jpg"
+      "title": "[기획] 글로벌에 맞선 토종 OTA...\"로컬 데이터로 승부해야\"",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608060131",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/06/sentv20260806000123.jpg"
     },
     {
-      "title": "\"로펌·기업 맞춤형 AI 직접 설계\"",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224509",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202608/224509_127499_3322.jpg"
+      "title": "트렌드 읽고 제품 만든다…식품업계, AI 경쟁 본격화",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080710091781940",
+      "img": "https://nimage.newsway.co.kr/photo/2026/08/07/20260807001175_1200.png"
     }
   ]
 };
