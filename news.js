@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 02:09",
+  "updatedAt": "2026.08.08 (토) 04:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "클라우드플레어 카이트서핑, 메모리 7배 아끼고 속도는 느려",
+          "desc": "플랫폼의 기술적 진전과 AI 에이전트 수요 증가가 동시에 맞물리면서 12주 전 다시 이 질문을 던졌고... Parley를 활용한다. 네트워크에 접근할 수 있는 유일한 컴포넌트인 ‘샌드박스아웃바운드(SandboxOutbound)...",
+          "src": "wikitree",
+          "date": "08/08",
+          "url": "https://www.wikitree.co.kr/articles/1151135",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080308460802_ai.jpeg"
+        },
+        {
+          "title": "2026여수세계섬박람회, AI 통역 서비스 도입…외국인 관람 편의 대폭 높...",
+          "desc": "2026여수세계섬박람회 조직위원회가 인공지능(AI) 기술을 활용해 외국인 관람객을 위한 실시간 다국어 통역 서비스를 제공한다. 2026여수세계섬박람회 조직위원회에 따르면 지난 5일 AI 기술 전문기업 클라이온...",
+          "src": "pointdaily",
+          "date": "08/08",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314765",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314765_310681_711_v150.jpg"
+        },
+        {
           "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
           "desc": "토론에서는 AI를 과거 클라우드나 오픈소스 도입과 같은 기술 변화로 볼 수 있는지를 놓고 의견이... 결국 AI가 얼마나 강력해질 것인가보다, 그 힘을 현실의 보안 체계 안에서 어떻게 통제하고 활용할 것인가에...",
           "src": "dailysecu",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/08",
           "url": "https://n.news.naver.com/mnews/article/020/0003739417?sid=101",
           "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134438533.4.jpg"
-        },
-        {
-          "title": "수노, AI곡에 워터마크 심는다…소송·해킹 속 신뢰 회복",
-          "desc": "지문) 기술을 도입하고, 다른 플랫폼이 수노산 트랙을 식별할 수 있도록 투명성 도구를 제공하겠다고... SynthID는 이미 오픈AI와 엔비디아가 활용 중인 워터마킹 기술이다. 아르스 테크니카(Ars Technica)에 따르면 구글은...",
-          "src": "wikitree",
-          "date": "08/08",
-          "url": "https://www.wikitree.co.kr/articles/1151131",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080111150716_ai.jpeg"
-        },
-        {
-          "title": "가격·납기로 전장 누빈 K방산…이젠 피지컬AI 승부",
-          "desc": "무기 도입은 향후 수십 년간 그 나라와 안보 체계를 공유하고 산업 공급망을 묶는 ‘국가 간 동맹’을... 반도체와 자동차·조선·배터리·로봇·통신기술을 동시에 보유한 한국이 나선다면 미래 피지컬 AI 전쟁을 주도할...",
-          "src": "중앙일보",
-          "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056281?sid=102",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/08/c4667b94-4a60-4bdd-82d9-6b404260be3b.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
     },
     {
-      "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207960",
-      "img": "https://cdn.dailysecu.com/news/photo/202608/207960_208872_5918.jpg"
+      "title": "클라우드플레어 카이트서핑, 메모리 7배 아끼고 속도는 느려",
+      "url": "https://www.wikitree.co.kr/articles/1151135",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080308460802_ai.jpeg"
     },
     {
-      "title": "‘10억원 참치 헬기’ 대신하는 드론 한 대… “해상 경계하는 방산까지...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739417?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134438533.4.jpg"
+      "title": "2026여수세계섬박람회, AI 통역 서비스 도입…외국인 관람 편의 대폭 높...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314765",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314765_310681_711_v150.jpg"
     }
   ]
 };
