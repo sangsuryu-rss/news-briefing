@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 00:10",
+  "updatedAt": "2026.08.08 (토) 02:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "딥마인드 제안한 HBF, FMS 2026서 첫 표준 공개…SK하이닉스·샌디스크 참...",
-          "desc": "샌디스크 측은 HBF 도입으로 AI가 이전 대화 내용을 효율적으로 관리할 수 있어 응답 속도를 높이고 GPU... 메모리 기술이 시연됐다. CXL Pooled Memory를 활용해 여러 서버와 GPU를 연결한 분산 AI 에이전트 서빙...",
-          "src": "cbci",
+          "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
+          "desc": "토론에서는 AI를 과거 클라우드나 오픈소스 도입과 같은 기술 변화로 볼 수 있는지를 놓고 의견이... 결국 AI가 얼마나 강력해질 것인가보다, 그 힘을 현실의 보안 체계 안에서 어떻게 통제하고 활용할 것인가에...",
+          "src": "dailysecu",
           "date": "08/08",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595792",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/595792_406872_1928_v150.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207960",
+          "img": "https://cdn.dailysecu.com/news/photo/202608/207960_208872_5918.jpg"
         },
         {
-          "title": "5위에서 1등 껑충… 외국인 마음 훔친 경기도, 전국 관광공사 싹쓸이",
-          "desc": "단순히 관광객 숫자만 늘린 것이 아니라 외국인 전용 무료 안전보험 도입, 민관 협력 상품 hit, AI 기반... 직원들이 직접 AI를 활용해 홍보 영상과 음악, SNS 콘텐츠를 제작하는 등 업무 전반에 스마트 시스템을 접목했다....",
-          "src": "newscj",
-          "date": "08/07",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3423425",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3423425_3534679_5218_v150.jpg"
+          "title": "‘10억원 참치 헬기’ 대신하는 드론 한 대… “해상 경계하는 방산까지...",
+          "desc": "1초 단위로 예측하고 그에 맞춰 기체의 자세를 완벽히 동기화해야 하는 고도의 기술이다. AI는 참치가 멸치나... 대한항공이 처음부터 비행기를 제조한 것이 아니라 해외 상용기를 도입해 운용과 정비 플랫폼을 먼저 다진...",
+          "src": "동아일보",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/020/0003739417?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134438533.4.jpg"
         },
         {
-          "title": "돌봄에 AI 동원...동작구, '2026년 폭염 대비 취약계층 보호대책' 적극 ...",
-          "desc": "재가 돌봄에는 다양한 기기·장비를 연동한 '스마트 홈'을 도입해 건강·안전·정서 지원을 통합 제공한다.... 스마트 기술을 활용한 폭염 대응도 실시한다. 'AI 전화발신 시스템'으로 대상자의 안부를 확인하고...",
-          "src": "cnbizm",
-          "date": "08/07",
-          "url": "https://www.cnbizm.com/news/articleView.html?idxno=310938",
-          "img": "https://cdn.cnbizm.com/news/photo/202608/310938_215865_4015.jpg"
+          "title": "수노, AI곡에 워터마크 심는다…소송·해킹 속 신뢰 회복",
+          "desc": "지문) 기술을 도입하고, 다른 플랫폼이 수노산 트랙을 식별할 수 있도록 투명성 도구를 제공하겠다고... SynthID는 이미 오픈AI와 엔비디아가 활용 중인 워터마킹 기술이다. 아르스 테크니카(Ars Technica)에 따르면 구글은...",
+          "src": "wikitree",
+          "date": "08/08",
+          "url": "https://www.wikitree.co.kr/articles/1151131",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080111150716_ai.jpeg"
         },
         {
-          "title": "[현장 Q&A] \"최상위 독점 구도 깬다\"…'제우스: 오만의 신' 장기 서비스...",
-          "desc": "[사진=송진원 기자] 언리얼 엔진5를 활용해 고품질 캐릭터 모델링과 디테일한 배경 연출을 구현했으며... 인공지능(AI)이 조작하는 '페르소나' 시스템을 도입, 1vs1 PvP 콘텐츠인 '콜로세움'과 길드 간 RvR 콘텐츠인 '아카디아...",
-          "src": "tleaves",
-          "date": "08/07",
-          "url": "https://www.tleaves.co.kr/news/articleView.html?idxno=9671",
-          "img": "https://cdn.tleaves.co.kr/news/thumbnail/202608/9671_17130_4149_v150.jpg"
+          "title": "가격·납기로 전장 누빈 K방산…이젠 피지컬AI 승부",
+          "desc": "무기 도입은 향후 수십 년간 그 나라와 안보 체계를 공유하고 산업 공급망을 묶는 ‘국가 간 동맹’을... 반도체와 자동차·조선·배터리·로봇·통신기술을 동시에 보유한 한국이 나선다면 미래 피지컬 AI 전쟁을 주도할...",
+          "src": "중앙일보",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056281?sid=102",
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/08/c4667b94-4a60-4bdd-82d9-6b404260be3b.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
     },
     {
-      "title": "딥마인드 제안한 HBF, FMS 2026서 첫 표준 공개…SK하이닉스·샌디스크 참...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595792",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/595792_406872_1928_v150.jpg"
+      "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207960",
+      "img": "https://cdn.dailysecu.com/news/photo/202608/207960_208872_5918.jpg"
     },
     {
-      "title": "5위에서 1등 껑충… 외국인 마음 훔친 경기도, 전국 관광공사 싹쓸이",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3423425",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3423425_3534679_5218_v150.jpg"
+      "title": "‘10억원 참치 헬기’ 대신하는 드론 한 대… “해상 경계하는 방산까지...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739417?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134438533.4.jpg"
     }
   ]
 };
