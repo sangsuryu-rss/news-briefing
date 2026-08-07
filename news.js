@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.07 (금) 18:16",
+  "updatedAt": "2026.08.07 (금) 20:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "배송중 쓰러지는 쿠팡기사…'땀냄새'로 평점 깎인 삼성기사",
-          "desc": "상황은 삼성전자 가전제품 배송 설치기사도 비슷합니다. 이들은 배정 물량을 소화 못 할 경우 계약 유지에 불이익을 받을 수 있어 무더운 날씨에도 작업을 이어가고 있습니다. 가전제품 설치기사들은 삼성전자가 반도체...",
+          "title": "에어컨 업고 비땀 흘렸지만…\"땀 냄새 나서\" 평점 깎이는 기사들",
+          "desc": "폭염 속에서 가전제품을 배송·설치하는 기사들이 충분한 휴식을 보장받지 못한 채 장시간 작업에 내몰리고 있다고 오늘(7일) 한겨레는 보도했습니다. 이에 따르면 삼성전자 물류 자회사인 삼성전자로지텍의 하청업체와...",
           "src": "news",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/437/0000505103?sid=102",
-          "img": "https://photo.jtbc.co.kr/news/jam_photo/202608/07/45ee0af6-148e-468d-8b71-83c5e79e3881.jpg"
+          "url": "https://n.news.naver.com/mnews/article/437/0000505124?sid=102",
+          "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
         },
         {
-          "title": "세계 PC 업계, 세계적 메모리 부족에 '삼성' 등 눈치 보기",
-          "desc": "PC 업계의 눈치 보기는 미국 정책보다는 한국의 삼성전자와 같은 기존 업체들에 대한 두려움에서 비롯된... 소비자 가전제품에 직접적인 영향을 미치고 있다. 지난 12개월 동안 RAM 현물 가격이 400% 이상 상승했다. PC...",
-          "src": "newstown",
+          "title": "[사설]‘폭염 작업 중지’ 사각지대 놓인 택배·설치 기사, 보호 대책 시...",
+          "desc": "삼성전자 가전제품의 배송·설치 기사도 폭염 속에서 신음하고 있다. 삼성의 하청업체와 도급계약을 맺은 이들은 배정된 물량을 소화하지 못하면 일감이 끊기기 때문에 작업을 중단할 수 없다. 삼성전자 반도체 성과급...",
+          "src": "한겨레",
           "date": "08/07",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711708",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711708_666290_1925_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/028/0002817637?sid=110",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0807/20260807502043.webp"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인크로스, 2분기 영업익 28억원 기록…광고·커머스 성장에 수익성 개선",
-          "desc": "인크로스는 인공지능(AI)을 활용한 사업 전환에도 속도를 내고 있다. 그동안 축적한 마케팅 데이터와... 고도화된 AI 기술을 결합해 고객에게 차별화된 성과를 제공하는 선도적인 AI 데이터 인텔리전스 기업으로...",
-          "src": "efnews",
+          "title": "[현장] ‘시공’ 너머 ‘연결’로… AI·전기차·로보틱스 품은 건설 생...",
+          "desc": "한국전자기술연구원(KETI) 연구소기업 엘케이로보틱스는 AI 기반 시설관리(FM) 청소·순찰 로봇과 통합관제시스템을 소개했다. 카메라와 라이다(LiDAR) 센서를 활용해 이상 상황을 감지하고 주간 청소와 야간 순찰 임무를...",
+          "src": "kidd",
           "date": "08/07",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131465",
-          "img": "http://www.efnews.co.kr/news/photo/202608/131465_118261_4834.jpg"
+          "url": "https://kidd.co.kr/news/246961",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/07/1786098986_64.jpg"
         },
         {
-          "title": "[위클리오늘] 해운대구 소식 (8.7)",
-          "desc": "스마트 기술을 접목한 사업계획을 제출해 선정됐다. 사업에는 2026년부터 2027년까지 2년간 국비 30억 원을... 또한 AI 기반 무인관광안내소와 외국인 스마트 결제 시스템을 도입하고, 지능형 CCTV를 활용한 관광객 밀집도...",
-          "src": "weeklytoday",
+          "title": "한미그룹, 전사 Ai업무 혁신 위한 디지털 프로그램 시행",
+          "desc": "한미사이언스 관계자는 \"AI Boost Program은 단순한 기술 도입을 넘어 임직원들이 실제 업무 현장에서 AI를 활용해 성과를 창출하고 이를 조직 자산으로 축적해 나가는 실행 중심 프로그램\"이라며 \"앞으로도 자발적...",
+          "src": "서울신문",
           "date": "08/07",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=789552",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/789552_972977_1212_v150.jpg"
+          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520992",
+          "img": "https://cdn.ilyoseoul.co.kr/news/photo/202608/520992_481196_1950.jpg"
         },
         {
-          "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
-          "desc": "이어 \"오는 10월부터 멤버십 전용 반품센터를 통해 빠른 반품을 지원하고 전용 새벽배송을 본격 도입할... 엔비디아의 기술과 공급 협력에 더해 준비된 전력과 부지, 자본과의 파트너십, 오랜 기간 축적한 AI 풀스택...",
-          "src": "블로터",
+          "title": "'모두를 위한 MMORPG'를 꿈꾸다, 컴투스 신작 '제우스: 오만의 신'",
+          "desc": "5를 활용해 고풍스러운 건축물과 스케일감 있는 전장, 빛과 질감의 디테일까지 완벽하게 구현하며 시각적 몰입감을 극대화했다. 화려한 그래픽에만 그치지 않고 안정적인 플레이 환경을 위한 최적화 기술까지 꼼꼼하게...",
+          "src": "thisisgame",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088785?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/670370_283441_2754_v150.jpg"
+          "url": "https://m.sports.naver.com/esports/article/439/0000033167",
+          "img": "https://file.thisisgame.com/next-upload/cmcn2grqk0003t501uit9rzw9/2026/08/07/1639216940634961735_d3cf5358-0b1b-48f4-982d-ad54667ee1fb_%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%20%E1%84%83%E1%85%A5%20%E1%84%8B%E1%85%A5%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%92%E1%85%AC%20(1).jpg"
         },
         {
-          "title": "코어라인소프트, 독일 폐암검진 소프트웨어 공급·구축으로 시장 본격 ...",
-          "desc": "AI 솔루션을 공급하는 계약을 확보했다고 7일 밝혔다. 초기 소프트웨어 공급·구축에 더해 10년간의 기술... 독일 폐암검진 시장이 개별 CT 장비나 단일 AI 소프트웨어 도입을 넘어, 영상 촬영·AI 분석·판독·결과 관리...",
-          "src": "getnews",
+          "title": "\"이젠 해양바이오도 AI로\"…수과원-자원관, 미래 생명자원 확보 협력",
+          "desc": "합성생물학(Synthetic Biology)은 생명과학에 공학적 개념을 도입한 첨단 기술이다. 자연에 존재하는 생명체를... 권순욱 수과원장은 \"AI와 바이오 제조기술을 접목한 해양수산생명자원의 활용은 미래 해양바이오산업...",
+          "src": "뉴스1",
           "date": "08/07",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=877358",
-          "img": "https://cdn.getnews.co.kr/news/photo/202608/877358_533059_742.png"
+          "url": "https://n.news.naver.com/mnews/article/421/0009103187?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046568/high.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "배송중 쓰러지는 쿠팡기사…'땀냄새'로 평점 깎인 삼성기사",
-      "url": "https://n.news.naver.com/mnews/article/437/0000505103?sid=102",
-      "img": "https://photo.jtbc.co.kr/news/jam_photo/202608/07/45ee0af6-148e-468d-8b71-83c5e79e3881.jpg"
+      "title": "에어컨 업고 비땀 흘렸지만…\"땀 냄새 나서\" 평점 깎이는 기사들",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505124?sid=102",
+      "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
     },
     {
-      "title": "세계 PC 업계, 세계적 메모리 부족에 '삼성' 등 눈치 보기",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711708",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711708_666290_1925_v150.jpg"
+      "title": "[사설]‘폭염 작업 중지’ 사각지대 놓인 택배·설치 기사, 보호 대책 시...",
+      "url": "https://n.news.naver.com/mnews/article/028/0002817637?sid=110",
+      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0807/20260807502043.webp"
     },
     {
-      "title": "인크로스, 2분기 영업익 28억원 기록…광고·커머스 성장에 수익성 개선",
-      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131465",
-      "img": "http://www.efnews.co.kr/news/photo/202608/131465_118261_4834.jpg"
+      "title": "[현장] ‘시공’ 너머 ‘연결’로… AI·전기차·로보틱스 품은 건설 생...",
+      "url": "https://kidd.co.kr/news/246961",
+      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/07/1786098986_64.jpg"
     },
     {
-      "title": "[위클리오늘] 해운대구 소식 (8.7)",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=789552",
-      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/789552_972977_1212_v150.jpg"
+      "title": "한미그룹, 전사 Ai업무 혁신 위한 디지털 프로그램 시행",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520992",
+      "img": "https://cdn.ilyoseoul.co.kr/news/photo/202608/520992_481196_1950.jpg"
     }
   ]
 };
