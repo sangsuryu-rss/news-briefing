@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.07 (금) 13:33",
+  "updatedAt": "2026.08.07 (금) 16:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·SK·LG, 제조 혁신 승부수…'데이터 주도권' 확보 총력",
-          "desc": "이에 삼성전자, SK, LG 등 주요 그룹과 IT서비스 기업들은 제조와 업무 환경에 적용할 수 있는 기업용 AI 기술... LG의 경우 가전, 모빌리티, 에너지 등 사업 영역에서 AI 기술 적용을 추진하고 있다. 제품과 서비스 과정에서...",
-          "src": "polinews",
+          "title": "[ABC Up & Down] 삼성전자, 역대급 실적의 그늘…'갤럭시 포함' DX 부문 첫...",
+          "desc": "휴대폰·가전 사업을 담당하는 DX(Device eXperience) 부문이 출범 이후 처음으로 분기 적자를 낸 삼성전자를 조명했다. 방송은 화려한 실적 이면에 사업부 간 실적 양극화와 내부 갈등 가능성이 커지고 있다며...",
+          "src": "아주경제",
           "date": "08/07",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=739458",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/739458_560766_4416_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260806110940756",
+          "img": "https://image.ajunews.com/content/image/2026/08/06/20260806152233589835.png"
         },
         {
-          "title": "“중국 로청 독주? 우리도 주문하면 한달반 걸려요”…삼성·LG 로봇청소...",
+          "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
+          "desc": "무선청소기 'A9S 펫', 펫 특화 필터를 적용한 '360° 공기청정기 UV살균' 등도 라인업에 있다. 삼성전자는 개별... 이후 로봇청소기, 세탁기, 건조기, 에어컨, TV로 펫케어 영역을 넓혔다. 비스포크 제트봇 AI는 카메라와 AI로...",
+          "src": "비즈니스플러스",
+          "date": "08/07",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
+        },
+        {
+          "title": "[기획] 히트펌프가 그리는 열에너지 탈탄소",
+          "desc": "사진=제미나이 국내 가전 양대 산맥인 삼성전자와 LG전자는 최근 제주 지역 단독주택에 잇따라 히트펌프 보일러 1호 가구를 구축하며 초기 시장 선점 경쟁에 나섰고, 정부 역시 열에너지 탈탄소 전략을 발표하며 힘을...",
+          "src": "kfenews",
+          "date": "08/07",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662049",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662049_135555_2329_v150.jpg"
+        },
+        {
+          "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
           "desc": "7일 업계에 따르면 삼성전자의 로봇청소기인 비스포크 AI 스팀 시리즈는 6월 한달간 큰 폭으로 판매가 늘어나 국내 로봇 청소기 판매 1위를 기록한 것으로 추정되고 있다. 직접적으로는 삼성전자가 지난 6월 진행한 사회...",
           "src": "매일경제",
           "date": "08/07",
           "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
           "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
-        },
-        {
-          "title": "'中점유율 0.1%' 삼성폰, 인민일보에 '갤럭시 Z폴드8' 전면광고",
-          "desc": "판매 중단 대상에는 TV와 모니터, 대형 상업용 디스플레이를 비롯해 에어컨과 냉장고, 세탁기, 건조기, 청소기, 공기청정기 등이 포함됐다. 삼성전자는 당시 스마트폰 사업의 중국 철수 가능성에 대해서는 \"휴대전화...",
-          "src": "뉴스1",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/421/0009102349?sid=104",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/7/8045653/medium.jpg"
-        },
-        {
-          "title": "\"안전할 줄 알고 ETF 샀는데…월급, 휴가비 다 날렸다\"",
-          "desc": "시장에서도 삼성전자와 SK하이닉스가 각각 21.41%, 35.17% 급락하며 지수 하락을 주도했다. 7일 서울 중구... 끊고 냉장고 파먹습니다” 등의 반응을 보였다. 최근에는 ETF 시장 전반의 활력도 눈에 띄게 줄고 있다....",
-          "src": "이데일리",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/018/0006346806?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080701096.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "BNK부산은행, 지방은행 최초 'AI보이스봇' 도입…24시간 금융상담",
-          "desc": "BNK부산은행이 인공지능(AI)을 활용한 24시간 금융상담 체계를 구축했다. BNK부산은행은 지난달 27일부터... 고객의 목소리에 귀 기울이고 AI 기술과 상담 전문성을 결합한 서비스를 지속적으로 발전시켜 나가겠다\"고 말했다.",
-          "src": "newslock",
+          "title": "SK하이닉스, 용인 'Y2' 팹과 청주 'M17' 팹 건설에 54조 투자 결정",
+          "desc": "특히 엔터프라이즈 솔리디스테이트드라이브(SSD) 수요 증가에 더해 AI 추론 과정에서 활용되는 'KV 캐시' 저장 수요가 확대되면서 시장이 빠르게 커지고 있다. 향후 에이전틱 AI와 피지컬 AI가 본격 도입되면 낸드 적용...",
+          "src": "비즈니스포스트",
           "date": "08/07",
-          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134073",
-          "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134073_121791_2952_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444254",
+          "img": ""
         },
         {
-          "title": "반려동물 아픈 곳 파악하는 AI…SKT '엑스칼리버' 코벳 품으로",
-          "desc": "보조도구로 활용돼 왔다는 평가다. 코벳은 2022년 출범한 수의사 중심 동물병원 네트워크 기업이다. 그동안 엑스칼리버의 국내 영업과 동물병원 도입 과정에 참여하며 수의사들의 요구와 사용상 불편을 수렴했다. 기술...",
-          "src": "데일리안",
+          "title": "\"'이것' 있으면 20㎏ 케틀벨도 거뜬\" 육군 스마트 군수 혁신 현장 가보니",
+          "desc": "형상기억합금(SMA) 와이어로 만들어진 스프링 실을 활용한 근육 옷감이 사용됐다. 장거리 행군 및 복합 지형... 2025년 5월부턴 분류 자동화(팔레타이저) 로봇 및 AI 포장 로봇 등을 도입해 운영 중이며, 올해 중으로 1단계인...",
+          "src": "뉴스1",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/119/0003119426?sid=105",
-          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786072306_1675839_m_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009103000?sid=100",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046079/high.jpg"
         },
         {
-          "title": "고객이 묻기 전에 답한다…쿠팡, AI 쇼핑 경험 재설계",
-          "desc": "쿠팡이 인공지능(AI) 기술을 활용해 상품 탐색부터 비교, 구매 결정에 이르는 고객 쇼핑 경험(CX)을 대폭... 상품 상세 페이지 전반에 AI 적용 범위를 넓히고 고객 친화적인 기술을 도입할 계획\"이라고 말했다. / 월요신문=",
-          "src": "wolyo",
+          "title": "쿠팡, AI로 상품 비교부터 리뷰 요약까지...쇼핑 편의 강화",
+          "desc": "쿠팡이 AI로 쇼핑 경험 개선에 나섰다. (사진제공=쿠팡)  쿠팡이 인공지능(AI)을 활용해 상품 탐색부터 비교와... 쿠팡 관계자는 \"앞으로 상품 상세 페이지 전반으로 AI 적용 범위를 확대하고 고객 친화적인 기술을 도입할...",
+          "src": "chungnamilbo",
           "date": "08/07",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316161",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202608/316161_222628_251.jpg"
+          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902935",
+          "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/902935_481269_3535_v150.jpg"
         },
         {
-          "title": "에코넥트, 그린에너텍서 재생 플라스틱 원료 플랫폼 '리젠포트' 소개......",
-          "desc": "여기에 표준 COA(성적서)와 TDS(기술자료표), LCA(전과정평가) 기반 ESG 리포팅을 제공해 구매 기업이 자사 지속가능경영보고서와 규제 대응 자료에 그대로 활용할 수 있도록 했다. 한국·중국·베트남·말레이시아...",
-          "src": "kr",
+          "title": "경북도, AI·디지털트윈 기반 '가상공장 플랫폼' 개발 착수",
+          "desc": "경북도가 인공지능(AI)과 디지털트윈 기술을 활용해 실제 공장을 건설하기 전에 생산공정과 설비를... 디지털트윈과 메타버스 기술을 연구하는 학계 전문가들은 이번 가상공장 플랫폼 도입이 단순한 공정 자동화를 넘어...",
+          "src": "CNB뉴스",
           "date": "08/07",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1812937",
-          "img": "https://cdn.kr.aving.net/news/photo/202608/1812937_776650_949.png"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010792",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1010792_511921_3333.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "소부장 기업, \"호남 반도체 생태계 구축, 대기업 투자 로드맵 공유 수반...",
+          "desc": "위해서는 삼성전자와 SK하이닉스 등 대기업의 구체적인 투자 로드맵이 중견·중소 소부장(소재·부품·장비)... 또 평택과 기흥, 화성 등 주요 반도체 단지 주변에 삼성전자와 SK하이닉스 협력사들이 집적된 것처럼...",
+          "src": "srtimes",
+          "date": "08/07",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=209414",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202608/209414_214338_1846_v150.jpg"
+        },
         {
           "title": "베트남의 변신…생산기지에서 혁신의 동반자로",
           "desc": "전자·자동차·부품 산업을 비롯한 글로벌 공급망 구축에 중요한 역할을 해왔다. 2008년 삼성전자의 박닌... 셋째, 삼성전자 등 한국 대기업의 경험을 산업계 전체가 공유해야 한다. 이미 구축된 현지 협력사 기술지원과...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/07",
           "url": "https://www.eroun.net/news/articleView.html?idxno=87128",
           "img": "https://cdn.eroun.net/news/thumbnail/202608/87128_143497_583_v150.jpg"
-        },
-        {
-          "title": "광주반도체산단, 팹 4기+R&D·소부장·인재양성 기능 완비",
-          "desc": "이번 용역은 삼성전자와 SK하이닉스가 각각 400조원씩 총 800조원을 투입해 팹 4기를 짓는 서남권 반도체... 한국반도체디스플레이기술학회는 팹 1기당 직접 운영 2000~3000명, 소부장·협력사 3000명 이상을 가정해 용인...",
-          "src": "kwangju",
-          "date": "08/06",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1786009800802015277",
-          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·SK·LG, 제조 혁신 승부수…'데이터 주도권' 확보 총력",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=739458",
-      "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/739458_560766_4416_v150.jpg"
+      "title": "[ABC Up & Down] 삼성전자, 역대급 실적의 그늘…'갤럭시 포함' DX 부문 첫...",
+      "url": "https://www.ajunews.com/view/20260806110940756",
+      "img": "https://image.ajunews.com/content/image/2026/08/06/20260806152233589835.png"
     },
     {
-      "title": "“중국 로청 독주? 우리도 주문하면 한달반 걸려요”…삼성·LG 로봇청소...",
+      "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
+    },
+    {
+      "title": "[기획] 히트펌프가 그리는 열에너지 탈탄소",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662049",
+      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662049_135555_2329_v150.jpg"
+    },
+    {
+      "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
       "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
     },
     {
-      "title": "'中점유율 0.1%' 삼성폰, 인민일보에 '갤럭시 Z폴드8' 전면광고",
-      "url": "https://n.news.naver.com/mnews/article/421/0009102349?sid=104",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/7/8045653/medium.jpg"
+      "title": "\"'이것' 있으면 20㎏ 케틀벨도 거뜬\" 육군 스마트 군수 혁신 현장 가보니",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103000?sid=100",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046079/high.jpg"
     },
     {
-      "title": "\"안전할 줄 알고 ETF 샀는데…월급, 휴가비 다 날렸다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346806?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080701096.jpg"
-    },
-    {
-      "title": "BNK부산은행, 지방은행 최초 'AI보이스봇' 도입…24시간 금융상담",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134073",
-      "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134073_121791_2952_v150.jpg"
-    },
-    {
-      "title": "반려동물 아픈 곳 파악하는 AI…SKT '엑스칼리버' 코벳 품으로",
-      "url": "https://n.news.naver.com/mnews/article/119/0003119426?sid=105",
-      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786072306_1675839_m_1.jpg"
+      "title": "쿠팡, AI로 상품 비교부터 리뷰 요약까지...쇼핑 편의 강화",
+      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902935",
+      "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/902935_481269_3535_v150.jpg"
     }
   ]
 };
