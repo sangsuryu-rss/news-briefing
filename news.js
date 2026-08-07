@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.06 (목) 23:36",
+  "updatedAt": "2026.08.07 (금) 09:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "오텍캐리어, 고효율 히트펌프 2종 정부 지원 대상 선정",
-          "desc": "기업별로는 삼성전자 6종, LG전자 3종, 오텍캐리어와 대성히트에너시스가 각각 2종씩 이름을 올렸다. 기존 대형 가전업체뿐 아니라 냉난방 전문기업들이 지원 대상 제품을 확대하면서 향후 제품 효율과 설치 편의성...",
-          "src": "econovill",
-          "date": "08/06",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747338",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747338_721690_4853_v150.jpg"
+          "title": "코웨이 비렉스, 3654억 매출로 침대시장 재편…‘1위’ 기준 논쟁은 변...",
+          "desc": "원자재 가격 상승과 미국 관세 부담 속에서도 온라인 판매와 가전 구독 확대가 수익성을 방어한 요인으로 꼽혔다. 삼성전자 역시 2024년 말 ‘AI 구독클럽’을 출시하며 구독 사업을 확대하고 있다. 시장에서도 렌털...",
+          "src": "thetracker",
+          "date": "08/07",
+          "url": "https://thetracker.co.kr/View.aspx?No=4177298",
+          "img": "https://cdn.coenworks.com/Files/478/News/202608/8462_20260806191028918.jpg"
         },
         {
-          "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
-          "desc": "./사진=AI 생성 이미지 로봇청소기 시장에서 삼성전자와 LG전자의 경쟁이 뜨겁다. 중국 브랜드가 장악한 국내 시장을 되찾기 위해 양사가 잇달아 신제품을 통해 성능, 위생, 보안을 앞세워 정면승부에 나섰다. ◇LG...",
-          "src": "비즈니스플러스",
-          "date": "08/06",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115158",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115158_113374_140_v150.jpg"
+          "title": "[단독] '中 아성' 무너뜨린 삼성…로봇청소기 1위 올랐다",
+          "desc": "업계는 삼성전자가 로봇청소기 점유율을 끌어올린 것은 6월8일부터 7월5일까지 4주간 진행된 '국민과 함께, 삼성전자 감사 페스티벌' 효과가 컸다고 봤다. 삼성전자는 반도체 초호황 성과를 국민과 나누겠다는 취지로...",
+          "src": "한국경제",
+          "date": "08/07",
+          "url": "https://n.news.naver.com/mnews/article/015/0005318296?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/01.44975576.1.jpg"
         },
         {
           "title": "신혼부부 혼수 소비 방식 변화…생활 궁합 맞춘다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"유통 넘어, 미래사업\"···김동선 사장, 신사업 '집중' 성과까지",
-          "desc": "아워홈은 AI 카메라를 활용한 위생·안전관리 시스템을 시범 운영하고 있으며 AI 기반 발주 시스템도 개발... 갤러리아백화점과 호텔·리조트 역시 AI와 로봇 기술 도입을 검토하고 있다. 한화는 계열사 사업장에서 검증한...",
-          "src": "finomy",
-          "date": "08/06",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=258717",
-          "img": "https://cdn.finomy.com/news/thumbnail/202608/258717_253797_5143_v150.jpg"
+          "title": "\"AI로 딸깍? 신고하자\" 링크드인, AI 게시물과 사투",
+          "desc": "이용자들이 AI가 작성한 것처럼 보이는 저품질 게시물이나 댓글을 신고할 수 있는 기능을 도입했다. AI 생성... 링크드인은 AI 활용을 직접 권장하던 기능도 줄이고 있다. AI를 이용해 게시물을 교정하거나 다시 쓰도록...",
+          "src": "이데일리",
+          "date": "08/07",
+          "url": "https://n.news.naver.com/mnews/article/018/0006346645?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080700803.jpg"
         },
         {
-          "title": "[마켓인사이드] 철옹성 생태계 구축, 'AI 시대 MS 윈도'가 된 엔비디아",
-          "desc": "미국의 AI 기술 의존도를 줄이고 자국 언어와 문화, 법률, 안보를 반영한 AI를 직접 개발하려는... 핀란드의 유럽 슈퍼컴퓨터 LUMI는 AMD 기반으로 운영되고 있으며 유럽 여러 AI 프로젝트도 AMD GPU를 활용하고 있다. AMD는...",
-          "src": "news2day",
-          "date": "08/06",
-          "url": "https://www.news2day.co.kr/article/20260806500294",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/06/.cache/512/20260806500295.png"
+          "title": "LF 킨, 후지록 페스티벌 공식 파트너 참여…지속가능 아웃도어 문화 확...",
+          "desc": "소싱, 영업, 마케팅 등 전사 업무 전반으로 AI 활용 범위를 확대하고 있다. LF몰 역시 패션 전문몰 최초로 ChatGPT 내 'LF몰' 앱을 선보이고 AI 리뷰 초안 작성 기능을 도입하는 등 AI 기반 쇼핑 서비스를 지속 강화하고 있다.",
+          "src": "megaeconomy",
+          "date": "08/07",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571859856613",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260807/p1065571859856613_780_thum.jpg"
         },
         {
-          "title": "포스코퓨처엠, LFP 양극재 사업 본격화···19만톤 공급 합의",
-          "desc": "경쟁력을 활용해 LFP 양극재의 제조 비용을 낮출 방침이다. 제철 과정에서 발생하는 산화철과 아르헨티나 염호에서 조달한 리튬을 원료로 사용하고 새로운 제조 방식을 도입할 예정이다. 추가 물량 확보도 추진한다....",
-          "src": "finomy",
-          "date": "08/06",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=258719",
-          "img": "https://cdn.finomy.com/news/thumbnail/202608/258719_253803_136_v150.jpg"
+          "title": "SEMI, 반도체 제조 AI 워크숍 개최…수율 개선 검증",
+          "desc": "API 환각 방지 검증, 프롬프트 정화 기능, 단계별 행동 승인 절차를 도입해 자율 운영 중에도 인간의 정책적 승인을 거치도록 설계했다. 매스웍스는 합성 데이터와 생성형 AI를 활용한 방법론을 제안했다. 실측 자료가...",
+          "src": "g-enews",
+          "date": "08/07",
+          "url": "https://www.g-enews.com/view.php?ud=202608070905083744fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026080709131604134fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "[위클리_피지컬AI] 피지컬 AI 데이터 확보 총력전, 학습 최적화 고민도...",
-          "desc": "[위클리_피지컬AI]는 지난 한 주간 주목받은 기술 기업 소식과 연구 성과를 다루고자 한다. 타우 로보틱스, 휴머노이드 활용한 청소 서비스 제공 집안일을 대신해 줄 로봇이 등장한다는 상상은 오랫동안 인류를...",
-          "src": "동아일보",
-          "date": "08/06",
-          "url": "https://it.donga.com/109316/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/8/6/0ead4f5b15cc4af5-thumbnail-960x540-70.jpg"
+          "title": "코어라인소프트, 獨 로스타우 폐암 검진에 흉부 AI 솔루션 공급",
+          "desc": "이번 공급은 초기 소프트웨어 공급·구축과 10년간의 기술·운영 지원 계약이 결합된 구조로 독일 저선량... 이는 독일 폐암 검진 시장이 개별 CT 장비나 단일 AI 소프트웨어 도입을 넘어 영상 촬영부터 AI 분석, 판독...",
+          "src": "rapportian",
+          "date": "08/07",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=239114",
+          "img": "https://cdn.rapportian.com/news/thumbnail/202608/239114_142634_47_v150.jpg"
         }
       ]
     },
@@ -101,12 +101,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "용인 반도체 산업단지 첫 민간분양… 차별화 설계 갖춘 신규 아파트 공...",
+          "desc": "분양가상한제가 적용되는 희소성 높은 신규 공급으로, SK하이닉스와 삼성전자가 추진 중인 약 960조원 규모... SK하이닉스 협력사가 입주를 위해 부지를 분양받은 것으로 알려졌다. 반도체 클러스터 조성과 함께 '반도체...",
+          "src": "ikld",
+          "date": "08/07",
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=338592",
+          "img": "http://www.ikld.kr/news/thumbnail/202608/338592_185517_2415_v150.jpg"
+        },
+        {
+          "title": "용인 반도체 산업단지 첫 민간분양…특화설계 갖춘 신규 아파트 나온다",
+          "desc": "분양가상한제가 적용되는 신규 공급으로, SK하이닉스와 삼성전자가 추진 중인 약 960조원 규모 반도체... SK하이닉스 협력사가 입주를 위해 부지를 분양받은 것으로 알려졌다. 반도체 클러스터 조성과 함께 '반도체...",
+          "src": "이로운넷",
+          "date": "08/07",
+          "url": "https://www.eroun.net/news/articleView.html?idxno=87128",
+          "img": "https://cdn.eroun.net/news/thumbnail/202608/87128_143497_583_v150.jpg"
+        },
+        {
           "title": "광주반도체산단, 팹 4기+R&D·소부장·인재양성 기능 완비",
           "desc": "이번 용역은 삼성전자와 SK하이닉스가 각각 400조원씩 총 800조원을 투입해 팹 4기를 짓는 서남권 반도체... 한국반도체디스플레이기술학회는 팹 1기당 직접 운영 2000~3000명, 소부장·협력사 3000명 이상을 가정해 용인...",
           "src": "kwangju",
           "date": "08/06",
           "url": "http://www.kwangju.co.kr/article.php?aid=1786009800802015277",
-          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/06_802015_578.jpg"
+          "img": ""
         },
         {
           "title": "\"일당 30만원 줘도 사람 못 구해\"…시골 마을에 무슨 일이",
@@ -114,23 +130,7 @@ window.NEWS_DATA = {
           "src": "한국경제",
           "date": "08/06",
           "url": "https://n.news.naver.com/mnews/article/015/0005318159?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45265070.1.jpg"
-        },
-        {
-          "title": "'슬립테크'가 키우는 스마트링…오우라 상륙에 시장 '시동'",
-          "desc": "노태문 삼성전자 사장이 지난달 폴더블폰 언팩 행사에서 갤럭시링 관련 \"신제품을 선행개발하고 있다\"고 밝혔지만, 현재 삼성전자 부품협력사가 수행 중인 갤럭시링2 관련 구체적인 개발과제는 없는 것으로 알려졌다. 한...",
-          "src": "ZDNet코리아",
-          "date": "08/06",
-          "url": "https://n.news.naver.com/mnews/article/092/0002433238?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/02/67014fa0046714a3ad4dd24d9403b2d3.png"
-        },
-        {
-          "title": "8월 2주차 국내 ESG 핫클립",
-          "desc": "삼성전자, 평택 LNG 발전소에 수소 혼소 검토…입찰 조건에 이행계획 반영 삼성전자는 평택 P5... 효성중공업은 현지 협력사와 스태콤(STATCOM) 기술과 동기 조상기를 결합한 '하이브리드 스태콤'을 개발하기 위한...",
-          "src": "impacton",
-          "date": "08/06",
-          "url": "http://www.impacton.net/news/articleView.html?idxno=19867",
-          "img": "https://cdn.impacton.net/news/thumbnail/202608/19867_31452_1245_v150.jpg"
+          "img": "https://img.hankyung.com/photo/202608/AA.45265076.1.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "오텍캐리어, 고효율 히트펌프 2종 정부 지원 대상 선정",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747338",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747338_721690_4853_v150.jpg"
+      "title": "코웨이 비렉스, 3654억 매출로 침대시장 재편…‘1위’ 기준 논쟁은 변...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4177298",
+      "img": "https://cdn.coenworks.com/Files/478/News/202608/8462_20260806191028918.jpg"
     },
     {
-      "title": "[이슈+]로봇청소기 안방 탈환전, 삼성·LG 신제품으로 정면승부",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115158",
-      "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115158_113374_140_v150.jpg"
+      "title": "[단독] '中 아성' 무너뜨린 삼성…로봇청소기 1위 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318296?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/01.44975576.1.jpg"
     },
     {
       "title": "신혼부부 혼수 소비 방식 변화…생활 궁합 맞춘다",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.thebilliards.kr/news/thumbnail/202608/31646_50890_1922_v150.jpg"
     },
     {
-      "title": "\"유통 넘어, 미래사업\"···김동선 사장, 신사업 '집중' 성과까지",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=258717",
-      "img": "https://cdn.finomy.com/news/thumbnail/202608/258717_253797_5143_v150.jpg"
+      "title": "\"AI로 딸깍? 신고하자\" 링크드인, AI 게시물과 사투",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346645?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080700803.jpg"
     },
     {
-      "title": "[마켓인사이드] 철옹성 생태계 구축, 'AI 시대 MS 윈도'가 된 엔비디아",
-      "url": "https://www.news2day.co.kr/article/20260806500294",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/06/.cache/512/20260806500295.png"
+      "title": "LF 킨, 후지록 페스티벌 공식 파트너 참여…지속가능 아웃도어 문화 확...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571859856613",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260807/p1065571859856613_780_thum.jpg"
     }
   ]
 };
