@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 04:17",
+  "updatedAt": "2026.08.08 (토) 06:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
-          "desc": "삼성전자의 로봇 사업은 위기에 내몰린 DX부문의 돌파구라는 점에서도 의미가 크다. 최근 가전, 스마트폰 등 완제품 사업을 담당하는 DX부문은 글로벌 경쟁 심화와 반도체 가격 급등 여파로 경영난을 겪는 중이다. 이번...",
-          "src": "매일경제",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107411?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "3백만원 폰·4천만원 아반떼…쓸 땐 쓴다? [취재여담]",
+          "desc": "오늘(8일) 전자·자동차업계에 따르면 삼성전자 갤럭시 Z폴드8은 최상위 모델이 345만원까지 올라 국내... 가전이나 자동차 같은 필수재까지 프리미엄화가 번지면 가계의 실질 구매 부담도 함께 올라갑니다. '지르고 보자...",
+          "src": "biz",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/374/0000526307?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/08/07/QUr1786071715980-850.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "[오늘의 ABC 뉴스룸] \"폭락장에도 코스피 1만2천 간다\" 월가의 충격 전망...",
-          "desc": "삼성전자와 SK하이닉스 등 우리 증시를 이끄는 반도체 투톱도 크게 휘청이면서 시장 불안감이 커지고... 폭염 속 '인간 냉장고' 등장…일본서 화제 펄펄 끓는 폭염이 전 세계를 덮친 가운데, 일본에서 개발된 1인용 '인간...",
-          "src": "아주경제",
-          "date": "08/07",
-          "url": "https://www.ajunews.com/view/20260807163427513",
-          "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
+          "title": "“에어컨 1kWh 더 썼을 뿐인데”…전기요금 6790원 뛴 ‘진짜 이유’ [숫...",
+          "desc": "에어컨 요금은 냉장고와 TV, 조명, 세탁기 등으로 이미 사용한 전력에 합산된다. 같은 100kWh를... 삼성전자 생활가전사업부 연구진이 대한설비공학회 하계학술발표대회에 발표한 실험에 따르면 30분간 에어컨을...",
+          "src": "segye",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/022/0004149288?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/08/20260808501830.jpg"
         },
         {
-          "title": "에어컨 업고 비땀 흘렸지만…\"땀 냄새 나서\" 평점 깎이는 기사들",
-          "desc": "폭염 속에서 가전제품을 배송·설치하는 기사들이 충분한 휴식을 보장받지 못한 채 장시간 작업에 내몰리고 있다고 오늘(7일) 한겨레는 보도했습니다. 이에 따르면 삼성전자 물류 자회사인 삼성전자로지텍의 하청업체와...",
-          "src": "news",
+          "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
+          "desc": "7일 업계에 따르면 삼성전자의 로봇청소기인 비스포크 AI 스팀 시리즈는 6월 한달간 큰 폭으로 판매가 늘어나 국내 로봇 청소기 판매 1위를 기록한 것으로 추정되고 있다. 직접적으로는 삼성전자가 지난 6월 진행한 사회...",
+          "src": "매일경제",
           "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/437/0000505124?sid=102",
-          "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
+          "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "클라우드플레어 카이트서핑, 메모리 7배 아끼고 속도는 느려",
-          "desc": "플랫폼의 기술적 진전과 AI 에이전트 수요 증가가 동시에 맞물리면서 12주 전 다시 이 질문을 던졌고... Parley를 활용한다. 네트워크에 접근할 수 있는 유일한 컴포넌트인 ‘샌드박스아웃바운드(SandboxOutbound)...",
-          "src": "wikitree",
+          "title": "기획부터 공장 가동까지···식품업계, '푸드 AI' 총력전",
+          "desc": "핵심 기술로 자리 잡았다. 내수 부진과 원가 부담이 장기화되는 가운데 식품기업들은 AI를 비용 절감 수단... ◇기업 경쟁력 좌우하는 'AI 활용 능력' 많은 식품기업이 AI 도입에 속도를 내는 이유는 산업 특성과 맞닿아...",
+          "src": "ziksir",
           "date": "08/08",
-          "url": "https://www.wikitree.co.kr/articles/1151135",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080308460802_ai.jpeg"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=142488",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202608/142488_162327_2621_v150.jpg"
         },
         {
-          "title": "2026여수세계섬박람회, AI 통역 서비스 도입…외국인 관람 편의 대폭 높...",
-          "desc": "2026여수세계섬박람회 조직위원회가 인공지능(AI) 기술을 활용해 외국인 관람객을 위한 실시간 다국어 통역 서비스를 제공한다. 2026여수세계섬박람회 조직위원회에 따르면 지난 5일 AI 기술 전문기업 클라이온...",
-          "src": "pointdaily",
+          "title": "팀스파르타, ‘2026 기업 AX 벤치마크 리포트’ 발간",
+          "desc": "자체 AI 보유 여부와 활용 방식에서 격차가 벌어지면서, 경쟁력의 축이 AI 도입에서 활용으로 옮겨가고... 팀스파르타는 KAIST 출신 이범규 대표가 2020년 설립한 AI 업스킬링 기업이다. AI 시대 인재·기업·기술을 연결해...",
+          "src": "sports",
           "date": "08/08",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314765",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314765_310681_711_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/144/0001130644?sid=105",
+          "img": ""
         },
         {
-          "title": "[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…\"완벽한 방어보다 침해...",
-          "desc": "토론에서는 AI를 과거 클라우드나 오픈소스 도입과 같은 기술 변화로 볼 수 있는지를 놓고 의견이... 결국 AI가 얼마나 강력해질 것인가보다, 그 힘을 현실의 보안 체계 안에서 어떻게 통제하고 활용할 것인가에...",
-          "src": "dailysecu",
+          "title": "\"로펌·기업 맞춤형 AI 직접 설계\"",
+          "desc": "레고라에서는 '법률 엔지니어'로 로펌 및 기업 법무팀과 협업해 각 조직에 맞춘 AI 도입·활용을 설계... 법률 엔지니어와 기술지원·영업 인력을 포함한 한국팀을 꾸리고 있다. 우선 10명 안팎을 생각하고 있다. 목표는...",
+          "src": "lawtimes",
           "date": "08/08",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207960",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/207960_208872_5918.jpg"
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224509",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202608/224509_127499_3322.jpg"
         },
         {
-          "title": "‘10억원 참치 헬기’ 대신하는 드론 한 대… “해상 경계하는 방산까지...",
-          "desc": "1초 단위로 예측하고 그에 맞춰 기체의 자세를 완벽히 동기화해야 하는 고도의 기술이다. AI는 참치가 멸치나... 대한항공이 처음부터 비행기를 제조한 것이 아니라 해외 상용기를 도입해 운용과 정비 플랫폼을 먼저 다진...",
-          "src": "동아일보",
+          "title": "‘병’보다 ‘삶’을 치료한다…초고령사회 노인의학의 변신 [건강한겨...",
+          "desc": "한편, 인공지능과 생성형 AI 기술이 노인 진료 현장에 도입됨에 따라 미국노인의학회 등에서는 낙상 위험 예측, 복약 관리 및 데이터 분석에서 AI를 활용하는 가이드라인 마련을 위해 노력하고 있다. 퇴원 뒤 고령 환자가...",
+          "src": "한겨레",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/020/0003739417?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134438533.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/028/0002817646?sid=103",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/539/imgdb/original/2026/0805/20260805503643.webp"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107411?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "3백만원 폰·4천만원 아반떼…쓸 땐 쓴다? [취재여담]",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526307?sid=101",
+      "img": "https://img.biz.sbs.co.kr/upload/2026/08/07/QUr1786071715980-850.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "[오늘의 ABC 뉴스룸] \"폭락장에도 코스피 1만2천 간다\" 월가의 충격 전망...",
-      "url": "https://www.ajunews.com/view/20260807163427513",
-      "img": "https://image.ajunews.com/content/image/2026/08/07/20260807164205338649.png"
+      "title": "“에어컨 1kWh 더 썼을 뿐인데”…전기요금 6790원 뛴 ‘진짜 이유’ [숫...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149288?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/08/20260808501830.jpg"
     },
     {
-      "title": "에어컨 업고 비땀 흘렸지만…\"땀 냄새 나서\" 평점 깎이는 기사들",
-      "url": "https://n.news.naver.com/mnews/article/437/0000505124?sid=102",
-      "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/07/20260807193740965001.png"
+      "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
     },
     {
-      "title": "클라우드플레어 카이트서핑, 메모리 7배 아끼고 속도는 느려",
-      "url": "https://www.wikitree.co.kr/articles/1151135",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608080308460802_ai.jpeg"
+      "title": "기획부터 공장 가동까지···식품업계, '푸드 AI' 총력전",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=142488",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202608/142488_162327_2621_v150.jpg"
     },
     {
-      "title": "2026여수세계섬박람회, AI 통역 서비스 도입…외국인 관람 편의 대폭 높...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314765",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314765_310681_711_v150.jpg"
+      "title": "\"로펌·기업 맞춤형 AI 직접 설계\"",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224509",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202608/224509_127499_3322.jpg"
     }
   ]
 };
