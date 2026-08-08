@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 16:17",
+  "updatedAt": "2026.08.08 (토) 18:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
+          "desc": "삼성전자와 구글이 공동 개발 중인 입체음향 기술이 있다. '이클립사 오디오'(Eclipsa Audio)'다. 이 기술의... '이클립사 오디오'의 등장은 단순한 신기술 발표를 넘어 음향 및 가전 산업의 판도를 뒤흔들 수 있는...",
+          "src": "kpinews",
+          "date": "08/08",
+          "url": "https://www.kpinews.kr/newsView/1065602261789733",
+          "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
+        },
+        {
           "title": "스마트홈 패권 전쟁, 전장은 아파트",
-          "desc": "한편 가전업계 라이벌이자 글로벌 AI 선도기업인 삼성전자는 래미안 아파트를 짓는 삼성물산과 AI홈 개발에 협력 중이다. 지난 6월에는 공간제작소와 함께 삼성 AI 모듈러 홈 쇼룸을 열며 사업을 본격화했다. AI 홈 패권을...",
+          "desc": "두 회사는 지난 4월부터 로봇 친화형 아파트 공동 개발에 나서 설계기준 마련 등을 진행하고 있다. 한편 가전업계 라이벌이자 글로벌 AI 선도기업인 삼성전자는 래미안 아파트를 짓는 삼성물산과 AI홈 개발에 협력 중이다....",
           "src": "hapt",
           "date": "08/08",
           "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "08/07",
           "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
-        },
-        {
-          "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
-          "desc": "IT가전, 화학 업종을 꼽았다. 여기에 외국인 순매수가 꾸준히 유입되며 실적 서프라이즈가 기대되는 은행과 통신 업종을 수급 보완 대안으로 함께 포트폴리오에 구성하는 것이 좋다. 특히 삼성전자와 SK하이닉스를...",
-          "src": "한국경제",
-          "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/050/0000109456?sid=101",
-          "img": "https://static.hankyung.com/photo/202608/AD.45253766.1.png"
         },
         {
           "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차·글로벌 기업이 찾은 AI…마키나락스의 승부수",
-          "desc": "현장에서 축적한 산업 특화 데이터와 이를 활용할 수 있는 기술력이 중요하다. 마키나락스가 제조업 현장에서 꾸준히 실증을 진행해온 것도 향후 피지컬 AI 시장에서 경쟁력을 확보하기 위한 기반으로 평가된다. 주요...",
-          "src": "핀포인트뉴스",
+          "title": "캐나다 AI 기업 코히어, 아시아태평양 지역 사업 키운다",
+          "desc": "현재 후지쯔, LG CNS, 싱가포르 국방부 산하 과학기술청(CSIT), 일본 디지털청 등과 핵심 AI 시스템을 구축하고 있다. 일본 디지털청에는 코히어가 후지쯔와 공동 개발한 대규모언어모델(LLM) 타카네(Takane)가 활용되고 있다....",
+          "src": "매일경제",
           "date": "08/08",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475535",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475535_462666_1641_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000107428?sid=101",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "삼성, 7년 만 신기록…'폴더블 대중화' 성큼",
-          "desc": "운영 효율과 공간 활용도를 높여 차세대 ESS 핵심 솔루션으로 경쟁력을 확보. 생산 거점인 천안 DC팩토리는... 배전 기술의 상용성을 입증. LS일렉트릭은 AI 데이터센터와 신재생에너지 투자 확대에 따른 글로벌 ESS...",
-          "src": "news",
+          "title": "전쟁도 AI 시대… 육군, 스마트 군수혁신 본격 시동",
+          "desc": "육군이 AI와 로봇을 활용한 스마트 군수체계를 본격 도입하며 군수지원의 디지털 전환에 속도를 내고 있다.... 워리어플랫폼 역시 첨단 신소재와 스마트 기술을 적용해 생존성과 전투력을 높이는 방향으로 발전시킨다....",
+          "src": "goodmorningcc",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/648/0000049644?sid=105",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450300",
+          "img": "https://cdn.goodmorningcc.com/news/thumbnail/202608/450300_465185_4132_v150.jpg"
         },
         {
-          "title": "“기업 AX 성공 열쇠는 조직에 대한 이해…범용 AI로는 한계”",
-          "desc": "만큼 도입 이후의 활용과 확장까지 책임져야 한다. 그는 “좋은 제품을 만들어 놓는 것만으로 시장이 알아주는 것은 아니다”며 “기술의 가치를 고객의 비즈니스 성과로 증명하고 그 성공 사례를 같은 산업으로...",
-          "src": "서울경제",
+          "title": "[트렌드 포커스] \"K뷰티만 인기 아니다\"…건강검진 위해 한국 찾는 외국...",
+          "desc": "의료장비 활용…\"질병 조기 발견\" 강점 한국 건강검진센터가 외국인들에게 주목받는 가장 큰 이유 중 하나는 의료 기술력이다. 최근 검진센터들은 인공지능(AI) 기반 영상 판독 시스템과 고해상도 의료 장비를 도입하며...",
+          "src": "sisacast",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/011/0004649824?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260807.b777ffb44ed4454889bd23a7e5195e0b_R.jpg"
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98618",
+          "img": "http://www.sisacast.kr/news/thumbnail/202608/98618_107488_2827_v150.jpg"
         },
         {
-          "title": "금융硏 \"AI 거버넌스는 자율적으로…금융당국, 원칙 중심 감독해야\"",
-          "desc": "금융회사의 인공지능(AI) 활용을 활성화하면서도 금융안정을 확보하기 위해 금융당국이 세부 규제보다... 금융회사의 기술 도입을 위축시킬 수 있는 만큼 경계해야 한다\"고 강조했다. 아울러 AI 시스템의 기획·도입...",
-          "src": "news",
+          "title": "KIF, 금융권 AI 확산에 \"책임자 명확히 해야\"",
+          "desc": "금융사 AI(인공지능) 활용이 빠르게 확산하는 가운데, AI 시스템 기획부터 운영, 위험관리까지 단계별... 서 연구위원은 \"AI 기술의 진화 속도가 법제화 속도를 압도하는 상황에서 당국은 선제적인 위험 통제와 금융 혁신...",
+          "src": "shinailbo",
           "date": "08/08",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429263",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4429263_335584_432_v150.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049263",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5049263_2047388_5425.png"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
+      "url": "https://www.kpinews.kr/newsView/1065602261789733",
+      "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
+    },
+    {
       "title": "스마트홈 패권 전쟁, 전장은 아파트",
       "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
       "img": "https://cdn.hapt.co.kr/news/photo/202608/169205_41611_4641.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
-      "url": "https://n.news.naver.com/mnews/article/050/0000109456?sid=101",
-      "img": "https://static.hankyung.com/photo/202608/AD.45253766.1.png"
-    },
-    {
       "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
       "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
       "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
     },
     {
-      "title": "현대차·글로벌 기업이 찾은 AI…마키나락스의 승부수",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475535",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475535_462666_1641_v150.jpg"
+      "title": "캐나다 AI 기업 코히어, 아시아태평양 지역 사업 키운다",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107428?sid=101",
+      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     },
     {
-      "title": "삼성, 7년 만 신기록…'폴더블 대중화' 성큼",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049644?sid=105",
-      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+      "title": "전쟁도 AI 시대… 육군, 스마트 군수혁신 본격 시동",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450300",
+      "img": "https://cdn.goodmorningcc.com/news/thumbnail/202608/450300_465185_4132_v150.jpg"
     }
   ]
 };
