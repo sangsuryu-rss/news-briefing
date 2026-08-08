@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 14:10",
+  "updatedAt": "2026.08.08 (토) 16:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[Biz&Law] 삼성전자, 美서 QR코드 특허소송 피소",
-          "desc": "이들은 삼성전자의 갤럭시 스마트폰, 스마트싱스(SmartThings), 삼성월렛, 스마트태그, 스마트 TV, 스마트 가전 등 대부분 스마트 제품들이 자사가 보유한 특허 6건을 침해한다고 주장했다. 소장에 따르면 쟁점 특허는...",
-          "src": "the-biz",
+          "title": "스마트홈 패권 전쟁, 전장은 아파트",
+          "desc": "한편 가전업계 라이벌이자 글로벌 AI 선도기업인 삼성전자는 래미안 아파트를 짓는 삼성물산과 AI홈 개발에 협력 중이다. 지난 6월에는 공간제작소와 함께 삼성 AI 모듈러 홈 쇼룸을 열며 사업을 본격화했다. AI 홈 패권을...",
+          "src": "hapt",
           "date": "08/08",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725903",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202608/725903_930163_3033.jpg"
-        },
-        {
-          "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
-          "desc": "8일 업계에 따르면 삼성전자와 LG전자는 최근 2년 만에 로봇청소기 신제품을 잇달아 출시하며 프리미엄 시장 공략을 강화하고 있다. 그동안 로보락·에코백스 등 중국 업체들이 장악해온 시장에서 기술 경쟁력으로...",
-          "src": "newsway",
-          "date": "08/08",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
-          "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
+          "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
+          "img": "https://cdn.hapt.co.kr/news/photo/202608/169205_41611_4641.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "에스원·ADT캡스, AI 홈으로 생활 안전 구현…생활밀착 서비스 확대",
-          "desc": "삼성전자의 스마트홈 플랫폼 '스마트싱스'와의 연계도 강화했다. 스마트싱스 앱은 물론 삼성 스마트TV와 비스포크 AI 패밀리허브 냉장고, 세탁기 등에서도 방문자를 확인할 수 있으며 양방향 음성 통화 기능도 제공한다....",
-          "src": "daily",
+          "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
+          "desc": "IT가전, 화학 업종을 꼽았다. 여기에 외국인 순매수가 꾸준히 유입되며 실적 서프라이즈가 기대되는 은행과 통신 업종을 수급 보완 대안으로 함께 포트폴리오에 구성하는 것이 좋다. 특히 삼성전자와 SK하이닉스를...",
+          "src": "한국경제",
           "date": "08/08",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393799",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1393799_1574244_4544_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000109456?sid=101",
+          "img": "https://static.hankyung.com/photo/202608/AD.45253766.1.png"
+        },
+        {
+          "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
+          "desc": "8일 업계에 따르면 삼성전자와 LG전자는 최근 2년 만에 로봇청소기 신제품을 잇달아 출시하며 프리미엄 시장 공략을 강화하고 있다. 그동안 로보락·에코백스 등 중국 업체들이 장악해온 시장에서 기술 경쟁력으로...",
+          "src": "newsway",
+          "date": "08/08",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
+          "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "로봇이 수확하고 위성 작황…농업 AX 시대 ‘활짝’ [창간 38주년, AI경기...",
-          "desc": "이어 “AI·데이터 기반 농업의 핵심은 농업인이 현장에서 쉽게 활용하고 성과를 체감하는 것”이라면서 “도농기원은 연구개발부터 기술보급까지 연계한 경기도형 디지털 농업체계를 구축해 생산성 향상과 농가...",
-          "src": "kyeonggi",
+          "title": "현대차·글로벌 기업이 찾은 AI…마키나락스의 승부수",
+          "desc": "현장에서 축적한 산업 특화 데이터와 이를 활용할 수 있는 기술력이 중요하다. 마키나락스가 제조업 현장에서 꾸준히 실증을 진행해온 것도 향후 피지컬 AI 시장에서 경쟁력을 확보하기 위한 기반으로 평가된다. 주요...",
+          "src": "핀포인트뉴스",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/666/0000118338?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580538.png?v=20260808141103"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475535",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475535_462666_1641_v150.jpg"
         },
         {
-          "title": "군인 대신 로봇 싸우는 시대 오나... 軍 로봇 지휘통제시스템 구축 [로보...",
-          "desc": "레인보우로보틱스는 군 현장에서 사족보행 기술의 활용 범위를 넓히고 있다. 올 5월 육·해·공군과 해병대가... 군용 장비는 보안성과 신뢰성이 우선되지만 대규모로 로봇을 배치하려면 도입 비용을 낮추는 작업이...",
+          "title": "삼성, 7년 만 신기록…'폴더블 대중화' 성큼",
+          "desc": "운영 효율과 공간 활용도를 높여 차세대 ESS 핵심 솔루션으로 경쟁력을 확보. 생산 거점인 천안 DC팩토리는... 배전 기술의 상용성을 입증. LS일렉트릭은 AI 데이터센터와 신재생에너지 투자 확대에 따른 글로벌 ESS...",
+          "src": "news",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/648/0000049644?sid=105",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+        },
+        {
+          "title": "“기업 AX 성공 열쇠는 조직에 대한 이해…범용 AI로는 한계”",
+          "desc": "만큼 도입 이후의 활용과 확장까지 책임져야 한다. 그는 “좋은 제품을 만들어 놓는 것만으로 시장이 알아주는 것은 아니다”며 “기술의 가치를 고객의 비즈니스 성과로 증명하고 그 성공 사례를 같은 산업으로...",
           "src": "서울경제",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/011/0004649814?sid=105",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260509.b56d52b3df1343e7b6be27b485238872_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004649824?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260807.b777ffb44ed4454889bd23a7e5195e0b_R.jpg"
         },
         {
-          "title": "\"수술후 일상회복 똑똑하게\"…AI 품은 재활의료",
-          "desc": "제도를 도입한 독일에서는 비비라(Vivira), 카이아 헬스(Kaia Health) 등의 근골격계 디지털 기능 회복 앱이 등재돼 있다. 국내에서도 인공지능(AI)과 디지털 기술을 활용해 환자의 재활 과정과 기능 회복을 지원하려는...",
-          "src": "뉴시스",
+          "title": "금융硏 \"AI 거버넌스는 자율적으로…금융당국, 원칙 중심 감독해야\"",
+          "desc": "금융회사의 인공지능(AI) 활용을 활성화하면서도 금융안정을 확보하기 위해 금융당국이 세부 규제보다... 금융회사의 기술 도입을 위축시킬 수 있는 만큼 경계해야 한다\"고 강조했다. 아울러 AI 시스템의 기획·도입...",
+          "src": "news",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/003/0014115486?sid=102",
-          "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0021381507_web.jpg"
-        },
-        {
-          "title": "우버, 올해 AI 예산 다 써버리곤…\"토큰맥싱 시대는 끝나가고 있다\"",
-          "desc": "만에 AI 예산을 소진한 뒤, 비용 문제에 대한 해법을 찾았다고 주장한다. 우버 최고기술책임자 프라빈... 우버도 예외는 아니었지만, 나가는 이제 비용을 감당 가능한 수준으로 유지하면서 AI를 활용하는 더 나은 방법을...",
-          "src": "fortunekorea",
-          "date": "08/08",
-          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53540",
-          "img": "https://cdn.fortunekorea.co.kr/news/thumbnail/202608/53540_47675_482_v150.jpg"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429263",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4429263_335584_432_v150.jpg"
         }
       ]
     },
@@ -170,21 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[Biz&Law] 삼성전자, 美서 QR코드 특허소송 피소",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725903",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202608/725903_930163_3033.jpg"
-    },
-    {
-      "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
-      "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
+      "title": "스마트홈 패권 전쟁, 전장은 아파트",
+      "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
+      "img": "https://cdn.hapt.co.kr/news/photo/202608/169205_41611_4641.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "에스원·ADT캡스, AI 홈으로 생활 안전 구현…생활밀착 서비스 확대",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393799",
-      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1393799_1574244_4544_v150.jpg"
+      "title": "“겁먹고 팔 때 아니다”…지금 코스피를 담아야 하는 이유 [화제의 리...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000109456?sid=101",
+      "img": "https://static.hankyung.com/photo/202608/AD.45253766.1.png"
     },
     {
-      "title": "로봇이 수확하고 위성 작황…농업 AX 시대 ‘활짝’ [창간 38주년, AI경기...",
-      "url": "https://n.news.naver.com/mnews/article/666/0000118338?sid=101",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580538.png?v=20260808141103"
+      "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
+      "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
     },
     {
-      "title": "군인 대신 로봇 싸우는 시대 오나... 軍 로봇 지휘통제시스템 구축 [로보...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649814?sid=105",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260509.b56d52b3df1343e7b6be27b485238872_R.jpg"
+      "title": "현대차·글로벌 기업이 찾은 AI…마키나락스의 승부수",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475535",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475535_462666_1641_v150.jpg"
+    },
+    {
+      "title": "삼성, 7년 만 신기록…'폴더블 대중화' 성큼",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049644?sid=105",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
     }
   ]
 };
