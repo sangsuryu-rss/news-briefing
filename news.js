@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 18:02",
+  "updatedAt": "2026.08.08 (토) 19:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
-          "desc": "삼성전자와 구글이 공동 개발 중인 입체음향 기술이 있다. '이클립사 오디오'(Eclipsa Audio)'다. 이 기술의... '이클립사 오디오'의 등장은 단순한 신기술 발표를 넘어 음향 및 가전 산업의 판도를 뒤흔들 수 있는...",
-          "src": "kpinews",
+          "title": "[NZSI INDEX] 2026년 8월 6일 AI 메모리 시대, 성장보다 '지속 가능한 경...",
+          "desc": "반면 삼성전자는 메모리 반도체뿐 아니라 파운드리, 시스템LSI, 모바일, 디스플레이, TV와 생활가전, 전장 등 다양한 사업 포트폴리오를 구축하고 있다. 개별 사업의 실적 변동은 존재하지만 특정 산업의 경기...",
+          "src": "the-today",
           "date": "08/08",
-          "url": "https://www.kpinews.kr/newsView/1065602261789733",
-          "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
+          "url": "https://www.the-today.com/news/articleView.html?idxno=88243",
+          "img": "https://cdn.the-today.com/news/photo/202608/88243_109556_350.png"
         },
         {
           "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
-          "desc": "8일 업계에 따르면 삼성전자와 LG전자는 최근 2년 만에 로봇청소기 신제품을 잇달아 출시하며 프리미엄 시장 공략을 강화하고 있다. 그동안 로보락·에코백스 등 중국 업체들이 장악해온 시장에서 기술 경쟁력으로...",
-          "src": "newsway",
+          "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
+          "desc": "삼성전자와 구글이 공동 개발 중인 입체음향 기술이 있다. '이클립사 오디오'(Eclipsa Audio)'다. 이 기술의... '이클립사 오디오'의 등장은 단순한 신기술 발표를 넘어 음향 및 가전 산업의 판도를 뒤흔들 수 있는...",
+          "src": "kpinews",
           "date": "08/08",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
-          "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065602261789733",
+          "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "경기관광공사, 행안부 지방공기업 경영평가 '전국 1위'",
+          "desc": "글로벌 마케팅 분야에서는 국내 최초로 외국인 여행자를 위한 무료 안전보험 서비스를 도입하고 'The Real... 디지털 기술을 활용한 관광서비스 혁신도 높은 평가를 받았다. 공사는 AI로 관광 콘텐츠를 직접 제작·홍보하고...",
+          "src": "enewstoday",
+          "date": "08/08",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457325",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2457325_1297493_3945_v150.jpg"
+        },
+        {
+          "title": "NC 다이노스, 프로야구 최초 네이버존에 엔페이 월렛 대체불가토큰 티켓...",
+          "desc": "NC 다이노스가 NFT 기술을 활용한 새로운 티켓 예매 시스템을 도입하며 디지털 기반의 관람 경험 확대에... TokenPost AI 유의사항 TokenPost.ai 기반 언어 모델을 사용하여 작성된 기사입니다. 본문의 주요 내용이 제외되거나...",
+          "src": "tokenpost",
+          "date": "08/08",
+          "url": "https://www.tokenpost.kr/news/blockchain/386961",
+          "img": "https://f1.tokenpost.kr/2026/08/egrczawbft.jpg"
+        },
+        {
+          "title": "\"찾는 영업에서 선제 관리로\"…우리은행, AI로 바꾸는 금융 현장",
+          "desc": "사진=구글 제미나이 AI 이미지  은행의 AI(인공지능) 활용이 단순 업무 지원을 넘어 직원의 업무 방식과... 1단계에서는 멀티모달 기술을 적용한 신규 상담 업무 10종을 도입하고 내년 5월 2단계 오픈에서 AI챗봇과 AI뱅커...",
+          "src": "bizwnews",
+          "date": "08/08",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=142748",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/142748_159597_3231_v150.jpg"
+        },
+        {
           "title": "캐나다 AI 기업 코히어, 아시아태평양 지역 사업 키운다",
           "desc": "현재 후지쯔, LG CNS, 싱가포르 국방부 산하 과학기술청(CSIT), 일본 디지털청 등과 핵심 AI 시스템을 구축하고 있다. 일본 디지털청에는 코히어가 후지쯔와 공동 개발한 대규모언어모델(LLM) 타카네(Takane)가 활용되고 있다....",
           "src": "매일경제",
           "date": "08/08",
           "url": "https://n.news.naver.com/mnews/article/024/0000107428?sid=101",
           "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
-        },
-        {
-          "title": "전쟁도 AI 시대… 육군, 스마트 군수혁신 본격 시동",
-          "desc": "육군이 AI와 로봇을 활용한 스마트 군수체계를 본격 도입하며 군수지원의 디지털 전환에 속도를 내고 있다.... 워리어플랫폼 역시 첨단 신소재와 스마트 기술을 적용해 생존성과 전투력을 높이는 방향으로 발전시킨다....",
-          "src": "goodmorningcc",
-          "date": "08/08",
-          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450300",
-          "img": "https://cdn.goodmorningcc.com/news/thumbnail/202608/450300_465185_4132_v150.jpg"
-        },
-        {
-          "title": "[트렌드 포커스] \"K뷰티만 인기 아니다\"…건강검진 위해 한국 찾는 외국...",
-          "desc": "의료장비 활용…\"질병 조기 발견\" 강점 한국 건강검진센터가 외국인들에게 주목받는 가장 큰 이유 중 하나는 의료 기술력이다. 최근 검진센터들은 인공지능(AI) 기반 영상 판독 시스템과 고해상도 의료 장비를 도입하며...",
-          "src": "sisacast",
-          "date": "08/08",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98618",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/98618_107488_2827_v150.jpg"
-        },
-        {
-          "title": "KIF, 금융권 AI 확산에 \"책임자 명확히 해야\"",
-          "desc": "금융사 AI(인공지능) 활용이 빠르게 확산하는 가운데, AI 시스템 기획부터 운영, 위험관리까지 단계별... 서 연구위원은 \"AI 기술의 진화 속도가 법제화 속도를 압도하는 상황에서 당국은 선제적인 위험 통제와 금융 혁신...",
-          "src": "shinailbo",
-          "date": "08/08",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049263",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5049263_2047388_5425.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
-      "url": "https://www.kpinews.kr/newsView/1065602261789733",
-      "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
+      "title": "[NZSI INDEX] 2026년 8월 6일 AI 메모리 시대, 성장보다 '지속 가능한 경...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=88243",
+      "img": "https://cdn.the-today.com/news/photo/202608/88243_109556_350.png"
     },
     {
       "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
-      "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
+      "title": "삼성과 구글의 '공짜 3D음향기술' 공개...'돌비'독점 무너지나",
+      "url": "https://www.kpinews.kr/newsView/1065602261789733",
+      "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
     },
     {
-      "title": "캐나다 AI 기업 코히어, 아시아태평양 지역 사업 키운다",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107428?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "경기관광공사, 행안부 지방공기업 경영평가 '전국 1위'",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457325",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2457325_1297493_3945_v150.jpg"
     },
     {
-      "title": "전쟁도 AI 시대… 육군, 스마트 군수혁신 본격 시동",
-      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450300",
-      "img": "https://cdn.goodmorningcc.com/news/thumbnail/202608/450300_465185_4132_v150.jpg"
+      "title": "NC 다이노스, 프로야구 최초 네이버존에 엔페이 월렛 대체불가토큰 티켓...",
+      "url": "https://www.tokenpost.kr/news/blockchain/386961",
+      "img": "https://f1.tokenpost.kr/2026/08/egrczawbft.jpg"
     }
   ]
 };
