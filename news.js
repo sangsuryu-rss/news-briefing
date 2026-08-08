@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 23:51",
+  "updatedAt": "2026.08.09 (일) 01:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "이번주 공모주 청약, 기도산업·니어스랩·해치텍 3개사",
+          "desc": "시스템 도입 등을 통해 연간 생산능력을 현재 약 400만장에서 600만장 이상으로 확대한다는 구상이다. 니어스랩, AI 기반 드론 기업 2015년 설립된 니어스랩은 피지컬 인공지능(AI)에 기반해 자율비행 기술을 개발하는...",
+          "src": "데일리안",
+          "date": "08/09",
+          "url": "https://n.news.naver.com/mnews/article/119/0003119701?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202607/news_1785492344_1673369_m_1.jpeg"
+        },
+        {
           "title": "DL이앤씨, AI 활용 건설현장 안전관리 확대",
           "desc": "|데일리포스트=송협 대표기자| \"이번 안전 패러다임의 전환은 첨단 기술과 현장 중심의 복지를 결합해... 인공지능(AI)과 현장 데이터를 활용한 위험 예측 시스템을 도입하고 근로자 작업중지권과 폭염 대응을 확대하는...",
           "src": "thedailypost",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/08",
           "url": "http://coinreaders.com/251827",
           "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202607/800_800_2026071323194634.png"
-        },
-        {
-          "title": "박정희 사위까지 대사로 보냈다… 70년 넘게 이어진 ‘칠레 인연’",
-          "desc": "광범위하게 도입됐다. 이 과정에서 칠레는 중남미를 대표하는 개방경제로 변모했지만 경제력 집중과... 보존과 활용도 주요 목표 가운데 하나다. 황 전 공사참사관은 책에서 “한국의 소버린 AI가 자체 기술과 데이터...",
-          "src": "segye",
-          "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/022/0004149395?sid=100",
-          "img": "https://www.segye.com/content/image/2026/08/08/20260808511582.jpg"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
     },
     {
+      "title": "이번주 공모주 청약, 기도산업·니어스랩·해치텍 3개사",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119701?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202607/news_1785492344_1673369_m_1.jpeg"
+    },
+    {
       "title": "DL이앤씨, AI 활용 건설현장 안전관리 확대",
       "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114935",
       "img": "https://cdn.thedailypost.kr/news/thumbnail/202608/114935_118958_86_v150.jpg"
-    },
-    {
-      "title": "구글 웨더넥스트, 허리케인 멜리사 카테고리5 닷새 전 80% 확률로 맞혔다",
-      "url": "https://www.wikitree.co.kr/articles/1151219",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608082252173045_ai.jpeg"
     }
   ]
 };
