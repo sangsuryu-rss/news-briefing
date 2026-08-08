@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 22:14",
+  "updatedAt": "2026.08.08 (토) 23:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "DL이앤씨, AI 활용 건설현장 안전관리 확대",
+          "desc": "|데일리포스트=송협 대표기자| \"이번 안전 패러다임의 전환은 첨단 기술과 현장 중심의 복지를 결합해... 인공지능(AI)과 현장 데이터를 활용한 위험 예측 시스템을 도입하고 근로자 작업중지권과 폭염 대응을 확대하는...",
+          "src": "thedailypost",
+          "date": "08/08",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114935",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202608/114935_118958_86_v150.jpg"
+        },
+        {
+          "title": "구글 웨더넥스트, 허리케인 멜리사 카테고리5 닷새 전 80% 확률로 맞혔다",
+          "desc": "구글 구글 딥마인드는 “기술을 널리 공개함으로써 연구 커뮤니티에 힘을 보태고, 재해 대비에 필요한 도구를 지역 예보관에게 제공하거나 재생에너지 확산을 지원하고 극한 기후 현상을 예측하는 등 AI가 보다...",
+          "src": "wikitree",
+          "date": "08/08",
+          "url": "https://www.wikitree.co.kr/articles/1151219",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608082252173045_ai.jpeg"
+        },
+        {
+          "title": "AI 알고리즘이 예측한 엔비디아 8월 말 주가, 어디까지 오를까?",
+          "desc": "이번 예측에 활용된 핀볼드 AI 에이전트는 클로드 오퍼스 4.8, 제미나이 3.5 플래시, GPT-5.7 루나 등 다수의 인공지능 모델 예측값과 상대강도지수(RSI), 이동평균 수렴확산 지수(MACD) 등 주요 기술적 지표를 종합...",
+          "src": "coinreaders",
+          "date": "08/08",
+          "url": "http://coinreaders.com/251827",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202607/800_800_2026071323194634.png"
+        },
+        {
           "title": "박정희 사위까지 대사로 보냈다… 70년 넘게 이어진 ‘칠레 인연’",
           "desc": "광범위하게 도입됐다. 이 과정에서 칠레는 중남미를 대표하는 개방경제로 변모했지만 경제력 집중과... 보존과 활용도 주요 목표 가운데 하나다. 황 전 공사참사관은 책에서 “한국의 소버린 AI가 자체 기술과 데이터...",
           "src": "segye",
           "date": "08/08",
           "url": "https://n.news.naver.com/mnews/article/022/0004149395?sid=100",
           "img": "https://www.segye.com/content/image/2026/08/08/20260808511582.jpg"
-        },
-        {
-          "title": "日안보문서 개정 윤곽… “장사정 미사일·공격형 드론 확대\"",
-          "desc": "장사정 미사일을 양적·질적으로 향상시키고, 장거리 비행이 가능한 공격형 드론을 도입하는 것이 개정의... 인공지능(AI)을 활용해 의사결정의 속도와 정확성을 높인다는 방침도 개정 골자에 포함됐다. 앞서 일본 방위성은...",
-          "src": "조선일보",
-          "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/023/0003991975?sid=104",
-          "img": "https://www.chosun.com/resizer/v2/3HO7V6MSVVOOXIUEGFOEAWJ7OI.jpg?auth=085eef3ff1c29ad3ec313072d5c229a7588a4735fc74da5fdbfd59fe30330110&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "CJ제일제당-CJ온스타일-CJ ENM, AI 플랫폼 'Food AI 360' 론칭...사회공헌...",
-          "desc": "CJ제일제당은 지난해 6월 국내 사업부에 'Food AI 360'을 우선 도입했으며, 글로벌 K-푸드 확장에 속도를 내기... CG/VFX 활용으로 제작비를 절감하는 한편, AI 기술과 연계한 VPPL(인터랙션형 AI 가상 간접광고), <미각보이즈...",
-          "src": "wsobi",
-          "date": "08/08",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=316159",
-          "img": "http://www.wsobi.com/news/photo/202608/316159_188630_1355.jpg"
-        },
-        {
-          "title": "경기관광공사, 행안부 지방공기업 경영평가 '전국 1위'",
-          "desc": "글로벌 마케팅 분야에서는 국내 최초로 외국인 여행자를 위한 무료 안전보험 서비스를 도입하고 'The Real... 디지털 기술을 활용한 관광서비스 혁신도 높은 평가를 받았다. 공사는 AI로 관광 콘텐츠를 직접 제작·홍보하고...",
-          "src": "enewstoday",
-          "date": "08/08",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457325",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2457325_1297493_3945_v150.jpg"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
     },
     {
-      "title": "박정희 사위까지 대사로 보냈다… 70년 넘게 이어진 ‘칠레 인연’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004149395?sid=100",
-      "img": "https://www.segye.com/content/image/2026/08/08/20260808511582.jpg"
+      "title": "DL이앤씨, AI 활용 건설현장 안전관리 확대",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114935",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202608/114935_118958_86_v150.jpg"
     },
     {
-      "title": "日안보문서 개정 윤곽… “장사정 미사일·공격형 드론 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991975?sid=104",
-      "img": "https://www.chosun.com/resizer/v2/3HO7V6MSVVOOXIUEGFOEAWJ7OI.jpg?auth=085eef3ff1c29ad3ec313072d5c229a7588a4735fc74da5fdbfd59fe30330110&width=1200&height=630&smart=true"
+      "title": "구글 웨더넥스트, 허리케인 멜리사 카테고리5 닷새 전 80% 확률로 맞혔다",
+      "url": "https://www.wikitree.co.kr/articles/1151219",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608082252173045_ai.jpeg"
     }
   ]
 };
