@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 19:52",
+  "updatedAt": "2026.08.08 (토) 22:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "박정희 사위까지 대사로 보냈다… 70년 넘게 이어진 ‘칠레 인연’",
+          "desc": "광범위하게 도입됐다. 이 과정에서 칠레는 중남미를 대표하는 개방경제로 변모했지만 경제력 집중과... 보존과 활용도 주요 목표 가운데 하나다. 황 전 공사참사관은 책에서 “한국의 소버린 AI가 자체 기술과 데이터...",
+          "src": "segye",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/022/0004149395?sid=100",
+          "img": "https://www.segye.com/content/image/2026/08/08/20260808511582.jpg"
+        },
+        {
+          "title": "日안보문서 개정 윤곽… “장사정 미사일·공격형 드론 확대\"",
+          "desc": "장사정 미사일을 양적·질적으로 향상시키고, 장거리 비행이 가능한 공격형 드론을 도입하는 것이 개정의... 인공지능(AI)을 활용해 의사결정의 속도와 정확성을 높인다는 방침도 개정 골자에 포함됐다. 앞서 일본 방위성은...",
+          "src": "조선일보",
+          "date": "08/08",
+          "url": "https://n.news.naver.com/mnews/article/023/0003991975?sid=104",
+          "img": "https://www.chosun.com/resizer/v2/3HO7V6MSVVOOXIUEGFOEAWJ7OI.jpg?auth=085eef3ff1c29ad3ec313072d5c229a7588a4735fc74da5fdbfd59fe30330110&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "CJ제일제당-CJ온스타일-CJ ENM, AI 플랫폼 'Food AI 360' 론칭...사회공헌...",
+          "desc": "CJ제일제당은 지난해 6월 국내 사업부에 'Food AI 360'을 우선 도입했으며, 글로벌 K-푸드 확장에 속도를 내기... CG/VFX 활용으로 제작비를 절감하는 한편, AI 기술과 연계한 VPPL(인터랙션형 AI 가상 간접광고), <미각보이즈...",
+          "src": "wsobi",
+          "date": "08/08",
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=316159",
+          "img": "http://www.wsobi.com/news/photo/202608/316159_188630_1355.jpg"
+        },
+        {
           "title": "경기관광공사, 행안부 지방공기업 경영평가 '전국 1위'",
           "desc": "글로벌 마케팅 분야에서는 국내 최초로 외국인 여행자를 위한 무료 안전보험 서비스를 도입하고 'The Real... 디지털 기술을 활용한 관광서비스 혁신도 높은 평가를 받았다. 공사는 AI로 관광 콘텐츠를 직접 제작·홍보하고...",
           "src": "enewstoday",
           "date": "08/08",
           "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457325",
           "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2457325_1297493_3945_v150.jpg"
-        },
-        {
-          "title": "NC 다이노스, 프로야구 최초 네이버존에 엔페이 월렛 대체불가토큰 티켓...",
-          "desc": "NC 다이노스가 NFT 기술을 활용한 새로운 티켓 예매 시스템을 도입하며 디지털 기반의 관람 경험 확대에... TokenPost AI 유의사항 TokenPost.ai 기반 언어 모델을 사용하여 작성된 기사입니다. 본문의 주요 내용이 제외되거나...",
-          "src": "tokenpost",
-          "date": "08/08",
-          "url": "https://www.tokenpost.kr/news/blockchain/386961",
-          "img": "https://f1.tokenpost.kr/2026/08/egrczawbft.jpg"
-        },
-        {
-          "title": "\"찾는 영업에서 선제 관리로\"…우리은행, AI로 바꾸는 금융 현장",
-          "desc": "사진=구글 제미나이 AI 이미지  은행의 AI(인공지능) 활용이 단순 업무 지원을 넘어 직원의 업무 방식과... 1단계에서는 멀티모달 기술을 적용한 신규 상담 업무 10종을 도입하고 내년 5월 2단계 오픈에서 AI챗봇과 AI뱅커...",
-          "src": "bizwnews",
-          "date": "08/08",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=142748",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/142748_159597_3231_v150.jpg"
-        },
-        {
-          "title": "캐나다 AI 기업 코히어, 아시아태평양 지역 사업 키운다",
-          "desc": "현재 후지쯔, LG CNS, 싱가포르 국방부 산하 과학기술청(CSIT), 일본 디지털청 등과 핵심 AI 시스템을 구축하고 있다. 일본 디지털청에는 코히어가 후지쯔와 공동 개발한 대규모언어모델(LLM) 타카네(Takane)가 활용되고 있다....",
-          "src": "매일경제",
-          "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107428?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
     },
     {
-      "title": "경기관광공사, 행안부 지방공기업 경영평가 '전국 1위'",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457325",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2457325_1297493_3945_v150.jpg"
+      "title": "박정희 사위까지 대사로 보냈다… 70년 넘게 이어진 ‘칠레 인연’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149395?sid=100",
+      "img": "https://www.segye.com/content/image/2026/08/08/20260808511582.jpg"
     },
     {
-      "title": "NC 다이노스, 프로야구 최초 네이버존에 엔페이 월렛 대체불가토큰 티켓...",
-      "url": "https://www.tokenpost.kr/news/blockchain/386961",
-      "img": "https://f1.tokenpost.kr/2026/08/egrczawbft.jpg"
+      "title": "日안보문서 개정 윤곽… “장사정 미사일·공격형 드론 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991975?sid=104",
+      "img": "https://www.chosun.com/resizer/v2/3HO7V6MSVVOOXIUEGFOEAWJ7OI.jpg?auth=085eef3ff1c29ad3ec313072d5c229a7588a4735fc74da5fdbfd59fe30330110&width=1200&height=630&smart=true"
     }
   ]
 };
