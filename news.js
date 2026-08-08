@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.08 (토) 11:23",
+  "updatedAt": "2026.08.08 (토) 14:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "막 오른 히트펌프 시장… 삼성·LG·경동나비엔 3파전",
-          "desc": "스마트싱스 기반 에너지 관리 기능과 삼성전자 가전 생태계를 연계해 차별화를 꾀한다는 전략이다. 보일러 전문기업 경동나비엔도 히트펌프 사업을 강화하고 있다. 기존 보일러 사업에서 구축한 설치·서비스...",
-          "src": "조선일보",
+          "title": "[Biz&Law] 삼성전자, 美서 QR코드 특허소송 피소",
+          "desc": "이들은 삼성전자의 갤럭시 스마트폰, 스마트싱스(SmartThings), 삼성월렛, 스마트태그, 스마트 TV, 스마트 가전 등 대부분 스마트 제품들이 자사가 보유한 특허 6건을 침해한다고 주장했다. 소장에 따르면 쟁점 특허는...",
+          "src": "the-biz",
           "date": "08/08",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167596",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167596_449617_4212_v150.jpg"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725903",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202608/725903_930163_3033.jpg"
+        },
+        {
+          "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
+          "desc": "8일 업계에 따르면 삼성전자와 LG전자는 최근 2년 만에 로봇청소기 신제품을 잇달아 출시하며 프리미엄 시장 공략을 강화하고 있다. 그동안 로보락·에코백스 등 중국 업체들이 장악해온 시장에서 기술 경쟁력으로...",
+          "src": "newsway",
+          "date": "08/08",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
+          "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
-          "desc": "무선청소기 'A9S 펫', 펫 특화 필터를 적용한 '360° 공기청정기 UV살균' 등도 라인업에 있다. 삼성전자는 개별... 이후 로봇청소기, 세탁기, 건조기, 에어컨, TV로 펫케어 영역을 넓혔다. 비스포크 제트봇 AI는 카메라와 AI로...",
+          "desc": "세탁기와 건조기에는 알러젠, 얼룩, 냄새, 털을 관리하는 펫 특화 코스를, 공기청정기에는 펫 맞춤 청정 기능을 적용했다. 에어컨은 견종별 온습도 관리를, TV는 반려동물용 영상 원격 재생을 지원한다. 삼성전자는 2023년...",
           "src": "비즈니스플러스",
           "date": "08/07",
           "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "\"삼성·LG 막아줄 줄 알았는데\"…트럼프 관세에 美월풀이 휘청 [이슈속으...",
-          "desc": "시장조사업체 오픈브랜드에 따르면 지난해 4분기 미국 대형가전 브랜드 선호율은 삼성전자가 34%로 가장 높았고 LG전자가 32%로 뒤를 이었다. 월풀은 27%였다. 삼성전자는 전분기보다 선호율이 1%P 높아졌지만 월풀은 1%P...",
-          "src": "머니투데이",
+          "title": "에스원·ADT캡스, AI 홈으로 생활 안전 구현…생활밀착 서비스 확대",
+          "desc": "삼성전자의 스마트홈 플랫폼 '스마트싱스'와의 연계도 강화했다. 스마트싱스 앱은 물론 삼성 스마트TV와 비스포크 AI 패밀리허브 냉장고, 세탁기 등에서도 방문자를 확인할 수 있으며 양방향 음성 통화 기능도 제공한다....",
+          "src": "daily",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/008/0005397240?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026080715550272652_1.jpg"
-        },
-        {
-          "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-          "desc": "7일 업계에 따르면 삼성전자의 로봇청소기인 비스포크 AI 스팀 시리즈는 6월 한달간 큰 폭으로 판매가 늘어나 국내 로봇 청소기 판매 1위를 기록한 것으로 추정되고 있다. 직접적으로는 삼성전자가 지난 6월 진행한 사회...",
-          "src": "매일경제",
-          "date": "08/07",
-          "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393799",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1393799_1574244_4544_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스마트한 변신위기의 골목상권 새길 열다 [창간 38주년, AI경기 판을 바...",
-          "desc": "기술 도입을 지원하는 스마트상점 기술보급사업, 제조공정 자동화 등을 돕는 스마트제조지원(스마트공방) 사업도 추진하고 있다. 또 소진공은 카카오와 협력해 전국 전통시장과 지역 상점가를 대상으로 AI 활용 교육을...",
+          "title": "로봇이 수확하고 위성 작황…농업 AX 시대 ‘활짝’ [창간 38주년, AI경기...",
+          "desc": "이어 “AI·데이터 기반 농업의 핵심은 농업인이 현장에서 쉽게 활용하고 성과를 체감하는 것”이라면서 “도농기원은 연구개발부터 기술보급까지 연계한 경기도형 디지털 농업체계를 구축해 생산성 향상과 농가...",
           "src": "kyeonggi",
           "date": "08/08",
-          "url": "https://n.news.naver.com/mnews/article/666/0000118327?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580541.jpg?v=20260808112310"
+          "url": "https://n.news.naver.com/mnews/article/666/0000118338?sid=101",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580538.png?v=20260808141103"
         },
         {
-          "title": "[김승주 교수 칼럼] AI 해킹 시대, 무조건적인 최신 패치가 답은 아니다",
-          "desc": "활용하려면 상당한 전문지식과 경험이 필요했다. 하지만 생성형 AI와 AI 에이전트의 발전은 이러한 기술적... 이후 실제 공격에 악용되고 있는 취약점을 별도로 관리하는 KEV(Known Exploited Vulnerabilities) 체계 또한 도입했...",
-          "src": "dailysecu",
+          "title": "군인 대신 로봇 싸우는 시대 오나... 軍 로봇 지휘통제시스템 구축 [로보...",
+          "desc": "레인보우로보틱스는 군 현장에서 사족보행 기술의 활용 범위를 넓히고 있다. 올 5월 육·해·공군과 해병대가... 군용 장비는 보안성과 신뢰성이 우선되지만 대규모로 로봇을 배치하려면 도입 비용을 낮추는 작업이...",
+          "src": "서울경제",
           "date": "08/08",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207961",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/207961_208873_2439.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004649814?sid=105",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260509.b56d52b3df1343e7b6be27b485238872_R.jpg"
         },
         {
-          "title": "'집만 짓던' 시대는 끝…건설업계, 주거 플랫폼으로 생활까지 잡는다",
-          "desc": "새롭게 도입한다. 지난 5월 입주 전 단계 서비스를 확장한 데 이어 이번에는 입주 이후 누릴 수 있는 생활... 인공지능(AI)을 활용한 맞춤형 생활 서비스와 에너지 관리, 건강 관리 기능이 강화되는 것은 물론 다양한...",
-          "src": "mediapen",
+          "title": "\"수술후 일상회복 똑똑하게\"…AI 품은 재활의료",
+          "desc": "제도를 도입한 독일에서는 비비라(Vivira), 카이아 헬스(Kaia Health) 등의 근골격계 디지털 기능 회복 앱이 등재돼 있다. 국내에서도 인공지능(AI)과 디지털 기술을 활용해 환자의 재활 과정과 기능 회복을 지원하려는...",
+          "src": "뉴시스",
           "date": "08/08",
-          "url": "https://www.mediapen.com/news/view/1114980",
-          "img": "https://image.mediapen.com/news/202608/news_1114980_1786082751_m.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014115486?sid=102",
+          "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0021381507_web.jpg"
         },
         {
-          "title": "체코, 1억달러 투입 ‘C-ITS’ 본격 가동하며 AI 교통분석·사이버보안 ...",
-          "desc": "공동으로 활용할 수 있는 국가 운영 플랫폼을 구축할 계획이다. 더불어 긴급차량 통행 지원과 데이터 연계와 품질관리, 자율주행 지원, 철도 C-ITS 연계, AI 및 신기술 도입과 보안인증체계 구축 등을 주요 과제로...",
-          "src": "boannews",
+          "title": "우버, 올해 AI 예산 다 써버리곤…\"토큰맥싱 시대는 끝나가고 있다\"",
+          "desc": "만에 AI 예산을 소진한 뒤, 비용 문제에 대한 해법을 찾았다고 주장한다. 우버 최고기술책임자 프라빈... 우버도 예외는 아니었지만, 나가는 이제 비용을 감당 가능한 수준으로 유지하면서 AI를 활용하는 더 나은 방법을...",
+          "src": "fortunekorea",
           "date": "08/08",
-          "url": "http://www.boannews.com/media/view.asp?idx=145011&kind=4",
-          "img": ""
+          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53540",
+          "img": "https://cdn.fortunekorea.co.kr/news/thumbnail/202608/53540_47675_482_v150.jpg"
         }
       ]
     },
@@ -170,16 +170,21 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "막 오른 히트펌프 시장… 삼성·LG·경동나비엔 3파전",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167596",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167596_449617_4212_v150.jpg"
+      "title": "[Biz&Law] 삼성전자, 美서 QR코드 특허소송 피소",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725903",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202608/725903_930163_3033.jpg"
+    },
+    {
+      "title": "삼성·LG 로봇청소기 '권토중래'…美 규제가 기회로",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080712054883254",
+      "img": "https://nimage.newsway.co.kr/photo/2024/09/26/20240926000007_1200.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "\"삼성·LG 막아줄 줄 알았는데\"…트럼프 관세에 美월풀이 휘청 [이슈속으...",
-      "url": "https://n.news.naver.com/mnews/article/008/0005397240?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026080715550272652_1.jpg"
+      "title": "에스원·ADT캡스, AI 홈으로 생활 안전 구현…생활밀착 서비스 확대",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393799",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202608/1393799_1574244_4544_v150.jpg"
     },
     {
-      "title": "“200만원 카드 긁었는데 남편이 잘했다네요”...중국산 제친 삼성·LG의...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717947?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.3a6b1f4b41e146889cf518c28783036c_R.png"
+      "title": "로봇이 수확하고 위성 작황…농업 AX 시대 ‘활짝’ [창간 38주년, AI경기...",
+      "url": "https://n.news.naver.com/mnews/article/666/0000118338?sid=101",
+      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580538.png?v=20260808141103"
     },
     {
-      "title": "스마트한 변신위기의 골목상권 새길 열다 [창간 38주년, AI경기 판을 바...",
-      "url": "https://n.news.naver.com/mnews/article/666/0000118327?sid=101",
-      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/06/.cache/512/20260806580541.jpg?v=20260808112310"
-    },
-    {
-      "title": "[김승주 교수 칼럼] AI 해킹 시대, 무조건적인 최신 패치가 답은 아니다",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207961",
-      "img": "https://cdn.dailysecu.com/news/photo/202608/207961_208873_2439.jpeg"
+      "title": "군인 대신 로봇 싸우는 시대 오나... 軍 로봇 지휘통제시스템 구축 [로보...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649814?sid=105",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260509.b56d52b3df1343e7b6be27b485238872_R.jpg"
     }
   ]
 };
