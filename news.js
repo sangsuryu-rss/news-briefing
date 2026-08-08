@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 04:00",
+  "updatedAt": "2026.08.09 (일) 05:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "‘EU 규제 정면 돌파’… 中 배터리, ‘제로 탄소 단지’로 글로벌 시장...",
+          "desc": "시스템을 활용해 제품 탄소 발자국을 추적해 오며 EU의 규제 시한보다 훨씬 앞선 행보를 보여왔다. 가베칼 보고서는 이러한 제로 탄소 단지가 단순한 규제 대응을 넘어 중국 기술의 새로운 수출 모델이 될 수 있다고...",
+          "src": "g-enews",
+          "date": "08/09",
+          "url": "https://www.g-enews.com/view.php?ud=2026080817350536620c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260808173616094110c8c1c064d22114611240.jpg"
+        },
+        {
           "title": "이번주 공모주 청약, 기도산업·니어스랩·해치텍 3개사",
           "desc": "시스템 도입 등을 통해 연간 생산능력을 현재 약 400만장에서 600만장 이상으로 확대한다는 구상이다. 니어스랩, AI 기반 드론 기업 2015년 설립된 니어스랩은 피지컬 인공지능(AI)에 기반해 자율비행 기술을 개발하는...",
           "src": "데일리안",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/08",
           "url": "https://www.wikitree.co.kr/articles/1151219",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/08/202608082252173045_ai.jpeg"
-        },
-        {
-          "title": "AI 알고리즘이 예측한 엔비디아 8월 말 주가, 어디까지 오를까?",
-          "desc": "이번 예측에 활용된 핀볼드 AI 에이전트는 클로드 오퍼스 4.8, 제미나이 3.5 플래시, GPT-5.7 루나 등 다수의 인공지능 모델 예측값과 상대강도지수(RSI), 이동평균 수렴확산 지수(MACD) 등 주요 기술적 지표를 종합...",
-          "src": "coinreaders",
-          "date": "08/08",
-          "url": "http://coinreaders.com/251827",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202607/800_800_2026071323194634.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/08/08/p1065602261789733_352_thum.png"
     },
     {
+      "title": "‘EU 규제 정면 돌파’… 中 배터리, ‘제로 탄소 단지’로 글로벌 시장...",
+      "url": "https://www.g-enews.com/view.php?ud=2026080817350536620c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260808173616094110c8c1c064d22114611240.jpg"
+    },
+    {
       "title": "이번주 공모주 청약, 기도산업·니어스랩·해치텍 3개사",
       "url": "https://n.news.naver.com/mnews/article/119/0003119701?sid=101",
       "img": "https://cdnimage.dailian.co.kr/news/202607/news_1785492344_1673369_m_1.jpeg"
-    },
-    {
-      "title": "DL이앤씨, AI 활용 건설현장 안전관리 확대",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114935",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202608/114935_118958_86_v150.jpg"
     }
   ]
 };
