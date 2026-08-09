@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 07:48",
+  "updatedAt": "2026.08.09 (일) 11:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "폭염 속 100㎏ 장비 들고 섬으로…에어컨 AS 현장 가보니",
-          "desc": "35도를 웃도는 폭염 속에서 삼성전자서비스 김해중(57)·이례구(57) 엔지니어가 에어컨 실외기 앞에 섰다. 반팔... 주민들이 기다린 것은 시원한 바람이 아니라 폭염을 뚫고 배를 타고 들어온 '가전 주치의'였다. 폭염보다...",
-          "src": "뉴스1",
+          "title": "삼성전자, 美 연구소와 극저온 히트펌프 개발…글로벌 난방시장 공략",
+          "desc": "임성택 삼성전자 생활가전(DA)사업부 부사장은 \"이번 협업은 실제 극저온 환경에서 삼성의 고효율 기술과 제품 신뢰성을 입증하는 중요한 계기가 될 것\"이라며 \"연구 데이터를 바탕으로 탄소 배출을 줄이면서도 성능과...",
+          "src": "파이낸셜뉴스",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/421/0009103845?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046293/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005558907?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/09/202608091028246088_l.jpg"
         },
         {
           "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "월드컵·냉방가전도 안 통했다…방문 횟수 집중하는 가전 양판점",
-          "desc": "가전 유통업계의 수익성 악화는 롯데하이마트만의 문제가 아니다. 삼성스토어를 운영하는 삼성전자판매의 지난해 영업이익은 92억 원으로 전년 대비 24% 감소했다. LG전자 베스트샵 운영사 하이프라자의 영업이익도 243억...",
-          "src": "뉴스1",
+          "title": "[폭염 뉴노멀: 바뀌는 산업안전①]AI가 체감온도 읽고, 작업 멈춘다…기...",
+          "desc": "삼성전자는 기후변화와 에너지 수급 불확실성이 생산과 공급망 전반에 영향을 미치는 핵심 위험요인이라고... HD현대삼호와 HD현대중공업은 이동식 냉방쉼터와 이동식 에어컨, 휴게시설을 확대했고, 현대제철은 냉장고...",
+          "src": "아이뉴스24",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/421/0009103843?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/5/8042915/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001048234?sid=101",
+          "img": "https://image.inews24.com/v1/04ead18da4e8fe.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "게이트 덱스빌더, 이벤트 컨트랙트 빌더 출시하며 그랜트 300만 달러 푼...",
-          "desc": "포함된다.활용 시나리오도 다양하게 설정됐다. 암호화폐 자산, 스포츠 이벤트, 이스포츠, 매크로 경제, AI... Reserves)을 도입한 플랫폼으로 꼽힌다는 설명도 곁들였다. 게이트 지갑, 게이트 벤처스, 게이트 포 AI 에이전트...",
-          "src": "wikitree",
+          "title": "롯데마트, 2000억 AI 물류센터 가동…1조 오카도 프로젝트 시험대",
+          "desc": "롯데마트는 오카도의 자동화와 수요예측 기술을 활용해 이 같은 온라인 장보기의 한계를 줄이고 배송... 선호도를 AI로 분석해 개인별 상품을 추천하고 상품별 소비기한을 사전에 확인할 수 있는 기능도 도입됐다....",
+          "src": "4th",
           "date": "08/09",
-          "url": "https://www.wikitree.co.kr/articles/1151269",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608090630086497_coin.jpeg"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2116031",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116031_213029_2126_v150.jpg"
         },
         {
-          "title": "AI 학과 늘리기만으론 부족…\"모든 전공에 AI 역량 심어야\"",
-          "desc": "AI·컴퓨팅 활용 능력을 함께 갖춘 인재를 양성하는 데 초점 맞췄다. 푸단대는 AI 기초부터 핵심기술, 학제... 평가'를 도입하고 있다. 학생이 어떤 오류를 발견했고 어떤 전공지식을 근거로 결과를 보완했는지 등 사고...",
-          "src": "ZDNet코리아",
+          "title": "베일 벗은 2000억 '비밀병기'··· 롯데마트, '오카도' 업고 이커머스 ...",
+          "desc": "시스템 도입으로 하루 3만3000건가량의 주문을 수행할 수 있게 됐다\"며 \"최첨단 물류 기술과 롯데의 신선식품... 기술이 탑재된 로봇 팔 'OGRP(On Grid Robotic Pick)'는 딜리버리 토트를 정확히 인식하고, 지능형 센서를 활용해...",
+          "src": "sisajournal-e",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/092/0002433397?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/08/d156870c0445a1e8195e413c2aaf88da.png"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422954",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/422954_238168_632_v150.jpg"
         },
         {
-          "title": "中, 99% 순도 마름모 그래핀 합성…양자칩 대량생산 길 열렸다",
-          "desc": "제작에 활용할 수 있다. 연구팀은 개별 그래핀 조각을 정밀하게 이어 붙여 면적을 넓히는 후속 연구를 진행 중이다. 허페이 변전소 양자 센서 도입…전력망 정전 예방 중국은 기간망 시설에 양자 기술을 직접 접목하는...",
-          "src": "g-enews",
+          "title": "지방공기업 경영평가 5위서 1위 수직 상승…경기관광공사 '체질 개선' 통...",
+          "desc": "국내 최초로 외국인 여행자를 대상으로 무료 안전보험 서비스를 도입하고 'The Real Korea Gyeonggi' 웰컴... 디지털 기술을 관광서비스와 업무에 접목하는 작업도 이어졌다. 빅데이터와 AI 챗봇 '하이GT'를 활용해 관광정보...",
+          "src": "asiatoday",
           "date": "08/09",
-          "url": "https://www.g-enews.com/view.php?ud=202608090654516834fbbec65dfb_1",
-          "img": ""
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002634",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/09d/2026080901000479200026341.jpg"
         },
         {
-          "title": "공장 로봇의 '두뇌'를 잡아라…IT서비스, 피지컬 AI 경쟁",
-          "desc": "단순히 로봇을 도입하는 데 그치지 않고 생산계획과 설비 상태, 물류 흐름을 분석해 적절한 로봇에 작업을... 크레인과 항만 하역기, 원료를 운반하는 리클레이머 등에 영상인식 AI와 정밀 위치제어 기술을 적용하고...",
-          "src": "뉴시스",
+          "title": "제주, 남는 재생에너지로 AI 돌린다… 40㎿ '그린 데이터센터' 승부수",
+          "desc": "제주에서 남는 재생에너지 전력을 인공지능(AI) 연산에 활용하는 40㎿ 규모 '그린 AI 데이터센터' 구상이... 제주도는 지역 대학과 과학기술 연구기관, 산업계를 데이터센터와 연결해 AI 기술과 개별 산업의 전문지식을...",
+          "src": "파이낸셜뉴스",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/003/0014115876?sid=105",
-          "img": "https://img1.newsis.com/2025/12/31/NISI20251231_0002031081_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005558909?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2025/12/23/202512230936140124_l.JPG"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "꿈의 영업이익률 20%를 넘은 TK 반도체 3사…지역 경제 생태계 바꾸나",
+          "desc": "3%, 전자부품(13개사) 8.1%, 식품·음료(3개사) 7.5%, 에너지·가스(2개사) 5.9%, 자동차부품(17개사) 4.2% 등의... 어플라이드 머티어리얼즈와 비슷한 수준이다.씨엠티엑스는 국내에서 유일하게 TSMC 1차 협력사 지위를 확보했고...",
+          "src": "yeongnam",
+          "date": "08/09",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260809028030515",
+          "img": "https://www.yeongnam.com/mnt/thum/202608/news-a.v1.20260806.a320a1455c8a47f08909a0b9d317d071_T1.jpg"
+        },
         {
           "title": "1500억 수주 따내고도 '쉬쉬'…소부장 업계의 속사정",
           "desc": "반도체 업황이 회복되면서 대기업들이 보안을 이유로 협력사에 “우리와 거래했다는 사실을 외부에 알리지... 국내 증시에서 자금이 삼성전자와 SK하이닉스 등 대형 반도체주로 집중되면서 코스닥 시장에 포진한 상당수...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/07",
           "url": "https://www.naeil.com/news/read/598028?ref=naver",
           "img": "https://wimg.naeil.com/paper/2026/08/07/20260807_01100108000001_L01.jpg"
-        },
-        {
-          "title": "용인 반도체 산업단지 첫 민간분양… 차별화 설계 갖춘 신규 아파트 공...",
-          "desc": "분양가상한제가 적용되는 희소성 높은 신규 공급으로, SK하이닉스와 삼성전자가 추진 중인 약 960조원 규모... SK하이닉스 협력사가 입주를 위해 부지를 분양받은 것으로 알려졌다. 반도체 클러스터 조성과 함께 '반도체...",
-          "src": "ikld",
-          "date": "08/07",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=338592",
-          "img": "http://www.ikld.kr/news/thumbnail/202608/338592_185517_2415_v150.jpg"
         }
       ]
     },
@@ -170,16 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "폭염 속 100㎏ 장비 들고 섬으로…에어컨 AS 현장 가보니",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103845?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/7/8046293/high.jpg"
+      "title": "삼성전자, 美 연구소와 극저온 히트펌프 개발…글로벌 난방시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/014/0005558907?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/09/202608091028246088_l.jpg"
     },
     {
       "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "월드컵·냉방가전도 안 통했다…방문 횟수 집중하는 가전 양판점",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103843?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/5/8042915/high.jpg"
+      "title": "[폭염 뉴노멀: 바뀌는 산업안전①]AI가 체감온도 읽고, 작업 멈춘다…기...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001048234?sid=101",
+      "img": "https://image.inews24.com/v1/04ead18da4e8fe.jpg"
     },
     {
-      "title": "게이트 덱스빌더, 이벤트 컨트랙트 빌더 출시하며 그랜트 300만 달러 푼...",
-      "url": "https://www.wikitree.co.kr/articles/1151269",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608090630086497_coin.jpeg"
+      "title": "롯데마트, 2000억 AI 물류센터 가동…1조 오카도 프로젝트 시험대",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116031",
+      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116031_213029_2126_v150.jpg"
     },
     {
-      "title": "AI 학과 늘리기만으론 부족…\"모든 전공에 AI 역량 심어야\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002433397?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/08/08/d156870c0445a1e8195e413c2aaf88da.png"
+      "title": "베일 벗은 2000억 '비밀병기'··· 롯데마트, '오카도' 업고 이커머스 ...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422954",
+      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/422954_238168_632_v150.jpg"
     }
   ]
 };
