@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 22:17",
+  "updatedAt": "2026.08.09 (일) 23:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "“AI가 박스 집고, 무인지게차가 운송”…육군 군수지원도 로봇 활용 ‘...",
+          "desc": "AI를 활용해 군수지원 소요를 예측하고 로봇 기반 자동화 물류를 확대한다. 정비 분야에는 AI·빅데이터·로봇 기술을 접목한 스마트팩토리를 도입해 장비 상태를 실시간 분석하고 고장을 예측하는 상태기반 정비체계로...",
+          "src": "munhwa",
+          "date": "08/09",
+          "url": "https://n.news.naver.com/mnews/article/021/0002810168?sid=100",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/09/news-p.v1.20260809.44b714bbbd51477090706a105aedf692_R.jpg"
+        },
+        {
+          "title": "어도비, 포토샵·프리미어 등 70여 개 도구 챗GPT서 무료 개방",
+          "desc": "이용자는 로그인 없이 게스트 상태로도 기본 편집, 템플릿 활용, 문서 작업 등을 이용할 수 있다. 무료... 그런데 캔바 역시 생성형 AI 기능을 적극 도입하는 과정에서 기업용 구독료를 최대 300%까지 인상해 가격...",
+          "src": "wikitree",
+          "date": "08/09",
+          "url": "https://www.wikitree.co.kr/articles/1151351",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608092250160424_ai.jpeg"
+        },
+        {
           "title": "포항에 '철강산업 AI 융합 실증센터' 조성",
           "desc": "경북도는 포항에 철강 AI 융합 실증센터를 조성하고 철강기업의 AI 도입과 실증을 지원해 철강산업의... 운영기술을 고도화하고 향후 철강 특화 AI 모델 개발의 기반으로 활용할 방침이다. 철강기업과 AI 기업...",
           "src": "idaegu",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/09",
           "url": "https://www.cstimes.com/news/articleView.html?idxno=716163",
           "img": "https://www.cstimes.com/news/photo/202608/716163_636503_3751.jpg"
-        },
-        {
-          "title": "충북교육연구정보원 영재교육원…SW·AI분야 영재 조기 발굴",
-          "desc": "우선 학생들이 최신 기술과 지식을 습득할 수 있도록 AI 알고리즘, 데이터 분석, 그리고 자료 구조화와 같은 내용들을 교육하는 데 강화하고 있고, 실습 중심의 프로젝트 기반 학습을 도입해서 학생들이 실제 문제를...",
-          "src": "nocutnews",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/079/0004176892?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/09/202608092058406922_0.jpg"
-        },
-        {
-          "title": "도심에 초대형 숲…'중국 실리콘밸리'는 변신 중",
-          "desc": "이제는 이 첨단 기업들이 가진 기술을 활용해 환경을 지키는 데에도 앞장서고 있습니다. 그 현장을 한상우... 2035년까지 '탄소 중립 도시'를 목표로 전기차를 도입하는 데는 전기차 업체 BYD가 나섰습니다. [니핑/선전시...",
-          "src": "news",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/055/0001379262?sid=104",
-          "img": "https://img.sbs.co.kr/newimg/news/20260809/202210624_1280.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "포항에 '철강산업 AI 융합 실증센터' 조성",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=556241",
-      "img": "https://cdn.idaegu.co.kr/news/photo/202608/556241_250766_541.jpg"
+      "title": "“AI가 박스 집고, 무인지게차가 운송”…육군 군수지원도 로봇 활용 ‘...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002810168?sid=100",
+      "img": "https://wimg.munhwa.com/news/cms/2026/08/09/news-p.v1.20260809.44b714bbbd51477090706a105aedf692_R.jpg"
     },
     {
-      "title": "\"대내외 소통 강화\" 건보공단, 생성형 AI 활용 '홍보 영상·콘텐츠' 자체...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=716163",
-      "img": "https://www.cstimes.com/news/photo/202608/716163_636503_3751.jpg"
+      "title": "어도비, 포토샵·프리미어 등 70여 개 도구 챗GPT서 무료 개방",
+      "url": "https://www.wikitree.co.kr/articles/1151351",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608092250160424_ai.jpeg"
     }
   ]
 };
