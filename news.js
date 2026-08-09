@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 14:19",
+  "updatedAt": "2026.08.09 (일) 16:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 알래스카서 차세대 난방기술 개발한다",
-          "desc": "임성택 삼성전자 생활가전(DA) 사업부 부사장은 “실제 극저온 환경에서 고효율 기술과 기기 신뢰성을 입증하고 탄소 배출을 줄이면서 성능과 에너지 효율을 높인 히트펌프 제품을 글로벌 시장에 선보이겠다”고 말했다.",
-          "src": "서울경제",
+          "title": "가전 패러다임 바뀐다…파나소닉도 구독사업",
+          "desc": "업계 선두주자 삼성전자·LG전자가 가전 구독 사업을 강화하는 가운데 일본 파나소닉도 구독 시장 경쟁에 새롭게 참전했다. 가전 수요 둔화에 대응해 서비스·플랫폼 분야로 사업 체질을 개선하려는 포석으로 한국은 물론...",
+          "src": "전자신문",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/011/0004649908?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260809.7ab481669195432ba851a72c8362cb0a_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003455503?sid=105",
+          "img": ""
         },
         {
-          "title": "스마트홈 패권 전쟁, 전장은 아파트",
-          "desc": "두 회사는 지난 4월부터 로봇 친화형 아파트 공동 개발에 나서 설계기준 마련 등을 진행하고 있다. 한편 가전업계 라이벌이자 글로벌 AI 선도기업인 삼성전자는 래미안 아파트를 짓는 삼성물산과 AI홈 개발에 협력 중이다....",
-          "src": "hapt",
-          "date": "08/08",
-          "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
-          "img": "https://cdn.hapt.co.kr/news/photo/202608/169205_41611_4641.jpg"
+          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
+          "desc": "삼성전자는 2026년형 로봇청소기 '비스포크 AI 스팀'의 글로벌 출시 시점을 확정하지 않고 있다. 2월 출시 이후 하반기에도 출시 시점을 명시하지 않고 있다. 삼성전자 관계자는 “전략 재편에 따라 당분간 국내 시장에...",
+          "src": "전자신문",
+          "date": "08/09",
+          "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+          "img": ""
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "[폭염 뉴노멀: 바뀌는 산업안전①]AI가 체감온도 읽고, 작업 멈춘다…기...",
-          "desc": "삼성전자는 기후변화와 에너지 수급 불확실성이 생산과 공급망 전반에 영향을 미치는 핵심 위험요인이라고... HD현대삼호와 HD현대중공업은 이동식 냉방쉼터와 이동식 에어컨, 휴게시설을 확대했고, 현대제철은 냉장고...",
-          "src": "아이뉴스24",
+          "title": "[ET시론] 피지컬 AI 향한 '제조강국' 한국의 로봇 승부수",
+          "desc": "최근 삼성전자가 로봇 사업 전담 조직을 신설하고 약 60조원 규모의 투자 구상을 가시화한 데 이어... 나아가 가전, 유통, 재난 구호 등 전 산업 영역으로 확산되어 산업 지형 자체를 혁신적으로 바꿀 것이다. 미국의 SW...",
+          "src": "전자신문",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/031/0001048234?sid=101",
-          "img": "https://image.inews24.com/v1/04ead18da4e8fe.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003455501?sid=105",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] “애플, 엑스코드 문 열었다”…타사 AI 품은 개발 생태계",
-          "desc": "최신 AI 기술을 십분 활용한 훌륭한 사례”라고 설명했다. 소통 강화와 차세대 인재 양성에 대한 강력한... API’도 도입했다. 애플은 2025년 한 해 동안 910만건 이상의 앱 제출을 심사해 22억달러 규모의 사기 의심 거래를...",
-          "src": "이데일리",
+          "title": "대하드라마도 AI로 만든다, KBS '문무' 전쟁·화재 장면 AI로 제작",
+          "desc": "뉴스와 내레이션 분야에도 AI 음성이 도입된다. KBS는 아나운서 10여 명이 자신의 목소리를 AI 음성 합성 기술 개발과 활용에 쓰는 데 동의했다며, 이를 통해 표준 한국어 발음을 갖춘 AI 음성이 라디오 뉴스와 각종...",
+          "src": "mediatoday",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/018/0006348079?sid=103",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900336.jpg"
+          "url": "https://n.news.naver.com/mnews/article/006/0000137119?sid=103",
+          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336315_481922_518_v150.jpg"
         },
         {
-          "title": "품절·오배송 잡는다…롯데마트 ‘AI 로봇 1000대’ 부산 총출동",
-          "desc": "프리저'를 도입했다. 영하 25도 환경에서 작업자 개입을 최소화하면서 냉동 상품을 자동으로 이동시킬 수 있는 시스템이다. 배송 과정에서도 AI 기술을 활용한다. AI 기반 배차 알고리즘이 실시간 도로 상황을 반영해...",
-          "src": "megaeconomy",
+          "title": "클라우드플레어, 직원·AI 에이전트별 사용 현황 실시간 파악하는 '신원...",
+          "desc": "최고기술책임자(CTO)는 \"보안 절차가 번거로우면 혁신의 속도를 늦추는 걸림돌이 된다\"며 \"클라우드플레어의 액세스 제어 기능을 AI 게이트웨이와 직접 연결하면 각 팀은 원하는 AI 모델을 자유롭게 활용할 수 있고 IT...",
+          "src": "hellot",
           "date": "08/09",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589259478311",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260809/p1065589259478311_645_thum.JPG"
+          "url": "https://www.hellot.net/news/article.html?no=114239",
+          "img": "https://www.hellot.net/data/photos/20260832/art_17862593809641_934faa.jpg"
         },
         {
-          "title": "삼성전자 'TV·냉난방공조·의료기기' 생태계 확장 '잰걸음'",
-          "desc": "어드밴스드를 도입했다. HDR10플러스 어드밴스드는 ▲인핸스드 브라이트니스 ▲지능형 모션 보정이 특징이다. 인핸스드 브라이트니스는 최적 화면 밝기 정보와 인공지능(AI) 기반 '톤 매핑' 기술을 활용했다. 밝은...",
-          "src": "테크M",
+          "title": "블룸버그 “AI가 한국 직업·연애·문화 재편…반도체 직원이 신흥 엘리...",
+          "desc": "한국은행도 기술 발전과 증시 상승, AI의 이익이 고소득층에 편중됐다고 경고했다. 김용범 대통령실... 생성형 AI를 활용한다. 정식 교육을 받지 않은 채 AI 영화 제작에 뛰어든 오 모씨는 “현재 영상 생성 플랫폼...",
+          "src": "이투데이",
           "date": "08/09",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=154125",
-          "img": "https://cdn.techm.kr/news/thumbnail/202608/154125_218096_3733_v150.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2612479",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260809160249_2370584_1200_800.jpg"
         },
         {
-          "title": "\"청춘에게 하고픈 말 담았죠\"…SKB가 청소년 음악제 여는 이유",
-          "desc": "예심에는 인공지능(AI) 심사가 도입됐다. 1차는 심사위원단이 지원자 전원의 영상으로 음정·박자·발성 등... 2차에서는 AI 심사 에이전트의 다중 분석 기술을 활용해 정밀 평가를 진행했다. 본선에 오른 8팀은 지난 7월...",
-          "src": "디지털데일리",
+          "title": "[정유신의 핀테크스토리]조각 투자 성공, 발행보다 유통에 달렸다",
+          "desc": "조각 투자와 토큰 증권의 경쟁력은 발행 기술보다 신뢰할 수 있는 가격과 지속 가능한 출구를 제공하는 시장구조에서 결정된다는 생각이다. 서강대학교 경영학과 교수 겸 AI디지털경제금융포럼 의장 정유신",
+          "src": "전자신문",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237119?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/09/2026080913251691792_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003455502?sid=110",
+          "img": ""
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "이데일리",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/018/0006275897?sid=101",
-          "img": ""
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/05/PS26050801678.jpg"
         },
         {
           "title": "페스카로, JS오토모티브 인수…'사이버보안·전장·생산' 밸류체인 확보",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 알래스카서 차세대 난방기술 개발한다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649908?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260809.7ab481669195432ba851a72c8362cb0a_R.jpg"
-    },
-    {
-      "title": "스마트홈 패권 전쟁, 전장은 아파트",
-      "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169205",
-      "img": "https://cdn.hapt.co.kr/news/photo/202608/169205_41611_4641.jpg"
-    },
-    {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
       "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "[폭염 뉴노멀: 바뀌는 산업안전①]AI가 체감온도 읽고, 작업 멈춘다…기...",
-      "url": "https://n.news.naver.com/mnews/article/031/0001048234?sid=101",
-      "img": "https://image.inews24.com/v1/04ead18da4e8fe.jpg"
+      "title": "대하드라마도 AI로 만든다, KBS '문무' 전쟁·화재 장면 AI로 제작",
+      "url": "https://n.news.naver.com/mnews/article/006/0000137119?sid=103",
+      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336315_481922_518_v150.jpg"
     },
     {
-      "title": "[인터뷰] “애플, 엑스코드 문 열었다”…타사 AI 품은 개발 생태계",
-      "url": "https://n.news.naver.com/mnews/article/018/0006348079?sid=103",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900336.jpg"
+      "title": "클라우드플레어, 직원·AI 에이전트별 사용 현황 실시간 파악하는 '신원...",
+      "url": "https://www.hellot.net/news/article.html?no=114239",
+      "img": "https://www.hellot.net/data/photos/20260832/art_17862593809641_934faa.jpg"
     },
     {
-      "title": "품절·오배송 잡는다…롯데마트 ‘AI 로봇 1000대’ 부산 총출동",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589259478311",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260809/p1065589259478311_645_thum.JPG"
+      "title": "블룸버그 “AI가 한국 직업·연애·문화 재편…반도체 직원이 신흥 엘리...",
+      "url": "https://www.etoday.co.kr/news/view/2612479",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260809160249_2370584_1200_800.jpg"
+    },
+    {
+      "title": "\"AI 다음 대세라더니 물렸다\"…줄폭락에 개미들 '눈물' [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318791?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/99.44909238.1.jpg"
+    },
+    {
+      "title": "꿈의 영업이익률 20%를 넘은 TK 반도체 3사…지역 경제 생태계 바꾸나",
+      "url": "https://www.yeongnam.com/web/view.php?key=20260809028030515",
+      "img": "https://www.yeongnam.com/mnt/thum/202608/news-a.v1.20260806.a320a1455c8a47f08909a0b9d317d071_T1.jpg"
     }
   ]
 };
