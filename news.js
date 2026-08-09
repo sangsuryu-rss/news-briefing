@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 16:18",
+  "updatedAt": "2026.08.09 (일) 18:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "가전 패러다임 바뀐다…파나소닉도 구독사업",
-          "desc": "업계 선두주자 삼성전자·LG전자가 가전 구독 사업을 강화하는 가운데 일본 파나소닉도 구독 시장 경쟁에 새롭게 참전했다. 가전 수요 둔화에 대응해 서비스·플랫폼 분야로 사업 체질을 개선하려는 포석으로 한국은 물론...",
-          "src": "전자신문",
+          "title": "\"이상기후가 기회\"… 냉난방 키우는 삼성·LG",
+          "desc": "삼성전자와 LG전자 모두 냉방가전 판매가 급증한 가운데 히트펌프 등 친환경 공조 사업에 두 회사 모두 집중하는 모습이다. 9일 전자업계에 따르면 올여름 전국적인 폭염과 열대야가 장기간 이어지면서 에어컨 교체...",
+          "src": "매일경제",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455503?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/009/0005718611?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/10/20260810_01110113000003_L00.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
         },
         {
-          "title": "[ET시론] 피지컬 AI 향한 '제조강국' 한국의 로봇 승부수",
-          "desc": "최근 삼성전자가 로봇 사업 전담 조직을 신설하고 약 60조원 규모의 투자 구상을 가시화한 데 이어... 나아가 가전, 유통, 재난 구호 등 전 산업 영역으로 확산되어 산업 지형 자체를 혁신적으로 바꿀 것이다. 미국의 SW...",
-          "src": "전자신문",
+          "title": "70년 국밥배당까지 끊겼다…주가 80% 폭락한 거인 [오찬종의 매일뉴욕]",
+          "desc": "불과 2006년까지만 해도 백년 숙적이던 라이벌 기업 ‘메이태그(Maytag)’까지 전격 인수하며 미국 세탁기 시장... 2010년대 들어 뛰어난 품질과 혁신적인 기능을 앞세운 삼성전자와 LG전자가 미국 시장을 거세게 공략해...",
+          "src": "매일경제",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455501?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/009/0005718603?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대하드라마도 AI로 만든다, KBS '문무' 전쟁·화재 장면 AI로 제작",
-          "desc": "뉴스와 내레이션 분야에도 AI 음성이 도입된다. KBS는 아나운서 10여 명이 자신의 목소리를 AI 음성 합성 기술 개발과 활용에 쓰는 데 동의했다며, 이를 통해 표준 한국어 발음을 갖춘 AI 음성이 라디오 뉴스와 각종...",
-          "src": "mediatoday",
+          "title": "[르포]\"뭐라고 물어봐야 하죠?\"…AI 시대, 교실은 '질문하는 힘'을 키운...",
+          "desc": "어려운 기술 자체를 익히는 데 초점을 맞추기보다 데이터를 통해 무엇을 발견하고 다른 과목과 어떻게 연결할지를 고민하게 하는 방식이다.다만 AI 활용 능력에 따른 격차와 과의존은 새로운 고민거리다. 서 교사는 \"어떤...",
+          "src": "asiatoday",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/006/0000137119?sid=103",
-          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336315_481922_518_v150.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002615",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/10d/2026080901000475800026151.jpg"
         },
         {
-          "title": "클라우드플레어, 직원·AI 에이전트별 사용 현황 실시간 파악하는 '신원...",
-          "desc": "최고기술책임자(CTO)는 \"보안 절차가 번거로우면 혁신의 속도를 늦추는 걸림돌이 된다\"며 \"클라우드플레어의 액세스 제어 기능을 AI 게이트웨이와 직접 연결하면 각 팀은 원하는 AI 모델을 자유롭게 활용할 수 있고 IT...",
-          "src": "hellot",
+          "title": "솔라나, 네트워크 업그레이드 및 토큰 경제 개편으로 생태계 강화",
+          "desc": "한국 KSNET과 협력, 33만 가맹점에서 솔라나 페이 도입 추진 솔라나 재단은 실물 경제와의 접점을... 이는 전통 금융기관이 솔라나를 자산 발행 플랫폼으로 활용하기 시작했음을 시사한다. 기술적 지표는 강세...",
+          "src": "tokenpost",
           "date": "08/09",
-          "url": "https://www.hellot.net/news/article.html?no=114239",
-          "img": "https://www.hellot.net/data/photos/20260832/art_17862593809641_934faa.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/387199",
+          "img": "https://f1.tokenpost.kr/2026/08/uh8xxklgmo.png"
         },
         {
-          "title": "블룸버그 “AI가 한국 직업·연애·문화 재편…반도체 직원이 신흥 엘리...",
-          "desc": "한국은행도 기술 발전과 증시 상승, AI의 이익이 고소득층에 편중됐다고 경고했다. 김용범 대통령실... 생성형 AI를 활용한다. 정식 교육을 받지 않은 채 AI 영화 제작에 뛰어든 오 모씨는 “현재 영상 생성 플랫폼...",
-          "src": "이투데이",
+          "title": "“글로벌 M&A·마진콜 대응에 강점…美 독립기념일에도 송금” [리빌딩...",
+          "desc": "결제 기술의 도입 장벽을 크게 낮춘다”고 설명했다. 기존 국가 간 송금은 통상 송금 은행과 중개 은행, 수취... 전 세계 90개국 이상에 진출해 있는 글로벌 네트워크를 바탕으로 씨티는 CTS의 지원 시장과 통화, 활용 사례를...",
+          "src": "서울경제",
           "date": "08/09",
-          "url": "https://www.etoday.co.kr/news/view/2612479",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260809160249_2370584_1200_800.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004649967?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260806.dfa798385b5f411fbe8c2abdb13fd96a_R.jpg"
         },
         {
-          "title": "[정유신의 핀테크스토리]조각 투자 성공, 발행보다 유통에 달렸다",
-          "desc": "조각 투자와 토큰 증권의 경쟁력은 발행 기술보다 신뢰할 수 있는 가격과 지속 가능한 출구를 제공하는 시장구조에서 결정된다는 생각이다. 서강대학교 경영학과 교수 겸 AI디지털경제금융포럼 의장 정유신",
-          "src": "전자신문",
+          "title": "조국, 김정관 장관 겨냥 “‘996 노동제’ 반인권적·시대착오적”",
+          "desc": "제도를 활용하고 있다”며 “현재 우리나라 반도체 기업들이 역대급 이익을 내고 있음은 주지의 사실”... “무엇보다 AI 시대에 한국 미래 산업을 선도해야 할 산업통상부 장관이 ‘장시간 노동이 곧 기술 혁신과 생산성...",
+          "src": "이데일리",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455502?sid=110",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/018/0006348340?sid=100",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900666.jpg"
         }
       ]
     },
@@ -170,41 +170,41 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "\"이상기후가 기회\"… 냉난방 키우는 삼성·LG",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718611?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/10/20260810_01110113000003_L00.jpg"
+    },
+    {
+      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+    },
+    {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
       "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
       "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
     },
     {
-      "title": "대하드라마도 AI로 만든다, KBS '문무' 전쟁·화재 장면 AI로 제작",
-      "url": "https://n.news.naver.com/mnews/article/006/0000137119?sid=103",
-      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336315_481922_518_v150.jpg"
+      "title": "70년 국밥배당까지 끊겼다…주가 80% 폭락한 거인 [오찬종의 매일뉴욕]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718603?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "클라우드플레어, 직원·AI 에이전트별 사용 현황 실시간 파악하는 '신원...",
-      "url": "https://www.hellot.net/news/article.html?no=114239",
-      "img": "https://www.hellot.net/data/photos/20260832/art_17862593809641_934faa.jpg"
+      "title": "[르포]\"뭐라고 물어봐야 하죠?\"…AI 시대, 교실은 '질문하는 힘'을 키운...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002615",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/10d/2026080901000475800026151.jpg"
     },
     {
-      "title": "블룸버그 “AI가 한국 직업·연애·문화 재편…반도체 직원이 신흥 엘리...",
-      "url": "https://www.etoday.co.kr/news/view/2612479",
-      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260809160249_2370584_1200_800.jpg"
-    },
-    {
-      "title": "\"AI 다음 대세라더니 물렸다\"…줄폭락에 개미들 '눈물' [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318791?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/99.44909238.1.jpg"
-    },
-    {
-      "title": "꿈의 영업이익률 20%를 넘은 TK 반도체 3사…지역 경제 생태계 바꾸나",
-      "url": "https://www.yeongnam.com/web/view.php?key=20260809028030515",
-      "img": "https://www.yeongnam.com/mnt/thum/202608/news-a.v1.20260806.a320a1455c8a47f08909a0b9d317d071_T1.jpg"
+      "title": "솔라나, 네트워크 업그레이드 및 토큰 경제 개편으로 생태계 강화",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/387199",
+      "img": "https://f1.tokenpost.kr/2026/08/uh8xxklgmo.png"
     }
   ]
 };
