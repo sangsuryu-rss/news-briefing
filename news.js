@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 23:54",
+  "updatedAt": "2026.08.10 (월) 01:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+          "img": ""
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“AI가 박스 집고, 무인지게차가 운송”…육군 군수지원도 로봇 활용 ‘...",
-          "desc": "AI를 활용해 군수지원 소요를 예측하고 로봇 기반 자동화 물류를 확대한다. 정비 분야에는 AI·빅데이터·로봇 기술을 접목한 스마트팩토리를 도입해 장비 상태를 실시간 분석하고 고장을 예측하는 상태기반 정비체계로...",
-          "src": "munhwa",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/021/0002810168?sid=100",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/09/news-p.v1.20260809.44b714bbbd51477090706a105aedf692_R.jpg"
+          "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
+          "desc": "이를 바탕으로 센터에서는 AI 로봇과 시스템을 활용해 주문 상품을 직접 집고 포장하며 소비자가 원하는... 동시에 AI와 자동화 기술을 도입하면서 품질 관리 역량과 배송 속도를 강화해 '장보기'를 혁신하겠다는 의지를...",
+          "src": "pointdaily",
+          "date": "08/10",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
         },
         {
-          "title": "어도비, 포토샵·프리미어 등 70여 개 도구 챗GPT서 무료 개방",
-          "desc": "이용자는 로그인 없이 게스트 상태로도 기본 편집, 템플릿 활용, 문서 작업 등을 이용할 수 있다. 무료... 그런데 캔바 역시 생성형 AI 기능을 적극 도입하는 과정에서 기업용 구독료를 최대 300%까지 인상해 가격...",
-          "src": "wikitree",
-          "date": "08/09",
-          "url": "https://www.wikitree.co.kr/articles/1151351",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608092250160424_ai.jpeg"
+          "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
+          "desc": "● AI가 유발한 인지적 피로 200명 규모의 한 기술 기업을 관찰한 버클리 캘리포니아대 하스경영대학원... BCG 조사 결과, AI를 활용하는 근로자 일곱 명 중 한 명(14%)이 브레인 프라이를 호소했고, 마케팅 직군에서는 그...",
+          "src": "동아일보",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
         },
         {
-          "title": "포항에 '철강산업 AI 융합 실증센터' 조성",
-          "desc": "경북도는 포항에 철강 AI 융합 실증센터를 조성하고 철강기업의 AI 도입과 실증을 지원해 철강산업의... 운영기술을 고도화하고 향후 철강 특화 AI 모델 개발의 기반으로 활용할 방침이다. 철강기업과 AI 기업...",
-          "src": "idaegu",
-          "date": "08/09",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=556241",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202608/556241_250766_541.jpg"
+          "title": "소변 몇 방울로 10초면 끝… 1000원대 ‘마약 검사키트’ 나온다",
+          "desc": "● 빠른 임상·인증이 키트 조기 도입 핵심 원천 기술 연구자의 의지만으로는 상용 키트의 보급 시점을... 마약을 포획해 뇌로 이동하거나 수용체에 결합하는 것을 차단하는 치료제로도 활용할 수 있을 것”이라고 말했다.",
+          "src": "동아일보",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/020/0003739602?sid=105",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134443829.3.jpg"
         },
         {
-          "title": "\"대내외 소통 강화\" 건보공단, 생성형 AI 활용 '홍보 영상·콘텐츠' 자체...",
-          "desc": "AI 기술을 적용 중이다. 이를 통해 제작 효율성과 완성도를 동시에 끌어올리고 있다는 설명이다. 앞서 공단은 2025년부터 생성형 AI를 홍보물 제작에 도입해 왔으며, 최근에는 서울역 사이니지에 송출된 '2026년 달라지는...",
-          "src": "cstimes",
-          "date": "08/09",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=716163",
-          "img": "https://www.cstimes.com/news/photo/202608/716163_636503_3751.jpg"
+          "title": "애플, 중국 CXMT 칩 시험…美 규제 속 도입 검토",
+          "desc": "미국 정부가 중국 반도체 기업에 대한 규제를 강화하는 가운데 애플이 중국산 메모리 도입을 추진하면서... 기업의 기술 노하우와 자금을 활용해 경쟁력을 높일 수 있다고 우려한다. 특히 미국 메모리 업체 마이크론이...",
+          "src": "view",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/277/0005800661?sid=104",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080717125473759_1786090374.png"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
@@ -180,11 +180,6 @@ window.NEWS_DATA = {
       "title": "[트렌드 '요즘'] \"색깔·크기까지 내 맘대로\"…가전도 '맞춤 명품' 시대",
       "url": "https://n.news.naver.com/mnews/article/448/0000632454?sid=101",
       "img": "https://img.tvchosun.com/sitedata/image/202608/09/2026080990127_thumb.jpg"
-    },
-    {
-      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "“AI가 박스 집고, 무인지게차가 운송”…육군 군수지원도 로봇 활용 ‘...",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810168?sid=100",
-      "img": "https://wimg.munhwa.com/news/cms/2026/08/09/news-p.v1.20260809.44b714bbbd51477090706a105aedf692_R.jpg"
+      "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
     },
     {
-      "title": "어도비, 포토샵·프리미어 등 70여 개 도구 챗GPT서 무료 개방",
-      "url": "https://www.wikitree.co.kr/articles/1151351",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/09/202608092250160424_ai.jpeg"
+      "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
+    },
+    {
+      "title": "소변 몇 방울로 10초면 끝… 1000원대 ‘마약 검사키트’ 나온다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739602?sid=105",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134443829.3.jpg"
     }
   ]
 };
