@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 19:53",
+  "updatedAt": "2026.08.09 (일) 22:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
-          "desc": "전문가들은 미·중 AI 기술 격차가 과거 6~9개월에서 최근 2~3개월 수준까지 좁혀진 것으로 분석하고 있다.... 높은 활용성과 낮은 도입 장벽을 앞세워 기업 채택을 빠르게 확대하는 전략이다. 모델 확산은 AI 에이전트...",
-          "src": "디지털타임스",
+          "title": "포항에 '철강산업 AI 융합 실증센터' 조성",
+          "desc": "경북도는 포항에 철강 AI 융합 실증센터를 조성하고 철강기업의 AI 도입과 실증을 지원해 철강산업의... 운영기술을 고도화하고 향후 철강 특화 AI 모델 개발의 기반으로 활용할 방침이다. 철강기업과 AI 기업...",
+          "src": "idaegu",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/029/0003041449?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/09/rcv.YNA.20260726.PAP20260726154701009_R.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=556241",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202608/556241_250766_541.jpg"
         },
         {
-          "title": "포항 블루밸리 국가산단에 철강 AI 융합실증센터 조성",
-          "desc": "9일 경북도에 따르면, 포항에 철강 인공지능(AI) 융합 실증 센터 건설을 비롯, 철강기업의 AI 도입과 실증을... 운영기술을 고도화하고, 향후 철강 특화 AI 모델 개발의 기반으로 활용할 방침이다. 철강기업, AI 기업...",
-          "src": "dkilbo",
+          "title": "\"대내외 소통 강화\" 건보공단, 생성형 AI 활용 '홍보 영상·콘텐츠' 자체...",
+          "desc": "AI 기술을 적용 중이다. 이를 통해 제작 효율성과 완성도를 동시에 끌어올리고 있다는 설명이다. 앞서 공단은 2025년부터 생성형 AI를 홍보물 제작에 도입해 왔으며, 최근에는 서울역 사이니지에 송출된 '2026년 달라지는...",
+          "src": "cstimes",
           "date": "08/09",
-          "url": "https://www.dkilbo.com/news/articleView.html?idxno=550895",
-          "img": "https://www.dkilbo.com/image/logo/snslogo_20240502034458.png"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=716163",
+          "img": "https://www.cstimes.com/news/photo/202608/716163_636503_3751.jpg"
         },
         {
-          "title": "\"상장 자금 AI에 싣는다\"…케이뱅크, 송금부터 개발까지 ‘전면전’",
-          "desc": "반복적인 자료 탐색과 코딩에 드는 시간을 줄인 대신 서비스 설계와 기술 고도화에 집중할 수 있게 된... 최근 도입한 에이전틱 AI는 사용자가 제시한 목표를 바탕으로 필요한 단계를 스스로 설계하고 여러 도구를 활용해...",
-          "src": "디지털타임스",
+          "title": "충북교육연구정보원 영재교육원…SW·AI분야 영재 조기 발굴",
+          "desc": "우선 학생들이 최신 기술과 지식을 습득할 수 있도록 AI 알고리즘, 데이터 분석, 그리고 자료 구조화와 같은 내용들을 교육하는 데 강화하고 있고, 실습 중심의 프로젝트 기반 학습을 도입해서 학생들이 실제 문제를...",
+          "src": "nocutnews",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/029/0003041446?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/09/news-p.v1.20260804.8980515b42274ab08baa3af8fcbd6f72_R.png"
+          "url": "https://n.news.naver.com/mnews/article/079/0004176892?sid=102",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/09/202608092058406922_0.jpg"
         },
         {
-          "title": "[이슈포커스] '실전 검증'으로 체질 바꾼 K-방산… 영업이익 폭증에도 ...",
-          "desc": "산업연구원이 한국은행 산업연관표를 활용해 분석한 결과, 지난해 방산 수출 수주(22조 2,708억 원 기준)의... 이를 뒷받침할 금융·외교·기술이전 체계의 완성도, AI 및 무인체계 중심으로 재편되는 미래 전장으로의...",
-          "src": "sisacast",
+          "title": "도심에 초대형 숲…'중국 실리콘밸리'는 변신 중",
+          "desc": "이제는 이 첨단 기업들이 가진 기술을 활용해 환경을 지키는 데에도 앞장서고 있습니다. 그 현장을 한상우... 2035년까지 '탄소 중립 도시'를 목표로 전기차를 도입하는 데는 전기차 업체 BYD가 나섰습니다. [니핑/선전시...",
+          "src": "news",
           "date": "08/09",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98624",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/98624_107498_2053_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001379262?sid=104",
+          "img": "https://img.sbs.co.kr/newimg/news/20260809/202210624_1280.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
-      "url": "https://n.news.naver.com/mnews/article/029/0003041449?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/09/rcv.YNA.20260726.PAP20260726154701009_R.jpg"
+      "title": "포항에 '철강산업 AI 융합 실증센터' 조성",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=556241",
+      "img": "https://cdn.idaegu.co.kr/news/photo/202608/556241_250766_541.jpg"
     },
     {
-      "title": "포항 블루밸리 국가산단에 철강 AI 융합실증센터 조성",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=550895",
-      "img": "https://www.dkilbo.com/image/logo/snslogo_20240502034458.png"
+      "title": "\"대내외 소통 강화\" 건보공단, 생성형 AI 활용 '홍보 영상·콘텐츠' 자체...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=716163",
+      "img": "https://www.cstimes.com/news/photo/202608/716163_636503_3751.jpg"
     }
   ]
 };
