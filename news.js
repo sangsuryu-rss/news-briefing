@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.09 (일) 11:30",
+  "updatedAt": "2026.08.09 (일) 14:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 美 연구소와 극저온 히트펌프 개발…글로벌 난방시장 공략",
-          "desc": "임성택 삼성전자 생활가전(DA)사업부 부사장은 \"이번 협업은 실제 극저온 환경에서 삼성의 고효율 기술과 제품 신뢰성을 입증하는 중요한 계기가 될 것\"이라며 \"연구 데이터를 바탕으로 탄소 배출을 줄이면서도 성능과...",
-          "src": "파이낸셜뉴스",
+          "title": "삼성전자, 알래스카서 차세대 난방기술 개발한다",
+          "desc": "임성택 삼성전자 생활가전(DA) 사업부 부사장은 “실제 극저온 환경에서 고효율 기술과 기기 신뢰성을 입증하고 탄소 배출을 줄이면서 성능과 에너지 효율을 높인 히트펌프 제품을 글로벌 시장에 선보이겠다”고 말했다.",
+          "src": "서울경제",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/014/0005558907?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/09/202608091028246088_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004649908?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260809.7ab481669195432ba851a72c8362cb0a_R.jpg"
         },
         {
           "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "롯데마트, 2000억 AI 물류센터 가동…1조 오카도 프로젝트 시험대",
-          "desc": "롯데마트는 오카도의 자동화와 수요예측 기술을 활용해 이 같은 온라인 장보기의 한계를 줄이고 배송... 선호도를 AI로 분석해 개인별 상품을 추천하고 상품별 소비기한을 사전에 확인할 수 있는 기능도 도입됐다....",
-          "src": "4th",
+          "title": "[인터뷰] “애플, 엑스코드 문 열었다”…타사 AI 품은 개발 생태계",
+          "desc": "최신 AI 기술을 십분 활용한 훌륭한 사례”라고 설명했다. 소통 강화와 차세대 인재 양성에 대한 강력한... API’도 도입했다. 애플은 2025년 한 해 동안 910만건 이상의 앱 제출을 심사해 22억달러 규모의 사기 의심 거래를...",
+          "src": "이데일리",
           "date": "08/09",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2116031",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116031_213029_2126_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006348079?sid=103",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900336.jpg"
         },
         {
-          "title": "베일 벗은 2000억 '비밀병기'··· 롯데마트, '오카도' 업고 이커머스 ...",
-          "desc": "시스템 도입으로 하루 3만3000건가량의 주문을 수행할 수 있게 됐다\"며 \"최첨단 물류 기술과 롯데의 신선식품... 기술이 탑재된 로봇 팔 'OGRP(On Grid Robotic Pick)'는 딜리버리 토트를 정확히 인식하고, 지능형 센서를 활용해...",
-          "src": "sisajournal-e",
+          "title": "품절·오배송 잡는다…롯데마트 ‘AI 로봇 1000대’ 부산 총출동",
+          "desc": "프리저'를 도입했다. 영하 25도 환경에서 작업자 개입을 최소화하면서 냉동 상품을 자동으로 이동시킬 수 있는 시스템이다. 배송 과정에서도 AI 기술을 활용한다. AI 기반 배차 알고리즘이 실시간 도로 상황을 반영해...",
+          "src": "megaeconomy",
           "date": "08/09",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422954",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/422954_238168_632_v150.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589259478311",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260809/p1065589259478311_645_thum.JPG"
         },
         {
-          "title": "지방공기업 경영평가 5위서 1위 수직 상승…경기관광공사 '체질 개선' 통...",
-          "desc": "국내 최초로 외국인 여행자를 대상으로 무료 안전보험 서비스를 도입하고 'The Real Korea Gyeonggi' 웰컴... 디지털 기술을 관광서비스와 업무에 접목하는 작업도 이어졌다. 빅데이터와 AI 챗봇 '하이GT'를 활용해 관광정보...",
-          "src": "asiatoday",
+          "title": "삼성전자 'TV·냉난방공조·의료기기' 생태계 확장 '잰걸음'",
+          "desc": "어드밴스드를 도입했다. HDR10플러스 어드밴스드는 ▲인핸스드 브라이트니스 ▲지능형 모션 보정이 특징이다. 인핸스드 브라이트니스는 최적 화면 밝기 정보와 인공지능(AI) 기반 '톤 매핑' 기술을 활용했다. 밝은...",
+          "src": "테크M",
           "date": "08/09",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260809010002634",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/09d/2026080901000479200026341.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154125",
+          "img": "https://cdn.techm.kr/news/thumbnail/202608/154125_218096_3733_v150.jpg"
         },
         {
-          "title": "제주, 남는 재생에너지로 AI 돌린다… 40㎿ '그린 데이터센터' 승부수",
-          "desc": "제주에서 남는 재생에너지 전력을 인공지능(AI) 연산에 활용하는 40㎿ 규모 '그린 AI 데이터센터' 구상이... 제주도는 지역 대학과 과학기술 연구기관, 산업계를 데이터센터와 연결해 AI 기술과 개별 산업의 전문지식을...",
-          "src": "파이낸셜뉴스",
+          "title": "\"청춘에게 하고픈 말 담았죠\"…SKB가 청소년 음악제 여는 이유",
+          "desc": "예심에는 인공지능(AI) 심사가 도입됐다. 1차는 심사위원단이 지원자 전원의 영상으로 음정·박자·발성 등... 2차에서는 AI 심사 에이전트의 다중 분석 기술을 활용해 정밀 평가를 진행했다. 본선에 오른 8팀은 지난 7월...",
+          "src": "디지털데일리",
           "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/014/0005558909?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2025/12/23/202512230936140124_l.JPG"
+          "url": "https://n.news.naver.com/mnews/article/138/0002237119?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/09/2026080913251691792_l.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"AI 다음 대세라더니 물렸다\"…줄폭락에 개미들 '눈물' [분석+]",
+          "desc": "피지컬 AI의 '두뇌'로 평가한 삼성전자와 '몸통'인 현대차를 각각 25%씩 담는 ETF다. 나머지 절반은 로보티즈·현대모비스·SK하이닉스·삼성전기·HD현대일렉트릭·효성중공업 등 로봇·부품·반도체·전력 기업에...",
+          "src": "한국경제",
+          "date": "08/09",
+          "url": "https://n.news.naver.com/mnews/article/015/0005318791?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/99.44909238.1.jpg"
+        },
         {
           "title": "꿈의 영업이익률 20%를 넘은 TK 반도체 3사…지역 경제 생태계 바꾸나",
           "desc": "3%, 전자부품(13개사) 8.1%, 식품·음료(3개사) 7.5%, 에너지·가스(2개사) 5.9%, 자동차부품(17개사) 4.2% 등의... 어플라이드 머티어리얼즈와 비슷한 수준이다.씨엠티엑스는 국내에서 유일하게 TSMC 1차 협력사 지위를 확보했고...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/07",
           "url": "http://www.srtimes.kr/news/articleView.html?idxno=209414",
           "img": "https://cdn.srtimes.kr/news/thumbnail/202608/209414_214338_1846_v150.jpg"
-        },
-        {
-          "title": "베트남의 변신…생산기지에서 혁신의 동반자로",
-          "desc": "전자·자동차·부품 산업을 비롯한 글로벌 공급망 구축에 중요한 역할을 해왔다. 2008년 삼성전자의 박닌... 셋째, 삼성전자 등 한국 대기업의 경험을 산업계 전체가 공유해야 한다. 이미 구축된 현지 협력사 기술지원과...",
-          "src": "naeil",
-          "date": "08/07",
-          "url": "https://www.naeil.com/news/read/598028?ref=naver",
-          "img": "https://wimg.naeil.com/paper/2026/08/07/20260807_01100108000001_L01.jpg"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "이데일리",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/018/0006275897?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/05/PS26050801678.jpg"
+          "img": ""
         },
         {
           "title": "페스카로, JS오토모티브 인수…'사이버보안·전장·생산' 밸류체인 확보",
@@ -170,16 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 美 연구소와 극저온 히트펌프 개발…글로벌 난방시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/014/0005558907?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/09/202608091028246088_l.jpg"
+      "title": "삼성전자, 알래스카서 차세대 난방기술 개발한다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649908?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260809.7ab481669195432ba851a72c8362cb0a_R.jpg"
     },
     {
       "title": "스마트홈 패권 전쟁, 전장은 아파트",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/04ead18da4e8fe.jpg"
     },
     {
-      "title": "롯데마트, 2000억 AI 물류센터 가동…1조 오카도 프로젝트 시험대",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116031",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116031_213029_2126_v150.jpg"
+      "title": "[인터뷰] “애플, 엑스코드 문 열었다”…타사 AI 품은 개발 생태계",
+      "url": "https://n.news.naver.com/mnews/article/018/0006348079?sid=103",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900336.jpg"
     },
     {
-      "title": "베일 벗은 2000억 '비밀병기'··· 롯데마트, '오카도' 업고 이커머스 ...",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422954",
-      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/422954_238168_632_v150.jpg"
+      "title": "품절·오배송 잡는다…롯데마트 ‘AI 로봇 1000대’ 부산 총출동",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589259478311",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260809/p1065589259478311_645_thum.JPG"
     }
   ]
 };
