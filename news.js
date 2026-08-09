@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 01:56",
+  "updatedAt": "2026.08.10 (월) 04:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -61,20 +61,20 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
+          "desc": "영지식증명(Zero-Knowledge Proof, ZKP) 기술을 활용해 거래 내역을 발행자, 감사자, 규제 기관에... 유동성 향상과 거래 효율화를 목적으로 기관 금융권에서 도입이 확산되고 있다. TokenPost.ai 기반 언어 모델을...",
+          "src": "tokenpost",
+          "date": "08/10",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/387249",
+          "img": "https://f1.tokenpost.kr/2026/08/628jnrqzis.png"
+        },
+        {
           "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
           "desc": "이를 바탕으로 센터에서는 AI 로봇과 시스템을 활용해 주문 상품을 직접 집고 포장하며 소비자가 원하는... 동시에 AI와 자동화 기술을 도입하면서 품질 관리 역량과 배송 속도를 강화해 '장보기'를 혁신하겠다는 의지를...",
           "src": "pointdaily",
           "date": "08/10",
           "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
           "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
-        },
-        {
-          "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
-          "desc": "● AI가 유발한 인지적 피로 200명 규모의 한 기술 기업을 관찰한 버클리 캘리포니아대 하스경영대학원... BCG 조사 결과, AI를 활용하는 근로자 일곱 명 중 한 명(14%)이 브레인 프라이를 호소했고, 마케팅 직군에서는 그...",
-          "src": "동아일보",
-          "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
         },
         {
           "title": "소변 몇 방울로 10초면 끝… 1000원대 ‘마약 검사키트’ 나온다",
@@ -85,12 +85,12 @@ window.NEWS_DATA = {
           "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134443829.3.jpg"
         },
         {
-          "title": "애플, 중국 CXMT 칩 시험…美 규제 속 도입 검토",
-          "desc": "미국 정부가 중국 반도체 기업에 대한 규제를 강화하는 가운데 애플이 중국산 메모리 도입을 추진하면서... 기업의 기술 노하우와 자금을 활용해 경쟁력을 높일 수 있다고 우려한다. 특히 미국 메모리 업체 마이크론이...",
-          "src": "view",
+          "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
+          "desc": "● AI가 유발한 인지적 피로 200명 규모의 한 기술 기업을 관찰한 버클리 캘리포니아대 하스경영대학원... BCG 조사 결과, AI를 활용하는 근로자 일곱 명 중 한 명(14%)이 브레인 프라이를 호소했고, 마케팅 직군에서는 그...",
+          "src": "동아일보",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/277/0005800661?sid=104",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026080717125473759_1786090374.png"
+          "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
         }
       ]
     },
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
@@ -180,6 +180,11 @@ window.NEWS_DATA = {
       "title": "[트렌드 '요즘'] \"색깔·크기까지 내 맘대로\"…가전도 '맞춤 명품' 시대",
       "url": "https://n.news.naver.com/mnews/article/448/0000632454?sid=101",
       "img": "https://img.tvchosun.com/sitedata/image/202608/09/2026080990127_thumb.jpg"
+    },
+    {
+      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
+      "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/387249",
+      "img": "https://f1.tokenpost.kr/2026/08/628jnrqzis.png"
+    },
+    {
       "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
       "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
       "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
-    },
-    {
-      "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
-    },
-    {
-      "title": "소변 몇 방울로 10초면 끝… 1000원대 ‘마약 검사키트’ 나온다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739602?sid=105",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134443829.3.jpg"
     }
   ]
 };
