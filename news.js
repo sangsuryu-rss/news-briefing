@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 04:03",
+  "updatedAt": "2026.08.10 (월) 05:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[트렌드 '요즘'] \"색깔·크기까지 내 맘대로\"…가전도 '맞춤 명품' 시대",
-          "desc": "삼성전자는 미국의 럭셔리 빌트인 가전 브랜드를 인수해 국내에서 영역을 넓히고 있습니다. 스테인리스부터 화강암까지, 다양한 소재에 맞는 빌트인 디자인으로 고객 취향을 반영했고, 사물인터넷 기능을 입혀 유용함을...",
-          "src": "조선일보",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/448/0000632454?sid=101",
-          "img": "https://img.tvchosun.com/sitedata/image/202608/09/2026080990127_thumb.jpg"
+          "title": "지구 온난화와 K-寒流(cold wave)[이택수의 여론읽기]",
+          "desc": "삼성전자와 LG전자 등 국내 가전회사들은 이동식 에어컨 외에도 실외기 한 대로 수십 대를 돌릴 수 있는 시스템에어컨, 나아가 낡은 보일러를 대체하는 히트펌프 등의 분야까지 수출 길이 열렸다. 이동식 에어컨의...",
+          "src": "이데일리",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/018/0006348406?sid=110",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081000047.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+          "img": ""
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
-          "desc": "영지식증명(Zero-Knowledge Proof, ZKP) 기술을 활용해 거래 내역을 발행자, 감사자, 규제 기관에... 유동성 향상과 거래 효율화를 목적으로 기관 금융권에서 도입이 확산되고 있다. TokenPost.ai 기반 언어 모델을...",
-          "src": "tokenpost",
+          "title": "[기술브릿지] 공기조화설비(기초) 물류센터의 공조환기시스템",
+          "desc": "◇ 국내 물류센터의 주요 공기조화 시스템 및 적용 기술 국내 상온 물류센터에서 전체 공간의 냉난방 및... 및 AI 기반 공조 제어 국토교통부가 추진하는 '스마트물류센터 인증제도'의 도입으로 첨단 물류 설비의...",
+          "src": "kmecnews",
           "date": "08/10",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/387249",
-          "img": "https://f1.tokenpost.kr/2026/08/628jnrqzis.png"
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51168",
+          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51168_41239_2010.jpg"
         },
         {
-          "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
-          "desc": "이를 바탕으로 센터에서는 AI 로봇과 시스템을 활용해 주문 상품을 직접 집고 포장하며 소비자가 원하는... 동시에 AI와 자동화 기술을 도입하면서 품질 관리 역량과 배송 속도를 강화해 '장보기'를 혁신하겠다는 의지를...",
-          "src": "pointdaily",
+          "title": "\"애플, 中반도체 도입 추진\"…삼전닉스 10% 급락시켰던 그 기업",
+          "desc": "도널드 트럼프 행정부의 대(對)중국 수출통제 규정으로 미국 기업은 CXMT와 사양 협의 등 기술정보를... 애플이 중국산 반도체 도입을 서두르는 것은 최근 인공지능(AI) 데이터센터 건설 붐으로 반도체 공급부족 현상이...",
+          "src": "머니투데이",
           "date": "08/10",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005397516?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081005031736681_1.jpg"
         },
         {
-          "title": "소변 몇 방울로 10초면 끝… 1000원대 ‘마약 검사키트’ 나온다",
-          "desc": "● 빠른 임상·인증이 키트 조기 도입 핵심 원천 기술 연구자의 의지만으로는 상용 키트의 보급 시점을... 마약을 포획해 뇌로 이동하거나 수용체에 결합하는 것을 차단하는 치료제로도 활용할 수 있을 것”이라고 말했다.",
-          "src": "동아일보",
+          "title": "[백상논단] 공공AI법 시행과 민주적 행정의 조건",
+          "desc": "공공AI법이 AI 활용의 최종 권한과 책임을 공공기관에 둔 것은 중요한 첫걸음이다. 그러나 민주주의의 주권은 국민이 기술의 사용을 알고 그 판단에 이의를 제기하며 잘못된 결정을 바로잡을 수 있을 때 비로소 실질적인...",
+          "src": "서울경제",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/020/0003739602?sid=105",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134443829.3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004650039?sid=110",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260804.c52045df1d974f4b9af4d03fbfd2ba7e_R.jpg"
         },
         {
-          "title": "[DBR]AI發 뇌 과부하 ‘브레인 프라이’, 피로감 줄이려면?",
-          "desc": "● AI가 유발한 인지적 피로 200명 규모의 한 기술 기업을 관찰한 버클리 캘리포니아대 하스경영대학원... BCG 조사 결과, AI를 활용하는 근로자 일곱 명 중 한 명(14%)이 브레인 프라이를 호소했고, 마케팅 직군에서는 그...",
-          "src": "동아일보",
+          "title": "\"챗봇보다 공장 먼저\"…산업 위에 올라탄 중국 AI, 설계자는 정부 [AI 패...",
+          "desc": "대형 AI 모델을 적용하는 방안을 담았다. 문서는 생성형 AI뿐 아니라 에이전트형 AI 활용도 강조했다.... 성과 평가가 기술 개선보다 도입 건수에 치우칠 가능성도 있다. AI가 제조업 현장에 들어가려면 현장 데이터 품질이...",
+          "src": "파이낸셜뉴스",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/020/0003739601?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/09/134438189.3.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005559107?sid=104",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/07/202608071248346805_l.png"
         }
       ]
     },
@@ -170,21 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[트렌드 '요즘'] \"색깔·크기까지 내 맘대로\"…가전도 '맞춤 명품' 시대",
-      "url": "https://n.news.naver.com/mnews/article/448/0000632454?sid=101",
-      "img": "https://img.tvchosun.com/sitedata/image/202608/09/2026080990127_thumb.jpg"
-    },
-    {
-      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+      "title": "지구 온난화와 K-寒流(cold wave)[이택수의 여론읽기]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006348406?sid=110",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081000047.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "리플(XRP), 가격 횡보 중 장기 성장 가능성 모색",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/387249",
-      "img": "https://f1.tokenpost.kr/2026/08/628jnrqzis.png"
+      "title": "[기술브릿지] 공기조화설비(기초) 물류센터의 공조환기시스템",
+      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51168",
+      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51168_41239_2010.jpg"
     },
     {
-      "title": "[르포] '제타 스마트센터 부산'...최대 1000대 로봇과 AI 결합 '첨단 유통...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314810",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314810_310749_4018_v150.jpg"
+      "title": "\"애플, 中반도체 도입 추진\"…삼전닉스 10% 급락시켰던 그 기업",
+      "url": "https://n.news.naver.com/mnews/article/008/0005397516?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081005031736681_1.jpg"
+    },
+    {
+      "title": "[백상논단] 공공AI법 시행과 민주적 행정의 조건",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650039?sid=110",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260804.c52045df1d974f4b9af4d03fbfd2ba7e_R.jpg"
     }
   ]
 };
