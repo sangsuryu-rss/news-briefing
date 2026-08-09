@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 05:53",
+  "updatedAt": "2026.08.10 (월) 07:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "지구 온난화와 K-寒流(cold wave)[이택수의 여론읽기]",
-          "desc": "삼성전자와 LG전자 등 국내 가전회사들은 이동식 에어컨 외에도 실외기 한 대로 수십 대를 돌릴 수 있는 시스템에어컨, 나아가 낡은 보일러를 대체하는 히트펌프 등의 분야까지 수출 길이 열렸다. 이동식 에어컨의...",
-          "src": "이데일리",
+          "title": "“제조업 기반 갖춘 한국, 피지컬 AI 세계 1강 될 역량 충분”",
+          "desc": "이어 그 경험을 자동차·가전·물류 등 우리가 잘하는 또 다른 분야로 확대해간다면 한국은 피지컬 AI1강... 자신감을 갖고 무모하다 싶을 만큼 과감한 투자를 통해 시장을 선도하는 게 중요하다.” 최근 삼성전자와...",
+          "src": "동아일보",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/018/0006348406?sid=110",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081000047.jpg"
+          "url": "https://n.news.naver.com/mnews/article/037/0000038646?sid=101",
+          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/75/84/5b/6a75845b199ca0a0a0a.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
         },
         {
           "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기술브릿지] 공기조화설비(기초) 물류센터의 공조환기시스템",
-          "desc": "◇ 국내 물류센터의 주요 공기조화 시스템 및 적용 기술 국내 상온 물류센터에서 전체 공간의 냉난방 및... 및 AI 기반 공조 제어 국토교통부가 추진하는 '스마트물류센터 인증제도'의 도입으로 첨단 물류 설비의...",
-          "src": "kmecnews",
+          "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
+          "desc": "N페이 커넥트를 활용한 네이버의 플라이휠 전략도 뚜렷합니다. 스마트스토어가 온라인에서 했던 일을... 폐쇄형 AI 플랫폼 및 클라우드 도입을 논의하고 있습니다. 마지막은 리스크입니다. 김 CFO는 \"AIDC 비즈니스 리스크에...",
+          "src": "byline",
           "date": "08/10",
-          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51168",
-          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51168_41239_2010.jpg"
+          "url": "https://byline.network/?p=9004111222614589",
+          "img": "https://cdn.byline.network/wp-content/uploads/2024/11/naver1784.jpg"
         },
         {
-          "title": "\"애플, 中반도체 도입 추진\"…삼전닉스 10% 급락시켰던 그 기업",
-          "desc": "도널드 트럼프 행정부의 대(對)중국 수출통제 규정으로 미국 기업은 CXMT와 사양 협의 등 기술정보를... 애플이 중국산 반도체 도입을 서두르는 것은 최근 인공지능(AI) 데이터센터 건설 붐으로 반도체 공급부족 현상이...",
-          "src": "머니투데이",
+          "title": "AI로 움직이는 광양항.. \"첨단 항만 거점으로\"",
+          "desc": "첨단 항만 기술의 거대한 실험실로 활용될 광양항의 미래, 최황지 기자가 취재했습니다. (기자) * \"광양항... * *황종우 / 해양수산부 장관* \"광양항에 피지컬AI 기술을 우선 도입한 후에 여타 항만에도 단계적으로 확산시켜...",
+          "src": "kjmbc",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/008/0005397516?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081005031736681_1.jpg"
+          "url": "https://kjmbc.co.kr/NewsArticle/1531375",
+          "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
         },
         {
-          "title": "[백상논단] 공공AI법 시행과 민주적 행정의 조건",
-          "desc": "공공AI법이 AI 활용의 최종 권한과 책임을 공공기관에 둔 것은 중요한 첫걸음이다. 그러나 민주주의의 주권은 국민이 기술의 사용을 알고 그 판단에 이의를 제기하며 잘못된 결정을 바로잡을 수 있을 때 비로소 실질적인...",
-          "src": "서울경제",
+          "title": "서울시, 11~12일 보안 콘퍼런스·워크숍",
+          "desc": "인공지능(AI) 활용 확대와 클라우드 전환, 새로운 국가망보안체계도입 등 환경 변화에 대응하는 방법을... 행사 기간 중에는 약 150개 보안기업이 참여하는 '보안 솔루션 전시회'도 열려 최신 보안기술을 체험할 수도...",
+          "src": "tbs",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/011/0004650039?sid=110",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260804.c52045df1d974f4b9af4d03fbfd2ba7e_R.jpg"
+          "url": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3537752&seq_800=20530635",
+          "img": ""
         },
         {
-          "title": "\"챗봇보다 공장 먼저\"…산업 위에 올라탄 중국 AI, 설계자는 정부 [AI 패...",
-          "desc": "대형 AI 모델을 적용하는 방안을 담았다. 문서는 생성형 AI뿐 아니라 에이전트형 AI 활용도 강조했다.... 성과 평가가 기술 개선보다 도입 건수에 치우칠 가능성도 있다. AI가 제조업 현장에 들어가려면 현장 데이터 품질이...",
-          "src": "파이낸셜뉴스",
+          "title": "AI 능력과 활용 비결은?",
+          "desc": "곳은 기술·미디어·금융 같은 일부 업종에 몰려 있었습니다. 국내 사정도 비슷합니다. 한국직업능력연구원에 따르면 국내 기업의 AI 활용률은 2017년 1.4%에서 2024년 9.2%로 높아졌지만, 큰 기업(300인 이상)과 작은 기업...",
+          "src": "abcn",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/014/0005559107?sid=104",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/07/202608071248346805_l.png"
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=90314",
+          "img": "https://cdn.abcn.kr/news/thumbnail/202608/90314_48084_1136_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[AI로 읽는 경제] ﻿① AI는 왜 공장부터 바꾸는가...숙련의 가격이 데이...",
+          "desc": "삼성전자는 2030년까지 국내외 생산공장을 'AI 자율공장'으로 전환하겠다는 전략을 발표했다. 생산계획과... 실증사업 종료 후 2~3년이 지나도 시스템이 가동되는지, 다른 공장과 협력사로 확산됐는지도 공개해야 한다....",
+          "src": "뉴스핌",
+          "date": "08/10",
+          "url": "https://www.newspim.com/news/view/20260807001056",
+          "img": "https://img.newspim.com/news/2026/08/07/2608071626062850_925_tc.jpg"
+        },
         {
           "title": "\"AI 다음 대세라더니 물렸다\"…줄폭락에 개미들 '눈물' [분석+]",
           "desc": "피지컬 AI의 '두뇌'로 평가한 삼성전자와 '몸통'인 현대차를 각각 25%씩 담는 ETF다. 나머지 절반은 로보티즈·현대모비스·SK하이닉스·삼성전기·HD현대일렉트릭·효성중공업 등 로봇·부품·반도체·전력 기업에...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/015/0005318752?sid=101",
           "img": "https://img.hankyung.com/photo/202608/01.45271510.1.jpg"
-        },
-        {
-          "title": "소부장 기업, \"호남 반도체 생태계 구축, 대기업 투자 로드맵 공유 수반...",
-          "desc": "위해서는 삼성전자와 SK하이닉스 등 대기업의 구체적인 투자 로드맵이 중견·중소 소부장(소재·부품·장비)... 또 평택과 기흥, 화성 등 주요 반도체 단지 주변에 삼성전자와 SK하이닉스 협력사들이 집적된 것처럼...",
-          "src": "srtimes",
-          "date": "08/07",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=209414",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202608/209414_214338_1846_v150.jpg"
         }
       ]
     },
@@ -170,16 +170,21 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "지구 온난화와 K-寒流(cold wave)[이택수의 여론읽기]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006348406?sid=110",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081000047.jpg"
+      "title": "“제조업 기반 갖춘 한국, 피지컬 AI 세계 1강 될 역량 충분”",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038646?sid=101",
+      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/75/84/5b/6a75845b199ca0a0a0a.jpg"
+    },
+    {
+      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
     },
     {
       "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
     },
     {
-      "title": "[기술브릿지] 공기조화설비(기초) 물류센터의 공조환기시스템",
-      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51168",
-      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51168_41239_2010.jpg"
+      "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
+      "url": "https://byline.network/?p=9004111222614589",
+      "img": "https://cdn.byline.network/wp-content/uploads/2024/11/naver1784.jpg"
     },
     {
-      "title": "\"애플, 中반도체 도입 추진\"…삼전닉스 10% 급락시켰던 그 기업",
-      "url": "https://n.news.naver.com/mnews/article/008/0005397516?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081005031736681_1.jpg"
-    },
-    {
-      "title": "[백상논단] 공공AI법 시행과 민주적 행정의 조건",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650039?sid=110",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/09/news-p.v1.20260804.c52045df1d974f4b9af4d03fbfd2ba7e_R.jpg"
+      "title": "AI로 움직이는 광양항.. \"첨단 항만 거점으로\"",
+      "url": "https://kjmbc.co.kr/NewsArticle/1531375",
+      "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
     }
   ]
 };
