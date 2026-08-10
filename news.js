@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 07:51",
+  "updatedAt": "2026.08.10 (월) 11:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“제조업 기반 갖춘 한국, 피지컬 AI 세계 1강 될 역량 충분”",
-          "desc": "이어 그 경험을 자동차·가전·물류 등 우리가 잘하는 또 다른 분야로 확대해간다면 한국은 피지컬 AI1강... 자신감을 갖고 무모하다 싶을 만큼 과감한 투자를 통해 시장을 선도하는 게 중요하다.” 최근 삼성전자와...",
-          "src": "동아일보",
+          "title": "코스닥으로 옮겨간 변동성 장세…'삼전닉스' 떠난 돈 여기 몰렸다 [증시...",
+          "desc": "삼성전자와 SK하이닉스 중심의 코스피가 숨 고르기에 들어간 사이 코스닥이 가파른 반등을 이어가고... 실제 지난 3일부터 7일까지 반도체 업종은 코스피 대비 8.9%p 낮은 수익률을 기록한 반면 건설, IT가전, 기계...",
+          "src": "파이낸셜뉴스",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/037/0000038646?sid=101",
-          "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/75/84/5b/6a75845b199ca0a0a0a.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005559296?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608100902433696_l.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
         },
         {
-          "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
-          "desc": "세탁기와 건조기에는 알러젠, 얼룩, 냄새, 털을 관리하는 펫 특화 코스를, 공기청정기에는 펫 맞춤 청정 기능을 적용했다. 에어컨은 견종별 온습도 관리를, TV는 반려동물용 영상 원격 재생을 지원한다. 삼성전자는 2023년...",
-          "src": "비즈니스플러스",
-          "date": "08/07",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
+          "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
+          "desc": "특히 같은 한국 기업인 삼성전자도 중국 의류관리 가전 시장에서 LG전자에 뒤처지면서 중국에서 유독 LG... LG전자는 세탁기와 건조기로 해결하기 어려운 의류를 스팀으로 관리한다는 개념을 앞세웠다. 매번 세탁하기...",
+          "src": "핀포인트뉴스",
+          "date": "08/10",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475747",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
         },
         {
-          "title": "70년 국밥배당까지 끊겼다…주가 80% 폭락한 거인 [오찬종의 매일뉴욕]",
-          "desc": "불과 2006년까지만 해도 백년 숙적이던 라이벌 기업 ‘메이태그(Maytag)’까지 전격 인수하며 미국 세탁기 시장... 2010년대 들어 뛰어난 품질과 혁신적인 기능을 앞세운 삼성전자와 LG전자가 미국 시장을 거세게 공략해...",
-          "src": "매일경제",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/009/0005718603?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
+          "title": "외주화 물량 쏟아진다… 하나마이크론, 메모리·비메모리 쌍끌이 호재",
+          "desc": "아나패스, 삼성전자가 상승세를 유지하며 시스템반도체 생태계 전반의 단단한 지지대 역할을 담당하고... 증권업계 한 관계자는 \"AI가 모바일, 자율주행, 가전 등 전방 산업 전반으로 이식되면서 고성능·저전력...",
+          "src": "핀포인트뉴스",
+          "date": "08/10",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475866",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475866_462949_732_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
-          "desc": "N페이 커넥트를 활용한 네이버의 플라이휠 전략도 뚜렷합니다. 스마트스토어가 온라인에서 했던 일을... 폐쇄형 AI 플랫폼 및 클라우드 도입을 논의하고 있습니다. 마지막은 리스크입니다. 김 CFO는 \"AIDC 비즈니스 리스크에...",
-          "src": "byline",
+          "title": "[오늘의 게임·IT 소식] 엑스게이트, ‘SSL 가시화’ 솔루션 보안기능확...",
+          "desc": "INSIDE는 기술적 우수성과 보안 신뢰성을 검증받았다. 최근 웹 트래픽의 대부분이 암호화(SSL/TLS)됨에 따라... SOOP은 지난4일 업데이트를 통해AI기반 자동 채팅 번역 기능을 도입했다.지난1월 선보인AI자막 서비스에 이어...",
+          "src": "dealsite",
           "date": "08/10",
-          "url": "https://byline.network/?p=9004111222614589",
-          "img": "https://cdn.byline.network/wp-content/uploads/2024/11/naver1784.jpg"
+          "url": "https://dealsite.co.kr/articles/166871",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/10/ac23d18e6daf4e219629850f554022a6/thumb.png"
         },
         {
-          "title": "AI로 움직이는 광양항.. \"첨단 항만 거점으로\"",
-          "desc": "첨단 항만 기술의 거대한 실험실로 활용될 광양항의 미래, 최황지 기자가 취재했습니다. (기자) * \"광양항... * *황종우 / 해양수산부 장관* \"광양항에 피지컬AI 기술을 우선 도입한 후에 여타 항만에도 단계적으로 확산시켜...",
-          "src": "kjmbc",
+          "title": "연천교육지원청, 지방공무원 AI 실무역량 연수 8월 10일 시작",
+          "desc": "AI 교육체제는 기술 도입을 넘어, 인공지능을 활용해 학습과 교직, 교육공동체 전반의 운영 방식을 새롭게 재구성하는 것을 목표로 한다. 행정 분야에서는 AI를 행정업무 전반에 적용해 일하는 방식과 조직문화를...",
+          "src": "gukjenews",
           "date": "08/10",
-          "url": "https://kjmbc.co.kr/NewsArticle/1531375",
-          "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3660255",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3660255_3827231_3021_v150.jpg"
         },
         {
-          "title": "서울시, 11~12일 보안 콘퍼런스·워크숍",
-          "desc": "인공지능(AI) 활용 확대와 클라우드 전환, 새로운 국가망보안체계도입 등 환경 변화에 대응하는 방법을... 행사 기간 중에는 약 150개 보안기업이 참여하는 '보안 솔루션 전시회'도 열려 최신 보안기술을 체험할 수도...",
-          "src": "tbs",
+          "title": "신원, AX로 글로벌 공급망 경쟁력 강화 AI 기반 운영체계 구축",
+          "desc": "Enterprise)’를 도입하는 등 데이터 기반 인공지능 전환(AX) 혁신을 본격 추진한다. AI와 자동화 기술, 데이터... OpenAI의 기업용 AI 솔루션인 챗GPT 엔터프라이즈를 도입해 임직원들의 AI 활용 기반을 구축하고, SAP와...",
+          "src": "okfashion",
           "date": "08/10",
-          "url": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3537752&seq_800=20530635",
+          "url": "http://okfashion.co.kr/detail.php?number=63956&thread=81r43",
           "img": ""
         },
         {
-          "title": "AI 능력과 활용 비결은?",
-          "desc": "곳은 기술·미디어·금융 같은 일부 업종에 몰려 있었습니다. 국내 사정도 비슷합니다. 한국직업능력연구원에 따르면 국내 기업의 AI 활용률은 2017년 1.4%에서 2024년 9.2%로 높아졌지만, 큰 기업(300인 이상)과 작은 기업...",
-          "src": "abcn",
+          "title": "외국인 인증은 API로, CAD는 웹으로…씨엔티테크가 고른 두 SaaS",
+          "desc": "서로 다른 분야의 문제지만 복잡한 절차와 높은 도입 비용을 기술로 낮춘다는... 최근에는 생성형 AI를 접목해 도면과 기술문서의 활용도를 높이는 기능을 개발하고...",
+          "src": "venturesquare",
           "date": "08/10",
-          "url": "https://www.abcn.kr/news/articleView.html?idxno=90314",
-          "img": "https://cdn.abcn.kr/news/thumbnail/202608/90314_48084_1136_v150.jpg"
+          "url": "https://www.venturesquare.net/1104838/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/tomo.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“제조업 기반 갖춘 한국, 피지컬 AI 세계 1강 될 역량 충분”",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038646?sid=101",
-      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/75/84/5b/6a75845b199ca0a0a0a.jpg"
+      "title": "코스닥으로 옮겨간 변동성 장세…'삼전닉스' 떠난 돈 여기 몰렸다 [증시...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005559296?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608100902433696_l.jpg"
     },
     {
       "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
     },
     {
-      "title": "[마켓+]반려동물도 가전 '주 사용자'로…펫가전 경쟁 가속",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115189",
-      "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115189_113436_142_v150.jpg"
+      "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475747",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
     },
     {
-      "title": "70년 국밥배당까지 끊겼다…주가 80% 폭락한 거인 [오찬종의 매일뉴욕]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718603?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/09/news-p.v1.20260805.45e1f936fb434ea093e58c5090f4c4a2_R.png"
+      "title": "외주화 물량 쏟아진다… 하나마이크론, 메모리·비메모리 쌍끌이 호재",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475866",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475866_462949_732_v150.jpg"
     },
     {
-      "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
-      "url": "https://byline.network/?p=9004111222614589",
-      "img": "https://cdn.byline.network/wp-content/uploads/2024/11/naver1784.jpg"
+      "title": "[오늘의 게임·IT 소식] 엑스게이트, ‘SSL 가시화’ 솔루션 보안기능확...",
+      "url": "https://dealsite.co.kr/articles/166871",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/10/ac23d18e6daf4e219629850f554022a6/thumb.png"
     },
     {
-      "title": "AI로 움직이는 광양항.. \"첨단 항만 거점으로\"",
-      "url": "https://kjmbc.co.kr/NewsArticle/1531375",
-      "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
+      "title": "연천교육지원청, 지방공무원 AI 실무역량 연수 8월 10일 시작",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3660255",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3660255_3827231_3021_v150.jpg"
     }
   ]
 };
