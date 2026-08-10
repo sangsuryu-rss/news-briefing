@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 00:18",
+  "updatedAt": "2026.08.11 (화) 02:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "디버그 주기 최대 40% 단축, 시놉시스 AI 설계 도구 공개",
-          "desc": "두 워크플로에는 회사의 에이전트엔지니어(AgentEngineer) 기술이 적용됐다. EDA는 반도체 설계 자동화를 뜻한다. 지금까지 설계자가 개별 도구를 조작하며 단계별 결과를 확인했다면, 자율형 워크플로는 여러 AI...",
-          "src": "tokenpost",
+          "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
+          "desc": "등 AI 기반 감시 기술을 속속 도입 중이다. 카네기국제평화재단 조사에서는 179국 가운데 최소 97국이 치안... 인식을 활용했다. 이들 정부는 “범죄자를 신속히 찾아내고 공공 안전을 지키기 위해서”라고 주장한다....",
+          "src": "조선일보",
           "date": "08/11",
-          "url": "https://www.tokenpost.kr/news/blockchain/387773",
-          "img": "https://f1.tokenpost.kr/2026/08/p1uxm18cv2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003992298?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/VO3FBVSYV5FNHCCRDEPVI24LUA.png?auth=d9288b3cd3ff84f349205cdd35f6600eda938117fc0cc51eabe4bd3c4f1b83ef&width=480&height=252&smart=true"
         },
         {
-          "title": "[기업家] 네이버 ⑭ㅣ AI로 성장판 키운다…검색·광고·교육까지 'AI 생...",
-          "desc": "● 2026-08-07 네이버 'AI 브리핑' 도입 이후 블로그 창작자 수익 2배 ↑…애드포스트 지급액 14% 상승 [네이버... 광고 매출은 AI 기술을 활용한 효율 개선과 타기팅 강화로 1조4472억원에 달했으며, 지난해 같은 기간보다 7.5...",
-          "src": "cbci",
+          "title": "‘3대 메가’ 전격전…충청 246조·영남 107조 사업 연내 돌입",
+          "desc": "대·중소기업이 기술 개발부터 양산까지 협력하는 ‘함께성장 프로젝트’를 10년간 1조원 규모로 추진하기로 했다. 다만, 청와대는 연내 추진하는 ‘메가특구 특별법안’에 도입을 검토하고 있는 주 52시간 근로제...",
+          "src": "중앙일보",
           "date": "08/11",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596872",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/596872_408698_5833_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/025/0003543521?sid=100",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/11/3424e632-8958-488c-8438-e8dea462c61e.jpg"
         },
         {
-          "title": "[The초점] 샌프란시스코에서 강원도까지, AI 데이터센터가 그리는 새로...",
-          "desc": "구성된 AI 데이터센터 추진단을 중심으로 인허가 절차를 과감히 간소화하고 패스트트랙 제도를 전면 도입해... 있도록 기술 실증 지원과 초기 투자 마중물을 과감히 제공해야 한다. 샌프란시스코에서 불기 시작한 AI...",
-          "src": "kwnews",
+          "title": "'바이킹 후예' 노르웨이, 농수산물 '수확 후 관리공학' 최고인 이유",
+          "desc": "적극 도입, 운영중이다. 비파괴 분석ㆍ콜드체인 기술 보유한 수산강국.... AI 및 디지털 트윈 기반의 유통ㆍ선별 시스템 활용 노르웨이는 또 조업 단계에서부터 완벽한 콜드체인(Cold Chain) 설비를 연계하여 운영한다....",
+          "src": "youngnong",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/087/0001210563?sid=102",
-          "img": ""
+          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61422",
+          "img": "http://cdn.youngnong.co.kr/news/photo/202608/61422_52994_2916.jpg"
         },
         {
-          "title": "\"18개월 걸려 계약하는데 AI는 반년마다 바뀐다\"…공공 발주체계 '경고...",
-          "desc": "김우제 서울과학기술대학교 교수는 10일 국회의원회관에서 열린 '공공AI도입을 통한 국가 AI대전환 촉진 2차... 개발을 마쳤다고 곧바로 쓸 수 있는 게 아니라, 목표한 품질 수준에 도달해야 실제 활용이 가능하다는...",
-          "src": "디지털데일리",
+          "title": "전력 줄이고 데이터 빠르게… 차세대 AI ‘CPO 기술’ 경쟁 치열",
+          "desc": "업계에서는 CPO 기술이 도입될 경우 기존 대비 최소 30% 이상의 전력을 아낄 수 있을 것으로 추산한다.... CPO 기술을 활용하면 기존 구리 배선의 문제로 꼽히던 신호 손실과 전력 소모를 막을 수 있다.",
+          "src": "동아일보",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237281?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081016211961475_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003739855?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/10/134453877.1.jpg"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/10",
           "url": "https://n.news.naver.com/mnews/article/030/0003455998?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/08/news-p.v1.20260808.2b42c4161db14f31ab05d507e7685a99_P1.png"
+          "img": ""
         },
         {
           "title": "파워오토로보틱스·아라, 한기대 '로봇인재 육성'에 1500만원 기부",
@@ -170,7 +170,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
-      "title": "디버그 주기 최대 40% 단축, 시놉시스 AI 설계 도구 공개",
-      "url": "https://www.tokenpost.kr/news/blockchain/387773",
-      "img": "https://f1.tokenpost.kr/2026/08/p1uxm18cv2.jpg"
+      "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992298?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/VO3FBVSYV5FNHCCRDEPVI24LUA.png?auth=d9288b3cd3ff84f349205cdd35f6600eda938117fc0cc51eabe4bd3c4f1b83ef&width=480&height=252&smart=true"
     },
     {
-      "title": "[기업家] 네이버 ⑭ㅣ AI로 성장판 키운다…검색·광고·교육까지 'AI 생...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596872",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/596872_408698_5833_v150.jpg"
+      "title": "‘3대 메가’ 전격전…충청 246조·영남 107조 사업 연내 돌입",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543521?sid=100",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/11/3424e632-8958-488c-8438-e8dea462c61e.jpg"
     },
     {
-      "title": "\"18개월 걸려 계약하는데 AI는 반년마다 바뀐다\"…공공 발주체계 '경고...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237281?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081016211961475_l.jpg"
+      "title": "'바이킹 후예' 노르웨이, 농수산물 '수확 후 관리공학' 최고인 이유",
+      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61422",
+      "img": "http://cdn.youngnong.co.kr/news/photo/202608/61422_52994_2916.jpg"
     }
   ]
 };
