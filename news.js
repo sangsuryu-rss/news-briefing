@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 14:45",
+  "updatedAt": "2026.08.10 (월) 17:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "KDI \"반도체 중심 경기 개선 확대\"…물가·고용 등 불확실성도",
-          "desc": "삼성전자 온누리상품권 환급 행사로 가전제품 판매도 작년 동월보다 13.1% 늘었습니다. 다만 이런 증가 요인은 일시적 영향이 커 7월 소비에도 영향을 지속해서 미칠지는 불확실한 상황입니다. 설비투자는 반도체 관련...",
-          "src": "연합뉴스TV",
+          "title": "유럽 폭염에 에어컨 시장 급성장⋯삼성·LG보다 더 뜨거운 중국 업체 공...",
+          "desc": "삼성전자와 LG전자 등 국내 가전업체가 주요 유럽 시장에서 두 자릿수 판매 증가세를 기록한 가운데, 중국 업체들은 대규모 수출과 가격 경쟁력을 앞세워 시장 점유율 확대에 나서고 있다. 중국 관영 매체에 따르면 올해...",
+          "src": "autodaily",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/422/0000894233?sid=101",
-          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810143435TzQ_01_i.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546528",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546528_190337_5313_v150.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/09",
           "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+          "img": ""
         },
         {
           "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
         },
         {
-          "title": "[가전트렌드] 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시...",
-          "desc": "-편집자 말 ◇ 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시 워치 울트라2·워치9' 국내 공식... ⓒ쿠쿠 쿠쿠(대표이사 구본학)가 전국 61개 쿠쿠스토어 직영점을 중심으로 '일요일 순환 운영 서비스'를 새롭게...",
-          "src": "ibabynews",
+          "title": "장수촌 다 뒤졌다…암 이겨낸 전 농심회장 따라한 ‘장수 비밀’",
+          "desc": "이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던 손욱... 냉장고에 한가득, 회장님의 요리 필수템 손욱이 용인 전원주택으로 이사 온 건 2003년이다. 그는 요즘...",
+          "src": "중앙일보",
           "date": "08/10",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153592",
-          "img": "https://www.ibabynews.com/news/photo/202608/153592_119245_4612.jpg"
+          "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/937182d5-7ff4-48d8-b8d3-cf1b4726a0fd.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "배충식 카이스트 총장 취임…“글로벌 혁신 선도대학 도약”",
-          "desc": "AI 활용 등급을 부여하는 3단계 교육과정을 운영한다. 아울러 현실 세계와 상호작용하는 피지컬 AI 및 미래 전략기술 연구를 확대하고, AI 자율랩 구축과 신입생 특화 창업교육도 도입한다. 이날 취임식에서는...",
-          "src": "dnews",
+          "title": "[현장] 공공 AX 확산, 관건은 '제도'…AI 특성 맞는 발주·계약 체계 갖...",
+          "desc": "않으면 활용이 어렵다\"며 \"정확도를 끌어올리는 데 드는 비용도 급격히 커질 수 있어 기존 기능 중심 발주 방식만으로는 한계가 있다\"고 설명했다. 김우제 서울과학기술대 교수(사진=지디넷코리아) 특히 AI 도입 실패에...",
+          "src": "ZDNet코리아",
           "date": "08/10",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101431359190438",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101431359190438-2-683077.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002433532?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/10/0e6010e355723cf4512dd9bd75f8690c.jpg"
         },
         {
-          "title": "케이앤어스, 무선백도어 해킹 탐지 수요 증가…사업 확대 속도",
-          "desc": "케이앤어스는 최근 금융권을 비롯해 기관·기업을 중심으로 스파이아웃-2 구축 문의와 도입 사례가 늘고... 등을 활용한 불법촬영 탐지 제품, 스마트기기 녹음 방지 장비 등 인공지능(AI) 기반 물리보안 제품을 개발...",
-          "src": "newsprime",
+          "title": "[전문가 기고] AI 성공의 조건, AI 레디 데이터 플랫폼",
+          "desc": "분석 기술이 빠르게 확산되면서 기업 경쟁의 기준도 달라지고 있다. 이제 AI의 도입 여부보다 중요한 것은... 대부분의 데이터가 시스템별로 분산되어 있어 전사적으로 활용하는 데 어려움을 겪고 있는 것이다. 이 같은...",
+          "src": "아주경제",
           "date": "08/10",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=743317",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743317_1786338510.jpg"
+          "url": "https://www.ajunews.com/view/20260810142748293",
+          "img": "https://image.ajunews.com/content/image/2026/08/10/20260810142906727990.png"
         },
         {
-          "title": "추경호 대구시장 “불필요한 일 줄이고 시민 위한 일 속도 높여라”",
-          "desc": "행정 전반에 인공지능(AI)을 적극 활용해 업무 생산성과 효율성을 끌어올릴 것도 지시했다. 추 시장은 “AI행정의 목적은 단순히 새로운 기술을 도입하는 데 있는 것이 아니라 행정의 생산성과 효율성을 높이고 궁극적으로...",
-          "src": "kbmaeil",
+          "title": "바다 위 AI 데이터센터 뜬다… ETF 아버지가 찍은 5대 승부처는",
+          "desc": "배 대표는 2002년 국내 최초로 상장지수펀드(ETF) 도입을 주도해 '한국 ETF의 아버지'로 불리는 인물이다.... \"선박 활용한 AI 데이터센터 수요↑\" 이날 증시에선 코스닥을 중심으로 순환매 장세가 펼쳐졌다. 코스닥은 55....",
+          "src": "한국일보",
           "date": "08/10",
-          "url": "https://www.kbmaeil.com/article/20260810500467",
-          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/08/10/.cache/512/20260810500462.jpg"
+          "url": "https://n.news.naver.com/mnews/article/469/0000947219?sid=101",
+          "img": "https://newsimg.hankookilbo.com/2026/08/10/2801bcfe-c8d2-4503-afef-e1b60d19c7eb.jpg"
         },
         {
-          "title": "CJ대한통운 '택배쉬는날' 7년째…혹서기 휴식 넘어 '건강한 근무환경'으...",
-          "desc": "두 항목을 합치면 전체의 95.2%가 휴무 기간을 가족과 함께하거나 자신의 회복을 위한 시간으로 활용할... 데이터를 AI로 분석하는 기술을 건강관리 체계에 도입하는 등 건강 지원 프로그램을 고도화하고 있다. 이는...",
-          "src": "e-science",
+          "title": "[증권 NOW] 한국투자증권·미래에셋증권·NH투자증권·한화투자증권",
+          "desc": "■ 한국투자증권, '총 연금자산 실시간 평가' 업계 첫 도입 한국투자증권이 연금 투자 서비스를... 있다\"며 \"앞으로도 AI 기술 및 다양한 개발 환경과의 결합을 통해 고객 중심의 디지털 투자 생태계를 끊임없이 확장해...",
+          "src": "wikileaks-kr",
           "date": "08/10",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133245",
-          "img": "https://cdn.e-science.co.kr/news/photo/202608/133245_65596_4025.png"
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190775",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/190775_204539_2930_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "파워오토로보틱스·아라, 한기대에 발전기금 1500만 원",
-          "desc": "한국기술교육대는 AI무인화 자율제조로봇 솔루션 기업 파워오토로보틱스㈜와 협력사 ㈜아라가 대학... 파워오토로보틱스는 삼성전자 인도 생산법인을 비롯해 LG전자·LG이노텍과 국내외 자동차 전장·전자부품 기업에 AI...",
-          "src": "pressian",
-          "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/002/0002451578?sid=102",
-          "img": "https://cdn.pressian.com/_resources/10/2026/08/10/2026081014402744702_l.jpg"
-        },
-        {
-          "title": "파워오토로보틱스㈜·㈜아라, 한기대에 발전기금 기탁",
+          "title": "파워오토로보틱스·아라, 한국기술교육대 발전기금 1500만원 쾌척",
           "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
-          "src": "dhnews",
+          "src": "irobotnews",
           "date": "08/10",
-          "url": "https://dhnews.co.kr/news/view/1065591593890732",
-          "img": "http://dhnews.co.kr/news/data/20260810/p1065591593890732_955_thum.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47848",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/47848_102556_4256.jpg"
         },
         {
-          "title": "파워오토로보틱스·아라, 한국기술교육대에 1천500만원 기부",
-          "desc": "파워오토로보틱스㈜와 협력사인 ㈜아라가 대학발전기금 1천500만원을 합동으로 기부했다고 밝혔다.... 파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조 자동화 로봇을 출하했으며, LG전자·LG이노텍 및...",
-          "src": "연합뉴스",
+          "title": "'와이드 폴드' 대흥행에…삼성전자, 폴드8 100만대 증산",
+          "desc": "10일 업계에 따르면 삼성전자는 올해 폴드8을 100만대 추가 생산하기로 결정하고 협력사에 관련 부품을 주문했다. 폴드8은 삼성전자가 그동안 선보인 세로가 더 긴 화면의 폴더블폰과 달리 올해 처음 내놓은...",
+          "src": "전자신문",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/001/0016242714?sid=105",
-          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810094700063_01_i_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003455998?sid=105",
+          "img": ""
         },
         {
-          "title": "中 CXMT, HBM·모바일 D램 '양면 공세'…삼성전자·SK하이닉스와 초격차...",
-          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자와 SK하이닉스가 인공지능(AI) 메모리 슈퍼사이클에 힘입어... 협력사들과는 12단 HBM 양산을 위한 설비 투자 협의도 시작한 것으로 전해진다. 카운터포인트리서치 황민성...",
-          "src": "joongangenews",
+          "title": "파워오토로보틱스·아라, 한기대 '로봇인재 육성'에 1500만원 기부",
+          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며 1차 협력사... LG전자·LG이노텍과 국내외 자동차 전장·전자부품 기업에도 AI 제조자동화 솔루션을 공급하고 있으며 LG이노텍...",
+          "src": "newscj",
           "date": "08/10",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=539033",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/539033_344709_3040.png"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423900",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3423900_3535329_599_v150.jpg"
+        },
+        {
+          "title": "파워오토로보틱스와 아라, 한국기술교육대에 발전기금 1천5백만 원 쾌척",
+          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
+          "src": "전자신문",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/030/0003455956?sid=102",
+          "img": ""
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "KDI \"반도체 중심 경기 개선 확대\"…물가·고용 등 불확실성도",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894233?sid=101",
-      "img": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810143435TzQ_01_i.jpg"
-    },
-    {
-      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+      "title": "유럽 폭염에 에어컨 시장 급성장⋯삼성·LG보다 더 뜨거운 중국 업체 공...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546528",
+      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546528_190337_5313_v150.jpg"
     },
     {
       "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
     },
     {
-      "title": "[가전트렌드] 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153592",
-      "img": "https://www.ibabynews.com/news/photo/202608/153592_119245_4612.jpg"
+      "title": "장수촌 다 뒤졌다…암 이겨낸 전 농심회장 따라한 ‘장수 비밀’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/937182d5-7ff4-48d8-b8d3-cf1b4726a0fd.jpg"
     },
     {
-      "title": "배충식 카이스트 총장 취임…“글로벌 혁신 선도대학 도약”",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101431359190438",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101431359190438-2-683077.jpg"
+      "title": "[현장] 공공 AX 확산, 관건은 '제도'…AI 특성 맞는 발주·계약 체계 갖...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002433532?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/08/10/0e6010e355723cf4512dd9bd75f8690c.jpg"
     },
     {
-      "title": "케이앤어스, 무선백도어 해킹 탐지 수요 증가…사업 확대 속도",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=743317",
-      "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743317_1786338510.jpg"
+      "title": "[전문가 기고] AI 성공의 조건, AI 레디 데이터 플랫폼",
+      "url": "https://www.ajunews.com/view/20260810142748293",
+      "img": "https://image.ajunews.com/content/image/2026/08/10/20260810142906727990.png"
+    },
+    {
+      "title": "바다 위 AI 데이터센터 뜬다… ETF 아버지가 찍은 5대 승부처는",
+      "url": "https://n.news.naver.com/mnews/article/469/0000947219?sid=101",
+      "img": "https://newsimg.hankookilbo.com/2026/08/10/2801bcfe-c8d2-4503-afef-e1b60d19c7eb.jpg"
     }
   ]
 };
