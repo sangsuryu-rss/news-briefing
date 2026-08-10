@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 04:18",
+  "updatedAt": "2026.08.11 (화) 06:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "카메라 잡고 '찰칵'… 베일 벗는 삼성 로봇",
-          "desc": "내부적으로는 내년 초 미국 라스베이거스에서 열리는 세계 최대 IT(정보기술)·가전 전시회 'CES 2027'에서 로봇기술을 공개하는 방안을 준비 중이다. 삼성전자는 RX사업추진실 신설과 함께 로봇사업 육성에 역량을 집중할...",
-          "src": "머니투데이",
+          "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
+          "desc": "가전업계 관계자는 “삼성전자와 LG전자 등 가전 대기업이 중국 시장 소매 판매를 줄이고 있는 만큼 현지의 잇따른 규제가 대중국 수출보다 오히려 중국의 ODM·OEM을 활용하는 중소 가전업체에 미칠 영향이 더 클 것으로...",
+          "src": "전자신문",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/008/0005398072?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019485348994_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
+          "img": ""
         },
         {
           "title": "CJ온스타일 실적 개선 '이상무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
-          "desc": "특히 같은 한국 기업인 삼성전자도 중국 의류관리 가전 시장에서 LG전자에 뒤처지면서 중국에서 유독 LG... LG전자는 세탁기와 건조기로 해결하기 어려운 의류를 스팀으로 관리한다는 개념을 앞세웠다. 매번 세탁하기...",
-          "src": "핀포인트뉴스",
-          "date": "08/10",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475747",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
+          "title": "[한 지붕 두 삼성] ①‘같은 회사, 같은 보상’…DX노조 요구는 정당한...",
+          "desc": "인공지능(AI) 메모리 호황으로 반도체(DS)부문이 실적을 견인한 반면, 스마트폰·가전 등을 담당하는 디바이스경험(DX)부문은 원가 상승과 수요 둔화의 직격탄을 맞으며 적자로 돌아섰기 때문이다. 삼성전자의 올해...",
+          "src": "dnews",
+          "date": "08/11",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101004484030373",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101004484030373-2-683133.jpg"
         },
         {
-          "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
-          "desc": "소비자는 탈수 강도를 줄이거나 평일 낮에만 세탁기를 돌려야 했다. 삼성전자의 ‘비스포크 AI 콤보’는 소비자가 세탁기에 맞춰야 한다는 인식을 바꿨다. 세탁기에 탑재된 인공지능(AI) 센서는 외부 조건을 토대로...",
-          "src": "서울신문",
-          "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
+          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
+          "desc": "삼성전자는 2026년형 로봇청소기 '비스포크 AI 스팀'의 글로벌 출시 시점을 확정하지 않고 있다. 2월 출시 이후 하반기에도 출시 시점을 명시하지 않고 있다. 삼성전자 관계자는 “전략 재편에 따라 당분간 국내 시장에...",
+          "src": "전자신문",
+          "date": "08/09",
+          "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "안 쓴 전기 모아 돈 번다… 錢·企 몰리는 가상발전소",
-          "desc": "자원으로 활용하는 V2G(Vehicle to Grid) 기술확산에 힘을 싣는다. ◇판 키우는 입찰제도…대기업도 참전 2024년 분산에너지 활성화 특별법 시행과 함께 전력거래소가 재생에너지 입찰제도를 도입하면서 1㎿를 넘는 태양광...",
+          "title": "[한국 경제를 묻다] 이재원 한은 경제연구원장 \"반도체 호황, 구조개혁...",
+          "desc": "어떻게 활용하느냐\"라고 강조했다. 그는 \"반도체의 기술 우위를 공고히 하는 동시에, 서비스업과 중소기업의... AI 도입은 거시적 생산성을 높일 잠재력이 크지만 효과와 실현 시점은 불확실하다고 봤다. AI가 노동시장...",
+          "src": "아주경제",
+          "date": "08/11",
+          "url": "https://www.ajunews.com/view/20260810143413315",
+          "img": "https://image.ajunews.com/content/image/2026/08/10/20260810153212728817.jpg"
+        },
+        {
+          "title": "\"정밀제어로 잔석 줄인다\"…자메닉스가 바꾼 결석치료",
+          "desc": "의료진의 손에 의존하던 내시경 조작을 로봇 정밀제어로 전환하고, AI를 활용해 움직이는 결석의 위치와... 치료에 활용하는 데 초점이 맞춰졌다. 진주고려병원은 최근 로엔서지컬의 자메닉스를 도입하며 서부경남...",
+          "src": "dailypharm",
+          "date": "08/11",
+          "url": "https://www.dailypharm.com/user/news/341278?REFERER=NP",
+          "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/10/ae90e248-e43e-4f86-9d5f-ce51a7c0ef65.jpg"
+        },
+        {
+          "title": "\"AI시대 인재는…질문·문제인식·구조화의 스페셜리스트\"",
+          "desc": "저희 회사가 AI를 도입한 지 1년 정도 되었는데, 지금은 코딩의 80%를 AI가 담당한다. 채용 면에서 보면... 새 기술을 얼마나 잘 활용하느냐에 따라 생산성이 갈렸을 뿐이다. AI 시대에 중요한 것은 질문력과 문제 정의력...",
           "src": "머니투데이",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/008/0005398086?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019544615583_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005398112?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080616441670147_1.jpg"
         },
         {
-          "title": "카이스트 'AX' 선언, 모든 전공에 AI 결합",
-          "desc": "배 총장은 \"장기적인 기초과학 연구를 지원하는 동시에 대형 연구기획도 장려할 것\"이라며 \"국가전략기술과... AI를 도입해 행정도 효율화한다. 배 총장은 \"제반 규제를 없애고 AI를 활용한 원스톱 시스템을 개발해...",
-          "src": "머니투데이",
+          "title": "엔화 개입·감축 신호·연준 옹호…美 장기금리와의 전쟁 [글로벌 모닝...",
+          "desc": "이는 기존 보조금·세제 혜택 중심 지원 방식과 달리, 자본집약적인 AI 산업 특성상 시장 자금을 적극 활용하는 방향으로 전략이 바뀌고 있음을 보여줍니다. 실제로 최근 2년간 중국 기술기업의 조달액은 2170억 달러로...",
+          "src": "서울경제",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/008/0005398082?sid=105",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081020045789380_1.jpg"
-        },
-        {
-          "title": "[출근길 포인트] 싸이월드 10월 재개장, 도토리 대신 코인… IP·데이터...",
-          "desc": "8PB 복원 난제 중첩 블록체인 기술 기업 시그마체인이 오는 10월 베타서비스를 시작으로 2027년 상반기... 모델을 도입한다. 박형근 시그마체인 최고기획책임자(CCO)는 이용자 40%, 크리에이터 40%, 플랫폼 20% 비율로...",
-          "src": "pointdaily",
-          "date": "08/11",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314970",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314970_310914_248_v150.jpg"
-        },
-        {
-          "title": "美, 관세 환급금 1000억 달러 유입… 필수소비재 실적 호조",
-          "desc": "기술을 활용했기 때문이다. 과거 다섯 차례의 주요 기술 혁신 주기 조사 결과, 경제가 활성화된 시기에는 기술 도입이 채용 축소로 이어지지 않았다. 신기술 적용으로 프로젝트 처리 주기가 단축되면서 인력의 업무...",
-          "src": "g-enews",
-          "date": "08/11",
-          "url": "https://www.g-enews.com/view.php?ud=202608101604444210fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081016073603077fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004650398?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/10/news-p.v1.20260810.b151f4d478af4e30856c13868fac1207_R.png"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/10",
           "url": "https://n.news.naver.com/mnews/article/030/0003455998?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/08/news-p.v1.20260808.2b42c4161db14f31ab05d507e7685a99_P1.png"
+          "img": ""
         },
         {
           "title": "파워오토로보틱스·아라, 한기대 '로봇인재 육성'에 1500만원 기부",
@@ -170,41 +170,41 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "카메라 잡고 '찰칵'… 베일 벗는 삼성 로봇",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398072?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019485348994_1.jpg"
+      "title": "[한 지붕 두 삼성] ①‘같은 회사, 같은 보상’…DX노조 요구는 정당한...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101004484030373",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101004484030373-2-683133.jpg"
     },
     {
-      "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475747",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
+      "title": "[한국 경제를 묻다] 이재원 한은 경제연구원장 \"반도체 호황, 구조개혁...",
+      "url": "https://www.ajunews.com/view/20260810143413315",
+      "img": "https://image.ajunews.com/content/image/2026/08/10/20260810153212728817.jpg"
     },
     {
-      "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
+      "title": "\"정밀제어로 잔석 줄인다\"…자메닉스가 바꾼 결석치료",
+      "url": "https://www.dailypharm.com/user/news/341278?REFERER=NP",
+      "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/10/ae90e248-e43e-4f86-9d5f-ce51a7c0ef65.jpg"
     },
     {
-      "title": "안 쓴 전기 모아 돈 번다… 錢·企 몰리는 가상발전소",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398086?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019544615583_1.jpg"
+      "title": "\"AI시대 인재는…질문·문제인식·구조화의 스페셜리스트\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398112?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080616441670147_1.jpg"
     },
     {
-      "title": "카이스트 'AX' 선언, 모든 전공에 AI 결합",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398082?sid=105",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081020045789380_1.jpg"
+      "title": "엔화 개입·감축 신호·연준 옹호…美 장기금리와의 전쟁 [글로벌 모닝...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650398?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/10/news-p.v1.20260810.b151f4d478af4e30856c13868fac1207_R.png"
     },
     {
-      "title": "[출근길 포인트] 싸이월드 10월 재개장, 도토리 대신 코인… IP·데이터...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314970",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314970_310914_248_v150.jpg"
+      "title": "로봇·AI 인재 키운다…파워오토로보틱스·아라, 한기대에 1,500만원 쾌척",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093096",
+      "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093096_603748_5028_v150.jpg"
     }
   ]
 };
