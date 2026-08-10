@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 18:49",
+  "updatedAt": "2026.08.10 (월) 20:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
-          "desc": "17년째 세탁기의 소음·진동을 연구하고 있는 삼성전자 생활가전(DA)사업부 세탁전문기술랩의 이한얼(42) 파트장은 지난 7일 경기 수원 삼성전자디지털시티 가전사업동에서 진행된 인터뷰에서 “단순히 소음만 낮추면...",
-          "src": "서울신문",
+          "title": "[반도체 전쟁] AI 반도체 부족이 부른 '공급망 잔혹사': 애플, CXMT 칩 사...",
+          "desc": "세계 최대의 가전·IT 공룡 애플이 중국 최대 D램 제조사인 창신메모리테크놀로지(CXMT)의 메모리 칩을... 빅테크 기업들의 AI 데이터센터 투자가 폭발적으로 늘어나면서 삼성전자, SK하이닉스, 마이크론 등 기존 메모리...",
+          "src": "businesskorea",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274511",
+          "img": "https://www.businesskorea.co.kr/news/thumbnail/202608/274511_281842_123_v150.jpg"
         },
         {
           "title": "CJ온스타일 실적 개선 '이상 무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
         },
         {
-          "title": "‘이건희의 전략가’ 前삼성 사장, 코스트코서 쟁여 놓는 건강템",
-          "desc": "이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던 손욱... 「 냉장고에 한가득, 회장님의 요리 필수템 」 사실 손욱은 10여 년 전 큰 수술과 항암 치료를 받아야...",
-          "src": "중앙일보",
+          "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
+          "desc": "소비자는 탈수 강도를 줄이거나 평일 낮에만 세탁기를 돌려야 했다. 삼성전자의 ‘비스포크 AI 콤보’는 소비자가 세탁기에 맞춰야 한다는 인식을 바꿨다. 세탁기에 탑재된 인공지능(AI) 센서는 외부 조건을 토대로...",
+          "src": "서울신문",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/180dacd4-837a-4a60-a309-8e0de21d11dd.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "추경호 대구시장 \"'검토하겠다' 반복 말고 결론 내라\"…속도행정 주문",
-          "desc": "특히, 행정 전반에 AI를 적극 활용할 것을 주문해 눈길을 끌었다. AI행정의 목적은 단순히 새로운 기술을 도입하는 데 있는 것이 아니라, 행정의 생산성 및 효율성을 높이고, 궁극적으로 시민에게 제공하는 행정서비스의 질을...",
-          "src": "kyongbuk",
+          "title": "[패트롤]청도군-대구남구-중앙병역판정검사소-iM뱅크-대구교육청-신용보...",
+          "desc": "대구=에너지경제신문 손중모기자 대구시교육청이 인공지능(AI)을 활용한 교육행정 업무지원 서비스를 도입해... 한국산업기술진흥원(KIAT)과 손잡고 우수 기술력을 갖춘 혁신기업의 성장과 글로벌 진출을 지원하는 동시에...",
+          "src": "ekn",
           "date": "08/10",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080788",
-          "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080788_816262_4231.png"
+          "url": "https://www.ekn.kr/web/view.php?key=20260810026441350",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260810.39647c07169e445dae9571f0a284207f_R.jpg"
         },
         {
-          "title": "몰렉스, 휴머노이드 로봇의 양산 확대 위한 'MiniMix' 하이브리드 전원 ...",
-          "desc": "중앙 AI 처리, 감각 인식, 다축 기계적 동작을 연결하는 완벽하고 즉시 양산 가능한 하드웨어 기반을 제공한다. 고객이 설계 도입 및 공동 평가를 할 수 있도록 현재 MiniMix 하이브리드 전원 및 신호 커넥터 제품군의...",
+          "title": "메타 저커버그 CEO, \"초지능은 모두의 것이 돼야\"…'개인용 초지능' 시대...",
+          "desc": "이를 통해 정부가 최신 AI 기술을 조기에 활용해 핵심 인프라의 취약점을 파악하고 보완할 수 있다는... 체계를 도입한다고 밝혔다. 또한 다른 프런티어 AI 기업들도 유사한 독립적 거버넌스 구조를 도입할 것을...",
           "src": "AI타임스",
           "date": "08/10",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41376",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41376_62292_3838_v150.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41380_62298_645_v150.jpg"
         },
         {
-          "title": "靑 \"메가특구특별법 연내 제정 추진…광주 군공항 기능분산 2028년까지\"",
-          "desc": "제도를 활용해 담당 공무원의 적극 행정을 독려하는 등 정부의 일하는 방식을 혁신해 나가기로 했다\"고... 이와 함께 기업-중소기업 간 대규모 공동 R&D, 피지컬 AI 얼라이언스를 통해 독자 기술 기반 유니콘 기업을 육성하고...",
-          "src": "더팩트",
+          "title": "네이버, 앤스로픽에 지난해 말 간접투자",
+          "desc": "경기 성남시 네이버 사옥 '1784'를 찾아 네이버 개발자들과 AI 에이전트 기술과 활용 방안, 보안 관련 경험을 공유한 바 있다. 또 네이버는 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 엔지니어링 조직에 도입하기도 했다.",
+          "src": "파이낸셜뉴스",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/629/0000523289?sid=100",
-          "img": "https://img.tf.co.kr/article/home/newsis/2026/08/10/202665341786354431.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005559669?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608101821406252_l.jpg"
         },
         {
-          "title": "“전남·광주 섬 정책 대전환…AI·실증·에너지 자립 추진”",
-          "desc": "조성해 AI·스마트 기술을 실증하고 지역 현안을 해결하는 공간으로 활용해야 한다는 게 연구원의 판단이다.... 적정기술 실증·도입을, 대규모 섬은 자율주행차, 드론 물류, AI 기반 스마트양식, 디지털트윈 기반 그린수소...",
-          "src": "jndn",
+          "title": "\"AI 자막 이어 채팅 번역까지\"…SOOP, 글로벌 소통 확대",
+          "desc": "앞서 SOOP은 지난 4일 업데이트를 통해 AI 기반 자동 채팅 번역 기능을 도입했다. 지난 1월 선보인 AI 자막... 기반으로 활용될 전망이다. SOOP 관계자는 \"앞으로도 AI 기반 번역 기술을 지속적으로 고도화해 언어와 국경의...",
+          "src": "디지털데일리",
           "date": "08/10",
-          "url": "http://www.jndn.com/article.php?aid=1786354732437593001",
-          "img": "http://www.jndn.com/upimages/photoda/"
+          "url": "https://n.news.naver.com/mnews/article/138/0002237279?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081018393885279_l.jpg"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/10",
           "url": "https://n.news.naver.com/mnews/article/030/0003455998?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/08/news-p.v1.20260808.2b42c4161db14f31ab05d507e7685a99_P1.png"
         },
         {
           "title": "파워오토로보틱스·아라, 한기대 '로봇인재 육성'에 1500만원 기부",
@@ -170,16 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
+      "title": "[반도체 전쟁] AI 반도체 부족이 부른 '공급망 잔혹사': 애플, CXMT 칩 사...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274511",
+      "img": "https://www.businesskorea.co.kr/news/thumbnail/202608/274511_281842_123_v150.jpg"
     },
     {
       "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
     },
     {
-      "title": "‘이건희의 전략가’ 前삼성 사장, 코스트코서 쟁여 놓는 건강템",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/180dacd4-837a-4a60-a309-8e0de21d11dd.jpg"
+      "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
-      "title": "추경호 대구시장 \"'검토하겠다' 반복 말고 결론 내라\"…속도행정 주문",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080788",
-      "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080788_816262_4231.png"
+      "title": "[패트롤]청도군-대구남구-중앙병역판정검사소-iM뱅크-대구교육청-신용보...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260810026441350",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260810.39647c07169e445dae9571f0a284207f_R.jpg"
     },
     {
-      "title": "몰렉스, 휴머노이드 로봇의 양산 확대 위한 'MiniMix' 하이브리드 전원 ...",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41376",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41376_62292_3838_v150.jpg"
+      "title": "메타 저커버그 CEO, \"초지능은 모두의 것이 돼야\"…'개인용 초지능' 시대...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41380_62298_645_v150.jpg"
     },
     {
-      "title": "靑 \"메가특구특별법 연내 제정 추진…광주 군공항 기능분산 2028년까지\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000523289?sid=100",
-      "img": "https://img.tf.co.kr/article/home/newsis/2026/08/10/202665341786354431.jpg"
+      "title": "네이버, 앤스로픽에 지난해 말 간접투자",
+      "url": "https://n.news.naver.com/mnews/article/014/0005559669?sid=105",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608101821406252_l.jpg"
     }
   ]
 };
