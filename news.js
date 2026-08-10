@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 20:27",
+  "updatedAt": "2026.08.10 (월) 22:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -29,7 +29,7 @@ window.NEWS_DATA = {
           "img": "https://www.businesskorea.co.kr/news/thumbnail/202608/274511_281842_123_v150.jpg"
         },
         {
-          "title": "CJ온스타일 실적 개선 '이상 무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
+          "title": "CJ온스타일 실적 개선 '이상무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
           "desc": "중국 로봇청소기 기업 로보락과 한국 가구 브랜드 자코모는 CJ온스타일에서 누적 주문액 각각 250억 원... 이 방식이 자리 잡으면서 삼성전자의 스마트폰 갤럭시S23, 동아제약의 영양제 오쏘몰바이탈 등이 홈쇼핑 첫...",
           "src": "비즈니스포스트",
           "date": "08/10",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[패트롤]청도군-대구남구-중앙병역판정검사소-iM뱅크-대구교육청-신용보...",
-          "desc": "대구=에너지경제신문 손중모기자 대구시교육청이 인공지능(AI)을 활용한 교육행정 업무지원 서비스를 도입해... 한국산업기술진흥원(KIAT)과 손잡고 우수 기술력을 갖춘 혁신기업의 성장과 글로벌 진출을 지원하는 동시에...",
-          "src": "ekn",
+          "title": "독파모 2차 평가 막바지…4개 팀 전략은",
+          "desc": "LG AI연구원, SK텔레콤, 업스테이지, 모티프테크놀로지스는 각기 다른 기술·사업 전략으로 2차 평가에... 포털 줌(ZUM)의 AI 검색 엔진에 활용되는 것을 비롯해 코스콤과 함께 국내 2500여개 상장 종목의 주가를 예측...",
+          "src": "byline",
           "date": "08/10",
-          "url": "https://www.ekn.kr/web/view.php?key=20260810026441350",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260810.39647c07169e445dae9571f0a284207f_R.jpg"
+          "url": "https://byline.network/?p=9004111222614750",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/K-AI.jpg"
         },
         {
-          "title": "메타 저커버그 CEO, \"초지능은 모두의 것이 돼야\"…'개인용 초지능' 시대...",
-          "desc": "이를 통해 정부가 최신 AI 기술을 조기에 활용해 핵심 인프라의 취약점을 파악하고 보완할 수 있다는... 체계를 도입한다고 밝혔다. 또한 다른 프런티어 AI 기업들도 유사한 독립적 거버넌스 구조를 도입할 것을...",
-          "src": "AI타임스",
+          "title": "남양주시, 자체 개발 AI 행정시스템 '냅' 전 직원 3천 명에 도입",
+          "desc": "시는 기존 유휴 서버를 재활용하면서 신규 장비 도입 등에 필요한 약 1억5,000만 원의 예산을 절감했다고 밝혔다. 별도의 외부 용역이나 사업예산을 투입하지 않고 자체 기술력을 활용해 행정 인공지능 시스템을...",
+          "src": "newstown",
           "date": "08/10",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41380_62298_645_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711916",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711916_666559_541_v150.jpg"
         },
         {
-          "title": "네이버, 앤스로픽에 지난해 말 간접투자",
-          "desc": "경기 성남시 네이버 사옥 '1784'를 찾아 네이버 개발자들과 AI 에이전트 기술과 활용 방안, 보안 관련 경험을 공유한 바 있다. 또 네이버는 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 엔지니어링 조직에 도입하기도 했다.",
-          "src": "파이낸셜뉴스",
+          "title": "해운대구, 전국 첫 ‘글로벌 관광특구’ 선정…K-관광 거점 도약",
+          "desc": "AI 기반 24시간 무인관광안내소를 도입하고 외국인 스마트 결제 시스템을 마련해 언어와 결제 장벽을 낮춘다. 지능형 CCTV를 활용한 관광객 밀집도 분석을 통해 주요 관광지의 안전관리도 강화한다. 숙박 관광객을 대상으로...",
+          "src": "wikitree",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/014/0005559669?sid=105",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608101821406252_l.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1151579",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/10/img_20260810221210_b849e0a6.jpg"
         },
         {
-          "title": "\"AI 자막 이어 채팅 번역까지\"…SOOP, 글로벌 소통 확대",
-          "desc": "앞서 SOOP은 지난 4일 업데이트를 통해 AI 기반 자동 채팅 번역 기능을 도입했다. 지난 1월 선보인 AI 자막... 기반으로 활용될 전망이다. SOOP 관계자는 \"앞으로도 AI 기반 번역 기술을 지속적으로 고도화해 언어와 국경의...",
-          "src": "디지털데일리",
+          "title": "당진시, 전국 AI 아이디어 제안 공모전 개최",
+          "desc": "2026년 당진시 AI 아이디어 제안 공모전 당진시가 인공지능(AI) 기술을 활용한 행정 혁신과 시민 체감형... 인공지능(AI) 행정 도입 방안이다. 참여 방법은 국민신문고를 이용하거나 시 누리집에 접속해 서식을 내려 받아...",
+          "src": "newstown",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237279?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081018393885279_l.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711931",
+          "img": "http://www.newstown.co.kr/news/thumbnail/202608/711931_666583_4942_v150.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
-      "title": "[패트롤]청도군-대구남구-중앙병역판정검사소-iM뱅크-대구교육청-신용보...",
-      "url": "https://www.ekn.kr/web/view.php?key=20260810026441350",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260810.39647c07169e445dae9571f0a284207f_R.jpg"
+      "title": "독파모 2차 평가 막바지…4개 팀 전략은",
+      "url": "https://byline.network/?p=9004111222614750",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/K-AI.jpg"
     },
     {
-      "title": "메타 저커버그 CEO, \"초지능은 모두의 것이 돼야\"…'개인용 초지능' 시대...",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41380_62298_645_v150.jpg"
+      "title": "남양주시, 자체 개발 AI 행정시스템 '냅' 전 직원 3천 명에 도입",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711916",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711916_666559_541_v150.jpg"
     },
     {
-      "title": "네이버, 앤스로픽에 지난해 말 간접투자",
-      "url": "https://n.news.naver.com/mnews/article/014/0005559669?sid=105",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608101821406252_l.jpg"
+      "title": "해운대구, 전국 첫 ‘글로벌 관광특구’ 선정…K-관광 거점 도약",
+      "url": "https://www.wikitree.co.kr/articles/1151579",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/10/img_20260810221210_b849e0a6.jpg"
     }
   ]
 };
