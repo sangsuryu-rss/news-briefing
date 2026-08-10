@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 17:05",
+  "updatedAt": "2026.08.10 (월) 18:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,19 +21,19 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "유럽 폭염에 에어컨 시장 급성장⋯삼성·LG보다 더 뜨거운 중국 업체 공...",
-          "desc": "삼성전자와 LG전자 등 국내 가전업체가 주요 유럽 시장에서 두 자릿수 판매 증가세를 기록한 가운데, 중국 업체들은 대규모 수출과 가격 경쟁력을 앞세워 시장 점유율 확대에 나서고 있다. 중국 관영 매체에 따르면 올해...",
-          "src": "autodaily",
+          "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
+          "desc": "17년째 세탁기의 소음·진동을 연구하고 있는 삼성전자 생활가전(DA)사업부 세탁전문기술랩의 이한얼(42) 파트장은 지난 7일 경기 수원 삼성전자디지털시티 가전사업동에서 진행된 인터뷰에서 “단순히 소음만 낮추면...",
+          "src": "서울신문",
           "date": "08/10",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546528",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546528_190337_5313_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
         },
         {
-          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-          "desc": "삼성전자는 2026년형 로봇청소기 '비스포크 AI 스팀'의 글로벌 출시 시점을 확정하지 않고 있다. 2월 출시 이후 하반기에도 출시 시점을 명시하지 않고 있다. 삼성전자 관계자는 “전략 재편에 따라 당분간 국내 시장에...",
-          "src": "전자신문",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
+          "title": "CJ온스타일 실적 개선 '이상 무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
+          "desc": "중국 로봇청소기 기업 로보락과 한국 가구 브랜드 자코모는 CJ온스타일에서 누적 주문액 각각 250억 원... 이 방식이 자리 잡으면서 삼성전자의 스마트폰 갤럭시S23, 동아제약의 영양제 오쏘몰바이탈 등이 홈쇼핑 첫...",
+          "src": "비즈니스포스트",
+          "date": "08/10",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444368",
           "img": ""
         },
         {
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
         },
         {
-          "title": "장수촌 다 뒤졌다…암 이겨낸 전 농심회장 따라한 ‘장수 비밀’",
-          "desc": "이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던 손욱... 냉장고에 한가득, 회장님의 요리 필수템 손욱이 용인 전원주택으로 이사 온 건 2003년이다. 그는 요즘...",
+          "title": "‘이건희의 전략가’ 前삼성 사장, 코스트코서 쟁여 놓는 건강템",
+          "desc": "이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던 손욱... 「 냉장고에 한가득, 회장님의 요리 필수템 」 사실 손욱은 10여 년 전 큰 수술과 항암 치료를 받아야...",
           "src": "중앙일보",
           "date": "08/10",
           "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/937182d5-7ff4-48d8-b8d3-cf1b4726a0fd.jpg"
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/180dacd4-837a-4a60-a309-8e0de21d11dd.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[현장] 공공 AX 확산, 관건은 '제도'…AI 특성 맞는 발주·계약 체계 갖...",
-          "desc": "않으면 활용이 어렵다\"며 \"정확도를 끌어올리는 데 드는 비용도 급격히 커질 수 있어 기존 기능 중심 발주 방식만으로는 한계가 있다\"고 설명했다. 김우제 서울과학기술대 교수(사진=지디넷코리아) 특히 AI 도입 실패에...",
-          "src": "ZDNet코리아",
+          "title": "추경호 대구시장 \"'검토하겠다' 반복 말고 결론 내라\"…속도행정 주문",
+          "desc": "특히, 행정 전반에 AI를 적극 활용할 것을 주문해 눈길을 끌었다. AI행정의 목적은 단순히 새로운 기술을 도입하는 데 있는 것이 아니라, 행정의 생산성 및 효율성을 높이고, 궁극적으로 시민에게 제공하는 행정서비스의 질을...",
+          "src": "kyongbuk",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/092/0002433532?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/10/0e6010e355723cf4512dd9bd75f8690c.jpg"
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080788",
+          "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080788_816262_4231.png"
         },
         {
-          "title": "[전문가 기고] AI 성공의 조건, AI 레디 데이터 플랫폼",
-          "desc": "분석 기술이 빠르게 확산되면서 기업 경쟁의 기준도 달라지고 있다. 이제 AI의 도입 여부보다 중요한 것은... 대부분의 데이터가 시스템별로 분산되어 있어 전사적으로 활용하는 데 어려움을 겪고 있는 것이다. 이 같은...",
-          "src": "아주경제",
+          "title": "몰렉스, 휴머노이드 로봇의 양산 확대 위한 'MiniMix' 하이브리드 전원 ...",
+          "desc": "중앙 AI 처리, 감각 인식, 다축 기계적 동작을 연결하는 완벽하고 즉시 양산 가능한 하드웨어 기반을 제공한다. 고객이 설계 도입 및 공동 평가를 할 수 있도록 현재 MiniMix 하이브리드 전원 및 신호 커넥터 제품군의...",
+          "src": "AI타임스",
           "date": "08/10",
-          "url": "https://www.ajunews.com/view/20260810142748293",
-          "img": "https://image.ajunews.com/content/image/2026/08/10/20260810142906727990.png"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41376",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41376_62292_3838_v150.jpg"
         },
         {
-          "title": "바다 위 AI 데이터센터 뜬다… ETF 아버지가 찍은 5대 승부처는",
-          "desc": "배 대표는 2002년 국내 최초로 상장지수펀드(ETF) 도입을 주도해 '한국 ETF의 아버지'로 불리는 인물이다.... \"선박 활용한 AI 데이터센터 수요↑\" 이날 증시에선 코스닥을 중심으로 순환매 장세가 펼쳐졌다. 코스닥은 55....",
-          "src": "한국일보",
+          "title": "靑 \"메가특구특별법 연내 제정 추진…광주 군공항 기능분산 2028년까지\"",
+          "desc": "제도를 활용해 담당 공무원의 적극 행정을 독려하는 등 정부의 일하는 방식을 혁신해 나가기로 했다\"고... 이와 함께 기업-중소기업 간 대규모 공동 R&D, 피지컬 AI 얼라이언스를 통해 독자 기술 기반 유니콘 기업을 육성하고...",
+          "src": "더팩트",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/469/0000947219?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/08/10/2801bcfe-c8d2-4503-afef-e1b60d19c7eb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/629/0000523289?sid=100",
+          "img": "https://img.tf.co.kr/article/home/newsis/2026/08/10/202665341786354431.jpg"
         },
         {
-          "title": "[증권 NOW] 한국투자증권·미래에셋증권·NH투자증권·한화투자증권",
-          "desc": "■ 한국투자증권, '총 연금자산 실시간 평가' 업계 첫 도입 한국투자증권이 연금 투자 서비스를... 있다\"며 \"앞으로도 AI 기술 및 다양한 개발 환경과의 결합을 통해 고객 중심의 디지털 투자 생태계를 끊임없이 확장해...",
-          "src": "wikileaks-kr",
+          "title": "“전남·광주 섬 정책 대전환…AI·실증·에너지 자립 추진”",
+          "desc": "조성해 AI·스마트 기술을 실증하고 지역 현안을 해결하는 공간으로 활용해야 한다는 게 연구원의 판단이다.... 적정기술 실증·도입을, 대규모 섬은 자율주행차, 드론 물류, AI 기반 스마트양식, 디지털트윈 기반 그린수소...",
+          "src": "jndn",
           "date": "08/10",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190775",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/190775_204539_2930_v150.jpg"
+          "url": "http://www.jndn.com/article.php?aid=1786354732437593001",
+          "img": "http://www.jndn.com/upimages/photoda/"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "로봇·AI 인재 키운다…파워오토로보틱스·아라, 한기대에 1,500만원 쾌척",
+          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 삼성전자 1차 협력사 평가에서 A등급을 획득했다. LG전자·LG이노텍을 비롯해 국내외 자동차 전장·전자부품 기업에도 AI...",
+          "src": "ccdn",
+          "date": "08/10",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093096",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093096_603748_5028_v150.jpg"
+        },
         {
           "title": "파워오토로보틱스·아라, 한국기술교육대 발전기금 1500만원 쾌척",
           "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/10",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3423900",
           "img": "https://cdn.newscj.com/news/thumbnail/202608/3423900_3535329_599_v150.jpg"
-        },
-        {
-          "title": "파워오토로보틱스와 아라, 한국기술교육대에 발전기금 1천5백만 원 쾌척",
-          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
-          "src": "전자신문",
-          "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455956?sid=102",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "유럽 폭염에 에어컨 시장 급성장⋯삼성·LG보다 더 뜨거운 중국 업체 공...",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546528",
-      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546528_190337_5313_v150.jpg"
+      "title": "‘강시’처럼 쿵쿵대는 세탁기는 옛말…“집까지 직접 가져와 AI 실험했...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003669102?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
       "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
     },
     {
-      "title": "장수촌 다 뒤졌다…암 이겨낸 전 농심회장 따라한 ‘장수 비밀’",
+      "title": "‘이건희의 전략가’ 前삼성 사장, 코스트코서 쟁여 놓는 건강템",
       "url": "https://n.news.naver.com/mnews/article/025/0003543422?sid=103",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/937182d5-7ff4-48d8-b8d3-cf1b4726a0fd.jpg"
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/180dacd4-837a-4a60-a309-8e0de21d11dd.jpg"
     },
     {
-      "title": "[현장] 공공 AX 확산, 관건은 '제도'…AI 특성 맞는 발주·계약 체계 갖...",
-      "url": "https://n.news.naver.com/mnews/article/092/0002433532?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/08/10/0e6010e355723cf4512dd9bd75f8690c.jpg"
+      "title": "추경호 대구시장 \"'검토하겠다' 반복 말고 결론 내라\"…속도행정 주문",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080788",
+      "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080788_816262_4231.png"
     },
     {
-      "title": "[전문가 기고] AI 성공의 조건, AI 레디 데이터 플랫폼",
-      "url": "https://www.ajunews.com/view/20260810142748293",
-      "img": "https://image.ajunews.com/content/image/2026/08/10/20260810142906727990.png"
+      "title": "몰렉스, 휴머노이드 로봇의 양산 확대 위한 'MiniMix' 하이브리드 전원 ...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41376",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41376_62292_3838_v150.jpg"
     },
     {
-      "title": "바다 위 AI 데이터센터 뜬다… ETF 아버지가 찍은 5대 승부처는",
-      "url": "https://n.news.naver.com/mnews/article/469/0000947219?sid=101",
-      "img": "https://newsimg.hankookilbo.com/2026/08/10/2801bcfe-c8d2-4503-afef-e1b60d19c7eb.jpg"
+      "title": "靑 \"메가특구특별법 연내 제정 추진…광주 군공항 기능분산 2028년까지\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000523289?sid=100",
+      "img": "https://img.tf.co.kr/article/home/newsis/2026/08/10/202665341786354431.jpg"
     }
   ]
 };
