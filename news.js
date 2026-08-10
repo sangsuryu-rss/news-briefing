@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 02:10",
+  "updatedAt": "2026.08.11 (화) 04:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[반도체 전쟁] AI 반도체 부족이 부른 '공급망 잔혹사': 애플, CXMT 칩 사...",
-          "desc": "세계 최대의 가전·IT 공룡 애플이 중국 최대 D램 제조사인 창신메모리테크놀로지(CXMT)의 메모리 칩을... 빅테크 기업들의 AI 데이터센터 투자가 폭발적으로 늘어나면서 삼성전자, SK하이닉스, 마이크론 등 기존 메모리...",
-          "src": "businesskorea",
-          "date": "08/10",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274511",
-          "img": "https://www.businesskorea.co.kr/news/thumbnail/202608/274511_281842_123_v150.jpg"
+          "title": "카메라 잡고 '찰칵'… 베일 벗는 삼성 로봇",
+          "desc": "내부적으로는 내년 초 미국 라스베이거스에서 열리는 세계 최대 IT(정보기술)·가전 전시회 'CES 2027'에서 로봇기술을 공개하는 방안을 준비 중이다. 삼성전자는 RX사업추진실 신설과 함께 로봇사업 육성에 역량을 집중할...",
+          "src": "머니투데이",
+          "date": "08/11",
+          "url": "https://n.news.naver.com/mnews/article/008/0005398072?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019485348994_1.jpg"
         },
         {
           "title": "CJ온스타일 실적 개선 '이상무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
-          "desc": "등 AI 기반 감시 기술을 속속 도입 중이다. 카네기국제평화재단 조사에서는 179국 가운데 최소 97국이 치안... 인식을 활용했다. 이들 정부는 “범죄자를 신속히 찾아내고 공공 안전을 지키기 위해서”라고 주장한다....",
-          "src": "조선일보",
+          "title": "안 쓴 전기 모아 돈 번다… 錢·企 몰리는 가상발전소",
+          "desc": "자원으로 활용하는 V2G(Vehicle to Grid) 기술확산에 힘을 싣는다. ◇판 키우는 입찰제도…대기업도 참전 2024년 분산에너지 활성화 특별법 시행과 함께 전력거래소가 재생에너지 입찰제도를 도입하면서 1㎿를 넘는 태양광...",
+          "src": "머니투데이",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/023/0003992298?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/VO3FBVSYV5FNHCCRDEPVI24LUA.png?auth=d9288b3cd3ff84f349205cdd35f6600eda938117fc0cc51eabe4bd3c4f1b83ef&width=480&height=252&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/008/0005398086?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019544615583_1.jpg"
         },
         {
-          "title": "‘3대 메가’ 전격전…충청 246조·영남 107조 사업 연내 돌입",
-          "desc": "대·중소기업이 기술 개발부터 양산까지 협력하는 ‘함께성장 프로젝트’를 10년간 1조원 규모로 추진하기로 했다. 다만, 청와대는 연내 추진하는 ‘메가특구 특별법안’에 도입을 검토하고 있는 주 52시간 근로제...",
-          "src": "중앙일보",
+          "title": "카이스트 'AX' 선언, 모든 전공에 AI 결합",
+          "desc": "배 총장은 \"장기적인 기초과학 연구를 지원하는 동시에 대형 연구기획도 장려할 것\"이라며 \"국가전략기술과... AI를 도입해 행정도 효율화한다. 배 총장은 \"제반 규제를 없애고 AI를 활용한 원스톱 시스템을 개발해...",
+          "src": "머니투데이",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/025/0003543521?sid=100",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/11/3424e632-8958-488c-8438-e8dea462c61e.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005398082?sid=105",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081020045789380_1.jpg"
         },
         {
-          "title": "'바이킹 후예' 노르웨이, 농수산물 '수확 후 관리공학' 최고인 이유",
-          "desc": "적극 도입, 운영중이다. 비파괴 분석ㆍ콜드체인 기술 보유한 수산강국.... AI 및 디지털 트윈 기반의 유통ㆍ선별 시스템 활용 노르웨이는 또 조업 단계에서부터 완벽한 콜드체인(Cold Chain) 설비를 연계하여 운영한다....",
-          "src": "youngnong",
+          "title": "[출근길 포인트] 싸이월드 10월 재개장, 도토리 대신 코인… IP·데이터...",
+          "desc": "8PB 복원 난제 중첩 블록체인 기술 기업 시그마체인이 오는 10월 베타서비스를 시작으로 2027년 상반기... 모델을 도입한다. 박형근 시그마체인 최고기획책임자(CCO)는 이용자 40%, 크리에이터 40%, 플랫폼 20% 비율로...",
+          "src": "pointdaily",
           "date": "08/11",
-          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61422",
-          "img": "http://cdn.youngnong.co.kr/news/photo/202608/61422_52994_2916.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314970",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314970_310914_248_v150.jpg"
         },
         {
-          "title": "전력 줄이고 데이터 빠르게… 차세대 AI ‘CPO 기술’ 경쟁 치열",
-          "desc": "업계에서는 CPO 기술이 도입될 경우 기존 대비 최소 30% 이상의 전력을 아낄 수 있을 것으로 추산한다.... CPO 기술을 활용하면 기존 구리 배선의 문제로 꼽히던 신호 손실과 전력 소모를 막을 수 있다.",
-          "src": "동아일보",
+          "title": "美, 관세 환급금 1000억 달러 유입… 필수소비재 실적 호조",
+          "desc": "기술을 활용했기 때문이다. 과거 다섯 차례의 주요 기술 혁신 주기 조사 결과, 경제가 활성화된 시기에는 기술 도입이 채용 축소로 이어지지 않았다. 신기술 적용으로 프로젝트 처리 주기가 단축되면서 인력의 업무...",
+          "src": "g-enews",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/020/0003739855?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/10/134453877.1.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608101604444210fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081016073603077fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/10",
           "url": "https://n.news.naver.com/mnews/article/030/0003455998?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/08/news-p.v1.20260808.2b42c4161db14f31ab05d507e7685a99_P1.png"
         },
         {
           "title": "파워오토로보틱스·아라, 한기대 '로봇인재 육성'에 1500만원 기부",
@@ -170,16 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[반도체 전쟁] AI 반도체 부족이 부른 '공급망 잔혹사': 애플, CXMT 칩 사...",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274511",
-      "img": "https://www.businesskorea.co.kr/news/thumbnail/202608/274511_281842_123_v150.jpg"
+      "title": "카메라 잡고 '찰칵'… 베일 벗는 삼성 로봇",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398072?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019485348994_1.jpg"
     },
     {
       "title": "삼성도 제쳤다…LG 스타일러, 중국서 점유율 1위 오른 비결",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
-      "title": "범죄 막겠다며 소득·정신건강 정보까지 수집… 커지는 AI 빅브라더 논란",
-      "url": "https://n.news.naver.com/mnews/article/023/0003992298?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/VO3FBVSYV5FNHCCRDEPVI24LUA.png?auth=d9288b3cd3ff84f349205cdd35f6600eda938117fc0cc51eabe4bd3c4f1b83ef&width=480&height=252&smart=true"
+      "title": "안 쓴 전기 모아 돈 번다… 錢·企 몰리는 가상발전소",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398086?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081019544615583_1.jpg"
     },
     {
-      "title": "‘3대 메가’ 전격전…충청 246조·영남 107조 사업 연내 돌입",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543521?sid=100",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/11/3424e632-8958-488c-8438-e8dea462c61e.jpg"
+      "title": "카이스트 'AX' 선언, 모든 전공에 AI 결합",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398082?sid=105",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081020045789380_1.jpg"
     },
     {
-      "title": "'바이킹 후예' 노르웨이, 농수산물 '수확 후 관리공학' 최고인 이유",
-      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61422",
-      "img": "http://cdn.youngnong.co.kr/news/photo/202608/61422_52994_2916.jpg"
+      "title": "[출근길 포인트] 싸이월드 10월 재개장, 도토리 대신 코인… IP·데이터...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314970",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/314970_310914_248_v150.jpg"
     }
   ]
 };
