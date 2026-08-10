@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 11:36",
+  "updatedAt": "2026.08.10 (월) 14:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "코스닥으로 옮겨간 변동성 장세…'삼전닉스' 떠난 돈 여기 몰렸다 [증시...",
-          "desc": "삼성전자와 SK하이닉스 중심의 코스피가 숨 고르기에 들어간 사이 코스닥이 가파른 반등을 이어가고... 실제 지난 3일부터 7일까지 반도체 업종은 코스피 대비 8.9%p 낮은 수익률을 기록한 반면 건설, IT가전, 기계...",
-          "src": "파이낸셜뉴스",
+          "title": "KDI \"반도체 중심 경기 개선 확대\"…물가·고용 등 불확실성도",
+          "desc": "삼성전자 온누리상품권 환급 행사로 가전제품 판매도 작년 동월보다 13.1% 늘었습니다. 다만 이런 증가 요인은 일시적 영향이 커 7월 소비에도 영향을 지속해서 미칠지는 불확실한 상황입니다. 설비투자는 반도체 관련...",
+          "src": "연합뉴스TV",
           "date": "08/10",
-          "url": "https://n.news.naver.com/mnews/article/014/0005559296?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608100902433696_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000894233?sid=101",
+          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810143435TzQ_01_i.jpg"
         },
         {
           "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
         },
         {
-          "title": "외주화 물량 쏟아진다… 하나마이크론, 메모리·비메모리 쌍끌이 호재",
-          "desc": "아나패스, 삼성전자가 상승세를 유지하며 시스템반도체 생태계 전반의 단단한 지지대 역할을 담당하고... 증권업계 한 관계자는 \"AI가 모바일, 자율주행, 가전 등 전방 산업 전반으로 이식되면서 고성능·저전력...",
-          "src": "핀포인트뉴스",
+          "title": "[가전트렌드] 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시...",
+          "desc": "-편집자 말 ◇ 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시 워치 울트라2·워치9' 국내 공식... ⓒ쿠쿠 쿠쿠(대표이사 구본학)가 전국 61개 쿠쿠스토어 직영점을 중심으로 '일요일 순환 운영 서비스'를 새롭게...",
+          "src": "ibabynews",
           "date": "08/10",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475866",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475866_462949_732_v150.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153592",
+          "img": "https://www.ibabynews.com/news/photo/202608/153592_119245_4612.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[오늘의 게임·IT 소식] 엑스게이트, ‘SSL 가시화’ 솔루션 보안기능확...",
-          "desc": "INSIDE는 기술적 우수성과 보안 신뢰성을 검증받았다. 최근 웹 트래픽의 대부분이 암호화(SSL/TLS)됨에 따라... SOOP은 지난4일 업데이트를 통해AI기반 자동 채팅 번역 기능을 도입했다.지난1월 선보인AI자막 서비스에 이어...",
-          "src": "dealsite",
+          "title": "배충식 카이스트 총장 취임…“글로벌 혁신 선도대학 도약”",
+          "desc": "AI 활용 등급을 부여하는 3단계 교육과정을 운영한다. 아울러 현실 세계와 상호작용하는 피지컬 AI 및 미래 전략기술 연구를 확대하고, AI 자율랩 구축과 신입생 특화 창업교육도 도입한다. 이날 취임식에서는...",
+          "src": "dnews",
           "date": "08/10",
-          "url": "https://dealsite.co.kr/articles/166871",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/10/ac23d18e6daf4e219629850f554022a6/thumb.png"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101431359190438",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101431359190438-2-683077.jpg"
         },
         {
-          "title": "연천교육지원청, 지방공무원 AI 실무역량 연수 8월 10일 시작",
-          "desc": "AI 교육체제는 기술 도입을 넘어, 인공지능을 활용해 학습과 교직, 교육공동체 전반의 운영 방식을 새롭게 재구성하는 것을 목표로 한다. 행정 분야에서는 AI를 행정업무 전반에 적용해 일하는 방식과 조직문화를...",
-          "src": "gukjenews",
+          "title": "케이앤어스, 무선백도어 해킹 탐지 수요 증가…사업 확대 속도",
+          "desc": "케이앤어스는 최근 금융권을 비롯해 기관·기업을 중심으로 스파이아웃-2 구축 문의와 도입 사례가 늘고... 등을 활용한 불법촬영 탐지 제품, 스마트기기 녹음 방지 장비 등 인공지능(AI) 기반 물리보안 제품을 개발...",
+          "src": "newsprime",
           "date": "08/10",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3660255",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3660255_3827231_3021_v150.jpg"
+          "url": "http://www.newsprime.co.kr/news/article.html?no=743317",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743317_1786338510.jpg"
         },
         {
-          "title": "신원, AX로 글로벌 공급망 경쟁력 강화 AI 기반 운영체계 구축",
-          "desc": "Enterprise)’를 도입하는 등 데이터 기반 인공지능 전환(AX) 혁신을 본격 추진한다. AI와 자동화 기술, 데이터... OpenAI의 기업용 AI 솔루션인 챗GPT 엔터프라이즈를 도입해 임직원들의 AI 활용 기반을 구축하고, SAP와...",
-          "src": "okfashion",
+          "title": "추경호 대구시장 “불필요한 일 줄이고 시민 위한 일 속도 높여라”",
+          "desc": "행정 전반에 인공지능(AI)을 적극 활용해 업무 생산성과 효율성을 끌어올릴 것도 지시했다. 추 시장은 “AI행정의 목적은 단순히 새로운 기술을 도입하는 데 있는 것이 아니라 행정의 생산성과 효율성을 높이고 궁극적으로...",
+          "src": "kbmaeil",
           "date": "08/10",
-          "url": "http://okfashion.co.kr/detail.php?number=63956&thread=81r43",
-          "img": ""
+          "url": "https://www.kbmaeil.com/article/20260810500467",
+          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/08/10/.cache/512/20260810500462.jpg"
         },
         {
-          "title": "외국인 인증은 API로, CAD는 웹으로…씨엔티테크가 고른 두 SaaS",
-          "desc": "서로 다른 분야의 문제지만 복잡한 절차와 높은 도입 비용을 기술로 낮춘다는... 최근에는 생성형 AI를 접목해 도면과 기술문서의 활용도를 높이는 기능을 개발하고...",
-          "src": "venturesquare",
+          "title": "CJ대한통운 '택배쉬는날' 7년째…혹서기 휴식 넘어 '건강한 근무환경'으...",
+          "desc": "두 항목을 합치면 전체의 95.2%가 휴무 기간을 가족과 함께하거나 자신의 회복을 위한 시간으로 활용할... 데이터를 AI로 분석하는 기술을 건강관리 체계에 도입하는 등 건강 지원 프로그램을 고도화하고 있다. 이는...",
+          "src": "e-science",
           "date": "08/10",
-          "url": "https://www.venturesquare.net/1104838/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/tomo.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133245",
+          "img": "https://cdn.e-science.co.kr/news/photo/202608/133245_65596_4025.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[AI로 읽는 경제] ﻿① AI는 왜 공장부터 바꾸는가...숙련의 가격이 데이...",
-          "desc": "삼성전자는 2030년까지 국내외 생산공장을 'AI 자율공장'으로 전환하겠다는 전략을 발표했다. 생산계획과... 실증사업 종료 후 2~3년이 지나도 시스템이 가동되는지, 다른 공장과 협력사로 확산됐는지도 공개해야 한다....",
-          "src": "뉴스핌",
+          "title": "파워오토로보틱스·아라, 한기대에 발전기금 1500만 원",
+          "desc": "한국기술교육대는 AI무인화 자율제조로봇 솔루션 기업 파워오토로보틱스㈜와 협력사 ㈜아라가 대학... 파워오토로보틱스는 삼성전자 인도 생산법인을 비롯해 LG전자·LG이노텍과 국내외 자동차 전장·전자부품 기업에 AI...",
+          "src": "pressian",
           "date": "08/10",
-          "url": "https://www.newspim.com/news/view/20260807001056",
-          "img": "https://img.newspim.com/news/2026/08/07/2608071626062850_925_tc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/002/0002451578?sid=102",
+          "img": "https://cdn.pressian.com/_resources/10/2026/08/10/2026081014402744702_l.jpg"
         },
         {
-          "title": "\"AI 다음 대세라더니 물렸다\"…줄폭락에 개미들 '눈물' [분석+]",
-          "desc": "피지컬 AI의 '두뇌'로 평가한 삼성전자와 '몸통'인 현대차를 각각 25%씩 담는 ETF다. 나머지 절반은 로보티즈·현대모비스·SK하이닉스·삼성전기·HD현대일렉트릭·효성중공업 등 로봇·부품·반도체·전력 기업에...",
-          "src": "한국경제",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/015/0005318791?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/99.44909238.1.jpg"
+          "title": "파워오토로보틱스㈜·㈜아라, 한기대에 발전기금 기탁",
+          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
+          "src": "dhnews",
+          "date": "08/10",
+          "url": "https://dhnews.co.kr/news/view/1065591593890732",
+          "img": "http://dhnews.co.kr/news/data/20260810/p1065591593890732_955_thum.jpg"
         },
         {
-          "title": "꿈의 영업이익률 20%를 넘은 TK 반도체 3사…지역 경제 생태계 바꾸나",
-          "desc": "3%, 전자부품(13개사) 8.1%, 식품·음료(3개사) 7.5%, 에너지·가스(2개사) 5.9%, 자동차부품(17개사) 4.2% 등의... 어플라이드 머티어리얼즈와 비슷한 수준이다.씨엠티엑스는 국내에서 유일하게 TSMC 1차 협력사 지위를 확보했고...",
-          "src": "yeongnam",
-          "date": "08/09",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260809028030515",
-          "img": "https://www.yeongnam.com/mnt/thum/202608/news-a.v1.20260806.a320a1455c8a47f08909a0b9d317d071_T1.jpg"
+          "title": "파워오토로보틱스·아라, 한국기술교육대에 1천500만원 기부",
+          "desc": "파워오토로보틱스㈜와 협력사인 ㈜아라가 대학발전기금 1천500만원을 합동으로 기부했다고 밝혔다.... 파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조 자동화 로봇을 출하했으며, LG전자·LG이노텍 및...",
+          "src": "연합뉴스",
+          "date": "08/10",
+          "url": "https://n.news.naver.com/mnews/article/001/0016242714?sid=105",
+          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810094700063_01_i_P4.jpg"
         },
         {
-          "title": "1500억 수주 따내고도 '쉬쉬'…소부장 업계의 속사정",
-          "desc": "반도체 업황이 회복되면서 대기업들이 보안을 이유로 협력사에 “우리와 거래했다는 사실을 외부에 알리지... 국내 증시에서 자금이 삼성전자와 SK하이닉스 등 대형 반도체주로 집중되면서 코스닥 시장에 포진한 상당수...",
-          "src": "한국경제",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/015/0005318752?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/01.45271510.1.jpg"
+          "title": "中 CXMT, HBM·모바일 D램 '양면 공세'…삼성전자·SK하이닉스와 초격차...",
+          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자와 SK하이닉스가 인공지능(AI) 메모리 슈퍼사이클에 힘입어... 협력사들과는 12단 HBM 양산을 위한 설비 투자 협의도 시작한 것으로 전해진다. 카운터포인트리서치 황민성...",
+          "src": "joongangenews",
+          "date": "08/10",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=539033",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/539033_344709_3040.png"
         }
       ]
     },
@@ -170,16 +170,16 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "코스닥으로 옮겨간 변동성 장세…'삼전닉스' 떠난 돈 여기 몰렸다 [증시...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005559296?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/10/202608100902433696_l.jpg"
+      "title": "KDI \"반도체 중심 경기 개선 확대\"…물가·고용 등 불확실성도",
+      "url": "https://n.news.naver.com/mnews/article/422/0000894233?sid=101",
+      "img": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810143435TzQ_01_i.jpg"
     },
     {
       "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475747_462840_1419_v150.jpg"
     },
     {
-      "title": "외주화 물량 쏟아진다… 하나마이크론, 메모리·비메모리 쌍끌이 호재",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475866",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/475866_462949_732_v150.jpg"
+      "title": "[가전트렌드] 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭시...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153592",
+      "img": "https://www.ibabynews.com/news/photo/202608/153592_119245_4612.jpg"
     },
     {
-      "title": "[오늘의 게임·IT 소식] 엑스게이트, ‘SSL 가시화’ 솔루션 보안기능확...",
-      "url": "https://dealsite.co.kr/articles/166871",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/10/ac23d18e6daf4e219629850f554022a6/thumb.png"
+      "title": "배충식 카이스트 총장 취임…“글로벌 혁신 선도대학 도약”",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101431359190438",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/10/202608101431359190438-2-683077.jpg"
     },
     {
-      "title": "연천교육지원청, 지방공무원 AI 실무역량 연수 8월 10일 시작",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3660255",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3660255_3827231_3021_v150.jpg"
+      "title": "케이앤어스, 무선백도어 해킹 탐지 수요 증가…사업 확대 속도",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=743317",
+      "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743317_1786338510.jpg"
     }
   ]
 };
