@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.10 (월) 22:46",
+  "updatedAt": "2026.08.11 (화) 00:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "독파모 2차 평가 막바지…4개 팀 전략은",
-          "desc": "LG AI연구원, SK텔레콤, 업스테이지, 모티프테크놀로지스는 각기 다른 기술·사업 전략으로 2차 평가에... 포털 줌(ZUM)의 AI 검색 엔진에 활용되는 것을 비롯해 코스콤과 함께 국내 2500여개 상장 종목의 주가를 예측...",
-          "src": "byline",
-          "date": "08/10",
-          "url": "https://byline.network/?p=9004111222614750",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/K-AI.jpg"
+          "title": "디버그 주기 최대 40% 단축, 시놉시스 AI 설계 도구 공개",
+          "desc": "두 워크플로에는 회사의 에이전트엔지니어(AgentEngineer) 기술이 적용됐다. EDA는 반도체 설계 자동화를 뜻한다. 지금까지 설계자가 개별 도구를 조작하며 단계별 결과를 확인했다면, 자율형 워크플로는 여러 AI...",
+          "src": "tokenpost",
+          "date": "08/11",
+          "url": "https://www.tokenpost.kr/news/blockchain/387773",
+          "img": "https://f1.tokenpost.kr/2026/08/p1uxm18cv2.jpg"
         },
         {
-          "title": "남양주시, 자체 개발 AI 행정시스템 '냅' 전 직원 3천 명에 도입",
-          "desc": "시는 기존 유휴 서버를 재활용하면서 신규 장비 도입 등에 필요한 약 1억5,000만 원의 예산을 절감했다고 밝혔다. 별도의 외부 용역이나 사업예산을 투입하지 않고 자체 기술력을 활용해 행정 인공지능 시스템을...",
-          "src": "newstown",
-          "date": "08/10",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711916",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711916_666559_541_v150.jpg"
+          "title": "[기업家] 네이버 ⑭ㅣ AI로 성장판 키운다…검색·광고·교육까지 'AI 생...",
+          "desc": "● 2026-08-07 네이버 'AI 브리핑' 도입 이후 블로그 창작자 수익 2배 ↑…애드포스트 지급액 14% 상승 [네이버... 광고 매출은 AI 기술을 활용한 효율 개선과 타기팅 강화로 1조4472억원에 달했으며, 지난해 같은 기간보다 7.5...",
+          "src": "cbci",
+          "date": "08/11",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596872",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/596872_408698_5833_v150.jpg"
         },
         {
-          "title": "해운대구, 전국 첫 ‘글로벌 관광특구’ 선정…K-관광 거점 도약",
-          "desc": "AI 기반 24시간 무인관광안내소를 도입하고 외국인 스마트 결제 시스템을 마련해 언어와 결제 장벽을 낮춘다. 지능형 CCTV를 활용한 관광객 밀집도 분석을 통해 주요 관광지의 안전관리도 강화한다. 숙박 관광객을 대상으로...",
-          "src": "wikitree",
-          "date": "08/10",
-          "url": "https://www.wikitree.co.kr/articles/1151579",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/10/img_20260810221210_b849e0a6.jpg"
+          "title": "[The초점] 샌프란시스코에서 강원도까지, AI 데이터센터가 그리는 새로...",
+          "desc": "구성된 AI 데이터센터 추진단을 중심으로 인허가 절차를 과감히 간소화하고 패스트트랙 제도를 전면 도입해... 있도록 기술 실증 지원과 초기 투자 마중물을 과감히 제공해야 한다. 샌프란시스코에서 불기 시작한 AI...",
+          "src": "kwnews",
+          "date": "08/11",
+          "url": "https://n.news.naver.com/mnews/article/087/0001210563?sid=102",
+          "img": ""
         },
         {
-          "title": "당진시, 전국 AI 아이디어 제안 공모전 개최",
-          "desc": "2026년 당진시 AI 아이디어 제안 공모전 당진시가 인공지능(AI) 기술을 활용한 행정 혁신과 시민 체감형... 인공지능(AI) 행정 도입 방안이다. 참여 방법은 국민신문고를 이용하거나 시 누리집에 접속해 서식을 내려 받아...",
-          "src": "newstown",
-          "date": "08/10",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711931",
-          "img": "http://www.newstown.co.kr/news/thumbnail/202608/711931_666583_4942_v150.jpg"
+          "title": "\"18개월 걸려 계약하는데 AI는 반년마다 바뀐다\"…공공 발주체계 '경고...",
+          "desc": "김우제 서울과학기술대학교 교수는 10일 국회의원회관에서 열린 '공공AI도입을 통한 국가 AI대전환 촉진 2차... 개발을 마쳤다고 곧바로 쓸 수 있는 게 아니라, 목표한 품질 수준에 도달해야 실제 활용이 가능하다는...",
+          "src": "디지털데일리",
+          "date": "08/11",
+          "url": "https://n.news.naver.com/mnews/article/138/0002237281?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081016211961475_l.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/08/10/SSC_20260810181658_O2.jpg"
     },
     {
-      "title": "독파모 2차 평가 막바지…4개 팀 전략은",
-      "url": "https://byline.network/?p=9004111222614750",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/K-AI.jpg"
+      "title": "디버그 주기 최대 40% 단축, 시놉시스 AI 설계 도구 공개",
+      "url": "https://www.tokenpost.kr/news/blockchain/387773",
+      "img": "https://f1.tokenpost.kr/2026/08/p1uxm18cv2.jpg"
     },
     {
-      "title": "남양주시, 자체 개발 AI 행정시스템 '냅' 전 직원 3천 명에 도입",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711916",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/711916_666559_541_v150.jpg"
+      "title": "[기업家] 네이버 ⑭ㅣ AI로 성장판 키운다…검색·광고·교육까지 'AI 생...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596872",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/596872_408698_5833_v150.jpg"
     },
     {
-      "title": "해운대구, 전국 첫 ‘글로벌 관광특구’ 선정…K-관광 거점 도약",
-      "url": "https://www.wikitree.co.kr/articles/1151579",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/10/img_20260810221210_b849e0a6.jpg"
+      "title": "\"18개월 걸려 계약하는데 AI는 반년마다 바뀐다\"…공공 발주체계 '경고...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237281?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/08/10/2026081016211961475_l.jpg"
     }
   ]
 };
