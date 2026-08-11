@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 18:15",
+  "updatedAt": "2026.08.11 (화) 20:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'정부24' 앱 사용자 급증… 여행·영화 앱도 '들썩'",
-          "desc": "◆여름철 가전·여행 수요에 앱 사용자 동반 증가 2위는 삼성전자의 스마트홈 통합 앱 스마트씽스로 170만명(15%) 늘었다. 여름철 에어컨 등 냉방가전 사용이 늘어난 영향으로 풀이된다. 여행·레저 관련 앱도 강세를...",
-          "src": "newscj",
+          "title": "삼성 '300조 히트펌프' 공략…\"제주, 전초기지로 변신\"",
+          "desc": "신문선 삼성전자 생활가전(DA)사업부 상무는 “EHS 올인원은 아파트가 많은 국내 주거 환경에 최적화한 제품”이라고 강조했다. 삼성전자는 삼성물산과 협업해 아파트에 히트펌프를 상용화하기 위한 실증을 진행하고...",
+          "src": "한국경제",
           "date": "08/11",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3424312",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3424312_3535921_1251_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/AA.45303988.1.jpg"
         },
         {
           "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "이투데이",
           "date": "08/11",
           "url": "https://www.etoday.co.kr/news/view/2613333",
-          "img": ""
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
         },
         {
           "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI로 교정만 해도 흔적 남는다…클로드, 모든 글에 ‘워터마크’",
-          "desc": "워터마크를 도입한 주요 AI 기업은 앤스로픽이 두 번째다. 구글 딥마인드는 2024년부터 신스ID(Synth ID)로 제미나이가 생성한 텍스트·영상에 워터마크를 삽입해 왔다. 이미지는 이보다 이른 2023년부터 워터마킹 기술을...",
-          "src": "동아일보",
+          "title": "모티프테크놀로지스, 자체 LLM ‘Motif 2’ MS 마켓플레이스 출시",
+          "desc": "솔루션, AI 애플리케이션 및 에이전트를 찾고 도입할 수 있는 통합 온라인 플랫폼이다. 고객은... 안전하게 AI를 활용할 수 있도록 더욱 우수한 모델과 서비스를 지속적으로 선보일 것”이라고 말했다. 한편...",
+          "src": "데일리안",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/020/0003740106?sid=105",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134459606.3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003120754?sid=105",
+          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786446077_1677326_m_1.jpg"
         },
         {
-          "title": "SM하이플러스, CP6와 차세대 모빌리티 서비스 개발 맞손",
-          "desc": "플랫폼에 도입할 계획이다. 아울러 운전자의 위험 요인을 사전에 감지해 알려주는 '에이캣 드라이버(ACAT Driver)' 서비스로 기술을 확장하고, 사고 분석 알고리즘을 활용한 과실 판정 프로그램을 보험사와 수사기관...",
-          "src": "newslock",
+          "title": "포항상공회의소, '포항 AI 리더십 최고위과정' 개설",
+          "desc": "AI를 활용한 업무 자동화와 AI 에이전트·챗봇 개발 실습, 4주차에는 AI 스마트팩토리의 현장 도입 사례와... 나주영 포항상의 회장은 \"AI는 더 이상 일부 전문가만의 기술이 아니라 기업의 생산성과 경쟁력을 좌우하는...",
+          "src": "hidomin",
           "date": "08/11",
-          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134236",
-          "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134236_121971_3334_v150.jpg"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=716911",
+          "img": "https://cdn.hidomin.com/news/photo/202608/716911_418783_3615.jpg"
         },
         {
-          "title": "서울대병원 공동연구팀, 자폐 뇌영상 AI 평가법 제시",
-          "desc": "서울대병원 소아청소년정신과 김붕년 교수팀과 한국과학기술연구원(KIST), 멜버른대 공동연구팀은... 지표를 도입했다. 이를 통해 AI 모델이 뇌 네트워크의 구조적 변화에 반응하는 정도를 정량적으로 평가했다....",
-          "src": "lawissue",
+          "title": "중국산 EV 안방 질주하는데…한국판 IRA서 \"전기차 빠졌다\"",
+          "desc": "기술개발 역량과 공급망 기여도, 사후관리, 안전관리 등을 평가하는 제도를 도입했다. 정선화 기후부 녹색전환정책관은 지난 5월 \"국가 재정이 투입되는 보조금이 지속 가능한 국내 전기차 생태계 구축에 활용되도록 할...",
+          "src": "econovill",
           "date": "08/11",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202608111804083572f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747724",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/747724_722258_5414_v150.jpg"
         },
         {
-          "title": "[금융 풍향계] “상환 능력 다시 본다”…토스·고려저축은행, 신용평가...",
-          "desc": "인공지능(AI) 기술금융사 PFCT는 이 모형을 자사 실시간 여신전략운영솔루션 '에어팩-스튜디오'에 탑재해 대안정보 활용을 최적화하는 프레임워크로 업데이트한다. 고려저축은행은 이를 실제 여신심사에 반영해 대출...",
-          "src": "ekn",
+          "title": "포항제철소, AI '모터 상태 점검 시스템' 도입…냉연공장 적용·설비 점...",
+          "desc": "냉연공장에 도입해 스마트 정비 체계 구축을 가속화하고 있다. 이 시스템은 기존의 경험 위주 설비 점검 방식을 AI와 빅데이터를 활용해 고도화한 사례로, Intelligent Factory 구현을 위한 시도로 설명됐다. 해당 시스템은...",
+          "src": "gukjenews",
           "date": "08/11",
-          "url": "https://www.ekn.kr/web/view.php?key=20260811028071761",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.32a5392e57a942e08301b6637e5c005c_R.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662057",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3662057_3829175_2953_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'정부24' 앱 사용자 급증… 여행·영화 앱도 '들썩'",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3424312",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3424312_3535921_1251_v150.jpg"
+      "title": "삼성 '300조 히트펌프' 공략…\"제주, 전초기지로 변신\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/AA.45303988.1.jpg"
+    },
+    {
+      "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
+      "url": "https://www.etoday.co.kr/news/view/2613333",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
     },
     {
       "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "AI로 교정만 해도 흔적 남는다…클로드, 모든 글에 ‘워터마크’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740106?sid=105",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134459606.3.jpg"
+      "title": "모티프테크놀로지스, 자체 LLM ‘Motif 2’ MS 마켓플레이스 출시",
+      "url": "https://n.news.naver.com/mnews/article/119/0003120754?sid=105",
+      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786446077_1677326_m_1.jpg"
     },
     {
-      "title": "SM하이플러스, CP6와 차세대 모빌리티 서비스 개발 맞손",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134236",
-      "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134236_121971_3334_v150.jpg"
-    },
-    {
-      "title": "서울대병원 공동연구팀, 자폐 뇌영상 AI 평가법 제시",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202608111804083572f4ab64559d_12",
-      "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
+      "title": "포항상공회의소, '포항 AI 리더십 최고위과정' 개설",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=716911",
+      "img": "https://cdn.hidomin.com/news/photo/202608/716911_418783_3615.jpg"
     }
   ]
 };
