@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 06:05",
+  "updatedAt": "2026.08.12 (수) 08:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 게임 기기 시장 확대 속도",
-          "desc": "삼성전자가 게임스컴을 포함한 각종 게임 전시회에 적극 참여하는 배경에는 게임 기기 시장의 성장이 있다. 가성비(가격 대비 성능)를 중요하게 생각하는 일반 가전제품과 달리 게임 이용자는 제품 가격보다 ‘성능’에...",
-          "src": "segye",
+          "title": "[Who Is ?] 김종윤 롯데하이마트 대표이사",
+          "desc": "국내 가전시장 침체와 입주 물량 감소에 따른 이사 수요 위축으로 대형가전 판매가 부진한 데다 쿠팡 등 이커머스 업체들의 배송 경쟁 강화, 삼성전자와 LG전자 등 제조사의 자체 유통망 확대까지 겹치면서 가전...",
+          "src": "비즈니스포스트",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/022/0004150274?sid=105",
-          "img": "https://www.segye.com/content/image/2026/08/11/20260811520555.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442975",
+          "img": ""
         },
         {
           "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/11",
           "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
         },
         {
-          "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
-          "desc": "동탄 일대는 삼성전자 화성·기흥캠퍼스, 삼성SDI 등 배후 산업시설과 용인 첨단시스템반도체... 단지 내에는 상업시설, 영화관, 업무시설이 함께 배치되며 내부에는 삼성 비스포크 냉장고, 김치냉장고, 스팀오븐...",
-          "src": "파이낸셜뉴스",
-          "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
-          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+          "title": "“역대급 친일파, 조용히 사라지길”…하영, 복귀 가능할까",
+          "desc": "하영은 지난해 KBS2 '신상출시 편스토랑'에서 본가에 냉장고가 5대 있다며 \"안 먹어서 매일 썩는다\"고 말한 바... KBS2 '옥탑방의 문제아들' 323회 다시보기 서비스도 중단됐고, 하영이 출연한 삼성전자 및 의류 브랜드 광고...",
+          "src": "BNT뉴스",
+          "date": "08/12",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202608120004",
+          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/08/12/bnt202608120004.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "셀타스퀘어, AI가 바꾸는 약물감시 \"반복 업무 줄이고 ‘안전성 판단’...",
-          "desc": "약물감시(PV) 분야에서 AI 활용이 문헌 검색과 안전성 데이터 입력 등 반복 업무를 중심으로 확대되고 있다.... 파트너로AI 솔루션을 도입한다고 PV 역량이 저절로 높아지는 것은 아니다. 어떤 업무에 기술을 적용할지...",
-          "src": "yakup",
+          "title": "[더벨][상폐규제 데드라인] AI 신사업 꺼낸 자비스, 주식병합·정관변경...",
+          "desc": "추가되는 사업목적은 4가지로 △AI 기반 소프트웨어업 △하드웨어 및 플랫폼의 연구, 개발, 제조, 운영, 유지보수업 △AI 기술의 도입, 활용에 관한 컨설팅업 △기술용역 및 관련 데이터의 수집, 가공업이다. 자비스는...",
+          "src": "더벨",
           "date": "08/12",
-          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=330978",
-          "img": "https://www.yakup.com/data/editor/news/202608/HcVGSYdDDcXH2Qs5w6zTRx5nGu.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101356417320104335",
+          "img": ""
         },
         {
-          "title": "[패트롤] 광명시-군포시-시흥시-안산시-안양시",
-          "desc": "특히 AI가 단순한 기술 도입을 넘어 산업구조와 일하는 방식, 시민 삶까지 변화시키는 핵심 동력으로 자리... 특히 일자리-온 서비스와 함께 고용노동부의 '잡케어(Job Care)' 시스템을 활용한 AI상담창구 심층상담도 함께...",
-          "src": "ekn",
+          "title": "상반기 탑승률 1위는 ‘이스타’…그 비결 살펴보니 [항공+]",
+          "desc": "최근에는 디지털 기술을 활용한 안전 대응 체계를 강화하며 운항 과정에서의 편의성도 높이고 있다. AI로... 객실승무원 채용 전형에는 체력시험을 도입해 비상 상황 대응 역량도 강화하고 있다. 지난해에는 국토교통부...",
+          "src": "매일경제",
           "date": "08/12",
-          "url": "https://www.ekn.kr/web/view.php?key=20260812020041891",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.cefaeff4e0574f87bee1297736ae4f74_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005719768?sid=103",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/12/news-p.v1.20260811.61f3ccb0109b44e5b126709950ce0186_R.jpg"
         },
         {
-          "title": "오라클 \"데이터 옮기지 말라\"…인프라는 액셀러론, DB는 26ai로",
-          "desc": "있고, AI 에이전트가 비즈니스 데이터를 충분히 활용할 수 있어야 복잡한 실행까지 이어진다\"고 말했다.... 오라클은 이 기술을 도입한 클라우드 사업자(CSP)는 자사가 유일하다고 밝혔다. 액셀러론이 적용된 첫 컴퓨트...",
-          "src": "디지털데일리",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237470?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081118325755512_l.jpg"
-        },
-        {
-          "title": "[테크 차이나] 인증 통과해야 시장이다…시험·검사·인증이 쥔 중국 산...",
-          "desc": "중국이 시험·검사·인증을 산업정책으로 키우는 이유는 기술의 성능을 측정하는 데서 끝나지 않고, 시장이... 테스트, AI 모델·에이전트 평가, 탄소발자국 인증과 '한 번 시험해 여러 국가 인증에 활용하는' 서비스를...",
+          "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 9월 출범",
+          "desc": "AX(AI 전환)을 전담할 '국민인공지능서비스혁신추진단'이 9월 출범한다. 배경훈 부총리 겸 과학기술정보통... 정부 전반의 AI 도입·전환 서비스의 설계·개발·검증·고도화와 사용자 경험 개선 등 관련 업무를 수행하게...",
           "src": "전자신문",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/030/0003456452?sid=104",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/030/0003456458?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.c5b75b4243f1414388209d3f311c6841_P1.jpg"
+        },
+        {
+          "title": "과기정통부, 자율실험실 산학연 협의체 출범…'K-문샷' 혁신 가속화",
+          "desc": "인공지능(AI) 기반 과학기술 혁신 가속화를 위해 국가적 차원의 자율실험실 산·학·연 협의체가 첫 출범했다.... K-문샷은 AI를 활용해 연구 생산성을 높이고 국가적 미션을 해결하는 국가 프로젝트다. 자율실험실은 AI가...",
+          "src": "itbiznews",
+          "date": "08/12",
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=221591",
+          "img": "https://cdn.itbiznews.com/news/photo/202608/221591_224526_5314.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 게임 기기 시장 확대 속도",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150274?sid=105",
-      "img": "https://www.segye.com/content/image/2026/08/11/20260811520555.jpg"
-    },
-    {
       "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
       "url": "https://www.etoday.co.kr/news/view/2613333",
       "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
     },
     {
-      "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
-      "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+      "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
+      "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
     },
     {
-      "title": "셀타스퀘어, AI가 바꾸는 약물감시 \"반복 업무 줄이고 ‘안전성 판단’...",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=330978",
-      "img": "https://www.yakup.com/data/editor/news/202608/HcVGSYdDDcXH2Qs5w6zTRx5nGu.jpg"
+      "title": "“역대급 친일파, 조용히 사라지길”…하영, 복귀 가능할까",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608120004",
+      "img": "https://www.bntnews.co.kr/data/bnt/image/2026/08/12/bnt202608120004.png"
     },
     {
-      "title": "[패트롤] 광명시-군포시-시흥시-안산시-안양시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260812020041891",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.cefaeff4e0574f87bee1297736ae4f74_R.jpg"
+      "title": "상반기 탑승률 1위는 ‘이스타’…그 비결 살펴보니 [항공+]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005719768?sid=103",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/12/news-p.v1.20260811.61f3ccb0109b44e5b126709950ce0186_R.jpg"
     },
     {
-      "title": "오라클 \"데이터 옮기지 말라\"…인프라는 액셀러론, DB는 26ai로",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237470?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081118325755512_l.jpg"
+      "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 9월 출범",
+      "url": "https://n.news.naver.com/mnews/article/030/0003456458?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.c5b75b4243f1414388209d3f311c6841_P1.jpg"
+    },
+    {
+      "title": "과기정통부, 자율실험실 산학연 협의체 출범…'K-문샷' 혁신 가속화",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=221591",
+      "img": "https://cdn.itbiznews.com/news/photo/202608/221591_224526_5314.jpg"
     }
   ]
 };
