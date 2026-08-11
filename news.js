@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 07:57",
+  "updatedAt": "2026.08.11 (화) 11:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "인공지능 믿었던 미국 대기업들의 후회... 한국이 간과한 진실 [강인규...",
-          "desc": "삼성전자 인사팀은 6월 15일 스마트폰·가전 등 완제품사업(DX) 부문 임원들에게 배포한 자료에 '토큰가성비'라는 새 지표를 포함시켰습니다. 두 조직이 똑같이 10명분의 노동량을 인공지능으로 대체했더라도, 토큰을 덜...",
-          "src": "ohmynews",
+          "title": "\"삼성전자야, 넌 난방 전기화 계획이 다 있구나\"…韓 ‘냉난방 통합’ ...",
+          "desc": "단독주택 넘어 아파트 겨냥…보조금·전기요금 제도는 과제 삼성전자가 냉방과 난방, 급탕을 하나의 시스템으로 묶은 가정용 히트펌프 'EHS 올인원'을 연내 국내에 출시한다. 화석연료 보일러를 히트펌프로 바꾸는 정부의...",
+          "src": "디지털데일리",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/047/0002525142?sid=102",
-          "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0807/A0003257289_T.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002237375?sid=105",
+          "img": ""
         },
         {
-          "title": "CJ온스타일 실적 개선 '이상무', 이선영 '원플랫폼 전략'으로 CJENM 버팀...",
-          "desc": "중국 로봇청소기 기업 로보락과 한국 가구 브랜드 자코모는 CJ온스타일에서 누적 주문액 각각 250억 원... 이 방식이 자리 잡으면서 삼성전자의 스마트폰 갤럭시S23, 동아제약의 영양제 오쏘몰바이탈 등이 홈쇼핑 첫...",
-          "src": "비즈니스포스트",
-          "date": "08/10",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444368",
-          "img": ""
+          "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
+          "desc": "삼성전자가 7년간 축적한 갤럭시 폴더블 기술의 발전 과정을 소개하는 '폴더블 헤리티지' 전시를 삼성... 오는 27~28일에는 로봇청소기를 활용한 리버스 엔지니어링과 피지컬 AI 실습 교육도 지원할 예정이다....",
+          "src": "dealsite",
+          "date": "08/11",
+          "url": "https://dealsite.co.kr/articles/166966",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/11/24fd06e6a3fb4c28bcba14c51fc0b1cd/thumb.jpg"
         },
         {
           "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
         },
         {
-          "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-          "desc": "삼성전자는 2026년형 로봇청소기 '비스포크 AI 스팀'의 글로벌 출시 시점을 확정하지 않고 있다. 2월 출시 이후 하반기에도 출시 시점을 명시하지 않고 있다. 삼성전자 관계자는 “전략 재편에 따라 당분간 국내 시장에...",
-          "src": "전자신문",
-          "date": "08/09",
-          "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+          "title": "[미르의 알기쉬운 비즈니스]“아이폰 사용자도 넘어오게”…삼성이 폴...",
+          "desc": "삼성전자가 2019년 첫 갤럭시 폴드를 선보였을 당시만 해도 폴더블폰은 과감한 기술적... 여기에 TV와 냉장고 등 AI 기능이 탑재된 가전까지 하나의 생태계로 묶어 소비자가...",
+          "src": "mediapen",
+          "date": "08/11",
+          "url": "https://www.mediapen.com/news/view/1115531",
+          "img": "https://image.mediapen.com/news/202608/news_1115531_1786405811_m.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "구글, 국내 모바일 이용자 수에서 네이버 첫 추월",
-          "desc": "에이전트 기술과 보안 경험을 공유했고 네이버는 같은 달 앤트로픽의 AI 코딩 에이전트 클로드 코드를 엔지니어링 조직에 도입했다. 인프라 투자도 병행된다. 네이버는 엔비디아와 AI 팩토리를 공동 구축하고 있으며...",
-          "src": "econovill",
+          "title": "이숙자 서울시의원 'AI 스마트 소방' 조례안 발의",
+          "desc": "인공지능(AI)·무인비행장치(드론)·지능형 로봇 등 첨단 소방장비의 체계적인 도입과 활용을 지원하는'서울특별시 첨단 소방 기술 및 장비 활용 지원에 관한 조례안'을 발의했다. 첨단 소방기술과 장비 도입을 위한 행정...",
+          "src": "newsmaker",
           "date": "08/11",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747611",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747611_722093_5054_v150.jpg"
+          "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180531",
+          "img": ""
         },
         {
-          "title": "\"소리로 불량품 잡아낸다\"…디플리, 팁스 선정에 정확도 99.87% 검사 AI 눈...",
-          "desc": "현장에 도입될 수 있도록 기술 고도화와 제품 표준화에 속도를 낼 계획이다. 기술 개발의 방향은 로봇과 반도체, 모빌리티 등 여러 제조 환경에 유연하게 적용할 수 있는 차세대 음향 AI로 잡았다. 사전 학습 방식을 활용...",
-          "src": "econovill",
+          "title": "[보안칼럼] 동남아 대형 국영 기업의 예견된 랜섬웨어 공격 피해에서 배...",
+          "desc": "인포스틸러 운영자가 자격 증명과 세션 정보를 수집하고, 초기 침투 브로커(Initial Access Broker)가 이를 활용해... 콘스텔라가 AI 기반 위협 헌팅을 도입한 뒤 탐지한 침해 건수가 159% 늘었다고 밝힌 것은, 사람만으로는 놓쳤을...",
+          "src": "dailysecu",
           "date": "08/11",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747608",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747608_722088_4158_v150.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207987",
+          "img": "https://cdn.dailysecu.com/news/photo/202608/207987_208906_2020.jpeg"
         },
         {
-          "title": "일부 데이터센터 유동화증권, SEC가 ABS로 보지 않았다",
-          "desc": "위험보유 제도는 2008년 글로벌 금융위기 이후 유동화 시장의 과도한 위험 이전을 막기 위해 도입됐다.... 조달이 활용된 구조를 전했다. 가상자산 업계에서는 채굴 시설을 AI·고성능컴퓨팅 데이터센터로 전환하거나...",
-          "src": "tokenpost",
+          "title": "가천대 길병원, AX 혁신 확산한다…AI 실무 교육 가속",
+          "desc": "가천대 길병원 AX혁신본부는 최근 전 직원을 대상으로 AI 기술의 이해와 업무 적용을 돕는 ‘AI 활용 Step... 대화를 AI가 실시간 분석해 경과 기록(SOAP) 형식으로 자동 생성하는 'AI 음성 EMR'을 도입했다. 이를 통해...",
+          "src": "서울경제TV",
           "date": "08/11",
-          "url": "https://www.tokenpost.kr/news/policy/387967",
-          "img": "https://f1.tokenpost.kr/2026/08/v29o4nnn7t.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202608110074",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/11/sentv20260811000072.jpg"
         },
         {
-          "title": "“일방향 경제정책에 증시 혼란... 레드팀’ 의견 경청해야”",
-          "desc": "조 원장은 “레버리지 상장지수펀드(ETF)의 도입 과정, 피해를 키운 늑장 대응, 실효성 없는 땜질식 대응 등 전... 등 기술적으로 대체 불가능한 지위를 미국과의 통상 협상에 활용할 필요가 있다”며 “개별 기업을 넘어...",
-          "src": "서울경제",
+          "title": "서울우유, 사내 생성형 AI 플랫폼 도입…업무 데이터 활용 범위 넓힌다",
+          "desc": "사혁 서울우유 상임이사는 “서울우유 GPT 도입은 AI를 보다 안전하고 효율적으로 활용할 수 있는 업무 환경을 마련하기 위한 출발점”이라며 “디지털 기술을 활용해 업무 생산성을 높이고 경영 환경 변화에 대응하는...",
+          "src": "lawissue",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/011/0004650435?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/10/ams.001.photo.202608041619551348578540_R.jpg"
+          "url": "http://www.lawissue.co.kr/view.php?ud=202608111124563392204ead0791_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260811112548096720204ead079118023320059.jpg&nmt=12"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "TSMC, 실적 강세와 실리콘 주권 질서…K반도체 공급망 비상",
-          "desc": "SK하이닉스와 삼성전자는 고대역폭 메모리 및 고성능 서버용 메모리 단가 상승으로 수익성을 유지할 전망이다. 소부장 국책 펀드 자금이 집행되면 한국 장비와 소재 협력사의 기술 자립도가 상승한다. 반면 미국...",
-          "src": "g-enews",
+          "title": "[삼성 113조 투자와 지역경제①]그 돈이 아산에 무엇을 남길 것인가.",
+          "desc": "삼성전자를 따라서 아산시로 오는 기업 몇 곳인가' 대기업 생산시설 하나가 지역경제에 미치는 효과는 해당 기업의 직접투자에만 머물지 않는다. 원재료와 부품·장비를 공급하거나 시설 유지·보수, 물류, 엔지니어링...",
+          "src": "newsfreezone",
           "date": "08/11",
-          "url": "https://www.g-enews.com/view.php?ud=202608110709238886fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081107302006009fbbec65dfb211211153121.jpg"
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703430",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202608/703430_749857_010_v150.jpg"
         },
         {
-          "title": "TV 패널·AI·XR 생태계도 '적과의 동침' [각자도생 삼성下]",
-          "desc": "최적의 부품과 기술을 조달하는 '베스트 소싱(Best Sourcing)' 전략이 정착했다. 디스플레이 분야에서는 최대... 삼성전자의 프로세서 대신 협력사이자 경쟁사인 퀄컴의 '스냅드래곤 AR1 1세대' 프로세서와 구글의...",
-          "src": "조선일보",
+          "title": "[디지털포스트 모닝픽] 국내 MAU 지각변동? … 구글, 네이버 첫 추월",
+          "desc": "전날인 10일 업계에 따르면 삼성전자는 협력사에 추가 부품을 주문했으며, 연간 폴드8 생산 규모는 기존 280만대에서 300만대 후반으로 늘어날 전망입니다. 지난달 28일부터 이달 4일까지 갤럭시 Z8 시리즈의 국내...",
+          "src": "ilovepc",
           "date": "08/11",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167751",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092167751_449805_3414_v150.jpg"
+          "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60286",
+          "img": "https://www.ilovepc.co.kr/news/thumbnail/202608/60286_167115_146_v150.jpg"
         },
         {
-          "title": "로봇·AI 인재 키운다…파워오토로보틱스·아라, 한기대에 1,500만원 쾌척",
-          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 삼성전자 1차 협력사 평가에서 A등급을 획득했다. LG전자·LG이노텍을 비롯해 국내외 자동차 전장·전자부품 기업에도 AI...",
-          "src": "ccdn",
-          "date": "08/10",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093096",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093096_603748_5028_v150.jpg"
-        },
-        {
-          "title": "파워오토로보틱스·아라, 한국기술교육대 발전기금 1500만원 쾌척",
+          "title": "파워오토로보틱, 아라 '합동' 한국기술교육대 발전기금 1천5백만 원 쾌척",
           "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
-          "src": "irobotnews",
-          "date": "08/10",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47848",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/47848_102556_4256.jpg"
+          "src": "chungnamilbo",
+          "date": "08/11",
+          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903383",
+          "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/903383_481680_1852_v150.jpg"
+        },
+        {
+          "title": "AI 경쟁 뒤처진 애플…도대체 애플은 뭘 믿고 있는 걸까? [스프]",
+          "desc": "삼성전자, SK하이닉스, 마이크론 3사가 메모리 시장에서 독점하면서 부품사들의 힘이 세진 상황이니 그... 애플은 자사의 주요 협력사 정보와 기밀문서를 이들이 빼돌렸다는 의혹을 제기했습니다. 반면 오픈AI는 '타사...",
+          "src": "news",
+          "date": "08/11",
+          "url": "https://n.news.naver.com/mnews/article/055/0001379688?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260807/202210163_1280.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "인공지능 믿었던 미국 대기업들의 후회... 한국이 간과한 진실 [강인규...",
-      "url": "https://n.news.naver.com/mnews/article/047/0002525142?sid=102",
-      "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0807/A0003257289_T.jpg"
+      "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
+      "url": "https://dealsite.co.kr/articles/166966",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/11/24fd06e6a3fb4c28bcba14c51fc0b1cd/thumb.jpg"
     },
     {
       "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
     },
     {
-      "title": "美 규제에 삼성전자·LG전자 '로청' 글로벌 출시 늦춘다…“공급망 재편...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455494?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.31558a398afc4e6180657430d1bd2a4e_P1.jpg"
+      "title": "[미르의 알기쉬운 비즈니스]“아이폰 사용자도 넘어오게”…삼성이 폴...",
+      "url": "https://www.mediapen.com/news/view/1115531",
+      "img": "https://image.mediapen.com/news/202608/news_1115531_1786405811_m.png"
     },
     {
-      "title": "구글, 국내 모바일 이용자 수에서 네이버 첫 추월",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747611",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747611_722093_5054_v150.jpg"
+      "title": "[보안칼럼] 동남아 대형 국영 기업의 예견된 랜섬웨어 공격 피해에서 배...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207987",
+      "img": "https://cdn.dailysecu.com/news/photo/202608/207987_208906_2020.jpeg"
     },
     {
-      "title": "\"소리로 불량품 잡아낸다\"…디플리, 팁스 선정에 정확도 99.87% 검사 AI 눈...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747608",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747608_722088_4158_v150.jpg"
+      "title": "가천대 길병원, AX 혁신 확산한다…AI 실무 교육 가속",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608110074",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/11/sentv20260811000072.jpg"
     },
     {
-      "title": "일부 데이터센터 유동화증권, SEC가 ABS로 보지 않았다",
-      "url": "https://www.tokenpost.kr/news/policy/387967",
-      "img": "https://f1.tokenpost.kr/2026/08/v29o4nnn7t.jpg"
+      "title": "서울우유, 사내 생성형 AI 플랫폼 도입…업무 데이터 활용 범위 넓힌다",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608111124563392204ead0791_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260811112548096720204ead079118023320059.jpg&nmt=12"
     }
   ]
 };
