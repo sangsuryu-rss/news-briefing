@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 02:14",
+  "updatedAt": "2026.08.12 (수) 04:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/11",
           "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
+          "img": ""
         },
         {
           "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"결제망까지 깔았는데\"…규제에 묶인 스테이블코인 사업",
+          "desc": "이를 극복하기 위해 신속한 입법과 규제 샌드박스 활용, 명확한 가이드라인 제시 등이 대안으로 제시된다. 안도걸 더불어민주당 의원실은 \"2단계 디지털자산기본법 관련 국회 일정을 조율하는 과정에 있으며 빨리 도입...",
+          "src": "pointdaily",
+          "date": "08/12",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315062",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315062_311061_4652_v150.jpg"
+        },
+        {
+          "title": "[패트롤] 고양시-동두천시-양주시-의정부시-포천시",
+          "desc": "고양시는 지역 인프라를 활용해 항공우주와 UAM 중심 첨단산업 생태계를 조성하고, 산-학-연 협력을 강화해... UAM, 항공우주, 드론 등 미래항공 분야 기업과 연구기관을 집적해 기술창업과 기업 성장을 지원할 계획이다....",
+          "src": "ekn",
+          "date": "08/12",
+          "url": "https://www.ekn.kr/web/view.php?key=20260812020541838",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.8abf5748cdbc4635adef6d0c49500779_R.jpg"
+        },
+        {
+          "title": "엔비디아, 새 AI 모델 공개…\"GPU 1개로 PC에서 구동 가능\"",
+          "desc": "미 행정부는 키미 K3가 미 국가 안보에 위협이 될 수 있다고 우려하는 한편, 이른바 증류라는 기술을 통한... 이런 AI 모델을 도입하면 이를 활용하는 기업들이 자사 미래에 대해 더 큰 통제력을 갖게 되고, AI 모델 간...",
+          "src": "파이낸셜뉴스",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/014/0005560251?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/11/202608112334028429_l.jpg"
+        },
+        {
           "title": "AI 기본의료, 남은 건 예산이다[투데이 窓/최윤섭]",
           "desc": "취약지 의원의 AI 도입을 지원하고, 상용 의료 AI를 지역 병의원에 보급하며, AI 기반 의뢰·회송과 응급 이송 체계, 나아가 AI 의료 기술의 성과의 평가·보상하는 체계까지 포함되어 있다. 한국에서도 이런 전향적인 정책이...",
           "src": "머니투데이",
           "date": "08/12",
           "url": "https://n.news.naver.com/mnews/article/008/0005398675?sid=110",
           "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081108285538594_1.jpg"
-        },
-        {
-          "title": "[단독]중복상장 우회 ‘꼼수’…자회사 IPO 후 구다이글로벌 상장",
-          "desc": "[본 이미지는 AI 기술을 활용해 제작되었습니다.] 모회사 상장 직전 M&A 자회사 조기 상장의 맹점 최근... 목적으로 도입된 중복상장 규제를 형식적으로 피해갈 수 있어서다. 중복상장을 원칙적으로 금지하고 예외적으로만...",
-          "src": "이데일리",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/018/0006349841?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081200020.1280x.0.jpg"
-        },
-        {
-          "title": "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전...",
-          "desc": "반면 기업들이 AI 공격을 막기 위해 새로운 보안 시스템을 도입하는 것은 아직 초기 단계라고 분석했습니다. 과거에는 해커가 직접 공격 대상을 찾고 취약점을 분석해야 했지만 AI 에이전트를 활용하면 상당 부분을...",
-          "src": "한국경제",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/015/0005319844?sid=104",
-          "img": "https://img.hankyung.com/photo/202608/01.45306773.1.jpg"
-        },
-        {
-          "title": "이더리움(ETH) 6단계 로드맵 폐기…\"이제 AI가 검증\"",
-          "desc": "-비탈릭 부테린은 포스트 양자 기술과 강력한 프라이버시를 이더리움의 핵심 개발 목표로 제시했다. -AI는 인간이 직접 처리하기 어려워진 프로토콜 코드의 형식 검증을 담당하는 핵심 도구로 활용될 예정이다.",
-          "src": "coinreaders",
-          "date": "08/12",
-          "url": "http://coinreaders.com/252274",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202602/800_800_2026020317263750.png"
         }
       ]
     },
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
     },
     {
-      "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
-      "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
-    },
-    {
       "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
       "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "AI 기본의료, 남은 건 예산이다[투데이 窓/최윤섭]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398675?sid=110",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081108285538594_1.jpg"
+      "title": "\"결제망까지 깔았는데\"…규제에 묶인 스테이블코인 사업",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315062",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315062_311061_4652_v150.jpg"
     },
     {
-      "title": "[단독]중복상장 우회 ‘꼼수’…자회사 IPO 후 구다이글로벌 상장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349841?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081200020.1280x.0.jpg"
+      "title": "[패트롤] 고양시-동두천시-양주시-의정부시-포천시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260812020541838",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.8abf5748cdbc4635adef6d0c49500779_R.jpg"
+    },
+    {
+      "title": "엔비디아, 새 AI 모델 공개…\"GPU 1개로 PC에서 구동 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005560251?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/11/202608112334028429_l.jpg"
     }
   ]
 };
