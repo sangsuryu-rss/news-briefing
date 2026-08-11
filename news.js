@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 00:17",
+  "updatedAt": "2026.08.12 (수) 02:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/11",
           "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
         },
         {
           "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"공공부문 AI 전환 앞당기려면, 발주·계약체계 개편해야\"",
-          "desc": "활용 가능성을 사전에 예측하기 어려운 만큼, 기존 공공 SW 발주방식으로는 적기에 AI 사업을 추진하기 어렵다는 것이다. 김우제 서울과학기술대학교 교수는 지난 10일 더불어민주당 이주희 의원이 개최한 '공공 AI 도입...",
-          "src": "junggi",
+          "title": "AI 기본의료, 남은 건 예산이다[투데이 窓/최윤섭]",
+          "desc": "취약지 의원의 AI 도입을 지원하고, 상용 의료 AI를 지역 병의원에 보급하며, AI 기반 의뢰·회송과 응급 이송 체계, 나아가 AI 의료 기술의 성과의 평가·보상하는 체계까지 포함되어 있다. 한국에서도 이런 전향적인 정책이...",
+          "src": "머니투데이",
           "date": "08/12",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37407",
-          "img": "https://cdn.junggi.co.kr/news/photo/202608/37407_43800_1842.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005398675?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081108285538594_1.jpg"
         },
         {
-          "title": "패트롤] 과천시-군포시-부천시-안양시-의왕시",
-          "desc": "또한 올해는 생성형 AI 기술을 접목한 영상 부문을 신설했다. 참가자는 AI 프로그램을 활용해 안양시... 46점) 달성을 비롯해 △민간 클라우드 기반 스마트워크 도입과 창의-혁신 토론회를 통한 대행 사업비 예산 대폭 절감...",
-          "src": "ekn",
-          "date": "08/11",
-          "url": "https://www.ekn.kr/web/view.php?key=20260811028381822",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.d6afa471aa9e456ca17fa30b52ac5820_R.jpg"
+          "title": "[단독]중복상장 우회 ‘꼼수’…자회사 IPO 후 구다이글로벌 상장",
+          "desc": "[본 이미지는 AI 기술을 활용해 제작되었습니다.] 모회사 상장 직전 M&A 자회사 조기 상장의 맹점 최근... 목적으로 도입된 중복상장 규제를 형식적으로 피해갈 수 있어서다. 중복상장을 원칙적으로 금지하고 예외적으로만...",
+          "src": "이데일리",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/018/0006349841?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081200020.1280x.0.jpg"
         },
         {
-          "title": "회원이 뽑는 다음 성장기업…혁신의숲, 2차 후보 30개사 공개",
-          "desc": "후보 선정에는 서비스 방문자 수와 소비자 거래액, 고용인원 변화, 투자 이력 등의 데이터가 활용된다.... 해양드론기술, 홈앤코 등 30개사다. 1차 투표 빅모빌리티 1위…15개사 모아 11월 결선 혁신의숲은 지난해 도입한...",
-          "src": "venturesquare",
-          "date": "08/11",
-          "url": "https://www.venturesquare.net/1105387/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/202020-505x522.png"
+          "title": "반도체와 컴퓨팅도 대출 담보로…월가의 실험 VS 도박[박신영의 개장전...",
+          "desc": "반면 기업들이 AI 공격을 막기 위해 새로운 보안 시스템을 도입하는 것은 아직 초기 단계라고 분석했습니다. 과거에는 해커가 직접 공격 대상을 찾고 취약점을 분석해야 했지만 AI 에이전트를 활용하면 상당 부분을...",
+          "src": "한국경제",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/015/0005319844?sid=104",
+          "img": "https://img.hankyung.com/photo/202608/01.45306773.1.jpg"
         },
         {
-          "title": "사진에 보이지 않는 신호 심어 합성 차단…매쉬업벤처스, 스틸컷 투자",
-          "desc": "막는 AI 보안 기술이 투자받았다. 스틸컷은 사진의 화질을 유지하면서 사람의 눈에... 서비스 도입을 논의하고 있다. 개인 사진 보호에서 시작해 방송 콘텐츠와 기업...",
-          "src": "venturesquare",
-          "date": "08/11",
-          "url": "https://www.venturesquare.net/1105380/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/DEEPFAKE.jpg"
+          "title": "이더리움(ETH) 6단계 로드맵 폐기…\"이제 AI가 검증\"",
+          "desc": "-비탈릭 부테린은 포스트 양자 기술과 강력한 프라이버시를 이더리움의 핵심 개발 목표로 제시했다. -AI는 인간이 직접 처리하기 어려워진 프로토콜 코드의 형식 검증을 담당하는 핵심 도구로 활용될 예정이다.",
+          "src": "coinreaders",
+          "date": "08/12",
+          "url": "http://coinreaders.com/252274",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202602/800_800_2026020317263750.png"
         }
       ]
     },
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
     },
     {
+      "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
+      "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
+    },
+    {
       "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
       "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "\"공공부문 AI 전환 앞당기려면, 발주·계약체계 개편해야\"",
-      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37407",
-      "img": "https://cdn.junggi.co.kr/news/photo/202608/37407_43800_1842.jpg"
+      "title": "AI 기본의료, 남은 건 예산이다[투데이 窓/최윤섭]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398675?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081108285538594_1.jpg"
     },
     {
-      "title": "패트롤] 과천시-군포시-부천시-안양시-의왕시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260811028381822",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.d6afa471aa9e456ca17fa30b52ac5820_R.jpg"
-    },
-    {
-      "title": "회원이 뽑는 다음 성장기업…혁신의숲, 2차 후보 30개사 공개",
-      "url": "https://www.venturesquare.net/1105387/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/202020-505x522.png"
+      "title": "[단독]중복상장 우회 ‘꼼수’…자회사 IPO 후 구다이글로벌 상장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349841?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081200020.1280x.0.jpg"
     }
   ]
 };
