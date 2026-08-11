@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 04:27",
+  "updatedAt": "2026.08.12 (수) 06:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 '300조 히트펌프' 공략…\"제주, 전초기지로 변신\"",
-          "desc": "신문선 삼성전자 생활가전(DA)사업부 상무는 “EHS 올인원은 아파트가 많은 국내 주거 환경에 최적화한 제품”이라고 강조했다. 삼성전자는 삼성물산과 협업해 아파트에 히트펌프를 상용화하기 위한 실증을 진행하고...",
-          "src": "한국경제",
-          "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45305980.1.jpg"
+          "title": "삼성전자, 게임 기기 시장 확대 속도",
+          "desc": "삼성전자가 게임스컴을 포함한 각종 게임 전시회에 적극 참여하는 배경에는 게임 기기 시장의 성장이 있다. 가성비(가격 대비 성능)를 중요하게 생각하는 일반 가전제품과 달리 게임 이용자는 제품 가격보다 ‘성능’에...",
+          "src": "segye",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/022/0004150274?sid=105",
+          "img": "https://www.segye.com/content/image/2026/08/11/20260811520555.jpg"
         },
         {
           "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"결제망까지 깔았는데\"…규제에 묶인 스테이블코인 사업",
-          "desc": "이를 극복하기 위해 신속한 입법과 규제 샌드박스 활용, 명확한 가이드라인 제시 등이 대안으로 제시된다. 안도걸 더불어민주당 의원실은 \"2단계 디지털자산기본법 관련 국회 일정을 조율하는 과정에 있으며 빨리 도입...",
-          "src": "pointdaily",
+          "title": "셀타스퀘어, AI가 바꾸는 약물감시 \"반복 업무 줄이고 ‘안전성 판단’...",
+          "desc": "약물감시(PV) 분야에서 AI 활용이 문헌 검색과 안전성 데이터 입력 등 반복 업무를 중심으로 확대되고 있다.... 파트너로AI 솔루션을 도입한다고 PV 역량이 저절로 높아지는 것은 아니다. 어떤 업무에 기술을 적용할지...",
+          "src": "yakup",
           "date": "08/12",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315062",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315062_311061_4652_v150.jpg"
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=330978",
+          "img": "https://www.yakup.com/data/editor/news/202608/HcVGSYdDDcXH2Qs5w6zTRx5nGu.jpg"
         },
         {
-          "title": "[패트롤] 고양시-동두천시-양주시-의정부시-포천시",
-          "desc": "고양시는 지역 인프라를 활용해 항공우주와 UAM 중심 첨단산업 생태계를 조성하고, 산-학-연 협력을 강화해... UAM, 항공우주, 드론 등 미래항공 분야 기업과 연구기관을 집적해 기술창업과 기업 성장을 지원할 계획이다....",
+          "title": "[패트롤] 광명시-군포시-시흥시-안산시-안양시",
+          "desc": "특히 AI가 단순한 기술 도입을 넘어 산업구조와 일하는 방식, 시민 삶까지 변화시키는 핵심 동력으로 자리... 특히 일자리-온 서비스와 함께 고용노동부의 '잡케어(Job Care)' 시스템을 활용한 AI상담창구 심층상담도 함께...",
           "src": "ekn",
           "date": "08/12",
-          "url": "https://www.ekn.kr/web/view.php?key=20260812020541838",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.8abf5748cdbc4635adef6d0c49500779_R.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260812020041891",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.cefaeff4e0574f87bee1297736ae4f74_R.jpg"
         },
         {
-          "title": "엔비디아, 새 AI 모델 공개…\"GPU 1개로 PC에서 구동 가능\"",
-          "desc": "미 행정부는 키미 K3가 미 국가 안보에 위협이 될 수 있다고 우려하는 한편, 이른바 증류라는 기술을 통한... 이런 AI 모델을 도입하면 이를 활용하는 기업들이 자사 미래에 대해 더 큰 통제력을 갖게 되고, AI 모델 간...",
-          "src": "파이낸셜뉴스",
+          "title": "오라클 \"데이터 옮기지 말라\"…인프라는 액셀러론, DB는 26ai로",
+          "desc": "있고, AI 에이전트가 비즈니스 데이터를 충분히 활용할 수 있어야 복잡한 실행까지 이어진다\"고 말했다.... 오라클은 이 기술을 도입한 클라우드 사업자(CSP)는 자사가 유일하다고 밝혔다. 액셀러론이 적용된 첫 컴퓨트...",
+          "src": "디지털데일리",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/014/0005560251?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/11/202608112334028429_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002237470?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081118325755512_l.jpg"
         },
         {
-          "title": "AI 기본의료, 남은 건 예산이다[투데이 窓/최윤섭]",
-          "desc": "취약지 의원의 AI 도입을 지원하고, 상용 의료 AI를 지역 병의원에 보급하며, AI 기반 의뢰·회송과 응급 이송 체계, 나아가 AI 의료 기술의 성과의 평가·보상하는 체계까지 포함되어 있다. 한국에서도 이런 전향적인 정책이...",
-          "src": "머니투데이",
+          "title": "[테크 차이나] 인증 통과해야 시장이다…시험·검사·인증이 쥔 중국 산...",
+          "desc": "중국이 시험·검사·인증을 산업정책으로 키우는 이유는 기술의 성능을 측정하는 데서 끝나지 않고, 시장이... 테스트, AI 모델·에이전트 평가, 탄소발자국 인증과 '한 번 시험해 여러 국가 인증에 활용하는' 서비스를...",
+          "src": "전자신문",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/008/0005398675?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081108285538594_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003456452?sid=104",
+          "img": ""
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[인터뷰] 윤재홍 에드워드코리아 대표 \"1등 기업의 선행투자 환경⋯국가...",
+          "desc": "글로벌 장비사들이 한국을 찾는 배경에는 삼성전자와 SK하이닉스 등 세계 최고 수준의 고객사가 자리하고... 완성품 업체와 소재·부품·장비 기업, 글로벌 장비사와 국내 협력사가 하나의 생태계를 이루며 함께 성장해야...",
+          "src": "이투데이",
+          "date": "08/12",
+          "url": "https://www.etoday.co.kr/news/view/2613052",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811175607_2371835_1199_918.jpg"
+        },
         {
           "title": "반도체특별법 본격 시행…소부장 '개발→양산 사다리' 세운다",
           "desc": "소재·부품·장비(소부장) 지원의 무게 중심이 연구개발(R&D)에서 양산 검증까지 넓어진다. 정부가 전날 10년간 1조원을 투입하는 '함께성장 프로젝트'를 내놓은 데 이어 삼성전자와 SK하이닉스도 협력사가 개발한 제품을...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/11",
           "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60286",
           "img": "https://www.ilovepc.co.kr/news/thumbnail/202608/60286_167115_146_v150.jpg"
-        },
-        {
-          "title": "파워오토로보틱, 아라 '합동' 한국기술교육대 발전기금 1천5백만 원 쾌척",
-          "desc": "파워오토로보틱스는 최근 삼성전자 인도 생산법인에 AI 제조자동화 로봇을 출하했으며, 1차 협력사... 이외에도 LG전자·LG이노텍 및 국내외 자동차 전장·전자 부품 기업에 AI 제조 자동화 솔루션을 공급하고 있다. LG...",
-          "src": "chungnamilbo",
-          "date": "08/11",
-          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903383",
-          "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/903383_481680_1852_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 '300조 히트펌프' 공략…\"제주, 전초기지로 변신\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/AA.45305980.1.jpg"
+      "title": "삼성전자, 게임 기기 시장 확대 속도",
+      "url": "https://n.news.naver.com/mnews/article/022/0004150274?sid=105",
+      "img": "https://www.segye.com/content/image/2026/08/11/20260811520555.jpg"
     },
     {
       "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "\"결제망까지 깔았는데\"…규제에 묶인 스테이블코인 사업",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315062",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315062_311061_4652_v150.jpg"
+      "title": "셀타스퀘어, AI가 바꾸는 약물감시 \"반복 업무 줄이고 ‘안전성 판단’...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=330978",
+      "img": "https://www.yakup.com/data/editor/news/202608/HcVGSYdDDcXH2Qs5w6zTRx5nGu.jpg"
     },
     {
-      "title": "[패트롤] 고양시-동두천시-양주시-의정부시-포천시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260812020541838",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.8abf5748cdbc4635adef6d0c49500779_R.jpg"
+      "title": "[패트롤] 광명시-군포시-시흥시-안산시-안양시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260812020041891",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260812.cefaeff4e0574f87bee1297736ae4f74_R.jpg"
     },
     {
-      "title": "엔비디아, 새 AI 모델 공개…\"GPU 1개로 PC에서 구동 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005560251?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/11/202608112334028429_l.jpg"
+      "title": "오라클 \"데이터 옮기지 말라\"…인프라는 액셀러론, DB는 26ai로",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237470?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081118325755512_l.jpg"
     }
   ]
 };
