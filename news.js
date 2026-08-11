@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 14:29",
+  "updatedAt": "2026.08.11 (화) 16:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "매출 줄었지만 영업익 2배↑…NHN벅스, 차 안으로 '에센셜' 넓혔다",
-          "desc": "NHN벅스는 삼성전자·LG전자 등 가전 영역에 이어 자동차까지 기업 간 거래(B2B) 활용처를 넓히며 에센셜 구독자도 152만여명(6월 기준)을 넘어섰다. IT업계 관계자는 \"NHN벅스의 2분기 실적은 매출 감소라는 과제가...",
-          "src": "디지털데일리",
+          "title": "[업계뒷談] 삼성식 신사업 문법, 로봇에서도 통할까",
+          "desc": "로봇 사업이 독립법인으로 출범하더라도 삼성전자 가전사업부와 DS부문을 캡티브 마켓으로 확보할 수 있다는 점은 큰 장점입니다. 다만 넘어야 할 산도 많습니다. 가장 큰 문제는 기술입니다. LG전자가 액추에이터와...",
+          "src": "그린포스트",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237386?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081113335843170_l.png"
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347392",
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/347392_398626_3432_v150.jpg"
         },
         {
-          "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
-          "desc": "삼성전자가 7년간 축적한 갤럭시 폴더블 기술의 발전 과정을 소개하는 '폴더블 헤리티지' 전시를 삼성... 오는 27~28일에는 로봇청소기를 활용한 리버스 엔지니어링과 피지컬 AI 실습 교육도 지원할 예정이다....",
-          "src": "dealsite",
+          "title": "[요즈음] 아이 한마디에 멈춘 로봇청소기…'똑똑함'의 기준 진화",
+          "desc": "반응하는 로봇청소기 이미지. (사진=생성형 AI) 30대 직장인 A씨가 집에서 로봇청소기를 사용할 때면 어린... 삼성전자는 냉장고까지 적용 범위를 넓혔다. '비스포크 AI 패밀리허브' 냉장고에 적용된 '보이스 ID'는 사용자의...",
+          "src": "아시아타임즈",
           "date": "08/11",
-          "url": "https://dealsite.co.kr/articles/166966",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/11/24fd06e6a3fb4c28bcba14c51fc0b1cd/thumb.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260811500253",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/11/.cache/512/20260811500251.png"
         },
         {
           "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
         },
         {
-          "title": "[미르의 알기쉬운 비즈니스]“아이폰 사용자도 넘어오게”…삼성이 폴...",
-          "desc": "삼성전자가 2019년 첫 갤럭시 폴드를 선보였을 당시만 해도 폴더블폰은 과감한 기술적... 여기에 TV와 냉장고 등 AI 기능이 탑재된 가전까지 하나의 생태계로 묶어 소비자가...",
-          "src": "mediapen",
+          "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
+          "desc": "동탄 일대는 삼성전자 화성·기흥캠퍼스, 삼성SDI 등 배후 산업시설과 용인 첨단시스템반도체... 단지 내에는 상업시설, 영화관, 업무시설이 함께 배치되며 내부에는 삼성 비스포크 냉장고, 김치냉장고, 스팀오븐...",
+          "src": "파이낸셜뉴스",
           "date": "08/11",
-          "url": "https://www.mediapen.com/news/view/1115531",
-          "img": "https://image.mediapen.com/news/202608/news_1115531_1786405811_m.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
+          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "몸집은 줄이고 한국어 실력은 높였다, 카카오 카나나의 '경량화' 기술",
-          "desc": "구조가 도입됐다. KV 캐시란 AI가 문장을 새로 만들어낼 때 이미 계산해 둔 이전 단어들의 정보를 메모리에 저장해 두고 재사용하는 기술이다. 전체 맥락을 매번 참조하는 풀 어텐션(Full Attention) 방식은 문장이...",
-          "src": "블로터",
+          "title": "'잘 벌 때가 더 어렵다'… SK하이닉스가 '성과 배분' 손보는 이유",
+          "desc": "다만, 이번 보상 수정안을 회사의 이윤추구로만 보기에는 기업 간 기술경쟁이 극한으로 치닫고 있는 반도체 시장의 상황도 고려해야 한다. 업계는 SK하이닉스의 노사 협의가 AI 시대의 새로운 보상 기준으로 자리매김할...",
+          "src": "pressman",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/293/0000088892?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/670539_283706_477_v150.jpg"
+          "url": "https://www.pressman.kr/news/articleView.html?idxno=103125",
+          "img": "https://cdn.pressman.kr/news/photo/202608/103125_95002_1632.jpg"
         },
         {
-          "title": "“보험금 줄까 말까\"…AI, 보험사 핵심업무까지 들어왔다",
-          "desc": "자동차 고장출동 서비스에도 AI 상담사를 도입하며 AI 활용 범위를 넓혔다. AI 심사 확대로 생산성 높이는... 크다”며 “AI가 도출한 산출물에 대해 인간 관리자의 검증 및 승인 절차가 요구돼 기술의 확산 속도가...",
-          "src": "이데일리",
+          "title": "\"전기요금, 네이버페이로 간편하게\"···한전, 디지털 수납 도입",
+          "desc": "양측은 AI 기술의 공동 활용과 도입, 정책·기술 교류 확대에 협력하기로 하고, 생성형 AI를 활용한 전력 서비스 혁신과 신규 비즈니스 모델 발굴을 중점 추진하기로 했다.",
+          "src": "finomy",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/018/0006349552?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081101259.jpg"
+          "url": "http://www.finomy.com/news/articleView.html?idxno=258938",
+          "img": "https://cdn.finomy.com/news/thumbnail/202608/258938_254032_536_v150.jpg"
         },
         {
-          "title": "‘재난현장에 AI·드론·로봇 투입’…서울시의회, 첨단 소방장비 지원...",
-          "desc": "각종 재난 현장에 AI와 드론, 지능형 로봇 등 첨단 소방기술·장비를 체계적으로 도입·활용할 수 있도록 지원하는 내용으로, 전국에서 처음으로 관련 제도적 기반을 마련하는 조례안이다. 최근 화재와 붕괴, 유해물질 사고...",
-          "src": "kukinews",
+          "title": "서울우유협동조합, 디지털 업무 혁신 본격…'서울우유 GPT'로 업무 효율...",
+          "desc": "서울우유 사혁 상임이사는 \"서울우유 GPT 도입은 AI를 보다 안전하고 효율적으로 활용할 수 있는 업무 환경을 마련하기 위한 출발점\"이라며 \"앞으로도 디지털 기술을 적극 활용해 업무 생산성을 높이고, 급변하는 경영...",
+          "src": "sisacast",
           "date": "08/11",
-          "url": "https://www.kukinews.com/article/view/kuk202608110111",
-          "img": ""
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98722",
+          "img": "http://www.sisacast.kr/news/thumbnail/202608/98722_107615_2536_v150.jpg"
         },
         {
-          "title": "[허프 트렌드] 게임 계정은 상속되고 싸이월드 데이터는 복원된다 : '디...",
-          "desc": "가치와 활용 가능성을 가진 자산으로 평가받는다. 특히 인공지능(AI) 기술이 확산되면서 사진과 영상, 음성... 미국과 프랑스 등은 생전 계정 관리자를 지정하거나 사후 데이터 처리 의사를 남길 수 있는 제도 도입을...",
-          "src": "huffingtonpost",
+          "title": "[줌] 박장석 도 안전정책과장 “도민 생명과 재산 지키는데 최선”",
+          "desc": "급변하는 재난 환경에 대응하기 위해 디지털 기술을 적극 도입하고 현장 중심 행정을 강화한 점이 높은... 생성형 AI를 활용한 현장조치 행동매뉴얼 구축 등 새로운 기술을 재난 현장에 접목하며 안전행정의 변화를...",
+          "src": "jjan",
           "date": "08/11",
-          "url": "https://www.huffingtonpost.kr/article/259453",
-          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608119263.jpg?v=259453"
+          "url": "https://www.jjan.kr/article/20260707500358",
+          "img": "https://cdn.jjan.kr/data2/content/image/2026/07/07/.cache/512/20260707500102.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#e8842c",
       "items": [
         {
+          "title": "자동차 밸류체인 완비된 중국 북부의 핵심지 톈진: 한중 협력의 '車세대...",
+          "desc": "그밖에 시칭구(西青区)·베이천구(北辰区)·동리구(东丽区) 소재 기업들은 차량용 전장, 와이어링 하네스·커넥터, 구동 부품, 그리고 스마트 커넥티드 시험 서비스 분야에 특화되어 있습니다. Q2. 한국계 자동차 기업과...",
+          "src": "dream",
+          "date": "08/11",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+        },
+        {
           "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
           "desc": "김 교수는 \"전기차 시대가 다가오고 차를 가볍게 만드는 흐름이 이어지면서, 와이어링 하네스 같은 전장 부품과 소재도 가격을 따지되 품질을 확보하는 방향으로 계속 개발·개선되고 있다\"며 \"전기전도도 같은 소재...",
           "src": "livebiz",
@@ -163,28 +171,20 @@ window.NEWS_DATA = {
           "date": "05/08",
           "url": "https://n.news.naver.com/mnews/article/018/0006275897?sid=101",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/05/PS26050801678.jpg"
-        },
-        {
-          "title": "페스카로, JS오토모티브 인수…'사이버보안·전장·생산' 밸류체인 확보",
-          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산하고 있다. 한국·베트남·중국에 생산체계를 구축했으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 현대기아차 품질인증제도인 'SQ 인증'을...",
-          "src": "전자신문",
-          "date": "05/08",
-          "url": "https://n.news.naver.com/mnews/article/030/0003425490?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/05/08/news-p.v1.20260508.934e7cec90344cbd9c224086f4f99a44_P1.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "매출 줄었지만 영업익 2배↑…NHN벅스, 차 안으로 '에센셜' 넓혔다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237386?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081113335843170_l.png"
+      "title": "[업계뒷談] 삼성식 신사업 문법, 로봇에서도 통할까",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=347392",
+      "img": "https://cdn.greened.kr/news/thumbnail/202608/347392_398626_3432_v150.jpg"
     },
     {
-      "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
-      "url": "https://dealsite.co.kr/articles/166966",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/11/24fd06e6a3fb4c28bcba14c51fc0b1cd/thumb.jpg"
+      "title": "[요즈음] 아이 한마디에 멈춘 로봇청소기…'똑똑함'의 기준 진화",
+      "url": "https://www.asiatime.co.kr/article/20260811500253",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/11/.cache/512/20260811500251.png"
     },
     {
       "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
     },
     {
-      "title": "[미르의 알기쉬운 비즈니스]“아이폰 사용자도 넘어오게”…삼성이 폴...",
-      "url": "https://www.mediapen.com/news/view/1115531",
-      "img": "https://image.mediapen.com/news/202608/news_1115531_1786405811_m.png"
+      "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
+      "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "몸집은 줄이고 한국어 실력은 높였다, 카카오 카나나의 '경량화' 기술",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088892?sid=105",
-      "img": "https://cdn.bloter.net/news/thumbnail/202608/670539_283706_477_v150.jpg"
+      "title": "'잘 벌 때가 더 어렵다'… SK하이닉스가 '성과 배분' 손보는 이유",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=103125",
+      "img": "https://cdn.pressman.kr/news/photo/202608/103125_95002_1632.jpg"
     },
     {
-      "title": "“보험금 줄까 말까\"…AI, 보험사 핵심업무까지 들어왔다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349552?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081101259.jpg"
+      "title": "\"전기요금, 네이버페이로 간편하게\"···한전, 디지털 수납 도입",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=258938",
+      "img": "https://cdn.finomy.com/news/thumbnail/202608/258938_254032_536_v150.jpg"
     }
   ]
 };
