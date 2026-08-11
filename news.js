@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 11:29",
+  "updatedAt": "2026.08.11 (화) 14:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"삼성전자야, 넌 난방 전기화 계획이 다 있구나\"…韓 ‘냉난방 통합’ ...",
-          "desc": "단독주택 넘어 아파트 겨냥…보조금·전기요금 제도는 과제 삼성전자가 냉방과 난방, 급탕을 하나의 시스템으로 묶은 가정용 히트펌프 'EHS 올인원'을 연내 국내에 출시한다. 화석연료 보일러를 히트펌프로 바꾸는 정부의...",
+          "title": "매출 줄었지만 영업익 2배↑…NHN벅스, 차 안으로 '에센셜' 넓혔다",
+          "desc": "NHN벅스는 삼성전자·LG전자 등 가전 영역에 이어 자동차까지 기업 간 거래(B2B) 활용처를 넓히며 에센셜 구독자도 152만여명(6월 기준)을 넘어섰다. IT업계 관계자는 \"NHN벅스의 2분기 실적은 매출 감소라는 과제가...",
           "src": "디지털데일리",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237375?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/138/0002237386?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081113335843170_l.png"
         },
         {
           "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이숙자 서울시의원 'AI 스마트 소방' 조례안 발의",
-          "desc": "인공지능(AI)·무인비행장치(드론)·지능형 로봇 등 첨단 소방장비의 체계적인 도입과 활용을 지원하는'서울특별시 첨단 소방 기술 및 장비 활용 지원에 관한 조례안'을 발의했다. 첨단 소방기술과 장비 도입을 위한 행정...",
-          "src": "newsmaker",
+          "title": "몸집은 줄이고 한국어 실력은 높였다, 카카오 카나나의 '경량화' 기술",
+          "desc": "구조가 도입됐다. KV 캐시란 AI가 문장을 새로 만들어낼 때 이미 계산해 둔 이전 단어들의 정보를 메모리에 저장해 두고 재사용하는 기술이다. 전체 맥락을 매번 참조하는 풀 어텐션(Full Attention) 방식은 문장이...",
+          "src": "블로터",
           "date": "08/11",
-          "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180531",
+          "url": "https://n.news.naver.com/mnews/article/293/0000088892?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/670539_283706_477_v150.jpg"
+        },
+        {
+          "title": "“보험금 줄까 말까\"…AI, 보험사 핵심업무까지 들어왔다",
+          "desc": "자동차 고장출동 서비스에도 AI 상담사를 도입하며 AI 활용 범위를 넓혔다. AI 심사 확대로 생산성 높이는... 크다”며 “AI가 도출한 산출물에 대해 인간 관리자의 검증 및 승인 절차가 요구돼 기술의 확산 속도가...",
+          "src": "이데일리",
+          "date": "08/11",
+          "url": "https://n.news.naver.com/mnews/article/018/0006349552?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081101259.jpg"
+        },
+        {
+          "title": "‘재난현장에 AI·드론·로봇 투입’…서울시의회, 첨단 소방장비 지원...",
+          "desc": "각종 재난 현장에 AI와 드론, 지능형 로봇 등 첨단 소방기술·장비를 체계적으로 도입·활용할 수 있도록 지원하는 내용으로, 전국에서 처음으로 관련 제도적 기반을 마련하는 조례안이다. 최근 화재와 붕괴, 유해물질 사고...",
+          "src": "kukinews",
+          "date": "08/11",
+          "url": "https://www.kukinews.com/article/view/kuk202608110111",
           "img": ""
         },
         {
-          "title": "[보안칼럼] 동남아 대형 국영 기업의 예견된 랜섬웨어 공격 피해에서 배...",
-          "desc": "인포스틸러 운영자가 자격 증명과 세션 정보를 수집하고, 초기 침투 브로커(Initial Access Broker)가 이를 활용해... 콘스텔라가 AI 기반 위협 헌팅을 도입한 뒤 탐지한 침해 건수가 159% 늘었다고 밝힌 것은, 사람만으로는 놓쳤을...",
-          "src": "dailysecu",
+          "title": "[허프 트렌드] 게임 계정은 상속되고 싸이월드 데이터는 복원된다 : '디...",
+          "desc": "가치와 활용 가능성을 가진 자산으로 평가받는다. 특히 인공지능(AI) 기술이 확산되면서 사진과 영상, 음성... 미국과 프랑스 등은 생전 계정 관리자를 지정하거나 사후 데이터 처리 의사를 남길 수 있는 제도 도입을...",
+          "src": "huffingtonpost",
           "date": "08/11",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=207987",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/207987_208906_2020.jpeg"
-        },
-        {
-          "title": "가천대 길병원, AX 혁신 확산한다…AI 실무 교육 가속",
-          "desc": "가천대 길병원 AX혁신본부는 최근 전 직원을 대상으로 AI 기술의 이해와 업무 적용을 돕는 ‘AI 활용 Step... 대화를 AI가 실시간 분석해 경과 기록(SOAP) 형식으로 자동 생성하는 'AI 음성 EMR'을 도입했다. 이를 통해...",
-          "src": "서울경제TV",
-          "date": "08/11",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608110074",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/11/sentv20260811000072.jpg"
-        },
-        {
-          "title": "서울우유, 사내 생성형 AI 플랫폼 도입…업무 데이터 활용 범위 넓힌다",
-          "desc": "사혁 서울우유 상임이사는 “서울우유 GPT 도입은 AI를 보다 안전하고 효율적으로 활용할 수 있는 업무 환경을 마련하기 위한 출발점”이라며 “디지털 기술을 활용해 업무 생산성을 높이고 경영 환경 변화에 대응하는...",
-          "src": "lawissue",
-          "date": "08/11",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202608111124563392204ead0791_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260811112548096720204ead079118023320059.jpg&nmt=12"
+          "url": "https://www.huffingtonpost.kr/article/259453",
+          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608119263.jpg?v=259453"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "매출 줄었지만 영업익 2배↑…NHN벅스, 차 안으로 '에센셜' 넓혔다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237386?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/08/11/2026081113335843170_l.png"
+    },
+    {
       "title": "[전자는 지금] 삼성전자, '폴더블 헤리티지' 전시 外",
       "url": "https://dealsite.co.kr/articles/166966",
       "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/11/24fd06e6a3fb4c28bcba14c51fc0b1cd/thumb.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202608/news_1115531_1786405811_m.png"
     },
     {
-      "title": "[보안칼럼] 동남아 대형 국영 기업의 예견된 랜섬웨어 공격 피해에서 배...",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207987",
-      "img": "https://cdn.dailysecu.com/news/photo/202608/207987_208906_2020.jpeg"
+      "title": "몸집은 줄이고 한국어 실력은 높였다, 카카오 카나나의 '경량화' 기술",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088892?sid=105",
+      "img": "https://cdn.bloter.net/news/thumbnail/202608/670539_283706_477_v150.jpg"
     },
     {
-      "title": "가천대 길병원, AX 혁신 확산한다…AI 실무 교육 가속",
-      "url": "https://www.sentv.co.kr/article/view/sentv202608110074",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/11/sentv20260811000072.jpg"
-    },
-    {
-      "title": "서울우유, 사내 생성형 AI 플랫폼 도입…업무 데이터 활용 범위 넓힌다",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202608111124563392204ead0791_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260811112548096720204ead079118023320059.jpg&nmt=12"
+      "title": "“보험금 줄까 말까\"…AI, 보험사 핵심업무까지 들어왔다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349552?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081101259.jpg"
     }
   ]
 };
