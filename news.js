@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 22:44",
+  "updatedAt": "2026.08.12 (수) 00:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -26,7 +26,7 @@ window.NEWS_DATA = {
           "src": "한국경제",
           "date": "08/11",
           "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45303988.1.jpg"
+          "img": "https://img.hankyung.com/photo/202608/AA.45305980.1.jpg"
         },
         {
           "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/11",
           "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
+          "img": ""
         },
         {
           "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"초지능은 모두의 것\"…메타, 개방형 AI 생태계 복귀 선언",
-          "desc": "저커버그는 오픈AI와 앤트로픽 등 폐쇄형 AI 진영을 겨냥해, AI 기술과 권력이 소수 기업에 집중되는 것은... 1의 개발자용 접근에 유료화를 도입했다. AI 인프라 투자로 인한 잉여현금흐름 급감과 주가 하락 등 투자자...",
-          "src": "cbci",
-          "date": "08/11",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596994",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/596994_408861_397_v150.jpg"
+          "title": "\"공공부문 AI 전환 앞당기려면, 발주·계약체계 개편해야\"",
+          "desc": "활용 가능성을 사전에 예측하기 어려운 만큼, 기존 공공 SW 발주방식으로는 적기에 AI 사업을 추진하기 어렵다는 것이다. 김우제 서울과학기술대학교 교수는 지난 10일 더불어민주당 이주희 의원이 개최한 '공공 AI 도입...",
+          "src": "junggi",
+          "date": "08/12",
+          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37407",
+          "img": "https://cdn.junggi.co.kr/news/photo/202608/37407_43800_1842.jpg"
         },
         {
-          "title": "\"AI에 돈 쏟아붓는데 사람은 안 뽑는다\"…美 서부 '고용 한파'",
-          "desc": "AI 도입이 확대되면서 기업들이 신규 채용을 줄이고 있는 것이 주요 배경으로 꼽힌다. 인디드 경제연구 책임자 로라 울리치는 CNN에 \"AI 기술이 발전하고 기업들이 이를 활용하면서 소프트웨어 개발자나 데이터 분석가...",
-          "src": "view",
+          "title": "패트롤] 과천시-군포시-부천시-안양시-의왕시",
+          "desc": "또한 올해는 생성형 AI 기술을 접목한 영상 부문을 신설했다. 참가자는 AI 프로그램을 활용해 안양시... 46점) 달성을 비롯해 △민간 클라우드 기반 스마트워크 도입과 창의-혁신 토론회를 통한 대행 사업비 예산 대폭 절감...",
+          "src": "ekn",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/277/0005801773?sid=104",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081121494477252_1786452584.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260811028381822",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.d6afa471aa9e456ca17fa30b52ac5820_R.jpg"
         },
         {
-          "title": "포항상의, 기업 경영진 대상 'AI 리더십 최고위과정' 운영",
-          "desc": "AI를 활용한 업무 자동화와 AI 에이전트·챗봇 개발 실습 △4주차에는 AI 스마트팩토리의 현장 도입 사례와... 나주영 회장은 \"AI는 더 이상 일부 전문가만의 기술이 아니라 기업의 생산성과 경쟁력을 좌우하는 핵심 경영...",
-          "src": "kyongbuk",
+          "title": "회원이 뽑는 다음 성장기업…혁신의숲, 2차 후보 30개사 공개",
+          "desc": "후보 선정에는 서비스 방문자 수와 소비자 거래액, 고용인원 변화, 투자 이력 등의 데이터가 활용된다.... 해양드론기술, 홈앤코 등 30개사다. 1차 투표 빅모빌리티 1위…15개사 모아 11월 결선 혁신의숲은 지난해 도입한...",
+          "src": "venturesquare",
           "date": "08/11",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080930",
-          "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080930_816449_4731.jpg"
+          "url": "https://www.venturesquare.net/1105387/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/202020-505x522.png"
         },
         {
-          "title": "[기고] 대한민국 공교육의 대전환, ‘평가 혁신’에서 시작된다",
-          "desc": "평가를 도입하겠다고 발표하면서 교육계 안팎의 논쟁이 뜨겁다. 일각에서는 \"평가는 교육과정과 분리될 수 없으며 객관식과 논·서술형 평가는 교육 목적에 따라 균형 있게 활용해야 한다\"고 주장한다. 이해도는...",
-          "src": "yeongnam",
+          "title": "사진에 보이지 않는 신호 심어 합성 차단…매쉬업벤처스, 스틸컷 투자",
+          "desc": "막는 AI 보안 기술이 투자받았다. 스틸컷은 사진의 화질을 유지하면서 사람의 눈에... 서비스 도입을 논의하고 있다. 개인 사진 보호에서 시작해 방송 콘텐츠와 기업...",
+          "src": "venturesquare",
           "date": "08/11",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260811021079821",
-          "img": "https://www.yeongnam.com/mnt/file/202608/news-p.v1.20260420.fa111433450b46059b4d1f5be02dfcd7_R.png"
+          "url": "https://www.venturesquare.net/1105380/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/DEEPFAKE.jpg"
         }
       ]
     },
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
     {
       "title": "삼성 '300조 히트펌프' 공략…\"제주, 전초기지로 변신\"",
       "url": "https://n.news.naver.com/mnews/article/015/0005319775?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/AA.45303988.1.jpg"
+      "img": "https://img.hankyung.com/photo/202608/AA.45305980.1.jpg"
     },
     {
       "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811180830_2371840_1199_731.jpg"
     },
     {
-      "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
-      "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
-    },
-    {
       "title": "'국평 20억' 진입장벽에 오피스텔로 눈돌린 실수요자… ‘동탄역 디에트...",
       "url": "https://n.news.naver.com/mnews/article/014/0005560068?sid=101",
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "\"초지능은 모두의 것\"…메타, 개방형 AI 생태계 복귀 선언",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596994",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/596994_408861_397_v150.jpg"
+      "title": "\"공공부문 AI 전환 앞당기려면, 발주·계약체계 개편해야\"",
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37407",
+      "img": "https://cdn.junggi.co.kr/news/photo/202608/37407_43800_1842.jpg"
     },
     {
-      "title": "\"AI에 돈 쏟아붓는데 사람은 안 뽑는다\"…美 서부 '고용 한파'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005801773?sid=104",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081121494477252_1786452584.jpg"
+      "title": "패트롤] 과천시-군포시-부천시-안양시-의왕시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260811028381822",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.d6afa471aa9e456ca17fa30b52ac5820_R.jpg"
+    },
+    {
+      "title": "회원이 뽑는 다음 성장기업…혁신의숲, 2차 후보 30개사 공개",
+      "url": "https://www.venturesquare.net/1105387/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/202020-505x522.png"
     }
   ]
 };
