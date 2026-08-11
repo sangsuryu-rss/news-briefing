@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 20:06",
+  "updatedAt": "2026.08.11 (화) 22:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "모티프테크놀로지스, 자체 LLM ‘Motif 2’ MS 마켓플레이스 출시",
-          "desc": "솔루션, AI 애플리케이션 및 에이전트를 찾고 도입할 수 있는 통합 온라인 플랫폼이다. 고객은... 안전하게 AI를 활용할 수 있도록 더욱 우수한 모델과 서비스를 지속적으로 선보일 것”이라고 말했다. 한편...",
-          "src": "데일리안",
+          "title": "\"초지능은 모두의 것\"…메타, 개방형 AI 생태계 복귀 선언",
+          "desc": "저커버그는 오픈AI와 앤트로픽 등 폐쇄형 AI 진영을 겨냥해, AI 기술과 권력이 소수 기업에 집중되는 것은... 1의 개발자용 접근에 유료화를 도입했다. AI 인프라 투자로 인한 잉여현금흐름 급감과 주가 하락 등 투자자...",
+          "src": "cbci",
           "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/119/0003120754?sid=105",
-          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786446077_1677326_m_1.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596994",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/596994_408861_397_v150.jpg"
         },
         {
-          "title": "포항상공회의소, '포항 AI 리더십 최고위과정' 개설",
-          "desc": "AI를 활용한 업무 자동화와 AI 에이전트·챗봇 개발 실습, 4주차에는 AI 스마트팩토리의 현장 도입 사례와... 나주영 포항상의 회장은 \"AI는 더 이상 일부 전문가만의 기술이 아니라 기업의 생산성과 경쟁력을 좌우하는...",
-          "src": "hidomin",
+          "title": "\"AI에 돈 쏟아붓는데 사람은 안 뽑는다\"…美 서부 '고용 한파'",
+          "desc": "AI 도입이 확대되면서 기업들이 신규 채용을 줄이고 있는 것이 주요 배경으로 꼽힌다. 인디드 경제연구 책임자 로라 울리치는 CNN에 \"AI 기술이 발전하고 기업들이 이를 활용하면서 소프트웨어 개발자나 데이터 분석가...",
+          "src": "view",
           "date": "08/11",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=716911",
-          "img": "https://cdn.hidomin.com/news/photo/202608/716911_418783_3615.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005801773?sid=104",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081121494477252_1786452584.jpg"
         },
         {
-          "title": "중국산 EV 안방 질주하는데…한국판 IRA서 \"전기차 빠졌다\"",
-          "desc": "기술개발 역량과 공급망 기여도, 사후관리, 안전관리 등을 평가하는 제도를 도입했다. 정선화 기후부 녹색전환정책관은 지난 5월 \"국가 재정이 투입되는 보조금이 지속 가능한 국내 전기차 생태계 구축에 활용되도록 할...",
-          "src": "econovill",
+          "title": "포항상의, 기업 경영진 대상 'AI 리더십 최고위과정' 운영",
+          "desc": "AI를 활용한 업무 자동화와 AI 에이전트·챗봇 개발 실습 △4주차에는 AI 스마트팩토리의 현장 도입 사례와... 나주영 회장은 \"AI는 더 이상 일부 전문가만의 기술이 아니라 기업의 생산성과 경쟁력을 좌우하는 핵심 경영...",
+          "src": "kyongbuk",
           "date": "08/11",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747724",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747724_722258_5414_v150.jpg"
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080930",
+          "img": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080930_816449_4731.jpg"
         },
         {
-          "title": "포항제철소, AI '모터 상태 점검 시스템' 도입…냉연공장 적용·설비 점...",
-          "desc": "냉연공장에 도입해 스마트 정비 체계 구축을 가속화하고 있다. 이 시스템은 기존의 경험 위주 설비 점검 방식을 AI와 빅데이터를 활용해 고도화한 사례로, Intelligent Factory 구현을 위한 시도로 설명됐다. 해당 시스템은...",
-          "src": "gukjenews",
+          "title": "[기고] 대한민국 공교육의 대전환, ‘평가 혁신’에서 시작된다",
+          "desc": "평가를 도입하겠다고 발표하면서 교육계 안팎의 논쟁이 뜨겁다. 일각에서는 \"평가는 교육과정과 분리될 수 없으며 객관식과 논·서술형 평가는 교육 목적에 따라 균형 있게 활용해야 한다\"고 주장한다. 이해도는...",
+          "src": "yeongnam",
           "date": "08/11",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662057",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3662057_3829175_2953_v150.jpg"
+          "url": "https://www.yeongnam.com/web/view.php?key=20260811021079821",
+          "img": "https://www.yeongnam.com/mnt/file/202608/news-p.v1.20260420.fa111433450b46059b4d1f5be02dfcd7_R.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "모티프테크놀로지스, 자체 LLM ‘Motif 2’ MS 마켓플레이스 출시",
-      "url": "https://n.news.naver.com/mnews/article/119/0003120754?sid=105",
-      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786446077_1677326_m_1.jpg"
+      "title": "\"초지능은 모두의 것\"…메타, 개방형 AI 생태계 복귀 선언",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596994",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/596994_408861_397_v150.jpg"
     },
     {
-      "title": "포항상공회의소, '포항 AI 리더십 최고위과정' 개설",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=716911",
-      "img": "https://cdn.hidomin.com/news/photo/202608/716911_418783_3615.jpg"
+      "title": "\"AI에 돈 쏟아붓는데 사람은 안 뽑는다\"…美 서부 '고용 한파'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005801773?sid=104",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081121494477252_1786452584.jpg"
     }
   ]
 };
