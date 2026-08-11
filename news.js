@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.11 (화) 16:39",
+  "updatedAt": "2026.08.11 (화) 18:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[업계뒷談] 삼성식 신사업 문법, 로봇에서도 통할까",
-          "desc": "로봇 사업이 독립법인으로 출범하더라도 삼성전자 가전사업부와 DS부문을 캡티브 마켓으로 확보할 수 있다는 점은 큰 장점입니다. 다만 넘어야 할 산도 많습니다. 가장 큰 문제는 기술입니다. LG전자가 액추에이터와...",
-          "src": "그린포스트",
+          "title": "'정부24' 앱 사용자 급증… 여행·영화 앱도 '들썩'",
+          "desc": "◆여름철 가전·여행 수요에 앱 사용자 동반 증가 2위는 삼성전자의 스마트홈 통합 앱 스마트씽스로 170만명(15%) 늘었다. 여름철 에어컨 등 냉방가전 사용이 늘어난 영향으로 풀이된다. 여행·레저 관련 앱도 강세를...",
+          "src": "newscj",
           "date": "08/11",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=347392",
-          "img": "https://cdn.greened.kr/news/thumbnail/202608/347392_398626_3432_v150.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3424312",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3424312_3535921_1251_v150.jpg"
         },
         {
-          "title": "[요즈음] 아이 한마디에 멈춘 로봇청소기…'똑똑함'의 기준 진화",
-          "desc": "반응하는 로봇청소기 이미지. (사진=생성형 AI) 30대 직장인 A씨가 집에서 로봇청소기를 사용할 때면 어린... 삼성전자는 냉장고까지 적용 범위를 넓혔다. '비스포크 AI 패밀리허브' 냉장고에 적용된 '보이스 ID'는 사용자의...",
-          "src": "아시아타임즈",
+          "title": "中에 내줬던 안방 되찾나…삼성·LG 로봇청소기 반격",
+          "desc": "업계에서는 6월 판매량을 기준으로 삼성전자가 국내 로봇청소기 시장 1위를 차지한 것으로 추정하고 있다. 삼성전자는 지난 3월 '비스포크 AI 스팀 울트라'와 '플러스'를 출시한 데 이어 일반형 모델까지 추가하며...",
+          "src": "이투데이",
           "date": "08/11",
-          "url": "https://www.asiatime.co.kr/article/20260811500253",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/11/.cache/512/20260811500251.png"
+          "url": "https://www.etoday.co.kr/news/view/2613333",
+          "img": ""
         },
         {
           "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'잘 벌 때가 더 어렵다'… SK하이닉스가 '성과 배분' 손보는 이유",
-          "desc": "다만, 이번 보상 수정안을 회사의 이윤추구로만 보기에는 기업 간 기술경쟁이 극한으로 치닫고 있는 반도체 시장의 상황도 고려해야 한다. 업계는 SK하이닉스의 노사 협의가 AI 시대의 새로운 보상 기준으로 자리매김할...",
-          "src": "pressman",
+          "title": "AI로 교정만 해도 흔적 남는다…클로드, 모든 글에 ‘워터마크’",
+          "desc": "워터마크를 도입한 주요 AI 기업은 앤스로픽이 두 번째다. 구글 딥마인드는 2024년부터 신스ID(Synth ID)로 제미나이가 생성한 텍스트·영상에 워터마크를 삽입해 왔다. 이미지는 이보다 이른 2023년부터 워터마킹 기술을...",
+          "src": "동아일보",
           "date": "08/11",
-          "url": "https://www.pressman.kr/news/articleView.html?idxno=103125",
-          "img": "https://cdn.pressman.kr/news/photo/202608/103125_95002_1632.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003740106?sid=105",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134459606.3.jpg"
         },
         {
-          "title": "\"전기요금, 네이버페이로 간편하게\"···한전, 디지털 수납 도입",
-          "desc": "양측은 AI 기술의 공동 활용과 도입, 정책·기술 교류 확대에 협력하기로 하고, 생성형 AI를 활용한 전력 서비스 혁신과 신규 비즈니스 모델 발굴을 중점 추진하기로 했다.",
-          "src": "finomy",
+          "title": "SM하이플러스, CP6와 차세대 모빌리티 서비스 개발 맞손",
+          "desc": "플랫폼에 도입할 계획이다. 아울러 운전자의 위험 요인을 사전에 감지해 알려주는 '에이캣 드라이버(ACAT Driver)' 서비스로 기술을 확장하고, 사고 분석 알고리즘을 활용한 과실 판정 프로그램을 보험사와 수사기관...",
+          "src": "newslock",
           "date": "08/11",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=258938",
-          "img": "https://cdn.finomy.com/news/thumbnail/202608/258938_254032_536_v150.jpg"
+          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134236",
+          "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134236_121971_3334_v150.jpg"
         },
         {
-          "title": "서울우유협동조합, 디지털 업무 혁신 본격…'서울우유 GPT'로 업무 효율...",
-          "desc": "서울우유 사혁 상임이사는 \"서울우유 GPT 도입은 AI를 보다 안전하고 효율적으로 활용할 수 있는 업무 환경을 마련하기 위한 출발점\"이라며 \"앞으로도 디지털 기술을 적극 활용해 업무 생산성을 높이고, 급변하는 경영...",
-          "src": "sisacast",
+          "title": "서울대병원 공동연구팀, 자폐 뇌영상 AI 평가법 제시",
+          "desc": "서울대병원 소아청소년정신과 김붕년 교수팀과 한국과학기술연구원(KIST), 멜버른대 공동연구팀은... 지표를 도입했다. 이를 통해 AI 모델이 뇌 네트워크의 구조적 변화에 반응하는 정도를 정량적으로 평가했다....",
+          "src": "lawissue",
           "date": "08/11",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98722",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/98722_107615_2536_v150.jpg"
+          "url": "http://www.lawissue.co.kr/view.php?ud=202608111804083572f4ab64559d_12",
+          "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
         },
         {
-          "title": "[줌] 박장석 도 안전정책과장 “도민 생명과 재산 지키는데 최선”",
-          "desc": "급변하는 재난 환경에 대응하기 위해 디지털 기술을 적극 도입하고 현장 중심 행정을 강화한 점이 높은... 생성형 AI를 활용한 현장조치 행동매뉴얼 구축 등 새로운 기술을 재난 현장에 접목하며 안전행정의 변화를...",
-          "src": "jjan",
+          "title": "[금융 풍향계] “상환 능력 다시 본다”…토스·고려저축은행, 신용평가...",
+          "desc": "인공지능(AI) 기술금융사 PFCT는 이 모형을 자사 실시간 여신전략운영솔루션 '에어팩-스튜디오'에 탑재해 대안정보 활용을 최적화하는 프레임워크로 업데이트한다. 고려저축은행은 이를 실제 여신심사에 반영해 대출...",
+          "src": "ekn",
           "date": "08/11",
-          "url": "https://www.jjan.kr/article/20260707500358",
-          "img": "https://cdn.jjan.kr/data2/content/image/2026/07/07/.cache/512/20260707500102.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260811028071761",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260811.32a5392e57a942e08301b6637e5c005c_R.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "반도체특별법 본격 시행…소부장 '개발→양산 사다리' 세운다",
+          "desc": "소재·부품·장비(소부장) 지원의 무게 중심이 연구개발(R&D)에서 양산 검증까지 넓어진다. 정부가 전날 10년간 1조원을 투입하는 '함께성장 프로젝트'를 내놓은 데 이어 삼성전자와 SK하이닉스도 협력사가 개발한 제품을...",
+          "src": "아주경제",
+          "date": "08/11",
+          "url": "https://www.ajunews.com/view/20260811141311604",
+          "img": "https://image.ajunews.com/content/image/2026/08/11/20260811141651447671.jpg"
+        },
         {
           "title": "[삼성 113조 투자와 지역경제①]그 돈이 아산에 무엇을 남길 것인가.",
           "desc": "삼성전자를 따라서 아산시로 오는 기업 몇 곳인가' 대기업 생산시설 하나가 지역경제에 미치는 효과는 해당 기업의 직접투자에만 머물지 않는다. 원재료와 부품·장비를 공급하거나 시설 유지·보수, 물류, 엔지니어링...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/11",
           "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903383",
           "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/903383_481680_1852_v150.jpg"
-        },
-        {
-          "title": "AI 경쟁 뒤처진 애플…도대체 애플은 뭘 믿고 있는 걸까? [스프]",
-          "desc": "삼성전자, SK하이닉스, 마이크론 3사가 메모리 시장에서 독점하면서 부품사들의 힘이 세진 상황이니 그... 애플은 자사의 주요 협력사 정보와 기밀문서를 이들이 빼돌렸다는 의혹을 제기했습니다. 반면 오픈AI는 '타사...",
-          "src": "news",
-          "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/055/0001379688?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260807/202210163_1280.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[업계뒷談] 삼성식 신사업 문법, 로봇에서도 통할까",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=347392",
-      "img": "https://cdn.greened.kr/news/thumbnail/202608/347392_398626_3432_v150.jpg"
-    },
-    {
-      "title": "[요즈음] 아이 한마디에 멈춘 로봇청소기…'똑똑함'의 기준 진화",
-      "url": "https://www.asiatime.co.kr/article/20260811500253",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/11/.cache/512/20260811500251.png"
+      "title": "'정부24' 앱 사용자 급증… 여행·영화 앱도 '들썩'",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3424312",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3424312_3535921_1251_v150.jpg"
     },
     {
       "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
     },
     {
-      "title": "'잘 벌 때가 더 어렵다'… SK하이닉스가 '성과 배분' 손보는 이유",
-      "url": "https://www.pressman.kr/news/articleView.html?idxno=103125",
-      "img": "https://cdn.pressman.kr/news/photo/202608/103125_95002_1632.jpg"
+      "title": "AI로 교정만 해도 흔적 남는다…클로드, 모든 글에 ‘워터마크’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740106?sid=105",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134459606.3.jpg"
     },
     {
-      "title": "\"전기요금, 네이버페이로 간편하게\"···한전, 디지털 수납 도입",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=258938",
-      "img": "https://cdn.finomy.com/news/thumbnail/202608/258938_254032_536_v150.jpg"
+      "title": "SM하이플러스, CP6와 차세대 모빌리티 서비스 개발 맞손",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134236",
+      "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134236_121971_3334_v150.jpg"
+    },
+    {
+      "title": "서울대병원 공동연구팀, 자폐 뇌영상 AI 평가법 제시",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608111804083572f4ab64559d_12",
+      "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
     }
   ]
 };
