@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 00:16",
+  "updatedAt": "2026.08.13 (목) 02:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "“AI로 차량 충돌 안전 테스트… 분석 시간 90% 단축”",
+          "desc": "“지난해부터 남양 기술연구소에 ‘충돌 안전 인공지능(AI) 어시스턴트’를 도입했다. 충돌 실험 데이터를... ‘그룹 AI 전환(AX) 성과 발표회’에서는 이처럼 직원들이 직접 AI를 활용해 효율성을 높인 업무 사례들이...",
+          "src": "동아일보",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/020/0003740478?sid=103",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466703.4.jpg"
+        },
+        {
+          "title": "AI 대전환 통해 K제조업 체력 강화해야[기고/김영오]",
+          "desc": "M.AX는 단순한 개별 기술 도입이 아니라, 제조업의 판 자체를 데이터와 AI 중심 구조로 짜는 국가적... 제조 AI 기술 개발과 실증, 제조 데이터 구축 및 활용, 산업 현장 확산 지원 등 다양한 연구개발 사업을 통해 제조...",
+          "src": "동아일보",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/020/0003740469?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466677.4.jpg"
+        },
+        {
           "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
           "desc": "춘천 시민 과반이 행정분야에 AI(인공지능) 기술을 도입하는 것에 긍정적인 것으로 나타났다. 또한 시청 소속 직원 대다수(92.5%)는 AI를 활용한 경험이 있는 것으로 조사됐다. 춘천시는 이 같은 결과를 토대로 춘천시...",
           "src": "kado",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/654/0000195049?sid=102",
           "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
-        },
-        {
-          "title": "전 계열사에 생성형 AI 도입...BNK 금융, 업무방식 바꾼다",
-          "desc": "BNK금융그룹(회장 빈대인)이 급변하는 금융환경과 디지털 기술 변화에 대응해 AI(인공지능)를 그룹 전반에... 또 임직원의 AI 활용 역량을 높이기 위해 실무형 AI 해커톤으로 생성형 AI를 실제 업무에 적용할 수 있는...",
-          "src": "ksilbo",
-          "date": "08/13",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064499",
-          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
-        },
-        {
-          "title": "차정인 \"서·논술형 수능, 폭넓게 독서하면 학원 필요 없어\"",
-          "desc": "차 위원장은 이 같은 우려에 \"도입된다면 각 가정과 학생들이 할 일은 폭넓게 독서를 해 두는 정도\"라며 \"기술적인 요소는 공교육에서 충분히 익혀나갈 수 있다\"고 거듭 밝혔다. 인공지능(AI)을 활용한 채점 시스템 도입...",
-          "src": "파이낸셜뉴스",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/014/0005560843?sid=100",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/12/202608121534106880_l.jpg"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "kjdaily",
           "date": "08/12",
           "url": "http://www.kjdaily.com/article.php?aid=1786526436684375028",
-          "img": "http://www.kjdaily.com/upimages/gisaimg/202608/13-684375.jpg"
+          "img": ""
         },
         {
           "title": "SK하이닉스, 美 인디애나 패키징 공장 27일 착공…최태원·젠슨 황 만날...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
     },
     {
+      "title": "“AI로 차량 충돌 안전 테스트… 분석 시간 90% 단축”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740478?sid=103",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466703.4.jpg"
+    },
+    {
+      "title": "AI 대전환 통해 K제조업 체력 강화해야[기고/김영오]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740469?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466677.4.jpg"
+    },
+    {
       "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
       "url": "https://n.news.naver.com/mnews/article/654/0000195044?sid=102",
       "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
-    },
-    {
-      "title": "수능 서·논술형 도입 두고 \"사교육 확대 우려\" vs \"안정적 정착 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/654/0000195049?sid=102",
-      "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
-    },
-    {
-      "title": "전 계열사에 생성형 AI 도입...BNK 금융, 업무방식 바꾼다",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064499",
-      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
     }
   ]
 };
