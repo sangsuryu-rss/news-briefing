@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 16:54",
+  "updatedAt": "2026.08.12 (수) 18:33",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오늘의 은행] KB국민은행·우리은행·신한은행·하나은행·BNK부산은행...",
-          "desc": "모바일·가전 등 삼성전자의 다양한 제품을 군 장병 전용 특별가로 구매할 수 있다. 신한은행 관계자는 \"군 장병들이 신한 슈퍼SOL을 통해 일상에서 체감할 수 있는 다양한 혜택을 보다 쉽고 편리하게 이용할 수 있도록...",
-          "src": "financialreview",
+          "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
+          "desc": "가입 고객은 삼성전자의 모바일·가전제품 등을 군 장병 전용 특별가로 이용할 수 있다. ◆ NH농협은행, 생성형 AI 품은 컨택센터…'상담원 보조'까지 AI가 맡는다 NH농협은행은 농협상호금융과 공동 투자하고 KT와 협력해...",
+          "src": "lcnews",
           "date": "08/12",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44182",
-          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44182_65137_2744_v150.jpg"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
         },
         {
-          "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
-          "desc": "가전 업계 관계자는 \"로봇청소기가 청소를 보조하는 가전에서 일상적인 가사 부담을 줄이는 제품으로 자리 잡으면서 시장 경쟁도 계속 확대될 것\"이라며 \"삼성전자와 LG전자와도 중국 업체들이 치열하게 경쟁하고...",
-          "src": "아이뉴스24",
+          "title": "[현장] 유비리서치 \"디스플레이 격전지, TV·모바일서 IT OLED·차량용·폴...",
+          "desc": "아니라 삼성전자의 냉장고, 청소기, 휴대전화입니다.\" 이충훈 유비리서치 대표는 12일 서울 강남구... 냉장고는 700만~1천만 원대까지, 로봇청소기는 200만 원대까지 뛰었다. 하지만 55인치 액정표시장치(LCD) TV...",
+          "src": "비즈니스포스트",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
-          "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444590",
+          "img": ""
         },
         {
           "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
         },
         {
-          "title": "빌 게이츠 오고, 구광모는 美로…14일 재계 '빅데이'",
-          "desc": "LG는 가전과 배터리, 화학 등 다양한 제조 현장을 보유하고 있다. 엔비디아도 AI를 데이터센터에서 공장과 로봇 등 실제 산업 현장으로 확대하고 있어 양측이 구체적인 협력 방안을 내놓을지 주목된다. 삼성전자와...",
-          "src": "아이뉴스24",
+          "title": "삼성전자·현대차·포스코인터·쿠팡은 왜 스테이블코인을 선택했을까 ...",
+          "desc": "업계에서는 삼성전자의 OUSD 참여 배경으로 결제와 연결할 수 있는 자체 사업 영역이 넓다는 점을 꼽는다. 가전과 스마트폰, 반도체 등 전 세계에서 판매하는 제품이 많은 만큼 스테이블코인을 결제·송금에 접목하면 자금...",
+          "src": "헤럴드경제",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/031/0001049219?sid=101",
-          "img": "https://image.inews24.com/v1/e0f0dab43e6145.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002683093?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "정부, SMR· 양자 등 7대 시드 프로젝트로 ‘한국 대도약 완성’ 추진",
-          "desc": "수소는 생산-저장-활용 전주기 기술을 개발하고, 2030년까지 10MW(메가와트)급 수전해 기술 국산화를 목표로 한다. 전력망은 GW급 전압형 초고압 직류송전(HVDC) 국산화를 비롯해 서해안 실증, 초전도 송전망 실증, AI 기반...",
-          "src": "브릿지경제",
+          "title": "완주군 정책연구모임 ‘완주 챌린지 100℃’성과 공유회 개최",
+          "desc": "참여자들은 생성형 인공지능(AI) 기술을 활용한 정책 기획 및 사례 구체화 워크숍을 거치며 주민의... 최우수상은 ‘완주 하루 더 반값여행’을 주제로 숙박 연계형 차등 환급제 도입을 제안한 ‘반반하조’ 팀이 받았다....",
+          "src": "sjbnews",
           "date": "08/12",
-          "url": "https://www.viva100.com/article/20260812501111",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812501110.jpg?v=20260812165419"
+          "url": "https://sjbnews.com/news/news.php?number=885071",
+          "img": ""
         },
         {
-          "title": "'완주 챌린지 100℃' 주민 중심 아이디어 톡톡",
-          "desc": "여자들은 생성형 인공지능(AI) 기술을 활용한 정책 기획 및 사례 구체화 워크숍을 거치며 주민의 눈높이에서... 최우수상은 '완주 하루 더 반값여행'을 주제로 숙박 연계형 차등 환급제 도입을 제안한 '반반하조' 팀이...",
-          "src": "jjn",
+          "title": "NH농협은행, AI 컨택센터 출범",
+          "desc": "박현주 개인금융부문 부행장은 “AI와 상담직원이 협업해 고객의 금융 여정을 지원하는 고객가치센터의 기반을 마련했다”며 “앞으로도 고객의 목소리를 적극적으로 반영하고 디지털 기술을 활용해 고객이 체감할 수...",
+          "src": "동아일보",
           "date": "08/12",
-          "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049234",
-          "img": "https://cdn.jjn.co.kr/news/thumbnail/202608/1049234_269377_5521_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003740429?sid=101",
+          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
         },
         {
-          "title": "[일문일답] \"기술은 목적 아닌 수단\"…현대차그룹, 임직원 80% '바이브 코...",
-          "desc": "진은숙 현대차·기아 ICT담당 사장은 기자의 AI 활용 전략 질의에 대해 \"기술을 목적이 아닌 수단으로 본다\"고... 현대차그룹은 AI 활용을 단순한 도구 도입에 그치지 않고 조직문화와 업무 프로세스의 변화로 연결한다는...",
-          "src": "인더스트리뉴스",
+          "title": "핵심광물 재자원화율 20% 목표… 첨단 공급망에 10조원 R&D 투입",
+          "desc": "생산, 도입에 이르는 전주기 맞춤형 지원을 추진할 예정이다. 전담기관 기능도 쇄신해 해외자원 사업 기능... 첨단기술을 활용해 실증을 가속할 계획이다. 경수형 SMR은 2035년 상용화를 목표로 하고, 비경수형 SMR은...",
+          "src": "e-platform",
           "date": "08/12",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84364",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202608/84364_104302_441.jpg"
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=104519",
+          "img": "https://cdn.e-platform.net/news/thumbnail/202608/104519_76798_3123_v150.jpg"
         },
         {
-          "title": "\"기업 72%, AI 대응 위해 데이터 아키텍처 대규모 개편 필요\"",
-          "desc": "AI 활용 자체보다 데이터를 어떤 환경에서 관리하고 통제할 것인지가 기업 AI 확산의 주요 과제로 부상하고 있다는 설명이다. 세르지오 가고(Sergio Gago) 클라우데라 최고기술책임자(CTO)는 \"많은 기업이 데이터 분석을...",
-          "src": "datanet",
+          "title": "AI 전력난 풀고 양자·우주·바이오 선점…정부도 출자해 ‘위험 분담’",
+          "desc": "분야와 AI 이후를 겨냥한 프런티어 기술 3개 분야, 이를 떠받치는 공급망 1개 분야로 짜였다. 연구개발(R&D)... 분산전원에 활용하는 등 용도별 시장을 만들어야 한다”고 말했다. 핵융합은 실증로와 상용로 개발을...",
+          "src": "서울경제",
           "date": "08/12",
-          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213733",
-          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213733_137946_2553_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004651146?sid=105",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/12/news-p.v1.20260812.1750a2fab3b34444b38f992b34e96ed9_R.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "가오슝이 전남광주에 주는 세 가지 교훈 / 주정민",
+          "desc": "주정민 전남대 대학원장지난 7월 삼성전자와 SK하이닉스가 800조원을 투자해 전남광주에 반도체 팹 4기를... 인력과 협력사를 곧바로 끌어올 수 있었다. 반면 전남광주 인근에는 기존 팹도, 소부장 협력체계도 없다. 자칫...",
+          "src": "kjdaily",
+          "date": "08/12",
+          "url": "http://www.kjdaily.com/article.php?aid=1786526436684375028",
+          "img": "http://www.kjdaily.com/upimages/gisaimg/202608/13-684375.jpg"
+        },
+        {
+          "title": "SK하이닉스, 美 인디애나 패키징 공장 27일 착공…최태원·젠슨 황 만날...",
+          "desc": "곽노정 SK하이닉스 대표이사를 비롯한 주요 경영진과 글로벌 고객사 및 협력사 관계자들이 참석할 것으로... 미국 정부 역시 삼성전자와 SK하이닉스 등 국내 반도체 기업에 미국 내 메모리 생산 확대를 요구하고 있다....",
+          "src": "ezyeconomy",
+          "date": "08/12",
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=238661",
+          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202608/238661_140070_3450_v150.jpg"
+        },
+        {
+          "title": "아이폰18 원가 38%↑…LG이노텍·LGD 부담 커지나",
+          "desc": "국내 대표 애플 협력사인 LG디스플레이와 LG이노텍이 원가 압박의 쓰나미를 맞고 있다. 메모리 가격이... LG전자가 휴대폰 사업을 접은 지 수년이 지났고 삼성전자는 갤럭시에 삼성전기 제품을 우선 쓰다 보니 내수...",
+          "src": "econovill",
+          "date": "08/12",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747806",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/747806_722373_3859_v150.jpg"
+        },
+        {
           "title": "SK하이닉스, 美 인디애나 팹 27일 착공식…최태원·젠슨 황 한자리 서나",
           "desc": "SK하이닉스는 주요 고객사와 협력사를 대상으로 초청장을 보내는 등 본격적인 행사 준비에 들어갔다.... 삼성전자와 SK하이닉스 등을 향해 미국 내 메모리 생산 확대를 공개적으로 촉구했다. AI 산업의 핵심 부품인 첨단...",
           "src": "joongangenews",
           "date": "08/12",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=539670",
           "img": "https://cdn.joongangenews.com/news/photo/202608/539670_345416_1125.jpg"
-        },
-        {
-          "title": "“속도전 넘어 전격전”…이재명 정부가 메가특구법 서두르는 이유",
-          "desc": "삼성전자와 SK하이닉스는 용인 반도체 클러스터의 최종 팹 완공 시점을 기존 계획보다 각각 7년, 12년... 다만 메가프로젝트가 성공하려면 대기업뿐만 아니라 소재·부품·장비(소부장) 업체와 협력사가 함께 움직이는...",
-          "src": "economist",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/243/0000101545?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/08/12/ecn20260812000053.800x.0.jpg"
-        },
-        {
-          "title": "갤럭시S27 시리즈에 '가변조리개' 카메라 탑재 불발",
-          "desc": "가변 조리개는 빛의 양을 조절해 카메라 성능을 높이는 부품이다. 올해부터 애플이 아이폰18 프로... 삼성전자는 삼성전기, 엠씨넥스 등 복수 카메라 모듈 협력사와 가변조리개 개발을 해왔다. 업계에서는 갤럭시...",
-          "src": "전자신문",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/030/0003456786?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.a54db904a8324fac941d203afeaedd0b_P1.png"
-        },
-        {
-          "title": "[더벨][OLED 소부장 기업 진단] 'BOE·TCL까지' 디바이스, 국내외 장비 공...",
-          "desc": "FM마스크는 OLED의 RGB 발광물질을 정밀하게 증착하기 위해 사용하는 핵심 부품이다. 또 오픈 마스크(Open... 특히 삼성전자는 이번 오스틴 법인에 미국 협력사인 브룩스오토메이션의 제품이 아닌 디바이스의...",
-          "src": "더벨",
-          "date": "08/12",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101444584840107767",
-          "img": ""
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오늘의 은행] KB국민은행·우리은행·신한은행·하나은행·BNK부산은행...",
-      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44182",
-      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44182_65137_2744_v150.jpg"
-    },
-    {
-      "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
-      "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
+      "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
     },
     {
       "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
     },
     {
-      "title": "빌 게이츠 오고, 구광모는 美로…14일 재계 '빅데이'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049219?sid=101",
-      "img": "https://image.inews24.com/v1/e0f0dab43e6145.jpg"
+      "title": "삼성전자·현대차·포스코인터·쿠팡은 왜 스테이블코인을 선택했을까 ...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002683093?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
     },
     {
-      "title": "정부, SMR· 양자 등 7대 시드 프로젝트로 ‘한국 대도약 완성’ 추진",
-      "url": "https://www.viva100.com/article/20260812501111",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812501110.jpg?v=20260812165419"
+      "title": "NH농협은행, AI 컨택센터 출범",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740429?sid=101",
+      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
     },
     {
-      "title": "'완주 챌린지 100℃' 주민 중심 아이디어 톡톡",
-      "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049234",
-      "img": "https://cdn.jjn.co.kr/news/thumbnail/202608/1049234_269377_5521_v150.jpg"
+      "title": "핵심광물 재자원화율 20% 목표… 첨단 공급망에 10조원 R&D 투입",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=104519",
+      "img": "https://cdn.e-platform.net/news/thumbnail/202608/104519_76798_3123_v150.jpg"
+    },
+    {
+      "title": "AI 전력난 풀고 양자·우주·바이오 선점…정부도 출자해 ‘위험 분담’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004651146?sid=105",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/12/news-p.v1.20260812.1750a2fab3b34444b38f992b34e96ed9_R.jpg"
     }
   ]
 };
