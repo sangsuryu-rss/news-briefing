@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 22:50",
+  "updatedAt": "2026.08.13 (목) 00:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 업무 전환 속도 내는 현대차그룹… 사내 플랫폼 'H Chat Pro'로 전사 A...",
-          "desc": "순차 도입했다. 이를 통해 업무 진행 현황, 의사결정 사항, 문서 공동 작성과 지식 공유 체계를 조직... 진은숙 현대차·기아 ICT담당 사장은 \"AI는 중요한 기술이지만 결국 기업이 활용해야 하는 도구\"라며 \"새로운...",
-          "src": "kr",
-          "date": "08/12",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1813122",
-          "img": "https://cdn.kr.aving.net/news/photo/202608/1813122_777001_1752.jpg"
+          "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
+          "desc": "춘천 시민 과반이 행정분야에 AI(인공지능) 기술을 도입하는 것에 긍정적인 것으로 나타났다. 또한 시청 소속 직원 대다수(92.5%)는 AI를 활용한 경험이 있는 것으로 조사됐다. 춘천시는 이 같은 결과를 토대로 춘천시...",
+          "src": "kado",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/654/0000195044?sid=102",
+          "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
         },
         {
-          "title": "3000만달러 조달 보도, 마인드가드 AI 보안 확장",
-          "desc": "생성형 AI의 활용 범위가 모델에서 에이전트와 애플리케이션으로 넓어지면서 시스템 전체의 공격 가능성을 점검하는 보안 기술에 자금이 유입된 사례다. 크립토브리핑(Crypto Briefing)은 12일 Mindgard가 적대적...",
-          "src": "tokenpost",
-          "date": "08/12",
-          "url": "https://www.tokenpost.kr/news/blockchain/389423",
-          "img": "https://f1.tokenpost.kr/2026/08/nf2vbn1gf4.jpg"
+          "title": "수능 서·논술형 도입 두고 \"사교육 확대 우려\" vs \"안정적 정착 가능\"",
+          "desc": "교육부와 국교위는 AI 평가 지원 시스템을 활용해 서·논술형 평가 체계를 마련할 계획이다. 우선 전국 중... 충분하다\"며 \"시험 기술을 익히기 위해서 학원에 갈 필요가 없게 된다\"고 말했다. 신재훈 기자 #논술형 #도입...",
+          "src": "kado",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/654/0000195049?sid=102",
+          "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
         },
         {
-          "title": "20억달러 유치한 쓰라이브 홀딩스, 기업가치 120억달러",
-          "desc": "정보기술(IT) 서비스가 주요 적용 분야다. 반복적인 업무 절차를 갖춘 기업을 인수하고 AI 도구를 도입해... AI 기술 자체보다 실제 산업 현장에서 활용할 수 있는 운영 체계를 만드는 데 방점을 찍었다. 통상 AI...",
-          "src": "tokenpost",
-          "date": "08/12",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/389397",
-          "img": "https://f1.tokenpost.kr/2026/08/u3p5xzgnnt.jpg"
+          "title": "전 계열사에 생성형 AI 도입...BNK 금융, 업무방식 바꾼다",
+          "desc": "BNK금융그룹(회장 빈대인)이 급변하는 금융환경과 디지털 기술 변화에 대응해 AI(인공지능)를 그룹 전반에... 또 임직원의 AI 활용 역량을 높이기 위해 실무형 AI 해커톤으로 생성형 AI를 실제 업무에 적용할 수 있는...",
+          "src": "ksilbo",
+          "date": "08/13",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064499",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         },
         {
-          "title": "위드네트웍스, 'ISEC 2026'서 새 자산·취약점 통합 관리 플랫폼 공개",
-          "desc": "또 AI 기술 확산으로 공격은 빠르고 정교해지는 동시에 공격 범위도 확대되고 있으나, 이에 대응할 보안... 신규 도입 자산과 미관리 자산, 신규 공개 취약점은 식별되는 즉시 디지털 트윈에 반영돼 정기 점검 주기...",
-          "src": "ZDNet코리아",
+          "title": "차정인 \"서·논술형 수능, 폭넓게 독서하면 학원 필요 없어\"",
+          "desc": "차 위원장은 이 같은 우려에 \"도입된다면 각 가정과 학생들이 할 일은 폭넓게 독서를 해 두는 정도\"라며 \"기술적인 요소는 공교육에서 충분히 익혀나갈 수 있다\"고 거듭 밝혔다. 인공지능(AI)을 활용한 채점 시스템 도입...",
+          "src": "파이낸셜뉴스",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/092/0002433817?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/12/7b90d5de0c686c13e7632df7476bfa6a.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005560843?sid=100",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/12/202608121534106880_l.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[심층분석] \"AI 훈풍에 반도체 밸류체인 솟구쳤다\"…삼성전자·SK하이닉...",
+          "desc": "삼성전자는 전 거래일 대비 6.99% 급등한 25만6250원에 장을 마감했고 SK하이닉스 역시 6.18% 치솟은... AI 인프라 구축 수요가 여전히 견조하다는 사실이 입증되면서 국내 반도체 제조사 및 협력사들의 실적 개선...",
+          "src": "thefairnews",
+          "date": "08/13",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84889",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202608/84889_131060_4846_v150.jpg"
+        },
         {
           "title": "[주식마감] '호남 반도체' 소식에 금호건설·금호전기 연속 상한가... 엠...",
           "desc": "및 협력사 벰로보틱스와 함께 참여할 예정이다. 또한 반도체 공정 물류 핵심 장비인 OHT 사업에서도... SK하이닉스단일종목레버리지, 삼성전자, TIGER SK하이닉스단일종목레버리지, 대원전선, KODEX 코스닥150, TIGER...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/12",
           "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=238661",
           "img": "https://cdn.ezyeconomy.com/news/thumbnail/202608/238661_140070_3450_v150.jpg"
-        },
-        {
-          "title": "아이폰18 원가 38%↑…LG이노텍·LGD 부담 커지나",
-          "desc": "국내 대표 애플 협력사인 LG디스플레이와 LG이노텍이 원가 압박의 쓰나미를 맞고 있다. 메모리 가격이... LG전자가 휴대폰 사업을 접은 지 수년이 지났고 삼성전자는 갤럭시에 삼성전기 제품을 우선 쓰다 보니 내수...",
-          "src": "econovill",
-          "date": "08/12",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747806",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747806_722373_3859_v150.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
     },
     {
-      "title": "AI 업무 전환 속도 내는 현대차그룹… 사내 플랫폼 'H Chat Pro'로 전사 A...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1813122",
-      "img": "https://cdn.kr.aving.net/news/photo/202608/1813122_777001_1752.jpg"
+      "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
+      "url": "https://n.news.naver.com/mnews/article/654/0000195044?sid=102",
+      "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
     },
     {
-      "title": "3000만달러 조달 보도, 마인드가드 AI 보안 확장",
-      "url": "https://www.tokenpost.kr/news/blockchain/389423",
-      "img": "https://f1.tokenpost.kr/2026/08/nf2vbn1gf4.jpg"
+      "title": "수능 서·논술형 도입 두고 \"사교육 확대 우려\" vs \"안정적 정착 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/654/0000195049?sid=102",
+      "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
     },
     {
-      "title": "20억달러 유치한 쓰라이브 홀딩스, 기업가치 120억달러",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/389397",
-      "img": "https://f1.tokenpost.kr/2026/08/u3p5xzgnnt.jpg"
+      "title": "전 계열사에 생성형 AI 도입...BNK 금융, 업무방식 바꾼다",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064499",
+      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
     }
   ]
 };
