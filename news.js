@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 14:47",
+  "updatedAt": "2026.08.12 (수) 16:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "신한은행, '나사카' 고객 대상 삼성전자 패밀리몰 연계",
-          "desc": "삼성전자 패밀리몰에서는 모바일과 가전 등 삼성전자 제품을 군 장병 전용 가격으로 구매할 수 있다. 신한은행 관계자는 \"군 장병들이 신한 슈퍼SOL을 통해 다양한 혜택을 보다 쉽게 이용할 수 있도록 삼성전자와 이번...",
-          "src": "digitaltoday",
+          "title": "[오늘의 은행] KB국민은행·우리은행·신한은행·하나은행·BNK부산은행...",
+          "desc": "모바일·가전 등 삼성전자의 다양한 제품을 군 장병 전용 특별가로 구매할 수 있다. 신한은행 관계자는 \"군 장병들이 신한 슈퍼SOL을 통해 일상에서 체감할 수 있는 다양한 혜택을 보다 쉽고 편리하게 이용할 수 있도록...",
+          "src": "financialreview",
           "date": "08/12",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692437",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/692437_640353_2449.jpg"
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44182",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44182_65137_2744_v150.jpg"
         },
         {
-          "title": "샤오미, 6cm 문턱도 넘는 로봇청소기 신제품 출시",
-          "desc": "국내 로봇청소기 시장은 로보락이 점유율 50%로 선두를 달리는 가운데, 삼성전자와 LG전자가 추격하고 있는 모양새다. 샤오미코리아는 12일 '샤오미 로봇청소기 6 시리즈' 사전 예약을 시작하고, 오는 19일 국내...",
-          "src": "lcnews",
+          "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
+          "desc": "가전 업계 관계자는 \"로봇청소기가 청소를 보조하는 가전에서 일상적인 가사 부담을 줄이는 제품으로 자리 잡으면서 시장 경쟁도 계속 확대될 것\"이라며 \"삼성전자와 LG전자와도 중국 업체들이 치열하게 경쟁하고...",
+          "src": "아이뉴스24",
           "date": "08/12",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206403",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202608/206403_208346_3617.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
+          "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
         },
         {
-          "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
-          "desc": "공기청정기와 냉장고·세탁기·건조기·식기세척기·후드·에어컨 등에 적용되는 품목별 안전기준도 동시에... 가전업계 관계자는 “삼성전자와 LG전자 등 가전 대기업이 중국 시장 소매 판매를 줄이고 있는 만큼 현지의...",
-          "src": "전자신문",
-          "date": "08/11",
-          "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
+          "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
+          "desc": "50대 직장인 A씨는 이달초 새로 전세를 얻어 이사하는 과정에서 세탁기·건조기 등 주요 가전을 ‘구독’... 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를...",
+          "src": "khan",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/032/0003463814?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
         },
         {
-          "title": "[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했...",
-          "desc": "프롤로그 : 복도 안에서 삼성전자의 반도체 생산 라인 내부, 한 공간에서 일하지만 정규직은 흰색 방진복... DX는 Device experience의 약어로, DX 부문은 핸드폰, TV, 냉장고, 세탁기 등을 생산한다.) 최승호 초기업노조 위원장이...",
-          "src": "newstapa",
+          "title": "빌 게이츠 오고, 구광모는 美로…14일 재계 '빅데이'",
+          "desc": "LG는 가전과 배터리, 화학 등 다양한 제조 현장을 보유하고 있다. 엔비디아도 AI를 데이터센터에서 공장과 로봇 등 실제 산업 현장으로 확대하고 있어 양측이 구체적인 협력 방안을 내놓을지 주목된다. 삼성전자와...",
+          "src": "아이뉴스24",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/607/0000003443?sid=102",
-          "img": "https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001049219?sid=101",
+          "img": "https://image.inews24.com/v1/e0f0dab43e6145.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "정의선 “경영진부터 AI 알아야”…현대차그룹 ‘AI 전환’ 본격화",
-          "desc": "생산 공장에는 카메라와 AI 이미지 인식 기술을 활용해 차량 식별 번호를 자동 판독하는 시스템을 도입했다. 실제 생산 차량과 시스템에 등록된 차량 정보를 실시간으로 대조해 작업 오류를 조기에 찾아내는 방식이다....",
-          "src": "조선일보",
+          "title": "정부, SMR· 양자 등 7대 시드 프로젝트로 ‘한국 대도약 완성’ 추진",
+          "desc": "수소는 생산-저장-활용 전주기 기술을 개발하고, 2030년까지 10MW(메가와트)급 수전해 기술 국산화를 목표로 한다. 전력망은 GW급 전압형 초고압 직류송전(HVDC) 국산화를 비롯해 서해안 실증, 초전도 송전망 실증, AI 기반...",
+          "src": "브릿지경제",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/023/0003992597?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/W6MOFC23ANBOZOHGI5S37U7CCQ.jpg?auth=7cc1fa4749c330f934e08ddcd9bf27742c0c5b6466d208d2bce7ab83ed74a3ef&width=1200&height=630&smart=true"
+          "url": "https://www.viva100.com/article/20260812501111",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812501110.jpg?v=20260812165419"
         },
         {
-          "title": "메가존클라우드, AWS '아마존 퀵' SI 파트너 선정…국내 최초",
-          "desc": "김진성 메가존클라우드 클라우드테크유닛장은 \"생성형 AI 도입을 검토하는 기업들은 이제 기술 자체보다... 맞게 AI 에이전트 활용 모델을 설계하고 실질적인 비즈니스 성과를 창출하는 에이전틱 AI 솔루션을...",
-          "src": "view",
+          "title": "'완주 챌린지 100℃' 주민 중심 아이디어 톡톡",
+          "desc": "여자들은 생성형 인공지능(AI) 기술을 활용한 정책 기획 및 사례 구체화 워크숍을 거치며 주민의 눈높이에서... 최우수상은 '완주 하루 더 반값여행'을 주제로 숙박 연계형 차등 환급제 도입을 제안한 '반반하조' 팀이...",
+          "src": "jjn",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/277/0005802190?sid=105",
-          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+          "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049234",
+          "img": "https://cdn.jjn.co.kr/news/thumbnail/202608/1049234_269377_5521_v150.jpg"
         },
         {
-          "title": "현대차그룹, 전사 AI 전환…임직원 3만명 활용",
-          "desc": "AI가 부품 운반 대차의 이동 경로를 계산하는 기술은 생산 중단 시간을 약 86% 줄였다. 해외 정비 현장에... 그룹의 AI 전환 경험을 활용해 중소기업의 도입도 지원한다. 진은숙 현대차·기아 ICT담당 사장은 \"AI를 가장...",
-          "src": "이데일리",
+          "title": "[일문일답] \"기술은 목적 아닌 수단\"…현대차그룹, 임직원 80% '바이브 코...",
+          "desc": "진은숙 현대차·기아 ICT담당 사장은 기자의 AI 활용 전략 질의에 대해 \"기술을 목적이 아닌 수단으로 본다\"고... 현대차그룹은 AI 활용을 단순한 도구 도입에 그치지 않고 조직문화와 업무 프로세스의 변화로 연결한다는...",
+          "src": "인더스트리뉴스",
           "date": "08/12",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=361647",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/361647_296712_4235_v150.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84364",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202608/84364_104302_441.jpg"
         },
         {
-          "title": "LG유플러스, 공공 클라우드 사업 확대...AWS 인프라 중개서비스 제공",
-          "desc": "적용 분야로는 생성형 AI를 활용한 민원 상담·업무지원 챗봇, AI 기반 정보검색 서비스, 통계·행정 데이터를 관리하기 위한 데이터베이스 구축 등을 제시했다. 클라우드 도입 초기에는 기관별 업무와 보안 환경을...",
-          "src": "hbnpress",
+          "title": "\"기업 72%, AI 대응 위해 데이터 아키텍처 대규모 개편 필요\"",
+          "desc": "AI 활용 자체보다 데이터를 어떤 환경에서 관리하고 통제할 것인지가 기업 AI 확산의 주요 과제로 부상하고 있다는 설명이다. 세르지오 가고(Sergio Gago) 클라우데라 최고기술책임자(CTO)는 \"많은 기업이 데이터 분석을...",
+          "src": "datanet",
           "date": "08/12",
-          "url": "https://hbnpress.com/news/view/1065591559500110",
-          "img": "https://hbnpress.com/news/data/20260812/p1065591559500110_298_thum.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213733",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213733_137946_2553_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했...",
-          "desc": "DS는 Device Solution의 약어로 DS 부문에서 반도체와 LED 같은 전자 부품을 만든다. 메모리 사업부, 파운드리... - (가명) 김석대 / 삼성전자 사외협력사 노동자 A 업체는 회사 설립 초기부터 삼성에 납품해 왔다. 초창기엔...",
-          "src": "newstapa",
+          "title": "SK하이닉스, 美 인디애나 팹 27일 착공식…최태원·젠슨 황 한자리 서나",
+          "desc": "SK하이닉스는 주요 고객사와 협력사를 대상으로 초청장을 보내는 등 본격적인 행사 준비에 들어갔다.... 삼성전자와 SK하이닉스 등을 향해 미국 내 메모리 생산 확대를 공개적으로 촉구했다. AI 산업의 핵심 부품인 첨단...",
+          "src": "joongangenews",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/607/0000003443?sid=102",
-          "img": "https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=539670",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/539670_345416_1125.jpg"
         },
         {
-          "title": "[초점] 호남 반도체 팹 1호, 2029년 닻 올린다…'800조 투자' 현실화 3대...",
-          "desc": "소재·부품·장비 기업이 인근에 자리 잡고 연구개발과 인력 양성 체계가 연결돼야 생산거점으로서 경쟁력을 갖출 수 있다. 삼성전자와 SK하이닉스가 호남을 수도권에 이은 새로운 생산거점으로 삼겠다는 구상을...",
-          "src": "newsian",
+          "title": "“속도전 넘어 전격전”…이재명 정부가 메가특구법 서두르는 이유",
+          "desc": "삼성전자와 SK하이닉스는 용인 반도체 클러스터의 최종 팹 완공 시점을 기존 계획보다 각각 7년, 12년... 다만 메가프로젝트가 성공하려면 대기업뿐만 아니라 소재·부품·장비(소부장) 업체와 협력사가 함께 움직이는...",
+          "src": "economist",
           "date": "08/12",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93626",
-          "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93626_87278_1947_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000101545?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/12/ecn20260812000053.800x.0.jpg"
         },
         {
-          "title": "갤럭시 Z 폴드8 '대흥행'⋯삼성전자, 애플 폴더블 앞두고 100만대 증산",
-          "desc": "전자신문에 따르면 삼성전자는 올해 갤럭시 Z 폴드8을 100만대 추가 생산하기로 하고 협력사에 관련 부품을 주문했다. 기존 연간 생산 계획은 280만대 수준이었으며, 추가 생산분을 더하면 전체 생산 규모는 300만대...",
-          "src": "autodaily",
+          "title": "갤럭시S27 시리즈에 '가변조리개' 카메라 탑재 불발",
+          "desc": "가변 조리개는 빛의 양을 조절해 카메라 성능을 높이는 부품이다. 올해부터 애플이 아이폰18 프로... 삼성전자는 삼성전기, 엠씨넥스 등 복수 카메라 모듈 협력사와 가변조리개 개발을 해왔다. 업계에서는 갤럭시...",
+          "src": "전자신문",
           "date": "08/12",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546563",
-          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546563_190401_028_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003456786?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.a54db904a8324fac941d203afeaedd0b_P1.png"
         },
         {
-          "title": "[인터뷰] 윤재홍 에드워드코리아 대표 \"1등 기업의 선행투자 환경⋯국가...",
-          "desc": "글로벌 장비사들이 한국을 찾는 배경에는 삼성전자와 SK하이닉스 등 세계 최고 수준의 고객사가 자리하고... 완성품 업체와 소재·부품·장비 기업, 글로벌 장비사와 국내 협력사가 하나의 생태계를 이루며 함께 성장해야...",
-          "src": "이투데이",
+          "title": "[더벨][OLED 소부장 기업 진단] 'BOE·TCL까지' 디바이스, 국내외 장비 공...",
+          "desc": "FM마스크는 OLED의 RGB 발광물질을 정밀하게 증착하기 위해 사용하는 핵심 부품이다. 또 오픈 마스크(Open... 특히 삼성전자는 이번 오스틴 법인에 미국 협력사인 브룩스오토메이션의 제품이 아닌 디바이스의...",
+          "src": "더벨",
           "date": "08/12",
-          "url": "https://www.etoday.co.kr/news/view/2613052",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260811175607_2371835_1199_918.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101444584840107767",
+          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "신한은행, '나사카' 고객 대상 삼성전자 패밀리몰 연계",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692437",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/692437_640353_2449.jpg"
+      "title": "[오늘의 은행] KB국민은행·우리은행·신한은행·하나은행·BNK부산은행...",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44182",
+      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44182_65137_2744_v150.jpg"
     },
     {
-      "title": "샤오미, 6cm 문턱도 넘는 로봇청소기 신제품 출시",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206403",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202608/206403_208346_3617.jpg"
+      "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
+      "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
     },
     {
-      "title": "中 가전 안전·에너지 기준 잇따라 개정… 韓 중소 ODM도 가격 상승 압박",
-      "url": "https://n.news.naver.com/mnews/article/030/0003456067?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.574e8d7be2624667b8e52087f0dc524f_P1.png"
+      "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003463814?sid=101",
+      "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
     },
     {
-      "title": "[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했...",
-      "url": "https://n.news.naver.com/mnews/article/607/0000003443?sid=102",
-      "img": "https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg"
+      "title": "빌 게이츠 오고, 구광모는 美로…14일 재계 '빅데이'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001049219?sid=101",
+      "img": "https://image.inews24.com/v1/e0f0dab43e6145.jpg"
     },
     {
-      "title": "정의선 “경영진부터 AI 알아야”…현대차그룹 ‘AI 전환’ 본격화",
-      "url": "https://n.news.naver.com/mnews/article/023/0003992597?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/W6MOFC23ANBOZOHGI5S37U7CCQ.jpg?auth=7cc1fa4749c330f934e08ddcd9bf27742c0c5b6466d208d2bce7ab83ed74a3ef&width=1200&height=630&smart=true"
+      "title": "정부, SMR· 양자 등 7대 시드 프로젝트로 ‘한국 대도약 완성’ 추진",
+      "url": "https://www.viva100.com/article/20260812501111",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812501110.jpg?v=20260812165419"
     },
     {
-      "title": "메가존클라우드, AWS '아마존 퀵' SI 파트너 선정…국내 최초",
-      "url": "https://n.news.naver.com/mnews/article/277/0005802190?sid=105",
-      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+      "title": "'완주 챌린지 100℃' 주민 중심 아이디어 톡톡",
+      "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1049234",
+      "img": "https://cdn.jjn.co.kr/news/thumbnail/202608/1049234_269377_5521_v150.jpg"
     }
   ]
 };
