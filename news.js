@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 04:28",
+  "updatedAt": "2026.08.13 (목) 06:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
-          "desc": "메모리 가격 폭등으로 스마트폰 등 전자기기와 가전제품 가격이 동반 상승하면서 구독 방식이 소비 트렌드로 빠르게 자리 잡고 있다. 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰...",
-          "src": "khan",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
-          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+          "title": "삼성전자, '가전 전문 상담 매니저' 도입… 오프라인 유통망 강화",
+          "desc": "삼성전자 관계자는 “가전 구매시 고객 필요에 맞는 전문 매니저를 통한 맞춤형 서비스를 제공하는 취지”라고 설명했다. 가전 구매는 중심은 온라인으로 옮겨가고 있다. 매장에서 실물을 확인한 뒤 온라인으로 최종...",
+          "src": "전자신문",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/030/0003456893?sid=101",
+          "img": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.21f53d5730da48a3acbf011449dc75a2_P1.jpg"
         },
         {
           "title": "[현장] 유비리서치 \"디스플레이 격전지가 TV·모바일서 IT OLED·차량용·...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
-          "desc": "가입을 마친 군 장병들은 모바일, 가전 등 삼성전자의 주요 제품을 군인 전용 특별가로 편리하게 구매할 수 있다. 신한은행 관계자는 \"나라를 위해 헌신하는 군 장병들이 일상에서 체감할 수 있는 실질적인 혜택을 보다...",
-          "src": "newstnt",
+          "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
+          "desc": "50대 직장인 A씨는 이달 초 새로 전세를 얻어 이사하는 과정에서 세탁기·건조기 등 주요 가전을 ‘구독’... 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를...",
+          "src": "khan",
           "date": "08/12",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=713790",
-          "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
+          "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
+          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         },
         {
-          "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
-          "desc": "가전 업계 관계자는 \"로봇청소기가 청소를 보조하는 가전에서 일상적인 가사 부담을 줄이는 제품으로 자리 잡으면서 시장 경쟁도 계속 확대될 것\"이라며 \"삼성전자와 LG전자와도 중국 업체들이 치열하게 경쟁하고...",
-          "src": "아이뉴스24",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
-          "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
+          "title": "2600명→3만명…삼성DX 노조 '1000주 요구' 뒤엔 세력전쟁",
+          "desc": "서영욱 조민교 기자 = 삼성전자 노조 간 세력 경쟁이 경영 현실과 동떨어진 '보상 경쟁'으로 치닫고 있다.... 스마트폰과 TV·가전 등 완제품 사업에서 메모리를 비롯한 부품 가격 상승에 따른 원가 부담이 커진 영향이다....",
+          "src": "뉴스핌",
+          "date": "08/13",
+          "url": "https://www.newspim.com/news/view/20260812000917",
+          "img": "https://img.newspim.com/news/2026/08/12/260812155518194_610_tc.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 신약개발 '도입' 넘어 실제 연구로…자체 플랫폼 구축하고 파이프라...",
-          "desc": "외부 AI 기술을 연구에 활용하는 데 그치지 않고, 자체 연구 데이터를 축적하는 플랫폼을 만들거나 AI 기업과 후보물질·타깃의 개발 권리까지 나누는 협업이 잇따르고 있다. 12일 제약·바이오 업계에 따르면 자체 AI...",
-          "src": "medigatenews",
+          "title": "차정인 “수능 서·논술형 평가, 사교육 부담 없을 것”",
+          "desc": "상황이나 AI 발달 정도가 완전히 다르다”고 강조했다. 과거 일본은 기존의 선다형·단답형 평가를 서·논술형 문항 도입 및 민간 영어시험 활용 방식으로 전환하려 했으나, 공정성과 신뢰도 문제로 무산됐다. 차 위원장은...",
+          "src": "segye",
           "date": "08/13",
-          "url": "https://www.medigatenews.com/news/3428983497",
-          "img": "https://medigatenews.com/file/news/517104"
+          "url": "https://n.news.naver.com/mnews/article/022/0004150625?sid=102",
+          "img": "https://www.segye.com/content/image/2026/08/12/20260812525590.jpg"
         },
         {
-          "title": "미스트랄, 리전 처리·우선접속 유료화…“주권”은 절반짜리",
-          "desc": "고객은 요청을 유럽(api.eu.mistral.ai) 또는 미국(api.us.mistral.ai) 서버로 지정해 보낼 수 있다. 트래픽이 몰리는 시간대에 요금을 더 내면 먼저 처리해주는 프라이어리티 티어(Priority Tier)도 함께 도입됐다. 다만 두...",
-          "src": "wikitree",
+          "title": "메디카코리아, 유한이 찍은 신약벤처 '사이러스'에 20억 베팅",
+          "desc": "경상기술료는 별도다. CYRS1645는 유한양행 도입 이후 'YH44529'로 개발되고 있다. SOS1은 RAS 신호전달 경로와... 세포 내 단백질 분해 시스템을 활용해 질환 관련 단백질 제거를 유도하는 표적단백질분해제 계열이다....",
+          "src": "dailypharm",
           "date": "08/13",
-          "url": "https://www.wikitree.co.kr/articles/1152104",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/13/202608130219108802_ai.jpeg"
+          "url": "https://www.dailypharm.com/user/news/341367?REFERER=NP",
+          "img": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/08/12/4295aa47-0cd5-4e67-a19c-58c93a02d1b3.png"
         },
         {
-          "title": "롯데홈·CJ온스타일·GS샵, 2분기 실적 반등…하반기 '패션·고마진' 승...",
-          "desc": "하반기에 인공지능(AI) 기반 콘텐츠 분석과 숏폼 자동 생성 플랫폼 등을 도입하며 콘텐츠 제작 효율 개선... 여기에 AI 기술을 활용해 전문관을 GS샵 모바일 앱의 핵심 성장 축으로 육성시킨다는 방침이다. 업계선...",
-          "src": "pointdaily",
+          "title": "블록버스터 특허 줄줄이 만료…글로벌 제약사 ‘신약 쇼핑’ 경쟁",
+          "desc": "과정에서 AI 활용이 확대되면서 글로벌 제약사들은 자체 역량을 강화하는 동시에 전문 플랫폼 기업과의 협업과 투자를 늘리고 있다. 글로벌 제약사들의 외부 기술 수요 증가는 국내 제약바이오 기업에도 기회가 될 수...",
+          "src": "kukinews",
           "date": "08/13",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315300",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315300_311249_814_v150.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202608120128",
+          "img": ""
         },
         {
-          "title": "“AI로 차량 충돌 안전 테스트… 분석 시간 90% 단축”",
-          "desc": "“지난해부터 남양 기술연구소에 ‘충돌 안전 인공지능(AI) 어시스턴트’를 도입했다. 충돌 실험 데이터를... ‘그룹 AI 전환(AX) 성과 발표회’에서는 이처럼 직원들이 직접 AI를 활용해 효율성을 높인 업무 사례들이...",
-          "src": "동아일보",
+          "title": "통신 넘어 새 격전지 ‘AIDC’로…이통3사 2차전 본격화",
+          "desc": "SK텔레콤은 외부 자금과 글로벌 협력을 활용한 ‘속도전’, KT는 대규모 투자와 AX 인프라 확장... KT의 AX 사업 매출은 금융권을 중심으로 AI 도입 수요가 확대되고 KT클라우드가 두 자릿수 성장세를 이어가면서 전년...",
+          "src": "kukinews",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/020/0003740478?sid=103",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466703.4.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202608120178",
+          "img": ""
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "종이로 바꾸고 복합포장 줄이고⋯ EU 포장 규제에 바빠진 기업들",
+          "desc": "삼성전자는 지난해 갤럭시S25 시리즈 포장재를 100% 재활용 종이 소재로 만들고 플라스틱 완충재도 종이... 포장 소재와 재활용 관련 정보를 협력사와 공유하고 필요한 데이터를 체계적으로 확보·관리하는 데 집중하고...",
+          "src": "브릿지경제",
+          "date": "08/13",
+          "url": "https://www.viva100.com/article/20260812500950",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812500917.png?v=20260813060502"
+        },
         {
           "title": "[심층분석] \"AI 훈풍에 반도체 밸류체인 솟구쳤다\"…삼성전자·SK하이닉...",
           "desc": "삼성전자는 전 거래일 대비 6.99% 급등한 25만6250원에 장을 마감했고 SK하이닉스 역시 6.18% 치솟은... AI 인프라 구축 수요가 여전히 견조하다는 사실이 입증되면서 국내 반도체 제조사 및 협력사들의 실적 개선...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/12",
           "url": "http://www.kjdaily.com/article.php?aid=1786526436684375028",
           "img": ""
-        },
-        {
-          "title": "SK하이닉스, 美 인디애나 패키징 공장 27일 착공…최태원·젠슨 황 만날...",
-          "desc": "곽노정 SK하이닉스 대표이사를 비롯한 주요 경영진과 글로벌 고객사 및 협력사 관계자들이 참석할 것으로... 미국 정부 역시 삼성전자와 SK하이닉스 등 국내 반도체 기업에 미국 내 메모리 생산 확대를 요구하고 있다....",
-          "src": "ezyeconomy",
-          "date": "08/12",
-          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=238661",
-          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202608/238661_140070_3450_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, '가전 전문 상담 매니저' 도입… 오프라인 유통망 강화",
+      "url": "https://n.news.naver.com/mnews/article/030/0003456893?sid=101",
+      "img": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.21f53d5730da48a3acbf011449dc75a2_P1.jpg"
+    },
+    {
       "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
       "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
       "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
     },
     {
-      "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=713790",
-      "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
+      "title": "2600명→3만명…삼성DX 노조 '1000주 요구' 뒤엔 세력전쟁",
+      "url": "https://www.newspim.com/news/view/20260812000917",
+      "img": "https://img.newspim.com/news/2026/08/12/260812155518194_610_tc.jpg"
     },
     {
-      "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
-      "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
+      "title": "차정인 “수능 서·논술형 평가, 사교육 부담 없을 것”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004150625?sid=102",
+      "img": "https://www.segye.com/content/image/2026/08/12/20260812525590.jpg"
     },
     {
-      "title": "AI 신약개발 '도입' 넘어 실제 연구로…자체 플랫폼 구축하고 파이프라...",
-      "url": "https://www.medigatenews.com/news/3428983497",
-      "img": "https://medigatenews.com/file/news/517104"
+      "title": "메디카코리아, 유한이 찍은 신약벤처 '사이러스'에 20억 베팅",
+      "url": "https://www.dailypharm.com/user/news/341367?REFERER=NP",
+      "img": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/08/12/4295aa47-0cd5-4e67-a19c-58c93a02d1b3.png"
     },
     {
-      "title": "미스트랄, 리전 처리·우선접속 유료화…“주권”은 절반짜리",
-      "url": "https://www.wikitree.co.kr/articles/1152104",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/13/202608130219108802_ai.jpeg"
-    },
-    {
-      "title": "롯데홈·CJ온스타일·GS샵, 2분기 실적 반등…하반기 '패션·고마진' 승...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315300",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315300_311249_814_v150.jpg"
+      "title": "종이로 바꾸고 복합포장 줄이고⋯ EU 포장 규제에 바빠진 기업들",
+      "url": "https://www.viva100.com/article/20260812500950",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812500917.png?v=20260813060502"
     }
   ]
 };
