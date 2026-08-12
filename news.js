@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 20:11",
+  "updatedAt": "2026.08.12 (수) 22:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,22 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
+          "desc": "메모리 가격 폭등으로 스마트폰 등 전자기기와 가전제품 가격이 동반 상승하면서 구독 방식이 소비 트렌드로 빠르게 자리 잡고 있다. 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰...",
+          "src": "khan",
+          "date": "08/12",
+          "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
+          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+        },
+        {
+          "title": "[현장] 유비리서치 \"디스플레이 격전지가 TV·모바일서 IT OLED·차량용·...",
+          "desc": "아니라 삼성전자의 냉장고, 청소기, 휴대전화입니다.\" 이충훈 유비리서치 대표는 12일 서울 강남구... 냉장고는 700만~1천만 원대까지, 로봇청소기는 200만 원대까지 뛰었다. 하지만 55인치 액정표시장치(LCD) TV...",
+          "src": "비즈니스포스트",
+          "date": "08/12",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444590",
+          "img": ""
+        },
+        {
           "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
           "desc": "가입을 마친 군 장병들은 모바일, 가전 등 삼성전자의 주요 제품을 군인 전용 특별가로 편리하게 구매할 수 있다. 신한은행 관계자는 \"나라를 위해 헌신하는 군 장병들이 일상에서 체감할 수 있는 실질적인 혜택을 보다...",
           "src": "newstnt",
@@ -29,28 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
         },
         {
-          "title": "[현장] 유비리서치 \"디스플레이 격전지, TV·모바일서 IT OLED·차량용·폴...",
-          "desc": "아니라 삼성전자의 냉장고, 청소기, 휴대전화입니다.\" 이충훈 유비리서치 대표는 12일 서울 강남구... 냉장고는 700만~1천만 원대까지, 로봇청소기는 200만 원대까지 뛰었다. 하지만 55인치 액정표시장치(LCD) TV...",
-          "src": "비즈니스포스트",
+          "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
+          "desc": "가전 업계 관계자는 \"로봇청소기가 청소를 보조하는 가전에서 일상적인 가사 부담을 줄이는 제품으로 자리 잡으면서 시장 경쟁도 계속 확대될 것\"이라며 \"삼성전자와 LG전자와도 중국 업체들이 치열하게 경쟁하고...",
+          "src": "아이뉴스24",
           "date": "08/12",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444590",
-          "img": ""
-        },
-        {
-          "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
-          "desc": "50대 직장인 A씨는 이달초 새로 전세를 얻어 이사하는 과정에서 세탁기·건조기 등 주요 가전을 ‘구독’... 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를...",
-          "src": "khan",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/032/0003463814?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
-        },
-        {
-          "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
-          "desc": "가입 고객은 삼성전자의 모바일·가전제품 등을 군 장병 전용 특별가로 이용할 수 있다. ◆ NH농협은행, 생성형 AI 품은 컨택센터…'상담원 보조'까지 AI가 맡는다 NH농협은행은 농협상호금융과 공동 투자하고 KT와 협력해...",
-          "src": "lcnews",
-          "date": "08/12",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
+          "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "정부, 'K-문샷' AI 신약개발 첫 혁신연구거점 대구 구축",
-          "desc": "다시 AI가 학습하는 'K-문샷' 신약개발 연구체계가 국내에 도입된다. 과학기술정보통신부는 12일 대구에서... 기존에는 연구자의 경험과 반복 실험에 의존했으나, 최근 AI를 활용해 바이오데이터 분석과 후보물질 예측...",
-          "src": "gukjenews",
+          "title": "AI 업무 전환 속도 내는 현대차그룹… 사내 플랫폼 'H Chat Pro'로 전사 A...",
+          "desc": "순차 도입했다. 이를 통해 업무 진행 현황, 의사결정 사항, 문서 공동 작성과 지식 공유 체계를 조직... 진은숙 현대차·기아 ICT담당 사장은 \"AI는 중요한 기술이지만 결국 기업이 활용해야 하는 도구\"라며 \"새로운...",
+          "src": "kr",
           "date": "08/12",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663187",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663187_3830395_526_v150.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1813122",
+          "img": "https://cdn.kr.aving.net/news/photo/202608/1813122_777001_1752.jpg"
         },
         {
-          "title": "[현대차 포커스] 현대차그룹, 전사 AX 성과 공개…R&D 검토시간 90% 줄이...",
-          "desc": "등 AI 도입 효과도 구체적인 수치로 나타나고 있다. 12일(수) ‘현대차그룹 AX 성과 발표회’에서 (왼쪽... 진은숙 현대차·기아 ICT담당 사장은 “AI는 중요한 기술이지만 결국 기업이 활용해야 하는 도구”라며...",
-          "src": "thevaluenews",
+          "title": "3000만달러 조달 보도, 마인드가드 AI 보안 확장",
+          "desc": "생성형 AI의 활용 범위가 모델에서 에이전트와 애플리케이션으로 넓어지면서 시스템 전체의 공격 가능성을 점검하는 보안 기술에 자금이 유입된 사례다. 크립토브리핑(Crypto Briefing)은 12일 Mindgard가 적대적...",
+          "src": "tokenpost",
           "date": "08/12",
-          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200745",
-          "img": ""
+          "url": "https://www.tokenpost.kr/news/blockchain/389423",
+          "img": "https://f1.tokenpost.kr/2026/08/nf2vbn1gf4.jpg"
         },
         {
-          "title": "BNK금융, 전 계열사에 공동 AI 플랫폼…AX 속도",
-          "desc": "가령 부산·경남은행은 외환 업무와 여신, 내부통제 업무에 AI 기술을 적용하는 방안이 도입된다. 이를 통해... 업무를 AI가 지원해 업무 효율성을 높일 방침이다. 또 임직원의 AI 활용 역량을 키우기 위한 조직 문화...",
-          "src": "kookje",
+          "title": "20억달러 유치한 쓰라이브 홀딩스, 기업가치 120억달러",
+          "desc": "정보기술(IT) 서비스가 주요 적용 분야다. 반복적인 업무 절차를 갖춘 기업을 인수하고 AI 도구를 도입해... AI 기술 자체보다 실제 산업 현장에서 활용할 수 있는 운영 체계를 만드는 데 방점을 찍었다. 통상 AI...",
+          "src": "tokenpost",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/658/0000152180?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0813/L20260813.22010003396i1.jpg?51"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/389397",
+          "img": "https://f1.tokenpost.kr/2026/08/u3p5xzgnnt.jpg"
         },
         {
-          "title": "\"AI, 사회 전반의 경쟁력 좌우하는 핵심 요소\"",
-          "desc": "융합으로 'AI 문화도시 충북' 조성(김경식 충북문화재단 대표) △AI 중심 행정혁신을 위한 공공데이터 활용... 이어진 자유토론에서 참석자들은 AI 대전환이 단순한 기술 도입을 넘어 충북의 산업과 행정, 문화, 관광...",
-          "src": "ccdn",
+          "title": "위드네트웍스, 'ISEC 2026'서 새 자산·취약점 통합 관리 플랫폼 공개",
+          "desc": "또 AI 기술 확산으로 공격은 빠르고 정교해지는 동시에 공격 범위도 확대되고 있으나, 이에 대응할 보안... 신규 도입 자산과 미관리 자산, 신규 공개 취약점은 식별되는 즉시 디지털 트윈에 반영돼 정기 점검 주기...",
+          "src": "ZDNet코리아",
           "date": "08/12",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093695",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093695_604386_4008_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002433817?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/12/7b90d5de0c686c13e7632df7476bfa6a.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
+      "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
+      "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+    },
+    {
       "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
       "url": "https://www.newstnt.com/news/articleView.html?idxno=713790",
       "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
     },
     {
-      "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463814?sid=101",
-      "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
+      "title": "1조원 韓 로봇청소기 시장 잡아라…中 업체 신제품 '러시'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001049142?sid=101",
+      "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
     },
     {
-      "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
+      "title": "AI 업무 전환 속도 내는 현대차그룹… 사내 플랫폼 'H Chat Pro'로 전사 A...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1813122",
+      "img": "https://cdn.kr.aving.net/news/photo/202608/1813122_777001_1752.jpg"
     },
     {
-      "title": "정부, 'K-문샷' AI 신약개발 첫 혁신연구거점 대구 구축",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663187",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663187_3830395_526_v150.jpg"
+      "title": "3000만달러 조달 보도, 마인드가드 AI 보안 확장",
+      "url": "https://www.tokenpost.kr/news/blockchain/389423",
+      "img": "https://f1.tokenpost.kr/2026/08/nf2vbn1gf4.jpg"
     },
     {
-      "title": "BNK금융, 전 계열사에 공동 AI 플랫폼…AX 속도",
-      "url": "https://n.news.naver.com/mnews/article/658/0000152180?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0813/L20260813.22010003396i1.jpg?51"
-    },
-    {
-      "title": "\"AI, 사회 전반의 경쟁력 좌우하는 핵심 요소\"",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093695",
-      "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093695_604386_4008_v150.jpg"
+      "title": "20억달러 유치한 쓰라이브 홀딩스, 기업가치 120억달러",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/389397",
+      "img": "https://f1.tokenpost.kr/2026/08/u3p5xzgnnt.jpg"
     }
   ]
 };
