@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 02:14",
+  "updatedAt": "2026.08.13 (목) 04:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "AI 신약개발 '도입' 넘어 실제 연구로…자체 플랫폼 구축하고 파이프라...",
+          "desc": "외부 AI 기술을 연구에 활용하는 데 그치지 않고, 자체 연구 데이터를 축적하는 플랫폼을 만들거나 AI 기업과 후보물질·타깃의 개발 권리까지 나누는 협업이 잇따르고 있다. 12일 제약·바이오 업계에 따르면 자체 AI...",
+          "src": "medigatenews",
+          "date": "08/13",
+          "url": "https://www.medigatenews.com/news/3428983497",
+          "img": "https://medigatenews.com/file/news/517104"
+        },
+        {
+          "title": "미스트랄, 리전 처리·우선접속 유료화…“주권”은 절반짜리",
+          "desc": "고객은 요청을 유럽(api.eu.mistral.ai) 또는 미국(api.us.mistral.ai) 서버로 지정해 보낼 수 있다. 트래픽이 몰리는 시간대에 요금을 더 내면 먼저 처리해주는 프라이어리티 티어(Priority Tier)도 함께 도입됐다. 다만 두...",
+          "src": "wikitree",
+          "date": "08/13",
+          "url": "https://www.wikitree.co.kr/articles/1152104",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/13/202608130219108802_ai.jpeg"
+        },
+        {
+          "title": "롯데홈·CJ온스타일·GS샵, 2분기 실적 반등…하반기 '패션·고마진' 승...",
+          "desc": "하반기에 인공지능(AI) 기반 콘텐츠 분석과 숏폼 자동 생성 플랫폼 등을 도입하며 콘텐츠 제작 효율 개선... 여기에 AI 기술을 활용해 전문관을 GS샵 모바일 앱의 핵심 성장 축으로 육성시킨다는 방침이다. 업계선...",
+          "src": "pointdaily",
+          "date": "08/13",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315300",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315300_311249_814_v150.jpg"
+        },
+        {
           "title": "“AI로 차량 충돌 안전 테스트… 분석 시간 90% 단축”",
           "desc": "“지난해부터 남양 기술연구소에 ‘충돌 안전 인공지능(AI) 어시스턴트’를 도입했다. 충돌 실험 데이터를... ‘그룹 AI 전환(AX) 성과 발표회’에서는 이처럼 직원들이 직접 AI를 활용해 효율성을 높인 업무 사례들이...",
           "src": "동아일보",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/020/0003740478?sid=103",
           "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466703.4.jpg"
-        },
-        {
-          "title": "AI 대전환 통해 K제조업 체력 강화해야[기고/김영오]",
-          "desc": "M.AX는 단순한 개별 기술 도입이 아니라, 제조업의 판 자체를 데이터와 AI 중심 구조로 짜는 국가적... 제조 AI 기술 개발과 실증, 제조 데이터 구축 및 활용, 산업 현장 확산 지원 등 다양한 연구개발 사업을 통해 제조...",
-          "src": "동아일보",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/020/0003740469?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466677.4.jpg"
-        },
-        {
-          "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
-          "desc": "춘천 시민 과반이 행정분야에 AI(인공지능) 기술을 도입하는 것에 긍정적인 것으로 나타났다. 또한 시청 소속 직원 대다수(92.5%)는 AI를 활용한 경험이 있는 것으로 조사됐다. 춘천시는 이 같은 결과를 토대로 춘천시...",
-          "src": "kado",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/654/0000195044?sid=102",
-          "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
-        },
-        {
-          "title": "수능 서·논술형 도입 두고 \"사교육 확대 우려\" vs \"안정적 정착 가능\"",
-          "desc": "교육부와 국교위는 AI 평가 지원 시스템을 활용해 서·논술형 평가 체계를 마련할 계획이다. 우선 전국 중... 충분하다\"며 \"시험 기술을 익히기 위해서 학원에 갈 필요가 없게 된다\"고 말했다. 신재훈 기자 #논술형 #도입...",
-          "src": "kado",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/654/0000195049?sid=102",
-          "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/4336c66430cb75.jpg"
     },
     {
-      "title": "“AI로 차량 충돌 안전 테스트… 분석 시간 90% 단축”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740478?sid=103",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466703.4.jpg"
+      "title": "AI 신약개발 '도입' 넘어 실제 연구로…자체 플랫폼 구축하고 파이프라...",
+      "url": "https://www.medigatenews.com/news/3428983497",
+      "img": "https://medigatenews.com/file/news/517104"
     },
     {
-      "title": "AI 대전환 통해 K제조업 체력 강화해야[기고/김영오]",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740469?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466677.4.jpg"
+      "title": "미스트랄, 리전 처리·우선접속 유료화…“주권”은 절반짜리",
+      "url": "https://www.wikitree.co.kr/articles/1152104",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/13/202608130219108802_ai.jpeg"
     },
     {
-      "title": "춘천 AI 행정시대 시동…시민 63.7% \"긍정적\"",
-      "url": "https://n.news.naver.com/mnews/article/654/0000195044?sid=102",
-      "img": "https://www.kado.net/image/logo/snslogo_20250627101858.png"
+      "title": "롯데홈·CJ온스타일·GS샵, 2분기 실적 반등…하반기 '패션·고마진' 승...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315300",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315300_311249_814_v150.jpg"
     }
   ]
 };
