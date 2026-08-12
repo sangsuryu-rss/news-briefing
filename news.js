@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 11:46",
+  "updatedAt": "2026.08.12 (수) 14:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 주가, 상승세... 이유는?",
-          "desc": "한편 삼성전자는 DX(Device eXperience)와 DS(Device Solutions) 부문을 중심으로 사업을 운영하고 있다. DX부문에서는 스마트폰, TV, 생활가전, 네트워크 시스템, 의료기기 등 완제품 사업을 영위하며, DS부문에서는 메모리와...",
-          "src": "ggilbo",
+          "title": "신한은행, '나사카' 고객 대상 삼성전자 패밀리몰 연계",
+          "desc": "삼성전자 패밀리몰에서는 모바일과 가전 등 삼성전자 제품을 군 장병 전용 가격으로 구매할 수 있다. 신한은행 관계자는 \"군 장병들이 신한 슈퍼SOL을 통해 다양한 혜택을 보다 쉽게 이용할 수 있도록 삼성전자와 이번...",
+          "src": "digitaltoday",
           "date": "08/12",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175031",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1175031_1027418_208.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692437",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/692437_640353_2449.jpg"
         },
         {
           "title": "샤오미, 6cm 문턱도 넘는 로봇청소기 신제품 출시",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG유플러스, AWS 손잡고 공공 클라우드 공략…AX 사업 영토 넓힌다",
-          "desc": "자동화하는 기술을 개발하기도 했다. AI를 활용해 설치 시간을 줄이고 수작업 과정에서 발생할 수 있는 오류를 최소화하는 데 초점을 맞췄다. 이 같은 경험을 공공시장으로 확장해 클라우드 도입 초기 단계부터...",
-          "src": "job-post",
+          "title": "정의선 “경영진부터 AI 알아야”…현대차그룹 ‘AI 전환’ 본격화",
+          "desc": "생산 공장에는 카메라와 AI 이미지 인식 기술을 활용해 차량 식별 번호를 자동 판독하는 시스템을 도입했다. 실제 생산 차량과 시스템에 등록된 차량 정보를 실시간으로 대조해 작업 오류를 조기에 찾아내는 방식이다....",
+          "src": "조선일보",
           "date": "08/12",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=223789",
-          "img": "https://cdn.job-post.co.kr/news/photo/202608/223789_326591_4234.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003992597?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/W6MOFC23ANBOZOHGI5S37U7CCQ.jpg?auth=7cc1fa4749c330f934e08ddcd9bf27742c0c5b6466d208d2bce7ab83ed74a3ef&width=1200&height=630&smart=true"
         },
         {
-          "title": "경북대, 엔비디아·HD현대로보틱스와 지역 제조업 AI 전환 추진",
-          "desc": "제조기업의 AI 기술 도입을 지원하기 위해 마련됐다. M-WFM 플랫폼은 엔비디아의 3D 시뮬레이션 플랫폼... 검증을 마친 AI 모델과 로봇 스킬 라이브러리 등은 지역 제조기업에 배포한다. 기업들은 이를 활용해 생산공정...",
-          "src": "nocutnews",
+          "title": "메가존클라우드, AWS '아마존 퀵' SI 파트너 선정…국내 최초",
+          "desc": "김진성 메가존클라우드 클라우드테크유닛장은 \"생성형 AI 도입을 검토하는 기업들은 이제 기술 자체보다... 맞게 AI 에이전트 활용 모델을 설계하고 실질적인 비즈니스 성과를 창출하는 에이전틱 AI 솔루션을...",
+          "src": "view",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/079/0004177936?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/12/202608121113055755_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005802190?sid=105",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         },
         {
-          "title": "현대차그룹, 전사 AI 전환 가속…R&D·제조·서비스 'AX 혁신'",
-          "desc": "AI를 활용해 부품 공급 대차의 이동 경로를 자동으로 계산하는 '대차 정렬 최적화 기술'도 도입했다. 강화학습 기반 AI를 활용해 최적 이동 경로를 도출하면서 생산 중단 시간을 약 86% 줄였다. 정비와 고객 서비스...",
-          "src": "pointdaily",
+          "title": "현대차그룹, 전사 AI 전환…임직원 3만명 활용",
+          "desc": "AI가 부품 운반 대차의 이동 경로를 계산하는 기술은 생산 중단 시간을 약 86% 줄였다. 해외 정비 현장에... 그룹의 AI 전환 경험을 활용해 중소기업의 도입도 지원한다. 진은숙 현대차·기아 ICT담당 사장은 \"AI를 가장...",
+          "src": "이데일리",
           "date": "08/12",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315239",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315239_311184_4011_v150.jpg"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=361647",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/361647_296712_4235_v150.jpg"
         },
         {
-          "title": "'보라니고', 20년 만에 열린 저등급 신경교종 새 돌파구",
-          "desc": "의학 기술이 등장했을 때는 보건당국이 보다 적극적이고 유연하게 신약 도입과 급여 등재를 장려해 주길... 필요한 정보가 공개돼 있어도 이를 찾아보고 활용하기 어려운 현실이 안타깝다고 느낀 적이 많다....",
-          "src": "medipana",
+          "title": "LG유플러스, 공공 클라우드 사업 확대...AWS 인프라 중개서비스 제공",
+          "desc": "적용 분야로는 생성형 AI를 활용한 민원 상담·업무지원 챗봇, AI 기반 정보검색 서비스, 통계·행정 데이터를 관리하기 위한 데이터베이스 구축 등을 제시했다. 클라우드 도입 초기에는 기관별 업무와 보안 환경을...",
+          "src": "hbnpress",
           "date": "08/12",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=415845",
-          "img": "https://cdn.medipana.com/news/photo/202608/415845_322312_5730.jpg"
+          "url": "https://hbnpress.com/news/view/1065591559500110",
+          "img": "https://hbnpress.com/news/data/20260812/p1065591559500110_298_thum.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 주가, 상승세... 이유는?",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175031",
-      "img": "https://cdn.ggilbo.com/news/photo/202608/1175031_1027418_208.jpg"
+      "title": "신한은행, '나사카' 고객 대상 삼성전자 패밀리몰 연계",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692437",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/692437_640353_2449.jpg"
     },
     {
       "title": "샤오미, 6cm 문턱도 넘는 로봇청소기 신제품 출시",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg"
     },
     {
-      "title": "LG유플러스, AWS 손잡고 공공 클라우드 공략…AX 사업 영토 넓힌다",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=223789",
-      "img": "https://cdn.job-post.co.kr/news/photo/202608/223789_326591_4234.jpg"
+      "title": "정의선 “경영진부터 AI 알아야”…현대차그룹 ‘AI 전환’ 본격화",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992597?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/W6MOFC23ANBOZOHGI5S37U7CCQ.jpg?auth=7cc1fa4749c330f934e08ddcd9bf27742c0c5b6466d208d2bce7ab83ed74a3ef&width=1200&height=630&smart=true"
     },
     {
-      "title": "경북대, 엔비디아·HD현대로보틱스와 지역 제조업 AI 전환 추진",
-      "url": "https://n.news.naver.com/mnews/article/079/0004177936?sid=102",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/12/202608121113055755_0.jpg"
+      "title": "메가존클라우드, AWS '아마존 퀵' SI 파트너 선정…국내 최초",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802190?sid=105",
+      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
     }
   ]
 };
