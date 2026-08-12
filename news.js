@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.12 (수) 18:33",
+  "updatedAt": "2026.08.12 (수) 20:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
-          "desc": "가입 고객은 삼성전자의 모바일·가전제품 등을 군 장병 전용 특별가로 이용할 수 있다. ◆ NH농협은행, 생성형 AI 품은 컨택센터…'상담원 보조'까지 AI가 맡는다 NH농협은행은 농협상호금융과 공동 투자하고 KT와 협력해...",
-          "src": "lcnews",
+          "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
+          "desc": "가입을 마친 군 장병들은 모바일, 가전 등 삼성전자의 주요 제품을 군인 전용 특별가로 편리하게 구매할 수 있다. 신한은행 관계자는 \"나라를 위해 헌신하는 군 장병들이 일상에서 체감할 수 있는 실질적인 혜택을 보다...",
+          "src": "newstnt",
           "date": "08/12",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=713790",
+          "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
         },
         {
           "title": "[현장] 유비리서치 \"디스플레이 격전지, TV·모바일서 IT OLED·차량용·폴...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
         },
         {
-          "title": "삼성전자·현대차·포스코인터·쿠팡은 왜 스테이블코인을 선택했을까 ...",
-          "desc": "업계에서는 삼성전자의 OUSD 참여 배경으로 결제와 연결할 수 있는 자체 사업 영역이 넓다는 점을 꼽는다. 가전과 스마트폰, 반도체 등 전 세계에서 판매하는 제품이 많은 만큼 스테이블코인을 결제·송금에 접목하면 자금...",
-          "src": "헤럴드경제",
+          "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
+          "desc": "가입 고객은 삼성전자의 모바일·가전제품 등을 군 장병 전용 특별가로 이용할 수 있다. ◆ NH농협은행, 생성형 AI 품은 컨택센터…'상담원 보조'까지 AI가 맡는다 NH농협은행은 농협상호금융과 공동 투자하고 KT와 협력해...",
+          "src": "lcnews",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/016/0002683093?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "완주군 정책연구모임 ‘완주 챌린지 100℃’성과 공유회 개최",
-          "desc": "참여자들은 생성형 인공지능(AI) 기술을 활용한 정책 기획 및 사례 구체화 워크숍을 거치며 주민의... 최우수상은 ‘완주 하루 더 반값여행’을 주제로 숙박 연계형 차등 환급제 도입을 제안한 ‘반반하조’ 팀이 받았다....",
-          "src": "sjbnews",
+          "title": "정부, 'K-문샷' AI 신약개발 첫 혁신연구거점 대구 구축",
+          "desc": "다시 AI가 학습하는 'K-문샷' 신약개발 연구체계가 국내에 도입된다. 과학기술정보통신부는 12일 대구에서... 기존에는 연구자의 경험과 반복 실험에 의존했으나, 최근 AI를 활용해 바이오데이터 분석과 후보물질 예측...",
+          "src": "gukjenews",
           "date": "08/12",
-          "url": "https://sjbnews.com/news/news.php?number=885071",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663187",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663187_3830395_526_v150.jpg"
+        },
+        {
+          "title": "[현대차 포커스] 현대차그룹, 전사 AX 성과 공개…R&D 검토시간 90% 줄이...",
+          "desc": "등 AI 도입 효과도 구체적인 수치로 나타나고 있다. 12일(수) ‘현대차그룹 AX 성과 발표회’에서 (왼쪽... 진은숙 현대차·기아 ICT담당 사장은 “AI는 중요한 기술이지만 결국 기업이 활용해야 하는 도구”라며...",
+          "src": "thevaluenews",
+          "date": "08/12",
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200745",
           "img": ""
         },
         {
-          "title": "NH농협은행, AI 컨택센터 출범",
-          "desc": "박현주 개인금융부문 부행장은 “AI와 상담직원이 협업해 고객의 금융 여정을 지원하는 고객가치센터의 기반을 마련했다”며 “앞으로도 고객의 목소리를 적극적으로 반영하고 디지털 기술을 활용해 고객이 체감할 수...",
-          "src": "동아일보",
+          "title": "BNK금융, 전 계열사에 공동 AI 플랫폼…AX 속도",
+          "desc": "가령 부산·경남은행은 외환 업무와 여신, 내부통제 업무에 AI 기술을 적용하는 방안이 도입된다. 이를 통해... 업무를 AI가 지원해 업무 효율성을 높일 방침이다. 또 임직원의 AI 활용 역량을 키우기 위한 조직 문화...",
+          "src": "kookje",
           "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/020/0003740429?sid=101",
-          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
+          "url": "https://n.news.naver.com/mnews/article/658/0000152180?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0813/L20260813.22010003396i1.jpg?51"
         },
         {
-          "title": "핵심광물 재자원화율 20% 목표… 첨단 공급망에 10조원 R&D 투입",
-          "desc": "생산, 도입에 이르는 전주기 맞춤형 지원을 추진할 예정이다. 전담기관 기능도 쇄신해 해외자원 사업 기능... 첨단기술을 활용해 실증을 가속할 계획이다. 경수형 SMR은 2035년 상용화를 목표로 하고, 비경수형 SMR은...",
-          "src": "e-platform",
+          "title": "\"AI, 사회 전반의 경쟁력 좌우하는 핵심 요소\"",
+          "desc": "융합으로 'AI 문화도시 충북' 조성(김경식 충북문화재단 대표) △AI 중심 행정혁신을 위한 공공데이터 활용... 이어진 자유토론에서 참석자들은 AI 대전환이 단순한 기술 도입을 넘어 충북의 산업과 행정, 문화, 관광...",
+          "src": "ccdn",
           "date": "08/12",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=104519",
-          "img": "https://cdn.e-platform.net/news/thumbnail/202608/104519_76798_3123_v150.jpg"
-        },
-        {
-          "title": "AI 전력난 풀고 양자·우주·바이오 선점…정부도 출자해 ‘위험 분담’",
-          "desc": "분야와 AI 이후를 겨냥한 프런티어 기술 3개 분야, 이를 떠받치는 공급망 1개 분야로 짜였다. 연구개발(R&D)... 분산전원에 활용하는 등 용도별 시장을 만들어야 한다”고 말했다. 핵융합은 실증로와 상용로 개발을...",
-          "src": "서울경제",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/011/0004651146?sid=105",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/12/news-p.v1.20260812.1750a2fab3b34444b38f992b34e96ed9_R.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093695",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093695_604386_4008_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[주식마감] '호남 반도체' 소식에 금호건설·금호전기 연속 상한가... 엠...",
+          "desc": "및 협력사 벰로보틱스와 함께 참여할 예정이다. 또한 반도체 공정 물류 핵심 장비인 OHT 사업에서도... SK하이닉스단일종목레버리지, 삼성전자, TIGER SK하이닉스단일종목레버리지, 대원전선, KODEX 코스닥150, TIGER...",
+          "src": "ggilbo",
+          "date": "08/12",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175169",
+          "img": "https://cdn.ggilbo.com/news/photo/202608/1175169_1027566_2913.jpg"
+        },
         {
           "title": "가오슝이 전남광주에 주는 세 가지 교훈 / 주정민",
           "desc": "주정민 전남대 대학원장지난 7월 삼성전자와 SK하이닉스가 800조원을 투자해 전남광주에 반도체 팹 4기를... 인력과 협력사를 곧바로 끌어올 수 있었다. 반면 전남광주 인근에는 기존 팹도, 소부장 협력체계도 없다. 자칫...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/12",
           "url": "https://www.econovill.com/news/articleView.html?idxno=747806",
           "img": "https://cdn.econovill.com/news/thumbnail/202608/747806_722373_3859_v150.jpg"
-        },
-        {
-          "title": "SK하이닉스, 美 인디애나 팹 27일 착공식…최태원·젠슨 황 한자리 서나",
-          "desc": "SK하이닉스는 주요 고객사와 협력사를 대상으로 초청장을 보내는 등 본격적인 행사 준비에 들어갔다.... 삼성전자와 SK하이닉스 등을 향해 미국 내 메모리 생산 확대를 공개적으로 촉구했다. AI 산업의 핵심 부품인 첨단...",
-          "src": "joongangenews",
-          "date": "08/12",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=539670",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/539670_345416_1125.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
+      "title": "\"청년 취업 돕고 군 복지 키운다\"… 국민과 신한은행, 미래 세대 맞춤형...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=713790",
+      "img": "https://cdn.newstnt.com/news/photo/202608/713790_716294_1815.png"
     },
     {
       "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.2bf08127e4ed485c91857273c5ff40ff_P1.jpg"
     },
     {
-      "title": "삼성전자·현대차·포스코인터·쿠팡은 왜 스테이블코인을 선택했을까 ...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002683093?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
+      "title": "[금융 게시판] 은행권, 청년 AI교육·상담 혁신까지 외연 확장…KB·신한...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206455",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202608/206455_208408_3337.jpg"
     },
     {
-      "title": "NH농협은행, AI 컨택센터 출범",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740429?sid=101",
-      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
+      "title": "정부, 'K-문샷' AI 신약개발 첫 혁신연구거점 대구 구축",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663187",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663187_3830395_526_v150.jpg"
     },
     {
-      "title": "핵심광물 재자원화율 20% 목표… 첨단 공급망에 10조원 R&D 투입",
-      "url": "http://www.e-platform.net/news/articleView.html?idxno=104519",
-      "img": "https://cdn.e-platform.net/news/thumbnail/202608/104519_76798_3123_v150.jpg"
+      "title": "BNK금융, 전 계열사에 공동 AI 플랫폼…AX 속도",
+      "url": "https://n.news.naver.com/mnews/article/658/0000152180?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0813/L20260813.22010003396i1.jpg?51"
     },
     {
-      "title": "AI 전력난 풀고 양자·우주·바이오 선점…정부도 출자해 ‘위험 분담’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004651146?sid=105",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/12/news-p.v1.20260812.1750a2fab3b34444b38f992b34e96ed9_R.jpg"
+      "title": "\"AI, 사회 전반의 경쟁력 좌우하는 핵심 요소\"",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093695",
+      "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1093695_604386_4008_v150.jpg"
     }
   ]
 };
