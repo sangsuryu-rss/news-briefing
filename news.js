@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 00:16",
+  "updatedAt": "2026.08.14 (금) 02:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“디테일에 달렸다”… 산업계, ‘한국판 IRA’ 세부 시행령 촉각",
-          "desc": "핵심소재, AI 로봇부품 등이다. 업계는 ‘한국판 인플레이션감축법(IRA)’ 도입 추진을 환영하면서도... 생산 세액공제와 함께 국내 시장에 우선 활용될 수 있는 연계 규정이나 인센티브가 마련돼야 한다는 요구도 있다....",
+          "title": "Suno, ‘Studio 2.0’ 출시…MIDI·AI 챗봇 넣어 DAW급으로 진화",
+          "desc": "가장 큰 변화는 MIDI(악기 연주 정보를 담는 디지털 음악 표준 포맷) 지원과 베타 단계의 AI 채팅바 도입이... Suno의 생성 AI 기술과 전형적인 DAW 기능을 결합한 제품으로, 뮤직테크는 올해 초 이 플랫폼을 리뷰해 10점...",
+          "src": "wikitree",
+          "date": "08/14",
+          "url": "https://www.wikitree.co.kr/articles/1152357",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/14/202608140209327315_ai.jpeg"
+        },
+        {
+          "title": "‘채점 불신’에 좌초한 日 서·논술형 입시… 韓은 AI로 넘을까",
+          "desc": "먼저 AI 기술이 고도화된 점이 다르다. 국가교육위원회는 일선 학교에서 이뤄지는 서·논술형 시험 채점 자료가 모이는 국가 차원의 AI 채점 시스템을 구축할 방침이다. 공교육에서 생성되는 방대한 채점 데이터를 활용해...",
           "src": "kmib",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/005/0001866806?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502434.png"
+          "url": "https://n.news.naver.com/mnews/article/005/0001866833?sid=102",
+          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502409.jpg"
         },
         {
-          "title": "\"강원 의료 AX 심장부 도약\" AI 혁신모델 구축 본격화",
-          "desc": "AI를 도입, 의료AX의 심장부로 도약시키기 위한 국가 차원의 프로젝트가 본격화됐다. 도시가 실증하고, 패스트트랙으로 산업화하는 의료AI 혁신모델이 강원에 구축된다. 송기헌 국회 과학기술정보방송통신위원장과...",
-          "src": "kado",
+          "title": "해저 묻고 우주로 쏘고… AI 도약, 물·전력 절감 기술에 달렸다",
+          "desc": "크레딧’을 도입했다. 해당 기업은 기존처럼 수돗물값만 내고, 더 비싼 재이용수와의 가격 차이는 TSMC가... 강원 동해에 2.4GW급 AI 데이터센터 사업자 GS그룹은 액침냉각을 활용할 계획이다. 냉각기술을 담당하는...",
+          "src": "kmib",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/654/0000195208?sid=100",
-          "img": "https://cdn.kado.net/news/photo/202608/2066630_874862_3113.jpg"
+          "url": "https://n.news.naver.com/mnews/article/005/0001866832?sid=102",
+          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502287.jpg"
         },
         {
-          "title": "딥핑소스, 자동차 전시장 AI 영상분석에 고객 유형 분류 기능 추가",
-          "desc": "집계를 AI 기반 분석으로 전환해 현장에 도입했다. 영상 데이터는 자체 원천 익명화 기술로 개인정보를 제거한 뒤 분석에 활용된다. 얼굴 인식이나 개인 식별 과정 없이 고객 수와 유형, 동선, 체류 시간 등 매장 운영에...",
-          "src": "고코리아",
-          "date": "08/13",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=874972",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/874972_152135_4728_v150.jpg"
-        },
-        {
-          "title": "취업률 75% 국립창원대 남해캠퍼스, 6개 학과 306명 선발",
-          "desc": "체제에서 활용할 가능성이 커진 셈이다. ■ 전국 첫 '2·4 다층학사제', 두 갈래 진로 열다 2027학년도... 항공정비과와 방산기계AI과를 중심으로 항공·조선·방위산업의 설계와 제작, 정비, 인공지능 기술을 교육한다....",
-          "src": "gnmaeil",
-          "date": "08/13",
-          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=592754",
-          "img": "http://www.gnmaeil.com/news/thumbnail/202608/592754_595180_2138_v150.jpg"
+          "title": "[미국 특징주] 오픈AI, 1년도 안 돼 최고매출책임자(CRO) 또 교체",
+          "desc": "이어 \"이 기술을 활용하는 방식이 빠르게 변화하고 있는 만큼, 달리는 우리가 그동안 배운 것들을 반복 가능한 실행 체계로 전환해 AI를 개인과 기업 모두에게 폭넓게 유용한 존재로 만드는 전체 시스템을...",
+          "src": "뉴스핌",
+          "date": "08/14",
+          "url": "https://www.newspim.com/news/view/20260814000015",
+          "img": "https://img.newspim.com/news/2026/08/14/2608140203320790_t1.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "“디테일에 달렸다”… 산업계, ‘한국판 IRA’ 세부 시행령 촉각",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866806?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502434.png"
+      "title": "Suno, ‘Studio 2.0’ 출시…MIDI·AI 챗봇 넣어 DAW급으로 진화",
+      "url": "https://www.wikitree.co.kr/articles/1152357",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/14/202608140209327315_ai.jpeg"
     },
     {
-      "title": "\"강원 의료 AX 심장부 도약\" AI 혁신모델 구축 본격화",
-      "url": "https://n.news.naver.com/mnews/article/654/0000195208?sid=100",
-      "img": "https://cdn.kado.net/news/photo/202608/2066630_874862_3113.jpg"
+      "title": "‘채점 불신’에 좌초한 日 서·논술형 입시… 韓은 AI로 넘을까",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866833?sid=102",
+      "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502409.jpg"
     }
   ]
 };
