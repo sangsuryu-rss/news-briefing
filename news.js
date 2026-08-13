@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 06:05",
+  "updatedAt": "2026.08.14 (금) 08:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“피부 MBTI로 질병 예측”…뉴요커 홀린 ‘7초 얼굴스캔’ 마법 [비크닉...",
-          "desc": "코넬대 생명공학과와 하버드 의과대학 연구소를 거친 그는 2014년 삼성전자에 입사했다. 사람들이 늘... 삼성 소속으로 2017년 미국 소비자 가전 전시회(CES)에 출품할 때는 “프로토타입(시험품)을 보러 와 달라”는 메일...",
-          "src": "중앙일보",
+          "title": "[비즈&플러스] 영역 넓히는 '히트펌프' 시장‥움직이는 병실",
+          "desc": "\" 삼성전자와 LG전자 등은 도시가스 공급망이 제대로 구축되지 않은 제주도의 1,042가구를 대상으로 히트펌프 사업을 본격 추진할 계획입니다. ◀ 앵커 ▶ 사실 요즘 생활가전 시장이 좋지가 않잖아요. 양대 가전회사가...",
+          "src": "imnews",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/025/0003544382?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/214/0001517860?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/14/today_20260814_074015_2_32_Large.jpg"
         },
         {
           "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "교사들 \"서·논술형가 '공정성' 중요\"…과대평가 우려도",
-          "desc": "문항을 도입하고 내신 서·논술형 평가 문항을 확대하는 방안을 추진하겠다고 밝혔다. 수능 전 과목과 고교... 국교위는 서·논술형 평가의 채점 공정성과 신뢰성 확보 방안으로 AI 기술 활용 가능성을 강조하고 있다....",
-          "src": "뉴시스",
+          "title": "[더벨][영상 | 현장+] 병원과 집 사이 '회복의 빈틈'…대웅개발 케어허...",
+          "desc": "신체 평가에는 낙상 위험도 측정 장비 'FRA' 등이 활용됩니다. 이용자가 발판 위에서 눈을 뜨거나 감은 상태로... ◇AI 매트리스·레이더 센서 적용…퇴소 후 관리까지 연결 객실에도 디지털 헬스케어 기술을 적용했습니다. AI...",
+          "src": "더벨",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/003/0014126997?sid=102",
-          "img": "https://img1.newsis.com/2026/08/13/NISI20260813_0021398400_web.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131637101160105726",
+          "img": ""
         },
         {
-          "title": "(대전환 뉴딜)⑦국가의 일, 시민의 일",
-          "desc": "이 셋을 AI와 웹3 등 디지털 기술로 한 차원 끌어올리는 게 스마트 민주주의다. 머릿수로 합산하는... 미국이나 프랑스처럼 Top3 결선투표가 도입되면 국회의원 선거에도 적용해 볼 수 있다. 최대 다수가 신뢰하고 승복하는...",
-          "src": "newstomato",
+          "title": "K-파마, 신약개발에 AI 속속 도입…전문인력 부족은 문제",
+          "desc": "신약개발에 AI를 활용하고 있거나 도입을 준비 중인 것으로 나타났다. 다만 AI 전문인력과 데이터 인프라... AI 인력이 없는 이유로는 자금 및 리소스 부족이 26명으로 가장 많았다. 이어 내부 인력의 AI 기술 이해...",
+          "src": "news",
           "date": "08/14",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1310200&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/8/14/1310200/attach.jpg?v=202608131523"
+          "url": "https://n.news.naver.com/mnews/article/648/0000049831?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2024/01/16/de24f7b8e509058bdb2bd1c0a1b02677.jpg"
         },
         {
-          "title": "[34] 면역항암치료의 혁신, 면역관문억제제②",
-          "desc": "최근 면역관문억제제의 가장 큰 변화는 암종 불문(tumor-agnostic) 치료​의 도입이다. 과거에는 암이... 인공지능(AI)을 활용한 정밀 면역항암치료가 내성 극복의 핵심 전략이 될 것으로 기대된다. 결국...",
-          "src": "dailypharm",
+          "title": "스마트 건설기술 시대엔 데이터 수집·분석 능력이 경쟁력",
+          "desc": "스마트 건설기술 도입은 사이버 보안 위협, AI 오판에 따른 법적 책임, 플랫폼 종속, 데이터 품질 오류 등... 전문건설업은 축적된 현장 데이터를 자산으로 활용해 품질 프리미엄을 확보하고, 데이터 기반의 수익구조를...",
+          "src": "koscaj",
           "date": "08/14",
-          "url": "https://www.dailypharm.com/user/news/341452?REFERER=NP",
-          "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/13/fe291224-7b96-48a1-a105-5a8d86176f7b.jpg"
+          "url": "https://www.koscaj.com/news/articleView.html?idxno=325815",
+          "img": "https://cdn.koscaj.com/news/thumbnail/202608/325815_74725_351_v150.jpg"
         },
         {
-          "title": "LG, 새 먹거리 바이오 사업 성과 가시화",
-          "desc": "개발경험을 활용해 여러 중국회사의 유망 항암신약 후보물질을 공동으로 탐색, 발굴 평가한다. 우수 후보물질에 대한 라이선스(면허생산) 도입 기회를 확보한다는 계획이다. LG AI연구원과 LG CNS는 AI와 디지털 기술을...",
-          "src": "segye",
+          "title": "혁신 의료기기 '우수 혁신제품' 대거 지정",
+          "desc": "미래 국가 먹거리로 분류되는 헬스케어 분야에서 국내 유망 의료기기 및 AI 기업들이 정부 우수 연구개발... 공공부문의 선도적 활용을 통해 축적된 참고 사례는 국내 혁신 기술의 산업 현장 도입을 위한 훌륭한...",
+          "src": "bosa",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/022/0004150880?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/13/20260813523299.jpg"
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010195",
+          "img": "https://cdn.bosa.co.kr/news/photo/202608/3010195_410729_1418.png"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[비즈&플러스] 영역 넓히는 '히트펌프' 시장‥움직이는 병실",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517860?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/14/today_20260814_074015_2_32_Large.jpg"
+    },
+    {
       "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
       "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
       "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "교사들 \"서·논술형가 '공정성' 중요\"…과대평가 우려도",
-      "url": "https://n.news.naver.com/mnews/article/003/0014126997?sid=102",
-      "img": "https://img1.newsis.com/2026/08/13/NISI20260813_0021398400_web.jpg"
+      "title": "K-파마, 신약개발에 AI 속속 도입…전문인력 부족은 문제",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049831?sid=101",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2024/01/16/de24f7b8e509058bdb2bd1c0a1b02677.jpg"
     },
     {
-      "title": "(대전환 뉴딜)⑦국가의 일, 시민의 일",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1310200&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/8/14/1310200/attach.jpg?v=202608131523"
-    },
-    {
-      "title": "[34] 면역항암치료의 혁신, 면역관문억제제②",
-      "url": "https://www.dailypharm.com/user/news/341452?REFERER=NP",
-      "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/13/fe291224-7b96-48a1-a105-5a8d86176f7b.jpg"
+      "title": "스마트 건설기술 시대엔 데이터 수집·분석 능력이 경쟁력",
+      "url": "https://www.koscaj.com/news/articleView.html?idxno=325815",
+      "img": "https://cdn.koscaj.com/news/thumbnail/202608/325815_74725_351_v150.jpg"
     }
   ]
 };
