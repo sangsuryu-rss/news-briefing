@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 08:03",
+  "updatedAt": "2026.08.13 (목) 11:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오늘의 투자전략] 외국인 매도세 둔화…반도체 주도주·수급 몰린 소외...",
-          "desc": "IT가전(+20.5%), 비철·목재(+20.0%), 건설(+19.8%), 기계(+17.9%), IT하드웨어(+17.1%) 등 24개에 달한다는 점은 시장 전반으로 반등의 온기가 확산되고 있음을 시사한다\"고 설명했다. 또한 \"8월 이후 주가가 횡보했던 삼성전자와...",
-          "src": "이투데이",
+          "title": "삼성전자·현대차까지…스테이블코인 사업화로 미래 연다",
+          "desc": "업계에서는 삼성전자의 OUSD 참여 배경으로 결제와 연결할 수 있는 자체 사업 영역이 넓다는 점을 꼽는다. 가전과 스마트폰, 반도체 등 전 세계에서 판매하는 제품이 많은 만큼 스테이블코인을 결제·송금에 접목하면 자금...",
+          "src": "헤럴드경제",
           "date": "08/13",
-          "url": "https://www.etoday.co.kr/news/view/2613953",
-          "img": "https://img.etoday.co.kr/pto_db/2026/07/20260715075544_2359596_600_400.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002683413?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/13/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
         },
         {
           "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         },
         {
-          "title": "신한은행, 오늘부터 군 장병 전용 삼성전자 패밀리몰 연계 서비스 제공",
-          "desc": "이를 통해 모바일 기기와 가전제품 등 삼성전자의 다양한 제품을 군 장병 전용 특별가로 구매할 수 있다. 신한은행 관계자는 \"군 장병들이 신한 슈퍼SOL을 통해 일상에서 체감할 수 있는 다양한 혜택을 보다 쉽고 편리하게...",
-          "src": "public25",
+          "title": "삼성전자, 인도에 플랙트그룹 HVAC 생산라인 준공",
+          "desc": "이날 행사에는 김철기 삼성전자 디지털가전(DA)사업부장 부사장과 데이비드 도니 플랙트그룹 대표를 비롯한 경영진, 주요 거래처 관계자 등 100여명이 참석했다. 푸네 생산시설은 생산라인과 사무실, 부대시설 등을...",
+          "src": "datasom",
           "date": "08/13",
-          "url": "https://www.public25.com/news/articleView.html?idxno=52598",
-          "img": "https://cdn.public25.com/news/photo/202608/52598_52696_262.jpg"
+          "url": "https://www.datasom.co.kr/news/articleView.html?idxno=209507",
+          "img": "https://cdn.datasom.co.kr/news/thumbnail/202608/209507_38760_1941_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "충돌시험 분석시간 90% 단축…현대차그룹 직원 80% “AI로 생산성 확 늘...",
-          "desc": "정 회장이 2018년 미국 라스베이거스에서 열리는 CES에서 “정보통신기술(ICT) 기업보다 더 ICT 기업 같은... 사내 생성형 AI 플랫폼 ‘에이치 챗 프로’를 도입해 AI 활용도 전사적으로 장려했다. 에이치 챗 프로를 통해...",
-          "src": "매일경제",
+          "title": "강남구, '명의일치율검증시스템 도입'으로 환급 처리기간 5일→2일 단축",
+          "desc": "환급업무에 도입해 행정처리 기간을 평균 5일에서 2일로 단축했다. 종합소득분 개인지방소득세는 사업, 근로... 생성형 AI와 디지털 기술을 활용해 반복적인 행정업무를 개선하고 구민이 체감할 수 있는 행정서비스 혁신을...",
+          "src": "gukjenews",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/009/0005720345?sid=103",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/13/news-g.v1.20260812.0e3ade8a77534f3f8b75744792d50e30_R.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663712",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663712_3830966_4427_v150.jpg"
         },
         {
-          "title": "정부 부처 9곳 도입 확정…삼성SDS 브리티웍스, AX 지원 ‘본격화’",
-          "desc": "브리티웍스는 삼성SDS의 보안 기술, 국가정보원 최고 보안 수준인 ‘상’ 등급을 획득한 민관협력형(PPP) 클라우드 환경을 기반으로 운영된다. 이를 통해 중앙 부처와 공공기관 등이 안전한 환경에서 생성형 AI를 활용할...",
-          "src": "헤럴드경제",
+          "title": "모티프, 독자 AI 파운데이션 모델 '모티프 3' 오픈소스로 공개",
+          "desc": "할루시네이션 억제 능력은 AI의 실제 업무 현장 도입에서 가장 중요한 신뢰성 요소로, 신뢰성... 공개 기술을 활용할 때도 기존 기술의 한계를 먼저 규명하고 개선하는 방식을 일관되게 적용했다....",
+          "src": "datanet",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/016/0002683188?sid=105",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/13/news-p.v1.20260813.76b61591f2a74f819a0a09e0245b3963_T1.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213760",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213760_137974_447_v150.jpg"
         },
         {
-          "title": "데이터 중심으로 기술 모으는 오라클의 AI 전략 [테크리포트]",
-          "desc": "AI 기술이 연구실을 벗어나 실제 업무에 활용되는 도구가 되기 위해서는 AI 기술과 데이터, 도구 간의... 오라클이 제시하는 엔터프라이즈 AI 도입 전략에도 이러한 관점이 반영됐다. 나정옥 한국오라클 부사장은 기업의...",
-          "src": "조선일보",
+          "title": "“AI 기반 업무 혁신 나선다”…한화생명, M365 코파일럿 도입",
+          "desc": "금융당국의 망분리 규제 개선에 따라 AI 활용에 제약이 사라진 결과다. 한화생명은 전체 임직원 2728명을 대상으로 생성형 AI 솔루션인 ‘M365 코파일럿(Copilot)’을 도입하며 AI 기반 전사적 업무 혁신에 나선다고 13일...",
+          "src": "디지털타임스",
           "date": "08/13",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168031",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168031_450029_5748_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003042239?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/13/news-p.v1.20260813.6883d870d7184831a5b91a8c710f9c1e_R.jpg"
         },
         {
-          "title": "아마존 퀵으로 기사 써봤더니…“질문하는 AI 넘어, 내 업무를 기억하고...",
-          "desc": "AI 활용의 중심이 ‘질문’에서 ‘업무 수행’으로 옮겨가는 구조다. 내 파일을 읽고 업무 맥락을... 영업·기술 조직 100명 이상이 사용 중이다. 일성아이에스는 전사 160명에 Quick을 도입해 학술의학팀에서 3명이 각각...",
-          "src": "venturesquare",
+          "title": "삼성SDS ‘브리티웍스’ 정부 부처 9곳 도입",
+          "desc": "브리티웍스는 삼성SDS의 보안 기술과 국가정보원 최고 보안 수준인 ‘상’등급을 획득한 민관협력형(PPP) 클라우드 환경을 기반으로 운영돼 중앙부처와 공공기관이 안전한 환경에서 생성형 AI를 활용할 수 있도록...",
+          "src": "byline",
           "date": "08/13",
-          "url": "https://www.venturesquare.net/1105554/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/sa-696x522.jpg"
+          "url": "https://byline.network/?p=9004111222615239",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/samsung-sds-brityworks.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
+          "desc": "고부가 부품을 공급하는 협력사에 대한 관심도 높아지고 있다. 스마트폰의 고사양화가 이어지면서... 기판·부품 관련주도 매수세가 이어지고 있다. 삼성전자, 한솔테크닉스, 이녹스첨단소재, 시노펙스 등 스마트폰용...",
+          "src": "핀포인트뉴스",
+          "date": "08/13",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477011",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477011_464001_948_v150.jpg"
+        },
+        {
+          "title": "[특징주] 져스텍, 삼성 '인간·로봇 상호작용' 핵심기술 낙점…협력사·...",
+          "desc": "특히 져스텍은 삼성전자와 삼성전기를 협력사로 확보하고 있으며 SK하이닉스 핵심 공급사인 이오테크닉스에도 장비를 납품하고 있다. 핵심 부품부터 시스템까지 자체 개발하는 모션솔루션 기술력을 기반으로 반도체...",
+          "src": "financialpost",
+          "date": "08/13",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=270303",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/270303_348377_4845_v150.jpg"
+        },
+        {
+          "title": "연봉 '1억5천' 삼성 DX노조의 성과급 욕심...청년 취업문은 더 좁아진다",
+          "desc": "연관된 부품·공급망의 노동자들과 성과를 공유하려는 노력도 필요하다\"고 말했다. 경기 평택시 삼성전자 평택캠퍼스에 출근하는 직원들 [사진=뉴스핌DB] ◆ \"성과 나눌 권리 있다면 지속가능성도 함께 고민해야...",
+          "src": "뉴스핌",
+          "date": "08/13",
+          "url": "https://www.newspim.com/news/view/20260812001049",
+          "img": "https://img.newspim.com/news/2026/04/30/260430162239803_482_tc.jpg"
+        },
+        {
           "title": "[인사이드 스토리]구마모토보다 빠르게?…호남 반도체 '2029년'의 딜레마",
           "desc": "이 관계자는 \"중국 시안이나 우시의 반도체 생산거점을 보면 공장 주변에 가스와 장비 업체 등 협력사들이... 삼성전자와 SK하이닉스가 용인을 중심으로 생산시설을 순차적으로 늘리는 상황에서 호남까지 동시에...",
           "src": "news",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/648/0000049784?sid=101",
           "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/12/313baff4c7d1ddd8b058a542fbcb6987.png"
-        },
-        {
-          "title": "종이로 바꾸고 복합포장 줄이고⋯ EU 포장 규제에 바빠진 기업들",
-          "desc": "삼성전자는 지난해 갤럭시S25 시리즈 포장재를 100% 재활용 종이 소재로 만들고 플라스틱 완충재도 종이... 포장 소재와 재활용 관련 정보를 협력사와 공유하고 필요한 데이터를 체계적으로 확보·관리하는 데 집중하고...",
-          "src": "브릿지경제",
-          "date": "08/13",
-          "url": "https://www.viva100.com/article/20260812500950",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/12/.cache/512/20260812500917.png?v=20260813080344"
-        },
-        {
-          "title": "[심층분석] \"AI 훈풍에 반도체 밸류체인 솟구쳤다\"…삼성전자·SK하이닉...",
-          "desc": "삼성전자는 전 거래일 대비 6.99% 급등한 25만6250원에 장을 마감했고 SK하이닉스 역시 6.18% 치솟은... AI 인프라 구축 수요가 여전히 견조하다는 사실이 입증되면서 국내 반도체 제조사 및 협력사들의 실적 개선...",
-          "src": "thefairnews",
-          "date": "08/13",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84889",
-          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202608/84889_131060_4846_v150.jpg"
-        },
-        {
-          "title": "[주식마감] '호남 반도체' 소식에 금호건설·금호전기 연속 상한가... 엠...",
-          "desc": "및 협력사 벰로보틱스와 함께 참여할 예정이다. 또한 반도체 공정 물류 핵심 장비인 OHT 사업에서도... SK하이닉스단일종목레버리지, 삼성전자, TIGER SK하이닉스단일종목레버리지, 대원전선, KODEX 코스닥150, TIGER...",
-          "src": "ggilbo",
-          "date": "08/12",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175169",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1175169_1027566_2913.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오늘의 투자전략] 외국인 매도세 둔화…반도체 주도주·수급 몰린 소외...",
-      "url": "https://www.etoday.co.kr/news/view/2613953",
-      "img": "https://img.etoday.co.kr/pto_db/2026/07/20260715075544_2359596_600_400.jpg"
+      "title": "삼성전자·현대차까지…스테이블코인 사업화로 미래 연다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002683413?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/13/news-p.v1.20260812.1257b68b52ef45b6831f3bfbf568affd_T1.jpg"
     },
     {
       "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
     },
     {
-      "title": "신한은행, 오늘부터 군 장병 전용 삼성전자 패밀리몰 연계 서비스 제공",
-      "url": "https://www.public25.com/news/articleView.html?idxno=52598",
-      "img": "https://cdn.public25.com/news/photo/202608/52598_52696_262.jpg"
+      "title": "삼성전자, 인도에 플랙트그룹 HVAC 생산라인 준공",
+      "url": "https://www.datasom.co.kr/news/articleView.html?idxno=209507",
+      "img": "https://cdn.datasom.co.kr/news/thumbnail/202608/209507_38760_1941_v150.jpg"
     },
     {
-      "title": "충돌시험 분석시간 90% 단축…현대차그룹 직원 80% “AI로 생산성 확 늘...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005720345?sid=103",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/13/news-g.v1.20260812.0e3ade8a77534f3f8b75744792d50e30_R.jpg"
+      "title": "강남구, '명의일치율검증시스템 도입'으로 환급 처리기간 5일→2일 단축",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3663712",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3663712_3830966_4427_v150.jpg"
     },
     {
-      "title": "정부 부처 9곳 도입 확정…삼성SDS 브리티웍스, AX 지원 ‘본격화’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002683188?sid=105",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/13/news-p.v1.20260813.76b61591f2a74f819a0a09e0245b3963_T1.jpg"
+      "title": "모티프, 독자 AI 파운데이션 모델 '모티프 3' 오픈소스로 공개",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213760",
+      "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213760_137974_447_v150.jpg"
     }
   ]
 };
