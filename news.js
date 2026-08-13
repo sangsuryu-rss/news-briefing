@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 02:14",
+  "updatedAt": "2026.08.14 (금) 04:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "Suno, ‘Studio 2.0’ 출시…MIDI·AI 챗봇 넣어 DAW급으로 진화",
-          "desc": "가장 큰 변화는 MIDI(악기 연주 정보를 담는 디지털 음악 표준 포맷) 지원과 베타 단계의 AI 채팅바 도입이... Suno의 생성 AI 기술과 전형적인 DAW 기능을 결합한 제품으로, 뮤직테크는 올해 초 이 플랫폼을 리뷰해 10점...",
-          "src": "wikitree",
+          "title": "가장 오래된 미국 은행, AI 활용 선도… 월가 체질 바꾼다",
+          "desc": "선제적 '디지털 직원' 도입과 최고경영자의 AI 활용론 BNY는 인공지능 기술을 경영 전반에 도입하며 월스트리트의 디지털 전환을 이끌고 있다. AI 에이전트 기술이 시장에 본격적으로 보급되기 전인 2025년 초에 이미 100명...",
+          "src": "g-enews",
           "date": "08/14",
-          "url": "https://www.wikitree.co.kr/articles/1152357",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/14/202608140209327315_ai.jpeg"
+          "url": "https://www.g-enews.com/view.php?ud=202608131638528421fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316411504519fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "‘채점 불신’에 좌초한 日 서·논술형 입시… 韓은 AI로 넘을까",
-          "desc": "먼저 AI 기술이 고도화된 점이 다르다. 국가교육위원회는 일선 학교에서 이뤄지는 서·논술형 시험 채점 자료가 모이는 국가 차원의 AI 채점 시스템을 구축할 방침이다. 공교육에서 생성되는 방대한 채점 데이터를 활용해...",
-          "src": "kmib",
+          "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
+          "desc": "브록먼 사장은 이번 CRO 교체와 관련해 \"기술을 도입하는 방식이 빠르게 변화하고 있다\"며 \"달리는 AI가 사람과 기업에 폭넓게 유용하게 활용될 수 있도록 우리가 쌓아온 경험을 반복되는 실행력으로 전환할 것\"이라고...",
+          "src": "biz",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/005/0001866833?sid=102",
-          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502409.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000527417?sid=101",
+          "img": "https:"
         },
         {
-          "title": "해저 묻고 우주로 쏘고… AI 도약, 물·전력 절감 기술에 달렸다",
-          "desc": "크레딧’을 도입했다. 해당 기업은 기존처럼 수돗물값만 내고, 더 비싼 재이용수와의 가격 차이는 TSMC가... 강원 동해에 2.4GW급 AI 데이터센터 사업자 GS그룹은 액침냉각을 활용할 계획이다. 냉각기술을 담당하는...",
-          "src": "kmib",
+          "title": "인공지능, 화석연료 채굴 활용 확대… 데이터센터 배출량의 13배 급증",
+          "desc": "정유사와 가스 도입사가 채굴·정제용 AI를 도입해 생산량을 늘릴 경우, 기술을 제공한 테크 기업과 사용자... 다만 한국 기업들이 AI를 메탄 누출 탐지나 설비 효율화 같은 친환경 용도로 집중 활용할 경우 기후 리스크...",
+          "src": "g-enews",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/005/0001866832?sid=102",
-          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502287.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608131617572898fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316202503817fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "[미국 특징주] 오픈AI, 1년도 안 돼 최고매출책임자(CRO) 또 교체",
-          "desc": "이어 \"이 기술을 활용하는 방식이 빠르게 변화하고 있는 만큼, 달리는 우리가 그동안 배운 것들을 반복 가능한 실행 체계로 전환해 AI를 개인과 기업 모두에게 폭넓게 유용한 존재로 만드는 전체 시스템을...",
-          "src": "뉴스핌",
+          "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
+          "desc": "브록먼 사장은 이번 CRO 교체와 관련해 \"기술을 도입하는 방식이 빠르게 변화하고 있다\"며 \"달리는 AI가 사람과 기업에 폭넓게 유용하게 활용될 수 있도록 우리가 쌓아온 경험을 반복되는 실행력으로 전환할 것\"이라고...",
+          "src": "연합뉴스",
           "date": "08/14",
-          "url": "https://www.newspim.com/news/view/20260814000015",
-          "img": "https://img.newspim.com/news/2026/08/14/2608140203320790_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016250910?sid=104",
+          "img": "https://img9.yna.co.kr/photo/reuters/2026/08/08/PRU20260808083501009_P4.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "Suno, ‘Studio 2.0’ 출시…MIDI·AI 챗봇 넣어 DAW급으로 진화",
-      "url": "https://www.wikitree.co.kr/articles/1152357",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/14/202608140209327315_ai.jpeg"
+      "title": "가장 오래된 미국 은행, AI 활용 선도… 월가 체질 바꾼다",
+      "url": "https://www.g-enews.com/view.php?ud=202608131638528421fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316411504519fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "‘채점 불신’에 좌초한 日 서·논술형 입시… 韓은 AI로 넘을까",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866833?sid=102",
-      "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502409.jpg"
+      "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527417?sid=101",
+      "img": "https:"
     }
   ]
 };
