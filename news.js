@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 18:34",
+  "updatedAt": "2026.08.13 (목) 20:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“LG 칠러·삼성 M&A”…60조 규모 냉각시장서 ‘정면 승부’",
-          "desc": "선두를 달리던 LG전자에 맞서 삼성전자가 인도에 대형 공조 생산라인을 준공하며 본격적인 추격전에... 기존 가전 시장의 성장이 정체되면서 전자업계는 데이터센터 냉각 솔루션을 차세대 핵심 카드로 낙점한 상황....",
-          "src": "서울경제TV",
+          "title": "성과금 갈등 2라운드…삼성전자 DX·SK하이닉스 노조 동시에 움직이나",
+          "desc": "또 \"경쟁 가전 업체들이 흑자를 기록하는 상황이지만 삼성전자는 유사한 매출에도 가전 사업부가 흔들리고 있다\"며 \"일부 사업에서도 판매가 늘수록 수익성이 악화된다는 우려가 있지만 구성원들과 충분히 소통하지...",
+          "src": "econovill",
           "date": "08/13",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608130088",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/13/sentv20260813000199.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747963",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/747963_722545_1330_v150.jpg"
         },
         {
           "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "삼성전자, AI 데이터센터 냉각시장 정조준…가전 넘어 공조 육성[종합]",
-          "desc": "삼성전자 내부에서도 공조 사업의 위상이 달라지고 있다. 현재 공조 사업은 디바이스경험(DX)부문 DA사업부가 담당한다. DA사업부는 냉장고와 세탁기, 청소기, 전기레인지 등 소비자용 가전을 주력으로 해온 조직이지만...",
-          "src": "아이뉴스24",
+          "title": "삼성, 광주 AI데이터센터 냉난방공조기 투자 본격화",
+          "desc": "신공장은 광주 첨단과학국가산업단지 내 삼성전자 그린시티 3캠퍼스 오룡동 1119번지 일대에 들어선다. 삼성은 현재 광주 내 그린1·2·3 캠퍼스에서 에어컨·냉장고·세탁기 등을 생산하고 있으며, 이번 신공장은 3캠퍼스...",
+          "src": "namdonews",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/031/0001049600?sid=101",
-          "img": "https://image.inews24.com/v1/c775f51b5df99c.jpg"
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=920059",
+          "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] 임문영 의원 \"소버린 AI 본질은 대안 확보…오픈소스 생태계 ...",
-          "desc": "소프트웨어 개발 가치를 단순 투입 시간으로 재단하거나, AI를 활용했다는 이유로 단가를 깎으려는 비합리적인 관행은 개발자를 단순 기능인으로 격하하는 시각에서 비롯된다. 공공 부문부터 특정 기업 기술에 종속되지...",
-          "src": "IT데일리",
+          "title": "배민 장애·트래픽 대응법, 책으로… 우아한형제들, 개발 노하우 공개",
+          "desc": "기술을 활용해 실제 사업 성과를 높인 사례와 AI를 개발 업무에 적용한 과정도 담았다. 기술 선택을 사업... 개발 과정에서 어떤 기술을 도입했는지보다 해당 선택이 비용과 안정성, 업무 속도에 어떤 변화를 가져왔는지를...",
+          "src": "biztribune",
           "date": "08/13",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240992",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240992_246522_3945_v150.jpg"
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357386",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357386_262519_3910_v150.jpg"
         },
         {
-          "title": "충남개발공사, 'AI 대전환' 실무 대응 속도…활용·보안 역량 강화",
-          "desc": "정책과 기술 변화를 이해하고 실제 업무에 활용할 수 있도록 실무협의회에 전문가 특강을 연계했다. 이날 특강에서는 생성형 AI가 공공부문의 업무 방식에 미칠 변화와 분야별 활용 가능성을 살폈다. AI 도입 과정에서...",
-          "src": "아주경제",
+          "title": "[위클리오늘] 부산 구정 소식 (8.13)",
+          "desc": "'인생 디자인 학교'에서는 인문·문화예술·디지털·건강·생활기술 분야 11개 강좌를, '평생학습센터 강좌'에서는 11개 학습공간에서 미디어 크리에이터, DIY 목공, 생활밀착형 AI 활용, 가야금, 어반스케치 등 11개 강좌를...",
+          "src": "weeklytoday",
           "date": "08/13",
-          "url": "https://www.ajunews.com/view/20260813182707283",
-          "img": "https://image.ajunews.com/content/image/2026/08/13/20260813183023492200.jpg"
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790314",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/790314_974547_2144_v150.jpg"
         },
         {
-          "title": "부산대 양산캠퍼스 AX연구캠퍼스 연계 첨단산업 전략 주문",
-          "desc": "네이버클라우드의 AI혁신 생태계 조성을 위한 업무협약과 부산대의 양산캠퍼스 산업AX연구캠퍼스 조성... 냉각기술과 재이용수 등을 활용한 저용수 냉각체계 도입을 검토해야 한다고 제안했다. 또한 관련 절차를...",
-          "src": "ulsanpress",
+          "title": "쏘카, 하반기 전기차에 승부수… \"테슬라 모델 Y 800대 추가\"",
+          "desc": "2024년 LG전자와 업무협약을 맺고 제주를 중심으로 인공지능(AI) 기반 스마트 충전 스테이션 구축을 추진해 왔다. 올해 1월에는 규제샌드박스 실증특례를 활용해 국내 최초로 렌터카 서비스에 V2G(Vehicle to Grid) 기술을...",
+          "src": "digitalchosun",
           "date": "08/13",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580990",
-          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/580990_278122_2954_v150.jpg"
+          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/08/13/2026081380172.html",
+          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/08/13/2026081380167_0.jpg"
         },
         {
-          "title": "\"업무망 분리된 정부부처에도\"…네이버클라우드, 공공 AX 시장 공략",
-          "desc": "정수환 네이버클라우드 기술지원 총괄은 \"네이버웍스는 글로벌 630만명이 선택해 사용하는 서비스\"라며 \"메일 주소록 서비스에서 시작해 AI 협업 툴로 진화해온 경험을 활용해 AI 업무 혁신의 선두에 설 수 있도록...",
-          "src": "머니투데이",
+          "title": "[산업 HOT 뉴스] AI가 자동차 전시장 '손님 유형'까지 분석…딥핑소스 개...",
+          "desc": "데이터 활용이라는 두 마리 토끼를 모두 잡았다는 평가다. 기술 도입에 따른 현장의 가장 큰 변화는 '영업 본업으로의 집중'이다. 반복적이고 단순한 집계 업무를 AI가 맡으면서 현장 영업 및 안내 직원들은 수기 기록...",
+          "src": "bizwnews",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/008/0005399953?sid=105",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081314422952153_1.jpg"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=143293",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143293_160156_1812_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“LG 칠러·삼성 M&A”…60조 규모 냉각시장서 ‘정면 승부’",
-      "url": "https://www.sentv.co.kr/article/view/sentv202608130088",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/13/sentv20260813000199.jpg"
+      "title": "성과금 갈등 2라운드…삼성전자 DX·SK하이닉스 노조 동시에 움직이나",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=747963",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/747963_722545_1330_v150.jpg"
     },
     {
       "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "삼성전자, AI 데이터센터 냉각시장 정조준…가전 넘어 공조 육성[종합]",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049600?sid=101",
-      "img": "https://image.inews24.com/v1/c775f51b5df99c.jpg"
+      "title": "삼성, 광주 AI데이터센터 냉난방공조기 투자 본격화",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=920059",
+      "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "[인터뷰] 임문영 의원 \"소버린 AI 본질은 대안 확보…오픈소스 생태계 ...",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240992",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240992_246522_3945_v150.jpg"
+      "title": "배민 장애·트래픽 대응법, 책으로… 우아한형제들, 개발 노하우 공개",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357386",
+      "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357386_262519_3910_v150.jpg"
     },
     {
-      "title": "충남개발공사, 'AI 대전환' 실무 대응 속도…활용·보안 역량 강화",
-      "url": "https://www.ajunews.com/view/20260813182707283",
-      "img": "https://image.ajunews.com/content/image/2026/08/13/20260813183023492200.jpg"
+      "title": "[위클리오늘] 부산 구정 소식 (8.13)",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790314",
+      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/790314_974547_2144_v150.jpg"
     }
   ]
 };
