@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 22:50",
+  "updatedAt": "2026.08.14 (금) 00:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'N% 성과급'에 결국 탄생한 SK하이닉스 4번째 노조…삼성전자 '5노조 난...",
-          "desc": "앞서 노조가 5개로 쪼개진 삼성전자에 이어 반도체 양대 기업의 노사 관계가 나란히 복잡해지는 모양새다.... (모바일·가전) 부문은 600만원 상당의 자사주를 받는 것으로 알려지며 부문 간 격차에 대한 불만이 터져...",
-          "src": "joongangenews",
+          "title": "반도체 미래·삼성 성과급 갈등...권오현 전 삼성 회장의 '소신발언'",
+          "desc": "공공뉴스=이화종 기자 삼성전자 반도체 신화를 이끌었던 권오현 전 삼성전자 회장(현 오렌지플래닛 이사장)... 특히 B2C 성격의 세트(가전·모바일) 사업과 B2B 중심의 부품(반도체) 사업이 한 울타리 안에 거대화되면서...",
+          "src": "00news",
           "date": "08/13",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=540057",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/540057_345851_524.png"
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=105868",
+          "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105868_242716_5012_v150.jpg"
         },
         {
           "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "“디테일에 달렸다”… 산업계, ‘한국판 IRA’ 세부 시행령 촉각",
+          "desc": "핵심소재, AI 로봇부품 등이다. 업계는 ‘한국판 인플레이션감축법(IRA)’ 도입 추진을 환영하면서도... 생산 세액공제와 함께 국내 시장에 우선 활용될 수 있는 연계 규정이나 인센티브가 마련돼야 한다는 요구도 있다....",
+          "src": "kmib",
+          "date": "08/14",
+          "url": "https://n.news.naver.com/mnews/article/005/0001866806?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502434.png"
+        },
+        {
+          "title": "\"강원 의료 AX 심장부 도약\" AI 혁신모델 구축 본격화",
+          "desc": "AI를 도입, 의료AX의 심장부로 도약시키기 위한 국가 차원의 프로젝트가 본격화됐다. 도시가 실증하고, 패스트트랙으로 산업화하는 의료AI 혁신모델이 강원에 구축된다. 송기헌 국회 과학기술정보방송통신위원장과...",
+          "src": "kado",
+          "date": "08/14",
+          "url": "https://n.news.naver.com/mnews/article/654/0000195208?sid=100",
+          "img": "https://cdn.kado.net/news/photo/202608/2066630_874862_3113.jpg"
+        },
+        {
+          "title": "딥핑소스, 자동차 전시장 AI 영상분석에 고객 유형 분류 기능 추가",
+          "desc": "집계를 AI 기반 분석으로 전환해 현장에 도입했다. 영상 데이터는 자체 원천 익명화 기술로 개인정보를 제거한 뒤 분석에 활용된다. 얼굴 인식이나 개인 식별 과정 없이 고객 수와 유형, 동선, 체류 시간 등 매장 운영에...",
+          "src": "고코리아",
+          "date": "08/13",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=874972",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/874972_152135_4728_v150.jpg"
+        },
+        {
           "title": "취업률 75% 국립창원대 남해캠퍼스, 6개 학과 306명 선발",
           "desc": "체제에서 활용할 가능성이 커진 셈이다. ■ 전국 첫 '2·4 다층학사제', 두 갈래 진로 열다 2027학년도... 항공정비과와 방산기계AI과를 중심으로 항공·조선·방위산업의 설계와 제작, 정비, 인공지능 기술을 교육한다....",
           "src": "gnmaeil",
           "date": "08/13",
           "url": "http://www.gnmaeil.com/news/articleView.html?idxno=592754",
           "img": "http://www.gnmaeil.com/news/thumbnail/202608/592754_595180_2138_v150.jpg"
-        },
-        {
-          "title": "신한투자증권, 초기 투자비용 낮춘 'Light 상품' 출시 한 달 만에 시장 ...",
-          "desc": "앱에 도입한 'Light 상품'이 출시 한 달 만에 시장에 성공적으로 안착했다. Light 상품은 고객의 초기 투자비용... 토스증권 관계자는 \"이번 오픈API 정식 출시로 개발, 코딩 지식이 없는 일반 투자자도 AI를 활용해 손쉽게...",
-          "src": "rcast",
-          "date": "08/13",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31463",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31463_60900_1551_v150.jpg"
-        },
-        {
-          "title": "메타, 페북·인스타 '한국 유명인' 사칭광고 24만건 없앴다",
-          "desc": "메타는 얼굴 인식 기술을 활용한 사칭 광고 및 계정 차단 서비스도 한국에 도입했다. 유명인이 얼굴 인식... AI를 활용한 광고 사업도 확대한다. 메타는 대규모언어모델(LLM)을 활용해 이용자에게 노출할 광고를 예측하고...",
-          "src": "이데일리",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/018/0006351427?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081301936.jpg"
-        },
-        {
-          "title": "성동구, 노후 전통시장에 인공지능(AI) 기반 화재 안전망 도입...첨단 기...",
-          "desc": "첨단 기술을 더한 화재감시 시스템 도입을 추진하게 됐다. 새롭게 도입하는 '인공지능(AI) 화재 감시 시스템... 인공지능(AI)이 분석해 화재 상황을 감지하는 방식이다. 기존 폐쇄회로(CC) TV 인프라를 그대로 활용할 수 있어...",
-          "src": "cnbizm",
-          "date": "08/13",
-          "url": "https://www.cnbizm.com/news/articleView.html?idxno=311536",
-          "img": "https://cdn.cnbizm.com/news/photo/202608/311536_216721_3523.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
         },
         {
           "title": "[데스크라인]함께 가야 멀리 가죠",
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
         },
         {
           "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'N% 성과급'에 결국 탄생한 SK하이닉스 4번째 노조…삼성전자 '5노조 난...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=540057",
-      "img": "https://cdn.joongangenews.com/news/photo/202608/540057_345851_524.png"
+      "title": "반도체 미래·삼성 성과급 갈등...권오현 전 삼성 회장의 '소신발언'",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105868",
+      "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105868_242716_5012_v150.jpg"
     },
     {
       "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "취업률 75% 국립창원대 남해캠퍼스, 6개 학과 306명 선발",
-      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=592754",
-      "img": "http://www.gnmaeil.com/news/thumbnail/202608/592754_595180_2138_v150.jpg"
+      "title": "“디테일에 달렸다”… 산업계, ‘한국판 IRA’ 세부 시행령 촉각",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866806?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0814/01100201.20260813502434.png"
     },
     {
-      "title": "신한투자증권, 초기 투자비용 낮춘 'Light 상품' 출시 한 달 만에 시장 ...",
-      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31463",
-      "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31463_60900_1551_v150.jpg"
+      "title": "\"강원 의료 AX 심장부 도약\" AI 혁신모델 구축 본격화",
+      "url": "https://n.news.naver.com/mnews/article/654/0000195208?sid=100",
+      "img": "https://cdn.kado.net/news/photo/202608/2066630_874862_3113.jpg"
     }
   ]
 };
