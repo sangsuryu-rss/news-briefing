@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 20:12",
+  "updatedAt": "2026.08.13 (목) 22:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "성과금 갈등 2라운드…삼성전자 DX·SK하이닉스 노조 동시에 움직이나",
-          "desc": "또 \"경쟁 가전 업체들이 흑자를 기록하는 상황이지만 삼성전자는 유사한 매출에도 가전 사업부가 흔들리고 있다\"며 \"일부 사업에서도 판매가 늘수록 수익성이 악화된다는 우려가 있지만 구성원들과 충분히 소통하지...",
-          "src": "econovill",
+          "title": "'N% 성과급'에 결국 탄생한 SK하이닉스 4번째 노조…삼성전자 '5노조 난...",
+          "desc": "앞서 노조가 5개로 쪼개진 삼성전자에 이어 반도체 양대 기업의 노사 관계가 나란히 복잡해지는 모양새다.... (모바일·가전) 부문은 600만원 상당의 자사주를 받는 것으로 알려지며 부문 간 격차에 대한 불만이 터져...",
+          "src": "joongangenews",
           "date": "08/13",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747963",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/747963_722545_1330_v150.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=540057",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/540057_345851_524.png"
         },
         {
           "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "배민 장애·트래픽 대응법, 책으로… 우아한형제들, 개발 노하우 공개",
-          "desc": "기술을 활용해 실제 사업 성과를 높인 사례와 AI를 개발 업무에 적용한 과정도 담았다. 기술 선택을 사업... 개발 과정에서 어떤 기술을 도입했는지보다 해당 선택이 비용과 안정성, 업무 속도에 어떤 변화를 가져왔는지를...",
-          "src": "biztribune",
+          "title": "취업률 75% 국립창원대 남해캠퍼스, 6개 학과 306명 선발",
+          "desc": "체제에서 활용할 가능성이 커진 셈이다. ■ 전국 첫 '2·4 다층학사제', 두 갈래 진로 열다 2027학년도... 항공정비과와 방산기계AI과를 중심으로 항공·조선·방위산업의 설계와 제작, 정비, 인공지능 기술을 교육한다....",
+          "src": "gnmaeil",
           "date": "08/13",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357386",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357386_262519_3910_v150.jpg"
+          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=592754",
+          "img": "http://www.gnmaeil.com/news/thumbnail/202608/592754_595180_2138_v150.jpg"
         },
         {
-          "title": "[위클리오늘] 부산 구정 소식 (8.13)",
-          "desc": "'인생 디자인 학교'에서는 인문·문화예술·디지털·건강·생활기술 분야 11개 강좌를, '평생학습센터 강좌'에서는 11개 학습공간에서 미디어 크리에이터, DIY 목공, 생활밀착형 AI 활용, 가야금, 어반스케치 등 11개 강좌를...",
-          "src": "weeklytoday",
+          "title": "신한투자증권, 초기 투자비용 낮춘 'Light 상품' 출시 한 달 만에 시장 ...",
+          "desc": "앱에 도입한 'Light 상품'이 출시 한 달 만에 시장에 성공적으로 안착했다. Light 상품은 고객의 초기 투자비용... 토스증권 관계자는 \"이번 오픈API 정식 출시로 개발, 코딩 지식이 없는 일반 투자자도 AI를 활용해 손쉽게...",
+          "src": "rcast",
           "date": "08/13",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790314",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/790314_974547_2144_v150.jpg"
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31463",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31463_60900_1551_v150.jpg"
         },
         {
-          "title": "쏘카, 하반기 전기차에 승부수… \"테슬라 모델 Y 800대 추가\"",
-          "desc": "2024년 LG전자와 업무협약을 맺고 제주를 중심으로 인공지능(AI) 기반 스마트 충전 스테이션 구축을 추진해 왔다. 올해 1월에는 규제샌드박스 실증특례를 활용해 국내 최초로 렌터카 서비스에 V2G(Vehicle to Grid) 기술을...",
-          "src": "digitalchosun",
+          "title": "메타, 페북·인스타 '한국 유명인' 사칭광고 24만건 없앴다",
+          "desc": "메타는 얼굴 인식 기술을 활용한 사칭 광고 및 계정 차단 서비스도 한국에 도입했다. 유명인이 얼굴 인식... AI를 활용한 광고 사업도 확대한다. 메타는 대규모언어모델(LLM)을 활용해 이용자에게 노출할 광고를 예측하고...",
+          "src": "이데일리",
           "date": "08/13",
-          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/08/13/2026081380172.html",
-          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/08/13/2026081380167_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006351427?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081301936.jpg"
         },
         {
-          "title": "[산업 HOT 뉴스] AI가 자동차 전시장 '손님 유형'까지 분석…딥핑소스 개...",
-          "desc": "데이터 활용이라는 두 마리 토끼를 모두 잡았다는 평가다. 기술 도입에 따른 현장의 가장 큰 변화는 '영업 본업으로의 집중'이다. 반복적이고 단순한 집계 업무를 AI가 맡으면서 현장 영업 및 안내 직원들은 수기 기록...",
-          "src": "bizwnews",
+          "title": "성동구, 노후 전통시장에 인공지능(AI) 기반 화재 안전망 도입...첨단 기...",
+          "desc": "첨단 기술을 더한 화재감시 시스템 도입을 추진하게 됐다. 새롭게 도입하는 '인공지능(AI) 화재 감시 시스템... 인공지능(AI)이 분석해 화재 상황을 감지하는 방식이다. 기존 폐쇄회로(CC) TV 인프라를 그대로 활용할 수 있어...",
+          "src": "cnbizm",
           "date": "08/13",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=143293",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143293_160156_1812_v150.jpg"
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=311536",
+          "img": "https://cdn.cnbizm.com/news/photo/202608/311536_216721_3523.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+          "img": ""
         },
         {
           "title": "[데스크라인]함께 가야 멀리 가죠",
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
+          "img": ""
         },
         {
           "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "성과금 갈등 2라운드…삼성전자 DX·SK하이닉스 노조 동시에 움직이나",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=747963",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/747963_722545_1330_v150.jpg"
+      "title": "'N% 성과급'에 결국 탄생한 SK하이닉스 4번째 노조…삼성전자 '5노조 난...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=540057",
+      "img": "https://cdn.joongangenews.com/news/photo/202608/540057_345851_524.png"
     },
     {
       "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "배민 장애·트래픽 대응법, 책으로… 우아한형제들, 개발 노하우 공개",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357386",
-      "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357386_262519_3910_v150.jpg"
+      "title": "취업률 75% 국립창원대 남해캠퍼스, 6개 학과 306명 선발",
+      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=592754",
+      "img": "http://www.gnmaeil.com/news/thumbnail/202608/592754_595180_2138_v150.jpg"
     },
     {
-      "title": "[위클리오늘] 부산 구정 소식 (8.13)",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790314",
-      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/790314_974547_2144_v150.jpg"
+      "title": "신한투자증권, 초기 투자비용 낮춘 'Light 상품' 출시 한 달 만에 시장 ...",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31463",
+      "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31463_60900_1551_v150.jpg"
     }
   ]
 };
