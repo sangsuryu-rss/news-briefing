@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 04:27",
+  "updatedAt": "2026.08.14 (금) 06:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 미래·삼성 성과급 갈등...권오현 전 삼성 회장의 '소신발언'",
-          "desc": "공공뉴스=이화종 기자 삼성전자 반도체 신화를 이끌었던 권오현 전 삼성전자 회장(현 오렌지플래닛 이사장)... 특히 B2C 성격의 세트(가전·모바일) 사업과 B2B 중심의 부품(반도체) 사업이 한 울타리 안에 거대화되면서...",
-          "src": "00news",
-          "date": "08/13",
-          "url": "http://www.00news.co.kr/news/articleView.html?idxno=105868",
-          "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105868_242716_5012_v150.jpg"
+          "title": "“피부 MBTI로 질병 예측”…뉴요커 홀린 ‘7초 얼굴스캔’ 마법 [비크닉...",
+          "desc": "코넬대 생명공학과와 하버드 의과대학 연구소를 거친 그는 2014년 삼성전자에 입사했다. 사람들이 늘... 삼성 소속으로 2017년 미국 소비자 가전 전시회(CES)에 출품할 때는 “프로토타입(시험품)을 보러 와 달라”는 메일...",
+          "src": "중앙일보",
+          "date": "08/14",
+          "url": "https://n.news.naver.com/mnews/article/025/0003544382?sid=101",
+          "img": ""
         },
         {
           "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "가장 오래된 미국 은행, AI 활용 선도… 월가 체질 바꾼다",
-          "desc": "선제적 '디지털 직원' 도입과 최고경영자의 AI 활용론 BNY는 인공지능 기술을 경영 전반에 도입하며 월스트리트의 디지털 전환을 이끌고 있다. AI 에이전트 기술이 시장에 본격적으로 보급되기 전인 2025년 초에 이미 100명...",
-          "src": "g-enews",
+          "title": "교사들 \"서·논술형가 '공정성' 중요\"…과대평가 우려도",
+          "desc": "문항을 도입하고 내신 서·논술형 평가 문항을 확대하는 방안을 추진하겠다고 밝혔다. 수능 전 과목과 고교... 국교위는 서·논술형 평가의 채점 공정성과 신뢰성 확보 방안으로 AI 기술 활용 가능성을 강조하고 있다....",
+          "src": "뉴시스",
           "date": "08/14",
-          "url": "https://www.g-enews.com/view.php?ud=202608131638528421fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316411504519fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014126997?sid=102",
+          "img": "https://img1.newsis.com/2026/08/13/NISI20260813_0021398400_web.jpg"
         },
         {
-          "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
-          "desc": "브록먼 사장은 이번 CRO 교체와 관련해 \"기술을 도입하는 방식이 빠르게 변화하고 있다\"며 \"달리는 AI가 사람과 기업에 폭넓게 유용하게 활용될 수 있도록 우리가 쌓아온 경험을 반복되는 실행력으로 전환할 것\"이라고...",
-          "src": "biz",
+          "title": "(대전환 뉴딜)⑦국가의 일, 시민의 일",
+          "desc": "이 셋을 AI와 웹3 등 디지털 기술로 한 차원 끌어올리는 게 스마트 민주주의다. 머릿수로 합산하는... 미국이나 프랑스처럼 Top3 결선투표가 도입되면 국회의원 선거에도 적용해 볼 수 있다. 최대 다수가 신뢰하고 승복하는...",
+          "src": "newstomato",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/374/0000527417?sid=101",
-          "img": "https:"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1310200&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/8/14/1310200/attach.jpg?v=202608131523"
         },
         {
-          "title": "인공지능, 화석연료 채굴 활용 확대… 데이터센터 배출량의 13배 급증",
-          "desc": "정유사와 가스 도입사가 채굴·정제용 AI를 도입해 생산량을 늘릴 경우, 기술을 제공한 테크 기업과 사용자... 다만 한국 기업들이 AI를 메탄 누출 탐지나 설비 효율화 같은 친환경 용도로 집중 활용할 경우 기후 리스크...",
-          "src": "g-enews",
+          "title": "[34] 면역항암치료의 혁신, 면역관문억제제②",
+          "desc": "최근 면역관문억제제의 가장 큰 변화는 암종 불문(tumor-agnostic) 치료​의 도입이다. 과거에는 암이... 인공지능(AI)을 활용한 정밀 면역항암치료가 내성 극복의 핵심 전략이 될 것으로 기대된다. 결국...",
+          "src": "dailypharm",
           "date": "08/14",
-          "url": "https://www.g-enews.com/view.php?ud=202608131617572898fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316202503817fbbec65dfb211211153121.jpg"
+          "url": "https://www.dailypharm.com/user/news/341452?REFERER=NP",
+          "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/13/fe291224-7b96-48a1-a105-5a8d86176f7b.jpg"
         },
         {
-          "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
-          "desc": "브록먼 사장은 이번 CRO 교체와 관련해 \"기술을 도입하는 방식이 빠르게 변화하고 있다\"며 \"달리는 AI가 사람과 기업에 폭넓게 유용하게 활용될 수 있도록 우리가 쌓아온 경험을 반복되는 실행력으로 전환할 것\"이라고...",
-          "src": "연합뉴스",
+          "title": "LG, 새 먹거리 바이오 사업 성과 가시화",
+          "desc": "개발경험을 활용해 여러 중국회사의 유망 항암신약 후보물질을 공동으로 탐색, 발굴 평가한다. 우수 후보물질에 대한 라이선스(면허생산) 도입 기회를 확보한다는 계획이다. LG AI연구원과 LG CNS는 AI와 디지털 기술을...",
+          "src": "segye",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/001/0016250910?sid=104",
-          "img": "https://img9.yna.co.kr/photo/reuters/2026/08/08/PRU20260808083501009_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004150880?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/13/20260813523299.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+          "img": ""
         },
         {
           "title": "[데스크라인]함께 가야 멀리 가죠",
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
+          "img": ""
         },
         {
           "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
@@ -177,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 미래·삼성 성과급 갈등...권오현 전 삼성 회장의 '소신발언'",
-      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105868",
-      "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105868_242716_5012_v150.jpg"
-    },
-    {
       "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
       "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
       "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
     },
     {
-      "title": "가장 오래된 미국 은행, AI 활용 선도… 월가 체질 바꾼다",
-      "url": "https://www.g-enews.com/view.php?ud=202608131638528421fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081316411504519fbbec65dfb211211153121.jpg"
+      "title": "교사들 \"서·논술형가 '공정성' 중요\"…과대평가 우려도",
+      "url": "https://n.news.naver.com/mnews/article/003/0014126997?sid=102",
+      "img": "https://img1.newsis.com/2026/08/13/NISI20260813_0021398400_web.jpg"
     },
     {
-      "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527417?sid=101",
-      "img": "https:"
+      "title": "(대전환 뉴딜)⑦국가의 일, 시민의 일",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1310200&inflow=N",
+      "img": "https://image.newstomato.com/newsimg/2026/8/14/1310200/attach.jpg?v=202608131523"
+    },
+    {
+      "title": "[34] 면역항암치료의 혁신, 면역관문억제제②",
+      "url": "https://www.dailypharm.com/user/news/341452?REFERER=NP",
+      "img": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/08/13/fe291224-7b96-48a1-a105-5a8d86176f7b.jpg"
     }
   ]
 };
