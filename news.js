@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 14:50",
+  "updatedAt": "2026.08.13 (목) 16:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 인도에 플랙트그룹 신규 냉난방공조 생산라인 준공",
-          "desc": "유럽·미주·중동·아시아에 이르는 판매·서비스 네트워크를 갖췄다. 삼성전자는 플랙트그룹의 기술력과 글로벌 네트워크를 활용해 기존 가전용 공조에서 산업용·B2B 영역으로 사업 포트폴리오를 확대하고 있다.",
-          "src": "동아일보",
+          "title": "삼성전자, 인도에 HVAC 생산라인 준공…아태 AI 데이터센터 시장 강화",
+          "desc": "삼성전자는 반도체 영역을 넘어 냉각 및 공조 시스템 영역까지 B2B 사업 포트폴리오를 확장하고 있다. 가전 사업부는 경기 변동성이 높은 B2C 시장의 한계를 극복하기 위해 높은 수익성과 장기 계약을 특징으로 하는 B2B...",
+          "src": "dailypop",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/020/0003740650?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134472233.2.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101550",
+          "img": "http://www.dailypop.kr/news/thumbnail/202608/101550_168745_2832_v150.jpg"
         },
         {
           "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         },
         {
-          "title": "\"삼성환급 온누리로 신혼준비\"…'8천억 보너스' 풀리자 온라인상권 '술...",
-          "desc": "삼성전자 가전 사고 환급금액이 꽤 컸는데 까OOO에서 온누리상품권으로 가구 구매 가능하다고 해서 환급받은 것으로 사려고 한다\"고 썼습니다. 삼성전자가 진행한 대규모 환급행사 여파로 최근 온라인커뮤니티 등에...",
-          "src": "nocutnews",
+          "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
+          "desc": "과거 '가전'이라고 하면 냉장고·세탁기 등 백색가전과 TV 등 영상가전이 전부였다. 하지만 탄소중립과 ESG... 삼성전자는 제주 단독주택 등에서 한국형 공동주택에 최적화된 히트펌프 시스템 실증을 확대하고 있다....",
+          "src": "전자신문",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/079/0004178465?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/13/202608131354378519_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
+          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "BHSN, 한애드온즈에 계약 AI 앨리비 공급…한글서 계약서 검토 지원",
-          "desc": "(RAG) 기술로 답변의 근거를 실제 문서에서 찾아 제시함으로써 범용 LLM에서 발생할 수 있는 환각(할루시네이션) 가능성을 낮췄다. 또한 고객이 업로드한 계약 문서는 AI 학습에 활용하지 않아 민감한 기업 정보도...",
-          "src": "hellot",
+          "title": "성남시, 미래 먹거리 '3D 식품프린팅' 선점 나섰다",
+          "desc": "개발에도 활용할 수 있다. 성남시는 지역이 보유한 첨단산업 기반을 연구지원센터 유치의 강점으로 내세우고 있다. 판교테크노밸리에는 AI와 ICT, 소프트웨어, 바이오 분야의 기업과 연구기관이 밀집해 있다. 이들 기술은...",
+          "src": "pointdaily",
           "date": "08/13",
-          "url": "https://www.hellot.net/news/article.html?no=114336",
-          "img": "https://www.hellot.net/data/photos/20260833/art_17865999103345_6008a8.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315475",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315475_311430_5141_v150.jpg"
         },
         {
-          "title": "청년의 아이디어로 골목상권 살린다···대구 수성구, '실전형 로컬크...",
-          "desc": "특히 최근 산업계 전반의 화두인 인공지능(AI) 기술 활용법을 기획 단계부터 교육 내용에 전격 도입해 교육의 질과 트렌드 감각을 한 단계 끌어올렸다. 이번 프로젝트의 가장 큰 차별점은 강의실 안에서의 배움이 아닌 '진짜...",
-          "src": "newsprime",
+          "title": "한화생명, 전 임직원에 'M365 코파일럿' 도입…AI 업무 혁신 본격화",
+          "desc": "도입에 앞서 임직원의 AI 활용 역량을 높이는 교육도 진행했다. 상시 온라인 교육과 함께 실시간 온... 이 가운데 비개발 직군이 190명으로 정보기술(IT) 개발 직군 95명의 두 배에 달했다. 우수 참가자를 중심으로...",
+          "src": "press9",
           "date": "08/13",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=743797",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743797_1786598257.jpg"
+          "url": "http://www.press9.kr/news/articleView.html?idxno=81081",
+          "img": "http://www.press9.kr/news/thumbnail/202608/81081_93526_4154_v150.jpg"
         },
         {
-          "title": "AI로 생산성 높였더니...석유·가스 더 뽑아 온실가스 증가",
-          "desc": "재생에너지와 화석연료 시설이 비슷한 수준으로 AI를 도입한다고 가정하면, 탄소배출량이 늘지 않기... 탐사 기술과 AI를 활용해 노르웨이 대륙붕에서 신규 시추 부자를 27곳 발견했다고 설명했다. 국제에너지기구(IEA)...",
-          "src": "newstree",
+          "title": "정부, 반도체 호황 발판 삼아 '7대 SEED 프로젝트' 추진…SMR·양자·바이...",
+          "desc": "기회를 활용해 AI 시대 이후의 성장동력을 미리 준비해야 한다는 취지를 밝혔다. 반도체·피지컬AI... 새롭게 도입한다. 범정부 추진 체계로는 부총리 중심의 민관 합동 '미래개척추진단'을 구성해 과학기술관계장...",
+          "src": "dailypop",
           "date": "08/13",
-          "url": "https://www.newstree.kr/newsView/ntr202608130014",
-          "img": "https://www.newstree.kr/data/ntr/image/2026/08/13/ntr202608130015.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101556",
+          "img": "http://www.dailypop.kr/image/logo/snslogo_20210324013917.jpg"
         },
         {
-          "title": "가트너 “섀도우 AI 확산에 기업 60%가 통제 도구 도입”",
-          "desc": "가트너는 2028년 기업의 60%가 별도의 AI 사용 통제·거버넌스 도구를 도입할 것으로 전망했다. 가트너는... AI 활용 속도를 기존 보안 체계가 따라가지 못하고 있다고 분석했다. 섀도우 AI는 기업의 정보기술(IT) 부서나...",
-          "src": "byline",
+          "title": "의료현장 아이디어, 기술·시장으로 잇는다…'MEeT 2026' 첫 개최",
+          "desc": "업계에서는 AI·바이오·디지털 기술의 의료 분야 활용이 확대될수록 기술 자체의 완성도뿐 아니라 임상 검증과 병원 도입, 인허가, 투자, 해외 진출을 연결하는 생태계 구축이 경쟁력을 좌우할 것으로 보고 있다. MEeT...",
+          "src": "thefirstmedia",
           "date": "08/13",
-          "url": "https://byline.network/?p=9004111222615276",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/07/gartner-logo.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206025",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206025_189940_558_v150.jpg"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
+          "desc": "삼성전자와 LG전자 기술 경쟁은 기술 상향 평준화를 이끌고, 정부가 2035년까지 히트펌프 350만대 보급을 목표로 내건 정책 드라이브와 맞물려 협력사 및 배관·부품 인프라 생태계를 단단하게 만드는 자양분이 될 것이다....",
+          "src": "전자신문",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
+          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+        },
+        {
           "title": "[데스크라인]함께 가야 멀리 가죠",
           "desc": "지난 11일 삼성전자와 SK하이닉스 등 종합반도체기업(IDM) 2개사, 세메스, 램리서치, 원익IPS 등 국내외 대형 장비제조 5개사, 원익큐엔시, 월덱스 등 국내 소재·부품 기업 23개사가 구미 테크노밸리에 모였다. 형식은 기술...",
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
         },
         {
           "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/13",
           "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=270303",
           "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/270303_348377_4845_v150.jpg"
-        },
-        {
-          "title": "연봉 '1억5천' 삼성 DX노조의 성과급 욕심...청년 취업문은 더 좁아진다",
-          "desc": "연관된 부품·공급망의 노동자들과 성과를 공유하려는 노력도 필요하다\"고 말했다. 경기 평택시 삼성전자 평택캠퍼스에 출근하는 직원들 [사진=뉴스핌DB] ◆ \"성과 나눌 권리 있다면 지속가능성도 함께 고민해야...",
-          "src": "뉴스핌",
-          "date": "08/13",
-          "url": "https://www.newspim.com/news/view/20260812001049",
-          "img": "https://img.newspim.com/news/2026/04/30/260430162239803_482_tc.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 인도에 플랙트그룹 신규 냉난방공조 생산라인 준공",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740650?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134472233.2.jpg"
+      "title": "삼성전자, 인도에 HVAC 생산라인 준공…아태 AI 데이터센터 시장 강화",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101550",
+      "img": "http://www.dailypop.kr/news/thumbnail/202608/101550_168745_2832_v150.jpg"
     },
     {
       "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
     },
     {
-      "title": "\"삼성환급 온누리로 신혼준비\"…'8천억 보너스' 풀리자 온라인상권 '술...",
-      "url": "https://n.news.naver.com/mnews/article/079/0004178465?sid=102",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/13/202608131354378519_0.jpg"
+      "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
+      "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
     },
     {
-      "title": "BHSN, 한애드온즈에 계약 AI 앨리비 공급…한글서 계약서 검토 지원",
-      "url": "https://www.hellot.net/news/article.html?no=114336",
-      "img": "https://www.hellot.net/data/photos/20260833/art_17865999103345_6008a8.jpg"
+      "title": "성남시, 미래 먹거리 '3D 식품프린팅' 선점 나섰다",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315475",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315475_311430_5141_v150.jpg"
     },
     {
-      "title": "청년의 아이디어로 골목상권 살린다···대구 수성구, '실전형 로컬크...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=743797",
-      "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_743797_1786598257.jpg"
+      "title": "한화생명, 전 임직원에 'M365 코파일럿' 도입…AI 업무 혁신 본격화",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=81081",
+      "img": "http://www.press9.kr/news/thumbnail/202608/81081_93526_4154_v150.jpg"
     }
   ]
 };
