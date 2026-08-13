@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.13 (목) 16:55",
+  "updatedAt": "2026.08.13 (목) 18:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 인도에 HVAC 생산라인 준공…아태 AI 데이터센터 시장 강화",
-          "desc": "삼성전자는 반도체 영역을 넘어 냉각 및 공조 시스템 영역까지 B2B 사업 포트폴리오를 확장하고 있다. 가전 사업부는 경기 변동성이 높은 B2C 시장의 한계를 극복하기 위해 높은 수익성과 장기 계약을 특징으로 하는 B2B...",
-          "src": "dailypop",
+          "title": "“LG 칠러·삼성 M&A”…60조 규모 냉각시장서 ‘정면 승부’",
+          "desc": "선두를 달리던 LG전자에 맞서 삼성전자가 인도에 대형 공조 생산라인을 준공하며 본격적인 추격전에... 기존 가전 시장의 성장이 정체되면서 전자업계는 데이터센터 냉각 솔루션을 차세대 핵심 카드로 낙점한 상황....",
+          "src": "서울경제TV",
           "date": "08/13",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101550",
-          "img": "http://www.dailypop.kr/news/thumbnail/202608/101550_168745_2832_v150.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202608130088",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/13/sentv20260813000199.jpg"
         },
         {
-          "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
-          "desc": "가운데 삼성전자는 도심 속 밀착형 비즈니스와 모바일 에코시스템을 전면에 내세우고 LG전자는... 글로벌 시장에서 점유율을 가파르게 넓혀가고 있는 샤오미를 비롯해 로봇청소기 및 홈 로보틱스 분야의 강자 드리미...",
-          "src": "newscj",
+          "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
+          "desc": "LG전자 로봇청소기 RONi 문턱을 넘나들고, 좁은 틈에도 들어가는 등 로봇청소기 기술이 나날이 좋아지는... 삼성전자 갤럭시 폴더블 출시부터 여권형 화면비로 관심을 모았던 폴드8을 비롯한 삼성의 폴더블폰을 소개하는...",
+          "src": "banronbodo",
           "date": "08/13",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3424480",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3424480_3536228_3411_v150.jpg"
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
+          "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
         },
         {
-          "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
-          "desc": "50대 직장인 A씨는 이달 초 새로 전세를 얻어 이사하는 과정에서 세탁기·건조기 등 주요 가전을 ‘구독’... 12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를...",
-          "src": "khan",
-          "date": "08/12",
-          "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
-          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+          "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
+          "desc": "한편 평생보증 종료로 삼성전자 건조기는 보증기간 안내가 홈페이지별로 달라 소비자들이 혼란을 초래할 여지가 있다. 삼성닷컴 일부 제품 페이지에서는 인버터형 건조기 핵심부품 보증기간을 10년으로 안내하고 있지만...",
+          "src": "소비자가만드는신문",
+          "date": "08/13",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761312",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
-          "desc": "과거 '가전'이라고 하면 냉장고·세탁기 등 백색가전과 TV 등 영상가전이 전부였다. 하지만 탄소중립과 ESG... 삼성전자는 제주 단독주택 등에서 한국형 공동주택에 최적화된 히트펌프 시스템 실증을 확대하고 있다....",
-          "src": "전자신문",
+          "title": "삼성전자, AI 데이터센터 냉각시장 정조준…가전 넘어 공조 육성[종합]",
+          "desc": "삼성전자 내부에서도 공조 사업의 위상이 달라지고 있다. 현재 공조 사업은 디바이스경험(DX)부문 DA사업부가 담당한다. DA사업부는 냉장고와 세탁기, 청소기, 전기레인지 등 소비자용 가전을 주력으로 해온 조직이지만...",
+          "src": "아이뉴스24",
           "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001049600?sid=101",
+          "img": "https://image.inews24.com/v1/c775f51b5df99c.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "성남시, 미래 먹거리 '3D 식품프린팅' 선점 나섰다",
-          "desc": "개발에도 활용할 수 있다. 성남시는 지역이 보유한 첨단산업 기반을 연구지원센터 유치의 강점으로 내세우고 있다. 판교테크노밸리에는 AI와 ICT, 소프트웨어, 바이오 분야의 기업과 연구기관이 밀집해 있다. 이들 기술은...",
-          "src": "pointdaily",
+          "title": "[인터뷰] 임문영 의원 \"소버린 AI 본질은 대안 확보…오픈소스 생태계 ...",
+          "desc": "소프트웨어 개발 가치를 단순 투입 시간으로 재단하거나, AI를 활용했다는 이유로 단가를 깎으려는 비합리적인 관행은 개발자를 단순 기능인으로 격하하는 시각에서 비롯된다. 공공 부문부터 특정 기업 기술에 종속되지...",
+          "src": "IT데일리",
           "date": "08/13",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315475",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315475_311430_5141_v150.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=240992",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240992_246522_3945_v150.jpg"
         },
         {
-          "title": "한화생명, 전 임직원에 'M365 코파일럿' 도입…AI 업무 혁신 본격화",
-          "desc": "도입에 앞서 임직원의 AI 활용 역량을 높이는 교육도 진행했다. 상시 온라인 교육과 함께 실시간 온... 이 가운데 비개발 직군이 190명으로 정보기술(IT) 개발 직군 95명의 두 배에 달했다. 우수 참가자를 중심으로...",
-          "src": "press9",
+          "title": "충남개발공사, 'AI 대전환' 실무 대응 속도…활용·보안 역량 강화",
+          "desc": "정책과 기술 변화를 이해하고 실제 업무에 활용할 수 있도록 실무협의회에 전문가 특강을 연계했다. 이날 특강에서는 생성형 AI가 공공부문의 업무 방식에 미칠 변화와 분야별 활용 가능성을 살폈다. AI 도입 과정에서...",
+          "src": "아주경제",
           "date": "08/13",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=81081",
-          "img": "http://www.press9.kr/news/thumbnail/202608/81081_93526_4154_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260813182707283",
+          "img": "https://image.ajunews.com/content/image/2026/08/13/20260813183023492200.jpg"
         },
         {
-          "title": "정부, 반도체 호황 발판 삼아 '7대 SEED 프로젝트' 추진…SMR·양자·바이...",
-          "desc": "기회를 활용해 AI 시대 이후의 성장동력을 미리 준비해야 한다는 취지를 밝혔다. 반도체·피지컬AI... 새롭게 도입한다. 범정부 추진 체계로는 부총리 중심의 민관 합동 '미래개척추진단'을 구성해 과학기술관계장...",
-          "src": "dailypop",
+          "title": "부산대 양산캠퍼스 AX연구캠퍼스 연계 첨단산업 전략 주문",
+          "desc": "네이버클라우드의 AI혁신 생태계 조성을 위한 업무협약과 부산대의 양산캠퍼스 산업AX연구캠퍼스 조성... 냉각기술과 재이용수 등을 활용한 저용수 냉각체계 도입을 검토해야 한다고 제안했다. 또한 관련 절차를...",
+          "src": "ulsanpress",
           "date": "08/13",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101556",
-          "img": "http://www.dailypop.kr/image/logo/snslogo_20210324013917.jpg"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=580990",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/580990_278122_2954_v150.jpg"
         },
         {
-          "title": "의료현장 아이디어, 기술·시장으로 잇는다…'MEeT 2026' 첫 개최",
-          "desc": "업계에서는 AI·바이오·디지털 기술의 의료 분야 활용이 확대될수록 기술 자체의 완성도뿐 아니라 임상 검증과 병원 도입, 인허가, 투자, 해외 진출을 연결하는 생태계 구축이 경쟁력을 좌우할 것으로 보고 있다. MEeT...",
-          "src": "thefirstmedia",
+          "title": "\"업무망 분리된 정부부처에도\"…네이버클라우드, 공공 AX 시장 공략",
+          "desc": "정수환 네이버클라우드 기술지원 총괄은 \"네이버웍스는 글로벌 630만명이 선택해 사용하는 서비스\"라며 \"메일 주소록 서비스에서 시작해 AI 협업 툴로 진화해온 경험을 활용해 AI 업무 혁신의 선두에 설 수 있도록...",
+          "src": "머니투데이",
           "date": "08/13",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206025",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206025_189940_558_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005399953?sid=105",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081314422952153_1.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "환경규제 맞추다 매출 끊긴 협력사…\"공급망 영향평가 필요\"",
+          "desc": "반도체 제조업이 통합환경허가 대상에 포함되면서 삼성전자, SK하이닉스 등 대기업은 대기오염방지시설을 고효율 설비로 바꾸고 부품도 내식성과 내열성이 강화된 사양으로 교체했다. 반면 중소 협력사는 대응력이...",
+          "src": "imaeil",
+          "date": "08/13",
+          "url": "https://n.news.naver.com/mnews/article/088/0001023559?sid=101",
+          "img": "https://www.imaeil.com/photos/2026/08/13/2026081315504241903_l.jpg"
+        },
         {
           "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
           "desc": "삼성전자와 LG전자 기술 경쟁은 기술 상향 평준화를 이끌고, 정부가 2035년까지 히트펌프 350만대 보급을 목표로 내건 정책 드라이브와 맞물려 협력사 및 배관·부품 인프라 생태계를 단단하게 만드는 자양분이 될 것이다....",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/13",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477011",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477011_464001_948_v150.jpg"
-        },
-        {
-          "title": "[특징주] 져스텍, 삼성 '인간·로봇 상호작용' 핵심기술 낙점…협력사·...",
-          "desc": "특히 져스텍은 삼성전자와 삼성전기를 협력사로 확보하고 있으며 SK하이닉스 핵심 공급사인 이오테크닉스에도 장비를 납품하고 있다. 핵심 부품부터 시스템까지 자체 개발하는 모션솔루션 기술력을 기반으로 반도체...",
-          "src": "financialpost",
-          "date": "08/13",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=270303",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/270303_348377_4845_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 인도에 HVAC 생산라인 준공…아태 AI 데이터센터 시장 강화",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101550",
-      "img": "http://www.dailypop.kr/news/thumbnail/202608/101550_168745_2832_v150.jpg"
+      "title": "“LG 칠러·삼성 M&A”…60조 규모 냉각시장서 ‘정면 승부’",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608130088",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/13/sentv20260813000199.jpg"
     },
     {
-      "title": "[경제인사이드] 미래 가전의 청사진 'IFA 2026'… 글로벌 AI·로봇 각축전",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3424480",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3424480_3536228_3411_v150.jpg"
+      "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
+      "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
+      "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
     },
     {
-      "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463892?sid=101",
-      "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+      "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761312",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-      "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+      "title": "삼성전자, AI 데이터센터 냉각시장 정조준…가전 넘어 공조 육성[종합]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001049600?sid=101",
+      "img": "https://image.inews24.com/v1/c775f51b5df99c.jpg"
     },
     {
-      "title": "성남시, 미래 먹거리 '3D 식품프린팅' 선점 나섰다",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315475",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315475_311430_5141_v150.jpg"
+      "title": "[인터뷰] 임문영 의원 \"소버린 AI 본질은 대안 확보…오픈소스 생태계 ...",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=240992",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202608/240992_246522_3945_v150.jpg"
     },
     {
-      "title": "한화생명, 전 임직원에 'M365 코파일럿' 도입…AI 업무 혁신 본격화",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=81081",
-      "img": "http://www.press9.kr/news/thumbnail/202608/81081_93526_4154_v150.jpg"
+      "title": "충남개발공사, 'AI 대전환' 실무 대응 속도…활용·보안 역량 강화",
+      "url": "https://www.ajunews.com/view/20260813182707283",
+      "img": "https://image.ajunews.com/content/image/2026/08/13/20260813183023492200.jpg"
     }
   ]
 };
