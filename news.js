@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 08:04",
+  "updatedAt": "2026.08.14 (금) 11:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[비즈&플러스] 영역 넓히는 '히트펌프' 시장‥움직이는 병실",
-          "desc": "\" 삼성전자와 LG전자 등은 도시가스 공급망이 제대로 구축되지 않은 제주도의 1,042가구를 대상으로 히트펌프 사업을 본격 추진할 계획입니다. ◀ 앵커 ▶ 사실 요즘 생활가전 시장이 좋지가 않잖아요. 양대 가전회사가...",
-          "src": "imnews",
+          "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
+          "desc": "삼성전자와 애플 중심이던 단말기 판매에서 벗어나 모토로라의 39만원대 중저가폰을 전국 매장에 공급하고... 롯데하이마트가 모바일 사업을 강화하는 것은 기존 가전 판매만으로는 성장에 한계가 있다는 판단도 깔려...",
+          "src": "4th",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/214/0001517860?sid=101",
-          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/14/today_20260814_074015_2_32_Large.jpg"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2116368",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116368_213646_4448_v150.jpg"
         },
         {
-          "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
-          "desc": "LG전자 로봇청소기 RONi 문턱을 넘나들고, 좁은 틈에도 들어가는 등 로봇청소기 기술이 나날이 좋아지는... 삼성전자 갤럭시 폴더블 출시부터 여권형 화면비로 관심을 모았던 폴드8을 비롯한 삼성의 폴더블폰을 소개하는...",
-          "src": "banronbodo",
-          "date": "08/13",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
-          "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
+          "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
+          "desc": "◆'보안·AS·AI' 무장한 삼성·LG 추격…위기감 느낀 中 업체 중국 가전업체들이 공격적으로 신제품을 쏟아내는 배경에는 최근 삼성전자와 LG전자의 거센 추격이 원인으로 꼽힌다. 로봇청소기는 '외산 가전의 무덤'이라...",
+          "src": "F투데이",
+          "date": "08/14",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363597",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
         },
         {
           "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "삼성, 광주 AI데이터센터 냉난방공조기 투자 본격화",
-          "desc": "신공장은 광주 첨단과학국가산업단지 내 삼성전자 그린시티 3캠퍼스 오룡동 1119번지 일대에 들어선다. 삼성은 현재 광주 내 그린1·2·3 캠퍼스에서 에어컨·냉장고·세탁기 등을 생산하고 있으며, 이번 신공장은 3캠퍼스...",
-          "src": "namdonews",
-          "date": "08/13",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=920059",
-          "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
+          "title": "구광모, 젠슨 황과 AI 동맹 본격화…LG. 내년 휴머노이드 공개",
+          "desc": "올해 안에 바퀴로 이동하는 휠 베이스 형태의 'LG 클로이드(CLOiD)'를 LG전자 미국 테네시 공장 세탁기... 삼성전자와 SK그룹, 현대차그룹 등도 엔비디아와 대규모 GPU 기반 AI 인프라 구축 및 제조·모빌리티 분야 협력을...",
+          "src": "4th",
+          "date": "08/14",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2116357",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116357_213635_178_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[더벨][영상 | 현장+] 병원과 집 사이 '회복의 빈틈'…대웅개발 케어허...",
-          "desc": "신체 평가에는 낙상 위험도 측정 장비 'FRA' 등이 활용됩니다. 이용자가 발판 위에서 눈을 뜨거나 감은 상태로... ◇AI 매트리스·레이더 센서 적용…퇴소 후 관리까지 연결 객실에도 디지털 헬스케어 기술을 적용했습니다. AI...",
-          "src": "더벨",
+          "title": "포스코DX, 상반기 영업익 전년比 66% ↓…\"AI 투자 확대로 하반기 반등 ...",
+          "desc": "승인하며 AI 전환 전략을 본격화했다. 이를 위해 사무 업무를 비롯해 제철소와 제조 현장에도 AI를 도입해... 베트남 해외 개발센터(ODC)를 활용한 AI 기반 개발 프로세스를 정착시키고, 외부 기술 파트너십 확대와...",
+          "src": "ZDNet코리아",
           "date": "08/14",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131637101160105726",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/092/0002434007?sid=105",
+          "img": "https://image.zdnet.co.kr/2024/10/30/aec040fa14ac4fd40674b779d6eb973d.jpg"
         },
         {
-          "title": "K-파마, 신약개발에 AI 속속 도입…전문인력 부족은 문제",
-          "desc": "신약개발에 AI를 활용하고 있거나 도입을 준비 중인 것으로 나타났다. 다만 AI 전문인력과 데이터 인프라... AI 인력이 없는 이유로는 자금 및 리소스 부족이 26명으로 가장 많았다. 이어 내부 인력의 AI 기술 이해...",
-          "src": "news",
+          "title": "[BIC 2026] \"버프 유어 인디 스피릿\"…역대 최대 규모로 막 올렸다",
+          "desc": "이어 AI 활용에 대해 \"AI 도입으로 아이디어를 게임으로 구현하는 속도는 빨라졌지만, AI가 흥행작을 대신... 기술의 변화 속에서도 독창성을 무기로 한 세계 인디 개발자들의 뜨거운 도전은 오는 16일까지 부산 벡스코...",
+          "src": "pointe",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/648/0000049831?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2024/01/16/de24f7b8e509058bdb2bd1c0a1b02677.jpg"
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83228",
+          "img": "https://cdn.pointe.co.kr/news/photo/202608/83228_112819_3217.jpg"
         },
         {
-          "title": "스마트 건설기술 시대엔 데이터 수집·분석 능력이 경쟁력",
-          "desc": "스마트 건설기술 도입은 사이버 보안 위협, AI 오판에 따른 법적 책임, 플랫폼 종속, 데이터 품질 오류 등... 전문건설업은 축적된 현장 데이터를 자산으로 활용해 품질 프리미엄을 확보하고, 데이터 기반의 수익구조를...",
-          "src": "koscaj",
+          "title": "의정부시의회, ‘조례 사전검토·입안 지원 AI 챗봇’ 활용 정책지원관...",
+          "desc": "생성형 AI 기반의 ‘조례 입안·검토 지원 챗봇’을 도입하고 전문 인력 역량 강화에 나섰다. 의정부시의회... 첨단 기술을 적극 활용해 입법 전문성을 지속적으로 끌어올리겠다”라고 전했다. 의정부시의회는 향후 해당 AI...",
+          "src": "dnews",
           "date": "08/14",
-          "url": "https://www.koscaj.com/news/articleView.html?idxno=325815",
-          "img": "https://cdn.koscaj.com/news/thumbnail/202608/325815_74725_351_v150.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608140954586950072",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/14/202608140954586950072-2-684122.jpg"
         },
         {
-          "title": "혁신 의료기기 '우수 혁신제품' 대거 지정",
-          "desc": "미래 국가 먹거리로 분류되는 헬스케어 분야에서 국내 유망 의료기기 및 AI 기업들이 정부 우수 연구개발... 공공부문의 선도적 활용을 통해 축적된 참고 사례는 국내 혁신 기술의 산업 현장 도입을 위한 훌륭한...",
-          "src": "bosa",
+          "title": "한솔PNS, 제조IT 솔루션 7종 저작권 확보…AI 기술도 특허 출원",
+          "desc": "한솔PNS가 자체 개발한 제조IT 솔루션과 인공지능(AI) 플랫폼 기술의 지식재산권 확보에 나서며 제조 AX... AX 도입을 돕는다. 한솔PNS 관계자는 \"한솔PNS의 제조IT 솔루션은 최근 해외 사업장 등에 적용되며 글로벌...",
+          "src": "mdtoday",
           "date": "08/14",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010195",
-          "img": "https://cdn.bosa.co.kr/news/photo/202608/3010195_410729_1418.png"
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=608490",
+          "img": "https://cdn.mdtoday.co.kr/news/photo/202608/608490_309439_3855.png"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
         },
         {
           "title": "[데스크라인]함께 가야 멀리 가죠",
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
         },
         {
           "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[비즈&플러스] 영역 넓히는 '히트펌프' 시장‥움직이는 병실",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517860?sid=101",
-      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/14/today_20260814_074015_2_32_Large.jpg"
+      "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116368",
+      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116368_213646_4448_v150.jpg"
     },
     {
-      "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
-      "img": "https://cdn.banronbodo.com/news/photo/202608/32784_48067_5352.jpg"
+      "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363597",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
     },
     {
       "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "삼성, 광주 AI데이터센터 냉난방공조기 투자 본격화",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=920059",
-      "img": "https://cdn.namdonews.com/news/photo/202608/920059_624731_713.jpg"
+      "title": "구광모, 젠슨 황과 AI 동맹 본격화…LG. 내년 휴머노이드 공개",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116357",
+      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116357_213635_178_v150.jpg"
     },
     {
-      "title": "K-파마, 신약개발에 AI 속속 도입…전문인력 부족은 문제",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049831?sid=101",
-      "img": "https://cdn.bizwatch.co.kr/news/photo/2024/01/16/de24f7b8e509058bdb2bd1c0a1b02677.jpg"
+      "title": "포스코DX, 상반기 영업익 전년比 66% ↓…\"AI 투자 확대로 하반기 반등 ...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434007?sid=105",
+      "img": "https://image.zdnet.co.kr/2024/10/30/aec040fa14ac4fd40674b779d6eb973d.jpg"
     },
     {
-      "title": "스마트 건설기술 시대엔 데이터 수집·분석 능력이 경쟁력",
-      "url": "https://www.koscaj.com/news/articleView.html?idxno=325815",
-      "img": "https://cdn.koscaj.com/news/thumbnail/202608/325815_74725_351_v150.jpg"
+      "title": "[BIC 2026] \"버프 유어 인디 스피릿\"…역대 최대 규모로 막 올렸다",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83228",
+      "img": "https://cdn.pointe.co.kr/news/photo/202608/83228_112819_3217.jpg"
     }
   ]
 };
