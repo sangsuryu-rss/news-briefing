@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 22:45",
+  "updatedAt": "2026.08.15 (토) 00:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 개미주주 800만명 역대 최고 수준…1년 전보다 300만명 늘었다",
-          "desc": "반도체 가격 상승 속에서 삼성전자의 올해 상반기 원재료 매입액이 55조8천300억원 수준을 기록했다. 1년 전보다 5조원 가까이 증가한 수준이다. 스마트폰과 생활가전 등 완제품을 담당하는 디바이스경험 부문의 원재료...",
-          "src": "news",
+          "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
+          "desc": "이상일 용인특례시장 용인특례시는 삼성전자 국가산업단지와 SK하이닉스 반도체클러스터, 경기용인... ◆ 자원순환을 시민 참여형 경제로 소형 폐가전 무상수거와 투명페트병 무인회수기 확대, 시민 참여형...",
+          "src": "newstown",
           "date": "08/14",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430285",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430285_337116_172_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "솔트룩스, 상반기 연결 매출 전년비 60%↑",
-          "desc": "지식관리 기술을 결합해 기업용 AI 사업을 확대하고 있다. 그룹사가 보유한 온톨로지 관련 특허는 총 39건이다. 이를 기반으로 기업 내부에 분산된 데이터와 지식을 구조화해 검색·분석·업무 수행에 활용하는...",
-          "src": "디지털타임스",
-          "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/029/0003042460?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/14/news-p.v1.20260814.df27a728916e409f90fc11941a28c54e_R.jpeg"
+          "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
+          "desc": "몸에 착용할 수 있는 AI 기반 웨어러블 기기를 활용한 부정행위 사례도 있다. 영국과 한국에서는 최근... 문제는 AI를 이용한 부정행위를 잡기 위해 도입한 기술 역시 완벽하지 않다는 점이다. AI 탐지 프로그램이 사람이...",
+          "src": "kmib",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
+          "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
         },
         {
-          "title": "설비 가동률 84%를 89%로 높인다…아이브이웍스가 GaN 생산의 자율공정...",
-          "desc": "아이브이웍스는 지난 2019년부터 화합물 반도체 소재 생산에 AI를 도입한 스마트 공장 시스템 ‘DOMM(돔)’을... Automation) 기술도 포함됐다. 회사가 제시한 단계 기준으로는 AI 정량 계측이 레벨 1·2, AI 판단 기반 공정과...",
-          "src": "venturesquare",
-          "date": "08/14",
-          "url": "https://www.venturesquare.net/1106329/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/III.png"
+          "title": "美, 동남아 에너지·AI 인프라에 25억달러 투자…역대 최대 규모",
+          "desc": "이를 통해 미국산 AI 시스템 도입을 추진하는 아세안 회원국들에 대한 재정 및 기술 지원을 추진할... SMR이 활용될 가능성이 높다. 그러나 실제 사업 성과가 나오기까지는 넘어야 할 산도 많다. 현재까지 제시된 협력...",
+          "src": "더구루",
+          "date": "08/15",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105786",
+          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866065092458_d076cb.jpg"
         },
         {
-          "title": "부산항만공사, 현대차와 전기차 충전·태양광 기술 부산항 적용 논의",
-          "desc": "다만 구체적인 시설 구축이나 기술 도입이 확정된 단계는 아니며 향후 개념검증을 거쳐 사업화 가능성을 살필 예정이다. 부산항만공사는 14일 부산항만공사 사옥에서 현대자동차 제로원 스타트업과 '부산항 AI 스마트항만...",
-          "src": "newstown",
-          "date": "08/14",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712519",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712519_667261_553_v150.jpg"
+          "title": "어르신 챙기고 화재 예방까지…일 잘하는 우리 동네 'AI 공무원'",
+          "desc": "재래시장·공중 화장실에 AI 도입 AI 서비스로 취약계층 모니터링 서울시가 행정 전반에 인공지능(AI) 활용을... 해당 시스템은 열원 감지와 AI 기반 동작 인식 기술을 활용해 불법촬영 위험을 24시간 감지하는 방식이다....",
+          "src": "더팩트",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/629/0000524793?sid=102",
+          "img": "https://img.tf.co.kr/article/home/2026/08/12/20264229178671304600.jpg"
         },
         {
-          "title": "항암제 급여 기준, AI가 원문 공고까지 찾아준다…크립토랩이 CLIC을 출...",
-          "desc": "환자 이름과 차트번호 등 개인정보를 입력하지 않아도 공개된 기준을 검색할 수 있어 초기 도입 과정에서... 동형암호 기술을 바탕으로 민감한 의료 데이터를 안전하게 활용할 수 있는 병원 AI의 기반을 마련하겠다”...",
-          "src": "venturesquare",
-          "date": "08/14",
-          "url": "https://www.venturesquare.net/1106290/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/image-2026-08-14T213048.727.png"
+          "title": "이더리움, 단순 코인 넘어 '블록체인 인프라'로…업그레이드·ETF 스테이...",
+          "desc": "이더리움과 리플 자료사진.AI가 생성.  암호화폐 시장에서 이더리움(ETH)을 바라보는 시선이 다시 기술과... 안에서 활용할 가능성이 생긴다. 다만 이 같은 구조가 실제로 본격 도입될지는 규제기관의 판단에 달려 있다....",
+          "src": "cbci",
+          "date": "08/15",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598443",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/598443_410357_3625_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 개미주주 800만명 역대 최고 수준…1년 전보다 300만명 늘었다",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430285",
-      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430285_337116_172_v150.jpg"
+      "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
-      "title": "솔트룩스, 상반기 연결 매출 전년비 60%↑",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042460?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/14/news-p.v1.20260814.df27a728916e409f90fc11941a28c54e_R.jpeg"
+      "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
+      "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
     },
     {
-      "title": "설비 가동률 84%를 89%로 높인다…아이브이웍스가 GaN 생산의 자율공정...",
-      "url": "https://www.venturesquare.net/1106329/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/III.png"
+      "title": "美, 동남아 에너지·AI 인프라에 25억달러 투자…역대 최대 규모",
+      "url": "https://www.theguru.co.kr/news/article.html?no=105786",
+      "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866065092458_d076cb.jpg"
     }
   ]
 };
