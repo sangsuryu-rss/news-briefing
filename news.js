@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 04:15",
+  "updatedAt": "2026.08.15 (토) 05:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
-          "desc": "이상일 용인특례시장 용인특례시는 삼성전자 국가산업단지와 SK하이닉스 반도체클러스터, 경기용인... ◆ 자원순환을 시민 참여형 경제로 소형 폐가전 무상수거와 투명페트병 무인회수기 확대, 시민 참여형...",
-          "src": "newstown",
-          "date": "08/14",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
-          "img": "http://www.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
+          "title": "[르포]삼성 온누리 '25만 3천원'이 들어왔다[뉴스럽다]",
+          "desc": "뉴스럽다삼성전자 감사 페스티벌 이벤트를 통해 에어컨 구매 후 디지털 온누리상품권을 직접 신청하고... 부모님에게는 달콤한 웃음을 안겨주었다. '효자 가전' 에어컨 한 대가 온 집안과 사무실에 화목한 온기를 더했다.",
+          "src": "nocutnews",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/079/0004179063?sid=102",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/14/202608141133464009_0.jpg"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 M...",
+          "desc": "로봇 도입 확대에 속도를 낸다고 밝혔다. 산업부는 14일 충남 계룡대에서 육군, 현대차그룹과 국방분야 '로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)'을 체결했다. 협약식에는 이민우 산업부 산업성장실장...",
+          "src": "AI타임스",
+          "date": "08/15",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
+          "img": "https://cdn.aitimes.com/news/photo/202608/213984_217593_509.jpg"
+        },
+        {
           "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
           "desc": "이번 사업은 청년들의 AI 활용 장벽을 낮추고, 경제적 여건에 따른 기술 접근성... 개인별 유료 구독비를 보조하는 방식 대신 기관 단위 통합 API 종량제를 도입함으로...",
           "src": "breaknews",
@@ -82,15 +90,7 @@ window.NEWS_DATA = {
           "src": "kmib",
           "date": "08/15",
           "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
-          "img": ""
-        },
-        {
-          "title": "美, 동남아 에너지·AI 인프라에 25억달러 투자…역대 최대 규모",
-          "desc": "이를 통해 미국산 AI 시스템 도입을 추진하는 아세안 회원국들에 대한 재정 및 기술 지원을 추진할... SMR이 활용될 가능성이 높다. 그러나 실제 사업 성과가 나오기까지는 넘어야 할 산도 많다. 현재까지 제시된 협력...",
-          "src": "더구루",
-          "date": "08/15",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105786",
-          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866065092458_d076cb.jpg"
+          "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
-      "img": "http://www.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
+      "title": "[르포]삼성 온누리 '25만 3천원'이 들어왔다[뉴스럽다]",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179063?sid=102",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/14/202608141133464009_0.jpg"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
+      "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 M...",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
+      "img": "https://cdn.aitimes.com/news/photo/202608/213984_217593_509.jpg"
+    },
+    {
       "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
       "url": "http://www.breaknews.com/1229240",
       "img": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202608/2026081526338405.jpg"
-    },
-    {
-      "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321171?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     }
   ]
 };
