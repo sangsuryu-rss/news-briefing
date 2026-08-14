@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 05:47",
+  "updatedAt": "2026.08.15 (토) 07:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[르포]삼성 온누리 '25만 3천원'이 들어왔다[뉴스럽다]",
-          "desc": "뉴스럽다삼성전자 감사 페스티벌 이벤트를 통해 에어컨 구매 후 디지털 온누리상품권을 직접 신청하고... 부모님에게는 달콤한 웃음을 안겨주었다. '효자 가전' 에어컨 한 대가 온 집안과 사무실에 화목한 온기를 더했다.",
-          "src": "nocutnews",
+          "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
+          "desc": "매장에는 인공지능(AI) TV존, 냉장고존, 주방가전존 등으로 구성돼 한눈에 삼성전자 가전을 살펴볼 수 있다. 곳곳에 상담 테이블이 마련돼 전문 상담부터 견적 확인까지 할 수 있다. ​혼수·입주·이사 고객 사전 예약...",
+          "src": "뉴스1",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/079/0004179063?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/14/202608141133464009_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+        },
+        {
+          "title": "[가전 대전환①] 생각하는 냉장고, 판단하는 세탁기",
+          "desc": "삼성전자와 LG전자는 자체 AI 기술과 플랫폼에 생성형 AI를 접목해 냉장고·세탁기·에어컨·청소기 등 주요 가전으로 AI 적용 범위를 확대했다. 삼성전자는 구글 제미나이를 결합한 '비스포크 AI' 라인업을 주방과...",
+          "src": "the-biz",
+          "date": "08/15",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726077",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202608/726077_930418_4116.jpg"
+        },
+        {
+          "title": "OLED 게이밍 모니터 전성시대…삼성전자·LG전자 입지 흔들",
+          "desc": "시장이 게이밍 모니터를 주축으로 재편되면서, TV와 가전 중심의 판매 전략을 내걸었던 두 회사의 입지가 다소 줄었다. 15일 시장조사업체 트렌드포스에 따르면 올해 2분기 삼성전자의 글로벌 OLED 모니터 출하량...",
+          "src": "newsway",
+          "date": "08/15",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026081416374331063",
+          "img": "https://nimage.newsway.co.kr/photo/2024/08/29/20240829000038_1200.jpg"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "08/14",
           "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363597",
           "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
-        },
-        {
-          "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
-          "desc": "한편 평생보증 종료로 삼성전자 건조기는 보증기간 안내가 홈페이지별로 달라 소비자들이 혼란을 초래할 여지가 있다. 삼성닷컴 일부 제품 페이지에서는 인버터형 건조기 핵심부품 보증기간을 10년으로 안내하고 있지만...",
-          "src": "소비자가만드는신문",
-          "date": "08/13",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761312",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
-        },
-        {
-          "title": "삼성·LG '비밀병기' 맞붙는다…내년 휴머노이드 정면승부",
-          "desc": "LG전자의 가정용 로봇 'LG 클로이드'를 연내 미국 테네시 공장 세탁기 생산라인에 투입해 PoC(기술 검증)를... 삼성전자도 대표이사 직속 'RX(Robotics eXperience) 사업추진실'을 중심으로 휴머노이드 고도화에 착수했다....",
-          "src": "머니투데이",
-          "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/008/0005400445?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 M...",
-          "desc": "로봇 도입 확대에 속도를 낸다고 밝혔다. 산업부는 14일 충남 계룡대에서 육군, 현대차그룹과 국방분야 '로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)'을 체결했다. 협약식에는 이민우 산업부 산업성장실장...",
-          "src": "AI타임스",
+          "title": "이마트 vs 롯데마트, AI 승부수... 속도전이냐 장기전이냐",
+          "desc": "신세계그룹 관계자는 \"리플렉션 AI와의 협업을 그룹 미래 비전의 새로운 축으로 삼는 동시에, AI를 활용한... 업계에서도 국내 유통업계의 AI 도입 속도 자체가 아직 갈 길이 멀다는 지적이 나온다. 서용구 숙명여자대학교...",
+          "src": "newslock",
           "date": "08/15",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
-          "img": "https://cdn.aitimes.com/news/photo/202608/213984_217593_509.jpg"
+          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134410",
+          "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134410_122170_5622_v150.jpg"
         },
         {
-          "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
-          "desc": "이번 사업은 청년들의 AI 활용 장벽을 낮추고, 경제적 여건에 따른 기술 접근성... 개인별 유료 구독비를 보조하는 방식 대신 기관 단위 통합 API 종량제를 도입함으로...",
-          "src": "breaknews",
+          "title": "S&P 500, 7800 돌파에도 상승 기대...\"AI가 더 끌어올린다\"",
+          "desc": "시겔은 기업들이 AI를 활용해 비용을 줄이고 이익률을 높일 수 있다고 설명했다. S&P 500 전체 이익률은... 그는 비기술 기업이 AI를 본격 도입하면 이익률이 크게 개선될 가능성이 있다고 봤다. 시겔은 “현재 시장이...",
+          "src": "coinreaders",
           "date": "08/15",
-          "url": "http://www.breaknews.com/1229240",
-          "img": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202608/2026081526338405.jpg"
+          "url": "http://coinreaders.com/252939",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202606/800_800_2026062641181762.png"
         },
         {
-          "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
-          "desc": "국가교육위원회가 대입 수능에 서술·논술형 평가를 도입하는 방안을 놓고 국민 의견 수렴에 속도를 내고... 국교위는 AI를 활용해 해결할 수 있다는 입장이다. 하지만 객관식 문항에서도 출제 오류 논란이 반복되는...",
+          "title": "“내일 7% 급등”…리딩방 추천주, 재무제표 보면 ‘설거지’ 보인다 [...",
+          "desc": "세력은 바로 이 점을 악용해 ‘신기술 도입’, ‘세계 최초 신사업 진출’ 같은 자극적인 테마와 스토리를... AI 프롬프트로 5분 만에 검증하기 재무제표로 스스로 따져보기 힘들면 AI를 적극 활용하자. 현재 시점의...",
           "src": "한국경제",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/015/0005321171?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/050/0000109684?sid=101",
+          "img": "https://static.hankyung.com/photo/202608/AD.45326967.1.jpg"
         },
         {
-          "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
-          "desc": "몸에 착용할 수 있는 AI 기반 웨어러블 기기를 활용한 부정행위 사례도 있다. 영국과 한국에서는 최근... 문제는 AI를 이용한 부정행위를 잡기 위해 도입한 기술 역시 완벽하지 않다는 점이다. AI 탐지 프로그램이 사람이...",
-          "src": "kmib",
+          "title": "회삿돈 수백억 가로채는 딥페이크부터 변태안경까지…'AI 날개 단 범죄'",
+          "desc": "AI 스마트 글라스 등 최신 정보기술(IT) 기기를 활용한 범죄도 이젠 현실의 문제가 됐다. 지난달 서울... 생성형 AI 도입 등 성능 이슈나 환각 현상을 최소화하기 위한 다양한 장치를 마련하고 있다\"며 \"위해요소 탐지...",
+          "src": "뉴스1",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
-          "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009115403?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/6/8044993/high.jpg"
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[르포]삼성 온누리 '25만 3천원'이 들어왔다[뉴스럽다]",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179063?sid=102",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/14/202608141133464009_0.jpg"
+      "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+    },
+    {
+      "title": "[가전 대전환①] 생각하는 냉장고, 판단하는 세탁기",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726077",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202608/726077_930418_4116.jpg"
+    },
+    {
+      "title": "OLED 게이밍 모니터 전성시대…삼성전자·LG전자 입지 흔들",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026081416374331063",
+      "img": "https://nimage.newsway.co.kr/photo/2024/08/29/20240829000038_1200.jpg"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
     },
     {
-      "title": "[단독] 삼성전자, 가전 핵심부품 '평생보증' 5년 만에 종료",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761312",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
+      "title": "이마트 vs 롯데마트, AI 승부수... 속도전이냐 장기전이냐",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134410",
+      "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134410_122170_5622_v150.jpg"
     },
     {
-      "title": "삼성·LG '비밀병기' 맞붙는다…내년 휴머노이드 정면승부",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400445?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
-    },
-    {
-      "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 M...",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
-      "img": "https://cdn.aitimes.com/news/photo/202608/213984_217593_509.jpg"
-    },
-    {
-      "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
-      "url": "http://www.breaknews.com/1229240",
-      "img": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202608/2026081526338405.jpg"
+      "title": "S&P 500, 7800 돌파에도 상승 기대...\"AI가 더 끌어올린다\"",
+      "url": "http://coinreaders.com/252939",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202606/800_800_2026062641181762.png"
     }
   ]
 };
