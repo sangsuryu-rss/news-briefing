@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 14:48",
+  "updatedAt": "2026.08.14 (금) 16:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "대만 반도체기업 난야, 남부지역 산단에 D램 공장 건설 추진",
-          "desc": "삼성전자, SK하이닉스 등 선두 기업이 수익성이 높은 고대역폭메모리(HBM) 생산에 설비를 집중하며 상대적으로 일반 가전과 정보기술(IT) 기기에 들어가는 범용 D램의 공급이 줄어든 게 이유다. 지난 27일 대만...",
-          "src": "한국경제",
+          "title": "장병 오가는 용산역에 '군장점' 열었다…신한은행, 병사부터 간부까지 ...",
+          "desc": "만 20~25세 신한 나라사랑카드 보유 고객은 별도의 증빙서류 제출 없이 삼성전자 패밀리몰 인증과 가입을 완료하고 모바일·가전 등 다양한 제품을 군 장병 전용 특별가로 구매할 수 있다. 신한은행은 나라사랑카드를...",
+          "src": "thevaluenews",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/015/0005320960?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/01.45339487.1.png"
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200809",
+          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2608/a531b7dc1eee014fa11ec11ea693ffb01b54098c.png"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -45,7 +45,7 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "로보틱스 존재감 희미했던 LG 구광모, 엔비디아 손잡고 2027년 1분기 휴머...",
+          "title": "LG 구광모 엔비디아 손잡고 2027년 1분기 휴머노이드 로봇 공개 : 로보틱...",
           "desc": "보스턴다이나믹스와 레인보우로보틱스를 앞세운 현대차나 삼성전자에 비해 LG 로봇 사업의 존재감은... LG그룹은 올해 안에 휠 베이스 형태의 LG 클로이드를 LG전자 미국 테네시 공장 세탁기 생산라인에 투입해 실제...",
           "src": "huffingtonpost",
           "date": "08/14",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대한항공, 생성형 AI로 항공기 정비 데이터 분석…'디지털 정비' 본격화",
-          "desc": "정보의 활용 범위를 넓혔다. 기술적으로 가장 큰 특징은 생성형 AI 기반 자연어 검색과 비정형 데이터 처리다.... 대한항공은 신규 시스템 도입으로 정비 현장에서 기술 정보를 검색하고 분석하는 데 필요한 시간을 줄이는...",
-          "src": "e-science",
+          "title": "뷰노, 상반기 매출 122억…딥카스 104억·하티브 성장",
+          "desc": "한편 정부는 AI 영상 판독 보조시스템을 도입하고 건강정보와 의료이용 데이터를 활용한 AI 기반 폐암 발생... 복지부는 AI를 직접 개발하기보다 신의료기술평가 등을 거친 민간 의료 AI 기술을 활용하는 방향을...",
+          "src": "뉴스1",
           "date": "08/14",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133598",
-          "img": "https://cdn.e-science.co.kr/news/photo/202608/133598_65982_458.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009115006?sid=103",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/14/8056921/high.jpg"
         },
         {
-          "title": "SK네트웍스 2분기 영업익 248억 ‘42%↓’…AI 투자이익에 순익 90%↑",
-          "desc": "(RAG) 기술을 활용한 생성형 AI 신약개발 솔루션 ‘케이론’을 개발했다. 최근에는 미국 실리콘밸리... 인크로스는 AI 콘텐츠 마케팅 플랫폼 ‘스텔라이즈’와 멀티 AI 에이전트 ‘아이노바’를 업무에 도입했고...",
-          "src": "헤럴드경제",
+          "title": "현대차그룹-육군-산업부, '로봇·피지컬 AI' 국방 분야 도입 추진",
+          "desc": "현대차그룹은 육군, 산업부와 '로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)'을 체결했다고 14일 밝혔다. 협약식에는 김규하 육군참모총장, 최장식 육군참모차장, 이민우 산업부 산업성장실장...",
+          "src": "newsdream",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/016/0002684099?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.7f74bd0a48774413b458911cfcad87c0_T1.jpg"
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=116348",
+          "img": "https://cdn.newsdream.kr/news/thumbnail/202608/116348_89027_4726_v150.jpg"
         },
         {
-          "title": "에이전틱·피지컬AI '윤리원칙' 이달 제정…연성규범으로 AI기본사회 대...",
-          "desc": "“AI 기술이 빠르게 변화하는 상황에서 AI 개발·활용 과정의 판단이 한층 복잡해지고 있다”며... 이 교수는 이어 “국제적으로 합의된 기준을 적극 도입해 제도의 예측 가능성을 높이는 것이 산업 효율성과 윤리적...",
-          "src": "이데일리",
+          "title": "대한항공, 생성형 AI로 정비결함 분석…수백만건 데이터 한곳에",
+          "desc": "대한항공은 최근 생성형 AI와 클라우드 기술을 활용한 정비결함 분석 시스템을 오픈했다고 14일 밝혔다.... 대한항공은 이번 시스템 도입으로 정비 현장에서 기술 정보를 분석하고 의사결정을 내리는 데 걸리는 시간을...",
+          "src": "megaeconomy",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006351879?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081401250.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599121213874",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260814/p1065599121213874_645_thum.jpg"
         },
         {
-          "title": "삼성SDS ‘브리티웍스’, 중앙부처 9곳 도입… 정부 AI 행정혁신 가속",
-          "desc": "보안 기술과 함께 국가정보원 최고 보안 수준인 '상'등급을 획득한 민관협력형(PPP) 클라우드 환경에서 운영된다. 이에 따라 중앙부처와 공공기관은 보안 유출 우려 없이 안전하게 생성형 AI를 업무에 도입할 수 있다....",
-          "src": "ekn",
+          "title": "현대차그룹·육군·산업부, 국방 피지컬 AI 실증 나선다…공동연구 추진",
+          "desc": "현대차그룹은 14일 충남 계룡시 육군본부에서 육군, 산업통상자원부와 '로봇·피지컬 AI 및 첨단기술 활용... 로봇과 AI 기술을 적용할 수 있는지를 살펴보는 방식이다. 단순히 기술을 도입하는 데 그치지 않고 실제...",
+          "src": "press9",
           "date": "08/14",
-          "url": "https://www.ekn.kr/web/view.php?key=20260814027052918",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260814.509fd6546413410c8d86ce8476ccddcd_R.png"
+          "url": "http://www.press9.kr/news/articleView.html?idxno=81163",
+          "img": "http://www.press9.kr/news/thumbnail/202608/81163_93599_4831_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "엔비디아 '파인만' AI 반도체 양산 서두르나, 삼성전자 SK하이닉스 HBM 경...",
+          "desc": "비롯한 협력사를 재촉하고 있는 것으로 파악된다. 삼성전자 HBM4E 고대역폭 메모리 홍보용 이미지.... HBM은 인공지능 반도체의 연산 성능 효율을 높이는 데 기여하는 핵심 메모리반도체 부품이다. 삼성전자와 SK하이닉스...",
+          "src": "비즈니스포스트",
+          "date": "08/14",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444814",
+          "img": ""
+        },
+        {
+          "title": "구광모-젠슨 황 동맹…\"차세대 휴머노이드 내년 공개\"",
+          "desc": "얻으려면 협력사가 필요한데, LG를 최적의 파트너로 꼽은 겁니다. 먼저 4분기에 미국 테네시 공장에서 LG... 흥미로운 것은 로봇 분야에서는 현대차, 전장에서는 삼성전자의 자회사 하만과 경쟁사가 된다는 점입니다....",
+          "src": "wowtv",
+          "date": "08/14",
+          "url": "https://n.news.naver.com/mnews/article/215/0001262415?sid=101",
+          "img": "https://img.wowtv.co.kr/vodimg/E20260814/P384320260814000085894-000.png"
+        },
         {
           "title": "레노버 매출 급증 비결로 '중국 메모리반도체' 지목, 한국과 미국 공급...",
           "desc": "검토하며 삼성전자와 SK하이닉스, 마이크론에 의존을 낮추는 계기가 될 수 있다. 윈스턴 청 레노버 최고재무책임자(CFO)는 14일 블룸버그TV와 인터뷰에서 \"대규모 부품 조달 역량과 차별화된 제품 및 서비스가 경쟁 우위로...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/088/0001023559?sid=101",
           "img": "https://www.imaeil.com/photos/2026/08/13/2026081315504241903_l.jpg"
-        },
-        {
-          "title": "[ET톡] 히트펌프, 새로운 블루오션으로 키우자",
-          "desc": "삼성전자와 LG전자 기술 경쟁은 기술 상향 평준화를 이끌고, 정부가 2035년까지 히트펌프 350만대 보급을 목표로 내건 정책 드라이브와 맞물려 협력사 및 배관·부품 인프라 생태계를 단단하게 만드는 자양분이 될 것이다....",
-          "src": "전자신문",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": ""
-        },
-        {
-          "title": "[데스크라인]함께 가야 멀리 가죠",
-          "desc": "지난 11일 삼성전자와 SK하이닉스 등 종합반도체기업(IDM) 2개사, 세메스, 램리서치, 원익IPS 등 국내외 대형 장비제조 5개사, 원익큐엔시, 월덱스 등 국내 소재·부품 기업 23개사가 구미 테크노밸리에 모였다. 형식은 기술...",
-          "src": "전자신문",
-          "date": "08/13",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "대만 반도체기업 난야, 남부지역 산단에 D램 공장 건설 추진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320960?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/01.45339487.1.png"
+      "title": "장병 오가는 용산역에 '군장점' 열었다…신한은행, 병사부터 간부까지 ...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200809",
+      "img": "https://www.thevaluenews.co.kr/data/cheditor4/2608/a531b7dc1eee014fa11ec11ea693ffb01b54098c.png"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "로보틱스 존재감 희미했던 LG 구광모, 엔비디아 손잡고 2027년 1분기 휴머...",
+      "title": "LG 구광모 엔비디아 손잡고 2027년 1분기 휴머노이드 로봇 공개 : 로보틱...",
       "url": "https://www.huffingtonpost.kr/article/259581",
       "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608148090.jpg?v=259581"
     },
     {
-      "title": "대한항공, 생성형 AI로 항공기 정비 데이터 분석…'디지털 정비' 본격화",
-      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133598",
-      "img": "https://cdn.e-science.co.kr/news/photo/202608/133598_65982_458.jpg"
+      "title": "뷰노, 상반기 매출 122억…딥카스 104억·하티브 성장",
+      "url": "https://n.news.naver.com/mnews/article/421/0009115006?sid=103",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/14/8056921/high.jpg"
     },
     {
-      "title": "SK네트웍스 2분기 영업익 248억 ‘42%↓’…AI 투자이익에 순익 90%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684099?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.7f74bd0a48774413b458911cfcad87c0_T1.jpg"
+      "title": "현대차그룹-육군-산업부, '로봇·피지컬 AI' 국방 분야 도입 추진",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=116348",
+      "img": "https://cdn.newsdream.kr/news/thumbnail/202608/116348_89027_4726_v150.jpg"
     }
   ]
 };
