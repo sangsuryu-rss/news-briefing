@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 11:47",
+  "updatedAt": "2026.08.14 (금) 14:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
-          "desc": "삼성전자와 애플 중심이던 단말기 판매에서 벗어나 모토로라의 39만원대 중저가폰을 전국 매장에 공급하고... 롯데하이마트가 모바일 사업을 강화하는 것은 기존 가전 판매만으로는 성장에 한계가 있다는 판단도 깔려...",
-          "src": "4th",
+          "title": "대만 반도체기업 난야, 남부지역 산단에 D램 공장 건설 추진",
+          "desc": "삼성전자, SK하이닉스 등 선두 기업이 수익성이 높은 고대역폭메모리(HBM) 생산에 설비를 집중하며 상대적으로 일반 가전과 정보기술(IT) 기기에 들어가는 범용 D램의 공급이 줄어든 게 이유다. 지난 27일 대만...",
+          "src": "한국경제",
           "date": "08/14",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2116368",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116368_213646_4448_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005320960?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/01.45339487.1.png"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "구광모, 젠슨 황과 AI 동맹 본격화…LG. 내년 휴머노이드 공개",
-          "desc": "올해 안에 바퀴로 이동하는 휠 베이스 형태의 'LG 클로이드(CLOiD)'를 LG전자 미국 테네시 공장 세탁기... 삼성전자와 SK그룹, 현대차그룹 등도 엔비디아와 대규모 GPU 기반 AI 인프라 구축 및 제조·모빌리티 분야 협력을...",
-          "src": "4th",
+          "title": "로보틱스 존재감 희미했던 LG 구광모, 엔비디아 손잡고 2027년 1분기 휴머...",
+          "desc": "보스턴다이나믹스와 레인보우로보틱스를 앞세운 현대차나 삼성전자에 비해 LG 로봇 사업의 존재감은... LG그룹은 올해 안에 휠 베이스 형태의 LG 클로이드를 LG전자 미국 테네시 공장 세탁기 생산라인에 투입해 실제...",
+          "src": "huffingtonpost",
           "date": "08/14",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2116357",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116357_213635_178_v150.jpg"
+          "url": "https://www.huffingtonpost.kr/article/259581",
+          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608148090.jpg?v=259581"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "포스코DX, 상반기 영업익 전년比 66% ↓…\"AI 투자 확대로 하반기 반등 ...",
-          "desc": "승인하며 AI 전환 전략을 본격화했다. 이를 위해 사무 업무를 비롯해 제철소와 제조 현장에도 AI를 도입해... 베트남 해외 개발센터(ODC)를 활용한 AI 기반 개발 프로세스를 정착시키고, 외부 기술 파트너십 확대와...",
-          "src": "ZDNet코리아",
+          "title": "대한항공, 생성형 AI로 항공기 정비 데이터 분석…'디지털 정비' 본격화",
+          "desc": "정보의 활용 범위를 넓혔다. 기술적으로 가장 큰 특징은 생성형 AI 기반 자연어 검색과 비정형 데이터 처리다.... 대한항공은 신규 시스템 도입으로 정비 현장에서 기술 정보를 검색하고 분석하는 데 필요한 시간을 줄이는...",
+          "src": "e-science",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434007?sid=105",
-          "img": "https://image.zdnet.co.kr/2024/10/30/aec040fa14ac4fd40674b779d6eb973d.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133598",
+          "img": "https://cdn.e-science.co.kr/news/photo/202608/133598_65982_458.jpg"
         },
         {
-          "title": "[BIC 2026] \"버프 유어 인디 스피릿\"…역대 최대 규모로 막 올렸다",
-          "desc": "이어 AI 활용에 대해 \"AI 도입으로 아이디어를 게임으로 구현하는 속도는 빨라졌지만, AI가 흥행작을 대신... 기술의 변화 속에서도 독창성을 무기로 한 세계 인디 개발자들의 뜨거운 도전은 오는 16일까지 부산 벡스코...",
-          "src": "pointe",
+          "title": "SK네트웍스 2분기 영업익 248억 ‘42%↓’…AI 투자이익에 순익 90%↑",
+          "desc": "(RAG) 기술을 활용한 생성형 AI 신약개발 솔루션 ‘케이론’을 개발했다. 최근에는 미국 실리콘밸리... 인크로스는 AI 콘텐츠 마케팅 플랫폼 ‘스텔라이즈’와 멀티 AI 에이전트 ‘아이노바’를 업무에 도입했고...",
+          "src": "헤럴드경제",
           "date": "08/14",
-          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83228",
-          "img": "https://cdn.pointe.co.kr/news/photo/202608/83228_112819_3217.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002684099?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.7f74bd0a48774413b458911cfcad87c0_T1.jpg"
         },
         {
-          "title": "의정부시의회, ‘조례 사전검토·입안 지원 AI 챗봇’ 활용 정책지원관...",
-          "desc": "생성형 AI 기반의 ‘조례 입안·검토 지원 챗봇’을 도입하고 전문 인력 역량 강화에 나섰다. 의정부시의회... 첨단 기술을 적극 활용해 입법 전문성을 지속적으로 끌어올리겠다”라고 전했다. 의정부시의회는 향후 해당 AI...",
-          "src": "dnews",
+          "title": "에이전틱·피지컬AI '윤리원칙' 이달 제정…연성규범으로 AI기본사회 대...",
+          "desc": "“AI 기술이 빠르게 변화하는 상황에서 AI 개발·활용 과정의 판단이 한층 복잡해지고 있다”며... 이 교수는 이어 “국제적으로 합의된 기준을 적극 도입해 제도의 예측 가능성을 높이는 것이 산업 효율성과 윤리적...",
+          "src": "이데일리",
           "date": "08/14",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608140954586950072",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/14/202608140954586950072-2-684122.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006351879?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081401250.jpg"
         },
         {
-          "title": "한솔PNS, 제조IT 솔루션 7종 저작권 확보…AI 기술도 특허 출원",
-          "desc": "한솔PNS가 자체 개발한 제조IT 솔루션과 인공지능(AI) 플랫폼 기술의 지식재산권 확보에 나서며 제조 AX... AX 도입을 돕는다. 한솔PNS 관계자는 \"한솔PNS의 제조IT 솔루션은 최근 해외 사업장 등에 적용되며 글로벌...",
-          "src": "mdtoday",
+          "title": "삼성SDS ‘브리티웍스’, 중앙부처 9곳 도입… 정부 AI 행정혁신 가속",
+          "desc": "보안 기술과 함께 국가정보원 최고 보안 수준인 '상'등급을 획득한 민관협력형(PPP) 클라우드 환경에서 운영된다. 이에 따라 중앙부처와 공공기관은 보안 유출 우려 없이 안전하게 생성형 AI를 업무에 도입할 수 있다....",
+          "src": "ekn",
           "date": "08/14",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=608490",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202608/608490_309439_3855.png"
+          "url": "https://www.ekn.kr/web/view.php?key=20260814027052918",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260814.509fd6546413410c8d86ce8476ccddcd_R.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "레노버 매출 급증 비결로 '중국 메모리반도체' 지목, 한국과 미국 공급...",
+          "desc": "검토하며 삼성전자와 SK하이닉스, 마이크론에 의존을 낮추는 계기가 될 수 있다. 윈스턴 청 레노버 최고재무책임자(CFO)는 14일 블룸버그TV와 인터뷰에서 \"대규모 부품 조달 역량과 차별화된 제품 및 서비스가 경쟁 우위로...",
+          "src": "비즈니스포스트",
+          "date": "08/14",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444798",
+          "img": ""
+        },
         {
           "title": "환경규제 맞추다 매출 끊긴 협력사…\"공급망 영향평가 필요\"",
           "desc": "반도체 제조업이 통합환경허가 대상에 포함되면서 삼성전자, SK하이닉스 등 대기업은 대기오염방지시설을 고효율 설비로 바꾸고 부품도 내식성과 내열성이 강화된 사양으로 교체했다. 반면 중소 협력사는 대응력이...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457250?sid=101",
-          "img": "https://img.etnews.com/news/article/2023/05/19/news-p.v1.20230519.b7c6b0b9685349fbba4322d2d5c720c6_P3.jpg"
+          "img": ""
         },
         {
           "title": "[데스크라인]함께 가야 멀리 가죠",
@@ -122,15 +130,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/13",
           "url": "https://n.news.naver.com/mnews/article/030/0003457105?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.462c8bb80d0449018575fbe52ddbdf4a_P1.jpg"
-        },
-        {
-          "title": "PS일렉트로닉스·삼성전기 주가 불기둥... 갤럭시 부품주에 무슨 이슈 있...",
-          "desc": "고부가 부품을 공급하는 협력사에 대한 관심도 높아지고 있다. 스마트폰의 고사양화가 이어지면서... 기판·부품 관련주도 매수세가 이어지고 있다. 삼성전자, 한솔테크닉스, 이녹스첨단소재, 시노펙스 등 스마트폰용...",
-          "src": "핀포인트뉴스",
-          "date": "08/13",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477011",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477011_464001_948_v150.jpg"
+          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116368",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116368_213646_4448_v150.jpg"
+      "title": "대만 반도체기업 난야, 남부지역 산단에 D램 공장 건설 추진",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320960?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/01.45339487.1.png"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "구광모, 젠슨 황과 AI 동맹 본격화…LG. 내년 휴머노이드 공개",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116357",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116357_213635_178_v150.jpg"
+      "title": "로보틱스 존재감 희미했던 LG 구광모, 엔비디아 손잡고 2027년 1분기 휴머...",
+      "url": "https://www.huffingtonpost.kr/article/259581",
+      "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608148090.jpg?v=259581"
     },
     {
-      "title": "포스코DX, 상반기 영업익 전년比 66% ↓…\"AI 투자 확대로 하반기 반등 ...",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434007?sid=105",
-      "img": "https://image.zdnet.co.kr/2024/10/30/aec040fa14ac4fd40674b779d6eb973d.jpg"
+      "title": "대한항공, 생성형 AI로 항공기 정비 데이터 분석…'디지털 정비' 본격화",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133598",
+      "img": "https://cdn.e-science.co.kr/news/photo/202608/133598_65982_458.jpg"
     },
     {
-      "title": "[BIC 2026] \"버프 유어 인디 스피릿\"…역대 최대 규모로 막 올렸다",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83228",
-      "img": "https://cdn.pointe.co.kr/news/photo/202608/83228_112819_3217.jpg"
+      "title": "SK네트웍스 2분기 영업익 248억 ‘42%↓’…AI 투자이익에 순익 90%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684099?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.7f74bd0a48774413b458911cfcad87c0_T1.jpg"
     }
   ]
 };
