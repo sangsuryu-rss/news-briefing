@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 18:29",
+  "updatedAt": "2026.08.14 (금) 20:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 상반기 메모리 구입액만 5조원…원재료 부담 4.9조↑",
-          "desc": "(사진=연합뉴스) 삼성전자가 14일 공시한 반기보고서에 따르면 올해 상반기(1~6월) 삼성전자는 원재료 매입액으로 55조8338억원을 사용했다. 이는 전년 동기보다 4조9039억원(9.6%) 증가한 수치다. 부문별로는 생활가전...",
-          "src": "이데일리",
+          "title": "삼성전자 개미주주 800만명 역대 최고 수준…1년 전보다 300만명 늘었다",
+          "desc": "반도체 가격 상승 속에서 삼성전자의 올해 상반기 원재료 매입액이 55조8천300억원 수준을 기록했다. 1년 전보다 5조원 가까이 증가한 수준이다. 스마트폰과 생활가전 등 완제품을 담당하는 디바이스경험 부문의 원재료...",
+          "src": "news",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006352172?sid=100",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081401764.jpg"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430285",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430285_337116_172_v150.jpg"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -45,7 +45,7 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
         },
         {
-          "title": "삼성·LG 휴머노이드 '비밀병기' 내년에 나온다…불붙은 선점 경쟁",
+          "title": "삼성·LG '비밀병기' 맞붙는다…내년 휴머노이드 정면승부",
           "desc": "LG전자의 가정용 로봇 'LG 클로이드'를 연내 미국 테네시 공장 세탁기 생산라인에 투입해 PoC(기술 검증)를... 삼성전자도 대표이사 직속 'RX(Robotics eXperience) 사업추진실'을 중심으로 휴머노이드 고도화에 착수했다....",
           "src": "머니투데이",
           "date": "08/14",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이해민, 'AI 기본사회법' 발의…고용대체 기업에 분담금",
-          "desc": "특히 정부가 AI와 자동화 기술 도입으로 근로자 고용이나 업무 대체에 상당한 영향을 미치는 사업자에게 'AI... 분담금은 'AI 기반 산업전환 대응을 위한 기본사회 지원기금' 재원으로 활용한다. 다만 AI 전환 과정에서도...",
-          "src": "digitaltoday",
+          "title": "소진공, 지능정보화위원회 출범…AI 전환 과제 논의",
+          "desc": "지능정보화위원회는 인공지능과 데이터, 디지털 기술 변화에 대응하고 중장기 지능정보화 정책과 인공지능... 또 주요 지능정보화 과제의 추진 현황과 성과를 점검하고 AI 도입·활용 기준, 데이터 거버넌스, 정보보안...",
+          "src": "lawissue",
           "date": "08/14",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693298",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693298_641170_334.jpg"
+          "url": "http://www.lawissue.co.kr/view.php?ud=202608141931517463f4ab64559d_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260814193241075630f4ab64559d6173123176.jpg&nmt=12"
         },
         {
-          "title": "삼성·LG 휴머노이드 '비밀병기' 내년에 나온다…불붙은 선점 경쟁",
-          "desc": "양사 협력의 핵심은 휴머노이드로 대표되는 '피지컬 AI'이다. LG 계열사의 기술 역량과 엔비디아의 AI... 여기에 엔비디아의 '아이작 그루트(Isaac GR00T)', '헤일로스 포 로보틱스(Halos for Robotics)', '젯슨 토르'를 활용해...",
-          "src": "머니투데이",
+          "title": "현대차그룹-육군-산업부, 피지컬 AI 국방 도입 '맞손'",
+          "desc": "도입한다. 인구 구조 변화에 따른 병력 자원 감소에 대응하고, 장병의 안전과 군 지원 업무 효율성을 높인다는 구상이다. 현대차그룹은 14일 충남 계룡시 육군본부에서 육군, 산업부와 '로봇·피지컬 AI 및 첨단기술 활용...",
+          "src": "전자신문",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/008/0005400445?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457639?sid=103",
+          "img": ""
         },
         {
-          "title": "AI 열풍 탄 샌디스크 “잉여현금 100% 주주환원”",
-          "desc": "사업에 필요한 투자를 집행한 뒤 남은 현금은 전액 주주 환원에 활용하겠다고 선언하며 강한 자신감을... 샌디스크는 HBF 기술을 적용한 첫 메모리 다이(반도체 칩)의 설계를 완료(테이프아웃)했으며 내년 AI 추론...",
-          "src": "서울경제",
+          "title": "SK네트웍스, AI 투자 성과로 실적 방어 … 영업이익은 뒷걸음",
+          "desc": "RAG 기술을 적용한 국내 최초의 생성형 AI 신약개발 솔루션 '케이론'을 서비스하고 있다. 최근에는... 웰니스 로봇 브랜드 '나무엑스'는 자율주행과 비전 AI를 활용해 침입자를 감지하는 '세이프 케어'와 원격 모니터링...",
+          "src": "worktoday",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/011/0004651947?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/14/news-p.v1.20260814.771f16f9a65f40489aa1e48ec5a0b622_R.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87995",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/87995_126718_2349_v150.jpg"
         },
         {
-          "title": "[게임뉴스] 컴투스 및 플레이위드코리아 소식 외",
-          "desc": "탑재형 AI 비서 C.R.I.S.S.I.와 예측 기술 '퀀텀 슬리트(Quantum Sleet)'를 이용하면 앞으로 벌어질 수 있는 상황을... 조합을 활용한 전략적인 전투를 즐길 수 있다. 글로벌 정식 출시를 기념한 다양한 이벤트도 진행한다. SSR...",
-          "src": "gamevu",
+          "title": "[과기원NOW] 윤인수 KAIST 교수와 학생·동문 해킹팀, 국제해킹대회 준우...",
+          "desc": "발광 분자 자체에 카이랄성을 새로 도입하지 않고 주변 구조의 배열만으로 빛의 편광 특성을 제어한 것으로 차세대 디스플레이와 증강현실(AR)·가상현실(VR), 편광 센서, 광통신 등에 활용될 것으로 기대된다.",
+          "src": "dongascience",
           "date": "08/14",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60022",
-          "img": "https://cdn.gamevu.co.kr/news/photo/202608/60022_88622_1158.png"
+          "url": "https://n.news.naver.com/mnews/article/584/0000038917?sid=105",
+          "img": "http://img.dongascience.com/dotcom-og.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 상반기 메모리 구입액만 5조원…원재료 부담 4.9조↑",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352172?sid=100",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081401764.jpg"
+      "title": "삼성전자 개미주주 800만명 역대 최고 수준…1년 전보다 300만명 늘었다",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430285",
+      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430285_337116_172_v150.jpg"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761312_316549_724_v150.jpg"
     },
     {
-      "title": "삼성·LG 휴머노이드 '비밀병기' 내년에 나온다…불붙은 선점 경쟁",
+      "title": "삼성·LG '비밀병기' 맞붙는다…내년 휴머노이드 정면승부",
       "url": "https://n.news.naver.com/mnews/article/008/0005400445?sid=101",
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
-      "title": "이해민, 'AI 기본사회법' 발의…고용대체 기업에 분담금",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693298",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693298_641170_334.jpg"
+      "title": "소진공, 지능정보화위원회 출범…AI 전환 과제 논의",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608141931517463f4ab64559d_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260814193241075630f4ab64559d6173123176.jpg&nmt=12"
     },
     {
-      "title": "삼성·LG 휴머노이드 '비밀병기' 내년에 나온다…불붙은 선점 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400445?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
+      "title": "SK네트웍스, AI 투자 성과로 실적 방어 … 영업이익은 뒷걸음",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87995",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/87995_126718_2349_v150.jpg"
     }
   ]
 };
