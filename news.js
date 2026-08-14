@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 02:13",
+  "updatedAt": "2026.08.15 (토) 04:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -26,7 +26,7 @@ window.NEWS_DATA = {
           "src": "newstown",
           "date": "08/14",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
+          "img": "http://www.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
         },
         {
           "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -66,7 +66,7 @@ window.NEWS_DATA = {
           "src": "breaknews",
           "date": "08/15",
           "url": "http://www.breaknews.com/1229240",
-          "img": ""
+          "img": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202608/2026081526338405.jpg"
         },
         {
           "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
@@ -82,7 +82,7 @@ window.NEWS_DATA = {
           "src": "kmib",
           "date": "08/15",
           "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
-          "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
+          "img": ""
         },
         {
           "title": "美, 동남아 에너지·AI 인프라에 25억달러 투자…역대 최대 규모",
@@ -179,7 +179,7 @@ window.NEWS_DATA = {
     {
       "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
+      "img": "http://www.newstown.co.kr/news/thumbnail/202608/712527_667270_2714_v150.jpg"
     },
     {
       "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
+      "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
+      "url": "http://www.breaknews.com/1229240",
+      "img": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202608/2026081526338405.jpg"
+    },
+    {
       "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
       "url": "https://n.news.naver.com/mnews/article/015/0005321171?sid=110",
       "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
-    },
-    {
-      "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
-      "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
     }
   ]
 };
