@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.14 (금) 20:09",
+  "updatedAt": "2026.08.14 (금) 22:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "소진공, 지능정보화위원회 출범…AI 전환 과제 논의",
-          "desc": "지능정보화위원회는 인공지능과 데이터, 디지털 기술 변화에 대응하고 중장기 지능정보화 정책과 인공지능... 또 주요 지능정보화 과제의 추진 현황과 성과를 점검하고 AI 도입·활용 기준, 데이터 거버넌스, 정보보안...",
-          "src": "lawissue",
+          "title": "솔트룩스, 상반기 연결 매출 전년비 60%↑",
+          "desc": "지식관리 기술을 결합해 기업용 AI 사업을 확대하고 있다. 그룹사가 보유한 온톨로지 관련 특허는 총 39건이다. 이를 기반으로 기업 내부에 분산된 데이터와 지식을 구조화해 검색·분석·업무 수행에 활용하는...",
+          "src": "디지털타임스",
           "date": "08/14",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202608141931517463f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260814193241075630f4ab64559d6173123176.jpg&nmt=12"
+          "url": "https://n.news.naver.com/mnews/article/029/0003042460?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/14/news-p.v1.20260814.df27a728916e409f90fc11941a28c54e_R.jpeg"
         },
         {
-          "title": "현대차그룹-육군-산업부, 피지컬 AI 국방 도입 '맞손'",
-          "desc": "도입한다. 인구 구조 변화에 따른 병력 자원 감소에 대응하고, 장병의 안전과 군 지원 업무 효율성을 높인다는 구상이다. 현대차그룹은 14일 충남 계룡시 육군본부에서 육군, 산업부와 '로봇·피지컬 AI 및 첨단기술 활용...",
-          "src": "전자신문",
+          "title": "설비 가동률 84%를 89%로 높인다…아이브이웍스가 GaN 생산의 자율공정...",
+          "desc": "아이브이웍스는 지난 2019년부터 화합물 반도체 소재 생산에 AI를 도입한 스마트 공장 시스템 ‘DOMM(돔)’을... Automation) 기술도 포함됐다. 회사가 제시한 단계 기준으로는 AI 정량 계측이 레벨 1·2, AI 판단 기반 공정과...",
+          "src": "venturesquare",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457639?sid=103",
-          "img": ""
+          "url": "https://www.venturesquare.net/1106329/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/III.png"
         },
         {
-          "title": "SK네트웍스, AI 투자 성과로 실적 방어 … 영업이익은 뒷걸음",
-          "desc": "RAG 기술을 적용한 국내 최초의 생성형 AI 신약개발 솔루션 '케이론'을 서비스하고 있다. 최근에는... 웰니스 로봇 브랜드 '나무엑스'는 자율주행과 비전 AI를 활용해 침입자를 감지하는 '세이프 케어'와 원격 모니터링...",
-          "src": "worktoday",
+          "title": "부산항만공사, 현대차와 전기차 충전·태양광 기술 부산항 적용 논의",
+          "desc": "다만 구체적인 시설 구축이나 기술 도입이 확정된 단계는 아니며 향후 개념검증을 거쳐 사업화 가능성을 살필 예정이다. 부산항만공사는 14일 부산항만공사 사옥에서 현대자동차 제로원 스타트업과 '부산항 AI 스마트항만...",
+          "src": "newstown",
           "date": "08/14",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87995",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/87995_126718_2349_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712519",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712519_667261_553_v150.jpg"
         },
         {
-          "title": "[과기원NOW] 윤인수 KAIST 교수와 학생·동문 해킹팀, 국제해킹대회 준우...",
-          "desc": "발광 분자 자체에 카이랄성을 새로 도입하지 않고 주변 구조의 배열만으로 빛의 편광 특성을 제어한 것으로 차세대 디스플레이와 증강현실(AR)·가상현실(VR), 편광 센서, 광통신 등에 활용될 것으로 기대된다.",
-          "src": "dongascience",
+          "title": "항암제 급여 기준, AI가 원문 공고까지 찾아준다…크립토랩이 CLIC을 출...",
+          "desc": "환자 이름과 차트번호 등 개인정보를 입력하지 않아도 공개된 기준을 검색할 수 있어 초기 도입 과정에서... 동형암호 기술을 바탕으로 민감한 의료 데이터를 안전하게 활용할 수 있는 병원 AI의 기반을 마련하겠다”...",
+          "src": "venturesquare",
           "date": "08/14",
-          "url": "https://n.news.naver.com/mnews/article/584/0000038917?sid=105",
-          "img": "http://img.dongascience.com/dotcom-og.png"
+          "url": "https://www.venturesquare.net/1106290/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/image-2026-08-14T213048.727.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
-      "title": "소진공, 지능정보화위원회 출범…AI 전환 과제 논의",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202608141931517463f4ab64559d_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260814193241075630f4ab64559d6173123176.jpg&nmt=12"
+      "title": "솔트룩스, 상반기 연결 매출 전년비 60%↑",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042460?sid=105",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/14/news-p.v1.20260814.df27a728916e409f90fc11941a28c54e_R.jpeg"
     },
     {
-      "title": "SK네트웍스, AI 투자 성과로 실적 방어 … 영업이익은 뒷걸음",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87995",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/87995_126718_2349_v150.jpg"
+      "title": "설비 가동률 84%를 89%로 높인다…아이브이웍스가 GaN 생산의 자율공정...",
+      "url": "https://www.venturesquare.net/1106329/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/III.png"
     }
   ]
 };
