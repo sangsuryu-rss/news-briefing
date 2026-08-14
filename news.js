@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 00:08",
+  "updatedAt": "2026.08.15 (토) 02:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "대전시, 전국 최초 ‘청년공간 인공지능 전환(AX)’ 시범 가동",
+          "desc": "이번 사업은 청년들의 AI 활용 장벽을 낮추고, 경제적 여건에 따른 기술 접근성... 개인별 유료 구독비를 보조하는 방식 대신 기관 단위 통합 API 종량제를 도입함으로...",
+          "src": "breaknews",
+          "date": "08/15",
+          "url": "http://www.breaknews.com/1229240",
+          "img": ""
+        },
+        {
+          "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
+          "desc": "국가교육위원회가 대입 수능에 서술·논술형 평가를 도입하는 방안을 놓고 국민 의견 수렴에 속도를 내고... 국교위는 AI를 활용해 해결할 수 있다는 입장이다. 하지만 객관식 문항에서도 출제 오류 논란이 반복되는...",
+          "src": "한국경제",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/015/0005321171?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
           "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
           "desc": "몸에 착용할 수 있는 AI 기반 웨어러블 기기를 활용한 부정행위 사례도 있다. 영국과 한국에서는 최근... 문제는 AI를 이용한 부정행위를 잡기 위해 도입한 기술 역시 완벽하지 않다는 점이다. AI 탐지 프로그램이 사람이...",
           "src": "kmib",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/15",
           "url": "https://www.theguru.co.kr/news/article.html?no=105786",
           "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866065092458_d076cb.jpg"
-        },
-        {
-          "title": "어르신 챙기고 화재 예방까지…일 잘하는 우리 동네 'AI 공무원'",
-          "desc": "재래시장·공중 화장실에 AI 도입 AI 서비스로 취약계층 모니터링 서울시가 행정 전반에 인공지능(AI) 활용을... 해당 시스템은 열원 감지와 AI 기반 동작 인식 기술을 활용해 불법촬영 위험을 24시간 감지하는 방식이다....",
-          "src": "더팩트",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/629/0000524793?sid=102",
-          "img": "https://img.tf.co.kr/article/home/2026/08/12/20264229178671304600.jpg"
-        },
-        {
-          "title": "이더리움, 단순 코인 넘어 '블록체인 인프라'로…업그레이드·ETF 스테이...",
-          "desc": "이더리움과 리플 자료사진.AI가 생성.  암호화폐 시장에서 이더리움(ETH)을 바라보는 시선이 다시 기술과... 안에서 활용할 가능성이 생긴다. 다만 이 같은 구조가 실제로 본격 도입될지는 규제기관의 판단에 달려 있다....",
-          "src": "cbci",
-          "date": "08/15",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=598443",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/598443_410357_3625_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=711,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081413350648905_1.jpg"
     },
     {
+      "title": "[사설] '서술·논술형 수능' 국교위도 혼란…형식적 여론 수렴 안 된다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321171?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+    },
+    {
       "title": "스마트안경 쓰고 인이어 끼고… 전 세계 학교 ‘AI 부정’ 몸살",
       "url": "https://n.news.naver.com/mnews/article/005/0001866973?sid=104",
       "img": "https://image.kmib.co.kr/online_image/2026/0815/01100201.20260814500584.jpg"
-    },
-    {
-      "title": "美, 동남아 에너지·AI 인프라에 25억달러 투자…역대 최대 규모",
-      "url": "https://www.theguru.co.kr/news/article.html?no=105786",
-      "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866065092458_d076cb.jpg"
     }
   ]
 };
