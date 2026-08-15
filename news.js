@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 01:42",
+  "updatedAt": "2026.08.16 (일) 03:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,12 +61,28 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[신간] 플랫폼 병원",
+          "desc": "저자는 플랫폼 병원을 환자, 의료진, 기술 개발자, 외부 연구기관과 정제된 의료 데이터가 물리적 공간... 전략적으로 활용해 문제를 해결하는 방식이다. 저자는 병원이 병상 수 확대나 고가 장비 도입 등 물리적 외형...",
+          "src": "medigatenews",
+          "date": "08/16",
+          "url": "https://www.medigatenews.com/news/1177110604",
+          "img": "https://medigatenews.com/file/news/517556"
+        },
+        {
+          "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
+          "desc": "◇화석연료 비판하던 머스크, AI 전력은 가스로 머스크는 오랫동안 화석연료를 대체하는 기술을 자신의... 필요한 AI 전력을 확보하는 과정에서는 천연가스를 적극적으로 활용하고 있다는 점이다. 전기차를 앞세워...",
+          "src": "g-enews",
+          "date": "08/16",
+          "url": "https://www.g-enews.com/view.php?ud=2026081520342558409a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260815203806070409a1f30943117511616074.jpg"
+        },
+        {
           "title": "\"시니어분들, 환영합니다\" 건설사마다 초고령화 사회 맞춤 주거 경쟁",
           "desc": "AI 활용해 시니어 건강 관리 서비스 아파트 내 의료-웰니스 프로그램 도입  건설사들이 초고령사회에 맞춰... 이번 협약을 통해 시니어 주택 사업 모델 개발을 위한 협력 체계를 구축하고 관련 기술과 정보 교류를...",
           "src": "더구루",
           "date": "08/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=105839",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866821292346_757191.jpg"
         },
         {
           "title": "화성도시공사, AI로 바우처택시 부정 운행 막는다…넥스아이씨티와 협약",
@@ -74,23 +90,7 @@ window.NEWS_DATA = {
           "src": "newstown",
           "date": "08/15",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712594",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
-        },
-        {
-          "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
-          "desc": "예산으로 이어지는 대목은 'AI 기본계획' 조항이다. 올해 나온 조례안 상당수가 기본계획에 담을 항목으로 '정책 실행을 위한 재원 조달'이나 '기술 도입을 위한 재원 확보 방안'을 적어놨다. 계획에 재원 항목을 넣도록...",
-          "src": "디지털데일리",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/138/0002237959?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/05/08/2026050811371849428_l.jpg"
-        },
-        {
-          "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
-          "desc": "특별상은 지난 6월 Team Human, Cursor와 함께 개최한 'Cursor Hackathon Seoul vol.3'에서 처음 도입됐다. 당시에는... 서울 AI 허브는 실제 구현 결과, 기술 활용성, 창의성, 향후 발전 가능성 등을 종합적으로 고려해 우수...",
-          "src": "핀포인트뉴스",
-          "date": "08/15",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
+          "img": "http://www.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "화성도시공사, AI로 바우처택시 부정 운행 막는다…넥스아이씨티와 협약",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712594",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
+      "title": "[신간] 플랫폼 병원",
+      "url": "https://www.medigatenews.com/news/1177110604",
+      "img": "https://medigatenews.com/file/news/517556"
     },
     {
-      "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237959?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/05/08/2026050811371849428_l.jpg"
+      "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
+      "url": "https://www.g-enews.com/view.php?ud=2026081520342558409a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260815203806070409a1f30943117511616074.jpg"
     }
   ]
 };
