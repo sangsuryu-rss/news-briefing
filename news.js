@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 12:06",
+  "updatedAt": "2026.08.15 (토) 13:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[2026 ESG] 친환경도 매출로 증명…건설사 '녹색매출' 현대 1위·GS 최저",
-          "desc": "이 중 녹색분류체계(Taxonomy, 택소노미) 등을 활용해 친환경·지속가능 사업에서 발생한 매출을 별도로... 현대건설 관계자는 \"현대건설은 글로벌 ESG 기준을 선도적으로 도입하기 위해 EU 택소노미 기준 적용했다\"며...",
-          "src": "아시아타임즈",
+          "title": "K-산업·방산·건설, 글로벌 영토 확장과 첨단 기술 융합에 속도낸다",
+          "desc": "현대차그룹은 14일 충남 계룡시 육군본부에서 육군, 산업통상자원부와 '로봇·피지컬 AI 및 첨단기술 활용... 이번 협약은 병력 자원 감소와 자동화 수요 증가에 대응해 국방 분야의 지능화 기술 도입을 촉진하기 위해...",
+          "src": "dailypop",
           "date": "08/15",
-          "url": "https://www.asiatime.co.kr/article/20260814500329",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/14/.cache/512/20260814500353.png"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101611",
+          "img": "http://www.dailypop.kr/news/thumbnail/202608/101611_168831_4811_v150.jpg"
         },
         {
-          "title": "[현장] 방문재활 필요성엔 한목소리···문제는 '누구에게·누가 책임지...",
-          "desc": "환자부터 도입하는 것이 맞다고 생각한다\"고 말했다. 동시에 기존 재활의료체계에서 빠지는 질병·사고 후... ☞원격지도= 의사가 정보통신기술(ICT)을 활용해 의료기관 밖에서 업무를 수행하는 의료기사의 업무를 원격으로...",
-          "src": "womaneconomy",
+          "title": "중부발전, 해외 발전소를 '수출 교두보'로…K-발전 생태계 해외 영토 넓...",
+          "desc": "중부발전은 협력기업의 수준에 맞춰 AI 실무교육과 비즈니스·정보기술(IT) 교육을 운영하고 있으며, 중소기업과 공동 개발한 'AI 누수 탐지 시스템'과 'AI 하역설비 감시시스템' 등을 실제 발전 현장에 도입하고 있다....",
+          "src": "newsprime",
           "date": "08/15",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257303",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257303_461929_387_v150.jpg"
+          "url": "http://www.newsprime.co.kr/news/article.html?no=744040",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_744040_1786750273.jpg"
         },
         {
-          "title": "\"이진숙 반드시 책임 져야\" \"이러려고 의원됐나\" 언론의 비판",
-          "desc": "문항 도입이 새로운 사교육을 불러올 수 있다는 국회 질의에 차정인 국가교육위원장이 12일 '시험 기술을... 지식 콘텐츠 스타트업 언더스코어가 생성형AI를 활용해 국내 주요 언론사 기사들을 이슈별로 비교한 뒤...",
-          "src": "mediatoday",
+          "title": "[ABC AI 국가대전환=조영훈 한국로봇산업진흥원장] AI가 몸을 얻는다…...",
+          "desc": "조 원장은 이 자리에서 \"제2작전사령부는 기술 강군 실현을 위한 피지컬 AI와 로봇 도입에 적극적인 만큼, 군 내 로봇 활용 수요를 발굴하고 현장에서 실질적으로 활용될 수 있도록 지원하겠다\"고 말했다. 핵심은...",
+          "src": "아주경제",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/006/0000137233?sid=102",
-          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336447_482199_2511_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260814101627942",
+          "img": "https://image.ajunews.com/content/image/2026/08/14/20260814103939252048.jpg"
         },
         {
-          "title": "현대차그룹-육군-산업부, 국방 '피지컬 AI' 협력…로봇 실증 나선다",
-          "desc": "(산업부)와 '로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)'을 체결했다고 밝혔다. 협약에 따라... 클러스터와 AI 데이터센터 등과 연계하는 방안도 모색한다. 다만 군 현장에 AI와 로봇을 실제 도입하기...",
-          "src": "econonews",
+          "title": "‘군웅할거’ AI 모델, ‘자본 경쟁’으로 선별 시동 [트럼프 스톡커]",
+          "desc": "브록먼 사장은 CRO 교체 배경에 대해 “기술을 도입하는 방식이 빠르게 변화하고 있다”며 “달리 CRO는 AI가 사람과 기업에 폭넓게 활용될 수 있도록 우리가 쌓은 경험을 실행력으로 전환할 것”이라고 기대했다....",
+          "src": "서울경제",
           "date": "08/15",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442870",
-          "img": "https://cdn.econonews.co.kr/news/thumbnail/202608/442870_373858_26_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004652070?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/15/news-p.v1.20260815.eeae1009348c421bb3116914bd3aabe4_R.png"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
     },
     {
-      "title": "[2026 ESG] 친환경도 매출로 증명…건설사 '녹색매출' 현대 1위·GS 최저",
-      "url": "https://www.asiatime.co.kr/article/20260814500329",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/14/.cache/512/20260814500353.png"
+      "title": "K-산업·방산·건설, 글로벌 영토 확장과 첨단 기술 융합에 속도낸다",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101611",
+      "img": "http://www.dailypop.kr/news/thumbnail/202608/101611_168831_4811_v150.jpg"
     },
     {
-      "title": "[현장] 방문재활 필요성엔 한목소리···문제는 '누구에게·누가 책임지...",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257303",
-      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257303_461929_387_v150.jpg"
+      "title": "중부발전, 해외 발전소를 '수출 교두보'로…K-발전 생태계 해외 영토 넓...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=744040",
+      "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_744040_1786750273.jpg"
     }
   ]
 };
