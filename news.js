@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 10:51",
+  "updatedAt": "2026.08.15 (토) 12:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차, 직원 80%가 AI 쓴다···AX 넘어 '피지컬 AI' 체질전환",
-          "desc": "2022년부터 지라(JIRA), 두레이(Dooray), 컨플루언스(Confluence) 등을 순차적으로 도입해 업무 진행 상황과... 반면 백오피스 등 조직 운영과 관련된 다운스트림 분야에서는 이미 성능이 검증된 외부 AI 기술을 활용한다는...",
-          "src": "sisajournal-e",
+          "title": "[2026 ESG] 친환경도 매출로 증명…건설사 '녹색매출' 현대 1위·GS 최저",
+          "desc": "이 중 녹색분류체계(Taxonomy, 택소노미) 등을 활용해 친환경·지속가능 사업에서 발생한 매출을 별도로... 현대건설 관계자는 \"현대건설은 글로벌 ESG 기준을 선도적으로 도입하기 위해 EU 택소노미 기준 적용했다\"며...",
+          "src": "아시아타임즈",
           "date": "08/15",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423069",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/423069_238397_2558_v150.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260814500329",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/14/.cache/512/20260814500353.png"
         },
         {
-          "title": "진료 넘어 기술·창업으로…서울성모병원 6년의 ‘플랫폼 병원’ 실험",
-          "desc": "확장현실(XR)을 활용한 교육 콘텐츠도 사업화됐다. 2024년 공모전 최우수상과 과학기술정보통신부 장관상을 받은 XR팀은 ㈜라온메타와 XR 기반 ‘실험동물 부검 실습 콘텐츠’를 공동 개발했다. AI 가상융합 실습...",
-          "src": "segye",
+          "title": "[현장] 방문재활 필요성엔 한목소리···문제는 '누구에게·누가 책임지...",
+          "desc": "환자부터 도입하는 것이 맞다고 생각한다\"고 말했다. 동시에 기존 재활의료체계에서 빠지는 질병·사고 후... ☞원격지도= 의사가 정보통신기술(ICT)을 활용해 의료기관 밖에서 업무를 수행하는 의료기사의 업무를 원격으로...",
+          "src": "womaneconomy",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/022/0004151135?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/14/20260814508668.png"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257303",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257303_461929_387_v150.jpg"
         },
         {
-          "title": "[인터뷰] 노원석 레코스 대표 \"디지털배지 넘어 '역량 데이터 인프라'로...",
-          "desc": "국내 대학과 공공기관이 국제표준 기반 디지털배지를 적극 도입하면서 한국은 아시아에서도 디지털배지가... 0과 VC, DID 기술에 AI가 결합하면서 개인이 자신의 데이터를 직접 보유하고 활용하는 진정한 시대가 열릴...",
-          "src": "아주경제",
+          "title": "\"이진숙 반드시 책임 져야\" \"이러려고 의원됐나\" 언론의 비판",
+          "desc": "문항 도입이 새로운 사교육을 불러올 수 있다는 국회 질의에 차정인 국가교육위원장이 12일 '시험 기술을... 지식 콘텐츠 스타트업 언더스코어가 생성형AI를 활용해 국내 주요 언론사 기사들을 이슈별로 비교한 뒤...",
+          "src": "mediatoday",
           "date": "08/15",
-          "url": "https://www.ajunews.com/view/20260814164424691",
-          "img": "https://image.ajunews.com/content/image/2026/08/14/20260814164622696960.png"
+          "url": "https://n.news.naver.com/mnews/article/006/0000137233?sid=102",
+          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336447_482199_2511_v150.jpg"
         },
         {
-          "title": "의정부시의회, 조례 검토용 AI 챗봇 도입",
-          "desc": "인공지능(AI) 챗봇을 도입했다. 향후 의원 입법 발의와 기존 조례 정비에도 활용할 계획이다. 시의회... 있도록 AI 활용 교육을 마련했다\"며 \"입법 지원 업무에 관련 기술을 적용해 전문성을 높이겠다\"고 말했다....",
-          "src": "newstnt",
+          "title": "현대차그룹-육군-산업부, 국방 '피지컬 AI' 협력…로봇 실증 나선다",
+          "desc": "(산업부)와 '로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)'을 체결했다고 밝혔다. 협약에 따라... 클러스터와 AI 데이터센터 등과 연계하는 방안도 모색한다. 다만 군 현장에 AI와 로봇을 실제 도입하기...",
+          "src": "econonews",
           "date": "08/15",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=713976",
-          "img": "https://cdn.newstnt.com/news/photo/202608/713976_716516_4724.jpg"
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442870",
+          "img": "https://cdn.econonews.co.kr/news/thumbnail/202608/442870_373858_26_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
+          "desc": "삼성전자와 SK하이닉스 등 반도체 제조사 역시 생산시설 확대를 모색하면서 국산 장비의 수요는 더 많아질... SK하이닉스가 8600억원을 투입해 조성하며 내년에 완공 후 가동되면 협력사와 상생 협력의 모델로 운영될...",
+          "src": "seoulfn",
+          "date": "08/15",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=635716",
+          "img": "https://cdn.seoulfn.com/news/photo/202608/635716_437257_5910.jpg"
+        },
         {
           "title": "코스피, 7000선 턱밑까지 반등…외국인 3조 순매수에 5거래일 연속↑",
           "desc": "현대차그룹이 1차 협력사들의 휴머노이드 사업 계획을 점검하고 2028년부터 단계적으로 양산에... 삼성전자는 2.43% 상승하며 이번주 누적 상승률 18.8%를 기록했다. SK하이닉스도 3.26% 올랐으며 이번주 15.7...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/14",
           "url": "https://n.news.naver.com/mnews/article/215/0001262415?sid=101",
           "img": "https://img.wowtv.co.kr/vodimg/E20260814/P384320260814000085894-000.png"
-        },
-        {
-          "title": "레노버 2분기 매출 급증 비결로 '중국 메모리' 꼽아, 삼성전자 SK하이닉...",
-          "desc": "검토하며 삼성전자와 SK하이닉스, 마이크론에 의존을 낮추는 계기가 될 수 있다. 윈스턴 청 레노버 최고재무책임자(CFO)는 14일 블룸버그TV와 인터뷰에서 \"대규모 부품 조달 역량과 차별화된 제품 및 서비스가 경쟁 우위로...",
-          "src": "비즈니스포스트",
-          "date": "08/14",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444798",
-          "img": ""
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
     },
     {
-      "title": "현대차, 직원 80%가 AI 쓴다···AX 넘어 '피지컬 AI' 체질전환",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423069",
-      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/423069_238397_2558_v150.jpg"
+      "title": "[2026 ESG] 친환경도 매출로 증명…건설사 '녹색매출' 현대 1위·GS 최저",
+      "url": "https://www.asiatime.co.kr/article/20260814500329",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/14/.cache/512/20260814500353.png"
     },
     {
-      "title": "진료 넘어 기술·창업으로…서울성모병원 6년의 ‘플랫폼 병원’ 실험",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151135?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/14/20260814508668.png"
+      "title": "[현장] 방문재활 필요성엔 한목소리···문제는 '누구에게·누가 책임지...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257303",
+      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257303_461929_387_v150.jpg"
     }
   ]
 };
