@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 23:40",
+  "updatedAt": "2026.08.16 (일) 01:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"시니어분들, 환영합니다\" 건설사마다 초고령화 사회 맞춤 주거 경쟁",
+          "desc": "AI 활용해 시니어 건강 관리 서비스 아파트 내 의료-웰니스 프로그램 도입  건설사들이 초고령사회에 맞춰... 이번 협약을 통해 시니어 주택 사업 모델 개발을 위한 협력 체계를 구축하고 관련 기술과 정보 교류를...",
+          "src": "더구루",
+          "date": "08/16",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105839",
+          "img": ""
+        },
+        {
+          "title": "화성도시공사, AI로 바우처택시 부정 운행 막는다…넥스아이씨티와 협약",
+          "desc": "바우처택시는 일반 택시를 활용해 교통약자의 이동을 지원하는 제도다. 그동안 담당 직원이 운행데이터를 일일이 확인한 뒤 부정 운행이 의심되는 사례를 검증해 왔다. 이번 협약으로 AI 기반 데이터 분석 기술이 도입되면...",
+          "src": "newstown",
+          "date": "08/15",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712594",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
+        },
+        {
           "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
           "desc": "예산으로 이어지는 대목은 'AI 기본계획' 조항이다. 올해 나온 조례안 상당수가 기본계획에 담을 항목으로 '정책 실행을 위한 재원 조달'이나 '기술 도입을 위한 재원 확보 방안'을 적어놨다. 계획에 재원 항목을 넣도록...",
           "src": "디지털데일리",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/15",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
-        },
-        {
-          "title": "“이 사람은 어때?”…AI가 이어준 소개팅, 진짜 커플 됐다[나우,어스]",
-          "desc": "AI 소개팅 서비스가 빠르게 성장하자 기존 데이팅 앱들도 AI 도입을 서두르고 있다. 틴더와 힌지는 생성형 AI를 상대를 대신 고르는 기능이 아니라 프로필 작성과 대화 시작을 도와주는 ‘데이트 코치’로 활용하겠다고...",
-          "src": "헤럴드경제",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/016/0002684397?sid=104",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/15/news-p.v1.20260804.bcae5efd276a40fd93820ad5678dec6e_T1.jpg"
-        },
-        {
-          "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성...",
-          "desc": "AI 산업도시의 성공을 판단하기는 이르다. 박람회의 진짜 성과는 행사 이후 기업투자와 기술도입... 제조현장에서 활용할 수 있는 로봇과 AI 자동화 기술을 기업 수요와 연결하는 데 초점을 맞췄다. 이어 출범한 'MARS...",
-          "src": "newstown",
-          "date": "08/15",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712568",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712568_667317_2441_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
+      "title": "화성도시공사, AI로 바우처택시 부정 운행 막는다…넥스아이씨티와 협약",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712594",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
+    },
+    {
       "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
       "url": "https://n.news.naver.com/mnews/article/138/0002237959?sid=105",
       "img": "https://www.ddaily.co.kr/photos/2026/05/08/2026050811371849428_l.jpg"
-    },
-    {
-      "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
     }
   ]
 };
