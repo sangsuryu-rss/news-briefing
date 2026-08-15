@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 15:59",
+  "updatedAt": "2026.08.15 (토) 17:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
-          "desc": "삼성전자가 올해 상반기 제품 생산을 위해 외부 업체에서 사들인 원재료 규모가 56조원에 육박했다.... 증가 폭이 가장 컸던 곳은 생활가전과 TV, 스마트폰 등 완제품 사업을 담당하는 디바이스경험(DX) 부문이다. DX...",
-          "src": "mediafine",
+          "title": "삼성이 더 벌었는데…CEO 보수는 왜 하이닉스가 11배나 많을까?",
+          "desc": "SK하이닉스는 사업 대부분이 메모리 반도체인 반면 삼성전자 평균급여에는 반도체 DS부문과 스마트폰·TV·가전 등을 담당하는 DX부문 직원이 모두 포함된다. 삼성전자는 반기보고서에서 사업부별 평균급여를...",
+          "src": "peoplewatch",
           "date": "08/15",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/86810_124409_2959.jpg"
+          "url": "https://www.peoplewatch.co.kr/article/view/ppw202608150006",
+          "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/08/15/ppw20260815000006.png"
         },
         {
           "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이 대통령 지지율 최저 기록에 한겨레·중앙·동아 일제히 비판",
-          "desc": "서술·논술형 수능 도입을 둘러싼 국가교육위원회의 공론화 작업에 대해서도 채점 공정성과 사교육 우려를... 지식 콘텐츠 스타트업 언더스코어가 생성형AI를 활용해 국내 주요 언론사 기사들을 이슈별로 비교한 뒤...",
-          "src": "mediatoday",
+          "title": "[기획특집] 류삼영號, 35년 '현장 DNA'로 동작구 '지각변동' 이끈다",
+          "desc": "생성형 AI 민원 상담사를 도입해 24시간 멈추지 않는 스마트 행정 기틀을 구축할 계획이다. 여기에 노량진... AI 기술 활용 능력이 곧 도시의 성패를 가르는 시대라는 판단에서다. 동작구는 외부 전문가가 참여하는 'AI 전담...",
+          "src": "전매신문",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/006/0000137236?sid=102",
-          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336478_482212_321_v150.jpg"
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284284",
+          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1284284_1010039_3852_v150.jpg"
         },
         {
-          "title": "크라우드웍스, AI 데이터 경쟁력 앞세워 피지컬 AI 시장 정조준",
-          "desc": "기업들은 업무 효율화를 위해 생성형 AI와 각종 AI 솔루션을 도입하고 있지만, 실제 현장에서 활용하기... 하는 기술이다. 로봇이 주변 환경을 정확히 인식하고 움직이기 위해서는 현실 세계에서 발생하는 다양한...",
-          "src": "핀포인트뉴스",
+          "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도",
+          "desc": "규제를 도입했다. 또한 중국의 반도체, 양자기술, AI 등의 분야에 대한 일부 미국의 투자를 제한하고... 배터리 기술을 활용하고 있다. 폭은 \"전기차 배터리 분야에서는 구조적 전환이 이미 완료됐다\"고 진단했다. 그는...",
+          "src": "블로터",
           "date": "08/15",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477722",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477722_464644_919_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000089128?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/671065_284244_5153_v150.jpg"
         },
         {
-          "title": "'김부장' AI로 새 지평 연 SBS…\"비용 낮추고 광고·유통 생태계 확장\"[...",
-          "desc": "“인공지능(AI)을 도입하면서 △제작 프로세스 구축 △광고·유통 생태계의 확장 △시청자를 포함한... 있게 AI 기술을 활용하는 것”이라고 짚었다. 중간 광고에서도 앞뒤 장면에 맞는 제품군을 추천해주는 AI를 발굴해...",
+          "title": "[알림] 2026 이데일리 AI코리아 대상 공모… “산업 바꾼 혁신 기업 찾습...",
+          "desc": "독자적인 AI 모델을 개발한 기술 기업뿐만 아니라, AI 도입으로 생산성을 높인 제조사, 행정 서비스를... 실제로 국세청이 AI 활용 성과를 인정받아 사회적 책임 부문을 수상한 바 있습니다. 보건복지부 장관상 신설...",
           "src": "이데일리",
           "date": "08/15",
-          "url": "https://m.entertain.naver.com/article/018/0006352399",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081500480.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006352450?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081500610.jpg"
         },
         {
-          "title": "복지·AI·청년…같은 약속 내건 세 후보, 설계는 달랐다",
-          "desc": "교육 도입과 플랫폼 구축 △AI와 SNS를 활용한 전법 인재 양성을 각각 내걸었다. 항목은 겹치지만 무게중심이... 같은 기술을 놓고 세 후보가 그리는 종단의 미래상이 갈리는 지점이다. 청년포교는 실행 모델의 대결이다....",
-          "src": "beopbo",
+          "title": "마음까지 보듬는 AI…\"화상환자 심리회복 지원\"",
+          "desc": "현장에서 활용할 수 있는 AI·XR 기반 마인드케어 모델을 구축한다는 계획이다. 활용 분야도 확대할 방침이다.... 무아홈 도입을 확대하고 있다. 최근에는 AI 감정 추론 관련 핵심 특허를 등록하는 등 기술 고도화에도 나서고...",
+          "src": "뉴시스",
           "date": "08/15",
-          "url": "https://www.beopbo.com/news/articleView.html?idxno=337161",
-          "img": "https://cdn.beopbo.com/news/thumbnail/202608/337161_160947_3617_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014129654?sid=102",
+          "img": "https://img1.newsis.com/2026/05/29/NISI20260529_0002148580_web.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202608/86810_124409_2959.jpg"
+      "title": "삼성이 더 벌었는데…CEO 보수는 왜 하이닉스가 11배나 많을까?",
+      "url": "https://www.peoplewatch.co.kr/article/view/ppw202608150006",
+      "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/08/15/ppw20260815000006.png"
     },
     {
       "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "이 대통령 지지율 최저 기록에 한겨레·중앙·동아 일제히 비판",
-      "url": "https://n.news.naver.com/mnews/article/006/0000137236?sid=102",
-      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336478_482212_321_v150.jpg"
+      "title": "[기획특집] 류삼영號, 35년 '현장 DNA'로 동작구 '지각변동' 이끈다",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284284",
+      "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1284284_1010039_3852_v150.jpg"
     },
     {
-      "title": "크라우드웍스, AI 데이터 경쟁력 앞세워 피지컬 AI 시장 정조준",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477722",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477722_464644_919_v150.jpg"
+      "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089128?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202608/671065_284244_5153_v150.jpg"
     }
   ]
 };
