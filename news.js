@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 13:48",
+  "updatedAt": "2026.08.15 (토) 15:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "중국 반도체 공세, 범용 칩 시장서 한국 가격 통제력 흔든다",
-          "desc": "중국의 추격세는 삼성전자와 SK하이닉스의 범용 칩 가격 통제력에 직접 과제로 떠올랐다. 성숙 공정... 시장조사업체 트렌드포스는 6월 보고서에서 가전 제조사들의 재고 확보와 스마트폰 신제품 부품 준비 주기가...",
-          "src": "g-enews",
+          "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
+          "desc": "삼성전자가 올해 상반기 제품 생산을 위해 외부 업체에서 사들인 원재료 규모가 56조원에 육박했다.... 증가 폭이 가장 컸던 곳은 생활가전과 TV, 스마트폰 등 완제품 사업을 담당하는 디바이스경험(DX) 부문이다. DX...",
+          "src": "mediafine",
           "date": "08/15",
-          "url": "https://www.g-enews.com/view.php?ud=202608150909462487fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081509185706151fbbec65dfb211211153121.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/86810_124409_2959.jpg"
         },
         {
           "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546663_190553_3659_v150.jpg"
         },
         {
-          "title": "“하루 얼음 1000개까지 만든다”…무더위에 6000억 시장 달아올랐다",
-          "desc": "삼성전자와 LG전자까지 제빙량과 얼음 보관 방식 등을 앞세운 신제품을 내놓으면서 여름철 계절가전 성격이 강했던 얼음정수기가 정수기 시장의 핵심 경쟁 제품으로 떠오르는 모습이다. 업계에서는 국내 정수기...",
-          "src": "segye",
+          "title": "'주식 투자→새 집 마련' 소유, 이사한 집 최초 공개…개인 사우나·헬스...",
+          "desc": "이외에도 거실과 부엌, 냉장고 내부, 침실, 옷방 등을 차례로 소개하며 집 곳곳을 직접 공개했다. 소유는 새... 겸 삼성전자와 SK하이닉스 등 한 종목에 1억 원을 넣어두고 잊고 지냈다\"고 밝힌 바 있다. 당시 그는 이사를...",
+          "src": "mhnse",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/022/0004151120?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
+          "url": "https://m.entertain.naver.com/article/445/0000450850",
+          "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "K-산업·방산·건설, 글로벌 영토 확장과 첨단 기술 융합에 속도낸다",
-          "desc": "현대차그룹은 14일 충남 계룡시 육군본부에서 육군, 산업통상자원부와 '로봇·피지컬 AI 및 첨단기술 활용... 이번 협약은 병력 자원 감소와 자동화 수요 증가에 대응해 국방 분야의 지능화 기술 도입을 촉진하기 위해...",
-          "src": "dailypop",
+          "title": "이 대통령 지지율 최저 기록에 한겨레·중앙·동아 일제히 비판",
+          "desc": "서술·논술형 수능 도입을 둘러싼 국가교육위원회의 공론화 작업에 대해서도 채점 공정성과 사교육 우려를... 지식 콘텐츠 스타트업 언더스코어가 생성형AI를 활용해 국내 주요 언론사 기사들을 이슈별로 비교한 뒤...",
+          "src": "mediatoday",
           "date": "08/15",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=101611",
-          "img": "http://www.dailypop.kr/news/thumbnail/202608/101611_168831_4811_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/006/0000137236?sid=102",
+          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336478_482212_321_v150.jpg"
         },
         {
-          "title": "중부발전, 해외 발전소를 '수출 교두보'로…K-발전 생태계 해외 영토 넓...",
-          "desc": "중부발전은 협력기업의 수준에 맞춰 AI 실무교육과 비즈니스·정보기술(IT) 교육을 운영하고 있으며, 중소기업과 공동 개발한 'AI 누수 탐지 시스템'과 'AI 하역설비 감시시스템' 등을 실제 발전 현장에 도입하고 있다....",
-          "src": "newsprime",
+          "title": "크라우드웍스, AI 데이터 경쟁력 앞세워 피지컬 AI 시장 정조준",
+          "desc": "기업들은 업무 효율화를 위해 생성형 AI와 각종 AI 솔루션을 도입하고 있지만, 실제 현장에서 활용하기... 하는 기술이다. 로봇이 주변 환경을 정확히 인식하고 움직이기 위해서는 현실 세계에서 발생하는 다양한...",
+          "src": "핀포인트뉴스",
           "date": "08/15",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=744040",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_744040_1786750273.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477722",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477722_464644_919_v150.jpg"
         },
         {
-          "title": "[ABC AI 국가대전환=조영훈 한국로봇산업진흥원장] AI가 몸을 얻는다…...",
-          "desc": "조 원장은 이 자리에서 \"제2작전사령부는 기술 강군 실현을 위한 피지컬 AI와 로봇 도입에 적극적인 만큼, 군 내 로봇 활용 수요를 발굴하고 현장에서 실질적으로 활용될 수 있도록 지원하겠다\"고 말했다. 핵심은...",
-          "src": "아주경제",
+          "title": "'김부장' AI로 새 지평 연 SBS…\"비용 낮추고 광고·유통 생태계 확장\"[...",
+          "desc": "“인공지능(AI)을 도입하면서 △제작 프로세스 구축 △광고·유통 생태계의 확장 △시청자를 포함한... 있게 AI 기술을 활용하는 것”이라고 짚었다. 중간 광고에서도 앞뒤 장면에 맞는 제품군을 추천해주는 AI를 발굴해...",
+          "src": "이데일리",
           "date": "08/15",
-          "url": "https://www.ajunews.com/view/20260814101627942",
-          "img": "https://image.ajunews.com/content/image/2026/08/14/20260814103939252048.jpg"
+          "url": "https://m.entertain.naver.com/article/018/0006352399",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081500480.jpg"
         },
         {
-          "title": "‘군웅할거’ AI 모델, ‘자본 경쟁’으로 선별 시동 [트럼프 스톡커]",
-          "desc": "브록먼 사장은 CRO 교체 배경에 대해 “기술을 도입하는 방식이 빠르게 변화하고 있다”며 “달리 CRO는 AI가 사람과 기업에 폭넓게 활용될 수 있도록 우리가 쌓은 경험을 실행력으로 전환할 것”이라고 기대했다....",
-          "src": "서울경제",
+          "title": "복지·AI·청년…같은 약속 내건 세 후보, 설계는 달랐다",
+          "desc": "교육 도입과 플랫폼 구축 △AI와 SNS를 활용한 전법 인재 양성을 각각 내걸었다. 항목은 겹치지만 무게중심이... 같은 기술을 놓고 세 후보가 그리는 종단의 미래상이 갈리는 지점이다. 청년포교는 실행 모델의 대결이다....",
+          "src": "beopbo",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/011/0004652070?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/15/news-p.v1.20260815.eeae1009348c421bb3116914bd3aabe4_R.png"
+          "url": "https://www.beopbo.com/news/articleView.html?idxno=337161",
+          "img": "https://cdn.beopbo.com/news/thumbnail/202608/337161_160947_3617_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "중국 반도체 공세, 범용 칩 시장서 한국 가격 통제력 흔든다",
-      "url": "https://www.g-enews.com/view.php?ud=202608150909462487fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081509185706151fbbec65dfb211211153121.jpg"
+      "title": "삼성전자 상반기 원재료 매입 55.8조원-AI 열풍에 모바일 메모리 비용 급...",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86810",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202608/86810_124409_2959.jpg"
     },
     {
       "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546663_190553_3659_v150.jpg"
     },
     {
-      "title": "“하루 얼음 1000개까지 만든다”…무더위에 6000억 시장 달아올랐다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151120?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
+      "title": "'주식 투자→새 집 마련' 소유, 이사한 집 최초 공개…개인 사우나·헬스...",
+      "url": "https://m.entertain.naver.com/article/445/0000450850",
+      "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "K-산업·방산·건설, 글로벌 영토 확장과 첨단 기술 융합에 속도낸다",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101611",
-      "img": "http://www.dailypop.kr/news/thumbnail/202608/101611_168831_4811_v150.jpg"
+      "title": "이 대통령 지지율 최저 기록에 한겨레·중앙·동아 일제히 비판",
+      "url": "https://n.news.naver.com/mnews/article/006/0000137236?sid=102",
+      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336478_482212_321_v150.jpg"
     },
     {
-      "title": "중부발전, 해외 발전소를 '수출 교두보'로…K-발전 생태계 해외 영토 넓...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=744040",
-      "img": "https://www.newsprime.co.kr/data/photos/cdn/20260833/art_744040_1786750273.jpg"
+      "title": "크라우드웍스, AI 데이터 경쟁력 앞세워 피지컬 AI 시장 정조준",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477722",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477722_464644_919_v150.jpg"
     }
   ]
 };
