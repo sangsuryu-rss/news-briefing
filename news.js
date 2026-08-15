@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 19:41",
+  "updatedAt": "2026.08.15 (토) 22:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
-          "desc": "앤트로픽이 '클로드'가 출력하는 텍스트에 보이지 않는 워터마크 기술을 도입하면서 유료 사용자들의... 유명 IT 기술 분석가 벤 톰슨은 교정이나 편집 목적으로 AI를 활용한 경우까지 AI 작성물로 분류될 위험을...",
-          "src": "AI타임스",
+          "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
+          "desc": "특별상은 지난 6월 Team Human, Cursor와 함께 개최한 'Cursor Hackathon Seoul vol.3'에서 처음 도입됐다. 당시에는... 서울 AI 허브는 실제 구현 결과, 기술 활용성, 창의성, 향후 발전 가능성 등을 종합적으로 고려해 우수...",
+          "src": "핀포인트뉴스",
           "date": "08/15",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213998",
-          "img": "https://cdn.aitimes.com/news/photo/202608/213998_217611_2333.png"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
         },
         {
-          "title": "[BIC 26] 요시다 슈헤이가 보는 한국 인디게임 시장은?",
-          "desc": "최근 인디게임 개발에 AI를 도입하는 사례가 늘고 있는데, 이에 대해 어떻게 생각하는가 대형사부터 소규모... ▲ 지스타 2026 메인 스폰서 '크랙' 또한 AI 기술을 활용해 세계관과 캐릭터의 반응이 달라지는 텍스트형...",
-          "src": "gamemeca",
+          "title": "“이 사람은 어때?”…AI가 이어준 소개팅, 진짜 커플 됐다[나우,어스]",
+          "desc": "AI 소개팅 서비스가 빠르게 성장하자 기존 데이팅 앱들도 AI 도입을 서두르고 있다. 틴더와 힌지는 생성형 AI를 상대를 대신 고르는 기능이 아니라 프로필 작성과 대화 시작을 도와주는 ‘데이트 코치’로 활용하겠다고...",
+          "src": "헤럴드경제",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/356/0000085037?sid=004",
-          "img": "https://cdn.gamemeca.com/gmdata/0001/779/191/gm690963_ys_sn.webp"
+          "url": "https://n.news.naver.com/mnews/article/016/0002684397?sid=104",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/15/news-p.v1.20260804.bcae5efd276a40fd93820ad5678dec6e_T1.jpg"
         },
         {
-          "title": "해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다",
-          "desc": "임상적 활용 가능성을 검증하고 국가 선별검사 체계 도입을 지원한다. 회사는... 이미 구축한 유전체 해석 기술과 해외 검사 네트워크를 여러 서비스에 공통으로...",
-          "src": "venturesquare",
+          "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성...",
+          "desc": "AI 산업도시의 성공을 판단하기는 이르다. 박람회의 진짜 성과는 행사 이후 기업투자와 기술도입... 제조현장에서 활용할 수 있는 로봇과 AI 자동화 기술을 기업 수요와 연결하는 데 초점을 맞췄다. 이어 출범한 'MARS...",
+          "src": "newstown",
           "date": "08/15",
-          "url": "https://www.venturesquare.net/1106382/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/3B-789x444.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712568",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712568_667317_2441_v150.jpg"
         },
         {
-          "title": "[기획특집] 류삼영號, 35년 '현장 DNA'로 동작구 '지각변동' 이끈다",
-          "desc": "생성형 AI 민원 상담사를 도입해 24시간 멈추지 않는 스마트 행정 기틀을 구축할 계획이다. 여기에 노량진... AI 기술 활용 능력이 곧 도시의 성패를 가르는 시대라는 판단에서다. 동작구는 외부 전문가가 참여하는 'AI 전담...",
-          "src": "전매신문",
+          "title": "안민석 경기도교육감 \"독서·예술·스포츠로 학생 일상 채울 것\"",
+          "desc": "특히 AI 기술이 빠르게 확산되는 현재의 교육 환경에서는 기술 도입 자체보다 학생과 교사가 학교 현장에서 어떻게 활용할 것인지가 중요하다고 봤다. 탐방단은 실질적으로 적용할 수 있는 AI 교육과 함께 독서·문화예술...",
+          "src": "newstown",
           "date": "08/15",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284284",
-          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1284284_1010039_3852_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712569",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712569_667318_3529_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=213998",
-      "img": "https://cdn.aitimes.com/news/photo/202608/213998_217611_2333.png"
+      "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
     },
     {
-      "title": "[BIC 26] 요시다 슈헤이가 보는 한국 인디게임 시장은?",
-      "url": "https://n.news.naver.com/mnews/article/356/0000085037?sid=004",
-      "img": "https://cdn.gamemeca.com/gmdata/0001/779/191/gm690963_ys_sn.webp"
+      "title": "“이 사람은 어때?”…AI가 이어준 소개팅, 진짜 커플 됐다[나우,어스]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684397?sid=104",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/15/news-p.v1.20260804.bcae5efd276a40fd93820ad5678dec6e_T1.jpg"
     }
   ]
 };
