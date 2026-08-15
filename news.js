@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 07:42",
+  "updatedAt": "2026.08.15 (토) 10:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
-          "desc": "매장에는 인공지능(AI) TV존, 냉장고존, 주방가전존 등으로 구성돼 한눈에 삼성전자 가전을 살펴볼 수 있다. 곳곳에 상담 테이블이 마련돼 전문 상담부터 견적 확인까지 할 수 있다. ​혼수·입주·이사 고객 사전 예약...",
-          "src": "뉴스1",
+          "title": "중국 반도체 공세, 범용 칩 시장서 한국 가격 통제력 흔든다",
+          "desc": "중국의 추격세는 삼성전자와 SK하이닉스의 범용 칩 가격 통제력에 직접 과제로 떠올랐다. 성숙 공정... 시장조사업체 트렌드포스는 6월 보고서에서 가전 제조사들의 재고 확보와 스마트폰 신제품 부품 준비 주기가...",
+          "src": "g-enews",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608150909462487fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081509185706151fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "[가전 대전환①] 생각하는 냉장고, 판단하는 세탁기",
-          "desc": "삼성전자와 LG전자는 자체 AI 기술과 플랫폼에 생성형 AI를 접목해 냉장고·세탁기·에어컨·청소기 등 주요 가전으로 AI 적용 범위를 확대했다. 삼성전자는 구글 제미나이를 결합한 '비스포크 AI' 라인업을 주방과...",
-          "src": "the-biz",
+          "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
+          "desc": "대형가전부터 로봇청소기의 장애물 회피 성능, 수천만원대 프리미엄 오디오의 음질까지 오프라인에서 직접 비교해 볼 수 있는 공간이 잇따라 마련됐다. 삼성전자 제공 온라인몰도 연휴 기간 가전 할인전에 나서면서 온...",
+          "src": "segye",
           "date": "08/15",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726077",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202608/726077_930418_4116.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004151119?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/15/20260815504891.png"
         },
         {
-          "title": "OLED 게이밍 모니터 전성시대…삼성전자·LG전자 입지 흔들",
-          "desc": "시장이 게이밍 모니터를 주축으로 재편되면서, TV와 가전 중심의 판매 전략을 내걸었던 두 회사의 입지가 다소 줄었다. 15일 시장조사업체 트렌드포스에 따르면 올해 2분기 삼성전자의 글로벌 OLED 모니터 출하량...",
-          "src": "newsway",
+          "title": "휴머노이드로봇 후발주자 LG, 엔비디아 지원업고 현대차 · 삼성 추격",
+          "desc": "LG는 올해 안에 바퀴형 로봇 'LG CLOi'를 미국 테네시주의 세탁기 공장에 도입, 실제 생산 환경에서의... 있는 삼성전자도 최근 로봇 사업을 총괄하는 신규 조직 'RX(Robotics eXperience)'를 출범시키는 등 휴머노이드...",
+          "src": "autodaily",
           "date": "08/15",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026081416374331063",
-          "img": "https://nimage.newsway.co.kr/photo/2024/08/29/20240829000038_1200.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546663",
+          "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546663_190553_3659_v150.jpg"
         },
         {
-          "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
-          "desc": "◆'보안·AS·AI' 무장한 삼성·LG 추격…위기감 느낀 中 업체 중국 가전업체들이 공격적으로 신제품을 쏟아내는 배경에는 최근 삼성전자와 LG전자의 거센 추격이 원인으로 꼽힌다. 로봇청소기는 '외산 가전의 무덤'이라...",
-          "src": "F투데이",
-          "date": "08/14",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363597",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
+          "title": "“하루 얼음 1000개까지 만든다”…무더위에 6000억 시장 달아올랐다",
+          "desc": "삼성전자와 LG전자까지 제빙량과 얼음 보관 방식 등을 앞세운 신제품을 내놓으면서 여름철 계절가전 성격이 강했던 얼음정수기가 정수기 시장의 핵심 경쟁 제품으로 떠오르는 모습이다. 업계에서는 국내 정수기...",
+          "src": "segye",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/022/0004151120?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이마트 vs 롯데마트, AI 승부수... 속도전이냐 장기전이냐",
-          "desc": "신세계그룹 관계자는 \"리플렉션 AI와의 협업을 그룹 미래 비전의 새로운 축으로 삼는 동시에, AI를 활용한... 업계에서도 국내 유통업계의 AI 도입 속도 자체가 아직 갈 길이 멀다는 지적이 나온다. 서용구 숙명여자대학교...",
-          "src": "newslock",
+          "title": "현대차, 직원 80%가 AI 쓴다···AX 넘어 '피지컬 AI' 체질전환",
+          "desc": "2022년부터 지라(JIRA), 두레이(Dooray), 컨플루언스(Confluence) 등을 순차적으로 도입해 업무 진행 상황과... 반면 백오피스 등 조직 운영과 관련된 다운스트림 분야에서는 이미 성능이 검증된 외부 AI 기술을 활용한다는...",
+          "src": "sisajournal-e",
           "date": "08/15",
-          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134410",
-          "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134410_122170_5622_v150.jpg"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423069",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/423069_238397_2558_v150.jpg"
         },
         {
-          "title": "S&P 500, 7800 돌파에도 상승 기대...\"AI가 더 끌어올린다\"",
-          "desc": "시겔은 기업들이 AI를 활용해 비용을 줄이고 이익률을 높일 수 있다고 설명했다. S&P 500 전체 이익률은... 그는 비기술 기업이 AI를 본격 도입하면 이익률이 크게 개선될 가능성이 있다고 봤다. 시겔은 “현재 시장이...",
-          "src": "coinreaders",
+          "title": "진료 넘어 기술·창업으로…서울성모병원 6년의 ‘플랫폼 병원’ 실험",
+          "desc": "확장현실(XR)을 활용한 교육 콘텐츠도 사업화됐다. 2024년 공모전 최우수상과 과학기술정보통신부 장관상을 받은 XR팀은 ㈜라온메타와 XR 기반 ‘실험동물 부검 실습 콘텐츠’를 공동 개발했다. AI 가상융합 실습...",
+          "src": "segye",
           "date": "08/15",
-          "url": "http://coinreaders.com/252939",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202606/800_800_2026062641181762.png"
+          "url": "https://n.news.naver.com/mnews/article/022/0004151135?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/14/20260814508668.png"
         },
         {
-          "title": "“내일 7% 급등”…리딩방 추천주, 재무제표 보면 ‘설거지’ 보인다 [...",
-          "desc": "세력은 바로 이 점을 악용해 ‘신기술 도입’, ‘세계 최초 신사업 진출’ 같은 자극적인 테마와 스토리를... AI 프롬프트로 5분 만에 검증하기 재무제표로 스스로 따져보기 힘들면 AI를 적극 활용하자. 현재 시점의...",
-          "src": "한국경제",
+          "title": "[인터뷰] 노원석 레코스 대표 \"디지털배지 넘어 '역량 데이터 인프라'로...",
+          "desc": "국내 대학과 공공기관이 국제표준 기반 디지털배지를 적극 도입하면서 한국은 아시아에서도 디지털배지가... 0과 VC, DID 기술에 AI가 결합하면서 개인이 자신의 데이터를 직접 보유하고 활용하는 진정한 시대가 열릴...",
+          "src": "아주경제",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/050/0000109684?sid=101",
-          "img": "https://static.hankyung.com/photo/202608/AD.45326967.1.jpg"
+          "url": "https://www.ajunews.com/view/20260814164424691",
+          "img": "https://image.ajunews.com/content/image/2026/08/14/20260814164622696960.png"
         },
         {
-          "title": "회삿돈 수백억 가로채는 딥페이크부터 변태안경까지…'AI 날개 단 범죄'",
-          "desc": "AI 스마트 글라스 등 최신 정보기술(IT) 기기를 활용한 범죄도 이젠 현실의 문제가 됐다. 지난달 서울... 생성형 AI 도입 등 성능 이슈나 환각 현상을 최소화하기 위한 다양한 장치를 마련하고 있다\"며 \"위해요소 탐지...",
-          "src": "뉴스1",
+          "title": "의정부시의회, 조례 검토용 AI 챗봇 도입",
+          "desc": "인공지능(AI) 챗봇을 도입했다. 향후 의원 입법 발의와 기존 조례 정비에도 활용할 계획이다. 시의회... 있도록 AI 활용 교육을 마련했다\"며 \"입법 지원 업무에 관련 기술을 적용해 전문성을 높이겠다\"고 말했다....",
+          "src": "newstnt",
           "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/421/0009115403?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/6/8044993/high.jpg"
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=713976",
+          "img": "https://cdn.newstnt.com/news/photo/202608/713976_716516_4724.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+      "title": "중국 반도체 공세, 범용 칩 시장서 한국 가격 통제력 흔든다",
+      "url": "https://www.g-enews.com/view.php?ud=202608150909462487fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081509185706151fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "[가전 대전환①] 생각하는 냉장고, 판단하는 세탁기",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726077",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202608/726077_930418_4116.jpg"
+      "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151119?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/15/20260815504891.png"
     },
     {
-      "title": "OLED 게이밍 모니터 전성시대…삼성전자·LG전자 입지 흔들",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026081416374331063",
-      "img": "https://nimage.newsway.co.kr/photo/2024/08/29/20240829000038_1200.jpg"
+      "title": "휴머노이드로봇 후발주자 LG, 엔비디아 지원업고 현대차 · 삼성 추격",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546663",
+      "img": "https://cdn.autodaily.co.kr/news/thumbnail/202608/546663_190553_3659_v150.jpg"
     },
     {
-      "title": "보안·AS 앞세운 韓 추격에…'스펙 총공세' 나선 中 로봇청소기",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363597",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363597_372558_4036_v150.jpg"
+      "title": "“하루 얼음 1000개까지 만든다”…무더위에 6000억 시장 달아올랐다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151120?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/15/20260815505177.jpg"
     },
     {
-      "title": "이마트 vs 롯데마트, AI 승부수... 속도전이냐 장기전이냐",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=134410",
-      "img": "https://cdn.newslock.co.kr/news/thumbnail/202608/134410_122170_5622_v150.jpg"
+      "title": "현대차, 직원 80%가 AI 쓴다···AX 넘어 '피지컬 AI' 체질전환",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423069",
+      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202608/423069_238397_2558_v150.jpg"
     },
     {
-      "title": "S&P 500, 7800 돌파에도 상승 기대...\"AI가 더 끌어올린다\"",
-      "url": "http://coinreaders.com/252939",
-      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202606/800_800_2026062641181762.png"
+      "title": "진료 넘어 기술·창업으로…서울성모병원 6년의 ‘플랫폼 병원’ 실험",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151135?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/14/20260814508668.png"
     }
   ]
 };
