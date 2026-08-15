@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 17:47",
+  "updatedAt": "2026.08.15 (토) 19:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
+          "desc": "앤트로픽이 '클로드'가 출력하는 텍스트에 보이지 않는 워터마크 기술을 도입하면서 유료 사용자들의... 유명 IT 기술 분석가 벤 톰슨은 교정이나 편집 목적으로 AI를 활용한 경우까지 AI 작성물로 분류될 위험을...",
+          "src": "AI타임스",
+          "date": "08/15",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213998",
+          "img": "https://cdn.aitimes.com/news/photo/202608/213998_217611_2333.png"
+        },
+        {
+          "title": "[BIC 26] 요시다 슈헤이가 보는 한국 인디게임 시장은?",
+          "desc": "최근 인디게임 개발에 AI를 도입하는 사례가 늘고 있는데, 이에 대해 어떻게 생각하는가 대형사부터 소규모... ▲ 지스타 2026 메인 스폰서 '크랙' 또한 AI 기술을 활용해 세계관과 캐릭터의 반응이 달라지는 텍스트형...",
+          "src": "gamemeca",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/356/0000085037?sid=004",
+          "img": "https://cdn.gamemeca.com/gmdata/0001/779/191/gm690963_ys_sn.webp"
+        },
+        {
+          "title": "해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다",
+          "desc": "임상적 활용 가능성을 검증하고 국가 선별검사 체계 도입을 지원한다. 회사는... 이미 구축한 유전체 해석 기술과 해외 검사 네트워크를 여러 서비스에 공통으로...",
+          "src": "venturesquare",
+          "date": "08/15",
+          "url": "https://www.venturesquare.net/1106382/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/3B-789x444.jpg"
+        },
+        {
           "title": "[기획특집] 류삼영號, 35년 '현장 DNA'로 동작구 '지각변동' 이끈다",
           "desc": "생성형 AI 민원 상담사를 도입해 24시간 멈추지 않는 스마트 행정 기틀을 구축할 계획이다. 여기에 노량진... AI 기술 활용 능력이 곧 도시의 성패를 가르는 시대라는 판단에서다. 동작구는 외부 전문가가 참여하는 'AI 전담...",
           "src": "전매신문",
           "date": "08/15",
           "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284284",
           "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1284284_1010039_3852_v150.jpg"
-        },
-        {
-          "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도",
-          "desc": "규제를 도입했다. 또한 중국의 반도체, 양자기술, AI 등의 분야에 대한 일부 미국의 투자를 제한하고... 배터리 기술을 활용하고 있다. 폭은 \"전기차 배터리 분야에서는 구조적 전환이 이미 완료됐다\"고 진단했다. 그는...",
-          "src": "블로터",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/293/0000089128?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/671065_284244_5153_v150.jpg"
-        },
-        {
-          "title": "[알림] 2026 이데일리 AI코리아 대상 공모… “산업 바꾼 혁신 기업 찾습...",
-          "desc": "독자적인 AI 모델을 개발한 기술 기업뿐만 아니라, AI 도입으로 생산성을 높인 제조사, 행정 서비스를... 실제로 국세청이 AI 활용 성과를 인정받아 사회적 책임 부문을 수상한 바 있습니다. 보건복지부 장관상 신설...",
-          "src": "이데일리",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/018/0006352450?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081500610.jpg"
-        },
-        {
-          "title": "마음까지 보듬는 AI…\"화상환자 심리회복 지원\"",
-          "desc": "현장에서 활용할 수 있는 AI·XR 기반 마인드케어 모델을 구축한다는 계획이다. 활용 분야도 확대할 방침이다.... 무아홈 도입을 확대하고 있다. 최근에는 AI 감정 추론 관련 핵심 특허를 등록하는 등 기술 고도화에도 나서고...",
-          "src": "뉴시스",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/003/0014129654?sid=102",
-          "img": "https://img1.newsis.com/2026/05/29/NISI20260529_0002148580_web.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "[기획특집] 류삼영號, 35년 '현장 DNA'로 동작구 '지각변동' 이끈다",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284284",
-      "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1284284_1010039_3852_v150.jpg"
+      "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213998",
+      "img": "https://cdn.aitimes.com/news/photo/202608/213998_217611_2333.png"
     },
     {
-      "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089128?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202608/671065_284244_5153_v150.jpg"
+      "title": "[BIC 26] 요시다 슈헤이가 보는 한국 인디게임 시장은?",
+      "url": "https://n.news.naver.com/mnews/article/356/0000085037?sid=004",
+      "img": "https://cdn.gamemeca.com/gmdata/0001/779/191/gm690963_ys_sn.webp"
     }
   ]
 };
