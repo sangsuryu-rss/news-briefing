@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 03:49",
+  "updatedAt": "2026.08.16 (일) 05:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성이 더 벌었는데…CEO 보수는 왜 하이닉스가 11배나 많을까?",
-          "desc": "SK하이닉스는 사업 대부분이 메모리 반도체인 반면 삼성전자 평균급여에는 반도체 DS부문과 스마트폰·TV·가전 등을 담당하는 DX부문 직원이 모두 포함된다. 삼성전자는 반기보고서에서 사업부별 평균급여를...",
-          "src": "peoplewatch",
-          "date": "08/15",
-          "url": "https://www.peoplewatch.co.kr/article/view/ppw202608150006",
-          "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/08/15/ppw20260815000006.png"
+          "title": "\"대학 인기학과 기준 바꾼다\"…대기업 계약학과, 반도체 넘어 車·가전까...",
+          "desc": "참여 기업은 삼성전자와 SK하이닉스, 삼성SDI, 현대자동차, LG전자, LG디스플레이, LG유플러스 등 7곳이다.... 양사의 반도체 계약학과 모집 인원만 460명으로 전체의 63.0%를 차지하지만 배터리와 미래차, 가전, 정보보호...",
+          "src": "뉴시스",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/003/0014129902?sid=101",
+          "img": "https://img1.newsis.com/2025/07/01/NISI20250701_0001881840_web.jpg"
         },
         {
           "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "“규제 족쇄 풀고 ‘리빙 헤리티지’로”…전문가 3인이 제시한 K-헤리...",
+          "desc": "모델링을 활용한 과학적 경관 시뮬레이션으로 심의 기준을 다양화하고, 손실 보상과 세제 감면 등 재산권... 이와 함께 수도권인 경기도의 특성을 살려 AI와 디지털 트윈 기술을 접목, 경관 영향을 사전 시뮬레이션하는...",
+          "src": "kyeonggi",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/666/0000119319?sid=101",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/11/.cache/512/20260811580619.jpg?v=20260816054105"
+        },
+        {
+          "title": "AI로 '도로 파임' 자동 감지...용인시, 버스 등 차량 300대 투입",
+          "desc": "용인시가 AI 기술을 도입해 문제 해결에 나섰습니다. 시내버스와 마을버스, 관용차까지 300대에 충격 감지... 관리에 활용 가능합니다. 따로 운영했던 국민신문고와 'AI 포트홀 관제시스템'도 하나로 합쳤습니다. [이상일...",
+          "src": "ytn",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/052/0002393896?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0816/202608160423038603_t.jpg"
+        },
+        {
+          "title": "[VC’s Pick]차세대 AI 데이터센터·ESS 기반 '배터리'에 쏠린 시선",
+          "desc": "코스모스랩은 물 기반 비가연성 전해질과 아연·할로겐계 소재를 활용하는 차세대 배터리를 개발하고... 투자금은 수계 아연-할로겐 배터리의 기술 고도화와 AI데이터센터·차세대 ESS 시장 확대에 대응하기 위한 양산...",
+          "src": "이데일리",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/018/0006352484?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081600009.600x.0.jpg"
+        },
+        {
           "title": "[신간] 플랫폼 병원",
           "desc": "저자는 플랫폼 병원을 환자, 의료진, 기술 개발자, 외부 연구기관과 정제된 의료 데이터가 물리적 공간... 전략적으로 활용해 문제를 해결하는 방식이다. 저자는 병원이 병상 수 확대나 고가 장비 도입 등 물리적 외형...",
           "src": "medigatenews",
           "date": "08/16",
           "url": "https://www.medigatenews.com/news/1177110604",
           "img": "https://medigatenews.com/file/news/517556"
-        },
-        {
-          "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
-          "desc": "◇화석연료 비판하던 머스크, AI 전력은 가스로 머스크는 오랫동안 화석연료를 대체하는 기술을 자신의... 필요한 AI 전력을 확보하는 과정에서는 천연가스를 적극적으로 활용하고 있다는 점이다. 전기차를 앞세워...",
-          "src": "g-enews",
-          "date": "08/16",
-          "url": "https://www.g-enews.com/view.php?ud=2026081520342558409a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260815203806070409a1f30943117511616074.jpg"
-        },
-        {
-          "title": "\"시니어분들, 환영합니다\" 건설사마다 초고령화 사회 맞춤 주거 경쟁",
-          "desc": "AI 활용해 시니어 건강 관리 서비스 아파트 내 의료-웰니스 프로그램 도입  건설사들이 초고령사회에 맞춰... 이번 협약을 통해 시니어 주택 사업 모델 개발을 위한 협력 체계를 구축하고 관련 기술과 정보 교류를...",
-          "src": "더구루",
-          "date": "08/16",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105839",
-          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866821292346_757191.jpg"
-        },
-        {
-          "title": "화성도시공사, AI로 바우처택시 부정 운행 막는다…넥스아이씨티와 협약",
-          "desc": "바우처택시는 일반 택시를 활용해 교통약자의 이동을 지원하는 제도다. 그동안 담당 직원이 운행데이터를 일일이 확인한 뒤 부정 운행이 의심되는 사례를 검증해 왔다. 이번 협약으로 AI 기반 데이터 분석 기술이 도입되면...",
-          "src": "newstown",
-          "date": "08/15",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712594",
-          "img": "http://www.newstown.co.kr/news/thumbnail/202608/712594_667343_3317_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성이 더 벌었는데…CEO 보수는 왜 하이닉스가 11배나 많을까?",
-      "url": "https://www.peoplewatch.co.kr/article/view/ppw202608150006",
-      "img": "https://www.peoplewatch.co.kr/data/ppw/image/2026/08/15/ppw20260815000006.png"
+      "title": "\"대학 인기학과 기준 바꾼다\"…대기업 계약학과, 반도체 넘어 車·가전까...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014129902?sid=101",
+      "img": "https://img1.newsis.com/2025/07/01/NISI20250701_0001881840_web.jpg"
     },
     {
       "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
-      "title": "[신간] 플랫폼 병원",
-      "url": "https://www.medigatenews.com/news/1177110604",
-      "img": "https://medigatenews.com/file/news/517556"
+      "title": "“규제 족쇄 풀고 ‘리빙 헤리티지’로”…전문가 3인이 제시한 K-헤리...",
+      "url": "https://n.news.naver.com/mnews/article/666/0000119319?sid=101",
+      "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/11/.cache/512/20260811580619.jpg?v=20260816054105"
     },
     {
-      "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
-      "url": "https://www.g-enews.com/view.php?ud=2026081520342558409a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260815203806070409a1f30943117511616074.jpg"
+      "title": "AI로 '도로 파임' 자동 감지...용인시, 버스 등 차량 300대 투입",
+      "url": "https://n.news.naver.com/mnews/article/052/0002393896?sid=102",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0816/202608160423038603_t.jpg"
     }
   ]
 };
