@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.15 (토) 22:00",
+  "updatedAt": "2026.08.15 (토) 23:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
+          "desc": "예산으로 이어지는 대목은 'AI 기본계획' 조항이다. 올해 나온 조례안 상당수가 기본계획에 담을 항목으로 '정책 실행을 위한 재원 조달'이나 '기술 도입을 위한 재원 확보 방안'을 적어놨다. 계획에 재원 항목을 넣도록...",
+          "src": "디지털데일리",
+          "date": "08/15",
+          "url": "https://n.news.naver.com/mnews/article/138/0002237959?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/05/08/2026050811371849428_l.jpg"
+        },
+        {
           "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
           "desc": "특별상은 지난 6월 Team Human, Cursor와 함께 개최한 'Cursor Hackathon Seoul vol.3'에서 처음 도입됐다. 당시에는... 서울 AI 허브는 실제 구현 결과, 기술 활용성, 창의성, 향후 발전 가능성 등을 종합적으로 고려해 우수...",
           "src": "핀포인트뉴스",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/15",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712568",
           "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712568_667317_2441_v150.jpg"
-        },
-        {
-          "title": "안민석 경기도교육감 \"독서·예술·스포츠로 학생 일상 채울 것\"",
-          "desc": "특히 AI 기술이 빠르게 확산되는 현재의 교육 환경에서는 기술 도입 자체보다 학생과 교사가 학교 현장에서 어떻게 활용할 것인지가 중요하다고 봤다. 탐방단은 실질적으로 적용할 수 있는 AI 교육과 함께 독서·문화예술...",
-          "src": "newstown",
-          "date": "08/15",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=712569",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/712569_667318_3529_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f3fca632-3bda-4f18-9952-c6d9dd4417bd.jpg"
     },
     {
+      "title": "[IT백과] 지자체 AI 조례에 적힌 '재원 조달'의 의미는?",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237959?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/05/08/2026050811371849428_l.jpg"
+    },
+    {
       "title": "서울 AI 허브, 피지컬 AI 해커톤 연다",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/477752_464669_4830_v150.jpg"
-    },
-    {
-      "title": "“이 사람은 어때?”…AI가 이어준 소개팅, 진짜 커플 됐다[나우,어스]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684397?sid=104",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/15/news-p.v1.20260804.bcae5efd276a40fd93820ad5678dec6e_T1.jpg"
     }
   ]
 };
