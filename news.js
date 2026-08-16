@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 16:01",
+  "updatedAt": "2026.08.16 (일) 17:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -37,12 +37,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
         },
         {
-          "title": "“AS 갔다가 목숨도 살렸다”…삼성 직원, 폭염에 쓰러진 70대 구조",
-          "desc": "삼성전자서비스 소속 이영호 엔지니어 세탁기 AS 출장 갔다가 인명구조 ‘천운’ 인기척 없는데 휴대폰 소리…119 신고 “세상떠난 모친 생각에 일정 앞당긴 덕” 폭염 속 자택 마당에 쓰러진 70대 고객을 삼성전자서비스...",
+          "title": "폭염에 쓰러진 70대 살린 삼성 서비스 직원",
+          "desc": "삼성전자서비스에 따르면 경기 부천시 중동센터에서 근무하는 이영호 프로(50)는 지난 11일 부천시 원미구 중동의 한 단독주택을 찾았다. '세탁기 수평이 맞지 않는다'는 70대 여성 고객의 출장 서비스 요청을 처리하기...",
           "src": "매일경제",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
         },
         {
           "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[메가이슈토픽] AI가 청년 일자리부터 삼키나…취업 감소 절반 'AI 고노...",
-          "desc": "청년 고용 한파의 무게중심이 제조업·숙박업 등 전통 산업에서 정보통신과 전문·과학기술서비스 등 ‘AI... 컴퓨터 프로그래밍과 통신, 연구개발, 법무·회계·컨설팅 등이 포함된 두 업종은 AI 활용과 자동화 가능성이...",
-          "src": "megaeconomy",
+          "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
+          "desc": "중국이 로봇과 인공지능(AI)을 활용해 노동 집약 산업의 주도권을 놓지 않고 있어서다. 지난해 중국의 세계... 신윤성 산업연구원 한아세안정책협력센터 센터장은 “기술 패권을 유지하려는 선진국의 정책 전환까지...",
+          "src": "한국경제",
           "date": "08/16",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578820587762",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065578820587762_548_thum.png"
+          "url": "https://n.news.naver.com/mnews/article/015/0005321355?sid=104",
+          "img": "https://img.hankyung.com/photo/202608/AA.45355976.1.jpg"
         },
         {
-          "title": "SK하이닉스, 19일 청주서 사전신청자 대상 채용설명회",
-          "desc": "SK하이닉스가 학력과 연령 제한을 전면 폐지하고 AI 활용 능력 중심의 기술사무직 신입사원을 채용하기로... 특히 이번 채용부터는 과제 수행과 심층 인터뷰를 결합한 '반나절 심층면접'을 새롭게 도입해 집중 평가할...",
-          "src": "news",
+          "title": "LG전자, 남미 브라질 파라나 신공장 가동",
+          "desc": "신공장에는 인공지능(AI) 비전 검사와 디지털 트윈 관제, 다관절 로봇 등 스마트팩토리 솔루션을 도입해... LG전자는 2억 1000만 명이 넘는 브라질 시장을 겨냥해 현지 전력 환경에 맞춘 겸용 전압(127V·220V) 기술...",
+          "src": "smarttoday",
           "date": "08/16",
-          "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260816&SEQUENCE=0108",
-          "img": "http://news.mbccb.co.kr/upload/mbcnews/2026/08/16/1786862203_20260816_0108.png"
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/110522",
+          "img": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-08-16/d0e9084d-f16c-4a74-9eeb-8340ff607f2f.png"
         },
         {
-          "title": "\"AI 생성물 표시 의무화 현실로\"…앤트로픽 워터마크 논란 확산",
-          "desc": "이용자들은 AI가 작성한 콘텐츠 여부를 판별하는 기술이 도입될 경우 자신이 직접 작성한 글을 클로드로... AI가 작성한 글임을 숨긴 채 활용하는 사례가 늘고 있는 만큼 투명성 확보가 우선이라는 주장이다. 논란이...",
-          "src": "F투데이",
+          "title": "중국, AI 통제와 속도 병행… 한국 빅테크 규제 압박",
+          "desc": "인공지능 기술 확산에 맞춰 법적 의무 규정을 순차적으로 도입했다. 지난 2022년 알고리즘 추천 관리 규정을... 개념의 AI 기술을 말한다. 딥러닝, 가상현실(VR) 등 인공지능 알고리즘을 활용하여 텍스트, 이미지, 오디오...",
+          "src": "g-enews",
           "date": "08/16",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363716",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363716_372707_3324_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608161737212988fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081617400007040fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속",
-          "desc": "AI 도입과 업무 혁신을 지원하는 플랫폼이다. IBM은 여기에 오픈AI 기술을 결합해 기업이 실제... IBM 컨설팅 어드밴티지는 기업의 운영 절차와 업무 흐름을 분석해 비효율적인 영역을 파악하고, AI를 활용해 업무를...",
+          "title": "\"이 글, 인공지능이 썼을까?\"…이제 알 수 있다, 앤트로픽 AI 텍스트에 ...",
+          "desc": "워터마크 기술은 바로 이런 의미에 큰 영향을 주지 않는 단어 선택 과정의 무작위성(Randomness)을 활용한다.... 다만 앤트로픽 스스로도 인정했듯 이 기술은 모든 AI 생성 콘텐츠를 완벽하게 식별하는 시스템은 아니다. 짧은...",
           "src": "AI타임스",
           "date": "08/16",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41469",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41469_62431_2914_v150.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41471",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41471_62433_391_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816160122"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816174837"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -187,9 +187,9 @@ window.NEWS_DATA = {
       "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "“AS 갔다가 목숨도 살렸다”…삼성 직원, 폭염에 쓰러진 70대 구조",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
+      "title": "폭염에 쓰러진 70대 살린 삼성 서비스 직원",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
     },
     {
       "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.techm.kr/news/thumbnail/202608/154375_218759_4957_v150.jpg"
     },
     {
-      "title": "[메가이슈토픽] AI가 청년 일자리부터 삼키나…취업 감소 절반 'AI 고노...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578820587762",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065578820587762_548_thum.png"
+      "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321355?sid=104",
+      "img": "https://img.hankyung.com/photo/202608/AA.45355976.1.jpg"
     },
     {
-      "title": "SK하이닉스, 19일 청주서 사전신청자 대상 채용설명회",
-      "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260816&SEQUENCE=0108",
-      "img": "http://news.mbccb.co.kr/upload/mbcnews/2026/08/16/1786862203_20260816_0108.png"
+      "title": "LG전자, 남미 브라질 파라나 신공장 가동",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/110522",
+      "img": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-08-16/d0e9084d-f16c-4a74-9eeb-8340ff607f2f.png"
     }
   ]
 };
