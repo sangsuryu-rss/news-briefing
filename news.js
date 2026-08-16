@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 17:48",
+  "updatedAt": "2026.08.16 (일) 19:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성전자 비반도체 노조 \"자사주 1000주 달라\"…성과급 갈등 재점화",
+          "desc": "오는 21일 삼성전자 서초사옥 앞에서 열리는 대규모 집회 참여를 촉구하는 내용입니다. 스마트폰·TV·가전 등 완제품 사업을 총괄하는 DX부문 노조가 다시 성과급 카드를 꺼내든겁니다. 이들은 2026년 임금협상을 전면...",
+          "src": "조선일보",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/448/0000633845?sid=102",
+          "img": "https://img.tvchosun.com/sitedata/image/202608/16/2026081690098_thumb.jpg"
+        },
+        {
           "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
-          "desc": "이에 업계에서는 삼성전자와 LG전자가 단순 하드웨어 경쟁력을 넘어 AI 가전 생태계를 활용한 차별화된 사용자 경험을 강화해야 한다는 목소리가 나온다. 삼성전자의 스마트싱스, LG전자의 LG 씽큐 등 자체 AI 플랫폼으로...",
+          "desc": "삼성전자의 스마트싱스, LG전자의 LG 씽큐 등 자체 AI 플랫폼으로 로봇청소기와 에어컨, 공기청정기 등 다른 가전과 연동해 사용자의 생활 패턴에 맞춘 AI 서비스를 제공해야 한다는 설명이다. 예컨대, 로봇청소기가...",
           "src": "뉴시스",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
           "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
-        },
-        {
-          "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
-          "desc": "냉장고 공장을 확장했다. 글로벌 사우스(신흥국 및 개발도상국) 진출 거점이다. 16일 삼성전자와 LG전자는 각각 해외 신공장을 가동했다고 밝혔다. 삼성전자는 12일(현지시각) 인도 푸네에서 플랙트그룹 신규...",
-          "src": "테크M",
-          "date": "08/16",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
-          "img": "https://cdn.techm.kr/news/thumbnail/202608/154375_218759_4957_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
-          "desc": "중국이 로봇과 인공지능(AI)을 활용해 노동 집약 산업의 주도권을 놓지 않고 있어서다. 지난해 중국의 세계... 신윤성 산업연구원 한아세안정책협력센터 센터장은 “기술 패권을 유지하려는 선진국의 정책 전환까지...",
-          "src": "한국경제",
+          "title": "경기도교육청, 18~21일 '을지연습 대전환' 실시…실질 위기 대응력 제고",
+          "desc": "컨슈머타임스=안성렬 기자 | 경기도교육청이 실전 중심의 훈련 프로그램과 첨단 기술을 접목한... 장비를 활용한 화생방 훈련이 이어진다. 특히 통제부의 메시지 상황 부여 과정에 인공지능(AI) 시스템을 전격 도입해 훈련...",
+          "src": "cstimes",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/015/0005321355?sid=104",
-          "img": "https://img.hankyung.com/photo/202608/AA.45355976.1.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=716967",
+          "img": "https://www.cstimes.com/news/photo/202608/716967_637397_1526.jpg"
         },
         {
-          "title": "LG전자, 남미 브라질 파라나 신공장 가동",
-          "desc": "신공장에는 인공지능(AI) 비전 검사와 디지털 트윈 관제, 다관절 로봇 등 스마트팩토리 솔루션을 도입해... LG전자는 2억 1000만 명이 넘는 브라질 시장을 겨냥해 현지 전력 환경에 맞춘 겸용 전압(127V·220V) 기술...",
-          "src": "smarttoday",
+          "title": "‘연봉 대신 사번 받는 AI 직원’… 사람 아닌 에이전트 관리·보안 시장...",
+          "desc": "16일 정보기술(IT) 업계에 따르면 기업들의 AI 에이전트 도입이 본격화하면서 이를 관리·통제하기 위한... 글로벌 보안기업 옥타가 지난 5월 공개한 AI 에이전트 활용·보안 실태 조사에 따르면 AI 에이전트에 인간...",
+          "src": "kmib",
           "date": "08/16",
-          "url": "https://www.smarttoday.co.kr/ko-kr/articles/110522",
-          "img": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-08-16/d0e9084d-f16c-4a74-9eeb-8340ff607f2f.png"
+          "url": "https://n.news.naver.com/mnews/article/005/0001867145?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0816/01100201.20260816501286.jpg"
         },
         {
-          "title": "중국, AI 통제와 속도 병행… 한국 빅테크 규제 압박",
-          "desc": "인공지능 기술 확산에 맞춰 법적 의무 규정을 순차적으로 도입했다. 지난 2022년 알고리즘 추천 관리 규정을... 개념의 AI 기술을 말한다. 딥러닝, 가상현실(VR) 등 인공지능 알고리즘을 활용하여 텍스트, 이미지, 오디오...",
-          "src": "g-enews",
+          "title": "국민연금공단, NIA 'AI 윤리준수기관 확인마크' 획득…\"공공부문 AI 윤리...",
+          "desc": "공단은 앞서 지난해 '국민연금공단 인공지능 윤리헌장'을 선제적으로 제정해 인공지능 활용에 관한 5대 기본 원칙을 공식 명문화했다. 이를 토대로 AI 기술 도입 과정의 단순 효율성 추구를 넘어 인간 존엄성 존중, 공정성...",
+          "src": "cstimes",
           "date": "08/16",
-          "url": "https://www.g-enews.com/view.php?ud=202608161737212988fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081617400007040fbbec65dfb211211153121.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=716963",
+          "img": "https://www.cstimes.com/news/photo/202608/716963_637393_5147.jpg"
         },
         {
-          "title": "\"이 글, 인공지능이 썼을까?\"…이제 알 수 있다, 앤트로픽 AI 텍스트에 ...",
-          "desc": "워터마크 기술은 바로 이런 의미에 큰 영향을 주지 않는 단어 선택 과정의 무작위성(Randomness)을 활용한다.... 다만 앤트로픽 스스로도 인정했듯 이 기술은 모든 AI 생성 콘텐츠를 완벽하게 식별하는 시스템은 아니다. 짧은...",
-          "src": "AI타임스",
+          "title": "한국수자원공사, 경찰청과 '감사 역량 강화·교류 확대' 맞손",
+          "desc": "(AI)을 도입하고 상호 감사 노하우를 공유하기 위해 기관 간 감사 협력망을 구축했다. 양 기관은 이번 업무협약을 기점으로 △인공지능(AI) 활용 감사 및 감사 관련 정보·기술 교류 △전문분야별 감사 상호지원 △감사...",
+          "src": "cstimes",
           "date": "08/16",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41471",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41471_62433_391_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=716960",
+          "img": "https://www.cstimes.com/news/photo/202608/716960_637390_3429.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816174837"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816194217"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자 비반도체 노조 \"자사주 1000주 달라\"…성과급 갈등 재점화",
+      "url": "https://n.news.naver.com/mnews/article/448/0000633845?sid=102",
+      "img": "https://img.tvchosun.com/sitedata/image/202608/16/2026081690098_thumb.jpg"
+    },
+    {
       "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
       "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
       "img": "https://img1.newsis.com/2026/03/25/NISI20260325_0021221268_web.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
     },
     {
-      "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
-      "img": "https://cdn.techm.kr/news/thumbnail/202608/154375_218759_4957_v150.jpg"
+      "title": "경기도교육청, 18~21일 '을지연습 대전환' 실시…실질 위기 대응력 제고",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=716967",
+      "img": "https://www.cstimes.com/news/photo/202608/716967_637397_1526.jpg"
     },
     {
-      "title": "로봇 무장한 中 '제조업 독식'에…태국선 매달 100여곳 줄폐업",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321355?sid=104",
-      "img": "https://img.hankyung.com/photo/202608/AA.45355976.1.jpg"
-    },
-    {
-      "title": "LG전자, 남미 브라질 파라나 신공장 가동",
-      "url": "https://www.smarttoday.co.kr/ko-kr/articles/110522",
-      "img": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-08-16/d0e9084d-f16c-4a74-9eeb-8340ff607f2f.png"
+      "title": "‘연봉 대신 사번 받는 AI 직원’… 사람 아닌 에이전트 관리·보안 시장...",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867145?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0816/01100201.20260816501286.jpg"
     }
   ]
 };
