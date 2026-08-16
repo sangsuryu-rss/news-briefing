@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 19:41",
+  "updatedAt": "2026.08.16 (일) 22:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경기도교육청, 18~21일 '을지연습 대전환' 실시…실질 위기 대응력 제고",
-          "desc": "컨슈머타임스=안성렬 기자 | 경기도교육청이 실전 중심의 훈련 프로그램과 첨단 기술을 접목한... 장비를 활용한 화생방 훈련이 이어진다. 특히 통제부의 메시지 상황 부여 과정에 인공지능(AI) 시스템을 전격 도입해 훈련...",
-          "src": "cstimes",
+          "title": "[기획특집] 안민석 경기도교육감 \"살아있는 역사교육' 추진하겠다\"... 만...",
+          "desc": "지난 7월 1일 취임 후 첫 일정이었던 다산 정약용 선생의 생가 방문에 이어 실학자들의 이로운 기술을... 본격 도입한다. 이를 위해 전담 부서인 '라스교육과'를 신설하는 조직개편을 단행했다. 스마트폰 사용을 줄인...",
+          "src": "CNB뉴스",
           "date": "08/16",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=716967",
-          "img": "https://www.cstimes.com/news/photo/202608/716967_637397_1526.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1011688",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1011688_512894_3833.jpg"
         },
         {
-          "title": "‘연봉 대신 사번 받는 AI 직원’… 사람 아닌 에이전트 관리·보안 시장...",
-          "desc": "16일 정보기술(IT) 업계에 따르면 기업들의 AI 에이전트 도입이 본격화하면서 이를 관리·통제하기 위한... 글로벌 보안기업 옥타가 지난 5월 공개한 AI 에이전트 활용·보안 실태 조사에 따르면 AI 에이전트에 인간...",
-          "src": "kmib",
+          "title": "“진짜 다 안경 쓰고 있네”…재벌들이 수술 안 하고 굳이 ‘안경’ 쓰...",
+          "desc": "그런데 국내에서 라식이나 라섹이 처음 도입되던 초창기에는 이 수술이 대학병원을 중심으로 이뤄지지... 기사 내용 토대로 AI툴 활용해 제작한 자료사진. 안구 운동을 꾸준히 하면 근시가 치료된다는 말도 틀렸다. 눈을...",
+          "src": "wikitree",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/005/0001867145?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0816/01100201.20260816501286.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1151972",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/12/202608121233184366.jpg"
         },
         {
-          "title": "국민연금공단, NIA 'AI 윤리준수기관 확인마크' 획득…\"공공부문 AI 윤리...",
-          "desc": "공단은 앞서 지난해 '국민연금공단 인공지능 윤리헌장'을 선제적으로 제정해 인공지능 활용에 관한 5대 기본 원칙을 공식 명문화했다. 이를 토대로 AI 기술 도입 과정의 단순 효율성 추구를 넘어 인간 존엄성 존중, 공정성...",
-          "src": "cstimes",
+          "title": "“미 군함 해외 건조 허용”에 ‘마스가’ 기대감…실익은 ‘글쎄’",
+          "desc": "이번 각서에서 트럼프 대통령은 “다양한 무역협정에서 약속된 재정 자원”을 활용하는 방안도 언급해... 인공지능(AI)·로보틱스·첨단소재 기술을 국내 조선업에 도입·실증하는 등 단순한 선박 수주를 넘어 중장기적인...",
+          "src": "khan",
           "date": "08/16",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=716963",
-          "img": "https://www.cstimes.com/news/photo/202608/716963_637393_5147.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003464520?sid=101",
+          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         },
         {
-          "title": "한국수자원공사, 경찰청과 '감사 역량 강화·교류 확대' 맞손",
-          "desc": "(AI)을 도입하고 상호 감사 노하우를 공유하기 위해 기관 간 감사 협력망을 구축했다. 양 기관은 이번 업무협약을 기점으로 △인공지능(AI) 활용 감사 및 감사 관련 정보·기술 교류 △전문분야별 감사 상호지원 △감사...",
-          "src": "cstimes",
+          "title": "AI 많이 쓰는 업종, 청년층 취업자 ‘뚝’",
+          "desc": "및 기술서비스업 역시 AI 활용도가 높은 업종으로 분류된다. 지난해까지만 해도 청년층 고용 감소는... 한국은행은 지난해 2월 ‘AI와 한국경제’ 보고서를 통해 국내 일자리의 51%가 AI 도입에 큰 영향을 받을 것으로...",
+          "src": "khan",
           "date": "08/16",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=716960",
-          "img": "https://www.cstimes.com/news/photo/202608/716960_637390_3429.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003464506?sid=101",
+          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816194217"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816220253"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
     },
     {
-      "title": "경기도교육청, 18~21일 '을지연습 대전환' 실시…실질 위기 대응력 제고",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=716967",
-      "img": "https://www.cstimes.com/news/photo/202608/716967_637397_1526.jpg"
+      "title": "[기획특집] 안민석 경기도교육감 \"살아있는 역사교육' 추진하겠다\"... 만...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1011688",
+      "img": "https://cdn.cnbnews.com/news/photo/202608/1011688_512894_3833.jpg"
     },
     {
-      "title": "‘연봉 대신 사번 받는 AI 직원’… 사람 아닌 에이전트 관리·보안 시장...",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867145?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0816/01100201.20260816501286.jpg"
+      "title": "“진짜 다 안경 쓰고 있네”…재벌들이 수술 안 하고 굳이 ‘안경’ 쓰...",
+      "url": "https://www.wikitree.co.kr/articles/1151972",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/12/202608121233184366.jpg"
     }
   ]
 };
