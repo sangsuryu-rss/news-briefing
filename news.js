@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 03:48",
+  "updatedAt": "2026.08.17 (월) 05:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성전자, 가전 모터 기술 활용한 휴머노이드 로봇 개발 가능성 주목",
+          "desc": "삼성전자는 세탁기와 에어컨 등 가전제품용 고성능 모터를 대규모로 생산해 온 제조 기반을 보유하고 있다. 기존 가전 모터 생산 역량을 로봇 구동장치용 모터 생산에 응용할 경우, 전용 설비를 새로 구축해야 하는 경쟁...",
+          "src": "g-enews",
+          "date": "08/17",
+          "url": "https://www.g-enews.com/view.php?ud=2026081623150521072bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260816231628062152bd56fbc3c21121419978.jpg"
+        },
+        {
           "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
-          "desc": "(IT)·가전 전시회인 ‘CES 2026’에서 LG전자가 홈 로봇 ‘클로이드’를 공개했을 당시 관람객들의 시선을 붙잡은 장면은, 로봇이 다섯 손가락으로 인간처럼 물건을 집고 접는 장면이었다. 아직 공개되지 않은 삼성전자의...",
+          "desc": "아직 공개되지 않은 삼성전자의 로봇 기술도 ‘손재주’에 무게를 싣고 있다. 삼성전자가 최근 조직... 짜거나, 청소기를 쥔 채 버튼으로 강약을 조절하는 것처럼 로봇이 복잡한 작업에 유연하게 대처할 수 있다”며...",
           "src": "동아일보",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "08/16",
           "url": "http://www.4th.kr/news/articleView.html?idxno=2116442",
           "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
-        },
-        {
-          "title": "폭염에 쓰러진 70대 살린 삼성 서비스 직원",
-          "desc": "삼성전자서비스에 따르면 경기 부천시 중동센터에서 근무하는 이영호 프로(50)는 지난 11일 부천시 원미구 중동의 한 단독주택을 찾았다. '세탁기 수평이 맞지 않는다'는 70대 여성 고객의 출장 서비스 요청을 처리하기...",
-          "src": "매일경제",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
         },
         {
           "title": "폭염에 대처하는 가전 업계… 일요일 열고 에어컨 AS 예약 늘린다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI도 디지털 신분 받는다… 기업 관리 대상 비인간까지 확장",
-          "desc": "16일 정보기술(IT) 업계에 따르면 기업들의 AI 에이전트 도입이 본격화하면서 이를 관리·통제하기 위한... 글로벌 보안기업 옥타가 지난 5월 공개한 AI 에이전트 활용·보안 실태 조사에 따르면 AI 에이전트에 인간...",
-          "src": "kmib",
+          "title": "AI 시대, 건설업의 본질 재인식 필요",
+          "desc": "건설업은 아무나 할 수 있는 사업이 아니라 기술력이 있어야 한다. 기술력없이는 초고층 빌딩을 지을 수가... 이를 위해 적극 AI를 활용하도록 지원할 필요가 있다. 건설업의 본질은 제조업이 아니라 서비스업이기 때문에...",
+          "src": "kmecnews",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/005/0001867197?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260816501286.jpg"
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51276",
+          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51276_41354_139.jpg"
         },
         {
-          "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
-          "desc": "신공장에는 인공지능(AI)과 산업용 로봇 기반의 스마트팩토리 설루션을 도입했다. 비전 AI 기반 품질 검사와 디지털 트윈 기술을 활용해 생산라인 이상 징후를 사전 감지하고, 다관절 로봇 등 자동화 설비를 통해 제조...",
-          "src": "tfmedia",
+          "title": "[기술브릿지] 도시의 생명선을 지키는 기계설비",
+          "desc": "예컨대 <그림 1>과 같이 고대 페르시아의 야크찰은 두꺼운 점토·벽돌 벽과 지하 저장 공간, 바람길을 활용해... 고대 석빙고의 지혜가 오늘의 히트펌프와 AI 제어로 이어졌듯, 앞으로의 도시는 기계설비 기술과 정책, 그리고...",
+          "src": "kmecnews",
           "date": "08/17",
-          "url": "https://www.tfmedia.co.kr/news/article.html?no=206510",
-          "img": "https://www.tfmedia.co.kr/data/photos/20260834/art_17868974841895_b5376b.jpg"
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51266",
+          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51266_41335_148.png"
         },
         {
-          "title": "[사설] 美, AI동맹서 '中 배제' 가속…국익 극대화 기회로",
-          "desc": "중국 AI 진영에 발을 걸친 채 미국의 핵심 기술동맹국으로 남기는 어려울 것이다. 그렇다면 미국의 진영 선택 압박에 위축될 게 아니라 한국의 전략적 가치를 협상 지렛대로 활용해야 한다. 미 정부는 중국...",
-          "src": "한국경제",
+          "title": "대입 서·논술 강화 추진...평가 공정성 벽 넘을까?",
+          "desc": "서울과 경기도 교육청이 평가에 활용하고 있는 AI 시스템처럼 개발하면 수능에도 적용할 수 있다는 겁니다.... 시험 기술을 익히기 위해서 학원에 갈 필요는 없는 것입니다. 지금 만약 도입이 된다면 지금 각 가정과...",
+          "src": "ytn",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005321450?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/052/0002394202?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0817/202608170526208405_t.jpg"
         },
         {
-          "title": "앤트로픽, 2분기 매출 115억 달러로 14배 폭증하며 창사 첫 흑자 기록했...",
-          "desc": "앤트로픽은 한때 AI 경쟁에서 열세로 평가받았지만 코딩 등 업무에 클로드를 활용하는 전문가가 늘면서... 오픈AI는 기업 고객이 토큰 소비량 자체보다 비용 대비 지능을 따지는 방향으로 AI 도입 기준을 바꾸고...",
-          "src": "wikitree",
+          "title": "월급 일자리 4개월째 감소… ‘AI발 저채용 사회’ 현실화",
+          "desc": "3%)이 정보통신업과 전문·과학·기술서비스업에서 줄었다. 지난해 청년 취업자 감소분의 67.5%가 제조업과 숙박·음식점업에 몰렸던 것과 달리 고용 한파의 중심이 AI 활용도가 높은 업종으로 옮겨간 것이다. 반면...",
+          "src": "서울신문",
           "date": "08/17",
-          "url": "https://www.wikitree.co.kr/articles/1152817",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/17/202608170012294967_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003670893?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817004843_O2.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817034823"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817054011"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "newsway",
           "date": "08/16",
           "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
-          "img": ""
+          "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
         },
         {
           "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, 가전 모터 기술 활용한 휴머노이드 로봇 개발 가능성 주목",
+      "url": "https://www.g-enews.com/view.php?ud=2026081623150521072bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260816231628062152bd56fbc3c21121419978.jpg"
+    },
+    {
       "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
       "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
       "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487002.1.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "폭염에 쓰러진 70대 살린 삼성 서비스 직원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
-    },
-    {
       "title": "폭염에 대처하는 가전 업계… 일요일 열고 에어컨 AS 예약 늘린다",
       "url": "https://www.econovill.com/news/articleView.html?idxno=748127",
       "img": "https://cdn.econovill.com/news/thumbnail/202608/748127_722755_5341_v150.jpg"
     },
     {
-      "title": "AI도 디지털 신분 받는다… 기업 관리 대상 비인간까지 확장",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867197?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260816501286.jpg"
+      "title": "AI 시대, 건설업의 본질 재인식 필요",
+      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51276",
+      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51276_41354_139.jpg"
     },
     {
-      "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=206510",
-      "img": "https://www.tfmedia.co.kr/data/photos/20260834/art_17868974841895_b5376b.jpg"
+      "title": "[기술브릿지] 도시의 생명선을 지키는 기계설비",
+      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51266",
+      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51266_41335_148.png"
     }
   ]
 };
