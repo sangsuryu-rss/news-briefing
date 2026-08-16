@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 13:51",
+  "updatedAt": "2026.08.16 (일) 16:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[전연우 경제 칼럼] 메모리가 반도체의 전부가 됐다",
-          "desc": "그리고 이 폭등의 중심에는 삼성전자 SK하이닉스가 있다. 숫자로 보는 초호황 올해 상반기 세계 반도체... 한국 기업이 세계 시장에서 가격을 결정하는 힘을 갖게 된 결과가, 정작 한국 소비자에게는 가전제품 가격...",
-          "src": "dailyt",
+          "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
+          "desc": "이에 업계에서는 삼성전자와 LG전자가 단순 하드웨어 경쟁력을 넘어 AI 가전 생태계를 활용한 차별화된 사용자 경험을 강화해야 한다는 목소리가 나온다. 삼성전자의 스마트싱스, LG전자의 LG 씽큐 등 자체 AI 플랫폼으로...",
+          "src": "뉴시스",
           "date": "08/16",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202608150003",
-          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/15/dlt202608150003.jpg"
-        },
-        {
-          "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
-          "desc": "\" 이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던... 심지어 로봇 청소기도 안 쓴다. 직접 진공청소기를 구석구석 밀고 다니고 먼지를 잡아내는 건 물론, 마당...",
-          "src": "중앙일보",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/025/0003544640?sid=103",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/16/bacaa778-fa7c-440f-9e3f-98e8c63fecc4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
+          "img": "https://img1.newsis.com/2026/03/25/NISI20260325_0021221268_web.jpg"
         },
         {
           "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
           "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
+        },
+        {
+          "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
+          "desc": "냉장고 공장을 확장했다. 글로벌 사우스(신흥국 및 개발도상국) 진출 거점이다. 16일 삼성전자와 LG전자는 각각 해외 신공장을 가동했다고 밝혔다. 삼성전자는 12일(현지시각) 인도 푸네에서 플랙트그룹 신규...",
+          "src": "테크M",
+          "date": "08/16",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
+          "img": "https://cdn.techm.kr/news/thumbnail/202608/154375_218759_4957_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG전자, 브라질 파라나 공장 가동…냉장고 연 60만대 생산",
-          "desc": "솔루션이 도입됐다. 비전 AI로 품질을 검사하고 디지털 트윈 기술로 생산라인 이상을 미리 감지하며... 거점으로 활용할 계획이다. 시장조사업체 모르도르 인텔리전스에 따르면 브라질 가전 시장 규모는 올해...",
-          "src": "뉴스인사이드",
+          "title": "[메가이슈토픽] AI가 청년 일자리부터 삼키나…취업 감소 절반 'AI 고노...",
+          "desc": "청년 고용 한파의 무게중심이 제조업·숙박업 등 전통 산업에서 정보통신과 전문·과학기술서비스 등 ‘AI... 컴퓨터 프로그래밍과 통신, 연구개발, 법무·회계·컨설팅 등이 포함된 두 업종은 AI 활용과 자동화 가능성이...",
+          "src": "megaeconomy",
           "date": "08/16",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4924817",
-          "img": "https://cdn.newsinside.kr/news/photo/202608/4924817_939339_411.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578820587762",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065578820587762_548_thum.png"
         },
         {
-          "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
-          "desc": "신공장에는 인공지능(AI) 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높였다. 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는...",
-          "src": "파이낸셜뉴스",
+          "title": "SK하이닉스, 19일 청주서 사전신청자 대상 채용설명회",
+          "desc": "SK하이닉스가 학력과 연령 제한을 전면 폐지하고 AI 활용 능력 중심의 기술사무직 신입사원을 채용하기로... 특히 이번 채용부터는 과제 수행과 심층 인터뷰를 결합한 '반나절 심층면접'을 새롭게 도입해 집중 평가할...",
+          "src": "news",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/014/0005562122?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/16/202608161051054576_l.png"
+          "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260816&SEQUENCE=0108",
+          "img": "http://news.mbccb.co.kr/upload/mbcnews/2026/08/16/1786862203_20260816_0108.png"
         },
         {
-          "title": "한양대 ERICA, 혼합가스 종류·농도 예측하는 ‘지능형 전자코’ 기술 개...",
-          "desc": "가스센서는 호흡 진단, 환경 모니터링, 산업 안전 등 다양한 분야에 활용될 수 있는 기술이지만, 실제... 또한 딥 앙상블 기반 인공지능 알고리즘을 센서 어레이 데이터 분석에 도입, 기존 인공지능 기반 센서...",
-          "src": "kyeonggi",
+          "title": "\"AI 생성물 표시 의무화 현실로\"…앤트로픽 워터마크 논란 확산",
+          "desc": "이용자들은 AI가 작성한 콘텐츠 여부를 판별하는 기술이 도입될 경우 자신이 직접 작성한 글을 클로드로... AI가 작성한 글임을 숨긴 채 활용하는 사례가 늘고 있는 만큼 투명성 확보가 우선이라는 주장이다. 논란이...",
+          "src": "F투데이",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/666/0000119342?sid=102",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/16/.cache/512/20260816580042.png?v=20260816135150"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363716",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363716_372707_3324_v150.jpg"
         },
         {
-          "title": "[기고]인구절벽이 사관학교 통합의 이유가 절대 될 수 없는 이유…“핵...",
-          "desc": "간부를 늘리고 상비예비군과 민간인력을 활용해 현역·상비예비군·민간인력을 합한 국방인력 50만 명을... 모병제’를 도입하고 첨단 장비와 기술 중심의 스마트 정예 강군으로 개혁할 것”을 주문했다. ​즉 정부의...",
-          "src": "munhwa",
+          "title": "IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속",
+          "desc": "AI 도입과 업무 혁신을 지원하는 플랫폼이다. IBM은 여기에 오픈AI 기술을 결합해 기업이 실제... IBM 컨설팅 어드밴티지는 기업의 운영 절차와 업무 흐름을 분석해 비효율적인 영역을 파악하고, AI를 활용해 업무를...",
+          "src": "AI타임스",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/021/0002811691?sid=100",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/16/news-p.v1.20260816.0b12dd8428fb4f40b6656579b6bab3fb_R.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41469",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41469_62431_2914_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816135154"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816160122"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[전연우 경제 칼럼] 메모리가 반도체의 전부가 됐다",
-      "url": "https://www.dailyt.co.kr/newsView/dlt202608150003",
-      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/15/dlt202608150003.jpg"
-    },
-    {
-      "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544640?sid=103",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/16/bacaa778-fa7c-440f-9e3f-98e8c63fecc4.jpg"
+      "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
+      "img": "https://img1.newsis.com/2026/03/25/NISI20260325_0021221268_web.jpg"
     },
     {
       "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
     },
     {
-      "title": "LG전자, 브라질 파라나 공장 가동…냉장고 연 60만대 생산",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4924817",
-      "img": "https://cdn.newsinside.kr/news/photo/202608/4924817_939339_411.jpg"
+      "title": "삼성전자·LG전자, 현지화 강화...'인도·브라질' 생산시설 확장",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154375",
+      "img": "https://cdn.techm.kr/news/thumbnail/202608/154375_218759_4957_v150.jpg"
     },
     {
-      "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562122?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/16/202608161051054576_l.png"
+      "title": "[메가이슈토픽] AI가 청년 일자리부터 삼키나…취업 감소 절반 'AI 고노...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578820587762",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065578820587762_548_thum.png"
+    },
+    {
+      "title": "SK하이닉스, 19일 청주서 사전신청자 대상 채용설명회",
+      "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260816&SEQUENCE=0108",
+      "img": "http://news.mbccb.co.kr/upload/mbcnews/2026/08/16/1786862203_20260816_0108.png"
     }
   ]
 };
