@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 10:58",
+  "updatedAt": "2026.08.16 (일) 12:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -29,12 +29,12 @@ window.NEWS_DATA = {
           "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
         },
         {
-          "title": "'고양이 모래도 쓱싹' 삶의 질이 달라졌다…삼성 'AI 로청' 사용해보니",
-          "desc": "삶의 질이 달라졌다고 느껴진 이유다. 한편, 지난 6월 기준 국내 로봇청소기 시장에서 비스포크 AI 스팀 등 삼성전자 로봇청소기가 중국산 제품을 제치고 점유율 50%를 넘긴 것으로 전해졌다.",
-          "src": "뉴스1",
+          "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
+          "desc": "\" 이 집의 주인은 고(故) 이건희 삼성전자 회장과 호흡 맞춰 삼성을 세계 초일류 기업으로 이끌었던... 심지어 로봇 청소기도 안 쓴다. 직접 진공청소기를 구석구석 밀고 다니고 먼지를 잡아내는 건 물론, 마당...",
+          "src": "중앙일보",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/421/0009116073?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/16/8057764/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/025/0003544640?sid=103",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/16/bacaa778-fa7c-440f-9e3f-98e8c63fecc4.jpg"
         },
         {
           "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
         },
         {
-          "title": "100도 스팀 걸레질 덕분에... 꿉꿉한 날씨에도 종일 방바닥 보송보송",
-          "desc": "LG전자 로봇청소기 'AI 오브제컬렉션 로니(RONi)'를 일주일간 집에서 써봤다. 신제품은 설치 방식에 따라 자동... 흡입력 표기 기준이 파스칼(Pa) 단위인 중국 제품과 직접 비교는 어렵고, 경쟁사의 최신형(삼성전자 2026년형...",
-          "src": "한국일보",
+          "title": "삼성전자서비스 엔지니어, 폭염 속 쓰러진 70대 살렸다",
+          "desc": "12일 삼성전자서비스에 따르면 경기 부천시 중동센터에서 근무하는 이영호 프로(50)는 전날 부천시 원미구 중동의 한 단독주택을 찾았다. ‘세탁기 수평이 맞지 않는다’는 70대 여성 고객의 출장 서비스 요청을 처리하기...",
+          "src": "매일경제",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/469/0000948252?sid=105",
-          "img": "https://newsimg.hankookilbo.com/2026/08/11/ec275adf-1d2c-4c05-8b40-ac12b91eaf14.png"
+          "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG전자, 브라질 파라나 공장 가동 시작…냉장고 연60만대 생산",
-          "desc": "인공지능(AI)과 산업용 로봇, 디지털 트윈 기술을 적용한 스마트팩토리 솔루션이 도입됐다. 파라나 공장은... 신공장에는 비전 AI 기반 품질 검사와 디지털 트윈 기술을 활용한 생산라인 이상 징후 사전 감지 시스템이...",
-          "src": "jnilbo",
-          "date": "08/16",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057127",
-          "img": "https://cdn.jnilbo.com/news/photo/202608/90000057127_572952_3525.jpg"
-        },
-        {
-          "title": "LG전자, 브라질에 새 가전공장 가동… 연 60만대 냉장고 생산",
-          "desc": "신공장에는 인공지능(AI) 비전 검사와 디지털 트윈 관제, 다관절 로봇 등 스마트팩토리 솔루션을 도입해... LG전자는 2억 1000만 명이 넘는 브라질 시장을 겨냥해 현지 전력 환경에 맞춘 겸용 전압(127V·220V) 기술...",
+          "title": "대만 방공망 뚫리나…中 신형 드론에 '무방비'",
+          "desc": "광섬유·AI 유도 드론 대응 기술도 개발하고 있다. 하지만 군의 대드론 사업은 다른 곳에서도 차질을 빚고 있다. 대만 육군이 9억8000만 대만달러(약 434억원)를 들여 도입하려던 고정형 대드론 시스템 26기는 세 차례...",
           "src": "조선일보",
           "date": "08/16",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168270",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168270_450296_3925_v150.jpg"
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=71054",
+          "img": "https://cdn.monthly.chosun.com/news/photo/202608/71054_202146_598.jpg"
         },
         {
-          "title": "LG전자, 브라질 파라나 새 공장 가동… 냉장고 연 60만대 생산",
-          "desc": "AI 스마트팩토리 기술 적용 남미 가전 생산 거점 활용 LG전자가 중남미 최대 내수 시장인 브라질에 신규... 다관절 로봇 등 자동화 공정을 도입해 생산 비용을 절감하고 작업 안전성도 제고했다. LG전자는 현지 생산을...",
-          "src": "조선일보",
+          "title": "청년 일자리 19만개 사라졌다…절반은 'AI 고노출' 업종",
+          "desc": "지난달 감소한 청년층 취업자의 절반 이상이 정보통신업과 전문·과학 및 기술서비스업 등 이른바... 들어 AI 활용도가 높은 산업으로 이동하는 모습이 나타났다고 보도했다. 분석에 따르면 7월 청년층(15~29세) 취업자는...",
+          "src": "view",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/366/0001186555?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/MTQHCL2BCFHFVPO45LS6ARR3BY.jpg?auth=91afbf97fc38df7b1931b0131e62f4483a2c8b76eaaa4ec2d3eb1111d8649a0d&width=573&height=300&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/277/0005803598?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081611551982233_1786848918.jpg"
         },
         {
-          "title": "LG전자, 브라질 파라나 신공장 가동...냉장고 연 60만대 생산",
-          "desc": "비전 AI 기반 품질검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전에 감지하는 관제 시스템을 구축했다. 다관절 로봇 등 자동화 설비를 도입해 냉장고 도어 운반 등 위험 작업도 대체했다. LG전자는...",
-          "src": "데일리안",
+          "title": "AI가 쏟아내는 취약점, AI로 걸러낸다…NIST, NVD 전면 개편 추진",
+          "desc": "탐색 기술이 발전하면서 연구자가 이전보다 빠르게 결함을 찾을 수 있게 됐다. 공격자 역시 AI를 활용해... NIST가 이번에 AI 도입까지 공식 검토하면서 NVD의 역할도 달라질 가능성이 커졌다. 기존 NVD가 '어떤...",
+          "src": "dailysecu",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/119/0003122213?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786843882_1678930_m_1.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208068",
+          "img": "https://cdn.dailysecu.com/news/photo/202608/208068_208984_4640.jpg"
+        },
+        {
+          "title": "대한항공, 생성형 AI·클라우드 기술 활용 정비결함 분석 시스템 구축.....",
+          "desc": "대한항공은 생성형 AI(인공지능)와 클라우드 기술을 활용한 정비결함 분석 시스템을 구축해 운영에... 앞서 대한항공은 지난 2월 생성형 AI를 적용한 고객 상담 챗봇도 도입했다. 해당 챗봇은 한국어와 영어, 중국어...",
+          "src": "econonews",
+          "date": "08/16",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442906",
+          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "'중장년 전유물' 깼다…갤럭시 폴드8, 1030·여성 구매 비중 절반 넘어",
+          "desc": "삼성전자는 올해 갤럭시 Z폴드8을 당초 계획보다 100만대 추가 생산하기로 하고 협력사에 관련 부품 추가 발주를 진행한 것으로 알려졌다. 이와 관련 이은희 인하대 소비자학과 교수는 “폴더블폰이 생산성과 업무...",
+          "src": "kyeonggi",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816121419"
+        },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
           "desc": "폴드8 판매 호조에 삼성전자가 당초 계획보다 생산량을 늘리고 협력사에 추가 부품을 주문한 것으로 알려지면서 관련 업체의 수혜 기대도 커졌다. 특히 폴더블 판매량 증가가 실적에 직접적으로 연결될 수 있는...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/14",
           "url": "https://www.econovill.com/news/articleView.html?idxno=748078",
           "img": "https://cdn.econovill.com/news/thumbnail/202608/748078_722668_143_v150.jpg"
-        },
-        {
-          "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉...",
-          "desc": "비롯한 협력사를 재촉하고 있는 것으로 파악된다. 삼성전자 HBM4E 고대역폭 메모리 홍보용 이미지.... HBM은 인공지능 반도체의 연산 성능 효율을 높이는 데 기여하는 핵심 메모리반도체 부품이다. 삼성전자와 SK하이닉스...",
-          "src": "비즈니스포스트",
-          "date": "08/14",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444814",
-          "img": ""
         }
       ]
     },
@@ -182,9 +182,9 @@ window.NEWS_DATA = {
       "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
     },
     {
-      "title": "'고양이 모래도 쓱싹' 삶의 질이 달라졌다…삼성 'AI 로청' 사용해보니",
-      "url": "https://n.news.naver.com/mnews/article/421/0009116073?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/16/8057764/high.jpg"
+      "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
+      "url": "https://n.news.naver.com/mnews/article/025/0003544640?sid=103",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/16/bacaa778-fa7c-440f-9e3f-98e8c63fecc4.jpg"
     },
     {
       "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "100도 스팀 걸레질 덕분에... 꿉꿉한 날씨에도 종일 방바닥 보송보송",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948252?sid=105",
-      "img": "https://newsimg.hankookilbo.com/2026/08/11/ec275adf-1d2c-4c05-8b40-ac12b91eaf14.png"
+      "title": "삼성전자서비스 엔지니어, 폭염 속 쓰러진 70대 살렸다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
     },
     {
-      "title": "LG전자, 브라질 파라나 공장 가동 시작…냉장고 연60만대 생산",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057127",
-      "img": "https://cdn.jnilbo.com/news/photo/202608/90000057127_572952_3525.jpg"
+      "title": "대만 방공망 뚫리나…中 신형 드론에 '무방비'",
+      "url": "https://monthly.chosun.com/news/articleView.html?idxno=71054",
+      "img": "https://cdn.monthly.chosun.com/news/photo/202608/71054_202146_598.jpg"
     },
     {
-      "title": "LG전자, 브라질에 새 가전공장 가동… 연 60만대 냉장고 생산",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168270",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168270_450296_3925_v150.jpg"
+      "title": "청년 일자리 19만개 사라졌다…절반은 'AI 고노출' 업종",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803598?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081611551982233_1786848918.jpg"
     }
   ]
 };
