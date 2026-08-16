@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 23:41",
+  "updatedAt": "2026.08.17 (월) 01:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기획특집] 안민석 경기도교육감 \"살아있는 역사교육' 추진하겠다\"... 만...",
-          "desc": "지난 7월 1일 취임 후 첫 일정이었던 다산 정약용 선생의 생가 방문에 이어 실학자들의 이로운 기술을... 본격 도입한다. 이를 위해 전담 부서인 '라스교육과'를 신설하는 조직개편을 단행했다. 스마트폰 사용을 줄인...",
-          "src": "CNB뉴스",
-          "date": "08/16",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1011688",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1011688_512894_3833.jpg"
+          "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
+          "desc": "신공장에는 인공지능(AI)과 산업용 로봇 기반의 스마트팩토리 설루션을 도입했다. 비전 AI 기반 품질 검사와 디지털 트윈 기술을 활용해 생산라인 이상 징후를 사전 감지하고, 다관절 로봇 등 자동화 설비를 통해 제조...",
+          "src": "tfmedia",
+          "date": "08/17",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=206510",
+          "img": "https://www.tfmedia.co.kr/data/photos/20260834/art_17868974841895_b5376b.jpg"
         },
         {
-          "title": "“진짜 다 안경 쓰고 있네”…재벌들이 수술 안 하고 굳이 ‘안경’ 쓰...",
-          "desc": "그런데 국내에서 라식이나 라섹이 처음 도입되던 초창기에는 이 수술이 대학병원을 중심으로 이뤄지지... 기사 내용 토대로 AI툴 활용해 제작한 자료사진. 안구 운동을 꾸준히 하면 근시가 치료된다는 말도 틀렸다. 눈을...",
+          "title": "[사설] 美, AI동맹서 '中 배제' 가속…국익 극대화 기회로",
+          "desc": "중국 AI 진영에 발을 걸친 채 미국의 핵심 기술동맹국으로 남기는 어려울 것이다. 그렇다면 미국의 진영 선택 압박에 위축될 게 아니라 한국의 전략적 가치를 협상 지렛대로 활용해야 한다. 미 정부는 중국...",
+          "src": "한국경제",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/015/0005321450?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
+          "title": "앤트로픽, 2분기 매출 115억 달러로 14배 폭증하며 창사 첫 흑자 기록했...",
+          "desc": "앤트로픽은 한때 AI 경쟁에서 열세로 평가받았지만 코딩 등 업무에 클로드를 활용하는 전문가가 늘면서... 오픈AI는 기업 고객이 토큰 소비량 자체보다 비용 대비 지능을 따지는 방향으로 AI 도입 기준을 바꾸고...",
           "src": "wikitree",
-          "date": "08/16",
-          "url": "https://www.wikitree.co.kr/articles/1151972",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/12/202608121233184366.jpg"
+          "date": "08/17",
+          "url": "https://www.wikitree.co.kr/articles/1152817",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/17/202608170012294967_ai.jpeg"
         },
         {
-          "title": "“미 군함 해외 건조 허용”에 ‘마스가’ 기대감…실익은 ‘글쎄’",
-          "desc": "이번 각서에서 트럼프 대통령은 “다양한 무역협정에서 약속된 재정 자원”을 활용하는 방안도 언급해... 인공지능(AI)·로보틱스·첨단소재 기술을 국내 조선업에 도입·실증하는 등 단순한 선박 수주를 넘어 중장기적인...",
-          "src": "khan",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/032/0003464520?sid=101",
-          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
-        },
-        {
-          "title": "AI 많이 쓰는 업종, 청년층 취업자 ‘뚝’",
-          "desc": "및 기술서비스업 역시 AI 활용도가 높은 업종으로 분류된다. 지난해까지만 해도 청년층 고용 감소는... 한국은행은 지난해 2월 ‘AI와 한국경제’ 보고서를 통해 국내 일자리의 51%가 AI 도입에 큰 영향을 받을 것으로...",
-          "src": "khan",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/032/0003464506?sid=101",
-          "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+          "title": "\"AI·로봇이 일자리 다 가져간다\"...흔들리는 中 노동시장",
+          "desc": "하나로 AI 기술 도입을 지목했다. 배달·차량호출 기사, 라이브방송 진행자, 일용직 등 정규직에서 이탈한... 그러나 이들을 떠받칠 사회보장, 의료보험 등 사회 안전망은 미비해 로봇 활용 이익에 세금을 매기는...",
+          "src": "더구루",
+          "date": "08/17",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105791",
+          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866214209447_f31cee.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816234133"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817014426"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
     },
     {
-      "title": "[기획특집] 안민석 경기도교육감 \"살아있는 역사교육' 추진하겠다\"... 만...",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1011688",
-      "img": "https://cdn.cnbnews.com/news/photo/202608/1011688_512894_3833.jpg"
+      "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=206510",
+      "img": "https://www.tfmedia.co.kr/data/photos/20260834/art_17868974841895_b5376b.jpg"
     },
     {
-      "title": "“진짜 다 안경 쓰고 있네”…재벌들이 수술 안 하고 굳이 ‘안경’ 쓰...",
-      "url": "https://www.wikitree.co.kr/articles/1151972",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/12/202608121233184366.jpg"
+      "title": "[사설] 美, AI동맹서 '中 배제' 가속…국익 극대화 기회로",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321450?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     }
   ]
 };
