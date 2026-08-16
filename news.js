@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 01:44",
+  "updatedAt": "2026.08.17 (월) 03:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 비반도체 노조 \"자사주 1000주 달라\"…성과급 갈등 재점화",
-          "desc": "오는 21일 삼성전자 서초사옥 앞에서 열리는 대규모 집회 참여를 촉구하는 내용입니다. 스마트폰·TV·가전 등 완제품 사업을 총괄하는 DX부문 노조가 다시 성과급 카드를 꺼내든겁니다. 이들은 2026년 임금협상을 전면...",
-          "src": "조선일보",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/448/0000633845?sid=102",
-          "img": "https://img.tvchosun.com/sitedata/image/202608/16/2026081690098_thumb.jpg"
-        },
-        {
-          "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
-          "desc": "삼성전자의 스마트싱스, LG전자의 LG 씽큐 등 자체 AI 플랫폼으로 로봇청소기와 에어컨, 공기청정기 등 다른 가전과 연동해 사용자의 생활 패턴에 맞춘 AI 서비스를 제공해야 한다는 설명이다. 예컨대, 로봇청소기가...",
-          "src": "뉴시스",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
-          "img": "https://img1.newsis.com/2026/03/25/NISI20260325_0021221268_web.jpg"
+          "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
+          "desc": "(IT)·가전 전시회인 ‘CES 2026’에서 LG전자가 홈 로봇 ‘클로이드’를 공개했을 당시 관람객들의 시선을 붙잡은 장면은, 로봇이 다섯 손가락으로 인간처럼 물건을 집고 접는 장면이었다. 아직 공개되지 않은 삼성전자의...",
+          "src": "동아일보",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487002.1.jpg"
         },
         {
           "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/009/0005721657?sid=102",
           "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
+        },
+        {
+          "title": "폭염에 대처하는 가전 업계… 일요일 열고 에어컨 AS 예약 늘린다",
+          "desc": "삼성전자서비스는 폭염으로 에어컨 서비스 신청이 급증하자 대기 시간을 줄이는 데 초점을 맞췄다. 지난... 쿠첸은 냉장고 신제품 4종을 지난 13일 출시하며 라인업을 넓혔다. 85L 2도어, 89L 일체형, 205L 2도어 등 3가지...",
+          "src": "econovill",
+          "date": "08/16",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=748127",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/748127_722755_5341_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "AI도 디지털 신분 받는다… 기업 관리 대상 비인간까지 확장",
+          "desc": "16일 정보기술(IT) 업계에 따르면 기업들의 AI 에이전트 도입이 본격화하면서 이를 관리·통제하기 위한... 글로벌 보안기업 옥타가 지난 5월 공개한 AI 에이전트 활용·보안 실태 조사에 따르면 AI 에이전트에 인간...",
+          "src": "kmib",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/005/0001867197?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260816501286.jpg"
+        },
         {
           "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
           "desc": "신공장에는 인공지능(AI)과 산업용 로봇 기반의 스마트팩토리 설루션을 도입했다. 비전 AI 기반 품질 검사와 디지털 트윈 기술을 활용해 생산라인 이상 징후를 사전 감지하고, 다관절 로봇 등 자동화 설비를 통해 제조...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/17",
           "url": "https://www.wikitree.co.kr/articles/1152817",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/17/202608170012294967_ai.jpeg"
-        },
-        {
-          "title": "\"AI·로봇이 일자리 다 가져간다\"...흔들리는 中 노동시장",
-          "desc": "하나로 AI 기술 도입을 지목했다. 배달·차량호출 기사, 라이브방송 진행자, 일용직 등 정규직에서 이탈한... 그러나 이들을 떠받칠 사회보장, 의료보험 등 사회 안전망은 미비해 로봇 활용 이익에 세금을 매기는...",
-          "src": "더구루",
-          "date": "08/17",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105791",
-          "img": "https://www.theguru.co.kr/data/photos/20260833/art_17866214209447_f31cee.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817014426"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817034823"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "newsway",
           "date": "08/16",
           "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
-          "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
+          "img": ""
         },
         {
           "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 비반도체 노조 \"자사주 1000주 달라\"…성과급 갈등 재점화",
-      "url": "https://n.news.naver.com/mnews/article/448/0000633845?sid=102",
-      "img": "https://img.tvchosun.com/sitedata/image/202608/16/2026081690098_thumb.jpg"
-    },
-    {
-      "title": "\"6㎝ 턱 넘고, 180도 스팀 분사\"…'中 로청' 공세에 삼성·LG전자, 안방 ...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014130267?sid=101",
-      "img": "https://img1.newsis.com/2026/03/25/NISI20260325_0021221268_web.jpg"
+      "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487002.1.jpg"
     },
     {
       "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/17/20260817_01110121000003_M00.jpg"
     },
     {
+      "title": "폭염에 대처하는 가전 업계… 일요일 열고 에어컨 AS 예약 늘린다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=748127",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/748127_722755_5341_v150.jpg"
+    },
+    {
+      "title": "AI도 디지털 신분 받는다… 기업 관리 대상 비인간까지 확장",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867197?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260816501286.jpg"
+    },
+    {
       "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 연 60만대 생산 능력",
       "url": "https://www.tfmedia.co.kr/news/article.html?no=206510",
       "img": "https://www.tfmedia.co.kr/data/photos/20260834/art_17868974841895_b5376b.jpg"
-    },
-    {
-      "title": "[사설] 美, AI동맹서 '中 배제' 가속…국익 극대화 기회로",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321450?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     }
   ]
 };
