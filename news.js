@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 12:14",
+  "updatedAt": "2026.08.16 (일) 13:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"성과급·임금·정년까지\"…주요 대기업 노사협상 '분수령', 윈윈·산업...",
-          "desc": "16일 업계에 따르면 삼성전자, SK하이닉스, 현대자동차, HD현대중공업 등 주요 기업의 올해 노사협상은... 반도체·조선 등 실적 개선 업종에서는 성과 배분 요구가 커지는 반면 가전·스마트폰 등 일부 사업에서는 수익성...",
-          "src": "megaeconomy",
+          "title": "[전연우 경제 칼럼] 메모리가 반도체의 전부가 됐다",
+          "desc": "그리고 이 폭등의 중심에는 삼성전자 SK하이닉스가 있다. 숫자로 보는 초호황 올해 상반기 세계 반도체... 한국 기업이 세계 시장에서 가격을 결정하는 힘을 갖게 된 결과가, 정작 한국 소비자에게는 가전제품 가격...",
+          "src": "dailyt",
           "date": "08/16",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575401603186",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
+          "url": "https://www.dailyt.co.kr/newsView/dlt202608150003",
+          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/15/dlt202608150003.jpg"
         },
         {
           "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
@@ -45,8 +45,8 @@ window.NEWS_DATA = {
           "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
         },
         {
-          "title": "삼성전자서비스 엔지니어, 폭염 속 쓰러진 70대 살렸다",
-          "desc": "12일 삼성전자서비스에 따르면 경기 부천시 중동센터에서 근무하는 이영호 프로(50)는 전날 부천시 원미구 중동의 한 단독주택을 찾았다. ‘세탁기 수평이 맞지 않는다’는 70대 여성 고객의 출장 서비스 요청을 처리하기...",
+          "title": "“AS 갔다가 목숨도 살렸다”…삼성 직원, 폭염에 쓰러진 70대 구조",
+          "desc": "삼성전자서비스 소속 이영호 엔지니어 세탁기 AS 출장 갔다가 인명구조 ‘천운’ 인기척 없는데 휴대폰 소리…119 신고 “세상떠난 모친 생각에 일정 앞당긴 덕” 폭염 속 자택 마당에 쓰러진 70대 고객을 삼성전자서비스...",
           "src": "매일경제",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대만 방공망 뚫리나…中 신형 드론에 '무방비'",
-          "desc": "광섬유·AI 유도 드론 대응 기술도 개발하고 있다. 하지만 군의 대드론 사업은 다른 곳에서도 차질을 빚고 있다. 대만 육군이 9억8000만 대만달러(약 434억원)를 들여 도입하려던 고정형 대드론 시스템 26기는 세 차례...",
-          "src": "조선일보",
+          "title": "LG전자, 브라질 파라나 공장 가동…냉장고 연 60만대 생산",
+          "desc": "솔루션이 도입됐다. 비전 AI로 품질을 검사하고 디지털 트윈 기술로 생산라인 이상을 미리 감지하며... 거점으로 활용할 계획이다. 시장조사업체 모르도르 인텔리전스에 따르면 브라질 가전 시장 규모는 올해...",
+          "src": "뉴스인사이드",
           "date": "08/16",
-          "url": "https://monthly.chosun.com/news/articleView.html?idxno=71054",
-          "img": "https://cdn.monthly.chosun.com/news/photo/202608/71054_202146_598.jpg"
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4924817",
+          "img": "https://cdn.newsinside.kr/news/photo/202608/4924817_939339_411.jpg"
         },
         {
-          "title": "청년 일자리 19만개 사라졌다…절반은 'AI 고노출' 업종",
-          "desc": "지난달 감소한 청년층 취업자의 절반 이상이 정보통신업과 전문·과학 및 기술서비스업 등 이른바... 들어 AI 활용도가 높은 산업으로 이동하는 모습이 나타났다고 보도했다. 분석에 따르면 7월 청년층(15~29세) 취업자는...",
-          "src": "view",
+          "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
+          "desc": "신공장에는 인공지능(AI) 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높였다. 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는...",
+          "src": "파이낸셜뉴스",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/277/0005803598?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081611551982233_1786848918.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005562122?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/16/202608161051054576_l.png"
         },
         {
-          "title": "AI가 쏟아내는 취약점, AI로 걸러낸다…NIST, NVD 전면 개편 추진",
-          "desc": "탐색 기술이 발전하면서 연구자가 이전보다 빠르게 결함을 찾을 수 있게 됐다. 공격자 역시 AI를 활용해... NIST가 이번에 AI 도입까지 공식 검토하면서 NVD의 역할도 달라질 가능성이 커졌다. 기존 NVD가 '어떤...",
-          "src": "dailysecu",
+          "title": "한양대 ERICA, 혼합가스 종류·농도 예측하는 ‘지능형 전자코’ 기술 개...",
+          "desc": "가스센서는 호흡 진단, 환경 모니터링, 산업 안전 등 다양한 분야에 활용될 수 있는 기술이지만, 실제... 또한 딥 앙상블 기반 인공지능 알고리즘을 센서 어레이 데이터 분석에 도입, 기존 인공지능 기반 센서...",
+          "src": "kyeonggi",
           "date": "08/16",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208068",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/208068_208984_4640.jpg"
+          "url": "https://n.news.naver.com/mnews/article/666/0000119342?sid=102",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/16/.cache/512/20260816580042.png?v=20260816135150"
         },
         {
-          "title": "대한항공, 생성형 AI·클라우드 기술 활용 정비결함 분석 시스템 구축.....",
-          "desc": "대한항공은 생성형 AI(인공지능)와 클라우드 기술을 활용한 정비결함 분석 시스템을 구축해 운영에... 앞서 대한항공은 지난 2월 생성형 AI를 적용한 고객 상담 챗봇도 도입했다. 해당 챗봇은 한국어와 영어, 중국어...",
-          "src": "econonews",
+          "title": "[기고]인구절벽이 사관학교 통합의 이유가 절대 될 수 없는 이유…“핵...",
+          "desc": "간부를 늘리고 상비예비군과 민간인력을 활용해 현역·상비예비군·민간인력을 합한 국방인력 50만 명을... 모병제’를 도입하고 첨단 장비와 기술 중심의 스마트 정예 강군으로 개혁할 것”을 주문했다. ​즉 정부의...",
+          "src": "munhwa",
           "date": "08/16",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442906",
-          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+          "url": "https://n.news.naver.com/mnews/article/021/0002811691?sid=100",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/16/news-p.v1.20260816.0b12dd8428fb4f40b6656579b6bab3fb_R.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816121419"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260816135154"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"성과급·임금·정년까지\"…주요 대기업 노사협상 '분수령', 윈윈·산업...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575401603186",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
+      "title": "[전연우 경제 칼럼] 메모리가 반도체의 전부가 됐다",
+      "url": "https://www.dailyt.co.kr/newsView/dlt202608150003",
+      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/15/dlt202608150003.jpg"
     },
     {
       "title": "“농심 회장때 장수비결 찾았다”…코스트코서 쟁여놓는 이것",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "삼성전자서비스 엔지니어, 폭염 속 쓰러진 70대 살렸다",
+      "title": "“AS 갔다가 목숨도 살렸다”…삼성 직원, 폭염에 쓰러진 70대 구조",
       "url": "https://n.news.naver.com/mnews/article/009/0005721596?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.01d8a9bd7ceb411088346c15df2bc744_R.jpg"
     },
     {
-      "title": "대만 방공망 뚫리나…中 신형 드론에 '무방비'",
-      "url": "https://monthly.chosun.com/news/articleView.html?idxno=71054",
-      "img": "https://cdn.monthly.chosun.com/news/photo/202608/71054_202146_598.jpg"
+      "title": "LG전자, 브라질 파라나 공장 가동…냉장고 연 60만대 생산",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4924817",
+      "img": "https://cdn.newsinside.kr/news/photo/202608/4924817_939339_411.jpg"
     },
     {
-      "title": "청년 일자리 19만개 사라졌다…절반은 'AI 고노출' 업종",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803598?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026081611551982233_1786848918.jpg"
+      "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562122?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/16/202608161051054576_l.png"
     }
   ]
 };
