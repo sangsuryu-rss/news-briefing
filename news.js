@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.16 (일) 07:40",
+  "updatedAt": "2026.08.16 (일) 10:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "가전업계 '청담대전'…삼성전자, 원스톱 혼수 특화 매장 개설",
-          "desc": "혼수가전 수요를 겨냥한 것으로 풀이된다. 삼성전자 청담점은 기존 제품 중심의 매장을 넘어 실제 고객이 사는 집을 형상화한 공간에 가전을 전시하는 방향으로 기획됐다. 신혼부부가 각자의 예산과 아파트 평형에 따라...",
-          "src": "연합뉴스",
+          "title": "\"성과급·임금·정년까지\"…주요 대기업 노사협상 '분수령', 윈윈·산업...",
+          "desc": "16일 업계에 따르면 삼성전자, SK하이닉스, 현대자동차, HD현대중공업 등 주요 기업의 올해 노사협상은... 반도체·조선 등 실적 개선 업종에서는 성과 배분 요구가 커지는 반면 가전·스마트폰 등 일부 사업에서는 수익성...",
+          "src": "megaeconomy",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/001/0016253526?sid=101",
-          "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/15/AKR20260815027800003_01_i_P4.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575401603186",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
         },
         {
-          "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
-          "desc": "대형가전부터 로봇청소기의 장애물 회피 성능, 수천만원대 프리미엄 오디오의 음질까지 오프라인에서 직접 비교해 볼 수 있는 공간이 잇따라 마련됐다. 삼성전자 제공 온라인몰도 연휴 기간 가전 할인전에 나서면서 온...",
-          "src": "segye",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/022/0004151119?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/15/20260815504891.png"
-        },
-        {
-          "title": "14억 시장에 AI 인프라까지…삼성·LG, 인도서 냉난방공조 정조준",
-          "desc": "삼성전자와 LG전자가 14억 인구를 보유한 인도 시장 공략에 속도를 내고 있다. 폭염과 소득 증가로... 이 공장이 완공되면 LG전자는 인도 현지에서 연간 TV 200만대, 냉장고 360만대, 세탁기 375만대, 에어컨 470만대를...",
-          "src": "조선일보",
-          "date": "08/16",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168215",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168215_450231_1554_v150.jpg"
-        },
-        {
-          "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
-          "desc": "삼성전자, ​혼수·입주·이사 고객 겨냥 그랜드 오프닝…데이코 입점도 15일 업계에 따르면 삼성스토어... 현장에선 2026년 플래그십 로봇청소기 'S10 MaxV 시리즈'와 무선 진공청소기 'H60 Hub 시리즈', 진공 물걸레 청소기...",
+          "title": "'고양이 모래도 쓱싹' 삶의 질이 달라졌다…삼성 'AI 로청' 사용해보니",
+          "desc": "삶의 질이 달라졌다고 느껴진 이유다. 한편, 지난 6월 기준 국내 로봇청소기 시장에서 비스포크 AI 스팀 등 삼성전자 로봇청소기가 중국산 제품을 제치고 점유율 50%를 넘긴 것으로 전해졌다.",
           "src": "뉴스1",
-          "date": "08/15",
-          "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/421/0009116073?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/16/8057764/high.jpg"
+        },
+        {
+          "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
+          "desc": "세탁·건조기 등 다른 백색가전으로 생산 품목을 넓힐 계획이다. 생산라인에는 인공지능(AI)과 산업용 로봇... 중남미 가전시장에서는 월풀l과 일렉트로룩스 등 기존 강자에 삼성전자와 LG전자 등 한국 업체, 미디어...",
+          "src": "4th",
+          "date": "08/16",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2116442",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
+        },
+        {
+          "title": "100도 스팀 걸레질 덕분에... 꿉꿉한 날씨에도 종일 방바닥 보송보송",
+          "desc": "LG전자 로봇청소기 'AI 오브제컬렉션 로니(RONi)'를 일주일간 집에서 써봤다. 신제품은 설치 방식에 따라 자동... 흡입력 표기 기준이 파스칼(Pa) 단위인 중국 제품과 직접 비교는 어렵고, 경쟁사의 최신형(삼성전자 2026년형...",
+          "src": "한국일보",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/469/0000948252?sid=105",
+          "img": "https://newsimg.hankookilbo.com/2026/08/11/ec275adf-1d2c-4c05-8b40-ac12b91eaf14.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI로 만든 노래, 누구의 것인가…저작권 기준 '격론' [AI와 K팝, 공존의...",
-          "desc": "GEMA는 AI 기술 자체를 막기보다 저작물 이용에 대한 정당한 보상을 요구하고 있다. AI 시스템이 저작권이... 시스템을 도입하기로 했다. 국내 대학 가운데 입시 과정에서 AI 활용 여부를 공식 검증 대상으로 삼은 첫...",
+          "title": "LG전자, 브라질 파라나 공장 가동 시작…냉장고 연60만대 생산",
+          "desc": "인공지능(AI)과 산업용 로봇, 디지털 트윈 기술을 적용한 스마트팩토리 솔루션이 도입됐다. 파라나 공장은... 신공장에는 비전 AI 기반 품질 검사와 디지털 트윈 기술을 활용한 생산라인 이상 징후 사전 감지 시스템이...",
+          "src": "jnilbo",
+          "date": "08/16",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057127",
+          "img": "https://cdn.jnilbo.com/news/photo/202608/90000057127_572952_3525.jpg"
+        },
+        {
+          "title": "LG전자, 브라질에 새 가전공장 가동… 연 60만대 냉장고 생산",
+          "desc": "신공장에는 인공지능(AI) 비전 검사와 디지털 트윈 관제, 다관절 로봇 등 스마트팩토리 솔루션을 도입해... LG전자는 2억 1000만 명이 넘는 브라질 시장을 겨냥해 현지 전력 환경에 맞춘 겸용 전압(127V·220V) 기술...",
+          "src": "조선일보",
+          "date": "08/16",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168270",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168270_450296_3925_v150.jpg"
+        },
+        {
+          "title": "LG전자, 브라질 파라나 새 공장 가동… 냉장고 연 60만대 생산",
+          "desc": "AI 스마트팩토리 기술 적용 남미 가전 생산 거점 활용 LG전자가 중남미 최대 내수 시장인 브라질에 신규... 다관절 로봇 등 자동화 공정을 도입해 생산 비용을 절감하고 작업 안전성도 제고했다. LG전자는 현지 생산을...",
+          "src": "조선일보",
+          "date": "08/16",
+          "url": "https://n.news.naver.com/mnews/article/366/0001186555?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/MTQHCL2BCFHFVPO45LS6ARR3BY.jpg?auth=91afbf97fc38df7b1931b0131e62f4483a2c8b76eaaa4ec2d3eb1111d8649a0d&width=573&height=300&smart=true"
+        },
+        {
+          "title": "LG전자, 브라질 파라나 신공장 가동...냉장고 연 60만대 생산",
+          "desc": "비전 AI 기반 품질검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전에 감지하는 관제 시스템을 구축했다. 다관절 로봇 등 자동화 설비를 도입해 냉장고 도어 운반 등 위험 작업도 대체했다. LG전자는...",
           "src": "데일리안",
           "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/119/0003122193?sid=103",
-          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786694975_1678602_m_1.jpg"
-        },
-        {
-          "title": "앤트로픽, 2분기 잠정 매출 16.3조 ‘전년比 14배↑’…첫 조정영업익 흑...",
-          "desc": "의 도입이 주요 기업을 중심으로 확대되면서 매출 성장을 견인했다. 코딩 등 전문 업무에 클로드를 활용하... 대상으로 기술 로드맵과 사업 현황을 설명하는 연쇄 미팅을 가진 것으로 알려졌다. 시장에서는...",
-          "src": "joseilbo",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/123/0002388471?sid=004",
-          "img": "https://www.joseilbo.com/gisa_img/17868328281786832828_shhappylife2001.png"
-        },
-        {
-          "title": "\"AI에게 물어봤더니 광고가?\"…챗GPT도 광고 띄운다",
-          "desc": "16일 정보기술(IT) 업계에 따르면 오픈AI는 최근 무료 이용자와 저가형 유료 요금제인 '챗GPT Go' 이용자를 대상으로 국내 광고 서비스를 정식 도입했다. 지난 6월 시범 운영을 시작한 지 약 두 달 만이다. 현재 한국을...",
-          "src": "newsway",
-          "date": "08/16",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026081416280311976",
-          "img": "https://nimage.newsway.co.kr/photo/2025/02/04/20250204000052_1200.jpg"
-        },
-        {
-          "title": "정재헌vs박윤영vs홍범식…이통3사, 클라우드 기반 '공공기관 AX' 공략전",
-          "desc": "특히 유휴 상태에서의 검증이 아니라 정부 주관 '독자 AI 파운데이션 모델 프로젝트'에 실제 활용 중인... KT AI 메일보안은 랜섬웨어, 피싱메일 등 이메일을 통한 사이버 위협을 AI 기술로 탐지·차단하는 클라우드...",
-          "src": "shinailbo",
-          "date": "08/16",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051296",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5051296_2049315_4122.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003122213?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786843882_1678930_m_1.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "가전업계 '청담대전'…삼성전자, 원스톱 혼수 특화 매장 개설",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253526?sid=101",
-      "img": "https://img4.yna.co.kr/etc/inner/KR/2026/08/15/AKR20260815027800003_01_i_P4.jpg"
+      "title": "\"성과급·임금·정년까지\"…주요 대기업 노사협상 '분수령', 윈윈·산업...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575401603186",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260816/p1065575401603186_312_thum.png"
     },
     {
-      "title": "“로봇청소기 문턱 넘는 것도 직접 본다”…광복절 연휴 ‘가전 쇼핑족...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151119?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/15/20260815504891.png"
+      "title": "'고양이 모래도 쓱싹' 삶의 질이 달라졌다…삼성 'AI 로청' 사용해보니",
+      "url": "https://n.news.naver.com/mnews/article/421/0009116073?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/16/8057764/high.jpg"
     },
     {
-      "title": "14억 시장에 AI 인프라까지…삼성·LG, 인도서 냉난방공조 정조준",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168215",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168215_450231_1554_v150.jpg"
+      "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116442",
+      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "가전 구매 고민이라면 체험 어때요?…가전업계, 연휴 기간 팝업 '풍성'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009115420?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/2/22/7760248/high.jpg"
+      "title": "100도 스팀 걸레질 덕분에... 꿉꿉한 날씨에도 종일 방바닥 보송보송",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948252?sid=105",
+      "img": "https://newsimg.hankookilbo.com/2026/08/11/ec275adf-1d2c-4c05-8b40-ac12b91eaf14.png"
     },
     {
-      "title": "AI로 만든 노래, 누구의 것인가…저작권 기준 '격론' [AI와 K팝, 공존의...",
-      "url": "https://n.news.naver.com/mnews/article/119/0003122193?sid=103",
-      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1786694975_1678602_m_1.jpg"
+      "title": "LG전자, 브라질 파라나 공장 가동 시작…냉장고 연60만대 생산",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057127",
+      "img": "https://cdn.jnilbo.com/news/photo/202608/90000057127_572952_3525.jpg"
     },
     {
-      "title": "앤트로픽, 2분기 잠정 매출 16.3조 ‘전년比 14배↑’…첫 조정영업익 흑...",
-      "url": "https://n.news.naver.com/mnews/article/123/0002388471?sid=004",
-      "img": "https://www.joseilbo.com/gisa_img/17868328281786832828_shhappylife2001.png"
+      "title": "LG전자, 브라질에 새 가전공장 가동… 연 60만대 냉장고 생산",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168270",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168270_450296_3925_v150.jpg"
     }
   ]
 };
