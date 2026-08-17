@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 22:07",
+  "updatedAt": "2026.08.17 (월) 23:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
+          "img": ""
         },
         {
           "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[어린이 안전한 먹거리 특별기획] 한진숙 센터장 \"어린이 급식, 안전·영...",
+          "desc": "이런 데이터가 충분히 축적돼야 향후 AI 기술을 활용한 식단관리나 급식관리도 가능해질 것입니다. 지역... 스마트 급식은 단순히 새로운 기술을 도입하는 것이 아니라 현장에서 축적된 급식 데이터를 표준화하고 이를 다시...",
+          "src": "fntoday",
+          "date": "08/17",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390715",
+          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202608/390715_314160_274_v150.jpg"
+        },
+        {
+          "title": "[경상칼럼]최전방 2만2천 명에서 6천 명, 안보의 미래를 묻다",
+          "desc": "그렇다면 국방의 방식도 달라져야 한다.AI와 드론, 지능형 감시장비와 센서, 위성정보 등 첨단기술을 활용해... 단순히 인구 감소와 첨단기술 발전을 이유로 설명하는 것만으로는 부족하다. 어떤 장비를 도입하고, 어느...",
+          "src": "ksmnews",
+          "date": "08/17",
+          "url": "https://www.ksmnews.co.kr/news/view.php?idx=617822",
+          "img": "https://www.ksmnews.co.kr/data/newsData/1786924774.png"
+        },
+        {
           "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
           "desc": "이번 협약은 최근 인구 구조 변화에 따른 병력 자원 감소와 첨단기술에 대한 수요 증가로 자동화·지능화 기술 도입의 필요성이 증가함에 따라 이러한 변화에 대비, 피지컬 AI 및 첨단기술의 국방 분야 활용 가능성을...",
           "src": "ulsanpress",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/092/0002434168?sid=105",
           "img": "https://image.zdnet.co.kr/2026/08/17/d7f3c0e7c3a92d4d1e9260c10f1f0cd4.jpg"
-        },
-        {
-          "title": "패션 공급망 AI \"수요예측 넘어 재고·생산까지 '자율운영' 시대\"",
-          "desc": "그러나 기술 도입 속도와 달리 데이터 품질과 AI 판단에 대한 신뢰, 의사결정 책임체계는 아직 크게 뒤처져... 이에 패션기업의 AI 활용은 단순 수요예측을 넘어 바잉·재고·생산 의사결정으로 확대되고 있다. 보그...",
-          "src": "전자신문",
-          "date": "08/17",
-          "url": "http://www.ktnews.com/news/articleView.html?idxno=147747",
-          "img": "http://www.ktnews.com/news/thumbnail/202608/147747_128712_1521_v150.jpg"
-        },
-        {
-          "title": "노지감귤 생산예상량 관측조사에 AI 기술 도입",
-          "desc": "올해 노지감귤 생산예상량을 산출하는 관측조사에 스마트폰 영상과 인공지능을 활용한 자동화 기술이 도입됩니다. 이에 따라, 스마트폰으로 감귤나무를 촬영하면 인공지능 분석 알고리즘이 영상 속 열매의 개수와 크기를...",
-          "src": "jejumbc",
-          "date": "08/17",
-          "url": "https://jejumbc.com/NewsArticle/857031",
-          "img": "https://img.youtube.com/vi/bEzs5l1x4q0/maxresdefault.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817220800"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817234631"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
     },
     {
-      "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
-    },
-    {
       "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
       "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
+      "title": "[어린이 안전한 먹거리 특별기획] 한진숙 센터장 \"어린이 급식, 안전·영...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390715",
+      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202608/390715_314160_274_v150.jpg"
+    },
+    {
+      "title": "[경상칼럼]최전방 2만2천 명에서 6천 명, 안보의 미래를 묻다",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=617822",
+      "img": "https://www.ksmnews.co.kr/data/newsData/1786924774.png"
+    },
+    {
       "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
       "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581072",
       "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581072_278182_425_v150.jpg"
-    },
-    {
-      "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434168?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/08/17/d7f3c0e7c3a92d4d1e9260c10f1f0cd4.jpg"
     }
   ]
 };
