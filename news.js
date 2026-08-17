@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 16:17",
+  "updatedAt": "2026.08.17 (월) 18:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI발 '칩 플레이션'에...전자업계 원가 부담도 급증",
-          "desc": "17일 삼성전자 2026년 반기보고서에 따르면 삼성전자의 올해 상반기 원재료 매입액은 55조8,338억 원(삼성디스플레이 제외)으로 지난해 50조9,155억 원 보다 9.6% 늘었다. TV와 생활가전, 스마트폰 등을 담당하는...",
-          "src": "한국일보",
+          "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
+          "desc": "구매금액의 20%를 온누리상품권으로 환급해주면서 삼성전자 가전제품 전반의 판매가 많이 늘어났다. 이런 폭발적인 수요 증가에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다....",
+          "src": "매일경제",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/469/0000948450?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/08/17/a3a0cb99-a74c-4b93-ab2d-f5950d8c0e69.jpg"
-        },
-        {
-          "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
-          "desc": "로봇청소기는 삼성전자와 LG전자 각각 1.4%, 0.7%로 10위권내에 이름을 올리지 못했다. 중국 기업의 부상은 저가제품 공급 확대에만 머물지 않는다. 보고서는 “중국의 부상은 단순한 가격경쟁이 아닌 생태계 결합...",
-          "src": "전자신문",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01110113000002_L00.jpg"
         },
         {
           "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -42,15 +34,23 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.725e8568826d420597f4249e421fcd30_P1.jpg"
+          "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
         },
         {
-          "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
-          "desc": "이에 삼성전자와 SK하이닉스, LG전자 등 국내 기업들은 고부가·프리미엄 제품과 차세대 기술을 중심으로... 로보락과 드리미 등 중국 로봇청소기 업체들은 강한 흡입력과 정교한 장애물 회피, 자동 물걸레 세척 등...",
-          "src": "m-i",
+          "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
+          "desc": "집을 현장에서 ‘짓는’ 대신 공장에서 ‘제조’하는 모듈러 주택 시장에 삼성전자, LG전자 등 가전업체들이 뛰어들고 있다. TV, 냉장고, 세탁기 등 전통 가전 시장의 이익률이 갈수록 떨어지는 가운데 가전업계는...",
+          "src": "이데일리",
           "date": "08/17",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1402541",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700578.jpg"
+        },
+        {
+          "title": "스마트팩토리 철옹성 흔드는 K-테크…글로벌 ‘공장 패권’ 정조준",
+          "desc": "삼성전자는 자사의 국내외 생산 공장을 거대한 테스트베드로 삼아 스마트팩토리 기술 고도화에 나선다.... LG전자는 오랜 기간 축적해온 가전 제조 경험과 AI·로봇 기술을 결합해 기업간거래(B2B) 사업을 본격적으로...",
+          "src": "kmib",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/005/0001867314?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260817501188.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
-          "desc": "자산으로 활용하고 있다”고 분석했다. 중국 가전기업이 빠르게 부상하는 반면, 국내 가전 생산과 수출은... AI프리미엄 가전은 반도체·AI·센서·로봇·첨단소재 등 핵심기술과 첨단 부품이 집약된 최종 융합제품인...",
-          "src": "전자신문",
+          "title": "현대차그룹, ‘피지컬 AI’ 국방 분야로 확대",
+          "desc": "최근 국방 분야는 인구 구조 변화에 따른 병력 자원 감소와 첨단기술에 대한 수요 증가로 자동화·지능화 기술 도입 필요성이 커지고 있다. 이번 협약은 이러한 변화에 대비해 피지컬 AI 및 첨단기술의 국방 분야 활용...",
+          "src": "munhwa",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002811812?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/17/news-p.v1.20260817.78cc9351f1344d829b425ce28abd61d4_R.jpg"
         },
         {
-          "title": "'데이터 안 풀고 분석' 동형암호, 산업 현장 적용처 찾는다",
-          "desc": "함께 활용해야 할 때 장점이 있다. 인공지능(AI) 분석 과정에서도 민감한 원문 데이터의 노출을 줄이는... 기술적 도입 한계까지 분석한다. 최종적으로는 현 기술을 적용해 활용할 수 있는 영역과 아직 어려운 영역을...",
-          "src": "전자신문",
+          "title": "[기업 인사이트] AI를 묻기 전, '우리가 어떻게 일하는지'부터 물어라",
+          "desc": "업무에 AI를 정기적으로 활용하고 있다. 도입 자체는 더 이상 화두가 아니라는 뜻이다. 문제는 그다음이다.... 관리를 AI와 자동화에 맡기는 사이 리콜 건수가 큰 폭으로 증가했고, 지난 3년간 베테랑 기술 전문가...",
+          "src": "asiatoday",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457913?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.95319a3e2d3f422293ca31e9819f89c8_P1.png"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005358",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/18d/2026081701000976200053581.jpg"
         },
         {
-          "title": "[ET단상]AX의 성패는 '도입의 속도'가 아닌 '교육의 속도'가 좌우한다",
-          "desc": "AX는 단순히 AI 기술을 도입하는 프로젝트가 아니다. AI가 조직의 일을 배우고, 구성원과 협업하며, 피드백을... 사람이 AI의 결과를 채택했는지, 수정했는지, 활용하지 않았는지는 모두 중요한 학습 신호가 된다. 이러한...",
-          "src": "전자신문",
+          "title": "경계 넘는 융합과 ‘비즈니스 캠퍼스’로 미래의 답을 찾다",
+          "desc": "서울과학기술대학교(이하 서울과기대)는 전 학부생 인공지능(AI) 교육 필수화와 맞춤형 학습 체계 도입... 김동환 총장이 그리는 대학의 미래는 AI 활용과 함께 학문·산업의 경계를 넓히는 데 있다. 기업·연구기관을...",
+          "src": "한겨레",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457917?sid=110",
-          "img": "https://img.etnews.com/news/article/2026/07/31/news-p.v1.20260731.76e52df21e864391809141434329b5f3_P3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/028/0002818879?sid=102",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/800/534/imgdb/original/2026/0818/20260818500005.webp"
         },
         {
-          "title": "[이미루의 트렌드 세일즈] AI 프롬프트 설계로 제안서 작성 시간 80% 줄이...",
-          "desc": "연간 153건의 RFP를 처리하는 조직은 원래 3,825시간을 제안서에만 쏟아붓는데, AI 도입 후에는 연간 3천 시간... 소비트렌드, 협상, B2B 마케팅 기술 향상 분야의 강의와 컨설팅도 병행하며, KFA한국프랜차이즈협회...",
-          "src": "lecturernews",
+          "title": "B2C AI 검색 노하우 B2B로 확장… 라이너, 전담 조직 'AX 디비전' 출범",
+          "desc": "라이너 AI 기술을 삼성물산 상업용 빌딩 플랫폼 '바인드(Bynd)'에 접목해 서비스를 고도화하는 것이 핵심... 실제, 업무 현장에서 AI를 도입할 때 가장 큰 걸림돌은 조직 내부 데이터와 업무 맥락의 공백이...",
+          "src": "AI타임스",
           "date": "08/17",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207035",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/207035_475377_518_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214025",
+          "img": "https://cdn.aitimes.com/news/photo/202608/214025_217645_3317.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817161745"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817180235"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "newsway",
           "date": "08/16",
           "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
-          "img": ""
+          "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
         },
         {
           "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI발 '칩 플레이션'에...전자업계 원가 부담도 급증",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948450?sid=101",
-      "img": "https://newsimg.hankookilbo.com/2026/08/17/a3a0cb99-a74c-4b93-ab2d-f5950d8c0e69.jpg"
-    },
-    {
-      "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+      "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01110113000002_L00.jpg"
     },
     {
       "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
       "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.725e8568826d420597f4249e421fcd30_P1.jpg"
+      "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
     },
     {
-      "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402541",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
+      "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700578.jpg"
     },
     {
-      "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+      "title": "스마트팩토리 철옹성 흔드는 K-테크…글로벌 ‘공장 패권’ 정조준",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867314?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260817501188.jpg"
     },
     {
-      "title": "'데이터 안 풀고 분석' 동형암호, 산업 현장 적용처 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457913?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.95319a3e2d3f422293ca31e9819f89c8_P1.png"
+      "title": "현대차그룹, ‘피지컬 AI’ 국방 분야로 확대",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811812?sid=101",
+      "img": "https://wimg.munhwa.com/news/cms/2026/08/17/news-p.v1.20260817.78cc9351f1344d829b425ce28abd61d4_R.jpg"
+    },
+    {
+      "title": "[기업 인사이트] AI를 묻기 전, '우리가 어떻게 일하는지'부터 물어라",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005358",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/18d/2026081701000976200053581.jpg"
     }
   ]
 };
