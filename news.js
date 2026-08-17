@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 13:59",
+  "updatedAt": "2026.08.17 (월) 16:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 투자 열풍에 원재료값 급등, 삼성·LG전자 '칩플레이션' 부담 커졌다",
-          "desc": "삼성전자는 향후 원가 부담이 완화되고 냉난방공조(HVAC)와 AI 가전 등 신사업 성과가 본격화하면 수익성도 점차 회복될 것으로 기대하고 있다. LG전자 역시 비슷한 상황이다. LG이노텍을 제외한 LG전자의 상반기...",
-          "src": "mediafine",
+          "title": "AI발 '칩 플레이션'에...전자업계 원가 부담도 급증",
+          "desc": "17일 삼성전자 2026년 반기보고서에 따르면 삼성전자의 올해 상반기 원재료 매입액은 55조8,338억 원(삼성디스플레이 제외)으로 지난해 50조9,155억 원 보다 9.6% 늘었다. TV와 생활가전, 스마트폰 등을 담당하는...",
+          "src": "한국일보",
           "date": "08/17",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87017",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87017_124671_5514.jpg"
+          "url": "https://n.news.naver.com/mnews/article/469/0000948450?sid=101",
+          "img": "https://newsimg.hankookilbo.com/2026/08/17/a3a0cb99-a74c-4b93-ab2d-f5950d8c0e69.jpg"
+        },
+        {
+          "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
+          "desc": "로봇청소기는 삼성전자와 LG전자 각각 1.4%, 0.7%로 10위권내에 이름을 올리지 못했다. 중국 기업의 부상은 저가제품 공급 확대에만 머물지 않는다. 보고서는 “중국의 부상은 단순한 가격경쟁이 아닌 생태계 결합...",
+          "src": "전자신문",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+        },
+        {
+          "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
+          "desc": "당장 의류건조기는 내년 1월부터 에너지라벨에 수리용이성 등급을 의무 표시하도록 했다. 스마트폰 등 일부... 미국 소비자단체(PIRG)가 수리용이성을 평가한 결과 애플은 D-, 삼성전자는 D등급을 받았다. DPP 시행이...",
+          "src": "전자신문",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.725e8568826d420597f4249e421fcd30_P1.jpg"
         },
         {
           "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "08/17",
           "url": "https://www.m-i.kr/news/articleView.html?idxno=1402541",
           "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
-        },
-        {
-          "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
-          "desc": "세탁·건조기 등 다른 백색가전으로 생산 품목을 넓힐 계획이다. 생산라인에는 인공지능(AI)과 산업용 로봇... 중남미 가전시장에서는 월풀l과 일렉트로룩스 등 기존 강자에 삼성전자와 LG전자 등 한국 업체, 미디어...",
-          "src": "4th",
-          "date": "08/16",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2116442",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
-        },
-        {
-          "title": "“아파트 앱 하나로 냉장고·세탁기까지”…‘스마트홈 전쟁’ 불붙었다",
-          "desc": "가전업체와 건설사, 홈네트워크 업체들이 잇따라 손을 잡으면서 아파트 자체 앱과 냉장고·세탁기·에어컨... 삼성전자는 더 일찍 아파트와 가전의 경계를 허물었다. 삼성전자는 2020년 11월 서울 서초구 ‘래미안...",
-          "src": "segye",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/022/0004151434?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "국회 전반기 교육위, 전문대 현안 법제화 '0'… 후반기 달라질까",
-          "desc": "현장의 기술을 구현하고 문제를 해결하는 '슈퍼테크니션', 즉 기술교육 중심의 전문대가 함께 성장해야 산업... 산업현장에서 AI를 실제로 활용할 수 있는 'AI 실무인재'를 대규모로 길러내야 한다\"고 제언했다. 이어 \"후반기...",
-          "src": "news",
+          "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
+          "desc": "자산으로 활용하고 있다”고 분석했다. 중국 가전기업이 빠르게 부상하는 반면, 국내 가전 생산과 수출은... AI프리미엄 가전은 반도체·AI·센서·로봇·첨단소재 등 핵심기술과 첨단 부품이 집약된 최종 융합제품인...",
+          "src": "전자신문",
           "date": "08/17",
-          "url": "https://news.unn.net/news/articleView.html?idxno=595865",
-          "img": "https://cdn.news.unn.net/news/thumbnail/202608/595865_420877_1912_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
         },
         {
-          "title": "제주 노지감귤 생산 예상량 AI로 정확성 높인다",
-          "desc": "이본 조사에는 기존 현장 실측을 비롯해 스마트폰 영상과 AI 분석을 활용한 관측 자동화 기술이 병행된다.... 제주도 농업기술원은 관측 자동화 기술이 본격 도입되면 필지당 조사 시간은 기존 약 40분에서 15분 미만으로...",
-          "src": "samdailbo",
+          "title": "'데이터 안 풀고 분석' 동형암호, 산업 현장 적용처 찾는다",
+          "desc": "함께 활용해야 할 때 장점이 있다. 인공지능(AI) 분석 과정에서도 민감한 원문 데이터의 노출을 줄이는... 기술적 도입 한계까지 분석한다. 최종적으로는 현 기술을 적용해 활용할 수 있는 영역과 아직 어려운 영역을...",
+          "src": "전자신문",
           "date": "08/17",
-          "url": "http://www.samdailbo.com/news/articleView.html?idxno=269072",
-          "img": "http://www.samdailbo.com/news/thumbnail/202608/269072_194292_309_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457913?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.95319a3e2d3f422293ca31e9819f89c8_P1.png"
         },
         {
-          "title": "SBVA, 젠스파크 초청 'AI 에이전트' 간담회 열었다",
-          "desc": "인공지능(AI) 워크스페이스 플랫폼 젠스파크의 케이 주 공동 창업자 겸 최고기술책임자(CTO)를 초청해... 사용자 활용 사례와 기업의 AI 에이전트 도입 전략 및 향후 제품 로드맵 등을 주제로 나눴다. 특히 주 CTO는 \"AI가...",
-          "src": "newstopkorea",
+          "title": "[ET단상]AX의 성패는 '도입의 속도'가 아닌 '교육의 속도'가 좌우한다",
+          "desc": "AX는 단순히 AI 기술을 도입하는 프로젝트가 아니다. AI가 조직의 일을 배우고, 구성원과 협업하며, 피드백을... 사람이 AI의 결과를 채택했는지, 수정했는지, 활용하지 않았는지는 모두 중요한 학습 신호가 된다. 이러한...",
+          "src": "전자신문",
           "date": "08/17",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47076",
-          "img": "https://cdn.newstopkorea.com/news/photo/202608/47076_48156_955.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457917?sid=110",
+          "img": "https://img.etnews.com/news/article/2026/07/31/news-p.v1.20260731.76e52df21e864391809141434329b5f3_P3.jpg"
         },
         {
-          "title": "새만금 AI 밸리, 환상을 걷어내야 미래가 보인다.",
-          "desc": "기준 AI 데이터센터 용량의 90%는 미국과 중국 두 나라에 집중되어 있으며, AI 인프라는 자본과 기술을 가진... 해수를 활용한 냉각 시스템을 도입하는 등 '처음부터 지속가능하게 설계된 AI 캠퍼스'로 포지셔닝한다면...",
-          "src": "jeollailbo",
+          "title": "[이미루의 트렌드 세일즈] AI 프롬프트 설계로 제안서 작성 시간 80% 줄이...",
+          "desc": "연간 153건의 RFP를 처리하는 조직은 원래 3,825시간을 제안서에만 쏟아붓는데, AI 도입 후에는 연간 3천 시간... 소비트렌드, 협상, B2B 마케팅 기술 향상 분야의 강의와 컨설팅도 병행하며, KFA한국프랜차이즈협회...",
+          "src": "lecturernews",
           "date": "08/17",
-          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=808308",
-          "img": "https://cdn.jeollailbo.com/news/thumbnail/202608/808308_195914_1134_v150.jpg"
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207035",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/207035_475377_518_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817135951"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817161745"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "newsway",
           "date": "08/16",
           "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
-          "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
+          "img": ""
         },
         {
           "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI 투자 열풍에 원재료값 급등, 삼성·LG전자 '칩플레이션' 부담 커졌다",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87017",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87017_124671_5514.jpg"
+      "title": "AI발 '칩 플레이션'에...전자업계 원가 부담도 급증",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948450?sid=101",
+      "img": "https://newsimg.hankookilbo.com/2026/08/17/a3a0cb99-a74c-4b93-ab2d-f5950d8c0e69.jpg"
+    },
+    {
+      "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
+    },
+    {
+      "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.725e8568826d420597f4249e421fcd30_P1.jpg"
     },
     {
       "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
     },
     {
-      "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116442",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
+      "title": "中, 5대 가전 글로벌 판매량 모두 韓 추월",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457918?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/17/news-g.v1.20260817.9debf5d9012a4217858dab997b20af26_P1.jpg"
     },
     {
-      "title": "“아파트 앱 하나로 냉장고·세탁기까지”…‘스마트홈 전쟁’ 불붙었다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151434?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
-    },
-    {
-      "title": "국회 전반기 교육위, 전문대 현안 법제화 '0'… 후반기 달라질까",
-      "url": "https://news.unn.net/news/articleView.html?idxno=595865",
-      "img": "https://cdn.news.unn.net/news/thumbnail/202608/595865_420877_1912_v150.jpg"
-    },
-    {
-      "title": "제주 노지감귤 생산 예상량 AI로 정확성 높인다",
-      "url": "http://www.samdailbo.com/news/articleView.html?idxno=269072",
-      "img": "http://www.samdailbo.com/news/thumbnail/202608/269072_194292_309_v150.jpg"
+      "title": "'데이터 안 풀고 분석' 동형암호, 산업 현장 적용처 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457913?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/13/news-p.v1.20260813.95319a3e2d3f422293ca31e9819f89c8_P1.png"
     }
   ]
 };
