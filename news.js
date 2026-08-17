@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 01:47",
+  "updatedAt": "2026.08.18 (화) 03:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -26,7 +26,7 @@ window.NEWS_DATA = {
           "src": "kmib",
           "date": "08/18",
           "url": "https://n.news.naver.com/mnews/article/005/0001867367?sid=101",
-          "img": ""
+          "img": "https://image.kmib.co.kr/online_image/2026/0818/01100201.20260817501677.jpg"
         },
         {
           "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[패트롤] 고양시-구리시-남양주시-양평군-하남시",
+          "desc": "브릿지랩은 인공지능(AI)을 활용해 소상공인 특성에 맞는 광고 자료와 홍보 방식을 제공함으로써 지역... 임재춘 일자리경제과장은 17일 “이번 창업 오디션을 통해 지역사회 문제를 창의적인 아이디어와 기술로...",
+          "src": "ekn",
+          "date": "08/18",
+          "url": "https://www.ekn.kr/web/view.php?key=20260818027013482",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260818.eec68b6804d0417aa44b4103fa7b97e3_R.jpg"
+        },
+        {
+          "title": "엔비디아 거래 후 그록 몸값 35억달러로 반토막",
+          "desc": "회사는 신규 투자금을 활용해 직접 AI 반도체 업체들과 경쟁하는 대신 자체 기술을 기반으로 AI 모델의... 그록은 자사 데이터센터에 엔비디아 시스템을 도입해 그록클라우드 고객이 자체 언어처리장치(LPU)뿐 아니라...",
+          "src": "g-enews",
+          "date": "08/18",
+          "url": "https://www.g-enews.com/view.php?ud=20260817214248509a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260817214804015689a1f30943117511616074.jpg"
+        },
+        {
           "title": "[특집 인터뷰] 오준호 한국AI로봇산업협회장",
           "desc": "우리가 피지컬 AI라고 하면 휴머노이드를 떠올리지만 그건 상징적 표현이라고 생각합니다. 거기에는 많은 기술이 복합돼 있어 활용 여지가 많습니다. 정부도 가정용 휴머노이드를 당장 목표로 하기보다는 우리 강점인...",
           "src": "irobotnews",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.wikitree.co.kr/articles/1152935",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608180015492905_ai.jpeg"
-        },
-        {
-          "title": "[기획]재선충병 단목방제서 ‘이중 방어선’ 체제로 전환",
-          "desc": "헬기·인공지능(AI)을 활용한 광역 예찰, 국가방제벨트 구축, 수종전환 등을 결합한 전략적 방제 등으로... 예찰체계 도입, 친환경 방제기술 개발 등을 추진할 계획이다. 특히 피해가 적은 지역은 청정지역으로 유지하고...",
-          "src": "kwnews",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/087/0001211895?sid=102",
-          "img": ""
-        },
-        {
-          "title": "항공기 정비·결함도 AI가 알아서 척척 해결한다?",
-          "desc": "초기에는 머신러닝 기술을 활용해 정비 소요 시간 등 기초 통계를 예측하는 수준이었으나, 이번 생성형 AI 시스템 도입으로 정비 데이터 활용 능력을 본격적으로 고도화했다. 기존에는 수백만 건의 정비 기록이 90여개...",
-          "src": "traveltimes",
-          "date": "08/18",
-          "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500226",
-          "img": "https://cdn.traveltimes.co.kr/news/photo/202608/500226_50572_2253.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818014741"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818035940"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "스마트팩토리 철옹성 흔드는 K테크… 글로벌 ‘공장 패권’ 정조준",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867367?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0818/01100201.20260817501677.jpg"
+    },
+    {
       "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
       "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "[특집 인터뷰] 오준호 한국AI로봇산업협회장",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47957",
-      "img": "https://cdn.irobotnews.com/news/photo/202608/47957_102758_3627.png"
+      "title": "[패트롤] 고양시-구리시-남양주시-양평군-하남시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260818027013482",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260818.eec68b6804d0417aa44b4103fa7b97e3_R.jpg"
     },
     {
-      "title": "MPA-바이트댄스, 저작권 보호 MOU 체결…딥페이크 논란 6개월 만에 합의",
-      "url": "https://www.wikitree.co.kr/articles/1152935",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608180015492905_ai.jpeg"
-    },
-    {
-      "title": "항공기 정비·결함도 AI가 알아서 척척 해결한다?",
-      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500226",
-      "img": "https://cdn.traveltimes.co.kr/news/photo/202608/500226_50572_2253.jpg"
+      "title": "엔비디아 거래 후 그록 몸값 35억달러로 반토막",
+      "url": "https://www.g-enews.com/view.php?ud=20260817214248509a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260817214804015689a1f30943117511616074.jpg"
     }
   ]
 };
