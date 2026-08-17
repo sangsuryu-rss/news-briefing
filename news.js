@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 19:49",
+  "updatedAt": "2026.08.17 (월) 22:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 DX 첫 적자에… 90년대생들 제일 먼저 짐 쌌다",
-          "desc": "삼성전자 DX부문(생활가전·영상디스플레이·모바일경험·네트워크사업부)은 올해 2·4분기 매출 48조원, 영업손실 8000억원을 기록했다. DX부문이 분기 적자를 기록한 것은 부문 출범 이래 이번이 처음이다. 특히 갤럭시...",
-          "src": "파이낸셜뉴스",
+          "title": "전자업계 상반기 원가 부담 수조원대 늘어",
+          "desc": "17일 삼성전자가 공시한 반기보고서에 따르면 상반기 삼성디스플레이를 제외한 삼성전자의 원재료 매입액은 55조8338억원으로 전년 동기 대비 4조9039억원(9.6%) 늘었다. 특히 생활가전·TV·스마트폰 등을 담당하는...",
+          "src": "segye",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/014/0005562485?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/17/202608171834191892_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004151552?sid=101",
+          "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
         },
         {
           "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기고] AI 장착 킨텍스, 스마트 MICE 허브로 거듭난다",
-          "desc": "이는 킨텍스라는 대형 현장이 첨단 AI 기술을 실제 도입하고 검증(PoC)하기에 가장 최적화된 거점임을 보여주는 분명한 지표다. 현재 건립 중인 킨텍스 제3전시장 역시 AI를 활용한 첨단 시설 관리가 핵심이다. 완공 시...",
-          "src": "kyeongin",
+          "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
+          "desc": "이번 협약은 최근 인구 구조 변화에 따른 병력 자원 감소와 첨단기술에 대한 수요 증가로 자동화·지능화 기술 도입의 필요성이 증가함에 따라 이러한 변화에 대비, 피지컬 AI 및 첨단기술의 국방 분야 활용 가능성을...",
+          "src": "ulsanpress",
           "date": "08/17",
-          "url": "https://www.kyeongin.com/article/1769139",
-          "img": "https://wimg.kyeongin.com/news/cms/2026/08/17/news-p.v1.20260817.7250062416d54906bfec7328677524f0_R.jpg"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581072",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581072_278182_425_v150.jpg"
         },
         {
-          "title": "공정 다운타임 20% 깎은 비결? 아바코, 피지컬 AI 물류 시스템 실증 완료",
-          "desc": "Twin) 기술 활용 아바코가 피지컬 AI(Physical AI) 기술을 접목한 차세대 스마트 물류 시스템의 개발·실증(Pilot)... 시스템을 도입했다. 이를 통해 사용자별 공정 특성에 맞춘 장비 구성 및 운영 예측이 가능해져 현장 적용...",
-          "src": "hellot",
+          "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
+          "desc": "낮추는 기술이다. 차가운 공기를 활용했던 기존 공랭식 대비 방열 성능이 월등하다. 특히 AI 데이터센터... 현재 구글 AI 서버의 80% 이상이 관련 기술을 도입한 것으로 분석된다. 트렌드포스는 \"구글은 자체 AI 가속기...",
+          "src": "ZDNet코리아",
           "date": "08/17",
-          "url": "https://www.hellot.net/news/article.html?no=114393",
-          "img": "https://www.hellot.net/data/photos/20260834/art_17869618484308_70998b.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002434168?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/17/d7f3c0e7c3a92d4d1e9260c10f1f0cd4.jpg"
         },
         {
-          "title": "20만명 쓰는 뱅크오브아메리카, AI 모델값 비교",
-          "desc": "이는 AI 활용이 실험 단계를 넘어 은행의 일상 업무 흐름에 들어갔다는 뜻이다. 사용자가 많아질수록 모델 선택은 기술팀의 선호가 아니라 조달, 예산, 내부 통제의 문제가 된다. 브라이언 모이니핸(Brian Moynihan)...",
-          "src": "tokenpost",
+          "title": "패션 공급망 AI \"수요예측 넘어 재고·생산까지 '자율운영' 시대\"",
+          "desc": "그러나 기술 도입 속도와 달리 데이터 품질과 AI 판단에 대한 신뢰, 의사결정 책임체계는 아직 크게 뒤처져... 이에 패션기업의 AI 활용은 단순 수요예측을 넘어 바잉·재고·생산 의사결정으로 확대되고 있다. 보그...",
+          "src": "전자신문",
           "date": "08/17",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/392060",
-          "img": "https://f1.tokenpost.kr/2026/08/t335fmryys.jpg"
+          "url": "http://www.ktnews.com/news/articleView.html?idxno=147747",
+          "img": "http://www.ktnews.com/news/thumbnail/202608/147747_128712_1521_v150.jpg"
         },
         {
-          "title": "국립창원대 남해캠퍼스, 9월 7~11일 2027학년도 수시 모집",
-          "desc": "다층학사제'를 도입해, 하나의 대학 안에서 2년제 전문학사와 4년제 일반학사 과정을 함께 운영하고 있다.... 실무형 기술인력을 양성한다. -방산AI전공 : 인공지능(AI), 소프트웨어, 웹·앱 개발, 사물인터넷(IoT), 드론...",
-          "src": "gnnews",
+          "title": "노지감귤 생산예상량 관측조사에 AI 기술 도입",
+          "desc": "올해 노지감귤 생산예상량을 산출하는 관측조사에 스마트폰 영상과 인공지능을 활용한 자동화 기술이 도입됩니다. 이에 따라, 스마트폰으로 감귤나무를 촬영하면 인공지능 분석 알고리즘이 영상 속 열매의 개수와 크기를...",
+          "src": "jejumbc",
           "date": "08/17",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=643376",
-          "img": "https://cdn.gnnews.co.kr/news/photo/202608/643376_444047_3059.jpg"
+          "url": "https://jejumbc.com/NewsArticle/857031",
+          "img": "https://img.youtube.com/vi/bEzs5l1x4q0/maxresdefault.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817194931"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817220800"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 DX 첫 적자에… 90년대생들 제일 먼저 짐 쌌다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562485?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/17/202608171834191892_l.jpg"
+      "title": "전자업계 상반기 원가 부담 수조원대 늘어",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151552?sid=101",
+      "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
     },
     {
       "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "[기고] AI 장착 킨텍스, 스마트 MICE 허브로 거듭난다",
-      "url": "https://www.kyeongin.com/article/1769139",
-      "img": "https://wimg.kyeongin.com/news/cms/2026/08/17/news-p.v1.20260817.7250062416d54906bfec7328677524f0_R.jpg"
+      "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581072",
+      "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581072_278182_425_v150.jpg"
     },
     {
-      "title": "공정 다운타임 20% 깎은 비결? 아바코, 피지컬 AI 물류 시스템 실증 완료",
-      "url": "https://www.hellot.net/news/article.html?no=114393",
-      "img": "https://www.hellot.net/data/photos/20260834/art_17869618484308_70998b.jpg"
+      "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434168?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/08/17/d7f3c0e7c3a92d4d1e9260c10f1f0cd4.jpg"
     }
   ]
 };
