@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 07:38",
+  "updatedAt": "2026.08.17 (월) 10:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "반도체·부품값 오르자 전자업계 상반기 원가 부담 수조 원대↑",
+          "desc": "삼성전자는 추후 원가 부담이 완화되는 국면에 접어들고 냉난방공조(HVAC) 사업과 AI 가전 성장 등 사업 체질 개선이 성과를 거두면서 이익 회복으로 이어질 것으로 기대합니다. LG전자(LG이노텍 제외)도 올해 상반기...",
+          "src": "news",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/055/0001381160?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260730/202207355_1280.jpg"
+        },
+        {
           "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
-          "desc": "김철기 삼성전자 생활가전(DA)사업부장 부사장은 내부 설명회에서 \"올해가 가전사업의 구조를 혁신할 수 있는 마지막 골든타임\"이라고 강조한 것으로 알려졌다. LG전자 역시 외주 생산을 늘리고 있다. LG전자는...",
+          "desc": "LG전자 또한 스마트홈 보안 체계인 독자 보안 시스템 'LG 쉴드(LG Shield)'를 전면에 내세웠다. 지난 6월 출시한 로봇청소기 'LG 홈봇 AI 오브제컬렉션 로니'에 LG 쉴드를 탑재해 수집된 데이터를 철저히 암호화하고 암호 키를...",
           "src": "the-biz",
           "date": "08/17",
           "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726219",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
         },
         {
-          "title": "55조8338억원 삼성 원재료비, 전자업계 부담 커졌다",
-          "desc": "삼성전자는 원가 부담 완화와 냉난방공조(HVAC), AI 가전 성장 등 사업 체질 개선이 이익 회복으로 이어질 것으로 기대한다고 밝혔다. LG전자도 같은 흐름을 피하지 못했다. LG전자의 올해 상반기 원재료 매입액은...",
-          "src": "tokenpost",
+          "title": "“아파트 앱 하나로 냉장고·세탁기까지”…‘스마트홈 전쟁’ 불붙었다",
+          "desc": "가전업체와 건설사, 홈네트워크 업체들이 잇따라 손을 잡으면서 아파트 자체 앱과 냉장고·세탁기·에어컨... 삼성전자는 더 일찍 아파트와 가전의 경계를 허물었다. 삼성전자는 2020년 11월 서울 서초구 ‘래미안...",
+          "src": "segye",
           "date": "08/17",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/391775",
-          "img": "https://f1.tokenpost.kr/2026/08/recvhod4q0.jpg"
-        },
-        {
-          "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
-          "desc": "아직 공개되지 않은 삼성전자의 로봇 기술도 ‘손재주’에 무게를 싣고 있다. 삼성전자가 최근 조직... 짜거나, 청소기를 쥔 채 버튼으로 강약을 조절하는 것처럼 로봇이 복잡한 작업에 유연하게 대처할 수 있다”며...",
-          "src": "동아일보",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487002.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004151434?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오픈AI, 시민사회 AI 지원 나선다…첫 1억 달러는 C형 간염에 [글로벌 이...",
-          "desc": "비영리단체와 학계, 지역사회 조직, 재단 등이 AI를 사회문제 해결에 활용하도록 자금과 기술 전문성... 재단은 이날 지역 필수 서비스를 제공하는 조직들이 새로운 기술을 도입하거나 혜택을 누리는 데 뒤처져...",
-          "src": "조선일보",
+          "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 '연 60만대' 생산",
+          "desc": "신공장은 인공지능(AI) 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높였다. 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는...",
+          "src": "뉴스웍스",
           "date": "08/17",
-          "url": "https://futurechosun.com/?p=157641",
-          "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260814_164609_032515-scaled.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850558",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850558_811279_243_v150.jpg"
         },
         {
-          "title": "대기업 제친 스타트업…업스테이지가 살아남은 비결은[AI 3강 이끌 개척...",
-          "desc": "기술책임자(CTO), 박은정 최고과학책임자(CSO)와 업스테이지를 설립했다. 교수직을 떠나 네이버로 향한 데 이어 대기업 AI 조직을 이끌던 자리도 내려놓고 창업을 택했다. 업스테이지라는 이름에는 기업을 AI를 활용할...",
-          "src": "economist",
+          "title": "AI가 일자리 대체하면 기업에 '전환 분담금'…AI 충격 대응기금 신설 추...",
+          "desc": "인공지능(AI)과 자동화 확산으로 일자리와 직무구조가 빠르게 재편되는 가운데 AI 도입으로 고용과... 이는 기존 AI 정책이 연구개발(R&D)과 데이터·컴퓨팅 인프라 구축, 기업의 AI 활용 촉진 등 기술 경쟁력 강화에 중점을...",
+          "src": "energydaily",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/243/0000101756?sid=105",
-          "img": "https://economist.co.kr/data/ecn/image/2026/08/12/ecn20260812000001.800x.0.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202274",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202608/202274_201975_4156.jpg"
         },
         {
-          "title": "와디즈의 AI 양면 전략...창작 문턱 낮추고 신뢰 기준 높인다",
-          "desc": "AI 도입이 본격화되고 있는데요. 와디즈는 펀딩에 참여하는 소비자뿐만 아니라 입점 브랜드까지 모두 AI를 활용할 수 있도록 배려하고 있습니다. 브랜드의 진입 장벽을 낮추고, 기술 남용으로 발생할 수 있는 부작용과...",
-          "src": "테크M",
+          "title": "[유통 혁신으로 여는 농업 경쟁력]③ 인력 절반 줄이고 처리량 최대 2배...",
+          "desc": "정부는 올해 스마트 APC의 데이터 활용도도 높인다. 스마트 APC로 전환하는 산지유통조직에 정보시스템을 무상 보급하고 기초적인 AI 분석 기능을 도입한다. 상품화 공정별 데이터를 자동으로 등록·분석해 기존 수기...",
+          "src": "전자신문",
           "date": "08/17",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=154332",
-          "img": "https://cdn.techm.kr/news/thumbnail/202608/154332_218586_540_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457840?sid=101",
+          "img": ""
         },
         {
-          "title": "[주간투자동향] 그래파이, 170억 원 규모 시리즈A 투자 유치 外",
-          "desc": "실증 단계의 사업을 정식 도입으로 전환하는 데 속도를 내고, 현장에서 검증한 기술로 해외 레퍼런스를... AI를 활용한 다양한 마케팅 실험을 짧은 주기로 반복하고, 고객 반응과 성과를 확인한 채널에만 광고비를...",
-          "src": "동아일보",
+          "title": "\"목표 설정부터 실행까지\", 젠스파크 CTO가 말한 AI의 다음 단계",
+          "desc": "밝힌 AI 워크스페이스 기업 젠스파크(Genspark)의 케이 주(Kay Zhu) 공동창업자 겸 최고기술책임자(CTO)가... 사용자 활용 사례, 기업의 AI 에이전트 도입 전략, 향후 제품 로드맵을 다뤘다. 참석자 질의응답에서는 AI...",
+          "src": "platum",
           "date": "08/17",
-          "url": "https://it.donga.com/109366/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/8/17/11ae585875b245de-thumbnail-960x540-70.jpg"
+          "url": "https://platum.kr/archives/292606",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/gen.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817073845"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817105629"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "반도체·부품값 오르자 전자업계 상반기 원가 부담 수조 원대↑",
+      "url": "https://n.news.naver.com/mnews/article/055/0001381160?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260730/202207355_1280.jpg"
+    },
+    {
       "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
       "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726219",
       "img": "https://cdn.the-biz.co.kr/news/photo/202608/726219_930664_3617.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.4th.kr/news/thumbnail/202608/2116442_213797_2345_v150.jpg"
     },
     {
-      "title": "55조8338억원 삼성 원재료비, 전자업계 부담 커졌다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/391775",
-      "img": "https://f1.tokenpost.kr/2026/08/recvhod4q0.jpg"
+      "title": "“아파트 앱 하나로 냉장고·세탁기까지”…‘스마트홈 전쟁’ 불붙었다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151434?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
     },
     {
-      "title": "로봇 경쟁, 눈에서 손으로 이동… ‘손끝’에서 승부 갈린다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741254?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487002.1.jpg"
+      "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 '연 60만대' 생산",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850558",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850558_811279_243_v150.jpg"
     },
     {
-      "title": "오픈AI, 시민사회 AI 지원 나선다…첫 1억 달러는 C형 간염에 [글로벌 이...",
-      "url": "https://futurechosun.com/?p=157641",
-      "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260814_164609_032515-scaled.jpg"
-    },
-    {
-      "title": "대기업 제친 스타트업…업스테이지가 살아남은 비결은[AI 3강 이끌 개척...",
-      "url": "https://n.news.naver.com/mnews/article/243/0000101756?sid=105",
-      "img": "https://economist.co.kr/data/ecn/image/2026/08/12/ecn20260812000001.800x.0.jpg"
+      "title": "AI가 일자리 대체하면 기업에 '전환 분담금'…AI 충격 대응기금 신설 추...",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202274",
+      "img": "https://cdn.energydaily.co.kr/news/photo/202608/202274_201975_4156.jpg"
     }
   ]
 };
