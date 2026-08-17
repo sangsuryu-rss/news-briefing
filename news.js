@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 07:34",
+  "updatedAt": "2026.08.18 (화) 07:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
+          "img": ""
         },
         {
           "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "“청년 54%, 5년 내 AI가 직무 대체”⋯ 미취업·고노출 직무일수록 우려...",
+          "desc": "청년들은 AI 도입에 기대와 우려를 동시에 나타냈다. AI 기술이 업무 전문성 및 커리어 경쟁력 향상에... AI 고노출 직무군에서는 동의 비율이 74.4%로 저노출 직무군(50.8%)을 웃돌았다. AI 활용 능력 격차로 인해...",
+          "src": "브릿지경제",
+          "date": "08/18",
+          "url": "https://www.viva100.com/article/20260818500011",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500008.jpg?v=20260818074327"
+        },
+        {
           "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
           "desc": "기업은 이미 다양한 방식으로 디지털 기술을 활용해 지원자를 평가하고 있다. 앞으로 AI가 이력서 분석부터... 기업이 AI를 도입하면 정부가 해야 할 일도 달라진다. 단순히 기존 일자리를 유지하도록 요구하는 것만으로는...",
           "src": "dailyt",
@@ -69,28 +77,20 @@ window.NEWS_DATA = {
           "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
         },
         {
+          "title": "AI에 막힌 청년 취업‥\"전공 대신 기술 배워요\"",
+          "desc": "이런 기술 있으면 좋을 것 같아서‥\" 청년들의 취업난은 AI 도입이 가속화되며 더욱 심화되고 있습니다.... AI가 초보 수준의 업무는 대체 가능한 경우가 많다 보니 기업들이 신입 채용은 대폭 줄이고, AI를 활용할 수 있는...",
+          "src": "imnews",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/214/0001518439?sid=102",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/18/today_20260818_073114_2_31_Large.jpg"
+        },
+        {
           "title": "한국정보공학, 기업용 생성형 AI 플랫폼 'HARO.Chat 2.0'·'HARO.pipeX 1.0' ...",
           "desc": "Chat을 통해 최종 사용자가 AI 서비스를 활용할 수 있도록 두 플랫폼을 연계했다. 한국정보공학은 앞으로 온톨로지 기반 지식 탐색과 문맥·의미 기반 청킹(Chunking) 기술을 확대 적용해 AI가 기업의 핵심 개념...",
           "src": "한국경제",
           "date": "08/18",
           "url": "https://n.news.naver.com/mnews/article/015/0005321754?sid=101",
           "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
-        },
-        {
-          "title": "AI가 만든 뉴스·영상, 어디까지 알려야 하나",
-          "desc": "방송미디어통신위원회가 AI 생성물 표시제 도입을 추진하는 것도 이런 변화에 대응하기 위해서다.... 방미통위 관계자는 개인적인 의견을 전제로 \"허위조작정보 식별 대책은 AI 기술 활용 여부에 국한되는 문제가 아니다...",
-          "src": "jnilbo",
-          "date": "08/18",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057355",
-          "img": "https://cdn.jnilbo.com/news/photo/202608/90000057355_573327_286.jpg"
-        },
-        {
-          "title": "드론을 띄우지 않고 출고 품질을 검사한다…위플로, 미국서 DRQC 시연",
-          "desc": "데 활용된다. 시험비행 횟수를 줄이는 효과와 함께 품질검사를 작업자의 경험에서... 김의정 위플로 대표는 “이번 Commercial UAV Expo에서는 현재 기술 검증과 도입을...",
-          "src": "venturesquare",
-          "date": "08/18",
-          "url": "https://www.venturesquare.net/1106507/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/1786862800451.png"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818073459"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818074335"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -187,14 +187,14 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/18/news-p.v1.20260817.9fb89b42719b4edb96837960b08ecc74_R.png"
     },
     {
-      "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
-    },
-    {
       "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
       "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
+    },
+    {
+      "title": "“청년 54%, 5년 내 AI가 직무 대체”⋯ 미취업·고노출 직무일수록 우려...",
+      "url": "https://www.viva100.com/article/20260818500011",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500008.jpg?v=20260818074327"
     },
     {
       "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
@@ -202,9 +202,9 @@ window.NEWS_DATA = {
       "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
     },
     {
-      "title": "한국정보공학, 기업용 생성형 AI 플랫폼 'HARO.Chat 2.0'·'HARO.pipeX 1.0' ...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321754?sid=101",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "AI에 막힌 청년 취업‥\"전공 대신 기술 배워요\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001518439?sid=102",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/18/today_20260818_073114_2_31_Large.jpg"
     }
   ]
 };
