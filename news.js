@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 03:59",
+  "updatedAt": "2026.08.18 (화) 05:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스마트팩토리 철옹성 흔드는 K테크… 글로벌 ‘공장 패권’ 정조준",
-          "desc": "삼성전자는 자사의 국내외 생산 공장을 거대한 테스트베드로 삼아 스마트팩토리 기술 고도화에 나선다.... LG전자는 오랜 기간 축적해온 가전 제조 경험과 AI·로봇 기술을 결합해 기업간거래(B2B) 사업을 본격적으로...",
-          "src": "kmib",
+          "title": "[단독]삼전닉스, 상반기 R&D 33조 역대급 투자… 호황속 격차 벌리기",
+          "desc": "삼성전자는 반도체(DS)뿐만 아니라 모바일, 가전 등 디바이스경험(DX)부문까지 합친 규모로, 반도체만 떼놓고 보면 R&D 증가율이 이보다 더 높을 것으로 전망된다. 국내 두 메모리반도체 기업의 이번 R&D 투자...",
+          "src": "동아일보",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/005/0001867367?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0818/01100201.20260817501677.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003741429?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492191.1.jpg"
         },
         {
           "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "스타 학과 육성하고 융복합 인재 양성… 대구대 혁신 로드맵",
+          "desc": "AI교육혁신처로 성장 고도화 데이터 기반 진로 관리 시스템 도입 학점 입력 시 취업 가능 기업군 소개 미래 헬스케어 산업 경쟁력 강화 특수교육·재활·사회복지 강점 살려 기계·전자공학 첨단 기술 접목 시도 캠퍼스...",
+          "src": "서울신문",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/081/0003671098?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817235229_O2.jpg"
+        },
+        {
+          "title": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
+          "desc": "늘어난 재정을 두고 고용·복지 확충을 우선하는 고용노동부와 산업·기술 인프라 지원을 강조하는... 기금형 도입)’라는 증시 수요 기반의 확충이었다. 그동안 노조 등 피고용자 단체들은 노후 자금 안전성을 이유로...",
+          "src": "한겨레",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/028/0002818924?sid=101",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/619/imgdb/original/2026/0817/20260817502241.webp"
+        },
+        {
           "title": "[패트롤] 고양시-구리시-남양주시-양평군-하남시",
           "desc": "브릿지랩은 인공지능(AI)을 활용해 소상공인 특성에 맞는 광고 자료와 홍보 방식을 제공함으로써 지역... 임재춘 일자리경제과장은 17일 “이번 창업 오디션을 통해 지역사회 문제를 창의적인 아이디어와 기술로...",
           "src": "ekn",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.g-enews.com/view.php?ud=20260817214248509a1f309431_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260817214804015689a1f30943117511616074.jpg"
-        },
-        {
-          "title": "[특집 인터뷰] 오준호 한국AI로봇산업협회장",
-          "desc": "우리가 피지컬 AI라고 하면 휴머노이드를 떠올리지만 그건 상징적 표현이라고 생각합니다. 거기에는 많은 기술이 복합돼 있어 활용 여지가 많습니다. 정부도 가정용 휴머노이드를 당장 목표로 하기보다는 우리 강점인...",
-          "src": "irobotnews",
-          "date": "08/18",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47957",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/47957_102758_3627.png"
-        },
-        {
-          "title": "MPA-바이트댄스, 저작권 보호 MOU 체결…딥페이크 논란 6개월 만에 합의",
-          "desc": "버라이어티는 MPA가 소라에 대해서도 오픈AI가 자체 가드레일을 도입하기 전까지 강하게 비판한 바 있다고 전했다. 할리우드 리포터에 따르면 소라는 지난해 출시 직후 유명 인물과 캐릭터를 무단으로 활용한...",
-          "src": "wikitree",
-          "date": "08/18",
-          "url": "https://www.wikitree.co.kr/articles/1152935",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608180015492905_ai.jpeg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818035940"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818054546"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "스마트팩토리 철옹성 흔드는 K테크… 글로벌 ‘공장 패권’ 정조준",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867367?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0818/01100201.20260817501677.jpg"
+      "title": "[단독]삼전닉스, 상반기 R&D 33조 역대급 투자… 호황속 격차 벌리기",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741429?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492191.1.jpg"
     },
     {
       "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "[패트롤] 고양시-구리시-남양주시-양평군-하남시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260818027013482",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260818.eec68b6804d0417aa44b4103fa7b97e3_R.jpg"
+      "title": "스타 학과 육성하고 융복합 인재 양성… 대구대 혁신 로드맵",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671098?sid=102",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817235229_O2.jpg"
     },
     {
-      "title": "엔비디아 거래 후 그록 몸값 35억달러로 반토막",
-      "url": "https://www.g-enews.com/view.php?ud=20260817214248509a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260817214804015689a1f30943117511616074.jpg"
+      "title": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818924?sid=101",
+      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/619/imgdb/original/2026/0817/20260817502241.webp"
     }
   ]
 };
