@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 18:02",
+  "updatedAt": "2026.08.17 (월) 19:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성 DX 첫 적자에… 90년대생들 제일 먼저 짐 쌌다",
+          "desc": "삼성전자 DX부문(생활가전·영상디스플레이·모바일경험·네트워크사업부)은 올해 2·4분기 매출 48조원, 영업손실 8000억원을 기록했다. DX부문이 분기 적자를 기록한 것은 부문 출범 이래 이번이 처음이다. 특히 갤럭시...",
+          "src": "파이낸셜뉴스",
+          "date": "08/17",
+          "url": "https://n.news.naver.com/mnews/article/014/0005562485?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/17/202608171834191892_l.jpg"
+        },
+        {
           "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
-          "desc": "구매금액의 20%를 온누리상품권으로 환급해주면서 삼성전자 가전제품 전반의 판매가 많이 늘어났다. 이런 폭발적인 수요 증가에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다....",
+          "desc": "이런 폭발적인 수요 증가에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다. 그동안 중국 로봇청소기 기업들에 빼앗겨왔던 1위를 가져온 것이다. 이처럼 제품이 성공을 거두면서...",
           "src": "매일경제",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01110113000002_L00.jpg"
+          "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
         },
         {
           "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -42,15 +50,7 @@ window.NEWS_DATA = {
           "src": "이데일리",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700578.jpg"
-        },
-        {
-          "title": "스마트팩토리 철옹성 흔드는 K-테크…글로벌 ‘공장 패권’ 정조준",
-          "desc": "삼성전자는 자사의 국내외 생산 공장을 거대한 테스트베드로 삼아 스마트팩토리 기술 고도화에 나선다.... LG전자는 오랜 기간 축적해온 가전 제조 경험과 AI·로봇 기술을 결합해 기업간거래(B2B) 사업을 본격적으로...",
-          "src": "kmib",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/005/0001867314?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260817501188.jpg"
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차그룹, ‘피지컬 AI’ 국방 분야로 확대",
-          "desc": "최근 국방 분야는 인구 구조 변화에 따른 병력 자원 감소와 첨단기술에 대한 수요 증가로 자동화·지능화 기술 도입 필요성이 커지고 있다. 이번 협약은 이러한 변화에 대비해 피지컬 AI 및 첨단기술의 국방 분야 활용...",
-          "src": "munhwa",
+          "title": "[기고] AI 장착 킨텍스, 스마트 MICE 허브로 거듭난다",
+          "desc": "이는 킨텍스라는 대형 현장이 첨단 AI 기술을 실제 도입하고 검증(PoC)하기에 가장 최적화된 거점임을 보여주는 분명한 지표다. 현재 건립 중인 킨텍스 제3전시장 역시 AI를 활용한 첨단 시설 관리가 핵심이다. 완공 시...",
+          "src": "kyeongin",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/021/0002811812?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/17/news-p.v1.20260817.78cc9351f1344d829b425ce28abd61d4_R.jpg"
+          "url": "https://www.kyeongin.com/article/1769139",
+          "img": "https://wimg.kyeongin.com/news/cms/2026/08/17/news-p.v1.20260817.7250062416d54906bfec7328677524f0_R.jpg"
         },
         {
-          "title": "[기업 인사이트] AI를 묻기 전, '우리가 어떻게 일하는지'부터 물어라",
-          "desc": "업무에 AI를 정기적으로 활용하고 있다. 도입 자체는 더 이상 화두가 아니라는 뜻이다. 문제는 그다음이다.... 관리를 AI와 자동화에 맡기는 사이 리콜 건수가 큰 폭으로 증가했고, 지난 3년간 베테랑 기술 전문가...",
-          "src": "asiatoday",
+          "title": "공정 다운타임 20% 깎은 비결? 아바코, 피지컬 AI 물류 시스템 실증 완료",
+          "desc": "Twin) 기술 활용 아바코가 피지컬 AI(Physical AI) 기술을 접목한 차세대 스마트 물류 시스템의 개발·실증(Pilot)... 시스템을 도입했다. 이를 통해 사용자별 공정 특성에 맞춘 장비 구성 및 운영 예측이 가능해져 현장 적용...",
+          "src": "hellot",
           "date": "08/17",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005358",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/18d/2026081701000976200053581.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=114393",
+          "img": "https://www.hellot.net/data/photos/20260834/art_17869618484308_70998b.jpg"
         },
         {
-          "title": "경계 넘는 융합과 ‘비즈니스 캠퍼스’로 미래의 답을 찾다",
-          "desc": "서울과학기술대학교(이하 서울과기대)는 전 학부생 인공지능(AI) 교육 필수화와 맞춤형 학습 체계 도입... 김동환 총장이 그리는 대학의 미래는 AI 활용과 함께 학문·산업의 경계를 넓히는 데 있다. 기업·연구기관을...",
-          "src": "한겨레",
+          "title": "20만명 쓰는 뱅크오브아메리카, AI 모델값 비교",
+          "desc": "이는 AI 활용이 실험 단계를 넘어 은행의 일상 업무 흐름에 들어갔다는 뜻이다. 사용자가 많아질수록 모델 선택은 기술팀의 선호가 아니라 조달, 예산, 내부 통제의 문제가 된다. 브라이언 모이니핸(Brian Moynihan)...",
+          "src": "tokenpost",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/028/0002818879?sid=102",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/800/534/imgdb/original/2026/0818/20260818500005.webp"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/392060",
+          "img": "https://f1.tokenpost.kr/2026/08/t335fmryys.jpg"
         },
         {
-          "title": "B2C AI 검색 노하우 B2B로 확장… 라이너, 전담 조직 'AX 디비전' 출범",
-          "desc": "라이너 AI 기술을 삼성물산 상업용 빌딩 플랫폼 '바인드(Bynd)'에 접목해 서비스를 고도화하는 것이 핵심... 실제, 업무 현장에서 AI를 도입할 때 가장 큰 걸림돌은 조직 내부 데이터와 업무 맥락의 공백이...",
-          "src": "AI타임스",
+          "title": "국립창원대 남해캠퍼스, 9월 7~11일 2027학년도 수시 모집",
+          "desc": "다층학사제'를 도입해, 하나의 대학 안에서 2년제 전문학사와 4년제 일반학사 과정을 함께 운영하고 있다.... 실무형 기술인력을 양성한다. -방산AI전공 : 인공지능(AI), 소프트웨어, 웹·앱 개발, 사물인터넷(IoT), 드론...",
+          "src": "gnnews",
           "date": "08/17",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214025",
-          "img": "https://cdn.aitimes.com/news/photo/202608/214025_217645_3317.jpg"
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=643376",
+          "img": "https://cdn.gnnews.co.kr/news/photo/202608/643376_444047_3059.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817180235"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817194931"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성 DX 첫 적자에… 90년대생들 제일 먼저 짐 쌌다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562485?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/17/202608171834191892_l.jpg"
+    },
+    {
       "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
       "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01110113000002_L00.jpg"
+      "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
     },
     {
       "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -189,22 +194,17 @@ window.NEWS_DATA = {
     {
       "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
       "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700578.jpg"
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "스마트팩토리 철옹성 흔드는 K-테크…글로벌 ‘공장 패권’ 정조준",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867314?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0817/01100201.20260817501188.jpg"
+      "title": "[기고] AI 장착 킨텍스, 스마트 MICE 허브로 거듭난다",
+      "url": "https://www.kyeongin.com/article/1769139",
+      "img": "https://wimg.kyeongin.com/news/cms/2026/08/17/news-p.v1.20260817.7250062416d54906bfec7328677524f0_R.jpg"
     },
     {
-      "title": "현대차그룹, ‘피지컬 AI’ 국방 분야로 확대",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811812?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/08/17/news-p.v1.20260817.78cc9351f1344d829b425ce28abd61d4_R.jpg"
-    },
-    {
-      "title": "[기업 인사이트] AI를 묻기 전, '우리가 어떻게 일하는지'부터 물어라",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005358",
-      "img": "https://img.asiatoday.co.kr/file/2026y/08m/18d/2026081701000976200053581.jpg"
+      "title": "공정 다운타임 20% 깎은 비결? 아바코, 피지컬 AI 물류 시스템 실증 완료",
+      "url": "https://www.hellot.net/news/article.html?no=114393",
+      "img": "https://www.hellot.net/data/photos/20260834/art_17869618484308_70998b.jpg"
     }
   ]
 };
