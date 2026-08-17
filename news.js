@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 10:56",
+  "updatedAt": "2026.08.17 (월) 12:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체·부품값 오르자 전자업계 상반기 원가 부담 수조 원대↑",
-          "desc": "삼성전자는 추후 원가 부담이 완화되는 국면에 접어들고 냉난방공조(HVAC) 사업과 AI 가전 성장 등 사업 체질 개선이 성과를 거두면서 이익 회복으로 이어질 것으로 기대합니다. LG전자(LG이노텍 제외)도 올해 상반기...",
-          "src": "news",
+          "title": "반도체가 바꾼 경제권력…이재용·최태원 '투톱' 더 강해졌다 [2026 누가...",
+          "desc": "상반기 반도체 수출이 전체 수출의 40%에 육박하며 매월 역대 최고 수출 기록을 경신하고 있고, 증시에서는 '삼전닉스'(삼성전자·SK하이닉스)가 전체 시가총액의 절반을 차지하며 주식시장을 이끌고 있다. 이 같은...",
+          "src": "sisajournal",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/055/0001381160?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260730/202207355_1280.jpg"
+          "url": "https://n.news.naver.com/mnews/article/586/0000136105?sid=101",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202608/383229_391355_2638_v150.jpg"
         },
         {
           "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 '연 60만대' 생산",
-          "desc": "신공장은 인공지능(AI) 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높였다. 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는...",
-          "src": "뉴스웍스",
+          "title": "AI 낸드 수요에 수혜는 中 YMTC, 애플은 CXMT…韓 '긴장'",
+          "desc": "도입할 수 없는 상황이다. 반면, 낸드는 노광장비가 따로 필요없다. 낸드는 D램과 달리 적층 기술로... 삼성전자도 평택 팹을 활용해 낸드 생산을 높인다는 계획이다. 중국의 추격은 D램에서도 위협적이다....",
+          "src": "g-enews",
           "date": "08/17",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850558",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850558_811279_243_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=20260814141239816527fa31d75c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202608141418130080027fa31d75c210113349.jpg"
         },
         {
-          "title": "AI가 일자리 대체하면 기업에 '전환 분담금'…AI 충격 대응기금 신설 추...",
-          "desc": "인공지능(AI)과 자동화 확산으로 일자리와 직무구조가 빠르게 재편되는 가운데 AI 도입으로 고용과... 이는 기존 AI 정책이 연구개발(R&D)과 데이터·컴퓨팅 인프라 구축, 기업의 AI 활용 촉진 등 기술 경쟁력 강화에 중점을...",
-          "src": "energydaily",
+          "title": "LG전자, 브라질서 新가전공장 가동…글로벌 사우스 공략 가속화",
+          "desc": "LG전자에 따르면 신공장에는 인공지능(AI)과 산업용 로봇 기반의 스마트팩토리 설루션이 도입됐다. 비전 AI 기술을 통해 품질 검사를 하고, 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전에 감지하는 시스템이...",
+          "src": "nocutnews",
           "date": "08/17",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202274",
-          "img": "https://cdn.energydaily.co.kr/news/photo/202608/202274_201975_4156.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004179309?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/17/202608171158315371_0.jpg"
         },
         {
-          "title": "[유통 혁신으로 여는 농업 경쟁력]③ 인력 절반 줄이고 처리량 최대 2배...",
-          "desc": "정부는 올해 스마트 APC의 데이터 활용도도 높인다. 스마트 APC로 전환하는 산지유통조직에 정보시스템을 무상 보급하고 기초적인 AI 분석 기능을 도입한다. 상품화 공정별 데이터를 자동으로 등록·분석해 기존 수기...",
-          "src": "전자신문",
+          "title": "경총 “영업이익 성과배분·공장 신설, 노동쟁의 대상서 제외해야”",
+          "desc": "국가전략산업 육성을 위한 ‘메가특구’에는 해외 주요국 수준의 노동유연성 강화 장치를 도입해야 한다고도... 이동근 경총 상근부회장은 “AI·반도체 대전환 시대의 기술패권 경쟁은 결국 인재를 얼마나 신속하고...",
+          "src": "이데일리",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457840?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/018/0006352795?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700202.jpg"
         },
         {
-          "title": "\"목표 설정부터 실행까지\", 젠스파크 CTO가 말한 AI의 다음 단계",
-          "desc": "밝힌 AI 워크스페이스 기업 젠스파크(Genspark)의 케이 주(Kay Zhu) 공동창업자 겸 최고기술책임자(CTO)가... 사용자 활용 사례, 기업의 AI 에이전트 도입 전략, 향후 제품 로드맵을 다뤘다. 참석자 질의응답에서는 AI...",
-          "src": "platum",
+          "title": "앤트로픽 클로드가 쓴 글, 보이지 않는 'AI 워터마크' 남는다",
+          "desc": "(SynthID-Text) 기술을 기반으로 워터마크를 구현했다. EU 규제 대응을 위해 도입하지만 초기에는 전 세계... 확정하는 증거보다는 AI가 콘텐츠 생성 과정에 관여했는지를 판단하는 기술적 단서로 활용하는 것이 적절하다.",
+          "src": "dailysecu",
           "date": "08/17",
-          "url": "https://platum.kr/archives/292606",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/gen.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208074",
+          "img": "https://cdn.dailysecu.com/news/photo/202608/208074_208990_5928.jpeg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817105629"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817121446"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체·부품값 오르자 전자업계 상반기 원가 부담 수조 원대↑",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381160?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260730/202207355_1280.jpg"
+      "title": "반도체가 바꾼 경제권력…이재용·최태원 '투톱' 더 강해졌다 [2026 누가...",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136105?sid=101",
+      "img": "https://cdn.sisajournal.com/news/thumbnail/202608/383229_391355_2638_v150.jpg"
     },
     {
       "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
     },
     {
-      "title": "LG전자, 브라질 파라나 신공장 가동…냉장고 '연 60만대' 생산",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850558",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850558_811279_243_v150.jpg"
+      "title": "AI 낸드 수요에 수혜는 中 YMTC, 애플은 CXMT…韓 '긴장'",
+      "url": "https://www.g-enews.com/view.php?ud=20260814141239816527fa31d75c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202608141418130080027fa31d75c210113349.jpg"
     },
     {
-      "title": "AI가 일자리 대체하면 기업에 '전환 분담금'…AI 충격 대응기금 신설 추...",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202274",
-      "img": "https://cdn.energydaily.co.kr/news/photo/202608/202274_201975_4156.jpg"
+      "title": "LG전자, 브라질서 新가전공장 가동…글로벌 사우스 공략 가속화",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179309?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/17/202608171158315371_0.jpg"
     }
   ]
 };
