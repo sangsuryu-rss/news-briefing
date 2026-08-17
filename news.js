@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 12:14",
+  "updatedAt": "2026.08.17 (월) 13:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체가 바꾼 경제권력…이재용·최태원 '투톱' 더 강해졌다 [2026 누가...",
-          "desc": "상반기 반도체 수출이 전체 수출의 40%에 육박하며 매월 역대 최고 수출 기록을 경신하고 있고, 증시에서는 '삼전닉스'(삼성전자·SK하이닉스)가 전체 시가총액의 절반을 차지하며 주식시장을 이끌고 있다. 이 같은...",
-          "src": "sisajournal",
+          "title": "AI 투자 열풍에 원재료값 급등, 삼성·LG전자 '칩플레이션' 부담 커졌다",
+          "desc": "삼성전자는 향후 원가 부담이 완화되고 냉난방공조(HVAC)와 AI 가전 등 신사업 성과가 본격화하면 수익성도 점차 회복될 것으로 기대하고 있다. LG전자 역시 비슷한 상황이다. LG이노텍을 제외한 LG전자의 상반기...",
+          "src": "mediafine",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/586/0000136105?sid=101",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202608/383229_391355_2638_v150.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87017",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87017_124671_5514.jpg"
         },
         {
-          "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
-          "desc": "LG전자 또한 스마트홈 보안 체계인 독자 보안 시스템 'LG 쉴드(LG Shield)'를 전면에 내세웠다. 지난 6월 출시한 로봇청소기 'LG 홈봇 AI 오브제컬렉션 로니'에 LG 쉴드를 탑재해 수집된 데이터를 철저히 암호화하고 암호 키를...",
-          "src": "the-biz",
+          "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
+          "desc": "이에 삼성전자와 SK하이닉스, LG전자 등 국내 기업들은 고부가·프리미엄 제품과 차세대 기술을 중심으로... 로보락과 드리미 등 중국 로봇청소기 업체들은 강한 흡입력과 정교한 장애물 회피, 자동 물걸레 세척 등...",
+          "src": "m-i",
           "date": "08/17",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726219",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202608/726219_930664_3617.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1402541",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
         },
         {
           "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 낸드 수요에 수혜는 中 YMTC, 애플은 CXMT…韓 '긴장'",
-          "desc": "도입할 수 없는 상황이다. 반면, 낸드는 노광장비가 따로 필요없다. 낸드는 D램과 달리 적층 기술로... 삼성전자도 평택 팹을 활용해 낸드 생산을 높인다는 계획이다. 중국의 추격은 D램에서도 위협적이다....",
-          "src": "g-enews",
+          "title": "국회 전반기 교육위, 전문대 현안 법제화 '0'… 후반기 달라질까",
+          "desc": "현장의 기술을 구현하고 문제를 해결하는 '슈퍼테크니션', 즉 기술교육 중심의 전문대가 함께 성장해야 산업... 산업현장에서 AI를 실제로 활용할 수 있는 'AI 실무인재'를 대규모로 길러내야 한다\"고 제언했다. 이어 \"후반기...",
+          "src": "news",
           "date": "08/17",
-          "url": "https://www.g-enews.com/view.php?ud=20260814141239816527fa31d75c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202608141418130080027fa31d75c210113349.jpg"
+          "url": "https://news.unn.net/news/articleView.html?idxno=595865",
+          "img": "https://cdn.news.unn.net/news/thumbnail/202608/595865_420877_1912_v150.jpg"
         },
         {
-          "title": "LG전자, 브라질서 新가전공장 가동…글로벌 사우스 공략 가속화",
-          "desc": "LG전자에 따르면 신공장에는 인공지능(AI)과 산업용 로봇 기반의 스마트팩토리 설루션이 도입됐다. 비전 AI 기술을 통해 품질 검사를 하고, 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전에 감지하는 시스템이...",
-          "src": "nocutnews",
+          "title": "제주 노지감귤 생산 예상량 AI로 정확성 높인다",
+          "desc": "이본 조사에는 기존 현장 실측을 비롯해 스마트폰 영상과 AI 분석을 활용한 관측 자동화 기술이 병행된다.... 제주도 농업기술원은 관측 자동화 기술이 본격 도입되면 필지당 조사 시간은 기존 약 40분에서 15분 미만으로...",
+          "src": "samdailbo",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/079/0004179309?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/17/202608171158315371_0.jpg"
+          "url": "http://www.samdailbo.com/news/articleView.html?idxno=269072",
+          "img": "http://www.samdailbo.com/news/thumbnail/202608/269072_194292_309_v150.jpg"
         },
         {
-          "title": "경총 “영업이익 성과배분·공장 신설, 노동쟁의 대상서 제외해야”",
-          "desc": "국가전략산업 육성을 위한 ‘메가특구’에는 해외 주요국 수준의 노동유연성 강화 장치를 도입해야 한다고도... 이동근 경총 상근부회장은 “AI·반도체 대전환 시대의 기술패권 경쟁은 결국 인재를 얼마나 신속하고...",
-          "src": "이데일리",
+          "title": "SBVA, 젠스파크 초청 'AI 에이전트' 간담회 열었다",
+          "desc": "인공지능(AI) 워크스페이스 플랫폼 젠스파크의 케이 주 공동 창업자 겸 최고기술책임자(CTO)를 초청해... 사용자 활용 사례와 기업의 AI 에이전트 도입 전략 및 향후 제품 로드맵 등을 주제로 나눴다. 특히 주 CTO는 \"AI가...",
+          "src": "newstopkorea",
           "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/018/0006352795?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700202.jpg"
+          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47076",
+          "img": "https://cdn.newstopkorea.com/news/photo/202608/47076_48156_955.jpg"
         },
         {
-          "title": "앤트로픽 클로드가 쓴 글, 보이지 않는 'AI 워터마크' 남는다",
-          "desc": "(SynthID-Text) 기술을 기반으로 워터마크를 구현했다. EU 규제 대응을 위해 도입하지만 초기에는 전 세계... 확정하는 증거보다는 AI가 콘텐츠 생성 과정에 관여했는지를 판단하는 기술적 단서로 활용하는 것이 적절하다.",
-          "src": "dailysecu",
+          "title": "새만금 AI 밸리, 환상을 걷어내야 미래가 보인다.",
+          "desc": "기준 AI 데이터센터 용량의 90%는 미국과 중국 두 나라에 집중되어 있으며, AI 인프라는 자본과 기술을 가진... 해수를 활용한 냉각 시스템을 도입하는 등 '처음부터 지속가능하게 설계된 AI 캠퍼스'로 포지셔닝한다면...",
+          "src": "jeollailbo",
           "date": "08/17",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208074",
-          "img": "https://cdn.dailysecu.com/news/photo/202608/208074_208990_5928.jpeg"
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=808308",
+          "img": "https://cdn.jeollailbo.com/news/thumbnail/202608/808308_195914_1134_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817121446"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817135951"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체가 바꾼 경제권력…이재용·최태원 '투톱' 더 강해졌다 [2026 누가...",
-      "url": "https://n.news.naver.com/mnews/article/586/0000136105?sid=101",
-      "img": "https://cdn.sisajournal.com/news/thumbnail/202608/383229_391355_2638_v150.jpg"
+      "title": "AI 투자 열풍에 원재료값 급등, 삼성·LG전자 '칩플레이션' 부담 커졌다",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87017",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87017_124671_5514.jpg"
     },
     {
-      "title": "[가전 대전환③] '이이제이'와 '보안'… 中 공세 깰 승부수",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726219",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202608/726219_930664_3617.jpg"
+      "title": "반도체부터 가전까지 덮친 '차이나 쇼크'…韓기업 긴장",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402541",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1402541_1190458_3251_v150.jpg"
     },
     {
       "title": "LG전자, 브라질 파라나 신공장 가동…중남미 가전 공략 속도",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/08/17/20260817504188.png"
     },
     {
-      "title": "AI 낸드 수요에 수혜는 中 YMTC, 애플은 CXMT…韓 '긴장'",
-      "url": "https://www.g-enews.com/view.php?ud=20260814141239816527fa31d75c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202608141418130080027fa31d75c210113349.jpg"
+      "title": "국회 전반기 교육위, 전문대 현안 법제화 '0'… 후반기 달라질까",
+      "url": "https://news.unn.net/news/articleView.html?idxno=595865",
+      "img": "https://cdn.news.unn.net/news/thumbnail/202608/595865_420877_1912_v150.jpg"
     },
     {
-      "title": "LG전자, 브라질서 新가전공장 가동…글로벌 사우스 공략 가속화",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179309?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/17/202608171158315371_0.jpg"
+      "title": "제주 노지감귤 생산 예상량 AI로 정확성 높인다",
+      "url": "http://www.samdailbo.com/news/articleView.html?idxno=269072",
+      "img": "http://www.samdailbo.com/news/thumbnail/202608/269072_194292_309_v150.jpg"
     }
   ]
 };
