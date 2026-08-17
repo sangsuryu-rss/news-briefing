@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.17 (월) 23:46",
+  "updatedAt": "2026.08.18 (화) 01:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "전자업계 상반기 원가 부담 수조원대 늘어",
-          "desc": "17일 삼성전자가 공시한 반기보고서에 따르면 상반기 삼성디스플레이를 제외한 삼성전자의 원재료 매입액은 55조8338억원으로 전년 동기 대비 4조9039억원(9.6%) 늘었다. 특히 생활가전·TV·스마트폰 등을 담당하는...",
-          "src": "segye",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/022/0004151552?sid=101",
-          "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
+          "title": "스마트팩토리 철옹성 흔드는 K테크… 글로벌 ‘공장 패권’ 정조준",
+          "desc": "삼성전자는 자사의 국내외 생산 공장을 거대한 테스트베드로 삼아 스마트팩토리 기술 고도화에 나선다.... LG전자는 오랜 기간 축적해온 가전 제조 경험과 AI·로봇 기술을 결합해 기업간거래(B2B) 사업을 본격적으로...",
+          "src": "kmib",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/005/0001867367?sid=101",
+          "img": ""
         },
         {
           "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
         },
         {
           "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[어린이 안전한 먹거리 특별기획] 한진숙 센터장 \"어린이 급식, 안전·영...",
-          "desc": "이런 데이터가 충분히 축적돼야 향후 AI 기술을 활용한 식단관리나 급식관리도 가능해질 것입니다. 지역... 스마트 급식은 단순히 새로운 기술을 도입하는 것이 아니라 현장에서 축적된 급식 데이터를 표준화하고 이를 다시...",
-          "src": "fntoday",
-          "date": "08/17",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390715",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202608/390715_314160_274_v150.jpg"
+          "title": "[특집 인터뷰] 오준호 한국AI로봇산업협회장",
+          "desc": "우리가 피지컬 AI라고 하면 휴머노이드를 떠올리지만 그건 상징적 표현이라고 생각합니다. 거기에는 많은 기술이 복합돼 있어 활용 여지가 많습니다. 정부도 가정용 휴머노이드를 당장 목표로 하기보다는 우리 강점인...",
+          "src": "irobotnews",
+          "date": "08/18",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47957",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/47957_102758_3627.png"
         },
         {
-          "title": "[경상칼럼]최전방 2만2천 명에서 6천 명, 안보의 미래를 묻다",
-          "desc": "그렇다면 국방의 방식도 달라져야 한다.AI와 드론, 지능형 감시장비와 센서, 위성정보 등 첨단기술을 활용해... 단순히 인구 감소와 첨단기술 발전을 이유로 설명하는 것만으로는 부족하다. 어떤 장비를 도입하고, 어느...",
-          "src": "ksmnews",
-          "date": "08/17",
-          "url": "https://www.ksmnews.co.kr/news/view.php?idx=617822",
-          "img": "https://www.ksmnews.co.kr/data/newsData/1786924774.png"
+          "title": "MPA-바이트댄스, 저작권 보호 MOU 체결…딥페이크 논란 6개월 만에 합의",
+          "desc": "버라이어티는 MPA가 소라에 대해서도 오픈AI가 자체 가드레일을 도입하기 전까지 강하게 비판한 바 있다고 전했다. 할리우드 리포터에 따르면 소라는 지난해 출시 직후 유명 인물과 캐릭터를 무단으로 활용한...",
+          "src": "wikitree",
+          "date": "08/18",
+          "url": "https://www.wikitree.co.kr/articles/1152935",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608180015492905_ai.jpeg"
         },
         {
-          "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
-          "desc": "이번 협약은 최근 인구 구조 변화에 따른 병력 자원 감소와 첨단기술에 대한 수요 증가로 자동화·지능화 기술 도입의 필요성이 증가함에 따라 이러한 변화에 대비, 피지컬 AI 및 첨단기술의 국방 분야 활용 가능성을...",
-          "src": "ulsanpress",
-          "date": "08/17",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581072",
-          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581072_278182_425_v150.jpg"
+          "title": "[기획]재선충병 단목방제서 ‘이중 방어선’ 체제로 전환",
+          "desc": "헬기·인공지능(AI)을 활용한 광역 예찰, 국가방제벨트 구축, 수종전환 등을 결합한 전략적 방제 등으로... 예찰체계 도입, 친환경 방제기술 개발 등을 추진할 계획이다. 특히 피해가 적은 지역은 청정지역으로 유지하고...",
+          "src": "kwnews",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/087/0001211895?sid=102",
+          "img": ""
         },
         {
-          "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
-          "desc": "낮추는 기술이다. 차가운 공기를 활용했던 기존 공랭식 대비 방열 성능이 월등하다. 특히 AI 데이터센터... 현재 구글 AI 서버의 80% 이상이 관련 기술을 도입한 것으로 분석된다. 트렌드포스는 \"구글은 자체 AI 가속기...",
-          "src": "ZDNet코리아",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434168?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/17/d7f3c0e7c3a92d4d1e9260c10f1f0cd4.jpg"
+          "title": "항공기 정비·결함도 AI가 알아서 척척 해결한다?",
+          "desc": "초기에는 머신러닝 기술을 활용해 정비 소요 시간 등 기초 통계를 예측하는 수준이었으나, 이번 생성형 AI 시스템 도입으로 정비 데이터 활용 능력을 본격적으로 고도화했다. 기존에는 수백만 건의 정비 기록이 90여개...",
+          "src": "traveltimes",
+          "date": "08/18",
+          "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500226",
+          "img": "https://cdn.traveltimes.co.kr/news/photo/202608/500226_50572_2253.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260817234631"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818014741"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "전자업계 상반기 원가 부담 수조원대 늘어",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151552?sid=101",
-      "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
-    },
-    {
       "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
       "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
+    },
+    {
+      "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
     },
     {
       "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "[어린이 안전한 먹거리 특별기획] 한진숙 센터장 \"어린이 급식, 안전·영...",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=390715",
-      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202608/390715_314160_274_v150.jpg"
+      "title": "[특집 인터뷰] 오준호 한국AI로봇산업협회장",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47957",
+      "img": "https://cdn.irobotnews.com/news/photo/202608/47957_102758_3627.png"
     },
     {
-      "title": "[경상칼럼]최전방 2만2천 명에서 6천 명, 안보의 미래를 묻다",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=617822",
-      "img": "https://www.ksmnews.co.kr/data/newsData/1786924774.png"
+      "title": "MPA-바이트댄스, 저작권 보호 MOU 체결…딥페이크 논란 6개월 만에 합의",
+      "url": "https://www.wikitree.co.kr/articles/1152935",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608180015492905_ai.jpeg"
     },
     {
-      "title": "현대차그룹, 육군과 '피지컬 AI' 국방 실증 나선다",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581072",
-      "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581072_278182_425_v150.jpg"
+      "title": "항공기 정비·결함도 AI가 알아서 척척 해결한다?",
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500226",
+      "img": "https://cdn.traveltimes.co.kr/news/photo/202608/500226_50572_2253.jpg"
     }
   ]
 };
