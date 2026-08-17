@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 05:45",
+  "updatedAt": "2026.08.18 (화) 07:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[단독]삼전닉스, 상반기 R&D 33조 역대급 투자… 호황속 격차 벌리기",
-          "desc": "삼성전자는 반도체(DS)뿐만 아니라 모바일, 가전 등 디바이스경험(DX)부문까지 합친 규모로, 반도체만 떼놓고 보면 R&D 증가율이 이보다 더 높을 것으로 전망된다. 국내 두 메모리반도체 기업의 이번 R&D 투자...",
-          "src": "동아일보",
+          "title": "공공 모듈러 2만호 시대…GS건설, 선점 속도 낸다",
+          "desc": "공간제작소가 주택의 설계와 제작·시공을 맡고, 삼성전자는 AI 가전과 스마트홈 솔루션을 공급하는 방식을 택한 것이다. 가전업계가 모듈러 주택에 뛰어드는 이유는 HVAC 시스템과 AI 가전을 주택 설계 단계부터...",
+          "src": "newstopkorea",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/020/0003741429?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492191.1.jpg"
+          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47081",
+          "img": "https://cdn.newstopkorea.com/news/photo/202608/47081_48161_5554.png"
         },
         {
-          "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
-          "desc": "이런 폭발적인 수요 증가에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다. 그동안 중국 로봇청소기 기업들에 빼앗겨왔던 1위를 가져온 것이다. 이처럼 제품이 성공을 거두면서...",
+          "title": "“성과급 박탈감이 좀 가시네요”…갤Z폴드 흥행에 삼전DX 분위기 반전",
+          "desc": "이런 폭발적인 수요에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다. 그동안 중국 로봇청소기 기업들에 빼앗겨왔던 1위를 가져온 것이다. 이처럼 제품이 성공을 거두면서...",
           "src": "매일경제",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/009/0005722066?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/18/news-p.v1.20260817.9fb89b42719b4edb96837960b08ecc74_R.png"
         },
         {
           "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스타 학과 육성하고 융복합 인재 양성… 대구대 혁신 로드맵",
-          "desc": "AI교육혁신처로 성장 고도화 데이터 기반 진로 관리 시스템 도입 학점 입력 시 취업 가능 기업군 소개 미래 헬스케어 산업 경쟁력 강화 특수교육·재활·사회복지 강점 살려 기계·전자공학 첨단 기술 접목 시도 캠퍼스...",
-          "src": "서울신문",
+          "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
+          "desc": "기업은 이미 다양한 방식으로 디지털 기술을 활용해 지원자를 평가하고 있다. 앞으로 AI가 이력서 분석부터... 기업이 AI를 도입하면 정부가 해야 할 일도 달라진다. 단순히 기존 일자리를 유지하도록 요구하는 것만으로는...",
+          "src": "dailyt",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/081/0003671098?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817235229_O2.jpg"
+          "url": "https://www.dailyt.co.kr/newsView/dlt202608180001",
+          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
         },
         {
-          "title": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
-          "desc": "늘어난 재정을 두고 고용·복지 확충을 우선하는 고용노동부와 산업·기술 인프라 지원을 강조하는... 기금형 도입)’라는 증시 수요 기반의 확충이었다. 그동안 노조 등 피고용자 단체들은 노후 자금 안전성을 이유로...",
-          "src": "한겨레",
+          "title": "한국정보공학, 기업용 생성형 AI 플랫폼 'HARO.Chat 2.0'·'HARO.pipeX 1.0' ...",
+          "desc": "Chat을 통해 최종 사용자가 AI 서비스를 활용할 수 있도록 두 플랫폼을 연계했다. 한국정보공학은 앞으로 온톨로지 기반 지식 탐색과 문맥·의미 기반 청킹(Chunking) 기술을 확대 적용해 AI가 기업의 핵심 개념...",
+          "src": "한국경제",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/028/0002818924?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/619/imgdb/original/2026/0817/20260817502241.webp"
+          "url": "https://n.news.naver.com/mnews/article/015/0005321754?sid=101",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "[패트롤] 고양시-구리시-남양주시-양평군-하남시",
-          "desc": "브릿지랩은 인공지능(AI)을 활용해 소상공인 특성에 맞는 광고 자료와 홍보 방식을 제공함으로써 지역... 임재춘 일자리경제과장은 17일 “이번 창업 오디션을 통해 지역사회 문제를 창의적인 아이디어와 기술로...",
-          "src": "ekn",
+          "title": "AI가 만든 뉴스·영상, 어디까지 알려야 하나",
+          "desc": "방송미디어통신위원회가 AI 생성물 표시제 도입을 추진하는 것도 이런 변화에 대응하기 위해서다.... 방미통위 관계자는 개인적인 의견을 전제로 \"허위조작정보 식별 대책은 AI 기술 활용 여부에 국한되는 문제가 아니다...",
+          "src": "jnilbo",
           "date": "08/18",
-          "url": "https://www.ekn.kr/web/view.php?key=20260818027013482",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260818.eec68b6804d0417aa44b4103fa7b97e3_R.jpg"
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057355",
+          "img": "https://cdn.jnilbo.com/news/photo/202608/90000057355_573327_286.jpg"
         },
         {
-          "title": "엔비디아 거래 후 그록 몸값 35억달러로 반토막",
-          "desc": "회사는 신규 투자금을 활용해 직접 AI 반도체 업체들과 경쟁하는 대신 자체 기술을 기반으로 AI 모델의... 그록은 자사 데이터센터에 엔비디아 시스템을 도입해 그록클라우드 고객이 자체 언어처리장치(LPU)뿐 아니라...",
-          "src": "g-enews",
+          "title": "드론을 띄우지 않고 출고 품질을 검사한다…위플로, 미국서 DRQC 시연",
+          "desc": "데 활용된다. 시험비행 횟수를 줄이는 효과와 함께 품질검사를 작업자의 경험에서... 김의정 위플로 대표는 “이번 Commercial UAV Expo에서는 현재 기술 검증과 도입을...",
+          "src": "venturesquare",
           "date": "08/18",
-          "url": "https://www.g-enews.com/view.php?ud=20260817214248509a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260817214804015689a1f30943117511616074.jpg"
+          "url": "https://www.venturesquare.net/1106507/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/1786862800451.png"
         }
       ]
     },
@@ -101,12 +101,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "SK하이닉스, 美 첨단 패키징 팹 27일 착공…메모리 전공정 투자 열어놔",
+          "desc": "미국 정부가 삼성전자와 SK하이닉스에 현지 메모리 생산 확대를 요구하는 상황에서 38억7000만달러 규모의... 고객사와 협력사를 대상으로 행사 준비에 들어갔다. SK하이닉스 측은 \"현지시간으로 27일 착공식이 확정됐다...",
+          "src": "newswhoplus",
+          "date": "08/18",
+          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=67107",
+          "img": "https://cdn.newswhoplus.com/news/thumbnail/202608/67107_103798_573_v150.jpg"
+        },
+        {
+          "title": "'반도체 호황에도 적자'…대기업 쏠림에 소부장 'K자 양극화'",
+          "desc": "인공지능(AI) 메모리 슈퍼사이클을 타고 삼성전자(005930)·SK하이닉스(000660) 등 대기업들이 역대급 실적과 성과급 확대 기조를 이어가고 있지만, 일부 소재·부품·장비(소부장) 기업은 늘어난 발주에도 수익성 개선 폭이...",
+          "src": "뉴스1",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/421/0009117862?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/11/8051212/high.jpg"
+        },
+        {
           "title": "'중장년 전유물' 깼다…갤럭시 폴드8, 1030·여성 구매 비중 절반 넘어",
           "desc": "삼성전자는 올해 갤럭시 Z폴드8을 당초 계획보다 100만대 추가 생산하기로 하고 협력사에 관련 부품 추가 발주를 진행한 것으로 알려졌다. 이와 관련 이은희 인하대 소비자학과 교수는 “폴더블폰이 생산성과 업무...",
           "src": "kyeonggi",
           "date": "08/16",
           "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818054546"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818073459"
         },
         {
           "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/16",
           "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
           "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
-        },
-        {
-          "title": "반도체 소부장 독립, 상당 부분 진행됐지만 \"갈 길 멀다\"",
-          "desc": "삼성전자와 SK하이닉스 등 반도체 제조사 역시 생산시설 확대를 모색하면서 국산 장비의 수요는 더 많아질... SK하이닉스가 8600억원을 투입해 조성하며 내년에 완공 후 가동되면 협력사와 상생 협력의 모델로 운영될...",
-          "src": "seoulfn",
-          "date": "08/15",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=635716",
-          "img": "https://cdn.seoulfn.com/news/photo/202608/635716_437257_5910.jpg"
-        },
-        {
-          "title": "코스피, 7000선 턱밑까지 반등…외국인 3조 순매수에 5거래일 연속↑",
-          "desc": "현대차그룹이 1차 협력사들의 휴머노이드 사업 계획을 점검하고 2028년부터 단계적으로 양산에... 삼성전자는 2.43% 상승하며 이번주 누적 상승률 18.8%를 기록했다. SK하이닉스도 3.26% 올랐으며 이번주 15.7...",
-          "src": "econovill",
-          "date": "08/14",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=748078",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/748078_722668_143_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[단독]삼전닉스, 상반기 R&D 33조 역대급 투자… 호황속 격차 벌리기",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741429?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492191.1.jpg"
+      "title": "공공 모듈러 2만호 시대…GS건설, 선점 속도 낸다",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47081",
+      "img": "https://cdn.newstopkorea.com/news/photo/202608/47081_48161_5554.png"
     },
     {
-      "title": "신규폰·가전 흥행에 … 삼성 DX 어깨 편다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722018?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/18/20260818_01160113000002_L00.jpg"
+      "title": "“성과급 박탈감이 좀 가시네요”…갤Z폴드 흥행에 삼전DX 분위기 반전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722066?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/18/news-p.v1.20260817.9fb89b42719b4edb96837960b08ecc74_R.png"
     },
     {
       "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
     },
     {
-      "title": "스타 학과 육성하고 융복합 인재 양성… 대구대 혁신 로드맵",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671098?sid=102",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817235229_O2.jpg"
+      "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
+      "url": "https://www.dailyt.co.kr/newsView/dlt202608180001",
+      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
     },
     {
-      "title": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818924?sid=101",
-      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/619/imgdb/original/2026/0817/20260817502241.webp"
+      "title": "한국정보공학, 기업용 생성형 AI 플랫폼 'HARO.Chat 2.0'·'HARO.pipeX 1.0' ...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321754?sid=101",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     }
   ]
 };
