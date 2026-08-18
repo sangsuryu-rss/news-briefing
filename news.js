@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 12:09",
+  "updatedAt": "2026.08.18 (화) 13:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자서비스 노사, 올해 임단협 체결…임금 4.1% 인상",
-          "desc": "삼성전자서비스 노사는 기록적인 폭염으로 에어컨 등 가전제품의 서비스 수요가 증가하고 있는 가운데 안정적인 서비스 제공과 고객 만족도 제고에 힘을 모을 계획이다. 유덕규 글로벌이코노믹 기자",
-          "src": "g-enews",
+          "title": "삼성전자서비스 노사, 임단협 체결…임금 4.1% 인상",
+          "desc": "삼성전자서비스 노사는 기록적인 폭염으로 에어컨 등 가전제품의 서비스 수요가 증가하고 있는 가운데 안정적인 서비스 제공과 고객 만족도 제고에 힘을 모을 계획입니다. (사진=삼성전자서비스 제공, 연합뉴스)",
+          "src": "news",
           "date": "08/18",
-          "url": "https://www.g-enews.com/view.php?ud=202608181144045531139bf6e4b2_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081811490802943139bf6e4b2115951676.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001381427?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260818/202213452_1280.jpg"
         },
         {
           "title": "이렇게 생긴 무선공유기 조심해야... 교체 안 하면 큰일 벌어질 수도",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
         },
         {
-          "title": "[가전 대전환②] '소유'에서 '경험'으로… 판도 바꾸는 구독 생태계",
-          "desc": "이에 삼성전자와 LG전자는 출혈 가격 경쟁을 피하고 AI 기능과 스마트홈, 제품 관리 서비스를 결합한 고부가... 구독 서비스 도입 이후 지난해 LG전자의 냉장고·세탁기·에어컨 매출은 26조4692억원으로 도입 전인...",
-          "src": "the-biz",
+          "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
+          "desc": "삼성전자: \"조직 DNA 완전히 바꾸겠다\" 이재용 삼성전자 회장의 선언은 명확했다. 올해 신년사에서 그는... TV와 세탁기 개발 과정에서 이미 구체적인 성과를 냈다. 2030년까지 AI 자율공장으로의 전환 추진도...",
+          "src": "globalepic",
           "date": "08/18",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726151",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202608/726151_930523_2552.jpg"
+          "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "그래비스 로보틱스, 소프트뱅크로부터 2억달러 투자 유치",
-          "desc": "피지컬 AI 기술을 고도화하고, 자율 중장비를 전 세계 건설 현장에 대규모로 확산하는 데 활용할 예정이다.... 적극 도입하고 확대할 계획이다. 회사는 소프트뱅크의 투자금을 활용해 인재 영입과 엔지니어링 역량을...",
-          "src": "irobotnews",
+          "title": "산업가스 업계 안전 강화·인력난 해결 위한 스마트공장 도입 앞장서는...",
+          "desc": "인공지능(AI)으로 분석해 산업가스 생산·수요·출고 계획을 효과적으로 수립함으로써 안전관리 능력과 생산... 신기술 도입에 대한 필요성을 잘 느끼지 못했기 때문”이라며 “이에 중기중앙회의 정부 지원 사업을 활용해...",
+          "src": "amenews",
           "date": "08/18",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47971",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/47971_102778_1946.png"
+          "url": "http://amenews.kr/news/view.php?idx=67717",
+          "img": "http://amenews.kr/data/cheditor4/2608/3554368046_N75EvYOF_111.bmp"
         },
         {
-          "title": "[21세기 전장. 드론전이 전장을 바꾼다 ②]연간 수백만 대의 전쟁, 누가...",
-          "desc": "FP-1과 Liutyi 같은 장거리 무인체계가 러시아 정유·군수시설 공격에 활용되면서 우크라이나의 드론산업은... 2026년 약 1만1000대 수준에서 2029년까지 약 6만 대 규모의 드론 도입을 추진하고, 저가 소모성 드론과 AI...",
-          "src": "ilemonde",
+          "title": "[인터뷰] 박종원 담양군수 \"8대 혁신 프로젝트로 담양 미래 100년 열겠다...",
+          "desc": "반도체 배후 인프라 구축해 자립형 지역 경제 완성 죽녹원 등 세계적 생태 자산 활용 체류형 관광도시화... 그는 특히 전통적 농업 지역인 담양군을 'AI 스마트 농산업 실증도시'로 전환해 첨단 기술을 이식하고 농가 소득의...",
+          "src": "더팩트",
           "date": "08/18",
-          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30493",
-          "img": "https://cdn.ilemonde.com/news/photo/202608/30493_51128_43.png"
+          "url": "https://n.news.naver.com/mnews/article/629/0000525220?sid=102",
+          "img": "https://img.tf.co.kr/article/home/2026/08/18/202630041787027133.jpg"
         },
         {
-          "title": "클레로보틱스, 중기부 '글로벌 팁스' 선정…정부지원금 50억원 확보",
-          "desc": "클레로보틱스는 3D 카메라와 AI를 활용해 각각의 물체를 인식하고, 로봇이 집을 위치와 순서를 판단해 안정적으로 작업할 수 있도록 관련 기술을 고도화할 계획이다. 이를 위해 소형·저전력 3D 카메라와 넓은 영역을...",
-          "src": "irobotnews",
+          "title": "청년 일자리 뺏는 AI…감소분 94%, AI 고노출 업종",
+          "desc": "오 팀장은 \"AI 도입 그 자체보다 기술이 어떤 방식으로 활용되느냐에 따라 고용에 미친 영향이 달라질 수 있다\"고 말했다. AI 노출 가능성이 상대적으로 높은 고학력 청년층의 고용 여건이 더 악화된 점도 특징이다....",
+          "src": "nocutnews",
           "date": "08/18",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47976",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/47976_102786_5842.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004179638?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/18/202608181344161761_0.jpg"
         },
         {
-          "title": "SKT·LG·업스테이지, 독파모 최종 진출…\"새로운 경쟁도 고민\"(종합)",
-          "desc": "◇ 국민 참여형 사용성 평가 신규 도입…연말 최종 2팀으로 추려 과학기술정보통신부와 정보통신산업진흥원은 18일 정부서울청사에서 '독자 AI 파운데이션 모델' 프로젝트 2차 단계평가 결과를 공개하며 이같이...",
-          "src": "news",
+          "title": "대한항공, 생성형 AI 기반 정비결함 분석 시스템 도입",
+          "desc": "생성형 AI를 활용한 정비 데이터 간 상관관계와 결함 발생 패턴 분석도 지원한다. 항공기와 지상 간 통신으로 수신되는 실시간 운항 메시지도 함께 조회할 수 있다. 대한항공은 시스템 도입으로 기술 정보 분석과...",
+          "src": "smarttimes",
           "date": "08/18",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430532",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430532_337429_22_v150.jpg"
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48227",
+          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48227_46855_2959_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "구글 삼성전자·SK하이닉스와 메모리반도체 협상에 유리, AI 서버와 스마...",
+          "desc": "특히 베트남은 삼성전자가 이미 스마트폰 제조 공급망을 구축한 지역이라 구글이 부품 협력사를 확보하기 좋은 생태계가 갖춰져 있다는 분석도 제시됐다. 닛케이아시아는 \"구글은 2026년 픽셀 스마트폰의 사업 전략을...",
+          "src": "비즈니스포스트",
+          "date": "08/18",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444960",
+          "img": ""
+        },
+        {
+          "title": "[AI 빈부격차 시대①] '모두의 기술'이 아니었다…벌어진 AX 격차",
+          "desc": "삼성전자는 글로벌 빅테크의 대표 생성형 AI 3종(챗GPT 엔터프라이즈, 제미나이 엔터프라이즈, 클로드)을... 권혁민 한경협 성장전략실장은 \"제조업 AX는 소재·부품·장비를 공급하는 협력사까지 함께 전환해 산업...",
+          "src": "ebn",
+          "date": "08/18",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720703",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1720703_752080_502_v150.jpg"
+        },
         {
           "title": "조영훈 로봇산업진흥원장 \"대구경북 강점 묶어 로봇산업 성장 한계 넘어...",
           "desc": "않고 협력사를 끌고 가는 국산 로봇 부품 생태계를 만들어야 한다\"고 말했다. 특히 대구와 경북의 산업적... 지역 부품사를 보유하고 있고, 구미는 삼성전자를 비롯한 전기·전자·정보통신 제조 기반을 갖추고 있다\"면서...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://n.news.naver.com/mnews/article/016/0002684950?sid=101",
           "img": "https://wimg.heraldcorp.com/news/cms/2026/08/18/news-p.v1.20260626.5a750500821844b7a9b64ce0712fd524_T1.jpg"
-        },
-        {
-          "title": "[TECH한주] 자율주행 칩을 현실로 만드는 가교, 파운드리 DSP '코아시아'",
-          "desc": "문제는 알고리즘 회로도를 그리는 것과 이를 삼성전자 같은 첨단 파운드리 공정에서 실제 실리콘 칩으로... 1차 협력사들로부터 차량용 인포테인먼트 및 전장용 AP 턴키 프로젝트 수주를 연이어 성사시키고...",
-          "src": "epnc",
-          "date": "08/18",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405628",
-          "img": "https://cdn.epnc.co.kr/news/photo/202608/405628_405998_4033.jpg"
-        },
-        {
-          "title": "SK하이닉스, 美 첨단 패키징 팹 27일 착공…메모리 전공정 투자 열어놔",
-          "desc": "미국 정부가 삼성전자와 SK하이닉스에 현지 메모리 생산 확대를 요구하는 상황에서 38억7000만달러 규모의... 고객사와 협력사를 대상으로 행사 준비에 들어갔다. SK하이닉스 측은 \"현지시간으로 27일 착공식이 확정됐다...",
-          "src": "newswhoplus",
-          "date": "08/18",
-          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=67107",
-          "img": "https://cdn.newswhoplus.com/news/thumbnail/202608/67107_103798_573_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자서비스 노사, 올해 임단협 체결…임금 4.1% 인상",
-      "url": "https://www.g-enews.com/view.php?ud=202608181144045531139bf6e4b2_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081811490802943139bf6e4b2115951676.jpg"
+      "title": "삼성전자서비스 노사, 임단협 체결…임금 4.1% 인상",
+      "url": "https://n.news.naver.com/mnews/article/055/0001381427?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260818/202213452_1280.jpg"
     },
     {
       "title": "이렇게 생긴 무선공유기 조심해야... 교체 안 하면 큰일 벌어질 수도",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
     },
     {
-      "title": "[가전 대전환②] '소유'에서 '경험'으로… 판도 바꾸는 구독 생태계",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726151",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202608/726151_930523_2552.jpg"
+      "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
+      "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
     },
     {
-      "title": "그래비스 로보틱스, 소프트뱅크로부터 2억달러 투자 유치",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47971",
-      "img": "https://cdn.irobotnews.com/news/photo/202608/47971_102778_1946.png"
+      "title": "산업가스 업계 안전 강화·인력난 해결 위한 스마트공장 도입 앞장서는...",
+      "url": "http://amenews.kr/news/view.php?idx=67717",
+      "img": "http://amenews.kr/data/cheditor4/2608/3554368046_N75EvYOF_111.bmp"
     },
     {
-      "title": "[21세기 전장. 드론전이 전장을 바꾼다 ②]연간 수백만 대의 전쟁, 누가...",
-      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30493",
-      "img": "https://cdn.ilemonde.com/news/photo/202608/30493_51128_43.png"
+      "title": "[인터뷰] 박종원 담양군수 \"8대 혁신 프로젝트로 담양 미래 100년 열겠다...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000525220?sid=102",
+      "img": "https://img.tf.co.kr/article/home/2026/08/18/202630041787027133.jpg"
     }
   ]
 };
