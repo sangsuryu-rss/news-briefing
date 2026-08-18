@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 03:57",
+  "updatedAt": "2026.08.19 (수) 05:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "8월 3주 주요 제조업 전망",
-          "desc": "기후부, 삼성전자, 한화큐셀, OCI, SK실트론 및 한국반도체산업협회 등 유관 부처와 기업들이 참석함 - 6일... LG전자, 브라질 가전 공장 가동 - 16일 LG전자가 브라질 남부 파라나 가전 공장이 13일 가동을 시작했다고...",
-          "src": "laborplus",
+          "title": "[C레벨 보수의 비밀] ①‘보수킹’ 이원진 75억…삼성 임원 보수 들여다...",
+          "desc": "2분기 DX 적자인데 보수 1위?…28억은 ‘LTI’ 삼성전자 DX부문(생활가전·VD·MX·네트워크)은 올해 2분기 매출 48조원, 영업손실 8000억원을 기록하며 분기 적자로 돌아섰다. 실적 악화 속에서 DX부문 사업부장인 이...",
+          "src": "dnews",
           "date": "08/19",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608180905413450258",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/18/202608180905413450258-2-684593.jpg"
         },
         {
           "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "로버스트AI, 새 수장에 차카로프 영입…카터 100대 돌파",
-          "desc": "플랫폼을 활용해 창고 내 최적의 재고 배치나 효율적인 인력 운용 방안을 도출할 수 있다. 독자적 플랫폼과 안정적 제조 기반 확보 생산과 기술 역량을 강화하기 위한 파트너십 구축도 활발하게 이루어진다. 로버스트AI는...",
-          "src": "g-enews",
+          "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
+          "desc": "치셴커피는 앞으로 AI를 활용해 소비자의 건강 상태 등을 토대로 적정 카페인 섭취량을 제안하는 개인 맞춤형 추천 기능도 도입한다는 방침입니다. (사진=양광망 캡처, 연합뉴스)",
+          "src": "news",
           "date": "08/19",
-          "url": "https://www.g-enews.com/view.php?ud=2026081820380188642bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260818204133005882bd56fbc3c21121419978.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001381599?sid=104",
+          "img": "https://img.sbs.co.kr/newimg/news/20260819/202213688_1280.jpg"
         },
         {
-          "title": "(온라인) 쳇GPT 청소년 버전 나온다",
-          "desc": "중심으로 활용하도록 설계한 전용 모드를 도입한 것이다. 오픈AI는 18일 블로그를 통해 10대 이용자를 위한... 다만 전문가들은 연령을 정확히 확인하기 어려운 기술적 한계와 부모의 관리에 의존하는 방식만으로는...",
-          "src": "koreadaily",
+          "title": "동국대 WISE, 9월 전교생 대상 AI 서비스 시작…챗GPT·제미나이 등 활용",
+          "desc": "도구로 활용할 수 있게 한다는 설명이다. 이번 서비스 도입은 동국대학교 WISE캠퍼스가 추진하는 AI... 류완하 동국대 WISE캠퍼스 총장은 \"AI는 특정 전공에 국한된 기술이 아니라 모든 분야 학생들이 갖춰야 할 기본 역량...",
+          "src": "gukjenews",
           "date": "08/19",
-          "url": "https://www.koreadaily.com/article/20260818101828192",
-          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/08/19/270897c7-c7a1-4cfa-9c7e-191d6dd61c1c.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667765",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3667765_3835332_05_v150.jpg"
         },
         {
-          "title": "[GAM] 하트플로우 신고점 ① AI 기술로 관상동맥질환 진단 혁신",
-          "desc": "의료기술 기업이다. 회사의 독자적인 하트플로우 원(Heartflow One) 플랫폼은 AI와 고도화된 전산유체역학을 활용해 단 한 번의 관상동맥 CT 혈관조영술(CCTA) 촬영만으로 환자 개개인에게 맞춤화된 3차원 심장 모델을...",
-          "src": "뉴스핌",
+          "title": "400여개 헬스케어 기업 모인 KHF 2026…눈 여겨볼 회사는?",
+          "desc": "핵심 기술과 실제 도입 사례를 한자리에서 조망하는 자리로 꾸려진다.국내 양대 헬스케어 전시회의... 분석 기술을 활용하는 환자 모니터링 서비스 AI-PAM을 전시한다.AI-PAM을 활용하면 다인 병실에서 발생할 수...",
+          "src": "medicaltimes",
           "date": "08/19",
-          "url": "https://www.newspim.com/news/view/20260819000017",
-          "img": "https://img.newspim.com/news/2026/08/19/2608190158273480_t1.jpg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170241&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260818/1787047590.jpg"
         },
         {
-          "title": "[GAM] 하트플로우 신고점 ② 플라크 분석 사업 성장세 주목",
-          "desc": "하트플로우 도입을 주도하는 핵심 지지층으로 부상하고 있다. 하트플로우의 플라크 분석 소프트웨어... 파쿼 CEO는 이들 연구가 회사의 기존 기술을 활용하며, 저밀도지단백(LDL) 콜레스테롤과 연성 플라크의 변화로...",
-          "src": "뉴스핌",
+          "title": "[양창섭의 클래식 한마디] AI 연출과 콘서트 오페라",
+          "desc": "이 숫자는 150을 이진수로 표현한 것으로, 전 세계의 화두인 인공지능(AI)를 연출에 활용한 것을 의미했다.... 오페라 연출에서 AI 도입이 옳고 그름을 논하려는 것은 아니다. 새로운 기술을 받아들이지 않고 예술이...",
+          "src": "서울신문",
           "date": "08/19",
-          "url": "https://www.newspim.com/news/view/20260819000018",
-          "img": "https://img.newspim.com/news/2026/08/19/2608190158451290_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003671405?sid=110",
+          "img": "https://img.seoul.co.kr//img/upload/2025/02/11/SSC_20250211235137_O2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "8월 3주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
+      "title": "[C레벨 보수의 비밀] ①‘보수킹’ 이원진 75억…삼성 임원 보수 들여다...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608180905413450258",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/18/202608180905413450258-2-684593.jpg"
     },
     {
       "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
     },
     {
-      "title": "로버스트AI, 새 수장에 차카로프 영입…카터 100대 돌파",
-      "url": "https://www.g-enews.com/view.php?ud=2026081820380188642bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260818204133005882bd56fbc3c21121419978.jpg"
+      "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
+      "url": "https://n.news.naver.com/mnews/article/055/0001381599?sid=104",
+      "img": "https://img.sbs.co.kr/newimg/news/20260819/202213688_1280.jpg"
     },
     {
-      "title": "(온라인) 쳇GPT 청소년 버전 나온다",
-      "url": "https://www.koreadaily.com/article/20260818101828192",
-      "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/08/19/270897c7-c7a1-4cfa-9c7e-191d6dd61c1c.jpg"
+      "title": "동국대 WISE, 9월 전교생 대상 AI 서비스 시작…챗GPT·제미나이 등 활용",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667765",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3667765_3835332_05_v150.jpg"
     }
   ]
 };
