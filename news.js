@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 19:48",
+  "updatedAt": "2026.08.18 (화) 22:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[단독] 노태문 대표, 내일 경영 설명회…첫 DX 적자 타개책 주목",
-          "desc": "삼성전자 DX부문를 총괄하는 노태문 대표이사가 내일 DX부문 그룹장 등 간부들을 대상으로 경영현황... 모바일, TV, 생활가전 등 DX 전반의 실적 개선을 위한 대책들이 거론될 것으로 보입니다.",
-          "src": "biz",
+          "title": "실적 부진에 보상 격차까지…삼성전자 희망퇴직, 90년대생으로 확대",
+          "desc": "18일 업계에 따르면 삼성전자는 수년 전부터 희망퇴직 제도를 상시 운영하고 있다. 통상 인사팀이 부장급에... 스마트폰과 TV, 가전 등 완제품 사업의 실적 부진과 함께 수억 원대 희망퇴직 보상이 영향을 미친 것으로...",
+          "src": "thepublic",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/374/0000528053?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/07/23/bYc1784767539660-850.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315285",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/315285_318515_1733.png"
         },
         {
           "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
         },
         {
-          "title": "[오늘의 전자] 삼성전자·LG전자",
-          "desc": "18일 삼성전자와 LG전자의 소식. 삼성전자가 오스트리아 '빈 미술사 박물관'의 대표 소장품 43점을 삼성... 이곳에서 LG 클로이드는 가정 환경처럼 꾸며진 공간에서 청소를 하고, 미국 테네시 세탁기공장의 공정을...",
-          "src": "financialreview",
+          "title": "세탁기 조립하고, 청소·빨래하고…엔비디아도 찾은 '로봇 훈련소'",
+          "desc": "휴머노이드 로봇이 두 손을 써서 부품을 옮기고, 도구까지 사용해 세탁기를 조립합니다. 공장과 가정에... 삼성전자도 로봇 훈련소 구축에 나섭니다. 19조 원이 투입되는 경북 구미 사업장에는 휴머노이드 로봇 양산라인과...",
+          "src": "MBN",
           "date": "08/18",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
-          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/057/0001964298?sid=101",
+          "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[수원 특집] 수원 'AI 행정' 본격화",
-          "desc": "인공지능 기술을 접목해 집중 방재 관리를 하고 있는 화면. /사진제공=수원특례시 ▲ 수원화성 안전관리에도 AI 적용 세계문화유산 수원화성의 재난·방범 관리에도 인공지능이 활용된다. 수원시는 수원화성 전체 구역에...",
-          "src": "incheonilbo",
+          "title": "롯데건설, '상동역 롯데캐슬 시그니처' 견본주택 개관",
+          "desc": "지하 1층 스포츠클럽에는 실내골프클럽과 스크린골프, AI퍼팅그린, 사우나 등이 들어선다. 지상 1층에는... 라이브러리’가 도입될 예정이다. 사물인터넷(IoT)과 정보통신기술(ICT)을 활용해 출결과 학습시간을 관리하고...",
+          "src": "globalepic",
           "date": "08/18",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329835",
-          "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329835_669133_226_v150.jpg"
+          "url": "http://www.globalepic.co.kr/view.php?ud=20260818214730556123fd0362e7_29",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081821505406416023fd0362e71061011200.jpg&nmt=29"
         },
         {
-          "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
-          "desc": "이번 평가에는 과학기술정보통신부 사업의 일환으로 TTA(한국정보통신기술협회), 카이스트(KAIST), 카카오가 2025년 11월 공동 구축한 한국어 특화 안전성 벤치마크 '어슈어AI(Assur AI)'가 활용됐습니다. Assur AI는 한국의...",
-          "src": "동아일보",
+          "title": "HUG, 안심전세앱 고도화…전세사기 위험 진단 강화",
+          "desc": "간담회에서 HUG는 오는 10월 말 도입 예정인 '전세보증 사전심사' 제도를 안내했다. 계약금만 낸 상태에서도... 최인호 HUG 사장은 \"피해자들의 목소리를 경청해 제도를 지속적으로 개선하겠다\"며 \"AI 기술을 활용한...",
+          "src": "newscj",
           "date": "08/18",
-          "url": "https://it.donga.com/109375/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/8/18/59f70cbf078040ab-thumbnail-960x540-70.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3426159",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426159_3538923_5044_v150.jpg"
         },
         {
-          "title": "“서·논술형 초벌 채점에 AI 활용”",
-          "desc": "한국교육과정평가원이 올해 안에 교육 현장에 AI 기술을 활용한 채점을 도입할 수 있는 가이드라인을 제안할 방침이다. 평가원 김문희 원장은 18일 평가원이 발간한 계간지 인터뷰에서 2024년부터 올해까지 서술형·논술형...",
-          "src": "kookje",
+          "title": "英 경찰, AI로 101 비긴급 신고 전화 분류…연간 850만 파운드 절감 기대",
+          "desc": "정부는 AI를 단순한 행정 자동화 도구가 아니라 경찰 업무의 수요를 분류하고 현장 대응 역량을 높이는 기술로 활용한다는 방침이다. 특히 101 전화처럼 경찰이 직접 처리해야 하는 신고와 다른 공공기관이 담당해야...",
+          "src": "AI타임스",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/658/0000152693?sid=102",
-          "img": "https://www.kookje.co.kr/kookje/images/logo_facebook_thumb.jpg?7"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41500",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41500_62467_4542_v150.jpg"
         },
         {
-          "title": "국가대표 AI 3파전… LG·SKT·업스테이지로 압축 ['독파모' 3강 확정]",
-          "desc": "모델 성능뿐 아니라 실제 산업 활용과 이용 편의성까지 함께 보는 평가기준이 승부를 갈랐다. 18일 과학기술정보통신부와 정보통신산업진흥원(NIPA)에 따르면 독자 AI 파운데이션 모델(독파모) 2차 단계평가는 벤치마크...",
-          "src": "파이낸셜뉴스",
+          "title": "[인터뷰] 전석훈 경기도의원, AI 정책 연구실 넘어 제조현장서 성과 내...",
+          "desc": "AI 산업의 변화도 빠르다. 과거에는 소프트웨어와 데이터 활용이 중심이었다면 이제는 AI가 로봇과... 다만 중소기업 비중이 높다 보니 개별 기업이 AI나 로봇 기술을 도입하려 해도 비용과 전문인력 확보에 어려움이 있다....",
+          "src": "discoverynews",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/014/0005563149?sid=105",
-          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1098884",
+          "img": "https://cdn.discoverynews.kr/news/thumbnail/202608/1098884_1141688_3525_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[단독] 노태문 대표, 내일 경영 설명회…첫 DX 적자 타개책 주목",
-      "url": "https://n.news.naver.com/mnews/article/374/0000528053?sid=101",
-      "img": "https://img.biz.sbs.co.kr/upload/2026/07/23/bYc1784767539660-850.jpg"
+      "title": "실적 부진에 보상 격차까지…삼성전자 희망퇴직, 90년대생으로 확대",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315285",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/315285_318515_1733.png"
     },
     {
       "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
     },
     {
-      "title": "[오늘의 전자] 삼성전자·LG전자",
-      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
-      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
+      "title": "세탁기 조립하고, 청소·빨래하고…엔비디아도 찾은 '로봇 훈련소'",
+      "url": "https://n.news.naver.com/mnews/article/057/0001964298?sid=101",
+      "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
     },
     {
-      "title": "[수원 특집] 수원 'AI 행정' 본격화",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329835",
-      "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329835_669133_226_v150.jpg"
+      "title": "롯데건설, '상동역 롯데캐슬 시그니처' 견본주택 개관",
+      "url": "http://www.globalepic.co.kr/view.php?ud=20260818214730556123fd0362e7_29",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081821505406416023fd0362e71061011200.jpg&nmt=29"
     },
     {
-      "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
-      "url": "https://it.donga.com/109375/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/8/18/59f70cbf078040ab-thumbnail-960x540-70.jpg"
+      "title": "HUG, 안심전세앱 고도화…전세사기 위험 진단 강화",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3426159",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426159_3538923_5044_v150.jpg"
     }
   ]
 };
