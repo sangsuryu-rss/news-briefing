@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 10:52",
+  "updatedAt": "2026.08.18 (화) 12:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'글로벌 사우스' 진격하는 K-전자...삼성·LG전자, 인도·남미 생산 거점...",
-          "desc": "중남미 가전 시장 주도권 굳히기에 돌입했다. 18일 업계에 따르면 삼성전자는 인도 마하라슈트라주 푸네에서 유럽 최대 공조 기업인 자회사 플랙트그룹(FläktGroup) 신규 생산라인 준공식을 개최했다. 1만3826㎡(약...",
-          "src": "asiaa",
+          "title": "삼성전자서비스 노사, 올해 임단협 체결…임금 4.1% 인상",
+          "desc": "삼성전자서비스 노사는 기록적인 폭염으로 에어컨 등 가전제품의 서비스 수요가 증가하고 있는 가운데 안정적인 서비스 제공과 고객 만족도 제고에 힘을 모을 계획이다. 유덕규 글로벌이코노믹 기자",
+          "src": "g-enews",
           "date": "08/18",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259021",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202608/259021_280620_4318.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608181144045531139bf6e4b2_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081811490802943139bf6e4b2115951676.jpg"
         },
         {
-          "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
-          "desc": "삼성전자 반도체, KCC, 현대모비스, 삼성바이오로직스 등으로 공급 대상을 확대했다. 로봇 종류도 단순... 현재 국내 가정과 산업 현장에는 중국산 로봇이 물밀듯 들어오고 있다. 가정에는 로봇 청소기가, 산업계에는...",
-          "src": "전자신문",
+          "title": "이렇게 생긴 무선공유기 조심해야... 교체 안 하면 큰일 벌어질 수도",
+          "desc": "공유기가 뚫리면 같은 망에 연결된 카메라와 로봇청소기까지 통째로 노출될 수 있다. 미국 사이버보안 업체 벌른체크(VulnCheck)는 중국 통신장비 제조사 선전즈보퉁전자(Shenzhen Zhibotong Electronics)가 공개한 공유기...",
+          "src": "wikitree",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.28dfefbc74e74f95a8742030bd40eaf2_P1.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1153047",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/img_20260818105955_94d78088.jpg"
         },
         {
           "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "알리바바 클라우드, 한국 제3 데이터센터 개소",
-          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아 있다.... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈 모델 큐웬(Qwen)을 기반으로 AI 도입의 다음 단계를 이끌...",
-          "src": "byline",
+          "title": "그래비스 로보틱스, 소프트뱅크로부터 2억달러 투자 유치",
+          "desc": "피지컬 AI 기술을 고도화하고, 자율 중장비를 전 세계 건설 현장에 대규모로 확산하는 데 활용할 예정이다.... 적극 도입하고 확대할 계획이다. 회사는 소프트뱅크의 투자금을 활용해 인재 영입과 엔지니어링 역량을...",
+          "src": "irobotnews",
           "date": "08/18",
-          "url": "https://byline.network/?p=9004111222615625",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/alibabacloud-datacenter-3rd.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47971",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/47971_102778_1946.png"
         },
         {
-          "title": "클라우드네트웍스, Kong과 파트너십 ··· 'AI 게이트웨이' 국내 공급",
-          "desc": "기업의 AI 운영 체계 구축을 지원하기 위해 추진됐다. 기업의 AI 도입이 실험 단계에서 서비스 운영 단계로... 콩은 API 및 AI 연결성 기술을 개발하는 글로벌 기업으로, 오픈소스로 활용되는 '콩 게이트웨이'를...",
-          "src": "datanet",
+          "title": "[21세기 전장. 드론전이 전장을 바꾼다 ②]연간 수백만 대의 전쟁, 누가...",
+          "desc": "FP-1과 Liutyi 같은 장거리 무인체계가 러시아 정유·군수시설 공격에 활용되면서 우크라이나의 드론산업은... 2026년 약 1만1000대 수준에서 2029년까지 약 6만 대 규모의 드론 도입을 추진하고, 저가 소모성 드론과 AI...",
+          "src": "ilemonde",
           "date": "08/18",
-          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213832",
-          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213832_138053_416_v150.jpg"
+          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30493",
+          "img": "https://cdn.ilemonde.com/news/photo/202608/30493_51128_43.png"
         },
         {
-          "title": "알리바바 클라우드, 국내 세 번째 데이터센터 출범...\"안정적이고 안전...",
-          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아 있다.... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈소스 모델 큐웬(Qwen)을 기반으로 AI 도입의 다음 단계를...",
-          "src": "AI타임스",
+          "title": "클레로보틱스, 중기부 '글로벌 팁스' 선정…정부지원금 50억원 확보",
+          "desc": "클레로보틱스는 3D 카메라와 AI를 활용해 각각의 물체를 인식하고, 로봇이 집을 위치와 순서를 판단해 안정적으로 작업할 수 있도록 관련 기술을 고도화할 계획이다. 이를 위해 소형·저전력 3D 카메라와 넓은 영역을...",
+          "src": "irobotnews",
           "date": "08/18",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41482",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41482_62443_4637_v150.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=47976",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/47976_102786_5842.jpg"
         },
         {
-          "title": "알리바바 클라우드, 한국 3번째 데이터센터 공식 출범 … AI 인프라 경쟁...",
-          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈소스 모델 'Qwen'을 기반으로 AI 도입의 다음 단계를 이끌...",
-          "src": "worktoday",
+          "title": "SKT·LG·업스테이지, 독파모 최종 진출…\"새로운 경쟁도 고민\"(종합)",
+          "desc": "◇ 국민 참여형 사용성 평가 신규 도입…연말 최종 2팀으로 추려 과학기술정보통신부와 정보통신산업진흥원은 18일 정부서울청사에서 '독자 AI 파운데이션 모델' 프로젝트 2차 단계평가 결과를 공개하며 이같이...",
+          "src": "news",
           "date": "08/18",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88061",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88061_126825_464_v150.jpg"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430532",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4430532_337429_22_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "조영훈 로봇산업진흥원장 \"대구경북 강점 묶어 로봇산업 성장 한계 넘어...",
+          "desc": "않고 협력사를 끌고 가는 국산 로봇 부품 생태계를 만들어야 한다\"고 말했다. 특히 대구와 경북의 산업적... 지역 부품사를 보유하고 있고, 구미는 삼성전자를 비롯한 전기·전자·정보통신 제조 기반을 갖추고 있다\"면서...",
+          "src": "imaeil",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/088/0001023988?sid=101",
+          "img": "https://www.imaeil.com/photos/2026/08/18/2026081812024218776_l.jpg"
+        },
         {
           "title": "“17년간 단가인상 두 번뿐”…납품대금 연동제 확대에도 中企 ‘한숨’...",
           "desc": "경남 김해에 있던 자동차부품 열처리업체 B사는 완성차 업체에 부품을 공급하는 협력사와 거래하며 일반... 임가공업 관련 협동조합 관계자는 “현대차나 삼성전자 같은 대기업이 상생협력에 나서더라도 잘해야 2차...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.newswhoplus.com/news/articleView.html?idxno=67107",
           "img": "https://cdn.newswhoplus.com/news/thumbnail/202608/67107_103798_573_v150.jpg"
-        },
-        {
-          "title": "'반도체 호황에도 적자'…대기업 쏠림에 소부장 'K자 양극화'",
-          "desc": "인공지능(AI) 메모리 슈퍼사이클을 타고 삼성전자(005930)·SK하이닉스(000660) 등 대기업들이 역대급 실적과 성과급 확대 기조를 이어가고 있지만, 일부 소재·부품·장비(소부장) 기업은 늘어난 발주에도 수익성 개선 폭이...",
-          "src": "뉴스1",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/421/0009117862?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/11/8051212/high.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'글로벌 사우스' 진격하는 K-전자...삼성·LG전자, 인도·남미 생산 거점...",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259021",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202608/259021_280620_4318.jpg"
+      "title": "삼성전자서비스 노사, 올해 임단협 체결…임금 4.1% 인상",
+      "url": "https://www.g-enews.com/view.php?ud=202608181144045531139bf6e4b2_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081811490802943139bf6e4b2115951676.jpg"
     },
     {
-      "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.28dfefbc74e74f95a8742030bd40eaf2_P1.jpg"
+      "title": "이렇게 생긴 무선공유기 조심해야... 교체 안 하면 큰일 벌어질 수도",
+      "url": "https://www.wikitree.co.kr/articles/1153047",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/img_20260818105955_94d78088.jpg"
     },
     {
       "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.the-biz.co.kr/news/photo/202608/726151_930523_2552.jpg"
     },
     {
-      "title": "알리바바 클라우드, 한국 제3 데이터센터 개소",
-      "url": "https://byline.network/?p=9004111222615625",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/alibabacloud-datacenter-3rd.jpg"
+      "title": "그래비스 로보틱스, 소프트뱅크로부터 2억달러 투자 유치",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47971",
+      "img": "https://cdn.irobotnews.com/news/photo/202608/47971_102778_1946.png"
     },
     {
-      "title": "클라우드네트웍스, Kong과 파트너십 ··· 'AI 게이트웨이' 국내 공급",
-      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213832",
-      "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213832_138053_416_v150.jpg"
+      "title": "[21세기 전장. 드론전이 전장을 바꾼다 ②]연간 수백만 대의 전쟁, 누가...",
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30493",
+      "img": "https://cdn.ilemonde.com/news/photo/202608/30493_51128_43.png"
     }
   ]
 };
