@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 05:41",
+  "updatedAt": "2026.08.19 (수) 07:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[C레벨 보수의 비밀] ①‘보수킹’ 이원진 75억…삼성 임원 보수 들여다...",
-          "desc": "2분기 DX 적자인데 보수 1위?…28억은 ‘LTI’ 삼성전자 DX부문(생활가전·VD·MX·네트워크)은 올해 2분기 매출 48조원, 영업손실 8000억원을 기록하며 분기 적자로 돌아섰다. 실적 악화 속에서 DX부문 사업부장인 이...",
-          "src": "dnews",
+          "title": "삼성·플랙트, 광주에 2400억 투자…300여명 고용",
+          "desc": "기존 삼성전자 광주사업장을 중심으로 형성돼 있는 금형·사출·전자부품·모터·제어장치 등 가전 협력 생태계가 고부가가치 HVAC 분야로 사업 영역을 확장할 수 있다는 점에서다. 2400억원의 공장 건설 투자에 그치지...",
+          "src": "kwangju",
           "date": "08/19",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608180905413450258",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/18/202608180905413450258-2-684593.jpg"
+          "url": "http://www.kwangju.co.kr/article.php?aid=1787090400802408277",
+          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/802408.jpeg"
         },
         {
-          "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
-          "desc": "이런 폭발적인 수요에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 중국 로봇청소기 기업들에 빼앗겼던 1위 자리를 탈환했다. 하지만 이러한 제품 흥행에도 향후 실적 전망은 어둡다. 올해 2분기 MX(모바일)...",
-          "src": "매일경제",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107613?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
+          "desc": "2023년 스마트폰·노트북·TV 등 3개 제품군에서 현재 스마트폰·노트북·TV을 비롯해 태블릿·냉장고·세탁기·건조기·식기세척기·로봇청소기·스틱청소기·모니터 등이 추가됐다. ▲삼성전자서비스 홈페이지 고객...",
+          "src": "소비자가만드는신문",
+          "date": "08/19",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761532_316699_3246_v150.jpg"
         },
         {
-          "title": "[가전 트렌드] 세대당 최대 21만 원… 동작구, 가정용 음식물 감량기 10...",
-          "desc": "공기청정기와 제습기를 비롯해 미니건조기, 창문형 에어컨 등 계절가전을 중심으로 제품군을 확대했으며... ⓒ삼성전자 삼성전자가 오스트리아 빈 미술사 박물관(Kunsthistorisches Museum Vienna)의 대표 소장품 43점을 삼성...",
-          "src": "ibabynews",
-          "date": "08/18",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153758",
-          "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
+          "title": "가전 사용설명서에 QR코드만 덜렁...종이 설명서 없어지면서 노년층 '막...",
+          "desc": "# 경기도 부천에 사는 박 모(남)씨는 최근 삼성전자 비스포크 AI 콤보(세탁건조기)를 구매했다. 사용하기 전 설명서를 찾았으나 도통 보이지 않았다. 대신 동봉된 제품보증서에 인쇄된 QR코드로 설명서를 다운받아야 했다....",
+          "src": "소비자가만드는신문",
+          "date": "08/19",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760845",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/760845_316183_1645_v150.jpg"
         },
         {
-          "title": "세탁기 조립하고, 청소·빨래하고…엔비디아도 찾은 '로봇 훈련소'",
-          "desc": "휴머노이드 로봇이 두 손을 써서 부품을 옮기고, 도구까지 사용해 세탁기를 조립합니다. 공장과 가정에... 삼성전자도 로봇 훈련소 구축에 나섭니다. 19조 원이 투입되는 경북 구미 사업장에는 휴머노이드 로봇 양산라인과...",
-          "src": "MBN",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/057/0001964298?sid=101",
-          "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
+          "title": "선진국 넘어 성장시장으로⋯ 삼성·LG, 신흥시장 ‘현지화’ 승부수",
+          "desc": "삼성전자와 LG전자가 신흥시장 중심의 현지화 전략의 속도를 높이고 있다. 현지 생산 거점을 확대해 시장... 안팎의 냉장고 생산 능력을 갖췄다. 신공장에는 AI와 산업용 로봇 기반의 스마트 팩토리 솔루션을 적용한...",
+          "src": "브릿지경제",
+          "date": "08/19",
+          "url": "https://www.viva100.com/article/20260818500628",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500423.jpg?v=20260819074318"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
-          "desc": "치셴커피는 앞으로 AI를 활용해 소비자의 건강 상태 등을 토대로 적정 카페인 섭취량을 제안하는 개인 맞춤형 추천 기능도 도입한다는 방침입니다. (사진=양광망 캡처, 연합뉴스)",
-          "src": "news",
+          "title": "무신사, AI기술 혁신 '테크 컨퍼런스'···오늘부터 참가 접수",
+          "desc": "이와 함께 사용자 접속 흐름 기반의 오류 자동 검증 체계, AI를 활용한 거대 시스템의 효율적 구조 분할 등 서비스 안정성을 높인 실전 노하우를 공유한다. 실무 적용 중심의 컬렉션 트랙에서는 AI 도입에 따른 개발 생산성...",
+          "src": "slist",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/055/0001381599?sid=104",
-          "img": "https://img.sbs.co.kr/newimg/news/20260819/202213688_1280.jpg"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=759593",
+          "img": "https://cdn.slist.kr/news/thumbnail/202608/759593_1163784_3328_v150.jpg"
         },
         {
-          "title": "동국대 WISE, 9월 전교생 대상 AI 서비스 시작…챗GPT·제미나이 등 활용",
-          "desc": "도구로 활용할 수 있게 한다는 설명이다. 이번 서비스 도입은 동국대학교 WISE캠퍼스가 추진하는 AI... 류완하 동국대 WISE캠퍼스 총장은 \"AI는 특정 전공에 국한된 기술이 아니라 모든 분야 학생들이 갖춰야 할 기본 역량...",
-          "src": "gukjenews",
+          "title": "[테크인사이드] \"오픈AI·앤트로픽, 첨단 모델 API 접근 점점 제한할 것...",
+          "desc": "이용 기반 요금제 도입도 추진 중이다. 클리프 오브레히트 캔바 공동창업자는 \"AI 도입 전에는 무료 이용자... 학습시키는 기술인데 특히 중국 AI 기업들이 이를 활용해 미국 회사들과 맞먹는 고성능 모델을 오픈소스...",
+          "src": "digitaltoday",
           "date": "08/19",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667765",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3667765_3835332_05_v150.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693869",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693869_641738_4544.jpg"
         },
         {
-          "title": "400여개 헬스케어 기업 모인 KHF 2026…눈 여겨볼 회사는?",
-          "desc": "핵심 기술과 실제 도입 사례를 한자리에서 조망하는 자리로 꾸려진다.국내 양대 헬스케어 전시회의... 분석 기술을 활용하는 환자 모니터링 서비스 AI-PAM을 전시한다.AI-PAM을 활용하면 다인 병실에서 발생할 수...",
-          "src": "medicaltimes",
+          "title": "통제 풀린 AI 마주한 오픈AI, 결국 브레이크 밟았다",
+          "desc": "다른 AI 모델을 활용하는 방식이 대거 도입됐다. 하지만 오픈AI 측은 기자들에게 이번 안전 조치가... 오픈AI는 전체 기술 보고서를 아직 공개하지 않았으나, 오늘 브리핑에서 \"조만간\" 발표하겠다는 입장을 되풀이했다....",
+          "src": "fortunekorea",
           "date": "08/19",
-          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170241&ref=naverpc",
-          "img": "https://pds.medicaltimes.com/Thumnail/20260818/1787047590.jpg"
+          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53650",
+          "img": "https://cdn.fortunekorea.co.kr/news/thumbnail/202608/53650_47803_744_v150.jpg"
         },
         {
-          "title": "[양창섭의 클래식 한마디] AI 연출과 콘서트 오페라",
-          "desc": "이 숫자는 150을 이진수로 표현한 것으로, 전 세계의 화두인 인공지능(AI)를 연출에 활용한 것을 의미했다.... 오페라 연출에서 AI 도입이 옳고 그름을 논하려는 것은 아니다. 새로운 기술을 받아들이지 않고 예술이...",
-          "src": "서울신문",
+          "title": "[SV 리포트] \"머신 가리지 않고, 사용 뒤엔 자연으로\"…커피 캡슐 한계 ...",
+          "desc": "한국환경산업기술원의 환경성적표지 작성지침에서 제시하는 소재별 전과정 온실가스 배출 데이터를 활용해... 이 대표는 \"브랜드 운영 경험이 부족한 상황에서 카페24 프로를 도입해 운영·디자인·프로모션 등을...",
+          "src": "socialvalue",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/081/0003671405?sid=110",
-          "img": "https://img.seoul.co.kr//img/upload/2025/02/11/SSC_20250211235137_O2.jpg"
+          "url": "https://www.socialvalue.kr/news/view/1065568480937452",
+          "img": "http://www.socialvalue.kr/news/data/20260818/p1065568480937452_451_thum.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "한국에 AI팩토리 짓는데…서버·냉각 공급망은 대만에 의존?",
+          "desc": "삼성전자는 유럽 냉난방공조(HVAC) 기업 플랙트그룹을 인수한 뒤 최대 1.6MW급 CDU '리퀴드-덴코'를 내놨다.... 따른 부품 표준화에 따르는 수밖에 없다. 엔비디아는 협력사를 엔비디아 파트너 네트워크(NPN)라는...",
+          "src": "digitaltoday",
+          "date": "08/19",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693781",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693781_641658_3253.jpg"
+        },
+        {
+          "title": "[창간 27주년 특집] 우리은행, 산업단지 향한 이유… '반도체 기업금융...",
+          "desc": "정부가 호남권을 새로운 반도체 생산기지로 육성하고자 계획하면서 대기업뿐 아니라 소재·부품·장비... (MOU), 삼성전자와 SK하이닉스 협력기업 상생대출 등을 통해 대기업과 협력사를 연결하는 생산적 금융도 확대할...",
+          "src": "economytalk",
+          "date": "08/19",
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=422778",
+          "img": "https://cdn.economytalk.kr/news/photo/202607/422778_229290_1154.jpg"
+        },
         {
           "title": "대세는 와이드 폴더블폰...삼성전자 'Z시리즈' 가로 더 길어진다",
           "desc": "삼성전자는 폴드8 물량을 100만대 더 늘리기로 하고 협력사에 부품 발주를 넣은 것으로 파악된다. 당초 연간 생산량은 갤럭시Z8 시리즈 가운데 가장 많은 280만대였고, 추가 물량을 더하면 300만대 후반에 달할 전망이다....",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176052",
           "img": "https://cdn.ggilbo.com/news/photo/202608/1176052_1028449_3816.jpg"
-        },
-        {
-          "title": "삼성디스플레이, A7 공사 재개...장기수요 대비",
-          "desc": "삼성전자 회장 등이 참석한 충청권 메가프로젝트 발표회(충청권 첨단산업 발전비전 국민보고회)에서 삼성그룹은 충청권에 2040년까지 총 140조원을 투자해 반도체와 디스플레이, 배터리 등 소재·부품사업을...",
-          "src": "ZDNet코리아",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434266?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/05/06/0c68070e176da80fb924f514fbdfa258.png"
-        },
-        {
-          "title": "\"대구경북 로봇산업, 실증시설 넘어 수출 거점으로 육성해야\"",
-          "desc": "지역 부품사를 보유하고 구미는 삼성전자를 비롯한 전기·전자·정보통신 제조 기반을 갖추고 있다”며... 성장보다는 협력사를 끌고 가는 국산 로봇 부품 생태계를 만드는 일이 시급하다”고 조언했다.그러면서...",
-          "src": "kbsm",
-          "date": "08/18",
-          "url": "https://www.kbsm.net/news/view.php?idx=530754",
-          "img": "https://www.kbsm.net/data/newsThumb/1787035485ADD_thumb780.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[C레벨 보수의 비밀] ①‘보수킹’ 이원진 75억…삼성 임원 보수 들여다...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608180905413450258",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/18/202608180905413450258-2-684593.jpg"
+      "title": "삼성·플랙트, 광주에 2400억 투자…300여명 고용",
+      "url": "http://www.kwangju.co.kr/article.php?aid=1787090400802408277",
+      "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/802408.jpeg"
     },
     {
-      "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107613?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761532_316699_3246_v150.jpg"
     },
     {
-      "title": "[가전 트렌드] 세대당 최대 21만 원… 동작구, 가정용 음식물 감량기 10...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153758",
-      "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
+      "title": "가전 사용설명서에 QR코드만 덜렁...종이 설명서 없어지면서 노년층 '막...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760845",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/760845_316183_1645_v150.jpg"
     },
     {
-      "title": "세탁기 조립하고, 청소·빨래하고…엔비디아도 찾은 '로봇 훈련소'",
-      "url": "https://n.news.naver.com/mnews/article/057/0001964298?sid=101",
-      "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
+      "title": "선진국 넘어 성장시장으로⋯ 삼성·LG, 신흥시장 ‘현지화’ 승부수",
+      "url": "https://www.viva100.com/article/20260818500628",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500423.jpg?v=20260819074318"
     },
     {
-      "title": "'1시간에 커피 202잔 제조'…중국 로봇카페 기네스 인증",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381599?sid=104",
-      "img": "https://img.sbs.co.kr/newimg/news/20260819/202213688_1280.jpg"
+      "title": "무신사, AI기술 혁신 '테크 컨퍼런스'···오늘부터 참가 접수",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=759593",
+      "img": "https://cdn.slist.kr/news/thumbnail/202608/759593_1163784_3328_v150.jpg"
     },
     {
-      "title": "동국대 WISE, 9월 전교생 대상 AI 서비스 시작…챗GPT·제미나이 등 활용",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667765",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202608/3667765_3835332_05_v150.jpg"
+      "title": "[테크인사이드] \"오픈AI·앤트로픽, 첨단 모델 API 접근 점점 제한할 것...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693869",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693869_641738_4544.jpg"
     }
   ]
 };
