@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 16:06",
+  "updatedAt": "2026.08.18 (화) 17:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "실적 신기록 쓰는 삼성전자… '저평가' 벗어날 마지막 열쇠는",
-          "desc": "MX·네트워크 부문은 7,350억 원의 영업손실을, VD·가전은 110억 원의 적자를 낸 것으로 IBK투자증권은 분석했다. 삼성전자 전체 이익에서 반도체가 차지하는 비중이 절대적으로 높아진 셈이다. 이 같은 흐름은...",
-          "src": "pressman",
+          "title": "[오늘의 전자] 삼성전자·LG전자",
+          "desc": "18일 삼성전자와 LG전자의 소식. 삼성전자가 오스트리아 '빈 미술사 박물관'의 대표 소장품 43점을 삼성... LG전자가 전 세계에 보유한 제조∙물류 현장과 가전제품을 기반으로 수집한 데이터를 확장하고 합성...",
+          "src": "financialreview",
           "date": "08/18",
-          "url": "https://www.pressman.kr/news/articleView.html?idxno=103216",
-          "img": "https://cdn.pressman.kr/news/photo/202608/103216_95107_3419.jpg"
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
         },
         {
           "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
         },
         {
-          "title": "삼성전자·LG전자, 삼성 아트 스토어에 '빈 미술사 박물관' 소장품 43점...",
-          "desc": "삼성전자가 삼성 아트 스토어에 오스트리아 '빈 미술사 박물관' 대표 소장품 43점을 공개한 한편... LG 클로이드는 가정 환경처럼 꾸며진 공간에서 청소를 하고, 미국 테네시 세탁기공장의 공정을 모사한...",
-          "src": "wsobi",
+          "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
+          "desc": "삼성전자: \"조직 DNA 완전히 바꾸겠다\" 이재용 삼성전자 회장의 선언은 명확했다. 올해 신년사에서 그는... 인도에서는 고객들의 냉장고 사용 패턴 분석을 바탕으로 무더운 날씨에 대응하는 위생·신선 기능을...",
+          "src": "globalepic",
           "date": "08/18",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=316615",
-          "img": "http://www.wsobi.com/news/photo/202608/316615_188822_5342.jpg"
+          "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[WIKI ENERGY] 깊어지는 SK-테라파워 협력…아시아 SMR 시장 정조준",
-          "desc": "세계 각국은 재생에너지와 함께 원전, 수소, 풍력 등 다양한 무탄소에너지 활용을 확대하는 추세다. [WIKI... AI 데이터센터 폭증에 따른 전력 수요 대응책과 차세대 원전 산업의 발전 방향, 한·미 원자력 기술 협력...",
-          "src": "wikileaks-kr",
+          "title": "청년의 '내일'과 '오늘'을 잇다…서울시, 청년 기회 도시 조성",
+          "desc": "우선 경제적 여건에 구애받지 않고 누구나 인공지능(AI) 기술을 배울 수 있도록 '청년 AI 사다리' 정책을 통해... AI 도입 뿐만 아니라 교육적 측면에서 어떻게 활용할 수 있을지 교육 캠프 등도 진행했으면 좋겠다\"고...",
+          "src": "asiatoday",
           "date": "08/18",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191071",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191071_205088_5014_v150.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005840",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070700058401.jpg"
         },
         {
-          "title": "컴투스엔, 더헤드코치와 맞손…AI 멘탈 케어 솔루션 '무아' 기반 스포츠...",
-          "desc": "솔루션을 도입한다. 컴투스엔이 공급하는 무아키트는 골프를 포함한 스포츠 현장에 적용되어 데일리 리커버리 루틴(Daily Recovery Routine)으로 운용될 예정이다. 컴투스엔의 무아는 AI, XR, 생체 데이터 측정 기술을 접목한...",
-          "src": "kdpress",
+          "title": "제주, AI 기반 감귤관측 자동화 기술 현장 검증 돌입",
+          "desc": "도농기원은 이에 스마트폰 영상과 AI 객체 인식 기술을 활용한 감귤 관측 자동화 시스템을 구축했다. 현장... 도농기원은 관측 자동화 기술 도입 시 필지당 조사 시간이 기존 약 40분에서 15분 미만으로 줄어 60% 이상...",
+          "src": "agrinet",
           "date": "08/18",
-          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207866",
-          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207866_133760_5450.jpg"
+          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406482",
+          "img": "https://cdn.agrinet.co.kr/news/photo/202608/406482_97305_4821.png"
         },
         {
-          "title": "신약 개발∙해외 허가부터 AI 의료 플랫폼까지…헬스케어 사업 고도화",
-          "desc": "통합과 AI 기반 플랫폼은 축적된 데이터를 실제 의료기관의 업무와 이용 경험에 연결하는 과정이다. 치료제와 디지털 의료라는 분야는 다르지만, 기술 확보 이후 사업화 속도와 활용 범위를 얼마나 넓힐 수 있느냐가...",
-          "src": "kdfnews",
+          "title": "삼양그룹 상반기 성과점검, 하반기 AX·스페셜티 전환 속도",
+          "desc": "삼양그룹이 일본 향료기업 인수와 소재사업 실적 개선, 인공지능(AI) 업무 플랫폼 도입 등을 상반기 주요... AI 활용 격차 등을 주요 변수로 꼽았다. 특히 AI 기술을 사업과 업무에 적용하는 수준에 따라 기업 간 경쟁력...",
+          "src": "koreastocknews",
           "date": "08/18",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=186711",
-          "img": "http://www.kdfnews.com/news/thumbnail/202608/186711_235990_145_v150.jpg"
+          "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120643",
+          "img": "https://cdn.koreastocknews.com/news/thumbnail/202608/120643_100929_4455_v150.jpg"
         },
         {
-          "title": "HUG, 전세사기 피해자와 현장 소통...10월 '전세보증 사전심사' 도입",
-          "desc": "특히 오는 10월 말부터 '전세보증 사전심사' 제도를 도입한다. 기존에는 전세계약을 체결하고 잔금까지... 개선하겠다\"며 \"AI 기술을 활용한 안심전세앱 등을 통해 보다 안전한 전세 거래 환경을 조성하는 데 최선을...",
-          "src": "chungnamilbo",
+          "title": "LG·SKT·업스테이지 3파전 된 '독파모'…\"지원규모·체계 재편 검토\"",
+          "desc": "경우, 기술적인 측면에서 세계적인 수준임을 증명했지만 사용성·활용성에서는 다른 모델들에 비해 낮은 평가를 받았다\"고 말했다.이날 발표된 2차 평가 결과에 따라 남은 3팀은 AI 모델 개발을 지속, 최종 2개 팀으로...",
+          "src": "asiatoday",
           "date": "08/18",
-          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904585",
-          "img": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202608/904585_482810_5718_v150.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005838",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070300058381.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성디스플레이, A7 공사 재개...장기수요 대비",
+          "desc": "삼성전자 회장 등이 참석한 충청권 메가프로젝트 발표회(충청권 첨단산업 발전비전 국민보고회)에서 삼성그룹은 충청권에 2040년까지 총 140조원을 투자해 반도체와 디스플레이, 배터리 등 소재·부품사업을...",
+          "src": "ZDNet코리아",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/092/0002434266?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/05/06/0c68070e176da80fb924f514fbdfa258.png"
+        },
         {
           "title": "\"대구경북 로봇산업, 실증시설 넘어 수출 거점으로 육성해야\"",
           "desc": "지역 부품사를 보유하고 구미는 삼성전자를 비롯한 전기·전자·정보통신 제조 기반을 갖추고 있다”며... 성장보다는 협력사를 끌고 가는 국산 로봇 부품 생태계를 만드는 일이 시급하다”고 조언했다.그러면서...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720703",
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1720703_752080_502_v150.jpg"
-        },
-        {
-          "title": "조영훈 로봇산업진흥원장 \"대구경북 강점 묶어 로봇산업 성장 한계 넘어...",
-          "desc": "않고 협력사를 끌고 가는 국산 로봇 부품 생태계를 만들어야 한다\"고 말했다. 특히 대구와 경북의 산업적... 지역 부품사를 보유하고 있고, 구미는 삼성전자를 비롯한 전기·전자·정보통신 제조 기반을 갖추고 있다\"면서...",
-          "src": "imaeil",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/088/0001023988?sid=101",
-          "img": "https://www.imaeil.com/photos/2026/08/18/2026081812024218776_l.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "실적 신기록 쓰는 삼성전자… '저평가' 벗어날 마지막 열쇠는",
-      "url": "https://www.pressman.kr/news/articleView.html?idxno=103216",
-      "img": "https://cdn.pressman.kr/news/photo/202608/103216_95107_3419.jpg"
+      "title": "[오늘의 전자] 삼성전자·LG전자",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
+      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
     },
     {
       "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
     },
     {
-      "title": "삼성전자·LG전자, 삼성 아트 스토어에 '빈 미술사 박물관' 소장품 43점...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=316615",
-      "img": "http://www.wsobi.com/news/photo/202608/316615_188822_5342.jpg"
+      "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
+      "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
     },
     {
-      "title": "[WIKI ENERGY] 깊어지는 SK-테라파워 협력…아시아 SMR 시장 정조준",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191071",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191071_205088_5014_v150.jpg"
+      "title": "청년의 '내일'과 '오늘'을 잇다…서울시, 청년 기회 도시 조성",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005840",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070700058401.jpg"
     },
     {
-      "title": "컴투스엔, 더헤드코치와 맞손…AI 멘탈 케어 솔루션 '무아' 기반 스포츠...",
-      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207866",
-      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207866_133760_5450.jpg"
+      "title": "제주, AI 기반 감귤관측 자동화 기술 현장 검증 돌입",
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406482",
+      "img": "https://cdn.agrinet.co.kr/news/photo/202608/406482_97305_4821.png"
     }
   ]
 };
