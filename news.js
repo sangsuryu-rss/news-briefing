@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 01:49",
+  "updatedAt": "2026.08.19 (수) 03:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "베스핀글로벌, ‘오픈AI 셀렉트 파트너’ 선정",
-          "desc": "‘오픈AI 셀렉트 파트너’로 선정됐다고 19일 밝혔다. 오픈AI 파트너 네트워크는 파트너사가 오픈AI 기술과... 기업의 AI 도입 전 과정을 7개 영역으로 나눈 체계다. 베스핀글로벌은 이를 활용해 클라우드와 온프레미스...",
-          "src": "이데일리",
+          "title": "로버스트AI, 새 수장에 차카로프 영입…카터 100대 돌파",
+          "desc": "플랫폼을 활용해 창고 내 최적의 재고 배치나 효율적인 인력 운용 방안을 도출할 수 있다. 독자적 플랫폼과 안정적 제조 기반 확보 생산과 기술 역량을 강화하기 위한 파트너십 구축도 활발하게 이루어진다. 로버스트AI는...",
+          "src": "g-enews",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/018/0006353769?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081900015.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026081820380188642bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260818204133005882bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "8월 3주 주요 제조업 전망",
-          "desc": "남양기술연구소의 '충돌 안전 AI 어시스턴트'가 여러 시스템에 흩어진 과거 충돌 시험 결과와 이미지... 공급된 설비는 현지 빅테크 기업 데이터센터 전력 공급원으로 활용될 예정임 - 최근 HD현대는 그룹 계열사...",
-          "src": "laborplus",
+          "title": "(온라인) 쳇GPT 청소년 버전 나온다",
+          "desc": "중심으로 활용하도록 설계한 전용 모드를 도입한 것이다. 오픈AI는 18일 블로그를 통해 10대 이용자를 위한... 다만 전문가들은 연령을 정확히 확인하기 어려운 기술적 한계와 부모의 관리에 의존하는 방식만으로는...",
+          "src": "koreadaily",
           "date": "08/19",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
+          "url": "https://www.koreadaily.com/article/20260818101828192",
+          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/08/19/270897c7-c7a1-4cfa-9c7e-191d6dd61c1c.jpg"
         },
         {
-          "title": "[미국 특징주] 오픈AI, 청소년용 챗GPT 새로 출시…안전 기능과 학습 지...",
-          "desc": "새로 도입되며, 청소년과 부모가 이를 직접 조정할 수 있다. 오픈AI는 또한 기술 교육 비영리단체 '코드... (Code AI)'와 협력해 학생과 교사들이 이 기술의 작동 원리와 건설적인 활용법을 이해할 수 있도록 관련...",
+          "title": "[GAM] 하트플로우 신고점 ① AI 기술로 관상동맥질환 진단 혁신",
+          "desc": "의료기술 기업이다. 회사의 독자적인 하트플로우 원(Heartflow One) 플랫폼은 AI와 고도화된 전산유체역학을 활용해 단 한 번의 관상동맥 CT 혈관조영술(CCTA) 촬영만으로 환자 개개인에게 맞춤화된 3차원 심장 모델을...",
           "src": "뉴스핌",
           "date": "08/19",
-          "url": "https://www.newspim.com/news/view/20260819000009",
-          "img": "https://img.newspim.com/news/2026/08/19/2608190103232110_t1.jpg"
+          "url": "https://www.newspim.com/news/view/20260819000017",
+          "img": "https://img.newspim.com/news/2026/08/19/2608190158273480_t1.jpg"
         },
         {
-          "title": "마산대, AI·DX로 대학 행정 혁신…스마트 협업체계 구축",
-          "desc": "생성형 AI인 Copilot을 활용한 업무 효율화 방안도 함께 다뤘다. 마산대는 이번 교육을 계기로 수업·회의... 이상원 마산대 혁신사업단장은 “AI·DX는 단순히 새로운 프로그램을 도입하는 것이 아니라 대학의 일하는...",
-          "src": "kukinews",
+          "title": "[GAM] 하트플로우 신고점 ② 플라크 분석 사업 성장세 주목",
+          "desc": "하트플로우 도입을 주도하는 핵심 지지층으로 부상하고 있다. 하트플로우의 플라크 분석 소프트웨어... 파쿼 CEO는 이들 연구가 회사의 기존 기술을 활용하며, 저밀도지단백(LDL) 콜레스테롤과 연성 플라크의 변화로...",
+          "src": "뉴스핌",
           "date": "08/19",
-          "url": "https://www.kukinews.com/article/view/kuk202608190005",
-          "img": ""
+          "url": "https://www.newspim.com/news/view/20260819000018",
+          "img": "https://img.newspim.com/news/2026/08/19/2608190158451290_t1.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
     },
     {
-      "title": "베스핀글로벌, ‘오픈AI 셀렉트 파트너’ 선정",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353769?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081900015.jpg"
+      "title": "로버스트AI, 새 수장에 차카로프 영입…카터 100대 돌파",
+      "url": "https://www.g-enews.com/view.php?ud=2026081820380188642bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260818204133005882bd56fbc3c21121419978.jpg"
     },
     {
-      "title": "8월 3주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
+      "title": "(온라인) 쳇GPT 청소년 버전 나온다",
+      "url": "https://www.koreadaily.com/article/20260818101828192",
+      "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/08/19/270897c7-c7a1-4cfa-9c7e-191d6dd61c1c.jpg"
     }
   ]
 };
