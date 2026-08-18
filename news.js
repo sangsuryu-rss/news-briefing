@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 07:43",
+  "updatedAt": "2026.08.18 (화) 10:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "공공 모듈러 2만호 시대…GS건설, 선점 속도 낸다",
-          "desc": "공간제작소가 주택의 설계와 제작·시공을 맡고, 삼성전자는 AI 가전과 스마트홈 솔루션을 공급하는 방식을 택한 것이다. 가전업계가 모듈러 주택에 뛰어드는 이유는 HVAC 시스템과 AI 가전을 주택 설계 단계부터...",
-          "src": "newstopkorea",
+          "title": "'글로벌 사우스' 진격하는 K-전자...삼성·LG전자, 인도·남미 생산 거점...",
+          "desc": "중남미 가전 시장 주도권 굳히기에 돌입했다. 18일 업계에 따르면 삼성전자는 인도 마하라슈트라주 푸네에서 유럽 최대 공조 기업인 자회사 플랙트그룹(FläktGroup) 신규 생산라인 준공식을 개최했다. 1만3826㎡(약...",
+          "src": "asiaa",
           "date": "08/18",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47081",
-          "img": "https://cdn.newstopkorea.com/news/photo/202608/47081_48161_5554.png"
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259021",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202608/259021_280620_4318.jpg"
         },
         {
-          "title": "“성과급 박탈감이 좀 가시네요”…갤Z폴드 흥행에 삼전DX 분위기 반전",
-          "desc": "이런 폭발적인 수요에 따라 삼성전자는 지난 6월 국내 로봇청소기 시장에서 1위를 달성한 것으로 알려졌다. 그동안 중국 로봇청소기 기업들에 빼앗겨왔던 1위를 가져온 것이다. 이처럼 제품이 성공을 거두면서...",
-          "src": "매일경제",
+          "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
+          "desc": "삼성전자 반도체, KCC, 현대모비스, 삼성바이오로직스 등으로 공급 대상을 확대했다. 로봇 종류도 단순... 현재 국내 가정과 산업 현장에는 중국산 로봇이 물밀듯 들어오고 있다. 가정에는 로봇 청소기가, 산업계에는...",
+          "src": "전자신문",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/009/0005722066?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/18/news-p.v1.20260817.9fb89b42719b4edb96837960b08ecc74_R.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.28dfefbc74e74f95a8742030bd40eaf2_P1.jpg"
         },
         {
           "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "08/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
         },
         {
-          "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
-          "desc": "집을 현장에서 ‘짓는’ 대신 공장에서 ‘제조’하는 모듈러 주택 시장에 삼성전자, LG전자 등 가전업체들이 뛰어들고 있다. TV, 냉장고, 세탁기 등 전통 가전 시장의 이익률이 갈수록 떨어지는 가운데 가전업계는...",
-          "src": "이데일리",
-          "date": "08/17",
-          "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
+          "title": "[가전 대전환②] '소유'에서 '경험'으로… 판도 바꾸는 구독 생태계",
+          "desc": "이에 삼성전자와 LG전자는 출혈 가격 경쟁을 피하고 AI 기능과 스마트홈, 제품 관리 서비스를 결합한 고부가... 구독 서비스 도입 이후 지난해 LG전자의 냉장고·세탁기·에어컨 매출은 26조4692억원으로 도입 전인...",
+          "src": "the-biz",
+          "date": "08/18",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726151",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202608/726151_930523_2552.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“청년 54%, 5년 내 AI가 직무 대체”⋯ 미취업·고노출 직무일수록 우려...",
-          "desc": "청년들은 AI 도입에 기대와 우려를 동시에 나타냈다. AI 기술이 업무 전문성 및 커리어 경쟁력 향상에... AI 고노출 직무군에서는 동의 비율이 74.4%로 저노출 직무군(50.8%)을 웃돌았다. AI 활용 능력 격차로 인해...",
-          "src": "브릿지경제",
+          "title": "알리바바 클라우드, 한국 제3 데이터센터 개소",
+          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아 있다.... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈 모델 큐웬(Qwen)을 기반으로 AI 도입의 다음 단계를 이끌...",
+          "src": "byline",
           "date": "08/18",
-          "url": "https://www.viva100.com/article/20260818500011",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500008.jpg?v=20260818074327"
+          "url": "https://byline.network/?p=9004111222615625",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/alibabacloud-datacenter-3rd.jpg"
         },
         {
-          "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
-          "desc": "기업은 이미 다양한 방식으로 디지털 기술을 활용해 지원자를 평가하고 있다. 앞으로 AI가 이력서 분석부터... 기업이 AI를 도입하면 정부가 해야 할 일도 달라진다. 단순히 기존 일자리를 유지하도록 요구하는 것만으로는...",
-          "src": "dailyt",
+          "title": "클라우드네트웍스, Kong과 파트너십 ··· 'AI 게이트웨이' 국내 공급",
+          "desc": "기업의 AI 운영 체계 구축을 지원하기 위해 추진됐다. 기업의 AI 도입이 실험 단계에서 서비스 운영 단계로... 콩은 API 및 AI 연결성 기술을 개발하는 글로벌 기업으로, 오픈소스로 활용되는 '콩 게이트웨이'를...",
+          "src": "datanet",
           "date": "08/18",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202608180001",
-          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213832",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213832_138053_416_v150.jpg"
         },
         {
-          "title": "AI에 막힌 청년 취업‥\"전공 대신 기술 배워요\"",
-          "desc": "이런 기술 있으면 좋을 것 같아서‥\" 청년들의 취업난은 AI 도입이 가속화되며 더욱 심화되고 있습니다.... AI가 초보 수준의 업무는 대체 가능한 경우가 많다 보니 기업들이 신입 채용은 대폭 줄이고, AI를 활용할 수 있는...",
-          "src": "imnews",
+          "title": "알리바바 클라우드, 국내 세 번째 데이터센터 출범...\"안정적이고 안전...",
+          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아 있다.... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈소스 모델 큐웬(Qwen)을 기반으로 AI 도입의 다음 단계를...",
+          "src": "AI타임스",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/214/0001518439?sid=102",
-          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/18/today_20260818_073114_2_31_Large.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41482",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41482_62443_4637_v150.jpg"
         },
         {
-          "title": "한국정보공학, 기업용 생성형 AI 플랫폼 'HARO.Chat 2.0'·'HARO.pipeX 1.0' ...",
-          "desc": "Chat을 통해 최종 사용자가 AI 서비스를 활용할 수 있도록 두 플랫폼을 연계했다. 한국정보공학은 앞으로 온톨로지 기반 지식 탐색과 문맥·의미 기반 청킹(Chunking) 기술을 확대 적용해 AI가 기업의 핵심 개념...",
-          "src": "한국경제",
+          "title": "알리바바 클라우드, 한국 3번째 데이터센터 공식 출범 … AI 인프라 경쟁...",
+          "desc": "국내 인프라 확장은 알리바바 클라우드 기술이 실제 비즈니스 환경에서 활용되는 사례와도 맞닿아... 알리바바는 전 세계적으로 폭넓게 활용되는 오픈소스 모델 'Qwen'을 기반으로 AI 도입의 다음 단계를 이끌...",
+          "src": "worktoday",
           "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/015/0005321754?sid=101",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88061",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88061_126825_464_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "“17년간 단가인상 두 번뿐”…납품대금 연동제 확대에도 中企 ‘한숨’...",
+          "desc": "경남 김해에 있던 자동차부품 열처리업체 B사는 완성차 업체에 부품을 공급하는 협력사와 거래하며 일반... 임가공업 관련 협동조합 관계자는 “현대차나 삼성전자 같은 대기업이 상생협력에 나서더라도 잘해야 2차...",
+          "src": "헤럴드경제",
+          "date": "08/18",
+          "url": "https://n.news.naver.com/mnews/article/016/0002684950?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/18/news-p.v1.20260626.5a750500821844b7a9b64ce0712fd524_T1.jpg"
+        },
+        {
+          "title": "[TECH한주] 자율주행 칩을 현실로 만드는 가교, 파운드리 DSP '코아시아'",
+          "desc": "문제는 알고리즘 회로도를 그리는 것과 이를 삼성전자 같은 첨단 파운드리 공정에서 실제 실리콘 칩으로... 1차 협력사들로부터 차량용 인포테인먼트 및 전장용 AP 턴키 프로젝트 수주를 연이어 성사시키고...",
+          "src": "epnc",
+          "date": "08/18",
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405628",
+          "img": "https://cdn.epnc.co.kr/news/photo/202608/405628_405998_4033.jpg"
+        },
         {
           "title": "SK하이닉스, 美 첨단 패키징 팹 27일 착공…메모리 전공정 투자 열어놔",
           "desc": "미국 정부가 삼성전자와 SK하이닉스에 현지 메모리 생산 확대를 요구하는 상황에서 38억7000만달러 규모의... 고객사와 협력사를 대상으로 행사 준비에 들어갔다. SK하이닉스 측은 \"현지시간으로 27일 착공식이 확정됐다...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://n.news.naver.com/mnews/article/421/0009117862?sid=101",
           "img": "https://i3n.news1.kr/system/photos/2026/8/11/8051212/high.jpg"
-        },
-        {
-          "title": "'중장년 전유물' 깼다…갤럭시 폴드8, 1030·여성 구매 비중 절반 넘어",
-          "desc": "삼성전자는 올해 갤럭시 Z폴드8을 당초 계획보다 100만대 추가 생산하기로 하고 협력사에 관련 부품 추가 발주를 진행한 것으로 알려졌다. 이와 관련 이은희 인하대 소비자학과 교수는 “폴더블폰이 생산성과 업무...",
-          "src": "kyeonggi",
-          "date": "08/16",
-          "url": "https://n.news.naver.com/mnews/article/666/0000119335?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580762.png?v=20260818074335"
-        },
-        {
-          "title": "\"없어서 못판다\" 뜨거운 폴드8 흥행에 부품株 고공행진",
-          "desc": "폴드8 판매 호조에 삼성전자가 당초 계획보다 생산량을 늘리고 협력사에 추가 부품을 주문한 것으로 알려지면서 관련 업체의 수혜 기대도 커졌다. 특히 폴더블 판매량 증가가 실적에 직접적으로 연결될 수 있는...",
-          "src": "newsway",
-          "date": "08/16",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026081415405708253",
-          "img": "https://nimage.newsway.co.kr/photo/2026/08/14/20260814000009_1200.png"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "공공 모듈러 2만호 시대…GS건설, 선점 속도 낸다",
-      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47081",
-      "img": "https://cdn.newstopkorea.com/news/photo/202608/47081_48161_5554.png"
+      "title": "'글로벌 사우스' 진격하는 K-전자...삼성·LG전자, 인도·남미 생산 거점...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259021",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202608/259021_280620_4318.jpg"
     },
     {
-      "title": "“성과급 박탈감이 좀 가시네요”…갤Z폴드 흥행에 삼전DX 분위기 반전",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722066?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/18/news-p.v1.20260817.9fb89b42719b4edb96837960b08ecc74_R.png"
+      "title": "삼성·LG도 반했다…AMR 자체 설계·제작하는 시스윈로보틱스",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457955?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.28dfefbc74e74f95a8742030bd40eaf2_P1.jpg"
     },
     {
-      "title": "'짓는 집'서 '제조하는 집'으로…삼성·LG 모듈러주택 열풍",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352914?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081700733.jpg"
+      "title": "EU, 가전별 ESG 규제…韓 수출체계 재편 '발등의 불'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457920?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/17/article_17170813475364.png"
     },
     {
-      "title": "“청년 54%, 5년 내 AI가 직무 대체”⋯ 미취업·고노출 직무일수록 우려...",
-      "url": "https://www.viva100.com/article/20260818500011",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500008.jpg?v=20260818074327"
+      "title": "[가전 대전환②] '소유'에서 '경험'으로… 판도 바꾸는 구독 생태계",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726151",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202608/726151_930523_2552.jpg"
     },
     {
-      "title": "[이수영의 IT 칼럼] AI시대, 노동시장의 변화에서 장애인은 어느 위치에...",
-      "url": "https://www.dailyt.co.kr/newsView/dlt202608180001",
-      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/05/dlt202608050016.png"
+      "title": "알리바바 클라우드, 한국 제3 데이터센터 개소",
+      "url": "https://byline.network/?p=9004111222615625",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/alibabacloud-datacenter-3rd.jpg"
     },
     {
-      "title": "AI에 막힌 청년 취업‥\"전공 대신 기술 배워요\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001518439?sid=102",
-      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/18/today_20260818_073114_2_31_Large.jpg"
+      "title": "클라우드네트웍스, Kong과 파트너십 ··· 'AI 게이트웨이' 국내 공급",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213832",
+      "img": "https://cdn.datanet.co.kr/news/thumbnail/202608/213832_138053_416_v150.jpg"
     }
   ]
 };
