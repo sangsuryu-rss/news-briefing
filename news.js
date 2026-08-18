@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 17:55",
+  "updatedAt": "2026.08.18 (화) 19:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오늘의 전자] 삼성전자·LG전자",
-          "desc": "18일 삼성전자와 LG전자의 소식. 삼성전자가 오스트리아 '빈 미술사 박물관'의 대표 소장품 43점을 삼성... LG전자가 전 세계에 보유한 제조∙물류 현장과 가전제품을 기반으로 수집한 데이터를 확장하고 합성...",
-          "src": "financialreview",
+          "title": "[단독] 노태문 대표, 내일 경영 설명회…첫 DX 적자 타개책 주목",
+          "desc": "삼성전자 DX부문를 총괄하는 노태문 대표이사가 내일 DX부문 그룹장 등 간부들을 대상으로 경영현황... 모바일, TV, 생활가전 등 DX 전반의 실적 개선을 위한 대책들이 거론될 것으로 보입니다.",
+          "src": "biz",
           "date": "08/18",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
-          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000528053?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/07/23/bYc1784767539660-850.jpg"
         },
         {
           "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
         },
         {
-          "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
-          "desc": "삼성전자: \"조직 DNA 완전히 바꾸겠다\" 이재용 삼성전자 회장의 선언은 명확했다. 올해 신년사에서 그는... 인도에서는 고객들의 냉장고 사용 패턴 분석을 바탕으로 무더운 날씨에 대응하는 위생·신선 기능을...",
-          "src": "globalepic",
+          "title": "[오늘의 전자] 삼성전자·LG전자",
+          "desc": "18일 삼성전자와 LG전자의 소식. 삼성전자가 오스트리아 '빈 미술사 박물관'의 대표 소장품 43점을 삼성... 이곳에서 LG 클로이드는 가정 환경처럼 꾸며진 공간에서 청소를 하고, 미국 테네시 세탁기공장의 공정을...",
+          "src": "financialreview",
           "date": "08/18",
-          "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "청년의 '내일'과 '오늘'을 잇다…서울시, 청년 기회 도시 조성",
-          "desc": "우선 경제적 여건에 구애받지 않고 누구나 인공지능(AI) 기술을 배울 수 있도록 '청년 AI 사다리' 정책을 통해... AI 도입 뿐만 아니라 교육적 측면에서 어떻게 활용할 수 있을지 교육 캠프 등도 진행했으면 좋겠다\"고...",
-          "src": "asiatoday",
+          "title": "[수원 특집] 수원 'AI 행정' 본격화",
+          "desc": "인공지능 기술을 접목해 집중 방재 관리를 하고 있는 화면. /사진제공=수원특례시 ▲ 수원화성 안전관리에도 AI 적용 세계문화유산 수원화성의 재난·방범 관리에도 인공지능이 활용된다. 수원시는 수원화성 전체 구역에...",
+          "src": "incheonilbo",
           "date": "08/18",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005840",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070700058401.jpg"
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329835",
+          "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329835_669133_226_v150.jpg"
         },
         {
-          "title": "제주, AI 기반 감귤관측 자동화 기술 현장 검증 돌입",
-          "desc": "도농기원은 이에 스마트폰 영상과 AI 객체 인식 기술을 활용한 감귤 관측 자동화 시스템을 구축했다. 현장... 도농기원은 관측 자동화 기술 도입 시 필지당 조사 시간이 기존 약 40분에서 15분 미만으로 줄어 60% 이상...",
-          "src": "agrinet",
+          "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
+          "desc": "이번 평가에는 과학기술정보통신부 사업의 일환으로 TTA(한국정보통신기술협회), 카이스트(KAIST), 카카오가 2025년 11월 공동 구축한 한국어 특화 안전성 벤치마크 '어슈어AI(Assur AI)'가 활용됐습니다. Assur AI는 한국의...",
+          "src": "동아일보",
           "date": "08/18",
-          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406482",
-          "img": "https://cdn.agrinet.co.kr/news/photo/202608/406482_97305_4821.png"
+          "url": "https://it.donga.com/109375/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/8/18/59f70cbf078040ab-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "삼양그룹 상반기 성과점검, 하반기 AX·스페셜티 전환 속도",
-          "desc": "삼양그룹이 일본 향료기업 인수와 소재사업 실적 개선, 인공지능(AI) 업무 플랫폼 도입 등을 상반기 주요... AI 활용 격차 등을 주요 변수로 꼽았다. 특히 AI 기술을 사업과 업무에 적용하는 수준에 따라 기업 간 경쟁력...",
-          "src": "koreastocknews",
+          "title": "“서·논술형 초벌 채점에 AI 활용”",
+          "desc": "한국교육과정평가원이 올해 안에 교육 현장에 AI 기술을 활용한 채점을 도입할 수 있는 가이드라인을 제안할 방침이다. 평가원 김문희 원장은 18일 평가원이 발간한 계간지 인터뷰에서 2024년부터 올해까지 서술형·논술형...",
+          "src": "kookje",
           "date": "08/18",
-          "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120643",
-          "img": "https://cdn.koreastocknews.com/news/thumbnail/202608/120643_100929_4455_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000152693?sid=102",
+          "img": "https://www.kookje.co.kr/kookje/images/logo_facebook_thumb.jpg?7"
         },
         {
-          "title": "LG·SKT·업스테이지 3파전 된 '독파모'…\"지원규모·체계 재편 검토\"",
-          "desc": "경우, 기술적인 측면에서 세계적인 수준임을 증명했지만 사용성·활용성에서는 다른 모델들에 비해 낮은 평가를 받았다\"고 말했다.이날 발표된 2차 평가 결과에 따라 남은 3팀은 AI 모델 개발을 지속, 최종 2개 팀으로...",
-          "src": "asiatoday",
+          "title": "국가대표 AI 3파전… LG·SKT·업스테이지로 압축 ['독파모' 3강 확정]",
+          "desc": "모델 성능뿐 아니라 실제 산업 활용과 이용 편의성까지 함께 보는 평가기준이 승부를 갈랐다. 18일 과학기술정보통신부와 정보통신산업진흥원(NIPA)에 따르면 독자 AI 파운데이션 모델(독파모) 2차 단계평가는 벤치마크...",
+          "src": "파이낸셜뉴스",
           "date": "08/18",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005838",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070300058381.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005563149?sid=105",
+          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[주식마감] '남북경협주' 코데즈컴바인·좋은사람들 상한가... 삼성공조...",
+          "desc": "이날 삼성공조에 대한 별다른 공시는 올라온 바 없다. 삼성공조는 자동차용 열교환기 및 공조 관련 부품... 특히 삼성중공업 1차 협력사로서 삼성전자 평택캠퍼스 P3·P4를 비롯한 대형 반도체 생산시설 공사에...",
+          "src": "ggilbo",
+          "date": "08/18",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176052",
+          "img": "https://cdn.ggilbo.com/news/photo/202608/1176052_1028449_3816.jpg"
+        },
         {
           "title": "삼성디스플레이, A7 공사 재개...장기수요 대비",
           "desc": "삼성전자 회장 등이 참석한 충청권 메가프로젝트 발표회(충청권 첨단산업 발전비전 국민보고회)에서 삼성그룹은 충청권에 2040년까지 총 140조원을 투자해 반도체와 디스플레이, 배터리 등 소재·부품사업을...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444960",
           "img": ""
-        },
-        {
-          "title": "[AI 빈부격차 시대①] '모두의 기술'이 아니었다…벌어진 AX 격차",
-          "desc": "삼성전자는 글로벌 빅테크의 대표 생성형 AI 3종(챗GPT 엔터프라이즈, 제미나이 엔터프라이즈, 클로드)을... 권혁민 한경협 성장전략실장은 \"제조업 AX는 소재·부품·장비를 공급하는 협력사까지 함께 전환해 산업...",
-          "src": "ebn",
-          "date": "08/18",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720703",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1720703_752080_502_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오늘의 전자] 삼성전자·LG전자",
-      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
-      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
+      "title": "[단독] 노태문 대표, 내일 경영 설명회…첫 DX 적자 타개책 주목",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528053?sid=101",
+      "img": "https://img.biz.sbs.co.kr/upload/2026/07/23/bYc1784767539660-850.jpg"
     },
     {
       "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153758_119733_4651.png"
     },
     {
-      "title": "[K-기업 AX 대전환 ① 전자·반도체] ‘AI 네이티브’ 기업 탈바꿈 속도",
-      "url": "http://www.globalepic.co.kr/view.php?ud=20260818131350120448439a4874_29",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081813141200533048439a4874112222163195.jpg&nmt=29"
+      "title": "[오늘의 전자] 삼성전자·LG전자",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44258",
+      "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44258_65295_1736_v150.jpg"
     },
     {
-      "title": "청년의 '내일'과 '오늘'을 잇다…서울시, 청년 기회 도시 조성",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005840",
-      "img": "https://img.asiatoday.co.kr/file/2026y/08m/19d/2026081801001070700058401.jpg"
+      "title": "[수원 특집] 수원 'AI 행정' 본격화",
+      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329835",
+      "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329835_669133_226_v150.jpg"
     },
     {
-      "title": "제주, AI 기반 감귤관측 자동화 기술 현장 검증 돌입",
-      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406482",
-      "img": "https://cdn.agrinet.co.kr/news/photo/202608/406482_97305_4821.png"
+      "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
+      "url": "https://it.donga.com/109375/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/8/18/59f70cbf078040ab-thumbnail-960x540-70.jpg"
     }
   ]
 };
