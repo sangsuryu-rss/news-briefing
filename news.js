@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 23:54",
+  "updatedAt": "2026.08.19 (수) 01:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "실적 부진에 보상 격차까지…삼성전자 희망퇴직, 90년대생으로 확대",
-          "desc": "18일 업계에 따르면 삼성전자는 수년 전부터 희망퇴직 제도를 상시 운영하고 있다. 통상 인사팀이 부장급에... 스마트폰과 TV, 가전 등 완제품 사업의 실적 부진과 함께 수억 원대 희망퇴직 보상이 영향을 미친 것으로...",
-          "src": "thepublic",
-          "date": "08/18",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315285",
-          "img": "https://cdn.thepublic.kr/news/photo/202608/315285_318515_1733.png"
+          "title": "8월 3주 주요 제조업 전망",
+          "desc": "기후부, 삼성전자, 한화큐셀, OCI, SK실트론 및 한국반도체산업협회 등 유관 부처와 기업들이 참석함 - 6일... LG전자, 브라질 가전 공장 가동 - 16일 LG전자가 브라질 남부 파라나 가전 공장이 13일 가동을 시작했다고...",
+          "src": "laborplus",
+          "date": "08/19",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
         },
         {
           "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -61,35 +61,35 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[금융권 스타트업 협업①] KB국민은행은 왜 신생 ‘티냅스’를 택했나",
-          "desc": "금융권과 스타트업의 협업이 단순한 기술 도입을 넘어 실제 금융 서비스와 새로운 사업 기회를 만들어내는 방식으로 확장되고 있다. 금융사는 스타트업의 기술을 활용해 새로운 해법을 찾고, 스타트업은 금융사의...",
-          "src": "byline",
-          "date": "08/18",
-          "url": "https://byline.network/?p=9004111222615731",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/KakaoTalk_20260818_230405545.jpg"
+          "title": "베스핀글로벌, ‘오픈AI 셀렉트 파트너’ 선정",
+          "desc": "‘오픈AI 셀렉트 파트너’로 선정됐다고 19일 밝혔다. 오픈AI 파트너 네트워크는 파트너사가 오픈AI 기술과... 기업의 AI 도입 전 과정을 7개 영역으로 나눈 체계다. 베스핀글로벌은 이를 활용해 클라우드와 온프레미스...",
+          "src": "이데일리",
+          "date": "08/19",
+          "url": "https://n.news.naver.com/mnews/article/018/0006353769?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081900015.jpg"
         },
         {
-          "title": "중기부, AI 서비스 혁신기업 175곳 선정…수산물 가격·간병·화재 위험...",
-          "desc": "중소 서비스기업의 AI 전환은 기술을 도입하는 일보다 업무에 맞는 데이터를... 빅데이터와 AI 등 첨단 정보통신기술을 활용해 새로운 사업모델을 만들고 서비스...",
-          "src": "venturesquare",
-          "date": "08/18",
-          "url": "https://www.venturesquare.net/1106764/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/260819.jpg"
+          "title": "8월 3주 주요 제조업 전망",
+          "desc": "남양기술연구소의 '충돌 안전 AI 어시스턴트'가 여러 시스템에 흩어진 과거 충돌 시험 결과와 이미지... 공급된 설비는 현지 빅테크 기업 데이터센터 전력 공급원으로 활용될 예정임 - 최근 HD현대는 그룹 계열사...",
+          "src": "laborplus",
+          "date": "08/19",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
         },
         {
-          "title": "라운드힐, 수노·앤트로픽에 저작권 소송…500곡서 1만곡까지 확대 예고...",
-          "desc": "기술 기업들을 기반으로 불법 데이터 스크래핑 사업을 구축했다”는 이유로 소송을 당한 바 있다.500곡에서 최대 1만곡까지…커지는 배상 청구라운드힐은 두 소송 모두에서 우선 500곡 안팎의 자사 저작물이 AI...",
-          "src": "wikitree",
-          "date": "08/18",
-          "url": "https://www.wikitree.co.kr/articles/1153224",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608182312526542_ai.jpeg"
+          "title": "[미국 특징주] 오픈AI, 청소년용 챗GPT 새로 출시…안전 기능과 학습 지...",
+          "desc": "새로 도입되며, 청소년과 부모가 이를 직접 조정할 수 있다. 오픈AI는 또한 기술 교육 비영리단체 '코드... (Code AI)'와 협력해 학생과 교사들이 이 기술의 작동 원리와 건설적인 활용법을 이해할 수 있도록 관련...",
+          "src": "뉴스핌",
+          "date": "08/19",
+          "url": "https://www.newspim.com/news/view/20260819000009",
+          "img": "https://img.newspim.com/news/2026/08/19/2608190103232110_t1.jpg"
         },
         {
-          "title": "[BEYOND DGIST] 세상을 바꾸는 기술 창업, 차세대 '유니콘' 향해 뛴다 〈...",
-          "desc": "로봇기술로 글로벌 라이프케어 플랫폼을 지향하고 있다”면서 “내년에는 AI 기반 산업용 웨어러블 로봇을 본격 출시해 중견 및 중소기업 제조현장에 직접 도입하고, 향후에는 산업용뿐만 아니라 일상생활에도 쉽게...",
-          "src": "전자신문",
-          "date": "08/18",
-          "url": "https://n.news.naver.com/mnews/article/030/0003458385?sid=102",
+          "title": "마산대, AI·DX로 대학 행정 혁신…스마트 협업체계 구축",
+          "desc": "생성형 AI인 Copilot을 활용한 업무 효율화 방안도 함께 다뤘다. 마산대는 이번 교육을 계기로 수업·회의... 이상원 마산대 혁신사업단장은 “AI·DX는 단순히 새로운 프로그램을 도입하는 것이 아니라 대학의 일하는...",
+          "src": "kukinews",
+          "date": "08/19",
+          "url": "https://www.kukinews.com/article/view/kuk202608190005",
           "img": ""
         }
       ]
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "대세는 와이드 폴더블폰...삼성전자 'Z시리즈' 가로 더 길어진다",
+          "desc": "삼성전자는 폴드8 물량을 100만대 더 늘리기로 하고 협력사에 부품 발주를 넣은 것으로 파악된다. 당초 연간 생산량은 갤럭시Z8 시리즈 가운데 가장 많은 280만대였고, 추가 물량을 더하면 300만대 후반에 달할 전망이다....",
+          "src": "더팩트",
+          "date": "08/19",
+          "url": "https://n.news.naver.com/mnews/article/629/0000525425?sid=105",
+          "img": "https://img.tf.co.kr/article/home/2026/08/18/202647891787031756.jpg"
+        },
         {
           "title": "[주식마감] '남북경협주' 코데즈컴바인·좋은사람들 상한가... 삼성공조...",
           "desc": "이날 삼성공조에 대한 별다른 공시는 올라온 바 없다. 삼성공조는 자동차용 열교환기 및 공조 관련 부품... 특히 삼성중공업 1차 협력사로서 삼성전자 평택캠퍼스 P3·P4를 비롯한 대형 반도체 생산시설 공사에...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/18",
           "url": "https://www.kbsm.net/news/view.php?idx=530754",
           "img": "https://www.kbsm.net/data/newsThumb/1787035485ADD_thumb780.jpg"
-        },
-        {
-          "title": "구글 삼성전자·SK하이닉스와 메모리반도체 협상에 유리, AI 서버와 스마...",
-          "desc": "특히 베트남은 삼성전자가 이미 스마트폰 제조 공급망을 구축한 지역이라 구글이 부품 협력사를 확보하기 좋은 생태계가 갖춰져 있다는 분석도 제시됐다. 닛케이아시아는 \"구글은 2026년 픽셀 스마트폰의 사업 전략을...",
-          "src": "비즈니스포스트",
-          "date": "08/18",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444960",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "실적 부진에 보상 격차까지…삼성전자 희망퇴직, 90년대생으로 확대",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315285",
-      "img": "https://cdn.thepublic.kr/news/photo/202608/315285_318515_1733.png"
+      "title": "8월 3주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
     },
     {
       "title": "갤Z폴드 흥행 대박인데…삼성 DX, 메모리값 폭등에 ‘속빈 강정’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
     },
     {
-      "title": "[금융권 스타트업 협업①] KB국민은행은 왜 신생 ‘티냅스’를 택했나",
-      "url": "https://byline.network/?p=9004111222615731",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/KakaoTalk_20260818_230405545.jpg"
+      "title": "베스핀글로벌, ‘오픈AI 셀렉트 파트너’ 선정",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353769?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081900015.jpg"
     },
     {
-      "title": "중기부, AI 서비스 혁신기업 175곳 선정…수산물 가격·간병·화재 위험...",
-      "url": "https://www.venturesquare.net/1106764/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/260819.jpg"
+      "title": "8월 3주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41308",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41308_73440_178.jpg"
     }
   ]
 };
