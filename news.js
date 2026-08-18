@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.18 (화) 22:10",
+  "updatedAt": "2026.08.18 (화) 23:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "롯데건설, '상동역 롯데캐슬 시그니처' 견본주택 개관",
-          "desc": "지하 1층 스포츠클럽에는 실내골프클럽과 스크린골프, AI퍼팅그린, 사우나 등이 들어선다. 지상 1층에는... 라이브러리’가 도입될 예정이다. 사물인터넷(IoT)과 정보통신기술(ICT)을 활용해 출결과 학습시간을 관리하고...",
-          "src": "globalepic",
+          "title": "[금융권 스타트업 협업①] KB국민은행은 왜 신생 ‘티냅스’를 택했나",
+          "desc": "금융권과 스타트업의 협업이 단순한 기술 도입을 넘어 실제 금융 서비스와 새로운 사업 기회를 만들어내는 방식으로 확장되고 있다. 금융사는 스타트업의 기술을 활용해 새로운 해법을 찾고, 스타트업은 금융사의...",
+          "src": "byline",
           "date": "08/18",
-          "url": "http://www.globalepic.co.kr/view.php?ud=20260818214730556123fd0362e7_29",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081821505406416023fd0362e71061011200.jpg&nmt=29"
+          "url": "https://byline.network/?p=9004111222615731",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/KakaoTalk_20260818_230405545.jpg"
         },
         {
-          "title": "HUG, 안심전세앱 고도화…전세사기 위험 진단 강화",
-          "desc": "간담회에서 HUG는 오는 10월 말 도입 예정인 '전세보증 사전심사' 제도를 안내했다. 계약금만 낸 상태에서도... 최인호 HUG 사장은 \"피해자들의 목소리를 경청해 제도를 지속적으로 개선하겠다\"며 \"AI 기술을 활용한...",
-          "src": "newscj",
+          "title": "중기부, AI 서비스 혁신기업 175곳 선정…수산물 가격·간병·화재 위험...",
+          "desc": "중소 서비스기업의 AI 전환은 기술을 도입하는 일보다 업무에 맞는 데이터를... 빅데이터와 AI 등 첨단 정보통신기술을 활용해 새로운 사업모델을 만들고 서비스...",
+          "src": "venturesquare",
           "date": "08/18",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3426159",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426159_3538923_5044_v150.jpg"
+          "url": "https://www.venturesquare.net/1106764/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/260819.jpg"
         },
         {
-          "title": "英 경찰, AI로 101 비긴급 신고 전화 분류…연간 850만 파운드 절감 기대",
-          "desc": "정부는 AI를 단순한 행정 자동화 도구가 아니라 경찰 업무의 수요를 분류하고 현장 대응 역량을 높이는 기술로 활용한다는 방침이다. 특히 101 전화처럼 경찰이 직접 처리해야 하는 신고와 다른 공공기관이 담당해야...",
-          "src": "AI타임스",
+          "title": "라운드힐, 수노·앤트로픽에 저작권 소송…500곡서 1만곡까지 확대 예고...",
+          "desc": "기술 기업들을 기반으로 불법 데이터 스크래핑 사업을 구축했다”는 이유로 소송을 당한 바 있다.500곡에서 최대 1만곡까지…커지는 배상 청구라운드힐은 두 소송 모두에서 우선 500곡 안팎의 자사 저작물이 AI...",
+          "src": "wikitree",
           "date": "08/18",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41500",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41500_62467_4542_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1153224",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608182312526542_ai.jpeg"
         },
         {
-          "title": "[인터뷰] 전석훈 경기도의원, AI 정책 연구실 넘어 제조현장서 성과 내...",
-          "desc": "AI 산업의 변화도 빠르다. 과거에는 소프트웨어와 데이터 활용이 중심이었다면 이제는 AI가 로봇과... 다만 중소기업 비중이 높다 보니 개별 기업이 AI나 로봇 기술을 도입하려 해도 비용과 전문인력 확보에 어려움이 있다....",
-          "src": "discoverynews",
+          "title": "[BEYOND DGIST] 세상을 바꾸는 기술 창업, 차세대 '유니콘' 향해 뛴다 〈...",
+          "desc": "로봇기술로 글로벌 라이프케어 플랫폼을 지향하고 있다”면서 “내년에는 AI 기반 산업용 웨어러블 로봇을 본격 출시해 중견 및 중소기업 제조현장에 직접 도입하고, 향후에는 산업용뿐만 아니라 일상생활에도 쉽게...",
+          "src": "전자신문",
           "date": "08/18",
-          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1098884",
-          "img": "https://cdn.discoverynews.kr/news/thumbnail/202608/1098884_1141688_3525_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003458385?sid=102",
+          "img": ""
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "http://img.vod.mbn.co.kr/vod2/552/2026/08/18/20260818195548_20_552_1426859_1080_7.jpg"
     },
     {
-      "title": "롯데건설, '상동역 롯데캐슬 시그니처' 견본주택 개관",
-      "url": "http://www.globalepic.co.kr/view.php?ud=20260818214730556123fd0362e7_29",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026081821505406416023fd0362e71061011200.jpg&nmt=29"
+      "title": "[금융권 스타트업 협업①] KB국민은행은 왜 신생 ‘티냅스’를 택했나",
+      "url": "https://byline.network/?p=9004111222615731",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/08/KakaoTalk_20260818_230405545.jpg"
     },
     {
-      "title": "HUG, 안심전세앱 고도화…전세사기 위험 진단 강화",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3426159",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426159_3538923_5044_v150.jpg"
+      "title": "중기부, AI 서비스 혁신기업 175곳 선정…수산물 가격·간병·화재 위험...",
+      "url": "https://www.venturesquare.net/1106764/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/260819.jpg"
     }
   ]
 };
