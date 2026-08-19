@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 07:43",
+  "updatedAt": "2026.08.19 (수) 10:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·플랙트, 광주에 2400억 투자…300여명 고용",
-          "desc": "기존 삼성전자 광주사업장을 중심으로 형성돼 있는 금형·사출·전자부품·모터·제어장치 등 가전 협력 생태계가 고부가가치 HVAC 분야로 사업 영역을 확장할 수 있다는 점에서다. 2400억원의 공장 건설 투자에 그치지...",
-          "src": "kwangju",
+          "title": "삼성전자, 광주사업장에 2400억 원 투자…HVAC 글로벌 거점 육성",
+          "desc": "AI 가전을 생산해 온 광주사업장에 HVAC 생산 기능을 추가해 두 사업을 아우르는 글로벌 생산거점으로 확대한다는 전략이다. 김철기 삼성전자 DA사업부장 부사장은 \"삼성전자는 미래 성장동력인 HVAC 사업을 빠르게...",
+          "src": "iminju",
           "date": "08/19",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1787090400802408277",
-          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/802408.jpeg"
+          "url": "http://www.iminju.net/news/articleView.html?idxno=168230",
+          "img": "https://cdn.iminju.net/news/thumbnail/202608/168230_177242_4446_v150.jpg"
         },
         {
-          "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
-          "desc": "2023년 스마트폰·노트북·TV 등 3개 제품군에서 현재 스마트폰·노트북·TV을 비롯해 태블릿·냉장고·세탁기·건조기·식기세척기·로봇청소기·스틱청소기·모니터 등이 추가됐다. ▲삼성전자서비스 홈페이지 고객...",
-          "src": "소비자가만드는신문",
+          "title": "조영훈 한국로봇산업진흥원장 “대구 로봇산업..국가로봇테스트필드 중...",
+          "desc": "산업용 로봇이나 휴머노이드 위주에서, 최근에는 로봇청소기, 서빙·조리로봇... 전자·정보통신 인프라를 갖춘 구미(삼성전자 로봇 사업 등)와 기계산업 기반의...",
+          "src": "breaknews",
           "date": "08/19",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761532_316699_3246_v150.jpg"
+          "url": "http://www.breaknews.com/1229665",
+          "img": "https://dk.breaknews.com/imgdata/dk_breaknews_com/202608/2026081854371792.jpg"
         },
         {
-          "title": "가전 사용설명서에 QR코드만 덜렁...종이 설명서 없어지면서 노년층 '막...",
-          "desc": "# 경기도 부천에 사는 박 모(남)씨는 최근 삼성전자 비스포크 AI 콤보(세탁건조기)를 구매했다. 사용하기 전 설명서를 찾았으나 도통 보이지 않았다. 대신 동봉된 제품보증서에 인쇄된 QR코드로 설명서를 다운받아야 했다....",
-          "src": "소비자가만드는신문",
+          "title": "삼성전자, 광주에 2400억원 투자-플랙트 HVAC 생산라인 구축",
+          "desc": "세탁건조기, '비스포크 AI 무풍에어컨' 등 주요 AI 가전을 생산하고 있다. 2010년에는 정밀금형개발센터를 구축했으며 해외 생산법인에 첨단 제조기술을 전파하는 역할도 맡고 있다. 삼성전자는 기존 제조 인프라에...",
+          "src": "mediafine",
           "date": "08/19",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760845",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/760845_316183_1645_v150.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87188",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87188_124897_4331.jpg"
         },
         {
-          "title": "선진국 넘어 성장시장으로⋯ 삼성·LG, 신흥시장 ‘현지화’ 승부수",
-          "desc": "삼성전자와 LG전자가 신흥시장 중심의 현지화 전략의 속도를 높이고 있다. 현지 생산 거점을 확대해 시장... 안팎의 냉장고 생산 능력을 갖췄다. 신공장에는 AI와 산업용 로봇 기반의 스마트 팩토리 솔루션을 적용한...",
-          "src": "브릿지경제",
+          "title": "삼성전자, HVAC 투자에 전남광주 산업 파급효과 클 듯",
+          "desc": "광주에서 냉장고와 세탁기 등 백색가전을 생산해온 삼성전자의 산업 영역이 AI 가전과 데이터센터 공조로 확장되는 셈이다. 여기에 최근에는 대규모 반도체 투자 계획까지 더해지면서 광주의 산업구조 변화에 대한...",
+          "src": "뉴시스",
           "date": "08/19",
-          "url": "https://www.viva100.com/article/20260818500628",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500423.jpg?v=20260819074318"
+          "url": "https://n.news.naver.com/mnews/article/003/0014134536?sid=102",
+          "img": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215425_web.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "무신사, AI기술 혁신 '테크 컨퍼런스'···오늘부터 참가 접수",
-          "desc": "이와 함께 사용자 접속 흐름 기반의 오류 자동 검증 체계, AI를 활용한 거대 시스템의 효율적 구조 분할 등 서비스 안정성을 높인 실전 노하우를 공유한다. 실무 적용 중심의 컬렉션 트랙에서는 AI 도입에 따른 개발 생산성...",
-          "src": "slist",
+          "title": "신성이엔지, 스타트업 협업 넓힌다…ESS·AI 데이터센터로 사업 보폭 확...",
+          "desc": "양사는 신성이엔지 용인사업장에서 생산한 재생에너지를 이동형 ESS에 저장한 뒤 다른 현장에서 활용하는... 단순한 기술 도입이나 투자를 넘어 기존 사업의 경쟁력을 높이는 동시에 새로운 시장으로 사업 영역을...",
+          "src": "디지털데일리",
           "date": "08/19",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=759593",
-          "img": "https://cdn.slist.kr/news/thumbnail/202608/759593_1163784_3328_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002238241?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/03/16/2026031614214524171_l.jpg"
         },
         {
-          "title": "[테크인사이드] \"오픈AI·앤트로픽, 첨단 모델 API 접근 점점 제한할 것...",
-          "desc": "이용 기반 요금제 도입도 추진 중이다. 클리프 오브레히트 캔바 공동창업자는 \"AI 도입 전에는 무료 이용자... 학습시키는 기술인데 특히 중국 AI 기업들이 이를 활용해 미국 회사들과 맞먹는 고성능 모델을 오픈소스...",
-          "src": "digitaltoday",
+          "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구...",
+          "desc": "제공함으로써, AI 기술에 대한 이해와 활용 역량을 높이는 데 기여했다. 이번 구축은 외부 솔루션 도입에만 의존하지 않고, 대학 내부에서 서비스를 직접 기획·운영하며 생성형 AI 기술에 대한 이해와 운영 경험을...",
+          "src": "AI타임스",
           "date": "08/19",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693869",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693869_641738_4544.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41506",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41506_62478_507_v150.jpg"
         },
         {
-          "title": "통제 풀린 AI 마주한 오픈AI, 결국 브레이크 밟았다",
-          "desc": "다른 AI 모델을 활용하는 방식이 대거 도입됐다. 하지만 오픈AI 측은 기자들에게 이번 안전 조치가... 오픈AI는 전체 기술 보고서를 아직 공개하지 않았으나, 오늘 브리핑에서 \"조만간\" 발표하겠다는 입장을 되풀이했다....",
-          "src": "fortunekorea",
+          "title": "[기업家] 신세계그룹 ㅣ 상반기 영업익 '역대 최대'…동남아 영토 확장...",
+          "desc": "인공지능(AI)을 활용한 CCTV 시스템을 도입해 고객과 현장 근로자의 안전관리 체계를 강화했다.... 이희재 신세계디에프 상무는 \"면세점 매장부터 물류센터까지 AI 기술을 적용해 고객과 현장 근로자의 안전을 보다...",
+          "src": "cbci",
           "date": "08/19",
-          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53650",
-          "img": "https://cdn.fortunekorea.co.kr/news/thumbnail/202608/53650_47803_744_v150.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599108",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/599108_410848_4558_v150.jpg"
         },
         {
-          "title": "[SV 리포트] \"머신 가리지 않고, 사용 뒤엔 자연으로\"…커피 캡슐 한계 ...",
-          "desc": "한국환경산업기술원의 환경성적표지 작성지침에서 제시하는 소재별 전과정 온실가스 배출 데이터를 활용해... 이 대표는 \"브랜드 운영 경험이 부족한 상황에서 카페24 프로를 도입해 운영·디자인·프로모션 등을...",
-          "src": "socialvalue",
+          "title": "제주항공, 임직원 'AI 활용 역량 강화 교육' 개설…업무 혁신 가속",
+          "desc": "기술을 빠르게 익히고 업무에 활용할 수 있는 역량을 높여 이번 교육이 실제 업무 혁신과 생산성 향상, 기업 경쟁력 강화로 이어지길 기대한다고 밝혔습니다. 한편 제주항공은 국내 항공사 최초로 생성형 AI 챗봇을 도입한...",
+          "src": "news",
           "date": "08/19",
-          "url": "https://www.socialvalue.kr/news/view/1065568480937452",
-          "img": "http://www.socialvalue.kr/news/data/20260818/p1065568480937452_451_thum.png"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101478",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4101478_756281_4756_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[미르의 글로벌 레이더]솔브레인 美공장 베일 벗었다…1200억 투자·연 2...",
+          "desc": "결국 삼성전자가 테일러에 짓고 있는 것은 반도체 공장 하나만이 아니다. 삼성의 대규모 투자를 따라 소재·부품·장비 기업들이 움직이면서 ‘삼성 공장→한국 협력사 진출...",
+          "src": "mediapen",
+          "date": "08/19",
+          "url": "https://www.mediapen.com/news/view/1117242",
+          "img": "https://image.mediapen.com/news/202608/news_1117242_1787096794_m.png"
+        },
+        {
+          "title": "레인보우로보틱스, 삼성전자 협력 '이상무'…휴머노이드 성장 본격화",
+          "desc": "iM증권은 19일 레인보우로보틱스(277810)에 대해 삼성전자의 휴머노이드 사업 구체화 과정에서 핵심 협력사... 핵심 부품까지 자체 개발할 수 있는 기술력을 보유하고 있다. 삼성전자는 지난 2023년 두 차례에 걸쳐...",
+          "src": "newsprime",
+          "date": "08/19",
+          "url": "http://www.newsprime.co.kr/news/article.html?no=744243",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260834/art_744243_1787095765.png"
+        },
         {
           "title": "한국에 AI팩토리 짓는데…서버·냉각 공급망은 대만에 의존?",
           "desc": "삼성전자는 유럽 냉난방공조(HVAC) 기업 플랙트그룹을 인수한 뒤 최대 1.6MW급 CDU '리퀴드-덴코'를 내놨다.... 따른 부품 표준화에 따르는 수밖에 없다. 엔비디아는 협력사를 엔비디아 파트너 네트워크(NPN)라는...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/19",
           "url": "http://www.economytalk.kr/news/articleView.html?idxno=422778",
           "img": "https://cdn.economytalk.kr/news/photo/202607/422778_229290_1154.jpg"
-        },
-        {
-          "title": "대세는 와이드 폴더블폰...삼성전자 'Z시리즈' 가로 더 길어진다",
-          "desc": "삼성전자는 폴드8 물량을 100만대 더 늘리기로 하고 협력사에 부품 발주를 넣은 것으로 파악된다. 당초 연간 생산량은 갤럭시Z8 시리즈 가운데 가장 많은 280만대였고, 추가 물량을 더하면 300만대 후반에 달할 전망이다....",
-          "src": "더팩트",
-          "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/629/0000525425?sid=105",
-          "img": "https://img.tf.co.kr/article/home/2026/08/18/202647891787031756.jpg"
-        },
-        {
-          "title": "[주식마감] '남북경협주' 코데즈컴바인·좋은사람들 상한가... 삼성공조...",
-          "desc": "이날 삼성공조에 대한 별다른 공시는 올라온 바 없다. 삼성공조는 자동차용 열교환기 및 공조 관련 부품... 특히 삼성중공업 1차 협력사로서 삼성전자 평택캠퍼스 P3·P4를 비롯한 대형 반도체 생산시설 공사에...",
-          "src": "ggilbo",
-          "date": "08/18",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176052",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1176052_1028449_3816.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·플랙트, 광주에 2400억 투자…300여명 고용",
-      "url": "http://www.kwangju.co.kr/article.php?aid=1787090400802408277",
-      "img": "http://www.kwangju.co.kr/upimages/gisaimg/202608/802408.jpeg"
+      "title": "삼성전자, 광주사업장에 2400억 원 투자…HVAC 글로벌 거점 육성",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=168230",
+      "img": "https://cdn.iminju.net/news/thumbnail/202608/168230_177242_4446_v150.jpg"
     },
     {
-      "title": "'톱2'의 엇갈린 자가수리권...삼성전자, 3년 새 3→11개 대폭 확대, LG전...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761532",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/761532_316699_3246_v150.jpg"
+      "title": "조영훈 한국로봇산업진흥원장 “대구 로봇산업..국가로봇테스트필드 중...",
+      "url": "http://www.breaknews.com/1229665",
+      "img": "https://dk.breaknews.com/imgdata/dk_breaknews_com/202608/2026081854371792.jpg"
     },
     {
-      "title": "가전 사용설명서에 QR코드만 덜렁...종이 설명서 없어지면서 노년층 '막...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760845",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/760845_316183_1645_v150.jpg"
+      "title": "삼성전자, 광주에 2400억원 투자-플랙트 HVAC 생산라인 구축",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87188",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87188_124897_4331.jpg"
     },
     {
-      "title": "선진국 넘어 성장시장으로⋯ 삼성·LG, 신흥시장 ‘현지화’ 승부수",
-      "url": "https://www.viva100.com/article/20260818500628",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/18/.cache/512/20260818500423.jpg?v=20260819074318"
+      "title": "삼성전자, HVAC 투자에 전남광주 산업 파급효과 클 듯",
+      "url": "https://n.news.naver.com/mnews/article/003/0014134536?sid=102",
+      "img": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215425_web.jpg"
     },
     {
-      "title": "무신사, AI기술 혁신 '테크 컨퍼런스'···오늘부터 참가 접수",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=759593",
-      "img": "https://cdn.slist.kr/news/thumbnail/202608/759593_1163784_3328_v150.jpg"
+      "title": "신성이엔지, 스타트업 협업 넓힌다…ESS·AI 데이터센터로 사업 보폭 확...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002238241?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/03/16/2026031614214524171_l.jpg"
     },
     {
-      "title": "[테크인사이드] \"오픈AI·앤트로픽, 첨단 모델 API 접근 점점 제한할 것...",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693869",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693869_641738_4544.jpg"
+      "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41506",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41506_62478_507_v150.jpg"
     }
   ]
 };
