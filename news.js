@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 22:11",
+  "updatedAt": "2026.08.19 (수) 23:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
-          "desc": "<사진제공=삼성전자> ◆가전 넘어 DA사업부…글로벌 필수 인프라 'HVAC' 집중 육성 삼성전자와 플랙트그룹코리아, 전남광주통합특별시는 19일 광주청사에서 투자협약을 체결하고 총 2400억원을 투입해 오는 2028년 초...",
-          "src": "00news",
+          "title": "삼성전자, 광주사업장에 2700억 투자…\"냉난방공조 핵심 거점으로\"",
+          "desc": "삼성전자는 광주사업장을 AI 가전과 HVAC을 아우르는 글로벌 생산거점으로 육성하고, HVAC 사업 경쟁력을 강화해 나갈 계획이다. 아울러 삼성전자는 플랙트그룹의 중앙공조 기술력에 B2B 연결·통합 제어 플랫폼인...",
+          "src": "thepublic",
           "date": "08/19",
-          "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
-          "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315479",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/315479_318724_737.jpg"
         },
         {
           "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -37,12 +37,12 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
         },
         {
-          "title": "노태문 삼성전자 사장, '칩플레이션' 돌파 전략 제시…\"시장 점유율 확...",
-          "desc": "완제품 사업을 하는 삼성전자 디바이스경험(DX)부문이 메모리 가격 급등, 이른바 '칩플레이션'으로 인한... 특히 스마트폰과 TV·가전 등 DX부문 주력 제품이 AI 기기로 진화하면서 스마트폰 원가에서 반도체가 차지하는...",
-          "src": "뉴시스",
+          "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
+          "desc": "삼성전자 광주사업장은 그동안 '비스포크 AI' 냉장고와 세탁건조기, 무풍에어컨 등 프리미엄 가전을 생산하며 지역 경제의 든든한 버팀목 역할을 해왔다. 여기에 글로벌 100년 역사의 중앙공조 전문기업인...",
+          "src": "00news",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/003/0014136629?sid=101",
-          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0021374238_web.jpg"
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
+          "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
         },
         {
           "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "강원개발공사, AI로 업무 방식과 서비스 혁신",
-          "desc": "이 밖에도 안전한 활용을 위한 윤리·보안 기준과 외부 전문가 자문체계를 마련한다. 김태현 강원개발공사 사장은 “AX의 목적은 새로운 기술을 도입하는 데 그치지 않고 직원들의 불필요한 업무를 줄여 도민에게 더...",
-          "src": "kukinews",
+          "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
+          "desc": "AI를 활용한 침수예방시스템 고도화, 폭염 쉼터 통합관리, 선진 제설 시스템 도입 등을 통해 기후변화에 선제적으로 대응해 나갈 방침이다. 또한, 첨단기술을 통한 서울 소방 선진화를 도모한다. 전통시장 등 화재...",
+          "src": "서울경제",
           "date": "08/19",
-          "url": "https://www.kukinews.com/article/view/kuk202608190236",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/011/0004653221?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.5754388d48f746fd8018d11125b60ff4_R.jpg"
         },
         {
-          "title": "국제정원박람회 조직위 인선 등 절차 단축 속도전",
-          "desc": "제공하고, AI 영상분석을 통해 빈 주차면 위치까지 안내하는 방식이다. 모바일 사전정산 기능도 도입할 예정이다. 김 시장은 \"울산이 선도적으로 추진하는 사업인 만큼 기술 검증이 철저해야 한다\"며 \"사업자 선정 과정의...",
-          "src": "ulsanpress",
+          "title": "안산시 외국인 주민 행정민원 AI 서비스 개발",
+          "desc": "이번 사업은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 '2026년 거브테크(GovTech) 창업기업... 활용됩니다. 서비스에는 26개 언어를 지원하는 AI 대화형 서비스인 챗봇과 무인 안내기인 키오스크가 도입됩...",
+          "src": "newsclaim",
           "date": "08/19",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581330",
-          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581330_278423_1326_v150.jpg"
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072471",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3072471_114307_302_v150.jpg"
         },
         {
-          "title": "[분석] \"中 반도체 쓰지마\" 韓엔 기회···트럼프 AI 거래, 문제는 딥시...",
-          "desc": "통제권과 활용 범위를 넓힐 수 있다는 특징이 있다. ☞ AI 스택(AI Stack) = AI가 개발되고 실제 서비스로 작동하기까지 필요한 기술과 인프라를 층별로 묶어 표현한 개념이다. 핵심광물·반도체에서 GPU·NPU 같은 AI 가속기...",
-          "src": "womaneconomy",
+          "title": "[포토] 홍성군의회, '2026년 홍성군의회 의원 및 공직자 AI 직무역량 강...",
+          "desc": "홍성군의회(의장 박만)가 인공지능(AI)과 데이터 기술을 의정활동에 도입하기 위한 전문 교육을 실시하며... 필요한 AI 활용 기법을 실습했다. 소통 역량 강화를 위한 콘텐츠 제작 교육도 병행됐는데, 생성형 AI를 활용한...",
+          "src": "newstnt",
           "date": "08/19",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257489",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257489_462096_4541_v150.jpg"
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=714505",
+          "img": "https://cdn.newstnt.com/news/photo/202608/714505_717148_521.png"
         },
         {
-          "title": "대구보훈병원, 의료현장에 AI 입힌다",
-          "desc": "이번 설명회에는 대구연구개발특구본부와 연계한 AI 기업들이 참여해 병원 현장에 적용할 수 있는 기술과 실증사업을 소개하고, 병원 실무자들과 실제 도입 가능성과 활용 방안을 논의했다. 참여기업은 △케어마인더...",
-          "src": "idaegu",
+          "title": "더와이랩, AX 실무서 ‘AX 디스커버리’ 출간…10개 캔버스로 업무 재설...",
+          "desc": "이 책에는 10개 AX 캔버스를 활용해 업무 분석부터 인공지능(AI) 에이전트(Agent) 제작까지 이어지는 실습... AX 디스커버리는 생성형 AI 도구의 기능이나 프롬프트 작성법보다 AI 도입 이후 업무 방식과 역할을 다시...",
+          "src": "byline",
           "date": "08/19",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557148",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "url": "https://byline.network/?p=9004111222615899",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/thewhhylab-2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
-      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
-      "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
+      "title": "삼성전자, 광주사업장에 2700억 투자…\"냉난방공조 핵심 거점으로\"",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315479",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/315479_318724_737.jpg"
     },
     {
       "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -187,9 +187,9 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
     },
     {
-      "title": "노태문 삼성전자 사장, '칩플레이션' 돌파 전략 제시…\"시장 점유율 확...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014136629?sid=101",
-      "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0021374238_web.jpg"
+      "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
+      "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
     },
     {
       "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
     },
     {
-      "title": "국제정원박람회 조직위 인선 등 절차 단축 속도전",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581330",
-      "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581330_278423_1326_v150.jpg"
+      "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653221?sid=102",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.5754388d48f746fd8018d11125b60ff4_R.jpg"
     },
     {
-      "title": "[분석] \"中 반도체 쓰지마\" 韓엔 기회···트럼프 AI 거래, 문제는 딥시...",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257489",
-      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257489_462096_4541_v150.jpg"
+      "title": "안산시 외국인 주민 행정민원 AI 서비스 개발",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072471",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3072471_114307_302_v150.jpg"
     }
   ]
 };
