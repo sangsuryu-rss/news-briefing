@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 10:54",
+  "updatedAt": "2026.08.19 (수) 12:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 광주사업장에 2400억 원 투자…HVAC 글로벌 거점 육성",
-          "desc": "AI 가전을 생산해 온 광주사업장에 HVAC 생산 기능을 추가해 두 사업을 아우르는 글로벌 생산거점으로 확대한다는 전략이다. 김철기 삼성전자 DA사업부장 부사장은 \"삼성전자는 미래 성장동력인 HVAC 사업을 빠르게...",
-          "src": "iminju",
+          "title": "삼성전자서비스, 거제 수해 현장에 복구 특별 서비스팀 파견",
+          "desc": "삼성전자서비스는 집중호우 피해를 입은 경남 거제시 일대에 '수해 복구 특별 서비스팀'을 파견했다고 19일 밝혔다. 서비스팀은 둔덕면사무소 인근에 이동형 서비스센터를 설치해 침수된 에어컨·냉장고·세탁기 등 가전제...",
+          "src": "g-enews",
           "date": "08/19",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=168230",
-          "img": "https://cdn.iminju.net/news/thumbnail/202608/168230_177242_4446_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608191144091790139bf6e4b2_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081911454404710139bf6e4b2115951676.jpg"
         },
         {
           "title": "조영훈 한국로봇산업진흥원장 “대구 로봇산업..국가로봇테스트필드 중...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://dk.breaknews.com/imgdata/dk_breaknews_com/202608/2026081854371792.jpg"
         },
         {
-          "title": "삼성전자, 광주에 2400억원 투자-플랙트 HVAC 생산라인 구축",
-          "desc": "세탁건조기, '비스포크 AI 무풍에어컨' 등 주요 AI 가전을 생산하고 있다. 2010년에는 정밀금형개발센터를 구축했으며 해외 생산법인에 첨단 제조기술을 전파하는 역할도 맡고 있다. 삼성전자는 기존 제조 인프라에...",
-          "src": "mediafine",
+          "title": "삼성전자, 광주에 2천400억원 투자…AI 데이터센터용 HVAC 생산거점 구축",
+          "desc": "세탁건조기, 비스포크 AI 무풍에어컨 등 AI 가전 생산의 핵심 거점으로 성장해 왔다. 해외 생산법인에 첨단 제조기술을 전파하는 역할도 수행하고 있다. 삼성전자는 기존 제조 역량을 활용해 광주사업장을 AI 가전과...",
+          "src": "유스경제",
           "date": "08/19",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87188",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87188_124897_4331.jpg"
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=225336",
+          "img": "https://www.youthdaily.co.kr/data/photos/20260834/art_17871083339391_688770.jpg"
         },
         {
-          "title": "삼성전자, HVAC 투자에 전남광주 산업 파급효과 클 듯",
-          "desc": "광주에서 냉장고와 세탁기 등 백색가전을 생산해온 삼성전자의 산업 영역이 AI 가전과 데이터센터 공조로 확장되는 셈이다. 여기에 최근에는 대규모 반도체 투자 계획까지 더해지면서 광주의 산업구조 변화에 대한...",
-          "src": "뉴시스",
+          "title": "전남광주통합특별시, 삼성·플랙트 손잡고... 'AI 공조거점' 구축",
+          "desc": "김철기 삼성전자 생활가전사업부장은 \"광주사업장은 지난 37년간 삼성전자의 가전 생산을 뒷받침하며 회사와 함께 성장해 온 중요한 사업장\"이라며 \"이번 투자를 계기로 지역 협력사와의 상생을 더욱 강화하고 지역...",
+          "src": "newsworker",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/003/0014134536?sid=102",
-          "img": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215425_web.jpg"
+          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=441735",
+          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202608/441735_485204_1655_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "신성이엔지, 스타트업 협업 넓힌다…ESS·AI 데이터센터로 사업 보폭 확...",
-          "desc": "양사는 신성이엔지 용인사업장에서 생산한 재생에너지를 이동형 ESS에 저장한 뒤 다른 현장에서 활용하는... 단순한 기술 도입이나 투자를 넘어 기존 사업의 경쟁력을 높이는 동시에 새로운 시장으로 사업 영역을...",
-          "src": "디지털데일리",
+          "title": "아스테라랩스, 2분기 매출 104% 늘었다",
+          "desc": "연결 기술과 자체 소프트웨어를 묶어 제공한다. AI 모델이 커질수록 연산장치 자체 성능만큼 장비 사이... 실제 실적은 스콜피오 제품 양산 확대, 고객사 도입 속도, AI 데이터센터 투자 집행에 따라 달라질 수 있다.",
+          "src": "tokenpost",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/138/0002238241?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/03/16/2026031614214524171_l.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/393070",
+          "img": "https://f1.tokenpost.kr/2026/08/m6eqwn84z8.png"
         },
         {
-          "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구...",
-          "desc": "제공함으로써, AI 기술에 대한 이해와 활용 역량을 높이는 데 기여했다. 이번 구축은 외부 솔루션 도입에만 의존하지 않고, 대학 내부에서 서비스를 직접 기획·운영하며 생성형 AI 기술에 대한 이해와 운영 경험을...",
+          "title": "이강인, 아틀레티코 데뷔…WSC Sports AI로 더 빠르게 만난다",
+          "desc": "알레한드로 우가리오 아틀레티코 마드리드 혁신 디렉터는 WSC Sports 도입 이후 콘텐츠팀이 매 경기 영상을... 라리가는 WSC Sports의 AI 기술을 활용해 1·2부 소속 42개 구단에 경기 중 하이라이트를 제공하며, 각 구단은...",
           "src": "AI타임스",
           "date": "08/19",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41506",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41506_62478_507_v150.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41512",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41512_62488_857_v150.jpg"
         },
         {
-          "title": "[기업家] 신세계그룹 ㅣ 상반기 영업익 '역대 최대'…동남아 영토 확장...",
-          "desc": "인공지능(AI)을 활용한 CCTV 시스템을 도입해 고객과 현장 근로자의 안전관리 체계를 강화했다.... 이희재 신세계디에프 상무는 \"면세점 매장부터 물류센터까지 AI 기술을 적용해 고객과 현장 근로자의 안전을 보다...",
-          "src": "cbci",
+          "title": "생산성 높이고 안전 지키고...유통·식품업계 '본업' 파고드는 AI",
+          "desc": "영상 정보를 AI로 분석하는 기술을 안전관리 업무에 활용해 고객과 현장 근로자를 보호하는 체계를 강화하는 것이 목적이다. /사진=신세계디에프 제공 신세계면세점은 앞서 물류 분야에서도 AI 도입을 추진해왔다....",
+          "src": "테크M",
           "date": "08/19",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599108",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/599108_410848_4558_v150.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154419",
+          "img": "https://cdn.techm.kr/news/thumbnail/202608/154419_218874_10_v150.jpg"
         },
         {
-          "title": "제주항공, 임직원 'AI 활용 역량 강화 교육' 개설…업무 혁신 가속",
-          "desc": "기술을 빠르게 익히고 업무에 활용할 수 있는 역량을 높여 이번 교육이 실제 업무 혁신과 생산성 향상, 기업 경쟁력 강화로 이어지길 기대한다고 밝혔습니다. 한편 제주항공은 국내 항공사 최초로 생성형 AI 챗봇을 도입한...",
-          "src": "news",
+          "title": "로브로스, AI 휴머노이드 9대 '반도체·자동차·물류' 현장 동시 투입",
+          "desc": "앱, AI 데이터 라벨링 플랫폼 등을 일체형으로 제공해 산업 현장 도입을 용이하게 했다. 로브로스는 로봇 납품과 더불어 전문 기술 지원 및 운영, 교육 프로그램을 함께 운영해 원활한 활용을 지원할 방침이다. 노승준...",
+          "src": "AI타임스",
           "date": "08/19",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101478",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4101478_756281_4756_v150.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41511",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41511_62487_155_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[미르의 글로벌 레이더]솔브레인 美공장 베일 벗었다…1200억 투자·연 2...",
-          "desc": "결국 삼성전자가 테일러에 짓고 있는 것은 반도체 공장 하나만이 아니다. 삼성의 대규모 투자를 따라 소재·부품·장비 기업들이 움직이면서 ‘삼성 공장→한국 협력사 진출...",
-          "src": "mediapen",
+          "title": "전남광주통합특별시, 삼성·플랙트 손잡고... 'AI 공조거점' 구축",
+          "desc": "또 삼성전자의 생산역량을 지역 협력업체와 연계해 제조업 전반의 경쟁력을 높이고, 공조기 제조에서 부품... 지역 협력사와의 상생을 더욱 강화하고 지역 산업 경쟁력 제고에 기여해, 전남광주가 글로벌 공조산업의...",
+          "src": "newsworker",
           "date": "08/19",
-          "url": "https://www.mediapen.com/news/view/1117242",
-          "img": "https://image.mediapen.com/news/202608/news_1117242_1787096794_m.png"
+          "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=441735",
+          "img": "https://cdn.newsworker.co.kr/news/thumbnail/202608/441735_485204_1655_v150.jpg"
         },
         {
-          "title": "레인보우로보틱스, 삼성전자 협력 '이상무'…휴머노이드 성장 본격화",
-          "desc": "iM증권은 19일 레인보우로보틱스(277810)에 대해 삼성전자의 휴머노이드 사업 구체화 과정에서 핵심 협력사... 핵심 부품까지 자체 개발할 수 있는 기술력을 보유하고 있다. 삼성전자는 지난 2023년 두 차례에 걸쳐...",
-          "src": "newsprime",
+          "title": "전남광주 AI 데이터센터 핵심 기반 공조산업 세계적 생산거점으로 도약...",
+          "desc": "광주특별시는 삼성전자의 생산 역량과 플랙트그룹의 공조 기술을 바탕으로 지역 협력사와 연계를 강화하고... 기반 시설 구축 등을 추진해 공조기 제조부터 부품·장비에 이르기까지 '공조산업 생태계'를 완성할 방침이다.",
+          "src": "파이낸셜뉴스",
           "date": "08/19",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=744243",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260834/art_744243_1787095765.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005563423?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/19/202608191148492076_l.jpg"
         },
         {
-          "title": "한국에 AI팩토리 짓는데…서버·냉각 공급망은 대만에 의존?",
-          "desc": "삼성전자는 유럽 냉난방공조(HVAC) 기업 플랙트그룹을 인수한 뒤 최대 1.6MW급 CDU '리퀴드-덴코'를 내놨다.... 따른 부품 표준화에 따르는 수밖에 없다. 엔비디아는 협력사를 엔비디아 파트너 네트워크(NPN)라는...",
-          "src": "digitaltoday",
+          "title": "삼성전자, 전남광주에 2400억원대 대규모 투자 나선다",
+          "desc": "삼성전자의 생산 역량과 플랙트그룹의 공조기술을 바탕으로, 지역 협력사와 연계를 강화하고 제조업 전반의... 공조기 제조부터 부품·장비에 이르기까지 ‘공조산업 생태계’를 완성하겠다는 전략이다. 민형배...",
+          "src": "서울신문",
           "date": "08/19",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693781",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/693781_641658_3253.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003671598?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/19/SSC_20260819113704_O2.jpg"
         },
         {
-          "title": "[창간 27주년 특집] 우리은행, 산업단지 향한 이유… '반도체 기업금융...",
-          "desc": "정부가 호남권을 새로운 반도체 생산기지로 육성하고자 계획하면서 대기업뿐 아니라 소재·부품·장비... (MOU), 삼성전자와 SK하이닉스 협력기업 상생대출 등을 통해 대기업과 협력사를 연결하는 생산적 금융도 확대할...",
-          "src": "economytalk",
+          "title": "전남광주시-삼성-플랙트그룹, AI데이터센터 냉각공조 생태계 확장…2400...",
+          "desc": "삼성전자의 생산역량과 플랙트그룹의 공조기술을 바탕으로, 지역 협력사와 연계를 강화하고 제조업 전반의... 공조기 제조부터 부품·장비에 이르기까지 '공조산업 생태계'를 완성하겠다는 전략이다. 민형배 특별시장은...",
+          "src": "전자신문",
           "date": "08/19",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=422778",
-          "img": "https://cdn.economytalk.kr/news/photo/202607/422778_229290_1154.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003458534?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/08/19/news-p.v1.20260819.3eed10140d214d628926309e947ed5fd_P1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 광주사업장에 2400억 원 투자…HVAC 글로벌 거점 육성",
-      "url": "http://www.iminju.net/news/articleView.html?idxno=168230",
-      "img": "https://cdn.iminju.net/news/thumbnail/202608/168230_177242_4446_v150.jpg"
+      "title": "삼성전자서비스, 거제 수해 현장에 복구 특별 서비스팀 파견",
+      "url": "https://www.g-enews.com/view.php?ud=202608191144091790139bf6e4b2_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081911454404710139bf6e4b2115951676.jpg"
     },
     {
       "title": "조영훈 한국로봇산업진흥원장 “대구 로봇산업..국가로봇테스트필드 중...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://dk.breaknews.com/imgdata/dk_breaknews_com/202608/2026081854371792.jpg"
     },
     {
-      "title": "삼성전자, 광주에 2400억원 투자-플랙트 HVAC 생산라인 구축",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87188",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87188_124897_4331.jpg"
+      "title": "삼성전자, 광주에 2천400억원 투자…AI 데이터센터용 HVAC 생산거점 구축",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=225336",
+      "img": "https://www.youthdaily.co.kr/data/photos/20260834/art_17871083339391_688770.jpg"
     },
     {
-      "title": "삼성전자, HVAC 투자에 전남광주 산업 파급효과 클 듯",
-      "url": "https://n.news.naver.com/mnews/article/003/0014134536?sid=102",
-      "img": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215425_web.jpg"
+      "title": "전남광주통합특별시, 삼성·플랙트 손잡고... 'AI 공조거점' 구축",
+      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=441735",
+      "img": "https://cdn.newsworker.co.kr/news/thumbnail/202608/441735_485204_1655_v150.jpg"
     },
     {
-      "title": "신성이엔지, 스타트업 협업 넓힌다…ESS·AI 데이터센터로 사업 보폭 확...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002238241?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/03/16/2026031614214524171_l.jpg"
+      "title": "아스테라랩스, 2분기 매출 104% 늘었다",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/393070",
+      "img": "https://f1.tokenpost.kr/2026/08/m6eqwn84z8.png"
     },
     {
-      "title": "DGIST, 자체 기술 역량으로 '인공지능 전환' 이끈다… 첨단 AI 캠퍼스 구...",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41506",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41506_62478_507_v150.jpg"
+      "title": "이강인, 아틀레티코 데뷔…WSC Sports AI로 더 빠르게 만난다",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41512",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41512_62488_857_v150.jpg"
     }
   ]
 };
