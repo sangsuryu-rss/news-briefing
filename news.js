@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 19:47",
+  "updatedAt": "2026.08.19 (수) 22:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자DX 노태문 내부 경영 설명회, 메모리 가격 상승 점유율 확대로...",
-          "desc": "노태문 삼성전자 디바이스경험(DX)부문 대표이사 사장이 메모리 반도체 가격 상승에 따른 수익성 후퇴를... 이렇게 수익성이 후퇴한 배경으로는 메모리 가격 급등에 따른 스마트폰 수익성 하락과 가전 원가 부담이...",
-          "src": "비즈니스포스트",
+          "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
+          "desc": "<사진제공=삼성전자> ◆가전 넘어 DA사업부…글로벌 필수 인프라 'HVAC' 집중 육성 삼성전자와 플랙트그룹코리아, 전남광주통합특별시는 19일 광주청사에서 투자협약을 체결하고 총 2400억원을 투입해 오는 2028년 초...",
+          "src": "00news",
           "date": "08/19",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445131",
-          "img": ""
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
+          "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
         },
         {
           "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
         },
         {
-          "title": "삼성전자, 광주에 냉난방공조(HVAC) 생산라인 구축",
-          "desc": "세탁건조기, ‘비스포크 AI 무풍에어컨’ 등 AI 가전을 생산하는 핵심 생산거점으로 역할을 확대해 왔다. 최근에는 해외 생산법인에 첨단 제조기술을 전파하는 중추적인 역할도 하고 있다. 삼성전자는 가전과 첨단...",
-          "src": "segye",
+          "title": "노태문 삼성전자 사장, '칩플레이션' 돌파 전략 제시…\"시장 점유율 확...",
+          "desc": "완제품 사업을 하는 삼성전자 디바이스경험(DX)부문이 메모리 가격 급등, 이른바 '칩플레이션'으로 인한... 특히 스마트폰과 TV·가전 등 DX부문 주력 제품이 AI 기기로 진화하면서 스마트폰 원가에서 반도체가 차지하는...",
+          "src": "뉴시스",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/022/0004152145?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/19/20260819519933.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014136629?sid=101",
+          "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0021374238_web.jpg"
         },
         {
-          "title": "침수 가전 무상점검 서비스",
-          "desc": "삼성전자서비스는 이날 거제시 둔덕면사무소 인근에 이동형 서비스센터를 설치하고, 침수된 에어컨과 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공했다. 삼성전자서비스 제공",
-          "src": "segye",
+          "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
+          "desc": "에어컨과 로봇청소기는 중국이 각각 64.5%, 49.2%로 집계됐고, 한국은 6.0%와 2.3%로 크게 뒤쳐졌다. 냉장고와 세탁기는 하이얼 한 곳의 점유율이 삼성전자와 LG전자의 합계를 웃돌았다. 2025년 주요가전 세계시장 점유율....",
+          "src": "pointdaily",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/022/0004152142?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/19/20260819519940.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[전기요금이 경쟁력이다] ② 공장마다 다른 낭비, 해법도 달라야 한다",
-          "desc": "앞으로는 AI 기반 예측 제어 기술을 도입해 설비 운전 상태를 사전에 분석하고, 보다 정밀한 에너지 관리... 주안·부평산업단지 등에서는 앞으로도 IoT 기반 설비 모니터링과 에너지 효율화 설비, AI와 빅데이터를 활용한...",
-          "src": "incheonilbo",
+          "title": "강원개발공사, AI로 업무 방식과 서비스 혁신",
+          "desc": "이 밖에도 안전한 활용을 위한 윤리·보안 기준과 외부 전문가 자문체계를 마련한다. 김태현 강원개발공사 사장은 “AX의 목적은 새로운 기술을 도입하는 데 그치지 않고 직원들의 불필요한 업무를 줄여 도민에게 더...",
+          "src": "kukinews",
           "date": "08/19",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329955",
-          "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329955_669309_2730_v150.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202608190236",
+          "img": ""
         },
         {
-          "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
-          "desc": "앤트로픽이 AI 생성 텍스트의 식별과 투명성을 높이기 위해 비가시적 워터마크 도입에 나서자... 일부 사용자들은 이 같은 특성이 AI 활용 여부를 이분법으로 판단하게 만들 수 있다며 반발했고, 일부 클로드...",
-          "src": "AI타임스",
+          "title": "국제정원박람회 조직위 인선 등 절차 단축 속도전",
+          "desc": "제공하고, AI 영상분석을 통해 빈 주차면 위치까지 안내하는 방식이다. 모바일 사전정산 기능도 도입할 예정이다. 김 시장은 \"울산이 선도적으로 추진하는 사업인 만큼 기술 검증이 철저해야 한다\"며 \"사업자 선정 과정의...",
+          "src": "ulsanpress",
           "date": "08/19",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
-          "img": "https://cdn.aitimes.com/news/photo/202608/214103_217737_5323.jpg"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581330",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581330_278423_1326_v150.jpg"
         },
         {
-          "title": "DGIST, 외부 용역 대신 ‘자체 개발’…대학 행정 AI 전환",
-          "desc": "DGIST가 대규모 외부 용역 없이 내부 정보기술 인력을 활용해 학생·교직원용 생성형 인공지능(AI) 서비스를 구축했다. 단순히 상용 솔루션을 도입하는 데 그치지 않고 자체 개발과 운영을 통해 대학 내부에 AI 기술과...",
-          "src": "이데일리",
+          "title": "[분석] \"中 반도체 쓰지마\" 韓엔 기회···트럼프 AI 거래, 문제는 딥시...",
+          "desc": "통제권과 활용 범위를 넓힐 수 있다는 특징이 있다. ☞ AI 스택(AI Stack) = AI가 개발되고 실제 서비스로 작동하기까지 필요한 기술과 인프라를 층별로 묶어 표현한 개념이다. 핵심광물·반도체에서 GPU·NPU 같은 AI 가속기...",
+          "src": "womaneconomy",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/018/0006354389?sid=102",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081901351.jpg"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257489",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257489_462096_4541_v150.jpg"
         },
         {
-          "title": "[세상을 보며] 경남, 중국 제조질주 적극 대응해야- 이명용(경제부 선임...",
-          "desc": "중국의 강점은 개별 기술이 아니라 부품에서 완제품, 데이터와 생산현장까지 연결된 산업 생태계에 있기 때문이다. 특히 중소 제조기업의 AI·로봇 도입을 돕는 공용 인프라와 실증시설을 확대해 초기 부담을 낮춰야 한다....",
-          "src": "knnews",
+          "title": "대구보훈병원, 의료현장에 AI 입힌다",
+          "desc": "이번 설명회에는 대구연구개발특구본부와 연계한 AI 기업들이 참여해 병원 현장에 적용할 수 있는 기술과 실증사업을 소개하고, 병원 실무자들과 실제 도입 가능성과 활용 방안을 논의했다. 참여기업은 △케어마인더...",
+          "src": "idaegu",
           "date": "08/19",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548961",
-          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1548961_520_images.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557148",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성, 광주권에 2천400억 들여 ‘HVAC 생산라인’ 구축",
+          "desc": "삼성전자의 생산 역량과 플랙트그룹의 공조기술을 바탕으로 지역 협력사와 연계를 강화하고 제조업... 또 신규 국비사업 발굴·기획, 공조산업 기반 시설 구축도 추진해 공조기 제조부터 부품·장비까지 이어지는...",
+          "src": "kjdaily",
+          "date": "08/19",
+          "url": "http://www.kjdaily.com/article.php?aid=1787137013684850002",
+          "img": "http://www.kjdaily.com/upimages/gisaimg/202608/20-684850.jpg"
+        },
         {
           "title": "삼성·플랙트 광주에 2400억 투자",
           "desc": "삼성전자 플랙트그룹 광주공장 신축 투자협약식 장면. /사진=전남광주시 | 광주=한스경제 신홍관 기자... 김 부사장은 지역 협력사와 상생을 강화하고 전남광주가 글로벌 공조산업 핵심 거점으로 성장하도록...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/19",
           "url": "https://www.kukinews.com/article/view/kuk202608190200",
           "img": ""
-        },
-        {
-          "title": "[전남광주 소식] 삼성전자-플랙트그룹과 2400억대 투자협약·황기연 초대...",
-          "desc": "아울러 지역 협력사 상생 체계 마련과 국비사업 기획, 기반시설 확충 등을 통해 공조기 제조부터 부품... 김철기 삼성전자 부사장은 \"지역 협력사와의 상생을 강화하고 지역 산업 경쟁력을 높이는 데 적극 협력하겠다...",
-          "src": "뉴스웍스",
-          "date": "08/19",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850877",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850877_811740_2745_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
+      "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
+    },
+    {
       "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
       "url": "https://n.news.naver.com/mnews/article/009/0005723022?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
     },
     {
-      "title": "삼성전자, 광주에 냉난방공조(HVAC) 생산라인 구축",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152145?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/19/20260819519933.jpg"
+      "title": "노태문 삼성전자 사장, '칩플레이션' 돌파 전략 제시…\"시장 점유율 확...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014136629?sid=101",
+      "img": "https://img1.newsis.com/2026/07/23/NISI20260723_0021374238_web.jpg"
     },
     {
-      "title": "침수 가전 무상점검 서비스",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152142?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/19/20260819519940.jpg"
+      "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
     },
     {
-      "title": "[전기요금이 경쟁력이다] ② 공장마다 다른 낭비, 해법도 달라야 한다",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329955",
-      "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329955_669309_2730_v150.jpg"
+      "title": "국제정원박람회 조직위 인선 등 절차 단축 속도전",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=581330",
+      "img": "https://cdn.ulsanpress.net/news/thumbnail/202608/581330_278423_1326_v150.jpg"
     },
     {
-      "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
-      "img": "https://cdn.aitimes.com/news/photo/202608/214103_217737_5323.jpg"
-    },
-    {
-      "title": "DGIST, 외부 용역 대신 ‘자체 개발’…대학 행정 AI 전환",
-      "url": "https://n.news.naver.com/mnews/article/018/0006354389?sid=102",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081901351.jpg"
+      "title": "[분석] \"中 반도체 쓰지마\" 韓엔 기회···트럼프 AI 거래, 문제는 딥시...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257489",
+      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257489_462096_4541_v150.jpg"
     }
   ]
 };
