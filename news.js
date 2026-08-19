@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 17:55",
+  "updatedAt": "2026.08.19 (수) 19:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,11 +21,11 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한솔테크닉스, 1년 새 2568억 M&A…반도체·전장으로 체질개선 [기업 X-R...",
-          "desc": "TV와 생활가전 부품을 만들던 한솔테크닉스의 사업 지도가 달라지고 있다. 최근 1년 사이 인수합병(M&A)에만... 주력으로 삼성전자 시스템LSI사업부에 공급하며 이 분야 국내 1위에 올라 있다. 지난해 매출은 674억원...",
-          "src": "kukinews",
+          "title": "삼성전자DX 노태문 내부 경영 설명회, 메모리 가격 상승 점유율 확대로...",
+          "desc": "노태문 삼성전자 디바이스경험(DX)부문 대표이사 사장이 메모리 반도체 가격 상승에 따른 수익성 후퇴를... 이렇게 수익성이 후퇴한 배경으로는 메모리 가격 급등에 따른 스마트폰 수익성 하락과 가전 원가 부담이...",
+          "src": "비즈니스포스트",
           "date": "08/19",
-          "url": "https://www.kukinews.com/article/view/kuk202608190200",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445131",
           "img": ""
         },
         {
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
         },
         {
-          "title": "삼성전자, 광주에 플랙트그룹 신규 ‘HVAC 생산라인’ 구축…총 2400억 투...",
-          "desc": "세탁건조기, ‘비스포크 AI 무풍에어컨’ 등 AI 가전을 생산하는 핵심 생산거점으로 역할을 확대해 왔다. 삼성전자는 기존 생산 인프라와 제조 역량을 바탕으로 광주사업장을 AI 가전과 HVAC을 아우르는 글로벌...",
-          "src": "swtvnews",
+          "title": "삼성전자, 광주에 냉난방공조(HVAC) 생산라인 구축",
+          "desc": "세탁건조기, ‘비스포크 AI 무풍에어컨’ 등 AI 가전을 생산하는 핵심 생산거점으로 역할을 확대해 왔다. 최근에는 해외 생산법인에 첨단 제조기술을 전파하는 중추적인 역할도 하고 있다. 삼성전자는 가전과 첨단...",
+          "src": "segye",
           "date": "08/19",
-          "url": "https://swtvnews.com/news/newsview.php?ncode=1065573274767387",
-          "img": "https://swtvnews.com/news/data/20260819/p1065573274767387_436_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004152145?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/19/20260819519933.jpg"
         },
         {
-          "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
-          "desc": "삼성전자는 올 초 2030년까지 국내외 생산 공장을 ‘AI 자율공장’으로 전환한다는 전략을 제시했다.... LG는 최근 엔비디아와 ‘피지컬 AI’ 파트너십을 맺고, 연내 미 세탁기 공장에 휠 베이스(바퀴 기반 로봇) LG...",
-          "src": "디지털타임스",
+          "title": "침수 가전 무상점검 서비스",
+          "desc": "삼성전자서비스는 이날 거제시 둔덕면사무소 인근에 이동형 서비스센터를 설치하고, 침수된 에어컨과 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공했다. 삼성전자서비스 제공",
+          "src": "segye",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004152142?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/19/20260819519940.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“내 피부는 몇 살?”…글로벌 뷰티업계 피부 장수 ‘롱제비티’ 경쟁",
-          "desc": "이날 체험한 기기는 로레알그룹이 한국 기업 나노엔텍과 공동개발해 지난해 세계 최대 가전·정보기술(IT)... 이미 아모레퍼시픽은 AI를 활용해 연령에 따라 얼굴의 어느 부위에서 주름과 색소침착 등이 나타나는지를...",
-          "src": "동아일보",
+          "title": "[전기요금이 경쟁력이다] ② 공장마다 다른 낭비, 해법도 달라야 한다",
+          "desc": "앞으로는 AI 기반 예측 제어 기술을 도입해 설비 운전 상태를 사전에 분석하고, 보다 정밀한 에너지 관리... 주안·부평산업단지 등에서는 앞으로도 IoT 기반 설비 모니터링과 에너지 효율화 설비, AI와 빅데이터를 활용한...",
+          "src": "incheonilbo",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/020/0003741912?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134504228.1.jpg"
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329955",
+          "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329955_669309_2730_v150.jpg"
         },
         {
-          "title": "[세 번째 엔진, 정의선] 정주영의 숙원, 정몽구의 고로···美 전기로로...",
-          "desc": "정부가 제철소 건설·운영 경험과 기술·인력을 앞세운 포항제철을 선택하면서 정주영은 광양제철소도... AI를 활용한 공정 최적화와 로봇 자동화도 확대하고 있다. 탈탄소 과제도 해결하고 있다. 2018년 3,026만tCO₂e에...",
-          "src": "globale",
+          "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
+          "desc": "앤트로픽이 AI 생성 텍스트의 식별과 투명성을 높이기 위해 비가시적 워터마크 도입에 나서자... 일부 사용자들은 이 같은 특성이 AI 활용 여부를 이분법으로 판단하게 만들 수 있다며 반발했고, 일부 클로드...",
+          "src": "AI타임스",
           "date": "08/19",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=39836",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202608/39836_65789_5038_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
+          "img": "https://cdn.aitimes.com/news/photo/202608/214103_217737_5323.jpg"
         },
         {
-          "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
-          "desc": "비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는 관제 시스템을 도입했다. 이 공장에서는 다관절 로봇 등 자동화 설비가 사람을 대신해 냉장고 도어 운반과 같은 위험한...",
-          "src": "디지털타임스",
+          "title": "DGIST, 외부 용역 대신 ‘자체 개발’…대학 행정 AI 전환",
+          "desc": "DGIST가 대규모 외부 용역 없이 내부 정보기술 인력을 활용해 학생·교직원용 생성형 인공지능(AI) 서비스를 구축했다. 단순히 상용 솔루션을 도입하는 데 그치지 않고 자체 개발과 운영을 통해 대학 내부에 AI 기술과...",
+          "src": "이데일리",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006354389?sid=102",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081901351.jpg"
         },
         {
-          "title": "대동그룹, 농업용 휴머노이드 로봇 개발 본격화",
-          "desc": "수준으로 기술을 고도화해 상용화를 추진한다. 애그로이드의 목표는 온실을 자율주행하며 양팔을 갖춘 휴머노이드 상체를 활용해 예찰·적엽·수확·운반 등 다양한 농작업을 수행하는 것. 이를 위해 대동은 온실을...",
-          "src": "agrinet",
+          "title": "[세상을 보며] 경남, 중국 제조질주 적극 대응해야- 이명용(경제부 선임...",
+          "desc": "중국의 강점은 개별 기술이 아니라 부품에서 완제품, 데이터와 생산현장까지 연결된 산업 생태계에 있기 때문이다. 특히 중소 제조기업의 AI·로봇 도입을 돕는 공용 인프라와 실증시설을 확대해 초기 부담을 낮춰야 한다....",
+          "src": "knnews",
           "date": "08/19",
-          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406491",
-          "img": "https://cdn.agrinet.co.kr/news/photo/202608/406491_97318_1359.jpg"
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548961",
+          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1548961_520_images.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성·플랙트 광주에 2400억 투자",
+          "desc": "삼성전자 플랙트그룹 광주공장 신축 투자협약식 장면. /사진=전남광주시 | 광주=한스경제 신홍관 기자... 김 부사장은 지역 협력사와 상생을 강화하고 전남광주가 글로벌 공조산업 핵심 거점으로 성장하도록...",
+          "src": "한스경제",
+          "date": "08/19",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858003",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858003_878950_3829_v150.jpg"
+        },
+        {
+          "title": "애플, 내달 9일 폴더블폰 베일 벗는다…삼성과 정면승부 예고",
+          "desc": "최근 출시한 폴드8은 국내외 시장에서 호평을 받으며, 배송 지연 사태까지 속출하는 상황이다. 이에 삼성전자는 폴드8을 100만대 추가 생산하기로 결정하고, 협력사에 관련 부품을 주문했다. [뉴스웍스=]",
+          "src": "뉴스웍스",
+          "date": "08/19",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850772",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850772_811760_954_v150.jpg"
+        },
         {
           "title": "한솔테크닉스, 1년 새 2568억 M&A…반도체·전장으로 체질개선 [기업 X-R...",
           "desc": "가려내는 부품이다. 2001년 설립된 윌테크놀러지는 스마트폰의 두뇌 역할을 하는 애플리케이션프로세서(AP)와 카메라용 이미지센서(CIS)에 쓰이는 제품을 주력으로 삼성전자 시스템LSI사업부에 공급하며 이 분야 국내...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/19",
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850877",
           "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850877_811740_2745_v150.jpg"
-        },
-        {
-          "title": "[기획] 이재용·정의선, '3세 실용주의'…K-모빌리티 미래 바꾼다",
-          "desc": "이재용 삼성전자 회장(오른쪽)과 정의선 현대차그룹 회장이 지난 7월 24일(현지시간) 미국 샌프란시스코 더... 1·2차 부품 협력사들에도 커다란 기술 이전 및 동반 성장 기회를 제공하고 있다. 삼성과 현대차의 표준에 맞춰...",
-          "src": "kfenews",
-          "date": "08/19",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662698",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662698_136215_3732_v150.jpg"
-        },
-        {
-          "title": "전남광주특별시, 삼성·플랙트그룹 2천400억원대 투자 유치",
-          "desc": "완제품에서 부품·장비까지 이어지는 산업 생태계를 구축할 계획이다. 이를 위해 '플랙트 투자지원 전담팀... 삼성전자 가전 생산을 뒷받침하며 함께 성장해 온 중요한 사업장\"이라며 \"이번 투자를 계기로 지역 협력사와...",
-          "src": "전매신문",
-          "date": "08/19",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285287",
-          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285287_1011253_2833_v150.jpg"
         }
       ]
     },
@@ -182,29 +182,29 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
     },
     {
-      "title": "삼성전자, 광주에 플랙트그룹 신규 ‘HVAC 생산라인’ 구축…총 2400억 투...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065573274767387",
-      "img": "https://swtvnews.com/news/data/20260819/p1065573274767387_436_thum.jpg"
+      "title": "삼성전자, 광주에 냉난방공조(HVAC) 생산라인 구축",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152145?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/19/20260819519933.jpg"
     },
     {
-      "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
+      "title": "침수 가전 무상점검 서비스",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152142?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/19/20260819519940.jpg"
     },
     {
-      "title": "“내 피부는 몇 살?”…글로벌 뷰티업계 피부 장수 ‘롱제비티’ 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741912?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134504228.1.jpg"
+      "title": "[전기요금이 경쟁력이다] ② 공장마다 다른 낭비, 해법도 달라야 한다",
+      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329955",
+      "img": "https://cdn.incheonilbo.com/news/thumbnail/202608/1329955_669309_2730_v150.jpg"
     },
     {
-      "title": "[세 번째 엔진, 정의선] 정주영의 숙원, 정몽구의 고로···美 전기로로...",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=39836",
-      "img": "https://cdn.globale.co.kr/news/thumbnail/202608/39836_65789_5038_v150.jpg"
+      "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
+      "img": "https://cdn.aitimes.com/news/photo/202608/214103_217737_5323.jpg"
     },
     {
-      "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
+      "title": "DGIST, 외부 용역 대신 ‘자체 개발’…대학 행정 AI 전환",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354389?sid=102",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081901351.jpg"
     }
   ]
 };
