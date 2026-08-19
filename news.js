@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 03:54",
+  "updatedAt": "2026.08.20 (목) 05:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
-          "desc": "광주사업장은 가전 생산기지로 출발해 최근에는 '비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 무풍에어컨' 등 AI 가전을 생산하는 핵심거점으로 역할을 확대해 왔다. 삼성전자가...",
-          "src": "e2news",
+          "title": "DX위기 극복 주문한 노태문… 광주에 ‘공조’ 생산라인 신설",
+          "desc": "특히 지난해 대비 4배 이상 오른 메모리 가격이 스마트폰과 TV·가전 등 완제품 원가를 끌어올리면서 이른바 ‘칩플레이션’이 DX 실적을 압박했다. 삼성전자는 하반기 시장점유율 확대와 지속적인 체질 개선, 내년도...",
+          "src": "서울신문",
           "date": "08/20",
-          "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
-          "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003671849?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/20/SSC_20260820005048_O2.jpg"
         },
         {
           "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
         },
         {
+          "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
+          "desc": "광주사업장은 가전 생산기지로 출발해 최근에는 '비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 무풍에어컨' 등 AI 가전을 생산하는 핵심거점으로 역할을 확대해 왔다. 삼성전자가...",
+          "src": "e2news",
+          "date": "08/20",
+          "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
+          "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+        },
+        {
           "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
           "desc": "이번 대규모 투자의 중심에는 삼성전자의 생활가전 사업을 총괄하는 DA(Digital Appliances)사업부가 자리하고 있다. DA사업부는 냉장고, 세탁기, 에어컨 등 전통적인 가정용 백색가전을 개발·생산하던 부서에서...",
           "src": "00news",
           "date": "08/19",
           "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
           "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
-        },
-        {
-          "title": "삼성·LG 전자, 거제 침수 가전제품 ‘무상 수리’",
-          "desc": "삼성전자서비스와 LG전자서비스가 거제시 폭우피해 가전제품 점검과 수리를 지원한다. 거제시는 둔덕면사무소에 삼성, 고현시장 버스전용주차장에 삼성전자서비스와 LG전자서비스가 공동으로 현장 부스를 연다고 20일...",
-          "src": "kukinews",
-          "date": "08/20",
-          "url": "https://www.kukinews.com/article/view/kuk202608200001",
-          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오픈AI, 에이전트 해킹 한 달 만에 ‘아스트라’ 훈련 중단하고 30분 경...",
-          "desc": "30분 안에 경보를…체인오브소트 감시체계 도입오픈AI가 새로 도입한 핵심 장치는 ‘체인오브소트(chain-of... 회사는 이 감시 시스템이 계산 비용이 큰 ‘자동 조사관(automated investigator)’을 활용해 우려되는 행동을...",
-          "src": "wikitree",
+          "title": "판독문부터 병동 감시·로봇 배송까지 KHF로 본 병원 AX 현주소",
+          "desc": "전반에 도입되기 시작했다.의료 AI가 단순 정확도 경쟁을 넘어 병원 운영 전반에 도입되기 시작했다. 사진은... 이날 행사장은 혁신 기술을 체험하려는 병원 관계자들로 발 디딜 틈이 없었다. 단일 솔루션에서 벗어나 여러...",
+          "src": "medicaltimes",
           "date": "08/20",
-          "url": "https://www.wikitree.co.kr/articles/1153502",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200213245054_ai.jpeg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170259&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260819/1787131764.jpg"
         },
         {
-          "title": "오픈AI, 유럽 31개국 챗GPT 무료·저가판에 광고 도입…유료만 광고 없다",
-          "desc": "플레밍에 따르면 오픈AI가 겨냥하는 핵심 대상은 챗GPT 워크(Work) 에이전트를 활용할 지식근로자, 코덱스(Codex) 에이전트를 쓸 개발자·기술 인력, 그리고 기업 의사결정자 등 세 그룹이다. 오픈AI는 이들 대상에...",
-          "src": "wikitree",
+          "title": "AI가 뒤바꾸는 임상 현장 \"먼 미래 아닌 당장 1년 뒤 미래\"",
+          "desc": "이같은 변화는 AI 음성인식 기술로 실시간 간호기록을 입력·인증·저장하는 전자간호기록 Vobile ENR을 도입한 가톨릭대학교 은평성모병원에서도 확인된다.'Vobile ENR 구축과 현장 활용 사례'을 발표한 김수빈...",
+          "src": "medicaltimes",
           "date": "08/20",
-          "url": "https://www.wikitree.co.kr/articles/1153499",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200120081674_ai.jpeg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170255&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260819/1787124292.jpg"
         },
         {
-          "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
-          "desc": "시리AI가 애플TV에 처음 도입될 가능성이 높다고 전했다. 애플TV는 2022년 10월 3세대 모델이 나온... “데이터를 활용해 일관되게 개인화할 수 있는 하나의 시리처럼 느껴지길 원했다”고 말했다.그러나...",
-          "src": "wikitree",
+          "title": "“미중 패권경쟁 전면화… ‘4강 외교 틀’ 벗어나 다변화해야” [김미...",
+          "desc": "미중 갈등 속 도널드 트럼프 미 대통령발 관세 전쟁에 대처함과 동시에 핵추진잠수함(핵잠) 도입... 또 미 측이 제시한 투자 사업 후보 중 하나로 재활용, 즉 파이로프로세싱 기술 활용 사업이 포함된 것으로 알려졌다....",
+          "src": "서울신문",
           "date": "08/20",
-          "url": "https://www.wikitree.co.kr/articles/1153495",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200110018691_it.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003671861?sid=110",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/20/SSC_20260820015615_O2.png"
         },
         {
-          "title": "의정부을지대병원, ‘보고 듣는 ARS’ 서비스 도입",
-          "desc": "서비스 도입으로 고객센터 상담 대기시간을 줄이고 상담 효율성을 높일 것으로 기대하고 있다. 향후에는 AI... 디지털 기술을 활용해 누구나 편리하게 이용할 수 있는 의료환경을 조성하고 환자 만족도를 높이는 데 최선을...",
-          "src": "medigatenews",
+          "title": "‘유해성 차단 강화’ 청소년용 챗GPT 출시",
+          "desc": "기능도 도입됐다. 정보기술(IT) 업계와 교육계는 청소년용 챗GPT 출시를 기대하는 분위기다. AI의 무분별한 대필과 유해성 위험을 줄이면서도 공교육 현장에서의 효과적인 학습 보조 도구로 프로그램이 활용될 수 있는...",
+          "src": "서울신문",
           "date": "08/20",
-          "url": "https://www.medigatenews.com/news/2489482902",
-          "img": "https://medigatenews.com/file/news/518288"
+          "url": "https://n.news.naver.com/mnews/article/081/0003671789?sid=104",
+          "img": "https://img.seoul.co.kr//img/n24/seoul_share.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
-      "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
-      "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+      "title": "DX위기 극복 주문한 노태문… 광주에 ‘공조’ 생산라인 신설",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671849?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/20/SSC_20260820005048_O2.jpg"
     },
     {
       "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
     },
     {
+      "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
+      "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+    },
+    {
       "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
       "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
       "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
     },
     {
-      "title": "오픈AI, 에이전트 해킹 한 달 만에 ‘아스트라’ 훈련 중단하고 30분 경...",
-      "url": "https://www.wikitree.co.kr/articles/1153502",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200213245054_ai.jpeg"
+      "title": "판독문부터 병동 감시·로봇 배송까지 KHF로 본 병원 AX 현주소",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170259&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20260819/1787131764.jpg"
     },
     {
-      "title": "오픈AI, 유럽 31개국 챗GPT 무료·저가판에 광고 도입…유료만 광고 없다",
-      "url": "https://www.wikitree.co.kr/articles/1153499",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200120081674_ai.jpeg"
-    },
-    {
-      "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
-      "url": "https://www.wikitree.co.kr/articles/1153495",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200110018691_it.jpeg"
+      "title": "AI가 뒤바꾸는 임상 현장 \"먼 미래 아닌 당장 1년 뒤 미래\"",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170255&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20260819/1787124292.jpg"
     }
   ]
 };
