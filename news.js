@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 23:54",
+  "updatedAt": "2026.08.20 (목) 01:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 광주사업장에 2700억 투자…\"냉난방공조 핵심 거점으로\"",
-          "desc": "삼성전자는 광주사업장을 AI 가전과 HVAC을 아우르는 글로벌 생산거점으로 육성하고, HVAC 사업 경쟁력을 강화해 나갈 계획이다. 아울러 삼성전자는 플랙트그룹의 중앙공조 기술력에 B2B 연결·통합 제어 플랫폼인...",
-          "src": "thepublic",
-          "date": "08/19",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315479",
-          "img": "https://cdn.thepublic.kr/news/photo/202608/315479_318724_737.jpg"
+          "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
+          "desc": "광주사업장은 가전 생산기지로 출발해 최근에는 '비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 무풍에어컨' 등 AI 가전을 생산하는 핵심거점으로 역할을 확대해 왔다. 삼성전자가...",
+          "src": "e2news",
+          "date": "08/20",
+          "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
+          "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
         },
         {
           "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -38,19 +38,19 @@ window.NEWS_DATA = {
         },
         {
           "title": "삼성전자, 2400억 투입 광주에 'HVAC 생산거점' 세운다",
-          "desc": "삼성전자 광주사업장은 그동안 '비스포크 AI' 냉장고와 세탁건조기, 무풍에어컨 등 프리미엄 가전을 생산하며 지역 경제의 든든한 버팀목 역할을 해왔다. 여기에 글로벌 100년 역사의 중앙공조 전문기업인...",
+          "desc": "이번 대규모 투자의 중심에는 삼성전자의 생활가전 사업을 총괄하는 DA(Digital Appliances)사업부가 자리하고 있다. DA사업부는 냉장고, 세탁기, 에어컨 등 전통적인 가정용 백색가전을 개발·생산하던 부서에서...",
           "src": "00news",
           "date": "08/19",
           "url": "http://www.00news.co.kr/news/articleView.html?idxno=105972",
           "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
         },
         {
-          "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
-          "desc": "에어컨과 로봇청소기는 중국이 각각 64.5%, 49.2%로 집계됐고, 한국은 6.0%와 2.3%로 크게 뒤쳐졌다. 냉장고와 세탁기는 하이얼 한 곳의 점유율이 삼성전자와 LG전자의 합계를 웃돌았다. 2025년 주요가전 세계시장 점유율....",
-          "src": "pointdaily",
-          "date": "08/19",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
+          "title": "삼성·LG 전자, 거제 침수 가전제품 ‘무상 수리’",
+          "desc": "삼성전자서비스와 LG전자서비스가 거제시 폭우피해 가전제품 점검과 수리를 지원한다. 거제시는 둔덕면사무소에 삼성, 고현시장 버스전용주차장에 삼성전자서비스와 LG전자서비스가 공동으로 현장 부스를 연다고 20일...",
+          "src": "kukinews",
+          "date": "08/20",
+          "url": "https://www.kukinews.com/article/view/kuk202608200001",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
+          "desc": "시리AI가 애플TV에 처음 도입될 가능성이 높다고 전했다. 애플TV는 2022년 10월 3세대 모델이 나온... “데이터를 활용해 일관되게 개인화할 수 있는 하나의 시리처럼 느껴지길 원했다”고 말했다.그러나...",
+          "src": "wikitree",
+          "date": "08/20",
+          "url": "https://www.wikitree.co.kr/articles/1153495",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200110018691_it.jpeg"
+        },
+        {
+          "title": "의정부을지대병원, ‘보고 듣는 ARS’ 서비스 도입",
+          "desc": "서비스 도입으로 고객센터 상담 대기시간을 줄이고 상담 효율성을 높일 것으로 기대하고 있다. 향후에는 AI... 디지털 기술을 활용해 누구나 편리하게 이용할 수 있는 의료환경을 조성하고 환자 만족도를 높이는 데 최선을...",
+          "src": "medigatenews",
+          "date": "08/20",
+          "url": "https://www.medigatenews.com/news/2489482902",
+          "img": "https://medigatenews.com/file/news/518288"
+        },
+        {
+          "title": "한국조폐공사, 'AI 프론티어 경진대회' 개최",
+          "desc": "구축'과 '생성형 AI를 활용한 신규 보안기술 개발 및 연구 프로세스 혁신'이 각각 선정됐다. 조폐공사는 이번에 발굴된 우수 과제를 전사 공유하고, 실현 가능성이 높은 아이디어는 현장에 단계적으로 도입할 방침이다....",
+          "src": "ccnnews",
+          "date": "08/20",
+          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413647",
+          "img": "http://www.ccnnews.co.kr/news/thumbnail/202608/413647_518228_843_v150.jpg"
+        },
+        {
           "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
           "desc": "AI를 활용한 침수예방시스템 고도화, 폭염 쉼터 통합관리, 선진 제설 시스템 도입 등을 통해 기후변화에 선제적으로 대응해 나갈 방침이다. 또한, 첨단기술을 통한 서울 소방 선진화를 도모한다. 전통시장 등 화재...",
           "src": "서울경제",
           "date": "08/19",
           "url": "https://n.news.naver.com/mnews/article/011/0004653221?sid=102",
           "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.5754388d48f746fd8018d11125b60ff4_R.jpg"
-        },
-        {
-          "title": "안산시 외국인 주민 행정민원 AI 서비스 개발",
-          "desc": "이번 사업은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 '2026년 거브테크(GovTech) 창업기업... 활용됩니다. 서비스에는 26개 언어를 지원하는 AI 대화형 서비스인 챗봇과 무인 안내기인 키오스크가 도입됩...",
-          "src": "newsclaim",
-          "date": "08/19",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072471",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3072471_114307_302_v150.jpg"
-        },
-        {
-          "title": "[포토] 홍성군의회, '2026년 홍성군의회 의원 및 공직자 AI 직무역량 강...",
-          "desc": "홍성군의회(의장 박만)가 인공지능(AI)과 데이터 기술을 의정활동에 도입하기 위한 전문 교육을 실시하며... 필요한 AI 활용 기법을 실습했다. 소통 역량 강화를 위한 콘텐츠 제작 교육도 병행됐는데, 생성형 AI를 활용한...",
-          "src": "newstnt",
-          "date": "08/19",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=714505",
-          "img": "https://cdn.newstnt.com/news/photo/202608/714505_717148_521.png"
-        },
-        {
-          "title": "더와이랩, AX 실무서 ‘AX 디스커버리’ 출간…10개 캔버스로 업무 재설...",
-          "desc": "이 책에는 10개 AX 캔버스를 활용해 업무 분석부터 인공지능(AI) 에이전트(Agent) 제작까지 이어지는 실습... AX 디스커버리는 생성형 AI 도구의 기능이나 프롬프트 작성법보다 AI 도입 이후 업무 방식과 역할을 다시...",
-          "src": "byline",
-          "date": "08/19",
-          "url": "https://byline.network/?p=9004111222615899",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/08/thewhhylab-2.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "kjdaily",
           "date": "08/19",
           "url": "http://www.kjdaily.com/article.php?aid=1787137013684850002",
-          "img": "http://www.kjdaily.com/upimages/gisaimg/202608/20-684850.jpg"
+          "img": ""
         },
         {
           "title": "삼성·플랙트 광주에 2400억 투자",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 광주사업장에 2700억 투자…\"냉난방공조 핵심 거점으로\"",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315479",
-      "img": "https://cdn.thepublic.kr/news/photo/202608/315479_318724_737.jpg"
+      "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
+      "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
     },
     {
       "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
     },
     {
-      "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
+      "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
+      "url": "https://www.wikitree.co.kr/articles/1153495",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200110018691_it.jpeg"
     },
     {
-      "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653221?sid=102",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.5754388d48f746fd8018d11125b60ff4_R.jpg"
+      "title": "의정부을지대병원, ‘보고 듣는 ARS’ 서비스 도입",
+      "url": "https://www.medigatenews.com/news/2489482902",
+      "img": "https://medigatenews.com/file/news/518288"
     },
     {
-      "title": "안산시 외국인 주민 행정민원 AI 서비스 개발",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072471",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3072471_114307_302_v150.jpg"
+      "title": "한국조폐공사, 'AI 프론티어 경진대회' 개최",
+      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413647",
+      "img": "http://www.ccnnews.co.kr/news/thumbnail/202608/413647_518228_843_v150.jpg"
     }
   ]
 };
