@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 13:53",
+  "updatedAt": "2026.08.19 (수) 16:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자서비스, 거제 수해지역에 특별 서비스팀 파견...침수 가전·휴대...",
-          "desc": "삼성전자서비스 관계자는 \"삼성전자서비스 특별 서비스팀 파견 여부와 별개로 컨택센터에 '집중 호우로 인한 가전제품 침수 피해 점검 신청'을 하는 고객에게도 엔지니어가 방문해 동일한 서비스를 제공할 계획\"이라고...",
-          "src": "sisacast",
+          "title": "“침수 가전 가져오세요”…LG·삼성, 경남 수해 현장서 무상 수리",
+          "desc": "삼성전자서비스는 지역별 피해 현황을 살펴 특별 서비스팀을 추가로 파견할지 검토할 예정이다. 특별 서비스팀 파견 여부와 별개로 컨택센터를 통해 집중호우로 인한 가전제품 침수 피해 점검을 신청한 고객에게도...",
+          "src": "dizzotv",
           "date": "08/19",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98923",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/98923_107797_2835_v150.jpg"
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/19/2026081980125.html",
+          "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/19/2026081980125_0.jpg"
         },
         {
-          "title": "이재용·정의선, GV90에 '삼성 심장' 단다… 배터리→칩→SDV→로봇으로...",
-          "desc": "현대차 '움직이는 플랫폼'과 삼성 전자·에너지 기술 생태계가 접점을 넓히는 구조다. ■ 자동차 다음은 '몸 가진 AI'… 두 그룹 접점이 로봇으로 향하는 이유 두 그룹 협력이 가장 흥미로워지는 지점은 로봇이다. 현대차...",
-          "src": "s-journal",
+          "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
+          "desc": "에어컨과 로봇청소기는 중국이 각각 64.5%, 49.2%로 집계됐고, 한국은 6.0%와 2.3%로 크게 뒤쳐졌다. 냉장고와 세탁기는 하이얼 한 곳의 점유율이 삼성전자와 LG전자의 합계를 웃돌았다. 2025년 주요가전 세계시장 점유율....",
+          "src": "pointdaily",
           "date": "08/19",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43100",
-          "img": "https://cdn.s-journal.co.kr/news/photo/202608/43100_54207_2941.png"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
         },
         {
-          "title": "삼성전자, 2400억원 투자해 광주 HVAC 생산라인 구축",
-          "desc": "광주사업장은 냉장고·에어컨·세탁건조기 등 AI 가전을 만드는 곳이다. 삼성전자는 여기에 공조 생산 기능을 더해 광주사업장을 AI 가전과 HVAC을 아우르는 글로벌 생산거점으로 키울 계획이다. 새 라인의 주력 제품은...",
-          "src": "cstimes",
+          "title": "삼성전자, 광주에 2400억 투자…AI 데이터센터 공조 생산기지 구축",
+          "desc": "광주사업장은 가전 생산기지로 출발해 현재 비스포크 AI 냉장고와 세탁건조기, 무풍에어컨 등 AI 가전을 생산하는 삼성전자의 주요 제조거점으로 성장했다. 삼성전자는 지난해 11월 1918년 설립된 독일 플랙트그룹을...",
+          "src": "전매신문",
           "date": "08/19",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=717252",
-          "img": "https://www.cstimes.com/news/photo/202608/717252_637698_2631.jpg"
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285319",
+          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285319_1011288_5918_v150.jpg"
         },
         {
-          "title": "[ESG] 삼성전자서비스, 폭우 피해 거제에 긴급 출동…침수 가전 무상 점...",
-          "desc": "삼성전자서비스 컨택센터를 통해 '집중호우로 인한 가전제품 침수 피해 점검'을 신청하면 서비스 엔지니어가 고객 가정을 방문해 동일한 점검 서비스를 제공한다. 삼성전자서비스는 거제뿐 아니라 다른 지역의 집중호우...",
-          "src": "joongangenews",
+          "title": "삼성·LG, 남해안 수해 복구 지원…침수 가전 무상 점검",
+          "desc": "19일 업계에 따르면 삼성전자서비스는 이날부터 거제시 둔덕면 일대에 '수해 복구 특별 서비스팀'을 파견했다. 둔덕면사무소 인근에는 이동형 서비스센터를 설치해 제조사와 관계없이 침수된 에어컨과 냉장고, 세탁기 등...",
+          "src": "ekoreanews",
           "date": "08/19",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541031",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/541031_346927_4731.jpg"
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87582",
+          "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87582_109471_230.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[지구촌 이색 환경정책 리포트]  만리장성 대신 ‘녹색장성’ 쌓는 중국...",
-          "desc": "첨단 기술을 결합한 환경 정책을 적극 추진하고 있다. 수십 년간 이어온 세계 최대 규모의 조림 사업부터... 데이터를 활용한 대기·수질 모니터링 시스템을 도입하고 있다. 주요 공업지대에 드론과 AI 카메라를 배치해...",
-          "src": "dailyt",
+          "title": "무협, 코엑스서 'AI 서밋 서울&엑스포' 개막…118개사 참여",
+          "desc": "어도비와 젠스파크, 오라클 등 글로벌 기업들이 산업 현장에 적용 가능한 AI 솔루션과 활용 사례를... AI 기술을 공개한다. 19~20일 열리는 ‘AI SUMMIT SEOUL(AI 서밋 서울)’에서는 제조·금융 AI 도입, AI 에이전트...",
+          "src": "megaeconomy",
           "date": "08/19",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202608190003",
-          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/19/dlt202608190002.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594328103813",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260819/p1065594328103813_151_thum.jpg"
         },
         {
-          "title": "첨단 로보틱스 솔루션 부각… 지능형로봇·AI 테마 상승랠리 포착",
-          "desc": "AI와 로봇 산업은 정부의 AI·피지컬AI 육성 정책과 산업 자동화 확대, 인력 부족에 따른 로봇 도입 증가... AI 관련주 역시 단순한 테마 편입 여부보다는 실제 AI 기술을 활용한 사업 확대와 고객사 확보, 매출 성장 여부가...",
-          "src": "핀포인트뉴스",
+          "title": "[ET시론] AI보다 더 인간적인 미래…행복한 국가와 국민 '이제는 AI 코리...",
+          "desc": "AI가 금융·의료·복지·교육·채용·행정 등 국민의 삶과 직결되는 분야에서 활용될수록 국민은 AI가... 않는 AI로 발전하기를 기원한다. 이것이 우리가 만들어야 할 미래의 AI다. 조성갑 아메리카AI기술대 아시아 총장",
+          "src": "전자신문",
           "date": "08/19",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478625",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/478625_465461_519_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003458689?sid=110",
+          "img": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.953f12d9a86045d1934ec59afb8c20b4_P3.jpg"
         },
         {
-          "title": "무신사, 'AI 기반의 실전 서비스 적용' 주제…'첫 테크 컨퍼런스' 참가 ...",
-          "desc": "이와 함께 사용자 접속 흐름 기반의 오류 자동 검증 체계, AI를 활용한 거대 시스템의 효율적 구조 분할 등 서비스 안정성을 높인 실전 노하우를 공유한다. 실무 적용 중심의 컬렉션 트랙에서는 AI 도입에 따른 개발...",
-          "src": "sisacast",
+          "title": "[현장] 검색창 밖 '진짜 채용정보' 찾아…금융권 취준생 DDP 집결",
+          "desc": "금융회사들이 AI와 디지털 기술을 빠르게 업무에 도입하면서 구직자에게 요구하는 역량 역시 달라지고 있었다. 현장에서는 전통적인 금융지식뿐 아니라 AI 활용 능력과 디지털 이해도를 어떻게 준비해야 하는지를 묻는...",
+          "src": "newsprime",
           "date": "08/19",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=98926",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/98926_107798_4513_v150.jpg"
+          "url": "http://www.newsprime.co.kr/news/article.html?no=744335",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260834/art_744335_1787120974.jpg"
         },
         {
-          "title": "[카드사 풍향계] 현대카드, 올리브영 카드 출시…20% 적립 外",
-          "desc": "올리브 포인트는 올 5월 도입된 것으로, 온·오프라인 매장에서 현금처럼 사용 가능하다. 19일 현대카드에... 업무 활용의 핵심\"이라면서 “이번 경량화 기술을 사내 AI 서비스에 적극 적용하고 외부에도 공개해...",
-          "src": "ekn",
+          "title": "[AIDC 보안-②] 이통3사, AIDC 특화 보안 필요성 '공감'…적용 수준 공개...",
+          "desc": "방식이 활용되고 있다. 고객별 데이터와 시스템을 논리적으로 분리 및 관리하는 방식이다. 이러한 방향은 글로벌에서 논의되는 AIDC 보안 체계와도 유사하다. 미국 국립표준기술연구소(NIST)는 지난 7월 AI데이터센터...",
+          "src": "epnc",
           "date": "08/19",
-          "url": "https://www.ekn.kr/web/view.php?key=20260819024334090",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260819.bcc3ee29cef8426bab0ddd1fe3feca4e_R.jpg"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405751",
+          "img": "https://cdn.epnc.co.kr/news/photo/202608/405751_406122_454.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자, 광주에 2400억원 투자…AI 냉각공조 생산거점 구축",
-          "desc": "삼성전자의 생산역량과 플랙트그룹의 공조기술을 바탕으로, 지역 협력사와 연계를 강화하고 제조업 전반의... 공조기 제조부터 부품·장비에 이르기까지 '공조산업 생태계'를 완성하겠다는 전략이다. 민 시장은...",
-          "src": "jnilbo",
+          "title": "전남광주특별시, 삼성·플랙트그룹 2천400억원대 투자 유치",
+          "desc": "완제품에서 부품·장비까지 이어지는 산업 생태계를 구축할 계획이다. 이를 위해 '플랙트 투자지원 전담팀... 삼성전자 가전 생산을 뒷받침하며 함께 성장해 온 중요한 사업장\"이라며 \"이번 투자를 계기로 지역 협력사와...",
+          "src": "전매신문",
           "date": "08/19",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057878",
-          "img": "https://cdn.jnilbo.com/news/photo/202608/90000057878_574157_2437.jpg"
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285287",
+          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285287_1011253_2833_v150.jpg"
         },
         {
-          "title": "37년 만의 베팅, 광주가 ‘AI 냉각’ 생산기지로 향한다",
-          "desc": "제조부터 부품·장비까지 이어지는 산업 생태계 조성을 추진한다는 방침이다. 생산시설 하나를 유치하는 데... 김철기 삼성전자 부사장은 “이번 투자를 계기로 지역 협력사와의 상생을 더욱 강화하고 지역 산업 경쟁력...",
-          "src": "브릿지경제",
+          "title": "삼성전자, 광주에 HVAC 첫 생산 거점…호남권 반도체·AI 클러스터 연계...",
+          "desc": "［뉴시안= 조현선 기자］삼성전자가 냉난방공조(HVAC) 시장을 선점하기 위해 광주사업장에 대규모 선제... 지역 협력사와 연계한 부품·장비 생태계 구축 및 기반시설 확충을 차질 없이 추진할 방침이다. 민형배...",
+          "src": "newsian",
           "date": "08/19",
-          "url": "https://www.viva100.com/article/20260819500774",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/19/.cache/512/20260819500772.jpg?v=20260819135331"
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93925",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93925_87630_1648_v150.jpg"
         },
         {
-          "title": "삼성전자, 광주에 2400억 투자…냉각·공조 생산라인",
-          "desc": "김철기 삼성전자 부사장은 “광주사업장은 지난 37년간 삼성전자 가전 생산을 뒷받침하며 회사와 함께 성장해 온 중요한 사업장”이라며 “이번 투자를 계기로 지역 협력사와 상생을 강화하고 전남광주가 글로벌...",
-          "src": "news",
+          "title": "삼성전자, 광주사업장 설립 37년 만 2400억대 대규모 투자",
+          "desc": "특히 삼성전자의 생산 역량과 플랙트그룹의 공조 기술을 결합해 지역 협력사와의 연계도 강화할 계획이다.... 이를 통해 공조기 제조부터 부품·장비까지 이어지는 산업 생태계를 조성한다는 전략이다. 이날 협약식에는...",
+          "src": "서울경제",
           "date": "08/19",
-          "url": "https://news.dealsitetv.com/articles/174911",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/011/0004653078?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.1105b955601d4e74ac7781ccd5102f52_R.jpg"
         },
         {
-          "title": "삼성전자, 광주에 2400억원 투자…AI 데이터센터 공조 생산거점 육성",
-          "desc": "삼성전자도 지역 산업 생태계와의 협력을 강화한다는 방침이다. 김철기 부사장은 \"이번 투자를 계기로 지역 협력사와의 상생을 더욱 강화하고 지역 산업 경쟁력 제고에 기여하겠다\"며 전남광주가 글로벌 공조산업의...",
-          "src": "newsprime",
+          "title": "현대차 21일 10년 만에 전면파업…SK하이닉스 성과급이 던진 파장",
+          "desc": "파업이 길어질수록 1차 협력사에 이어 2·3차 부품업체의 납품과 매출에도 부담이 커질 수 있다.... 올해 삼성전자 임금협상에서도 영업이익 연동 성과급이 주요 의제로 떠올랐다. 김대종 세종대 교수는 삼성전자와...",
+          "src": "g-enews",
           "date": "08/19",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=744304",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260834/art_744304_1787109693.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608191016548037f7ba87f45b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081914011806249f7ba87f45b6178187211.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자서비스, 거제 수해지역에 특별 서비스팀 파견...침수 가전·휴대...",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=98923",
-      "img": "http://www.sisacast.kr/news/thumbnail/202608/98923_107797_2835_v150.jpg"
+      "title": "“침수 가전 가져오세요”…LG·삼성, 경남 수해 현장서 무상 수리",
+      "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/19/2026081980125.html",
+      "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/19/2026081980125_0.jpg"
     },
     {
-      "title": "이재용·정의선, GV90에 '삼성 심장' 단다… 배터리→칩→SDV→로봇으로...",
-      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43100",
-      "img": "https://cdn.s-journal.co.kr/news/photo/202608/43100_54207_2941.png"
+      "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
     },
     {
-      "title": "삼성전자, 2400억원 투자해 광주 HVAC 생산라인 구축",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=717252",
-      "img": "https://www.cstimes.com/news/photo/202608/717252_637698_2631.jpg"
+      "title": "삼성전자, 광주에 2400억 투자…AI 데이터센터 공조 생산기지 구축",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285319",
+      "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285319_1011288_5918_v150.jpg"
     },
     {
-      "title": "[ESG] 삼성전자서비스, 폭우 피해 거제에 긴급 출동…침수 가전 무상 점...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541031",
-      "img": "https://cdn.joongangenews.com/news/photo/202608/541031_346927_4731.jpg"
+      "title": "삼성·LG, 남해안 수해 복구 지원…침수 가전 무상 점검",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87582",
+      "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87582_109471_230.jpg"
     },
     {
-      "title": "[지구촌 이색 환경정책 리포트]  만리장성 대신 ‘녹색장성’ 쌓는 중국...",
-      "url": "https://www.dailyt.co.kr/newsView/dlt202608190003",
-      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/08/19/dlt202608190002.jpg"
+      "title": "무협, 코엑스서 'AI 서밋 서울&엑스포' 개막…118개사 참여",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594328103813",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260819/p1065594328103813_151_thum.jpg"
     },
     {
-      "title": "첨단 로보틱스 솔루션 부각… 지능형로봇·AI 테마 상승랠리 포착",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478625",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/478625_465461_519_v150.jpg"
+      "title": "[ET시론] AI보다 더 인간적인 미래…행복한 국가와 국민 '이제는 AI 코리...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003458689?sid=110",
+      "img": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.953f12d9a86045d1934ec59afb8c20b4_P3.jpg"
     }
   ]
 };
