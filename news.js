@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.19 (수) 16:07",
+  "updatedAt": "2026.08.19 (수) 17:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“침수 가전 가져오세요”…LG·삼성, 경남 수해 현장서 무상 수리",
-          "desc": "삼성전자서비스는 지역별 피해 현황을 살펴 특별 서비스팀을 추가로 파견할지 검토할 예정이다. 특별 서비스팀 파견 여부와 별개로 컨택센터를 통해 집중호우로 인한 가전제품 침수 피해 점검을 신청한 고객에게도...",
-          "src": "dizzotv",
+          "title": "한솔테크닉스, 1년 새 2568억 M&A…반도체·전장으로 체질개선 [기업 X-R...",
+          "desc": "TV와 생활가전 부품을 만들던 한솔테크닉스의 사업 지도가 달라지고 있다. 최근 1년 사이 인수합병(M&A)에만... 주력으로 삼성전자 시스템LSI사업부에 공급하며 이 분야 국내 1위에 올라 있다. 지난해 매출은 674억원...",
+          "src": "kukinews",
           "date": "08/19",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/19/2026081980125.html",
-          "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/19/2026081980125_0.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202608190200",
+          "img": ""
         },
         {
-          "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
-          "desc": "에어컨과 로봇청소기는 중국이 각각 64.5%, 49.2%로 집계됐고, 한국은 6.0%와 2.3%로 크게 뒤쳐졌다. 냉장고와 세탁기는 하이얼 한 곳의 점유율이 삼성전자와 LG전자의 합계를 웃돌았다. 2025년 주요가전 세계시장 점유율....",
-          "src": "pointdaily",
+          "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
+          "desc": "샤오미 맥스 모델 역시 삼성전자와 LG전자, 로보락 로봇청소기 등이 갖춘 프리미엄 기능을 탑재했지만, 가격에 좀 더 이목이 집중된다. 기존 소비자들이 생각하는 ‘샤오미 가격’과는 거리가 있기 때문이다....",
+          "src": "매일경제",
           "date": "08/19",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005723022?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
         },
         {
-          "title": "삼성전자, 광주에 2400억 투자…AI 데이터센터 공조 생산기지 구축",
-          "desc": "광주사업장은 가전 생산기지로 출발해 현재 비스포크 AI 냉장고와 세탁건조기, 무풍에어컨 등 AI 가전을 생산하는 삼성전자의 주요 제조거점으로 성장했다. 삼성전자는 지난해 11월 1918년 설립된 독일 플랙트그룹을...",
-          "src": "전매신문",
+          "title": "삼성전자, 광주에 플랙트그룹 신규 ‘HVAC 생산라인’ 구축…총 2400억 투...",
+          "desc": "세탁건조기, ‘비스포크 AI 무풍에어컨’ 등 AI 가전을 생산하는 핵심 생산거점으로 역할을 확대해 왔다. 삼성전자는 기존 생산 인프라와 제조 역량을 바탕으로 광주사업장을 AI 가전과 HVAC을 아우르는 글로벌...",
+          "src": "swtvnews",
           "date": "08/19",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285319",
-          "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285319_1011288_5918_v150.jpg"
+          "url": "https://swtvnews.com/news/newsview.php?ncode=1065573274767387",
+          "img": "https://swtvnews.com/news/data/20260819/p1065573274767387_436_thum.jpg"
         },
         {
-          "title": "삼성·LG, 남해안 수해 복구 지원…침수 가전 무상 점검",
-          "desc": "19일 업계에 따르면 삼성전자서비스는 이날부터 거제시 둔덕면 일대에 '수해 복구 특별 서비스팀'을 파견했다. 둔덕면사무소 인근에는 이동형 서비스센터를 설치해 제조사와 관계없이 침수된 에어컨과 냉장고, 세탁기 등...",
-          "src": "ekoreanews",
+          "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
+          "desc": "삼성전자는 올 초 2030년까지 국내외 생산 공장을 ‘AI 자율공장’으로 전환한다는 전략을 제시했다.... LG는 최근 엔비디아와 ‘피지컬 AI’ 파트너십을 맺고, 연내 미 세탁기 공장에 휠 베이스(바퀴 기반 로봇) LG...",
+          "src": "디지털타임스",
           "date": "08/19",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87582",
-          "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87582_109471_230.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "무협, 코엑스서 'AI 서밋 서울&엑스포' 개막…118개사 참여",
-          "desc": "어도비와 젠스파크, 오라클 등 글로벌 기업들이 산업 현장에 적용 가능한 AI 솔루션과 활용 사례를... AI 기술을 공개한다. 19~20일 열리는 ‘AI SUMMIT SEOUL(AI 서밋 서울)’에서는 제조·금융 AI 도입, AI 에이전트...",
-          "src": "megaeconomy",
+          "title": "“내 피부는 몇 살?”…글로벌 뷰티업계 피부 장수 ‘롱제비티’ 경쟁",
+          "desc": "이날 체험한 기기는 로레알그룹이 한국 기업 나노엔텍과 공동개발해 지난해 세계 최대 가전·정보기술(IT)... 이미 아모레퍼시픽은 AI를 활용해 연령에 따라 얼굴의 어느 부위에서 주름과 색소침착 등이 나타나는지를...",
+          "src": "동아일보",
           "date": "08/19",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594328103813",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260819/p1065594328103813_151_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003741912?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134504228.1.jpg"
         },
         {
-          "title": "[ET시론] AI보다 더 인간적인 미래…행복한 국가와 국민 '이제는 AI 코리...",
-          "desc": "AI가 금융·의료·복지·교육·채용·행정 등 국민의 삶과 직결되는 분야에서 활용될수록 국민은 AI가... 않는 AI로 발전하기를 기원한다. 이것이 우리가 만들어야 할 미래의 AI다. 조성갑 아메리카AI기술대 아시아 총장",
-          "src": "전자신문",
+          "title": "[세 번째 엔진, 정의선] 정주영의 숙원, 정몽구의 고로···美 전기로로...",
+          "desc": "정부가 제철소 건설·운영 경험과 기술·인력을 앞세운 포항제철을 선택하면서 정주영은 광양제철소도... AI를 활용한 공정 최적화와 로봇 자동화도 확대하고 있다. 탈탄소 과제도 해결하고 있다. 2018년 3,026만tCO₂e에...",
+          "src": "globale",
           "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/030/0003458689?sid=110",
-          "img": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.953f12d9a86045d1934ec59afb8c20b4_P3.jpg"
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=39836",
+          "img": "https://cdn.globale.co.kr/news/thumbnail/202608/39836_65789_5038_v150.jpg"
         },
         {
-          "title": "[현장] 검색창 밖 '진짜 채용정보' 찾아…금융권 취준생 DDP 집결",
-          "desc": "금융회사들이 AI와 디지털 기술을 빠르게 업무에 도입하면서 구직자에게 요구하는 역량 역시 달라지고 있었다. 현장에서는 전통적인 금융지식뿐 아니라 AI 활용 능력과 디지털 이해도를 어떻게 준비해야 하는지를 묻는...",
-          "src": "newsprime",
+          "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
+          "desc": "비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는 관제 시스템을 도입했다. 이 공장에서는 다관절 로봇 등 자동화 설비가 사람을 대신해 냉장고 도어 운반과 같은 위험한...",
+          "src": "디지털타임스",
           "date": "08/19",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=744335",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260834/art_744335_1787120974.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
         },
         {
-          "title": "[AIDC 보안-②] 이통3사, AIDC 특화 보안 필요성 '공감'…적용 수준 공개...",
-          "desc": "방식이 활용되고 있다. 고객별 데이터와 시스템을 논리적으로 분리 및 관리하는 방식이다. 이러한 방향은 글로벌에서 논의되는 AIDC 보안 체계와도 유사하다. 미국 국립표준기술연구소(NIST)는 지난 7월 AI데이터센터...",
-          "src": "epnc",
+          "title": "대동그룹, 농업용 휴머노이드 로봇 개발 본격화",
+          "desc": "수준으로 기술을 고도화해 상용화를 추진한다. 애그로이드의 목표는 온실을 자율주행하며 양팔을 갖춘 휴머노이드 상체를 활용해 예찰·적엽·수확·운반 등 다양한 농작업을 수행하는 것. 이를 위해 대동은 온실을...",
+          "src": "agrinet",
           "date": "08/19",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405751",
-          "img": "https://cdn.epnc.co.kr/news/photo/202608/405751_406122_454.png"
+          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406491",
+          "img": "https://cdn.agrinet.co.kr/news/photo/202608/406491_97318_1359.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "한솔테크닉스, 1년 새 2568억 M&A…반도체·전장으로 체질개선 [기업 X-R...",
+          "desc": "가려내는 부품이다. 2001년 설립된 윌테크놀러지는 스마트폰의 두뇌 역할을 하는 애플리케이션프로세서(AP)와 카메라용 이미지센서(CIS)에 쓰이는 제품을 주력으로 삼성전자 시스템LSI사업부에 공급하며 이 분야 국내...",
+          "src": "kukinews",
+          "date": "08/19",
+          "url": "https://www.kukinews.com/article/view/kuk202608190200",
+          "img": ""
+        },
+        {
+          "title": "[전남광주 소식] 삼성전자-플랙트그룹과 2400억대 투자협약·황기연 초대...",
+          "desc": "아울러 지역 협력사 상생 체계 마련과 국비사업 기획, 기반시설 확충 등을 통해 공조기 제조부터 부품... 김철기 삼성전자 부사장은 \"지역 협력사와의 상생을 강화하고 지역 산업 경쟁력을 높이는 데 적극 협력하겠다...",
+          "src": "뉴스웍스",
+          "date": "08/19",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850877",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/850877_811740_2745_v150.jpg"
+        },
+        {
+          "title": "[기획] 이재용·정의선, '3세 실용주의'…K-모빌리티 미래 바꾼다",
+          "desc": "이재용 삼성전자 회장(오른쪽)과 정의선 현대차그룹 회장이 지난 7월 24일(현지시간) 미국 샌프란시스코 더... 1·2차 부품 협력사들에도 커다란 기술 이전 및 동반 성장 기회를 제공하고 있다. 삼성과 현대차의 표준에 맞춰...",
+          "src": "kfenews",
+          "date": "08/19",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662698",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662698_136215_3732_v150.jpg"
+        },
+        {
           "title": "전남광주특별시, 삼성·플랙트그룹 2천400억원대 투자 유치",
           "desc": "완제품에서 부품·장비까지 이어지는 산업 생태계를 구축할 계획이다. 이를 위해 '플랙트 투자지원 전담팀... 삼성전자 가전 생산을 뒷받침하며 함께 성장해 온 중요한 사업장\"이라며 \"이번 투자를 계기로 지역 협력사와...",
           "src": "전매신문",
           "date": "08/19",
           "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285287",
           "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285287_1011253_2833_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 광주에 HVAC 첫 생산 거점…호남권 반도체·AI 클러스터 연계...",
-          "desc": "［뉴시안= 조현선 기자］삼성전자가 냉난방공조(HVAC) 시장을 선점하기 위해 광주사업장에 대규모 선제... 지역 협력사와 연계한 부품·장비 생태계 구축 및 기반시설 확충을 차질 없이 추진할 방침이다. 민형배...",
-          "src": "newsian",
-          "date": "08/19",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93925",
-          "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93925_87630_1648_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 광주사업장 설립 37년 만 2400억대 대규모 투자",
-          "desc": "특히 삼성전자의 생산 역량과 플랙트그룹의 공조 기술을 결합해 지역 협력사와의 연계도 강화할 계획이다.... 이를 통해 공조기 제조부터 부품·장비까지 이어지는 산업 생태계를 조성한다는 전략이다. 이날 협약식에는...",
-          "src": "서울경제",
-          "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/011/0004653078?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.1105b955601d4e74ac7781ccd5102f52_R.jpg"
-        },
-        {
-          "title": "현대차 21일 10년 만에 전면파업…SK하이닉스 성과급이 던진 파장",
-          "desc": "파업이 길어질수록 1차 협력사에 이어 2·3차 부품업체의 납품과 매출에도 부담이 커질 수 있다.... 올해 삼성전자 임금협상에서도 영업이익 연동 성과급이 주요 의제로 떠올랐다. 김대종 세종대 교수는 삼성전자와...",
-          "src": "g-enews",
-          "date": "08/19",
-          "url": "https://www.g-enews.com/view.php?ud=202608191016548037f7ba87f45b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081914011806249f7ba87f45b6178187211.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“침수 가전 가져오세요”…LG·삼성, 경남 수해 현장서 무상 수리",
-      "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/19/2026081980125.html",
-      "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/19/2026081980125_0.jpg"
+      "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723022?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
     },
     {
-      "title": "물량 넘어 프리미엄까지 中 가전 공세…삼성·LG 방어전 총력",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315978",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/315978_311972_2814_v150.jpg"
+      "title": "삼성전자, 광주에 플랙트그룹 신규 ‘HVAC 생산라인’ 구축…총 2400억 투...",
+      "url": "https://swtvnews.com/news/newsview.php?ncode=1065573274767387",
+      "img": "https://swtvnews.com/news/data/20260819/p1065573274767387_436_thum.jpg"
     },
     {
-      "title": "삼성전자, 광주에 2400억 투자…AI 데이터센터 공조 생산기지 구축",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285319",
-      "img": "https://www.jeonmae.co.kr/news/thumbnail/202608/1285319_1011288_5918_v150.jpg"
+      "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
     },
     {
-      "title": "삼성·LG, 남해안 수해 복구 지원…침수 가전 무상 점검",
-      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87582",
-      "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87582_109471_230.jpg"
+      "title": "“내 피부는 몇 살?”…글로벌 뷰티업계 피부 장수 ‘롱제비티’ 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741912?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134504228.1.jpg"
     },
     {
-      "title": "무협, 코엑스서 'AI 서밋 서울&엑스포' 개막…118개사 참여",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594328103813",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260819/p1065594328103813_151_thum.jpg"
+      "title": "[세 번째 엔진, 정의선] 정주영의 숙원, 정몽구의 고로···美 전기로로...",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=39836",
+      "img": "https://cdn.globale.co.kr/news/thumbnail/202608/39836_65789_5038_v150.jpg"
     },
     {
-      "title": "[ET시론] AI보다 더 인간적인 미래…행복한 국가와 국민 '이제는 AI 코리...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003458689?sid=110",
-      "img": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.953f12d9a86045d1934ec59afb8c20b4_P3.jpg"
+      "title": "전수받은 노하우로 최적 판단… 디지털 트윈이 만드는 자율 공장 [피지...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043182?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/19/news-p.v1.20260817.27599c632b4b430b84446cf2676a8f5c_R.jpg"
     }
   ]
 };
