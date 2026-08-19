@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 01:48",
+  "updatedAt": "2026.08.20 (목) 03:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "오픈AI, 에이전트 해킹 한 달 만에 ‘아스트라’ 훈련 중단하고 30분 경...",
+          "desc": "30분 안에 경보를…체인오브소트 감시체계 도입오픈AI가 새로 도입한 핵심 장치는 ‘체인오브소트(chain-of... 회사는 이 감시 시스템이 계산 비용이 큰 ‘자동 조사관(automated investigator)’을 활용해 우려되는 행동을...",
+          "src": "wikitree",
+          "date": "08/20",
+          "url": "https://www.wikitree.co.kr/articles/1153502",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200213245054_ai.jpeg"
+        },
+        {
+          "title": "오픈AI, 유럽 31개국 챗GPT 무료·저가판에 광고 도입…유료만 광고 없다",
+          "desc": "플레밍에 따르면 오픈AI가 겨냥하는 핵심 대상은 챗GPT 워크(Work) 에이전트를 활용할 지식근로자, 코덱스(Codex) 에이전트를 쓸 개발자·기술 인력, 그리고 기업 의사결정자 등 세 그룹이다. 오픈AI는 이들 대상에...",
+          "src": "wikitree",
+          "date": "08/20",
+          "url": "https://www.wikitree.co.kr/articles/1153499",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200120081674_ai.jpeg"
+        },
+        {
           "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
           "desc": "시리AI가 애플TV에 처음 도입될 가능성이 높다고 전했다. 애플TV는 2022년 10월 3세대 모델이 나온... “데이터를 활용해 일관되게 개인화할 수 있는 하나의 시리처럼 느껴지길 원했다”고 말했다.그러나...",
           "src": "wikitree",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://www.medigatenews.com/news/2489482902",
           "img": "https://medigatenews.com/file/news/518288"
-        },
-        {
-          "title": "한국조폐공사, 'AI 프론티어 경진대회' 개최",
-          "desc": "구축'과 '생성형 AI를 활용한 신규 보안기술 개발 및 연구 프로세스 혁신'이 각각 선정됐다. 조폐공사는 이번에 발굴된 우수 과제를 전사 공유하고, 실현 가능성이 높은 아이디어는 현장에 단계적으로 도입할 방침이다....",
-          "src": "ccnnews",
-          "date": "08/20",
-          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413647",
-          "img": "http://www.ccnnews.co.kr/news/thumbnail/202608/413647_518228_843_v150.jpg"
-        },
-        {
-          "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
-          "desc": "AI를 활용한 침수예방시스템 고도화, 폭염 쉼터 통합관리, 선진 제설 시스템 도입 등을 통해 기후변화에 선제적으로 대응해 나갈 방침이다. 또한, 첨단기술을 통한 서울 소방 선진화를 도모한다. 전통시장 등 화재...",
-          "src": "서울경제",
-          "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/011/0004653221?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.5754388d48f746fd8018d11125b60ff4_R.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.00news.co.kr/news/thumbnail/202608/105972_242831_39_v150.jpg"
     },
     {
+      "title": "오픈AI, 에이전트 해킹 한 달 만에 ‘아스트라’ 훈련 중단하고 30분 경...",
+      "url": "https://www.wikitree.co.kr/articles/1153502",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200213245054_ai.jpeg"
+    },
+    {
+      "title": "오픈AI, 유럽 31개국 챗GPT 무료·저가판에 광고 도입…유료만 광고 없다",
+      "url": "https://www.wikitree.co.kr/articles/1153499",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200120081674_ai.jpeg"
+    },
+    {
       "title": "애플TV 4K, 4년 공백 깨고 시리AI 포함 5대 신기능 탑재 유력해졌다",
       "url": "https://www.wikitree.co.kr/articles/1153495",
       "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608200110018691_it.jpeg"
-    },
-    {
-      "title": "의정부을지대병원, ‘보고 듣는 ARS’ 서비스 도입",
-      "url": "https://www.medigatenews.com/news/2489482902",
-      "img": "https://medigatenews.com/file/news/518288"
-    },
-    {
-      "title": "한국조폐공사, 'AI 프론티어 경진대회' 개최",
-      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413647",
-      "img": "http://www.ccnnews.co.kr/news/thumbnail/202608/413647_518228_843_v150.jpg"
     }
   ]
 };
