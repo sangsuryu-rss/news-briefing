@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 07:43",
+  "updatedAt": "2026.08.20 (목) 10:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "내 돈 주고 산 냉장고·TV에 광고가? 광고 수익 노리는 가전 업체들",
-          "desc": "화면 달린 가전들이 ‘24시간 전광판’ 역할 전망도 삼성전자와 LG전자가 스마트TV를 중심으로 광고·콘텐츠 사업을 키우고 있다. 가전제품을 한 번 판매한 뒤 끝나는 사업 구조에서 벗어나, 운영체제(OS)와 콘텐츠...",
+          "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
+          "desc": "가전 수리·급식·긴급대출 등 ‘본업 연계형’ 재난 대응 기록적인 폭우가 덮친 경남 거제·통영 지역에... 삼성전자서비스 수해 복구 특별 서비스팀이 19일 경남 거제시 둔덕면 일대에서 침수 제품을 점검하고 있다....",
           "src": "조선일보",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/023/0003993933?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/E2PIUMNL7ZFSBDTQUWPVSUQ3VA.png?auth=2bbab595590f7033f8b5f5cda47686cbbfb34262674ac14e3a1e90d86c8a70c7&width=1200&height=630&smart=true"
+          "url": "https://futurechosun.com/?p=158034",
+          "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
         },
         {
-          "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
-          "desc": "샤오미 맥스 모델 역시 삼성전자와 LG전자, 로보락 로봇청소기 등이 갖춘 프리미엄 기능을 탑재했지만, 가격에 좀 더 이목이 집중된다. 기존 소비자들이 생각하는 ‘샤오미 가격’과는 거리가 있기 때문이다....",
-          "src": "매일경제",
-          "date": "08/19",
-          "url": "https://n.news.naver.com/mnews/article/009/0005723022?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
+          "title": "삼성전자, 호주서 '가장 사랑받는 TV' 7년 연속 1위…생활가전도 휩쓸어",
+          "desc": "성능(Top Performance)', '가장 추천하는 브랜드' 등 주요 4개 부문을 석권했다. 이 외에도 삼성전자는 태블릿, 공기청정기, 로봇청소기 등 가전 카테고리에서 총 48개의 '강력 추천(Highly Commended)'을 획득했다.",
+          "src": "widedaily",
+          "date": "08/20",
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=299712",
+          "img": "https://cdn.widedaily.com/news/thumbnail/202608/299712_307290_3944_v150.jpg"
         },
         {
           "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
         },
         {
-          "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍",
-          "desc": "인공지능 서버용 메모리 증설에 생산 역량을 집중하는 삼성전자 등 주요 제조사들의 공정 전환 속에서... 수익성이 높은 첨단 메모리 라인이 확대되면서 가전제품과 일반 전자기기에 들어가는 구형 DDR4와 SLC 낸드...",
-          "src": "g-enews",
+          "title": "삼성전자 동행노조 3000명 집회 예고…쟁의행위 적법성 논란",
+          "desc": "특히 삼성전자 DX 부문이 스마트폰과 가전 등 주요 사업에서 수익성 압박을 받고 있는 상황에서 대규모 추가 보상을 요구하는 것이 적절하냐는 지적도 제기된다. 회사 내부에서는 경영환경이 녹록지 않은 상황에서 노사...",
+          "src": "뉴스핌",
           "date": "08/20",
-          "url": "https://www.g-enews.com/view.php?ud=20260820070417862fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082007162107397fbbec65dfb211211153121.jpg"
+          "url": "https://www.newspim.com/news/view/20260820000415",
+          "img": "https://img.newspim.com/news/2026/04/30/260430162239803_t1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "디플리, 영국서 항만 설비의 ‘이상음’ 듣는다…리슨 AI 독점 판매 계약",
-          "desc": "음향 AI 솔루션을 영국 고객에게 공급하고 현지 영업과 도입을 지원한다. 디플리... 영국은 AI 기술의 안전한 활용을 정부 차원에서 다뤄온 국가다. 2023년 세계 최초의 정부...",
-          "src": "venturesquare",
+          "title": "토스뱅크, 시각장애인 금융 접근성 강화…여신·수신·카드 전자점자 확...",
+          "desc": "지난 4월 통장사본에 인터넷은행 최초로 전자점자 서비스를 도입한 데 이어 적용 문서를 넓히면서 금융... 문서에서는 AI 기술 등을 활용해 전자점자 변환 기술을 고도화하고 있다. 토스뱅크는 접근성을 별도의 업무가...",
+          "src": "g-enews",
           "date": "08/20",
-          "url": "https://www.venturesquare.net/1107051/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/DEEPLY.png"
+          "url": "https://www.g-enews.com/view.php?ud=202608200918114910cd0bfacc1c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082009191209290cd0bfacc1c595103236.jpg"
         },
         {
-          "title": "내 돈 주고 산 냉장고·TV에 광고가? 광고 수익 노리는 가전 업체들",
-          "desc": "LG전자가 지배 지분을 보유한 미국 광고 기술 업체 알폰소가 운영하는 LG애드솔루션은 지난 5일 올해 상반기... “생성형 AI에도 광고가 도입되는 것처럼 화면이 달린 가전 역시 광고 플랫폼으로 활용될 가능성이 크다”...",
-          "src": "조선일보",
+          "title": "대한전선, 해저케이블 시공장비 국산화 나선다···팬스타로보틱스와 ...",
+          "desc": "등에 활용할 수 있는 고성능 매설 ROV와 운용 시스템을 공동 개발한다. 해저케이블 매설·보호 기술에 대한... 팬스타로보틱스는 한국로봇융합연구원(KIRO)이 설립한 해양로봇 전문기업으로 AI 로봇 기술을 기반으로 관련...",
+          "src": "enewstoday",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/023/0003993933?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/E2PIUMNL7ZFSBDTQUWPVSUQ3VA.png?auth=2bbab595590f7033f8b5f5cda47686cbbfb34262674ac14e3a1e90d86c8a70c7&width=1200&height=630&smart=true"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461042",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2461042_1302025_4344_v150.jpg"
         },
         {
-          "title": "대웅 디지털헬스 연합 한자리…'예측부터 사후관리까지'",
-          "desc": "엑스레이를 활용한 골다공증 위험 분석 기술을 각각 선보였다. 메디컬에이아이는 AI 심전도 분석을... 이 같은 협업에 힘입어 씨어스는 입원환자 모니터링 솔루션의 병원 도입 확대를 바탕으로 올해 상반기 최대 실적을...",
-          "src": "news",
+          "title": "SK하이닉스, 전국 채용 설명회…AI시대 인재 찾는다",
+          "desc": "하반기 기술사무직 신입 채용설명회'를 진행하고 있다고 20일 밝혔다. 이번 채용설명회는 지난 6월 발표한... 구직자들은 반도체 공정 이론과 실제 양산 현장의 차이, 패키지 및 테스트(P&T) 엔지니어의 업무, AI 도입 이후...",
+          "src": "연합뉴스",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/648/0000049981?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/19/7ff0e65b96a585a6b34ebe5db985ef11.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016260571?sid=102",
+          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/20/AKR20260820067500003_01_i_P4.jpg"
         },
         {
-          "title": "日, 민·관 협력으로 인재 확보·기술 도입·생산성 향상 추진",
-          "desc": "이어 산업 경쟁력과 에너지 안보, 사회 인프라의 지속가능성을 위해 인적 투자와 기술 도입, 협력업체를 포함한 공급망 전체의 생산성 향상을 추진해야 한다고 강조했다. 일본 정부는 2040년 AI와 로봇 보급으로 사무직...",
-          "src": "gasnews",
+          "title": "바이낸스 블록체인 위크 2026 방콕서 금융 진화 조명",
+          "desc": "대규모로 활용될 중심지\"라며 \"바이낸스 블록체인 위크 방콕 2026은 업계가 책임감 있게 확장할 수 있는... 인식, 도입 확대에 따른 안전장치 구축을 강조한다. TokenPost AI 유의사항 TokenPost.ai 기반 언어 모델을 사용하여...",
+          "src": "tokenpost",
           "date": "08/20",
-          "url": "https://www.gasnews.com/news/articleView.html?idxno=126404",
-          "img": "https://cdn.gasnews.com/news/thumbnail/202608/126404_102533_1215_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/393813",
+          "img": "https://f1.tokenpost.kr/2026/08/x8z2x56b5k.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "AI 두뇌 '반도체' 미래 지도를 바꾼다[칩 메카 전남광주①]",
+          "desc": "정부와 삼성전자·SK하이닉스의 반도체 팹(Fab) 투자는 연구·생산 전문 인력의 대대적 유입과 주거·교육... 반도체 팹 공장의 협력사도 전남광주로 이동하고 배후단지 조성·물류·서비스업 까지 포함하면 2만여명으로...",
+          "src": "뉴시스",
+          "date": "08/20",
+          "url": "https://n.news.naver.com/mnews/article/003/0014136960?sid=102",
+          "img": "https://img1.newsis.com/2026/06/29/NISI20260629_0021342016_web.jpg"
+        },
+        {
+          "title": "삼성전자, 광주에 2400억 투입…37년 만에 대규모 공조 생산라인 구축",
+          "desc": "김철기 삼성전자 부사장은 “광주사업장은 지난 37년간 삼성 가전 사업의 성장을 뒷받침해 온 핵심 사업장”이라며 “지역 협력사와의 상생을 더욱 강화하고 지역...",
+          "src": "breaknews",
+          "date": "08/20",
+          "url": "http://www.breaknews.com/1230098",
+          "img": "https://honam.breaknews.com/imgdata/honam_breaknews_com/202608/2026082015167343.jpg"
+        },
         {
           "title": "13조 쏟는 마이크론 히로시마 팹, 평택·청주 독주 흔든다",
           "desc": "글로벌 인공지능(AI) 반도체 공급 부족이 장기화하는 가운데 삼성전자와 SK하이닉스가 주도해 온 첨단... 히로시마 라인은 공장 가동에 들어가는 소재·부품의 80%가량을 일본 협력사에서 직접 공급받는다. 일본...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://n.news.naver.com/mnews/article/366/0001187200?sid=105",
           "img": "https://biz.chosun.com/resizer/v2/PKZ75ULQDRATXLFRPZVJ7C525I.jpg?auth=4d23cf4e9c955237a5954176b5dfdff2f9458b9c73440716f52034f358e0e798&width=600&height=315&smart=true"
-        },
-        {
-          "title": "삼성, 광주권에 2천400억 들여 ‘HVAC 생산라인’ 구축",
-          "desc": "삼성전자의 생산 역량과 플랙트그룹의 공조기술을 바탕으로 지역 협력사와 연계를 강화하고 제조업... 또 신규 국비사업 발굴·기획, 공조산업 기반 시설 구축도 추진해 공조기 제조부터 부품·장비까지 이어지는...",
-          "src": "kjdaily",
-          "date": "08/19",
-          "url": "http://www.kjdaily.com/article.php?aid=1787137013684850002",
-          "img": "http://www.kjdaily.com/upimages/gisaimg/202608/20-684850.jpg"
-        },
-        {
-          "title": "삼성·플랙트 광주에 2400억 투자",
-          "desc": "삼성전자 플랙트그룹 광주공장 신축 투자협약식 장면. /사진=전남광주시 | 광주=한스경제 신홍관 기자... 김 부사장은 지역 협력사와 상생을 강화하고 전남광주가 글로벌 공조산업 핵심 거점으로 성장하도록...",
-          "src": "한스경제",
-          "date": "08/19",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858003",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858003_878950_3829_v150.jpg"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "dailysecu",
           "date": "05/11",
           "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
+          "img": "https://www.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         },
         {
           "title": "페스카로, JS오토모티브 인수…\"사이버보안·전장·생산 밸류체인 확보...",
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "내 돈 주고 산 냉장고·TV에 광고가? 광고 수익 노리는 가전 업체들",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993933?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/E2PIUMNL7ZFSBDTQUWPVSUQ3VA.png?auth=2bbab595590f7033f8b5f5cda47686cbbfb34262674ac14e3a1e90d86c8a70c7&width=1200&height=630&smart=true"
+      "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
+      "url": "https://futurechosun.com/?p=158034",
+      "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
     },
     {
-      "title": "“싼맛에 사던 샤오미도 169만원”…삼성·LG·로보락 장악한 프리미엄...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005723022?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.5748149a971f49789bfb9ce310378746_R.jpg"
+      "title": "삼성전자, 호주서 '가장 사랑받는 TV' 7년 연속 1위…생활가전도 휩쓸어",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=299712",
+      "img": "https://cdn.widedaily.com/news/thumbnail/202608/299712_307290_3944_v150.jpg"
     },
     {
       "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
     },
     {
-      "title": "구형 D램, 50% 뛴다…HBM 쏠림이 부른 메모리 역풍",
-      "url": "https://www.g-enews.com/view.php?ud=20260820070417862fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082007162107397fbbec65dfb211211153121.jpg"
+      "title": "삼성전자 동행노조 3000명 집회 예고…쟁의행위 적법성 논란",
+      "url": "https://www.newspim.com/news/view/20260820000415",
+      "img": "https://img.newspim.com/news/2026/04/30/260430162239803_t1.jpg"
     },
     {
-      "title": "디플리, 영국서 항만 설비의 ‘이상음’ 듣는다…리슨 AI 독점 판매 계약",
-      "url": "https://www.venturesquare.net/1107051/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/DEEPLY.png"
+      "title": "토스뱅크, 시각장애인 금융 접근성 강화…여신·수신·카드 전자점자 확...",
+      "url": "https://www.g-enews.com/view.php?ud=202608200918114910cd0bfacc1c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082009191209290cd0bfacc1c595103236.jpg"
     },
     {
-      "title": "내 돈 주고 산 냉장고·TV에 광고가? 광고 수익 노리는 가전 업체들",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993933?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/E2PIUMNL7ZFSBDTQUWPVSUQ3VA.png?auth=2bbab595590f7033f8b5f5cda47686cbbfb34262674ac14e3a1e90d86c8a70c7&width=1200&height=630&smart=true"
+      "title": "대한전선, 해저케이블 시공장비 국산화 나선다···팬스타로보틱스와 ...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461042",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2461042_1302025_4344_v150.jpg"
     }
   ]
 };
