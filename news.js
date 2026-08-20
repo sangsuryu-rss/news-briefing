@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 19:49",
+  "updatedAt": "2026.08.20 (목) 22:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[가고파] 선한 영향력- 차상호(정치부장)",
-          "desc": "LG전자서비스와 삼성전자서비스는 거제 현장에 ‘수해 복구 특별 서비스팀’을 파견하고 이동형 서비스센터 버스를 투입해 침수 가전 세척과 무상 점검을 시작했다. 대한적십자사 경남지사는 임시주거용 천막 및...",
-          "src": "knnews",
+          "title": "삼성전자 노조 갈라졌다… DS,중심 초기업노조 “DX는 따로 교섭”",
+          "desc": "20일 전자업계에 따르면, 초기업노조는 이날 삼성전자 노동조합 동행(이하 동행노조)에 이러한 내용을 담은 공문을 보냈다. 동행노조는 가전과 TV·스마트폰 등 전자제품 생산을 담당하는 DX(디바이스경험) 부문 중심으로...",
+          "src": "segye",
           "date": "08/20",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549046",
-          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549046_520_images.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004152466?sid=101",
+          "img": "https://www.segye.com/content/image/2026/08/20/20260820523785.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
         },
         {
-          "title": "삼성전자 광주사업장 2,400억 투자 반갑다",
-          "desc": "1989년 광주전자로 출발한 광주사업장은 현재 '비스포크 AI 패밀리 허브 냉장고'와 '비스포크 AI 콤보 세탁기', '비스포크 AI 무풍 에어컨' 등 삼성전자의 주요 AI 가전을 생산하는 핵심기지다. 삼성전자는 이번 공조 제품...",
-          "src": "jndn",
+          "title": "‘기습 폭우’ 거제·통영에 온정 쏟아졌다",
+          "desc": "삼성전자서비스는 거제시 일대에 ‘수해 복구 특별 서비스팀’을 파견해 브랜드와 상관없이 침수된 에어컨과 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 지원하고 있다. LG전자는 하루 앞선 지난 18일부터...",
+          "src": "knnews",
           "date": "08/20",
-          "url": "http://www.jndn.com/article.php?aid=1787215801438169008",
-          "img": ""
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549056",
+          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549056_520_images.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "H2O호스피탈리티, UAE 로타나 15개 호텔 4240객실 스마트 체크인 구축",
-          "desc": "솔루션'을 도입하기로 했다고 20일 밝혔다. 이 계약에 따라 H2O는 로타나 호텔 & 리조트와 아르잔, 센트로 등... H2O의 스마트 체크인 솔루션은 사전 체크인과 AI 인증을 활용해 체크인 대기 시간을 대폭 줄인 것이...",
-          "src": "hellot",
+          "title": "AI가 2초 만에 흡인 위험군 선별...\"삼킴장애 환자 음성 특징 선별\"",
+          "desc": "연구팀은 이 원리를 활용해 2024년 삼킴 직후 목소리만으로 흡인 위험군과 정상군을 구분하는 AI 모델을... 이에 연구팀은 모든 음성 데이터를 2초 단위로 자동 분할해 표준화하는 방식을 도입한 바 있다. 나아가 자동...",
+          "src": "k-health",
           "date": "08/20",
-          "url": "https://www.hellot.net/news/article.html?no=114468",
-          "img": "https://www.hellot.net/data/photos/20260834/art_17872228321936_e88651.jpg"
+          "url": "https://www.k-health.com/news/articleView.html?idxno=100738",
+          "img": "https://cdn.k-health.com/news/photo/202608/100738_201098_2031.jpg"
         },
         {
-          "title": "경총 “제조 기업 10곳 중 8곳 피지컬 AI 도입 또는 도입 예정”",
-          "desc": "피지컬 AI 도입·활용 시 어려움은 ‘기술적 불안정성·시스템 불안에 따른 리스크’(34.5%), ‘투자비용 대비 수익성(성과)에 대한 불확실성’(31.0%), ‘노조(근로자)의 도입 반대’ (27.4%) 등 순으로 꼽혔다. 노동력...",
-          "src": "munhwa",
+          "title": "소스코드 외부 전송 없이 AI 코딩…팀스파르타, ‘AI 서밋 서울 2026’서...",
+          "desc": "올해 행사에는 기업의 생성형 AI 도입과 AI 에이전트, 산업별 활용 사례 등을 주제로 한... 자체 모델 기술을 검증하기 위해 개발한 초경량 모델 ‘K-AX 스파르탄 체리 1.8B’는...",
+          "src": "venturesquare",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/021/0002812699?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/20/news-p.v1.20260820.77240f4d05d243c49ab75dacdc1e3dd4_R.png"
+          "url": "https://www.venturesquare.net/1107471/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/AI2026.jpg"
         },
         {
-          "title": "H2O호스피탈리티, UAE 최대 호텔 체인 로타나 그룹에 스마트 체크인 솔루...",
-          "desc": "솔루션’을 도입하기로 했다고 20일 전햇다. 이 계약에 따라 H2O는 로타나 호텔 & 리조트와 아르잔, 센트로... H2O의 스마트 체크인 솔루션은 사전 체크인과 AI 인증을 활용해 체크인 대기 시간을 대폭 줄인 게 특징이다....",
-          "src": "sports",
+          "title": "에스원, 골프장 화재·타구·응급 상황 대응 시스템 구축",
+          "desc": "인공지능(AI) 영상분석과 사물인터넷(IoT)을 활용한 안전관리 시스템이 도입되고 있다. 화재 징후부터 설비... 에스원은 골프장 안전관리를 위해 AI 영상분석과 IoT 센서, 원격 모니터링 기술을 결합한 통합 보안...",
+          "src": "nbntv",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/144/0001132980?sid=103",
-          "img": ""
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024052",
+          "img": "https://cdn.nbntv.co.kr/news/photo/202608/4024052_297967_2111.jpg"
         },
         {
-          "title": "에이슬립, 한독과 수면리듬 기록 디지털의료기기 크로노트랙 유통 계약",
-          "desc": "앱노트랙은 출시 6개월 만에 전국 400개 이상 병·의원과 10개 이상 상급종합병원에 도입되며 처방 기반... 즉시 활용 가능한 것도 특징이다. 에이슬립의 수면 분석 기술은 분당서울대학교병원과 미국 스탠퍼드대학교...",
-          "src": "hellot",
+          "title": "‘우버의 민족’이 온다…관전 포인트 5 [스페셜리포트]",
+          "desc": "양 사 기술 시너지도 기대해볼 수 있다. 우버는 오랜 기간 수요예측과 배차·매칭, 광고 최적화 경험을... 연계해 AI가 알아서 이용자가 원하는 배달 음식을 파악하고 주문까지 해주는 방식을 도입했다. 배민 한 관계자는...",
+          "src": "매일경제",
           "date": "08/20",
-          "url": "https://www.hellot.net/news/article.html?no=114466",
-          "img": "https://www.hellot.net/data/photos/20260834/art_17872223495339_ac543d.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000107674?sid=101",
+          "img": "https://wimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260814.59a5efb101d44f73a2de7fa984a7c03d_R.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[가고파] 선한 영향력- 차상호(정치부장)",
-      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549046",
-      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549046_520_images.jpg"
+      "title": "삼성전자 노조 갈라졌다… DS,중심 초기업노조 “DX는 따로 교섭”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152466?sid=101",
+      "img": "https://www.segye.com/content/image/2026/08/20/20260820523785.jpg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "H2O호스피탈리티, UAE 로타나 15개 호텔 4240객실 스마트 체크인 구축",
-      "url": "https://www.hellot.net/news/article.html?no=114468",
-      "img": "https://www.hellot.net/data/photos/20260834/art_17872228321936_e88651.jpg"
+      "title": "‘기습 폭우’ 거제·통영에 온정 쏟아졌다",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549056",
+      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549056_520_images.jpg"
     },
     {
-      "title": "경총 “제조 기업 10곳 중 8곳 피지컬 AI 도입 또는 도입 예정”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002812699?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/08/20/news-p.v1.20260820.77240f4d05d243c49ab75dacdc1e3dd4_R.png"
+      "title": "AI가 2초 만에 흡인 위험군 선별...\"삼킴장애 환자 음성 특징 선별\"",
+      "url": "https://www.k-health.com/news/articleView.html?idxno=100738",
+      "img": "https://cdn.k-health.com/news/photo/202608/100738_201098_2031.jpg"
     },
     {
-      "title": "에이슬립, 한독과 수면리듬 기록 디지털의료기기 크로노트랙 유통 계약",
-      "url": "https://www.hellot.net/news/article.html?no=114466",
-      "img": "https://www.hellot.net/data/photos/20260834/art_17872223495339_ac543d.jpg"
+      "title": "소스코드 외부 전송 없이 AI 코딩…팀스파르타, ‘AI 서밋 서울 2026’서...",
+      "url": "https://www.venturesquare.net/1107471/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/AI2026.jpg"
     }
   ]
 };
