@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 14:00",
+  "updatedAt": "2026.08.20 (목) 16:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 DX 노조 내일 대규모 집회‥\"3천 명 참여 예상\"",
-          "desc": "삼성전자 스마트폰, 가전 등 DX 부문 중심 노동조합 '동행'이 반도체 DS 부문과의 보상 격차에 항의하는 대규모 집회를 엽니다. 동행노조는 \"내일 오후 3시부터 서울 강남구 삼성전자 서초사옥 인근에서 집회를 열 예정...",
-          "src": "imnews",
+          "title": "[거래소 외국인] \"조정은 마무리 됐다\"...삼성전자 SK하이닉스 폭풍매수",
+          "desc": "LG전자는 가전과 전장사업의 성장 여부, 글로벌 소비 경기 등이 향후 실적에 영향을 줄 전망이다. 조선주에서는 삼성중공업이 외국인 순매수 목록에 올랐다. 고부가가치 선박과 해양플랜트 수주 확대가 실적 개선 기대를...",
+          "src": "핀포인트뉴스",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/214/0001519005?sid=101",
-          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/20/ljm_20260820_14.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479092",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479092_465894_352_v150.jpg"
         },
         {
-          "title": "'만점 짜리' 가사로봇 개발이 어려운 이유",
-          "desc": "삼성전자는 올해 CES에서 AI 가전과 로봇청소기 등을 연결한 'Home Companion' 비전을 제시했으며, 삼성 계열 레인보우로보틱스는 휴머노이드 기술을 기반으로 산업용 협동·모바일 로봇 사업을 확대하고 있다. 다만 화려한...",
-          "src": "ekoreanews",
+          "title": "삼성전자, 호주서 7년 연속 ‘가장 사랑받는 TV 브랜드’ 1위",
+          "desc": "이 밖에도 삼성전자는 태블릿과 공기청정기, 로봇청소기 등 다양한 제품군에서 총 48개의 ‘강력 추천’ 평가를 획득했다. 삼성전자는 TV와 모바일, 생활가전 등 주요 사업 부문에서 소비자 신뢰와 제품 경쟁력을...",
+          "src": "todayeconomic",
           "date": "08/20",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87595",
-          "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87595_109487_5022.jpg"
+          "url": "https://www.todayeconomic.com/news/article.html?no=31793",
+          "img": "https://www.todayeconomic.com/data/photos/20260834/art_1787205717363_fa0095.jpg"
         },
         {
-          "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
-          "desc": "광주사업장은 가전 생산기지로 출발해 최근에는 '비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 무풍에어컨' 등 AI 가전을 생산하는 핵심거점으로 역할을 확대해 왔다. 삼성전자가...",
-          "src": "e2news",
+          "title": "삼성전자, HVAC에 힘준다…'광주·인도'서 생산능력 확대",
+          "desc": "세탁건조기 △비스포크 AI 무풍에어컨 등을 생산하는 핵심 인공지능(AI) 가전 거점으로 자리매김해왔다. 광주 생산라인은 삼성전자의 15번째 글로벌 생산시설이자 글로벌 AI 데이터센터 공략을 위한 핵심 거점으로...",
+          "src": "아시아타임즈",
           "date": "08/20",
-          "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
-          "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260820500256",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
         },
         {
-          "title": "수마 할퀸 거제 복구 땀방울...삼성전자, 무상 가전 점검",
-          "desc": "냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공하고 있습니다. LG전자도 거제 고현동에 특별 서비스 거점을 마련하고 가전제품 무상 점검 수리 서비스를 지원하고 있습니다. 삼성전자는 휴대전화 점검 장비가...",
-          "src": "news",
+          "title": "\"돈벌이는 DS, 보상은 DX?\"…삼성전자 성과급 갈등이 '분사론' 불붙였다",
+          "desc": "삼성전자 디바이스솔루션(DS) 부문 분사설이 다시 수면 위로 떠올랐다. 인공지능(AI) 반도체 호황을 타고 DS와... 스마트폰 사업을 담당하는 MX를 비롯해 TV·모니터 사업의 VD, 냉장고·세탁기·에어컨 등 생활가전을...",
+          "src": "newsway",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/437/0000507031?sid=101",
-          "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/20/20260820135117943001.png"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026082012460292106",
+          "img": "https://nimage.newsway.co.kr/photo/2026/01/08/20260108000016_1200.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "에스피소프트, 딥페이크 이미지 차단 인증 기술 확보…보안시장 공략",
-          "desc": "에스피소프트(443670)는 한국전자통신연구원(ETRI)과 ‘불법촬영 이미지 비교·식별 기술’ 도입 계약을... 필터링 기술을 활용한 불법촬영물 차단 솔루션을 공급해왔다. 최근에는 생성형 인공지능(AI) 기반 딥페이크 탐지...",
-          "src": "이데일리",
+          "title": "디플리, 영국 시장 진출…AI 솔루션 독점 계약",
+          "desc": "디플리는 어쿠스틱 에이아이 시스템의 현지 네트워크를 활용해 영국 항만 분야 예지보전 시장을 우선... 영국은 AI 기술 수용도가 높고, 정부 차원에서 AI 안전연구소를 설립하는 등 도입 의지가 강하다. 디플리는 인건비...",
+          "src": "한스경제",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006354910?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000887.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858057",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858057_879014_1536_v150.jpg"
         },
         {
-          "title": "인포시즈, ‘AI 서밋 서울’ 참가…온톨로지 기반 엔터프라이즈 AI 선봬",
-          "desc": "이를 통해 AI가 기업의 업무 맥락을 이해하고 활용할 수 있는 환경을 구축한다. 특히 이번 전시에서는 AI의 판단을 ‘검증’하는 기술을 강조한다. 생성형 AI와 AI 에이전트 도입이 확대되는 가운데 단순히 AI와 기업...",
-          "src": "이데일리",
+          "title": "[전문가 칼럼] 기후위기 시대, 이제는 '적응'이 생존전략이다",
+          "desc": "적극적으로 도입, 적용할 필요가 있다. 기후가 바뀌면 농업과 수산업도 바뀌어야 한다 기후위기는... 동시에 AI(인공지능)와 디지털 기술을 적극 활용해야 한다. 정부가 AI 홍수예보 제공지점을 확대하고 내비게이션을...",
+          "src": "인더스트리뉴스",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006354907?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000884.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84718",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202608/84718_104776_266.jpg"
         },
         {
-          "title": "씨이랩, '아스트라고 파트너 서밋 2026' 성료",
-          "desc": "한국HPE는 컴퓨트(Compute) 인프라 동향과 AstraGo 연계 협력 방향을 공유하며 하드웨어 도입 단계부터 오케스트레이션 SW를 함께 검토하는 시장 흐름을 소개했다. 카이스트(KAIST) 학계 관계자는 기업의 AI 활용이...",
-          "src": "블로터",
+          "title": "현대엘리베이터·GS건설, 초고층 승강기 핵심 기술 공동 개발 나선다",
+          "desc": "인공지능(AI)을 활용한 승강기 제어 기술 등 핵심 솔루션 공동 개발에 착수한다. 현대엘리베이터는 지난 20일... 크다\"며 \"앞으로도 AI 등 첨단 기술을 도입해 건축물 이용객의 안전 및 편의성을 선제적으로 개선해 나갈 것...",
+          "src": "비즈니스플러스",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/293/0000089313?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/671380_284621_4848_v150.jpg"
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115703",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115703_114378_214_v150.jpg"
         },
         {
-          "title": "불법촬영물 사이트 6683곳 여전히 접속…정부 '사이트 자체 무력화' 나선...",
-          "desc": "인공지능(AI)을 활용한 차단 시스템도 구축한다. 불법사이트가 주소를 계속 바꾸는 이른바 '도메인 셔틀링'을 AI로 분석·예측해 자동 탐지하고 사이트 간 유사도와 불법성을 분석해 신속하게 차단하는 기술을 개발한다....",
-          "src": "한국경제",
+          "title": "대동, 미래 핵심 거점 대구공장에 '피지컬 AI' 입힌다",
+          "desc": "공정에 AI·로봇이 실제 작업을 수행하는 피지컬 AI 기술을 단계적으로 적용한다. 구체적으로 AI로 생산... 품질은 카메라와 AI를 활용한 비전검사로 불량률을 최소화하며, 공장엔 AI 에이전트를 도입해 공장 전체...",
+          "src": "더팩트",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/015/0005322798?sid=102",
-          "img": "https://img.hankyung.com/photo/202608/01.45393901.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/629/0000526117?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/08/20/20268701787208071.png"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 DX 노조 내일 대규모 집회‥\"3천 명 참여 예상\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519005?sid=101",
-      "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/20/ljm_20260820_14.jpg"
+      "title": "[거래소 외국인] \"조정은 마무리 됐다\"...삼성전자 SK하이닉스 폭풍매수",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479092",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479092_465894_352_v150.jpg"
     },
     {
-      "title": "'만점 짜리' 가사로봇 개발이 어려운 이유",
-      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87595",
-      "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87595_109487_5022.jpg"
+      "title": "삼성전자, 호주서 7년 연속 ‘가장 사랑받는 TV 브랜드’ 1위",
+      "url": "https://www.todayeconomic.com/news/article.html?no=31793",
+      "img": "https://www.todayeconomic.com/data/photos/20260834/art_1787205717363_fa0095.jpg"
     },
     {
-      "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
-      "url": "http://www.e2news.com/news/articleView.html?idxno=333388",
-      "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
+      "title": "삼성전자, HVAC에 힘준다…'광주·인도'서 생산능력 확대",
+      "url": "https://www.asiatime.co.kr/article/20260820500256",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "수마 할퀸 거제 복구 땀방울...삼성전자, 무상 가전 점검",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507031?sid=101",
-      "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/20/20260820135117943001.png"
+      "title": "\"돈벌이는 DS, 보상은 DX?\"…삼성전자 성과급 갈등이 '분사론' 불붙였다",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026082012460292106",
+      "img": "https://nimage.newsway.co.kr/photo/2026/01/08/20260108000016_1200.png"
     },
     {
-      "title": "에스피소프트, 딥페이크 이미지 차단 인증 기술 확보…보안시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/018/0006354910?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000887.jpg"
+      "title": "디플리, 영국 시장 진출…AI 솔루션 독점 계약",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858057",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858057_879014_1536_v150.jpg"
     },
     {
-      "title": "인포시즈, ‘AI 서밋 서울’ 참가…온톨로지 기반 엔터프라이즈 AI 선봬",
-      "url": "https://n.news.naver.com/mnews/article/018/0006354907?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000884.jpg"
+      "title": "[전문가 칼럼] 기후위기 시대, 이제는 '적응'이 생존전략이다",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84718",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202608/84718_104776_266.jpg"
     }
   ]
 };
