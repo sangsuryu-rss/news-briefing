@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 05:48",
+  "updatedAt": "2026.08.21 (금) 07:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[지방시대] ‘청년창업도시’로 나아가는 수원",
-          "desc": "리플라는 세계 최대 정보기술(IT)·전자 전시회인 미국소비자가전박람회(CES)에서 혁신상을 두 차례(2024·26년)... 관내 대학에서 매년 이공계 인력 수천 명이 배출되고 삼성전자 본사와 수많은 연구 기관에서 일하는 연구...",
-          "src": "서울신문",
+          "title": "\"지금이 체질 개선 기회\"…삼성·SK하이닉스 '내부 정비' 속도",
+          "desc": "메모리 가격 상승은 반도체(DS) 사업에는 실적 개선 요인이지만 스마트폰·TV·가전 등 완제품(DX) 사업에는 부품 원가 상승으로 돌아오기 때문이다. 실제로 삼성전자의 DX 부문은 부품 원가 상승과 전방 수요 회복 지연...",
+          "src": "뉴스1",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/081/0003672132?sid=110",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/21/SSC_20260821000719_O2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009124940?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2025/12/30/7674083/high.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
         },
         {
-          "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
-          "desc": "삼성전자 역시 무료 스트리밍 서비스인 ‘삼성 TV 플러스’를 무기로 시장을 확장하고 있다. 광고를 보는... 영국 연구·혁신 재단 네스타(NESTA)는 “향후 화면을 갖춘 세탁기, 오븐, 전자레인지 등도 새로운 광고 매체가...",
-          "src": "조선일보",
+          "title": "[비즈&플러스] 로봇에 힘 싣는 삼성·LG‥편의점 '스몰 밀' 인기",
+          "desc": "자체 제작한 LG클로이드를 투입해 가정처럼 꾸민 공간에서 청소를 시키고 미국 테네시 세탁기 공장 공정을... \" 삼성전자도 로봇분야에 힘을 싣고 있습니다. 자회사 레인보우로보틱스의 협동로봇, 양팔로봇, 자율이동로봇...",
+          "src": "imnews",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
+          "url": "https://n.news.naver.com/mnews/article/214/0001519208?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/21/today_20260821_073818_2_31_Large.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "진단·치료부터 돌봄까지…KHF 달군 디지털헬스케어 특별관",
-          "desc": "이를 도입해 뇌졸중 환자의 생존율을 높이는 데 실질적인 도움을 주고 있다\"고 전했다.코어라인소프트는... 폐암과 관상동맥 질환 등 주요 흉부 질환을 AI로 동시 분석해 자동화된 리포트를 제공하는 기술이다....",
-          "src": "medicaltimes",
+          "title": "먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 확인…민감도 ...",
+          "desc": "연구팀은 이 원리를 활용해 2024년 삼킴 직후 목소리만으로 흡인 위험군과 정상군을 구분하는 AI 모델을... 이에 연구팀은 모든 음성 데이터를 2초 단위로 자동 분할해 표준화하는 방식을 도입한 바 있다. 나아가 자동...",
+          "src": "medicalworldnews",
           "date": "08/21",
-          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170301&ref=naverpc",
-          "img": "https://pds.medicaltimes.com/Thumnail/20260820/1787216800.jpg"
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976735",
+          "img": ""
         },
         {
-          "title": "AI데이터센터 급증… 개발자만큼 귀해 ‘전기·냉각 숙련공’",
-          "desc": "[본 이미지는 AI 기술을 활용해 제작되었습니다.] 국제에너지기구(IEA)에 따르면 AI 서버의 전력밀도는... 교육부도 지방 대학과 기업이 협약해 정원 외 선발과 전과 등을 허용하는 ‘인재양성 신속트랙제’ 도입을...",
-          "src": "이데일리",
+          "title": "\"오 노! AI 시대에 MLB에서 이런 일이…\" 돈돈돈, 돈 때문이야, 30호 역전...",
+          "desc": "뒤집기에는 기술적 한계가 명확했다. ▶알론소·알버나즈 감독 \"축구·NFL처럼 레이저나 AI 트래킹 도입해야... 다른 종목이나 팀들은 AI와 볼 트래킹 데이터를 비디오 판독에 활용하는데, 왜 MLB는 하지 않는지 이해할 수...",
+          "src": "조선일보",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082100048.jpg"
+          "url": "https://m.sports.naver.com/wbaseball/article/076/0004437914",
+          "img": "https://www.sportschosun.com/article/html/2026/08/21/2026082101001237700078541.jpg"
         },
         {
-          "title": "“보조 수단 넘어선 디지털 헬스케어, 의료제도 개편에 적극 활용해야”...",
-          "desc": "하지만 인공지능(AI)과 디지털 기술이 의료 현장에 빠르게 이식되고 시장이 폭발적으로 커진 지금, 디지털... 디지털 헬스케어란 지능정보기술과 보건의료정보를 활용해 질병의 예방, 진단, 치료, 생애주기별 건강관리...",
-          "src": "한겨레",
+          "title": "강용남 HP코리아 대표 \"AI가 사람 돕는 일의 미래 만든다\" [인터뷰]",
+          "desc": "도구로 활용되는 방향으로 나아갈 것이라는 전망이 나왔다. AI의 혜택을 극대화하려면 단순한 기술 도입을 넘어 조직 차원의 준비도 필요하다는 지적이다. HP는 이러한 '일의 미래'를 지원하기 위해 조직 내 AI 기술 활용...",
+          "src": "조선일보",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/028/0002819517?sid=103",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0819/20260819504009.webp"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168555",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168555_450633_4547_v150.jpg"
         },
         {
-          "title": "“키워 쓸 바엔 안 뽑는다”…AI에 더 좁아진 20대 취업문",
-          "desc": "인공지능(AI)이 신입이 맡던 기초 업무를 빠르게 대체하면서 나타난 변화다. ‘첫 직장→숙련... M&A·JV·외부 기술 도입을 활용해 시장 진입 속도를 높이면서 경력직의 즉시 전력화 수요가 커졌다”고 설명했다....",
-          "src": "한국경제",
+          "title": "[N2 포커스] AI 올라탄 항공업계…정비·운항 넓혀도 마지막 판단은 '사...",
+          "desc": "사내 위험물 관련 규정과 정보를 기반으로 필요한 내용을 찾아주는 J-RAG도 개발해 활용하고 있으며, 앞서 아마존웹서비스(AWS)와 협력해 항공기 정비 분야 AI 기술 도입도 추진했다. 제주항공 관계자는 <뉴스투데이>에...",
+          "src": "news2day",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/050/0000109926?sid=101",
-          "img": "https://static.hankyung.com/photo/202608/AD.45384690.1.jpg"
+          "url": "https://www.news2day.co.kr/article/20260820500214",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500251.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[지방시대] ‘청년창업도시’로 나아가는 수원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672132?sid=110",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/21/SSC_20260821000719_O2.jpg"
+      "title": "\"지금이 체질 개선 기회\"…삼성·SK하이닉스 '내부 정비' 속도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009124940?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2025/12/30/7674083/high.jpg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
+      "title": "[비즈&플러스] 로봇에 힘 싣는 삼성·LG‥편의점 '스몰 밀' 인기",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519208?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/21/today_20260821_073818_2_31_Large.jpg"
     },
     {
-      "title": "진단·치료부터 돌봄까지…KHF 달군 디지털헬스케어 특별관",
-      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170301&ref=naverpc",
-      "img": "https://pds.medicaltimes.com/Thumnail/20260820/1787216800.jpg"
+      "title": "\"오 노! AI 시대에 MLB에서 이런 일이…\" 돈돈돈, 돈 때문이야, 30호 역전...",
+      "url": "https://m.sports.naver.com/wbaseball/article/076/0004437914",
+      "img": "https://www.sportschosun.com/article/html/2026/08/21/2026082101001237700078541.jpg"
     },
     {
-      "title": "AI데이터센터 급증… 개발자만큼 귀해 ‘전기·냉각 숙련공’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082100048.jpg"
+      "title": "강용남 HP코리아 대표 \"AI가 사람 돕는 일의 미래 만든다\" [인터뷰]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168555",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168555_450633_4547_v150.jpg"
     }
   ]
 };
