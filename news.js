@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 01:52",
+  "updatedAt": "2026.08.21 (금) 04:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "교회 문턱 낮추고 봉사 부담 덜고… 맞춤형 무인카페 확산",
+          "desc": "도입 사례도 점차 늘고 있다. 정 대표는 이번 달까지 10여개 교회에서 자사 장비를 활용한 무인 카페를 운영... 머신이 정해진 정량과 레시피에 맞춰 추출하기 때문에 봉사자가 별도의 제조 기술을 배울 필요가 없다. 관리...",
+          "src": "kmib",
+          "date": "08/21",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868148?sid=103",
+          "img": "https://image.kmib.co.kr/online_image/2026/0821/01100201.20260820501724.jpg"
+        },
+        {
+          "title": "바이낸스 ‘블록체인 위크 2026’···11월 방콕서 ‘금융의 진화’ 조...",
+          "desc": "유의미하게 활용하도록 하기 위해 업계에 필요한 과제를 모색할 것이다. 대중화는 국경 간 결제, 토큰화 증권 거래, 디지털 포트폴리오 관리 등 기술이 일상에 자연스럽게 녹아들 만큼 단순하고 매끄러워질 때...",
+          "src": "sports",
+          "date": "08/21",
+          "url": "https://n.news.naver.com/mnews/article/144/0001133028?sid=105",
+          "img": ""
+        },
+        {
+          "title": "대동, 대구공장 피지컬 AI 기반 생산기지로 탈바꿈한다",
+          "desc": "AI 기술을 단계적으로 적용한다. AI로 생산 순서와 공정 운영을 최적화하고, AMR과 로봇 설비를 활용해 자재... 지원하는 AI 에이전트(Agent)를 단계적으로 도입한다. 향후 공장 운영센터에서 공장 전체의 생산·품질·설비...",
+          "src": "서울신문",
+          "date": "08/21",
+          "url": "http://www.metroseoul.co.kr/article/20260820500471",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500472.jpg"
+        },
+        {
           "title": "코어위브, 허드슨리버트레이딩과 대규모 AI클라우드 계약…베라 루빈 첫...",
           "desc": "계약에 따라 HRT는 코어위브의 AI 클라우드 플랫폼을 활용해 차세대 트레이딩 연구와 모델 개발을... 환경에서 AI를 프로덕션에 도입하는 기준을 세우고 있는 회사”라고 말했다. 그는 “코어위브는 진지한 AI...",
           "src": "wikitree",
           "date": "08/21",
           "url": "https://www.wikitree.co.kr/articles/1153759",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/21/202608210018441533_ai.jpeg"
-        },
-        {
-          "title": "[오피니언] 인공지능 도입과 일자리 구조의 변화",
-          "desc": "기술에는 양면성이 존재하며, 문제는 기술 자체가 아니라 인간의 기술 활용방식이다. AI 도입을 거부한다면, 힘들고 지루한 노동이 계속되고, 경쟁력도 잃어 더 큰 고용불안이 닥칠 수도 있다. 반면 현재 많은 기업이 AI...",
-          "src": "worknworld",
-          "date": "08/21",
-          "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509848",
-          "img": "https://cdn.worknworld.kctu.org/news/thumbnail/202608/509848_139992_5556_v150.jpg"
-        },
-        {
-          "title": "한인교 더블유에이에치케이 대표 ‘세계신지식인’ 선정…제조·법률·...",
-          "desc": "이날 AI 기술을 활용해 산업 현장의 의사결정을 지원하고 생성형 AI의 신뢰성을 높이는 기술을 개발해 온... AI 경쟁축, ‘더 큰 모델’에서 ‘더 믿을 수 있는 결과’생성형 AI 시장에서는 최근 기업들의 AI 도입이...",
-          "src": "asiatoday",
-          "date": "08/21",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260821000044335",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/21d/20260821000044335_1787241164_1.png"
-        },
-        {
-          "title": "[신(新)인물탐구(55)] 두산그룹 박정원 회장⑥ 기업 문화 - 변화는 빨랐...",
-          "desc": "직급 체계를 축소하고, 유연한 근무제도를 도입하며, 구성원의 자율적인 의사결정을 확대한다. 그러나... 대표적인 사례가 디지털 전환과 AI 활용이다. 새로운 기술이 등장할 때마다 모든 업무를 최고경영자가 통제하는...",
-          "src": "news2day",
-          "date": "08/21",
-          "url": "https://www.news2day.co.kr/article/20260820500161",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500185.png"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "biz",
           "date": "08/20",
           "url": "https://n.news.naver.com/mnews/article/374/0000528483?sid=101",
-          "img": ""
+          "img": "https://biz.sbs.co.kr/storage/img/video/2026/7/4/1787210748070fec3d5ljzg.jpg"
         },
         {
           "title": "[분석] 한번 빠져나가면 되돌릴 수 없다…대한민국 핵심기술 '유출 비상...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
     },
     {
-      "title": "코어위브, 허드슨리버트레이딩과 대규모 AI클라우드 계약…베라 루빈 첫...",
-      "url": "https://www.wikitree.co.kr/articles/1153759",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/21/202608210018441533_ai.jpeg"
+      "title": "교회 문턱 낮추고 봉사 부담 덜고… 맞춤형 무인카페 확산",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868148?sid=103",
+      "img": "https://image.kmib.co.kr/online_image/2026/0821/01100201.20260820501724.jpg"
     },
     {
-      "title": "[오피니언] 인공지능 도입과 일자리 구조의 변화",
-      "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509848",
-      "img": "https://cdn.worknworld.kctu.org/news/thumbnail/202608/509848_139992_5556_v150.jpg"
+      "title": "대동, 대구공장 피지컬 AI 기반 생산기지로 탈바꿈한다",
+      "url": "http://www.metroseoul.co.kr/article/20260820500471",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500472.jpg"
     }
   ]
 };
