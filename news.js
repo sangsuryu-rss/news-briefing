@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 23:56",
+  "updatedAt": "2026.08.21 (금) 01:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한마음으로 복구 지원...일상 회복 안간힘",
-          "desc": "침수 피해로 일상적인 생활도 막막했던 수재민들에게 가전 무료 수리 봉사단과 세탁 버스는 가뭄의 단비 같은 존재입니다. [김유신 / 삼성전자 통영서비스센터 센터장 : 주로 1층에 보관했던 냉장고, 에어컨 제품들이...",
-          "src": "ytn",
-          "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
+          "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
+          "desc": "가전업체, 광고·콘텐츠 사업 키운다 거실의 스마트TV부터 주방의 냉장고, 전자레인지에 이르기까지 집... 삼성전자 역시 무료 스트리밍 서비스인 ‘삼성 TV 플러스’를 무기로 시장을 확장하고 있다. 광고를 보는 대신...",
+          "src": "조선일보",
+          "date": "08/21",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
         },
         {
-          "title": "‘기습 폭우’ 거제·통영에 온정 쏟아졌다",
-          "desc": "삼성전자서비스는 거제시 일대에 ‘수해 복구 특별 서비스팀’을 파견해 브랜드와 상관없이 침수된 에어컨과 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 지원하고 있다. LG전자는 하루 앞선 지난 18일부터...",
-          "src": "knnews",
+          "title": "한마음으로 복구 지원...일상 회복 안간힘",
+          "desc": "침수 피해로 일상적인 생활도 막막했던 수재민들에게 가전 무료 수리 봉사단과 세탁 버스는 가뭄의 단비 같은 존재입니다. [김유신 / 삼성전자 통영서비스센터 센터장 : 주로 1층에 보관했던 냉장고, 에어컨 제품들이...",
+          "src": "ytn",
           "date": "08/20",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549056",
-          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549056_520_images.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "창원, 에너지 소비도시에서 생산도시로…‘청정에너지 수도’ 전환",
-          "desc": "가상발전소(VPP)와 수요반응(DR) 등 스마트에너지 기술도 도입해 발전량과 전력 사용량을 실시간으로... (DTG)과 AI를 활용한 평가체계를 도입한다. 종사자 운행시간을 전면 분석해 열악한 노선은 완화하고 휴게시간이...",
-          "src": "kukinews",
-          "date": "08/20",
-          "url": "https://www.kukinews.com/article/view/kuk202608200244",
-          "img": ""
+          "title": "코어위브, 허드슨리버트레이딩과 대규모 AI클라우드 계약…베라 루빈 첫...",
+          "desc": "계약에 따라 HRT는 코어위브의 AI 클라우드 플랫폼을 활용해 차세대 트레이딩 연구와 모델 개발을... 환경에서 AI를 프로덕션에 도입하는 기준을 세우고 있는 회사”라고 말했다. 그는 “코어위브는 진지한 AI...",
+          "src": "wikitree",
+          "date": "08/21",
+          "url": "https://www.wikitree.co.kr/articles/1153759",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/21/202608210018441533_ai.jpeg"
         },
         {
-          "title": "신한은행, 중저신용 고객 위한 '슈퍼SOL중금리대출' 출시 外",
-          "desc": "신한은행은 지난 2026년 3월 자체 개발해 도입한 '서민 대안신용평가모형'을 적용해 기존 금융정보만으로는... 금융 문서 영역에서는 AI 기술 등을 활용해 전자점자 변환 기술을 발전시키는 등 접근성 개선을 서비스와...",
-          "src": "rcast",
-          "date": "08/20",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31483",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31483_60966_4731_v150.jpg"
+          "title": "[오피니언] 인공지능 도입과 일자리 구조의 변화",
+          "desc": "기술에는 양면성이 존재하며, 문제는 기술 자체가 아니라 인간의 기술 활용방식이다. AI 도입을 거부한다면, 힘들고 지루한 노동이 계속되고, 경쟁력도 잃어 더 큰 고용불안이 닥칠 수도 있다. 반면 현재 많은 기업이 AI...",
+          "src": "worknworld",
+          "date": "08/21",
+          "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509848",
+          "img": "https://cdn.worknworld.kctu.org/news/thumbnail/202608/509848_139992_5556_v150.jpg"
         },
         {
-          "title": "K-뷰티 세계 1위 도약 뒷받침…화장품산업 육성법 국회 통과",
-          "desc": "◆혁신형 화장품기업 인증제 도입…중소·중견기업 우대 연구개발 투자와 해외시장 진출 역량 등을 갖춘... 정부는 연구개발과 데이터·인공지능(AI) 등 디지털 기술을 활용한 산업 혁신, 전문 인력 양성, 원료·용기 산업...",
-          "src": "medicalworldnews",
-          "date": "08/20",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976733",
-          "img": ""
+          "title": "한인교 더블유에이에치케이 대표 ‘세계신지식인’ 선정…제조·법률·...",
+          "desc": "이날 AI 기술을 활용해 산업 현장의 의사결정을 지원하고 생성형 AI의 신뢰성을 높이는 기술을 개발해 온... AI 경쟁축, ‘더 큰 모델’에서 ‘더 믿을 수 있는 결과’생성형 AI 시장에서는 최근 기업들의 AI 도입이...",
+          "src": "asiatoday",
+          "date": "08/21",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260821000044335",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/21d/20260821000044335_1787241164_1.png"
         },
         {
-          "title": "한독, 에이슬립과 '크로노트랙' 국내 유통·판매 계약 체결",
-          "desc": "사진=한독 한독(대표 김영진·백진기)이 수면 AI(인공지능) 기반 디지털의료기기를 도입하며 불면증 치료에... 현장에서 활용도가 높지 않다는 한계가 있다고 한다. 크로노트랙은 일상생활에서 수면 기록과 모니터링을...",
-          "src": "bizwnews",
-          "date": "08/20",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=143861",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143861_160751_5757_v150.jpg"
+          "title": "[신(新)인물탐구(55)] 두산그룹 박정원 회장⑥ 기업 문화 - 변화는 빨랐...",
+          "desc": "직급 체계를 축소하고, 유연한 근무제도를 도입하며, 구성원의 자율적인 의사결정을 확대한다. 그러나... 대표적인 사례가 디지털 전환과 AI 활용이다. 새로운 기술이 등장할 때마다 모든 업무를 최고경영자가 통제하는...",
+          "src": "news2day",
+          "date": "08/21",
+          "url": "https://www.news2day.co.kr/article/20260820500161",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500185.png"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "biz",
           "date": "08/20",
           "url": "https://n.news.naver.com/mnews/article/374/0000528483?sid=101",
-          "img": "https://biz.sbs.co.kr/storage/img/video/2026/7/4/1787210748070fec3d5ljzg.jpg"
+          "img": ""
         },
         {
           "title": "[분석] 한번 빠져나가면 되돌릴 수 없다…대한민국 핵심기술 '유출 비상...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "한마음으로 복구 지원...일상 회복 안간힘",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
+      "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "‘기습 폭우’ 거제·통영에 온정 쏟아졌다",
-      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549056",
-      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549056_520_images.jpg"
+      "title": "한마음으로 복구 지원...일상 회복 안간힘",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
     },
     {
-      "title": "신한은행, 중저신용 고객 위한 '슈퍼SOL중금리대출' 출시 外",
-      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31483",
-      "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31483_60966_4731_v150.jpg"
+      "title": "코어위브, 허드슨리버트레이딩과 대규모 AI클라우드 계약…베라 루빈 첫...",
+      "url": "https://www.wikitree.co.kr/articles/1153759",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/21/202608210018441533_ai.jpeg"
     },
     {
-      "title": "한독, 에이슬립과 '크로노트랙' 국내 유통·판매 계약 체결",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=143861",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143861_160751_5757_v150.jpg"
+      "title": "[오피니언] 인공지능 도입과 일자리 구조의 변화",
+      "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509848",
+      "img": "https://cdn.worknworld.kctu.org/news/thumbnail/202608/509848_139992_5556_v150.jpg"
     }
   ]
 };
