@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 12:11",
+  "updatedAt": "2026.08.20 (목) 14:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 호주서 7년 연속 '가장 사랑받는 TV 브랜드' 선정",
-          "desc": "퍼블릭타임스=삼성전자가 호주 소비자 만족도 조사에서 TV를 비롯해 모바일과 생활가전 분야의 주요 평가를 휩쓸며 현지 시장에서의 브랜드 경쟁력을 입증했다. TV 부문에서는 7년 연속 '가장 사랑받는 브랜드'에...",
-          "src": "public25",
+          "title": "삼성전자 DX 노조 내일 대규모 집회‥\"3천 명 참여 예상\"",
+          "desc": "삼성전자 스마트폰, 가전 등 DX 부문 중심 노동조합 '동행'이 반도체 DS 부문과의 보상 격차에 항의하는 대규모 집회를 엽니다. 동행노조는 \"내일 오후 3시부터 서울 강남구 삼성전자 서초사옥 인근에서 집회를 열 예정...",
+          "src": "imnews",
           "date": "08/20",
-          "url": "https://www.public25.com/news/articleView.html?idxno=53011",
-          "img": "https://cdn.public25.com/news/photo/202608/53011_53015_5743.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001519005?sid=101",
+          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/20/ljm_20260820_14.jpg"
+        },
+        {
+          "title": "'만점 짜리' 가사로봇 개발이 어려운 이유",
+          "desc": "삼성전자는 올해 CES에서 AI 가전과 로봇청소기 등을 연결한 'Home Companion' 비전을 제시했으며, 삼성 계열 레인보우로보틱스는 휴머노이드 기술을 기반으로 산업용 협동·모바일 로봇 사업을 확대하고 있다. 다만 화려한...",
+          "src": "ekoreanews",
+          "date": "08/20",
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87595",
+          "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87595_109487_5022.jpg"
         },
         {
           "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
         },
         {
-          "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
-          "desc": "삼성전자서비스는 지난 19일부터 거제에 수해 복구 특별 서비스팀을 투입했다. 둔덕면사무소 인근에 이동형 서비스센터를 설치하고 침수된 냉장고와 세탁기, 에어컨 등을 세척하고 무상 점검하고 있다. 서비스...",
-          "src": "조선일보",
+          "title": "수마 할퀸 거제 복구 땀방울...삼성전자, 무상 가전 점검",
+          "desc": "냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공하고 있습니다. LG전자도 거제 고현동에 특별 서비스 거점을 마련하고 가전제품 무상 점검 수리 서비스를 지원하고 있습니다. 삼성전자는 휴대전화 점검 장비가...",
+          "src": "news",
           "date": "08/20",
-          "url": "https://futurechosun.com/?p=158034",
-          "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
-        },
-        {
-          "title": "RI Korea, 한·일 국제 워크숍 통해 '장애인 디지털 접근성 향상 방안' 모...",
-          "desc": "단말기나 가전제품 등 생활과 밀접한 주요 제품군에 대해서는 아직 제도적 공백이 존재한다\"고 설명했다.... 기업 사례 발표에서는 백인호 삼성전자 프로, 정승현 LG전자 팀장, 김혜일 카카오 DAO, 김정현 Business School...",
-          "src": "ablenews",
-          "date": "08/20",
-          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232744",
-          "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232744_129621_5247_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/437/0000507031?sid=101",
+          "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/20/20260820135117943001.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "메리츠증권, 투자정보도 AI에 묻는다…'MOUM'에 위불 Vega AI 탑재",
-          "desc": "메리츠증권과 위불은 기술 도입을 넘어 양사가 보유한 AI와 금융 콘텐츠를 활용해 아시아·태평양 지역의 AI 투자 콘텐츠와 플랫폼 사업도 공동 추진할 계획이다. 이장욱 메리츠증권 이노비즈본부장은 Vega AI 도입에...",
-          "src": "e-science",
-          "date": "08/20",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133812",
-          "img": "https://cdn.e-science.co.kr/news/photo/202608/133812_66240_921.jpg"
-        },
-        {
-          "title": "대기업 제조사 84% “피지컬 AI 도입했거나 계획” … 생산성 32% 향상 기...",
-          "desc": "기술과 비용뿐 아니라 노사갈등도 피지컬 AI 확산의 걸림돌로 지목됐다. 도입·활용 과정의 어려움으로는 ‘기술적 불안정성 및 시스템 불안에 따른 리스크’가 34.5%로 가장 많았다. ‘투자비용 대비 수익성에...",
-          "src": "biz",
-          "date": "08/20",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000079.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/20/2026082000079_0.jpg"
-        },
-        {
-          "title": "남동발전, 2026 '미국 실리콘밸리 국제발명페스티벌' 5관왕 쾌거",
-          "desc": "본 기술은 진공 탈기 방식을 도입해 물 흡수부터 투입·회수까지 전 과정을 자동화하며 현장의 불편을... 이어 금상과 중국발명협회 특별상을 수상한 '공공데이터 활용 AI 안전 웹 플랫폼'은 안전관리 실무자가 별도의...",
-          "src": "epj",
-          "date": "08/20",
-          "url": "http://www.epj.co.kr/news/articleView.html?idxno=39203",
-          "img": "http://www.epj.co.kr/news/thumbnail/202608/39203_51674_325_v150.jpg"
-        },
-        {
-          "title": "[르포]‘탄소 중립’ 선언한 세계 최대 배터리 업체, 저탄소 경쟁 본격...",
-          "desc": "개발·도입했다”면서 “자동화율을 95% 이상으로 높여 생산 효율을 높인 것도 특징”이라고 설명했다. 특히 생산 과정에서 발생하는 폐기물과 사용 후 배터리를 회수해 핵심 소재를 다시 활용한다. 회사측에 따르면...",
+          "title": "에스피소프트, 딥페이크 이미지 차단 인증 기술 확보…보안시장 공략",
+          "desc": "에스피소프트(443670)는 한국전자통신연구원(ETRI)과 ‘불법촬영 이미지 비교·식별 기술’ 도입 계약을... 필터링 기술을 활용한 불법촬영물 차단 솔루션을 공급해왔다. 최근에는 생성형 인공지능(AI) 기반 딥페이크 탐지...",
           "src": "이데일리",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006354861?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000773.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006354910?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000887.jpg"
+        },
+        {
+          "title": "인포시즈, ‘AI 서밋 서울’ 참가…온톨로지 기반 엔터프라이즈 AI 선봬",
+          "desc": "이를 통해 AI가 기업의 업무 맥락을 이해하고 활용할 수 있는 환경을 구축한다. 특히 이번 전시에서는 AI의 판단을 ‘검증’하는 기술을 강조한다. 생성형 AI와 AI 에이전트 도입이 확대되는 가운데 단순히 AI와 기업...",
+          "src": "이데일리",
+          "date": "08/20",
+          "url": "https://n.news.naver.com/mnews/article/018/0006354907?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000884.jpg"
+        },
+        {
+          "title": "씨이랩, '아스트라고 파트너 서밋 2026' 성료",
+          "desc": "한국HPE는 컴퓨트(Compute) 인프라 동향과 AstraGo 연계 협력 방향을 공유하며 하드웨어 도입 단계부터 오케스트레이션 SW를 함께 검토하는 시장 흐름을 소개했다. 카이스트(KAIST) 학계 관계자는 기업의 AI 활용이...",
+          "src": "블로터",
+          "date": "08/20",
+          "url": "https://n.news.naver.com/mnews/article/293/0000089313?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/671380_284621_4848_v150.jpg"
+        },
+        {
+          "title": "불법촬영물 사이트 6683곳 여전히 접속…정부 '사이트 자체 무력화' 나선...",
+          "desc": "인공지능(AI)을 활용한 차단 시스템도 구축한다. 불법사이트가 주소를 계속 바꾸는 이른바 '도메인 셔틀링'을 AI로 분석·예측해 자동 탐지하고 사이트 간 유사도와 불법성을 분석해 신속하게 차단하는 기술을 개발한다....",
+          "src": "한국경제",
+          "date": "08/20",
+          "url": "https://n.news.naver.com/mnews/article/015/0005322798?sid=102",
+          "img": "https://img.hankyung.com/photo/202608/01.45393901.1.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[분석] 한번 빠져나가면 되돌릴 수 없다…대한민국 핵심기술 '유출 비상...",
+          "desc": "삼성전자나 SK하이닉스처럼 자체 보안조직과 대규모 투자가 가능한 기업만 생각해서는 국내 산업기술... 반도체와 배터리, 조선처럼 수많은 협력사가 하나의 산업생태계를 구성하는 분야에서는 어느 한 기업의 보안...",
+          "src": "polinews",
+          "date": "08/20",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740719",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/740719_562438_4157_v150.jpg"
+        },
         {
           "title": "[총수家] 최태원 SK그룹 회장 ⑦ㅣ 엔비디아·앤트로픽·빌 게이츠와 잇...",
           "desc": "SK하이닉스는 이번 착공식 일정을 확정하고, 주요 고객사와 협력사를 대상으로 초청장을 발송하는 등... 최근 하워드 러트닉 상무장관이 삼성전자와 SK하이닉스를 향해 미국 내 메모리 생산 확대를 촉구하는 등, 미국...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "http://www.breaknews.com/1230098",
           "img": "https://honam.breaknews.com/imgdata/honam_breaknews_com/202608/2026082015167343.jpg"
-        },
-        {
-          "title": "13조 쏟는 마이크론 히로시마 팹, 평택·청주 독주 흔든다",
-          "desc": "글로벌 인공지능(AI) 반도체 공급 부족이 장기화하는 가운데 삼성전자와 SK하이닉스가 주도해 온 첨단... 히로시마 라인은 공장 가동에 들어가는 소재·부품의 80%가량을 일본 협력사에서 직접 공급받는다. 일본...",
-          "src": "g-enews",
-          "date": "08/20",
-          "url": "https://www.g-enews.com/view.php?ud=202608200716363482fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082007270502372fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 호주서 7년 연속 '가장 사랑받는 TV 브랜드' 선정",
-      "url": "https://www.public25.com/news/articleView.html?idxno=53011",
-      "img": "https://cdn.public25.com/news/photo/202608/53011_53015_5743.jpg"
+      "title": "삼성전자 DX 노조 내일 대규모 집회‥\"3천 명 참여 예상\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519005?sid=101",
+      "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/20/ljm_20260820_14.jpg"
+    },
+    {
+      "title": "'만점 짜리' 가사로봇 개발이 어려운 이유",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87595",
+      "img": "https://cdn.ekoreanews.co.kr/news/photo/202608/87595_109487_5022.jpg"
     },
     {
       "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
     },
     {
-      "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
-      "url": "https://futurechosun.com/?p=158034",
-      "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
+      "title": "수마 할퀸 거제 복구 땀방울...삼성전자, 무상 가전 점검",
+      "url": "https://n.news.naver.com/mnews/article/437/0000507031?sid=101",
+      "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/08/20/20260820135117943001.png"
     },
     {
-      "title": "RI Korea, 한·일 국제 워크숍 통해 '장애인 디지털 접근성 향상 방안' 모...",
-      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232744",
-      "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232744_129621_5247_v150.jpg"
+      "title": "에스피소프트, 딥페이크 이미지 차단 인증 기술 확보…보안시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354910?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000887.jpg"
     },
     {
-      "title": "메리츠증권, 투자정보도 AI에 묻는다…'MOUM'에 위불 Vega AI 탑재",
-      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133812",
-      "img": "https://cdn.e-science.co.kr/news/photo/202608/133812_66240_921.jpg"
-    },
-    {
-      "title": "대기업 제조사 84% “피지컬 AI 도입했거나 계획” … 생산성 32% 향상 기...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000079.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/20/2026082000079_0.jpg"
+      "title": "인포시즈, ‘AI 서밋 서울’ 참가…온톨로지 기반 엔터프라이즈 AI 선봬",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354907?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000884.jpg"
     }
   ]
 };
