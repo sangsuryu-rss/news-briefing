@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 04:01",
+  "updatedAt": "2026.08.21 (금) 05:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
-          "desc": "가전업체, 광고·콘텐츠 사업 키운다 거실의 스마트TV부터 주방의 냉장고, 전자레인지에 이르기까지 집... 삼성전자 역시 무료 스트리밍 서비스인 ‘삼성 TV 플러스’를 무기로 시장을 확장하고 있다. 광고를 보는 대신...",
-          "src": "조선일보",
+          "title": "[지방시대] ‘청년창업도시’로 나아가는 수원",
+          "desc": "리플라는 세계 최대 정보기술(IT)·전자 전시회인 미국소비자가전박람회(CES)에서 혁신상을 두 차례(2024·26년)... 관내 대학에서 매년 이공계 인력 수천 명이 배출되고 삼성전자 본사와 수많은 연구 기관에서 일하는 연구...",
+          "src": "서울신문",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
+          "url": "https://n.news.naver.com/mnews/article/081/0003672132?sid=110",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/21/SSC_20260821000719_O2.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
         },
         {
-          "title": "한마음으로 복구 지원...일상 회복 안간힘",
-          "desc": "침수 피해로 일상적인 생활도 막막했던 수재민들에게 가전 무료 수리 봉사단과 세탁 버스는 가뭄의 단비 같은 존재입니다. [김유신 / 삼성전자 통영서비스센터 센터장 : 주로 1층에 보관했던 냉장고, 에어컨 제품들이...",
-          "src": "ytn",
-          "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
+          "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
+          "desc": "삼성전자 역시 무료 스트리밍 서비스인 ‘삼성 TV 플러스’를 무기로 시장을 확장하고 있다. 광고를 보는... 영국 연구·혁신 재단 네스타(NESTA)는 “향후 화면을 갖춘 세탁기, 오븐, 전자레인지 등도 새로운 광고 매체가...",
+          "src": "조선일보",
+          "date": "08/21",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "교회 문턱 낮추고 봉사 부담 덜고… 맞춤형 무인카페 확산",
-          "desc": "도입 사례도 점차 늘고 있다. 정 대표는 이번 달까지 10여개 교회에서 자사 장비를 활용한 무인 카페를 운영... 머신이 정해진 정량과 레시피에 맞춰 추출하기 때문에 봉사자가 별도의 제조 기술을 배울 필요가 없다. 관리...",
-          "src": "kmib",
+          "title": "진단·치료부터 돌봄까지…KHF 달군 디지털헬스케어 특별관",
+          "desc": "이를 도입해 뇌졸중 환자의 생존율을 높이는 데 실질적인 도움을 주고 있다\"고 전했다.코어라인소프트는... 폐암과 관상동맥 질환 등 주요 흉부 질환을 AI로 동시 분석해 자동화된 리포트를 제공하는 기술이다....",
+          "src": "medicaltimes",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868148?sid=103",
-          "img": "https://image.kmib.co.kr/online_image/2026/0821/01100201.20260820501724.jpg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170301&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260820/1787216800.jpg"
         },
         {
-          "title": "바이낸스 ‘블록체인 위크 2026’···11월 방콕서 ‘금융의 진화’ 조...",
-          "desc": "유의미하게 활용하도록 하기 위해 업계에 필요한 과제를 모색할 것이다. 대중화는 국경 간 결제, 토큰화 증권 거래, 디지털 포트폴리오 관리 등 기술이 일상에 자연스럽게 녹아들 만큼 단순하고 매끄러워질 때...",
-          "src": "sports",
+          "title": "AI데이터센터 급증… 개발자만큼 귀해 ‘전기·냉각 숙련공’",
+          "desc": "[본 이미지는 AI 기술을 활용해 제작되었습니다.] 국제에너지기구(IEA)에 따르면 AI 서버의 전력밀도는... 교육부도 지방 대학과 기업이 협약해 정원 외 선발과 전과 등을 허용하는 ‘인재양성 신속트랙제’ 도입을...",
+          "src": "이데일리",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/144/0001133028?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082100048.jpg"
         },
         {
-          "title": "대동, 대구공장 피지컬 AI 기반 생산기지로 탈바꿈한다",
-          "desc": "AI 기술을 단계적으로 적용한다. AI로 생산 순서와 공정 운영을 최적화하고, AMR과 로봇 설비를 활용해 자재... 지원하는 AI 에이전트(Agent)를 단계적으로 도입한다. 향후 공장 운영센터에서 공장 전체의 생산·품질·설비...",
-          "src": "서울신문",
+          "title": "“보조 수단 넘어선 디지털 헬스케어, 의료제도 개편에 적극 활용해야”...",
+          "desc": "하지만 인공지능(AI)과 디지털 기술이 의료 현장에 빠르게 이식되고 시장이 폭발적으로 커진 지금, 디지털... 디지털 헬스케어란 지능정보기술과 보건의료정보를 활용해 질병의 예방, 진단, 치료, 생애주기별 건강관리...",
+          "src": "한겨레",
           "date": "08/21",
-          "url": "http://www.metroseoul.co.kr/article/20260820500471",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500472.jpg"
+          "url": "https://n.news.naver.com/mnews/article/028/0002819517?sid=103",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0819/20260819504009.webp"
         },
         {
-          "title": "코어위브, 허드슨리버트레이딩과 대규모 AI클라우드 계약…베라 루빈 첫...",
-          "desc": "계약에 따라 HRT는 코어위브의 AI 클라우드 플랫폼을 활용해 차세대 트레이딩 연구와 모델 개발을... 환경에서 AI를 프로덕션에 도입하는 기준을 세우고 있는 회사”라고 말했다. 그는 “코어위브는 진지한 AI...",
-          "src": "wikitree",
+          "title": "“키워 쓸 바엔 안 뽑는다”…AI에 더 좁아진 20대 취업문",
+          "desc": "인공지능(AI)이 신입이 맡던 기초 업무를 빠르게 대체하면서 나타난 변화다. ‘첫 직장→숙련... M&A·JV·외부 기술 도입을 활용해 시장 진입 속도를 높이면서 경력직의 즉시 전력화 수요가 커졌다”고 설명했다....",
+          "src": "한국경제",
           "date": "08/21",
-          "url": "https://www.wikitree.co.kr/articles/1153759",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/21/202608210018441533_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000109926?sid=101",
+          "img": "https://static.hankyung.com/photo/202608/AD.45384690.1.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "“기술만으론 못 버틴다”…소부장 13곳이 말한 ‘기술 다음의 숙제’ ...",
+          "desc": "소재·부품·장비(소부장) 기업 대표들은 기술력만으로는 시장에서 살아남기 어렵다고 목소리를 모았다.... 삼성전자와 SK하이닉스 등 소자기업의 상생 의지가 과거보다 강해졌다는 평가도 나왔지만 신규 협력사에 대한...",
+          "src": "이투데이",
+          "date": "08/21",
+          "url": "https://www.etoday.co.kr/news/view/2616244",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260820164900_2375925_1200_771.png"
+        },
         {
           "title": "[사설]현대차 10년만의 전면 파업…中 전기차·美 자율차 공세 거센데",
           "desc": "이번 현대차의 파업은 SK하이닉스, 삼성전자 등 반도체 업종에서 시작된 이른바 'N% 성과급' 논란이 다른... 여기에 더해 금속노조는 '노란봉투법(개정 노동조합법)'을 근거로 부품·협력사의 임금·고용·안전에 현대차가...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740719",
           "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/740719_562438_4157_v150.jpg"
-        },
-        {
-          "title": "[총수家] 최태원 SK그룹 회장 ⑦ㅣ 엔비디아·앤트로픽·빌 게이츠와 잇...",
-          "desc": "SK하이닉스는 이번 착공식 일정을 확정하고, 주요 고객사와 협력사를 대상으로 초청장을 발송하는 등... 최근 하워드 러트닉 상무장관이 삼성전자와 SK하이닉스를 향해 미국 내 메모리 생산 확대를 촉구하는 등, 미국...",
-          "src": "cbci",
-          "date": "08/20",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599627",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/599627_411196_334_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
+      "title": "[지방시대] ‘청년창업도시’로 나아가는 수원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003672132?sid=110",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/21/SSC_20260821000719_O2.jpg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "한마음으로 복구 지원...일상 회복 안간힘",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
+      "title": "화면 달린 냉장고·전자레인지까지… 집 안 ’24시간 전광판' 탈바꿈",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994071?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/2SFGMOUHLZCQHI2MIK5WTKHAIE.png?auth=cfe5e80e38f2f812665fdf1db88ae088078c2085492aff754223c25bbd442ed5&width=1022&height=536&focal=758,349"
     },
     {
-      "title": "교회 문턱 낮추고 봉사 부담 덜고… 맞춤형 무인카페 확산",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868148?sid=103",
-      "img": "https://image.kmib.co.kr/online_image/2026/0821/01100201.20260820501724.jpg"
+      "title": "진단·치료부터 돌봄까지…KHF 달군 디지털헬스케어 특별관",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170301&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20260820/1787216800.jpg"
     },
     {
-      "title": "대동, 대구공장 피지컬 AI 기반 생산기지로 탈바꿈한다",
-      "url": "http://www.metroseoul.co.kr/article/20260820500471",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500472.jpg"
+      "title": "AI데이터센터 급증… 개발자만큼 귀해 ‘전기·냉각 숙련공’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082100048.jpg"
     }
   ]
 };
