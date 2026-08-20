@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 10:53",
+  "updatedAt": "2026.08.20 (목) 12:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
-          "desc": "가전 수리·급식·긴급대출 등 ‘본업 연계형’ 재난 대응 기록적인 폭우가 덮친 경남 거제·통영 지역에... 삼성전자서비스 수해 복구 특별 서비스팀이 19일 경남 거제시 둔덕면 일대에서 침수 제품을 점검하고 있다....",
-          "src": "조선일보",
+          "title": "삼성전자, 호주서 7년 연속 '가장 사랑받는 TV 브랜드' 선정",
+          "desc": "퍼블릭타임스=삼성전자가 호주 소비자 만족도 조사에서 TV를 비롯해 모바일과 생활가전 분야의 주요 평가를 휩쓸며 현지 시장에서의 브랜드 경쟁력을 입증했다. TV 부문에서는 7년 연속 '가장 사랑받는 브랜드'에...",
+          "src": "public25",
           "date": "08/20",
-          "url": "https://futurechosun.com/?p=158034",
-          "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
-        },
-        {
-          "title": "삼성전자, 호주서 '가장 사랑받는 TV' 7년 연속 1위…생활가전도 휩쓸어",
-          "desc": "성능(Top Performance)', '가장 추천하는 브랜드' 등 주요 4개 부문을 석권했다. 이 외에도 삼성전자는 태블릿, 공기청정기, 로봇청소기 등 가전 카테고리에서 총 48개의 '강력 추천(Highly Commended)'을 획득했다.",
-          "src": "widedaily",
-          "date": "08/20",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=299712",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202608/299712_307290_3944_v150.jpg"
+          "url": "https://www.public25.com/news/articleView.html?idxno=53011",
+          "img": "https://cdn.public25.com/news/photo/202608/53011_53015_5743.jpg"
         },
         {
           "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
         },
         {
-          "title": "삼성전자 동행노조 3000명 집회 예고…쟁의행위 적법성 논란",
-          "desc": "특히 삼성전자 DX 부문이 스마트폰과 가전 등 주요 사업에서 수익성 압박을 받고 있는 상황에서 대규모 추가 보상을 요구하는 것이 적절하냐는 지적도 제기된다. 회사 내부에서는 경영환경이 녹록지 않은 상황에서 노사...",
-          "src": "뉴스핌",
+          "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
+          "desc": "삼성전자서비스는 지난 19일부터 거제에 수해 복구 특별 서비스팀을 투입했다. 둔덕면사무소 인근에 이동형 서비스센터를 설치하고 침수된 냉장고와 세탁기, 에어컨 등을 세척하고 무상 점검하고 있다. 서비스...",
+          "src": "조선일보",
           "date": "08/20",
-          "url": "https://www.newspim.com/news/view/20260820000415",
-          "img": "https://img.newspim.com/news/2026/04/30/260430162239803_t1.jpg"
+          "url": "https://futurechosun.com/?p=158034",
+          "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
+        },
+        {
+          "title": "RI Korea, 한·일 국제 워크숍 통해 '장애인 디지털 접근성 향상 방안' 모...",
+          "desc": "단말기나 가전제품 등 생활과 밀접한 주요 제품군에 대해서는 아직 제도적 공백이 존재한다\"고 설명했다.... 기업 사례 발표에서는 백인호 삼성전자 프로, 정승현 LG전자 팀장, 김혜일 카카오 DAO, 김정현 Business School...",
+          "src": "ablenews",
+          "date": "08/20",
+          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232744",
+          "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232744_129621_5247_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "토스뱅크, 시각장애인 금융 접근성 강화…여신·수신·카드 전자점자 확...",
-          "desc": "지난 4월 통장사본에 인터넷은행 최초로 전자점자 서비스를 도입한 데 이어 적용 문서를 넓히면서 금융... 문서에서는 AI 기술 등을 활용해 전자점자 변환 기술을 고도화하고 있다. 토스뱅크는 접근성을 별도의 업무가...",
-          "src": "g-enews",
+          "title": "메리츠증권, 투자정보도 AI에 묻는다…'MOUM'에 위불 Vega AI 탑재",
+          "desc": "메리츠증권과 위불은 기술 도입을 넘어 양사가 보유한 AI와 금융 콘텐츠를 활용해 아시아·태평양 지역의 AI 투자 콘텐츠와 플랫폼 사업도 공동 추진할 계획이다. 이장욱 메리츠증권 이노비즈본부장은 Vega AI 도입에...",
+          "src": "e-science",
           "date": "08/20",
-          "url": "https://www.g-enews.com/view.php?ud=202608200918114910cd0bfacc1c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082009191209290cd0bfacc1c595103236.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133812",
+          "img": "https://cdn.e-science.co.kr/news/photo/202608/133812_66240_921.jpg"
         },
         {
-          "title": "대한전선, 해저케이블 시공장비 국산화 나선다···팬스타로보틱스와 ...",
-          "desc": "등에 활용할 수 있는 고성능 매설 ROV와 운용 시스템을 공동 개발한다. 해저케이블 매설·보호 기술에 대한... 팬스타로보틱스는 한국로봇융합연구원(KIRO)이 설립한 해양로봇 전문기업으로 AI 로봇 기술을 기반으로 관련...",
-          "src": "enewstoday",
+          "title": "대기업 제조사 84% “피지컬 AI 도입했거나 계획” … 생산성 32% 향상 기...",
+          "desc": "기술과 비용뿐 아니라 노사갈등도 피지컬 AI 확산의 걸림돌로 지목됐다. 도입·활용 과정의 어려움으로는 ‘기술적 불안정성 및 시스템 불안에 따른 리스크’가 34.5%로 가장 많았다. ‘투자비용 대비 수익성에...",
+          "src": "biz",
           "date": "08/20",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461042",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2461042_1302025_4344_v150.jpg"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000079.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/20/2026082000079_0.jpg"
         },
         {
-          "title": "SK하이닉스, 전국 채용 설명회…AI시대 인재 찾는다",
-          "desc": "하반기 기술사무직 신입 채용설명회'를 진행하고 있다고 20일 밝혔다. 이번 채용설명회는 지난 6월 발표한... 구직자들은 반도체 공정 이론과 실제 양산 현장의 차이, 패키지 및 테스트(P&T) 엔지니어의 업무, AI 도입 이후...",
-          "src": "연합뉴스",
+          "title": "남동발전, 2026 '미국 실리콘밸리 국제발명페스티벌' 5관왕 쾌거",
+          "desc": "본 기술은 진공 탈기 방식을 도입해 물 흡수부터 투입·회수까지 전 과정을 자동화하며 현장의 불편을... 이어 금상과 중국발명협회 특별상을 수상한 '공공데이터 활용 AI 안전 웹 플랫폼'은 안전관리 실무자가 별도의...",
+          "src": "epj",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/001/0016260571?sid=102",
-          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/08/20/AKR20260820067500003_01_i_P4.jpg"
+          "url": "http://www.epj.co.kr/news/articleView.html?idxno=39203",
+          "img": "http://www.epj.co.kr/news/thumbnail/202608/39203_51674_325_v150.jpg"
         },
         {
-          "title": "바이낸스 블록체인 위크 2026 방콕서 금융 진화 조명",
-          "desc": "대규모로 활용될 중심지\"라며 \"바이낸스 블록체인 위크 방콕 2026은 업계가 책임감 있게 확장할 수 있는... 인식, 도입 확대에 따른 안전장치 구축을 강조한다. TokenPost AI 유의사항 TokenPost.ai 기반 언어 모델을 사용하여...",
-          "src": "tokenpost",
+          "title": "[르포]‘탄소 중립’ 선언한 세계 최대 배터리 업체, 저탄소 경쟁 본격...",
+          "desc": "개발·도입했다”면서 “자동화율을 95% 이상으로 높여 생산 효율을 높인 것도 특징”이라고 설명했다. 특히 생산 과정에서 발생하는 폐기물과 사용 후 배터리를 회수해 핵심 소재를 다시 활용한다. 회사측에 따르면...",
+          "src": "이데일리",
           "date": "08/20",
-          "url": "https://www.tokenpost.kr/news/blockchain/393813",
-          "img": "https://f1.tokenpost.kr/2026/08/x8z2x56b5k.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006354861?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082000773.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[총수家] 최태원 SK그룹 회장 ⑦ㅣ 엔비디아·앤트로픽·빌 게이츠와 잇...",
+          "desc": "SK하이닉스는 이번 착공식 일정을 확정하고, 주요 고객사와 협력사를 대상으로 초청장을 발송하는 등... 최근 하워드 러트닉 상무장관이 삼성전자와 SK하이닉스를 향해 미국 내 메모리 생산 확대를 촉구하는 등, 미국...",
+          "src": "cbci",
+          "date": "08/20",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599627",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/599627_411196_334_v150.jpg"
+        },
         {
           "title": "AI 두뇌 '반도체' 미래 지도를 바꾼다[칩 메카 전남광주①]",
           "desc": "정부와 삼성전자·SK하이닉스의 반도체 팹(Fab) 투자는 연구·생산 전문 인력의 대대적 유입과 주거·교육... 반도체 팹 공장의 협력사도 전남광주로 이동하고 배후단지 조성·물류·서비스업 까지 포함하면 2만여명으로...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://www.g-enews.com/view.php?ud=202608200716363482fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082007270502372fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "삼성전자·SK하이닉스 실적은 ‘역대급’인데… 소부장은 ‘K자 양극화...",
-          "desc": "호황 삼성전자와 SK하이닉스가 인공지능(AI) 메모리 수요 확대에 힘입어 사상 최대 분기 실적을 기록했지만, 소재·부품·장비를 공급하는 기업 상당수는 실적 개선 폭이 제한되며 호황의 온기가 미치지 못하고...",
-          "src": "조선일보",
-          "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/366/0001187200?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/PKZ75ULQDRATXLFRPZVJ7C525I.jpg?auth=4d23cf4e9c955237a5954176b5dfdff2f9458b9c73440716f52034f358e0e798&width=600&height=315&smart=true"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "dailysecu",
           "date": "05/11",
           "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://www.dailysecu.com/news/photo/202605/206647_207563_1628.png"
+          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         },
         {
           "title": "페스카로, JS오토모티브 인수…\"사이버보안·전장·생산 밸류체인 확보...",
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
-      "url": "https://futurechosun.com/?p=158034",
-      "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
-    },
-    {
-      "title": "삼성전자, 호주서 '가장 사랑받는 TV' 7년 연속 1위…생활가전도 휩쓸어",
-      "url": "https://www.widedaily.com/news/articleView.html?idxno=299712",
-      "img": "https://cdn.widedaily.com/news/thumbnail/202608/299712_307290_3944_v150.jpg"
+      "title": "삼성전자, 호주서 7년 연속 '가장 사랑받는 TV 브랜드' 선정",
+      "url": "https://www.public25.com/news/articleView.html?idxno=53011",
+      "img": "https://cdn.public25.com/news/photo/202608/53011_53015_5743.jpg"
     },
     {
       "title": "삼성전자, 냉난방공조 시장 겨냥 광주에 새 HVAC 생산라인",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.e2news.com/news/thumbnail/202608/333388_231408_153_v150.jpg"
     },
     {
-      "title": "삼성전자 동행노조 3000명 집회 예고…쟁의행위 적법성 논란",
-      "url": "https://www.newspim.com/news/view/20260820000415",
-      "img": "https://img.newspim.com/news/2026/04/30/260430162239803_t1.jpg"
+      "title": "수리차·밥차·금융…기후재난이 바꾸는 기업 CSR",
+      "url": "https://futurechosun.com/?p=158034",
+      "img": "https://futurechosun.com/wp-content/uploads/2026/08/20260820_104607_580100.png"
     },
     {
-      "title": "토스뱅크, 시각장애인 금융 접근성 강화…여신·수신·카드 전자점자 확...",
-      "url": "https://www.g-enews.com/view.php?ud=202608200918114910cd0bfacc1c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082009191209290cd0bfacc1c595103236.jpg"
+      "title": "RI Korea, 한·일 국제 워크숍 통해 '장애인 디지털 접근성 향상 방안' 모...",
+      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232744",
+      "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232744_129621_5247_v150.jpg"
     },
     {
-      "title": "대한전선, 해저케이블 시공장비 국산화 나선다···팬스타로보틱스와 ...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461042",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2461042_1302025_4344_v150.jpg"
+      "title": "메리츠증권, 투자정보도 AI에 묻는다…'MOUM'에 위불 Vega AI 탑재",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133812",
+      "img": "https://cdn.e-science.co.kr/news/photo/202608/133812_66240_921.jpg"
+    },
+    {
+      "title": "대기업 제조사 84% “피지컬 AI 도입했거나 계획” … 생산성 32% 향상 기...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000079.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/20/2026082000079_0.jpg"
     }
   ]
 };
