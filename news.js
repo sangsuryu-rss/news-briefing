@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 17:57",
+  "updatedAt": "2026.08.20 (목) 19:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "전남광주통합특별시, 삼성전자·플랙트그룹코리아와 2400억원대 공조 생...",
-          "desc": "협약식에는 민형배 특별시장과 김철기 삼성전자 생활가전(DA)사업부장(부사장), 임성택 플랙트그룹코리아 대표 등이 참석했다. 전남광주통합특별시는 이번 투자가 지역 제조기반을 AI데이터센터 냉각·공조 분야로...",
-          "src": "newsmaker",
+          "title": "[가고파] 선한 영향력- 차상호(정치부장)",
+          "desc": "LG전자서비스와 삼성전자서비스는 거제 현장에 ‘수해 복구 특별 서비스팀’을 파견하고 이동형 서비스센터 버스를 투입해 침수 가전 세척과 무상 점검을 시작했다. 대한적십자사 경남지사는 임시주거용 천막 및...",
+          "src": "knnews",
           "date": "08/20",
-          "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180971",
-          "img": ""
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549046",
+          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549046_520_images.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "국가 전력망 구축에 민간 참여…'한전 단독' 체계 바뀐다",
-          "desc": "확충에 활용하는 새로운 투자모델을 도입했다는 데 의미가 있다는 평가다. 향후 BT 방식의 비용·위험 분담 기준과 사업자 선정 절차를 정교하게 설계하고 주민수용성 확보와 인허가 개선까지 병행한다면 AI·반도체와...",
-          "src": "energydaily",
+          "title": "H2O호스피탈리티, UAE 로타나 15개 호텔 4240객실 스마트 체크인 구축",
+          "desc": "솔루션'을 도입하기로 했다고 20일 밝혔다. 이 계약에 따라 H2O는 로타나 호텔 & 리조트와 아르잔, 센트로 등... H2O의 스마트 체크인 솔루션은 사전 체크인과 AI 인증을 활용해 체크인 대기 시간을 대폭 줄인 것이...",
+          "src": "hellot",
           "date": "08/20",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202382",
-          "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
+          "url": "https://www.hellot.net/news/article.html?no=114468",
+          "img": "https://www.hellot.net/data/photos/20260834/art_17872228321936_e88651.jpg"
         },
         {
-          "title": "과기정통부, 독파모 2차 세부 평가 결과 공개…SKT·LG 2개씩 1위",
-          "desc": "2차 단계평가에서 처음 도입된 국민 평가에서는 LG AI연구원이 1위를 기록했다. 과기정통부는 \"독파모... 각자의 AI 모델과 기술을 지속적으로 발전시켜 실제 현장에서 활용·확산할 수 있도록 정책적 지원을 확대해...",
-          "src": "아주경제",
+          "title": "경총 “제조 기업 10곳 중 8곳 피지컬 AI 도입 또는 도입 예정”",
+          "desc": "피지컬 AI 도입·활용 시 어려움은 ‘기술적 불안정성·시스템 불안에 따른 리스크’(34.5%), ‘투자비용 대비 수익성(성과)에 대한 불확실성’(31.0%), ‘노조(근로자)의 도입 반대’ (27.4%) 등 순으로 꼽혔다. 노동력...",
+          "src": "munhwa",
           "date": "08/20",
-          "url": "https://www.ajunews.com/view/20260820174926733",
-          "img": "https://image.ajunews.com/content/image/2026/08/20/20260820175126802207.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002812699?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/20/news-p.v1.20260820.77240f4d05d243c49ab75dacdc1e3dd4_R.png"
         },
         {
-          "title": "중국 로봇 업계, '눈요기' 벗어나 상용화 실적에 사활",
-          "desc": "(Embodied AI)' 산업이 중요한 전환점에 놓였다\"며 \"공공서비스, 물류, 제조, 의료, 재난 대응 등 현실 세계에서의 적용 확대가 지난 2년간 업계의 핵심 목표였다\"고 강조했다. 미국의 로봇 비전 기술업체 리얼센스의 마이크...",
-          "src": "AI타임스",
+          "title": "H2O호스피탈리티, UAE 최대 호텔 체인 로타나 그룹에 스마트 체크인 솔루...",
+          "desc": "솔루션’을 도입하기로 했다고 20일 전햇다. 이 계약에 따라 H2O는 로타나 호텔 & 리조트와 아르잔, 센트로... H2O의 스마트 체크인 솔루션은 사전 체크인과 AI 인증을 활용해 체크인 대기 시간을 대폭 줄인 게 특징이다....",
+          "src": "sports",
           "date": "08/20",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214144",
-          "img": "https://cdn.aitimes.com/news/photo/202608/214144_217842_5125.jpg"
+          "url": "https://n.news.naver.com/mnews/article/144/0001132980?sid=103",
+          "img": ""
         },
         {
-          "title": "대입 '역량 중심'으로…AI 서·논술형 평가 확대 제안",
-          "desc": "개편하고, AI 기술을 활용한 서·논술형 평가를 단계적으로 확대해야 한다는 제안이 나왔다.... 토론회에서는 미래 사회 변화에 발맞춘 대입 체제 개편 방향과 AI 기반 서·논술형 평가 도입 방안이 집중 논의됐다. 김동진...",
-          "src": "namdonews",
+          "title": "에이슬립, 한독과 수면리듬 기록 디지털의료기기 크로노트랙 유통 계약",
+          "desc": "앱노트랙은 출시 6개월 만에 전국 400개 이상 병·의원과 10개 이상 상급종합병원에 도입되며 처방 기반... 즉시 활용 가능한 것도 특징이다. 에이슬립의 수면 분석 기술은 분당서울대학교병원과 미국 스탠퍼드대학교...",
+          "src": "hellot",
           "date": "08/20",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=920664",
-          "img": "https://cdn.namdonews.com/news/photo/202608/920664_625438_4716.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=114466",
+          "img": "https://www.hellot.net/data/photos/20260834/art_17872223495339_ac543d.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[사설]현대차 10년만의 전면 파업…中 전기차·美 자율차 공세 거센데",
+          "desc": "이번 현대차의 파업은 SK하이닉스, 삼성전자 등 반도체 업종에서 시작된 이른바 'N% 성과급' 논란이 다른... 여기에 더해 금속노조는 '노란봉투법(개정 노동조합법)'을 근거로 부품·협력사의 임금·고용·안전에 현대차가...",
+          "src": "sidae",
+          "date": "08/20",
+          "url": "https://n.news.naver.com/mnews/article/417/0001155932?sid=110",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/20/06/2026082015111888255_1.jpg"
+        },
         {
           "title": "[ETF 따라잡기] 주도주에 기대주를 합친 ETF 반도체에 조방원을 얹으면...",
           "desc": "VS 부품주? - 로봇주 옥석 가리기…\"반복 수주 기업 주목\" - 현대차, 로봇 공급망 재구축…협력사와 혁신안 모색 - LG, 엔비디아에 로봇 거점 공개…\"12년치 데이터 확보\" - 로봇에 힘 싣는 삼성…전문 자회사 거래 3배 '쑥...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599627",
           "img": "https://www.cbci.co.kr/news/thumbnail/202608/599627_411196_334_v150.jpg"
-        },
-        {
-          "title": "AI 두뇌 '반도체' 미래 지도를 바꾼다[칩 메카 전남광주①]",
-          "desc": "정부와 삼성전자·SK하이닉스의 반도체 팹(Fab) 투자는 연구·생산 전문 인력의 대대적 유입과 주거·교육... 반도체 팹 공장의 협력사도 전남광주로 이동하고 배후단지 조성·물류·서비스업 까지 포함하면 2만여명으로...",
-          "src": "뉴시스",
-          "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/003/0014136960?sid=102",
-          "img": "https://img1.newsis.com/2026/06/29/NISI20260629_0021342016_web.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[가고파] 선한 영향력- 차상호(정치부장)",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549046",
+      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549046_520_images.jpg"
+    },
+    {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
       "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168540",
       "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168540_450616_1621_v150.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
     },
     {
-      "title": "국가 전력망 구축에 민간 참여…'한전 단독' 체계 바뀐다",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202382",
-      "img": "https://www.energydaily.co.kr/image/logo/snslogotrans_20260513093212.png"
+      "title": "H2O호스피탈리티, UAE 로타나 15개 호텔 4240객실 스마트 체크인 구축",
+      "url": "https://www.hellot.net/news/article.html?no=114468",
+      "img": "https://www.hellot.net/data/photos/20260834/art_17872228321936_e88651.jpg"
     },
     {
-      "title": "과기정통부, 독파모 2차 세부 평가 결과 공개…SKT·LG 2개씩 1위",
-      "url": "https://www.ajunews.com/view/20260820174926733",
-      "img": "https://image.ajunews.com/content/image/2026/08/20/20260820175126802207.jpg"
+      "title": "경총 “제조 기업 10곳 중 8곳 피지컬 AI 도입 또는 도입 예정”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002812699?sid=101",
+      "img": "https://wimg.munhwa.com/news/cms/2026/08/20/news-p.v1.20260820.77240f4d05d243c49ab75dacdc1e3dd4_R.png"
     },
     {
-      "title": "중국 로봇 업계, '눈요기' 벗어나 상용화 실적에 사활",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=214144",
-      "img": "https://cdn.aitimes.com/news/photo/202608/214144_217842_5125.jpg"
-    },
-    {
-      "title": "대입 '역량 중심'으로…AI 서·논술형 평가 확대 제안",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=920664",
-      "img": "https://cdn.namdonews.com/news/photo/202608/920664_625438_4716.jpg"
+      "title": "에이슬립, 한독과 수면리듬 기록 디지털의료기기 크로노트랙 유통 계약",
+      "url": "https://www.hellot.net/news/article.html?no=114466",
+      "img": "https://www.hellot.net/data/photos/20260834/art_17872223495339_ac543d.jpg"
     }
   ]
 };
