@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.20 (목) 22:12",
+  "updatedAt": "2026.08.20 (목) 23:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 노조 갈라졌다… DS,중심 초기업노조 “DX는 따로 교섭”",
-          "desc": "20일 전자업계에 따르면, 초기업노조는 이날 삼성전자 노동조합 동행(이하 동행노조)에 이러한 내용을 담은 공문을 보냈다. 동행노조는 가전과 TV·스마트폰 등 전자제품 생산을 담당하는 DX(디바이스경험) 부문 중심으로...",
-          "src": "segye",
+          "title": "한마음으로 복구 지원...일상 회복 안간힘",
+          "desc": "침수 피해로 일상적인 생활도 막막했던 수재민들에게 가전 무료 수리 봉사단과 세탁 버스는 가뭄의 단비 같은 존재입니다. [김유신 / 삼성전자 통영서비스센터 센터장 : 주로 1층에 보관했던 냉장고, 에어컨 제품들이...",
+          "src": "ytn",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/022/0004152466?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/20/20260820523785.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 2초 만에 흡인 위험군 선별...\"삼킴장애 환자 음성 특징 선별\"",
-          "desc": "연구팀은 이 원리를 활용해 2024년 삼킴 직후 목소리만으로 흡인 위험군과 정상군을 구분하는 AI 모델을... 이에 연구팀은 모든 음성 데이터를 2초 단위로 자동 분할해 표준화하는 방식을 도입한 바 있다. 나아가 자동...",
-          "src": "k-health",
+          "title": "창원, 에너지 소비도시에서 생산도시로…‘청정에너지 수도’ 전환",
+          "desc": "가상발전소(VPP)와 수요반응(DR) 등 스마트에너지 기술도 도입해 발전량과 전력 사용량을 실시간으로... (DTG)과 AI를 활용한 평가체계를 도입한다. 종사자 운행시간을 전면 분석해 열악한 노선은 완화하고 휴게시간이...",
+          "src": "kukinews",
           "date": "08/20",
-          "url": "https://www.k-health.com/news/articleView.html?idxno=100738",
-          "img": "https://cdn.k-health.com/news/photo/202608/100738_201098_2031.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202608200244",
+          "img": ""
         },
         {
-          "title": "소스코드 외부 전송 없이 AI 코딩…팀스파르타, ‘AI 서밋 서울 2026’서...",
-          "desc": "올해 행사에는 기업의 생성형 AI 도입과 AI 에이전트, 산업별 활용 사례 등을 주제로 한... 자체 모델 기술을 검증하기 위해 개발한 초경량 모델 ‘K-AX 스파르탄 체리 1.8B’는...",
-          "src": "venturesquare",
+          "title": "신한은행, 중저신용 고객 위한 '슈퍼SOL중금리대출' 출시 外",
+          "desc": "신한은행은 지난 2026년 3월 자체 개발해 도입한 '서민 대안신용평가모형'을 적용해 기존 금융정보만으로는... 금융 문서 영역에서는 AI 기술 등을 활용해 전자점자 변환 기술을 발전시키는 등 접근성 개선을 서비스와...",
+          "src": "rcast",
           "date": "08/20",
-          "url": "https://www.venturesquare.net/1107471/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/AI2026.jpg"
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31483",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31483_60966_4731_v150.jpg"
         },
         {
-          "title": "에스원, 골프장 화재·타구·응급 상황 대응 시스템 구축",
-          "desc": "인공지능(AI) 영상분석과 사물인터넷(IoT)을 활용한 안전관리 시스템이 도입되고 있다. 화재 징후부터 설비... 에스원은 골프장 안전관리를 위해 AI 영상분석과 IoT 센서, 원격 모니터링 기술을 결합한 통합 보안...",
-          "src": "nbntv",
+          "title": "K-뷰티 세계 1위 도약 뒷받침…화장품산업 육성법 국회 통과",
+          "desc": "◆혁신형 화장품기업 인증제 도입…중소·중견기업 우대 연구개발 투자와 해외시장 진출 역량 등을 갖춘... 정부는 연구개발과 데이터·인공지능(AI) 등 디지털 기술을 활용한 산업 혁신, 전문 인력 양성, 원료·용기 산업...",
+          "src": "medicalworldnews",
           "date": "08/20",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024052",
-          "img": "https://cdn.nbntv.co.kr/news/photo/202608/4024052_297967_2111.jpg"
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976733",
+          "img": ""
         },
         {
-          "title": "‘우버의 민족’이 온다…관전 포인트 5 [스페셜리포트]",
-          "desc": "양 사 기술 시너지도 기대해볼 수 있다. 우버는 오랜 기간 수요예측과 배차·매칭, 광고 최적화 경험을... 연계해 AI가 알아서 이용자가 원하는 배달 음식을 파악하고 주문까지 해주는 방식을 도입했다. 배민 한 관계자는...",
-          "src": "매일경제",
+          "title": "한독, 에이슬립과 '크로노트랙' 국내 유통·판매 계약 체결",
+          "desc": "사진=한독 한독(대표 김영진·백진기)이 수면 AI(인공지능) 기반 디지털의료기기를 도입하며 불면증 치료에... 현장에서 활용도가 높지 않다는 한계가 있다고 한다. 크로노트랙은 일상생활에서 수면 기록과 모니터링을...",
+          "src": "bizwnews",
           "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107674?sid=101",
-          "img": "https://wimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260814.59a5efb101d44f73a2de7fa984a7c03d_R.jpg"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=143861",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143861_160751_5757_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 노조 갈라졌다… DS,중심 초기업노조 “DX는 따로 교섭”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152466?sid=101",
-      "img": "https://www.segye.com/content/image/2026/08/20/20260820523785.jpg"
+      "title": "한마음으로 복구 지원...일상 회복 안간힘",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396045?sid=102",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0820/202608202329112538_t.jpg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549056_520_images.jpg"
     },
     {
-      "title": "AI가 2초 만에 흡인 위험군 선별...\"삼킴장애 환자 음성 특징 선별\"",
-      "url": "https://www.k-health.com/news/articleView.html?idxno=100738",
-      "img": "https://cdn.k-health.com/news/photo/202608/100738_201098_2031.jpg"
+      "title": "신한은행, 중저신용 고객 위한 '슈퍼SOL중금리대출' 출시 外",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31483",
+      "img": "https://cdn.rcast.co.kr/news/thumbnail/202608/31483_60966_4731_v150.jpg"
     },
     {
-      "title": "소스코드 외부 전송 없이 AI 코딩…팀스파르타, ‘AI 서밋 서울 2026’서...",
-      "url": "https://www.venturesquare.net/1107471/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/AI2026.jpg"
+      "title": "한독, 에이슬립과 '크로노트랙' 국내 유통·판매 계약 체결",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=143861",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202608/143861_160751_5757_v150.jpg"
     }
   ]
 };
