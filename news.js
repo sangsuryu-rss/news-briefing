@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 05:42",
+  "updatedAt": "2026.08.22 (토) 07:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼전 DX 노조 3천5백 명 집회...\"경영실패 책임져라\"",
-          "desc": "가전·TV·스마트폰 등을 담당하는 디바이스 경험, DX 부문 직원들을 중심으로 구성된 삼성전자 동행 노동조합이 수익성 악화는 경영진의 경영실패라고 규탄했습니다. 동행노조는 어제(21일) 오후 서울 서초구 삼성전자...",
-          "src": "ytn",
+          "title": "‘IDEA 2026’ 삼성 45개·LG 17개 수상…접근성·혁신 디자인 호평",
+          "desc": "올해는 사용자별 특성을 고려한 가전 접근성 디자인과 지속가능성, 미래 라이프스타일을 제안하는 선행 디자인 등이 수상작에 포함됐다. 삼성전자는 올해 신설된 ‘임팩트상’을 받았다. 시각·청각·움직임...",
+          "src": "서울경제",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/052/0002396607?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0822/202608220309467280_t.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004654058?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.ebc7f3accd9447e7a0dc7b1cfab8ae03_R.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
         },
         {
-          "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
-          "desc": "삼성전자는 2024년 12월 시각보조 앱 설리번 플러스의 '가전 QR 모드'가 12개 제품군 5,895개 모델을 구별할 수... LG전자는 컴포트 키트 가운데 세탁기·건조기 이지핸들의 사용 가능 모델을 398개, 에어컨 리모컨 커버의 사용...",
-          "src": "ablenews",
-          "date": "08/21",
-          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232735",
-          "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
+          "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
+          "desc": "삼성전자도 2024년 12월 ‘AI 구독클럽’을 시작해 TV와 냉장고, 세탁기, 청소기 등을 구독 대상으로 편입한 뒤 에어컨과 건조기, 식기세척기 등으로 품목과 케어서비스를 확대했다. 시야를 기존 생활가전...",
+          "src": "서울경제TV",
+          "date": "08/22",
+          "url": "https://www.sentv.co.kr/article/view/sentv202608200117",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
-          "desc": "삼성전자와 LG전자가 나란히 세계적인 디자인 어워드에서 수상에 성공했다. 프리미엄 가전 시장 경쟁이... 시각, 청각, 움직임, 인지 등 사용자마다 다른 특성을 고려해 누구나 세탁기와 냉장고 등 가전을 쉽고...",
-          "src": "동아일보",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
+          "title": "격화하는 로봇청소기 경쟁…드리미 '한국형 전략'으로 국내 공략 강화",
+          "desc": "한국의 주거 환경에 딱 맞춰서 개발된 제품이라고 할 수 있습니다.\" 국내외 기업들의 로봇청소기 경쟁은 더욱 치열해지는 모습입니다. 삼성전자의 2026년형 비스포크 AI 스팀은 지난 5월 처음으로 2만대가 넘게 팔렸습니다....",
+          "src": "MBN",
+          "date": "08/21",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905525",
+          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/08/21/20260821162359_10_103_0_MM1005905525_4_93.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "수능 서·논술형 도입 확정 아니라지만...“학원 더 늘어, 채점은 어떻게...",
-          "desc": "국가교육위원회가 논란이 되고 있는 대학수학능력시험 서·논술형 평가 도입과 관련해 확정된 사안이... 올 10월 시안 공개, 내년 3월 최종안 확정 이 상임위원은 “인공지능(AI) 기술이 하루가 다르게 발전하는 가운데...",
-          "src": "서울경제",
+          "title": "[박근종 칼럼] 55년 만의 교육교부금 개편, '교육의 질 저하' 씻고 '합리...",
+          "desc": "산업화 시대의 낡은 옷을 벗고, 인구구조 변화와 글로벌 기술 패권 경쟁이라는 새로운 시대적 요구에 맞춰... AI 디지털 교과서 도입, 노후 학교 개보수 등 새로운 미래 교육 수요에 막대한 재원이 필요한 상황에서 이러한...",
+          "src": "mhns",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/011/0004654038?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/rcv.YNA.20260803.PYH2026080308640001300_R.jpg"
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=757286",
+          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
         },
         {
-          "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
-          "desc": "온라인 표현의 자유와 프라이버시 기술을 다루는 프로그램에 데이터 분석·방산 기업이 들어가면서... 국무부는 인터셉트에 FTEP가 국무부 내부의 AI 활용이나 운영 역량을 강화하려는 프로그램은 아니라고...",
-          "src": "tokenpost",
+          "title": "[AI 시대 新자원전쟁] ③ 물 아껴야 공장도 산다…'워터 포지티브(Water ...",
+          "desc": "데이터센터 냉각에 필요한 물을 줄이는 기술을 도입하는 동시에 물 스트레스가 높은 지역에서 수자원 환원 사업을 추진하는 방식이다. MS는 무수냉각 기술과 폐쇄형 냉각 시스템 등을 활용해 데이터센터의 물...",
+          "src": "newsian",
           "date": "08/22",
-          "url": "https://www.tokenpost.kr/news/policy/395293",
-          "img": "https://f1.tokenpost.kr/2026/08/vejanmljqg.jpg"
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93897",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93897_87786_2645_v150.jpg"
         },
         {
-          "title": "[패트롤] 수원시-경기광주시-성남시-안성시-여주시",
-          "desc": "또한, 국산 목재 산책로와 친환경 황토 포장재를 도입해 탄소 저감 및 산림 보전에 기여하고 주변... 자격증·AI 활용 역량 강화 프로그램 확충으로 재취업 및 사회공헌 연계 안성=에너지경제신문 송기우 기자 안성시가...",
-          "src": "ekn",
+          "title": "美 5개 기관, 지멘스 PLC 경보… 인프라 제어망 비상",
+          "desc": "주요 인프라의 운영기술(OT) 보안이 뚫릴 경우 대규모 가동 중단으로 이어질 수 있어 한국내 기간설비... AI 자동 탐색과 취약점 공방 공격자들은 인공지능 기반 스크립트를 활용해 전문 지식과 공격 제작 시간을 단축하고...",
+          "src": "g-enews",
           "date": "08/22",
-          "url": "https://www.ekn.kr/web/view.php?key=20260822020135315",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260822.ec7bda1c422041f683077b32056acf9e_R.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608220657439751fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082207082204111fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "[WRC 2026] 중국 국유기업들, 로봇 도입·활용에 '박차'",
-          "desc": "기술 공동 개발과 적용 현장 공유, 성과 공동 활용을 통해 로봇산업의 상용화를 지원한다는 계획이다. 이... 체화 AI(Embodied AI)를 새로운 경제 성장 동력으로 육성하겠다는 방침을 분명히 했다. 올해 6월에는 중국...",
-          "src": "irobotnews",
+          "title": "[K바이오 신약대전] '게보린’ 넘어 신약·치매 투트랙…삼진제약, 체질...",
+          "desc": "제약사들과의 기술이전(L/O)·공동개발 파트너링을 본격화하고 있다. 이수민 삼진제약 연구센터장은 올해... 신약과 치매 치료제를 두 축으로 한 고부가가치 사업 구조로 전환하고 있다. (사진=삼진제약·생성형 AI 활용)",
+          "src": "더구루",
           "date": "08/22",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48034",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/48034_102964_4345.png"
+          "url": "https://www.theguru.co.kr/news/article.html?no=106002",
+          "img": "https://www.theguru.co.kr/data/photos/20260834/art_17871423706044_e7c26c.jpg"
         }
       ]
     },
@@ -146,7 +146,7 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "08/11",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
-          "img": ""
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
           "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼전 DX 노조 3천5백 명 집회...\"경영실패 책임져라\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396607?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0822/202608220309467280_t.jpg"
+      "title": "‘IDEA 2026’ 삼성 45개·LG 17개 수상…접근성·혁신 디자인 호평",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654058?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.ebc7f3accd9447e7a0dc7b1cfab8ae03_R.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
     },
     {
-      "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
-      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232735",
-      "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
+      "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608200117",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
+      "title": "격화하는 로봇청소기 경쟁…드리미 '한국형 전략'으로 국내 공략 강화",
+      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905525",
+      "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/08/21/20260821162359_10_103_0_MM1005905525_4_93.jpg"
     },
     {
-      "title": "수능 서·논술형 도입 확정 아니라지만...“학원 더 늘어, 채점은 어떻게...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654038?sid=102",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/rcv.YNA.20260803.PYH2026080308640001300_R.jpg"
+      "title": "[박근종 칼럼] 55년 만의 교육교부금 개편, '교육의 질 저하' 씻고 '합리...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=757286",
+      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
     },
     {
-      "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
-      "url": "https://www.tokenpost.kr/news/policy/395293",
-      "img": "https://f1.tokenpost.kr/2026/08/vejanmljqg.jpg"
+      "title": "[AI 시대 新자원전쟁] ③ 물 아껴야 공장도 산다…'워터 포지티브(Water ...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93897",
+      "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93897_87786_2645_v150.jpg"
     }
   ]
 };
