@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 17:59",
+  "updatedAt": "2026.08.21 (금) 19:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[현장] \"고(故) 삼성전자 DX 부문의 명복 빕니다\" 영정 든 동행 노조…'...",
-          "desc": "인더스트리뉴스 문기수 기자 21일 오후 3시, 서울 서초구 삼성전자 서초사옥 앞. DX부문(가전-완제품) 직원들을 중심으로 모인 약 2100명의 동행노조 조합원들이 운집하며 사옥 일대는 거대한 외침의 장으로 변했다. 오후...",
-          "src": "인더스트리뉴스",
+          "title": "[현장] 3500명 모인 삼성전자 DX 노조… \"경영실패 책임 전가 말라\"",
+          "desc": "스마트폰과 가전 등을 담당하는 삼성전자 DX(디바이스경험)부문 중심의 삼성전자 노동조합 동행(동행노조)가 21일 서울 강남구 삼성전자 서초사옥 앞에서 집회를 열고 반도체(DS)부문과의 성과급 격차 해소 등을...",
+          "src": "newscj",
           "date": "08/21",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84801",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202608/84801_104895_941.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3426894",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426894_3540098_4533_v150.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "삼성·LG, 세계 3대 디자인상 휩쓸었다…“디자인 경쟁력 입증”",
-          "desc": "상으로, 삼성전자의 가전 접근성 디자인이 선정됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자의 신체적 특성을 고려해 세탁기와 냉장고 등을 편리하게 이용할 수 있도록 한 디자인이다. 쉬운 사용...",
-          "src": "dizzotv",
+          "title": "글로벌 디자인 어워드서 삼성전자·LG전자·LGU+ 등 수상 릴레이",
+          "desc": "누구나 세탁기·냉장고를 쉽게 쓸 수 있게 한 '가전 접근성 디자인'이 선정됐다. 화면 글자 확대와 음성 안내, 가벼운 터치나 음성으로 문을 여는 자동 문 열림 기능 등이 담겼다. 삼성전자는 레드닷 디자인 어워드 2026...",
+          "src": "biztribune",
           "date": "08/21",
-          "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/21/2026082180171.html",
-          "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/21/2026082180165_0.jpg"
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357770",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357770_263021_3945_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기획 취재] 한국 교육의 미래를 묻다 ? 성균관대학교 유지범 총장",
-          "desc": "AI 변혁 시대에 발맞춰 두 캠퍼스 간의 물리적·학문적 장벽을 뛰어넘어 선도적으로 추진 중인 AI 활용 교육... 자체 생성형 AI 'KingoGPT'를 도입하는 등 AI 기반 학습을 고도화하는 한편, 기술을 다루되 인간성을 놓치지...",
-          "src": "kr",
+          "title": "박홍근 \"청년 지원은 단순 수혜 넘어 전략적 투자…'생애 1회' 문화예술...",
+          "desc": "기금 활용으로 연간 국채 발행량을 줄여 재정건전성을 오히려 탄탄하게 관리하겠다\"고 덧붙였다. 정부... 이 재원은 프런티어 급 인공지능(AI)·데이터센터 인프라 구축, SMR·핵융합 등 7대 SEED 기술, 지역 생활 인프라 및...",
+          "src": "view",
           "date": "08/21",
-          "url": "http://kr.people.com.cn/n3/2026/0821/c208059-20491020.html",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/277/0005805920?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082111480388415_1787280483.jpg"
         },
         {
-          "title": "KS한국고용정보 \"AI·중앙아시아 오프쇼어 결합, CS 혁신 해답\"",
-          "desc": "AI 도입만으로 모든 문제를 해결하기에도 한계가 있다. 단순·반복 문의는 AI를 통해 상당 부분 자동화할 수... 여기에 AI 기술을 결합한 '블렌디드 모델'을 적용하면 시간당 비용을 4.08달러까지 낮출 수 있다. 한국 8....",
-          "src": "newsprime",
+          "title": "최홍선 \"피지컬AI, 경단위 시장 연다\"",
+          "desc": "최 대표는 이를 중소 제조 현장의 도입 가능성을 판단하는 기준으로도 제시했다. 그는 \"로봇을 원격으로... ◆VLA로 보고 이해해 행동…\"한국도 세계 1등 가능\" 피지컬 AI의 핵심 기술은 시각·언어·행동 모델(Vision-Language...",
+          "src": "이데일리",
           "date": "08/21",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=744703",
-          "img": ""
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=362062",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/362062_297127_3136_v150.jpg"
         },
         {
-          "title": "\"외국인 유학생, 지역‧국가 핵심 인력\"…'취업‧정착' 잇는 이민 모델...",
-          "desc": "절박하다.\"(윤승용 남서울대 총장) \"앞으로는 국내 유학생 인재를 적극적으로 활용할 것…정착을 기반으로... 있으며, AI 기술을 심사에 접목하기 위한 예산을 확보한 만큼 조만간 전향적으로 변화된 모습을 보여줄 수 있을...",
-          "src": "kyosu",
+          "title": "의료AI 성적 희비…환자 모니터링 '흑자', 판독은 '적자'",
+          "desc": "병원은 모니터링 AI를 요건에 맞는 환자에게 활용하면 환자 한 명당 하루 단위의 '원격심박기술에 의한... 앞으로 영상 판독 AI의 수익화 속도는 정식 수가 도입과 국가검진 확대 여부에 따라 달라질 전망입니다....",
+          "src": "서울경제TV",
           "date": "08/21",
-          "url": "https://www.kyosu.net/news/articleView.html?idxno=209167",
-          "img": "https://cdn.kyosu.net/news/photo/202608/209167_210680_5145.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202608210116",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/21/sentv20260821000205.jpg"
         },
         {
-          "title": "6G 앞두고 SKT가 찍은 3G '마침표'…KT도 종료 카드 '만지작'",
-          "desc": "2030년 6G 상용화를 앞두고 노후화된 3G망을 정리해 네트워크 자원을 효율적으로 활용하려는 움직임으로... 구축과 AI 데이터센터, 네트워크 고도화, 정보보호 강화 등을 동시에 추진하는 가운데 6G 핵심 기술 및...",
-          "src": "thebigdata",
+          "title": "“대기업은 AI 에이전트, 협력사는 엑셀”… 제조업 AX 양극화",
+          "desc": "현장에 다양한 기술적 대안이 등장하고 있지만, 궁극적인 공급망 AX 안착을 위해서는 한경협 측 제언처럼 ‘협력사 AI 도입 비용 지원(43.7%)’과 ‘업종별 표준모델 개발(25.5%)’ 등 실질적인 정책 뒷받침이 병행돼야...",
+          "src": "kidd",
           "date": "08/21",
-          "url": "http://www.thebigdata.co.kr/view.php?ud=2026082117405142920a47484cf8_23",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211742480038500a47484cf82192501880.jpg&nmt=23"
+          "url": "https://kidd.co.kr/news/247112",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787303411_12.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[현장] \"고(故) 삼성전자 DX 부문의 명복 빕니다\" 영정 든 동행 노조…'...",
-      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84801",
-      "img": "https://cdn.industrynews.co.kr/news/photo/202608/84801_104895_941.jpg"
+      "title": "[현장] 3500명 모인 삼성전자 DX 노조… \"경영실패 책임 전가 말라\"",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3426894",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426894_3540098_4533_v150.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "삼성·LG, 세계 3대 디자인상 휩쓸었다…“디자인 경쟁력 입증”",
-      "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/21/2026082180171.html",
-      "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/21/2026082180165_0.jpg"
+      "title": "글로벌 디자인 어워드서 삼성전자·LG전자·LGU+ 등 수상 릴레이",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357770",
+      "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357770_263021_3945_v150.jpg"
     },
     {
-      "title": "\"외국인 유학생, 지역‧국가 핵심 인력\"…'취업‧정착' 잇는 이민 모델...",
-      "url": "https://www.kyosu.net/news/articleView.html?idxno=209167",
-      "img": "https://cdn.kyosu.net/news/photo/202608/209167_210680_5145.jpg"
+      "title": "박홍근 \"청년 지원은 단순 수혜 넘어 전략적 투자…'생애 1회' 문화예술...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805920?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082111480388415_1787280483.jpg"
     },
     {
-      "title": "6G 앞두고 SKT가 찍은 3G '마침표'…KT도 종료 카드 '만지작'",
-      "url": "http://www.thebigdata.co.kr/view.php?ud=2026082117405142920a47484cf8_23",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211742480038500a47484cf82192501880.jpg&nmt=23"
+      "title": "최홍선 \"피지컬AI, 경단위 시장 연다\"",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=362062",
+      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/362062_297127_3136_v150.jpg"
     }
   ]
 };
