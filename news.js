@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 16:08",
+  "updatedAt": "2026.08.21 (금) 17:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 국제 디자인 어워드 휩쓸어…갤럭시 S26 '프라이버시 화면' 최...",
-          "desc": "삼성전자가 세계적 권위의 국제 디자인 공모전인 'IDEA 2026'과 '레드닷 디자인 어워드 2026'에서 총 57개의... IDEA에서 지속가능성 강점 디자인에 수여하는 신설 임팩트상을 받은 '가전 접근성 디자인'은 시각·청각·인지...",
-          "src": "m-i",
+          "title": "[현장] \"고(故) 삼성전자 DX 부문의 명복 빕니다\" 영정 든 동행 노조…'...",
+          "desc": "인더스트리뉴스 문기수 기자 21일 오후 3시, 서울 서초구 삼성전자 서초사옥 앞. DX부문(가전-완제품) 직원들을 중심으로 모인 약 2100명의 동행노조 조합원들이 운집하며 사옥 일대는 거대한 외침의 장으로 변했다. 오후...",
+          "src": "인더스트리뉴스",
           "date": "08/21",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1404681",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1404681_1192744_511_v150.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84801",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202608/84801_104895_941.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "삼성전자, IDEA·레드닷서 57개상 싹쓸이…'인간 중심 디자인' 통했다",
-          "desc": "상으로, 삼성전자의 '가전 접근성 디자인'이 첫 수상의 영예를 안았다. 해당 디자인은 시·청각 및 인지 특성 등 신체적 조건에 상관없이 누구나 세탁기, 냉장고 등의 가전을 쉽게 다룰 수 있도록 돕는다. 화면...",
-          "src": "delighti",
+          "title": "삼성·LG, 세계 3대 디자인상 휩쓸었다…“디자인 경쟁력 입증”",
+          "desc": "상으로, 삼성전자의 가전 접근성 디자인이 선정됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자의 신체적 특성을 고려해 세탁기와 냉장고 등을 편리하게 이용할 수 있도록 한 디자인이다. 쉬운 사용...",
+          "src": "dizzotv",
           "date": "08/21",
-          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=120584",
-          "img": "https://cdn.delighti.co.kr/news/thumbnail/202608/120584_101618_621_v150.jpg"
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/21/2026082180171.html",
+          "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/21/2026082180165_0.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "P7·공동패키지광학·용적이양제 [This Week 경제용어]",
-          "desc": "AI 반도체의 데이터 전송 속도가 빠르게 증가하고 데이터 병목 현상들이 발생하면서 앞으로 CPO 기술 도입이 필수로 꼽히고 있다. CPO는 전기 신호가 GPU를 벗어나자마자 광트랜시버를 거쳐 곧바로 광신호로...",
-          "src": "매일경제",
+          "title": "[기획 취재] 한국 교육의 미래를 묻다 ? 성균관대학교 유지범 총장",
+          "desc": "AI 변혁 시대에 발맞춰 두 캠퍼스 간의 물리적·학문적 장벽을 뛰어넘어 선도적으로 추진 중인 AI 활용 교육... 자체 생성형 AI 'KingoGPT'를 도입하는 등 AI 기반 학습을 고도화하는 한편, 기술을 다루되 인간성을 놓치지...",
+          "src": "kr",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107696?sid=102",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "url": "http://kr.people.com.cn/n3/2026/0821/c208059-20491020.html",
+          "img": ""
         },
         {
-          "title": "피 한 방울로 10분 만에 질병 진단…'액체생검'이 바꿀 의료 미래",
-          "desc": "이러한 기술적 병목 현상을 해결하기 위해 '초음파'를 활용하는 혁신적인 아이디어를 도입했다. 초음파... 국내 바이오 업계 역시 자체 개발한 AI 바이오마커 분석 알고리즘을 액체생검 기술과 결합해 주요 암종의...",
-          "src": "mkhealth",
+          "title": "KS한국고용정보 \"AI·중앙아시아 오프쇼어 결합, CS 혁신 해답\"",
+          "desc": "AI 도입만으로 모든 문제를 해결하기에도 한계가 있다. 단순·반복 문의는 AI를 통해 상당 부분 자동화할 수... 여기에 AI 기술을 결합한 '블렌디드 모델'을 적용하면 시간당 비용을 4.08달러까지 낮출 수 있다. 한국 8....",
+          "src": "newsprime",
           "date": "08/21",
-          "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79719",
-          "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202608/79719_92769_46_v150.jpg"
+          "url": "http://www.newsprime.co.kr/news/article.html?no=744703",
+          "img": ""
         },
         {
-          "title": "[의료기기업계 소식] 8월 21일",
-          "desc": "어떻게 활용돼야 하는지에 대한 생각을 국제사회와 공유할 수 있어 뜻깊었다\"고 말했다. 이어 \"앞으로도 AI 기반 뇌파 분석과 뉴로피드백 기술을 지속적으로 고도화해 누구나 자신의 뇌를 이해하고 보다 건강하게...",
-          "src": "doctorstimes",
+          "title": "\"외국인 유학생, 지역‧국가 핵심 인력\"…'취업‧정착' 잇는 이민 모델...",
+          "desc": "절박하다.\"(윤승용 남서울대 총장) \"앞으로는 국내 유학생 인재를 적극적으로 활용할 것…정착을 기반으로... 있으며, AI 기술을 심사에 접목하기 위한 예산을 확보한 만큼 조만간 전향적으로 변화된 모습을 보여줄 수 있을...",
+          "src": "kyosu",
           "date": "08/21",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239628",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202608/239628_110536_1218_v150.jpg"
+          "url": "https://www.kyosu.net/news/articleView.html?idxno=209167",
+          "img": "https://cdn.kyosu.net/news/photo/202608/209167_210680_5145.jpg"
         },
         {
-          "title": "카카오 \"지금 속도를 내야 B2C AI 선도 주자될 것\"",
-          "desc": "감안하면 AI 기술과 성장 기대치를 원하는 투자자는 카카오AI의 밸류에이션을 더 높게 볼 것이고 사업의... 소각에 활용한다\"라면서 \"2027년부터 새로운 3개년 정책이 도입되며 잉여현금흐름이 전년 대비 50% 성장할 경우...",
-          "src": "econovill",
+          "title": "6G 앞두고 SKT가 찍은 3G '마침표'…KT도 종료 카드 '만지작'",
+          "desc": "2030년 6G 상용화를 앞두고 노후화된 3G망을 정리해 네트워크 자원을 효율적으로 활용하려는 움직임으로... 구축과 AI 데이터센터, 네트워크 고도화, 정보보호 강화 등을 동시에 추진하는 가운데 6G 핵심 기술 및...",
+          "src": "thebigdata",
           "date": "08/21",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=748614",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/748614_723416_23_v150.jpg"
+          "url": "http://www.thebigdata.co.kr/view.php?ud=2026082117405142920a47484cf8_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211742480038500a47484cf82192501880.jpg&nmt=23"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 국제 디자인 어워드 휩쓸어…갤럭시 S26 '프라이버시 화면' 최...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1404681",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1404681_1192744_511_v150.jpg"
+      "title": "[현장] \"고(故) 삼성전자 DX 부문의 명복 빕니다\" 영정 든 동행 노조…'...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84801",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202608/84801_104895_941.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "삼성전자, IDEA·레드닷서 57개상 싹쓸이…'인간 중심 디자인' 통했다",
-      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=120584",
-      "img": "https://cdn.delighti.co.kr/news/thumbnail/202608/120584_101618_621_v150.jpg"
+      "title": "삼성·LG, 세계 3대 디자인상 휩쓸었다…“디자인 경쟁력 입증”",
+      "url": "https://www.dizzotv.com/site/data/html_dir/2026/08/21/2026082180171.html",
+      "img": "https://www.dizzotv.com/site/data/img_dir/2026/08/21/2026082180165_0.jpg"
     },
     {
-      "title": "P7·공동패키지광학·용적이양제 [This Week 경제용어]",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107696?sid=102",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "\"외국인 유학생, 지역‧국가 핵심 인력\"…'취업‧정착' 잇는 이민 모델...",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=209167",
+      "img": "https://cdn.kyosu.net/news/photo/202608/209167_210680_5145.jpg"
     },
     {
-      "title": "피 한 방울로 10분 만에 질병 진단…'액체생검'이 바꿀 의료 미래",
-      "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79719",
-      "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202608/79719_92769_46_v150.jpg"
+      "title": "6G 앞두고 SKT가 찍은 3G '마침표'…KT도 종료 카드 '만지작'",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=2026082117405142920a47484cf8_23",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211742480038500a47484cf82192501880.jpg&nmt=23"
     }
   ]
 };
