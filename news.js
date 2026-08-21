@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 23:55",
+  "updatedAt": "2026.08.22 (토) 01:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“적자 직원에게 전가했다”…삼성전자 DX노조 3500명 집결",
-          "desc": "기자]삼성전자의 가전·TV·스마트폰 등 완제품 사업을 담당하는 DX(디바이스경험) 부문 중심의 노동조합인 ‘동행노조’가 최근 수익성 악화의 원인이 경영진의 경영 실패에 있다며 대규모 집회를 개최했다. 21일 오후...",
-          "src": "dnews",
-          "date": "08/21",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608212058093790899",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608212058093790899-2-685535.jpg"
+          "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
+          "desc": "삼성전자와 LG전자가 나란히 세계적인 디자인 어워드에서 수상에 성공했다. 프리미엄 가전 시장 경쟁이 심화되며, 성능뿐만 아니라 세련된 디자인도 중요한 경쟁 요인으로 부상하고 있는 모양새다. 21일 삼성전자는...",
+          "src": "동아일보",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "954.5㎜ 물폭탄 맞은 거제, \"특별재난지역\" 됐다",
-          "desc": "집 안으로 들어온 물 때문에 냉장고나 세탁기 같은 가전제품을 쓰지 못하는 주민들은 무상수리를 받을 수 있다. 삼성전자서비스와 LG전자서비스에 방문 서비스를 신청하면 침수 가전제품을 수리받을 수 있으며, 고가...",
-          "src": "한스경제",
-          "date": "08/21",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858656",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858656_879912_620_v150.jpg"
+          "title": "삼성·LG는 로봇 눈, 스타트업은 두뇌와 관절 개발에 집중",
+          "desc": "가전 사업에서 축적한 모터 기술을 토대로 로봇 부품 시장 공략에 나선 것이다. LG전자 자체 휴머노이드인 ‘LG 클로이드’를 시작으로 글로벌 고객사들에 부품을 공급한다는 계획이다. 삼성전자도 지난달 대표이사 직속...",
+          "src": "조선일보",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994309?sid=105",
+          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2353"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "구글, 빅쿼리 AI 에이전트로 데이터 준비 자동화",
-          "desc": "디 인포메이션은 구글 클라우드가 제미나이(Gemini) AI 도구를 고객이 활용하도록 돕기 위해 수백 명의 FDE... FDE는 고객사 업무 환경 안에서 제품을 실제로 작동하게 만드는 기술 인력이다. 통상 솔루션 아키텍트나...",
-          "src": "tokenpost",
-          "date": "08/21",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/395201",
-          "img": "https://f1.tokenpost.kr/2026/08/r1e2vpyvwf.jpg"
+          "title": "[WRC 2026] 중국 국유기업들, 로봇 도입·활용에 '박차'",
+          "desc": "기술 공동 개발과 적용 현장 공유, 성과 공동 활용을 통해 로봇산업의 상용화를 지원한다는 계획이다. 이... 체화 AI(Embodied AI)를 새로운 경제 성장 동력으로 육성하겠다는 방침을 분명히 했다. 올해 6월에는 중국...",
+          "src": "irobotnews",
+          "date": "08/22",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48034",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/48034_102964_4345.png"
         },
         {
-          "title": "나무에이엑스, 솔로몬텍과 기업 AI·가상화 시장 공략",
-          "desc": "온프레미스 AI 도입 수요에 공동 대응한다. 나무에이엑스가 자체 플랫폼과 기술지원을 제공하고... 솔로몬텍의 고객 기반을 활용해 VMware 전환 수요에 대응하고 향후 공공기관과 중소·중견기업으로 적용 범위를 넓힐...",
-          "src": "kdpress",
-          "date": "08/21",
-          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207973",
-          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207973_133860_550.jpg"
+          "title": "마이크로소프트 코파일럿, 캐물었더니 스스로 취약점 실토…링크만 열...",
+          "desc": "대한 기술적 세부사항이 드러났다”고 말했다. 그는 “코파일럿은 결국 문서화되지 않은 파라미터를... Varonis 역시 이 취약점이 실제로 악용된 사례는 확인되지 않았다고 밝혔다.다만 이번 사례는 기업용 AI 도입...",
+          "src": "wikitree",
+          "date": "08/22",
+          "url": "https://www.wikitree.co.kr/articles/1154017",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/22/202608220010178929_ai.jpeg"
         },
         {
-          "title": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\"",
-          "desc": "인공지능, AI가 사무실을 넘어 공장에서도 적극 활용되고 있습니다. 불량품을 빠르게 가려내며 생산성을... AI 도입 후 기존보다 속도가 최대 80% 가까이 빨라졌습니다. <김호식 / 대덕전자 검사기술팀장> \"기존 자동화는...",
-          "src": "연합뉴스TV",
-          "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/422/0000898213?sid=101",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821225849Sdd.jpg"
+          "title": "중국산 전기차를 누가 타냐고?…‘21세기 북학의’ 절실",
+          "desc": "공공기관이 관여하는 노선버스 같은 분야에서 빠르게 전기버스를 도입한 것이다. 노선버스는 딱히 브랜드를... 전기차라는 새로운 기술에 적응해야 한다는 문제와 환경 문제를 역으로 기회로 활용해 중국에서 세계의...",
+          "src": "중앙일보",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056404?sid=110",
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/22/c743d9b2-9436-4838-8405-94621ca816c8.jpg"
         },
         {
-          "title": "배터리 갈아끼우는 플래그십, 젠하이저 모멘텀 트루 와이어리스 5 출격",
-          "desc": "각 이어버드에는 4개의 마이크가 탑재됐으며, 골전도 보이스 센서와 AI 기반 음성 처리 기술을 적용해 주변... 제공해 활용 범위를 넓혔다. 특히 배터리 교체가 가능한 설계를 도입한 점은 무선 이어폰 시장에서 차별화...",
-          "src": "technoa",
-          "date": "08/21",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101289",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
+          "title": "카카오, 창사 이래 최대 지배구조 개편 ... 'AI'와 '투자' 회사로 쪼갠다",
+          "desc": "카카오AI도 2027년부터 2029년까지 잉여현금흐름의 20~35%를 주주환원 재원으로 활용할 예정이다. 카카오는 올해 안에 기업지배구조 핵심지표 준수율 100%를 달성하고, 소액주주 권익 보호를 위한 집중투표제도 도입한다...",
+          "src": "worktoday",
+          "date": "08/22",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88255",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88255_127073_2233_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“적자 직원에게 전가했다”…삼성전자 DX노조 3500명 집결",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608212058093790899",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608212058093790899-2-685535.jpg"
+      "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "954.5㎜ 물폭탄 맞은 거제, \"특별재난지역\" 됐다",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858656",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858656_879912_620_v150.jpg"
+      "title": "삼성·LG는 로봇 눈, 스타트업은 두뇌와 관절 개발에 집중",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994309?sid=105",
+      "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2353"
     },
     {
-      "title": "구글, 빅쿼리 AI 에이전트로 데이터 준비 자동화",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/395201",
-      "img": "https://f1.tokenpost.kr/2026/08/r1e2vpyvwf.jpg"
+      "title": "[WRC 2026] 중국 국유기업들, 로봇 도입·활용에 '박차'",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48034",
+      "img": "https://cdn.irobotnews.com/news/photo/202608/48034_102964_4345.png"
     },
     {
-      "title": "나무에이엑스, 솔로몬텍과 기업 AI·가상화 시장 공략",
-      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207973",
-      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207973_133860_550.jpg"
+      "title": "마이크로소프트 코파일럿, 캐물었더니 스스로 취약점 실토…링크만 열...",
+      "url": "https://www.wikitree.co.kr/articles/1154017",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/22/202608220010178929_ai.jpeg"
     }
   ]
 };
