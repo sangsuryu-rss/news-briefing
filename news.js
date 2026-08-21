@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 10:59",
+  "updatedAt": "2026.08.21 (금) 12:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "금호건설, 전남광주통합특별시에 ‘삼성전자 플랙트 한국공장’ 짓는다",
-          "desc": "이번 생산시설은 삼성전자가 플랙트그룹 인수 이후 국내에 구축하는 첫 번째 HVAC 생산거점이다. 신규 생산설비 구축을 통해 광주사업장을 AI 가전과 HVAC를 아우르는 글로벌 생산거점으로 육성한다. 금호건설은 이번...",
-          "src": "매일경제",
+          "title": "금호건설, 전남광주통합특별시에 '삼성전자 플랙트 한국공장' 짓는다",
+          "desc": "삼성전자는 신규 생산라인 구축에서 광주사업장을 AI 가전과 HVAC를 아우르는 글로벌 생산거점으로 육성한다는 계획이다. 금호건설 측은 \"이번 프로젝트에서 당사의 첨단 산업시설 분야에 관한 시공 경험을 한층...",
+          "src": "getnews",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/009/0005723917?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.2255ec302a914a6198127fc194e17c5d_R.jpg"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878486",
+          "img": "https://cdn.getnews.co.kr/news/photo/202608/878486_534504_555.jpeg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "K-가전 'IDEA 2026' 휩쓸었다… 삼성·LG·코웨이, 글로벌 역량 입증",
-          "desc": "상으로, 삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 영예를 안았다. 이 디자인은 시각·청각·움직임·인지 등 사용자마다 다른 신체적 특성을 세심하게 배려해 누구나 냉장고, 세탁기 등의...",
-          "src": "newscj",
+          "title": "삼성전자, 국제 디자인 어워드서 대거 수상…인간 중심·지속가능성 강...",
+          "desc": "올해 신설된 임팩트상은 지속가능성에 강점을 가진 디자인에 수여되며, 삼성전자의 '가전 접근성 디자인'이 선정됐다. 해당 디자인은 시각·청각·인지 등 다양한 신체적 특성을 고려해 누구나 세탁기·냉장고 등...",
+          "src": "queen",
           "date": "08/21",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3426747",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426747_3539836_4748_v150.jpg"
+          "url": "http://www.queen.co.kr/news/articleView.html?idxno=462061",
+          "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462061_208310_3149_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "카페24, 한국직업전문학교와 AI 인재 양성 협력",
-          "desc": "사진=카페24 산업 현장에 AI 기술이 빠르게 도입되면서 실무 역량을 갖춘 AI 인재의 중요성이 부각되고... 이번 협약은 AI 기술을 교육 현장에 접목해 교육생들이 AI를 활용한 프로젝트를 수행하고 결과물을 실제...",
-          "src": "sisacast",
+          "title": "AI가 바꾸는 병원 시설관리 '수리'에서 '예측'으로",
+          "desc": "이 팀장은 \"의료 분야는 AI와 빅데이터 등 다양한 기술이 빠르게 도입되고 있다\"며 \"이러한 변화는 진료뿐... AI 도입으로 이러한 시설관리 방식에도 변화가 예상된다. 대표적인 분야는 예측 유지보수다. 센서와 AI를 활용...",
+          "src": "docdocdoc",
           "date": "08/21",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=99018",
-          "img": "http://www.sisacast.kr/news/thumbnail/202608/99018_107890_3847_v150.jpg"
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041978",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041978_3045603_118_v150.jpg"
         },
         {
-          "title": "AI 포트홀 탐지시스템 구축 사업, 올바른 추진체계 필요",
-          "desc": "경기도 수원시는 AI 기술을 활용해 포트홀을 탐지하고 신속하게 정비할 방침이다. [사진=수원시]... 이에 AI 분석 소프트웨어(SW) 개발·도입과 영상정보 처리기기 및 전송장비 설치, 관제 플랫폼 구축 등이 하나의 사업에...",
-          "src": "koit",
+          "title": "\"AI 인재 찾아 종횡무진\"…삼성전자는 외국인 경력·SK하이닉스는 신입...",
+          "desc": "21일 업계에 따르면 SK하이닉스는 오는 26일까지 '2026년 하반기 기술사무직 신입 수시채용' 지원서를... 선발 방식에도 AI를 활용한다. 오는 11월 진행되는 '반나절 심층 면접'에서는 지원자가 거대언어모델(LLM)을 활용해...",
+          "src": "뉴시스",
           "date": "08/21",
-          "url": "https://www.koit.co.kr/news/articleView.html?idxno=208498",
-          "img": "https://cdn.koit.co.kr/news/photo/202608/208498_98288_1943.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014140309?sid=101",
+          "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0021381465_web.jpg"
         },
         {
-          "title": "인하대, 표면 센서로 내부 온도 30초 만에 추정하는 AI 기술 개발",
-          "desc": "알고리즘을 활용해 내부 온도를 빠르고 정확하게 추정하는 AI 기반 온도 모니터링 기술을 개발했다고... 데 활용할 수 있을 것으로 기대된다. 또한 기존 설비를 교체하지 않고도 데이터 기반 관리 체계를 도입할 수...",
-          "src": "동아일보",
+          "title": "마크 큐반 지원 포트 로보틱스, 5억달러 규모 SPAC 합병 상장 추진",
+          "desc": "이와 함께 큐반은 캘리포니아주의 부유세 도입 제안을 두고 로 칸나 연방 하원의원과... 가상자산 채굴 기업 라이엇 플랫폼스는 록데일 시설을 활용해 앤스로픽에 AI 컴퓨팅 용량을 공급하는 91억 달러 규모의 계약을...",
+          "src": "g-enews",
           "date": "08/21",
-          "url": "https://edu.donga.com/news/articleView.html?idxno=111108",
-          "img": "https://cdn.edu.donga.com/news/photo/202608/111108_175486_5236.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026082112005972782bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260821120650034452bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "주권상장법인 합병가액, 주식가격·자산가치·수익가치 등 종합 고려해...",
-          "desc": "개인정보보호법 개정안은 엄격한 안전관리를 토대로 개인정보를 인공지능(AI) 기술 개발에 활용할 수 있도록... 개정안은 기술유용행위 피해기업의 손해 증명을 돕기 위해 당사자 자료제출명령을 확대 도입했다. 또한...",
-          "src": "taxtimes",
+          "title": "원본 개인정보 AI 활용…산업계 기대·시민사회 반발",
+          "desc": "개인정보보호위원회와 국회에 따르면 AI 기술 개발을 위한 개인정보 활용 특례를 담은 개인정보보호법... 개인정보 활용을 허용해 달라는 법안들이 발의돼있다며 이런 법안들은 2020년 가명정보 특례를 도입한 취지와...",
+          "src": "한스경제",
           "date": "08/21",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=276478",
-          "img": "https://www.taxtimes.co.kr/data/design/logo/default_image_share_20260130104033.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858516",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858516_879717_436_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "노조 판 깔아준 노란봉투법…산업계 도미노 파업 부른다",
+          "desc": "완성차 생산 라인이 멈춰 서며 수만 대 규모의 생산 차질이 발생하고 부품 협력사의 연쇄 경영난 우려도 커지고 있다. 삼성전자 역시 노사 갈등이 격화되는 양상이다. 삼성전자 DX 노조는 성과급(OPI·TAI) 산정 공식의...",
+          "src": "mediapen",
+          "date": "08/21",
+          "url": "https://www.mediapen.com/news/view/1117944",
+          "img": "https://image.mediapen.com/news/202608/news_1117944_1787277011_m.jpg"
+        },
         {
           "title": "“기술만으론 못 버틴다”…소부장 13곳이 말한 ‘기술 다음의 숙제’ ...",
           "desc": "소재·부품·장비(소부장) 기업 대표들은 기술력만으로는 시장에서 살아남기 어렵다고 목소리를 모았다.... 삼성전자와 SK하이닉스 등 소자기업의 상생 의지가 과거보다 강해졌다는 평가도 나왔지만 신규 협력사에 대한...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/20",
           "url": "https://n.news.naver.com/mnews/article/374/0000528483?sid=101",
           "img": "https://biz.sbs.co.kr/storage/img/video/2026/7/4/1787210748070fec3d5ljzg.jpg"
-        },
-        {
-          "title": "[분석] 한번 빠져나가면 되돌릴 수 없다…대한민국 핵심기술 '유출 비상...",
-          "desc": "삼성전자나 SK하이닉스처럼 자체 보안조직과 대규모 투자가 가능한 기업만 생각해서는 국내 산업기술... 반도체와 배터리, 조선처럼 수많은 협력사가 하나의 산업생태계를 구성하는 분야에서는 어느 한 기업의 보안...",
-          "src": "polinews",
-          "date": "08/20",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740719",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/740719_562438_4157_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "금호건설, 전남광주통합특별시에 ‘삼성전자 플랙트 한국공장’ 짓는다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005723917?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.2255ec302a914a6198127fc194e17c5d_R.jpg"
+      "title": "금호건설, 전남광주통합특별시에 '삼성전자 플랙트 한국공장' 짓는다",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878486",
+      "img": "https://cdn.getnews.co.kr/news/photo/202608/878486_534504_555.jpeg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "K-가전 'IDEA 2026' 휩쓸었다… 삼성·LG·코웨이, 글로벌 역량 입증",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3426747",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426747_3539836_4748_v150.jpg"
+      "title": "삼성전자, 국제 디자인 어워드서 대거 수상…인간 중심·지속가능성 강...",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=462061",
+      "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462061_208310_3149_v150.jpg"
     },
     {
-      "title": "카페24, 한국직업전문학교와 AI 인재 양성 협력",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=99018",
-      "img": "http://www.sisacast.kr/news/thumbnail/202608/99018_107890_3847_v150.jpg"
+      "title": "AI가 바꾸는 병원 시설관리 '수리'에서 '예측'으로",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041978",
+      "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041978_3045603_118_v150.jpg"
     },
     {
-      "title": "AI 포트홀 탐지시스템 구축 사업, 올바른 추진체계 필요",
-      "url": "https://www.koit.co.kr/news/articleView.html?idxno=208498",
-      "img": "https://cdn.koit.co.kr/news/photo/202608/208498_98288_1943.jpg"
+      "title": "\"AI 인재 찾아 종횡무진\"…삼성전자는 외국인 경력·SK하이닉스는 신입...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014140309?sid=101",
+      "img": "https://img1.newsis.com/2026/07/29/NISI20260729_0021381465_web.jpg"
     }
   ]
 };
