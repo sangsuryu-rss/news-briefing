@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 13:55",
+  "updatedAt": "2026.08.21 (금) 16:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[오늘의브랜드] 케이스티파이, 지드래곤과 다시 쓰는 커스텀 플레이그라...",
-          "desc": "특히 올해 신설된 임팩트상은 지속가능성에 강점을 가진 디자인에 추가로 수여하는 상으로, 삼성전자의 '가전 접근성 디자인'이 수상했다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자마다 다른...",
-          "src": "ibabynews",
+          "title": "삼성전자, 국제 디자인 어워드 휩쓸어…갤럭시 S26 '프라이버시 화면' 최...",
+          "desc": "삼성전자가 세계적 권위의 국제 디자인 공모전인 'IDEA 2026'과 '레드닷 디자인 어워드 2026'에서 총 57개의... IDEA에서 지속가능성 강점 디자인에 수여하는 신설 임팩트상을 받은 '가전 접근성 디자인'은 시각·청각·인지...",
+          "src": "m-i",
           "date": "08/21",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153876",
-          "img": "https://www.ibabynews.com/news/photo/202608/153876_120067_4750.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1404681",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1404681_1192744_511_v150.jpg"
         },
         {
-          "title": "드리미, 개인정보 보호·AS 강화...한국 시장 신뢰 높인다",
-          "desc": "한편, 지난해 기준 국내 로봇청소기 시장 점유율은 로보락 등 중국 브랜드가 60% 이상을 차지하고 있으며 삼성전자, LG전자 등 국내 브랜드가 프리미엄 신제품을 연이어 선보이면서 강도 높은 시장 경쟁이 이어지고 있다....",
-          "src": "cwn",
+          "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
+          "desc": "달 삼성전자(13%)보다 높았다. 하이센스 운영체제(OS) '비다'를 탑재한 TV가 유럽 출하량에서 LG전자 웹OS 탑재 제품을 앞설 것이라는 옴디아 전망도 나와 있다. 로봇청소기 시장은 시장조사업체 IDC 집계 기준 작년...",
+          "src": "kfenews",
           "date": "08/21",
-          "url": "https://www.cwn.kr/news/articleView.html?idxno=53920",
-          "img": "https://cdn.cwn.kr/news/photo/202608/53920_54045_2014.jpg"
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662842",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
         },
         {
           "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "삼성카드, ‘PLCC 군단’ 앞세워 신판 1위 정조준",
-          "desc": "삼성전자발 낙수효과도 삼성카드의 수익성 향상에 기여하는 요소다. 최정욱 하나증권 연구원은 6월 삼성카드의 생활가전 취급고가 전년 동기 대비 130% 급증하고 백화점 취급고도 늘어났다고 분석했다. 이는...",
-          "src": "ekn",
+          "title": "삼성전자, IDEA·레드닷서 57개상 싹쓸이…'인간 중심 디자인' 통했다",
+          "desc": "상으로, 삼성전자의 '가전 접근성 디자인'이 첫 수상의 영예를 안았다. 해당 디자인은 시·청각 및 인지 특성 등 신체적 조건에 상관없이 누구나 세탁기, 냉장고 등의 가전을 쉽게 다룰 수 있도록 돕는다. 화면...",
+          "src": "delighti",
           "date": "08/21",
-          "url": "https://www.ekn.kr/web/view.php?key=20260821025484842",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.75c22e289a564028b1caaaaf61ca65d5_R.jpeg"
+          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=120584",
+          "img": "https://cdn.delighti.co.kr/news/thumbnail/202608/120584_101618_621_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스카이랩스, 내달 코스닥 상장 추진…공모액 최대 320억",
-          "desc": "분석하는 기술을 보유하고 있다. 의료기기를 통해 확보한 데이터를 임상 연구와 의료AI 등에 활용하는... 회사에 따르면 올해 6월 기준 국내 빅5 병원 전체와 상급종합병원 47곳 가운데 38곳에 도입됐으며, 전국 병...",
-          "src": "medicopharma",
+          "title": "P7·공동패키지광학·용적이양제 [This Week 경제용어]",
+          "desc": "AI 반도체의 데이터 전송 속도가 빠르게 증가하고 데이터 병목 현상들이 발생하면서 앞으로 CPO 기술 도입이 필수로 꼽히고 있다. CPO는 전기 신호가 GPU를 벗어나자마자 광트랜시버를 거쳐 곧바로 광신호로...",
+          "src": "매일경제",
           "date": "08/21",
-          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69227",
-          "img": "https://cdn.medicopharma.co.kr/news/thumbnail/202608/69227_47787_3550_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000107696?sid=102",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "[위클리오늘] 경기도, 중대산업재해 예방 위한 '안전보건관리책임자 교...",
-          "desc": "소통방식을 도입할 방침이다. 이에 따라 추미애 지사가 직접 경기사랑 도민참여단에서 진행하는 온라인... 협업하는 기술이어야 하며, 공익을 위한 데이터 공유와 신뢰성 검증, 누구나 활용할 수 있는 경량화 AI, 환경을...",
-          "src": "weeklytoday",
+          "title": "피 한 방울로 10분 만에 질병 진단…'액체생검'이 바꿀 의료 미래",
+          "desc": "이러한 기술적 병목 현상을 해결하기 위해 '초음파'를 활용하는 혁신적인 아이디어를 도입했다. 초음파... 국내 바이오 업계 역시 자체 개발한 AI 바이오마커 분석 알고리즘을 액체생검 기술과 결합해 주요 암종의...",
+          "src": "mkhealth",
           "date": "08/21",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791193",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/791193_976570_474_v150.jpg"
+          "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79719",
+          "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202608/79719_92769_46_v150.jpg"
         },
         {
-          "title": "서울바이오허브-로슈진단, 스타트업 스프린트 데모데이 개최",
-          "desc": "6곳이 기술과 사업 모델을 공개 발표한다. 참여 기업은 △AMH(항뮐러관호르몬)를 활용한 여성 가임력 AI 예측... 참여해 AI 진단 기술의 정책·규제, 글로벌 사업화, 병원 도입 사례와 최신 기술 동향 등을 공유한다. 김현우...",
-          "src": "전자신문",
+          "title": "[의료기기업계 소식] 8월 21일",
+          "desc": "어떻게 활용돼야 하는지에 대한 생각을 국제사회와 공유할 수 있어 뜻깊었다\"고 말했다. 이어 \"앞으로도 AI 기반 뇌파 분석과 뉴로피드백 기술을 지속적으로 고도화해 누구나 자신의 뇌를 이해하고 보다 건강하게...",
+          "src": "doctorstimes",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/030/0003459300?sid=105",
-          "img": ""
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=239628",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202608/239628_110536_1218_v150.jpg"
         },
         {
-          "title": "메가존소프트, 농심그룹 14개 계열사 AX 체계 구축",
-          "desc": "영역에 AI를 활용할 수 있는 기반도 마련했다. 진건 메가존소프트 대표는 “메가존클라우드와 메가존소프트는 농심그룹이 GWS를 도입하는 과정에서 기술적 기반 구축부터 AI 중심의 업무를 돕는 변화 관리에...",
-          "src": "조선일보",
+          "title": "카카오 \"지금 속도를 내야 B2C AI 선도 주자될 것\"",
+          "desc": "감안하면 AI 기술과 성장 기대치를 원하는 투자자는 카카오AI의 밸류에이션을 더 높게 볼 것이고 사업의... 소각에 활용한다\"라면서 \"2027년부터 새로운 3개년 정책이 도입되며 잉여현금흐름이 전년 대비 50% 성장할 경우...",
+          "src": "econovill",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/366/0001187555?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/5DC55JKVT4XC6UBVUQRM5ZMWYA.jpg?auth=00f8251fb5fdf304b404493bbdcfba34883b92dfb6bb11b81fcddacabcf58d5b&width=801&height=420&smart=true"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=748614",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/748614_723416_23_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[오늘의브랜드] 케이스티파이, 지드래곤과 다시 쓰는 커스텀 플레이그라...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153876",
-      "img": "https://www.ibabynews.com/news/photo/202608/153876_120067_4750.jpg"
+      "title": "삼성전자, 국제 디자인 어워드 휩쓸어…갤럭시 S26 '프라이버시 화면' 최...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1404681",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202608/1404681_1192744_511_v150.jpg"
     },
     {
-      "title": "드리미, 개인정보 보호·AS 강화...한국 시장 신뢰 높인다",
-      "url": "https://www.cwn.kr/news/articleView.html?idxno=53920",
-      "img": "https://cdn.cwn.kr/news/photo/202608/53920_54045_2014.jpg"
+      "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662842",
+      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
     },
     {
       "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "삼성카드, ‘PLCC 군단’ 앞세워 신판 1위 정조준",
-      "url": "https://www.ekn.kr/web/view.php?key=20260821025484842",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.75c22e289a564028b1caaaaf61ca65d5_R.jpeg"
+      "title": "삼성전자, IDEA·레드닷서 57개상 싹쓸이…'인간 중심 디자인' 통했다",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=120584",
+      "img": "https://cdn.delighti.co.kr/news/thumbnail/202608/120584_101618_621_v150.jpg"
     },
     {
-      "title": "스카이랩스, 내달 코스닥 상장 추진…공모액 최대 320억",
-      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69227",
-      "img": "https://cdn.medicopharma.co.kr/news/thumbnail/202608/69227_47787_3550_v150.jpg"
+      "title": "P7·공동패키지광학·용적이양제 [This Week 경제용어]",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107696?sid=102",
+      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     },
     {
-      "title": "[위클리오늘] 경기도, 중대산업재해 예방 위한 '안전보건관리책임자 교...",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791193",
-      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/791193_976570_474_v150.jpg"
+      "title": "피 한 방울로 10분 만에 질병 진단…'액체생검'이 바꿀 의료 미래",
+      "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79719",
+      "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202608/79719_92769_46_v150.jpg"
     }
   ]
 };
