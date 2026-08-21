@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 22:12",
+  "updatedAt": "2026.08.21 (금) 23:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[종합]\"경영 판단 실패, 직원에 전가 말라\"…삼성 동행노조, 처우 개선 ...",
-          "desc": "/ 차현정 기자 조합원들은 이날 검은색 옷을 입고 삼성전자 TV와 가전 등 DX 제품을 영정사진 형태로 표현한 '故 DX' 피켓을 든 채 서초사옥 인근을 행진했다. \"경영 실패 책임져라\", \"역대 판매·역대 적자 설명하라\" 등의...",
-          "src": "서울신문",
+          "title": "“적자 직원에게 전가했다”…삼성전자 DX노조 3500명 집결",
+          "desc": "기자]삼성전자의 가전·TV·스마트폰 등 완제품 사업을 담당하는 DX(디바이스경험) 부문 중심의 노동조합인 ‘동행노조’가 최근 수익성 악화의 원인이 경영진의 경영 실패에 있다며 대규모 집회를 개최했다. 21일 오후...",
+          "src": "dnews",
           "date": "08/21",
-          "url": "http://www.metroseoul.co.kr/article/20260821500260",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/21/.cache/512/20260821500261.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608212058093790899",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608212058093790899-2-685535.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "세계 최초 100% 직류 공장 가동...AI시대 빅테크 관심, LS일렉에 쏠린다",
-          "desc": "LS일렉트릭 DC팩토리 가보니 전력 손실·발열 최소화 기술 AI 데이터센터서 활용하면 전력 병목 획기적 개선... 자사 기술력에 대한 자부심과 호기심으로 활기가 넘쳤다. 세계 최초로 100% 직류(DC) 배전을 도입한 ‘천안...",
-          "src": "매일경제",
+          "title": "구글, 빅쿼리 AI 에이전트로 데이터 준비 자동화",
+          "desc": "디 인포메이션은 구글 클라우드가 제미나이(Gemini) AI 도구를 고객이 활용하도록 돕기 위해 수백 명의 FDE... FDE는 고객사 업무 환경 안에서 제품을 실제로 작동하게 만드는 기술 인력이다. 통상 솔루션 아키텍트나...",
+          "src": "tokenpost",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/009/0005724244?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.42655e053475410d91418fdd43984944_R.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/395201",
+          "img": "https://f1.tokenpost.kr/2026/08/r1e2vpyvwf.jpg"
         },
         {
-          "title": "에스원 조사 “중소기업 78% 화재 위험 불안… 지능형 감지·AI 관제 도입...",
-          "desc": "제도 활용률이 저조한 것으로 나타났다. 에스원 측은 “중소 사업장의 사고 예방 역량을 실질적으로 끌어올리기 위해서는 조기 감지 중심의 스마트 안전 인프라 도입이 시급하다”라며 “AI CCTV와 열화상 카메라 등...",
-          "src": "dnews",
+          "title": "나무에이엑스, 솔로몬텍과 기업 AI·가상화 시장 공략",
+          "desc": "온프레미스 AI 도입 수요에 공동 대응한다. 나무에이엑스가 자체 플랫폼과 기술지원을 제공하고... 솔로몬텍의 고객 기반을 활용해 VMware 전환 수요에 대응하고 향후 공공기관과 중소·중견기업으로 적용 범위를 넓힐...",
+          "src": "kdpress",
           "date": "08/21",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608211656364150880",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608211656364150880-2-685508.jpg"
+          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207973",
+          "img": "https://cdn.kdpress.co.kr/news/photo/202608/207973_133860_550.jpg"
         },
         {
-          "title": "에스원, 전통시장 'AI 화재 알고리즘' 공급…\"발화 초기 감지부터 소방...",
-          "desc": "에스원 측은 이런 정책적 노력에 더해 기술 기반의 실질적 화재 대응망을 구축하고 있다고 강조했다. 에스원의 지능형 AI CCTV 솔루션 'SVMS'는 '화재 알고리즘'을 활용해 연기와 불꽃 등 초기 발화 징후를 스스로 식별하고...",
-          "src": "bizwnews",
+          "title": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\"",
+          "desc": "인공지능, AI가 사무실을 넘어 공장에서도 적극 활용되고 있습니다. 불량품을 빠르게 가려내며 생산성을... AI 도입 후 기존보다 속도가 최대 80% 가까이 빨라졌습니다. <김호식 / 대덕전자 검사기술팀장> \"기존 자동화는...",
+          "src": "연합뉴스TV",
           "date": "08/21",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=144049",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/144049_160941_15_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000898213?sid=101",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821225849Sdd.jpg"
         },
         {
-          "title": "에스원, AI 기반 전기차 충전구역 화재 감시 체계 공급 확대",
-          "desc": "정부 역시 충전 인프라 예산 확대와 함께 감시 장비 도입 지원을 전개하고 있다. 에스원은 화재 위험에... 에스원 측은 “전기차 관련 화재는 발화 초기에 확산을 차단하는 것이 핵심”이라며 “정밀한 AI 영상 기술...",
-          "src": "thepowernews",
+          "title": "배터리 갈아끼우는 플래그십, 젠하이저 모멘텀 트루 와이어리스 5 출격",
+          "desc": "각 이어버드에는 4개의 마이크가 탑재됐으며, 골전도 보이스 센서와 AI 기반 음성 처리 기술을 적용해 주변... 제공해 활용 범위를 넓혔다. 특히 배터리 교체가 가능한 설계를 도입한 점은 무선 이어폰 시장에서 차별화...",
+          "src": "technoa",
           "date": "08/21",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=2026082116391410469aeda69934_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211639580539409aeda6993417521136223.jpg&nmt=7"
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101289",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[종합]\"경영 판단 실패, 직원에 전가 말라\"…삼성 동행노조, 처우 개선 ...",
-      "url": "http://www.metroseoul.co.kr/article/20260821500260",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/21/.cache/512/20260821500261.jpg"
+      "title": "“적자 직원에게 전가했다”…삼성전자 DX노조 3500명 집결",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608212058093790899",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608212058093790899-2-685535.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858656_879912_620_v150.jpg"
     },
     {
-      "title": "세계 최초 100% 직류 공장 가동...AI시대 빅테크 관심, LS일렉에 쏠린다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005724244?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.42655e053475410d91418fdd43984944_R.jpg"
+      "title": "구글, 빅쿼리 AI 에이전트로 데이터 준비 자동화",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/395201",
+      "img": "https://f1.tokenpost.kr/2026/08/r1e2vpyvwf.jpg"
     },
     {
-      "title": "에스원 조사 “중소기업 78% 화재 위험 불안… 지능형 감지·AI 관제 도입...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608211656364150880",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608211656364150880-2-685508.jpg"
+      "title": "나무에이엑스, 솔로몬텍과 기업 AI·가상화 시장 공략",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=207973",
+      "img": "https://cdn.kdpress.co.kr/news/photo/202608/207973_133860_550.jpg"
     }
   ]
 };
