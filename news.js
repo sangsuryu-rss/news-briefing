@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 19:49",
+  "updatedAt": "2026.08.21 (금) 22:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[현장] 3500명 모인 삼성전자 DX 노조… \"경영실패 책임 전가 말라\"",
-          "desc": "스마트폰과 가전 등을 담당하는 삼성전자 DX(디바이스경험)부문 중심의 삼성전자 노동조합 동행(동행노조)가 21일 서울 강남구 삼성전자 서초사옥 앞에서 집회를 열고 반도체(DS)부문과의 성과급 격차 해소 등을...",
-          "src": "newscj",
+          "title": "[종합]\"경영 판단 실패, 직원에 전가 말라\"…삼성 동행노조, 처우 개선 ...",
+          "desc": "/ 차현정 기자 조합원들은 이날 검은색 옷을 입고 삼성전자 TV와 가전 등 DX 제품을 영정사진 형태로 표현한 '故 DX' 피켓을 든 채 서초사옥 인근을 행진했다. \"경영 실패 책임져라\", \"역대 판매·역대 적자 설명하라\" 등의...",
+          "src": "서울신문",
           "date": "08/21",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3426894",
-          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426894_3540098_4533_v150.jpg"
+          "url": "http://www.metroseoul.co.kr/article/20260821500260",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/21/.cache/512/20260821500261.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "글로벌 디자인 어워드서 삼성전자·LG전자·LGU+ 등 수상 릴레이",
-          "desc": "누구나 세탁기·냉장고를 쉽게 쓸 수 있게 한 '가전 접근성 디자인'이 선정됐다. 화면 글자 확대와 음성 안내, 가벼운 터치나 음성으로 문을 여는 자동 문 열림 기능 등이 담겼다. 삼성전자는 레드닷 디자인 어워드 2026...",
-          "src": "biztribune",
+          "title": "954.5㎜ 물폭탄 맞은 거제, \"특별재난지역\" 됐다",
+          "desc": "집 안으로 들어온 물 때문에 냉장고나 세탁기 같은 가전제품을 쓰지 못하는 주민들은 무상수리를 받을 수 있다. 삼성전자서비스와 LG전자서비스에 방문 서비스를 신청하면 침수 가전제품을 수리받을 수 있으며, 고가...",
+          "src": "한스경제",
           "date": "08/21",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357770",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357770_263021_3945_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858656",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858656_879912_620_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "박홍근 \"청년 지원은 단순 수혜 넘어 전략적 투자…'생애 1회' 문화예술...",
-          "desc": "기금 활용으로 연간 국채 발행량을 줄여 재정건전성을 오히려 탄탄하게 관리하겠다\"고 덧붙였다. 정부... 이 재원은 프런티어 급 인공지능(AI)·데이터센터 인프라 구축, SMR·핵융합 등 7대 SEED 기술, 지역 생활 인프라 및...",
-          "src": "view",
+          "title": "세계 최초 100% 직류 공장 가동...AI시대 빅테크 관심, LS일렉에 쏠린다",
+          "desc": "LS일렉트릭 DC팩토리 가보니 전력 손실·발열 최소화 기술 AI 데이터센터서 활용하면 전력 병목 획기적 개선... 자사 기술력에 대한 자부심과 호기심으로 활기가 넘쳤다. 세계 최초로 100% 직류(DC) 배전을 도입한 ‘천안...",
+          "src": "매일경제",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/277/0005805920?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082111480388415_1787280483.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005724244?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.42655e053475410d91418fdd43984944_R.jpg"
         },
         {
-          "title": "최홍선 \"피지컬AI, 경단위 시장 연다\"",
-          "desc": "최 대표는 이를 중소 제조 현장의 도입 가능성을 판단하는 기준으로도 제시했다. 그는 \"로봇을 원격으로... ◆VLA로 보고 이해해 행동…\"한국도 세계 1등 가능\" 피지컬 AI의 핵심 기술은 시각·언어·행동 모델(Vision-Language...",
-          "src": "이데일리",
+          "title": "에스원 조사 “중소기업 78% 화재 위험 불안… 지능형 감지·AI 관제 도입...",
+          "desc": "제도 활용률이 저조한 것으로 나타났다. 에스원 측은 “중소 사업장의 사고 예방 역량을 실질적으로 끌어올리기 위해서는 조기 감지 중심의 스마트 안전 인프라 도입이 시급하다”라며 “AI CCTV와 열화상 카메라 등...",
+          "src": "dnews",
           "date": "08/21",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=362062",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/362062_297127_3136_v150.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608211656364150880",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608211656364150880-2-685508.jpg"
         },
         {
-          "title": "의료AI 성적 희비…환자 모니터링 '흑자', 판독은 '적자'",
-          "desc": "병원은 모니터링 AI를 요건에 맞는 환자에게 활용하면 환자 한 명당 하루 단위의 '원격심박기술에 의한... 앞으로 영상 판독 AI의 수익화 속도는 정식 수가 도입과 국가검진 확대 여부에 따라 달라질 전망입니다....",
-          "src": "서울경제TV",
+          "title": "에스원, 전통시장 'AI 화재 알고리즘' 공급…\"발화 초기 감지부터 소방...",
+          "desc": "에스원 측은 이런 정책적 노력에 더해 기술 기반의 실질적 화재 대응망을 구축하고 있다고 강조했다. 에스원의 지능형 AI CCTV 솔루션 'SVMS'는 '화재 알고리즘'을 활용해 연기와 불꽃 등 초기 발화 징후를 스스로 식별하고...",
+          "src": "bizwnews",
           "date": "08/21",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608210116",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/21/sentv20260821000205.jpg"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=144049",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202608/144049_160941_15_v150.jpg"
         },
         {
-          "title": "“대기업은 AI 에이전트, 협력사는 엑셀”… 제조업 AX 양극화",
-          "desc": "현장에 다양한 기술적 대안이 등장하고 있지만, 궁극적인 공급망 AX 안착을 위해서는 한경협 측 제언처럼 ‘협력사 AI 도입 비용 지원(43.7%)’과 ‘업종별 표준모델 개발(25.5%)’ 등 실질적인 정책 뒷받침이 병행돼야...",
-          "src": "kidd",
+          "title": "에스원, AI 기반 전기차 충전구역 화재 감시 체계 공급 확대",
+          "desc": "정부 역시 충전 인프라 예산 확대와 함께 감시 장비 도입 지원을 전개하고 있다. 에스원은 화재 위험에... 에스원 측은 “전기차 관련 화재는 발화 초기에 확산을 차단하는 것이 핵심”이라며 “정밀한 AI 영상 기술...",
+          "src": "thepowernews",
           "date": "08/21",
-          "url": "https://kidd.co.kr/news/247112",
-          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787303411_12.jpg"
+          "url": "https://www.thepowernews.co.kr/view.php?ud=2026082116391410469aeda69934_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608211639580539409aeda6993417521136223.jpg&nmt=7"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[현장] 3500명 모인 삼성전자 DX 노조… \"경영실패 책임 전가 말라\"",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3426894",
-      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426894_3540098_4533_v150.jpg"
+      "title": "[종합]\"경영 판단 실패, 직원에 전가 말라\"…삼성 동행노조, 처우 개선 ...",
+      "url": "http://www.metroseoul.co.kr/article/20260821500260",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/21/.cache/512/20260821500261.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "글로벌 디자인 어워드서 삼성전자·LG전자·LGU+ 등 수상 릴레이",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357770",
-      "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357770_263021_3945_v150.jpg"
+      "title": "954.5㎜ 물폭탄 맞은 거제, \"특별재난지역\" 됐다",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858656",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858656_879912_620_v150.jpg"
     },
     {
-      "title": "박홍근 \"청년 지원은 단순 수혜 넘어 전략적 투자…'생애 1회' 문화예술...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005805920?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082111480388415_1787280483.jpg"
+      "title": "세계 최초 100% 직류 공장 가동...AI시대 빅테크 관심, LS일렉에 쏠린다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724244?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.42655e053475410d91418fdd43984944_R.jpg"
     },
     {
-      "title": "최홍선 \"피지컬AI, 경단위 시장 연다\"",
-      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=362062",
-      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202608/362062_297127_3136_v150.jpg"
+      "title": "에스원 조사 “중소기업 78% 화재 위험 불안… 지능형 감지·AI 관제 도입...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608211656364150880",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/21/202608211656364150880-2-685508.jpg"
     }
   ]
 };
