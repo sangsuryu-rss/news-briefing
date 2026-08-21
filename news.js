@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.21 (금) 07:46",
+  "updatedAt": "2026.08.21 (금) 10:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"지금이 체질 개선 기회\"…삼성·SK하이닉스 '내부 정비' 속도",
-          "desc": "메모리 가격 상승은 반도체(DS) 사업에는 실적 개선 요인이지만 스마트폰·TV·가전 등 완제품(DX) 사업에는 부품 원가 상승으로 돌아오기 때문이다. 실제로 삼성전자의 DX 부문은 부품 원가 상승과 전방 수요 회복 지연...",
-          "src": "뉴스1",
+          "title": "금호건설, 전남광주통합특별시에 ‘삼성전자 플랙트 한국공장’ 짓는다",
+          "desc": "이번 생산시설은 삼성전자가 플랙트그룹 인수 이후 국내에 구축하는 첫 번째 HVAC 생산거점이다. 신규 생산설비 구축을 통해 광주사업장을 AI 가전과 HVAC를 아우르는 글로벌 생산거점으로 육성한다. 금호건설은 이번...",
+          "src": "매일경제",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/421/0009124940?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2025/12/30/7674083/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005723917?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.2255ec302a914a6198127fc194e17c5d_R.jpg"
         },
         {
           "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168540_450616_1621_v150.jpg"
         },
         {
-          "title": "삼성전자, HVAC에 힘준다…'광주·인도'서 생산능력 확대",
-          "desc": "세탁건조기 △비스포크 AI 무풍에어컨 등을 생산하는 핵심 인공지능(AI) 가전 거점으로 자리매김해왔다. 광주 생산라인은 삼성전자의 15번째 글로벌 생산시설이자 글로벌 AI 데이터센터 공략을 위한 핵심 거점으로...",
-          "src": "아시아타임즈",
-          "date": "08/20",
-          "url": "https://www.asiatime.co.kr/article/20260820500256",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
+          "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
+          "desc": "삼성전자는 2024년 12월 시각보조 앱 설리번 플러스의 '가전 QR 모드'가 12개 제품군 5,895개 모델을 구별할 수... LG전자는 컴포트 키트 가운데 세탁기·건조기 이지핸들의 사용 가능 모델을 398개, 에어컨 리모컨 커버의 사용...",
+          "src": "ablenews",
+          "date": "08/21",
+          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232735",
+          "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "[비즈&플러스] 로봇에 힘 싣는 삼성·LG‥편의점 '스몰 밀' 인기",
-          "desc": "자체 제작한 LG클로이드를 투입해 가정처럼 꾸민 공간에서 청소를 시키고 미국 테네시 세탁기 공장 공정을... \" 삼성전자도 로봇분야에 힘을 싣고 있습니다. 자회사 레인보우로보틱스의 협동로봇, 양팔로봇, 자율이동로봇...",
-          "src": "imnews",
+          "title": "K-가전 'IDEA 2026' 휩쓸었다… 삼성·LG·코웨이, 글로벌 역량 입증",
+          "desc": "상으로, 삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 영예를 안았다. 이 디자인은 시각·청각·움직임·인지 등 사용자마다 다른 신체적 특성을 세심하게 배려해 누구나 냉장고, 세탁기 등의...",
+          "src": "newscj",
           "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/214/0001519208?sid=101",
-          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/21/today_20260821_073818_2_31_Large.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3426747",
+          "img": "https://cdn.newscj.com/news/thumbnail/202608/3426747_3539836_4748_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 확인…민감도 ...",
-          "desc": "연구팀은 이 원리를 활용해 2024년 삼킴 직후 목소리만으로 흡인 위험군과 정상군을 구분하는 AI 모델을... 이에 연구팀은 모든 음성 데이터를 2초 단위로 자동 분할해 표준화하는 방식을 도입한 바 있다. 나아가 자동...",
-          "src": "medicalworldnews",
+          "title": "카페24, 한국직업전문학교와 AI 인재 양성 협력",
+          "desc": "사진=카페24 산업 현장에 AI 기술이 빠르게 도입되면서 실무 역량을 갖춘 AI 인재의 중요성이 부각되고... 이번 협약은 AI 기술을 교육 현장에 접목해 교육생들이 AI를 활용한 프로젝트를 수행하고 결과물을 실제...",
+          "src": "sisacast",
           "date": "08/21",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976735",
-          "img": ""
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=99018",
+          "img": "http://www.sisacast.kr/news/thumbnail/202608/99018_107890_3847_v150.jpg"
         },
         {
-          "title": "\"오 노! AI 시대에 MLB에서 이런 일이…\" 돈돈돈, 돈 때문이야, 30호 역전...",
-          "desc": "뒤집기에는 기술적 한계가 명확했다. ▶알론소·알버나즈 감독 \"축구·NFL처럼 레이저나 AI 트래킹 도입해야... 다른 종목이나 팀들은 AI와 볼 트래킹 데이터를 비디오 판독에 활용하는데, 왜 MLB는 하지 않는지 이해할 수...",
-          "src": "조선일보",
+          "title": "AI 포트홀 탐지시스템 구축 사업, 올바른 추진체계 필요",
+          "desc": "경기도 수원시는 AI 기술을 활용해 포트홀을 탐지하고 신속하게 정비할 방침이다. [사진=수원시]... 이에 AI 분석 소프트웨어(SW) 개발·도입과 영상정보 처리기기 및 전송장비 설치, 관제 플랫폼 구축 등이 하나의 사업에...",
+          "src": "koit",
           "date": "08/21",
-          "url": "https://m.sports.naver.com/wbaseball/article/076/0004437914",
-          "img": "https://www.sportschosun.com/article/html/2026/08/21/2026082101001237700078541.jpg"
+          "url": "https://www.koit.co.kr/news/articleView.html?idxno=208498",
+          "img": "https://cdn.koit.co.kr/news/photo/202608/208498_98288_1943.jpg"
         },
         {
-          "title": "강용남 HP코리아 대표 \"AI가 사람 돕는 일의 미래 만든다\" [인터뷰]",
-          "desc": "도구로 활용되는 방향으로 나아갈 것이라는 전망이 나왔다. AI의 혜택을 극대화하려면 단순한 기술 도입을 넘어 조직 차원의 준비도 필요하다는 지적이다. HP는 이러한 '일의 미래'를 지원하기 위해 조직 내 AI 기술 활용...",
-          "src": "조선일보",
+          "title": "인하대, 표면 센서로 내부 온도 30초 만에 추정하는 AI 기술 개발",
+          "desc": "알고리즘을 활용해 내부 온도를 빠르고 정확하게 추정하는 AI 기반 온도 모니터링 기술을 개발했다고... 데 활용할 수 있을 것으로 기대된다. 또한 기존 설비를 교체하지 않고도 데이터 기반 관리 체계를 도입할 수...",
+          "src": "동아일보",
           "date": "08/21",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168555",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168555_450633_4547_v150.jpg"
+          "url": "https://edu.donga.com/news/articleView.html?idxno=111108",
+          "img": "https://cdn.edu.donga.com/news/photo/202608/111108_175486_5236.jpg"
         },
         {
-          "title": "[N2 포커스] AI 올라탄 항공업계…정비·운항 넓혀도 마지막 판단은 '사...",
-          "desc": "사내 위험물 관련 규정과 정보를 기반으로 필요한 내용을 찾아주는 J-RAG도 개발해 활용하고 있으며, 앞서 아마존웹서비스(AWS)와 협력해 항공기 정비 분야 AI 기술 도입도 추진했다. 제주항공 관계자는 <뉴스투데이>에...",
-          "src": "news2day",
+          "title": "주권상장법인 합병가액, 주식가격·자산가치·수익가치 등 종합 고려해...",
+          "desc": "개인정보보호법 개정안은 엄격한 안전관리를 토대로 개인정보를 인공지능(AI) 기술 개발에 활용할 수 있도록... 개정안은 기술유용행위 피해기업의 손해 증명을 돕기 위해 당사자 자료제출명령을 확대 도입했다. 또한...",
+          "src": "taxtimes",
           "date": "08/21",
-          "url": "https://www.news2day.co.kr/article/20260820500214",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/20/.cache/512/20260820500251.jpg"
+          "url": "https://www.taxtimes.co.kr/news/article.html?no=276478",
+          "img": "https://www.taxtimes.co.kr/data/design/logo/default_image_share_20260130104033.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"지금이 체질 개선 기회\"…삼성·SK하이닉스 '내부 정비' 속도",
-      "url": "https://n.news.naver.com/mnews/article/421/0009124940?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2025/12/30/7674083/high.jpg"
+      "title": "금호건설, 전남광주통합특별시에 ‘삼성전자 플랙트 한국공장’ 짓는다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723917?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.2255ec302a914a6198127fc194e17c5d_R.jpg"
     },
     {
       "title": "샤오미 '가성비'는 옛말?… 로봇청소기 프리미엄 전략 통할까",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168540_450616_1621_v150.jpg"
     },
     {
-      "title": "삼성전자, HVAC에 힘준다…'광주·인도'서 생산능력 확대",
-      "url": "https://www.asiatime.co.kr/article/20260820500256",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/20/.cache/512/20260820500255.jpg"
+      "title": "'표준은 있는데 준수율은 없다' 가전 접근성 국가책임에 대한 생각",
+      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=232735",
+      "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "[비즈&플러스] 로봇에 힘 싣는 삼성·LG‥편의점 '스몰 밀' 인기",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519208?sid=101",
-      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/21/today_20260821_073818_2_31_Large.jpg"
+      "title": "K-가전 'IDEA 2026' 휩쓸었다… 삼성·LG·코웨이, 글로벌 역량 입증",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3426747",
+      "img": "https://cdn.newscj.com/news/thumbnail/202608/3426747_3539836_4748_v150.jpg"
     },
     {
-      "title": "\"오 노! AI 시대에 MLB에서 이런 일이…\" 돈돈돈, 돈 때문이야, 30호 역전...",
-      "url": "https://m.sports.naver.com/wbaseball/article/076/0004437914",
-      "img": "https://www.sportschosun.com/article/html/2026/08/21/2026082101001237700078541.jpg"
+      "title": "카페24, 한국직업전문학교와 AI 인재 양성 협력",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=99018",
+      "img": "http://www.sisacast.kr/news/thumbnail/202608/99018_107890_3847_v150.jpg"
     },
     {
-      "title": "강용남 HP코리아 대표 \"AI가 사람 돕는 일의 미래 만든다\" [인터뷰]",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168555",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168555_450633_4547_v150.jpg"
+      "title": "AI 포트홀 탐지시스템 구축 사업, 올바른 추진체계 필요",
+      "url": "https://www.koit.co.kr/news/articleView.html?idxno=208498",
+      "img": "https://cdn.koit.co.kr/news/photo/202608/208498_98288_1943.jpg"
     }
   ]
 };
