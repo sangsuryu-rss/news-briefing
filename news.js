@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 01:53",
+  "updatedAt": "2026.08.22 (토) 03:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
-          "desc": "삼성전자와 LG전자가 나란히 세계적인 디자인 어워드에서 수상에 성공했다. 프리미엄 가전 시장 경쟁이 심화되며, 성능뿐만 아니라 세련된 디자인도 중요한 경쟁 요인으로 부상하고 있는 모양새다. 21일 삼성전자는...",
-          "src": "동아일보",
+          "title": "삼전 DX 노조 3천5백 명 집회...\"경영실패 책임져라\"",
+          "desc": "가전·TV·스마트폰 등을 담당하는 디바이스 경험, DX 부문 직원들을 중심으로 구성된 삼성전자 동행 노동조합이 수익성 악화는 경영진의 경영실패라고 규탄했습니다. 동행노조는 어제(21일) 오후 서울 서초구 삼성전자...",
+          "src": "ytn",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002396607?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0822/202608220309467280_t.jpg"
         },
         {
           "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
         },
         {
-          "title": "삼성·LG는 로봇 눈, 스타트업은 두뇌와 관절 개발에 집중",
-          "desc": "가전 사업에서 축적한 모터 기술을 토대로 로봇 부품 시장 공략에 나선 것이다. LG전자 자체 휴머노이드인 ‘LG 클로이드’를 시작으로 글로벌 고객사들에 부품을 공급한다는 계획이다. 삼성전자도 지난달 대표이사 직속...",
-          "src": "조선일보",
+          "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
+          "desc": "삼성전자와 LG전자가 나란히 세계적인 디자인 어워드에서 수상에 성공했다. 프리미엄 가전 시장 경쟁이... 시각, 청각, 움직임, 인지 등 사용자마다 다른 특성을 고려해 누구나 세탁기와 냉장고 등 가전을 쉽고...",
+          "src": "동아일보",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994309?sid=105",
-          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2353"
+          "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
+          "desc": "온라인 표현의 자유와 프라이버시 기술을 다루는 프로그램에 데이터 분석·방산 기업이 들어가면서... 국무부는 인터셉트에 FTEP가 국무부 내부의 AI 활용이나 운영 역량을 강화하려는 프로그램은 아니라고...",
+          "src": "tokenpost",
+          "date": "08/22",
+          "url": "https://www.tokenpost.kr/news/policy/395293",
+          "img": "https://f1.tokenpost.kr/2026/08/vejanmljqg.jpg"
+        },
+        {
+          "title": "[패트롤] 수원시-경기광주시-성남시-안성시-여주시",
+          "desc": "또한, 국산 목재 산책로와 친환경 황토 포장재를 도입해 탄소 저감 및 산림 보전에 기여하고 주변... 자격증·AI 활용 역량 강화 프로그램 확충으로 재취업 및 사회공헌 연계 안성=에너지경제신문 송기우 기자 안성시가...",
+          "src": "ekn",
+          "date": "08/22",
+          "url": "https://www.ekn.kr/web/view.php?key=20260822020135315",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260822.ec7bda1c422041f683077b32056acf9e_R.jpg"
+        },
         {
           "title": "[WRC 2026] 중국 국유기업들, 로봇 도입·활용에 '박차'",
           "desc": "기술 공동 개발과 적용 현장 공유, 성과 공동 활용을 통해 로봇산업의 상용화를 지원한다는 계획이다. 이... 체화 AI(Embodied AI)를 새로운 경제 성장 동력으로 육성하겠다는 방침을 분명히 했다. 올해 6월에는 중국...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "https://www.wikitree.co.kr/articles/1154017",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/22/202608220010178929_ai.jpeg"
-        },
-        {
-          "title": "중국산 전기차를 누가 타냐고?…‘21세기 북학의’ 절실",
-          "desc": "공공기관이 관여하는 노선버스 같은 분야에서 빠르게 전기버스를 도입한 것이다. 노선버스는 딱히 브랜드를... 전기차라는 새로운 기술에 적응해야 한다는 문제와 환경 문제를 역으로 기회로 활용해 중국에서 세계의...",
-          "src": "중앙일보",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056404?sid=110",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/22/c743d9b2-9436-4838-8405-94621ca816c8.jpg"
-        },
-        {
-          "title": "카카오, 창사 이래 최대 지배구조 개편 ... 'AI'와 '투자' 회사로 쪼갠다",
-          "desc": "카카오AI도 2027년부터 2029년까지 잉여현금흐름의 20~35%를 주주환원 재원으로 활용할 예정이다. 카카오는 올해 안에 기업지배구조 핵심지표 준수율 100%를 달성하고, 소액주주 권익 보호를 위한 집중투표제도 도입한다...",
-          "src": "worktoday",
-          "date": "08/22",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88255",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88255_127073_2233_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
+      "title": "삼전 DX 노조 3천5백 명 집회...\"경영실패 책임져라\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396607?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0822/202608220309467280_t.jpg"
     },
     {
       "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ablenews.co.kr/news/thumbnail/202608/232735_129614_3438_v150.jpg"
     },
     {
-      "title": "삼성·LG는 로봇 눈, 스타트업은 두뇌와 관절 개발에 집중",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994309?sid=105",
-      "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2353"
+      "title": "성능 넘어… 삼성-LG, 국제 디자인상 휩쓸어",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742584?sid=102",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
     },
     {
-      "title": "[WRC 2026] 중국 국유기업들, 로봇 도입·활용에 '박차'",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48034",
-      "img": "https://cdn.irobotnews.com/news/photo/202608/48034_102964_4345.png"
+      "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
+      "url": "https://www.tokenpost.kr/news/policy/395293",
+      "img": "https://f1.tokenpost.kr/2026/08/vejanmljqg.jpg"
     },
     {
-      "title": "마이크로소프트 코파일럿, 캐물었더니 스스로 취약점 실토…링크만 열...",
-      "url": "https://www.wikitree.co.kr/articles/1154017",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/22/202608220010178929_ai.jpeg"
+      "title": "[패트롤] 수원시-경기광주시-성남시-안성시-여주시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260822020135315",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260822.ec7bda1c422041f683077b32056acf9e_R.jpg"
     }
   ]
 };
