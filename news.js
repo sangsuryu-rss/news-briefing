@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 03:58",
+  "updatedAt": "2026.08.22 (토) 05:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "수능 서·논술형 도입 확정 아니라지만...“학원 더 늘어, 채점은 어떻게...",
+          "desc": "국가교육위원회가 논란이 되고 있는 대학수학능력시험 서·논술형 평가 도입과 관련해 확정된 사안이... 올 10월 시안 공개, 내년 3월 최종안 확정 이 상임위원은 “인공지능(AI) 기술이 하루가 다르게 발전하는 가운데...",
+          "src": "서울경제",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/011/0004654038?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/rcv.YNA.20260803.PYH2026080308640001300_R.jpg"
+        },
+        {
           "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
           "desc": "온라인 표현의 자유와 프라이버시 기술을 다루는 프로그램에 데이터 분석·방산 기업이 들어가면서... 국무부는 인터셉트에 FTEP가 국무부 내부의 AI 활용이나 운영 역량을 강화하려는 프로그램은 아니라고...",
           "src": "tokenpost",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "https://www.irobotnews.com/news/articleView.html?idxno=48034",
           "img": "https://cdn.irobotnews.com/news/photo/202608/48034_102964_4345.png"
-        },
-        {
-          "title": "마이크로소프트 코파일럿, 캐물었더니 스스로 취약점 실토…링크만 열...",
-          "desc": "대한 기술적 세부사항이 드러났다”고 말했다. 그는 “코파일럿은 결국 문서화되지 않은 파라미터를... Varonis 역시 이 취약점이 실제로 악용된 사례는 확인되지 않았다고 밝혔다.다만 이번 사례는 기업용 AI 도입...",
-          "src": "wikitree",
-          "date": "08/22",
-          "url": "https://www.wikitree.co.kr/articles/1154017",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/22/202608220010178929_ai.jpeg"
         }
       ]
     },
@@ -146,7 +146,7 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "08/11",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "img": ""
         },
         {
           "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134520999.4.jpg"
     },
     {
+      "title": "수능 서·논술형 도입 확정 아니라지만...“학원 더 늘어, 채점은 어떻게...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654038?sid=102",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/rcv.YNA.20260803.PYH2026080308640001300_R.jpg"
+    },
+    {
       "title": "팔란티어·안두릴, 미 디지털 자유 프로그램 합류",
       "url": "https://www.tokenpost.kr/news/policy/395293",
       "img": "https://f1.tokenpost.kr/2026/08/vejanmljqg.jpg"
-    },
-    {
-      "title": "[패트롤] 수원시-경기광주시-성남시-안성시-여주시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260822020135315",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260822.ec7bda1c422041f683077b32056acf9e_R.jpg"
     }
   ]
 };
