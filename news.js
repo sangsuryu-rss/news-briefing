@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 22:02",
+  "updatedAt": "2026.08.22 (토) 23:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 성과급에 뿔난 삼성전자 DX노조…\"100배 격차\"에 노노갈등 격화",
-          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자 DX(스마트폰·가전 등 완제품) 부문 중심의 노동조합 동행(이하 동행노조)이 21일 서초사옥 앞에서 개최한 집회가 사전 예고했던 참석 규모에 못 미친 것으로 나타났다. 금요일...",
-          "src": "joongangenews",
+          "title": "[용인 민선 9기 연속기획⑦·총정리] 이상일 시장, 민선 8기 성과 넘어 ...",
+          "desc": "삼성전자 첨단시스템반도체 국가산업단지와 SK하이닉스 반도체클러스터, 경기용인 플랫폼시티가 추진되고... 민선 9기에는 그린에코파크와 탄소중립 실천 인센티브, 자원순환경제, 소형 폐가전 수거, 투명페트병...",
+          "src": "newstown",
           "date": "08/22",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541917",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/541917_347880_4346.png"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713262",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713262_668130_3157_v150.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“회당 출연료 5억 주더니” 충격적인 적자 사태…추락한 콘텐츠 왕좌 ...",
-          "desc": "인공지능(AI) 도입을 확대하고 있다. 한국 드라마에도 조만간 AI 배우가 나올 전망이다. 불과 몇 년 전까지... 올해 최대 흥행 드라마로 꼽히는 ‘김부장’도 AI 기술을 활용했다. 특수요원 출신 주인공 김부장(소지섭 분)...",
-          "src": "헤럴드경제",
+          "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
+          "desc": "양사는 앞으로 산업별 과제 분석부터 시작해 맞춤형 아키텍처 설계, 양자 알고리즘 검토와 기술검증(PoC), 도입 컨설팅과 운영 지원, 공동 세미나까지 전 과정에 걸쳐 협력할 계획이다. 주요 타깃 산업은 AI와 바이오...",
+          "src": "worktoday",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/016/0002687061?sid=105",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.05ef773c45b647f59b8f34ea1b168d8b_T1.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88264",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88264_127089_329_v150.jpg"
         },
         {
-          "title": "피지컬 AI 확산 속 제조 양극화 심화……섬유패션은 '사람+로봇' 하이브...",
-          "desc": "현재 제조현장에 가장 많이 들어간 피지컬 AI는 휴머노이드가 아니다. 이미 도입한 기업의 활용 유형은... 섬유패션업계에서 제조 AI의 적용 순서는 다른 산업과 다소 다를 가능성이 크다. 산업부의 2026년 산업기술 R&D...",
-          "src": "전자신문",
+          "title": "제주 감귤 관측도 AI 시대… 생산량 조사 '자동화'",
+          "desc": "제주특별자치도가 올해 노지감귤 생산량을 예측하는 관측조사에 스마트폰 영상과 인공지능(AI)을 활용한 자동화 기술을 본격 도입한다. 조사원이 감귤 열매를 일일이 세고 측정하던 방식에서 벗어나 AI가 영상 속 열매의...",
+          "src": "youngnong",
           "date": "08/22",
-          "url": "http://www.ktnews.com/news/articleView.html?idxno=147875",
-          "img": "http://www.ktnews.com/news/thumbnail/202608/147875_128997_3835_v150.jpg"
+          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61746",
+          "img": "http://cdn.youngnong.co.kr/news/photo/202608/61746_53287_2743.jpg"
         },
         {
-          "title": "6000억 달러 AI 지출, 도입률 18%와 엇박자",
-          "desc": "예상됐지만, 활용은 대기업과 정보·전문서비스·금융업에 상대적으로 몰렸다. AI를 도입한 기업 가운데... 반면 AI 소프트웨어와 업무 적용 방식은 더 빠르게 바뀐다. 장기 인프라 투자와 짧은 기술 변화 주기가...",
-          "src": "tokenpost",
+          "title": "[평택 민선 9기 연속기획⑦·총정리] 최원용 시장의 195개 약속…행정 실...",
+          "desc": "자료를 활용할 수 있고, 민원정보를 분석하면 반복되는 생활불편과 지역별 정책수요를 파악할 수 있다. 데이터 행정은 교통과 복지, 환경 등 앞서 살펴본 공약의 실효성을 높이는 공통 기반이다. 그러나 AI를 도입한다는...",
+          "src": "newstown",
           "date": "08/22",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/395673",
-          "img": "https://f1.tokenpost.kr/2026/08/yqkjiuo3yw.png"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713263",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713263_668131_3844_v150.jpg"
         },
         {
-          "title": "[기획특집] 영남대, 2027학년도 수시 4225명 선발…AI융합전공 신설",
-          "desc": "인공지능(AI)과 정보보안 등 산업 수요를 반영한 전공을 확대하고 의예과 지역의사선발 전형을 처음 도입... 2027학년도부터 신입생을 모집하는 AI융합전공은 인공지능 기술을 산업 현장에 적용할 수 있는 융합형 인재...",
-          "src": "kbsm",
+          "title": "한국 여성 54.5% “여자도 군대 가야”…그럼 병력절벽 해소될까?",
+          "desc": "2027년부터 기술집약형부사관 약 3000명을 선발하겠다고 밝혔다. 유·무인복합체계와 인공지능(AI), 사이버... 실제 도입에는 병역법 개정과 함께 필요한 병력 규모와 여성 장병의 보직, 교육훈련, 병영시설 등을 다시...",
+          "src": "서울신문",
           "date": "08/22",
-          "url": "https://www.kbsm.net/news/view.php?idx=531140",
-          "img": "https://www.kbsm.net/data/newsThumb/1787368068ADD_thumb780.png"
+          "url": "https://n.news.naver.com/mnews/article/081/0003672592?sid=100",
+          "img": "https://img.seoul.co.kr//img/upload/2023/08/13/SSC_20230813114230_O2.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 성과급에 뿔난 삼성전자 DX노조…\"100배 격차\"에 노노갈등 격화",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541917",
-      "img": "https://cdn.joongangenews.com/news/photo/202608/541917_347880_4346.png"
+      "title": "[용인 민선 9기 연속기획⑦·총정리] 이상일 시장, 민선 8기 성과 넘어 ...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713262",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713262_668130_3157_v150.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
-      "title": "“회당 출연료 5억 주더니” 충격적인 적자 사태…추락한 콘텐츠 왕좌 ...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687061?sid=105",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.05ef773c45b647f59b8f34ea1b168d8b_T1.jpg"
+      "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88264",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88264_127089_329_v150.jpg"
     },
     {
-      "title": "피지컬 AI 확산 속 제조 양극화 심화……섬유패션은 '사람+로봇' 하이브...",
-      "url": "http://www.ktnews.com/news/articleView.html?idxno=147875",
-      "img": "http://www.ktnews.com/news/thumbnail/202608/147875_128997_3835_v150.jpg"
+      "title": "제주 감귤 관측도 AI 시대… 생산량 조사 '자동화'",
+      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61746",
+      "img": "http://cdn.youngnong.co.kr/news/photo/202608/61746_53287_2743.jpg"
     }
   ]
 };
