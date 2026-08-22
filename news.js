@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 07:43",
+  "updatedAt": "2026.08.22 (토) 10:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘IDEA 2026’ 삼성 45개·LG 17개 수상…접근성·혁신 디자인 호평",
-          "desc": "올해는 사용자별 특성을 고려한 가전 접근성 디자인과 지속가능성, 미래 라이프스타일을 제안하는 선행 디자인 등이 수상작에 포함됐다. 삼성전자는 올해 신설된 ‘임팩트상’을 받았다. 시각·청각·움직임...",
-          "src": "서울경제",
+          "title": "리센느·팬덤 약 1억…거제 수해에 이어진 기부 행렬",
+          "desc": "G마켓 3억 원, IBK기업은행 2억 원 등 국내 기업들의 기부와 긴급구호 지원도 이어지고 있다. 수해 현장에서는 자원봉사와 함께 삼성전자서비스·LG전자서비스가 침수 가전제품 무상 점검·수리를 지원하고 있다. 전혜진",
+          "src": "knnews",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/011/0004654058?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.ebc7f3accd9447e7a0dc7b1cfab8ae03_R.jpg"
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549127",
+          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549127_520_images.jpg"
         },
         {
-          "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
-          "desc": "달 삼성전자(13%)보다 높았다. 하이센스 운영체제(OS) '비다'를 탑재한 TV가 유럽 출하량에서 LG전자 웹OS 탑재 제품을 앞설 것이라는 옴디아 전망도 나와 있다. 로봇청소기 시장은 시장조사업체 IDC 집계 기준 작년...",
-          "src": "kfenews",
-          "date": "08/21",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662842",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
+          "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
+          "desc": "로봇청소기에서 시작된 중국 가전업체들의 한국 공략이 TV와 냉장고, 세탁기 등 대형가전으로 확대되면서 삼성전자와 LG전자가 주도해온 국내 가전시장에도 경쟁이 한층 치열해질 전망이다.",
+          "src": "아이뉴스24",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/031/0001051618?sid=101",
+          "img": "https://image.inews24.com/v1/cf473ffd9d91d8.jpg"
         },
         {
           "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "격화하는 로봇청소기 경쟁…드리미 '한국형 전략'으로 국내 공략 강화",
-          "desc": "한국의 주거 환경에 딱 맞춰서 개발된 제품이라고 할 수 있습니다.\" 국내외 기업들의 로봇청소기 경쟁은 더욱 치열해지는 모습입니다. 삼성전자의 2026년형 비스포크 AI 스팀은 지난 5월 처음으로 2만대가 넘게 팔렸습니다....",
-          "src": "MBN",
-          "date": "08/21",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905525",
-          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/08/21/20260821162359_10_103_0_MM1005905525_4_93.jpg"
+          "title": "삼성전자 DX노조, 전사 성과 기반 공통재원 요구",
+          "desc": "삼성전자의 가전·TV·스마트폰 등을 담당하는 디바이스경험(DX) 부문 직원 중심으로 구성된 삼성전자 노동조합 동행(이하 '동행노조')은 지난 21일 오후 서울 서초구 삼성전자 서초사옥 인근에서 집회를 열고 수익성...",
+          "src": "한스경제",
+          "date": "08/22",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858676",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858676_879935_5624_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[박근종 칼럼] 55년 만의 교육교부금 개편, '교육의 질 저하' 씻고 '합리...",
-          "desc": "산업화 시대의 낡은 옷을 벗고, 인구구조 변화와 글로벌 기술 패권 경쟁이라는 새로운 시대적 요구에 맞춰... AI 디지털 교과서 도입, 노후 학교 개보수 등 새로운 미래 교육 수요에 막대한 재원이 필요한 상황에서 이러한...",
-          "src": "mhns",
+          "title": "에릭 슈미트, 비노드 코슬라가 반한 로봇기업…몸값 4조 찍는다",
+          "desc": "제조·물류 활용 사례를 발굴한 뒤 다단계 확산에 나서는 장기 협력을 맺었다. 제르베 사장은 \"글로벌 기업들은 새로운 기술의 검증과 설치, 운영화를 LG CNS 같은 기업에 의존한다. 피지컬 AI의 대규모 도입을 현실로 만들...",
+          "src": "머니투데이",
           "date": "08/22",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=757286",
-          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005403250?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081915324523422_1.jpg"
         },
         {
-          "title": "[AI 시대 新자원전쟁] ③ 물 아껴야 공장도 산다…'워터 포지티브(Water ...",
-          "desc": "데이터센터 냉각에 필요한 물을 줄이는 기술을 도입하는 동시에 물 스트레스가 높은 지역에서 수자원 환원 사업을 추진하는 방식이다. MS는 무수냉각 기술과 폐쇄형 냉각 시스템 등을 활용해 데이터센터의 물...",
-          "src": "newsian",
+          "title": "[ABC AI국가대전환=강경성 KOTRA 사장]AI가 주도하는 'K수출 1조달러'",
+          "desc": "전국의 중소기업을 수출기업으로 KOTRA는 AI를 대기업이나 수도권 기업만을 위한 기술로 보지 않는다. 전국... AI 활용을 확대하는 것도 이 때문이다. 결국 AX의 본질은 AI 프로그램을 도입하는 것이 아니다. 조직이...",
+          "src": "아주경제",
           "date": "08/22",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93897",
-          "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93897_87786_2645_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260821085737357",
+          "img": "https://image.ajunews.com/content/image/2026/08/21/20260821092344660180.jpg"
         },
         {
-          "title": "美 5개 기관, 지멘스 PLC 경보… 인프라 제어망 비상",
-          "desc": "주요 인프라의 운영기술(OT) 보안이 뚫릴 경우 대규모 가동 중단으로 이어질 수 있어 한국내 기간설비... AI 자동 탐색과 취약점 공방 공격자들은 인공지능 기반 스크립트를 활용해 전문 지식과 공격 제작 시간을 단축하고...",
-          "src": "g-enews",
+          "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳",
+          "desc": "온디바이스 AI 전략을 갖추고 있고, 39%는 적극적으로 개발에 나선 것으로 나타났다. 응답자의 67%는 로봇이 인간 작업자의 기술을 향상시킬 것으로 기대하며, 31%는 로봇 도입의 가장 큰 장점으로 '안전'을 꼽았다....",
+          "src": "조선일보",
           "date": "08/22",
-          "url": "https://www.g-enews.com/view.php?ud=202608220657439751fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082207082204111fbbec65dfb211211153121.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168642",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168642_450735_10_v150.jpg"
         },
         {
-          "title": "[K바이오 신약대전] '게보린’ 넘어 신약·치매 투트랙…삼진제약, 체질...",
-          "desc": "제약사들과의 기술이전(L/O)·공동개발 파트너링을 본격화하고 있다. 이수민 삼진제약 연구센터장은 올해... 신약과 치매 치료제를 두 축으로 한 고부가가치 사업 구조로 전환하고 있다. (사진=삼진제약·생성형 AI 활용)",
-          "src": "더구루",
+          "title": "뚫린 민간 인증기관, 진화한 AI 해킹… 거세지는 사이버 공격",
+          "desc": "전문가들은 AI 도입으로 취약점 공개부터 공격 스크립트 확보까지 걸리는 시간이 단축됐다고 지적했다. 현재 진행 중인 활동은 타격을 주기 위한 사전 정찰 단계로 분석된다. 산업 기술 전문가 브라이언 프록터는 상황을...",
+          "src": "디지털데일리",
           "date": "08/22",
-          "url": "https://www.theguru.co.kr/news/article.html?no=106002",
-          "img": "https://www.theguru.co.kr/data/photos/20260834/art_17871423706044_e7c26c.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002238619?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/20/2026082016395051337_l.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "메모리사 소캠2 양산에 소부장 업계도 ‘꿈틀’[빛이 나는 비즈]",
+          "desc": "심텍(222800)은 삼성전자(005930)와 SK하이닉스(000660), 마이크론 테크놀로지 등 메모리 3사에 소캠용 모듈... 심텍 관계자는 “주요 메모리사의 1차 협력사로 개발 단계부터 참여하고 있다”며 “지난해 퀄 테스트를 마치고...",
+          "src": "서울경제",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
+        },
+        {
+          "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
+          "desc": "수위↑ 협력사까지 번지는 파업…재계 “투자·경쟁력 악영향” [아시아타임즈=김빛나 기자] 삼성전자와... 현대모비스 등 계열사와 1·2차 부품사 노조도 연대 파업에 동참하면서 완성차 생산 차질은 물론 협력업체로의...",
+          "src": "아시아타임즈",
+          "date": "08/22",
+          "url": "https://www.asiatime.co.kr/article/20260821500353",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/21/.cache/512/20260821500354.jpg"
+        },
         {
           "title": "삼성, 충청권 140조 중 67조는 삼성디스플레이 \"1순위는 폴더블 OLED\"",
           "desc": "삼성전자 역시 폴드8 생산량 확대를 위해 협력사에 추가 부품 발주에 나선 것으로 알려졌다. 삼성디스플레이로서는 고객사와 제품군이 동시에 확대될 가능성에 대비해 미리 생산능력을 확보할 필요성이 커진 셈이다....",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/21",
           "url": "https://www.mediapen.com/news/view/1117944",
           "img": "https://image.mediapen.com/news/202608/news_1117944_1787277011_m.jpg"
-        },
-        {
-          "title": "“기술만으론 못 버틴다”…소부장 13곳이 말한 ‘기술 다음의 숙제’ ...",
-          "desc": "소재·부품·장비(소부장) 기업 대표들은 기술력만으로는 시장에서 살아남기 어렵다고 목소리를 모았다.... 삼성전자와 SK하이닉스 등 소자기업의 상생 의지가 과거보다 강해졌다는 평가도 나왔지만 신규 협력사에 대한...",
-          "src": "이투데이",
-          "date": "08/21",
-          "url": "https://www.etoday.co.kr/news/view/2616244",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260820164900_2375925_1200_771.png"
-        },
-        {
-          "title": "[사설]현대차 10년만의 전면 파업…中 전기차·美 자율차 공세 거센데",
-          "desc": "이번 현대차의 파업은 SK하이닉스, 삼성전자 등 반도체 업종에서 시작된 이른바 'N% 성과급' 논란이 다른... 여기에 더해 금속노조는 '노란봉투법(개정 노동조합법)'을 근거로 부품·협력사의 임금·고용·안전에 현대차가...",
-          "src": "sidae",
-          "date": "08/20",
-          "url": "https://n.news.naver.com/mnews/article/417/0001155932?sid=110",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/20/06/2026082015111888255_1.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘IDEA 2026’ 삼성 45개·LG 17개 수상…접근성·혁신 디자인 호평",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654058?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.ebc7f3accd9447e7a0dc7b1cfab8ae03_R.jpg"
+      "title": "리센느·팬덤 약 1억…거제 수해에 이어진 기부 행렬",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549127",
+      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549127_520_images.jpg"
     },
     {
-      "title": "[기획] 삼성·LG, IFA서 TV 1위 수성 나선다",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662842",
-      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202608/662842_136377_047_v150.jpg"
+      "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/031/0001051618?sid=101",
+      "img": "https://image.inews24.com/v1/cf473ffd9d91d8.jpg"
     },
     {
       "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "격화하는 로봇청소기 경쟁…드리미 '한국형 전략'으로 국내 공략 강화",
-      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005905525",
-      "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/08/21/20260821162359_10_103_0_MM1005905525_4_93.jpg"
+      "title": "삼성전자 DX노조, 전사 성과 기반 공통재원 요구",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858676",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858676_879935_5624_v150.jpg"
     },
     {
-      "title": "[박근종 칼럼] 55년 만의 교육교부금 개편, '교육의 질 저하' 씻고 '합리...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=757286",
-      "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+      "title": "에릭 슈미트, 비노드 코슬라가 반한 로봇기업…몸값 4조 찍는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403250?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081915324523422_1.jpg"
     },
     {
-      "title": "[AI 시대 新자원전쟁] ③ 물 아껴야 공장도 산다…'워터 포지티브(Water ...",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93897",
-      "img": "https://cdn.newsian.co.kr/news/thumbnail/202608/93897_87786_2645_v150.jpg"
+      "title": "[ABC AI국가대전환=강경성 KOTRA 사장]AI가 주도하는 'K수출 1조달러'",
+      "url": "https://www.ajunews.com/view/20260821085737357",
+      "img": "https://image.ajunews.com/content/image/2026/08/21/20260821092344660180.jpg"
     }
   ]
 };
