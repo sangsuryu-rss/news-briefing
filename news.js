@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 01:42",
+  "updatedAt": "2026.08.23 (일) 03:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "어도비 파이어플라이, AI 음악·음성·음향효과 정식 출시…수노·우디...",
-          "desc": "제너레이트 사운드 이펙트는 파이어플라이 오디오 모델(Firefly Audio Model)을 활용해 영상의 타이밍과... 이후 수노는 워터마크와 핑거프린트 기술을 결과물에 적용하고 다운로드 횟수 제한도 도입했다.어도비는 이...",
+          "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
+          "desc": "Scale AI는 응용 AI 기술의 상업화와 도입을 이끄는 조직이고, 밀라는 세계적으로 인정받는 연구 역량을... 사이버·공급망 리스크를 스스로 감지하는 에이전틱 AIWisr AI의 플랫폼은 자율 AI 에이전트를 활용해...",
           "src": "wikitree",
           "date": "08/23",
-          "url": "https://www.wikitree.co.kr/articles/1154178",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230011527032_ai.jpeg"
+          "url": "https://www.wikitree.co.kr/articles/1154187",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230210077717_ai.jpeg"
         },
         {
-          "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
-          "desc": "양사는 앞으로 산업별 과제 분석부터 시작해 맞춤형 아키텍처 설계, 양자 알고리즘 검토와 기술검증(PoC), 도입 컨설팅과 운영 지원, 공동 세미나까지 전 과정에 걸쳐 협력할 계획이다. 주요 타깃 산업은 AI와 바이오...",
-          "src": "worktoday",
-          "date": "08/22",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88264",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88264_127089_329_v150.jpg"
+          "title": "맥시오 CEO, 주말 코딩 새 AI에 1000달러 증발…“낭비가 조직 불안 키운...",
+          "desc": "하지만 그가 진짜 걱정하는 건 청구서가 아니라, AI 기술과 자신에게 뒤처질까 두려워하는 직원들의... 그는 무료 깃허브(GitHub) 저장소로 배포되는 제3자 도구, 이른바 “오케스트레이션 레이어”도 활용한다고 했다....",
+          "src": "wikitree",
+          "date": "08/23",
+          "url": "https://www.wikitree.co.kr/articles/1154185",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230116467958_ai.jpeg"
         },
         {
-          "title": "제주 감귤 관측도 AI 시대… 생산량 조사 '자동화'",
-          "desc": "제주특별자치도가 올해 노지감귤 생산량을 예측하는 관측조사에 스마트폰 영상과 인공지능(AI)을 활용한 자동화 기술을 본격 도입한다. 조사원이 감귤 열매를 일일이 세고 측정하던 방식에서 벗어나 AI가 영상 속 열매의...",
-          "src": "youngnong",
-          "date": "08/22",
-          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61746",
-          "img": "http://cdn.youngnong.co.kr/news/photo/202608/61746_53287_2743.jpg"
+          "title": "전북자치도, '피지컬AI·로봇 거점'으로 도약",
+          "desc": "전북도에 따르면 피지컬AI와 로봇 기술을 활용해 자동차, 농기계 등 전통 제조업의 경쟁력을 강화하고... 이들 기업의 무인화 4단계 기술 도입에 맞춰 1066억원 규모 지능형 농기계 실증단지와 광역연계형...",
+          "src": "pointdaily",
+          "date": "08/23",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316417",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316417_312493_5143_v150.jpg"
         },
         {
-          "title": "[평택 민선 9기 연속기획⑦·총정리] 최원용 시장의 195개 약속…행정 실...",
-          "desc": "자료를 활용할 수 있고, 민원정보를 분석하면 반복되는 생활불편과 지역별 정책수요를 파악할 수 있다. 데이터 행정은 교통과 복지, 환경 등 앞서 살펴본 공약의 실효성을 높이는 공통 기반이다. 그러나 AI를 도입한다는...",
-          "src": "newstown",
-          "date": "08/22",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713263",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713263_668131_3844_v150.jpg"
+          "title": "퀄컴 ‘듀얼 8 엘리트’ 티저 공개, 갤럭시 S27 울트라엔 최상위 칩 탑재...",
+          "desc": "고급 냉각 기술이 이를 뒷받침할 수 있다는 관측도 나온다. 벤치마크 앱 안투투(AnTuTu) 11 버전에서 이... 높이는 “AI 프레임 퓨전” 기능이 새로 도입될 것이라는 전망도 나온다.갤럭시 S27 라인업, 칩 배치도 갈릴...",
+          "src": "wikitree",
+          "date": "08/23",
+          "url": "https://www.wikitree.co.kr/articles/1154184",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230111574348_it.jpeg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
-      "title": "어도비 파이어플라이, AI 음악·음성·음향효과 정식 출시…수노·우디...",
-      "url": "https://www.wikitree.co.kr/articles/1154178",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230011527032_ai.jpeg"
+      "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
+      "url": "https://www.wikitree.co.kr/articles/1154187",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230210077717_ai.jpeg"
     },
     {
-      "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88264",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88264_127089_329_v150.jpg"
+      "title": "맥시오 CEO, 주말 코딩 새 AI에 1000달러 증발…“낭비가 조직 불안 키운...",
+      "url": "https://www.wikitree.co.kr/articles/1154185",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230116467958_ai.jpeg"
     }
   ]
 };
