@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 16:01",
+  "updatedAt": "2026.08.22 (토) 17:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
-          "desc": "침수된 가전제품을 수리하기 위한 지원도 이뤄졌다. 이선곤 삼성전자 재해복구 특별서비스팀 둔덕면 서비스 포스트장은 \"지난 19일부터 지원에 나섰는데 지금까지 접수된 것만 170건 정도\"라며 \"회사 제품이 아니더라도...",
-          "src": "뉴스1",
+          "title": "반도체 성과급에 뿔난 삼성전자 DX노조…\"100배 격차\"에 노노갈등 격화",
+          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자 DX(스마트폰·가전 등 완제품) 부문 중심의 노동조합 동행(이하 동행노조)이 21일 서초사옥 앞에서 개최한 집회가 사전 예고했던 참석 규모에 못 미친 것으로 나타났다. 금요일...",
+          "src": "joongangenews",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541917",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/541917_347880_4346.png"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
-          "desc": "삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 첫 수상작에 포함됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자별 신체적 특성을 고려해 세탁기와 냉장고 등 가전제품을...",
-          "src": "mediafine",
+          "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
+          "desc": "이선곤 삼성전자 재해복구 특별서비스팀 둔덕면 서비스 포스트장은 \"지난 19일부터 지원에 나섰는데... 이어 \"냉장고나 세탁기처럼 옮기기 힘든 가전제품도 많이 침수됐다\"며 \"집마다 찾아다니면서 수리가 가능한지 살피며...",
+          "src": "뉴스1",
           "date": "08/22",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
-          "desc": "애플은 향후 자체 제작 비중을 줄이고 서드파티 콘텐츠 생태계를 적극 활용할 방침이다. 시리 및 AI 조직의 개편은 새로운 기술 아키텍처 기반의 '차세대 AI 시리' 도입과 맞물려 있다. 전사적으로 AI 기능 개발 속도를...",
-          "src": "ZDNet코리아",
+          "title": "급여·특전·지분까지…실리콘밸리 못지 않은 中 AI 인재 모시기",
+          "desc": "이들 기업은 중국 내 인재 스카우트 경쟁과 미중 기술 경쟁이 격화한 가운데, 최근 강세장을 활용해 핵심 인력을 장기간 붙잡는 데 집중하고 있다. 반도체 업종에서는 AI 칩 업체 캄브리콘 테크놀로지스가 이번 주 초...",
+          "src": "digitaltoday",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434734?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/27/4446f95d63c38066e12ef2641c2ec720.png"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694805",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694805_642679_2831.jpg"
         },
         {
-          "title": "\"생성형 AI로 지역 문제 해결\" 한국공학대, 4기 '로컬 국토대장정 in 제...",
-          "desc": "인공지능(AI) 기술과 지역 자원을 융합한 체류형 창업 모델 발굴에 나섰다. 한국공학대 창업교육센터는... 특히 교육 전반에 AI를 도입해 특강을 진행하고 개인별 AI 활용비를 지급했으며 참가자들은 생성형 AI를...",
-          "src": "cstimes",
+          "title": "뇌 자극하는 '비침습 신경조절치료'…어디까지 왔나",
+          "desc": "신경조절치료에서의 활용을 소개했다. 특히 이찬희 교수는 경두개자기자극(TMS)의 경우 자기장을 이용해... 과학기술정보통신부는 올해 5월 과학기술 연구에 AI를 적극 도입해 2030년까지 연구생산성을 2배로...",
+          "src": "k-health",
           "date": "08/22",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=717640",
-          "img": "https://www.cstimes.com/news/photo/202608/717640_638153_379.jpg"
+          "url": "https://www.k-health.com/news/articleView.html?idxno=100773",
+          "img": "https://cdn.k-health.com/news/photo/202608/100773_201169_1531.jpg"
         },
         {
-          "title": "LG전자, 브라질 신공장 가동…남미 공략 속도낸다",
-          "desc": "신공장에는 AI 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높이고 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는 관제...",
-          "src": "news",
+          "title": "안전지대는 없다…中 ‘AI 인베이전’ [스페셜리포트]",
+          "desc": "산업연구원은 국내 스마트공장 도입 기업의 75.5%가 여전히 기초 수준에 머물러 있는 등 제조업의 질적 AI... 적극 활용하는 ‘선택적 기술주권’ 전략을 펴야 한다는 주장이다. 산업연구원도 현재 제조 AI 정책이...",
+          "src": "매일경제",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050053?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000107724?sid=101",
+          "img": "https://wimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260814.0fd929e9b5514c6c92b22038c4f5a545_R.jpg"
         },
         {
-          "title": "[인터뷰] 씨게이트 \"AI가 쏟아내는 데이터, 더 효율적으로 담아야\"",
-          "desc": "연산에 활용할 수 있지만, 비용 효율적인 데이터 저장에는 대용량 HDD 기반 1차 스토리지 계층이 필요하다\"고 말했다. \"AI 데이터 폭증... 더 많이 담는 기술 필요\" AI가 만들어내는 데이터가 늘어날수록 데이터센터의...",
-          "src": "ZDNet코리아",
+          "title": "하경자 아태기후센터 제6대 원장 취임…“글로벌 기후 허브 역할 강화\"",
+          "desc": "연구 조직의 전문성을 높이고 최신 AI 기술을 기후예측에 적극적으로 도입하겠다는 구상도 제시했다. 에너지와 농업, 재난관리 등 다양한 분야에서 실제로 활용할 수...",
+          "src": "breaknews",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434733?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/21/faca6406c1cc607813fb1ddde24493e1.jpg"
+          "url": "http://www.breaknews.com/1230767",
+          "img": "https://busan.breaknews.com/imgdata/busan_breaknews_com/202608/2026082247068792.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
+      "title": "반도체 성과급에 뿔난 삼성전자 DX노조…\"100배 격차\"에 노노갈등 격화",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541917",
+      "img": "https://cdn.joongangenews.com/news/photo/202608/541917_347880_4346.png"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
+      "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
-      "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434734?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/07/27/4446f95d63c38066e12ef2641c2ec720.png"
+      "title": "급여·특전·지분까지…실리콘밸리 못지 않은 中 AI 인재 모시기",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694805",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694805_642679_2831.jpg"
     },
     {
-      "title": "\"생성형 AI로 지역 문제 해결\" 한국공학대, 4기 '로컬 국토대장정 in 제...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=717640",
-      "img": "https://www.cstimes.com/news/photo/202608/717640_638153_379.jpg"
+      "title": "뇌 자극하는 '비침습 신경조절치료'…어디까지 왔나",
+      "url": "https://www.k-health.com/news/articleView.html?idxno=100773",
+      "img": "https://cdn.k-health.com/news/photo/202608/100773_201169_1531.jpg"
     }
   ]
 };
