@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 03:50",
+  "updatedAt": "2026.08.23 (일) 05:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "트럼프, 美 인구통계까지 손질…인종·성별 세부자료 축소 우려",
+          "desc": "기초자료로 활용한다. 즉 개인정보 보호방식의 기술적 변경처럼 보이지만 실제로는 미국 사회를 얼마나 세밀하게 들여다볼 수 있는지를 결정하는 문제라는 지적이다. ◇AI 발전이 촉발한 개인정보 보호 딜레마 다만...",
+          "src": "g-enews",
+          "date": "08/23",
+          "url": "https://www.g-enews.com/view.php?ud=2026082301334241759a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260823013709043219a1f30943117511616074.jpg"
+        },
+        {
           "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
           "desc": "Scale AI는 응용 AI 기술의 상업화와 도입을 이끄는 조직이고, 밀라는 세계적으로 인정받는 연구 역량을... 사이버·공급망 리스크를 스스로 감지하는 에이전틱 AIWisr AI의 플랫폼은 자율 AI 에이전트를 활용해...",
           "src": "wikitree",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/23",
           "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316417",
           "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316417_312493_5143_v150.jpg"
-        },
-        {
-          "title": "퀄컴 ‘듀얼 8 엘리트’ 티저 공개, 갤럭시 S27 울트라엔 최상위 칩 탑재...",
-          "desc": "고급 냉각 기술이 이를 뒷받침할 수 있다는 관측도 나온다. 벤치마크 앱 안투투(AnTuTu) 11 버전에서 이... 높이는 “AI 프레임 퓨전” 기능이 새로 도입될 것이라는 전망도 나온다.갤럭시 S27 라인업, 칩 배치도 갈릴...",
-          "src": "wikitree",
-          "date": "08/23",
-          "url": "https://www.wikitree.co.kr/articles/1154184",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230111574348_it.jpeg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
+      "title": "트럼프, 美 인구통계까지 손질…인종·성별 세부자료 축소 우려",
+      "url": "https://www.g-enews.com/view.php?ud=2026082301334241759a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260823013709043219a1f30943117511616074.jpg"
+    },
+    {
       "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
       "url": "https://www.wikitree.co.kr/articles/1154187",
       "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230210077717_ai.jpeg"
-    },
-    {
-      "title": "맥시오 CEO, 주말 코딩 새 AI에 1000달러 증발…“낭비가 조직 불안 키운...",
-      "url": "https://www.wikitree.co.kr/articles/1154185",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230116467958_ai.jpeg"
     }
   ]
 };
