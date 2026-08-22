@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 05:42",
+  "updatedAt": "2026.08.23 (일) 07:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[김대호 진단] 반도체 열전 (46) SMIC(中芯國際)...시진핑 파운드리",
-          "desc": "TSMC나 삼성전자와의 격차를 좁히기는 기술적으로 불가능에 가깝다. 그럼에도 불구하고 SMIC는 시진핑 주석의 확고한 비호 아래 28나노 이상의 범용(레거시) 공정 라인을 공격적으로 증설하며 글로벌 자동차·가전...",
-          "src": "g-enews",
+          "title": "인탑스, 휴대폰 케이스 넘어 로봇 조립까지…사업 체질 바꾼다",
+          "desc": "인탑스는 IT디바이스와 가전제품 어셈블리, 자동차부품, 금형 등을 주요 사업으로 영위하고 있다. 오랜 기간 삼성전자의 휴대폰 케이스를 생산하면서 축적한 금형과 사출, 조립 기술이 회사의 핵심 경쟁력이다. 이 같은...",
+          "src": "핀포인트뉴스",
           "date": "08/23",
-          "url": "https://www.g-enews.com/view.php?ud=202608181355356576906806b77b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081814052902312906806b77b1752093689.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479644",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479644_466399_2836_v150.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "트럼프, 美 인구통계까지 손질…인종·성별 세부자료 축소 우려",
-          "desc": "기초자료로 활용한다. 즉 개인정보 보호방식의 기술적 변경처럼 보이지만 실제로는 미국 사회를 얼마나 세밀하게 들여다볼 수 있는지를 결정하는 문제라는 지적이다. ◇AI 발전이 촉발한 개인정보 보호 딜레마 다만...",
-          "src": "g-enews",
+          "title": "\"AI·AR로 당구 진입장벽 낮춘다\"… 아이티센클로잇·큐스코가 그리는 스...",
+          "desc": "이밖에 AI 분석 기술은 경기 중계에도 활용할 예정이다. 경기 전 예상 공의 경로를 화면에 보여주거나 경기... 향후 AI·AR 기술을 적용하고 실제 직영점에 도입할 서비스와 매장 구성도 이곳에서 검증한다. 다만 센큐...",
+          "src": "조선일보",
           "date": "08/23",
-          "url": "https://www.g-enews.com/view.php?ud=2026082301334241759a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260823013709043219a1f30943117511616074.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168635",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168635_450727_4359_v150.jpg"
         },
         {
-          "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
-          "desc": "Scale AI는 응용 AI 기술의 상업화와 도입을 이끄는 조직이고, 밀라는 세계적으로 인정받는 연구 역량을... 사이버·공급망 리스크를 스스로 감지하는 에이전틱 AIWisr AI의 플랫폼은 자율 AI 에이전트를 활용해...",
-          "src": "wikitree",
+          "title": "카카오가 ‘지방 청소년’에 꽂힌 이유…“IT 생태계는 결국 인재”",
+          "desc": "올 초 4대 과학기술원과 지역 인공지능(AI) 기업 육성 추진 기구를 출범한 데 이어, 비수도권 청소년의 AI... 과제를 도입해 미리부터 소프트웨어 개발에 대한 이해를 높여놓고, 캠프 기간에는 프로젝트의 한 사이클을...",
+          "src": "서울경제",
           "date": "08/23",
-          "url": "https://www.wikitree.co.kr/articles/1154187",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230210077717_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004654173?sid=105",
+          "img": ""
         },
         {
-          "title": "맥시오 CEO, 주말 코딩 새 AI에 1000달러 증발…“낭비가 조직 불안 키운...",
-          "desc": "하지만 그가 진짜 걱정하는 건 청구서가 아니라, AI 기술과 자신에게 뒤처질까 두려워하는 직원들의... 그는 무료 깃허브(GitHub) 저장소로 배포되는 제3자 도구, 이른바 “오케스트레이션 레이어”도 활용한다고 했다....",
-          "src": "wikitree",
+          "title": "'AI 흔적'에 새로운 논쟁, '단순 도움'만 받아도 'AI 창작물' 취급 : 텍스...",
+          "desc": "묻다 AI의 흔적을 찾아내는 기술과 이를 피하려는 움직임도 나타나고 있다. 미국 경제매체 비즈니스 인사이더는 지난 19일 앤트로픽의 워터마크 도입 이후 개발자들이 텍스트를 다시 작성하거나 워터마크 패턴을...",
+          "src": "huffingtonpost",
           "date": "08/23",
-          "url": "https://www.wikitree.co.kr/articles/1154185",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230116467958_ai.jpeg"
+          "url": "https://www.huffingtonpost.kr/article/259742",
+          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608217927.png?v=259742"
         },
         {
-          "title": "전북자치도, '피지컬AI·로봇 거점'으로 도약",
-          "desc": "전북도에 따르면 피지컬AI와 로봇 기술을 활용해 자동차, 농기계 등 전통 제조업의 경쟁력을 강화하고... 이들 기업의 무인화 4단계 기술 도입에 맞춰 1066억원 규모 지능형 농기계 실증단지와 광역연계형...",
-          "src": "pointdaily",
+          "title": "'800조＋α' 슈퍼예산 곧 발표…반도체發 세수 호조 타고 투자 늘린다",
+          "desc": "정부는 늘어난 세수를 일시적 지출에 소진하기보다 미래 성장동력 확보에 활용한다는 방침이다. 23일... 박홍근 기획예산처 장관은 \"AI가 빠르게 확산될 것으로 전망되는 향후 2~3년이 글로벌 기술패권 전쟁의 승자를...",
+          "src": "뉴스1",
           "date": "08/23",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316417",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316417_312493_5143_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009127211?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/11/8050447/high.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
+          "img": ""
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[김대호 진단] 반도체 열전 (46) SMIC(中芯國際)...시진핑 파운드리",
-      "url": "https://www.g-enews.com/view.php?ud=202608181355356576906806b77b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081814052902312906806b77b1752093689.jpg"
+      "title": "인탑스, 휴대폰 케이스 넘어 로봇 조립까지…사업 체질 바꾼다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479644",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479644_466399_2836_v150.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
-      "title": "트럼프, 美 인구통계까지 손질…인종·성별 세부자료 축소 우려",
-      "url": "https://www.g-enews.com/view.php?ud=2026082301334241759a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260823013709043219a1f30943117511616074.jpg"
+      "title": "\"AI·AR로 당구 진입장벽 낮춘다\"… 아이티센클로잇·큐스코가 그리는 스...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168635",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168635_450727_4359_v150.jpg"
     },
     {
-      "title": "Wisr AI, 캐나다 톱100 AI 스타트업 선정…같은 날 RSU 261만주 깜짝 부여",
-      "url": "https://www.wikitree.co.kr/articles/1154187",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230210077717_ai.jpeg"
+      "title": "'AI 흔적'에 새로운 논쟁, '단순 도움'만 받아도 'AI 창작물' 취급 : 텍스...",
+      "url": "https://www.huffingtonpost.kr/article/259742",
+      "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608217927.png?v=259742"
     }
   ]
 };
