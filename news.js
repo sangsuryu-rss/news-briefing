@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 19:42",
+  "updatedAt": "2026.08.22 (토) 22:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "급여·특전·지분까지…실리콘밸리 못지 않은 中 AI 인재 모시기",
-          "desc": "이들 기업은 중국 내 인재 스카우트 경쟁과 미중 기술 경쟁이 격화한 가운데, 최근 강세장을 활용해 핵심 인력을 장기간 붙잡는 데 집중하고 있다. 반도체 업종에서는 AI 칩 업체 캄브리콘 테크놀로지스가 이번 주 초...",
-          "src": "digitaltoday",
+          "title": "“회당 출연료 5억 주더니” 충격적인 적자 사태…추락한 콘텐츠 왕좌 ...",
+          "desc": "인공지능(AI) 도입을 확대하고 있다. 한국 드라마에도 조만간 AI 배우가 나올 전망이다. 불과 몇 년 전까지... 올해 최대 흥행 드라마로 꼽히는 ‘김부장’도 AI 기술을 활용했다. 특수요원 출신 주인공 김부장(소지섭 분)...",
+          "src": "헤럴드경제",
           "date": "08/22",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694805",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694805_642679_2831.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002687061?sid=105",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.05ef773c45b647f59b8f34ea1b168d8b_T1.jpg"
         },
         {
-          "title": "뇌 자극하는 '비침습 신경조절치료'…어디까지 왔나",
-          "desc": "신경조절치료에서의 활용을 소개했다. 특히 이찬희 교수는 경두개자기자극(TMS)의 경우 자기장을 이용해... 과학기술정보통신부는 올해 5월 과학기술 연구에 AI를 적극 도입해 2030년까지 연구생산성을 2배로...",
-          "src": "k-health",
+          "title": "피지컬 AI 확산 속 제조 양극화 심화……섬유패션은 '사람+로봇' 하이브...",
+          "desc": "현재 제조현장에 가장 많이 들어간 피지컬 AI는 휴머노이드가 아니다. 이미 도입한 기업의 활용 유형은... 섬유패션업계에서 제조 AI의 적용 순서는 다른 산업과 다소 다를 가능성이 크다. 산업부의 2026년 산업기술 R&D...",
+          "src": "전자신문",
           "date": "08/22",
-          "url": "https://www.k-health.com/news/articleView.html?idxno=100773",
-          "img": "https://cdn.k-health.com/news/photo/202608/100773_201169_1531.jpg"
+          "url": "http://www.ktnews.com/news/articleView.html?idxno=147875",
+          "img": "http://www.ktnews.com/news/thumbnail/202608/147875_128997_3835_v150.jpg"
         },
         {
-          "title": "안전지대는 없다…中 ‘AI 인베이전’ [스페셜리포트]",
-          "desc": "산업연구원은 국내 스마트공장 도입 기업의 75.5%가 여전히 기초 수준에 머물러 있는 등 제조업의 질적 AI... 적극 활용하는 ‘선택적 기술주권’ 전략을 펴야 한다는 주장이다. 산업연구원도 현재 제조 AI 정책이...",
-          "src": "매일경제",
+          "title": "6000억 달러 AI 지출, 도입률 18%와 엇박자",
+          "desc": "예상됐지만, 활용은 대기업과 정보·전문서비스·금융업에 상대적으로 몰렸다. AI를 도입한 기업 가운데... 반면 AI 소프트웨어와 업무 적용 방식은 더 빠르게 바뀐다. 장기 인프라 투자와 짧은 기술 변화 주기가...",
+          "src": "tokenpost",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/024/0000107724?sid=101",
-          "img": "https://wimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260814.0fd929e9b5514c6c92b22038c4f5a545_R.jpg"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/395673",
+          "img": "https://f1.tokenpost.kr/2026/08/yqkjiuo3yw.png"
         },
         {
-          "title": "하경자 아태기후센터 제6대 원장 취임…“글로벌 기후 허브 역할 강화\"",
-          "desc": "연구 조직의 전문성을 높이고 최신 AI 기술을 기후예측에 적극적으로 도입하겠다는 구상도 제시했다. 에너지와 농업, 재난관리 등 다양한 분야에서 실제로 활용할 수...",
-          "src": "breaknews",
+          "title": "[기획특집] 영남대, 2027학년도 수시 4225명 선발…AI융합전공 신설",
+          "desc": "인공지능(AI)과 정보보안 등 산업 수요를 반영한 전공을 확대하고 의예과 지역의사선발 전형을 처음 도입... 2027학년도부터 신입생을 모집하는 AI융합전공은 인공지능 기술을 산업 현장에 적용할 수 있는 융합형 인재...",
+          "src": "kbsm",
           "date": "08/22",
-          "url": "http://www.breaknews.com/1230767",
-          "img": "https://busan.breaknews.com/imgdata/busan_breaknews_com/202608/2026082247068792.png"
+          "url": "https://www.kbsm.net/news/view.php?idx=531140",
+          "img": "https://www.kbsm.net/data/newsThumb/1787368068ADD_thumb780.png"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
+          "img": ""
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
-      "title": "급여·특전·지분까지…실리콘밸리 못지 않은 中 AI 인재 모시기",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694805",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694805_642679_2831.jpg"
+      "title": "“회당 출연료 5억 주더니” 충격적인 적자 사태…추락한 콘텐츠 왕좌 ...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687061?sid=105",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.05ef773c45b647f59b8f34ea1b168d8b_T1.jpg"
     },
     {
-      "title": "뇌 자극하는 '비침습 신경조절치료'…어디까지 왔나",
-      "url": "https://www.k-health.com/news/articleView.html?idxno=100773",
-      "img": "https://cdn.k-health.com/news/photo/202608/100773_201169_1531.jpg"
+      "title": "피지컬 AI 확산 속 제조 양극화 심화……섬유패션은 '사람+로봇' 하이브...",
+      "url": "http://www.ktnews.com/news/articleView.html?idxno=147875",
+      "img": "http://www.ktnews.com/news/thumbnail/202608/147875_128997_3835_v150.jpg"
     }
   ]
 };
