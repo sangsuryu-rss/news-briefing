@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 12:09",
+  "updatedAt": "2026.08.22 (토) 13:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "거제시 등 특별재난지역 선포…집중호우 피해복구 추가 지원",
-          "desc": "삼성전자와 LG전자도 침수 가전제품 무상 점검, 세척 등을 실시하며 지역사회에 공헌하고 있다. 거제시와 통영시는 피해복구를 위한 추가 지원을 정부와 경상남도에 지속적으로 건의할 예정이다. 한편 정부는 다른...",
-          "src": "newspost",
+          "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
+          "desc": "삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 첫 수상작에 포함됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자별 신체적 특성을 고려해 세탁기와 냉장고 등 가전제품을...",
+          "src": "mediafine",
           "date": "08/22",
-          "url": "https://www.newspost.kr/news/articleView.html?idxno=225116",
-          "img": "https://cdn.newspost.kr/news/thumbnail/202608/225116_227397_376_v150.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "기록적 폭우 거제·통영시, 특별재난지역 선포",
-          "desc": "삼성전자와 LG전자는 침수 가전제품에 대한 무상수리를 실시하고 있으며, 통영시와 거제시는 정부와 협력해 피해 복구에 최선을 다하고 있다. 강석주 통영시장은 “기록적인 폭우로 삶의 터전과 일상에 큰 피해를 입으신...",
-          "src": "브릿지경제",
+          "title": "삼성전자, 세계적 권위 디자인상 'IDEA·레드닷 어워드'서 잇따라 수상",
+          "desc": "22일 삼성전자에 따르면 회사는 'IDEA 2026'에서 '가전 접근성 디자인'을 비롯해 AI 기반 선행 디자인, 지속가능한 제품·패키지 디자인 등이 수상했으며, 레드닷 디자인 어워드 2026에서는 개인화된...",
+          "src": "getnews",
           "date": "08/22",
-          "url": "https://www.viva100.com/article/20260822500094",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/22/.cache/512/20260822500092.jpg?v=20260822120910"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878565",
+          "img": "https://cdn.getnews.co.kr/news/photo/202608/878565_534607_1449.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
+          "desc": "클라우드 기술 투자에 활용하겠다는 방침을 세웠다. 공모 완료 시 밴드 하단 기준 1549억 원이 회사에 유입될 전망이다. 이중 287억 원은 수도권 센터에 AI PMDC 컨테이너 4동을 도입하는 데 활용될 예정이다. 나머지...",
+          "src": "서울경제",
+          "date": "08/22",
+          "url": "https://n.news.naver.com/mnews/article/011/0004654117?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260804.0e721c2341ab42c6995383707aa5674b_R.jpg"
+        },
+        {
+          "title": "“AI가 예상 못한 질문을 받는다면?”…‘아기상어’ 전시에 적용된 AI ...",
+          "desc": "평가 과정에는 ‘다투모 플랫폼’의 에이전트 시뮬레이션 기능이 활용됐다. 가상의 AI 사용자가 실제 관람객처럼 AI 캐릭터와 여러 차례 대화를 이어가며 응답의 안전성과 적절성을 자동으로 평가하는 기술이다. 이를...",
+          "src": "이투데이",
+          "date": "08/22",
+          "url": "https://www.etoday.co.kr/news/view/2616788",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260821111330_2376244_1200_800.png"
+        },
         {
           "title": "코스닥시장 세그먼트 개편: 일본의 시장구분 재편이 주는 시사점",
           "desc": "한편 규모 요건을 활용하더라도 절대 수준보다 일정 기간의 개선 추세나 유동성 지표와 결합하는 방식이... 10월부터 AI 생성보고서를 도입해 공백을 메우고 있기는 하나, 투자의견이 제시되지 않고 비정기 단일 보고서...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479554_466329_5657_v150.jpg"
-        },
-        {
-          "title": "방어벽 뚫는 ‘AI 해커’…中 24시간 내 취약점 악용·北 AI 패키지 오염",
-          "desc": "그러면서 '기업은 AI 도입에 속도를 내는 만큼 보안 대책 마련에도 집중해야 한다'며 '빠르게 진화하는 공격에 맞서 방어 체계에도 AI를 적극 활용해야 할 때'라고 강조했다.",
-          "src": "kidd",
-          "date": "08/22",
-          "url": "https://kidd.co.kr/news/247103",
-          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787287041_83.jpg"
-        },
-        {
-          "title": "파이코인, 기술 진전과 검증 과제 교차…프로토콜 27 이후가 관건",
-          "desc": "파이코인(PI) 자료 사진  파이네트워크(PI)를 둘러싸고 기술적 진전과 실사용성에 대한 의문이 동시에... 서비스 도입을 구분해야 한다는 것이다. 로보페이(RoboPay)를 둘러싼 평가 역시 엇갈린다. 파이 생태계의 결제 활용...",
-          "src": "cbci",
-          "date": "08/22",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600215",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600215_411559_408_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "거제시 등 특별재난지역 선포…집중호우 피해복구 추가 지원",
-      "url": "https://www.newspost.kr/news/articleView.html?idxno=225116",
-      "img": "https://cdn.newspost.kr/news/thumbnail/202608/225116_227397_376_v150.jpg"
+      "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "기록적 폭우 거제·통영시, 특별재난지역 선포",
-      "url": "https://www.viva100.com/article/20260822500094",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/22/.cache/512/20260822500092.jpg?v=20260822120910"
+      "title": "삼성전자, 세계적 권위 디자인상 'IDEA·레드닷 어워드'서 잇따라 수상",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878565",
+      "img": "https://cdn.getnews.co.kr/news/photo/202608/878565_534607_1449.jpg"
     },
     {
-      "title": "삼성·SK·한화와 손잡은 세보엠이씨…반도체 설비 시장서 존재감",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479554_466329_5657_v150.jpg"
+      "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654117?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260804.0e721c2341ab42c6995383707aa5674b_R.jpg"
     },
     {
-      "title": "방어벽 뚫는 ‘AI 해커’…中 24시간 내 취약점 악용·北 AI 패키지 오염",
-      "url": "https://kidd.co.kr/news/247103",
-      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787287041_83.jpg"
+      "title": "“AI가 예상 못한 질문을 받는다면?”…‘아기상어’ 전시에 적용된 AI ...",
+      "url": "https://www.etoday.co.kr/news/view/2616788",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260821111330_2376244_1200_800.png"
     }
   ]
 };
