@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 17:49",
+  "updatedAt": "2026.08.22 (토) 19:42",
   "banner": {
     "show": true,
     "icon": "🔗",
