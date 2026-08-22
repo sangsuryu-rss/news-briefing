@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 10:52",
+  "updatedAt": "2026.08.22 (토) 12:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "리센느·팬덤 약 1억…거제 수해에 이어진 기부 행렬",
-          "desc": "G마켓 3억 원, IBK기업은행 2억 원 등 국내 기업들의 기부와 긴급구호 지원도 이어지고 있다. 수해 현장에서는 자원봉사와 함께 삼성전자서비스·LG전자서비스가 침수 가전제품 무상 점검·수리를 지원하고 있다. 전혜진",
-          "src": "knnews",
+          "title": "거제시 등 특별재난지역 선포…집중호우 피해복구 추가 지원",
+          "desc": "삼성전자와 LG전자도 침수 가전제품 무상 점검, 세척 등을 실시하며 지역사회에 공헌하고 있다. 거제시와 통영시는 피해복구를 위한 추가 지원을 정부와 경상남도에 지속적으로 건의할 예정이다. 한편 정부는 다른...",
+          "src": "newspost",
           "date": "08/22",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549127",
-          "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549127_520_images.jpg"
+          "url": "https://www.newspost.kr/news/articleView.html?idxno=225116",
+          "img": "https://cdn.newspost.kr/news/thumbnail/202608/225116_227397_376_v150.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "삼성전자 DX노조, 전사 성과 기반 공통재원 요구",
-          "desc": "삼성전자의 가전·TV·스마트폰 등을 담당하는 디바이스경험(DX) 부문 직원 중심으로 구성된 삼성전자 노동조합 동행(이하 '동행노조')은 지난 21일 오후 서울 서초구 삼성전자 서초사옥 인근에서 집회를 열고 수익성...",
-          "src": "한스경제",
+          "title": "기록적 폭우 거제·통영시, 특별재난지역 선포",
+          "desc": "삼성전자와 LG전자는 침수 가전제품에 대한 무상수리를 실시하고 있으며, 통영시와 거제시는 정부와 협력해 피해 복구에 최선을 다하고 있다. 강석주 통영시장은 “기록적인 폭우로 삶의 터전과 일상에 큰 피해를 입으신...",
+          "src": "브릿지경제",
           "date": "08/22",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858676",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858676_879935_5624_v150.jpg"
+          "url": "https://www.viva100.com/article/20260822500094",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/22/.cache/512/20260822500092.jpg?v=20260822120910"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "에릭 슈미트, 비노드 코슬라가 반한 로봇기업…몸값 4조 찍는다",
-          "desc": "제조·물류 활용 사례를 발굴한 뒤 다단계 확산에 나서는 장기 협력을 맺었다. 제르베 사장은 \"글로벌 기업들은 새로운 기술의 검증과 설치, 운영화를 LG CNS 같은 기업에 의존한다. 피지컬 AI의 대규모 도입을 현실로 만들...",
-          "src": "머니투데이",
+          "title": "코스닥시장 세그먼트 개편: 일본의 시장구분 재편이 주는 시사점",
+          "desc": "한편 규모 요건을 활용하더라도 절대 수준보다 일정 기간의 개선 추세나 유동성 지표와 결합하는 방식이... 10월부터 AI 생성보고서를 도입해 공백을 메우고 있기는 하나, 투자의견이 제시되지 않고 비정기 단일 보고서...",
+          "src": "ifs",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/008/0005403250?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081915324523422_1.jpg"
+          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55979",
+          "img": ""
         },
         {
-          "title": "[ABC AI국가대전환=강경성 KOTRA 사장]AI가 주도하는 'K수출 1조달러'",
-          "desc": "전국의 중소기업을 수출기업으로 KOTRA는 AI를 대기업이나 수도권 기업만을 위한 기술로 보지 않는다. 전국... AI 활용을 확대하는 것도 이 때문이다. 결국 AX의 본질은 AI 프로그램을 도입하는 것이 아니다. 조직이...",
-          "src": "아주경제",
+          "title": "삼성·SK·한화와 손잡은 세보엠이씨…반도체 설비 시장서 존재감",
+          "desc": "등을 도입했다. PFP 공법을 비롯한 기술력을 확보하고 설계와 생산 과정의 자동화를 추진하면서 경쟁력을 높이고 있다는 설명이다. CAD/CAM 시스템은 설계 데이터를 생산 과정과 연계해 작업 효율을 높이는 데 활용된다....",
+          "src": "핀포인트뉴스",
           "date": "08/22",
-          "url": "https://www.ajunews.com/view/20260821085737357",
-          "img": "https://image.ajunews.com/content/image/2026/08/21/20260821092344660180.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479554_466329_5657_v150.jpg"
         },
         {
-          "title": "로봇 도입 확대되는데… 전략 갖춘 조직은 10곳 중 4곳",
-          "desc": "온디바이스 AI 전략을 갖추고 있고, 39%는 적극적으로 개발에 나선 것으로 나타났다. 응답자의 67%는 로봇이 인간 작업자의 기술을 향상시킬 것으로 기대하며, 31%는 로봇 도입의 가장 큰 장점으로 '안전'을 꼽았다....",
-          "src": "조선일보",
+          "title": "방어벽 뚫는 ‘AI 해커’…中 24시간 내 취약점 악용·北 AI 패키지 오염",
+          "desc": "그러면서 '기업은 AI 도입에 속도를 내는 만큼 보안 대책 마련에도 집중해야 한다'며 '빠르게 진화하는 공격에 맞서 방어 체계에도 AI를 적극 활용해야 할 때'라고 강조했다.",
+          "src": "kidd",
           "date": "08/22",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168642",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168642_450735_10_v150.jpg"
+          "url": "https://kidd.co.kr/news/247103",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787287041_83.jpg"
         },
         {
-          "title": "뚫린 민간 인증기관, 진화한 AI 해킹… 거세지는 사이버 공격",
-          "desc": "전문가들은 AI 도입으로 취약점 공개부터 공격 스크립트 확보까지 걸리는 시간이 단축됐다고 지적했다. 현재 진행 중인 활동은 타격을 주기 위한 사전 정찰 단계로 분석된다. 산업 기술 전문가 브라이언 프록터는 상황을...",
-          "src": "디지털데일리",
+          "title": "파이코인, 기술 진전과 검증 과제 교차…프로토콜 27 이후가 관건",
+          "desc": "파이코인(PI) 자료 사진  파이네트워크(PI)를 둘러싸고 기술적 진전과 실사용성에 대한 의문이 동시에... 서비스 도입을 구분해야 한다는 것이다. 로보페이(RoboPay)를 둘러싼 평가 역시 엇갈린다. 파이 생태계의 결제 활용...",
+          "src": "cbci",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/138/0002238619?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/20/2026082016395051337_l.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600215",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600215_411559_408_v150.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
+          "img": ""
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "리센느·팬덤 약 1억…거제 수해에 이어진 기부 행렬",
-      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549127",
-      "img": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1549127_520_images.jpg"
+      "title": "거제시 등 특별재난지역 선포…집중호우 피해복구 추가 지원",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=225116",
+      "img": "https://cdn.newspost.kr/news/thumbnail/202608/225116_227397_376_v150.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "삼성전자 DX노조, 전사 성과 기반 공통재원 요구",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858676",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/858676_879935_5624_v150.jpg"
+      "title": "기록적 폭우 거제·통영시, 특별재난지역 선포",
+      "url": "https://www.viva100.com/article/20260822500094",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/22/.cache/512/20260822500092.jpg?v=20260822120910"
     },
     {
-      "title": "에릭 슈미트, 비노드 코슬라가 반한 로봇기업…몸값 4조 찍는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403250?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081915324523422_1.jpg"
+      "title": "삼성·SK·한화와 손잡은 세보엠이씨…반도체 설비 시장서 존재감",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479554_466329_5657_v150.jpg"
     },
     {
-      "title": "[ABC AI국가대전환=강경성 KOTRA 사장]AI가 주도하는 'K수출 1조달러'",
-      "url": "https://www.ajunews.com/view/20260821085737357",
-      "img": "https://image.ajunews.com/content/image/2026/08/21/20260821092344660180.jpg"
+      "title": "방어벽 뚫는 ‘AI 해커’…中 24시간 내 취약점 악용·北 AI 패키지 오염",
+      "url": "https://kidd.co.kr/news/247103",
+      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/08/21/1787287041_83.jpg"
     }
   ]
 };
