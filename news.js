@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 13:51",
+  "updatedAt": "2026.08.22 (토) 16:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
-          "desc": "삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 첫 수상작에 포함됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자별 신체적 특성을 고려해 세탁기와 냉장고 등 가전제품을...",
-          "src": "mediafine",
+          "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
+          "desc": "침수된 가전제품을 수리하기 위한 지원도 이뤄졌다. 이선곤 삼성전자 재해복구 특별서비스팀 둔덕면 서비스 포스트장은 \"지난 19일부터 지원에 나섰는데 지금까지 접수된 것만 170건 정도\"라며 \"회사 제품이 아니더라도...",
+          "src": "뉴스1",
           "date": "08/22",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "삼성전자, 세계적 권위 디자인상 'IDEA·레드닷 어워드'서 잇따라 수상",
-          "desc": "22일 삼성전자에 따르면 회사는 'IDEA 2026'에서 '가전 접근성 디자인'을 비롯해 AI 기반 선행 디자인, 지속가능한 제품·패키지 디자인 등이 수상했으며, 레드닷 디자인 어워드 2026에서는 개인화된...",
-          "src": "getnews",
+          "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
+          "desc": "삼성전자의 '가전 접근성 디자인(Accessibility Design for Home Appliances)'이 첫 수상작에 포함됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자별 신체적 특성을 고려해 세탁기와 냉장고 등 가전제품을...",
+          "src": "mediafine",
           "date": "08/22",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878565",
-          "img": "https://cdn.getnews.co.kr/news/photo/202608/878565_534607_1449.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
-          "desc": "클라우드 기술 투자에 활용하겠다는 방침을 세웠다. 공모 완료 시 밴드 하단 기준 1549억 원이 회사에 유입될 전망이다. 이중 287억 원은 수도권 센터에 AI PMDC 컨테이너 4동을 도입하는 데 활용될 예정이다. 나머지...",
-          "src": "서울경제",
+          "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
+          "desc": "애플은 향후 자체 제작 비중을 줄이고 서드파티 콘텐츠 생태계를 적극 활용할 방침이다. 시리 및 AI 조직의 개편은 새로운 기술 아키텍처 기반의 '차세대 AI 시리' 도입과 맞물려 있다. 전사적으로 AI 기능 개발 속도를...",
+          "src": "ZDNet코리아",
           "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/011/0004654117?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260804.0e721c2341ab42c6995383707aa5674b_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002434734?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/27/4446f95d63c38066e12ef2641c2ec720.png"
         },
         {
-          "title": "“AI가 예상 못한 질문을 받는다면?”…‘아기상어’ 전시에 적용된 AI ...",
-          "desc": "평가 과정에는 ‘다투모 플랫폼’의 에이전트 시뮬레이션 기능이 활용됐다. 가상의 AI 사용자가 실제 관람객처럼 AI 캐릭터와 여러 차례 대화를 이어가며 응답의 안전성과 적절성을 자동으로 평가하는 기술이다. 이를...",
-          "src": "이투데이",
+          "title": "\"생성형 AI로 지역 문제 해결\" 한국공학대, 4기 '로컬 국토대장정 in 제...",
+          "desc": "인공지능(AI) 기술과 지역 자원을 융합한 체류형 창업 모델 발굴에 나섰다. 한국공학대 창업교육센터는... 특히 교육 전반에 AI를 도입해 특강을 진행하고 개인별 AI 활용비를 지급했으며 참가자들은 생성형 AI를...",
+          "src": "cstimes",
           "date": "08/22",
-          "url": "https://www.etoday.co.kr/news/view/2616788",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260821111330_2376244_1200_800.png"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=717640",
+          "img": "https://www.cstimes.com/news/photo/202608/717640_638153_379.jpg"
         },
         {
-          "title": "코스닥시장 세그먼트 개편: 일본의 시장구분 재편이 주는 시사점",
-          "desc": "한편 규모 요건을 활용하더라도 절대 수준보다 일정 기간의 개선 추세나 유동성 지표와 결합하는 방식이... 10월부터 AI 생성보고서를 도입해 공백을 메우고 있기는 하나, 투자의견이 제시되지 않고 비정기 단일 보고서...",
-          "src": "ifs",
+          "title": "LG전자, 브라질 신공장 가동…남미 공략 속도낸다",
+          "desc": "신공장에는 AI 및 산업용 로봇 기반의 스마트팩토리 솔루션을 도입해 생산 효율과 품질, 공정 안정성을 높이고 비전 AI 기반의 품질 검사와 디지털 트윈 기술을 활용해 생산라인의 이상 징후를 사전 감지하는 관제...",
+          "src": "news",
           "date": "08/22",
-          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55979",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/648/0000050053?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
         },
         {
-          "title": "삼성·SK·한화와 손잡은 세보엠이씨…반도체 설비 시장서 존재감",
-          "desc": "등을 도입했다. PFP 공법을 비롯한 기술력을 확보하고 설계와 생산 과정의 자동화를 추진하면서 경쟁력을 높이고 있다는 설명이다. CAD/CAM 시스템은 설계 데이터를 생산 과정과 연계해 작업 효율을 높이는 데 활용된다....",
-          "src": "핀포인트뉴스",
+          "title": "[인터뷰] 씨게이트 \"AI가 쏟아내는 데이터, 더 효율적으로 담아야\"",
+          "desc": "연산에 활용할 수 있지만, 비용 효율적인 데이터 저장에는 대용량 HDD 기반 1차 스토리지 계층이 필요하다\"고 말했다. \"AI 데이터 폭증... 더 많이 담는 기술 필요\" AI가 만들어내는 데이터가 늘어날수록 데이터센터의...",
+          "src": "ZDNet코리아",
           "date": "08/22",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479554_466329_5657_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002434733?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/21/faca6406c1cc607813fb1ddde24493e1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
+      "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "삼성전자, 세계적 권위 디자인상 'IDEA·레드닷 어워드'서 잇따라 수상",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878565",
-      "img": "https://cdn.getnews.co.kr/news/photo/202608/878565_534607_1449.jpg"
+      "title": "삼성전자, IDEA·레드닷서 디자인 경쟁력 입증-국제 디자인상 57개 수상",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87540",
+      "img": "https://cdn.mediafine.co.kr/news/photo/202608/87540_125346_2146.jpg"
     },
     {
-      "title": "엘리스그룹 코스닥 공모 본격화…몸값 1兆 조준 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654117?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260804.0e721c2341ab42c6995383707aa5674b_R.jpg"
+      "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434734?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/07/27/4446f95d63c38066e12ef2641c2ec720.png"
     },
     {
-      "title": "“AI가 예상 못한 질문을 받는다면?”…‘아기상어’ 전시에 적용된 AI ...",
-      "url": "https://www.etoday.co.kr/news/view/2616788",
-      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260821111330_2376244_1200_800.png"
+      "title": "\"생성형 AI로 지역 문제 해결\" 한국공학대, 4기 '로컬 국토대장정 in 제...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=717640",
+      "img": "https://www.cstimes.com/news/photo/202608/717640_638153_379.jpg"
     }
   ]
 };
