@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.22 (토) 23:40",
+  "updatedAt": "2026.08.23 (일) 01:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[용인 민선 9기 연속기획⑦·총정리] 이상일 시장, 민선 8기 성과 넘어 ...",
-          "desc": "삼성전자 첨단시스템반도체 국가산업단지와 SK하이닉스 반도체클러스터, 경기용인 플랫폼시티가 추진되고... 민선 9기에는 그린에코파크와 탄소중립 실천 인센티브, 자원순환경제, 소형 폐가전 수거, 투명페트병...",
-          "src": "newstown",
-          "date": "08/22",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713262",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713262_668130_3157_v150.jpg"
+          "title": "[김대호 진단] 반도체 열전 (46) SMIC(中芯國際)...시진핑 파운드리",
+          "desc": "TSMC나 삼성전자와의 격차를 좁히기는 기술적으로 불가능에 가깝다. 그럼에도 불구하고 SMIC는 시진핑 주석의 확고한 비호 아래 28나노 이상의 범용(레거시) 공정 라인을 공격적으로 증설하며 글로벌 자동차·가전...",
+          "src": "g-enews",
+          "date": "08/23",
+          "url": "https://www.g-enews.com/view.php?ud=202608181355356576906806b77b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081814052902312906806b77b1752093689.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "어도비 파이어플라이, AI 음악·음성·음향효과 정식 출시…수노·우디...",
+          "desc": "제너레이트 사운드 이펙트는 파이어플라이 오디오 모델(Firefly Audio Model)을 활용해 영상의 타이밍과... 이후 수노는 워터마크와 핑거프린트 기술을 결과물에 적용하고 다운로드 횟수 제한도 도입했다.어도비는 이...",
+          "src": "wikitree",
+          "date": "08/23",
+          "url": "https://www.wikitree.co.kr/articles/1154178",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230011527032_ai.jpeg"
+        },
+        {
           "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
           "desc": "양사는 앞으로 산업별 과제 분석부터 시작해 맞춤형 아키텍처 설계, 양자 알고리즘 검토와 기술검증(PoC), 도입 컨설팅과 운영 지원, 공동 세미나까지 전 과정에 걸쳐 협력할 계획이다. 주요 타깃 산업은 AI와 바이오...",
           "src": "worktoday",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713263",
           "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713263_668131_3844_v150.jpg"
-        },
-        {
-          "title": "한국 여성 54.5% “여자도 군대 가야”…그럼 병력절벽 해소될까?",
-          "desc": "2027년부터 기술집약형부사관 약 3000명을 선발하겠다고 밝혔다. 유·무인복합체계와 인공지능(AI), 사이버... 실제 도입에는 병역법 개정과 함께 필요한 병력 규모와 여성 장병의 보직, 교육훈련, 병영시설 등을 다시...",
-          "src": "서울신문",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/081/0003672592?sid=100",
-          "img": "https://img.seoul.co.kr//img/upload/2023/08/13/SSC_20230813114230_O2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[용인 민선 9기 연속기획⑦·총정리] 이상일 시장, 민선 8기 성과 넘어 ...",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=713262",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202608/713262_668130_3157_v150.jpg"
+      "title": "[김대호 진단] 반도체 열전 (46) SMIC(中芯國際)...시진핑 파운드리",
+      "url": "https://www.g-enews.com/view.php?ud=202608181355356576906806b77b_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026081814052902312906806b77b1752093689.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
     },
     {
+      "title": "어도비 파이어플라이, AI 음악·음성·음향효과 정식 출시…수노·우디...",
+      "url": "https://www.wikitree.co.kr/articles/1154178",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/23/202608230011527032_ai.jpeg"
+    },
+    {
       "title": "QAI-콴델라, 'GPU+양자컴퓨팅' 손잡았다 … 아시아 하이브리드 HPC 시장 ...",
       "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88264",
       "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88264_127089_329_v150.jpg"
-    },
-    {
-      "title": "제주 감귤 관측도 AI 시대… 생산량 조사 '자동화'",
-      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61746",
-      "img": "http://cdn.youngnong.co.kr/news/photo/202608/61746_53287_2743.jpg"
     }
   ]
 };
