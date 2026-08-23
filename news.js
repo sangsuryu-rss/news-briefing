@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 19:43",
+  "updatedAt": "2026.08.23 (일) 22:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "8월 셋째주, AI 반도체에 520억 '뭉칫돈'…딥테크 투자 열기 지속",
-          "desc": "아이에이치더블유는 2024년 6월 설립된 법인으로 삼성전자·SK하이닉스·인텔 출신 임원과 엔지니어들이... 현재 LG전자 가전·전장(VS)사업부를 비롯해 DB글로벌칩, 에어버스(Airbus) 등 국내외 제조기업과 실증 프로젝트를...",
-          "src": "머니투데이",
+          "title": "[거제 둔덕면 수해 구호 현장] 짜장면 300인분·모금 독려 SNS… 현장 가...",
+          "desc": "물에 잠겨 못 쓰게 된 가전제품을 되살리는 기술 지원도 이뤄졌다. 삼성전자서비스 관계자들은 현장에 임시 점검 공간을 마련하고, 물에 잠긴 냉장고와 선풍기 등을 하나씩 살펴보고 말린 뒤 수리가 가능한 제품을...",
+          "src": "knnews",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/008/0005403476?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082313301325664_1.jpg"
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549153",
+          "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026082319112389270.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "씨엔티테크, 기업용 AI 운영 솔루션 '인트'에 투자",
-          "desc": "씨엔티테크 관계자는 \"AI 도입 확대에 따라 안정적인 운영과 성능 관리 기술의 필요성도 커질 것\"이라고 말했다. 프랜차이즈 외식업계 관계자는 \"매장 운영과 고객관리 등에 AI 활용이 늘어나면 도입 이후 성능을...",
-          "src": "shinailbo",
+          "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
+          "desc": "이번 협약은 첨단 AI 의료기술을 도입해 디지털 헬스케어 기반의 진료 역량을 대폭 강화하고, 뇌건강 관리... 헬스케어 기술을 적극 활용해 도민이 믿고 찾을 수 있는 지역거점 공공병원이 되도록 최선을 다하겠다\"고...",
+          "src": "cctimes",
           "date": "08/23",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053788",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5053788_2051791_4329.png"
+          "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
+          "img": "https://cdn.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
         },
         {
-          "title": "카카오게임즈가 펼친 '차원이 다른 도트의 세계'…'도깨비의세계' 첫 공...",
-          "desc": "'도깨비의세계'는 네이버 웹소설·웹툰 '멸귀수도전' IP를 기반으로 슈퍼캣이 축적해온 도트 그래픽 기술과... # AI 비서 '묘롱'도 도입 이용자의 플레이 데이터를 활용하는 AI 비서도 적용한다. '묘롱'은 게임 내 활동...",
-          "src": "worktoday",
+          "title": "[2027 大入 수시모집] 계명대, 학생부교과 성적 반영 방식에 '큰 변화'",
+          "desc": "전면적 도입이라는 점에서 큰 의미를 가진다. 또한 대학 혁신 전략의 핵심 과제로 AI 활용 확대를... 자연스럽게 AI를 활용하는 학습 환경을 조성한 것도 대표적인 성과이다. 계명대는 교육부와 한국산업기술진흥원...",
+          "src": "idaegu",
           "date": "08/23",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88276",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88276_127124_5616_v150.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557366",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202608/2026082401000631200037891.jpg"
         },
         {
-          "title": "\"답은 언제나 현장에 있다… 역동적 대구경제 도약 위해 총력\" [로컬포커...",
-          "desc": "기업들의 AI 기술 도입과 실증을 밀착 지원하고, 대구 산업 지도의 판 자체를 AI 기반 고부가가치 첨단 산업... 생태계·인재공급·용수·전력)를 활용해 대구경북이 대한민국 반도체 경쟁력의 한 축을 담당하도록 가능성을...",
-          "src": "파이낸셜뉴스",
+          "title": "[WRC 2026] \"눈앞에 펼쳐진 로봇 유토피아\"…베이징 로봇몰을 가다",
+          "desc": "Interaction) 기술을 활용한 것이다. 로봇은 6 자유도를 가진 두 팔과 2 자유도를 가진 허리를 갖추고 있어... 오프라인 매장 외에도 로봇몰은 혁신적인 '로봇 팝업스토어' 모델을 도입해 베이징 주요 상권에 진출했으며...",
+          "src": "irobotnews",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/014/0005565164?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/23/202608231851408968_l.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48060",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/48060_103059_3923.jpg"
         },
         {
-          "title": "AI와 만난 부산국제광고제, 새 가능성 연다",
-          "desc": "올해 행사에서 가장 두드러지는 점은 AI의 전방위적인 도입이다. 광고계는 ‘이제 AI 없이는 돌아가기... AI 기술을 얼마나 창의적으로 활용했는지를 평가하는 ‘AI 활용 부문’을 신설했고, 모든 경쟁 부문 출품작에는 AI...",
-          "src": "kookje",
+          "title": "중진공, 스마트제조 전문인력 육성사업 참여 교육생 모집...\"인턴십 기회...",
+          "desc": "정부는 교육생과 연계할 기업으로 스마트공장 도입 제조업체 약 400곳과 제조AI 솔루션 공급업체 약 80곳 등... 비전AI 등 제조현장에서 활용되는 기술을 중심으로 실무교육을 제공한다. 중소기업의 인력 부족은 이번...",
+          "src": "econonews",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/658/0000153135?sid=103",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0824/L20260824.22017006384i1.jpg?14"
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443216",
+          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "8월 셋째주, AI 반도체에 520억 '뭉칫돈'…딥테크 투자 열기 지속",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403476?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082313301325664_1.jpg"
+      "title": "[거제 둔덕면 수해 구호 현장] 짜장면 300인분·모금 독려 SNS… 현장 가...",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549153",
+      "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026082319112389270.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
-      "title": "씨엔티테크, 기업용 AI 운영 솔루션 '인트'에 투자",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053788",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5053788_2051791_4329.png"
+      "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
+      "img": "https://cdn.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
     },
     {
-      "title": "카카오게임즈가 펼친 '차원이 다른 도트의 세계'…'도깨비의세계' 첫 공...",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88276",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88276_127124_5616_v150.jpg"
+      "title": "[2027 大入 수시모집] 계명대, 학생부교과 성적 반영 방식에 '큰 변화'",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557366",
+      "img": "https://cdn.idaegu.co.kr/news/photo/202608/2026082401000631200037891.jpg"
     }
   ]
 };
