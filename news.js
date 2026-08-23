@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 22:03",
+  "updatedAt": "2026.08.23 (일) 23:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[거제 둔덕면 수해 구호 현장] 짜장면 300인분·모금 독려 SNS… 현장 가...",
-          "desc": "물에 잠겨 못 쓰게 된 가전제품을 되살리는 기술 지원도 이뤄졌다. 삼성전자서비스 관계자들은 현장에 임시 점검 공간을 마련하고, 물에 잠긴 냉장고와 선풍기 등을 하나씩 살펴보고 말린 뒤 수리가 가능한 제품을...",
-          "src": "knnews",
+          "title": "'상장 도전' 글로벌테크놀러지, 실적 관건은 '삼성 미니 LED TV 채택'",
+          "desc": "글로벌테크놀러지는 \"컨슈머 고객사 A(삼성전자) VD(TV)사업부용 디스크리트 부문 내 점유율이 2025년 37%에서 2026년 40%로 확대될 것\"이라며 \"컨슈머 고객사 A(삼성전자) DA(생활가전) 모든 응용처에 공용으로...",
+          "src": "ZDNet코리아",
           "date": "08/23",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549153",
-          "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026082319112389270.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/08/23/f649486cf97bf208917f89b29a5799cc.png"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[기고]사관학교 통합, ‘규모의 경제’는 어디까지 가능한가?…“같은 ...",
+          "desc": "서로 다른 제품이나 서비스를 함께 제공하면서 시설·인력·기술 같은 공통자원을 나눠 써 총비용을 낮추는... AI(인공지능)·사이버 같은 고가 시설과 정보체계를 함께 사용하는 방안도 비교해야 한다. 이러한 공동 활용을...",
+          "src": "munhwa",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/021/0002813191?sid=100",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/23/news-p.v1.20260823.93b32a4da02248729e1f50d5556a3da7_R.jpg"
+        },
+        {
+          "title": "\"에너지 생산도시로\"…창원시 '청정에너지 수도' 꿈꾼다",
+          "desc": "산업단지 내 10MW 이상의 태양광 설비를 구축하고 통합 에너지관리시스템(EMS)을 도입해 발전량과 전력사용량을 실시간 관리할 예정이다. 가상발전소(VPP)와 수요반응(DR) 등 스마트 에너지 기술을 활용해 에너지 운영...",
+          "src": "nocutnews",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/079/0004181338?sid=102",
+          "img": ""
+        },
+        {
+          "title": "[최석근] AI시대, K패션의 마지막 9부 능선 (하)",
+          "desc": "AI, 데이터, 앱, 팝업, 협업과 같은 새로운 수단도 남들이 한다고 도입하지 않는다. 그 기술과 활동이 브랜드... 능력을 활용하는 운영 철학이다. 디지털은 고객의 불편을 줄이고 브랜드의 세계를 더 정확하고 넓게 연결한다....",
+          "src": "apparelnews",
+          "date": "08/23",
+          "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227091",
+          "img": ""
+        },
+        {
           "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
           "desc": "이번 협약은 첨단 AI 의료기술을 도입해 디지털 헬스케어 기반의 진료 역량을 대폭 강화하고, 뇌건강 관리... 헬스케어 기술을 적극 활용해 도민이 믿고 찾을 수 있는 지역거점 공공병원이 되도록 최선을 다하겠다\"고...",
           "src": "cctimes",
           "date": "08/23",
           "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
-          "img": "https://cdn.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
-        },
-        {
-          "title": "[2027 大入 수시모집] 계명대, 학생부교과 성적 반영 방식에 '큰 변화'",
-          "desc": "전면적 도입이라는 점에서 큰 의미를 가진다. 또한 대학 혁신 전략의 핵심 과제로 AI 활용 확대를... 자연스럽게 AI를 활용하는 학습 환경을 조성한 것도 대표적인 성과이다. 계명대는 교육부와 한국산업기술진흥원...",
-          "src": "idaegu",
-          "date": "08/23",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557366",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202608/2026082401000631200037891.jpg"
-        },
-        {
-          "title": "[WRC 2026] \"눈앞에 펼쳐진 로봇 유토피아\"…베이징 로봇몰을 가다",
-          "desc": "Interaction) 기술을 활용한 것이다. 로봇은 6 자유도를 가진 두 팔과 2 자유도를 가진 허리를 갖추고 있어... 오프라인 매장 외에도 로봇몰은 혁신적인 '로봇 팝업스토어' 모델을 도입해 베이징 주요 상권에 진출했으며...",
-          "src": "irobotnews",
-          "date": "08/23",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48060",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/48060_103059_3923.jpg"
-        },
-        {
-          "title": "중진공, 스마트제조 전문인력 육성사업 참여 교육생 모집...\"인턴십 기회...",
-          "desc": "정부는 교육생과 연계할 기업으로 스마트공장 도입 제조업체 약 400곳과 제조AI 솔루션 공급업체 약 80곳 등... 비전AI 등 제조현장에서 활용되는 기술을 중심으로 실무교육을 제공한다. 중소기업의 인력 부족은 이번...",
-          "src": "econonews",
-          "date": "08/23",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443216",
-          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+          "img": "http://www.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[거제 둔덕면 수해 구호 현장] 짜장면 300인분·모금 독려 SNS… 현장 가...",
-      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549153",
-      "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026082319112389270.jpg"
+      "title": "'상장 도전' 글로벌테크놀러지, 실적 관건은 '삼성 미니 LED TV 채택'",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/08/23/f649486cf97bf208917f89b29a5799cc.png"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
-      "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
-      "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
-      "img": "https://cdn.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
+      "title": "[기고]사관학교 통합, ‘규모의 경제’는 어디까지 가능한가?…“같은 ...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002813191?sid=100",
+      "img": "https://wimg.munhwa.com/news/cms/2026/08/23/news-p.v1.20260823.93b32a4da02248729e1f50d5556a3da7_R.jpg"
     },
     {
-      "title": "[2027 大入 수시모집] 계명대, 학생부교과 성적 반영 방식에 '큰 변화'",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=557366",
-      "img": "https://cdn.idaegu.co.kr/news/photo/202608/2026082401000631200037891.jpg"
+      "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
+      "img": "http://www.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
     }
   ]
 };
