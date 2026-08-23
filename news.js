@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 16:03",
+  "updatedAt": "2026.08.23 (일) 17:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
-          "desc": "삼성전자 실증 사례를 바탕으로 원격제어 인덕션의 예비안전기준과 평가기법을 마련하고 있다. 내년 전후로 관련 안전기준이 도입되면 물량과 모델 제한 없이 원격제어 제품을 출시할 수 있다. 앞서 글로벌 가전 기업은...",
-          "src": "전자신문",
+          "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
+          "desc": "삼성전자서비스는 지난 19일 경남 거제시 둔덕면사무소 인근에 '이동형 서비스센터'를 설치했다. 이곳에서 침수된 에어컨, 냉장고, 세탁기 등 가전제품의 세척 및 무상 점검을 지원하고 있다. 휴대폰 점검 장비를 탑재한...",
+          "src": "뉴시스",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/030/0003459526?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.25e518b62b6b40d8b663c193a48352e4_P1.png"
+          "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
+          "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "기업들 경남 집중호우 피해 지원 잇따라",
-          "desc": "삼성전자서비스는 집중 호우로 피해를 본 경상남도 거제시 일대에 ‘수해 복구 특별 서비스팀’을 파견했다. 거제 둔덕면사무소 인근에 이동형 서비스센터를 설치하고 침수된 에어컨, 냉장고, 세탁기 등 가전제품...",
-          "src": "kookje",
+          "title": "특별재난지역 된 거제시… 복구·산사태 조사 속도",
+          "desc": "삼성전자와 LG전자는 침수 가전제품을 대상으로 무상 점검과 수리를 지원하고 있다. 특별재난지역 지정으로 복구 재정의 부담은 일부 줄어들게 됐지만 피해 규모 확정과 복구비 확보, 산사태 지역의 2차 피해 방지가 향후...",
+          "src": "ziksir",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?8"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=143953",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202608/143953_163705_5244_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "악어·독사가 주택가로…'희귀동물 욕망'이 키운 생태계 시한폭탄 [정락...",
-          "desc": "밀수조직은 텔레그램, 카카오톡 오픈채팅방, 파충류 전문 인터넷 카페를 유통 창구로 활용했다. 단속과... AI 기반 X레이 검색 시스템과 생체 탐지 기법 도입, 온라인 암시장 대응을 위한 수사기관의 위장수사권 부여, 사육...",
-          "src": "sisajournal",
+          "title": "메타에 청정 전력 공급 발판 마련...세이지, 美 지열발전 상용화 성큼",
+          "desc": "시추와 지하 파쇄 기술을 활용해 지하에 인공 저수지를 만들고, 여기서 24시간 전기를 뽑아내는... 인공 균열 기술… 물 손실률 10% 미만 억제 세이지가 도입한 '인공저류층생성 지열시스템(EGS)'은 고온의 지하...",
+          "src": "impacton",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/586/0000136546?sid=102",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202608/384143_392133_4542_v150.jpg"
+          "url": "http://www.impacton.net/news/articleView.html?idxno=20057",
+          "img": "https://cdn.impacton.net/news/thumbnail/202608/20057_31656_5745_v150.jpg"
         },
         {
-          "title": "AI가 대학 교육 망친다? 싱가포르 명문대 'AI 전면 도입' 승부수",
-          "desc": "NTU는 2030년까지 전체 교육과정의 40%에 AI를 도입할 예정이다. 아론 티안 NUS 학무부총장은 “우리는 이 첨단 AI 기술을 인간을 대체하는 수단이 아니라 인간의 지적 능력, 창의성, 판단력을 증폭시키는 도구로 활용하고...",
-          "src": "한국일보",
+          "title": "제이엘케이 'JLK-CTP', 11개 병원 공급계약",
+          "desc": "﻿ 의료 인공지능(AI) 전문기업 제이엘케이의 뇌졸중 AI 솔루션 ‘JLK-CTP’가 신의료기술평가 유예 지정 이후... 의료기관 도입 과정에서 활용한다는 전략이다. 제이엘케이 관계자는 “비급여 처방이 본격화되면 기존...",
+          "src": "dailymedi",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/469/0000949550?sid=104",
-          "img": "https://newsimg.hankookilbo.com/2026/08/23/c6dfc028-7f39-4b6a-89b2-fb0d188d4f6f.jpg"
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939715",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
         },
         {
-          "title": "김기흥 시의원, 대전 톨게이트를 '과학도시 미래 관문'으로",
-          "desc": "대전 톨게이트를 대전의 과학기술과 미래 비전을 보여주는 도시 관문으로 전환해야 한다는 제안이 나왔다.... 특히 AI·데이터를 활용해 교통·관광·재난정보 등을 제공하는 정보서비스 도입과 함께 교통안전, 빛공해, 시설...",
-          "src": "ccdn",
+          "title": "[모두가 행복한 경기교육 대전환] 미래의 셰프를 키운다 한국외식과학고...",
+          "desc": "한국외식과학고등학교는 학생들이 학교에서 배운 지식과 기술을 실제 외식 현장에서 활용할 수 있도록... # '실습','인공지능(AI)활용','외국어' 등 현장 실무능력 갖춘 차세대 외식 전문가 한국외식과학고등학교는 학생들이...",
+          "src": "kihoilbo",
           "date": "08/23",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095065",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1095065_605912_2522_v150.jpg"
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032343",
+          "img": "https://cdn.kihoilbo.co.kr/news/photo/202608/3032343_576180_141.jpg"
         },
         {
-          "title": "공공AI법 28일 시행…기본권 영향평가는 6개월 뒤",
-          "desc": "지며, AI와 데이터의 편향성 및 의사결정의 투명성을 고려해야 한다. 행정안전부와 과학기술정보통신부는 AI... 기존 데이터 기반 행정책임관은 ‘AI 및 데이터 기반 행정책임관’으로 확대돼 AI 도입·활용 과정의...",
-          "src": "디지털타임스",
+          "title": "완주군, 전북 인공지능(AI) 테마제안 공모 싹쓸이",
+          "desc": "주무관의 '피지컬 AI 활용 인터넷 취약계층을 위한 말로 하는 인터넷' 제안이 이름을 올렸다. 특히, 완주군은 도내 시군 중 가장 많은 101건의 제안을 제출해 행정 혁신을 향한 열의를 입증했다. 단순 기술 도입을 넘어 농업...",
+          "src": "jeonmin",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/029/0003043730?sid=102",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/23/news-p.v1.20260823.1ebbc93c7b394c318769b6fba963e9c7_R.jpg"
+          "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=445606",
+          "img": "http://www.jeonmin.co.kr/image/logo/snslogo_20190906054611.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003459526?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.25e518b62b6b40d8b663c193a48352e4_P1.png"
+      "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
+      "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
+      "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "기업들 경남 집중호우 피해 지원 잇따라",
-      "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?8"
+      "title": "특별재난지역 된 거제시… 복구·산사태 조사 속도",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=143953",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202608/143953_163705_5244_v150.jpg"
     },
     {
-      "title": "악어·독사가 주택가로…'희귀동물 욕망'이 키운 생태계 시한폭탄 [정락...",
-      "url": "https://n.news.naver.com/mnews/article/586/0000136546?sid=102",
-      "img": "https://cdn.sisajournal.com/news/thumbnail/202608/384143_392133_4542_v150.jpg"
+      "title": "메타에 청정 전력 공급 발판 마련...세이지, 美 지열발전 상용화 성큼",
+      "url": "http://www.impacton.net/news/articleView.html?idxno=20057",
+      "img": "https://cdn.impacton.net/news/thumbnail/202608/20057_31656_5745_v150.jpg"
     },
     {
-      "title": "AI가 대학 교육 망친다? 싱가포르 명문대 'AI 전면 도입' 승부수",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949550?sid=104",
-      "img": "https://newsimg.hankookilbo.com/2026/08/23/c6dfc028-7f39-4b6a-89b2-fb0d188d4f6f.jpg"
+      "title": "제이엘케이 'JLK-CTP', 11개 병원 공급계약",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939715",
+      "img": "https://www.dailymedi.com/img/d_logo.jpg"
     }
   ]
 };
