@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 05:41",
+  "updatedAt": "2026.08.24 (월) 07:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "같은 칩플레이션인데, 영업익 2조 차이…‘가전 빅2’ 엇갈린 전략",
-          "desc": "반면 같은 기간 삼성전자 생활가전 및 공조(DA)·TV(VD)사업부는 매출 28조8000억원에 영업이익은 1900억원에 그쳤다. 외형(매출)은 비슷했지만 영업이익은 2조1400억원 이상 벌어진 것이다. 팔지 않았거나 팔지 못한...",
-          "src": "중앙일보",
+          "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
+          "desc": "가격은 삼성전자와 LG전자 제품가의 3분의 1 수준인 139만원대로 책정하며 국내 세탁 가전 시장에 도전장을 냈다. 청소가전 업체 드리미는 확장 속도가 더 빠르다. 지난 4월 국내 첫 정수기 ‘C10’을 출시한 데 이어 헤어...",
+          "src": "조선일보",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546230?sid=101",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994514?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
+        },
+        {
+          "title": "삼성전자 DX 8000억 적자, 누구 책임?…동행노조 \"다음은 한남\"",
+          "desc": "TV와 냉장고, 세탁기, 청소기 등 삼성전자 주력 제품 사진에도 검은 테두리가 둘러졌다. 삼성전자 완제품(DX)부문 직원들이 중심인 삼성전자노동조합 동행(이하 동행노조)이 지난달 수원사업장에 이어 이번에는...",
+          "src": "newswhoplus",
+          "date": "08/24",
+          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=67677",
+          "img": "https://cdn.newswhoplus.com/news/thumbnail/202608/67677_104656_227_v150.jpg"
+        },
+        {
+          "title": "[Who Is ?] 이진안 앰코테크놀로지코리아 대표이사 사장",
+          "desc": "이 자리에는 이재명 대통령과 전영현 삼성전자 부회장, 곽노정 SK하이닉스 대표이사 사장 등이 참석했다.... 데이터센터와 PC·저장장치 등 컴퓨팅 부문이 20%, 자동차·산업용 반도체가 19%, 소비자가전이 15%를...",
+          "src": "비즈니스포스트",
+          "date": "08/24",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445352",
           "img": ""
         },
         {
-          "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
-          "desc": "로봇청소기에서 시작된 중국 가전업체들의 한국 공략이 TV와 냉장고, 세탁기 등 대형가전으로 확대되면서 삼성전자와 LG전자가 주도해온 국내 가전시장에도 경쟁이 한층 치열해질 전망이다.",
-          "src": "아이뉴스24",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/031/0001051618?sid=101",
-          "img": "https://image.inews24.com/v1/cf473ffd9d91d8.jpg"
-        },
-        {
-          "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
-          "desc": "삼성전자도 2024년 12월 ‘AI 구독클럽’을 시작해 TV와 냉장고, 세탁기, 청소기 등을 구독 대상으로 편입한 뒤 에어컨과 건조기, 식기세척기 등으로 품목과 케어서비스를 확대했다. 시야를 기존 생활가전...",
-          "src": "서울경제TV",
-          "date": "08/22",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608200117",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
-        },
-        {
-          "title": "하닉 40조 소각, 50조 더 푼다? “사팔 말라” 최태원의 장담",
-          "desc": "이틀 후 삼성전자 역시 110조원 규모의 주주환원 계획을 발표했지만, 세부 방법에 대해서는... kr/article/25437194 젠슨 황에 ‘LG세탁기’ 꺼냈다? 삼겹살 굽던 막내, 구광모 야심 https://www.joongang.co.kr...",
-          "src": "중앙일보",
+          "title": "[삼성 DX, 어디로 下] 다 잘하려 말라⋯ 결국 ‘선택과 집중’이 답",
+          "desc": "삼성전자의 완제품 포트폴리오는 모바일과 TV, 냉장고·세탁기 등 대형가전뿐 아니라 제습기·청소기... 우선이다”며 “삼성도 AI나 로봇 등 미래 산업을 겨냥한 투자로 과감한 포트폴리오 사업 단위의 구조조정이 필요한...",
+          "src": "브릿지경제",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546242?sid=101",
-          "img": ""
+          "url": "https://www.viva100.com/article/20260823500521",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/19/.cache/512/20260819501455.png?v=20260824074036"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기술브릿지] AI 시대, 다시 주목받는 기계설비의 가치",
-          "desc": "대표적 장치산업이자 노동집약적 산업인 조선업[사진 1]에서도 공장에너지관리시스템(FEMS)을 도입해 전력... 설계 검토, 유지관리 계획 수립, 고장 원인 분석, 기술문서 작성 등에서 AI를 적극 활용하는 기술자가 높은...",
-          "src": "kmecnews",
+          "title": "빠른 태세 전환, 지지율 하락에 부동산 세제 개편안 뜯어고치나: 슬로우...",
+          "desc": "“전략적 투자 플랫폼이자, 세수 변동성을 완화하는 재정 안정화 장치로 활용하겠다”는 계획이다. 늘어난... (주권) AI의 개념을 단순한 모델 보유에서 운용 역량의 문제로 확장해야 하는 시점”이라고 말했다. 기술 100...",
+          "src": "slownews",
           "date": "08/24",
-          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51372",
-          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51372_41447_2422.jpg"
+          "url": "https://slownews.kr/165343",
+          "img": "https://slownews.kr/wp-content/uploads/2026/08/GettyImages-a10648875-1.jpg"
         },
         {
-          "title": "대전 첫 사학 목원대, AI·융합교육 강화… 수시 99.3% 대폭 선발",
-          "desc": "영역에 AI를 접목하는 등 미래 교육 혁신에 속도를 내고 있다. 문화예술과 인문사회, 과학기술을 아우르는... 차세대 학습관리시스템(LMS)에 AI 튜터봇, 맞춤형 학습 추천, 학습 분석 기능 등을 도입했고 AI 면접과 외국인...",
-          "src": "서울신문",
+          "title": "한국정보공학, 폐쇄망 전용 생성형 AI 플랫폼 'HARO.Assistant 1.0' 출시",
+          "desc": "서비스 도입에 제약이 있었다. 한국정보공학은 이러한 시장의 수요를 반영해 폐쇄망 환경에서도 최신 AI 기술을 활용할 수 있도록 HARO.Assistant 1.0을 개발했다고 설명했다. 해당 플랫폼은 단순 질의응답형...",
+          "src": "한국경제",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/081/0003672756?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823233403_O2.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005323796?sid=101",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "“대학은 미래 산업의 심장… AI로 지역 운명 바꿀 청년 키운다”[월요...",
-          "desc": "첨단 기술의 열기가 묘하게 교차한다. 학령인구 감소와 수도권 집중이라는 ‘지방대 소멸’의 경고등이... 2029년까지 전 학과에 AI 교육과정을 도입해 학생들이 AI를 배우는 데서 그치지 않고 AI를 통해 자기 전공의 새로운...",
-          "src": "서울신문",
+          "title": "[AI핫이슈] '자체 모델' AI 앱 기업 확산...독파모 개편 어떻게?",
+          "desc": "인공지능 기술 개발에 활용할 수 있는 특례가 마련됐다. ㆍ개인정보보호법 개정안 통과...AI에 개인정보 활용 특례 도입 AI로 생성한 콘텐츠들이 인터넷 상에서 범람, 정보 생태계를 오염시키고 있다는 우려 속에...",
+          "src": "digitaltoday",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/081/0003672745?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823174930_O2.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694833",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694833_642703_2443.png"
         },
         {
-          "title": "\"N% 성과급·하청 교섭 요구에 산업계 위기…노봉법 개정만이 답\"",
-          "desc": "투자로 활용하지 못하고 노사간 배분 갈등과 파업으로 이어져 우리 산업의 경쟁력을 떨어뜨릴 뿐이다.”... “기업이 필요한 기술을 도입하지 못하면 결국 기업 자체가 어려워진다. AI나 로봇 도입에 따른 직무 변경이나...",
-          "src": "이데일리",
+          "title": "에이전틱 AI 시대, 고성능 AI의 새 자리 '데스크사이드' [테크리포트]",
+          "desc": "사용자가 작업을 지시하면 오케스트레이터가 성능과 비용 효율을 고려해 적절한 위치의 모델과 기술을... 에이전틱 AI를 도입해 활용할 수 있도록 구성된 솔루션이다. '데스사이드 에이전틱 AI'는 델의 '델 프로...",
+          "src": "조선일보",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/018/0006356685?sid=102",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082400014.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168640",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168640_450731_2043_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[Who Is ?] 이진안 앰코테크놀로지코리아 대표이사 사장",
+          "desc": "앰코코리아는 삼성전자·SK하이닉스의 후공정을 주로 맡는 국내 협력사라기보다 애플과 퀄컴 등 글로벌... △앰코테크놀로지코리아가 걸어온 길 1935년 자전거 및 부품 수입업체 '일만무역공사'가 설립됐다. 1945년...",
+          "src": "비즈니스포스트",
+          "date": "08/24",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445352",
+          "img": ""
+        },
+        {
+          "title": "[대장간] 멈춰 선 공장 너머, 한국 경제 신뢰가 흔들린다",
+          "desc": "맞춰 부품을 공급하는 1차 협력사와 2·3차 중소 협력업체로 확산된다. 완성차 업체에 대한 의존도가 높을수록... SK하이닉스가 영업이익의 일정 비율을 초과이익분배금 재원으로 삼는 체계를 마련한 이후 삼성전자 노조도...",
+          "src": "snmnews",
+          "date": "08/24",
+          "url": "http://www.snmnews.com/news/articleView.html?idxno=573632",
+          "img": "http://www.snmnews.com/image/logo/snslogo_20220808023605.png"
+        },
         {
           "title": "총성 울린 유리기판 경쟁…“HBM 수성도 패키징에 달려 [압축전환 대한...",
           "desc": "수요 앵커 기업 주도로 핵심 소재·부품·장비 기업을 키워 산업 생태계를 조성하는 사업도 추진 중인데 유리기판이 시범사업 후보로 거론된다. 삼성전자와 같은 최종 수요자가 여러 중소·중견 기업과 함께 유리기판...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/23",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=541843",
           "img": "https://cdn.joongangenews.com/news/photo/202608/541843_347804_3455.png"
-        },
-        {
-          "title": "“공장만 지으면 끝?”…800조 메가특구, 진짜 난관은 따로 있다",
-          "desc": "소재·부품·장비(소부장)와 협력업체들의 셈법도 복잡해지고 있다. 삼성전자·SK하이닉스 등 대기업의 대규모... SK하이닉스는 서남권 투자계획을 발표하면서 “앵커기업에게 소부장 협력사와의 적기 협업은 매우 중요한...",
-          "src": "economist",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/243/0000102025?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/08/18/ecn20260818000061.800x.0.jpg"
-        },
-        {
-          "title": "메모리사 소캠2 양산에 소부장 업계도 ‘꿈틀’[빛이 나는 비즈]",
-          "desc": "심텍(222800)은 삼성전자(005930)와 SK하이닉스(000660), 마이크론 테크놀로지 등 메모리 3사에 소캠용 모듈... 심텍 관계자는 “주요 메모리사의 1차 협력사로 개발 단계부터 참여하고 있다”며 “지난해 퀄 테스트를 마치고...",
-          "src": "서울경제",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
-      "url": "https://n.news.naver.com/mnews/article/031/0001051618?sid=101",
-      "img": "https://image.inews24.com/v1/cf473ffd9d91d8.jpg"
+      "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994514?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
     },
     {
-      "title": "[기획] “한꺼번에 몇백만원은 부담”…가전 소비도 월납 시대",
-      "url": "https://www.sentv.co.kr/article/view/sentv202608200117",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
+      "title": "삼성전자 DX 8000억 적자, 누구 책임?…동행노조 \"다음은 한남\"",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=67677",
+      "img": "https://cdn.newswhoplus.com/news/thumbnail/202608/67677_104656_227_v150.jpg"
     },
     {
-      "title": "[기술브릿지] AI 시대, 다시 주목받는 기계설비의 가치",
-      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51372",
-      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51372_41447_2422.jpg"
+      "title": "[삼성 DX, 어디로 下] 다 잘하려 말라⋯ 결국 ‘선택과 집중’이 답",
+      "url": "https://www.viva100.com/article/20260823500521",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/19/.cache/512/20260819501455.png?v=20260824074036"
     },
     {
-      "title": "대전 첫 사학 목원대, AI·융합교육 강화… 수시 99.3% 대폭 선발",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672756?sid=102",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823233403_O2.jpg"
+      "title": "빠른 태세 전환, 지지율 하락에 부동산 세제 개편안 뜯어고치나: 슬로우...",
+      "url": "https://slownews.kr/165343",
+      "img": "https://slownews.kr/wp-content/uploads/2026/08/GettyImages-a10648875-1.jpg"
     },
     {
-      "title": "“대학은 미래 산업의 심장… AI로 지역 운명 바꿀 청년 키운다”[월요...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672745?sid=102",
-      "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823174930_O2.jpg"
+      "title": "한국정보공학, 폐쇄망 전용 생성형 AI 플랫폼 'HARO.Assistant 1.0' 출시",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323796?sid=101",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "\"N% 성과급·하청 교섭 요구에 산업계 위기…노봉법 개정만이 답\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356685?sid=102",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082400014.jpg"
+      "title": "[AI핫이슈] '자체 모델' AI 앱 기업 확산...독파모 개편 어떻게?",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694833",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694833_642703_2443.png"
     }
   ]
 };
