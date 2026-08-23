@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 11:00",
+  "updatedAt": "2026.08.23 (일) 12:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "현대차 멈추고 삼성 반도체·포스코 철강도 흔들…산업계 ‘파업 비상’",
-          "desc": "삼성전자에서는 스마트폰·가전 등 완제품 사업을 담당하는 DX(디바이스경험) 부문 직원 2000여명이 반도체 부문과의 보상 격차에 반발해 거리로 나왔다. 포스코 노동조합도 합법적으로 파업할 수 있는 쟁의권을 확보한...",
-          "src": "ekn",
+          "title": "거제시 특별재난지역 선포…피해복구·시민 지원 속도",
+          "desc": "삼성전자와 LG전자는 침수 가전제품 무상수리를 실시하고 있다. 삼성전자서비스(1588-3366)와 LG전자서비스(1544-7777) 고객센터를 통해 방문 서비스를 신청하면 침수 가전에 한해 점검 및 수리 비용이 무상으로 지원된다....",
+          "src": "newsgn",
           "date": "08/23",
-          "url": "https://www.ekn.kr/web/view.php?key=20260823026474983",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.6f9e84adf13649fab4c7152b603c0837_R.png"
+          "url": "https://www.newsgn.com/news/articleView.html?idxno=569076",
+          "img": "https://cdn.newsgn.com/news/thumbnail/202608/569076_376652_5821_v150.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "삼성전자, 국제 디자인상 57개 수상…접근성·AI·지속가능성 주목",
-          "desc": "상으로, 삼성전자의 '가전 접근성 디자인'이 선정됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자의 신체적 특성을 고려해 세탁기와 냉장고 등 제품을 보다 쉽게 사용할 수 있도록 한 것이...",
-          "src": "thepublic",
+          "title": "[주간 유통 나침반] 재개장 홈플러스 '삼중고'…유통 ·식품사 경남 수...",
+          "desc": "삼성전자서비스와 LG전자서비스는 거제시 둔덕면사무소와 고현시장 인근에 현장부스를 설치하고 침수된 세탁기·냉장고·에어컨·TV 등의 세척·점검·수리를 무상으로 지원하고 있다. 금융권에서는 NH농협은행...",
+          "src": "joongangenews",
           "date": "08/23",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315779",
-          "img": "https://cdn.thepublic.kr/news/photo/202608/315779_319068_618.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541918",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/541918_347882_5555.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "전남광주시, AI 기술 개발해 정책 수립",
-          "desc": "전남광주통합특별시는 인공지능(AI) 기술을 직접 개발, 행정 현장에 도입하고 있다고 23일 밝혔다. 시는 ‘AI... 기초자료로 활용되는 등 성과도 있다. 올해는 전남광주 27개 시군구 전역의 소득·대출·소비 데이터를...",
-          "src": "헤럴드경제",
+          "title": "대구공업대, 국민체력100 파트너스·튼튼머니 적립시설 지정",
+          "desc": "이를 위해 체력측정과 운동처방, 건강관리 프로그램을 통합 운영할 수 있도록 관련 인프라를 고도화하고, AI·디지털 기술을 활용한 체력 및 운동 분석 프로그램도 단계적으로 도입할 계획이다.인증센터로 지정되면 대학이...",
+          "src": "kbsm",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/016/0002687129?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-p.v1.20260823.6d29fb8fff3545adbdd0089d74208077_T1.jpg"
+          "url": "https://www.kbsm.net/news/view.php?idx=531223",
+          "img": "https://www.kbsm.net/data/newsThumb/1787454407ADD_thumb780.png"
         },
         {
-          "title": "\"트럼프, 애플 중국산 메모리 허용\" 보도…근거는 웨이보 루머",
-          "desc": "거래를 활용할 수 있다는 내용이다. WCCF테크는 해당 보도를 자체적으로 '루머'로 분류하고 실현 가능성을 60%로 평가했다. 그러나 60%는 정부 관계자 확인이나 공식 자료에 따른 확률이 아니라 매체가 출처와 정황, 기술...",
-          "src": "4th",
+          "title": "[REAL ESTATE] \"국산 공간정보 패권 지키고, 글로벌 시장 전진\"",
+          "desc": "수행하는 기술을 말한다. 김성호 이지스 의장을 만나 이지스가 제시하는 Geo Physical AI의 본질과 사업 전략... 여기에 AI 도입으로 개발 환경이 진화하면서, 과거 3~6개월씩 걸리던 PoC(개념검증)나 파일럿 개발이 이제는...",
+          "src": "econovill",
           "date": "08/23",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2116735",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116735_214466_5733_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=748273",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/748273_722945_264_v150.jpg"
         },
         {
-          "title": "에너지 소비서 생산도시로…창원, ‘청정에너지 수도’ 대전환",
-          "desc": "생산하고 활용하는 ‘청정에너지 수도’로의 전환에 속도를 내고 있다. 글로벌 산업계의 탄소중립과 RE100... 스마트 기술을 도입할 계획이다. 입주기업에는 에너지 진단과 컨설팅, 고효율 설비 교체를 지원하며, 발전...",
-          "src": "segye",
+          "title": "화장품 개발도 AI가⋯ AX 서두르는 화장품 ODM 업계",
+          "desc": "사람이 반복적으로 수행하던 업무는 AI와 자동화 기술로 대체하고, 축적된 데이터를 활용해 제품 개발의... AI 솔루션 도입 이후 4회 이내 조색이 완료되는 비율은 기존 52%에서 78%로 높아졌다. 향료 개발에도 AI를...",
+          "src": "브릿지경제",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/022/0004152888?sid=102",
-          "img": "https://www.segye.com/content/image/2026/08/23/20260823503827.jpg"
+          "url": "https://www.viva100.com/article/20260821500793",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/21/.cache/512/20260821500734.jpg?v=20260823121706"
         },
         {
-          "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조...",
-          "desc": "AI 인프라’ 모델을 구축했다. 이를 통해 기존 IDC의 전력·냉각 한계와 망분리 규제로 AI 도입에... 엘리스그룹은 IPO 공모자금을 활용해 AI 인프라와 클라우드 등 주요 사업의 기술력을 높이겠다는 방침이다....",
-          "src": "조선일보",
+          "title": "[르포] \"AI로 K-방재·안전기술 선도\"…프라임이엔씨 가보니",
+          "desc": "프라임이엔씨는 2010년 개발에 착수한 스마트 소방안전관리 시스템을 시작으로 디지털 기술 도입에... 프라임이엔씨는 AI를 활용한 안전관리 영역을 한 단계 더 확장할 계획이다. 발전소 등에서 활용하는 고장 예측...",
+          "src": "아주경제",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/366/0001187772?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/HFQTQMRUMVRDANTGME4TMOBWMQ.jpg?auth=1ef25632503b57db05967eeb7f21f16893edd6d9deaf638935c9616ffb7b58c5&width=1200&height=630&smart=true"
+          "url": "https://www.ajunews.com/view/20260820161501324",
+          "img": "https://image.ajunews.com/content/image/2026/08/23/20260823100515366682.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "현대차 멈추고 삼성 반도체·포스코 철강도 흔들…산업계 ‘파업 비상’",
-      "url": "https://www.ekn.kr/web/view.php?key=20260823026474983",
-      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.6f9e84adf13649fab4c7152b603c0837_R.png"
+      "title": "거제시 특별재난지역 선포…피해복구·시민 지원 속도",
+      "url": "https://www.newsgn.com/news/articleView.html?idxno=569076",
+      "img": "https://cdn.newsgn.com/news/thumbnail/202608/569076_376652_5821_v150.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "삼성전자, 국제 디자인상 57개 수상…접근성·AI·지속가능성 주목",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315779",
-      "img": "https://cdn.thepublic.kr/news/photo/202608/315779_319068_618.jpg"
+      "title": "[주간 유통 나침반] 재개장 홈플러스 '삼중고'…유통 ·식품사 경남 수...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541918",
+      "img": "https://cdn.joongangenews.com/news/photo/202608/541918_347882_5555.png"
     },
     {
-      "title": "전남광주시, AI 기술 개발해 정책 수립",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687129?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-p.v1.20260823.6d29fb8fff3545adbdd0089d74208077_T1.jpg"
+      "title": "대구공업대, 국민체력100 파트너스·튼튼머니 적립시설 지정",
+      "url": "https://www.kbsm.net/news/view.php?idx=531223",
+      "img": "https://www.kbsm.net/data/newsThumb/1787454407ADD_thumb780.png"
     },
     {
-      "title": "\"트럼프, 애플 중국산 메모리 허용\" 보도…근거는 웨이보 루머",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2116735",
-      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116735_214466_5733_v150.jpg"
+      "title": "[REAL ESTATE] \"국산 공간정보 패권 지키고, 글로벌 시장 전진\"",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=748273",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/748273_722945_264_v150.jpg"
     }
   ]
 };
