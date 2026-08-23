@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 23:42",
+  "updatedAt": "2026.08.24 (월) 01:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,8 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'상장 도전' 글로벌테크놀러지, 실적 관건은 '삼성 미니 LED TV 채택'",
-          "desc": "글로벌테크놀러지는 \"컨슈머 고객사 A(삼성전자) VD(TV)사업부용 디스크리트 부문 내 점유율이 2025년 37%에서 2026년 40%로 확대될 것\"이라며 \"컨슈머 고객사 A(삼성전자) DA(생활가전) 모든 응용처에 공용으로...",
+          "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택...",
+          "desc": "글로벌테크놀로지는 \"컨슈머 고객사 A(삼성전자) VD(TV)사업부용 디스크리트 부문 내 점유율이 2025년 37%에서 2026년 40%로 확대될 것\"이라며 \"컨슈머 고객사 A(삼성전자) DA(생활가전) 모든 응용처에 공용으로...",
           "src": "ZDNet코리아",
           "date": "08/23",
           "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기고]사관학교 통합, ‘규모의 경제’는 어디까지 가능한가?…“같은 ...",
-          "desc": "서로 다른 제품이나 서비스를 함께 제공하면서 시설·인력·기술 같은 공통자원을 나눠 써 총비용을 낮추는... AI(인공지능)·사이버 같은 고가 시설과 정보체계를 함께 사용하는 방안도 비교해야 한다. 이러한 공동 활용을...",
-          "src": "munhwa",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/021/0002813191?sid=100",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/23/news-p.v1.20260823.93b32a4da02248729e1f50d5556a3da7_R.jpg"
+          "title": "[MZ 톡톡] AX 시대의 착각, AI를 '쓰다'와 '일하다'",
+          "desc": "글로벌 인사 컨설팅 기업 로버트 하프에 따르면, AI 도입을 이유로 직무를 없앤 미국 채용 관리자의 32%가 같은 자리에 사람을 다시 채용했다. 인력을 줄였다가 품질 저하와 숙련자 부족을 겪으며 기술 만능론의 한계를...",
+          "src": "한국경제",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/015/0005323769?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "\"에너지 생산도시로\"…창원시 '청정에너지 수도' 꿈꾼다",
-          "desc": "산업단지 내 10MW 이상의 태양광 설비를 구축하고 통합 에너지관리시스템(EMS)을 도입해 발전량과 전력사용량을 실시간 관리할 예정이다. 가상발전소(VPP)와 수요반응(DR) 등 스마트 에너지 기술을 활용해 에너지 운영...",
-          "src": "nocutnews",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/079/0004181338?sid=102",
-          "img": ""
+          "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (9)] 이재명 정부, ‘햇...",
+          "desc": "돕는 ‘AI 활용 ESS 구축지원 사업’과, 공유형 ESS를 활용한 주민참여 이익공유 사업인 ‘공유형 ESS 사업’... 일정 기술요건을 갖춘 발전소가 전력거래소의 급전지시에 따라 출력을 조정하고 대가를 받는...",
+          "src": "news2day",
+          "date": "08/24",
+          "url": "https://www.news2day.co.kr/article/20260823500027",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/23/.cache/512/20260823500028.jpg"
         },
         {
-          "title": "[최석근] AI시대, K패션의 마지막 9부 능선 (하)",
-          "desc": "AI, 데이터, 앱, 팝업, 협업과 같은 새로운 수단도 남들이 한다고 도입하지 않는다. 그 기술과 활동이 브랜드... 능력을 활용하는 운영 철학이다. 디지털은 고객의 불편을 줄이고 브랜드의 세계를 더 정확하고 넓게 연결한다....",
-          "src": "apparelnews",
-          "date": "08/23",
-          "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227091",
-          "img": ""
+          "title": "[김성탁의 시선] 본인들 자녀도 독서만 시킬 건가",
+          "desc": "문항 도입을 추진 중이라는 소식을 접하고 떠오른 말이다. 경남의 한 고등학교 국어 교사가 학생들에게... 상대평가인 수능에서 서·논술형 채점도 AI를 활용한다는데, 과목별로 배경 지식을 알려주고 서술형 답안 쓰는...",
+          "src": "중앙일보",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546210?sid=110",
+          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
         },
         {
-          "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
-          "desc": "이번 협약은 첨단 AI 의료기술을 도입해 디지털 헬스케어 기반의 진료 역량을 대폭 강화하고, 뇌건강 관리... 헬스케어 기술을 적극 활용해 도민이 믿고 찾을 수 있는 지역거점 공공병원이 되도록 최선을 다하겠다\"고...",
-          "src": "cctimes",
-          "date": "08/23",
-          "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
-          "img": "http://www.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
+          "title": "나채범 한화손보 대표, 사이버·기후변화 대응 잰걸음 [손보사 일반보험...",
+          "desc": "글로벌 재보험사의 자연재해 분석 프로그램을 도입해 태풍·홍수·화재 등 총 15개 유형의 자연재해 위험을 정량적으로 분석하고 사업장별 위험등급 산정에 활용하고 있다. 한화손보는 글로벌 시장을 일반보험의 또 다른...",
+          "src": "fntimes",
+          "date": "08/24",
+          "url": "https://www.fntimes.com/html/view.php?ud=202608220007126857dd55077bc2_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260822000806072710dd55077bc212411124362.jpg&nmt=18"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/23",
           "url": "https://n.news.naver.com/mnews/article/011/0004654310?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/23/ams.001.photo.202607221817057435923059_R.jpg"
+          "img": ""
         },
         {
           "title": "[주간 산업 나침반] 車·철강 번진 파업 전운...삼성전자·SK하이닉스, 최...",
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
+          "img": ""
         }
       ]
     },
@@ -177,7 +177,7 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'상장 도전' 글로벌테크놀러지, 실적 관건은 '삼성 미니 LED TV 채택'",
+      "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택...",
       "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
       "img": "https://image.zdnet.co.kr/2026/08/23/f649486cf97bf208917f89b29a5799cc.png"
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
-      "title": "[기고]사관학교 통합, ‘규모의 경제’는 어디까지 가능한가?…“같은 ...",
-      "url": "https://n.news.naver.com/mnews/article/021/0002813191?sid=100",
-      "img": "https://wimg.munhwa.com/news/cms/2026/08/23/news-p.v1.20260823.93b32a4da02248729e1f50d5556a3da7_R.jpg"
+      "title": "[MZ 톡톡] AX 시대의 착각, AI를 '쓰다'와 '일하다'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323769?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "청주의료원·㈜SHMD, AI 기반 뇌질환 예방체계 구축 업무협약",
-      "url": "http://www.cctimes.kr/news/articleView.html?idxno=923035",
-      "img": "http://www.cctimes.kr/news/thumbnail/202608/923035_407758_2247_v150.jpg"
+      "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (9)] 이재명 정부, ‘햇...",
+      "url": "https://www.news2day.co.kr/article/20260823500027",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/23/.cache/512/20260823500028.jpg"
     }
   ]
 };
