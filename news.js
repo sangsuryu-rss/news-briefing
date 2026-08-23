@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 12:16",
+  "updatedAt": "2026.08.23 (일) 13:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "거제시 특별재난지역 선포…피해복구·시민 지원 속도",
-          "desc": "삼성전자와 LG전자는 침수 가전제품 무상수리를 실시하고 있다. 삼성전자서비스(1588-3366)와 LG전자서비스(1544-7777) 고객센터를 통해 방문 서비스를 신청하면 침수 가전에 한해 점검 및 수리 비용이 무상으로 지원된다....",
-          "src": "newsgn",
+          "title": "엔비디아 서버값 인상 ‘변수’…네이버·카카오 AI 투자 셈법 복잡해지...",
+          "desc": "엔비디아의 서버 가격 인상으로 삼성전자와 SK하이닉스는 메모리 가격 상승과 협상력 강화의 수혜를 입을 것으로 전망된다. 반면 스마트폰·PC·가전 부문 사업의 경우 메모리 조달비 상승으로 수익성 압박 가능성이...",
+          "src": "이투데이",
           "date": "08/23",
-          "url": "https://www.newsgn.com/news/articleView.html?idxno=569076",
-          "img": "https://cdn.newsgn.com/news/thumbnail/202608/569076_376652_5821_v150.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2617111",
+          "img": "https://img.etoday.co.kr/pto_db/2026/03/20260330161413_2315011_1200_1200.png"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "[주간 유통 나침반] 재개장 홈플러스 '삼중고'…유통 ·식품사 경남 수...",
-          "desc": "삼성전자서비스와 LG전자서비스는 거제시 둔덕면사무소와 고현시장 인근에 현장부스를 설치하고 침수된 세탁기·냉장고·에어컨·TV 등의 세척·점검·수리를 무상으로 지원하고 있다. 금융권에서는 NH농협은행...",
-          "src": "joongangenews",
+          "title": "기업들 경남 집중호우 피해 지원 잇따라",
+          "desc": "삼성전자서비스는 집중 호우로 피해를 본 경상남도 거제시 일대에 ‘수해 복구 특별 서비스팀’을 파견했다. 거제 둔덕면사무소 인근에 이동형 서비스센터를 설치하고 침수된 에어컨, 냉장고, 세탁기 등 가전제품...",
+          "src": "kookje",
           "date": "08/23",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541918",
-          "img": "https://cdn.joongangenews.com/news/photo/202608/541918_347882_5555.png"
+          "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?23"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대구공업대, 국민체력100 파트너스·튼튼머니 적립시설 지정",
-          "desc": "이를 위해 체력측정과 운동처방, 건강관리 프로그램을 통합 운영할 수 있도록 관련 인프라를 고도화하고, AI·디지털 기술을 활용한 체력 및 운동 분석 프로그램도 단계적으로 도입할 계획이다.인증센터로 지정되면 대학이...",
-          "src": "kbsm",
+          "title": "최유철 의성군수 \"생산량 1위 넘어 세계가 찾는 'K-마늘' 만들 것\"",
+          "desc": "재배기술을 꼽았다. 큰 일교차와 마늘 재배에 적합한 토양에 농업인들의 경험과 땀이 더해져 대한민국을... 인공지능(AI)과 데이터를 활용한 생육관리, 병해충 예찰, 관수 시스템도 단계적으로 도입한다. 노동력을 줄이는...",
+          "src": "imaeil",
           "date": "08/23",
-          "url": "https://www.kbsm.net/news/view.php?idx=531223",
-          "img": "https://www.kbsm.net/data/newsThumb/1787454407ADD_thumb780.png"
+          "url": "https://n.news.naver.com/mnews/article/088/0001024710?sid=102",
+          "img": "https://www.imaeil.com/photos/2026/08/20/2026082019530589552_l.jpg"
         },
         {
-          "title": "[REAL ESTATE] \"국산 공간정보 패권 지키고, 글로벌 시장 전진\"",
-          "desc": "수행하는 기술을 말한다. 김성호 이지스 의장을 만나 이지스가 제시하는 Geo Physical AI의 본질과 사업 전략... 여기에 AI 도입으로 개발 환경이 진화하면서, 과거 3~6개월씩 걸리던 PoC(개념검증)나 파일럿 개발이 이제는...",
-          "src": "econovill",
+          "title": "차에 '이것' 눌려있는지 확인하세요…안 그러면 내가 다 뒤집어씁니다",
+          "desc": "이에 한국도로공사는 최근 최신 기술을 도입해 눈에 보이지 않는 배수 흐름을 진단하고 도로 파손을 사전에... 도로 파손 역시 AI를 활용한 예방 점검 체계가 가동되고 있다. 한국도로공사는 ‘AI 도로파손 자동검사...",
+          "src": "wikitree",
           "date": "08/23",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=748273",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/748273_722945_264_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1153701",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608201556236295.jpg"
         },
         {
-          "title": "화장품 개발도 AI가⋯ AX 서두르는 화장품 ODM 업계",
-          "desc": "사람이 반복적으로 수행하던 업무는 AI와 자동화 기술로 대체하고, 축적된 데이터를 활용해 제품 개발의... AI 솔루션 도입 이후 4회 이내 조색이 완료되는 비율은 기존 52%에서 78%로 높아졌다. 향료 개발에도 AI를...",
-          "src": "브릿지경제",
+          "title": "[패트롤]경주시-칠곡군-달서구-수성구-영남이공대-경북문화관광공사",
+          "desc": "특히 U-12 부문에는 올해 그룹별 토너먼트와 시상제도를 새롭게 도입한다. 선수들이 비슷한 수준의 팀들과... 지역이 가진 제조업 기반과 농업을 미래 기술산업과 접목해 새로운 성장동력을 확보하고 이를 양질의 민간...",
+          "src": "ekn",
           "date": "08/23",
-          "url": "https://www.viva100.com/article/20260821500793",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/21/.cache/512/20260821500734.jpg?v=20260823121706"
+          "url": "https://www.ekn.kr/web/view.php?key=20260823025055528",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260823.d8a7fb4e30d945d8bc5407027b46d94f_R.jpg"
         },
         {
-          "title": "[르포] \"AI로 K-방재·안전기술 선도\"…프라임이엔씨 가보니",
-          "desc": "프라임이엔씨는 2010년 개발에 착수한 스마트 소방안전관리 시스템을 시작으로 디지털 기술 도입에... 프라임이엔씨는 AI를 활용한 안전관리 영역을 한 단계 더 확장할 계획이다. 발전소 등에서 활용하는 고장 예측...",
-          "src": "아주경제",
+          "title": "지미션, DGMC SL글로벌과 3자 업무협약…AX 전환 지원",
+          "desc": "AI 전환 성과를 만들어낼 수 있도록 기술과 경험을 적극 활용하겠다\"고 말했다. 최우각 DGMC대구경북기계협동조합 이사장은 \"AX전문기관인 지미션, 마케팅전문기관인 SL글로벌과 공조해 제조업 현장에 맞는 AX 도입...",
+          "src": "ferrotimes",
           "date": "08/23",
-          "url": "https://www.ajunews.com/view/20260820161501324",
-          "img": "https://image.ajunews.com/content/image/2026/08/23/20260823100515366682.png"
+          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49915",
+          "img": "http://www.ferrotimes.com/news/thumbnail/202608/49915_55490_5531_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "거제시 특별재난지역 선포…피해복구·시민 지원 속도",
-      "url": "https://www.newsgn.com/news/articleView.html?idxno=569076",
-      "img": "https://cdn.newsgn.com/news/thumbnail/202608/569076_376652_5821_v150.jpg"
+      "title": "엔비디아 서버값 인상 ‘변수’…네이버·카카오 AI 투자 셈법 복잡해지...",
+      "url": "https://www.etoday.co.kr/news/view/2617111",
+      "img": "https://img.etoday.co.kr/pto_db/2026/03/20260330161413_2315011_1200_1200.png"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "[주간 유통 나침반] 재개장 홈플러스 '삼중고'…유통 ·식품사 경남 수...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541918",
-      "img": "https://cdn.joongangenews.com/news/photo/202608/541918_347882_5555.png"
+      "title": "기업들 경남 집중호우 피해 지원 잇따라",
+      "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?23"
     },
     {
-      "title": "대구공업대, 국민체력100 파트너스·튼튼머니 적립시설 지정",
-      "url": "https://www.kbsm.net/news/view.php?idx=531223",
-      "img": "https://www.kbsm.net/data/newsThumb/1787454407ADD_thumb780.png"
+      "title": "최유철 의성군수 \"생산량 1위 넘어 세계가 찾는 'K-마늘' 만들 것\"",
+      "url": "https://n.news.naver.com/mnews/article/088/0001024710?sid=102",
+      "img": "https://www.imaeil.com/photos/2026/08/20/2026082019530589552_l.jpg"
     },
     {
-      "title": "[REAL ESTATE] \"국산 공간정보 패권 지키고, 글로벌 시장 전진\"",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748273",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/748273_722945_264_v150.jpg"
+      "title": "차에 '이것' 눌려있는지 확인하세요…안 그러면 내가 다 뒤집어씁니다",
+      "url": "https://www.wikitree.co.kr/articles/1153701",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608201556236295.jpg"
     }
   ]
 };
