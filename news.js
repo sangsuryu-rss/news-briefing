@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 07:40",
+  "updatedAt": "2026.08.23 (일) 11:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "인탑스, 휴대폰 케이스 넘어 로봇 조립까지…사업 체질 바꾼다",
-          "desc": "인탑스는 IT디바이스와 가전제품 어셈블리, 자동차부품, 금형 등을 주요 사업으로 영위하고 있다. 오랜 기간 삼성전자의 휴대폰 케이스를 생산하면서 축적한 금형과 사출, 조립 기술이 회사의 핵심 경쟁력이다. 이 같은...",
-          "src": "핀포인트뉴스",
+          "title": "현대차 멈추고 삼성 반도체·포스코 철강도 흔들…산업계 ‘파업 비상’",
+          "desc": "삼성전자에서는 스마트폰·가전 등 완제품 사업을 담당하는 DX(디바이스경험) 부문 직원 2000여명이 반도체 부문과의 보상 격차에 반발해 거리로 나왔다. 포스코 노동조합도 합법적으로 파업할 수 있는 쟁의권을 확보한...",
+          "src": "ekn",
           "date": "08/23",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479644",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479644_466399_2836_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260823026474983",
+          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.6f9e84adf13649fab4c7152b603c0837_R.png"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
-          "desc": "이선곤 삼성전자 재해복구 특별서비스팀 둔덕면 서비스 포스트장은 \"지난 19일부터 지원에 나섰는데... 이어 \"냉장고나 세탁기처럼 옮기기 힘든 가전제품도 많이 침수됐다\"며 \"집마다 찾아다니면서 수리가 가능한지 살피며...",
-          "src": "뉴스1",
-          "date": "08/22",
-          "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
+          "title": "삼성전자, 국제 디자인상 57개 수상…접근성·AI·지속가능성 주목",
+          "desc": "상으로, 삼성전자의 '가전 접근성 디자인'이 선정됐다. 가전 접근성 디자인은 시각·청각·움직임·인지 등 사용자의 신체적 특성을 고려해 세탁기와 냉장고 등 제품을 보다 쉽게 사용할 수 있도록 한 것이...",
+          "src": "thepublic",
+          "date": "08/23",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=315779",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/315779_319068_618.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI·AR로 당구 진입장벽 낮춘다\"… 아이티센클로잇·큐스코가 그리는 스...",
-          "desc": "이밖에 AI 분석 기술은 경기 중계에도 활용할 예정이다. 경기 전 예상 공의 경로를 화면에 보여주거나 경기... 향후 AI·AR 기술을 적용하고 실제 직영점에 도입할 서비스와 매장 구성도 이곳에서 검증한다. 다만 센큐...",
+          "title": "전남광주시, AI 기술 개발해 정책 수립",
+          "desc": "전남광주통합특별시는 인공지능(AI) 기술을 직접 개발, 행정 현장에 도입하고 있다고 23일 밝혔다. 시는 ‘AI... 기초자료로 활용되는 등 성과도 있다. 올해는 전남광주 27개 시군구 전역의 소득·대출·소비 데이터를...",
+          "src": "헤럴드경제",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/016/0002687129?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-p.v1.20260823.6d29fb8fff3545adbdd0089d74208077_T1.jpg"
+        },
+        {
+          "title": "\"트럼프, 애플 중국산 메모리 허용\" 보도…근거는 웨이보 루머",
+          "desc": "거래를 활용할 수 있다는 내용이다. WCCF테크는 해당 보도를 자체적으로 '루머'로 분류하고 실현 가능성을 60%로 평가했다. 그러나 60%는 정부 관계자 확인이나 공식 자료에 따른 확률이 아니라 매체가 출처와 정황, 기술...",
+          "src": "4th",
+          "date": "08/23",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2116735",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2116735_214466_5733_v150.jpg"
+        },
+        {
+          "title": "에너지 소비서 생산도시로…창원, ‘청정에너지 수도’ 대전환",
+          "desc": "생산하고 활용하는 ‘청정에너지 수도’로의 전환에 속도를 내고 있다. 글로벌 산업계의 탄소중립과 RE100... 스마트 기술을 도입할 계획이다. 입주기업에는 에너지 진단과 컨설팅, 고효율 설비 교체를 지원하며, 발전...",
+          "src": "segye",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/022/0004152888?sid=102",
+          "img": "https://www.segye.com/content/image/2026/08/23/20260823503827.jpg"
+        },
+        {
+          "title": "AI 인프라 기업 엘리스그룹, 코스닥 상장 추진… IPO 통해 약 2000억원 조...",
+          "desc": "AI 인프라’ 모델을 구축했다. 이를 통해 기존 IDC의 전력·냉각 한계와 망분리 규제로 AI 도입에... 엘리스그룹은 IPO 공모자금을 활용해 AI 인프라와 클라우드 등 주요 사업의 기술력을 높이겠다는 방침이다....",
           "src": "조선일보",
           "date": "08/23",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168635",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168635_450727_4359_v150.jpg"
-        },
-        {
-          "title": "카카오가 ‘지방 청소년’에 꽂힌 이유…“IT 생태계는 결국 인재”",
-          "desc": "올 초 4대 과학기술원과 지역 인공지능(AI) 기업 육성 추진 기구를 출범한 데 이어, 비수도권 청소년의 AI... 과제를 도입해 미리부터 소프트웨어 개발에 대한 이해를 높여놓고, 캠프 기간에는 프로젝트의 한 사이클을...",
-          "src": "서울경제",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/011/0004654173?sid=105",
-          "img": ""
-        },
-        {
-          "title": "'AI 흔적'에 새로운 논쟁, '단순 도움'만 받아도 'AI 창작물' 취급 : 텍스...",
-          "desc": "묻다 AI의 흔적을 찾아내는 기술과 이를 피하려는 움직임도 나타나고 있다. 미국 경제매체 비즈니스 인사이더는 지난 19일 앤트로픽의 워터마크 도입 이후 개발자들이 텍스트를 다시 작성하거나 워터마크 패턴을...",
-          "src": "huffingtonpost",
-          "date": "08/23",
-          "url": "https://www.huffingtonpost.kr/article/259742",
-          "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608217927.png?v=259742"
-        },
-        {
-          "title": "'800조＋α' 슈퍼예산 곧 발표…반도체發 세수 호조 타고 투자 늘린다",
-          "desc": "정부는 늘어난 세수를 일시적 지출에 소진하기보다 미래 성장동력 확보에 활용한다는 방침이다. 23일... 박홍근 기획예산처 장관은 \"AI가 빠르게 확산될 것으로 전망되는 향후 2~3년이 글로벌 기술패권 전쟁의 승자를...",
-          "src": "뉴스1",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/421/0009127211?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/11/8050447/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001187772?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/HFQTQMRUMVRDANTGME4TMOBWMQ.jpg?auth=1ef25632503b57db05967eeb7f21f16893edd6d9deaf638935c9616ffb7b58c5&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -101,12 +101,28 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[주간 산업 나침반] 車·철강 번진 파업 전운...삼성전자·SK하이닉스, 최...",
+          "desc": "삼성전자도 올해 90조∼110조원을 주주에게 환원하기로 하면서 양사의 환원 규모는 최대 150조원에 달할... 현대차그룹 양대 완성차사의 생산 중단이 잇따르면서 하반기 판매 목표와 부품 협력사의 가동에도 부담이...",
+          "src": "joongangenews",
+          "date": "08/23",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=541843",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/541843_347804_3455.png"
+        },
+        {
+          "title": "“공장만 지으면 끝?”…800조 메가특구, 진짜 난관은 따로 있다",
+          "desc": "소재·부품·장비(소부장)와 협력업체들의 셈법도 복잡해지고 있다. 삼성전자·SK하이닉스 등 대기업의 대규모... SK하이닉스는 서남권 투자계획을 발표하면서 “앵커기업에게 소부장 협력사와의 적기 협업은 매우 중요한...",
+          "src": "economist",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/243/0000102025?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/18/ecn20260818000061.800x.0.jpg"
+        },
+        {
           "title": "메모리사 소캠2 양산에 소부장 업계도 ‘꿈틀’[빛이 나는 비즈]",
           "desc": "심텍(222800)은 삼성전자(005930)와 SK하이닉스(000660), 마이크론 테크놀로지 등 메모리 3사에 소캠용 모듈... 심텍 관계자는 “주요 메모리사의 1차 협력사로 개발 단계부터 참여하고 있다”며 “지난해 퀄 테스트를 마치고...",
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
         },
         {
           "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "https://www.asiatime.co.kr/article/20260821500353",
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/21/.cache/512/20260821500354.jpg"
-        },
-        {
-          "title": "삼성, 충청권 140조 중 67조는 삼성디스플레이 \"1순위는 폴더블 OLED\"",
-          "desc": "삼성전자 역시 폴드8 생산량 확대를 위해 협력사에 추가 부품 발주에 나선 것으로 알려졌다. 삼성디스플레이로서는 고객사와 제품군이 동시에 확대될 가능성에 대비해 미리 생산능력을 확보할 필요성이 커진 셈이다....",
-          "src": "파이낸셜뉴스",
-          "date": "08/21",
-          "url": "https://n.news.naver.com/mnews/article/014/0005564645?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2025/11/25/202511251015431948_l.jpg"
-        },
-        {
-          "title": "노조 판 깔아준 노란봉투법…산업계 도미노 파업 부른다",
-          "desc": "완성차 생산 라인이 멈춰 서며 수만 대 규모의 생산 차질이 발생하고 부품 협력사의 연쇄 경영난 우려도 커지고 있다. 삼성전자 역시 노사 갈등이 격화되는 양상이다. 삼성전자 DX 노조는 성과급(OPI·TAI) 산정 공식의...",
-          "src": "mediapen",
-          "date": "08/21",
-          "url": "https://www.mediapen.com/news/view/1117944",
-          "img": "https://image.mediapen.com/news/202608/news_1117944_1787277011_m.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "인탑스, 휴대폰 케이스 넘어 로봇 조립까지…사업 체질 바꾼다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479644",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/479644_466399_2836_v150.jpg"
+      "title": "현대차 멈추고 삼성 반도체·포스코 철강도 흔들…산업계 ‘파업 비상’",
+      "url": "https://www.ekn.kr/web/view.php?key=20260823026474983",
+      "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260821.6f9e84adf13649fab4c7152b603c0837_R.png"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 \"냄새는 언제 빠질지\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009126969?sid=102",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067414/high.jpg"
+      "title": "삼성전자, 국제 디자인상 57개 수상…접근성·AI·지속가능성 주목",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315779",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/315779_319068_618.jpg"
     },
     {
-      "title": "\"AI·AR로 당구 진입장벽 낮춘다\"… 아이티센클로잇·큐스코가 그리는 스...",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168635",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168635_450727_4359_v150.jpg"
+      "title": "전남광주시, AI 기술 개발해 정책 수립",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687129?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-p.v1.20260823.6d29fb8fff3545adbdd0089d74208077_T1.jpg"
     },
     {
-      "title": "'AI 흔적'에 새로운 논쟁, '단순 도움'만 받아도 'AI 창작물' 취급 : 텍스...",
-      "url": "https://www.huffingtonpost.kr/article/259742",
-      "img": "https://cdn.huffingtonpost.kr/news/photo/202608/202608217927.png?v=259742"
+      "title": "\"트럼프, 애플 중국산 메모리 허용\" 보도…근거는 웨이보 루머",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116735",
+      "img": "https://cdn.4th.kr/news/thumbnail/202608/2116735_214466_5733_v150.jpg"
     }
   ]
 };
