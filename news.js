@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 01:44",
+  "updatedAt": "2026.08.24 (월) 03:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "경북도, 식품 한류 앞장선다… 광역단체 첫 전담 ‘국’ 가동",
+          "desc": "중심으로 AI 자율제조와 로봇 자동화를 도입해 품질을 표준화하고 국내 생산 경쟁력을 넘어 해외 식품안전... 경북의 우수한 농산물과 식문화에 첨단기술과 한류를 접목해 세계적인 K푸드 대표기업을 경북에서...",
+          "src": "kmib",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868506?sid=102",
+          "img": "https://image.kmib.co.kr/online_image/2026/0824/01100201.20260823501568.jpg"
+        },
+        {
+          "title": "[Oh!쎈 초점] 컴투스 신작 ‘제우스: 오만의 신’, 경쟁형 MMORPG의 틀 보...",
+          "desc": "기술적 몰입감과 올림포스 세계관의 결합 ‘제우스: 오만의 신’은 올림포스 신들이 티탄을 봉인한 이후의... 복제한 AI 분신 개체인 ‘페르소나’ 시스템이 도입됐다. 상대방이 로그아웃 상태이더라도 원하는 시간에...",
+          "src": "osen",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/109/0005593830?sid=105",
+          "img": "http://file.osen.co.kr/article_thumb/2026/08/23/202608232241778788_6a8b27087dfd1_300x.jpg"
+        },
+        {
           "title": "[MZ 톡톡] AX 시대의 착각, AI를 '쓰다'와 '일하다'",
           "desc": "글로벌 인사 컨설팅 기업 로버트 하프에 따르면, AI 도입을 이유로 직무를 없앤 미국 채용 관리자의 32%가 같은 자리에 사람을 다시 채용했다. 인력을 줄였다가 품질 저하와 숙련자 부족을 겪으며 기술 만능론의 한계를...",
           "src": "한국경제",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "08/24",
           "url": "https://www.news2day.co.kr/article/20260823500027",
           "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/23/.cache/512/20260823500028.jpg"
-        },
-        {
-          "title": "[김성탁의 시선] 본인들 자녀도 독서만 시킬 건가",
-          "desc": "문항 도입을 추진 중이라는 소식을 접하고 떠오른 말이다. 경남의 한 고등학교 국어 교사가 학생들에게... 상대평가인 수능에서 서·논술형 채점도 AI를 활용한다는데, 과목별로 배경 지식을 알려주고 서술형 답안 쓰는...",
-          "src": "중앙일보",
-          "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546210?sid=110",
-          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
-        },
-        {
-          "title": "나채범 한화손보 대표, 사이버·기후변화 대응 잰걸음 [손보사 일반보험...",
-          "desc": "글로벌 재보험사의 자연재해 분석 프로그램을 도입해 태풍·홍수·화재 등 총 15개 유형의 자연재해 위험을 정량적으로 분석하고 사업장별 위험등급 산정에 활용하고 있다. 한화손보는 글로벌 시장을 일반보험의 또 다른...",
-          "src": "fntimes",
-          "date": "08/24",
-          "url": "https://www.fntimes.com/html/view.php?ud=202608220007126857dd55077bc2_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260822000806072710dd55077bc212411124362.jpg&nmt=18"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/23",
           "url": "https://n.news.naver.com/mnews/article/011/0004654310?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/23/ams.001.photo.202607221817057435923059_R.jpg"
         },
         {
           "title": "[주간 산업 나침반] 車·철강 번진 파업 전운...삼성전자·SK하이닉스, 최...",
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
-      "title": "[MZ 톡톡] AX 시대의 착각, AI를 '쓰다'와 '일하다'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323769?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "경북도, 식품 한류 앞장선다… 광역단체 첫 전담 ‘국’ 가동",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868506?sid=102",
+      "img": "https://image.kmib.co.kr/online_image/2026/0824/01100201.20260823501568.jpg"
     },
     {
-      "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (9)] 이재명 정부, ‘햇...",
-      "url": "https://www.news2day.co.kr/article/20260823500027",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/23/.cache/512/20260823500028.jpg"
+      "title": "[Oh!쎈 초점] 컴투스 신작 ‘제우스: 오만의 신’, 경쟁형 MMORPG의 틀 보...",
+      "url": "https://n.news.naver.com/mnews/article/109/0005593830?sid=105",
+      "img": "http://file.osen.co.kr/article_thumb/2026/08/23/202608232241778788_6a8b27087dfd1_300x.jpg"
     }
   ]
 };
