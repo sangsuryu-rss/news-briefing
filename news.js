@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 03:49",
+  "updatedAt": "2026.08.24 (월) 05:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택...",
-          "desc": "글로벌테크놀로지는 \"컨슈머 고객사 A(삼성전자) VD(TV)사업부용 디스크리트 부문 내 점유율이 2025년 37%에서 2026년 40%로 확대될 것\"이라며 \"컨슈머 고객사 A(삼성전자) DA(생활가전) 모든 응용처에 공용으로...",
-          "src": "ZDNet코리아",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/08/23/f649486cf97bf208917f89b29a5799cc.png"
+          "title": "같은 칩플레이션인데, 영업익 2조 차이…‘가전 빅2’ 엇갈린 전략",
+          "desc": "반면 같은 기간 삼성전자 생활가전 및 공조(DA)·TV(VD)사업부는 매출 28조8000억원에 영업이익은 1900억원에 그쳤다. 외형(매출)은 비슷했지만 영업이익은 2조1400억원 이상 벌어진 것이다. 팔지 않았거나 팔지 못한...",
+          "src": "중앙일보",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546230?sid=101",
+          "img": ""
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
-          "desc": "삼성전자서비스는 지난 19일 경남 거제시 둔덕면사무소 인근에 '이동형 서비스센터'를 설치했다. 이곳에서 침수된 에어컨, 냉장고, 세탁기 등 가전제품의 세척 및 무상 점검을 지원하고 있다. 휴대폰 점검 장비를 탑재한...",
-          "src": "뉴시스",
-          "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
-          "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
+          "title": "하닉 40조 소각, 50조 더 푼다? “사팔 말라” 최태원의 장담",
+          "desc": "이틀 후 삼성전자 역시 110조원 규모의 주주환원 계획을 발표했지만, 세부 방법에 대해서는... kr/article/25437194 젠슨 황에 ‘LG세탁기’ 꺼냈다? 삼겹살 굽던 막내, 구광모 야심 https://www.joongang.co.kr...",
+          "src": "중앙일보",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546242?sid=101",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경북도, 식품 한류 앞장선다… 광역단체 첫 전담 ‘국’ 가동",
-          "desc": "중심으로 AI 자율제조와 로봇 자동화를 도입해 품질을 표준화하고 국내 생산 경쟁력을 넘어 해외 식품안전... 경북의 우수한 농산물과 식문화에 첨단기술과 한류를 접목해 세계적인 K푸드 대표기업을 경북에서...",
-          "src": "kmib",
+          "title": "[기술브릿지] AI 시대, 다시 주목받는 기계설비의 가치",
+          "desc": "대표적 장치산업이자 노동집약적 산업인 조선업[사진 1]에서도 공장에너지관리시스템(FEMS)을 도입해 전력... 설계 검토, 유지관리 계획 수립, 고장 원인 분석, 기술문서 작성 등에서 AI를 적극 활용하는 기술자가 높은...",
+          "src": "kmecnews",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868506?sid=102",
-          "img": "https://image.kmib.co.kr/online_image/2026/0824/01100201.20260823501568.jpg"
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51372",
+          "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51372_41447_2422.jpg"
         },
         {
-          "title": "[Oh!쎈 초점] 컴투스 신작 ‘제우스: 오만의 신’, 경쟁형 MMORPG의 틀 보...",
-          "desc": "기술적 몰입감과 올림포스 세계관의 결합 ‘제우스: 오만의 신’은 올림포스 신들이 티탄을 봉인한 이후의... 복제한 AI 분신 개체인 ‘페르소나’ 시스템이 도입됐다. 상대방이 로그아웃 상태이더라도 원하는 시간에...",
-          "src": "osen",
+          "title": "대전 첫 사학 목원대, AI·융합교육 강화… 수시 99.3% 대폭 선발",
+          "desc": "영역에 AI를 접목하는 등 미래 교육 혁신에 속도를 내고 있다. 문화예술과 인문사회, 과학기술을 아우르는... 차세대 학습관리시스템(LMS)에 AI 튜터봇, 맞춤형 학습 추천, 학습 분석 기능 등을 도입했고 AI 면접과 외국인...",
+          "src": "서울신문",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/109/0005593830?sid=105",
-          "img": "http://file.osen.co.kr/article_thumb/2026/08/23/202608232241778788_6a8b27087dfd1_300x.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003672756?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823233403_O2.jpg"
         },
         {
-          "title": "[MZ 톡톡] AX 시대의 착각, AI를 '쓰다'와 '일하다'",
-          "desc": "글로벌 인사 컨설팅 기업 로버트 하프에 따르면, AI 도입을 이유로 직무를 없앤 미국 채용 관리자의 32%가 같은 자리에 사람을 다시 채용했다. 인력을 줄였다가 품질 저하와 숙련자 부족을 겪으며 기술 만능론의 한계를...",
-          "src": "한국경제",
+          "title": "“대학은 미래 산업의 심장… AI로 지역 운명 바꿀 청년 키운다”[월요...",
+          "desc": "첨단 기술의 열기가 묘하게 교차한다. 학령인구 감소와 수도권 집중이라는 ‘지방대 소멸’의 경고등이... 2029년까지 전 학과에 AI 교육과정을 도입해 학생들이 AI를 배우는 데서 그치지 않고 AI를 통해 자기 전공의 새로운...",
+          "src": "서울신문",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/015/0005323769?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/081/0003672745?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823174930_O2.jpg"
         },
         {
-          "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (9)] 이재명 정부, ‘햇...",
-          "desc": "돕는 ‘AI 활용 ESS 구축지원 사업’과, 공유형 ESS를 활용한 주민참여 이익공유 사업인 ‘공유형 ESS 사업’... 일정 기술요건을 갖춘 발전소가 전력거래소의 급전지시에 따라 출력을 조정하고 대가를 받는...",
-          "src": "news2day",
+          "title": "\"N% 성과급·하청 교섭 요구에 산업계 위기…노봉법 개정만이 답\"",
+          "desc": "투자로 활용하지 못하고 노사간 배분 갈등과 파업으로 이어져 우리 산업의 경쟁력을 떨어뜨릴 뿐이다.”... “기업이 필요한 기술을 도입하지 못하면 결국 기업 자체가 어려워진다. AI나 로봇 도입에 따른 직무 변경이나...",
+          "src": "이데일리",
           "date": "08/24",
-          "url": "https://www.news2day.co.kr/article/20260823500027",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/08/23/.cache/512/20260823500028.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006356685?sid=102",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082400014.jpg"
         }
       ]
     },
@@ -177,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택...",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434770?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/08/23/f649486cf97bf208917f89b29a5799cc.png"
-    },
-    {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
       "url": "https://n.news.naver.com/mnews/article/031/0001051618?sid=101",
       "img": "https://image.inews24.com/v1/cf473ffd9d91d8.jpg"
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
-      "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
+      "title": "[기술브릿지] AI 시대, 다시 주목받는 기계설비의 가치",
+      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51372",
+      "img": "https://cdn.kmecnews.co.kr/news/photo/202608/51372_41447_2422.jpg"
     },
     {
-      "title": "경북도, 식품 한류 앞장선다… 광역단체 첫 전담 ‘국’ 가동",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868506?sid=102",
-      "img": "https://image.kmib.co.kr/online_image/2026/0824/01100201.20260823501568.jpg"
+      "title": "대전 첫 사학 목원대, AI·융합교육 강화… 수시 99.3% 대폭 선발",
+      "url": "https://n.news.naver.com/mnews/article/081/0003672756?sid=102",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823233403_O2.jpg"
     },
     {
-      "title": "[Oh!쎈 초점] 컴투스 신작 ‘제우스: 오만의 신’, 경쟁형 MMORPG의 틀 보...",
-      "url": "https://n.news.naver.com/mnews/article/109/0005593830?sid=105",
-      "img": "http://file.osen.co.kr/article_thumb/2026/08/23/202608232241778788_6a8b27087dfd1_300x.jpg"
+      "title": "“대학은 미래 산업의 심장… AI로 지역 운명 바꿀 청년 키운다”[월요...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003672745?sid=102",
+      "img": "https://img.seoul.co.kr//img/upload/2026/08/23/SSC_20260823174930_O2.jpg"
+    },
+    {
+      "title": "\"N% 성과급·하청 교섭 요구에 산업계 위기…노봉법 개정만이 답\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356685?sid=102",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082400014.jpg"
     }
   ]
 };
