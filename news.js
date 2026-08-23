@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 17:50",
+  "updatedAt": "2026.08.23 (일) 19:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
-          "desc": "삼성전자서비스는 지난 19일 경남 거제시 둔덕면사무소 인근에 '이동형 서비스센터'를 설치했다. 이곳에서 침수된 에어컨, 냉장고, 세탁기 등 가전제품의 세척 및 무상 점검을 지원하고 있다. 휴대폰 점검 장비를 탑재한...",
-          "src": "뉴시스",
+          "title": "8월 셋째주, AI 반도체에 520억 '뭉칫돈'…딥테크 투자 열기 지속",
+          "desc": "아이에이치더블유는 2024년 6월 설립된 법인으로 삼성전자·SK하이닉스·인텔 출신 임원과 엔지니어들이... 현재 LG전자 가전·전장(VS)사업부를 비롯해 DB글로벌칩, 에어버스(Airbus) 등 국내외 제조기업과 실증 프로젝트를...",
+          "src": "머니투데이",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
-          "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005403476?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082313301325664_1.jpg"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
         },
         {
-          "title": "특별재난지역 된 거제시… 복구·산사태 조사 속도",
-          "desc": "삼성전자와 LG전자는 침수 가전제품을 대상으로 무상 점검과 수리를 지원하고 있다. 특별재난지역 지정으로 복구 재정의 부담은 일부 줄어들게 됐지만 피해 규모 확정과 복구비 확보, 산사태 지역의 2차 피해 방지가 향후...",
-          "src": "ziksir",
+          "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
+          "desc": "삼성전자서비스는 지난 19일 경남 거제시 둔덕면사무소 인근에 '이동형 서비스센터'를 설치했다. 이곳에서 침수된 에어컨, 냉장고, 세탁기 등 가전제품의 세척 및 무상 점검을 지원하고 있다. 휴대폰 점검 장비를 탑재한...",
+          "src": "뉴시스",
           "date": "08/23",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=143953",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202608/143953_163705_5244_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
+          "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "메타에 청정 전력 공급 발판 마련...세이지, 美 지열발전 상용화 성큼",
-          "desc": "시추와 지하 파쇄 기술을 활용해 지하에 인공 저수지를 만들고, 여기서 24시간 전기를 뽑아내는... 인공 균열 기술… 물 손실률 10% 미만 억제 세이지가 도입한 '인공저류층생성 지열시스템(EGS)'은 고온의 지하...",
-          "src": "impacton",
+          "title": "씨엔티테크, 기업용 AI 운영 솔루션 '인트'에 투자",
+          "desc": "씨엔티테크 관계자는 \"AI 도입 확대에 따라 안정적인 운영과 성능 관리 기술의 필요성도 커질 것\"이라고 말했다. 프랜차이즈 외식업계 관계자는 \"매장 운영과 고객관리 등에 AI 활용이 늘어나면 도입 이후 성능을...",
+          "src": "shinailbo",
           "date": "08/23",
-          "url": "http://www.impacton.net/news/articleView.html?idxno=20057",
-          "img": "https://cdn.impacton.net/news/thumbnail/202608/20057_31656_5745_v150.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053788",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5053788_2051791_4329.png"
         },
         {
-          "title": "제이엘케이 'JLK-CTP', 11개 병원 공급계약",
-          "desc": "﻿ 의료 인공지능(AI) 전문기업 제이엘케이의 뇌졸중 AI 솔루션 ‘JLK-CTP’가 신의료기술평가 유예 지정 이후... 의료기관 도입 과정에서 활용한다는 전략이다. 제이엘케이 관계자는 “비급여 처방이 본격화되면 기존...",
-          "src": "dailymedi",
+          "title": "카카오게임즈가 펼친 '차원이 다른 도트의 세계'…'도깨비의세계' 첫 공...",
+          "desc": "'도깨비의세계'는 네이버 웹소설·웹툰 '멸귀수도전' IP를 기반으로 슈퍼캣이 축적해온 도트 그래픽 기술과... # AI 비서 '묘롱'도 도입 이용자의 플레이 데이터를 활용하는 AI 비서도 적용한다. '묘롱'은 게임 내 활동...",
+          "src": "worktoday",
           "date": "08/23",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939715",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88276",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88276_127124_5616_v150.jpg"
         },
         {
-          "title": "[모두가 행복한 경기교육 대전환] 미래의 셰프를 키운다 한국외식과학고...",
-          "desc": "한국외식과학고등학교는 학생들이 학교에서 배운 지식과 기술을 실제 외식 현장에서 활용할 수 있도록... # '실습','인공지능(AI)활용','외국어' 등 현장 실무능력 갖춘 차세대 외식 전문가 한국외식과학고등학교는 학생들이...",
-          "src": "kihoilbo",
+          "title": "\"답은 언제나 현장에 있다… 역동적 대구경제 도약 위해 총력\" [로컬포커...",
+          "desc": "기업들의 AI 기술 도입과 실증을 밀착 지원하고, 대구 산업 지도의 판 자체를 AI 기반 고부가가치 첨단 산업... 생태계·인재공급·용수·전력)를 활용해 대구경북이 대한민국 반도체 경쟁력의 한 축을 담당하도록 가능성을...",
+          "src": "파이낸셜뉴스",
           "date": "08/23",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032343",
-          "img": "https://cdn.kihoilbo.co.kr/news/photo/202608/3032343_576180_141.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005565164?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/23/202608231851408968_l.jpg"
         },
         {
-          "title": "완주군, 전북 인공지능(AI) 테마제안 공모 싹쓸이",
-          "desc": "주무관의 '피지컬 AI 활용 인터넷 취약계층을 위한 말로 하는 인터넷' 제안이 이름을 올렸다. 특히, 완주군은 도내 시군 중 가장 많은 101건의 제안을 제출해 행정 혁신을 향한 열의를 입증했다. 단순 기술 도입을 넘어 농업...",
-          "src": "jeonmin",
+          "title": "AI와 만난 부산국제광고제, 새 가능성 연다",
+          "desc": "올해 행사에서 가장 두드러지는 점은 AI의 전방위적인 도입이다. 광고계는 ‘이제 AI 없이는 돌아가기... AI 기술을 얼마나 창의적으로 활용했는지를 평가하는 ‘AI 활용 부문’을 신설했고, 모든 경쟁 부문 출품작에는 AI...",
+          "src": "kookje",
           "date": "08/23",
-          "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=445606",
-          "img": "http://www.jeonmin.co.kr/image/logo/snslogo_20190906054611.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000153135?sid=103",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0824/L20260824.22017006384i1.jpg?14"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "총성 울린 유리기판 경쟁…“HBM 수성도 패키징에 달려 [압축전환 대한...",
+          "desc": "수요 앵커 기업 주도로 핵심 소재·부품·장비 기업을 키워 산업 생태계를 조성하는 사업도 추진 중인데 유리기판이 시범사업 후보로 거론된다. 삼성전자와 같은 최종 수요자가 여러 중소·중견 기업과 함께 유리기판...",
+          "src": "서울경제",
+          "date": "08/23",
+          "url": "https://n.news.naver.com/mnews/article/011/0004654310?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/23/ams.001.photo.202607221817057435923059_R.jpg"
+        },
         {
           "title": "[주간 산업 나침반] 車·철강 번진 파업 전운...삼성전자·SK하이닉스, 최...",
           "desc": "삼성전자도 올해 90조∼110조원을 주주에게 환원하기로 하면서 양사의 환원 규모는 최대 150조원에 달할... 현대차그룹 양대 완성차사의 생산 중단이 잇따르면서 하반기 판매 목표와 부품 협력사의 가동에도 부담이...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/22",
           "url": "https://n.news.naver.com/mnews/article/011/0004654097?sid=101",
           "img": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.8f1dc4fb9ff443be8c06ec308a7157e0_R.jpg"
-        },
-        {
-          "title": "제조업 넘어 IT·바이오까지…산업계 파업 ‘도미노’",
-          "desc": "수위↑ 협력사까지 번지는 파업…재계 “투자·경쟁력 악영향” [아시아타임즈=김빛나 기자] 삼성전자와... 현대모비스 등 계열사와 1·2차 부품사 노조도 연대 파업에 동참하면서 완성차 생산 차질은 물론 협력업체로의...",
-          "src": "아시아타임즈",
-          "date": "08/22",
-          "url": "https://www.asiatime.co.kr/article/20260821500353",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/21/.cache/512/20260821500354.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
-      "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
+      "title": "8월 셋째주, AI 반도체에 520억 '뭉칫돈'…딥테크 투자 열기 지속",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403476?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082313301325664_1.jpg"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/20/sentv20260820000112.jpg"
     },
     {
-      "title": "특별재난지역 된 거제시… 복구·산사태 조사 속도",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=143953",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202608/143953_163705_5244_v150.jpg"
+      "title": "\"하루빨리 일상으로\"…재계, 기록적 폭우 경남에 '온정의 손길' 이어져",
+      "url": "https://n.news.naver.com/mnews/article/003/0014142653?sid=101",
+      "img": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407450_web.jpg"
     },
     {
-      "title": "메타에 청정 전력 공급 발판 마련...세이지, 美 지열발전 상용화 성큼",
-      "url": "http://www.impacton.net/news/articleView.html?idxno=20057",
-      "img": "https://cdn.impacton.net/news/thumbnail/202608/20057_31656_5745_v150.jpg"
+      "title": "씨엔티테크, 기업용 AI 운영 솔루션 '인트'에 투자",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053788",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202608/5053788_2051791_4329.png"
     },
     {
-      "title": "제이엘케이 'JLK-CTP', 11개 병원 공급계약",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939715",
-      "img": "https://www.dailymedi.com/img/d_logo.jpg"
+      "title": "카카오게임즈가 펼친 '차원이 다른 도트의 세계'…'도깨비의세계' 첫 공...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88276",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202608/88276_127124_5616_v150.jpg"
     }
   ]
 };
