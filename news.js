@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.23 (일) 13:53",
+  "updatedAt": "2026.08.23 (일) 16:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "엔비디아 서버값 인상 ‘변수’…네이버·카카오 AI 투자 셈법 복잡해지...",
-          "desc": "엔비디아의 서버 가격 인상으로 삼성전자와 SK하이닉스는 메모리 가격 상승과 협상력 강화의 수혜를 입을 것으로 전망된다. 반면 스마트폰·PC·가전 부문 사업의 경우 메모리 조달비 상승으로 수익성 압박 가능성이...",
-          "src": "이투데이",
+          "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
+          "desc": "삼성전자 실증 사례를 바탕으로 원격제어 인덕션의 예비안전기준과 평가기법을 마련하고 있다. 내년 전후로 관련 안전기준이 도입되면 물량과 모델 제한 없이 원격제어 제품을 출시할 수 있다. 앞서 글로벌 가전 기업은...",
+          "src": "전자신문",
           "date": "08/23",
-          "url": "https://www.etoday.co.kr/news/view/2617111",
-          "img": "https://img.etoday.co.kr/pto_db/2026/03/20260330161413_2315011_1200_1200.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003459526?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.25e518b62b6b40d8b663c193a48352e4_P1.png"
         },
         {
           "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "kookje",
           "date": "08/23",
           "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?23"
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?8"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "최유철 의성군수 \"생산량 1위 넘어 세계가 찾는 'K-마늘' 만들 것\"",
-          "desc": "재배기술을 꼽았다. 큰 일교차와 마늘 재배에 적합한 토양에 농업인들의 경험과 땀이 더해져 대한민국을... 인공지능(AI)과 데이터를 활용한 생육관리, 병해충 예찰, 관수 시스템도 단계적으로 도입한다. 노동력을 줄이는...",
-          "src": "imaeil",
+          "title": "악어·독사가 주택가로…'희귀동물 욕망'이 키운 생태계 시한폭탄 [정락...",
+          "desc": "밀수조직은 텔레그램, 카카오톡 오픈채팅방, 파충류 전문 인터넷 카페를 유통 창구로 활용했다. 단속과... AI 기반 X레이 검색 시스템과 생체 탐지 기법 도입, 온라인 암시장 대응을 위한 수사기관의 위장수사권 부여, 사육...",
+          "src": "sisajournal",
           "date": "08/23",
-          "url": "https://n.news.naver.com/mnews/article/088/0001024710?sid=102",
-          "img": "https://www.imaeil.com/photos/2026/08/20/2026082019530589552_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/586/0000136546?sid=102",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202608/384143_392133_4542_v150.jpg"
         },
         {
-          "title": "차에 '이것' 눌려있는지 확인하세요…안 그러면 내가 다 뒤집어씁니다",
-          "desc": "이에 한국도로공사는 최근 최신 기술을 도입해 눈에 보이지 않는 배수 흐름을 진단하고 도로 파손을 사전에... 도로 파손 역시 AI를 활용한 예방 점검 체계가 가동되고 있다. 한국도로공사는 ‘AI 도로파손 자동검사...",
-          "src": "wikitree",
+          "title": "AI가 대학 교육 망친다? 싱가포르 명문대 'AI 전면 도입' 승부수",
+          "desc": "NTU는 2030년까지 전체 교육과정의 40%에 AI를 도입할 예정이다. 아론 티안 NUS 학무부총장은 “우리는 이 첨단 AI 기술을 인간을 대체하는 수단이 아니라 인간의 지적 능력, 창의성, 판단력을 증폭시키는 도구로 활용하고...",
+          "src": "한국일보",
           "date": "08/23",
-          "url": "https://www.wikitree.co.kr/articles/1153701",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608201556236295.jpg"
+          "url": "https://n.news.naver.com/mnews/article/469/0000949550?sid=104",
+          "img": "https://newsimg.hankookilbo.com/2026/08/23/c6dfc028-7f39-4b6a-89b2-fb0d188d4f6f.jpg"
         },
         {
-          "title": "[패트롤]경주시-칠곡군-달서구-수성구-영남이공대-경북문화관광공사",
-          "desc": "특히 U-12 부문에는 올해 그룹별 토너먼트와 시상제도를 새롭게 도입한다. 선수들이 비슷한 수준의 팀들과... 지역이 가진 제조업 기반과 농업을 미래 기술산업과 접목해 새로운 성장동력을 확보하고 이를 양질의 민간...",
-          "src": "ekn",
+          "title": "김기흥 시의원, 대전 톨게이트를 '과학도시 미래 관문'으로",
+          "desc": "대전 톨게이트를 대전의 과학기술과 미래 비전을 보여주는 도시 관문으로 전환해야 한다는 제안이 나왔다.... 특히 AI·데이터를 활용해 교통·관광·재난정보 등을 제공하는 정보서비스 도입과 함께 교통안전, 빛공해, 시설...",
+          "src": "ccdn",
           "date": "08/23",
-          "url": "https://www.ekn.kr/web/view.php?key=20260823025055528",
-          "img": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260823.d8a7fb4e30d945d8bc5407027b46d94f_R.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095065",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1095065_605912_2522_v150.jpg"
         },
         {
-          "title": "지미션, DGMC SL글로벌과 3자 업무협약…AX 전환 지원",
-          "desc": "AI 전환 성과를 만들어낼 수 있도록 기술과 경험을 적극 활용하겠다\"고 말했다. 최우각 DGMC대구경북기계협동조합 이사장은 \"AX전문기관인 지미션, 마케팅전문기관인 SL글로벌과 공조해 제조업 현장에 맞는 AX 도입...",
-          "src": "ferrotimes",
+          "title": "공공AI법 28일 시행…기본권 영향평가는 6개월 뒤",
+          "desc": "지며, AI와 데이터의 편향성 및 의사결정의 투명성을 고려해야 한다. 행정안전부와 과학기술정보통신부는 AI... 기존 데이터 기반 행정책임관은 ‘AI 및 데이터 기반 행정책임관’으로 확대돼 AI 도입·활용 과정의...",
+          "src": "디지털타임스",
           "date": "08/23",
-          "url": "http://www.ferrotimes.com/news/articleView.html?idxno=49915",
-          "img": "http://www.ferrotimes.com/news/thumbnail/202608/49915_55490_5531_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003043730?sid=102",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/23/news-p.v1.20260823.1ebbc93c7b394c318769b6fba963e9c7_R.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "엔비디아 서버값 인상 ‘변수’…네이버·카카오 AI 투자 셈법 복잡해지...",
-      "url": "https://www.etoday.co.kr/news/view/2617111",
-      "img": "https://img.etoday.co.kr/pto_db/2026/03/20260330161413_2315011_1200_1200.png"
+      "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003459526?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.25e518b62b6b40d8b663c193a48352e4_P1.png"
     },
     {
       "title": "로봇청소기 넘어 냉장고·세탁기까지…中가전, 韓 시장 정조준",
@@ -194,17 +194,17 @@ window.NEWS_DATA = {
     {
       "title": "기업들 경남 집중호우 피해 지원 잇따라",
       "url": "https://n.news.naver.com/mnews/article/658/0000153109?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?23"
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0823/L20260823.99099006245i1.jpg?8"
     },
     {
-      "title": "최유철 의성군수 \"생산량 1위 넘어 세계가 찾는 'K-마늘' 만들 것\"",
-      "url": "https://n.news.naver.com/mnews/article/088/0001024710?sid=102",
-      "img": "https://www.imaeil.com/photos/2026/08/20/2026082019530589552_l.jpg"
+      "title": "악어·독사가 주택가로…'희귀동물 욕망'이 키운 생태계 시한폭탄 [정락...",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136546?sid=102",
+      "img": "https://cdn.sisajournal.com/news/thumbnail/202608/384143_392133_4542_v150.jpg"
     },
     {
-      "title": "차에 '이것' 눌려있는지 확인하세요…안 그러면 내가 다 뒤집어씁니다",
-      "url": "https://www.wikitree.co.kr/articles/1153701",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/20/202608201556236295.jpg"
+      "title": "AI가 대학 교육 망친다? 싱가포르 명문대 'AI 전면 도입' 승부수",
+      "url": "https://n.news.naver.com/mnews/article/469/0000949550?sid=104",
+      "img": "https://newsimg.hankookilbo.com/2026/08/23/c6dfc028-7f39-4b6a-89b2-fb0d188d4f6f.jpg"
     }
   ]
 };
