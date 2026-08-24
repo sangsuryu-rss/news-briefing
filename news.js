@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 16:29",
+  "updatedAt": "2026.08.24 (월) 18:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 ‘갤럭시 버즈4 프로’, EISA 어워드서 인이어 헤드폰 최고 제...",
-          "desc": "삼성전자 ‘갤럭시 버즈4 프로’가 영상음향전문가협회(Expert Imaging and Sound Association, EISA)... 한편 1982년에 시작된 EISA 어워드는 글로벌 소비자 가전 업계에서 높은 공신력을 인정받는 어워드 중 하나다. 전...",
-          "src": "동아일보",
+          "title": "태국 전기기기 시장동향",
+          "desc": "태국 시장에서는 Samsung, Apple, Xiaomi, Oppo, LG, Lenovo 등 글로벌 기업들이 스마트폰, PC, TV, 웨어러블 기기, 생활가전 및 주변기기 등 다양한 제품을 공급하고 있다. 삼성전자는 스마트폰, TV, 웨어러블...",
+          "src": "dream",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/020/0003742906?sid=105",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134532979.2.png"
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243601",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+        },
+        {
+          "title": "[이로운주목] 35년 상조 넘어 '인생 전반'으로…보람그룹이 그리는 라이...",
+          "desc": "가전과 상조를 결합하는 시도도 시작했다. 삼성전자와 협업해 전국 삼성스토어와 모바일스토어에서 가입할 수 있는 상조 제휴상품 'B&케어팩'을 선보였다. AI 가전이나 갤럭시 스마트폰 등을 구매·구독하는 소비자가...",
+          "src": "이로운넷",
+          "date": "08/24",
+          "url": "https://www.eroun.net/news/articleView.html?idxno=88241",
+          "img": "https://cdn.eroun.net/news/thumbnail/202608/88241_144843_4815_v150.jpg"
         },
         {
           "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
         },
         {
-          "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
-          "desc": "세탁 건조기 ‘제오 X’를 출시했다. 11㎏ 세탁·6㎏ 건조 용량에 인공지능(AI)이 의류 상태를 분석해 세탁·건조 코스를 설정하고 세제와 섬유유연제도 자동 투입한다. 가격은 삼성전자와 LG전자 제품가의 3분의 1 수준인...",
-          "src": "조선일보",
+          "title": "900개 中기업 몰려드는 'IFA 2026'..삼성·LG 전시 전략은?",
+          "desc": "삼성전자와 LG전자는 서로 다른 전시 방식으로 유럽 시장 공략에 나선다. 전체 참가 기업의 절반에... LG전자는 기존 냉장고에 먼저 적용했던 '핏앤맥스(Fit&Max)' 솔루션을 세탁기와 건조기, 식기세척기로 확대한다....",
+          "src": "머니투데이",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994514?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
-        },
-        {
-          "title": "삼성전자, ‘EHS 히트펌프 보일러’ 광주사업장에서 생산",
-          "desc": "삼성전자는 냉장고, 세탁기, 에어컨 등 프리미엄 가전을 생산하며 축적한 광주사업장 제조 경쟁력을 바탕으로 국내 난방 전기화 보급 확대와 히트펌프 대중화에 나설 계획이다. 이와 함께 개발·제조·품질 간 연계를...",
-          "src": "동아일보",
-          "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/020/0003742899?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134532829.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005403958?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082415451249060_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "신한투자증권 'AX 챔피언스데이' 개최",
-          "desc": "신한투자증권 관계자는 \"AX는 단순히 AI 기술을 도입하는 것을 넘어 실제 업무 방식과 조직 문화를 변화시키는 과정\"이라며 \"AX 코디네이터들이 각 현장에서 AI 활용을 주도하는 챔피언으로서 우수 사례를 확산하고...",
-          "src": "finomy",
+          "title": "충남형 돌봄 AI 선행 모델 구축… 아산시 '스마트 존엄 케어' 산업 추진",
+          "desc": "이같은 축적 자료는 간병 급여화 시행을 앞둔, '충남지역 돌봄 AI 모델 개발의 기초 데이터'로 활용케 된다. 이는 모바일 인터 페이스를 통해 보호자에게 실시간 돌봄 현황을 공유하는 소통형 서비스가 도입되고, 환자의...",
+          "src": "jbnews",
           "date": "08/24",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=259801",
-          "img": "https://cdn.finomy.com/news/thumbnail/202608/259801_254832_1043_v150.jpg"
+          "url": "https://www.jbnews.com/news/articleView.html?idxno=1510028",
+          "img": "https://cdn.jbnews.com/news/thumbnail/202608/1510028_1363086_0006_v150.jpg"
         },
         {
-          "title": "'AI 챔피언 2명 인증' 울산 북구, 인공지능 역량 키운다",
-          "desc": "AI 챔피언은 행정안전부가 인공지능 대전환을 이끌 문제해결형 인재를 양성하기 위해 도입한 제도다.... 앞서 지난 4월에는 김현선 주무관이 AI 기술의 이해와 활용, 문제해결 역량 등을 평가하는 AI 능력...",
-          "src": "뉴시스",
+          "title": "NH농협은행, 창구 본인확인에 AI 넣는다…100개 영업점서 안면인증 시작",
+          "desc": "특히 실명 확인이 필요한 대면 금융거래에서 AI 안면인증 기술을 이용해 고객의 본인 여부를 검증하도록... AI 활용 무게중심, 편의성에서 '금융보안'으로 확대 이번 시범 도입에서 눈에 띄는 부분은 AI의 적용 영역이다....",
+          "src": "koreaittimes",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/003/0014144894?sid=102",
-          "img": "https://img1.newsis.com/2026/07/06/NISI20260706_0002179369_web.jpg"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156367",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202608/156367_105891_589_v150.jpg"
         },
         {
-          "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최",
-          "desc": "신한투자증권 관계자는 “AX는 단순히 AI 기술을 도입하는 것을 넘어 실제 업무 방식과 조직 문화를 변화시키는 과정”이라며 “AX 코디네이터들이 각 현장에서 AI 활용을 주도하는 챔피언으로서 우수 사례를...",
-          "src": "매일경제",
+          "title": "게임 개발 AI 전환…대형사 넘어 중소·인디까지 확산하나",
+          "desc": "국내 게임업계에 AI 활용이 빠르게 퍼지는 모습입니다. 넥슨, 엔씨 등 대형 게임사들이 자체 AI 기술을... 대형 게임사를 넘어 중소·인디 개발사까지 AI 도입 움직임이 이어지면서, 향후 AI를 활용한 게임 제작이...",
+          "src": "서울경제TV",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725047?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/24/news-p.v1.20260824.ad858327e0704101a8a84a940f059a3f_R.png"
+          "url": "https://www.sentv.co.kr/article/view/sentv202608240098",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/24/sentv20260824000187.jpg"
         },
         {
-          "title": "BNK부산은행, 'AI크루' 출범… 현업 중심 AI 업무문화 확산",
-          "desc": "부산은행 관계자는 \"AI 전환의 핵심은 기술 도입에 그치지 않고 직원들이 실제 업무에서 활용해 일하는 방식을 바꾸는 데 있다\"고 말했다. [비즈트리뷴 = 노이서 기자]",
-          "src": "biztribune",
+          "title": "인터넷 원조 '야후', Z세대 공략… AI 검색으로 재도약",
+          "desc": "스카우트는 공개 웹 정보뿐 아니라 야후가 보유한 콘텐츠 아카이브와 사용자 데이터, 30년간 축적한 검색 기록을 함께 활용한다. AI 기업으로부터 도입한 기술도 적용한다. 랜존 CEO는 \"우리는 인터넷 전체를 그대로...",
+          "src": "조선일보",
           "date": "08/24",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357819",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/357819_263098_2144_v150.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168735",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168735_450835_5545_v150.jpg"
         }
       ]
     },
@@ -146,7 +146,7 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "08/11",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "img": ""
         },
         {
           "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 ‘갤럭시 버즈4 프로’, EISA 어워드서 인이어 헤드폰 최고 제...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742906?sid=105",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134532979.2.png"
+      "title": "태국 전기기기 시장동향",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243601",
+      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+    },
+    {
+      "title": "[이로운주목] 35년 상조 넘어 '인생 전반'으로…보람그룹이 그리는 라이...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=88241",
+      "img": "https://cdn.eroun.net/news/thumbnail/202608/88241_144843_4815_v150.jpg"
     },
     {
       "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
     },
     {
-      "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994514?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
+      "title": "900개 中기업 몰려드는 'IFA 2026'..삼성·LG 전시 전략은?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403958?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082415451249060_1.jpg"
     },
     {
-      "title": "삼성전자, ‘EHS 히트펌프 보일러’ 광주사업장에서 생산",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742899?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134532829.1.jpg"
+      "title": "충남형 돌봄 AI 선행 모델 구축… 아산시 '스마트 존엄 케어' 산업 추진",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1510028",
+      "img": "https://cdn.jbnews.com/news/thumbnail/202608/1510028_1363086_0006_v150.jpg"
     },
     {
-      "title": "신한투자증권 'AX 챔피언스데이' 개최",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=259801",
-      "img": "https://cdn.finomy.com/news/thumbnail/202608/259801_254832_1043_v150.jpg"
-    },
-    {
-      "title": "'AI 챔피언 2명 인증' 울산 북구, 인공지능 역량 키운다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014144894?sid=102",
-      "img": "https://img1.newsis.com/2026/07/06/NISI20260706_0002179369_web.jpg"
+      "title": "NH농협은행, 창구 본인확인에 AI 넣는다…100개 영업점서 안면인증 시작",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156367",
+      "img": "https://www.koreaittimes.com/news/thumbnail/202608/156367_105891_589_v150.jpg"
     }
   ]
 };
