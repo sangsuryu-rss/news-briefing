@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 01:57",
+  "updatedAt": "2026.08.25 (화) 04:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
-          "desc": "삼성전자는 무선 이어폰 ‘갤럭시 버즈4 프로’가 영상음향전문가협회(EISA)가 주관하는 ‘EISA 어워드... 1982년 시작된 EISA 어워드는 전 세계 25개국 테크 전문가들이 가전 제품의 성능과 혁신성을 평가해...",
-          "src": "동아일보",
+          "title": "가전 넘어 'AI홈'… 유럽 홀릴 삼성·LG",
+          "desc": "글로벌 가전시장을 대표하는 삼성전자와 LG전자는 서로 다른 전시전략을 택했다. 삼성전자는 올해 IFA의 주요 전시장인 메세베를린에서 벗어나 베를린 도심의 훔볼트카레에 별도 전시공간을 운영한다. 1991년 IFA에...",
+          "src": "머니투데이",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
-          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005404052?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082419485834855_1.jpg"
         },
         {
           "title": "태국 전기기기 시장동향",
@@ -37,12 +37,12 @@ window.NEWS_DATA = {
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
-          "title": "삼성전자, EHS 히트펌프 보일러 국내 생산… 정부 ‘난방 전기화’ 동참",
-          "desc": "삼성전자는 냉장고, 세탁기, 에어컨 등 프리미엄 가전을 생산하며 축적한 광주사업장 제조 경쟁력을 바탕으로 국내 난방 전기화 보급 확대와 히트펌프 대중화에 나설 계획이다. 이와 함께 개발·제조·품질 간 연계를...",
+          "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
+          "desc": "삼성전자는 무선 이어폰 ‘갤럭시 버즈4 프로’가 영상음향전문가협회(EISA)가 주관하는 ‘EISA 어워드... 1982년 시작된 EISA 어워드는 전 세계 25개국 테크 전문가들이 가전 제품의 성능과 혁신성을 평가해...",
           "src": "동아일보",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743005?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134536445.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
+          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
         },
         {
           "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "中, 'AI 플러스' 가속에 일자리 충격… 청년층 창업으로 활로 모색",
+          "desc": "그러나 기술 확산은 신규 고용 축소로 이어지고 있다. 현지 매체 집계에 따르면 2026년 1분기 모바일용 실사 숏폼 드라마 제작 편수는 생성형 AI 도입 여파로 전년 동기 대비 약 75% 급감했다. 국제노동기구(ILO)는 전자제품...",
+          "src": "g-enews",
+          "date": "08/25",
+          "url": "https://www.g-enews.com/view.php?ud=20260824170941635fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082417222802196fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
           "desc": "AI 플랫폼인 'AI:NU'와 업무별 AI 에이전트 구축 사례를 공개했다. 이 부총장은 AI를 단순 도구로 활용하는... 이준한 기획부총장은 \"AI 시대 대학의 경쟁력은 단일 기술 도입 수보다 실제 대학의 문제를 해결하고 이를...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "08/25",
           "url": "https://www.wikitree.co.kr/articles/1154612",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250014129753_ai.jpeg"
-        },
-        {
-          "title": "챗GPT는 교실로, 인스타는 법정행… 10대 타깃 빅테크 명암",
-          "desc": "10대 청소년을 둘러싼 글로벌 정보기술(IT) 및 규제 흐름이 인공지능(AI)과 소셜미디어(SNS)라는 두 축을... 10대 청소년들 사이에서 AI를 활용한 학습은 이미 일상화됐다. 미국 여론조사업체 퓨리서치센터가 지난해 가을...",
-          "src": "kmib",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868724?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0825/01100201.20260824502025.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
-      "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
-      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
+      "title": "가전 넘어 'AI홈'… 유럽 홀릴 삼성·LG",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404052?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082419485834855_1.jpg"
     },
     {
       "title": "태국 전기기기 시장동향",
@@ -187,9 +187,9 @@ window.NEWS_DATA = {
       "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     },
     {
-      "title": "삼성전자, EHS 히트펌프 보일러 국내 생산… 정부 ‘난방 전기화’ 동참",
-      "url": "https://n.news.naver.com/mnews/article/020/0003743005?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134536445.1.jpg"
+      "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
+      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
     },
     {
       "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
     },
     {
+      "title": "中, 'AI 플러스' 가속에 일자리 충격… 청년층 창업으로 활로 모색",
+      "url": "https://www.g-enews.com/view.php?ud=20260824170941635fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082417222802196fbbec65dfb211211153121.jpg"
+    },
+    {
       "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
       "url": "https://www.dongponews.net/news/articleView.html?idxno=60057",
       "img": "https://cdn.dongponews.net/news/thumbnail/202608/60057_216041_3219_v150.jpg"
-    },
-    {
-      "title": "톰슨로이터, 큐원 기반 법률 LLM ‘톰슨’ 출시…자평과 달리 벤치마크...",
-      "url": "https://www.wikitree.co.kr/articles/1154614",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250021309957_ai.jpeg"
     }
   ]
 };
