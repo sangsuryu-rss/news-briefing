@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 22:15",
+  "updatedAt": "2026.08.25 (화) 00:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
         },
         {
-          "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
-          "desc": "위한 로봇(Robotics for ALL)'이라는 브랜드 철학을 바탕으로 기술 혁신을 이어가고 있으며, 현재 전 세계 170개 이상의 시장에서 약 2,800만 가구에 스마트 클리닝 솔루션을 제공하고 있다. ◇ 삼성전자, 'EHS 히트펌프 보일러...",
-          "src": "ibabynews",
+          "title": "[신문과 놀자!/어린이과학동아 별별과학백과]AI에서 우주산업까지… 반...",
+          "desc": "반도체는 자동차, 냉장고, 신호등, 비데 등 생활 곳곳에 사용되는 특별한 조각입니다. 이렇게 반도체가 널리... ● 작은 반도체, 거대한 생태계 최근 뉴스에 자주 나오는 삼성전자와 SK하이닉스는 한국을 대표하는 반도체...",
+          "src": "동아일보",
           "date": "08/24",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
-          "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003742978?sid=110",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134536150.1.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[Startup's Story #545] 대시보드는 죽었다",
-          "desc": "오히려 AI 도입으로 사람의 실수를 잡아낸 경우도 있었다. 없는 랜딩 페이지에 몇 달간 광고가 집행되고 있었는데 대행사도 광고주도 몰랐던 것을, AI로 점검하다가 발견했다는 사례다. 리스크는 기술이 아니라 책임의...",
+          "title": "[기업家] 삼성전자 ⑱ㅣ 특허 30만건 눈앞·엑시노스 경쟁력 부각…110조...",
+          "desc": "이재용 삼성전자 회장은 2022년 10월 회장 취임을 앞두고 \"세상에 없는 기술에 투자해야 한다. 미래... 삼성전자는 2016년부터 FCF의 50%를 주주환원 재원으로 활용하는 정책을 도입했다. 2017년부터는 분기 배당을...",
+          "src": "cbci",
+          "date": "08/25",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600502",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600502_411804_1329_v150.jpg"
+        },
+        {
+          "title": "코스맥스-현대홈쇼핑, AI 기반 맞춤형 뷰티 제품 공동 개발 MOU 체결",
+          "desc": "단계적으로 도입할 계획이다. 코스맥스는 지난 3년간 200만건 이상의 맞춤형 화장품 관련 문진 데이터를... 처방 기술 개발에 활용한다는 계획이다. 코스맥스는 맞춤형 화장품 사업의 해외 진출도 추진하고 있다. 지난 7월...",
+          "src": "thefirstmedia",
+          "date": "08/24",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206722",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206722_190628_4825_v150.jpg"
+        },
+        {
+          "title": "팔란티어의 저주가 현실로?…위협받는 앤트로픽 [박신영의 개장전 요것...",
+          "desc": "작업에 따라 가장 적합한 모델을 자동으로 선택하는 ‘모델 라우터’의 도입도 늘고 있습니다. 모델... 엔비디아는 풀사이드의 기술과 인력을 활용해 앞으로 1년 안에 미국과 중국의 최고 수준 AI 모델에 맞설 수 있는...",
+          "src": "한국경제",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324226?sid=104",
+          "img": "https://img.hankyung.com/photo/202608/01.45437223.1.jpg"
+        },
+        {
+          "title": "[Startup's Story #546] 콘텐츠는 AI가 만든다, 그 다음은 누가 하나",
+          "desc": "AI 도입률은 높은데 정작 마케터는 별도 시스템 없이 챗봇에 곧바로 물어 쓰는 식이었다. 그래서 처음 만든... 적극 활용한 것이 전부였다. 별도 광고는 수출바우처로 집행한 2천만 원가량이 전부다. 그런데도 사용자가...",
           "src": "platum",
           "date": "08/24",
-          "url": "https://platum.kr/archives/292974",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/DSCF7580_2.jpg"
-        },
-        {
-          "title": "ACP부터 법조인 수급·수사체계 개편까지… 법조계 해법 모색",
-          "desc": "이 변호사는 변호사 비밀유지권을 도입한 이번 변호사법 개정안에 대해 \"개정 변호사법이 내년 2월 20일... 그는 \"검색증강생성(RAG) 기술 등을 활용한 맞춤형 법률 AI가 저연차 변호사의 리서치와 서면 초안 작성 업무를...",
-          "src": "news",
-          "date": "08/24",
-          "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36033",
-          "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36033_29364_031_v150.jpg"
-        },
-        {
-          "title": "사법제도 대전환기… \"국민 기본권 보호 공백 막아야\"",
-          "desc": "있다\"며 \"AI(인공지능)와 신기술의 급격한 도입, 수사기관 재편을 둘러싼 제도적 변혁, 법조인 양성 및 수급... 위에서 기술이 활용되도록 규율의 틀을 세우고 그 방향키를 우리 손으로 잡겠다\"고 말했다. 그러면서 \"변호사는...",
-          "src": "news",
-          "date": "08/24",
-          "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36035",
-          "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36035_29360_2446_v150.jpg"
-        },
-        {
-          "title": "K패션·뷰티 '정품 인증' 국가가 맡는다…위조품은 '실시간 추적'",
-          "desc": "선정 기업에는 정부가 권리자인 국가인증상표 사용을 허용하고 정품인증기술 도입 비용을 기업당 최대 2억... 정부는 이미 AI를 활용해 해외 온라인 플랫폼의 K-브랜드 위조상품을 차단하고 있으며 2025년 약 21만건에서...",
-          "src": "전자신문",
-          "date": "08/24",
-          "url": "http://www.ktnews.com/news/articleView.html?idxno=147913",
-          "img": "http://www.ktnews.com/news/thumbnail/202608/147913_129069_497_v150.jpg"
+          "url": "https://platum.kr/archives/293116",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-76.png"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
     },
     {
-      "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
-      "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
+      "title": "[신문과 놀자!/어린이과학동아 별별과학백과]AI에서 우주산업까지… 반...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742978?sid=110",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134536150.1.png"
     },
     {
-      "title": "[Startup's Story #545] 대시보드는 죽었다",
-      "url": "https://platum.kr/archives/292974",
-      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/DSCF7580_2.jpg"
+      "title": "[기업家] 삼성전자 ⑱ㅣ 특허 30만건 눈앞·엑시노스 경쟁력 부각…110조...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600502",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600502_411804_1329_v150.jpg"
     },
     {
-      "title": "ACP부터 법조인 수급·수사체계 개편까지… 법조계 해법 모색",
-      "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36033",
-      "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36033_29364_031_v150.jpg"
+      "title": "코스맥스-현대홈쇼핑, AI 기반 맞춤형 뷰티 제품 공동 개발 MOU 체결",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206722",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206722_190628_4825_v150.jpg"
     }
   ]
 };
