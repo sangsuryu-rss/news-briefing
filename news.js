@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 12:17",
+  "updatedAt": "2026.08.24 (월) 14:03",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[2026 상반기 업종 분석①] AI 호황 ··· '반도체가 웃었다'",
-          "desc": "반면 스마트폰과 가전 등을 맡는 DX부문은 2분기 매출 48조 원을 기록했지만 8000억 원의 영업손실을 냈다. 프리미엄·AI 제품 판매는 늘었으나 부품 가격과 비용 부담이 수익성을 압박했다. 삼성전자의 상반기...",
-          "src": "datasom",
+          "title": "삼성전자, 히트펌프 보일러 광주서 만든다…연 10만대 생산",
+          "desc": "생산거점으로 선택한 광주사업장은 냉장고와 세탁기, 에어컨 등 삼성전자 주요 가전을 생산해온 곳이다. 삼성전자는 기존 제조 설비와 품질관리 체계를 히트펌프 생산에도 활용한다. EHS 히트펌프 보일러는 공기열과...",
+          "src": "thepowernews",
           "date": "08/24",
-          "url": "https://www.datasom.co.kr/news/articleView.html?idxno=209622",
-          "img": "https://cdn.datasom.co.kr/news/thumbnail/202608/209622_38872_321_v150.jpg"
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202608241358144361de3f0aa1be_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260824135835008920de3f0aa1be175193255143.jpg&nmt=7"
         },
         {
           "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
         },
         {
-          "title": "삼성전자, ‘EHS 히트펌프 보일러’ 해외 생산거점 국내 이전…광주에 ...",
-          "desc": "신규 생산라인이 구축된 삼성전자 광주사업장은 냉장고, 세탁기, 에어컨 등 주요 프리미엄 가전을 생산하며 축적한 제조 기술과 품질관리 노하우를 보유하고 있다. 삼성전자는 광주사업장의 제조 경쟁력을 바탕으로...",
-          "src": "socialvalue",
+          "title": "윕스, 삼전닉스·TSMC 등 글로벌 반도체 기업에 특허 데이터 공급",
+          "desc": "지식재산(IP) 전문기업 윕스는 삼성전자와 SK하이닉스를 비롯해 대만 TSMC, 일본 도쿄일렉트론(TEL), 리소낙... 반도체와 정보기술(IT) 가전, 초정밀 소재 업종은 IP 데이터의 정확도와 시스템 안정성에 대해 까다로운...",
+          "src": "news",
           "date": "08/24",
-          "url": "https://www.socialvalue.kr/news/view/1065579493820708",
-          "img": "http://www.socialvalue.kr/news/data/20260824/p1065579493820708_790_thum.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026082413530724787",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/08/24/2026082413530724787_00_925.jpg"
         },
         {
-          "title": "한중 수교 34년…'반도체 넘어 전방위 융합?'",
-          "desc": "한국 금융감독원 자료에 따르면 삼성전자는 지난해 중국 시안 반도체 공장에 4654억 원을 투자해 전년보다... 중국은 스마트폰과 컴퓨터, 가전제품, 신재생에너지 장비 등을 생산하기 위해 한국에서 석유화학 제품과...",
-          "src": "choicenews",
+          "title": "[삼성 DX, 어디로 下] 다 잘하려 말라⋯ 결국 ‘선택과 집중’이 답",
+          "desc": "삼성전자의 완제품 포트폴리오는 모바일과 TV, 냉장고·세탁기 등 대형가전뿐 아니라 제습기·청소기... 우선이다”며 “삼성도 AI나 로봇 등 미래 산업을 겨냥한 투자로 과감한 포트폴리오 사업 단위의 구조조정이 필요한...",
+          "src": "브릿지경제",
           "date": "08/24",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170344",
-          "img": "https://cdn.choicenews.co.kr/news/thumbnail/202608/170344_130130_3329_v150.jpg"
+          "url": "https://www.viva100.com/article/20260823500521",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/19/.cache/512/20260819501455.png?v=20260824140318"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "KT, 'AX 회사' 전환 내부에서 시작한다…핵심 IT·클라우드·업무체계 전...",
-          "desc": "기술지원이 종료됐거나 종료가 임박한 소프트웨어와 하드웨어를 사전에 점검해 전환함으로써 노후... AI 도입의 효과가 개별 직원의 활용 능력에 따라 달라지는 것을 넘어 조직 차원의 업무 프로세스로 자리...",
-          "src": "koreaittimes",
+          "title": "\"좋은 기술이 곧 좋은 헬스케어 비즈니스는 아니다\"",
+          "desc": "삼성서울병원이 있다고 해서 단순히 계열 병원을 활용하면 된다는 의미는 아니다. 다만 삼성이 헬스케어에서... 바이오기업이 신약 후보물질을 개발할 때 향후 기술을 도입할 제약사가 존재하는지를 보는 것과 비슷하다....",
+          "src": "docdocdoc",
           "date": "08/24",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156357",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202608/156357_105881_931_v150.jpg"
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041969",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041969_3045594_3312_v150.jpg"
         },
         {
-          "title": "\"몸값 최대 2780조\" 앤트로픽 상장 초읽기… SKT 3.5조 지분 '잭폿' 기대",
-          "desc": "대신 네이버는 앤트로픽 기술을 개발 현장에 활용하는 데 초점을 맞추고 있다. 개발 조직 전반에 '클로드 코드'를 도입하고 자체 AI 모델 '하이퍼클로바X'와 외부 모델을 함께 쓰는 멀티모델 전략도 강화하고 있다....",
-          "src": "financialpost",
+          "title": "[금융권 이모저모]NH농협은행, AI스마트패드로 디지털 창구 강화 外",
+          "desc": "금융권이 AI 기반 창구 서비스 도입과 시니어 대상 서비스 출시, 외화·서민금융 상품 확대 등 고객 접점... 과정에서 AI 안면인증 기술을 활용해 고객 본인 여부를 확인한다. 여권을 포함한 모든 규격의 신분증을...",
+          "src": "비즈니스플러스",
           "date": "08/24",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271715",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/271715_351399_836_v150.jpg"
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=115825",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115825_114636_00_v150.jpg"
         },
         {
-          "title": "삼성SDS, 서울대 'AI 네이티브 캠퍼스' 구축 지원…800Gbps 차세대 네트...",
-          "desc": "삼성SDS가 서울대학교의 차세대 네트워크 구축 사업을 맡아 AI 연구·교육을 뒷받침하는 'AI 네이티브 캠퍼스... 활용해 전체 네트워크를 통합 제어하는 기술이다. 보안 강화를 위한 소프트웨어 기반 망분리도 도입한다....",
-          "src": "mediafine",
+          "title": "블럭스 AI CRM, 익스트림 캠페인 운영시간 80% 줄이고 월 1200만원 추가 ...",
+          "desc": "AI 에이전트 도입 이후 단순 세팅 작업 비중은 약 20% 수준으로 낮아졌다. 확보된 시간은 CRM 전략 고도화에 활용됐다. 익스트림은 블럭스 에이전트를 활용해 고객 피로도를 고려한 10여개의 자동화 주기성 캠페인을...",
+          "src": "public25",
           "date": "08/24",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87730",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202608/87730_125618_848.jpg"
+          "url": "https://www.public25.com/news/articleView.html?idxno=53188",
+          "img": "https://cdn.public25.com/news/photo/202608/53188_53160_4629.png"
         },
         {
-          "title": "6월까지 AI 국세행정 로드맵 짠다더니…국세청 지지부진 왜?",
-          "desc": "현재는 빅데이터 기술에 AI 접목해 전화상담 등에 우선 도입하고 활용 가능성을 확인했으나 인프라와 전문인력 부족으로 본격적 확대에는 한계가 있다는 입장입니다. 국세청 AI 시스템 구축 사업은 현재...",
-          "src": "biz",
+          "title": "\"고립청년·위기 소상공인 지원 2배\"…서울 약자동행지수 '100→150.7'",
+          "desc": "지수 도입 이후 처음이다. 다만 사회통합 분야는 2년 연속 하락한 뒤 반등했지만, 아직 기준연도인... 서울시는 고립·은둔청년과 고독사 위험가구를 조기에 발굴하는 인적 돌봄망에 AI·IoT 등 스마트 기술을...",
+          "src": "뉴스1",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/374/0000528985?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2022/09/20/OOD1663651853904-850.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009129253?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/24/8069321/high.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성전자, 'EHS 히트펌프 보일러' 국내생산 개시...9월말 양산 본격화",
+          "desc": "것은 삼성전자가 처음이다. 또한 부품 생산·제조 비중도 늘려 협력사 동반성장과 지역 경제 활성화에도 기여할 방침이다. 새 생산라인에서는 연간 10만대 넘게 'EHS 히트펌프 보일러'를 생산할 수 있고 이들 히트펌프...",
+          "src": "womentimes",
+          "date": "08/24",
+          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=105532",
+          "img": "https://cdn.womentimes.co.kr/news/photo/202608/105532_206665_5258.jpg"
+        },
         {
           "title": "삼성전자, 푸토성 지도부 찾아 글로벌 공급망 참여 확대 방안 논의",
           "desc": "이에 안 부국장은 \"현재 푸토성 내에 전자 분야 부품·소재 기업 약 500개사가 가동 중이며 이 가운데 45개사가 1차 협력사, 80여 개사가 2차 협력사로 삼성 공급망에 참여하고 있다\"고 설명했다. 또 삼성이 그동안 베트남 내...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/24",
           "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705291",
           "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202608/705291_752077_2940_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 'EHS 히트펌프 보일러' 첫 국내 생산…리쇼어링 단행",
-          "desc": "냉장고, 세탁기, 에어컨 등 삼성전자의 프리미엄 가전을 생산하며 축적한 광주사업장의 고도화된 제조 경쟁력과 품질 관리 노하우를 접목해, 완제품뿐만 아니라 핵심 부품의 국내 투입 비중을 높여 지역 협력사와의...",
-          "src": "wikileaks-kr",
-          "date": "08/24",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191241",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191241_205475_1035_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[2026 상반기 업종 분석①] AI 호황 ··· '반도체가 웃었다'",
-      "url": "https://www.datasom.co.kr/news/articleView.html?idxno=209622",
-      "img": "https://cdn.datasom.co.kr/news/thumbnail/202608/209622_38872_321_v150.jpg"
+      "title": "삼성전자, 히트펌프 보일러 광주서 만든다…연 10만대 생산",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202608241358144361de3f0aa1be_7",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260824135835008920de3f0aa1be175193255143.jpg&nmt=7"
     },
     {
       "title": "밥솥 회사가 머리 말리고 정수기 회사는 요실금 완화... 가전업계 ‘본...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.chosun.com/resizer/v2/6M37IMKWRFFE7CTL5YPAKLFDAQ.jpg?auth=17b7bbc4c7036ba5b40b664edeb21b22b30c07f8ec337462d32fc5c539d57fa1&width=700&height=367&smart=true"
     },
     {
-      "title": "삼성전자, ‘EHS 히트펌프 보일러’ 해외 생산거점 국내 이전…광주에 ...",
-      "url": "https://www.socialvalue.kr/news/view/1065579493820708",
-      "img": "http://www.socialvalue.kr/news/data/20260824/p1065579493820708_790_thum.jpg"
+      "title": "윕스, 삼전닉스·TSMC 등 글로벌 반도체 기업에 특허 데이터 공급",
+      "url": "https://news.mtn.co.kr/news-detail/2026082413530724787",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/08/24/2026082413530724787_00_925.jpg"
     },
     {
-      "title": "한중 수교 34년…'반도체 넘어 전방위 융합?'",
-      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170344",
-      "img": "https://cdn.choicenews.co.kr/news/thumbnail/202608/170344_130130_3329_v150.jpg"
+      "title": "[삼성 DX, 어디로 下] 다 잘하려 말라⋯ 결국 ‘선택과 집중’이 답",
+      "url": "https://www.viva100.com/article/20260823500521",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/19/.cache/512/20260819501455.png?v=20260824140318"
     },
     {
-      "title": "KT, 'AX 회사' 전환 내부에서 시작한다…핵심 IT·클라우드·업무체계 전...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156357",
-      "img": "https://www.koreaittimes.com/news/thumbnail/202608/156357_105881_931_v150.jpg"
+      "title": "\"좋은 기술이 곧 좋은 헬스케어 비즈니스는 아니다\"",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041969",
+      "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202608/3041969_3045594_3312_v150.jpg"
     },
     {
-      "title": "\"몸값 최대 2780조\" 앤트로픽 상장 초읽기… SKT 3.5조 지분 '잭폿' 기대",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271715",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/271715_351399_836_v150.jpg"
+      "title": "[금융권 이모저모]NH농협은행, AI스마트패드로 디지털 창구 강화 外",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115825",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202608/115825_114636_00_v150.jpg"
     }
   ]
 };
