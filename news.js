@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 19:55",
+  "updatedAt": "2026.08.24 (월) 22:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "초고음질에 UX 굿… '갤버즈4 프로' 글로벌 인증",
-          "desc": "삼성전자가 구현한 오디오 기술력과 사용자경험(UX) 등 제품 완성도를 인정받았다는 평가다. 24일 업계에 따르면 1982년 시작된 EISA 어워드는 글로벌 소비자 가전 업계에서 높은 공신력을 인정받는 어워드 중 하나다....",
-          "src": "파이낸셜뉴스",
+          "title": "삼성전자, 'EHS 히트펌프 보일러' 생산라인 가동",
+          "desc": "탄소 배출 저감을 위한 난방 에너지 전환 흐름에 맞춰 삼성전자가 국내 생산 거점을 중심으로 친환경 공조... 국내 주요 가전 제조사 가운데 해외 생산 기지에 의존하던 히트펌프 공조 설비를 국내로 되돌려 전용 라인을...",
+          "src": "ttlnews",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/014/0005565674?sid=105",
-          "img": "https://image.fnnews.com/resource/media/image/2026/08/24/202608241835361706_l.jpg"
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136440",
+          "img": "https://cdn.ttlnews.com/news/photo/202608/3136440_745952_825.jpg"
         },
         {
           "title": "태국 전기기기 시장동향",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
+          "title": "삼성전자, EHS 히트펌프 생산 시설 국내로…‘난방 전기화’ 속도",
+          "desc": "광주사업장은 냉장고, 세탁기, 에어컨 등 삼성전자의 주요 프리미엄 가전을 생산하고 있다. 삼성전자는 이 사업장에 최근 약 2400억원을 투자해 지난해 독일에서 인수한 공조전문 자회사 플랙트그룹의 생산라인도...",
+          "src": "khan",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466131?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
+        },
+        {
           "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
           "desc": "위한 로봇(Robotics for ALL)'이라는 브랜드 철학을 바탕으로 기술 혁신을 이어가고 있으며, 현재 전 세계 170개 이상의 시장에서 약 2,800만 가구에 스마트 클리닝 솔루션을 제공하고 있다. ◇ 삼성전자, 'EHS 히트펌프 보일러...",
           "src": "ibabynews",
           "date": "08/24",
           "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
           "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
-        },
-        {
-          "title": "900개 中기업 몰려드는 'IFA 2026'..삼성·LG 전시 전략은?",
-          "desc": "삼성전자와 LG전자는 서로 다른 전시 방식으로 유럽 시장 공략에 나선다. 전체 참가 기업의 절반에... LG전자는 기존 냉장고에 먼저 적용했던 '핏앤맥스(Fit&Max)' 솔루션을 세탁기와 건조기, 식기세척기로 확대한다....",
-          "src": "머니투데이",
-          "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/008/0005403958?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082415451249060_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한국앤컴퍼니그룹, 계열사 혁신회의 개최…AI 전환으로 제조 경쟁력 높...",
-          "desc": "단순히 AI 기술을 도입하는 데 그치지 않고 실제 사업 성과로 연결하는 데도 초점을 맞췄다. 그룹은 업무와 사업 현장에서 활용할 수 있는 AI 운영체계를 구축하고 투자 대비 효과를 지속적으로 검증해 그룹에 최적화된 AI...",
-          "src": "팝콘뉴스",
+          "title": "[Startup's Story #545] 대시보드는 죽었다",
+          "desc": "오히려 AI 도입으로 사람의 실수를 잡아낸 경우도 있었다. 없는 랜딩 페이지에 몇 달간 광고가 집행되고 있었는데 대행사도 광고주도 몰랐던 것을, AI로 점검하다가 발견했다는 사례다. 리스크는 기술이 아니라 책임의...",
+          "src": "platum",
           "date": "08/24",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=130628",
-          "img": "https://cdn.popcornnews.net/news/thumbnail/202608/130628_155742_4637_v150.jpg"
+          "url": "https://platum.kr/archives/292974",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/DSCF7580_2.jpg"
         },
         {
-          "title": "[8월 24일 병원계 이모저모①] 국립암센터, 국립중앙의료원, 서남병원, ...",
-          "desc": "두 번째 세션에서는 ‘암 관리에서 데이터와 AI의 역할’을 주제로 국가별 암 데이터와 인공지능 활용... 필립스코리아는 스펙트럴 CT 7500과 AI 기반 영상 재구성 기술 '프리사이즈'가 탑재된 CT 5300을 도입해 운영 중인...",
-          "src": "medicalworldnews",
+          "title": "ACP부터 법조인 수급·수사체계 개편까지… 법조계 해법 모색",
+          "desc": "이 변호사는 변호사 비밀유지권을 도입한 이번 변호사법 개정안에 대해 \"개정 변호사법이 내년 2월 20일... 그는 \"검색증강생성(RAG) 기술 등을 활용한 맞춤형 법률 AI가 저연차 변호사의 리서치와 서면 초안 작성 업무를...",
+          "src": "news",
           "date": "08/24",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976785",
-          "img": ""
+          "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36033",
+          "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36033_29364_031_v150.jpg"
         },
         {
-          "title": "최고 대신 가성비… 눈덩이 사용료에 AI 성능경쟁 제동 걸리나",
-          "desc": "기존 AI 도입 기업들은 AI 개발사가 제시하는 여러 모델 중 가장 성능이 우수한 모델을 채택하곤 했다. 기술... 모델을 활용할 필요가 없다\"며 \"고객들이 첨단 모델만 선택하던 시기는 지속 가능한 것이 아니었다\"고...",
-          "src": "디지털타임스",
+          "title": "사법제도 대전환기… \"국민 기본권 보호 공백 막아야\"",
+          "desc": "있다\"며 \"AI(인공지능)와 신기술의 급격한 도입, 수사기관 재편을 둘러싼 제도적 변혁, 법조인 양성 및 수급... 위에서 기술이 활용되도록 규율의 틀을 세우고 그 방향키를 우리 손으로 잡겠다\"고 말했다. 그러면서 \"변호사는...",
+          "src": "news",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044034?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/24/rcv.YNA.20260815.PRU20260815132701009_R.jpg"
+          "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36035",
+          "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36035_29360_2446_v150.jpg"
         },
         {
-          "title": "\"부상·트라우마 딛고 일터로\" 공무원연금공단, 공상공무원 재활·적응...",
-          "desc": "집중하며 △'직무전환형'은 AI 도구 활용법과 공문서 작성법 등 새로운 보직에서 요구되는 실무 기술을... 올해 처음 도입된 이번 사업은 부상이나 트라우마로 종전 직무를 이어가기 어려워 보직 전환이 필요하거나 일선...",
-          "src": "cstimes",
+          "title": "K패션·뷰티 '정품 인증' 국가가 맡는다…위조품은 '실시간 추적'",
+          "desc": "선정 기업에는 정부가 권리자인 국가인증상표 사용을 허용하고 정품인증기술 도입 비용을 기업당 최대 2억... 정부는 이미 AI를 활용해 해외 온라인 플랫폼의 K-브랜드 위조상품을 차단하고 있으며 2025년 약 21만건에서...",
+          "src": "전자신문",
           "date": "08/24",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=717820",
-          "img": "https://www.cstimes.com/news/photo/202608/717820_638332_2456.jpg"
+          "url": "http://www.ktnews.com/news/articleView.html?idxno=147913",
+          "img": "http://www.ktnews.com/news/thumbnail/202608/147913_129069_497_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "초고음질에 UX 굿… '갤버즈4 프로' 글로벌 인증",
-      "url": "https://n.news.naver.com/mnews/article/014/0005565674?sid=105",
-      "img": "https://image.fnnews.com/resource/media/image/2026/08/24/202608241835361706_l.jpg"
+      "title": "삼성전자, 'EHS 히트펌프 보일러' 생산라인 가동",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136440",
+      "img": "https://cdn.ttlnews.com/news/photo/202608/3136440_745952_825.jpg"
     },
     {
       "title": "태국 전기기기 시장동향",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     },
     {
+      "title": "삼성전자, EHS 히트펌프 생산 시설 국내로…‘난방 전기화’ 속도",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466131?sid=101",
+      "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
+    },
+    {
       "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
       "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
       "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
     },
     {
-      "title": "900개 中기업 몰려드는 'IFA 2026'..삼성·LG 전시 전략은?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403958?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082415451249060_1.jpg"
+      "title": "[Startup's Story #545] 대시보드는 죽었다",
+      "url": "https://platum.kr/archives/292974",
+      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/DSCF7580_2.jpg"
     },
     {
-      "title": "한국앤컴퍼니그룹, 계열사 혁신회의 개최…AI 전환으로 제조 경쟁력 높...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=130628",
-      "img": "https://cdn.popcornnews.net/news/thumbnail/202608/130628_155742_4637_v150.jpg"
-    },
-    {
-      "title": "최고 대신 가성비… 눈덩이 사용료에 AI 성능경쟁 제동 걸리나",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044034?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/24/rcv.YNA.20260815.PRU20260815132701009_R.jpg"
+      "title": "ACP부터 법조인 수급·수사체계 개편까지… 법조계 해법 모색",
+      "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36033",
+      "img": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202608/36033_29364_031_v150.jpg"
     }
   ]
 };
