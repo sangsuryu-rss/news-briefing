@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.24 (월) 18:06",
+  "updatedAt": "2026.08.24 (월) 19:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "초고음질에 UX 굿… '갤버즈4 프로' 글로벌 인증",
+          "desc": "삼성전자가 구현한 오디오 기술력과 사용자경험(UX) 등 제품 완성도를 인정받았다는 평가다. 24일 업계에 따르면 1982년 시작된 EISA 어워드는 글로벌 소비자 가전 업계에서 높은 공신력을 인정받는 어워드 중 하나다....",
+          "src": "파이낸셜뉴스",
+          "date": "08/24",
+          "url": "https://n.news.naver.com/mnews/article/014/0005565674?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/08/24/202608241835361706_l.jpg"
+        },
+        {
           "title": "태국 전기기기 시장동향",
-          "desc": "태국 시장에서는 Samsung, Apple, Xiaomi, Oppo, LG, Lenovo 등 글로벌 기업들이 스마트폰, PC, TV, 웨어러블 기기, 생활가전 및 주변기기 등 다양한 제품을 공급하고 있다. 삼성전자는 스마트폰, TV, 웨어러블...",
+          "desc": "13.)] 경쟁동향 태국 소비자 전기기기 시장은 삼성전자와 Apple 등 글로벌 브랜드가 높은... TV, 로봇청소기·공기청정기 등 스마트홈 제품 홈페이지 https://www.mi.com/th/ 4. POSSEFY GROUP COMPANY LIMITED (Thai...",
           "src": "dream",
           "date": "08/24",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243601",
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
-        },
-        {
-          "title": "[이로운주목] 35년 상조 넘어 '인생 전반'으로…보람그룹이 그리는 라이...",
-          "desc": "가전과 상조를 결합하는 시도도 시작했다. 삼성전자와 협업해 전국 삼성스토어와 모바일스토어에서 가입할 수 있는 상조 제휴상품 'B&케어팩'을 선보였다. AI 가전이나 갤럭시 스마트폰 등을 구매·구독하는 소비자가...",
-          "src": "이로운넷",
-          "date": "08/24",
-          "url": "https://www.eroun.net/news/articleView.html?idxno=88241",
-          "img": "https://cdn.eroun.net/news/thumbnail/202608/88241_144843_4815_v150.jpg"
         },
         {
           "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "충남형 돌봄 AI 선행 모델 구축… 아산시 '스마트 존엄 케어' 산업 추진",
-          "desc": "이같은 축적 자료는 간병 급여화 시행을 앞둔, '충남지역 돌봄 AI 모델 개발의 기초 데이터'로 활용케 된다. 이는 모바일 인터 페이스를 통해 보호자에게 실시간 돌봄 현황을 공유하는 소통형 서비스가 도입되고, 환자의...",
-          "src": "jbnews",
+          "title": "한국앤컴퍼니그룹, 계열사 혁신회의 개최…AI 전환으로 제조 경쟁력 높...",
+          "desc": "단순히 AI 기술을 도입하는 데 그치지 않고 실제 사업 성과로 연결하는 데도 초점을 맞췄다. 그룹은 업무와 사업 현장에서 활용할 수 있는 AI 운영체계를 구축하고 투자 대비 효과를 지속적으로 검증해 그룹에 최적화된 AI...",
+          "src": "팝콘뉴스",
           "date": "08/24",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1510028",
-          "img": "https://cdn.jbnews.com/news/thumbnail/202608/1510028_1363086_0006_v150.jpg"
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=130628",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202608/130628_155742_4637_v150.jpg"
         },
         {
-          "title": "NH농협은행, 창구 본인확인에 AI 넣는다…100개 영업점서 안면인증 시작",
-          "desc": "특히 실명 확인이 필요한 대면 금융거래에서 AI 안면인증 기술을 이용해 고객의 본인 여부를 검증하도록... AI 활용 무게중심, 편의성에서 '금융보안'으로 확대 이번 시범 도입에서 눈에 띄는 부분은 AI의 적용 영역이다....",
-          "src": "koreaittimes",
+          "title": "[8월 24일 병원계 이모저모①] 국립암센터, 국립중앙의료원, 서남병원, ...",
+          "desc": "두 번째 세션에서는 ‘암 관리에서 데이터와 AI의 역할’을 주제로 국가별 암 데이터와 인공지능 활용... 필립스코리아는 스펙트럴 CT 7500과 AI 기반 영상 재구성 기술 '프리사이즈'가 탑재된 CT 5300을 도입해 운영 중인...",
+          "src": "medicalworldnews",
           "date": "08/24",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156367",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202608/156367_105891_589_v150.jpg"
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976785",
+          "img": ""
         },
         {
-          "title": "게임 개발 AI 전환…대형사 넘어 중소·인디까지 확산하나",
-          "desc": "국내 게임업계에 AI 활용이 빠르게 퍼지는 모습입니다. 넥슨, 엔씨 등 대형 게임사들이 자체 AI 기술을... 대형 게임사를 넘어 중소·인디 개발사까지 AI 도입 움직임이 이어지면서, 향후 AI를 활용한 게임 제작이...",
-          "src": "서울경제TV",
+          "title": "최고 대신 가성비… 눈덩이 사용료에 AI 성능경쟁 제동 걸리나",
+          "desc": "기존 AI 도입 기업들은 AI 개발사가 제시하는 여러 모델 중 가장 성능이 우수한 모델을 채택하곤 했다. 기술... 모델을 활용할 필요가 없다\"며 \"고객들이 첨단 모델만 선택하던 시기는 지속 가능한 것이 아니었다\"고...",
+          "src": "디지털타임스",
           "date": "08/24",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608240098",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/08/24/sentv20260824000187.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003044034?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/24/rcv.YNA.20260815.PRU20260815132701009_R.jpg"
         },
         {
-          "title": "인터넷 원조 '야후', Z세대 공략… AI 검색으로 재도약",
-          "desc": "스카우트는 공개 웹 정보뿐 아니라 야후가 보유한 콘텐츠 아카이브와 사용자 데이터, 30년간 축적한 검색 기록을 함께 활용한다. AI 기업으로부터 도입한 기술도 적용한다. 랜존 CEO는 \"우리는 인터넷 전체를 그대로...",
-          "src": "조선일보",
+          "title": "\"부상·트라우마 딛고 일터로\" 공무원연금공단, 공상공무원 재활·적응...",
+          "desc": "집중하며 △'직무전환형'은 AI 도구 활용법과 공문서 작성법 등 새로운 보직에서 요구되는 실무 기술을... 올해 처음 도입된 이번 사업은 부상이나 트라우마로 종전 직무를 이어가기 어려워 보직 전환이 필요하거나 일선...",
+          "src": "cstimes",
           "date": "08/24",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168735",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168735_450835_5545_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=717820",
+          "img": "https://www.cstimes.com/news/photo/202608/717820_638332_2456.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "구미산단 7월 수출 2배 증가... 베트남에 핵심전자부품 공급 급증",
+          "desc": "하반기 글로벌 플래그십 스마트폰 출시를 앞두고 부품 양산이 본격화됐으며, 7월 수출 급증은 삼성전자와 협력사들의 해외 완제품 조립 거점이 위치한 베트남으로의 중간재 부품(카메라 모듈, 모바일 기판 등)...",
+          "src": "weeklytrade",
+          "date": "08/24",
+          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=101137",
+          "img": "https://weeklytrade.co.kr/PEG/17875622948966.jpg"
+        },
         {
           "title": "화석연료 대체 나선 삼성전자…광주서 친환경 히트펌프 첫 생산",
           "desc": "삼성전자는 완제품 제조뿐 아니라 핵심 부품과 공정 전반의 국내 조달 비중을 확대해 협력사와의 동반성장 및 지역 경제 활성화를 도모할 계획이다. 프리미엄 가전 생산 거점인 광주사업장의 제조 경쟁력을 활용해...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/24",
           "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859034",
           "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859034_880460_348_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 히트펌프 생산라인 광주로…年 10만대 국내 공급",
-          "desc": "연간 10만대 이상의 생산능력을 갖추고 전량을 국내 시장에 공급할 예정으로, 국내 협력사 참여 확대와 함께... 특히 삼성전자는 완제품 생산뿐 아니라 핵심 부품과 주요 제조공정의 국내 비중도 단계적으로 확대할...",
-          "src": "namdonews",
-          "date": "08/24",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=920907",
-          "img": "https://cdn.namdonews.com/news/photo/202608/920907_625737_4643.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "초고음질에 UX 굿… '갤버즈4 프로' 글로벌 인증",
+      "url": "https://n.news.naver.com/mnews/article/014/0005565674?sid=105",
+      "img": "https://image.fnnews.com/resource/media/image/2026/08/24/202608241835361706_l.jpg"
+    },
+    {
       "title": "태국 전기기기 시장동향",
       "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243601",
       "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
-    },
-    {
-      "title": "[이로운주목] 35년 상조 넘어 '인생 전반'으로…보람그룹이 그리는 라이...",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=88241",
-      "img": "https://cdn.eroun.net/news/thumbnail/202608/88241_144843_4815_v150.jpg"
     },
     {
       "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082415451249060_1.jpg"
     },
     {
-      "title": "충남형 돌봄 AI 선행 모델 구축… 아산시 '스마트 존엄 케어' 산업 추진",
-      "url": "https://www.jbnews.com/news/articleView.html?idxno=1510028",
-      "img": "https://cdn.jbnews.com/news/thumbnail/202608/1510028_1363086_0006_v150.jpg"
+      "title": "한국앤컴퍼니그룹, 계열사 혁신회의 개최…AI 전환으로 제조 경쟁력 높...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=130628",
+      "img": "https://cdn.popcornnews.net/news/thumbnail/202608/130628_155742_4637_v150.jpg"
     },
     {
-      "title": "NH농협은행, 창구 본인확인에 AI 넣는다…100개 영업점서 안면인증 시작",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156367",
-      "img": "https://www.koreaittimes.com/news/thumbnail/202608/156367_105891_589_v150.jpg"
+      "title": "최고 대신 가성비… 눈덩이 사용료에 AI 성능경쟁 제동 걸리나",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044034?sid=105",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/24/rcv.YNA.20260815.PRU20260815132701009_R.jpg"
     }
   ]
 };
