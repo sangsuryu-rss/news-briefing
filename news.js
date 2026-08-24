@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 04:01",
+  "updatedAt": "2026.08.25 (화) 05:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "中, 'AI 플러스' 가속에 일자리 충격… 청년층 창업으로 활로 모색",
-          "desc": "그러나 기술 확산은 신규 고용 축소로 이어지고 있다. 현지 매체 집계에 따르면 2026년 1분기 모바일용 실사 숏폼 드라마 제작 편수는 생성형 AI 도입 여파로 전년 동기 대비 약 75% 급감했다. 국제노동기구(ILO)는 전자제품...",
-          "src": "g-enews",
+          "title": "내년 예산 첫 '800조+α' 시대…AI·청년·지방에 집중 투자",
+          "desc": "(SEED)에도 기술개발부터 인재 양성, 실증·사업화까지 전 주기에 재정을 투입한다. 단순 보조금 지급은... 지급하는 '우리아이자립펀드' 도입도 검토 중이다. 교육 분야에서는 미래대응기금의 교육·인재계정을 활용해...",
+          "src": "뉴스1",
           "date": "08/25",
-          "url": "https://www.g-enews.com/view.php?ud=20260824170941635fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082417222802196fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009130162?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/24/8068835/high.jpg"
         },
         {
-          "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
-          "desc": "AI 플랫폼인 'AI:NU'와 업무별 AI 에이전트 구축 사례를 공개했다. 이 부총장은 AI를 단순 도구로 활용하는... 이준한 기획부총장은 \"AI 시대 대학의 경쟁력은 단일 기술 도입 수보다 실제 대학의 문제를 해결하고 이를...",
-          "src": "dongponews",
+          "title": "두나무, 서울중기청·소진공과 손잡고 전통시장 디지털 혁신 지원",
+          "desc": "그는 \"경영에서 디지털·AI 기술의 도입과 활용이 불가피한 핵심 요소로 자리 잡은 만큼, 이를 얼마나 잘 활용하느냐가 전통시장과 소상공인의 자생력과 경쟁력을 결정할 수 있다\"며 \"이번 협약을 계기로 기술 도입 과정에서...",
+          "src": "khgames",
           "date": "08/25",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=60057",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202608/60057_216041_3219_v150.jpg"
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307653",
+          "img": "https://cdn.khgames.co.kr/news/photo/202608/307653_313777_385.jpg"
         },
         {
-          "title": "톰슨로이터, 큐원 기반 법률 LLM ‘톰슨’ 출시…자평과 달리 벤치마크...",
-          "desc": "학습에 활용한 상태다. 우선 법률 AI 플랫폼 코카운슬(CoCounsel) 리걸의 표 분석(Tabular Analysis) 기능에... 최고기술책임자(CTO) 조엘 흐론(Joel Hron)은 “오픈소스 출발점을 이미 거의 여섯 번 가까이 바꿨다”고 말했다....",
-          "src": "wikitree",
+          "title": "규제 아니라는데 기업은 어떻게 지키나…AI 윤리원칙 다음 과제는",
+          "desc": "정부는 새로운 규제가 아니라 AI 개발·활용 과정에서 자율적으로 참고할 가이드라는 입장이다. 산업계에서는... 25일 정보통신기술(ICT) 업계에 따르면 과학기술정보통신부와 정보통신정책연구원(KISDI)은 전날 제12회...",
+          "src": "뉴스1",
           "date": "08/25",
-          "url": "https://www.wikitree.co.kr/articles/1154614",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250021309957_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009130156?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/24/8069827/high.jpg"
         },
         {
-          "title": "렉시스넥시스, 렉시스+ 프로테제에 “판단하는 AI 하네스” 얹어 목표만...",
-          "desc": "추가로 활용된다. 법률 검색과 웹 검색도 하나로 통합돼 웹 검색 결과로 나온 인용까지 시스템이 검증한다.최고경영자 숀 피츠패트릭(Sean Fitzpatrick)은 “법률 전문가가 AI를 관리하거나 여러 도구를 오가거나 원하는...",
-          "src": "wikitree",
+          "title": "KHF 2026서 드러난 대웅의 '디지털굴기'…동반성장 숙제",
+          "desc": "메디컬에이아이는 갤럭시워치 심전도 센서를 활용한 AI ECG 분석으로 심장질환을 선별한다. 대웅제약은 지난해 이 회사에 투자를 단행한 바 있다. 엑소시스템즈는 움직임 속 기능적 이상을 잡아내는 'Dynamic EMG' 기술로...",
+          "src": "medicaltimes",
           "date": "08/25",
-          "url": "https://www.wikitree.co.kr/articles/1154612",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250014129753_ai.jpeg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170333&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20260821/1787309935.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
     },
     {
-      "title": "中, 'AI 플러스' 가속에 일자리 충격… 청년층 창업으로 활로 모색",
-      "url": "https://www.g-enews.com/view.php?ud=20260824170941635fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082417222802196fbbec65dfb211211153121.jpg"
+      "title": "내년 예산 첫 '800조+α' 시대…AI·청년·지방에 집중 투자",
+      "url": "https://n.news.naver.com/mnews/article/421/0009130162?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/24/8068835/high.jpg"
     },
     {
-      "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=60057",
-      "img": "https://cdn.dongponews.net/news/thumbnail/202608/60057_216041_3219_v150.jpg"
+      "title": "두나무, 서울중기청·소진공과 손잡고 전통시장 디지털 혁신 지원",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307653",
+      "img": "https://cdn.khgames.co.kr/news/photo/202608/307653_313777_385.jpg"
     }
   ]
 };
