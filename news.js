@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 00:02",
+  "updatedAt": "2026.08.25 (화) 01:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 'EHS 히트펌프 보일러' 생산라인 가동",
-          "desc": "탄소 배출 저감을 위한 난방 에너지 전환 흐름에 맞춰 삼성전자가 국내 생산 거점을 중심으로 친환경 공조... 국내 주요 가전 제조사 가운데 해외 생산 기지에 의존하던 히트펌프 공조 설비를 국내로 되돌려 전용 라인을...",
-          "src": "ttlnews",
-          "date": "08/24",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136440",
-          "img": "https://cdn.ttlnews.com/news/photo/202608/3136440_745952_825.jpg"
+          "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
+          "desc": "삼성전자는 무선 이어폰 ‘갤럭시 버즈4 프로’가 영상음향전문가협회(EISA)가 주관하는 ‘EISA 어워드... 1982년 시작된 EISA 어워드는 전 세계 25개국 테크 전문가들이 가전 제품의 성능과 혁신성을 평가해...",
+          "src": "동아일보",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
+          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
         },
         {
           "title": "태국 전기기기 시장동향",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
-          "title": "삼성전자, EHS 히트펌프 생산 시설 국내로…‘난방 전기화’ 속도",
-          "desc": "광주사업장은 냉장고, 세탁기, 에어컨 등 삼성전자의 주요 프리미엄 가전을 생산하고 있다. 삼성전자는 이 사업장에 최근 약 2400억원을 투자해 지난해 독일에서 인수한 공조전문 자회사 플랙트그룹의 생산라인도...",
-          "src": "khan",
-          "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466131?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
+          "title": "삼성전자, EHS 히트펌프 보일러 국내 생산… 정부 ‘난방 전기화’ 동참",
+          "desc": "삼성전자는 냉장고, 세탁기, 에어컨 등 프리미엄 가전을 생산하며 축적한 광주사업장 제조 경쟁력을 바탕으로 국내 난방 전기화 보급 확대와 히트펌프 대중화에 나설 계획이다. 이와 함께 개발·제조·품질 간 연계를...",
+          "src": "동아일보",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743005?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134536445.1.jpg"
         },
         {
-          "title": "[신문과 놀자!/어린이과학동아 별별과학백과]AI에서 우주산업까지… 반...",
-          "desc": "반도체는 자동차, 냉장고, 신호등, 비데 등 생활 곳곳에 사용되는 특별한 조각입니다. 이렇게 반도체가 널리... ● 작은 반도체, 거대한 생태계 최근 뉴스에 자주 나오는 삼성전자와 SK하이닉스는 한국을 대표하는 반도체...",
-          "src": "동아일보",
+          "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
+          "desc": "위한 로봇(Robotics for ALL)'이라는 브랜드 철학을 바탕으로 기술 혁신을 이어가고 있으며, 현재 전 세계 170개 이상의 시장에서 약 2,800만 가구에 스마트 클리닝 솔루션을 제공하고 있다. ◇ 삼성전자, 'EHS 히트펌프 보일러...",
+          "src": "ibabynews",
           "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/020/0003742978?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134536150.1.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
+          "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기업家] 삼성전자 ⑱ㅣ 특허 30만건 눈앞·엑시노스 경쟁력 부각…110조...",
-          "desc": "이재용 삼성전자 회장은 2022년 10월 회장 취임을 앞두고 \"세상에 없는 기술에 투자해야 한다. 미래... 삼성전자는 2016년부터 FCF의 50%를 주주환원 재원으로 활용하는 정책을 도입했다. 2017년부터는 분기 배당을...",
-          "src": "cbci",
+          "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
+          "desc": "AI 플랫폼인 'AI:NU'와 업무별 AI 에이전트 구축 사례를 공개했다. 이 부총장은 AI를 단순 도구로 활용하는... 이준한 기획부총장은 \"AI 시대 대학의 경쟁력은 단일 기술 도입 수보다 실제 대학의 문제를 해결하고 이를...",
+          "src": "dongponews",
           "date": "08/25",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600502",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600502_411804_1329_v150.jpg"
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=60057",
+          "img": "https://cdn.dongponews.net/news/thumbnail/202608/60057_216041_3219_v150.jpg"
         },
         {
-          "title": "코스맥스-현대홈쇼핑, AI 기반 맞춤형 뷰티 제품 공동 개발 MOU 체결",
-          "desc": "단계적으로 도입할 계획이다. 코스맥스는 지난 3년간 200만건 이상의 맞춤형 화장품 관련 문진 데이터를... 처방 기술 개발에 활용한다는 계획이다. 코스맥스는 맞춤형 화장품 사업의 해외 진출도 추진하고 있다. 지난 7월...",
-          "src": "thefirstmedia",
-          "date": "08/24",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206722",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206722_190628_4825_v150.jpg"
+          "title": "톰슨로이터, 큐원 기반 법률 LLM ‘톰슨’ 출시…자평과 달리 벤치마크...",
+          "desc": "학습에 활용한 상태다. 우선 법률 AI 플랫폼 코카운슬(CoCounsel) 리걸의 표 분석(Tabular Analysis) 기능에... 최고기술책임자(CTO) 조엘 흐론(Joel Hron)은 “오픈소스 출발점을 이미 거의 여섯 번 가까이 바꿨다”고 말했다....",
+          "src": "wikitree",
+          "date": "08/25",
+          "url": "https://www.wikitree.co.kr/articles/1154614",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250021309957_ai.jpeg"
         },
         {
-          "title": "팔란티어의 저주가 현실로?…위협받는 앤트로픽 [박신영의 개장전 요것...",
-          "desc": "작업에 따라 가장 적합한 모델을 자동으로 선택하는 ‘모델 라우터’의 도입도 늘고 있습니다. 모델... 엔비디아는 풀사이드의 기술과 인력을 활용해 앞으로 1년 안에 미국과 중국의 최고 수준 AI 모델에 맞설 수 있는...",
-          "src": "한국경제",
-          "date": "08/24",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324226?sid=104",
-          "img": "https://img.hankyung.com/photo/202608/01.45437223.1.jpg"
+          "title": "렉시스넥시스, 렉시스+ 프로테제에 “판단하는 AI 하네스” 얹어 목표만...",
+          "desc": "추가로 활용된다. 법률 검색과 웹 검색도 하나로 통합돼 웹 검색 결과로 나온 인용까지 시스템이 검증한다.최고경영자 숀 피츠패트릭(Sean Fitzpatrick)은 “법률 전문가가 AI를 관리하거나 여러 도구를 오가거나 원하는...",
+          "src": "wikitree",
+          "date": "08/25",
+          "url": "https://www.wikitree.co.kr/articles/1154612",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250014129753_ai.jpeg"
         },
         {
-          "title": "[Startup's Story #546] 콘텐츠는 AI가 만든다, 그 다음은 누가 하나",
-          "desc": "AI 도입률은 높은데 정작 마케터는 별도 시스템 없이 챗봇에 곧바로 물어 쓰는 식이었다. 그래서 처음 만든... 적극 활용한 것이 전부였다. 별도 광고는 수출바우처로 집행한 2천만 원가량이 전부다. 그런데도 사용자가...",
-          "src": "platum",
-          "date": "08/24",
-          "url": "https://platum.kr/archives/293116",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/image-76.png"
+          "title": "챗GPT는 교실로, 인스타는 법정행… 10대 타깃 빅테크 명암",
+          "desc": "10대 청소년을 둘러싼 글로벌 정보기술(IT) 및 규제 흐름이 인공지능(AI)과 소셜미디어(SNS)라는 두 축을... 10대 청소년들 사이에서 AI를 활용한 학습은 이미 일상화됐다. 미국 여론조사업체 퓨리서치센터가 지난해 가을...",
+          "src": "kmib",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868724?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0825/01100201.20260824502025.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 'EHS 히트펌프 보일러' 생산라인 가동",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3136440",
-      "img": "https://cdn.ttlnews.com/news/photo/202608/3136440_745952_825.jpg"
+      "title": "음향 전문가 홀린 갤버즈4 프로… ‘EISA 어워드’서 최고제품 선정",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743011?sid=101",
+      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
     },
     {
       "title": "태국 전기기기 시장동향",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     },
     {
-      "title": "삼성전자, EHS 히트펌프 생산 시설 국내로…‘난방 전기화’ 속도",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466131?sid=101",
-      "img": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000665900069281.jpg"
+      "title": "삼성전자, EHS 히트펌프 보일러 국내 생산… 정부 ‘난방 전기화’ 동참",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743005?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134536445.1.jpg"
     },
     {
-      "title": "[신문과 놀자!/어린이과학동아 별별과학백과]AI에서 우주산업까지… 반...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742978?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134536150.1.png"
+      "title": "[가전 트렌드] 쿠첸, 'IDEA 디자인 어워드 2026' 입상(파이널리스트) 2관...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153912",
+      "img": "https://www.ibabynews.com/news/photo/202608/153912_120168_4855.jpg"
     },
     {
-      "title": "[기업家] 삼성전자 ⑱ㅣ 특허 30만건 눈앞·엑시노스 경쟁력 부각…110조...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600502",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600502_411804_1329_v150.jpg"
+      "title": "인천대, WURI 세계 5위 진입...AI 대학혁신 전략 발표",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=60057",
+      "img": "https://cdn.dongponews.net/news/thumbnail/202608/60057_216041_3219_v150.jpg"
     },
     {
-      "title": "코스맥스-현대홈쇼핑, AI 기반 맞춤형 뷰티 제품 공동 개발 MOU 체결",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206722",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206722_190628_4825_v150.jpg"
+      "title": "톰슨로이터, 큐원 기반 법률 LLM ‘톰슨’ 출시…자평과 달리 벤치마크...",
+      "url": "https://www.wikitree.co.kr/articles/1154614",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/25/202608250021309957_ai.jpeg"
     }
   ]
 };
