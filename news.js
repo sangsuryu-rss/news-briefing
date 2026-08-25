@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 07:46",
+  "updatedAt": "2026.08.25 (화) 10:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "흡입력·물걸레 다음은 ‘보안’…美 규제에 로봇 청소기 경쟁판 바뀐다",
-          "desc": "조사 대상 가운데 삼성전자와 LG전자 제품은 접근 권한 관리와 불법 조작 방지, 비밀번호·업데이트 정책 등에서 상대적으로 우수한 평가를 받았다. 취약점이 발견된 업체들은 이후 개선 조치를 진행했다. 가전 업계에서는...",
+          "title": "삼성전자, 혼수 특화 '삼성스토어 청담점' 전면 리뉴얼",
+          "desc": "리바트·까사미아·한샘 등 가구 제휴사 제품과 삼성전자 가전을 함께 구매하는 고객에게는 추가 혜택을 제공한다. 삼성전자는 청담점을 시작으로 혼수 특화 매장을 전국으로 확대할 계획이다. 최근 가전 시장에서는...",
+          "src": "cnbizm",
+          "date": "08/25",
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=312584",
+          "img": "https://cdn.cnbizm.com/news/photo/202608/312584_218270_3348.jpg"
+        },
+        {
+          "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
+          "desc": "다만 올해는 삼성, LG 등 국내 브랜드들이 연달아 로봇청소기 신제품을 내놨다. 여기에 에코백스, 드리미, DJI 등 중국 브랜드들의 공세가 계속되고 있으며, 다이슨도 올해 로청 시장에 진입했다. 특히 삼성전자가 지난...",
+          "src": "biz",
+          "date": "08/25",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500115.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/25/2026082500115_0.jpg?u=20260825104901?u=20260825104901"
+        },
+        {
+          "title": "삼성전자, 히트펌프 보일러 9월부터 국내 생산 시작",
+          "desc": "삼성전자는 완제품뿐 아니라 핵심 부품 생산과 제조 공정 전반의 국내 투입 비중도 확대해 협력회사와의 동반성장과 지역 경제 활성화에 기여할 방침이다. 생산라인이 들어선 광주사업장은 냉장고, 세탁기, 에어컨 등...",
+          "src": "digitaltoday",
+          "date": "08/25",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694858",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694858_643099_2443.jpeg"
+        },
+        {
+          "title": "삼성스토어 청담, 혼수가전 특화 매장으로 재단장… AI 가전 체험부터 ...",
+          "desc": "삼성전자는 최근 혼수가전 선택 기준이 냉장고 등 전통적인 필수가전에서 가사 부담을 줄여주는 AI 가전으로 확대되고 있다고 보고 있다. 이에 세탁건조기 ‘비스포크 AI 콤보’를 비롯해 로봇청소기, 키친핏 냉장고...",
           "src": "조선일보",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994732?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/GXLC3F7Z3JCXVIQY7NT3Z2VVYU.jpg?auth=3d2263c0fac7c796ec79cb9173dbdf1f6985774500c54f93c97b588f221b6132&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "가전 넘어 'AI홈'… 유럽 홀릴 삼성·LG",
-          "desc": "삼성전자와 LG전자는 서로 다른 전시방식으로 유럽시장 공략에 나선다. 전체 참가기업의 절반에 육박하는... LG전자는 기존 냉장고에 먼저 적용한 '팻앤드맥스'(Fit&Max) 솔루션을 세탁기와 건조기, 식기세척기로...",
-          "src": "머니투데이",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404052?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082419485834855_1.jpg"
-        },
-        {
-          "title": "삼성·LG, 인도에 생산기지 확대…AI 냉각·가전으로 승부",
-          "desc": "삼성전자와 LG전자가 나란히 인도로 향하고 있다. 삼성전자는 인공지능(AI) 데이터센터 냉각 장비... 공장이 완공되면 LG전자는 인도에서 연간 TV 200만대, 냉장고 360만대, 세탁기 375만대, 에어컨 470만대를 생산할 수...",
-          "src": "조선일보",
-          "date": "08/25",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168713",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168713_450811_3035_v150.jpg"
-        },
-        {
-          "title": "'바이백'에도 장기금리 고공행진…증권가 \"주주환원·금융주로 분산\"",
-          "desc": "또 배당이나 자사주 매입을 통한 ROE 상승을 기대할 수 있는 종목으로 삼성전자, SK하이닉스, 기아, LG... 기간 동안에도 이익 추정치가 상향된 운송, 에너지, 조선, 기계, IT하드웨어, IT가전에 대한 관심이 필요하다\"고 했다．",
-          "src": "뉴시스",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/003/0014145379?sid=101",
-          "img": "https://img1.newsis.com/2026/08/20/NISI20260820_0002216604_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001188094?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/3X2VRI5QBBPMZIAJGUZIVE5S4M.jpg?auth=b91a9703511087b57928a3ff4ebd442f148c78f9b70db2f9294ea7728f6ffcc1&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'S등급' 신입에 3억5000만원 던진 후지쯔…연공서열 파괴 나선 일본 대기...",
-          "desc": "21일 니혼게이자이신문(닛케이)에 따르면 일본 주요 금융사와 정보기술(IT) 기업들은 연차와 상관없이... 미쓰비시UFJ은행 역시 2024년 도입한 전문가 제도를 적극 활용해 기존 틀을 깨고 있다. 전체 2만2000명 중 약...",
-          "src": "뉴시스",
+          "title": "소프트캠프, DSTI와 손잡고 공공·금융·유통 문서보안 시장 공략",
+          "desc": "소프트캠프는 문서보안(DRM)과 원격 브라우저 격리(RBI) 등 자사 제로 트러스트 보안 기술 기반의 솔루션을... 여기에 생성형 AI 활용이 늘면서 기밀문서가 외부 서비스로 흘러나가는 새로운 유출 경로를 통제해야 한다는...",
+          "src": "boannews",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/003/0014145400?sid=104",
-          "img": "https://img1.newsis.com/2026/08/24/NISI20260824_0002219919_web.jpg"
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145413",
+          "img": "https://cdn.boannews.com/news/photo/202608/145413_127201_503.jpg"
         },
         {
-          "title": "엔비디아, 스페이스X 우주 데이터센터에 AI 칩 공급…2027년 발사",
-          "desc": "최첨단 AI 서버 시스템 베라 루빈을 궤도 연산용으로 도입한다고 보도했다. 지상 전력망 포화와 환경 규제를 우회하려는 이번 프로젝트는 고신뢰성 특수 패키징 기술을 보유한 한국 메모리 반도체 공급망의 항공우주...",
-          "src": "g-enews",
+          "title": "'800조+α' 슈퍼예산 시대…미래산업·청년·지방에 집중투자",
+          "desc": "원천기술, 인재 양성을 지원하고 전력과 용수, 산업단지 등 기반시설 투자도 확대한다. 피지컬 AI 분야에서는 제조 현장의 노하우인 '제조 암묵지'를 활용한 AI 솔루션 개발을 지원하고, 프런티어급 AI 모델 개발을 위해 CPU...",
+          "src": "straightnews",
           "date": "08/25",
-          "url": "https://www.g-enews.com/view.php?ud=202608250725262231fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082507330205746fbbec65dfb211211153121.jpg"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=309604",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/309604_220550_4712_v150.jpg"
         },
         {
-          "title": "[핀테크핫이슈] 원화 스테이블코인 선점전...제3 금융중심지 임박",
-          "desc": "일부 업체는 글로벌 스테이블코인 생태계에 합류하거나 실제 결제 환경을 가정한 기술검증을 진행하며... 결제망을 활용한 국고채 거래를 유치했고, NH농협은행은 'NH올원뱅크'에 인천공항 스마트패스를 도입하는 등...",
-          "src": "digitaltoday",
+          "title": "로봇 공장 만든다면서 생산직 500명 채용…현대차 노사 묘한 타협",
+          "desc": "미래 기술 도입 과정에 노사가 함께 대응한다는 내용이다. 결국 회사는 '자동화', 노조는 '고용'을 얻은 셈이다. 현대차 입장에서는 AI와 로봇을 활용해 생산성을 높이면서도 노조의 고용 불안을 자극하지 않는 안전판이...",
+          "src": "newsway",
           "date": "08/25",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695031",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/695031_642901_1440.png"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026082510273902189",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/14/20260714000006_1200.jpg"
         },
         {
-          "title": "'가성비 중심' AI 소비 재편 탄력...프론티어 AI 모델 판매 흔들",
-          "desc": "또 이전 최첨단 모델들과 비교해 페이블5 도입 속도가 더딘 것은 이르면 IPO를 앞둔 앤트로픽에 대한... 이어 \"획기적인 기술 발전은 질병 치료처럼 AI 기업들이 내건 가장 야심 찬 약속을 실현하고 최고 연구 인재를...",
-          "src": "digitaltoday",
+          "title": "당정, 내년 예산안에 '반도체 특별회계' 신설…AI·미래산업 투자 핵심...",
+          "desc": "지방국립대 등록금 전액 지원과 대학생 '인턴 학기제' 도입, 아동수당의 '아동기본수당' 확대 개편 등도... 피지컬 AI 분야에는 제조업 현장에 축적된 지식을 활용한 AI 솔루션 개발을 지원한다. 대규모 첨단산업 투자에...",
+          "src": "뉴스핌",
           "date": "08/25",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695161",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/695161_643020_5750.png"
+          "url": "https://www.newspim.com/news/view/20260825000375",
+          "img": "https://img.newspim.com/news/2026/08/25/260825103806718_771_tc.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
+          "desc": "삼성전자·삼성전기 공급망 주목…국내 협력사 수혜 기대 그록3 LPX의 양산은 삼성전자 파운드리가 맡고... FC-BGA는 AI 반도체의 전력 효율과 발열 제어 성능을 높이는 핵심 부품으로 꼽힌다. 엔비디아가 추론용...",
+          "src": "mstoday",
+          "date": "08/25",
+          "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102396",
+          "img": "https://cdn.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
+        },
+        {
+          "title": "스마트폰 신화 구미, 삼성 19조 베팅에 '휴머노이드 로봇' 메카로 뜬다",
+          "desc": "또한 LG이노텍, 인탑스 등 산단 내 핵심 부품 기업들과의 시너지를 통해 글로벌 로봇 공급망 전진기지 입지를 굳힐 전망이다. 다만 이 같은 비전을 현실화하기 위해 넘어야 할 과제도 만만치 않다. 최근 삼성전자 노태문...",
+          "src": "imaeil",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/088/0001025012?sid=101",
+          "img": "https://www.imaeil.com/photos/2026/08/19/2026081916235863588_l.jpg"
+        },
+        {
+          "title": "현대차 올 연봉 4084만원씩 오른다…노사, 111일만 임협 타결",
+          "desc": "삼성전자·SK하이닉스 등 반도체 업계가 역대급 성과급에 합의하며 산업계 전반의 기대감이 높아졌던... 현대차 관계자는 “장기간 교섭 진통과 파업으로 주주와 고객, 부품 협력사 등 수많은 이해관계자분들께 심려를...",
+          "src": "중앙일보",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546560?sid=101",
+          "img": ""
+        },
+        {
           "title": "[김성욱의 세상과 시간] AI 시대 메모리, Give-and-Take전략으로",
           "desc": "삼성전자와 SK하이닉스에는 절호의 기회다. 이익을 확보해 연구개발과 증설에 재투자하는 것은 당연하다.... 고객과 협력사가 함께 성장할 시장을 만드는 기업이다. 메모리뿐 아니라 GPU 등 컴퓨팅회사도 마찬가지라는...",
           "src": "issuenbiz",
           "date": "08/25",
           "url": "http://www.issuenbiz.com/news/articleView.html?idxno=78968",
           "img": "https://cdn.issuenbiz.com/news/thumbnail/202608/78968_79692_5242_v150.jpg"
-        },
-        {
-          "title": "삼성은 ‘배당 잔치’, SK는 ‘자사주 소각’…“이 파티 얼마나 갈까요...",
-          "desc": "국내 증시 대표주 삼성전자와 SK하이닉스가 쏘아 올린 사상 최대 규모의 주주환원 보따리에 1400만 개인... 기업이 거둔 천문학적인 결실이 국내 소재·부품·장비(소부장) 협력사 육성이나 연구개발(R&D) 지원 등 국내...",
-          "src": "khan",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466195?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/08/25/news-p.v1.20260824.da7dd77c172d419396a86fabaf3363c1_P1.png"
-        },
-        {
-          "title": "구미산단 7월 수출 2배 증가... 베트남에 핵심전자부품 공급 급증",
-          "desc": "하반기 글로벌 플래그십 스마트폰 출시를 앞두고 부품 양산이 본격화됐으며, 7월 수출 급증은 삼성전자와 협력사들의 해외 완제품 조립 거점이 위치한 베트남으로의 중간재 부품(카메라 모듈, 모바일 기판 등)...",
-          "src": "weeklytrade",
-          "date": "08/24",
-          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=101137",
-          "img": ""
-        },
-        {
-          "title": "화석연료 대체 나선 삼성전자…광주서 친환경 히트펌프 첫 생산",
-          "desc": "삼성전자는 완제품 제조뿐 아니라 핵심 부품과 공정 전반의 국내 조달 비중을 확대해 협력사와의 동반성장 및 지역 경제 활성화를 도모할 계획이다. 프리미엄 가전 생산 거점인 광주사업장의 제조 경쟁력을 활용해...",
-          "src": "m-i",
-          "date": "08/24",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1405368",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1405368_1193442_2316_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "흡입력·물걸레 다음은 ‘보안’…美 규제에 로봇 청소기 경쟁판 바뀐다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994732?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/GXLC3F7Z3JCXVIQY7NT3Z2VVYU.jpg?auth=3d2263c0fac7c796ec79cb9173dbdf1f6985774500c54f93c97b588f221b6132&width=1200&height=630&smart=true"
+      "title": "삼성전자, 혼수 특화 '삼성스토어 청담점' 전면 리뉴얼",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=312584",
+      "img": "https://cdn.cnbizm.com/news/photo/202608/312584_218270_3348.jpg"
     },
     {
-      "title": "가전 넘어 'AI홈'… 유럽 홀릴 삼성·LG",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404052?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082419485834855_1.jpg"
+      "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500115.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/25/2026082500115_0.jpg?u=20260825104901?u=20260825104901"
     },
     {
-      "title": "삼성·LG, 인도에 생산기지 확대…AI 냉각·가전으로 승부",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168713",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168713_450811_3035_v150.jpg"
+      "title": "삼성전자, 히트펌프 보일러 9월부터 국내 생산 시작",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694858",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202608/694858_643099_2443.jpeg"
     },
     {
-      "title": "'바이백'에도 장기금리 고공행진…증권가 \"주주환원·금융주로 분산\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014145379?sid=101",
-      "img": "https://img1.newsis.com/2026/08/20/NISI20260820_0002216604_web.jpg"
+      "title": "삼성스토어 청담, 혼수가전 특화 매장으로 재단장… AI 가전 체험부터 ...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188094?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/3X2VRI5QBBPMZIAJGUZIVE5S4M.jpg?auth=b91a9703511087b57928a3ff4ebd442f148c78f9b70db2f9294ea7728f6ffcc1&width=1200&height=630&smart=true"
     },
     {
-      "title": "'S등급' 신입에 3억5000만원 던진 후지쯔…연공서열 파괴 나선 일본 대기...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014145400?sid=104",
-      "img": "https://img1.newsis.com/2026/08/24/NISI20260824_0002219919_web.jpg"
+      "title": "소프트캠프, DSTI와 손잡고 공공·금융·유통 문서보안 시장 공략",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=145413",
+      "img": "https://cdn.boannews.com/news/photo/202608/145413_127201_503.jpg"
     },
     {
-      "title": "엔비디아, 스페이스X 우주 데이터센터에 AI 칩 공급…2027년 발사",
-      "url": "https://www.g-enews.com/view.php?ud=202608250725262231fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082507330205746fbbec65dfb211211153121.jpg"
+      "title": "'800조+α' 슈퍼예산 시대…미래산업·청년·지방에 집중투자",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=309604",
+      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202608/309604_220550_4712_v150.jpg"
     }
   ]
 };
