@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 12:13",
+  "updatedAt": "2026.08.25 (화) 13:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 혼수 특화 매장 '삼성스토어 청담점' 리뉴얼...소비자 관심도...",
-          "desc": "이와 함께 가구 제휴사인 리바트, 까사미아, 한샘의 제품과 삼성전자 가전을 동시 구매하는 고객에게는 한 달간 특별한 추가 혜택이 주어질 예정이다. 한편, 삼성전자는 차별화된 고객 맞춤형 경험을 제공하는 이번...",
-          "src": "thebigdata",
+          "title": "한가인 \"14년 쓴 삼성 냉장고, 여전히 고성능에 디자인도 예뻐…이젠 AI...",
+          "desc": "그는 \"대형 가전은 고장이 나면 당장 일상이 마비되는데 삼성전자는 믿을 수 있는 AS를 제공해 구매할 때 더욱 안심이 된다\"고 말했다. 디자인도 14년째 냉장고를 사용하는 이유다. 한가인은 \"주방 인테리어와 자연스럽게...",
+          "src": "아주경제",
           "date": "08/25",
-          "url": "http://www.thebigdata.co.kr/view.php?ud=202608251058236037df3c2a17b7_23",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260825111519000840df3c2a17b712113917675.jpg&nmt=23"
+          "url": "https://www.ajunews.com/view/20260825134838875",
+          "img": "https://image.ajunews.com/content/image/2026/08/25/20260825134954809366.jpg"
         },
         {
           "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.betanews.net/data/beta/image/2026/08/25/beta20260825000042.jpg"
         },
         {
-          "title": "삼성전자 '삼성스토어 청담', 혼수 특화 매장 리뉴얼…신혼 고객 '눈길...",
-          "desc": "삼성전자의 이번 혼수가전 특화 매장 오픈은 최근 가전 시장의 성장세가 주춤한 상황에서 핵심 소비자로 떠오른 신혼부부를 집중 공략하기 위한 전략으로 풀이된다. 실제로 삼성전자는 지난 4월 공개한 'AI 가전이 신혼을...",
-          "src": "financialpost",
+          "title": "삼성전자, 혼수 특화 매장 ‘삼성스토어 청담점’ 리뉴얼 오픈",
+          "desc": "이와 함께 가구 제휴사인 리바트, 까사미아, 한샘의 제품과 삼성전자 가전을 동시 구매하는 고객에게는 한 달간 특별한 추가 혜택이 주어질 예정이다. 한편, 삼성전자는 차별화된 고객 맞춤형 경험을 제공하는 이번...",
+          "src": "busan",
           "date": "08/25",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271953",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/271953_351821_4258_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/082/0001395313?sid=101",
+          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/25/2026082513220726152_l.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "애피어, 주요 광고·마케팅 행사서 에이전틱 AI 활용 전략·인사이트 공...",
-          "desc": "'리테일 성장을 여는 새로운 공식'을 주제로 열린 세미나에서는 마케팅 자동화를 넘어 AI 에이전트가 마케터의 업무 방식을 어떻게 변화시킬 수 있는지를 심도 있게 다뤘다. 특히 고도화된 기술을 도입하고도...",
-          "src": "job-post",
+          "title": "챗봇 붙인다고 공공AX?…\"업무부터 다시 설계해야\"",
+          "desc": "특히 AI 기술은 빠르게 바뀌는데 공공 사업은 기획부터 실제 도입까지 수년이 걸리는 구조가 맞지 않는다고 지적했다. 이 대표는 \"중요한 것은 AI 모델 자체보다 여러 모델을 활용하면서 어떻게 쓸 것인지를 계획하는...",
+          "src": "taxwatch",
           "date": "08/25",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=224961",
-          "img": "https://cdn.job-post.co.kr/news/photo/202608/224961_328017_1042.jpg"
+          "url": "https://www.taxwatch.co.kr/article/tax/2026/08/25/0002/naver",
+          "img": "https://cdn.taxwatch.co.kr/news/index/2026/08/25/ea5b68427b9baa80aa12f29085529fb1.jpg"
         },
         {
-          "title": "ABB, '산업 효율 격차(Industrial Efficiency Gap)' 보고서 분석",
-          "desc": "대형 모터와 발전기처럼 한 번 설치하면 20년 이상 사용하는 핵심 설비의 경우, 설비 도입 단계에서 어떤... 이미 활용 가능한 고효율 기술이 충분히 적용되지 못한다는 설명이다. 최근 AI 데이터센터 확대 및...",
-          "src": "digitalbizon",
+          "title": "눈앞에 다가온 국가시범 세종 스마트시티",
+          "desc": "(PM)를 활용하고, 장거리에는 수요응답형 차량(DRT)과 자율주행 셔틀, BRT, 공유차를 목적에 맞게 선택할 수 있다. 또한 지상공간을 보행중심으로 만들기 위해 '스마트 통합배송체계'를 도입한다. 택배차량이 배송센터에...",
+          "src": "inews365",
           "date": "08/25",
-          "url": "http://www.digitalbizon.com/news/articleView.html?idxno=2343651",
-          "img": "https://cdn.digitalbizon.com/news/thumbnail/202608/2343651_21354_757_v150.jpg"
+          "url": "https://www.inews365.com/news/article.html?no=932985",
+          "img": "https://www.inews365.com/data/photos/20260835/art_17876335397007.jpg"
         },
         {
-          "title": "넥슨컴퍼니, '넥토리얼' 6년째 신입 개발자 채용…AI 활용 역량 평가 도...",
-          "desc": "대표적인 신입 채용 트랙인 '넥토리얼'에 AI 활용 역량평가를 새롭게 도입하고, 게임 프로그래머 단일... 지원자의 기술 역량을 검증한다. AI 활용 역량평가에서는 실제 업무와 유사한 문제를 AI 도구를 활용해 해결하는...",
-          "src": "유스경제",
+          "title": "전기안전공사, 제주 재생에너지 전력설비 안전관리 힘 보탠다",
+          "desc": "인공지능(AI) 기반 안전·운전관리 ▲안정적인 재생에너지 보급·확대를 위한 기술지원 ▲신기술 도입 및... 전문성을 활용해 제주지역 재생에너지 설비의 안전관리 기술을 지원할 계획이다. AI 기술을 검사 업무에 접목해...",
+          "src": "electimes",
           "date": "08/25",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=225661",
-          "img": "https://www.youthdaily.co.kr/data/photos/20260835/art_1787626921057_5a8a22.jpg"
+          "url": "https://www.electimes.com/news/articleView.html?idxno=371605",
+          "img": "https://cdn.electimes.com/news/thumbnail/202608/371605_584546_4828_v150.jpg"
         },
         {
-          "title": "배충식 총장 체제 KAIST AI 혁신 설계",
-          "desc": "시스템을 도입하고 불필요한 절차와 규제를 손본다. 교과목 장벽 완화와 공동지도교수제 확대도 병행해 학생과 교수가 교육·연구에 더 집중하도록 뒷받침한다. 캠퍼스는 AI와 에너지 기술로 사용량을 분석하고...",
-          "src": "ccdailynews",
+          "title": "[윤영숙의 시선] 반도체 호황인데 삼성은 왜 계약학과를 줄였나",
+          "desc": "AI·AI 데이터센터 등 3대 메가프로젝트를 지원하기 위해 '지역협약정원제'와 '인재양성 신속트랙제'를 도입하겠다고 밝혔다. 지방대가 기업이 요구하는 초과 인력을 정원 외로 선발하고, 전과와 편입학을 활용해 필요한...",
+          "src": "news",
           "date": "08/25",
-          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2435791",
-          "img": "https://www.ccdailynews.com/image/logo/snslogo_20200717012712.jpg"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431696",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4431696_339108_482_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[특징주]에프에스티, 반도체 약세장서 20% 폭등…삼성 2나노 'CNT 펠리클...",
+          "desc": "에프에스티는 삼성전자가 지분 약 7%를 보유한 협력사로, 2세대 CNT EUV 펠리클을 상업 생산할 수 있는 세계... 에프에스티는 반도체 EUV 펠리클과 온도조절장치(칠러) 등을 생산하는 반도체 소재·부품 전문기업이다....",
+          "src": "namdonews",
+          "date": "08/25",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=921034",
+          "img": "https://cdn.namdonews.com/news/photo/202608/921034_625895_5915.jpg"
+        },
         {
           "title": "줄어드는 시장, 삼성의 선방 이유는?",
           "desc": "이밖에 자체 부품 조달 역량 등도 삼성전자 선전의 요인으로 꼽힌다. 노태문 삼성전자 디바이스경험(DX)부문... 여러 협력사들과 고민하고 노력해 (소비자들의) 부담을 최소화할 것\"이라고 말했다. 실제 신제품의 출고가는...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "mstoday",
           "date": "08/25",
           "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102396",
-          "img": "https://cdn.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
+          "img": "https://www.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
         },
         {
           "title": "스마트폰 신화 구미, 삼성 19조 베팅에 '휴머노이드 로봇' 메카로 뜬다",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/25",
           "url": "https://n.news.naver.com/mnews/article/088/0001025012?sid=101",
           "img": "https://www.imaeil.com/photos/2026/08/19/2026081916235863588_l.jpg"
-        },
-        {
-          "title": "현대차 올 연봉 4084만원씩 오른다…노사, 111일만 임협 타결",
-          "desc": "삼성전자·SK하이닉스 등 반도체 업계가 역대급 성과급에 합의하며 산업계 전반의 기대감이 높아졌던... 현대차 관계자는 “장기간 교섭 진통과 파업으로 주주와 고객, 부품 협력사 등 수많은 이해관계자분들께 심려를...",
-          "src": "중앙일보",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546560?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/25/521012b6-1014-456c-99d7-ae596e13e163.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 혼수 특화 매장 '삼성스토어 청담점' 리뉴얼...소비자 관심도...",
-      "url": "http://www.thebigdata.co.kr/view.php?ud=202608251058236037df3c2a17b7_23",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260825111519000840df3c2a17b712113917675.jpg&nmt=23"
+      "title": "한가인 \"14년 쓴 삼성 냉장고, 여전히 고성능에 디자인도 예뻐…이젠 AI...",
+      "url": "https://www.ajunews.com/view/20260825134838875",
+      "img": "https://image.ajunews.com/content/image/2026/08/25/20260825134954809366.jpg"
     },
     {
       "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.betanews.net/data/beta/image/2026/08/25/beta20260825000042.jpg"
     },
     {
-      "title": "삼성전자 '삼성스토어 청담', 혼수 특화 매장 리뉴얼…신혼 고객 '눈길...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271953",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202608/271953_351821_4258_v150.jpg"
+      "title": "삼성전자, 혼수 특화 매장 ‘삼성스토어 청담점’ 리뉴얼 오픈",
+      "url": "https://n.news.naver.com/mnews/article/082/0001395313?sid=101",
+      "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/25/2026082513220726152_l.jpg"
     },
     {
-      "title": "애피어, 주요 광고·마케팅 행사서 에이전틱 AI 활용 전략·인사이트 공...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=224961",
-      "img": "https://cdn.job-post.co.kr/news/photo/202608/224961_328017_1042.jpg"
+      "title": "챗봇 붙인다고 공공AX?…\"업무부터 다시 설계해야\"",
+      "url": "https://www.taxwatch.co.kr/article/tax/2026/08/25/0002/naver",
+      "img": "https://cdn.taxwatch.co.kr/news/index/2026/08/25/ea5b68427b9baa80aa12f29085529fb1.jpg"
     },
     {
-      "title": "ABB, '산업 효율 격차(Industrial Efficiency Gap)' 보고서 분석",
-      "url": "http://www.digitalbizon.com/news/articleView.html?idxno=2343651",
-      "img": "https://cdn.digitalbizon.com/news/thumbnail/202608/2343651_21354_757_v150.jpg"
+      "title": "눈앞에 다가온 국가시범 세종 스마트시티",
+      "url": "https://www.inews365.com/news/article.html?no=932985",
+      "img": "https://www.inews365.com/data/photos/20260835/art_17876335397007.jpg"
     }
   ]
 };
