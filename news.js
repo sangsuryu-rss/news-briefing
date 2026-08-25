@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 22:13",
+  "updatedAt": "2026.08.26 (수) 00:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825221323"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826000802"
         },
         {
           "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "복지부, 청년 보건의료인 10명과 첫 간담회 개최",
-          "desc": "개선 방안으로는 ▲정책 의사결정 과정에서 청년의 대표성과 참여 확대 ▲인공지능(AI) 기술 도입 등 정책... 동시에 정부뿐 아니라 각 직역별 내부 대의제도 활용과 거버넌스 개선에도 힘써 달라고 당부했다. 10~11월 중 열릴...",
-          "src": "medicalworldnews",
-          "date": "08/25",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976817",
-          "img": "http://medicalworldnews.co.kr/img/facebook_no_tag.png"
+          "title": "[울산 리부트-AI 헬스케어로 산업 전환의 해법을 찾다]의료난 해법 AI 도...",
+          "desc": "특히 연구개발 이후 상용화와 기술 도입 과정에서 발생하는 장벽 해결법으로 \"캐나다 경제 전반에서 AI가 실제 활용되도록 하고, 중소기업과 공공서비스를 지원하며 노동자에게 도움이 되는 산업용 AI 기술을...",
+          "src": "ksilbo",
+          "date": "08/26",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065462",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1065462_644190_2517_v150.jpg"
         },
         {
-          "title": "K뷰티 세계 1위 정조준…'화장품 산업 육성법' 국회 본회의 통과",
-          "desc": "연구개발과 자료(데이터)·인공지능(AI)·디지털 기술을 활용한 산업 혁신, 전문 인력 양성, 원료·용기 산업... 인증제 도입 등 후속 조치를 준비할 계획이다. 정은경 보건복지부 장관은 \"이번 법 제정을 계기로 창의적인...",
-          "src": "apparelnews",
-          "date": "08/25",
-          "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227170",
-          "img": ""
+          "title": "은행 서비스에 AI 입히다",
+          "desc": "결합한 '하이브리드 AI상담봇' 구축을 추진하고 있다. 전화 음성 안내와 스마트폰 화면을 함께 활용하는 멀티모달 기술을 도입해 고객이 비대면 상담 과정에서 금융 절차를 처리할 수 있도록 한다. NH농협은행은 대면...",
+          "src": "newsclaim",
+          "date": "08/26",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073148",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3073148_114976_233_v150.jpg"
         },
         {
-          "title": "日, 호르무즈 우회 송유관 건설 지원…“중동 원유 의존 탈피”",
-          "desc": "이는 인공지능(AI) 보급으로 전력 수요가 늘어나는 상황에서 원유 조달처를 다변화하고 에너지 공급망을 강화하기 위해 마련됐다. 우선 일본 정부는 개발 자금 지원과 기술 협력 등을 통해 호르무즈해협 우회 송유관을...",
-          "src": "서울경제",
+          "title": "[朝鮮칼럼] ‘AI 중심 국가’라는 해괴한 이름 짓기",
+          "desc": "AI 도입 건수가 같은 자리를 차지한다. 문화 분야라고 다를까? 창작 지원 심사에서 ‘AI 활용’이 가점(加點)... AI는 범용기술이니 어디에나 붙는 게 당연하다고 항변할 수 있겠다. 그러나 바로 그 지점이 급소다....",
+          "src": "조선일보",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655129?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/25/rcv.YNA.20260819.PRU20260819132301009_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003994859?sid=110",
+          "img": "https://www.chosun.com/resizer/v2/4G44IKNJTNCKTBVTC2ARLPFHVQ.png?auth=61167e1321b7cc265f0b2e703165e1f7e0ea1fab75581b926af182aca98222b8&width=500&height=262&smart=true"
         },
         {
-          "title": "경기도경제과학진흥원, '실무형 정보보호 인재 양성' 첫발",
-          "desc": "인터넷에 노출된 기업의 IT 자산과 취약점을 식별·관리하는 공격표면관리(ASM) 기술을 활용해 대학생이 실제... 부서에서 임의로 도입한 클라우드 서버, 방치된 테스트용 도메인, 오래된 웹사이트 등 관리 사각지대에...",
-          "src": "CNB뉴스",
+          "title": "학교 체육관 '무인 개방' 확산…에스원, AI로 안전 빈틈 메운다",
+          "desc": "운영을 도입했으며, 에스원은 경기 의왕 지역 3개 학교에서 시범사업을 진행하고 있다. '체육관 무인관리... 데는 AI 영상분석 기술을 활용한다. 지난해 9월 서울의 한 초등학교에서는 지하 1층 전기실 태양광 인버터에서...",
+          "src": "apnews",
           "date": "08/25",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1012844",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1012844_514184_34.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050681",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050681_83274_5311_v150.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@ window.NEWS_DATA = {
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825221323"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826000802"
     },
     {
       "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
     },
     {
-      "title": "복지부, 청년 보건의료인 10명과 첫 간담회 개최",
-      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976817",
-      "img": "http://medicalworldnews.co.kr/img/facebook_no_tag.png"
+      "title": "[울산 리부트-AI 헬스케어로 산업 전환의 해법을 찾다]의료난 해법 AI 도...",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065462",
+      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1065462_644190_2517_v150.jpg"
     },
     {
-      "title": "日, 호르무즈 우회 송유관 건설 지원…“중동 원유 의존 탈피”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655129?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/08/25/rcv.YNA.20260819.PRU20260819132301009_R.jpg"
+      "title": "은행 서비스에 AI 입히다",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073148",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3073148_114976_233_v150.jpg"
     }
   ]
 };
