@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 16:10",
+  "updatedAt": "2026.08.25 (화) 18:01",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "신보, 협력사 보증심사에 '프로젝트 사업성' 더한 이유는?...재무제표 넘...",
-          "desc": "신보는 2021년 대우조선해양 협력사 6곳에 51억원, 2022년 삼성전자 냉장가전 프로젝트 참여기업 8곳에 181억원을 공급했다. 지난해 3월에는 삼성디스플레이 OLED 생산·수출 프로젝트 참여기업 8곳에 165억원을 지원했다....",
-          "src": "그린포스트",
+          "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
+          "desc": "리바트, 까사미아, 한샘 등 가구 제휴사 제품과 삼성전자 가전을 함께 구매하는 고객에게는 추가 혜택을 제공할 예정이다. 삼성전자는 이번 청담점 리뉴얼을 시작으로 혼수 특화 매장을 전국으로 확대해 나갈...",
+          "src": "ibabynews",
           "date": "08/25",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=348315",
-          "img": "https://cdn.greened.kr/news/thumbnail/202608/348315_399706_4217_v150.jpg"
-        },
-        {
-          "title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
-          "desc": "휴머노이드 로봇의 경연장으로 변신한다. 삼성전자와 LG전자가 기존 가전을 연결하는 AI 홈 생태계를... 올해 최대 관전 포인트는 중국 로봇기업들의 공세다. 에코백스와 드리미 등 로봇청소기 업체뿐 아니라...",
-          "src": "이투데이",
-          "date": "08/25",
-          "url": "https://www.etoday.co.kr/news/view/2617932",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260825142303_2377883_1128_966.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153989",
+          "img": "https://www.ibabynews.com/news/photo/202608/153989_120395_2645.jpg"
         },
         {
           "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
@@ -42,15 +34,23 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825161014"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825180201"
         },
         {
-          "title": "삼성전자, 청담점 ‘혼수 특화’로 리뉴얼…신혼집 맞춤 가전 한눈에",
-          "desc": "삼성전자가 신혼부부의 주거 공간과 생활 방식에 맞춰 가전제품을 구성하고 인테리어까지 상담할 수 있는... 5.5평형 스타트 패키지는 냉장고·세탁기 등 필수가전을 중심으로 공간을 효율적으로 구성했다. 11.5평형...",
-          "src": "dnews",
+          "title": "김용진 \"반도체 산업, 장기 호황 국면 전환…활황세 10~20년 지속\"",
+          "desc": "6월까지 고공행진을 이어가던 삼성전자·SK하이닉스 등 반도체 주가가 7월 들어 조정 국면에 진입하며 큰... 반도체 사이클의 변수가 컴퓨터 판매, 전자화된 TV·가전에 들어가는 반도체다. 자동화를 위해 세탁기에...",
+          "src": "뉴스웍스",
           "date": "08/25",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251516093970268",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/08/25/202608251516093970268-2-686221.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=851412",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/851412_812681_2922_v150.jpg"
+        },
+        {
+          "title": "삼성전자, 청담점 혼수 특화 매장 전환… 신혼부부 정조준",
+          "desc": "삼성전자는 올해 투자자 대상 자료에서 생활가전 핵심 전략으로 AI 홈을 제시하고 개인화된 가전 경험을 강화하고 있다. 비스포크 AI와 스마트싱스를 기반으로 냉장고와 세탁기, 청소기 등을 연결해 개별 가전이 아닌...",
+          "src": "서울신문",
+          "date": "08/25",
+          "url": "http://www.metroseoul.co.kr/article/20260825500539",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "카카오페이, 고령층 디지털 금융 넘어 AI 활용 교육 확대",
-          "desc": "이윤근 카카오페이 ESG협의체장은 “디지털 금융 환경이 고도화될수록 새로운 금융 기술을 제대로 이해하고 안전하게 활용할 수 있는 디딤돌 역량이 더욱 중요해지고 있다”라며 “AI 금융 서비스 교육 도입 등 시니어...",
-          "src": "g-enews",
+          "title": "유통·식품업계 AX 진풍경···CJ는 신제품 찾고, 팔도는 면발 잰다",
+          "desc": "한글과 파워포인트, 엑셀 등 비정형 문서도 활용 대상에 포함된다. 여기에 DB 검색 연동 기술인 MCP(Model... AI 전담 조직을 새롭게 구성하고 '챗GPT 엔터프라이즈(ChatGPT Enterprise)'를 도입해 사내 AI 활용 기반을 마련했다....",
+          "src": "womaneconomy",
           "date": "08/25",
-          "url": "https://www.g-enews.com/view.php?ud=202608251522461215cd0bfacc1c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082515392204579cd0bfacc1c595103236.jpg"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257809",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257809_462341_3845_v150.jpg"
         },
         {
-          "title": "AI가 24시간 복지·세금·안전 상담…\"2027년부터 구현\"(종합)",
-          "desc": "최고의 AI민주정부 실현 전략'을 보고했다고 밝혔다. 정부는 AI를 활용해 국민에게 필요한 서비스를 먼저... 윤호중 행안부 장관은 \"AI민주정부의 핵심은 단순한 AI 기술 도입이 아니라 AI를 통해 국민이 국정운영의 진정한...",
-          "src": "뉴시스",
+          "title": "\"국민이 주인 되는 정부, AI로 만든다\"... 행안부, 'AI 민주정부' 실현 본...",
+          "desc": "수단으로 활용할 방침이다. 윤호중 장관은 \"AI민주정부의 핵심은 단순한 인공지능 기술 도입이 아니라 인공지능을 통해 국민이 국정운영의 진정한 주인이 되는 국민주권을 구현하는 것\"이라며, \"국민이 삶 속에서...",
+          "src": "AI타임스",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147364?sid=100",
-          "img": "https://img1.newsis.com/2026/08/25/NISI20260825_0002220880_web.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41594_62599_5950_v150.jpg"
         },
         {
-          "title": "코딧, ICT 규제샌드박스 AI 기반 규제확인 서비스 운영사로 선정",
-          "desc": "정지은 코딧 대표는 \"이번 운영사 선정은 코딧의 AI 규제분석 기술과 정책 데이터 활용 역량을 인정받은 결과\"라며 \"이미 시장에서 검증된 상용 구독형 서비스를 도입한 민관협력의 좋은 선례가 될 것\"이라고 밝혔다....",
-          "src": "hellot",
+          "title": "파수 AI, 동행복권에 블록체인 무결성 체계 구축",
+          "desc": "파수 AI는 5기 복권수탁사업자인 동행복권 컨소시엄에 참여해 복권사업 전반의 보안을 담당하고 있다. 이번에는 동행복권의 시스템 고도화 과제인 복권 데이터 무결성 강화와 안정성 확보를 위해 블록체인 기술을 도입했...",
+          "src": "thelec",
           "date": "08/25",
-          "url": "https://www.hellot.net/news/article.html?no=114542",
-          "img": "https://www.hellot.net/data/photos/20260835/art_17876414164729_9fabe5.jpg"
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=61329",
+          "img": "https://cdn.thelec.kr/news/photo/202608/61329_48413_442.png"
         },
         {
-          "title": "성균관대, 융합인재전형 신설, 학생부종합으로",
-          "desc": "성균관대는 지역의사선발전형 도입에 따라 성균인재-지역인재 전형을 통해 의정부권, 남양주권, 포천권 각... 성균관대 인공지능학과는 AI 기술을 단순히 활용하는 것을 넘어 설계하고 창출할 수 있는 'AI-Native' 인재...",
-          "src": "매일경제",
+          "title": "파수AI, 동행복권에 프라이빗 블록체인 솔루션 구축",
+          "desc": "동행복권 컨소시엄에 참여하고 있는 파수AI는 복권사업의 보안 분야를 맡고 있으며 데이터 무결성 강화와 안정성 확보를 목적으로 블록체인 기술을 도입했다. 프라이빗 블록체인은 제한된 사용자만 접근할 수 있어...",
+          "src": "한스경제",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725592?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/26/20260826_01110205000004_L00.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859451",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859451_881077_3158_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"소부장 생태계 해외에 뺏길 판\"…中 CXMT·美 마이크론 웃는다",
+          "desc": "협력사 노사 협상 추이를 예의 주시 중\"이라며 \"생산 차질로 국내 생산 물량이 해외로 이전되면 국내 소부장(소재·부품·장비) 업계 경쟁력에 영향을 미칠 수 있다\"고 밝혔다. 소부장 기업들의 노사 갈등으로 삼성전자...",
+          "src": "매일경제",
+          "date": "08/25",
+          "url": "https://n.news.naver.com/mnews/article/009/0005725729?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/26/20260826_01110103000002_L00.jpg"
+        },
+        {
+          "title": "韓美中, ‘와이드 폴더블폰’ 삼파전…‘갤폴드8’ 아성에 애플·화웨이...",
+          "desc": "업계에 따르면, 삼성전자는 초기 수요에 맞춰 갤럭시 Z 폴드8 생산량을 100만대 추가하기로 결정하고, 관련 부품 생산을 확대하도록 협력사에 요청한 것으로 전해졌다. 시장에서는 하반기 애플의 시장 진입과 샤오미의...",
+          "src": "ceoscoredaily",
+          "date": "08/25",
+          "url": "https://www.ceoscoredaily.com/page/view/2026082517200339255",
+          "img": "https://www.ceoscoredaily.com/photos/2026/08/25/2026082517183050140_l.jpg"
+        },
         {
           "title": "미래에셋증권 \"에스피지, 감속기 3종 풀라인업으로 로봇 부품시장 공략...",
           "desc": "에스피지가 현재 가장 많은 매출을 올리는 협력사는 레인보우로보틱스다. 레인보우로보틱스는 과거... 에스피지는 로봇 부품 수리 시장인 '오버홀' 사업도 확대하고 있다. 삼성전자 자회사 세메스가 반도체...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/25",
           "url": "https://www.namdonews.com/news/articleView.html?idxno=921034",
           "img": "https://cdn.namdonews.com/news/photo/202608/921034_625895_5915.jpg"
-        },
-        {
-          "title": "줄어드는 시장, 삼성의 선방 이유는?",
-          "desc": "이밖에 자체 부품 조달 역량 등도 삼성전자 선전의 요인으로 꼽힌다. 노태문 삼성전자 디바이스경험(DX)부문... 여러 협력사들과 고민하고 노력해 (소비자들의) 부담을 최소화할 것\"이라고 말했다. 실제 신제품의 출고가는...",
-          "src": "polinews",
-          "date": "08/25",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741140",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741140_563039_3357_v150.jpg"
-        },
-        {
-          "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
-          "desc": "삼성전자·삼성전기 공급망 주목…국내 협력사 수혜 기대 그록3 LPX의 양산은 삼성전자 파운드리가 맡고... FC-BGA는 AI 반도체의 전력 효율과 발열 제어 성능을 높이는 핵심 부품으로 꼽힌다. 엔비디아가 추론용...",
-          "src": "mstoday",
-          "date": "08/25",
-          "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102396",
-          "img": "https://cdn.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "신보, 협력사 보증심사에 '프로젝트 사업성' 더한 이유는?...재무제표 넘...",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=348315",
-      "img": "https://cdn.greened.kr/news/thumbnail/202608/348315_399706_4217_v150.jpg"
-    },
-    {
-      "title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
-      "url": "https://www.etoday.co.kr/news/view/2617932",
-      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260825142303_2377883_1128_966.png"
+      "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153989",
+      "img": "https://www.ibabynews.com/news/photo/202608/153989_120395_2645.jpg"
     },
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825161014"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825180201"
     },
     {
-      "title": "삼성전자, 청담점 ‘혼수 특화’로 리뉴얼…신혼집 맞춤 가전 한눈에",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251516093970268",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/08/25/202608251516093970268-2-686221.jpg"
+      "title": "김용진 \"반도체 산업, 장기 호황 국면 전환…활황세 10~20년 지속\"",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=851412",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202608/851412_812681_2922_v150.jpg"
     },
     {
-      "title": "카카오페이, 고령층 디지털 금융 넘어 AI 활용 교육 확대",
-      "url": "https://www.g-enews.com/view.php?ud=202608251522461215cd0bfacc1c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082515392204579cd0bfacc1c595103236.jpg"
+      "title": "유통·식품업계 AX 진풍경···CJ는 신제품 찾고, 팔도는 면발 잰다",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257809",
+      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/257809_462341_3845_v150.jpg"
     },
     {
-      "title": "AI가 24시간 복지·세금·안전 상담…\"2027년부터 구현\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014147364?sid=100",
-      "img": "https://img1.newsis.com/2026/08/25/NISI20260825_0002220880_web.jpg"
+      "title": "\"국민이 주인 되는 정부, AI로 만든다\"... 행안부, 'AI 민주정부' 실현 본...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202608/41594_62599_5950_v150.jpg"
+    },
+    {
+      "title": "파수 AI, 동행복권에 블록체인 무결성 체계 구축",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61329",
+      "img": "https://cdn.thelec.kr/news/photo/202608/61329_48413_442.png"
     }
   ]
 };
