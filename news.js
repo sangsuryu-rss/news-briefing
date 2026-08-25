@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 13:55",
+  "updatedAt": "2026.08.25 (화) 16:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한가인 \"14년 쓴 삼성 냉장고, 여전히 고성능에 디자인도 예뻐…이젠 AI...",
-          "desc": "그는 \"대형 가전은 고장이 나면 당장 일상이 마비되는데 삼성전자는 믿을 수 있는 AS를 제공해 구매할 때 더욱 안심이 된다\"고 말했다. 디자인도 14년째 냉장고를 사용하는 이유다. 한가인은 \"주방 인테리어와 자연스럽게...",
-          "src": "아주경제",
+          "title": "신보, 협력사 보증심사에 '프로젝트 사업성' 더한 이유는?...재무제표 넘...",
+          "desc": "신보는 2021년 대우조선해양 협력사 6곳에 51억원, 2022년 삼성전자 냉장가전 프로젝트 참여기업 8곳에 181억원을 공급했다. 지난해 3월에는 삼성디스플레이 OLED 생산·수출 프로젝트 참여기업 8곳에 165억원을 지원했다....",
+          "src": "그린포스트",
           "date": "08/25",
-          "url": "https://www.ajunews.com/view/20260825134838875",
-          "img": "https://image.ajunews.com/content/image/2026/08/25/20260825134954809366.jpg"
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348315",
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/348315_399706_4217_v150.jpg"
         },
         {
-          "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
-          "desc": "다만 올해는 삼성, LG 등 국내 브랜드들이 연달아 로봇청소기 신제품을 내놨다. 여기에 에코백스, 드리미, DJI 등 중국 브랜드들의 공세가 계속되고 있으며, 다이슨도 올해 로청 시장에 진입했다. 특히 삼성전자가 지난...",
-          "src": "biz",
+          "title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
+          "desc": "휴머노이드 로봇의 경연장으로 변신한다. 삼성전자와 LG전자가 기존 가전을 연결하는 AI 홈 생태계를... 올해 최대 관전 포인트는 중국 로봇기업들의 공세다. 에코백스와 드리미 등 로봇청소기 업체뿐 아니라...",
+          "src": "이투데이",
           "date": "08/25",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500115.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/25/2026082500115_0.jpg?u=20260825104901?u=20260825104901"
+          "url": "https://www.etoday.co.kr/news/view/2617932",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260825142303_2377883_1128_966.png"
         },
         {
-          "title": "삼성전자, 'EHS 히트펌프 보일러' 국내 생산… 韓 난방 전기화 대중화 동...",
-          "desc": "신규 생산라인이 구축된 삼성전자 광주사업장은 냉장고, 세탁기, 에어컨 등 삼성전자의 주요 프리미엄 가전을 생산하며 축적한 제조 기술과 품질관리 노하우를 보유하고 있다. 삼성전자는 광주사업장의 제조 경쟁력을...",
-          "src": "betanews",
+          "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
+          "desc": "25일 관련 업계에 따르면, 삼성전자와 LG전자는 에어컨과 냉장고, 세탁·건조기 등 주요 제품의 성능을 유지하면서도 전력 소비를 낮추는 기술을 적용해 효율성을 높이는 데 주력하고 있다. 이 같은 흐름은 최근 열린...",
+          "src": "브릿지경제",
           "date": "08/25",
-          "url": "https://www.betanews.net/article/view/beta202608250029",
-          "img": "https://www.betanews.net/data/beta/image/2026/08/25/beta20260825000042.jpg"
+          "url": "https://www.viva100.com/article/20260825500697",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825161014"
         },
         {
-          "title": "삼성전자, 혼수 특화 매장 ‘삼성스토어 청담점’ 리뉴얼 오픈",
-          "desc": "이와 함께 가구 제휴사인 리바트, 까사미아, 한샘의 제품과 삼성전자 가전을 동시 구매하는 고객에게는 한 달간 특별한 추가 혜택이 주어질 예정이다. 한편, 삼성전자는 차별화된 고객 맞춤형 경험을 제공하는 이번...",
-          "src": "busan",
+          "title": "삼성전자, 청담점 ‘혼수 특화’로 리뉴얼…신혼집 맞춤 가전 한눈에",
+          "desc": "삼성전자가 신혼부부의 주거 공간과 생활 방식에 맞춰 가전제품을 구성하고 인테리어까지 상담할 수 있는... 5.5평형 스타트 패키지는 냉장고·세탁기 등 필수가전을 중심으로 공간을 효율적으로 구성했다. 11.5평형...",
+          "src": "dnews",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/082/0001395313?sid=101",
-          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/25/2026082513220726152_l.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251516093970268",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/08/25/202608251516093970268-2-686221.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "챗봇 붙인다고 공공AX?…\"업무부터 다시 설계해야\"",
-          "desc": "특히 AI 기술은 빠르게 바뀌는데 공공 사업은 기획부터 실제 도입까지 수년이 걸리는 구조가 맞지 않는다고 지적했다. 이 대표는 \"중요한 것은 AI 모델 자체보다 여러 모델을 활용하면서 어떻게 쓸 것인지를 계획하는...",
-          "src": "taxwatch",
+          "title": "카카오페이, 고령층 디지털 금융 넘어 AI 활용 교육 확대",
+          "desc": "이윤근 카카오페이 ESG협의체장은 “디지털 금융 환경이 고도화될수록 새로운 금융 기술을 제대로 이해하고 안전하게 활용할 수 있는 디딤돌 역량이 더욱 중요해지고 있다”라며 “AI 금융 서비스 교육 도입 등 시니어...",
+          "src": "g-enews",
           "date": "08/25",
-          "url": "https://www.taxwatch.co.kr/article/tax/2026/08/25/0002/naver",
-          "img": "https://cdn.taxwatch.co.kr/news/index/2026/08/25/ea5b68427b9baa80aa12f29085529fb1.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608251522461215cd0bfacc1c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082515392204579cd0bfacc1c595103236.jpg"
         },
         {
-          "title": "눈앞에 다가온 국가시범 세종 스마트시티",
-          "desc": "(PM)를 활용하고, 장거리에는 수요응답형 차량(DRT)과 자율주행 셔틀, BRT, 공유차를 목적에 맞게 선택할 수 있다. 또한 지상공간을 보행중심으로 만들기 위해 '스마트 통합배송체계'를 도입한다. 택배차량이 배송센터에...",
-          "src": "inews365",
+          "title": "AI가 24시간 복지·세금·안전 상담…\"2027년부터 구현\"(종합)",
+          "desc": "최고의 AI민주정부 실현 전략'을 보고했다고 밝혔다. 정부는 AI를 활용해 국민에게 필요한 서비스를 먼저... 윤호중 행안부 장관은 \"AI민주정부의 핵심은 단순한 AI 기술 도입이 아니라 AI를 통해 국민이 국정운영의 진정한...",
+          "src": "뉴시스",
           "date": "08/25",
-          "url": "https://www.inews365.com/news/article.html?no=932985",
-          "img": "https://www.inews365.com/data/photos/20260835/art_17876335397007.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014147364?sid=100",
+          "img": "https://img1.newsis.com/2026/08/25/NISI20260825_0002220880_web.jpg"
         },
         {
-          "title": "전기안전공사, 제주 재생에너지 전력설비 안전관리 힘 보탠다",
-          "desc": "인공지능(AI) 기반 안전·운전관리 ▲안정적인 재생에너지 보급·확대를 위한 기술지원 ▲신기술 도입 및... 전문성을 활용해 제주지역 재생에너지 설비의 안전관리 기술을 지원할 계획이다. AI 기술을 검사 업무에 접목해...",
-          "src": "electimes",
+          "title": "코딧, ICT 규제샌드박스 AI 기반 규제확인 서비스 운영사로 선정",
+          "desc": "정지은 코딧 대표는 \"이번 운영사 선정은 코딧의 AI 규제분석 기술과 정책 데이터 활용 역량을 인정받은 결과\"라며 \"이미 시장에서 검증된 상용 구독형 서비스를 도입한 민관협력의 좋은 선례가 될 것\"이라고 밝혔다....",
+          "src": "hellot",
           "date": "08/25",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=371605",
-          "img": "https://cdn.electimes.com/news/thumbnail/202608/371605_584546_4828_v150.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=114542",
+          "img": "https://www.hellot.net/data/photos/20260835/art_17876414164729_9fabe5.jpg"
         },
         {
-          "title": "[윤영숙의 시선] 반도체 호황인데 삼성은 왜 계약학과를 줄였나",
-          "desc": "AI·AI 데이터센터 등 3대 메가프로젝트를 지원하기 위해 '지역협약정원제'와 '인재양성 신속트랙제'를 도입하겠다고 밝혔다. 지방대가 기업이 요구하는 초과 인력을 정원 외로 선발하고, 전과와 편입학을 활용해 필요한...",
-          "src": "news",
+          "title": "성균관대, 융합인재전형 신설, 학생부종합으로",
+          "desc": "성균관대는 지역의사선발전형 도입에 따라 성균인재-지역인재 전형을 통해 의정부권, 남양주권, 포천권 각... 성균관대 인공지능학과는 AI 기술을 단순히 활용하는 것을 넘어 설계하고 창출할 수 있는 'AI-Native' 인재...",
+          "src": "매일경제",
           "date": "08/25",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431696",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4431696_339108_482_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005725592?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/26/20260826_01110205000004_L00.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "미래에셋증권 \"에스피지, 감속기 3종 풀라인업으로 로봇 부품시장 공략...",
+          "desc": "에스피지가 현재 가장 많은 매출을 올리는 협력사는 레인보우로보틱스다. 레인보우로보틱스는 과거... 에스피지는 로봇 부품 수리 시장인 '오버홀' 사업도 확대하고 있다. 삼성전자 자회사 세메스가 반도체...",
+          "src": "irobotnews",
+          "date": "08/25",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48085",
+          "img": "https://cdn.irobotnews.com/news/photo/202608/48085_103168_5959.png"
+        },
         {
           "title": "[특징주]에프에스티, 반도체 약세장서 20% 폭등…삼성 2나노 'CNT 펠리클...",
           "desc": "에프에스티는 삼성전자가 지분 약 7%를 보유한 협력사로, 2세대 CNT EUV 펠리클을 상업 생산할 수 있는 세계... 에프에스티는 반도체 EUV 펠리클과 온도조절장치(칠러) 등을 생산하는 반도체 소재·부품 전문기업이다....",
@@ -122,15 +130,7 @@ window.NEWS_DATA = {
           "src": "mstoday",
           "date": "08/25",
           "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102396",
-          "img": "https://www.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
-        },
-        {
-          "title": "스마트폰 신화 구미, 삼성 19조 베팅에 '휴머노이드 로봇' 메카로 뜬다",
-          "desc": "또한 LG이노텍, 인탑스 등 산단 내 핵심 부품 기업들과의 시너지를 통해 글로벌 로봇 공급망 전진기지 입지를 굳힐 전망이다. 다만 이 같은 비전을 현실화하기 위해 넘어야 할 과제도 만만치 않다. 최근 삼성전자 노태문...",
-          "src": "imaeil",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/088/0001025012?sid=101",
-          "img": "https://www.imaeil.com/photos/2026/08/19/2026081916235863588_l.jpg"
+          "img": "https://cdn.mstoday.co.kr/news/thumbnail/202608/102396_101057_4637_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "한가인 \"14년 쓴 삼성 냉장고, 여전히 고성능에 디자인도 예뻐…이젠 AI...",
-      "url": "https://www.ajunews.com/view/20260825134838875",
-      "img": "https://image.ajunews.com/content/image/2026/08/25/20260825134954809366.jpg"
+      "title": "신보, 협력사 보증심사에 '프로젝트 사업성' 더한 이유는?...재무제표 넘...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=348315",
+      "img": "https://cdn.greened.kr/news/thumbnail/202608/348315_399706_4217_v150.jpg"
     },
     {
-      "title": "[단독] 로보락, 국내 음식물처리기 시장 진출 안한다 … “로청·세탁건...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500115.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/25/2026082500115_0.jpg?u=20260825104901?u=20260825104901"
+      "title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
+      "url": "https://www.etoday.co.kr/news/view/2617932",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260825142303_2377883_1128_966.png"
     },
     {
-      "title": "삼성전자, 'EHS 히트펌프 보일러' 국내 생산… 韓 난방 전기화 대중화 동...",
-      "url": "https://www.betanews.net/article/view/beta202608250029",
-      "img": "https://www.betanews.net/data/beta/image/2026/08/25/beta20260825000042.jpg"
+      "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
+      "url": "https://www.viva100.com/article/20260825500697",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825161014"
     },
     {
-      "title": "삼성전자, 혼수 특화 매장 ‘삼성스토어 청담점’ 리뉴얼 오픈",
-      "url": "https://n.news.naver.com/mnews/article/082/0001395313?sid=101",
-      "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/25/2026082513220726152_l.jpg"
+      "title": "삼성전자, 청담점 ‘혼수 특화’로 리뉴얼…신혼집 맞춤 가전 한눈에",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251516093970268",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/08/25/202608251516093970268-2-686221.jpg"
     },
     {
-      "title": "챗봇 붙인다고 공공AX?…\"업무부터 다시 설계해야\"",
-      "url": "https://www.taxwatch.co.kr/article/tax/2026/08/25/0002/naver",
-      "img": "https://cdn.taxwatch.co.kr/news/index/2026/08/25/ea5b68427b9baa80aa12f29085529fb1.jpg"
+      "title": "카카오페이, 고령층 디지털 금융 넘어 AI 활용 교육 확대",
+      "url": "https://www.g-enews.com/view.php?ud=202608251522461215cd0bfacc1c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082515392204579cd0bfacc1c595103236.jpg"
     },
     {
-      "title": "눈앞에 다가온 국가시범 세종 스마트시티",
-      "url": "https://www.inews365.com/news/article.html?no=932985",
-      "img": "https://www.inews365.com/data/photos/20260835/art_17876335397007.jpg"
+      "title": "AI가 24시간 복지·세금·안전 상담…\"2027년부터 구현\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014147364?sid=100",
+      "img": "https://img1.newsis.com/2026/08/25/NISI20260825_0002220880_web.jpg"
     }
   ]
 };
