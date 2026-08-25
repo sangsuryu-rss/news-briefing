@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.25 (화) 19:51",
+  "updatedAt": "2026.08.25 (화) 22:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
-          "desc": "실제로 삼성전자 가전이 지난 2분기에 창사 이래 처음으로 영업적자를 기록한 것은 시장에 큰 충격을 줬다. 과거 삼성전자가 일본 소니를 넘어섰던 것처럼, 이제는 중국이 'K-가전'을 잠식해가고 있다는 것을 상징적으로...",
-          "src": "디지털타임스",
+          "title": "통영시 이재민 66가구 일상 회복 적극 지원",
+          "desc": "삼성전자·LG전자는 침수 가전제품 점검·수리 지원에도 나섰다. 산양읍사무소 주차장에 마련된 서비스 부스는 냉장고·세탁기·에어컨 등 대형 가전제품은 현장 방문 서비스를 병행해호평을 받고 있다. △한산농협...",
+          "src": "gnmaeil",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
+          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
+          "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
         },
         {
           "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825195125"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825221323"
         },
         {
-          "title": "“가전도 경험을 산다”…78만원짜리 커피메이커에 지갑 여는 사람들",
-          "desc": "세탁기는 얼마나 많이 빨 수 있는지, 냉장고는 얼마나 넓은지, 청소기는 얼마나 강하게 빨아들이는지가... 삼성전자와 LG전자도 인공지능(AI) 스마트 홈 생태계를 구축하며 기능에서 더 나아가 소비자의 감성까지 터치하는...",
-          "src": "매일경제",
+          "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
+          "desc": "실제로 삼성전자 가전이 지난 2분기에 창사 이래 처음으로 영업적자를 기록한 것은 시장에 큰 충격을 줬다. 과거 삼성전자가 일본 소니를 넘어섰던 것처럼, 이제는 중국이 'K-가전'을 잠식해가고 있다는 것을 상징적으로...",
+          "src": "디지털타임스",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725766?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/25/news-p.v1.20260825.47d7930e84814a94b435e2e391093078_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[사이언스게시판] 과기정통부, 'K-문샷 AI 휴머노이드 전문가 회의' 개최...",
-          "desc": "행사 현장에서도 출연연과 민간 기술이전전담조직이 함께 참여해 기술도입 조건과 후속절차를 협의했다.... KIOST는 무인 장비를 활용해 고위험 해역에 대한 연구진의 접근은 최소화한다고 밝혔다.",
-          "src": "dongascience",
+          "title": "복지부, 청년 보건의료인 10명과 첫 간담회 개최",
+          "desc": "개선 방안으로는 ▲정책 의사결정 과정에서 청년의 대표성과 참여 확대 ▲인공지능(AI) 기술 도입 등 정책... 동시에 정부뿐 아니라 각 직역별 내부 대의제도 활용과 거버넌스 개선에도 힘써 달라고 당부했다. 10~11월 중 열릴...",
+          "src": "medicalworldnews",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/584/0000039050?sid=105",
-          "img": "http://img.dongascience.com/dotcom-og.png"
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976817",
+          "img": "http://medicalworldnews.co.kr/img/facebook_no_tag.png"
         },
         {
-          "title": "경기도, 대학·기업 잇는 ‘피지컬AI 현장교육’ 확대…미래인재 키운다",
-          "desc": "ICT·AI·로봇 융합, 통합돌봄, 안전모니터링, 학습분석 등 실제 산업 현장의 활용 사례를 체험했다. 기업... 피지컬AI 확산센터 구축을 비롯해 중소기업 도입 컨설팅과 기술 실증, 제조기업 최고경영자 대상 교육 등을...",
-          "src": "m-economynews",
+          "title": "K뷰티 세계 1위 정조준…'화장품 산업 육성법' 국회 본회의 통과",
+          "desc": "연구개발과 자료(데이터)·인공지능(AI)·디지털 기술을 활용한 산업 혁신, 전문 인력 양성, 원료·용기 산업... 인증제 도입 등 후속 조치를 준비할 계획이다. 정은경 보건복지부 장관은 \"이번 법 제정을 계기로 창의적인...",
+          "src": "apparelnews",
           "date": "08/25",
-          "url": "https://www.m-economynews.com/news/article.html?no=70106",
-          "img": "https://www.m-economynews.com/data/photos/20260835/art_17876544359671_2cdcf7.jpg"
+          "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227170",
+          "img": ""
         },
         {
-          "title": "[주식마감] 'FDA 희귀의약품 지정'에 신라젠 상한가... 금호에이치티, 차...",
-          "desc": "진단제 기술을 개발해 기술이전 사업을 병행하고 있다. 이건산업은 전 거래일 대비 29.96%(800원) 오른... 디지털 광고 시장의 확대와 함께 AI 및 머신러닝을 활용한 광고 분석·효율 개선 수요가 증가하고 있는 만큼...",
-          "src": "ggilbo",
+          "title": "日, 호르무즈 우회 송유관 건설 지원…“중동 원유 의존 탈피”",
+          "desc": "이는 인공지능(AI) 보급으로 전력 수요가 늘어나는 상황에서 원유 조달처를 다변화하고 에너지 공급망을 강화하기 위해 마련됐다. 우선 일본 정부는 개발 자금 지원과 기술 협력 등을 통해 호르무즈해협 우회 송유관을...",
+          "src": "서울경제",
           "date": "08/25",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1177481",
-          "img": "https://cdn.ggilbo.com/news/photo/202608/1177481_1029923_197.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004655129?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/25/rcv.YNA.20260819.PRU20260819132301009_R.jpg"
         },
         {
-          "title": "공공기관서 ‘종이 방문대장’ 사라진다면…출입구 풍경 어떻게 바뀔까",
-          "desc": "AI데이터센터와 AI 실증 인프라 등을 운영하는 인공지능산업융합사업단(AICA)은 기존 수기 방식의 방문자 관리를 모바일 신원인증 기반의 디지털 출입관리 방식으로 전환한다. AICA가 도입하는 시스템은 바른정보기술이...",
-          "src": "geconomy",
+          "title": "경기도경제과학진흥원, '실무형 정보보호 인재 양성' 첫발",
+          "desc": "인터넷에 노출된 기업의 IT 자산과 취약점을 식별·관리하는 공격표면관리(ASM) 기술을 활용해 대학생이 실제... 부서에서 임의로 도입한 클라우드 서버, 방치된 테스트용 도메인, 오래된 웹사이트 등 관리 사각지대에...",
+          "src": "CNB뉴스",
           "date": "08/25",
-          "url": "https://www.geconomy.co.kr/news/article.html?no=323062",
-          "img": "https://www.geconomy.co.kr/data/photos/20260835/art_17876542539462_fa4cdd.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1012844",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1012844_514184_34.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "ceoscoredaily",
           "date": "08/25",
           "url": "https://www.ceoscoredaily.com/page/view/2026082517200339255",
-          "img": ""
+          "img": "https://www.ceoscoredaily.com/photos/2026/08/25/2026082517183050140_l.jpg"
         },
         {
           "title": "미래에셋증권 \"에스피지, 감속기 3종 풀라인업으로 로봇 부품시장 공략...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
+      "title": "통영시 이재민 66가구 일상 회복 적극 지원",
+      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
+      "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
     },
     {
       "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
@@ -189,22 +189,22 @@ window.NEWS_DATA = {
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825195125"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260825221323"
     },
     {
-      "title": "“가전도 경험을 산다”…78만원짜리 커피메이커에 지갑 여는 사람들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725766?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/25/news-p.v1.20260825.47d7930e84814a94b435e2e391093078_R.jpg"
+      "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
     },
     {
-      "title": "[사이언스게시판] 과기정통부, 'K-문샷 AI 휴머노이드 전문가 회의' 개최...",
-      "url": "https://n.news.naver.com/mnews/article/584/0000039050?sid=105",
-      "img": "http://img.dongascience.com/dotcom-og.png"
+      "title": "복지부, 청년 보건의료인 10명과 첫 간담회 개최",
+      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976817",
+      "img": "http://medicalworldnews.co.kr/img/facebook_no_tag.png"
     },
     {
-      "title": "경기도, 대학·기업 잇는 ‘피지컬AI 현장교육’ 확대…미래인재 키운다",
-      "url": "https://www.m-economynews.com/news/article.html?no=70106",
-      "img": "https://www.m-economynews.com/data/photos/20260835/art_17876544359671_2cdcf7.jpg"
+      "title": "日, 호르무즈 우회 송유관 건설 지원…“중동 원유 의존 탈피”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655129?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/08/25/rcv.YNA.20260819.PRU20260819132301009_R.jpg"
     }
   ]
 };
