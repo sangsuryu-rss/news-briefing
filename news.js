@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 03:59",
+  "updatedAt": "2026.08.26 (수) 05:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "통영시 이재민 66가구 일상 회복 적극 지원",
-          "desc": "삼성전자·LG전자는 침수 가전제품 점검·수리 지원에도 나섰다. 산양읍사무소 주차장에 마련된 서비스 부스는 냉장고·세탁기·에어컨 등 대형 가전제품은 현장 방문 서비스를 병행해호평을 받고 있다. △한산농협...",
-          "src": "gnmaeil",
-          "date": "08/25",
-          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
-          "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
+          "title": "[창간 12년 기획] 현대차그룹·삼성전자·LG전자, AI로 산업 대전환",
+          "desc": "현대자동차그룹은 자동차 제조 기술을 휴머노이드 로봇으로 확장하고 삼성전자와 LG전자도 반도체와 가전에서 확보한 기술과 데이터를 AI에 연결하고 있다. ▲현대차그룹, 자동차 제조 역량 'AI 로보틱스'로...",
+          "src": "getnews",
+          "date": "08/26",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878734",
+          "img": "https://cdn.getnews.co.kr/news/photo/202608/878734_534818_4454.png"
         },
         {
           "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826035919"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826054805"
         },
         {
-          "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
-          "desc": "실제로 삼성전자 가전이 지난 2분기에 창사 이래 처음으로 영업적자를 기록한 것은 시장에 큰 충격을 줬다. 과거 삼성전자가 일본 소니를 넘어섰던 것처럼, 이제는 중국이 'K-가전'을 잠식해가고 있다는 것을 상징적으로...",
-          "src": "디지털타임스",
+          "title": "통영시 이재민 66가구 일상 회복 적극 지원",
+          "desc": "삼성전자·LG전자는 침수 가전제품 점검·수리 지원에도 나섰다. 산양읍사무소 주차장에 마련된 서비스 부스는 냉장고·세탁기·에어컨 등 대형 가전제품은 현장 방문 서비스를 병행해호평을 받고 있다. △한산농협...",
+          "src": "gnmaeil",
           "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
+          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
+          "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
-          "desc": "특히 최근에는 영국 오카도의 AI 기반 스마트 플랫폼 기술을 활용한 '제타 스마트센터 부산'을 열고... 부문에서도 AI 적용이 강화되고 있다. 롯데케미칼은 첨단소재사업에 AI 기반 합성수지 컬러 매칭 시스템을 도입했...",
-          "src": "pointdaily",
+          "title": "\"亞 최대 ESG 분석 기업 탄생\"… 미오텍, 中 CCX와 합병 후 '2028년 홍콩 ...",
+          "desc": "고도화된 AI 기술력을 지닌 유망 테크 기업이 결합해 아시아 최대 규모의 ESG 데이터·지능형 분석... 알고리즘을 활용해 기업의 방대한 비재무 데이터를 수집·분석하고, ESG 보고서 작성 및 공급망 지속가능성...",
+          "src": "g-enews",
           "date": "08/26",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316740_312846_639_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026082521203887440c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260825212138069200c8c1c064d22114611240.jpg"
         },
         {
-          "title": "AI시대의 생산성 역설[투데이窓/임진]",
-          "desc": "생성형 AI 도입 이후 시간 당 처리건수가 평균 14% 증가했다. MIT 경제학과의 또다른 연구에서는 챗GPT를... 에릭 브린욜프슨 교수는 AI와 같은 범용기술의 잠재력을 제대로 활용하기 위해서는 보완적 무형 투자가...",
+          "title": "“반도체 추가세수, R&D·청년일자리 등 '동반성장'에 써야”[만났습니...",
+          "desc": "국가에서도 활용 중인 상생안이라고 강조했다. 정 이사장이 동반성장의 필요성을 절감한 것은 국무총리로... 체제’ 도입을 제안한다. AI혁신으로 막대한 부를 창출한 플랫폼 대기업과 기술 기업들은 그 토대가 되는...",
+          "src": "이데일리",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357971?sid=103",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600094.jpg"
+        },
+        {
+          "title": "S-OIL, AI시대 디지털 혁신과 액침냉각유 사업 속도",
+          "desc": "운영 데이터는 AI 기술을 결합하여 분석함으로써 예방 정비, 최적화 유지보수 전략 수립에 활용한다. 또 이동형 CC(폐쇄회로)TV 시스템을 도입해 면밀한 관찰이 필요한 다수의 작업 현장 여러 곳에서 동시 다발적으로...",
           "src": "머니투데이",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404650?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1599,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082509375510110_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005404697?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082510270454454_1.jpg"
         },
         {
-          "title": "276개팀 몰린 LIG D&A '방산 해커톤'…국내 최초 'AI 공방전' 시도",
-          "desc": "전장에서 AI 기술의 방산 적용 가능성을 겨뤘다. 25일 LIG D&A에 따르면, '에이전틱 AI 공방 해커톤 대회(DAH... 방식을 도입했다. LIG D&A는 에이전틱 AI를 활용해 공격과 방어를 동시에 겨루는 방식이 국내는 물론...",
-          "src": "apnews",
+          "title": "배충식 카이스트 총장 “AI 역할 커질수록 기본이 중요”",
+          "desc": "이에 따라 교육과정을 AI 활용 수준과 교육 목적에 따라 재설계하고 인문학과 기초과학의 기반 위에서 AI... 새로운 기술이 어떤 문제를 해결하고 어떤 가치를 만들 수 있는지 생각하는 능력은 창업가뿐 아니라...",
+          "src": "서울신문",
           "date": "08/26",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050695",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050695_83292_442_v150.jpg"
-        },
-        {
-          "title": "샘 올트먼 “AI, 아직 팜파일럿 단계”…아이폰 모먼트는 아직 안 왔다...",
-          "desc": "진단올트먼은 AI 도입이 늦어지는 원인을 기술이 아니라 사람과 조직의 습관에서 찾았다. 그는... 그는 팟캐스트에서 자신조차 AI를 충분히 활용하지 못하고 있다고 인정했다. 오픈AI의 코딩 도구 코덱스(Codex) 같은...",
-          "src": "wikitree",
-          "date": "08/26",
-          "url": "https://www.wikitree.co.kr/articles/1154925",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/26/202608260020197874_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003673540?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/08/26/SSC_20260826013803_O2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "통영시 이재민 66가구 일상 회복 적극 지원",
-      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
-      "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
+      "title": "[창간 12년 기획] 현대차그룹·삼성전자·LG전자, AI로 산업 대전환",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878734",
+      "img": "https://cdn.getnews.co.kr/news/photo/202608/878734_534818_4454.png"
     },
     {
       "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
@@ -189,22 +189,22 @@ window.NEWS_DATA = {
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826035919"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826054805"
     },
     {
-      "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044279?sid=110",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
+      "title": "통영시 이재민 66가구 일상 회복 적극 지원",
+      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
+      "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
     },
     {
-      "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316740_312846_639_v150.jpg"
+      "title": "\"亞 최대 ESG 분석 기업 탄생\"… 미오텍, 中 CCX와 합병 후 '2028년 홍콩 ...",
+      "url": "https://www.g-enews.com/view.php?ud=2026082521203887440c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260825212138069200c8c1c064d22114611240.jpg"
     },
     {
-      "title": "AI시대의 생산성 역설[투데이窓/임진]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404650?sid=110",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1599,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082509375510110_1.jpg"
+      "title": "“반도체 추가세수, R&D·청년일자리 등 '동반성장'에 써야”[만났습니...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357971?sid=103",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600094.jpg"
     }
   ]
 };
