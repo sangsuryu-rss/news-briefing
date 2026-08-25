@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 00:07",
+  "updatedAt": "2026.08.26 (수) 01:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826000802"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826015746"
         },
         {
           "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[울산 리부트-AI 헬스케어로 산업 전환의 해법을 찾다]의료난 해법 AI 도...",
-          "desc": "특히 연구개발 이후 상용화와 기술 도입 과정에서 발생하는 장벽 해결법으로 \"캐나다 경제 전반에서 AI가 실제 활용되도록 하고, 중소기업과 공공서비스를 지원하며 노동자에게 도움이 되는 산업용 AI 기술을...",
-          "src": "ksilbo",
-          "date": "08/26",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065462",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1065462_644190_2517_v150.jpg"
-        },
-        {
-          "title": "은행 서비스에 AI 입히다",
-          "desc": "결합한 '하이브리드 AI상담봇' 구축을 추진하고 있다. 전화 음성 안내와 스마트폰 화면을 함께 활용하는 멀티모달 기술을 도입해 고객이 비대면 상담 과정에서 금융 절차를 처리할 수 있도록 한다. NH농협은행은 대면...",
-          "src": "newsclaim",
-          "date": "08/26",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073148",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3073148_114976_233_v150.jpg"
-        },
-        {
-          "title": "[朝鮮칼럼] ‘AI 중심 국가’라는 해괴한 이름 짓기",
-          "desc": "AI 도입 건수가 같은 자리를 차지한다. 문화 분야라고 다를까? 창작 지원 심사에서 ‘AI 활용’이 가점(加點)... AI는 범용기술이니 어디에나 붙는 게 당연하다고 항변할 수 있겠다. 그러나 바로 그 지점이 급소다....",
-          "src": "조선일보",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994859?sid=110",
-          "img": "https://www.chosun.com/resizer/v2/4G44IKNJTNCKTBVTC2ARLPFHVQ.png?auth=61167e1321b7cc265f0b2e703165e1f7e0ea1fab75581b926af182aca98222b8&width=500&height=262&smart=true"
-        },
-        {
-          "title": "학교 체육관 '무인 개방' 확산…에스원, AI로 안전 빈틈 메운다",
-          "desc": "운영을 도입했으며, 에스원은 경기 의왕 지역 3개 학교에서 시범사업을 진행하고 있다. '체육관 무인관리... 데는 AI 영상분석 기술을 활용한다. 지난해 9월 서울의 한 초등학교에서는 지하 1층 전기실 태양광 인버터에서...",
+          "title": "276개팀 몰린 LIG D&A '방산 해커톤'…국내 최초 'AI 공방전' 시도",
+          "desc": "전장에서 AI 기술의 방산 적용 가능성을 겨뤘다. 25일 LIG D&A에 따르면, '에이전틱 AI 공방 해커톤 대회(DAH... 방식을 도입했다. LIG D&A는 에이전틱 AI를 활용해 공격과 방어를 동시에 겨루는 방식이 국내는 물론...",
           "src": "apnews",
-          "date": "08/25",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050681",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050681_83274_5311_v150.jpg"
+          "date": "08/26",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050695",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050695_83292_442_v150.jpg"
+        },
+        {
+          "title": "LS ITC-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
+          "desc": "양사는 제조 공정에서 발생하는 다양한 현장 데이터를 활용해 AI 기술의 실질적인 활용 가능성을... 한편 LS그룹은 전사적인 AI 전환(AX)을 추진하고 있다. 사무 영역에서는 그룹 공통 AI 플랫폼인 'LS GPT' 등을 도입했...",
+          "src": "고코리아",
+          "date": "08/26",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=876292",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/876292_153435_99_v150.jpg"
+        },
+        {
+          "title": "샘 올트먼 “AI, 아직 팜파일럿 단계”…아이폰 모먼트는 아직 안 왔다...",
+          "desc": "진단올트먼은 AI 도입이 늦어지는 원인을 기술이 아니라 사람과 조직의 습관에서 찾았다. 그는... 그는 팟캐스트에서 자신조차 AI를 충분히 활용하지 못하고 있다고 인정했다. 오픈AI의 코딩 도구 코덱스(Codex) 같은...",
+          "src": "wikitree",
+          "date": "08/26",
+          "url": "https://www.wikitree.co.kr/articles/1154925",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/26/202608260020197874_ai.jpeg"
+        },
+        {
+          "title": "효성중공업, 파리서 '미래 전력망' 승부…HVDC·SST·SF₆-Free GIS 총출동",
+          "desc": "전력망 기술을 전면에 내세운다. 인공지능(AI) 확산과 데이터센터 투자 증가로 글로벌 전력 수요가... 유럽 전력시장이 탄소중립과 친환경 전력기기 도입을 강화하는 상황에서 온실가스 감축 기술을 앞세워 현지...",
+          "src": "apnews",
+          "date": "08/26",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050689",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050689_83284_4737_v150.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@ window.NEWS_DATA = {
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826000802"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826015746"
     },
     {
       "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
     },
     {
-      "title": "[울산 리부트-AI 헬스케어로 산업 전환의 해법을 찾다]의료난 해법 AI 도...",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065462",
-      "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202608/1065462_644190_2517_v150.jpg"
+      "title": "276개팀 몰린 LIG D&A '방산 해커톤'…국내 최초 'AI 공방전' 시도",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050695",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050695_83292_442_v150.jpg"
     },
     {
-      "title": "은행 서비스에 AI 입히다",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3073148",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202608/3073148_114976_233_v150.jpg"
+      "title": "LS ITC-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=876292",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202608/876292_153435_99_v150.jpg"
     }
   ]
 };
