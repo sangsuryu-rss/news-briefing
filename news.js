@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 05:47",
+  "updatedAt": "2026.08.26 (수) 07:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[창간 12년 기획] 현대차그룹·삼성전자·LG전자, AI로 산업 대전환",
-          "desc": "현대자동차그룹은 자동차 제조 기술을 휴머노이드 로봇으로 확장하고 삼성전자와 LG전자도 반도체와 가전에서 확보한 기술과 데이터를 AI에 연결하고 있다. ▲현대차그룹, 자동차 제조 역량 'AI 로보틱스'로...",
-          "src": "getnews",
+          "title": "엔비디아 실적 D-1 관전 포인트 4가지-[굿모닝 글로벌 이슈]",
+          "desc": "이어서 가전제품과 유제품, 일부 철강 및 알루미늄 파생 제품에는 25%의 관세가 부과되며 산업용 공구 등에는... 특히 엔비디아의 가이던스는 삼성전자와 SK하이닉스의 HBM과 D램 수요와도 직결되기 때문에 우리 증시에서도...",
+          "src": "wowtv",
           "date": "08/26",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878734",
-          "img": "https://cdn.getnews.co.kr/news/photo/202608/878734_534818_4454.png"
+          "url": "https://n.news.naver.com/mnews/article/215/0001263617?sid=101",
+          "img": ""
         },
         {
-          "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
-          "desc": "-편집자 말 ◇ 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴얼 삼성전자 모델이 삼성스토어... 스타필드 고양 지하 1층 로보락 플래그십 스토어에서는 로봇청소기와 진공 물걸레 청소기 등 주요 스마트홈...",
-          "src": "ibabynews",
-          "date": "08/25",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=153989",
-          "img": "https://www.ibabynews.com/news/photo/202608/153989_120395_2645.jpg"
+          "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
+          "desc": "고도화하며 삼성전자와 LG전자가 주도해온 프리미엄 시장까지 경쟁 범위를 넓히는 모습이다. TV 밖에서는 기존 청소가전 업체들의 종합가전 전환이 두드러진다. 대표적인 곳이 드리미다. 로봇청소기를 주력으로...",
+          "src": "데일리안",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1787641628_1682171_m_1.jpg"
         },
         {
-          "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
-          "desc": "25일 관련 업계에 따르면, 삼성전자와 LG전자는 에어컨과 냉장고, 세탁·건조기 등 주요 제품의 성능을 유지하면서도 전력 소비를 낮추는 기술을 적용해 효율성을 높이는 데 주력하고 있다. 이 같은 흐름은 최근 열린...",
-          "src": "브릿지경제",
-          "date": "08/25",
-          "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826054805"
+          "title": "[소비자가 뽑은 참 좋은 브랜드-디오스 오브제컬렉션] 사용 패턴 맞춤 ...",
+          "desc": "LG전자(대표 류재철)의 디오스 오브제컬렉션이 '2026 소비자가 뽑은 참 좋은 브랜드' 냉장고 부문 1위에 선정됐다. 이번 조사에서 LG전자 디오스 오브제컬렉션은 경쟁 브랜드인 삼성전자를 비롯해 프렌치(위니아)...",
+          "src": "소비자가만드는신문",
+          "date": "08/26",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762168",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/762168_316989_4217_v150.jpg"
         },
         {
-          "title": "통영시 이재민 66가구 일상 회복 적극 지원",
-          "desc": "삼성전자·LG전자는 침수 가전제품 점검·수리 지원에도 나섰다. 산양읍사무소 주차장에 마련된 서비스 부스는 냉장고·세탁기·에어컨 등 대형 가전제품은 현장 방문 서비스를 병행해호평을 받고 있다. △한산농협...",
-          "src": "gnmaeil",
-          "date": "08/25",
-          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
-          "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
+          "title": "[산업 리그테이블]①삼성, '영업익 11배' 폭증…전자 날고 전기·중공업...",
+          "desc": "인공지능(AI) 반도체 호황을 탄 삼성전자가 이익의 97% 이상을 쓸어 담은 가운데 삼성전기·삼성중공업... 스마트폰·TV·가전 등을 담당하는 DX부문은 메모리 가격 급등이 원가 부담으로 돌아오면서 2분기 8000억원의...",
+          "src": "news",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/648/0000050150?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/25/314ff6180f2f1eaedd3cce6b4be7aac7.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"亞 최대 ESG 분석 기업 탄생\"… 미오텍, 中 CCX와 합병 후 '2028년 홍콩 ...",
-          "desc": "고도화된 AI 기술력을 지닌 유망 테크 기업이 결합해 아시아 최대 규모의 ESG 데이터·지능형 분석... 알고리즘을 활용해 기업의 방대한 비재무 데이터를 수집·분석하고, ESG 보고서 작성 및 공급망 지속가능성...",
-          "src": "g-enews",
-          "date": "08/26",
-          "url": "https://www.g-enews.com/view.php?ud=2026082521203887440c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260825212138069200c8c1c064d22114611240.jpg"
-        },
-        {
-          "title": "“반도체 추가세수, R&D·청년일자리 등 '동반성장'에 써야”[만났습니...",
-          "desc": "국가에서도 활용 중인 상생안이라고 강조했다. 정 이사장이 동반성장의 필요성을 절감한 것은 국무총리로... 체제’ 도입을 제안한다. AI혁신으로 막대한 부를 창출한 플랫폼 대기업과 기술 기업들은 그 토대가 되는...",
+          "title": "애플, 2나노 'M6'·쿼드다이 'M5 울트라' 공개…차세대 데스크탑 탑재[모...",
+          "desc": "대규모 AI 모델 구동에 특화된 역대 가장 강력한 최상위 칩이다. 울트라퓨전(UltraFusion) 기술을 활용해... 아키텍처를 도입해 저장 장치 읽기·쓰기 속도를 기존 대비 최대 2배 늘렸다. 아울러 최대 120Gb/s...",
           "src": "이데일리",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357971?sid=103",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600094.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006358014?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600218.jpg"
         },
         {
-          "title": "S-OIL, AI시대 디지털 혁신과 액침냉각유 사업 속도",
-          "desc": "운영 데이터는 AI 기술을 결합하여 분석함으로써 예방 정비, 최적화 유지보수 전략 수립에 활용한다. 또 이동형 CC(폐쇄회로)TV 시스템을 도입해 면밀한 관찰이 필요한 다수의 작업 현장 여러 곳에서 동시 다발적으로...",
-          "src": "머니투데이",
+          "title": "日, 걸프국 '호르무즈 우회 송유관' 건설 지원…원유 조달망 다변화",
+          "desc": "및 기술 협력 등을 지원할 계획이다. 에너지·금속광물자원기구(JOGMEC)를 통해 일본 기업 등의 참여도 지원할... 제도도 도입할 계획이다. 탈탄소화 방안도 포함됐다. 정부는 원자력발전을 최대한 활용한다는 방침 하에...",
+          "src": "뉴스1",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404697?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082510270454454_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009132545?sid=104",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067513/high.jpg"
         },
         {
-          "title": "배충식 카이스트 총장 “AI 역할 커질수록 기본이 중요”",
-          "desc": "이에 따라 교육과정을 AI 활용 수준과 교육 목적에 따라 재설계하고 인문학과 기초과학의 기반 위에서 AI... 새로운 기술이 어떤 문제를 해결하고 어떤 가치를 만들 수 있는지 생각하는 능력은 창업가뿐 아니라...",
-          "src": "서울신문",
+          "title": "한국후지필름, 올인원 포토키오스크 '셀피부스 스마트' 출시",
+          "desc": "단순한 촬영 기기를 넘어 인테리어 요소로도 활용 가능하며 매장 및 브랜드 콘셉트에 맞춘 외관 디자인 커스터마이징도 지원한다. 촬영 편의성과 결과물의 완성도를 높이는 기능도 갖췄다. AI 기반 자동 보정 기술과 다양한...",
+          "src": "slist",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/081/0003673540?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/26/SSC_20260826013803_O2.jpg"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=761313",
+          "img": "https://cdn.slist.kr/news/thumbnail/202608/761313_1166131_3558_v150.jpg"
+        },
+        {
+          "title": "\"백화점 MD도 데이터 시대\"…롯데백화점이 '브랜드 AI'에 공들인 까닭",
+          "desc": "유통업계가 인공지능 기술을 단순 업무 자동화 수준을 넘어 핵심 경영 전략 수립의 도구로 적극 활용하고... 연결해 AI가 스스로 추론할 수 있도록 돕는 '데이터 온톨로지' 기술을 적용했다. 시스템 도입 후 한 달간...",
+          "src": "thefairnews",
+          "date": "08/26",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86113",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202608/86113_132280_3056_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[창간 12년 기획] 현대차그룹·삼성전자·LG전자, AI로 산업 대전환",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878734",
-      "img": "https://cdn.getnews.co.kr/news/photo/202608/878734_534818_4454.png"
+      "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1787641628_1682171_m_1.jpg"
     },
     {
-      "title": "[가전 트렌드] 삼성전자, 혼수가전 특화 '삼성스토어 청담점' 전면 리뉴...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153989",
-      "img": "https://www.ibabynews.com/news/photo/202608/153989_120395_2645.jpg"
+      "title": "[소비자가 뽑은 참 좋은 브랜드-디오스 오브제컬렉션] 사용 패턴 맞춤 ...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762168",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/762168_316989_4217_v150.jpg"
     },
     {
-      "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
-      "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826054805"
+      "title": "[산업 리그테이블]①삼성, '영업익 11배' 폭증…전자 날고 전기·중공업...",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050150?sid=101",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/25/314ff6180f2f1eaedd3cce6b4be7aac7.jpg"
     },
     {
-      "title": "통영시 이재민 66가구 일상 회복 적극 지원",
-      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=593456",
-      "img": "http://www.gnmaeil.com/news/thumbnail/202608/593456_595786_3353_v150.jpg"
+      "title": "애플, 2나노 'M6'·쿼드다이 'M5 울트라' 공개…차세대 데스크탑 탑재[모...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006358014?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600218.jpg"
     },
     {
-      "title": "\"亞 최대 ESG 분석 기업 탄생\"… 미오텍, 中 CCX와 합병 후 '2028년 홍콩 ...",
-      "url": "https://www.g-enews.com/view.php?ud=2026082521203887440c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260825212138069200c8c1c064d22114611240.jpg"
+      "title": "日, 걸프국 '호르무즈 우회 송유관' 건설 지원…원유 조달망 다변화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009132545?sid=104",
+      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067513/high.jpg"
     },
     {
-      "title": "“반도체 추가세수, R&D·청년일자리 등 '동반성장'에 써야”[만났습니...",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357971?sid=103",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600094.jpg"
+      "title": "한국후지필름, 올인원 포토키오스크 '셀피부스 스마트' 출시",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=761313",
+      "img": "https://cdn.slist.kr/news/thumbnail/202608/761313_1166131_3558_v150.jpg"
     }
   ]
 };
