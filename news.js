@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 01:57",
+  "updatedAt": "2026.08.26 (수) 03:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "08/25",
           "url": "https://www.viva100.com/article/20260825500697",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826015746"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826035919"
         },
         {
           "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
+          "desc": "특히 최근에는 영국 오카도의 AI 기반 스마트 플랫폼 기술을 활용한 '제타 스마트센터 부산'을 열고... 부문에서도 AI 적용이 강화되고 있다. 롯데케미칼은 첨단소재사업에 AI 기반 합성수지 컬러 매칭 시스템을 도입했...",
+          "src": "pointdaily",
+          "date": "08/26",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316740_312846_639_v150.jpg"
+        },
+        {
+          "title": "AI시대의 생산성 역설[투데이窓/임진]",
+          "desc": "생성형 AI 도입 이후 시간 당 처리건수가 평균 14% 증가했다. MIT 경제학과의 또다른 연구에서는 챗GPT를... 에릭 브린욜프슨 교수는 AI와 같은 범용기술의 잠재력을 제대로 활용하기 위해서는 보완적 무형 투자가...",
+          "src": "머니투데이",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404650?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1599,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082509375510110_1.jpg"
+        },
+        {
           "title": "276개팀 몰린 LIG D&A '방산 해커톤'…국내 최초 'AI 공방전' 시도",
           "desc": "전장에서 AI 기술의 방산 적용 가능성을 겨뤘다. 25일 LIG D&A에 따르면, '에이전틱 AI 공방 해커톤 대회(DAH... 방식을 도입했다. LIG D&A는 에이전틱 AI를 활용해 공격과 방어를 동시에 겨루는 방식이 국내는 물론...",
           "src": "apnews",
@@ -69,28 +85,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050695_83292_442_v150.jpg"
         },
         {
-          "title": "LS ITC-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
-          "desc": "양사는 제조 공정에서 발생하는 다양한 현장 데이터를 활용해 AI 기술의 실질적인 활용 가능성을... 한편 LS그룹은 전사적인 AI 전환(AX)을 추진하고 있다. 사무 영역에서는 그룹 공통 AI 플랫폼인 'LS GPT' 등을 도입했...",
-          "src": "고코리아",
-          "date": "08/26",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=876292",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202608/876292_153435_99_v150.jpg"
-        },
-        {
           "title": "샘 올트먼 “AI, 아직 팜파일럿 단계”…아이폰 모먼트는 아직 안 왔다...",
           "desc": "진단올트먼은 AI 도입이 늦어지는 원인을 기술이 아니라 사람과 조직의 습관에서 찾았다. 그는... 그는 팟캐스트에서 자신조차 AI를 충분히 활용하지 못하고 있다고 인정했다. 오픈AI의 코딩 도구 코덱스(Codex) 같은...",
           "src": "wikitree",
           "date": "08/26",
           "url": "https://www.wikitree.co.kr/articles/1154925",
           "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/26/202608260020197874_ai.jpeg"
-        },
-        {
-          "title": "효성중공업, 파리서 '미래 전력망' 승부…HVDC·SST·SF₆-Free GIS 총출동",
-          "desc": "전력망 기술을 전면에 내세운다. 인공지능(AI) 확산과 데이터센터 투자 증가로 글로벌 전력 수요가... 유럽 전력시장이 탄소중립과 친환경 전력기기 도입을 강화하는 상황에서 온실가스 감축 기술을 앞세워 현지...",
-          "src": "apnews",
-          "date": "08/26",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050689",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050689_83284_4737_v150.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@ window.NEWS_DATA = {
     {
       "title": "에너지위너상 휩쓴 삼성·LG⋯ 미래 가전 핵심은 ‘AI 고효율’",
       "url": "https://www.viva100.com/article/20260825500697",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826015746"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825500694.jpg?v=20260826035919"
     },
     {
       "title": "[박정일 칼럼] 반도체에 가려진 韓경제 ‘외줄타기’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://wimg.dt.co.kr/news/cms/2026/08/25/news-p.v1.20260825.99af85d6825d448784845922ce674a23_R.jpg"
     },
     {
-      "title": "276개팀 몰린 LIG D&A '방산 해커톤'…국내 최초 'AI 공방전' 시도",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050695",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202608/3050695_83292_442_v150.jpg"
+      "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316740_312846_639_v150.jpg"
     },
     {
-      "title": "LS ITC-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=876292",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202608/876292_153435_99_v150.jpg"
+      "title": "AI시대의 생산성 역설[투데이窓/임진]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404650?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1599,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082509375510110_1.jpg"
     }
   ]
 };
