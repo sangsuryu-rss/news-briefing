@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 13:57",
+  "updatedAt": "2026.08.26 (수) 16:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "기업 디지털 채널의 만족도 평가…20개 부문에서 1위 기업 선정",
+          "desc": "부문별로는 삼성전자가 4년 연속 종합가전 부문 1위에 올랐다. KB국민은행(시중은행 부문)과 LG유플러스(이동통신 부문), 삼성서울병원(종합병원 부문)은 각각 3년 연속 정상을 차지했다. 한국교통안전공단은...",
+          "src": "한국경제",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324986?sid=103",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
+          "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
+          "desc": "삼성전자가 한국표준협회에서 주최하는 디지털고객경험지수(DCXI) 종합가전 부문에서 4년 연속 1위를... 비스포크 AI 스팀 로봇청소기는 제품 전면에 들어간 RGB 카메라 센서와 적외선 LED로 유색 액체는 물론 투명...",
+          "src": "한국경제",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324982?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+        },
+        {
           "title": "미·캐나다 ‘관세전쟁’ 불똥?…산업계 ‘촉각’",
           "desc": "삼성전자(005930)는 미국 사우스캐롤라이나, LG전자(066570)는 테네시에서 세탁기 등 가전제품을 생산하고 있지만, 미국 내수 판매 중심으로 캐나다 수출 물량이 없어 영향이 제한적일 것이라는 판단입니다. 가전업계...",
           "src": "newstomato",
           "date": "08/26",
           "url": "http://www.newstomato.com/ReadNews.aspx?no=1311458&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261345"
+          "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261413"
         },
         {
-          "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
-          "desc": "삼성전자는 최신 로봇청소기에 '녹스 볼트'와 '녹스 매트릭스'를 탑재했다. 암호화 키 등 민감 정보를 별도 보안 칩에 저장하고, 연결된 기기끼리 보안 상태를 점검하는 방식이다. 이미지와 영상에는 종단 간 암호화(E2EE)...",
-          "src": "thepublic",
+          "title": "동탄역 ‘슬세권’ 주거지 관심…GTX-A·SRT에 상업·문화시설까지",
+          "desc": "빌트인 가전·커뮤니티 적용…동탄역 생활권 활용 광역교통망과 상업·문화시설을 가까이에서 이용할 수... 삼성전자 화성·기흥캠퍼스와 삼성SDI 등 경기 남부 주요 산업시설이 인근에 위치하고 있으며, 용인...",
+          "src": "economist",
           "date": "08/26",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
-          "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
-        },
-        {
-          "title": "KPR \"여름 축제, 체험형 라이프스타일로 진화\"",
-          "desc": "삼성전자는 체코 음악 축제 록 포 피플 현장에서 세탁기와 건조기를 운영해 관람객 옷을 즉시 세탁해주는 서비스를 제공했다. 신명희 KPR 부문장은 \"페스티벌 마케팅의 성패는 부스의 크기가 아니라 소비자의 숨은...",
-          "src": "한스경제",
-          "date": "08/26",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859623",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859623_881356_1043_v150.jpg"
-        },
-        {
-          "title": "[로청 세정제의 비밀]②中업체는 왜 세정제 쓰나…'과잉 살균' 꼭 필요할...",
-          "desc": "삼성전자의 로봇청소기 제품은 세척과 살균 기능을 탑재하고 있지만 물걸레 세척용 세정제를 사용하고 있지... 금성전자 전자레인지 광고에서 이미 '강력한 살균 작용'을 장점으로 내세웠고, 1990년대 들어서는 냉장고와...",
-          "src": "view",
-          "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/277/0005807297?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082514162791995_1787634987.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000102190?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/26/ecn20260826000070.800x.0.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG CNS, 삼송 데이터센터에 액체냉각 도입…'AI 팩토리' 인프라 경쟁 본...",
-          "desc": "경험을 활용한다. 양사는 내년까지 액체냉각 인프라 구축과 실증을 완료할 예정이다. 조헌혁 LG CNS 데이터센터사업담당 상무는 \"데이터센터 냉각 기술이 AI 서비스 품질과 운영 효율의 핵심 경쟁력이 되고 있다\"며...",
-          "src": "thefirstmedia",
+          "title": "현대차, 2030년 판매 555만대 목표…신차 100종 이상 투입",
+          "desc": "울산 전기차 신공장에는 AI 기반 품질 관리·검사와 첨단생산 기술 108개를 도입해 소프트웨어중심공장... 핵심은 실제 생산현장과 양산차에서 데이터를 축적하고 이를 다시 AI 고도화에 활용하는 선순환 구조를...",
+          "src": "joseilbo",
           "date": "08/26",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206880",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206880_190786_4819_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/123/0002389063?sid=101",
+          "img": "https://www.joseilbo.com/gisa_img/17877280341787728034_wjin.jpg"
         },
         {
-          "title": "에스원, 학교보안 넘어 시설운영·안전관리까지···무인안전솔루션 확...",
-          "desc": "시범 도입했다. 의왕의 한 중학교는 별도 관리 인력 없이 주말 체육관을 운영하고 있다. 개방 시간대... 역량과 AI·IoT 기술을 바탕으로 학교를 비롯한 공공시설이 안심하고 문을 열 수 있는 안전인프라 구축에 기여하겠다...",
-          "src": "globale",
+          "title": "[금융 게시판] 금융권 '미래금융 체질전환' 속도…신한·우리·하나·농...",
+          "desc": "금융권 관계자는 \"금융권의 디지털 경쟁은 단순히 새로운 기술을 먼저 도입하는 단계에서 벗어나 '누가... NH농협손해보험은 AI·디지털 기술을 활용해 소비자보호 위험요인을 관리하는 사례를 공유했고, NH농협캐피탈은...",
+          "src": "lcnews",
           "date": "08/26",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40045",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202608/40045_65977_5939_v150.jpg"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207194",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202608/207194_209364_4610.jpg"
         },
         {
-          "title": "롯데백화점, 4000여 브랜드 데이터 AI로 분석…MD 의사결정 고도화",
-          "desc": "AI는 단순한 업무 자동화를 넘어 전략 설계를 뒷받침하는 단계로 진화하고 있다\"며 \"현업에서 효과를 체감할 수 있는 AI 활용 사례를 확대해 전사 생산성을 높일 수 있는 기술을 지속적으로 도입하겠다\"고 말했다.",
-          "src": "thefirstmedia",
+          "title": "대전시의회, 청년 창업 AX 전략 모색…AI 경쟁력 강화 방안 논의",
+          "desc": "과정에서 AI 도입 영역 선정과 구체적인 활용 시스템 구축의 어려움 △업종별 특화 지원 방안 부재 등을... 방안 △기술을 보유한 청년과 창업 분야 경험이 풍부한 시니어를 연계하는 멘토링 체계가 필요하다는 데 의견을...",
+          "src": "m-i",
           "date": "08/26",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206877",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206877_190783_3613_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1406401",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1406401_1194525_5744_v150.jpg"
         },
         {
-          "title": "주식회사 알피, AI 심전도 분석 솔루션 ‘ECG Buddy’ 도입 병원 120곳 돌...",
-          "desc": "자사의 AI 심전도 분석 솔루션 ‘ECG Buddy(ECG 버디)’를 도입한 병원이 전국 120곳을 넘어섰다고 밝혔다.... 기술력에 대한 국제적 검증도 이어지고 있다. 2026년 국제 학술지 ‘npj Digital Medicine’에 미국 대형...",
-          "src": "서울신문",
+          "title": "AI 인프라 투자 막는 세제 불확실성…“낮은 공제율·불확실성부터 해소...",
+          "desc": "과학기술정보통신부 역시 클라우드 관련 세제 지원 확대 가능성을 검토하기로 했다. 장기철 인공지능데이터진흥과장은 AI 기본법과 AIDC 특별법에서 데이터센터를 학습과 추론에 활용되는 시설로 보고 있어 자사용과...",
+          "src": "아시아타임즈",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/081/0003673700?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/08/26/SSC_20260826135313_O2.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260826500359",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500354.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "李 대통령-총수 또 만난다…메가프로젝트·대미 압박 지원 사격 요청",
+          "desc": "삼성전자, SK하이닉스가 서남권에 각각 2기의 메모리 반도체 팹을 구축하고 소재·부품·장비 및 인력... 로봇 파운드리와 데이터센터를 축으로 부품 협력사와 AI·에너지 연관 기업 유치로 확산될 수 있다는 점이 주목된다....",
+          "src": "뉴스1",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/421/0009134024?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/7/25/8025014/high.jpg"
+        },
+        {
+          "title": "통합환경허가 적용에 부품 재개발…반도체 협력사 '매출 공백' 비상",
+          "desc": "원청 설비 바뀌자 협력사는 부품부터 다시 개발 반도체 제조업은 통합환경허가 대상 업종이다. 삼성전자와 SK하이닉스 등 주요 반도체 사업장은 2024년 12월까지 통합환경허가를 마쳤다. 통합환경허가는 대기·수질·폐기물...",
+          "src": "polinews",
+          "date": "08/26",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741293",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741293_563211_3831_v150.jpg"
+        },
         {
           "title": "\"소부장 생태계 해외에 뺏길 판\"…中 CXMT·美 마이크론 웃는다",
           "desc": "협력사 노사 협상 추이를 예의 주시 중\"이라며 \"생산 차질로 국내 생산 물량이 해외로 이전되면 국내 소부장(소재·부품·장비) 업계 경쟁력에 영향을 미칠 수 있다\"고 밝혔다. 소부장 기업들의 노사 갈등으로 삼성전자...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/25",
           "url": "https://www.ceoscoredaily.com/page/view/2026082517200339255",
           "img": "https://www.ceoscoredaily.com/photos/2026/08/25/2026082517183050140_l.jpg"
-        },
-        {
-          "title": "미래에셋증권 \"에스피지, 감속기 3종 풀라인업으로 로봇 부품시장 공략...",
-          "desc": "에스피지가 현재 가장 많은 매출을 올리는 협력사는 레인보우로보틱스다. 레인보우로보틱스는 과거... 에스피지는 로봇 부품 수리 시장인 '오버홀' 사업도 확대하고 있다. 삼성전자 자회사 세메스가 반도체...",
-          "src": "irobotnews",
-          "date": "08/25",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48085",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/48085_103168_5959.png"
-        },
-        {
-          "title": "[특징주]에프에스티, 반도체 약세장서 20% 폭등…삼성 2나노 'CNT 펠리클...",
-          "desc": "에프에스티는 삼성전자가 지분 약 7%를 보유한 협력사로, 2세대 CNT EUV 펠리클을 상업 생산할 수 있는 세계... 에프에스티는 반도체 EUV 펠리클과 온도조절장치(칠러) 등을 생산하는 반도체 소재·부품 전문기업이다....",
-          "src": "namdonews",
-          "date": "08/25",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=921034",
-          "img": "https://cdn.namdonews.com/news/photo/202608/921034_625895_5915.jpg"
         }
       ]
     },
@@ -157,54 +157,54 @@ window.NEWS_DATA = {
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
+          "title": "[유라그룹 줌인]① 유라테크, 주식가치 저평가…오너 중심 수직계열화",
+          "desc": "와이어링 하네스와 전기차 전장 부품 등을 주요 사업으로 영위하며 현대차·기아 공급망에 참여하고 있다. 유라테크의 수익성은 상대적으로 부진했다. 올해 상반기 연결기준 영업손실 7억원을 기록해 전년 동기 대비...",
+          "src": "블로터",
+          "date": "08/26",
+          "url": "https://n.news.naver.com/mnews/article/293/0000089579?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/671816_285188_1326_v150.jpg"
+        },
+        {
           "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
           "desc": "김 교수는 \"전기차 시대가 다가오고 차를 가볍게 만드는 흐름이 이어지면서, 와이어링 하네스 같은 전장 부품과 소재도 가격을 따지되 품질을 확보하는 방향으로 계속 개발·개선되고 있다\"며 \"전기전도도 같은 소재...",
           "src": "livebiz",
           "date": "07/09",
           "url": "https://www.livebiz.today/news/articleView.html?idxno=203185",
           "img": "https://cdn.livebiz.today/news/photo/202607/203185_204215_2938.png"
-        },
-        {
-          "title": "페스카로, JS오토모티브 인수…SDV 시대 '보안·전장·생산' 통합 공급체...",
-          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산해 왔다. 한국, 베트남, 중국에 생산거점을 보유하고 있으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 JS오토모티브는 현대기아차...",
-          "src": "dailysecu",
-          "date": "05/11",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
-          "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "기업 디지털 채널의 만족도 평가…20개 부문에서 1위 기업 선정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005324986?sid=103",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+    },
+    {
+      "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005324982?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+    },
+    {
       "title": "미·캐나다 ‘관세전쟁’ 불똥?…산업계 ‘촉각’",
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1311458&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261345"
+      "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261413"
     },
     {
-      "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
-      "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
+      "title": "동탄역 ‘슬세권’ 주거지 관심…GTX-A·SRT에 상업·문화시설까지",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102190?sid=101",
+      "img": "https://economist.co.kr/data/ecn/image/2026/08/26/ecn20260826000070.800x.0.jpg"
     },
     {
-      "title": "KPR \"여름 축제, 체험형 라이프스타일로 진화\"",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859623",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859623_881356_1043_v150.jpg"
+      "title": "현대차, 2030년 판매 555만대 목표…신차 100종 이상 투입",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389063?sid=101",
+      "img": "https://www.joseilbo.com/gisa_img/17877280341787728034_wjin.jpg"
     },
     {
-      "title": "[로청 세정제의 비밀]②中업체는 왜 세정제 쓰나…'과잉 살균' 꼭 필요할...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807297?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082514162791995_1787634987.jpg"
-    },
-    {
-      "title": "LG CNS, 삼송 데이터센터에 액체냉각 도입…'AI 팩토리' 인프라 경쟁 본...",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=206880",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202608/206880_190786_4819_v150.jpg"
-    },
-    {
-      "title": "에스원, 학교보안 넘어 시설운영·안전관리까지···무인안전솔루션 확...",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40045",
-      "img": "https://cdn.globale.co.kr/news/thumbnail/202608/40045_65977_5939_v150.jpg"
+      "title": "[금융 게시판] 금융권 '미래금융 체질전환' 속도…신한·우리·하나·농...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207194",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202608/207194_209364_4610.jpg"
     }
   ]
 };
