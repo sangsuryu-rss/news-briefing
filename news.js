@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 22:18",
+  "updatedAt": "2026.08.27 (목) 00:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
-          "desc": "삼성전자의 얼굴은 오랫동안 폰과 가전이 맡아왔다. AI시대를 맞아 반도체가 수익의 절대비중을 갖게 됐지만 TV와 폰 등은 여전히 소비자를 최전선에서 만나는 첨병이다. 반도체 사업이 대규모 적자를 낼 때에도 묵묵히...",
-          "src": "asiatoday",
+          "title": "[팩트추적] 불붙은 '초과 이윤' 논쟁 \"사회 분배\" vs \"미래 투자\"",
+          "desc": "반도체 부문에서도 비메모리사업부는 특별 성과급이 메모리사업부의 3분의 1 수준에 그쳤고, 가전, 모바일 DX부문 직원들의 경우 성과급이 100분의 1에 불과하기도 했습니다. ▶백순안 / 삼성전자 동행노조 정책기획국장...",
+          "src": "ytn",
           "date": "08/26",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002398716?sid=004",
+          "img": "https://image.ytn.co.kr/special/jpg/0532/2026/202608262345128473_h.jpg"
         },
         {
           "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
         },
         {
-          "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
-          "desc": "삼성전자는 최신 로봇청소기에 '녹스 볼트'와 '녹스 매트릭스'를 탑재했다. 암호화 키 등 민감 정보를 별도 보안 칩에 저장하고, 연결된 기기끼리 보안 상태를 점검하는 방식이다. 이미지와 영상에는 종단 간 암호화(E2EE)...",
-          "src": "thepublic",
-          "date": "08/26",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
-          "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
+          "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
+          "desc": "삼성전자, SK하이닉스, 마이크론 등 3개사가 글로벌 메모리 반도체 생산의 대부분을 차지하고 있다. 애플과... LG 클로이드는 실제 가정 환경을 재현한 공간에서 청소를 하거나, 미국 테네시 세탁기공장의 제조 환경을...",
+          "src": "cbci",
+          "date": "08/27",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경복대학교 소프트웨어융합과 SEAHAWK팀, AI 기반 캡스톤디자인 경진대...",
-          "desc": "또한, 변화하는 IT 생태계에 발맞추어 AI 기반 기술 및 생성형 AI 활용 가이드라인(KBU ChatGPT 가이드라인 등)을 선제적으로 도입하는 등, 단순 이론 암기가 아닌 현업에서 바로 쓸 수 있는 디지털 리터러시와 윤리적 소양을...",
-          "src": "CNB뉴스",
-          "date": "08/26",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013028",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1013028_514402_4114.jpg"
+          "title": "AI가 펜싱 칼끝 움직임, 총구 미세 진동까지 분석",
+          "desc": "그러나 기술적 성숙도와 별개로…” 올림픽과 아시안게임에서 각각 금메달 3개씩을 딴 펜싱 남자 사브르... 사격 대표팀은 더 정밀한 격발을 위해 AI 탐지기를 도입해 훈련 중이다. 국민체육진흥공단 산하...",
+          "src": "조선일보",
+          "date": "08/27",
+          "url": "https://m.sports.naver.com/general/article/023/0003995127",
+          "img": "https://www.chosun.com/resizer/v2/2LPP52XIIJJMRGJTIDDVJVZEDM.jpg?auth=d2cf21cb893f3fa4ae4c690a354b0d4086cfca6caa3691162593cc1ffa21316e&width=1200&height=630&focal=4600,2522"
         },
         {
-          "title": "경복대학교 임상병리학과, 미래 의료현장을 선도할 실무인재 양성 위한...",
-          "desc": "김대은 임상병리학과 학과장은 \"의료현장은 검사실 자동화와 AI 기술의 도입으로 빠르게 변화하고 있으며... 지식과 기술을 실제 임상 현장에서 즉시 활용할 수 있도록 교수진의 교육 역량을 지속적으로 강화해 나가겠다\"고...",
-          "src": "CNB뉴스",
-          "date": "08/26",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013027",
-          "img": "https://cdn.cnbnews.com/news/photo/202608/1013027_514401_351.jpg"
+          "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
+          "desc": "피지컬 AI 기술이 활용된다. LG 클로이드는 실제 가정 환경을 재현한 공간에서 청소를 하거나, 미국 테네시... 또한 LG CNS의 물류 자동화 솔루션, LG이노텍의 로봇 손 학습 공간에도 해당 로봇이 도입돼 있다. LG전자는...",
+          "src": "cbci",
+          "date": "08/27",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
         },
         {
-          "title": "AI의 가설을 실험으로 연결…써모 피셔, 서울에 첫 자동화 혁신센터",
-          "desc": "의사결정에 활용하는 환경을 지향한다. 써모 피셔 사이언티픽이 자동화·데이터·AI와 첨단 분석 기술을... 연구기관과 기업은 대규모 설비를 도입하기 전에 기술의 적합성과 운영 효율을 확인하고 필요한 장비와...",
-          "src": "venturesquare",
-          "date": "08/26",
-          "url": "https://www.venturesquare.net/1108760/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/image001-44.jpg"
+          "title": "[금융家] NH농협은행 ⑤ㅣ AI·디지털 전환 속도…영업점부터 상담·생활...",
+          "desc": "KT와 NH농협은행은 앞으로도 AI와 상담 데이터를 활용해 금융권 AICC 고도화를 추진할 예정이다. KT AX사업부문 AX제안/이행본부장 홍해천 상무는 \"KT는 축적된 금융 AX 수행 경험과 AICC 기술 역량을 바탕으로 고객과...",
+          "src": "cbci",
+          "date": "08/27",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600686",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600686_411951_4356_v150.jpg"
         },
         {
-          "title": "공장 멈추지 않고 PLC 메모리 확보…마키나락스·삼성디스플레이 AI 협력",
-          "desc": "라인에 AI 기반 설비 제어 최적화 기술 개발 협력에 나선다. (자료 제공... 확보한 자원은 공정 변경과 신규 기능 도입 등 향후 설비 고도화에 활용할 수 있다....",
-          "src": "venturesquare",
-          "date": "08/26",
-          "url": "https://www.venturesquare.net/1108750/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/unnamed-2026-08-26T215249.455.png"
+          "title": "[8월 26일 병원계 이모저모④]고려대, 부산백, 아주대, 양산부산대병원...",
+          "desc": "이 병원은 지난 5월 부산·울산·경남 지역 상급종합병원 가운데 최초로 씽크를 도입해 스마트병동을... 다양한 AI 기술을 진단과 치료 보조에 활용하고 있다. 양재욱 원장은 “AI 솔루션은 진단과 치료를 보조하는 것은...",
+          "src": "medicalworldnews",
+          "date": "08/27",
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976833",
+          "img": ""
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "그린포스트",
           "date": "08/26",
           "url": "https://www.greened.kr/news/articleView.html?idxno=348526",
-          "img": "https://cdn.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
+          "img": "https://www.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
         },
         {
           "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
-      "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+      "title": "[팩트추적] 불붙은 '초과 이윤' 논쟁 \"사회 분배\" vs \"미래 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002398716?sid=004",
+      "img": "https://image.ytn.co.kr/special/jpg/0532/2026/202608262345128473_h.jpg"
     },
     {
       "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
     },
     {
-      "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
-      "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
+      "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
     },
     {
-      "title": "경복대학교 소프트웨어융합과 SEAHAWK팀, AI 기반 캡스톤디자인 경진대...",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013028",
-      "img": "https://cdn.cnbnews.com/news/photo/202608/1013028_514402_4114.jpg"
+      "title": "AI가 펜싱 칼끝 움직임, 총구 미세 진동까지 분석",
+      "url": "https://m.sports.naver.com/general/article/023/0003995127",
+      "img": "https://www.chosun.com/resizer/v2/2LPP52XIIJJMRGJTIDDVJVZEDM.jpg?auth=d2cf21cb893f3fa4ae4c690a354b0d4086cfca6caa3691162593cc1ffa21316e&width=1200&height=630&focal=4600,2522"
     },
     {
-      "title": "경복대학교 임상병리학과, 미래 의료현장을 선도할 실무인재 양성 위한...",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013027",
-      "img": "https://cdn.cnbnews.com/news/photo/202608/1013027_514401_351.jpg"
+      "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
     }
   ]
 };
