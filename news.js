@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 16:10",
+  "updatedAt": "2026.08.26 (수) 18:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "기업 디지털 채널의 만족도 평가…20개 부문에서 1위 기업 선정",
-          "desc": "부문별로는 삼성전자가 4년 연속 종합가전 부문 1위에 올랐다. KB국민은행(시중은행 부문)과 LG유플러스(이동통신 부문), 삼성서울병원(종합병원 부문)은 각각 3년 연속 정상을 차지했다. 한국교통안전공단은...",
-          "src": "한국경제",
+          "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
+          "desc": "로봇청소기에서 좋은 평가를 받은 기술력이 헤어드라이어나 펫 공기청정기, 주방가전에서도 곧바로 브랜드 신뢰로 이어진다는 보장도 없다. 더구나 한국에서는 삼성전자와 LG전자가 냉장고와 세탁기, 에어컨, TV...",
+          "src": "매일경제",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324986?sid=103",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/009/0005726187?sid=004",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
         },
         {
-          "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
-          "desc": "삼성전자가 한국표준협회에서 주최하는 디지털고객경험지수(DCXI) 종합가전 부문에서 4년 연속 1위를... 비스포크 AI 스팀 로봇청소기는 제품 전면에 들어간 RGB 카메라 센서와 적외선 LED로 유색 액체는 물론 투명...",
-          "src": "한국경제",
+          "title": "美·캐나다 관세전쟁 격화…보복관세에 '선거전'까지 번졌다",
+          "desc": "실제 WSJ은 위스콘신주의 가공치즈와 메인주의 수산물, 켄터키주의 세탁기·건조기 등 정치적으로 민감한... 삼성전자와 LG전자 등은 미국에 가전 생산기지를 두고 있고, LG에너지솔루션과 포스코퓨처엠 등은 캐나다에서...",
+          "src": "wikileaks-kr",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324982?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191333",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
         },
         {
-          "title": "미·캐나다 ‘관세전쟁’ 불똥?…산업계 ‘촉각’",
-          "desc": "삼성전자(005930)는 미국 사우스캐롤라이나, LG전자(066570)는 테네시에서 세탁기 등 가전제품을 생산하고 있지만, 미국 내수 판매 중심으로 캐나다 수출 물량이 없어 영향이 제한적일 것이라는 판단입니다. 가전업계...",
-          "src": "newstomato",
+          "title": "가전만 팔아선 안 된다…삼성·LG, 선점 사업까지 경쟁 격화",
+          "desc": "임성택 삼성전자 DA(생활가전)사업부 부사장은 \"히트펌프 제품의 국내 생산 체제 구축으로 난방 전기화 추세에 보다 적극적으로 대응해 히트펌프 사업 확대에 속도를 낼 것\"이라고 말했다. 조병하 LG전자 MS사업본부...",
+          "src": "서울신문",
           "date": "08/26",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1311458&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261413"
+          "url": "http://www.metroseoul.co.kr/article/20260826500562",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/26/.cache/512/20260826500564.jpg"
         },
         {
-          "title": "동탄역 ‘슬세권’ 주거지 관심…GTX-A·SRT에 상업·문화시설까지",
-          "desc": "빌트인 가전·커뮤니티 적용…동탄역 생활권 활용 광역교통망과 상업·문화시설을 가까이에서 이용할 수... 삼성전자 화성·기흥캠퍼스와 삼성SDI 등 경기 남부 주요 산업시설이 인근에 위치하고 있으며, 용인...",
-          "src": "economist",
+          "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+          "desc": "삼성전자는 최신 로봇청소기에 '녹스 볼트'와 '녹스 매트릭스'를 탑재했다. 암호화 키 등 민감 정보를 별도 보안 칩에 저장하고, 연결된 기기끼리 보안 상태를 점검하는 방식이다. 이미지와 영상에는 종단 간 암호화(E2EE)...",
+          "src": "thepublic",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/243/0000102190?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/08/26/ecn20260826000070.800x.0.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차, 2030년 판매 555만대 목표…신차 100종 이상 투입",
-          "desc": "울산 전기차 신공장에는 AI 기반 품질 관리·검사와 첨단생산 기술 108개를 도입해 소프트웨어중심공장... 핵심은 실제 생산현장과 양산차에서 데이터를 축적하고 이를 다시 AI 고도화에 활용하는 선순환 구조를...",
-          "src": "joseilbo",
+          "title": "한화에어로, 2035년 군용 무인차량 완전자율 목표…MUM-T로 확장",
+          "desc": "'시각·언어·행동(VLA) 기반 피지컬 인공지능(AI) 자율화' 기술을 선제 도입해 기술 완성도를 끌어올린다는... (Arion-SMET)'의 활용 방안도 제시했다. 아리온스멧에 모듈형 임무 장비를 탑재해 감시·드론 정찰, 지뢰 탐지...",
+          "src": "g-enews",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/123/0002389063?sid=101",
-          "img": "https://www.joseilbo.com/gisa_img/17877280341787728034_wjin.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608261722456419ea14faf6f5_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082617234208052ea14faf6f5115951676.jpg"
         },
         {
-          "title": "[금융 게시판] 금융권 '미래금융 체질전환' 속도…신한·우리·하나·농...",
-          "desc": "금융권 관계자는 \"금융권의 디지털 경쟁은 단순히 새로운 기술을 먼저 도입하는 단계에서 벗어나 '누가... NH농협손해보험은 AI·디지털 기술을 활용해 소비자보호 위험요인을 관리하는 사례를 공유했고, NH농협캐피탈은...",
-          "src": "lcnews",
+          "title": "SKT, 2026 아시안게임 선수단 지원…AI로 펜싱 전력 분석",
+          "desc": "SK텔레콤은 이번 아시안게임 훈련 과정에 자체 개발한 펜싱 AI 전력분석 시스템 'SKT-FAN(Fencing AI Nexus)'을 도입했다. AI 기반 컴퓨터 비전 기술을 활용해 경기 직후 득·실점 하이라이트 영상을 자동으로 편집하고 상대...",
+          "src": "kdfnews",
           "date": "08/26",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207194",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202608/207194_209364_4610.jpg"
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=187109",
+          "img": "http://www.kdfnews.com/news/thumbnail/202608/187109_236863_5719_v150.jpg"
         },
         {
-          "title": "대전시의회, 청년 창업 AX 전략 모색…AI 경쟁력 강화 방안 논의",
-          "desc": "과정에서 AI 도입 영역 선정과 구체적인 활용 시스템 구축의 어려움 △업종별 특화 지원 방안 부재 등을... 방안 △기술을 보유한 청년과 창업 분야 경험이 풍부한 시니어를 연계하는 멘토링 체계가 필요하다는 데 의견을...",
-          "src": "m-i",
+          "title": "SK텔레콤, 아시안게임 국가대표 지원...AI 전력 분석으로 경기력 강화",
+          "desc": "(펜싱 AI 넥서스)'을 도입했다. SKT-FAN은 경기 영상을 컴퓨터 비전 기술로 분석해 득점과 실점 장면을... 회사는 해당 기술을 활용해 전력분석원이 수행하던 영상 분석 업무를 최대 90%까지 줄이고, 분석 결과를 훈련...",
+          "src": "ppss",
           "date": "08/26",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1406401",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202608/1406401_1194525_5744_v150.jpg"
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=307464",
+          "img": "https://cdn.ppss.kr/news/photo/202608/307464_128230_544.jpg"
         },
         {
-          "title": "AI 인프라 투자 막는 세제 불확실성…“낮은 공제율·불확실성부터 해소...",
-          "desc": "과학기술정보통신부 역시 클라우드 관련 세제 지원 확대 가능성을 검토하기로 했다. 장기철 인공지능데이터진흥과장은 AI 기본법과 AIDC 특별법에서 데이터센터를 학습과 추론에 활용되는 시설로 보고 있어 자사용과...",
-          "src": "아시아타임즈",
+          "title": "[오늘의 제약리뷰] 동아제약·대웅제약·유한양행·제이엘케이",
+          "desc": "동아제약의 가그린이 40년 구강 케어 기술력을 바탕으로 차세대 구강청결제 '어드밴스드 제로' 8종을... 뇌졸중 AI 솔루션의 실제 의료현장 도입과 사업화에 속도를 낸다는 방침이다. 제이엘케이 관계자는 \"다케야마는 약...",
+          "src": "financialreview",
           "date": "08/26",
-          "url": "https://www.asiatime.co.kr/article/20260826500359",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500354.png"
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44411",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44411_65650_1036_v150.jpg"
         }
       ]
     },
@@ -101,7 +101,23 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "李 대통령-총수 또 만난다…메가프로젝트·대미 압박 지원 사격 요청",
+          "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
+          "desc": "제공해야\" 삼성전자와 SK하이닉스가 평택·용인을 비롯해 호남권까지 대규모 반도체 투자를 확대하면서 국내 반도체 산업의 인력 수요도 빠르게 늘어날 것으로 전망된다. 이에 반도체 관련 소부장(소재·부품·장비)...",
+          "src": "srtimes",
+          "date": "08/26",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=210918",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202608/210918_215824_1936_v150.jpg"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 '800조 호남 반도체' 날개 달았다…전기료 최대 1...",
+          "desc": "그동안 수도권 반도체 클러스터는 우수 인력 확보와 기존 협력사 생태계, 교통·물류 등 집적 효과에서... 삼성전자와 SK하이닉스의 팹에만 영향을 미치는 것도 아니다. 반도체 생산시설 주변에 들어설 소재·부품·장비...",
+          "src": "joongangenews",
+          "date": "08/26",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=543006",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/543006_349056_1945.png"
+        },
+        {
+          "title": "李 대통령-이재용 또 만난다…메가프로젝트·대미투자 지원 사격 요청",
           "desc": "삼성전자, SK하이닉스가 서남권에 각각 2기의 메모리 반도체 팹을 구축하고 소재·부품·장비 및 인력... 로봇 파운드리와 데이터센터를 축으로 부품 협력사와 AI·에너지 연관 기업 유치로 확산될 수 있다는 점이 주목된다....",
           "src": "뉴스1",
           "date": "08/26",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/26",
           "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741293",
           "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741293_563211_3831_v150.jpg"
-        },
-        {
-          "title": "\"소부장 생태계 해외에 뺏길 판\"…中 CXMT·美 마이크론 웃는다",
-          "desc": "협력사 노사 협상 추이를 예의 주시 중\"이라며 \"생산 차질로 국내 생산 물량이 해외로 이전되면 국내 소부장(소재·부품·장비) 업계 경쟁력에 영향을 미칠 수 있다\"고 밝혔다. 소부장 기업들의 노사 갈등으로 삼성전자...",
-          "src": "매일경제",
-          "date": "08/25",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725729?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/26/20260826_01160103000002_L00.jpg"
-        },
-        {
-          "title": "韓美中, ‘와이드 폴더블폰’ 삼파전…‘갤폴드8’ 아성에 애플·화웨이...",
-          "desc": "업계에 따르면, 삼성전자는 초기 수요에 맞춰 갤럭시 Z 폴드8 생산량을 100만대 추가하기로 결정하고, 관련 부품 생산을 확대하도록 협력사에 요청한 것으로 전해졌다. 시장에서는 하반기 애플의 시장 진입과 샤오미의...",
-          "src": "ceoscoredaily",
-          "date": "08/25",
-          "url": "https://www.ceoscoredaily.com/page/view/2026082517200339255",
-          "img": "https://www.ceoscoredaily.com/photos/2026/08/25/2026082517183050140_l.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "기업 디지털 채널의 만족도 평가…20개 부문에서 1위 기업 선정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005324986?sid=103",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726187?sid=004",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
     },
     {
-      "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005324982?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+      "title": "美·캐나다 관세전쟁 격화…보복관세에 '선거전'까지 번졌다",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191333",
+      "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
     },
     {
-      "title": "미·캐나다 ‘관세전쟁’ 불똥?…산업계 ‘촉각’",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1311458&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/8/26/1311458/attach.jpg?v=202608261413"
+      "title": "가전만 팔아선 안 된다…삼성·LG, 선점 사업까지 경쟁 격화",
+      "url": "http://www.metroseoul.co.kr/article/20260826500562",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/26/.cache/512/20260826500564.jpg"
     },
     {
-      "title": "동탄역 ‘슬세권’ 주거지 관심…GTX-A·SRT에 상업·문화시설까지",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102190?sid=101",
-      "img": "https://economist.co.kr/data/ecn/image/2026/08/26/ecn20260826000070.800x.0.jpg"
+      "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
     },
     {
-      "title": "현대차, 2030년 판매 555만대 목표…신차 100종 이상 투입",
-      "url": "https://n.news.naver.com/mnews/article/123/0002389063?sid=101",
-      "img": "https://www.joseilbo.com/gisa_img/17877280341787728034_wjin.jpg"
+      "title": "한화에어로, 2035년 군용 무인차량 완전자율 목표…MUM-T로 확장",
+      "url": "https://www.g-enews.com/view.php?ud=202608261722456419ea14faf6f5_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082617234208052ea14faf6f5115951676.jpg"
     },
     {
-      "title": "[금융 게시판] 금융권 '미래금융 체질전환' 속도…신한·우리·하나·농...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207194",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202608/207194_209364_4610.jpg"
+      "title": "SKT, 2026 아시안게임 선수단 지원…AI로 펜싱 전력 분석",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=187109",
+      "img": "http://www.kdfnews.com/news/thumbnail/202608/187109_236863_5719_v150.jpg"
     }
   ]
 };
