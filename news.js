@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 19:52",
+  "updatedAt": "2026.08.26 (수) 22:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "SK바이오팜, 오파칼림 도입에…더 중요해진 엑스코프리發 현금 [현장+]",
-          "desc": "오파칼림을 도입했다. 그러나 출시 전까지는 엑스코프리의 현금창출력이 더 중요할 수 있다는 분석이... 2분기에는 인실리코메디슨과 AI를 활용해 중추신경계(CNS) 질환의 새 표적을 찾는 공동연구도 시작했다....",
-          "src": "블로터",
+          "title": "경복대학교 소프트웨어융합과 SEAHAWK팀, AI 기반 캡스톤디자인 경진대...",
+          "desc": "또한, 변화하는 IT 생태계에 발맞추어 AI 기반 기술 및 생성형 AI 활용 가이드라인(KBU ChatGPT 가이드라인 등)을 선제적으로 도입하는 등, 단순 이론 암기가 아닌 현업에서 바로 쓸 수 있는 디지털 리터러시와 윤리적 소양을...",
+          "src": "CNB뉴스",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/293/0000089606?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202608/671896_285262_261_v150.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013028",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1013028_514402_4114.jpg"
         },
         {
-          "title": "빌 게이츠 “일부 직업은 인간 몫으로 남기자”… ‘휴먼 리저브드’ 제...",
-          "desc": "“AI는 지금까지 없었던 강력한 평등의 도구가 될 수도 있고, 반대로 불평등을 심화시키는 가장 위험한 기술... 한 기업이 AI와 로봇을 도입해 가격을 낮추면 경쟁사도 따라갈 수밖에 없고, 기존 기업이 머뭇거리면...",
-          "src": "platum",
+          "title": "경복대학교 임상병리학과, 미래 의료현장을 선도할 실무인재 양성 위한...",
+          "desc": "김대은 임상병리학과 학과장은 \"의료현장은 검사실 자동화와 AI 기술의 도입으로 빠르게 변화하고 있으며... 지식과 기술을 실제 임상 현장에서 즉시 활용할 수 있도록 교수진의 교육 역량을 지속적으로 강화해 나가겠다\"고...",
+          "src": "CNB뉴스",
           "date": "08/26",
-          "url": "https://platum.kr/archives/293345",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/billgate-1024x1024.png"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013027",
+          "img": "https://cdn.cnbnews.com/news/photo/202608/1013027_514401_351.jpg"
         },
         {
-          "title": "로봇 관절의 열을 잡는다…아이언디바이스, 초소형 GaN 파워 스테이지 ...",
-          "desc": "전력소자 도입을 검토하고 있다”며 “휴머노이드 로봇을 비롯해 고출력·고효율 제어가 필요한 산업에서 활용 가능성이 크다”고 평가했다. 글로벌 GaN 구동 반도체...",
+          "title": "AI의 가설을 실험으로 연결…써모 피셔, 서울에 첫 자동화 혁신센터",
+          "desc": "의사결정에 활용하는 환경을 지향한다. 써모 피셔 사이언티픽이 자동화·데이터·AI와 첨단 분석 기술을... 연구기관과 기업은 대규모 설비를 도입하기 전에 기술의 적합성과 운영 효율을 확인하고 필요한 장비와...",
           "src": "venturesquare",
           "date": "08/26",
-          "url": "https://www.venturesquare.net/1108683/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/PCIM-Asia-2026.png"
+          "url": "https://www.venturesquare.net/1108760/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/image001-44.jpg"
         },
         {
-          "title": "SKT 후원 국가대표 8명, 아시안게임 출사표…\"AI 기술로 경기력 지원\"",
-          "desc": "SKT는 이번 아시안게임을 준비하는 펜싱 국가대표 훈련에 자체 개발한 AI 전력분석 시스템 'SKT-FAN(Fencing AI Nexus)'을 도입했다. SKT-FAN은 AI 기반 컴퓨터 비전 기술을 활용해 경기 직후 득점과 실점 장면을 자동으로...",
-          "src": "efnews",
+          "title": "공장 멈추지 않고 PLC 메모리 확보…마키나락스·삼성디스플레이 AI 협력",
+          "desc": "라인에 AI 기반 설비 제어 최적화 기술 개발 협력에 나선다. (자료 제공... 확보한 자원은 공정 변경과 신규 기능 도입 등 향후 설비 고도화에 활용할 수 있다....",
+          "src": "venturesquare",
           "date": "08/26",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131914",
-          "img": "http://www.efnews.co.kr/news/photo/202608/131914_118922_5714.jpg"
+          "url": "https://www.venturesquare.net/1108750/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/unnamed-2026-08-26T215249.455.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "충남 산업지도 '국가 성장축' 올라섰다…4대 성장엔진·202조 투자 맞물...",
+          "desc": "현재 충남 투자계획 가운데 삼성전자는 반도체 분야에 56조 원, 삼성디스플레이는 디스플레이 분야에 67조 원... ◇ 202조 민간투자에 정부 지원까지…'투자→협력사→일자리' 연결 노린다 충남도가 이번 선정을 주목하는...",
+          "src": "그린포스트",
+          "date": "08/26",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348526",
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
+        },
         {
           "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
           "desc": "제공해야\" 삼성전자와 SK하이닉스가 평택·용인을 비롯해 호남권까지 대규모 반도체 투자를 확대하면서 국내 반도체 산업의 인력 수요도 빠르게 늘어날 것으로 전망된다. 이에 반도체 관련 소부장(소재·부품·장비)...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/26",
           "url": "https://n.news.naver.com/mnews/article/421/0009134024?sid=101",
           "img": "https://i3n.news1.kr/system/photos/2026/7/25/8025014/high.jpg"
-        },
-        {
-          "title": "통합환경허가 적용에 부품 재개발…반도체 협력사 '매출 공백' 비상",
-          "desc": "원청 설비 바뀌자 협력사는 부품부터 다시 개발 반도체 제조업은 통합환경허가 대상 업종이다. 삼성전자와 SK하이닉스 등 주요 반도체 사업장은 2024년 12월까지 통합환경허가를 마쳤다. 통합환경허가는 대기·수질·폐기물...",
-          "src": "polinews",
-          "date": "08/26",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741293",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741293_563211_3831_v150.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
     },
     {
-      "title": "SK바이오팜, 오파칼림 도입에…더 중요해진 엑스코프리發 현금 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089606?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202608/671896_285262_261_v150.jpg"
+      "title": "경복대학교 소프트웨어융합과 SEAHAWK팀, AI 기반 캡스톤디자인 경진대...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013028",
+      "img": "https://cdn.cnbnews.com/news/photo/202608/1013028_514402_4114.jpg"
     },
     {
-      "title": "빌 게이츠 “일부 직업은 인간 몫으로 남기자”… ‘휴먼 리저브드’ 제...",
-      "url": "https://platum.kr/archives/293345",
-      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/billgate-1024x1024.png"
+      "title": "경복대학교 임상병리학과, 미래 의료현장을 선도할 실무인재 양성 위한...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013027",
+      "img": "https://cdn.cnbnews.com/news/photo/202608/1013027_514401_351.jpg"
     }
   ]
 };
