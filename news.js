@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.27 (목) 05:05",
+  "updatedAt": "2026.08.27 (목) 08:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[팩트추적] 불붙은 '초과 이윤' 논쟁 \"사회 분배\" vs \"미래 투자\"",
-          "desc": "반도체 부문에서도 비메모리사업부는 특별 성과급이 메모리사업부의 3분의 1 수준에 그쳤고, 가전, 모바일 DX부문 직원들의 경우 성과급이 100분의 1에 불과하기도 했습니다. ▶백순안 / 삼성전자 동행노조 정책기획국장...",
-          "src": "ytn",
-          "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398716?sid=004",
-          "img": "https://image.ytn.co.kr/special/jpg/0532/2026/202608262345128473_h.jpg"
+          "title": "美 대중국 관세 속...베트남이 혜택 '노다지'",
+          "desc": "그는 베트남의 대미 수출 가운데 약 60%가 기계·전자제품·가전제품이라고 설명했다. 길린 회장은 이들 분야에서 삼성전자와 인텔, 폭스콘 같은 대기업이 베트남에서 실제 생산시설을 운영하고 있다는 점을 근거로...",
+          "src": "choicenews",
+          "date": "08/27",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170514",
+          "img": "https://cdn.choicenews.co.kr/news/thumbnail/202608/170514_130304_1933_v150.jpg"
         },
         {
           "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
         },
         {
-          "title": "수건 빨아도 냄새 난다면 건조부터 점검",
-          "desc": "건조기 사용설명서에 맞춘다. 사용한 수건도 젖은 채 뭉쳐 빨래 바구니에 넣기보다 펼쳐 말린 뒤 세탁하는 편이 건조 지연을 줄일 수 있다. 냄새가 반복된다면 수건뿐 아니라 세탁기 내부도 확인해야 한다. 삼성전자서비스...",
-          "src": "vegannews",
+          "title": "\"LG·월풀 제쳤다\"… 삼성전자, 美 JD파워 냉장고 3대 전 부문 '1위 싹쓸...",
+          "desc": "삼성전자는 의류 건조기(Clothes Dryers)와 대형 오버더레인지 전자레인지(Microwaves) 부문에서도 각각 LG전자와 월풀을 제치고 만족도 1위를 차지했다. LG전자는 벽걸이 빌트인 오븐(Wall Ovens)과 조리대(Cooktops)...",
+          "src": "g-enews",
           "date": "08/27",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=384927",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_178777400332.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608270827297860c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260827082813068800c8c1c064d22114611240.jpg"
         },
         {
-          "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
-          "desc": "삼성전자의 얼굴은 오랫동안 폰과 가전이 맡아왔다. AI시대를 맞아 반도체가 수익의 절대비중을 갖게 됐지만 TV와 폰 등은 여전히 소비자를 최전선에서 만나는 첨병이다. 반도체 사업이 대규모 적자를 낼 때에도 묵묵히...",
-          "src": "asiatoday",
+          "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+          "desc": "삼성전자는 최신 로봇청소기에 '녹스 볼트'와 '녹스 매트릭스'를 탑재했다. 암호화 키 등 민감 정보를 별도 보안 칩에 저장하고, 연결된 기기끼리 보안 상태를 점검하는 방식이다. 이미지와 영상에는 종단 간 암호화(E2EE)...",
+          "src": "thepublic",
           "date": "08/26",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
-          "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[특집] 정명근표 '큰 생각'... '모두의 행복 더큰 화성' 위한 미래비전 ...",
-          "desc": "혁신 도입을 촉진한다. 사업지는 동탄2 인큐베이팅센터 내이며 오는 내년 상반기가 목표다. 이를 통해 화성을 로봇과 인공지능이 실제 제조현장에서 만나 기술을 검증하고 사업화까지 이어지는 '피지컬 AI 실증산업의...",
-          "src": "아주경제",
+          "title": "엔비디아, 아마존에 GPU 200만개 더 푼다…블랙웰 넘어 '루빈·루빈 울트...",
+          "desc": "활용해 AI 서비스의 비용과 전력 효율성을 높이려는 전략이다. 그러나 자체 칩 개발과 엔비디아 GPU 도입... 실제로 아마존은 차기 트레이니엄 AI 칩에 엔비디아의 네트워킹 기술을 활용할 계획도 밝힌 바 있다. AI...",
+          "src": "joongangenews",
           "date": "08/27",
-          "url": "https://www.ajunews.com/view/20260827002943698",
-          "img": "https://image.ajunews.com/content/image/2026/08/26/20260826223620233127.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=543091",
+          "img": "https://cdn.joongangenews.com/news/photo/202608/543091_349149_3313.jpg"
         },
         {
-          "title": "[전교시] 국내 유일 북한학과 황진태 동국대 교수를 만나다",
-          "desc": "이번 학기 'AI와 북한', '북한 위성사진 분석 방법론' 수업을 런칭한 황 교수는 생성형 AI 기술을 적극 도입했... 과거 한 탈북자에게 \"북한 출신이니 그 배경을 활용해 북한학을 해보라\"고 권했던 그는, 그 제자가 서양...",
-          "src": "아시아타임즈",
+          "title": "AI로 만든 '건강 레시피'…여중생 30명, CJ 해커톤에서 미래 셰프·데이...",
+          "desc": "빅데이터·AI 기술을 접목한 새 교육과정을 도입한 것이 특징이다. 유엔 지속가능발전목표(SDGs) 가운데... 심사위원으로 참여한 임성순 CJ제일제당 셰프(조리기능장)는 \"AI 기술과 데이터를 활용해 창의적이고...",
+          "src": "newsroad",
           "date": "08/27",
-          "url": "https://www.asiatime.co.kr/article/20260826500060",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500312.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63441",
+          "img": ""
         },
         {
-          "title": "[AI, 증권맨이 되다⑦] '글로벌'에 AI 더한 미래에셋證…정보부터 운용...",
-          "desc": "(LLM)을 활용한 'AI 어시스턴트 플랫폼'과 'AI 마켓 어시스턴트'를 전사적으로 도입했다. 이를 기반으로... AI의 활용처가 넓어지면서 이를 뒷받침하는 기술과 조직에도 힘을 싣고 있다. AI와 디지털자산 경쟁력 강화를...",
-          "src": "startuptoday",
+          "title": "AI가 사내 데이터에 들어오는 시대…가비아, 보안 DaaS로 업무환경 전환...",
+          "desc": "DaaS 도입을 검토하는 기업과 기관의 IT·보안 담당자를 대상으로 AI 업무환경에... 핵심 기술, 제로트러스트 정책 기반 DaaS를 활용한 AI 업무환경 전환, AI 시대의 신규 보안...",
+          "src": "venturesquare",
           "date": "08/27",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=810976",
-          "img": "https://cdn.startuptoday.co.kr/news/photo/202608/810976_610466_3053.png"
+          "url": "https://www.venturesquare.net/1108843/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/2.262.26.png"
         },
         {
-          "title": "빌 게이츠 섬뜩한 경고 \"AI 격변, 10년 안에 닥친다\"",
-          "desc": "자연보호구역처럼 AI와 자동화 기술의 도입을 의도적으로 제한하거나 늦추는 영역을 만들자는 것이다. 그가... 강화에 활용할 수 있다고 주장했다. AI를 이용한 범죄 증가도 위험 요소로 꼽았다. AI 기술이 고도화될수록...",
-          "src": "핀포인트뉴스",
+          "title": "엔비디아, 아마존에 GPU 200만개 추가 공급··· AI 인프라 협력 확대",
+          "desc": "다만 아마존과 마이크로소프트, 구글 등 주요 하이퍼스케일러들은 엔비디아 제품을 대규모로 도입하는... 아마존은 차세대 자체 AI 칩인 '트레이니엄'에 엔비디아의 네트워킹 기술을 활용할 계획이라고 밝힌 바 있다....",
+          "src": "mediafine",
           "date": "08/27",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480859",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/480859_467576_515_v150.jpg"
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=88038",
+          "img": "https://cdn.mediafine.co.kr/news/photo/202608/88038_126003_2337.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "그린포스트",
           "date": "08/26",
           "url": "https://www.greened.kr/news/articleView.html?idxno=348526",
-          "img": "https://www.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
         },
         {
           "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[팩트추적] 불붙은 '초과 이윤' 논쟁 \"사회 분배\" vs \"미래 투자\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002398716?sid=004",
-      "img": "https://image.ytn.co.kr/special/jpg/0532/2026/202608262345128473_h.jpg"
+      "title": "美 대중국 관세 속...베트남이 혜택 '노다지'",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=170514",
+      "img": "https://cdn.choicenews.co.kr/news/thumbnail/202608/170514_130304_1933_v150.jpg"
     },
     {
       "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
     },
     {
-      "title": "수건 빨아도 냄새 난다면 건조부터 점검",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=384927",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_178777400332.jpg"
+      "title": "\"LG·월풀 제쳤다\"… 삼성전자, 美 JD파워 냉장고 3대 전 부문 '1위 싹쓸...",
+      "url": "https://www.g-enews.com/view.php?ud=202608270827297860c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260827082813068800c8c1c064d22114611240.jpg"
     },
     {
-      "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
-      "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+      "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
     },
     {
-      "title": "[특집] 정명근표 '큰 생각'... '모두의 행복 더큰 화성' 위한 미래비전 ...",
-      "url": "https://www.ajunews.com/view/20260827002943698",
-      "img": "https://image.ajunews.com/content/image/2026/08/26/20260826223620233127.jpg"
+      "title": "엔비디아, 아마존에 GPU 200만개 더 푼다…블랙웰 넘어 '루빈·루빈 울트...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=543091",
+      "img": "https://cdn.joongangenews.com/news/photo/202608/543091_349149_3313.jpg"
     },
     {
-      "title": "[전교시] 국내 유일 북한학과 황진태 동국대 교수를 만나다",
-      "url": "https://www.asiatime.co.kr/article/20260826500060",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500312.jpg"
+      "title": "AI가 사내 데이터에 들어오는 시대…가비아, 보안 DaaS로 업무환경 전환...",
+      "url": "https://www.venturesquare.net/1108843/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/2.262.26.png"
     }
   ]
 };
