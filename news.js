@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 07:47",
+  "updatedAt": "2026.08.26 (수) 11:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "엔비디아 실적 D-1 관전 포인트 4가지-[굿모닝 글로벌 이슈]",
-          "desc": "이어서 가전제품과 유제품, 일부 철강 및 알루미늄 파생 제품에는 25%의 관세가 부과되며 산업용 공구 등에는... 특히 엔비디아의 가이던스는 삼성전자와 SK하이닉스의 HBM과 D램 수요와도 직결되기 때문에 우리 증시에서도...",
-          "src": "wowtv",
+          "title": "美 투자압박·中 자립 총력전 와중에 … 밥그릇싸움 내몰린 韓 반도체 ...",
+          "desc": "삼성전자에서는 반도체를 담당하는 DS부문의 실적 호조를 배경으로 가전·TV·스마트폰 등을 맡는 DX부문 노조까지 전사 성과 공유를 요구하고 나섰다. 동행노조는 DX 직원 1인당 자사주 1000주 지급과 전사 성과 기반...",
+          "src": "biz",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263617?sid=101",
-          "img": ""
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600095.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/26/2026082600095_0.jpg?u=20260826103804?u=20260826103804"
         },
         {
-          "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
-          "desc": "고도화하며 삼성전자와 LG전자가 주도해온 프리미엄 시장까지 경쟁 범위를 넓히는 모습이다. TV 밖에서는 기존 청소가전 업체들의 종합가전 전환이 두드러진다. 대표적인 곳이 드리미다. 로봇청소기를 주력으로...",
-          "src": "데일리안",
+          "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+          "desc": "삼성전자는 최신 로봇청소기에 '녹스 볼트'와 '녹스 매트릭스'를 탑재했다. 암호화 키 등 민감 정보를 별도 보안 칩에 저장하고, 연결된 기기끼리 보안 상태를 점검하는 방식이다. 이미지와 영상에는 종단 간 암호화(E2EE)...",
+          "src": "thepublic",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202608/news_1787641628_1682171_m_1.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+          "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
         },
         {
-          "title": "[소비자가 뽑은 참 좋은 브랜드-디오스 오브제컬렉션] 사용 패턴 맞춤 ...",
-          "desc": "LG전자(대표 류재철)의 디오스 오브제컬렉션이 '2026 소비자가 뽑은 참 좋은 브랜드' 냉장고 부문 1위에 선정됐다. 이번 조사에서 LG전자 디오스 오브제컬렉션은 경쟁 브랜드인 삼성전자를 비롯해 프렌치(위니아)...",
-          "src": "소비자가만드는신문",
+          "title": "KPR \"여름 축제, 체험형 라이프스타일로 진화\"",
+          "desc": "삼성전자는 체코 음악 축제 록 포 피플 현장에서 세탁기와 건조기를 운영해 관람객 옷을 즉시 세탁해주는 서비스를 제공했다. 신명희 KPR 부문장은 \"페스티벌 마케팅의 성패는 부스의 크기가 아니라 소비자의 숨은...",
+          "src": "한스경제",
           "date": "08/26",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762168",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202608/762168_316989_4217_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859623",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859623_881356_1043_v150.jpg"
         },
         {
-          "title": "[산업 리그테이블]①삼성, '영업익 11배' 폭증…전자 날고 전기·중공업...",
-          "desc": "인공지능(AI) 반도체 호황을 탄 삼성전자가 이익의 97% 이상을 쓸어 담은 가운데 삼성전기·삼성중공업... 스마트폰·TV·가전 등을 담당하는 DX부문은 메모리 가격 급등이 원가 부담으로 돌아오면서 2분기 8000억원의...",
-          "src": "news",
+          "title": "[로청 세정제의 비밀]②中업체는 왜 세정제 쓰나…'과잉 살균' 꼭 필요할...",
+          "desc": "삼성전자의 로봇청소기 제품은 세척과 살균 기능을 탑재하고 있지만 물걸레 세척용 세정제를 사용하고 있지... 금성전자 전자레인지 광고에서 이미 '강력한 살균 작용'을 장점으로 내세웠고, 1990년대 들어서는 냉장고와...",
+          "src": "view",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050150?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/25/314ff6180f2f1eaedd3cce6b4be7aac7.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005807297?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082514162791995_1787634987.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "애플, 2나노 'M6'·쿼드다이 'M5 울트라' 공개…차세대 데스크탑 탑재[모...",
-          "desc": "대규모 AI 모델 구동에 특화된 역대 가장 강력한 최상위 칩이다. 울트라퓨전(UltraFusion) 기술을 활용해... 아키텍처를 도입해 저장 장치 읽기·쓰기 속도를 기존 대비 최대 2배 늘렸다. 아울러 최대 120Gb/s...",
-          "src": "이데일리",
+          "title": "토마토시스템, 한국부동산원에 '엑스빌더6' 공급",
+          "desc": "업무에 활용할 수 있는 시각화 기능을 도입하고 입력 오류 방지와 입력 규칙 적용 등 화면 단위의 사용성... 안정성과 기술력을 입증해 왔다. 토마토시스템은 그동안 감사원, 국민건강보험공단, NH농협은행, 대우건설...",
+          "src": "IT데일리",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/018/0006358014?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600218.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241207",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241207_246807_448_v150.jpg"
         },
         {
-          "title": "日, 걸프국 '호르무즈 우회 송유관' 건설 지원…원유 조달망 다변화",
-          "desc": "및 기술 협력 등을 지원할 계획이다. 에너지·금속광물자원기구(JOGMEC)를 통해 일본 기업 등의 참여도 지원할... 제도도 도입할 계획이다. 탈탄소화 방안도 포함됐다. 정부는 원자력발전을 최대한 활용한다는 방침 하에...",
-          "src": "뉴스1",
+          "title": "AI로 '넥스트 브랜드' 찾는다...롯데百, MD전략 위한 '브랜드 AI' 가동 본...",
+          "desc": "넘어 전략 설계를 뒷받침하는 단계로 진화하고 있다\"며 \"'브랜드 AI'와 같이 현업에서 효과를 체감할 수 있는 AI 활용 사례를 확대해 전사 생산성을 높일 수 있는 기술을 지속적으로 도입해 나갈 계획\"이라고 말했다.",
+          "src": "pointdaily",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132545?sid=104",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067513/high.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316828",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316828_312941_546_v150.jpg"
         },
         {
-          "title": "한국후지필름, 올인원 포토키오스크 '셀피부스 스마트' 출시",
-          "desc": "단순한 촬영 기기를 넘어 인테리어 요소로도 활용 가능하며 매장 및 브랜드 콘셉트에 맞춘 외관 디자인 커스터마이징도 지원한다. 촬영 편의성과 결과물의 완성도를 높이는 기능도 갖췄다. AI 기반 자동 보정 기술과 다양한...",
-          "src": "slist",
+          "title": "“백화점 매장 입·퇴점 결정 AI로”... 롯데百, AI 활용해 MD전략 수립",
+          "desc": "넘어 전략 설계를 뒷받침하는 단계로 진화하고 있다”며 “브랜드 AI와 같이 현업에서 효과를 체감할 수 있는 AI 활용 사례를 확대해, 전사 생산성을 높일 수 있는 기술을 지속적으로 도입해 나갈 계획”이라고 밝혔다.",
+          "src": "매일경제",
           "date": "08/26",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=761313",
-          "img": "https://cdn.slist.kr/news/thumbnail/202608/761313_1166131_3558_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005725934?sid=103",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.00058afeb5ee4b628df4b190c240db74_R.png"
         },
         {
-          "title": "\"백화점 MD도 데이터 시대\"…롯데백화점이 '브랜드 AI'에 공들인 까닭",
-          "desc": "유통업계가 인공지능 기술을 단순 업무 자동화 수준을 넘어 핵심 경영 전략 수립의 도구로 적극 활용하고... 연결해 AI가 스스로 추론할 수 있도록 돕는 '데이터 온톨로지' 기술을 적용했다. 시스템 도입 후 한 달간...",
-          "src": "thefairnews",
+          "title": "서귀포시, 'AI 챔피언' 인증 공무원 배출",
+          "desc": "서귀포시 관계자는 \"AI 대전환 시대에는 기술을 도입하는 것도 중요하지만 공직자가 직접 업무에 활용하면서 행정에 적합한 방법을 찾아가는 과정이 더욱 중요하다\"며 \"AI 챔피언을 지속적으로 배출해 시민에게 더...",
+          "src": "samdailbo",
           "date": "08/26",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86113",
-          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202608/86113_132280_3056_v150.jpg"
+          "url": "http://www.samdailbo.com/news/articleView.html?idxno=269482",
+          "img": "http://www.samdailbo.com/image/logo/snslogo_20240826092647.png"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#e8842c",
       "items": [
         {
+          "title": "페스카로, SDV 핵심 전장제어기 'BCM' 개발 막바지…양산 준비 단계 돌입",
+          "desc": "이투데이=김우람 기자 | 자동차 사이버보안 전문기업 페스카로가 소프트웨어정의차량(SDV) 핵심 전장제어기... 제이에스오토모티브는 모듈 조립품, 와이어링 하네스, 커넥터 등을 국내와 베트남ㆍ중국에서 생산한다....",
+          "src": "이투데이",
+          "date": "08/26",
+          "url": "https://www.etoday.co.kr/news/view/2617909",
+          "img": "https://img.etoday.co.kr/pto_db/2026/01/20260121144546_2284678_600_330.png"
+        },
+        {
           "title": "자동차 밸류체인 완비된 중국 북부 핵심지 톈진, 한중 협력의 '車세대'...",
           "desc": "그밖에 시칭구(西青区)·베이천구(北辰区)·동리구(东丽区) 소재 기업들은 차량용 전장, 와이어링 하네스·커넥터, 구동 부품, 그리고 스마트 커넥티드 시험 서비스 분야에 특화되어 있습니다. Q2. 한국계 자동차 기업과...",
           "src": "dream",
@@ -163,48 +171,40 @@ window.NEWS_DATA = {
           "date": "05/11",
           "url": "https://www.dailysecu.com/news/articleView.html?idxno=206647",
           "img": "https://cdn.dailysecu.com/news/photo/202605/206647_207563_1628.png"
-        },
-        {
-          "title": "페스카로, JS오토모티브 인수…\"사이버보안·전장·생산 밸류체인 확보...",
-          "desc": "전장모듈부품, 와이어링 하네스, 커넥터 등을 주력으로 생산하고 있다. 한국·베트남·중국에 생산체계를 구축했으며, 지난해 연결 기준 약 400억 원의 매출을 기록했다. 특히 현대기아차 품질인증제도인 ‘SQ 인증’을...",
-          "src": "이데일리",
-          "date": "05/08",
-          "url": "https://n.news.naver.com/mnews/article/018/0006275897?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/05/PS26050801678.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "'한 우물' 벗어난 中 가전...IFA서 종합가전·로봇까지 전선 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003125348?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202608/news_1787641628_1682171_m_1.jpg"
+      "title": "美 투자압박·中 자립 총력전 와중에 … 밥그릇싸움 내몰린 韓 반도체 ...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600095.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/26/2026082600095_0.jpg?u=20260826103804?u=20260826103804"
     },
     {
-      "title": "[소비자가 뽑은 참 좋은 브랜드-디오스 오브제컬렉션] 사용 패턴 맞춤 ...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762168",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202608/762168_316989_4217_v150.jpg"
+      "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
+      "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
     },
     {
-      "title": "[산업 리그테이블]①삼성, '영업익 11배' 폭증…전자 날고 전기·중공업...",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050150?sid=101",
-      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/08/25/314ff6180f2f1eaedd3cce6b4be7aac7.jpg"
+      "title": "KPR \"여름 축제, 체험형 라이프스타일로 진화\"",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859623",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/859623_881356_1043_v150.jpg"
     },
     {
-      "title": "애플, 2나노 'M6'·쿼드다이 'M5 울트라' 공개…차세대 데스크탑 탑재[모...",
-      "url": "https://n.news.naver.com/mnews/article/018/0006358014?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082600218.jpg"
+      "title": "[로청 세정제의 비밀]②中업체는 왜 세정제 쓰나…'과잉 살균' 꼭 필요할...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807297?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082514162791995_1787634987.jpg"
     },
     {
-      "title": "日, 걸프국 '호르무즈 우회 송유관' 건설 지원…원유 조달망 다변화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009132545?sid=104",
-      "img": "https://i3n.news1.kr/system/photos/2026/8/22/8067513/high.jpg"
+      "title": "토마토시스템, 한국부동산원에 '엑스빌더6' 공급",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=241207",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241207_246807_448_v150.jpg"
     },
     {
-      "title": "한국후지필름, 올인원 포토키오스크 '셀피부스 스마트' 출시",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=761313",
-      "img": "https://cdn.slist.kr/news/thumbnail/202608/761313_1166131_3558_v150.jpg"
+      "title": "AI로 '넥스트 브랜드' 찾는다...롯데百, MD전략 위한 '브랜드 AI' 가동 본...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316828",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316828_312941_546_v150.jpg"
     }
   ]
 };
