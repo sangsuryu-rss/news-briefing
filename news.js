@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.27 (목) 00:54",
+  "updatedAt": "2026.08.27 (목) 02:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "제미나이 오디오, 전사·화자 구분 기능 넓혔다",
+          "desc": "본지는 앞서 구글 클라우드가 제미나이 엔터프라이즈에 사용량 기반 과금 방식을 도입한다고 전했다. 기업 고객이 고정 구독료 부담 없이 AI 기능을 시험하고 지출 한도를 관리할 수 있게 하는 방식이다. 기술의 쓸모는...",
+          "src": "tokenpost",
+          "date": "08/27",
+          "url": "https://www.tokenpost.kr/news/ai/398430",
+          "img": "https://f1.tokenpost.kr/2026/08/rhtx5rt1oj.jpg"
+        },
+        {
+          "title": "시그나, AI 진료관리로 3년 2766억원 절감 기대",
+          "desc": "Evanko) 시그나그룹 최고경영자는 같은 발표에서 기술, 데이터, AI를 활용해 더 개인화된 경험과 접근성 개선... 유나이티드헬스와 CVS헬스도 임상의 행정 부담 완화와 예약 지원에 AI 도구를 도입하고 있다. 의료 AI...",
+          "src": "tokenpost",
+          "date": "08/27",
+          "url": "https://www.tokenpost.kr/news/ai/398426",
+          "img": "https://f1.tokenpost.kr/2026/08/ntnxptcun4.jpg"
+        },
+        {
           "title": "AI가 펜싱 칼끝 움직임, 총구 미세 진동까지 분석",
           "desc": "그러나 기술적 성숙도와 별개로…” 올림픽과 아시안게임에서 각각 금메달 3개씩을 딴 펜싱 남자 사브르... 사격 대표팀은 더 정밀한 격발을 위해 AI 탐지기를 도입해 훈련 중이다. 국민체육진흥공단 산하...",
           "src": "조선일보",
           "date": "08/27",
-          "url": "https://m.sports.naver.com/general/article/023/0003995127",
+          "url": "https://n.news.naver.com/mnews/article/023/0003995165?sid=105",
           "img": "https://www.chosun.com/resizer/v2/2LPP52XIIJJMRGJTIDDVJVZEDM.jpg?auth=d2cf21cb893f3fa4ae4c690a354b0d4086cfca6caa3691162593cc1ffa21316e&width=1200&height=630&focal=4600,2522"
         },
         {
-          "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
-          "desc": "피지컬 AI 기술이 활용된다. LG 클로이드는 실제 가정 환경을 재현한 공간에서 청소를 하거나, 미국 테네시... 또한 LG CNS의 물류 자동화 솔루션, LG이노텍의 로봇 손 학습 공간에도 해당 로봇이 도입돼 있다. LG전자는...",
-          "src": "cbci",
+          "title": "도난 아이폰 되팔려 AI 음성으로 잠금코드 훔친 ‘AnonyMousKIT’ 피싱망...",
+          "desc": "도난 아이폰을 되팔기 위한 맞춤형 피싱 구조액티베이션 락은 iOS 7에서 처음 도입된 기능으로, 파인드... 결국 기술적 우회 수단이 막혀 있기 때문에 범죄 조직이 택한 길이 AI 음성을 이용한 사회공학이었던...",
+          "src": "wikitree",
           "date": "08/27",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
-        },
-        {
-          "title": "[금융家] NH농협은행 ⑤ㅣ AI·디지털 전환 속도…영업점부터 상담·생활...",
-          "desc": "KT와 NH농협은행은 앞으로도 AI와 상담 데이터를 활용해 금융권 AICC 고도화를 추진할 예정이다. KT AX사업부문 AX제안/이행본부장 홍해천 상무는 \"KT는 축적된 금융 AX 수행 경험과 AICC 기술 역량을 바탕으로 고객과...",
-          "src": "cbci",
-          "date": "08/27",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600686",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600686_411951_4356_v150.jpg"
-        },
-        {
-          "title": "[8월 26일 병원계 이모저모④]고려대, 부산백, 아주대, 양산부산대병원...",
-          "desc": "이 병원은 지난 5월 부산·울산·경남 지역 상급종합병원 가운데 최초로 씽크를 도입해 스마트병동을... 다양한 AI 기술을 진단과 치료 보조에 활용하고 있다. 양재욱 원장은 “AI 솔루션은 진단과 치료를 보조하는 것은...",
-          "src": "medicalworldnews",
-          "date": "08/27",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976833",
-          "img": ""
+          "url": "https://www.wikitree.co.kr/articles/1155226",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/27/202608270110033527_it.jpeg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "그린포스트",
           "date": "08/26",
           "url": "https://www.greened.kr/news/articleView.html?idxno=348526",
-          "img": "https://www.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
+          "img": "https://cdn.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
         },
         {
           "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
     },
     {
-      "title": "AI가 펜싱 칼끝 움직임, 총구 미세 진동까지 분석",
-      "url": "https://m.sports.naver.com/general/article/023/0003995127",
-      "img": "https://www.chosun.com/resizer/v2/2LPP52XIIJJMRGJTIDDVJVZEDM.jpg?auth=d2cf21cb893f3fa4ae4c690a354b0d4086cfca6caa3691162593cc1ffa21316e&width=1200&height=630&focal=4600,2522"
+      "title": "제미나이 오디오, 전사·화자 구분 기능 넓혔다",
+      "url": "https://www.tokenpost.kr/news/ai/398430",
+      "img": "https://f1.tokenpost.kr/2026/08/rhtx5rt1oj.jpg"
     },
     {
-      "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
+      "title": "시그나, AI 진료관리로 3년 2766억원 절감 기대",
+      "url": "https://www.tokenpost.kr/news/ai/398426",
+      "img": "https://f1.tokenpost.kr/2026/08/ntnxptcun4.jpg"
     }
   ]
 };
