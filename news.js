@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 18:04",
+  "updatedAt": "2026.08.26 (수) 19:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
+          "desc": "삼성전자의 얼굴은 오랫동안 폰과 가전이 맡아왔다. AI시대를 맞아 반도체가 수익의 절대비중을 갖게 됐지만 TV와 폰 등은 여전히 소비자를 최전선에서 만나는 첨병이다. 반도체 사업이 대규모 적자를 낼 때에도 묵묵히...",
+          "src": "asiatoday",
+          "date": "08/26",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+        },
+        {
           "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
-          "desc": "로봇청소기에서 좋은 평가를 받은 기술력이 헤어드라이어나 펫 공기청정기, 주방가전에서도 곧바로 브랜드 신뢰로 이어진다는 보장도 없다. 더구나 한국에서는 삼성전자와 LG전자가 냉장고와 세탁기, 에어컨, TV...",
+          "desc": "이미 프리미엄 로봇청소기 시장을 선점한 로보락과 삼성전자·LG전자 사이에서 어떤 브랜드로 자리 잡을 것인지가 다음 승부처다. 180℃ 스팀, 스펙 경쟁의 다음 수 행사에서 가장 시선을 끈 제품은 프리미엄 로봇청소기...",
           "src": "매일경제",
           "date": "08/26",
           "url": "https://n.news.naver.com/mnews/article/009/0005726187?sid=004",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "08/26",
           "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191333",
           "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
-        },
-        {
-          "title": "가전만 팔아선 안 된다…삼성·LG, 선점 사업까지 경쟁 격화",
-          "desc": "임성택 삼성전자 DA(생활가전)사업부 부사장은 \"히트펌프 제품의 국내 생산 체제 구축으로 난방 전기화 추세에 보다 적극적으로 대응해 히트펌프 사업 확대에 속도를 낼 것\"이라고 말했다. 조병하 LG전자 MS사업본부...",
-          "src": "서울신문",
-          "date": "08/26",
-          "url": "http://www.metroseoul.co.kr/article/20260826500562",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/26/.cache/512/20260826500564.jpg"
         },
         {
           "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한화에어로, 2035년 군용 무인차량 완전자율 목표…MUM-T로 확장",
-          "desc": "'시각·언어·행동(VLA) 기반 피지컬 인공지능(AI) 자율화' 기술을 선제 도입해 기술 완성도를 끌어올린다는... (Arion-SMET)'의 활용 방안도 제시했다. 아리온스멧에 모듈형 임무 장비를 탑재해 감시·드론 정찰, 지뢰 탐지...",
-          "src": "g-enews",
+          "title": "SK바이오팜, 오파칼림 도입에…더 중요해진 엑스코프리發 현금 [현장+]",
+          "desc": "오파칼림을 도입했다. 그러나 출시 전까지는 엑스코프리의 현금창출력이 더 중요할 수 있다는 분석이... 2분기에는 인실리코메디슨과 AI를 활용해 중추신경계(CNS) 질환의 새 표적을 찾는 공동연구도 시작했다....",
+          "src": "블로터",
           "date": "08/26",
-          "url": "https://www.g-enews.com/view.php?ud=202608261722456419ea14faf6f5_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082617234208052ea14faf6f5115951676.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000089606?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202608/671896_285262_261_v150.jpg"
         },
         {
-          "title": "SKT, 2026 아시안게임 선수단 지원…AI로 펜싱 전력 분석",
-          "desc": "SK텔레콤은 이번 아시안게임 훈련 과정에 자체 개발한 펜싱 AI 전력분석 시스템 'SKT-FAN(Fencing AI Nexus)'을 도입했다. AI 기반 컴퓨터 비전 기술을 활용해 경기 직후 득·실점 하이라이트 영상을 자동으로 편집하고 상대...",
-          "src": "kdfnews",
+          "title": "빌 게이츠 “일부 직업은 인간 몫으로 남기자”… ‘휴먼 리저브드’ 제...",
+          "desc": "“AI는 지금까지 없었던 강력한 평등의 도구가 될 수도 있고, 반대로 불평등을 심화시키는 가장 위험한 기술... 한 기업이 AI와 로봇을 도입해 가격을 낮추면 경쟁사도 따라갈 수밖에 없고, 기존 기업이 머뭇거리면...",
+          "src": "platum",
           "date": "08/26",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=187109",
-          "img": "http://www.kdfnews.com/news/thumbnail/202608/187109_236863_5719_v150.jpg"
+          "url": "https://platum.kr/archives/293345",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/billgate-1024x1024.png"
         },
         {
-          "title": "SK텔레콤, 아시안게임 국가대표 지원...AI 전력 분석으로 경기력 강화",
-          "desc": "(펜싱 AI 넥서스)'을 도입했다. SKT-FAN은 경기 영상을 컴퓨터 비전 기술로 분석해 득점과 실점 장면을... 회사는 해당 기술을 활용해 전력분석원이 수행하던 영상 분석 업무를 최대 90%까지 줄이고, 분석 결과를 훈련...",
-          "src": "ppss",
+          "title": "로봇 관절의 열을 잡는다…아이언디바이스, 초소형 GaN 파워 스테이지 ...",
+          "desc": "전력소자 도입을 검토하고 있다”며 “휴머노이드 로봇을 비롯해 고출력·고효율 제어가 필요한 산업에서 활용 가능성이 크다”고 평가했다. 글로벌 GaN 구동 반도체...",
+          "src": "venturesquare",
           "date": "08/26",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=307464",
-          "img": "https://cdn.ppss.kr/news/photo/202608/307464_128230_544.jpg"
+          "url": "https://www.venturesquare.net/1108683/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/08/PCIM-Asia-2026.png"
         },
         {
-          "title": "[오늘의 제약리뷰] 동아제약·대웅제약·유한양행·제이엘케이",
-          "desc": "동아제약의 가그린이 40년 구강 케어 기술력을 바탕으로 차세대 구강청결제 '어드밴스드 제로' 8종을... 뇌졸중 AI 솔루션의 실제 의료현장 도입과 사업화에 속도를 낸다는 방침이다. 제이엘케이 관계자는 \"다케야마는 약...",
-          "src": "financialreview",
+          "title": "SKT 후원 국가대표 8명, 아시안게임 출사표…\"AI 기술로 경기력 지원\"",
+          "desc": "SKT는 이번 아시안게임을 준비하는 펜싱 국가대표 훈련에 자체 개발한 AI 전력분석 시스템 'SKT-FAN(Fencing AI Nexus)'을 도입했다. SKT-FAN은 AI 기반 컴퓨터 비전 기술을 활용해 경기 직후 득점과 실점 장면을 자동으로...",
+          "src": "efnews",
           "date": "08/26",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44411",
-          "img": "http://www.financialreview.co.kr/news/thumbnail/202608/44411_65650_1036_v150.jpg"
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131914",
+          "img": "http://www.efnews.co.kr/news/photo/202608/131914_118922_5714.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
+    },
+    {
       "title": "드리미, 가빛섬서 한국 공략 새 출발 … ‘스마트홈 현지화’ 승부수",
       "url": "https://n.news.naver.com/mnews/article/009/0005726187?sid=004",
       "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
     },
     {
-      "title": "가전만 팔아선 안 된다…삼성·LG, 선점 사업까지 경쟁 격화",
-      "url": "http://www.metroseoul.co.kr/article/20260826500562",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/08/26/.cache/512/20260826500564.jpg"
-    },
-    {
       "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
       "url": "https://www.thepublic.kr/news/articleView.html?idxno=316197",
       "img": "https://cdn.thepublic.kr/news/photo/202608/316197_319515_2234.jpg"
     },
     {
-      "title": "한화에어로, 2035년 군용 무인차량 완전자율 목표…MUM-T로 확장",
-      "url": "https://www.g-enews.com/view.php?ud=202608261722456419ea14faf6f5_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082617234208052ea14faf6f5115951676.jpg"
+      "title": "SK바이오팜, 오파칼림 도입에…더 중요해진 엑스코프리發 현금 [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089606?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202608/671896_285262_261_v150.jpg"
     },
     {
-      "title": "SKT, 2026 아시안게임 선수단 지원…AI로 펜싱 전력 분석",
-      "url": "http://www.kdfnews.com/news/articleView.html?idxno=187109",
-      "img": "http://www.kdfnews.com/news/thumbnail/202608/187109_236863_5719_v150.jpg"
+      "title": "빌 게이츠 “일부 직업은 인간 몫으로 남기자”… ‘휴먼 리저브드’ 제...",
+      "url": "https://platum.kr/archives/293345",
+      "img": "https://cdn.platum.kr/wp-content/uploads/2026/08/billgate-1024x1024.png"
     }
   ]
 };
