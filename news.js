@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.26 (수) 11:00",
+  "updatedAt": "2026.08.26 (수) 12:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "美 투자압박·中 자립 총력전 와중에 … 밥그릇싸움 내몰린 韓 반도체 ...",
-          "desc": "삼성전자에서는 반도체를 담당하는 DS부문의 실적 호조를 배경으로 가전·TV·스마트폰 등을 맡는 DX부문 노조까지 전사 성과 공유를 요구하고 나섰다. 동행노조는 DX 직원 1인당 자사주 1000주 지급과 전사 성과 기반...",
-          "src": "biz",
+          "title": "이재명 대통령, 이재용·정의선 만난다",
+          "desc": "삼성전자는 AI 산업에 핵심적인 고성능 메모리 반도체를 공급하고 있으며 가전 분야에서도 AI를 탑재한 갤럭시 생태계 조성을 추진하고 있다. SK는 먼저 SK하이닉스가 고성능 메모리 반도체를 공급하고 있으며 SK텔레콤은...",
+          "src": "m",
           "date": "08/26",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600095.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/08/26/2026082600095_0.jpg?u=20260826103804?u=20260826103804"
+          "url": "https://m.skyedaily.com/news_view.html?ID=310501",
+          "img": "https://pds.skyedaily.com/top_image/202608/310501_p.jpg"
         },
         {
           "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "토마토시스템, 한국부동산원에 '엑스빌더6' 공급",
-          "desc": "업무에 활용할 수 있는 시각화 기능을 도입하고 입력 오류 방지와 입력 규칙 적용 등 화면 단위의 사용성... 안정성과 기술력을 입증해 왔다. 토마토시스템은 그동안 감사원, 국민건강보험공단, NH농협은행, 대우건설...",
-          "src": "IT데일리",
+          "title": "[스마트클라우드쇼 2026] 임효준 LG전자 차세대컴퓨팅연구소장 “AI 시대...",
+          "desc": "모델을 도입할 때 공급업체의 보안 정책을 꼼꼼히 따져보는 것도 중요한 대응책으로 꼽았다. 임 전무는 “새로운 AI 기술이 등장할 때마다 이를 노리는 공격 방법도 함께 등장한다”며 “끊임없는 공격과 방어의 경쟁은...",
+          "src": "조선일보",
           "date": "08/26",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241207",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241207_246807_448_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001188422?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/3IWM2F2YONEN3BKZ44DYPM45SU.jpg?auth=0631e4ced91516b62b65ad490cdef72f1af5bb38dfeeaf2176d64fe0b5e71428&width=1200&height=630&smart=true"
         },
         {
-          "title": "AI로 '넥스트 브랜드' 찾는다...롯데百, MD전략 위한 '브랜드 AI' 가동 본...",
-          "desc": "넘어 전략 설계를 뒷받침하는 단계로 진화하고 있다\"며 \"'브랜드 AI'와 같이 현업에서 효과를 체감할 수 있는 AI 활용 사례를 확대해 전사 생산성을 높일 수 있는 기술을 지속적으로 도입해 나갈 계획\"이라고 말했다.",
-          "src": "pointdaily",
+          "title": "[위클리오늘] 평택시, 학생통학 순환버스 11월 개통…원거리 통학 불편...",
+          "desc": "통학버스 도입 요청이 꾸준히 이어져 왔다. 시는 학생통학 순환버스가 운영되면 원거리 통학 학생들의... 이번 교육과정은 인공지능(AI) 기반 미래직업 양성과정으로 생성형 인공지능(AI) 기술 확산에 따라 업무 다양성 및...",
+          "src": "weeklytoday",
           "date": "08/26",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316828",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316828_312941_546_v150.jpg"
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791697",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/791697_977644_719_v150.jpg"
         },
         {
-          "title": "“백화점 매장 입·퇴점 결정 AI로”... 롯데百, AI 활용해 MD전략 수립",
-          "desc": "넘어 전략 설계를 뒷받침하는 단계로 진화하고 있다”며 “브랜드 AI와 같이 현업에서 효과를 체감할 수 있는 AI 활용 사례를 확대해, 전사 생산성을 높일 수 있는 기술을 지속적으로 도입해 나갈 계획”이라고 밝혔다.",
-          "src": "매일경제",
+          "title": "[K-기업 AX 대전환 ⑥ 통신] 인프라 넘어 지능형 플랫폼 변신",
+          "desc": "전환 △AI 에이전트 표준화. 이는 단순한 기술 도입이 아니라 네트워크 운영의 철학적 전환을 의미한다.... 자체 네트워크·보안·AI 전환 역량을 활용해 공공기관의 클라우드 도입과 운영을 지원한다. 네트워크가...",
+          "src": "globalepic",
           "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725934?sid=103",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.00058afeb5ee4b628df4b190c240db74_R.png"
+          "url": "http://www.globalepic.co.kr/view.php?ud=20260826120454103048439a4874_29",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026082612051003437048439a4874112222163195.jpg&nmt=29"
         },
         {
-          "title": "서귀포시, 'AI 챔피언' 인증 공무원 배출",
-          "desc": "서귀포시 관계자는 \"AI 대전환 시대에는 기술을 도입하는 것도 중요하지만 공직자가 직접 업무에 활용하면서 행정에 적합한 방법을 찾아가는 과정이 더욱 중요하다\"며 \"AI 챔피언을 지속적으로 배출해 시민에게 더...",
-          "src": "samdailbo",
+          "title": "[스마트클라우드쇼 2026] 김태수 마이크로소프트 부사장 “AI 발전으로 ...",
+          "desc": "AI를 최대한 활용해 당면한 문제를 어떻게 해결할지 고민하는 것은 모든 조직의 숙제가 됐다.” 김태수... 김 부사장은 AI 기술 발전이 사이버보안 환경을 근본적으로 변화시키고 있다고 진단했다. 그는 MS가 매달...",
+          "src": "조선일보",
           "date": "08/26",
-          "url": "http://www.samdailbo.com/news/articleView.html?idxno=269482",
-          "img": "http://www.samdailbo.com/image/logo/snslogo_20240826092647.png"
+          "url": "https://n.news.naver.com/mnews/article/366/0001188420?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/EJBVVHDOTZGQTH7P2STSC65DM4.jpg?auth=0e20d2b6c6798006a1ed90f5f140e0e3f816acf10687b8f1153a2dc4f474d60f&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "美 투자압박·中 자립 총력전 와중에 … 밥그릇싸움 내몰린 韓 반도체 ...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600095.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/08/26/2026082600095_0.jpg?u=20260826103804?u=20260826103804"
+      "title": "이재명 대통령, 이재용·정의선 만난다",
+      "url": "https://m.skyedaily.com/news_view.html?ID=310501",
+      "img": "https://pds.skyedaily.com/top_image/202608/310501_p.jpg"
     },
     {
       "title": "로봇청소기 경쟁, '흡입력' 넘어 '보안'으로… 카메라·실내 지도 보호...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082514162791995_1787634987.jpg"
     },
     {
-      "title": "토마토시스템, 한국부동산원에 '엑스빌더6' 공급",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=241207",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241207_246807_448_v150.jpg"
+      "title": "[스마트클라우드쇼 2026] 임효준 LG전자 차세대컴퓨팅연구소장 “AI 시대...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188422?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/3IWM2F2YONEN3BKZ44DYPM45SU.jpg?auth=0631e4ced91516b62b65ad490cdef72f1af5bb38dfeeaf2176d64fe0b5e71428&width=1200&height=630&smart=true"
     },
     {
-      "title": "AI로 '넥스트 브랜드' 찾는다...롯데百, MD전략 위한 '브랜드 AI' 가동 본...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316828",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/316828_312941_546_v150.jpg"
+      "title": "[위클리오늘] 평택시, 학생통학 순환버스 11월 개통…원거리 통학 불편...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791697",
+      "img": "https://cdn.weeklytoday.com/news/thumbnail/202608/791697_977644_719_v150.jpg"
     }
   ]
 };
