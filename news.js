@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.27 (목) 02:50",
+  "updatedAt": "2026.08.27 (목) 05:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
         },
         {
-          "title": "美·캐나다 관세전쟁 격화…보복관세에 '선거전'까지 번졌다",
-          "desc": "실제 WSJ은 위스콘신주의 가공치즈와 메인주의 수산물, 켄터키주의 세탁기·건조기 등 정치적으로 민감한... 삼성전자와 LG전자 등은 미국에 가전 생산기지를 두고 있고, LG에너지솔루션과 포스코퓨처엠 등은 캐나다에서...",
-          "src": "wikileaks-kr",
-          "date": "08/26",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191333",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
+          "title": "수건 빨아도 냄새 난다면 건조부터 점검",
+          "desc": "건조기 사용설명서에 맞춘다. 사용한 수건도 젖은 채 뭉쳐 빨래 바구니에 넣기보다 펼쳐 말린 뒤 세탁하는 편이 건조 지연을 줄일 수 있다. 냄새가 반복된다면 수건뿐 아니라 세탁기 내부도 확인해야 한다. 삼성전자서비스...",
+          "src": "vegannews",
+          "date": "08/27",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=384927",
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_178777400332.jpg"
         },
         {
-          "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
-          "desc": "삼성전자, SK하이닉스, 마이크론 등 3개사가 글로벌 메모리 반도체 생산의 대부분을 차지하고 있다. 애플과... LG 클로이드는 실제 가정 환경을 재현한 공간에서 청소를 하거나, 미국 테네시 세탁기공장의 제조 환경을...",
-          "src": "cbci",
-          "date": "08/27",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
+          "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
+          "desc": "삼성전자의 얼굴은 오랫동안 폰과 가전이 맡아왔다. AI시대를 맞아 반도체가 수익의 절대비중을 갖게 됐지만 TV와 폰 등은 여전히 소비자를 최전선에서 만나는 첨병이다. 반도체 사업이 대규모 적자를 낼 때에도 묵묵히...",
+          "src": "asiatoday",
+          "date": "08/26",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "제미나이 오디오, 전사·화자 구분 기능 넓혔다",
-          "desc": "본지는 앞서 구글 클라우드가 제미나이 엔터프라이즈에 사용량 기반 과금 방식을 도입한다고 전했다. 기업 고객이 고정 구독료 부담 없이 AI 기능을 시험하고 지출 한도를 관리할 수 있게 하는 방식이다. 기술의 쓸모는...",
-          "src": "tokenpost",
+          "title": "[특집] 정명근표 '큰 생각'... '모두의 행복 더큰 화성' 위한 미래비전 ...",
+          "desc": "혁신 도입을 촉진한다. 사업지는 동탄2 인큐베이팅센터 내이며 오는 내년 상반기가 목표다. 이를 통해 화성을 로봇과 인공지능이 실제 제조현장에서 만나 기술을 검증하고 사업화까지 이어지는 '피지컬 AI 실증산업의...",
+          "src": "아주경제",
           "date": "08/27",
-          "url": "https://www.tokenpost.kr/news/ai/398430",
-          "img": "https://f1.tokenpost.kr/2026/08/rhtx5rt1oj.jpg"
+          "url": "https://www.ajunews.com/view/20260827002943698",
+          "img": "https://image.ajunews.com/content/image/2026/08/26/20260826223620233127.jpg"
         },
         {
-          "title": "시그나, AI 진료관리로 3년 2766억원 절감 기대",
-          "desc": "Evanko) 시그나그룹 최고경영자는 같은 발표에서 기술, 데이터, AI를 활용해 더 개인화된 경험과 접근성 개선... 유나이티드헬스와 CVS헬스도 임상의 행정 부담 완화와 예약 지원에 AI 도구를 도입하고 있다. 의료 AI...",
-          "src": "tokenpost",
+          "title": "[전교시] 국내 유일 북한학과 황진태 동국대 교수를 만나다",
+          "desc": "이번 학기 'AI와 북한', '북한 위성사진 분석 방법론' 수업을 런칭한 황 교수는 생성형 AI 기술을 적극 도입했... 과거 한 탈북자에게 \"북한 출신이니 그 배경을 활용해 북한학을 해보라\"고 권했던 그는, 그 제자가 서양...",
+          "src": "아시아타임즈",
           "date": "08/27",
-          "url": "https://www.tokenpost.kr/news/ai/398426",
-          "img": "https://f1.tokenpost.kr/2026/08/ntnxptcun4.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260826500060",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500312.jpg"
         },
         {
-          "title": "AI가 펜싱 칼끝 움직임, 총구 미세 진동까지 분석",
-          "desc": "그러나 기술적 성숙도와 별개로…” 올림픽과 아시안게임에서 각각 금메달 3개씩을 딴 펜싱 남자 사브르... 사격 대표팀은 더 정밀한 격발을 위해 AI 탐지기를 도입해 훈련 중이다. 국민체육진흥공단 산하...",
-          "src": "조선일보",
+          "title": "[AI, 증권맨이 되다⑦] '글로벌'에 AI 더한 미래에셋證…정보부터 운용...",
+          "desc": "(LLM)을 활용한 'AI 어시스턴트 플랫폼'과 'AI 마켓 어시스턴트'를 전사적으로 도입했다. 이를 기반으로... AI의 활용처가 넓어지면서 이를 뒷받침하는 기술과 조직에도 힘을 싣고 있다. AI와 디지털자산 경쟁력 강화를...",
+          "src": "startuptoday",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/023/0003995165?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/2LPP52XIIJJMRGJTIDDVJVZEDM.jpg?auth=d2cf21cb893f3fa4ae4c690a354b0d4086cfca6caa3691162593cc1ffa21316e&width=1200&height=630&focal=4600,2522"
+          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=810976",
+          "img": "https://cdn.startuptoday.co.kr/news/photo/202608/810976_610466_3053.png"
         },
         {
-          "title": "도난 아이폰 되팔려 AI 음성으로 잠금코드 훔친 ‘AnonyMousKIT’ 피싱망...",
-          "desc": "도난 아이폰을 되팔기 위한 맞춤형 피싱 구조액티베이션 락은 iOS 7에서 처음 도입된 기능으로, 파인드... 결국 기술적 우회 수단이 막혀 있기 때문에 범죄 조직이 택한 길이 AI 음성을 이용한 사회공학이었던...",
-          "src": "wikitree",
+          "title": "빌 게이츠 섬뜩한 경고 \"AI 격변, 10년 안에 닥친다\"",
+          "desc": "자연보호구역처럼 AI와 자동화 기술의 도입을 의도적으로 제한하거나 늦추는 영역을 만들자는 것이다. 그가... 강화에 활용할 수 있다고 주장했다. AI를 이용한 범죄 증가도 위험 요소로 꼽았다. AI 기술이 고도화될수록...",
+          "src": "핀포인트뉴스",
           "date": "08/27",
-          "url": "https://www.wikitree.co.kr/articles/1155226",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/27/202608270110033527_it.jpeg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480859",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/480859_467576_515_v150.jpg"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "\"필리핀인 없으면 공장 멈춘다\"… 대만 반도체 장악한 이주노동자들",
+          "desc": "이 가운데 반도체를 비롯한 전자부품산업에 종사하는 이주노동자는 8만3,794명인데, 필리핀인 비중이 82%에... 달마전자는 한국 내 대표 반도체 패키징 기업인 앰코테크놀로지코리아의 주요 협력사 중 하나로, 2004년 앰코...",
+          "src": "한국일보",
+          "date": "08/27",
+          "url": "https://n.news.naver.com/mnews/article/469/0000950353?sid=102",
+          "img": "https://newsimg.hankookilbo.com/2026/08/23/c7a15ada-cdb9-4913-9e28-051795d6f7ce.jpg"
+        },
+        {
           "title": "충남 산업지도 '국가 성장축' 올라섰다…4대 성장엔진·202조 투자 맞물...",
           "desc": "현재 충남 투자계획 가운데 삼성전자는 반도체 분야에 56조 원, 삼성디스플레이는 디스플레이 분야에 67조 원... ◇ 202조 민간투자에 정부 지원까지…'투자→협력사→일자리' 연결 노린다 충남도가 이번 선정을 주목하는...",
           "src": "그린포스트",
           "date": "08/26",
           "url": "https://www.greened.kr/news/articleView.html?idxno=348526",
-          "img": "https://cdn.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
+          "img": "https://www.greened.kr/news/thumbnail/202608/348526_399942_229_v150.jpg"
         },
         {
           "title": "반도체 투자 확대 속 인력 수요 증가…소부장 '인재 확보' 부담 커지나",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/26",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=543006",
           "img": "https://cdn.joongangenews.com/news/photo/202608/543006_349056_1945.png"
-        },
-        {
-          "title": "李 대통령-이재용 또 만난다…메가프로젝트·대미투자 지원 사격 요청",
-          "desc": "삼성전자, SK하이닉스가 서남권에 각각 2기의 메모리 반도체 팹을 구축하고 소재·부품·장비 및 인력... 로봇 파운드리와 데이터센터를 축으로 부품 협력사와 AI·에너지 연관 기업 유치로 확산될 수 있다는 점이 주목된다....",
-          "src": "뉴스1",
-          "date": "08/26",
-          "url": "https://n.news.naver.com/mnews/article/421/0009134024?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/7/25/8025014/high.jpg"
         }
       ]
     },
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.13f5979cba6147b4bc949124013b489e_R.jpg"
     },
     {
-      "title": "美·캐나다 관세전쟁 격화…보복관세에 '선거전'까지 번졌다",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191333",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202608/191333_205710_837_v150.jpg"
+      "title": "수건 빨아도 냄새 난다면 건조부터 점검",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=384927",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_178777400332.jpg"
     },
     {
-      "title": "[기업家] 엔비디아 ⑤ㅣ 기술·인프라·중국 시장까지…AI 생태계 '광폭...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202608/600644_411915_176_v150.jpg"
+      "title": "HVAC·로보틱스에 3조… 삼성 미래 좌우 핵심은 결국 DX",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009062",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/27d/2026082701001654100090621.jpg"
     },
     {
-      "title": "제미나이 오디오, 전사·화자 구분 기능 넓혔다",
-      "url": "https://www.tokenpost.kr/news/ai/398430",
-      "img": "https://f1.tokenpost.kr/2026/08/rhtx5rt1oj.jpg"
+      "title": "[특집] 정명근표 '큰 생각'... '모두의 행복 더큰 화성' 위한 미래비전 ...",
+      "url": "https://www.ajunews.com/view/20260827002943698",
+      "img": "https://image.ajunews.com/content/image/2026/08/26/20260826223620233127.jpg"
     },
     {
-      "title": "시그나, AI 진료관리로 3년 2766억원 절감 기대",
-      "url": "https://www.tokenpost.kr/news/ai/398426",
-      "img": "https://f1.tokenpost.kr/2026/08/ntnxptcun4.jpg"
+      "title": "[전교시] 국내 유일 북한학과 황진태 동국대 교수를 만나다",
+      "url": "https://www.asiatime.co.kr/article/20260826500060",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/08/26/.cache/512/20260826500312.jpg"
     }
   ]
 };
