@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.27 (목) 15:32",
+  "updatedAt": "2026.08.27 (목) 18:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "트럼프 관세 최대 수혜국은 '베트남'…상반기 대미 무역흑자 1위",
-          "desc": "하지만 마크 길린 베트남 주재 미국 상공회의소 회장은 \"(베트남의) 대미 수출 가운데 약 60%가 기계·전자제품·가전제품\"이라며 \"삼성전자와 인텔, 폭스콘 등 현지에 생산시설을 둔 대기업들이 수출 증가를 주도하고...",
-          "src": "머니투데이",
+          "title": "삼성전자·LG전자 '게임스컴 2026'서 오디세이 게이밍 모니터 4종 공개·...",
+          "desc": "삼성전자가 '게임스컴 2026'에서 오디세이 게이밍 모니터 4종을 공개한 한편, LG전자는 효율적인... LG전자는 지난 26일 한국전력과 '스마트가전 캐시백 시범사업' 추진을 위한 업무협약을 체결했다. 해당...",
+          "src": "wsobi",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/008/0005405719?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=793,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082714570584261_1.jpg"
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=317137",
+          "img": "http://www.wsobi.com/news/photo/202608/317137_189060_3937.jpg"
         },
         {
-          "title": "[디지털 라이프] “가전 체험하고 인테리어까지”…혼수 매장 변신한 '...",
-          "desc": "정수기와 로봇청소기처럼 정기적인 위생 관리와 필터·소모품 교체가 필요한 제품은 월 16만원대 블루패스 서비스를 제안받았다. 원지연 삼성스토어 청담점 지점장은 “정수기 같은 제품은 정기적인 점검 서비스가...",
-          "src": "전자신문",
+          "title": "\"중국이 못 따라온다\"…저가 공세속 'B2B 확대'나선 삼성·LG전자",
+          "desc": "시장조사기관 카운터포인트리서치에 따르면 올해 6월 기준 LCD TV 출하 점유율은 삼성전자 13.7%, TCL 13.8%로 격차가 0.1%포인트(p)에 불과한 것으로 나타났다. 중국은 글로벌 로봇청소기 시장에서도 50% 이상의 점유율을...",
+          "src": "뉴시스",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/030/0003461005?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/25/news-p.v1.20260825.a80972b9c0ff4b5d8181d2a8b63e626e_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014152985?sid=101",
+          "img": "https://img1.newsis.com/2026/02/22/NISI20260222_0002067399_web.jpg"
         },
         {
-          "title": "\"휴일 낮 세탁기 돌리면 캐시백 드려요\"… 한전, 삼성·LG와 시범 사업",
-          "desc": "다음 달부터 두 달간 주말과 공휴일 낮 시간대에 세탁기, 건조기 등 스마트 가전제품을 사용하면 전력 사용량에 따라 전기요금의 일부를 캐시백 형태로 돌려받을 수 있게 된다. 한국전력은 삼성전자·LG전자와 26일 한전...",
-          "src": "한국일보",
+          "title": "AI 입히고 폼팩터 혁신 승부수… 폰·가전 수익성 새판짜는 삼성",
+          "desc": "삼성전자가 디바이스경험(DX) 사업 간판인 스마트폰, TV·가전의 '1등 전략'을 다시 짜고 있다. 시장을... 식기세척기, 전자레인지 등은 주문자상표부착생산(OEM)이나 제조자개발생산(ODM) 방식으로 전환하고 냉장고, 세탁기...",
+          "src": "asiatoday",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/469/0000950489?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/08/27/0160a0ff-bceb-4a02-a9a5-790ab7f88657.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009588",
+          "img": "https://img.asiatoday.co.kr/file/2026y/08m/28d/2026082801001767700095881.jpg"
         },
         {
-          "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
-          "desc": "삼성전자가 한국표준협회에서 주최하는 디지털고객경험지수(DCXI) 종합가전 부문에서 4년 연속 1위를... 비스포크 AI 스팀 로봇청소기는 제품 전면에 들어간 RGB 카메라 센서와 적외선 LED로 유색 액체는 물론 투명...",
-          "src": "한국경제",
+          "title": "전남광주 제조기업 17곳, 삼성과 스마트공장 구축 나선다",
+          "desc": "선정기업 관계자들은 기존 사업 성과를 공유하고 삼성전자의 가전·금형 관련 스마트공장을 둘러보며 자사 생산현장에 적용할 구축 방향을 살폈다. 민형배 특별시장은 \"기업들이 전남광주에 더 투자하고 더 크게...",
+          "src": "polinews",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005325303?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741446",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741446_563413_131_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“취업률 82.8%, 비결은 실사구시” 유길상 한국기술교육대 총장",
-          "desc": "플랫폼 'K-LXP'를 도입했습니다. AI가 학생의 학업 역량과 진로 목표를 분석해 교과목과 비교과 활동, 취업 포트폴리오를 추천합니다. 다담미래학습관과 가상현실(VR/AR) 메타버스 실습 인프라도 함께 활용하면서 AI...",
-          "src": "한국경제",
+          "title": "[밸류메이커]조은미 웹케시 성장전략센터장 \"AI 5대 사업, 2030년 500억\"",
+          "desc": "금융권의 AI 도입이 단순 메뉴 클릭을 넘어 실질적인 서비스 단계로 진입하고 있다. 은행들이 내부 경영... 중견기업 이상을 대상으로 하는 AX Port는 전사적 활용이 가능한 플랫폼으로 기업 규모에 따라 가격대가...",
+          "src": "newsfreezone",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005325508?sid=102",
-          "img": "https://img.hankyung.com/photo/202608/01.45468192.1.jpg"
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706102",
+          "img": ""
         },
         {
-          "title": "한국도 청소년 SNS 규제 공론화…메타發 플랫폼 책임 요구 커지나",
-          "desc": "청소년 계정은 인공지능(AI)이 끊임없이 콘텐츠를 추천해주는 알고리즘을 배제한다. 나이 확인 기술을... 진민정 한국언론진흥재단 책임연구위원은 “현재 40여개국에서 청소년 SNS 규제를 도입했거나 도입을 추진하고...",
-          "src": "전자신문",
+          "title": "AWS, 서울 리전에 클로드 오퍼스5·소넷5 제공… 금융권 AI 활용 탄력",
+          "desc": "AWS, 서울 리전에 최신 클로드 도입 데이터 국외 반출 없이 금융 데이터 국내 처리 가능 AWS “앤트로픽... 금융사 AI 활용 범위가 크게 확대될 전망이다. 노경훈 AWS코리아 금융 서비스 및 공공부문 총괄과 최기영...",
+          "src": "조선일보",
           "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/030/0003461033?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.c802f1d6cd55434b9e93f700c553abc4_P1.png"
+          "url": "https://n.news.naver.com/mnews/article/366/0001188815?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/NILW7EQH6JFTDGUC7X3A55PBRQ.jpg?auth=216bb9e12a9140ed086a0b79a6ceee942ea8eab0596753de8831438871e4731a&width=1200&height=630&smart=true"
         },
         {
-          "title": "독일 작센주 사절단, 한림대성심병원 방문…의료서비스 로봇에 큰 관심",
-          "desc": "기획부터 도입, 운영, 표준화, 확산까지 전 과정을 수행하는 것\"이라며 \"고령화에 따른 의료인력 부족을 극복하면서 의료서비스의 질을 높이기 위해서는 로봇과 AI, 디지털 트윈, 스마트시티를 연결하는 기술 혁신이...",
-          "src": "irobotnews",
+          "title": "이노그리드, 전 직원에 '클로드' 지원… 생산성·ROI 측정",
+          "desc": "클로드를 활용한다. 개발자는 아키텍처 설계와 코드 검토, 보안·성능 검토 등 판단이 필요한 업무를 맡는다. 성과는 개발 리드타임과 스프린트 처리량, 품질 검증 통과율 등으로 측정한다. AI 도입이 자사 클라우드·AI...",
+          "src": "조선일보",
           "date": "08/27",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48148",
-          "img": "https://cdn.irobotnews.com/news/photo/202608/48148_103233_2229.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168969",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168969_451151_3514_v150.jpg"
         },
         {
-          "title": "AI 위험 경고 나선 빌 게이츠…“최악의 불평등 원천 될 수도”",
-          "desc": "로봇과 AI의 토큰에서 발생하는 수익에 세금을 매겨 사회안전망 재원으로 활용하는 방안을 제안했다. 또한 자연보호 구역처럼 기술 도입을 의도적으로 금지하거나 지연하는 ‘인간 전용 구역(Human Reserved)’을 지정하는...",
-          "src": "이투데이",
+          "title": "\"광주 자율주행, 상용화·산업화로…수익모델 함께 만들어야\"(종합)",
+          "desc": "27일 광주 김대중컨벤션센터에서 열린 'AI 자율주행 모빌리티 실증도시 성공전략 토론회'에서는 광주 자율주행 실증도시를 지역 자동차 산업의 체질을 바꾸는 계기로 활용해야 한다는 의견이 제시됐다. 지역 부품·기술...",
+          "src": "뉴스1",
           "date": "08/27",
-          "url": "https://www.etoday.co.kr/news/view/2618956",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260827152649_2379484_1200_800.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009136752?sid=103",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/27/8075883/high.jpg"
         }
       ]
     },
@@ -101,7 +101,23 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[개척자 GT] ① TV 정체 극복한 고공성장…'LDI' 개척 효과",
+          "title": "광주는 팹, 무안은 소부장…전북 ‘반도체 협력사 유치’ 빈자리 있나",
+          "desc": "단순 협력사 유치 넘어 새만금 강점 살린 차별화 산업군 선점해야 반도체 클러스터가 들어서는 전남광주... 광주 군공항 종전부지에는 삼성전자와 SK하이닉스의 반도체 팹을 배치하고, 무안 국가산단에는 이를 뒷받침할...",
+          "src": "jjan",
+          "date": "08/27",
+          "url": "https://www.jjan.kr/article/20260827500369",
+          "img": "https://cdn.jjan.kr/data2/content/image/2026/08/27/.cache/512/20260827500367.jpg"
+        },
+        {
+          "title": "엔비디아 컨콜서 삼성·SK·LG·현대차 언급…韓 기업 존재감 커져",
+          "desc": "주요 부품을 안정적으로 확보하기 위한 장기 협력의 중요성을 강조했다. 엔비디아는 삼성전자... 삼성전자도 엔비디아와의 협력 사례로 직접 언급됐다. 크레스 CFO는 \"삼성전자가 엔비디아의 컴퓨테이셔널...",
+          "src": "아이뉴스24",
+          "date": "08/27",
+          "url": "https://n.news.naver.com/mnews/article/031/0001053049?sid=105",
+          "img": "https://image.inews24.com/v1/d362131227a5cc.jpg"
+        },
+        {
+          "title": "[개척자 글로벌테크놀로지] ①TV정체 극복한 고공성장…'LDI' 신기술 효과",
           "desc": "삼성종합기술원과 삼성전자 프린팅사업부에서 약 22년간 회로개발과 시스템 하드웨어 설계·양산을 경험한 뒤 2013년 GT를 창업했다. 완제품 개발 현장을 오래 경험한 만큼 부품업체 시각보다 세트업체가...",
           "src": "더스탁",
           "date": "08/27",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "08/27",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=543242",
           "img": "https://cdn.joongangenews.com/news/photo/202608/543242_349299_4157.png"
-        },
-        {
-          "title": "엔비디아 실적 컨퍼런스콜서 등장한 삼전닉스·LG·현대차… 젠슨 황 “...",
-          "desc": "AI 가속기 생산에 필요한 메모리와 주요 부품을 안정적으로 확보하기 위해 공급업체와 장기간 협력해 온... 크레스 CFO는 삼성전자와의 협력 사례를 소개하며 “‘큐리소(cuLitho)’를 활용해 컴퓨테이셔널...",
-          "src": "조선일보",
-          "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/366/0001188676?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/ME2WCYJUMFRTKMBQG43DAMLEGM.jpg?auth=b53215052b7ee2e3907d73eee54977a0015c80b042bb420f055f8f8eb07ad7cb&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "역대급 실적 쐈다… AI 고점론 잠재운 엔비디아 삼성전자, 하이닉스도 ...",
-          "desc": "엔비디아 분기 매출액 2배 상승 식지않은 AI 인프라 투자 열기 삼성전자 SK하이닉스 반도체도 수혜 기대... “광범위한 협력사 네트워크를 통해 향후 수년간의 수요를 감당하는 데 필요한 공급과 핵심 부품을...",
-          "src": "segye",
-          "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/022/0004154125?sid=101",
-          "img": "https://www.segye.com/content/image/2026/08/27/20260827507058.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "트럼프 관세 최대 수혜국은 '베트남'…상반기 대미 무역흑자 1위",
-      "url": "https://n.news.naver.com/mnews/article/008/0005405719?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=793,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082714570584261_1.jpg"
+      "title": "삼성전자·LG전자 '게임스컴 2026'서 오디세이 게이밍 모니터 4종 공개·...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=317137",
+      "img": "http://www.wsobi.com/news/photo/202608/317137_189060_3937.jpg"
     },
     {
-      "title": "[디지털 라이프] “가전 체험하고 인테리어까지”…혼수 매장 변신한 '...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461005?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/25/news-p.v1.20260825.a80972b9c0ff4b5d8181d2a8b63e626e_P1.jpg"
+      "title": "\"중국이 못 따라온다\"…저가 공세속 'B2B 확대'나선 삼성·LG전자",
+      "url": "https://n.news.naver.com/mnews/article/003/0014152985?sid=101",
+      "img": "https://img1.newsis.com/2026/02/22/NISI20260222_0002067399_web.jpg"
     },
     {
-      "title": "\"휴일 낮 세탁기 돌리면 캐시백 드려요\"… 한전, 삼성·LG와 시범 사업",
-      "url": "https://n.news.naver.com/mnews/article/469/0000950489?sid=101",
-      "img": "https://newsimg.hankookilbo.com/2026/08/27/0160a0ff-bceb-4a02-a9a5-790ab7f88657.jpg"
+      "title": "AI 입히고 폼팩터 혁신 승부수… 폰·가전 수익성 새판짜는 삼성",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009588",
+      "img": "https://img.asiatoday.co.kr/file/2026y/08m/28d/2026082801001767700095881.jpg"
     },
     {
-      "title": "삼성전자, 가전 생활 모든 순간을 AI로 연결하다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325303?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/AA.45451662.1.jpg"
+      "title": "전남광주 제조기업 17곳, 삼성과 스마트공장 구축 나선다",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741446",
+      "img": "https://cdn.polinews.co.kr/news/thumbnail/202608/741446_563413_131_v150.jpg"
     },
     {
-      "title": "“취업률 82.8%, 비결은 실사구시” 유길상 한국기술교육대 총장",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325508?sid=102",
-      "img": "https://img.hankyung.com/photo/202608/01.45468192.1.jpg"
+      "title": "AWS, 서울 리전에 클로드 오퍼스5·소넷5 제공… 금융권 AI 활용 탄력",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188815?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/NILW7EQH6JFTDGUC7X3A55PBRQ.jpg?auth=216bb9e12a9140ed086a0b79a6ceee942ea8eab0596753de8831438871e4731a&width=1200&height=630&smart=true"
     },
     {
-      "title": "한국도 청소년 SNS 규제 공론화…메타發 플랫폼 책임 요구 커지나",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461033?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.c802f1d6cd55434b9e93f700c553abc4_P1.png"
+      "title": "이노그리드, 전 직원에 '클로드' 지원… 생산성·ROI 측정",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168969",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202608/2023092168969_451151_3514_v150.jpg"
     }
   ]
 };
