@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.28 (금) 15:08",
+  "updatedAt": "2026.08.29 (토) 03:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, ‘디지털고객경험지수’ 종합가전 4년 연속 1위…구매과정 전...",
-          "desc": "[사진=삼성전자] 이번 조사는 종합가전, 자동차, 은행 등 20개 산업 분야의 68개 브랜드를 대상으로 진행됐고, 삼성전자는 최신성, 신뢰성, 완전성 등 여러 평가 항목에서 높은 평가를 받으며 종합가전 부문 1위를 차지했다....",
-          "src": "swtvnews",
-          "date": "08/28",
-          "url": "https://swtvnews.com/news/newsview.php?ncode=1065591499073554",
-          "img": "https://swtvnews.com/news/data/20260828/p1065591499073554_121_thum.jpg"
+          "title": "더 세지는 美 반도체 관세… “칩 들어간 제품도 부과 검토”",
+          "desc": "다만 한국 가전 업체에는 악영향을 줄 수 있다. ‘칩플레이션’으로 IT 기기 수요가 위축된 상황에서 관세 부담까지 겹칠 경우, 미국 내 삼성전자와 LG전자 제품 판매량은 더욱 줄어들 수 있다. ◇장기적으로 미국 내 투자...",
+          "src": "조선일보",
+          "date": "08/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0003995531?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/5HD3SRYSMZBXBD3WF3K3V766JQ.jpg?auth=080ad9b280072f9ba16532b528765b2492f9c4caa680b7118964b2bff586e384&width=1200&height=630&smart=true"
         },
         {
-          "title": "\"중국이 못 따라온다\"…저가 공세속 'B2B 확대'나선 삼성·LG전자",
-          "desc": "시장조사기관 카운터포인트리서치에 따르면 올해 6월 기준 LCD TV 출하 점유율은 삼성전자 13.7%, TCL 13.8%로 격차가 0.1%포인트(p)에 불과한 것으로 나타났다. 중국은 글로벌 로봇청소기 시장에서도 50% 이상의 점유율을...",
-          "src": "뉴시스",
-          "date": "08/27",
-          "url": "https://n.news.naver.com/mnews/article/003/0014152985?sid=101",
-          "img": "https://img1.newsis.com/2026/02/22/NISI20260222_0002067399_web.jpg"
+          "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
+          "desc": "◇ 삼성전자, 디지털고객경험지수 종합가전 4년 연속 1위 8월 27일 서울 중구 서울신라호텔에서 진행된... 플래그십 로봇청소기 직접 체험하고 전문 상담까지. ⓒ로보락 글로벌 스마트홈 브랜드 로보락이 8월 29일부터...",
+          "src": "ibabynews",
+          "date": "08/28",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154083",
+          "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
         },
         {
           "title": "삼성전자·한전 '갤럭시 S26 FE' 공개·'삼성-LG'와 스마트가전 캐시백 ...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
         },
         {
-          "title": "로봇은 ‘재출발’, HVAC는 ‘걸음마’…갈 길 먼 삼성 DX",
-          "desc": "내부의 한 관계자는 “당시 전략자료의 로드맵대로라면 올해가 팔 달린 로봇이 집마다 들어가 빨래를 세탁기에 넣고 냉장고에서 음료수를 꺼내주는 가정용 로봇의 보급 원년”이라고 했습니다. 삼성전자 측은 과거의...",
-          "src": "newstomato",
+          "title": "경제계, 경남 집중호우 피해 복구에 총력…삼성·SK·현대차·LG·한화 총...",
+          "desc": "수해 복구 특별 서비스팀은 이동형 서비스센터를 설치하고, 침수된 에어컨, 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공하고 있다. (삼성전자서비스 제공) 최근 경남 지역을 강타한 집중호우 피해...",
+          "src": "queen",
           "date": "08/28",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1311766&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/8/28/1311766/attach.jpg?v=202608281435"
+          "url": "http://www.queen.co.kr/news/articleView.html?idxno=462465",
+          "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462465_208817_2719_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "아웃시스템즈, 은행 대출 AI 통제형 솔루션 확대",
-          "desc": "본지가 앞서 전한 AI 에이전트 기반 결제 인프라 논의가 암호화폐 결제와 스테이블코인 활용에 초점을... 비즈니스 기술 임원은 “희망은 거버넌스 전략이 아니다”라고 말했다. AI 도입 속도가 빨라질수록 에이전틱...",
-          "src": "tokenpost",
-          "date": "08/28",
-          "url": "https://www.tokenpost.kr/news/ai/399591",
-          "img": "https://f1.tokenpost.kr/2026/08/7kj77kyags.jpg"
+          "title": "기술과 공존하는 법",
+          "desc": "정보를 AI가 분석해 렌즈에 표시하는 제품도 있습니다. 한국산업인력공단에 따르면, 지난 5~6월 국가기술자격... 스마트 안경을 활용한 방식과 부정행위 적발 경위도 제각각이었다고 합니다. 안경 렌즈에 빛이 들어오는 것을...",
+          "src": "조선일보",
+          "date": "08/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0003995557?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/GQ2DOYJVHA3TMNZUHEZTAZJZGE.jpg?auth=b731534e3ae0d6ec26bde6319c919bd93b81d5a09289c36a593da356212858ed&width=1200&height=630&smart=true"
         },
         {
-          "title": "\"AI와 현장 경험의 융합\" 남부발전, 스마트 건설안전 체계 만든다",
-          "desc": "참석자들은 기존 건설현장의 안전관리 경험에서 주요 시사점을 도출하고, 앞으로 AI 기술을 활용해 위험 요인을 예측하고 사고를 예방하는 기능을 강화할 방안도 논의했다. 참석자들은 현장 경험과 전사적 안전관리...",
-          "src": "nocutnews",
-          "date": "08/28",
-          "url": "https://n.news.naver.com/mnews/article/079/0004183568?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/28/202608281503444681_0.jpg"
+          "title": "분명 이지혜 얼굴로 \"너무 맛있다\" 하는데…속으면 안 됩니다",
+          "desc": "지난해 12월 'AI 등을 활용한 시장질서 교란 허위·과장광고 대응방안'을 발표하고 악의적인 허위·조작 정보 유통에 대한 징벌적 손해배상 도입과 허위·과장 광고 과징금 강화 등을 추진하기로 했다. 지난 6월에는 AI 기술...",
+          "src": "조선일보",
+          "date": "08/29",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061064?sid=102",
+          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54780_84815_2910_v150.jpg"
         },
         {
-          "title": "K-제약바이오, 빅딜의 진화... 거래 전략 '양방향' 대형화",
-          "desc": "/사진=AI 이미지 제작 28일 업계에 따르면 올해 국내 제약바이오 기업의 기술수출 규모는 계약 규모가... 오파칼림 도입 관련 간담회에서 (사진 왼쪽부터) 최우진 US BD 담당, 이동훈 사장, 유창호 전략부문장이 질의응답을...",
-          "src": "mediapen",
-          "date": "08/28",
-          "url": "https://www.mediapen.com/news/view/1119580",
-          "img": "https://image.mediapen.com/news/202608/news_1119580_1787896369_m.png"
-        },
-        {
-          "title": "AI 도입부터 실증까지…한국공학대, 반월·시화 제조업 AX 지원체계 구축",
-          "desc": "자율주행 물류로봇(AMR)과 협동로봇, 실시간 센서 모니터링 시스템 등을 활용해 물류 이동과 정밀 조립... 황수성 한국공학대 총장은 “AX실증산단 오픈랩과 TU-제조AX혁신지원단을 중심으로 기업의 AI 도입부터 기술...",
+          "title": "같은 AI 지원에도…“매출 15% 급등”“우린 10% 감소” 왜",
+          "desc": "둘째, 기술을 아는 것보다 업무를 아는 것이 중요해진다. 케냐 상인들을 가른 것은 어떤 최첨단 AI 모델을... 인공지능의 기업 활용에 대해 여러 회사에 자문을 하고 있다. 저서로는 『AI로 경영하라』 『오픈...",
           "src": "중앙일보",
-          "date": "08/28",
-          "url": "https://n.news.naver.com/mnews/article/025/0003547498?sid=102",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/28/cd9e2866-7ae6-4eba-8141-962f4ed881da.jpg"
+          "date": "08/29",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056463?sid=105",
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/29/8575b123-d95e-459e-b372-823e303c610d.jpg"
+        },
+        {
+          "title": "오늘의 운세 띠별 운세 8월29일",
+          "desc": "83년생 : 기술을 다루는 일이나 손으로 만드는 일에서 좋은 자리를 찾을 수 있습니다. 남쪽 방향의 정보와 제안을 살피고, 본인의 경험을 잘 활용하는 것이 좋습니다. 95년생 : 큰 실수를 할 수 있으니 중요한 일은 혼자...",
+          "src": "BNT뉴스",
+          "date": "08/29",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202608280276",
+          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/08/28/bnt202608280597.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[안기현 한국반도체산업협회 전무] K-반도체의 위상 유지, 3가지 본질 경...",
-          "desc": "한국반도체산업협회는 삼성전자, SK하이닉스 같은 대형 제조사부터 소재·부품·장비 중소기업까지 320여 개... 대기업의 반도체 공장 하나가 들어서면 협력사, 소부장 기업, 인프라 서비스업까지 수만 개의 일자리가...",
-          "src": "chiefexe",
+          "title": "한국서 웨이퍼·미국서 패키징…SK하이닉스, HBM 공급망 넓힌다",
+          "desc": "삼성전자 역시 미국 투자를 텍사스 테일러의 파운드리 중심으로 진행하고 있으며, 마이크론은 미국에서... 현재 100곳이 넘는 소재·부품·장비 협력사가 웨스트라피엣 진출을 논의하고 있으며 SK하이닉스는 미국...",
+          "src": "biztribune",
           "date": "08/28",
-          "url": "https://www.chiefexe.com/news/ArticleView.asp?listId=NDk2OHx8bGltaXRfZmFsc2Ug",
-          "img": "http://www.chiefexe.com/Upload/chiefexe/20260629091516910000.jpg"
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358117",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/358117_263443_935_v150.jpg"
         },
         {
-          "title": "엔비디아 HBM 가격 상승 감수하고 재고 확보 공격적, 삼성전자와 SK하이...",
-          "desc": "삼성전자도 고대역폭 메모리 등 주요 부품을 공급하는 핵심 협력사인 만큼 엔비디아가 반도체 가격 인상에도 적극적으로 물량을 확보한다면 수혜를 볼 공산이 크다. SK하이닉스 고대역폭 메모리(HBM) 기술 홍보용 이미지....",
-          "src": "비즈니스포스트",
+          "title": "SK하이닉스, 미국 HBM 후공정 거점 기공식… \"2029년 웨이퍼 韓서·도장...",
+          "desc": "엔비디아 등 미국 고객사와 퍼듀대를 비롯한 현지 대학, 미국 소재·부품사가 함께 차세대 패키지 기술을... 삼성전자는 연말 테일러 2기 팹 착공을 앞두고 협력사 설비 도입을 위한 인증을 선제적으로 진행하고...",
+          "src": "econovill",
           "date": "08/28",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445843",
-          "img": ""
+          "url": "https://www.econovill.com/news/articleView.html?idxno=749256",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/749256_724356_2437_v150.jpg"
         },
         {
-          "title": "SK하이닉스 \"메이드 인 USA HBM\"…2029년 7세대 HBM4E 양산",
-          "desc": "최근 미국 정부는 삼성전자와 SK하이닉스 등 한국 메모리 업체의 현지 생산능력 확대 필요성을 공개적으로... SK하이닉스는 소재·부품·장비 등 약 100개 협력사와 현지 공급망 구축을 논의하고 있다. 공장 건설과 운영...",
-          "src": "서울경제뉴스",
+          "title": "[내 눈에 AI] ② \"가볍고 오래가고 예뻐야\" 작은 안경에 최첨단 기술 집...",
+          "desc": "AI 안경이 새로운 전자부품 시장으로 자리 잡으려면 국내 기업들도 기존 스마트폰 중심의 공급망과는 다른... 관건은 완제품 대기업의 발주 물량이 실제 국내 부품사로 이어지느냐다. 기존 스마트폰 협력사 기반의...",
+          "src": "bizhankook",
           "date": "08/28",
-          "url": "http://www.seouleconews.com/news/articleView.html?idxno=93371",
-          "img": "http://www.seouleconews.com/news/thumbnail/202608/93371_100082_1019_v150.jpg"
+          "url": "https://bizhankook.com/articles/ai-glasses-market-supply-chain.html",
+          "img": "https://s.bizhankook.com/attachments_og/2026/08/135532_og_69702e0f.jpg"
         },
         {
-          "title": "삼성전자·SK하이닉스, 디지털고객경험지수 종합가전 4년 연속 1위·美 ...",
-          "desc": "삼성전자가 한국표준협회 '디지털고객경험지수(DCXI)' 평가에서 종합가전 부문 4년 연속 1위에 선정된 한편... 현재 100여개가 넘는 소재, 부품, 장비 협력사가 웨스트라피엣 진출을 논의 중이다. 이는 인디애나 팹의...",
-          "src": "wsobi",
+          "title": "美 인디애나로 간 SK하이닉스…'범용' 벗는 메모리 산업 [반도체레이다...",
+          "desc": "현재 100여개 소재·부품·장비 협력사가 웨스트라피엣 진출을 논의하고 있으며, SK하이닉스는 팹 건설과... SK하이닉스와 삼성전자 모두 고객 요구에 맞춘 커스텀 HBM을 차세대 성장축으로 제시하는 배경이다. 수요를...",
+          "src": "디지털데일리",
           "date": "08/28",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=317171",
-          "img": "http://www.wsobi.com/news/photo/202608/317171_189071_4953.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002239395?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/28/2026082814264094740_l.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, ‘디지털고객경험지수’ 종합가전 4년 연속 1위…구매과정 전...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065591499073554",
-      "img": "https://swtvnews.com/news/data/20260828/p1065591499073554_121_thum.jpg"
+      "title": "더 세지는 美 반도체 관세… “칩 들어간 제품도 부과 검토”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995531?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/5HD3SRYSMZBXBD3WF3K3V766JQ.jpg?auth=080ad9b280072f9ba16532b528765b2492f9c4caa680b7118964b2bff586e384&width=1200&height=630&smart=true"
     },
     {
-      "title": "\"중국이 못 따라온다\"…저가 공세속 'B2B 확대'나선 삼성·LG전자",
-      "url": "https://n.news.naver.com/mnews/article/003/0014152985?sid=101",
-      "img": "https://img1.newsis.com/2026/02/22/NISI20260222_0002067399_web.jpg"
+      "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154083",
+      "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
     },
     {
       "title": "삼성전자·한전 '갤럭시 S26 FE' 공개·'삼성-LG'와 스마트가전 캐시백 ...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
     },
     {
-      "title": "로봇은 ‘재출발’, HVAC는 ‘걸음마’…갈 길 먼 삼성 DX",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1311766&inflow=N",
-      "img": "https://image.newstomato.com/newsimg/2026/8/28/1311766/attach.jpg?v=202608281435"
+      "title": "경제계, 경남 집중호우 피해 복구에 총력…삼성·SK·현대차·LG·한화 총...",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=462465",
+      "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462465_208817_2719_v150.jpg"
     },
     {
-      "title": "아웃시스템즈, 은행 대출 AI 통제형 솔루션 확대",
-      "url": "https://www.tokenpost.kr/news/ai/399591",
-      "img": "https://f1.tokenpost.kr/2026/08/7kj77kyags.jpg"
+      "title": "기술과 공존하는 법",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995557?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/GQ2DOYJVHA3TMNZUHEZTAZJZGE.jpg?auth=b731534e3ae0d6ec26bde6319c919bd93b81d5a09289c36a593da356212858ed&width=1200&height=630&smart=true"
     },
     {
-      "title": "\"AI와 현장 경험의 융합\" 남부발전, 스마트 건설안전 체계 만든다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183568?sid=102",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/28/202608281503444681_0.jpg"
+      "title": "분명 이지혜 얼굴로 \"너무 맛있다\" 하는데…속으면 안 됩니다",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061064?sid=102",
+      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54780_84815_2910_v150.jpg"
     }
   ]
 };
