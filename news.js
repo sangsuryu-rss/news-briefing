@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.29 (토) 03:45",
+  "updatedAt": "2026.08.29 (토) 11:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "더 세지는 美 반도체 관세… “칩 들어간 제품도 부과 검토”",
-          "desc": "다만 한국 가전 업체에는 악영향을 줄 수 있다. ‘칩플레이션’으로 IT 기기 수요가 위축된 상황에서 관세 부담까지 겹칠 경우, 미국 내 삼성전자와 LG전자 제품 판매량은 더욱 줄어들 수 있다. ◇장기적으로 미국 내 투자...",
-          "src": "조선일보",
+          "title": "삼성·SK·LG·롯데, 수해지역 손길 보탰다…70억 성금 전달",
+          "desc": "삼성전자서비스가 수해 지역에서 가전제품 무상 점검 서비스를 제공하고 있다. [사진=삼성] 부산·경남·전남광주 등 남부 지역을 중심으로 집중호우 피해가 발생하자 국내 주요 기업들이 복구를 위해 손길을 보태고...",
+          "src": "ntoday",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0003995531?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/5HD3SRYSMZBXBD3WF3K3V766JQ.jpg?auth=080ad9b280072f9ba16532b528765b2492f9c4caa680b7118964b2bff586e384&width=1200&height=630&smart=true"
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129045",
+          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202608/129045_115305_432_v150.jpg"
         },
         {
           "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
         },
         {
-          "title": "경제계, 경남 집중호우 피해 복구에 총력…삼성·SK·현대차·LG·한화 총...",
-          "desc": "수해 복구 특별 서비스팀은 이동형 서비스센터를 설치하고, 침수된 에어컨, 냉장고, 세탁기 등 가전제품 세척과 무상 점검 서비스를 제공하고 있다. (삼성전자서비스 제공) 최근 경남 지역을 강타한 집중호우 피해...",
-          "src": "queen",
-          "date": "08/28",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=462465",
-          "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462465_208817_2719_v150.jpg"
+          "title": "“빨래가 왜 뻣뻣하지?”…세탁세제 표시량과 헹굼부터 확인",
+          "desc": "희석 여부와 투입 방법은 유연제 표시사항과 세탁기 사용설명서를 따라야 한다. 수건만 유독 거칠다면 세제 잔류 외의 원인도 살펴야 한다. 삼성전자서비스는 수건 표면의 고리 모양 섬유가 다른 세탁물과 마찰해 끊어지면...",
+          "src": "vegannews",
+          "date": "08/29",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=385139",
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879700053233.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "기술과 공존하는 법",
-          "desc": "정보를 AI가 분석해 렌즈에 표시하는 제품도 있습니다. 한국산업인력공단에 따르면, 지난 5~6월 국가기술자격... 스마트 안경을 활용한 방식과 부정행위 적발 경위도 제각각이었다고 합니다. 안경 렌즈에 빛이 들어오는 것을...",
-          "src": "조선일보",
+          "title": "경남도, ‘메가존 피지컬AI연구센터’ 개소식 개최…경남대에 1000억 규...",
+          "desc": "공장에서 활용할 AI 기술을 개발하고 검증한다. 주요 연구 분야는 AI 자료 처리·분석, 가상공장과 생산공정... 한편 도는 이러한 투자가 지역 제조기업의 AI 도입과 경쟁력 향상, 청년 취업과 지역 정착으로 이어질 수...",
+          "src": "브릿지경제",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0003995557?sid=102",
-          "img": "https://www.chosun.com/resizer/v2/GQ2DOYJVHA3TMNZUHEZTAZJZGE.jpg?auth=b731534e3ae0d6ec26bde6319c919bd93b81d5a09289c36a593da356212858ed&width=1200&height=630&smart=true"
+          "url": "https://www.viva100.com/article/20260829500086",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500084.jpg?v=20260829114943"
         },
         {
-          "title": "분명 이지혜 얼굴로 \"너무 맛있다\" 하는데…속으면 안 됩니다",
-          "desc": "지난해 12월 'AI 등을 활용한 시장질서 교란 허위·과장광고 대응방안'을 발표하고 악의적인 허위·조작 정보 유통에 대한 징벌적 손해배상 도입과 허위·과장 광고 과징금 강화 등을 추진하기로 했다. 지난 6월에는 AI 기술...",
-          "src": "조선일보",
+          "title": "K-캐릭터의 대표 주자 아기상어 동생 내년에 나온다",
+          "desc": "채널을 활용해 콘텐츠 접점을 확보하고, 이를 통해 압도적인 노출량을 끌어낼 수 있다는 게... IP·콘텐츠와 AI 기술 도입에 힘을 쏟아 1∼2년 이내에 구체적인 성과를 끌어내겠다는 목표를 제시했다. 김 대표는 \"앞으로...",
+          "src": "jnilbo",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061064?sid=102",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54780_84815_2910_v150.jpg"
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060560",
+          "img": "https://cdn.jnilbo.com/news/photo/202608/90000060560_578311_2542.jpg"
         },
         {
-          "title": "같은 AI 지원에도…“매출 15% 급등”“우린 10% 감소” 왜",
-          "desc": "둘째, 기술을 아는 것보다 업무를 아는 것이 중요해진다. 케냐 상인들을 가른 것은 어떤 최첨단 AI 모델을... 인공지능의 기업 활용에 대해 여러 회사에 자문을 하고 있다. 저서로는 『AI로 경영하라』 『오픈...",
-          "src": "중앙일보",
+          "title": "수능 서·논술형 채점하는 AI, 괜찮을까…\"점수 산출 근거 불명확\"",
+          "desc": "평가가 도입될 거라는 전망이 나오면서, 대규모 답안을 처리할 인공지능(AI) 자동 채점 기술에도 관심이... 이런 한계 때문에 학생의 진학과 선발을 좌우하는 수능과 같은 '고부담 평가'에 AI를 활용할 때는 더욱 엄격한...",
+          "src": "매일경제",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056463?sid=105",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/29/8575b123-d95e-459e-b372-823e303c610d.jpg"
+          "url": "https://n.news.naver.com/mnews/article/057/0001966195?sid=102",
+          "img": "http://img.mbn.co.kr/filewww/news/2026/08/29/17879686886a923cb0cd22d.jpg"
         },
         {
-          "title": "오늘의 운세 띠별 운세 8월29일",
-          "desc": "83년생 : 기술을 다루는 일이나 손으로 만드는 일에서 좋은 자리를 찾을 수 있습니다. 남쪽 방향의 정보와 제안을 살피고, 본인의 경험을 잘 활용하는 것이 좋습니다. 95년생 : 큰 실수를 할 수 있으니 중요한 일은 혼자...",
-          "src": "BNT뉴스",
+          "title": "\"싱가포르·태국 클라우드 렌탈 막는다\"…美, 中 원격 칩 접근 빗장 잠근...",
+          "desc": "임대해 활용하는 행위는 통제 범위에 포함되지 못했다. 실제로 중국 문샷AI가 태국 내 엔비디아 서버를... 규제 도입 시 해외 데이터센터 고객 검증에 따른 행정적 준수 부담이 가중될 수 있다는 우려를 제기하고 있다....",
+          "src": "디지털데일리",
           "date": "08/29",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202608280276",
-          "img": "https://www.bntnews.co.kr/data/bnt/image/2026/08/28/bnt202608280597.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002239427?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/08/20/2026082013264041305_l.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "더 세지는 美 반도체 관세… “칩 들어간 제품도 부과 검토”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995531?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/5HD3SRYSMZBXBD3WF3K3V766JQ.jpg?auth=080ad9b280072f9ba16532b528765b2492f9c4caa680b7118964b2bff586e384&width=1200&height=630&smart=true"
+      "title": "삼성·SK·LG·롯데, 수해지역 손길 보탰다…70억 성금 전달",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129045",
+      "img": "https://cdn.ntoday.co.kr/news/thumbnail/202608/129045_115305_432_v150.jpg"
     },
     {
       "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
     },
     {
-      "title": "경제계, 경남 집중호우 피해 복구에 총력…삼성·SK·현대차·LG·한화 총...",
-      "url": "http://www.queen.co.kr/news/articleView.html?idxno=462465",
-      "img": "http://cdn.queen.co.kr/news/thumbnail/202608/462465_208817_2719_v150.jpg"
+      "title": "“빨래가 왜 뻣뻣하지?”…세탁세제 표시량과 헹굼부터 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=385139",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879700053233.jpg"
     },
     {
-      "title": "기술과 공존하는 법",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995557?sid=102",
-      "img": "https://www.chosun.com/resizer/v2/GQ2DOYJVHA3TMNZUHEZTAZJZGE.jpg?auth=b731534e3ae0d6ec26bde6319c919bd93b81d5a09289c36a593da356212858ed&width=1200&height=630&smart=true"
+      "title": "경남도, ‘메가존 피지컬AI연구센터’ 개소식 개최…경남대에 1000억 규...",
+      "url": "https://www.viva100.com/article/20260829500086",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500084.jpg?v=20260829114943"
     },
     {
-      "title": "분명 이지혜 얼굴로 \"너무 맛있다\" 하는데…속으면 안 됩니다",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061064?sid=102",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54780_84815_2910_v150.jpg"
+      "title": "K-캐릭터의 대표 주자 아기상어 동생 내년에 나온다",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060560",
+      "img": "https://cdn.jnilbo.com/news/photo/202608/90000060560_578311_2542.jpg"
     }
   ]
 };
