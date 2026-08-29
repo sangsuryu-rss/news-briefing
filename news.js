@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.29 (토) 11:49",
+  "updatedAt": "2026.08.29 (토) 20:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·SK·LG·롯데, 수해지역 손길 보탰다…70억 성금 전달",
-          "desc": "삼성전자서비스가 수해 지역에서 가전제품 무상 점검 서비스를 제공하고 있다. [사진=삼성] 부산·경남·전남광주 등 남부 지역을 중심으로 집중호우 피해가 발생하자 국내 주요 기업들이 복구를 위해 손길을 보태고...",
-          "src": "ntoday",
+          "title": "AI 가전은 구매 전부터 AS까지 본다… 삼성전자, 디지털고객경험지수 4...",
+          "desc": "특히 삼성전자는 최신성, 신뢰성, 완전성 등 여러 평가 항목에서 높은 평가를 받으며 종합가전 부문 1위를 지켰다. 제품 탐색 단계에서는 삼성닷컴 '비교하기' 기능을 통해 주요 특징을 한눈에 확인하도록 하고...",
+          "src": "kr",
           "date": "08/29",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129045",
-          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202608/129045_115305_432_v150.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1813788",
+          "img": "https://cdn.kr.aving.net/news/photo/202608/1813788_778208_3114.jpg"
         },
         {
           "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
         },
         {
-          "title": "삼성전자·한전 '갤럭시 S26 FE' 공개·'삼성-LG'와 스마트가전 캐시백 ...",
-          "desc": "주말과 공휴일 오전 11시부터 오후 2시 사이 삼성전자 SmartThings 또는 LG전자 ThinQ 앱에 등록한 세탁기, 건조기, 식기세척기, 의류관리기를 사용한 고객에게 1kWh당 100원의 캐시백을 지급한다. 한전과 삼성전자...",
-          "src": "wsobi",
-          "date": "08/28",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=317146",
-          "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
+          "title": "LG전자, 한국전력공사와 '스마트가전 캐시백 시범사업' 추진 업무협약",
+          "desc": "대상 품목은 세탁기와 건조기, 식기세척기, 의류관리기다. 삼성전자 스마트싱스 또는 LG전자 씽큐 애플리케이션에 등록돼 전력 사용량을 확인할 수 있는 제품이어야 한다. LG전자 제품에는 세탁기와 건조기가 결합된...",
+          "src": "econonews",
+          "date": "08/29",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443524",
+          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
         },
         {
-          "title": "“빨래가 왜 뻣뻣하지?”…세탁세제 표시량과 헹굼부터 확인",
-          "desc": "희석 여부와 투입 방법은 유연제 표시사항과 세탁기 사용설명서를 따라야 한다. 수건만 유독 거칠다면 세제 잔류 외의 원인도 살펴야 한다. 삼성전자서비스는 수건 표면의 고리 모양 섬유가 다른 세탁물과 마찰해 끊어지면...",
+          "title": "“세제 많이 넣으면 더 깨끗?”…헹굼이 길어지는 이유",
+          "desc": "LG전자 고객지원은 드럼세탁기에 세제를 과다 투입하거나 거품이 많이 생기는 세제를 사용하면 일부 제품의... 삼성전자서비스도 정량보다 많은 세제는 수온이 낮을 때 완전히 녹지 않아 의류와 호스, 세탁조에 남을 수...",
           "src": "vegannews",
           "date": "08/29",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=385139",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879700053233.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=385226",
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879859337003.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경남도, ‘메가존 피지컬AI연구센터’ 개소식 개최…경남대에 1000억 규...",
-          "desc": "공장에서 활용할 AI 기술을 개발하고 검증한다. 주요 연구 분야는 AI 자료 처리·분석, 가상공장과 생산공정... 한편 도는 이러한 투자가 지역 제조기업의 AI 도입과 경쟁력 향상, 청년 취업과 지역 정착으로 이어질 수...",
-          "src": "브릿지경제",
+          "title": "미래에셋증권, 8월 마지막주 한화 등 9종목 매수 추천",
+          "desc": "저마진 도입상품 비중 증가로 수익성 개선은 제한적. 노바티스에 기술수출한 CKD-510의 심방세동 임상... 기존 미국 영업망을 활용할 수 있어 추가 비용을 제한하면서 판매 시너지 기대. 연말 오파칼림 임상...",
+          "src": "bigtanews",
           "date": "08/29",
-          "url": "https://www.viva100.com/article/20260829500086",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500084.jpg?v=20260829114943"
+          "url": "https://www.bigtanews.co.kr/article/view/big202608290006",
+          "img": "https://www.bigtanews.co.kr/data/big/image/2026/04/11/big20260411000003.jpg"
         },
         {
-          "title": "K-캐릭터의 대표 주자 아기상어 동생 내년에 나온다",
-          "desc": "채널을 활용해 콘텐츠 접점을 확보하고, 이를 통해 압도적인 노출량을 끌어낼 수 있다는 게... IP·콘텐츠와 AI 기술 도입에 힘을 쏟아 1∼2년 이내에 구체적인 성과를 끌어내겠다는 목표를 제시했다. 김 대표는 \"앞으로...",
-          "src": "jnilbo",
+          "title": "SBS '김부장' 액션씬까지 만든 AI… \"그래도 감정·스토리텔링은 인간 몫...",
+          "desc": "100% AI 제작 드라마를 만들고 있다. 숏폼 드라마뿐만이 아니다. EBS는 AI를 혁신적으로 도입해 방송 제작에... AI 기술 발전으로 과거보다 할 수 있는 일이 더 많아졌다. AI를 활용해 어떻게 더 훌륭한 작품을 만들어낼 수...",
+          "src": "mediatoday",
           "date": "08/29",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060560",
-          "img": "https://cdn.jnilbo.com/news/photo/202608/90000060560_578311_2542.jpg"
+          "url": "https://n.news.naver.com/mnews/article/006/0000137454?sid=103",
+          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336709_482663_3557_v150.jpg"
         },
         {
-          "title": "수능 서·논술형 채점하는 AI, 괜찮을까…\"점수 산출 근거 불명확\"",
-          "desc": "평가가 도입될 거라는 전망이 나오면서, 대규모 답안을 처리할 인공지능(AI) 자동 채점 기술에도 관심이... 이런 한계 때문에 학생의 진학과 선발을 좌우하는 수능과 같은 '고부담 평가'에 AI를 활용할 때는 더욱 엄격한...",
-          "src": "매일경제",
+          "title": "육군, 드론·로봇 전술시범단 창설…‘50만 드론전사 양성’ 뒷받침",
+          "desc": "‘드론·로봇 전술시범단’ 창설은 최근 전장환경 변화와 병력자원 감소에 대응해 AI(인공지능)·드론·로봇... 새롭게 도입되는 장비와 민간 첨단기술의 군사적 활용 가능성을 검증할 계획이다. 이 같은 활동은 전 장병의...",
+          "src": "munhwa",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/057/0001966195?sid=102",
-          "img": "http://img.mbn.co.kr/filewww/news/2026/08/29/17879686886a923cb0cd22d.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002814794?sid=100",
+          "img": "https://wimg.munhwa.com/news/cms/2026/08/29/news-p.v1.20260829.5e39af7fc41643e2adb6a321cbd19482_R.jpg"
         },
         {
-          "title": "\"싱가포르·태국 클라우드 렌탈 막는다\"…美, 中 원격 칩 접근 빗장 잠근...",
-          "desc": "임대해 활용하는 행위는 통제 범위에 포함되지 못했다. 실제로 중국 문샷AI가 태국 내 엔비디아 서버를... 규제 도입 시 해외 데이터센터 고객 검증에 따른 행정적 준수 부담이 가중될 수 있다는 우려를 제기하고 있다....",
-          "src": "디지털데일리",
+          "title": "코로나 대출 장기연체 자영업자 소상공인 채무조정 확대…고금리 대출...",
+          "desc": "수출입은행은 다음 달부터 중소기업을 대상으로 신속특례대출 500억원과 기술특례대출 1000억원을 공급한다.... SCB도 도입한다. 매출과 사업 이력뿐 아니라 각종 비금융정보를 활용해 업종별 성장 가능성과 잠재력을...",
+          "src": "cbci",
           "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/138/0002239427?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/20/2026082013264041305_l.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602174",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202608/602174_412899_3525_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·SK·LG·롯데, 수해지역 손길 보탰다…70억 성금 전달",
-      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129045",
-      "img": "https://cdn.ntoday.co.kr/news/thumbnail/202608/129045_115305_432_v150.jpg"
+      "title": "AI 가전은 구매 전부터 AS까지 본다… 삼성전자, 디지털고객경험지수 4...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1813788",
+      "img": "https://cdn.kr.aving.net/news/photo/202608/1813788_778208_3114.jpg"
     },
     {
       "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
     },
     {
-      "title": "삼성전자·한전 '갤럭시 S26 FE' 공개·'삼성-LG'와 스마트가전 캐시백 ...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=317146",
-      "img": "http://www.wsobi.com/news/photo/202608/317146_189063_76.jpg"
+      "title": "LG전자, 한국전력공사와 '스마트가전 캐시백 시범사업' 추진 업무협약",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443524",
+      "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
     },
     {
-      "title": "“빨래가 왜 뻣뻣하지?”…세탁세제 표시량과 헹굼부터 확인",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=385139",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879700053233.jpg"
+      "title": "“세제 많이 넣으면 더 깨끗?”…헹굼이 길어지는 이유",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=385226",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879859337003.jpg"
     },
     {
-      "title": "경남도, ‘메가존 피지컬AI연구센터’ 개소식 개최…경남대에 1000억 규...",
-      "url": "https://www.viva100.com/article/20260829500086",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500084.jpg?v=20260829114943"
+      "title": "미래에셋증권, 8월 마지막주 한화 등 9종목 매수 추천",
+      "url": "https://www.bigtanews.co.kr/article/view/big202608290006",
+      "img": "https://www.bigtanews.co.kr/data/big/image/2026/04/11/big20260411000003.jpg"
     },
     {
-      "title": "K-캐릭터의 대표 주자 아기상어 동생 내년에 나온다",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060560",
-      "img": "https://cdn.jnilbo.com/news/photo/202608/90000060560_578311_2542.jpg"
+      "title": "SBS '김부장' 액션씬까지 만든 AI… \"그래도 감정·스토리텔링은 인간 몫...",
+      "url": "https://n.news.naver.com/mnews/article/006/0000137454?sid=103",
+      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336709_482663_3557_v150.jpg"
     }
   ]
 };
