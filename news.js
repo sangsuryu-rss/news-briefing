@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.30 (일) 01:45",
+  "updatedAt": "2026.08.30 (일) 05:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,20 +61,20 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "AI발 데이터센터, 냉각수 3배 급증 경고에 글로벌 수자원 규제 확산",
+          "desc": "리스타드에너지는 지난 28일(현지시각) 발표한 분석 보고서에서 적극적인 절감 기술을 도입할 경우 연간... 다만 랙 단위 액체 냉각 기술을 적용하면 시설 전체의 냉각 부담을 덜어 건식 냉각 활용 범위를 넓힐 수...",
+          "src": "g-enews",
+          "date": "08/30",
+          "url": "https://www.g-enews.com/view.php?ud=202608291729063935fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082917501606366fbbec65dfb211211153121.jpg"
+        },
+        {
           "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
           "desc": "분석 기술 등이 소개됐다. 조기진단 영역에서는 티알의 인공지능(AI) 기반 호흡기 진단 솔루션 '더... 현장 활용 방안 등이 다뤄졌다. 대웅제약은 이번 행사에서 국내외 병원 관계자들과 논의한 솔루션 도입 및...",
           "src": "thefirstmedia",
           "date": "08/30",
           "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
           "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
-        },
-        {
-          "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
-          "desc": "이번 행사는 패션 산업에서 AI 전환이 본격화되는 가운데, 동일한 AI 기술을 도입하고도 기업별 성과 격차가... 기업들의 AI 전환 사례와 전략 방향을 소개하며, 추천 수요예측 개인화 마케팅 등 다양한 영역에서의 활용...",
-          "src": "technoa",
-          "date": "08/30",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
           "title": "카카오페이, 전국 시니어 천명에 AI 금융 가르친다",
@@ -85,12 +85,12 @@ window.NEWS_DATA = {
           "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
-          "title": "[전라 Insight] 메모리 1등 국가를 만든 주연과 조연들",
-          "desc": "당시 반도체 부품을 수입해 저임 노동력을 활용해 조립-수출하는 데 머물렀던 우리나라도 웨이퍼... 선진기술을 도입하고 추격하는 단계를 넘어 신기술(4M DRAM)을 독자 개발하는 단계로 넘어갔고, 16M·64M·256M...",
-          "src": "jeollailbo",
+          "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
+          "desc": "이번 행사는 패션 산업에서 AI 전환이 본격화되는 가운데, 동일한 AI 기술을 도입하고도 기업별 성과 격차가... 기업들의 AI 전환 사례와 전략 방향을 소개하며, 추천 수요예측 개인화 마케팅 등 다양한 영역에서의 활용...",
+          "src": "technoa",
           "date": "08/30",
-          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=809401",
-          "img": "https://cdn.jeollailbo.com/news/thumbnail/202608/809401_196980_160_v150.jpg"
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
     },
     {
+      "title": "AI발 데이터센터, 냉각수 3배 급증 경고에 글로벌 수자원 규제 확산",
+      "url": "https://www.g-enews.com/view.php?ud=202608291729063935fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082917501606366fbbec65dfb211211153121.jpg"
+    },
+    {
       "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
       "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
       "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
-    },
-    {
-      "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
-      "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
-      "img": "http://www.technoa.co.kr/image2006/logo.jpg"
     }
   ]
 };
