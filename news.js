@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.29 (토) 20:07",
+  "updatedAt": "2026.08.30 (일) 01:45",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 가전은 구매 전부터 AS까지 본다… 삼성전자, 디지털고객경험지수 4...",
-          "desc": "특히 삼성전자는 최신성, 신뢰성, 완전성 등 여러 평가 항목에서 높은 평가를 받으며 종합가전 부문 1위를 지켰다. 제품 탐색 단계에서는 삼성닷컴 '비교하기' 기능을 통해 주요 특징을 한눈에 확인하도록 하고...",
-          "src": "kr",
-          "date": "08/29",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1813788",
-          "img": "https://cdn.kr.aving.net/news/photo/202608/1813788_778208_3114.jpg"
+          "title": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제...",
+          "desc": "삼성전자, LG전자, 소니 등 세계 주요 제조사의 스마트 TV 내부에는 화질 개선 알고리즘과 운영체제를... 동시에 미디어텍은 스마트폰, 스마트홈 가전, 오토모티브로 대표되는 엣지 단말 영역에서 실시간 분산 추론...",
+          "src": "g-enews",
+          "date": "08/30",
+          "url": "https://www.g-enews.com/view.php?ud=202608271020104684906806b77b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082710263607861906806b77b1752093689.jpg"
         },
         {
           "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
         },
         {
-          "title": "“세제 많이 넣으면 더 깨끗?”…헹굼이 길어지는 이유",
-          "desc": "LG전자 고객지원은 드럼세탁기에 세제를 과다 투입하거나 거품이 많이 생기는 세제를 사용하면 일부 제품의... 삼성전자서비스도 정량보다 많은 세제는 수온이 낮을 때 완전히 녹지 않아 의류와 호스, 세탁조에 남을 수...",
-          "src": "vegannews",
+          "title": "한국 기업 140곳 베를린 간다… IFA 2026 개막 임박",
+          "desc": "업계에서는 삼성전자가 에너지 절감 수요가 높은 유럽 시장 특성을 고려해 고효율 세탁기와 히트펌프 등 현지 특화 가전을 비롯해 마이크로 RGB TV 등을 선보일 것으로 예상하고 있다. LG전자는 메세 베를린 18홀을...",
+          "src": "econovill",
           "date": "08/29",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=385226",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879859337003.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=749277",
+          "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "미래에셋증권, 8월 마지막주 한화 등 9종목 매수 추천",
-          "desc": "저마진 도입상품 비중 증가로 수익성 개선은 제한적. 노바티스에 기술수출한 CKD-510의 심방세동 임상... 기존 미국 영업망을 활용할 수 있어 추가 비용을 제한하면서 판매 시너지 기대. 연말 오파칼림 임상...",
-          "src": "bigtanews",
-          "date": "08/29",
-          "url": "https://www.bigtanews.co.kr/article/view/big202608290006",
-          "img": "https://www.bigtanews.co.kr/data/big/image/2026/04/11/big20260411000003.jpg"
+          "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
+          "desc": "분석 기술 등이 소개됐다. 조기진단 영역에서는 티알의 인공지능(AI) 기반 호흡기 진단 솔루션 '더... 현장 활용 방안 등이 다뤄졌다. 대웅제약은 이번 행사에서 국내외 병원 관계자들과 논의한 솔루션 도입 및...",
+          "src": "thefirstmedia",
+          "date": "08/30",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
         },
         {
-          "title": "SBS '김부장' 액션씬까지 만든 AI… \"그래도 감정·스토리텔링은 인간 몫...",
-          "desc": "100% AI 제작 드라마를 만들고 있다. 숏폼 드라마뿐만이 아니다. EBS는 AI를 혁신적으로 도입해 방송 제작에... AI 기술 발전으로 과거보다 할 수 있는 일이 더 많아졌다. AI를 활용해 어떻게 더 훌륭한 작품을 만들어낼 수...",
-          "src": "mediatoday",
-          "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/006/0000137454?sid=103",
-          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336709_482663_3557_v150.jpg"
+          "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
+          "desc": "이번 행사는 패션 산업에서 AI 전환이 본격화되는 가운데, 동일한 AI 기술을 도입하고도 기업별 성과 격차가... 기업들의 AI 전환 사례와 전략 방향을 소개하며, 추천 수요예측 개인화 마케팅 등 다양한 영역에서의 활용...",
+          "src": "technoa",
+          "date": "08/30",
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
-          "title": "육군, 드론·로봇 전술시범단 창설…‘50만 드론전사 양성’ 뒷받침",
-          "desc": "‘드론·로봇 전술시범단’ 창설은 최근 전장환경 변화와 병력자원 감소에 대응해 AI(인공지능)·드론·로봇... 새롭게 도입되는 장비와 민간 첨단기술의 군사적 활용 가능성을 검증할 계획이다. 이 같은 활동은 전 장병의...",
-          "src": "munhwa",
-          "date": "08/29",
-          "url": "https://n.news.naver.com/mnews/article/021/0002814794?sid=100",
-          "img": "https://wimg.munhwa.com/news/cms/2026/08/29/news-p.v1.20260829.5e39af7fc41643e2adb6a321cbd19482_R.jpg"
+          "title": "카카오페이, 전국 시니어 천명에 AI 금융 가르친다",
+          "desc": "올해는 급변하는 IT 환경을 반영해 AI 금융 활용 교육을 새롭게 도입, 교육 과정을 한층 고도화했다.... 체험하고 활용해보는 단계가 추가되면서, 시니어 수강생들이 최신 AI 금융 기술에 대한 친숙도를 높이고 이를 실제...",
+          "src": "technoa",
+          "date": "08/30",
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101317",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
-          "title": "코로나 대출 장기연체 자영업자 소상공인 채무조정 확대…고금리 대출...",
-          "desc": "수출입은행은 다음 달부터 중소기업을 대상으로 신속특례대출 500억원과 기술특례대출 1000억원을 공급한다.... SCB도 도입한다. 매출과 사업 이력뿐 아니라 각종 비금융정보를 활용해 업종별 성장 가능성과 잠재력을...",
-          "src": "cbci",
-          "date": "08/29",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602174",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202608/602174_412899_3525_v150.jpg"
+          "title": "[전라 Insight] 메모리 1등 국가를 만든 주연과 조연들",
+          "desc": "당시 반도체 부품을 수입해 저임 노동력을 활용해 조립-수출하는 데 머물렀던 우리나라도 웨이퍼... 선진기술을 도입하고 추격하는 단계를 넘어 신기술(4M DRAM)을 독자 개발하는 단계로 넘어갔고, 16M·64M·256M...",
+          "src": "jeollailbo",
+          "date": "08/30",
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=809401",
+          "img": "https://cdn.jeollailbo.com/news/thumbnail/202608/809401_196980_160_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI 가전은 구매 전부터 AS까지 본다… 삼성전자, 디지털고객경험지수 4...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1813788",
-      "img": "https://cdn.kr.aving.net/news/photo/202608/1813788_778208_3114.jpg"
+      "title": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제...",
+      "url": "https://www.g-enews.com/view.php?ud=202608271020104684906806b77b_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082710263607861906806b77b1752093689.jpg"
     },
     {
       "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
     },
     {
-      "title": "“세제 많이 넣으면 더 깨끗?”…헹굼이 길어지는 이유",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=385226",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17879859337003.jpg"
+      "title": "한국 기업 140곳 베를린 간다… IFA 2026 개막 임박",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=749277",
+      "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
     },
     {
-      "title": "미래에셋증권, 8월 마지막주 한화 등 9종목 매수 추천",
-      "url": "https://www.bigtanews.co.kr/article/view/big202608290006",
-      "img": "https://www.bigtanews.co.kr/data/big/image/2026/04/11/big20260411000003.jpg"
+      "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
     },
     {
-      "title": "SBS '김부장' 액션씬까지 만든 AI… \"그래도 감정·스토리텔링은 인간 몫...",
-      "url": "https://n.news.naver.com/mnews/article/006/0000137454?sid=103",
-      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336709_482663_3557_v150.jpg"
+      "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
+      "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
+      "img": "http://www.technoa.co.kr/image2006/logo.jpg"
     }
   ]
 };
