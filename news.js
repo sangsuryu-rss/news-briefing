@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.30 (일) 05:57",
+  "updatedAt": "2026.08.30 (일) 09:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제...",
-          "desc": "삼성전자, LG전자, 소니 등 세계 주요 제조사의 스마트 TV 내부에는 화질 개선 알고리즘과 운영체제를... 동시에 미디어텍은 스마트폰, 스마트홈 가전, 오토모티브로 대표되는 엣지 단말 영역에서 실시간 분산 추론...",
-          "src": "g-enews",
+          "title": "넷플릭스에서 챗GPT까지…카드업계, '구독 경제' 정조준",
+          "desc": "가전 구독으로 영역을 확장한 카드사도 있다. 롯데카드는 지난 6월 삼성전자와 손잡고 '삼성구독엔로카'를 출시했다. 삼성전자 'AI 구독클럽' 등 구독료를 자동 납부하면 전월 이용실적에 따라 월 최대 2만7000원을...",
+          "src": "뉴시스",
           "date": "08/30",
-          "url": "https://www.g-enews.com/view.php?ud=202608271020104684906806b77b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082710263607861906806b77b1752093689.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014156544?sid=101",
+          "img": "https://img1.newsis.com/2026/01/28/NISI20260128_0002050951_web.jpg"
         },
         {
           "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI발 데이터센터, 냉각수 3배 급증 경고에 글로벌 수자원 규제 확산",
-          "desc": "리스타드에너지는 지난 28일(현지시각) 발표한 분석 보고서에서 적극적인 절감 기술을 도입할 경우 연간... 다만 랙 단위 액체 냉각 기술을 적용하면 시설 전체의 냉각 부담을 덜어 건식 냉각 활용 범위를 넓힐 수...",
-          "src": "g-enews",
+          "title": "[청년이 남는 도시의 조건 ①] “일자리 없냐고요? ‘성장할’ 일자리가...",
+          "desc": "조 과장은 \"디지스트(DGIST) 등과 연계해 수요자 문제 해결 중심의 실무형 AI 인재 양성 교육을 신설해 바로 취업과 직결시키고, 민간기업에는 실패해도 돌아갈 길이 있는 '창업 휴직 제도' 도입을 권장할 계획\"이라며 \"경제...",
+          "src": "yeongnam",
           "date": "08/30",
-          "url": "https://www.g-enews.com/view.php?ud=202608291729063935fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082917501606366fbbec65dfb211211153121.jpg"
+          "url": "https://www.yeongnam.com/web/view.php?key=20260830020413281",
+          "img": "https://www.yeongnam.com/mnt/file/202608/ams.001.photo.202509231458103037322849_R.jpg"
         },
         {
-          "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
-          "desc": "분석 기술 등이 소개됐다. 조기진단 영역에서는 티알의 인공지능(AI) 기반 호흡기 진단 솔루션 '더... 현장 활용 방안 등이 다뤄졌다. 대웅제약은 이번 행사에서 국내외 병원 관계자들과 논의한 솔루션 도입 및...",
-          "src": "thefirstmedia",
+          "title": "개천절 달리는 춘천연합마라톤…'MT 성지' 강촌 부활 이끈다",
+          "desc": "도입해 참가자들이 정시에 출발하도록 할 계획이다. 순찰형과 지원형, 중계형 드론을 활용한 실시간 입체 관제 시스템을 가동하고 주차 안내 등 정보통신기술(ICT)을 접목한 안전·교통 관리도 강화한다. 지난해에도 AI와...",
+          "src": "연합뉴스",
           "date": "08/30",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
+          "url": "https://m.sports.naver.com/general/article/001/0016278415",
+          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828125900062_05_i_P4.jpg"
         },
         {
-          "title": "카카오페이, 전국 시니어 천명에 AI 금융 가르친다",
-          "desc": "올해는 급변하는 IT 환경을 반영해 AI 금융 활용 교육을 새롭게 도입, 교육 과정을 한층 고도화했다.... 체험하고 활용해보는 단계가 추가되면서, 시니어 수강생들이 최신 AI 금융 기술에 대한 친숙도를 높이고 이를 실제...",
-          "src": "technoa",
+          "title": "경찰 수사에 AI 본격 투입…계좌·통신내역 한 번에 분석",
+          "desc": "인공지능(AI)을 활용한 수사자료 분석 시스템을 일선 현장에 도입한다. 수사관이 금융계좌와 통신내역 등... 새로운 솔루션은 방대하고 복잡한 수사자료를 AI 알고리즘과 시각화 기술로 분석해 범죄 혐의자와 사건 간...",
+          "src": "서울경제",
           "date": "08/30",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101317",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004656490?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/08/28/news-p.v1.20260409.2516940a67d445439415f836d131bbcc_R.jpg"
         },
         {
-          "title": "스마일샤크, 아마존웹서비스 및 리씽크와 패션 리테일 C레벨 대상 AI 전...",
-          "desc": "이번 행사는 패션 산업에서 AI 전환이 본격화되는 가운데, 동일한 AI 기술을 도입하고도 기업별 성과 격차가... 기업들의 AI 전환 사례와 전략 방향을 소개하며, 추천 수요예측 개인화 마케팅 등 다양한 영역에서의 활용...",
-          "src": "technoa",
+          "title": "대학 총장 140명 제주 집결…'AX 시대 생존·혁신' 해법 모색(종합)",
+          "desc": "AI 전환을 위해 개별 대학의 역량만으로는 한계가 있는 만큼 정부의 인프라 투자와 대학 간 공동 활용... 이기정 대교협 회장(한양대 총장)은 \"대학의 AI 전환은 새로운 기술을 도입하는 데 그치지 않고 대학의 교육·연구...",
+          "src": "뉴스1",
           "date": "08/30",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101314",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009139640?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/8/29/8077984/high.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "이투데이",
           "date": "08/26",
           "url": "https://www.etoday.co.kr/news/view/2617909",
-          "img": "https://img.etoday.co.kr/pto_db/2026/01/20260121144546_2284678_600_330.png"
+          "img": ""
         },
         {
           "title": "자동차 밸류체인 완비된 중국 북부 핵심지 톈진, 한중 협력의 '車세대'...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제...",
-      "url": "https://www.g-enews.com/view.php?ud=202608271020104684906806b77b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082710263607861906806b77b1752093689.jpg"
+      "title": "넷플릭스에서 챗GPT까지…카드업계, '구독 경제' 정조준",
+      "url": "https://n.news.naver.com/mnews/article/003/0014156544?sid=101",
+      "img": "https://img1.newsis.com/2026/01/28/NISI20260128_0002050951_web.jpg"
     },
     {
       "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
     },
     {
-      "title": "AI발 데이터센터, 냉각수 3배 급증 경고에 글로벌 수자원 규제 확산",
-      "url": "https://www.g-enews.com/view.php?ud=202608291729063935fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082917501606366fbbec65dfb211211153121.jpg"
+      "title": "[청년이 남는 도시의 조건 ①] “일자리 없냐고요? ‘성장할’ 일자리가...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20260830020413281",
+      "img": "https://www.yeongnam.com/mnt/file/202608/ams.001.photo.202509231458103037322849_R.jpg"
     },
     {
-      "title": "대웅제약, KHF 2026서 디지털 헬스케어 협력 모델 '대웅 얼라이언스' 공...",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207226",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202608/207226_191139_827_v150.jpg"
+      "title": "개천절 달리는 춘천연합마라톤…'MT 성지' 강촌 부활 이끈다",
+      "url": "https://m.sports.naver.com/general/article/001/0016278415",
+      "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828125900062_05_i_P4.jpg"
     }
   ]
 };
