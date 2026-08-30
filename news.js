@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.31 (월) 04:19",
+  "updatedAt": "2026.08.31 (월) 07:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "7000P 다시 넘나… 美 금리·고용이 변수",
-          "desc": "주 초반 삼성전자의 주주환원 정책에 대한 실망감에 따른 매물이 나오면서 하락했고 이후 엔비디아의... 최근 IT(정보기술) 하드웨어, 조선, 에너지, IT가전 등 실적 대비 저평가업종들의 주가가 상승했다. 김종민...",
-          "src": "머니투데이",
+          "title": "8월 공기청정기 브랜드평판…삼성전자 1위, LG전자·코웨이 順",
+          "desc": "삼성전자와 LG전자는 대형 생활가전 브랜드를 앞세워 시장을 공략하고 있으며 코웨이와 위닉스 등은 공기청정기 분야에서 축적한 기술력과 브랜드 인지도를 바탕으로 경쟁하고 있다. 이번 조사에서는 삼성...",
+          "src": "핀포인트뉴스",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/008/0005406789?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019312052703_1.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481903",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481903_468468_1257_v150.jpg"
         },
         {
-          "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
-          "desc": "로봇청소기 회전솔에 머리카락이나 긴 실이 감기면 솔의 회전이 방해돼 평소보다 소음이 커지거나 바닥에 먼지와 이물질이 남을 수 있다. 엉킴이 심하면 회전솔이 작동하지 않는 경우도 있다. 삼성전자서비스는 파워...",
-          "src": "vegannews",
-          "date": "08/30",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=385344",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_1788064760587.jpg"
-        },
-        {
-          "title": "“한 번 썼는데 또?”…건조기 먼지필터 매번 비우는 까닭",
-          "desc": "삼성전자서비스가 2026년 4월 29일 갱신한 건조기 청소 안내는 건조할 때마다 먼지필터를 청소하도록 설명한다. LG전자도 7월 30일 고객지원 안내에서 내부 필터는 사용 전후에 항상 청소하고 외부 필터는 사용 전후 또는...",
-          "src": "vegannews",
-          "date": "08/30",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=385341",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
-        },
-        {
-          "title": "북미 주방가전도 K열풍… 삼성-LG 합산 점유율, GE-월풀 앞질러",
-          "desc": "세계 최대 가전 소비시장인 미국에서 주방가전은 TV나 세탁기, 에어컨 등 일반 생활가전 대비 현지 전통 브랜드 선호도가 높았다. 삼성전자, LG전자의 미국 생활가전 시장 점유율이 각각 20%대인 것과 비교해...",
-          "src": "동아일보",
+          "title": "AI·로봇 일상화 성큼…유럽 최대 가전전시회 IFA 9월 개막",
+          "desc": "AI·로봇·반도체 등 다양한 첨단 기술을 선보인다. 한국에서는 삼성전자와 LG전자를 비롯해 바디프랜드... 로보락, 에코백스, 드리미 등 중국 로봇청소기 업체들도 신제품을 공개하고 샤오미도 IFA에 처음 참가한다....",
+          "src": "연합뉴스",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/020/0003744396?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134572981.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016279225?sid=105",
+          "img": "https://img2.yna.co.kr/photo/cms/2023/04/27/34/PCM20230427000134003_P4.jpg"
+        },
+        {
+          "title": "일상 속 AI부터 런웨이 걷는 로봇까지, IFA 2026 키워드는",
+          "desc": "AI는 최근 냉장고·세탁기·TV·청소기 등 주요 가전제품에 기본 기능으로 탑재되고 있다. 사용자의 생활... 삼성전자와 LG전자를 비롯해 국내 기업들이 대거 IFA에 참가해 AI 가전과 스마트홈, 로봇 등 미래 기술을...",
+          "src": "sidae",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/417/0001156810?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/28/00/2026082815111765435_1.jpg"
+        },
+        {
+          "title": "코웨이 정수기, LG전자·브리타 제쳤다…8월 브랜드평판 1위",
+          "desc": "6위는 삼성전자 정수기였다. 이어 웰스, 현대큐밍, 퓨리얼, 세스코가 10위권에 포함됐다. 11위부터는... 정수기는 국내 가정에서 널리 사용되는 생활가전으로 자리 잡았다. 국내 시장은 역삼투압 방식과 직수형...",
+          "src": "핀포인트뉴스",
+          "date": "08/31",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481902",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481902_468467_57_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "윈도우11 프로 정품 라이선스 199달러가 7.97달러로, 191달러나 할인됐다",
-          "desc": "앤트러프러너는 2025년 NFIB 조사를 인용해 소규모 사업주의 30%가 새 기술을 도입한 뒤 생산성이... PC매거진은 호환 하드웨어에서 다이렉트스토리지(DirectStorage)를 활용하면 게임 로딩 속도가 크게 빨라진다고...",
-          "src": "wikitree",
+          "title": "\"메신저 넘어 공공 인프라로\"…카카오톡 행정 혁신, 日 학계서 주목",
+          "desc": "인공지능(AI) 국민비서와 체납 안내, 피싱 대응 등 공공 행정 서비스를 지원하는 디지털 접점으로 활용 영역을 넓히면서 해외 학계에서도 주목받고 있다. 31일 정보통신기술(ICT) 업계와 카카오에 따르면 전날 일본 도쿄...",
+          "src": "jnilbo",
           "date": "08/31",
-          "url": "https://www.wikitree.co.kr/articles/1156071",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/31/202608310412298767_it.jpeg"
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060813",
+          "img": "https://cdn.jnilbo.com/news/photo/202608/90000060813_578736_3623.jpg"
         },
         {
-          "title": "[출근길 포인트] 신임 법무장관 후보에 김승원 지명…재경 이형일·국방...",
-          "desc": "최고가격제 도입을 주도하며 실행역량을 입증했다\"고 평가했다. 국토교통부 장관 후보자로는 홍지선 현... 한국마사회는 이번 선정에서 첨단 과학기술을 활용한 적극 행정을 펼치고, 말 유전자 검사 시약의 국산화 및...",
-          "src": "pointdaily",
+          "title": "용혜인을 성평등가족부 장관으로, “왼쪽 품고 가야 한다”는 이재명의...",
+          "desc": "전기 철도에 쓸 수 있지만 잉여 전력 활용에 한계가 있다. 전력망 손실이 크다는 게 과제다. 오늘의 TMI.... AI 탐지 기술도 늘었다. 팡그램이나 GPT제로, 윈스턴AI, 카피리크스 등이 의심 텍스트를 넣으면 AI가 생성한...",
+          "src": "slownews",
           "date": "08/31",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317219",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317219_313388_3558_v150.jpg"
+          "url": "https://slownews.kr/165640",
+          "img": "https://slownews.kr/wp-content/uploads/2026/08/747988331_3248912985497119_4207302499327391747_n.jpeg"
         },
         {
-          "title": "AI기업 몸집 커지는데… 韓 '기술신용대출' 비중 30% 그쳐",
-          "desc": "유형자산이 부재한 AI기업들의 자금수요가 늘면서 국내에서도 새로운 신용평가모델을 도입할 필요성이 커졌다. 해외에서 등장하는 기술평가모델도 대안으로 꼽힌다. 중국전문가포럼(CSF)에 따르면 올해 8월 중국은행...",
-          "src": "머니투데이",
+          "title": "[가상화 ②] 비용 절감 넘어 '인프라 주권·AI 현대화'로",
+          "desc": "직접 활용할 수 있도록 지원하며, 엔비디아의 대규모 클라우드 서비스 인프라에 적용돼 성능을... 컨테이너화와 AI 네이티브 환경으로 전환해 나가는 것이다. 기술 진화에 대한 두려움을 내려놓는다면, 인프라 개편이...",
+          "src": "IT데일리",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/008/0005406795?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019435129698_1.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241276",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241276_246887_2016_v150.jpg"
         },
         {
-          "title": "방치됐던 장례식장을 교육관으로… 성도들 특별한 헌신 있어",
-          "desc": "교회 홈페이지에 첨단 기술을 도입한 것도 전도에 대한 새로운 접근법이다. 홈페이지에 가상현실(VR) 공간을... 또 홈페이지를 10개 언어로 볼 수 있게 바꾸고 인공지능(AI) 음성을 활용해 설교도 10개 언어로 더빙해...",
-          "src": "kmib",
+          "title": "“채용 때 AI 활용 능력 최우선 고려\"…자격증 유무·의사소통 능력 제...",
+          "desc": "생성형 AI 도입 후 기업들이 AI 인재 채용을 빠르게 늘려나가고 있다는 점도 주목된다. 31일 퍼블릭... 요건으로 ‘AI 기반 도구 활용 능력’을 꼽은 응답자의 비율은 35%로 가장 높았다. 다음은 ‘새로운 기술을...",
+          "src": "segyebiz",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/005/0001869871?sid=103",
-          "img": "https://image.kmib.co.kr/online_image/2026/0831/01100201.20260830501363.jpg"
+          "url": "http://www.segyebiz.com/newsView/20260830510593?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/08/30/20260830510590.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "7000P 다시 넘나… 美 금리·고용이 변수",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406789?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019312052703_1.jpg"
+      "title": "8월 공기청정기 브랜드평판…삼성전자 1위, LG전자·코웨이 順",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481903",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481903_468468_1257_v150.jpg"
     },
     {
-      "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=385344",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_1788064760587.jpg"
+      "title": "AI·로봇 일상화 성큼…유럽 최대 가전전시회 IFA 9월 개막",
+      "url": "https://n.news.naver.com/mnews/article/001/0016279225?sid=105",
+      "img": "https://img2.yna.co.kr/photo/cms/2023/04/27/34/PCM20230427000134003_P4.jpg"
     },
     {
-      "title": "“한 번 썼는데 또?”…건조기 먼지필터 매번 비우는 까닭",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=385341",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
+      "title": "일상 속 AI부터 런웨이 걷는 로봇까지, IFA 2026 키워드는",
+      "url": "https://n.news.naver.com/mnews/article/417/0001156810?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/28/00/2026082815111765435_1.jpg"
     },
     {
-      "title": "북미 주방가전도 K열풍… 삼성-LG 합산 점유율, GE-월풀 앞질러",
-      "url": "https://n.news.naver.com/mnews/article/020/0003744396?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134572981.1.jpg"
+      "title": "코웨이 정수기, LG전자·브리타 제쳤다…8월 브랜드평판 1위",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481902",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481902_468467_57_v150.jpg"
     },
     {
-      "title": "윈도우11 프로 정품 라이선스 199달러가 7.97달러로, 191달러나 할인됐다",
-      "url": "https://www.wikitree.co.kr/articles/1156071",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/31/202608310412298767_it.jpeg"
+      "title": "\"메신저 넘어 공공 인프라로\"…카카오톡 행정 혁신, 日 학계서 주목",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060813",
+      "img": "https://cdn.jnilbo.com/news/photo/202608/90000060813_578736_3623.jpg"
     },
     {
-      "title": "[출근길 포인트] 신임 법무장관 후보에 김승원 지명…재경 이형일·국방...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317219",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317219_313388_3558_v150.jpg"
+      "title": "용혜인을 성평등가족부 장관으로, “왼쪽 품고 가야 한다”는 이재명의...",
+      "url": "https://slownews.kr/165640",
+      "img": "https://slownews.kr/wp-content/uploads/2026/08/747988331_3248912985497119_4207302499327391747_n.jpeg"
     }
   ]
 };
