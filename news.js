@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.30 (일) 23:53",
+  "updatedAt": "2026.08.31 (월) 04:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
-          "desc": "묶인 삼성전자 “우선주 매입·소각 비중 늘어날 듯” -시중은행 가계대출 여력 고작 3000억…오픈런 못... 여전 -한중가전, 독일 IFA서 대격돌…안방서 사라진 유럽가전 명가 -태양광으로 오지 공장 돌리는 포스코...",
-          "src": "이데일리",
-          "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
-          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+          "title": "7000P 다시 넘나… 美 금리·고용이 변수",
+          "desc": "주 초반 삼성전자의 주주환원 정책에 대한 실망감에 따른 매물이 나오면서 하락했고 이후 엔비디아의... 최근 IT(정보기술) 하드웨어, 조선, 에너지, IT가전 등 실적 대비 저평가업종들의 주가가 상승했다. 김종민...",
+          "src": "머니투데이",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/008/0005406789?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019312052703_1.jpg"
         },
         {
           "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
         },
         {
-          "title": "“물이 고였다면 이물부터”…드럼세탁기 고무패킹 청소 순서",
-          "desc": "삼성전자서비스는 일부 드럼세탁기에 마른 천과 치약으로 오염 부위를 닦은 뒤 젖은 천으로 다시 닦는 방법을 제시한다. 세척을 마치면 깨끗한 천으로 잔여물을 닦고 마른 수건으로 고무패킹과 도어 유리의 물기를...",
-          "src": "vegannews",
-          "date": "08/30",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=385340",
-          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880631185037.jpg"
+          "title": "북미 주방가전도 K열풍… 삼성-LG 합산 점유율, GE-월풀 앞질러",
+          "desc": "세계 최대 가전 소비시장인 미국에서 주방가전은 TV나 세탁기, 에어컨 등 일반 생활가전 대비 현지 전통 브랜드 선호도가 높았다. 삼성전자, LG전자의 미국 생활가전 시장 점유율이 각각 20%대인 것과 비교해...",
+          "src": "동아일보",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744396?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134572981.1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[관악S밸리 기업 공공서비스 실증 지원사업] 두뇌 건강 관리 서비스 ‘...",
-          "desc": "현재 서비스 중인 호두랑 앱은 생성형 AI를 활용해 사진 한 장과 간단한 설명만으로 일기와 추억을 기록할 수... 나아가 복지관, 데이케어센터, 보건소 등 공공 건강관리 프로그램으로의 도입도 적극 추진하고 있다....",
-          "src": "한국경제",
-          "date": "08/30",
-          "url": "https://magazine.hankyung.com/job-joy/article/202608302252d",
-          "img": "https://static.hankyung.com/photo/202608/AD.45498225.1.jpg"
+          "title": "윈도우11 프로 정품 라이선스 199달러가 7.97달러로, 191달러나 할인됐다",
+          "desc": "앤트러프러너는 2025년 NFIB 조사를 인용해 소규모 사업주의 30%가 새 기술을 도입한 뒤 생산성이... PC매거진은 호환 하드웨어에서 다이렉트스토리지(DirectStorage)를 활용하면 게임 로딩 속도가 크게 빨라진다고...",
+          "src": "wikitree",
+          "date": "08/31",
+          "url": "https://www.wikitree.co.kr/articles/1156071",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/31/202608310412298767_it.jpeg"
         },
         {
-          "title": "경남 제조AX 거점 ‘피지컬AI연구센터’ 경남대에 문 열어",
-          "desc": "인공지능(AI)·클라우드 기술을 결합해 실제 공장에서 활용할 인공지능 기술을 개발하고 검증한다. 인공지능... 도는 이러한 투자가 지역 제조기업의 인공지능(AI) 도입과 경쟁력 향상, 청년 취업과 지역 정착으로 이어질...",
-          "src": "knnews",
-          "date": "08/30",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549676",
-          "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026083020044288487.jpg"
+          "title": "[출근길 포인트] 신임 법무장관 후보에 김승원 지명…재경 이형일·국방...",
+          "desc": "최고가격제 도입을 주도하며 실행역량을 입증했다\"고 평가했다. 국토교통부 장관 후보자로는 홍지선 현... 한국마사회는 이번 선정에서 첨단 과학기술을 활용한 적극 행정을 펼치고, 말 유전자 검사 시약의 국산화 및...",
+          "src": "pointdaily",
+          "date": "08/31",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317219",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317219_313388_3558_v150.jpg"
         },
         {
-          "title": "전기차 이어 로보택시도 중국에 내주나…'AI 식민지화' 우려",
-          "desc": "자율주행 산업에서 주행데이터는 AI의 판단 능력과 안전성을 높이는 핵심 자산이다. 한국의 복잡한 도심 도로와 교차로, 골목길, 보행자 움직임, 교통신호 체계에서 축적된 데이터가 포니에이아이의 기술 고도화에 활용되...",
-          "src": "4th",
-          "date": "08/30",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2117109",
-          "img": "https://cdn.4th.kr/news/thumbnail/202608/2117109_215270_1833_v150.jpg"
+          "title": "AI기업 몸집 커지는데… 韓 '기술신용대출' 비중 30% 그쳐",
+          "desc": "유형자산이 부재한 AI기업들의 자금수요가 늘면서 국내에서도 새로운 신용평가모델을 도입할 필요성이 커졌다. 해외에서 등장하는 기술평가모델도 대안으로 꼽힌다. 중국전문가포럼(CSF)에 따르면 올해 8월 중국은행...",
+          "src": "머니투데이",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/008/0005406795?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019435129698_1.jpg"
         },
         {
-          "title": "“결국 청와대가 결정하더라”…팽팽한 ‘서·논술형 수능’ 토론회 현...",
-          "desc": "도입하고 내신에서 확대한다는 내용을 골자로 하는 대입제도 개편안을 지난 5일 업무보고에서 밝힌 뒤 현장 토론회, 숙의 토론 등 공론화 절차를 진행 중이다. 오지선다 문제로 학생을 평가하는 방식으로 인공지능(AI)...",
-          "src": "한겨레",
-          "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/028/0002820826?sid=102",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0830/53_17880874161389_20260830502290.webp"
+          "title": "방치됐던 장례식장을 교육관으로… 성도들 특별한 헌신 있어",
+          "desc": "교회 홈페이지에 첨단 기술을 도입한 것도 전도에 대한 새로운 접근법이다. 홈페이지에 가상현실(VR) 공간을... 또 홈페이지를 10개 언어로 볼 수 있게 바꾸고 인공지능(AI) 음성을 활용해 설교도 10개 언어로 더빙해...",
+          "src": "kmib",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/005/0001869871?sid=103",
+          "img": "https://image.kmib.co.kr/online_image/2026/0831/01100201.20260830501363.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
-      "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+      "title": "7000P 다시 넘나… 美 금리·고용이 변수",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406789?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026083019312052703_1.jpg"
     },
     {
       "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
     },
     {
-      "title": "“물이 고였다면 이물부터”…드럼세탁기 고무패킹 청소 순서",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=385340",
-      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880631185037.jpg"
+      "title": "북미 주방가전도 K열풍… 삼성-LG 합산 점유율, GE-월풀 앞질러",
+      "url": "https://n.news.naver.com/mnews/article/020/0003744396?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134572981.1.jpg"
     },
     {
-      "title": "[관악S밸리 기업 공공서비스 실증 지원사업] 두뇌 건강 관리 서비스 ‘...",
-      "url": "https://magazine.hankyung.com/job-joy/article/202608302252d",
-      "img": "https://static.hankyung.com/photo/202608/AD.45498225.1.jpg"
+      "title": "윈도우11 프로 정품 라이선스 199달러가 7.97달러로, 191달러나 할인됐다",
+      "url": "https://www.wikitree.co.kr/articles/1156071",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/31/202608310412298767_it.jpeg"
     },
     {
-      "title": "경남 제조AX 거점 ‘피지컬AI연구센터’ 경남대에 문 열어",
-      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549676",
-      "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026083020044288487.jpg"
+      "title": "[출근길 포인트] 신임 법무장관 후보에 김승원 지명…재경 이형일·국방...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317219",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317219_313388_3558_v150.jpg"
     }
   ]
 };
