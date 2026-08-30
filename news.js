@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.30 (일) 17:20",
+  "updatedAt": "2026.08.30 (일) 23:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"대한민국 미래 응원\" 삼성, 국제올림피아드 수상자에 장학금",
-          "desc": "모바일·가전 사업을 담당하는 삼성전자 디바이스경험(DX) 부문은 지난 11일 경기 수원캠퍼스에서 국제수학올림피아드 수상자 6명(금메달 3명·은메달 2명·장려상 1명)에게 장학금을 수여했다. 노태문 DX부문장 사장이...",
-          "src": "매일경제",
+          "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
+          "desc": "묶인 삼성전자 “우선주 매입·소각 비중 늘어날 듯” -시중은행 가계대출 여력 고작 3000억…오픈런 못... 여전 -한중가전, 독일 IFA서 대격돌…안방서 사라진 유럽가전 명가 -태양광으로 오지 공장 돌리는 포스코...",
+          "src": "이데일리",
           "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/009/0005727680?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/31/20260831_01110202000001_L00.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
+          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
         },
         {
           "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
@@ -34,7 +34,7 @@ window.NEWS_DATA = {
           "src": "vegannews",
           "date": "08/30",
           "url": "https://www.vegannews.co.kr/news/article.html?no=385344",
-          "img": ""
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_1788064760587.jpg"
         },
         {
           "title": "“한 번 썼는데 또?”…건조기 먼지필터 매번 비우는 까닭",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "vegannews",
           "date": "08/30",
           "url": "https://www.vegannews.co.kr/news/article.html?no=385341",
-          "img": ""
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
         },
         {
           "title": "“물이 고였다면 이물부터”…드럼세탁기 고무패킹 청소 순서",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "vegannews",
           "date": "08/30",
           "url": "https://www.vegannews.co.kr/news/article.html?no=385340",
-          "img": ""
+          "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880631185037.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이재명 2차 개각, 정치는 ‘소연정’ 정책은 ‘안정’ 쇄신은 ‘반쪽’",
-          "desc": "이에 따라 정부 AI 정책라인은 이해민 AI미래기획수석-하정우 국가AI전략위원회 부위원장-배경훈 과학기술정... ETF 도입 과정과 개인투자자 피해 논란, 반도체 경기 호황에 따른 초과세수 활용 문제 등을 둘러싸고 잇따라...",
-          "src": "economist",
-          "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/243/0000102360?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/08/30/ecn20260830000012.800x.0.png"
-        },
-        {
-          "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가?",
-          "desc": "◇AI 도구 활용 제안··· 소상공인을 위한 실패 없는 첫걸음 실패 사례가 쏟아지는 상황에서 자본과... 성공한 AI 도입 기업들의 공통점은 단 하나다. 화려한 기술이 아니라 명확한 목적, 단단한 데이터, 그리고 사람이...",
-          "src": "kbmaeil",
-          "date": "08/30",
-          "url": "https://www.kbmaeil.com/article/20260829500026",
-          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/01/08/.cache/512/20260108500236.png"
-        },
-        {
-          "title": "현대차그룹 노사 리스크 출구…생산 만회 넘어 경쟁력 확보로",
-          "desc": "신차 출시 효과를 실제 판매로 연결하고 연말까지 남은 영업일을 최대한 활용하는 데도 국내 공장의... 현대차 노사는 이번 교섭에서 피지컬 인공지능(AI)과 로보틱스 등 신기술 도입 필요성에도 공감했다. 특히 생산기술...",
-          "src": "g-enews",
-          "date": "08/30",
-          "url": "https://www.g-enews.com/view.php?ud=202608281507199233112616b072_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082815102801470112616b072210113354.jpg"
-        },
-        {
-          "title": "[단독] \"노란봉투법으로 손배 인정 2/3 줄면…일자리 22만개 축소\"",
-          "desc": "생성형 인공지능(AI)과 휴머노이드 로봇 기술 발전도 공장 자동화를 촉진할 것으로 예상된다. 이미 국내외 주요 기업들은 산업 현장에 휴머노이드 로봇까지 도입하고 있다. 미국 1위 전기차업체 테슬라는 휴머노이드...",
+          "title": "[관악S밸리 기업 공공서비스 실증 지원사업] 두뇌 건강 관리 서비스 ‘...",
+          "desc": "현재 서비스 중인 호두랑 앱은 생성형 AI를 활용해 사진 한 장과 간단한 설명만으로 일기와 추억을 기록할 수... 나아가 복지관, 데이케어센터, 보건소 등 공공 건강관리 프로그램으로의 도입도 적극 추진하고 있다....",
           "src": "한국경제",
           "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/015/0005326363?sid=101",
-          "img": "https://img.hankyung.com/photo/202608/01.45496546.1.jpg"
+          "url": "https://magazine.hankyung.com/job-joy/article/202608302252d",
+          "img": "https://static.hankyung.com/photo/202608/AD.45498225.1.jpg"
+        },
+        {
+          "title": "경남 제조AX 거점 ‘피지컬AI연구센터’ 경남대에 문 열어",
+          "desc": "인공지능(AI)·클라우드 기술을 결합해 실제 공장에서 활용할 인공지능 기술을 개발하고 검증한다. 인공지능... 도는 이러한 투자가 지역 제조기업의 인공지능(AI) 도입과 경쟁력 향상, 청년 취업과 지역 정착으로 이어질...",
+          "src": "knnews",
+          "date": "08/30",
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549676",
+          "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026083020044288487.jpg"
+        },
+        {
+          "title": "전기차 이어 로보택시도 중국에 내주나…'AI 식민지화' 우려",
+          "desc": "자율주행 산업에서 주행데이터는 AI의 판단 능력과 안전성을 높이는 핵심 자산이다. 한국의 복잡한 도심 도로와 교차로, 골목길, 보행자 움직임, 교통신호 체계에서 축적된 데이터가 포니에이아이의 기술 고도화에 활용되...",
+          "src": "4th",
+          "date": "08/30",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2117109",
+          "img": "https://cdn.4th.kr/news/thumbnail/202608/2117109_215270_1833_v150.jpg"
+        },
+        {
+          "title": "“결국 청와대가 결정하더라”…팽팽한 ‘서·논술형 수능’ 토론회 현...",
+          "desc": "도입하고 내신에서 확대한다는 내용을 골자로 하는 대입제도 개편안을 지난 5일 업무보고에서 밝힌 뒤 현장 토론회, 숙의 토론 등 공론화 절차를 진행 중이다. 오지선다 문제로 학생을 평가하는 방식으로 인공지능(AI)...",
+          "src": "한겨레",
+          "date": "08/30",
+          "url": "https://n.news.naver.com/mnews/article/028/0002820826?sid=102",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0830/53_17880874161389_20260830502290.webp"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
+          "desc": "리모델링 삼성물산이 수주했다 -상반기 수도권 착공 6.5만가구 불과… “주택난 해결 태부족” △ AI시대 산업보국 앞장선 기업들 -충돌시험 분석 90%단축, 부품공급 AI 관리… 현대차그룹 AX 초가속 -협력사 인재까지 SW...",
+          "src": "이데일리",
+          "date": "08/30",
+          "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
+          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+        },
         {
           "title": "메모리팹 4기 불편한 국힘, 최태원-이재용 소환 꿈 이뤄질까?",
           "desc": "국민의힘이 최태원 SK그룹 회장과 이재용 삼성전자 회장을 국회 증인석에 세우겠다는 구상을 두 달째... 엔지니어와 장비업체, 협력사의 반복적인 현장 대응을 통해 축적된다. 메모리 팹의 주소는 토지의 위치인 동시에...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/28",
           "url": "https://www.econovill.com/news/articleView.html?idxno=749256",
           "img": "https://cdn.econovill.com/news/thumbnail/202608/749256_724356_2437_v150.jpg"
-        },
-        {
-          "title": "[내 눈에 AI] ② \"가볍고 오래가고 예뻐야\" 작은 안경에 최첨단 기술 집...",
-          "desc": "AI 안경이 새로운 전자부품 시장으로 자리 잡으려면 국내 기업들도 기존 스마트폰 중심의 공급망과는 다른... 관건은 완제품 대기업의 발주 물량이 실제 국내 부품사로 이어지느냐다. 기존 스마트폰 협력사 기반의...",
-          "src": "bizhankook",
-          "date": "08/28",
-          "url": "https://bizhankook.com/articles/ai-glasses-market-supply-chain.html",
-          "img": "https://s.bizhankook.com/attachments_og/2026/08/135532_og_69702e0f.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"대한민국 미래 응원\" 삼성, 국제올림피아드 수상자에 장학금",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727680?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/31/20260831_01110202000001_L00.jpg"
+      "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
+      "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
     },
     {
-      "title": "이재명 2차 개각, 정치는 ‘소연정’ 정책은 ‘안정’ 쇄신은 ‘반쪽’",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102360?sid=101",
-      "img": "https://economist.co.kr/data/ecn/image/2026/08/30/ecn20260830000012.800x.0.png"
+      "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=385344",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_1788064760587.jpg"
     },
     {
-      "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가?",
-      "url": "https://www.kbmaeil.com/article/20260829500026",
-      "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/01/08/.cache/512/20260108500236.png"
+      "title": "“한 번 썼는데 또?”…건조기 먼지필터 매번 비우는 까닭",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=385341",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880635020495.jpg"
     },
     {
-      "title": "현대차그룹 노사 리스크 출구…생산 만회 넘어 경쟁력 확보로",
-      "url": "https://www.g-enews.com/view.php?ud=202608281507199233112616b072_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082815102801470112616b072210113354.jpg"
+      "title": "“물이 고였다면 이물부터”…드럼세탁기 고무패킹 청소 순서",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=385340",
+      "img": "https://www.vegannews.co.kr/data/photos/20260835/art_17880631185037.jpg"
     },
     {
-      "title": "[단독] \"노란봉투법으로 손배 인정 2/3 줄면…일자리 22만개 축소\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326363?sid=101",
-      "img": "https://img.hankyung.com/photo/202608/01.45496546.1.jpg"
+      "title": "[관악S밸리 기업 공공서비스 실증 지원사업] 두뇌 건강 관리 서비스 ‘...",
+      "url": "https://magazine.hankyung.com/job-joy/article/202608302252d",
+      "img": "https://static.hankyung.com/photo/202608/AD.45498225.1.jpg"
     },
     {
-      "title": "메모리팹 4기 불편한 국힘, 최태원-이재용 소환 꿈 이뤄질까?",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258057",
-      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/258057_462507_1951_v150.jpg"
+      "title": "경남 제조AX 거점 ‘피지컬AI연구센터’ 경남대에 문 열어",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1549676",
+      "img": "https://cdn.knnews.co.kr/edb/nimages/2026/08/2026083020044288487.jpg"
     }
   ]
 };
