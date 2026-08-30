@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.30 (일) 09:22",
+  "updatedAt": "2026.08.30 (일) 17:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "넷플릭스에서 챗GPT까지…카드업계, '구독 경제' 정조준",
-          "desc": "가전 구독으로 영역을 확장한 카드사도 있다. 롯데카드는 지난 6월 삼성전자와 손잡고 '삼성구독엔로카'를 출시했다. 삼성전자 'AI 구독클럽' 등 구독료를 자동 납부하면 전월 이용실적에 따라 월 최대 2만7000원을...",
-          "src": "뉴시스",
+          "title": "\"대한민국 미래 응원\" 삼성, 국제올림피아드 수상자에 장학금",
+          "desc": "모바일·가전 사업을 담당하는 삼성전자 디바이스경험(DX) 부문은 지난 11일 경기 수원캠퍼스에서 국제수학올림피아드 수상자 6명(금메달 3명·은메달 2명·장려상 1명)에게 장학금을 수여했다. 노태문 DX부문장 사장이...",
+          "src": "매일경제",
           "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/003/0014156544?sid=101",
-          "img": "https://img1.newsis.com/2026/01/28/NISI20260128_0002050951_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005727680?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/31/20260831_01110202000001_L00.jpg"
         },
         {
-          "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
-          "desc": "◇ 삼성전자, 디지털고객경험지수 종합가전 4년 연속 1위 8월 27일 서울 중구 서울신라호텔에서 진행된... 플래그십 로봇청소기 직접 체험하고 전문 상담까지. ⓒ로보락 글로벌 스마트홈 브랜드 로보락이 8월 29일부터...",
-          "src": "ibabynews",
-          "date": "08/28",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154083",
-          "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
+          "title": "“소음 커지고 먼지가 남는다”…로봇청소기 회전솔 점검법",
+          "desc": "로봇청소기 회전솔에 머리카락이나 긴 실이 감기면 솔의 회전이 방해돼 평소보다 소음이 커지거나 바닥에 먼지와 이물질이 남을 수 있다. 엉킴이 심하면 회전솔이 작동하지 않는 경우도 있다. 삼성전자서비스는 파워...",
+          "src": "vegannews",
+          "date": "08/30",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=385344",
+          "img": ""
         },
         {
-          "title": "LG전자, 한국전력공사와 '스마트가전 캐시백 시범사업' 추진 업무협약",
-          "desc": "대상 품목은 세탁기와 건조기, 식기세척기, 의류관리기다. 삼성전자 스마트싱스 또는 LG전자 씽큐 애플리케이션에 등록돼 전력 사용량을 확인할 수 있는 제품이어야 한다. LG전자 제품에는 세탁기와 건조기가 결합된...",
-          "src": "econonews",
-          "date": "08/29",
-          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443524",
-          "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+          "title": "“한 번 썼는데 또?”…건조기 먼지필터 매번 비우는 까닭",
+          "desc": "삼성전자서비스가 2026년 4월 29일 갱신한 건조기 청소 안내는 건조할 때마다 먼지필터를 청소하도록 설명한다. LG전자도 7월 30일 고객지원 안내에서 내부 필터는 사용 전후에 항상 청소하고 외부 필터는 사용 전후 또는...",
+          "src": "vegannews",
+          "date": "08/30",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=385341",
+          "img": ""
         },
         {
-          "title": "한국 기업 140곳 베를린 간다… IFA 2026 개막 임박",
-          "desc": "업계에서는 삼성전자가 에너지 절감 수요가 높은 유럽 시장 특성을 고려해 고효율 세탁기와 히트펌프 등 현지 특화 가전을 비롯해 마이크로 RGB TV 등을 선보일 것으로 예상하고 있다. LG전자는 메세 베를린 18홀을...",
-          "src": "econovill",
-          "date": "08/29",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=749277",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
+          "title": "“물이 고였다면 이물부터”…드럼세탁기 고무패킹 청소 순서",
+          "desc": "삼성전자서비스는 일부 드럼세탁기에 마른 천과 치약으로 오염 부위를 닦은 뒤 젖은 천으로 다시 닦는 방법을 제시한다. 세척을 마치면 깨끗한 천으로 잔여물을 닦고 마른 수건으로 고무패킹과 도어 유리의 물기를...",
+          "src": "vegannews",
+          "date": "08/30",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=385340",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[청년이 남는 도시의 조건 ①] “일자리 없냐고요? ‘성장할’ 일자리가...",
-          "desc": "조 과장은 \"디지스트(DGIST) 등과 연계해 수요자 문제 해결 중심의 실무형 AI 인재 양성 교육을 신설해 바로 취업과 직결시키고, 민간기업에는 실패해도 돌아갈 길이 있는 '창업 휴직 제도' 도입을 권장할 계획\"이라며 \"경제...",
-          "src": "yeongnam",
+          "title": "이재명 2차 개각, 정치는 ‘소연정’ 정책은 ‘안정’ 쇄신은 ‘반쪽’",
+          "desc": "이에 따라 정부 AI 정책라인은 이해민 AI미래기획수석-하정우 국가AI전략위원회 부위원장-배경훈 과학기술정... ETF 도입 과정과 개인투자자 피해 논란, 반도체 경기 호황에 따른 초과세수 활용 문제 등을 둘러싸고 잇따라...",
+          "src": "economist",
           "date": "08/30",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260830020413281",
-          "img": "https://www.yeongnam.com/mnt/file/202608/ams.001.photo.202509231458103037322849_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000102360?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/30/ecn20260830000012.800x.0.png"
         },
         {
-          "title": "개천절 달리는 춘천연합마라톤…'MT 성지' 강촌 부활 이끈다",
-          "desc": "도입해 참가자들이 정시에 출발하도록 할 계획이다. 순찰형과 지원형, 중계형 드론을 활용한 실시간 입체 관제 시스템을 가동하고 주차 안내 등 정보통신기술(ICT)을 접목한 안전·교통 관리도 강화한다. 지난해에도 AI와...",
-          "src": "연합뉴스",
+          "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가?",
+          "desc": "◇AI 도구 활용 제안··· 소상공인을 위한 실패 없는 첫걸음 실패 사례가 쏟아지는 상황에서 자본과... 성공한 AI 도입 기업들의 공통점은 단 하나다. 화려한 기술이 아니라 명확한 목적, 단단한 데이터, 그리고 사람이...",
+          "src": "kbmaeil",
           "date": "08/30",
-          "url": "https://m.sports.naver.com/general/article/001/0016278415",
-          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828125900062_05_i_P4.jpg"
+          "url": "https://www.kbmaeil.com/article/20260829500026",
+          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/01/08/.cache/512/20260108500236.png"
         },
         {
-          "title": "경찰 수사에 AI 본격 투입…계좌·통신내역 한 번에 분석",
-          "desc": "인공지능(AI)을 활용한 수사자료 분석 시스템을 일선 현장에 도입한다. 수사관이 금융계좌와 통신내역 등... 새로운 솔루션은 방대하고 복잡한 수사자료를 AI 알고리즘과 시각화 기술로 분석해 범죄 혐의자와 사건 간...",
-          "src": "서울경제",
+          "title": "현대차그룹 노사 리스크 출구…생산 만회 넘어 경쟁력 확보로",
+          "desc": "신차 출시 효과를 실제 판매로 연결하고 연말까지 남은 영업일을 최대한 활용하는 데도 국내 공장의... 현대차 노사는 이번 교섭에서 피지컬 인공지능(AI)과 로보틱스 등 신기술 도입 필요성에도 공감했다. 특히 생산기술...",
+          "src": "g-enews",
           "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/011/0004656490?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/08/28/news-p.v1.20260409.2516940a67d445439415f836d131bbcc_R.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202608281507199233112616b072_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082815102801470112616b072210113354.jpg"
         },
         {
-          "title": "대학 총장 140명 제주 집결…'AX 시대 생존·혁신' 해법 모색(종합)",
-          "desc": "AI 전환을 위해 개별 대학의 역량만으로는 한계가 있는 만큼 정부의 인프라 투자와 대학 간 공동 활용... 이기정 대교협 회장(한양대 총장)은 \"대학의 AI 전환은 새로운 기술을 도입하는 데 그치지 않고 대학의 교육·연구...",
-          "src": "뉴스1",
+          "title": "[단독] \"노란봉투법으로 손배 인정 2/3 줄면…일자리 22만개 축소\"",
+          "desc": "생성형 인공지능(AI)과 휴머노이드 로봇 기술 발전도 공장 자동화를 촉진할 것으로 예상된다. 이미 국내외 주요 기업들은 산업 현장에 휴머노이드 로봇까지 도입하고 있다. 미국 1위 전기차업체 테슬라는 휴머노이드...",
+          "src": "한국경제",
           "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/421/0009139640?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/8/29/8077984/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005326363?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/01.45496546.1.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "메모리팹 4기 불편한 국힘, 최태원-이재용 소환 꿈 이뤄질까?",
+          "desc": "국민의힘이 최태원 SK그룹 회장과 이재용 삼성전자 회장을 국회 증인석에 세우겠다는 구상을 두 달째... 엔지니어와 장비업체, 협력사의 반복적인 현장 대응을 통해 축적된다. 메모리 팹의 주소는 토지의 위치인 동시에...",
+          "src": "womaneconomy",
+          "date": "08/30",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258057",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/258057_462507_1951_v150.jpg"
+        },
         {
           "title": "한국서 웨이퍼·미국서 패키징…SK하이닉스, HBM 공급망 넓힌다",
           "desc": "삼성전자 역시 미국 투자를 텍사스 테일러의 파운드리 중심으로 진행하고 있으며, 마이크론은 미국에서... 현재 100곳이 넘는 소재·부품·장비 협력사가 웨스트라피엣 진출을 논의하고 있으며 SK하이닉스는 미국...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/28",
           "url": "https://bizhankook.com/articles/ai-glasses-market-supply-chain.html",
           "img": "https://s.bizhankook.com/attachments_og/2026/08/135532_og_69702e0f.jpg"
-        },
-        {
-          "title": "美 인디애나로 간 SK하이닉스…'범용' 벗는 메모리 산업 [반도체레이다...",
-          "desc": "현재 100여개 소재·부품·장비 협력사가 웨스트라피엣 진출을 논의하고 있으며, SK하이닉스는 팹 건설과... SK하이닉스와 삼성전자 모두 고객 요구에 맞춘 커스텀 HBM을 차세대 성장축으로 제시하는 배경이다. 수요를...",
-          "src": "디지털데일리",
-          "date": "08/28",
-          "url": "https://n.news.naver.com/mnews/article/138/0002239395?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/08/28/2026082814264094740_l.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "이투데이",
           "date": "08/26",
           "url": "https://www.etoday.co.kr/news/view/2617909",
-          "img": ""
+          "img": "https://img.etoday.co.kr/pto_db/2026/01/20260121144546_2284678_600_330.png"
         },
         {
           "title": "자동차 밸류체인 완비된 중국 북부 핵심지 톈진, 한중 협력의 '車세대'...",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "넷플릭스에서 챗GPT까지…카드업계, '구독 경제' 정조준",
-      "url": "https://n.news.naver.com/mnews/article/003/0014156544?sid=101",
-      "img": "https://img1.newsis.com/2026/01/28/NISI20260128_0002050951_web.jpg"
+      "title": "\"대한민국 미래 응원\" 삼성, 국제올림피아드 수상자에 장학금",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727680?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/31/20260831_01110202000001_L00.jpg"
     },
     {
-      "title": "[가전 트렌드] LG전자, 가전 구독 캠페인으로 '2026 에피어워드' 브론즈...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154083",
-      "img": "https://www.ibabynews.com/news/photo/202608/154083_120627_1554.jpg"
+      "title": "이재명 2차 개각, 정치는 ‘소연정’ 정책은 ‘안정’ 쇄신은 ‘반쪽’",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102360?sid=101",
+      "img": "https://economist.co.kr/data/ecn/image/2026/08/30/ecn20260830000012.800x.0.png"
     },
     {
-      "title": "LG전자, 한국전력공사와 '스마트가전 캐시백 시범사업' 추진 업무협약",
-      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443524",
-      "img": "http://www.econonews.co.kr/image/logo/snslogo_20210506051725.png"
+      "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가?",
+      "url": "https://www.kbmaeil.com/article/20260829500026",
+      "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/01/08/.cache/512/20260108500236.png"
     },
     {
-      "title": "한국 기업 140곳 베를린 간다… IFA 2026 개막 임박",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=749277",
-      "img": "https://cdn.econovill.com/news/thumbnail/202608/749277_724407_206_v150.jpg"
+      "title": "현대차그룹 노사 리스크 출구…생산 만회 넘어 경쟁력 확보로",
+      "url": "https://www.g-enews.com/view.php?ud=202608281507199233112616b072_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026082815102801470112616b072210113354.jpg"
     },
     {
-      "title": "[청년이 남는 도시의 조건 ①] “일자리 없냐고요? ‘성장할’ 일자리가...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20260830020413281",
-      "img": "https://www.yeongnam.com/mnt/file/202608/ams.001.photo.202509231458103037322849_R.jpg"
+      "title": "[단독] \"노란봉투법으로 손배 인정 2/3 줄면…일자리 22만개 축소\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326363?sid=101",
+      "img": "https://img.hankyung.com/photo/202608/01.45496546.1.jpg"
     },
     {
-      "title": "개천절 달리는 춘천연합마라톤…'MT 성지' 강촌 부활 이끈다",
-      "url": "https://m.sports.naver.com/general/article/001/0016278415",
-      "img": "https://img9.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828125900062_05_i_P4.jpg"
+      "title": "메모리팹 4기 불편한 국힘, 최태원-이재용 소환 꿈 이뤄질까?",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258057",
+      "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/258057_462507_1951_v150.jpg"
     }
   ]
 };
