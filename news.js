@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.31 (월) 14:40",
+  "updatedAt": "2026.08.31 (월) 22:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 호황에 소비 진작‥수혜지역 소비 3.7% 높고, GDP 상승 효과",
-          "desc": "한국은행은 삼성전자와 SK하이닉스 종사자가 많은 경기 이천·화성·충북 청주 세 곳에서의 카드결제액을... 특히 자동차, 가전·가구, 백화점 등에서 고가물품을 중심으로 소비한 걸로 분석됐습니다. 한은은 해당...",
-          "src": "imnews",
+          "title": "[카드뉴스] 페이커와 사진 찍고, 붉은사막 속으로.. 삼성전자가 유럽에...",
+          "desc": "독일 최대 가전 유통업체의 매장에서는 TV와 가전, 모바일, 게임을 직접 경험할 수 있는 공간도 만들었는데요. 제품의 성능을 설명하는 데서 그치지 않고 직접 만지고 즐기게 만드는 것. 삼성전자가 유럽에서 '체험'을...",
+          "src": "테크M",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/214/0001521103?sid=101",
-          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/31/sa_20260831_8.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=154791",
+          "img": "https://cdn.techm.kr/news/thumbnail/202608/154791_219765_4011_v150.jpg"
         },
         {
-          "title": "“중국산 왕, 드디어 끌어내렸다”...로봇청소기 독주 끝낸 국산 비밀병...",
-          "desc": "삼성전자 로봇청소기 6~7월 평균점유율 50% 넘어 중국 로보락 30%대로 밀려나 보안·AS 앞세워 격차 뒤집어 중국 로보락이 수년간 주도해온 국내 로봇청소기 시장에서, 삼성전자가 두 달 연속 선두를 차지한 것으로...",
+          "title": "“할인 안 해도 이제 중국은 이깁니다”…시장 판도 뒤집은 삼성의 ‘흡...",
+          "desc": "31일 관련 업계 취재를 종합하면 삼성전자의 국내 로봇청소기 시장 점유율은 올해 6~7월 평균 50% 이상을 기록한 것으로 추정된다. 삼성전자는 6월에는 점유율 50%를 넘어섰고, 7월에도 50%에 근접한 수준을 유지한 것으로...",
           "src": "매일경제",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/009/0005728047?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.2bd4d545c7c04a8889f2f6602014ed3e_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005728363?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.51e28a151be74f728d74890e52b95b4b_R.jpg"
         },
         {
           "title": "IFA 2026, AI·로봇 품고 새판 짠다…中 기업 932곳 ‘역대 최대’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://wimg.dt.co.kr/news/cms/2026/08/31/news-p.v1.20260831.7744154dbdf640edb656a54d196cc975_R.png"
         },
         {
-          "title": "삼성전자, 웨딩 시즌 겨냥 '혼수 프로모션'…14개 업체와 손잡고 마케팅...",
-          "desc": "상당의 삼성전자 멤버십 포인트가 지급된다. 단, 1500만원 이상 결제와 AI 구독클럽 1건 이상 가입이 전제조건이다. 여기에 냉장고, 세탁기 등 혼수 인기 품목 14종에 대해서는 구매 금액대별로 최대 10만원의 포인트가...",
-          "src": "인더스트리뉴스",
+          "title": "[EBN 오늘(31일) 이슈 종합] 삼성전자·SK하이닉스 '종가 전쟁', 하정우 ...",
+          "desc": "◆MSCI 리밸런싱 vs 자사주 매입…삼성전자·SK하이닉스 '종가 전쟁' 모건스탠리캐피털인터내셔널(MSCI)... 시스템, 냉장고와 테이블 등 전용 사양을 적용했다. ◆1년 만에 국토부 수장 교체…'서울시 협의·일관된 정책' 과제...",
+          "src": "ebn",
           "date": "08/31",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85250",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202608/85250_105526_4533.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722395",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1722395_754419_3946_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“목적에 맞는 AI 전략 필요”…델, 데이터부터 인프라까지 전 과정 지...",
-          "desc": "델은 AI 프로젝트의 초기 단계부터 실제 운영까지 이어지는 전 과정을 지원한다. 현업 부서와 함께 AI 활용... 기업의 AI 도입을 더욱 촉진하고, 한국이 보유한 기술 리더십을 AI 리더십으로 확장하는 데 도움이 될 것”...",
-          "src": "전자신문",
+          "title": "대우건설, 푸르지오에 AI 바리스타 로봇·디지털 향기 도입",
+          "desc": "지난 24일에는 딥센트와 디지털 향기 서비스 도입을 위한 업무협약을 체결했다. 딥센트는 AI와 사물인터넷(IoT) 기술을 활용해 공간의 목적과 분위기에 맞는 향기를 제공하는 솔루션을 운영한다. 대우건설은 푸르지오...",
+          "src": "koreareport",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/030/0003461936?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/08/30/news-p.v1.20260830.79533de848fc4376ba9fc3a4943e0b10_P3.jpg"
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52473",
+          "img": "https://cdn.koreareport.co.kr/news/photo/202608/52473_55020_4715.png"
         },
         {
-          "title": "저출생 해법, ‘지원사업 늘리기’ 넘어 AI로 정책 골라낸다",
-          "desc": "로봇을 활용한 고령자의 이동성 보완, AI와 사물인터넷(IoT)을 결합한 고령층 고립감 저감, 통합돌봄용 휴머노이드 도입 가능성 등을 제안했다. 특히 자율주행 기술을 고령자가 익숙한 지역사회에서 계속 생활하도록 돕는...",
-          "src": "브릿지경제",
+          "title": "교도소 AI, 감시엔 빨랐고 재활엔 느렸다... '스마트 교정' 어디까지 왔...",
+          "desc": "대인관계 기술을 훈련하는 상담 기법)를 활용하는 AI 상담 챗봇, 가상현실(VR) 기반 재활, AI 정신건강 선별, AI 의료지원 등의 가능성이 꾸준히 제시됐다. 하지만 현장 도입은 핀란드의 VR 시범사업과 미국 일부 지역의 AI...",
+          "src": "lawissue",
           "date": "08/31",
-          "url": "https://www.viva100.com/article/20260831500935",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831500926.jpg?v=20260831144023"
+          "url": "http://www.lawissue.co.kr/view.php?ud=2026083122285860927b682bb492_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608312234440372507b682bb492222120248245.jpg&nmt=12"
         },
         {
-          "title": "주무열 서울시의원 “AI 활용 공공정책, 서울시가 허브로 기능해야”",
-          "desc": "서울시의회 기획경제위원회 주무열 의원(관악2, 더불어민주당)은 지난 27일 제339회 임시회 5분 자유발언을 통해 AI 기술을 공공정책에 적극 활용하고, 서울시가 각 자치구의 AI 실증 사업을 공모받아 성과를 검증...",
-          "src": "서울신문",
+          "title": "엔비디아, 대만 반도체업체 미디어텍에 4.8조원 투자",
+          "desc": "이번 투자로 미디어텍은 엔비디아의 기술 제품군에 포함된 NV링크 퓨전과 새로 발표한 NVHBM 기술을 활용해... 이 같은 투자가 자사 기술의 도입을 가속화하고 AI 산업의 발전을 촉진하는 또 다른 방법이라는 것이...",
+          "src": "한국경제",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/081/0003675069?sid=102",
-          "img": "https://imggo.seoul.co.kr/img/go_share.png"
+          "url": "https://n.news.naver.com/mnews/article/015/0005326931?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/ZA.45462407.1.jpg"
         },
         {
-          "title": "“AI 기술에 사람 중심 케어를 더하다”… 두원공대 혁신지원사업, 전공...",
-          "desc": "모여 AI 기술 활용법과 교육 본연의 가치를 융합하는 자발적 연구 활동이 교내외의 큰 주목을 받고 있다.... 공학적 기술 역량과 보건 계열 특유의 인간 중심 케어 철학을 접목해, 수업 현장에 첨단 AI를 효과적으로 도입하...",
-          "src": "sports",
+          "title": "오픈AI, 한국서 첫 '게임 빌더스' 개막… 송재경·송병준 AI 개발 비전 제...",
+          "desc": "AI 기술을 바탕으로 새로운 기획과 게임성에 적극 도전해 줄 것을 주문했다. 이어 첫 키노트 발표자로 나선 송재경 엑스엘게임즈 전 대표는 개발 현장에서 오픈AI 코덱스(Codex)를 활용한 경험을 공유하며, 기존 대비...",
+          "src": "biztribune",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/144/0001135045?sid=103",
-          "img": ""
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358192",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/358192_263522_934_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "日미야기현 “SK하이닉스 오라” 유치 총력전… 최태원 “일본 공장 검...",
+          "desc": "SK하이닉스는 일본 낸드플래시 업체 키옥시아 지분도 약 14% 이상 보유하고 있으며, 이외 협력사들이 현지에... 하워드 러트닉 미 상무장관은 지난달 “삼성전자와 SK하이닉스를 미국으로 데려와 공장을 짓게 하고 싶다”...",
+          "src": "kmib",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/005/0001870016?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0831/01100201.20260825500053.jpg"
+        },
+        {
+          "title": "AI 반도체 핵심 거점 된 韓⋯ 어플라이드, ‘공동혁신·양산’ 협업 강...",
+          "desc": "삼성전자와 SK하이닉스가 고대역폭메모리(HBM) 시장의 핵심 공급자로 자리 잡은 데 이어 첨단 로직과 패키징... 고객사와 장기적인 수요 전망을 공유하고 이를 공급망 내 협력사들과 연계해 생산계획을 미리 수립하는...",
+          "src": "브릿지경제",
+          "date": "08/31",
+          "url": "https://www.viva100.com/article/20260831501128",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831501124.jpg?v=20260831225653"
+        },
+        {
+          "title": "\"AI 반도체, 관건은 에너지\"…어플라이드가 내놓은 '해법' [현장+]",
+          "desc": "1·2차 부품 협력사들과도 전망을 공유하면서 생산계획을 맞추고 있다\"고 말했다. EPIC으로 초기 개발부터... 삼성전자와 SK하이닉스는 EPIC 창립 파트너로 참여하고 있다. 첫 연구개발(R&D) 장비도 현장에 반입됐다....",
+          "src": "한국경제",
+          "date": "08/31",
+          "url": "https://n.news.naver.com/mnews/article/015/0005326672?sid=101",
+          "img": "https://img.hankyung.com/photo/202608/01.45506136.1.jpg"
+        },
+        {
           "title": "어플라이드 \"반도체 장비 단기 공급 제한적\"",
           "desc": "에픽은 장비사, 고객사, 협력사, 연구기관이 함께 공정 기술과 장비를 개발하는 협업 채널이다. 회사는 이... 박 대표는 삼성전자와 SK하이닉스가 에픽의 창립 파트너로 참여했다고 말했다. 그는 에픽 센터의 목적이...",
           "src": "tokenpost",
           "date": "08/31",
           "url": "https://www.tokenpost.kr/news/tech/401047",
           "img": "https://f1.tokenpost.kr/2026/08/l00i12jw9a.jpg"
-        },
-        {
-          "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
-          "desc": "리모델링 삼성물산이 수주했다 -상반기 수도권 착공 6.5만가구 불과… “주택난 해결 태부족” △ AI시대 산업보국 앞장선 기업들 -충돌시험 분석 90%단축, 부품공급 AI 관리… 현대차그룹 AX 초가속 -협력사 인재까지 SW...",
-          "src": "이데일리",
-          "date": "08/30",
-          "url": "https://n.news.naver.com/mnews/article/018/0006360574?sid=101",
-          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
-        },
-        {
-          "title": "메모리팹 4기 불편한 국힘, 최태원-이재용 소환 꿈 이뤄질까?",
-          "desc": "국민의힘이 최태원 SK그룹 회장과 이재용 삼성전자 회장을 국회 증인석에 세우겠다는 구상을 두 달째... 엔지니어와 장비업체, 협력사의 반복적인 현장 대응을 통해 축적된다. 메모리 팹의 주소는 토지의 위치인 동시에...",
-          "src": "womaneconomy",
-          "date": "08/30",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258057",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202608/258057_462507_1951_v150.jpg"
-        },
-        {
-          "title": "한국서 웨이퍼·미국서 패키징…SK하이닉스, HBM 공급망 넓힌다",
-          "desc": "삼성전자 역시 미국 투자를 텍사스 테일러의 파운드리 중심으로 진행하고 있으며, 마이크론은 미국에서... 현재 100곳이 넘는 소재·부품·장비 협력사가 웨스트라피엣 진출을 논의하고 있으며 SK하이닉스는 미국...",
-          "src": "biztribune",
-          "date": "08/28",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358117",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202608/358117_263443_935_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 호황에 소비 진작‥수혜지역 소비 3.7% 높고, GDP 상승 효과",
-      "url": "https://n.news.naver.com/mnews/article/214/0001521103?sid=101",
-      "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/31/sa_20260831_8.jpg"
+      "title": "[카드뉴스] 페이커와 사진 찍고, 붉은사막 속으로.. 삼성전자가 유럽에...",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154791",
+      "img": "https://cdn.techm.kr/news/thumbnail/202608/154791_219765_4011_v150.jpg"
     },
     {
-      "title": "“중국산 왕, 드디어 끌어내렸다”...로봇청소기 독주 끝낸 국산 비밀병...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728047?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.2bd4d545c7c04a8889f2f6602014ed3e_R.jpg"
+      "title": "“할인 안 해도 이제 중국은 이깁니다”…시장 판도 뒤집은 삼성의 ‘흡...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728363?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.51e28a151be74f728d74890e52b95b4b_R.jpg"
     },
     {
       "title": "IFA 2026, AI·로봇 품고 새판 짠다…中 기업 932곳 ‘역대 최대’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://wimg.dt.co.kr/news/cms/2026/08/31/news-p.v1.20260831.7744154dbdf640edb656a54d196cc975_R.png"
     },
     {
-      "title": "삼성전자, 웨딩 시즌 겨냥 '혼수 프로모션'…14개 업체와 손잡고 마케팅...",
-      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85250",
-      "img": "https://cdn.industrynews.co.kr/news/photo/202608/85250_105526_4533.jpg"
+      "title": "[EBN 오늘(31일) 이슈 종합] 삼성전자·SK하이닉스 '종가 전쟁', 하정우 ...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722395",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202608/1722395_754419_3946_v150.jpg"
     },
     {
-      "title": "“목적에 맞는 AI 전략 필요”…델, 데이터부터 인프라까지 전 과정 지...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461936?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/08/30/news-p.v1.20260830.79533de848fc4376ba9fc3a4943e0b10_P3.jpg"
+      "title": "대우건설, 푸르지오에 AI 바리스타 로봇·디지털 향기 도입",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52473",
+      "img": "https://cdn.koreareport.co.kr/news/photo/202608/52473_55020_4715.png"
     },
     {
-      "title": "저출생 해법, ‘지원사업 늘리기’ 넘어 AI로 정책 골라낸다",
-      "url": "https://www.viva100.com/article/20260831500935",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831500926.jpg?v=20260831144023"
+      "title": "교도소 AI, 감시엔 빨랐고 재활엔 느렸다... '스마트 교정' 어디까지 왔...",
+      "url": "http://www.lawissue.co.kr/view.php?ud=2026083122285860927b682bb492_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608312234440372507b682bb492222120248245.jpg&nmt=12"
     }
   ]
 };
