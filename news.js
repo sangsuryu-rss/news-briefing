@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.08.31 (월) 07:46",
+  "updatedAt": "2026.08.31 (월) 14:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "8월 공기청정기 브랜드평판…삼성전자 1위, LG전자·코웨이 順",
-          "desc": "삼성전자와 LG전자는 대형 생활가전 브랜드를 앞세워 시장을 공략하고 있으며 코웨이와 위닉스 등은 공기청정기 분야에서 축적한 기술력과 브랜드 인지도를 바탕으로 경쟁하고 있다. 이번 조사에서는 삼성...",
-          "src": "핀포인트뉴스",
+          "title": "반도체 호황에 소비 진작‥수혜지역 소비 3.7% 높고, GDP 상승 효과",
+          "desc": "한국은행은 삼성전자와 SK하이닉스 종사자가 많은 경기 이천·화성·충북 청주 세 곳에서의 카드결제액을... 특히 자동차, 가전·가구, 백화점 등에서 고가물품을 중심으로 소비한 걸로 분석됐습니다. 한은은 해당...",
+          "src": "imnews",
           "date": "08/31",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481903",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481903_468468_1257_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001521103?sid=101",
+          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/31/sa_20260831_8.jpg"
         },
         {
-          "title": "AI·로봇 일상화 성큼…유럽 최대 가전전시회 IFA 9월 개막",
-          "desc": "AI·로봇·반도체 등 다양한 첨단 기술을 선보인다. 한국에서는 삼성전자와 LG전자를 비롯해 바디프랜드... 로보락, 에코백스, 드리미 등 중국 로봇청소기 업체들도 신제품을 공개하고 샤오미도 IFA에 처음 참가한다....",
-          "src": "연합뉴스",
+          "title": "“중국산 왕, 드디어 끌어내렸다”...로봇청소기 독주 끝낸 국산 비밀병...",
+          "desc": "삼성전자 로봇청소기 6~7월 평균점유율 50% 넘어 중국 로보락 30%대로 밀려나 보안·AS 앞세워 격차 뒤집어 중국 로보락이 수년간 주도해온 국내 로봇청소기 시장에서, 삼성전자가 두 달 연속 선두를 차지한 것으로...",
+          "src": "매일경제",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/001/0016279225?sid=105",
-          "img": "https://img2.yna.co.kr/photo/cms/2023/04/27/34/PCM20230427000134003_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005728047?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.2bd4d545c7c04a8889f2f6602014ed3e_R.jpg"
         },
         {
-          "title": "일상 속 AI부터 런웨이 걷는 로봇까지, IFA 2026 키워드는",
-          "desc": "AI는 최근 냉장고·세탁기·TV·청소기 등 주요 가전제품에 기본 기능으로 탑재되고 있다. 사용자의 생활... 삼성전자와 LG전자를 비롯해 국내 기업들이 대거 IFA에 참가해 AI 가전과 스마트홈, 로봇 등 미래 기술을...",
-          "src": "sidae",
+          "title": "IFA 2026, AI·로봇 품고 새판 짠다…中 기업 932곳 ‘역대 최대’",
+          "desc": "한국에서는 삼성전자와 LG전자를 비롯해 바디프랜드, 쿠쿠, 리벨리온, 퓨리오사AI, 하이퍼엑셀 등 79개 기업... 밀레는 AI 기반 식기세척기와 쿠킹 어시스턴트, 차세대 세탁기·의류건조기, 무선청소기 등을 선보일...",
+          "src": "디지털타임스",
           "date": "08/31",
-          "url": "https://n.news.naver.com/mnews/article/417/0001156810?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/28/00/2026082815111765435_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003045192?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/08/31/news-p.v1.20260831.7744154dbdf640edb656a54d196cc975_R.png"
         },
         {
-          "title": "코웨이 정수기, LG전자·브리타 제쳤다…8월 브랜드평판 1위",
-          "desc": "6위는 삼성전자 정수기였다. 이어 웰스, 현대큐밍, 퓨리얼, 세스코가 10위권에 포함됐다. 11위부터는... 정수기는 국내 가정에서 널리 사용되는 생활가전으로 자리 잡았다. 국내 시장은 역삼투압 방식과 직수형...",
-          "src": "핀포인트뉴스",
+          "title": "삼성전자, 웨딩 시즌 겨냥 '혼수 프로모션'…14개 업체와 손잡고 마케팅...",
+          "desc": "상당의 삼성전자 멤버십 포인트가 지급된다. 단, 1500만원 이상 결제와 AI 구독클럽 1건 이상 가입이 전제조건이다. 여기에 냉장고, 세탁기 등 혼수 인기 품목 14종에 대해서는 구매 금액대별로 최대 10만원의 포인트가...",
+          "src": "인더스트리뉴스",
           "date": "08/31",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481902",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481902_468467_57_v150.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85250",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202608/85250_105526_4533.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"메신저 넘어 공공 인프라로\"…카카오톡 행정 혁신, 日 학계서 주목",
-          "desc": "인공지능(AI) 국민비서와 체납 안내, 피싱 대응 등 공공 행정 서비스를 지원하는 디지털 접점으로 활용 영역을 넓히면서 해외 학계에서도 주목받고 있다. 31일 정보통신기술(ICT) 업계와 카카오에 따르면 전날 일본 도쿄...",
-          "src": "jnilbo",
+          "title": "“목적에 맞는 AI 전략 필요”…델, 데이터부터 인프라까지 전 과정 지...",
+          "desc": "델은 AI 프로젝트의 초기 단계부터 실제 운영까지 이어지는 전 과정을 지원한다. 현업 부서와 함께 AI 활용... 기업의 AI 도입을 더욱 촉진하고, 한국이 보유한 기술 리더십을 AI 리더십으로 확장하는 데 도움이 될 것”...",
+          "src": "전자신문",
           "date": "08/31",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060813",
-          "img": "https://cdn.jnilbo.com/news/photo/202608/90000060813_578736_3623.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003461936?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/08/30/news-p.v1.20260830.79533de848fc4376ba9fc3a4943e0b10_P3.jpg"
         },
         {
-          "title": "용혜인을 성평등가족부 장관으로, “왼쪽 품고 가야 한다”는 이재명의...",
-          "desc": "전기 철도에 쓸 수 있지만 잉여 전력 활용에 한계가 있다. 전력망 손실이 크다는 게 과제다. 오늘의 TMI.... AI 탐지 기술도 늘었다. 팡그램이나 GPT제로, 윈스턴AI, 카피리크스 등이 의심 텍스트를 넣으면 AI가 생성한...",
-          "src": "slownews",
+          "title": "저출생 해법, ‘지원사업 늘리기’ 넘어 AI로 정책 골라낸다",
+          "desc": "로봇을 활용한 고령자의 이동성 보완, AI와 사물인터넷(IoT)을 결합한 고령층 고립감 저감, 통합돌봄용 휴머노이드 도입 가능성 등을 제안했다. 특히 자율주행 기술을 고령자가 익숙한 지역사회에서 계속 생활하도록 돕는...",
+          "src": "브릿지경제",
           "date": "08/31",
-          "url": "https://slownews.kr/165640",
-          "img": "https://slownews.kr/wp-content/uploads/2026/08/747988331_3248912985497119_4207302499327391747_n.jpeg"
+          "url": "https://www.viva100.com/article/20260831500935",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831500926.jpg?v=20260831144023"
         },
         {
-          "title": "[가상화 ②] 비용 절감 넘어 '인프라 주권·AI 현대화'로",
-          "desc": "직접 활용할 수 있도록 지원하며, 엔비디아의 대규모 클라우드 서비스 인프라에 적용돼 성능을... 컨테이너화와 AI 네이티브 환경으로 전환해 나가는 것이다. 기술 진화에 대한 두려움을 내려놓는다면, 인프라 개편이...",
-          "src": "IT데일리",
+          "title": "주무열 서울시의원 “AI 활용 공공정책, 서울시가 허브로 기능해야”",
+          "desc": "서울시의회 기획경제위원회 주무열 의원(관악2, 더불어민주당)은 지난 27일 제339회 임시회 5분 자유발언을 통해 AI 기술을 공공정책에 적극 활용하고, 서울시가 각 자치구의 AI 실증 사업을 공모받아 성과를 검증...",
+          "src": "서울신문",
           "date": "08/31",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241276",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202608/241276_246887_2016_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003675069?sid=102",
+          "img": "https://imggo.seoul.co.kr/img/go_share.png"
         },
         {
-          "title": "“채용 때 AI 활용 능력 최우선 고려\"…자격증 유무·의사소통 능력 제...",
-          "desc": "생성형 AI 도입 후 기업들이 AI 인재 채용을 빠르게 늘려나가고 있다는 점도 주목된다. 31일 퍼블릭... 요건으로 ‘AI 기반 도구 활용 능력’을 꼽은 응답자의 비율은 35%로 가장 높았다. 다음은 ‘새로운 기술을...",
-          "src": "segyebiz",
+          "title": "“AI 기술에 사람 중심 케어를 더하다”… 두원공대 혁신지원사업, 전공...",
+          "desc": "모여 AI 기술 활용법과 교육 본연의 가치를 융합하는 자발적 연구 활동이 교내외의 큰 주목을 받고 있다.... 공학적 기술 역량과 보건 계열 특유의 인간 중심 케어 철학을 접목해, 수업 현장에 첨단 AI를 효과적으로 도입하...",
+          "src": "sports",
           "date": "08/31",
-          "url": "http://www.segyebiz.com/newsView/20260830510593?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/08/30/20260830510590.jpg"
+          "url": "https://n.news.naver.com/mnews/article/144/0001135045?sid=103",
+          "img": ""
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "어플라이드 \"반도체 장비 단기 공급 제한적\"",
+          "desc": "에픽은 장비사, 고객사, 협력사, 연구기관이 함께 공정 기술과 장비를 개발하는 협업 채널이다. 회사는 이... 박 대표는 삼성전자와 SK하이닉스가 에픽의 창립 파트너로 참여했다고 말했다. 그는 에픽 센터의 목적이...",
+          "src": "tokenpost",
+          "date": "08/31",
+          "url": "https://www.tokenpost.kr/news/tech/401047",
+          "img": "https://f1.tokenpost.kr/2026/08/l00i12jw9a.jpg"
+        },
         {
           "title": "[미리보는 이데일리 신문]스펙보다 프롬프트…대기업 채용 지각변동",
           "desc": "리모델링 삼성물산이 수주했다 -상반기 수도권 착공 6.5만가구 불과… “주택난 해결 태부족” △ AI시대 산업보국 앞장선 기업들 -충돌시험 분석 90%단축, 부품공급 AI 관리… 현대차그룹 AX 초가속 -협력사 인재까지 SW...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "08/28",
           "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358117",
           "img": "http://www.biztribune.co.kr/news/thumbnail/202608/358117_263443_935_v150.jpg"
-        },
-        {
-          "title": "SK하이닉스, 미국 HBM 후공정 거점 기공식… \"2029년 웨이퍼 韓서·도장...",
-          "desc": "엔비디아 등 미국 고객사와 퍼듀대를 비롯한 현지 대학, 미국 소재·부품사가 함께 차세대 패키지 기술을... 삼성전자는 연말 테일러 2기 팹 착공을 앞두고 협력사 설비 도입을 위한 인증을 선제적으로 진행하고...",
-          "src": "econovill",
-          "date": "08/28",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=749256",
-          "img": "https://cdn.econovill.com/news/thumbnail/202608/749256_724356_2437_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "8월 공기청정기 브랜드평판…삼성전자 1위, LG전자·코웨이 順",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481903",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481903_468468_1257_v150.jpg"
+      "title": "반도체 호황에 소비 진작‥수혜지역 소비 3.7% 높고, GDP 상승 효과",
+      "url": "https://n.news.naver.com/mnews/article/214/0001521103?sid=101",
+      "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/31/sa_20260831_8.jpg"
     },
     {
-      "title": "AI·로봇 일상화 성큼…유럽 최대 가전전시회 IFA 9월 개막",
-      "url": "https://n.news.naver.com/mnews/article/001/0016279225?sid=105",
-      "img": "https://img2.yna.co.kr/photo/cms/2023/04/27/34/PCM20230427000134003_P4.jpg"
+      "title": "“중국산 왕, 드디어 끌어내렸다”...로봇청소기 독주 끝낸 국산 비밀병...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728047?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.2bd4d545c7c04a8889f2f6602014ed3e_R.jpg"
     },
     {
-      "title": "일상 속 AI부터 런웨이 걷는 로봇까지, IFA 2026 키워드는",
-      "url": "https://n.news.naver.com/mnews/article/417/0001156810?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/08/28/00/2026082815111765435_1.jpg"
+      "title": "IFA 2026, AI·로봇 품고 새판 짠다…中 기업 932곳 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003045192?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/08/31/news-p.v1.20260831.7744154dbdf640edb656a54d196cc975_R.png"
     },
     {
-      "title": "코웨이 정수기, LG전자·브리타 제쳤다…8월 브랜드평판 1위",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481902",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481902_468467_57_v150.jpg"
+      "title": "삼성전자, 웨딩 시즌 겨냥 '혼수 프로모션'…14개 업체와 손잡고 마케팅...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85250",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202608/85250_105526_4533.jpg"
     },
     {
-      "title": "\"메신저 넘어 공공 인프라로\"…카카오톡 행정 혁신, 日 학계서 주목",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000060813",
-      "img": "https://cdn.jnilbo.com/news/photo/202608/90000060813_578736_3623.jpg"
+      "title": "“목적에 맞는 AI 전략 필요”…델, 데이터부터 인프라까지 전 과정 지...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461936?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/08/30/news-p.v1.20260830.79533de848fc4376ba9fc3a4943e0b10_P3.jpg"
     },
     {
-      "title": "용혜인을 성평등가족부 장관으로, “왼쪽 품고 가야 한다”는 이재명의...",
-      "url": "https://slownews.kr/165640",
-      "img": "https://slownews.kr/wp-content/uploads/2026/08/747988331_3248912985497119_4207302499327391747_n.jpeg"
+      "title": "저출생 해법, ‘지원사업 늘리기’ 넘어 AI로 정책 골라낸다",
+      "url": "https://www.viva100.com/article/20260831500935",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831500926.jpg?v=20260831144023"
     }
   ]
 };
