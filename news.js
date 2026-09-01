@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.02 (수) 06:04",
+  "updatedAt": "2026.09.02 (수) 07:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IFA 미리보기 ③] 中 900여곳 베를린 집결…가전 넘어 車·로봇까지 ‘...",
-          "desc": "샤오미 첫 참가…XPENG은 휴머노이드까지 유럽 가전시장 공략을 둘러싼 경쟁이 TV와 냉장고, 세탁기를 넘어 자동차와 로봇으로 번지고 있다. IFA 2026에는 삼성전자와 LG전자 등 한국 대표 기업뿐 아니라 중국 업체들이...",
-          "src": "디지털데일리",
+          "title": "[Who Is ?] 이병만 코스맥스 대표이사 부회장",
+          "desc": "△CES2023 혁신상 수상 코스맥스가 글로벌 최대 가전 전시회 CES에서 혁신상을 수상했다. 코스맥스는 2022년... '스스로 디자인해 만드는 나만의 화장품'을 콘셉트로, 삼성전자 사내벤처 프로그램 C랩 출신 기술기업...",
+          "src": "비즈니스포스트",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/138/0002239834?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/02/02/2026020209330686052_l.png"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445599",
+          "img": ""
         },
         {
           "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
         },
         {
-          "title": "\"삼성 가전 최대 540만원 할인\"…'역대급 세일' 또 열린다",
-          "desc": "가을 이사·혼수철을 맞아 삼성전자 가전을 여러 품목 함께 구매하면 최대 540만원을 할인받을 수 있는... 세탁건조기(세탁기 25kg, 건조기 20kg)' 등 행사상품을 2개 품목 이상 구매하면 구매 품목 수에 따라 최대...",
-          "src": "한국경제",
+          "title": "롯데하이마트, 이사·혼수철 가전 할인···최대 540만원 혜택",
+          "desc": "현대경제신문 전수연 기자 | 롯데하이마트가 가을 이사·혼수철을 맞아 삼성전자 가전을 중심으로... 'Neo QLED 8K TV(85형)', '비스포크 AI 패밀리허브 4도어 냉장고(861L)', '비스포크 AI 콤보 세탁건조기(세탁기 25kg...",
+          "src": "finomy",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/015/0005327660?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/01.45520132.1.jpg"
+          "url": "http://www.finomy.com/news/articleView.html?idxno=260564",
+          "img": "https://cdn.finomy.com/news/thumbnail/202609/260564_255487_2221_v150.jpg"
         },
         {
-          "title": "롯데하이마트, 삼성전자 가전 중심 대규모 할인 행사 진행",
-          "desc": "롯데하이마트가 삼성전자 이사·혼수 가전 중심으로 9월 한 달간 전국 오프라인 매장에서 '하이라이트... 이사, 혼수 시 다양한 품목을 동시 구매하는 고객 특성을 고려해, 상품 할인 외에도 TV, 냉장고, 세탁기 등...",
-          "src": "연합뉴스",
+          "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
+          "desc": "한국을 대표하는 삼성전자와 LG전자부터 중국 하이얼·하이센스·TCL·샤오미, 독일 밀레·보쉬까지... 냉장고와 세탁기 등 개별 제품에 AI를 적용하는 단계를 넘어 집 안의 가전과 서비스를 하나로 연결하는 'AI홈...",
+          "src": "nocutnews",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/001/0016284039?sid=101",
-          "img": "https://img4.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090118440001300_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004184934?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/01/202609011612583737_0.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "K-AI 신약 모델 'K-Fold’, 속도·정확도 모두 잡았다",
-          "desc": "구글 딥마인드의 '알파폴드3(AlphaFold 3)'가 지닌 태생적 한계를 기술적으로 극복하며, 신약 R&D 현장의... 쉽게 활용할 수 있도록 상용화 인프라도 구축되었다. 히츠는 독자 개발한 K-Fold 모델을 자사의 웹 기반 AI...",
-          "src": "yakup",
+          "title": "[Who Is ?] 이병만 코스맥스 대표이사 부회장",
+          "desc": "코스맥스는 2026년 7월 일본 미용시장에 인공지능(AI)을 활용한 맞춤형 화장품 처방 기술을 적용한다고... 코스맥스에 따르면 2026년 2월 ISO 23675 평가법을 도입한 뒤 관련 시험 기반을 구축해왔다. 선케어는 코스맥스의...",
+          "src": "비즈니스포스트",
           "date": "09/02",
-          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331928",
-          "img": "https://www.yakup.com/data/editor/news/202609/DXIelKJhLsvg1W6AwuNVOcS.png"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445599",
+          "img": ""
         },
         {
-          "title": "420일→240일…식약처, ‘다인 병렬심사+AI 보조’로 신약 허가체계 바꾼...",
-          "desc": "인력을 활용해 안전성·유효성과 품질 등 여러 분야가 동시에 자료를 검토하는 병렬심사를 실시한다.GBC... 계획이다.AI 도입은 240일 허가심사 체계와도 연결된다.권 연구관은 식약처의 심사자 수와 품목당 투입 인력이...",
-          "src": "yakup",
+          "title": "\"유방·갑상선암 치료는 시간 싸움… 빠른 진단·수술로 불안 덜어\"",
+          "desc": "경우에는 AI 영상판독 보조시스템을 활용한다. 최종 진단은 전문의가 내린다. 대림성모병원은 지난 6월까지... 보건복지부는 2007년 양성 결절, 2017년 고위험 재발 갑상선암에 대한 갑상선 고주파절제술을 신의료기술로...",
+          "src": "조선일보",
           "date": "09/02",
-          "url": "https://www.yakup.com/news/index.html?mode=view&cat=11&nid=331922",
-          "img": "https://www.yakup.com/data/editor/news/202609/mTqM2HYUv6mHfXAXqk2ke6kg.jpg"
+          "url": "https://n.news.naver.com/mnews/article/346/0000115312?sid=103",
+          "img": "https://health.chosun.com/site/data/img_dir/2026/09/01/2026090102752_0.jpg"
         },
         {
-          "title": "[성균관대②] 인공지능학과 신설 … 'AI-Native' 인재 20명 뽑는다 [2027 ...",
-          "desc": "인공지능학과는 AI 기술을 단순히 활용하는 데 그치지 않고 직접 설계·창출할 수 있는 ‘AI 네이티브(AI... ◇‘지역의사’ 의예과 3명 선발 … 전형 간 중복지원 허용 지역의사선발전형 도입에 따라 학종(성균인재...",
-          "src": "biz",
+          "title": "AI·로봇 기술 원하는 중소기업 모여라…기보, ‘테크 브릿지’ 개최",
+          "desc": "이번 행사는 대학·연구소가 보유한 AI·첨단로봇 분야의 우수 기술을 선별해 기술 도입을 희망하는... 사업화 유망기술 발표 세션에서는 총 6개의 기술을 소개한다. 기술 보유 연구자가 직접 기술의 특징과 활용 가능성을...",
+          "src": "서울경제",
           "date": "09/02",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100389.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/09/01/2026090100389_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004657643?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/01/news-p.v1.20260901.36d4d53e97dc489394db39bd4dc661cd_R.jpg"
         },
         {
-          "title": "‘AI 컴퍼니’ 내건 통신 3사…“내부 혁신해야 밖에서도 팔린다” [베...",
-          "desc": "그러나 중요한 것은 AI를 상품으로 내놓는 일 못지않게 내부 운영에 AI를 도입하는 ‘운영 혁신’도 함께... 설비·시스템·계약, 해외 통신사가 먼저 손댄 세 곳 해외 주요 통신사의 AI 활용에는 공통된 순서가 있다. 새...",
-          "src": "한국경제",
+          "title": "[크래프톤 AI 전환기] ②적용 '경량'·연구 '대형'…AI 전략 이원화",
+          "desc": "자체 AI 모델 브랜드 'Raon'을 소개하며 파인튜닝(미세 조정)을 기반으로 게임별 AI 도입을 최적화해 비용과... 이들 기술을 향후 게임과 피지컬 AI에 활용한다는 계획이다. 게임 적용용 소형모델과 연구용 대형모델이...",
+          "src": "fetv",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/050/0000110360?sid=101",
-          "img": "https://static.hankyung.com/photo/202608/AD.45407481.1.jpg"
+          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309448",
+          "img": "https://cdn.fetv.co.kr/news/photo/202609/309448_309162_1937.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[THE Biz&CEO] 장덕현 삼성전기 사장의 '미래 프로젝트'",
+          "desc": "◆서버·자동차 시장으로 체질 개선 삼성전자 메모리 및 시스템LSI 사업부를 두루 거치며 '반도체 통찰력... 그 결과 현대차·기아의 1차 협력사로 진입한 데 이어, 까다로운 검증을 뚫고 미국 대형 전기차 제조사...",
+          "src": "the-biz",
+          "date": "09/02",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727114",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727114_932097_5836.jpg"
+        },
         {
           "title": "9월 1주 주요 제조업 전망",
           "desc": "현대차·기아, 부품 협력사 AX 지원 위한 'AI 특화 공동훈련센터' 개소 - 현대차·기아가 협력사 전용 교육... 경우 삼성전자·LG전자 등 국내 완제품 제조사와 반도체 부품 공급망 전반에 영향이 미칠 전망임. 다만...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/01",
           "url": "https://n.news.naver.com/mnews/article/092/0002435819?sid=105",
           "img": "https://image.zdnet.co.kr/2026/09/01/b1b04e86baf5a36700e0d5f2fc219877.png"
-        },
-        {
-          "title": "삼성전자·SK하이닉스·마이크론 첨단 D램·HBM 투자에 소부장도 '릴레이...",
-          "desc": "삼성전자·SK하이닉스·마이크론 등 주요 메모리 3사의 첨단 D램 및 고대역폭메모리(HBM) 투자 확대가 주요 소재·부품·장비(소부장) 협력사들의 잇따른 생산능력(캐파) 증설로 이어지고 있다. 실제 HBM 제조를 위한 첨단...",
-          "src": "sisajournal-e",
-          "date": "09/01",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423432",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423432_239165_2158_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[IFA 미리보기 ③] 中 900여곳 베를린 집결…가전 넘어 車·로봇까지 ‘...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239834?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/02/02/2026020209330686052_l.png"
-    },
-    {
       "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
       "url": "https://www.ziksir.com/news/articleView.html?idxno=144962",
       "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
     },
     {
-      "title": "\"삼성 가전 최대 540만원 할인\"…'역대급 세일' 또 열린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327660?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/01.45520132.1.jpg"
+      "title": "롯데하이마트, 이사·혼수철 가전 할인···최대 540만원 혜택",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=260564",
+      "img": "https://cdn.finomy.com/news/thumbnail/202609/260564_255487_2221_v150.jpg"
     },
     {
-      "title": "롯데하이마트, 삼성전자 가전 중심 대규모 할인 행사 진행",
-      "url": "https://n.news.naver.com/mnews/article/001/0016284039?sid=101",
-      "img": "https://img4.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090118440001300_P4.jpg"
+      "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
+      "url": "https://n.news.naver.com/mnews/article/079/0004184934?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/01/202609011612583737_0.jpg"
     },
     {
-      "title": "K-AI 신약 모델 'K-Fold’, 속도·정확도 모두 잡았다",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331928",
-      "img": "https://www.yakup.com/data/editor/news/202609/DXIelKJhLsvg1W6AwuNVOcS.png"
+      "title": "\"유방·갑상선암 치료는 시간 싸움… 빠른 진단·수술로 불안 덜어\"",
+      "url": "https://n.news.naver.com/mnews/article/346/0000115312?sid=103",
+      "img": "https://health.chosun.com/site/data/img_dir/2026/09/01/2026090102752_0.jpg"
     },
     {
-      "title": "420일→240일…식약처, ‘다인 병렬심사+AI 보조’로 신약 허가체계 바꾼...",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=11&nid=331922",
-      "img": "https://www.yakup.com/data/editor/news/202609/mTqM2HYUv6mHfXAXqk2ke6kg.jpg"
+      "title": "AI·로봇 기술 원하는 중소기업 모여라…기보, ‘테크 브릿지’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657643?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/01/news-p.v1.20260901.36d4d53e97dc489394db39bd4dc661cd_R.jpg"
+    },
+    {
+      "title": "[크래프톤 AI 전환기] ②적용 '경량'·연구 '대형'…AI 전략 이원화",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309448",
+      "img": "https://cdn.fetv.co.kr/news/photo/202609/309448_309162_1937.png"
     }
   ]
 };
