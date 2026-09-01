@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.01 (화) 20:42",
+  "updatedAt": "2026.09.02 (수) 01:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[MD라이프] 무신사, 日 하라주쿠 팝업 흥행…73개 브랜드 거래액 3배 ↑",
-          "desc": "삼성전자, LG전자, 네파 등 11개 브랜드가 참여해 매일 새로운 특가 상품을 내놓는다. 시간대별로 상품을 한정 수량 판매하는 ‘타임딜’도 운영한다. 행사에서는 가전과 먹거리, 패션·뷰티 상품 등을 최대 55% 할인...",
-          "src": "mydaily",
-          "date": "09/01",
-          "url": "https://n.news.naver.com/mnews/article/117/0004100580?sid=103",
-          "img": "https://mydaily.co.kr/photos/2026/09/01/2026090120084889983_l.png"
+          "title": "中가전회사,\"미니LED'허위광고\"주장하며 삼성에 소송",
+          "desc": "중국의 가전제품 회사 TCL은 한국의 삼성전자를 상대로 일부 텔레비전에 ‘미니LED’기술을 사용했다는 허위 광고를 했다며 로스엔젤레스 연방 법원에 소송을 제기했다. 1일(현지시간) 로이터통신에 따르면...",
+          "src": "한국경제",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/015/0005327579?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AD.44961556.1.jpg"
         },
         {
           "title": "'가성비' 앞세운 中 웨어러블 공세…삼성전자, AI 헬스케어로 맞불",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.ftoday.co.kr/news/thumbnail/202609/364587_373729_3453_v150.jpg"
         },
         {
-          "title": "삼성전자, 이달부터 '스마트가전 캐시백' 시범사업 운영…시간당 최대 ...",
-          "desc": "삼성전자는 스마트싱스 앱의 예약 기능으로 주말 오전에 세탁기나 건조기가 작동하도록 미리 설정해두면 번거롭게 신경 쓰지 않아도 전기요금 캐시백 혜택을 챙길 수 있다는 설명이다. 자세한 신청 방법과 혜택은...",
-          "src": "thepublic",
+          "title": "[삼성전자] 디자인 마이애미 참가 / 갤럭시 북6 신모델 / 스마트가전 캐...",
+          "desc": "◼︎ 삼성전자, '디자인 마이애미 서울'서 인간 중심 디자인 제시 삼성전자는 1일부터 6일까지 서울... 참여 고객이 주말과 공휴일 오전 11시부터 오후 2시 사이 세탁기, 건조기, 식기세척기, 의류관리기 등 대상 가전을...",
+          "src": "webeconomy",
           "date": "09/01",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317150",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/317150_320528_2223.jpg"
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286340",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2286340_1095665_1720.jpg"
         },
         {
-          "title": "IFA 2026 관전포인트, 350조원 유럽 가전시장 놓고 한중 격돌",
-          "desc": "스웨덴 일렉트로룩스는 올 연말까지 헝가리 야스베레니 냉장고 공장을 폐쇄하기로 했다. 보쉬·지멘스... 사진='IFA 2025'에서 삼성전자 전시관에서 삼성전자 모델이 'AI 홈 리빙' 존을 소개하고 있다. 한국 기업들의...",
-          "src": "dailypop",
+          "title": "9월 1주 주요 제조업 전망",
+          "desc": "냉장고·세탁기 등 가전제품 외장을 제조하는 데 쓰이는 범용 제품임. 미국은 포스코와 현대제철이 우리... 있으며, 삼성전자와 삼성SDI, SK 등 후속 첨단산업 투자 유치에도 속도를 낼 방침임 □ 트럼프 행정부...",
+          "src": "laborplus",
           "date": "09/01",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=102108",
-          "img": "http://www.dailypop.kr/news/thumbnail/202608/102108_169491_3429_v150.jpg"
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "포항시, 부산과 함께 해상 자율운항·무인구조 실증 협력",
-          "desc": "광역연계형 규제자유특구는 정부가 올해 국정과제로 처음 도입한 제도다. 단일 지역과 개별 기술을... 부산에서는 항만과 마리나, 해수욕장 등을 활용해 AI 기반 해상객체 인식과 무인장비를 이용한 안전 모니터링 기술의...",
-          "src": "ksmnews",
-          "date": "09/01",
-          "url": "https://www.ksmnews.co.kr/news/view.php?idx=620064",
-          "img": "https://www.ksmnews.co.kr/data/newsData/1788247418.jpg"
+          "title": "호주, AI 기반 국가 자동화 플랫폼 구축…로봇 도입 격차 해소 나선다",
+          "desc": "호주가 제조업의 로봇·자동화 도입을 촉진하기 위한 국가 차원의 플랫폼 구축에 나선다. 호주 로봇... 수요를 AI를 활용해 구체적인 프로젝트로 정의하고, 실제 프로젝트 데이터를 바탕으로 비용과 기술적 타당성을...",
+          "src": "irobotnews",
+          "date": "09/02",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48249",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48249_103451_428.png"
         },
         {
-          "title": "[2027 예산] 원안위 3030억 편성... SMR 규제기술 연구 가속화",
-          "desc": "원자력안전위원회가 내년도 예산을 활용해 소형모듈원자로(SMR) 상용화에 대비한 규제체계를 구축하는데... (48억원)하고, AI 검색 기능을 도입한 정보공유포털을 가동한다. 대전 한국원자력안전기술원(KINS) 내에는...",
-          "src": "브릿지경제",
-          "date": "09/01",
-          "url": "https://www.viva100.com/article/20260901501532",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/01/.cache/512/20260901501530.jpg?v=20260901204215"
+          "title": "부산이 바뀐다…국비·AI·해양신산업으로 '도시 대전환' 가속",
+          "desc": "시는 여기에 AI 기술을 결합한다. 내년 상반기 시범운영을 거쳐 하반기 전면 도입을 목표로 야간·휴일 민원... 부산은 조선·해양·ICT 산업과 항만·마리나 등 현장 인프라를 활용해 AI 해상 객체 인식, 위험 판단, 연안...",
+          "src": "인더스트리뉴스",
+          "date": "09/02",
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85348",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202609/85348_105654_4626.jpg"
         },
         {
-          "title": "820조 슈퍼예산…'TK 홀대' 안된다",
-          "desc": "활용해 인공지능(AI)과 첨단산업, 청년, 지방 등에 대한 투자를 대폭 늘리는 한편 162조3000억 원 규모의 미래대응기금을 신설해 미래 성장과 재정 안정에 동시에 대응한다는 구상이다. 특히 지방우대 원칙을 도입하기...",
-          "src": "kyongbuk",
-          "date": "09/01",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082872",
-          "img": "https://cdn.kyongbuk.co.kr/news/photo/202609/4082872_819086_3134.jpg"
+          "title": "울산 '국비 3조 시대' 열렸다",
+          "desc": "로봇 도입과 AX 전환을 지원하는 내용이다. 내년부터 선도사업으로 추진한 후 향후 확장해 나갈 계획이다. 조선산업 인공지능 파운데이션 모델과 특화 응용기술을 개발하는 '초거대산업 AI 연구지원사업'에는...",
+          "src": "ksilbo",
+          "date": "09/02",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066102",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202609/1066102_644717_4732_v150.jpg"
         },
         {
-          "title": "카메라 달고 달렸더니…AI가 '통신 마비 위험' 사전 감지",
-          "desc": "이 때문에 최근 미국과 일본에서도 통신망 안전 점검에 AI 기술을 속속 도입하고 있습니다. 국내에서는 고속도로 터널 내 설비 점검 등 초고위험 작업에도 AI 기술을 적극 활용해 나갈 계획입니다. MBN뉴스 김종민입니다....",
-          "src": "MBN",
+          "title": "생명의전화 50년, 이제는 지역사회 전체를 '생명안전망'으로",
+          "desc": "인증체계 도입 등을 추진할 예정이다. 디지털 기술을 활용한 새로운 예방 모델도 주요 과제로 제시됐다. AI를 활용해 초기 위기 징후를 선별하고, 디지털 기반 사례관리 등을 통해 도움이 필요한 사람을 보다 신속하게...",
+          "src": "ngonews",
           "date": "09/01",
-          "url": "https://n.news.naver.com/mnews/article/057/0001966739?sid=101",
-          "img": "http://img.vod.mbn.co.kr/vod2/552/2026/09/01/20260901201033_20_552_1427998_1080_7.jpg"
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=236957",
+          "img": "https://cdn.ngonews.kr/news/photo/202609/236957_241338_2436.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "9월 1주 주요 제조업 전망",
+          "desc": "현대차·기아, 부품 협력사 AX 지원 위한 'AI 특화 공동훈련센터' 개소 - 현대차·기아가 협력사 전용 교육... 경우 삼성전자·LG전자 등 국내 완제품 제조사와 반도체 부품 공급망 전반에 영향이 미칠 전망임. 다만...",
+          "src": "laborplus",
+          "date": "09/01",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
+        },
         {
           "title": "[분석] 노사비용 오르면 답은 로봇?···노란봉투법과 자동화 가속의 함...",
           "desc": "과거 자동화하기 어려웠던 물류와 부품 분류, 중량물 운반, 일부 조립 작업까지 기계로 대체할 수 있는... 당시 파업이 18일간 이어질 경우 삼성전자 자체 생산손실이 30조원, 협력사와 공급망 등 간접피해까지 포함하면...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/01",
           "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423432",
           "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423432_239165_2158_v150.jpg"
-        },
-        {
-          "title": "[더벨]삼성전자, 원가 상승 정면돌파 '모바일 공급망 재편'",
-          "desc": "MX사업부의 경우 '메이드 인 삼성' 부품을 대거 활용하고 있다. 삼성전자 메모리 및 AP, 삼성디스플레이... 복수의 협력사를 대상으로 꾸준하게 단가 인하를 추진해왔으나 이번 원가 파동 여파는 피할 수 없었다는...",
-          "src": "더벨",
-          "date": "09/01",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608271616414840101829",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[MD라이프] 무신사, 日 하라주쿠 팝업 흥행…73개 브랜드 거래액 3배 ↑",
-      "url": "https://n.news.naver.com/mnews/article/117/0004100580?sid=103",
-      "img": "https://mydaily.co.kr/photos/2026/09/01/2026090120084889983_l.png"
+      "title": "中가전회사,\"미니LED'허위광고\"주장하며 삼성에 소송",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327579?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/AD.44961556.1.jpg"
     },
     {
       "title": "'가성비' 앞세운 中 웨어러블 공세…삼성전자, AI 헬스케어로 맞불",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202609/364587_373729_3453_v150.jpg"
     },
     {
-      "title": "삼성전자, 이달부터 '스마트가전 캐시백' 시범사업 운영…시간당 최대 ...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317150",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/317150_320528_2223.jpg"
+      "title": "[삼성전자] 디자인 마이애미 참가 / 갤럭시 북6 신모델 / 스마트가전 캐...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286340",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2286340_1095665_1720.jpg"
     },
     {
-      "title": "IFA 2026 관전포인트, 350조원 유럽 가전시장 놓고 한중 격돌",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=102108",
-      "img": "http://www.dailypop.kr/news/thumbnail/202608/102108_169491_3429_v150.jpg"
+      "title": "9월 1주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
     },
     {
-      "title": "포항시, 부산과 함께 해상 자율운항·무인구조 실증 협력",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=620064",
-      "img": "https://www.ksmnews.co.kr/data/newsData/1788247418.jpg"
+      "title": "호주, AI 기반 국가 자동화 플랫폼 구축…로봇 도입 격차 해소 나선다",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48249",
+      "img": "https://cdn.irobotnews.com/news/photo/202609/48249_103451_428.png"
     },
     {
-      "title": "[2027 예산] 원안위 3030억 편성... SMR 규제기술 연구 가속화",
-      "url": "https://www.viva100.com/article/20260901501532",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/01/.cache/512/20260901501530.jpg?v=20260901204215"
+      "title": "부산이 바뀐다…국비·AI·해양신산업으로 '도시 대전환' 가속",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85348",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202609/85348_105654_4626.jpg"
     }
   ]
 };
