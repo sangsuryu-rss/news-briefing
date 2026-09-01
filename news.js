@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.02 (수) 01:42",
+  "updatedAt": "2026.09.02 (수) 06:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "中가전회사,\"미니LED'허위광고\"주장하며 삼성에 소송",
-          "desc": "중국의 가전제품 회사 TCL은 한국의 삼성전자를 상대로 일부 텔레비전에 ‘미니LED’기술을 사용했다는 허위 광고를 했다며 로스엔젤레스 연방 법원에 소송을 제기했다. 1일(현지시간) 로이터통신에 따르면...",
+          "title": "[IFA 미리보기 ③] 中 900여곳 베를린 집결…가전 넘어 車·로봇까지 ‘...",
+          "desc": "샤오미 첫 참가…XPENG은 휴머노이드까지 유럽 가전시장 공략을 둘러싼 경쟁이 TV와 냉장고, 세탁기를 넘어 자동차와 로봇으로 번지고 있다. IFA 2026에는 삼성전자와 LG전자 등 한국 대표 기업뿐 아니라 중국 업체들이...",
+          "src": "디지털데일리",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/138/0002239834?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/02/02/2026020209330686052_l.png"
+        },
+        {
+          "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
+          "desc": "지난 4월 이탈리아 밀라노에서 열린 삼성전자 가전 기술 세미나에서 참석자들이 '비스포크 AI 식기세척기'를... 로보락과 에코백스, 드리미 등 중국 로봇청소기 업체들도 유럽 시장에서 신제품과 고가 제품을 잇달아...",
+          "src": "ziksir",
+          "date": "09/02",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=144962",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
+        },
+        {
+          "title": "\"삼성 가전 최대 540만원 할인\"…'역대급 세일' 또 열린다",
+          "desc": "가을 이사·혼수철을 맞아 삼성전자 가전을 여러 품목 함께 구매하면 최대 540만원을 할인받을 수 있는... 세탁건조기(세탁기 25kg, 건조기 20kg)' 등 행사상품을 2개 품목 이상 구매하면 구매 품목 수에 따라 최대...",
           "src": "한국경제",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/015/0005327579?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/AD.44961556.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005327660?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/01.45520132.1.jpg"
         },
         {
-          "title": "'가성비' 앞세운 中 웨어러블 공세…삼성전자, AI 헬스케어로 맞불",
-          "desc": "로봇청소기 시장을 선점한 중국 가전·IT 기업들이 스마트워치와 스마트밴드 등 웨어러블 시장에서도... 반면 글로벌 스마트워치 시장에서 출하량 감소와 점유율 하락을 겪고 있는 삼성전자는 헬스케어 고도화와 폼팩터...",
-          "src": "F투데이",
-          "date": "09/01",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364587",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202609/364587_373729_3453_v150.jpg"
-        },
-        {
-          "title": "[삼성전자] 디자인 마이애미 참가 / 갤럭시 북6 신모델 / 스마트가전 캐...",
-          "desc": "◼︎ 삼성전자, '디자인 마이애미 서울'서 인간 중심 디자인 제시 삼성전자는 1일부터 6일까지 서울... 참여 고객이 주말과 공휴일 오전 11시부터 오후 2시 사이 세탁기, 건조기, 식기세척기, 의류관리기 등 대상 가전을...",
-          "src": "webeconomy",
-          "date": "09/01",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286340",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2286340_1095665_1720.jpg"
-        },
-        {
-          "title": "9월 1주 주요 제조업 전망",
-          "desc": "냉장고·세탁기 등 가전제품 외장을 제조하는 데 쓰이는 범용 제품임. 미국은 포스코와 현대제철이 우리... 있으며, 삼성전자와 삼성SDI, SK 등 후속 첨단산업 투자 유치에도 속도를 낼 방침임 □ 트럼프 행정부...",
-          "src": "laborplus",
-          "date": "09/01",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
+          "title": "롯데하이마트, 삼성전자 가전 중심 대규모 할인 행사 진행",
+          "desc": "롯데하이마트가 삼성전자 이사·혼수 가전 중심으로 9월 한 달간 전국 오프라인 매장에서 '하이라이트... 이사, 혼수 시 다양한 품목을 동시 구매하는 고객 특성을 고려해, 상품 할인 외에도 TV, 냉장고, 세탁기 등...",
+          "src": "연합뉴스",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/001/0016284039?sid=101",
+          "img": "https://img4.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090118440001300_P4.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "호주, AI 기반 국가 자동화 플랫폼 구축…로봇 도입 격차 해소 나선다",
-          "desc": "호주가 제조업의 로봇·자동화 도입을 촉진하기 위한 국가 차원의 플랫폼 구축에 나선다. 호주 로봇... 수요를 AI를 활용해 구체적인 프로젝트로 정의하고, 실제 프로젝트 데이터를 바탕으로 비용과 기술적 타당성을...",
-          "src": "irobotnews",
+          "title": "K-AI 신약 모델 'K-Fold’, 속도·정확도 모두 잡았다",
+          "desc": "구글 딥마인드의 '알파폴드3(AlphaFold 3)'가 지닌 태생적 한계를 기술적으로 극복하며, 신약 R&D 현장의... 쉽게 활용할 수 있도록 상용화 인프라도 구축되었다. 히츠는 독자 개발한 K-Fold 모델을 자사의 웹 기반 AI...",
+          "src": "yakup",
           "date": "09/02",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48249",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48249_103451_428.png"
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331928",
+          "img": "https://www.yakup.com/data/editor/news/202609/DXIelKJhLsvg1W6AwuNVOcS.png"
         },
         {
-          "title": "부산이 바뀐다…국비·AI·해양신산업으로 '도시 대전환' 가속",
-          "desc": "시는 여기에 AI 기술을 결합한다. 내년 상반기 시범운영을 거쳐 하반기 전면 도입을 목표로 야간·휴일 민원... 부산은 조선·해양·ICT 산업과 항만·마리나 등 현장 인프라를 활용해 AI 해상 객체 인식, 위험 판단, 연안...",
-          "src": "인더스트리뉴스",
+          "title": "420일→240일…식약처, ‘다인 병렬심사+AI 보조’로 신약 허가체계 바꾼...",
+          "desc": "인력을 활용해 안전성·유효성과 품질 등 여러 분야가 동시에 자료를 검토하는 병렬심사를 실시한다.GBC... 계획이다.AI 도입은 240일 허가심사 체계와도 연결된다.권 연구관은 식약처의 심사자 수와 품목당 투입 인력이...",
+          "src": "yakup",
           "date": "09/02",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85348",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202609/85348_105654_4626.jpg"
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=11&nid=331922",
+          "img": "https://www.yakup.com/data/editor/news/202609/mTqM2HYUv6mHfXAXqk2ke6kg.jpg"
         },
         {
-          "title": "울산 '국비 3조 시대' 열렸다",
-          "desc": "로봇 도입과 AX 전환을 지원하는 내용이다. 내년부터 선도사업으로 추진한 후 향후 확장해 나갈 계획이다. 조선산업 인공지능 파운데이션 모델과 특화 응용기술을 개발하는 '초거대산업 AI 연구지원사업'에는...",
-          "src": "ksilbo",
+          "title": "[성균관대②] 인공지능학과 신설 … 'AI-Native' 인재 20명 뽑는다 [2027 ...",
+          "desc": "인공지능학과는 AI 기술을 단순히 활용하는 데 그치지 않고 직접 설계·창출할 수 있는 ‘AI 네이티브(AI... ◇‘지역의사’ 의예과 3명 선발 … 전형 간 중복지원 허용 지역의사선발전형 도입에 따라 학종(성균인재...",
+          "src": "biz",
           "date": "09/02",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066102",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202609/1066102_644717_4732_v150.jpg"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100389.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/09/01/2026090100389_0.jpg"
         },
         {
-          "title": "생명의전화 50년, 이제는 지역사회 전체를 '생명안전망'으로",
-          "desc": "인증체계 도입 등을 추진할 예정이다. 디지털 기술을 활용한 새로운 예방 모델도 주요 과제로 제시됐다. AI를 활용해 초기 위기 징후를 선별하고, 디지털 기반 사례관리 등을 통해 도움이 필요한 사람을 보다 신속하게...",
-          "src": "ngonews",
-          "date": "09/01",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=236957",
-          "img": "https://cdn.ngonews.kr/news/photo/202609/236957_241338_2436.jpg"
+          "title": "‘AI 컴퍼니’ 내건 통신 3사…“내부 혁신해야 밖에서도 팔린다” [베...",
+          "desc": "그러나 중요한 것은 AI를 상품으로 내놓는 일 못지않게 내부 운영에 AI를 도입하는 ‘운영 혁신’도 함께... 설비·시스템·계약, 해외 통신사가 먼저 손댄 세 곳 해외 주요 통신사의 AI 활용에는 공통된 순서가 있다. 새...",
+          "src": "한국경제",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/050/0000110360?sid=101",
+          "img": "https://static.hankyung.com/photo/202608/AD.45407481.1.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "中가전회사,\"미니LED'허위광고\"주장하며 삼성에 소송",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327579?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/AD.44961556.1.jpg"
+      "title": "[IFA 미리보기 ③] 中 900여곳 베를린 집결…가전 넘어 車·로봇까지 ‘...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002239834?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/02/02/2026020209330686052_l.png"
     },
     {
-      "title": "'가성비' 앞세운 中 웨어러블 공세…삼성전자, AI 헬스케어로 맞불",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364587",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202609/364587_373729_3453_v150.jpg"
+      "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=144962",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
     },
     {
-      "title": "[삼성전자] 디자인 마이애미 참가 / 갤럭시 북6 신모델 / 스마트가전 캐...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286340",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2286340_1095665_1720.jpg"
+      "title": "\"삼성 가전 최대 540만원 할인\"…'역대급 세일' 또 열린다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327660?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/01.45520132.1.jpg"
     },
     {
-      "title": "9월 1주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
+      "title": "롯데하이마트, 삼성전자 가전 중심 대규모 할인 행사 진행",
+      "url": "https://n.news.naver.com/mnews/article/001/0016284039?sid=101",
+      "img": "https://img4.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090118440001300_P4.jpg"
     },
     {
-      "title": "호주, AI 기반 국가 자동화 플랫폼 구축…로봇 도입 격차 해소 나선다",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48249",
-      "img": "https://cdn.irobotnews.com/news/photo/202609/48249_103451_428.png"
+      "title": "K-AI 신약 모델 'K-Fold’, 속도·정확도 모두 잡았다",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=331928",
+      "img": "https://www.yakup.com/data/editor/news/202609/DXIelKJhLsvg1W6AwuNVOcS.png"
     },
     {
-      "title": "부산이 바뀐다…국비·AI·해양신산업으로 '도시 대전환' 가속",
-      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=85348",
-      "img": "https://cdn.industrynews.co.kr/news/photo/202609/85348_105654_4626.jpg"
+      "title": "420일→240일…식약처, ‘다인 병렬심사+AI 보조’로 신약 허가체계 바꾼...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=11&nid=331922",
+      "img": "https://www.yakup.com/data/editor/news/202609/mTqM2HYUv6mHfXAXqk2ke6kg.jpg"
     }
   ]
 };
