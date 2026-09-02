@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.02 (수) 20:22",
+  "updatedAt": "2026.09.03 (목) 01:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "75만원짜리 전동 칫솔까지...가전 공룡들, ‘틈새 소형 가전’ 러시",
-          "desc": "TVㆍ냉장고 등 전통 대형 가전 시장이 포화 상태에 이르자 글로벌 가전업체들이 틈새 소형가전으로 눈을... 삼성전자는 의류관리기 ‘에어드레서’의 탈취ㆍ제균 노하우를 집약해 신발관리기 ‘비스포크 슈드레서’를...",
+          "title": "中 로봇의 공습… 가전 전시장 ‘런웨이’ 휩쓴다",
+          "desc": "삼성전자는 IFA 개막보다 이른 2일 ‘당신의 인공지능(AI) 일상 동반자’를 주제로 별도 전시관 문을 연다. 냉장고·세탁기·TV 등 가전뿐 아니라 스마트폰과 스마트워치까지 AI로 연결해 여가·건강 관리부터 에너지...",
+          "src": "조선일보",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996356?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/7JOZFW7URVI5BGJPLNG25LH57M.jpg?auth=2ffaba02dcaa4f4ee368892966c11c2ed7bb2a405807d5e091fa950629292b9b&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "주말 낮 세탁기 돌리면 캐시백… 한전 '스마트가전 캐시백' 진행",
+          "desc": "적용 시간대는 주말·공휴일 오전 11시부터 오후 2시까지이며 대상은 삼성전자와 LG전자의 세탁기, 건조기, 식기세척기, 의류관리기 등 스마트가전 4종이다. 가전사 플랫폼을 통해 확인된 지정 시간대 전기사용량을...",
+          "src": "newscj",
+          "date": "09/02",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3429674",
+          "img": "https://cdn.newscj.com/news/thumbnail/202609/3429674_3544324_558_v150.jpg"
+        },
+        {
+          "title": "IFA, 올해 화두는 로봇… 삼성-LG, 고효율-AI가전으로 맞불",
+          "desc": "중국에서 역대 가장 많은 932개 기업이 참가해 전체 참가 브랜드의 절반 가까이를 메우고, 삼성전자와 LG전자는 유럽 시장을 겨냥한 고효율·인공지능(AI) 가전으로 맞선다. 2일 IFA 매니지먼트에 따르면 IFA 2026은 4일...",
+          "src": "동아일보",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745306?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/02/134593393.4.jpg"
+        },
+        {
+          "title": "소형 가전 시장이 커진다",
+          "desc": "그간 무선청소기와 로봇청소기 개발을 통해 축적한 초소형 모터, 유체역학, 카메라 머신러닝 기술을 집약했다는 게 회사 측의 설명이다. 삼성전자는 의류관리기 ‘에어드레서’의 탈취·제균 노하우를 집약해...",
           "src": "중앙일보",
-          "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/025/0003548691?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/02/1ccfd9cc-8b85-43d3-aaa8-8f20cd871472.jpg"
-        },
-        {
-          "title": "한전 \"세탁·건조 낮에 하면 전기료 할인\"",
-          "desc": "대상 제품은 삼성전자와 LG전자의 스마트가전 가운데 세탁기와 건조기, 식기세척기, 의류관리기 등 4종이다. 지정된 시간대에 가전을 사용하면 각 가전사 플랫폼을 통해 확인된 전력사용량을 기준으로 1㎾h당 100원의...",
-          "src": "jndn",
-          "date": "09/02",
-          "url": "http://www.jndn.com/article.php?aid=1788338853438923099",
-          "img": "http://www.jndn.com/upimages/photoda/"
-        },
-        {
-          "title": "[기획] 스멀스멀 100달러… 중동전 격화에 2차 고유가쇼크 비상",
-          "desc": "삼성전자도 지난 2월 출시한 갤럭시 S26 시리즈 가격을 전작보다 10만원 이상 높였고, 삼성전자와 LG전자의... 메모리 가격 상승세가 이어지면 스마트폰과 PC, 가전제품 가격이 추가로 오를 가능성이 있다. 실제로...",
-          "src": "디지털타임스",
-          "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/029/0003045869?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/02/rcv.YNA.20260902.PYH2026090213460001300_R.jpg"
-        },
-        {
-          "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
-          "desc": "미래 로봇과 AI 플랫폼의 치열한 경연장으로 진화할 전망이다. 삼성전자는 2일(현지시간)부터 6일까지... 독일 밀레는 AI 기반 카메라를 적용한 식기세척기를 비롯해 AI 쿠킹 어시스턴트와 프리미엄 무선청소기 등을...",
-          "src": "서울경제",
-          "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/011/0004657918?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/02/news-p.v1.20260902.c5b4f533f6c7466cb975bd05a855baa7_R.jpg"
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/025/0003548715?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/03/ba80ee48-f48b-4c08-8e39-ed9fb58fe7b5.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "2027년 농정예산 역대 최대 확대…농축산업계 \"환영\"",
-          "desc": "협회는 농업재해보험 확대와 사료원료구매자금 증액, AI 기술을 활용한 방역체계 구축, 스마트축산단지 조성 등이 반영된 점을 긍정적으로 평가하면서도, 동물복지축산직불제 시범 도입 대상에 육계 분야를 추가하고...",
-          "src": "farminsight",
-          "date": "09/02",
-          "url": "https://www.farminsight.net/news/articleView.html?idxno=16824",
-          "img": "http://www.farminsight.net/news/thumbnail/202609/16824_24202_150_v150.jpg"
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천문화재단",
+          "desc": "또한 연구개발(R&D)부터 실증, 사업화, 공급망 진입으로 이어지는 지원 체계를 구축하고 관내 인프라를 활용... 박 팀장은 인천경제자유구역의 도시 운영 경험을 바탕으로 교통·재난·안전 분야에 AI 기술을 도입해 사전...",
+          "src": "ekn",
+          "date": "09/03",
+          "url": "https://www.ekn.kr/web/view.php?key=20260903025259952",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260903.70c6b1c91e9c4dc38991ad1bab09e1ce_R.jpg"
         },
         {
-          "title": "국회수소경제포럼, 현대차·기아 남양연구소 방문…수소산업 지원 논의",
-          "desc": "참석자들은 수소 생산과 수송·저장, 활용에 이르는 전주기 기술 개발 현황을 살펴봤다. 연료전지 시스템과... 김재홍 회장은 안정적인 수요 기반 마련과 함께 수소 생산보조금 도입, 수소 배관망 구축, 충전 인프라 확대...",
-          "src": "m-i",
-          "date": "09/02",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409350",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409350_1197551_1333_v150.jpg"
+          "title": "\"AI가 직원 업무 80% 해낸다\"…스타트업 대표 \"사람 줄여야 하나\"",
+          "desc": "다른 이용자는 \"AI 활용도 차이가 있지 않겠느냐. 엑셀을 깔아준다고 같은 시간에 같은 결과물이 나오지는 않는다\"며 자신의 회사에서는 AI 도입 후 프롬프트 작성부터 교육하고 있다고 전했다. 일부에서는 향후 인력...",
+          "src": "뉴시스",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/003/0014165507?sid=102",
+          "img": "https://img1.newsis.com/2026/09/02/NISI20260902_0002227905_web.jpg"
         },
         {
-          "title": "[현장] \"군 경험이 AI·직무 역량으로\" 2026 제대군인 취·창업 박람회",
-          "desc": "오전에는 박경호 노트미 대표가 제대군인들을 대상으로 'AI를 활용한 취업전략' 상담을 진행했다. 박 대표는... 특히 이번 박람회의 가장 두드러진 특징은 '인공지능(AI) 기술의 채용 전형 도입'이었다. 전시장에 부스를...",
-          "src": "newsprime",
-          "date": "09/02",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=746226",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260936/art_746226_1788341364.jpg"
+          "title": "첨단 HBM 성능 경쟁… 맨 아래 받침대가 승부처",
+          "desc": "인공지능(AI) 반도체의 핵심 부품인 HBM의 성능 경쟁이 치열해지면서, 그간 주목받지 못했던 ‘베이스다이’가 새로운 기술 승부처로 떠올랐다. 본격 도입을 앞둔 HBM4(6세대)부터 GPU(그래픽 처리 장치)와 D램 사이의...",
+          "src": "조선일보",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996367?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/OXSF5ISX4BHEPNKR2LZSS26MX4.png?auth=14a3cd24c9330edcda23dfde58eef507ab808d16c045675d8c634adf5c107142&width=1200&height=630&smart=true"
         },
         {
-          "title": "킨텍스, MICE업계 최초 ‘AI 안전관리 인증’ 획득",
-          "desc": "킨텍스(대표이사 이민우)가 인공지능(AI)과 디지털 기술을 활용한 선제적 안전관리 역량을 인정받아 MICE... (Edge) AI 공간안전 플랫폼, 마킹 로봇 등도 선제적으로 실증·도입했다. 앞으로는 축적된 안전 빅데이터와...",
-          "src": "globalepic",
-          "date": "09/02",
-          "url": "http://www.globalepic.co.kr/view.php?ud=2026090216125098435f69d33b22_29",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609021613450897705f69d33b226179195160.jpg&nmt=29"
+          "title": "“성인 이용자 급증… 로블록스, 3D 소셜 플랫폼으로 변신”",
+          "desc": "로블록스는 지난해 40개 이상의 안전 기능을 도입하고 만 9세 미만 이용자의 채팅을 제한했다. 부모가 자녀와 함께 플랫폼을 이용할 수 있는 매뉴얼을 담은 ‘패밀리 존’도 운영 중이다. 인공지능(AI)을 활용해 창작...",
+          "src": "조선일보",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996363?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/G533D7XYWRBYRI2GW34VMXD5SA.jpeg?auth=368792acdc38af4582b456bc035245f04880c1ceea5d978de71432f23c866922&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "thevaluenews",
           "date": "09/02",
           "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201257",
-          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2609/9d5d9f91ddb0a65cacb48498d5345a659a786ed6.png"
+          "img": ""
         },
         {
           "title": "[DD퇴근길] GPU 사재기 끝나니 CPU 씨가 말랐네",
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "ceoscoredaily",
           "date": "09/02",
           "url": "https://www.ceoscoredaily.com/page/view/2026090216174651008",
-          "img": "https://www.ceoscoredaily.com/photos/2023/10/19/2023101916222828587_l.jpg"
+          "img": ""
         },
         {
           "title": "52년 만에 입 연 전창옥 SY동아 회장 \"심각한 저평가, 로봇·방산으로 돌...",
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "그린포스트",
           "date": "09/02",
           "url": "https://www.greened.kr/news/articleView.html?idxno=349081",
-          "img": "https://www.greened.kr/news/thumbnail/202609/349081_400532_2943_v150.jpg"
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/349081_400532_2943_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "75만원짜리 전동 칫솔까지...가전 공룡들, ‘틈새 소형 가전’ 러시",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548691?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/02/1ccfd9cc-8b85-43d3-aaa8-8f20cd871472.jpg"
+      "title": "中 로봇의 공습… 가전 전시장 ‘런웨이’ 휩쓴다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996356?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/7JOZFW7URVI5BGJPLNG25LH57M.jpg?auth=2ffaba02dcaa4f4ee368892966c11c2ed7bb2a405807d5e091fa950629292b9b&width=1200&height=630&smart=true"
     },
     {
-      "title": "한전 \"세탁·건조 낮에 하면 전기료 할인\"",
-      "url": "http://www.jndn.com/article.php?aid=1788338853438923099",
-      "img": "http://www.jndn.com/upimages/photoda/"
+      "title": "주말 낮 세탁기 돌리면 캐시백… 한전 '스마트가전 캐시백' 진행",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3429674",
+      "img": "https://cdn.newscj.com/news/thumbnail/202609/3429674_3544324_558_v150.jpg"
     },
     {
-      "title": "[기획] 스멀스멀 100달러… 중동전 격화에 2차 고유가쇼크 비상",
-      "url": "https://n.news.naver.com/mnews/article/029/0003045869?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/02/rcv.YNA.20260902.PYH2026090213460001300_R.jpg"
+      "title": "IFA, 올해 화두는 로봇… 삼성-LG, 고효율-AI가전으로 맞불",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745306?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/02/134593393.4.jpg"
     },
     {
-      "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657918?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/02/news-p.v1.20260902.c5b4f533f6c7466cb975bd05a855baa7_R.jpg"
+      "title": "소형 가전 시장이 커진다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548715?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/03/ba80ee48-f48b-4c08-8e39-ed9fb58fe7b5.jpg"
     },
     {
-      "title": "2027년 농정예산 역대 최대 확대…농축산업계 \"환영\"",
-      "url": "https://www.farminsight.net/news/articleView.html?idxno=16824",
-      "img": "http://www.farminsight.net/news/thumbnail/202609/16824_24202_150_v150.jpg"
+      "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천문화재단",
+      "url": "https://www.ekn.kr/web/view.php?key=20260903025259952",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260903.70c6b1c91e9c4dc38991ad1bab09e1ce_R.jpg"
     },
     {
-      "title": "국회수소경제포럼, 현대차·기아 남양연구소 방문…수소산업 지원 논의",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409350",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409350_1197551_1333_v150.jpg"
+      "title": "\"AI가 직원 업무 80% 해낸다\"…스타트업 대표 \"사람 줄여야 하나\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014165507?sid=102",
+      "img": "https://img1.newsis.com/2026/09/02/NISI20260902_0002227905_web.jpg"
     }
   ]
 };
