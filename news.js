@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.02 (수) 07:13",
+  "updatedAt": "2026.09.02 (수) 09:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[Who Is ?] 이병만 코스맥스 대표이사 부회장",
-          "desc": "△CES2023 혁신상 수상 코스맥스가 글로벌 최대 가전 전시회 CES에서 혁신상을 수상했다. 코스맥스는 2022년... '스스로 디자인해 만드는 나만의 화장품'을 콘셉트로, 삼성전자 사내벤처 프로그램 C랩 출신 기술기업...",
-          "src": "비즈니스포스트",
+          "title": "롯데하이마트, 가을 이사·혼수철 겨냥 삼성 가전 행사 진행",
+          "desc": "롯데하이마트는 9월 한 달간 전국 오프라인 매장에서 삼성전자 가전을 중심으로 '하이라이트 세일'을 진행한다고 1일 밝혔다. 이사·혼수 고객의 구매 특성을 고려해 상품별 할인과 함께 여러 품목을 동시에 구매할 경우...",
+          "src": "thefirstmedia",
           "date": "09/02",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445599",
-          "img": ""
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207447",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202609/207447_191363_498_v150.jpg"
+        },
+        {
+          "title": "IFA 참가사 절반이 중국…AI홈·로봇까지 공세",
+          "desc": "중국 업체들의 주력 제품이던 TV와 로봇청소기를 넘어 냉장고·세탁기·청소기·정원관리기기 등 생활가전... AI·디자인·센서·로봇 기술을 앞세워 프리미엄 시장까지 겨냥하고 있다. 삼성전자와 LG전자가 각각 차세대...",
+          "src": "sidae",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/417/0001157066?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/01/00/2026090114335958047_1.jpg"
+        },
+        {
+          "title": "삼성전자, AI가 식재료 관리…가전생활에 혁신을 더하다",
+          "desc": "김 부사장은 “삼성전자는 AI 가전의 편의성과 함께 사용자가 제품을 믿고 오래 쓸 수 있도록 하는 신뢰성을 최우선 가치로 지향하고 있다”며 “한국웰니스지수로 인정받은 기술을 바탕으로 AI 가전 리더십을 더욱...",
+          "src": "한국경제",
+          "date": "09/02",
+          "url": "https://n.news.naver.com/mnews/article/015/0005327726?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AA.45513983.1.jpg"
         },
         {
           "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "09/02",
           "url": "https://www.ziksir.com/news/articleView.html?idxno=144962",
           "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
-        },
-        {
-          "title": "롯데하이마트, 이사·혼수철 가전 할인···최대 540만원 혜택",
-          "desc": "현대경제신문 전수연 기자 | 롯데하이마트가 가을 이사·혼수철을 맞아 삼성전자 가전을 중심으로... 'Neo QLED 8K TV(85형)', '비스포크 AI 패밀리허브 4도어 냉장고(861L)', '비스포크 AI 콤보 세탁건조기(세탁기 25kg...",
-          "src": "finomy",
-          "date": "09/02",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=260564",
-          "img": "https://cdn.finomy.com/news/thumbnail/202609/260564_255487_2221_v150.jpg"
-        },
-        {
-          "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
-          "desc": "한국을 대표하는 삼성전자와 LG전자부터 중국 하이얼·하이센스·TCL·샤오미, 독일 밀레·보쉬까지... 냉장고와 세탁기 등 개별 제품에 AI를 적용하는 단계를 넘어 집 안의 가전과 서비스를 하나로 연결하는 'AI홈...",
-          "src": "nocutnews",
-          "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/079/0004184934?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/01/202609011612583737_0.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[Who Is ?] 이병만 코스맥스 대표이사 부회장",
-          "desc": "코스맥스는 2026년 7월 일본 미용시장에 인공지능(AI)을 활용한 맞춤형 화장품 처방 기술을 적용한다고... 코스맥스에 따르면 2026년 2월 ISO 23675 평가법을 도입한 뒤 관련 시험 기반을 구축해왔다. 선케어는 코스맥스의...",
-          "src": "비즈니스포스트",
+          "title": "[MTS AI 경쟁] [메리츠증권] 모든 경험을 투자로 모았다… 'MOUM'으로 승부...",
+          "desc": "일상의 관심사를 투자로 연결하는 검색 기능도 도입했다. 정확한 종목명을 알지 못해도 제품이나 브랜드... AI 활용 과정에서는 정보의 정확성과 객관성을 높이는 데도 초점을 맞췄다. 투자 판단에 직접 영향을 줄 수...",
+          "src": "news",
           "date": "09/02",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445599",
+          "url": "https://news.dealsitetv.com/articles/175506",
           "img": ""
         },
         {
-          "title": "\"유방·갑상선암 치료는 시간 싸움… 빠른 진단·수술로 불안 덜어\"",
-          "desc": "경우에는 AI 영상판독 보조시스템을 활용한다. 최종 진단은 전문의가 내린다. 대림성모병원은 지난 6월까지... 보건복지부는 2007년 양성 결절, 2017년 고위험 재발 갑상선암에 대한 갑상선 고주파절제술을 신의료기술로...",
-          "src": "조선일보",
+          "title": "[정책의 맥]격변의 위기시대, 학습사회 구축으로 대비하자",
+          "desc": "기업도 해외 기술을 도입한 뒤 생산현장의 시행착오를 통해 끊임없이 개선했다. 교육과 산업현장에서... 연구역량을 활용해 새로운 기술을 시험하고 현장의 문제를 해결할 수 있어야 한다. 조지프 스티글리츠와 브루스...",
+          "src": "view",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115312?sid=103",
-          "img": "https://health.chosun.com/site/data/img_dir/2026/09/01/2026090102752_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005810633?sid=101",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         },
         {
-          "title": "AI·로봇 기술 원하는 중소기업 모여라…기보, ‘테크 브릿지’ 개최",
-          "desc": "이번 행사는 대학·연구소가 보유한 AI·첨단로봇 분야의 우수 기술을 선별해 기술 도입을 희망하는... 사업화 유망기술 발표 세션에서는 총 6개의 기술을 소개한다. 기술 보유 연구자가 직접 기술의 특징과 활용 가능성을...",
-          "src": "서울경제",
+          "title": "동부건설, 무인 드론·AI로 건설현장 안전관리 혁신",
+          "desc": "사진=동부건설  동부건설이 무인 자동화 드론과 인공지능(AI) 기술을 건설현장 안전관리에 도입해 디지털... 확인, AI 기반 보호장비 착용 여부 자동 점검 등에 활용된다. 축적된 현장 데이터는 3차원 공정 시각화와...",
+          "src": "weekly",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/011/0004657643?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/01/news-p.v1.20260901.36d4d53e97dc489394db39bd4dc661cd_R.jpg"
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7181901",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7181901_245339_1221_v150.jpg"
         },
         {
-          "title": "[크래프톤 AI 전환기] ②적용 '경량'·연구 '대형'…AI 전략 이원화",
-          "desc": "자체 AI 모델 브랜드 'Raon'을 소개하며 파인튜닝(미세 조정)을 기반으로 게임별 AI 도입을 최적화해 비용과... 이들 기술을 향후 게임과 피지컬 AI에 활용한다는 계획이다. 게임 적용용 소형모델과 연구용 대형모델이...",
-          "src": "fetv",
+          "title": "동양·ABL생명, AI 실습교육 실시…AX 전환 신호탄",
+          "desc": "동양생명 관계자는 “미래 통합사의 AI 경쟁력은 새로운 기술을 얼마나 많이 도입하느냐보다 구성원들이 AI를 실제 업무에 활용해 일하는 방식을 얼마나 빠르게 변화시키느냐에 달려 있다”며 “이번 교육은 미래...",
+          "src": "전자신문",
           "date": "09/02",
-          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309448",
-          "img": "https://cdn.fetv.co.kr/news/photo/202609/309448_309162_1937.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003462572?sid=101",
+          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "롯데하이마트, 가을 이사·혼수철 겨냥 삼성 가전 행사 진행",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207447",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202609/207447_191363_498_v150.jpg"
+    },
+    {
+      "title": "IFA 참가사 절반이 중국…AI홈·로봇까지 공세",
+      "url": "https://n.news.naver.com/mnews/article/417/0001157066?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/01/00/2026090114335958047_1.jpg"
+    },
+    {
+      "title": "삼성전자, AI가 식재료 관리…가전생활에 혁신을 더하다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327726?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/AA.45513983.1.jpg"
+    },
+    {
       "title": "유럽 안방 치고 들어온 中가전…삼성·LG, '기술·AS 격차'로 맞불",
       "url": "https://www.ziksir.com/news/articleView.html?idxno=144962",
       "img": "https://cdn.ziksir.com/news/thumbnail/202609/144962_164696_3617_v150.jpg"
     },
     {
-      "title": "롯데하이마트, 이사·혼수철 가전 할인···최대 540만원 혜택",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=260564",
-      "img": "https://cdn.finomy.com/news/thumbnail/202609/260564_255487_2221_v150.jpg"
+      "title": "[정책의 맥]격변의 위기시대, 학습사회 구축으로 대비하자",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810633?sid=101",
+      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
     },
     {
-      "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
-      "url": "https://n.news.naver.com/mnews/article/079/0004184934?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/01/202609011612583737_0.jpg"
-    },
-    {
-      "title": "\"유방·갑상선암 치료는 시간 싸움… 빠른 진단·수술로 불안 덜어\"",
-      "url": "https://n.news.naver.com/mnews/article/346/0000115312?sid=103",
-      "img": "https://health.chosun.com/site/data/img_dir/2026/09/01/2026090102752_0.jpg"
-    },
-    {
-      "title": "AI·로봇 기술 원하는 중소기업 모여라…기보, ‘테크 브릿지’ 개최",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657643?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/01/news-p.v1.20260901.36d4d53e97dc489394db39bd4dc661cd_R.jpg"
-    },
-    {
-      "title": "[크래프톤 AI 전환기] ②적용 '경량'·연구 '대형'…AI 전략 이원화",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309448",
-      "img": "https://cdn.fetv.co.kr/news/photo/202609/309448_309162_1937.png"
+      "title": "동부건설, 무인 드론·AI로 건설현장 안전관리 혁신",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7181901",
+      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7181901_245339_1221_v150.jpg"
     }
   ]
 };
