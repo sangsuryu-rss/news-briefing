@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.02 (수) 13:45",
+  "updatedAt": "2026.09.02 (수) 20:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[기획] 고주거비가 낳은 실용주의… 소형·슬림 '신혼가전' 확산",
-          "desc": "사진=SK인텔릭스 제공 매일일보 = 신승엽 기자  |  신혼부부의 주거비용 부담이 확대되면서, 소형가전 수요가... 삼성전자에 따르면, 비스포크 AI 콤보의 지난해 판매량은 전년보다 약 40% 증가했다. 혼수를 준비하는...",
-          "src": "m-i",
+          "title": "75만원짜리 전동 칫솔까지...가전 공룡들, ‘틈새 소형 가전’ 러시",
+          "desc": "TVㆍ냉장고 등 전통 대형 가전 시장이 포화 상태에 이르자 글로벌 가전업체들이 틈새 소형가전으로 눈을... 삼성전자는 의류관리기 ‘에어드레서’의 탈취ㆍ제균 노하우를 집약해 신발관리기 ‘비스포크 슈드레서’를...",
+          "src": "중앙일보",
           "date": "09/02",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409027",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409027_1197244_5117_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/025/0003548691?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/02/1ccfd9cc-8b85-43d3-aaa8-8f20cd871472.jpg"
         },
         {
-          "title": "[분석_스마트팩토리 ⑬이랜시스] 심재귀 대표의 이랜시스, 로봇 감속기...",
-          "desc": "이랜시스의 매출 대부분은 여전히 비데와 공기청정기, 청소기 등 생활가전 부품과 디지털 도어록용 부품에서 발생하고 있다. 삼성전자 웨어러블 로봇이나 감속기 모듈 납품 기대감으로 주가가 수차례 상한가를 쳤지만...",
-          "src": "newsworker",
+          "title": "한전 \"세탁·건조 낮에 하면 전기료 할인\"",
+          "desc": "대상 제품은 삼성전자와 LG전자의 스마트가전 가운데 세탁기와 건조기, 식기세척기, 의류관리기 등 4종이다. 지정된 시간대에 가전을 사용하면 각 가전사 플랫폼을 통해 확인된 전력사용량을 기준으로 1㎾h당 100원의...",
+          "src": "jndn",
           "date": "09/02",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=502127",
-          "img": "https://cdn.newsworker.co.kr/news/photo/202608/502127_502573_1788323408.png"
+          "url": "http://www.jndn.com/article.php?aid=1788338853438923099",
+          "img": "http://www.jndn.com/upimages/photoda/"
         },
         {
-          "title": "경기 화성 동탄2신도시 ‘동탄역 루센채’ 잔여 호실 선착순 계약",
-          "desc": "관계자에 따르면 분양가는 1차 계약금 1,000만원, 중도금 전액 무이자가 적용되며,발코니 무상 제공, 삼성전자 비스포크 AI 가전 등 주요 옵션도 무상으로 구성된다. 삼성전자 SmartThings Home 기반 AI 하우스 시스템을 통해...",
-          "src": "dnews",
+          "title": "[기획] 스멀스멀 100달러… 중동전 격화에 2차 고유가쇼크 비상",
+          "desc": "삼성전자도 지난 2월 출시한 갤럭시 S26 시리즈 가격을 전작보다 10만원 이상 높였고, 삼성전자와 LG전자의... 메모리 가격 상승세가 이어지면 스마트폰과 PC, 가전제품 가격이 추가로 오를 가능성이 있다. 실제로...",
+          "src": "디지털타임스",
           "date": "09/02",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021338250120388",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/02/202609021338250120388-2-688093.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003045869?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/02/rcv.YNA.20260902.PYH2026090213460001300_R.jpg"
         },
         {
-          "title": "가전쇼에 로봇이 걷는다…IFA 2026, 미래 생활 경쟁 막 오른다",
-          "desc": "집 안의 가전을 연결하는 데 그쳤던 AI가 실제 공간을 인식하고 움직이는 로봇으로 확장되면서 미래 생활의 주도권을 잡기 위한 글로벌 업체들의 경쟁도 한층 치열해질 전망이다. 삼성전자와 LG전자는 각각 'AI...",
-          "src": "데일리안",
+          "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
+          "desc": "미래 로봇과 AI 플랫폼의 치열한 경연장으로 진화할 전망이다. 삼성전자는 2일(현지시간)부터 6일까지... 독일 밀레는 AI 기반 카메라를 적용한 식기세척기를 비롯해 AI 쿠킹 어시스턴트와 프리미엄 무선청소기 등을...",
+          "src": "서울경제",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/119/0003128213?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788319391_1685479_m_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004657918?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/02/news-p.v1.20260902.c5b4f533f6c7466cb975bd05a855baa7_R.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"자동화된 사이버 공격 막아라\"... 클라우드플레어, '어댑티브 인텔리전...",
-          "desc": "Intelligence)를 도입했다고 2일 밝혔다. 자동화된 봇 트래픽을 탐지하고 악성 봇을 차단하는 보안 플랫폼 '클라우드플레어 봇 매니지먼트'(Cloudflare Bot Management)의 새 기능으로 제공된다. 최신 AI와 저렴한 온라인 도구...",
-          "src": "boannews",
+          "title": "2027년 농정예산 역대 최대 확대…농축산업계 \"환영\"",
+          "desc": "협회는 농업재해보험 확대와 사료원료구매자금 증액, AI 기술을 활용한 방역체계 구축, 스마트축산단지 조성 등이 반영된 점을 긍정적으로 평가하면서도, 동물복지축산직불제 시범 도입 대상에 육계 분야를 추가하고...",
+          "src": "farminsight",
           "date": "09/02",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=145609",
-          "img": "https://cdn.boannews.com/news/photo/202609/145609_127451_3725.jpg"
+          "url": "https://www.farminsight.net/news/articleView.html?idxno=16824",
+          "img": "http://www.farminsight.net/news/thumbnail/202609/16824_24202_150_v150.jpg"
         },
         {
-          "title": "팔로알토 CEO \"AI 공격 대비해 1조달러 규모 보안 인프라 교체 필요\"",
-          "desc": "그는 AI 기술 발전이 사이버 보안 산업의 장기적인 성장 동력을 완전히 확장하고 있다고 분석했다. 공격자들이 AI를 활용해 소프트웨어 취약점을 과거와 비교할 수 없을 정도로 빠르게 발견하고 악용하고 있기...",
-          "src": "news",
+          "title": "국회수소경제포럼, 현대차·기아 남양연구소 방문…수소산업 지원 논의",
+          "desc": "참석자들은 수소 생산과 수송·저장, 활용에 이르는 전주기 기술 개발 현황을 살펴봤다. 연료전지 시스템과... 김재홍 회장은 안정적인 수요 기반 마련과 함께 수소 생산보조금 도입, 수소 배관망 구축, 충전 인프라 확대...",
+          "src": "m-i",
           "date": "09/02",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433117",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4433117_341128_411_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409350",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409350_1197551_1333_v150.jpg"
         },
         {
-          "title": "토마토시스템 ‘엑스빌더6 아이젠’, AI 제품·서비스 인증 획득",
-          "desc": "가 기술 심사를 담당하고, 심사 결과를 토대로 KOSA가 확인서를 발급한다. 인증 제품은 공공기관이 AI 제품·서비스를 도입할 때 우선 검토 대상이 될 수 있다. 다수공급자계약(MAS) 참여 조건 완화와 업체 제시 규격 활용...",
-          "src": "datanews",
+          "title": "[현장] \"군 경험이 AI·직무 역량으로\" 2026 제대군인 취·창업 박람회",
+          "desc": "오전에는 박경호 노트미 대표가 제대군인들을 대상으로 'AI를 활용한 취업전략' 상담을 진행했다. 박 대표는... 특히 이번 박람회의 가장 두드러진 특징은 '인공지능(AI) 기술의 채용 전형 도입'이었다. 전시장에 부스를...",
+          "src": "newsprime",
           "date": "09/02",
-          "url": "http://www.datanews.co.kr/news/article.html?no=146288",
-          "img": "https://www.datanews.co.kr/data/photos/cdn/20260936/art_1788324017.jpg"
+          "url": "http://www.newsprime.co.kr/news/article.html?no=746226",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20260936/art_746226_1788341364.jpg"
         },
         {
-          "title": "동부건설, 무인 드론·AI로 현장 안전관리…2029년 전 현장 확대",
-          "desc": "동부건설이 무인 자동화 드론과 인공지능(AI)을 활용한 건설현장 안전관리 시스템을 도입한다. 시범 운영을... AI 비전 기술을 활용해 근로자의 안전모와 형광조끼 착용 여부, 안전벨트 결속 상태 등도 자동으로 확인한다....",
-          "src": "디지털데일리",
+          "title": "킨텍스, MICE업계 최초 ‘AI 안전관리 인증’ 획득",
+          "desc": "킨텍스(대표이사 이민우)가 인공지능(AI)과 디지털 기술을 활용한 선제적 안전관리 역량을 인정받아 MICE... (Edge) AI 공간안전 플랫폼, 마킹 로봇 등도 선제적으로 실증·도입했다. 앞으로는 축적된 안전 빅데이터와...",
+          "src": "globalepic",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/138/0002239909?sid=101",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/02/2026090213390121547_l.JPG"
+          "url": "http://www.globalepic.co.kr/view.php?ud=2026090216125098435f69d33b22_29",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609021613450897705f69d33b226179195160.jpg&nmt=29"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "36년 조선 현장서 52억원 절감…삼성중공업 김승태 은탑훈장",
-          "desc": "산업포장은 마영태 삼성전자 수석연구원과 김경수 넥스트칩 대표이사, 김상호 한국직업능력연구원 본부장이 각각 받았다. 마 수석연구원은 인공지능(AI) 반도체 양산 안정화와 외산 장비 부품 국산화 등 공정 개선을...",
-          "src": "헤럴드경제",
+          "title": "SY동아, 자동차·가전 넘어 로봇·방산으로…52년 고무부품 기술로 ‘제...",
+          "desc": "1975년 현대·기아자동차와 GM에 부품 공급을 시작했고 1997년 LG전자, 1999년 삼성전자와 거래를 시작했다.... 현재 국방품질경영시스템(DQMS, KDS 0050-9000) 인증을 준비하면서 주요 방산업체의 협력사 등록 절차도 진행하고...",
+          "src": "thevaluenews",
           "date": "09/02",
-          "url": "https://n.news.naver.com/mnews/article/016/0002691698?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/02/news-p.v1.20260902.e6d01972b4bb4407be897237b22930d1_T1.png"
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201257",
+          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2609/9d5d9f91ddb0a65cacb48498d5345a659a786ed6.png"
         },
         {
-          "title": "[THE Biz&CEO] 장덕현 삼성전기 사장의 '미래 프로젝트'",
-          "desc": "◆서버·자동차 시장으로 체질 개선 삼성전자 메모리 및 시스템LSI 사업부를 두루 거치며 '반도체 통찰력... 그 결과 현대차·기아의 1차 협력사로 진입한 데 이어, 까다로운 검증을 뚫고 미국 대형 전기차 제조사...",
-          "src": "the-biz",
+          "title": "[DD퇴근길] GPU 사재기 끝나니 CPU 씨가 말랐네",
+          "desc": "세상 삼성전자가 독일 베를린 IFA 2026에서 관람객을 아치형 '포털'로 통과시키는 전시 콘셉트를... 첫 외부 협력사로는 쿠팡이츠를 택해 대화창 안에서 주문·결제까지 끝내는 서비스도 준비 중이라고 합니다. 앞으로...",
+          "src": "디지털데일리",
           "date": "09/02",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727114",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727114_932097_5836.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002239965?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/02/2026090212083866163_l.jpg"
         },
         {
-          "title": "9월 1주 주요 제조업 전망",
-          "desc": "현대차·기아, 부품 협력사 AX 지원 위한 'AI 특화 공동훈련센터' 개소 - 현대차·기아가 협력사 전용 교육... 경우 삼성전자·LG전자 등 국내 완제품 제조사와 반도체 부품 공급망 전반에 영향이 미칠 전망임. 다만...",
-          "src": "laborplus",
-          "date": "09/01",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41389",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202608/41389_73686_3947.jpg"
+          "title": "삼성, 용인 반도체 클러스터 속도 낸다…국가 산단 부지 조성 본격화",
+          "desc": "(소부장) 협력사 60곳 이상이 들어선다. 이렇듯 해당 반도체 클러스터가 상상을 초월하는 규모를 자랑하는 만큼, 업계에선 1기 팹의 가동 시점이 빨라야 2030년 내지 2031년일 것으로 점쳐 왔다. 그러나 삼성전자는 날로...",
+          "src": "ceoscoredaily",
+          "date": "09/02",
+          "url": "https://www.ceoscoredaily.com/page/view/2026090216174651008",
+          "img": "https://www.ceoscoredaily.com/photos/2023/10/19/2023101916222828587_l.jpg"
         },
         {
-          "title": "[분석] 노사비용 오르면 답은 로봇?···노란봉투법과 자동화 가속의 함...",
-          "desc": "과거 자동화하기 어려웠던 물류와 부품 분류, 중량물 운반, 일부 조립 작업까지 기계로 대체할 수 있는... 당시 파업이 18일간 이어질 경우 삼성전자 자체 생산손실이 30조원, 협력사와 공급망 등 간접피해까지 포함하면...",
-          "src": "womaneconomy",
-          "date": "09/01",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258142",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202609/258142_462571_1415_v150.jpg"
+          "title": "52년 만에 입 연 전창옥 SY동아 회장 \"심각한 저평가, 로봇·방산으로 돌...",
+          "desc": "LG전자, 삼성전자 등으로 고객사를 확대했다. 지난해 연결 매출은 4034억원으로 역대 최대치를 기록했다. 자동차와 가전 매출은 각각 1992억원, 2042억원이다. 특히 현대자동차그룹과는 50년 넘게 1차 협력사 관계를...",
+          "src": "그린포스트",
+          "date": "09/02",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349081",
+          "img": "https://www.greened.kr/news/thumbnail/202609/349081_400532_2943_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[기획] 고주거비가 낳은 실용주의… 소형·슬림 '신혼가전' 확산",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409027",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409027_1197244_5117_v150.jpg"
+      "title": "75만원짜리 전동 칫솔까지...가전 공룡들, ‘틈새 소형 가전’ 러시",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548691?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/02/1ccfd9cc-8b85-43d3-aaa8-8f20cd871472.jpg"
     },
     {
-      "title": "[분석_스마트팩토리 ⑬이랜시스] 심재귀 대표의 이랜시스, 로봇 감속기...",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=502127",
-      "img": "https://cdn.newsworker.co.kr/news/photo/202608/502127_502573_1788323408.png"
+      "title": "한전 \"세탁·건조 낮에 하면 전기료 할인\"",
+      "url": "http://www.jndn.com/article.php?aid=1788338853438923099",
+      "img": "http://www.jndn.com/upimages/photoda/"
     },
     {
-      "title": "경기 화성 동탄2신도시 ‘동탄역 루센채’ 잔여 호실 선착순 계약",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021338250120388",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/02/202609021338250120388-2-688093.jpg"
+      "title": "[기획] 스멀스멀 100달러… 중동전 격화에 2차 고유가쇼크 비상",
+      "url": "https://n.news.naver.com/mnews/article/029/0003045869?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/02/rcv.YNA.20260902.PYH2026090213460001300_R.jpg"
     },
     {
-      "title": "가전쇼에 로봇이 걷는다…IFA 2026, 미래 생활 경쟁 막 오른다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003128213?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788319391_1685479_m_1.jpg"
+      "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657918?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/02/news-p.v1.20260902.c5b4f533f6c7466cb975bd05a855baa7_R.jpg"
     },
     {
-      "title": "\"자동화된 사이버 공격 막아라\"... 클라우드플레어, '어댑티브 인텔리전...",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=145609",
-      "img": "https://cdn.boannews.com/news/photo/202609/145609_127451_3725.jpg"
+      "title": "2027년 농정예산 역대 최대 확대…농축산업계 \"환영\"",
+      "url": "https://www.farminsight.net/news/articleView.html?idxno=16824",
+      "img": "http://www.farminsight.net/news/thumbnail/202609/16824_24202_150_v150.jpg"
     },
     {
-      "title": "팔로알토 CEO \"AI 공격 대비해 1조달러 규모 보안 인프라 교체 필요\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433117",
-      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4433117_341128_411_v150.jpg"
+      "title": "국회수소경제포럼, 현대차·기아 남양연구소 방문…수소산업 지원 논의",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409350",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409350_1197551_1333_v150.jpg"
     }
   ]
 };
