@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.03 (목) 06:05",
+  "updatedAt": "2026.09.03 (목) 09:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·LG, IFA서 'AI 일상' 승부…가전 넘어 삶 속으로",
-          "desc": "유럽 최대 가전 전시회 'IFA 2026'에서 삼성전자와 LG전자가 인공지능(AI)을 앞세워 미래 일상의 모습을 제시한다. TV나 냉장고 등 개별 제품의 성능과 기능을 강조하던 기존 가전 전시에서 한발 더 나아가 AI가...",
-          "src": "아이뉴스24",
+          "title": "삼성, 'AI 홈' 넘어 'AI 리빙'으로…TV·가전·모바일 한데 묶었다",
+          "desc": "삼성전자가 집 안의 가전을 연결하는 'AI 홈'을 넘어 여가와 에너지, 건강관리까지 아우르는 'AI 리빙' 전략을 유럽 시장에 공개했다. TV와 가전, 스마트폰, 웨어러블을 하나의 생태계로 묶고 AI가 이용자의 생활방식에...",
+          "src": "wolyo",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/031/0001054915?sid=101",
-          "img": "https://image.inews24.com/v1/745731e5b34905.jpg"
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317282",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/317282_224625_89.png"
+        },
+        {
+          "title": "K-가전, 진화한 AI·고효율 기술로 유럽 공략…中은 로봇 과시 [IFA 2026]",
+          "desc": "TV 시장에선 내년부터 소니와 연합 전선을 구축하는 TCL을 비롯 하이센스가 삼성전자·LG전자를 따라잡고 있다. 출하량 기준으로 중국 기업 추격 속도가 빠르다. 로봇청소기 시장을 선점한 로보락과 드리미, 에코백스...",
+          "src": "헤럴드경제",
+          "date": "09/03",
+          "url": "https://n.news.naver.com/mnews/article/016/0002692153?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/03/news-p.v1.20250905.2df0c9661eae4084bc537d50a0437d7c_T1.png"
+        },
+        {
+          "title": "전자·IT업계, AI로 생활·업무 경험 고도화",
+          "desc": "삼성전자는 오는 4일 '갤럭시 S26 FE'를 국내 출시한다. 신제품은 256GB 스토리지 모델로 블루베리... 자동 세제 투입 시스템 '오토도스'와 건조 기능 '엑설런트드라이'를 통해 사용자가 세부 설정을 반복적으로 선택해야...",
+          "src": "팝콘뉴스",
+          "date": "09/03",
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=131703",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202609/131703_157050_2721_v150.jpg"
         },
         {
           "title": "中 로봇의 공습… 가전 전시장 ‘런웨이’ 휩쓴다",
@@ -34,23 +50,7 @@ window.NEWS_DATA = {
           "src": "조선일보",
           "date": "09/03",
           "url": "https://n.news.naver.com/mnews/article/023/0003996356?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/7JOZFW7URVI5BGJPLNG25LH57M.jpg?auth=2ffaba02dcaa4f4ee368892966c11c2ed7bb2a405807d5e091fa950629292b9b&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "2억짜리 모듈러홈, 돈은 어디서 버나… 삼성·LG, 수익화 시험대 [집 파...",
-          "desc": "삼성전자와 LG전자가 모듈러 주택을 새로운 가전 판매 채널이자 'AI홈' 사업의 출발점으로 삼고 있다.... 구역별로 냉장고와 세탁기·건조기·스타일러·식기세척기 등 5~7종의 가전을 선택할 수 있으며 구독을 선택한...",
-          "src": "조선일보",
-          "date": "09/03",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169354",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169354_451595_2635_v150.jpg"
-        },
-        {
-          "title": "소형 가전 시장이 커진다",
-          "desc": "그간 무선청소기와 로봇청소기 개발을 통해 축적한 초소형 모터, 유체역학, 카메라 머신러닝 기술을 집약했다는 게 회사 측의 설명이다. 삼성전자는 의류관리기 ‘에어드레서’의 탈취·제균 노하우를 집약해...",
-          "src": "중앙일보",
-          "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/025/0003548715?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/03/ba80ee48-f48b-4c08-8e39-ed9fb58fe7b5.jpg"
+          "img": "https://www.chosun.com/resizer/v2/A43YESQJGBG4RKMFZ5QG2ADLFM.jpg?auth=2d7206458cb5a1c0bf9c2eb85014ee61d554c254d933aa1928b74be359ea44af&width=1200&height=630&focal=285,287"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“불편함 견뎌내면 J자로 생산성 치솟아”",
-          "desc": "AI를 활용하는 사람과 조직의 처리 역량이 달라지고, AI 기술의 중요성도 나날이 커지고 있다. 정 CEO는... 정 CEO는 조직의 AI 전환(AX) 사례를 ‘AX의 J커브’에 빗대 설명하기도 했다. AI를 도입하면 곧바로 효율이...",
-          "src": "segye",
+          "title": "[김정덕의 지속가능 보안-6] CEO를 우리 편으로 만드는 설득의 기술",
+          "desc": "예를 들어, \"제로데이 공격에 대비해 차세대 보안 솔루션 도입이 시급합니다\"라는 식의 기술적 호소는... 동종 업계나 유사 규모 기업의 실제 침해 사고 사례를 적극적으로 활용해야 합니다. 사고 발생 경로와 그로 인한...",
+          "src": "boannews",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/022/0004155975?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/02/20260902516704.jpg"
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145617",
+          "img": "https://cdn.boannews.com/news/photo/202609/145617_127461_1627.png"
         },
         {
-          "title": "강원지방중소벤처기업청, 중소기업 AI 전환 우수사례 공모전 참가기업 ...",
-          "desc": "공모전 신청 대상은 AI 기술을 도입·활용하여 생산성 향상, 품질 개선, 비용 절감, 매출 증가, 비즈니스 모델 창출 등 경영 혁신 성과를 달성한 중소기업으로 신청방법, 접수처 및 제출 시식 등의 자세한 사항은...",
-          "src": "kwnews",
+          "title": "삼성SDS, 美서 'RX ART 2026' 개최…제조 현장 '로보틱스 전환' 논의",
+          "desc": "피지컬 AI 기업과 제조 현장 로봇 활용 사례를 검증하고, 실제 현장 도입 방안을 논의했다. 관계사별... Manipulation) AI 기술을 활용해 복잡하고 세밀한 공정에 로봇을 적용하는 방안을 검증했다. 삼성SDS는 이번...",
+          "src": "lcnews",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/087/0001215383?sid=101",
-          "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/02/.cache/512/20260902501463.png"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207653",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202609/207653_209948_1523.jpeg"
         },
         {
-          "title": "유튜브뮤직 재생목록 점령한 'AI 노래'…번지는 'AI 슬롭' 불만",
-          "desc": "중 AI를 통해 제작된 음원의 아티스트 프로필에 'AI 페르소나'(AI Persona) 배지를 도입한다. 유튜브는 이미... 5200곡이 AI를 활용해 작곡됐을 가능성이 있는 것으로 조사됐다. 급증하는 AI 음원…\"플랫폼, 이용자 선택권...",
-          "src": "뉴스1",
+          "title": "인천시의회·교통공사 인천 지하역사 공기질 관리 해법 모색",
+          "desc": "실시간 공기질 데이터를 활용한 오염 예측부터 AI 기반 스마트 환기·공기정화 설비 도입까지, 시민들이... 한국산업기술시험원 팀장, 김재필 FITI시험연구원 팀장이 패널로 참여해 현장과 기술적 측면에서 다양한 의견을...",
+          "src": "브릿지경제",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/421/0009147781?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/2/8084879/high.jpg"
+          "url": "https://www.viva100.com/article/20260903500165",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/03/.cache/512/20260903500162.jpg?v=20260903091845"
         },
         {
-          "title": "기초학력 다지고 '스스로 검증하는 힘' 키워야",
-          "desc": "서재영 한남대학교 교육학과 교수는 \"학년과 교과, 과제의 성격에 따라 허용되는 AI 활용 범위를 구체화하고... 지적했다.AI 기술에 휘둘리지 않기 위해서는 기본 학력과 기초 소양 교육이라는 교육 본래의 기능을...",
-          "src": "cctoday",
+          "title": "경과원-KISTI, 도내 기업 AI 전환 맞춤형 지원",
+          "desc": "기업은 AI 전환 수준과 개선이 필요한 영역을 진단받고 적합한 기술 도입과 현장 적용 방향을 구체화할 수 있다. 기업 현장에서 축적한 진단·실증 데이터는 AXIS 고도화에 활용한다. 양 기관은 올해 KISTI의 'AX 진단...",
+          "src": "m-i",
           "date": "09/03",
-          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2236055",
-          "img": "https://cdn.cctoday.co.kr/news/photo/202609/2236055_694118_4151.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409412",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409412_1197616_1420_v150.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "thevaluenews",
           "date": "09/02",
           "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201257",
-          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2609/9d5d9f91ddb0a65cacb48498d5345a659a786ed6.png"
+          "img": ""
         },
         {
           "title": "삼성, 용인 반도체 클러스터 속도 낸다…국가 산단 부지 조성 본격화",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·LG, IFA서 'AI 일상' 승부…가전 넘어 삶 속으로",
-      "url": "https://n.news.naver.com/mnews/article/031/0001054915?sid=101",
-      "img": "https://image.inews24.com/v1/745731e5b34905.jpg"
+      "title": "삼성, 'AI 홈' 넘어 'AI 리빙'으로…TV·가전·모바일 한데 묶었다",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317282",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/317282_224625_89.png"
+    },
+    {
+      "title": "K-가전, 진화한 AI·고효율 기술로 유럽 공략…中은 로봇 과시 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692153?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/03/news-p.v1.20250905.2df0c9661eae4084bc537d50a0437d7c_T1.png"
+    },
+    {
+      "title": "전자·IT업계, AI로 생활·업무 경험 고도화",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=131703",
+      "img": "https://cdn.popcornnews.net/news/thumbnail/202609/131703_157050_2721_v150.jpg"
     },
     {
       "title": "中 로봇의 공습… 가전 전시장 ‘런웨이’ 휩쓴다",
       "url": "https://n.news.naver.com/mnews/article/023/0003996356?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/7JOZFW7URVI5BGJPLNG25LH57M.jpg?auth=2ffaba02dcaa4f4ee368892966c11c2ed7bb2a405807d5e091fa950629292b9b&width=1200&height=630&smart=true"
+      "img": "https://www.chosun.com/resizer/v2/A43YESQJGBG4RKMFZ5QG2ADLFM.jpg?auth=2d7206458cb5a1c0bf9c2eb85014ee61d554c254d933aa1928b74be359ea44af&width=1200&height=630&focal=285,287"
     },
     {
-      "title": "2억짜리 모듈러홈, 돈은 어디서 버나… 삼성·LG, 수익화 시험대 [집 파...",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169354",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169354_451595_2635_v150.jpg"
+      "title": "[김정덕의 지속가능 보안-6] CEO를 우리 편으로 만드는 설득의 기술",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=145617",
+      "img": "https://cdn.boannews.com/news/photo/202609/145617_127461_1627.png"
     },
     {
-      "title": "소형 가전 시장이 커진다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548715?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/03/ba80ee48-f48b-4c08-8e39-ed9fb58fe7b5.jpg"
-    },
-    {
-      "title": "“불편함 견뎌내면 J자로 생산성 치솟아”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004155975?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/02/20260902516704.jpg"
-    },
-    {
-      "title": "강원지방중소벤처기업청, 중소기업 AI 전환 우수사례 공모전 참가기업 ...",
-      "url": "https://n.news.naver.com/mnews/article/087/0001215383?sid=101",
-      "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/02/.cache/512/20260902501463.png"
+      "title": "삼성SDS, 美서 'RX ART 2026' 개최…제조 현장 '로보틱스 전환' 논의",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207653",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202609/207653_209948_1523.jpeg"
     }
   ]
 };
