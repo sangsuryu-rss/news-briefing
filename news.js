@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.03 (목) 16:12",
+  "updatedAt": "2026.09.03 (목) 21:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[정구민의 톺아보기] IFA 2026, 밀레의 가전용 피지컬AI 전략",
-          "desc": "유럽 최대 가전·정보기술(IT) 전시회인 IFA 2026은 오는 4일부터 8일까지 닷새간 독일 베를린 메세 베를린에서... 현대자동차 생산기술개발센터, LG전자 CTO부문, 삼성전자 소프트웨어센터, 네이버 네이버랩스 자문교수를...",
-          "src": "아이뉴스24",
+          "title": "스마트폰 넘어 車·가전까지…샤오미, IFA서 'AI 생태계' 선보여",
+          "desc": "특히 2027년 유럽 전기차 시장 진출까지 예고한 만큼 향후 삼성전자·LG전자 등 기존 가전업체는 물론 글로벌 자동차 업체와의 경쟁 영역도 더욱 넓어질 전망이다. / 월요신문=",
+          "src": "wolyo",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/031/0001055213?sid=004",
-          "img": "https://image.inews24.com/v1/745731e5b34905.jpg"
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317330",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/317330_224700_1812.jpg"
         },
         {
-          "title": "[재계 투데이] 삼성전자, '갤럭시 S26 FE' 국내 출시 外",
-          "desc": "◆ 삼성전자, '갤럭시 S26 FE' 국내 출시 삼성전자가 4일 '갤럭시 S26 FE'를 국내 출시한다. '갤럭시 S26 FE'는... 팝업스토어는 ‘모두와 함께하는 청소놀이’를 콘셉트로, 진공 물걸레 청소기 ‘Roborock F25 시리즈’를 직접...",
-          "src": "news",
+          "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
+          "desc": "TV, 생활가전, 로봇청소기에서 키운 존재감을 휴머노이드로 빠르게 확장하고 있는 것이다. 한국 기업들은 AI홈을 전면에 내세운다. 삼성전자는 메세 베를린 밖 도심의 '훔볼트 카레'에 별도 전시 공간을 마련하고...",
+          "src": "thepublic",
           "date": "09/03",
-          "url": "https://news.dealsitetv.com/articles/175581",
-          "img": ""
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
         },
         {
-          "title": "포르치니 삼성 CDO \"전자제품도 개성 따라 고르는 시대\"",
-          "desc": "아티스트들은 삼성전자의 냉장고·세탁기·스마트폰 등에서 영감을 받아 각자의 방식으로 작품을 제작했다. 이후 AI를 활용해 조정하고 재해석하는 과정을 거쳐 최종 작품을 완성했다. 삼성전자 DX부문 CDO 조직은...",
-          "src": "sidae",
+          "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
+          "desc": "com 독일 베를린에서 4~8일(현지시간) 개최되는 IFA 2026에 전시관을 꾸린 삼성전자(왼쪽)와 LG전자 모습.... 공간 활용과 에너지 효율을 앞세운 '핏 앤 맥스'도 냉장고에서 세탁기·건조기·식기세척기까지 확대한다....",
+          "src": "아주경제",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/417/0001157284?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/03/00/2026090315313358502_1.jpg"
+          "url": "https://www.ajunews.com/view/20260903102802434",
+          "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
         },
         {
-          "title": "삼전 45만·하닉 300만…씨티그룹, 목표주가 하향 “매수 유지”",
-          "desc": "모바일·소비자 가전 부문도 부진할 것으로 전망했다. 씨티가 예상한 삼성전자의 3분기 사업 부문별 영업이익은 반도체 105조1000억원, 디스플레이 1조4000억원, 모바일 1조7000억원 적자, 소비자 가전 6000억원...",
-          "src": "munhwa",
+          "title": "샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
+          "desc": "과거 삼성전자가 사용했던 대형 전시 공간을 샤오미의 제품과 기술로 채웠다. 샤오미는 스마트폰과 가전... IFA에서는 서로 다른 의류를 분리해 세탁할 수 있는 트리플 드럼 세탁기와 사용자의 위치·생활 습관을...",
+          "src": "전자신문",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/021/0002816149?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/09/03/news-p.v1.20260812.e5e2052e176e4fa3a1ae51de452b0b4b_R.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003463434?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.9d775241367442a2aaa6a5250e4c594f_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "타이어 패턴부터 수요 예측까지…한국앤컴퍼니, 전사 AI 혁신 속도 [현장...",
-          "desc": "AI를 도입한 기업 가운데 실제 비즈니스 가치를 창출한 비율은 30% 미만에 불과하다. 상당수 기업이 기술... 연결하고 활용하는 데 한계가 드러나고 있다는 것이다. 한국앤컴퍼니그룹은 이를 해결하기 위해 AI를...",
-          "src": "kukinews",
+          "title": "지식재산처, 'PATINEX 2026' 개최",
+          "desc": "올해로 22회를 맞는 'PATINEX'는 빠르게 변화하는 기술과 산업의 흐름을 살펴보고 지식재산정보 활용을 통한 가치창출 전략을 공유하는 국제 박람회이다. 이번 행사는 'AI시대, IP로 완성하다'를 주제로 국내외...",
+          "src": "bizwnews",
           "date": "09/03",
-          "url": "https://www.kukinews.com/article/view/kuk202609030185",
-          "img": ""
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=145248",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145248_162255_556_v150.jpg"
         },
         {
-          "title": "드론이 표적 찾으면 K9이 쏜다…한화가 공개한 '미래 자주포'",
-          "desc": "참가국들은 K9의 핵심 기술을 적용한 차륜형 자주포에도 관심을 보였다. 최근 미 육군 '기동 전술포(MTC)... 장기적으로는 인공지능(AI)과 데이터 분석을 활용해 부품 교체와 정비 수요를 미리 파악하는 '예측형 군수지원...",
-          "src": "조선일보",
+          "title": "\"챗GPT 구독료도 벅차다\"…예산 수장 면전서 쏟아진 대학가 '날것의 목소...",
+          "desc": "취업과 학업의 필수 도구가 된 생성형 인공지능 도구의 유료 구독료 부담부터 석·박사에만 쏠린 기술창업... 박준기 가천대학교 총학생회장은 \"생성형 AI 도구 활용 비용이 학생들에게 적지 않은 경제적 부담으로 작용하고...",
+          "src": "view",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061211?sid=104",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/54919_84977_5648_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005811746?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090321395615427_1788439196.jpg"
         },
         {
-          "title": "하이트진로, 'AX 리더' 육성...임직원 AI 역량 강화",
-          "desc": "하이트진로는 이번 과정을 AX의 첫걸음으로 삼아, 앞으로 AI 활용 범위를 단계적으로 넓혀 나갈 계획이다. 하이트진로 AX 리더 교육 현장. [사진=하이트진로 제공] AX는 인공지능 기술을 활용해 업무 방식과 조직 운영...",
-          "src": "updownnews",
+          "title": "괴산군, 이색 홍보영상 '할머니의 이중생활' 인스타 조회수 140만 회 돌...",
+          "desc": "영상은 고령화 도시 이미지를 역발상으로 활용해 어르신들이 활기차게 살기 좋은 괴산을 알리고자... 지자체 홍보물로는 이례적으로 생성형 AI 기술을 적극 도입해 시각적 재미를 더했으며, 현재 조회수 141만 회와...",
+          "src": "enewstoday",
           "date": "09/03",
-          "url": "http://www.updownnews.co.kr/news/articleView.html?idxno=318613",
-          "img": "https://cdn.updownnews.co.kr/news/thumbnail/202609/318613_222143_80_v150.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466613",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2466613_1308388_25_v150.jpg"
         },
         {
-          "title": "포스코그룹, 6개 그룹사 하반기 세 자릿수 신입 공채",
-          "desc": "특히 포스코는 인공지능 기술을 활용한 현장 자동화와 업무 혁신을 이끌 AI 엔지니어 직무를 새롭게... 항목을 도입해 지원자들이 직무역량과 다양한 경험을 자유롭게 드러내 경쟁력을 강조할 수 있게 됐다. 이번...",
-          "src": "kbmaeil",
+          "title": "티빙 '늑장 신고' 해명 … \"보안 체계 근본부터 재구축\"",
+          "desc": "온라인동영상서비스(OTT) 티빙에서 이용자 계정 3954만개와 소스코드를 포함한 기술자산 361건이 유출된... 인공지능(AI)을 활용한 이상징후 탐지 시스템을 도입한다. 최고경영자(CEO) 직속 정보보호혁신 자문위원회를...",
+          "src": "safetimes",
           "date": "09/03",
-          "url": "https://www.kbmaeil.com/article/20260903500616",
-          "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/09/03/.cache/512/20260903500631.png"
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245438",
+          "img": "https://cdn.safetimes.co.kr/news/thumbnail/202609/245438_155902_2457_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[노란봉투법 경계선①] 사람 옮기면 쟁의?…400조 호남 반도체 지연 우...",
+          "desc": "파장은 삼성전자 한 회사에 그치지 않을 수 있다. 반도체 팹의 가동 일정이 늦어지면 장비 반입과 소재·부품·장비 업체의 증설, 협력사 채용까지 순차적으로 영향을 받을 수 있기 때문이다. 미국과 일본 등이 보조금과...",
+          "src": "apnews",
+          "date": "09/03",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3050946",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3050946_83664_2126_v150.jpg"
+        },
+        {
+          "title": "美에 공장 있어도 안심 못한다⋯삼전닉스, ‘메모리 현지생산’ 압박 우...",
+          "desc": "추진하면서 삼성전자와 SK하이닉스의 셈법이 복잡해지고 있다. 이미 두 회사 모두 미국에 대규모 투자를... 국내에 구축된 소재·부품·장비업체와 협력사, 대규모 용수·전력, 숙련인력까지 고려하면 한국 반도체...",
+          "src": "이투데이",
+          "date": "09/03",
+          "url": "https://www.etoday.co.kr/news/view/2621680",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260903163416_2382949_1200_800.jpg"
+        },
         {
           "title": "[기획]기후쇼크에 생산·물류 흔들…산업계 '기후 방어전'",
           "desc": "삼성전자는 사업장을 짓는 단계부터 자연재해 가능성을 따진다. 제조사업장 부지를 선정할 때 해당 지역의... 삼성전기도 특정 지역이나 협력사에 공급이 몰리지 않도록 주요 부품의 공급처와 생산거점을 다변화하고...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/03",
           "url": "https://www.m-i.kr/news/articleView.html?idxno=1409703",
           "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409703_1197899_746_v150.jpg"
-        },
-        {
-          "title": "왜 삼성은 또 아산인가…113조 투자 뒤엔 ‘35년 동행’ 있었다",
-          "desc": "이 가운데 삼성디스플레이 67조원, 삼성전자 고대역폭메모리(HBM) 분야 46조원 등 113조원이 아산에 집중될... 안정적인 전력과 대규모 산업용수, 숙련 인력, 협력사 공급망, 물류와 교통망, 신속한 인허가 체계가 모두...",
-          "src": "아이뉴스24",
-          "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/031/0001055117?sid=102",
-          "img": "https://image.inews24.com/v1/0411a77699bd2e.jpg"
-        },
-        {
-          "title": "삼성전기, 1조 잭팟에 협력사 소통까지...이유있는 ‘성장’",
-          "desc": "단일 MLCC LTA로는 역대 최대 규모로, 올해 상반기 AI 서버용 핵심 부품에서만 3조원이 넘는 계약을 체결했습니다. 고성능 제품을 안정적으로 공급할 수 있는 업체가 제한적인 만큼, 삼성전기는 협력사와의 기술...",
-          "src": "newstomato",
-          "date": "09/03",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1312393&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/9/3/1312393/attach.jpg?v=202609031429"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[정구민의 톺아보기] IFA 2026, 밀레의 가전용 피지컬AI 전략",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055213?sid=004",
-      "img": "https://image.inews24.com/v1/745731e5b34905.jpg"
+      "title": "스마트폰 넘어 車·가전까지…샤오미, IFA서 'AI 생태계' 선보여",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317330",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/317330_224700_1812.jpg"
     },
     {
-      "title": "포르치니 삼성 CDO \"전자제품도 개성 따라 고르는 시대\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157284?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/03/00/2026090315313358502_1.jpg"
+      "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
     },
     {
-      "title": "삼전 45만·하닉 300만…씨티그룹, 목표주가 하향 “매수 유지”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002816149?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/09/03/news-p.v1.20260812.e5e2052e176e4fa3a1ae51de452b0b4b_R.png"
+      "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
+      "url": "https://www.ajunews.com/view/20260903102802434",
+      "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
     },
     {
-      "title": "드론이 표적 찾으면 K9이 쏜다…한화가 공개한 '미래 자주포'",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061211?sid=104",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/54919_84977_5648_v150.jpg"
+      "title": "샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003463434?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.9d775241367442a2aaa6a5250e4c594f_P1.jpg"
     },
     {
-      "title": "하이트진로, 'AX 리더' 육성...임직원 AI 역량 강화",
-      "url": "http://www.updownnews.co.kr/news/articleView.html?idxno=318613",
-      "img": "https://cdn.updownnews.co.kr/news/thumbnail/202609/318613_222143_80_v150.jpg"
+      "title": "지식재산처, 'PATINEX 2026' 개최",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=145248",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145248_162255_556_v150.jpg"
     },
     {
-      "title": "포스코그룹, 6개 그룹사 하반기 세 자릿수 신입 공채",
-      "url": "https://www.kbmaeil.com/article/20260903500616",
-      "img": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/09/03/.cache/512/20260903500631.png"
+      "title": "\"챗GPT 구독료도 벅차다\"…예산 수장 면전서 쏟아진 대학가 '날것의 목소...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811746?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090321395615427_1788439196.jpg"
     }
   ]
 };
