@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.04 (금) 02:52",
+  "updatedAt": "2026.09.04 (금) 06:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "유럽 기록적 폭염에 냉방 수요 급증… IFA서 조명받는 에어컨·히트 펌프",
-          "desc": "스마트 가전 브랜드 ‘미지아’ 에어컨을 선보인다. 사람의 미세한 움직임까지 레이더로 감지해 불필요한 전력 사용을 줄인다. 유럽 냉난방 시장을 겨냥한 경쟁은 전시장 밖에서도 치열하다. 삼성전자는 지난해...",
-          "src": "조선일보",
+          "title": "기술에 더해 디자인 차별화… 삼성 ‘브랜드 프리미엄’ 승부수",
+          "desc": "스마트폰과 TV, 생활가전 등 전자제품 생산을 맡은 삼성전자 디바이스경험(DX)부문은 그대로 직격탄을 맞았다. 올해 2분기 매출 48조원, 영업손실 8000억원을 기록하며 출범 이후 처음 분기 적자를 냈다. 특히 그동안 DX...",
+          "src": "segye",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/023/0003996572?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/RTSRS7SQKBEMVDT6XXJL6GQDF4.jpg?auth=4aa87f8f7dd857111e7dbbba033540a14be78de5b97f6af7074315f7f62c5ce1&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/022/0004156284?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/03/20260903515409.jpg"
         },
         {
-          "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
-          "desc": "전시장 입구에는 LG전자의 홈로봇 ‘LG 클로이드’가 집안의 가전을 조율하는 ‘오케스트라 지휘자’처럼... 청소기를 관리하는 사람의 수고까지 줄이는 셈이다. 삼성전자는 가전과 스마트기기를 연결한 ‘AI 리빙’...",
-          "src": "동아일보",
+          "title": "[IFA 2026] TV·백색가전이 채우던 베를린, 4년 만에 어떻게 바뀌나",
+          "desc": "관리하며, 로봇 등이 사람의 물리적 작업을 대신하는 방향이다. 삼성전자와 LG전자는 이 흐름 속에서 AI홈... 등 로봇청소기 업체들도 그 카테고리를 넓혀 참전한다. 로봇도 올해 빼놓을 수 없는 주요 관전 포인트다....",
+          "src": "데일리안",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745617?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134601228.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003128899?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788449888_1686077_m_1.jpg"
         },
         {
-          "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
-          "desc": "com 독일 베를린에서 4~8일(현지시간) 개최되는 IFA 2026에 전시관을 꾸린 삼성전자(왼쪽)와 LG전자 모습.... 공간 활용과 에너지 효율을 앞세운 '핏 앤 맥스'도 냉장고에서 세탁기·건조기·식기세척기까지 확대한다....",
-          "src": "아주경제",
-          "date": "09/03",
-          "url": "https://www.ajunews.com/view/20260903102802434",
-          "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
+          "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
+          "desc": "세탁기·건조기·식기세척기까지 확대하고, 유럽 최고 에너지효율 등급인 A등급보다 에너지를 30~70% 덜 쓰는 가전들을 공개한다. 삼성전자는 올해 전시장을 베를린 도심의 컨벤션센터 ‘훔볼트 카레’로 옮겼다....",
+          "src": "중앙일보",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/025/0003549075?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/04/5b0b5a6b-e8bf-4455-a5c1-b2357d7bea0c.jpg"
         },
         {
-          "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
-          "desc": "TV, 생활가전, 로봇청소기에서 키운 존재감을 휴머노이드로 빠르게 확장하고 있는 것이다. 한국 기업들은 AI홈을 전면에 내세운다. 삼성전자는 메세 베를린 밖 도심의 '훔볼트 카레'에 별도 전시 공간을 마련하고...",
-          "src": "thepublic",
-          "date": "09/03",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
+          "title": "[CEO와칭] 삼성 TV 구원투수 이원진…'구글맨'의 35년 승부수",
+          "desc": "이원진 삼성전자 VD사업부장 사장./삼성전자 이원진 삼성전자 영상디스플레이(VD)사업부장 사장이 지난... 이듬해 삼성 글로벌 뉴스룸 기고를 통해 사물인터넷(IoT) 시대에 TV가 가전기기를 연결하는 중심 역할을 할...",
+          "src": "서울신문",
+          "date": "09/04",
+          "url": "http://www.metroseoul.co.kr/article/20260903500546",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/03/.cache/512/20260903500549.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "농협중앙회, 경영진 대상 AI 교육 … \"AX 전환 주도할 역량 키운다\"",
-          "desc": "경영진 중심의 AI 역량 강화와 함께 전 직원의 활용 능력을 높여 범농협 차원의 AI 활용 문화를 정착시키겠다는 구상이다. 박서홍 농협중앙회 부회장은 \"AX 경쟁력은 새로운 기술을 도입하는 데 그치지 않고 이를 경영과...",
-          "src": "worktoday",
+          "title": "[제약 AI 대전환 ⑧·끝] 지속 가능한 제약 AX 마지막 관문 '운영과 성과...",
+          "desc": "활용도가 낮다면 교육과 사용자인터페이스(UX)를 개선해야 하며, 오류가 잦고 규제 위험이 높은 에이전트는 과감히 중단하거나 전면 재설계하는 결단력이 필요하다. 지속 가능한 AI 운영은 단순히 더 많은 기술을 도입하...",
+          "src": "yakup",
           "date": "09/04",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88814",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202609/88814_127942_2023_v150.jpg"
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332081",
+          "img": "https://www.yakup.com/data/editor/news/202609/C8hCOo83hIL6igaxvLeh4yeFw.png"
         },
         {
-          "title": "마인드로직, ‘2026년 인공지능 온이음 사업’ 선정···12만 고교생 AI...",
-          "desc": "고등학생들의 AI 활용 및 교육을 지원한다고 3일 전했다. 교육부와 한국장학재단이 추진하는 AI 온이음... 사업자 선정에는 마인드로직이 누적 65만 명 규모의 유료 사용자를 통해 검증된 기술력과 그간 교육 및 공공...",
-          "src": "sports",
+          "title": "중기 수출 5년내 1800억弗로 늘린다",
+          "desc": "우선 ‘글로벌 스케일업 500’을 도입해 성장 잠재력이 높은 수출 유망기업 500곳을 대상으로 수출 로드맵... 인공지능(AI)을 활용해 기업별 바이어와 지원사업을 추천하고 ‘상시애로 신고센터’도 구축할 방침이다....",
+          "src": "segye",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/144/0001136004?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/022/0004156270?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/03/20260903516869.jpg"
         },
         {
-          "title": "[여행산업 HOT 뉴스] \"AI가 여행 코스 짜고 숙소도 알아서 예약\"…한국인...",
-          "desc": "과정에서 'AI를 활용한경험이 있다'고 응답한 비율은 글로벌 평균 50%로 집계됐다. 반면 한국인 응답자는 10명 중 7명에 달하는 69%를 기록해 AI 기술을 여행 준비에 적극적으로 도입하는 경향이 상대적으로 뚜렷했다....",
-          "src": "bizwnews",
+          "title": "'인력'에만 기대는 치안정책 한계…'장비·인프라'로 무게중심 옮겨야",
+          "desc": "그는 \"최근 도입된 피지컬AI나 순찰로봇 등 첨단 장비와 기술을 우선 지원하는 방안도 검토할 필요가 있다\"며... 최신 기술을 활용해 기존 인력의 한계를 보완하는 방향으로 전환할 필요가 있다\"고 제언했다.변화하는 치안...",
+          "src": "cctoday",
           "date": "09/04",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=145258",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145258_162270_259_v150.jpg"
+          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2236109",
+          "img": "https://cdn.cctoday.co.kr/news/photo/202609/2236109_694205_010.jpg"
         },
         {
-          "title": "[미국 특징주] 구글 딥마인드, 전력시장 겨냥한 신규 AI 기상 모델 '시간...",
-          "desc": "구글 딥마인드가 최신 AI 기상 모델을 통해 터빈 높이에서의 풍속과 태양광 발전소에 도달하는 일사량을 예측하는 것은 물론, 위성 이미지를 활용해 이러한 예측치를 매시간 갱신하는 기술을 선보였다. 3일(현지시간)...",
-          "src": "뉴스핌",
+          "title": "손경식 \"경영자, 과거보다 큰 짐…'기업할 환경' 만들어줘야\"[문답]",
+          "desc": "이익의 활용 방식은 기업의 경영판단에 따라 결정돼야 할 사안이다. 그렇다고 이익을 마음대로 쓸 수 있는... 제도를 도입해야 한다. -핵심산업기술이 해외로 유출돼 경제 안보를 위협한다는 우려가 높다. ▶지난해까지...",
+          "src": "뉴스1",
           "date": "09/04",
-          "url": "https://www.newspim.com/news/view/20260904000017",
-          "img": "https://img.newspim.com/news/2026/09/04/2609040125577450_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009150338?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/9/1/8083036/high.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "유럽 기록적 폭염에 냉방 수요 급증… IFA서 조명받는 에어컨·히트 펌프",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996572?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/RTSRS7SQKBEMVDT6XXJL6GQDF4.jpg?auth=4aa87f8f7dd857111e7dbbba033540a14be78de5b97f6af7074315f7f62c5ce1&width=1200&height=630&smart=true"
+      "title": "기술에 더해 디자인 차별화… 삼성 ‘브랜드 프리미엄’ 승부수",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156284?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/03/20260903515409.jpg"
     },
     {
-      "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745617?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134601228.4.jpg"
+      "title": "[IFA 2026] TV·백색가전이 채우던 베를린, 4년 만에 어떻게 바뀌나",
+      "url": "https://n.news.naver.com/mnews/article/119/0003128899?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788449888_1686077_m_1.jpg"
     },
     {
-      "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
-      "url": "https://www.ajunews.com/view/20260903102802434",
-      "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
+      "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549075?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/04/5b0b5a6b-e8bf-4455-a5c1-b2357d7bea0c.jpg"
     },
     {
-      "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
+      "title": "[CEO와칭] 삼성 TV 구원투수 이원진…'구글맨'의 35년 승부수",
+      "url": "http://www.metroseoul.co.kr/article/20260903500546",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/03/.cache/512/20260903500549.jpg"
     },
     {
-      "title": "농협중앙회, 경영진 대상 AI 교육 … \"AX 전환 주도할 역량 키운다\"",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88814",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202609/88814_127942_2023_v150.jpg"
+      "title": "[제약 AI 대전환 ⑧·끝] 지속 가능한 제약 AX 마지막 관문 '운영과 성과...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332081",
+      "img": "https://www.yakup.com/data/editor/news/202609/C8hCOo83hIL6igaxvLeh4yeFw.png"
     },
     {
-      "title": "[여행산업 HOT 뉴스] \"AI가 여행 코스 짜고 숙소도 알아서 예약\"…한국인...",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=145258",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145258_162270_259_v150.jpg"
+      "title": "중기 수출 5년내 1800억弗로 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156270?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/03/20260903516869.jpg"
     }
   ]
 };
