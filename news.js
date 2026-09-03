@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.03 (목) 21:50",
+  "updatedAt": "2026.09.04 (금) 02:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스마트폰 넘어 車·가전까지…샤오미, IFA서 'AI 생태계' 선보여",
-          "desc": "특히 2027년 유럽 전기차 시장 진출까지 예고한 만큼 향후 삼성전자·LG전자 등 기존 가전업체는 물론 글로벌 자동차 업체와의 경쟁 영역도 더욱 넓어질 전망이다. / 월요신문=",
-          "src": "wolyo",
-          "date": "09/03",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317330",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/317330_224700_1812.jpg"
+          "title": "유럽 기록적 폭염에 냉방 수요 급증… IFA서 조명받는 에어컨·히트 펌프",
+          "desc": "스마트 가전 브랜드 ‘미지아’ 에어컨을 선보인다. 사람의 미세한 움직임까지 레이더로 감지해 불필요한 전력 사용을 줄인다. 유럽 냉난방 시장을 겨냥한 경쟁은 전시장 밖에서도 치열하다. 삼성전자는 지난해...",
+          "src": "조선일보",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996572?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/RTSRS7SQKBEMVDT6XXJL6GQDF4.jpg?auth=4aa87f8f7dd857111e7dbbba033540a14be78de5b97f6af7074315f7f62c5ce1&width=1200&height=630&smart=true"
         },
         {
-          "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
-          "desc": "TV, 생활가전, 로봇청소기에서 키운 존재감을 휴머노이드로 빠르게 확장하고 있는 것이다. 한국 기업들은 AI홈을 전면에 내세운다. 삼성전자는 메세 베를린 밖 도심의 '훔볼트 카레'에 별도 전시 공간을 마련하고...",
-          "src": "thepublic",
-          "date": "09/03",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
+          "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
+          "desc": "전시장 입구에는 LG전자의 홈로봇 ‘LG 클로이드’가 집안의 가전을 조율하는 ‘오케스트라 지휘자’처럼... 청소기를 관리하는 사람의 수고까지 줄이는 셈이다. 삼성전자는 가전과 스마트기기를 연결한 ‘AI 리빙’...",
+          "src": "동아일보",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745617?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134601228.4.jpg"
         },
         {
           "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
         },
         {
-          "title": "샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
-          "desc": "과거 삼성전자가 사용했던 대형 전시 공간을 샤오미의 제품과 기술로 채웠다. 샤오미는 스마트폰과 가전... IFA에서는 서로 다른 의류를 분리해 세탁할 수 있는 트리플 드럼 세탁기와 사용자의 위치·생활 습관을...",
-          "src": "전자신문",
+          "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
+          "desc": "TV, 생활가전, 로봇청소기에서 키운 존재감을 휴머노이드로 빠르게 확장하고 있는 것이다. 한국 기업들은 AI홈을 전면에 내세운다. 삼성전자는 메세 베를린 밖 도심의 '훔볼트 카레'에 별도 전시 공간을 마련하고...",
+          "src": "thepublic",
           "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/030/0003463434?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.9d775241367442a2aaa6a5250e4c594f_P1.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지식재산처, 'PATINEX 2026' 개최",
-          "desc": "올해로 22회를 맞는 'PATINEX'는 빠르게 변화하는 기술과 산업의 흐름을 살펴보고 지식재산정보 활용을 통한 가치창출 전략을 공유하는 국제 박람회이다. 이번 행사는 'AI시대, IP로 완성하다'를 주제로 국내외...",
+          "title": "농협중앙회, 경영진 대상 AI 교육 … \"AX 전환 주도할 역량 키운다\"",
+          "desc": "경영진 중심의 AI 역량 강화와 함께 전 직원의 활용 능력을 높여 범농협 차원의 AI 활용 문화를 정착시키겠다는 구상이다. 박서홍 농협중앙회 부회장은 \"AX 경쟁력은 새로운 기술을 도입하는 데 그치지 않고 이를 경영과...",
+          "src": "worktoday",
+          "date": "09/04",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88814",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202609/88814_127942_2023_v150.jpg"
+        },
+        {
+          "title": "마인드로직, ‘2026년 인공지능 온이음 사업’ 선정···12만 고교생 AI...",
+          "desc": "고등학생들의 AI 활용 및 교육을 지원한다고 3일 전했다. 교육부와 한국장학재단이 추진하는 AI 온이음... 사업자 선정에는 마인드로직이 누적 65만 명 규모의 유료 사용자를 통해 검증된 기술력과 그간 교육 및 공공...",
+          "src": "sports",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/144/0001136004?sid=105",
+          "img": ""
+        },
+        {
+          "title": "[여행산업 HOT 뉴스] \"AI가 여행 코스 짜고 숙소도 알아서 예약\"…한국인...",
+          "desc": "과정에서 'AI를 활용한경험이 있다'고 응답한 비율은 글로벌 평균 50%로 집계됐다. 반면 한국인 응답자는 10명 중 7명에 달하는 69%를 기록해 AI 기술을 여행 준비에 적극적으로 도입하는 경향이 상대적으로 뚜렷했다....",
           "src": "bizwnews",
-          "date": "09/03",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=145248",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145248_162255_556_v150.jpg"
+          "date": "09/04",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=145258",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145258_162270_259_v150.jpg"
         },
         {
-          "title": "\"챗GPT 구독료도 벅차다\"…예산 수장 면전서 쏟아진 대학가 '날것의 목소...",
-          "desc": "취업과 학업의 필수 도구가 된 생성형 인공지능 도구의 유료 구독료 부담부터 석·박사에만 쏠린 기술창업... 박준기 가천대학교 총학생회장은 \"생성형 AI 도구 활용 비용이 학생들에게 적지 않은 경제적 부담으로 작용하고...",
-          "src": "view",
-          "date": "09/03",
-          "url": "https://n.news.naver.com/mnews/article/277/0005811746?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090321395615427_1788439196.jpg"
-        },
-        {
-          "title": "괴산군, 이색 홍보영상 '할머니의 이중생활' 인스타 조회수 140만 회 돌...",
-          "desc": "영상은 고령화 도시 이미지를 역발상으로 활용해 어르신들이 활기차게 살기 좋은 괴산을 알리고자... 지자체 홍보물로는 이례적으로 생성형 AI 기술을 적극 도입해 시각적 재미를 더했으며, 현재 조회수 141만 회와...",
-          "src": "enewstoday",
-          "date": "09/03",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466613",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2466613_1308388_25_v150.jpg"
-        },
-        {
-          "title": "티빙 '늑장 신고' 해명 … \"보안 체계 근본부터 재구축\"",
-          "desc": "온라인동영상서비스(OTT) 티빙에서 이용자 계정 3954만개와 소스코드를 포함한 기술자산 361건이 유출된... 인공지능(AI)을 활용한 이상징후 탐지 시스템을 도입한다. 최고경영자(CEO) 직속 정보보호혁신 자문위원회를...",
-          "src": "safetimes",
-          "date": "09/03",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245438",
-          "img": "https://cdn.safetimes.co.kr/news/thumbnail/202609/245438_155902_2457_v150.jpg"
+          "title": "[미국 특징주] 구글 딥마인드, 전력시장 겨냥한 신규 AI 기상 모델 '시간...",
+          "desc": "구글 딥마인드가 최신 AI 기상 모델을 통해 터빈 높이에서의 풍속과 태양광 발전소에 도달하는 일사량을 예측하는 것은 물론, 위성 이미지를 활용해 이러한 예측치를 매시간 갱신하는 기술을 선보였다. 3일(현지시간)...",
+          "src": "뉴스핌",
+          "date": "09/04",
+          "url": "https://www.newspim.com/news/view/20260904000017",
+          "img": "https://img.newspim.com/news/2026/09/04/2609040125577450_t1.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "스마트폰 넘어 車·가전까지…샤오미, IFA서 'AI 생태계' 선보여",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317330",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202609/317330_224700_1812.jpg"
+      "title": "유럽 기록적 폭염에 냉방 수요 급증… IFA서 조명받는 에어컨·히트 펌프",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996572?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/RTSRS7SQKBEMVDT6XXJL6GQDF4.jpg?auth=4aa87f8f7dd857111e7dbbba033540a14be78de5b97f6af7074315f7f62c5ce1&width=1200&height=630&smart=true"
     },
     {
-      "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
+      "title": "가족 습관 챙기는 AI… ‘가사노동 종말’ 보인다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745617?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134601228.4.jpg"
     },
     {
       "title": "[IFA 2026] 베를린서 막 오르는 AI 가전 향연…삼성·LG, 'AI 생활'로 맞...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.ajunews.com/content/image/2026/09/03/20260903135245795070.jpg"
     },
     {
-      "title": "샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003463434?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.9d775241367442a2aaa6a5250e4c594f_P1.jpg"
+      "title": "中 기업 932곳 몰려온다… 'IFA 2026' 런웨이 점령한 中 휴머노이드",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317501",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/317501_320891_144.png"
     },
     {
-      "title": "지식재산처, 'PATINEX 2026' 개최",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=145248",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145248_162255_556_v150.jpg"
+      "title": "농협중앙회, 경영진 대상 AI 교육 … \"AX 전환 주도할 역량 키운다\"",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88814",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202609/88814_127942_2023_v150.jpg"
     },
     {
-      "title": "\"챗GPT 구독료도 벅차다\"…예산 수장 면전서 쏟아진 대학가 '날것의 목소...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811746?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090321395615427_1788439196.jpg"
+      "title": "[여행산업 HOT 뉴스] \"AI가 여행 코스 짜고 숙소도 알아서 예약\"…한국인...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=145258",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202609/145258_162270_259_v150.jpg"
     }
   ]
 };
