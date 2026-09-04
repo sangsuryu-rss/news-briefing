@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.04 (금) 06:04",
+  "updatedAt": "2026.09.04 (금) 09:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "기술에 더해 디자인 차별화… 삼성 ‘브랜드 프리미엄’ 승부수",
-          "desc": "스마트폰과 TV, 생활가전 등 전자제품 생산을 맡은 삼성전자 디바이스경험(DX)부문은 그대로 직격탄을 맞았다. 올해 2분기 매출 48조원, 영업손실 8000억원을 기록하며 출범 이후 처음 분기 적자를 냈다. 특히 그동안 DX...",
-          "src": "segye",
+          "title": "삼성전자, IFA 2026 참가…삼성 AI 방탈출도 운영",
+          "desc": "/사진=삼성전자 삼성전자가 4일부터 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026' 참가해 삼성 AI 생태계 체험 프로그램을 체험할 수 있는 공간을 마련하고 삼성 AI 방탈출을 통해 다양한...",
+          "src": "financialreview",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/022/0004156284?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/03/20260903515409.jpg"
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44607",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202609/44607_66045_241_v150.jpg"
         },
         {
-          "title": "[IFA 2026] TV·백색가전이 채우던 베를린, 4년 만에 어떻게 바뀌나",
-          "desc": "관리하며, 로봇 등이 사람의 물리적 작업을 대신하는 방향이다. 삼성전자와 LG전자는 이 흐름 속에서 AI홈... 등 로봇청소기 업체들도 그 카테고리를 넓혀 참전한다. 로봇도 올해 빼놓을 수 없는 주요 관전 포인트다....",
-          "src": "데일리안",
+          "title": "\"AI 넘어 로봇으로\"···IFA 2026서 한중 정면충돌",
+          "desc": "삼성전자와 LG전자도 최근 로봇청소기 신제품을 출시한 만큼 이 분야에서는 정면 경쟁이 불가피할 것으로 전망된다. 샤오미는 올해 처음 IFA에 참가한다. 스마트폰과 가전, 모빌리티를 하나로 잇는 AI 생태계를...",
+          "src": "seoulfn",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/119/0003128899?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788449888_1686077_m_1.jpg"
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=637221",
+          "img": "https://cdn.seoulfn.com/news/photo/202609/637221_439320_2226.jpg"
         },
         {
           "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/04/5b0b5a6b-e8bf-4455-a5c1-b2357d7bea0c.jpg"
         },
         {
-          "title": "[CEO와칭] 삼성 TV 구원투수 이원진…'구글맨'의 35년 승부수",
-          "desc": "이원진 삼성전자 VD사업부장 사장./삼성전자 이원진 삼성전자 영상디스플레이(VD)사업부장 사장이 지난... 이듬해 삼성 글로벌 뉴스룸 기고를 통해 사물인터넷(IoT) 시대에 TV가 가전기기를 연결하는 중심 역할을 할...",
-          "src": "서울신문",
+          "title": "삼성전자, IFA 2026서 '삼성 크리에이터 허브' 운영… AI 생태계 체험형...",
+          "desc": "삼성전자는 오는 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026'에서 글로벌 인플루언서와 콘텐츠 창작자를 위한 전용 플랫폼 '삼성 크리에이터 허브(Samsung Creator Hub)'를 운영한다고 4일...",
+          "src": "newsdream",
           "date": "09/04",
-          "url": "http://www.metroseoul.co.kr/article/20260903500546",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/03/.cache/512/20260903500549.jpg"
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=117486",
+          "img": "https://cdn.newsdream.kr/news/thumbnail/202609/117486_90296_248_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[제약 AI 대전환 ⑧·끝] 지속 가능한 제약 AX 마지막 관문 '운영과 성과...",
-          "desc": "활용도가 낮다면 교육과 사용자인터페이스(UX)를 개선해야 하며, 오류가 잦고 규제 위험이 높은 에이전트는 과감히 중단하거나 전면 재설계하는 결단력이 필요하다. 지속 가능한 AI 운영은 단순히 더 많은 기술을 도입하...",
-          "src": "yakup",
+          "title": "한국앤컴퍼니그룹, 산업 AI 혁신 사례 공유…“기업 운영 방식 바꾼다”",
+          "desc": "AI 활용 사례를 소개했다. 김 전무는 AI를 도입한 기업 가운데 실제 비즈니스 가치 창출로 이어지는 비율이 30% 미만이고 상당수 기업이 기술검증(PoC) 단계에 머물러 있다고 진단했다. 연구개발과 생산, 품질, 물류...",
+          "src": "이투데이",
           "date": "09/04",
-          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332081",
-          "img": "https://www.yakup.com/data/editor/news/202609/C8hCOo83hIL6igaxvLeh4yeFw.png"
+          "url": "https://www.etoday.co.kr/news/view/2621816",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904090353_2383136_1200_800.JPG"
         },
         {
-          "title": "중기 수출 5년내 1800억弗로 늘린다",
-          "desc": "우선 ‘글로벌 스케일업 500’을 도입해 성장 잠재력이 높은 수출 유망기업 500곳을 대상으로 수출 로드맵... 인공지능(AI)을 활용해 기업별 바이어와 지원사업을 추천하고 ‘상시애로 신고센터’도 구축할 방침이다....",
-          "src": "segye",
+          "title": "부산백병원, 대웅제약 '씽크' 스마트병동 구축 \"부산·울산·경남 최초\"",
+          "desc": "양재욱)에 AI 기반 병상 모니터링 시스템 '씽크(thynC)'를 활용한 스마트병동 구축을 확대했다고 4일 밝혔다.... 비롯한 AI 기반 의료기술의 의료현장 적용을 확대해 환자 안전과 의료진의 업무 효율을 함께 높이는 스마트병동...",
+          "src": "medisobizanews",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/022/0004156270?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/03/20260903516869.jpg"
+          "url": "http://www.medisobizanews.com/news/articleView.html?idxno=141861",
+          "img": "https://cdn.medisobizanews.com/news/thumbnail/202609/141861_135088_5530_v150.jpg"
         },
         {
-          "title": "'인력'에만 기대는 치안정책 한계…'장비·인프라'로 무게중심 옮겨야",
-          "desc": "그는 \"최근 도입된 피지컬AI나 순찰로봇 등 첨단 장비와 기술을 우선 지원하는 방안도 검토할 필요가 있다\"며... 최신 기술을 활용해 기존 인력의 한계를 보완하는 방향으로 전환할 필요가 있다\"고 제언했다.변화하는 치안...",
-          "src": "cctoday",
+          "title": "19~34세에 1년간 문화예술비 15만원 주는 '패스' 만든다",
+          "desc": "주목할 만한 정책으론 내년부터 19~34세로 적용되는 ‘청년문화패스’가 도입된다. 올해 19·20세 대상으로... 인공지능(AI)을 활용해 박물관 문화자원을 활용해 탐사·보존하는 K뮤지엄 기술 개발에도 62억원을 쓴다....",
+          "src": "한국경제",
           "date": "09/04",
-          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2236109",
-          "img": "https://cdn.cctoday.co.kr/news/photo/202609/2236109_694205_010.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005328632?sid=103",
+          "img": "https://img.hankyung.com/photo/202609/01.45555273.1.jpg"
         },
         {
-          "title": "손경식 \"경영자, 과거보다 큰 짐…'기업할 환경' 만들어줘야\"[문답]",
-          "desc": "이익의 활용 방식은 기업의 경영판단에 따라 결정돼야 할 사안이다. 그렇다고 이익을 마음대로 쓸 수 있는... 제도를 도입해야 한다. -핵심산업기술이 해외로 유출돼 경제 안보를 위협한다는 우려가 높다. ▶지난해까지...",
-          "src": "뉴스1",
+          "title": "타임트리, 창립 12주년..AI 기반 캘린더 서비스 강화",
+          "desc": "핵심 기술로는 ‘스케줄 컨텍스트 엔진(SCE)’을 도입한다. SCE는 캘린더에 입력된 일정 정보를 단순한 텍스트로 처리하지 않고 계획의 의도와 배경, 상황 등의 맥락으로 변환해 AI가 활용할 수 있도록 하는 시스템이다....",
+          "src": "smarttoday",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009150338?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/1/8083036/high.jpg"
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/111144",
+          "img": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-09-03/e24dd1a1-f920-484b-9611-d2003779c458.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[초점] 네팔 홍수가 던진 경고…기후재난, K-산업 생존 변수로",
+          "desc": "삼성전자는 주요 공급사의 생산거점을 연결해 특정 지역에 홍수나 태풍이 발생했을 때 어떤 부품과 협력사가 영향을 받는지 파악하는 체계를 운영하고 있다. 특정 지역이나 업체에 생산이 집중되는 것을 막고 대체 조달...",
+          "src": "newsian",
+          "date": "09/04",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=94763",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/94763_88674_1034_v150.jpg"
+        },
+        {
+          "title": "[Who Is ?] 정철동 LG디스플레이 대표이사 사장",
+          "desc": "정철동 LG디스플레이 대표이사 사장(가운데)이 2026년 2월1일 경기도 파주 사업장에서 협력사 대표들과... 이에 2025년 7월 ITC는 삼성전자의 주장을 받아들여 BOE가 제조한 올레드 패널에 14년8개월 동안 미국 수출 금지...",
+          "src": "비즈니스포스트",
+          "date": "09/04",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444800",
+          "img": ""
+        },
         {
           "title": "[노란봉투법 경계선①] 사람 옮기면 쟁의?…400조 호남 반도체 지연 우...",
           "desc": "파장은 삼성전자 한 회사에 그치지 않을 수 있다. 반도체 팹의 가동 일정이 늦어지면 장비 반입과 소재·부품·장비 업체의 증설, 협력사 채용까지 순차적으로 영향을 받을 수 있기 때문이다. 미국과 일본 등이 보조금과...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/03",
           "url": "https://www.etoday.co.kr/news/view/2621680",
           "img": "https://img.etoday.co.kr/pto_db/2026/09/20260903163416_2382949_1200_800.jpg"
-        },
-        {
-          "title": "[기획]기후쇼크에 생산·물류 흔들…산업계 '기후 방어전'",
-          "desc": "삼성전자는 사업장을 짓는 단계부터 자연재해 가능성을 따진다. 제조사업장 부지를 선정할 때 해당 지역의... 삼성전기도 특정 지역이나 협력사에 공급이 몰리지 않도록 주요 부품의 공급처와 생산거점을 다변화하고...",
-          "src": "m-i",
-          "date": "09/03",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409705",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409705_1197918_3015_v150.jpg"
-        },
-        {
-          "title": "낙수는 아직인데 몸값부터 뛰었다... 소부장株 실적보다 앞선 기대",
-          "desc": "반도체 호황이 소재·부품·장비 기업의 실적으로 고르게 이어지기 전에 주가부터 뛰고 있다. 사진=연합뉴스... 삼성전자와 SK하이닉스는 D램과 낸드 가격 상승이 곧바로 이익 증가로 이어지지만, 협력사는 고객사의 투자...",
-          "src": "m-i",
-          "date": "09/03",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1409703",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1409703_1197899_746_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "기술에 더해 디자인 차별화… 삼성 ‘브랜드 프리미엄’ 승부수",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156284?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/03/20260903515409.jpg"
+      "title": "삼성전자, IFA 2026 참가…삼성 AI 방탈출도 운영",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44607",
+      "img": "http://www.financialreview.co.kr/news/thumbnail/202609/44607_66045_241_v150.jpg"
     },
     {
-      "title": "[IFA 2026] TV·백색가전이 채우던 베를린, 4년 만에 어떻게 바뀌나",
-      "url": "https://n.news.naver.com/mnews/article/119/0003128899?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788449888_1686077_m_1.jpg"
+      "title": "\"AI 넘어 로봇으로\"···IFA 2026서 한중 정면충돌",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=637221",
+      "img": "https://cdn.seoulfn.com/news/photo/202609/637221_439320_2226.jpg"
     },
     {
       "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/04/5b0b5a6b-e8bf-4455-a5c1-b2357d7bea0c.jpg"
     },
     {
-      "title": "[CEO와칭] 삼성 TV 구원투수 이원진…'구글맨'의 35년 승부수",
-      "url": "http://www.metroseoul.co.kr/article/20260903500546",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/03/.cache/512/20260903500549.jpg"
+      "title": "삼성전자, IFA 2026서 '삼성 크리에이터 허브' 운영… AI 생태계 체험형...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=117486",
+      "img": "https://cdn.newsdream.kr/news/thumbnail/202609/117486_90296_248_v150.jpg"
     },
     {
-      "title": "[제약 AI 대전환 ⑧·끝] 지속 가능한 제약 AX 마지막 관문 '운영과 성과...",
-      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332081",
-      "img": "https://www.yakup.com/data/editor/news/202609/C8hCOo83hIL6igaxvLeh4yeFw.png"
+      "title": "한국앤컴퍼니그룹, 산업 AI 혁신 사례 공유…“기업 운영 방식 바꾼다”",
+      "url": "https://www.etoday.co.kr/news/view/2621816",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904090353_2383136_1200_800.JPG"
     },
     {
-      "title": "중기 수출 5년내 1800억弗로 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156270?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/03/20260903516869.jpg"
+      "title": "부산백병원, 대웅제약 '씽크' 스마트병동 구축 \"부산·울산·경남 최초\"",
+      "url": "http://www.medisobizanews.com/news/articleView.html?idxno=141861",
+      "img": "https://cdn.medisobizanews.com/news/thumbnail/202609/141861_135088_5530_v150.jpg"
     }
   ]
 };
