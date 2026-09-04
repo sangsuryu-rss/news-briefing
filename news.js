@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.05 (토) 01:24",
+  "updatedAt": "2026.09.05 (토) 05:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI에 명령할 필요도 없다… 주인 취향 맞춰 냉방·돌봄·청소 척척",
-          "desc": "유럽 최대 가전 행사서 본 AI 진화 3줄 요약 ㆍIFA 2026 개막, 글로벌 기업들의 AI 경쟁 ㆍ가족 일정과 취향... 삼성전자는 AI를 따로 불러내지 않아도 시청자의 취향과 보는 내용을 알아서 파악하는 TV를 선보였다. 즐겨...",
-          "src": "조선일보",
+          "title": "외인·기관 '삼전·하닉' 팔고 삼성전기·SK이노베이션 샀다…개인은 현...",
+          "desc": "[그림=챗GPT] [뉴스투데이=황수분 기자] 지난주 국내 증시에서 외국인과 기관이 삼성전자와 SK하이닉스를... IT가전과 은행 등을 순매수한 만큼 시장 전반에 대한 매도라기보다는 반도체 쏠림이 완화되면서 업종별...",
+          "src": "news2day",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/023/0003996804?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/SPNZXCUDORPWBM7CAKSTR2WQIE.jpg?auth=ef4a80d52e1b208104de0e5b21a18b5cd6e0f8bb6ad36d85216fbc14d9392a1c&width=1200&height=630&smart=true"
+          "url": "https://www.news2day.co.kr/article/20260905500005",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/05/.cache/512/20260905500004.png"
+        },
+        {
+          "title": "가전 넘어 자동차까지 연결…샤오미가 그린 ‘AI 생태계’ [IFA 2026]",
+          "desc": "삼성전자와 LG전자가 가전을 중심으로 AI홈의 진화를 보여줬다면 샤오미는 모바일과 자동차까지 연결... 냉장고와 세탁기, 로봇청소기, 에어컨을 비롯해 스마트폰, TV, 카메라, 전동킥보드 등 샤오미의 방대한...",
+          "src": "이투데이",
+          "date": "09/05",
+          "url": "https://www.etoday.co.kr/news/view/2622155",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260905044313_2383547_1200_675.jpg"
         },
         {
           "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
         },
         {
-          "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
-          "desc": "같은 맥락에서 현재 무관세 적용을 받는 한국 삼성전자와 SK하이닉스에도 대규모 시설 투자를 요구하는... 신규 관세가 반도체가 들어가는 스마트폰, 컴퓨터, 가전제품 등에 광범위하게 적용되면 물가가 더 오를 가능성도...",
-          "src": "동아일보",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745899?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134610050.1.jpg"
-        },
-        {
-          "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
-          "desc": "냉장고가 식재료 인식…폴더블폰 따라 'AI 방 탈출' 삼성전자(005930)는 AI 기술을 일방적으로 설명하기보다... 한쪽 벽에는 크기별 미니 LED TV가 걸렸고, 다른 벽에는 미지아 무선 청소기가 줄지어 섰다. 중앙에는 촬영...",
-          "src": "뉴스1",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009152247?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/4/8089669/high.jpg"
+          "title": "美·이란 갈등에 해상운임 '연중 최고치'…가전업계, 하반기 '수익성 방...",
+          "desc": "삼성전자와 LG전자 등 국내 가전 기업들은 해상운임에 따라 수익성이 영향을 크게 받아, 올 3분기와... 이들 기업이 판매하는 냉장고, 세탁기, TV 등은 대부분 부피가 크고 무거워 선박을 통한 해상 운송 의존도가 높다....",
+          "src": "뉴시스",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/003/0014170766?sid=101",
+          "img": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208248_web.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "HD현대, 하반기 신입 채용… '생성형 AI 활용' 능력 본다",
-          "desc": "AI활용역량검사'를 새롭게 도입한다. 서류전형 합격자를 대상으로 비대면 온라인 방식으로 진행되며, 지원자가 생성형 AI를 직접 이용해 주어진 과제를 해결하는 과정을 평가한다. HD현대는 AI와 디지털 기술이 실제...",
-          "src": "그린포스트",
+          "title": "[오늘의 경제뉴스] 트럼프는 삼성·SK 끌어당기는데, 美 첨단 소부장은...",
+          "desc": "미국 정부의 압박으로 글로벌 반도체 기업들의 현지 투자가 늘더라도 수요처와 기술, 인력 등이 집적된... HBM4와 차세대 D램, 첨단 패키징 등 새로운 AI 반도체 공정이 도입되는 점도 한국 투자의 필요성을 높이고 있다....",
+          "src": "newsverse",
           "date": "09/05",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=349301",
-          "img": "https://cdn.greened.kr/news/thumbnail/202609/349301_400789_1727_v150.jpg"
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11367",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11367_19499_2313_v150.jpg"
         },
         {
-          "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
-          "desc": "최신 네모트론은 코딩과 추론부터 기업용 AI 에이전트, 음성, 문서 처리까지 활용 범위를 넓히고 있습니다.... 엔비디아는 풀사이드 자체를 인수하기보다 AI 모델을 개발하는 기술을 확보하고 관련 인재를 영입하는...",
-          "src": "한국경제",
+          "title": "부산백병원, 씽크 '58병상→113병상' 확대",
+          "desc": "활용될 수 있다”고 강조했다. 대웅제약, 종합·전문병원 이어 지역병원 구축 속도 씨어스 씽크 도입은... “앞으로도 AI 기반 기술을 통해 병원 운영의 질적 전환을 이끄는 혁신 파트너가 되겠다”고 덧붙였다.",
+          "src": "dailymedi",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/015/0005328943?sid=104",
-          "img": "https://img.hankyung.com/photo/202609/01.45563839.1.png"
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940167",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
         },
         {
-          "title": "[CAR 브리프]한국앤컴퍼니ㆍ한국타이어ㆍ한온시스템ㆍSK렌터카ㆍ벤츠ㆍ...",
-          "desc": "한국앤컴퍼니 CDO&CIO인 김성진 전무는 AI를 도입한 기업 가운데 실제 비즈니스 가치로 이어지는 비율이 30... 함께 전달되는 후원금은 현장 모니터링ㆍ평가 역량 강화와 수색ㆍ구조 활동, 대원 안전성 제고에 활용된...",
-          "src": "dnews",
+          "title": "생산부터 유통·돌봄까지 '농업 AI' 확산…성패는 데이터에",
+          "desc": "농업 현장에서는 기술 도입에 들어가는 비용에 비해 실제 얻을 수 있는 편익이 명확하지 않은 데다 고령농 비중이 높아 AI 활용 역량에도 격차가 존재한다. 기관과 사업별로 데이터가 분산돼 AI 학습에 바로 활용할 수...",
+          "src": "nocutnews",
           "date": "09/05",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609050006006050759",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609050006006050759-2-688765.JPG"
+          "url": "https://n.news.naver.com/mnews/article/079/0004186142?sid=103",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/04/202609041431057804_0.jpg"
         },
         {
-          "title": "[AI 시대 일의 재편]② 구현자에서 기획자로 바뀐 신세계I&C 개발자",
-          "desc": "신세계그룹의 정보기술(IT) 서비스 계열사 신세계I&C에서 챗봇관리시스템과 AI컨택센터(AICC)를 운영하는 12년... 하지만 AI 도입 뒤 달라졌다. 배포를 제외한 대부분의 단계를 AI가 맡으면서 박 엔지니어는 이제 '무엇을...",
-          "src": "블로터",
+          "title": "세계 4위 K게임 그늘… 새 간판 IP 세대교체 더디다 [韓콘텐츠 IP의 빈칸...",
+          "desc": "재활용하는 전략이 당장의 매출은 지켜줄 수 있지만, 새로운 이용자층과 해외 시장을 개척하는 데에는 한계가 있다. 이승훈 안양대 게임콘텐츠학과 교수는 \"개발 환경이 급변하고 인공지능(AI)까지 도입되는 현재...",
+          "src": "조선일보",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/293/0000090053?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202609/672753_286299_2352_v150.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169547",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169547_451837_2035_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI에 명령할 필요도 없다… 주인 취향 맞춰 냉방·돌봄·청소 척척",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996804?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/SPNZXCUDORPWBM7CAKSTR2WQIE.jpg?auth=ef4a80d52e1b208104de0e5b21a18b5cd6e0f8bb6ad36d85216fbc14d9392a1c&width=1200&height=630&smart=true"
+      "title": "외인·기관 '삼전·하닉' 팔고 삼성전기·SK이노베이션 샀다…개인은 현...",
+      "url": "https://www.news2day.co.kr/article/20260905500005",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/05/.cache/512/20260905500004.png"
+    },
+    {
+      "title": "가전 넘어 자동차까지 연결…샤오미가 그린 ‘AI 생태계’ [IFA 2026]",
+      "url": "https://www.etoday.co.kr/news/view/2622155",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260905044313_2383547_1200_675.jpg"
     },
     {
       "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
     },
     {
-      "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745899?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134610050.1.jpg"
+      "title": "美·이란 갈등에 해상운임 '연중 최고치'…가전업계, 하반기 '수익성 방...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014170766?sid=101",
+      "img": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208248_web.jpg"
     },
     {
-      "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152247?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/9/4/8089669/high.jpg"
+      "title": "[오늘의 경제뉴스] 트럼프는 삼성·SK 끌어당기는데, 美 첨단 소부장은...",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11367",
+      "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11367_19499_2313_v150.jpg"
     },
     {
-      "title": "HD현대, 하반기 신입 채용… '생성형 AI 활용' 능력 본다",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=349301",
-      "img": "https://cdn.greened.kr/news/thumbnail/202609/349301_400789_1727_v150.jpg"
-    },
-    {
-      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328943?sid=104",
-      "img": "https://img.hankyung.com/photo/202609/01.45563839.1.png"
+      "title": "부산백병원, 씽크 '58병상→113병상' 확대",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940167",
+      "img": "https://www.dailymedi.com/img/d_logo.jpg"
     }
   ]
 };
