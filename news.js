@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.04 (금) 13:37",
+  "updatedAt": "2026.09.04 (금) 20:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "폐기물이 '갤럭시 S25' 부품으로…삼성전자, 자원순환 가속도",
-          "desc": "앞두고 삼성전자가 사업장 폐기물을 새로운 원료로 재활용하는 비중을 대폭 늘리며 자원순환에 박차를... 이번에 취득한 38건 가운데 반도체 사업을 담당하는 DS(디바이스솔루션) 부문이 30건, 가전과 스마트폰을...",
-          "src": "sisajournal",
+          "title": "하트 날리고 춤추고…470만원 '판다 로봇'까지 유럽 시장에 떴다 [IFA 202...",
+          "desc": "유럽 최대 가전 전시회 IFA 2026에 마련된 샤오미 전시관에선 휴머노이드(인간형 로봇) '사이버원'이 손가락... 이밖에 삼성전자와 LG전자의 TV 경쟁사인 TCL과 하이센스도 로봇을 앞세워 AI 기술력을 과시했다. TCL은...",
+          "src": "파이낸셜뉴스",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/586/0000137486?sid=101",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202609/386120_394250_367_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005571293?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/04/202609041859157661_e.gif"
         },
         {
-          "title": "[IFA 2026] 韓 'AI 홈' vs 中 로봇 기반 '피지컬 AI' 경연…공중 제비 시...",
-          "desc": "로봇, 로봇청소기, 자동차 업체 등이 주목받는 상황이어서 전시 규모를 줄인 것\"이라고 설명했다. 삼성전자는 '당신의 AI 일상 동반자'라는 전시관을 마련하고, 입구는 관람객을 새로운 차원으로 이끄는 '포털'로...",
-          "src": "뉴스웍스",
+          "title": "[전자는 지금] 삼성전자, 순환자원 인정 38건 취득 外",
+          "desc": "삼성전자가 2026년 8월 기준 누적 총 38건의 순환자원 인정을 취득했다. 이는 국내 제조업계에서 매우... 로보락은 이번 전시에서 2026년 상반기 글로벌 로봇청소기 시장 1위 성과를 바탕으로 차세대 스마트 클리닝...",
+          "src": "dealsite",
           "date": "09/04",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852632",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852632_814676_1125_v150.jpg"
+          "url": "https://dealsite.co.kr/articles/168458",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/04/e3b042cfd14943e3a7dc1d8d194de981/thumb.png"
         },
         {
-          "title": "[정구민의 톺아보기] IFA 2026 오프닝 콘퍼런스…AI로 진화한 가전",
-          "desc": "이러한 트렌드에 따라 최근 시장에서 선호도가 높아지는 제품으로는 커피머신, 로봇청소기, 공간 친화형... 현대자동차 생산기술개발센터, LG전자 CTO부문, 삼성전자 소프트웨어센터, 네이버 네이버랩스 자문교수를...",
-          "src": "아이뉴스24",
+          "title": "삼성전자, 총 38건 순환자원 인정 취득…폐기물 6859톤 감축 달성",
+          "desc": "세탁건조기 등 신제품 내장재 원료로 전환시켰다. DX부문은 오는 2027년 6월까지 8개 품목의 추가 순환자원 인정 취득을 완료할 방침이다. 삼성전자 관계자는 \"재활용 가능한 품목을 지속 발굴하고 폐기물 회수 소재를...",
+          "src": "thedailypost",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/031/0001055443?sid=004",
-          "img": "https://image.inews24.com/v1/dfa4cbc8982850.jpg"
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115390",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115390_119510_1226_v150.jpg"
         },
         {
-          "title": "삼성전자 '순환자원 인정' 확대…연 6850톤 폐기물 감축",
-          "desc": "세탁건조기 '비스포크 AI 콤보'의 외부 세탁조를 제작하는 등 제품 적용 범위를 넓히고 있다. 삼성전자 관계자는 \"앞으로도 사업 현장에서 재활용 가능한 품목을 지속 발굴하고, 폐기물에서 회수한 소재를 제품과 공정에...",
-          "src": "shinailbo",
+          "title": "[비즈투데이] 삼성전자, 독일 IFA서 'AI 방탈출' 체험",
+          "desc": "삼성전자는 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026'에서 글로벌 인플루언서와 콘텐츠 크리에이터를 위한 전용 공간 '삼성 크리에이터 허브'를 운영한다고 밝혔습니다. 삼성 크리에이터 허브는 IFA가...",
+          "src": "obsnews",
           "date": "09/04",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058529",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058529_2056382_3532.png"
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536412",
+          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202609/1536412_735326_1338_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "폐기물이 '갤럭시 S25' 부품으로…삼성전자, 자원순환 가속도",
-          "desc": "재활용 가능한 품목 꾸준히 발굴…새로운 자원화 기술 도입\" 오는 6일 '자원순환의 날'을 앞두고 삼성전자가... 재가공해 '비스포크 AI 무풍콤보 갤러리' 에어컨과 '비스포크 AI 콤보' 세탁건조기 내장재 및 외부 세탁조...",
-          "src": "sisajournal",
+          "title": "“쉽게 잠들지 못하는 사회를 위한 기술적 해법” 디비비츠 수면 기술의...",
+          "desc": "다만, 준비된 콘텐츠를 활용하다 보니 사람마다 효과가 다르다는 한계가 따랐다. 뇌파를 직접 측정해... 디비비츠의 수면 관리 기술은 진화한다 디비비츠는 이제 수면 도입을 돕는 단계에서 수면의 전체 주기와 일상...",
+          "src": "동아일보",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/586/0000137486?sid=101",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202609/386120_394250_367_v150.jpg"
+          "url": "https://it.donga.com/109469/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/9/4/0e4f6d1d0bf04411-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "문체부, 2027년 예산 9조6천억 편성 '역대 최대'",
-          "desc": "K-컬처 라이브 공연 향유 경험 혁신 기술개발, K-뮤지엄 기술개발, K-컬처 현장 솔루션 기술개발 등 신규... 관광권 공동 브랜드 구축, 지방공항 연계 홍보·마케팅, 관광교통망 확충, 한국 관광 통합패스 도입, K-팝...",
-          "src": "한스경제",
+          "title": "AI로 도시의 미래 읽는다…청주대 조경학과 학부생 연구 '결실'",
+          "desc": "연결해 AI 기술을 조경·도시계획 분야와 융합하는 통합 교육모델이다. 청주대 조경학과는 이 교육과정을 전국 조경학과 가운데 최초로 도입해 운영하고 있다. 염승일 조경학과장의 지도로 'AI Triple Track-Project'에...",
+          "src": "ccreview",
           "date": "09/04",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862181",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/862181_885276_4922_v150.jpg"
+          "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=356695",
+          "img": "https://cdn.ccreview.co.kr/news/photo/202609/356695_189345_5250.jpg"
         },
         {
-          "title": "개인정보위, 내년 예산 996억원 ‘역대 최대’...신고포상 94억원 배정",
-          "desc": "개인정보위 관계자는 “국가 간 안전한 데이터 이전을 촉진하고 AI 원본활용 특례 도입으로 AI 기술 개발시 맞춤형 안전조치를 전제로 개인정보 활용을 허용할 방침”이라고 말했다. 개인정보 침해·유출 사고 대응 및...",
-          "src": "매일경제",
+          "title": "완주군 “스마트한 복지 현장 만든다”",
+          "desc": "(AI) 활용 역량강화교육’을 성공적으로 마쳤다. 이번 교육은 인구 고령화와 디지털 대전환이라는 흐름에 맞춰 생성형 인공지능(AI) 기술을 공공복지 영역에 선제적으로 도입하고자 마련했다. 어르신들이 살기 좋은...",
+          "src": "thepowernews",
           "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/009/0005730444?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/04/news-p.v1.20260904.d1343d3322ab4a3dbf46e15a956b3984_R.jpg"
+          "url": "https://www.thepowernews.co.kr/view.php?ud=2026090419350615803dfcd109a8_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609041938050535603dfcd109a811513921884.jpg&nmt=7"
         },
         {
-          "title": "김천대학교 임상병리학과, 주요 대학병원 정규직 취업 쾌거",
-          "desc": "김천대 임상병리학과에서 선제적으로 개설·운영하고 있는 'AI 활용 교과목'을 통해 재학 시절부터 AI 기반... 발맞춰 AI 등 4차 산업혁명 기술을 접목한 전공 교육과정을 선제적으로 도입한 것이 학생들의 취업 경쟁력 강화로...",
-          "src": "job-post",
+          "title": "[화제의 신간] 서울문화사, 과학만화 '헬로메이플' 2권 출간…코딩 사고...",
+          "desc": "10편의 사례 연구와 52편의 이론적 분석 틀, 12종의 실무 부록을 수록해 이론과 실제 정책 현장에서 활용할 수 있도록 구성했다. 저자는 특히 AI 시대 정부의 경쟁력은 기술을 얼마나 빨리 도입하느냐뿐 아니라 적법절차와...",
+          "src": "ibabynews",
           "date": "09/04",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226209",
-          "img": "https://cdn.job-post.co.kr/news/photo/202609/226209_329514_3230.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154268",
+          "img": "https://www.ibabynews.com/news/photo/202609/154268_121082_1836.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 넘게 뛰었다",
+          "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
+          "src": "한국경제",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/015/0005328827?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/99.43046359.1.jpg"
+        },
+        {
+          "title": "토요타는 6년 무분규… 현대차는 '연례행사' 파업 후유증",
+          "desc": "특히 삼성전자, SK하이닉스가 대규모 이익에 따른 폭탄 성과급을 지급한 것도 협상단을 자극해 강경 기조로... 정해지고 협력사도 이 일정에 맞춰 부품을 공급한다. 적시 공급·생산이 업계 핵심이다. 완성차...",
+          "src": "the-biz",
+          "date": "09/04",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727381",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727381_932488_5456.jpg"
+        },
         {
           "title": "'전북 반도체특화단지'…생소하고 어려운 반도체 관련 용어들 쉽게 이해...",
           "desc": "부품(부품), 그리고 실제 공정을 수행하는 기계(장비)를 통칭한다. 삼성전자·SK하이닉스 같은 완성품 업체에... 투자와 협력사 유치를 이끄는 ‘허브’ 역할을 맡는다. 비유하자면, 앵커기업은 ‘공동 주방’의 셰프이자...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/04",
           "url": "http://www.newsdream.kr/news/articleView.html?idxno=117519",
           "img": "https://cdn.newsdream.kr/news/thumbnail/202609/117519_90330_3052_v150.jpg"
-        },
-        {
-          "title": "삼성전자, 버려지던 산업폐기물을 '돈 되는 자원'으로 ... '순환자원' 인...",
-          "desc": "웨이퍼 트레이(왼쪽), 웨이퍼박스 압출 펠렛(중간), 다이아몬드 디스크(오른쪽) 협력사와 손잡고 스티로폼... 부품에 쓰인다. 버려지는 자원의 활용 범위를 제품 안쪽에서 겉면까지 넓혀가고 있는 셈이다. 삼성전자는...",
-          "src": "worktoday",
-          "date": "09/04",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88827",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202609/88827_127959_2723_v150.jpg"
-        },
-        {
-          "title": "'폐기물' 꼬리표 뗀 웨이퍼 트레이… 삼성전자, 순환자원 인정 38건 확대",
-          "desc": "냉장고 수납선반 부품으로 쓰인다. 삼성전자 관계자는 \"앞으로도 현장 배출 물질을 상시 점검해 순환자원 인정을 추가로 획득하고, 계열 부문과 협력사를 아우르는 자원 재활용 공급망을 확대해 나갈 방침\"이라고 말했다.",
-          "src": "financialpost",
-          "date": "09/04",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=273834",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/273834_356668_3339_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "폐기물이 '갤럭시 S25' 부품으로…삼성전자, 자원순환 가속도",
-      "url": "https://n.news.naver.com/mnews/article/586/0000137486?sid=101",
-      "img": "https://cdn.sisajournal.com/news/thumbnail/202609/386120_394250_367_v150.jpg"
+      "title": "하트 날리고 춤추고…470만원 '판다 로봇'까지 유럽 시장에 떴다 [IFA 202...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571293?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/04/202609041859157661_e.gif"
     },
     {
-      "title": "[IFA 2026] 韓 'AI 홈' vs 中 로봇 기반 '피지컬 AI' 경연…공중 제비 시...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852632",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852632_814676_1125_v150.jpg"
+      "title": "[전자는 지금] 삼성전자, 순환자원 인정 38건 취득 外",
+      "url": "https://dealsite.co.kr/articles/168458",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/04/e3b042cfd14943e3a7dc1d8d194de981/thumb.png"
     },
     {
-      "title": "[정구민의 톺아보기] IFA 2026 오프닝 콘퍼런스…AI로 진화한 가전",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055443?sid=004",
-      "img": "https://image.inews24.com/v1/dfa4cbc8982850.jpg"
+      "title": "삼성전자, 총 38건 순환자원 인정 취득…폐기물 6859톤 감축 달성",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115390",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115390_119510_1226_v150.jpg"
     },
     {
-      "title": "삼성전자 '순환자원 인정' 확대…연 6850톤 폐기물 감축",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058529",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058529_2056382_3532.png"
+      "title": "[비즈투데이] 삼성전자, 독일 IFA서 'AI 방탈출' 체험",
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536412",
+      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202609/1536412_735326_1338_v150.jpg"
     },
     {
-      "title": "폐기물이 '갤럭시 S25' 부품으로…삼성전자, 자원순환 가속도",
-      "url": "https://n.news.naver.com/mnews/article/586/0000137486?sid=101",
-      "img": "https://cdn.sisajournal.com/news/thumbnail/202609/386120_394250_367_v150.jpg"
+      "title": "“쉽게 잠들지 못하는 사회를 위한 기술적 해법” 디비비츠 수면 기술의...",
+      "url": "https://it.donga.com/109469/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/9/4/0e4f6d1d0bf04411-thumbnail-960x540-70.jpg"
     },
     {
-      "title": "문체부, 2027년 예산 9조6천억 편성 '역대 최대'",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862181",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/862181_885276_4922_v150.jpg"
+      "title": "AI로 도시의 미래 읽는다…청주대 조경학과 학부생 연구 '결실'",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=356695",
+      "img": "https://cdn.ccreview.co.kr/news/photo/202609/356695_189345_5250.jpg"
     }
   ]
 };
