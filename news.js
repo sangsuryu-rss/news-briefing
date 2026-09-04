@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.04 (금) 20:21",
+  "updatedAt": "2026.09.05 (토) 01:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "하트 날리고 춤추고…470만원 '판다 로봇'까지 유럽 시장에 떴다 [IFA 202...",
-          "desc": "유럽 최대 가전 전시회 IFA 2026에 마련된 샤오미 전시관에선 휴머노이드(인간형 로봇) '사이버원'이 손가락... 이밖에 삼성전자와 LG전자의 TV 경쟁사인 TCL과 하이센스도 로봇을 앞세워 AI 기술력을 과시했다. TCL은...",
-          "src": "파이낸셜뉴스",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/014/0005571293?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/09/04/202609041859157661_e.gif"
+          "title": "AI에 명령할 필요도 없다… 주인 취향 맞춰 냉방·돌봄·청소 척척",
+          "desc": "유럽 최대 가전 행사서 본 AI 진화 3줄 요약 ㆍIFA 2026 개막, 글로벌 기업들의 AI 경쟁 ㆍ가족 일정과 취향... 삼성전자는 AI를 따로 불러내지 않아도 시청자의 취향과 보는 내용을 알아서 파악하는 TV를 선보였다. 즐겨...",
+          "src": "조선일보",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996804?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/SPNZXCUDORPWBM7CAKSTR2WQIE.jpg?auth=ef4a80d52e1b208104de0e5b21a18b5cd6e0f8bb6ad36d85216fbc14d9392a1c&width=1200&height=630&smart=true"
         },
         {
-          "title": "[전자는 지금] 삼성전자, 순환자원 인정 38건 취득 外",
-          "desc": "삼성전자가 2026년 8월 기준 누적 총 38건의 순환자원 인정을 취득했다. 이는 국내 제조업계에서 매우... 로보락은 이번 전시에서 2026년 상반기 글로벌 로봇청소기 시장 1위 성과를 바탕으로 차세대 스마트 클리닝...",
-          "src": "dealsite",
+          "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
+          "desc": "특히 AI 기능을 탑재한 냉장고와 빌트인 가전, 세탁기·건조기, 에어컨, 스마트폰 등 다양한 전자제품을... 삼성전자와 LG전자가 지난 전시회에서 강조해온 AI와 가전의 유기적인 연결과 같은 형태다. 특히 TCL 가전의 AI...",
+          "src": "sidae",
           "date": "09/04",
-          "url": "https://dealsite.co.kr/articles/168458",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/04/e3b042cfd14943e3a7dc1d8d194de981/thumb.png"
+          "url": "https://n.news.naver.com/mnews/article/417/0001157419?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
         },
         {
-          "title": "삼성전자, 총 38건 순환자원 인정 취득…폐기물 6859톤 감축 달성",
-          "desc": "세탁건조기 등 신제품 내장재 원료로 전환시켰다. DX부문은 오는 2027년 6월까지 8개 품목의 추가 순환자원 인정 취득을 완료할 방침이다. 삼성전자 관계자는 \"재활용 가능한 품목을 지속 발굴하고 폐기물 회수 소재를...",
-          "src": "thedailypost",
+          "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
+          "desc": "같은 맥락에서 현재 무관세 적용을 받는 한국 삼성전자와 SK하이닉스에도 대규모 시설 투자를 요구하는... 신규 관세가 반도체가 들어가는 스마트폰, 컴퓨터, 가전제품 등에 광범위하게 적용되면 물가가 더 오를 가능성도...",
+          "src": "동아일보",
           "date": "09/04",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115390",
-          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115390_119510_1226_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003745899?sid=110",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134610050.1.jpg"
         },
         {
-          "title": "[비즈투데이] 삼성전자, 독일 IFA서 'AI 방탈출' 체험",
-          "desc": "삼성전자는 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026'에서 글로벌 인플루언서와 콘텐츠 크리에이터를 위한 전용 공간 '삼성 크리에이터 허브'를 운영한다고 밝혔습니다. 삼성 크리에이터 허브는 IFA가...",
-          "src": "obsnews",
+          "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
+          "desc": "냉장고가 식재료 인식…폴더블폰 따라 'AI 방 탈출' 삼성전자(005930)는 AI 기술을 일방적으로 설명하기보다... 한쪽 벽에는 크기별 미니 LED TV가 걸렸고, 다른 벽에는 미지아 무선 청소기가 줄지어 섰다. 중앙에는 촬영...",
+          "src": "뉴스1",
           "date": "09/04",
-          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536412",
-          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202609/1536412_735326_1338_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009152247?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/9/4/8089669/high.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“쉽게 잠들지 못하는 사회를 위한 기술적 해법” 디비비츠 수면 기술의...",
-          "desc": "다만, 준비된 콘텐츠를 활용하다 보니 사람마다 효과가 다르다는 한계가 따랐다. 뇌파를 직접 측정해... 디비비츠의 수면 관리 기술은 진화한다 디비비츠는 이제 수면 도입을 돕는 단계에서 수면의 전체 주기와 일상...",
-          "src": "동아일보",
-          "date": "09/04",
-          "url": "https://it.donga.com/109469/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/9/4/0e4f6d1d0bf04411-thumbnail-960x540-70.jpg"
+          "title": "HD현대, 하반기 신입 채용… '생성형 AI 활용' 능력 본다",
+          "desc": "AI활용역량검사'를 새롭게 도입한다. 서류전형 합격자를 대상으로 비대면 온라인 방식으로 진행되며, 지원자가 생성형 AI를 직접 이용해 주어진 과제를 해결하는 과정을 평가한다. HD현대는 AI와 디지털 기술이 실제...",
+          "src": "그린포스트",
+          "date": "09/05",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349301",
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/349301_400789_1727_v150.jpg"
         },
         {
-          "title": "AI로 도시의 미래 읽는다…청주대 조경학과 학부생 연구 '결실'",
-          "desc": "연결해 AI 기술을 조경·도시계획 분야와 융합하는 통합 교육모델이다. 청주대 조경학과는 이 교육과정을 전국 조경학과 가운데 최초로 도입해 운영하고 있다. 염승일 조경학과장의 지도로 'AI Triple Track-Project'에...",
-          "src": "ccreview",
-          "date": "09/04",
-          "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=356695",
-          "img": "https://cdn.ccreview.co.kr/news/photo/202609/356695_189345_5250.jpg"
+          "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
+          "desc": "최신 네모트론은 코딩과 추론부터 기업용 AI 에이전트, 음성, 문서 처리까지 활용 범위를 넓히고 있습니다.... 엔비디아는 풀사이드 자체를 인수하기보다 AI 모델을 개발하는 기술을 확보하고 관련 인재를 영입하는...",
+          "src": "한국경제",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/015/0005328943?sid=104",
+          "img": "https://img.hankyung.com/photo/202609/01.45563839.1.png"
         },
         {
-          "title": "완주군 “스마트한 복지 현장 만든다”",
-          "desc": "(AI) 활용 역량강화교육’을 성공적으로 마쳤다. 이번 교육은 인구 고령화와 디지털 대전환이라는 흐름에 맞춰 생성형 인공지능(AI) 기술을 공공복지 영역에 선제적으로 도입하고자 마련했다. 어르신들이 살기 좋은...",
-          "src": "thepowernews",
-          "date": "09/04",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=2026090419350615803dfcd109a8_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609041938050535603dfcd109a811513921884.jpg&nmt=7"
+          "title": "[CAR 브리프]한국앤컴퍼니ㆍ한국타이어ㆍ한온시스템ㆍSK렌터카ㆍ벤츠ㆍ...",
+          "desc": "한국앤컴퍼니 CDO&CIO인 김성진 전무는 AI를 도입한 기업 가운데 실제 비즈니스 가치로 이어지는 비율이 30... 함께 전달되는 후원금은 현장 모니터링ㆍ평가 역량 강화와 수색ㆍ구조 활동, 대원 안전성 제고에 활용된...",
+          "src": "dnews",
+          "date": "09/05",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609050006006050759",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609050006006050759-2-688765.JPG"
         },
         {
-          "title": "[화제의 신간] 서울문화사, 과학만화 '헬로메이플' 2권 출간…코딩 사고...",
-          "desc": "10편의 사례 연구와 52편의 이론적 분석 틀, 12종의 실무 부록을 수록해 이론과 실제 정책 현장에서 활용할 수 있도록 구성했다. 저자는 특히 AI 시대 정부의 경쟁력은 기술을 얼마나 빨리 도입하느냐뿐 아니라 적법절차와...",
-          "src": "ibabynews",
-          "date": "09/04",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154268",
-          "img": "https://www.ibabynews.com/news/photo/202609/154268_121082_1836.png"
+          "title": "[AI 시대 일의 재편]② 구현자에서 기획자로 바뀐 신세계I&C 개발자",
+          "desc": "신세계그룹의 정보기술(IT) 서비스 계열사 신세계I&C에서 챗봇관리시스템과 AI컨택센터(AICC)를 운영하는 12년... 하지만 AI 도입 뒤 달라졌다. 배포를 제외한 대부분의 단계를 AI가 맡으면서 박 엔지니어는 이제 '무엇을...",
+          "src": "블로터",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/293/0000090053?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202609/672753_286299_2352_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"정부가 직접 200대 산다\" 겹호재에 '들썩'…단숨에 29% 뛰어올랐다",
+          "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
+          "src": "wowtv",
+          "date": "09/04",
+          "url": "https://n.news.naver.com/mnews/article/215/0001264942?sid=101",
+          "img": ""
+        },
         {
           "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 넘게 뛰었다",
           "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/04",
           "url": "https://n.news.naver.com/mnews/article/002/0002454959?sid=102",
           "img": "https://cdn.pressian.com/_resources/10/2026/09/04/2026072311234072107_l.jpg"
-        },
-        {
-          "title": "삼성전자, 순환자원 인정 누적 38건 획득… 연간 6,850톤 폐기물 감축",
-          "desc": "이 소재는 플래그십 스마트폰 '갤럭시 S25' 시리즈의 사이드키와 볼륨키 등 핵심 부품 외장재로 납품되며... 삼성전자 관계자는 \"폐기물 배출 단계부터 원료 재사용 가능성을 다각도로 검토해 부서 간 및 외부 협력사와의...",
-          "src": "newsdream",
-          "date": "09/04",
-          "url": "http://www.newsdream.kr/news/articleView.html?idxno=117519",
-          "img": "https://cdn.newsdream.kr/news/thumbnail/202609/117519_90330_3052_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "하트 날리고 춤추고…470만원 '판다 로봇'까지 유럽 시장에 떴다 [IFA 202...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571293?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/09/04/202609041859157661_e.gif"
+      "title": "AI에 명령할 필요도 없다… 주인 취향 맞춰 냉방·돌봄·청소 척척",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996804?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/SPNZXCUDORPWBM7CAKSTR2WQIE.jpg?auth=ef4a80d52e1b208104de0e5b21a18b5cd6e0f8bb6ad36d85216fbc14d9392a1c&width=1200&height=630&smart=true"
     },
     {
-      "title": "[전자는 지금] 삼성전자, 순환자원 인정 38건 취득 外",
-      "url": "https://dealsite.co.kr/articles/168458",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/04/e3b042cfd14943e3a7dc1d8d194de981/thumb.png"
+      "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
+      "url": "https://n.news.naver.com/mnews/article/417/0001157419?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
     },
     {
-      "title": "삼성전자, 총 38건 순환자원 인정 취득…폐기물 6859톤 감축 달성",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115390",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115390_119510_1226_v150.jpg"
+      "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745899?sid=110",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134610050.1.jpg"
     },
     {
-      "title": "[비즈투데이] 삼성전자, 독일 IFA서 'AI 방탈출' 체험",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536412",
-      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202609/1536412_735326_1338_v150.jpg"
+      "title": "냉장고가 식재료 인식하고 로봇이 집안 연결…IFA의 'AI 일상'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152247?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/9/4/8089669/high.jpg"
     },
     {
-      "title": "“쉽게 잠들지 못하는 사회를 위한 기술적 해법” 디비비츠 수면 기술의...",
-      "url": "https://it.donga.com/109469/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/9/4/0e4f6d1d0bf04411-thumbnail-960x540-70.jpg"
+      "title": "HD현대, 하반기 신입 채용… '생성형 AI 활용' 능력 본다",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=349301",
+      "img": "https://cdn.greened.kr/news/thumbnail/202609/349301_400789_1727_v150.jpg"
     },
     {
-      "title": "AI로 도시의 미래 읽는다…청주대 조경학과 학부생 연구 '결실'",
-      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=356695",
-      "img": "https://cdn.ccreview.co.kr/news/photo/202609/356695_189345_5250.jpg"
+      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328943?sid=104",
+      "img": "https://img.hankyung.com/photo/202609/01.45563839.1.png"
     }
   ]
 };
