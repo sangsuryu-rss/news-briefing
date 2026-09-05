@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 07:04",
+  "updatedAt": "2026.09.06 (일) 08:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "올해 국내 10대 브랜드 가치 2천억달러 육박…삼전닉스 '껑충'",
-          "desc": "3% 증가한 3천570억달러 올해 삼성전자를 비롯한 국내 상위 10대 브랜드의 가치가 2천억달러(약 276조원)에... LG전자(5위)는 브랜드 가치가 8.9% 감소한 96억700만달러로 평가됐다. 가전 시장의 일부 수요 둔화와 미래...",
-          "src": "연합뉴스",
+          "title": "[IFA 2026] “시끄럽고 집중도 떨어져”… 주무대 떠난 삼성전자, 도심서...",
+          "desc": "설훈 삼성전자 독일법인 소비자가전(CE) 부문장(부사장)은 독일 베를린 도심의 훔볼트 카레(Humboldt Carré)에 마련된 ‘베를린 국제가전박람회(IFA) 2026 단독 전시관’에서 기자들과 만나 이렇게 말했다. 삼성전자는 IFA 2026...",
+          "src": "조선일보",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/001/0016292058?sid=101",
-          "img": "https://img8.yna.co.kr/photo/cms/2026/05/30/15/PCM20260530000015990_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001190583?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/PKMVVOB3JVDONMVFXNFDLMX6YM.gif?auth=541e1189d4f0eeef2a4f4be2d25b4ac0a072a04875e44f432a1bbb29b242429b&width=654&height=343&smart=true"
         },
         {
           "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
         },
         {
-          "title": "[르포]삼성은 왜 유럽 최대 가전박람회 'IFA 전시장'을 떠났나",
-          "desc": "한국을 대표하는 삼성전자와 LG전자는 서로 같은듯 다르게 미래를 준비하고, 중국 기업은 로봇을 앞세워... 인공지능(AI) 시대에서는 모든 전자기기가 사용자에게 반응했다. 주방에서는 냉장고 역시 사용자의 취향을...",
-          "src": "nocutnews",
+          "title": "삼성전자, IFA 2026서 '방탈출' 등 AI 생태계 체험 선보여",
+          "desc": "삼성전자가 9월 4일부터 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 IFA 2026에서 글로벌... AI 세탁기, TV, 스마트모니터 등의 AI 기능들을 체험할 수 있다. 외부에는 OLED TV를 설치해 관람객들이 내부의 방탈출...",
+          "src": "thepublic",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/079/0004186233?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609052354276270_0.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317646",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/317646_321039_409.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대戰, 민간 기술력이 중요하다더니…연구·활용 되레 감소 [비즈360]",
-          "desc": "민간기술 활용 실적이 감소했다. 구체적으로 2022년 7건, 2023년 4건, 2024년 3건, 지난해에는 2건으로 줄었다. “현행 획득체계, 민간 기술 신속 도입 한계” 조사처는 현행 획득체계는 민간 혁신기술을 신속하게 도입하고...",
-          "src": "헤럴드경제",
+          "title": "[크립토리뷰] 글로벌 고위 인사 집결…'이스트포인트:서울 2026' 1차 라인...",
+          "desc": "온체인화 △인공지능(AI) 에이전트의 시대 △일상에서의 블록체인 도입 등 5개 대주제로 진행된다. AI... 디지털 기술 도입과 함께 현지 학생과 교수진의 활용 역량을 높이는 것이 사업의 주요 목표다. 블록체인 기반...",
+          "src": "더구루",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/016/0002693259?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20250123.eae099ef6efd4cb6b8e7a96fa03e1e9d_T1.jpg"
+          "url": "https://www.theguru.co.kr/news/article.html?no=106732",
+          "img": "https://www.theguru.co.kr/data/photos/20260936/art_17886114621631_4579af.jpg"
         },
         {
-          "title": "예산군, AI 기반 CCTV 통합관제로 지방정부 우수사례 '최우수상'",
-          "desc": "첨단기술을 단순히 도입하는 데 그치지 않고 위험 요소를 미리 감지해 사고를 예방하는 안전관리 체계를 구축했다는 점에서 의미가 있다는 게 군의 설명이다. 예산군은 앞으로 축적된 데이터를 활용해 AI 모델을...",
-          "src": "shinailbo",
+          "title": "[굿모닝! 이 법안] '인공지능 기본사회·국민권리 보장법' 대기 중⋯\"AI기...",
+          "desc": "[편집자주] ◆ 인공지능 기본사회 및 국민권리 보장법 더불어민주당 차지호 의원(경기 오산시)은 산업·기술... 하지만 차 의원은 AI를 활용한 필수 공공서비스 제공, AI로 인한 위험의 체계적 관리, 국민의 AI기본권 보장...",
+          "src": "goodkyung",
           "date": "09/06",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058557",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058557_2056410_3111.jpg"
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=291033",
+          "img": "https://cdn.goodkyung.com/news/thumbnail/202609/291033_263884_4112_v150.jpg"
         },
         {
-          "title": "VM웨어 대체 넘어 AI 인프라로…상포테크놀로지, 선전서 글로벌 서밋",
-          "desc": "세계 각지 파트너들이 상포의 확장형 탐지·대응(XDR)과 관리형 탐지·대응(MDR)을 활용해 실제 고객 보안... 상포는 기존 가상화와 HCI를 기업 AI 도입을 위한 기반 인프라로 확장하고 AI 기술을 사이버보안과 인프라...",
-          "src": "디지털데일리",
+          "title": "서초구, AI 침수 계측·경보 시스템으로 행안부 장관상",
+          "desc": "서울 서초구(구청장 전성수)는 행정안전부 주관 '2026 지방정부 CCTV 활용 우수사례' 경진대회에서 'AI 침수... 추가 도입해 연말까지 총 196대로 확대할 계획이다. 전성수 구청장은 \"이번 수상은 CCTV와 AI 기술을 융합해...",
+          "src": "view",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240341?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/03/08/2026030809021985323_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005812351?sid=102",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090608291817182_1788650958.jpg"
         },
         {
-          "title": "“내 딸 위험에 빠뜨린 사람이 나였다니”…한가인도 결사반대 ‘셰어...",
-          "desc": "인공지능(AI) 기술을 적용한 딥페이크 범죄의 학습 자료로 악용될 가능성이 있다고 분석했다.... 가해자의 36.1%가 SNS 계정과 채팅용 애플리케이션을 활용해 피해자에게 접근했다. 사생활 침해를 빈번하게 당하는...",
-          "src": "매일경제",
+          "title": "닥터지, 호주서 단독 팝업 운영...룰루랩, AI 기반 '병원 AX' 추진",
+          "desc": "뷰티업계가 글로벌 시장 공략과 인공지능(AI) 기술 도입을 통해 소비자 접점을 넓히고 있다. 더모코스메틱... 수립에 활용할 계획이다. 향후 체크인과 문진부터 피부 분석, 상담·시술 선택, 결제, 사후관리까지 병원...",
+          "src": "slist",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/009/0005730875?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/06/news-p.v1.20260904.28cfa4b78d5244729f30c22c3afa6e18_R.png"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=763909",
+          "img": "https://cdn.slist.kr/news/thumbnail/202609/763909_1169660_859_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "올해 국내 10대 브랜드 가치 2천억달러 육박…삼전닉스 '껑충'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016292058?sid=101",
-      "img": "https://img8.yna.co.kr/photo/cms/2026/05/30/15/PCM20260530000015990_P4.jpg"
+      "title": "[IFA 2026] “시끄럽고 집중도 떨어져”… 주무대 떠난 삼성전자, 도심서...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190583?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/PKMVVOB3JVDONMVFXNFDLMX6YM.gif?auth=541e1189d4f0eeef2a4f4be2d25b4ac0a072a04875e44f432a1bbb29b242429b&width=654&height=343&smart=true"
     },
     {
       "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
     },
     {
-      "title": "[르포]삼성은 왜 유럽 최대 가전박람회 'IFA 전시장'을 떠났나",
-      "url": "https://n.news.naver.com/mnews/article/079/0004186233?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609052354276270_0.jpg"
+      "title": "삼성전자, IFA 2026서 '방탈출' 등 AI 생태계 체험 선보여",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317646",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/317646_321039_409.jpg"
     },
     {
-      "title": "현대戰, 민간 기술력이 중요하다더니…연구·활용 되레 감소 [비즈360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693259?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20250123.eae099ef6efd4cb6b8e7a96fa03e1e9d_T1.jpg"
+      "title": "[크립토리뷰] 글로벌 고위 인사 집결…'이스트포인트:서울 2026' 1차 라인...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=106732",
+      "img": "https://www.theguru.co.kr/data/photos/20260936/art_17886114621631_4579af.jpg"
     },
     {
-      "title": "예산군, AI 기반 CCTV 통합관제로 지방정부 우수사례 '최우수상'",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058557",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058557_2056410_3111.jpg"
+      "title": "[굿모닝! 이 법안] '인공지능 기본사회·국민권리 보장법' 대기 중⋯\"AI기...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=291033",
+      "img": "https://cdn.goodkyung.com/news/thumbnail/202609/291033_263884_4112_v150.jpg"
     }
   ]
 };
