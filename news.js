@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 03:20",
+  "updatedAt": "2026.09.06 (일) 07:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LG전자 씽큐 클로, 카톡 메시지로 가전 미리 움직이게 제안…실행은 사...",
-          "desc": "그는 Home Connectivity Alliance를 통해 삼성전자의 일부 가전도 호환된다고 덧붙였다.Athom이 개발한 상호운용 플랫폼 Homey는 LG전자의 AI Home 전략에서 핵심 축이다. LG전자는 2024년 Athom 지분 80%를 인수했다고 발표했으며...",
-          "src": "wikitree",
+          "title": "올해 국내 10대 브랜드 가치 2천억달러 육박…삼전닉스 '껑충'",
+          "desc": "3% 증가한 3천570억달러 올해 삼성전자를 비롯한 국내 상위 10대 브랜드의 가치가 2천억달러(약 276조원)에... LG전자(5위)는 브랜드 가치가 8.9% 감소한 96억700만달러로 평가됐다. 가전 시장의 일부 수요 둔화와 미래...",
+          "src": "연합뉴스",
           "date": "09/06",
-          "url": "https://www.wikitree.co.kr/articles/1157505",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/06/202609060310078337_ai.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016292058?sid=101",
+          "img": "https://img8.yna.co.kr/photo/cms/2026/05/30/15/PCM20260530000015990_P4.jpg"
         },
         {
-          "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
-          "desc": "중국 스마트 청소가전 업체 트랜스타는 자체 브랜드 토시마를 앞세워 로봇 청소기의 활동 영역을 수영장과... 대표적으로 삼성전자는 올해 전시 공간과 별도로 B2B 고객을 위한 라운지와 미팅 공간을 마련했다. 현장을 찾은...",
-          "src": "파이낸셜뉴스",
-          "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/014/0005571409?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
-        },
-        {
-          "title": "[IFA] '큰손' 잡는다…삼성은 도심으로, LG는 전시장 절반 B2B",
-          "desc": "©AP신문(AP뉴스)/이미지 제공 = 삼성전자, LG전자 유럽 최대 가전·정보기술(IT) 전시회 'IFA 2026'에서... 유럽 생활환경을 겨냥한 '핏 앤 맥스(Fit & Max)' 역시 냉장고에서 세탁기·건조기·식기세척기 등으로 확대했다....",
-          "src": "apnews",
-          "date": "09/05",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051019",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
-        },
-        {
-          "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
-          "desc": "동행노조는 그동안 삼성전자가 AI 전환을 명분으로 조직 효율화를 추진하면서 구성원과 충분히 소통하지 않고 있다고 주장해왔다. 특히 스마트폰과 TV, 생활가전 등을 담당하는 DX부문이 반도체 사업을 맡는...",
-          "src": "조선일보",
+          "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
+          "desc": "글로벌 로봇청소기 1위 기업인 로보락(Roborock)은 수영장 바닥과 벽면의 찌든 때를 완전 자율로 제거하는... 일본 가전사들의 존재감은 사실상 소멸 직전으로 내몰렸으며, 한국의 삼성전자가 메인 홀을 떠나 도심...",
+          "src": "g-enews",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609051725085890c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260905172605053010c8c1c064d22114611240.jpg"
+        },
+        {
+          "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
+          "desc": "세탁기·건조기·식기세척기까지 확대했다. 유럽 특유의 좁은 주방 환경에 최적화된 공간 효율성을 강조하고 유럽 A등급 대비 에너지를 최대 70%까지 절감하는 초고효율 제품군도 함께 선보였다. 삼성전자는...",
+          "src": "아시아타임즈",
+          "date": "09/06",
+          "url": "https://www.asiatime.co.kr/article/20260905500027",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
+        },
+        {
+          "title": "[르포]삼성은 왜 유럽 최대 가전박람회 'IFA 전시장'을 떠났나",
+          "desc": "한국을 대표하는 삼성전자와 LG전자는 서로 같은듯 다르게 미래를 준비하고, 중국 기업은 로봇을 앞세워... 인공지능(AI) 시대에서는 모든 전자기기가 사용자에게 반응했다. 주방에서는 냉장고 역시 사용자의 취향을...",
+          "src": "nocutnews",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/079/0004186233?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609052354276270_0.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI가 인간 대신할 수 없다\"...미국 뉴욕 파격 실험 시작 [자막뉴스]",
-          "desc": "어떻게 활용하면 도움이 되는지, 또 어떤 경우에는 해가 될 수 있기 때문에 사용하지 않는 것이 좋은지에 대해 이야기해야 합니다.] 아이들의 미래 경쟁력을 위해 AI를 교육현장에 빠르게 도입해야 한다는 흐름에 제동을...",
-          "src": "ytn",
+          "title": "현대戰, 민간 기술력이 중요하다더니…연구·활용 되레 감소 [비즈360]",
+          "desc": "민간기술 활용 실적이 감소했다. 구체적으로 2022년 7건, 2023년 4건, 2024년 3건, 지난해에는 2건으로 줄었다. “현행 획득체계, 민간 기술 신속 도입 한계” 조사처는 현행 획득체계는 민간 혁신기술을 신속하게 도입하고...",
+          "src": "헤럴드경제",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403274?sid=104",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060238494730_t.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002693259?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20250123.eae099ef6efd4cb6b8e7a96fa03e1e9d_T1.jpg"
         },
         {
-          "title": "\"학교에선 AI 금지\"...뉴욕시 공교육 실험 통할까?",
-          "desc": "어떻게 활용하면 도움이 되는지, 또 어떤 경우에는 해가 될 수 있기 때문에 사용하지 않는 것이 좋은지에 대해 이야기해야 합니다.] 아이들의 미래 경쟁력을 위해 AI를 교육현장에 빠르게 도입해야 한다는 흐름에 제동을...",
-          "src": "ytn",
+          "title": "예산군, AI 기반 CCTV 통합관제로 지방정부 우수사례 '최우수상'",
+          "desc": "첨단기술을 단순히 도입하는 데 그치지 않고 위험 요소를 미리 감지해 사고를 예방하는 안전관리 체계를 구축했다는 점에서 의미가 있다는 게 군의 설명이다. 예산군은 앞으로 축적된 데이터를 활용해 AI 모델을...",
+          "src": "shinailbo",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403271?sid=104",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060217564812_t.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058557",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058557_2056410_3111.jpg"
         },
         {
-          "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술...",
-          "desc": "기존 광섬유망을 활용하는 '클라비스 엑스지 멀티플렉스(Clavis XG Multiplex)'도 소개한다. 양자키분배... 별도의 전용망 구축 부담과 비용을 줄이고 양자키분배 기술의 도입 속도를 높일 수 있다는 것이 회사 측...",
-          "src": "AI타임스",
-          "date": "09/05",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41777_62854_337_v150.jpg"
+          "title": "VM웨어 대체 넘어 AI 인프라로…상포테크놀로지, 선전서 글로벌 서밋",
+          "desc": "세계 각지 파트너들이 상포의 확장형 탐지·대응(XDR)과 관리형 탐지·대응(MDR)을 활용해 실제 고객 보안... 상포는 기존 가상화와 HCI를 기업 AI 도입을 위한 기반 인프라로 확장하고 AI 기술을 사이버보안과 인프라...",
+          "src": "디지털데일리",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/138/0002240341?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/03/08/2026030809021985323_l.jpg"
         },
         {
-          "title": "현대제철 미국 전기로 제철소 첫삽···58억달러 투자로 2029년 양산 목...",
-          "desc": "시스템이 도입된다. 전기로를 활용해 기존 고로 방식 대비 약 70%의 탄소배출 감축 효과가 기대된다.... 또한 DRI 전기로로 만든 강재가 자동차용 최고급 강재가 되기 위해서는 포스코의 수소 환원 제철 기술과 자동차...",
-          "src": "smartbizn",
-          "date": "09/05",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=153133",
-          "img": "https://cdn.smartbizn.com/news/photo/202609/153133_259427_4151.jpg"
+          "title": "“내 딸 위험에 빠뜨린 사람이 나였다니”…한가인도 결사반대 ‘셰어...",
+          "desc": "인공지능(AI) 기술을 적용한 딥페이크 범죄의 학습 자료로 악용될 가능성이 있다고 분석했다.... 가해자의 36.1%가 SNS 계정과 채팅용 애플리케이션을 활용해 피해자에게 접근했다. 사생활 침해를 빈번하게 당하는...",
+          "src": "매일경제",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/009/0005730875?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/06/news-p.v1.20260904.28cfa4b78d5244729f30c22c3afa6e18_R.png"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LG전자 씽큐 클로, 카톡 메시지로 가전 미리 움직이게 제안…실행은 사...",
-      "url": "https://www.wikitree.co.kr/articles/1157505",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/06/202609060310078337_ai.jpeg"
+      "title": "올해 국내 10대 브랜드 가치 2천억달러 육박…삼전닉스 '껑충'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292058?sid=101",
+      "img": "https://img8.yna.co.kr/photo/cms/2026/05/30/15/PCM20260530000015990_P4.jpg"
     },
     {
-      "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571409?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
+      "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
+      "url": "https://www.g-enews.com/view.php?ud=202609051725085890c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260905172605053010c8c1c064d22114611240.jpg"
     },
     {
-      "title": "[IFA] '큰손' 잡는다…삼성은 도심으로, LG는 전시장 절반 B2B",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051019",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
+      "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
+      "url": "https://www.asiatime.co.kr/article/20260905500027",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
     },
     {
-      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
+      "title": "[르포]삼성은 왜 유럽 최대 가전박람회 'IFA 전시장'을 떠났나",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186233?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609052354276270_0.jpg"
     },
     {
-      "title": "\"AI가 인간 대신할 수 없다\"...미국 뉴욕 파격 실험 시작 [자막뉴스]",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403274?sid=104",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060238494730_t.jpg"
+      "title": "현대戰, 민간 기술력이 중요하다더니…연구·활용 되레 감소 [비즈360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693259?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20250123.eae099ef6efd4cb6b8e7a96fa03e1e9d_T1.jpg"
     },
     {
-      "title": "\"학교에선 AI 금지\"...뉴욕시 공교육 실험 통할까?",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403271?sid=104",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060217564812_t.jpg"
+      "title": "예산군, AI 기반 CCTV 통합관제로 지방정부 우수사례 '최우수상'",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058557",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5058557_2056410_3111.jpg"
     }
   ]
 };
