@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.05 (토) 09:08",
+  "updatedAt": "2026.09.05 (토) 13:33",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LG·삼성, IFA 혁신상 11개 휩쓸다…국제무대서 인증된 경쟁력",
-          "desc": "LG전자와 삼성전자가 독일 베를린에서 열리는 유럽 최대 가전 박람회 'IFA 2026'에서 나란히 혁신상을 받았다. LG전자는 최고 브랜드상을 비롯해 7개 제품이 수상했고, 삼성전자는 4개 혁신상을 받았다. 4일 IFA에...",
-          "src": "nocutnews",
-          "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/079/0004186165?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609050540309253_0.jpg"
-        },
-        {
-          "title": "글로벌 테크 기업 베를린 집결…AI·로봇 경쟁으로 달아오른 IFA",
-          "desc": "삼성전자와 LG전자가 AI 가전 경쟁을 벌이는 가운데 글로벌 반도체 기업과 유럽 전통 가전업체, 중국 테크 기업도 대거 참여했다. 참가 기업들은 온디바이스 AI와 스마트홈, 로봇 등을 앞세워 기술 주도권 경쟁에...",
+          "title": "[IFA 2026] LG전자, AI홈 ‘컨트롤타워’ 고도화… “카카오톡으로 집·가...",
+          "desc": "삼성은 허브 기능 기기에 분산… LG는 ‘씽큐 온’ 중심 LG전자의 접근법은 스마트홈의 허브 기능을 여러 가전으로 분산하는 방식과 차이가 있다. 삼성전자는 스마트홈 플랫폼 ‘스마트싱스(SmartThings)’를 중심에 두되...",
           "src": "조선일보",
           "date": "09/05",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169501",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169501_451786_1348_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001190542?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/AMUTO5AZR5ATVFGHVL3XY6IJNE.jpg?auth=932739f387718684e54629df9a59c1ce5481339657595aeecf404be72510864f&width=1200&height=630&smart=true"
         },
         {
-          "title": "[삼성전자] 크리에이터 허브 / 순환자원 확대 / IFA 혁신상 4개",
-          "desc": "DX부문도 폐가전 포장용 스티로폼과 폐유리, 폐식용유 등을 재활용한 소재를 에어컨과 공기청정기, 세탁건조기, 냉장고 등에 적용하고 있다. ◼︎ 삼성전자, IFA 2026 혁신상 4개…AI 가전 기술·디자인 인정 삼성전자는...",
-          "src": "webeconomy",
+          "title": "삼성전자, '자원순환의 날' 앞두고 순환자원 성과 공유",
+          "desc": "올해는 가전제품 설치 뒤 남은 포장용 스티로폼을 재활용해 에어컨과 공기청정기 내장재에 적용했으며, 폐유리는 세탁건조기의 외부 세탁조 등에 활용했다. 삼성전자는 앞으로도 재활용 가능한 품목을 발굴하고 자원화...",
+          "src": "newspost",
           "date": "09/05",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291744",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291744_1101163_4112.jpg"
+          "url": "https://www.newspost.kr/news/articleView.html?idxno=225462",
+          "img": "https://cdn.newspost.kr/news/thumbnail/202609/225462_227809_1118_v150.jpg"
         },
         {
-          "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대",
-          "desc": "5일 삼성전자에 따르면 이번 IFA 전시회에서는 별도로 로봇 관련 제품을 공개하지 않았다. 이번 IFA에서는 세탁기, TV 등 AI 가전을 중심으로 전시장을 구성했다는 설명이다. 삼성의 이러한 전시장 구성은 로봇을 전면에...",
-          "src": "news",
+          "title": "인도 2분기 GDP 7.8% 성장… 민간 투자 11% 반등",
+          "desc": "현대차와 기아의 현지 완성차 생산능력 확대와 삼성전자, LG전자의 가전 공급망은 인도 정부의 인프라 정비와 내수 설비 확장에 맞물려 가동률 상승 혜택을 누릴 수 있다. 전력 인프라 기자재 분야에서도 현지 민간...",
+          "src": "g-enews",
           "date": "09/05",
-          "url": "https://news.mtn.co.kr/news-detail/2026090414172453952",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/09/04/2026090414172453952_00_224.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609051259212961e7e8286d56_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090311444209471fda4f5ab7439122247205.jpg"
+        },
+        {
+          "title": "[IFA 2026] LG전자 \"AI 집사 '씽큐 클로' 연말 상용화\"",
+          "desc": "낮 시간 대에 시원한 실내를 만들고 저녁이 되기 전에 로봇청소기로 청소를 하는 것을 권장한다. 사진과... 삼성전자 가전 역시 홈 커넥티비티 얼라이언스(HCA)을 통해 일부 기기가 연동된다. LG전자는 씽큐 클로를 이르면...",
+          "src": "sidae",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/417/0001157438?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/05/00/2026090503081088877_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[힘내라 K산업]② 동형암호부터 AI 보안까지…삼성SDS, '보안 풀스택'으...",
-          "desc": "특히 공공·금융 등 민감한 데이터를 다루는 고보안·규제 산업에서는 AI와 클라우드를 도입하는 것뿐... 엑스보우의 AI 기반 침투 테스트 기술을 활용해 기업의 웹 서비스와 정보자산에서 발생할 수 있는 취약점을...",
-          "src": "아시아타임즈",
+          "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
+          "desc": "AI 도입 필요성을 재차 강조했다. 카카오 컨소시엄은 카카오톡과 전화 등 국민에게 익숙한 채널을 앞세웠다. 카카오의 ‘카나나’와 LG의 ‘엑사원’ 등 국산 AI 모델을 활용해 범용 챗봇과 공공·특화 AI 에이전트를...",
+          "src": "segye",
           "date": "09/05",
-          "url": "https://www.asiatime.co.kr/article/20260903500442",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500441.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004156561?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/04/20260904509744.jpg"
         },
         {
-          "title": "‘보이지 않는 AI’의 두 얼굴… 범죄 잡는 좋은 AI, 사람도 잡는 나쁜 ...",
-          "desc": "AI가 활용된다. AI가 공격과 수비 양쪽에서 모두 쓰이는 것이다. 보이스피싱은 AI가 정면 대결하는 대표적 분야라고 할 수 있다. 보이스피싱을 시도하는 범죄세력은 음성 변조 등 다양한 기술을 도입해 피해자를 속이려...",
-          "src": "한겨레",
+          "title": "“서울 근무가 경쟁력”…서울시 산하기관 경쟁률 최고 390대1",
+          "desc": "일제히 AI 전담 본부·센터를 출범시켰다. 과거 IT 부서 내 부수 업무로 분류되던 AI 활용이 전사 경영... AI전략본부장은 “AI 도입 기업 중 실제 가치 실현 단계로 넘어가는 곳은 5%에 불과하다”며 기술 도입보다...",
+          "src": "서울경제",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/028/0002821744?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0825/20260825503762.webp"
+          "url": "https://n.news.naver.com/mnews/article/011/0004658844?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/05/news-p.v1.20260805.d3a5f89296ba4e1d826c152ecabcf9fe_R.png"
         },
         {
-          "title": "[힘내라 K산업]① 삼성SDS, 클라우드·AI '쌍끌이'…영업익 1조 '정조준'",
-          "desc": "모델을 활용할 수 있는 생태계를 구축하고 있다. 지난해에는 OpenAI와 ChatGPT Enterprise 리셀러 파트너십을 체결하면서 기업 고객의 생성형 AI 도입을 지원하는 사업 기반도 확보했다. 이 같은 전략은 오는 8일 서울...",
-          "src": "아시아타임즈",
+          "title": "복지부, 내년 신규 정책은…청년 국민연금 지원·방학틈새돌봄 '추진'",
+          "desc": "복지부는 간병인력 양성과 질 관리에 14억원을 신규로 투입해 표준교육과정을 도입하고 간병매칭 공적... 국립대병원 등 공공병원끼리 영상판독, 의무기록 생성 등을 활용하는 'AI 고속도로'도 추진된다. 한국의...",
+          "src": "뉴스핌",
           "date": "09/05",
-          "url": "https://www.asiatime.co.kr/article/20260903500440",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500439.png"
+          "url": "https://www.newspim.com/news/view/20260904000990",
+          "img": "https://img.newspim.com/news/2026/09/04/2609041801075371_407_tc.jpg"
         },
         {
-          "title": "\"기다렸다가는 못 뽑아\"… AI 인재 '선별 채용' 강화나섰다",
-          "desc": "AI 활용 능력과 문제 해결 역량을 실제로 확인하는 방향으로 평가 기준도 바꿨다. 최근 신입 채용에서는 설계·소자·R&D공정·양산기술 등 주요 직무의 지원자를 대상으로 반나절 심층면접을 도입했다. 삼성도 반도체와...",
-          "src": "조선일보",
+          "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예",
+          "desc": "이번 전면 금지는 지난 6월 통과된 교실 내 스크린 타임 제한 결의안을 이행하는 과정에서 도입됐다. 지침에... LAUSD 관계자는 비생성 AI 기술인 개인 맞춤형 학습 시스템, 음성 인식, 실시간 번역 기능 등은 교실 내에서...",
+          "src": "AI타임스",
           "date": "09/05",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169520",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169520_451808_180_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214889",
+          "img": "https://cdn.aitimes.com/news/photo/202609/214889_218632_5020.png"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LG·삼성, IFA 혁신상 11개 휩쓸다…국제무대서 인증된 경쟁력",
-      "url": "https://n.news.naver.com/mnews/article/079/0004186165?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609050540309253_0.jpg"
+      "title": "[IFA 2026] LG전자, AI홈 ‘컨트롤타워’ 고도화… “카카오톡으로 집·가...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190542?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/AMUTO5AZR5ATVFGHVL3XY6IJNE.jpg?auth=932739f387718684e54629df9a59c1ce5481339657595aeecf404be72510864f&width=1200&height=630&smart=true"
     },
     {
-      "title": "글로벌 테크 기업 베를린 집결…AI·로봇 경쟁으로 달아오른 IFA",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169501",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169501_451786_1348_v150.jpg"
+      "title": "삼성전자, '자원순환의 날' 앞두고 순환자원 성과 공유",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=225462",
+      "img": "https://cdn.newspost.kr/news/thumbnail/202609/225462_227809_1118_v150.jpg"
     },
     {
-      "title": "[삼성전자] 크리에이터 허브 / 순환자원 확대 / IFA 혁신상 4개",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291744",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291744_1101163_4112.jpg"
+      "title": "인도 2분기 GDP 7.8% 성장… 민간 투자 11% 반등",
+      "url": "https://www.g-enews.com/view.php?ud=202609051259212961e7e8286d56_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090311444209471fda4f5ab7439122247205.jpg"
     },
     {
-      "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대",
-      "url": "https://news.mtn.co.kr/news-detail/2026090414172453952",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/09/04/2026090414172453952_00_224.jpg"
+      "title": "[IFA 2026] LG전자 \"AI 집사 '씽큐 클로' 연말 상용화\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001157438?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/05/00/2026090503081088877_1.jpg"
     },
     {
-      "title": "[힘내라 K산업]② 동형암호부터 AI 보안까지…삼성SDS, '보안 풀스택'으...",
-      "url": "https://www.asiatime.co.kr/article/20260903500442",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500441.jpg"
+      "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156561?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/04/20260904509744.jpg"
     },
     {
-      "title": "‘보이지 않는 AI’의 두 얼굴… 범죄 잡는 좋은 AI, 사람도 잡는 나쁜 ...",
-      "url": "https://n.news.naver.com/mnews/article/028/0002821744?sid=101",
-      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0825/20260825503762.webp"
+      "title": "“서울 근무가 경쟁력”…서울시 산하기관 경쟁률 최고 390대1",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658844?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/05/news-p.v1.20260805.d3a5f89296ba4e1d826c152ecabcf9fe_R.png"
     }
   ]
 };
