@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 00:16",
+  "updatedAt": "2026.09.06 (일) 03:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
-          "desc": "동행노조는 그동안 삼성전자가 AI 전환을 명분으로 조직 효율화를 추진하면서 구성원과 충분히 소통하지 않고 있다고 주장해왔다. 특히 스마트폰과 TV, 생활가전 등을 담당하는 DX부문이 반도체 사업을 맡는...",
-          "src": "조선일보",
+          "title": "LG전자 씽큐 클로, 카톡 메시지로 가전 미리 움직이게 제안…실행은 사...",
+          "desc": "그는 Home Connectivity Alliance를 통해 삼성전자의 일부 가전도 호환된다고 덧붙였다.Athom이 개발한 상호운용 플랫폼 Homey는 LG전자의 AI Home 전략에서 핵심 축이다. LG전자는 2024년 Athom 지분 80%를 인수했다고 발표했으며...",
+          "src": "wikitree",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1157505",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/06/202609060310078337_ai.jpeg"
         },
         {
           "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
         },
         {
-          "title": "M3시스템즈, 로봇 친화형 건축 기술 개발",
-          "desc": "이와 동시에M3시스템즈는 삼성전자와 손잡고 자체 소형 주택 모델‘M Studio(스튜디오)’에 삼성전자의 가전과스마트홈 환경(스마트싱스)을 연계하는 올인클루시브(All-inclusive) 모델을 기획하고 있다. 건축물에 가전과...",
-          "src": "dnews",
-          "date": "09/05",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609051919323170771",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609051919323170771-2-688793.png"
+          "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
+          "desc": "동행노조는 그동안 삼성전자가 AI 전환을 명분으로 조직 효율화를 추진하면서 구성원과 충분히 소통하지 않고 있다고 주장해왔다. 특히 스마트폰과 TV, 생활가전 등을 담당하는 DX부문이 반도체 사업을 맡는...",
+          "src": "조선일보",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
+          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "\"AI가 인간 대신할 수 없다\"...미국 뉴욕 파격 실험 시작 [자막뉴스]",
+          "desc": "어떻게 활용하면 도움이 되는지, 또 어떤 경우에는 해가 될 수 있기 때문에 사용하지 않는 것이 좋은지에 대해 이야기해야 합니다.] 아이들의 미래 경쟁력을 위해 AI를 교육현장에 빠르게 도입해야 한다는 흐름에 제동을...",
+          "src": "ytn",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403274?sid=104",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060238494730_t.jpg"
+        },
+        {
+          "title": "\"학교에선 AI 금지\"...뉴욕시 공교육 실험 통할까?",
+          "desc": "어떻게 활용하면 도움이 되는지, 또 어떤 경우에는 해가 될 수 있기 때문에 사용하지 않는 것이 좋은지에 대해 이야기해야 합니다.] 아이들의 미래 경쟁력을 위해 AI를 교육현장에 빠르게 도입해야 한다는 흐름에 제동을...",
+          "src": "ytn",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403271?sid=104",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060217564812_t.jpg"
+        },
         {
           "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술...",
           "desc": "기존 광섬유망을 활용하는 '클라비스 엑스지 멀티플렉스(Clavis XG Multiplex)'도 소개한다. 양자키분배... 별도의 전용망 구축 부담과 비용을 줄이고 양자키분배 기술의 도입 속도를 높일 수 있다는 것이 회사 측...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "09/05",
           "url": "https://www.smartbizn.com/news/articleView.html?idxno=153133",
           "img": "https://cdn.smartbizn.com/news/photo/202609/153133_259427_4151.jpg"
-        },
-        {
-          "title": "포스코그룹, 하반기 신입사원 세 자릿수 채용",
-          "desc": "포스코홀딩스 미래기술연구원은 로봇 인지·제어 분야 연구원을 모집하고, 포스코와 포스코DX는 제조·사무 분야 AX(AI Transformation)를 담당할 인력을 선발한다.포스코는 인공지능을 활용한 현장 자동화와 업무 혁신을...",
-          "src": "kbsm",
-          "date": "09/05",
-          "url": "https://www.kbsm.net/news/view.php?idx=532876",
-          "img": "https://www.kbsm.net/data/newsThumb/1788486907ADD_thumb780.png"
-        },
-        {
-          "title": "GPT-6 아스트라, 깃허브 코파일럿엔 순조롭게 배포…챗GPT는 “엉망진창...",
-          "desc": "그러나 같은 모델을 챗GPT(ChatGPT)에 도입하는 과정은 순탄치 않았다. 오픈AI 최고경영자 샘 올트먼(Sam... 이 어댑터는 요청 사이에 불투명한 추론 상태를 유지하고 긴 대화에서는 압축 기법을 활용해 이전...",
-          "src": "wikitree",
-          "date": "09/05",
-          "url": "https://www.wikitree.co.kr/articles/1157482",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/05/202609052209574027_ai.jpeg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
+      "title": "LG전자 씽큐 클로, 카톡 메시지로 가전 미리 움직이게 제안…실행은 사...",
+      "url": "https://www.wikitree.co.kr/articles/1157505",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/06/202609060310078337_ai.jpeg"
     },
     {
       "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
     },
     {
-      "title": "M3시스템즈, 로봇 친화형 건축 기술 개발",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609051919323170771",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609051919323170771-2-688793.png"
+      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
+      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
     },
     {
-      "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술...",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41777_62854_337_v150.jpg"
+      "title": "\"AI가 인간 대신할 수 없다\"...미국 뉴욕 파격 실험 시작 [자막뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403274?sid=104",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060238494730_t.jpg"
     },
     {
-      "title": "현대제철 미국 전기로 제철소 첫삽···58억달러 투자로 2029년 양산 목...",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=153133",
-      "img": "https://cdn.smartbizn.com/news/photo/202609/153133_259427_4151.jpg"
+      "title": "\"학교에선 AI 금지\"...뉴욕시 공교육 실험 통할까?",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403271?sid=104",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0906/202609060217564812_t.jpg"
     }
   ]
 };
