@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.05 (토) 05:47",
+  "updatedAt": "2026.09.05 (토) 09:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "외인·기관 '삼전·하닉' 팔고 삼성전기·SK이노베이션 샀다…개인은 현...",
-          "desc": "[그림=챗GPT] [뉴스투데이=황수분 기자] 지난주 국내 증시에서 외국인과 기관이 삼성전자와 SK하이닉스를... IT가전과 은행 등을 순매수한 만큼 시장 전반에 대한 매도라기보다는 반도체 쏠림이 완화되면서 업종별...",
-          "src": "news2day",
+          "title": "LG·삼성, IFA 혁신상 11개 휩쓸다…국제무대서 인증된 경쟁력",
+          "desc": "LG전자와 삼성전자가 독일 베를린에서 열리는 유럽 최대 가전 박람회 'IFA 2026'에서 나란히 혁신상을 받았다. LG전자는 최고 브랜드상을 비롯해 7개 제품이 수상했고, 삼성전자는 4개 혁신상을 받았다. 4일 IFA에...",
+          "src": "nocutnews",
           "date": "09/05",
-          "url": "https://www.news2day.co.kr/article/20260905500005",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/05/.cache/512/20260905500004.png"
+          "url": "https://n.news.naver.com/mnews/article/079/0004186165?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609050540309253_0.jpg"
         },
         {
-          "title": "가전 넘어 자동차까지 연결…샤오미가 그린 ‘AI 생태계’ [IFA 2026]",
-          "desc": "삼성전자와 LG전자가 가전을 중심으로 AI홈의 진화를 보여줬다면 샤오미는 모바일과 자동차까지 연결... 냉장고와 세탁기, 로봇청소기, 에어컨을 비롯해 스마트폰, TV, 카메라, 전동킥보드 등 샤오미의 방대한...",
-          "src": "이투데이",
+          "title": "글로벌 테크 기업 베를린 집결…AI·로봇 경쟁으로 달아오른 IFA",
+          "desc": "삼성전자와 LG전자가 AI 가전 경쟁을 벌이는 가운데 글로벌 반도체 기업과 유럽 전통 가전업체, 중국 테크 기업도 대거 참여했다. 참가 기업들은 온디바이스 AI와 스마트홈, 로봇 등을 앞세워 기술 주도권 경쟁에...",
+          "src": "조선일보",
           "date": "09/05",
-          "url": "https://www.etoday.co.kr/news/view/2622155",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260905044313_2383547_1200_675.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169501",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169501_451786_1348_v150.jpg"
         },
         {
-          "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
-          "desc": "특히 AI 기능을 탑재한 냉장고와 빌트인 가전, 세탁기·건조기, 에어컨, 스마트폰 등 다양한 전자제품을... 삼성전자와 LG전자가 지난 전시회에서 강조해온 AI와 가전의 유기적인 연결과 같은 형태다. 특히 TCL 가전의 AI...",
-          "src": "sidae",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/417/0001157419?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
+          "title": "[삼성전자] 크리에이터 허브 / 순환자원 확대 / IFA 혁신상 4개",
+          "desc": "DX부문도 폐가전 포장용 스티로폼과 폐유리, 폐식용유 등을 재활용한 소재를 에어컨과 공기청정기, 세탁건조기, 냉장고 등에 적용하고 있다. ◼︎ 삼성전자, IFA 2026 혁신상 4개…AI 가전 기술·디자인 인정 삼성전자는...",
+          "src": "webeconomy",
+          "date": "09/05",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291744",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291744_1101163_4112.jpg"
         },
         {
-          "title": "美·이란 갈등에 해상운임 '연중 최고치'…가전업계, 하반기 '수익성 방...",
-          "desc": "삼성전자와 LG전자 등 국내 가전 기업들은 해상운임에 따라 수익성이 영향을 크게 받아, 올 3분기와... 이들 기업이 판매하는 냉장고, 세탁기, TV 등은 대부분 부피가 크고 무거워 선박을 통한 해상 운송 의존도가 높다....",
-          "src": "뉴시스",
+          "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대",
+          "desc": "5일 삼성전자에 따르면 이번 IFA 전시회에서는 별도로 로봇 관련 제품을 공개하지 않았다. 이번 IFA에서는 세탁기, TV 등 AI 가전을 중심으로 전시장을 구성했다는 설명이다. 삼성의 이러한 전시장 구성은 로봇을 전면에...",
+          "src": "news",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/003/0014170766?sid=101",
-          "img": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208248_web.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026090414172453952",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/09/04/2026090414172453952_00_224.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[오늘의 경제뉴스] 트럼프는 삼성·SK 끌어당기는데, 美 첨단 소부장은...",
-          "desc": "미국 정부의 압박으로 글로벌 반도체 기업들의 현지 투자가 늘더라도 수요처와 기술, 인력 등이 집적된... HBM4와 차세대 D램, 첨단 패키징 등 새로운 AI 반도체 공정이 도입되는 점도 한국 투자의 필요성을 높이고 있다....",
-          "src": "newsverse",
+          "title": "[힘내라 K산업]② 동형암호부터 AI 보안까지…삼성SDS, '보안 풀스택'으...",
+          "desc": "특히 공공·금융 등 민감한 데이터를 다루는 고보안·규제 산업에서는 AI와 클라우드를 도입하는 것뿐... 엑스보우의 AI 기반 침투 테스트 기술을 활용해 기업의 웹 서비스와 정보자산에서 발생할 수 있는 취약점을...",
+          "src": "아시아타임즈",
           "date": "09/05",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11367",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11367_19499_2313_v150.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260903500442",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500441.jpg"
         },
         {
-          "title": "부산백병원, 씽크 '58병상→113병상' 확대",
-          "desc": "활용될 수 있다”고 강조했다. 대웅제약, 종합·전문병원 이어 지역병원 구축 속도 씨어스 씽크 도입은... “앞으로도 AI 기반 기술을 통해 병원 운영의 질적 전환을 이끄는 혁신 파트너가 되겠다”고 덧붙였다.",
-          "src": "dailymedi",
+          "title": "‘보이지 않는 AI’의 두 얼굴… 범죄 잡는 좋은 AI, 사람도 잡는 나쁜 ...",
+          "desc": "AI가 활용된다. AI가 공격과 수비 양쪽에서 모두 쓰이는 것이다. 보이스피싱은 AI가 정면 대결하는 대표적 분야라고 할 수 있다. 보이스피싱을 시도하는 범죄세력은 음성 변조 등 다양한 기술을 도입해 피해자를 속이려...",
+          "src": "한겨레",
           "date": "09/05",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940167",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "https://n.news.naver.com/mnews/article/028/0002821744?sid=101",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0825/20260825503762.webp"
         },
         {
-          "title": "생산부터 유통·돌봄까지 '농업 AI' 확산…성패는 데이터에",
-          "desc": "농업 현장에서는 기술 도입에 들어가는 비용에 비해 실제 얻을 수 있는 편익이 명확하지 않은 데다 고령농 비중이 높아 AI 활용 역량에도 격차가 존재한다. 기관과 사업별로 데이터가 분산돼 AI 학습에 바로 활용할 수...",
-          "src": "nocutnews",
+          "title": "[힘내라 K산업]① 삼성SDS, 클라우드·AI '쌍끌이'…영업익 1조 '정조준'",
+          "desc": "모델을 활용할 수 있는 생태계를 구축하고 있다. 지난해에는 OpenAI와 ChatGPT Enterprise 리셀러 파트너십을 체결하면서 기업 고객의 생성형 AI 도입을 지원하는 사업 기반도 확보했다. 이 같은 전략은 오는 8일 서울...",
+          "src": "아시아타임즈",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/079/0004186142?sid=103",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/04/202609041431057804_0.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260903500440",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500439.png"
         },
         {
-          "title": "세계 4위 K게임 그늘… 새 간판 IP 세대교체 더디다 [韓콘텐츠 IP의 빈칸...",
-          "desc": "재활용하는 전략이 당장의 매출은 지켜줄 수 있지만, 새로운 이용자층과 해외 시장을 개척하는 데에는 한계가 있다. 이승훈 안양대 게임콘텐츠학과 교수는 \"개발 환경이 급변하고 인공지능(AI)까지 도입되는 현재...",
+          "title": "\"기다렸다가는 못 뽑아\"… AI 인재 '선별 채용' 강화나섰다",
+          "desc": "AI 활용 능력과 문제 해결 역량을 실제로 확인하는 방향으로 평가 기준도 바꿨다. 최근 신입 채용에서는 설계·소자·R&D공정·양산기술 등 주요 직무의 지원자를 대상으로 반나절 심층면접을 도입했다. 삼성도 반도체와...",
           "src": "조선일보",
           "date": "09/05",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169547",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169547_451837_2035_v150.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169520",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169520_451808_180_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "‘반도체 생명수’ 초순수까지 … 물 순환형 반도체 산단 조성",
+          "desc": "하자부품 비율)에 영향을 줄 수 있기 때문이다. 전문가들이 산정한 호남권 반도체 산단의 최종 공업용수 공급 목표는 하루 65만t이다. 삼성전자에는 반도체 팹(생산공장) 2기에 각각 10만7000t씩 21만4000t과 협력사 5만6000t...",
+          "src": "kwangju",
+          "date": "09/05",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1788566400803014277",
+          "img": ""
+        },
+        {
+          "title": "삼성·현대차·조선소까지…정부, 제조 AI 전환에 6451억 투입",
+          "desc": "삼성전자는 지난 3월 2030년까지 국내외 생산공장을 'AI 자율공장(AI Driven Factory)'으로 전환하겠다고... 정부가 노리는 것은 이 같은 변화가 대기업에 그치지 않고 중견·중소 협력사까지 퍼지는 것이다. 산업부가...",
+          "src": "데일리안",
+          "date": "09/05",
+          "url": "https://n.news.naver.com/mnews/article/119/0003129320?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788499126_1686504_m_1.jpg"
+        },
         {
           "title": "\"정부가 직접 200대 산다\" 겹호재에 '들썩'…단숨에 29% 뛰어올랐다",
           "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/04",
           "url": "https://n.news.naver.com/mnews/article/015/0005328827?sid=101",
           "img": "https://img.hankyung.com/photo/202609/99.43046359.1.jpg"
-        },
-        {
-          "title": "토요타는 6년 무분규… 현대차는 '연례행사' 파업 후유증",
-          "desc": "특히 삼성전자, SK하이닉스가 대규모 이익에 따른 폭탄 성과급을 지급한 것도 협상단을 자극해 강경 기조로... 정해지고 협력사도 이 일정에 맞춰 부품을 공급한다. 적시 공급·생산이 업계 핵심이다. 완성차...",
-          "src": "the-biz",
-          "date": "09/04",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727381",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727381_932488_5456.jpg"
-        },
-        {
-          "title": "'전북 반도체특화단지'…생소하고 어려운 반도체 관련 용어들 쉽게 이해...",
-          "desc": "부품(부품), 그리고 실제 공정을 수행하는 기계(장비)를 통칭한다. 삼성전자·SK하이닉스 같은 완성품 업체에... 투자와 협력사 유치를 이끄는 ‘허브’ 역할을 맡는다. 비유하자면, 앵커기업은 ‘공동 주방’의 셰프이자...",
-          "src": "pressian",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/002/0002454959?sid=102",
-          "img": "https://cdn.pressian.com/_resources/10/2026/09/04/2026072311234072107_l.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "외인·기관 '삼전·하닉' 팔고 삼성전기·SK이노베이션 샀다…개인은 현...",
-      "url": "https://www.news2day.co.kr/article/20260905500005",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/05/.cache/512/20260905500004.png"
+      "title": "LG·삼성, IFA 혁신상 11개 휩쓸다…국제무대서 인증된 경쟁력",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186165?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/05/202609050540309253_0.jpg"
     },
     {
-      "title": "가전 넘어 자동차까지 연결…샤오미가 그린 ‘AI 생태계’ [IFA 2026]",
-      "url": "https://www.etoday.co.kr/news/view/2622155",
-      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260905044313_2383547_1200_675.jpg"
+      "title": "글로벌 테크 기업 베를린 집결…AI·로봇 경쟁으로 달아오른 IFA",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169501",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169501_451786_1348_v150.jpg"
     },
     {
-      "title": "[IFA 2026] AI 가전부터 로봇까지…중국, 한국 턱밑 추격",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157419?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/04/00/2026090421361652134_1.jpg"
+      "title": "[삼성전자] 크리에이터 허브 / 순환자원 확대 / IFA 혁신상 4개",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291744",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291744_1101163_4112.jpg"
     },
     {
-      "title": "美·이란 갈등에 해상운임 '연중 최고치'…가전업계, 하반기 '수익성 방...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014170766?sid=101",
-      "img": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208248_web.jpg"
+      "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대",
+      "url": "https://news.mtn.co.kr/news-detail/2026090414172453952",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/09/04/2026090414172453952_00_224.jpg"
     },
     {
-      "title": "[오늘의 경제뉴스] 트럼프는 삼성·SK 끌어당기는데, 美 첨단 소부장은...",
-      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11367",
-      "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11367_19499_2313_v150.jpg"
+      "title": "[힘내라 K산업]② 동형암호부터 AI 보안까지…삼성SDS, '보안 풀스택'으...",
+      "url": "https://www.asiatime.co.kr/article/20260903500442",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/03/.cache/512/20260903500441.jpg"
     },
     {
-      "title": "부산백병원, 씽크 '58병상→113병상' 확대",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940167",
-      "img": "https://www.dailymedi.com/img/d_logo.jpg"
+      "title": "‘보이지 않는 AI’의 두 얼굴… 범죄 잡는 좋은 AI, 사람도 잡는 나쁜 ...",
+      "url": "https://n.news.naver.com/mnews/article/028/0002821744?sid=101",
+      "img": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0825/20260825503762.webp"
     }
   ]
 };
