@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.05 (토) 19:39",
+  "updatedAt": "2026.09.06 (일) 00:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
-          "desc": "삼성전자는 올해 독일 베를린에서 열리는 유럽 최대 가전 박람회 ‘IFA 2026’을 앞두고 전시 전략에 변화를 줬다. 매년 ‘메세 베를린(Messe Berlin)’에서 가장 큰 전시관인 ‘시티큐브 베를린(CityCube Berlin)’을...",
-          "src": "헤럴드경제",
-          "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/016/0002693226?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20260905.141d2d76a7894f7bb282954299bf3b5b_T1.jpg"
+          "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
+          "desc": "동행노조는 그동안 삼성전자가 AI 전환을 명분으로 조직 효율화를 추진하면서 구성원과 충분히 소통하지 않고 있다고 주장해왔다. 특히 스마트폰과 TV, 생활가전 등을 담당하는 DX부문이 반도체 사업을 맡는...",
+          "src": "조선일보",
+          "date": "09/06",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
+          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
         },
         {
           "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
         },
         {
-          "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결",
-          "desc": "삼성전자, 폐기물로 갤럭시 부품 만든다 삼성전자가 오는 6일 자원순환의 날을 앞두고 누적 38건의... 세탁건조기 '비스포크 AI 콤보'의 세탁조 소재로 적용하는 등 선순환 범위를 넓혀가고 있어. 회사는 2027년 6월까지...",
-          "src": "news",
+          "title": "[IFA] '큰손' 잡는다…삼성은 도심으로, LG는 전시장 절반 B2B",
+          "desc": "©AP신문(AP뉴스)/이미지 제공 = 삼성전자, LG전자 유럽 최대 가전·정보기술(IT) 전시회 'IFA 2026'에서... 유럽 생활환경을 겨냥한 '핏 앤 맥스(Fit & Max)' 역시 냉장고에서 세탁기·건조기·식기세척기 등으로 확대했다....",
+          "src": "apnews",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050504?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051019",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
         },
         {
-          "title": "\"어떤 TV 찾으세요?\"…베를린서 만난 삼성 'AI 판매원'",
-          "desc": "곧바로 삼성전자의 115인치 '마이크로 RGB TV'를 추천했다. 높은 밝기와 풍부한 색 표현, 화면 반사를 줄이는... '비스포크 AI 세탁기'는 세탁물의 무게와 오염도를 감지해 물과 세제 사용량, 세탁 시간과 모터 작동을...",
-          "src": "머니투데이",
+          "title": "M3시스템즈, 로봇 친화형 건축 기술 개발",
+          "desc": "이와 동시에M3시스템즈는 삼성전자와 손잡고 자체 소형 주택 모델‘M Studio(스튜디오)’에 삼성전자의 가전과스마트홈 환경(스마트싱스)을 연계하는 올인클루시브(All-inclusive) 모델을 기획하고 있다. 건축물에 가전과...",
+          "src": "dnews",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/008/0005409829?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090517475767787_1.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609051919323170771",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609051919323170771-2-688793.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "과기정통부, 2027년 예산 29.6조 원 편성…전 국민 AI서비스 지원",
-          "desc": "AI 활용 문화를 확산하기 위해 모두의 AI 경진대회도 확대한다. AI와 함께 미래 첨단기술 투자도 확대된다.... 기존 출연 방식 외에 정부가 지분을 취득하고 성과를 회수해 재투자하는 투자형 R&D도 새로 도입한다. R&D...",
-          "src": "hellot",
+          "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술...",
+          "desc": "기존 광섬유망을 활용하는 '클라비스 엑스지 멀티플렉스(Clavis XG Multiplex)'도 소개한다. 양자키분배... 별도의 전용망 구축 부담과 비용을 줄이고 양자키분배 기술의 도입 속도를 높일 수 있다는 것이 회사 측...",
+          "src": "AI타임스",
           "date": "09/05",
-          "url": "https://www.hellot.net/news/article.html?no=114788",
-          "img": "https://www.hellot.net/data/photos/20260936/art_17885978062102_eb58a6.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41777_62854_337_v150.jpg"
         },
         {
-          "title": "[마이스를 만나다] 2026 국제양자산업대전 (QX KOREA 2026)",
-          "desc": "주최 측은 “양자기술이 먼 미래의 개념이 아니라 현재 준비하고 도입해야 할 산업기술이라는 점을... 퀀텀 AI 기술을 선보인다.양자통신·보안 분야에서는 양자키분배(QKD) 시스템과 양자내성암호(PQC) 솔루션...",
-          "src": "weeklytrade",
+          "title": "현대제철 미국 전기로 제철소 첫삽···58억달러 투자로 2029년 양산 목...",
+          "desc": "시스템이 도입된다. 전기로를 활용해 기존 고로 방식 대비 약 70%의 탄소배출 감축 효과가 기대된다.... 또한 DRI 전기로로 만든 강재가 자동차용 최고급 강재가 되기 위해서는 포스코의 수소 환원 제철 기술과 자동차...",
+          "src": "smartbizn",
           "date": "09/05",
-          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101299",
-          "img": "https://weeklytrade.co.kr/PEG/17885968772427.jpg"
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=153133",
+          "img": "https://cdn.smartbizn.com/news/photo/202609/153133_259427_4151.jpg"
         },
         {
-          "title": "현대제철, 美 루이지애나 전기로 제철소 첫삽…탄소저감 강판 연 270만t...",
-          "desc": "미국에서 생산체계가 안정적으로 구축되면 관련 기술과 공정을 국내에도 확대 적용할 방침이다. 회사는 현지 사업을 통해 높인 브랜드 인지도와 고객 기반을 활용해 당진제철소와 순천공장 등 국내 생산거점에서...",
-          "src": "g-enews",
+          "title": "포스코그룹, 하반기 신입사원 세 자릿수 채용",
+          "desc": "포스코홀딩스 미래기술연구원은 로봇 인지·제어 분야 연구원을 모집하고, 포스코와 포스코DX는 제조·사무 분야 AX(AI Transformation)를 담당할 인력을 선발한다.포스코는 인공지능을 활용한 현장 자동화와 업무 혁신을...",
+          "src": "kbsm",
           "date": "09/05",
-          "url": "https://www.g-enews.com/view.php?ud=202609051719529391ea14faf6f5_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090517220501092ea14faf6f5175197343.jpg"
+          "url": "https://www.kbsm.net/news/view.php?idx=532876",
+          "img": "https://www.kbsm.net/data/newsThumb/1788486907ADD_thumb780.png"
         },
         {
-          "title": "\"송전선로 한계의 문제, 플랫폼 기술로 돌파해야\"",
-          "desc": "이제는 있는 자원을 어떻게 제어하고 활용할지 고민해야 한다. 거슬러가면 우리는 이미 비슷한 문제를... 호주가 세계 최초로 도입해 상용화한 ‘동적운영한계(DOE)’ 기술이 대표적이다. 호주는 플랫폼을 통해 전력망의...",
-          "src": "이데일리",
+          "title": "GPT-6 아스트라, 깃허브 코파일럿엔 순조롭게 배포…챗GPT는 “엉망진창...",
+          "desc": "그러나 같은 모델을 챗GPT(ChatGPT)에 도입하는 과정은 순탄치 않았다. 오픈AI 최고경영자 샘 올트먼(Sam... 이 어댑터는 요청 사이에 불투명한 추론 상태를 유지하고 긴 대화에서는 압축 기법을 활용해 이전...",
+          "src": "wikitree",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/018/0006364161?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090500445.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1157482",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/05/202609052209574027_ai.jpeg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693226?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20260905.141d2d76a7894f7bb282954299bf3b5b_T1.jpg"
+      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061271?sid=101",
+      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55008_85092_618_v150.jpg"
     },
     {
       "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
     },
     {
-      "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050504?sid=101",
-      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+      "title": "[IFA] '큰손' 잡는다…삼성은 도심으로, LG는 전시장 절반 B2B",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051019",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051019_83773_298_v150.jpg"
     },
     {
-      "title": "\"어떤 TV 찾으세요?\"…베를린서 만난 삼성 'AI 판매원'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409829?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090517475767787_1.jpg"
+      "title": "M3시스템즈, 로봇 친화형 건축 기술 개발",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609051919323170771",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/09/05/202609051919323170771-2-688793.png"
     },
     {
-      "title": "과기정통부, 2027년 예산 29.6조 원 편성…전 국민 AI서비스 지원",
-      "url": "https://www.hellot.net/news/article.html?no=114788",
-      "img": "https://www.hellot.net/data/photos/20260936/art_17885978062102_eb58a6.jpg"
+      "title": "아이디퀀티크, Quantum Expo Korea 2026서 양자키분배·양자난수생성 기술...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41777",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41777_62854_337_v150.jpg"
     },
     {
-      "title": "[마이스를 만나다] 2026 국제양자산업대전 (QX KOREA 2026)",
-      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101299",
-      "img": "https://weeklytrade.co.kr/PEG/17885968772427.jpg"
+      "title": "현대제철 미국 전기로 제철소 첫삽···58억달러 투자로 2029년 양산 목...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=153133",
+      "img": "https://cdn.smartbizn.com/news/photo/202609/153133_259427_4151.jpg"
     }
   ]
 };
