@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.05 (토) 13:33",
+  "updatedAt": "2026.09.05 (토) 19:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IFA 2026] LG전자, AI홈 ‘컨트롤타워’ 고도화… “카카오톡으로 집·가...",
-          "desc": "삼성은 허브 기능 기기에 분산… LG는 ‘씽큐 온’ 중심 LG전자의 접근법은 스마트홈의 허브 기능을 여러 가전으로 분산하는 방식과 차이가 있다. 삼성전자는 스마트홈 플랫폼 ‘스마트싱스(SmartThings)’를 중심에 두되...",
-          "src": "조선일보",
+          "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
+          "desc": "삼성전자는 올해 독일 베를린에서 열리는 유럽 최대 가전 박람회 ‘IFA 2026’을 앞두고 전시 전략에 변화를 줬다. 매년 ‘메세 베를린(Messe Berlin)’에서 가장 큰 전시관인 ‘시티큐브 베를린(CityCube Berlin)’을...",
+          "src": "헤럴드경제",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/366/0001190542?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/AMUTO5AZR5ATVFGHVL3XY6IJNE.jpg?auth=932739f387718684e54629df9a59c1ce5481339657595aeecf404be72510864f&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/016/0002693226?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20260905.141d2d76a7894f7bb282954299bf3b5b_T1.jpg"
         },
         {
-          "title": "삼성전자, '자원순환의 날' 앞두고 순환자원 성과 공유",
-          "desc": "올해는 가전제품 설치 뒤 남은 포장용 스티로폼을 재활용해 에어컨과 공기청정기 내장재에 적용했으며, 폐유리는 세탁건조기의 외부 세탁조 등에 활용했다. 삼성전자는 앞으로도 재활용 가능한 품목을 발굴하고 자원화...",
-          "src": "newspost",
+          "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
+          "desc": "중국 스마트 청소가전 업체 트랜스타는 자체 브랜드 토시마를 앞세워 로봇 청소기의 활동 영역을 수영장과... 대표적으로 삼성전자는 올해 전시 공간과 별도로 B2B 고객을 위한 라운지와 미팅 공간을 마련했다. 현장을 찾은...",
+          "src": "파이낸셜뉴스",
           "date": "09/05",
-          "url": "https://www.newspost.kr/news/articleView.html?idxno=225462",
-          "img": "https://cdn.newspost.kr/news/thumbnail/202609/225462_227809_1118_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005571409?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
         },
         {
-          "title": "인도 2분기 GDP 7.8% 성장… 민간 투자 11% 반등",
-          "desc": "현대차와 기아의 현지 완성차 생산능력 확대와 삼성전자, LG전자의 가전 공급망은 인도 정부의 인프라 정비와 내수 설비 확장에 맞물려 가동률 상승 혜택을 누릴 수 있다. 전력 인프라 기자재 분야에서도 현지 민간...",
-          "src": "g-enews",
+          "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결",
+          "desc": "삼성전자, 폐기물로 갤럭시 부품 만든다 삼성전자가 오는 6일 자원순환의 날을 앞두고 누적 38건의... 세탁건조기 '비스포크 AI 콤보'의 세탁조 소재로 적용하는 등 선순환 범위를 넓혀가고 있어. 회사는 2027년 6월까지...",
+          "src": "news",
           "date": "09/05",
-          "url": "https://www.g-enews.com/view.php?ud=202609051259212961e7e8286d56_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090311444209471fda4f5ab7439122247205.jpg"
+          "url": "https://n.news.naver.com/mnews/article/648/0000050504?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
         },
         {
-          "title": "[IFA 2026] LG전자 \"AI 집사 '씽큐 클로' 연말 상용화\"",
-          "desc": "낮 시간 대에 시원한 실내를 만들고 저녁이 되기 전에 로봇청소기로 청소를 하는 것을 권장한다. 사진과... 삼성전자 가전 역시 홈 커넥티비티 얼라이언스(HCA)을 통해 일부 기기가 연동된다. LG전자는 씽큐 클로를 이르면...",
-          "src": "sidae",
+          "title": "\"어떤 TV 찾으세요?\"…베를린서 만난 삼성 'AI 판매원'",
+          "desc": "곧바로 삼성전자의 115인치 '마이크로 RGB TV'를 추천했다. 높은 밝기와 풍부한 색 표현, 화면 반사를 줄이는... '비스포크 AI 세탁기'는 세탁물의 무게와 오염도를 감지해 물과 세제 사용량, 세탁 시간과 모터 작동을...",
+          "src": "머니투데이",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/417/0001157438?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/05/00/2026090503081088877_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005409829?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090517475767787_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
-          "desc": "AI 도입 필요성을 재차 강조했다. 카카오 컨소시엄은 카카오톡과 전화 등 국민에게 익숙한 채널을 앞세웠다. 카카오의 ‘카나나’와 LG의 ‘엑사원’ 등 국산 AI 모델을 활용해 범용 챗봇과 공공·특화 AI 에이전트를...",
-          "src": "segye",
+          "title": "과기정통부, 2027년 예산 29.6조 원 편성…전 국민 AI서비스 지원",
+          "desc": "AI 활용 문화를 확산하기 위해 모두의 AI 경진대회도 확대한다. AI와 함께 미래 첨단기술 투자도 확대된다.... 기존 출연 방식 외에 정부가 지분을 취득하고 성과를 회수해 재투자하는 투자형 R&D도 새로 도입한다. R&D...",
+          "src": "hellot",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/022/0004156561?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/04/20260904509744.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=114788",
+          "img": "https://www.hellot.net/data/photos/20260936/art_17885978062102_eb58a6.jpg"
         },
         {
-          "title": "“서울 근무가 경쟁력”…서울시 산하기관 경쟁률 최고 390대1",
-          "desc": "일제히 AI 전담 본부·센터를 출범시켰다. 과거 IT 부서 내 부수 업무로 분류되던 AI 활용이 전사 경영... AI전략본부장은 “AI 도입 기업 중 실제 가치 실현 단계로 넘어가는 곳은 5%에 불과하다”며 기술 도입보다...",
-          "src": "서울경제",
+          "title": "[마이스를 만나다] 2026 국제양자산업대전 (QX KOREA 2026)",
+          "desc": "주최 측은 “양자기술이 먼 미래의 개념이 아니라 현재 준비하고 도입해야 할 산업기술이라는 점을... 퀀텀 AI 기술을 선보인다.양자통신·보안 분야에서는 양자키분배(QKD) 시스템과 양자내성암호(PQC) 솔루션...",
+          "src": "weeklytrade",
           "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/011/0004658844?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/05/news-p.v1.20260805.d3a5f89296ba4e1d826c152ecabcf9fe_R.png"
+          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101299",
+          "img": "https://weeklytrade.co.kr/PEG/17885968772427.jpg"
         },
         {
-          "title": "복지부, 내년 신규 정책은…청년 국민연금 지원·방학틈새돌봄 '추진'",
-          "desc": "복지부는 간병인력 양성과 질 관리에 14억원을 신규로 투입해 표준교육과정을 도입하고 간병매칭 공적... 국립대병원 등 공공병원끼리 영상판독, 의무기록 생성 등을 활용하는 'AI 고속도로'도 추진된다. 한국의...",
-          "src": "뉴스핌",
+          "title": "현대제철, 美 루이지애나 전기로 제철소 첫삽…탄소저감 강판 연 270만t...",
+          "desc": "미국에서 생산체계가 안정적으로 구축되면 관련 기술과 공정을 국내에도 확대 적용할 방침이다. 회사는 현지 사업을 통해 높인 브랜드 인지도와 고객 기반을 활용해 당진제철소와 순천공장 등 국내 생산거점에서...",
+          "src": "g-enews",
           "date": "09/05",
-          "url": "https://www.newspim.com/news/view/20260904000990",
-          "img": "https://img.newspim.com/news/2026/09/04/2609041801075371_407_tc.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609051719529391ea14faf6f5_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090517220501092ea14faf6f5175197343.jpg"
         },
         {
-          "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예",
-          "desc": "이번 전면 금지는 지난 6월 통과된 교실 내 스크린 타임 제한 결의안을 이행하는 과정에서 도입됐다. 지침에... LAUSD 관계자는 비생성 AI 기술인 개인 맞춤형 학습 시스템, 음성 인식, 실시간 번역 기능 등은 교실 내에서...",
-          "src": "AI타임스",
+          "title": "\"송전선로 한계의 문제, 플랫폼 기술로 돌파해야\"",
+          "desc": "이제는 있는 자원을 어떻게 제어하고 활용할지 고민해야 한다. 거슬러가면 우리는 이미 비슷한 문제를... 호주가 세계 최초로 도입해 상용화한 ‘동적운영한계(DOE)’ 기술이 대표적이다. 호주는 플랫폼을 통해 전력망의...",
+          "src": "이데일리",
           "date": "09/05",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214889",
-          "img": "https://cdn.aitimes.com/news/photo/202609/214889_218632_5020.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006364161?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090500445.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[IFA 2026] LG전자, AI홈 ‘컨트롤타워’ 고도화… “카카오톡으로 집·가...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190542?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/AMUTO5AZR5ATVFGHVL3XY6IJNE.jpg?auth=932739f387718684e54629df9a59c1ce5481339657595aeecf404be72510864f&width=1200&height=630&smart=true"
+      "title": "삼성전자 ‘빠진’ 초대형 전시장…중국 기업이 채웠다 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693226?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/05/news-p.v1.20260905.141d2d76a7894f7bb282954299bf3b5b_T1.jpg"
     },
     {
-      "title": "삼성전자, '자원순환의 날' 앞두고 순환자원 성과 공유",
-      "url": "https://www.newspost.kr/news/articleView.html?idxno=225462",
-      "img": "https://cdn.newspost.kr/news/thumbnail/202609/225462_227809_1118_v150.jpg"
+      "title": "로봇이 옷 개고 수영장 벽 '척척'…일상 파고든 신기술 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571409?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/05/202609051857312750_e.gif"
     },
     {
-      "title": "인도 2분기 GDP 7.8% 성장… 민간 투자 11% 반등",
-      "url": "https://www.g-enews.com/view.php?ud=202609051259212961e7e8286d56_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090311444209471fda4f5ab7439122247205.jpg"
+      "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050504?sid=101",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
     },
     {
-      "title": "[IFA 2026] LG전자 \"AI 집사 '씽큐 클로' 연말 상용화\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157438?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/05/00/2026090503081088877_1.jpg"
+      "title": "\"어떤 TV 찾으세요?\"…베를린서 만난 삼성 'AI 판매원'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409829?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1801,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090517475767787_1.jpg"
     },
     {
-      "title": "전화·카톡·검색으로 쓰는 국산 AI… ‘모두의 인공지능’ 개발 속도",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156561?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/04/20260904509744.jpg"
+      "title": "과기정통부, 2027년 예산 29.6조 원 편성…전 국민 AI서비스 지원",
+      "url": "https://www.hellot.net/news/article.html?no=114788",
+      "img": "https://www.hellot.net/data/photos/20260936/art_17885978062102_eb58a6.jpg"
     },
     {
-      "title": "“서울 근무가 경쟁력”…서울시 산하기관 경쟁률 최고 390대1",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658844?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/05/news-p.v1.20260805.d3a5f89296ba4e1d826c152ecabcf9fe_R.png"
+      "title": "[마이스를 만나다] 2026 국제양자산업대전 (QX KOREA 2026)",
+      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101299",
+      "img": "https://weeklytrade.co.kr/PEG/17885968772427.jpg"
     }
   ]
 };
