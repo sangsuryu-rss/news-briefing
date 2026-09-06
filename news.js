@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.07 (월) 03:19",
+  "updatedAt": "2026.09.07 (월) 07:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IFA] 외신 홀린 1000만원 OLED…삼성, 中 추격에 '경험'으로 판 바꿨다",
-          "desc": "6일 업계에 따르면, 삼성전자가 독일 베를린에서 열린 유럽 최대 가전전시회 'IFA 2026'에서 덴마크 오디오 전문업체 캔버스 하이파이(Canvas HiFi)와 협업해 선보인 'The HiFi S99H'가 주요 외신의 호평을 받고 있다. 삼성의...",
-          "src": "apnews",
+          "title": "[더벨][IFA 2026] 실리 택한 삼성전자, 훔볼트 카레에 별도 전시장",
+          "desc": "출처:삼성전자 별도 전시장을 택한 것은 삼성전자의 가전과 인공지능(AI) 전략을 집중적으로 선보이기 위해서다. 거래선과 밀도 높은 상담을 진행하려는 목적도 있다. 메인 행사장은 관람객과 여러 업체의 전시가...",
+          "src": "더벨",
           "date": "09/07",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051034",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051034_83795_3812_v150.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609050908171220106889",
+          "img": ""
         },
         {
-          "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
-          "desc": "이번 팝업스토어에는 로봇청소기로 국내 소비자에게 알려진 로보락의 사업 확장 전략도 담겼다. 로보락은... 국내 스틱형 무선청소기 시장은 삼성전자와 LG전자 등 국내 업체들이 70% 이상을 차지하고 있으며, 다이슨 등...",
-          "src": "아이뉴스24",
-          "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/031/0001055789?sid=101",
-          "img": "https://image.inews24.com/v1/28dcb2380f9e41.jpg"
+          "title": "[르포]춤추고 재롱 떠는 中로봇, 하지만 샌드위치 못 만들어[영상]",
+          "desc": "로봇청소기가 청소하던 중 바닥에 떨어진 양말을 인식하고 집게손을 꺼내 특정 장소로 옮기려 했지만... 일각에서는 중국 기업들이 LG전자나 삼성전자의 AI홈 기술력에 미치지 못해 이 같은 로봇 개발에 더욱 힘쓰고...",
+          "src": "nocutnews",
+          "date": "09/07",
+          "url": "https://n.news.naver.com/mnews/article/079/0004186375?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609061513003847_0.jpg"
         },
         {
-          "title": "[IFA2026] 韓 “더 깊게” vs 中 “더 넓게”...'같은 목표, 다른 길'",
-          "desc": "삼성전자와 LG전자는 가전 본연 기술을 깊게 파고드는 반면, 샤오미와 TCL은 가전을 넘어 자동차와 에너지... 공간 효율을 높인 '핏 앤 맥스'도 냉장고에서 세탁기·건조기·식기세척기로 적용 범위를 넓혔다. LG전자는 첫...",
-          "src": "전자신문",
-          "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/030/0003463934?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/09/05/news-p.v1.20260905.5dd21835c0134f78a5441ac3b50b0de6_P1.jpg"
+          "title": "LG가 궁극적으로 꿈꾸는 미래의 집은 뭘까",
+          "desc": "한국을 대표하는 삼성전자와 LG전자는 서로 같은듯 다르게 미래를 준비하고, 중국 기업은 로봇을 앞세워... 세탁기·건조기·식기세척기까지 확대했다. 미래의 집이 관리하는 것은 사람의 편의만이 아니다. LG전자는...",
+          "src": "nocutnews",
+          "date": "09/07",
+          "url": "https://n.news.naver.com/mnews/article/079/0004186374?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609060637187449_0.jpg"
         },
         {
-          "title": "춤추고 다리 찢고 태극권까지… 가전쇼 새 주인공은 '로봇' [IFA 2026]",
-          "desc": "LG전자는 이번 IFA 부스 입구에 홈 로봇 'LG 클로이드'를 배치했다. 클로이드는 냉장고와 세탁기, TV 등 31대의... 삼성전자도 로봇을 제조 현장 등에 실제 활용하는 방향에 무게를 두고 있다. 최근 로봇사업을 전담하는 RX...",
-          "src": "파이낸셜뉴스",
-          "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/014/0005571654?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
+          "title": "美 관세 피해 공장 옮겼더니…한국 기업, 美 공급망 핵심으로",
+          "desc": "삼성전자와 LG전자가 트럼프 1기 당시 미국에 가전 생산시설을 구축한 것도 같은 맥락이다. 삼성전자는 사우스캐롤라이나, LG전자는 테네시에 생산거점을 마련해 미국의 세탁기 세이프가드 등 통상장벽에 대응했다....",
+          "src": "geconomy",
+          "date": "09/07",
+          "url": "https://www.geconomy.co.kr/news/article.html?no=323418",
+          "img": "https://www.geconomy.co.kr/data/photos/20260937/art_17887311759308_79537d.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[AI시대, 권력 대이동-CJ] AI로 'K-라이프스타일' 재설계…전사 AX로 기업...",
-          "desc": "이 외에도 각 계열사가 각자 축적한 데이터를 활용해 AI 기술을 고도화하고 있다. CJ제일제당이 자체... 흐름을 AI로 분석해 상품화한 사례다. 지난해 6월 국내에 먼저 적용한 데 이어 미국에도 플랫폼을 도입했으며...",
-          "src": "pointdaily",
+          "title": "[Who Is ?] 김종화 SK에너지·SK지오센트릭 대표이사 사장",
+          "desc": "전략사업인 AI 인프라에 자리를 내주게 됐다. 이 자리엔 울산ARC가 들어설 예정이었다. 울산ARC는 열분해와 해중합, 고순도 폴리프로필렌 추출 등 3가지 화학적 재활용 기술을 한곳에 모으는 폐플라스틱 재활용...",
+          "src": "비즈니스포스트",
           "date": "09/07",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318094",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318094_314355_445_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446365",
+          "img": ""
         },
         {
-          "title": "[AI시대, 권력 대이동-셀트리온] '신약개발·업무효율' 두 토끼 잡겠다....",
-          "desc": "장기적으로는 기술 성숙도에 따라 휴머노이드까지 투입해 인간 수준의 비정형 고난이도 업무도 무인화를 추진할 방침이다. ◇ 데이터 분석 등에 AI 활용…\"AI 도입 통해 내실있는 성장 견인\" 사무 부문에서는 이미...",
-          "src": "pointdaily",
+          "title": "[Who Is ?] 빈대인 BNK금융지주 대표이사 회장",
+          "desc": "인공지능(AI) 전환에 속도를 내고 있다. BNK금융그룹은 인공지능을 활용해 금융서비스 고도화와 업무... 두 금융그룹의 비은행 사업 포트폴리오가 상호 보완적이고 인공지능(AI)과 정보기술(IT) 분야의 공동 투자 여력도...",
+          "src": "비즈니스포스트",
           "date": "09/07",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318063",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318063_314320_2858_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446045",
+          "img": ""
         },
         {
-          "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (11)] 이재명 정부, ‘...",
-          "desc": "독일의 경우 상대적으로 국토가 넓음에도 불구하고 농지를 적극 활용하기 위해 수직형 태양광 도입을 통해... 환경·기술분과 위원 / (전) 국가과학기술위원회 평가위원 / (전) 산자부 연구개발사업 평가위원 / (전)...",
-          "src": "news2day",
+          "title": "[Who Is ?] 신창재 교보생명 대표이사 회장",
+          "desc": "교보생명은 토스와 기술 검증(PoC)을 통해 표준 모델을 수립하고 디지털자산의 활용 방법을 구체화하기로... 신용평가사들은 평가 보고서에서 \"교보생명은 IFRS17 도입 이후 보장성보험 중심의 다각화된 포트폴리오와...",
+          "src": "비즈니스포스트",
           "date": "09/07",
-          "url": "https://www.news2day.co.kr/article/20260906500050",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/06/.cache/512/20260906500052.png"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445686",
+          "img": ""
         },
         {
-          "title": "“AI 데이터센터 발열 잡아라”… 정유사 ‘액체냉각’ 새 시장 경쟁",
-          "desc": "기존 기술력을 활용할 수 있다는 것도 장점이다. 액침냉각유는 국내 정유사가 이미 생산하고 있는... 내 AI 데이터센터에 액침냉각 시스템을 도입하며 실증에 나섰다. 정유사들은 데이터센터용 액침냉각유 상용화에...",
-          "src": "동아일보",
+          "title": "[Issue+] 문턱 낮춘 스마트팜, 영농편의·생산성 잡고 농업인에겐 여유를",
+          "desc": "기존 시설하우스와 노지 등에 정보통신기술(ICT) 핵심 기술을 접목해 농업의 생산성을 높이고 농업인에게... 이에 맞춤형 컨설팅과 교육을 통해 농가의 스마트 기기 활용 능력을 높이고 관련 데이터 체계화로 현장...",
+          "src": "aflnews",
           "date": "09/07",
-          "url": "https://n.news.naver.com/mnews/article/020/0003746074?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134615943.1.jpg"
+          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=327577",
+          "img": "https://cdn.aflnews.co.kr/news/thumbnail/202609/327577_188338_3126_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "마이크론 주가 멈춰 선 까닭... 장기 계약 족쇄와 선반영",
+          "desc": "핵심 협력사인 마이크론 테크놀러지 주가는 실적 발표 직후 거래일 반응에서 0.3% 하락에 그쳤다.... SK하이닉스는 엔비디아 인공지능 가속기에 고대역폭 메모리(HBM)를 공급하는 핵심 파트너이며, 삼성전자 역시 차세대...",
+          "src": "g-enews",
+          "date": "09/07",
+          "url": "https://www.g-enews.com/view.php?ud=202609070648191454fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090706580002661fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "[반도체 세제전쟁]③ 정부지원과 기업체감의 엇박자",
           "desc": "인력과 협력사도 함께 움직인다. 대규모 공장을 중심으로 전력망과 용수망, 교통망, 주거와 교육 시설까지 새로 구축되는 만큼 반도체 투자는 지역경제의 산업지도를 바꾸는 수단이 된다. 정부가 삼성전자와...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "kwangju",
           "date": "09/05",
           "url": "http://www.kwangju.co.kr/article.php?aid=1788566400803014277",
-          "img": ""
+          "img": "http://www.kwangju.co.kr/upimages/gisaimg/202609/803014.jpg"
         },
         {
           "title": "삼성·현대차·조선소까지…정부, 제조 AI 전환에 6451억 투입",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/05",
           "url": "https://n.news.naver.com/mnews/article/119/0003129320?sid=101",
           "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788499126_1686504_m_1.jpg"
-        },
-        {
-          "title": "\"정부가 직접 200대 산다\" 겹호재에 '들썩'…단숨에 29% 뛰어올랐다",
-          "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
-          "src": "wowtv",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/215/0001264942?sid=101",
-          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[IFA] 외신 홀린 1000만원 OLED…삼성, 中 추격에 '경험'으로 판 바꿨다",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051034",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051034_83795_3812_v150.jpg"
+      "title": "[르포]춤추고 재롱 떠는 中로봇, 하지만 샌드위치 못 만들어[영상]",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186375?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609061513003847_0.jpg"
     },
     {
-      "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
-      "url": "https://n.news.naver.com/mnews/article/031/0001055789?sid=101",
-      "img": "https://image.inews24.com/v1/28dcb2380f9e41.jpg"
+      "title": "LG가 궁극적으로 꿈꾸는 미래의 집은 뭘까",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186374?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609060637187449_0.jpg"
     },
     {
-      "title": "[IFA2026] 韓 “더 깊게” vs 中 “더 넓게”...'같은 목표, 다른 길'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003463934?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/09/05/news-p.v1.20260905.5dd21835c0134f78a5441ac3b50b0de6_P1.jpg"
+      "title": "美 관세 피해 공장 옮겼더니…한국 기업, 美 공급망 핵심으로",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=323418",
+      "img": "https://www.geconomy.co.kr/data/photos/20260937/art_17887311759308_79537d.jpg"
     },
     {
-      "title": "춤추고 다리 찢고 태극권까지… 가전쇼 새 주인공은 '로봇' [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571654?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
+      "title": "[Issue+] 문턱 낮춘 스마트팜, 영농편의·생산성 잡고 농업인에겐 여유를",
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=327577",
+      "img": "https://cdn.aflnews.co.kr/news/thumbnail/202609/327577_188338_3126_v150.jpg"
     },
     {
-      "title": "[AI시대, 권력 대이동-CJ] AI로 'K-라이프스타일' 재설계…전사 AX로 기업...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318094",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318094_314355_445_v150.jpg"
+      "title": "마이크론 주가 멈춰 선 까닭... 장기 계약 족쇄와 선반영",
+      "url": "https://www.g-enews.com/view.php?ud=202609070648191454fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090706580002661fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "[AI시대, 권력 대이동-셀트리온] '신약개발·업무효율' 두 토끼 잡겠다....",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318063",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318063_314320_2858_v150.jpg"
+      "title": "[반도체 세제전쟁]③ 정부지원과 기업체감의 엇박자",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862229",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/862229_885363_5431_v150.jpg"
     }
   ]
 };
