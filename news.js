@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 20:00",
+  "updatedAt": "2026.09.07 (월) 00:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 ‘AI직원’ 가전제품 설명·추천…LG는 진화한 ‘AI집사’ 첫 선",
-          "desc": "글로벌 가전 기업들은 이번 전시회에서 AI를 접목한 제품과 설루션을 공개하며 가전 부문 혁신을 예고했다. 삼성전자는 이번 ‘IFA 2026’에서 AI 아바타인 ‘AI 프로모터(promoter)’를 선보였다. 대형 스크린 내에서...",
-          "src": "kookje",
-          "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/658/0000154666?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0907/L20260907.22014001811i1.jpg?56"
+          "title": "[사설] 삼성전자 DX 동행노조의 무리한 투쟁",
+          "desc": "사리가 이러함에도 삼성전자의 가전 등 완제품을 담당하는 디바이스경험(DX) 부문 직원 중심으로 구성된 삼성전자 노동조합 동행(이하 동행노조)이 18일 발대식을 시작으로 이재용 삼성전자 회장 자택 앞에서 보상...",
+          "src": "m",
+          "date": "09/07",
+          "url": "https://m.skyedaily.com/news_view.html?ID=311042",
+          "img": "https://pds.skyedaily.com/top_image/202609/311042_p.jpg"
         },
         {
           "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "美 리프레임, 로봇 기반 주택 건설공장 확장 자금 548억원 유치",
-          "desc": "피지컬 AI를 활용해 주택 건설을 산업화하는 미국 로봇기업 리프레임 시스템즈(Reframe Reframe)가 4000만달러(약... 이 회사는 로봇 기반의 주택 건설 기술을 가장 필요한 지역에 도입하는 것을 목표로 한다. 리프레임...",
-          "src": "irobotnews",
-          "date": "09/06",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48323",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48323_103569_3033.jpg"
+          "title": "스마트축산단지 태백유치 열기 확산",
+          "desc": "단지에는 악취·분진 저감을 위한 에어스크러버와 AI·ICT 기반 관제시스템, 오폐수 처리시설 등을 도입해 첨단기술을 활용한 축산환경 관리체계를 구축할 계획이다. 농식품부 공모 심사가 진행되면서 지역사회에서도 사업...",
+          "src": "kado",
+          "date": "09/07",
+          "url": "https://n.news.naver.com/mnews/article/654/0000198991?sid=102",
+          "img": "https://cdn.kado.net/news/photo/202609/2070847_879584_2231.jpg"
         },
         {
-          "title": "'답변' 대신 ‘일’하는 AI…처리는 기계가, 판단은 사람이",
-          "desc": "은행권의 AI 전환(AX) 경쟁도 단순한 기술 도입에서 업무 재설계로 이동하고 있다. 신한은행은 여신심사에... AI가 서비스 설계와 개발, 테스트를 지원하는 환경을 구축하는 것이 핵심이다. KB금융도 AI 에이전트를 활용해...",
-          "src": "브릿지경제",
-          "date": "09/06",
-          "url": "https://www.viva100.com/article/20260825501376",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825501369.png?v=20260906200105"
+          "title": "한인 총장이 이끄는 미주리대, AI 교육 의무화한다",
+          "desc": "이사회는 급변하는 기술 환경과 산업계의 수요에 발맞추어, 전공과 상관없이 모든 학생이 AI에 대한 기초 지식과 윤리적 활용법을 습득할 수 있도록 필수 교양 과목이나 전공 연계 AI 교육 과정을 도입하기로...",
+          "src": "koreadaily",
+          "date": "09/07",
+          "url": "https://www.koreadaily.com/article/20260906080007781",
+          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/09/05/380489d6-2ed0-486c-a821-568c6efa7cc9.jpg"
         },
         {
-          "title": "美 거스 오토메이션, 과수원 분무 로봇에 아우스터 라이다 채택",
-          "desc": "아우스터는 피지컬 AI용 센서 및 인지 기술 기업이다. 거스는 아우스터의 리비전8(Rev8) 'OS0' 네이티브 컬러 디지털 라이다 센서를 도입할 계획이라고 발표했다. 거스와 아우스터는 이번 탑재가 자율 분무 로봇의 기계...",
-          "src": "irobotnews",
-          "date": "09/06",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48318",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48318_103560_3118.jpg"
+          "title": "서초구, AI 침수 계측·경보 시스템으로 2년 연속 장관상",
+          "desc": "서초구가 AI 침수 계측·경보 시스템으로 행정안전부 주관 CCTV 활용 우수사례 경진대회에서 우수상을... CCTV를 도입해 올해 196대로 확대할 예정이다. 전성수 서초구청장은 \"CCTV와 AI 기술을 융합해 주민안전의...",
+          "src": "webeconomy",
+          "date": "09/07",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291928",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291928_1101377_3232.jpg"
         },
         {
-          "title": "인텔 \"로봇 대규모 도입 위한 조직과 전략 미흡하다\"",
-          "desc": "또한, 로봇을 전면 도입할 경우 운영 생산성이 두 배로 향상될 것으로 기대했다. 인텔은 최근 시장... 이에 따라 앞으로는 '엣지'와 '온디바이스' AI를 활용해 어떤 연산을 로봇 내부에서 처리하고, 어떤 작업을 현장...",
-          "src": "irobotnews",
-          "date": "09/06",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48300",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48300_103528_3616.png"
+          "title": "GS건설, AI로 건설부터 주거까지…자이의 미래를 바꾸다 [AI플랫폼 ③]",
+          "desc": "GS건설은 향후 AI 기반 설계 적정성 검토를 비롯해 드론과 로봇을 활용한 철근 배근 자동 검측 등 시공 단계로 활용 범위를 확대할 계획이다. GS건설 관계자는 “반복적이거나 고위험 작업에 AI 기술을 적극 도입해 인적...",
+          "src": "fntimes",
+          "date": "09/07",
+          "url": "https://www.fntimes.com/html/view.php?ud=202609042248524237dd55077bc2_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260904224933066480dd55077bc212411124362.jpg&nmt=18"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 ‘AI직원’ 가전제품 설명·추천…LG는 진화한 ‘AI집사’ 첫 선",
-      "url": "https://n.news.naver.com/mnews/article/658/0000154666?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0907/L20260907.22014001811i1.jpg?56"
+      "title": "[사설] 삼성전자 DX 동행노조의 무리한 투쟁",
+      "url": "https://m.skyedaily.com/news_view.html?ID=311042",
+      "img": "https://pds.skyedaily.com/top_image/202609/311042_p.jpg"
     },
     {
       "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
     },
     {
-      "title": "美 리프레임, 로봇 기반 주택 건설공장 확장 자금 548억원 유치",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48323",
-      "img": "https://cdn.irobotnews.com/news/photo/202609/48323_103569_3033.jpg"
+      "title": "스마트축산단지 태백유치 열기 확산",
+      "url": "https://n.news.naver.com/mnews/article/654/0000198991?sid=102",
+      "img": "https://cdn.kado.net/news/photo/202609/2070847_879584_2231.jpg"
     },
     {
-      "title": "'답변' 대신 ‘일’하는 AI…처리는 기계가, 판단은 사람이",
-      "url": "https://www.viva100.com/article/20260825501376",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825501369.png?v=20260906200105"
+      "title": "한인 총장이 이끄는 미주리대, AI 교육 의무화한다",
+      "url": "https://www.koreadaily.com/article/20260906080007781",
+      "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/09/05/380489d6-2ed0-486c-a821-568c6efa7cc9.jpg"
     }
   ]
 };
