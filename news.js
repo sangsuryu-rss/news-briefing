@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.07 (월) 00:30",
+  "updatedAt": "2026.09.07 (월) 03:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[사설] 삼성전자 DX 동행노조의 무리한 투쟁",
-          "desc": "사리가 이러함에도 삼성전자의 가전 등 완제품을 담당하는 디바이스경험(DX) 부문 직원 중심으로 구성된 삼성전자 노동조합 동행(이하 동행노조)이 18일 발대식을 시작으로 이재용 삼성전자 회장 자택 앞에서 보상...",
-          "src": "m",
+          "title": "[IFA] 외신 홀린 1000만원 OLED…삼성, 中 추격에 '경험'으로 판 바꿨다",
+          "desc": "6일 업계에 따르면, 삼성전자가 독일 베를린에서 열린 유럽 최대 가전전시회 'IFA 2026'에서 덴마크 오디오 전문업체 캔버스 하이파이(Canvas HiFi)와 협업해 선보인 'The HiFi S99H'가 주요 외신의 호평을 받고 있다. 삼성의...",
+          "src": "apnews",
           "date": "09/07",
-          "url": "https://m.skyedaily.com/news_view.html?ID=311042",
-          "img": "https://pds.skyedaily.com/top_image/202609/311042_p.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051034",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051034_83795_3812_v150.jpg"
         },
         {
           "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스마트축산단지 태백유치 열기 확산",
-          "desc": "단지에는 악취·분진 저감을 위한 에어스크러버와 AI·ICT 기반 관제시스템, 오폐수 처리시설 등을 도입해 첨단기술을 활용한 축산환경 관리체계를 구축할 계획이다. 농식품부 공모 심사가 진행되면서 지역사회에서도 사업...",
-          "src": "kado",
+          "title": "[AI시대, 권력 대이동-CJ] AI로 'K-라이프스타일' 재설계…전사 AX로 기업...",
+          "desc": "이 외에도 각 계열사가 각자 축적한 데이터를 활용해 AI 기술을 고도화하고 있다. CJ제일제당이 자체... 흐름을 AI로 분석해 상품화한 사례다. 지난해 6월 국내에 먼저 적용한 데 이어 미국에도 플랫폼을 도입했으며...",
+          "src": "pointdaily",
           "date": "09/07",
-          "url": "https://n.news.naver.com/mnews/article/654/0000198991?sid=102",
-          "img": "https://cdn.kado.net/news/photo/202609/2070847_879584_2231.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318094",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318094_314355_445_v150.jpg"
         },
         {
-          "title": "한인 총장이 이끄는 미주리대, AI 교육 의무화한다",
-          "desc": "이사회는 급변하는 기술 환경과 산업계의 수요에 발맞추어, 전공과 상관없이 모든 학생이 AI에 대한 기초 지식과 윤리적 활용법을 습득할 수 있도록 필수 교양 과목이나 전공 연계 AI 교육 과정을 도입하기로...",
-          "src": "koreadaily",
+          "title": "[AI시대, 권력 대이동-셀트리온] '신약개발·업무효율' 두 토끼 잡겠다....",
+          "desc": "장기적으로는 기술 성숙도에 따라 휴머노이드까지 투입해 인간 수준의 비정형 고난이도 업무도 무인화를 추진할 방침이다. ◇ 데이터 분석 등에 AI 활용…\"AI 도입 통해 내실있는 성장 견인\" 사무 부문에서는 이미...",
+          "src": "pointdaily",
           "date": "09/07",
-          "url": "https://www.koreadaily.com/article/20260906080007781",
-          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/09/05/380489d6-2ed0-486c-a821-568c6efa7cc9.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318063",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318063_314320_2858_v150.jpg"
         },
         {
-          "title": "서초구, AI 침수 계측·경보 시스템으로 2년 연속 장관상",
-          "desc": "서초구가 AI 침수 계측·경보 시스템으로 행정안전부 주관 CCTV 활용 우수사례 경진대회에서 우수상을... CCTV를 도입해 올해 196대로 확대할 예정이다. 전성수 서초구청장은 \"CCTV와 AI 기술을 융합해 주민안전의...",
-          "src": "webeconomy",
+          "title": "[중국 태양광 산업의 구조조정과 우리의 대응은? (11)] 이재명 정부, ‘...",
+          "desc": "독일의 경우 상대적으로 국토가 넓음에도 불구하고 농지를 적극 활용하기 위해 수직형 태양광 도입을 통해... 환경·기술분과 위원 / (전) 국가과학기술위원회 평가위원 / (전) 산자부 연구개발사업 평가위원 / (전)...",
+          "src": "news2day",
           "date": "09/07",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291928",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2291928_1101377_3232.jpg"
+          "url": "https://www.news2day.co.kr/article/20260906500050",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/06/.cache/512/20260906500052.png"
         },
         {
-          "title": "GS건설, AI로 건설부터 주거까지…자이의 미래를 바꾸다 [AI플랫폼 ③]",
-          "desc": "GS건설은 향후 AI 기반 설계 적정성 검토를 비롯해 드론과 로봇을 활용한 철근 배근 자동 검측 등 시공 단계로 활용 범위를 확대할 계획이다. GS건설 관계자는 “반복적이거나 고위험 작업에 AI 기술을 적극 도입해 인적...",
-          "src": "fntimes",
+          "title": "“AI 데이터센터 발열 잡아라”… 정유사 ‘액체냉각’ 새 시장 경쟁",
+          "desc": "기존 기술력을 활용할 수 있다는 것도 장점이다. 액침냉각유는 국내 정유사가 이미 생산하고 있는... 내 AI 데이터센터에 액침냉각 시스템을 도입하며 실증에 나섰다. 정유사들은 데이터센터용 액침냉각유 상용화에...",
+          "src": "동아일보",
           "date": "09/07",
-          "url": "https://www.fntimes.com/html/view.php?ud=202609042248524237dd55077bc2_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260904224933066480dd55077bc212411124362.jpg&nmt=18"
+          "url": "https://n.news.naver.com/mnews/article/020/0003746074?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134615943.1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[사설] 삼성전자 DX 동행노조의 무리한 투쟁",
-      "url": "https://m.skyedaily.com/news_view.html?ID=311042",
-      "img": "https://pds.skyedaily.com/top_image/202609/311042_p.jpg"
+      "title": "[IFA] 외신 홀린 1000만원 OLED…삼성, 中 추격에 '경험'으로 판 바꿨다",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051034",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051034_83795_3812_v150.jpg"
     },
     {
       "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
     },
     {
-      "title": "스마트축산단지 태백유치 열기 확산",
-      "url": "https://n.news.naver.com/mnews/article/654/0000198991?sid=102",
-      "img": "https://cdn.kado.net/news/photo/202609/2070847_879584_2231.jpg"
+      "title": "[AI시대, 권력 대이동-CJ] AI로 'K-라이프스타일' 재설계…전사 AX로 기업...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318094",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318094_314355_445_v150.jpg"
     },
     {
-      "title": "한인 총장이 이끄는 미주리대, AI 교육 의무화한다",
-      "url": "https://www.koreadaily.com/article/20260906080007781",
-      "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/09/05/380489d6-2ed0-486c-a821-568c6efa7cc9.jpg"
+      "title": "[AI시대, 권력 대이동-셀트리온] '신약개발·업무효율' 두 토끼 잡겠다....",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318063",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318063_314320_2858_v150.jpg"
     }
   ]
 };
