@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.07 (월) 07:08",
+  "updatedAt": "2026.09.07 (월) 08:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[더벨][IFA 2026] 실리 택한 삼성전자, 훔볼트 카레에 별도 전시장",
-          "desc": "출처:삼성전자 별도 전시장을 택한 것은 삼성전자의 가전과 인공지능(AI) 전략을 집중적으로 선보이기 위해서다. 거래선과 밀도 높은 상담을 진행하려는 목적도 있다. 메인 행사장은 관람객과 여러 업체의 전시가...",
-          "src": "더벨",
+          "title": "11번가, 580만개 명절 상품 특가 판매 ‘2026 추석맞이 프로모션’ 진행",
+          "desc": "드리미의 로봇청소기 신제품 ‘아쿠아 스팀’의 특집 방송(7일 오후 6시)을 비롯해, ‘삼성전자 가전제품’(7일 오후 8시), ‘바디프랜드 안마의자’(9일 오후 8시), ‘LG전자 가전제품’(10일 오후 7시), ‘로보락...",
+          "src": "inthenews",
           "date": "09/07",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609050908171220106889",
-          "img": ""
-        },
-        {
-          "title": "[르포]춤추고 재롱 떠는 中로봇, 하지만 샌드위치 못 만들어[영상]",
-          "desc": "로봇청소기가 청소하던 중 바닥에 떨어진 양말을 인식하고 집게손을 꺼내 특정 장소로 옮기려 했지만... 일각에서는 중국 기업들이 LG전자나 삼성전자의 AI홈 기술력에 미치지 못해 이 같은 로봇 개발에 더욱 힘쓰고...",
-          "src": "nocutnews",
-          "date": "09/07",
-          "url": "https://n.news.naver.com/mnews/article/079/0004186375?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609061513003847_0.jpg"
+          "url": "https://www.inthenews.co.kr/news/article.html?no=91473",
+          "img": "https://www.inthenews.co.kr/data/photos/20260937/art_17887384333306_813552.jpg"
         },
         {
           "title": "LG가 궁극적으로 꿈꾸는 미래의 집은 뭘까",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609060637187449_0.jpg"
         },
         {
-          "title": "美 관세 피해 공장 옮겼더니…한국 기업, 美 공급망 핵심으로",
-          "desc": "삼성전자와 LG전자가 트럼프 1기 당시 미국에 가전 생산시설을 구축한 것도 같은 맥락이다. 삼성전자는 사우스캐롤라이나, LG전자는 테네시에 생산거점을 마련해 미국의 세탁기 세이프가드 등 통상장벽에 대응했다....",
-          "src": "geconomy",
+          "title": "[더벨][IFA 2026] 실리 택한 삼성전자, 훔볼트 카레에 별도 전시장",
+          "desc": "독일 베를린에서 열린 'IFA 2026' 삼성 전시관에서 관람객들이 삼성전자 '비스포크 AI 세탁기'에 대한 설명을 듣고 있다. 출처:삼성전자 별도 전시장을 택한 것은 삼성전자의 가전과 인공지능(AI) 전략을 집중적으로...",
+          "src": "더벨",
           "date": "09/07",
-          "url": "https://www.geconomy.co.kr/news/article.html?no=323418",
-          "img": "https://www.geconomy.co.kr/data/photos/20260937/art_17887311759308_79537d.jpg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609050908171220106889",
+          "img": ""
+        },
+        {
+          "title": "집안일, 이제 끝이 보인다!",
+          "desc": "삼성전자는 '당신의 AI 일상 동반자'를 주제로 가전제품이 AI와 연결된 모습을 선보였어요. '비스포크 AI 패밀리허브' 냉장고는 AI 카메라로 식재료를 알아보고, 이를 바탕으로 요리법까지 추천해요. 냉장고의 큰...",
+          "src": "동아일보",
+          "date": "09/07",
+          "url": "https://kids.donga.com/news/articleView.html?idxno=169776",
+          "img": "https://cdn.kids.donga.com/news/photo/202609/169776_267554_107.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[Who Is ?] 김종화 SK에너지·SK지오센트릭 대표이사 사장",
-          "desc": "전략사업인 AI 인프라에 자리를 내주게 됐다. 이 자리엔 울산ARC가 들어설 예정이었다. 울산ARC는 열분해와 해중합, 고순도 폴리프로필렌 추출 등 3가지 화학적 재활용 기술을 한곳에 모으는 폐플라스틱 재활용...",
-          "src": "비즈니스포스트",
+          "title": "인공지능정부 기반본부 격상…NIA, AI 정책 지원체계 재편",
+          "desc": "인공지능정부본부에는 AI정부사업팀을 신설했다. 공공부문의 AI 서비스 도입과 관련 국정과제 수립... 피지컬 AI의 핵심 기반인 고품질 데이터 확보와 활용을 돕기 위해 데이터활용기술팀에 피지컬 AI 데이터 관련...",
+          "src": "데일리안",
           "date": "09/07",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446365",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/119/0003129656?sid=102",
+          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788738872_1687062_m_1.png"
         },
         {
-          "title": "[Who Is ?] 빈대인 BNK금융지주 대표이사 회장",
-          "desc": "인공지능(AI) 전환에 속도를 내고 있다. BNK금융그룹은 인공지능을 활용해 금융서비스 고도화와 업무... 두 금융그룹의 비은행 사업 포트폴리오가 상호 보완적이고 인공지능(AI)과 정보기술(IT) 분야의 공동 투자 여력도...",
-          "src": "비즈니스포스트",
+          "title": "웰컴금융, 숭실대와 '디지털금융AI학과' 석사과정 신설",
+          "desc": "인공지능(AI)과 데이터 기술의 활용이 확대됨에 따라, 금융과 기술 역량을 동시에 갖춘 융합형 전문 인재를... 단순히 외부 기술을 도입하는 수준을 넘어, 임직원의 AI 실무 역량을 내부화해 조직 체질을 혁신하려는...",
+          "src": "srtimes",
           "date": "09/07",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446045",
-          "img": ""
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=211738",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202609/211738_216714_5428_v150.jpg"
         },
         {
-          "title": "[Who Is ?] 신창재 교보생명 대표이사 회장",
-          "desc": "교보생명은 토스와 기술 검증(PoC)을 통해 표준 모델을 수립하고 디지털자산의 활용 방법을 구체화하기로... 신용평가사들은 평가 보고서에서 \"교보생명은 IFRS17 도입 이후 보장성보험 중심의 다각화된 포트폴리오와...",
-          "src": "비즈니스포스트",
+          "title": "DB손보, 국가품질혁신경진대회 5개상…금융권 첫 10년 연속 수상",
+          "desc": "금융취약계층을 위한 AI 실시간 통역부터 생성형 AI를 활용한 업무 자동화까지 현장 중심의 서비스·업무... 이번 대회는 산업통상자원부 국가기술표준원과 전북특별자치도·전주시가 공동 주최하고 한국표준협회가...",
+          "src": "ziksir",
           "date": "09/07",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445686",
-          "img": ""
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=145557",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202609/145557_165224_5325_v150.jpg"
         },
         {
-          "title": "[Issue+] 문턱 낮춘 스마트팜, 영농편의·생산성 잡고 농업인에겐 여유를",
-          "desc": "기존 시설하우스와 노지 등에 정보통신기술(ICT) 핵심 기술을 접목해 농업의 생산성을 높이고 농업인에게... 이에 맞춤형 컨설팅과 교육을 통해 농가의 스마트 기기 활용 능력을 높이고 관련 데이터 체계화로 현장...",
-          "src": "aflnews",
+          "title": "DB손보, 국가품질혁신경진대회 금융권 최초 10년 연속 수상",
+          "desc": "AI 실시간 통역·위키챗봇 등 빅데이터·AI 혁신 성과 입증  금융권이 AI 기술과 빅데이터를 단순 고객 상담을... 삼성생명은 AI 디지털 휴먼을 활용한 'AI 롤플레잉 서비스'를 도입해 컨설턴트의 실전 대응력을 높이고...",
+          "src": "srtimes",
           "date": "09/07",
-          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=327577",
-          "img": "https://cdn.aflnews.co.kr/news/thumbnail/202609/327577_188338_3126_v150.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=211736",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202609/211736_216711_4758_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[증시키워드] 노조 리스크 불거진 삼성전자…로보티즈 '정부 육성책'에...",
+          "desc": "7일 금융투자업계에 따르면 이날 장 시작 전 네이버페이증권 검색 상위 목록에는 삼성전자와 SK하이닉스... 이어 2일에는 장덕현 사장 주재로 협력사 대표들과 소통 포럼을 열고 AI·전장 부문 기술 협력 다지기에...",
+          "src": "이투데이",
+          "date": "09/07",
+          "url": "https://www.etoday.co.kr/news/view/2622372",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260907075839_2383929_871_316.png"
+        },
         {
           "title": "마이크론 주가 멈춰 선 까닭... 장기 계약 족쇄와 선반영",
           "desc": "핵심 협력사인 마이크론 테크놀러지 주가는 실적 발표 직후 거래일 반응에서 0.3% 하락에 그쳤다.... SK하이닉스는 엔비디아 인공지능 가속기에 고대역폭 메모리(HBM)를 공급하는 핵심 파트너이며, 삼성전자 역시 차세대...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/05",
           "url": "http://www.kwangju.co.kr/article.php?aid=1788566400803014277",
           "img": "http://www.kwangju.co.kr/upimages/gisaimg/202609/803014.jpg"
-        },
-        {
-          "title": "삼성·현대차·조선소까지…정부, 제조 AI 전환에 6451억 투입",
-          "desc": "삼성전자는 지난 3월 2030년까지 국내외 생산공장을 'AI 자율공장(AI Driven Factory)'으로 전환하겠다고... 정부가 노리는 것은 이 같은 변화가 대기업에 그치지 않고 중견·중소 협력사까지 퍼지는 것이다. 산업부가...",
-          "src": "데일리안",
-          "date": "09/05",
-          "url": "https://n.news.naver.com/mnews/article/119/0003129320?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788499126_1686504_m_1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[르포]춤추고 재롱 떠는 中로봇, 하지만 샌드위치 못 만들어[영상]",
-      "url": "https://n.news.naver.com/mnews/article/079/0004186375?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609061513003847_0.jpg"
+      "title": "11번가, 580만개 명절 상품 특가 판매 ‘2026 추석맞이 프로모션’ 진행",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=91473",
+      "img": "https://www.inthenews.co.kr/data/photos/20260937/art_17887384333306_813552.jpg"
     },
     {
       "title": "LG가 궁극적으로 꿈꾸는 미래의 집은 뭘까",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/06/202609060637187449_0.jpg"
     },
     {
-      "title": "美 관세 피해 공장 옮겼더니…한국 기업, 美 공급망 핵심으로",
-      "url": "https://www.geconomy.co.kr/news/article.html?no=323418",
-      "img": "https://www.geconomy.co.kr/data/photos/20260937/art_17887311759308_79537d.jpg"
+      "title": "집안일, 이제 끝이 보인다!",
+      "url": "https://kids.donga.com/news/articleView.html?idxno=169776",
+      "img": "https://cdn.kids.donga.com/news/photo/202609/169776_267554_107.png"
     },
     {
-      "title": "[Issue+] 문턱 낮춘 스마트팜, 영농편의·생산성 잡고 농업인에겐 여유를",
-      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=327577",
-      "img": "https://cdn.aflnews.co.kr/news/thumbnail/202609/327577_188338_3126_v150.jpg"
+      "title": "인공지능정부 기반본부 격상…NIA, AI 정책 지원체계 재편",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129656?sid=102",
+      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788738872_1687062_m_1.png"
     },
     {
-      "title": "마이크론 주가 멈춰 선 까닭... 장기 계약 족쇄와 선반영",
-      "url": "https://www.g-enews.com/view.php?ud=202609070648191454fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026090706580002661fbbec65dfb211211153121.jpg"
+      "title": "웰컴금융, 숭실대와 '디지털금융AI학과' 석사과정 신설",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=211738",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202609/211738_216714_5428_v150.jpg"
     },
     {
-      "title": "[반도체 세제전쟁]③ 정부지원과 기업체감의 엇박자",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862229",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/862229_885363_5431_v150.jpg"
+      "title": "DB손보, 국가품질혁신경진대회 5개상…금융권 첫 10년 연속 수상",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=145557",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202609/145557_165224_5325_v150.jpg"
     }
   ]
 };
