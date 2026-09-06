@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 08:55",
+  "updatedAt": "2026.09.06 (일) 13:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IFA 2026] “시끄럽고 집중도 떨어져”… 주무대 떠난 삼성전자, 도심서...",
-          "desc": "설훈 삼성전자 독일법인 소비자가전(CE) 부문장(부사장)은 독일 베를린 도심의 훔볼트 카레(Humboldt Carré)에 마련된 ‘베를린 국제가전박람회(IFA) 2026 단독 전시관’에서 기자들과 만나 이렇게 말했다. 삼성전자는 IFA 2026...",
-          "src": "조선일보",
+          "title": "반도체 뛰고 방산 날았다…韓 기업들 몸값 '쑥↑'",
+          "desc": "삼성전자와 SK하이닉스는 고대역폭메모리(HBM)와 AI 서버용 칩 수요 확대에 힘입어 잇달아 사상 최대 실적을 기록하면서 브랜드 가치도 큰 폭으로 높아진 것으로 분석됐다. 반면 자동차와 가전 분야의 주요...",
+          "src": "wowtv",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/366/0001190583?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/PKMVVOB3JVDONMVFXNFDLMX6YM.gif?auth=541e1189d4f0eeef2a4f4be2d25b4ac0a072a04875e44f432a1bbb29b242429b&width=654&height=343&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/215/0001265015?sid=101",
+          "img": ""
         },
         {
-          "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
-          "desc": "글로벌 로봇청소기 1위 기업인 로보락(Roborock)은 수영장 바닥과 벽면의 찌든 때를 완전 자율로 제거하는... 일본 가전사들의 존재감은 사실상 소멸 직전으로 내몰렸으며, 한국의 삼성전자가 메인 홀을 떠나 도심...",
-          "src": "g-enews",
+          "title": "[IFA 2026] \"가전도 수주전\"…LG, 건설사·로봇기업까지 상대한다",
+          "desc": "백 부사장은 \"LG가 모터를 60년 동안 만들어왔다\"며 \"청소기나 헤어드라이어 등에 들어가는 10만RPM 이상의... 한편 삼성전자가 올해 메세 베를린의 대형 전시 공간을 떠난 것과 달리 LG전자는 IFA 참가도 계속 이어간다는...",
+          "src": "데일리안",
           "date": "09/06",
-          "url": "https://www.g-enews.com/view.php?ud=202609051725085890c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260905172605053010c8c1c064d22114611240.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003129501?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788648178_1686892_m_1.jpg"
         },
         {
           "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
         },
         {
-          "title": "삼성전자, IFA 2026서 '방탈출' 등 AI 생태계 체험 선보여",
-          "desc": "삼성전자가 9월 4일부터 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 IFA 2026에서 글로벌... AI 세탁기, TV, 스마트모니터 등의 AI 기능들을 체험할 수 있다. 외부에는 OLED TV를 설치해 관람객들이 내부의 방탈출...",
-          "src": "thepublic",
+          "title": "韓은 집 안으로, 中은 로봇으로…IFA서 맞붙은 ‘AI 굴기’ [IFA 2026]",
+          "desc": "삼성전자와 LG전자가 AI를 가전과 일상 속에 자연스럽게 스며들게 하는 데 집중했다면, 중국 기업들은 걷고... 냉장고가 보관 중인 식재료를 파악해 요리를 제안하고, 세탁기는 세탁물에 맞춰 물과 에너지 사용량을...",
+          "src": "이투데이",
           "date": "09/06",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=317646",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/317646_321039_409.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2622194",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904144236_2383371_1200_790.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[크립토리뷰] 글로벌 고위 인사 집결…'이스트포인트:서울 2026' 1차 라인...",
-          "desc": "온체인화 △인공지능(AI) 에이전트의 시대 △일상에서의 블록체인 도입 등 5개 대주제로 진행된다. AI... 디지털 기술 도입과 함께 현지 학생과 교수진의 활용 역량을 높이는 것이 사업의 주요 목표다. 블록체인 기반...",
-          "src": "더구루",
+          "title": "“피지컬AI 전담 컨트롤타워 필요…산학연 역량 한데 모아야”",
+          "desc": "기술 도입에 앞서 현장의 이해관계와 사회적 수용성을 함께 고려해야 한다. △이정우=피지컬 AI 사업은 기술 개발에 그치지 않고 실제 제조 현장에서 활용할 수 있는 결과물을 만들어야 한다. 기술을 개발하는 쪽에서...",
+          "src": "디지털타임스",
           "date": "09/06",
-          "url": "https://www.theguru.co.kr/news/article.html?no=106732",
-          "img": "https://www.theguru.co.kr/data/photos/20260936/art_17886114621631_4579af.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003046350?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/06/news-p.v1.20260825.6098df355d75447ea50c8109f3cb89c8_R.jpg"
         },
         {
-          "title": "[굿모닝! 이 법안] '인공지능 기본사회·국민권리 보장법' 대기 중⋯\"AI기...",
-          "desc": "[편집자주] ◆ 인공지능 기본사회 및 국민권리 보장법 더불어민주당 차지호 의원(경기 오산시)은 산업·기술... 하지만 차 의원은 AI를 활용한 필수 공공서비스 제공, AI로 인한 위험의 체계적 관리, 국민의 AI기본권 보장...",
-          "src": "goodkyung",
+          "title": "SK 울산포럼 11일 개최…제조 AX·생활 속 AI 논의",
+          "desc": "AI를 활용한 지역사회 문제 해결에 초점을 맞춘다. 손해인 업스테이지 대표와 임민혁 울산과학기술원... 제조 AI 사업과 인재·인프라·규제 개선을 아우르는 '메가 샌드박스' 도입 방안이 집중적으로 논의됐다. 올해...",
+          "src": "newsway",
           "date": "09/06",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=291033",
-          "img": "https://cdn.goodkyung.com/news/thumbnail/202609/291033_263884_4112_v150.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026090613164230176",
+          "img": "https://nimage.newsway.co.kr/photo/2026/09/06/20260906000001_1200.png"
         },
         {
-          "title": "서초구, AI 침수 계측·경보 시스템으로 행안부 장관상",
-          "desc": "서울 서초구(구청장 전성수)는 행정안전부 주관 '2026 지방정부 CCTV 활용 우수사례' 경진대회에서 'AI 침수... 추가 도입해 연말까지 총 196대로 확대할 계획이다. 전성수 구청장은 \"이번 수상은 CCTV와 AI 기술을 융합해...",
-          "src": "view",
+          "title": "윤홍근 BBQ 회장 \"AI로 글로벌 BBQ 하나로 연결\"…창립 31주년 'AX 대전환...",
+          "desc": "특히 AI와 데이터, 푸드테크, 로봇 등 첨단 기술을 경영 전반에 접목해 글로벌 사업의 운영 효율성과 품질 경쟁력을 높이겠다는 방향을 밝혔다. AX 트랜스포메이션은 AI와 데이터를 활용해 경영 및 매장 운영 체계를...",
+          "src": "job-post",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/277/0005812351?sid=102",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026090608291817182_1788650958.jpg"
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226291",
+          "img": "https://cdn.job-post.co.kr/news/photo/202609/226291_329632_74.jpg"
         },
         {
-          "title": "닥터지, 호주서 단독 팝업 운영...룰루랩, AI 기반 '병원 AX' 추진",
-          "desc": "뷰티업계가 글로벌 시장 공략과 인공지능(AI) 기술 도입을 통해 소비자 접점을 넓히고 있다. 더모코스메틱... 수립에 활용할 계획이다. 향후 체크인과 문진부터 피부 분석, 상담·시술 선택, 결제, 사후관리까지 병원...",
-          "src": "slist",
+          "title": "\"'가사노동 해방' 핵심은 로봇\"…LG전자, 이족보행 휴머노이드 준비",
+          "desc": "로봇의 공장 도입은 속도가 붙고 있지만, 가정용은 시간이 더 걸릴 것이라는 게 그의 전망이다. 백 본부장은... 효율을 중시하는 만큼, 고효율 제품과 AI 기반 에너지 관리 기술을 함께 내세워 경쟁력을 확보한다는 방침이다.",
+          "src": "joongangenews",
           "date": "09/06",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=763909",
-          "img": "https://cdn.slist.kr/news/thumbnail/202609/763909_1169660_859_v150.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=545869",
+          "img": "https://cdn.joongangenews.com/news/photo/202609/545869_352121_139.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[반도체 세제전쟁]③ 정부지원과 기업체감의 엇박자",
+          "desc": "인력과 협력사도 함께 움직인다. 대규모 공장을 중심으로 전력망과 용수망, 교통망, 주거와 교육 시설까지 새로 구축되는 만큼 반도체 투자는 지역경제의 산업지도를 바꾸는 수단이 된다. 정부가 삼성전자와...",
+          "src": "한스경제",
+          "date": "09/06",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862229",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/862229_885363_5431_v150.jpg"
+        },
         {
           "title": "‘반도체 생명수’ 초순수까지 … 물 순환형 반도체 산단 조성",
           "desc": "하자부품 비율)에 영향을 줄 수 있기 때문이다. 전문가들이 산정한 호남권 반도체 산단의 최종 공업용수 공급 목표는 하루 65만t이다. 삼성전자에는 반도체 팹(생산공장) 2기에 각각 10만7000t씩 21만4000t과 협력사 5만6000t...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/04",
           "url": "https://n.news.naver.com/mnews/article/215/0001264942?sid=101",
           "img": ""
-        },
-        {
-          "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 넘게 뛰었다",
-          "desc": "최근 골드만삭스는 핵심 부품 수요 증가를 근거로 로보티즈 목표주가를 63만원으로 제시했다. 삼성전자의 휴머노이드 로봇 사업 핵심 협력사로 꼽히는 레인보우로보틱스도 유망 종목으로 거론된다. 이 기업은 핵심...",
-          "src": "한국경제",
-          "date": "09/04",
-          "url": "https://n.news.naver.com/mnews/article/015/0005328827?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/99.43046359.1.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[IFA 2026] “시끄럽고 집중도 떨어져”… 주무대 떠난 삼성전자, 도심서...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190583?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/PKMVVOB3JVDONMVFXNFDLMX6YM.gif?auth=541e1189d4f0eeef2a4f4be2d25b4ac0a072a04875e44f432a1bbb29b242429b&width=654&height=343&smart=true"
-    },
-    {
-      "title": "\"유럽 가전 텃밭 흔들렸다\"… 中 가전, 유럽 세탁기·냉장고 점유율 '20...",
-      "url": "https://www.g-enews.com/view.php?ud=202609051725085890c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260905172605053010c8c1c064d22114611240.jpg"
+      "title": "[IFA 2026] \"가전도 수주전\"…LG, 건설사·로봇기업까지 상대한다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129501?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788648178_1686892_m_1.jpg"
     },
     {
       "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
     },
     {
-      "title": "삼성전자, IFA 2026서 '방탈출' 등 AI 생태계 체험 선보여",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=317646",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/317646_321039_409.jpg"
+      "title": "韓은 집 안으로, 中은 로봇으로…IFA서 맞붙은 ‘AI 굴기’ [IFA 2026]",
+      "url": "https://www.etoday.co.kr/news/view/2622194",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904144236_2383371_1200_790.jpg"
     },
     {
-      "title": "[크립토리뷰] 글로벌 고위 인사 집결…'이스트포인트:서울 2026' 1차 라인...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=106732",
-      "img": "https://www.theguru.co.kr/data/photos/20260936/art_17886114621631_4579af.jpg"
+      "title": "“피지컬AI 전담 컨트롤타워 필요…산학연 역량 한데 모아야”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003046350?sid=105",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/06/news-p.v1.20260825.6098df355d75447ea50c8109f3cb89c8_R.jpg"
     },
     {
-      "title": "[굿모닝! 이 법안] '인공지능 기본사회·국민권리 보장법' 대기 중⋯\"AI기...",
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=291033",
-      "img": "https://cdn.goodkyung.com/news/thumbnail/202609/291033_263884_4112_v150.jpg"
+      "title": "SK 울산포럼 11일 개최…제조 AX·생활 속 AI 논의",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026090613164230176",
+      "img": "https://nimage.newsway.co.kr/photo/2026/09/06/20260906000001_1200.png"
+    },
+    {
+      "title": "윤홍근 BBQ 회장 \"AI로 글로벌 BBQ 하나로 연결\"…창립 31주년 'AX 대전환...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226291",
+      "img": "https://cdn.job-post.co.kr/news/photo/202609/226291_329632_74.jpg"
     }
   ]
 };
