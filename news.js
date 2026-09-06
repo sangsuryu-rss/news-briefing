@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.06 (일) 13:43",
+  "updatedAt": "2026.09.06 (일) 20:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 뛰고 방산 날았다…韓 기업들 몸값 '쑥↑'",
-          "desc": "삼성전자와 SK하이닉스는 고대역폭메모리(HBM)와 AI 서버용 칩 수요 확대에 힘입어 잇달아 사상 최대 실적을 기록하면서 브랜드 가치도 큰 폭으로 높아진 것으로 분석됐다. 반면 자동차와 가전 분야의 주요...",
-          "src": "wowtv",
+          "title": "삼성 ‘AI직원’ 가전제품 설명·추천…LG는 진화한 ‘AI집사’ 첫 선",
+          "desc": "글로벌 가전 기업들은 이번 전시회에서 AI를 접목한 제품과 설루션을 공개하며 가전 부문 혁신을 예고했다. 삼성전자는 이번 ‘IFA 2026’에서 AI 아바타인 ‘AI 프로모터(promoter)’를 선보였다. 대형 스크린 내에서...",
+          "src": "kookje",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/215/0001265015?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/658/0000154666?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0907/L20260907.22014001811i1.jpg?56"
         },
         {
-          "title": "[IFA 2026] \"가전도 수주전\"…LG, 건설사·로봇기업까지 상대한다",
-          "desc": "백 부사장은 \"LG가 모터를 60년 동안 만들어왔다\"며 \"청소기나 헤어드라이어 등에 들어가는 10만RPM 이상의... 한편 삼성전자가 올해 메세 베를린의 대형 전시 공간을 떠난 것과 달리 LG전자는 IFA 참가도 계속 이어간다는...",
-          "src": "데일리안",
+          "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
+          "desc": "이번 팝업스토어에는 로봇청소기로 국내 소비자에게 알려진 로보락의 사업 확장 전략도 담겼다. 로보락은... 국내 스틱형 무선청소기 시장은 삼성전자와 LG전자 등 국내 업체들이 70% 이상을 차지하고 있으며, 다이슨 등...",
+          "src": "아이뉴스24",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/119/0003129501?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788648178_1686892_m_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001055789?sid=101",
+          "img": "https://image.inews24.com/v1/28dcb2380f9e41.jpg"
         },
         {
-          "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
-          "desc": "세탁기·건조기·식기세척기까지 확대했다. 유럽 특유의 좁은 주방 환경에 최적화된 공간 효율성을 강조하고 유럽 A등급 대비 에너지를 최대 70%까지 절감하는 초고효율 제품군도 함께 선보였다. 삼성전자는...",
-          "src": "아시아타임즈",
+          "title": "[IFA2026] 韓 “더 깊게” vs 中 “더 넓게”...'같은 목표, 다른 길'",
+          "desc": "삼성전자와 LG전자는 가전 본연 기술을 깊게 파고드는 반면, 샤오미와 TCL은 가전을 넘어 자동차와 에너지... 공간 효율을 높인 '핏 앤 맥스'도 냉장고에서 세탁기·건조기·식기세척기로 적용 범위를 넓혔다. LG전자는 첫...",
+          "src": "전자신문",
           "date": "09/06",
-          "url": "https://www.asiatime.co.kr/article/20260905500027",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003463934?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/09/05/news-p.v1.20260905.5dd21835c0134f78a5441ac3b50b0de6_P1.jpg"
         },
         {
-          "title": "韓은 집 안으로, 中은 로봇으로…IFA서 맞붙은 ‘AI 굴기’ [IFA 2026]",
-          "desc": "삼성전자와 LG전자가 AI를 가전과 일상 속에 자연스럽게 스며들게 하는 데 집중했다면, 중국 기업들은 걷고... 냉장고가 보관 중인 식재료를 파악해 요리를 제안하고, 세탁기는 세탁물에 맞춰 물과 에너지 사용량을...",
-          "src": "이투데이",
+          "title": "춤추고 다리 찢고 태극권까지… 가전쇼 새 주인공은 '로봇' [IFA 2026]",
+          "desc": "LG전자는 이번 IFA 부스 입구에 홈 로봇 'LG 클로이드'를 배치했다. 클로이드는 냉장고와 세탁기, TV 등 31대의... 삼성전자도 로봇을 제조 현장 등에 실제 활용하는 방향에 무게를 두고 있다. 최근 로봇사업을 전담하는 RX...",
+          "src": "파이낸셜뉴스",
           "date": "09/06",
-          "url": "https://www.etoday.co.kr/news/view/2622194",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904144236_2383371_1200_790.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005571654?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“피지컬AI 전담 컨트롤타워 필요…산학연 역량 한데 모아야”",
-          "desc": "기술 도입에 앞서 현장의 이해관계와 사회적 수용성을 함께 고려해야 한다. △이정우=피지컬 AI 사업은 기술 개발에 그치지 않고 실제 제조 현장에서 활용할 수 있는 결과물을 만들어야 한다. 기술을 개발하는 쪽에서...",
-          "src": "디지털타임스",
+          "title": "美 리프레임, 로봇 기반 주택 건설공장 확장 자금 548억원 유치",
+          "desc": "피지컬 AI를 활용해 주택 건설을 산업화하는 미국 로봇기업 리프레임 시스템즈(Reframe Reframe)가 4000만달러(약... 이 회사는 로봇 기반의 주택 건설 기술을 가장 필요한 지역에 도입하는 것을 목표로 한다. 리프레임...",
+          "src": "irobotnews",
           "date": "09/06",
-          "url": "https://n.news.naver.com/mnews/article/029/0003046350?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/06/news-p.v1.20260825.6098df355d75447ea50c8109f3cb89c8_R.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48323",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48323_103569_3033.jpg"
         },
         {
-          "title": "SK 울산포럼 11일 개최…제조 AX·생활 속 AI 논의",
-          "desc": "AI를 활용한 지역사회 문제 해결에 초점을 맞춘다. 손해인 업스테이지 대표와 임민혁 울산과학기술원... 제조 AI 사업과 인재·인프라·규제 개선을 아우르는 '메가 샌드박스' 도입 방안이 집중적으로 논의됐다. 올해...",
-          "src": "newsway",
+          "title": "'답변' 대신 ‘일’하는 AI…처리는 기계가, 판단은 사람이",
+          "desc": "은행권의 AI 전환(AX) 경쟁도 단순한 기술 도입에서 업무 재설계로 이동하고 있다. 신한은행은 여신심사에... AI가 서비스 설계와 개발, 테스트를 지원하는 환경을 구축하는 것이 핵심이다. KB금융도 AI 에이전트를 활용해...",
+          "src": "브릿지경제",
           "date": "09/06",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026090613164230176",
-          "img": "https://nimage.newsway.co.kr/photo/2026/09/06/20260906000001_1200.png"
+          "url": "https://www.viva100.com/article/20260825501376",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825501369.png?v=20260906200105"
         },
         {
-          "title": "윤홍근 BBQ 회장 \"AI로 글로벌 BBQ 하나로 연결\"…창립 31주년 'AX 대전환...",
-          "desc": "특히 AI와 데이터, 푸드테크, 로봇 등 첨단 기술을 경영 전반에 접목해 글로벌 사업의 운영 효율성과 품질 경쟁력을 높이겠다는 방향을 밝혔다. AX 트랜스포메이션은 AI와 데이터를 활용해 경영 및 매장 운영 체계를...",
-          "src": "job-post",
+          "title": "美 거스 오토메이션, 과수원 분무 로봇에 아우스터 라이다 채택",
+          "desc": "아우스터는 피지컬 AI용 센서 및 인지 기술 기업이다. 거스는 아우스터의 리비전8(Rev8) 'OS0' 네이티브 컬러 디지털 라이다 센서를 도입할 계획이라고 발표했다. 거스와 아우스터는 이번 탑재가 자율 분무 로봇의 기계...",
+          "src": "irobotnews",
           "date": "09/06",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226291",
-          "img": "https://cdn.job-post.co.kr/news/photo/202609/226291_329632_74.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48318",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48318_103560_3118.jpg"
         },
         {
-          "title": "\"'가사노동 해방' 핵심은 로봇\"…LG전자, 이족보행 휴머노이드 준비",
-          "desc": "로봇의 공장 도입은 속도가 붙고 있지만, 가정용은 시간이 더 걸릴 것이라는 게 그의 전망이다. 백 본부장은... 효율을 중시하는 만큼, 고효율 제품과 AI 기반 에너지 관리 기술을 함께 내세워 경쟁력을 확보한다는 방침이다.",
-          "src": "joongangenews",
+          "title": "인텔 \"로봇 대규모 도입 위한 조직과 전략 미흡하다\"",
+          "desc": "또한, 로봇을 전면 도입할 경우 운영 생산성이 두 배로 향상될 것으로 기대했다. 인텔은 최근 시장... 이에 따라 앞으로는 '엣지'와 '온디바이스' AI를 활용해 어떤 연산을 로봇 내부에서 처리하고, 어떤 작업을 현장...",
+          "src": "irobotnews",
           "date": "09/06",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=545869",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/545869_352121_139.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48300",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48300_103528_3616.png"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[IFA 2026] \"가전도 수주전\"…LG, 건설사·로봇기업까지 상대한다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003129501?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1788648178_1686892_m_1.jpg"
+      "title": "삼성 ‘AI직원’ 가전제품 설명·추천…LG는 진화한 ‘AI집사’ 첫 선",
+      "url": "https://n.news.naver.com/mnews/article/658/0000154666?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0907/L20260907.22014001811i1.jpg?56"
     },
     {
-      "title": "[IFA 2026] \"AI가 알아서, 집이 먼저\"…IFA 2026이 그린 미래",
-      "url": "https://www.asiatime.co.kr/article/20260905500027",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/05/.cache/512/20260905500025.jpg"
+      "title": "\"여기서는 마음껏 어지럽혀도 됩니다\"…청소기가 '놀이'가 된 로보락 팝...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055789?sid=101",
+      "img": "https://image.inews24.com/v1/28dcb2380f9e41.jpg"
     },
     {
-      "title": "韓은 집 안으로, 中은 로봇으로…IFA서 맞붙은 ‘AI 굴기’ [IFA 2026]",
-      "url": "https://www.etoday.co.kr/news/view/2622194",
-      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260904144236_2383371_1200_790.jpg"
+      "title": "[IFA2026] 韓 “더 깊게” vs 中 “더 넓게”...'같은 목표, 다른 길'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003463934?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/09/05/news-p.v1.20260905.5dd21835c0134f78a5441ac3b50b0de6_P1.jpg"
     },
     {
-      "title": "“피지컬AI 전담 컨트롤타워 필요…산학연 역량 한데 모아야”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046350?sid=105",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/06/news-p.v1.20260825.6098df355d75447ea50c8109f3cb89c8_R.jpg"
+      "title": "춤추고 다리 찢고 태극권까지… 가전쇼 새 주인공은 '로봇' [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571654?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/06/202609061835066587_e.jpg"
     },
     {
-      "title": "SK 울산포럼 11일 개최…제조 AX·생활 속 AI 논의",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026090613164230176",
-      "img": "https://nimage.newsway.co.kr/photo/2026/09/06/20260906000001_1200.png"
+      "title": "美 리프레임, 로봇 기반 주택 건설공장 확장 자금 548억원 유치",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48323",
+      "img": "https://cdn.irobotnews.com/news/photo/202609/48323_103569_3033.jpg"
     },
     {
-      "title": "윤홍근 BBQ 회장 \"AI로 글로벌 BBQ 하나로 연결\"…창립 31주년 'AX 대전환...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226291",
-      "img": "https://cdn.job-post.co.kr/news/photo/202609/226291_329632_74.jpg"
+      "title": "'답변' 대신 ‘일’하는 AI…처리는 기계가, 판단은 사람이",
+      "url": "https://www.viva100.com/article/20260825501376",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/25/.cache/512/20260825501369.png?v=20260906200105"
     }
   ]
 };
