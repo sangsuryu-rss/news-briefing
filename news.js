@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.08 (화) 03:44",
+  "updatedAt": "2026.09.08 (화) 07:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스마트폰 가격 급등… 화면도 직접 교체해 쓴다",
-          "desc": "IFA 전자제품 수리 업체 주목 5일(현지 시각) 독일 베를린에서 열린 유럽 최대 가전·IT 전시회 ‘IFA 2026’... 삼성전자와 애플도 수리·재사용 범위를 넓히고 있다. 삼성전자서비스의 올 1분기 에어컨·세탁기 회로 기판...",
-          "src": "조선일보",
+          "title": "삼성 휴머노이드 개발 진용 갖췄다…내년 CES 출격 [biz-플러스]",
+          "desc": "삼성전자는 이를 통해 내년 초 열릴 미국 ‘소비자가전쇼(CES) 2027’에서 공개하는 것을 목표로 휴머노이드 개발에 속도를 낼 방침이다. 8일 업계에 따르면 삼성전자는 최근 노태문 DX부문장 직속 로보틱스(RX)...",
+          "src": "서울경제",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/023/0003997150?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/SJKIBCUA6JAN3LN66HX4DTDEJE.png?auth=2da331986b8178efa371ce047536bacd0f417afda5db6cc93e26cae5310f0ec3&width=1080&height=567&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/011/0004659532?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/08/news-p.v1.20260908.31c16bb7dade4fedad9fa92bcffa1066_R.jpg"
         },
         {
-          "title": "[IFA 2026 기획] 대기업이 비운 메인홀, 한국의 얼굴이 된 국가관들… \"...",
-          "desc": "지난 30여년간 메인홀을 지켜온 삼성전자가 없어졌고, 그 자리는 중국의 드론과 이동형 모빌리티 주력... 02초 안에 바닥 오염을 감지해 스팀을 제어하는 무선 로봇청소기를 내놨다. 다옴전자는 전기 분사와 광촉매...",
-          "src": "kr",
-          "date": "09/07",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814166",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814166_779110_5238.jpg"
-        },
-        {
-          "title": "[가전 트렌드] 앳홈 미닉스, 라이프스타일 맞춤 '큐레이션 패키지' 첫 선...",
-          "desc": "1인 가구와 신혼부부, 부모님 세대를 대상으로 음식물처리기와 미니 건조기, 미니 김치냉장고 등... ◇ 삼성전자, IFA 2026서 '삼성 크리에이터 허브' 연다 삼성전자, IFA 2026서 '삼성 크리에이터 허브' 연다....",
-          "src": "ibabynews",
-          "date": "09/07",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154302",
-          "img": "https://www.ibabynews.com/news/photo/202609/154302_121190_5214.jpg"
-        },
-        {
-          "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
-          "desc": "본체를 귀 뒤에 걸고 리시버를 귓속에 넣는 형태로, 유럽 최대 가전·정보기술(IT) 전시회 IFA 공식 혁신상인... 삼성전자도 보청 기능을 갤럭시 버즈에 도입한다. 지난달 갤럭시 버즈3 프로와 버즈4 프로에 적용되는 보청...",
-          "src": "동아일보",
+          "title": "[르포]아성 흔들리는 독일 가전…평범함에 숨겨진 '프리미엄'[영상]",
+          "desc": "상상 속에 머물던 인공지능(AI)과 로봇은 얼마나 우리 일상에 가까워졌을까. 한국을 대표하는 삼성전자와... 로봇들이 돌아다니지도 않았다. 전시된 제품들은 대부분 식기세척기, 냉장고, 세탁기, 인덕션, 청소기 등...",
+          "src": "nocutnews",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004186809?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/07/202609071618183176_0.jpg"
+        },
+        {
+          "title": "'C·P·R'로 본 IFA 2026…중국 물량 공세에 고효율·로봇 격전",
+          "desc": "최고 효율 제품뿐 아니라 기존 B등급에서 A등급으로 효율을 높인 건조기와 A등급 식기세척기 등 대중 소비시장(볼륨존) 제품에도 고효율 기술을 확대했다. 삼성전자 역시 에너지 관리 기능을 적용한 냉장고와 고효율...",
+          "src": "연합뉴스",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/001/0016295802?sid=101",
+          "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907134600003_01_i_P4.jpg"
+        },
+        {
+          "title": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나",
+          "desc": "반면 스마트폰·가전 등을 만드는 ‘완제품(DX·디바이스 익스피리언스)’ 부문에는 기존 성과급 외에 600만원 상당의 자사주를 지급하기로 했다. 그로부터 석 달이 지났다. 삼성전자 최대 노조로 이번 성과급 합의를 이끈...",
+          "src": "sisain",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/308/0000038732?sid=102",
+          "img": "https://cdn.sisain.co.kr/news/photo/202608/58448_113634_3921.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "춤추는 굴기와 일하는 굴기 - 2026 세계로봇대회(WRC) 이후, 우리가 정말...",
-          "desc": "기술 미팅을 가졌다. 화려한 무대 위의 결과물이 아니라, 이를 만드는 회사 안에서 그들이 지금 무엇을 하고 있고 어느 수준에 도달했는지를 직접 확인하고 싶었다. 하드웨어는 가격 경쟁력을 갖춘 공급망을 활용하더...",
-          "src": "irobotnews",
+          "title": "바이라인네트워크, ‘금융 테크 컨퍼런스 2026’ 22일 개최",
+          "desc": "금융 산업에 인공지능(AI) 도입이 빠르게 확대되는 가운데 AI 에이전트 등 새로운 기술의 활용과 이에 따른 보안 위협을 함께 살펴보고, 금융사의 기술 전략과 보안 대응 방향을 논의한다. 특히 에이전틱 AI를...",
+          "src": "byline",
           "date": "09/08",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48350",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48350_103620_3818.png"
+          "url": "https://byline.network/?p=9004111222618627",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/09077.jpg"
         },
         {
-          "title": "[패트롤] 화성시-성남시-수원시-용인시-오산시",
-          "desc": "'인공지능 챔피언'은 공공행정 현장에서 AI를 활용해 당면 과제를 해결하고 실무를 혁신할 전문 인력을... 성남시는 공무원 AI 동호회 '디엘씨(DLC Deep Learning Crew)'를 운영하며 행정자동화 사례 연구와 기술 공유를 적극...",
-          "src": "ekn",
+          "title": "NIA, AI 3대 강국 실현 맞춤 조직개편…\"피지컬 AI 데이터 대응력 확대\"",
+          "desc": "아울러 인공지능정부본부 내에 'AI정부사업팀'을 신설해 공공부문의 선제적인 AI 서비스 도입과 관련... 피지컬 AI 분야의 핵심 자산인 고품질 데이터 확보와 활용을 촉진하기 위해 '데이터활용기술팀'에 피지컬 AI...",
+          "src": "cstimes",
           "date": "09/08",
-          "url": "https://www.ekn.kr/web/view.php?key=20260908023541796",
-          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260908.9dc35316ab4145339514d9d028afe060_R.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=719723",
+          "img": "https://www.cstimes.com/news/photo/202609/719723_640463_1356.jpg"
         },
         {
-          "title": "이제 車는 ‘차이나 스탠다드’… 中 하는대로 따라한다",
-          "desc": "아우라 T6’는 이 회사가 역사상 처음 내놓은 중국 기술을 대거 적용한 신차다. 2023년 말 지분 5%를 인수한... 특화된 AI 에이전트 활용도 늘릴 계획이다. 닛산의 이반 에스피노사 사장도 지난 6월 한 인터뷰에서 “신차...",
-          "src": "조선일보",
+          "title": "[스테이블코인 시대] \"이자 나눠줄게\"…140개사 끌어모은 OUSD의 '수익 반...",
+          "desc": "OUSD가 겨냥한 것은 기술 자체보다 유통망과 사용처다. 스테이블코인을 발행하는 것만으로는 이용자를... 도입할 계획이다. 향후 관련 법제화와 서비스 여건에 맞춰 국경 간 결제와 디지털자산 정산 등으로 활용 영역을...",
+          "src": "dealsite",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/023/0003997144?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/GBTDGZRZGJQTQOJZGVQWEY3DMU.jpg?auth=5e869b245c1a6e6dc50580ca193cec0c974a028387987c6034b469fcc1e87a0f&width=1200&height=630&focal=1954,2068"
+          "url": "https://dealsite.co.kr/articles/168245",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/01/a0bc2e4dc76f4d7f9df99926a02282c0/thumb.jpg"
         },
         {
-          "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
-          "desc": "이어폰에 쓰던 AI 기술을 활용해 주변 소음 속에서 말소리를 골라내는 보청 기능을 선도하겠다는 것이다.... 애플은 2024년 에어팟 프로2에 보청 기능을 처음 도입했으며, 현재 국내에서도 에어팟 프로2와 프로3로 청력...",
-          "src": "동아일보",
+          "title": "독파모 시장성·GPU 전력·챗봇 안전…2026 국감 AI 관전포인트는",
+          "desc": "탈락팀에 투입된 자원과 개발 모델을 어떻게 활용할지도 쟁점이다. 기술 성능뿐 아니라 이용률과 매출, 공공·민간 도입 실적 등 시장 성과를 평가에 반영해야 한다는 요구도 나올 수 있다. 한 AI 업계 관계자는...",
+          "src": "digitaltoday",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698703",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/698703_646458_2738.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "스마트폰 가격 급등… 화면도 직접 교체해 쓴다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997150?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/SJKIBCUA6JAN3LN66HX4DTDEJE.png?auth=2da331986b8178efa371ce047536bacd0f417afda5db6cc93e26cae5310f0ec3&width=1080&height=567&smart=true"
+      "title": "삼성 휴머노이드 개발 진용 갖췄다…내년 CES 출격 [biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659532?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/08/news-p.v1.20260908.31c16bb7dade4fedad9fa92bcffa1066_R.jpg"
     },
     {
-      "title": "[IFA 2026 기획] 대기업이 비운 메인홀, 한국의 얼굴이 된 국가관들… \"...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1814166",
-      "img": "https://cdn.kr.aving.net/news/photo/202609/1814166_779110_5238.jpg"
+      "title": "[르포]아성 흔들리는 독일 가전…평범함에 숨겨진 '프리미엄'[영상]",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186809?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/07/202609071618183176_0.jpg"
     },
     {
-      "title": "[가전 트렌드] 앳홈 미닉스, 라이프스타일 맞춤 '큐레이션 패키지' 첫 선...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154302",
-      "img": "https://www.ibabynews.com/news/photo/202609/154302_121190_5214.jpg"
+      "title": "'C·P·R'로 본 IFA 2026…중국 물량 공세에 고효율·로봇 격전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016295802?sid=101",
+      "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907134600003_01_i_P4.jpg"
     },
     {
-      "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
+      "title": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나",
+      "url": "https://n.news.naver.com/mnews/article/308/0000038732?sid=102",
+      "img": "https://cdn.sisain.co.kr/news/photo/202608/58448_113634_3921.jpg"
     },
     {
-      "title": "춤추는 굴기와 일하는 굴기 - 2026 세계로봇대회(WRC) 이후, 우리가 정말...",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48350",
-      "img": "https://cdn.irobotnews.com/news/photo/202609/48350_103620_3818.png"
+      "title": "바이라인네트워크, ‘금융 테크 컨퍼런스 2026’ 22일 개최",
+      "url": "https://byline.network/?p=9004111222618627",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/09/09077.jpg"
     },
     {
-      "title": "[패트롤] 화성시-성남시-수원시-용인시-오산시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260908023541796",
-      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260908.9dc35316ab4145339514d9d028afe060_R.jpg"
+      "title": "NIA, AI 3대 강국 실현 맞춤 조직개편…\"피지컬 AI 데이터 대응력 확대\"",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=719723",
+      "img": "https://www.cstimes.com/news/photo/202609/719723_640463_1356.jpg"
     }
   ]
 };
