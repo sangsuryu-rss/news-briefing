@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.07 (월) 21:38",
+  "updatedAt": "2026.09.08 (화) 03:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[감사인세미나] 신재용 서울대 교수 “깜깜이 N% 성과급, 본질은 금액이...",
-          "desc": "삼성전자는 반도체 외에도 스마트폰‧가전 등 다양한 사업부를 가졌지만, SK하이닉스는 반도체 중심 기업이다. 신 교수는 삼전-닉스 사례를 비교하며, 성과급 문제의 본질은 금액이 아니라 초과성과를 누구의 몫으로 볼...",
-          "src": "tfmedia",
-          "date": "09/07",
-          "url": "https://www.tfmedia.co.kr/news/article.html?no=207048",
-          "img": "https://www.tfmedia.co.kr/data/photos/20260937/art_17887800833631_73d590.jpg"
+          "title": "스마트폰 가격 급등… 화면도 직접 교체해 쓴다",
+          "desc": "IFA 전자제품 수리 업체 주목 5일(현지 시각) 독일 베를린에서 열린 유럽 최대 가전·IT 전시회 ‘IFA 2026’... 삼성전자와 애플도 수리·재사용 범위를 넓히고 있다. 삼성전자서비스의 올 1분기 에어컨·세탁기 회로 기판...",
+          "src": "조선일보",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997150?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/SJKIBCUA6JAN3LN66HX4DTDEJE.png?auth=2da331986b8178efa371ce047536bacd0f417afda5db6cc93e26cae5310f0ec3&width=1080&height=567&smart=true"
         },
         {
           "title": "[IFA 2026 기획] 대기업이 비운 메인홀, 한국의 얼굴이 된 국가관들… \"...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202609/154302_121190_5214.jpg"
         },
         {
-          "title": "[업계 만화경] 'IFA 2026' 8일 폐막…LG전자 등 60여 국내기업 참가",
-          "desc": "올해 행사에도 국내 기업들이 다수 참가했는데, 그 중엔 삼성전자와 LG전자 등 대기업과 에스엠 등... 냉장고·세탁기·건조기·식기세척기 등 대형 가전의 평균 수명은 2019년 11.6년에서 2023년 12.5년으로 늘었다....",
-          "src": "niceeconomy",
-          "date": "09/07",
-          "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90866",
-          "img": "https://cdn.niceeconomy.co.kr/news/thumbnail/202609/90866_60656_4835_v150.jpg"
+          "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
+          "desc": "본체를 귀 뒤에 걸고 리시버를 귓속에 넣는 형태로, 유럽 최대 가전·정보기술(IT) 전시회 IFA 공식 혁신상인... 삼성전자도 보청 기능을 갤럭시 버즈에 도입한다. 지난달 갤럭시 버즈3 프로와 버즈4 프로에 적용되는 보청...",
+          "src": "동아일보",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "광진구, 서울시 주관 '2026년 하반기 적극행정 우수사례' 공모에서 자치...",
-          "desc": "특히 외부 용역이나 별도 예산 투입 없이, 담당 공무원 1명이 직접 코딩과 AI 기술을 활용해 카카오톡 기반... 서비스 도입 결과, 건당 평균 10분에 달하던 민원 응대 시간이 2분으로 약 80% 단축됐다. 반복적인 문의에 대한...",
-          "src": "cnbizm",
-          "date": "09/07",
-          "url": "https://www.cnbizm.com/news/articleView.html?idxno=314236",
-          "img": "https://cdn.cnbizm.com/news/photo/202609/314236_220482_1858.jpg"
+          "title": "춤추는 굴기와 일하는 굴기 - 2026 세계로봇대회(WRC) 이후, 우리가 정말...",
+          "desc": "기술 미팅을 가졌다. 화려한 무대 위의 결과물이 아니라, 이를 만드는 회사 안에서 그들이 지금 무엇을 하고 있고 어느 수준에 도달했는지를 직접 확인하고 싶었다. 하드웨어는 가격 경쟁력을 갖춘 공급망을 활용하더...",
+          "src": "irobotnews",
+          "date": "09/08",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48350",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48350_103620_3818.png"
         },
         {
-          "title": "\"영점 이동·강국 의식으로 격차사회 넘어 품격사회로\"",
-          "desc": "특히 급속한 AI 기술 발전과 초저출생·초고령화, 미·중 박빙 경쟁 등 국내외적 대전환을 언급하며 기존의... 이어 AI 반도체 세수 등을 활용한 '미래대응기금'을 조성하여 국가 성장, 청년 지원, 지방 발전, 인재 양성에...",
-          "src": "idaegu",
-          "date": "09/07",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558921",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026090801000235200012351.jpg"
+          "title": "[패트롤] 화성시-성남시-수원시-용인시-오산시",
+          "desc": "'인공지능 챔피언'은 공공행정 현장에서 AI를 활용해 당면 과제를 해결하고 실무를 혁신할 전문 인력을... 성남시는 공무원 AI 동호회 '디엘씨(DLC Deep Learning Crew)'를 운영하며 행정자동화 사례 연구와 기술 공유를 적극...",
+          "src": "ekn",
+          "date": "09/08",
+          "url": "https://www.ekn.kr/web/view.php?key=20260908023541796",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260908.9dc35316ab4145339514d9d028afe060_R.jpg"
         },
         {
-          "title": "대구 서구, CCTV에 'AI 이상 음원 분석 시스템' 도입",
-          "desc": "권오상 서구청장은 \"주거환경 변화와 인구 증가에 따라 주민들이 체감할 수 있는 생활안전 정책의 중요성이 커지고 있다\"며 \"AI 등 새로운 기술을 활용해 위험 상황을 빠르게 파악하고 대응할 수 있는 안전한 서구를...",
-          "src": "idaegu",
-          "date": "09/07",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558894",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026090801000220700012041.jpg"
+          "title": "이제 車는 ‘차이나 스탠다드’… 中 하는대로 따라한다",
+          "desc": "아우라 T6’는 이 회사가 역사상 처음 내놓은 중국 기술을 대거 적용한 신차다. 2023년 말 지분 5%를 인수한... 특화된 AI 에이전트 활용도 늘릴 계획이다. 닛산의 이반 에스피노사 사장도 지난 6월 한 인터뷰에서 “신차...",
+          "src": "조선일보",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997144?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/GBTDGZRZGJQTQOJZGVQWEY3DMU.jpg?auth=5e869b245c1a6e6dc50580ca193cec0c974a028387987c6034b469fcc1e87a0f&width=1200&height=630&focal=1954,2068"
         },
         {
-          "title": "KDB생명, 영업지원 시스템 전면 개편…보험금 심사에도 AI 도입",
-          "desc": "보험금 심사 업무에는 AI 광학문자인식(OCR) 기술을 도입했다. 보험금 청구 서류를 판독하고 데이터를... 향후 위험률 개발과 고객 맞춤형 상품·서비스 전략을 수립하는 데 활용할 예정이다. KDB생명 관계자는 \"영업...",
-          "src": "koreareport",
-          "date": "09/07",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52693",
-          "img": "https://cdn.koreareport.co.kr/news/photo/202609/52693_55356_1812.jpeg"
+          "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
+          "desc": "이어폰에 쓰던 AI 기술을 활용해 주변 소음 속에서 말소리를 골라내는 보청 기능을 선도하겠다는 것이다.... 애플은 2024년 에어팟 프로2에 보청 기능을 처음 도입했으며, 현재 국내에서도 에어팟 프로2와 프로3로 청력...",
+          "src": "동아일보",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[감사인세미나] 신재용 서울대 교수 “깜깜이 N% 성과급, 본질은 금액이...",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=207048",
-      "img": "https://www.tfmedia.co.kr/data/photos/20260937/art_17887800833631_73d590.jpg"
+      "title": "스마트폰 가격 급등… 화면도 직접 교체해 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997150?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/SJKIBCUA6JAN3LN66HX4DTDEJE.png?auth=2da331986b8178efa371ce047536bacd0f417afda5db6cc93e26cae5310f0ec3&width=1080&height=567&smart=true"
     },
     {
       "title": "[IFA 2026 기획] 대기업이 비운 메인홀, 한국의 얼굴이 된 국가관들… \"...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202609/154302_121190_5214.jpg"
     },
     {
-      "title": "[업계 만화경] 'IFA 2026' 8일 폐막…LG전자 등 60여 국내기업 참가",
-      "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90866",
-      "img": "https://cdn.niceeconomy.co.kr/news/thumbnail/202609/90866_60656_4835_v150.jpg"
+      "title": "보청기가 무선이어폰-안경에 ‘쏙’… 삼성-애플 ‘난청 테크’ 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746347?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134623673.1.jpg"
     },
     {
-      "title": "광진구, 서울시 주관 '2026년 하반기 적극행정 우수사례' 공모에서 자치...",
-      "url": "https://www.cnbizm.com/news/articleView.html?idxno=314236",
-      "img": "https://cdn.cnbizm.com/news/photo/202609/314236_220482_1858.jpg"
+      "title": "춤추는 굴기와 일하는 굴기 - 2026 세계로봇대회(WRC) 이후, 우리가 정말...",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48350",
+      "img": "https://cdn.irobotnews.com/news/photo/202609/48350_103620_3818.png"
     },
     {
-      "title": "\"영점 이동·강국 의식으로 격차사회 넘어 품격사회로\"",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558921",
-      "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026090801000235200012351.jpg"
+      "title": "[패트롤] 화성시-성남시-수원시-용인시-오산시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260908023541796",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260908.9dc35316ab4145339514d9d028afe060_R.jpg"
     }
   ]
 };
