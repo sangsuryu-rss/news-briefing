@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.08 (화) 13:41",
+  "updatedAt": "2026.09.08 (화) 20:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 인도법인, TV·가전 인력 감축…최대 100명 순차적 통보",
-          "desc": "삼성전자 인도법인이 TV와 생활가전 사업을 중심으로 인력 감축에 들어갔다. 메모리 반도체 가격 급등과 루피화 약세로 주력인 스마트폰 사업의 판매와 수익성이 악화하자 조직 효율화에 나선 것으로 풀이된다....",
-          "src": "kpinews",
+          "title": "[IFA 2026 결산] '가전 그 이상'이 됐다…AI 집사·로봇·中 공세 한꺼번...",
+          "desc": "삼성전자는 가전과 TV·모바일·웨어러블을 묶은 'AI 리빙'을 내세웠다. LG전자는 AI 홈 허브 '씽큐 온'과 실행형 AI 에이전트 '씽큐 클로'를 통해 사용자의 상황을 파악한 뒤 필요한 기능을 먼저 제안·실행하는 모습을...",
+          "src": "아주경제",
           "date": "09/08",
-          "url": "https://www.kpinews.kr/newsView/1065586151063010",
-          "img": "https://kpinews.kr/data/upi/image/2026/09/08/p1065586151063010_196_thum.png"
+          "url": "https://www.ajunews.com/view/20260908150808935",
+          "img": ""
         },
         {
-          "title": "[재계는 지금] 한컴, 퓨리오사AI와 NPU 기반 AX 시장 공략 外",
-          "desc": "이를 통해 클라우드 의존도를 낮추고 로봇 내부에서 인식·판단·행동이 이뤄지도록 해 통신 지연과 전력 소모를 줄이고 보안성을 높인다는 목표다. ◆삼성전자, 세계 주요 도시서 폴더블 옥외광고 삼성전자가...",
-          "src": "dealsite",
+          "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
+          "desc": "롯데하이마트가 가을 이사·혼수철을 맞아 삼성전자 가전을 중심으로 대규모 할인전에 나선다. TV... 세탁건조기(세탁기 25㎏, 건조기 20㎏)' 등 행사상품을 2개 품목 이상 구매하면 품목 수에 따라 최대...",
+          "src": "매일경제",
           "date": "09/08",
-          "url": "https://dealsite.co.kr/articles/168616",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/08/ba1d1e816d6e488fa1eb90afed6a7159/thumb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005732148?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110207000002_L00.jpg"
         },
         {
-          "title": "냉장고·세탁기에 식기세척기까지…개발자 영입 공들이는 코웨이, 왜?",
-          "desc": "업계에선 정수기 렌탈에서 시작한 사업을 침대(비렉스)와 비데, 에어컨에 이어 삼성전자와 LG전자 등... 장 상무가 몸담았던 LG전자 H&A 사업본부는 LG전자의 핵심 생활가전을 총괄하는 조직이다. 냉장고·세탁기·건조기...",
-          "src": "헤럴드경제",
+          "title": "'피지컬 AI'로 물든 IFA 2026…中 물량공세 속 휴머노이드는 '반쪽'",
+          "desc": "삼성전자는 에너지 관리 기능을 적용한 냉장고와 고효율 인버터 모터를 탑재한 세탁기 등을 선보였다. 또 연결된 가전을 통해 전력 사용량을 확인하고 제어하는 에너지 관리 경험을 제공했다. LG전자는 에너지 리더십...",
+          "src": "뉴스웍스",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/016/0002694270?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/08/news-p.v1.20260907.d230dad145f8415ca967e514d3b18416_T1.png"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
         },
         {
-          "title": "AI 홈·로봇으로 확장된 IFA… 韓 '고효율' vs 中 '물량' 총력전",
-          "desc": "◆삼성·LG '연결성·공감지능' 앞세워 AI 홈 대중화 선언 중국의 거센 추격 속에서 국내 기업인 삼성전자와... 특히 유럽 에너지 효율 A등급 기준보다 전력 소모를 대폭 줄인 '비스포크 AI 세탁기'와 'AI 비전' 기술이...",
-          "src": "newscj",
+          "title": "\"24시간 함께하는 개인비서 … AI 안경 확산으로 1인 기업 크게 늘 것\"",
+          "desc": "삼성전자는 스마트싱스의 '패밀리 케어'를 통해 혼자 사는 부모의 생활 패턴에 이상이 생기면 자녀에게 알려주는 서비스를 제공하고 있다. TV나 냉장고 등 사용 패턴을 토대로 평소와 다른 상황을 감지하는 방식으로...",
+          "src": "매일경제",
           "date": "09/08",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3430923",
-          "img": "https://cdn.newscj.com/news/thumbnail/202609/3430923_3546304_1110_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005732303?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01160104000002_L00.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 인프라·운영 자동화…에스넷시스템, 삼성SDS 행사 참가",
-          "desc": "CloudHub:AI는 반복적인 IT 운영 업무를 AI 에이전트가 수행하도록 지원하는 플랫폼이다. AI 도입 이후... 고객이 AI 활용에 집중할 수 있도록 한다는 설명이다. 삼성 클라우드 플랫폼(SCP)과 관련한 기술 역량도 소개했다....",
-          "src": "tokenpost",
+          "title": "한전KDN, AI 데이터센터 보안 확보 위해 '앞장'…N2SF 보안정책 전파",
+          "desc": "(AIBOM, AI Bill of Materials)기반 AIDC 공급망 보안 ▲공공기관 N2SF(National Network Security Framework) 도입 및 AIDC... 보안기술의 확보와 현장 적용 방향을 제시했다. 둘째 날에는 AI를 활용한 사이버 위협 탐지·분석 및 보안...",
+          "src": "e-platform",
           "date": "09/08",
-          "url": "https://www.tokenpost.kr/news/ai/404132",
-          "img": "https://f1.tokenpost.kr/2026/09/xh49tk1ynt.jpg"
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=105181",
+          "img": "https://cdn.e-platform.net/news/thumbnail/202609/105181_77362_1722_v150.jpg"
         },
         {
-          "title": "양주시, AI 로봇으로 '밀폐공간 복합농도 측정 시범 시험' 실시",
-          "desc": "체계를 도입하는 방안을 살필 예정이다. 문은경 양주시 시민안전과장은 \"위험한 밀폐공간을 점검할 때 작업자의 안전을 확보하기 위한 대안으로 모빌리티 AI 기술의 활용 가능성을 확인한 계기\"라며 \"앞으로도 현장의 안전...",
-          "src": "뉴스핌",
+          "title": "\"인텔도 ASML과\"…인텔 파운드리, 하이NA EUV로 웨이퍼 100만장 처리",
+          "desc": "같은 날 삼성전자가 2028년 D램 도입 계획을 내놓은 것과 비교하면, 두 회사가 같은 기술을 놓고 정반대... 솔루션을 활용하는 방식이다. 하이 NA EUV는 한 번에 새길 수 있는 면적이 기존 EUV의 절반으로 줄어들어 회로를...",
+          "src": "econovill",
           "date": "09/08",
-          "url": "https://www.newspim.com/news/view/20260908000669",
-          "img": "https://img.newspim.com/news/2026/09/08/2609081210393610_t1.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=750218",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/750218_725604_126_v150.jpg"
         },
         {
-          "title": "위존, KEIT 'M.AX 전문기업' 선정…제조 AI 전환 사업 확대",
-          "desc": "KEIT는 기술력과 전문성, 제조기업 대상 공급 실적, 시장 신뢰도, 기업 성장 가능성 등을 종합적으로 평가해 제조기업의 AI 도입과 활용을 지원하고 제조 AI 생태계를 활성화할 전문기업을 선정한다. 이번 평가에서...",
-          "src": "한국경제",
+          "title": "\"2030년 로봇 시장 2600억 달러라는데\"… 韓 로봇, 아직은 '성장기'",
+          "desc": "FCC는 첨단 로봇이 촬영 영상과 위치정보, 센서 데이터를 수집해 외국 정보기관에 활용되거나 해킹으로 원격 조종될 수 있다는 점을 규제 배경으로 들었다. 중국도 신창 프로젝트를 강화하고 있다. 신창은 '정보기술...",
+          "src": "econovill",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/015/0005329968?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/0D.45604475.1.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=750214",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/750214_725598_5933_v150.jpg"
         },
         {
-          "title": "[AI 전환의 다음 승부처] 한컴, '문서 SW' 넘어 NPU 기반 AX 인프라까지...",
-          "desc": "AI 전환(AX) 시장을 겨냥한다. 에이전틱 OS와 NPU를 결합한 어플라이언스를 통해 기업과 공공기관의 AI 도입... 이를 활용할 개발자와 운영 인력, AI 모델 최적화 기술, 실제 업무에 적용할 수 있는 소프트웨어가 함께...",
-          "src": "dailypop",
+          "title": "[논설위원의 단도직입]“청년고용 부진 고착화…‘경력 사다리’ 끊기지...",
+          "desc": "정책 도입에 기여했다. 국회 사회적대화 보호의제 협의체 위원장, 고용노동부 노동법·제도 전문가회의... 비록 기간제 일자리에 그친다 해도 청년이 경력을 쌓는 디딤돌이 되는 데다 대기업에 비해 AI 활용 능력이...",
+          "src": "khan",
           "date": "09/08",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=102364",
-          "img": "http://www.dailypop.kr/news/thumbnail/202609/102364_169873_3718_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003469203?sid=110",
+          "img": "https://img.khan.co.kr/news/2026/09/08/l_2026090901000281100025202.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[더벨]파인엠텍, 한·미 폴더블 매출 본격화 '와이드 이펙트'",
-          "desc": "예년보다 라인업이 늘어나면서 핵심 부품을 담당하는 협력사들도 쾌재를 부르고 있다. 올해는 '와이드형' 등장으로 고객들의 관심을 끌고 있다. 삼성전자 신제품의 인기는 현재진행형이다. 이번 주 공개될 북미 기업의...",
-          "src": "더벨",
+          "title": "삼성전자, 요코하마에 첨단패키징 연구소 개소…3500억원 투자",
+          "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과의 협력도 강화한다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장을 비롯해 일본 정부 및 지자체, 협력사 관계자 등 100명이 참석했다....",
+          "src": "아주경제",
           "date": "09/08",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609080749016700101977",
+          "url": "https://www.ajunews.com/view/20260908200907717",
           "img": ""
         },
         {
-          "title": "엔비디아 주도 Open RAN 확산…기가레인, 초고주파 RF 기술력 '주목'",
-          "desc": "삼성전자 협력사 이력이 다시 부각되면서 투자자들의 관심이 집중되는 모습이다. 기가레인도 13.99% 오른 8880원에 거래 중이다. 엔비디아를 중심으로 Open RAN 생태계가 확대될 것이라는 기대 속에서 고성능 RF 통신부품...",
-          "src": "핀포인트뉴스",
+          "title": "\"내년까지 100명 인력 확보\"…삼성전자가 3500억 들여 공들인다는 '이것...",
+          "desc": "지자체, 협력사 관계자 등 100여명이 참석했다. 삼성전자는 이 연구소에 2024년부터 5년간 400억엔(약 3500억원)... 연구개발(R&D) 거점으로 삼고, 현지 소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화할 방침이다.",
+          "src": "view",
           "date": "09/08",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484863",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/484863_471208_1526_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005813635?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026070710070036675_1783386420.jpg"
         },
         {
-          "title": "삼성전자 휴머노이드 개발 착수 CES 2027 공개 목표",
-          "desc": "대구의 한 로봇 감속기 협력사에서 기술 개발을 총괄하는 최모 씨(49)는 \"그동안 정밀 감속기나 엔코더 같은 핵심 구동 부품은 해외 수입 의존도가 높아 납기와 단가 조절에 큰 제약이 따랐다\"며 \"국내 대표 전자 기업이...",
-          "src": "고코리아",
+          "title": "삼성전자, 日 요코하마에 첨단 패키징 연구소⋯5년간 3500억 투입",
+          "desc": "소재·부품·장비(소부장) 기업 및 연구기관과의 협력도 강화한다. 연구소가 들어선 요코하마는 도쿄대... 이날 개소식에는 전영현 삼성전자 DS부문장(부회장)을 비롯해 일본 정부 및 지자체, 주요 협력사 관계자 등...",
+          "src": "이투데이",
           "date": "09/08",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=877516",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/877516_154702_3530_v150.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2623272",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260908194044_2385089_1000_1443.jpg"
         },
         {
-          "title": "대우건설, 평택 반도체 산업 확대에 배후 주거지 브레인시티 부상",
-          "desc": "컨슈머타임스=정용규 기자 | 삼성전자 평택캠퍼스 생산시설 확대 움직임이 가시화되면서 인근 배후... 생산시설이 커지면 반도체 소재·부품·장비 업체와 협력사의 활동 범위도 함께 넓어진다. 반도체 기업과 협력사...",
-          "src": "cstimes",
+          "title": "삼성전자, 日 첨단 패키징 R&D 거점에 3500억 규모 투자",
+          "desc": "행사에는 전영현 삼성전자 디바이스솔루션(DS)부문 부회장을 비롯해 일본 정부와 지방자치단체, 협력사... 일본을 연구 거점으로 선택한 배경으로는 현지의 탄탄한 반도체 소재·부품·장비(소부장) 생태계가 꼽힌다....",
+          "src": "m-i",
           "date": "09/08",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=719772",
-          "img": "https://www.cstimes.com/news/photo/202609/719772_640519_5254.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1411545",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1411545_1199850_3419_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 인도법인, TV·가전 인력 감축…최대 100명 순차적 통보",
-      "url": "https://www.kpinews.kr/newsView/1065586151063010",
-      "img": "https://kpinews.kr/data/upi/image/2026/09/08/p1065586151063010_196_thum.png"
+      "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732148?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110207000002_L00.jpg"
     },
     {
-      "title": "[재계는 지금] 한컴, 퓨리오사AI와 NPU 기반 AX 시장 공략 外",
-      "url": "https://dealsite.co.kr/articles/168616",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/08/ba1d1e816d6e488fa1eb90afed6a7159/thumb.jpg"
+      "title": "'피지컬 AI'로 물든 IFA 2026…中 물량공세 속 휴머노이드는 '반쪽'",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
     },
     {
-      "title": "냉장고·세탁기에 식기세척기까지…개발자 영입 공들이는 코웨이, 왜?",
-      "url": "https://n.news.naver.com/mnews/article/016/0002694270?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/08/news-p.v1.20260907.d230dad145f8415ca967e514d3b18416_T1.png"
+      "title": "\"24시간 함께하는 개인비서 … AI 안경 확산으로 1인 기업 크게 늘 것\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732303?sid=105",
+      "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01160104000002_L00.jpg"
     },
     {
-      "title": "AI 홈·로봇으로 확장된 IFA… 韓 '고효율' vs 中 '물량' 총력전",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3430923",
-      "img": "https://cdn.newscj.com/news/thumbnail/202609/3430923_3546304_1110_v150.jpg"
+      "title": "한전KDN, AI 데이터센터 보안 확보 위해 '앞장'…N2SF 보안정책 전파",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=105181",
+      "img": "https://cdn.e-platform.net/news/thumbnail/202609/105181_77362_1722_v150.jpg"
     },
     {
-      "title": "AI 인프라·운영 자동화…에스넷시스템, 삼성SDS 행사 참가",
-      "url": "https://www.tokenpost.kr/news/ai/404132",
-      "img": "https://f1.tokenpost.kr/2026/09/xh49tk1ynt.jpg"
+      "title": "\"인텔도 ASML과\"…인텔 파운드리, 하이NA EUV로 웨이퍼 100만장 처리",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=750218",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/750218_725604_126_v150.jpg"
     },
     {
-      "title": "양주시, AI 로봇으로 '밀폐공간 복합농도 측정 시범 시험' 실시",
-      "url": "https://www.newspim.com/news/view/20260908000669",
-      "img": "https://img.newspim.com/news/2026/09/08/2609081210393610_t1.jpg"
+      "title": "\"2030년 로봇 시장 2600억 달러라는데\"… 韓 로봇, 아직은 '성장기'",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=750214",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/750214_725598_5933_v150.jpg"
     }
   ]
 };
