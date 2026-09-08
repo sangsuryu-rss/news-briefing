@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.09 (수) 01:40",
+  "updatedAt": "2026.09.09 (수) 06:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[데스크 칼럼] 속도 내는 중국, 절박하지 않은 한국",
-          "desc": "돌이켜보면 조선, 철강, 가전, LCD(액정표시장치), 배터리 등 많은 산업에서 비슷한 역사가 반복됐다. 한국의... 삼성전자가 2024년 양산한 제품이다. 격차는 3년밖에 나지 않는다. 中 반도체 굴기 대비해야 현재 성적표만이...",
-          "src": "한국경제",
+          "title": "李대통령, 한-프랑스 기업인들과 미래산업 협력 논의…“공동 R&D·투자...",
+          "desc": "AI 분야에서는 삼성전자와 프랑스 미스트랄AI 간 전략적 투자 협력이 구체화됐다. 또 네이버와 미스트랄AI가... LG전자는 고효율 가전과 히트펌프 등 친환경 기술을 비롯해 모빌리티와 AI 분야에서 협력을 확대할 수 있다는...",
+          "src": "이투데이",
           "date": "09/09",
-          "url": "https://n.news.naver.com/mnews/article/015/0005330259?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://www.etoday.co.kr/news/view/2623301",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260909060836_2385127_657_438.jpg"
         },
         {
-          "title": "9월 2주 주요 제조업 전망",
-          "desc": "TV나 로봇청소기 등 일부 제품은 중국이 이미 한국을 넘어섰거나 시장을 선점한 상태임. 카운터포인트리서치에 따르면 올해 1분기 글로벌 TV 출하량은 중국 TCL·하이센스가 각각 14%와 13%를, 삼성전자와 LG전자가...",
-          "src": "laborplus",
-          "date": "09/08",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41432",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202609/41432_73815_4618.jpg"
+          "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
+          "desc": "뉴엔AI에 따르면 삼성전자 로봇청소기 관련 정보량은 지난해 1분기 1만3160건에서 올해 1만9625건으로 늘어 로보락(1만3182건)을 웃돌았다. 긍정적 언급 비중은 15.6%포인트 상승한 73.6%를 차지했다. LG전자 정보량도...",
+          "src": "한국경제",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/015/0005330270?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/01.45606646.1.jpg"
         },
         {
           "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'한-프 공동언론발표'…국방·안보, 경제·산업 등 6대 주요 협력분야 방...",
-          "desc": "양자컴퓨팅을 활용한 신약 등 미래세대의 삶을 풍요롭게 만들 차세대 기술 개발 공동연구를 촉진하고, 우리... 공정경쟁 조항을 도입해서 양국의 소비자 권익을 강화하고, 편명 공유를 통해 양 지역 간 노선을 확대하는...",
-          "src": "joseilbo",
+          "title": "SOOP, 광고·콘텐츠 매출 5년 새 4.5배 폭증…AI·커머스로 성장 페달",
+          "desc": "SOOP는 향후 AI 신기술을 접목하고 커머스 사업을 키워 광고·콘텐츠 매출 성장세를 이어나갈 방침이다. 9일... SOOP는 2021년 광고 관리 플랫폼  'AAM'을 도입했다. AAM은 광고주가 특정 스트리머와 콘텐츠 카테고리를 직접...",
+          "src": "소비자가만드는신문",
           "date": "09/09",
-          "url": "https://n.news.naver.com/mnews/article/123/0002389828?sid=100",
-          "img": "https://www.joseilbo.com/gisa_img/17888849871788884987_yjj2001.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763382",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763382_317772_201_v150.jpg"
         },
         {
-          "title": "삼성전자, 미스트랄 AI에 지분 투자...'반도체 특화 AI' 만든다",
-          "desc": "삼성전자는 관련 데이터를 외부로 이전하지 않고 내부 인프라에서 활용해 AI 도입과 기술 보안을 함께 강화한다는 방침이다.미스트랄 AI는 구글 딥마인드와 메타 출신 연구진이 2023년 설립한 회사다. 금융·제조...",
-          "src": "news",
+          "title": "의료AI 17개사 상반기 매출 17% 늘어…적자도 대폭 개선",
+          "desc": "병원 도입·해외 판매 확대…상용화 성과 차이 올해 상반기 매출이 증가한 기업 중에서는 병원 도입... 신의료기술평가와 건강보험 등재를 추진할 계획이다. 의료AI 활용 범위도 영상 진단을 넘어 의료진의 진료...",
+          "src": "medipana",
           "date": "09/09",
-          "url": "https://news.mtn.co.kr/news-detail/2026090820440964557",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/09/08/2026090820440964557_00_244.jpg"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
+          "img": "https://cdn.medipana.com/news/photo/202609/417281_324102_4643.jpg"
         },
         {
-          "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결…반도체 설계·제조 특화...",
-          "desc": "외부 범용 AI를 단순 도입하는 방식에서 벗어나 삼성의 반도체 데이터를 내부에서 학습·활용하는 전용 모델을 만들고 생산 현장까지 적용한다. 미스트랄AI에 지분 투자도 단행해 기술 협력을 장기 사업 관계로...",
-          "src": "아주경제",
+          "title": "[2026 소통대상 인터뷰] 박용승 KABC 소통대상위원장 “AI 시대 새 평가...",
+          "desc": "이해관계자가 기술의 도입과 설계, 활용 및 개선 과정에 참여하는 공동설계(co-design)가 중요해집니다. 이 과정에서 AI는 각 이해관계자의 다양한 목소리와 경험을 더 잘 파악하고 연결하며, 복잡한 정보와 관점을...",
+          "src": "news2day",
           "date": "09/09",
-          "url": "https://www.ajunews.com/view/20260908201812738",
-          "img": "https://image.ajunews.com/content/image/2026/09/08/20260908202217892140.jpg"
+          "url": "https://www.news2day.co.kr/article/20260908500112",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/08/.cache/512/20260908500135.png"
         },
         {
-          "title": "삼성전자, 미스트랄 AI와 맞손…반도체 설계·제조에 자체 AI 심는다",
-          "desc": "완성된 모델은 데이터 분석과 결함 예측, 공정 최적화 등 반도체 설계·제조 업무에 순차적으로 도입한다.... 향후 고객사와 파트너사까지 연결하는 AI 기반 반도체 생태계를 조성하고, 양사의 기술을 활용한 새로운 AI...",
-          "src": "서울신문",
+          "title": "[창간기획]7년 걸릴 인허가 단 2년 만에…도쿄 천지개벽 이끈 비결은",
+          "desc": "길게는 7년 넘게 걸리는 도심 재정비 사업 인허가 절차도 국가전략특구를 활용, 1~2년 정도로 단축시켰다.... 자율주행, 드론 배송, AI 기반 스마트시티 기술의 실증 실험 추진 등 규제 완화가 이뤄졌다) - 도쿄 도심 재개발...",
+          "src": "조선일보",
           "date": "09/09",
-          "url": "http://www.metroseoul.co.kr/article/20260909500001",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/09/.cache/512/20260909500002.jpg"
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/08/2026090802584.html",
+          "img": "https://image.chosun.com/sitedata/image/202609/08/2026090802577_0.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성전자, 日 요코하마에 첨단 패키징 연구소",
+          "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화합니다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장과 일본 정부와 지자체, 협력사 관계자 등 100여명이 참석했습니다.",
+          "src": "biz",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/374/0000531870?sid=104",
+          "img": "https://img.sbs.co.kr/sbscnbc/upload/2020/12/23/10000673440_700.jpg"
+        },
         {
           "title": "삼성전자, 요코하마에 첨단 반도체 패키징 연구소",
           "desc": "강화 삼성전자가 일본 요코하마에 첨단 반도체 패키징 연구·개발(R&D) 거점을 구축하고 현지 소재·부품... 이날 행사에는 삼성전자와 일본 정부·지자체, 현지 협력사 관계자 등 100여 명이 참석했다. 삼성전자는...",
@@ -122,15 +130,7 @@ window.NEWS_DATA = {
           "src": "biz",
           "date": "09/08",
           "url": "https://n.news.naver.com/mnews/article/374/0000531855?sid=101",
-          "img": "https:"
-        },
-        {
-          "title": "삼성전자, 요코하마에 첨단 패키징 연구소…3500억 투자",
-          "desc": "지자체, 협력사 관계자 등 100여 명이 참석했다. 삼성전자는 지난 2024년부터 5년간 400억 엔(약 3,500억 원)을... 특히 현지 소재·부품·장비(소부장) 기업과 연구시설 등과도 협력을 강화할 계획이다. 요코하마는...",
-          "src": "wowtv",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/215/0001265319?sid=101",
-          "img": ""
+          "img": "https://img.biz.sbs.co.kr/upload/2026/07/31/Wby1785459920489-850.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[데스크 칼럼] 속도 내는 중국, 절박하지 않은 한국",
-      "url": "https://n.news.naver.com/mnews/article/015/0005330259?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "李대통령, 한-프랑스 기업인들과 미래산업 협력 논의…“공동 R&D·투자...",
+      "url": "https://www.etoday.co.kr/news/view/2623301",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260909060836_2385127_657_438.jpg"
     },
     {
-      "title": "9월 2주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41432",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202609/41432_73815_4618.jpg"
+      "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330270?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/01.45606646.1.jpg"
     },
     {
       "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
     },
     {
-      "title": "'한-프 공동언론발표'…국방·안보, 경제·산업 등 6대 주요 협력분야 방...",
-      "url": "https://n.news.naver.com/mnews/article/123/0002389828?sid=100",
-      "img": "https://www.joseilbo.com/gisa_img/17888849871788884987_yjj2001.jpg"
+      "title": "SOOP, 광고·콘텐츠 매출 5년 새 4.5배 폭증…AI·커머스로 성장 페달",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763382",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763382_317772_201_v150.jpg"
     },
     {
-      "title": "삼성전자, 미스트랄 AI에 지분 투자...'반도체 특화 AI' 만든다",
-      "url": "https://news.mtn.co.kr/news-detail/2026090820440964557",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/09/08/2026090820440964557_00_244.jpg"
+      "title": "의료AI 17개사 상반기 매출 17% 늘어…적자도 대폭 개선",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
+      "img": "https://cdn.medipana.com/news/photo/202609/417281_324102_4643.jpg"
     }
   ]
 };
