@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.08 (화) 20:23",
+  "updatedAt": "2026.09.09 (수) 01:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[IFA 2026 결산] '가전 그 이상'이 됐다…AI 집사·로봇·中 공세 한꺼번...",
-          "desc": "삼성전자는 가전과 TV·모바일·웨어러블을 묶은 'AI 리빙'을 내세웠다. LG전자는 AI 홈 허브 '씽큐 온'과 실행형 AI 에이전트 '씽큐 클로'를 통해 사용자의 상황을 파악한 뒤 필요한 기능을 먼저 제안·실행하는 모습을...",
-          "src": "아주경제",
+          "title": "[데스크 칼럼] 속도 내는 중국, 절박하지 않은 한국",
+          "desc": "돌이켜보면 조선, 철강, 가전, LCD(액정표시장치), 배터리 등 많은 산업에서 비슷한 역사가 반복됐다. 한국의... 삼성전자가 2024년 양산한 제품이다. 격차는 3년밖에 나지 않는다. 中 반도체 굴기 대비해야 현재 성적표만이...",
+          "src": "한국경제",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/015/0005330259?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
+          "title": "9월 2주 주요 제조업 전망",
+          "desc": "TV나 로봇청소기 등 일부 제품은 중국이 이미 한국을 넘어섰거나 시장을 선점한 상태임. 카운터포인트리서치에 따르면 올해 1분기 글로벌 TV 출하량은 중국 TCL·하이센스가 각각 14%와 13%를, 삼성전자와 LG전자가...",
+          "src": "laborplus",
           "date": "09/08",
-          "url": "https://www.ajunews.com/view/20260908150808935",
-          "img": ""
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41432",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202609/41432_73815_4618.jpg"
         },
         {
           "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "09/08",
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
           "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
-        },
-        {
-          "title": "\"24시간 함께하는 개인비서 … AI 안경 확산으로 1인 기업 크게 늘 것\"",
-          "desc": "삼성전자는 스마트싱스의 '패밀리 케어'를 통해 혼자 사는 부모의 생활 패턴에 이상이 생기면 자녀에게 알려주는 서비스를 제공하고 있다. TV나 냉장고 등 사용 패턴을 토대로 평소와 다른 상황을 감지하는 방식으로...",
-          "src": "매일경제",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/009/0005732303?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01160104000002_L00.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한전KDN, AI 데이터센터 보안 확보 위해 '앞장'…N2SF 보안정책 전파",
-          "desc": "(AIBOM, AI Bill of Materials)기반 AIDC 공급망 보안 ▲공공기관 N2SF(National Network Security Framework) 도입 및 AIDC... 보안기술의 확보와 현장 적용 방향을 제시했다. 둘째 날에는 AI를 활용한 사이버 위협 탐지·분석 및 보안...",
-          "src": "e-platform",
-          "date": "09/08",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=105181",
-          "img": "https://cdn.e-platform.net/news/thumbnail/202609/105181_77362_1722_v150.jpg"
+          "title": "'한-프 공동언론발표'…국방·안보, 경제·산업 등 6대 주요 협력분야 방...",
+          "desc": "양자컴퓨팅을 활용한 신약 등 미래세대의 삶을 풍요롭게 만들 차세대 기술 개발 공동연구를 촉진하고, 우리... 공정경쟁 조항을 도입해서 양국의 소비자 권익을 강화하고, 편명 공유를 통해 양 지역 간 노선을 확대하는...",
+          "src": "joseilbo",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/123/0002389828?sid=100",
+          "img": "https://www.joseilbo.com/gisa_img/17888849871788884987_yjj2001.jpg"
         },
         {
-          "title": "\"인텔도 ASML과\"…인텔 파운드리, 하이NA EUV로 웨이퍼 100만장 처리",
-          "desc": "같은 날 삼성전자가 2028년 D램 도입 계획을 내놓은 것과 비교하면, 두 회사가 같은 기술을 놓고 정반대... 솔루션을 활용하는 방식이다. 하이 NA EUV는 한 번에 새길 수 있는 면적이 기존 EUV의 절반으로 줄어들어 회로를...",
-          "src": "econovill",
-          "date": "09/08",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=750218",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/750218_725604_126_v150.jpg"
+          "title": "삼성전자, 미스트랄 AI에 지분 투자...'반도체 특화 AI' 만든다",
+          "desc": "삼성전자는 관련 데이터를 외부로 이전하지 않고 내부 인프라에서 활용해 AI 도입과 기술 보안을 함께 강화한다는 방침이다.미스트랄 AI는 구글 딥마인드와 메타 출신 연구진이 2023년 설립한 회사다. 금융·제조...",
+          "src": "news",
+          "date": "09/09",
+          "url": "https://news.mtn.co.kr/news-detail/2026090820440964557",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/09/08/2026090820440964557_00_244.jpg"
         },
         {
-          "title": "\"2030년 로봇 시장 2600억 달러라는데\"… 韓 로봇, 아직은 '성장기'",
-          "desc": "FCC는 첨단 로봇이 촬영 영상과 위치정보, 센서 데이터를 수집해 외국 정보기관에 활용되거나 해킹으로 원격 조종될 수 있다는 점을 규제 배경으로 들었다. 중국도 신창 프로젝트를 강화하고 있다. 신창은 '정보기술...",
-          "src": "econovill",
-          "date": "09/08",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=750214",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/750214_725598_5933_v150.jpg"
+          "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결…반도체 설계·제조 특화...",
+          "desc": "외부 범용 AI를 단순 도입하는 방식에서 벗어나 삼성의 반도체 데이터를 내부에서 학습·활용하는 전용 모델을 만들고 생산 현장까지 적용한다. 미스트랄AI에 지분 투자도 단행해 기술 협력을 장기 사업 관계로...",
+          "src": "아주경제",
+          "date": "09/09",
+          "url": "https://www.ajunews.com/view/20260908201812738",
+          "img": "https://image.ajunews.com/content/image/2026/09/08/20260908202217892140.jpg"
         },
         {
-          "title": "[논설위원의 단도직입]“청년고용 부진 고착화…‘경력 사다리’ 끊기지...",
-          "desc": "정책 도입에 기여했다. 국회 사회적대화 보호의제 협의체 위원장, 고용노동부 노동법·제도 전문가회의... 비록 기간제 일자리에 그친다 해도 청년이 경력을 쌓는 디딤돌이 되는 데다 대기업에 비해 AI 활용 능력이...",
-          "src": "khan",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469203?sid=110",
-          "img": "https://img.khan.co.kr/news/2026/09/08/l_2026090901000281100025202.jpg"
+          "title": "삼성전자, 미스트랄 AI와 맞손…반도체 설계·제조에 자체 AI 심는다",
+          "desc": "완성된 모델은 데이터 분석과 결함 예측, 공정 최적화 등 반도체 설계·제조 업무에 순차적으로 도입한다.... 향후 고객사와 파트너사까지 연결하는 AI 기반 반도체 생태계를 조성하고, 양사의 기술을 활용한 새로운 AI...",
+          "src": "서울신문",
+          "date": "09/09",
+          "url": "http://www.metroseoul.co.kr/article/20260909500001",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/09/.cache/512/20260909500002.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자, 요코하마에 첨단패키징 연구소 개소…3500억원 투자",
-          "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과의 협력도 강화한다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장을 비롯해 일본 정부 및 지자체, 협력사 관계자 등 100명이 참석했다....",
-          "src": "아주경제",
+          "title": "삼성전자, 요코하마에 첨단 반도체 패키징 연구소",
+          "desc": "강화 삼성전자가 일본 요코하마에 첨단 반도체 패키징 연구·개발(R&D) 거점을 구축하고 현지 소재·부품... 이날 행사에는 삼성전자와 일본 정부·지자체, 현지 협력사 관계자 등 100여 명이 참석했다. 삼성전자는...",
+          "src": "조선일보",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997345?sid=105",
+          "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2372"
+        },
+        {
+          "title": "삼성전자, 日 요코하마에 첨단 패키징 R&D 거점",
+          "desc": "삼성전자가 일본 요코하마에 첨단 반도체 패키징 연구·개발(R&D) 거점을 마련했다. 반도체 소재·부품... 행사에는 삼성전자와 일본 정부·지자체, 현지 협력사 관계자 등 100여명이 참석했다. 삼성전자는 지난...",
+          "src": "아이뉴스24",
           "date": "09/08",
-          "url": "https://www.ajunews.com/view/20260908200907717",
+          "url": "https://n.news.naver.com/mnews/article/031/0001056630?sid=105",
+          "img": "https://image.inews24.com/v1/53df795016fb79.jpg"
+        },
+        {
+          "title": "삼성전자, 요코하마에 첨단 패키징 연구소 개소",
+          "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화합니다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장과 일본 정부와 지자체, 협력사 관계자 등 100여명이 참석했습니다.",
+          "src": "biz",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/374/0000531855?sid=101",
+          "img": "https:"
+        },
+        {
+          "title": "삼성전자, 요코하마에 첨단 패키징 연구소…3500억 투자",
+          "desc": "지자체, 협력사 관계자 등 100여 명이 참석했다. 삼성전자는 지난 2024년부터 5년간 400억 엔(약 3,500억 원)을... 특히 현지 소재·부품·장비(소부장) 기업과 연구시설 등과도 협력을 강화할 계획이다. 요코하마는...",
+          "src": "wowtv",
+          "date": "09/08",
+          "url": "https://n.news.naver.com/mnews/article/215/0001265319?sid=101",
           "img": ""
-        },
-        {
-          "title": "\"내년까지 100명 인력 확보\"…삼성전자가 3500억 들여 공들인다는 '이것...",
-          "desc": "지자체, 협력사 관계자 등 100여명이 참석했다. 삼성전자는 이 연구소에 2024년부터 5년간 400억엔(약 3500억원)... 연구개발(R&D) 거점으로 삼고, 현지 소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화할 방침이다.",
-          "src": "view",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/277/0005813635?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026070710070036675_1783386420.jpg"
-        },
-        {
-          "title": "삼성전자, 日 요코하마에 첨단 패키징 연구소⋯5년간 3500억 투입",
-          "desc": "소재·부품·장비(소부장) 기업 및 연구기관과의 협력도 강화한다. 연구소가 들어선 요코하마는 도쿄대... 이날 개소식에는 전영현 삼성전자 DS부문장(부회장)을 비롯해 일본 정부 및 지자체, 주요 협력사 관계자 등...",
-          "src": "이투데이",
-          "date": "09/08",
-          "url": "https://www.etoday.co.kr/news/view/2623272",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260908194044_2385089_1000_1443.jpg"
-        },
-        {
-          "title": "삼성전자, 日 첨단 패키징 R&D 거점에 3500억 규모 투자",
-          "desc": "행사에는 전영현 삼성전자 디바이스솔루션(DS)부문 부회장을 비롯해 일본 정부와 지방자치단체, 협력사... 일본을 연구 거점으로 선택한 배경으로는 현지의 탄탄한 반도체 소재·부품·장비(소부장) 생태계가 꼽힌다....",
-          "src": "m-i",
-          "date": "09/08",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1411545",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1411545_1199850_3419_v150.jpg"
         }
       ]
     },
@@ -177,6 +177,16 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[데스크 칼럼] 속도 내는 중국, 절박하지 않은 한국",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330259?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+    },
+    {
+      "title": "9월 2주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41432",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202609/41432_73815_4618.jpg"
+    },
+    {
       "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
       "url": "https://n.news.naver.com/mnews/article/009/0005732148?sid=101",
       "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110207000002_L00.jpg"
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
     },
     {
-      "title": "\"24시간 함께하는 개인비서 … AI 안경 확산으로 1인 기업 크게 늘 것\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732303?sid=105",
-      "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01160104000002_L00.jpg"
+      "title": "'한-프 공동언론발표'…국방·안보, 경제·산업 등 6대 주요 협력분야 방...",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389828?sid=100",
+      "img": "https://www.joseilbo.com/gisa_img/17888849871788884987_yjj2001.jpg"
     },
     {
-      "title": "한전KDN, AI 데이터센터 보안 확보 위해 '앞장'…N2SF 보안정책 전파",
-      "url": "http://www.e-platform.net/news/articleView.html?idxno=105181",
-      "img": "https://cdn.e-platform.net/news/thumbnail/202609/105181_77362_1722_v150.jpg"
-    },
-    {
-      "title": "\"인텔도 ASML과\"…인텔 파운드리, 하이NA EUV로 웨이퍼 100만장 처리",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=750218",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/750218_725604_126_v150.jpg"
-    },
-    {
-      "title": "\"2030년 로봇 시장 2600억 달러라는데\"… 韓 로봇, 아직은 '성장기'",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=750214",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/750214_725598_5933_v150.jpg"
+      "title": "삼성전자, 미스트랄 AI에 지분 투자...'반도체 특화 AI' 만든다",
+      "url": "https://news.mtn.co.kr/news-detail/2026090820440964557",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/09/08/2026090820440964557_00_244.jpg"
     }
   ]
 };
