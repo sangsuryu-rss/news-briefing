@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.08 (화) 07:51",
+  "updatedAt": "2026.09.08 (화) 13:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 휴머노이드 개발 진용 갖췄다…내년 CES 출격 [biz-플러스]",
-          "desc": "삼성전자는 이를 통해 내년 초 열릴 미국 ‘소비자가전쇼(CES) 2027’에서 공개하는 것을 목표로 휴머노이드 개발에 속도를 낼 방침이다. 8일 업계에 따르면 삼성전자는 최근 노태문 DX부문장 직속 로보틱스(RX)...",
-          "src": "서울경제",
+          "title": "삼성전자 인도법인, TV·가전 인력 감축…최대 100명 순차적 통보",
+          "desc": "삼성전자 인도법인이 TV와 생활가전 사업을 중심으로 인력 감축에 들어갔다. 메모리 반도체 가격 급등과 루피화 약세로 주력인 스마트폰 사업의 판매와 수익성이 악화하자 조직 효율화에 나선 것으로 풀이된다....",
+          "src": "kpinews",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/011/0004659532?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/08/news-p.v1.20260908.31c16bb7dade4fedad9fa92bcffa1066_R.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065586151063010",
+          "img": "https://kpinews.kr/data/upi/image/2026/09/08/p1065586151063010_196_thum.png"
         },
         {
-          "title": "[르포]아성 흔들리는 독일 가전…평범함에 숨겨진 '프리미엄'[영상]",
-          "desc": "상상 속에 머물던 인공지능(AI)과 로봇은 얼마나 우리 일상에 가까워졌을까. 한국을 대표하는 삼성전자와... 로봇들이 돌아다니지도 않았다. 전시된 제품들은 대부분 식기세척기, 냉장고, 세탁기, 인덕션, 청소기 등...",
-          "src": "nocutnews",
+          "title": "[재계는 지금] 한컴, 퓨리오사AI와 NPU 기반 AX 시장 공략 外",
+          "desc": "이를 통해 클라우드 의존도를 낮추고 로봇 내부에서 인식·판단·행동이 이뤄지도록 해 통신 지연과 전력 소모를 줄이고 보안성을 높인다는 목표다. ◆삼성전자, 세계 주요 도시서 폴더블 옥외광고 삼성전자가...",
+          "src": "dealsite",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/079/0004186809?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/07/202609071618183176_0.jpg"
+          "url": "https://dealsite.co.kr/articles/168616",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/08/ba1d1e816d6e488fa1eb90afed6a7159/thumb.jpg"
         },
         {
-          "title": "'C·P·R'로 본 IFA 2026…중국 물량 공세에 고효율·로봇 격전",
-          "desc": "최고 효율 제품뿐 아니라 기존 B등급에서 A등급으로 효율을 높인 건조기와 A등급 식기세척기 등 대중 소비시장(볼륨존) 제품에도 고효율 기술을 확대했다. 삼성전자 역시 에너지 관리 기능을 적용한 냉장고와 고효율...",
-          "src": "연합뉴스",
+          "title": "냉장고·세탁기에 식기세척기까지…개발자 영입 공들이는 코웨이, 왜?",
+          "desc": "업계에선 정수기 렌탈에서 시작한 사업을 침대(비렉스)와 비데, 에어컨에 이어 삼성전자와 LG전자 등... 장 상무가 몸담았던 LG전자 H&A 사업본부는 LG전자의 핵심 생활가전을 총괄하는 조직이다. 냉장고·세탁기·건조기...",
+          "src": "헤럴드경제",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/001/0016295802?sid=101",
-          "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907134600003_01_i_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002694270?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/08/news-p.v1.20260907.d230dad145f8415ca967e514d3b18416_T1.png"
         },
         {
-          "title": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나",
-          "desc": "반면 스마트폰·가전 등을 만드는 ‘완제품(DX·디바이스 익스피리언스)’ 부문에는 기존 성과급 외에 600만원 상당의 자사주를 지급하기로 했다. 그로부터 석 달이 지났다. 삼성전자 최대 노조로 이번 성과급 합의를 이끈...",
-          "src": "sisain",
+          "title": "AI 홈·로봇으로 확장된 IFA… 韓 '고효율' vs 中 '물량' 총력전",
+          "desc": "◆삼성·LG '연결성·공감지능' 앞세워 AI 홈 대중화 선언 중국의 거센 추격 속에서 국내 기업인 삼성전자와... 특히 유럽 에너지 효율 A등급 기준보다 전력 소모를 대폭 줄인 '비스포크 AI 세탁기'와 'AI 비전' 기술이...",
+          "src": "newscj",
           "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/308/0000038732?sid=102",
-          "img": "https://cdn.sisain.co.kr/news/photo/202608/58448_113634_3921.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3430923",
+          "img": "https://cdn.newscj.com/news/thumbnail/202609/3430923_3546304_1110_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "바이라인네트워크, ‘금융 테크 컨퍼런스 2026’ 22일 개최",
-          "desc": "금융 산업에 인공지능(AI) 도입이 빠르게 확대되는 가운데 AI 에이전트 등 새로운 기술의 활용과 이에 따른 보안 위협을 함께 살펴보고, 금융사의 기술 전략과 보안 대응 방향을 논의한다. 특히 에이전틱 AI를...",
-          "src": "byline",
+          "title": "AI 인프라·운영 자동화…에스넷시스템, 삼성SDS 행사 참가",
+          "desc": "CloudHub:AI는 반복적인 IT 운영 업무를 AI 에이전트가 수행하도록 지원하는 플랫폼이다. AI 도입 이후... 고객이 AI 활용에 집중할 수 있도록 한다는 설명이다. 삼성 클라우드 플랫폼(SCP)과 관련한 기술 역량도 소개했다....",
+          "src": "tokenpost",
           "date": "09/08",
-          "url": "https://byline.network/?p=9004111222618627",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/09077.jpg"
+          "url": "https://www.tokenpost.kr/news/ai/404132",
+          "img": "https://f1.tokenpost.kr/2026/09/xh49tk1ynt.jpg"
         },
         {
-          "title": "NIA, AI 3대 강국 실현 맞춤 조직개편…\"피지컬 AI 데이터 대응력 확대\"",
-          "desc": "아울러 인공지능정부본부 내에 'AI정부사업팀'을 신설해 공공부문의 선제적인 AI 서비스 도입과 관련... 피지컬 AI 분야의 핵심 자산인 고품질 데이터 확보와 활용을 촉진하기 위해 '데이터활용기술팀'에 피지컬 AI...",
-          "src": "cstimes",
+          "title": "양주시, AI 로봇으로 '밀폐공간 복합농도 측정 시범 시험' 실시",
+          "desc": "체계를 도입하는 방안을 살필 예정이다. 문은경 양주시 시민안전과장은 \"위험한 밀폐공간을 점검할 때 작업자의 안전을 확보하기 위한 대안으로 모빌리티 AI 기술의 활용 가능성을 확인한 계기\"라며 \"앞으로도 현장의 안전...",
+          "src": "뉴스핌",
           "date": "09/08",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=719723",
-          "img": "https://www.cstimes.com/news/photo/202609/719723_640463_1356.jpg"
+          "url": "https://www.newspim.com/news/view/20260908000669",
+          "img": "https://img.newspim.com/news/2026/09/08/2609081210393610_t1.jpg"
         },
         {
-          "title": "[스테이블코인 시대] \"이자 나눠줄게\"…140개사 끌어모은 OUSD의 '수익 반...",
-          "desc": "OUSD가 겨냥한 것은 기술 자체보다 유통망과 사용처다. 스테이블코인을 발행하는 것만으로는 이용자를... 도입할 계획이다. 향후 관련 법제화와 서비스 여건에 맞춰 국경 간 결제와 디지털자산 정산 등으로 활용 영역을...",
-          "src": "dealsite",
+          "title": "위존, KEIT 'M.AX 전문기업' 선정…제조 AI 전환 사업 확대",
+          "desc": "KEIT는 기술력과 전문성, 제조기업 대상 공급 실적, 시장 신뢰도, 기업 성장 가능성 등을 종합적으로 평가해 제조기업의 AI 도입과 활용을 지원하고 제조 AI 생태계를 활성화할 전문기업을 선정한다. 이번 평가에서...",
+          "src": "한국경제",
           "date": "09/08",
-          "url": "https://dealsite.co.kr/articles/168245",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/01/a0bc2e4dc76f4d7f9df99926a02282c0/thumb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005329968?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/0D.45604475.1.jpg"
         },
         {
-          "title": "독파모 시장성·GPU 전력·챗봇 안전…2026 국감 AI 관전포인트는",
-          "desc": "탈락팀에 투입된 자원과 개발 모델을 어떻게 활용할지도 쟁점이다. 기술 성능뿐 아니라 이용률과 매출, 공공·민간 도입 실적 등 시장 성과를 평가에 반영해야 한다는 요구도 나올 수 있다. 한 AI 업계 관계자는...",
-          "src": "digitaltoday",
+          "title": "[AI 전환의 다음 승부처] 한컴, '문서 SW' 넘어 NPU 기반 AX 인프라까지...",
+          "desc": "AI 전환(AX) 시장을 겨냥한다. 에이전틱 OS와 NPU를 결합한 어플라이언스를 통해 기업과 공공기관의 AI 도입... 이를 활용할 개발자와 운영 인력, AI 모델 최적화 기술, 실제 업무에 적용할 수 있는 소프트웨어가 함께...",
+          "src": "dailypop",
           "date": "09/08",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698703",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/698703_646458_2738.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=102364",
+          "img": "http://www.dailypop.kr/news/thumbnail/202609/102364_169873_3718_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[분석] 중소기업은 버티고 중견기업은 못 큰다…한국 기업 생태계의 막...",
-          "desc": "반도체를 예로 들면 삼성전자나 SK하이닉스만 잘한다고 경쟁력이 완성되지 않는다. 소재와 부품, 장비를... 대기업의 협력사를 넘어 세계시장에서 독자적으로 경쟁할 수 있는지가 한국 제조업의 다음 경쟁력을 결정할...",
-          "src": "polinews",
-          "date": "09/07",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742429",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/742429_564770_73_v150.jpg"
+          "title": "[더벨]파인엠텍, 한·미 폴더블 매출 본격화 '와이드 이펙트'",
+          "desc": "예년보다 라인업이 늘어나면서 핵심 부품을 담당하는 협력사들도 쾌재를 부르고 있다. 올해는 '와이드형' 등장으로 고객들의 관심을 끌고 있다. 삼성전자 신제품의 인기는 현재진행형이다. 이번 주 공개될 북미 기업의...",
+          "src": "더벨",
+          "date": "09/08",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609080749016700101977",
+          "img": ""
         },
         {
-          "title": "AMD, 한국 피지컬 AI 시장 정조준…반도체 장비·차량·로봇 영토 확장",
-          "desc": "◇ 반도체 장비의 AI 자동화 지원 삼성전자, SK하이닉스 등 한국 반도체 제조 업계는 AI 알고리즘으로 공정... 외부 협력사들이 만든 기판(보드)과 모듈을 검증한다. 로봇 제조사들은 호환성이 입증된 부품과 모듈을...",
-          "src": "thelec",
-          "date": "09/07",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=61882",
-          "img": "https://cdn.thelec.kr/news/photo/202609/61882_48863_1021.jpg"
+          "title": "엔비디아 주도 Open RAN 확산…기가레인, 초고주파 RF 기술력 '주목'",
+          "desc": "삼성전자 협력사 이력이 다시 부각되면서 투자자들의 관심이 집중되는 모습이다. 기가레인도 13.99% 오른 8880원에 거래 중이다. 엔비디아를 중심으로 Open RAN 생태계가 확대될 것이라는 기대 속에서 고성능 RF 통신부품...",
+          "src": "핀포인트뉴스",
+          "date": "09/08",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484863",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/484863_471208_1526_v150.jpg"
         },
         {
-          "title": "삼전닉스, HBM만 날았다… 국내 반도체 소부장의 'K자형 잔혹사'",
-          "desc": "소재·부품·장비(소부장) 기업 사이의 실적 격차는 한층 더 벌어졌다. 삼성전자와 SK하이닉스는... 프리미엄 부품 원가, 그리고 물류비는 크게 상승했다. 하지만 하청 구조에 놓여 있는 협력사가 이를 납품가격에 즉시...",
-          "src": "greenpostkorea",
-          "date": "09/07",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307415",
-          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202609/307415_311047_1816.jpg"
+          "title": "삼성전자 휴머노이드 개발 착수 CES 2027 공개 목표",
+          "desc": "대구의 한 로봇 감속기 협력사에서 기술 개발을 총괄하는 최모 씨(49)는 \"그동안 정밀 감속기나 엔코더 같은 핵심 구동 부품은 해외 수입 의존도가 높아 납기와 단가 조절에 큰 제약이 따랐다\"며 \"국내 대표 전자 기업이...",
+          "src": "고코리아",
+          "date": "09/08",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=877516",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/877516_154702_3530_v150.jpg"
         },
         {
-          "title": "[S-이슈] 최태원, SK하이닉스 日공장 신설 추진 의도는?…'보조금·소부...",
-          "desc": "키옥시아와 협력사의 첨단 낸드 투자에는 앞선 계획에서 최대 약 929억엔, 후속 욧카이치·기타카미... SK하이닉스는 HBM을 중심으로 AI 메모리 시장에서 경쟁력을 확대하고 있지만 낸드에서는 삼성전자와 키옥시아...",
-          "src": "s-journal",
-          "date": "09/07",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43549",
-          "img": "https://cdn.s-journal.co.kr/news/photo/202609/43549_54708_521.png"
+          "title": "대우건설, 평택 반도체 산업 확대에 배후 주거지 브레인시티 부상",
+          "desc": "컨슈머타임스=정용규 기자 | 삼성전자 평택캠퍼스 생산시설 확대 움직임이 가시화되면서 인근 배후... 생산시설이 커지면 반도체 소재·부품·장비 업체와 협력사의 활동 범위도 함께 넓어진다. 반도체 기업과 협력사...",
+          "src": "cstimes",
+          "date": "09/08",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=719772",
+          "img": "https://www.cstimes.com/news/photo/202609/719772_640519_5254.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 휴머노이드 개발 진용 갖췄다…내년 CES 출격 [biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659532?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/08/news-p.v1.20260908.31c16bb7dade4fedad9fa92bcffa1066_R.jpg"
+      "title": "삼성전자 인도법인, TV·가전 인력 감축…최대 100명 순차적 통보",
+      "url": "https://www.kpinews.kr/newsView/1065586151063010",
+      "img": "https://kpinews.kr/data/upi/image/2026/09/08/p1065586151063010_196_thum.png"
     },
     {
-      "title": "[르포]아성 흔들리는 독일 가전…평범함에 숨겨진 '프리미엄'[영상]",
-      "url": "https://n.news.naver.com/mnews/article/079/0004186809?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/07/202609071618183176_0.jpg"
+      "title": "[재계는 지금] 한컴, 퓨리오사AI와 NPU 기반 AX 시장 공략 外",
+      "url": "https://dealsite.co.kr/articles/168616",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/08/ba1d1e816d6e488fa1eb90afed6a7159/thumb.jpg"
     },
     {
-      "title": "'C·P·R'로 본 IFA 2026…중국 물량 공세에 고효율·로봇 격전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016295802?sid=101",
-      "img": "https://img7.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907134600003_01_i_P4.jpg"
+      "title": "냉장고·세탁기에 식기세척기까지…개발자 영입 공들이는 코웨이, 왜?",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694270?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/08/news-p.v1.20260907.d230dad145f8415ca967e514d3b18416_T1.png"
     },
     {
-      "title": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나",
-      "url": "https://n.news.naver.com/mnews/article/308/0000038732?sid=102",
-      "img": "https://cdn.sisain.co.kr/news/photo/202608/58448_113634_3921.jpg"
+      "title": "AI 홈·로봇으로 확장된 IFA… 韓 '고효율' vs 中 '물량' 총력전",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3430923",
+      "img": "https://cdn.newscj.com/news/thumbnail/202609/3430923_3546304_1110_v150.jpg"
     },
     {
-      "title": "바이라인네트워크, ‘금융 테크 컨퍼런스 2026’ 22일 개최",
-      "url": "https://byline.network/?p=9004111222618627",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/09/09077.jpg"
+      "title": "AI 인프라·운영 자동화…에스넷시스템, 삼성SDS 행사 참가",
+      "url": "https://www.tokenpost.kr/news/ai/404132",
+      "img": "https://f1.tokenpost.kr/2026/09/xh49tk1ynt.jpg"
     },
     {
-      "title": "NIA, AI 3대 강국 실현 맞춤 조직개편…\"피지컬 AI 데이터 대응력 확대\"",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=719723",
-      "img": "https://www.cstimes.com/news/photo/202609/719723_640463_1356.jpg"
+      "title": "양주시, AI 로봇으로 '밀폐공간 복합농도 측정 시범 시험' 실시",
+      "url": "https://www.newspim.com/news/view/20260908000669",
+      "img": "https://img.newspim.com/news/2026/09/08/2609081210393610_t1.jpg"
     }
   ]
 };
