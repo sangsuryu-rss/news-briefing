@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.09 (수) 06:11",
+  "updatedAt": "2026.09.09 (수) 09:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "李대통령, 한-프랑스 기업인들과 미래산업 협력 논의…“공동 R&D·투자...",
-          "desc": "AI 분야에서는 삼성전자와 프랑스 미스트랄AI 간 전략적 투자 협력이 구체화됐다. 또 네이버와 미스트랄AI가... LG전자는 고효율 가전과 히트펌프 등 친환경 기술을 비롯해 모빌리티와 AI 분야에서 협력을 확대할 수 있다는...",
-          "src": "이투데이",
+          "title": "쿠팡, 개인정보 유출에도 소비자 이탈 없었다… 7월 결제액 사상 첫 5조...",
+          "desc": "식품·생필품·가전·디지털 등 카테고리별 추천 상품과 함께 5만원 이하부터 20만원 이상까지 예산별 상품도 선보인다. 오는 23일까지는 삼성전자, LG전자, 애플, 다이슨, 나이키, 아디다스, 정관장, 아모레퍼시픽...",
+          "src": "브릿지경제",
           "date": "09/09",
-          "url": "https://www.etoday.co.kr/news/view/2623301",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260909060836_2385127_657_438.jpg"
+          "url": "https://www.viva100.com/article/20260909500149",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/04/09/.cache/512/20260409500212.jpg?v=20260909091725"
         },
         {
-          "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
-          "desc": "뉴엔AI에 따르면 삼성전자 로봇청소기 관련 정보량은 지난해 1분기 1만3160건에서 올해 1만9625건으로 늘어 로보락(1만3182건)을 웃돌았다. 긍정적 언급 비중은 15.6%포인트 상승한 73.6%를 차지했다. LG전자 정보량도...",
-          "src": "한국경제",
+          "title": "[IFA 2026 클로징] 복싱하는 휴머노이드…잠수 로봇청소기까지",
+          "desc": "IFA 2026 유니트리 부스의 휴머노이드 대결(왼쪽)과 드리미의 계단 등반 로봇청소기 사이버X. 베를린=박형준... 한국에서는 삼성전자와 LG전자를 포함해 79개 기업·단체가 이번 IFA에 참가했다. IFA 2026 LG전자 전시관. 베를린...",
+          "src": "kfenews",
           "date": "09/09",
-          "url": "https://n.news.naver.com/mnews/article/015/0005330270?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/01.45606646.1.jpg"
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664144",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664144_137668_2340_v150.jpg"
         },
         {
-          "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
-          "desc": "롯데하이마트가 가을 이사·혼수철을 맞아 삼성전자 가전을 중심으로 대규모 할인전에 나선다. TV... 세탁건조기(세탁기 25㎏, 건조기 20㎏)' 등 행사상품을 2개 품목 이상 구매하면 품목 수에 따라 최대...",
-          "src": "매일경제",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/009/0005732148?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110207000002_L00.jpg"
+          "title": "[가전 트렌드] 휴롬, 핸즈프리 착즙기 'H90' 출시…착즙부터 세척까지 자...",
+          "desc": "◇ 삼성전자, 세계 주요 도시서 '웰컴 투 폴더블' 옥외 광고 갤럭시 Z 폴드8 시리즈 옥외광고 서울 코엑스.... 세탁건조기 'Zeo X' 등 청소가전을 기부했다. 기부 제품은 매장과 카페, 작업 공간 등에 배치돼 직원들의...",
+          "src": "ibabynews",
+          "date": "09/09",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154363",
+          "img": "https://www.ibabynews.com/news/photo/202609/154363_121354_952.jpg"
         },
         {
-          "title": "'피지컬 AI'로 물든 IFA 2026…中 물량공세 속 휴머노이드는 '반쪽'",
-          "desc": "삼성전자는 에너지 관리 기능을 적용한 냉장고와 고효율 인버터 모터를 탑재한 세탁기 등을 선보였다. 또 연결된 가전을 통해 전력 사용량을 확인하고 제어하는 에너지 관리 경험을 제공했다. LG전자는 에너지 리더십...",
-          "src": "뉴스웍스",
-          "date": "09/08",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
+          "title": "냉장고 한 대에서 AI 허브까지…'비스포크'의 7년 궤적 [옛날신문보기]",
+          "desc": "-2022년 8월 22일 <한국경제> 삼성전자, 잇따른 세탁기 유리문 파손사고에 '무상수리' 실시 다만 흥행과 함께 논란도 뒤따랐다. 2022년 '비스포크 그랑데 AI' 세탁기에서 유리문이 깨지는 사고가 연이어 발생한 것이다....",
+          "src": "sisaon",
+          "date": "09/09",
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204205",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202609/204205_306254_1646.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "SOOP, 광고·콘텐츠 매출 5년 새 4.5배 폭증…AI·커머스로 성장 페달",
-          "desc": "SOOP는 향후 AI 신기술을 접목하고 커머스 사업을 키워 광고·콘텐츠 매출 성장세를 이어나갈 방침이다. 9일... SOOP는 2021년 광고 관리 플랫폼  'AAM'을 도입했다. AAM은 광고주가 특정 스트리머와 콘텐츠 카테고리를 직접...",
-          "src": "소비자가만드는신문",
+          "title": "락플레이스, '리얼 서밋 2026'서 AX 통합 전략 선봬",
+          "desc": "기업의 AI 활용이 기술검증(PoC)을 넘어 실제 업무와 서비스 운영으로 확대되면서 AI 모델 도입뿐 아니라 기존 시스템과 데이터, 개발·운영 환경을 함께 고려해야 할 필요성이 커지고 있다. 특히 온프레미스와 퍼블릭...",
+          "src": "datanet",
           "date": "09/09",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763382",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763382_317772_201_v150.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214343",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202609/214343_138599_642_v150.jpg"
         },
         {
-          "title": "의료AI 17개사 상반기 매출 17% 늘어…적자도 대폭 개선",
-          "desc": "병원 도입·해외 판매 확대…상용화 성과 차이 올해 상반기 매출이 증가한 기업 중에서는 병원 도입... 신의료기술평가와 건강보험 등재를 추진할 계획이다. 의료AI 활용 범위도 영상 진단을 넘어 의료진의 진료...",
-          "src": "medipana",
+          "title": "2030년 AI 도시 현실로…정부, 'K-AI 시티' 전국 확산 시동",
+          "desc": "일상 공간인 건축물을 피지컬AI 플랫폼으로 활용하는 '스마트+빌딩'도 확산한다. 로봇과 자율주행차 등 AI 기술을 수용할 수 있는 지능형 시설물 도입을 위한 가이드라인도 마련할 예정이다. # 원주·천안아산·새만금...",
+          "src": "newsian",
           "date": "09/09",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
-          "img": "https://cdn.medipana.com/news/photo/202609/417281_324102_4643.jpg"
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95031",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95031_89027_1119_v150.jpg"
         },
         {
-          "title": "[2026 소통대상 인터뷰] 박용승 KABC 소통대상위원장 “AI 시대 새 평가...",
-          "desc": "이해관계자가 기술의 도입과 설계, 활용 및 개선 과정에 참여하는 공동설계(co-design)가 중요해집니다. 이 과정에서 AI는 각 이해관계자의 다양한 목소리와 경험을 더 잘 파악하고 연결하며, 복잡한 정보와 관점을...",
-          "src": "news2day",
+          "title": "캠코, 제주국제자유도시개발센터와 손잡고 감사 품질 높인다",
+          "desc": "한편 캠코는 기술보증기금, 한국수력원자력 등 다양한 공공기관과 감사 협약을 맺고 인력 및 정보 교류를 지속적으로 확대하고 있으며 내년에는 상반기 오픈 예정인 '캠코 AI 감사 시스템'을 적극 활용하여 감사 품질을...",
+          "src": "daily",
           "date": "09/09",
-          "url": "https://www.news2day.co.kr/article/20260908500112",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/08/.cache/512/20260908500135.png"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1404118",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1404118_1583784_1053_v150.jpg"
         },
         {
-          "title": "[창간기획]7년 걸릴 인허가 단 2년 만에…도쿄 천지개벽 이끈 비결은",
-          "desc": "길게는 7년 넘게 걸리는 도심 재정비 사업 인허가 절차도 국가전략특구를 활용, 1~2년 정도로 단축시켰다.... 자율주행, 드론 배송, AI 기반 스마트시티 기술의 실증 실험 추진 등 규제 완화가 이뤄졌다) - 도쿄 도심 재개발...",
-          "src": "조선일보",
+          "title": "KT, 현업 아이디어 122건 AI로 바꾼다…‘AX Design Clinic’ 가동",
+          "desc": "KT가 AI 도입의 초점을 기술 자체에서 ‘업무 변화’로 옮기고 있는 이유다. 사진은 KT 직원들이 ‘AX Design... 선정, AI 에이전트와 자동화 솔루션 구축·검증까지 지원한다. 기업들의 AI 활용이 확대되면서 현업에서는...",
+          "src": "이데일리",
           "date": "09/09",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/08/2026090802584.html",
-          "img": "https://image.chosun.com/sitedata/image/202609/08/2026090802577_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006366009?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090900416.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "日요코하마에 '반도체 첨단패키징 연구소' 연 삼성전자 \"3500억원 투자\"",
+          "desc": "삼성전자가 일본 요코하마에 반도체 첨단 패키징 연구개발(R&D) 연구소를 열고 현지 소부장(소재·부품... 정부·지자체, 협력사 100여명이 참석했다. 일본에는 삼성전자와 협력 중인 반도체 소부장 업체들이 대거...",
+          "src": "뉴시스",
+          "date": "09/09",
+          "url": "https://n.news.naver.com/mnews/article/003/0014178349?sid=101",
+          "img": "https://img1.newsis.com/2026/09/09/NISI20260909_0002233905_web.jpg"
+        },
+        {
+          "title": "삼성전자, 일본 요코하마에 '어드밴스드 패키지 랩' …AI 반도체 심장 노...",
+          "desc": "소재·부품·장비(소부장) 기업 및 연구기관과의 협력을 강화한다는 구상이다. 요코하마 일대에는... 이날 개소식에는 전영현 삼성전자 DS(디바이스솔루션)부문 부회장을 비롯해 일본 정부와 지방자치단체, 협력사...",
+          "src": "newsroad",
+          "date": "09/09",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63989",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202609/63989_86704_3635_v150.jpg"
+        },
         {
           "title": "삼성전자, 日 요코하마에 첨단 패키징 연구소",
           "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화합니다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장과 일본 정부와 지자체, 협력사 관계자 등 100여명이 참석했습니다.",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/09",
           "url": "https://n.news.naver.com/mnews/article/023/0003997345?sid=105",
           "img": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2372"
-        },
-        {
-          "title": "삼성전자, 日 요코하마에 첨단 패키징 R&D 거점",
-          "desc": "삼성전자가 일본 요코하마에 첨단 반도체 패키징 연구·개발(R&D) 거점을 마련했다. 반도체 소재·부품... 행사에는 삼성전자와 일본 정부·지자체, 현지 협력사 관계자 등 100여명이 참석했다. 삼성전자는 지난...",
-          "src": "아이뉴스24",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/031/0001056630?sid=105",
-          "img": "https://image.inews24.com/v1/53df795016fb79.jpg"
-        },
-        {
-          "title": "삼성전자, 요코하마에 첨단 패키징 연구소 개소",
-          "desc": "소재·부품·장비(소부장) 기업과 연구시설 등과 협력도 강화합니다. 요코하마는 도쿄대학교와... 이날 개소식에는 전영현 삼성전자 DS부문 부회장과 일본 정부와 지자체, 협력사 관계자 등 100여명이 참석했습니다.",
-          "src": "biz",
-          "date": "09/08",
-          "url": "https://n.news.naver.com/mnews/article/374/0000531855?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/07/31/Wby1785459920489-850.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "李대통령, 한-프랑스 기업인들과 미래산업 협력 논의…“공동 R&D·투자...",
-      "url": "https://www.etoday.co.kr/news/view/2623301",
-      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260909060836_2385127_657_438.jpg"
+      "title": "쿠팡, 개인정보 유출에도 소비자 이탈 없었다… 7월 결제액 사상 첫 5조...",
+      "url": "https://www.viva100.com/article/20260909500149",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/04/09/.cache/512/20260409500212.jpg?v=20260909091725"
     },
     {
-      "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
-      "url": "https://n.news.naver.com/mnews/article/015/0005330270?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/01.45606646.1.jpg"
+      "title": "[IFA 2026 클로징] 복싱하는 휴머노이드…잠수 로봇청소기까지",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664144",
+      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664144_137668_2340_v150.jpg"
     },
     {
-      "title": "롯데하이마트·삼성 '가을 페스티벌'… \"가전 한번에 사면 최대 540만원...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732148?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110207000002_L00.jpg"
+      "title": "[가전 트렌드] 휴롬, 핸즈프리 착즙기 'H90' 출시…착즙부터 세척까지 자...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154363",
+      "img": "https://www.ibabynews.com/news/photo/202609/154363_121354_952.jpg"
     },
     {
-      "title": "'피지컬 AI'로 물든 IFA 2026…中 물량공세 속 휴머노이드는 '반쪽'",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852919_815205_4112_v150.jpg"
+      "title": "냉장고 한 대에서 AI 허브까지…'비스포크'의 7년 궤적 [옛날신문보기]",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204205",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202609/204205_306254_1646.jpg"
     },
     {
-      "title": "SOOP, 광고·콘텐츠 매출 5년 새 4.5배 폭증…AI·커머스로 성장 페달",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763382",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763382_317772_201_v150.jpg"
+      "title": "락플레이스, '리얼 서밋 2026'서 AX 통합 전략 선봬",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214343",
+      "img": "https://cdn.datanet.co.kr/news/thumbnail/202609/214343_138599_642_v150.jpg"
     },
     {
-      "title": "의료AI 17개사 상반기 매출 17% 늘어…적자도 대폭 개선",
-      "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
-      "img": "https://cdn.medipana.com/news/photo/202609/417281_324102_4643.jpg"
+      "title": "2030년 AI 도시 현실로…정부, 'K-AI 시티' 전국 확산 시동",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95031",
+      "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95031_89027_1119_v150.jpg"
     }
   ]
 };
