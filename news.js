@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.09 (수) 16:24",
+  "updatedAt": "2026.09.09 (수) 21:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[건설플러스] SK에코플랜트, AI 데이터센터 혁신기술 발굴 外",
-          "desc": "이어 삼성전자가 17조원 규모 AI 데이터센터 투자 계획을 발표하는 등 본격적으로 개발에 속도가 붙고 있다.... Auto DR은 전력 수요가 급증할 때 스마트홈 시스템이 가전기기를 자동으로 제어해 전력 사용량을 줄이는...",
-          "src": "news",
+          "title": "삼성 초기업노조, 'DS 전용' 노조 전환 추진...DX 조합원 내보낸다",
+          "desc": "9일 업계에 따르면 삼성전자 초기업노조는 '2026년 5차 총회 공고'를 내고 가입 자격을 DS 부문 소속 근로자로 제한하는 규약 개정안을 표결에 부친다. 해당 개정안이 통과되면 스마트폰·가전 등을 담당하는 현재 DX 부문...",
+          "src": "asiaa",
           "date": "09/09",
-          "url": "https://news.dealsitetv.com/articles/175805",
-          "img": ""
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=261868",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202609/261868_283801_1910.png"
         },
         {
-          "title": "현대건설, '힐스테이트 고덕엘리스트' 9월 분양 예정",
-          "desc": "힐스테이트 고덕엘리스트가 들어서는 고덕국제신도시는 삼성전자의 세계 최대 규모 반도체 생산라인인... 게다가 캠핑용품, 자전거, 청소기 등 부피가 큰 물품들을 효율적으로 보관할 수 있도록 세대별 전용 창고도...",
-          "src": "financialpost",
+          "title": "로봇청소기 시장서 커지는 ‘보안’ 존재감",
+          "desc": "삼성전자는 올해 출시한 로봇청소기 ‘비스포크 AI 스팀’에 보안 솔루션 ‘녹스 매트릭스(Knox Matrix)’와 ‘녹스 볼트(Knox Vault)’를 적용했다. 녹스 매트릭스는 스마트싱스로 연결된 기기들이 서로 보안 상태를 확인하고...",
+          "src": "byline",
           "date": "09/09",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274775",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274775_359078_5616_v150.jpg"
+          "url": "https://byline.network/?p=9004111222619150",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/ROBOT1.jpg"
         },
         {
           "title": "“가전 팔고 끝?”…청소·수납·보증까지, ‘우리집 관리’ 전쟁",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
         },
         {
-          "title": "한-프랑스 기업인 만난 이 대통령 \"양국 강점 결합하면 새 시장 만들 수...",
-          "desc": "AI 분야에서는 삼성전자와 미스트랄 AI 간 전략적 투자협력 추진과 함께 네이버와 미스트랄 AI가 소버린 AI... LG전자는 고효율 가전과 히트펌프 등 친환경 기술을 비롯해 모빌리티와 AI 분야에서 프랑스와의 협력을 확대해...",
-          "src": "서울신문",
+          "title": "세탁망만 넣고 돌렸는데 탈수 멈춤…빨랫감 균형 확인",
+          "desc": "삼성전자서비스의 드럼세탁기 불균형 안내는 세탁망에 너무 많은 빨랫감을 넣으면 진동과 소음의 원인이 될 수 있다고 설명한다. 망의 약 3분의 2 정도만 채우고 단독 세탁을 피하도록 제시했다. 이 비율은 해당 제조사의...",
+          "src": "vegannews",
           "date": "09/09",
-          "url": "http://www.metroseoul.co.kr/article/20260909500419",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/09/.cache/512/20260909500420.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=386091",
+          "img": "https://www.vegannews.co.kr/data/photos/20260937/art_17889296101533_8acccc.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오디세우스 집 가는 길 3992만 가지...‘수학적 최적화’ 알았더라면 [테...",
-          "desc": "의사결정에서 활용하고 있다. 올리버 바스터트 구로비 최고기술책임자(CTO)는 “단순하게 엑셀을 사용해... 이 전문위원은 “현재 모든 산업의 화두가 AI 기술 확산에 따른 지능형 자동화 도입”이라며 “더 빠르고 정확한...",
-          "src": "서울경제",
+          "title": "한양대 ERICA '동물실험 대신 AI로 약 안전성 검증' 융합인재 키운다",
+          "desc": "첨단 기술(NAMs·새로운 접근방법론)을 도입하고 있다. 기존처럼 동물에게 약을 투여해 결과를 기다리기보다... 학생들은 AI를 활용해 동물실험을 대신할 안전성 평가 기술을 배우는 것은 물론, 안전성 검증 결과를 정부...",
+          "src": "파이낸셜뉴스",
           "date": "09/09",
-          "url": "https://n.news.naver.com/mnews/article/011/0004660177?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/014/0005573583?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/09/202609092147054671_e.jpg"
         },
         {
-          "title": "네이버클라우드, WSCE 2026서 공공 AI 협업 플랫폼 '네이버웍스' 공개......",
-          "desc": "회사는 최근에도 범정부 AI 공통기반과 공공 분야 AI 활용 확대를 주요 사업 영역으로 제시하고 있다. 네이버클라우드 관계자는 \"공공 영역에서도 AI를 단순한 기술 도입에 그치지 않고 실제 업무 생산성과 행정...",
-          "src": "kr",
+          "title": "한독, 수면제에 디지털 더한다…진단·치료·관리 잇는 '슬립 사이언스...",
+          "desc": "이후 환자 상태에 따라 약물 복용이나 웰트의 '슬립큐'를 활용한 인지행동치료를 병행한다. 치료 과정과... 강 대표는 카카오톡 기반 AI 상담 챗봇 시연 QR코드를 공개하며 순응도를 끌어올리기 위한 AI 기술 도입 계획도...",
+          "src": "newsway",
           "date": "09/09",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814234",
-          "img": ""
+          "url": "https://www.newsway.co.kr/news/view?ud=2026090917383082905",
+          "img": "https://nimage.newsway.co.kr/photo/2026/09/09/20260909001693_1200.jpg"
         },
         {
-          "title": "끊이지 않는 입환 작업 사고…국토부 '무선제어' 확대에 업계 \"3인 1조 병...",
-          "desc": "의왕역 등 주요 작업장에 무선제어 차량정리 시스템도입을 추가 확대하고, AI 영상분석 등 첨단기술을 활용해 작업자의 위험 노출을 최소화하는 한편, 작업자가 원칙적으로 기관차 외부에서 안전하게 작업할 수 있는...",
-          "src": "sports",
+          "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
+          "desc": "적극 활용한 상호 보완적 협력관계 형성 △제조업에서 벗어나 디지털·AI·바이오 등 첨단산업 분야 협력 체계 구축 △환경·기후·에너지 등 과학 기술 분야 학술·인재교류 협력 확대 △지방 도시 간 교류 협력 활성화를...",
+          "src": "gnmaeil",
           "date": "09/09",
-          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6939385",
-          "img": "https://cdn.sports.hankooki.com/news/thumbnail/202609/6939385_1214970_035_v150.jpg"
+          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=594563",
+          "img": "http://www.gnmaeil.com/news/thumbnail/202609/594563_596701_3050_v150.jpg"
         },
         {
-          "title": "\"갤럭시 워치로 지키는 가족 건강\"…삼성전자, 헬스 생태계 확장",
-          "desc": "지난 2014년 광학심박(PPG) 센서 도입 이후 헬스케어 기술을 계속 발전시킨 삼성전자는 2020년 혈압·심전도(ECG)... 축적된 데이터는 의료진 상담 시 참고 자료로도 활용된다. 최종민 삼성전자 MX사업부 디지털헬스팀 상무는...",
-          "src": "financialpost",
+          "title": "동대구벤처밸리에 '딥테크 창업허브'",
+          "desc": "활용형 AI 인프라와 창업기업 입주 공간, 성장 지원 기능을 한곳에 집적해 지역 딥테크 창업기업의 기술개... 성공적인 사업 추진을 위해 이달부터 기본·실시설계와 인허가, 장비 도입 심의, 공사업체 입찰 등을...",
+          "src": "idaegu",
           "date": "09/09",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274768",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274768_359083_811_v150.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559226",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202609/559226_254037_4114.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "중국 '반도체 노광장비 자립' 속도 내지만, 삼성전자·SK하이닉스 '하이...",
-          "desc": "이에 따라 삼성전자와 SK하이닉스는 협력사와 손잡고 부품, 소재 기술력을 끌어올리는 데 속도를 낼 것으로 보인다. 글로벌 반도체 연구기관 아이맥(imec)의 게르트 반덴베르헤 부사장은 지난 2월 '하이 NA EUV의...",
-          "src": "비즈니스포스트",
+          "title": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀...",
+          "desc": "나아가 글로벌 팹리스 고객사와 디자인하우스, 소재·부품·장비 협력사까지 포괄하는 개방형 산업 AI 생태계를 완성한다는 구상이다. 전영현 삼성전자 DS부문장은 반도체 설계와 초미세 공정의 복잡도가 유례없는...",
+          "src": "ttlnews",
           "date": "09/09",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446780",
-          "img": ""
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3141458",
+          "img": "https://cdn.ttlnews.com/news/photo/202609/3141458_756793_2310.jpg"
         },
         {
-          "title": "삼성전자, 日 요코하마에 첨단패키징 연구소…3500억 투자",
-          "desc": "개소식에는 전영현 삼성전자 디바이스솔루션(DS)부문 부회장을 비롯해 일본 정부와 지방자치단체 관계자, 협력사 관계자 등 100여명이 참석했다. 일본에는 삼성전자와 협력해 온 반도체 소재·부품·장비 업체들이 다수...",
-          "src": "mdtoday",
+          "title": "신한자산운용, 소부장 ETF 순자산 1조 돌파... 반도체 훈풍 낙수효과 본...",
+          "desc": "김정현 신한자산운용 ETF사업그룹장은 \"반도체 슈퍼사이클 초기에는 삼성전자와 SK하이닉스 등 메모리 대형주가 상승을 주도하지만, 설비투자가 본격화되면 장비 발주와 소재·부품 수요가 늘어나면서 수혜 범위가...",
+          "src": "newslock",
           "date": "09/09",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=611447",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202609/611447_313245_3123.jpg"
+          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=135908",
+          "img": "https://cdn.newslock.co.kr/news/thumbnail/202609/135908_123559_3327_v150.jpg"
         },
         {
-          "title": "일 소부장·미 AI 생태계…삼성·SK 서로 다른 패키징 투자 셈법",
-          "desc": "삼성전자가 일본을 택한 배경에는 탄탄한 반도체 소재·부품·장비(소부장) 생태계가 있습니다. 첨단... 회사는 미국 인디애나주에 첨단 패키징 생산기지를 구축하는 동시에 생산라인 인근에 고객·대학·협력사가...",
-          "src": "newstomato",
+          "title": "협력사 경쟁 붙여 가격 눌렀는데…애플 '갑질 공식' 흔들",
+          "desc": "유도해 부품가격을 낮췄다. 카운터포인트는 애플이 아이폰15 프로맥스 디스플레이 비용을 전작 대비 4% 절감한 것은 삼성디스플레이와 LG디스플레이를 맞붙인 결과라고 해석했다. 메모리 시장에서도 삼성전자...",
+          "src": "한국경제",
           "date": "09/09",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1313086&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/9/9/1313086/attach.jpg?v=202609091424"
+          "url": "https://n.news.naver.com/mnews/article/015/0005330558?sid=105",
+          "img": "https://img.hankyung.com/photo/202609/01.45619010.1.jpg"
         },
         {
-          "title": "삼성전자, 日 요코하마 '첨단 패키징' 거점 본격 가동… 3500억 집중 투입",
-          "desc": "이 자리에는 전영현 삼성전자 디바이스솔루션(DS) 부문장(부회장)과 일본 지자체 관계자, 현지 협력사 등... 특히 일본은 반도체 산업에 필수적인 소재와 부품, 장비 분야에서 압도적인 기술력을 갖춘 기업들이 다수...",
-          "src": "widedaily",
+          "title": "아산시, '반도체·디스플레이 초격차 육성'... 미래비전 아카데미 성료",
+          "desc": "특히 아산이 이미 세계적인 수준의 제조 설비와 연구 인프라를 동시에 확보한 전략 도시임을 강조하며, 삼성전자 온양사업장과 삼성디스플레이의 집중 투자가 지역 부품 협력사들의 동반 성장을 견인하는 기폭제가 될...",
+          "src": "newsworker",
           "date": "09/09",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=300809",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202609/300809_308349_4241_v150.jpg"
+          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=503509",
+          "img": "https://cdn.newsworker.co.kr/news/photo/202609/503509_504425_3121.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "이투데이",
           "date": "08/26",
           "url": "https://www.etoday.co.kr/news/view/2617909",
-          "img": ""
+          "img": "https://img.etoday.co.kr/pto_db/2026/01/20260121144546_2284678_600_330.png"
         },
         {
           "title": "자동차 밸류체인 완비된 중국 북부 핵심지 톈진, 한중 협력의 '車세대'...",
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "현대건설, '힐스테이트 고덕엘리스트' 9월 분양 예정",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274775",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274775_359078_5616_v150.jpg"
+      "title": "삼성 초기업노조, 'DS 전용' 노조 전환 추진...DX 조합원 내보낸다",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=261868",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202609/261868_283801_1910.png"
+    },
+    {
+      "title": "로봇청소기 시장서 커지는 ‘보안’ 존재감",
+      "url": "https://byline.network/?p=9004111222619150",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/09/ROBOT1.jpg"
     },
     {
       "title": "“가전 팔고 끝?”…청소·수납·보증까지, ‘우리집 관리’ 전쟁",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
     },
     {
-      "title": "한-프랑스 기업인 만난 이 대통령 \"양국 강점 결합하면 새 시장 만들 수...",
-      "url": "http://www.metroseoul.co.kr/article/20260909500419",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/09/.cache/512/20260909500420.jpg"
+      "title": "세탁망만 넣고 돌렸는데 탈수 멈춤…빨랫감 균형 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=386091",
+      "img": "https://www.vegannews.co.kr/data/photos/20260937/art_17889296101533_8acccc.jpg"
     },
     {
-      "title": "끊이지 않는 입환 작업 사고…국토부 '무선제어' 확대에 업계 \"3인 1조 병...",
-      "url": "https://sports.hankooki.com/news/articleView.html?idxno=6939385",
-      "img": "https://cdn.sports.hankooki.com/news/thumbnail/202609/6939385_1214970_035_v150.jpg"
+      "title": "한양대 ERICA '동물실험 대신 AI로 약 안전성 검증' 융합인재 키운다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573583?sid=102",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/09/202609092147054671_e.jpg"
     },
     {
-      "title": "\"갤럭시 워치로 지키는 가족 건강\"…삼성전자, 헬스 생태계 확장",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274768",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274768_359083_811_v150.jpg"
-    },
-    {
-      "title": "삼성전자, 日 요코하마에 첨단패키징 연구소…3500억 투자",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=611447",
-      "img": "https://cdn.mdtoday.co.kr/news/photo/202609/611447_313245_3123.jpg"
+      "title": "한독, 수면제에 디지털 더한다…진단·치료·관리 잇는 '슬립 사이언스...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026090917383082905",
+      "img": "https://nimage.newsway.co.kr/photo/2026/09/09/20260909001693_1200.jpg"
     }
   ]
 };
