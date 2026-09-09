@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.09 (수) 21:58",
+  "updatedAt": "2026.09.10 (목) 02:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 초기업노조, 'DS 전용' 노조 전환 추진...DX 조합원 내보낸다",
-          "desc": "9일 업계에 따르면 삼성전자 초기업노조는 '2026년 5차 총회 공고'를 내고 가입 자격을 DS 부문 소속 근로자로 제한하는 규약 개정안을 표결에 부친다. 해당 개정안이 통과되면 스마트폰·가전 등을 담당하는 현재 DX 부문...",
-          "src": "asiaa",
-          "date": "09/09",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=261868",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202609/261868_283801_1910.png"
+          "title": "李대통령, 프랑스 국빈방문 마치고 귀국길…한불 '새 140년' 협력 확대",
+          "desc": "삼성전자와 프랑스 생성형 AI 기업 미스트랄AI 간 투자협약도 체결됐다. 국방·안보 분야에서는 2001년 체결한... LG전자는 고효율 가전과 히트펌프 등 친환경 기술, 모빌리티·AI 분야의 협력 가능성을 제시했다. 로레알과...",
+          "src": "뉴스웍스",
+          "date": "09/10",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853245",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853245_815587_260_v150.jpg"
         },
         {
-          "title": "로봇청소기 시장서 커지는 ‘보안’ 존재감",
-          "desc": "삼성전자는 올해 출시한 로봇청소기 ‘비스포크 AI 스팀’에 보안 솔루션 ‘녹스 매트릭스(Knox Matrix)’와 ‘녹스 볼트(Knox Vault)’를 적용했다. 녹스 매트릭스는 스마트싱스로 연결된 기기들이 서로 보안 상태를 확인하고...",
-          "src": "byline",
-          "date": "09/09",
-          "url": "https://byline.network/?p=9004111222619150",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/ROBOT1.jpg"
+          "title": "‘반지의 제왕’ 자리 쟁탈전",
+          "desc": "핀란드 기업 오우라(Oura)는 5세대 스마트링 제품 ‘오우라 링 5’를 앞세워 삼성전자의 안방인 한국 시장... 로봇청소기로 이름을 알린 중국 드리미는 손가락 터치로 자사 가전을 조작하는 연동 기능을, 중국 링콘은...",
+          "src": "중앙일보",
+          "date": "09/10",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550307?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/10/43375c3b-39e8-494d-bb85-bbac8187017b.jpg"
         },
         {
           "title": "“가전 팔고 끝?”…청소·수납·보증까지, ‘우리집 관리’ 전쟁",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한양대 ERICA '동물실험 대신 AI로 약 안전성 검증' 융합인재 키운다",
-          "desc": "첨단 기술(NAMs·새로운 접근방법론)을 도입하고 있다. 기존처럼 동물에게 약을 투여해 결과를 기다리기보다... 학생들은 AI를 활용해 동물실험을 대신할 안전성 평가 기술을 배우는 것은 물론, 안전성 검증 결과를 정부...",
-          "src": "파이낸셜뉴스",
-          "date": "09/09",
-          "url": "https://n.news.naver.com/mnews/article/014/0005573583?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2026/09/09/202609092147054671_e.jpg"
+          "title": "122건 현업 아이디어 접수…KT, AX '양적 확산' 넘어 질 높인다",
+          "desc": "최근 기업들의 AI 도입이 빠르게 늘고 있지만 현업에서는 어떤 업무에 AI를 적용해야 하는지 판단하거나 업무 특성에 적합한 기술과 아키텍처를 설계하는 데 어려움을 겪는 경우가 적지 않다. KT는 기술부터 적용하는...",
+          "src": "apnews",
+          "date": "09/10",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051139",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051139_83957_2821_v150.jpg"
         },
         {
-          "title": "한독, 수면제에 디지털 더한다…진단·치료·관리 잇는 '슬립 사이언스...",
-          "desc": "이후 환자 상태에 따라 약물 복용이나 웰트의 '슬립큐'를 활용한 인지행동치료를 병행한다. 치료 과정과... 강 대표는 카카오톡 기반 AI 상담 챗봇 시연 QR코드를 공개하며 순응도를 끌어올리기 위한 AI 기술 도입 계획도...",
-          "src": "newsway",
-          "date": "09/09",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026090917383082905",
-          "img": "https://nimage.newsway.co.kr/photo/2026/09/09/20260909001693_1200.jpg"
+          "title": "[AI시대, 권력 대이동-쿠팡] 제품 퀄리티 관리·구매까지…상생의 '유통...",
+          "desc": "최근에는 로켓프레시로 배송되는 제철 과일 품질을 극대화하기 위해 'AI 과일 선별기'를 도입했다. AI 과일 선별기는 비파괴 광학 센서와 컴퓨터 비전 기술을 활용해 과일의 당도·수분 함량·내부 상태 등을 정밀...",
+          "src": "pointdaily",
+          "date": "09/10",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318663",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318663_315024_3246_v150.jpg"
         },
         {
-          "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
-          "desc": "적극 활용한 상호 보완적 협력관계 형성 △제조업에서 벗어나 디지털·AI·바이오 등 첨단산업 분야 협력 체계 구축 △환경·기후·에너지 등 과학 기술 분야 학술·인재교류 협력 확대 △지방 도시 간 교류 협력 활성화를...",
-          "src": "gnmaeil",
-          "date": "09/09",
-          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=594563",
-          "img": "http://www.gnmaeil.com/news/thumbnail/202609/594563_596701_3050_v150.jpg"
+          "title": "오픈AI 코리아 출범 1주년…엔터프라이즈 사업 확대",
+          "desc": "오픈AI 코리아가 인공지능(AI) 기술 발전 상황과 한국 기업의 도입 현황, 향후 인프라 확충 계획을 공개했다.... 국내 기업의 AI 도입도 확대 국내 산업계에서 AI 활용이 확산하는 추세다. 8월 말 기준 한국의 챗GPT...",
+          "src": "byline",
+          "date": "09/10",
+          "url": "https://byline.network/?p=9004111222619175",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/AI-1.jpg"
         },
         {
-          "title": "동대구벤처밸리에 '딥테크 창업허브'",
-          "desc": "활용형 AI 인프라와 창업기업 입주 공간, 성장 지원 기능을 한곳에 집적해 지역 딥테크 창업기업의 기술개... 성공적인 사업 추진을 위해 이달부터 기본·실시설계와 인허가, 장비 도입 심의, 공사업체 입찰 등을...",
-          "src": "idaegu",
-          "date": "09/09",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559226",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202609/559226_254037_4114.png"
+          "title": "보라매병원, '헬스케어 AI 융합 연구 심포지엄' 개최…의료 AI 현장 적용...",
+          "desc": "특히 의료 데이터의 편향과 형평성, 생성형 AI의 활용 범위, 개인정보 보호와 임상적 검증 등은 기술 도입과 함께 풀어야 할 과제다. 이번 심포지엄 역시 AI 기술 자체보다 의료 현장에 적용하기 위한 조건과 공공의료...",
+          "src": "thefirstmedia",
+          "date": "09/10",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=208209",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202609/208209_192143_1527_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 초기업노조, 'DS 전용' 노조 전환 추진...DX 조합원 내보낸다",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=261868",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202609/261868_283801_1910.png"
+      "title": "李대통령, 프랑스 국빈방문 마치고 귀국길…한불 '새 140년' 협력 확대",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853245",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853245_815587_260_v150.jpg"
     },
     {
-      "title": "로봇청소기 시장서 커지는 ‘보안’ 존재감",
-      "url": "https://byline.network/?p=9004111222619150",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/09/ROBOT1.jpg"
+      "title": "‘반지의 제왕’ 자리 쟁탈전",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550307?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/10/43375c3b-39e8-494d-bb85-bbac8187017b.jpg"
     },
     {
       "title": "“가전 팔고 끝?”…청소·수납·보증까지, ‘우리집 관리’ 전쟁",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20260937/art_17889296101533_8acccc.jpg"
     },
     {
-      "title": "한양대 ERICA '동물실험 대신 AI로 약 안전성 검증' 융합인재 키운다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573583?sid=102",
-      "img": "https://image.fnnews.com/resource/media/image/2026/09/09/202609092147054671_e.jpg"
+      "title": "122건 현업 아이디어 접수…KT, AX '양적 확산' 넘어 질 높인다",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051139",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051139_83957_2821_v150.jpg"
     },
     {
-      "title": "한독, 수면제에 디지털 더한다…진단·치료·관리 잇는 '슬립 사이언스...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026090917383082905",
-      "img": "https://nimage.newsway.co.kr/photo/2026/09/09/20260909001693_1200.jpg"
+      "title": "[AI시대, 권력 대이동-쿠팡] 제품 퀄리티 관리·구매까지…상생의 '유통...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318663",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318663_315024_3246_v150.jpg"
     }
   ]
 };
