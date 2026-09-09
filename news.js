@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.10 (목) 02:51",
+  "updatedAt": "2026.09.10 (목) 05:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "李대통령, 프랑스 국빈방문 마치고 귀국길…한불 '새 140년' 협력 확대",
-          "desc": "삼성전자와 프랑스 생성형 AI 기업 미스트랄AI 간 투자협약도 체결됐다. 국방·안보 분야에서는 2001년 체결한... LG전자는 고효율 가전과 히트펌프 등 친환경 기술, 모빌리티·AI 분야의 협력 가능성을 제시했다. 로레알과...",
-          "src": "뉴스웍스",
+          "title": "“이젠 고르는 게 일, 버튼만 누르니 1분 만에 도면 100개 쏟아내”",
+          "desc": "탄탄한 기술력을 바탕으로 현대자동차, 삼성전자 등 4~5곳의 대기업과 기술 검증을 마쳤다. 2023년... 아이디어오션은 창업 직후 대략적인 콘셉트만 설정한 상태로 국제가전박람회(CES)에 무작정 지원했다. 김 대표와...",
+          "src": "조선일보",
           "date": "09/10",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853245",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853245_815587_260_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0003997637?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/TVENW3GM35DRVP5CDTGM6XTLSU.JPG?auth=3877f05554c90976e8f34abe95fe6e752e1e715b8ffa316fa4773397b0a8f956&width=1200&height=630&smart=true"
         },
         {
           "title": "‘반지의 제왕’ 자리 쟁탈전",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
         },
         {
-          "title": "세탁망만 넣고 돌렸는데 탈수 멈춤…빨랫감 균형 확인",
-          "desc": "삼성전자서비스의 드럼세탁기 불균형 안내는 세탁망에 너무 많은 빨랫감을 넣으면 진동과 소음의 원인이 될 수 있다고 설명한다. 망의 약 3분의 2 정도만 채우고 단독 세탁을 피하도록 제시했다. 이 비율은 해당 제조사의...",
-          "src": "vegannews",
-          "date": "09/09",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=386091",
-          "img": "https://www.vegannews.co.kr/data/photos/20260937/art_17889296101533_8acccc.jpg"
+          "title": "AI·로봇이 알아서… \"이제, 집안일 해방\"",
+          "desc": "세탁기는 빨래의 오염정도와 필요한 세제량, 운전방식 등을 AI로 최적화해 에너지 사용량을 줄인다. 삼성전자 관계자는 \"사람이 전자제품에 생활방식을 맞추던 것에서 벗어나 제품이 사람의 일상에 맞춰지는 방향으로...",
+          "src": "머니투데이",
+          "date": "09/10",
+          "url": "https://n.news.naver.com/mnews/article/008/0005411729?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090919492354473_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "122건 현업 아이디어 접수…KT, AX '양적 확산' 넘어 질 높인다",
-          "desc": "최근 기업들의 AI 도입이 빠르게 늘고 있지만 현업에서는 어떤 업무에 AI를 적용해야 하는지 판단하거나 업무 특성에 적합한 기술과 아키텍처를 설계하는 데 어려움을 겪는 경우가 적지 않다. KT는 기술부터 적용하는...",
-          "src": "apnews",
+          "title": "美 첫 수입 전면 금지…韓에도 ‘관세 압박’ 쓰일까 [글로벌 모닝 브리...",
+          "desc": "수단이 활용될 수 있다는 관측이 나옵니다. 이런 가운데 여론은 트럼프 대통령에게 불리하게 움직이고... 인공지능(AI)발 반도체 수요 확대에 힘입어 인텔은 가격 인상을 이어가고 있고, 차세대 노광 기술에서도...",
+          "src": "서울경제",
           "date": "09/10",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051139",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051139_83957_2821_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004660320?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.1317ab170aeb413a8351c62233c95ffa_Z1.jpg"
         },
         {
-          "title": "[AI시대, 권력 대이동-쿠팡] 제품 퀄리티 관리·구매까지…상생의 '유통...",
-          "desc": "최근에는 로켓프레시로 배송되는 제철 과일 품질을 극대화하기 위해 'AI 과일 선별기'를 도입했다. AI 과일 선별기는 비파괴 광학 센서와 컴퓨터 비전 기술을 활용해 과일의 당도·수분 함량·내부 상태 등을 정밀...",
-          "src": "pointdaily",
+          "title": "한독 디지털헬스케어, 수면제 넘어 '수면 관리'",
+          "desc": "﻿﻿﻿﻿﻿ 한독이 수면 치료제 시장에서 쌓은 경험에 디지털 기술을 결합해 수면 사업을 확장한다.... 케어콜과 알림을 통해 이용 상황을 확인하고, AI를 활용한 소통 기능으로 치료 편의성을 높인다는 구상이다. 김 전무는...",
+          "src": "dailymedi",
           "date": "09/10",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318663",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318663_315024_3246_v150.jpg"
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940357",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
         },
         {
-          "title": "오픈AI 코리아 출범 1주년…엔터프라이즈 사업 확대",
-          "desc": "오픈AI 코리아가 인공지능(AI) 기술 발전 상황과 한국 기업의 도입 현황, 향후 인프라 확충 계획을 공개했다.... 국내 기업의 AI 도입도 확대 국내 산업계에서 AI 활용이 확산하는 추세다. 8월 말 기준 한국의 챗GPT...",
-          "src": "byline",
+          "title": "美 진출 의료AI 업체, FDA 허가 이어 '보험보상'",
+          "desc": "인공지능(AI) 기업들의 미국 시장 경쟁이 식품의약국(FDA) 인허가를 넘어 ‘보험보상’으로 확장되고 있다. FDA 허가만으로는 실제 의료기관 도입과 매출을 담보하기 어려운 만큼 CPT와 신기술 추가지불보상제도...",
+          "src": "dailymedi",
           "date": "09/10",
-          "url": "https://byline.network/?p=9004111222619175",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/09/AI-1.jpg"
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940208",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
         },
         {
-          "title": "보라매병원, '헬스케어 AI 융합 연구 심포지엄' 개최…의료 AI 현장 적용...",
-          "desc": "특히 의료 데이터의 편향과 형평성, 생성형 AI의 활용 범위, 개인정보 보호와 임상적 검증 등은 기술 도입과 함께 풀어야 할 과제다. 이번 심포지엄 역시 AI 기술 자체보다 의료 현장에 적용하기 위한 조건과 공공의료...",
-          "src": "thefirstmedia",
+          "title": "한국공학대, 'AX실증산단 오픈랩' 기반 반월·시화 제조기업 실증지원 ...",
+          "desc": "특화 AI 모델 설계를 패키지로 지원한다. 이를 통해 기업의 초기 설비투자 비용 부담을 덜고 기술 도입... 강화해 원천 기술 개발부터 양산 라인 배치까지 밀착 지원하는 산학협력 거점으로 활용도를 극대화할 계획이다.",
+          "src": "cstimes",
           "date": "09/10",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=208209",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202609/208209_192143_1527_v150.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=720059",
+          "img": "https://www.cstimes.com/news/photo/202609/720059_640842_280.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "李대통령, 프랑스 국빈방문 마치고 귀국길…한불 '새 140년' 협력 확대",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853245",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853245_815587_260_v150.jpg"
+      "title": "“이젠 고르는 게 일, 버튼만 누르니 1분 만에 도면 100개 쏟아내”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997637?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/TVENW3GM35DRVP5CDTGM6XTLSU.JPG?auth=3877f05554c90976e8f34abe95fe6e752e1e715b8ffa316fa4773397b0a8f956&width=1200&height=630&smart=true"
     },
     {
       "title": "‘반지의 제왕’ 자리 쟁탈전",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
     },
     {
-      "title": "세탁망만 넣고 돌렸는데 탈수 멈춤…빨랫감 균형 확인",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=386091",
-      "img": "https://www.vegannews.co.kr/data/photos/20260937/art_17889296101533_8acccc.jpg"
+      "title": "AI·로봇이 알아서… \"이제, 집안일 해방\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411729?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090919492354473_1.jpg"
     },
     {
-      "title": "122건 현업 아이디어 접수…KT, AX '양적 확산' 넘어 질 높인다",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051139",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051139_83957_2821_v150.jpg"
+      "title": "美 첫 수입 전면 금지…韓에도 ‘관세 압박’ 쓰일까 [글로벌 모닝 브리...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660320?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.1317ab170aeb413a8351c62233c95ffa_Z1.jpg"
     },
     {
-      "title": "[AI시대, 권력 대이동-쿠팡] 제품 퀄리티 관리·구매까지…상생의 '유통...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318663",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318663_315024_3246_v150.jpg"
+      "title": "한독 디지털헬스케어, 수면제 넘어 '수면 관리'",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940357",
+      "img": "https://www.dailymedi.com/img/d_logo.jpg"
     }
   ]
 };
