@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.10 (목) 13:54",
+  "updatedAt": "2026.09.10 (목) 20:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스펙보다 AI 활용 능력, 취업 팝업스토어까지…대기업 채용 바뀐다",
-          "desc": "LG전자는 오는 13일까지 생활가전·TV·전장·냉난방공조 사업본부와 생산기술원 등에서 로봇·생산기술 등... 직군별로 평가 차별화…반나절 심층면접 도입 삼성은 오는 15일까지 삼성전자·삼성바이오로직스·삼성SDI...",
-          "src": "뉴스1",
+          "title": "삼성전자, 국내 전기 냉난방 시장 공략 속도낸다",
+          "desc": "기반 가전 스마트 진단 프로그램인 HASS(Home Appliances Smart Service)를 활용한 시운전과 서비스 점검까지 전 과정을 직접 실습할 수 있다. EHS 히트펌프 설치 전문가인 삼성전자 사내 EHS 전담 마스터와 보일러·수배관...",
+          "src": "kjdaily",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/421/0009162814?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/10/8099164/high.jpg"
+          "url": "http://www.kjdaily.com/article.php?aid=1789036784686574004",
+          "img": "http://www.kjdaily.com/upimages/gisaimg/202609/11-686574.jpg"
         },
         {
-          "title": "‘반지의 제왕’ 자리 쟁탈전",
-          "desc": "핀란드 기업 오우라(Oura)는 5세대 스마트링 제품 ‘오우라 링 5’를 앞세워 삼성전자의 안방인 한국 시장... 로봇청소기로 이름을 알린 중국 드리미는 손가락 터치로 자사 가전을 조작하는 연동 기능을, 중국 링콘은...",
-          "src": "중앙일보",
+          "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
+          "desc": "삼성전자와 LG전자 등 가전부터 정관장·CJ제일제당·동원 등 건강식품과 식품 브랜드까지 분야별 상품을... 커트러리와 홈세트 등 주방용품을 비롯해 공기청정기·냉장고·청소기 등 생활가전을 선보인다. 추석 이후...",
+          "src": "asiatoday",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/025/0003550307?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/10/43375c3b-39e8-494d-bb85-bbac8187017b.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004074",
+          "img": "https://img.asiatoday.co.kr/file/2026y/09m/11d/2026091001000774400040741.jpg"
         },
         {
-          "title": "[IFA 2026-결산] 삼성·LG, 유럽 집에 맞추다",
-          "desc": "세탁기처럼 제품 속을 넓힌 건 아니지만 주방 전체 시야를 틔워 개방감을 극대화했다는 점에서 삼성식 '공간 다이어트' 궤를 같이 했다. LG전자는 냉장고에서 재미 봤던 '핏 앤 맥스' 전략을 세탁기, 건조기, 식기세척기...",
-          "src": "pointdaily",
+          "title": "[르포] 네덜란드서 ‘제품 아닌 공간’ 파는 LG전자… 집처럼 매장 꾸미...",
+          "desc": "삼성전자·보쉬·소니·필립스·TCL·하이센스·드리미 등 굵직한 가전 업체들이 네덜란드 시장을 두고... 냉장고·세탁기·건조기·에어컨 등은 LG전자의 가전 플랫폼 ‘LG 씽큐(ThinQ)’와 네덜란드 스마트홈 플랫폼...",
+          "src": "조선일보",
           "date": "09/10",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318767",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318767_315116_1229_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001191610?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/GHW2W555IVDZTGYTBFXL52MYMQ.gif?auth=3530c96811351b2e993b260ed69d549583520c83876e182942527a7ffb0ce0cc&width=654&height=343&smart=true"
         },
         {
-          "title": "'AI, 놀이를 넘어 산업 현장으로'...젠슨 황·이재용·정의선 '치맥 회동...",
-          "desc": "지난해 10월 젠슨 황 엔비디아 최고경영자(CEO), 이재용 삼성전자 회장, 정의선 현대자동차그룹 회장의 만남... 소형 냉장고를 직접 들어 옮기는 모습이 공개되면서 인간의 노동을 대체할 수 있는 산업용 로봇으로서...",
-          "src": "ppss",
+          "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
+          "desc": "삼성전자는 TV 시장에서 선두를 지키고 있으나 냉장고와 세탁기 시장에서 중국 및 한국 경쟁 업체의 압박을 받고 있다. 룸에어컨 사업 확장도 과제로 남아 있다. 본사의 글로벌 인력 재편 흐름과도 궤를 같이한다. 앞서...",
+          "src": "g-enews",
           "date": "09/10",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=309857",
-          "img": "https://cdn.ppss.kr/news/photo/202609/309857_131031_4934.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609101916196671fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대우건설·건설연, 유망 스타트업 9곳 발굴… 스마트건설 현장 적용 검...",
-          "desc": "인공지능(AI)과 자동화 기술을 현장에 도입하는 경향이 이어지고 있다. 이러한 흐름 속에서 개최된 이번... 대우건설 관계자는 \"내부 연구개발과 함께 외부 스타트업의 신기술을 활용하는 방식은 기술 확보 시간을 단축하는...",
-          "src": "onews",
+          "title": "美 방산 스타트업 '코버넌트', 내년 사거리 2000㎞ 순항미사일 양산… 토...",
+          "desc": "코버넌트는 지난 2년 동안 외부에 모습을 드러내지 않는 이른바 '스텔스 모드'에서 기술 개발을 진행해... 부품을 활용해 유럽과 미국, 동맹국을 위한 장거리 정밀타격 무기를 제공하는 것이 목표\"라고 말했다. 앤섬은...",
+          "src": "뉴스핌",
           "date": "09/10",
-          "url": "https://www.onews.tv/news/articleView.html?idxno=286798",
-          "img": "https://cdn.onews.tv/news/thumbnail/202609/286798_347101_3844_v150.jpg"
+          "url": "https://www.newspim.com/news/view/20260910001206",
+          "img": "https://img.newspim.com/news/2026/09/10/2609101949114990_t1.jpg"
         },
         {
-          "title": "엔비디아, 'PUBG: 배틀그라운드'·'워독스' 등 최신 게임에 DLSS 적용 확대",
-          "desc": "5 도입 엔비디아가 최신 게임 6종에 엔비디아 DLSS 기술을 적용해 게이밍 경험을 강화한다고 밝혔다.... 등 AI 기반 그래픽 기술을 통해 PC 게이밍 환경을 발전시켜 왔다. 엔비디아가 최근 출시한 DLSS 5는 3D 가이드...",
-          "src": "thisisgame",
+          "title": "모든 산업을 알아야 하는 산업: AI 시대 금융의 변화와 정책 제언",
+          "desc": "모든 AI 활용을 일률적으로 규율하기보다 소비자나 시장에 미치는 영향이 큰 영역부터 검증 수준을... 그래서 금융에 인공지능을 들이는 일은 신기술 하나를 도입하는 일이 아니라, 세상 전체를 읽어내는 장치를...",
+          "src": "ifs",
           "date": "09/10",
-          "url": "https://www.thisisgame.com/articles/429784",
-          "img": "https://file.thisisgame.com/upload/email-attachments/2026/09/10/1639246091010877767_5c819fdb-7066-4c43-84bc-af37b6fe792f_%5B%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C%5D%20%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%2C%20%E2%80%98PUBG%20%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%E2%80%99%C2%B7%E2%80%98%EC%9B%8C%EB%8F%85%EC%8A%A4%E2%80%99%20%EB%93%B1%20%EC%B5%9C%EC%8B%A0%20%EA%B2%8C%EC%9E%84%EC%97%90%20DLSS%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EB%8C%80.jpg"
+          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56006",
+          "img": ""
         },
         {
-          "title": "코헤시티 ‘초고속 데이터 복구’ 자신감…금융권 초점은 ‘RTO·통합관...",
-          "desc": "코헤시티는 기업이 이미 보유하고 있는 방대한 백업 데이터를 생성형 AI가 활용할 수 있는 데이터 자산으로 전환하겠다는 전략이다. 물론 넘어야 할 산도 많다. 보수적인 금융 IT 시장 특성상 다양한 기반 기술이 선행돼야...",
-          "src": "디지털데일리",
+          "title": "[주식마감] '자사주 30% 소각'에 샘표·샘표식품 상한가... 원익피앤이,...",
+          "desc": "나섰으며, AI 기반 고객센터 도입 등을 통해 서비스 경쟁력 강화와 글로벌 MVNO 시장 확대를 추진하고... 이는 전기차 폐배터리를 에너지저장장치(ESS)로 재활용하는 'UBESS'(Used Battery Energy Storage System) 실증사업을...",
+          "src": "ggilbo",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240915?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/10/2026091013252299493_l.JPG"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181093",
+          "img": "https://cdn.ggilbo.com/news/photo/202609/1181093_1033542_3851.jpg"
         },
         {
-          "title": "日 파인디 \"AI 시대, SW 개발 생산성 데이터로 측정\"",
-          "desc": "AI 시대를 맞이해서는 AI로 생성한 코드의 실용성을 평가할 수 있는 기술 등을 도입했다. 파인디의 이용자... 커리어·기술 선정·사내 조직 운영, AI 활용 등 다양한 문제에 대응할 수 있는 서비스를 제공하는 전략이다....",
-          "src": "newstopkorea",
+          "title": "대전시교육청, DX교육데이터협회와 AI 교육혁신 협력체계 구축",
+          "desc": "특히 단순히 AI 기술이나 서비스를 교육 현장에 도입하는 데 그치지 않고, 교육 데이터를 안전하고 체계적으로 활용해 학생 개개인의 학습과 성장을 지원하는 데 협력의 초점을 맞춘다. 교원 역량을 높이는 동시에 학생...",
+          "src": "ccdn",
           "date": "09/10",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47570",
-          "img": "https://cdn.newstopkorea.com/news/photo/202609/47570_48780_5757.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1099064",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202609/1099064_610302_0555_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
+          "desc": "삼성전자 인도 법인이 소비 둔화와 비용 상승에 대응해 소비자가전 부문에서 중간 관리자급 8~10명을... 완제품 마진이 줄어들면 주요 부품을 공급하는 한국 협력사의 납품 물량과 단가 구조에도 파급이 미칠 수 있다....",
+          "src": "g-enews",
+          "date": "09/10",
+          "url": "https://www.g-enews.com/view.php?ud=202609101916196671fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "K반도체 '빅2', 왜 일본 가나…삼성은 '연구', SK는 '생산' 주목",
+          "desc": "행사에는 도쿄일렉트론과 이비덴 등 일본 협력사 15개사가 참석했다. 첨단 패키징은 연산칩과 메모리 등 여러... 소재·장비·패키징·부품·대학 연구진이 모여 있는 생태계가 중요하다\"며 \"삼성전자 입장에서는 일본에...",
+          "src": "insightkorea",
+          "date": "09/10",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254347",
+          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202609/254347_265961_3914_v150.jpg"
+        },
+        {
+          "title": "[창간24/AI發 K자 성장 ①] 돈·인재·기술이 몰리는 곳만 더 커진다",
+          "desc": "◇ \"반도체 이끌고, 전력이 민다\"···AI 호황에 수출 '상승기류' = 삼성전자, SK하이닉스와 같은 메모리... 필수적\"이라며 \"부품 협력사의 AI 경쟁력이 곧 글로벌 경쟁력이라는 신념으로, 전용 훈련센터를 통해 협력사의...",
+          "src": "seoulfn",
+          "date": "09/10",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=637672",
+          "img": "https://cdn.seoulfn.com/news/photo/202609/637672_439954_2451.jpg"
+        },
+        {
           "title": "아산시, 113조 원 삼성 첨단 투자 맞물려 50만 자족도시 도약 가속",
           "desc": "삼성전자 온양사업장에 배정된 46조 원 규모의 반도체 투자와 삼성디스플레이가 투입하는 67조 원 규모의 차세대 디스플레이 투자는 단순 설비 증설을 넘어 소재·부품·장비(소부장) 공급망과 건설, 물류, 서비스업...",
           "src": "newsworker",
           "date": "09/10",
           "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=503639",
           "img": "https://cdn.newsworker.co.kr/news/photo/202609/503639_504609_2945.jpg"
-        },
-        {
-          "title": "[인터뷰] 19년 된 도장기업 ‘경일산업’, 제조현장에 AI를 도입한 이유",
-          "desc": "경일산업은 LG전자 2차 협력사로 TV 스탠드 베이스와 백커버 등 가전 부품을 주로 다뤘지만, 최근에는 자동차... 24년간 삼성전자에서 제조와 기술, 품질, 구매 업무를 경험한 제조업 베테랑이다. 오랜 현장 경험을 바탕으로...",
-          "src": "동아일보",
-          "date": "09/10",
-          "url": "https://it.donga.com/109503/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/9/10/a732a0923c68450e-thumbnail-960x540-70.jpg"
-        },
-        {
-          "title": "아이폰 듀오, ‘반쪽 AI’ 갤Z폴드8보다 최대 200만원 비싸",
-          "desc": "이에 따라 EU의 DMA 같은 규제에 대응하기가 상대적으로 수월하고, 협력사가 출시하는 고성능 AI를 갤럭시... 일부 부품의 조립 과정에서 수율이 떨어지는 것으로 알려졌다. 반면 삼성전자는 올해 Z폴드8 울트라의...",
-          "src": "서울경제",
-          "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/011/0004660410?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/10/news-p.v1.20260910.a0c6fe607751450d9ebf4cd5e4a16310_Z1.jpg"
-        },
-        {
-          "title": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀...",
-          "desc": "나아가 글로벌 팹리스 고객사와 디자인하우스, 소재·부품·장비 협력사까지 포괄하는 개방형 산업 AI 생태계를 완성한다는 구상이다. 전영현 삼성전자 DS부문장은 반도체 설계와 초미세 공정의 복잡도가 유례없는...",
-          "src": "ttlnews",
-          "date": "09/09",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3141458",
-          "img": "https://cdn.ttlnews.com/news/photo/202609/3141458_756793_2310.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "스펙보다 AI 활용 능력, 취업 팝업스토어까지…대기업 채용 바뀐다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009162814?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/9/10/8099164/high.jpg"
+      "title": "삼성전자, 국내 전기 냉난방 시장 공략 속도낸다",
+      "url": "http://www.kjdaily.com/article.php?aid=1789036784686574004",
+      "img": "http://www.kjdaily.com/upimages/gisaimg/202609/11-686574.jpg"
     },
     {
-      "title": "‘반지의 제왕’ 자리 쟁탈전",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550307?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/10/43375c3b-39e8-494d-bb85-bbac8187017b.jpg"
+      "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004074",
+      "img": "https://img.asiatoday.co.kr/file/2026y/09m/11d/2026091001000774400040741.jpg"
     },
     {
-      "title": "[IFA 2026-결산] 삼성·LG, 유럽 집에 맞추다",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318767",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/318767_315116_1229_v150.jpg"
+      "title": "[르포] 네덜란드서 ‘제품 아닌 공간’ 파는 LG전자… 집처럼 매장 꾸미...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191610?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/GHW2W555IVDZTGYTBFXL52MYMQ.gif?auth=3530c96811351b2e993b260ed69d549583520c83876e182942527a7ffb0ce0cc&width=654&height=343&smart=true"
     },
     {
-      "title": "'AI, 놀이를 넘어 산업 현장으로'...젠슨 황·이재용·정의선 '치맥 회동...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=309857",
-      "img": "https://cdn.ppss.kr/news/photo/202609/309857_131031_4934.jpg"
+      "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
+      "url": "https://www.g-enews.com/view.php?ud=202609101916196671fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "대우건설·건설연, 유망 스타트업 9곳 발굴… 스마트건설 현장 적용 검...",
-      "url": "https://www.onews.tv/news/articleView.html?idxno=286798",
-      "img": "https://cdn.onews.tv/news/thumbnail/202609/286798_347101_3844_v150.jpg"
+      "title": "美 방산 스타트업 '코버넌트', 내년 사거리 2000㎞ 순항미사일 양산… 토...",
+      "url": "https://www.newspim.com/news/view/20260910001206",
+      "img": "https://img.newspim.com/news/2026/09/10/2609101949114990_t1.jpg"
     },
     {
-      "title": "엔비디아, 'PUBG: 배틀그라운드'·'워독스' 등 최신 게임에 DLSS 적용 확대",
-      "url": "https://www.thisisgame.com/articles/429784",
-      "img": "https://file.thisisgame.com/upload/email-attachments/2026/09/10/1639246091010877767_5c819fdb-7066-4c43-84bc-af37b6fe792f_%5B%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C%5D%20%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%2C%20%E2%80%98PUBG%20%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%E2%80%99%C2%B7%E2%80%98%EC%9B%8C%EB%8F%85%EC%8A%A4%E2%80%99%20%EB%93%B1%20%EC%B5%9C%EC%8B%A0%20%EA%B2%8C%EC%9E%84%EC%97%90%20DLSS%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EB%8C%80.jpg"
+      "title": "[주식마감] '자사주 30% 소각'에 샘표·샘표식품 상한가... 원익피앤이,...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181093",
+      "img": "https://cdn.ggilbo.com/news/photo/202609/1181093_1033542_3851.jpg"
     }
   ]
 };
