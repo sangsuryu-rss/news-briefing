@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.10 (목) 20:23",
+  "updatedAt": "2026.09.11 (금) 01:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 국내 전기 냉난방 시장 공략 속도낸다",
-          "desc": "기반 가전 스마트 진단 프로그램인 HASS(Home Appliances Smart Service)를 활용한 시운전과 서비스 점검까지 전 과정을 직접 실습할 수 있다. EHS 히트펌프 설치 전문가인 삼성전자 사내 EHS 전담 마스터와 보일러·수배관...",
-          "src": "kjdaily",
-          "date": "09/10",
-          "url": "http://www.kjdaily.com/article.php?aid=1789036784686574004",
-          "img": "http://www.kjdaily.com/upimages/gisaimg/202609/11-686574.jpg"
+          "title": "IT 임금 뛰면, 7개월 뒤 서비스 물가 올랐다",
+          "desc": "지난달 한은 분석에 따르면, 반도체 종사자 거주 비중이 높은 이천·화성·청주에선 삼성전자·SK하이닉스 성과급이 지급된 지난해 1월 이후 고가재량소비재(자동차·가전·가구·백화점 등) 월별 소비가 다른 지역보다...",
+          "src": "중앙일보",
+          "date": "09/11",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550625?sid=101",
+          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
         },
         {
           "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "美 방산 스타트업 '코버넌트', 내년 사거리 2000㎞ 순항미사일 양산… 토...",
-          "desc": "코버넌트는 지난 2년 동안 외부에 모습을 드러내지 않는 이른바 '스텔스 모드'에서 기술 개발을 진행해... 부품을 활용해 유럽과 미국, 동맹국을 위한 장거리 정밀타격 무기를 제공하는 것이 목표\"라고 말했다. 앤섬은...",
+          "title": "보스턴 다이내믹스 출신 다이나믹 크리처스, 중국산 하드웨어로 안기는...",
+          "desc": "다만 구체적인 파트너 이름과 어느 지점에 언제 도입되는지는 공개하지 않았다. 로봇은 운영사가... 보스턴 다이내믹스와의 파트너십을 우선 활용하지만 필요하면 다른 기술 기반도 쓸 수 있다는 게 회사 설명이다....",
+          "src": "wikitree",
+          "date": "09/11",
+          "url": "https://www.wikitree.co.kr/articles/1158743",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/11/202609110111515909_ai.jpeg"
+        },
+        {
+          "title": "문서 자동화 넘어 공장 판단까지…포티투마루, 디스플레이 AX 해법 제시",
+          "desc": "에이전틱 AI로 이어지는 기술 변화를 설명한 뒤 제조 분야의 활용 사례를 소개했다.... 도입 방안으로는 제조 분야에 맞춘 경량 언어모델(sLLM)과 기업 내부 데이터를...",
+          "src": "venturesquare",
+          "date": "09/11",
+          "url": "https://www.venturesquare.net/1112436/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/42maru.jpg"
+        },
+        {
+          "title": "[중국 특징주] A주 사료업체, AI로 비용 절감·효율성 경쟁",
+          "desc": "SZ)도 'AI+대농업' 프로젝트를 통해 AI 도입을 확대하고 있다. 월해사료의 정스쉬안(鄭石軒) 회장 겸 총재는 규모화·표준화·지능화가 업계 전환의 필연적인 추세라며, AI 기술을 활용해 사료 연구개발과 양식 관리...",
           "src": "뉴스핌",
-          "date": "09/10",
-          "url": "https://www.newspim.com/news/view/20260910001206",
-          "img": "https://img.newspim.com/news/2026/09/10/2609101949114990_t1.jpg"
+          "date": "09/11",
+          "url": "https://www.newspim.com/news/view/20260911000009",
+          "img": "https://img.newspim.com/news/2026/09/11/2609111215258320_116_tc.jpg"
         },
         {
-          "title": "모든 산업을 알아야 하는 산업: AI 시대 금융의 변화와 정책 제언",
-          "desc": "모든 AI 활용을 일률적으로 규율하기보다 소비자나 시장에 미치는 영향이 큰 영역부터 검증 수준을... 그래서 금융에 인공지능을 들이는 일은 신기술 하나를 도입하는 일이 아니라, 세상 전체를 읽어내는 장치를...",
-          "src": "ifs",
-          "date": "09/10",
-          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56006",
-          "img": ""
-        },
-        {
-          "title": "[주식마감] '자사주 30% 소각'에 샘표·샘표식품 상한가... 원익피앤이,...",
-          "desc": "나섰으며, AI 기반 고객센터 도입 등을 통해 서비스 경쟁력 강화와 글로벌 MVNO 시장 확대를 추진하고... 이는 전기차 폐배터리를 에너지저장장치(ESS)로 재활용하는 'UBESS'(Used Battery Energy Storage System) 실증사업을...",
-          "src": "ggilbo",
-          "date": "09/10",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181093",
-          "img": "https://cdn.ggilbo.com/news/photo/202609/1181093_1033542_3851.jpg"
-        },
-        {
-          "title": "대전시교육청, DX교육데이터협회와 AI 교육혁신 협력체계 구축",
-          "desc": "특히 단순히 AI 기술이나 서비스를 교육 현장에 도입하는 데 그치지 않고, 교육 데이터를 안전하고 체계적으로 활용해 학생 개개인의 학습과 성장을 지원하는 데 협력의 초점을 맞춘다. 교원 역량을 높이는 동시에 학생...",
-          "src": "ccdn",
-          "date": "09/10",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1099064",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202609/1099064_610302_0555_v150.jpg"
+          "title": "[기고] 오픈AI 코리아 1년, AI가 여는 더 큰 가능성",
+          "desc": "새로운 기술의 진정한 가능성은 도입 순간보다 일하는 방식을 바꾸기 시작할 때 드러난다. 1883년께 공장에... AI를 가장 깊게 활용하는 상위 10% 기업과 일반적인 활용 수준의 기업 사이에서 활성 사용자당 AI 산출량 격차는...",
+          "src": "한국경제",
+          "date": "09/11",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331153?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 국내 전기 냉난방 시장 공략 속도낸다",
-      "url": "http://www.kjdaily.com/article.php?aid=1789036784686574004",
-      "img": "http://www.kjdaily.com/upimages/gisaimg/202609/11-686574.jpg"
+      "title": "IT 임금 뛰면, 7개월 뒤 서비스 물가 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550625?sid=101",
+      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
     },
     {
       "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "美 방산 스타트업 '코버넌트', 내년 사거리 2000㎞ 순항미사일 양산… 토...",
-      "url": "https://www.newspim.com/news/view/20260910001206",
-      "img": "https://img.newspim.com/news/2026/09/10/2609101949114990_t1.jpg"
+      "title": "보스턴 다이내믹스 출신 다이나믹 크리처스, 중국산 하드웨어로 안기는...",
+      "url": "https://www.wikitree.co.kr/articles/1158743",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/11/202609110111515909_ai.jpeg"
     },
     {
-      "title": "[주식마감] '자사주 30% 소각'에 샘표·샘표식품 상한가... 원익피앤이,...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181093",
-      "img": "https://cdn.ggilbo.com/news/photo/202609/1181093_1033542_3851.jpg"
+      "title": "문서 자동화 넘어 공장 판단까지…포티투마루, 디스플레이 AX 해법 제시",
+      "url": "https://www.venturesquare.net/1112436/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/42maru.jpg"
     }
   ]
 };
