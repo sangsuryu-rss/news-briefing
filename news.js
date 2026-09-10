@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.11 (금) 01:26",
+  "updatedAt": "2026.09.11 (금) 05:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "IT 임금 뛰면, 7개월 뒤 서비스 물가 올랐다",
-          "desc": "지난달 한은 분석에 따르면, 반도체 종사자 거주 비중이 높은 이천·화성·청주에선 삼성전자·SK하이닉스 성과급이 지급된 지난해 1월 이후 고가재량소비재(자동차·가전·가구·백화점 등) 월별 소비가 다른 지역보다...",
-          "src": "중앙일보",
+          "title": "[사설]부동산거래 냉각, 세금·규제 후유증인가",
+          "desc": "가전·가구 등 내구재의 수요가 줄면 내수 전반의 위축으로도 이어질 수 있다. 문제는 삼성전자, SK하이닉스같은 일부 반도체기업의 성과급과 사내대출 확대로 소득 증가가 두드러진 급여생활자들의 특정 지역 주택 매입...",
+          "src": "머니투데이",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/025/0003550625?sid=101",
-          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005412294?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=688,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091015301930879_1.jpg"
         },
         {
           "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "보스턴 다이내믹스 출신 다이나믹 크리처스, 중국산 하드웨어로 안기는...",
-          "desc": "다만 구체적인 파트너 이름과 어느 지점에 언제 도입되는지는 공개하지 않았다. 로봇은 운영사가... 보스턴 다이내믹스와의 파트너십을 우선 활용하지만 필요하면 다른 기술 기반도 쓸 수 있다는 게 회사 설명이다....",
-          "src": "wikitree",
+          "title": "[패트롤] 군포시의회-부천시의회-안산시의회-하남시의회",
+          "desc": "남부기술교육원 이전 부지 활용 등 주요 도시 현안을 집중 점검했다. 대야지하차도와 금정고가교 등 시민... 위해 도입된 획일적인 대출 규제가 오히려 실수요자의 정상적인 주택 거래마저 가로막고 있어 대책 마련이...",
+          "src": "ekn",
           "date": "09/11",
-          "url": "https://www.wikitree.co.kr/articles/1158743",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/11/202609110111515909_ai.jpeg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260911020543339",
+          "img": ""
         },
         {
-          "title": "문서 자동화 넘어 공장 판단까지…포티투마루, 디스플레이 AX 해법 제시",
-          "desc": "에이전틱 AI로 이어지는 기술 변화를 설명한 뒤 제조 분야의 활용 사례를 소개했다.... 도입 방안으로는 제조 분야에 맞춘 경량 언어모델(sLLM)과 기업 내부 데이터를...",
-          "src": "venturesquare",
+          "title": "[박태용의 뮤직인사이트]⑤ AI가 만든 음악의 권리는 누구에게 있는가?",
+          "desc": "따라서 음악 레이블은 AI 솔루션을 도입할 때 단순한 생성 음질이나 연산 속도만을 따질 것이 아니라, 학습... 음악산업이 스스로에게 던져야 할 핵심 질문 역시 “우리가 AI 기술을 활용했는가”라는 단순한 도구적 채택...",
+          "src": "isplus",
           "date": "09/11",
-          "url": "https://www.venturesquare.net/1112436/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/42maru.jpg"
+          "url": "https://m.entertain.naver.com/article/241/0003530228",
+          "img": "https://isplus.com/data/isp/image/2026/09/10/isp20260910000270.800x.0.png"
         },
         {
-          "title": "[중국 특징주] A주 사료업체, AI로 비용 절감·효율성 경쟁",
-          "desc": "SZ)도 'AI+대농업' 프로젝트를 통해 AI 도입을 확대하고 있다. 월해사료의 정스쉬안(鄭石軒) 회장 겸 총재는 규모화·표준화·지능화가 업계 전환의 필연적인 추세라며, AI 기술을 활용해 사료 연구개발과 양식 관리...",
-          "src": "뉴스핌",
+          "title": "지지율 30%대 트럼프, ‘1인당 5000달러’ 승부수 던져[글로벌 모닝 브리...",
+          "desc": "직접 AI 도입을 시도하는 상징적인 사례로 주목받고 있습니다. 9일(현지 시간) 미국 매체 디인포메이션에 따르면 자신이 설립한 기술 투자 회사 원더코를 이끌고 있는 캐천버그는 오픈AI의 영상 생성 AI ‘소라’를...",
+          "src": "서울경제",
           "date": "09/11",
-          "url": "https://www.newspim.com/news/view/20260911000009",
-          "img": "https://img.newspim.com/news/2026/09/11/2609111215258320_116_tc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004660742?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/10/news-p.v1.20260910.1cbc03ec79994b70956ed7821795d164_Z1.jpg"
         },
         {
-          "title": "[기고] 오픈AI 코리아 1년, AI가 여는 더 큰 가능성",
-          "desc": "새로운 기술의 진정한 가능성은 도입 순간보다 일하는 방식을 바꾸기 시작할 때 드러난다. 1883년께 공장에... AI를 가장 깊게 활용하는 상위 10% 기업과 일반적인 활용 수준의 기업 사이에서 활성 사용자당 AI 산출량 격차는...",
-          "src": "한국경제",
+          "title": "가난했던 신문 배달소년…구마모토 ‘반도체 왕국’ 세운 비결",
+          "desc": "회의에서 “역경일수록 반도체 같은 최첨단 기술을 활용해 구마모토를 발전시키자”는 의견이 나왔다.... 그가 2010년에 도입한 구마모토 홍보용 캐릭터 ‘구마몬(くまモン)’은 국내외서 큰 사랑을 받아, 관련 상품...",
+          "src": "중앙일보",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331153?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/025/0003550674?sid=104",
+          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "IT 임금 뛰면, 7개월 뒤 서비스 물가 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550625?sid=101",
-      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+      "title": "[사설]부동산거래 냉각, 세금·규제 후유증인가",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412294?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=688,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091015301930879_1.jpg"
     },
     {
       "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "보스턴 다이내믹스 출신 다이나믹 크리처스, 중국산 하드웨어로 안기는...",
-      "url": "https://www.wikitree.co.kr/articles/1158743",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/11/202609110111515909_ai.jpeg"
+      "title": "[박태용의 뮤직인사이트]⑤ AI가 만든 음악의 권리는 누구에게 있는가?",
+      "url": "https://m.entertain.naver.com/article/241/0003530228",
+      "img": "https://isplus.com/data/isp/image/2026/09/10/isp20260910000270.800x.0.png"
     },
     {
-      "title": "문서 자동화 넘어 공장 판단까지…포티투마루, 디스플레이 AX 해법 제시",
-      "url": "https://www.venturesquare.net/1112436/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/42maru.jpg"
+      "title": "지지율 30%대 트럼프, ‘1인당 5000달러’ 승부수 던져[글로벌 모닝 브리...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660742?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/10/news-p.v1.20260910.1cbc03ec79994b70956ed7821795d164_Z1.jpg"
     }
   ]
 };
