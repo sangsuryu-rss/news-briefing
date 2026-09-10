@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.10 (목) 05:58",
+  "updatedAt": "2026.09.10 (목) 09:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“이젠 고르는 게 일, 버튼만 누르니 1분 만에 도면 100개 쏟아내”",
-          "desc": "탄탄한 기술력을 바탕으로 현대자동차, 삼성전자 등 4~5곳의 대기업과 기술 검증을 마쳤다. 2023년... 아이디어오션은 창업 직후 대략적인 콘셉트만 설정한 상태로 국제가전박람회(CES)에 무작정 지원했다. 김 대표와...",
-          "src": "조선일보",
+          "title": "반도체·외국인 '쌍끌이'… 코스피, 7000선 안착 시도",
+          "desc": "IT가전과 화학, 기계 등 AI 인프라 관련 업종으로 확산된 데다 개인이 이달 1일부터 9일까지 15조1000억원을 순매도하는 동안 외국인은 순매수로 전환하는 등 수급 여건도 개선되고 있어서다. 삼성전자와...",
+          "src": "the-biz",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/023/0003997637?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/TVENW3GM35DRVP5CDTGM6XTLSU.JPG?auth=3877f05554c90976e8f34abe95fe6e752e1e715b8ffa316fa4773397b0a8f956&width=1200&height=630&smart=true"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727632",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727632_932886_1110.jpeg"
         },
         {
           "title": "‘반지의 제왕’ 자리 쟁탈전",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
         },
         {
-          "title": "AI·로봇이 알아서… \"이제, 집안일 해방\"",
-          "desc": "세탁기는 빨래의 오염정도와 필요한 세제량, 운전방식 등을 AI로 최적화해 에너지 사용량을 줄인다. 삼성전자 관계자는 \"사람이 전자제품에 생활방식을 맞추던 것에서 벗어나 제품이 사람의 일상에 맞춰지는 방향으로...",
-          "src": "머니투데이",
+          "title": "삼성전자서비스, '현금 없는 센터' 16곳 시범 운영…친환경·고객만족 잡...",
+          "desc": "높은 부품비를 낮춰 소비자의 부담을 경감하기 위해 리퍼 부품 사용도 추진했다. 삼성전자서비스는 에어컨·세탁기 회로 기판(PBA), 청소기 센서, 에어드레서 스팀분사장치 등 다양한 제품과 품목에서 리퍼 부품을 제공했다.",
+          "src": "financialpost",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/008/0005411729?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090919492354473_1.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274867",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274867_359265_5515_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "美 첫 수입 전면 금지…韓에도 ‘관세 압박’ 쓰일까 [글로벌 모닝 브리...",
-          "desc": "수단이 활용될 수 있다는 관측이 나옵니다. 이런 가운데 여론은 트럼프 대통령에게 불리하게 움직이고... 인공지능(AI)발 반도체 수요 확대에 힘입어 인텔은 가격 인상을 이어가고 있고, 차세대 노광 기술에서도...",
-          "src": "서울경제",
+          "title": "람다256, 블록체인 노드 운영 신입 개발자 채용 설명회 개최",
+          "desc": "아우르는 기술 체계를 구축하고 있다. 노드 운영 조직은 이 가운데 블록체인 네트워크와 서비스를 안정적으로 연결하는 인프라 구축과 운영을 담당한다. 정의정 람다256 대표이사는 \"금융기관의 디지털 자산 도입이...",
+          "src": "tokenpost",
           "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/011/0004660320?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.1317ab170aeb413a8351c62233c95ffa_Z1.jpg"
+          "url": "https://www.tokenpost.kr/news/blockchain/405463",
+          "img": "https://f1.tokenpost.kr/2026/09/8ksite5y4u.jpg"
         },
         {
-          "title": "한독 디지털헬스케어, 수면제 넘어 '수면 관리'",
-          "desc": "﻿﻿﻿﻿﻿ 한독이 수면 치료제 시장에서 쌓은 경험에 디지털 기술을 결합해 수면 사업을 확장한다.... 케어콜과 알림을 통해 이용 상황을 확인하고, AI를 활용한 소통 기능으로 치료 편의성을 높인다는 구상이다. 김 전무는...",
-          "src": "dailymedi",
+          "title": "중기부, 단국대서 창업 현장소통…선발 2배 확대·보육기관 170여 곳",
+          "desc": "세부적으로는 일반·기술 트랙 8000명, 지역 자원을 활용하는 로컬 트랙 2000명을 선발한다. 중기부는 전체... 모델을 도입했다. 창업활동자금 사용처도 온라인 결제대행 업종까지 넓히고 AI·과학기술 분야 전문가가...",
+          "src": "idsn",
           "date": "09/10",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940357",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "https://idsn.co.kr/news/view/1065571957104850",
+          "img": "https://idsn.co.kr/news/data/20260910/p1065571957104850_115_thum.jpg"
         },
         {
-          "title": "美 진출 의료AI 업체, FDA 허가 이어 '보험보상'",
-          "desc": "인공지능(AI) 기업들의 미국 시장 경쟁이 식품의약국(FDA) 인허가를 넘어 ‘보험보상’으로 확장되고 있다. FDA 허가만으로는 실제 의료기관 도입과 매출을 담보하기 어려운 만큼 CPT와 신기술 추가지불보상제도...",
-          "src": "dailymedi",
+          "title": "벤츠 코리아, 국내 4개 스타트업과 미래 모빌리티 기술 검증",
+          "desc": "처음 도입돼 올해로 7회째를 맞았다. 올해 최종 선정된 기업은 ▷코그콤 ▷원더스랩 ▷나노미라클... 특히, 올해는 AI를 활용한 업무 효율화뿐 아니라 차량 개발·검증, 자율주행, 차세대 전기차 충전 기술까지 협업...",
+          "src": "헤럴드경제",
           "date": "09/10",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940208",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002695251?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/10/news-p.v1.20260910.2c346c2f749243cca68be19a541a9488_T1.jpg"
         },
         {
-          "title": "한국공학대, 'AX실증산단 오픈랩' 기반 반월·시화 제조기업 실증지원 ...",
-          "desc": "특화 AI 모델 설계를 패키지로 지원한다. 이를 통해 기업의 초기 설비투자 비용 부담을 덜고 기술 도입... 강화해 원천 기술 개발부터 양산 라인 배치까지 밀착 지원하는 산학협력 거점으로 활용도를 극대화할 계획이다.",
-          "src": "cstimes",
+          "title": "벤츠코리아, 국내 스타트업 4곳과 AI·자율주행·무선충전 기술 검증",
+          "desc": "코그콤은 AI 기반 차량 테스트 이슈 관리 기술을 검증한다. 원더스랩은 AI를 활용한 업무 지식 관리... 국내에는 2020년 도입됐으며 올해 7회째다. 벤츠 코리아는 지금까지 국내 스타트업 58곳을 대상으로 기술 검증과...",
+          "src": "shinailbo",
           "date": "09/10",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=720059",
-          "img": "https://www.cstimes.com/news/photo/202609/720059_640842_280.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060706",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5060706_2058479_1047.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“이젠 고르는 게 일, 버튼만 누르니 1분 만에 도면 100개 쏟아내”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997637?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/TVENW3GM35DRVP5CDTGM6XTLSU.JPG?auth=3877f05554c90976e8f34abe95fe6e752e1e715b8ffa316fa4773397b0a8f956&width=1200&height=630&smart=true"
+      "title": "반도체·외국인 '쌍끌이'… 코스피, 7000선 안착 시도",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727632",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202609/727632_932886_1110.jpeg"
     },
     {
       "title": "‘반지의 제왕’ 자리 쟁탈전",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/09/20260909514760.jpg"
     },
     {
-      "title": "AI·로봇이 알아서… \"이제, 집안일 해방\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005411729?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090919492354473_1.jpg"
+      "title": "삼성전자서비스, '현금 없는 센터' 16곳 시범 운영…친환경·고객만족 잡...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274867",
+      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/274867_359265_5515_v150.jpg"
     },
     {
-      "title": "美 첫 수입 전면 금지…韓에도 ‘관세 압박’ 쓰일까 [글로벌 모닝 브리...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660320?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.1317ab170aeb413a8351c62233c95ffa_Z1.jpg"
+      "title": "람다256, 블록체인 노드 운영 신입 개발자 채용 설명회 개최",
+      "url": "https://www.tokenpost.kr/news/blockchain/405463",
+      "img": "https://f1.tokenpost.kr/2026/09/8ksite5y4u.jpg"
     },
     {
-      "title": "한독 디지털헬스케어, 수면제 넘어 '수면 관리'",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940357",
-      "img": "https://www.dailymedi.com/img/d_logo.jpg"
+      "title": "중기부, 단국대서 창업 현장소통…선발 2배 확대·보육기관 170여 곳",
+      "url": "https://idsn.co.kr/news/view/1065571957104850",
+      "img": "https://idsn.co.kr/news/data/20260910/p1065571957104850_115_thum.jpg"
     }
   ]
 };
