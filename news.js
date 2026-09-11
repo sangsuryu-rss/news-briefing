@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.11 (금) 20:25",
+  "updatedAt": "2026.09.12 (토) 01:31",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
-          "desc": "삼성전자는 반도체, 스마트폰, 가전, 디스플레이 등 다양한 사업을 영위하고 있다. 만약 삼성전자가 분할을 통해 반도체 사업을 떼어낸다면, 존속회사에는 스마트폰, 가전, 디스플레이 사업만 남게 되고 반도체 사업은...",
-          "src": "kookje",
+          "title": "[똑똑한소비] SSG닷컴, 11번가, 아이파크몰, 홈플러스익스프레스",
+          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 각각 저렴하게 판매한다. 브랜드별 최대 15% 상품쿠폰도 제공한다. 14~16일까지 신세계몰·신세계백화점몰 상품에 사용 가능한 7%·12% 상품할인쿠폰도...",
+          "src": "ekn",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?45"
+          "url": "https://www.ekn.kr/web/view.php?key=20260911026383791",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260911.b7a6e07f7f464e00957a1b189098739c_R.jpg"
         },
         {
           "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
         },
         {
-          "title": "전기안전공사, 농촌 전기·가전 안전사고 예방 나서",
-          "desc": "가전제품 사업자정례협의체에는 ▲교원프라퍼티 ▲삼성전자 ▲세라젬 ▲SK인텔릭스 ▲LG전자 ▲오텍캐리어 ▲쿠첸 ▲쿠쿠전자 ▲휴롬 ▲한국전자정보통신산업진흥회가 참여하고 있다. 남화영 공사 사장은 \"누구에게나...",
-          "src": "ikld",
+          "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
+          "desc": "삼성전자는 반도체, 스마트폰, 가전, 디스플레이 등 다양한 사업을 영위하고 있다. 만약 삼성전자가 분할을 통해 반도체 사업을 떼어낸다면, 존속회사에는 스마트폰, 가전, 디스플레이 사업만 남게 되고 반도체 사업은...",
+          "src": "kookje",
           "date": "09/11",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=340527",
-          "img": "http://www.ikld.kr/news/thumbnail/202609/340527_187477_515_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?34"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LG AI연구원, 국민연금과 ‘기금운용 특화 AI’ 개발",
-          "desc": "AI의 기술력은 이미 다수의 글로벌 투자자들에게 인정받은 바 있다”며 “공공부문 AI 활용을 선도하는... 국민연금공단은 투자 리서치와 의사결정 과정에 AI를 도입해 투자 판단의 전문성과 효율성을 높이고 장기...",
-          "src": "socialvalue",
-          "date": "09/11",
-          "url": "https://www.socialvalue.kr/news/view/1065600845461528",
-          "img": "http://www.socialvalue.kr/news/data/20260911/p1065600845461528_917_thum.jpeg"
+          "title": "AI 시대, 공공행정의 변화",
+          "desc": "시스템을 도입하는 데 그치지 않고, 기관 곳곳에 축적된 지식과 데이터를 업무에 활용할 수 있는 기반을 갖추는 일이다. JDC의 AX는 기술 자체를 목표로 하지 않는다. 개발사업과 면세점 등 주요 사업 현장에 AI와 데이터를...",
+          "src": "고코리아",
+          "date": "09/12",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=875732",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/875732_155340_2844_v150.jpg"
         },
         {
-          "title": "아이티엔제이, WAVE 2026서 AI 표면 검사 솔루션 'BigBrain I'... \"기술력...",
-          "desc": "불필요한 유지보수 부담을 줄이고 안정적인 운영이 가능하도록 구성돼, 현장 도입 이후에도 지속적인... 아이티엔제이는 WAVE 2026 참가를 통해 AI 비전 검사 기술과 스마트팩토리 솔루션의 활용 가능성을 알릴...",
-          "src": "kr",
-          "date": "09/11",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814252",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814252_779814_823.jpg"
+          "title": "LG CNS, 하반기 세 자릿수 신입 채용… 필기시험에 '생성형 AI 평가' 첫 ...",
+          "desc": "필기전형에서는 인·적성검사와 더불어 최신 기술 및 산업 동향에 대한 이해도, 생성형 AI 활용 능력을 평가하는 'CNS 특화검사'가 새롭게 도입됐다. 직무에 따라 코딩형과 기획형으로 나눠 생성형 AI 활용 역량을...",
+          "src": "cbci",
+          "date": "09/12",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=605948",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202609/605948_415829_3839_v150.jpg"
         },
         {
-          "title": "비자, 소비자 신뢰가 에이전틱 커머스 도입 가속화",
-          "desc": "도입을 촉진하는 핵심 기반이 될 것이다. 소비자들은 자신을 대신해 쇼핑하도록 AI 에이전트를 활용하면서... 비자의 조사는 결제, 기술, 소셜미디어를 포함한 여러 분야를 대상으로 진행됐으며, 설문 응답자들...",
-          "src": "AI타임스",
-          "date": "09/11",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41881",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41881_63007_98_v150.jpg"
+          "title": "[위클립] 9월 2주",
+          "desc": "이 과정에서 상담노동자들의 업무·조직 통합과 AI 도입이 예고되고 있어, 공공운수노조... 수단으로 활용되고 있지는 않은지 (서울지방고용노동청이) 철저히 조사해야 한다\"고 함 □ 과기연구노조, '과학기술인이 존중받는...",
+          "src": "laborplus",
+          "date": "09/12",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41470",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202609/41470_73934_5452.jpg"
         },
         {
-          "title": "인천시, AI 재난대응으로 전국 지역정보화 우수사례 입증",
-          "desc": "/ 인천시 인천시가 인공지능(AI)과 디지털 기술을 활용한 재난 대응 시스템으로 전국 지방자치단체 가운데... 신승열 인천시 기획조정실장은 \"재난·안전 분야에 AI 기술을 선제적으로 도입해 시민의 생명과 안전을...",
-          "src": "newstown",
-          "date": "09/11",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715564",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202609/715564_670777_2828_v150.jpg"
+          "title": "부산시, 대한민국 지식대상 국무총리상…디지털 트윈 혁신 '성과'",
+          "desc": "수집된 데이터는 살수차 운행경로 설정과 미세먼지 저감사업 등에 활용된다. 또한 분산된 행정지식을... 첨단기술을 행정에 접목해 시민 안전을 위한 정책으로 연결한 성과\"라며 \"앞으로도 AI 대전환을 통해 시민이...",
+          "src": "CNB뉴스",
+          "date": "09/12",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1015516",
+          "img": "https://cdn.cnbnews.com/news/photo/202609/1015516_517177_1789124158.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
-      "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?45"
+      "title": "[똑똑한소비] SSG닷컴, 11번가, 아이파크몰, 홈플러스익스프레스",
+      "url": "https://www.ekn.kr/web/view.php?key=20260911026383791",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260911.b7a6e07f7f464e00957a1b189098739c_R.jpg"
     },
     {
       "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
     },
     {
-      "title": "전기안전공사, 농촌 전기·가전 안전사고 예방 나서",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=340527",
-      "img": "http://www.ikld.kr/news/thumbnail/202609/340527_187477_515_v150.jpg"
+      "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
+      "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?34"
     },
     {
-      "title": "LG AI연구원, 국민연금과 ‘기금운용 특화 AI’ 개발",
-      "url": "https://www.socialvalue.kr/news/view/1065600845461528",
-      "img": "http://www.socialvalue.kr/news/data/20260911/p1065600845461528_917_thum.jpeg"
+      "title": "AI 시대, 공공행정의 변화",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=875732",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202609/875732_155340_2844_v150.jpg"
     },
     {
-      "title": "아이티엔제이, WAVE 2026서 AI 표면 검사 솔루션 'BigBrain I'... \"기술력...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1814252",
-      "img": "https://cdn.kr.aving.net/news/photo/202609/1814252_779814_823.jpg"
+      "title": "LG CNS, 하반기 세 자릿수 신입 채용… 필기시험에 '생성형 AI 평가' 첫 ...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=605948",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202609/605948_415829_3839_v150.jpg"
     },
     {
-      "title": "비자, 소비자 신뢰가 에이전틱 커머스 도입 가속화",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41881",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41881_63007_98_v150.jpg"
+      "title": "[위클립] 9월 2주",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41470",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202609/41470_73934_5452.jpg"
     }
   ]
 };
