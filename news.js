@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.11 (금) 13:45",
+  "updatedAt": "2026.09.11 (금) 20:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "SSG닷컴, 'FW 슈퍼위크' 개최…인기상품 최대 60% 할인",
-          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 할인하며 브랜드별 최대 15% 상품쿠폰도 제공한다. 오는 14~16일 신세계몰·신세계백화점몰 상품에 사용할 수 있는 7%·12% 상품할인쿠폰을 제공한다....",
-          "src": "slist",
+          "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
+          "desc": "삼성전자는 반도체, 스마트폰, 가전, 디스플레이 등 다양한 사업을 영위하고 있다. 만약 삼성전자가 분할을 통해 반도체 사업을 떼어낸다면, 존속회사에는 스마트폰, 가전, 디스플레이 사업만 남게 되고 반도체 사업은...",
+          "src": "kookje",
           "date": "09/11",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=765480",
-          "img": "https://cdn.slist.kr/news/thumbnail/202609/765480_1171832_3812_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?45"
         },
         {
           "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "삼성전자 반도체, 하루 33만톤 하수 재이용…\"물, 다시 쓴다\"",
-          "desc": "삼성전자 반도체가 '대한민국 국제물주간(KIWW) 2026'에 참가해 반도체 산업의 지속가능한 수자원 관리... 폐지·철판·세탁기 드럼·트레이 등 순환자원 인정 추진 대상 20개 품목을 선제적으로 발굴했다. 이후 인정...",
-          "src": "econovill",
+          "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
+          "desc": "반면, 삼성전자와 LG전자 같은 전통 가전 제조사들은 냉장고, 세탁기, 에어컨, TV 등 집안 곳곳을 점유하고 있는 강력한 하드웨어 폼팩터 주도권을 확보하고 있다. 특히, 가전 내부에서 직접 데이터를 처리하는...",
+          "src": "kfenews",
           "date": "09/11",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=750568",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/750568_726130_2826_v150.jpg"
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
         },
         {
-          "title": "소비자원, 충북 농촌마을 가전제품 안전점검…노후 멀티탭 교체",
-          "desc": "가전제품 사업자정례협의체에는 교원프라퍼티와 삼성전자, 세라젬, SK인텔릭스, LG전자, 오텍캐리어, 쿠첸, 쿠쿠전자, 휴롬, 한국전자정보통신산업진흥회가 참여하고 있다. 참여 기관들은 마을 경로당과 고령자 가정을...",
-          "src": "뉴스1",
+          "title": "전기안전공사, 농촌 전기·가전 안전사고 예방 나서",
+          "desc": "가전제품 사업자정례협의체에는 ▲교원프라퍼티 ▲삼성전자 ▲세라젬 ▲SK인텔릭스 ▲LG전자 ▲오텍캐리어 ▲쿠첸 ▲쿠쿠전자 ▲휴롬 ▲한국전자정보통신산업진흥회가 참여하고 있다. 남화영 공사 사장은 \"누구에게나...",
+          "src": "ikld",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/421/0009165079?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/11/8101273/high.jpg"
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=340527",
+          "img": "http://www.ikld.kr/news/thumbnail/202609/340527_187477_515_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "비트코인 양자 공격 자원 추정치 86.1% 줄어",
-          "desc": "있는 기술적 변화다. 크립토폴리탄은 11일 100명 넘는 연구자들이 인공지능(AI) 코딩 에이전트를 활용해 쇼어... 일부 주체만 새 서명 체계를 도입하면 거래 호환성과 자산 이동 과정에서 새로운 문제가 생길 수 있다. 특히...",
-          "src": "tokenpost",
+          "title": "LG AI연구원, 국민연금과 ‘기금운용 특화 AI’ 개발",
+          "desc": "AI의 기술력은 이미 다수의 글로벌 투자자들에게 인정받은 바 있다”며 “공공부문 AI 활용을 선도하는... 국민연금공단은 투자 리서치와 의사결정 과정에 AI를 도입해 투자 판단의 전문성과 효율성을 높이고 장기...",
+          "src": "socialvalue",
           "date": "09/11",
-          "url": "https://www.tokenpost.kr/news/blockchain/406264",
-          "img": "https://f1.tokenpost.kr/2026/09/enp25zdtn4.jpg"
+          "url": "https://www.socialvalue.kr/news/view/1065600845461528",
+          "img": "http://www.socialvalue.kr/news/data/20260911/p1065600845461528_917_thum.jpeg"
         },
         {
-          "title": "해킹도 AI로 고도화…엑스게이트·샌즈랩·드림시큐리티 주가 '불기둥'",
-          "desc": "여기에 글로벌 기업과의 협력 소식, 제로트러스트 보안 체계 도입 확대 등이 더해지면서 종목별 상승폭이... 업계 관계자는 \"AI 활용이 늘면서 공격과 방어 기술이 함께 고도화되는 만큼 기업들의 정보보호 투자 필요성은...",
-          "src": "핀포인트뉴스",
+          "title": "아이티엔제이, WAVE 2026서 AI 표면 검사 솔루션 'BigBrain I'... \"기술력...",
+          "desc": "불필요한 유지보수 부담을 줄이고 안정적인 운영이 가능하도록 구성돼, 현장 도입 이후에도 지속적인... 아이티엔제이는 WAVE 2026 참가를 통해 AI 비전 검사 기술과 스마트팩토리 솔루션의 활용 가능성을 알릴...",
+          "src": "kr",
           "date": "09/11",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486161",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486161_472427_3535_v150.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1814252",
+          "img": "https://cdn.kr.aving.net/news/photo/202609/1814252_779814_823.jpg"
         },
         {
-          "title": "[민주 라이프] 바인그룹·신라스테이·트리니티항공",
-          "desc": "이번 강연은 AI가 기업 현장에 확산하는 가운데 기술 활용을 넘어 구성원의 신뢰와 협력을 이끄는 리더십의 중요성을 공유하기 위해 마련됐다. 강연에서는 AX를 단순한 AI 기술 도입이 아닌 조직과 사람의 일하는...",
-          "src": "iminju",
+          "title": "비자, 소비자 신뢰가 에이전틱 커머스 도입 가속화",
+          "desc": "도입을 촉진하는 핵심 기반이 될 것이다. 소비자들은 자신을 대신해 쇼핑하도록 AI 에이전트를 활용하면서... 비자의 조사는 결제, 기술, 소셜미디어를 포함한 여러 분야를 대상으로 진행됐으며, 설문 응답자들...",
+          "src": "AI타임스",
           "date": "09/11",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=169409",
-          "img": "https://cdn.iminju.net/news/thumbnail/202609/169409_179426_3635_v150.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41881",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41881_63007_98_v150.jpg"
         },
         {
-          "title": "한글 방어막 허무는 AI 해킹…“AI 공격은 AI로 막아야”[제 27회 세계지...",
-          "desc": "AI를 활용한 공격이 사람의 대응 속도를 뛰어넘고 있는 만큼, 기업들도 AI를 활용해 공격에 신속하게 대응할... 콕스웰 부사장은 “AI 도입 전에는 약 1만개의 취약점을 찾는 데 7년이 걸렸지만 이번에는 두 달이 걸렸다”고...",
-          "src": "매일경제",
+          "title": "인천시, AI 재난대응으로 전국 지역정보화 우수사례 입증",
+          "desc": "/ 인천시 인천시가 인공지능(AI)과 디지털 기술을 활용한 재난 대응 시스템으로 전국 지방자치단체 가운데... 신승열 인천시 기획조정실장은 \"재난·안전 분야에 AI 기술을 선제적으로 도입해 시민의 생명과 안전을...",
+          "src": "newstown",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/009/0005733863?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260909.33af23b4c54e405baa766443721d79ae_R.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715564",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202609/715564_670777_2828_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "반도체 ‘키다리 아저씨’ 삼성전자…공공 팹 기술력 끌어올렸다",
-          "desc": "이번 컨설팅은 삼성전자가 그동안 반도체 소재·부품·장비(소부장) 협력사를 대상으로 추진해 온 ‘소부장 눈높이 컨설팅’의 제조혁신 경험과 노하우를 공공 나노 팹의 특성에 맞게 적용해 진행했다. NINT는...",
-          "src": "munhwa",
+          "title": "추석 수조 원대 '상생 단비' 내린다… 대·중·소 상생으로 '자금맥경화...",
+          "desc": "이번 결정에 따라 현대차그룹에 부품 및 원자재·소모품 등을 납품하는 6000여 개 협력업체의 자금 숨통을... 2·3차 협력사에도 추석 전 자금 유동성을 확보할 수 있도록 유도했다. 삼성그룹은 이미 지난 6월부터...",
+          "src": "nbntv",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818149?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/09/11/news-p.v1.20260911.6cd27cddddcc4ca59103d105805e1454_R.jpg"
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024786",
+          "img": "https://cdn.nbntv.co.kr/news/photo/202609/4024786_299126_3424.png"
         },
         {
-          "title": "삼성전자 노하우 접목한 공공나노팹…“혁신 모델 전국 확산”",
-          "desc": "삼성전자가 그동안 반도체 소재·부품·장비 협력사를 대상으로 진행해 온 ‘소부장 눈높이 컨설팅’의 제조 혁신 경험과 노하우를 공공나노팹 특성에 맞게 적용했다. 나노융합기술원은 삼성전자의 현장 개선 방법론을...",
-          "src": "서울경제",
+          "title": "삼성전자 팹 운영 노하우, 공공기관 14곳 확산…반도체 생태계 강화",
+          "desc": "지현기 삼성전자 상생협력센터장(부사장)은 \"공공나노팹은 국내 소부장 기업이 새로운 기술과 제품을 개발하고 검증하는 K-반도체 생태계의 핵심 기반\"이라며 \"협력사 컨설팅을 통해 축적한 제조혁신 노하우를...",
+          "src": "whitepaper",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/011/0004660878?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/11/news-p.v1.20260911.522e66eeb61b456f875e17ca8965d790_Z1.jpg"
+          "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266724",
+          "img": "http://www.whitepaper.co.kr/news/thumbnail/202609/266724_199889_5320_v150.jpg"
         },
         {
-          "title": "삼성 '반도체 팹 노하우' 공공나노팹에 이식…전국 확대",
-          "desc": "특히 삼성전자가 그동안 반도체 소재·부품·장비(소부장) 협력사를 대상으로 진행해 온 '소부장 눈높이 컨설팅'의 제조혁신 경험과 방법론을 공공나노팹 특성에 맞게 적용했다. 컨설팅은 안전환경과 현장관리...",
-          "src": "뉴스1",
+          "title": "과기정통부, 삼성전자 노하우 접목해 공공나노팹 운영 경쟁력 높여",
+          "desc": "이번 컨설팅은 삼성전자가 반도체 소재·부품·장비 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'의 제조혁신 경험과 노하우를 공공나노팹의 특성에 맞게 적용해 진행했다. 나노융합기술원은 이런 삼성전자의...",
+          "src": "아주경제",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/421/0009165067?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2019/8/29/3798962/high.jpg"
+          "url": "https://www.ajunews.com/view/20260911112529953",
+          "img": "https://image.ajunews.com/content/image/2026/09/11/20260911112939568498.jpg"
         },
         {
-          "title": "'韓 반도체 생태계 키운다'…삼성전자, 포스텍에 반도체 팹 노하우 전수",
-          "desc": "삼성전자는 수십 년간 반도체 제조 현장에서 쌓아온 노하우를 바탕으로, ▲안전환경 ▲현장관리 ▲설비가동 ▲설비운영 등 현장에 필요한 개선안을 발굴했다. 그동안 반도체 소재·부품·장비(소부장) 협력사를...",
-          "src": "view",
+          "title": "삼성 팹 운영 노하우, 공공나노팹 14곳으로 확산",
+          "desc": "이번 사업은 삼성전자가 소재·부품·장비(소부장) 협력사를 대상으로 운영해 온 '소부장 눈높이 컨설팅'을 공공 연구 인프라에 적용한 사례다. 개별 협력사에서 중소기업과 연구기관이 공동으로 활용하는 공공팹으로...",
+          "src": "IT데일리",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/277/0005815156?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2022110808093198182_1667862571.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241554",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241554_247306_1750_v150.jpg"
         }
       ]
     },
@@ -140,6 +140,14 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
+          "desc": "원천 재료 배합과 세라믹 칩 제조 역량을 바탕으로 ▲온도 센서 ▲전장용 와이어링 하네스 ▲전압·온도 복합 감지 모듈 ▲박막형 필름히터(Film Heater) 등으로 제품군을 단계적으로 확장해 왔다. 이러한 소자 제조...",
+          "src": "digitalchosun",
+          "date": "09/11",
+          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180166.html",
+          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
+        },
         {
           "title": "[유라그룹 줌인]③ ㈜유라, 계열사 매출 1.3조원…지분·공급망 정점",
           "desc": "유라코퍼레이션과 유라하네스는 자동차 전장 부품 사업을 영위한다. 유라하네스는 와이어링 하네스를 주로 제조한다. 와이어링 하네스는 자동차 각 부분의 전자장치를 연결하는 전선을 묶은 전선망이다....",
@@ -163,48 +171,40 @@ window.NEWS_DATA = {
           "date": "08/11",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
-        },
-        {
-          "title": "[생생 모빌리티] 자동차 '신경망' 전기 배선, 구리 가고 알루미늄 시대...",
-          "desc": "김 교수는 \"전기차 시대가 다가오고 차를 가볍게 만드는 흐름이 이어지면서, 와이어링 하네스 같은 전장 부품과 소재도 가격을 따지되 품질을 확보하는 방향으로 계속 개발·개선되고 있다\"며 \"전기전도도 같은 소재...",
-          "src": "livebiz",
-          "date": "07/09",
-          "url": "https://www.livebiz.today/news/articleView.html?idxno=203185",
-          "img": "https://cdn.livebiz.today/news/photo/202607/203185_204215_2938.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "SSG닷컴, 'FW 슈퍼위크' 개최…인기상품 최대 60% 할인",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=765480",
-      "img": "https://cdn.slist.kr/news/thumbnail/202609/765480_1171832_3812_v150.jpg"
+      "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
+      "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?45"
     },
     {
-      "title": "삼성전자 반도체, 하루 33만톤 하수 재이용…\"물, 다시 쓴다\"",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=750568",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/750568_726130_2826_v150.jpg"
+      "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
+      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
     },
     {
-      "title": "소비자원, 충북 농촌마을 가전제품 안전점검…노후 멀티탭 교체",
-      "url": "https://n.news.naver.com/mnews/article/421/0009165079?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/9/11/8101273/high.jpg"
+      "title": "전기안전공사, 농촌 전기·가전 안전사고 예방 나서",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=340527",
+      "img": "http://www.ikld.kr/news/thumbnail/202609/340527_187477_515_v150.jpg"
     },
     {
-      "title": "비트코인 양자 공격 자원 추정치 86.1% 줄어",
-      "url": "https://www.tokenpost.kr/news/blockchain/406264",
-      "img": "https://f1.tokenpost.kr/2026/09/enp25zdtn4.jpg"
+      "title": "LG AI연구원, 국민연금과 ‘기금운용 특화 AI’ 개발",
+      "url": "https://www.socialvalue.kr/news/view/1065600845461528",
+      "img": "http://www.socialvalue.kr/news/data/20260911/p1065600845461528_917_thum.jpeg"
     },
     {
-      "title": "해킹도 AI로 고도화…엑스게이트·샌즈랩·드림시큐리티 주가 '불기둥'",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486161",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486161_472427_3535_v150.jpg"
+      "title": "아이티엔제이, WAVE 2026서 AI 표면 검사 솔루션 'BigBrain I'... \"기술력...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1814252",
+      "img": "https://cdn.kr.aving.net/news/photo/202609/1814252_779814_823.jpg"
     },
     {
-      "title": "[민주 라이프] 바인그룹·신라스테이·트리니티항공",
-      "url": "http://www.iminju.net/news/articleView.html?idxno=169409",
-      "img": "https://cdn.iminju.net/news/thumbnail/202609/169409_179426_3635_v150.jpg"
+      "title": "비자, 소비자 신뢰가 에이전틱 커머스 도입 가속화",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41881",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41881_63007_98_v150.jpg"
     }
   ]
 };
