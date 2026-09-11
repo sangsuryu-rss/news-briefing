@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.12 (토) 01:31",
+  "updatedAt": "2026.09.12 (토) 05:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -26,7 +26,7 @@ window.NEWS_DATA = {
           "src": "ekn",
           "date": "09/11",
           "url": "https://www.ekn.kr/web/view.php?key=20260911026383791",
-          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260911.b7a6e07f7f464e00957a1b189098739c_R.jpg"
+          "img": ""
         },
         {
           "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "kookje",
           "date": "09/11",
           "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?34"
+          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?53"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 시대, 공공행정의 변화",
-          "desc": "시스템을 도입하는 데 그치지 않고, 기관 곳곳에 축적된 지식과 데이터를 업무에 활용할 수 있는 기반을 갖추는 일이다. JDC의 AX는 기술 자체를 목표로 하지 않는다. 개발사업과 면세점 등 주요 사업 현장에 AI와 데이터를...",
-          "src": "고코리아",
+          "title": "최저임금 2만원 넘자 “감당 못 해” 재택 알바까지 썼는데…결국 키오...",
+          "desc": "잇달아 도입했다. 대기 시간 단축과 주문액 증가 효과는 있었지만 직원들이 배달 주문과 드라이브스루... 허점을 활용한 구조다. 원격 알바생도 결국 AI로 대체될 것이라는 전망이 나오는 가운데, 기술 전문가들은 “6...",
+          "src": "서울경제",
           "date": "09/12",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=875732",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/875732_155340_2844_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004661055?sid=104",
+          "img": ""
         },
         {
-          "title": "LG CNS, 하반기 세 자릿수 신입 채용… 필기시험에 '생성형 AI 평가' 첫 ...",
-          "desc": "필기전형에서는 인·적성검사와 더불어 최신 기술 및 산업 동향에 대한 이해도, 생성형 AI 활용 능력을 평가하는 'CNS 특화검사'가 새롭게 도입됐다. 직무에 따라 코딩형과 기획형으로 나눠 생성형 AI 활용 역량을...",
-          "src": "cbci",
+          "title": "독립앱에서 로블록스 게임구동…채팅으로 게임 만드는 기능 확대",
+          "desc": "로블록스 연례 개발자회의 'RDC 2026'서 발표…게임 수익 매일 현금화 정책 도입 권영전 특파원 = 앞으로... 또 게임 내 플레이어가 아닌 캐릭터(NPC)에 인공지능(AI)을 적용해 활용 범위를 확대할 수도 있도록 할 예정이다....",
+          "src": "연합뉴스",
           "date": "09/12",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=605948",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202609/605948_415829_3839_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016305668?sid=105",
+          "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912004000091_01_i_P4.jpg"
         },
         {
-          "title": "[위클립] 9월 2주",
-          "desc": "이 과정에서 상담노동자들의 업무·조직 통합과 AI 도입이 예고되고 있어, 공공운수노조... 수단으로 활용되고 있지는 않은지 (서울지방고용노동청이) 철저히 조사해야 한다\"고 함 □ 과기연구노조, '과학기술인이 존중받는...",
-          "src": "laborplus",
+          "title": "[AI, 법의 길을 묻다] 사법부도 AI를 써야 한다 - 기울어진 무기와 재판...",
+          "desc": "시범사업에서조차 기술의 도입이 업무를 실제로 줄여 주는 설계가 전제되어야 한다. 그렇지 않으면 현장은... 판결문 등 사법 데이터의 폭넓은 공익적 AI 활용과, 이를 뒷받침할 컴퓨팅 자원과 인력, 예산의 지원이 함께 가야...",
+          "src": "lawtimes",
           "date": "09/12",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41470",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202609/41470_73934_5452.jpg"
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226149",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226149_128661_3625.jpg"
         },
         {
-          "title": "부산시, 대한민국 지식대상 국무총리상…디지털 트윈 혁신 '성과'",
-          "desc": "수집된 데이터는 살수차 운행경로 설정과 미세먼지 저감사업 등에 활용된다. 또한 분산된 행정지식을... 첨단기술을 행정에 접목해 시민 안전을 위한 정책으로 연결한 성과\"라며 \"앞으로도 AI 대전환을 통해 시민이...",
-          "src": "CNB뉴스",
+          "title": "[글로벌 리걸 인사이트] 美 'AI 고용 규제' 어디까지 왔나",
+          "desc": "AI의 고용 활용을 포괄적으로 규율하는 연방법이 없다. 채용, 승진, 해고 같은 인사 결정에 자동화 기술을... 문제가 불거진 뒤 계약서를 뒤지는 것보다, 도입을 검토하는 현재 단계에서 이 기준으로 거르는 편이 비용...",
+          "src": "lawtimes",
           "date": "09/12",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1015516",
-          "img": "https://cdn.cnbnews.com/news/photo/202609/1015516_517177_1789124158.jpg"
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226114",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226114_128664_4144.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "D램 시장 집어삼킨 'HBM 블랙홀'⋯CXMT가 만든 ‘추격의 역설’",
+          "desc": "CoreX)는 삼성전자 HBM2E(3세대)를 사용하고 있으며 HBM3(4세대)급 중국산 제품도 차기 필요 부품으로 꼽았다.... AMEC의 공급망은 수천 개 부품과 약 1000개 협력사로 구성돼 있다. 부품 국산화율은 제조 가능 여부를...",
+          "src": "이투데이",
+          "date": "09/12",
+          "url": "https://www.etoday.co.kr/news/view/2621052",
+          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260830111715_2380371_1200_800.jpg"
+        },
         {
           "title": "추석 수조 원대 '상생 단비' 내린다… 대·중·소 상생으로 '자금맥경화...",
           "desc": "이번 결정에 따라 현대차그룹에 부품 및 원자재·소모품 등을 납품하는 6000여 개 협력업체의 자금 숨통을... 2·3차 협력사에도 추석 전 자금 유동성을 확보할 수 있도록 유도했다. 삼성그룹은 이미 지난 6월부터...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/11",
           "url": "https://www.ajunews.com/view/20260911112529953",
           "img": "https://image.ajunews.com/content/image/2026/09/11/20260911112939568498.jpg"
-        },
-        {
-          "title": "삼성 팹 운영 노하우, 공공나노팹 14곳으로 확산",
-          "desc": "이번 사업은 삼성전자가 소재·부품·장비(소부장) 협력사를 대상으로 운영해 온 '소부장 눈높이 컨설팅'을 공공 연구 인프라에 적용한 사례다. 개별 협력사에서 중소기업과 연구기관이 공동으로 활용하는 공공팹으로...",
-          "src": "IT데일리",
-          "date": "09/11",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241554",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241554_247306_1750_v150.jpg"
         }
       ]
     },
@@ -177,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[똑똑한소비] SSG닷컴, 11번가, 아이파크몰, 홈플러스익스프레스",
-      "url": "https://www.ekn.kr/web/view.php?key=20260911026383791",
-      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260911.b7a6e07f7f464e00957a1b189098739c_R.jpg"
-    },
-    {
       "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
       "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
       "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
@@ -189,22 +184,27 @@ window.NEWS_DATA = {
     {
       "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
       "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?34"
+      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?53"
     },
     {
-      "title": "AI 시대, 공공행정의 변화",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=875732",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202609/875732_155340_2844_v150.jpg"
+      "title": "독립앱에서 로블록스 게임구동…채팅으로 게임 만드는 기능 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305668?sid=105",
+      "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912004000091_01_i_P4.jpg"
     },
     {
-      "title": "LG CNS, 하반기 세 자릿수 신입 채용… 필기시험에 '생성형 AI 평가' 첫 ...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=605948",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202609/605948_415829_3839_v150.jpg"
+      "title": "[AI, 법의 길을 묻다] 사법부도 AI를 써야 한다 - 기울어진 무기와 재판...",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226149",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226149_128661_3625.jpg"
     },
     {
-      "title": "[위클립] 9월 2주",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41470",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202609/41470_73934_5452.jpg"
+      "title": "[글로벌 리걸 인사이트] 美 'AI 고용 규제' 어디까지 왔나",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226114",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226114_128664_4144.jpg"
+    },
+    {
+      "title": "D램 시장 집어삼킨 'HBM 블랙홀'⋯CXMT가 만든 ‘추격의 역설’",
+      "url": "https://www.etoday.co.kr/news/view/2621052",
+      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260830111715_2380371_1200_800.jpg"
     }
   ]
 };
