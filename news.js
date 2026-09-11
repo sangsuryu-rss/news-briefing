@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.11 (금) 05:53",
+  "updatedAt": "2026.09.11 (금) 09:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[사설]부동산거래 냉각, 세금·규제 후유증인가",
-          "desc": "가전·가구 등 내구재의 수요가 줄면 내수 전반의 위축으로도 이어질 수 있다. 문제는 삼성전자, SK하이닉스같은 일부 반도체기업의 성과급과 사내대출 확대로 소득 증가가 두드러진 급여생활자들의 특정 지역 주택 매입...",
-          "src": "머니투데이",
+          "title": "삼성전자, EHS 히트펌프 전문 교육장 마련…설치·서비스 역량 강화",
+          "desc": "이에 삼성전자는 실제 EHS 히트펌프 설치 현장과 동일한 환경을 조성한 교육장을 신설하고, 이를 통해 엔지니어들이 수배관 시공부터 제품 설치, AI 기반 가전 스마트 진단 프로그램인 'HASS'를 활용한 시운전과 서비스...",
+          "src": "thepublic",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/008/0005412294?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=688,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091015301930879_1.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=318327",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/318327_321750_1221.jpg"
         },
         {
-          "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
-          "desc": "삼성전자와 LG전자 등 가전부터 정관장·CJ제일제당·동원 등 건강식품과 식품 브랜드까지 분야별 상품을... 커트러리와 홈세트 등 주방용품을 비롯해 공기청정기·냉장고·청소기 등 생활가전을 선보인다. 추석 이후...",
-          "src": "asiatoday",
-          "date": "09/10",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004074",
-          "img": "https://img.asiatoday.co.kr/file/2026y/09m/11d/2026091001000774400040741.jpg"
+          "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
+          "desc": "일렉트로룩스는 당시 LG전자와 삼성전자 등 한국 기업이 빠르게 추격하고 있다며 이를 경계해야 한다고... 특히 로봇청소기, 냉장고, 세탁기 등 핵심 가전제품에서 중국이 한국을 따라잡고 있으며 에너지효율...",
+          "src": "비즈니스포스트",
+          "date": "09/11",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444632",
+          "img": ""
         },
         {
-          "title": "[르포] 네덜란드서 ‘제품 아닌 공간’ 파는 LG전자… 집처럼 매장 꾸미...",
-          "desc": "삼성전자·보쉬·소니·필립스·TCL·하이센스·드리미 등 굵직한 가전 업체들이 네덜란드 시장을 두고... 냉장고·세탁기·건조기·에어컨 등은 LG전자의 가전 플랫폼 ‘LG 씽큐(ThinQ)’와 네덜란드 스마트홈 플랫폼...",
+          "title": "[단독] “집행부 명예훼손·모욕”… 삼성 초기업노조 위원장, 익명방 ...",
+          "desc": "삼성전자노동조합 동행(동행노조)은 스마트폰·가전 등을 담당하는 DX 부문을 중심으로 구성돼 있다. 또 복수 노조에 가입한 조합원을 통해 동행노조 소통방에서도 자신과 집행부에 대한 허위사실 유포와 모욕이 이어지고...",
           "src": "조선일보",
-          "date": "09/10",
-          "url": "https://n.news.naver.com/mnews/article/366/0001191610?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/GHW2W555IVDZTGYTBFXL52MYMQ.gif?auth=3530c96811351b2e993b260ed69d549583520c83876e182942527a7ffb0ce0cc&width=654&height=343&smart=true"
+          "date": "09/11",
+          "url": "https://n.news.naver.com/mnews/article/366/0001191689?sid=102",
+          "img": "https://biz.chosun.com/resizer/v2/GZQTIMJQMMZDKYZYMNRDEM3EGU.jpg?auth=44057a4f6d3c01d36db8bb7e05e914b156cd2d3a060d652193ea1747a23efd13&width=1200&height=630&smart=true"
         },
         {
-          "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
-          "desc": "삼성전자는 TV 시장에서 선두를 지키고 있으나 냉장고와 세탁기 시장에서 중국 및 한국 경쟁 업체의 압박을 받고 있다. 룸에어컨 사업 확장도 과제로 남아 있다. 본사의 글로벌 인력 재편 흐름과도 궤를 같이한다. 앞서...",
-          "src": "g-enews",
-          "date": "09/10",
-          "url": "https://www.g-enews.com/view.php?ud=202609101916196671fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
+          "title": "집 안 누비는 AI 카메라…보안 강화 나선 가전업계",
+          "desc": "삼성전자는 올해 선보인 로봇청소기에 카메라로 촬영한 이미지와 영상 데이터를 종단간 암호화(E2EE)하는 기능을 적용했다. 삼성전자는 보안을 중국 업체와 차별화할 요소로 내세운다. 연결된 기기의 보안 상태를...",
+          "src": "조선일보",
+          "date": "09/11",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169862",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169862_452207_2316_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[패트롤] 군포시의회-부천시의회-안산시의회-하남시의회",
-          "desc": "남부기술교육원 이전 부지 활용 등 주요 도시 현안을 집중 점검했다. 대야지하차도와 금정고가교 등 시민... 위해 도입된 획일적인 대출 규제가 오히려 실수요자의 정상적인 주택 거래마저 가로막고 있어 대책 마련이...",
-          "src": "ekn",
+          "title": "한진, AI로 물류현장 위험 잡는다…AI 세이프티 가디언 구축",
+          "desc": "한진이 인공지능(AI)을 활용해 택배 터미널의 위험 행동을 실시간으로 감지하는 안전관리 시스템을 도입했... 한진의 물류 인프라를 활용해 현장에 적용할 수 있는 공간정보·물류 AI 기술을 개발하고 있다. 한진은...",
+          "src": "ZDNet코리아",
           "date": "09/11",
-          "url": "https://www.ekn.kr/web/view.php?key=20260911020543339",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/092/0002437070?sid=103",
+          "img": "https://image.zdnet.co.kr/2026/09/11/fc61707efcf1e08347a8350b8241ec98.jpg"
         },
         {
-          "title": "[박태용의 뮤직인사이트]⑤ AI가 만든 음악의 권리는 누구에게 있는가?",
-          "desc": "따라서 음악 레이블은 AI 솔루션을 도입할 때 단순한 생성 음질이나 연산 속도만을 따질 것이 아니라, 학습... 음악산업이 스스로에게 던져야 할 핵심 질문 역시 “우리가 AI 기술을 활용했는가”라는 단순한 도구적 채택...",
-          "src": "isplus",
+          "title": "큐빅, 충남도립대학교에 LLM Capsule 공급… 공공부문 AI-Ready Data 적용 ...",
+          "desc": "순차적으로 도입을 진행하며 공공부문에서 실제 활용 사례를 확대하고 있다. LLM Capsule은 2025년 7월... 연계해 활용할 수 있는 환경을 마련한다. LLM Capsule은 큐빅의 AI-Ready Data 기술을 기반으로 ChatGPT, Claude, Gemini...",
+          "src": "kdpress",
           "date": "09/11",
-          "url": "https://m.entertain.naver.com/article/241/0003530228",
-          "img": "https://isplus.com/data/isp/image/2026/09/10/isp20260910000270.800x.0.png"
+          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208526",
+          "img": "https://cdn.kdpress.co.kr/news/photo/202609/208526_134352_430.jpg"
         },
         {
-          "title": "지지율 30%대 트럼프, ‘1인당 5000달러’ 승부수 던져[글로벌 모닝 브리...",
-          "desc": "직접 AI 도입을 시도하는 상징적인 사례로 주목받고 있습니다. 9일(현지 시간) 미국 매체 디인포메이션에 따르면 자신이 설립한 기술 투자 회사 원더코를 이끌고 있는 캐천버그는 오픈AI의 영상 생성 AI ‘소라’를...",
-          "src": "서울경제",
+          "title": "이스트소프트, AI 아바타 '페르소에이아이' 사업 확장…K몬스터그룹과 ...",
+          "desc": "페르소'는 AI 아바타가 직접 말하는 형태의 영상을 제작할 수 있는 서비스로, 교육이나 뉴스 등 다양한 콘텐츠 제작에 활용할 수 있다. 회사에 따르면 현재 페르소에이아이는 올리브영, 일본 모빌리티 산업 도입을 위한...",
+          "src": "아주경제",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/011/0004660742?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/10/news-p.v1.20260910.1cbc03ec79994b70956ed7821795d164_Z1.jpg"
+          "url": "https://www.ajunews.com/view/20260911090651481",
+          "img": "https://image.ajunews.com/content/image/2026/09/11/20260911090814482509.png"
         },
         {
-          "title": "가난했던 신문 배달소년…구마모토 ‘반도체 왕국’ 세운 비결",
-          "desc": "회의에서 “역경일수록 반도체 같은 최첨단 기술을 활용해 구마모토를 발전시키자”는 의견이 나왔다.... 그가 2010년에 도입한 구마모토 홍보용 캐릭터 ‘구마몬(くまモン)’은 국내외서 큰 사랑을 받아, 관련 상품...",
-          "src": "중앙일보",
+          "title": "메디아크, AI로 상담 요약·차트 초안 작성 돕는 '심토미-케어 Ver.2' 출시",
+          "desc": "문진·설문과 진료 상담 통합 분석 마리아의료재단 도입 계약 AI 문진 전문기업 메디아크가 환자 접수와... 진료 전 증상 파악 외에도 초진 정보 수집과 접수, 환자 설문 등에 활용할 수 있다. 의료기관마다 다른 종이...",
+          "src": "jhealthmedia",
           "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/025/0003550674?sid=104",
-          "img": ""
+          "url": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33453",
+          "img": "https://cdn.jhealthmedia.joins.com/news/photo/202609/33453_35529_838.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "화면 주름 지운 삼성의 7년 집념, 베트남 예약 2.4배 폭발",
+          "desc": "2019년 첫 상용화 이후 7년 동안 다진 하드웨어 신뢰성이 한국 부품 협력사의 공급 물량 확대로 이어질 것이라는 분석이 나온다. 7년 기술로 다진 힌지 혁신 삼성전자는 일반 스마트폰 화면 크기 확장이 물리 한계에...",
+          "src": "g-enews",
+          "date": "09/11",
+          "url": "https://www.g-enews.com/view.php?ud=202609110623568995fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091106455704847c35228d2f5175193150103.jpg"
+        },
         {
           "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
           "desc": "삼성전자 인도 법인이 소비 둔화와 비용 상승에 대응해 소비자가전 부문에서 중간 관리자급 8~10명을... 완제품 마진이 줄어들면 주요 부품을 공급하는 한국 협력사의 납품 물량과 단가 구조에도 파급이 미칠 수 있다....",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/10",
           "url": "https://www.seoulfn.com/news/articleView.html?idxno=637672",
           "img": "https://cdn.seoulfn.com/news/photo/202609/637672_439954_2451.jpg"
-        },
-        {
-          "title": "아산시, 113조 원 삼성 첨단 투자 맞물려 50만 자족도시 도약 가속",
-          "desc": "삼성전자 온양사업장에 배정된 46조 원 규모의 반도체 투자와 삼성디스플레이가 투입하는 67조 원 규모의 차세대 디스플레이 투자는 단순 설비 증설을 넘어 소재·부품·장비(소부장) 공급망과 건설, 물류, 서비스업...",
-          "src": "newsworker",
-          "date": "09/10",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=503639",
-          "img": "https://cdn.newsworker.co.kr/news/photo/202609/503639_504609_2945.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[사설]부동산거래 냉각, 세금·규제 후유증인가",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412294?sid=110",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=688,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091015301930879_1.jpg"
+      "title": "삼성전자, EHS 히트펌프 전문 교육장 마련…설치·서비스 역량 강화",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=318327",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/318327_321750_1221.jpg"
     },
     {
-      "title": "풍성하게 추석준비…\"소중한 마음을 선물 하세요\"",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004074",
-      "img": "https://img.asiatoday.co.kr/file/2026y/09m/11d/2026091001000774400040741.jpg"
+      "title": "[단독] “집행부 명예훼손·모욕”… 삼성 초기업노조 위원장, 익명방 ...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191689?sid=102",
+      "img": "https://biz.chosun.com/resizer/v2/GZQTIMJQMMZDKYZYMNRDEM3EGU.jpg?auth=44057a4f6d3c01d36db8bb7e05e914b156cd2d3a060d652193ea1747a23efd13&width=1200&height=630&smart=true"
     },
     {
-      "title": "[르포] 네덜란드서 ‘제품 아닌 공간’ 파는 LG전자… 집처럼 매장 꾸미...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191610?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/GHW2W555IVDZTGYTBFXL52MYMQ.gif?auth=3530c96811351b2e993b260ed69d549583520c83876e182942527a7ffb0ce0cc&width=654&height=343&smart=true"
+      "title": "집 안 누비는 AI 카메라…보안 강화 나선 가전업계",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169862",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169862_452207_2316_v150.jpg"
     },
     {
-      "title": "부품비 급등에 멈춰 선 가전…삼성전자 인도 10% 감원 수술",
-      "url": "https://www.g-enews.com/view.php?ud=202609101916196671fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091019181008298fbbec65dfb211211153121.jpg"
+      "title": "한진, AI로 물류현장 위험 잡는다…AI 세이프티 가디언 구축",
+      "url": "https://n.news.naver.com/mnews/article/092/0002437070?sid=103",
+      "img": "https://image.zdnet.co.kr/2026/09/11/fc61707efcf1e08347a8350b8241ec98.jpg"
     },
     {
-      "title": "[박태용의 뮤직인사이트]⑤ AI가 만든 음악의 권리는 누구에게 있는가?",
-      "url": "https://m.entertain.naver.com/article/241/0003530228",
-      "img": "https://isplus.com/data/isp/image/2026/09/10/isp20260910000270.800x.0.png"
+      "title": "큐빅, 충남도립대학교에 LLM Capsule 공급… 공공부문 AI-Ready Data 적용 ...",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208526",
+      "img": "https://cdn.kdpress.co.kr/news/photo/202609/208526_134352_430.jpg"
     },
     {
-      "title": "지지율 30%대 트럼프, ‘1인당 5000달러’ 승부수 던져[글로벌 모닝 브리...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660742?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/10/news-p.v1.20260910.1cbc03ec79994b70956ed7821795d164_Z1.jpg"
+      "title": "이스트소프트, AI 아바타 '페르소에이아이' 사업 확장…K몬스터그룹과 ...",
+      "url": "https://www.ajunews.com/view/20260911090651481",
+      "img": "https://image.ajunews.com/content/image/2026/09/11/20260911090814482509.png"
     }
   ]
 };
