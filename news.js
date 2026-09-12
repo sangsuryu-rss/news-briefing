@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.12 (토) 05:59",
+  "updatedAt": "2026.09.12 (토) 09:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[똑똑한소비] SSG닷컴, 11번가, 아이파크몰, 홈플러스익스프레스",
-          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 각각 저렴하게 판매한다. 브랜드별 최대 15% 상품쿠폰도 제공한다. 14~16일까지 신세계몰·신세계백화점몰 상품에 사용 가능한 7%·12% 상품할인쿠폰도...",
-          "src": "ekn",
-          "date": "09/11",
-          "url": "https://www.ekn.kr/web/view.php?key=20260911026383791",
-          "img": ""
+          "title": "[데스크 칼럼] 성과급에 둘로 갈린 삼성···보이지 않는 이재용 리더십",
+          "desc": "반면 스마트폰·TV·가전을 담당하는 DX부문의 상대적 박탈감은 커졌다. 같은 삼성전자 직원이지만 사업부에 따라 보상 격차가 크게 벌어지면서 노사 갈등은 이제 '노노(勞勞) 갈등'으로 번지는 분위기다. DS 직원이 중심인...",
+          "src": "seoulfn",
+          "date": "09/12",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=637684",
+          "img": "https://cdn.seoulfn.com/news/photo/202609/637684_439969_3356.jpg"
         },
         {
           "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
         },
         {
-          "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
-          "desc": "삼성전자는 반도체, 스마트폰, 가전, 디스플레이 등 다양한 사업을 영위하고 있다. 만약 삼성전자가 분할을 통해 반도체 사업을 떼어낸다면, 존속회사에는 스마트폰, 가전, 디스플레이 사업만 남게 되고 반도체 사업은...",
-          "src": "kookje",
-          "date": "09/11",
-          "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-          "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?53"
+          "title": "LG 잡았던 대만계 특허, 이번엔 삼성의 냉장고와 갤럭시를 정조준했다",
+          "desc": "다만 보호원이 집계한 양수 특허 전체가 이번 삼성전자 소송에서 침해를 주장한 특허라는 뜻은 아니며, LG전자 사건이 제기됐다는 사실만으로 삼성전자 제품의 특허침해가 입증되는 것은 아니다. 스마트폰부터 냉장고까...",
+          "src": "g-enews",
+          "date": "09/12",
+          "url": "https://www.g-enews.com/view.php?ud=202609120751437432fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091208362407090fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "최저임금 2만원 넘자 “감당 못 해” 재택 알바까지 썼는데…결국 키오...",
-          "desc": "잇달아 도입했다. 대기 시간 단축과 주문액 증가 효과는 있었지만 직원들이 배달 주문과 드라이브스루... 허점을 활용한 구조다. 원격 알바생도 결국 AI로 대체될 것이라는 전망이 나오는 가운데, 기술 전문가들은 “6...",
-          "src": "서울경제",
+          "title": "세계지식포럼 3賢者의 AI 외침...\"인류의 두번째 불 AI는 축복알끼 재앙...",
+          "desc": "내가 개발한 J-커브이론이 있는데 강력한 새로운 기술을 도입해도 곧바로 성과로 이어지지 않는데 이는... 초대형기업이 기술을 활용해 의사결정을 중앙집중화하는 조짐이 더 심해지고 있다. AI업계에서는 스케일링...",
+          "src": "ngonews",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661055?sid=104",
-          "img": ""
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=237932",
+          "img": "https://cdn.ngonews.kr/news/photo/202609/237932_242483_336.png"
         },
         {
-          "title": "독립앱에서 로블록스 게임구동…채팅으로 게임 만드는 기능 확대",
-          "desc": "로블록스 연례 개발자회의 'RDC 2026'서 발표…게임 수익 매일 현금화 정책 도입 권영전 특파원 = 앞으로... 또 게임 내 플레이어가 아닌 캐릭터(NPC)에 인공지능(AI)을 적용해 활용 범위를 확대할 수도 있도록 할 예정이다....",
-          "src": "연합뉴스",
+          "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗[VC 요람]",
+          "desc": "비유료 이용자 수익화를 위해 리워드 광고 솔루션을 도입한 뒤 웹 캠페인 매출이 134% 늘고 일간 이용자당... 이번 투자금은 AI 기술 고도화와 글로벌 현지화·마케팅, 이용자 보상 비용, AI 엔지니어 및 그로스 마케터...",
+          "src": "이데일리",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305668?sid=105",
-          "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912004000091_01_i_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006368002?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091200204.860x.0.jpg"
         },
         {
-          "title": "[AI, 법의 길을 묻다] 사법부도 AI를 써야 한다 - 기울어진 무기와 재판...",
-          "desc": "시범사업에서조차 기술의 도입이 업무를 실제로 줄여 주는 설계가 전제되어야 한다. 그렇지 않으면 현장은... 판결문 등 사법 데이터의 폭넓은 공익적 AI 활용과, 이를 뒷받침할 컴퓨팅 자원과 인력, 예산의 지원이 함께 가야...",
-          "src": "lawtimes",
+          "title": "[현장] 삼성전자 인사담당 \"직무핏부터 확인\", 왜?…연세대 취업박람회...",
+          "desc": "질의응답에서는 AI 활용, 신입 채용, 인문계열 지원자의 기술 이해도 등에 대한 질문이 이어졌다. 삼성전자 DS... 업무에 도입하고 있으며, 임직원의 AI 활용을 계속 확대하고 있는 만큼 관련 경험도 회사가 필요로 하는 역량...",
+          "src": "한국경제",
           "date": "09/12",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226149",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226149_128661_3625.jpg"
+          "url": "https://magazine.hankyung.com/job-joy/article/202609120099d",
+          "img": "https://static.hankyung.com/photo/202609/AD.45661352.1.jpg"
         },
         {
-          "title": "[글로벌 리걸 인사이트] 美 'AI 고용 규제' 어디까지 왔나",
-          "desc": "AI의 고용 활용을 포괄적으로 규율하는 연방법이 없다. 채용, 승진, 해고 같은 인사 결정에 자동화 기술을... 문제가 불거진 뒤 계약서를 뒤지는 것보다, 도입을 검토하는 현재 단계에서 이 기준으로 거르는 편이 비용...",
-          "src": "lawtimes",
+          "title": "\"그 일 진짜 재밌나요?\"...인턴으로 돌아간 33년차 리서처 이야기",
+          "desc": "자신이 모르는 IT 기술과 프로덕트 구조는 동료들에게 솔직하게 배웠고, 대신 자신이 가진 리서치 설문 설계... 툴을 활용하는 데 있어서도 유연함을 잃지 않았다. 최근에는 클로드 등 최신 AI 툴을 실무에 적극 도입하며...",
+          "src": "ZDNet코리아",
           "date": "09/12",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226114",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226114_128664_4144.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002437187?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/11/c92e8dacf4e005b1a8f402ad5db1ca65.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[데스크 칼럼] 성과급에 둘로 갈린 삼성···보이지 않는 이재용 리더십",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=637684",
+      "img": "https://cdn.seoulfn.com/news/photo/202609/637684_439969_3356.jpg"
+    },
+    {
       "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
       "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
       "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
     },
     {
-      "title": "[차호중의 재테크 칼럼] 기업분할에 대한 이해",
-      "url": "https://n.news.naver.com/mnews/article/658/0000155304?sid=101",
-      "img": "https://db.kookje.co.kr/news2000/photo/2026/0911/L20260911.99099003867i1.jpg?53"
+      "title": "LG 잡았던 대만계 특허, 이번엔 삼성의 냉장고와 갤럭시를 정조준했다",
+      "url": "https://www.g-enews.com/view.php?ud=202609120751437432fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091208362407090fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "독립앱에서 로블록스 게임구동…채팅으로 게임 만드는 기능 확대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305668?sid=105",
-      "img": "https://img8.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912004000091_01_i_P4.jpg"
+      "title": "세계지식포럼 3賢者의 AI 외침...\"인류의 두번째 불 AI는 축복알끼 재앙...",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=237932",
+      "img": "https://cdn.ngonews.kr/news/photo/202609/237932_242483_336.png"
     },
     {
-      "title": "[AI, 법의 길을 묻다] 사법부도 AI를 써야 한다 - 기울어진 무기와 재판...",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226149",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226149_128661_3625.jpg"
+      "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗[VC 요람]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368002?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091200204.860x.0.jpg"
     },
     {
-      "title": "[글로벌 리걸 인사이트] 美 'AI 고용 규제' 어디까지 왔나",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226114",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226114_128664_4144.jpg"
-    },
-    {
-      "title": "D램 시장 집어삼킨 'HBM 블랙홀'⋯CXMT가 만든 ‘추격의 역설’",
-      "url": "https://www.etoday.co.kr/news/view/2621052",
-      "img": "https://img.etoday.co.kr/pto_db/2026/08/20260830111715_2380371_1200_800.jpg"
+      "title": "[현장] 삼성전자 인사담당 \"직무핏부터 확인\", 왜?…연세대 취업박람회...",
+      "url": "https://magazine.hankyung.com/job-joy/article/202609120099d",
+      "img": "https://static.hankyung.com/photo/202609/AD.45661352.1.jpg"
     }
   ]
 };
