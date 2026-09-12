@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.12 (토) 16:11",
+  "updatedAt": "2026.09.12 (토) 21:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[새만금에 1000조 담기] ⑭ '준비된 학교' \"교명(校名)변경보다 교육이 ...",
-          "desc": "스파크'를 도입하고, 학교 안에 자체 LLM 실습 환경을 구축했다. 학생들은 이를 이용해 바이브 코딩과 AI 프로그램 개발을 실습하고 있으며 앞으로 로봇의 '강화학습'과 모방학습에도 활용할 계획이다. 노정한 교사는...",
-          "src": "pressian",
+          "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
+          "desc": "방식을 활용하도록 단계적으로 제도를 손질해왔다. 싱가포르 역시 고령자 계속 고용을 논의할 때 참고할... 근로시간, AI 도입이 각각 별개의 갈등으로 번질 수 있다. 인력 전략과 기술 투자 성과 배분 원칙을 하나의 장기...",
+          "src": "매일경제",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/002/0002456310?sid=102",
-          "img": "https://cdn.pressian.com/_resources/10/2026/09/12/2026091211450812083_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000108168?sid=101",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활...",
-          "desc": "물리세계에 인공지능(AI) 기술을 적용하는 피지컬 AI의 무분별한 도입이 지속되면 세계에서 관련 소송이... 시뮬레이션 환경을 만들고 운영·검증하는 SimOps를 활용한 위험 통제·운영 역량 확보가 필수 요건으로...",
-          "src": "전자신문",
+          "title": "소아청소년과의사회, 차지호 WHO 사무총장 도전 지지",
+          "desc": "소아청소년과의사회는 감염병과 기후변화, 의료AI 도입에 따른 건강 격차 등 WHO가 직면한 과제에서 어린이가... 이러한 경험을 가진 한국 의사가 WHO를 이끌 경우 의료기술의 발전뿐 아니라 의료체계의 지속가능성...",
+          "src": "medipana",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/030/0003466116?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.32bcc2b7c3d54f658a08278707cb9e08_P1.jpg"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417524",
+          "img": "https://cdn.medipana.com/news/photo/202609/417524_324428_2722.jpeg"
         },
         {
-          "title": "수천 시간 영상도 한 문장으로 찾는다…트웰브랩스 마렝고, 베드록 첫 ...",
-          "desc": "아마존 베드록 관리형 지식 베이스는 기업 데이터를 AI가 활용할 수 있도록 수집과... 검색 도입을 어렵게 했던 기술적 장벽을 낮췄다”고 말했다. Find thousands of hours of...",
-          "src": "venturesquare",
+          "title": "AI 지출 2조5278억달러…CEO 56% 효과 못 확인",
+          "desc": "기업들이 새로운 대형 프로젝트보다 기존 소프트웨어 공급업체가 제공하는 AI 기능을 우선 도입할 가능성이 있다는 설명이다. ‘환멸의 골짜기’는 신기술에 대한 초기 기대가 낮아지고 실제 활용성과 수익성이...",
+          "src": "tokenpost",
           "date": "09/12",
-          "url": "https://www.venturesquare.net/1112925/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/labs.png"
+          "url": "https://www.tokenpost.kr/news/ai/406926",
+          "img": "https://f1.tokenpost.kr/2026/09/jtccih3jo4.jpg"
         },
         {
-          "title": "대구시, ‘AI 행정 자문협의체 제1차 회의’ 개최",
-          "desc": "특히 생성형 AI를 활용한 업무 실증 확대와 지능형 업무 서비스 활용 방안에 대한 의견이 오갔다. 대구시는 올해를 AI 행정 기반 조성 단계로 정하고 생성형 AI 구독서비스 도입, 직급별 AI 교육 확대, 혁신리더 양성 등을...",
-          "src": "thepowernews",
+          "title": "[어린이 안전한 먹거리 특별기획] 최정웅 부산진구의회 부의장 \"어린이...",
+          "desc": "\"디지털 기술은 어린이 급식의 안전성을 높이는 보조수단으로 충분히 활용할 가치가 있다고 봅니다. 예를... AI 기술을 도입하는 것 자체가 목적이 아니라, 조리종사자와 보육교직원의 업무 부담을 줄이고 어린이에게 보다...",
+          "src": "fntoday",
           "date": "09/12",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=202609111820537632c923548bdf_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260911175721079660c923548bdf219250202191.jpg&nmt=7"
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392903",
+          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/392903_316711_5227_v150.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
     },
     {
-      "title": "[새만금에 1000조 담기] ⑭ '준비된 학교' \"교명(校名)변경보다 교육이 ...",
-      "url": "https://n.news.naver.com/mnews/article/002/0002456310?sid=102",
-      "img": "https://cdn.pressian.com/_resources/10/2026/09/12/2026091211450812083_l.jpg"
+      "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108168?sid=101",
+      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     },
     {
-      "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466116?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.32bcc2b7c3d54f658a08278707cb9e08_P1.jpg"
+      "title": "소아청소년과의사회, 차지호 WHO 사무총장 도전 지지",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=417524",
+      "img": "https://cdn.medipana.com/news/photo/202609/417524_324428_2722.jpeg"
     },
     {
-      "title": "수천 시간 영상도 한 문장으로 찾는다…트웰브랩스 마렝고, 베드록 첫 ...",
-      "url": "https://www.venturesquare.net/1112925/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/labs.png"
+      "title": "AI 지출 2조5278억달러…CEO 56% 효과 못 확인",
+      "url": "https://www.tokenpost.kr/news/ai/406926",
+      "img": "https://f1.tokenpost.kr/2026/09/jtccih3jo4.jpg"
     }
   ]
 };
