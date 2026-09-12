@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.13 (일) 03:25",
+  "updatedAt": "2026.09.13 (일) 07:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
-          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 할인하며, 브랜드별 최대 15% 상품할인쿠폰도 제공한다. 오는 14일부터 16일까지는 신세계몰·신세계백화점몰 상품에 사용할 수 있는 7%·12% 상품할인쿠폰을...",
-          "src": "asiaa",
-          "date": "09/12",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
+          "title": "코스피 반등 이끈 삼전·SK하닉…이번주 금리 ‘쌍고비’ [증시전망대]",
+          "desc": "인공지능(AI) 투자 확대 기대에 삼성전자와 SK하이닉스 등 반도체주가 반등하면서 코스피가 지난주 3% 넘게... 이어 “실적 대비 주가가 상대적으로 부진했던 IT하드웨어와 IT가전, 소비 관련 업종 등으로 순환매가...",
+          "src": "디지털타임스",
+          "date": "09/13",
+          "url": "https://n.news.naver.com/mnews/article/029/0003047564?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/13/news-p.v1.20260831.e144cfd2bb6243aea6cd88ee3f61ca8e_R.png"
         },
         {
           "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
         },
         {
-          "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
-          "desc": "일렉트로룩스는 당시 LG전자와 삼성전자 등 한국 기업이 빠르게 추격하고 있다며 이를 경계해야 한다고... 특히 로봇청소기, 냉장고, 세탁기 등 핵심 가전제품에서 중국이 한국을 따라잡고 있으며 에너지효율...",
-          "src": "비즈니스포스트",
-          "date": "09/11",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444632",
-          "img": ""
+          "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
+          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 할인하며, 브랜드별 최대 15% 상품할인쿠폰도 제공한다. 오는 14일부터 16일까지는 신세계몰·신세계백화점몰 상품에 사용할 수 있는 7%·12% 상품할인쿠폰을...",
+          "src": "asiaa",
+          "date": "09/12",
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "로봇 아닙니다 다 뚫렸다… '이젠 사람 검증 시대?'",
-          "desc": "구글 클라우드는 위험 수준에 따라 추가 인증을 요구하는 기술을 확대하고 있으며, 위험도가 높을 경우 스마트폰 QR코드 인증을 요구하는 'AI 저항형 QR 코드 챌린지'를 도입했다. 결제나 계정 변경 등 중요한 순간에는...",
-          "src": "cbci",
+          "title": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배",
+          "desc": "인공지능(AI) 열풍이 날씨 예보에 쓰이는 국가 슈퍼컴퓨터 도입 사업까지 흔들고 있다. 서버용 메모리 등... 최근에는 AI를 활용한 기상예측 기술까지 빠르게 발전하면서 고성능 연산 능력의 중요성이 더욱 커졌다. 기존의...",
+          "src": "핀포인트뉴스",
           "date": "09/13",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606294",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202609/606294_416063_5433_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486442",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486442_472682_238_v150.jpg"
         },
         {
-          "title": "울산 남구, 대한민국 지식대상 2연패…AI 대표전화로 행안부 장관상 수...",
-          "desc": "특히 별도 구축 예산 없이 국가정보통신서비스 추가 제안 협상을 통해 시스템을 도입했다는 점이 눈에... 임현철 남구청장은 \"이번 수상은 AI 기술을 활용해 부서 간 지식과 현장 경험을 모아 민원 서비스를 실질적으로...",
-          "src": "tournews21",
-          "date": "09/12",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=143356",
-          "img": "https://cdn.tournews21.com/news/photo/202609/143356_268553_4349.jpg"
+          "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
+          "desc": "공동으로 AI 활용 음악 탐지 프로그램을 도입하기로 했다. 국내 최대 음악 저작권 신탁 단체인... 전설적인 영국 밴드 비틀스는 AI 기술을 활용해 미공개 데모곡에서 존 레넌의 목소리를 분리해내는 방식으로 27년 만의...",
+          "src": "연합뉴스",
+          "date": "09/13",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306289?sid=103",
+          "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912037800005_02_i_P4.jpg"
         },
         {
-          "title": "세종시, '데이터·연대'로 시민 안전 체계 대혁신",
-          "desc": "세종특별자치시가 첨단 인공지능(AI) 기술을 활용한 혁신적인 재난 대응 시스템과 민·관 연대 기반의 생명... 행정안전부장관상 수상 현장 행정의 효율성을 끌어올리는 기술적 도입과 함께 사회적 고립 극복을 위한...",
-          "src": "ccnnews",
-          "date": "09/12",
-          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414854",
-          "img": "http://www.ccnnews.co.kr/news/thumbnail/202609/414854_519873_1518_v150.jpg"
+          "title": "설계·공정부터 팹까지…삼성·SK, 반도체 생태계 'AI 대전환'",
+          "desc": "개념을 도입한다. 회로 시뮬레이션과 전력량 측정, 시스템 최적화 등 반복적인 검증 업무는 AI가 스스로 수행하도록 시스템을 짠다. 사람은 전문성과 통찰력을 바탕으로 신기술 아이디어 창출과 고부가가치...",
+          "src": "조선일보",
+          "date": "09/13",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169971",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169971_452318_357_v150.jpg"
         },
         {
-          "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
-          "desc": "방식을 활용하도록 단계적으로 제도를 손질해왔다. 싱가포르 역시 고령자 계속 고용을 논의할 때 참고할... 근로시간, AI 도입이 각각 별개의 갈등으로 번질 수 있다. 인력 전략과 기술 투자 성과 배분 원칙을 하나의 장기...",
-          "src": "매일경제",
-          "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/024/0000108168?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "이란 해커, AI ‘클로드’로 美 해군 표적화…군사적 악용 일파만파",
+          "desc": "○ 인간 감독의 한계와 위험: 미 국방부의 '메이븐'이나 이스라엘의 '라벤더' 등 강대국의 AI 군사 활용이... 민간 상용 AI가 적대국의 군사 표적화 작업에 직접 동원된 사례가 공식 확인되면서, AI 기술의 통제권을 둘러싼...",
+          "src": "g-enews",
+          "date": "09/13",
+          "url": "https://www.g-enews.com/view.php?ud=202609130633315925e250e8e188_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091306421900963e250e8e188391236112.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
+      "title": "코스피 반등 이끈 삼전·SK하닉…이번주 금리 ‘쌍고비’ [증시전망대]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047564?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/13/news-p.v1.20260831.e144cfd2bb6243aea6cd88ee3f61ca8e_R.png"
     },
     {
       "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
     },
     {
-      "title": "로봇 아닙니다 다 뚫렸다… '이젠 사람 검증 시대?'",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606294",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202609/606294_416063_5433_v150.jpg"
+      "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
     },
     {
-      "title": "울산 남구, 대한민국 지식대상 2연패…AI 대표전화로 행안부 장관상 수...",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=143356",
-      "img": "https://cdn.tournews21.com/news/photo/202609/143356_268553_4349.jpg"
+      "title": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486442",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486442_472682_238_v150.jpg"
     },
     {
-      "title": "세종시, '데이터·연대'로 시민 안전 체계 대혁신",
-      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414854",
-      "img": "http://www.ccnnews.co.kr/news/thumbnail/202609/414854_519873_1518_v150.jpg"
+      "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306289?sid=103",
+      "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912037800005_02_i_P4.jpg"
     }
   ]
 };
