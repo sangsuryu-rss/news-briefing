@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.12 (토) 09:20",
+  "updatedAt": "2026.09.12 (토) 16:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[데스크 칼럼] 성과급에 둘로 갈린 삼성···보이지 않는 이재용 리더십",
-          "desc": "반면 스마트폰·TV·가전을 담당하는 DX부문의 상대적 박탈감은 커졌다. 같은 삼성전자 직원이지만 사업부에 따라 보상 격차가 크게 벌어지면서 노사 갈등은 이제 '노노(勞勞) 갈등'으로 번지는 분위기다. DS 직원이 중심인...",
-          "src": "seoulfn",
+          "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
+          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 할인하며, 브랜드별 최대 15% 상품할인쿠폰도 제공한다. 오는 14일부터 16일까지는 신세계몰·신세계백화점몰 상품에 사용할 수 있는 7%·12% 상품할인쿠폰을...",
+          "src": "asiaa",
           "date": "09/12",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=637684",
-          "img": "https://cdn.seoulfn.com/news/photo/202609/637684_439969_3356.jpg"
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
+        },
+        {
+          "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
+          "desc": "전자가 인공지능(AI) 가전의 보안을 강화하고 있다. 두 회사가 AI 가전의 핵심으로 ‘연결’을 강조하고 있지만, 연결되는 기기가 많아질수록 해킹에 노출될 수 있는 경로도 늘어나기 때문이다. 냉장고와 TV, 로봇청소기...",
+          "src": "economist",
+          "date": "09/12",
+          "url": "https://n.news.naver.com/mnews/article/243/0000102966?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/09/08/ecn20260908000069.800x.0.jpg"
+        },
+        {
+          "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
+          "desc": "세탁기와 건조기를 결합한 워시타워와 세탁과 건조를 한 번에 해결하는 '워시콤보' 등 유럽 고객의 공간 활용 니즈를 반영한 핏 앤 맥스 제품들을 전시했다. 삼성전자와 LG전자는 앞으로도 에너지와 공간 효율성을...",
+          "src": "뉴시스",
+          "date": "09/12",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185727?sid=101",
+          "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
         },
         {
           "title": "[Who Is ?] 류재철 LG전자 대표이사 사장",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "09/11",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444632",
           "img": ""
-        },
-        {
-          "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
-          "desc": "반면, 삼성전자와 LG전자 같은 전통 가전 제조사들은 냉장고, 세탁기, 에어컨, TV 등 집안 곳곳을 점유하고 있는 강력한 하드웨어 폼팩터 주도권을 확보하고 있다. 특히, 가전 내부에서 직접 데이터를 처리하는...",
-          "src": "kfenews",
-          "date": "09/11",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
-        },
-        {
-          "title": "LG 잡았던 대만계 특허, 이번엔 삼성의 냉장고와 갤럭시를 정조준했다",
-          "desc": "다만 보호원이 집계한 양수 특허 전체가 이번 삼성전자 소송에서 침해를 주장한 특허라는 뜻은 아니며, LG전자 사건이 제기됐다는 사실만으로 삼성전자 제품의 특허침해가 입증되는 것은 아니다. 스마트폰부터 냉장고까...",
-          "src": "g-enews",
-          "date": "09/12",
-          "url": "https://www.g-enews.com/view.php?ud=202609120751437432fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091208362407090fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "세계지식포럼 3賢者의 AI 외침...\"인류의 두번째 불 AI는 축복알끼 재앙...",
-          "desc": "내가 개발한 J-커브이론이 있는데 강력한 새로운 기술을 도입해도 곧바로 성과로 이어지지 않는데 이는... 초대형기업이 기술을 활용해 의사결정을 중앙집중화하는 조짐이 더 심해지고 있다. AI업계에서는 스케일링...",
-          "src": "ngonews",
+          "title": "[새만금에 1000조 담기] ⑭ '준비된 학교' \"교명(校名)변경보다 교육이 ...",
+          "desc": "스파크'를 도입하고, 학교 안에 자체 LLM 실습 환경을 구축했다. 학생들은 이를 이용해 바이브 코딩과 AI 프로그램 개발을 실습하고 있으며 앞으로 로봇의 '강화학습'과 모방학습에도 활용할 계획이다. 노정한 교사는...",
+          "src": "pressian",
           "date": "09/12",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=237932",
-          "img": "https://cdn.ngonews.kr/news/photo/202609/237932_242483_336.png"
+          "url": "https://n.news.naver.com/mnews/article/002/0002456310?sid=102",
+          "img": "https://cdn.pressian.com/_resources/10/2026/09/12/2026091211450812083_l.jpg"
         },
         {
-          "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗[VC 요람]",
-          "desc": "비유료 이용자 수익화를 위해 리워드 광고 솔루션을 도입한 뒤 웹 캠페인 매출이 134% 늘고 일간 이용자당... 이번 투자금은 AI 기술 고도화와 글로벌 현지화·마케팅, 이용자 보상 비용, AI 엔지니어 및 그로스 마케터...",
-          "src": "이데일리",
+          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활...",
+          "desc": "물리세계에 인공지능(AI) 기술을 적용하는 피지컬 AI의 무분별한 도입이 지속되면 세계에서 관련 소송이... 시뮬레이션 환경을 만들고 운영·검증하는 SimOps를 활용한 위험 통제·운영 역량 확보가 필수 요건으로...",
+          "src": "전자신문",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/018/0006368002?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091200204.860x.0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003466116?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.32bcc2b7c3d54f658a08278707cb9e08_P1.jpg"
         },
         {
-          "title": "[현장] 삼성전자 인사담당 \"직무핏부터 확인\", 왜?…연세대 취업박람회...",
-          "desc": "질의응답에서는 AI 활용, 신입 채용, 인문계열 지원자의 기술 이해도 등에 대한 질문이 이어졌다. 삼성전자 DS... 업무에 도입하고 있으며, 임직원의 AI 활용을 계속 확대하고 있는 만큼 관련 경험도 회사가 필요로 하는 역량...",
-          "src": "한국경제",
+          "title": "수천 시간 영상도 한 문장으로 찾는다…트웰브랩스 마렝고, 베드록 첫 ...",
+          "desc": "아마존 베드록 관리형 지식 베이스는 기업 데이터를 AI가 활용할 수 있도록 수집과... 검색 도입을 어렵게 했던 기술적 장벽을 낮췄다”고 말했다. Find thousands of hours of...",
+          "src": "venturesquare",
           "date": "09/12",
-          "url": "https://magazine.hankyung.com/job-joy/article/202609120099d",
-          "img": "https://static.hankyung.com/photo/202609/AD.45661352.1.jpg"
+          "url": "https://www.venturesquare.net/1112925/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/labs.png"
         },
         {
-          "title": "\"그 일 진짜 재밌나요?\"...인턴으로 돌아간 33년차 리서처 이야기",
-          "desc": "자신이 모르는 IT 기술과 프로덕트 구조는 동료들에게 솔직하게 배웠고, 대신 자신이 가진 리서치 설문 설계... 툴을 활용하는 데 있어서도 유연함을 잃지 않았다. 최근에는 클로드 등 최신 AI 툴을 실무에 적극 도입하며...",
-          "src": "ZDNet코리아",
+          "title": "대구시, ‘AI 행정 자문협의체 제1차 회의’ 개최",
+          "desc": "특히 생성형 AI를 활용한 업무 실증 확대와 지능형 업무 서비스 활용 방안에 대한 의견이 오갔다. 대구시는 올해를 AI 행정 기반 조성 단계로 정하고 생성형 AI 구독서비스 도입, 직급별 AI 교육 확대, 혁신리더 양성 등을...",
+          "src": "thepowernews",
           "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/092/0002437187?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/09/11/c92e8dacf4e005b1a8f402ad5db1ca65.jpg"
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202609111820537632c923548bdf_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260911175721079660c923548bdf219250202191.jpg&nmt=7"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[데스크 칼럼] 성과급에 둘로 갈린 삼성···보이지 않는 이재용 리더십",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=637684",
-      "img": "https://cdn.seoulfn.com/news/photo/202609/637684_439969_3356.jpg"
+      "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
     },
     {
-      "title": "[기획] '삼성 vs LG' AI 홈 대격돌…가전, LLM 집사로 진화",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664382",
-      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/664382_137903_4719_v150.jpg"
+      "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102966?sid=101",
+      "img": "https://economist.co.kr/data/ecn/image/2026/09/08/ecn20260908000069.800x.0.jpg"
     },
     {
-      "title": "LG 잡았던 대만계 특허, 이번엔 삼성의 냉장고와 갤럭시를 정조준했다",
-      "url": "https://www.g-enews.com/view.php?ud=202609120751437432fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091208362407090fbbec65dfb211211153121.jpg"
+      "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/003/0014185727?sid=101",
+      "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
     },
     {
-      "title": "세계지식포럼 3賢者의 AI 외침...\"인류의 두번째 불 AI는 축복알끼 재앙...",
-      "url": "https://www.ngonews.kr/news/articleView.html?idxno=237932",
-      "img": "https://cdn.ngonews.kr/news/photo/202609/237932_242483_336.png"
+      "title": "[새만금에 1000조 담기] ⑭ '준비된 학교' \"교명(校名)변경보다 교육이 ...",
+      "url": "https://n.news.naver.com/mnews/article/002/0002456310?sid=102",
+      "img": "https://cdn.pressian.com/_resources/10/2026/09/12/2026091211450812083_l.jpg"
     },
     {
-      "title": "가입자 절반이 해외…유튜브식 수익 배분 AI 캐릭터 챗[VC 요람]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368002?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091200204.860x.0.jpg"
+      "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003466116?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.32bcc2b7c3d54f658a08278707cb9e08_P1.jpg"
     },
     {
-      "title": "[현장] 삼성전자 인사담당 \"직무핏부터 확인\", 왜?…연세대 취업박람회...",
-      "url": "https://magazine.hankyung.com/job-joy/article/202609120099d",
-      "img": "https://static.hankyung.com/photo/202609/AD.45661352.1.jpg"
+      "title": "수천 시간 영상도 한 문장으로 찾는다…트웰브랩스 마렝고, 베드록 첫 ...",
+      "url": "https://www.venturesquare.net/1112925/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/labs.png"
     }
   ]
 };
