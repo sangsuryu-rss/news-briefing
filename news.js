@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.12 (토) 21:11",
+  "updatedAt": "2026.09.13 (일) 00:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "로봇 아닙니다 다 뚫렸다… '이젠 사람 검증 시대?'",
+          "desc": "구글 클라우드는 위험 수준에 따라 추가 인증을 요구하는 기술을 확대하고 있으며, 위험도가 높을 경우 스마트폰 QR코드 인증을 요구하는 'AI 저항형 QR 코드 챌린지'를 도입했다. 결제나 계정 변경 등 중요한 순간에는...",
+          "src": "cbci",
+          "date": "09/13",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606294",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202609/606294_416063_5433_v150.jpg"
+        },
+        {
+          "title": "울산 남구, 대한민국 지식대상 2연패…AI 대표전화로 행안부 장관상 수...",
+          "desc": "특히 별도 구축 예산 없이 국가정보통신서비스 추가 제안 협상을 통해 시스템을 도입했다는 점이 눈에... 임현철 남구청장은 \"이번 수상은 AI 기술을 활용해 부서 간 지식과 현장 경험을 모아 민원 서비스를 실질적으로...",
+          "src": "tournews21",
+          "date": "09/12",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=143356",
+          "img": "https://cdn.tournews21.com/news/photo/202609/143356_268553_4349.jpg"
+        },
+        {
+          "title": "세종시, '데이터·연대'로 시민 안전 체계 대혁신",
+          "desc": "세종특별자치시가 첨단 인공지능(AI) 기술을 활용한 혁신적인 재난 대응 시스템과 민·관 연대 기반의 생명... 행정안전부장관상 수상 현장 행정의 효율성을 끌어올리는 기술적 도입과 함께 사회적 고립 극복을 위한...",
+          "src": "ccnnews",
+          "date": "09/12",
+          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414854",
+          "img": "http://www.ccnnews.co.kr/news/thumbnail/202609/414854_519873_1518_v150.jpg"
+        },
+        {
           "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
           "desc": "방식을 활용하도록 단계적으로 제도를 손질해왔다. 싱가포르 역시 고령자 계속 고용을 논의할 때 참고할... 근로시간, AI 도입이 각각 별개의 갈등으로 번질 수 있다. 인력 전략과 기술 투자 성과 배분 원칙을 하나의 장기...",
           "src": "매일경제",
           "date": "09/12",
           "url": "https://n.news.naver.com/mnews/article/024/0000108168?sid=101",
           "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
-        },
-        {
-          "title": "소아청소년과의사회, 차지호 WHO 사무총장 도전 지지",
-          "desc": "소아청소년과의사회는 감염병과 기후변화, 의료AI 도입에 따른 건강 격차 등 WHO가 직면한 과제에서 어린이가... 이러한 경험을 가진 한국 의사가 WHO를 이끌 경우 의료기술의 발전뿐 아니라 의료체계의 지속가능성...",
-          "src": "medipana",
-          "date": "09/12",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=417524",
-          "img": "https://cdn.medipana.com/news/photo/202609/417524_324428_2722.jpeg"
-        },
-        {
-          "title": "AI 지출 2조5278억달러…CEO 56% 효과 못 확인",
-          "desc": "기업들이 새로운 대형 프로젝트보다 기존 소프트웨어 공급업체가 제공하는 AI 기능을 우선 도입할 가능성이 있다는 설명이다. ‘환멸의 골짜기’는 신기술에 대한 초기 기대가 낮아지고 실제 활용성과 수익성이...",
-          "src": "tokenpost",
-          "date": "09/12",
-          "url": "https://www.tokenpost.kr/news/ai/406926",
-          "img": "https://f1.tokenpost.kr/2026/09/jtccih3jo4.jpg"
-        },
-        {
-          "title": "[어린이 안전한 먹거리 특별기획] 최정웅 부산진구의회 부의장 \"어린이...",
-          "desc": "\"디지털 기술은 어린이 급식의 안전성을 높이는 보조수단으로 충분히 활용할 가치가 있다고 봅니다. 예를... AI 기술을 도입하는 것 자체가 목적이 아니라, 조리종사자와 보육교직원의 업무 부담을 줄이고 어린이에게 보다...",
-          "src": "fntoday",
-          "date": "09/12",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392903",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/392903_316711_5227_v150.jpg"
         }
       ]
     },
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
     },
     {
-      "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108168?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "로봇 아닙니다 다 뚫렸다… '이젠 사람 검증 시대?'",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606294",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202609/606294_416063_5433_v150.jpg"
     },
     {
-      "title": "소아청소년과의사회, 차지호 WHO 사무총장 도전 지지",
-      "url": "https://www.medipana.com/news/articleView.html?idxno=417524",
-      "img": "https://cdn.medipana.com/news/photo/202609/417524_324428_2722.jpeg"
+      "title": "울산 남구, 대한민국 지식대상 2연패…AI 대표전화로 행안부 장관상 수...",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=143356",
+      "img": "https://cdn.tournews21.com/news/photo/202609/143356_268553_4349.jpg"
     },
     {
-      "title": "AI 지출 2조5278억달러…CEO 56% 효과 못 확인",
-      "url": "https://www.tokenpost.kr/news/ai/406926",
-      "img": "https://f1.tokenpost.kr/2026/09/jtccih3jo4.jpg"
+      "title": "세종시, '데이터·연대'로 시민 안전 체계 대혁신",
+      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414854",
+      "img": "http://www.ccnnews.co.kr/news/thumbnail/202609/414854_519873_1518_v150.jpg"
     }
   ]
 };
