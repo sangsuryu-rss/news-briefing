@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.13 (일) 13:52",
+  "updatedAt": "2026.09.13 (일) 20:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"범용 줄이고 AI로\"…판 바뀐 MLCC, 삼성전기 웃는다",
-          "desc": "단종 대상에는 소비자가전·산업기기 등에 사용되는 범용 제품뿐 아니라 일부 전장용 제품도 포함됐다.... 삼성전자와 SK하이닉스 등 메모리 업체들은 AI용 HBM 수요가 폭발적으로 늘자 한정된 웨이퍼 생산능력을...",
-          "src": "머니투데이",
+          "title": "[참성단] 삼성전자 노·노 갈등",
+          "desc": "한국은행은 최근 삼성전자 DS부문 1인당 특별성과급을 5억1천만원으로 추정했다. 영업이익이 350조원이면 DS부문 성과급이 6억원 이상일 것이라는 보도도 있다. 반면 휴대폰 등 가전 완제품 부문(DX) 등 비DS부문은 연봉의...",
+          "src": "kyeongin",
           "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/008/0005412925?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091116114823371_1.jpg"
+          "url": "https://www.kyeongin.com/article/1770773",
+          "img": "https://wimg.kyeongin.com/news/cms/2026/09/13/news-p.v1.20260913.5304ad70be2e4aaa8684fc8f461be9ca_R.jpg"
         },
         {
-          "title": "‘14억 내수’ 공식 깨진 中 가전… 로봇·B2B로 생존 지도 바꿨다",
-          "desc": "반면 로봇 청소기처럼 새로운 가전 수요를 만들거나 해외·기업 간 거래(B2B) 시장으로 일찌감치 성장판을... 청소를 로봇에 맡기는 새로운 시장을 만들어 세계로 확장한 것이다. 중국 가전 업계의 이런 재편은 삼성전자...",
-          "src": "조선일보",
+          "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
+          "desc": "사용 초기 스테이션 앞에서 방향을 여러 차례 조정하며 바로 복귀하지 못했던 로봇청소기는 주변 공간을 넓혀주자 도킹이 한결 원활해졌다. 삼성전자 역시 제품 전면에 80㎝의 공간을 확보하도록 안내한다. 한 달간...",
+          "src": "이투데이",
           "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998105?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/56LL6ORCHRNW3MERUMV6BKNCI4.jpg?auth=6240a48b3cf94d3889b07855e764ece1acd68bfb3403cc449bdacfa8df137a84&width=1200&height=630&smart=true"
+          "url": "https://www.etoday.co.kr/news/view/2624629",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260912192832_2387035_1200_1209.jpg"
         },
         {
-          "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
-          "desc": "세탁기와 건조기를 결합한 워시타워와 세탁과 건조를 한 번에 해결하는 '워시콤보' 등 유럽 고객의 공간 활용 니즈를 반영한 핏 앤 맥스 제품들을 전시했다. 삼성전자와 LG전자는 앞으로도 에너지와 공간 효율성을...",
-          "src": "뉴시스",
-          "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/003/0014185727?sid=101",
-          "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
+          "title": "AI로 고급화 나선 가전업계…中 저가공세 맞서 프리미엄 승부수",
+          "desc": "AI가 세탁·건조 코스를 제어하는 삼성전자의 일체형 세탁·건조기 '비스포크 AI 콤보'는 389만9000원부터 최대 419만9000원에 판매된다. 일반 스마트 세탁·건조기 세트(140만~160만원대)보다 비싼 가격이다. LG전자도 독자 AI...",
+          "src": "g-enews",
+          "date": "09/13",
+          "url": "https://www.g-enews.com/view.php?ud=202609111455173459139bf6e4b2_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091114563408466139bf6e4b261737912.jpg"
         },
         {
-          "title": "세탁기 옆에 로봇이 선다, IFA 2026이 보여준 '피지컬 AI'의 실체",
-          "desc": "삼성전자는 베를린 시내 훔볼트 카레에 별도 전시 공간을 마련해 AI홈과 비즈니스 접점을 소개했다. 전시 주최 측은 이번 IFA 넥스트 구역을 역대 최대 규모의 휴머노이드 로봇 쇼케이스로 확대했다고 밝혔다. 약 300개...",
-          "src": "coinreaders",
+          "title": "삼성, 5년된 냉장고·세탁기에도 최신 AI 접목",
+          "desc": "삼성전자는 2024년 이후 출시한 와이파이 기능 탑재 가전을 대상으로 최대 7년간 SW 업그레이드를 지원하고 있다. 지난해에는 스마트폰과 TV에 적용하던 통합 SW 플랫폼 '원 UI'를 가전까지 확대, 2024년형 냉장고·세탁기...",
+          "src": "전자신문",
           "date": "09/13",
-          "url": "http://coinreaders.com/257928",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091330325598.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003466217?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수",
-          "desc": "'모두의 AI'의 방향성도 모두가 AI를 쓰는 나라를 넘어 국민 모두가 AI를 활용해 새로운 가치를 만들어 내는 단계로 진화해야 한다. 정부가 이번 사업에 단순 보조금이 아닌 '지분투자형 R&D'와 공공 출자 방식을 도입한...",
-          "src": "newsverse",
+          "title": "[대구논단] AI시대 교육의 병목, '교실'",
+          "desc": "컸지만, AI 소프트웨어를 활용하면 교육의 확장 및 인프라 공급 비용이 극적으로 저렴해진다. 이 초개인화... AI 기술 도입으로 사회 전체의 생산성이 급증하면 초과세수가 발생할 것으로 전망된다. AI로 창출된 국가...",
+          "src": "idaegu",
           "date": "09/13",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11428_19596_593_v150.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559428",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026091401000381900022671.jpg"
         },
         {
-          "title": "“AI 개발 속도 늦춰야”…앤스로픽·오픈AI·테슬라 CEO 한목소리",
-          "desc": "시간을 활용해 정렬(alignment)을 향상시킨다면 심각한 문제가 발생할 위험을 크게 줄일 수 있을 것”이라며 “AI 기술 개발은 매우 신중하게 추진돼야 한다”고 호소했다. AI 업계에서 ‘정렬’은 AI 시스템을 인간의...",
-          "src": "동아일보",
+          "title": "리딩금융 넘어 글로벌 금융그룹…이재근號 KB, 다음 성장판 연다",
+          "desc": "활용한 결제·정산·해외송금 과정에 대한 실제 환경 검증도 진행했다. 따라서 이재근 체제에서 디지털 전략의 관건은 새로운 기술을 얼마나 많이 도입하느냐보다 이를 실제 금융사업의 성과로 연결하는 데 있다. AI가...",
+          "src": "econovill",
           "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747664?sid=104",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/13/134657085.1.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=750653",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/750653_726276_4031_v150.jpg"
         },
         {
-          "title": "어린이·청소년 버스 무료…밀양시 10월 시내버스 개편",
-          "desc": "전면 도입, 읍면지역 노선 효율화 등이다. 시는 9월 10일부터 읍면동 행정복지센터를 통해 노선개편 안내 책자를 배부한다. 추석을 앞두고 현수막과 버스 승강장 안내문, 전단 등을 활용해 변경 내용을 집중적으로 알릴...",
-          "src": "kukinews",
+          "title": "울산 제조업 AI 활용 논의…최태원, 데이터센터·공장 현장 점검",
+          "desc": "제조업의 기술 활용을 다루는 세션과 의료·교육 등 지역사회에서 AI를 활용하는 방안을 논의하는 세션으로... 울산 제조업에 필요한 기술·인력 논의 올해 울산포럼에서는 제조업 현장의 기술 도입에 필요한 조건도...",
+          "src": "polinews",
           "date": "09/13",
-          "url": "https://www.kukinews.com/article/view/kuk202609130015",
-          "img": ""
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742835",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/742835_565319_1914_v150.jpg"
         },
         {
-          "title": "[게임체인저 AX] 건설연, AI로 물관리하고 데이터센터 짓는다",
-          "desc": "활용됐다. 그러나 해외 모델은 국내 하천의 특성과 기후·지형 조건을 충분히 반영하기 어렵고 기술 도입... 기술개발은 AI와 디지털 기술이 건설산업에서 활용되는 방식이 달라지고 있음을 보여준다. IWRM-K는 AI와...",
-          "src": "enewstoday",
+          "title": "서울 도심 달린 자율주행 L2++…현대차그룹, '데이터 플라이휠' 전격 가...",
+          "desc": "활용하던 센서 규격을 '엔비디아 드라이브 하이페리온 10'을 중심으로 통일한다. 이로써 이종 차량에서 유입되는 주행 데이터를 일관된 포맷으로 축적해 AI 학습 효율을 극대화한다. 두 번째 트랙은 자체 기술의 완전...",
+          "src": "financialpost",
           "date": "09/13",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469881",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2469881_1312246_4820_v150.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=275311",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/275311_360139_2516_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[기자수첩] \"짓는 시간이냐, 돌리는 시간이냐\"…광주상의가 맞출 시계",
-          "desc": "삼성전자와 SK하이닉스가 800조원을 들여 반도체 생산공장(팹) 4기를 짓는 호남권 반도체 클러스터 부지가... 클러스터의 성패는 결국 협력사와 부품사, 산단의 숙련 인력이 얼마나 촘촘히 엮이느냐에 달려 있다. 상의...",
-          "src": "뉴스웍스",
+          "title": "800조 팹이 ‘앵커’…연관기업 모여야 클러스터 완성",
+          "desc": "팹을 중심으로 소재·부품·장비 등 연관기업을 집적하고 기존 산업과의 연계를 강화해 지역 전반에 탄탄한... 삼성전자와 SK하이닉스가 각각 2기씩 모두 4기의 팹을 조성하는 구상이다. 투자 규모는 800조원이다. 협력사...",
+          "src": "kjdaily",
           "date": "09/13",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853527",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853527_816058_384_v150.jpg"
+          "url": "http://www.kjdaily.com/article.php?aid=1789298485686733274",
+          "img": ""
         },
         {
-          "title": "[기업家] 삼성전자 ⑳ㅣ 차세대 반도체 승부수…첨단 패키징·하이 NA EU...",
-          "desc": "민관 협력 사업도 진행 중이다. 삼성전자는 방류수의 수질을 엄격하게 관리하고, 지역 수생태계와... 현지 소재·부품·장비(소부장) 기업과 연구시설 등과의 협력도 강화한다. 요코하마는 도쿄대학교...",
-          "src": "cbci",
+          "title": "이상일 용인시장 \"삼성·SK 용인 반도체에 1600조 투자 전망\"",
+          "desc": "삼성전자 협력사인 세메스를 비롯해 주성엔지니어링, 원익IPS, 솔브레인 등 주요 반도체 소재·부품·장비 기업들이 용인 투자를 결정하거나 사업 확대에 나서고 있다. 이 시장은 \"세계적인 기업을 유치하는 것 못지않게...",
+          "src": "job-post",
           "date": "09/13",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606347",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202609/606347_416111_5927_v150.jpg"
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227250",
+          "img": "https://cdn.job-post.co.kr/news/photo/202609/227250_330820_1237.jpg"
         },
         {
-          "title": "D램 시장 집어삼킨 'HBM 블랙홀'⋯CXMT가 만든 ‘추격의 역설’",
-          "desc": "CoreX)는 삼성전자 HBM2E(3세대)를 사용하고 있으며 HBM3(4세대)급 중국산 제품도 차기 필요 부품으로 꼽았다.... AMEC의 공급망은 수천 개 부품과 약 1000개 협력사로 구성돼 있다. 부품 국산화율은 제조 가능 여부를...",
-          "src": "이투데이",
-          "date": "09/12",
-          "url": "https://www.etoday.co.kr/news/view/2621052",
-          "img": "https://img.etoday.co.kr/pto_db/2026/08/20260830111715_2380371_1200_800.jpg"
+          "title": "EU ‘24시간 사이버 신고’ 시작…삼성 대응 체계 구축 분주",
+          "desc": "있지만, 협력사가 공급한 통신모듈이나 펌웨어까지 포함해 어느 부품에 어떤 취약점이 들어갔는지 끝까지 추적하는 체계는 아직 초기 단계”라고 말했다. 삼성전자는 이에 대응한 내부 체계를 구축했다. 삼성전자...",
+          "src": "g-enews",
+          "date": "09/13",
+          "url": "https://www.g-enews.com/view.php?ud=2026091215532799273084322ec9_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260912160514069073084322ec91182166987.jpg"
         },
         {
-          "title": "추석 수조 원대 '상생 단비' 내린다… 대·중·소 상생으로 '자금맥경화...",
-          "desc": "이번 결정에 따라 현대차그룹에 부품 및 원자재·소모품 등을 납품하는 6000여 개 협력업체의 자금 숨통을... 2·3차 협력사에도 추석 전 자금 유동성을 확보할 수 있도록 유도했다. 삼성그룹은 이미 지난 6월부터...",
-          "src": "nbntv",
-          "date": "09/11",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024786",
-          "img": "https://cdn.nbntv.co.kr/news/photo/202609/4024786_299126_3424.png"
+          "title": "삼성 반도체 팹 운영·관리 노하우, '공공나노팹'에 이식한다",
+          "desc": "이번 컨설팅은 삼성전자가 그동안 반도체 소부장(소재/부품/장비) 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'의 제조혁신 경험과 노하우를 공공나노팹의 특성에 맞게 적용해 진행됐다. 나노융합기술원은...",
+          "src": "itbiznews",
+          "date": "09/13",
+          "url": "https://www.itbiznews.com/news/articleView.html?idxno=224755",
+          "img": "https://cdn.itbiznews.com/news/photo/202609/224755_228155_3114.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"범용 줄이고 AI로\"…판 바뀐 MLCC, 삼성전기 웃는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412925?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091116114823371_1.jpg"
+      "title": "[참성단] 삼성전자 노·노 갈등",
+      "url": "https://www.kyeongin.com/article/1770773",
+      "img": "https://wimg.kyeongin.com/news/cms/2026/09/13/news-p.v1.20260913.5304ad70be2e4aaa8684fc8f461be9ca_R.jpg"
     },
     {
-      "title": "‘14억 내수’ 공식 깨진 中 가전… 로봇·B2B로 생존 지도 바꿨다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998105?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/56LL6ORCHRNW3MERUMV6BKNCI4.jpg?auth=6240a48b3cf94d3889b07855e764ece1acd68bfb3403cc449bdacfa8df137a84&width=1200&height=630&smart=true"
+      "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
+      "url": "https://www.etoday.co.kr/news/view/2624629",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260912192832_2387035_1200_1209.jpg"
     },
     {
-      "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/003/0014185727?sid=101",
-      "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
+      "title": "AI로 고급화 나선 가전업계…中 저가공세 맞서 프리미엄 승부수",
+      "url": "https://www.g-enews.com/view.php?ud=202609111455173459139bf6e4b2_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091114563408466139bf6e4b261737912.jpg"
     },
     {
-      "title": "세탁기 옆에 로봇이 선다, IFA 2026이 보여준 '피지컬 AI'의 실체",
-      "url": "http://coinreaders.com/257928",
-      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091330325598.png"
+      "title": "삼성, 5년된 냉장고·세탁기에도 최신 AI 접목",
+      "url": "https://n.news.naver.com/mnews/article/030/0003466217?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
     },
     {
-      "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수",
-      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
-      "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11428_19596_593_v150.jpg"
+      "title": "[대구논단] AI시대 교육의 병목, '교실'",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559428",
+      "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026091401000381900022671.jpg"
     },
     {
-      "title": "“AI 개발 속도 늦춰야”…앤스로픽·오픈AI·테슬라 CEO 한목소리",
-      "url": "https://n.news.naver.com/mnews/article/020/0003747664?sid=104",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/13/134657085.1.jpg"
+      "title": "리딩금융 넘어 글로벌 금융그룹…이재근號 KB, 다음 성장판 연다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=750653",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/750653_726276_4031_v150.jpg"
     }
   ]
 };
