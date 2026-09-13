@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.14 (월) 01:20",
+  "updatedAt": "2026.09.14 (월) 05:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 김호윤 셰프와 비스포크 AI가전으로 추석 맞이 쿠킹쇼 개최",
-          "desc": "삼성전자가 김호윤 셰프와 손잡고 명절 식재료 관리와 조리를 돕는 비스포크 AI 주방 가전 시연 행사를 열었다. 삼성전자는 지난 11일 서울 용산구 한남동 '셰프 호윤 스튜디오'에서 비스포크 AI 주방 가전의 연결 경험을...",
-          "src": "newslock",
-          "date": "09/13",
-          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=136145",
-          "img": "https://cdn.newslock.co.kr/news/thumbnail/202609/136145_123773_307_v150.jpg"
+          "title": "MLCC 판바꾼 글로벌 1위… 삼성전기, 후광효과 누린다",
+          "desc": "단종대상에는 소비자가전·산업기기 등에 사용되는 범용제품뿐 아니라 일부 전장용 제품도 포함됐다.... 삼성전자와 SK하이닉스 등 메모리업체들은 AI용 HBM(고대역폭메모리) 수요가 폭발적으로 늘자 한정된...",
+          "src": "머니투데이",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/008/0005413038?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091320160275133_1.jpg"
         },
         {
           "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "딥시크 V4.1 플래시, 5520억 파라미터 중 160억만 깨워 캐시 4분의 1로 압...",
-          "desc": "6 Sol, 문샷AI 키미 K3, 기존 V4 프로를 모두 웃돌았다. 사이버 보안 평가 사이버짐에서도 88.1점을 받아 V4 프로, 키미 K3, GPT-5.6 Sol을 앞섰다. 오토메이션벤치는 54.8점, 도구 활용형 차토그래피는 78.9점이었다.하지만...",
-          "src": "wikitree",
+          "title": "\"인텔·AMD 독점 깬다\"… 日 후지쯔, 2나노 AI CPU '모나카' 내년 美·亞...",
+          "desc": "제한적으로 활용해 왔다. 그러나 후지쯔가 글로벌 1위 AI 서버 제조사인 미국 슈퍼마이크로 컴퓨터... 원천기술을 바탕으로 글로벌 AI 추론 데이터센터의 저전력 서버 칩 지형도를 재편하려는 일본 반도체 설계...",
+          "src": "g-enews",
           "date": "09/14",
-          "url": "https://www.wikitree.co.kr/articles/1159243",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/14/202609140111297565_ai.jpeg"
+          "url": "https://www.g-enews.com/view.php?ud=2026091316183134760c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260913161920045210c8c1c064d22114611240.jpg"
         },
         {
-          "title": "XRP 레저, 대출·금고·AI 결제 ‘3축’ 가동...\"전통 금융 직접 끌어온...",
-          "desc": "AI 에이전트 결제 등이다. 앤젤은 “전통 금융의 기본 기능을 XRP 레저에 직접 구현하고 있다”고 말했다. 대출 프로토콜은 이미 XRP 레저에 추가돼 검증자 투표를 기다리고 있다. 도입되면 이용자가 보유 자산을 활용...",
-          "src": "coinreaders",
+          "title": "[노무 레이더] (23) 2027년 노동정책의 방향",
+          "desc": "새롭게 도입되는 '청년 첫 취업지원제도'를 통해 16만명을 지원하고, 청년 일경험과 직무훈련에 대한... 아울러 AI 노동법 상담과 영세사업장 자율점검, AI 재해조사 및 산업안전 어시스턴트 등 AI를 활용한 노동행정도...",
+          "src": "kmecnews",
           "date": "09/14",
-          "url": "http://coinreaders.com/257945",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202506/800_800_2025060914327488.jpg"
+          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51760",
+          "img": "https://cdn.kmecnews.co.kr/news/photo/202609/51760_41867_559.jpg"
         },
         {
-          "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
-          "desc": "인공지능(AI) 활용이 비즈니스의 성패를 가르는 AX(AI 전환) 시대, DBR(동아비즈니스리뷰)가 전사 AX 과제... 솔루션인 ‘AI Blueprint’ 도입 기업을 모집합니다. AI 전문 기업 알고리즘랩스가 개발한 본 솔루션은 기업...",
-          "src": "동아일보",
+          "title": "교대 근무표·회계 전표 ‘뚝딱’… AI 교육 넘어 실무 혁신으로[강소기...",
+          "desc": "단순히 AI를 사용하는 방법을 배우는 교육이 아니다”라며 이렇게 말했다. 그간 ‘AI 교육’이 새로운 기술... 목표”라며 “AI 도입 자체가 목적이 아니라 실제 조직이 변화했다는 것을 보여주는 사례를 계속 만들어 가는...",
+          "src": "서울신문",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747760?sid=101",
-          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
+          "url": "https://n.news.naver.com/mnews/article/081/0003679801?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/09/13/SSC_20260913234829_O2.jpg"
         },
         {
-          "title": "울산 자동차 부품 제조업체 AI 전환 시동",
-          "desc": "각 사례의 생산성·품질·비용 개선 효과와 도입에 필요한 설비·데이터 조건을 분석해 울산의 중소·중견기업에도 적용할 수 있는지 검토한다. 휴머노이드 로봇과 피지컬 AI를 활용한 자율제조 기술의 동향과 현장 수용...",
-          "src": "ksilbo",
+          "title": "손끝 진동까지 계산해준다…AI 코치의 ‘메달 과외’ [아하! 아시안게임...",
+          "desc": "인공지능(AI)을 활용한 전력분석프로그램이다. 2026 아이치·나고야 아시안게임(19일 개막)을 앞두고 종목마다... 2024 파리 올림픽 때도 사격 대표팀이 가상현실(VR)을 활용해 특별훈련을 진행하는 등 최첨단 기술이 도입되었...",
+          "src": "한겨레",
           "date": "09/14",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067153",
-          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
+          "url": "https://n.news.naver.com/mnews/article/028/0002822902?sid=104",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/698/332/imgdb/original/2026/0913/20260913502291.webp"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼전닉스 각개전투할 때…中반도체 정부·은행·기업 원팀 [中반도체 공...",
+          "desc": "반면 한국은 삼성전자와 SK하이닉스가 투자와 고용, 기술 개발은 물론 협력사 지원과 지역 일자리... 소재·부품·장비 발주를 유지할 수 있도록 장기 정책금융과 세제 지원이 뒷받침돼야 한다”고 말했다. 이어...",
+          "src": "중앙일보",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/025/0003551100?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/14/186ce0d5-a754-4657-8843-85dae371b4b0.jpg"
+        },
         {
           "title": "800조 팹이 ‘앵커’…연관기업 모여야 클러스터 완성",
           "desc": "팹을 중심으로 소재·부품·장비 등 연관기업을 집적하고 기존 산업과의 연계를 강화해 지역 전반에 탄탄한... 삼성전자와 SK하이닉스가 각각 2기씩 모두 4기의 팹을 조성하는 구상이다. 투자 규모는 800조원이다. 협력사...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/13",
           "url": "https://www.g-enews.com/view.php?ud=2026091215532799273084322ec9_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260912160514069073084322ec91182166987.jpg"
-        },
-        {
-          "title": "삼성 반도체 팹 운영·관리 노하우, '공공나노팹'에 이식한다",
-          "desc": "이번 컨설팅은 삼성전자가 그동안 반도체 소부장(소재/부품/장비) 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'의 제조혁신 경험과 노하우를 공공나노팹의 특성에 맞게 적용해 진행됐다. 나노융합기술원은...",
-          "src": "itbiznews",
-          "date": "09/13",
-          "url": "https://www.itbiznews.com/news/articleView.html?idxno=224755",
-          "img": "https://cdn.itbiznews.com/news/photo/202609/224755_228155_3114.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 김호윤 셰프와 비스포크 AI가전으로 추석 맞이 쿠킹쇼 개최",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=136145",
-      "img": "https://cdn.newslock.co.kr/news/thumbnail/202609/136145_123773_307_v150.jpg"
+      "title": "MLCC 판바꾼 글로벌 1위… 삼성전기, 후광효과 누린다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413038?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091320160275133_1.jpg"
     },
     {
       "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
     },
     {
-      "title": "딥시크 V4.1 플래시, 5520억 파라미터 중 160억만 깨워 캐시 4분의 1로 압...",
-      "url": "https://www.wikitree.co.kr/articles/1159243",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/14/202609140111297565_ai.jpeg"
+      "title": "\"인텔·AMD 독점 깬다\"… 日 후지쯔, 2나노 AI CPU '모나카' 내년 美·亞...",
+      "url": "https://www.g-enews.com/view.php?ud=2026091316183134760c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260913161920045210c8c1c064d22114611240.jpg"
     },
     {
-      "title": "XRP 레저, 대출·금고·AI 결제 ‘3축’ 가동...\"전통 금융 직접 끌어온...",
-      "url": "http://coinreaders.com/257945",
-      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202506/800_800_2025060914327488.jpg"
+      "title": "[노무 레이더] (23) 2027년 노동정책의 방향",
+      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51760",
+      "img": "https://cdn.kmecnews.co.kr/news/photo/202609/51760_41867_559.jpg"
     }
   ]
 };
