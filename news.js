@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.13 (일) 07:20",
+  "updatedAt": "2026.09.13 (일) 13:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "코스피 반등 이끈 삼전·SK하닉…이번주 금리 ‘쌍고비’ [증시전망대]",
-          "desc": "인공지능(AI) 투자 확대 기대에 삼성전자와 SK하이닉스 등 반도체주가 반등하면서 코스피가 지난주 3% 넘게... 이어 “실적 대비 주가가 상대적으로 부진했던 IT하드웨어와 IT가전, 소비 관련 업종 등으로 순환매가...",
-          "src": "디지털타임스",
+          "title": "\"범용 줄이고 AI로\"…판 바뀐 MLCC, 삼성전기 웃는다",
+          "desc": "단종 대상에는 소비자가전·산업기기 등에 사용되는 범용 제품뿐 아니라 일부 전장용 제품도 포함됐다.... 삼성전자와 SK하이닉스 등 메모리 업체들은 AI용 HBM 수요가 폭발적으로 늘자 한정된 웨이퍼 생산능력을...",
+          "src": "머니투데이",
           "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/029/0003047564?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/13/news-p.v1.20260831.e144cfd2bb6243aea6cd88ee3f61ca8e_R.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005412925?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091116114823371_1.jpg"
         },
         {
-          "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
-          "desc": "전자가 인공지능(AI) 가전의 보안을 강화하고 있다. 두 회사가 AI 가전의 핵심으로 ‘연결’을 강조하고 있지만, 연결되는 기기가 많아질수록 해킹에 노출될 수 있는 경로도 늘어나기 때문이다. 냉장고와 TV, 로봇청소기...",
-          "src": "economist",
-          "date": "09/12",
-          "url": "https://n.news.naver.com/mnews/article/243/0000102966?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/09/08/ecn20260908000069.800x.0.jpg"
+          "title": "‘14억 내수’ 공식 깨진 中 가전… 로봇·B2B로 생존 지도 바꿨다",
+          "desc": "반면 로봇 청소기처럼 새로운 가전 수요를 만들거나 해외·기업 간 거래(B2B) 시장으로 일찌감치 성장판을... 청소를 로봇에 맡기는 새로운 시장을 만들어 세계로 확장한 것이다. 중국 가전 업계의 이런 재편은 삼성전자...",
+          "src": "조선일보",
+          "date": "09/13",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998105?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/56LL6ORCHRNW3MERUMV6BKNCI4.jpg?auth=6240a48b3cf94d3889b07855e764ece1acd68bfb3403cc449bdacfa8df137a84&width=1200&height=630&smart=true"
         },
         {
           "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
         },
         {
-          "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
-          "desc": "삼성전자 혼수가전은 최대 32%, 로얄캐닌 사료는 최대 22% 할인하며, 브랜드별 최대 15% 상품할인쿠폰도 제공한다. 오는 14일부터 16일까지는 신세계몰·신세계백화점몰 상품에 사용할 수 있는 7%·12% 상품할인쿠폰을...",
-          "src": "asiaa",
-          "date": "09/12",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
+          "title": "세탁기 옆에 로봇이 선다, IFA 2026이 보여준 '피지컬 AI'의 실체",
+          "desc": "삼성전자는 베를린 시내 훔볼트 카레에 별도 전시 공간을 마련해 AI홈과 비즈니스 접점을 소개했다. 전시 주최 측은 이번 IFA 넥스트 구역을 역대 최대 규모의 휴머노이드 로봇 쇼케이스로 확대했다고 밝혔다. 약 300개...",
+          "src": "coinreaders",
+          "date": "09/13",
+          "url": "http://coinreaders.com/257928",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091330325598.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배",
-          "desc": "인공지능(AI) 열풍이 날씨 예보에 쓰이는 국가 슈퍼컴퓨터 도입 사업까지 흔들고 있다. 서버용 메모리 등... 최근에는 AI를 활용한 기상예측 기술까지 빠르게 발전하면서 고성능 연산 능력의 중요성이 더욱 커졌다. 기존의...",
-          "src": "핀포인트뉴스",
+          "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수",
+          "desc": "'모두의 AI'의 방향성도 모두가 AI를 쓰는 나라를 넘어 국민 모두가 AI를 활용해 새로운 가치를 만들어 내는 단계로 진화해야 한다. 정부가 이번 사업에 단순 보조금이 아닌 '지분투자형 R&D'와 공공 출자 방식을 도입한...",
+          "src": "newsverse",
           "date": "09/13",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486442",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486442_472682_238_v150.jpg"
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11428_19596_593_v150.jpg"
         },
         {
-          "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
-          "desc": "공동으로 AI 활용 음악 탐지 프로그램을 도입하기로 했다. 국내 최대 음악 저작권 신탁 단체인... 전설적인 영국 밴드 비틀스는 AI 기술을 활용해 미공개 데모곡에서 존 레넌의 목소리를 분리해내는 방식으로 27년 만의...",
-          "src": "연합뉴스",
+          "title": "“AI 개발 속도 늦춰야”…앤스로픽·오픈AI·테슬라 CEO 한목소리",
+          "desc": "시간을 활용해 정렬(alignment)을 향상시킨다면 심각한 문제가 발생할 위험을 크게 줄일 수 있을 것”이라며 “AI 기술 개발은 매우 신중하게 추진돼야 한다”고 호소했다. AI 업계에서 ‘정렬’은 AI 시스템을 인간의...",
+          "src": "동아일보",
           "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306289?sid=103",
-          "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912037800005_02_i_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003747664?sid=104",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/13/134657085.1.jpg"
         },
         {
-          "title": "설계·공정부터 팹까지…삼성·SK, 반도체 생태계 'AI 대전환'",
-          "desc": "개념을 도입한다. 회로 시뮬레이션과 전력량 측정, 시스템 최적화 등 반복적인 검증 업무는 AI가 스스로 수행하도록 시스템을 짠다. 사람은 전문성과 통찰력을 바탕으로 신기술 아이디어 창출과 고부가가치...",
-          "src": "조선일보",
+          "title": "어린이·청소년 버스 무료…밀양시 10월 시내버스 개편",
+          "desc": "전면 도입, 읍면지역 노선 효율화 등이다. 시는 9월 10일부터 읍면동 행정복지센터를 통해 노선개편 안내 책자를 배부한다. 추석을 앞두고 현수막과 버스 승강장 안내문, 전단 등을 활용해 변경 내용을 집중적으로 알릴...",
+          "src": "kukinews",
           "date": "09/13",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169971",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092169971_452318_357_v150.jpg"
+          "url": "https://www.kukinews.com/article/view/kuk202609130015",
+          "img": ""
         },
         {
-          "title": "이란 해커, AI ‘클로드’로 美 해군 표적화…군사적 악용 일파만파",
-          "desc": "○ 인간 감독의 한계와 위험: 미 국방부의 '메이븐'이나 이스라엘의 '라벤더' 등 강대국의 AI 군사 활용이... 민간 상용 AI가 적대국의 군사 표적화 작업에 직접 동원된 사례가 공식 확인되면서, AI 기술의 통제권을 둘러싼...",
-          "src": "g-enews",
+          "title": "[게임체인저 AX] 건설연, AI로 물관리하고 데이터센터 짓는다",
+          "desc": "활용됐다. 그러나 해외 모델은 국내 하천의 특성과 기후·지형 조건을 충분히 반영하기 어렵고 기술 도입... 기술개발은 AI와 디지털 기술이 건설산업에서 활용되는 방식이 달라지고 있음을 보여준다. IWRM-K는 AI와...",
+          "src": "enewstoday",
           "date": "09/13",
-          "url": "https://www.g-enews.com/view.php?ud=202609130633315925e250e8e188_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091306421900963e250e8e188391236112.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469881",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2469881_1312246_4820_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[기자수첩] \"짓는 시간이냐, 돌리는 시간이냐\"…광주상의가 맞출 시계",
+          "desc": "삼성전자와 SK하이닉스가 800조원을 들여 반도체 생산공장(팹) 4기를 짓는 호남권 반도체 클러스터 부지가... 클러스터의 성패는 결국 협력사와 부품사, 산단의 숙련 인력이 얼마나 촘촘히 엮이느냐에 달려 있다. 상의...",
+          "src": "뉴스웍스",
+          "date": "09/13",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853527",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/853527_816058_384_v150.jpg"
+        },
+        {
+          "title": "[기업家] 삼성전자 ⑳ㅣ 차세대 반도체 승부수…첨단 패키징·하이 NA EU...",
+          "desc": "민관 협력 사업도 진행 중이다. 삼성전자는 방류수의 수질을 엄격하게 관리하고, 지역 수생태계와... 현지 소재·부품·장비(소부장) 기업과 연구시설 등과의 협력도 강화한다. 요코하마는 도쿄대학교...",
+          "src": "cbci",
+          "date": "09/13",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606347",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202609/606347_416111_5927_v150.jpg"
+        },
         {
           "title": "D램 시장 집어삼킨 'HBM 블랙홀'⋯CXMT가 만든 ‘추격의 역설’",
           "desc": "CoreX)는 삼성전자 HBM2E(3세대)를 사용하고 있으며 HBM3(4세대)급 중국산 제품도 차기 필요 부품으로 꼽았다.... AMEC의 공급망은 수천 개 부품과 약 1000개 협력사로 구성돼 있다. 부품 국산화율은 제조 가능 여부를...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/11",
           "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024786",
           "img": "https://cdn.nbntv.co.kr/news/photo/202609/4024786_299126_3424.png"
-        },
-        {
-          "title": "삼성전자 팹 운영 노하우, 공공기관 14곳 확산…반도체 생태계 강화",
-          "desc": "지현기 삼성전자 상생협력센터장(부사장)은 \"공공나노팹은 국내 소부장 기업이 새로운 기술과 제품을 개발하고 검증하는 K-반도체 생태계의 핵심 기반\"이라며 \"협력사 컨설팅을 통해 축적한 제조혁신 노하우를...",
-          "src": "whitepaper",
-          "date": "09/11",
-          "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266724",
-          "img": "http://www.whitepaper.co.kr/news/thumbnail/202609/266724_199889_5320_v150.jpg"
-        },
-        {
-          "title": "과기정통부, 삼성전자 노하우 접목해 공공나노팹 운영 경쟁력 높여",
-          "desc": "이번 컨설팅은 삼성전자가 반도체 소재·부품·장비 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'의 제조혁신 경험과 노하우를 공공나노팹의 특성에 맞게 적용해 진행했다. 나노융합기술원은 이런 삼성전자의...",
-          "src": "아주경제",
-          "date": "09/11",
-          "url": "https://www.ajunews.com/view/20260911112529953",
-          "img": "https://image.ajunews.com/content/image/2026/09/11/20260911112939568498.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "코스피 반등 이끈 삼전·SK하닉…이번주 금리 ‘쌍고비’ [증시전망대]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047564?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/13/news-p.v1.20260831.e144cfd2bb6243aea6cd88ee3f61ca8e_R.png"
+      "title": "\"범용 줄이고 AI로\"…판 바뀐 MLCC, 삼성전기 웃는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412925?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091116114823371_1.jpg"
     },
     {
-      "title": "AI 가전 시대 ‘연결’ 강조하는 삼성·LG…보안은 어떻게 하고 있나",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102966?sid=101",
-      "img": "https://economist.co.kr/data/ecn/image/2026/09/08/ecn20260908000069.800x.0.jpg"
+      "title": "‘14억 내수’ 공식 깨진 中 가전… 로봇·B2B로 생존 지도 바꿨다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998105?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/56LL6ORCHRNW3MERUMV6BKNCI4.jpg?auth=6240a48b3cf94d3889b07855e764ece1acd68bfb3403cc449bdacfa8df137a84&width=1200&height=630&smart=true"
     },
     {
       "title": "\"에너지 70% 줄이고 용량 늘렸다\"…삼성·LG, 유럽 빌트인 시장 공략",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002237005_web.jpg"
     },
     {
-      "title": "SSG닷컴, 가을 패션·뷰티 할인전...'F/W 슈퍼위크' 개최",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262232_284192_2843.jpg"
+      "title": "세탁기 옆에 로봇이 선다, IFA 2026이 보여준 '피지컬 AI'의 실체",
+      "url": "http://coinreaders.com/257928",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091330325598.png"
     },
     {
-      "title": "AI가 날씨값까지 올렸다…기상청 슈퍼컴퓨터 가격 1년 새 6배",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486442",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/486442_472682_238_v150.jpg"
+      "title": "반도체가 번 돈, AI에 건다...2027년 예산안에서 읽은 AI 승부수",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=11428",
+      "img": "https://cdn.newsverse.kr/news/thumbnail/202609/11428_19596_593_v150.jpg"
     },
     {
-      "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306289?sid=103",
-      "img": "https://img4.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912037800005_02_i_P4.jpg"
+      "title": "“AI 개발 속도 늦춰야”…앤스로픽·오픈AI·테슬라 CEO 한목소리",
+      "url": "https://n.news.naver.com/mnews/article/020/0003747664?sid=104",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/13/134657085.1.jpg"
     }
   ]
 };
