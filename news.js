@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.13 (일) 20:56",
+  "updatedAt": "2026.09.14 (월) 01:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[참성단] 삼성전자 노·노 갈등",
-          "desc": "한국은행은 최근 삼성전자 DS부문 1인당 특별성과급을 5억1천만원으로 추정했다. 영업이익이 350조원이면 DS부문 성과급이 6억원 이상일 것이라는 보도도 있다. 반면 휴대폰 등 가전 완제품 부문(DX) 등 비DS부문은 연봉의...",
-          "src": "kyeongin",
+          "title": "삼성전자, 김호윤 셰프와 비스포크 AI가전으로 추석 맞이 쿠킹쇼 개최",
+          "desc": "삼성전자가 김호윤 셰프와 손잡고 명절 식재료 관리와 조리를 돕는 비스포크 AI 주방 가전 시연 행사를 열었다. 삼성전자는 지난 11일 서울 용산구 한남동 '셰프 호윤 스튜디오'에서 비스포크 AI 주방 가전의 연결 경험을...",
+          "src": "newslock",
           "date": "09/13",
-          "url": "https://www.kyeongin.com/article/1770773",
-          "img": "https://wimg.kyeongin.com/news/cms/2026/09/13/news-p.v1.20260913.5304ad70be2e4aaa8684fc8f461be9ca_R.jpg"
+          "url": "http://www.newslock.co.kr/news/articleView.html?idxno=136145",
+          "img": "https://cdn.newslock.co.kr/news/thumbnail/202609/136145_123773_307_v150.jpg"
         },
         {
           "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[대구논단] AI시대 교육의 병목, '교실'",
-          "desc": "컸지만, AI 소프트웨어를 활용하면 교육의 확장 및 인프라 공급 비용이 극적으로 저렴해진다. 이 초개인화... AI 기술 도입으로 사회 전체의 생산성이 급증하면 초과세수가 발생할 것으로 전망된다. AI로 창출된 국가...",
-          "src": "idaegu",
-          "date": "09/13",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559428",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026091401000381900022671.jpg"
+          "title": "딥시크 V4.1 플래시, 5520억 파라미터 중 160억만 깨워 캐시 4분의 1로 압...",
+          "desc": "6 Sol, 문샷AI 키미 K3, 기존 V4 프로를 모두 웃돌았다. 사이버 보안 평가 사이버짐에서도 88.1점을 받아 V4 프로, 키미 K3, GPT-5.6 Sol을 앞섰다. 오토메이션벤치는 54.8점, 도구 활용형 차토그래피는 78.9점이었다.하지만...",
+          "src": "wikitree",
+          "date": "09/14",
+          "url": "https://www.wikitree.co.kr/articles/1159243",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/14/202609140111297565_ai.jpeg"
         },
         {
-          "title": "리딩금융 넘어 글로벌 금융그룹…이재근號 KB, 다음 성장판 연다",
-          "desc": "활용한 결제·정산·해외송금 과정에 대한 실제 환경 검증도 진행했다. 따라서 이재근 체제에서 디지털 전략의 관건은 새로운 기술을 얼마나 많이 도입하느냐보다 이를 실제 금융사업의 성과로 연결하는 데 있다. AI가...",
-          "src": "econovill",
-          "date": "09/13",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=750653",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/750653_726276_4031_v150.jpg"
+          "title": "XRP 레저, 대출·금고·AI 결제 ‘3축’ 가동...\"전통 금융 직접 끌어온...",
+          "desc": "AI 에이전트 결제 등이다. 앤젤은 “전통 금융의 기본 기능을 XRP 레저에 직접 구현하고 있다”고 말했다. 대출 프로토콜은 이미 XRP 레저에 추가돼 검증자 투표를 기다리고 있다. 도입되면 이용자가 보유 자산을 활용...",
+          "src": "coinreaders",
+          "date": "09/14",
+          "url": "http://coinreaders.com/257945",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202506/800_800_2025060914327488.jpg"
         },
         {
-          "title": "울산 제조업 AI 활용 논의…최태원, 데이터센터·공장 현장 점검",
-          "desc": "제조업의 기술 활용을 다루는 세션과 의료·교육 등 지역사회에서 AI를 활용하는 방안을 논의하는 세션으로... 울산 제조업에 필요한 기술·인력 논의 올해 울산포럼에서는 제조업 현장의 기술 도입에 필요한 조건도...",
-          "src": "polinews",
-          "date": "09/13",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742835",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/742835_565319_1914_v150.jpg"
+          "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
+          "desc": "인공지능(AI) 활용이 비즈니스의 성패를 가르는 AX(AI 전환) 시대, DBR(동아비즈니스리뷰)가 전사 AX 과제... 솔루션인 ‘AI Blueprint’ 도입 기업을 모집합니다. AI 전문 기업 알고리즘랩스가 개발한 본 솔루션은 기업...",
+          "src": "동아일보",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/020/0003747760?sid=101",
+          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
         },
         {
-          "title": "서울 도심 달린 자율주행 L2++…현대차그룹, '데이터 플라이휠' 전격 가...",
-          "desc": "활용하던 센서 규격을 '엔비디아 드라이브 하이페리온 10'을 중심으로 통일한다. 이로써 이종 차량에서 유입되는 주행 데이터를 일관된 포맷으로 축적해 AI 학습 효율을 극대화한다. 두 번째 트랙은 자체 기술의 완전...",
-          "src": "financialpost",
-          "date": "09/13",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=275311",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/275311_360139_2516_v150.jpg"
+          "title": "울산 자동차 부품 제조업체 AI 전환 시동",
+          "desc": "각 사례의 생산성·품질·비용 개선 효과와 도입에 필요한 설비·데이터 조건을 분석해 울산의 중소·중견기업에도 적용할 수 있는지 검토한다. 휴머노이드 로봇과 피지컬 AI를 활용한 자율제조 기술의 동향과 현장 수용...",
+          "src": "ksilbo",
+          "date": "09/14",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067153",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[참성단] 삼성전자 노·노 갈등",
-      "url": "https://www.kyeongin.com/article/1770773",
-      "img": "https://wimg.kyeongin.com/news/cms/2026/09/13/news-p.v1.20260913.5304ad70be2e4aaa8684fc8f461be9ca_R.jpg"
+      "title": "삼성전자, 김호윤 셰프와 비스포크 AI가전으로 추석 맞이 쿠킹쇼 개최",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=136145",
+      "img": "https://cdn.newslock.co.kr/news/thumbnail/202609/136145_123773_307_v150.jpg"
     },
     {
       "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
     },
     {
-      "title": "[대구논단] AI시대 교육의 병목, '교실'",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559428",
-      "img": "https://cdn.idaegu.co.kr/news/photo/202609/2026091401000381900022671.jpg"
+      "title": "딥시크 V4.1 플래시, 5520억 파라미터 중 160억만 깨워 캐시 4분의 1로 압...",
+      "url": "https://www.wikitree.co.kr/articles/1159243",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/14/202609140111297565_ai.jpeg"
     },
     {
-      "title": "리딩금융 넘어 글로벌 금융그룹…이재근號 KB, 다음 성장판 연다",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=750653",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/750653_726276_4031_v150.jpg"
+      "title": "XRP 레저, 대출·금고·AI 결제 ‘3축’ 가동...\"전통 금융 직접 끌어온...",
+      "url": "http://coinreaders.com/257945",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202506/800_800_2025060914327488.jpg"
     }
   ]
 };
