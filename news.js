@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.14 (월) 05:52",
+  "updatedAt": "2026.09.14 (월) 09:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "MLCC 판바꾼 글로벌 1위… 삼성전기, 후광효과 누린다",
-          "desc": "단종대상에는 소비자가전·산업기기 등에 사용되는 범용제품뿐 아니라 일부 전장용 제품도 포함됐다.... 삼성전자와 SK하이닉스 등 메모리업체들은 AI용 HBM(고대역폭메모리) 수요가 폭발적으로 늘자 한정된...",
-          "src": "머니투데이",
+          "title": "이집트 2025년 FDI 트렌드, 아프리카 최대 FDI 유치국 지위 4년 연속 유지",
+          "desc": "한국은 전자·제조업을 중심으로 투자하고 있으며, 삼성전자의 생산시설 확대와 현지조달 강화가... 2) 한국: 한국의 대이집트 투자는 전자·가전 및 교통·철도 등 기존 제조·인프라 분야를 기반으로...",
+          "src": "dream",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/008/0005413038?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091320160275133_1.jpg"
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243930",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
-          "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
-          "desc": "사용 초기 스테이션 앞에서 방향을 여러 차례 조정하며 바로 복귀하지 못했던 로봇청소기는 주변 공간을 넓혀주자 도킹이 한결 원활해졌다. 삼성전자 역시 제품 전면에 80㎝의 공간을 확보하도록 안내한다. 한 달간...",
-          "src": "이투데이",
-          "date": "09/13",
-          "url": "https://www.etoday.co.kr/news/view/2624629",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260912192832_2387035_1200_1209.jpg"
+          "title": "냉장고 배송 밀려도 “그래도 삼성”…불티난 ‘20% 페이백’",
+          "desc": "업계 추산에 따르면 국내 로봇청소기 시장에서 삼성전자는 6월 점유율 50%를 넘기며 1위에 올랐고, 7월에도 50%에 근접한 점유율을 유지했다. 삼성전자 관계자는“가전의 경우 공신력 있는 집계 기간이 없지만...",
+          "src": "dnews",
+          "date": "09/14",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101359456010476",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101359456010476-2-690135.jpg"
         },
         {
-          "title": "AI로 고급화 나선 가전업계…中 저가공세 맞서 프리미엄 승부수",
-          "desc": "AI가 세탁·건조 코스를 제어하는 삼성전자의 일체형 세탁·건조기 '비스포크 AI 콤보'는 389만9000원부터 최대 419만9000원에 판매된다. 일반 스마트 세탁·건조기 세트(140만~160만원대)보다 비싼 가격이다. LG전자도 독자 AI...",
-          "src": "g-enews",
-          "date": "09/13",
-          "url": "https://www.g-enews.com/view.php?ud=202609111455173459139bf6e4b2_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091114563408466139bf6e4b261737912.jpg"
+          "title": "‘마른 수건’ 짜는 가전업체들…구독 늘리고 전기료 깎아주고 폐가전...",
+          "desc": "삼성전자도 ‘AI 구독 클럽’을 통해 TV와 냉장고, 세탁기 등을 월 단위 비용으로 이용할 수 있도록 했다. 일부 상품은 최대 72개월(6년)까지 비용을 나눠 낼 수 있다. 수백만 원에 달하는 초기 가격 부담 때문에 구매를...",
+          "src": "조선일보",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998263?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
         },
         {
-          "title": "삼성, 5년된 냉장고·세탁기에도 최신 AI 접목",
-          "desc": "삼성전자는 2024년 이후 출시한 와이파이 기능 탑재 가전을 대상으로 최대 7년간 SW 업그레이드를 지원하고 있다. 지난해에는 스마트폰과 TV에 적용하던 통합 SW 플랫폼 '원 UI'를 가전까지 확대, 2024년형 냉장고·세탁기...",
-          "src": "전자신문",
-          "date": "09/13",
-          "url": "https://n.news.naver.com/mnews/article/030/0003466217?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
+          "title": "삼성전자-SK그룹-LG전자 '갤럭시 AI 클래스' 2학기 참여 학급 모집...울산...",
+          "desc": "삼성전자는 전국 초ㆍ중학생 대상 갤럭시 AI 클래스 2학기 참여 학급을 모집하며 SK그룹은... 화이트 냉장고', 'LG 시그니처 스타일러' 등을 전시한다. 라운지를 방문한 배우, 크리에이터 등 시상식 참석자들의...",
+          "src": "wsobi",
+          "date": "09/14",
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=318084",
+          "img": "http://www.wsobi.com/news/photo/202609/318084_189462_5410.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"인텔·AMD 독점 깬다\"… 日 후지쯔, 2나노 AI CPU '모나카' 내년 美·亞...",
-          "desc": "제한적으로 활용해 왔다. 그러나 후지쯔가 글로벌 1위 AI 서버 제조사인 미국 슈퍼마이크로 컴퓨터... 원천기술을 바탕으로 글로벌 AI 추론 데이터센터의 저전력 서버 칩 지형도를 재편하려는 일본 반도체 설계...",
-          "src": "g-enews",
+          "title": "'무신사 뷰티 홍대'에 XYZ 로봇 바리스타 도입",
+          "desc": "무신사 스탠다드 매장에도 총 2대의 바리스브루가 도입된다. 이로써 연내 무신사 오프라인 공간에 총 3대가... 이를 기반으로 양사는 향후 다양한 오프라인 공간에서 로봇 기술을 활용한 고객 경험과 운영 효율을 함께...",
+          "src": "파이낸셜뉴스",
           "date": "09/14",
-          "url": "https://www.g-enews.com/view.php?ud=2026091316183134760c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260913161920045210c8c1c064d22114611240.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005575139?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/14/202609140910366177_e.png"
         },
         {
-          "title": "[노무 레이더] (23) 2027년 노동정책의 방향",
-          "desc": "새롭게 도입되는 '청년 첫 취업지원제도'를 통해 16만명을 지원하고, 청년 일경험과 직무훈련에 대한... 아울러 AI 노동법 상담과 영세사업장 자율점검, AI 재해조사 및 산업안전 어시스턴트 등 AI를 활용한 노동행정도...",
-          "src": "kmecnews",
+          "title": "“개발자 대신 현업 연구원이 짰다” 넥센타이어, ‘AI 스마트워크’ 바...",
+          "desc": "필요한 AI 시스템을 직접 만들어 활용하면서 연구 효율을 높이고, 향후 국내외 연구소의 기술문서와 시험... Enterprise)’를 도입하고 국내 관리직 및 연구직 임직원을 대상으로 맞춤형 AI 활용 교육을 꾸준히 진행해 온...",
+          "src": "서울경제",
           "date": "09/14",
-          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51760",
-          "img": "https://cdn.kmecnews.co.kr/news/photo/202609/51760_41867_559.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004661448?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/14/news-p.v1.20260326.21df67933e4942d8add27f1635167bae_Z1.jpg"
         },
         {
-          "title": "교대 근무표·회계 전표 ‘뚝딱’… AI 교육 넘어 실무 혁신으로[강소기...",
-          "desc": "단순히 AI를 사용하는 방법을 배우는 교육이 아니다”라며 이렇게 말했다. 그간 ‘AI 교육’이 새로운 기술... 목표”라며 “AI 도입 자체가 목적이 아니라 실제 조직이 변화했다는 것을 보여주는 사례를 계속 만들어 가는...",
-          "src": "서울신문",
+          "title": "AWS 보고서 \"한국 기업 AI 도입 다음 단계 진입…확장 위한 기반 강화가...",
+          "desc": "(AI) 도입률이 58%로 상승하며 AI 활용이 빠르게 확산되고 있는 것으로 나타났다. 기업들은 AI 도입... 그는 이어 “AI 기술이 점점 더 고도화되는 만큼, 데이터·역량·거버넌스·기술 전반에 걸쳐 탄탄한 기반을 갖춘...",
+          "src": "아주경제",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/081/0003679801?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/09/13/SSC_20260913234829_O2.jpg"
+          "url": "https://www.ajunews.com/view/20260912214852545",
+          "img": "https://image.ajunews.com/content/image/2026/09/12/20260912215334539250.png"
         },
         {
-          "title": "손끝 진동까지 계산해준다…AI 코치의 ‘메달 과외’ [아하! 아시안게임...",
-          "desc": "인공지능(AI)을 활용한 전력분석프로그램이다. 2026 아이치·나고야 아시안게임(19일 개막)을 앞두고 종목마다... 2024 파리 올림픽 때도 사격 대표팀이 가상현실(VR)을 활용해 특별훈련을 진행하는 등 최첨단 기술이 도입되었...",
-          "src": "한겨레",
+          "title": "독서로 시작했는데 '질문 터지는' 교과수업으로...세종교육의 진화",
+          "desc": "실제로, 캠프 전반 이틀간 외부 전문가가 ▲AI 도입에 따른 직업 변화 사례 학습 ▲생성형 AI도구 활용 뉴스... 인공지능과 기술 윤리를 책과 논문을 통해 탐구할 수 있습니다. 이러한 과정에서 학생들은 자신의 관심이...",
+          "src": "goodmorningcc",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/028/0002822902?sid=104",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/698/332/imgdb/original/2026/0913/20260913502291.webp"
+          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=452293",
+          "img": "https://cdn.goodmorningcc.com/news/thumbnail/202609/452293_468035_033_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "SK하이닉스, 장비 공급망 선점…2년 후 수요까지 확보",
+          "desc": "향후 투자에 필요한 장비와 핵심 부품을 협력사들이 미리 확보할 수 있도록 기존보다 이른 시점에 중장기... 고대역폭메모리(HBM)를 중심으로 고부가 메모리 수요가 빠르게 늘면서 삼성전자와 SK하이닉스뿐 아니라...",
+          "src": "dealsite",
+          "date": "09/14",
+          "url": "https://dealsite.co.kr/articles/168916",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/07/719a33d42e654e39a856652a1a91a681/thumb.jpg"
+        },
+        {
+          "title": "치코에어텍코리아 주식회사, SEDEX 2026서 고압형 소형집진기 'CBA-Series'...",
+          "desc": "반도체공정뿐 아니라 배터리, 디스플레이, 바이오, 전자부품, 자동차부품 등 다양한 제조현장에... 파트너 협력사를 발굴하고, 고객에게 더 작고 편리한 고품질 고성능 집진기를 제공하기 위해 노력하겠다\"라고...",
+          "src": "kr",
+          "date": "09/14",
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1814393",
+          "img": "https://cdn.kr.aving.net/news/photo/202609/1814393_779920_4653.png"
+        },
+        {
+          "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국'",
+          "desc": "삼성전자가 일본 요코하마에 첨단 반도체 후공정(패키징) 연구거점을 열었다. 기판 등 소재·부품·장비... 한미반도체도 미국 법인 설립을 추진 중이며, SK하이닉스는 인디애나 공장을 중심으로 100개가 넘는 협력사와...",
+          "src": "아이뉴스24",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/031/0001057916?sid=105",
+          "img": "https://image.inews24.com/v1/05e6dfa6898d66.jpg"
+        },
+        {
           "title": "삼전닉스 각개전투할 때…中반도체 정부·은행·기업 원팀 [中반도체 공...",
           "desc": "반면 한국은 삼성전자와 SK하이닉스가 투자와 고용, 기술 개발은 물론 협력사 지원과 지역 일자리... 소재·부품·장비 발주를 유지할 수 있도록 장기 정책금융과 세제 지원이 뒷받침돼야 한다”고 말했다. 이어...",
           "src": "중앙일보",
           "date": "09/14",
           "url": "https://n.news.naver.com/mnews/article/025/0003551100?sid=101",
           "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/14/186ce0d5-a754-4657-8843-85dae371b4b0.jpg"
-        },
-        {
-          "title": "800조 팹이 ‘앵커’…연관기업 모여야 클러스터 완성",
-          "desc": "팹을 중심으로 소재·부품·장비 등 연관기업을 집적하고 기존 산업과의 연계를 강화해 지역 전반에 탄탄한... 삼성전자와 SK하이닉스가 각각 2기씩 모두 4기의 팹을 조성하는 구상이다. 투자 규모는 800조원이다. 협력사...",
-          "src": "kjdaily",
-          "date": "09/13",
-          "url": "http://www.kjdaily.com/article.php?aid=1789298485686733274",
-          "img": ""
-        },
-        {
-          "title": "이상일 용인시장 \"삼성·SK 용인 반도체에 1600조 투자 전망\"",
-          "desc": "삼성전자 협력사인 세메스를 비롯해 주성엔지니어링, 원익IPS, 솔브레인 등 주요 반도체 소재·부품·장비 기업들이 용인 투자를 결정하거나 사업 확대에 나서고 있다. 이 시장은 \"세계적인 기업을 유치하는 것 못지않게...",
-          "src": "job-post",
-          "date": "09/13",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227250",
-          "img": "https://cdn.job-post.co.kr/news/photo/202609/227250_330820_1237.jpg"
-        },
-        {
-          "title": "EU ‘24시간 사이버 신고’ 시작…삼성 대응 체계 구축 분주",
-          "desc": "있지만, 협력사가 공급한 통신모듈이나 펌웨어까지 포함해 어느 부품에 어떤 취약점이 들어갔는지 끝까지 추적하는 체계는 아직 초기 단계”라고 말했다. 삼성전자는 이에 대응한 내부 체계를 구축했다. 삼성전자...",
-          "src": "g-enews",
-          "date": "09/13",
-          "url": "https://www.g-enews.com/view.php?ud=2026091215532799273084322ec9_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260912160514069073084322ec91182166987.jpg"
         }
       ]
     },
@@ -170,41 +170,41 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "08/11",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "MLCC 판바꾼 글로벌 1위… 삼성전기, 후광효과 누린다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413038?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091320160275133_1.jpg"
+      "title": "이집트 2025년 FDI 트렌드, 아프리카 최대 FDI 유치국 지위 4년 연속 유지",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243930",
+      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     },
     {
-      "title": "[써보니] 빨아도 남던 물걸레 냄새 ‘싹’…삼성 ‘비스포크 AI 스팀’",
-      "url": "https://www.etoday.co.kr/news/view/2624629",
-      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260912192832_2387035_1200_1209.jpg"
+      "title": "냉장고 배송 밀려도 “그래도 삼성”…불티난 ‘20% 페이백’",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101359456010476",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101359456010476-2-690135.jpg"
     },
     {
-      "title": "AI로 고급화 나선 가전업계…中 저가공세 맞서 프리미엄 승부수",
-      "url": "https://www.g-enews.com/view.php?ud=202609111455173459139bf6e4b2_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091114563408466139bf6e4b261737912.jpg"
+      "title": "‘마른 수건’ 짜는 가전업체들…구독 늘리고 전기료 깎아주고 폐가전...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998263?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
     },
     {
-      "title": "삼성, 5년된 냉장고·세탁기에도 최신 AI 접목",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466217?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.d7d7e9fc06cf4f9ba214120b9a0e57e0_P1.jpg"
+      "title": "삼성전자-SK그룹-LG전자 '갤럭시 AI 클래스' 2학기 참여 학급 모집...울산...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=318084",
+      "img": "http://www.wsobi.com/news/photo/202609/318084_189462_5410.jpg"
     },
     {
-      "title": "\"인텔·AMD 독점 깬다\"… 日 후지쯔, 2나노 AI CPU '모나카' 내년 美·亞...",
-      "url": "https://www.g-enews.com/view.php?ud=2026091316183134760c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260913161920045210c8c1c064d22114611240.jpg"
+      "title": "'무신사 뷰티 홍대'에 XYZ 로봇 바리스타 도입",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575139?sid=105",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/14/202609140910366177_e.png"
     },
     {
-      "title": "[노무 레이더] (23) 2027년 노동정책의 방향",
-      "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51760",
-      "img": "https://cdn.kmecnews.co.kr/news/photo/202609/51760_41867_559.jpg"
+      "title": "“개발자 대신 현업 연구원이 짰다” 넥센타이어, ‘AI 스마트워크’ 바...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661448?sid=102",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/14/news-p.v1.20260326.21df67933e4942d8add27f1635167bae_Z1.jpg"
     }
   ]
 };
