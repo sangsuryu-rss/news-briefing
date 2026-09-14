@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.14 (월) 09:14",
+  "updatedAt": "2026.09.14 (월) 14:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이집트 2025년 FDI 트렌드, 아프리카 최대 FDI 유치국 지위 4년 연속 유지",
-          "desc": "한국은 전자·제조업을 중심으로 투자하고 있으며, 삼성전자의 생산시설 확대와 현지조달 강화가... 2) 한국: 한국의 대이집트 투자는 전자·가전 및 교통·철도 등 기존 제조·인프라 분야를 기반으로...",
-          "src": "dream",
+          "title": "[전자는 지금] 삼성디스플레이, 세계 최초 6.9형 스마트폰 OLED 개발 外",
+          "desc": "현지 프리미엄 주거공간을 모티브로 꾸민 공간에서 AI홈 허브 ‘씽큐 온’을 통해 빌트인 가전과 다양한... ◆삼성전자, 그린수소 포럼서 EHS 히트펌프 기술 선봬 삼성전자가 14일부터 16일까지...",
+          "src": "dealsite",
           "date": "09/14",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243930",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "url": "https://dealsite.co.kr/articles/168942",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/14/0146b4bafcc24a498a05b55e35c9b55f/thumb.jpg"
         },
         {
-          "title": "냉장고 배송 밀려도 “그래도 삼성”…불티난 ‘20% 페이백’",
-          "desc": "업계 추산에 따르면 국내 로봇청소기 시장에서 삼성전자는 6월 점유율 50%를 넘기며 1위에 올랐고, 7월에도 50%에 근접한 점유율을 유지했다. 삼성전자 관계자는“가전의 경우 공신력 있는 집계 기간이 없지만...",
-          "src": "dnews",
+          "title": "로봇청소기 개인정보 전반적으로 안전",
+          "desc": "개인정보보호위원회는 14일 국내에서 판매되는 주요 5개 브랜드 로봇청소기의 개인정보 처리 실태를 사전... 점검 대상은 로보락, 삼성전자, LG전자, 에코백스, 샤오미가 판매하는 2025년 3월 기준 최신 모델이다. 로보락 S9...",
+          "src": "thereport",
           "date": "09/14",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101359456010476",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101359456010476-2-690135.jpg"
+          "url": "https://www.thereport.co.kr/news/articleView.html?idxno=91359",
+          "img": "https://cdn.thereport.co.kr/news/photo/202609/91359_116994_5218.jpg"
         },
         {
-          "title": "‘마른 수건’ 짜는 가전업체들…구독 늘리고 전기료 깎아주고 폐가전...",
-          "desc": "삼성전자도 ‘AI 구독 클럽’을 통해 TV와 냉장고, 세탁기 등을 월 단위 비용으로 이용할 수 있도록 했다. 일부 상품은 최대 72개월(6년)까지 비용을 나눠 낼 수 있다. 수백만 원에 달하는 초기 가격 부담 때문에 구매를...",
-          "src": "조선일보",
+          "title": "S전자 꿰찼던 안은진, ‘슬의생’ 이미지 먹고 살아 “45개 촬영”…광...",
+          "desc": "함께 게재된 영상 속엔 최근 S전자 브랜드에서 내놓은 건조기 광고 영상이 담겨 있다. 등장인물은 tvN 드라마... 당시 안은진은 '주식'이라는 단어를 설명하며 대뜸 \"삼성전자\" \"카카오\" \"테슬라\" 등 화제의 우량주들을...",
+          "src": "newsen",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998263?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
+          "url": "https://m.entertain.naver.com/article/609/0001168854",
+          "img": "https://photo.newsen.com/news_photo/2026/09/14/202609141334122110_1.jpg"
         },
         {
-          "title": "삼성전자-SK그룹-LG전자 '갤럭시 AI 클래스' 2학기 참여 학급 모집...울산...",
-          "desc": "삼성전자는 전국 초ㆍ중학생 대상 갤럭시 AI 클래스 2학기 참여 학급을 모집하며 SK그룹은... 화이트 냉장고', 'LG 시그니처 스타일러' 등을 전시한다. 라운지를 방문한 배우, 크리에이터 등 시상식 참석자들의...",
-          "src": "wsobi",
+          "title": "식재료 관리부터 세탁 확인까지…기존 가전으로 확장되는 AI",
+          "desc": "삼성전자는 9월 7일 기존 냉장고와 세탁가전 일부 모델에 타이젠 10.0 업데이트를 9월부터 순차 제공한다고... 추가된 기능을 실제 생활에 적용해보는 과정이다. 오래된 냉장고와 세탁기의 새로운 가치는 그 과정에서 드러난다.",
+          "src": "coinreaders",
           "date": "09/14",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=318084",
-          "img": "http://www.wsobi.com/news/photo/202609/318084_189462_5410.jpg"
+          "url": "http://coinreaders.com/258009",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091420073003.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'무신사 뷰티 홍대'에 XYZ 로봇 바리스타 도입",
-          "desc": "무신사 스탠다드 매장에도 총 2대의 바리스브루가 도입된다. 이로써 연내 무신사 오프라인 공간에 총 3대가... 이를 기반으로 양사는 향후 다양한 오프라인 공간에서 로봇 기술을 활용한 고객 경험과 운영 효율을 함께...",
-          "src": "파이낸셜뉴스",
+          "title": "[더벨][i-point] SGA솔루션즈, CSK 2026서 N2SF 대응 통합보안 공개",
+          "desc": "기존 물리적 망분리는 외부 침입 방어에 효과적이었지만 AI 등 신기술의 실시간 데이터 활용에는 제약이... 기술연구소(NSR)의 실제 업무 환경에서 정보서비스 보안모델을 검증했다. 올해는 KISA의 'N2SF 도입...",
+          "src": "더벨",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/014/0005575139?sid=105",
-          "img": "https://image.fnnews.com/resource/media/image/2026/09/14/202609140910366177_e.png"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609141343253760101788",
+          "img": ""
         },
         {
-          "title": "“개발자 대신 현업 연구원이 짰다” 넥센타이어, ‘AI 스마트워크’ 바...",
-          "desc": "필요한 AI 시스템을 직접 만들어 활용하면서 연구 효율을 높이고, 향후 국내외 연구소의 기술문서와 시험... Enterprise)’를 도입하고 국내 관리직 및 연구직 임직원을 대상으로 맞춤형 AI 활용 교육을 꾸준히 진행해 온...",
-          "src": "서울경제",
+          "title": "AI 쓰려면 망분리부터 바꿔야…SGA솔루션즈, N2SF 통합보안 공개",
+          "desc": "이런 가운데 통합 IT보안 기업 SGA솔루션즈(184230)가 국가 망 보안체계(N2SF)에 맞춘 통합 보안 기술과 실제... 안전하게 활용할 수 있도록 하는 것이 특징이다. 생성형 AI와 에이전트 AI를 업무에 도입하려는...",
+          "src": "이데일리",
           "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661448?sid=102",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/14/news-p.v1.20260326.21df67933e4942d8add27f1635167bae_Z1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006369057?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400753.jpg"
         },
         {
-          "title": "AWS 보고서 \"한국 기업 AI 도입 다음 단계 진입…확장 위한 기반 강화가...",
-          "desc": "(AI) 도입률이 58%로 상승하며 AI 활용이 빠르게 확산되고 있는 것으로 나타났다. 기업들은 AI 도입... 그는 이어 “AI 기술이 점점 더 고도화되는 만큼, 데이터·역량·거버넌스·기술 전반에 걸쳐 탄탄한 기반을 갖춘...",
-          "src": "아주경제",
+          "title": "와이즈넛, 지자체 행정에 'AI 에이전트'…대화만으로 업무 자동화",
+          "desc": "현장에서 얼마나 쉽고 빠르게 활용할 수 있느냐에 달려 있다\"며 \"단순한 기술 도입을 넘어 행정 현장에서 즉각 활용할 수 있는 사용성 높은 AI 에이전트를 바탕으로 지자체 AX 확산에 적극 기여하겠다\"고 말했다. [팝콘뉴스]",
+          "src": "팝콘뉴스",
           "date": "09/14",
-          "url": "https://www.ajunews.com/view/20260912214852545",
-          "img": "https://image.ajunews.com/content/image/2026/09/12/20260912215334539250.png"
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=132859",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202609/132859_158409_5216_v150.jpg"
         },
         {
-          "title": "독서로 시작했는데 '질문 터지는' 교과수업으로...세종교육의 진화",
-          "desc": "실제로, 캠프 전반 이틀간 외부 전문가가 ▲AI 도입에 따른 직업 변화 사례 학습 ▲생성형 AI도구 활용 뉴스... 인공지능과 기술 윤리를 책과 논문을 통해 탐구할 수 있습니다. 이러한 과정에서 학생들은 자신의 관심이...",
-          "src": "goodmorningcc",
+          "title": "'AI 감속'에 복잡해진 한국 셈법…기회냐 새 장벽이냐",
+          "desc": "AI 기업 내부에 안전 평가를 위한 제3자를 상주시켜 개발 과정에 참여시키는 '상주 평가자' 제도를 도입하고... 중국이 AI 개발을 주도하는 상황에서 개발을 전면 중단할 수도 없는 난제\"라며 \"기술 개발과 활용을 신속하게...",
+          "src": "연합뉴스",
           "date": "09/14",
-          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=452293",
-          "img": "https://cdn.goodmorningcc.com/news/thumbnail/202609/452293_468035_033_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016308963?sid=105",
+          "img": "https://img6.yna.co.kr/photo/etc/af/2026/09/13/PAF20260913021201009_P4.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "삼성·LG, 협력사 물품대금 조기지급 '추석 상생'···현대차·SK도 동참",
+          "desc": "물품대금을 협력사에 조기 지급한다. 삼성전자, 삼성물산, 삼성바이오로직스, 삼성바이오에피스... SK하이닉스는 향후 5년간 소재·부품·장비(소부장) 협력사에 약 1조4000억원을 투입하는 맞춤형 지원 프로그램을...",
+          "src": "newsfreezone",
+          "date": "09/14",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709105",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202609/709105_756511_2639_v150.jpg"
+        },
+        {
+          "title": "상생 나선 삼성·현대차·LG…추석 앞두고 협력사 대금 조기 지급",
+          "desc": "이전에 협력사들에게 조기 지급할 예정이라고 14일 밝혔다. 이번 물품대금 조기 지급에는 삼성전자... 부품과 원자재, 소모품 등을 거래하는 약 6000개 협력사가 대상이다. 이 외에 현대차·기아·현대모비스 임직원은...",
+          "src": "디지털타임스",
+          "date": "09/14",
+          "url": "https://n.news.naver.com/mnews/article/029/0003047880?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/14/news-p.v1.20260914.6ae7873f1ef943edbcca10d52b6ae4c5_R.png"
+        },
+        {
+          "title": "[인사이트] AI 시대에 엔지니어를 앉힌 애플…5조달러 제국, '제품'으로...",
+          "desc": "줄이고 협력사 중심의 글로벌 생산망을 구축했다. 재고는 극단적으로 줄이면서 필요한 핵심 부품은... AI 투자 붐으로 메모리 수요가 폭증하면서 D램 가격이 크게 올랐고, 자료에 따르면 삼성전자와 SK하이닉스...",
+          "src": "kbiznews",
+          "date": "09/14",
+          "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114836",
+          "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202609/114836_77774_4549_v150.jpg"
+        },
+        {
           "title": "SK하이닉스, 장비 공급망 선점…2년 후 수요까지 확보",
           "desc": "향후 투자에 필요한 장비와 핵심 부품을 협력사들이 미리 확보할 수 있도록 기존보다 이른 시점에 중장기... 고대역폭메모리(HBM)를 중심으로 고부가 메모리 수요가 빠르게 늘면서 삼성전자와 SK하이닉스뿐 아니라...",
           "src": "dealsite",
           "date": "09/14",
           "url": "https://dealsite.co.kr/articles/168916",
           "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/07/719a33d42e654e39a856652a1a91a681/thumb.jpg"
-        },
-        {
-          "title": "치코에어텍코리아 주식회사, SEDEX 2026서 고압형 소형집진기 'CBA-Series'...",
-          "desc": "반도체공정뿐 아니라 배터리, 디스플레이, 바이오, 전자부품, 자동차부품 등 다양한 제조현장에... 파트너 협력사를 발굴하고, 고객에게 더 작고 편리한 고품질 고성능 집진기를 제공하기 위해 노력하겠다\"라고...",
-          "src": "kr",
-          "date": "09/14",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814393",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814393_779920_4653.png"
-        },
-        {
-          "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국'",
-          "desc": "삼성전자가 일본 요코하마에 첨단 반도체 후공정(패키징) 연구거점을 열었다. 기판 등 소재·부품·장비... 한미반도체도 미국 법인 설립을 추진 중이며, SK하이닉스는 인디애나 공장을 중심으로 100개가 넘는 협력사와...",
-          "src": "아이뉴스24",
-          "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/031/0001057916?sid=105",
-          "img": "https://image.inews24.com/v1/05e6dfa6898d66.jpg"
-        },
-        {
-          "title": "삼전닉스 각개전투할 때…中반도체 정부·은행·기업 원팀 [中반도체 공...",
-          "desc": "반면 한국은 삼성전자와 SK하이닉스가 투자와 고용, 기술 개발은 물론 협력사 지원과 지역 일자리... 소재·부품·장비 발주를 유지할 수 있도록 장기 정책금융과 세제 지원이 뒷받침돼야 한다”고 말했다. 이어...",
-          "src": "중앙일보",
-          "date": "09/14",
-          "url": "https://n.news.naver.com/mnews/article/025/0003551100?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/14/186ce0d5-a754-4657-8843-85dae371b4b0.jpg"
         }
       ]
     },
@@ -140,6 +140,14 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "[단독] 발칸 4국 화물 봉쇄 예고 … 현대차, 물류 리스크에 유럽 공급망...",
+          "desc": "특히 와이어링 하네스는 차량 내 각종 전장부품에 전원과 신호를 전달하는 핵심 부품으로 차종과 사양에 맞춰 개별 생산되기 때문에 대체가 어렵다. 코로나19 확산 당시 중국 내 협력사 공장 가동 중단과 물류 차질로...",
+          "src": "biz",
+          "date": "09/14",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/14/2026091400134.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/09/14/2026091400134_0.png?u=20260914112929?u=20260914112929"
+        },
         {
           "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
           "desc": "원천 재료 배합과 세라믹 칩 제조 역량을 바탕으로 ▲온도 센서 ▲전장용 와이어링 하네스 ▲전압·온도 복합 감지 모듈 ▲박막형 필름히터(Film Heater) 등으로 제품군을 단계적으로 확장해 왔다. 이러한 소자 제조...",
@@ -163,48 +171,40 @@ window.NEWS_DATA = {
           "date": "08/26",
           "url": "https://www.etoday.co.kr/news/view/2617909",
           "img": "https://img.etoday.co.kr/pto_db/2026/01/20260121144546_2284678_600_330.png"
-        },
-        {
-          "title": "자동차 밸류체인 완비된 중국 북부 핵심지 톈진, 한중 협력의 '車세대'...",
-          "desc": "그밖에 시칭구(西青区)·베이천구(北辰区)·동리구(东丽区) 소재 기업들은 차량용 전장, 와이어링 하네스·커넥터, 구동 부품, 그리고 스마트 커넥티드 시험 서비스 분야에 특화되어 있습니다. Q2. 한국계 자동차 기업과...",
-          "src": "dream",
-          "date": "08/11",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243153",
-          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "이집트 2025년 FDI 트렌드, 아프리카 최대 FDI 유치국 지위 4년 연속 유지",
-      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243930",
-      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+      "title": "[전자는 지금] 삼성디스플레이, 세계 최초 6.9형 스마트폰 OLED 개발 外",
+      "url": "https://dealsite.co.kr/articles/168942",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/14/0146b4bafcc24a498a05b55e35c9b55f/thumb.jpg"
     },
     {
-      "title": "냉장고 배송 밀려도 “그래도 삼성”…불티난 ‘20% 페이백’",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101359456010476",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101359456010476-2-690135.jpg"
+      "title": "로봇청소기 개인정보 전반적으로 안전",
+      "url": "https://www.thereport.co.kr/news/articleView.html?idxno=91359",
+      "img": "https://cdn.thereport.co.kr/news/photo/202609/91359_116994_5218.jpg"
     },
     {
-      "title": "‘마른 수건’ 짜는 가전업체들…구독 늘리고 전기료 깎아주고 폐가전...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998263?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
+      "title": "S전자 꿰찼던 안은진, ‘슬의생’ 이미지 먹고 살아 “45개 촬영”…광...",
+      "url": "https://m.entertain.naver.com/article/609/0001168854",
+      "img": "https://photo.newsen.com/news_photo/2026/09/14/202609141334122110_1.jpg"
     },
     {
-      "title": "삼성전자-SK그룹-LG전자 '갤럭시 AI 클래스' 2학기 참여 학급 모집...울산...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=318084",
-      "img": "http://www.wsobi.com/news/photo/202609/318084_189462_5410.jpg"
+      "title": "식재료 관리부터 세탁 확인까지…기존 가전으로 확장되는 AI",
+      "url": "http://coinreaders.com/258009",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202609/800_450_2026091420073003.png"
     },
     {
-      "title": "'무신사 뷰티 홍대'에 XYZ 로봇 바리스타 도입",
-      "url": "https://n.news.naver.com/mnews/article/014/0005575139?sid=105",
-      "img": "https://image.fnnews.com/resource/media/image/2026/09/14/202609140910366177_e.png"
+      "title": "AI 쓰려면 망분리부터 바꿔야…SGA솔루션즈, N2SF 통합보안 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369057?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091400753.jpg"
     },
     {
-      "title": "“개발자 대신 현업 연구원이 짰다” 넥센타이어, ‘AI 스마트워크’ 바...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661448?sid=102",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/14/news-p.v1.20260326.21df67933e4942d8add27f1635167bae_Z1.jpg"
+      "title": "와이즈넛, 지자체 행정에 'AI 에이전트'…대화만으로 업무 자동화",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=132859",
+      "img": "https://cdn.popcornnews.net/news/thumbnail/202609/132859_158409_5216_v150.jpg"
     }
   ]
 };
