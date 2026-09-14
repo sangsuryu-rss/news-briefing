@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.14 (월) 21:53",
+  "updatedAt": "2026.09.15 (화) 04:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "휴가이티아이, 모듈러 주택 '가격 경쟁력·디자인 다양화'로 시장 공략...",
-          "desc": "삼성전자와 LG전자 등 대기업이 모듈러 주택 시장에 잇따라 뛰어들면서 국내 이동식·모듈러 주택 시장의 경쟁이 본격화되고 있다.대기업들이 AI 가전과 사물인터넷(IoT)을 결합한 '스마트홈'에 무게를 두는 가운데...",
-          "src": "weeklytrade",
-          "date": "09/14",
-          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101400",
-          "img": "https://weeklytrade.co.kr/PEG/17893864192948.jpg"
+          "title": "[2026 한국고객만족도 1위] 전국 시스템에어컨 설치 기업, 윌리",
+          "desc": "기업 간 거래(B2B) 분야에서도 인테리어 시공사, 부동산 중개 네트워크, 가전 유통 플랫폼, 기업 복지몰 등 다양한 파트너사와 협업 체계를 구축해 사업 영역을 확대하고 있다. 윌리는 삼성전자와 LG전자의 시스템에어컨을...",
+          "src": "한국경제",
+          "date": "09/15",
+          "url": "https://n.news.naver.com/mnews/article/050/0000110860?sid=101",
+          "img": "https://static.hankyung.com/photo/202609/AD.45683163.1.jpg"
         },
         {
           "title": "개인정보위 “국내 판매 로봇청소기, 보안 위험 발견 안 돼”",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
         },
         {
-          "title": "삼성·LG, 수익성 높이기 '안간힘'… 전기료 캐시백에 폐가전 희토류 회...",
-          "desc": "14일 업계에 따르면 삼성전자, LG전자는 한국전력과 '스마트가전 캐시백' 시범사업을 진행하고 있다. 9~10월 주말과 공휴일 오전 11시~오후 2시에 세탁기·건조기·식기세척기 등 대상 가전을 사용하면 1kWh당 100원, 시간당...",
-          "src": "thepublic",
-          "date": "09/14",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=318683",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/318683_322148_1259.jpg"
+          "title": "가전 구독 늘려 구매 문턱 낮추고 전기료·수리비 절감 서비스까지",
+          "desc": "삼성전자와 LG전자는 최근 한국전력과 손잡고, 전력 수요가 낮은 시간에 세탁기와 건조기, 식기세척기 등을 사용하면 전기 요금을 돌려주는 ‘스마트 가전 캐시백’ 시범 사업을 시작했다. 사용 전력 1kWh(킬로와트시)당...",
+          "src": "조선일보",
+          "date": "09/15",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998405?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
         },
         {
-          "title": "오늘부터 밤 8시까지 주식 거래··· 삼성전자 어디서 사야 더 쌀까",
-          "desc": "모바일과 자동차, 가전제품 등에 들어가는 부품을 공급하고 있다. 애프터마켓 첫날 삼성전자보다 많은 거래량을 기록하면서 거래량 상위 종목에 이름을 올렸다. 내가 KRX·NXT 안 골라도 된다…증권사가 유리한 시장...",
-          "src": "greenpostkorea",
-          "date": "09/14",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307452",
-          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202609/307452_311109_3148.png"
+          "title": "[김수언 칼럼] 애플 추월한 삼성전자, 계속될 수 있나",
+          "desc": "삼성전자는 사업 분야로 보면 서너 개 회사가 합쳐진 기업이다. 반도체, 모바일, TV와 가전, 전장과 오디오 등 부품부터 완제품까지 사업을 모두 갖췄다. 한 분야의 부진을 다른 사업에서 보완해 안정된 회사 경영이...",
+          "src": "한국경제",
+          "date": "09/15",
+          "url": "https://n.news.naver.com/mnews/article/015/0005332293?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지방행정 AI, 시민 수용성까지 설계한다…융기원·지방행정연구원 협력",
-          "desc": "주희진 한국지방행정연구원 AI디지털연구센터장은 AI 행정서비스 확대에 따른 시민의 정책 수용성과 지방정부의 역할 변화를 다뤘다. 기술 도입 과정에서 시민의...",
-          "src": "venturesquare",
-          "date": "09/14",
-          "url": "https://www.venturesquare.net/1113687/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/cha-783x522.jpg"
+          "title": "\"의료 AI 표준화… 비용 혁신 가져올 것\"",
+          "desc": "물론 표준화를 거친 '한국인 데이터'를 활용한다고 챗GPT 같은 범용 AI보다 무조건 높은 성능을 구현한다고... 내년에는 'AX(AI 전환) 수가' 등 인센티브 제도를 도입할 계획이다. 김 이사장은 \"해외 기술에 대한 의존도를...",
+          "src": "머니투데이",
+          "date": "09/15",
+          "url": "https://n.news.naver.com/mnews/article/008/0005413641?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1167,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091420032643478_1.jpg"
         },
         {
-          "title": "[현장] 답하는 AI 넘어…LG, 공장을 움직인다",
-          "desc": "LG가 지난 6년간 축적한 AI 기술을 제조·과학·금융에 적용한 '전문가 AI'를 꺼내든 이유다. LG AI연구원은... 제품이나 공정이 바뀔 때마다 AI 모델을 처음부터 다시 학습시켜야 한다면 실제 생산라인에서 활용하는 데...",
-          "src": "한스경제",
-          "date": "09/14",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864957",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/864957_888856_366_v150.jpg"
+          "title": "[AI시대, 권력 대이동-KB증권] 디지털 자산 인프라 선점 가속화",
+          "desc": "AI가 재편하는 새로운 세계 질서와 국가 생존 전략을 모색한다. [편집자주]  KB증권이 독자적인 기술력과... 네트워크를 활용해 자본시장의 거래 표준을 설계하고 국내 금융기관으로의 도입 확산을 견인할 방침이다....",
+          "src": "pointdaily",
+          "date": "09/15",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319202",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/319202_315602_741_v150.jpg"
         },
         {
-          "title": "[로펌 iN] 린-KMAC-셀렉트스타, 'AI 기본법' 세미나 개최",
-          "desc": "재평가까지 AI의 안전성과 신뢰성을 확보하기 위해 기업이 활용할 수 있는 기술적 실행 방안을 소개할... 변호사는 \"AI 기본법 시행 이후 기업에게 중요한 것은 법령을 형식적으로 준수하는 데 그치지 않고, AI의 도입과...",
-          "src": "legaltimes",
-          "date": "09/14",
-          "url": "http://www.legaltimes.co.kr/news/articleView.html?idxno=96006",
-          "img": "http://www.legaltimes.co.kr/news/thumbnail/202609/96006_34394_2634_v150.jpg"
+          "title": "美반도체 장중 5% 급락…외국인 '삼전·하닉' 2.9조 매도 이어질까",
+          "desc": "인프라에서 AI 활용 분야로 이동할 수 있다고 분석했다. 엔비디아와 SK하이닉스처럼 AI 학습용 하드웨어... 캄포스는 AI 속도조절 논의가 개발 자체의 중단을 뜻하지 않는다며 AI 도입과 사용량 증가 추세는 유지되고...",
+          "src": "그린포스트",
+          "date": "09/15",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350053",
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/350053_401622_1027_v150.jpg"
         },
         {
-          "title": "오스템임플란트, ‘패컬티 세미나’ 100회 개최",
-          "desc": "교육 과정에는 자체 개발한 교재와 실습 기자재, 마네킹과 구강모델 등을 활용하고 있으며 최근에는 3D... 오스템임플란트 치의학연구원 관계자는 “디지털 및 AI 기술 도입과 함께 빠르게 변화하는 치과의료 환경에...",
-          "src": "lawissue",
-          "date": "09/14",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202609142125587981f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260914212605010200f4ab64559d3911894142.jpg&nmt=12"
+          "title": "챗GPT 써본 사람 15억명 추산…오픈AI “주간 활성 이용자 10억명”",
+          "desc": "이는 한 번 서비스를 써본 이용자가 시간이 지나면서 더 많은 방식으로 챗GPT를 활용했는지를 보여주는... 에이전트 기술의 확장을 설명했다. 브록먼의 제품·인프라 역할 확대는 오픈AI가 소비자·기업 제품과 인프라...",
+          "src": "tokenpost",
+          "date": "09/15",
+          "url": "https://www.tokenpost.kr/news/ai/407854",
+          "img": "https://f1.tokenpost.kr/2026/09/v1n7wf1hxh.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[CAR 브리프] KG모빌리티ㆍGMㆍ한국앤컴퍼니ㆍ한국타이어ㆍ금호타이어ㆍ...",
+          "desc": "◆GM 한국사업장ㆍ협신회, ‘1만 보 나눔걷기’로 기부 GM 한국사업장과 협력사 모임 협신회가 지난 12일... ◆하만, 제네시스 GV90에 뱅앤올룹슨 3D 사운드 시스템 적용 삼성전자 자회사 하만 인터내셔널 코리아가...",
+          "src": "dnews",
+          "date": "09/14",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609142148403680013",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/14/202609142148403680013-2-691127.jpg"
+        },
         {
           "title": "철강·조선·전선까지 파업 리스크…장기화 땐 공급망 대란 우려",
           "desc": "특히 삼성전자, SK하이닉스 등 반도체 기업에서 시작된 ‘영업이익 N% 성과급’ 논의가 기준점으로 자리... 특히 자동차처럼 원청과 다수 협력사가 촘촘하게 연결된 업종을 중심으로 교섭 요구와 쟁의가 동시다발적으로...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "ceoscoredaily",
           "date": "09/14",
           "url": "https://www.ceoscoredaily.com/page/view/2026091417040474607",
-          "img": "https://www.ceoscoredaily.com/photos/2026/09/10/2026091005384054799_l.png"
+          "img": ""
         },
         {
           "title": "[더벨][thebell note] 삼성의 AI 시대 투자법",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/14",
           "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091134245720109064",
           "img": ""
-        },
-        {
-          "title": "삼성·현대차·LG, 추석 앞두고 협력사에 납품 대금 조기 지급",
-          "desc": "이번 조기 지급에삼성전자, 삼성물산, 삼성바이오로직스, 삼성디스플레이 등 13개 주요 관계사가 참여한다.... 부품과 원자재, 소모품 등을 거래하는 6000여개 협력사가 대상이다. 현대차그룹은 조기 지급의 실질적...",
-          "src": "dnews",
-          "date": "09/14",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609141445516700956",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/14/202609141445516700956-2-691009.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "휴가이티아이, 모듈러 주택 '가격 경쟁력·디자인 다양화'로 시장 공략...",
-      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101400",
-      "img": "https://weeklytrade.co.kr/PEG/17893864192948.jpg"
+      "title": "[2026 한국고객만족도 1위] 전국 시스템에어컨 설치 기업, 윌리",
+      "url": "https://n.news.naver.com/mnews/article/050/0000110860?sid=101",
+      "img": "https://static.hankyung.com/photo/202609/AD.45683163.1.jpg"
     },
     {
       "title": "개인정보위 “국내 판매 로봇청소기, 보안 위험 발견 안 돼”",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
     },
     {
-      "title": "삼성·LG, 수익성 높이기 '안간힘'… 전기료 캐시백에 폐가전 희토류 회...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=318683",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/318683_322148_1259.jpg"
+      "title": "가전 구독 늘려 구매 문턱 낮추고 전기료·수리비 절감 서비스까지",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998405?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/4CH2OGIP5JBOFFCEKOVBVFUT6U.jpg?auth=6a9284ec361f52f44196a9ffed3343b5b4cb7c474df37ff08411d702d75857a8&width=1200&height=630&smart=true"
     },
     {
-      "title": "오늘부터 밤 8시까지 주식 거래··· 삼성전자 어디서 사야 더 쌀까",
-      "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307452",
-      "img": "https://cdn.greenpostkorea.co.kr/news/photo/202609/307452_311109_3148.png"
+      "title": "[김수언 칼럼] 애플 추월한 삼성전자, 계속될 수 있나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332293?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "지방행정 AI, 시민 수용성까지 설계한다…융기원·지방행정연구원 협력",
-      "url": "https://www.venturesquare.net/1113687/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/cha-783x522.jpg"
+      "title": "\"의료 AI 표준화… 비용 혁신 가져올 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413641?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1167,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091420032643478_1.jpg"
     },
     {
-      "title": "[현장] 답하는 AI 넘어…LG, 공장을 움직인다",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864957",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/864957_888856_366_v150.jpg"
+      "title": "[AI시대, 권력 대이동-KB증권] 디지털 자산 인프라 선점 가속화",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319202",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/319202_315602_741_v150.jpg"
     }
   ]
 };
