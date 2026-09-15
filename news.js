@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.16 (수) 02:02",
+  "updatedAt": "2026.09.16 (수) 06:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"AI 밸류체인 지형도 변화…삼성전자 이을 다음 타자는 전력 인프라·피...",
-          "desc": "이후 2026년 상반기에는 AI 데이터센터에 필요한 고대역폭메모리(HBM)와 D램 수요가 급증하면서 삼성전자와... 피지컬 AI는 AI가 로봇·자동차·가전 등 실제 제품에 탑재돼 현실 세계를 인식하고 판단한 뒤 행동하는...",
-          "src": "뉴시스",
+          "title": "반도체 등 대기업 계약학과 수시모집 지원자 역대 최다",
+          "desc": "2027학년도 대입 수시모집에서 삼성전자와 SK하이닉스 등 대기업 취업이 보장되는 계약학과 지원자가... 올해 신설된 부산대 스마트가전공학과(LG전자 연계)도 20명 모집에 603명이 지원해 30.15 대 1의 경쟁률을...",
+          "src": "동아일보",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/003/0014192803?sid=101",
-          "img": "https://img1.newsis.com/2026/09/15/NISI20260915_0002239718_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003748411?sid=102",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134677134.1.jpg"
         },
         {
           "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[GAM] 세일포인트 ① AI 경고음 속 부각되는 사이버보안주",
-          "desc": "안전 기술이 AI 모델의 역량 발전 속도보다 앞서야 한다고 말했다. 테슬라(TSLA)와 스페이스X(SPCX)의 일론... 에이전틱 AI 활용 사례는 세 가지로 구분된다. 첫째는 챗GPT, 제미나이, 클로드 등 전사적으로 도입되는 범용...",
-          "src": "뉴스핌",
+          "title": "[2026 대경 스마트건설대상] DC대상 - 자이C&A",
+          "desc": "LG유플러스 평촌 1ㆍ2센터를 비롯해 LG CNS 부산 데이터센터, 파주 AI데이터센터, 세종 데이터센터 2ㆍ3단계... 시공 품질과 현장 관리에 스마트 건설기술을 적극 도입했다. 드론을 활용한 측량ㆍ공사 관리, BIM...",
+          "src": "dnews",
           "date": "09/16",
-          "url": "https://www.newspim.com/news/view/20260916000017",
-          "img": "https://img.newspim.com/news/2026/09/16/2609160153077650_t1.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131746439880801",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131746439880801-2-691483.jpg"
         },
         {
-          "title": "린치 의원 AI 조사 요구 보도, 7월 14일 통화정책 보고",
-          "desc": "재무부 AI 위험관리 프레임워크는 금융기관이 AI 활용 과정에서 소비자 보호, 책임성, 투명성, 회복력을 점검하도록 설계됐다. 금융 시스템에 AI를 도입하는 과정에서 기술 효율성과 운영·보안 위험을 함께...",
-          "src": "tokenpost",
+          "title": "[2026 대경 스마트건설대상] AX대상 아이디어정보기술",
+          "desc": "기자]아이디어정보기술(대표 유흥배ㆍ사진)은 건설산업의 설계ㆍ계약ㆍ시공ㆍ기성 전 과정에서 축적되는 데이터를 하나로 연결하고, 인공지능(AI)을 활용해 공사비 검토와 사업관리 업무 효율을 높이는 건설 AI...",
+          "src": "dnews",
           "date": "09/16",
-          "url": "https://www.tokenpost.kr/news/ai/408485",
-          "img": "https://f1.tokenpost.kr/2026/09/n12nsjpedb.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101656330360544",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101656330360544-2-690211.png"
         },
         {
-          "title": "美 직장인 57% \"AI가 쓴 보고서, 내가 직접 썼다고 거짓말했다\" 왜?",
-          "desc": "AI 기술은 빠르게 도입되고 있지만, 대다수 기업은 직원들이 AI를 어디까지 활용해야 하는지에 대한 명확한 가이드라인이나 정책을 마련하지 못하고 있다. 어떤 업무를 AI에 맡겨도 되는지, 어디서부터가 부정행위인지...",
-          "src": "뉴시스",
+          "title": "\"의료기기 선진입제도 하반기 재점검…실효성 높인다\"",
+          "desc": "현재 선진입제도가 4~5개 경로로 운영되고 있으며 일부 제도는 도입된 지 약 10년이 됐다는 설명이다. 성... 의료 AI의 실제 활용을 위한 정책 구체화도 하반기 과제로 제시했다. 기술 자체의 발전과 함께 의료현장에서 쓰일...",
+          "src": "bosa",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/003/0014192809?sid=104",
-          "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002236412_web.jpg"
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012196",
+          "img": "https://cdn.bosa.co.kr/news/photo/202609/3012196_413030_452.jpg"
         },
         {
-          "title": "AI 믿고 맡겼는데… 불량 못 잡고 숫자도 틀리네",
-          "desc": "골라내는 기술을 도입했다. AI가 배터리 포장재의 미세한 구김, 빛 반사, 흠집 등을 찾아내는 기술이다. 이... AI의 학습 능력 한계, 성능 부족, 환각 현상, AI 활용 능력 부재 등이 겹치면서 AI 도입 프로젝트가 중단되고...",
-          "src": "조선일보",
+          "title": "[2026 대경 스마트건설대상] 피지컬AI대상 - 스패너",
+          "desc": "피지컬AI 개발에 활용해 장비가 현장 상황을 스스로 판단하는 무인화 시공을 구현하는 것이 목표다. 자동화 기술과 디지털 시공 프로세스에 대해 사전 교육된 인력을 현장에 즉시 투입함으로써 현장에서 우려하던 도입...",
+          "src": "dnews",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998625?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/TQIV7ZP75FGPRGAEGTBRQBCQ4E.jpg?auth=00f0bc104936797a4865f4d40e16f37d1e325ed6a2429653c29b491c635c3b14&width=1024&height=537&smart=true"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131650343880798",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131650343880798-2-691479.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"AI 밸류체인 지형도 변화…삼성전자 이을 다음 타자는 전력 인프라·피...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014192803?sid=101",
-      "img": "https://img1.newsis.com/2026/09/15/NISI20260915_0002239718_web.jpg"
+      "title": "반도체 등 대기업 계약학과 수시모집 지원자 역대 최다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003748411?sid=102",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134677134.1.jpg"
     },
     {
       "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.kmib.co.kr/online_image/2026/0916/01100201.20260915502730.jpg"
     },
     {
-      "title": "[GAM] 세일포인트 ① AI 경고음 속 부각되는 사이버보안주",
-      "url": "https://www.newspim.com/news/view/20260916000017",
-      "img": "https://img.newspim.com/news/2026/09/16/2609160153077650_t1.jpg"
+      "title": "[2026 대경 스마트건설대상] DC대상 - 자이C&A",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131746439880801",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131746439880801-2-691483.jpg"
     },
     {
-      "title": "린치 의원 AI 조사 요구 보도, 7월 14일 통화정책 보고",
-      "url": "https://www.tokenpost.kr/news/ai/408485",
-      "img": "https://f1.tokenpost.kr/2026/09/n12nsjpedb.jpg"
+      "title": "[2026 대경 스마트건설대상] AX대상 아이디어정보기술",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101656330360544",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101656330360544-2-690211.png"
     }
   ]
 };
