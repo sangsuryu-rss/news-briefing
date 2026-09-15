@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.15 (화) 20:47",
+  "updatedAt": "2026.09.16 (수) 02:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 노노갈등에 이찬희 준감위원장 “노노관계에서도 노동인권 준수돼...",
-          "desc": "연합뉴스 최근 삼성전자 내부에서는 반도체를 담당하는 DS(디바이스솔루션) 부문과 가전·스마트폰·TV 등을 담당하는 DX(디바이스경험) 부문을 중심으로 각각 구성된 노조 간 갈등이 격화하고 있다. 성과급을 둘러싼 이견을...",
-          "src": "segye",
-          "date": "09/15",
-          "url": "https://n.news.naver.com/mnews/article/022/0004159280?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/15/20260915518863.jpg"
+          "title": "\"AI 밸류체인 지형도 변화…삼성전자 이을 다음 타자는 전력 인프라·피...",
+          "desc": "이후 2026년 상반기에는 AI 데이터센터에 필요한 고대역폭메모리(HBM)와 D램 수요가 급증하면서 삼성전자와... 피지컬 AI는 AI가 로봇·자동차·가전 등 실제 제품에 탑재돼 현실 세계를 인식하고 판단한 뒤 행동하는...",
+          "src": "뉴시스",
+          "date": "09/16",
+          "url": "https://n.news.naver.com/mnews/article/003/0014192803?sid=101",
+          "img": "https://img1.newsis.com/2026/09/15/NISI20260915_0002239718_web.jpg"
         },
         {
           "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.insight.co.kr/static/2026/09/15/1200/img_20260915112606_bo151ca3.jpg"
         },
         {
-          "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’ 문 열러 간다",
+          "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’서 활로",
           "desc": "선진국의 경우 냉장고, 세탁기 등 필수 백색가전 보급률이 90%를 웃도는 데다, 평균 교체 주기 역시 10년에... 삼성전자 역시 맞춤형 냉난방공조(HAVC) 기술을 바탕으로 사우디 B2B 시장을 파고드는 중이다. 삼성전자는...",
           "src": "kmib",
-          "date": "09/15",
-          "url": "https://n.news.naver.com/mnews/article/005/0001873122?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0915/01100201.20260915501738.jpg"
+          "date": "09/16",
+          "url": "https://n.news.naver.com/mnews/article/005/0001873178?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0916/01100201.20260915502730.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "교보생명, 라이프플래닛 흡수 합병…내년 4월 통합 완료",
-          "desc": "AI 기술 발전으로 생명보험사 기술과 인프라에 대한 대규모 투자 중요성이 커지면서 라이프플래닛을 독립... 전반에 활용할 방침이다. 내부에는 독립사업부 형태의 '라이프플래닛사업부'(가칭)를 신설하고 라이프플래닛...",
-          "src": "news",
-          "date": "09/15",
-          "url": "https://news.mtn.co.kr/news-detail/2026091520443087455",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/09/15/2026091520443087455_00_708.jpg"
+          "title": "[GAM] 세일포인트 ① AI 경고음 속 부각되는 사이버보안주",
+          "desc": "안전 기술이 AI 모델의 역량 발전 속도보다 앞서야 한다고 말했다. 테슬라(TSLA)와 스페이스X(SPCX)의 일론... 에이전틱 AI 활용 사례는 세 가지로 구분된다. 첫째는 챗GPT, 제미나이, 클로드 등 전사적으로 도입되는 범용...",
+          "src": "뉴스핌",
+          "date": "09/16",
+          "url": "https://www.newspim.com/news/view/20260916000017",
+          "img": "https://img.newspim.com/news/2026/09/16/2609160153077650_t1.jpg"
         },
         {
-          "title": "[청소년뉴스] 김재섭 의원, 마사회 장외발매소 내 문화·복지시설 청소...",
-          "desc": "공간으로 활용하고 청소년도 이용할 수 있도록 하는 「청소년 보호법 일부개정법률안」을 대표발의했다고... 이를 위해 성평등가족부는 2027년도 정부 예산안에 1388 통합관리시스템 구축과 전화상담 중앙센터 도입...",
-          "src": "ibabynews",
-          "date": "09/15",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154528",
-          "img": "https://www.ibabynews.com/news/photo/202609/154528_121847_4331.jpg"
+          "title": "린치 의원 AI 조사 요구 보도, 7월 14일 통화정책 보고",
+          "desc": "재무부 AI 위험관리 프레임워크는 금융기관이 AI 활용 과정에서 소비자 보호, 책임성, 투명성, 회복력을 점검하도록 설계됐다. 금융 시스템에 AI를 도입하는 과정에서 기술 효율성과 운영·보안 위험을 함께...",
+          "src": "tokenpost",
+          "date": "09/16",
+          "url": "https://www.tokenpost.kr/news/ai/408485",
+          "img": "https://f1.tokenpost.kr/2026/09/n12nsjpedb.jpg"
         },
         {
-          "title": "'요양원→프리미엄 케어' 변신…종근당산업, '벨포레스트 용인' 출격",
-          "desc": "장비도 도입했다. 밀착 돌봄을 위한 인력과 모니터링 체계도 강화했다. 회사 측에 따르면 입소자 1.9명당 요양보호사 1명을 배치하고 간호전문 요양실과 AI 기술을 활용한 모션캡처 시스템 등을 적용해 24시간 건강 상태를...",
-          "src": "megaeconomy",
-          "date": "09/15",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065613010241094",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260915/p1065613010241094_968_thum.jpg"
+          "title": "美 직장인 57% \"AI가 쓴 보고서, 내가 직접 썼다고 거짓말했다\" 왜?",
+          "desc": "AI 기술은 빠르게 도입되고 있지만, 대다수 기업은 직원들이 AI를 어디까지 활용해야 하는지에 대한 명확한 가이드라인이나 정책을 마련하지 못하고 있다. 어떤 업무를 AI에 맡겨도 되는지, 어디서부터가 부정행위인지...",
+          "src": "뉴시스",
+          "date": "09/16",
+          "url": "https://n.news.naver.com/mnews/article/003/0014192809?sid=104",
+          "img": "https://img1.newsis.com/2026/09/11/NISI20260911_0002236412_web.jpg"
         },
         {
-          "title": "계양구의회, 계양산 AI·XR 미래관광 모델 연구 착수",
-          "desc": "AI·XR 콘텐츠가 도입될 경우 산이 가진 역사와 생태 정보를 방문객이 현장에서 체험하도록 구현할 수... 근거자료로도 활용한다는 계획이다. 문미혜 대표의원은 \"계양산의 역사·생태자원에 AI와 XR 등 첨단기술을 결합해...",
-          "src": "kmaeil",
-          "date": "09/15",
-          "url": "https://www.kmaeil.com/news/articleView.html?idxno=651847",
-          "img": "https://cdn.kmaeil.com/news/photo/202609/651847_450310_354.jpg"
+          "title": "AI 믿고 맡겼는데… 불량 못 잡고 숫자도 틀리네",
+          "desc": "골라내는 기술을 도입했다. AI가 배터리 포장재의 미세한 구김, 빛 반사, 흠집 등을 찾아내는 기술이다. 이... AI의 학습 능력 한계, 성능 부족, 환각 현상, AI 활용 능력 부재 등이 겹치면서 AI 도입 프로젝트가 중단되고...",
+          "src": "조선일보",
+          "date": "09/16",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998625?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/TQIV7ZP75FGPRGAEGTBRQBCQ4E.jpg?auth=00f0bc104936797a4865f4d40e16f37d1e325ed6a2429653c29b491c635c3b14&width=1024&height=537&smart=true"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "9월 3주 주요 제조업 전망",
+          "desc": "및 협력사가 참여함. 격자가 인공지능(AI) 기반 공격 도구 등을 활용해 자동차 협력사 정보시스템에... 시장은 삼성전자가 점유율 40%로 시장을 주도하고 있음. 이외에는 화웨이 30%, 모토로라 12% 등이 뒤를 이음. 이번...",
+          "src": "laborplus",
+          "date": "09/15",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41479",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202609/41479_73960_2351.jpg"
+        },
+        {
           "title": "[재계 투데이] LG전자, 한국형 공동주택 히트펌프 모델 제주서 첫 선 外",
           "desc": "세척이 끝난 뒤에는 주요 부품의 상태를 확인하고 냉난방 성능 테스트와 기능 동작을 통해 이상 여부까지도 세심하게 점검한다. ◆삼성전자서비스, 업계 최초로 'ISMS-P' 인증 획득 삼성전자서비스는 전자제품 서비스...",
           "src": "news",
           "date": "09/15",
           "url": "https://news.dealsitetv.com/articles/176020",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/693fc9e4e2ce515d3323623a6ebbfb32/thumb.jpg"
         },
         {
           "title": "[가스안전대상-산업포장] 천성흔 한비크라이오 대표",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/15",
           "url": "http://www.seouleconews.com/news/articleView.html?idxno=93755",
           "img": "http://www.seouleconews.com/news/thumbnail/202609/93755_100645_349_v150.jpg"
-        },
-        {
-          "title": "삼성·중흥그룹 등 국내 대기업, 협력사 납품대금 조기 지급… 지역 경...",
-          "desc": "이와 함께 삼성전자는 지주 계열 13관계사들과 함께 추석 연휴 전에 협력회사 물품대금을 조기 지급한다.... 현대차와 기아차에 부품 및 원자재 · 소모품 등을 거래하는 6000여 개 협력사가 대상이다. 현대차그룹은 1차...",
-          "src": "jnilbo",
-          "date": "09/15",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000065577",
-          "img": "https://cdn.jnilbo.com/news/photo/202609/90000065577_586672_341.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 노노갈등에 이찬희 준감위원장 “노노관계에서도 노동인권 준수돼...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004159280?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/15/20260915518863.jpg"
+      "title": "\"AI 밸류체인 지형도 변화…삼성전자 이을 다음 타자는 전력 인프라·피...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014192803?sid=101",
+      "img": "https://img1.newsis.com/2026/09/15/NISI20260915_0002239718_web.jpg"
     },
     {
       "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.insight.co.kr/static/2026/09/15/1200/img_20260915112606_bo151ca3.jpg"
     },
     {
-      "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’ 문 열러 간다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001873122?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0915/01100201.20260915501738.jpg"
+      "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’서 활로",
+      "url": "https://n.news.naver.com/mnews/article/005/0001873178?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0916/01100201.20260915502730.jpg"
     },
     {
-      "title": "교보생명, 라이프플래닛 흡수 합병…내년 4월 통합 완료",
-      "url": "https://news.mtn.co.kr/news-detail/2026091520443087455",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/09/15/2026091520443087455_00_708.jpg"
+      "title": "[GAM] 세일포인트 ① AI 경고음 속 부각되는 사이버보안주",
+      "url": "https://www.newspim.com/news/view/20260916000017",
+      "img": "https://img.newspim.com/news/2026/09/16/2609160153077650_t1.jpg"
     },
     {
-      "title": "[청소년뉴스] 김재섭 의원, 마사회 장외발매소 내 문화·복지시설 청소...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154528",
-      "img": "https://www.ibabynews.com/news/photo/202609/154528_121847_4331.jpg"
+      "title": "린치 의원 AI 조사 요구 보도, 7월 14일 통화정책 보고",
+      "url": "https://www.tokenpost.kr/news/ai/408485",
+      "img": "https://f1.tokenpost.kr/2026/09/n12nsjpedb.jpg"
     }
   ]
 };
