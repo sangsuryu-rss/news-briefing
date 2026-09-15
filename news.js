@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.15 (화) 13:57",
+  "updatedAt": "2026.09.15 (화) 20:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "대기업 계약학과 지원자 역대 최다…3명 중 2명 '반도체'",
-          "desc": "취업난이 이어지면서 삼성전자와 SK하이닉스 등 대기업 취업이 보장되는 계약학과에 역대 가장 많은... 올해 신설된 LG전자-부산대 스마트가전공학과에는 20명 모집에 603명이 지원해 30.15대 1의 경쟁률을...",
-          "src": "아이뉴스24",
+          "title": "삼성 노노갈등에 이찬희 준감위원장 “노노관계에서도 노동인권 준수돼...",
+          "desc": "연합뉴스 최근 삼성전자 내부에서는 반도체를 담당하는 DS(디바이스솔루션) 부문과 가전·스마트폰·TV 등을 담당하는 DX(디바이스경험) 부문을 중심으로 각각 구성된 노조 간 갈등이 격화하고 있다. 성과급을 둘러싼 이견을...",
+          "src": "segye",
           "date": "09/15",
-          "url": "https://n.news.naver.com/mnews/article/031/0001058497?sid=105",
-          "img": "https://image.inews24.com/v1/614df01541f402.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004159280?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/15/20260915518863.jpg"
         },
         {
           "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
         },
         {
-          "title": "업장 에어컨 청소도 삼성전자와…최대 30% 할인 프로모션",
-          "desc": "삼성전자가 내달 31일까지 사업자 고객 대상 하반기 상업용 시스템에어컨 세척 할인 프로모션을 진행한다고... 에너지효율 1등급 에어컨, 냉장고, 세탁기, 건조기 등이 지원 품목으로 선정됐으며, 오는 12월 31일까지...",
-          "src": "financialpost",
+          "title": "'전기료 깎는 가전' 시작한 LG전자...'팔고 난 뒤'에서 활로 찾는다",
+          "desc": "LG전자 세탁기와 건조기를 주말 낮에 돌리면 전기요금을 돌려받는다. 지난 1일 한국전력과 LG전자·삼성전자가 시작한 '스마트가전 캐시백' 시범사업이다. 15일로 시행 2주를 맞았다.환급금은 한전이 부담한다. 고객이...",
+          "src": "insight",
           "date": "09/15",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=275610",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/275610_360566_2642_v150.jpg"
+          "url": "https://www.insight.co.kr/news/573574",
+          "img": "https://img.insight.co.kr/static/2026/09/15/1200/img_20260915112606_bo151ca3.jpg"
         },
         {
-          "title": "해상운임 3년 만에 최고치 육박, 가전업계 원가 비상",
-          "desc": "냉장고·세탁기·TV 등 주요 가전제품은 부피와 중량이 커 선박 운송 의존도가 높은 만큼 운임 상승이 제품당 물류비 증가로 직결될 수 있다. 삼성전자와 LG전자 모두 해외 매출 비중이 높아 고운임 장기화에 따른 부담이...",
-          "src": "sidae",
+          "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’ 문 열러 간다",
+          "desc": "선진국의 경우 냉장고, 세탁기 등 필수 백색가전 보급률이 90%를 웃도는 데다, 평균 교체 주기 역시 10년에... 삼성전자 역시 맞춤형 냉난방공조(HAVC) 기술을 바탕으로 사우디 B2B 시장을 파고드는 중이다. 삼성전자는...",
+          "src": "kmib",
           "date": "09/15",
-          "url": "https://n.news.naver.com/mnews/article/417/0001158341?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/15/00/2026091510460510492_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/005/0001873122?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0915/01100201.20260915501738.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "(데스킹)김봉균 KT클라우드 대표 \"5년 내 AIDC 1GW 추가 공급\"",
-          "desc": "액체냉각과 초고밀도 전력 기술을 적용하고 AI 기반 지능형 운용 시스템을 도입해 데이터센터의 안정성과 운영 효율성을 높인다. 디지털 트윈과 로봇을 활용한 운영·재해복구 체계도 구축한다. 개방형 데이터센터...",
-          "src": "newsway",
+          "title": "교보생명, 라이프플래닛 흡수 합병…내년 4월 통합 완료",
+          "desc": "AI 기술 발전으로 생명보험사 기술과 인프라에 대한 대규모 투자 중요성이 커지면서 라이프플래닛을 독립... 전반에 활용할 방침이다. 내부에는 독립사업부 형태의 '라이프플래닛사업부'(가칭)를 신설하고 라이프플래닛...",
+          "src": "news",
           "date": "09/15",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026091511304355931",
-          "img": "https://nimage.newsway.co.kr/photo/2026/09/15/20260915002101_1200.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026091520443087455",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/09/15/2026091520443087455_00_708.jpg"
         },
         {
-          "title": "삼성전자, 업계 최초 6G 핵심 '통신·센싱 융합 기술' 현장 실증 성공",
-          "desc": "삼성전자는 2020년 버라이즌과 가상화 기지국을 선제적으로 도입해 성공적으로 상용 서비스를 시작한 바... ISAC 기술을 활용해 사람들의 움직임과 군중 밀집도를 감지했다. AI를 통해 수집된 정보를 실시간 분석한 뒤...",
-          "src": "소비자가만드는신문",
+          "title": "[청소년뉴스] 김재섭 의원, 마사회 장외발매소 내 문화·복지시설 청소...",
+          "desc": "공간으로 활용하고 청소년도 이용할 수 있도록 하는 「청소년 보호법 일부개정법률안」을 대표발의했다고... 이를 위해 성평등가족부는 2027년도 정부 예산안에 1388 통합관리시스템 구축과 전화상담 중앙센터 도입...",
+          "src": "ibabynews",
           "date": "09/15",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763874",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763874_318128_519_v150.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154528",
+          "img": "https://www.ibabynews.com/news/photo/202609/154528_121847_4331.jpg"
         },
         {
-          "title": "KT, 콜센터품질지수 3관왕 쾌거...소비자 관심도 상승",
-          "desc": "KT는 이와 함께 AI 기술을 활용한 고객센터 혁신 성과를 인정받아 'AX컨택센터혁신상'까지 수상하며 2026년... 자체 AI 엔진을 기반으로 보이스봇과 챗봇, 목소리 자동인증 등 다양한 AI 기술을 상담 현장에 도입해왔...",
-          "src": "thebigdata",
+          "title": "'요양원→프리미엄 케어' 변신…종근당산업, '벨포레스트 용인' 출격",
+          "desc": "장비도 도입했다. 밀착 돌봄을 위한 인력과 모니터링 체계도 강화했다. 회사 측에 따르면 입소자 1.9명당 요양보호사 1명을 배치하고 간호전문 요양실과 AI 기술을 활용한 모션캡처 시스템 등을 적용해 24시간 건강 상태를...",
+          "src": "megaeconomy",
           "date": "09/15",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=202609151348549216bbceadc3c9_23",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260915135138098550bbceadc3c911215320420.jpg&nmt=23"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065613010241094",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260915/p1065613010241094_968_thum.jpg"
         },
         {
-          "title": "삼성SDS, 앤트로픽 '클로드 파트너 네트워크' 국내 첫 셀렉트 티어 확보",
-          "desc": "삼성SDS는 대규모 적용 과정에서 확보한 활용 사례와 운영 노하우를 대외 기업의 AI 전환 사업으로... AI 도입을 지원하겠다\"며 \"글로벌 AI 기술을 삼성SDS의 AI 풀스택과 결합해 고객의 성공적인 AX를 뒷받침하겠다\"고...",
-          "src": "소비자가만드는신문",
+          "title": "계양구의회, 계양산 AI·XR 미래관광 모델 연구 착수",
+          "desc": "AI·XR 콘텐츠가 도입될 경우 산이 가진 역사와 생태 정보를 방문객이 현장에서 체험하도록 구현할 수... 근거자료로도 활용한다는 계획이다. 문미혜 대표의원은 \"계양산의 역사·생태자원에 AI와 XR 등 첨단기술을 결합해...",
+          "src": "kmaeil",
           "date": "09/15",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763863",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763863_318121_2847_v150.jpg"
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=651847",
+          "img": "https://cdn.kmaeil.com/news/photo/202609/651847_450310_354.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[재계 투데이] LG전자, 한국형 공동주택 히트펌프 모델 제주서 첫 선 外",
+          "desc": "세척이 끝난 뒤에는 주요 부품의 상태를 확인하고 냉난방 성능 테스트와 기능 동작을 통해 이상 여부까지도 세심하게 점검한다. ◆삼성전자서비스, 업계 최초로 'ISMS-P' 인증 획득 삼성전자서비스는 전자제품 서비스...",
+          "src": "news",
+          "date": "09/15",
+          "url": "https://news.dealsitetv.com/articles/176020",
+          "img": ""
+        },
         {
           "title": "[가스안전대상-산업포장] 천성흔 한비크라이오 대표",
           "desc": "삼성전자와 SK하이닉스 등 국내 주요 반도체 생산라인에 고순도 가스용 특수용기를 적기에 공급했으며... 30여개 국내 협력사와 공급망을 유지하면서 관련 제조 생태계의 동반 성장에도 기여하고 있다. 천 대표의 지난...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/15",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000065577",
           "img": "https://cdn.jnilbo.com/news/photo/202609/90000065577_586672_341.jpg"
-        },
-        {
-          "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
-          "desc": "현대차도 삼성전자 출신들을 영입하고 현대에 부품 공급을 중단하며 맞대응 했다. 1994년 영입전에는 두... 인사와 협력사와 접점을 늘리고 있다. 성과를 낼 수 있으면 출신도 성별도 중요하지 않았다. 이들은 유기적으로...",
-          "src": "globale",
-          "date": "09/15",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "대기업 계약학과 지원자 역대 최다…3명 중 2명 '반도체'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001058497?sid=105",
-      "img": "https://image.inews24.com/v1/614df01541f402.jpg"
+      "title": "삼성 노노갈등에 이찬희 준감위원장 “노노관계에서도 노동인권 준수돼...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004159280?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/15/20260915518863.jpg"
     },
     {
       "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
     },
     {
-      "title": "업장 에어컨 청소도 삼성전자와…최대 30% 할인 프로모션",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=275610",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/275610_360566_2642_v150.jpg"
+      "title": "'전기료 깎는 가전' 시작한 LG전자...'팔고 난 뒤'에서 활로 찾는다",
+      "url": "https://www.insight.co.kr/news/573574",
+      "img": "https://img.insight.co.kr/static/2026/09/15/1200/img_20260915112606_bo151ca3.jpg"
     },
     {
-      "title": "해상운임 3년 만에 최고치 육박, 가전업계 원가 비상",
-      "url": "https://n.news.naver.com/mnews/article/417/0001158341?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/15/00/2026091510460510492_1.jpg"
+      "title": "북미·유럽 닫히자… K가전, ‘오일머니·신흥 중산층’ 문 열러 간다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001873122?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0915/01100201.20260915501738.jpg"
     },
     {
-      "title": "(데스킹)김봉균 KT클라우드 대표 \"5년 내 AIDC 1GW 추가 공급\"",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026091511304355931",
-      "img": "https://nimage.newsway.co.kr/photo/2026/09/15/20260915002101_1200.jpg"
+      "title": "교보생명, 라이프플래닛 흡수 합병…내년 4월 통합 완료",
+      "url": "https://news.mtn.co.kr/news-detail/2026091520443087455",
+      "img": "https://menu.mtn.co.kr/upload/article/2026/09/15/2026091520443087455_00_708.jpg"
     },
     {
-      "title": "삼성전자, 업계 최초 6G 핵심 '통신·센싱 융합 기술' 현장 실증 성공",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763874",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763874_318128_519_v150.jpg"
+      "title": "[청소년뉴스] 김재섭 의원, 마사회 장외발매소 내 문화·복지시설 청소...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154528",
+      "img": "https://www.ibabynews.com/news/photo/202609/154528_121847_4331.jpg"
     }
   ]
 };
