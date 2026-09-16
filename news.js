@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.16 (수) 22:32",
+  "updatedAt": "2026.09.17 (목) 03:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[이슈5] 법원 \"北, 연락사무소 폭파 배상해야…남북 신뢰 훼손\" 外",
-          "desc": "<4> 최근 가전 시장에서 떠오르는 의류관리기, 한 대 가격이 200만 원을 훌쩍 넘습니다. 소비자원이 LG전자와 삼성전자, 코웨이 등 3개 업체 제품의 품질을 비교한 결과, 소비 전력량과 작동 시간에 차이가 있는 것으로...",
-          "src": "연합뉴스TV",
-          "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/422/0000906865?sid=102",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260916/MYH20260916192206xy6.jpg"
+          "title": "美서 결국 1위 꿰찬 中 가전…삼전·LG 밀렸다",
+          "desc": "16일 미국 고객만족도 조사기관 ACSI에 따르면 올해 미국 TV 고객만족도 조사에서 중국 가전기업 하이센스가 삼성전자·미국 비지오와 나란히 81점으로 공동 1위를 차지했다. 생활가전에서는 중국 가전기업...",
+          "src": "디지털타임스",
+          "date": "09/17",
+          "url": "https://n.news.naver.com/mnews/article/029/0003048482?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/16/news-p.v1.20260916.0a8beb9f293d4bf4ad0586fb0cebedb1_R.png"
         },
         {
           "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
         },
         {
-          "title": "부산기후박람회에 집결한 기업들…AI·수소로 탄소중립 해법 제시",
-          "desc": "삼성전자는 약 270㎡ 규모의 단독 전시관을 마련하고 가정용 고효율 가전부터 AI 데이터센터와 대형... 생활가전 전시 공간에는 히트펌프 기술로 세탁·건조 과정의 전력 사용량을 줄인 워시콤보와 워시타워, 건조기...",
-          "src": "ekoreanews",
-          "date": "09/16",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88168",
-          "img": "https://cdn.ekoreanews.co.kr/news/photo/202609/88168_110380_5524.jpg"
+          "title": "삼성-LG전자, 고효율 에너지 절감 기술 대결",
+          "desc": "삼성전자와 LG전자가 나란히 16∼18일 부산 벡스코에서 열리는 ‘2026 기후산업국제박람회’에 참가해... 에너지소비효율 1등급과 듀얼 인버터 히트펌프 기술을 적용한 세탁건조기 등 고효율 생활가전도 공개한다....",
+          "src": "동아일보",
+          "date": "09/17",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748697?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134682864.4.jpg"
         },
         {
-          "title": "삼성·LG전자, '기후산업국제박람회'에서 맞춤형 에너지 절감 솔루션 선...",
-          "desc": "실제 삼성전자에 따르면 스마트싱스 기반의 AI 절약모드 기능을 사용할 시 삼성전자의 고효율 세탁기 에너지 사용량이 약 30% 절감되는 것이 실증된 바 있다. 삼성전자 DA사업부 임성택 부사장은 \"이번 박람회는 고효율...",
-          "src": "소비자가만드는신문",
-          "date": "09/16",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764039",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764039_318266_4629_v150.jpg"
+          "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
+          "desc": "\"저희와 한번 콜라보 해보시죠.\" CES2026을 방문한 정의선은 삼성전자 전시관을 찾았다. 로봇청소기를 보고 현대차의 자율주행로봇플랫폼 '모베드'와 결합하면 어떻겠느냐고 제안했다. 높낮이를 조절하고 어디든 이동할 수...",
+          "src": "globale",
+          "date": "09/15",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
+          "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "GFCN 타박 \"AI 콘텐츠 표시제 불가피…팩트체킹은 시민의 기본기술\"",
-          "desc": "표시제 도입은 불가피하다”고 말했다.타박 회장은 AI 규제에서는 기술의 효용과 악용 가능성 사이에서... 우크라이나의 정보전이 전쟁의 일부이며 영국도 언론·플랫폼 지원과 AI 등을 활용해 러시아를 겨냥한...",
-          "src": "kor",
-          "date": "09/16",
-          "url": "http://kor.theasian.asia/archives/415793",
-          "img": "https://kor.theasian.asia/wp-content/uploads/2026/09/9A2lYl8-uPB52jJMniiRRQDatiTx_b0Te89jKUU0x-Vu-C3NuCPx3_XukSvqaZZoGMrqwPqQLOicUoz8AgKReOlwLRKidUyWv8ooTSBed6Sjzs7c0toHbhRXv2yAUHdqKZfAC_ZWdj0HLg9oTQWErjE6LrTgsERNJm4e8Guf-SPOkZ6fO9M_AO4o0u-pGz4Q.jpeg"
+          "title": "가천대 길병원, 다기관 협력수련 시범사업 참여 外",
+          "desc": "한양대병원은 2008년 로봇수술센터 문을 열며 '다빈치 S'를 처음 도입했다. 이어 2012년 400례, 2018년 1000례를... 특히 병리 영상 빅데이터를 분석해 진단 보고서를 도출하는 AI 기술 국제 경진대회인 'REG2025'와 후속 대회인...",
+          "src": "newsmp",
+          "date": "09/17",
+          "url": "http://www.newsmp.com/news/articleView.html?idxno=258187",
+          "img": "http://www.newsmp.com/news/thumbnail/202609/258187_296813_5011_v150.jpg"
         },
         {
-          "title": "충남 미래수업 한자리에…1만2000명 '온수업'으로 수업혁신 공유",
-          "desc": "현장에서 곧바로 활용할 수 있는 수업 활동을 소개하는 '수업 조리법 가게'를 비롯해 교과별 활동을... AI와 디지털 기술 도입이 빠르게 확대되는 교육현장에서 중요한 것은 새로운 기술을 얼마나 많이 사용하는지가...",
-          "src": "그린포스트",
-          "date": "09/16",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=350270",
-          "img": "https://cdn.greened.kr/news/thumbnail/202609/350270_401866_5339_v150.jpg"
+          "title": "[일문일답] 마크 베니오프 세일즈포스 CEO “기존 가격표 사실상 버렸다...",
+          "desc": "내 관점에서 기술 자체가 좋거나 나쁜 것은 아니다. 중요한 것은 그 기술로 무엇을 하느냐다. 분명한 점은... 다르다.” ▲AI를 도입하는 것과 능숙하게 활용하는 것은 다르다. 적극적인 사용자와 참여를 주저하는 직원...",
+          "src": "디지털데일리",
+          "date": "09/17",
+          "url": "https://n.news.naver.com/mnews/article/138/0002241717?sid=105",
+          "img": ""
         },
         {
-          "title": "리벨리온, 일본 AI 데이터센터에 NPU 100랙 공급 추진…추론 인프라 시장...",
-          "desc": "ai&는 초도 물량을 시작으로 리벨랙 도입 규모를 100대 이상으로 확대할 예정이다.... ai& 기술팀은 GPU 환경에서 사용해 온 오픈소스 소프트웨어를 활용하고 있으며...",
-          "src": "venturesquare",
-          "date": "09/16",
-          "url": "https://www.venturesquare.net/1114306/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/rebe.png"
+          "title": "AI 에이전트 확산, 기업들 권한·감사 통제탑 구축",
+          "desc": "인튜이트는 에이전트 개발 키트를 공개한 뒤 5주 안에 수백 개의 에이전트가 잠재적 활용 사례로... 기업들이 AI 에이전트 도입을 중단하기보다 권한·감사·보안 계층을 추가하는 방식으로 대응하면서, 경쟁의...",
+          "src": "tokenpost",
+          "date": "09/17",
+          "url": "https://www.tokenpost.kr/news/ai/409192",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/gcrc60mwbt.jpg"
         },
         {
-          "title": "공정별로 진화하는 부산 조리로봇",
-          "desc": "추가 도입한다고 16일 밝혔다. 사업비는 국비 4억 원을 포함해 총 8억 원으로, 국비는 지난해 2억5000만 원보다... 기존 솥을 그대로 활용할 수 있는 장착형 교반기와 AI 비전 기반 객체 인식, 자동제어 기술도 적용한다. 먼저...",
-          "src": "fsnews",
-          "date": "09/16",
-          "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62191",
-          "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62191_53038_739_v150.jpg"
+          "title": "[위클리오늘] 미래대응기금 45.4조 중 52%는 기존사업 이관···순수 신...",
+          "desc": "주요 이관 사업으로는 과학기술정보통신부의 'AI컴퓨팅 자원 활용 기반 강화'(4조2752억원, 기존 일반회계)... 나라살림연구소는 \"일시적 세수 증가분을 적립하는 기금의 도입 취지는 타당하나, 기존 상시사업을...",
+          "src": "weeklytoday",
+          "date": "09/17",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=794808",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202609/794808_984344_1734_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[이슈5] 법원 \"北, 연락사무소 폭파 배상해야…남북 신뢰 훼손\" 外",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906865?sid=102",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260916/MYH20260916192206xy6.jpg"
+      "title": "美서 결국 1위 꿰찬 中 가전…삼전·LG 밀렸다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048482?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/16/news-p.v1.20260916.0a8beb9f293d4bf4ad0586fb0cebedb1_R.png"
     },
     {
       "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
     },
     {
-      "title": "부산기후박람회에 집결한 기업들…AI·수소로 탄소중립 해법 제시",
-      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88168",
-      "img": "https://cdn.ekoreanews.co.kr/news/photo/202609/88168_110380_5524.jpg"
+      "title": "삼성-LG전자, 고효율 에너지 절감 기술 대결",
+      "url": "https://n.news.naver.com/mnews/article/020/0003748697?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134682864.4.jpg"
     },
     {
-      "title": "삼성·LG전자, '기후산업국제박람회'에서 맞춤형 에너지 절감 솔루션 선...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764039",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764039_318266_4629_v150.jpg"
+      "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
+      "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
     },
     {
-      "title": "GFCN 타박 \"AI 콘텐츠 표시제 불가피…팩트체킹은 시민의 기본기술\"",
-      "url": "http://kor.theasian.asia/archives/415793",
-      "img": "https://kor.theasian.asia/wp-content/uploads/2026/09/9A2lYl8-uPB52jJMniiRRQDatiTx_b0Te89jKUU0x-Vu-C3NuCPx3_XukSvqaZZoGMrqwPqQLOicUoz8AgKReOlwLRKidUyWv8ooTSBed6Sjzs7c0toHbhRXv2yAUHdqKZfAC_ZWdj0HLg9oTQWErjE6LrTgsERNJm4e8Guf-SPOkZ6fO9M_AO4o0u-pGz4Q.jpeg"
+      "title": "가천대 길병원, 다기관 협력수련 시범사업 참여 外",
+      "url": "http://www.newsmp.com/news/articleView.html?idxno=258187",
+      "img": "http://www.newsmp.com/news/thumbnail/202609/258187_296813_5011_v150.jpg"
     },
     {
-      "title": "충남 미래수업 한자리에…1만2000명 '온수업'으로 수업혁신 공유",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=350270",
-      "img": "https://cdn.greened.kr/news/thumbnail/202609/350270_401866_5339_v150.jpg"
+      "title": "AI 에이전트 확산, 기업들 권한·감사 통제탑 구축",
+      "url": "https://www.tokenpost.kr/news/ai/409192",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/gcrc60mwbt.jpg"
     }
   ]
 };
