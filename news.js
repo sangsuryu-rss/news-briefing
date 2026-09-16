@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.16 (수) 16:43",
+  "updatedAt": "2026.09.16 (수) 22:32",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "초기업노조, '블랙리스트 작성 혐의' 최승호 위원장 선처 탄원 추진",
-          "desc": "최근 최 위원장 등은 삼성전자 임직원 개인정보를 활용해 노조 가입 여부 등이 담긴 '노조 블랙리스트'를 작성한 혐의로 검찰에 송치됐습니다. 이에 대해 스마트폰, 가전 등을 담당하는 DX 부문 중심의 동행노조는 사건에...",
-          "src": "imnews",
+          "title": "[이슈5] 법원 \"北, 연락사무소 폭파 배상해야…남북 신뢰 훼손\" 外",
+          "desc": "<4> 최근 가전 시장에서 떠오르는 의류관리기, 한 대 가격이 200만 원을 훌쩍 넘습니다. 소비자원이 LG전자와 삼성전자, 코웨이 등 3개 업체 제품의 품질을 비교한 결과, 소비 전력량과 작동 시간에 차이가 있는 것으로...",
+          "src": "연합뉴스TV",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/214/0001524313?sid=101",
-          "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/09/16/ggm_20260916_13.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000906865?sid=102",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260916/MYH20260916192206xy6.jpg"
         },
         {
           "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
         },
         {
-          "title": "삼성전자·LG전자, 韓 HVAC 주도권 다툼 '점화'",
-          "desc": "삼성전자와 LG전자는 16일부터 18일까지 부산 벡스코에서 열리는 '기후산업국제박람회'에 참가했다/사진... 생활가전 존에서는 ▲세탁건조기 ▲세탁기 ▲건조기 ▲의류관리기 ▲정수기 ▲인덕션 ▲식기세척기 등을...",
-          "src": "테크M",
+          "title": "부산기후박람회에 집결한 기업들…AI·수소로 탄소중립 해법 제시",
+          "desc": "삼성전자는 약 270㎡ 규모의 단독 전시관을 마련하고 가정용 고효율 가전부터 AI 데이터센터와 대형... 생활가전 전시 공간에는 히트펌프 기술로 세탁·건조 과정의 전력 사용량을 줄인 워시콤보와 워시타워, 건조기...",
+          "src": "ekoreanews",
           "date": "09/16",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=155306",
-          "img": "https://cdn.techm.kr/news/thumbnail/202609/155306_220955_757_v150.jpg"
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88168",
+          "img": "https://cdn.ekoreanews.co.kr/news/photo/202609/88168_110380_5524.jpg"
         },
         {
-          "title": "AI와 녹색 '쌍둥이 전환', 미래 성장동력으로 부상",
-          "desc": "삼성전자는 AI 기반 고효율 냉난방공조와 통합에너지 솔루션을, LG전자는 AI 기반 고효율 가전과 공조 기술을 선보였다. SK이노베이션은 재생에너지·ESS 및 AI 데이터센터 전력 인프라를, 포스코홀딩스는 수소환원제철...",
-          "src": "dongponews",
+          "title": "삼성·LG전자, '기후산업국제박람회'에서 맞춤형 에너지 절감 솔루션 선...",
+          "desc": "실제 삼성전자에 따르면 스마트싱스 기반의 AI 절약모드 기능을 사용할 시 삼성전자의 고효율 세탁기 에너지 사용량이 약 30% 절감되는 것이 실증된 바 있다. 삼성전자 DA사업부 임성택 부사장은 \"이번 박람회는 고효율...",
+          "src": "소비자가만드는신문",
           "date": "09/16",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=60562",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202609/60562_216846_734_v150.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764039",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764039_318266_4629_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "항공산업 투자, 운항 밖으로…기단∙조직∙보안 인프라 정비",
-          "desc": "보잉의 777-9 20대, 787-10 25대, 737-10 50대, 777-8F 화물기 8대 등 총 103대 도입을 확정했다. GE에어로스페이스와... 장비는 AI 딥러닝과 밀리미터파 기술을 활용해 액체·분말·플라스틱 폭발물 등 비금속 위해물품까지 탐지할...",
-          "src": "kdfnews",
+          "title": "GFCN 타박 \"AI 콘텐츠 표시제 불가피…팩트체킹은 시민의 기본기술\"",
+          "desc": "표시제 도입은 불가피하다”고 말했다.타박 회장은 AI 규제에서는 기술의 효용과 악용 가능성 사이에서... 우크라이나의 정보전이 전쟁의 일부이며 영국도 언론·플랫폼 지원과 AI 등을 활용해 러시아를 겨냥한...",
+          "src": "kor",
           "date": "09/16",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=188141",
-          "img": "http://www.kdfnews.com/news/thumbnail/202609/188141_239105_391_v150.jpg"
+          "url": "http://kor.theasian.asia/archives/415793",
+          "img": "https://kor.theasian.asia/wp-content/uploads/2026/09/9A2lYl8-uPB52jJMniiRRQDatiTx_b0Te89jKUU0x-Vu-C3NuCPx3_XukSvqaZZoGMrqwPqQLOicUoz8AgKReOlwLRKidUyWv8ooTSBed6Sjzs7c0toHbhRXv2yAUHdqKZfAC_ZWdj0HLg9oTQWErjE6LrTgsERNJm4e8Guf-SPOkZ6fO9M_AO4o0u-pGz4Q.jpeg"
         },
         {
-          "title": "LG유플, 'U+일상비일상의틈' 리뉴얼… AI와 문화예술 만나 아트 플랫폼 ...",
-          "desc": "이번 리뉴얼은 단발성 팝업스토어 중심의 운영에서 벗어나, AI 기술을 접목한 개인화된 관람 경험과 신진... 특히 가변형 레일 구조와 이동식 가벽을 도입해 △미디어아트 △회화 △설치미술 △인터랙티브 콘텐츠 등...",
-          "src": "더구루",
+          "title": "충남 미래수업 한자리에…1만2000명 '온수업'으로 수업혁신 공유",
+          "desc": "현장에서 곧바로 활용할 수 있는 수업 활동을 소개하는 '수업 조리법 가게'를 비롯해 교과별 활동을... AI와 디지털 기술 도입이 빠르게 확대되는 교육현장에서 중요한 것은 새로운 기술을 얼마나 많이 사용하는지가...",
+          "src": "그린포스트",
           "date": "09/16",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107181",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895424355598_1a9a4a.jpg"
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350270",
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/350270_401866_5339_v150.jpg"
         },
         {
-          "title": "넥슨 '마비노기 모바일', AI가 게임 플레이 돕는 'AI 커넥터' 베타 예고",
-          "desc": "모바일'에 AI를 활용해 게임 정보를 확인하고 일부 플레이를 대신 수행할 수 있는 기능이 도입된다. 게임... 현재는 모바일 환경에서 PC와 같은 방식으로 AI 도구를 활용하기 어려운 기술적 제약이 있는 만큼, 향후...",
-          "src": "gamevu",
+          "title": "리벨리온, 일본 AI 데이터센터에 NPU 100랙 공급 추진…추론 인프라 시장...",
+          "desc": "ai&는 초도 물량을 시작으로 리벨랙 도입 규모를 100대 이상으로 확대할 예정이다.... ai& 기술팀은 GPU 환경에서 사용해 온 오픈소스 소프트웨어를 활용하고 있으며...",
+          "src": "venturesquare",
           "date": "09/16",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60855",
-          "img": "https://cdn.gamevu.co.kr/news/photo/202609/60855_93794_3311.jpg"
+          "url": "https://www.venturesquare.net/1114306/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/rebe.png"
         },
         {
-          "title": "새단장한 LGU+ 일상비일상의틈…\"갤러리 아닌 개러지\"",
-          "desc": "LG유플러스는 이곳에 인공지능(AI) 기반의 'AI 아트 메이트'도 도입했다. 2층 리셉션에서 간단한 예술 취향... 장 그룹장은 \"일상과비일상의틈은 AI 기술을 활용해 누구나 쉽게 예술을 이해하고 자신의 취향과 가능성을...",
-          "src": "news",
+          "title": "공정별로 진화하는 부산 조리로봇",
+          "desc": "추가 도입한다고 16일 밝혔다. 사업비는 국비 4억 원을 포함해 총 8억 원으로, 국비는 지난해 2억5000만 원보다... 기존 솥을 그대로 활용할 수 있는 장착형 교반기와 AI 비전 기반 객체 인식, 자동제어 기술도 적용한다. 먼저...",
+          "src": "fsnews",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050833?sid=105",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/09/16/7a61f773974ca0fa76ab33df8e82d9fc.jpg"
+          "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62191",
+          "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62191_53038_739_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "상저하고 어렵다더니… 삼성D, 모바일 OLED로 실적 '증명'",
+          "desc": "디스플레이와 힌지 등 부품의 수급을 조절하기 위해 아이폰 듀오는 한국을 비롯한 일부 국가에서 10월부터... 전자와 구글이 겪어온 화면 주름·힌지 내구성·방수 문제를 지켜보며 삼성디스플레이를 비롯한 협력사들...",
+          "src": "econovill",
+          "date": "09/16",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751031",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/751031_726788_1413_v150.jpg"
+        },
+        {
+          "title": "이재용 '깜짝 참석'…日 참의원 대표단과 반도체 협력 논의",
+          "desc": "소재·부품·장비 생태계와의 협력 확대에도 관심이 쏠린다. 16일 재계에 따르면 이 회장은 지난 14일 서울... 삼성전자와 일본 정부·지방자치단체, 현지 협력사 관계자 등 약 100명이 개소식에 참석했다. 삼성전자는...",
+          "src": "전자신문",
+          "date": "09/16",
+          "url": "https://www.ngetnews.com/news/articleView.html?idxno=553386",
+          "img": "https://cdn.ngetnews.com/news/thumbnail/202609/553386_121367_308_v150.jpg"
+        },
         {
           "title": "이재용, 日 참의원 대표단과 ‘깜짝 오찬’…AI·반도체 협력 논의",
           "desc": "일본에는 삼성전자와 거래하는 주요 반도체 소재·부품·장비 업체들이 다수 자리 잡고 있다. 삼성전자는 APL을 활용해 현지 협력사와의 연구개발(R&D) 협업을 강화하고 첨단 패키징 기술 경쟁력을 높일 방침이다. 이 회장...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/16",
           "url": "https://vop.co.kr/A00001696721.html",
           "img": ""
-        },
-        {
-          "title": "\"살아있는 기술자가 없다\"…185조 증설 나선 반도체 덮친 인구소멸",
-          "desc": "한국 가치사슬 전이와 공급망 변수 대만과 동남아의 후공정 인력 흡수는 삼성전자와 SK하이닉스의... 공정 장비 협력사의 엔지니어 확보가 늦어질 경우 차세대 패키징 라인의 초기 수율 안정화 기간이 길어질 수...",
-          "src": "g-enews",
-          "date": "09/16",
-          "url": "https://www.g-enews.com/view.php?ud=202609160731072114fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091607380400150fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "AI 질주에 걸린 브레이크…돈의 물줄기, 훈련서 추론·보안으로 꺾인다",
-          "desc": "SK하이닉스와 삼성전자는 엔비디아 등 글로벌 가속기 제조사에 핵심 부품을 납품하는 협력사다. 훈련용 클러스터 투자 속도가 조정될 경우 한국 메모리 공급망은 단일 가속기 중심의 납품 구조에서 범용 서버 메모리와...",
-          "src": "g-enews",
-          "date": "09/16",
-          "url": "https://www.g-enews.com/view.php?ud=202609160728319203fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091607305206031fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "초기업노조, '블랙리스트 작성 혐의' 최승호 위원장 선처 탄원 추진",
-      "url": "https://n.news.naver.com/mnews/article/214/0001524313?sid=101",
-      "img": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/09/16/ggm_20260916_13.jpg"
+      "title": "[이슈5] 법원 \"北, 연락사무소 폭파 배상해야…남북 신뢰 훼손\" 外",
+      "url": "https://n.news.naver.com/mnews/article/422/0000906865?sid=102",
+      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260916/MYH20260916192206xy6.jpg"
     },
     {
       "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
     },
     {
-      "title": "삼성전자·LG전자, 韓 HVAC 주도권 다툼 '점화'",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=155306",
-      "img": "https://cdn.techm.kr/news/thumbnail/202609/155306_220955_757_v150.jpg"
+      "title": "부산기후박람회에 집결한 기업들…AI·수소로 탄소중립 해법 제시",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88168",
+      "img": "https://cdn.ekoreanews.co.kr/news/photo/202609/88168_110380_5524.jpg"
     },
     {
-      "title": "AI와 녹색 '쌍둥이 전환', 미래 성장동력으로 부상",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=60562",
-      "img": "https://cdn.dongponews.net/news/thumbnail/202609/60562_216846_734_v150.jpg"
+      "title": "삼성·LG전자, '기후산업국제박람회'에서 맞춤형 에너지 절감 솔루션 선...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764039",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764039_318266_4629_v150.jpg"
     },
     {
-      "title": "항공산업 투자, 운항 밖으로…기단∙조직∙보안 인프라 정비",
-      "url": "http://www.kdfnews.com/news/articleView.html?idxno=188141",
-      "img": "http://www.kdfnews.com/news/thumbnail/202609/188141_239105_391_v150.jpg"
+      "title": "GFCN 타박 \"AI 콘텐츠 표시제 불가피…팩트체킹은 시민의 기본기술\"",
+      "url": "http://kor.theasian.asia/archives/415793",
+      "img": "https://kor.theasian.asia/wp-content/uploads/2026/09/9A2lYl8-uPB52jJMniiRRQDatiTx_b0Te89jKUU0x-Vu-C3NuCPx3_XukSvqaZZoGMrqwPqQLOicUoz8AgKReOlwLRKidUyWv8ooTSBed6Sjzs7c0toHbhRXv2yAUHdqKZfAC_ZWdj0HLg9oTQWErjE6LrTgsERNJm4e8Guf-SPOkZ6fO9M_AO4o0u-pGz4Q.jpeg"
     },
     {
-      "title": "LG유플, 'U+일상비일상의틈' 리뉴얼… AI와 문화예술 만나 아트 플랫폼 ...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=107181",
-      "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895424355598_1a9a4a.jpg"
+      "title": "충남 미래수업 한자리에…1만2000명 '온수업'으로 수업혁신 공유",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=350270",
+      "img": "https://cdn.greened.kr/news/thumbnail/202609/350270_401866_5339_v150.jpg"
     }
   ]
 };
