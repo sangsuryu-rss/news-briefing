@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.16 (수) 06:23",
+  "updatedAt": "2026.09.16 (수) 09:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 등 대기업 계약학과 수시모집 지원자 역대 최다",
-          "desc": "2027학년도 대입 수시모집에서 삼성전자와 SK하이닉스 등 대기업 취업이 보장되는 계약학과 지원자가... 올해 신설된 부산대 스마트가전공학과(LG전자 연계)도 20명 모집에 603명이 지원해 30.15 대 1의 경쟁률을...",
-          "src": "동아일보",
+          "title": "한때 7.5만명 ‘삼성 초기업노조’… 넉달 만에 왜 싸움판 됐나",
+          "desc": "DS뿐 아니라 스마트폰·가전 등을 담당하는 DX 직원도 대거 가입했다. 최승호 초기업노조 위원장은 전국삼성전자노동조합(전삼노), 삼성전자노동조합 동행(동행노조) 등과 공동투쟁본부를 꾸렸다. 영업이익의 15%를...",
+          "src": "조선일보",
           "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/020/0003748411?sid=102",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134677134.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001192645?sid=102",
+          "img": "https://biz.chosun.com/resizer/v2/HE2TQYRVGUZTIZJXMYZTAZBQMU.jpg?auth=0edd5d9bb7ac725d44916d7d4304cc4f530bbf95794db7e1dc0cdfcece84a747&width=1200&height=630&smart=true"
         },
         {
-          "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
-          "desc": "\"저희와 한번 콜라보 해보시죠.\" CES2026을 방문한 정의선은 삼성전자 전시관을 찾았다. 로봇청소기를 보고 현대차의 자율주행로봇플랫폼 '모베드'와 결합하면 어떻겠느냐고 제안했다. 높낮이를 조절하고 어디든 이동할 수...",
-          "src": "globale",
-          "date": "09/15",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
+          "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
+          "desc": "대상은 로보락, 삼성전자, LG전자, 에코백스, 샤오미 등 5개 브랜드다. 로봇청소기는 카메라와 마이크, 각종 센서를 이용해 실내 영상과 음성, 장애물 사진, 집 구조를 나타내는 지도정보 등을 처리한다. 개인정보위는 이...",
+          "src": "autodaily",
+          "date": "09/16",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600478",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
         },
         {
           "title": "'전기료 깎는 가전' 시작한 LG전자...'팔고 난 뒤'에서 활로 찾는다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[2026 대경 스마트건설대상] DC대상 - 자이C&A",
-          "desc": "LG유플러스 평촌 1ㆍ2센터를 비롯해 LG CNS 부산 데이터센터, 파주 AI데이터센터, 세종 데이터센터 2ㆍ3단계... 시공 품질과 현장 관리에 스마트 건설기술을 적극 도입했다. 드론을 활용한 측량ㆍ공사 관리, BIM...",
-          "src": "dnews",
+          "title": "지씨셀, AI로 'GCC2005' 임상 설계 최적화…글로벌 2상 준비",
+          "desc": "지씨셀이 인공지능(AI)을 활용해 CD5 CAR-NK 세포치료제 'GCC2005'의 글로벌 임상 개발 전략을 구체화한다.... 오르 인바르(Orr Inbar) 퀀트헬스 공동창업자 겸 대표는 \"지씨셀의 임상시험 시뮬레이션 기술 도입은...",
+          "src": "medicopharma",
           "date": "09/16",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131746439880801",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131746439880801-2-691483.jpg"
+          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69550",
+          "img": "https://cdn.medicopharma.co.kr/news/thumbnail/202609/69550_48100_446_v150.jpg"
         },
         {
-          "title": "[2026 대경 스마트건설대상] AX대상 아이디어정보기술",
-          "desc": "기자]아이디어정보기술(대표 유흥배ㆍ사진)은 건설산업의 설계ㆍ계약ㆍ시공ㆍ기성 전 과정에서 축적되는 데이터를 하나로 연결하고, 인공지능(AI)을 활용해 공사비 검토와 사업관리 업무 효율을 높이는 건설 AI...",
-          "src": "dnews",
+          "title": "팔로알토 네트웍스, 10월 14일 '이그나이트 온 투어 서울' 개최…AI 시대...",
+          "desc": "젠킨스 사장은 'AI 기업의 보안(Securing the AI Enterprise)'을 주제로 AI 도입이 확대되는 기업 환경에서 필요한... 이번 행사는 이러한 변화 속에서 AI 시스템 자체를 보호하는 기술과 AI를 보안 운영에 활용하는 전략을...",
+          "src": "dailysecu",
           "date": "09/16",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101656330360544",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101656330360544-2-690211.png"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208494",
+          "img": "https://cdn.dailysecu.com/news/photo/202609/208494_209499_2139.jpg"
         },
         {
-          "title": "\"의료기기 선진입제도 하반기 재점검…실효성 높인다\"",
-          "desc": "현재 선진입제도가 4~5개 경로로 운영되고 있으며 일부 제도는 도입된 지 약 10년이 됐다는 설명이다. 성... 의료 AI의 실제 활용을 위한 정책 구체화도 하반기 과제로 제시했다. 기술 자체의 발전과 함께 의료현장에서 쓰일...",
-          "src": "bosa",
+          "title": "포스코, ‘포스코철강AI융합대학’서 철강 혁신 이끌 인재 키운다",
+          "desc": "교육과정도 AI 중심으로 바뀐다. 기존 금속·기계·전기·경영 분야 과목 중 활용도가 낮은 과목을 줄이고... 고성능 워크스테이션과 교육용 로봇 등도 도입해 AI와 로봇, 자동화 기술을 실제 생산 현장에 적용할 수 있는...",
+          "src": "thevaluenews",
           "date": "09/16",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012196",
-          "img": "https://cdn.bosa.co.kr/news/photo/202609/3012196_413030_452.jpg"
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201618",
+          "img": ""
         },
         {
-          "title": "[2026 대경 스마트건설대상] 피지컬AI대상 - 스패너",
-          "desc": "피지컬AI 개발에 활용해 장비가 현장 상황을 스스로 판단하는 무인화 시공을 구현하는 것이 목표다. 자동화 기술과 디지털 시공 프로세스에 대해 사전 교육된 인력을 현장에 즉시 투입함으로써 현장에서 우려하던 도입...",
-          "src": "dnews",
+          "title": "AI 시대, 증권사는 어떻게 일해야 하는가…클리브, 증권사 리더 초청 세...",
+          "desc": "이에 클리브는 단순한 '기술 도입'을 넘어 '일하는 방식의 혁신'을 제시하기 위해 이번 자리를 마련했다고 회사는 설명했다. 이번 행사에는 20여개 증권사를 비롯한 금융사의 경영·전략기획, AI·디지털 전환(AX/DX)...",
+          "src": "epnc",
           "date": "09/16",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131650343880798",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131650343880798-2-691479.jpg"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406982",
+          "img": "https://cdn.epnc.co.kr/news/photo/202609/406982_407521_2943.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"살아있는 기술자가 없다\"…185조 증설 나선 반도체 덮친 인구소멸",
+          "desc": "한국 가치사슬 전이와 공급망 변수 대만과 동남아의 후공정 인력 흡수는 삼성전자와 SK하이닉스의... 공정 장비 협력사의 엔지니어 확보가 늦어질 경우 차세대 패키징 라인의 초기 수율 안정화 기간이 길어질 수...",
+          "src": "g-enews",
+          "date": "09/16",
+          "url": "https://www.g-enews.com/view.php?ud=202609160731072114fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091607380400150fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "AI 질주에 걸린 브레이크…돈의 물줄기, 훈련서 추론·보안으로 꺾인다",
+          "desc": "SK하이닉스와 삼성전자는 엔비디아 등 글로벌 가속기 제조사에 핵심 부품을 납품하는 협력사다. 훈련용 클러스터 투자 속도가 조정될 경우, 한국 메모리 공급망은 단일 가속기 중심의 납품 구조에서 범용 서버 메모리와...",
+          "src": "g-enews",
+          "date": "09/16",
+          "url": "https://www.g-enews.com/view.php?ud=202609160728319203fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091607305206031fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "9월 3주 주요 제조업 전망",
           "desc": "및 협력사가 참여함. 격자가 인공지능(AI) 기반 공격 도구 등을 활용해 자동차 협력사 정보시스템에... 시장은 삼성전자가 점유율 40%로 시장을 주도하고 있음. 이외에는 화웨이 30%, 모토로라 12% 등이 뒤를 이음. 이번...",
@@ -114,23 +130,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "09/15",
           "url": "https://news.dealsitetv.com/articles/176020",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/693fc9e4e2ce515d3323623a6ebbfb32/thumb.jpg"
-        },
-        {
-          "title": "[가스안전대상-산업포장] 천성흔 한비크라이오 대표",
-          "desc": "삼성전자와 SK하이닉스 등 국내 주요 반도체 생산라인에 고순도 가스용 특수용기를 적기에 공급했으며... 30여개 국내 협력사와 공급망을 유지하면서 관련 제조 생태계의 동반 성장에도 기여하고 있다. 천 대표의 지난...",
-          "src": "energy-news",
-          "date": "09/15",
-          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228169",
-          "img": "https://cdn.energy-news.co.kr/news/thumbnail/202609/228169_103762_2629_v150.jpg"
-        },
-        {
-          "title": "삼성전기, MLCC 공급 부족을 성장 기회로…AI용 전환 속도",
-          "desc": "삼성전자를 비롯한 메모리 업체가 고대역폭메모리(HBM)에 생산능력을 우선 배정하면서 범용 D램 공급이... AI 수요는 삼성전기의 패키지기판 투자도 자극하고 있다. 삼성전기는 장비 협력사에 구매의향서(LOI)를...",
-          "src": "서울경제뉴스",
-          "date": "09/15",
-          "url": "http://www.seouleconews.com/news/articleView.html?idxno=93755",
-          "img": "http://www.seouleconews.com/news/thumbnail/202609/93755_100645_349_v150.jpg"
+          "img": ""
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "반도체 등 대기업 계약학과 수시모집 지원자 역대 최다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003748411?sid=102",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134677134.1.jpg"
+      "title": "한때 7.5만명 ‘삼성 초기업노조’… 넉달 만에 왜 싸움판 됐나",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192645?sid=102",
+      "img": "https://biz.chosun.com/resizer/v2/HE2TQYRVGUZTIZJXMYZTAZBQMU.jpg?auth=0edd5d9bb7ac725d44916d7d4304cc4f530bbf95794db7e1dc0cdfcece84a747&width=1200&height=630&smart=true"
     },
     {
-      "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
-      "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
+      "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600478",
+      "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
     },
     {
       "title": "'전기료 깎는 가전' 시작한 LG전자...'팔고 난 뒤'에서 활로 찾는다",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.kmib.co.kr/online_image/2026/0916/01100201.20260915502730.jpg"
     },
     {
-      "title": "[2026 대경 스마트건설대상] DC대상 - 자이C&A",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131746439880801",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/15/202609131746439880801-2-691483.jpg"
+      "title": "지씨셀, AI로 'GCC2005' 임상 설계 최적화…글로벌 2상 준비",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69550",
+      "img": "https://cdn.medicopharma.co.kr/news/thumbnail/202609/69550_48100_446_v150.jpg"
     },
     {
-      "title": "[2026 대경 스마트건설대상] AX대상 아이디어정보기술",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101656330360544",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/10/202609101656330360544-2-690211.png"
+      "title": "팔로알토 네트웍스, 10월 14일 '이그나이트 온 투어 서울' 개최…AI 시대...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=208494",
+      "img": "https://cdn.dailysecu.com/news/photo/202609/208494_209499_2139.jpg"
     }
   ]
 };
