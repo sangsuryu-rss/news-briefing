@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.17 (목) 03:12",
+  "updatedAt": "2026.09.17 (목) 06:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "美서 결국 1위 꿰찬 中 가전…삼전·LG 밀렸다",
-          "desc": "16일 미국 고객만족도 조사기관 ACSI에 따르면 올해 미국 TV 고객만족도 조사에서 중국 가전기업 하이센스가 삼성전자·미국 비지오와 나란히 81점으로 공동 1위를 차지했다. 생활가전에서는 중국 가전기업...",
-          "src": "디지털타임스",
+          "title": "롯데하이마트, 추석 맞아 안마의자·노트북 등 인기 가전 할인",
+          "desc": "롯데하이마트가 추석을 앞두고 안마의자와 노트북 등 선물용 가전부터 팬·그릴까지 주요 가전 할인에... 삼성전자 '갤럭시 북6' 코어3 모델은 139만9000원, 코어5 모델은 154만9000원이다. 레노버 '아이디어패드 슬림3'은...",
+          "src": "전자신문",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/029/0003048482?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/16/news-p.v1.20260916.0a8beb9f293d4bf4ad0586fb0cebedb1_R.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003467633?sid=101",
+          "img": ""
         },
         {
-          "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
-          "desc": "대상은 로보락, 삼성전자, LG전자, 에코백스, 샤오미 등 5개 브랜드다. 로봇청소기는 카메라와 마이크, 각종 센서를 이용해 실내 영상과 음성, 장애물 사진, 집 구조를 나타내는 지도정보 등을 처리한다. 개인정보위는 이...",
-          "src": "autodaily",
-          "date": "09/16",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600478",
-          "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
-        },
-        {
-          "title": "삼성-LG전자, 고효율 에너지 절감 기술 대결",
-          "desc": "삼성전자와 LG전자가 나란히 16∼18일 부산 벡스코에서 열리는 ‘2026 기후산업국제박람회’에 참가해... 에너지소비효율 1등급과 듀얼 인버터 히트펌프 기술을 적용한 세탁건조기 등 고효율 생활가전도 공개한다....",
-          "src": "동아일보",
+          "title": "롯데하이마트, 9월 말까지 '추석맞이 작정 SALE'…\"선물 가전·주방기기...",
+          "desc": "원), 삼성전자 '비스포크 AI스팀'(175만 원), LG전자 '홈봇 AI 로니'(219만 원) 등 최신 로봇청소기를 집중 배치했다. 자녀 및 학생 선물용 노트북 프로모션도 진행한다. 삼성전자 '갤럭시 북6', 레노버 '아이디어패드...",
+          "src": "newsdream",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/020/0003748697?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134682864.4.jpg"
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=118332",
+          "img": "https://cdn.newsdream.kr/news/thumbnail/202609/118332_91197_75_v150.jpg"
         },
         {
-          "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
-          "desc": "\"저희와 한번 콜라보 해보시죠.\" CES2026을 방문한 정의선은 삼성전자 전시관을 찾았다. 로봇청소기를 보고 현대차의 자율주행로봇플랫폼 '모베드'와 결합하면 어떻겠느냐고 제안했다. 높낮이를 조절하고 어디든 이동할 수...",
-          "src": "globale",
-          "date": "09/15",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
+          "title": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸다…삼성·LG 스마트홈 ‘개...",
+          "desc": "LG 계열 플랫폼이지만 삼성전자 제품도 연결한다. 앳홈의 공식 ‘삼성 스마트싱스’ 앱을 설치하면 삼성 냉장고·세탁기·건조기 등을 연동하고 TV·식기세척기·에어컨 등을 제어할 수 있다. 한 업체가 만든 세탁기의...",
+          "src": "조선일보",
+          "date": "09/17",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998929?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/BUJGG3DD3ZH2ZK2OH7ASYHH3WI.jpg?auth=690c481bcf3159a47196d9324d460bebd8aa0641ef25e09a87d86b3616fdc33b&width=874&height=458&smart=true"
+        },
+        {
+          "title": "\"안마의자부터 전기그릴까지\" 롯데하이마트, 추석 가전 할인전",
+          "desc": "로봇청소기는 로보락 'S10 MAX ULTRA' 149만원, 드리미 '아쿠아 10' 59만9000원, 삼성전자 '비스포크 AI스팀' 175만원, LG전자 '홈봇 AI 로니' 219만원에 선보인다. 노트북 행사상품에는 마이크로소프트 오피스 패키지와...",
+          "src": "뉴시스",
+          "date": "09/17",
+          "url": "https://n.news.naver.com/mnews/article/003/0014195643?sid=101",
+          "img": "https://img1.newsis.com/2026/09/16/NISI20260916_0002241272_web.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "가천대 길병원, 다기관 협력수련 시범사업 참여 外",
-          "desc": "한양대병원은 2008년 로봇수술센터 문을 열며 '다빈치 S'를 처음 도입했다. 이어 2012년 400례, 2018년 1000례를... 특히 병리 영상 빅데이터를 분석해 진단 보고서를 도출하는 AI 기술 국제 경진대회인 'REG2025'와 후속 대회인...",
-          "src": "newsmp",
+          "title": "MDR 문턱 높아진 국산 의료기기… 의료진·실증센터 역할 커져",
+          "desc": "새로운 기술이 도입되고 있다. 단순히 쥐는 동작을 할 때도 기기마다 세기가 달라서 사용자 손이 다치기도 한다\"며 \"특히 로봇수술이나 인공지능(AI)을 탑재한 장비들이 많이 들어오면서 임상평가가 강화돼야 하는...",
+          "src": "hitnews",
           "date": "09/17",
-          "url": "http://www.newsmp.com/news/articleView.html?idxno=258187",
-          "img": "http://www.newsmp.com/news/thumbnail/202609/258187_296813_5011_v150.jpg"
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79192",
+          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202609/79192_107802_5053_v150.jpg"
         },
         {
-          "title": "[일문일답] 마크 베니오프 세일즈포스 CEO “기존 가격표 사실상 버렸다...",
-          "desc": "내 관점에서 기술 자체가 좋거나 나쁜 것은 아니다. 중요한 것은 그 기술로 무엇을 하느냐다. 분명한 점은... 다르다.” ▲AI를 도입하는 것과 능숙하게 활용하는 것은 다르다. 적극적인 사용자와 참여를 주저하는 직원...",
+          "title": "'국가 AI 기본의료' 로드맵 가동…현장 적용 시험대",
+          "desc": "않고도 AI 기술을 공동 활용토록 하는 방식이며 적용 대상은 2027년 30곳, 2029년 전체 72개 책임의료기관으로... 협의 대상에는 중앙에서 개발한 의료 AI의 지역 도입과 함께 기존 지역 의료정보 인프라와 새로운 AI 체계 연계...",
+          "src": "dailymedi",
+          "date": "09/17",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940609",
+          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+        },
+        {
+          "title": "\"기술수출 넘어 'NewCo'\"…K-바이오, 글로벌 개발·지분 참여",
+          "desc": "인공지능(AI), 규제 변화, 중국 바이오산업의 부상으로 빠르게 재편되고 있다고 진단했다. 글로벌 빅파마는... 기술도입과 인수합병(M&A)을 확대할 수밖에 없는 환경에 놓였다. 국내 기업에도 외부 자산 수요를 활용할...",
+          "src": "medipana",
+          "date": "09/17",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417776",
+          "img": "https://cdn.medipana.com/news/photo/202609/417776_324746_2522.jpg"
+        },
+        {
+          "title": "대한민국 ‘AI 혁신’의 고민, 폭넓은 공감대… 본지 '2026 AI 이노베이션...",
+          "desc": "이날 전문가들은 단순한 AI 기술 도입 자체는 더 이상 차별화된 경쟁력이 되지 못한다고 입을 모았다.... ◆권남훈 산업연구원장 \"로봇 밀도 1위나 데이터 활용 34%… 물리 데이터 확보가 승부처\" '피지컬 AI 시대 어떻게...",
           "src": "디지털데일리",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/138/0002241717?sid=105",
-          "img": ""
-        },
-        {
-          "title": "AI 에이전트 확산, 기업들 권한·감사 통제탑 구축",
-          "desc": "인튜이트는 에이전트 개발 키트를 공개한 뒤 5주 안에 수백 개의 에이전트가 잠재적 활용 사례로... 기업들이 AI 에이전트 도입을 중단하기보다 권한·감사·보안 계층을 추가하는 방식으로 대응하면서, 경쟁의...",
-          "src": "tokenpost",
-          "date": "09/17",
-          "url": "https://www.tokenpost.kr/news/ai/409192",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/gcrc60mwbt.jpg"
-        },
-        {
-          "title": "[위클리오늘] 미래대응기금 45.4조 중 52%는 기존사업 이관···순수 신...",
-          "desc": "주요 이관 사업으로는 과학기술정보통신부의 'AI컴퓨팅 자원 활용 기반 강화'(4조2752억원, 기존 일반회계)... 나라살림연구소는 \"일시적 세수 증가분을 적립하는 기금의 도입 취지는 타당하나, 기존 상시사업을...",
-          "src": "weeklytoday",
-          "date": "09/17",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=794808",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202609/794808_984344_1734_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002241721?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/16/2026091620202698692_l.JPG"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "美서 결국 1위 꿰찬 中 가전…삼전·LG 밀렸다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048482?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/16/news-p.v1.20260916.0a8beb9f293d4bf4ad0586fb0cebedb1_R.png"
+      "title": "롯데하이마트, 9월 말까지 '추석맞이 작정 SALE'…\"선물 가전·주방기기...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=118332",
+      "img": "https://cdn.newsdream.kr/news/thumbnail/202609/118332_91197_75_v150.jpg"
     },
     {
-      "title": "로봇청소기 영상·음성 어디까지 보내나⋯개인정보위 5개 브랜드 점검",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600478",
-      "img": "https://cdn.autodaily.co.kr/news/photo/202609/600478_200836_2247.jpg"
+      "title": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸다…삼성·LG 스마트홈 ‘개...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998929?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/BUJGG3DD3ZH2ZK2OH7ASYHH3WI.jpg?auth=690c481bcf3159a47196d9324d460bebd8aa0641ef25e09a87d86b3616fdc33b&width=874&height=458&smart=true"
     },
     {
-      "title": "삼성-LG전자, 고효율 에너지 절감 기술 대결",
-      "url": "https://n.news.naver.com/mnews/article/020/0003748697?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/16/134682864.4.jpg"
+      "title": "\"안마의자부터 전기그릴까지\" 롯데하이마트, 추석 가전 할인전",
+      "url": "https://n.news.naver.com/mnews/article/003/0014195643?sid=101",
+      "img": "https://img1.newsis.com/2026/09/16/NISI20260916_0002241272_web.jpg"
     },
     {
-      "title": "[세 번째 엔진, 정의선] 삼성과의 콜라보...먼저 손 내미는 배포",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40216",
-      "img": "https://cdn.globale.co.kr/news/thumbnail/202609/40216_66721_3257_v150.jpg"
+      "title": "MDR 문턱 높아진 국산 의료기기… 의료진·실증센터 역할 커져",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79192",
+      "img": "https://cdn.hitnews.co.kr/news/thumbnail/202609/79192_107802_5053_v150.jpg"
     },
     {
-      "title": "가천대 길병원, 다기관 협력수련 시범사업 참여 外",
-      "url": "http://www.newsmp.com/news/articleView.html?idxno=258187",
-      "img": "http://www.newsmp.com/news/thumbnail/202609/258187_296813_5011_v150.jpg"
+      "title": "'국가 AI 기본의료' 로드맵 가동…현장 적용 시험대",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940609",
+      "img": "https://www.dailymedi.com/img/d_logo.jpg"
     },
     {
-      "title": "AI 에이전트 확산, 기업들 권한·감사 통제탑 구축",
-      "url": "https://www.tokenpost.kr/news/ai/409192",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/gcrc60mwbt.jpg"
+      "title": "\"기술수출 넘어 'NewCo'\"…K-바이오, 글로벌 개발·지분 참여",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=417776",
+      "img": "https://cdn.medipana.com/news/photo/202609/417776_324746_2522.jpg"
     }
   ]
 };
