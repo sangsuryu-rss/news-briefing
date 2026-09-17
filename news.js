@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.17 (목) 22:30",
+  "updatedAt": "2026.09.18 (금) 03:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
-          "desc": "삼성전자가 필리핀 세부에서 개발 중인 프리미엄 복합단지 '그란츠 포레스트 파크'에 인공지능(AI) 가전과 B2B 통합 운영 솔루션을 공급하기로 했다. 17일, 삼성전자는 국내외 하이엔드 주택 및 호텔·리조트 전문...",
-          "src": "ppss",
-          "date": "09/17",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
-          "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
+          "title": "최승호 위원장 잇단 조합비 지출 논란… 삼성 초기업노조, 임단협 앞두...",
+          "desc": "그는 가전제품을 주로 생산하는 삼성전자 광주사업장 출신입니다. 최 위원장은 본인에 대한 의혹과 관련해 “장인 업체 거래로 자신이나 가족에게 금전적 이익이 돌아간 사실이 없다”고 해명했습니다. 또 조합비 의혹...",
+          "src": "조선일보",
+          "date": "09/18",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999097?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/IQ7HR7UUNNH53HUNPGSLQSFDYI.jpg?auth=da0e02467dd56bd625b60e97d8202390df9473f85738164c82e5fee08ff83586&width=1081&height=567&smart=true"
         },
         {
           "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "09/17",
           "url": "https://www.viva100.com/article/20260917500811",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917223043"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918031626"
         },
         {
-          "title": "[증권픽] 삼성증권, 발행어음 상품 첫 출시 외",
-          "desc": "주요 경품은 ▲CES 2027 패키지 투어 ▲갤럭시 Z 폴드8 ▲삼성전자 SMART M7 43인치 ▲삼성 노트북 ▲삼성 로봇청소기 ▲국내주식 등이다. 손님은 각 회차별로 마련된 경품 가운데 원하는 경품을 선택해 응모할 수 있다. 매...",
-          "src": "newsian",
+          "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
+          "desc": "따라 삼성전자는 레지던스 등 주거 공간에 스마트싱스와 연동된 AI 가전 제품 중심의 '맞춤형 AI 홈'을 구축하고, 단지 전체엔 B2B 활용이 가능한 스마트싱스 프로 플랫폼을 도입한다. TV, 에어컨, 냉장고, 세탁기 등...",
+          "src": "ppss",
           "date": "09/17",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95587",
-          "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95587_89715_556_v150.jpg"
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
+          "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] \"아스트라에 오라티오, 과거 신전기의 재현이 아닌 재해석\"",
-          "desc": "이를 고려해 도입부를 편성하고 시연 빌드를 구성했다. 전투 시스템의 차별화 포인트와, 유저들에게 전하고... 개발 과정에서 AI가 활용됐나? 활용했다면 어떤 식으로 썼나? 김인 AD = 아트에서는 AI를 사용하고 있지 않다....",
-          "src": "inven",
-          "date": "09/17",
-          "url": "https://m.sports.naver.com/esports/article/442/0000196826",
-          "img": "https://static.inven.co.kr/column/2026/09/17/news/i1071541934.jpg"
+          "title": "[드림포스 2026] AI 라이벌 앤트로픽·오픈AI",
+          "desc": "속도를 조절하자는 제안이 기업 현장의 AI 도입을 늦추자는 이야기로 받아들여지지 않도록 설명을 보탠... 그는 \"새로운 기술에서 어느 정도의 사고는 불가피하다\"며 \"미국 연방항공청(FAA)과 국가교통안전위원회(NTSB)를...",
+          "src": "econovill",
+          "date": "09/18",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751191",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/751191_727024_719_v150.jpg"
         },
         {
-          "title": "퓨즈머신즈, 직원 대신 회의하는 AI 트윈 공개",
-          "desc": "CEO는 AI Twin이 “개인의 업무 수행 능력을 확장할 수 있다”고 말했다. 이는 기술 활용에 대한 회사 측... 독립적인 기술 검증·고객 도입 사례가 확인되지 않았다. AI Twin 발표와 주가 변동 사이의 인과관계도...",
-          "src": "tokenpost",
-          "date": "09/17",
-          "url": "https://www.tokenpost.kr/news/ai/409745",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/afay71r999.jpg"
+          "title": "식품로봇 연구 거점, 포항에 문 열어",
+          "desc": "인공지능(AI)과 로봇 기술을 활용한 조리·서빙·위생관리 기술의 개발과 실증을 지원하는 국내 첫 식품로봇... 포항센터는 글로벌 위생·안전 인증기관인 미국 NSF(National Sanitation Foundation)의 시험인증 장비를 도입해 기술...",
+          "src": "fsnews",
+          "date": "09/18",
+          "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62208",
+          "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62208_53053_408_v150.jpg"
         },
         {
-          "title": "'AI 첨단 행정' 외친 엄승용 보령시장, '폐머드 방류'엔 \"해 없다\" 구태...",
-          "desc": "엄승용 충남 보령시장이 내부적으로는 AI(인공지능) 및 신기술을 활용한 첨단 행정과 엄격한 '정책검증 시스템' 도입을 강조하고 나섰으나, 정작 수억 원의 예산이 들어가는 대표 축제의 환경 관리 이슈에 대해서는 거친...",
-          "src": "ngonews",
-          "date": "09/17",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=238579",
-          "img": "https://cdn.ngonews.kr/news/photo/202609/238579_243192_558.jpg"
+          "title": "에이치플러스 양지병원 간호본부, AI 패치형 심전도로 입원환자 이상징...",
+          "desc": "정기학술대회'에서 AI기반 패치형 웨어러블 심전도기를 활용한 환자안전 관리 성과로 우수상을 수상했다.... 위해 AI 기반 생체신호 모니터링 시스템 '메모큐(MEMO Cue)'를 병동에 도입하고 간호부와 진료과 간 대응 체계를...",
+          "src": "thefirstmedia",
+          "date": "09/18",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209002",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202609/209002_192956_038_v150.jpg"
         },
         {
-          "title": "카스퍼스키, \"기업 AI 도입하며 보안 투자 확대\"…'AI 취약점' 위협 인식...",
-          "desc": "내부 AI 도구를 적극적으로 검토하거나 도입하고 있으며 18%는 이미 이러한 기술을 업무 프로세스에 통합한... 고도화된 AI 기능을 포함하고 있는 카스퍼스키 넥스트(Kaspersky Next)와 같은 종합 사이버 보안 솔루션을 활용...",
-          "src": "epnc",
-          "date": "09/17",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407107",
-          "img": "https://cdn.epnc.co.kr/news/photo/202609/407107_407632_573.png"
+          "title": "[드림포스 2026] 공기(空氣)가 되어가는 세일즈포스",
+          "desc": "상업 파트너십팀은 에이전트포스 세일즈로 계약을 관리하고 스폰서에게 제안할 시청자 데이터를 활용한다.... AI 에이전트를 올리며 고객 확보에 나서고 있다. 특히 기업 고객은 기술 설명보다 실제 성과를 보고 도입을...",
+          "src": "econovill",
+          "date": "09/18",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751188",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/751188_727013_1933_v150.jpg"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "dealsite",
           "date": "09/17",
           "url": "https://dealsite.co.kr/articles/169209",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/17/8a2814e3c1bb423db9d2d45c0f2d3e8b/thumb.jpg"
+          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
-      "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
+      "title": "최승호 위원장 잇단 조합비 지출 논란… 삼성 초기업노조, 임단협 앞두...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999097?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/IQ7HR7UUNNH53HUNPGSLQSFDYI.jpg?auth=da0e02467dd56bd625b60e97d8202390df9473f85738164c82e5fee08ff83586&width=1081&height=567&smart=true"
     },
     {
       "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -189,22 +189,22 @@ window.NEWS_DATA = {
     {
       "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
       "url": "https://www.viva100.com/article/20260917500811",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917223043"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918031626"
     },
     {
-      "title": "[증권픽] 삼성증권, 발행어음 상품 첫 출시 외",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95587",
-      "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95587_89715_556_v150.jpg"
+      "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
+      "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
     },
     {
-      "title": "[인터뷰] \"아스트라에 오라티오, 과거 신전기의 재현이 아닌 재해석\"",
-      "url": "https://m.sports.naver.com/esports/article/442/0000196826",
-      "img": "https://static.inven.co.kr/column/2026/09/17/news/i1071541934.jpg"
+      "title": "[드림포스 2026] AI 라이벌 앤트로픽·오픈AI",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=751191",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/751191_727024_719_v150.jpg"
     },
     {
-      "title": "퓨즈머신즈, 직원 대신 회의하는 AI 트윈 공개",
-      "url": "https://www.tokenpost.kr/news/ai/409745",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/afay71r999.jpg"
+      "title": "식품로봇 연구 거점, 포항에 문 열어",
+      "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62208",
+      "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62208_53053_408_v150.jpg"
     }
   ]
 };
