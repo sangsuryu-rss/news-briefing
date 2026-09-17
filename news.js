@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.17 (목) 06:21",
+  "updatedAt": "2026.09.17 (목) 09:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "롯데하이마트, 추석 맞아 안마의자·노트북 등 인기 가전 할인",
-          "desc": "롯데하이마트가 추석을 앞두고 안마의자와 노트북 등 선물용 가전부터 팬·그릴까지 주요 가전 할인에... 삼성전자 '갤럭시 북6' 코어3 모델은 139만9000원, 코어5 모델은 154만9000원이다. 레노버 '아이디어패드 슬림3'은...",
-          "src": "전자신문",
+          "title": "김영호 삼성전자서비스 대표, 한국경영대상 고객만족 부문 2년 연속 대...",
+          "desc": "삼성전자의 스마트홈 플랫폼 '스마트싱스'와 연계한 가전제품 원격진단 서비스를 통해 엔지니어가 방문하지 않아도 제품 상태를 점검하고 필요한 조치를 받을 수 있도록 했다. 수해와 산불 등 대규모 재난이 발생한...",
+          "src": "wolyo",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003467633?sid=101",
-          "img": ""
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317925",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/317925_225705_3023.png"
         },
         {
-          "title": "롯데하이마트, 9월 말까지 '추석맞이 작정 SALE'…\"선물 가전·주방기기...",
-          "desc": "원), 삼성전자 '비스포크 AI스팀'(175만 원), LG전자 '홈봇 AI 로니'(219만 원) 등 최신 로봇청소기를 집중 배치했다. 자녀 및 학생 선물용 노트북 프로모션도 진행한다. 삼성전자 '갤럭시 북6', 레노버 '아이디어패드...",
-          "src": "newsdream",
+          "title": "하나증권, 새 MTS ‘하나증권V’ 출시…GV90·CES 2027 경품 내건다",
+          "desc": "CES 2027 패키지 투어를 비롯해 갤럭시 Z 폴드8, 삼성전자 스마트 모니터 M7 43인치, 삼성 노트북, 삼성 로봇청소기, 국내주식 등이 경품으로 마련됐다. 고객은 회차별 경품 가운데 원하는 상품을 골라 응모할 수 있다. 매...",
+          "src": "megaeconomy",
           "date": "09/17",
-          "url": "http://www.newsdream.kr/news/articleView.html?idxno=118332",
-          "img": "https://cdn.newsdream.kr/news/thumbnail/202609/118332_91197_75_v150.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572209968834",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260917/p1065572209968834_801_thum.jpg"
         },
         {
-          "title": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸다…삼성·LG 스마트홈 ‘개...",
-          "desc": "LG 계열 플랫폼이지만 삼성전자 제품도 연결한다. 앳홈의 공식 ‘삼성 스마트싱스’ 앱을 설치하면 삼성 냉장고·세탁기·건조기 등을 연동하고 TV·식기세척기·에어컨 등을 제어할 수 있다. 한 업체가 만든 세탁기의...",
-          "src": "조선일보",
+          "title": "삼성·LG 안방 파고든 코웨이…의류관리기서 ‘조용한 추격’ [중기+]",
+          "desc": "국내 의류관리기 시장은 LG전자가 스타일러를 통해 시장을 처음 개척한 이후 삼성전자가 에어드레서를 출시하며 대형 가전업체 중심으로 성장해왔다. 의류관리기 시장은 냉장고·세탁기·건조기 등 대형 생활가전과 함께...",
+          "src": "헤럴드경제",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998929?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/BUJGG3DD3ZH2ZK2OH7ASYHH3WI.jpg?auth=690c481bcf3159a47196d9324d460bebd8aa0641ef25e09a87d86b3616fdc33b&width=874&height=458&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/016/0002698510?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.efb56ccd9b0549f194aed87d56c16f6b_P1.png"
         },
         {
-          "title": "\"안마의자부터 전기그릴까지\" 롯데하이마트, 추석 가전 할인전",
-          "desc": "로봇청소기는 로보락 'S10 MAX ULTRA' 149만원, 드리미 '아쿠아 10' 59만9000원, 삼성전자 '비스포크 AI스팀' 175만원, LG전자 '홈봇 AI 로니' 219만원에 선보인다. 노트북 행사상품에는 마이크로소프트 오피스 패키지와...",
-          "src": "뉴시스",
+          "title": "삼성전자, 인도서 글로벌 테크세미나 개최...지역 맞춤형 AI 가전 시연",
+          "desc": "삼성전자는 지난 16일 인도 구루그람에서 가전 테크세미나 '더 브리프(The Brief)'를 열고 서남아시아 지역... 세미나에 참석한 현지 경제 매체 기자는 \"세탁기, 냉장고, 에어컨 등 AI 가전이 단순한 가사 노동 자동화를 넘어...",
+          "src": "asiaa",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/003/0014195643?sid=101",
-          "img": "https://img1.newsis.com/2026/09/16/NISI20260916_0002241272_web.jpg"
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262869",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262869_284851_2554.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "MDR 문턱 높아진 국산 의료기기… 의료진·실증센터 역할 커져",
-          "desc": "새로운 기술이 도입되고 있다. 단순히 쥐는 동작을 할 때도 기기마다 세기가 달라서 사용자 손이 다치기도 한다\"며 \"특히 로봇수술이나 인공지능(AI)을 탑재한 장비들이 많이 들어오면서 임상평가가 강화돼야 하는...",
-          "src": "hitnews",
+          "title": "[IT라운지] 유심사 '알프 도입 성과'·카카오 '소액주주 간담회'-'신작 ...",
+          "desc": "◆유심사 '알프 도입 성과' 유심가 채널톡의 AI 에이전트 '알프'를 활용해 월평균 2만건 이상의 고객 문의를... 홈 뷰티 트렌드 확산으로 시장은 성장하고 있지만 고가의 가격대와 RF·HIFU·EMS 등 생소한 기술 용어, 함께...",
+          "src": "뉴스웍스",
           "date": "09/17",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79192",
-          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202609/79192_107802_5053_v150.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854009",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854009_816830_1345_v150.jpg"
         },
         {
-          "title": "'국가 AI 기본의료' 로드맵 가동…현장 적용 시험대",
-          "desc": "않고도 AI 기술을 공동 활용토록 하는 방식이며 적용 대상은 2027년 30곳, 2029년 전체 72개 책임의료기관으로... 협의 대상에는 중앙에서 개발한 의료 AI의 지역 도입과 함께 기존 지역 의료정보 인프라와 새로운 AI 체계 연계...",
-          "src": "dailymedi",
+          "title": "중부발전, 'AI 에이전트'로 업무 자동화 생태계 구축",
+          "desc": "등의 기술을 플랫폼에 적용했다. 향후 임직원 피드백을 반영하고 활용 도구를 확대해 플랫폼을 사내 대부분의 업무를 지원하는 범용 AI 모델로 발전시킬 계획이다. 이영조 중부발전 사장은 \"이번 플랫폼을 통해 직원...",
+          "src": "ikld",
           "date": "09/17",
-          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940609",
-          "img": "https://www.dailymedi.com/img/d_logo.jpg"
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=340839",
+          "img": "http://www.ikld.kr/news/thumbnail/202609/340839_187766_2747_v150.jpg"
         },
         {
-          "title": "\"기술수출 넘어 'NewCo'\"…K-바이오, 글로벌 개발·지분 참여",
-          "desc": "인공지능(AI), 규제 변화, 중국 바이오산업의 부상으로 빠르게 재편되고 있다고 진단했다. 글로벌 빅파마는... 기술도입과 인수합병(M&A)을 확대할 수밖에 없는 환경에 놓였다. 국내 기업에도 외부 자산 수요를 활용할...",
-          "src": "medipana",
+          "title": "[테크스냅] 인핸스, 512억원 시리즈C 투자 유치…에이전트OS 공략",
+          "desc": "양사는 이번 출시를 계기로 공동 고객 발굴과 도입 컨설팅, 현장 기술 지원 등 협력을 확대할 방침이다. ▲ 에임인텔리전스는 로봇과 자율 시스템 등 피지컬 AI 전반의 안전 문제를 연구하는 글로벌 컨소시엄...",
+          "src": "연합뉴스",
           "date": "09/17",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=417776",
-          "img": "https://cdn.medipana.com/news/photo/202609/417776_324746_2522.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016316671?sid=105",
+          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917047000017_01_i_P4.jpg"
         },
         {
-          "title": "대한민국 ‘AI 혁신’의 고민, 폭넓은 공감대… 본지 '2026 AI 이노베이션...",
-          "desc": "이날 전문가들은 단순한 AI 기술 도입 자체는 더 이상 차별화된 경쟁력이 되지 못한다고 입을 모았다.... ◆권남훈 산업연구원장 \"로봇 밀도 1위나 데이터 활용 34%… 물리 데이터 확보가 승부처\" '피지컬 AI 시대 어떻게...",
-          "src": "디지털데일리",
+          "title": "인핸스, 512억 원 규모 시리즈 C 투자 유치…누적 810억 원",
+          "desc": "현대기술투자 등 기존 주주들도 후속 투자에 나섰다. 포스코기술투자, LG CNS, 롯데벤처스도 이번 투자에... 인핸스는 기업과 정부의 AI 도입이 시범 적용 단계를 지나 전사 운영으로 확대되는 흐름에 주목하고 있다....",
+          "src": "platum",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/138/0002241721?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/16/2026091620202698692_l.JPG"
+          "url": "https://platum.kr/archives/294731",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/09/Enhans.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업",
+          "desc": "삼성전자와 SK하이닉스가 추진 중인 첨단 패키징 공장 건설 프로젝트는 트럼프식 칩스법(CHIPS Act) 재협상... 대미 수출 비중이 절대적인 국내 중견·중소 부품 협력사들의 경우 설비 가동률 변동성은 이미 감내할 수 있는...",
+          "src": "뉴스웍스",
+          "date": "09/17",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854005",
+          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854005_816826_5343_v150.jpg"
+        },
+        {
+          "title": "[경제 간첩 경보①] 첨단산업 뚫렸다…'초격차' 빼가는 산업스파이",
+          "desc": "반도체 산업경쟁력은 삼성전자나 SK하이닉스 같은 대기업 한 곳의 기술만으로 만들어지는 것이 아니다. 결국 소재·부품·장비업체와 협력사까지 한국 반도체 산업 생태계 전체가 산업스파이의 공격범위에 들어온...",
+          "src": "the-biz",
+          "date": "09/17",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727572",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727572_932777_429.jpg"
+        },
         {
           "title": "상저하고 어렵다더니… 삼성D, 모바일 OLED로 실적 '증명'",
           "desc": "디스플레이와 힌지 등 부품의 수급을 조절하기 위해 아이폰 듀오는 한국을 비롯한 일부 국가에서 10월부터... 전자와 구글이 겪어온 화면 주름·힌지 내구성·방수 문제를 지켜보며 삼성디스플레이를 비롯한 협력사들...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/16",
           "url": "https://www.ngetnews.com/news/articleView.html?idxno=553386",
           "img": "https://cdn.ngetnews.com/news/thumbnail/202609/553386_121367_308_v150.jpg"
-        },
-        {
-          "title": "이재용, 日 참의원 대표단과 ‘깜짝 오찬’…AI·반도체 협력 논의",
-          "desc": "일본에는 삼성전자와 거래하는 주요 반도체 소재·부품·장비 업체들이 다수 자리 잡고 있다. 삼성전자는 APL을 활용해 현지 협력사와의 연구개발(R&D) 협업을 강화하고 첨단 패키징 기술 경쟁력을 높일 방침이다. 이 회장...",
-          "src": "조선일보",
-          "date": "09/16",
-          "url": "https://n.news.naver.com/mnews/article/366/0001192805?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/GM4WKMBXGBSGINRSMZSTMNZYGU.jpg?auth=2a86710190620dd3086afe0dede46ff3811e6a3cb17ec8b26ab180664265199e&width=885&height=464&smart=true"
-        },
-        {
-          "title": "[단독] 삼성전자 평택캠퍼스, 반도체 인력 60%가 사내하청 소속",
-          "desc": "제조업은 소속 외 근로자 비중이 19.2이고, 반도체를 포괄하는 전자부품컴퓨터영상음향 및 통신장비... 삼성전자 관계자는 현재 평택캠퍼스는 건설 인력이 워낙 많아, 삼성전자 임직원보다 협력사 임직원이 훨씬 더...",
-          "src": "vop",
-          "date": "09/16",
-          "url": "https://vop.co.kr/A00001696721.html",
-          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "롯데하이마트, 9월 말까지 '추석맞이 작정 SALE'…\"선물 가전·주방기기...",
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=118332",
-      "img": "https://cdn.newsdream.kr/news/thumbnail/202609/118332_91197_75_v150.jpg"
+      "title": "김영호 삼성전자서비스 대표, 한국경영대상 고객만족 부문 2년 연속 대...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317925",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/317925_225705_3023.png"
     },
     {
-      "title": "가전 안팔리고, AI 등장에 ‘쇄국정책’ 끝낸다…삼성·LG 스마트홈 ‘개...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998929?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/BUJGG3DD3ZH2ZK2OH7ASYHH3WI.jpg?auth=690c481bcf3159a47196d9324d460bebd8aa0641ef25e09a87d86b3616fdc33b&width=874&height=458&smart=true"
+      "title": "하나증권, 새 MTS ‘하나증권V’ 출시…GV90·CES 2027 경품 내건다",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572209968834",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260917/p1065572209968834_801_thum.jpg"
     },
     {
-      "title": "\"안마의자부터 전기그릴까지\" 롯데하이마트, 추석 가전 할인전",
-      "url": "https://n.news.naver.com/mnews/article/003/0014195643?sid=101",
-      "img": "https://img1.newsis.com/2026/09/16/NISI20260916_0002241272_web.jpg"
+      "title": "삼성·LG 안방 파고든 코웨이…의류관리기서 ‘조용한 추격’ [중기+]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002698510?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.efb56ccd9b0549f194aed87d56c16f6b_P1.png"
     },
     {
-      "title": "MDR 문턱 높아진 국산 의료기기… 의료진·실증센터 역할 커져",
-      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79192",
-      "img": "https://cdn.hitnews.co.kr/news/thumbnail/202609/79192_107802_5053_v150.jpg"
+      "title": "삼성전자, 인도서 글로벌 테크세미나 개최...지역 맞춤형 AI 가전 시연",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262869",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262869_284851_2554.jpg"
     },
     {
-      "title": "'국가 AI 기본의료' 로드맵 가동…현장 적용 시험대",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940609",
-      "img": "https://www.dailymedi.com/img/d_logo.jpg"
+      "title": "[IT라운지] 유심사 '알프 도입 성과'·카카오 '소액주주 간담회'-'신작 ...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854009",
+      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854009_816830_1345_v150.jpg"
     },
     {
-      "title": "\"기술수출 넘어 'NewCo'\"…K-바이오, 글로벌 개발·지분 참여",
-      "url": "https://www.medipana.com/news/articleView.html?idxno=417776",
-      "img": "https://cdn.medipana.com/news/photo/202609/417776_324746_2522.jpg"
+      "title": "중부발전, 'AI 에이전트'로 업무 자동화 생태계 구축",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=340839",
+      "img": "http://www.ikld.kr/news/thumbnail/202609/340839_187766_2747_v150.jpg"
     }
   ]
 };
