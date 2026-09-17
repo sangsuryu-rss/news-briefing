@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.18 (금) 03:16",
+  "updatedAt": "2026.09.18 (금) 06:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "최승호 위원장 잇단 조합비 지출 논란… 삼성 초기업노조, 임단협 앞두...",
-          "desc": "그는 가전제품을 주로 생산하는 삼성전자 광주사업장 출신입니다. 최 위원장은 본인에 대한 의혹과 관련해 “장인 업체 거래로 자신이나 가족에게 금전적 이익이 돌아간 사실이 없다”고 해명했습니다. 또 조합비 의혹...",
-          "src": "조선일보",
+          "title": "삼성, 인도서 ‘맞춤형 AI 가전’ 선봬",
+          "desc": "삼성전자가 인도 구루그람에서 가전 테크세미나 ‘더 브리프’를 열고 현지 소비자 특성과 주거 환경을 반영한 맞춤형 AI 가전 경험을 선보였다고 17일 밝혔다. 사진은 참석자들이 현지에 특화한 AI 가전과 AI Home을...",
+          "src": "서울신문",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/023/0003999097?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/IQ7HR7UUNNH53HUNPGSLQSFDYI.jpg?auth=da0e02467dd56bd625b60e97d8202390df9473f85738164c82e5fee08ff83586&width=1081&height=567&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/081/0003681466?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/09/17/SSC_20260917230046_O2.jpg"
         },
         {
           "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "09/17",
           "url": "https://www.viva100.com/article/20260917500811",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918031626"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918062948"
         },
         {
           "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[드림포스 2026] AI 라이벌 앤트로픽·오픈AI",
-          "desc": "속도를 조절하자는 제안이 기업 현장의 AI 도입을 늦추자는 이야기로 받아들여지지 않도록 설명을 보탠... 그는 \"새로운 기술에서 어느 정도의 사고는 불가피하다\"며 \"미국 연방항공청(FAA)과 국가교통안전위원회(NTSB)를...",
-          "src": "econovill",
+          "title": "구글, 싱가포르서 ‘AI 앱 데이’ 개최…“AI 네이티브 앱 풀스택 지원...",
+          "desc": "구글 AI 기술 활용법과 수익 창출 전략을 공유하고, 구글 전문가 및 글로벌 개발자들과 소통하는 기회를... AI 네이티브 앱 시장에서 스타트업들이 경쟁력을 갖기 위한 방안을 제시했다. 그는 “AI 도구 도입으로...",
+          "src": "동아일보",
           "date": "09/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=751191",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/751191_727024_719_v150.jpg"
+          "url": "https://it.donga.com/109555/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/9/18/67dc75e02fbc45e1-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "식품로봇 연구 거점, 포항에 문 열어",
-          "desc": "인공지능(AI)과 로봇 기술을 활용한 조리·서빙·위생관리 기술의 개발과 실증을 지원하는 국내 첫 식품로봇... 포항센터는 글로벌 위생·안전 인증기관인 미국 NSF(National Sanitation Foundation)의 시험인증 장비를 도입해 기술...",
-          "src": "fsnews",
+          "title": "\"AI앱, 유저 유치보다 수익화 먼저\"…구글이 짚은 '스타트업 생존법'",
+          "desc": "수익화’를 도입할 경우, 순수 구독 모델 대비 매출 성장률과 리텐션이 38% 향상되며 무료 유저의 추론... 클라우드 및 기초 AI 모델 인프라 측면에서의 기술 지원 방안도 함께 공개됐다. 필 지아 구글클라우드...",
+          "src": "이데일리",
           "date": "09/18",
-          "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62208",
-          "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62208_53053_408_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006371632?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800198.jpg"
         },
         {
-          "title": "에이치플러스 양지병원 간호본부, AI 패치형 심전도로 입원환자 이상징...",
-          "desc": "정기학술대회'에서 AI기반 패치형 웨어러블 심전도기를 활용한 환자안전 관리 성과로 우수상을 수상했다.... 위해 AI 기반 생체신호 모니터링 시스템 '메모큐(MEMO Cue)'를 병동에 도입하고 간호부와 진료과 간 대응 체계를...",
-          "src": "thefirstmedia",
+          "title": "\"K-AI 스타트업 창의성 압도적…구글, 글로벌 확장 동행\"[인터뷰]",
+          "desc": "티오 부사장은 “AI 도입으로 창업자들의 생산성이 약 33% 향상되고 주당 9.2시간이 절약되는 등 실질적인 변화가 나타나고 있다”며 “AI 멀티모달 기술이 활성화되면서 유저와의 상호작용 방식이 역동적으로 변하고...",
+          "src": "이데일리",
           "date": "09/18",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209002",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202609/209002_192956_038_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006371631?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800196.jpg"
         },
         {
-          "title": "[드림포스 2026] 공기(空氣)가 되어가는 세일즈포스",
-          "desc": "상업 파트너십팀은 에이전트포스 세일즈로 계약을 관리하고 스폰서에게 제안할 시청자 데이터를 활용한다.... AI 에이전트를 올리며 고객 확보에 나서고 있다. 특히 기업 고객은 기술 설명보다 실제 성과를 보고 도입을...",
-          "src": "econovill",
+          "title": "\"후보 발굴 넘어 임상까지\"...제약바이오, AI 적용 속도 낸다",
+          "desc": "병리 기술이 빠르게 도입되는 추세\"라고 말했다. 한편 시장조사업체 글로벌 마켓 인사이트에 따르면 글로벌 AI 기반 신약 개발 시장은 올해 40억 달러(약 5조5000억원)에서 오는 2035년 439억 달러(60조7500억원) 규모로...",
+          "src": "daily",
           "date": "09/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=751188",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/751188_727013_1933_v150.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1407370",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1407370_1587002_3718_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[단독] 엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다",
+          "desc": "삼성전자는 이들을 팹 자동화 업무에 다시 모아 지난해 말 태스크포스(TF)를 꾸리고 이번에 정식 조직으로 격상한 것으로 알려졌다. 먼저 개발할 분야는 장비 유지보수로 예상된다. 협력사와 현장 엔지니어가 주로...",
+          "src": "중앙일보",
+          "date": "09/18",
+          "url": "https://n.news.naver.com/mnews/article/025/0003552277?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/18/0c869d25-5ce2-459d-841f-280134a57746.jpg"
+        },
         {
           "title": "[르포] 500kg급 산업용 로봇부터 휴머노이드까지...유일로보틱스, 고하중...",
           "desc": "자율이동로봇(AMR) 등 하드웨어는 전문 협력사에 아웃소싱하되, 전체 물류 흐름 설계와 핵심 제어... 휴머노이드 전체 연구개발을 위해 지난해 삼성전자 출신 휴머노이드 전문가 4명을 영입했다. 휴머노이드 연구개발...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/17",
           "url": "http://www.wsobi.com/news/articleView.html?idxno=318398",
           "img": "http://www.wsobi.com/news/photo/202609/318398_189604_3125.jpg"
-        },
-        {
-          "title": "[전자는 지금] 삼성전자, 원(One) UI 9 공식 버전 업데이트 시작 外",
-          "desc": "삼성전자가 One UI 9 업데이트를 16일 국내에서 시작해 글로벌 시장으로 순차 확대한다. 이번 업데이트는... 회사는 지난 7월 향후 5년간 1조 4,000억 원 규모의 상생 자금을 활용해 반도체 소재·부품·장비 협력사...",
-          "src": "dealsite",
-          "date": "09/17",
-          "url": "https://dealsite.co.kr/articles/169209",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "최승호 위원장 잇단 조합비 지출 논란… 삼성 초기업노조, 임단협 앞두...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999097?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/IQ7HR7UUNNH53HUNPGSLQSFDYI.jpg?auth=da0e02467dd56bd625b60e97d8202390df9473f85738164c82e5fee08ff83586&width=1081&height=567&smart=true"
+      "title": "삼성, 인도서 ‘맞춤형 AI 가전’ 선봬",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681466?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/09/17/SSC_20260917230046_O2.jpg"
     },
     {
       "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -189,7 +189,7 @@ window.NEWS_DATA = {
     {
       "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
       "url": "https://www.viva100.com/article/20260917500811",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918031626"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918062948"
     },
     {
       "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
     },
     {
-      "title": "[드림포스 2026] AI 라이벌 앤트로픽·오픈AI",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=751191",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/751191_727024_719_v150.jpg"
+      "title": "구글, 싱가포르서 ‘AI 앱 데이’ 개최…“AI 네이티브 앱 풀스택 지원...",
+      "url": "https://it.donga.com/109555/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/9/18/67dc75e02fbc45e1-thumbnail-960x540-70.jpg"
     },
     {
-      "title": "식품로봇 연구 거점, 포항에 문 열어",
-      "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62208",
-      "img": "http://www.fsnews.co.kr/news/thumbnail/202609/62208_53053_408_v150.jpg"
+      "title": "\"AI앱, 유저 유치보다 수익화 먼저\"…구글이 짚은 '스타트업 생존법'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006371632?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800198.jpg"
     }
   ]
 };
