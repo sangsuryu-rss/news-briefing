@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.17 (목) 09:34",
+  "updatedAt": "2026.09.17 (목) 16:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "김영호 삼성전자서비스 대표, 한국경영대상 고객만족 부문 2년 연속 대...",
-          "desc": "삼성전자의 스마트홈 플랫폼 '스마트싱스'와 연계한 가전제품 원격진단 서비스를 통해 엔지니어가 방문하지 않아도 제품 상태를 점검하고 필요한 조치를 받을 수 있도록 했다. 수해와 산불 등 대규모 재난이 발생한...",
-          "src": "wolyo",
+          "title": "삼성전자, 필리핀 2만평 복합단지 'AI로 통째 관리'…동남아 B2B 공략 확...",
+          "desc": "가전은 삼성전자의 연결 플랫폼 '스마트싱스'와 연계해 맞춤형 AI 홈을 구현한다. 입주민과 호텔 투숙객은 스마트싱스에 한 번 로그인하면 객실 내 연결된 기기를 통합 제어할 수 있다. 개별 제품을 각각 조작하는...",
+          "src": "joongangenews",
           "date": "09/17",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317925",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/317925_225705_3023.png"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=548898",
+          "img": "https://cdn.joongangenews.com/news/photo/202609/548898_355445_2624.jpg"
         },
         {
-          "title": "하나증권, 새 MTS ‘하나증권V’ 출시…GV90·CES 2027 경품 내건다",
-          "desc": "CES 2027 패키지 투어를 비롯해 갤럭시 Z 폴드8, 삼성전자 스마트 모니터 M7 43인치, 삼성 노트북, 삼성 로봇청소기, 국내주식 등이 경품으로 마련됐다. 고객은 회차별 경품 가운데 원하는 상품을 골라 응모할 수 있다. 매...",
-          "src": "megaeconomy",
+          "title": "\"GV90 타고 CES 2027까지\"…'하나증권V' 출시 기념 경품 페스티벌",
+          "desc": "주요 경품은 CES 2027 패키지 투어, 갤럭시 Z 폴드8, 삼성전자 SMART M7 43인치, 삼성 노트북, 삼성 로봇청소기, 국내주식 등이다. 손님은 각 회차별로 마련된 경품 가운데 원하는 경품을 선택해 응모할 수 있다. 매 영업일...",
+          "src": "joongangenews",
           "date": "09/17",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572209968834",
-          "img": "https://www.megaeconomy.co.kr/news/data/20260917/p1065572209968834_801_thum.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=548964",
+          "img": "https://cdn.joongangenews.com/news/photo/202609/548964_355513_142.jpg"
         },
         {
-          "title": "삼성·LG 안방 파고든 코웨이…의류관리기서 ‘조용한 추격’ [중기+]",
-          "desc": "국내 의류관리기 시장은 LG전자가 스타일러를 통해 시장을 처음 개척한 이후 삼성전자가 에어드레서를 출시하며 대형 가전업체 중심으로 성장해왔다. 의류관리기 시장은 냉장고·세탁기·건조기 등 대형 생활가전과 함께...",
-          "src": "헤럴드경제",
+          "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
+          "desc": "삼성전자와 LG전자가 인공지능(AI)과 고효율 기술을 앞세운 ‘맞춤형 에너지 절감 솔루션’을 잇따라... ‘워시타워’, 건조기 등을 소개했다. 아울러 스타일러·정수기·인덕션·식기세척기 등도 전시됐다. 미디어...",
+          "src": "브릿지경제",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/016/0002698510?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.efb56ccd9b0549f194aed87d56c16f6b_P1.png"
+          "url": "https://www.viva100.com/article/20260917500811",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917164259"
         },
         {
-          "title": "삼성전자, 인도서 글로벌 테크세미나 개최...지역 맞춤형 AI 가전 시연",
-          "desc": "삼성전자는 지난 16일 인도 구루그람에서 가전 테크세미나 '더 브리프(The Brief)'를 열고 서남아시아 지역... 세미나에 참석한 현지 경제 매체 기자는 \"세탁기, 냉장고, 에어컨 등 AI 가전이 단순한 가사 노동 자동화를 넘어...",
-          "src": "asiaa",
+          "title": "삼성전자, 필리핀 세부 복합단지에 AIoT 통합 운영 솔루션 공급",
+          "desc": "이번 협약에 따라 삼성전자는 AI 가전과 스마트싱스 프로, 빌딩 통합 솔루션 'b.IoT'를 공급한다. 회사는 이를 통해 동남아시아에서 주거·빌딩용 B2B 통합 운영 솔루션 사업을 확대한다는 계획이다. 그란츠 포레스트...",
+          "src": "press9",
           "date": "09/17",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262869",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202609/262869_284851_2554.jpg"
+          "url": "http://www.press9.kr/news/articleView.html?idxno=82952",
+          "img": "http://www.press9.kr/news/thumbnail/202609/82952_95264_11_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[IT라운지] 유심사 '알프 도입 성과'·카카오 '소액주주 간담회'-'신작 ...",
-          "desc": "◆유심사 '알프 도입 성과' 유심가 채널톡의 AI 에이전트 '알프'를 활용해 월평균 2만건 이상의 고객 문의를... 홈 뷰티 트렌드 확산으로 시장은 성장하고 있지만 고가의 가격대와 RF·HIFU·EMS 등 생소한 기술 용어, 함께...",
-          "src": "뉴스웍스",
+          "title": "[의료기기업계 소식] 9월 17일",
+          "desc": "현지 도입을 확대하고, 향후 공공조달 시장으로도 사업 영역을 넓혀갈 계획이다. 특히 노을은 지난해부터... 및 AI 기술 협력 △의료·제조 분야 전문인재 양성 △현지 사업화 및 공동 사업 발굴 등에 협력할 계획이다....",
+          "src": "doctorstimes",
           "date": "09/17",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854009",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854009_816830_1345_v150.jpg"
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240076",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202609/240076_111951_276_v150.jpg"
         },
         {
-          "title": "중부발전, 'AI 에이전트'로 업무 자동화 생태계 구축",
-          "desc": "등의 기술을 플랫폼에 적용했다. 향후 임직원 피드백을 반영하고 활용 도구를 확대해 플랫폼을 사내 대부분의 업무를 지원하는 범용 AI 모델로 발전시킬 계획이다. 이영조 중부발전 사장은 \"이번 플랫폼을 통해 직원...",
-          "src": "ikld",
+          "title": "고속도로 통행료 미납 5년 새 60%↑…도로공사, 단속 강화",
+          "desc": "따라 AI를 통한 체납 차량 이동 경로 예측과 번호판 영치제 도입 등 강화에 나섰다. 한국도로공사(이하... 특히 AI(인공지능) 기술을 활용해 체납 차량 이동 경로를 예측·단속해 효율성을 제고할 계획이다. 도로공사는...",
+          "src": "shinailbo",
           "date": "09/17",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=340839",
-          "img": "http://www.ikld.kr/news/thumbnail/202609/340839_187766_2747_v150.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063513",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5063513_2061288_5133.png"
         },
         {
-          "title": "[테크스냅] 인핸스, 512억원 시리즈C 투자 유치…에이전트OS 공략",
-          "desc": "양사는 이번 출시를 계기로 공동 고객 발굴과 도입 컨설팅, 현장 기술 지원 등 협력을 확대할 방침이다. ▲ 에임인텔리전스는 로봇과 자율 시스템 등 피지컬 AI 전반의 안전 문제를 연구하는 글로벌 컨소시엄...",
-          "src": "연합뉴스",
+          "title": "에스넷시스템, 한난 AI기반 통합운영 시스템 구축 맡아…100억 규모",
+          "desc": "이번 사업은 인공지능(AI)을 활용해 지역난방 열수요를 예측하고, 이를 토대로 열·전력 생산계획 수립부터... “단순한 기술 도입을 넘어 고객의 핵심 비즈니스 프로세스에 AI를 접목해 실질적인 변화를 만들어내고, 이를...",
+          "src": "디지털타임스",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/001/0016316671?sid=105",
-          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917047000017_01_i_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003048659?sid=105",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/17/news-p.v1.20260917.7aca8ae98d5b4ea7a11629403f1baa91_R.png"
         },
         {
-          "title": "인핸스, 512억 원 규모 시리즈 C 투자 유치…누적 810억 원",
-          "desc": "현대기술투자 등 기존 주주들도 후속 투자에 나섰다. 포스코기술투자, LG CNS, 롯데벤처스도 이번 투자에... 인핸스는 기업과 정부의 AI 도입이 시범 적용 단계를 지나 전사 운영으로 확대되는 흐름에 주목하고 있다....",
-          "src": "platum",
+          "title": "\"존재조차 몰랐다\"…에버퓨어, AI 발목 잡는 '다크데이터' 경고",
+          "desc": "최고기술책임자(CTO)는 AI 프로젝트가 파일럿 단계를 넘어서기 어려운 이유를 꼽으며, 이 같이 진단했다.... 이런 상태에서 AI를 도입하면 리스크는 더욱 커진다. 에버퓨어가 옴디아와 함께 진행한 리서치 결과에 따르면...",
+          "src": "디지털데일리",
           "date": "09/17",
-          "url": "https://platum.kr/archives/294731",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/09/Enhans.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002241854?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/17/2026091715235566492_l.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업",
-          "desc": "삼성전자와 SK하이닉스가 추진 중인 첨단 패키징 공장 건설 프로젝트는 트럼프식 칩스법(CHIPS Act) 재협상... 대미 수출 비중이 절대적인 국내 중견·중소 부품 협력사들의 경우 설비 가동률 변동성은 이미 감내할 수 있는...",
-          "src": "뉴스웍스",
+          "title": "[르포] 유일로보틱스, 500kg급 산업용 로봇부터 휴머노이드까지...고하중...",
+          "desc": "자율이동로봇(AMR) 등 하드웨어는 전문 협력사에 아웃소싱하되, 전체 물류 흐름 설계와 핵심 제어... 휴머노이드 전체 연구개발을 위해 지난해 삼성전자 출신 휴머노이드 전문가 4명을 영입했다. 휴머노이드 연구개발...",
+          "src": "ZDNet코리아",
           "date": "09/17",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854005",
-          "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854005_816826_5343_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002437918?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/17/3479c96f15845cac594c14b7231f766e.jpg"
         },
         {
-          "title": "[경제 간첩 경보①] 첨단산업 뚫렸다…'초격차' 빼가는 산업스파이",
-          "desc": "반도체 산업경쟁력은 삼성전자나 SK하이닉스 같은 대기업 한 곳의 기술만으로 만들어지는 것이 아니다. 결국 소재·부품·장비업체와 협력사까지 한국 반도체 산업 생태계 전체가 산업스파이의 공격범위에 들어온...",
-          "src": "the-biz",
+          "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 ...",
+          "desc": "70%의 상승률을 기록하며 삼성전자 협력사 전체 섹터 중 가장 뛰어난 성과를 냈다. 반도체 패키징... 소재(-3.59%)·핸드셋 부품(-0.80%)… \"전공정·스마트폰 부진 속 옥석 가리기\" 반도체 소재와 핸드셋 부품 업종은...",
+          "src": "한국경제",
           "date": "09/17",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=727572",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202609/727572_932777_429.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005333443?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/01.45551484.1.jpg"
         },
         {
-          "title": "상저하고 어렵다더니… 삼성D, 모바일 OLED로 실적 '증명'",
-          "desc": "디스플레이와 힌지 등 부품의 수급을 조절하기 위해 아이폰 듀오는 한국을 비롯한 일부 국가에서 10월부터... 전자와 구글이 겪어온 화면 주름·힌지 내구성·방수 문제를 지켜보며 삼성디스플레이를 비롯한 협력사들...",
-          "src": "econovill",
-          "date": "09/16",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=751031",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/751031_726788_1413_v150.jpg"
+          "title": "[IT업계 8월 동향] 삼성전자, 차세대 기술혁신 고도화···글로벌 경쟁...",
+          "desc": "삼성전자는 완제품 생산뿐만 아니라 핵심 부품의 생산과 제조 공정 전반의 국내 투입 비중을 확대해 협력사와의 동반성장은 물론 지역 경제 활성화에도 기여한다는 방침이다. 국내 신규 생산라인에서는 연간 10만대...",
+          "src": "wsobi",
+          "date": "09/17",
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=318398",
+          "img": "http://www.wsobi.com/news/photo/202609/318398_189604_3125.jpg"
         },
         {
-          "title": "이재용 '깜짝 참석'…日 참의원 대표단과 반도체 협력 논의",
-          "desc": "소재·부품·장비 생태계와의 협력 확대에도 관심이 쏠린다. 16일 재계에 따르면 이 회장은 지난 14일 서울... 삼성전자와 일본 정부·지방자치단체, 현지 협력사 관계자 등 약 100명이 개소식에 참석했다. 삼성전자는...",
-          "src": "전자신문",
-          "date": "09/16",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=553386",
-          "img": "https://cdn.ngetnews.com/news/thumbnail/202609/553386_121367_308_v150.jpg"
+          "title": "[전자는 지금] 삼성전자, 원(One) UI 9 공식 버전 업데이트 시작 外",
+          "desc": "삼성전자가 One UI 9 업데이트를 16일 국내에서 시작해 글로벌 시장으로 순차 확대한다. 이번 업데이트는... 회사는 지난 7월 향후 5년간 1조 4,000억 원 규모의 상생 자금을 활용해 반도체 소재·부품·장비 협력사...",
+          "src": "dealsite",
+          "date": "09/17",
+          "url": "https://dealsite.co.kr/articles/169209",
+          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "김영호 삼성전자서비스 대표, 한국경영대상 고객만족 부문 2년 연속 대...",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317925",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202609/317925_225705_3023.png"
+      "title": "삼성전자, 필리핀 2만평 복합단지 'AI로 통째 관리'…동남아 B2B 공략 확...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548898",
+      "img": "https://cdn.joongangenews.com/news/photo/202609/548898_355445_2624.jpg"
     },
     {
-      "title": "하나증권, 새 MTS ‘하나증권V’ 출시…GV90·CES 2027 경품 내건다",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572209968834",
-      "img": "https://www.megaeconomy.co.kr/news/data/20260917/p1065572209968834_801_thum.jpg"
+      "title": "\"GV90 타고 CES 2027까지\"…'하나증권V' 출시 기념 경품 페스티벌",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548964",
+      "img": "https://cdn.joongangenews.com/news/photo/202609/548964_355513_142.jpg"
     },
     {
-      "title": "삼성·LG 안방 파고든 코웨이…의류관리기서 ‘조용한 추격’ [중기+]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002698510?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.efb56ccd9b0549f194aed87d56c16f6b_P1.png"
+      "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
+      "url": "https://www.viva100.com/article/20260917500811",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917164259"
     },
     {
-      "title": "삼성전자, 인도서 글로벌 테크세미나 개최...지역 맞춤형 AI 가전 시연",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262869",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202609/262869_284851_2554.jpg"
+      "title": "삼성전자, 필리핀 세부 복합단지에 AIoT 통합 운영 솔루션 공급",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=82952",
+      "img": "http://www.press9.kr/news/thumbnail/202609/82952_95264_11_v150.jpg"
     },
     {
-      "title": "[IT라운지] 유심사 '알프 도입 성과'·카카오 '소액주주 간담회'-'신작 ...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854009",
-      "img": "https://cdn.newsworks.co.kr/news/thumbnail/202609/854009_816830_1345_v150.jpg"
+      "title": "[의료기기업계 소식] 9월 17일",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240076",
+      "img": "http://www.doctorstimes.com/news/thumbnail/202609/240076_111951_276_v150.jpg"
     },
     {
-      "title": "중부발전, 'AI 에이전트'로 업무 자동화 생태계 구축",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=340839",
-      "img": "http://www.ikld.kr/news/thumbnail/202609/340839_187766_2747_v150.jpg"
+      "title": "고속도로 통행료 미납 5년 새 60%↑…도로공사, 단속 강화",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063513",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5063513_2061288_5133.png"
     }
   ]
 };
