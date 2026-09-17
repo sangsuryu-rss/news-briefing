@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.17 (목) 16:42",
+  "updatedAt": "2026.09.17 (목) 22:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 필리핀 2만평 복합단지 'AI로 통째 관리'…동남아 B2B 공략 확...",
-          "desc": "가전은 삼성전자의 연결 플랫폼 '스마트싱스'와 연계해 맞춤형 AI 홈을 구현한다. 입주민과 호텔 투숙객은 스마트싱스에 한 번 로그인하면 객실 내 연결된 기기를 통합 제어할 수 있다. 개별 제품을 각각 조작하는...",
-          "src": "joongangenews",
+          "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
+          "desc": "삼성전자가 필리핀 세부에서 개발 중인 프리미엄 복합단지 '그란츠 포레스트 파크'에 인공지능(AI) 가전과 B2B 통합 운영 솔루션을 공급하기로 했다. 17일, 삼성전자는 국내외 하이엔드 주택 및 호텔·리조트 전문...",
+          "src": "ppss",
           "date": "09/17",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=548898",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/548898_355445_2624.jpg"
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
+          "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
         },
         {
-          "title": "\"GV90 타고 CES 2027까지\"…'하나증권V' 출시 기념 경품 페스티벌",
-          "desc": "주요 경품은 CES 2027 패키지 투어, 갤럭시 Z 폴드8, 삼성전자 SMART M7 43인치, 삼성 노트북, 삼성 로봇청소기, 국내주식 등이다. 손님은 각 회차별로 마련된 경품 가운데 원하는 경품을 선택해 응모할 수 있다. 매 영업일...",
-          "src": "joongangenews",
+          "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
+          "desc": "최근 글로벌 로봇청소기 시장에서는 기술과 제품 혁신을 앞세운 중국 기업들이 상위권을 주도하며... ◇ 삼성전자, '2026 기후산업국제박람회'서 일상부터 산업까지 맞춤형 에너지 솔루션 선보여 삼성전자, '2026...",
+          "src": "ibabynews",
           "date": "09/17",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=548964",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/548964_355513_142.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154604",
+          "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
         },
         {
           "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
@@ -42,15 +42,15 @@ window.NEWS_DATA = {
           "src": "브릿지경제",
           "date": "09/17",
           "url": "https://www.viva100.com/article/20260917500811",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917164259"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917223043"
         },
         {
-          "title": "삼성전자, 필리핀 세부 복합단지에 AIoT 통합 운영 솔루션 공급",
-          "desc": "이번 협약에 따라 삼성전자는 AI 가전과 스마트싱스 프로, 빌딩 통합 솔루션 'b.IoT'를 공급한다. 회사는 이를 통해 동남아시아에서 주거·빌딩용 B2B 통합 운영 솔루션 사업을 확대한다는 계획이다. 그란츠 포레스트...",
-          "src": "press9",
+          "title": "[증권픽] 삼성증권, 발행어음 상품 첫 출시 외",
+          "desc": "주요 경품은 ▲CES 2027 패키지 투어 ▲갤럭시 Z 폴드8 ▲삼성전자 SMART M7 43인치 ▲삼성 노트북 ▲삼성 로봇청소기 ▲국내주식 등이다. 손님은 각 회차별로 마련된 경품 가운데 원하는 경품을 선택해 응모할 수 있다. 매...",
+          "src": "newsian",
           "date": "09/17",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=82952",
-          "img": "http://www.press9.kr/news/thumbnail/202609/82952_95264_11_v150.jpg"
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95587",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95587_89715_556_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[의료기기업계 소식] 9월 17일",
-          "desc": "현지 도입을 확대하고, 향후 공공조달 시장으로도 사업 영역을 넓혀갈 계획이다. 특히 노을은 지난해부터... 및 AI 기술 협력 △의료·제조 분야 전문인재 양성 △현지 사업화 및 공동 사업 발굴 등에 협력할 계획이다....",
-          "src": "doctorstimes",
+          "title": "[인터뷰] \"아스트라에 오라티오, 과거 신전기의 재현이 아닌 재해석\"",
+          "desc": "이를 고려해 도입부를 편성하고 시연 빌드를 구성했다. 전투 시스템의 차별화 포인트와, 유저들에게 전하고... 개발 과정에서 AI가 활용됐나? 활용했다면 어떤 식으로 썼나? 김인 AD = 아트에서는 AI를 사용하고 있지 않다....",
+          "src": "inven",
           "date": "09/17",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240076",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202609/240076_111951_276_v150.jpg"
+          "url": "https://m.sports.naver.com/esports/article/442/0000196826",
+          "img": "https://static.inven.co.kr/column/2026/09/17/news/i1071541934.jpg"
         },
         {
-          "title": "고속도로 통행료 미납 5년 새 60%↑…도로공사, 단속 강화",
-          "desc": "따라 AI를 통한 체납 차량 이동 경로 예측과 번호판 영치제 도입 등 강화에 나섰다. 한국도로공사(이하... 특히 AI(인공지능) 기술을 활용해 체납 차량 이동 경로를 예측·단속해 효율성을 제고할 계획이다. 도로공사는...",
-          "src": "shinailbo",
+          "title": "퓨즈머신즈, 직원 대신 회의하는 AI 트윈 공개",
+          "desc": "CEO는 AI Twin이 “개인의 업무 수행 능력을 확장할 수 있다”고 말했다. 이는 기술 활용에 대한 회사 측... 독립적인 기술 검증·고객 도입 사례가 확인되지 않았다. AI Twin 발표와 주가 변동 사이의 인과관계도...",
+          "src": "tokenpost",
           "date": "09/17",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063513",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5063513_2061288_5133.png"
+          "url": "https://www.tokenpost.kr/news/ai/409745",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/afay71r999.jpg"
         },
         {
-          "title": "에스넷시스템, 한난 AI기반 통합운영 시스템 구축 맡아…100억 규모",
-          "desc": "이번 사업은 인공지능(AI)을 활용해 지역난방 열수요를 예측하고, 이를 토대로 열·전력 생산계획 수립부터... “단순한 기술 도입을 넘어 고객의 핵심 비즈니스 프로세스에 AI를 접목해 실질적인 변화를 만들어내고, 이를...",
-          "src": "디지털타임스",
+          "title": "'AI 첨단 행정' 외친 엄승용 보령시장, '폐머드 방류'엔 \"해 없다\" 구태...",
+          "desc": "엄승용 충남 보령시장이 내부적으로는 AI(인공지능) 및 신기술을 활용한 첨단 행정과 엄격한 '정책검증 시스템' 도입을 강조하고 나섰으나, 정작 수억 원의 예산이 들어가는 대표 축제의 환경 관리 이슈에 대해서는 거친...",
+          "src": "ngonews",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/029/0003048659?sid=105",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/17/news-p.v1.20260917.7aca8ae98d5b4ea7a11629403f1baa91_R.png"
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=238579",
+          "img": "https://cdn.ngonews.kr/news/photo/202609/238579_243192_558.jpg"
         },
         {
-          "title": "\"존재조차 몰랐다\"…에버퓨어, AI 발목 잡는 '다크데이터' 경고",
-          "desc": "최고기술책임자(CTO)는 AI 프로젝트가 파일럿 단계를 넘어서기 어려운 이유를 꼽으며, 이 같이 진단했다.... 이런 상태에서 AI를 도입하면 리스크는 더욱 커진다. 에버퓨어가 옴디아와 함께 진행한 리서치 결과에 따르면...",
-          "src": "디지털데일리",
+          "title": "카스퍼스키, \"기업 AI 도입하며 보안 투자 확대\"…'AI 취약점' 위협 인식...",
+          "desc": "내부 AI 도구를 적극적으로 검토하거나 도입하고 있으며 18%는 이미 이러한 기술을 업무 프로세스에 통합한... 고도화된 AI 기능을 포함하고 있는 카스퍼스키 넥스트(Kaspersky Next)와 같은 종합 사이버 보안 솔루션을 활용...",
+          "src": "epnc",
           "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/138/0002241854?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/17/2026091715235566492_l.jpg"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407107",
+          "img": "https://cdn.epnc.co.kr/news/photo/202609/407107_407632_573.png"
         }
       ]
     },
@@ -101,7 +101,7 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[르포] 유일로보틱스, 500kg급 산업용 로봇부터 휴머노이드까지...고하중...",
+          "title": "[르포] 500kg급 산업용 로봇부터 휴머노이드까지...유일로보틱스, 고하중...",
           "desc": "자율이동로봇(AMR) 등 하드웨어는 전문 협력사에 아웃소싱하되, 전체 물류 흐름 설계와 핵심 제어... 휴머노이드 전체 연구개발을 위해 지난해 삼성전자 출신 휴머노이드 전문가 4명을 영입했다. 휴머노이드 연구개발...",
           "src": "ZDNet코리아",
           "date": "09/17",
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "dealsite",
           "date": "09/17",
           "url": "https://dealsite.co.kr/articles/169209",
-          "img": ""
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/17/8a2814e3c1bb423db9d2d45c0f2d3e8b/thumb.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 필리핀 2만평 복합단지 'AI로 통째 관리'…동남아 B2B 공략 확...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548898",
-      "img": "https://cdn.joongangenews.com/news/photo/202609/548898_355445_2624.jpg"
+      "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
+      "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
     },
     {
-      "title": "\"GV90 타고 CES 2027까지\"…'하나증권V' 출시 기념 경품 페스티벌",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548964",
-      "img": "https://cdn.joongangenews.com/news/photo/202609/548964_355513_142.jpg"
+      "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154604",
+      "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
     },
     {
       "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
       "url": "https://www.viva100.com/article/20260917500811",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917164259"
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260917223043"
     },
     {
-      "title": "삼성전자, 필리핀 세부 복합단지에 AIoT 통합 운영 솔루션 공급",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=82952",
-      "img": "http://www.press9.kr/news/thumbnail/202609/82952_95264_11_v150.jpg"
+      "title": "[증권픽] 삼성증권, 발행어음 상품 첫 출시 외",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95587",
+      "img": "https://cdn.newsian.co.kr/news/thumbnail/202609/95587_89715_556_v150.jpg"
     },
     {
-      "title": "[의료기기업계 소식] 9월 17일",
-      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240076",
-      "img": "http://www.doctorstimes.com/news/thumbnail/202609/240076_111951_276_v150.jpg"
+      "title": "[인터뷰] \"아스트라에 오라티오, 과거 신전기의 재현이 아닌 재해석\"",
+      "url": "https://m.sports.naver.com/esports/article/442/0000196826",
+      "img": "https://static.inven.co.kr/column/2026/09/17/news/i1071541934.jpg"
     },
     {
-      "title": "고속도로 통행료 미납 5년 새 60%↑…도로공사, 단속 강화",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063513",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202609/5063513_2061288_5133.png"
+      "title": "퓨즈머신즈, 직원 대신 회의하는 AI 트윈 공개",
+      "url": "https://www.tokenpost.kr/news/ai/409745",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/afay71r999.jpg"
     }
   ]
 };
