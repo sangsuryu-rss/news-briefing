@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.18 (금) 09:22",
+  "updatedAt": "2026.09.18 (금) 16:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[기업을 바꾼 선택②] 이재용 4년, 삼성전자 ‘초격차’에서 ‘AI 밸류체...",
-          "desc": "로봇에서는 삼성전자의 AI·소프트웨어 기술과 레인보우로보틱스의 하드웨어 기술을 연결한다. HVAC에서는 기존 가전·공조 사업과 플랙트의 대형 공조 기술을 데이터센터 시장으로 확장할 수 있는 구조를 만들었다....",
-          "src": "thetracker",
+          "title": "삼성전자 인도법인 \"AI기술, 고가 가전에만 적용되지 않을 것\"",
+          "desc": "삼성전자는 2024년 AI 가전 사업을 시작할 당시 AI 기능을 프리미엄 드럼세탁기를 중심으로 제공했지만 이후 통돌이 세탁기로 적용 범위를 넓혔다. 냉장고 역시 기존에는 양문형이나 4도어 등 대형 제품을 중심으로 AI...",
+          "src": "파이낸셜뉴스",
           "date": "09/18",
-          "url": "https://thetracker.co.kr/View.aspx?No=4231836",
-          "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260917151231627.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005578082?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/17/202609171442144725_e.jpg"
         },
         {
           "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
         },
         {
-          "title": "“폭염·요금 폭탄 막는다” 삼성·LG, 신흥국 정조준한 맞춤형 AI 가전...",
-          "desc": "WF90F와 건조기 DV90F의 AI 에너지 모드를 활성화하면 성능 저하 없이 에너지 소비를 최대 20%까지 줄일 수 있다. 에어컨 WindFree™ AI Pro 역시 AI 에너지 모드를 통해 전력 낭비를 최대 30%까지 절감 가능하다. 삼성전자가...",
-          "src": "g-enews",
+          "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
+          "desc": "드라이클리닝 비용 부담과 원룸·오피스텔 등 좁은 실내 건조 환경으로 인해 의류관리기(의류건조기 결합형)를 찾는 1인 가구가 늘고 있다. 한국소비자원은 시중에 판매 중인 주요 브랜드 의류관리기 3종(삼성전자...",
+          "src": "dailypop",
           "date": "09/18",
-          "url": "https://www.g-enews.com/view.php?ud=2026091807112476432bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260918072211003502bd56fbc3c21121419978.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=102686",
+          "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
         },
         {
-          "title": "삼성, 33년 다진 최장수 파트너십 등에 업고 서아프리카 정복 나선다",
-          "desc": "삼성전자가 서아프리카 핵심 파트너사인 심스 나이지리아(SIMS Nigeria)와 손잡고 2주간 주요 가전과 모바일... 할인 혜택이 적용되는 품목은 스마트 TV, 에어컨, 냉장고, 세탁기, 주방 가전, 스마트폰이다. 모든 제품이 아닌...",
-          "src": "g-enews",
+          "title": "필리핀 프리미엄 단지에 삼성전자 ‘AI 홈’ 들어간다",
+          "desc": "삼성전자는 이 단지의 주거시설에 AI 가전과 기업 간 거래(B2B) 연결·통합 제어 플랫폼인 ‘스마트싱스 프로’를 연계한 맞춤형 AI 홈을 구축할 계획이다. 레지던스와 호텔에는 TV·에어컨·냉장고·세탁기 등 가전을...",
+          "src": "서울경제",
           "date": "09/18",
-          "url": "https://www.g-enews.com/view.php?ud=20260917233654774fda4f5ab74_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091800080004064fda4f5ab7439122247205.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004663398?sid=101",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "중앙법률사무교육원, 'AI활용법전문가 1급' 자격증 신설",
-          "desc": "주무부처는 과학기술정보통신부다. AI활용법전문가 1급은 인공지능 기본법에 대한 이해를 바탕으로 AI 윤리... 위한 AI 실무 강의를 도입했다. 수강생 전원에게 법무관리 AI 실무 시스템 무료 특강과 4주 무료 이용권을...",
-          "src": "fntoday",
+          "title": "네이버 플리마켓, 'AI 시세 추천' 기능 출시",
+          "desc": "AI 시세 추천은 플리마켓과 카페에 올라온 동일·유사 상품의 정보와 가격대를 활용해 판매자가 등록하려는... 위해 도입된 기능”이라며 “앞으로도 플리마켓과 네이버의 AI·커머스 기술을 유기적으로 연결해, 판매자는...",
+          "src": "ZDNet코리아",
           "date": "09/18",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393349",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/2_1315836_1277350_2821_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002438074?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/18/4d200a0f9b597279a54931207fcf063e.png"
         },
         {
-          "title": "노원비하인드, '교실지능화 ALC'... 에듀테크 페어 장관급 수상 영예",
-          "desc": "페어'에서 AI 활용혁신 부문 최우수상인 정보통신산업진흥원장상을 수상했다고 17일 밝혔다. 국내 에듀테크 생태계의 유망 비즈니스 모델과 첨단 기술을 발굴해 시상하는 이번 무대에서 회사는 독자 개발한 'Active...",
-          "src": "newsworker",
+          "title": "한국전력기술, '2026 국가공헌대상' 서 산업부장관상 수상 영예",
+          "desc": "그 중 AI 혁신 부문은 인공지능을 활용해 공공서비스 품질을 높이고 안전·행정 분야 혁신과 공공가치... 한국전력기술 김태균 사장은 \"AI 전환의 성패는 최신 기술의 도입 자체가 아니라, 축적된 전문 지식과 데이터를...",
+          "src": "e-platform",
           "date": "09/18",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=505025",
-          "img": "https://cdn.newsworker.co.kr/news/photo/202609/505025_506491_159.jpg"
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=105538",
+          "img": "https://cdn.e-platform.net/news/thumbnail/202609/105538_77675_2248_v150.jpg"
         },
         {
-          "title": "\"에이전틱 AI, 안심하고 쓸 기술 만든다\"...UNIST, 110억 규모 'AI 스타 펠...",
-          "desc": "이러한 보안·AI 분야의 전문성이 이번 연구의 토대다. 연구팀은 보안 우려로 AI 에이전트 도입이 어려웠던... 핵심 보안 기술을 개발하고, 에이전틱 AI를 안전하게 활용하는 데 기여할 인재를 양성하겠다\"고 말했다.",
-          "src": "AI타임스",
+          "title": "호주, 정부청사 내 스마트 안경 착용 금지 검토",
+          "desc": "세계 최초로 청소년 소셜미디어 계정 차단 조치를 도입한 호주가 이번에는 보안·사생활 침해 우려를 들어... 호주 정부는 아울러 직장 내 인공지능(AI) 활용 지침을 마련하기 위해 마이크로소프트(MS), 커먼웰스 은행, 통신사...",
+          "src": "news",
           "date": "09/18",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41984",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41984_63152_952_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/056/0012260168?sid=104",
+          "img": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_F0TONh.png"
         },
         {
-          "title": "[인터뷰] 박정숙 서울시여성가족재단 대표이사",
-          "desc": "AI를 활용해 불법촬영물을 탐지하고 영상의 유사도를 분석해 삭제를 지원하는 24시간 대응체계도 강화했다. 기술 도입은 피해자뿐 아니라 지원 인력의 업무환경도 바꾸고 있다. 불법 영상물을 사람이 일일이 확인하는...",
-          "src": "헤럴드경제",
+          "title": "[대전교육소식] '학생 국외과학연구단지 체험프로그램 운영 결과보고회...",
+          "desc": "연수 첫날에는 애플코리아 세미나에 참가해 AI와 디지털 기반의 수업 설계 방안, 안전한 스마트기기 활용... 특강에서는 디지털 기술 도입 과정에서 나타나는 학교 현장의 갈등 사례를 짚어보고, 조정자이자 중재자로서...",
+          "src": "daily",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/016/0002699168?sid=102",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.7d7cb605de68461ab914acea6348eca8_P1.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1407647",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1407647_1587214_1018_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[주간 기업동향] 이재용 삼성전자 회장, 日 참의원 대표단과 반도체·AI...",
-          "desc": "삼성전자는 반도체 소재·부품·장비 분야에서 일본 기업들과 협력하고 있으며 이 회장도 일본 최대... 삼성, 협력사 물품대금 조기 지급·온라인 장터 운영 삼성이 추석을 앞두고 협력사의 자금 운용과 내수 경기...",
-          "src": "banronbodo",
+          "title": "충남도, '반도체 후공정 특화단지' 지정…7개 산단에 투자",
+          "desc": "등도 협력사로 이름을 올렸다. 이들 기업은 2030년까지 3700억 원을 투자할 계획이다. 목표로는 생산액 3조... 핵심 부품·장비의 국내 생산 거점으로 성장할 수 있도록 적극 지원할 계획이다. 도 관계자는 \"삼성전자와...",
+          "src": "weekly",
           "date": "09/18",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33042",
-          "img": "https://cdn.banronbodo.com/news/photo/202609/33042_48739_552.png"
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184949",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184949_247582_5042_v150.jpg"
         },
         {
-          "title": "[인사이드 스토리]삼성·SK 추격하는 中…'각개전투'로는 버거운 이유",
-          "desc": "화웨이는 자체 투자조직 등을 통해 중국 노광장비·광학부품·고출력 광원 업체에 잇따라 투자하고... 삼성전자와 SK하이닉스 등 개별 기업이 대규모 설비투자와 연구개발은 물론 협력사 생태계 구축까지 상당 부분...",
-          "src": "news",
+          "title": "삼성전자, 반도체 공장용 '팹 로봇' 전담 조직 신설",
+          "desc": "삼성전자가 반도체 공장용 로봇을 설계하는 전담 조직을 꾸리고 '팹 로봇' 개발에 본격적으로 뛰어들었다.... 이는 협력사와 현장 엔지니어가 주로 담당해 온 예방보전(PM) 업무를 가리킨다. 업계에서는 2024년...",
+          "src": "mdtoday",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050882?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/09/17/de4644ec31c3ccbc76f7923445929a61.png"
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=614081",
+          "img": "https://cdn.mdtoday.co.kr/news/photo/202609/614081_318089_380.jpg"
         },
         {
-          "title": "[단독] 엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다",
-          "desc": "삼성전자는 이들을 팹 자동화 업무에 다시 모아 지난해 말 태스크포스(TF)를 꾸리고 이번에 정식 조직으로 격상한 것으로 알려졌다. 먼저 개발할 분야는 장비 유지보수로 예상된다. 협력사와 현장 엔지니어가 주로...",
-          "src": "중앙일보",
+          "title": "삼성전자 16일 HBM 다이 TSMC에 개방",
+          "desc": "업계 관계자들은 이번 사안이 국내 반도체 부품·소재·장비 협력사들에도 영향을 줄 수 있다고 본다. 삼성전자 파운드리 라인을 기반으로 사업을 해온 일부 협력사들은 물량 변화에 촉각을 곤두세우고 있는 것으로...",
+          "src": "고코리아",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552277?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/18/0c869d25-5ce2-459d-841f-280134a57746.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=879005",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/879005_156241_5618_v150.jpg"
         },
         {
-          "title": "[르포] 500kg급 산업용 로봇부터 휴머노이드까지...유일로보틱스, 고하중...",
-          "desc": "자율이동로봇(AMR) 등 하드웨어는 전문 협력사에 아웃소싱하되, 전체 물류 흐름 설계와 핵심 제어... 휴머노이드 전체 연구개발을 위해 지난해 삼성전자 출신 휴머노이드 전문가 4명을 영입했다. 휴머노이드 연구개발...",
-          "src": "ZDNet코리아",
-          "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/092/0002437918?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/09/17/3479c96f15845cac594c14b7231f766e.jpg"
+          "title": "[사이드B] 이재용·최태원 행보에 또 '日'…왜 일본이 눈에 들어올까",
+          "desc": "삼성이 일본에 연구소를 둔 데는 현지 소재·부품·장비(소부장) 생태계가 영향을 미쳤다는 게 업계... 평택은 이미 전력과 용수, 도로가 깔려 있고 협력사도 모여 있습니다. AI 메모리 수요가 커지자 삼성전자가 평택...",
+          "src": "아이뉴스24",
+          "date": "09/18",
+          "url": "https://n.news.naver.com/mnews/article/031/0001059617?sid=101",
+          "img": "https://image.inews24.com/v1/9a8878a0afaba9.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[기업을 바꾼 선택②] 이재용 4년, 삼성전자 ‘초격차’에서 ‘AI 밸류체...",
-      "url": "https://thetracker.co.kr/View.aspx?No=4231836",
-      "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260917151231627.jpg"
+      "title": "삼성전자 인도법인 \"AI기술, 고가 가전에만 적용되지 않을 것\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578082?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/17/202609171442144725_e.jpg"
     },
     {
       "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
     },
     {
-      "title": "“폭염·요금 폭탄 막는다” 삼성·LG, 신흥국 정조준한 맞춤형 AI 가전...",
-      "url": "https://www.g-enews.com/view.php?ud=2026091807112476432bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260918072211003502bd56fbc3c21121419978.jpg"
+      "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=102686",
+      "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
     },
     {
-      "title": "삼성, 33년 다진 최장수 파트너십 등에 업고 서아프리카 정복 나선다",
-      "url": "https://www.g-enews.com/view.php?ud=20260917233654774fda4f5ab74_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091800080004064fda4f5ab7439122247205.jpg"
+      "title": "네이버 플리마켓, 'AI 시세 추천' 기능 출시",
+      "url": "https://n.news.naver.com/mnews/article/092/0002438074?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/09/18/4d200a0f9b597279a54931207fcf063e.png"
     },
     {
-      "title": "중앙법률사무교육원, 'AI활용법전문가 1급' 자격증 신설",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393349",
-      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/2_1315836_1277350_2821_v150.jpg"
+      "title": "한국전력기술, '2026 국가공헌대상' 서 산업부장관상 수상 영예",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=105538",
+      "img": "https://cdn.e-platform.net/news/thumbnail/202609/105538_77675_2248_v150.jpg"
     },
     {
-      "title": "노원비하인드, '교실지능화 ALC'... 에듀테크 페어 장관급 수상 영예",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=505025",
-      "img": "https://cdn.newsworker.co.kr/news/photo/202609/505025_506491_159.jpg"
+      "title": "호주, 정부청사 내 스마트 안경 착용 금지 검토",
+      "url": "https://n.news.naver.com/mnews/article/056/0012260168?sid=104",
+      "img": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_F0TONh.png"
     }
   ]
 };
