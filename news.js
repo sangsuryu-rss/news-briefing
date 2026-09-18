@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.18 (금) 06:29",
+  "updatedAt": "2026.09.18 (금) 09:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성, 인도서 ‘맞춤형 AI 가전’ 선봬",
-          "desc": "삼성전자가 인도 구루그람에서 가전 테크세미나 ‘더 브리프’를 열고 현지 소비자 특성과 주거 환경을 반영한 맞춤형 AI 가전 경험을 선보였다고 17일 밝혔다. 사진은 참석자들이 현지에 특화한 AI 가전과 AI Home을...",
-          "src": "서울신문",
+          "title": "[기업을 바꾼 선택②] 이재용 4년, 삼성전자 ‘초격차’에서 ‘AI 밸류체...",
+          "desc": "로봇에서는 삼성전자의 AI·소프트웨어 기술과 레인보우로보틱스의 하드웨어 기술을 연결한다. HVAC에서는 기존 가전·공조 사업과 플랙트의 대형 공조 기술을 데이터센터 시장으로 확장할 수 있는 구조를 만들었다....",
+          "src": "thetracker",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/081/0003681466?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/09/17/SSC_20260917230046_O2.jpg"
+          "url": "https://thetracker.co.kr/View.aspx?No=4231836",
+          "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260917151231627.jpg"
         },
         {
           "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
         },
         {
-          "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
-          "desc": "삼성전자와 LG전자가 인공지능(AI)과 고효율 기술을 앞세운 ‘맞춤형 에너지 절감 솔루션’을 잇따라... ‘워시타워’, 건조기 등을 소개했다. 아울러 스타일러·정수기·인덕션·식기세척기 등도 전시됐다. 미디어...",
-          "src": "브릿지경제",
-          "date": "09/17",
-          "url": "https://www.viva100.com/article/20260917500811",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918062948"
+          "title": "“폭염·요금 폭탄 막는다” 삼성·LG, 신흥국 정조준한 맞춤형 AI 가전...",
+          "desc": "WF90F와 건조기 DV90F의 AI 에너지 모드를 활성화하면 성능 저하 없이 에너지 소비를 최대 20%까지 줄일 수 있다. 에어컨 WindFree™ AI Pro 역시 AI 에너지 모드를 통해 전력 낭비를 최대 30%까지 절감 가능하다. 삼성전자가...",
+          "src": "g-enews",
+          "date": "09/18",
+          "url": "https://www.g-enews.com/view.php?ud=2026091807112476432bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260918072211003502bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
-          "desc": "따라 삼성전자는 레지던스 등 주거 공간에 스마트싱스와 연동된 AI 가전 제품 중심의 '맞춤형 AI 홈'을 구축하고, 단지 전체엔 B2B 활용이 가능한 스마트싱스 프로 플랫폼을 도입한다. TV, 에어컨, 냉장고, 세탁기 등...",
-          "src": "ppss",
-          "date": "09/17",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
-          "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
+          "title": "삼성, 33년 다진 최장수 파트너십 등에 업고 서아프리카 정복 나선다",
+          "desc": "삼성전자가 서아프리카 핵심 파트너사인 심스 나이지리아(SIMS Nigeria)와 손잡고 2주간 주요 가전과 모바일... 할인 혜택이 적용되는 품목은 스마트 TV, 에어컨, 냉장고, 세탁기, 주방 가전, 스마트폰이다. 모든 제품이 아닌...",
+          "src": "g-enews",
+          "date": "09/18",
+          "url": "https://www.g-enews.com/view.php?ud=20260917233654774fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091800080004064fda4f5ab7439122247205.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "구글, 싱가포르서 ‘AI 앱 데이’ 개최…“AI 네이티브 앱 풀스택 지원...",
-          "desc": "구글 AI 기술 활용법과 수익 창출 전략을 공유하고, 구글 전문가 및 글로벌 개발자들과 소통하는 기회를... AI 네이티브 앱 시장에서 스타트업들이 경쟁력을 갖기 위한 방안을 제시했다. 그는 “AI 도구 도입으로...",
-          "src": "동아일보",
+          "title": "중앙법률사무교육원, 'AI활용법전문가 1급' 자격증 신설",
+          "desc": "주무부처는 과학기술정보통신부다. AI활용법전문가 1급은 인공지능 기본법에 대한 이해를 바탕으로 AI 윤리... 위한 AI 실무 강의를 도입했다. 수강생 전원에게 법무관리 AI 실무 시스템 무료 특강과 4주 무료 이용권을...",
+          "src": "fntoday",
           "date": "09/18",
-          "url": "https://it.donga.com/109555/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/9/18/67dc75e02fbc45e1-thumbnail-960x540-70.jpg"
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393349",
+          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/2_1315836_1277350_2821_v150.jpg"
         },
         {
-          "title": "\"AI앱, 유저 유치보다 수익화 먼저\"…구글이 짚은 '스타트업 생존법'",
-          "desc": "수익화’를 도입할 경우, 순수 구독 모델 대비 매출 성장률과 리텐션이 38% 향상되며 무료 유저의 추론... 클라우드 및 기초 AI 모델 인프라 측면에서의 기술 지원 방안도 함께 공개됐다. 필 지아 구글클라우드...",
-          "src": "이데일리",
+          "title": "노원비하인드, '교실지능화 ALC'... 에듀테크 페어 장관급 수상 영예",
+          "desc": "페어'에서 AI 활용혁신 부문 최우수상인 정보통신산업진흥원장상을 수상했다고 17일 밝혔다. 국내 에듀테크 생태계의 유망 비즈니스 모델과 첨단 기술을 발굴해 시상하는 이번 무대에서 회사는 독자 개발한 'Active...",
+          "src": "newsworker",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/018/0006371632?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800198.jpg"
+          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=505025",
+          "img": "https://cdn.newsworker.co.kr/news/photo/202609/505025_506491_159.jpg"
         },
         {
-          "title": "\"K-AI 스타트업 창의성 압도적…구글, 글로벌 확장 동행\"[인터뷰]",
-          "desc": "티오 부사장은 “AI 도입으로 창업자들의 생산성이 약 33% 향상되고 주당 9.2시간이 절약되는 등 실질적인 변화가 나타나고 있다”며 “AI 멀티모달 기술이 활성화되면서 유저와의 상호작용 방식이 역동적으로 변하고...",
-          "src": "이데일리",
+          "title": "\"에이전틱 AI, 안심하고 쓸 기술 만든다\"...UNIST, 110억 규모 'AI 스타 펠...",
+          "desc": "이러한 보안·AI 분야의 전문성이 이번 연구의 토대다. 연구팀은 보안 우려로 AI 에이전트 도입이 어려웠던... 핵심 보안 기술을 개발하고, 에이전틱 AI를 안전하게 활용하는 데 기여할 인재를 양성하겠다\"고 말했다.",
+          "src": "AI타임스",
           "date": "09/18",
-          "url": "https://n.news.naver.com/mnews/article/018/0006371631?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800196.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41984",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/41984_63152_952_v150.jpg"
         },
         {
-          "title": "\"후보 발굴 넘어 임상까지\"...제약바이오, AI 적용 속도 낸다",
-          "desc": "병리 기술이 빠르게 도입되는 추세\"라고 말했다. 한편 시장조사업체 글로벌 마켓 인사이트에 따르면 글로벌 AI 기반 신약 개발 시장은 올해 40억 달러(약 5조5000억원)에서 오는 2035년 439억 달러(60조7500억원) 규모로...",
-          "src": "daily",
+          "title": "[인터뷰] 박정숙 서울시여성가족재단 대표이사",
+          "desc": "AI를 활용해 불법촬영물을 탐지하고 영상의 유사도를 분석해 삭제를 지원하는 24시간 대응체계도 강화했다. 기술 도입은 피해자뿐 아니라 지원 인력의 업무환경도 바꾸고 있다. 불법 영상물을 사람이 일일이 확인하는...",
+          "src": "헤럴드경제",
           "date": "09/18",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1407370",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1407370_1587002_3718_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002699168?sid=102",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.7d7cb605de68461ab914acea6348eca8_P1.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[주간 기업동향] 이재용 삼성전자 회장, 日 참의원 대표단과 반도체·AI...",
+          "desc": "삼성전자는 반도체 소재·부품·장비 분야에서 일본 기업들과 협력하고 있으며 이 회장도 일본 최대... 삼성, 협력사 물품대금 조기 지급·온라인 장터 운영 삼성이 추석을 앞두고 협력사의 자금 운용과 내수 경기...",
+          "src": "banronbodo",
+          "date": "09/18",
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33042",
+          "img": "https://cdn.banronbodo.com/news/photo/202609/33042_48739_552.png"
+        },
+        {
+          "title": "[인사이드 스토리]삼성·SK 추격하는 中…'각개전투'로는 버거운 이유",
+          "desc": "화웨이는 자체 투자조직 등을 통해 중국 노광장비·광학부품·고출력 광원 업체에 잇따라 투자하고... 삼성전자와 SK하이닉스 등 개별 기업이 대규모 설비투자와 연구개발은 물론 협력사 생태계 구축까지 상당 부분...",
+          "src": "news",
+          "date": "09/18",
+          "url": "https://n.news.naver.com/mnews/article/648/0000050882?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/09/17/de4644ec31c3ccbc76f7923445929a61.png"
+        },
         {
           "title": "[단독] 엔지니어 도와 장비 보수…삼성 ‘팹 로봇’ 전담팀 꾸렸다",
           "desc": "삼성전자는 이들을 팹 자동화 업무에 다시 모아 지난해 말 태스크포스(TF)를 꾸리고 이번에 정식 조직으로 격상한 것으로 알려졌다. 먼저 개발할 분야는 장비 유지보수로 예상된다. 협력사와 현장 엔지니어가 주로...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/17",
           "url": "https://n.news.naver.com/mnews/article/092/0002437918?sid=105",
           "img": "https://image.zdnet.co.kr/2026/09/17/3479c96f15845cac594c14b7231f766e.jpg"
-        },
-        {
-          "title": "같은 삼성전자 협력사인데…'47% vs -19%' 수익률 갈린 이유는 [대기업 ...",
-          "desc": "70%의 상승률을 기록하며 삼성전자 협력사 전체 섹터 중 가장 뛰어난 성과를 냈다. 반도체 패키징... 소재(-3.59%)·핸드셋 부품(-0.80%)… \"전공정·스마트폰 부진 속 옥석 가리기\" 반도체 소재와 핸드셋 부품 업종은...",
-          "src": "한국경제",
-          "date": "09/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005333443?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/01.45551484.1.jpg"
-        },
-        {
-          "title": "[IT업계 8월 동향] 삼성전자, 차세대 기술혁신 고도화···글로벌 경쟁...",
-          "desc": "삼성전자는 완제품 생산뿐만 아니라 핵심 부품의 생산과 제조 공정 전반의 국내 투입 비중을 확대해 협력사와의 동반성장은 물론 지역 경제 활성화에도 기여한다는 방침이다. 국내 신규 생산라인에서는 연간 10만대...",
-          "src": "wsobi",
-          "date": "09/17",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=318398",
-          "img": "http://www.wsobi.com/news/photo/202609/318398_189604_3125.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성, 인도서 ‘맞춤형 AI 가전’ 선봬",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681466?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/09/17/SSC_20260917230046_O2.jpg"
+      "title": "[기업을 바꾼 선택②] 이재용 4년, 삼성전자 ‘초격차’에서 ‘AI 밸류체...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4231836",
+      "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260917151231627.jpg"
     },
     {
       "title": "[가전 트렌드] 에코백스, 포브스 차이나 '글로벌 가정용 로봇 브랜드 1위...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202609/154604_122032_4934.jpg"
     },
     {
-      "title": "공간·영역 파괴⋯ 삼성·LG, 부산서 ‘AI·고효율’ 에너지 솔루션 격돌",
-      "url": "https://www.viva100.com/article/20260917500811",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/17/.cache/512/20260917500736.jpg?v=20260918062948"
+      "title": "“폭염·요금 폭탄 막는다” 삼성·LG, 신흥국 정조준한 맞춤형 AI 가전...",
+      "url": "https://www.g-enews.com/view.php?ud=2026091807112476432bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260918072211003502bd56fbc3c21121419978.jpg"
     },
     {
-      "title": "삼성전자, 'AI가전 통합 솔루션'으로 필리핀 복합단지 시장 공략…2030년...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=311250",
-      "img": "https://cdn.ppss.kr/news/photo/202609/311250_132672_446.jpg"
+      "title": "삼성, 33년 다진 최장수 파트너십 등에 업고 서아프리카 정복 나선다",
+      "url": "https://www.g-enews.com/view.php?ud=20260917233654774fda4f5ab74_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091800080004064fda4f5ab7439122247205.jpg"
     },
     {
-      "title": "구글, 싱가포르서 ‘AI 앱 데이’ 개최…“AI 네이티브 앱 풀스택 지원...",
-      "url": "https://it.donga.com/109555/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/9/18/67dc75e02fbc45e1-thumbnail-960x540-70.jpg"
+      "title": "중앙법률사무교육원, 'AI활용법전문가 1급' 자격증 신설",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393349",
+      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202609/2_1315836_1277350_2821_v150.jpg"
     },
     {
-      "title": "\"AI앱, 유저 유치보다 수익화 먼저\"…구글이 짚은 '스타트업 생존법'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006371632?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26091800198.jpg"
+      "title": "노원비하인드, '교실지능화 ALC'... 에듀테크 페어 장관급 수상 영예",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=505025",
+      "img": "https://cdn.newsworker.co.kr/news/photo/202609/505025_506491_159.jpg"
     }
   ]
 };
