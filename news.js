@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.19 (토) 02:42",
+  "updatedAt": "2026.09.19 (토) 05:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "DPA 9월 30일 만료…2031년 연장안 의회 심사",
-          "desc": "트럼프 대통령은 6월 2일 행정명령 14409를 통해 연방정부 시스템의 AI 활용과 보안을 강화하도록 했다. 행정명령 14409는 국가안보 시스템의 사이버 방어를 우선하고 AI 기술의 신속한 도입을 추진하도록 했다. 이...",
-          "src": "tokenpost",
+          "title": "\"한국 디지털 경험, 국제규범에 도움\"",
+          "desc": "AI가 계약 체결과 거래 과정에 직접 관여하고 디지털 자산과 전자문서 활용이 확대되면서, 실물 거래를... -AI를 중재 절차에 도입하기 위한 가이드라인이 있나 \"당장 구속력 있는 규제를 도입할 생각은 없다. AI 기술이...",
+          "src": "lawtimes",
           "date": "09/19",
-          "url": "https://www.tokenpost.kr/news/ai/410501",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/nmgz1eem50.jpg"
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226582",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226582_128934_87.jpg"
         },
         {
-          "title": "패스 트레이싱과 DLSS 4.5로 돌아온 '컨트롤 레조넌트'",
-          "desc": "엔비디아의 DLSS부터 레이 트레이싱 그리고 패스 트레이싱까지 최신 그래픽 기술을 빠르게 도입해... 하지만 이를 경험하기 위해 요구되는 성능과 DLSS에 대한 높은 의존도까지 생각하면 최신 기술을 활용한...",
-          "src": "kbench",
+          "title": "[AI와 사는 법] 개인정보 보호, 데이터에서 AI로",
+          "desc": "이를 위해 추출·추론 공격 시험을 도입하고, AI 추가 학습 이후에도 위험 수준을 주기적으로 점검하는 체계를 갖춰야 한다. 이제는 개인정보를 안전하게 처리하는 기술을 넘어, 이를 기억하고 있는 AI 자체를 어떻게...",
+          "src": "lawtimes",
           "date": "09/19",
-          "url": "https://kbench.com/?q=node/282032",
-          "img": ""
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226531",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226531_128937_2049.jpg"
         },
         {
-          "title": "“지금 듣는 그 곡, 진짜 사람이 불렀을까?”…음원 차트에 숨어든 AI [...",
-          "desc": "모여 AI 표시 제도나 관련 가이드라인 도입에 대한 본격적인 논의를 시작할 필요가 있다”고 말했다.... AI 활용 실태를 진단하고, 인간의 창작적 기여를 입증할 수 있는 등록 방식과 AI 탐지 기술의 정확도 등을 집중적으로...",
-          "src": "데일리안",
+          "title": "\"우주굴기 마지막 퍼즐 완성한 中…美 패권 위협\" 싱크탱크 경고 '왜'",
+          "desc": "랜드스페이스 측은 착륙용 점화 엔진 숫자를 줄여 시스템을 단순화하고 예상 낙하지점을 활용한 자율... 로봇·하드웨어 기술을 AI 도입이 더딘 주택 건설 분야에 접목하면 승산이 있다고 판단했다\"고 말했다. 공간이...",
+          "src": "머니투데이",
           "date": "09/19",
-          "url": "https://m.entertain.naver.com/article/119/0003134494",
-          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1789714362939_1692274_m_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005416023?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091817294887563_1.jpg"
         },
         {
-          "title": "200만달러 AI 슈퍼 PAC, 라운즈 선거 지원",
-          "desc": "라운즈 의원실은 2024년 8월 27일 AI 활용 확대와 규제 체계 마련을 목표로 한 초당적 법안 패키지를 발표했다.\\n\\n법안 패키지에는 △금융서비스 규제 샌드박스 도입 △소비자 AI 리터러시 강화 △금융 분야 AI...",
-          "src": "tokenpost",
+          "title": "‘한-중앙아시아 정상회의’에 숨겨진 계산 : 미중러가 이번 회담을 경...",
+          "desc": "배럴 도입에 대한 후속 조치로 원유 협력 기본 약정을 체결했고, 희소금속 기술협력센터를 통해 현지 핵심... AI·과학기술과 기후·에너지 분야도 별도의 이니셔티브로 묶었다. 한국이 중앙아시아 5개국을 각각 상대하는...",
+          "src": "ddanzi",
           "date": "09/19",
-          "url": "https://www.tokenpost.kr/news/policy/410464",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/83vou54ske.jpg"
+          "url": "http://www.ddanzi.com/894877670",
+          "img": "https://www.ddanzi.com/./files/attach/images/977701/670/877/894//04e0f0394da3226dc618bdc90ff1410b.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
     },
     {
-      "title": "DPA 9월 30일 만료…2031년 연장안 의회 심사",
-      "url": "https://www.tokenpost.kr/news/ai/410501",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/nmgz1eem50.jpg"
+      "title": "\"한국 디지털 경험, 국제규범에 도움\"",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226582",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226582_128934_87.jpg"
     },
     {
-      "title": "“지금 듣는 그 곡, 진짜 사람이 불렀을까?”…음원 차트에 숨어든 AI [...",
-      "url": "https://m.entertain.naver.com/article/119/0003134494",
-      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1789714362939_1692274_m_1.jpg"
+      "title": "[AI와 사는 법] 개인정보 보호, 데이터에서 AI로",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226531",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226531_128937_2049.jpg"
     }
   ]
 };
