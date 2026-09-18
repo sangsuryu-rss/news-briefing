@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.18 (금) 21:59",
+  "updatedAt": "2026.09.19 (토) 02:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
-          "desc": "반도체 부문과의 극심한 성과급 격차에 반발한 삼성전자 가전·모바일(DX) 부문 노동조합이 이재용 회장 자택 앞으로 향했다. 삼성전자 비반도체 부문 직원들로 구성된 동행노조 조합원 50여 명은 오늘(18일) 오후 5시 서울...",
-          "src": "insight",
+          "title": "이재용 자택 3m 앞서 터진 외침…“이건희의 약속 어디 갔나”",
+          "desc": "그 약속은 지금 어디 있습니까.\" 서민성 삼성전자노동조합 동행(동행노조) 사무국장 후보가 18일 오후 5시... 행렬 앞에는 세탁기·로봇청소기 등 가전제품에 검은 띠를 두른 영정사진 형태의 피켓이 늘어섰고, '고(故) DX...",
+          "src": "ekn",
           "date": "09/18",
-          "url": "https://www.insight.co.kr/news/574265",
-          "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
-        },
-        {
-          "title": "삼성전자 DX 노조, 이재용 회장 자택 앞 집회 \"대화하자\"",
-          "desc": "발대식에 참여한 동행 노조원 40여 명은 이용훈 국장을 선두로, 삼성전자 로봇청소기와 갤럭시 탭이 찍힌 사진과 故 삼성전자 DX 부문의 명복을 빕니다\"라는 문구를 넣은 영정사진을 들고 걸었다. \"동행\"이라는 글자가...",
-          "src": "news",
-          "date": "09/18",
-          "url": "https://news.mtn.co.kr/news-detail/2026091818074935529",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/09/18/2026091818074935529_00_543.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260918027266821",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260918.09d404bf14d942fcbdf8b62fa456e933_R.jpg"
         },
         {
           "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
         },
         {
-          "title": "재고 최저·비용 최고… MLCC, 전자제품 '2차 원가 쇼크' 불러오나",
-          "desc": "최근에는 에어컨과 세탁기, 식기세척기, 로봇청소기에서도 인버터와 센서·통신 기능이 늘며 보드 수와 MLCC 탑재량이 함께 증가해 노출도가 커졌다. 삼성전자는 삼성전기를 그룹사로 두고 있지만 LG전자와 GE 등 다른...",
-          "src": "econovill",
+          "title": "커지는 '글로벌 사우스' AI홈 시장…삼성·LG, 현지 맞춤 선점 나서",
+          "desc": "떠오르면서 삼성전자와 LG전자가 현지 맞춤형 인공지능(AI) 전략을 강화하는 모습이다. LG전자가... 주방가전 존에서는 '비스포크 AI 패밀리허브' 냉장고를 활용한 개인화 서비스를 소개했다. 사용자 맞춤형 정보를...",
+          "src": "아시아타임즈",
           "date": "09/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=751291",
-          "img": "https://cdn.econovill.com/news/thumbnail/202609/751291_727132_3739_v150.jpg"
+          "url": "https://www.asiatime.co.kr/article/20260918500362",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/18/.cache/512/20260918500359.jpg"
+        },
+        {
+          "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
+          "desc": "반도체 부문과의 극심한 성과급 격차에 반발한 삼성전자 가전·모바일(DX) 부문 노동조합이 이재용 회장 자택 앞으로 향했다. 삼성전자 비반도체 부문 직원들로 구성된 동행노조 조합원 50여 명은 오늘(18일) 오후 5시 서울...",
+          "src": "insight",
+          "date": "09/18",
+          "url": "https://www.insight.co.kr/news/574265",
+          "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인튜브, ‘2026 에듀테크 코리아 페어’서 AI 교육데이터 플랫폼 공개",
-          "desc": "교육에 활용하는 전 과정을 제공해 교육기관의 실질적인 AI 전환을 돕겠다”고 말했다.인튜브는 박람회 기간 코엑스 A홀 B10 부스에서 신규 서비스 시연과 도입 상담을 진행한다.인튜브는 빅데이터 수집·분석, AI...",
-          "src": "wemakenews",
-          "date": "09/18",
-          "url": "https://wemakenews.co.kr/news/view.php?no=26342",
+          "title": "DPA 9월 30일 만료…2031년 연장안 의회 심사",
+          "desc": "트럼프 대통령은 6월 2일 행정명령 14409를 통해 연방정부 시스템의 AI 활용과 보안을 강화하도록 했다. 행정명령 14409는 국가안보 시스템의 사이버 방어를 우선하고 AI 기술의 신속한 도입을 추진하도록 했다. 이...",
+          "src": "tokenpost",
+          "date": "09/19",
+          "url": "https://www.tokenpost.kr/news/ai/410501",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/nmgz1eem50.jpg"
+        },
+        {
+          "title": "패스 트레이싱과 DLSS 4.5로 돌아온 '컨트롤 레조넌트'",
+          "desc": "엔비디아의 DLSS부터 레이 트레이싱 그리고 패스 트레이싱까지 최신 그래픽 기술을 빠르게 도입해... 하지만 이를 경험하기 위해 요구되는 성능과 DLSS에 대한 높은 의존도까지 생각하면 최신 기술을 활용한...",
+          "src": "kbench",
+          "date": "09/19",
+          "url": "https://kbench.com/?q=node/282032",
           "img": ""
         },
         {
-          "title": "한국지역난방공사, AX위원회 출범…AI 기반 안전관리·에너지 절감 추진",
-          "desc": "‘AX 대국민 안전·서비스 분과’는 AI를 활용한 안전관리 혁신과 에너지 절감 플랫폼 구축 등을 담당하고, ‘AX 중장기 프로젝트 분과’는 열병합발전과 지역난방설비 자율운전 등 업무 공정별 AI 기술 도입을 추진한다....",
-          "src": "globalepic",
-          "date": "09/18",
-          "url": "http://www.globalepic.co.kr/view.php?ud=2026091813583785405f69d33b22_29",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609181402570202905f69d33b226179195160.jpg&nmt=29"
+          "title": "“지금 듣는 그 곡, 진짜 사람이 불렀을까?”…음원 차트에 숨어든 AI [...",
+          "desc": "모여 AI 표시 제도나 관련 가이드라인 도입에 대한 본격적인 논의를 시작할 필요가 있다”고 말했다.... AI 활용 실태를 진단하고, 인간의 창작적 기여를 입증할 수 있는 등록 방식과 AI 탐지 기술의 정확도 등을 집중적으로...",
+          "src": "데일리안",
+          "date": "09/19",
+          "url": "https://m.entertain.naver.com/article/119/0003134494",
+          "img": "https://cdnimage.dailian.co.kr/news/202609/news_1789714362939_1692274_m_1.jpg"
         },
         {
-          "title": "더존비즈온, 'CAIO Summit 2026'....AI-Native Enterprise 전략 제시",
-          "desc": "산업계 AI 리더들과 기업의 AI 전략과 실행 방향에 대해 의견을 나눴다. 특히 기업의 AI 활용 관심이... 이에 따라 기업 역시 개별 AI 기술을 도입하는 데 그치지 않고 조직과 업무 프로세스 전반을 AI 중심으로...",
-          "src": "intn",
-          "date": "09/18",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053503",
-          "img": "http://www.intn.co.kr/news/thumbnail/202609/2053503_739127_4813_v150.jpg"
-        },
-        {
-          "title": "2500만달러 유치한 맨틱, 예측대회 인간 4위",
-          "desc": "도입 사례는 공개하지 않았다. 예측 시스템은 과거 데이터만 분석하는 방식과 달리 공개 자료 조사, 사건의 맥락 해석, 전문가 판단을 함께 활용할 수 있다. 이런 방식은 정량 데이터가 부족한 지정학·정책·기술...",
+          "title": "200만달러 AI 슈퍼 PAC, 라운즈 선거 지원",
+          "desc": "라운즈 의원실은 2024년 8월 27일 AI 활용 확대와 규제 체계 마련을 목표로 한 초당적 법안 패키지를 발표했다.\\n\\n법안 패키지에는 △금융서비스 규제 샌드박스 도입 △소비자 AI 리터러시 강화 △금융 분야 AI...",
           "src": "tokenpost",
-          "date": "09/18",
-          "url": "https://www.tokenpost.kr/news/ai/410364",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/3mi8rbbmhf.jpg"
+          "date": "09/19",
+          "url": "https://www.tokenpost.kr/news/policy/410464",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/83vou54ske.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[김승원 칼럼] 추석 앞당긴 9.6조…상생에는 빠른 입금이 더 힘이 세다",
+          "desc": "1차 협력사에는 2·3차 협력사의 대금도 앞당겨 달라고 권고했다. 삼성은 삼성전자·삼성물산... 1차 협력사 통장에서 돈이 멈춘다면 상생은 절반이다. 마지막 부품업체까지 현금이 내려가야 공급망 전체가...",
+          "src": "sateconomy",
+          "date": "09/18",
+          "url": "http://sateconomy.co.kr/news/view/1065622014532518",
+          "img": "http://sateconomy.co.kr/news/data/20260918/p1065622014532518_867_thum.jpg"
+        },
         {
           "title": "철강·조선 ‘시간차 셧다운’… 제조업 공급망, 전방위 경고등",
           "desc": "지난 10일에는 서울 삼성전자 서초사옥에서 상경투쟁을 진행하기도 했다. ◆ 파업 장기화 때는 자동차·건설... 또 완성차를 넘어 부품 협력사까지도 연쇄 조업 중단 위기에 몰리게 된다. 건설업계 역시 영향을 받을 수 있다....",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/18",
           "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=614081",
           "img": "https://cdn.mdtoday.co.kr/news/photo/202609/614081_318089_380.jpg"
-        },
-        {
-          "title": "삼성전자 16일 HBM 다이 TSMC에 개방",
-          "desc": "업계 관계자들은 이번 사안이 국내 반도체 부품·소재·장비 협력사들에도 영향을 줄 수 있다고 본다. 삼성전자 파운드리 라인을 기반으로 사업을 해온 일부 협력사들은 물량 변화에 촉각을 곤두세우고 있는 것으로...",
-          "src": "고코리아",
-          "date": "09/18",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=879005",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202609/879005_156241_5618_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
-      "url": "https://www.insight.co.kr/news/574265",
-      "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
-    },
-    {
-      "title": "삼성전자 DX 노조, 이재용 회장 자택 앞 집회 \"대화하자\"",
-      "url": "https://news.mtn.co.kr/news-detail/2026091818074935529",
-      "img": "https://menu.mtn.co.kr/upload/article/2026/09/18/2026091818074935529_00_543.jpg"
+      "title": "이재용 자택 3m 앞서 터진 외침…“이건희의 약속 어디 갔나”",
+      "url": "https://www.ekn.kr/web/view.php?key=20260918027266821",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260918.09d404bf14d942fcbdf8b62fa456e933_R.jpg"
     },
     {
       "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
     },
     {
-      "title": "재고 최저·비용 최고… MLCC, 전자제품 '2차 원가 쇼크' 불러오나",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=751291",
-      "img": "https://cdn.econovill.com/news/thumbnail/202609/751291_727132_3739_v150.jpg"
+      "title": "커지는 '글로벌 사우스' AI홈 시장…삼성·LG, 현지 맞춤 선점 나서",
+      "url": "https://www.asiatime.co.kr/article/20260918500362",
+      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/18/.cache/512/20260918500359.jpg"
     },
     {
-      "title": "한국지역난방공사, AX위원회 출범…AI 기반 안전관리·에너지 절감 추진",
-      "url": "http://www.globalepic.co.kr/view.php?ud=2026091813583785405f69d33b22_29",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609181402570202905f69d33b226179195160.jpg&nmt=29"
+      "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
+      "url": "https://www.insight.co.kr/news/574265",
+      "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
     },
     {
-      "title": "더존비즈온, 'CAIO Summit 2026'....AI-Native Enterprise 전략 제시",
-      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053503",
-      "img": "http://www.intn.co.kr/news/thumbnail/202609/2053503_739127_4813_v150.jpg"
+      "title": "DPA 9월 30일 만료…2031년 연장안 의회 심사",
+      "url": "https://www.tokenpost.kr/news/ai/410501",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/nmgz1eem50.jpg"
+    },
+    {
+      "title": "“지금 듣는 그 곡, 진짜 사람이 불렀을까?”…음원 차트에 숨어든 AI [...",
+      "url": "https://m.entertain.naver.com/article/119/0003134494",
+      "img": "https://cdnimage.dailian.co.kr/news/202609/news_1789714362939_1692274_m_1.jpg"
     }
   ]
 };
