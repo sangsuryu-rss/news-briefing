@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.19 (토) 21:31",
+  "updatedAt": "2026.09.20 (일) 02:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[종합] 성과급 갈등→불신임→조직 분리…삼성전자 노노갈등에 초기업...",
-          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성전자지부(이하... 하지만 반도체를 담당하는 DS와 스마트폰·TV·가전 등을 담당하는 DX의 실적 및 보상 수준에 차이가 발생하면서...",
-          "src": "joongangenews",
+          "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
+          "desc": "삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성전자지부(초기업노조)가 반도체 사업을 담당하는 디바이스솔루션(DS) 부문만의 노조로 재편된다. 가전·스마트폰 등을 담당하는 디바이스경험(DX) 부문까지...",
+          "src": "조선일보",
           "date": "09/19",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=549397",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/549397_356006_1711.png"
+          "url": "https://n.news.naver.com/mnews/article/053/0000061618?sid=101",
+          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55446_85667_40_v150.jpg"
         },
         {
           "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "유동준 인하대병원 교수 “정확한 AI”는 많지만 환자를 살린 AI는 드물...",
-          "desc": "메드텍 인사이트 2026 - 의료AI 세션 의료 인공지능(AI)이 진료 현장에 안착하고 지속 가능한 사업으로 성장하려면 기술 성능을 넘어 병원의 도입 기준, 의료진의 활용 경험, 환자 안전, 사업화 전략을 함께...",
-          "src": "medigatenews",
-          "date": "09/19",
-          "url": "https://www.medigatenews.com/news/2157654940",
-          "img": "https://medigatenews.com/file/news/524331"
+          "title": "AI 시대 다음 수혜주는 어디?…AI ETF, 메모리·소부장으로 확장 중",
+          "desc": "함께 상장한 'PLUS AI반도체소부장액티브'는 반도체 소부장 기업에 보다 집중적으로 투자한다. 지수를 그대로 추종하는 대신 운용역이 고객사의 설비투자와 장비 발주, 양산 일정, 신기술 도입 등을 분석해 종목과...",
+          "src": "더구루",
+          "date": "09/20",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107175",
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_1789540129688_3d15b9.jpg"
         },
         {
-          "title": "중국, 집적회로 배치설계 보호 조례 25년 만에 개정",
-          "desc": "새로운 기술을 활용한 집적회로까지 보호 대상 확대. 광자칩·양자칩 등도 독창성 등 요건 충족 시 보호... 손해배상 도입*. 권리 보호를 위해 지출한 합리적인 비용도 배상 대상에 포함 등록·심사 허위 신청이나 제3자의...",
-          "src": "dream",
+          "title": "유럽 AI 도입, 5년간 생산성 누적 1% 증가 가능성…전력망 부담 변수",
+          "desc": "고소득 국가는 AI 활용에 필요한 기반과 전문 인력을 상대적으로 많이 갖춘 반면, 다른 국가는 기술 도입과 인력 재배치에서 뒤처질 수 있다는 분석이다. 국가별 산업 구조와 AI 노출 직종 비중도 생산성 효과의 차이를...",
+          "src": "tokenpost",
           "date": "09/19",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243968",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "url": "https://www.tokenpost.kr/news/ai/410826",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/tzjy3us1mc.jpg"
         },
         {
-          "title": "'AI 자폭드론' 쏟아내는 북한, '실전 빅데이터' 무장한 유럽…우리 드론...",
-          "desc": "기체)로 활용됩니다. 또 다른 모델인 '파름(PARM)'은 단 1명의 조종사가 최대 10대의 드론을 동시 통제하는... 조종 인력 부족을 AI 기술로 극복하되, 민간 항공기 오폭 방지 및 법적 책임을 고려해 최종 발사 승인은 사람이...",
-          "src": "매일경제",
+          "title": "[데일리시큐 웨비나] \"EDR이 놓친 브라우저가 새로운 공격 표면\"…아카...",
+          "desc": "대응 기술에 대한 현장의 관심을 확인할 수 있었다. 신 상무는 \"과거에는 네트워크에 보안 경계를 만들고... 인증, AI 활용이 집중되는 업무 플랫폼으로 변하고 있다는 설명이다. 신 상무는 이를 두고 \"브라우저가...",
+          "src": "dailysecu",
           "date": "09/19",
-          "url": "https://n.news.naver.com/mnews/article/057/0001969858?sid=100",
-          "img": "http://img.mbn.co.kr/filewww/news/2026/09/19/17898084626aae4f4e5aa2b.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208554",
+          "img": "https://cdn.dailysecu.com/news/photo/202609/208554_209556_235.jpg"
         },
         {
-          "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자",
-          "desc": "각 사 로고 이미지 앤트로픽(Anthropic)이 글로벌 컨설팅·기술 서비스 기업 액센추어(Accenture)와 협력해... AI 도입을 지원해 온 경험을 바탕으로, 실제 기업 환경에서 AI가 활용되는 방식과 위험 요소를 평가에 반영할...",
-          "src": "AI타임스",
+          "title": "항암 강자 로슈, 美 보스턴서 '비만 전쟁' 연구진 모은다",
+          "desc": "특히 제넨텍이 최근 한미약품으로부터 비인크레틴 계열 비만신약 후보물질 'HM17321'을 도입한 만큼... 로슈는 보스턴을 세계적인 생명과학 중심지로 평가하고 현지 인력과 연구 기반을 신약개발에 활용한다는 계획이다....",
+          "src": "medipana",
           "date": "09/19",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42007_63186_4244_v150.jpg"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417950",
+          "img": "https://cdn.medipana.com/news/photo/202609/417950_324983_3037.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[종합] 성과급 갈등→불신임→조직 분리…삼성전자 노노갈등에 초기업...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=549397",
-      "img": "https://cdn.joongangenews.com/news/photo/202609/549397_356006_1711.png"
+      "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061618?sid=101",
+      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55446_85667_40_v150.jpg"
     },
     {
       "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
     },
     {
-      "title": "유동준 인하대병원 교수 “정확한 AI”는 많지만 환자를 살린 AI는 드물...",
-      "url": "https://www.medigatenews.com/news/2157654940",
-      "img": "https://medigatenews.com/file/news/524331"
+      "title": "AI 시대 다음 수혜주는 어디?…AI ETF, 메모리·소부장으로 확장 중",
+      "url": "https://www.theguru.co.kr/news/article.html?no=107175",
+      "img": "https://www.theguru.co.kr/data/photos/20260938/art_1789540129688_3d15b9.jpg"
     },
     {
-      "title": "중국, 집적회로 배치설계 보호 조례 25년 만에 개정",
-      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243968",
-      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+      "title": "유럽 AI 도입, 5년간 생산성 누적 1% 증가 가능성…전력망 부담 변수",
+      "url": "https://www.tokenpost.kr/news/ai/410826",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/tzjy3us1mc.jpg"
     }
   ]
 };
