@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.19 (토) 16:21",
+  "updatedAt": "2026.09.19 (토) 21:31",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 초기업노조, '반도체 노조'로 전환…DX 조합원 제외",
-          "desc": "삼성그룹 초기업노동조합 삼성전자지부(이하 초기업노조)가 반도체 사업을 담당하는 DS(디바이스솔루션)... 규약 개정에 따라 그동안 DS부문과 가전·스마트폰 사업을 담당하는 DX(디바이스경험)부문을 아우르던...",
-          "src": "머니투데이",
+          "title": "[종합] 성과급 갈등→불신임→조직 분리…삼성전자 노노갈등에 초기업...",
+          "desc": "|중앙이코노미뉴스 윤남웅 기자|삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성전자지부(이하... 하지만 반도체를 담당하는 DS와 스마트폰·TV·가전 등을 담당하는 DX의 실적 및 보상 수준에 차이가 발생하면서...",
+          "src": "joongangenews",
           "date": "09/19",
-          "url": "https://n.news.naver.com/mnews/article/008/0005416130?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091915554083228_1.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=549397",
+          "img": "https://cdn.joongangenews.com/news/photo/202609/549397_356006_1711.png"
         },
         {
           "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[마이스를 만나다] 2026 THE NEXT AI – 피지컬AI & 스마트팩토리 산업전",
-          "desc": "세미나AI 지식 워크플로우 세미나AI 기반 개인 지식관리 및 에이전틱 AI 활용 세미나대중소 상생형 AI트랙... 됐다”며 “기술을 공급하는 AI 기업과 이를 도입하려는 제조기업이 한자리에서 만나 실질적인 협력...",
-          "src": "weeklytrade",
+          "title": "유동준 인하대병원 교수 “정확한 AI”는 많지만 환자를 살린 AI는 드물...",
+          "desc": "메드텍 인사이트 2026 - 의료AI 세션 의료 인공지능(AI)이 진료 현장에 안착하고 지속 가능한 사업으로 성장하려면 기술 성능을 넘어 병원의 도입 기준, 의료진의 활용 경험, 환자 안전, 사업화 전략을 함께...",
+          "src": "medigatenews",
           "date": "09/19",
-          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101478",
-          "img": "https://weeklytrade.co.kr/PEG/17898018598763.jpg"
+          "url": "https://www.medigatenews.com/news/2157654940",
+          "img": "https://medigatenews.com/file/news/524331"
         },
         {
-          "title": "전주형 영화·영상 인재 키운다",
-          "desc": "현장에서 활용 가능한 기술 습득에 초점을 맞춘 것이 특징이다. 교육 후반부에는 생성형 인공지능(AI)과... 나아가 관련 기업 및 기관과 연계한 인턴십 프로그램 도입도 검토하며 교육생들의 산업현장 진출을 적극 지원할...",
-          "src": "thepowernews",
+          "title": "중국, 집적회로 배치설계 보호 조례 25년 만에 개정",
+          "desc": "새로운 기술을 활용한 집적회로까지 보호 대상 확대. 광자칩·양자칩 등도 독창성 등 요건 충족 시 보호... 손해배상 도입*. 권리 보호를 위해 지출한 합리적인 비용도 배상 대상에 포함 등록·심사 허위 신청이나 제3자의...",
+          "src": "dream",
           "date": "09/19",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=2026091916031086673dfcd109a8_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609191604470609803dfcd109a811513921884.jpg&nmt=7"
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243968",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
-          "title": "\"자율제조 패권 가를 승부처, 'K-피지컬 AI 폼팩터' 독자 개발에 달렸다...",
-          "desc": "기술 성숙도에 따른 3단계 현장 도입 로드맵을 제언했다. 전자·반도체·소비재 제조업은 경량 작업용 AI... 완성차 및 일반 기계 제조업은 범용 작업용 AI 로봇을 활용해 도구를 사용하는 조립 공정의 AI 전환을 도모하고...",
-          "src": "mtnews",
+          "title": "'AI 자폭드론' 쏟아내는 북한, '실전 빅데이터' 무장한 유럽…우리 드론...",
+          "desc": "기체)로 활용됩니다. 또 다른 모델인 '파름(PARM)'은 단 1명의 조종사가 최대 10대의 드론을 동시 통제하는... 조종 인력 부족을 AI 기술로 극복하되, 민간 항공기 오폭 방지 및 법적 책임을 고려해 최종 발사 승인은 사람이...",
+          "src": "매일경제",
           "date": "09/19",
-          "url": "https://www.mtnews.net/news/articleView.html?idxno=26015",
-          "img": "https://cdn.mtnews.net/news/photo/202609/26015_53504_5914.jpg"
+          "url": "https://n.news.naver.com/mnews/article/057/0001969858?sid=100",
+          "img": "http://img.mbn.co.kr/filewww/news/2026/09/19/17898084626aae4f4e5aa2b.jpg"
         },
         {
-          "title": "지난해 고속도로 미납 통행료 1천억원 육박…상습 체납 엄정 대응",
-          "desc": "특히 AI 기술을 활용해 체납 차량의 이동 경로를 예측하고 단속하는 등 단속 효율을 높일 계획이다. 경찰청과 지방자치단체와의 합동 단속도 확대한다. 아울러 상습 체납 차량에 대한 번호판 영치제도 도입도...",
-          "src": "idaegu",
+          "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자",
+          "desc": "각 사 로고 이미지 앤트로픽(Anthropic)이 글로벌 컨설팅·기술 서비스 기업 액센추어(Accenture)와 협력해... AI 도입을 지원해 온 경험을 바탕으로, 실제 기업 환경에서 AI가 활용되는 방식과 위험 요소를 평가에 반영할...",
+          "src": "AI타임스",
           "date": "09/19",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=560115",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42007_63186_4244_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 초기업노조, '반도체 노조'로 전환…DX 조합원 제외",
-      "url": "https://n.news.naver.com/mnews/article/008/0005416130?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091915554083228_1.jpg"
+      "title": "[종합] 성과급 갈등→불신임→조직 분리…삼성전자 노노갈등에 초기업...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=549397",
+      "img": "https://cdn.joongangenews.com/news/photo/202609/549397_356006_1711.png"
     },
     {
       "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
     },
     {
-      "title": "[마이스를 만나다] 2026 THE NEXT AI – 피지컬AI & 스마트팩토리 산업전",
-      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=101478",
-      "img": "https://weeklytrade.co.kr/PEG/17898018598763.jpg"
+      "title": "유동준 인하대병원 교수 “정확한 AI”는 많지만 환자를 살린 AI는 드물...",
+      "url": "https://www.medigatenews.com/news/2157654940",
+      "img": "https://medigatenews.com/file/news/524331"
     },
     {
-      "title": "전주형 영화·영상 인재 키운다",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=2026091916031086673dfcd109a8_7",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609191604470609803dfcd109a811513921884.jpg&nmt=7"
+      "title": "중국, 집적회로 배치설계 보호 조례 25년 만에 개정",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243968",
+      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     }
   ]
 };
