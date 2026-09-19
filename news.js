@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.20 (일) 02:18",
+  "updatedAt": "2026.09.20 (일) 05:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
-          "desc": "삼성전자 최대 노동조합인 삼성그룹 초기업노동조합 삼성전자지부(초기업노조)가 반도체 사업을 담당하는 디바이스솔루션(DS) 부문만의 노조로 재편된다. 가전·스마트폰 등을 담당하는 디바이스경험(DX) 부문까지...",
-          "src": "조선일보",
-          "date": "09/19",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061618?sid=101",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55446_85667_40_v150.jpg"
+          "title": "AI 우려에 흔들린 반도체…삼전·SK하닉, 추석 앞 반등 시험대[증시전망...",
+          "desc": "대신증권은 반도체를 IT하드웨어, IT가전, 보험, 조선 등과 함께 실적 대비 저평가 업종으로 제시했다. 미... 다음 주 관심 업종으로도 삼성전자를 포함한 반도체를 제시했다. 그는 9월 FOMC의 금리 인상이 물가 압력이...",
+          "src": "디지털타임스",
+          "date": "09/20",
+          "url": "https://n.news.naver.com/mnews/article/029/0003048894?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/20/news-p.v1.20260914.07c8c6f6d63249bf8bb68da4e555a6ea_R.png"
         },
         {
           "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "[크립토리뷰] 해시드, 아부다비 투자진흥청과 MOU 체결…한국-아부다비...",
+          "desc": "해시드는 포럼에 앞서 금융, 기술, 게임, 엔터테인먼트, 제조 등 다양한 분야의 한국 주요 기업들을... GDN은 미국 달러 기반 스테이블코인 '글로벌 달러(USDG)'의 활용과 스테이블코인 도입을 확대하기 위한 글로벌...",
+          "src": "더구루",
+          "date": "09/20",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107315",
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17898204398156_f04c96.jpg"
+        },
+        {
+          "title": "[美·中 정상회담] 中, 美의 'AI 개발 속도 조절' 요구 일축하며 격돌 예...",
+          "desc": "미·중 AI 현주소: 성능은 美 우위, '실생활 도입'은 中이 압도 현재 글로벌 AI 판도는 미국의 폐쇄형(Closed-weight) 프론티어 모델과 중국의 개방형(Open-weight) 모델 간의 격차가 빠르게 좁혀지는 형국이다. 기술적 연산...",
+          "src": "g-enews",
+          "date": "09/20",
+          "url": "https://www.g-enews.com/view.php?ud=2026091916434714840c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260919164440078450c8c1c064d22114611240.jpg"
+        },
+        {
           "title": "AI 시대 다음 수혜주는 어디?…AI ETF, 메모리·소부장으로 확장 중",
           "desc": "함께 상장한 'PLUS AI반도체소부장액티브'는 반도체 소부장 기업에 보다 집중적으로 투자한다. 지수를 그대로 추종하는 대신 운용역이 고객사의 설비투자와 장비 발주, 양산 일정, 신기술 도입 등을 분석해 종목과...",
           "src": "더구루",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "09/19",
           "url": "https://www.tokenpost.kr/news/ai/410826",
           "img": "https://www.tokenpost.kr/uploads/2026/09/tzjy3us1mc.jpg"
-        },
-        {
-          "title": "[데일리시큐 웨비나] \"EDR이 놓친 브라우저가 새로운 공격 표면\"…아카...",
-          "desc": "대응 기술에 대한 현장의 관심을 확인할 수 있었다. 신 상무는 \"과거에는 네트워크에 보안 경계를 만들고... 인증, AI 활용이 집중되는 업무 플랫폼으로 변하고 있다는 설명이다. 신 상무는 이를 두고 \"브라우저가...",
-          "src": "dailysecu",
-          "date": "09/19",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208554",
-          "img": "https://cdn.dailysecu.com/news/photo/202609/208554_209556_235.jpg"
-        },
-        {
-          "title": "항암 강자 로슈, 美 보스턴서 '비만 전쟁' 연구진 모은다",
-          "desc": "특히 제넨텍이 최근 한미약품으로부터 비인크레틴 계열 비만신약 후보물질 'HM17321'을 도입한 만큼... 로슈는 보스턴을 세계적인 생명과학 중심지로 평가하고 현지 인력과 연구 기반을 신약개발에 활용한다는 계획이다....",
-          "src": "medipana",
-          "date": "09/19",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=417950",
-          "img": "https://cdn.medipana.com/news/photo/202609/417950_324983_3037.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
-      "url": "https://n.news.naver.com/mnews/article/053/0000061618?sid=101",
-      "img": "https://cdn.weekly.chosun.com/news/thumbnail/202609/55446_85667_40_v150.jpg"
+      "title": "AI 우려에 흔들린 반도체…삼전·SK하닉, 추석 앞 반등 시험대[증시전망...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048894?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/20/news-p.v1.20260914.07c8c6f6d63249bf8bb68da4e555a6ea_R.png"
     },
     {
       "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
     },
     {
-      "title": "AI 시대 다음 수혜주는 어디?…AI ETF, 메모리·소부장으로 확장 중",
-      "url": "https://www.theguru.co.kr/news/article.html?no=107175",
-      "img": "https://www.theguru.co.kr/data/photos/20260938/art_1789540129688_3d15b9.jpg"
+      "title": "[크립토리뷰] 해시드, 아부다비 투자진흥청과 MOU 체결…한국-아부다비...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=107315",
+      "img": "https://www.theguru.co.kr/data/photos/20260938/art_17898204398156_f04c96.jpg"
     },
     {
-      "title": "유럽 AI 도입, 5년간 생산성 누적 1% 증가 가능성…전력망 부담 변수",
-      "url": "https://www.tokenpost.kr/news/ai/410826",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/tzjy3us1mc.jpg"
+      "title": "[美·中 정상회담] 中, 美의 'AI 개발 속도 조절' 요구 일축하며 격돌 예...",
+      "url": "https://www.g-enews.com/view.php?ud=2026091916434714840c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260919164440078450c8c1c064d22114611240.jpg"
     }
   ]
 };
