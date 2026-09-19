@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.19 (토) 05:55",
+  "updatedAt": "2026.09.19 (토) 09:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "같은 회사인데 임금협상은 따로?···삼성전자 DS·DX '분리교섭' 가능...",
+          "desc": "DS는 메모리·시스템LSI·파운드리 등 반도체 사업을, DX는 스마트폰·TV·생활가전 등 완제품 사업을 담당한다. 올해 들어 두 부문의 실적과 보상 격차도 확대됐다. 삼성전자의 올해 2분기 DS부문은 89조2000억원의...",
+          "src": "sisajournal-e",
+          "date": "09/19",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423790",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423790_239889_3849_v150.jpg"
+        },
+        {
           "title": "이재용 자택 3m 앞서 터진 외침…“이건희의 약속 어디 갔나”",
-          "desc": "그 약속은 지금 어디 있습니까.\" 서민성 삼성전자노동조합 동행(동행노조) 사무국장 후보가 18일 오후 5시... 행렬 앞에는 세탁기·로봇청소기 등 가전제품에 검은 띠를 두른 영정사진 형태의 피켓이 늘어섰고, '고(故) DX...",
+          "desc": "행렬 앞에는 세탁기·로봇청소기 등 가전제품에 검은 띠를 두른 영정사진 형태의 피켓이 늘어섰고, '고(故) DX'라는 글자가 새겨진 상장(喪章)형 액자와 '사람은 비용이 아닙니다, 삼성의 경쟁력입니다'라는 현수막도...",
           "src": "ekn",
           "date": "09/18",
           "url": "https://www.ekn.kr/web/view.php?key=20260918027266821",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
         },
         {
-          "title": "커지는 '글로벌 사우스' AI홈 시장…삼성·LG, 현지 맞춤 선점 나서",
-          "desc": "떠오르면서 삼성전자와 LG전자가 현지 맞춤형 인공지능(AI) 전략을 강화하는 모습이다. LG전자가... 주방가전 존에서는 '비스포크 AI 패밀리허브' 냉장고를 활용한 개인화 서비스를 소개했다. 사용자 맞춤형 정보를...",
-          "src": "아시아타임즈",
-          "date": "09/18",
-          "url": "https://www.asiatime.co.kr/article/20260918500362",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/18/.cache/512/20260918500359.jpg"
-        },
-        {
-          "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
-          "desc": "반도체 부문과의 극심한 성과급 격차에 반발한 삼성전자 가전·모바일(DX) 부문 노동조합이 이재용 회장 자택 앞으로 향했다. 삼성전자 비반도체 부문 직원들로 구성된 동행노조 조합원 50여 명은 오늘(18일) 오후 5시 서울...",
-          "src": "insight",
-          "date": "09/18",
-          "url": "https://www.insight.co.kr/news/574265",
-          "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
+          "title": "영종 가전 A/S ‘원정수리’ 불편…생활서비스 인프라 확충 과제",
+          "desc": "가전·전자제품 A/S 접근성은 여전히 주민 불편으로 남아 있다. 냉장고와 세탁기, 에어컨 등 대형가전은... 삼성전자와 LG전자 등 주요 가전업체 서비스센터 설치는 기업 판단에 따라 결정되지만, 상설센터 설치가 어렵다면...",
+          "src": "livesnews",
+          "date": "09/19",
+          "url": "https://www.livesnews.com/news/article.html?no=64336",
+          "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"한국 디지털 경험, 국제규범에 도움\"",
-          "desc": "AI가 계약 체결과 거래 과정에 직접 관여하고 디지털 자산과 전자문서 활용이 확대되면서, 실물 거래를... -AI를 중재 절차에 도입하기 위한 가이드라인이 있나 \"당장 구속력 있는 규제를 도입할 생각은 없다. AI 기술이...",
-          "src": "lawtimes",
+          "title": "중국 게임사, '생성형 AI' 개발 도입률 86% '눈길'",
+          "desc": "툴을 활용하고 있는 것으로 나타났다. 뿐만아니라, 해외 서비스가 활발해지면서 텍스트 및 음성 딥페이크 기반의 다국어 번역과 같은 글로벌 로컬라이징 업무도 AI 기술이 보조하고 있다고 설명했다. 위원회 측은 보고서...",
+          "src": "khgames",
           "date": "09/19",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226582",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226582_128934_87.jpg"
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308296",
+          "img": "https://cdn.khgames.co.kr/news/photo/202609/308296_315021_236.jpg"
         },
         {
-          "title": "[AI와 사는 법] 개인정보 보호, 데이터에서 AI로",
-          "desc": "이를 위해 추출·추론 공격 시험을 도입하고, AI 추가 학습 이후에도 위험 수준을 주기적으로 점검하는 체계를 갖춰야 한다. 이제는 개인정보를 안전하게 처리하는 기술을 넘어, 이를 기억하고 있는 AI 자체를 어떻게...",
-          "src": "lawtimes",
+          "title": "제조 AX, 고정설비 넘어 피지컬 AI로 비정형 작업까지 확장해야",
+          "desc": "피지컬 AI 기업의 테스트베드로 활용되는 데만 그칠 수 있다는 지적이다. 제조 현장의 도입 전략으로는 기술 성숙도와 현장 여건을 고려해 경량 작업, 범용 작업, 고강도 작업 순으로 적용 범위를 단계적으로 넓히는...",
+          "src": "kidd",
           "date": "09/19",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226531",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226531_128937_2049.jpg"
+          "url": "https://kidd.co.kr/news/247473",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/09/18/1789701383_26.jpg"
         },
         {
-          "title": "\"우주굴기 마지막 퍼즐 완성한 中…美 패권 위협\" 싱크탱크 경고 '왜'",
-          "desc": "랜드스페이스 측은 착륙용 점화 엔진 숫자를 줄여 시스템을 단순화하고 예상 낙하지점을 활용한 자율... 로봇·하드웨어 기술을 AI 도입이 더딘 주택 건설 분야에 접목하면 승산이 있다고 판단했다\"고 말했다. 공간이...",
-          "src": "머니투데이",
+          "title": "민병덕 의원 “달러 스테이블코인에 금융주권 뺏길라”…포스텍 특강서...",
+          "desc": "조속히 도입해야 한다고 강조했다. 민 의원은 “미국 중심의 달러 스테이블코인이 대한민국 결제와 정산... 시스템과 AI 기술을 어떻게 결합할 것인지가 새로운 산업 과제로 떠오르고 있기 때문이다.◇ 포스텍 교수진...",
+          "src": "asiatoday",
           "date": "09/19",
-          "url": "https://n.news.naver.com/mnews/article/008/0005416023?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091817294887563_1.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260919000905226",
+          "img": "https://img.asiatoday.co.kr/file/2026y/09m/19d/20260919000905226_1789776853_1.jpg"
         },
         {
-          "title": "‘한-중앙아시아 정상회의’에 숨겨진 계산 : 미중러가 이번 회담을 경...",
-          "desc": "배럴 도입에 대한 후속 조치로 원유 협력 기본 약정을 체결했고, 희소금속 기술협력센터를 통해 현지 핵심... AI·과학기술과 기후·에너지 분야도 별도의 이니셔티브로 묶었다. 한국이 중앙아시아 5개국을 각각 상대하는...",
-          "src": "ddanzi",
+          "title": "가속기 위에 메모리 얹은 삼성, '초당 1000토큰'으로 AI 병목 깬다",
+          "desc": "열린 AI 인프라 서밋에서 이 기술 구조를 설명했다. 가속기 다이 바로 위에 HBM을 올리면 데이터 이동 경로가 획기적으로 줄어든다. 삼성전자는 첨단 웨이퍼 본딩 공정을 활용해 이 적층 방식을 구현한다는 구상이다....",
+          "src": "g-enews",
           "date": "09/19",
-          "url": "http://www.ddanzi.com/894877670",
-          "img": "https://www.ddanzi.com/./files/attach/images/977701/670/877/894//04e0f0394da3226dc618bdc90ff1410b.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609190905534695fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091909125509998fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "같은 회사인데 임금협상은 따로?···삼성전자 DS·DX '분리교섭' 가능...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423790",
+      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423790_239889_3849_v150.jpg"
+    },
+    {
       "title": "이재용 자택 3m 앞서 터진 외침…“이건희의 약속 어디 갔나”",
       "url": "https://www.ekn.kr/web/view.php?key=20260918027266821",
       "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260918.09d404bf14d942fcbdf8b62fa456e933_R.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
     },
     {
-      "title": "커지는 '글로벌 사우스' AI홈 시장…삼성·LG, 현지 맞춤 선점 나서",
-      "url": "https://www.asiatime.co.kr/article/20260918500362",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/18/.cache/512/20260918500359.jpg"
+      "title": "영종 가전 A/S ‘원정수리’ 불편…생활서비스 인프라 확충 과제",
+      "url": "https://www.livesnews.com/news/article.html?no=64336",
+      "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
     },
     {
-      "title": "이재용 회장 자택 앞 집회 연 DX 노조... \"누군 6억 받고, 누군 600만원이...",
-      "url": "https://www.insight.co.kr/news/574265",
-      "img": "https://img.insight.co.kr/static/2026/09/18/1200/img_20260918214821_4e5286vc.jpg"
+      "title": "중국 게임사, '생성형 AI' 개발 도입률 86% '눈길'",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308296",
+      "img": "https://cdn.khgames.co.kr/news/photo/202609/308296_315021_236.jpg"
     },
     {
-      "title": "\"한국 디지털 경험, 국제규범에 도움\"",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226582",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226582_128934_87.jpg"
-    },
-    {
-      "title": "[AI와 사는 법] 개인정보 보호, 데이터에서 AI로",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226531",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202609/226531_128937_2049.jpg"
+      "title": "제조 AX, 고정설비 넘어 피지컬 AI로 비정형 작업까지 확장해야",
+      "url": "https://kidd.co.kr/news/247473",
+      "img": "https://pimg3.daara.co.kr/kidd/photo/2026/09/18/1789701383_26.jpg"
     }
   ]
 };
