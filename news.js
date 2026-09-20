@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.20 (일) 13:56",
+  "updatedAt": "2026.09.20 (일) 20:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "쪼개진 삼성전자 노조, 집행부 내홍까지",
-          "desc": "삼성전자 노동조합이 반도체 사업을 담당하는 DS부문과 가전·스마트폰·TV 등을 담당하는 DX부문을 중심으로 사실상 양분된 가운데, 양쪽 노조 모두 집행부 내부 갈등이 격화하고 있습니다. 오늘(20일) 업계에 따르면...",
-          "src": "biz",
+          "title": "[ST PICK] DS·DX로 쪼개진 삼성전자 노조…징계·불신임에 탄원전까지",
+          "desc": "삼성전자 노동조합이 반도체 사업을 담당하는 DS(디바이스솔루션)부문과 가전·스마트폰·TV 등을 맡는 DX(디바이스경험)부문을 중심으로 사실상 양분되고 있다. 내년도 임금·단체협상 방식을 둘러싼 노조 간 충돌에...",
+          "src": "smarttimes",
           "date": "09/20",
-          "url": "https://n.news.naver.com/mnews/article/374/0000533927?sid=101",
-          "img": ""
+          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49119",
+          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49119_47933_829_v150.jpg"
         },
         {
           "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
         },
         {
-          "title": "\"가전 다음은 냉난방\"…삼성·LG가 히트펌프에 힘주는 이유",
-          "desc": "세탁기와 냉장고, TV에서 경쟁하던 삼성전자와 LG전자가 이제 집과 건물의 '냉난방'을 새로운 격전지로 삼고 있다. 에어컨이나 보일러 한 대를 파는 데서 벗어나 냉방·난방·급탕과 전력 사용량까지 통합 관리하는...",
-          "src": "wolyo",
+          "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
+          "desc": "따라서 이전에 쓰던 세탁기의 칸 위치를 그대로 기억해 세제를 넣으면 맞지 않을 수 있다. 삼성전자는 세제함 사용 안내에서 모델에 따라 칸의 위치와 구성이 달라질 수 있다고 설명했다. 구분이 어려울 때는 서랍의 표시와...",
+          "src": "vegannews",
           "date": "09/20",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318051",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
+          "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "민선9기 포항시, 민생경제 회복에 미래산업·북극항로·체류형 관광까지",
-          "desc": "재도약과 AI(인공지능)·로봇 등 미래산업 육성, 북극항로를 활용한 물류 경쟁력 강화, 체류형 관광 활성화... 해양 AI·로보틱스 기술 개발, 북극항로 시범운항 유치와 신규 항로 확보 등을 통해 수산업의 고부가가치화와...",
-          "src": "hidomin",
+          "title": "[Tech Insight]AI가 코딩할 동안 개발자는 뭘 해야 할까?",
+          "desc": "개발자가 AI로 확보한 생산성을 자기 계발에 활용해할지에 대한 생각을 이같이 공유했다. AI가 일하는 동안... 그는  AI 툴을 업무에 도입하자 생산성이 크게 올랐다고 말한다. 예전엔 며칠 걸리던 작업을 몇 시간 만에...",
+          "src": "digitaltoday",
           "date": "09/20",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=721909",
-          "img": "https://cdn.hidomin.com/news/photo/202609/721909_424344_5337.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701901",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/701901_649612_2124.jpeg"
         },
         {
-          "title": "AI가 바꾼 판교 채용 지도… 네카오 '수시·직무 중심' 체질 개선",
-          "desc": "국내 주요 정보기술(IT) 및 플랫폼 기업들이 매년 정기적으로 진행해 오던 대규모 신입 공채 제도를... 신규 채용 규모를 대폭 축소하거나 아예 잠정 중단하고 채용 과정에 AI 활용 역량 평가 도입에 나서고 있다. 업계는...",
-          "src": "newscj",
+          "title": "美 인오빗 AI, 오픈소스 로봇 OS '오픈로브옵스(ORO)' 공개",
+          "desc": "이 회사는 이번 출시를 통해 로봇 제작자가 즉시 활용 가능한 강력한 로봇 군집 관리자를 제공할 수 있는... (ROS)의 도입과 유사하다고 언급했다. 스티브 커즌스 스탠퍼드 로봇 센터 집행이사 겸 인오빗 AI 이사회...",
+          "src": "irobotnews",
           "date": "09/20",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3434191",
-          "img": "https://cdn.newscj.com/news/thumbnail/202609/3434191_3551549_4252_v150.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48604",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48604_104035_4510.jpg"
         },
         {
-          "title": "보험사 AI, 잘못 쓰면 보험금·보험료 분쟁으로…통제체계 마련 시급",
-          "desc": "문제는 같은 AI 기술을 활용하더라도 업무에 따라 소비자에게 미치는 영향이 크게 달라질 수 있다는 점이다.... 결국 보험사의 AI 활용 확대 과정에서는 AI를 얼마나 많이 도입하느냐보다 AI의 판단이 보험계약자에게...",
-          "src": "fins",
+          "title": "美 제너럴 로보틱스, '그리드'로 로봇 개발·배치 전체 수명 주기 자동...",
+          "desc": "기술 배치에 이르기까지 자체 프로세스를 자동 공학화하고 있다. 그 결과 로봇을 실제 현장에 도입하는 데... 그리드는 이제 AI를 활용해 새로운 로봇과 AI 모델의 온보딩부터 새로운 기술의 생성 및 배치에 이르는 전체...",
+          "src": "irobotnews",
           "date": "09/20",
-          "url": "http://www.fins.co.kr/news/articleView.html?idxno=110022",
-          "img": "https://cdn.fins.co.kr/news/thumbnail/202609/110022_26529_4114_v150.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48599",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48599_104024_3252.jpg"
         },
         {
-          "title": "美, '양자 AI·로봇' 융합 中 희토류 독점 깬다…차세대 공급망 구축",
-          "desc": "인공지능(AI)과 로봇 자동화 기술을 전격 투입한다고 과학 기술 전문매체 인터레스팅 엔지니어링이 19일(현지시각) 보도했다. 혼합 광물에서 개별 산화물을 분리해 내는 핵심 공정에 양자 머신러닝을 도입해 처리 비용과...",
-          "src": "g-enews",
+          "title": "中 루모스로보틱스, 새로운 피지컬 AI 플랫폼 '넥스코어' 출시",
+          "desc": "중국 피지컬 AI 개발업체 루모스로보틱스가 산업용 로봇의 도입과 활용을 보다 쉽게 만드는 스킬 진화 엔진... 로봇 도입 경험을 제공한다. 기업이 자체적으로 로보틱스 AI 기술 스택을 구축하는 대신, 넥스코어는 작업 정의...",
+          "src": "irobotnews",
           "date": "09/20",
-          "url": "https://www.g-enews.com/view.php?ud=202609201336008946e250e8e188_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092013385004060e250e8e18810625224987.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48607",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48607_104038_60.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[미리보는 이데일리 신문] 결국 김승원도 낙마 靑 인사검증 도마위",
+          "desc": "난 삼성전자 노조 -“할머니, 미리 성묘 왔어요” -메모리 호황에도 환율 변수…삼전닉스 실적 오름세 둔화... 앞두고 협력사 대금 1850억 조기 지급 △사회 -컨트롤타워 없는 형사사법 대전환…“수사 지연 우려...",
+          "src": "이데일리",
+          "date": "09/20",
+          "url": "https://n.news.naver.com/mnews/article/018/0006373247?sid=100",
+          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+        },
+        {
+          "title": "\"대기업 로봇 투자 흐름 잡아라\"… 경북도, 경산서 로봇 부품 공급망 진...",
+          "desc": "현대차그룹의 새만금 9조 원 투자와 삼성전자의 구미 휴머노이드 양산 체계 구축 등 국내 대기업들의 로봇... 자동차 부품 수주 물량이 감소하면서 생길 단기적인 매출 타격을 견디지 못하는 중소 협력사들이 속출할 수...",
+          "src": "thebk",
+          "date": "09/20",
+          "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311804",
+          "img": "https://cdn.thebk.co.kr/news/photo/202609/311804_82313_345.jpg"
+        },
         {
           "title": "\"칩 2배 팔겠다\" 황의 호언 뒤편…40개월 장비 덫에 갇힌 K-반도체",
           "desc": "이 같은 장비 조달 지연은 삼성전자 평택 공장과 SK하이닉스 용인 공장의 신규 팹 가동 일정을 늦추는 요인이다. 부품 협력사의 공급망 확충이 신속하게 이뤄져 부품 납기가 조기에 정상화된다면 증설 지연...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/18",
           "url": "http://sateconomy.co.kr/news/view/1065622014532518",
           "img": "http://sateconomy.co.kr/news/data/20260918/p1065622014532518_867_thum.jpg"
-        },
-        {
-          "title": "철강·조선 ‘시간차 셧다운’… 제조업 공급망, 전방위 경고등",
-          "desc": "지난 10일에는 서울 삼성전자 서초사옥에서 상경투쟁을 진행하기도 했다. ◆ 파업 장기화 때는 자동차·건설... 또 완성차를 넘어 부품 협력사까지도 연쇄 조업 중단 위기에 몰리게 된다. 건설업계 역시 영향을 받을 수 있다....",
-          "src": "mediapen",
-          "date": "09/18",
-          "url": "https://www.mediapen.com/news/view/1124656",
-          "img": "https://image.mediapen.com/news/202609/news_1124656_1789716156_m.jpg"
-        },
-        {
-          "title": "충남도, '반도체 후공정 특화단지' 지정…7개 산단에 투자",
-          "desc": "등도 협력사로 이름을 올렸다. 이들 기업은 2030년까지 3700억 원을 투자할 계획이다. 목표로는 생산액 3조... 핵심 부품·장비의 국내 생산 거점으로 성장할 수 있도록 적극 지원할 계획이다. 도 관계자는 \"삼성전자와...",
-          "src": "weekly",
-          "date": "09/18",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184949",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184949_247582_5042_v150.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[ST PICK] DS·DX로 쪼개진 삼성전자 노조…징계·불신임에 탄원전까지",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49119",
+      "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49119_47933_829_v150.jpg"
+    },
+    {
       "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
       "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764319",
       "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764319_318457_2424_v150.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
     },
     {
-      "title": "\"가전 다음은 냉난방\"…삼성·LG가 히트펌프에 힘주는 이유",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318051",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
+      "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
+      "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
     },
     {
-      "title": "민선9기 포항시, 민생경제 회복에 미래산업·북극항로·체류형 관광까지",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=721909",
-      "img": "https://cdn.hidomin.com/news/photo/202609/721909_424344_5337.jpg"
+      "title": "[Tech Insight]AI가 코딩할 동안 개발자는 뭘 해야 할까?",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701901",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/701901_649612_2124.jpeg"
     },
     {
-      "title": "AI가 바꾼 판교 채용 지도… 네카오 '수시·직무 중심' 체질 개선",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3434191",
-      "img": "https://cdn.newscj.com/news/thumbnail/202609/3434191_3551549_4252_v150.jpg"
-    },
-    {
-      "title": "보험사 AI, 잘못 쓰면 보험금·보험료 분쟁으로…통제체계 마련 시급",
-      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110022",
-      "img": "https://cdn.fins.co.kr/news/thumbnail/202609/110022_26529_4114_v150.jpg"
+      "title": "美 인오빗 AI, 오픈소스 로봇 OS '오픈로브옵스(ORO)' 공개",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48604",
+      "img": "https://cdn.irobotnews.com/news/photo/202609/48604_104035_4510.jpg"
     }
   ]
 };
