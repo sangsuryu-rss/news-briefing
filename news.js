@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.20 (일) 20:28",
+  "updatedAt": "2026.09.21 (월) 01:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[ST PICK] DS·DX로 쪼개진 삼성전자 노조…징계·불신임에 탄원전까지",
-          "desc": "삼성전자 노동조합이 반도체 사업을 담당하는 DS(디바이스솔루션)부문과 가전·스마트폰·TV 등을 맡는 DX(디바이스경험)부문을 중심으로 사실상 양분되고 있다. 내년도 임금·단체협상 방식을 둘러싼 노조 간 충돌에...",
-          "src": "smarttimes",
+          "title": "[삼성전자] 美 실리콘밸리서 AI 기술 포럼 / '갤럭시 클래스룸' / 기후산...",
+          "desc": "■ 삼성전자, 기후산업박람회서 AI 기반 에너지 절감 솔루션 공개 삼성전자는 '2026 기후산업국제박람회'에서 AI 기술과 고효율 가전을 결합한 에너지 절감 솔루션을 선보였다고 20일 밝혔다. 전시관에서는 주거용...",
+          "src": "webeconomy",
           "date": "09/20",
-          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49119",
-          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49119_47933_829_v150.jpg"
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313020",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2313020_1122598_5919.jpg"
         },
         {
           "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[Tech Insight]AI가 코딩할 동안 개발자는 뭘 해야 할까?",
-          "desc": "개발자가 AI로 확보한 생산성을 자기 계발에 활용해할지에 대한 생각을 이같이 공유했다. AI가 일하는 동안... 그는  AI 툴을 업무에 도입하자 생산성이 크게 올랐다고 말한다. 예전엔 며칠 걸리던 작업을 몇 시간 만에...",
-          "src": "digitaltoday",
-          "date": "09/20",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701901",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/701901_649612_2124.jpeg"
+          "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
+          "desc": "정부가 AI를 국가 차원의 핵심 전략 기술로 보고 인재 양성·확보에 나서는 것이다. 20일 국회... 이에 정부는 AI 분야 대기업 병역특례 제도를 도입하고, 지난 6월 병무청 고시를 통해 내년도 AI 분야 석사과정...",
+          "src": "kmib",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
         },
         {
-          "title": "美 인오빗 AI, 오픈소스 로봇 OS '오픈로브옵스(ORO)' 공개",
-          "desc": "이 회사는 이번 출시를 통해 로봇 제작자가 즉시 활용 가능한 강력한 로봇 군집 관리자를 제공할 수 있는... (ROS)의 도입과 유사하다고 언급했다. 스티브 커즌스 스탠퍼드 로봇 센터 집행이사 겸 인오빗 AI 이사회...",
-          "src": "irobotnews",
-          "date": "09/20",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48604",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48604_104035_4510.jpg"
+          "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
+          "desc": "인공지능(AI) 활용이 비즈니스의 성패를 가르는 AI 전환(AX) 시대, DBR(동아비즈니스리뷰)이 전사 AX 과제... 솔루션인 ‘AI Blueprint’ 도입 기업을 모집합니다. AI 전문 기업 알고리즘랩스가 개발한 본 솔루션은 기업...",
+          "src": "동아일보",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/020/0003749585?sid=101",
+          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
         },
         {
-          "title": "美 제너럴 로보틱스, '그리드'로 로봇 개발·배치 전체 수명 주기 자동...",
-          "desc": "기술 배치에 이르기까지 자체 프로세스를 자동 공학화하고 있다. 그 결과 로봇을 실제 현장에 도입하는 데... 그리드는 이제 AI를 활용해 새로운 로봇과 AI 모델의 온보딩부터 새로운 기술의 생성 및 배치에 이르는 전체...",
-          "src": "irobotnews",
-          "date": "09/20",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48599",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48599_104024_3252.jpg"
+          "title": "“KAIST, 논문 없이도 박사 받는 방안 마련”",
+          "desc": "제도 도입을 추진한다. 논문 대신 창업이나 기술 개발 성과 등을 평가해 박사 학위를 수여하는 방식이다.... “제조업이 AI를 활용해 빠르게 데이터를 모으고 생산 기술에 적용하는 것이 ‘피지컬 AI의 승부처’라고...",
+          "src": "조선일보",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999510?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/7WMWZZ3AFJB4ZFSYM7ZXSOZMXA.jpg?auth=615d85a4de33853f0183b4f02a5453ce49321c95f3e3ff414478a2c7678516f6&width=668&height=350&smart=true"
         },
         {
-          "title": "中 루모스로보틱스, 새로운 피지컬 AI 플랫폼 '넥스코어' 출시",
-          "desc": "중국 피지컬 AI 개발업체 루모스로보틱스가 산업용 로봇의 도입과 활용을 보다 쉽게 만드는 스킬 진화 엔진... 로봇 도입 경험을 제공한다. 기업이 자체적으로 로보틱스 AI 기술 스택을 구축하는 대신, 넥스코어는 작업 정의...",
-          "src": "irobotnews",
-          "date": "09/20",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48607",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48607_104038_60.jpg"
+          "title": "[월요칼럼]인공지능으로 여는 산림의 새로운 미래",
+          "desc": "알려주는 기술이다. 한국임업진흥원이 산림 분야의 인공지능 전환(AX)에 주목하는 이유도 여기에 있다. 첫째... 물론 AI 도입 자체가 목표는 아니다. 누구를 위해 어떻게 활용할 것인가이다. 산림의 AI 전환 역시 ‘AI가...",
+          "src": "kwnews",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/087/0001219483?sid=102",
+          "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/20/.cache/512/20260920501157.gif"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[ST PICK] DS·DX로 쪼개진 삼성전자 노조…징계·불신임에 탄원전까지",
-      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49119",
-      "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49119_47933_829_v150.jpg"
+      "title": "[삼성전자] 美 실리콘밸리서 AI 기술 포럼 / '갤럭시 클래스룸' / 기후산...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313020",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2313020_1122598_5919.jpg"
     },
     {
       "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
     },
     {
-      "title": "[Tech Insight]AI가 코딩할 동안 개발자는 뭘 해야 할까?",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701901",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/701901_649612_2124.jpeg"
+      "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
     },
     {
-      "title": "美 인오빗 AI, 오픈소스 로봇 OS '오픈로브옵스(ORO)' 공개",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48604",
-      "img": "https://cdn.irobotnews.com/news/photo/202609/48604_104035_4510.jpg"
+      "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
+      "url": "https://n.news.naver.com/mnews/article/020/0003749585?sid=101",
+      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
     }
   ]
 };
