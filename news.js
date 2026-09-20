@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.21 (월) 03:50",
+  "updatedAt": "2026.09.21 (월) 07:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[삼성전자] 美 실리콘밸리서 AI 기술 포럼 / '갤럭시 클래스룸' / 기후산...",
-          "desc": "■ 삼성전자, 기후산업박람회서 AI 기반 에너지 절감 솔루션 공개 삼성전자는 '2026 기후산업국제박람회'에서 AI 기술과 고효율 가전을 결합한 에너지 절감 솔루션을 선보였다고 20일 밝혔다. 전시관에서는 주거용...",
-          "src": "webeconomy",
-          "date": "09/20",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313020",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2313020_1122598_5919.jpg"
+          "title": "\"가전은 역시 LG\"라더니…삼성 TV 관심 폭발한 '진짜 이유' [텔레비전(戰...",
+          "desc": "삼성전자가 LG전자로 쏠린 관심을 끌어오는 데 성공했다. 실제 올해 국내 TV 소비자들은 온라인상에서 LG전자보다 삼성전자에 주목했다. 소비자들이 TV 탐색 과정에서 삼성전자를 언급한 건수는 60만건으로 두 배 이상...",
+          "src": "한국경제",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/015/0005334431?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/01.45712927.1.png"
         },
         {
           "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "vegannews",
           "date": "09/20",
           "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
-          "img": ""
+          "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "배충식 KAIST 총장 “AI 못 쓰는 수업 내년 시작…논문 없이 박사 받는 ...",
-          "desc": "등에 AI를 활용하는 ‘AI 자율 랩’을 확대하고, 행정에는 AI 에이전트를 도입해 반복 업무를 줄이기로 했다.... 제조업이 AI를 활용해 빠르게 데이터를 모으고 생산 기술에 적용해야 한다. 이것이 피지컬 AI의 최종...",
-          "src": "조선일보",
+          "title": "전남테크노파크-국립목포대학교, 로봇 도입 희망 기업에 활용 교육",
+          "desc": "지난 16일 진행된 이번 교육은 '2026년 첨단로봇·AI 활용 중소기업 제조 혁신 사업'의 일환으로 마련됐다. 지역기업의 로봇 도입 과정에서 발생하는 기술적 진입장벽을 낮추고, 로봇 도입과 활용에 필요한 기초 지식 및 실무...",
+          "src": "newsmaker",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0003999573?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/2CQBMD5EUJEBDD37TUF7O2TSUM.jpg?auth=d608636ba3c5591bfc4e0fed8fe01f1c4404c979ea5d1a3b317d1855e918dba4&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "[패트롤] 경기도-경기도의회-경기도교육청-경기도농수산진흥원-경기평...",
-          "desc": "조례안은 생성형 인공지능을 비롯한 AI 기술을 정책자료 조사·분석과 문서 작성, 데이터 활용 등 의정활동 지원 업무에 체계적으로 도입하기 위한 제도적 기반을 마련하는 데 초점을 맞췄다. 앞서 해당 조례안은 지난...",
-          "src": "ekn",
-          "date": "09/21",
-          "url": "https://www.ekn.kr/web/view.php?key=20260921023117138",
+          "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=182890",
           "img": ""
         },
         {
-          "title": "통제력 시험대 오르는 ‘반려기술’ AGI… “한국형 안전망 시급”",
-          "desc": "수년 내 도래할 것으로 예상되는 범용인공지능(AGI) 시대는 인류의 AI 기술 통제력을 검증하는 시험대이기도... 산업에 AI를 결합해 실제 현장에서 얼마나 잘 활용하느냐가 핵심”이라며 “이런 부분은 범용 AI가 일반적인...",
-          "src": "kmib",
+          "title": "[기획] AI 물관리로 에너지까지 최적화…K-water, 물에너지 10GW 승부수",
+          "desc": "양수발전과 AI 물관리 기술을 결합하는 전략을 추진하고 있다. 2030년까지 약 8.5GW를 신규 개발해 누적 10GW... 설비관리에도 AI를 활용할 수 있다. 수차와 발전기, 태양광 모듈, 계류장치, 펌프에서 발생하는 진동·온도...",
+          "src": "energydaily",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/005/0001874190?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260921500002.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203432",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202609/203432_203090_3652.jpg"
         },
         {
-          "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
-          "desc": "정부가 AI를 국가 차원의 핵심 전략 기술로 보고 인재 양성·확보에 나서는 것이다. 20일 국회... 이에 정부는 AI 분야 대기업 병역특례 제도를 도입하고, 지난 6월 병무청 고시를 통해 내년도 AI 분야 석사과정...",
-          "src": "kmib",
+          "title": "“더 빠르고 정확하게”…배달앱, AI·데이터 기술 경쟁",
+          "desc": "도입한다. 기존에는 점주가 조리와 배달에 걸리는 시간을 직접 예상해 입력해야 했다. 배민은 AI를 활용해... 쿠팡이츠는 배달기사가 가게 위치를 보다 정확하게 찾을 수 있도록 최근 ‘가게 좌표 최적화’ 기술을...",
+          "src": "서울경제",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260920.68a67695792247abb3fb84b593c1b7d1_Z1.png"
+        },
+        {
+          "title": "AI 발전 노벨상에 복합 영향···\"과학 발전 속도···신뢰성 확보 관...",
+          "desc": "인공지능(AI) 기술이 빠르게 발전하면서 125년의 역사를 지닌 과학분야 최고 권위의 상인 ‘노벨상’에도... 화학 분야에서도 AI 도입에 따라 연구 결과를 검증하는 속도가 빨라지고 있다는 평가가 나왔다. 2021년...",
+          "src": "이데일리",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/018/0006373311?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092100105.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[더벨]파인엠텍, 북미 고객 물량 확대 '4분기 집중'",
+          "desc": "이러한 추세가 강해지면 삼성전자향 백플레이트 물량 감소세도 늦출 수 있게 된다. 전자업계 관계자는 \"양사가 폴더블폰 부문에서 경쟁하는 구도가 만들어지면서 양쪽에 부품을 조달하는 협력사는 뒤에서 미소를 짓는...",
+          "src": "더벨",
+          "date": "09/21",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171513407960105346",
+          "img": ""
+        },
         {
           "title": "[미리보는 이데일리 신문] 결국 김승원도 낙마 靑 인사검증 도마위",
           "desc": "난 삼성전자 노조 -“할머니, 미리 성묘 왔어요” -메모리 호황에도 환율 변수…삼전닉스 실적 오름세 둔화... 앞두고 협력사 대금 1850억 조기 지급 △사회 -컨트롤타워 없는 형사사법 대전환…“수사 지연 우려...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/19",
           "url": "https://www.g-enews.com/view.php?ud=202609190913126404fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091910050407956fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "[김승원 칼럼] 추석 앞당긴 9.6조…상생에는 빠른 입금이 더 힘이 세다",
-          "desc": "1차 협력사에는 2·3차 협력사의 대금도 앞당겨 달라고 권고했다. 삼성은 삼성전자·삼성물산... 1차 협력사 통장에서 돈이 멈춘다면 상생은 절반이다. 마지막 부품업체까지 현금이 내려가야 공급망 전체가...",
-          "src": "sateconomy",
-          "date": "09/18",
-          "url": "http://sateconomy.co.kr/news/view/1065622014532518",
-          "img": "http://sateconomy.co.kr/news/data/20260918/p1065622014532518_867_thum.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[삼성전자] 美 실리콘밸리서 AI 기술 포럼 / '갤럭시 클래스룸' / 기후산...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313020",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202609/2313020_1122598_5919.jpg"
+      "title": "\"가전은 역시 LG\"라더니…삼성 TV 관심 폭발한 '진짜 이유' [텔레비전(戰...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334431?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/01.45712927.1.png"
     },
     {
       "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
     },
     {
-      "title": "배충식 KAIST 총장 “AI 못 쓰는 수업 내년 시작…논문 없이 박사 받는 ...",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999573?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/2CQBMD5EUJEBDD37TUF7O2TSUM.jpg?auth=d608636ba3c5591bfc4e0fed8fe01f1c4404c979ea5d1a3b317d1855e918dba4&width=1200&height=630&smart=true"
+      "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
+      "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
     },
     {
-      "title": "통제력 시험대 오르는 ‘반려기술’ AGI… “한국형 안전망 시급”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874190?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260921500002.jpg"
+      "title": "[기획] AI 물관리로 에너지까지 최적화…K-water, 물에너지 10GW 승부수",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203432",
+      "img": "https://cdn.energydaily.co.kr/news/photo/202609/203432_203090_3652.jpg"
     },
     {
-      "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
+      "title": "“더 빠르고 정확하게”…배달앱, AI·데이터 기술 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260920.68a67695792247abb3fb84b593c1b7d1_Z1.png"
     }
   ]
 };
