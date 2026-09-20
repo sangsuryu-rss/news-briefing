@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.21 (월) 01:10",
+  "updatedAt": "2026.09.21 (월) 03:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "vegannews",
           "date": "09/20",
           "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
-          "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "배충식 KAIST 총장 “AI 못 쓰는 수업 내년 시작…논문 없이 박사 받는 ...",
+          "desc": "등에 AI를 활용하는 ‘AI 자율 랩’을 확대하고, 행정에는 AI 에이전트를 도입해 반복 업무를 줄이기로 했다.... 제조업이 AI를 활용해 빠르게 데이터를 모으고 생산 기술에 적용해야 한다. 이것이 피지컬 AI의 최종...",
+          "src": "조선일보",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999573?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/2CQBMD5EUJEBDD37TUF7O2TSUM.jpg?auth=d608636ba3c5591bfc4e0fed8fe01f1c4404c979ea5d1a3b317d1855e918dba4&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청-경기도농수산진흥원-경기평...",
+          "desc": "조례안은 생성형 인공지능을 비롯한 AI 기술을 정책자료 조사·분석과 문서 작성, 데이터 활용 등 의정활동 지원 업무에 체계적으로 도입하기 위한 제도적 기반을 마련하는 데 초점을 맞췄다. 앞서 해당 조례안은 지난...",
+          "src": "ekn",
+          "date": "09/21",
+          "url": "https://www.ekn.kr/web/view.php?key=20260921023117138",
+          "img": ""
+        },
+        {
+          "title": "통제력 시험대 오르는 ‘반려기술’ AGI… “한국형 안전망 시급”",
+          "desc": "수년 내 도래할 것으로 예상되는 범용인공지능(AGI) 시대는 인류의 AI 기술 통제력을 검증하는 시험대이기도... 산업에 AI를 결합해 실제 현장에서 얼마나 잘 활용하느냐가 핵심”이라며 “이런 부분은 범용 AI가 일반적인...",
+          "src": "kmib",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874190?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260921500002.jpg"
+        },
+        {
           "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
           "desc": "정부가 AI를 국가 차원의 핵심 전략 기술로 보고 인재 양성·확보에 나서는 것이다. 20일 국회... 이에 정부는 AI 분야 대기업 병역특례 제도를 도입하고, 지난 6월 병무청 고시를 통해 내년도 AI 분야 석사과정...",
           "src": "kmib",
           "date": "09/21",
           "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
           "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
-        },
-        {
-          "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
-          "desc": "인공지능(AI) 활용이 비즈니스의 성패를 가르는 AI 전환(AX) 시대, DBR(동아비즈니스리뷰)이 전사 AX 과제... 솔루션인 ‘AI Blueprint’ 도입 기업을 모집합니다. AI 전문 기업 알고리즘랩스가 개발한 본 솔루션은 기업...",
-          "src": "동아일보",
-          "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/020/0003749585?sid=101",
-          "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
-        },
-        {
-          "title": "“KAIST, 논문 없이도 박사 받는 방안 마련”",
-          "desc": "제도 도입을 추진한다. 논문 대신 창업이나 기술 개발 성과 등을 평가해 박사 학위를 수여하는 방식이다.... “제조업이 AI를 활용해 빠르게 데이터를 모으고 생산 기술에 적용하는 것이 ‘피지컬 AI의 승부처’라고...",
-          "src": "조선일보",
-          "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0003999510?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/7WMWZZ3AFJB4ZFSYM7ZXSOZMXA.jpg?auth=615d85a4de33853f0183b4f02a5453ce49321c95f3e3ff414478a2c7678516f6&width=668&height=350&smart=true"
-        },
-        {
-          "title": "[월요칼럼]인공지능으로 여는 산림의 새로운 미래",
-          "desc": "알려주는 기술이다. 한국임업진흥원이 산림 분야의 인공지능 전환(AX)에 주목하는 이유도 여기에 있다. 첫째... 물론 AI 도입 자체가 목표는 아니다. 누구를 위해 어떻게 활용할 것인가이다. 산림의 AI 전환 역시 ‘AI가...",
-          "src": "kwnews",
-          "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219483?sid=102",
-          "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/20/.cache/512/20260920501157.gif"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+          "img": ""
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
     },
     {
-      "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
-      "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
+      "title": "배충식 KAIST 총장 “AI 못 쓰는 수업 내년 시작…논문 없이 박사 받는 ...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999573?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/2CQBMD5EUJEBDD37TUF7O2TSUM.jpg?auth=d608636ba3c5591bfc4e0fed8fe01f1c4404c979ea5d1a3b317d1855e918dba4&width=1200&height=630&smart=true"
+    },
+    {
+      "title": "통제력 시험대 오르는 ‘반려기술’ AGI… “한국형 안전망 시급”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874190?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260921500002.jpg"
     },
     {
       "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
       "url": "https://n.news.naver.com/mnews/article/005/0001874176?sid=101",
       "img": "https://image.kmib.co.kr/online_image/2026/0921/01100201.20260920500967.jpg"
-    },
-    {
-      "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
-      "url": "https://n.news.naver.com/mnews/article/020/0003749585?sid=101",
-      "img": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
     }
   ]
 };
