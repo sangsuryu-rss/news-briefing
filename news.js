@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.20 (일) 09:09",
+  "updatedAt": "2026.09.20 (일) 13:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,16 +21,24 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "노태문 삼성 사장, 美 테크 포럼서 \"AX 전환기 선도기업으로 도약\"",
-          "desc": "삼성전자가 스마트폰과 TV, 가전 등 기존 기기 중심의 사업을 일상 속 인공지능(AI)과 로보틱스로 확장한다. 노태문 삼성전자 대표이사 겸 DX부문장(사장)은 미국 실리콘밸리에서 글로벌 정보기술(IT) 기업 개발자들을...",
-          "src": "아이뉴스24",
+          "title": "쪼개진 삼성전자 노조, 집행부 내홍까지",
+          "desc": "삼성전자 노동조합이 반도체 사업을 담당하는 DS부문과 가전·스마트폰·TV 등을 담당하는 DX부문을 중심으로 사실상 양분된 가운데, 양쪽 노조 모두 집행부 내부 갈등이 격화하고 있습니다. 오늘(20일) 업계에 따르면...",
+          "src": "biz",
           "date": "09/20",
-          "url": "https://n.news.naver.com/mnews/article/031/0001059952?sid=105",
-          "img": "https://image.inews24.com/v1/0b0aaa8d7f2b9d.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000533927?sid=101",
+          "img": ""
+        },
+        {
+          "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
+          "desc": "삼성전자는 CES 2026에서도 AI가 적용된 가전과 스마트싱스 등을 기반으로 사용자의 일상을 지원하는 '홈 컴패니언' 전략을 공개한 바 있다. 냉장고와 로봇청소기 등 기존 가전에 생성형 AI와 센서 기술을 접목해 기기가...",
+          "src": "소비자가만드는신문",
+          "date": "09/20",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764319",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764319_318457_2424_v150.jpg"
         },
         {
           "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
-          "desc": "최근 로봇청소기는 먼지 흡입뿐 아니라 물걸레 세척과 건조, 장애물 회피까지 자동화하는 방향으로 기능이 빠르게 확대되고 있다. 삼성전자와 LG전자, 로보락 등이 올해 잇따라 신제품을 내놓으면서 시장 경쟁도...",
+          "desc": "삼성전자는 공기청정기·제습기를 대상으로 ‘쾌적한 일상을 선물한다’는 콘셉트의 추석 프로모션을 진행 중이다. 세탁·건조기 등 의류관리 가전 역시 한가위 특별전에서 판매하고 있다. LG전자도 건강가전 수요를...",
           "src": "segye",
           "date": "09/20",
           "url": "https://n.news.naver.com/mnews/article/022/0004160392?sid=101",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "09/20",
           "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318051",
           "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
-        },
-        {
-          "title": "[백투더주간한국] '전기' 실컷 쓰라더니...1967년 실패 되풀이한 한전",
-          "desc": "라디오·텔레비전·냉장고 등 가전이 빠르게 보급됐다. 기업과 가정의 전기 사용량은 꾸준히 늘어갔다.... 발등에 불이 떨어진 한전은 삼성전자와 SK하이닉스에 손을 내밀었다. 5년 치 전기요금인 25조원을 미리 받아...",
-          "src": "weekly",
-          "date": "09/20",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184824",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184824_247506_1838_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"우리은행, 앱에서 놓친 세금 환급금 찾아준다\"",
-          "desc": "우리WON뱅킹에 도입했다고 밝혔다. 별도의 플랫폼 가입이나 앱 설치 없이 우리WON뱅킹에서 관련 절차를... 제출 자료의 위·변조 여부는 덧셈컴퍼니가 자체 개발한 AI 기술을 활용해 검수한다. 덧셈컴퍼니는 세금 신고...",
-          "src": "thepublic",
+          "title": "민선9기 포항시, 민생경제 회복에 미래산업·북극항로·체류형 관광까지",
+          "desc": "재도약과 AI(인공지능)·로봇 등 미래산업 육성, 북극항로를 활용한 물류 경쟁력 강화, 체류형 관광 활성화... 해양 AI·로보틱스 기술 개발, 북극항로 시범운항 유치와 신규 항로 확보 등을 통해 수산업의 고부가가치화와...",
+          "src": "hidomin",
           "date": "09/20",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=319382",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/319382_322845_213.png"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=721909",
+          "img": "https://cdn.hidomin.com/news/photo/202609/721909_424344_5337.jpg"
         },
         {
-          "title": "(종합)현대차, 6년 만에 완전변경 ‘디 올 뉴 투싼’ 선보여⋯ 가격 10월...",
-          "desc": "아웃도어 수요를 겨냥한 XRT 트림도 처음 도입된다. 주행 성능은 가솔린 모델은 최고출력 193마력, 최대토크... 차체 하부 강성을 높이고 서스펜션을 개선했으며, 하이브리드 모델에는 구동 모터를 활용해 차체 움직임을...",
-          "src": "브릿지경제",
+          "title": "AI가 바꾼 판교 채용 지도… 네카오 '수시·직무 중심' 체질 개선",
+          "desc": "국내 주요 정보기술(IT) 및 플랫폼 기업들이 매년 정기적으로 진행해 오던 대규모 신입 공채 제도를... 신규 채용 규모를 대폭 축소하거나 아예 잠정 중단하고 채용 과정에 AI 활용 역량 평가 도입에 나서고 있다. 업계는...",
+          "src": "newscj",
           "date": "09/20",
-          "url": "https://www.viva100.com/article/20260920500011",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/20/.cache/512/20260920500001.jpg?v=20260920090939"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3434191",
+          "img": "https://cdn.newscj.com/news/thumbnail/202609/3434191_3551549_4252_v150.jpg"
         },
         {
-          "title": "심평원 AI 심사 첫 적용…AI의료, '조용한 수혜' 열리나 [AI헬스케어]",
-          "desc": "영상의 AI 판독 결과를 심사 참고자료로 활용해 왔고, 검증을 마친 무릎관절(퇴행성관절염) 분야부터 실제... 강화가 의료기관 급여 매출을 줄여 AI 도입 유인을 되레 깎을 가능성 역시 함께 봐야 한다\"고 말했다.",
-          "src": "이데일리",
+          "title": "보험사 AI, 잘못 쓰면 보험금·보험료 분쟁으로…통제체계 마련 시급",
+          "desc": "문제는 같은 AI 기술을 활용하더라도 업무에 따라 소비자에게 미치는 영향이 크게 달라질 수 있다는 점이다.... 결국 보험사의 AI 활용 확대 과정에서는 AI를 얼마나 많이 도입하느냐보다 AI의 판단이 보험계약자에게...",
+          "src": "fins",
           "date": "09/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006372771?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092000046.940x.0.png"
+          "url": "http://www.fins.co.kr/news/articleView.html?idxno=110022",
+          "img": "https://cdn.fins.co.kr/news/thumbnail/202609/110022_26529_4114_v150.jpg"
         },
         {
-          "title": "현대차,아웃도어 감성 더한 6세대 투싼 출시…SUV 최초 '플레오스' 탑재",
-          "desc": "신형 투싼은 차체를 키워 실내 거주성을 높이고 차세대 하이브리드 시스템과 인공지능(AI) 기반 인포테인먼트 기술을 적용하며 상품성을 높였다. 아울러 정통 오프로드 감성을 더한 신규 트림인 'XRT'를 도입, 한층...",
-          "src": "sisaon",
+          "title": "美, '양자 AI·로봇' 융합 中 희토류 독점 깬다…차세대 공급망 구축",
+          "desc": "인공지능(AI)과 로봇 자동화 기술을 전격 투입한다고 과학 기술 전문매체 인터레스팅 엔지니어링이 19일(현지시각) 보도했다. 혼합 광물에서 개별 산화물을 분리해 내는 핵심 공정에 양자 머신러닝을 도입해 처리 비용과...",
+          "src": "g-enews",
           "date": "09/20",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204569",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202609/204569_306802_3841.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609201336008946e250e8e188_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092013385004060e250e8e18810625224987.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "노태문 삼성 사장, 美 테크 포럼서 \"AX 전환기 선도기업으로 도약\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059952?sid=105",
-      "img": "https://image.inews24.com/v1/0b0aaa8d7f2b9d.jpg"
+      "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764319",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764319_318457_2424_v150.jpg"
     },
     {
       "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
     },
     {
-      "title": "[백투더주간한국] '전기' 실컷 쓰라더니...1967년 실패 되풀이한 한전",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184824",
-      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184824_247506_1838_v150.jpg"
+      "title": "민선9기 포항시, 민생경제 회복에 미래산업·북극항로·체류형 관광까지",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=721909",
+      "img": "https://cdn.hidomin.com/news/photo/202609/721909_424344_5337.jpg"
     },
     {
-      "title": "\"우리은행, 앱에서 놓친 세금 환급금 찾아준다\"",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=319382",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/319382_322845_213.png"
+      "title": "AI가 바꾼 판교 채용 지도… 네카오 '수시·직무 중심' 체질 개선",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3434191",
+      "img": "https://cdn.newscj.com/news/thumbnail/202609/3434191_3551549_4252_v150.jpg"
     },
     {
-      "title": "(종합)현대차, 6년 만에 완전변경 ‘디 올 뉴 투싼’ 선보여⋯ 가격 10월...",
-      "url": "https://www.viva100.com/article/20260920500011",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/20/.cache/512/20260920500001.jpg?v=20260920090939"
+      "title": "보험사 AI, 잘못 쓰면 보험금·보험료 분쟁으로…통제체계 마련 시급",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110022",
+      "img": "https://cdn.fins.co.kr/news/thumbnail/202609/110022_26529_4114_v150.jpg"
     }
   ]
 };
