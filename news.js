@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.20 (일) 05:43",
+  "updatedAt": "2026.09.20 (일) 09:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 우려에 흔들린 반도체…삼전·SK하닉, 추석 앞 반등 시험대[증시전망...",
-          "desc": "대신증권은 반도체를 IT하드웨어, IT가전, 보험, 조선 등과 함께 실적 대비 저평가 업종으로 제시했다. 미... 다음 주 관심 업종으로도 삼성전자를 포함한 반도체를 제시했다. 그는 9월 FOMC의 금리 인상이 물가 압력이...",
-          "src": "디지털타임스",
+          "title": "노태문 삼성 사장, 美 테크 포럼서 \"AX 전환기 선도기업으로 도약\"",
+          "desc": "삼성전자가 스마트폰과 TV, 가전 등 기존 기기 중심의 사업을 일상 속 인공지능(AI)과 로보틱스로 확장한다. 노태문 삼성전자 대표이사 겸 DX부문장(사장)은 미국 실리콘밸리에서 글로벌 정보기술(IT) 기업 개발자들을...",
+          "src": "아이뉴스24",
           "date": "09/20",
-          "url": "https://n.news.naver.com/mnews/article/029/0003048894?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/20/news-p.v1.20260914.07c8c6f6d63249bf8bb68da4e555a6ea_R.png"
+          "url": "https://n.news.naver.com/mnews/article/031/0001059952?sid=105",
+          "img": "https://image.inews24.com/v1/0b0aaa8d7f2b9d.jpg"
         },
         {
-          "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
-          "desc": "[기자] 집 안 곳곳을 돌아다니며 청소하는 로봇청소기. 지난해 9월 한국소비자원이 중국산 제품의 보안 문제를 지적한 이후 70% 이상 시장 점유율을 보이던 중국산 제품의 공세는 한풀 꺾였습니다. 최근 삼성전자가 점유율...",
-          "src": "연합뉴스TV",
-          "date": "09/19",
-          "url": "https://n.news.naver.com/mnews/article/422/0000907720?sid=101",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260919/MYH20260919093101QJ0.jpg"
+          "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
+          "desc": "최근 로봇청소기는 먼지 흡입뿐 아니라 물걸레 세척과 건조, 장애물 회피까지 자동화하는 방향으로 기능이 빠르게 확대되고 있다. 삼성전자와 LG전자, 로보락 등이 올해 잇따라 신제품을 내놓으면서 시장 경쟁도...",
+          "src": "segye",
+          "date": "09/20",
+          "url": "https://n.news.naver.com/mnews/article/022/0004160392?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
         },
         {
-          "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
-          "desc": "드라이클리닝 비용 부담과 원룸·오피스텔 등 좁은 실내 건조 환경으로 인해 의류관리기(의류건조기 결합형)를 찾는 1인 가구가 늘고 있다. 한국소비자원은 시중에 판매 중인 주요 브랜드 의류관리기 3종(삼성전자...",
-          "src": "dailypop",
-          "date": "09/18",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=102686",
-          "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
+          "title": "\"가전 다음은 냉난방\"…삼성·LG가 히트펌프에 힘주는 이유",
+          "desc": "세탁기와 냉장고, TV에서 경쟁하던 삼성전자와 LG전자가 이제 집과 건물의 '냉난방'을 새로운 격전지로 삼고 있다. 에어컨이나 보일러 한 대를 파는 데서 벗어나 냉방·난방·급탕과 전력 사용량까지 통합 관리하는...",
+          "src": "wolyo",
+          "date": "09/20",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318051",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
         },
         {
-          "title": "영종 가전 A/S ‘원정수리’ 불편…생활서비스 인프라 확충 과제",
-          "desc": "가전·전자제품 A/S 접근성은 여전히 주민 불편으로 남아 있다. 냉장고와 세탁기, 에어컨 등 대형가전은... 삼성전자와 LG전자 등 주요 가전업체 서비스센터 설치는 기업 판단에 따라 결정되지만, 상설센터 설치가 어렵다면...",
-          "src": "livesnews",
-          "date": "09/19",
-          "url": "https://www.livesnews.com/news/article.html?no=64336",
-          "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
+          "title": "[백투더주간한국] '전기' 실컷 쓰라더니...1967년 실패 되풀이한 한전",
+          "desc": "라디오·텔레비전·냉장고 등 가전이 빠르게 보급됐다. 기업과 가정의 전기 사용량은 꾸준히 늘어갔다.... 발등에 불이 떨어진 한전은 삼성전자와 SK하이닉스에 손을 내밀었다. 5년 치 전기요금인 25조원을 미리 받아...",
+          "src": "weekly",
+          "date": "09/20",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184824",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184824_247506_1838_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[크립토리뷰] 해시드, 아부다비 투자진흥청과 MOU 체결…한국-아부다비...",
-          "desc": "해시드는 포럼에 앞서 금융, 기술, 게임, 엔터테인먼트, 제조 등 다양한 분야의 한국 주요 기업들을... GDN은 미국 달러 기반 스테이블코인 '글로벌 달러(USDG)'의 활용과 스테이블코인 도입을 확대하기 위한 글로벌...",
-          "src": "더구루",
+          "title": "\"우리은행, 앱에서 놓친 세금 환급금 찾아준다\"",
+          "desc": "우리WON뱅킹에 도입했다고 밝혔다. 별도의 플랫폼 가입이나 앱 설치 없이 우리WON뱅킹에서 관련 절차를... 제출 자료의 위·변조 여부는 덧셈컴퍼니가 자체 개발한 AI 기술을 활용해 검수한다. 덧셈컴퍼니는 세금 신고...",
+          "src": "thepublic",
           "date": "09/20",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107315",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17898204398156_f04c96.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=319382",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/319382_322845_213.png"
         },
         {
-          "title": "[美·中 정상회담] 中, 美의 'AI 개발 속도 조절' 요구 일축하며 격돌 예...",
-          "desc": "미·중 AI 현주소: 성능은 美 우위, '실생활 도입'은 中이 압도 현재 글로벌 AI 판도는 미국의 폐쇄형(Closed-weight) 프론티어 모델과 중국의 개방형(Open-weight) 모델 간의 격차가 빠르게 좁혀지는 형국이다. 기술적 연산...",
-          "src": "g-enews",
+          "title": "(종합)현대차, 6년 만에 완전변경 ‘디 올 뉴 투싼’ 선보여⋯ 가격 10월...",
+          "desc": "아웃도어 수요를 겨냥한 XRT 트림도 처음 도입된다. 주행 성능은 가솔린 모델은 최고출력 193마력, 최대토크... 차체 하부 강성을 높이고 서스펜션을 개선했으며, 하이브리드 모델에는 구동 모터를 활용해 차체 움직임을...",
+          "src": "브릿지경제",
           "date": "09/20",
-          "url": "https://www.g-enews.com/view.php?ud=2026091916434714840c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260919164440078450c8c1c064d22114611240.jpg"
+          "url": "https://www.viva100.com/article/20260920500011",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/20/.cache/512/20260920500001.jpg?v=20260920090939"
         },
         {
-          "title": "AI 시대 다음 수혜주는 어디?…AI ETF, 메모리·소부장으로 확장 중",
-          "desc": "함께 상장한 'PLUS AI반도체소부장액티브'는 반도체 소부장 기업에 보다 집중적으로 투자한다. 지수를 그대로 추종하는 대신 운용역이 고객사의 설비투자와 장비 발주, 양산 일정, 신기술 도입 등을 분석해 종목과...",
-          "src": "더구루",
+          "title": "심평원 AI 심사 첫 적용…AI의료, '조용한 수혜' 열리나 [AI헬스케어]",
+          "desc": "영상의 AI 판독 결과를 심사 참고자료로 활용해 왔고, 검증을 마친 무릎관절(퇴행성관절염) 분야부터 실제... 강화가 의료기관 급여 매출을 줄여 AI 도입 유인을 되레 깎을 가능성 역시 함께 봐야 한다\"고 말했다.",
+          "src": "이데일리",
           "date": "09/20",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107175",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_1789540129688_3d15b9.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006372771?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092000046.940x.0.png"
         },
         {
-          "title": "유럽 AI 도입, 5년간 생산성 누적 1% 증가 가능성…전력망 부담 변수",
-          "desc": "고소득 국가는 AI 활용에 필요한 기반과 전문 인력을 상대적으로 많이 갖춘 반면, 다른 국가는 기술 도입과 인력 재배치에서 뒤처질 수 있다는 분석이다. 국가별 산업 구조와 AI 노출 직종 비중도 생산성 효과의 차이를...",
-          "src": "tokenpost",
-          "date": "09/19",
-          "url": "https://www.tokenpost.kr/news/ai/410826",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/tzjy3us1mc.jpg"
+          "title": "현대차,아웃도어 감성 더한 6세대 투싼 출시…SUV 최초 '플레오스' 탑재",
+          "desc": "신형 투싼은 차체를 키워 실내 거주성을 높이고 차세대 하이브리드 시스템과 인공지능(AI) 기반 인포테인먼트 기술을 적용하며 상품성을 높였다. 아울러 정통 오프로드 감성을 더한 신규 트림인 'XRT'를 도입, 한층...",
+          "src": "sisaon",
+          "date": "09/20",
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204569",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202609/204569_306802_3841.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "AI 우려에 흔들린 반도체…삼전·SK하닉, 추석 앞 반등 시험대[증시전망...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048894?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/20/news-p.v1.20260914.07c8c6f6d63249bf8bb68da4e555a6ea_R.png"
+      "title": "노태문 삼성 사장, 美 테크 포럼서 \"AX 전환기 선도기업으로 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001059952?sid=105",
+      "img": "https://image.inews24.com/v1/0b0aaa8d7f2b9d.jpg"
     },
     {
-      "title": "\"보안·K-위생으로 맞불\"…국산 로봇청소기 반격",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907720?sid=101",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260919/MYH20260919093101QJ0.jpg"
+      "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
+      "url": "https://n.news.naver.com/mnews/article/022/0004160392?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
     },
     {
-      "title": "[자취꿀팁] \"원룸엔 소음, 직장인엔 속도\"…1인가구 맞춤형 의류관리기...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=102686",
-      "img": "http://www.dailypop.kr/news/thumbnail/202609/102686_170335_5044_v150.jpg"
+      "title": "\"가전 다음은 냉난방\"…삼성·LG가 히트펌프에 힘주는 이유",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318051",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318051_225957_4513.png"
     },
     {
-      "title": "영종 가전 A/S ‘원정수리’ 불편…생활서비스 인프라 확충 과제",
-      "url": "https://www.livesnews.com/news/article.html?no=64336",
-      "img": "https://www.livesnews.com/data/photos/20260938/art_17897733644785_f249d3.jpg"
+      "title": "[백투더주간한국] '전기' 실컷 쓰라더니...1967년 실패 되풀이한 한전",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184824",
+      "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7184824_247506_1838_v150.jpg"
     },
     {
-      "title": "[크립토리뷰] 해시드, 아부다비 투자진흥청과 MOU 체결…한국-아부다비...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=107315",
-      "img": "https://www.theguru.co.kr/data/photos/20260938/art_17898204398156_f04c96.jpg"
+      "title": "\"우리은행, 앱에서 놓친 세금 환급금 찾아준다\"",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=319382",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/319382_322845_213.png"
     },
     {
-      "title": "[美·中 정상회담] 中, 美의 'AI 개발 속도 조절' 요구 일축하며 격돌 예...",
-      "url": "https://www.g-enews.com/view.php?ud=2026091916434714840c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260919164440078450c8c1c064d22114611240.jpg"
+      "title": "(종합)현대차, 6년 만에 완전변경 ‘디 올 뉴 투싼’ 선보여⋯ 가격 10월...",
+      "url": "https://www.viva100.com/article/20260920500011",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/20/.cache/512/20260920500001.jpg?v=20260920090939"
     }
   ]
 };
