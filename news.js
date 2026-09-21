@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.22 (화) 04:30",
+  "updatedAt": "2026.09.22 (화) 08:18",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "베트남 진출 31년 된 삼성, 현지 최대 납세 명단에 없는 이유",
-          "desc": "삼성은 베트남에서 단일 법인 형태가 아니라 삼성전자 베트남(SEV), 삼성전자 베트남 타이응우옌(SEVT), 삼성디스플레이 베트남(SDV), 삼성전자 호치민 가전복합단지(SEHC), 삼성전기 베트남(SEMV), 삼성SDI 베트남(SDIV)...",
-          "src": "g-enews",
+          "title": "삼성전자서비스, 추석 연휴 '긴급 서비스' 지원",
+          "desc": "추석 연휴에도 스마트폰과 가전제품에 긴급한 문제가 생긴 고객을 위한 수리·상담 서비스가 운영된다. 삼성전자서비스는 연휴 첫날인 24일과 추석 당일인 25일 서비스센터를 휴무하고, 26일과 27일에는 전국 9개...",
+          "src": "slist",
           "date": "09/22",
-          "url": "https://www.g-enews.com/view.php?ud=202609211848343955fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092119345306160fbbec65dfb211211153121.jpg"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=767968",
+          "img": "https://cdn.slist.kr/news/thumbnail/202609/767968_1175391_1419_v150.jpg"
         },
         {
-          "title": "AI가 꼽은 국내 가전 추천 1순위는? 삼성-LG ‘양강’ 속 특정 전문분야...",
-          "desc": "김준현 에이아이빅스랩 대표는 “가전 8개 부문을 종합하면 세탁기·건조기·공기청정기·무선청소기에서는 삼성전자와 LG전자의 양강 구도가 뚜렷한 반면, 렌탈 정수기·로봇청소기·무선이어폰·헤드폰...",
-          "src": "munhwa",
-          "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/021/0002820414?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/09/21/news-p.v1.20260921.a4fa6c1829cc4c6eb34414946f7ea7dd_R.png"
-        },
-        {
-          "title": "정수기 100만원에 사도 고민…필터 값 급등에 놀라",
-          "desc": "업체들도 필터를 자가 교체할 수 있는 정수기나 냉장고를 내놓는 등 관련 시장은 커지고 있다. 하지만 계약 기간 동안 묶이는 렌털·구독료와 달리 정수기 필터 값은 계속 오를 수 있어 주의해야 한다. 삼성전자...",
-          "src": "한겨레",
-          "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/028/0002824161?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/500/750/imgdb/original/2026/0921/20260921504127.webp"
-        },
-        {
-          "title": "삼성전자, 광주 냉난방공조 생산라인 첫삽… AI데이터센터 수요 대응, 지...",
-          "desc": "노태문 삼성전자 디바이스경험(DX)부문장(사장)은 “이번 플랙트그룹 신규 생산라인 착공은 회사의 핵심 성장동력인 냉난방공조 사업의 도약을 위한 또 하나의 이정표가 될 것”이라며 “앞으로 광주사업장을 AI 가전...",
-          "src": "동아일보",
+          "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
+          "desc": "삼성전자가 대형 라인업 기조를 유지하는 가운데  LG전자와 중국 가전 브랜드인 로보락·마이디어가... 로보락은 로봇청소기 시장을 평정한 기술력을 세탁건조기 영역에 이식했다. 로보락 세탁건조기 '제오엑스(Zeo X)...",
+          "src": "소비자가만드는신문",
           "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/020/0003749857?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/21/134712654.4.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763342",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
+        },
+        {
+          "title": "[디지털 난민 보고서 ②] 가전제품 사용법 QR코드로 확인하라고?...종이...",
+          "desc": "경기도 부천시에 거주하는 박 모(남)씨는 삼성전자에서 구매한 세탁기의 사용법을 익히려고 포장 박스를 살펴보다 당황했다. 책자로된 사용설명서를 찾았지만 두어장 밖에 안되는 분량의 요약본만 들어있었기 때문이다....",
+          "src": "소비자가만드는신문",
+          "date": "09/22",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764008",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764008_318306_834_v150.jpg"
+        },
+        {
+          "title": "삼성전자서비스, 추석 연휴 긴급 수리 지원…26~27일 주말케어센터 운영",
+          "desc": "냉장고의 냉동·냉장 기능 이상처럼 긴급 점검이 필요한 경우 출장서비스를 지원할 예정이다. 삼성전자서비스는 홈페이지를 통해 제품별 자가진단 방법과 자주 묻는 질문, 해결 방법 등을 안내하고 AI 챗봇 서비스도...",
+          "src": "핀포인트뉴스",
+          "date": "09/22",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489360",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489360_475332_1036_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "HBM에 웃는 파운드리… 삼성, 4나노 증설 채비",
-          "desc": "SK하이닉스가 HBM4 베이스다이에 대만 TSMC의 12나노 공정을 활용하는 것과 달리 삼성전자는 자체 4나노... HBM5에 2나노 공정을 선제적으로 도입해 기술 리더십을 확고히 한다는 전략이다. 삼성전자의 HBM 공급확대...",
-          "src": "머니투데이",
+          "title": "LS일렉트릭, 부산사업장에 4족 보행로봇 도입…스마트 팩토리 고도화",
+          "desc": "LS일렉트릭 관계자는 \"AI와 로봇 기술을 제조 현장에 적극 접목해 품질, 가격, 납기 경쟁력을 확보할 계획\"이라며 \"부산사업장에 우선 도입되는 보행로봇 기반 스마트 관리 체계를 시작으로 전 사업장 디지털 전환을...",
+          "src": "핀포인트뉴스",
           "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/008/0005417004?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092119545912109_1.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489361",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489361_475334_1238_v150.jpg"
         },
         {
-          "title": "애플·엔비디아 몰려간다… TSMC, 1.4나노 공장 4곳 2028년 출격",
-          "desc": "대만 중부과학단지 4개 공장 건설 대만 TSMC가 서브 2나노 영역인 1.4나노미터 공정 도입을 위해 대만... 다만 해당 내용은 경제일보의 보도에 기반한 관측으로, 향후 시장 수요와 기술 개발 여건에 따라 일정은...",
-          "src": "g-enews",
+          "title": "오픈AI \"미국, AI 표준 주도해야\"...한국과 협력 제시",
+          "desc": "국제적 AI 표준을 마련하는 방안 중 하나로 각국에 이미 설립된 AI 안전 연구소들로 구성된 네트워크를 활용... 그러면서 \"지정학적 경쟁은 단순히 누가 기술적으로 앞서느냐의 문제에 그치지 않고, AI의 도입과 확산을...",
+          "src": "ytn",
           "date": "09/22",
-          "url": "https://www.g-enews.com/view.php?ud=20260921193509563fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092119485205852fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002410068?sid=104",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0922/202609220813027769_t.jpg"
         },
         {
-          "title": "암호화폐 덮친 AI 해킹...\"인간이 5년간 못 본 코드 털어 1억 달러 챙겼...",
-          "desc": "인공지능 기반 보안 감사 체계를 선제적으로 도입해 잠재적 악성 위협을 사전에 방어할 수 있을지 시장의 관심이 쏠리고 있다. [기사 핵심 요약] -인공지능(AI)이 수년간 방치된 블록체인 코드를 재분석하며...",
-          "src": "coinreaders",
+          "title": "'언론과 상생' 내세운 포털 다음, 'AI 인용'에 수익 지급키로",
+          "desc": "안정적인 파트너십을 위한 ‘고정 전재료’ 도입, 인공지능(AI)과 관련해 ‘뉴스 인용량에 따른 신규 비용... 이후 다음이 AI 정제 기술 및 고도화된 검색 기술로 고도화된 데이터로 가공해 '단순 검색 패키지', '본문 활용...",
+          "src": "journalist",
           "date": "09/22",
-          "url": "http://coinreaders.com/259470",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202606/800_800_2026060247599499.png"
+          "url": "https://n.news.naver.com/mnews/article/127/0000039806?sid=102",
+          "img": "http://www.journalist.or.kr/data/photos/cdn/20260939/art_1789981775.png"
         },
         {
-          "title": "㈜바다플랫폼, GITEX AI Europe 2026서 유럽시장 진출 기반 확대",
-          "desc": "LifeLogic과는 세이피안의 폴란드 사립학교 도입 가능성을 검토하고 현지 실증을 추진하는 한편, 향후... GITEX AI Europe 2026 참가는 세이피안의 기술과 서비스가 해외 현장에서 어떻게 활용될 수 있는지 가능성을...",
-          "src": "fntoday",
+          "title": "LS일렉트릭, 초고압 변압기 공장에 4족 로봇 투입…스마트팩토리 고도화",
+          "desc": "com LS일렉트릭은 최근 부산사업장에 보스턴 다이내믹스(Boston Dynamics)의 4족 보행로봇 ‘Spot(스팟)’을 도입... LS일렉트릭 관계자는 \"AI와 로봇 기술을 제조 현장에 적극 접목해 품질과 가격, 납기 경쟁력을 확보할 계획...",
+          "src": "아주경제",
           "date": "09/22",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393649",
-          "img": "https://www.fntoday.co.kr/news/thumbnail/202609/393649_317578_5730_v150.jpg"
+          "url": "https://www.ajunews.com/view/20260922080133646",
+          "img": "https://image.ajunews.com/content/image/2026/09/22/20260922080400750979.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "하나證 “삼성전자 네트워크 점유율 확대 가능성⋯국내 장비주 수혜”",
+          "desc": "줄더라도 삼성전자의 비중이 커지는 방향으로 재편된다면 국내 협력사의 매출에는 오히려 긍정적일 수 있다는 분석이다. 화웨이의 글로벌 시장점유율 확대 과정에서 콤바와 대북과기, 우한핑구 등 중국 장비·부품...",
+          "src": "이투데이",
+          "date": "09/22",
+          "url": "https://www.etoday.co.kr/news/view/2628249",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260922074509_2391669_721_480.JPG"
+        },
+        {
+          "title": "[시대리포트]한국 제조현장, 피지컬AI 승부처",
+          "desc": "삼성전자·SK그룹·현대자동차그룹에 각각 약 5만장, 네이버클라우드에 약 6만장, 정부 주도 AI 인프라에 약... 한국 역시 개별 공장의 성과를 다른 공장과 협력사로 확산하는 체계가 필요하다는 지적이 나온다....",
+          "src": "sidae",
+          "date": "09/22",
+          "url": "https://n.news.naver.com/mnews/article/417/0001158961?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/18/00/2026091812180398691_1.jpg"
+        },
         {
           "title": "삼성전자, 광주사업장에 플랙트그룹 HVAC 공장 착공... 2028년 초 양산 돌...",
           "desc": "글로벌 인공지능 데이터센터의 폭발적인 전력 소모와 발열 문제가 핵심 화두로 떠오른 가운데 삼성전자가... 채용과 부품 협력사 기술 이전을 통해 호남권 제조 벨트의 활성화도 꾀한다. 노태문 사장은 플랙트그룹과의...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/21",
           "url": "https://www.smartbizn.com/news/articleView.html?idxno=154398",
           "img": "https://cdn.smartbizn.com/news/photo/202609/154398_261014_5638.png"
-        },
-        {
-          "title": "[재계 투데이] SK하이닉스, 학력 안 보는 AI 해커톤 개최 外",
-          "desc": "◆삼성전자, 플랙트 HVAC 생산라인 착공 삼성전자가 전남광주통합특별시 광주사업장에 플랙트그룹의... 최신 부품 정보를 AI가 직접 탐색·분석하고 시스템에 반영하도록 기능을 고도화할 계획이다. ◆한화, 협력사...",
-          "src": "news",
-          "date": "09/21",
-          "url": "https://news.dealsitetv.com/articles/176205",
-          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/89dce911d21d6809af8828171be61e19/thumb.jpg"
-        },
-        {
-          "title": "[더벨]파인엠텍, 북미 고객 물량 확대 '4분기 집중'",
-          "desc": "이러한 추세가 강해지면 삼성전자향 백플레이트 물량 감소세도 늦출 수 있게 된다. 전자업계 관계자는 \"양사가 폴더블폰 부문에서 경쟁하는 구도가 만들어지면서 양쪽에 부품을 조달하는 협력사는 뒤에서 미소를 짓는...",
-          "src": "더벨",
-          "date": "09/21",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171513407960105346",
-          "img": ""
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "베트남 진출 31년 된 삼성, 현지 최대 납세 명단에 없는 이유",
-      "url": "https://www.g-enews.com/view.php?ud=202609211848343955fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092119345306160fbbec65dfb211211153121.jpg"
+      "title": "삼성전자서비스, 추석 연휴 '긴급 서비스' 지원",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=767968",
+      "img": "https://cdn.slist.kr/news/thumbnail/202609/767968_1175391_1419_v150.jpg"
     },
     {
-      "title": "AI가 꼽은 국내 가전 추천 1순위는? 삼성-LG ‘양강’ 속 특정 전문분야...",
-      "url": "https://n.news.naver.com/mnews/article/021/0002820414?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/09/21/news-p.v1.20260921.a4fa6c1829cc4c6eb34414946f7ea7dd_R.png"
+      "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763342",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
     },
     {
-      "title": "정수기 100만원에 사도 고민…필터 값 급등에 놀라",
-      "url": "https://n.news.naver.com/mnews/article/028/0002824161?sid=101",
-      "img": "https://flexible.img.hani.co.kr/flexible/normal/500/750/imgdb/original/2026/0921/20260921504127.webp"
+      "title": "[디지털 난민 보고서 ②] 가전제품 사용법 QR코드로 확인하라고?...종이...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764008",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764008_318306_834_v150.jpg"
     },
     {
-      "title": "삼성전자, 광주 냉난방공조 생산라인 첫삽… AI데이터센터 수요 대응, 지...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003749857?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/21/134712654.4.jpg"
+      "title": "삼성전자서비스, 추석 연휴 긴급 수리 지원…26~27일 주말케어센터 운영",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489360",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489360_475332_1036_v150.jpg"
     },
     {
-      "title": "HBM에 웃는 파운드리… 삼성, 4나노 증설 채비",
-      "url": "https://n.news.naver.com/mnews/article/008/0005417004?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092119545912109_1.jpg"
+      "title": "LS일렉트릭, 부산사업장에 4족 보행로봇 도입…스마트 팩토리 고도화",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489361",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489361_475334_1238_v150.jpg"
     },
     {
-      "title": "애플·엔비디아 몰려간다… TSMC, 1.4나노 공장 4곳 2028년 출격",
-      "url": "https://www.g-enews.com/view.php?ud=20260921193509563fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092119485205852fbbec65dfb211211153121.jpg"
+      "title": "오픈AI \"미국, AI 표준 주도해야\"...한국과 협력 제시",
+      "url": "https://n.news.naver.com/mnews/article/052/0002410068?sid=104",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0922/202609220813027769_t.jpg"
     }
   ]
 };
