@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.21 (월) 07:28",
+  "updatedAt": "2026.09.21 (월) 14:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"가전은 역시 LG\"라더니…삼성 TV 관심 폭발한 '진짜 이유' [텔레비전(戰...",
-          "desc": "삼성전자가 LG전자로 쏠린 관심을 끌어오는 데 성공했다. 실제 올해 국내 TV 소비자들은 온라인상에서 LG전자보다 삼성전자에 주목했다. 소비자들이 TV 탐색 과정에서 삼성전자를 언급한 건수는 60만건으로 두 배 이상...",
-          "src": "한국경제",
+          "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
+          "desc": "삼성전자는 이번 행사에서 AI 기반 통합 연결 플랫폼인 '스마트싱스'를 기반으로 가사 부담을 덜고 에너지를 효율적으로 관리하며 가족의 일상까지 살피는 '일상 속 AI 동반자'로서 삼성전자 AI 가전의 가치를 강조했다....",
+          "src": "ibabynews",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/015/0005334431?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/01.45712927.1.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
+          "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
         },
         {
-          "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
-          "desc": "삼성전자는 CES 2026에서도 AI가 적용된 가전과 스마트싱스 등을 기반으로 사용자의 일상을 지원하는 '홈 컴패니언' 전략을 공개한 바 있다. 냉장고와 로봇청소기 등 기존 가전에 생성형 AI와 센서 기술을 접목해 기기가...",
-          "src": "소비자가만드는신문",
-          "date": "09/20",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764319",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764319_318457_2424_v150.jpg"
+          "title": "[창간기획] AI가 바꾸는 일상/ 삼성전자, 기상부터 출근까지 AI 집사 활...",
+          "desc": "로봇청소기는 지난해 과학기술정보통신부의 사물인터넷 보안 인증에서 최고 등급을 받아 신뢰성도 검증받았다. 이런 흐름은 지난 4일부터 8일까지 독일 베를린에서 열린 IFA 2026에서 다음 단계로 이어졌다. 삼성전자...",
+          "src": "전자신문",
+          "date": "09/21",
+          "url": "https://n.news.naver.com/mnews/article/030/0003468779?sid=101",
+          "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.95811e5ce1724b2a9373e007833fb728_P1.jpg"
         },
         {
-          "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
-          "desc": "삼성전자는 공기청정기·제습기를 대상으로 ‘쾌적한 일상을 선물한다’는 콘셉트의 추석 프로모션을 진행 중이다. 세탁·건조기 등 의류관리 가전 역시 한가위 특별전에서 판매하고 있다. LG전자도 건강가전 수요를...",
-          "src": "segye",
-          "date": "09/20",
-          "url": "https://n.news.naver.com/mnews/article/022/0004160392?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
+          "title": "에이아이빅스랩, 가전 AI 브랜드 경쟁력 분석",
+          "desc": "세탁기는 LG전자가 82.6점으로 삼성전자(68.6점)를 앞섰으며, 건조기도 LG전자가 74.5점으로 삼성전자(68.1점)보다 높았다. 반면 공기청정기는 삼성전자 72.3점, LG전자 70.8점으로 격차가 1.5점에 그쳤고, 무선청소기는 두...",
+          "src": "한스경제",
+          "date": "09/21",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867044",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/867044_891103_209_v150.jpg"
         },
         {
-          "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
-          "desc": "따라서 이전에 쓰던 세탁기의 칸 위치를 그대로 기억해 세제를 넣으면 맞지 않을 수 있다. 삼성전자는 세제함 사용 안내에서 모델에 따라 칸의 위치와 구성이 달라질 수 있다고 설명했다. 구분이 어려울 때는 서랍의 표시와...",
-          "src": "vegannews",
-          "date": "09/20",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
-          "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
+          "title": "삼성, 광주에 2400억 투자…AI 데이터센터 냉각시장 공략 속도",
+          "desc": "삼성전자는 광주를 AI 가전과 HVAC을 함께 생산하는 거점으로 육성할 계획이다. 노태문 삼성전자 DX부문 대표이사 사장은 \"이번 플랙트그룹 신규 생산라인 착공은 회사의 핵심 성장동력인 HVAC 사업의 도약을 위한 또...",
+          "src": "서울신문",
+          "date": "09/21",
+          "url": "http://www.metroseoul.co.kr/article/20260921500281",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/21/.cache/512/20260921500282.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "전남테크노파크-국립목포대학교, 로봇 도입 희망 기업에 활용 교육",
-          "desc": "지난 16일 진행된 이번 교육은 '2026년 첨단로봇·AI 활용 중소기업 제조 혁신 사업'의 일환으로 마련됐다. 지역기업의 로봇 도입 과정에서 발생하는 기술적 진입장벽을 낮추고, 로봇 도입과 활용에 필요한 기초 지식 및 실무...",
-          "src": "newsmaker",
+          "title": "파수AI, 국정원 'CSK 2026' 참가…다층적 AI 보안 전략 제시",
+          "desc": "솔루션 'AI DLP'를 선보였다. 해당 솔루션은 자연어처리(NLP) 기술과 딥러닝 기술을 활용해 문맥을 이해하고... 해외 정부 기관이 도입한 '파수 엔터프라이즈 디알엠(FED)' 활용 사례도 공유했다. 손중곤 파수AI 상무는...",
+          "src": "디지털데일리",
           "date": "09/21",
-          "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=182890",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/138/0002242211?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/21/2026092113490763838_l.jpg"
         },
         {
-          "title": "[기획] AI 물관리로 에너지까지 최적화…K-water, 물에너지 10GW 승부수",
-          "desc": "양수발전과 AI 물관리 기술을 결합하는 전략을 추진하고 있다. 2030년까지 약 8.5GW를 신규 개발해 누적 10GW... 설비관리에도 AI를 활용할 수 있다. 수차와 발전기, 태양광 모듈, 계류장치, 펌프에서 발생하는 진동·온도...",
-          "src": "energydaily",
+          "title": "\"AI 전력 공포는 착시\"… 월가 기후 거물들 \"탄소 배출 5대 주범에도 못...",
+          "desc": "선제 도입하며 전력망 부담과 화석연료 의존을 기술력으로 정면 돌파하고 있다. \"매립지 배출량보다 미미\"… 과장된 AI 전력 공포에 찬물 끼얹은 월가 20일(현지시각) 블룸버그에 따르면, 미국 투자은행 제프리스(NYSE...",
+          "src": "impacton",
           "date": "09/21",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203432",
-          "img": "https://cdn.energydaily.co.kr/news/photo/202609/203432_203090_3652.jpg"
+          "url": "http://www.impacton.net/news/articleView.html?idxno=20404",
+          "img": "https://cdn.impacton.net/news/thumbnail/202609/20404_32053_5639_v150.jpg"
         },
         {
-          "title": "“더 빠르고 정확하게”…배달앱, AI·데이터 기술 경쟁",
-          "desc": "도입한다. 기존에는 점주가 조리와 배달에 걸리는 시간을 직접 예상해 입력해야 했다. 배민은 AI를 활용해... 쿠팡이츠는 배달기사가 가게 위치를 보다 정확하게 찾을 수 있도록 최근 ‘가게 좌표 최적화’ 기술을...",
-          "src": "서울경제",
+          "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
+          "desc": "특히 '비스포크 AI 무풍 프로' 에어컨의 송풍 날개인 '모션 블레이드'를 활용한 5가지 기류 제어 기술을... 우녹스 코리아 관계자는 \"스피드컴팩트에코는 전문 오븐의 성능은 유지하면서 공간과 설치 제약으로 도입을...",
+          "src": "ibabynews",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260920.68a67695792247abb3fb84b593c1b7d1_Z1.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
+          "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
         },
         {
-          "title": "AI 발전 노벨상에 복합 영향···\"과학 발전 속도···신뢰성 확보 관...",
-          "desc": "인공지능(AI) 기술이 빠르게 발전하면서 125년의 역사를 지닌 과학분야 최고 권위의 상인 ‘노벨상’에도... 화학 분야에서도 AI 도입에 따라 연구 결과를 검증하는 속도가 빨라지고 있다는 평가가 나왔다. 2021년...",
-          "src": "이데일리",
+          "title": "CJ제일제당, 직무 체험형 'CJ UNBOUND' 첫 선…\"AI·현업 경험 중심으로 ...",
+          "desc": "이어 'AI×WORK' 세션에서는 CJ제일제당의 마케팅 인텔리전스 설루션 'FOOD AI 360'을 소개하며 AI 기술이... 식품·기술소재·핵심소재 등 사업부문 현직자들이 직무를 소개했다. 2024년 도입된 식품사업 특화 전형 'Future...",
+          "src": "핀포인트뉴스",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/018/0006373311?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092100105.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489116",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489116_475123_5639_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "재계, 추석 앞두고 10조 푼다···협력사 유동성 지원 넘어 상생 확대",
+          "desc": "삼성전자·삼성물산·삼성바이오로직스·삼성디스플레이·삼성전기 등이 대상이다. 지난해 추석보다 지원... 향후 5년간 1조4000억원 규모의 상생 자금을 활용해 반도체 소재·부품·장비 협력사 지원을 강화할...",
+          "src": "smartbizn",
+          "date": "09/21",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=154398",
+          "img": "https://cdn.smartbizn.com/news/photo/202609/154398_261014_5638.png"
+        },
+        {
+          "title": "[재계 투데이] SK하이닉스, 학력 안 보는 AI 해커톤 개최 外",
+          "desc": "◆삼성전자, 플랙트 HVAC 생산라인 착공 삼성전자가 전남광주통합특별시 광주사업장에 플랙트그룹의... 최신 부품 정보를 AI가 직접 탐색·분석하고 시스템에 반영하도록 기능을 고도화할 계획이다. ◆한화, 협력사...",
+          "src": "news",
+          "date": "09/21",
+          "url": "https://news.dealsitetv.com/articles/176205",
+          "img": ""
+        },
         {
           "title": "[더벨]파인엠텍, 북미 고객 물량 확대 '4분기 집중'",
           "desc": "이러한 추세가 강해지면 삼성전자향 백플레이트 물량 감소세도 늦출 수 있게 된다. 전자업계 관계자는 \"양사가 폴더블폰 부문에서 경쟁하는 구도가 만들어지면서 양쪽에 부품을 조달하는 협력사는 뒤에서 미소를 짓는...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/20",
           "url": "https://n.news.naver.com/mnews/article/018/0006373247?sid=100",
           "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
-        },
-        {
-          "title": "\"대기업 로봇 투자 흐름 잡아라\"… 경북도, 경산서 로봇 부품 공급망 진...",
-          "desc": "현대차그룹의 새만금 9조 원 투자와 삼성전자의 구미 휴머노이드 양산 체계 구축 등 국내 대기업들의 로봇... 자동차 부품 수주 물량이 감소하면서 생길 단기적인 매출 타격을 견디지 못하는 중소 협력사들이 속출할 수...",
-          "src": "thebk",
-          "date": "09/20",
-          "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311804",
-          "img": "https://cdn.thebk.co.kr/news/photo/202609/311804_82313_345.jpg"
-        },
-        {
-          "title": "\"칩 2배 팔겠다\" 황의 호언 뒤편…40개월 장비 덫에 갇힌 K-반도체",
-          "desc": "이 같은 장비 조달 지연은 삼성전자 평택 공장과 SK하이닉스 용인 공장의 신규 팹 가동 일정을 늦추는 요인이다. 부품 협력사의 공급망 확충이 신속하게 이뤄져 부품 납기가 조기에 정상화된다면 증설 지연...",
-          "src": "g-enews",
-          "date": "09/19",
-          "url": "https://www.g-enews.com/view.php?ud=202609190913126404fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026091910050407956fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"가전은 역시 LG\"라더니…삼성 TV 관심 폭발한 '진짜 이유' [텔레비전(戰...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334431?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/01.45712927.1.png"
+      "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
+      "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
     },
     {
-      "title": "삼성전자, 美 실리콘밸리서 '2026 테크 포럼' 개최...AI·로보틱스 전략...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764319",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764319_318457_2424_v150.jpg"
+      "title": "[창간기획] AI가 바꾸는 일상/ 삼성전자, 기상부터 출근까지 AI 집사 활...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003468779?sid=101",
+      "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.95811e5ce1724b2a9373e007833fb728_P1.jpg"
     },
     {
-      "title": "추석 선물도 건강·가사해방…2명 중 1명 받고 싶다는 가전",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160392?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/20/20260920501346.jpg"
+      "title": "에이아이빅스랩, 가전 AI 브랜드 경쟁력 분석",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867044",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/867044_891103_209_v150.jpg"
     },
     {
-      "title": "세탁기 세제함, 자동 투입칸과 수동 투입칸은 다르다",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=386427",
-      "img": "https://www.vegannews.co.kr/data/photos/20260938/art_17899014875169_12c873.jpg"
+      "title": "삼성, 광주에 2400억 투자…AI 데이터센터 냉각시장 공략 속도",
+      "url": "http://www.metroseoul.co.kr/article/20260921500281",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/21/.cache/512/20260921500282.jpg"
     },
     {
-      "title": "[기획] AI 물관리로 에너지까지 최적화…K-water, 물에너지 10GW 승부수",
-      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203432",
-      "img": "https://cdn.energydaily.co.kr/news/photo/202609/203432_203090_3652.jpg"
+      "title": "파수AI, 국정원 'CSK 2026' 참가…다층적 AI 보안 전략 제시",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242211?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/09/21/2026092113490763838_l.jpg"
     },
     {
-      "title": "“더 빠르고 정확하게”…배달앱, AI·데이터 기술 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260920.68a67695792247abb3fb84b593c1b7d1_Z1.png"
+      "title": "\"AI 전력 공포는 착시\"… 월가 기후 거물들 \"탄소 배출 5대 주범에도 못...",
+      "url": "http://www.impacton.net/news/articleView.html?idxno=20404",
+      "img": "https://cdn.impacton.net/news/thumbnail/202609/20404_32053_5639_v150.jpg"
     }
   ]
 };
