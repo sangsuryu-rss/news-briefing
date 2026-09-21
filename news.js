@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.21 (월) 14:00",
+  "updatedAt": "2026.09.21 (월) 21:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
-          "desc": "삼성전자는 이번 행사에서 AI 기반 통합 연결 플랫폼인 '스마트싱스'를 기반으로 가사 부담을 덜고 에너지를 효율적으로 관리하며 가족의 일상까지 살피는 '일상 속 AI 동반자'로서 삼성전자 AI 가전의 가치를 강조했다....",
-          "src": "ibabynews",
+          "title": "\"아파트 샀으니 그 다음은\"…2030 반도체맨 지갑 열린 곳",
+          "desc": "역대급 성과급을 받을 것으로 예상되는 삼성전자와 SK하이닉스의 20~30대 직원들이 주로 가전과 명품 쇼핑에 지갑을 연 것으로 나타났다. 21일 롯데백화점에 따르면 삼성전자, SK하이닉스 생산공장과 인접한 동탄점의...",
+          "src": "한국경제",
           "date": "09/21",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
-          "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005334878?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/02.45776531.1.jpg"
         },
         {
-          "title": "[창간기획] AI가 바꾸는 일상/ 삼성전자, 기상부터 출근까지 AI 집사 활...",
-          "desc": "로봇청소기는 지난해 과학기술정보통신부의 사물인터넷 보안 인증에서 최고 등급을 받아 신뢰성도 검증받았다. 이런 흐름은 지난 4일부터 8일까지 독일 베를린에서 열린 IFA 2026에서 다음 단계로 이어졌다. 삼성전자...",
-          "src": "전자신문",
+          "title": "AI가 꼽은 국내 가전 추천 1순위는? 삼성-LG ‘양강’ 속 특정 전문분야...",
+          "desc": "김준현 에이아이빅스랩 대표는 “가전 8개 부문을 종합하면 세탁기·건조기·공기청정기·무선청소기에서는 삼성전자와 LG전자의 양강 구도가 뚜렷한 반면, 렌탈 정수기·로봇청소기·무선이어폰·헤드폰...",
+          "src": "munhwa",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/030/0003468779?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.95811e5ce1724b2a9373e007833fb728_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/021/0002820414?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/09/21/news-p.v1.20260921.a4fa6c1829cc4c6eb34414946f7ea7dd_R.png"
         },
         {
-          "title": "에이아이빅스랩, 가전 AI 브랜드 경쟁력 분석",
-          "desc": "세탁기는 LG전자가 82.6점으로 삼성전자(68.6점)를 앞섰으며, 건조기도 LG전자가 74.5점으로 삼성전자(68.1점)보다 높았다. 반면 공기청정기는 삼성전자 72.3점, LG전자 70.8점으로 격차가 1.5점에 그쳤고, 무선청소기는 두...",
-          "src": "한스경제",
+          "title": "삼성전자, 광주 공조에 2400억… AI 사업, 메모리서 냉각설비로 확대",
+          "desc": "안 의원실에 따르면, 삼성전자는 지난해 인수한 플랙트그룹의 기술과 사업 역량을 활용해 광주 생산거점을 구축한다. 냉장고와 에어컨 등을 생산해온 광주사업장의 사업 영역이 데이터센터와 첨단 제조시설용 냉각...",
+          "src": "newsroad",
           "date": "09/21",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867044",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/867044_891103_209_v150.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=64714",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202609/64714_87704_5152_v150.jpg"
         },
         {
-          "title": "삼성, 광주에 2400억 투자…AI 데이터센터 냉각시장 공략 속도",
-          "desc": "삼성전자는 광주를 AI 가전과 HVAC을 함께 생산하는 거점으로 육성할 계획이다. 노태문 삼성전자 DX부문 대표이사 사장은 \"이번 플랙트그룹 신규 생산라인 착공은 회사의 핵심 성장동력인 HVAC 사업의 도약을 위한 또...",
-          "src": "서울신문",
+          "title": "삼성전자, 광주에 2400억원 투자…AI 데이터센터용 HVAC 생산라인 짓는다",
+          "desc": "삼성전자는 기존 AI 가전 생산 기반에 차세대 HVAC 솔루션 생산을 더해 광주사업장을 첨단 제조 거점으로 육성한다는 계획이다. 신규 라인은 착공 이후 완공과 양산 안정화 단계까지 안전관리를 강화하고 지역 인재...",
+          "src": "straightnews",
           "date": "09/21",
-          "url": "http://www.metroseoul.co.kr/article/20260921500281",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/21/.cache/512/20260921500282.jpg"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311727",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202609/311727_223231_454_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "파수AI, 국정원 'CSK 2026' 참가…다층적 AI 보안 전략 제시",
-          "desc": "솔루션 'AI DLP'를 선보였다. 해당 솔루션은 자연어처리(NLP) 기술과 딥러닝 기술을 활용해 문맥을 이해하고... 해외 정부 기관이 도입한 '파수 엔터프라이즈 디알엠(FED)' 활용 사례도 공유했다. 손중곤 파수AI 상무는...",
-          "src": "디지털데일리",
+          "title": "안전총괄과 박서하 팀장, 울산 울주군 첫 'AI 챔피언' 탄생",
+          "desc": "위해 도입한 제도다. 실무 기획 역량을 평가하는 '그린(Green)'과 데이터 분석·개발 역량을 평가하는 '블루(Blue)' 등으로 나눠 인증 등급을 부여한다. 박 팀장은 습득한 기술을 활용해 '국 일정관리 웹페이지'를 직접...",
+          "src": "ulsanpress",
           "date": "09/21",
-          "url": "https://n.news.naver.com/mnews/article/138/0002242211?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/21/2026092113490763838_l.jpg"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=583535",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202609/583535_280536_3614_v150.jpg"
         },
         {
-          "title": "\"AI 전력 공포는 착시\"… 월가 기후 거물들 \"탄소 배출 5대 주범에도 못...",
-          "desc": "선제 도입하며 전력망 부담과 화석연료 의존을 기술력으로 정면 돌파하고 있다. \"매립지 배출량보다 미미\"… 과장된 AI 전력 공포에 찬물 끼얹은 월가 20일(현지시각) 블룸버그에 따르면, 미국 투자은행 제프리스(NYSE...",
-          "src": "impacton",
+          "title": "청주대, 충북 최초 엔비디아 AI 슈퍼컴퓨터 도입···학부 수업서 활용",
+          "desc": "인공지능(AI) 슈퍼컴퓨터 'DGX Spark' 20대를 도입해 학부 전공수업에 본격 활용하고 있다고 21일 밝혔다.... 충북지역 대학이 교육용으로 해당 장비를 도입한 것은 청주대가 처음이다. 과학기술정보통신부와...",
+          "src": "enewstoday",
           "date": "09/21",
-          "url": "http://www.impacton.net/news/articleView.html?idxno=20404",
-          "img": "https://cdn.impacton.net/news/thumbnail/202609/20404_32053_5639_v150.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473157",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2473157_1316151_4431_v150.jpg"
         },
         {
-          "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
-          "desc": "특히 '비스포크 AI 무풍 프로' 에어컨의 송풍 날개인 '모션 블레이드'를 활용한 5가지 기류 제어 기술을... 우녹스 코리아 관계자는 \"스피드컴팩트에코는 전문 오븐의 성능은 유지하면서 공간과 설치 제약으로 도입을...",
-          "src": "ibabynews",
+          "title": "좁고 낡은 임대 아파트는 옛말... 3~4베이 설계에 층간소음 1등급 적용된...",
+          "desc": "확대 도입된다. 주택 내부의 주거 품질 개선을 위한 기술적 기준도 강화된다. 층간소음 문제를 해결하기 위해 신축 임대주택에는 바닥구조 1등급 설계가 적용되며 에어컨과 세탁기 냉장고 등 인공지능(AI)과 사물인터넷...",
+          "src": "wikitree",
           "date": "09/21",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
-          "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1161145",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/21/img_20260921212506_5deec2a7.jpg"
         },
         {
-          "title": "CJ제일제당, 직무 체험형 'CJ UNBOUND' 첫 선…\"AI·현업 경험 중심으로 ...",
-          "desc": "이어 'AI×WORK' 세션에서는 CJ제일제당의 마케팅 인텔리전스 설루션 'FOOD AI 360'을 소개하며 AI 기술이... 식품·기술소재·핵심소재 등 사업부문 현직자들이 직무를 소개했다. 2024년 도입된 식품사업 특화 전형 'Future...",
-          "src": "핀포인트뉴스",
+          "title": "[건설소식] 삼성물산 건설부문·대우건설·호반그룹·현대건설·GS건설·...",
+          "desc": "핵심 기술을 적용해 기존에는 볼 수 없었던 실내 공간으로 구현한다. 커뮤니티는 약 1만2578평(세대당 7.2평)... 지원 직무에 대한 관심과 탐구 경험을 확인하고, 새롭게 도입한 'AI Open 인터뷰'를 통해 AI를 활용해 정보를...",
+          "src": "sports",
           "date": "09/21",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489116",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489116_475123_5639_v150.jpg"
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6940109",
+          "img": "https://cdn.sports.hankooki.com/news/thumbnail/202609/6940109_1216035_1525_v150.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@ window.NEWS_DATA = {
           "src": "news",
           "date": "09/21",
           "url": "https://news.dealsitetv.com/articles/176205",
-          "img": ""
+          "img": "https://d2k8i5ah8p7h3l.cloudfront.net/photos/89dce911d21d6809af8828171be61e19/thumb.jpg"
         },
         {
           "title": "[더벨]파인엠텍, 북미 고객 물량 확대 '4분기 집중'",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[가전트렌드] LG전자, '구독이득' 캠페인 전개…전문케어 서비스 알린다...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154704",
-      "img": "https://www.ibabynews.com/news/photo/202609/154704_122293_2349.jpg"
+      "title": "\"아파트 샀으니 그 다음은\"…2030 반도체맨 지갑 열린 곳",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334878?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/02.45776531.1.jpg"
     },
     {
-      "title": "[창간기획] AI가 바꾸는 일상/ 삼성전자, 기상부터 출근까지 AI 집사 활...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003468779?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.95811e5ce1724b2a9373e007833fb728_P1.jpg"
+      "title": "AI가 꼽은 국내 가전 추천 1순위는? 삼성-LG ‘양강’ 속 특정 전문분야...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002820414?sid=101",
+      "img": "https://wimg.munhwa.com/news/cms/2026/09/21/news-p.v1.20260921.a4fa6c1829cc4c6eb34414946f7ea7dd_R.png"
     },
     {
-      "title": "에이아이빅스랩, 가전 AI 브랜드 경쟁력 분석",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867044",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202609/867044_891103_209_v150.jpg"
+      "title": "삼성전자, 광주 공조에 2400억… AI 사업, 메모리서 냉각설비로 확대",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=64714",
+      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202609/64714_87704_5152_v150.jpg"
     },
     {
-      "title": "삼성, 광주에 2400억 투자…AI 데이터센터 냉각시장 공략 속도",
-      "url": "http://www.metroseoul.co.kr/article/20260921500281",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/09/21/.cache/512/20260921500282.jpg"
+      "title": "삼성전자, 광주에 2400억원 투자…AI 데이터센터용 HVAC 생산라인 짓는다",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311727",
+      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202609/311727_223231_454_v150.jpg"
     },
     {
-      "title": "파수AI, 국정원 'CSK 2026' 참가…다층적 AI 보안 전략 제시",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242211?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/09/21/2026092113490763838_l.jpg"
+      "title": "안전총괄과 박서하 팀장, 울산 울주군 첫 'AI 챔피언' 탄생",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=583535",
+      "img": "https://cdn.ulsanpress.net/news/thumbnail/202609/583535_280536_3614_v150.jpg"
     },
     {
-      "title": "\"AI 전력 공포는 착시\"… 월가 기후 거물들 \"탄소 배출 5대 주범에도 못...",
-      "url": "http://www.impacton.net/news/articleView.html?idxno=20404",
-      "img": "https://cdn.impacton.net/news/thumbnail/202609/20404_32053_5639_v150.jpg"
+      "title": "청주대, 충북 최초 엔비디아 AI 슈퍼컴퓨터 도입···학부 수업서 활용",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473157",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2473157_1316151_4431_v150.jpg"
     }
   ]
 };
