@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.22 (화) 20:42",
+  "updatedAt": "2026.09.23 (수) 01:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"AI·스마트싱스로 유럽 주방 공략\"…삼성전자, 독일 뢰네에 145평 규모...",
-          "desc": "삼성전자가 유럽 빌트인 가전 최대 주요 시장인 독일에 상설 쇼룸을 개관하며 현지 B2B 시장 공략에 속도를 낸다. 삼성전자는 유럽 대표 주방 가구 및 가전 B2B 행사인 'KM 퀴헨마일레(Küchenmeile)'가 매년 개최되는 독일...",
-          "src": "thepublic",
-          "date": "09/22",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=319793",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/319793_323274_116.jpg"
+          "title": "[중국 특징주] A주 신주 '시노플라스트'…장중 949% 폭등, 이례적 급등세",
+          "desc": "신에너지차, 가전 등에 사용된다. 주요 고객사로는 비야디, 폭스콘 계열 푸즈캉, 화친기술, 윙텍, 롱치과기, 런이정밀, 고어텍, 루이성기술, 린이즈자오, 럭스셰어정밀 등이 있으며, 삼성전자·화웨이·샤오미...",
+          "src": "뉴스핌",
+          "date": "09/23",
+          "url": "https://www.newspim.com/news/view/20260923000015",
+          "img": "https://img.newspim.com/news/2026/09/23/2609230034125360_t1.jpg"
         },
         {
           "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
         },
         {
-          "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
-          "desc": "삼성전자 로지텍의 리폼 전문 협력 업체가 가구장을 리폼하고, 삼성전자 로지텍 전문 설치팀이 로봇청소기를 설치해준다. 사후 관리에서도 경쟁력이 있다는 평가가 나온다. 삼성전자는 전국 169개 서비스센터 중 117곳에...",
-          "src": "한국경제",
+          "title": "삼성전자서비스, 추석 연휴 기간 '긴급 서비스' 지원 체계 가동",
+          "desc": "ㅣ데일리포스트=곽민구 기자ㅣ삼성전자서비스가 추석 연휴 기간 동안 고객 불편을 최소화하기 위해 긴급... 연휴 기간에는 컨택센터 상담사와 출장 엔지니어가 비상 당직 체계로 운영되며, 냉장고 냉동·냉장 고장 등...",
+          "src": "thedailypost",
           "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115799",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115799_120020_532_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경남도, 피지컬AI·우주항공·조선안전 미래산업 판 키운다",
-          "desc": "활용해 지원 대상을 발굴한다. 경남도는 조선·기계·우주항공·방산 등 주력산업을 중심으로 피지컬AI 수요를 찾아 실증과 사업화가 가능한 프로젝트로 구체화할 방침이다. 기술개발에 머물지 않고 실제 생산현장 도입과...",
-          "src": "인더스트리뉴스",
-          "date": "09/22",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86472",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202609/86472_107167_4824.jpg"
+          "title": "경남교육청, 과학기술 연구기관 3곳과 미래인재 육성 협력",
+          "desc": "한국전기연구원은 전기차·이차전지와 AI 기반 전력기술을 활용한 전기과학교실과 진로 멘토링을 진행하고... 지난해 9월 양산지역에서 시범 도입한 뒤 단계적으로 확대했으며 올해 전면 시행을 앞두고 업무 절차와 나이스...",
+          "src": "kukinews",
+          "date": "09/23",
+          "url": "https://www.kukinews.com/article/view/kuk202609230001",
+          "img": ""
         },
         {
-          "title": "울산시, 3조 규모 '산업 AX 넥서스 실증단지' 추진 공식화",
-          "desc": "제어에 활용하는 기술이다. 범용 AI가 다양한 산업과 일상 영역에서 활용되는 기술이라면, 헤비듀티 AI는... 분야별로 우선 조선은 가장 폭넓게 AX 도입이 진행되고 있는 산업이다. 이미 HD현대중공업에서 디지털화가...",
-          "src": "iusm",
-          "date": "09/22",
-          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1068386",
-          "img": "https://cdn.iusm.co.kr/news/thumbnail/202609/1068386_628859_3312_v150.jpg"
+          "title": "래빗OS 3, 초대 전용 베타 시작…웹 버전부터 시험",
+          "desc": "rabbit은 9월 4일 공식 커뮤니티 게시글에서 OS3를 인공지능 에이전트가 도구와 기술을 활용해 작업을... rabbitOS 2에서는 카드형 화면과 'creations' 기능을 도입했다. 이용자는 대화만으로 도구와 게임...",
+          "src": "tokenpost",
+          "date": "09/23",
+          "url": "https://www.tokenpost.kr/news/ai/412371",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/ebuhcy9sza.jpg"
         },
         {
-          "title": "MS·엔비디아와 ‘AI 생태계’ 넓히는 LG",
-          "desc": "양측은 AI 데이터센터 인프라 분야에서 MS의 글로벌 데이터센터 확장에 발맞춰 LG의 냉각·전력·정보기술... 도입하기로 했다. 또 피지컬 AI 모델 개발과 학습 속도를 높이기 위해 MS의 클라우드 인프라를 활용하기로...",
-          "src": "khan",
-          "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/032/0003472099?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/09/22/l_2026092301000748000070791.jpg"
+          "title": "H2O호스피탈리티, 아부다비 ‘페어몬트 밥 알 바흐’에 스마트 체크인 ...",
+          "desc": "호텔 운영 및 투숙객 경험 데이터 활용에 주력하는 트래블 테크 기업 (AI 호스피탈리티 테크 기업) H2O호스피탈리티(대표 이웅희, 이하 H2O)가 아부다비 페어몬트 밥 알 바흐(Fairmont Bab Al Bahr)에 솔루션을 도입하고...",
+          "src": "sports",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/144/0001139943?sid=103",
+          "img": "https://images.khan.co.kr/article/2026/09/23/news-p.v1.20260923.00150ee1e5c84db78f0a18a17b791864_P1.jpg"
         },
         {
-          "title": "K-제약 경쟁력 강화…케이메디허브, '2026 글로벌 제약혁신기술 세미나...",
-          "desc": "연속공정 기술 트렌드', AI 전문기업 세이지 홍영석 대표의 'AI 기반 품질검사 및 의약품 분야 활용 사례... 연속공정과 AI기반 공정분석기술(PAT)을 도입하는 것은 국내 제약업계의 사활이 걸린 핵심 과제\"라며 \"국내외...",
-          "src": "아주경제",
-          "date": "09/22",
-          "url": "https://www.ajunews.com/view/20260922195441347",
-          "img": "https://image.ajunews.com/content/image/2026/09/22/20260922195528155296.jpg"
+          "title": "태양전지 효율 44%까지…정부, 중국산과 '가격' 아닌 '기술'로 승부",
+          "desc": "태양광기업공동활용연구센터를 찾아 기술개발 현황을 점검하고 산업계·연구계와 상용화 전략을 논의했다.... 국가상한을 도입했다. 공장과 산업단지 지붕, 자가소비형 태양광 확대도 추진하고 있다. 여기에 국내 공급망...",
+          "src": "esgeconomy",
+          "date": "09/23",
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16824",
+          "img": "https://cdn.esgeconomy.com/news/thumbnail/202609/16824_24937_429_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[단독]“이젠 로봇… 작고 정밀한 기술이 엡손의 힘”",
+          "desc": "요시다 CEO는 협력사를 방문하고 창립 30주년 글로벌 CEO 미디어 간담회에서 회사의 중장기 전략인... 삼성전자와 SK하이닉스도 엡손의 고객사다. 구체적인 거래 내용은 공개하지 않았지만 그는 “주로 디바이스와...",
+          "src": "동아일보",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750193?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/22/134724200.1.jpg"
+        },
+        {
+          "title": "로봇 부품부터 그룹주까지… ETF 상장",
+          "desc": "이 상품은 현대차그룹과 LG전자를 각각 25%씩 고정 편입하며, 두 기업의 협력사와 국내 로보틱스 전문기업에도 투자한다. 현대차그룹과 LG전자 외 밸류체인 종목은 최대 13개까지 편입한다. 부품·센서 등 핵심...",
+          "src": "newsclaim",
+          "date": "09/23",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076325",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076325_118433_4747_v150.jpg"
+        },
         {
           "title": "[ETF NOW] 미래에셋자산운용·KB자산운용·한국투자신탁운용·신한자산운...",
           "desc": "LG전자를 각각 25%씩 고정 편입하고, 두 기업의 협력사와 국내 로보틱스 전문기업으로 투자 범위를... 상품\"이라며 \"삼성전자와 SK하이닉스를 비롯해 전자부품, 2차전지, 금융, 통신 등 주요 계열사에 투자할 수 있는...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/22",
           "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725378",
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202609/1725378_758676_190_v150.jpg"
-        },
-        {
-          "title": "하나證 “삼성전자 네트워크 점유율 확대 가능성⋯국내 장비주 수혜”",
-          "desc": "줄더라도 삼성전자의 비중이 커지는 방향으로 재편된다면 국내 협력사의 매출에는 오히려 긍정적일 수 있다는 분석이다. 화웨이의 글로벌 시장점유율 확대 과정에서 콤바와 대북과기, 우한핑구 등 중국 장비·부품...",
-          "src": "이투데이",
-          "date": "09/22",
-          "url": "https://www.etoday.co.kr/news/view/2628249",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260922074509_2391669_721_480.JPG"
-        },
-        {
-          "title": "[시대리포트]한국 제조현장, 피지컬AI 승부처",
-          "desc": "삼성전자·SK그룹·현대자동차그룹에 각각 약 5만장, 네이버클라우드에 약 6만장, 정부 주도 AI 인프라에 약... 한국 역시 개별 공장의 성과를 다른 공장과 협력사로 확산하는 체계가 필요하다는 지적이 나온다....",
-          "src": "sidae",
-          "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/417/0001158961?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/18/00/2026091812180398691_1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"AI·스마트싱스로 유럽 주방 공략\"…삼성전자, 독일 뢰네에 145평 규모...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=319793",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/319793_323274_116.jpg"
+      "title": "[중국 특징주] A주 신주 '시노플라스트'…장중 949% 폭등, 이례적 급등세",
+      "url": "https://www.newspim.com/news/view/20260923000015",
+      "img": "https://img.newspim.com/news/2026/09/23/2609230034125360_t1.jpg"
     },
     {
       "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
     },
     {
-      "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
+      "title": "삼성전자서비스, 추석 연휴 기간 '긴급 서비스' 지원 체계 가동",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115799",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115799_120020_532_v150.jpg"
     },
     {
-      "title": "경남도, 피지컬AI·우주항공·조선안전 미래산업 판 키운다",
-      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86472",
-      "img": "https://cdn.industrynews.co.kr/news/photo/202609/86472_107167_4824.jpg"
+      "title": "래빗OS 3, 초대 전용 베타 시작…웹 버전부터 시험",
+      "url": "https://www.tokenpost.kr/news/ai/412371",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/ebuhcy9sza.jpg"
     },
     {
-      "title": "울산시, 3조 규모 '산업 AX 넥서스 실증단지' 추진 공식화",
-      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1068386",
-      "img": "https://cdn.iusm.co.kr/news/thumbnail/202609/1068386_628859_3312_v150.jpg"
+      "title": "H2O호스피탈리티, 아부다비 ‘페어몬트 밥 알 바흐’에 스마트 체크인 ...",
+      "url": "https://n.news.naver.com/mnews/article/144/0001139943?sid=103",
+      "img": "https://images.khan.co.kr/article/2026/09/23/news-p.v1.20260923.00150ee1e5c84db78f0a18a17b791864_P1.jpg"
     }
   ]
 };
