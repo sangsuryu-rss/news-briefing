@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.22 (화) 08:18",
+  "updatedAt": "2026.09.22 (화) 14:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자서비스, 추석 연휴 '긴급 서비스' 지원",
-          "desc": "추석 연휴에도 스마트폰과 가전제품에 긴급한 문제가 생긴 고객을 위한 수리·상담 서비스가 운영된다. 삼성전자서비스는 연휴 첫날인 24일과 추석 당일인 25일 서비스센터를 휴무하고, 26일과 27일에는 전국 9개...",
-          "src": "slist",
+          "title": "삼성전자, 독일 뢰네에 빌트인 가전 상설 전시관 조성",
+          "desc": "삼성전자가 유럽 주방 가전 유통망과의 접점을 늘리기 위해 독일에 상설 전시·상담 공간을 조성했다. 삼성전자는 독일 뢰네의 '키친 센터 뢰네(KCL)' 1층에 480㎡(약 145평) 규모의 빌트인 가전 상설 전시관을 마련했다고...",
+          "src": "polinews",
           "date": "09/22",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=767968",
-          "img": "https://cdn.slist.kr/news/thumbnail/202609/767968_1175391_1419_v150.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743803",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/743803_566718_1631_v150.jpg"
         },
         {
           "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
         },
         {
-          "title": "[디지털 난민 보고서 ②] 가전제품 사용법 QR코드로 확인하라고?...종이...",
-          "desc": "경기도 부천시에 거주하는 박 모(남)씨는 삼성전자에서 구매한 세탁기의 사용법을 익히려고 포장 박스를 살펴보다 당황했다. 책자로된 사용설명서를 찾았지만 두어장 밖에 안되는 분량의 요약본만 들어있었기 때문이다....",
-          "src": "소비자가만드는신문",
+          "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
+          "desc": "당시 삼성전자는 유럽 에너지 소비 효율 A등급을 충족하면서 스마트싱스의 'AI 절약모드'를 활용할 수 있는 세탁기·건조기·콤보 제품을 선보였다. 빌트인 주방 가전에서도 A등급보다 에너지를 추가 절감할 수 있는...",
+          "src": "smartbizn",
           "date": "09/22",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764008",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764008_318306_834_v150.jpg"
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=154625",
+          "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
         },
         {
-          "title": "삼성전자서비스, 추석 연휴 긴급 수리 지원…26~27일 주말케어센터 운영",
-          "desc": "냉장고의 냉동·냉장 기능 이상처럼 긴급 점검이 필요한 경우 출장서비스를 지원할 예정이다. 삼성전자서비스는 홈페이지를 통해 제품별 자가진단 방법과 자주 묻는 질문, 해결 방법 등을 안내하고 AI 챗봇 서비스도...",
+          "title": "XR·웨어러블 시장 팽창…사피엔반도체, 마이크로 LED 붐 타고 도약",
+          "desc": "대형 디스플레이와 가전 분야에서는 LG전자가 6.42% 오른 21만5500원에 거래되고 있다. LG전자는 프리미엄... 삼성전자가 오름세를 보이는 가운데 서울반도체도 상승하고 있다. 마이크로 LED는 초소형 LED를 정밀하게...",
           "src": "핀포인트뉴스",
           "date": "09/22",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489360",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489360_475332_1036_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489576",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489576_475545_5058_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "LS일렉트릭, 부산사업장에 4족 보행로봇 도입…스마트 팩토리 고도화",
-          "desc": "LS일렉트릭 관계자는 \"AI와 로봇 기술을 제조 현장에 적극 접목해 품질, 가격, 납기 경쟁력을 확보할 계획\"이라며 \"부산사업장에 우선 도입되는 보행로봇 기반 스마트 관리 체계를 시작으로 전 사업장 디지털 전환을...",
-          "src": "핀포인트뉴스",
+          "title": "약은 있는데 쓸 수가 없다…\"MET변이폐암, 진단·치료 공백 해소 절실\"",
+          "desc": "여 교수는 이 같은 진단과 치료 간 공백을 해소하고, 환자들이 테포티닙과 같은 표적치료제를 활용하기... 방대한 유전체 데이터를 신속히 분석·정리하는 AI 기술 도입에 필요한 비용을 개별 병원이 전적으로...",
+          "src": "mkhealth",
           "date": "09/22",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489361",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489361_475334_1238_v150.jpg"
+          "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80170",
+          "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202609/80170_93589_5623_v150.jpg"
         },
         {
-          "title": "오픈AI \"미국, AI 표준 주도해야\"...한국과 협력 제시",
-          "desc": "국제적 AI 표준을 마련하는 방안 중 하나로 각국에 이미 설립된 AI 안전 연구소들로 구성된 네트워크를 활용... 그러면서 \"지정학적 경쟁은 단순히 누가 기술적으로 앞서느냐의 문제에 그치지 않고, AI의 도입과 확산을...",
-          "src": "ytn",
+          "title": "델 테크놀로지스, 한국벤처투자에 GPU 서버 공급...내부망 AI 활용 지원",
+          "desc": "보안·망분리 요건을 충족하면서 AI 챗봇과 업무 자동화, 기존 시스템 분석 등에 활용할 계획이다. 델 테크놀로지스는 한국벤처투자가 고성능 GPU 서버 '델 파워엣지 XE7745'를 도입하고 온프레미스 기반 전사 AI 전환(AX)...",
+          "src": "테크M",
           "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/052/0002410068?sid=104",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0922/202609220813027769_t.jpg"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155488",
+          "img": "https://cdn.techm.kr/news/thumbnail/202609/155488_221373_5654_v150.jpg"
         },
         {
-          "title": "'언론과 상생' 내세운 포털 다음, 'AI 인용'에 수익 지급키로",
-          "desc": "안정적인 파트너십을 위한 ‘고정 전재료’ 도입, 인공지능(AI)과 관련해 ‘뉴스 인용량에 따른 신규 비용... 이후 다음이 AI 정제 기술 및 고도화된 검색 기술로 고도화된 데이터로 가공해 '단순 검색 패키지', '본문 활용...",
-          "src": "journalist",
+          "title": "현대로템 '스마트팩토리' 기술, 극초음속·우주엔진 생산현장에 심는다",
+          "desc": "현대로템은 고위험 공정에 AI(인공지능) 기반 스마트팩토리 기술을 도입해 작업자 안전과 제품 품질을... 기술 협력이 향후 새롭게 구축되는 항공우주 생산체계의 자동화·안전관리 역량을 높이는 기반으로 활용될...",
+          "src": "wolyo",
           "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/127/0000039806?sid=102",
-          "img": "http://www.journalist.or.kr/data/photos/cdn/20260939/art_1789981775.png"
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318169",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318169_226127_5713.jpg"
         },
         {
-          "title": "LS일렉트릭, 초고압 변압기 공장에 4족 로봇 투입…스마트팩토리 고도화",
-          "desc": "com LS일렉트릭은 최근 부산사업장에 보스턴 다이내믹스(Boston Dynamics)의 4족 보행로봇 ‘Spot(스팟)’을 도입... LS일렉트릭 관계자는 \"AI와 로봇 기술을 제조 현장에 적극 접목해 품질과 가격, 납기 경쟁력을 확보할 계획...",
-          "src": "아주경제",
+          "title": "LG, MS와 AI 데이터센터 협력 확대…냉각·전력·IT 사업기회",
+          "desc": "LG가 계열사 기술을 묶으려는 이유도 여기에 있다. 냉각장비 한 종류를 공급하는 데서 그치지 않고... 플랫폼을 도입하고, 제조·물류·모빌리티 분야 피지컬 AI 모델 개발에도 MS 클라우드 인프라를 활용한다. 제조...",
+          "src": "sateconomy",
           "date": "09/22",
-          "url": "https://www.ajunews.com/view/20260922080133646",
-          "img": "https://image.ajunews.com/content/image/2026/09/22/20260922080400750979.jpg"
+          "url": "https://sateconomy.co.kr/news/view/1065588510803533",
+          "img": "http://sateconomy.co.kr/news/data/20260922/p1065588510803533_966_thum.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자서비스, 추석 연휴 '긴급 서비스' 지원",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=767968",
-      "img": "https://cdn.slist.kr/news/thumbnail/202609/767968_1175391_1419_v150.jpg"
+      "title": "삼성전자, 독일 뢰네에 빌트인 가전 상설 전시관 조성",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743803",
+      "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/743803_566718_1631_v150.jpg"
     },
     {
       "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
     },
     {
-      "title": "[디지털 난민 보고서 ②] 가전제품 사용법 QR코드로 확인하라고?...종이...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764008",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/764008_318306_834_v150.jpg"
+      "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=154625",
+      "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
     },
     {
-      "title": "삼성전자서비스, 추석 연휴 긴급 수리 지원…26~27일 주말케어센터 운영",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489360",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489360_475332_1036_v150.jpg"
+      "title": "XR·웨어러블 시장 팽창…사피엔반도체, 마이크로 LED 붐 타고 도약",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489576",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489576_475545_5058_v150.jpg"
     },
     {
-      "title": "LS일렉트릭, 부산사업장에 4족 보행로봇 도입…스마트 팩토리 고도화",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489361",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489361_475334_1238_v150.jpg"
+      "title": "약은 있는데 쓸 수가 없다…\"MET변이폐암, 진단·치료 공백 해소 절실\"",
+      "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80170",
+      "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202609/80170_93589_5623_v150.jpg"
     },
     {
-      "title": "오픈AI \"미국, AI 표준 주도해야\"...한국과 협력 제시",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410068?sid=104",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0922/202609220813027769_t.jpg"
+      "title": "델 테크놀로지스, 한국벤처투자에 GPU 서버 공급...내부망 AI 활용 지원",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155488",
+      "img": "https://cdn.techm.kr/news/thumbnail/202609/155488_221373_5654_v150.jpg"
     }
   ]
 };
