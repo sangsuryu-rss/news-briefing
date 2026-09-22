@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.22 (화) 14:00",
+  "updatedAt": "2026.09.22 (화) 20:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 독일 뢰네에 빌트인 가전 상설 전시관 조성",
-          "desc": "삼성전자가 유럽 주방 가전 유통망과의 접점을 늘리기 위해 독일에 상설 전시·상담 공간을 조성했다. 삼성전자는 독일 뢰네의 '키친 센터 뢰네(KCL)' 1층에 480㎡(약 145평) 규모의 빌트인 가전 상설 전시관을 마련했다고...",
-          "src": "polinews",
+          "title": "\"AI·스마트싱스로 유럽 주방 공략\"…삼성전자, 독일 뢰네에 145평 규모...",
+          "desc": "삼성전자가 유럽 빌트인 가전 최대 주요 시장인 독일에 상설 쇼룸을 개관하며 현지 B2B 시장 공략에 속도를 낸다. 삼성전자는 유럽 대표 주방 가구 및 가전 B2B 행사인 'KM 퀴헨마일레(Küchenmeile)'가 매년 개최되는 독일...",
+          "src": "thepublic",
           "date": "09/22",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743803",
-          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/743803_566718_1631_v150.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=319793",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/319793_323274_116.jpg"
         },
         {
-          "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
-          "desc": "삼성전자가 대형 라인업 기조를 유지하는 가운데  LG전자와 중국 가전 브랜드인 로보락·마이디어가... 로보락은 로봇청소기 시장을 평정한 기술력을 세탁건조기 영역에 이식했다. 로보락 세탁건조기 '제오엑스(Zeo X)...",
-          "src": "소비자가만드는신문",
+          "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
+          "desc": "▲'삼성전자'는 Micro RGB 기술로 혼색을 최소화하고 'Micro RGB AI 엔진 Pro' 등 AI로 안정적인 화질을 구현한 '마이크로 RGB', 100℃ 물걸레 스팀 살균과 Knox 보안 기술을 갖춘 로봇청소기 '비스포크 AI 스팀...",
+          "src": "kr",
           "date": "09/22",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763342",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1814702",
+          "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
         },
         {
           "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
         },
         {
-          "title": "XR·웨어러블 시장 팽창…사피엔반도체, 마이크로 LED 붐 타고 도약",
-          "desc": "대형 디스플레이와 가전 분야에서는 LG전자가 6.42% 오른 21만5500원에 거래되고 있다. LG전자는 프리미엄... 삼성전자가 오름세를 보이는 가운데 서울반도체도 상승하고 있다. 마이크로 LED는 초소형 LED를 정밀하게...",
-          "src": "핀포인트뉴스",
+          "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
+          "desc": "삼성전자 로지텍의 리폼 전문 협력 업체가 가구장을 리폼하고, 삼성전자 로지텍 전문 설치팀이 로봇청소기를 설치해준다. 사후 관리에서도 경쟁력이 있다는 평가가 나온다. 삼성전자는 전국 169개 서비스센터 중 117곳에...",
+          "src": "한국경제",
           "date": "09/22",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489576",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489576_475545_5058_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "약은 있는데 쓸 수가 없다…\"MET변이폐암, 진단·치료 공백 해소 절실\"",
-          "desc": "여 교수는 이 같은 진단과 치료 간 공백을 해소하고, 환자들이 테포티닙과 같은 표적치료제를 활용하기... 방대한 유전체 데이터를 신속히 분석·정리하는 AI 기술 도입에 필요한 비용을 개별 병원이 전적으로...",
-          "src": "mkhealth",
+          "title": "경남도, 피지컬AI·우주항공·조선안전 미래산업 판 키운다",
+          "desc": "활용해 지원 대상을 발굴한다. 경남도는 조선·기계·우주항공·방산 등 주력산업을 중심으로 피지컬AI 수요를 찾아 실증과 사업화가 가능한 프로젝트로 구체화할 방침이다. 기술개발에 머물지 않고 실제 생산현장 도입과...",
+          "src": "인더스트리뉴스",
           "date": "09/22",
-          "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80170",
-          "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202609/80170_93589_5623_v150.jpg"
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86472",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202609/86472_107167_4824.jpg"
         },
         {
-          "title": "델 테크놀로지스, 한국벤처투자에 GPU 서버 공급...내부망 AI 활용 지원",
-          "desc": "보안·망분리 요건을 충족하면서 AI 챗봇과 업무 자동화, 기존 시스템 분석 등에 활용할 계획이다. 델 테크놀로지스는 한국벤처투자가 고성능 GPU 서버 '델 파워엣지 XE7745'를 도입하고 온프레미스 기반 전사 AI 전환(AX)...",
-          "src": "테크M",
+          "title": "울산시, 3조 규모 '산업 AX 넥서스 실증단지' 추진 공식화",
+          "desc": "제어에 활용하는 기술이다. 범용 AI가 다양한 산업과 일상 영역에서 활용되는 기술이라면, 헤비듀티 AI는... 분야별로 우선 조선은 가장 폭넓게 AX 도입이 진행되고 있는 산업이다. 이미 HD현대중공업에서 디지털화가...",
+          "src": "iusm",
           "date": "09/22",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=155488",
-          "img": "https://cdn.techm.kr/news/thumbnail/202609/155488_221373_5654_v150.jpg"
+          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1068386",
+          "img": "https://cdn.iusm.co.kr/news/thumbnail/202609/1068386_628859_3312_v150.jpg"
         },
         {
-          "title": "현대로템 '스마트팩토리' 기술, 극초음속·우주엔진 생산현장에 심는다",
-          "desc": "현대로템은 고위험 공정에 AI(인공지능) 기반 스마트팩토리 기술을 도입해 작업자 안전과 제품 품질을... 기술 협력이 향후 새롭게 구축되는 항공우주 생산체계의 자동화·안전관리 역량을 높이는 기반으로 활용될...",
-          "src": "wolyo",
+          "title": "MS·엔비디아와 ‘AI 생태계’ 넓히는 LG",
+          "desc": "양측은 AI 데이터센터 인프라 분야에서 MS의 글로벌 데이터센터 확장에 발맞춰 LG의 냉각·전력·정보기술... 도입하기로 했다. 또 피지컬 AI 모델 개발과 학습 속도를 높이기 위해 MS의 클라우드 인프라를 활용하기로...",
+          "src": "khan",
           "date": "09/22",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318169",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318169_226127_5713.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003472099?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/09/22/l_2026092301000748000070791.jpg"
         },
         {
-          "title": "LG, MS와 AI 데이터센터 협력 확대…냉각·전력·IT 사업기회",
-          "desc": "LG가 계열사 기술을 묶으려는 이유도 여기에 있다. 냉각장비 한 종류를 공급하는 데서 그치지 않고... 플랫폼을 도입하고, 제조·물류·모빌리티 분야 피지컬 AI 모델 개발에도 MS 클라우드 인프라를 활용한다. 제조...",
-          "src": "sateconomy",
+          "title": "K-제약 경쟁력 강화…케이메디허브, '2026 글로벌 제약혁신기술 세미나...",
+          "desc": "연속공정 기술 트렌드', AI 전문기업 세이지 홍영석 대표의 'AI 기반 품질검사 및 의약품 분야 활용 사례... 연속공정과 AI기반 공정분석기술(PAT)을 도입하는 것은 국내 제약업계의 사활이 걸린 핵심 과제\"라며 \"국내외...",
+          "src": "아주경제",
           "date": "09/22",
-          "url": "https://sateconomy.co.kr/news/view/1065588510803533",
-          "img": "http://sateconomy.co.kr/news/data/20260922/p1065588510803533_966_thum.png"
+          "url": "https://www.ajunews.com/view/20260922195441347",
+          "img": "https://image.ajunews.com/content/image/2026/09/22/20260922195528155296.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[ETF NOW] 미래에셋자산운용·KB자산운용·한국투자신탁운용·신한자산운...",
+          "desc": "LG전자를 각각 25%씩 고정 편입하고, 두 기업의 협력사와 국내 로보틱스 전문기업으로 투자 범위를... 상품\"이라며 \"삼성전자와 SK하이닉스를 비롯해 전자부품, 2차전지, 금융, 통신 등 주요 계열사에 투자할 수 있는...",
+          "src": "wikileaks-kr",
+          "date": "09/22",
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192359",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202609/192359_208017_1840_v150.jpg"
+        },
+        {
+          "title": "[운용 & Now] 미래에셋자산운용, 현대차·LG전자 중심 피지컬AI ETF 출시 ...",
+          "desc": "이 ETF는 현대차그룹과 LG전자를 각각 25%씩 고정 편입하고, 두 기업의 협력사와 국내 로보틱스 기업을... 35%, 삼성물산 5.06% 등이다. 반도체뿐 아니라 전자부품·2차전지·금융·통신 등으로 투자 범위를 분산한 것이...",
+          "src": "ebn",
+          "date": "09/22",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725378",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202609/1725378_758676_190_v150.jpg"
+        },
         {
           "title": "하나證 “삼성전자 네트워크 점유율 확대 가능성⋯국내 장비주 수혜”",
           "desc": "줄더라도 삼성전자의 비중이 커지는 방향으로 재편된다면 국내 협력사의 매출에는 오히려 긍정적일 수 있다는 분석이다. 화웨이의 글로벌 시장점유율 확대 과정에서 콤바와 대북과기, 우한핑구 등 중국 장비·부품...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/22",
           "url": "https://n.news.naver.com/mnews/article/417/0001158961?sid=101",
           "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/18/00/2026091812180398691_1.jpg"
-        },
-        {
-          "title": "삼성전자, 광주사업장에 플랙트그룹 HVAC 공장 착공... 2028년 초 양산 돌...",
-          "desc": "글로벌 인공지능 데이터센터의 폭발적인 전력 소모와 발열 문제가 핵심 화두로 떠오른 가운데 삼성전자가... 채용과 부품 협력사 기술 이전을 통해 호남권 제조 벨트의 활성화도 꾀한다. 노태문 사장은 플랙트그룹과의...",
-          "src": "ttlnews",
-          "date": "09/21",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3145816",
-          "img": "https://cdn.ttlnews.com/news/photo/202609/3145816_764616_640.jpg"
-        },
-        {
-          "title": "재계, 추석 앞두고 10조 푼다···협력사 유동성 지원 넘어 상생 확대",
-          "desc": "삼성전자·삼성물산·삼성바이오로직스·삼성디스플레이·삼성전기 등이 대상이다. 지난해 추석보다 지원... 향후 5년간 1조4000억원 규모의 상생 자금을 활용해 반도체 소재·부품·장비 협력사 지원을 강화할...",
-          "src": "smartbizn",
-          "date": "09/21",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=154398",
-          "img": "https://cdn.smartbizn.com/news/photo/202609/154398_261014_5638.png"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 독일 뢰네에 빌트인 가전 상설 전시관 조성",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743803",
-      "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/743803_566718_1631_v150.jpg"
+      "title": "\"AI·스마트싱스로 유럽 주방 공략\"…삼성전자, 독일 뢰네에 145평 규모...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=319793",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/319793_323274_116.jpg"
     },
     {
-      "title": "[상품백서] 1인 가구용 세탁건조기 '3色' 대결…LG전자-AI 세탁, 로보락...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763342",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202609/763342_317862_511_v150.jpg"
+      "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1814702",
+      "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
     },
     {
       "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
     },
     {
-      "title": "XR·웨어러블 시장 팽창…사피엔반도체, 마이크로 LED 붐 타고 도약",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489576",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/489576_475545_5058_v150.jpg"
+      "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
     },
     {
-      "title": "약은 있는데 쓸 수가 없다…\"MET변이폐암, 진단·치료 공백 해소 절실\"",
-      "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80170",
-      "img": "https://cdn.mkhealth.co.kr/news/thumbnail/202609/80170_93589_5623_v150.jpg"
+      "title": "경남도, 피지컬AI·우주항공·조선안전 미래산업 판 키운다",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86472",
+      "img": "https://cdn.industrynews.co.kr/news/photo/202609/86472_107167_4824.jpg"
     },
     {
-      "title": "델 테크놀로지스, 한국벤처투자에 GPU 서버 공급...내부망 AI 활용 지원",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=155488",
-      "img": "https://cdn.techm.kr/news/thumbnail/202609/155488_221373_5654_v150.jpg"
+      "title": "울산시, 3조 규모 '산업 AX 넥서스 실증단지' 추진 공식화",
+      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1068386",
+      "img": "https://cdn.iusm.co.kr/news/thumbnail/202609/1068386_628859_3312_v150.jpg"
     }
   ]
 };
