@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.23 (수) 01:59",
+  "updatedAt": "2026.09.23 (수) 06:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[중국 특징주] A주 신주 '시노플라스트'…장중 949% 폭등, 이례적 급등세",
-          "desc": "신에너지차, 가전 등에 사용된다. 주요 고객사로는 비야디, 폭스콘 계열 푸즈캉, 화친기술, 윙텍, 롱치과기, 런이정밀, 고어텍, 루이성기술, 린이즈자오, 럭스셰어정밀 등이 있으며, 삼성전자·화웨이·샤오미...",
-          "src": "뉴스핌",
+          "title": "삼성 ‘유럽 빌트인 가전시장’ 공략 강화",
+          "desc": "사진은 삼성전자 독일 뢰네 빌트인 가전 상설 쇼룸. 삼성전자 제공 전시 공간은 인공지능(AI) 기반 스마트 주방 콘셉트로 구성됐다. 방문객들은 빌트인 가전과 스마트싱스 플랫폼이 연동되는 연결 경험을 체험할 수...",
+          "src": "segye",
           "date": "09/23",
-          "url": "https://www.newspim.com/news/view/20260923000015",
-          "img": "https://img.newspim.com/news/2026/09/23/2609230034125360_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004161241?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/22/20260922517204.jpg"
         },
         {
           "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
         },
         {
-          "title": "삼성전자서비스, 추석 연휴 기간 '긴급 서비스' 지원 체계 가동",
-          "desc": "ㅣ데일리포스트=곽민구 기자ㅣ삼성전자서비스가 추석 연휴 기간 동안 고객 불편을 최소화하기 위해 긴급... 연휴 기간에는 컨택센터 상담사와 출장 엔지니어가 비상 당직 체계로 운영되며, 냉장고 냉동·냉장 고장 등...",
-          "src": "thedailypost",
-          "date": "09/22",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115799",
-          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115799_120020_532_v150.jpg"
+          "title": "삼성전자서비스, 추석 연휴 기간 고객 불편 최소화 위해 ‘긴급 서비스...",
+          "desc": "연휴 주말 ‘주말케어센터’ 및 ‘바로 서비스’ 운영… 가전제품 긴급 출장서비스 및 AI 챗봇 지원 삼성전자서비스가 추석 연휴 기간 고객들의 제품 사용 불편을 최소화하기 위해 긴급 수리 서비스를 지원한다고 밝혔다....",
+          "src": "livesnews",
+          "date": "09/23",
+          "url": "https://www.livesnews.com/news/article.html?no=64465",
+          "img": "https://www.livesnews.com/data/photos/20260939/art_17901051981787_548765.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경남교육청, 과학기술 연구기관 3곳과 미래인재 육성 협력",
-          "desc": "한국전기연구원은 전기차·이차전지와 AI 기반 전력기술을 활용한 전기과학교실과 진로 멘토링을 진행하고... 지난해 9월 양산지역에서 시범 도입한 뒤 단계적으로 확대했으며 올해 전면 시행을 앞두고 업무 절차와 나이스...",
+          "title": "기계가 코인 결제한다… 카르다노, AI 탑승에 8% 급등",
+          "desc": "기계 간 결제와 사전 검증 이번 기술 연동은 인공지능 에이전트가 카르다노 블록체인 위에서 스스로 경제 주체로 활동할 통로를 열어줬다. 새로운 표준이 도입되면 개발자들은 AI 에이전트가 별도의 회원가입이나...",
+          "src": "g-enews",
+          "date": "09/23",
+          "url": "https://www.g-enews.com/view.php?ud=202609230614136855e7e8286d56_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2024122513353904181e250e8e18810625224987.jpg"
+        },
+        {
+          "title": "페이팔·포드를 제국으로 만든 공식, 더는 통하지 않는다 [흔들리는 제...",
+          "desc": "실제 패스트레인 도입 이후 체크아웃 소요 시간이 30%가량 줄고 일부 가맹점의 결제 전환율이 크게... 포드가 CATL의 기술을 활용해 미국에서 LFP 배터리를 생산하려 한 것도 이런 가격 경쟁력을 확보하기 위한...",
+          "src": "한국경제",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/050/0000111241?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AD.45763894.1.png"
+        },
+        {
+          "title": "[르포] 붓 들고 택배 나르는 로봇…中제조업, AI 입고 '스마트 제조'로",
+          "desc": "中안후이서 '세계제조업대회' 개최…\"제조업서 휴머노이드·AI활용 성과에 초점\" 'AI 수면 부스'엔 첨단기술... 화위전자과학기술의 후옌팅 감사는 \"현재는 해외 AI 시스템을 도입해 공장을 자동화하고 있지만, 자체...",
+          "src": "연합뉴스",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/001/0016331324?sid=104",
+          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922079500009_02_i_P4.jpg"
+        },
+        {
+          "title": "‘AI 내재화’ 넘어 사업화로…최수연 2기 네이버의 승부수 [재계머니맵...",
+          "desc": "AI를 서비스 경쟁력을 높이는 기술에서 새로운 성장동력으로 전환하려는 움직임이다. 변화는 실적에서도 조금씩 나타나고 있다. AI를 활용한 광고 효율 개선이 매출 성장으로 이어지는 한편, 네이버는 엔비디아와...",
           "src": "kukinews",
           "date": "09/23",
-          "url": "https://www.kukinews.com/article/view/kuk202609230001",
+          "url": "https://www.kukinews.com/article/view/kuk202609220225",
           "img": ""
-        },
-        {
-          "title": "래빗OS 3, 초대 전용 베타 시작…웹 버전부터 시험",
-          "desc": "rabbit은 9월 4일 공식 커뮤니티 게시글에서 OS3를 인공지능 에이전트가 도구와 기술을 활용해 작업을... rabbitOS 2에서는 카드형 화면과 'creations' 기능을 도입했다. 이용자는 대화만으로 도구와 게임...",
-          "src": "tokenpost",
-          "date": "09/23",
-          "url": "https://www.tokenpost.kr/news/ai/412371",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/ebuhcy9sza.jpg"
-        },
-        {
-          "title": "H2O호스피탈리티, 아부다비 ‘페어몬트 밥 알 바흐’에 스마트 체크인 ...",
-          "desc": "호텔 운영 및 투숙객 경험 데이터 활용에 주력하는 트래블 테크 기업 (AI 호스피탈리티 테크 기업) H2O호스피탈리티(대표 이웅희, 이하 H2O)가 아부다비 페어몬트 밥 알 바흐(Fairmont Bab Al Bahr)에 솔루션을 도입하고...",
-          "src": "sports",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/144/0001139943?sid=103",
-          "img": "https://images.khan.co.kr/article/2026/09/23/news-p.v1.20260923.00150ee1e5c84db78f0a18a17b791864_P1.jpg"
-        },
-        {
-          "title": "태양전지 효율 44%까지…정부, 중국산과 '가격' 아닌 '기술'로 승부",
-          "desc": "태양광기업공동활용연구센터를 찾아 기술개발 현황을 점검하고 산업계·연구계와 상용화 전략을 논의했다.... 국가상한을 도입했다. 공장과 산업단지 지붕, 자가소비형 태양광 확대도 추진하고 있다. 여기에 국내 공급망...",
-          "src": "esgeconomy",
-          "date": "09/23",
-          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16824",
-          "img": "https://cdn.esgeconomy.com/news/thumbnail/202609/16824_24937_429_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[중국 특징주] A주 신주 '시노플라스트'…장중 949% 폭등, 이례적 급등세",
-      "url": "https://www.newspim.com/news/view/20260923000015",
-      "img": "https://img.newspim.com/news/2026/09/23/2609230034125360_t1.jpg"
+      "title": "삼성 ‘유럽 빌트인 가전시장’ 공략 강화",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161241?sid=101",
+      "img": "https://www.segye.com/content/image/2026/09/22/20260922517204.jpg"
     },
     {
       "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
     },
     {
-      "title": "삼성전자서비스, 추석 연휴 기간 '긴급 서비스' 지원 체계 가동",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115799",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115799_120020_532_v150.jpg"
+      "title": "삼성전자서비스, 추석 연휴 기간 고객 불편 최소화 위해 ‘긴급 서비스...",
+      "url": "https://www.livesnews.com/news/article.html?no=64465",
+      "img": "https://www.livesnews.com/data/photos/20260939/art_17901051981787_548765.jpg"
     },
     {
-      "title": "래빗OS 3, 초대 전용 베타 시작…웹 버전부터 시험",
-      "url": "https://www.tokenpost.kr/news/ai/412371",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/ebuhcy9sza.jpg"
+      "title": "기계가 코인 결제한다… 카르다노, AI 탑승에 8% 급등",
+      "url": "https://www.g-enews.com/view.php?ud=202609230614136855e7e8286d56_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2024122513353904181e250e8e18810625224987.jpg"
     },
     {
-      "title": "H2O호스피탈리티, 아부다비 ‘페어몬트 밥 알 바흐’에 스마트 체크인 ...",
-      "url": "https://n.news.naver.com/mnews/article/144/0001139943?sid=103",
-      "img": "https://images.khan.co.kr/article/2026/09/23/news-p.v1.20260923.00150ee1e5c84db78f0a18a17b791864_P1.jpg"
+      "title": "페이팔·포드를 제국으로 만든 공식, 더는 통하지 않는다 [흔들리는 제...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111241?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/AD.45763894.1.png"
     }
   ]
 };
