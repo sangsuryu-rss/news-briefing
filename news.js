@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.23 (수) 09:37",
+  "updatedAt": "2026.09.23 (수) 16:47",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"명절 음식 다 녹는다\"…삼성 냉장고 업데이트 후 먹통 '날벼락'",
-          "desc": "스마트싱스는 삼성전자의 다양한 가전을 원격으로 제어하는 스마트홈 플랫폼이다. 한 소비자는 \"스마트싱스 업데이트 후 외출하고 돌아오니 냉장고가 계속 먹통\"이라며 \"스마트싱스에서 기기 삭제 후 다시 등록하려고...",
-          "src": "한국경제",
+          "title": "삼성전자, 추석 연휴 제품 고장났다면?…26~27일 '긴급 서비스' 지원",
+          "desc": "가전제품은 연휴 중 모든 고장에 출장 수리가 제공되는 것은 아니다. 삼성전자서비스는 상담사와 출장 엔지니어가 비상 당직 체계로 근무하면서 냉장고의 냉동·냉장 기능이 작동하지 않는 경우 등 긴급한 점검이 필요한...",
+          "src": "IT데일리",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/015/0005335509?sid=102",
-          "img": "https://img.hankyung.com/photo/202609/AA.42781216.1.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241831",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241831_247680_2457_v150.jpg"
         },
         {
           "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
         },
         {
-          "title": "[단독] 美 소비자가 후회한 가전 5곳…삼성 인수한 '데이코' 포함",
-          "desc": "대상 브랜드에는 중국 하이얼, 스웨덴 일렉트로룩스, 미국 바이킹과 젠에어, 그리고 삼성전자가 2016년... 일렉트로룩스는 세탁기와 건조기 부문에서 내구성 및 높은 수리비 문제가 거론됐다. 컨슈머어페어스의 세탁...",
-          "src": "the-today",
+          "title": "[칩코노미 下] 가전까지 번진 AI발 칩플레이션…영향은 '제각각'",
+          "desc": "가전제품 가운데 의류건조기는 8.1%, 전자레인지는 6.8%, 세탁기는 6.3%, TV는 3.9% 올랐다. 반면 냉장고는 2.4... 삼성전자도 TV와 생활가전이 반도체 가격 상승의 영향에서 완전히 자유로운 것은 아니지만 영향은...",
+          "src": "srtimes",
           "date": "09/23",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=90628",
-          "img": "https://cdn.the-today.com/news/photo/202609/90628_112074_3950.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=213261",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202609/213261_218365_5555_v150.jpg"
         },
         {
-          "title": "[LG 인사 전망]② 백승태는 HS 첫해, 김태훈은 AI클라우드… 부사장·전...",
-          "desc": "영남대 전자공학과를 졸업하고 핀란드 알토대에서 MBA를 받았다. 1995년 LG전자에 입사한 뒤 세탁기 글로벌... 부산대 컴퓨터공학과를 졸업한 뒤 삼성전자와 쿠팡을 거쳐 LG유플러스에 합류했고, 서비스플랫폼과 IT...",
-          "src": "newsclaim",
-          "date": "09/23",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076361",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076361_118492_166_v150.jpg"
+          "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
+          "desc": "삼성전자 로지텍의 리폼 전문 협력 업체가 가구장을 리폼하고, 삼성전자 로지텍 전문 설치팀이 로봇청소기를 설치해준다. 사후 관리에서도 경쟁력이 있다는 평가가 나온다. 삼성전자는 전국 169개 서비스센터 중 117곳에...",
+          "src": "한국경제",
+          "date": "09/22",
+          "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "아톤, 금융권에 시큐리티센터 사업 확장…글로벌 보안 기술 더한다",
-          "desc": "아톤은 망분리 규제 완화와 인공지능(AI) 도입 등으로 보안 대상이 사용자부터 애플리케이션, 데이터 전반으로 확대되면서 새로운 통제 체계가 필요하다고 강조했다. 이날 세미나에는 아톤이 국내 공급과 기술 지원을...",
-          "src": "디지털데일리",
+          "title": "[대전유성구의회소식] 박정수 유성구의원, \"둔곡지구 B1 BRT 탑승난 해소...",
+          "desc": "이를 위해 박 의원은 △70인승급 2층 전기 좌석버스 등 대용량 버스 도입 및 출퇴근 시간대 집중 배치... 박 의원은 \"AI 지원은 기술 자체가 아닌 주민 삶의 변화로 증명되어야 한다\"며 \"유성구가 AI를 가장 잘 활용하는...",
+          "src": "daily",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/138/0002242502?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/23/2026092309244334918_l.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409570",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1409570_1589069_2957_v150.jpg"
         },
         {
-          "title": "플래티어, ‘금융 테크 컨퍼런스 2026’서 금융권 AX 전략 제시",
-          "desc": "금융·기술 분야 관계자 300여 명이 참석했다. AI 에이전트 활용이 여신 심사, 이상거래 탐지, 고객 응대 등으로 확대되면서 보안과 규제를 고려한 도입·운영 전략이 주요 의제로 다뤄졌다. 신성석 플래티어 AX...",
-          "src": "서울경제TV",
+          "title": "'개인정보 유출' 티빙, 보안 취약점 차단·실시간 위협 대응 나서",
+          "desc": "프로그램 도입도 검토한다. 차세대 보안 체계 구축에도 속도를 낸다. 티빙은 클라우드 보안에 대한 통합 점검 체계를 강화하고, AI 기반 보안 위협 탐지·차단 기술을 활용해 실시간 위협 대응 역량을 높인다는 방침이다....",
+          "src": "insight",
           "date": "09/23",
-          "url": "https://www.sentv.co.kr/article/view/sentv202609230026",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000032.png"
+          "url": "https://www.insight.co.kr/news/575126",
+          "img": "https://img.insight.co.kr/static/2026/09/23/1200/img_20260923162103_w0r9w0qx.jpg"
         },
         {
-          "title": "경기도·경기도의회, 피지컬 AI 현장 도입 수요·공급 매칭 논의",
-          "desc": "수행하는 기술이다. 최근 들어 생산성과 안전성을 높일 수 있는 차세대 핵심기술로 주목받고 있다.... 공정별 활용 사례 제공과 소규모 실증(PoC), 국산 제품 도입 지원이 필요하다는 데 의견이 모였다. 또 피지컬 AI 수요...",
-          "src": "m-i",
+          "title": "LS일렉트릭, 4족 보행로봇으로 스마트팩토리 고도화 나선다",
+          "desc": "LS일렉트릭은 최근 부산사업장에 보스턴 다이내믹스(Boston Dynamics)의 4족 보행로봇 'Spot(스팟)'을 도입... Spot은 생산 현장을 자율 순찰하며 AIVI(AI Visual Inspection, 인공지능 기반 비전 검사) 기술을 활용해 항온·항습...",
+          "src": "epj",
           "date": "09/23",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1417730",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417730_1206186_106_v150.jpg"
+          "url": "http://www.epj.co.kr/news/articleView.html?idxno=39463",
+          "img": "http://www.epj.co.kr/news/thumbnail/202609/39463_51995_3726_v150.jpg"
         },
         {
-          "title": "한국로봇산업진흥원, 체코에 첨단로봇 협력거점 열고 유럽 진출 지원 본...",
-          "desc": "공장 활용 제조로봇을 위한 AI 기반 Cross-Border 운영 기술개발' 과제가 선정됐다. 한국전자기술연구원... 한편, 22일에는 체코 진출 한국기업을 대상으로 로봇 도입 지원사업 설명회와 기업 교류 행사를 개최했다....",
-          "src": "irobotnews",
+          "title": "[IT는 지금] LGU+, 추석 연휴 여행·빈집·집콕 서비스·혜택 운영 外",
+          "desc": "분류 기술을 확보하며 데이터 보안 전 주기 체계를 완성한다. 한컴위드는 커넥셔너리와 AI 지능형 문서 자동 분류 제품 공동 개발을 위한 양해각서(MOU)를 체결했다. 이번 협약은 N2SF 도입에 따른 공공기관의 데이터...",
+          "src": "dealsite",
           "date": "09/23",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48650",
-          "img": "https://cdn.irobotnews.com/news/photo/202609/48650_104100_2745.jpg"
+          "url": "https://dealsite.co.kr/articles/169566",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/0a4391a6e0c04e53888e8de103f5035c/thumb.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[단독]“이젠 로봇… 작고 정밀한 기술이 엡손의 힘”",
-          "desc": "요시다 CEO는 협력사를 방문하고 창립 30주년 글로벌 CEO 미디어 간담회에서 회사의 중장기 전략인... 삼성전자와 SK하이닉스도 엡손의 고객사다. 구체적인 거래 내용은 공개하지 않았지만 그는 “주로 디바이스와...",
-          "src": "동아일보",
+          "title": "'칩플레이션' 유탄 맞은 폰·노트북·TV 부품사",
+          "desc": "다른 부품으로 전가되는 ‘칩플레이션 풍선효과’라는 분석이 나온다. ◇2·3차 협력사로 번지는 인하 압력... 대형 부품업체도 예외가 아니다. 애플과 삼성전자, LG전자 등에 TV 패널을 공급하는 삼성디스플레이와...",
+          "src": "한국경제",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/020/0003750193?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/22/134724200.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005335748?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/AA.45801165.1.jpg"
         },
         {
-          "title": "로봇 부품부터 그룹주까지… ETF 상장",
-          "desc": "이 상품은 현대차그룹과 LG전자를 각각 25%씩 고정 편입하며, 두 기업의 협력사와 국내 로보틱스 전문기업에도 투자한다. 현대차그룹과 LG전자 외 밸류체인 종목은 최대 13개까지 편입한다. 부품·센서 등 핵심...",
-          "src": "newsclaim",
+          "title": "추석 앞두고 협력사에 수조원 푸는 재계…2·3차까지 지원 확대",
+          "desc": "현대차그룹은 1차 협력사에도 2·3차 협력사에 납품대금을 조기 지급하도록 권고했다. 삼성은 삼성전자... 전후해 협력사의 현금 수요가 일시적으로 커지기 때문이다. 직원 상여금과 임금 지급에 더해 원자재·부품...",
+          "src": "thebigdata",
           "date": "09/23",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076325",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076325_118433_4747_v150.jpg"
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026092315375688530ecbf9426b_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202609231635060924900ecbf9426b2112341995.jpg&nmt=23"
         },
         {
-          "title": "[ETF NOW] 미래에셋자산운용·KB자산운용·한국투자신탁운용·신한자산운...",
-          "desc": "LG전자를 각각 25%씩 고정 편입하고, 두 기업의 협력사와 국내 로보틱스 전문기업으로 투자 범위를... 상품\"이라며 \"삼성전자와 SK하이닉스를 비롯해 전자부품, 2차전지, 금융, 통신 등 주요 계열사에 투자할 수 있는...",
-          "src": "wikileaks-kr",
-          "date": "09/22",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192359",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202609/192359_208017_1840_v150.jpg"
+          "title": "\"이 가격 못 맞추면 안방 뺏긴다\"…중국산 공습에 '초비상'",
+          "desc": "중국 업체들은 국내 업체보다 20~30% 낮은 가격을 제시하면서 삼성전자, LG전자 공급망 진출을 시도하고 있다. 완제품 업체들은 이 가격을 국내 부품 협력사와의 협상 기준으로 활용한다. 가격 차이를 제시한뒤 좁히지...",
+          "src": "한국경제",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/015/0005335646?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/01.45800240.1.jpg"
         },
         {
-          "title": "[운용 & Now] 미래에셋자산운용, 현대차·LG전자 중심 피지컬AI ETF 출시 ...",
-          "desc": "이 ETF는 현대차그룹과 LG전자를 각각 25%씩 고정 편입하고, 두 기업의 협력사와 국내 로보틱스 기업을... 35%, 삼성물산 5.06% 등이다. 반도체뿐 아니라 전자부품·2차전지·금융·통신 등으로 투자 범위를 분산한 것이...",
-          "src": "ebn",
-          "date": "09/22",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725378",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202609/1725378_758676_190_v150.jpg"
+          "title": "[입법이 산업을 바꾼다] 공장이 AI를 쓰기 시작했다…'산업 AI법' 시행이...",
+          "desc": "삼성전자·현대차·LG전자·포스코…제조 AI 경쟁 이미 시작 기업들은 법 시행을 기다리지 않고 AI를 생산... 더 어려운 곳은 협력사…AI 격차가 생산성 격차로 산업 AI 확산의 약한 고리는 중견·중소기업이다. 대기업은...",
+          "src": "polinews",
+          "date": "09/23",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743929",
+          "img": "https://cdn.polinews.co.kr/news/thumbnail/202609/743929_566886_5457_v150.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+          "img": ""
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"명절 음식 다 녹는다\"…삼성 냉장고 업데이트 후 먹통 '날벼락'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335509?sid=102",
-      "img": "https://img.hankyung.com/photo/202609/AA.42781216.1.jpg"
+      "title": "삼성전자, 추석 연휴 제품 고장났다면?…26~27일 '긴급 서비스' 지원",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=241831",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241831_247680_2457_v150.jpg"
     },
     {
       "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
     },
     {
-      "title": "[단독] 美 소비자가 후회한 가전 5곳…삼성 인수한 '데이코' 포함",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=90628",
-      "img": "https://cdn.the-today.com/news/photo/202609/90628_112074_3950.jpg"
+      "title": "[칩코노미 下] 가전까지 번진 AI발 칩플레이션…영향은 '제각각'",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213261",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202609/213261_218365_5555_v150.jpg"
     },
     {
-      "title": "[LG 인사 전망]② 백승태는 HS 첫해, 김태훈은 AI클라우드… 부사장·전...",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076361",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076361_118492_166_v150.jpg"
+      "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
     },
     {
-      "title": "아톤, 금융권에 시큐리티센터 사업 확장…글로벌 보안 기술 더한다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242502?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/09/23/2026092309244334918_l.jpg"
+      "title": "[대전유성구의회소식] 박정수 유성구의원, \"둔곡지구 B1 BRT 탑승난 해소...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409570",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1409570_1589069_2957_v150.jpg"
     },
     {
-      "title": "플래티어, ‘금융 테크 컨퍼런스 2026’서 금융권 AX 전략 제시",
-      "url": "https://www.sentv.co.kr/article/view/sentv202609230026",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000032.png"
+      "title": "'개인정보 유출' 티빙, 보안 취약점 차단·실시간 위협 대응 나서",
+      "url": "https://www.insight.co.kr/news/575126",
+      "img": "https://img.insight.co.kr/static/2026/09/23/1200/img_20260923162103_w0r9w0qx.jpg"
     }
   ]
 };
