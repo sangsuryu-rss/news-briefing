@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.23 (수) 06:21",
+  "updatedAt": "2026.09.23 (수) 09:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 ‘유럽 빌트인 가전시장’ 공략 강화",
-          "desc": "사진은 삼성전자 독일 뢰네 빌트인 가전 상설 쇼룸. 삼성전자 제공 전시 공간은 인공지능(AI) 기반 스마트 주방 콘셉트로 구성됐다. 방문객들은 빌트인 가전과 스마트싱스 플랫폼이 연동되는 연결 경험을 체험할 수...",
-          "src": "segye",
+          "title": "\"명절 음식 다 녹는다\"…삼성 냉장고 업데이트 후 먹통 '날벼락'",
+          "desc": "스마트싱스는 삼성전자의 다양한 가전을 원격으로 제어하는 스마트홈 플랫폼이다. 한 소비자는 \"스마트싱스 업데이트 후 외출하고 돌아오니 냉장고가 계속 먹통\"이라며 \"스마트싱스에서 기기 삭제 후 다시 등록하려고...",
+          "src": "한국경제",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/022/0004161241?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/22/20260922517204.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005335509?sid=102",
+          "img": "https://img.hankyung.com/photo/202609/AA.42781216.1.jpg"
         },
         {
           "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
         },
         {
-          "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
-          "desc": "당시 삼성전자는 유럽 에너지 소비 효율 A등급을 충족하면서 스마트싱스의 'AI 절약모드'를 활용할 수 있는 세탁기·건조기·콤보 제품을 선보였다. 빌트인 주방 가전에서도 A등급보다 에너지를 추가 절감할 수 있는...",
-          "src": "smartbizn",
-          "date": "09/22",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=154625",
-          "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
+          "title": "[단독] 美 소비자가 후회한 가전 5곳…삼성 인수한 '데이코' 포함",
+          "desc": "대상 브랜드에는 중국 하이얼, 스웨덴 일렉트로룩스, 미국 바이킹과 젠에어, 그리고 삼성전자가 2016년... 일렉트로룩스는 세탁기와 건조기 부문에서 내구성 및 높은 수리비 문제가 거론됐다. 컨슈머어페어스의 세탁...",
+          "src": "the-today",
+          "date": "09/23",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=90628",
+          "img": "https://cdn.the-today.com/news/photo/202609/90628_112074_3950.jpg"
         },
         {
-          "title": "삼성전자서비스, 추석 연휴 기간 고객 불편 최소화 위해 ‘긴급 서비스...",
-          "desc": "연휴 주말 ‘주말케어센터’ 및 ‘바로 서비스’ 운영… 가전제품 긴급 출장서비스 및 AI 챗봇 지원 삼성전자서비스가 추석 연휴 기간 고객들의 제품 사용 불편을 최소화하기 위해 긴급 수리 서비스를 지원한다고 밝혔다....",
-          "src": "livesnews",
+          "title": "[LG 인사 전망]② 백승태는 HS 첫해, 김태훈은 AI클라우드… 부사장·전...",
+          "desc": "영남대 전자공학과를 졸업하고 핀란드 알토대에서 MBA를 받았다. 1995년 LG전자에 입사한 뒤 세탁기 글로벌... 부산대 컴퓨터공학과를 졸업한 뒤 삼성전자와 쿠팡을 거쳐 LG유플러스에 합류했고, 서비스플랫폼과 IT...",
+          "src": "newsclaim",
           "date": "09/23",
-          "url": "https://www.livesnews.com/news/article.html?no=64465",
-          "img": "https://www.livesnews.com/data/photos/20260939/art_17901051981787_548765.jpg"
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076361",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076361_118492_166_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "기계가 코인 결제한다… 카르다노, AI 탑승에 8% 급등",
-          "desc": "기계 간 결제와 사전 검증 이번 기술 연동은 인공지능 에이전트가 카르다노 블록체인 위에서 스스로 경제 주체로 활동할 통로를 열어줬다. 새로운 표준이 도입되면 개발자들은 AI 에이전트가 별도의 회원가입이나...",
-          "src": "g-enews",
+          "title": "아톤, 금융권에 시큐리티센터 사업 확장…글로벌 보안 기술 더한다",
+          "desc": "아톤은 망분리 규제 완화와 인공지능(AI) 도입 등으로 보안 대상이 사용자부터 애플리케이션, 데이터 전반으로 확대되면서 새로운 통제 체계가 필요하다고 강조했다. 이날 세미나에는 아톤이 국내 공급과 기술 지원을...",
+          "src": "디지털데일리",
           "date": "09/23",
-          "url": "https://www.g-enews.com/view.php?ud=202609230614136855e7e8286d56_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2024122513353904181e250e8e18810625224987.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002242502?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/23/2026092309244334918_l.jpg"
         },
         {
-          "title": "페이팔·포드를 제국으로 만든 공식, 더는 통하지 않는다 [흔들리는 제...",
-          "desc": "실제 패스트레인 도입 이후 체크아웃 소요 시간이 30%가량 줄고 일부 가맹점의 결제 전환율이 크게... 포드가 CATL의 기술을 활용해 미국에서 LFP 배터리를 생산하려 한 것도 이런 가격 경쟁력을 확보하기 위한...",
-          "src": "한국경제",
+          "title": "플래티어, ‘금융 테크 컨퍼런스 2026’서 금융권 AX 전략 제시",
+          "desc": "금융·기술 분야 관계자 300여 명이 참석했다. AI 에이전트 활용이 여신 심사, 이상거래 탐지, 고객 응대 등으로 확대되면서 보안과 규제를 고려한 도입·운영 전략이 주요 의제로 다뤄졌다. 신성석 플래티어 AX...",
+          "src": "서울경제TV",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/050/0000111241?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/AD.45763894.1.png"
+          "url": "https://www.sentv.co.kr/article/view/sentv202609230026",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000032.png"
         },
         {
-          "title": "[르포] 붓 들고 택배 나르는 로봇…中제조업, AI 입고 '스마트 제조'로",
-          "desc": "中안후이서 '세계제조업대회' 개최…\"제조업서 휴머노이드·AI활용 성과에 초점\" 'AI 수면 부스'엔 첨단기술... 화위전자과학기술의 후옌팅 감사는 \"현재는 해외 AI 시스템을 도입해 공장을 자동화하고 있지만, 자체...",
-          "src": "연합뉴스",
+          "title": "경기도·경기도의회, 피지컬 AI 현장 도입 수요·공급 매칭 논의",
+          "desc": "수행하는 기술이다. 최근 들어 생산성과 안전성을 높일 수 있는 차세대 핵심기술로 주목받고 있다.... 공정별 활용 사례 제공과 소규모 실증(PoC), 국산 제품 도입 지원이 필요하다는 데 의견이 모였다. 또 피지컬 AI 수요...",
+          "src": "m-i",
           "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/001/0016331324?sid=104",
-          "img": "https://img9.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922079500009_02_i_P4.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1417730",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417730_1206186_106_v150.jpg"
         },
         {
-          "title": "‘AI 내재화’ 넘어 사업화로…최수연 2기 네이버의 승부수 [재계머니맵...",
-          "desc": "AI를 서비스 경쟁력을 높이는 기술에서 새로운 성장동력으로 전환하려는 움직임이다. 변화는 실적에서도 조금씩 나타나고 있다. AI를 활용한 광고 효율 개선이 매출 성장으로 이어지는 한편, 네이버는 엔비디아와...",
-          "src": "kukinews",
+          "title": "한국로봇산업진흥원, 체코에 첨단로봇 협력거점 열고 유럽 진출 지원 본...",
+          "desc": "공장 활용 제조로봇을 위한 AI 기반 Cross-Border 운영 기술개발' 과제가 선정됐다. 한국전자기술연구원... 한편, 22일에는 체코 진출 한국기업을 대상으로 로봇 도입 지원사업 설명회와 기업 교류 행사를 개최했다....",
+          "src": "irobotnews",
           "date": "09/23",
-          "url": "https://www.kukinews.com/article/view/kuk202609220225",
-          "img": ""
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48650",
+          "img": "https://cdn.irobotnews.com/news/photo/202609/48650_104100_2745.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 ‘유럽 빌트인 가전시장’ 공략 강화",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161241?sid=101",
-      "img": "https://www.segye.com/content/image/2026/09/22/20260922517204.jpg"
+      "title": "\"명절 음식 다 녹는다\"…삼성 냉장고 업데이트 후 먹통 '날벼락'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335509?sid=102",
+      "img": "https://img.hankyung.com/photo/202609/AA.42781216.1.jpg"
     },
     {
       "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
     },
     {
-      "title": "삼성전자, 이탈리아 이어 독일 상설 쇼룸으로 유럽 빌트인 시장 공략",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=154625",
-      "img": "https://cdn.smartbizn.com/news/photo/202609/154625_261295_2239.jpg"
+      "title": "[단독] 美 소비자가 후회한 가전 5곳…삼성 인수한 '데이코' 포함",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=90628",
+      "img": "https://cdn.the-today.com/news/photo/202609/90628_112074_3950.jpg"
     },
     {
-      "title": "삼성전자서비스, 추석 연휴 기간 고객 불편 최소화 위해 ‘긴급 서비스...",
-      "url": "https://www.livesnews.com/news/article.html?no=64465",
-      "img": "https://www.livesnews.com/data/photos/20260939/art_17901051981787_548765.jpg"
+      "title": "[LG 인사 전망]② 백승태는 HS 첫해, 김태훈은 AI클라우드… 부사장·전...",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076361",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202609/3076361_118492_166_v150.jpg"
     },
     {
-      "title": "기계가 코인 결제한다… 카르다노, AI 탑승에 8% 급등",
-      "url": "https://www.g-enews.com/view.php?ud=202609230614136855e7e8286d56_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2024122513353904181e250e8e18810625224987.jpg"
+      "title": "아톤, 금융권에 시큐리티센터 사업 확장…글로벌 보안 기술 더한다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242502?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/09/23/2026092309244334918_l.jpg"
     },
     {
-      "title": "페이팔·포드를 제국으로 만든 공식, 더는 통하지 않는다 [흔들리는 제...",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111241?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/AD.45763894.1.png"
+      "title": "플래티어, ‘금융 테크 컨퍼런스 2026’서 금융권 AX 전략 제시",
+      "url": "https://www.sentv.co.kr/article/view/sentv202609230026",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000032.png"
     }
   ]
 };
