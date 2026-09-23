@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.23 (수) 22:40",
+  "updatedAt": "2026.09.24 (목) 03:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"테스트용 버전 배포됐다\" 황당한 실수‥수리·보상은 어떻게?",
-          "desc": "삼성전자 설명에 따르면, 실수로 노출된 테스트용 소프트웨어가 고객 냉장고에 잘못 설치돼 버렸다는데요.... 원격으로 급속 냉동·냉장 기능을 켜거나, 문이 계속 열려 있으면 알려주는, 삼성의 AI 가전 시스템, '스마트...",
-          "src": "imnews",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/214/0001525630?sid=101",
-          "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/09/23/desk_20260923_213855_1_14_Large.jpg"
+          "title": "\"명절 음식 어떡하라고\"…'먹통' 된 최신 냉장고",
+          "desc": "[임 모 씨/피해 소비자 : 계속 그렇게만 안내 문구가 뜨고 그 뒤로 지금까지 쭉 먹통이에요.] 그제(22일) 오후 삼성전자 가전을 제어하는 '스마트싱스' 앱에서 알림을 받고 냉장고 소프트웨어 업데이트를 진행하다 벌어진...",
+          "src": "news",
+          "date": "09/24",
+          "url": "https://n.news.naver.com/mnews/article/055/0001390794?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260924/202225524_1280.jpg"
+        },
+        {
+          "title": "물걸레 청소기 세제, 모델 설명서부터 확인",
+          "desc": "LG전자는 로봇청소기 일부 모델에 전용 관리제 사용을 권하고, 주방세제나 락스 등 다른 제품을 사용하면... 투입 위치가 맞는지 살펴야 한다. 사용설명서는 LG전자와 삼성전자 고객지원에서도 모델명을 검색해 확인할 수 있다.",
+          "src": "vegannews",
+          "date": "09/24",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=386864",
+          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17901812873693.jpg"
         },
         {
           "title": "삼성전자, 냉장고 오류 '추석 전 복구' 총력… 수습 속도전",
-          "desc": "삼성전자가 냉장고 소프트웨어(SW) 업데이트 오류와 관련해 부품 수급부터 출장 수리까지 전사 역량을... 네트워크에 연결된 스마트 가전 전반이 안고 있는 구조적 위험이어서 세탁기와 TV, 로봇청소기 등에서도 비슷한...",
+          "desc": "실제로 미국에서도 삼성전자와 LG전자, GE 가전에서 업데이트 도중 기기가 재부팅되며 펌웨어가 손상돼 작동 오류가 난 사례가 보고된 바 있다. 미국의 한 가전 수리업체는 \"스마트 건조기는 타이머와 온도 조절 장치, 모터...",
           "src": "econovill",
           "date": "09/23",
           "url": "https://www.econovill.com/news/articleView.html?idxno=751604",
           "img": "https://cdn.econovill.com/news/thumbnail/202609/751604_727774_5547_v150.jpg"
         },
         {
-          "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
-          "desc": "추석을 코앞에 두고 삼성전자 냉장고 일부가 먹통이 됐습니다. 삼성전자는 소프트웨어 업데이트 테스트 과정 중에 일부 고객에게 프로그램이 잘못 배포됐다며 긴급 대응에 나섰습니다. 이승은 기자가 보도합니다. [기자]...",
-          "src": "ytn",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/052/0002410713?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0923/202609232213466961_t.jpg"
-        },
-        {
-          "title": "\"다 버려야 하나\" 추석 직전 날벼락…진화 나선 삼전",
-          "desc": "[임 모 씨/피해 소비자 : 계속 그렇게만 안내 문구가 뜨고 그 뒤로 지금까지 쭉 먹통이에요.] 어제(22일) 오후 삼성전자 가전을 제어하는 '스마트싱스' 앱에서 알림을 받고, 냉장고 소프트웨어 업데이트를 진행하다 벌어진...",
-          "src": "news",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/055/0001390754?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20260923/202225454_1280.jpg"
+          "title": "\"연휴에 가전 고장나면\"…삼성·LG 추석 서비스센터 이곳으로",
+          "desc": "24일 관련업계에 따르면 주요 가전·IT 기업들이 이날부터 27일까지 이어지는 추석 연휴 서비스 운영 일정을 공지했다. 삼성전자서비스는 추석 연휴 긴급 수리 서비스 운영 계획을 22일 밝혔다. 24일과 추석 당일인...",
+          "src": "더팩트",
+          "date": "09/24",
+          "url": "https://n.news.naver.com/mnews/article/629/0000536723?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/09/23/202669801790122812.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "트리니오, AIoT 국제전시회 2026서 제조 데이터 자동화 솔루션 'DANA' 선보...",
-          "desc": "AI 업무자동화 기업이다. 트리니오는 2025년 7월 설립된 기업으로, ERP·MES·엑셀 등 제조기업이 이미 활용... 분야의 AI+IoT 융합 기술과 서비스를 한자리에서 선보이며, AIoT 진흥주간 부대행사로 AIoT 국제컨퍼런스와...",
-          "src": "kr",
-          "date": "09/23",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814741",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814741_780688_545.png"
-        },
-        {
-          "title": "[패트롤] 인천시-인천시교육청-인천경제자유구역청-인천교통공사",
-          "desc": "이어 인천시가 '예산 총액한도제 도입' 등 재정혁신을 추진하고 있다며 국회 예산 심의 과정에서 건의... 이어 AI 기술이 발전할수록 스스로 질문하고 판단하며 이를 삶의 도구로 활용하는 역량이 중요하다고 밝혔다. 또...",
+          "title": "[패트롤] 군포시의회-시흥시의회-연천군의회-하남시의회",
+          "desc": "AI 활용 조례안'을 제289회 제1차 정례회 제2차 본회의에서 최종 가결됐다. 이번 조례안은 군포시의회 의정활동 지원 업무에 AI 기술을 체계적으로 도입해 의정활동 전문성과 업무 효율성을 높이고 군포시의회의 AI 혁신...",
           "src": "ekn",
-          "date": "09/23",
-          "url": "https://www.ekn.kr/web/view.php?key=20260923020518808",
-          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260923.93bead889a7043469b61ff79f893c32c_R.jpg"
+          "date": "09/24",
+          "url": "https://www.ekn.kr/web/view.php?key=20260924026538846",
+          "img": ""
         },
         {
-          "title": "아마존 AI 판매자 도구, 승인 뒤 업무 실행까지 확대",
-          "desc": "기술 기반은 아마존의 클라우드 AI 플랫폼 Amazon Bedrock이다. 아마존은 자체 모델 Amazon Nova와 앤스로픽의 클로드를 활용한다고 밝혔지만, 각 모델이 맡는 업무와 사용 비중·비용 구조는 공개하지 않았다. 이번...",
+          "title": "구글, 130개 언어 음성 모델 출시…대사별 감정 조정",
+          "desc": "두 기술의 처리 과정과 활용 목적이 다르다는 점이 확인됐다. 이번 발표는 음성 AI 제품군 안에서... 주요 활용처로 제시했다. Figma·HeyGen·Linguana·Wondercraft와의 협력도 공개했지만, 각 협력사의 실제 도입...",
           "src": "tokenpost",
-          "date": "09/23",
-          "url": "https://www.tokenpost.kr/news/ai/412916",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/qbffeg81jj.jpg"
+          "date": "09/24",
+          "url": "https://www.tokenpost.kr/news/ai/413084",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/10dr61xjxn.jpg"
         },
         {
-          "title": "AI가 범인 찍어줬는데, 검증할 사람 없네…682억 투자했는데 ‘빈틈’이",
-          "desc": "보고서는 경찰청에 AI위원회를 신설하고 활용 AI의 모델·버전·위험 등급을 중앙에서 관리해야 한다고 주문했다. 실증 샌드박스에서 성능과 편향을 검증한 기술만 단계적으로 현장에 배치하자는 방안도 내놨다....",
-          "src": "매일경제",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/009/0005739698?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.16df8fcdd80749dfbd95d60ca811fa46_R.jpg"
+          "title": "이지현 시즐 대표 \"중소 제조업, AI 전환 위해 즉각 적용 솔루션 필요\"",
+          "desc": "시즐의 기술을 도입하면 기존에 공정 데이터가 전혀 없던 기업도 핵심 데이터를 확보할 수 있다. AI를 활용해 데이터를 분석함으로써 생산성과 품질을 높일 수 있으며, 대규모 투자 없이도 공정 혁신이 가능하다. 이지현...",
+          "src": "gukjenews",
+          "date": "09/24",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705228",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202609/3705228_3878814_354_v150.jpg"
+        },
+        {
+          "title": "경기도, 제조현장 피지컬 AI 확산 시동…10월 민관 협의체 발대식",
+          "desc": "이수재 도 AI산업육성과장은 “현장의 기술 수요를 정책과 지원사업에 연결해 도입 기업의 시행착오와 비용 부담을 줄이겠다”며 “기업 간 수요·공급 매칭과 현장 실증을 확대해 피지컬 AI 활용도를 높이겠다”고...",
+          "src": "전자신문",
+          "date": "09/24",
+          "url": "https://n.news.naver.com/mnews/article/030/0003469798?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/09/24/news-p.v1.20260924.356aa6b989294cdda1eb1a7722f23955_P1.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"테스트용 버전 배포됐다\" 황당한 실수‥수리·보상은 어떻게?",
-      "url": "https://n.news.naver.com/mnews/article/214/0001525630?sid=101",
-      "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/09/23/desk_20260923_213855_1_14_Large.jpg"
+      "title": "\"명절 음식 어떡하라고\"…'먹통' 된 최신 냉장고",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390794?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260924/202225524_1280.jpg"
+    },
+    {
+      "title": "물걸레 청소기 세제, 모델 설명서부터 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=386864",
+      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17901812873693.jpg"
     },
     {
       "title": "삼성전자, 냉장고 오류 '추석 전 복구' 총력… 수습 속도전",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.econovill.com/news/thumbnail/202609/751604_727774_5547_v150.jpg"
     },
     {
-      "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410713?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0923/202609232213466961_t.jpg"
+      "title": "\"연휴에 가전 고장나면\"…삼성·LG 추석 서비스센터 이곳으로",
+      "url": "https://n.news.naver.com/mnews/article/629/0000536723?sid=101",
+      "img": "https://img.tf.co.kr/article/home/2026/09/23/202669801790122812.jpg"
     },
     {
-      "title": "\"다 버려야 하나\" 추석 직전 날벼락…진화 나선 삼전",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390754?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20260923/202225454_1280.jpg"
+      "title": "구글, 130개 언어 음성 모델 출시…대사별 감정 조정",
+      "url": "https://www.tokenpost.kr/news/ai/413084",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/10dr61xjxn.jpg"
     },
     {
-      "title": "트리니오, AIoT 국제전시회 2026서 제조 데이터 자동화 솔루션 'DANA' 선보...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1814741",
-      "img": "https://cdn.kr.aving.net/news/photo/202609/1814741_780688_545.png"
-    },
-    {
-      "title": "[패트롤] 인천시-인천시교육청-인천경제자유구역청-인천교통공사",
-      "url": "https://www.ekn.kr/web/view.php?key=20260923020518808",
-      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260923.93bead889a7043469b61ff79f893c32c_R.jpg"
+      "title": "이지현 시즐 대표 \"중소 제조업, AI 전환 위해 즉각 적용 솔루션 필요\"",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705228",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202609/3705228_3878814_354_v150.jpg"
     }
   ]
 };
