@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.23 (수) 16:47",
+  "updatedAt": "2026.09.23 (수) 22:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 추석 연휴 제품 고장났다면?…26~27일 '긴급 서비스' 지원",
-          "desc": "가전제품은 연휴 중 모든 고장에 출장 수리가 제공되는 것은 아니다. 삼성전자서비스는 상담사와 출장 엔지니어가 비상 당직 체계로 근무하면서 냉장고의 냉동·냉장 기능이 작동하지 않는 경우 등 긴급한 점검이 필요한...",
-          "src": "IT데일리",
+          "title": "\"테스트용 버전 배포됐다\" 황당한 실수‥수리·보상은 어떻게?",
+          "desc": "삼성전자 설명에 따르면, 실수로 노출된 테스트용 소프트웨어가 고객 냉장고에 잘못 설치돼 버렸다는데요.... 원격으로 급속 냉동·냉장 기능을 켜거나, 문이 계속 열려 있으면 알려주는, 삼성의 AI 가전 시스템, '스마트...",
+          "src": "imnews",
           "date": "09/23",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=241831",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241831_247680_2457_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001525630?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/09/23/desk_20260923_213855_1_14_Large.jpg"
         },
         {
-          "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
-          "desc": "▲'삼성전자'는 Micro RGB 기술로 혼색을 최소화하고 'Micro RGB AI 엔진 Pro' 등 AI로 안정적인 화질을 구현한 '마이크로 RGB', 100℃ 물걸레 스팀 살균과 Knox 보안 기술을 갖춘 로봇청소기 '비스포크 AI 스팀...",
-          "src": "kr",
-          "date": "09/22",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814702",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
-        },
-        {
-          "title": "[칩코노미 下] 가전까지 번진 AI발 칩플레이션…영향은 '제각각'",
-          "desc": "가전제품 가운데 의류건조기는 8.1%, 전자레인지는 6.8%, 세탁기는 6.3%, TV는 3.9% 올랐다. 반면 냉장고는 2.4... 삼성전자도 TV와 생활가전이 반도체 가격 상승의 영향에서 완전히 자유로운 것은 아니지만 영향은...",
-          "src": "srtimes",
+          "title": "삼성전자, 냉장고 오류 '추석 전 복구' 총력… 수습 속도전",
+          "desc": "삼성전자가 냉장고 소프트웨어(SW) 업데이트 오류와 관련해 부품 수급부터 출장 수리까지 전사 역량을... 네트워크에 연결된 스마트 가전 전반이 안고 있는 구조적 위험이어서 세탁기와 TV, 로봇청소기 등에서도 비슷한...",
+          "src": "econovill",
           "date": "09/23",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=213261",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202609/213261_218365_5555_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751604",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/751604_727774_5547_v150.jpg"
         },
         {
-          "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
-          "desc": "삼성전자 로지텍의 리폼 전문 협력 업체가 가구장을 리폼하고, 삼성전자 로지텍 전문 설치팀이 로봇청소기를 설치해준다. 사후 관리에서도 경쟁력이 있다는 평가가 나온다. 삼성전자는 전국 169개 서비스센터 중 117곳에...",
-          "src": "한국경제",
-          "date": "09/22",
-          "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
+          "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
+          "desc": "추석을 코앞에 두고 삼성전자 냉장고 일부가 먹통이 됐습니다. 삼성전자는 소프트웨어 업데이트 테스트 과정 중에 일부 고객에게 프로그램이 잘못 배포됐다며 긴급 대응에 나섰습니다. 이승은 기자가 보도합니다. [기자]...",
+          "src": "ytn",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410713?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0923/202609232213466961_t.jpg"
+        },
+        {
+          "title": "\"다 버려야 하나\" 추석 직전 날벼락…진화 나선 삼전",
+          "desc": "[임 모 씨/피해 소비자 : 계속 그렇게만 안내 문구가 뜨고 그 뒤로 지금까지 쭉 먹통이에요.] 어제(22일) 오후 삼성전자 가전을 제어하는 '스마트싱스' 앱에서 알림을 받고, 냉장고 소프트웨어 업데이트를 진행하다 벌어진...",
+          "src": "news",
+          "date": "09/23",
+          "url": "https://n.news.naver.com/mnews/article/055/0001390754?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20260923/202225454_1280.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[대전유성구의회소식] 박정수 유성구의원, \"둔곡지구 B1 BRT 탑승난 해소...",
-          "desc": "이를 위해 박 의원은 △70인승급 2층 전기 좌석버스 등 대용량 버스 도입 및 출퇴근 시간대 집중 배치... 박 의원은 \"AI 지원은 기술 자체가 아닌 주민 삶의 변화로 증명되어야 한다\"며 \"유성구가 AI를 가장 잘 활용하는...",
-          "src": "daily",
+          "title": "트리니오, AIoT 국제전시회 2026서 제조 데이터 자동화 솔루션 'DANA' 선보...",
+          "desc": "AI 업무자동화 기업이다. 트리니오는 2025년 7월 설립된 기업으로, ERP·MES·엑셀 등 제조기업이 이미 활용... 분야의 AI+IoT 융합 기술과 서비스를 한자리에서 선보이며, AIoT 진흥주간 부대행사로 AIoT 국제컨퍼런스와...",
+          "src": "kr",
           "date": "09/23",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409570",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1409570_1589069_2957_v150.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1814741",
+          "img": "https://cdn.kr.aving.net/news/photo/202609/1814741_780688_545.png"
         },
         {
-          "title": "'개인정보 유출' 티빙, 보안 취약점 차단·실시간 위협 대응 나서",
-          "desc": "프로그램 도입도 검토한다. 차세대 보안 체계 구축에도 속도를 낸다. 티빙은 클라우드 보안에 대한 통합 점검 체계를 강화하고, AI 기반 보안 위협 탐지·차단 기술을 활용해 실시간 위협 대응 역량을 높인다는 방침이다....",
-          "src": "insight",
+          "title": "[패트롤] 인천시-인천시교육청-인천경제자유구역청-인천교통공사",
+          "desc": "이어 인천시가 '예산 총액한도제 도입' 등 재정혁신을 추진하고 있다며 국회 예산 심의 과정에서 건의... 이어 AI 기술이 발전할수록 스스로 질문하고 판단하며 이를 삶의 도구로 활용하는 역량이 중요하다고 밝혔다. 또...",
+          "src": "ekn",
           "date": "09/23",
-          "url": "https://www.insight.co.kr/news/575126",
-          "img": "https://img.insight.co.kr/static/2026/09/23/1200/img_20260923162103_w0r9w0qx.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260923020518808",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260923.93bead889a7043469b61ff79f893c32c_R.jpg"
         },
         {
-          "title": "LS일렉트릭, 4족 보행로봇으로 스마트팩토리 고도화 나선다",
-          "desc": "LS일렉트릭은 최근 부산사업장에 보스턴 다이내믹스(Boston Dynamics)의 4족 보행로봇 'Spot(스팟)'을 도입... Spot은 생산 현장을 자율 순찰하며 AIVI(AI Visual Inspection, 인공지능 기반 비전 검사) 기술을 활용해 항온·항습...",
-          "src": "epj",
+          "title": "아마존 AI 판매자 도구, 승인 뒤 업무 실행까지 확대",
+          "desc": "기술 기반은 아마존의 클라우드 AI 플랫폼 Amazon Bedrock이다. 아마존은 자체 모델 Amazon Nova와 앤스로픽의 클로드를 활용한다고 밝혔지만, 각 모델이 맡는 업무와 사용 비중·비용 구조는 공개하지 않았다. 이번...",
+          "src": "tokenpost",
           "date": "09/23",
-          "url": "http://www.epj.co.kr/news/articleView.html?idxno=39463",
-          "img": "http://www.epj.co.kr/news/thumbnail/202609/39463_51995_3726_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/ai/412916",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/qbffeg81jj.jpg"
         },
         {
-          "title": "[IT는 지금] LGU+, 추석 연휴 여행·빈집·집콕 서비스·혜택 운영 外",
-          "desc": "분류 기술을 확보하며 데이터 보안 전 주기 체계를 완성한다. 한컴위드는 커넥셔너리와 AI 지능형 문서 자동 분류 제품 공동 개발을 위한 양해각서(MOU)를 체결했다. 이번 협약은 N2SF 도입에 따른 공공기관의 데이터...",
-          "src": "dealsite",
+          "title": "AI가 범인 찍어줬는데, 검증할 사람 없네…682억 투자했는데 ‘빈틈’이",
+          "desc": "보고서는 경찰청에 AI위원회를 신설하고 활용 AI의 모델·버전·위험 등급을 중앙에서 관리해야 한다고 주문했다. 실증 샌드박스에서 성능과 편향을 검증한 기술만 단계적으로 현장에 배치하자는 방안도 내놨다....",
+          "src": "매일경제",
           "date": "09/23",
-          "url": "https://dealsite.co.kr/articles/169566",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/0a4391a6e0c04e53888e8de103f5035c/thumb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005739698?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.16df8fcdd80749dfbd95d60ca811fa46_R.jpg"
         }
       ]
     },
@@ -101,12 +101,12 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "'칩플레이션' 유탄 맞은 폰·노트북·TV 부품사",
+          "title": "\"반도체값 올랐는데 왜 우리가?\"…국내 부품사들 '날벼락'",
           "desc": "다른 부품으로 전가되는 ‘칩플레이션 풍선효과’라는 분석이 나온다. ◇2·3차 협력사로 번지는 인하 압력... 대형 부품업체도 예외가 아니다. 애플과 삼성전자, LG전자 등에 TV 패널을 공급하는 삼성디스플레이와...",
           "src": "한국경제",
           "date": "09/23",
           "url": "https://n.news.naver.com/mnews/article/015/0005335748?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/AA.45801165.1.jpg"
+          "img": "https://img.hankyung.com/photo/202609/ZA.45735716.1.jpg"
         },
         {
           "title": "추석 앞두고 협력사에 수조원 푸는 재계…2·3차까지 지원 확대",
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 추석 연휴 제품 고장났다면?…26~27일 '긴급 서비스' 지원",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=241831",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202609/241831_247680_2457_v150.jpg"
+      "title": "\"테스트용 버전 배포됐다\" 황당한 실수‥수리·보상은 어떻게?",
+      "url": "https://n.news.naver.com/mnews/article/214/0001525630?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/09/23/desk_20260923_213855_1_14_Large.jpg"
     },
     {
-      "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1814702",
-      "img": "https://cdn.kr.aving.net/news/photo/202609/1814702_780631_929.png"
+      "title": "삼성전자, 냉장고 오류 '추석 전 복구' 총력… 수습 속도전",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=751604",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/751604_727774_5547_v150.jpg"
     },
     {
-      "title": "[칩코노미 下] 가전까지 번진 AI발 칩플레이션…영향은 '제각각'",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213261",
-      "img": "https://cdn.srtimes.kr/news/thumbnail/202609/213261_218365_5555_v150.jpg"
+      "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
+      "url": "https://n.news.naver.com/mnews/article/052/0002410713?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0923/202609232213466961_t.jpg"
     },
     {
-      "title": "부모님 집안일 덜하게…분신 같은 로봇청소기 선물하세요",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335209?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/AA.45781116.1.jpg"
+      "title": "\"다 버려야 하나\" 추석 직전 날벼락…진화 나선 삼전",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390754?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20260923/202225454_1280.jpg"
     },
     {
-      "title": "[대전유성구의회소식] 박정수 유성구의원, \"둔곡지구 B1 BRT 탑승난 해소...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409570",
-      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1409570_1589069_2957_v150.jpg"
+      "title": "트리니오, AIoT 국제전시회 2026서 제조 데이터 자동화 솔루션 'DANA' 선보...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1814741",
+      "img": "https://cdn.kr.aving.net/news/photo/202609/1814741_780688_545.png"
     },
     {
-      "title": "'개인정보 유출' 티빙, 보안 취약점 차단·실시간 위협 대응 나서",
-      "url": "https://www.insight.co.kr/news/575126",
-      "img": "https://img.insight.co.kr/static/2026/09/23/1200/img_20260923162103_w0r9w0qx.jpg"
+      "title": "[패트롤] 인천시-인천시교육청-인천경제자유구역청-인천교통공사",
+      "url": "https://www.ekn.kr/web/view.php?key=20260923020518808",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260923.93bead889a7043469b61ff79f893c32c_R.jpg"
     }
   ]
 };
