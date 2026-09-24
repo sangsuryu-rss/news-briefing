@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.24 (목) 13:55",
+  "updatedAt": "2026.09.24 (목) 20:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'OLED도 LED인가'… 삼성·LG, 인도 관세당국과 해석 충돌",
-          "desc": "삼성전자도 인도에서 OLED TV를 생산·판매하고 있다. 이번 조사를 계기로 인도 전자업계의 OLED 관세 인하 요구도 다시 주목받고 있다. 인도 소비자가전제조업협회(CEAMA)와 정보기술업계 단체 MAIT는 지난달 인도...",
-          "src": "조선일보",
+          "title": "印, OLED 부품 '관세 축소 의혹' 삼성·LG 조사",
+          "desc": "한편, 1990년대 인도 시장에 첫발을 디딘 삼성전자와 LG전자는 현지 생산 공장, R&D 센터, 디자인센터 등을 구축하고 인도 가전 및 IT 시장을 이끌어왔다. 특히 LG전자는 지난해 인도법인을 뭄바이 증권거래소에...",
+          "src": "m-i",
           "date": "09/24",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170846",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092170846_453356_2817_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1417996",
+          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417996_1206482_2319_v150.jpg"
         },
         {
-          "title": "재계 총수들 연일 'AI 메시지'…경영 전반에 '인공지능 DNA' 이식",
-          "desc": "이는 \"일하는 방식과 조직 DNA를 송두리째 바꿔야 한다\"며 전사적 혁신을 주문한 이재용 삼성전자 회장의... 및 로봇청소기 충돌 검증 ▲네트워크사업부의 RU(라디오 유닛) 방열 검증 등에 HPC 인프라를 활용하고 있다....",
-          "src": "뉴시스",
+          "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
+          "desc": "이는 이재용 삼성전자 회장이 올해 신년사에서 일하는 방식과 조직 문화의 변화를 주문한 데 따른 후속... 생활가전사업부와 네트워크사업부도 세탁기·로봇청소기·통신장비의 성능 검증에 해당 기술을 적용하고...",
+          "src": "thetracker",
           "date": "09/24",
-          "url": "https://n.news.naver.com/mnews/article/003/0014212208?sid=101",
-          "img": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217896_web.jpg"
+          "url": "https://thetracker.co.kr/View.aspx?No=4241172",
+          "img": "https://cdn.coenworks.com/Files/478/News/202609/8462_20260924150051178.jpg"
         },
         {
           "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
         },
         {
-          "title": "테스트용 SW 잘못 배포..삼성 냉장고 ‘먹통’에 긴급 대응",
-          "desc": "24일 업계에 따르면 삼성전자 냉장고 일부 제품에서 스마트홈 플랫폼 ‘스마트싱스(SmartThings)’를 통한 SW 업데이트 이후 전원과 냉장·냉동 기능 등이 정상적으로 작동하지 않는 문제가 발생했다. 삼성전자 공식...",
-          "src": "kpenews",
+          "title": "5%냐 15%냐…인도 세무당국, 삼성·LG OLED 관세 조사",
+          "desc": "노이다 공장에서는 스마트폰과 태블릿, 냉장고 등을 생산한다. 삼성전자는 현지에서 생산시설뿐 아니라 연구개발(R&D)센터와 삼성반도체인도연구소(SSIR), 디자인센터 등도 운영하고 있다. 현지 고용 규모도 상당하다....",
+          "src": "핀포인트뉴스",
           "date": "09/24",
-          "url": "https://kpenews.com/View.aspx?No=4241130",
-          "img": "https://cdn.coenworks.com/Files/4/News/202609/8611_20260924131706483.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490207",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490207_476097_4624_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "코트라, 중남미·북미 누비며 K-수출 영토 확장",
-          "desc": "□ 정상외교 효과 활용, 중앙아·중남미 K-푸드 진출 확대 컨슈머타임스=안성렬 기자... 특히 미 행정부가 지난 8월 안보 우려 대상국의 전력설비 도입·설치를 원천 금지하는 행정명령을 발동하면서 공급망 대체 수요가...",
-          "src": "cstimes",
+          "title": "행동하는 AI 시대, '신뢰의 관문'은 통신이 되어야 한다",
+          "desc": "로 활용하는 방안을 표준 안건으로 제안한 내용을 전했다. 사람과 사람을 이어 온 통신이 이제 사람과 AI를... 김 담당은 \"에이전트 시대를 준비하면서 중요한 것은 새로운 기술을 얼마나 빠르게 도입하느냐만이 아니다...",
+          "src": "thedailypost",
           "date": "09/24",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=721939",
-          "img": "https://www.cstimes.com/news/photo/202609/721939_642958_5337.jpg"
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115824",
+          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115824_120051_4219_v150.jpg"
         },
         {
-          "title": "재계 총수들 연일 'AI 메시지'…경영 전반에 '인공지능 DNA' 이식",
-          "desc": "이에 따라 외부 생성형 AI를 도입하고, 전 관계사 임원 2300여명을 대상으로 한 AI 합숙 교육도 실시했다.... 정의선 현대차그룹 회장은 올해 신년회에서 AI를 \"과거의 성공 방정식을 무력화하는 패러다임 전환 기술...",
-          "src": "뉴시스",
+          "title": "구글, AI 영상 제작 문턱 낮췄다…제미나이로 1080p 영상 무료 생성",
+          "desc": "구글 계정만 있으면 최신 AI 모델을 활용해 1080p 고화질 영상을 생성하고, 장면 길이와 전환 효과까지 조정할 수 있다. 이는 전문적인 영상 편집 기술이나 별도의 제작 예산 없이도 홍보·마케팅 영상을 만들 수 있도록...",
+          "src": "AI타임스",
           "date": "09/24",
-          "url": "https://n.news.naver.com/mnews/article/003/0014212208?sid=101",
-          "img": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217896_web.jpg"
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42062",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42062_63261_2816_v150.jpg"
         },
         {
-          "title": "GPU 아무리 늘려도 연결 느리면 한계…AI 데이터센터 '1.6T 광통신' 전쟁",
-          "desc": "2T 기술 개발까지 서두르고 있다. [그래픽=구글 제미나이(Google Gemini) 활용 이미지]  인공지능(AI) 데이터센터... 약 8억대만달러를 투입해 심자외선(DUV) 노광장비도 도입하는 등 고속 광통신 부품 생산을 위한 설비투자를...",
-          "src": "joongangenews",
+          "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+          "desc": "우선 온디맨드 이미지 로딩(On-demand Image Loading) 방식을 도입해 대용량 프로그램을 매번 전체... 재활용성을 높이고 재시작 부담을 크게 낮췄다. 딥시크는 \"AI 에이전트 기술이 정밀한 자원 관리와 높은 격리 수준을...",
+          "src": "AI타임스",
           "date": "09/24",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=550440",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/550440_357161_3742.png"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+          "img": "https://cdn.aitimes.com/news/photo/202609/215634_219538_93.jpg"
         },
         {
-          "title": "AI 인사 도입 86.7%인데 사전고지 57%…탈락 사유 물을 권리 생겼다",
-          "desc": "AI를 활용하는 기업이 가장 많이 도입한 절차는 AI 기반 인·적성 또는 역량검사(69.8%)였다. 지원서류... 과학기술정보통신부는 지난 2월 6일 세부 절차를 담은 고영향 AI 사업자 책무 고시 제정안을 행정예고했다. 1년...",
-          "src": "imaeil",
+          "title": "\"이체한도 높여줘\" 물었더니 척척…'KB AI' 써보니",
+          "desc": "바란다\"며 \"앞으로도 AI 기술을 다양한 금융서비스에 접목해 새로운 금융 경험을 제공해 나가겠다\"고... 키우기 위한 'AI 아카데미'와 전 직원의 AI 활용 경험·우수 사례를 공유하는 'AI 챌린지 프로그램'도 도입했다.",
+          "src": "아주경제",
           "date": "09/24",
-          "url": "https://n.news.naver.com/mnews/article/088/0001030489?sid=101",
-          "img": "https://www.imaeil.com/photos/2026/09/24/2026092412240052094_l.jpg"
+          "url": "https://www.ajunews.com/view/20260924142530131",
+          "img": "https://image.ajunews.com/content/image/2026/09/24/20260924143039680783.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
+          "desc": "이는 이재용 삼성전자 회장이 올해 신년사에서 일하는 방식과 조직 문화의 변화를 주문한 데 따른 후속... 경북 경주의 현대차그룹 글로벌상생협력센터에는 ‘AI 특화 공동훈련센터’를 개소해 협력사까지 교육...",
+          "src": "thetracker",
+          "date": "09/24",
+          "url": "https://thetracker.co.kr/View.aspx?No=4241172",
+          "img": "https://cdn.coenworks.com/Files/478/News/202609/8462_20260924150051178.jpg"
+        },
         {
           "title": "재계 총수들 연일 'AI 메시지'…경영 전반에 '인공지능 DNA' 이식",
           "desc": "이는 \"일하는 방식과 조직 DNA를 송두리째 바꿔야 한다\"며 전사적 혁신을 주문한 이재용 삼성전자 회장의... 또 경북 경주 소재 협력사 전용 교육 시설인 현대차그룹 글로벌상생협력센터(GPC)에서 'AI 특화...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/24",
           "url": "https://n.news.naver.com/mnews/article/002/0002458228?sid=102",
           "img": "https://www.pressian.com/_resources/10/2026/09/24/2026092310421182455_l.jpg"
-        },
-        {
-          "title": "\"반도체값 올랐는데 왜 우리가?\"…국내 부품사들 '날벼락'",
-          "desc": "다른 부품으로 전가되는 ‘칩플레이션 풍선효과’라는 분석이 나온다. ◇2·3차 협력사로 번지는 인하 압력... 대형 부품업체도 예외가 아니다. 애플과 삼성전자, LG전자 등에 TV 패널을 공급하는 삼성디스플레이와...",
-          "src": "한국경제",
-          "date": "09/23",
-          "url": "https://n.news.naver.com/mnews/article/015/0005335748?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/ZA.45735716.1.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "'OLED도 LED인가'… 삼성·LG, 인도 관세당국과 해석 충돌",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170846",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202609/2023092170846_453356_2817_v150.jpg"
+      "title": "印, OLED 부품 '관세 축소 의혹' 삼성·LG 조사",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1417996",
+      "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417996_1206482_2319_v150.jpg"
     },
     {
-      "title": "재계 총수들 연일 'AI 메시지'…경영 전반에 '인공지능 DNA' 이식",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212208?sid=101",
-      "img": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217896_web.jpg"
+      "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4241172",
+      "img": "https://cdn.coenworks.com/Files/478/News/202609/8462_20260924150051178.jpg"
     },
     {
       "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
     },
     {
-      "title": "테스트용 SW 잘못 배포..삼성 냉장고 ‘먹통’에 긴급 대응",
-      "url": "https://kpenews.com/View.aspx?No=4241130",
-      "img": "https://cdn.coenworks.com/Files/4/News/202609/8611_20260924131706483.jpg"
+      "title": "5%냐 15%냐…인도 세무당국, 삼성·LG OLED 관세 조사",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490207",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490207_476097_4624_v150.jpg"
     },
     {
-      "title": "코트라, 중남미·북미 누비며 K-수출 영토 확장",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=721939",
-      "img": "https://www.cstimes.com/news/photo/202609/721939_642958_5337.jpg"
+      "title": "행동하는 AI 시대, '신뢰의 관문'은 통신이 되어야 한다",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115824",
+      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115824_120051_4219_v150.jpg"
     },
     {
-      "title": "재계 총수들 연일 'AI 메시지'…경영 전반에 '인공지능 DNA' 이식",
-      "url": "https://n.news.naver.com/mnews/article/003/0014212208?sid=101",
-      "img": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217896_web.jpg"
+      "title": "구글, AI 영상 제작 문턱 낮췄다…제미나이로 1080p 영상 무료 생성",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42062",
+      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42062_63261_2816_v150.jpg"
     }
   ]
 };
