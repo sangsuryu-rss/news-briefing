@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.24 (목) 20:50",
+  "updatedAt": "2026.09.25 (금) 02:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "印, OLED 부품 '관세 축소 의혹' 삼성·LG 조사",
-          "desc": "한편, 1990년대 인도 시장에 첫발을 디딘 삼성전자와 LG전자는 현지 생산 공장, R&D 센터, 디자인센터 등을 구축하고 인도 가전 및 IT 시장을 이끌어왔다. 특히 LG전자는 지난해 인도법인을 뭄바이 증권거래소에...",
-          "src": "m-i",
-          "date": "09/24",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1417996",
-          "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417996_1206482_2319_v150.jpg"
+          "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
+          "desc": "TV와 생활가전 등을 담당하는 VD·DA 부문도 1000억원의 영업손실이 예상됐다. 결국 삼성전자의 3분기 실적은 반도체 사업이 사실상 대부분을 책임지는 구조가 될 가능성이 크다. 단기적으로는 실적 전망치 하향이 부담이...",
+          "src": "핀포인트뉴스",
+          "date": "09/25",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490192",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490192_476084_4227_v150.jpg"
         },
         {
           "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "행동하는 AI 시대, '신뢰의 관문'은 통신이 되어야 한다",
-          "desc": "로 활용하는 방안을 표준 안건으로 제안한 내용을 전했다. 사람과 사람을 이어 온 통신이 이제 사람과 AI를... 김 담당은 \"에이전트 시대를 준비하면서 중요한 것은 새로운 기술을 얼마나 빠르게 도입하느냐만이 아니다...",
-          "src": "thedailypost",
-          "date": "09/24",
-          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115824",
-          "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115824_120051_4219_v150.jpg"
+          "title": "알파고 연구자, AI 추론 스타트업에 수천만달러 조달 추진",
+          "desc": "AI가 내린 결론과 행동의 근거를 추적하고, 문제를 해결하는 과정에서 축적한 지식을 다음 판단에 활용하... 이번 사안은 가상자산이나 반도체 사업과 직접 연결된 내용이 아니라 AI 추론 기술과 연구자 창업, 스타트업...",
+          "src": "tokenpost",
+          "date": "09/25",
+          "url": "https://www.tokenpost.kr/news/ai/413651",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/eijfox4cku.jpg"
         },
         {
-          "title": "구글, AI 영상 제작 문턱 낮췄다…제미나이로 1080p 영상 무료 생성",
-          "desc": "구글 계정만 있으면 최신 AI 모델을 활용해 1080p 고화질 영상을 생성하고, 장면 길이와 전환 효과까지 조정할 수 있다. 이는 전문적인 영상 편집 기술이나 별도의 제작 예산 없이도 홍보·마케팅 영상을 만들 수 있도록...",
-          "src": "AI타임스",
+          "title": "맥도날드($MCD), 2036년까지 가맹점에 85억달러 지원",
+          "desc": "생성형 AI 기반 운영체제 'ArchIQ'도 전략에 포함됐다. ArchIQ는 운영 단순화와 주방·드라이브스루 효율 개선, 재고 관리 등에 활용될 예정이며 국가별 도입 일정과 적용 범위는 공개되지 않았다. 신규 매장 확대가...",
+          "src": "tokenpost",
           "date": "09/24",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42062",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42062_63261_2816_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/market/413616",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/5fzvk1p5ms.jpg"
         },
         {
-          "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
-          "desc": "우선 온디맨드 이미지 로딩(On-demand Image Loading) 방식을 도입해 대용량 프로그램을 매번 전체... 재활용성을 높이고 재시작 부담을 크게 낮췄다. 딥시크는 \"AI 에이전트 기술이 정밀한 자원 관리와 높은 격리 수준을...",
-          "src": "AI타임스",
+          "title": "AI가 작업 지시하고 로봇이 움직이는 공장…\"중대재해 기준도 바꿔야\"",
+          "desc": "기업들이 기술 도입에 앞서 AI의 판단을 누가 검증할지, 사고 위험이 발생했을 때 누가 작업을 중지할지 등... 돕는 기술\"이라며 \"AI의 판단을 활용하더라도 기업의 확인·관리·감독 책임이 사라지는 것은 아니다\"고 말했다....",
+          "src": "그린포스트",
           "date": "09/24",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215634",
-          "img": "https://cdn.aitimes.com/news/photo/202609/215634_219538_93.jpg"
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350808",
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/350808_402516_1846_v150.jpg"
         },
         {
-          "title": "\"이체한도 높여줘\" 물었더니 척척…'KB AI' 써보니",
-          "desc": "바란다\"며 \"앞으로도 AI 기술을 다양한 금융서비스에 접목해 새로운 금융 경험을 제공해 나가겠다\"고... 키우기 위한 'AI 아카데미'와 전 직원의 AI 활용 경험·우수 사례를 공유하는 'AI 챌린지 프로그램'도 도입했다.",
-          "src": "아주경제",
+          "title": "전국 첫 식품로봇 푸드테크 연구지원센터 포항 가동…17종 장비로 실증...",
+          "desc": "식품로봇은 인공지능(AI)과 로봇 기술을 식품 제조와 외식 서비스에 접목하는 분야다. 음식 조리와 음료 제조, 서빙, 위생 관리 등에 활용해 인력 부담을 줄이고 조리 공정의 안전성과 품질 균일성을 높이는 기술 개발이...",
+          "src": "youngnong",
           "date": "09/24",
-          "url": "https://www.ajunews.com/view/20260924142530131",
-          "img": "https://image.ajunews.com/content/image/2026/09/24/20260924143039680783.jpg"
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70450",
+          "img": "https://cdn.youngnong.co.kr/news/photo/202609/70450_60455_5134.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "印, OLED 부품 '관세 축소 의혹' 삼성·LG 조사",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1417996",
-      "img": "https://cdn.m-i.kr/news/thumbnail/202609/1417996_1206482_2319_v150.jpg"
+      "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490192",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490192_476084_4227_v150.jpg"
     },
     {
       "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490207_476097_4624_v150.jpg"
     },
     {
-      "title": "행동하는 AI 시대, '신뢰의 관문'은 통신이 되어야 한다",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115824",
-      "img": "https://cdn.thedailypost.kr/news/thumbnail/202609/115824_120051_4219_v150.jpg"
+      "title": "알파고 연구자, AI 추론 스타트업에 수천만달러 조달 추진",
+      "url": "https://www.tokenpost.kr/news/ai/413651",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/eijfox4cku.jpg"
     },
     {
-      "title": "구글, AI 영상 제작 문턱 낮췄다…제미나이로 1080p 영상 무료 생성",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42062",
-      "img": "https://cdn.aitimes.kr/news/thumbnail/202609/42062_63261_2816_v150.jpg"
+      "title": "맥도날드($MCD), 2036년까지 가맹점에 85억달러 지원",
+      "url": "https://www.tokenpost.kr/news/market/413616",
+      "img": "https://www.tokenpost.kr/uploads/2026/09/5fzvk1p5ms.jpg"
     }
   ]
 };
