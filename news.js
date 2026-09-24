@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.25 (금) 02:14",
+  "updatedAt": "2026.09.25 (금) 06:33",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
-          "desc": "TV와 생활가전 등을 담당하는 VD·DA 부문도 1000억원의 영업손실이 예상됐다. 결국 삼성전자의 3분기 실적은 반도체 사업이 사실상 대부분을 책임지는 구조가 될 가능성이 크다. 단기적으로는 실적 전망치 하향이 부담이...",
-          "src": "핀포인트뉴스",
+          "title": "인기 명절 선물 된 가전제품 '구독'",
+          "desc": "삼성전자는 'AI 구독클럽'에서 제품과 관리 서비스를 결합한 'AI 올인원 2.0' 요금제를 운영한다. 가전제품에 따라 3~6년간 무상수리를 제공한다. 전문가가 정기적으로 제품을 관리하는 방문케어와 필터 등 소모품을...",
+          "src": "sidae",
           "date": "09/25",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490192",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490192_476084_4227_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/417/0001159234?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/22/00/2026092210194932715_1.jpg"
+        },
+        {
+          "title": "삼성·LG 로봇청소기, 안방은 탈환했는데…글로벌은 여전히 ‘중국 천하...",
+          "desc": "삼성전자와 LG전자가 로봇청소기 신제품을 앞세워 중국 브랜드가 장악하던 국내 시장에서 회복세를 보이고 있지만 글로벌 시장에서는 여전히 존재감이 제한적인 것으로 나타났다. 올해 2분기 글로벌 로봇청소기...",
+          "src": "디지털타임스",
+          "date": "09/25",
+          "url": "https://n.news.naver.com/mnews/article/029/0003049785?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/23/news-p.v1.20260922.37d39acd37324204af7dbbf9a6a05499_R.png"
         },
         {
           "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "09/24",
           "url": "https://n.news.naver.com/mnews/article/028/0002824515?sid=101",
           "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
-        },
-        {
-          "title": "5%냐 15%냐…인도 세무당국, 삼성·LG OLED 관세 조사",
-          "desc": "노이다 공장에서는 스마트폰과 태블릿, 냉장고 등을 생산한다. 삼성전자는 현지에서 생산시설뿐 아니라 연구개발(R&D)센터와 삼성반도체인도연구소(SSIR), 디자인센터 등도 운영하고 있다. 현지 고용 규모도 상당하다....",
-          "src": "핀포인트뉴스",
-          "date": "09/24",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490207",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490207_476097_4624_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "알파고 연구자, AI 추론 스타트업에 수천만달러 조달 추진",
-          "desc": "AI가 내린 결론과 행동의 근거를 추적하고, 문제를 해결하는 과정에서 축적한 지식을 다음 판단에 활용하... 이번 사안은 가상자산이나 반도체 사업과 직접 연결된 내용이 아니라 AI 추론 기술과 연구자 창업, 스타트업...",
-          "src": "tokenpost",
+          "title": "늘어나는 AI 활용…탄소 배출 줄이는 데 도움될까 [기후 리포트]",
+          "desc": "org)'에 게재된 한 논문에서는 AI 기반 탄소 회계 도구를 도입한 120개 기업을 조사한 결과를 소개했다. 조사... 데 활용될 수 있다. AI 기술을 이용하면 위성사진을 분석해 가로·세로 약 100m 정도의 작은 지역에서...",
+          "src": "ekn",
           "date": "09/25",
-          "url": "https://www.tokenpost.kr/news/ai/413651",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/eijfox4cku.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260923022471005",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260922.fffb61c063ed4f928c1f573206aa783e_R.png"
         },
         {
-          "title": "맥도날드($MCD), 2036년까지 가맹점에 85억달러 지원",
-          "desc": "생성형 AI 기반 운영체제 'ArchIQ'도 전략에 포함됐다. ArchIQ는 운영 단순화와 주방·드라이브스루 효율 개선, 재고 관리 등에 활용될 예정이며 국가별 도입 일정과 적용 범위는 공개되지 않았다. 신규 매장 확대가...",
-          "src": "tokenpost",
-          "date": "09/24",
-          "url": "https://www.tokenpost.kr/news/market/413616",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/5fzvk1p5ms.jpg"
+          "title": "[스냅드래곤 서밋] 20년 x86 데스크톱 유산 깼다…'퀄컴 구글북' PC 판 엎...",
+          "desc": "\"지난 10년이 넘는 시간 동안 노트북과 스마트폰은 완전히 분리된 두 개의 기술적 고립 섬이었다. 서로... 이날 현장에서는 구글 북을 활용한 차세대 에이전틱 개발 플랫폼 ‘안티그래비티(Anti-gravity)’ 라이브...",
+          "src": "디지털데일리",
+          "date": "09/25",
+          "url": "https://n.news.naver.com/mnews/article/138/0002242654?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/09/25/2026092506042772162_l.JPG"
         },
         {
-          "title": "AI가 작업 지시하고 로봇이 움직이는 공장…\"중대재해 기준도 바꿔야\"",
-          "desc": "기업들이 기술 도입에 앞서 AI의 판단을 누가 검증할지, 사고 위험이 발생했을 때 누가 작업을 중지할지 등... 돕는 기술\"이라며 \"AI의 판단을 활용하더라도 기업의 확인·관리·감독 책임이 사라지는 것은 아니다\"고 말했다....",
-          "src": "그린포스트",
-          "date": "09/24",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=350808",
-          "img": "https://cdn.greened.kr/news/thumbnail/202609/350808_402516_1846_v150.jpg"
+          "title": "[이미루의 트렌드 세일즈] B2B ABM과 AI의 결합: 타깃 기업 정밀 타격법",
+          "desc": "AI 기반 행동 점수화를 도입해 2,500%에 달하는 ROI를 달성한 기업도 나왔고, 3개 이상의 구매 신호가 동시에... 소비트렌드, 협상, B2B 마케팅 기술 향상 분야의 강의와 컨설팅도 병행하며, KFA한국프랜차이즈협회...",
+          "src": "lecturernews",
+          "date": "09/25",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207047",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/207047_475398_2415_v150.jpg"
         },
         {
-          "title": "전국 첫 식품로봇 푸드테크 연구지원센터 포항 가동…17종 장비로 실증...",
-          "desc": "식품로봇은 인공지능(AI)과 로봇 기술을 식품 제조와 외식 서비스에 접목하는 분야다. 음식 조리와 음료 제조, 서빙, 위생 관리 등에 활용해 인력 부담을 줄이고 조리 공정의 안전성과 품질 균일성을 높이는 기술 개발이...",
-          "src": "youngnong",
-          "date": "09/24",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70450",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202609/70450_60455_5134.jpg"
+          "title": "AI가 8시간 일을 2시간으로…기업에 남은 '6시간의 숙제'",
+          "desc": "이제 '어떤 AI를 도입할까'에서 '사람과 조직을 어떻게 바꿀까'로 넓어지고 있다. 김 교수는 \"이제는 소프트웨어나 하드웨어가 부족한 문제가 아니라 기업 문화와 리더십을 어떻게 재편할 것이냐의 문제\"라며 \"기술은...",
+          "src": "아이뉴스24",
+          "date": "09/25",
+          "url": "https://n.news.naver.com/mnews/article/031/0001061200?sid=101",
+          "img": "https://image.inews24.com/v1/9be4262fbf075e.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490192",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490192_476084_4227_v150.jpg"
+      "title": "인기 명절 선물 된 가전제품 '구독'",
+      "url": "https://n.news.naver.com/mnews/article/417/0001159234?sid=101",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/22/00/2026092210194932715_1.jpg"
+    },
+    {
+      "title": "삼성·LG 로봇청소기, 안방은 탈환했는데…글로벌은 여전히 ‘중국 천하...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049785?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/23/news-p.v1.20260922.37d39acd37324204af7dbbf9a6a05499_R.png"
     },
     {
       "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
     },
     {
-      "title": "5%냐 15%냐…인도 세무당국, 삼성·LG OLED 관세 조사",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490207",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490207_476097_4624_v150.jpg"
+      "title": "늘어나는 AI 활용…탄소 배출 줄이는 데 도움될까 [기후 리포트]",
+      "url": "https://www.ekn.kr/web/view.php?key=20260923022471005",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260922.fffb61c063ed4f928c1f573206aa783e_R.png"
     },
     {
-      "title": "알파고 연구자, AI 추론 스타트업에 수천만달러 조달 추진",
-      "url": "https://www.tokenpost.kr/news/ai/413651",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/eijfox4cku.jpg"
-    },
-    {
-      "title": "맥도날드($MCD), 2036년까지 가맹점에 85억달러 지원",
-      "url": "https://www.tokenpost.kr/news/market/413616",
-      "img": "https://www.tokenpost.kr/uploads/2026/09/5fzvk1p5ms.jpg"
+      "title": "[스냅드래곤 서밋] 20년 x86 데스크톱 유산 깼다…'퀄컴 구글북' PC 판 엎...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242654?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/09/25/2026092506042772162_l.JPG"
     }
   ]
 };
