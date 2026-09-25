@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.25 (금) 22:50",
+  "updatedAt": "2026.09.26 (토) 03:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,22 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
+          "desc": "향후 대형가전까지 본격적으로 확대한다면 삼성전자와 LG전자가 맞닥뜨릴 상대는 개별 중국 가전업체 하나가 아니다. 스마트폰에서 시작해 웨어러블과 생활가전, 자동차까지 하나의 소프트웨어 생태계로 연결하는...",
+          "src": "wolyo",
+          "date": "09/26",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
+        },
+        {
+          "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
+          "desc": "삼성전자 모니터 사업 부문은 현재 모든 거래처의 재고 현황을 파악하고 있으며, 집계 결과에 맞춰 각... 세탁기, 건조기, 오디오, 공기청정기 등 가전 전 제품 판매를 중단한다고 밝혔다. 당시 공고에서 스마트폰...",
+          "src": "g-enews",
+          "date": "09/25",
+          "url": "https://www.g-enews.com/view.php?ud=202609251745311297fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
+        },
+        {
           "title": "“10만원→5천원, 완전 망했습니다” 압도적 1위 ‘국민 매장’ 충격적...",
           "desc": "요즘 소비자들은 가전 및 IT 제품도 오프라인 매장보다는 온라인 구매를 선호한다. 오프라인보다 온라인 구매가 더 저렴하기 때문이다. 오프라인에서도 IT·전자 제품 강자 삼성전자, LG전자가 자체 매장을 늘리면서...",
           "src": "헤럴드경제",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "09/25",
           "url": "https://n.news.naver.com/mnews/article/081/0003683492?sid=101",
           "img": "https://img.seoul.co.kr//img/upload/2026/09/22/SSC_20260922181328_O2.jpg"
-        },
-        {
-          "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
-          "desc": "삼성전자 모니터 사업 부문은 현재 모든 거래처의 재고 현황을 파악하고 있으며, 집계 결과에 맞춰 각... 세탁기, 건조기, 오디오, 공기청정기 등 가전 전 제품 판매를 중단한다고 밝혔다. 당시 공고에서 스마트폰...",
-          "src": "g-enews",
-          "date": "09/25",
-          "url": "https://www.g-enews.com/view.php?ud=202609251745311297fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "[AI 대전환 리딩 전략] 한솔테크닉스, 가전부품 넘어 반도체 '도전'",
-          "desc": "TV·가전용 전자부품과 스마트폰 위탁생산(EMS)에 집중됐던 사업구조를 AI 시대 수요가 커지는 반도체... 삼성전자와 글로벌 반도체 장비업체 어플라이드머티어리얼즈 등을 주요 고객사로 확보했다. 반도체 생산라인...",
-          "src": "블로터",
-          "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/293/0000090902?sid=101",
-          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
-          "desc": "국내에서 선제적으로 FDE를 도입한 문서 AI 솔루션 기업 한국딥러닝(대표 김지현)은 2025년 4월 인터뷰 당시 이를 '테크니컬 PM'이라고 부르며 \"고객사 소통뿐만 아니라 기술까지 완벽히 이해해야 하는 자리\"라고 설명했다....",
-          "src": "AI타임스",
-          "date": "09/25",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215654",
-          "img": "https://cdn.aitimes.com/news/photo/202609/215654_219585_5320.png"
+          "title": "솔라나재단, 바이낸스·폴리곤 출신 영입해 기관금융·결제 전략 투트랙...",
+          "desc": "실제 도입 단계로 넘어가도록 돕는 일”이라고 설명했다.레이스는 폴리곤 랩스에 앞서 스테이블코인... 시작했으며, 기술 검증 이후 상용화 모델을 검토할 계획이다. 신한카드는 별도로 솔라나 테스트넷을 활용한...",
+          "src": "wikitree",
+          "date": "09/26",
+          "url": "https://www.wikitree.co.kr/articles/1162039",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/26/202609260210144908_coin.jpeg"
         },
         {
-          "title": "[심층기획: 이재명의 주4.5일제 1년후③] 경제계 온도차…경총은 '노사...",
-          "desc": "제도 도입을 통해 실제 노동시간을 줄이는 데 우선순위를 두고 있다. 위 그래프는 기사 이해를 돕기 위해 AI(인공지능)를 활용해 제작했습니다. [그래프=챗GPT] ■ 임금·생산성·추가 채용비용 해법은 과제로 주 4.5일제...",
-          "src": "news2day",
-          "date": "09/25",
-          "url": "https://www.news2day.co.kr/article/20260922500151",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/25/.cache/512/20260925500085.png"
+          "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전...",
+          "desc": "AI 활용 기업을 함께 담는 ‘바벨 전략’을 고려할 필요가 있다고 분석했습니다. 한쪽에는 엔비디아, 브로드컴처럼 AI 인프라 구축의 핵심 기업을 두고, 다른 한쪽에는 AI를 실제 사업에 도입해 비용을 줄이고 생산성을...",
+          "src": "한국경제",
+          "date": "09/26",
+          "url": "https://n.news.naver.com/mnews/article/015/0005336091?sid=104",
+          "img": "https://img.hankyung.com/photo/202609/01.45825747.1.png"
         },
         {
-          "title": "제논, 코스닥 상장예비심사 통과… 삼성증권 주관 IPO 착수",
-          "desc": "AX(AI 전환) 플랫폼 '제노스(GenOS)'를 바탕으로 기업의 AI 전략 수립부터 개발, 도입, 운영까지 전 과정을... 피지컬 AI 기술 고도화를 위한 연구개발(R&D)과 전문 인재 확보, 글로벌 시장 진출 가속화에도 활용될 예정이다....",
-          "src": "discoverynews",
-          "date": "09/25",
-          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102564",
-          "img": "https://cdn.discoverynews.kr/news/thumbnail/202609/1102564_1146283_2443_v150.jpg"
+          "title": "[통신리뷰] LG유플러스, 소상공인 맞춤형 AX 솔루션 개발 나선다(9월4주...",
+          "desc": "시험을 도입해 운영해 왔다. 양 기관은 이번 협약을 계기로 국내에서 축적한 AI 교육·인증 협력 경험을 해외로 확대하고, NIA가 운영하는 개도국 정보접근센터(IAC)와 월드프렌즈코리아(WFK) 정보기술(IT)봉사단 등...",
+          "src": "더구루",
+          "date": "09/26",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107565",
+          "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902593360747_49915a.jpg"
         },
         {
-          "title": "AI 투자 2조달러 돌파 가능성…IMF, 부채 의존 경고",
-          "desc": "IMF는 AI 활용이 산업 전반의 생산성을 높이고 성장률을 끌어올릴 가능성도 제시했다. 다만 노동시장에서는 AI 관련 기술을 보유한 인력과 자동화에 노출된 중간 숙련 노동자 사이의 격차가 커질 수 있다고 설명했다....",
-          "src": "tokenpost",
+          "title": "인공지능이 '과일' 척척 선별...부족 인력 대체",
+          "desc": "높습니다.] AI 과일 선별기가 도입된 농산물산지유통센터는 전국에 60곳. 사과나 참외 등 일부 작목에 도입됐는데 앞으로는 300곳 이상으로 늘릴 계획입니다. [이 정 인 / 한국농업기술진흥원 팀장 : 사과와 더불어...",
+          "src": "ytn",
           "date": "09/25",
-          "url": "https://www.tokenpost.kr/news/ai/414024",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/gkzejf9h0z.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002411196?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0925/202609252330211852_t.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,6 +177,16 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
+    },
+    {
+      "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
+      "url": "https://www.g-enews.com/view.php?ud=202609251745311297fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
+    },
+    {
       "title": "“10만원→5천원, 완전 망했습니다” 압도적 1위 ‘국민 매장’ 충격적...",
       "url": "https://n.news.naver.com/mnews/article/016/0002701890?sid=105",
       "img": "https://wimg.heraldcorp.com/news/cms/2026/09/25/news-p.v1.20260925.8bef7153a0b44af7871689e36e138296_P1.jpg"
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/09/22/SSC_20260922181328_O2.jpg"
     },
     {
-      "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
-      "url": "https://www.g-enews.com/view.php?ud=202609251745311297fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
+      "title": "솔라나재단, 바이낸스·폴리곤 출신 영입해 기관금융·결제 전략 투트랙...",
+      "url": "https://www.wikitree.co.kr/articles/1162039",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/26/202609260210144908_coin.jpeg"
     },
     {
-      "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=215654",
-      "img": "https://cdn.aitimes.com/news/photo/202609/215654_219585_5320.png"
-    },
-    {
-      "title": "[심층기획: 이재명의 주4.5일제 1년후③] 경제계 온도차…경총은 '노사...",
-      "url": "https://www.news2day.co.kr/article/20260922500151",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/25/.cache/512/20260925500085.png"
-    },
-    {
-      "title": "제논, 코스닥 상장예비심사 통과… 삼성증권 주관 IPO 착수",
-      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102564",
-      "img": "https://cdn.discoverynews.kr/news/thumbnail/202609/1102564_1146283_2443_v150.jpg"
+      "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336091?sid=104",
+      "img": "https://img.hankyung.com/photo/202609/01.45825747.1.png"
     }
   ]
 };
