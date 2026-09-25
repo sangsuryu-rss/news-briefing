@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.25 (금) 06:33",
+  "updatedAt": "2026.09.25 (금) 09:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "\"명절에 우리 집은?\"…'AI 집사'가 추석 빈집 지킨다",
+          "desc": "25일 전자업계에 따르면 삼성전자와 LG전자는 각각 스마트싱스(SmartThings)와 씽큐(ThinQ)를 중심으로 가전제품의 카메라, 센서 등 집 안의 기기들을 연결하고 있다. 개별 기기를 원격으로 조작하고 설정한 조건에 따라...",
+          "src": "머니투데이",
+          "date": "09/25",
+          "url": "https://n.news.naver.com/mnews/article/008/0005418302?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092311013653639_1.jpg"
+        },
+        {
           "title": "인기 명절 선물 된 가전제품 '구독'",
-          "desc": "삼성전자는 'AI 구독클럽'에서 제품과 관리 서비스를 결합한 'AI 올인원 2.0' 요금제를 운영한다. 가전제품에 따라 3~6년간 무상수리를 제공한다. 전문가가 정기적으로 제품을 관리하는 방문케어와 필터 등 소모품을...",
+          "desc": "추가 점검 대상은 기존에 사용하던 삼성전자 냉장고, 김치냉장고, 세탁기, 건조기, 에어컨, TV 중 한 품목이다. 해당 제품이 스마트싱스 지원 모델이면 연결도 도와준다. LG전자는 전문가 방문 관리를 중심으로 구독...",
           "src": "sidae",
           "date": "09/25",
           "url": "https://n.news.naver.com/mnews/article/417/0001159234?sid=101",
           "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/22/00/2026092210194932715_1.jpg"
         },
         {
-          "title": "삼성·LG 로봇청소기, 안방은 탈환했는데…글로벌은 여전히 ‘중국 천하...",
-          "desc": "삼성전자와 LG전자가 로봇청소기 신제품을 앞세워 중국 브랜드가 장악하던 국내 시장에서 회복세를 보이고 있지만 글로벌 시장에서는 여전히 존재감이 제한적인 것으로 나타났다. 올해 2분기 글로벌 로봇청소기...",
-          "src": "디지털타임스",
+          "title": "재계 총수 올해 명절 연휴엔 어디로…‘글로벌 경영’ 나선다",
+          "desc": "삼성은 티후아나, 케레타로에 TV와 가전 생산 기지를 구축했다. LG전자 역시 레이노사·몬테레이 등에 TV와 냉장고, 세탁기 등 가전제품 생산 공장을 마련해 북미 수출에 대응하고 있다. 현대차그룹은 현대차, 기아...",
+          "src": "이데일리",
           "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/029/0003049785?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/23/news-p.v1.20260922.37d39acd37324204af7dbbf9a6a05499_R.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006375445?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092500242.jpg"
         },
         {
-          "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
-          "desc": "이는 이재용 삼성전자 회장이 올해 신년사에서 일하는 방식과 조직 문화의 변화를 주문한 데 따른 후속... 생활가전사업부와 네트워크사업부도 세탁기·로봇청소기·통신장비의 성능 검증에 해당 기술을 적용하고...",
-          "src": "thetracker",
-          "date": "09/24",
-          "url": "https://thetracker.co.kr/View.aspx?No=4241172",
-          "img": "https://cdn.coenworks.com/Files/478/News/202609/8462_20260924150051178.jpg"
-        },
-        {
-          "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
-          "desc": "“추석 때 장 보려고 기다렸는데 아직도 안 들어왔어요.” 김아무개(37)씨는 지난 7월 초 삼성전자 냉장고와 세탁·건조기, 티브이(TV), 에어컨을 잇따라 구매했다. 삼성전자가 구매금액의 20%를 디지털 온누리상품권으로...",
-          "src": "한겨레",
-          "date": "09/24",
-          "url": "https://n.news.naver.com/mnews/article/028/0002824515?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
+          "title": "한-멕시코 정상, 양국 기업인 간담회 주재…최태원·구광모 등 참석",
+          "desc": "성 수석에 따르면 간담회에는 최 회장과 구 회장, 구자은 LS 회장을 비롯해 노태문 삼성전자 사장, 송호성... 여기에 더해 양국의 경제협력 분야가 전통적인 자동차·가전뿐 아니라 전력 및 에너지, 모빌리티, 첨단소재...",
+          "src": "news2day",
+          "date": "09/25",
+          "url": "https://www.news2day.co.kr/article/20260925500012",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/25/.cache/512/20260925500011.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "늘어나는 AI 활용…탄소 배출 줄이는 데 도움될까 [기후 리포트]",
-          "desc": "org)'에 게재된 한 논문에서는 AI 기반 탄소 회계 도구를 도입한 120개 기업을 조사한 결과를 소개했다. 조사... 데 활용될 수 있다. AI 기술을 이용하면 위성사진을 분석해 가로·세로 약 100m 정도의 작은 지역에서...",
-          "src": "ekn",
+          "title": "트럼프·시진핑, 무역휴전 연장…AI·대만 놓고는 신경전 [미·중정상회...",
+          "desc": "정상회담을 앞두고도 국제적인 AI 규제 장치 도입에 반대하며 기술 개발에 제동을 걸어서는 안 된다는... “경쟁도 있지만, 협력 가능성은 더욱 크다”며 서로를 경계하기보다 각자의 강점을 활용해야 한다고도 했다. 양국...",
+          "src": "이투데이",
           "date": "09/25",
-          "url": "https://www.ekn.kr/web/view.php?key=20260923022471005",
-          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260922.fffb61c063ed4f928c1f573206aa783e_R.png"
+          "url": "https://www.etoday.co.kr/news/view/2629350",
+          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260925090640_2393179_1199_823.jpeg"
         },
         {
-          "title": "[스냅드래곤 서밋] 20년 x86 데스크톱 유산 깼다…'퀄컴 구글북' PC 판 엎...",
-          "desc": "\"지난 10년이 넘는 시간 동안 노트북과 스마트폰은 완전히 분리된 두 개의 기술적 고립 섬이었다. 서로... 이날 현장에서는 구글 북을 활용한 차세대 에이전틱 개발 플랫폼 ‘안티그래비티(Anti-gravity)’ 라이브...",
-          "src": "디지털데일리",
+          "title": "[기획] '복구'에서 '예방'으로...예측불가 자연재난 속 대구시 대응 패러...",
+          "desc": "첨단기술을 활용한 대구시의 폭염 대응인 온열질환 피해를 줄이는데 큰 역할을 했다. 전국 최초로 도입한... AI 자동 사람식별 기능을 통해 폭염 위험지역에 사람이 머물고 있는지도 신속하게 확인할 수 있다. 손성민...",
+          "src": "idaegu",
           "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/138/0002242654?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/09/25/2026092506042772162_l.JPG"
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=665883",
+          "img": "https://cdn.idaegu.com/news/photo/202609/665883_374176_51.jpg"
         },
         {
-          "title": "[이미루의 트렌드 세일즈] B2B ABM과 AI의 결합: 타깃 기업 정밀 타격법",
-          "desc": "AI 기반 행동 점수화를 도입해 2,500%에 달하는 ROI를 달성한 기업도 나왔고, 3개 이상의 구매 신호가 동시에... 소비트렌드, 협상, B2B 마케팅 기술 향상 분야의 강의와 컨설팅도 병행하며, KFA한국프랜차이즈협회...",
-          "src": "lecturernews",
+          "title": "생산부터 정비까지…K-방산, 전장 밖으로 넓어지는 AX",
+          "desc": "현대로템은 항공우주 생산 현장에 현대자동차의 AI 기반 스마트팩토리 기술을 도입할 계획이다. 회사는... 한국항공우주산업(KAI)은 출자회사의 AI 기술을 제조 분야에 활용할 가능성을 검토하고 있다. 이달 3일 열린 ‘K-AI...",
+          "src": "g-enews",
           "date": "09/25",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=207047",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202607/207047_475398_2415_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202609231520348026ea14faf6f5_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092315142705424ea14faf6f5175197343.jpg"
         },
         {
-          "title": "AI가 8시간 일을 2시간으로…기업에 남은 '6시간의 숙제'",
-          "desc": "이제 '어떤 AI를 도입할까'에서 '사람과 조직을 어떻게 바꿀까'로 넓어지고 있다. 김 교수는 \"이제는 소프트웨어나 하드웨어가 부족한 문제가 아니라 기업 문화와 리더십을 어떻게 재편할 것이냐의 문제\"라며 \"기술은...",
-          "src": "아이뉴스24",
+          "title": "'기이안 연애' 기안84·장도연·이유비, AI와 사랑에 빠진 이유 [인터뷰...",
+          "desc": "적극 도입하고 있다. 그렇다면 현장의 콘텐츠 제작자들은 급변하는 AI 기술을 실제로 어떻게 바라보고... '김부장'에선 인프라로 활용했다면, '기이안 연애'를 통해 예능 소재로 등장했다. AI는 앞으로도 더욱 적극적으로...",
+          "src": "tvdaily",
           "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/031/0001061200?sid=101",
-          "img": "https://image.inews24.com/v1/9be4262fbf075e.jpg"
+          "url": "https://m.entertain.naver.com/article/440/0000046635",
+          "img": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/221803231.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성과 LG 인도 법인, 순익 동반 급락… 모바일 둔화·마케팅비 부담에...",
+          "desc": "금융감독원 전자공시시스템(DART) 분기보고서 기준 삼성전자 주요 스마트폰 부품 협력사의 인도에 대한 매출 비중은 10~15% 수준을 형성하고 있어, 현지 수익성 악화는 부품사의 영업이익률 감소 요소로...",
+          "src": "g-enews",
+          "date": "09/25",
+          "url": "https://www.g-enews.com/view.php?ud=202609242137074742fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092422021904987fda4f5ab7439122247205.jpg"
+        },
+        {
+          "title": "[정책포커스] 금융위, 국민성장펀드 리스크관리위·사후관리위 신설, 10...",
+          "desc": "지역 협력사 성장으로 이어지는 선순환 구조 조성이 기대된다. 금번 사업은 부처간 협의체인... 해당 기업은 반도체용 고순도 염소가스를 대량공급하고 있는 유일한 국내업체로 삼성전자, SK하이닉스 등 국내 대표...",
+          "src": "sisacast",
+          "date": "09/25",
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=100268",
+          "img": "http://www.sisacast.kr/news/thumbnail/202609/100268_109204_5934_v150.jpg"
+        },
         {
           "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
           "desc": "이는 이재용 삼성전자 회장이 올해 신년사에서 일하는 방식과 조직 문화의 변화를 주문한 데 따른 후속... 경북 경주의 현대차그룹 글로벌상생협력센터에는 ‘AI 특화 공동훈련센터’를 개소해 협력사까지 교육...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/24",
           "url": "https://n.news.naver.com/mnews/article/003/0014212208?sid=101",
           "img": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217896_web.jpg"
-        },
-        {
-          "title": "추석 맞이 대기업들의 선물…납품대금 '9조원' 조기지급 상생 릴레이",
-          "desc": "삼성은 주요 관계사들을 중심으로 1조3000억 원 규모의 물품 대금을 조기 지급하는 동시에, 협력사... 삼성전자 DS부문 직원들이 추석 명절을 앞두고 운영되는 온라인 장터에 접속해 상품을 고르고 있다. 사진 제공...",
-          "src": "opinionnews",
-          "date": "09/24",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144715",
-          "img": "http://www.opinionnews.co.kr/news/thumbnail/202609/144715_106720_025_v150.jpg"
-        },
-        {
-          "title": "삼성전자로 시작해 다시 협력사로… 클린룸 물류노동자의 '하루 4만보'",
-          "desc": "삼성전자에서 안숙은 지금은 너무나 옛것이 되어버린, 그러나 당시에는 첨단기술이었던 브라운관 TV를 만들었다. 예전에는 그 기판이 있거든요. 회로 기판이 있으면 거기에 많은 자재들이 막 들어가요. 부품 같은 거....",
-          "src": "pressian",
-          "date": "09/24",
-          "url": "https://n.news.naver.com/mnews/article/002/0002458228?sid=102",
-          "img": "https://www.pressian.com/_resources/10/2026/09/24/2026092310421182455_l.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "\"명절에 우리 집은?\"…'AI 집사'가 추석 빈집 지킨다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418302?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092311013653639_1.jpg"
+    },
+    {
       "title": "인기 명절 선물 된 가전제품 '구독'",
       "url": "https://n.news.naver.com/mnews/article/417/0001159234?sid=101",
       "img": "https://menu.sidae.com/moneyweek/thumb/2026/09/22/00/2026092210194932715_1.jpg"
     },
     {
-      "title": "삼성·LG 로봇청소기, 안방은 탈환했는데…글로벌은 여전히 ‘중국 천하...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049785?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/23/news-p.v1.20260922.37d39acd37324204af7dbbf9a6a05499_R.png"
+      "title": "재계 총수 올해 명절 연휴엔 어디로…‘글로벌 경영’ 나선다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375445?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092500242.jpg"
     },
     {
-      "title": "재계 총수들 ‘AI 전환’ 직접 챙긴다…삼성·SK·LG, 경영부터 생산현장...",
-      "url": "https://thetracker.co.kr/View.aspx?No=4241172",
-      "img": "https://cdn.coenworks.com/Files/478/News/202609/8462_20260924150051178.jpg"
+      "title": "한-멕시코 정상, 양국 기업인 간담회 주재…최태원·구광모 등 참석",
+      "url": "https://www.news2day.co.kr/article/20260925500012",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/25/.cache/512/20260925500011.jpg"
     },
     {
-      "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
-      "url": "https://n.news.naver.com/mnews/article/028/0002824515?sid=101",
-      "img": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0924/53_17902053410343_20260923503049.webp"
+      "title": "트럼프·시진핑, 무역휴전 연장…AI·대만 놓고는 신경전 [미·중정상회...",
+      "url": "https://www.etoday.co.kr/news/view/2629350",
+      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260925090640_2393179_1199_823.jpeg"
     },
     {
-      "title": "늘어나는 AI 활용…탄소 배출 줄이는 데 도움될까 [기후 리포트]",
-      "url": "https://www.ekn.kr/web/view.php?key=20260923022471005",
-      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260922.fffb61c063ed4f928c1f573206aa783e_R.png"
-    },
-    {
-      "title": "[스냅드래곤 서밋] 20년 x86 데스크톱 유산 깼다…'퀄컴 구글북' PC 판 엎...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242654?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/09/25/2026092506042772162_l.JPG"
+      "title": "[기획] '복구'에서 '예방'으로...예측불가 자연재난 속 대구시 대응 패러...",
+      "url": "https://www.idaegu.com/news/articleView.html?idxno=665883",
+      "img": "https://cdn.idaegu.com/news/photo/202609/665883_374176_51.jpg"
     }
   ]
 };
