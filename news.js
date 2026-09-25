@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.26 (토) 03:39",
+  "updatedAt": "2026.09.26 (토) 08:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
-          "desc": "향후 대형가전까지 본격적으로 확대한다면 삼성전자와 LG전자가 맞닥뜨릴 상대는 개별 중국 가전업체 하나가 아니다. 스마트폰에서 시작해 웨어러블과 생활가전, 자동차까지 하나의 소프트웨어 생태계로 연결하는...",
-          "src": "wolyo",
+          "title": "“K뷰티 10배 키우고 싶은데 관세가”…웃던 李대통령 표정 달라졌다",
+          "desc": "전시장에는 화장품과 식품, 가전제품부터 한국어 교육 콘텐츠까지 한국의 제품과 문화가 한데 모였다.... 노태문 삼성전자 사장, 송호성 기아 사장, 이계인 포스코인터내셔널 사장, 최수연 네이버 대표 등 기업인 51명이...",
+          "src": "이데일리",
           "date": "09/26",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006375612?sid=100",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092600221.jpg"
+        },
+        {
+          "title": "中 로청 독주 끝낼까 … 삼성·LG, 비스포크·로니 앞세워 안방 탈환 시...",
+          "desc": "뉴데일리 윤아름 기자 = 중국 브랜드가 장악해온 국내 로봇청소기 시장의 판도가 흔들리고 있다. 삼성전자가 '비스포크 AI 스팀'의 판매 호조를 앞세워 선두로 올라선데 이어 LG전자도 프리미엄 신제품을 투입하면서...",
+          "src": "biz",
+          "date": "09/26",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/22/2026092200278.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/09/22/2026092200278_0.jpg"
         },
         {
           "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "“10만원→5천원, 완전 망했습니다” 압도적 1위 ‘국민 매장’ 충격적...",
-          "desc": "요즘 소비자들은 가전 및 IT 제품도 오프라인 매장보다는 온라인 구매를 선호한다. 오프라인보다 온라인 구매가 더 저렴하기 때문이다. 오프라인에서도 IT·전자 제품 강자 삼성전자, LG전자가 자체 매장을 늘리면서...",
-          "src": "헤럴드경제",
-          "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/016/0002701890?sid=105",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/25/news-p.v1.20260925.8bef7153a0b44af7871689e36e138296_P1.jpg"
-        },
-        {
-          "title": "“전 부친 후 쌓인 접시는 누가 치우나”…명절 집안일 줄여주는 AI 가전",
-          "desc": "삼성전자는 최근 ‘비스포크 AI 스팀’ 로봇청소기 신제품을 출시했다. ‘비스포크 AI 스팀 울트라’와 ‘비스포크 AI 스팀 플러스’는 최대 10W의 흡입력을 갖췄다. 특히 ‘AI 액체 인식’ 기능을 통해 유색 액체는 물론...",
-          "src": "서울신문",
-          "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/081/0003683492?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/09/22/SSC_20260922181328_O2.jpg"
+          "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
+          "desc": "중국 기업이 삼성전자와 LG전자의 '안방'으로 들어와 소비자의 선택을 놓고 정면으로 맞붙고 있다. 첫... 냉장고와 세탁기, TV부터 스마트폰과 웨어러블, 전기차까지 전시장에 함께 세웠다. 개별 제품을 많이 파는...",
+          "src": "wolyo",
+          "date": "09/26",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "솔라나재단, 바이낸스·폴리곤 출신 영입해 기관금융·결제 전략 투트랙...",
-          "desc": "실제 도입 단계로 넘어가도록 돕는 일”이라고 설명했다.레이스는 폴리곤 랩스에 앞서 스테이블코인... 시작했으며, 기술 검증 이후 상용화 모델을 검토할 계획이다. 신한카드는 별도로 솔라나 테스트넷을 활용한...",
-          "src": "wikitree",
+          "title": "빅오션, UN 총회 기간 디지털 행사서 수어 스피치와 무대로 메시지 전했...",
+          "desc": "여기에 더해 보청기에서 소리를 직접 수신하게 해주는 오라캐스트 기술이 도입돼, 청각 보조 기기를... 청각장애를 가진 아이돌 그룹으로서 빅오션은 수어, 자막, 보청기 연동 기술, AI, 메트로놈 시스템 등을 활용해...",
+          "src": "topstarnews",
           "date": "09/26",
-          "url": "https://www.wikitree.co.kr/articles/1162039",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/26/202609260210144908_coin.jpeg"
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215413",
+          "img": "https://cdn.topstarnews.net/news/photo/202609/16215413_2036541_1138_crop.jpg"
         },
         {
-          "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전...",
-          "desc": "AI 활용 기업을 함께 담는 ‘바벨 전략’을 고려할 필요가 있다고 분석했습니다. 한쪽에는 엔비디아, 브로드컴처럼 AI 인프라 구축의 핵심 기업을 두고, 다른 한쪽에는 AI를 실제 사업에 도입해 비용을 줄이고 생산성을...",
-          "src": "한국경제",
+          "title": "빌 게이츠의 경고...\"AI, 10억명 해칠 수도 있다\"",
+          "desc": "AI의 실존적 위험을 지적하는 기술업계 리더와 직원들의 목소리에 게이츠가 합류한 셈이다. 25일(이하... 그는 지난 8월 에세이에서도 악의적 세력이 AI를 활용해 사이버 공격, 사기, 허위정보 유포 등 대규모 피해를...",
+          "src": "choicenews",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336091?sid=104",
-          "img": "https://img.hankyung.com/photo/202609/01.45825747.1.png"
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=171702",
+          "img": "https://cdn.choicenews.co.kr/news/thumbnail/202609/171702_131444_837_v150.jpg"
         },
         {
-          "title": "[통신리뷰] LG유플러스, 소상공인 맞춤형 AX 솔루션 개발 나선다(9월4주...",
-          "desc": "시험을 도입해 운영해 왔다. 양 기관은 이번 협약을 계기로 국내에서 축적한 AI 교육·인증 협력 경험을 해외로 확대하고, NIA가 운영하는 개도국 정보접근센터(IAC)와 월드프렌즈코리아(WFK) 정보기술(IT)봉사단 등...",
-          "src": "더구루",
+          "title": "프랑스 지방정부도 소버린...왓츠앱 버리고 자체 메신저 추진",
+          "desc": "클라우드와 AI를 중심으로 확산된 유럽의 디지털 주권 움직임이 업무용 메신저까지 확대되는 모습이다. 25일(현지시간) 영국 IT 전문매체 컴퓨터위클리에 따르면 프랑스 지방정부의 오픈소스 소프트웨어 도입을...",
+          "src": "ZDNet코리아",
           "date": "09/26",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107565",
-          "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902593360747_49915a.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002438774?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/26/8247fbe68d398370355742bac08be674.jpg"
         },
         {
-          "title": "인공지능이 '과일' 척척 선별...부족 인력 대체",
-          "desc": "높습니다.] AI 과일 선별기가 도입된 농산물산지유통센터는 전국에 60곳. 사과나 참외 등 일부 작목에 도입됐는데 앞으로는 300곳 이상으로 늘릴 계획입니다. [이 정 인 / 한국농업기술진흥원 팀장 : 사과와 더불어...",
-          "src": "ytn",
-          "date": "09/25",
-          "url": "https://n.news.naver.com/mnews/article/052/0002411196?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0925/202609252330211852_t.jpg"
+          "title": "프랑스 지방정부도 소버린...왓츠앱 버리고 자체 메신저 추진",
+          "desc": "클라우드와 AI를 중심으로 확산된 유럽의 디지털 주권 움직임이 업무용 메신저까지 확대되는 모습이다. 25일(현지시간) 영국 IT 전문매체 컴퓨터위클리에 따르면 프랑스 지방정부의 오픈소스 소프트웨어 도입을...",
+          "src": "ZDNet코리아",
+          "date": "09/26",
+          "url": "https://n.news.naver.com/mnews/article/092/0002438773?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/26/8247fbe68d398370355742bac08be674.jpg"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "제조업 기반 취약한 광주, 이젠 글로벌 AI 부품 생산기지로",
+          "desc": "(AI) 부품 생산기지로 탈바꿈하고 있다. 26일 산업계에 따르면 삼성전자는 지난 21일 광주사업장에서... 지역 중소 협력사들은 첨단 냉난방공조 장비나 반도체 부품으로 사업 영역을 확장할 수 있는 기회가 마련됐고...",
+          "src": "뉴스1",
+          "date": "09/26",
+          "url": "https://n.news.naver.com/mnews/article/421/0009191972?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/9/21/8117884/high.jpg"
+        },
+        {
           "title": "[AI 대전환 리딩 전략] 한솔테크닉스, 가전부품 넘어 반도체 '도전'",
           "desc": "자회사 한솔아이원스를 통해 반도체 제조장비용 정밀부품 사업을 확대하는 데 이어 프로브카드 업체... 삼성전자 시스템LSI사업부의 주요 협력사로 갤럭시용 AP와 CIS 분야에서 사업 기반을 확보했으며 지난해 삼성전자...",
           "src": "블로터",
           "date": "09/25",
           "url": "https://n.news.naver.com/mnews/article/293/0000090902?sid=101",
-          "img": ""
+          "img": "https://cdn.bloter.net/news/thumbnail/202609/674229_287945_307_v150.jpg"
         },
         {
           "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/25",
           "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259060",
           "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202609/259060_463491_4642_v150.jpg"
-        },
-        {
-          "title": "삼성과 LG 인도 법인, 순익 동반 급락… 모바일 둔화·마케팅비 부담에...",
-          "desc": "금융감독원 전자공시시스템(DART) 분기보고서 기준 삼성전자 주요 스마트폰 부품 협력사의 인도에 대한 매출 비중은 10~15% 수준을 형성하고 있어, 현지 수익성 악화는 부품사의 영업이익률 감소 요소로...",
-          "src": "g-enews",
-          "date": "09/25",
-          "url": "https://www.g-enews.com/view.php?ud=202609242137074742fda4f5ab74_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092422021904987fda4f5ab7439122247205.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
+      "title": "“K뷰티 10배 키우고 싶은데 관세가”…웃던 李대통령 표정 달라졌다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375612?sid=100",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092600221.jpg"
+    },
+    {
+      "title": "中 로청 독주 끝낼까 … 삼성·LG, 비스포크·로니 앞세워 안방 탈환 시...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/22/2026092200278.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/09/22/2026092200278_0.jpg"
     },
     {
       "title": "철수 선언 넉 달 만에 공급 끊긴 삼성 모니터… 중국 유통망 11월 최종 ...",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092518195907906fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "“10만원→5천원, 완전 망했습니다” 압도적 1위 ‘국민 매장’ 충격적...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701890?sid=105",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/25/news-p.v1.20260925.8bef7153a0b44af7871689e36e138296_P1.jpg"
+      "title": "[차이나 인베이전 ③] 로청은 이미 뚫렸다…TV·가전까지 넘보는 中 '전...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318192",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318192_226180_1235.png"
     },
     {
-      "title": "“전 부친 후 쌓인 접시는 누가 치우나”…명절 집안일 줄여주는 AI 가전",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683492?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/09/22/SSC_20260922181328_O2.jpg"
+      "title": "빅오션, UN 총회 기간 디지털 행사서 수어 스피치와 무대로 메시지 전했...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215413",
+      "img": "https://cdn.topstarnews.net/news/photo/202609/16215413_2036541_1138_crop.jpg"
     },
     {
-      "title": "솔라나재단, 바이낸스·폴리곤 출신 영입해 기관금융·결제 전략 투트랙...",
-      "url": "https://www.wikitree.co.kr/articles/1162039",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/26/202609260210144908_coin.jpeg"
-    },
-    {
-      "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336091?sid=104",
-      "img": "https://img.hankyung.com/photo/202609/01.45825747.1.png"
+      "title": "빌 게이츠의 경고...\"AI, 10억명 해칠 수도 있다\"",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=171702",
+      "img": "https://cdn.choicenews.co.kr/news/thumbnail/202609/171702_131444_837_v150.jpg"
     }
   ]
 };
