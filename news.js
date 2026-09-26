@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.27 (일) 01:26",
+  "updatedAt": "2026.09.27 (일) 06:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -20,6 +20,14 @@ window.NEWS_DATA = {
       "title": "삼성전자 가전",
       "color": "#1428a0",
       "items": [
+        {
+          "title": "삼성전자, DX직원과 내달 직접 소통…성과급 불만 잠재울까",
+          "desc": "노태문 사장 주재 전 직원 대상 타운홀 미팅 10월 중 계획 보상격차·임원 성과급 등에 주요 경영진 직접 답할지 주목 삼성전자가 내달 가전·스마트폰·TV 등을 담당하는 DX(디바이스경험) 부문 전 직원을 대상으로 직접...",
+          "src": "연합뉴스",
+          "date": "09/27",
+          "url": "https://n.news.naver.com/mnews/article/001/0016337761?sid=101",
+          "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073007960001300_P4.jpg"
+        },
         {
           "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
           "desc": "전자에서는 로보락이 프리미엄 로봇청소기를 선점했고 TCL과 하이센스는 TV에서 삼성전자와 LG전자를 추격한다. 샤오미는 스마트폰과 가전, 자동차를 묶고 자체 반도체까지 개발한다. 또 하나 중국이 무서운 이유는 속도다....",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "09/26",
           "url": "https://www.vegannews.co.kr/news/article.html?no=388184",
           "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904258938067.jpg"
-        },
-        {
-          "title": "냉장고 유리 선반 씻기 전 상온에 둬야",
-          "desc": "차가운 유리에 따뜻한 물 닿으면 파손 우려 냉장고 유리 선반은 차가운 상태에서 따뜻하거나 뜨거운 물로 바로 씻지 않는 편이 좋다. 급격한 온도 변화나 충격으로 유리가 깨질 수 있어서다. 삼성전자 미국 고객지원은...",
-          "src": "vegannews",
-          "date": "09/26",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=388142",
-          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904207969255.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노...",
-          "desc": "Underwriting)을 도입했다. 이는 2008년 글로벌 금융위기 직후 은행이 대출을 축소하는 사이 전문 운용사들이... 표준 Go와 유사해 Go에 익숙한 개발자는 기존 지식을 활용해 스마트 컨트랙트를 작성할 수 있다. 렐름의...",
-          "src": "더구루",
+          "title": "파킨슨병 신약 ‘새판’…얀 르쿤·SK바이오팜도 뛰어들었다",
+          "desc": "지난 5월 덴마크 노보노디스크로부터 도입한 STEM-PD는 미국 식품의약국(FDA)의 패스트트랙 지정을 받았으며... 얀 르쿤, 로버트 랭어가 합류한 셀룰러는 세포를 만드는 과정에 AI 기술을 접목하기로 했다. 줄기세포를...",
+          "src": "조선일보",
           "date": "09/27",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107566",
-          "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902595909282_aa11f0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001194512?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/5CJ33ROJXRD2DC27QFHC6RQUMQ.jpg?auth=3d246469dbdb13378c26a57034cd4adab6721b15bb7a612645773e5720f0022c&width=1200&height=630&smart=true"
         },
         {
-          "title": "챗GPT가 글 대신 써주는 시대인데…미국·EU 학교는 다시 ‘손글씨’로",
-          "desc": "결국 AI 시대에 다시 등장한 필기체 논쟁은 단순히 ‘예쁜 글씨를 가르칠 것인가’의 문제가 아니다. 이코노미스트는 디지털 기술이 글쓰기를 대신하는 시대일수록 직접 손으로 쓰고, 그 과정에서 생각하는 능력을 어떻게...",
-          "src": "munhwa",
+          "title": "“세탁물 개고 야채 써는 영상 삽니다”… 로봇 업계는 지금 ‘데이터 ...",
+          "desc": "특히 가정 환경과 공장에 휴머노이드를 도입하는 단계에서 현실 데이터는 더욱 중요하게 쓰인다.... 과학기술정보통신부도 400억원을 들여 피지컬AI 트레이닝센터를 만들기로 했다. LG전자는 서울 서초구에 로봇 학습용...",
+          "src": "조선일보",
           "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/021/0002821286?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/09/27/news-p.v1.20260922.f07d99a47da74344b24f7e7c6dc1d4bd_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/366/0001194514?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/OMVOQCDTSREXHF4LQDMOAYQFUU.gif?auth=5d0cbce3f42520e335d37ae9be8842b08ffd24452d40b550bef93ee7b65cac08&width=572&height=300&smart=true"
         },
         {
-          "title": "BISTEP, ‘부산기업 제조데이터 구축’ 보고서 발간",
-          "desc": "부산MBC)부산과학기술 고등교육진흥원,비스텝(BISTEP)은 부산지역 영세 중소 제조업이 겪고 있는 위기를... 연구진은 범용 자동화가 어려운 조선기자재 업종의 경우에는 수주와 견적 산출, 설계에 맞춤형 AI 에이전트 도입을...",
-          "src": "busanmbc",
-          "date": "09/26",
-          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=289414",
-          "img": ""
+          "title": "“휴머노이드 개발서 확보 피지컬AI 기술, 산업용·협동 로봇에도 확대...",
+          "desc": "데 활용할 수 있을 것으로 보고 있습니다. 휴머노이드 개발 과정에서 확보하게 될 작업 인지, 환경 인식, 정밀 조작, 힘·촉각 제어, 작업 계획 등의 피지컬 AI 기술은 기존 협동로봇과 산업용 로봇에도 적용할 수...",
+          "src": "서울경제",
+          "date": "09/27",
+          "url": "https://n.news.naver.com/mnews/article/011/0004665535?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/09/23/news-p.v1.20260922.599f6a4053bb42388e13a8f3bf17f2f0_Z1.jpg"
         },
         {
-          "title": "대동, 전남생명과학고와 미래농업 전문인력 양성 맞손",
-          "desc": "양측은 대동의 미래사업과 학교 교육을 연계해 농업 피지컬AI 기반 첨단 농기계의 운용 역량을 갖춘 인재를... 안정적으로 도입되기 위해서는 기술 개발과 제품 보급뿐 아니라 이를 실제로 활용할 수 있는 인적 기반을 함께...",
-          "src": "youngnong",
-          "date": "09/26",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70575",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202609/70575_60599_124.jpg"
+          "title": "“한국 DMZ 경계 무인화 최적 대안… AI 기구로 혁신할 것”",
+          "desc": "프랑스 원자력 기업 오라노(Orano)와 천연가스 수송망 운영사 나트랑(NaTran·옛 GRT가즈) 시설 등에 도입돼 이미... 원천 기술, AI 분석, 원자력 분야의 독보적인 전문성을 보유하고 있다. 리움은 유럽에서 검증된 감시 플랫폼...",
+          "src": "조선일보",
+          "date": "09/27",
+          "url": "https://n.news.naver.com/mnews/article/366/0001194508?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/GBRTKOBXGQYGMMZYMI3TAZRRME.jpg?auth=d6e6afa08ef95c7a35f299bf4dc47a8d2520eddba6c4e57c32ce3230a46ecec2&width=574&height=300&smart=true"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, DX직원과 내달 직접 소통…성과급 불만 잠재울까",
+      "url": "https://n.news.naver.com/mnews/article/001/0016337761?sid=101",
+      "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073007960001300_P4.jpg"
+    },
+    {
       "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
       "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318193",
       "img": "https://cdn.wolyo.co.kr/news/photo/202609/318193_226183_4910.png"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904258938067.jpg"
     },
     {
-      "title": "냉장고 유리 선반 씻기 전 상온에 둬야",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=388142",
-      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904207969255.jpg"
+      "title": "파킨슨병 신약 ‘새판’…얀 르쿤·SK바이오팜도 뛰어들었다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194512?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/5CJ33ROJXRD2DC27QFHC6RQUMQ.jpg?auth=3d246469dbdb13378c26a57034cd4adab6721b15bb7a612645773e5720f0022c&width=1200&height=630&smart=true"
     },
     {
-      "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노...",
-      "url": "https://www.theguru.co.kr/news/article.html?no=107566",
-      "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902595909282_aa11f0.jpg"
-    },
-    {
-      "title": "챗GPT가 글 대신 써주는 시대인데…미국·EU 학교는 다시 ‘손글씨’로",
-      "url": "https://n.news.naver.com/mnews/article/021/0002821286?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/09/27/news-p.v1.20260922.f07d99a47da74344b24f7e7c6dc1d4bd_R.jpg"
+      "title": "“세탁물 개고 야채 써는 영상 삽니다”… 로봇 업계는 지금 ‘데이터 ...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194514?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/OMVOQCDTSREXHF4LQDMOAYQFUU.gif?auth=5d0cbce3f42520e335d37ae9be8842b08ffd24452d40b550bef93ee7b65cac08&width=572&height=300&smart=true"
     }
   ]
 };
