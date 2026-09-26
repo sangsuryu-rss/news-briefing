@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.26 (토) 14:03",
+  "updatedAt": "2026.09.26 (토) 20:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략...",
+          "desc": "삼성전자와 LG전자 부스에서는 한국의 라이프스타일과 첨단 가전제품을 결합한 현지 전략과 투명 유기발광다이오드(OLED) 등 주요 제품을 살펴봤다. K-푸드의 중남미 확장 가능성도 직접 확인했다. 이 대통령은 빙그레...",
+          "src": "news",
+          "date": "09/26",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436544",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4436544_345734_561_v150.jpg"
+        },
+        {
           "title": "4.6억명 품은 스마트싱스…삼성, ‘연결’ 넘어 수익성 가시화",
-          "desc": "삼성전자가 갤럭시 스마트폰과 TV·생활가전을 잇는 스마트싱스의 수익화를 추진한다. 기기를 함께 쓸 때의 편의성을 더 높여 다음 가전 구매로 연결하고, 외부 기업에는 연결 기능을 유료로 제공하는 방식이다....",
+          "desc": "삼성전자가 갤럭시 스마트폰과 TV·생활가전을 잇는 스마트싱스의 수익화를 추진한다. 기기를 함께 쓸 때의... 떨어져 사는 가족의 활동 징후가 일정 시간 감지되지 않으면 보호자에게 알리고, 지원되는 로봇청소기의...",
           "src": "g-enews",
           "date": "09/26",
           "url": "https://www.g-enews.com/view.php?ud=2026092311463323253084322ec9_1",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etoday.co.kr/pto_db/2026/09/20260923102544_2392699_1200_500.png"
         },
         {
-          "title": "\"中가전, 저가공세 한계 도달\"…국내 가전업계, 본격 반격 나선다",
-          "desc": "삼성전자는 지난 5월 중국 본토에서 TV·생활가전 판매를 중단하기로 결정했다. 중국 업체와의 가격 경쟁 심화로 TV와 냉장고, 세탁기 등의 점유율이 하락하자 모바일·반도체·의료기기 등에 역량을 집중하기로 했다....",
-          "src": "뉴시스",
+          "title": "“빨래에 하얀 가루가…” 세제 찌꺼기와 종이 조각 구분",
+          "desc": "LG전자 고객지원은 통돌이 세탁기에서 세제를 권장량보다 많이 넣거나 옷에 바로 붓는 경우, 부피가 크고... 삼성전자서비스는 세제를 많이 쓰거나 고농축 세제를 용량에 맞지 않게 사용하면 세탁 후 거품이나 세제가 남을...",
+          "src": "vegannews",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/003/0014214160?sid=101",
-          "img": "https://img1.newsis.com/2026/07/30/NISI20260730_0021382852_web.jpg"
-        },
-        {
-          "title": "멕시코 달군 K-열풍…이재명 대통령, 기업 수출·관세 현장 직접 살펴",
-          "desc": "자동차·가전 등 한국 기업들의 전시 부스를 둘러봤다. 이번 박람회에는 한국 기업·기관 120곳이 참여했다.... 기아차 전시장에서는 셀토스 하이브리드 차량을 살펴봤으며 LG전자와 삼성전자 부스도 방문했다. 빙그레와...",
-          "src": "newswhoplus",
-          "date": "09/26",
-          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=70549",
-          "img": "https://cdn.newswhoplus.com/news/thumbnail/202609/70549_108491_5952_v150.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=388151",
+          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904218921939.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"논술 학원 추가?\"…'수능 서·논술형' 도입 생각은",
-          "desc": "대통령 직속 국가교육위원회가 추진 중인 수능 서술·논술형 도입을 두고 교육계에서 논란이 이어지고... 인공지능(AI)을 활용하겠다는 구상이 나와 있지만, 과연 객관성을 담보할 수 있느냐는 우려가 컸습니다. <박찬율...",
-          "src": "연합뉴스TV",
+          "title": "AI 시대 '인간다움'을 이야기하다…사랑의 열매 새광고",
+          "desc": "이를 통해 첨단 기술이 가속화되는 사회 속에서 인간만이 나눌 수 있는 따뜻한 교감과 온기의 소중함을... 특히 '어떤 모습이든 사랑한다'는 메시지를 배우들의 존재 자체로 설득한단 점에서 모델 활용도도 높다. 다만...",
+          "src": "apnews",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/422/0000909803?sid=102",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260926/MYH20260926130555ciP.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051519",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051519_84604_471_v150.jpg"
         },
         {
-          "title": "[기업家] 오픈AI ③ㅣ 챗GPT 이미지 유출·AI 에이전트 무단 해킹 논란…...",
-          "desc": "오픈AI가 모델 학습 과정에서 익명화된 개인 사용자 데이터를 활용하는 점이 있었다. 기업 고객의... 앞으로 AI 모델의 훈련, 평가, 배포 단계에서 제3자 기관이 기술적 안전성 평가를 진행할 수 있도록 하겠다고...",
-          "src": "cbci",
+          "title": "\"자리 비워도 업무는 계속\"…MS, AI '코파일럿' 전면 개편",
+          "desc": "깃허브 코파일럿과 같은 기반 기술을 활용하며, 완성한 도구는 회사의 업무 환경에서 실행하고 동료와 공유할 수 있다. 오토파일럿은 이용자가 매번 지시하지 않아도 정해진 목표에 따라 업무를 이어가는 AI 에이전트다....",
+          "src": "뉴시스",
           "date": "09/26",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610065",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202609/610065_418741_5046_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014214613?sid=105",
+          "img": "https://img1.newsis.com/2026/09/26/NISI20260926_0002248833_web.jpg"
         },
         {
-          "title": "美는 ‘AI 비서’ 별천지, ‘뮤즈’가 대역전 노린다 [트럼프 스톡커]",
-          "desc": "메타는 10년 전에도 페이스북 메신저에 AI 통화 비서 ‘M’을 도입했다가 2년 6개월 만에 종료한 바 있다. 당시에도 M 업무의 약 70%를 사람이 처리한 것으로 추정됐다. 로이터통신은 “기술기업들이 자율형 AI를...",
-          "src": "서울경제",
+          "title": "[보안칼럼] 클라우드 서비스의 사이버보안 확장 통제",
+          "desc": "인공지능 활용 범죄 대응 등 인공지능기본법 개정을 통해 인공지능 전반에 대한 지원 체계를... ISO/IEC 27090 문서는 AI 시스템을 개발하거나 도입하려는 조직을 대상으로 지침을 제공하며, 해당 시스템이 직면할...",
+          "src": "ZDNet코리아",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/011/0004665467?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/09/26/news-p.v1.20260812.626d2206a8c046fe92ead8a820a7887b_Z1.png"
+          "url": "https://n.news.naver.com/mnews/article/092/0002438802?sid=110",
+          "img": "https://image.zdnet.co.kr/2026/09/26/22fc926de72ed79e80ac30edb417d975.png"
         },
         {
-          "title": "대출심사 파고드는 핀테크…2금융권과 잇달아 '동맹'",
-          "desc": "이처럼 핀테크를 활용한 대안 신용평가가 2금융권 대출 심사 과정에 빠르게 도입되고 있다. 토스와... 26일 금융권에 따르면 토스는 이달 인공지능(AI) 기술 금융사 PFCT와 손잡고 금융회사별 맞춤형 신용평가 모형을...",
-          "src": "한국경제",
+          "title": "목소리도, 택배 문자도 못 믿는다…추석 연휴 피싱 예방 수칙",
+          "desc": "특히 AI 기술을 악용해 지인의 목소리와 얼굴을 흉내 내거나, 문법 오류 없는 맞춤형 문자로 접근하는 사례가... 금융사에 도입돼 고객 단말기 내 악성앱 위험 탐지에 활용되고 있다. 문자 링크를 눌렀다고 피해가 즉시...",
+          "src": "lcnews",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336134?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/01.45827204.1.png"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=208844",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202609/208844_211530_2510.png"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436544",
+      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4436544_345734_561_v150.jpg"
+    },
+    {
       "title": "4.6억명 품은 스마트싱스…삼성, ‘연결’ 넘어 수익성 가시화",
       "url": "https://www.g-enews.com/view.php?ud=2026092311463323253084322ec9_1",
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260923115150044603084322ec91182166987.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etoday.co.kr/pto_db/2026/09/20260923102544_2392699_1200_500.png"
     },
     {
-      "title": "\"中가전, 저가공세 한계 도달\"…국내 가전업계, 본격 반격 나선다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014214160?sid=101",
-      "img": "https://img1.newsis.com/2026/07/30/NISI20260730_0021382852_web.jpg"
+      "title": "“빨래에 하얀 가루가…” 세제 찌꺼기와 종이 조각 구분",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=388151",
+      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904218921939.jpg"
     },
     {
-      "title": "멕시코 달군 K-열풍…이재명 대통령, 기업 수출·관세 현장 직접 살펴",
-      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=70549",
-      "img": "https://cdn.newswhoplus.com/news/thumbnail/202609/70549_108491_5952_v150.jpg"
+      "title": "AI 시대 '인간다움'을 이야기하다…사랑의 열매 새광고",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051519",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051519_84604_471_v150.jpg"
     },
     {
-      "title": "\"논술 학원 추가?\"…'수능 서·논술형' 도입 생각은",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909803?sid=102",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20260926/MYH20260926130555ciP.jpg"
-    },
-    {
-      "title": "[기업家] 오픈AI ③ㅣ 챗GPT 이미지 유출·AI 에이전트 무단 해킹 논란…...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610065",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202609/610065_418741_5046_v150.jpg"
+      "title": "\"자리 비워도 업무는 계속\"…MS, AI '코파일럿' 전면 개편",
+      "url": "https://n.news.naver.com/mnews/article/003/0014214613?sid=105",
+      "img": "https://img1.newsis.com/2026/09/26/NISI20260926_0002248833_web.jpg"
     }
   ]
 };
