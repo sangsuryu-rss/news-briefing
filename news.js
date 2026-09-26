@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.26 (토) 20:28",
+  "updatedAt": "2026.09.27 (일) 01:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략...",
-          "desc": "삼성전자와 LG전자 부스에서는 한국의 라이프스타일과 첨단 가전제품을 결합한 현지 전략과 투명 유기발광다이오드(OLED) 등 주요 제품을 살펴봤다. K-푸드의 중남미 확장 가능성도 직접 확인했다. 이 대통령은 빙그레...",
-          "src": "news",
-          "date": "09/26",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436544",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4436544_345734_561_v150.jpg"
-        },
-        {
-          "title": "4.6억명 품은 스마트싱스…삼성, ‘연결’ 넘어 수익성 가시화",
-          "desc": "삼성전자가 갤럭시 스마트폰과 TV·생활가전을 잇는 스마트싱스의 수익화를 추진한다. 기기를 함께 쓸 때의... 떨어져 사는 가족의 활동 징후가 일정 시간 감지되지 않으면 보호자에게 알리고, 지원되는 로봇청소기의...",
-          "src": "g-enews",
-          "date": "09/26",
-          "url": "https://www.g-enews.com/view.php?ud=2026092311463323253084322ec9_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260923115150044603084322ec91182166987.jpg"
+          "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
+          "desc": "전자에서는 로보락이 프리미엄 로봇청소기를 선점했고 TCL과 하이센스는 TV에서 삼성전자와 LG전자를 추격한다. 샤오미는 스마트폰과 가전, 자동차를 묶고 자체 반도체까지 개발한다. 또 하나 중국이 무서운 이유는 속도다....",
+          "src": "wolyo",
+          "date": "09/27",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318193",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318193_226183_4910.png"
         },
         {
           "title": "부담 커진 AI 가전 가격⋯“추석 할인 기회 잡아라”",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.etoday.co.kr/pto_db/2026/09/20260923102544_2392699_1200_500.png"
         },
         {
-          "title": "“빨래에 하얀 가루가…” 세제 찌꺼기와 종이 조각 구분",
-          "desc": "LG전자 고객지원은 통돌이 세탁기에서 세제를 권장량보다 많이 넣거나 옷에 바로 붓는 경우, 부피가 크고... 삼성전자서비스는 세제를 많이 쓰거나 고농축 세제를 용량에 맞지 않게 사용하면 세탁 후 거품이나 세제가 남을...",
+          "title": "세탁기 탈수 멈춤, 이불 쏠림부터 확인",
+          "desc": "LG전자는 이불을 한 장씩 이불 코스로 세탁하도록 안내하며, 삼성전자도 이불 세탁에 이불 코스를 사용하도록 안내한다. 세탁 가능 여부와 적정량은 이불의 취급 표시와 세탁기 사용설명서를 함께 확인해야 한다. 이불을...",
           "src": "vegannews",
           "date": "09/26",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=388151",
-          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904218921939.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=388184",
+          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904258938067.jpg"
+        },
+        {
+          "title": "냉장고 유리 선반 씻기 전 상온에 둬야",
+          "desc": "차가운 유리에 따뜻한 물 닿으면 파손 우려 냉장고 유리 선반은 차가운 상태에서 따뜻하거나 뜨거운 물로 바로 씻지 않는 편이 좋다. 급격한 온도 변화나 충격으로 유리가 깨질 수 있어서다. 삼성전자 미국 고객지원은...",
+          "src": "vegannews",
+          "date": "09/26",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=388142",
+          "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904207969255.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 시대 '인간다움'을 이야기하다…사랑의 열매 새광고",
-          "desc": "이를 통해 첨단 기술이 가속화되는 사회 속에서 인간만이 나눌 수 있는 따뜻한 교감과 온기의 소중함을... 특히 '어떤 모습이든 사랑한다'는 메시지를 배우들의 존재 자체로 설득한단 점에서 모델 활용도도 높다. 다만...",
-          "src": "apnews",
-          "date": "09/26",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051519",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051519_84604_471_v150.jpg"
+          "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노...",
+          "desc": "Underwriting)을 도입했다. 이는 2008년 글로벌 금융위기 직후 은행이 대출을 축소하는 사이 전문 운용사들이... 표준 Go와 유사해 Go에 익숙한 개발자는 기존 지식을 활용해 스마트 컨트랙트를 작성할 수 있다. 렐름의...",
+          "src": "더구루",
+          "date": "09/27",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107566",
+          "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902595909282_aa11f0.jpg"
         },
         {
-          "title": "\"자리 비워도 업무는 계속\"…MS, AI '코파일럿' 전면 개편",
-          "desc": "깃허브 코파일럿과 같은 기반 기술을 활용하며, 완성한 도구는 회사의 업무 환경에서 실행하고 동료와 공유할 수 있다. 오토파일럿은 이용자가 매번 지시하지 않아도 정해진 목표에 따라 업무를 이어가는 AI 에이전트다....",
-          "src": "뉴시스",
-          "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/003/0014214613?sid=105",
-          "img": "https://img1.newsis.com/2026/09/26/NISI20260926_0002248833_web.jpg"
+          "title": "챗GPT가 글 대신 써주는 시대인데…미국·EU 학교는 다시 ‘손글씨’로",
+          "desc": "결국 AI 시대에 다시 등장한 필기체 논쟁은 단순히 ‘예쁜 글씨를 가르칠 것인가’의 문제가 아니다. 이코노미스트는 디지털 기술이 글쓰기를 대신하는 시대일수록 직접 손으로 쓰고, 그 과정에서 생각하는 능력을 어떻게...",
+          "src": "munhwa",
+          "date": "09/27",
+          "url": "https://n.news.naver.com/mnews/article/021/0002821286?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/09/27/news-p.v1.20260922.f07d99a47da74344b24f7e7c6dc1d4bd_R.jpg"
         },
         {
-          "title": "[보안칼럼] 클라우드 서비스의 사이버보안 확장 통제",
-          "desc": "인공지능 활용 범죄 대응 등 인공지능기본법 개정을 통해 인공지능 전반에 대한 지원 체계를... ISO/IEC 27090 문서는 AI 시스템을 개발하거나 도입하려는 조직을 대상으로 지침을 제공하며, 해당 시스템이 직면할...",
-          "src": "ZDNet코리아",
+          "title": "BISTEP, ‘부산기업 제조데이터 구축’ 보고서 발간",
+          "desc": "부산MBC)부산과학기술 고등교육진흥원,비스텝(BISTEP)은 부산지역 영세 중소 제조업이 겪고 있는 위기를... 연구진은 범용 자동화가 어려운 조선기자재 업종의 경우에는 수주와 견적 산출, 설계에 맞춤형 AI 에이전트 도입을...",
+          "src": "busanmbc",
           "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438802?sid=110",
-          "img": "https://image.zdnet.co.kr/2026/09/26/22fc926de72ed79e80ac30edb417d975.png"
+          "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=289414",
+          "img": ""
         },
         {
-          "title": "목소리도, 택배 문자도 못 믿는다…추석 연휴 피싱 예방 수칙",
-          "desc": "특히 AI 기술을 악용해 지인의 목소리와 얼굴을 흉내 내거나, 문법 오류 없는 맞춤형 문자로 접근하는 사례가... 금융사에 도입돼 고객 단말기 내 악성앱 위험 탐지에 활용되고 있다. 문자 링크를 눌렀다고 피해가 즉시...",
-          "src": "lcnews",
+          "title": "대동, 전남생명과학고와 미래농업 전문인력 양성 맞손",
+          "desc": "양측은 대동의 미래사업과 학교 교육을 연계해 농업 피지컬AI 기반 첨단 농기계의 운용 역량을 갖춘 인재를... 안정적으로 도입되기 위해서는 기술 개발과 제품 보급뿐 아니라 이를 실제로 활용할 수 있는 인적 기반을 함께...",
+          "src": "youngnong",
           "date": "09/26",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=208844",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202609/208844_211530_2510.png"
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70575",
+          "img": "https://cdn.youngnong.co.kr/news/photo/202609/70575_60599_124.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략...",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436544",
-      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202609/4436544_345734_561_v150.jpg"
-    },
-    {
-      "title": "4.6억명 품은 스마트싱스…삼성, ‘연결’ 넘어 수익성 가시화",
-      "url": "https://www.g-enews.com/view.php?ud=2026092311463323253084322ec9_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260923115150044603084322ec91182166987.jpg"
+      "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318193",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318193_226183_4910.png"
     },
     {
       "title": "부담 커진 AI 가전 가격⋯“추석 할인 기회 잡아라”",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.etoday.co.kr/pto_db/2026/09/20260923102544_2392699_1200_500.png"
     },
     {
-      "title": "“빨래에 하얀 가루가…” 세제 찌꺼기와 종이 조각 구분",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=388151",
-      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904218921939.jpg"
+      "title": "세탁기 탈수 멈춤, 이불 쏠림부터 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=388184",
+      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904258938067.jpg"
     },
     {
-      "title": "AI 시대 '인간다움'을 이야기하다…사랑의 열매 새광고",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051519",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051519_84604_471_v150.jpg"
+      "title": "냉장고 유리 선반 씻기 전 상온에 둬야",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=388142",
+      "img": "https://www.vegannews.co.kr/data/photos/20260939/art_17904207969255.jpg"
     },
     {
-      "title": "\"자리 비워도 업무는 계속\"…MS, AI '코파일럿' 전면 개편",
-      "url": "https://n.news.naver.com/mnews/article/003/0014214613?sid=105",
-      "img": "https://img1.newsis.com/2026/09/26/NISI20260926_0002248833_web.jpg"
+      "title": "[크립토리뷰] 원체인 밸리데이터에 '해시키 클라우드' 합류…글로벌 노...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=107566",
+      "img": "https://www.theguru.co.kr/data/photos/20260939/art_17902595909282_aa11f0.jpg"
+    },
+    {
+      "title": "챗GPT가 글 대신 써주는 시대인데…미국·EU 학교는 다시 ‘손글씨’로",
+      "url": "https://n.news.naver.com/mnews/article/021/0002821286?sid=101",
+      "img": "https://wimg.munhwa.com/news/cms/2026/09/27/news-p.v1.20260922.f07d99a47da74344b24f7e7c6dc1d4bd_R.jpg"
     }
   ]
 };
