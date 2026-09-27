@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.28 (월) 03:26",
+  "updatedAt": "2026.09.28 (월) 08:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "[삼성전자 부사장단 해부] 두 해 연속 축소된 진용, 최대 실적 속 최다 ...",
+          "desc": "①전무 통합 후 300명대 유지…성과주의·사업 보강 사이 무게중심 관심 올해 삼성전자 부사장단은 가파른... 생활가전은 같은 기간 12명에서 16명으로 늘었다. 반면 영상디스플레이(VD)사업부는 2024년말 17명에서 올해...",
+          "src": "dealsite",
+          "date": "09/28",
+          "url": "https://dealsite.co.kr/articles/169600",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/51596de177cb4dae8e1d9416a0d79811/thumb.jpg"
+        },
+        {
           "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
-          "desc": "가사 노동에서 해방되기를 원하는 소비자들의 수요가 프리미엄 가전에 대한 심리적 장벽까지 허문 것이다. 삼성전자는 올해 2월 ‘2026년형 비스포크 AI 스팀’을 출시하며 그동안 잠잠했던 로봇청소기 영역에서...",
+          "desc": "삼성전자는 올해 2월 ‘2026년형 비스포크 AI 스팀’을 출시하며 그동안 잠잠했던 로봇청소기 영역에서 승부수를 띄웠다. 바닥에 쏟아진 물이나 음료수 등 투명한 오염물까지 정확히 감지하는 ‘AI 액체 인식’과 최대 45...",
           "src": "kmib",
           "date": "09/28",
           "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
         },
         {
-          "title": "[미르의 글로벌 레이더] 삼성·LG 가전, 5년 만에 이란 ‘빗장’ 일부 풀...",
-          "desc": "현지 일부 매체는 이를 삼성전자와 LG전자 제품에 대한 수입금지가 해제된 것으로 보도했다. 그러나 이란 인터내셔널 영문판은 냉장고와 세탁기 등 주요 가전제품의...",
-          "src": "mediapen",
-          "date": "09/27",
-          "url": "https://www.mediapen.com/news/view/1126189",
-          "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
-        },
-        {
-          "title": "삼성 AI 냉장고 ‘업데이트 오류’ 긴급 수습… 삼성 “연휴 일정 제외...",
-          "desc": "국내 냉장고 시장은 삼성전자와 LG전자가 90% 이상을 점유한 양강 구도다. 2025~2026년 최신 지표를 종합하면 세계 시장(물량 기준)에서는 하이얼 등 중국 업체가 앞서고, 미국 시장은 2025년 LG전자가 처음으로 1위에 올랐다....",
-          "src": "dnews",
-          "date": "09/27",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271302115560434",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/27/202609271302115560434-2-693596.png"
+          "title": "\"부동산 침체·해외 마진 악화에 갇혔다\"… 中 7대 가전사 중 4곳 상반기...",
+          "desc": "드럼세탁기 'X시리즈 11'을 선보이며 다국적 기술 연합을 강조했다. 중국 가전업계의 2026년 상반기 실적... 한국(삼성전자·LG전자)과의 프리미엄 경쟁 및 구조조정 압박도 한층 거세질 전망이다. 신경원...",
+          "src": "g-enews",
+          "date": "09/28",
+          "url": "https://www.g-enews.com/view.php?ud=2026092722432820560c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260927224415072730c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "미·러, AI 무기 규제 완화 주도… “기술 악용시 10억명 사망”",
-          "desc": "WP는 이번 논의가 향후 미군의 AI 활용 방향을 예고한다고 해석했다. 매체는 “미 국방부가 AI 기술을 전장 전략에 신속히 도입하려 하는 가운데 미국과 러시아가 AI 무기를 규제하려는 국제 규칙을 약화시키기 위해...",
-          "src": "kmib",
-          "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/005/0001875265?sid=104",
-          "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501663.jpg"
-        },
-        {
-          "title": "[테크 토크] 구글·오픈AI도 눈독…나를 가장 잘 아는 AI 에이전트의 핵...",
-          "desc": "다시 활용하는 '에이전트 메모리' 기술이 주목받고 있다. AI 에이전트는 단순히 질문에 답하는 것을 넘어... SK텔레콤은 지난해 에이닷 4.0 업데이트를 통해 개인화 메모리 기능을 도입했다. 이 기능은 이용자의 대화와...",
-          "src": "cbci",
-          "date": "09/28",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610054",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202609/610054_418728_109_v150.jpg"
-        },
-        {
-          "title": "[AI시대, 권력 대이동-풀무원] 공장부터 업무·쇼핑까지…'AI 에이전트'...",
-          "desc": "자동화 기술을 연결하고 조직에서는 AI를 업무 파트너로 활용하는 'AI 코워커(Coworker)' 환경을 구축한다는... 영역에도 AI가 들어왔다. 가맹사업법과 하도급법 관련 문의에 대응하는 '법령 전문가 AI 에이전트'를 도입해...",
+          "title": "안민석 경기도교육감, OECD서 '경기교육대전환' 띄웠다",
+          "desc": "\" AI와 디지털 기술이 학교와 일상에 깊숙이 들어온 상황에서 미래교육이 기술 활용에만 머물러서는 안... 관건은 해외 선진 사례를 단순히 도입하는 데 머물지 않고 경기도 학교 현장에 맞는 정책으로 구체화할 수...",
           "src": "pointdaily",
           "date": "09/28",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320425",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320425_316990_4345_v150.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320463",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320463_317043_5829_v150.jpg"
         },
         {
-          "title": "[DBR]직무 쪼개 여러 과업으로 재분배… ‘과업경제’가 온다",
-          "desc": "최근 미국을 중심으로 인공지능(AI) 도입을 이유로 직원을 줄였다가 다시 구인에 나선 기업들이 등장하고... 따르면 AI 관련 이슈로 인력을 줄였던 기업의 29%는 같은 직무에 다시 인간 노동자를 채용했다. 정보기술(IT)...",
-          "src": "동아일보",
+          "title": "“AI주, 더 먹힐까”…속도조절론에 반도체 울고 소프트웨어 웃었다",
+          "desc": "AI)주 투자 논쟁이 버블론에서 개발 속도조절론으로 번지고 있다. 업계 수장들이 안전을 이유로 기술 개발의... 기업에는 AI 도입 확대가 기회가 될 수 있다는 분석이다. 새 모델이 기존 소프트웨어의 기능을 대체할...",
+          "src": "이데일리",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/020/0003750859?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/27/134728052.3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006376105?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800115.jpg"
+        },
+        {
+          "title": "시작 단계부터 공존 모색…美데이터센터 ‘지역사회 혜택 협약’",
+          "desc": "CBA는 원래 상업용 부동산이나 광업 등 대규모 개발 사업에서 활용돼 왔지만, 최근 AI데이터센터에... 사하 디렉터는 “CBA는 대형 인프라 도입으로 우려되는 수자원 및 대기질, 에너지 가격 부담 등...",
+          "src": "한국일보",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/469/0000956252?sid=104",
+          "img": "https://newsimg.hankookilbo.com/2026/09/27/5b0eb324-ad19-489b-9a5f-0dc985cdb6bb.jpg"
+        },
+        {
+          "title": "[AI & LAW] AI 도입, 노조와 어디까지 교섭해야 하나",
+          "desc": "AI는 채용과 인사평가, 업무 배정이나 근무 일정 관리에도 활용될 수 있다. 기업이 AI를 도입할 때 던져야 할... AI 등 신기술 도입 이후 업무 내용·방식이 변경되거나 고용조정이 될 수 있다는 가능성만으로는 부족하다....",
+          "src": "아이뉴스24",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/031/0001061387?sid=105",
+          "img": "https://image.inews24.com/v1/f37f091019c2cf.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[김평희 칼럼] 보이는 물량으로는 이길 수 없다",
-          "desc": "2012년 극자외선(EUV) 노광 장비 개발에서는 패권을 놓고 경쟁하던 인텔과 TSMC와 삼성전자를 찾아가 자사의... 한국은 국가 대표 플랫폼을 세울 골든타임을 놓쳤고, 자본과 IT 인프라가 없는 중소·중견 협력사는 데이터...",
-          "src": "아주경제",
-          "date": "09/27",
-          "url": "https://www.ajunews.com/view/20260926091447655",
-          "img": "https://image.ajunews.com/content/image/2026/09/26/20260926120158562669.png"
+          "title": "\"씨엠티엑스, TSMC가 선택한 국내 유일 부품 1차 벤더\"-IBK",
+          "desc": "IBK투자증권은 28일 씨엠티엑스에 대해 \"국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있으며, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다\"고...",
+          "src": "한국경제",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/015/0005336434?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/ZA.45530184.1.jpg"
         },
         {
-          "title": "삼성 팹 홀로 서던 텍사스 허허벌판…철길 낀 대형 물류기지 들어서며 ...",
-          "desc": "철도 인프라를 갖춘 인접 물류 시설에 한국의 반도체 소재·부품 협력사들이 진입할 통로가 열린 셈이다. 공급망 파급 경로는 명확한 반면 계약 실체는 아직 드러나지 않았다. 삼성전자의 직접 투자나 입주 계약은...",
+          "title": "TSMC가 고른 국내 유일 1차 벤더…IBK 첫 '매수' 의견 제시",
+          "desc": "씨엠티엑스는 국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있으며, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다”고 설명했다. 실적은 공정...",
+          "src": "이데일리",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/018/0006376094?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800102.jpg"
+        },
+        {
+          "title": "전력난 덮친 인도, 공장 자가 발전기까지 총동원…112곳 전력망 강제 수...",
+          "desc": "한국 생산 거점 셧다운 방어…원가 상승 전가가 실질 변수 인도에 진출한 현대자동차그룹, 삼성전자... 중소 부품 협력사의 공급망 지연 가능성이 실질적 리스크다. 반면 몬순 종료 이후 기온이 빠르게 안정돼 전력...",
           "src": "g-enews",
-          "date": "09/27",
-          "url": "https://www.g-enews.com/view.php?ud=202609270653154673fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092706592804353fbbec65dfb211211153121.jpg"
+          "date": "09/28",
+          "url": "https://www.g-enews.com/view.php?ud=202609280722389282fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092807323701537fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "스마트폰 사용 시간 한계 넘는다…중국, 강철 케이스로 1만mAh 벽 깬다",
-          "desc": "방어와 부품 공급망 과제 중국 업계의 강철 케이스 적층형 전지 도입 시험은 한국 스마트폰 산업 전반에 직접적인 설계 비교 압박을 형성한다. 외신이 전한 1만mAh 배터리 탑재가 현실화할 경우 삼성전자 모바일경험(MX)...",
-          "src": "g-enews",
-          "date": "09/27",
-          "url": "https://www.g-enews.com/view.php?ud=202609270613126345fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092706451204299fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "\"미국 공장 돌릴 인재 찾는다\"…삼전·닉스, 美 현지 채용 '확대'",
-          "desc": "삼성전자와 SK하이닉스가 미국 반도체 생산기지 건설 일정에 맞춰 현지 채용을 늘리고 있다. 2027년 양산을... 공장에는 고객사와 대학, 협력사가 차세대 패키징 기술을 공동 개발하고 시제품 제작과 성능 검증을 진행할...",
-          "src": "뉴시스",
-          "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/003/0014214290?sid=101",
-          "img": "https://img1.newsis.com/2025/02/19/NISI20250219_0001773487_web.jpg"
+          "title": "\"씨엠티엑스, 목표가 11.5만…고수익 기조 이어질 것\"-IBK",
+          "desc": "반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있고, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다\"고 밝혔다. 실적에 대해선 \"공정 고도화와 고객사 가동률...",
+          "src": "머니투데이",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/008/0005418801?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=350,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092807202456716_1.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[삼성전자 부사장단 해부] 두 해 연속 축소된 진용, 최대 실적 속 최다 ...",
+      "url": "https://dealsite.co.kr/articles/169600",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/51596de177cb4dae8e1d9416a0d79811/thumb.jpg"
+    },
+    {
       "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
       "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
       "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501506.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
     },
     {
-      "title": "[미르의 글로벌 레이더] 삼성·LG 가전, 5년 만에 이란 ‘빗장’ 일부 풀...",
-      "url": "https://www.mediapen.com/news/view/1126189",
-      "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
+      "title": "\"부동산 침체·해외 마진 악화에 갇혔다\"… 中 7대 가전사 중 4곳 상반기...",
+      "url": "https://www.g-enews.com/view.php?ud=2026092722432820560c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260927224415072730c8c1c064d22114611240.jpg"
     },
     {
-      "title": "삼성 AI 냉장고 ‘업데이트 오류’ 긴급 수습… 삼성 “연휴 일정 제외...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271302115560434",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/27/202609271302115560434-2-693596.png"
+      "title": "안민석 경기도교육감, OECD서 '경기교육대전환' 띄웠다",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320463",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320463_317043_5829_v150.jpg"
     },
     {
-      "title": "미·러, AI 무기 규제 완화 주도… “기술 악용시 10억명 사망”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875265?sid=104",
-      "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501663.jpg"
-    },
-    {
-      "title": "[테크 토크] 구글·오픈AI도 눈독…나를 가장 잘 아는 AI 에이전트의 핵...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610054",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202609/610054_418728_109_v150.jpg"
+      "title": "“AI주, 더 먹힐까”…속도조절론에 반도체 울고 소프트웨어 웃었다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376105?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800115.jpg"
     }
   ]
 };
