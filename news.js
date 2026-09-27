@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.27 (일) 09:39",
+  "updatedAt": "2026.09.27 (일) 17:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 멕시코 K-박람회서 'AI 연결 경험' 선봬",
-          "desc": "[사진=삼성전자]  삼성전자가 멕시코에서 열린 한류 콘텐츠 행사에 참가해 스마트폰과 TV, 가전 등을 인공지능(AI)으로 연결하는 초연결 생태계를 선보였다. 삼성전자는 지난 24일부터 27일까지 멕시코시티 월드...",
-          "src": "joongangenews",
+          "title": "추석에도 집회 이어간 삼성전자 DX 노조, 10월에는 해법 나올까",
+          "desc": "아시아투데이 안소연 기자 = 삼성전자에서 가전·스마트폰·TV 등을 담당하는 디바이스경험(DX) 중심의 노동조합이 추석연휴에도 집회를 이어간 가운데 10월에는 노사가 해법을 찾을 수 있을지 주목된다. DX 직원들이...",
+          "src": "asiatoday",
           "date": "09/27",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=550637",
-          "img": "https://cdn.joongangenews.com/news/photo/202609/550637_357395_363.jpg"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009314",
+          "img": "https://img.asiatoday.co.kr/file/2026y/09m/28d/2026092701001711800093141.jpg"
         },
         {
-          "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
-          "desc": "전자에서는 로보락이 프리미엄 로봇청소기를 선점했고 TCL과 하이센스는 TV에서 삼성전자와 LG전자를 추격한다. 샤오미는 스마트폰과 가전, 자동차를 묶고 자체 반도체까지 개발한다. 또 하나 중국이 무서운 이유는 속도다....",
-          "src": "wolyo",
+          "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
+          "desc": "실제 국내 조사에서도 일부 중국산 로봇청소기가 사진 유출과 카메라 무단 활성화 취약점을 드러낸 반면, 삼성전자와 LG전자 제품은 상대적으로 높은 보안 수준을 보였다. 이 때문에 경쟁의 축은 하드웨어에서...",
+          "src": "g-enews",
           "date": "09/27",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318193",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202609/318193_226183_4910.png"
+          "url": "https://www.g-enews.com/view.php?ud=20260925184900713627fa31d75c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "[투데이온] 삼성 냉장고, 美 JD파워 전 부문 싹쓸이…1위 지키던 LG 제쳤...",
-          "desc": "삼성전자는 냉장고 외에도 전자레인지 겸용 주방 후드(716점)와 의류건조기(727점, 2위 LG전자 715점)에서 단독 1위를 차지했다. 식기세척기는 키친에이드와 함께 720점으로 공동 1위였다. 전체 가전제품 만족도는...",
-          "src": "the-today",
+          "title": "[자막뉴스] 주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다",
+          "desc": "LG전자 역시 씽큐에 연결된 세탁기와 건조기, 식기세척기와 의류관리기 이용 시 혜택을 받을 수 있습니다. 한전 웹사이트에서 스마트가전 캐시백 서비스를 신청한 뒤, 삼성 '스마트싱스'나 LG '씽큐' 앱에서 서비스를...",
+          "src": "ytn",
           "date": "09/27",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=90781",
-          "img": "https://cdn.the-today.com/news/photo/202609/90781_112236_4217.png"
+          "url": "https://n.news.naver.com/mnews/article/052/0002411528?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
         },
         {
-          "title": "삼성전자, 멕시코 K-박람회서 K-컬처와 AI 연결 경험 선보여",
-          "desc": "관람객들이 삼성전자 부스를 찾아 85형 Micro RGB TV 제품을 체험하고 있다./사진=삼성전자 제공... 관리 기능을 강화한 ‘비스포크 AI 패밀리허브’ 냉장고, 고효율 비스포크 AI 세탁기 등 생활가전 신제품을 선보였다.",
-          "src": "socialvalue",
+          "title": "[미르의 글로벌 레이더] 삼성·LG 가전, 5년 만에 이란 ‘빗장’ 일부 풀...",
+          "desc": "현지 일부 매체는 이를 삼성전자와 LG전자 제품에 대한 수입금지가 해제된 것으로 보도했다. 그러나 이란 인터내셔널 영문판은 냉장고와 세탁기 등 주요 가전제품의...",
+          "src": "mediapen",
           "date": "09/27",
-          "url": "https://www.socialvalue.kr/news/view/1065572393242743",
-          "img": "http://www.socialvalue.kr/news/data/20260927/p1065572393242743_445_thum.jpg"
+          "url": "https://www.mediapen.com/news/view/1126189",
+          "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "KT ‘AI 모델 길잡이’ 기술, 글로벌 벤치마크 종합 2위",
-          "desc": "이 기술은 KT가 추진하는 ‘Token Factory(토큰 팩토리)’의 모델 라우팅 기능에도 활용된다. Token Factory에서 다양한 AI 모델과 토큰 이용 환경을 통합 운영할 때 이용자의 요청에 맞는 모델을 자동으로 선택해...",
-          "src": "이투데이",
+          "title": "미중 정상회담, '동상이몽' 성적표...희토류·AI 등 현안은 과제로",
+          "desc": "지렛대로 활용해왔다. 또 백악관은 중국이 2027·2028년 각각 미국산 석탄 최소 1,000만 톤(총 2,000만 톤)을... 백악관은 팩트시트에서 “두 정상은 관련 신기술을 지칭할 때 AI 대신 슈퍼인텔리전스(SI·Super Intelligence)라는...",
+          "src": "한국일보",
           "date": "09/27",
-          "url": "https://www.etoday.co.kr/news/view/2629490",
-          "img": "https://img.etoday.co.kr/pto_db/2026/09/20260927093018_2393399_1200_642.jpg"
+          "url": "https://n.news.naver.com/mnews/article/469/0000956184?sid=104",
+          "img": "https://newsimg.hankookilbo.com/2026/09/27/1159b5e7-7c97-45e7-af54-732554801db4.jpg"
         },
         {
-          "title": "미중 정상회담 '성과' 강조했지만…희토류·AI 곳곳 이견",
-          "desc": "중국이 미국과의 무역 갈등 과정에서 희토류 수출 통제를 지렛대로 활용해온 만큼 미국은 안정적인 희토류... 트럼프 대통령은 AI에 대한 새로운 규제 도입에 부정적인 입장을 보이며 \"현 상태 그대로 두고 싶다\"고 밝혔다....",
-          "src": "jnilbo",
+          "title": "전 세계 87개국 홀린 AI 영상…경기도 ‘AI 콘텐츠 어워즈’ 본선 20편 격...",
+          "desc": "대한민국 AI 콘텐츠 어워즈는 생성형 인공지능을 단순 제작 도구가 아닌 새로운 창작 방식으로 활용한... 생성형 AI 도입에 따른 제작 현장의 변화와 창작자의 역할을 논의한다.관객 접점 확대를 위한 특별 상영도...",
+          "src": "asiatoday",
           "date": "09/27",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000068835",
-          "img": "https://cdn.jnilbo.com/news/photo/202609/90000068835_591930_2618.png"
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009220",
+          "img": "https://img.asiatoday.co.kr/file/2026y/09m/27d/2026092701001694100092201.jpg"
         },
         {
-          "title": "[AI위클리] 해킹 막는 '사이버 방패' 만든다…보안 AI 개발 속도",
-          "desc": "배경훈 부총리 겸 과학기술정보통신부 장관은 지난 22일 간담회에서 \"안보 전략자산으로서 우리만의 보안... 배승권 KISA 취약점관리센터장은 이달 21일 AI 활용 등으로 취약점 공개 건수가 급증하고 있지만, 모든...",
-          "src": "연합뉴스",
+          "title": "[국정자원 화재 그 후 ㊦] 공공 DR 투자 본격화…장비 넘어 SW·운영체계...",
+          "desc": "그는 “예전에는 백업만 도입을 검토하던 데들이 DR까지 같이 검토한다”고 말했다. 공공기관에서도 작은... 대전·공주센터를 활용한다. A-A는 두 센터가 함께 서비스를 운영하다 한쪽에 장애가 나면 다른 쪽이...",
+          "src": "디지털데일리",
           "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337930?sid=105",
-          "img": "https://img1.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081112090001300_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002242753?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/06/24/2026062408511096137_l.jpg"
         },
         {
-          "title": "KT, 'AI 모델 라우팅 기술 글로벌 평가' 2위...토큰 팩토리 핵심 기술 경...",
-          "desc": "새로운 AI 모델을 유연하게 추가할 수 있는 멀티모델 운영 환경을 구축해 기업 고객의 AI 도입과 AX... 지능적으로 활용하느냐가 중요하다\"며 \"AutoModelRouter는 이러한 AI 오케스트레이션 역량을 구현한 기술로...",
-          "src": "팝콘뉴스",
+          "title": "\"韓 제조업 AI 성공, 3D프린팅 역량에 달려\"",
+          "desc": "3D프린팅을 도입할 필요가 있다\"고 강조했다. 1989년 설립돼 3D프린팅의 밑바닥을 다졌던 스트라타시스는... 몰라 활용하지 못하는 경우가 많았지만, 이제는 AI를 통해 많이 해소됐다\"며 \"10대 청소년도 전문가 도움 없이...",
+          "src": "매일경제",
           "date": "09/27",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=134100",
-          "img": "https://cdn.popcornnews.net/news/thumbnail/202609/134100_159908_2411_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005740375?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01110116000002_L00.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[김평희 칼럼] 보이는 물량으로는 이길 수 없다",
+          "desc": "2012년 극자외선(EUV) 노광 장비 개발에서는 패권을 놓고 경쟁하던 인텔과 TSMC와 삼성전자를 찾아가 자사의... 한국은 국가 대표 플랫폼을 세울 골든타임을 놓쳤고, 자본과 IT 인프라가 없는 중소·중견 협력사는 데이터...",
+          "src": "아주경제",
+          "date": "09/27",
+          "url": "https://www.ajunews.com/view/20260926091447655",
+          "img": "https://image.ajunews.com/content/image/2026/09/26/20260926120158562669.png"
+        },
         {
           "title": "삼성 팹 홀로 서던 텍사스 허허벌판…철길 낀 대형 물류기지 들어서며 ...",
           "desc": "철도 인프라를 갖춘 인접 물류 시설에 한국의 반도체 소재·부품 협력사들이 진입할 통로가 열린 셈이다. 공급망 파급 경로는 명확한 반면 계약 실체는 아직 드러나지 않았다. 삼성전자의 직접 투자나 입주 계약은...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/26",
           "url": "https://n.news.naver.com/mnews/article/003/0014214290?sid=101",
           "img": "https://img1.newsis.com/2025/02/19/NISI20250219_0001773487_web.jpg"
-        },
-        {
-          "title": "제조업 기반 취약한 광주, 이젠 글로벌 AI 부품 생산기지로",
-          "desc": "(AI) 부품 생산기지로 탈바꿈하고 있다. 26일 산업계에 따르면 삼성전자는 지난 21일 광주사업장에서... 지역 중소 협력사들은 첨단 냉난방공조 장비나 반도체 부품으로 사업 영역을 확장할 수 있는 기회가 마련됐고...",
-          "src": "뉴스1",
-          "date": "09/26",
-          "url": "https://n.news.naver.com/mnews/article/421/0009191972?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/21/8117884/high.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 멕시코 K-박람회서 'AI 연결 경험' 선봬",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=550637",
-      "img": "https://cdn.joongangenews.com/news/photo/202609/550637_357395_363.jpg"
+      "title": "추석에도 집회 이어간 삼성전자 DX 노조, 10월에는 해법 나올까",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009314",
+      "img": "https://img.asiatoday.co.kr/file/2026y/09m/28d/2026092701001711800093141.jpg"
     },
     {
-      "title": "[데스크칼럼] 중국산 휴머노이드, 난 쿠팡에서 산다",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318193",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202609/318193_226183_4910.png"
+      "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
+      "url": "https://www.g-enews.com/view.php?ud=20260925184900713627fa31d75c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
     },
     {
-      "title": "[투데이온] 삼성 냉장고, 美 JD파워 전 부문 싹쓸이…1위 지키던 LG 제쳤...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=90781",
-      "img": "https://cdn.the-today.com/news/photo/202609/90781_112236_4217.png"
+      "title": "[자막뉴스] 주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411528?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
     },
     {
-      "title": "삼성전자, 멕시코 K-박람회서 K-컬처와 AI 연결 경험 선보여",
-      "url": "https://www.socialvalue.kr/news/view/1065572393242743",
-      "img": "http://www.socialvalue.kr/news/data/20260927/p1065572393242743_445_thum.jpg"
+      "title": "[미르의 글로벌 레이더] 삼성·LG 가전, 5년 만에 이란 ‘빗장’ 일부 풀...",
+      "url": "https://www.mediapen.com/news/view/1126189",
+      "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
     },
     {
-      "title": "KT ‘AI 모델 길잡이’ 기술, 글로벌 벤치마크 종합 2위",
-      "url": "https://www.etoday.co.kr/news/view/2629490",
-      "img": "https://img.etoday.co.kr/pto_db/2026/09/20260927093018_2393399_1200_642.jpg"
+      "title": "미중 정상회담, '동상이몽' 성적표...희토류·AI 등 현안은 과제로",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956184?sid=104",
+      "img": "https://newsimg.hankookilbo.com/2026/09/27/1159b5e7-7c97-45e7-af54-732554801db4.jpg"
     },
     {
-      "title": "미중 정상회담 '성과' 강조했지만…희토류·AI 곳곳 이견",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000068835",
-      "img": "https://cdn.jnilbo.com/news/photo/202609/90000068835_591930_2618.png"
+      "title": "전 세계 87개국 홀린 AI 영상…경기도 ‘AI 콘텐츠 어워즈’ 본선 20편 격...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009220",
+      "img": "https://img.asiatoday.co.kr/file/2026y/09m/27d/2026092701001694100092201.jpg"
     }
   ]
 };
