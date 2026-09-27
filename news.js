@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.27 (일) 17:14",
+  "updatedAt": "2026.09.27 (일) 23:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "추석에도 집회 이어간 삼성전자 DX 노조, 10월에는 해법 나올까",
-          "desc": "아시아투데이 안소연 기자 = 삼성전자에서 가전·스마트폰·TV 등을 담당하는 디바이스경험(DX) 중심의 노동조합이 추석연휴에도 집회를 이어간 가운데 10월에는 노사가 해법을 찾을 수 있을지 주목된다. DX 직원들이...",
-          "src": "asiatoday",
+          "title": "삼성전자, 멕시코 K박람회서 'AI 연결 경험' 선보였다",
+          "desc": "또 스마트싱스는 갤럭시 기기와 TV, 비스포크AI 가전을 하나로 연결해 기기 제어와 에너지 사용량 관리를 한곳에서 할 수 있는 기능을 선보였다. 삼성전자 부스에는 K팝 바와 스트리머 스튜디오, TV룸, 게이밍존...",
+          "src": "newsbrite",
           "date": "09/27",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009314",
-          "img": "https://img.asiatoday.co.kr/file/2026y/09m/28d/2026092701001711800093141.jpg"
+          "url": "http://www.newsbrite.net/news/articleView.html?idxno=200617",
+          "img": "https://cdn.newsbrite.net/news/thumbnail/202609/200617_106925_3735_v150.jpg"
         },
         {
           "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
@@ -37,7 +37,7 @@ window.NEWS_DATA = {
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "[자막뉴스] 주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다",
+          "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
           "desc": "LG전자 역시 씽큐에 연결된 세탁기와 건조기, 식기세척기와 의류관리기 이용 시 혜택을 받을 수 있습니다. 한전 웹사이트에서 스마트가전 캐시백 서비스를 신청한 뒤, 삼성 '스마트싱스'나 LG '씽큐' 앱에서 서비스를...",
           "src": "ytn",
           "date": "09/27",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "미중 정상회담, '동상이몽' 성적표...희토류·AI 등 현안은 과제로",
-          "desc": "지렛대로 활용해왔다. 또 백악관은 중국이 2027·2028년 각각 미국산 석탄 최소 1,000만 톤(총 2,000만 톤)을... 백악관은 팩트시트에서 “두 정상은 관련 신기술을 지칭할 때 AI 대신 슈퍼인텔리전스(SI·Super Intelligence)라는...",
-          "src": "한국일보",
+          "title": "[문화산책] 미술관에 파고든 AI",
+          "desc": "안내까지 AI의 역할이 확대되고 있다. 하지만 기술 도입 속도에 비해 이를 통제할 규범과 전문인력은 충분히... AI가 문화유산에 대한 접근성을 높이는 기술이 될 수도 있지만 반대로 AI를 활용할 수 있는 문화기관과...",
+          "src": "news2day",
           "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/469/0000956184?sid=104",
-          "img": "https://newsimg.hankookilbo.com/2026/09/27/1159b5e7-7c97-45e7-af54-732554801db4.jpg"
+          "url": "https://www.news2day.co.kr/article/20260927500046",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/27/.cache/512/20260927500047.png"
         },
         {
-          "title": "전 세계 87개국 홀린 AI 영상…경기도 ‘AI 콘텐츠 어워즈’ 본선 20편 격...",
-          "desc": "대한민국 AI 콘텐츠 어워즈는 생성형 인공지능을 단순 제작 도구가 아닌 새로운 창작 방식으로 활용한... 생성형 AI 도입에 따른 제작 현장의 변화와 창작자의 역할을 논의한다.관객 접점 확대를 위한 특별 상영도...",
-          "src": "asiatoday",
+          "title": "李대통령, 美·멕시코 5박7일 순방...북미대화부터 공급망·K-방산까지",
+          "desc": "방산, AI·디지털, 우주·항공 등 전방위적인 협력 확대 방안을 논의했다. 양 정상은 향후 양국 관계 발전의 방향을 담은 ‘2026~2030 한·멕시코 공동행동계획’을 채택했다. 경제·산업과 개발협력, 과학기술, 국방, 치안, 농업...",
+          "src": "m-economynews",
           "date": "09/27",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009220",
-          "img": "https://img.asiatoday.co.kr/file/2026y/09m/27d/2026092701001694100092201.jpg"
+          "url": "https://www.m-economynews.com/news/article.html?no=71090",
+          "img": "https://www.m-economynews.com/data/photos/20260939/art_17905134722272_e63c4d.jpg"
         },
         {
-          "title": "[국정자원 화재 그 후 ㊦] 공공 DR 투자 본격화…장비 넘어 SW·운영체계...",
-          "desc": "그는 “예전에는 백업만 도입을 검토하던 데들이 DR까지 같이 검토한다”고 말했다. 공공기관에서도 작은... 대전·공주센터를 활용한다. A-A는 두 센터가 함께 서비스를 운영하다 한쪽에 장애가 나면 다른 쪽이...",
-          "src": "디지털데일리",
+          "title": "지식재산처-한국공학한림원, '제2회 지식재산 전략포럼' 개최",
+          "desc": "사진=지식재산처  최근 산업현장에 AI(인공지능) 도입이 확산되면서 AI 성능을 높이는 데 필요한 양질의... 이 자리에서 윤의준 한국공학한림원 회장은 \"산업현장의 AI 대전환을 위해서는 기술개발과 함께 데이터의 활용...",
+          "src": "bizwnews",
           "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/138/0002242753?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/06/24/2026062408511096137_l.jpg"
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=147354",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/147354_164525_1257_v150.jpg"
         },
         {
-          "title": "\"韓 제조업 AI 성공, 3D프린팅 역량에 달려\"",
-          "desc": "3D프린팅을 도입할 필요가 있다\"고 강조했다. 1989년 설립돼 3D프린팅의 밑바닥을 다졌던 스트라타시스는... 몰라 활용하지 못하는 경우가 많았지만, 이제는 AI를 통해 많이 해소됐다\"며 \"10대 청소년도 전문가 도움 없이...",
-          "src": "매일경제",
+          "title": "KT, AI 모델 라우팅 기술 글로벌 평가 2위",
+          "desc": "새로운 AI 모델을 유연하게 추가할 수 있는 멀티모델 운영 환경을 구축해 기업 고객의 AI 도입과 AX 전환을... 지능적으로 활용하느냐가 중요하다\"며 \"오토모델라우터는 이러한 AI 오케스트레이션 역량을 구현한 기술로...",
+          "src": "pointdaily",
           "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/009/0005740375?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01110116000002_L00.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320458",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320458_317029_4952_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "추석에도 집회 이어간 삼성전자 DX 노조, 10월에는 해법 나올까",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009314",
-      "img": "https://img.asiatoday.co.kr/file/2026y/09m/28d/2026092701001711800093141.jpg"
+      "title": "삼성전자, 멕시코 K박람회서 'AI 연결 경험' 선보였다",
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=200617",
+      "img": "https://cdn.newsbrite.net/news/thumbnail/202609/200617_106925_3735_v150.jpg"
     },
     {
       "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
@@ -187,7 +187,7 @@ window.NEWS_DATA = {
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
     },
     {
-      "title": "[자막뉴스] 주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다",
+      "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
       "url": "https://n.news.naver.com/mnews/article/052/0002411528?sid=101",
       "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
     },
     {
-      "title": "미중 정상회담, '동상이몽' 성적표...희토류·AI 등 현안은 과제로",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956184?sid=104",
-      "img": "https://newsimg.hankookilbo.com/2026/09/27/1159b5e7-7c97-45e7-af54-732554801db4.jpg"
+      "title": "[문화산책] 미술관에 파고든 AI",
+      "url": "https://www.news2day.co.kr/article/20260927500046",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/27/.cache/512/20260927500047.png"
     },
     {
-      "title": "전 세계 87개국 홀린 AI 영상…경기도 ‘AI 콘텐츠 어워즈’ 본선 20편 격...",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009220",
-      "img": "https://img.asiatoday.co.kr/file/2026y/09m/27d/2026092701001694100092201.jpg"
+      "title": "李대통령, 美·멕시코 5박7일 순방...북미대화부터 공급망·K-방산까지",
+      "url": "https://www.m-economynews.com/news/article.html?no=71090",
+      "img": "https://www.m-economynews.com/data/photos/20260939/art_17905134722272_e63c4d.jpg"
     }
   ]
 };
