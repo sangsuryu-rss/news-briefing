@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.27 (일) 23:02",
+  "updatedAt": "2026.09.28 (월) 03:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 멕시코 K박람회서 'AI 연결 경험' 선보였다",
-          "desc": "또 스마트싱스는 갤럭시 기기와 TV, 비스포크AI 가전을 하나로 연결해 기기 제어와 에너지 사용량 관리를 한곳에서 할 수 있는 기능을 선보였다. 삼성전자 부스에는 K팝 바와 스트리머 스튜디오, TV룸, 게이밍존...",
-          "src": "newsbrite",
-          "date": "09/27",
-          "url": "http://www.newsbrite.net/news/articleView.html?idxno=200617",
-          "img": "https://cdn.newsbrite.net/news/thumbnail/202609/200617_106925_3735_v150.jpg"
-        },
-        {
-          "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
-          "desc": "실제 국내 조사에서도 일부 중국산 로봇청소기가 사진 유출과 카메라 무단 활성화 취약점을 드러낸 반면, 삼성전자와 LG전자 제품은 상대적으로 높은 보안 수준을 보였다. 이 때문에 경쟁의 축은 하드웨어에서...",
-          "src": "g-enews",
-          "date": "09/27",
-          "url": "https://www.g-enews.com/view.php?ud=20260925184900713627fa31d75c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
+          "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
+          "desc": "가사 노동에서 해방되기를 원하는 소비자들의 수요가 프리미엄 가전에 대한 심리적 장벽까지 허문 것이다. 삼성전자는 올해 2월 ‘2026년형 비스포크 AI 스팀’을 출시하며 그동안 잠잠했던 로봇청소기 영역에서...",
+          "src": "kmib",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501506.jpg"
         },
         {
           "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "09/27",
           "url": "https://www.mediapen.com/news/view/1126189",
           "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
+        },
+        {
+          "title": "삼성 AI 냉장고 ‘업데이트 오류’ 긴급 수습… 삼성 “연휴 일정 제외...",
+          "desc": "국내 냉장고 시장은 삼성전자와 LG전자가 90% 이상을 점유한 양강 구도다. 2025~2026년 최신 지표를 종합하면 세계 시장(물량 기준)에서는 하이얼 등 중국 업체가 앞서고, 미국 시장은 2025년 LG전자가 처음으로 1위에 올랐다....",
+          "src": "dnews",
+          "date": "09/27",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271302115560434",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/09/27/202609271302115560434-2-693596.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[문화산책] 미술관에 파고든 AI",
-          "desc": "안내까지 AI의 역할이 확대되고 있다. 하지만 기술 도입 속도에 비해 이를 통제할 규범과 전문인력은 충분히... AI가 문화유산에 대한 접근성을 높이는 기술이 될 수도 있지만 반대로 AI를 활용할 수 있는 문화기관과...",
-          "src": "news2day",
-          "date": "09/27",
-          "url": "https://www.news2day.co.kr/article/20260927500046",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/27/.cache/512/20260927500047.png"
+          "title": "미·러, AI 무기 규제 완화 주도… “기술 악용시 10억명 사망”",
+          "desc": "WP는 이번 논의가 향후 미군의 AI 활용 방향을 예고한다고 해석했다. 매체는 “미 국방부가 AI 기술을 전장 전략에 신속히 도입하려 하는 가운데 미국과 러시아가 AI 무기를 규제하려는 국제 규칙을 약화시키기 위해...",
+          "src": "kmib",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/005/0001875265?sid=104",
+          "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501663.jpg"
         },
         {
-          "title": "李대통령, 美·멕시코 5박7일 순방...북미대화부터 공급망·K-방산까지",
-          "desc": "방산, AI·디지털, 우주·항공 등 전방위적인 협력 확대 방안을 논의했다. 양 정상은 향후 양국 관계 발전의 방향을 담은 ‘2026~2030 한·멕시코 공동행동계획’을 채택했다. 경제·산업과 개발협력, 과학기술, 국방, 치안, 농업...",
-          "src": "m-economynews",
-          "date": "09/27",
-          "url": "https://www.m-economynews.com/news/article.html?no=71090",
-          "img": "https://www.m-economynews.com/data/photos/20260939/art_17905134722272_e63c4d.jpg"
+          "title": "[테크 토크] 구글·오픈AI도 눈독…나를 가장 잘 아는 AI 에이전트의 핵...",
+          "desc": "다시 활용하는 '에이전트 메모리' 기술이 주목받고 있다. AI 에이전트는 단순히 질문에 답하는 것을 넘어... SK텔레콤은 지난해 에이닷 4.0 업데이트를 통해 개인화 메모리 기능을 도입했다. 이 기능은 이용자의 대화와...",
+          "src": "cbci",
+          "date": "09/28",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610054",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202609/610054_418728_109_v150.jpg"
         },
         {
-          "title": "지식재산처-한국공학한림원, '제2회 지식재산 전략포럼' 개최",
-          "desc": "사진=지식재산처  최근 산업현장에 AI(인공지능) 도입이 확산되면서 AI 성능을 높이는 데 필요한 양질의... 이 자리에서 윤의준 한국공학한림원 회장은 \"산업현장의 AI 대전환을 위해서는 기술개발과 함께 데이터의 활용...",
-          "src": "bizwnews",
-          "date": "09/27",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=147354",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202609/147354_164525_1257_v150.jpg"
-        },
-        {
-          "title": "KT, AI 모델 라우팅 기술 글로벌 평가 2위",
-          "desc": "새로운 AI 모델을 유연하게 추가할 수 있는 멀티모델 운영 환경을 구축해 기업 고객의 AI 도입과 AX 전환을... 지능적으로 활용하느냐가 중요하다\"며 \"오토모델라우터는 이러한 AI 오케스트레이션 역량을 구현한 기술로...",
+          "title": "[AI시대, 권력 대이동-풀무원] 공장부터 업무·쇼핑까지…'AI 에이전트'...",
+          "desc": "자동화 기술을 연결하고 조직에서는 AI를 업무 파트너로 활용하는 'AI 코워커(Coworker)' 환경을 구축한다는... 영역에도 AI가 들어왔다. 가맹사업법과 하도급법 관련 문의에 대응하는 '법령 전문가 AI 에이전트'를 도입해...",
           "src": "pointdaily",
-          "date": "09/27",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320458",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320458_317029_4952_v150.jpg"
+          "date": "09/28",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320425",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320425_316990_4345_v150.jpg"
+        },
+        {
+          "title": "[DBR]직무 쪼개 여러 과업으로 재분배… ‘과업경제’가 온다",
+          "desc": "최근 미국을 중심으로 인공지능(AI) 도입을 이유로 직원을 줄였다가 다시 구인에 나선 기업들이 등장하고... 따르면 AI 관련 이슈로 인력을 줄였던 기업의 29%는 같은 직무에 다시 인간 노동자를 채용했다. 정보기술(IT)...",
+          "src": "동아일보",
+          "date": "09/28",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750859?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/27/134728052.3.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 멕시코 K박람회서 'AI 연결 경험' 선보였다",
-      "url": "http://www.newsbrite.net/news/articleView.html?idxno=200617",
-      "img": "https://cdn.newsbrite.net/news/thumbnail/202609/200617_106925_3735_v150.jpg"
-    },
-    {
-      "title": "삼성·LG, 미래 가전은 역시나 피지컬AI…로봇으로 고부가 노린다",
-      "url": "https://www.g-enews.com/view.php?ud=20260925184900713627fa31d75c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260511200627045152bd56fbc3c21121419978.jpg"
+      "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
+      "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501506.jpg"
     },
     {
       "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202609/news_1126189_1790490325_m.png"
     },
     {
-      "title": "[문화산책] 미술관에 파고든 AI",
-      "url": "https://www.news2day.co.kr/article/20260927500046",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/09/27/.cache/512/20260927500047.png"
+      "title": "삼성 AI 냉장고 ‘업데이트 오류’ 긴급 수습… 삼성 “연휴 일정 제외...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271302115560434",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/09/27/202609271302115560434-2-693596.png"
     },
     {
-      "title": "李대통령, 美·멕시코 5박7일 순방...북미대화부터 공급망·K-방산까지",
-      "url": "https://www.m-economynews.com/news/article.html?no=71090",
-      "img": "https://www.m-economynews.com/data/photos/20260939/art_17905134722272_e63c4d.jpg"
+      "title": "미·러, AI 무기 규제 완화 주도… “기술 악용시 10억명 사망”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875265?sid=104",
+      "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501663.jpg"
+    },
+    {
+      "title": "[테크 토크] 구글·오픈AI도 눈독…나를 가장 잘 아는 AI 에이전트의 핵...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610054",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202609/610054_418728_109_v150.jpg"
     }
   ]
 };
