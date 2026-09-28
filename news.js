@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.28 (월) 14:28",
+  "updatedAt": "2026.09.28 (월) 23:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "구독경제 강화 나선 삼성전자…신혼·시니어 이어 기업까지 세분화",
-          "desc": "공공기관과 호텔, 병원, 금융회사 등을 대상으로 'B2B 삼성 AI 구독'을 출시한다. 기업 입장에서는 가전·전자제품을 대량으로 구매할 때 발생하는 초기 비용을 줄이는 동시에 최대 6년 무상 AS를 받을 수 있다. 특히 기업...",
+          "title": "삼성전자, 'AI 구독' 판 키운다…신혼·시니어·B2B 서비스 확대",
+          "desc": "삼성전자가 출시 2주년을 맞은 가전 구독 서비스를 고객의 생애주기와 이용 환경에 맞춘 관리 서비스로 확대한다. 신혼부부와 시니어 고객에게 필요한 서비스를 각각 세분화하는 동시에, 공공기관과 호텔·의료·금융 등...",
+          "src": "apnews",
+          "date": "09/28",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051561",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051561_84678_2039_v150.jpg"
+        },
+        {
+          "title": "\"한꺼번에 사긴 부담\"…가전 소비도 '소유'에서 '구독'으로",
+          "desc": "이제는 집은 물론, 기업도 냉장고와 세탁기 같은 대형 가전을 구독하는 시대가 됐습니다. 당장은 사는 것보다... 삼성전자 대형가전 구매자 3명 중 1명이 선택할 만큼, 구독은 가전 구매의 새로운 축으로 자리 잡았습니다....",
           "src": "조선일보",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/076/0004450367?sid=101",
-          "img": "https://www.sportschosun.com/article/html/2026/09/28/2026092801001866100123161_w.jpg"
+          "url": "https://n.news.naver.com/mnews/article/448/0000641920?sid=101",
+          "img": "https://img.tvchosun.com/sitedata/image/202609/28/2026092890216_thumb.jpg"
         },
         {
-          "title": "삼성전자, 신혼·시니어·기업 맞춤 케어로 '삼성 AI 구독' 혁신",
-          "desc": "'비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 스팀 울트라' 로봇청소기 등 구독 시 혜택이 부여된다. 구체적으로는 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트와 함께 구독료의 5...",
-          "src": "womentimes",
+          "title": "삼성전자, '삼성 AI 구독' 새단장… 신혼·시니어·기업 등 서비스 세분...",
+          "desc": "비스포크 냉장고·세탁건조기·로봇청소기 등 프로모션 대상 모델 구독 시 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트에 더해 구독료의 5%에 상당하는 포인트를 추가로 제공하고, 총 구독료의 5%를 할인해준다....",
+          "src": "thepublic",
           "date": "09/28",
-          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106532",
-          "img": "https://cdn.womentimes.co.kr/news/photo/202609/106532_207837_649.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=320365",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/320365_323836_833.jpg"
         },
         {
-          "title": "삼성 가전 구독 '블루패스' 1조 매출 목하",
-          "desc": "삼성전자는 구독을 통해 기업이나 자영업자 등 초기 비용을 낮출 수 있다는 점에 착안했다. 통상 사업장을 열 때 냉장고와 에어컨, 세탁기 등 필요한 가전을 한꺼번에 구입하면 상당한 초기 비용이 들어간다. 지점을...",
-          "src": "newsway",
+          "title": "삼성 AI 구독, 신혼부부·자영업자 겨냥…초기 비용 낮춰 가전 파고든다",
+          "desc": "삼성전자가 가전 점유율을 끌어올리기 위해 구독 서비스를 개편했다. 서비스 브랜드를 'AI 구독클럽'에서... 이날 둘러본 삼성스토어 청담점도 냉장고와 세탁기 등의 빌트인 공간을 영림과 함께 꾸며, 삼성스토어가...",
+          "src": "econovill",
           "date": "09/28",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026092813224626347",
-          "img": "https://nimage.newsway.co.kr/photo/2026/09/28/20260928002856_1200.jpg"
-        },
-        {
-          "title": "삼성전자, AI 가전 구독 개편…신혼·시니어·기업 서비스 확대",
-          "desc": "[삼성전자]  삼성전자가 가전 구독 서비스 출시 2주년을 맞아 브랜드를 'AI 구독클럽'에서 '삼성 AI 구독'으로 바꾸고 신혼부부와 시니어, 기업 고객 대상 서비스를 확대한다. 삼성전자는 고객 생애주기와 이용 목적에 따라...",
-          "src": "ziksir",
-          "date": "09/28",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=147599",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202609/147599_167170_1733_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=752029",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/752029_728095_199_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI 안 썼다는 걸 증명하라\"…세계 출판계 흔드는 'AI 저작 논란'",
-          "desc": "방식을 도입했다. 한국 출판계도 대응책 마련에 나섰다. 한국출판인회의는 29일 서울 성산동 마포중앙도서관에서 출판·AI 정책포럼을 열고 AI 활용 원칙을 발표한다. 현재는 AI 사용 자체를 금지하기보다 활용 범위를...",
-          "src": "한국경제",
+          "title": "SKT, 24년 펜싱 동행에 AI 접목…'0.1초 승부'까지 읽는다",
+          "desc": "개발한 AI 전력분석 시스템을 대표팀 훈련에 처음 투입하며 기술을 활용한 스포츠 후원으로 영역을... 펜싱 AI 전력분석 시스템 'SKT-FAN(Fencing AI Nexus)'을 대표팀 훈련에 처음 도입했다. 경기 영상을 AI로 분석해...",
+          "src": "apnews",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336597?sid=103",
-          "img": "https://img.hankyung.com/photo/202609/01.45853261.1.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051563",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051563_84681_5228_v150.jpg"
         },
         {
-          "title": "[AI의료]뷰노, 하이난성 'DeepCARS' 판매계약 체결..중국 '투 트랙' 진출...",
-          "desc": "현지 도입 기간을 단축하고 실사용 데이터를 선제적으로 확보할 계획이다. 궈룬과 함께 선행구 내 주요... 데이터를 AI 기술과 결합해, 설명 가능한 머신러닝(Explainable ML)과 실험계획법(DoE)을 활용한 용출 양상 예측...",
-          "src": "getnews",
+          "title": "이 기업이 24년간 밀어줬다고 메달이 무려 10개…아시안게임서 빛난 펜...",
+          "desc": "시스템을 도입했다. SK텔레콤이 자체 개발한 ‘SKT-FAN(Fencing AI Nexus)’은 AI 컴퓨터 비전과 모션 캡처 기술... 스태프와 선수단은 SKT-FAN의 전력 분석 결과를 훈련과 실전 전략 조정에 활용했다. 이외에도 SK텔레콤은...",
+          "src": "매일경제",
           "date": "09/28",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881909",
-          "img": "https://cdn.getnews.co.kr/news/photo/202609/881909_539100_1825.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005741064?sid=104",
+          "img": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20260928.9f4344c3e2df49bdbaf1d9a343bd4c30_R.png"
         },
         {
-          "title": "옥타브, 산업 AI의 병목은 기술보다 사람…한국 기업 54% ‘숙련 지식’...",
-          "desc": "AI를 활용하는 인력의 판단과 업무를 지원한다는 접근이다. 파비오 야다(Fabio Yada) 옥타브 아시아태평양 지역 수석부사장은 “산업용 AI를 둘러싼 논의는 이제 기술 도입을 넘어섰다”며 “현재의 과제는 조직이...",
-          "src": "venturesquare",
+          "title": "이탈리아 국유철도 그룹, '이노트랜스 2026'서 유럽 철도망 확장 및 차세...",
+          "desc": "기존 모델 대비 에너지 소비량을 최대 30% 줄였으며, 차량 자재의 최대 94%를 재활용할 수 있도록 친환경... 위해 도입된 주요 신기술도 함께 공개했다. 가상현실(VR) 시뮬레이터: 트레니탈리아, FS 테크놀로지...",
+          "src": "discoverynews",
           "date": "09/28",
-          "url": "https://www.venturesquare.net/1116376/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/LOGO-10.jpg"
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102730",
+          "img": "https://cdn.discoverynews.kr/news/thumbnail/202609/1102730_1146461_1647_v150.jpg"
         },
         {
-          "title": "알리바바, '큐원 인텔리전스' 공개...\"스마트폰에 에이전틱 AI 구현 지원...",
-          "desc": "인텔리전스를 도입했다. 양사는 차세대 AI 스마트폰을 위한 분야별 특화 모델과 솔루션을 공동... 큐원 인텔리전스는 모바일 환경에 최적화된 파운데이션 모델부터 바로 활용할 수 있는 에이전트까지 기술...",
-          "src": "digitaltoday",
+          "title": "AI 폭주 차단 보안망에 100개 기업 참여했는데…업계 최강자는 빠졌다",
+          "desc": "자율 에이전트의 오작동은 AI 업계 전반을 흔들었고 일부에서는 기술 개발 속도를 늦춰야 한다는 목소리도... 에이전트형 AI 시스템을 기업·정부 고객을 위해 구축하는 데 이 플랫폼 참조 설계를 활용하고 있다”고...",
+          "src": "wikitree",
           "date": "09/28",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703245",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/703245_650964_1946.png"
+          "url": "https://www.wikitree.co.kr/articles/1162547",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/28/202609282211365814_ai.jpeg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[마포나루의 아침] 반도체 슈퍼사이클 온 지금이 소부장 육성 골든타임",
+          "desc": "인공지능(AI) 인프라 투자로 메모리 수요와 가격이 함께 뛰면서 삼성전자와 SK하이닉스는 역대급 실적을 내고... 대기업의 호황을 협력사로 흘려보내려는 취지다. 수요 기업과 금융기관, 정부 출자 약 1조 원을 합쳐 5조 원...",
+          "src": "g-enews",
+          "date": "09/28",
+          "url": "https://www.g-enews.com/view.php?ud=2026092813432445027fa31d75c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202609281344080989527fa31d75c210113349.jpg"
+        },
         {
           "title": "佛양자컴 콴델라, 우리나라 아시아 양자칩 생산 거점 낙점",
           "desc": "유럽에 공장을 둔 콴델라는 양자 반도체 제조, 시스템 통합, AI 연계 운영 등 3개 분야에서 국내 협력사를... ◇ 우리나라 반도체 기업과 양자반도체 생산 협력 콴델라는 반도체 생산 단계에서 삼성전자와 SK하이닉스를...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/28",
           "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81366",
           "img": "http://www.newsfc.co.kr/news/thumbnail/202609/81366_78598_3946_v150.jpg"
-        },
-        {
-          "title": "[Global Securty TOP 100] 현정훈 포엠아이텍 대표이사, \"343개 현장 검증...",
-          "desc": "이러한 연구개발과 현장 대응력을 인정받아 현재 삼성전자, 삼성전기, LG전자, LG이노텍, 에스엘, 한화... 2014년 설립한 기업부설연구소를 통한 지속적인 R&D 투자, 까다롭기로 정평이 난 LG전자 GP(우수 협력사) 등록...",
-          "src": "boannews",
-          "date": "09/28",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=145934",
-          "img": "https://cdn.boannews.com/news/photo/202609/145934_127861_1341.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "구독경제 강화 나선 삼성전자…신혼·시니어 이어 기업까지 세분화",
-      "url": "https://n.news.naver.com/mnews/article/076/0004450367?sid=101",
-      "img": "https://www.sportschosun.com/article/html/2026/09/28/2026092801001866100123161_w.jpg"
+      "title": "삼성전자, 'AI 구독' 판 키운다…신혼·시니어·B2B 서비스 확대",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051561",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051561_84678_2039_v150.jpg"
     },
     {
-      "title": "삼성전자, 신혼·시니어·기업 맞춤 케어로 '삼성 AI 구독' 혁신",
-      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106532",
-      "img": "https://cdn.womentimes.co.kr/news/photo/202609/106532_207837_649.jpg"
+      "title": "\"한꺼번에 사긴 부담\"…가전 소비도 '소유'에서 '구독'으로",
+      "url": "https://n.news.naver.com/mnews/article/448/0000641920?sid=101",
+      "img": "https://img.tvchosun.com/sitedata/image/202609/28/2026092890216_thumb.jpg"
     },
     {
-      "title": "삼성 가전 구독 '블루패스' 1조 매출 목하",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026092813224626347",
-      "img": "https://nimage.newsway.co.kr/photo/2026/09/28/20260928002856_1200.jpg"
+      "title": "삼성전자, '삼성 AI 구독' 새단장… 신혼·시니어·기업 등 서비스 세분...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320365",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/320365_323836_833.jpg"
     },
     {
-      "title": "삼성전자, AI 가전 구독 개편…신혼·시니어·기업 서비스 확대",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=147599",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202609/147599_167170_1733_v150.jpg"
+      "title": "삼성 AI 구독, 신혼부부·자영업자 겨냥…초기 비용 낮춰 가전 파고든다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=752029",
+      "img": "https://cdn.econovill.com/news/thumbnail/202609/752029_728095_199_v150.jpg"
     },
     {
-      "title": "\"AI 안 썼다는 걸 증명하라\"…세계 출판계 흔드는 'AI 저작 논란'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336597?sid=103",
-      "img": "https://img.hankyung.com/photo/202609/01.45853261.1.jpg"
+      "title": "SKT, 24년 펜싱 동행에 AI 접목…'0.1초 승부'까지 읽는다",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051563",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051563_84681_5228_v150.jpg"
     },
     {
-      "title": "[AI의료]뷰노, 하이난성 'DeepCARS' 판매계약 체결..중국 '투 트랙' 진출...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881909",
-      "img": "https://cdn.getnews.co.kr/news/photo/202609/881909_539100_1825.jpg"
+      "title": "이 기업이 24년간 밀어줬다고 메달이 무려 10개…아시안게임서 빛난 펜...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741064?sid=104",
+      "img": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20260928.9f4344c3e2df49bdbaf1d9a343bd4c30_R.png"
     }
   ]
 };
