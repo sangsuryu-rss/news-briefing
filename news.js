@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.28 (월) 08:04",
+  "updatedAt": "2026.09.28 (월) 14:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[삼성전자 부사장단 해부] 두 해 연속 축소된 진용, 최대 실적 속 최다 ...",
-          "desc": "①전무 통합 후 300명대 유지…성과주의·사업 보강 사이 무게중심 관심 올해 삼성전자 부사장단은 가파른... 생활가전은 같은 기간 12명에서 16명으로 늘었다. 반면 영상디스플레이(VD)사업부는 2024년말 17명에서 올해...",
-          "src": "dealsite",
+          "title": "구독경제 강화 나선 삼성전자…신혼·시니어 이어 기업까지 세분화",
+          "desc": "공공기관과 호텔, 병원, 금융회사 등을 대상으로 'B2B 삼성 AI 구독'을 출시한다. 기업 입장에서는 가전·전자제품을 대량으로 구매할 때 발생하는 초기 비용을 줄이는 동시에 최대 6년 무상 AS를 받을 수 있다. 특히 기업...",
+          "src": "조선일보",
           "date": "09/28",
-          "url": "https://dealsite.co.kr/articles/169600",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/51596de177cb4dae8e1d9416a0d79811/thumb.jpg"
+          "url": "https://n.news.naver.com/mnews/article/076/0004450367?sid=101",
+          "img": "https://www.sportschosun.com/article/html/2026/09/28/2026092801001866100123161_w.jpg"
         },
         {
-          "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
-          "desc": "삼성전자는 올해 2월 ‘2026년형 비스포크 AI 스팀’을 출시하며 그동안 잠잠했던 로봇청소기 영역에서 승부수를 띄웠다. 바닥에 쏟아진 물이나 음료수 등 투명한 오염물까지 정확히 감지하는 ‘AI 액체 인식’과 최대 45...",
-          "src": "kmib",
+          "title": "삼성전자, 신혼·시니어·기업 맞춤 케어로 '삼성 AI 구독' 혁신",
+          "desc": "'비스포크 AI 패밀리허브' 냉장고, '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 스팀 울트라' 로봇청소기 등 구독 시 혜택이 부여된다. 구체적으로는 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트와 함께 구독료의 5...",
+          "src": "womentimes",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501506.jpg"
+          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106532",
+          "img": "https://cdn.womentimes.co.kr/news/photo/202609/106532_207837_649.jpg"
         },
         {
-          "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
-          "desc": "LG전자 역시 씽큐에 연결된 세탁기와 건조기, 식기세척기와 의류관리기 이용 시 혜택을 받을 수 있습니다. 한전 웹사이트에서 스마트가전 캐시백 서비스를 신청한 뒤, 삼성 '스마트싱스'나 LG '씽큐' 앱에서 서비스를...",
-          "src": "ytn",
-          "date": "09/27",
-          "url": "https://n.news.naver.com/mnews/article/052/0002411528?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
+          "title": "삼성 가전 구독 '블루패스' 1조 매출 목하",
+          "desc": "삼성전자는 구독을 통해 기업이나 자영업자 등 초기 비용을 낮출 수 있다는 점에 착안했다. 통상 사업장을 열 때 냉장고와 에어컨, 세탁기 등 필요한 가전을 한꺼번에 구입하면 상당한 초기 비용이 들어간다. 지점을...",
+          "src": "newsway",
+          "date": "09/28",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026092813224626347",
+          "img": "https://nimage.newsway.co.kr/photo/2026/09/28/20260928002856_1200.jpg"
         },
         {
-          "title": "\"부동산 침체·해외 마진 악화에 갇혔다\"… 中 7대 가전사 중 4곳 상반기...",
-          "desc": "드럼세탁기 'X시리즈 11'을 선보이며 다국적 기술 연합을 강조했다. 중국 가전업계의 2026년 상반기 실적... 한국(삼성전자·LG전자)과의 프리미엄 경쟁 및 구조조정 압박도 한층 거세질 전망이다. 신경원...",
-          "src": "g-enews",
+          "title": "삼성전자, AI 가전 구독 개편…신혼·시니어·기업 서비스 확대",
+          "desc": "[삼성전자]  삼성전자가 가전 구독 서비스 출시 2주년을 맞아 브랜드를 'AI 구독클럽'에서 '삼성 AI 구독'으로 바꾸고 신혼부부와 시니어, 기업 고객 대상 서비스를 확대한다. 삼성전자는 고객 생애주기와 이용 목적에 따라...",
+          "src": "ziksir",
           "date": "09/28",
-          "url": "https://www.g-enews.com/view.php?ud=2026092722432820560c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260927224415072730c8c1c064d22114611240.jpg"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=147599",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202609/147599_167170_1733_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "안민석 경기도교육감, OECD서 '경기교육대전환' 띄웠다",
-          "desc": "\" AI와 디지털 기술이 학교와 일상에 깊숙이 들어온 상황에서 미래교육이 기술 활용에만 머물러서는 안... 관건은 해외 선진 사례를 단순히 도입하는 데 머물지 않고 경기도 학교 현장에 맞는 정책으로 구체화할 수...",
-          "src": "pointdaily",
+          "title": "\"AI 안 썼다는 걸 증명하라\"…세계 출판계 흔드는 'AI 저작 논란'",
+          "desc": "방식을 도입했다. 한국 출판계도 대응책 마련에 나섰다. 한국출판인회의는 29일 서울 성산동 마포중앙도서관에서 출판·AI 정책포럼을 열고 AI 활용 원칙을 발표한다. 현재는 AI 사용 자체를 금지하기보다 활용 범위를...",
+          "src": "한국경제",
           "date": "09/28",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320463",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320463_317043_5829_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005336597?sid=103",
+          "img": "https://img.hankyung.com/photo/202609/01.45853261.1.jpg"
         },
         {
-          "title": "“AI주, 더 먹힐까”…속도조절론에 반도체 울고 소프트웨어 웃었다",
-          "desc": "AI)주 투자 논쟁이 버블론에서 개발 속도조절론으로 번지고 있다. 업계 수장들이 안전을 이유로 기술 개발의... 기업에는 AI 도입 확대가 기회가 될 수 있다는 분석이다. 새 모델이 기존 소프트웨어의 기능을 대체할...",
-          "src": "이데일리",
+          "title": "[AI의료]뷰노, 하이난성 'DeepCARS' 판매계약 체결..중국 '투 트랙' 진출...",
+          "desc": "현지 도입 기간을 단축하고 실사용 데이터를 선제적으로 확보할 계획이다. 궈룬과 함께 선행구 내 주요... 데이터를 AI 기술과 결합해, 설명 가능한 머신러닝(Explainable ML)과 실험계획법(DoE)을 활용한 용출 양상 예측...",
+          "src": "getnews",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/018/0006376105?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800115.jpg"
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881909",
+          "img": "https://cdn.getnews.co.kr/news/photo/202609/881909_539100_1825.jpg"
         },
         {
-          "title": "시작 단계부터 공존 모색…美데이터센터 ‘지역사회 혜택 협약’",
-          "desc": "CBA는 원래 상업용 부동산이나 광업 등 대규모 개발 사업에서 활용돼 왔지만, 최근 AI데이터센터에... 사하 디렉터는 “CBA는 대형 인프라 도입으로 우려되는 수자원 및 대기질, 에너지 가격 부담 등...",
-          "src": "한국일보",
+          "title": "옥타브, 산업 AI의 병목은 기술보다 사람…한국 기업 54% ‘숙련 지식’...",
+          "desc": "AI를 활용하는 인력의 판단과 업무를 지원한다는 접근이다. 파비오 야다(Fabio Yada) 옥타브 아시아태평양 지역 수석부사장은 “산업용 AI를 둘러싼 논의는 이제 기술 도입을 넘어섰다”며 “현재의 과제는 조직이...",
+          "src": "venturesquare",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/469/0000956252?sid=104",
-          "img": "https://newsimg.hankookilbo.com/2026/09/27/5b0eb324-ad19-489b-9a5f-0dc985cdb6bb.jpg"
+          "url": "https://www.venturesquare.net/1116376/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/09/LOGO-10.jpg"
         },
         {
-          "title": "[AI & LAW] AI 도입, 노조와 어디까지 교섭해야 하나",
-          "desc": "AI는 채용과 인사평가, 업무 배정이나 근무 일정 관리에도 활용될 수 있다. 기업이 AI를 도입할 때 던져야 할... AI 등 신기술 도입 이후 업무 내용·방식이 변경되거나 고용조정이 될 수 있다는 가능성만으로는 부족하다....",
-          "src": "아이뉴스24",
+          "title": "알리바바, '큐원 인텔리전스' 공개...\"스마트폰에 에이전틱 AI 구현 지원...",
+          "desc": "인텔리전스를 도입했다. 양사는 차세대 AI 스마트폰을 위한 분야별 특화 모델과 솔루션을 공동... 큐원 인텔리전스는 모바일 환경에 최적화된 파운데이션 모델부터 바로 활용할 수 있는 에이전트까지 기술...",
+          "src": "digitaltoday",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/031/0001061387?sid=105",
-          "img": "https://image.inews24.com/v1/f37f091019c2cf.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703245",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202609/703245_650964_1946.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "\"씨엠티엑스, TSMC가 선택한 국내 유일 부품 1차 벤더\"-IBK",
-          "desc": "IBK투자증권은 28일 씨엠티엑스에 대해 \"국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있으며, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다\"고...",
-          "src": "한국경제",
+          "title": "佛양자컴 콴델라, 우리나라 아시아 양자칩 생산 거점 낙점",
+          "desc": "유럽에 공장을 둔 콴델라는 양자 반도체 제조, 시스템 통합, AI 연계 운영 등 3개 분야에서 국내 협력사를... ◇ 우리나라 반도체 기업과 양자반도체 생산 협력 콴델라는 반도체 생산 단계에서 삼성전자와 SK하이닉스를...",
+          "src": "sisajournal-e",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336434?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/ZA.45530184.1.jpg"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423969",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423969_240200_2329_v150.jpg"
         },
         {
-          "title": "TSMC가 고른 국내 유일 1차 벤더…IBK 첫 '매수' 의견 제시",
-          "desc": "씨엠티엑스는 국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있으며, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다”고 설명했다. 실적은 공정...",
-          "src": "이데일리",
+          "title": "삼성전자, P5 첫 양산라인 구축 속도…장비 도입 내년 2분기로 앞당겨",
+          "desc": "계획을 협력사와 논의하고 있다\"며 \"현재 장비 리드타임(제품 주문부터 조달까지 걸리는 시간)이 매우 길기 때문에, 삼성전자가 관련 부품을 미리 확보해달라고 요청하고 있다\"고 밝혔다. 삼성전자가 설비투자...",
+          "src": "ZDNet코리아",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/018/0006376094?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800102.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002438917?sid=105",
+          "img": "https://image.zdnet.co.kr/2023/07/27/196deb2bffa7cbd9cf9ecf6d9c3ef3d5.jpg"
         },
         {
-          "title": "전력난 덮친 인도, 공장 자가 발전기까지 총동원…112곳 전력망 강제 수...",
-          "desc": "한국 생산 거점 셧다운 방어…원가 상승 전가가 실질 변수 인도에 진출한 현대자동차그룹, 삼성전자... 중소 부품 협력사의 공급망 지연 가능성이 실질적 리스크다. 반면 몬순 종료 이후 기온이 빠르게 안정돼 전력...",
-          "src": "g-enews",
+          "title": "CMTX, 삼성전자에서 '마이크론, TSMC'로 공급 확장",
+          "desc": "이 회사는 국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록되어 있으며, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다. 최근 IBK투자증권에 따르면 이...",
+          "src": "newsfc",
           "date": "09/28",
-          "url": "https://www.g-enews.com/view.php?ud=202609280722389282fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092807323701537fbbec65dfb211211153121.jpg"
+          "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81366",
+          "img": "http://www.newsfc.co.kr/news/thumbnail/202609/81366_78598_3946_v150.jpg"
         },
         {
-          "title": "\"씨엠티엑스, 목표가 11.5만…고수익 기조 이어질 것\"-IBK",
-          "desc": "반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있고, 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다\"고 밝혔다. 실적에 대해선 \"공정 고도화와 고객사 가동률...",
-          "src": "머니투데이",
+          "title": "[Global Securty TOP 100] 현정훈 포엠아이텍 대표이사, \"343개 현장 검증...",
+          "desc": "이러한 연구개발과 현장 대응력을 인정받아 현재 삼성전자, 삼성전기, LG전자, LG이노텍, 에스엘, 한화... 2014년 설립한 기업부설연구소를 통한 지속적인 R&D 투자, 까다롭기로 정평이 난 LG전자 GP(우수 협력사) 등록...",
+          "src": "boannews",
           "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/008/0005418801?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=350,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092807202456716_1.jpg"
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145934",
+          "img": "https://cdn.boannews.com/news/photo/202609/145934_127861_1341.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[삼성전자 부사장단 해부] 두 해 연속 축소된 진용, 최대 실적 속 최다 ...",
-      "url": "https://dealsite.co.kr/articles/169600",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/23/51596de177cb4dae8e1d9416a0d79811/thumb.jpg"
+      "title": "구독경제 강화 나선 삼성전자…신혼·시니어 이어 기업까지 세분화",
+      "url": "https://n.news.naver.com/mnews/article/076/0004450367?sid=101",
+      "img": "https://www.sportschosun.com/article/html/2026/09/28/2026092801001866100123161_w.jpg"
     },
     {
-      "title": "韓·中 로봇청소기 안방 전쟁… 다이슨까지 참전",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875270?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0928/01100201.20260927501506.jpg"
+      "title": "삼성전자, 신혼·시니어·기업 맞춤 케어로 '삼성 AI 구독' 혁신",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106532",
+      "img": "https://cdn.womentimes.co.kr/news/photo/202609/106532_207837_649.jpg"
     },
     {
-      "title": "주말 낮에 세탁기 돌렸더니...2달 간 전기요금 돌려줍니다 [자막뉴스]",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411528?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/0927/202609271118032580_t.jpg"
+      "title": "삼성 가전 구독 '블루패스' 1조 매출 목하",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092813224626347",
+      "img": "https://nimage.newsway.co.kr/photo/2026/09/28/20260928002856_1200.jpg"
     },
     {
-      "title": "\"부동산 침체·해외 마진 악화에 갇혔다\"… 中 7대 가전사 중 4곳 상반기...",
-      "url": "https://www.g-enews.com/view.php?ud=2026092722432820560c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260927224415072730c8c1c064d22114611240.jpg"
+      "title": "삼성전자, AI 가전 구독 개편…신혼·시니어·기업 서비스 확대",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=147599",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202609/147599_167170_1733_v150.jpg"
     },
     {
-      "title": "안민석 경기도교육감, OECD서 '경기교육대전환' 띄웠다",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320463",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/320463_317043_5829_v150.jpg"
+      "title": "\"AI 안 썼다는 걸 증명하라\"…세계 출판계 흔드는 'AI 저작 논란'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336597?sid=103",
+      "img": "https://img.hankyung.com/photo/202609/01.45853261.1.jpg"
     },
     {
-      "title": "“AI주, 더 먹힐까”…속도조절론에 반도체 울고 소프트웨어 웃었다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376105?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092800115.jpg"
+      "title": "[AI의료]뷰노, 하이난성 'DeepCARS' 판매계약 체결..중국 '투 트랙' 진출...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881909",
+      "img": "https://cdn.getnews.co.kr/news/photo/202609/881909_539100_1825.jpg"
     }
   ]
 };
