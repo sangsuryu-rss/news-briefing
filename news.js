@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.29 (화) 10:59",
+  "updatedAt": "2026.09.29 (화) 17:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 6개사, AI 인프라 기업 '헬릭스'에 10억 달러 공동 투자",
-          "desc": "삼성전자 반도체(DS) 부문은 폭증하는 데이터 수요에 맞춰 고대역폭메모리(HBM)와 첨단 솔루션 칩을 공급하며 인프라 구축의 근간을 지탱한다. 스마트 가전·디바이스(DX) 부문은 2025년 품에 안은 글로벌 공조 전문 기업...",
-          "src": "ttlnews",
+          "title": "삼성전자, 신혼·시니어 맞춤 AI 가전 구독 확대",
+          "desc": "삼성전자가 신혼부부와 시니어, 기업 고객 등 이용자 특성에 맞춘 가전 구독 서비스를 확대한다. 삼성전자는 구독 제품의 설치와 관리, AS 등을 지원하는 ‘블루패스’ 서비스를 고객 생애주기에 맞춰 세분화하고 ‘신혼...",
+          "src": "jndn",
           "date": "09/29",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3147523",
-          "img": "https://cdn.ttlnews.com/news/photo/202609/3147523_767889_5547.jpg"
+          "url": "http://www.jndn.com/article.php?aid=1790670129440411004",
+          "img": "http://www.jndn.com/upimages/photoda/"
         },
         {
-          "title": "'삼성·LG도 공들이는데 어쩌나'…中 '세계 75%' 쓸어담았다",
-          "desc": "삼성전자와 LG전자 등 국내 가전업체들도 로봇청소기 시장 공략을 이어가고 있지만 글로벌 시장 상위권은 중국계 브랜드가 주도하는 모습이다. 제품 판매가격도 올랐다. 2분기 글로벌 로봇청소기 평균 판매가격은...",
-          "src": "한국경제",
+          "title": "‘KES 2026 이노베이션 어워즈’ 42개 제품·기술 선정…35개 기업 수상",
+          "desc": "워치9·삼성헬스’ 등 3개 제품·기술이 선정됐다. LG전자는 AI 기반 세탁·건조기 ‘LG 트롬 AI 오브제컬렉션 워시콤보’, 로봇청소기 ‘LG HOM-BOT AI 오브제컬렉션 RONi’, 가전 및 IoT 기기 연결을 위한 ‘LG ThinQ ON...",
+          "src": "헤럴드경제",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336970?sid=101",
-          "img": "https://img.hankyung.com/photo/202609/ZA.45842732.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002703204?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/09/29/news-p.v1.20260929.0b64816fc9e34e6f9b642482e93f3bba_P2.jpg"
         },
         {
-          "title": "“신혼부부, TV·가전 수백만원 아낀다”…삼성AI 구독 ‘꿀팁’ [소개...",
-          "desc": "‘비스포크 AI 패밀리허브’ 냉장고, ‘비스포크 AI 콤보’ 세탁건조기, ‘비스포크 AI 스팀 울트라’ 로봇청소기 등 프로모션 대상 모델 구독 시 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트에 더해...",
-          "src": "디지털타임스",
+          "title": "'조 단위' 질주…삼성·LG '가전 구독' 육성에 야심",
+          "desc": "삼성전자는 구독 시장 진입 이후 서비스를 빠르게 넓혀 왔다. 2024년 12월 TV와 냉장고, 세탁기 등을 대상으로 한 'AI 구독클럽'을 선보이며 시장에 진입했다. 지난해 9월에는 배송과 설치부터 사후관리까지 전 과정을...",
+          "src": "sisaon",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/029/0003050309?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/09/28/news-p.v1.20260928.a85c601dbd2949d080fd06fec5fd8b50_R.png"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204778",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202609/204778_307141_1223.jpg"
         },
         {
-          "title": "韓기업 멕시코 투자보호 강화…관세 장벽은 여전",
-          "desc": "삼성전자는 멕시코를 대표적인 북미 생산거점으로 활용하고 있다. 티후아나에서 TV 등 디스플레이 제품을 생산하고 케레타로에서는 냉장고와 세탁기 등 생활가전을 만든다. 케레타로 공장은 연간 400만대 이상의...",
-          "src": "thetracker",
+          "title": "삼성전자, 평택 포승지구에 'CDC 물류센터' 짓는다",
+          "desc": "국내에서 생산된 삼성전자의 가전제품뿐만 아니라 해외에서 생산돼 평택항을 통해 반입되는 제품들이 다시 전국으로 배송되는 핵심 거점이 될 전망이다. 센터는 지난해 3월 착공했으며 내년 6월 준공을 목표로 건립...",
+          "src": "이데일리",
           "date": "09/29",
-          "url": "https://thetracker.co.kr/View.aspx?No=4243502",
-          "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260928154423253.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006377184?sid=100",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092901219.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오버레이, KES 2026서 AI·XR 디자인 도구 '오버레이 디자인' 선보여… \"...",
-          "desc": "오버레이는 공간컴퓨팅 기술을 바탕으로 업무와 창작 과정을 지원하는 확장현실 기반 소프트웨어를... 또한 AI를 활용해 색상, 소재, 마감 등 다양한 디자인 방향을 탐색할 수 있는 점도 특징이다. 오버레이...",
-          "src": "kr",
+          "title": "KB손해보험, 현업 직원 AI 개발 확대…청약매니저 생산성 분석 대상",
+          "desc": "이를 통해 AI를 일상적인 업무혁신 도구로 정착시키고 직원들의 활용 역량을 높일 계획이다. 구본욱 KB손해보험 사장은 “AI 혁신의 핵심은 새로운 기술을 도입하는 데 그치지 않고, 직원들이 자신의 업무에서 직접...",
+          "src": "megaeconomy",
           "date": "09/29",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1814833",
-          "img": "https://cdn.kr.aving.net/news/photo/202609/1814833_780859_3750.png"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601792278378",
+          "img": "https://www.megaeconomy.co.kr/news/data/20260929/p1065601792278378_321_thum.JPG"
         },
         {
-          "title": "강장묵 교수, AI 보안 연구 '산업 현장'으로 확장…발칸서 실증 협력 모...",
-          "desc": "기업이 새로운 AI 기술을 실제 공장이나 기관에 도입하기 전 성능뿐 아니라 공격 상황에서도 안전하게... 연구재원으로 활용하고 있으며, 적절한 연구 분야가 정해질 경우 초기 연락창구 역할을 할 수 있다고...",
-          "src": "전자신문",
+          "title": "AI 시대 개인정보 보호…\"선제적 안전장치 마련해야\"",
+          "desc": "시스템을 활용한 메타의 '유명인 사칭 광고 및 계정 차단 서비스'를 개인정보위와 사전에 검토해 도입한... AI의 실제 활용 목적과 위험 수준에 따라 보호조치를 달리해야 한다는 '위험 기반 접근'(risk-based approach)의...",
+          "src": "뉴스1",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/030/0003470632?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.46a532612c3e4cbebb7ed999eac57ef9_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009198920?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/9/29/8132784/high.jpg"
         },
         {
-          "title": "파수 AI, 보안 케어 서비스 출시...\"보안 막막한 기업 지원\"",
-          "desc": "솔루션 도입까지 기업 상황에 맞춰 단계적으로 지원하는 방식이다.파수 AI는 중소기업용 '보안 케어 서비스... 메일을 활용해 임직원이 피싱이나 악성메일에 얼마나 적절하게 대응하는지 점검하고 교육한다. 기술적인...",
-          "src": "news",
+          "title": "육동한 춘천시장 \"AI 기술 핵심은 시민 삶의 질 향상\"",
+          "desc": "춘천시는 시민의 AI 활용 역량과 접근성을 높이고 복지와 안전 등 밀접 분야에 AI를 도입하는 한편 기술 활용 능력에 따른 디지털 격차가 발생하지 않도록 조치할 방침이다. 육동한 춘천시장은 \"AI는 돌봄과 의료, 안전...",
+          "src": "pressian",
           "date": "09/29",
-          "url": "https://news.mtn.co.kr/news-detail/2026092910013388662",
-          "img": "https://menu.mtn.co.kr/upload/article/2026/09/29/2026092910013388662_00_447.png"
+          "url": "https://n.news.naver.com/mnews/article/002/0002458755?sid=102",
+          "img": "https://www.pressian.com/_resources/10/2026/09/29/2026092916282976736_l.jpg"
         },
         {
-          "title": "트레져헌터, 3분기 영업흑자 전망…콘텐츠 플랫폼 구매 기능도 확대",
-          "desc": "자본과 기술의 결합도 진행중이다. 라이브쇼핑 플랫폼 왓낫은 2026년 8월 5억4,500만 달러 규모의 시리즈G... 시장에서 AI 라이브커머스 솔루션 AnyLive를 활용하고 월 4,450시간의 추가 라이브 방송을 도입한다고 발표했다....",
-          "src": "sportsworldi",
+          "title": "PE 수익률 가르는 AI 전환…글로벌 큰 손이 보는 새 밸류업 공식[2026 대...",
+          "desc": "AI를 도입해 생산성을 끌어올렸다는 설명이다. 그는 과거 PE의 밸류업이 재무구조, 비용 효율화, 지배구조 개선에 집중됐다면, AI 시대의 밸류업은 디지털 역량과 데이터, 업무 자동화, AI 에이전트 활용 능력까지...",
+          "src": "view",
           "date": "09/29",
-          "url": "https://m.entertain.naver.com/article/396/0000756590",
-          "img": "https://www.sportsworldi.com/content/image/2026/09/29/20260929506843.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005822348?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026092916000044409_1790665200.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "아산시, 서울서 첫 투자유치설명회…‘삼성 113조’ 낙수효과 잡는다",
-          "desc": "삼성전자 온양캠퍼스. 사진=아산시 제공. 충남 아산시(시장 오세현)가 삼성의 대규모 투자를 지역 기업... 시는 삼성 협력사를 비롯해 반도체·디스플레이 소재·부품·장비, 미래차·자동차부품, 이차전지·ESS, 로봇·AI...",
-          "src": "sisanews24",
+          "title": "[민주 IT] 삼성SDS·KT·SK하이닉스",
+          "desc": "민주신문=변현경 기자｜삼성SDS는 삼성전자·삼성물산·삼성SDI·삼성생명·삼성화재 5개사와 함께 미국... SK하이닉스는 지난 28일 협력사들과 함께 '2026 파트너스데이'를 개최했다. 급변하는 반도체 산업 환경 속에서도...",
+          "src": "iminju",
           "date": "09/29",
-          "url": "http://www.sisanews24.co.kr/19531",
-          "img": "https://www.sisanews24.co.kr/data/sisanews24_co_kr/mainimages/202609/600_399_2026092944168985.jpg"
+          "url": "http://www.iminju.net/news/articleView.html?idxno=170114",
+          "img": "https://cdn.iminju.net/news/thumbnail/202609/170114_180723_95_v150.jpg"
         },
         {
-          "title": "삼성 6개사, 美 AI 인프라에 10억달러 투자…반도체·전력 협력 넓힌다",
-          "desc": "엔비디아는 기술 분야 전략적 협력사로, 비스트라는 우선 전력 공급 협력사로 참여한다. 헬릭스는 자체... 보유한 부품과 설비, 건설·운영 역량을 AI 인프라 사업과 연결할 계획이다. 삼성전자 디바이스솔루션(DS)...",
-          "src": "4th",
+          "title": "이 대통령 \"메가프로젝트, 정주여건까지 함께 조성\"",
+          "desc": "이 대통령은 29일 청와대에서 삼성전자·SK 사장급 인사 등이 참석한 가운데 제3차 민관합동 점검회의를... 서남권에 800조 원 규모의 반도체 팹(4기)과 협력사·인력 생태계를 구축하기 위해 인허가부터 부지 확보, 착공까지...",
+          "src": "enewstoday",
           "date": "09/29",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2118794",
-          "img": "https://cdn.4th.kr/news/thumbnail/202609/2118794_218664_5532_v150.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475173",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202609/2475173_1318578_1151_v150.jpg"
         },
         {
-          "title": "아산시, 삼성 대규모 투자 연계 우수기업 유치 본격화",
-          "desc": "삼성전자·삼성디스플레이 협력사를 비롯해 반도체와 디스플레이 소재·부품·장비 기업, 미래차와 자동차부품 기업, 이차전지·에너지저장장치 관련 기업, 첨단제조·로봇·인공지능 기반 제조솔루션 기업, 물류·연구개발...",
-          "src": "전매신문",
+          "title": "아산시, '삼성 113조' 규모 투자 발판 삼아 첫 투자유치설명회 개최",
+          "desc": "삼성전자·삼성디스플레이 협력사를 비롯, 반도체·디스플레이 소재·부품·장비, 미래차·자동차부품, 이차전지·ESS, 첨단제조·로봇·AI 제조솔루션 등 관련 기업 150~200개사를 집중 공략키로 했다. 특히, 이번 투자유치...",
+          "src": "dtnews24",
           "date": "09/29",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297003",
-          "img": "https://www.jeonmae.co.kr/news/thumbnail/202609/1297003_1026147_5931_v150.jpg"
+          "url": "http://www.dtnews24.com/news/articleView.html?idxno=815626",
+          "img": "https://cdn.dtnews24.com/news/thumbnail/202609/815626_440306_1143_v150.jpg"
         },
         {
-          "title": "‘가전 구독’ 불황 돌파구로… 고객 세분화·기업으로 판 키운다",
-          "desc": "현재 삼성전자 가전 사업은 원가 상승과 가성비를 앞세운 중국 업체의 공세에 이중고를 겪고 있다. 메모리 반도체 부족으로 가전에 들어가는 칩 부품 가격이 급등했고, 중동 지역 긴장과 유가 급등 영향 등에 따라 다른...",
-          "src": "segye",
+          "title": "\"삼성 협력사 아산으로\"…아산시, 200개 기업에 투자 러브콜",
+          "desc": "삼성전자·삼성디스플레이 협력사를 비롯해 △반도체 소재·부품·장비 △디스플레이 소재·부품·장비 △미래차·자동차부품 △이차전지·에너지저장장치(ESS) △첨단제조·로봇·AI 제조솔루션 △물류·연구개발...",
+          "src": "pointe",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/022/0004162505?sid=101",
-          "img": "https://www.segye.com/content/image/2026/09/28/20260928516005.jpg"
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=85330",
+          "img": "https://cdn.pointe.co.kr/news/photo/202609/85330_115589_2857.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 6개사, AI 인프라 기업 '헬릭스'에 10억 달러 공동 투자",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3147523",
-      "img": "https://cdn.ttlnews.com/news/photo/202609/3147523_767889_5547.jpg"
+      "title": "삼성전자, 신혼·시니어 맞춤 AI 가전 구독 확대",
+      "url": "http://www.jndn.com/article.php?aid=1790670129440411004",
+      "img": "http://www.jndn.com/upimages/photoda/"
     },
     {
-      "title": "'삼성·LG도 공들이는데 어쩌나'…中 '세계 75%' 쓸어담았다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336970?sid=101",
-      "img": "https://img.hankyung.com/photo/202609/ZA.45842732.1.jpg"
+      "title": "‘KES 2026 이노베이션 어워즈’ 42개 제품·기술 선정…35개 기업 수상",
+      "url": "https://n.news.naver.com/mnews/article/016/0002703204?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/09/29/news-p.v1.20260929.0b64816fc9e34e6f9b642482e93f3bba_P2.jpg"
     },
     {
-      "title": "“신혼부부, TV·가전 수백만원 아낀다”…삼성AI 구독 ‘꿀팁’ [소개...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003050309?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/09/28/news-p.v1.20260928.a85c601dbd2949d080fd06fec5fd8b50_R.png"
+      "title": "'조 단위' 질주…삼성·LG '가전 구독' 육성에 야심",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204778",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202609/204778_307141_1223.jpg"
     },
     {
-      "title": "韓기업 멕시코 투자보호 강화…관세 장벽은 여전",
-      "url": "https://thetracker.co.kr/View.aspx?No=4243502",
-      "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260928154423253.jpg"
+      "title": "삼성전자, 평택 포승지구에 'CDC 물류센터' 짓는다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006377184?sid=100",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092901219.jpg"
     },
     {
-      "title": "오버레이, KES 2026서 AI·XR 디자인 도구 '오버레이 디자인' 선보여… \"...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1814833",
-      "img": "https://cdn.kr.aving.net/news/photo/202609/1814833_780859_3750.png"
+      "title": "KB손해보험, 현업 직원 AI 개발 확대…청약매니저 생산성 분석 대상",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601792278378",
+      "img": "https://www.megaeconomy.co.kr/news/data/20260929/p1065601792278378_321_thum.JPG"
     },
     {
-      "title": "강장묵 교수, AI 보안 연구 '산업 현장'으로 확장…발칸서 실증 협력 모...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470632?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.46a532612c3e4cbebb7ed999eac57ef9_P1.jpg"
+      "title": "AI 시대 개인정보 보호…\"선제적 안전장치 마련해야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009198920?sid=105",
+      "img": "https://i3n.news1.kr/system/photos/2026/9/29/8132784/high.jpg"
     }
   ]
 };
