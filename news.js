@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.29 (화) 05:34",
+  "updatedAt": "2026.09.29 (화) 10:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 ‘가전 구독’ 신혼·시니어 세분화… 기업까지 확대",
-          "desc": "삼성전자가 가전 구독 서비스를 신혼부부와 시니어 등 고객 특성에 맞춰 세분화하고 기업 간 거래(B2B) 시장까지 넓힌다. 배송·설치부터 관리와 애프터서비스(AS)까지 묶은 ‘블루패스’를 중심으로 구독 서비스를...",
-          "src": "서울신문",
+          "title": "삼성 6개사, AI 인프라 기업 '헬릭스'에 10억 달러 공동 투자",
+          "desc": "삼성전자 반도체(DS) 부문은 폭증하는 데이터 수요에 맞춰 고대역폭메모리(HBM)와 첨단 솔루션 칩을 공급하며 인프라 구축의 근간을 지탱한다. 스마트 가전·디바이스(DX) 부문은 2025년 품에 안은 글로벌 공조 전문 기업...",
+          "src": "ttlnews",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/081/0003684227?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/09/29/SSC_20260929001608_O2.jpg"
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3147523",
+          "img": "https://cdn.ttlnews.com/news/photo/202609/3147523_767889_5547.jpg"
         },
         {
-          "title": "“신혼부부엔 야간 세척, 시니어엔 안부콜”… 가전 구독 ‘고객 맞춤’...",
-          "desc": "정수기·공기청정기·로봇청소기·에어드레서·식기세척기에는 오는 11월 중 도입할 예정이다. 구독 고객층도 가정을 넘어 기업으로 확대한다. 삼성전자는 공공기관과 호텔·의료·금융 등 기업 고객을 대상으로 ‘B2B...",
-          "src": "kmib",
+          "title": "'삼성·LG도 공들이는데 어쩌나'…中 '세계 75%' 쓸어담았다",
+          "desc": "삼성전자와 LG전자 등 국내 가전업체들도 로봇청소기 시장 공략을 이어가고 있지만 글로벌 시장 상위권은 중국계 브랜드가 주도하는 모습이다. 제품 판매가격도 올랐다. 2분기 글로벌 로봇청소기 평균 판매가격은...",
+          "src": "한국경제",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/005/0001875514?sid=101",
-          "img": "https://image.kmib.co.kr/online_image/2026/0929/01100201.20260928501848.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005336970?sid=101",
+          "img": "https://img.hankyung.com/photo/202609/ZA.45842732.1.jpg"
         },
         {
-          "title": "삼성전자, 'AI 구독' 판 키운다…신혼·시니어·B2B 서비스 확대",
-          "desc": "'비스포크 AI 패밀리허브' 냉장고와 '비스포크 AI 콤보' 세탁건조기, '비스포크 AI 스팀 울트라' 로봇청소기 등 행사 대상 제품을 구독하면 최대 6개월치 구독료에 해당하는 삼성전자 멤버십 포인트를 받을 수 있다....",
-          "src": "apnews",
-          "date": "09/28",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051561",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051561_84678_2039_v150.jpg"
+          "title": "“신혼부부, TV·가전 수백만원 아낀다”…삼성AI 구독 ‘꿀팁’ [소개...",
+          "desc": "‘비스포크 AI 패밀리허브’ 냉장고, ‘비스포크 AI 콤보’ 세탁건조기, ‘비스포크 AI 스팀 울트라’ 로봇청소기 등 프로모션 대상 모델 구독 시 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트에 더해...",
+          "src": "디지털타임스",
+          "date": "09/29",
+          "url": "https://n.news.naver.com/mnews/article/029/0003050309?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/09/28/news-p.v1.20260928.a85c601dbd2949d080fd06fec5fd8b50_R.png"
         },
         {
-          "title": "\"한꺼번에 사긴 부담\"…가전 소비도 '소유'에서 '구독'으로",
-          "desc": "이제는 집은 물론, 기업도 냉장고와 세탁기 같은 대형 가전을 구독하는 시대가 됐습니다. 당장은 사는 것보다... 삼성전자 대형가전 구매자 3명 중 1명이 선택할 만큼, 구독은 가전 구매의 새로운 축으로 자리 잡았습니다....",
-          "src": "조선일보",
-          "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/448/0000641920?sid=101",
-          "img": "https://img.tvchosun.com/sitedata/image/202609/28/2026092890216_thumb.jpg"
+          "title": "韓기업 멕시코 투자보호 강화…관세 장벽은 여전",
+          "desc": "삼성전자는 멕시코를 대표적인 북미 생산거점으로 활용하고 있다. 티후아나에서 TV 등 디스플레이 제품을 생산하고 케레타로에서는 냉장고와 세탁기 등 생활가전을 만든다. 케레타로 공장은 연간 400만대 이상의...",
+          "src": "thetracker",
+          "date": "09/29",
+          "url": "https://thetracker.co.kr/View.aspx?No=4243502",
+          "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260928154423253.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[국민을 향하는 보건복지] 현장과 소통하며 보건의료 혁신, 국민이 체감...",
-          "desc": "보건의료데이터를 AI로 종합 분석해 정책과 연구 등에 활용할 수 있는 '보건의료 통합 AI 모델' 구축을... 도입하는 등 국민 참여 평가를 확대할 계획이다. 심사평가원은 정보통신기술(ICT)과 인공지능(AI) 기반의...",
-          "src": "중앙일보",
+          "title": "오버레이, KES 2026서 AI·XR 디자인 도구 '오버레이 디자인' 선보여… \"...",
+          "desc": "오버레이는 공간컴퓨팅 기술을 바탕으로 업무와 창작 과정을 지원하는 확장현실 기반 소프트웨어를... 또한 AI를 활용해 색상, 소재, 마감 등 다양한 디자인 방향을 탐색할 수 있는 점도 특징이다. 오버레이...",
+          "src": "kr",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/025/0003554399?sid=102",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/29/9656de89-3e69-4945-a05f-a00a78becbaa.jpg"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1814833",
+          "img": "https://cdn.kr.aving.net/news/photo/202609/1814833_780859_3750.png"
         },
         {
-          "title": "[국민을 향하는 보건복지] 몰라서 놓치는 혜택 없도록...복지멤버십이 ...",
-          "desc": "2021년 9월 도입된 맞춤형 급여안내, 복지멤버십은 가입자의 연령과 소득·재산, 가구 특성 등을 분석해 받을... 앞으로는 생성형 AI를 활용한 지능형 상담체계도 구축한다. 개인의 상황과 질문에 맞춰 복지제도를 쉽게...",
-          "src": "중앙일보",
+          "title": "강장묵 교수, AI 보안 연구 '산업 현장'으로 확장…발칸서 실증 협력 모...",
+          "desc": "기업이 새로운 AI 기술을 실제 공장이나 기관에 도입하기 전 성능뿐 아니라 공격 상황에서도 안전하게... 연구재원으로 활용하고 있으며, 적절한 연구 분야가 정해질 경우 초기 연락창구 역할을 할 수 있다고...",
+          "src": "전자신문",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/025/0003554398?sid=102",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/29/18e5c974-b581-490e-ac36-a1a608067d3c.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003470632?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.46a532612c3e4cbebb7ed999eac57ef9_P1.jpg"
         },
         {
-          "title": "저커버그·아모데이·브록먼 백악관 집결…AI 규제 방향 가른다",
-          "desc": "그는 AI 발전 속도를 조절하더라도 기술 진보 자체는 계속 빠르게 진행될 수 있다면서, 그 시간을 활용해 AI... 마이크 존슨 하원의장 역시 AI 개발을 일괄적으로 중단하거나 과도한 규제를 도입하는 데 부정적인 입장을...",
-          "src": "핀포인트뉴스",
+          "title": "파수 AI, 보안 케어 서비스 출시...\"보안 막막한 기업 지원\"",
+          "desc": "솔루션 도입까지 기업 상황에 맞춰 단계적으로 지원하는 방식이다.파수 AI는 중소기업용 '보안 케어 서비스... 메일을 활용해 임직원이 피싱이나 악성메일에 얼마나 적절하게 대응하는지 점검하고 교육한다. 기술적인...",
+          "src": "news",
           "date": "09/29",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490931",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/490931_476757_310_v150.jpg"
+          "url": "https://news.mtn.co.kr/news-detail/2026092910013388662",
+          "img": "https://menu.mtn.co.kr/upload/article/2026/09/29/2026092910013388662_00_447.png"
         },
         {
-          "title": "[기고]전문대학 실습실은 지역산업의 인프라",
-          "desc": "활용하고 있다. 또 HD현대이엔티, SK AX 등의 기업과 협력하고 지역 중소기업과 소상공인에게도 대학의 시설과 교육역량을 개방하는 산학 융합 캠퍼스를 지향하고 있다. 앞으로 제조공정과 AI를 결합한 교육, 재직자의 기술...",
-          "src": "이데일리",
+          "title": "트레져헌터, 3분기 영업흑자 전망…콘텐츠 플랫폼 구매 기능도 확대",
+          "desc": "자본과 기술의 결합도 진행중이다. 라이브쇼핑 플랫폼 왓낫은 2026년 8월 5억4,500만 달러 규모의 시리즈G... 시장에서 AI 라이브커머스 솔루션 AnyLive를 활용하고 월 4,450시간의 추가 라이브 방송을 도입한다고 발표했다....",
+          "src": "sportsworldi",
           "date": "09/29",
-          "url": "https://n.news.naver.com/mnews/article/018/0006376680?sid=110",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092900066.jpg"
+          "url": "https://m.entertain.naver.com/article/396/0000756590",
+          "img": "https://www.sportsworldi.com/content/image/2026/09/29/20260929506843.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "화성시, 삼성 1.7조 투자로 첨단산업 벨트 완성 기대",
-          "desc": "화성특례시와 삼성전자의 이번 상생협약이 지역 산업생태계에 실질적인 파급효과를 가져올지 주목된다.... 1조7000억 원 규모 투자가 실제 집행 단계로 이어질 경우, 반도체 소부장(소재·부품·장비) 협력사를 포함한 지역...",
-          "src": "newsroad",
-          "date": "09/28",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=64977",
-          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202609/64977_88062_1642_v150.jpg"
+          "title": "아산시, 서울서 첫 투자유치설명회…‘삼성 113조’ 낙수효과 잡는다",
+          "desc": "삼성전자 온양캠퍼스. 사진=아산시 제공. 충남 아산시(시장 오세현)가 삼성의 대규모 투자를 지역 기업... 시는 삼성 협력사를 비롯해 반도체·디스플레이 소재·부품·장비, 미래차·자동차부품, 이차전지·ESS, 로봇·AI...",
+          "src": "sisanews24",
+          "date": "09/29",
+          "url": "http://www.sisanews24.co.kr/19531",
+          "img": "https://www.sisanews24.co.kr/data/sisanews24_co_kr/mainimages/202609/600_399_2026092944168985.jpg"
         },
         {
-          "title": "[마포나루의 아침] 반도체 슈퍼사이클 온 지금이 소부장 육성 골든타임",
-          "desc": "인공지능(AI) 인프라 투자로 메모리 수요와 가격이 함께 뛰면서 삼성전자와 SK하이닉스는 역대급 실적을 내고... 대기업의 호황을 협력사로 흘려보내려는 취지다. 수요 기업과 금융기관, 정부 출자 약 1조 원을 합쳐 5조 원...",
-          "src": "g-enews",
-          "date": "09/28",
-          "url": "https://www.g-enews.com/view.php?ud=2026092813432445027fa31d75c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202609281344080989527fa31d75c210113349.jpg"
+          "title": "삼성 6개사, 美 AI 인프라에 10억달러 투자…반도체·전력 협력 넓힌다",
+          "desc": "엔비디아는 기술 분야 전략적 협력사로, 비스트라는 우선 전력 공급 협력사로 참여한다. 헬릭스는 자체... 보유한 부품과 설비, 건설·운영 역량을 AI 인프라 사업과 연결할 계획이다. 삼성전자 디바이스솔루션(DS)...",
+          "src": "4th",
+          "date": "09/29",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2118794",
+          "img": "https://cdn.4th.kr/news/thumbnail/202609/2118794_218664_5532_v150.jpg"
         },
         {
-          "title": "佛양자컴 콴델라, 우리나라 아시아 양자칩 생산 거점 낙점",
-          "desc": "유럽에 공장을 둔 콴델라는 양자 반도체 제조, 시스템 통합, AI 연계 운영 등 3개 분야에서 국내 협력사를... ◇ 우리나라 반도체 기업과 양자반도체 생산 협력 콴델라는 반도체 생산 단계에서 삼성전자와 SK하이닉스를...",
-          "src": "sisajournal-e",
-          "date": "09/28",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423969",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/423969_240200_2329_v150.jpg"
+          "title": "아산시, 삼성 대규모 투자 연계 우수기업 유치 본격화",
+          "desc": "삼성전자·삼성디스플레이 협력사를 비롯해 반도체와 디스플레이 소재·부품·장비 기업, 미래차와 자동차부품 기업, 이차전지·에너지저장장치 관련 기업, 첨단제조·로봇·인공지능 기반 제조솔루션 기업, 물류·연구개발...",
+          "src": "전매신문",
+          "date": "09/29",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297003",
+          "img": "https://www.jeonmae.co.kr/news/thumbnail/202609/1297003_1026147_5931_v150.jpg"
         },
         {
-          "title": "삼성전자, P5 첫 양산라인 구축 속도…장비 도입 내년 2분기로 앞당겨",
-          "desc": "계획을 협력사와 논의하고 있다\"며 \"현재 장비 리드타임(제품 주문부터 조달까지 걸리는 시간)이 매우 길기 때문에, 삼성전자가 관련 부품을 미리 확보해달라고 요청하고 있다\"고 밝혔다. 삼성전자가 설비투자...",
-          "src": "ZDNet코리아",
-          "date": "09/28",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438917?sid=105",
-          "img": "https://image.zdnet.co.kr/2023/07/27/196deb2bffa7cbd9cf9ecf6d9c3ef3d5.jpg"
+          "title": "‘가전 구독’ 불황 돌파구로… 고객 세분화·기업으로 판 키운다",
+          "desc": "현재 삼성전자 가전 사업은 원가 상승과 가성비를 앞세운 중국 업체의 공세에 이중고를 겪고 있다. 메모리 반도체 부족으로 가전에 들어가는 칩 부품 가격이 급등했고, 중동 지역 긴장과 유가 급등 영향 등에 따라 다른...",
+          "src": "segye",
+          "date": "09/29",
+          "url": "https://n.news.naver.com/mnews/article/022/0004162505?sid=101",
+          "img": "https://www.segye.com/content/image/2026/09/28/20260928516005.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+          "img": ""
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 ‘가전 구독’ 신혼·시니어 세분화… 기업까지 확대",
-      "url": "https://n.news.naver.com/mnews/article/081/0003684227?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/09/29/SSC_20260929001608_O2.jpg"
+      "title": "삼성 6개사, AI 인프라 기업 '헬릭스'에 10억 달러 공동 투자",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3147523",
+      "img": "https://cdn.ttlnews.com/news/photo/202609/3147523_767889_5547.jpg"
     },
     {
-      "title": "“신혼부부엔 야간 세척, 시니어엔 안부콜”… 가전 구독 ‘고객 맞춤’...",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875514?sid=101",
-      "img": "https://image.kmib.co.kr/online_image/2026/0929/01100201.20260928501848.jpg"
+      "title": "'삼성·LG도 공들이는데 어쩌나'…中 '세계 75%' 쓸어담았다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336970?sid=101",
+      "img": "https://img.hankyung.com/photo/202609/ZA.45842732.1.jpg"
     },
     {
-      "title": "삼성전자, 'AI 구독' 판 키운다…신혼·시니어·B2B 서비스 확대",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051561",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202609/3051561_84678_2039_v150.jpg"
+      "title": "“신혼부부, TV·가전 수백만원 아낀다”…삼성AI 구독 ‘꿀팁’ [소개...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050309?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/09/28/news-p.v1.20260928.a85c601dbd2949d080fd06fec5fd8b50_R.png"
     },
     {
-      "title": "\"한꺼번에 사긴 부담\"…가전 소비도 '소유'에서 '구독'으로",
-      "url": "https://n.news.naver.com/mnews/article/448/0000641920?sid=101",
-      "img": "https://img.tvchosun.com/sitedata/image/202609/28/2026092890216_thumb.jpg"
+      "title": "韓기업 멕시코 투자보호 강화…관세 장벽은 여전",
+      "url": "https://thetracker.co.kr/View.aspx?No=4243502",
+      "img": "https://cdn.coenworks.com/Files/478/News/202609/8664_20260928154423253.jpg"
     },
     {
-      "title": "[국민을 향하는 보건복지] 현장과 소통하며 보건의료 혁신, 국민이 체감...",
-      "url": "https://n.news.naver.com/mnews/article/025/0003554399?sid=102",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/29/9656de89-3e69-4945-a05f-a00a78becbaa.jpg"
+      "title": "오버레이, KES 2026서 AI·XR 디자인 도구 '오버레이 디자인' 선보여… \"...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1814833",
+      "img": "https://cdn.kr.aving.net/news/photo/202609/1814833_780859_3750.png"
     },
     {
-      "title": "[국민을 향하는 보건복지] 몰라서 놓치는 혜택 없도록...복지멤버십이 ...",
-      "url": "https://n.news.naver.com/mnews/article/025/0003554398?sid=102",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/29/18e5c974-b581-490e-ac36-a1a608067d3c.jpg"
+      "title": "강장묵 교수, AI 보안 연구 '산업 현장'으로 확장…발칸서 실증 협력 모...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470632?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.46a532612c3e4cbebb7ed999eac57ef9_P1.jpg"
     }
   ]
 };
