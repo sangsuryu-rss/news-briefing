@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.30 (수) 21:39",
+  "updatedAt": "2026.10.01 (목) 04:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 AI 포럼 2026 개막… 에이전틱 전환과 피지컬 AI 상용화 주목",
-          "desc": "삼성전자는 9월 30일 서울 서초사옥에서 글로벌 석학과 테크 리더 400여 명이 집결한 가운데 제10회 삼성 AI... DX 트랙에서는 스마트폰과 가전 등 개인용 디바이스의 제한된 전력과 메모리 환경에서 구동되는 고효율 플랫폼...",
-          "src": "ttlnews",
-          "date": "09/30",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3148151",
-          "img": "https://cdn.ttlnews.com/news/photo/202609/3148151_769014_354.jpg"
+          "title": "삼성전자, 평택 포승지구에 5000억 규모 물류센터",
+          "desc": "삼성전자가 경기경제자유구역 평택 포승(BIX)지구에 5000억원을 투자해 가전제품 전용 첨단자동화 물류센터를 세운다. 경기경제자유구역청은 29일 평택시, 삼성전자와 ‘삼성전자 CDC 물류센터 투자협약’을 맺었다고...",
+          "src": "betanews",
+          "date": "10/01",
+          "url": "https://www.betanews.net/article/view/beta202609290146",
+          "img": "https://www.betanews.net/data/beta/upload/save/company/beta17337054158058.400x.0.png"
         },
         {
           "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
         },
         {
-          "title": "[10월1일자] 비즈니스포스트 아침의 주요기사",
-          "desc": "대형가전 렌털 도전장, 서장원 '20년 영업망' 앞세워 수익다변화 노린다 ● 엑손모빌 등 화석연료 기업... 0' 시장' 전년보다 25% 성장, 삼성전자 점유율 4% ● JW중외제약 바이오 투자회사 '솔리더스' 직접 품어, 이경하...",
-          "src": "비즈니스포스트",
-          "date": "09/30",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448356",
-          "img": ""
+          "title": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
+          "desc": "SK하닉 vs 삼성전자 HBM 엇갈린 승부수와 패러다임의 대전환 인공지능(AI) 시대에 엔비디아 GPU와 함께... 보관하는 냉장고다.과거에는 요리사의 손놀림이 평범했기 때문에 일반 도로(통로)를 통해 재료를 날라도 작업에...",
+          "src": "g-enews",
+          "date": "10/01",
+          "url": "https://www.g-enews.com/view.php?ud=202609241800349289906806b77b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092418563802615906806b77b1752093689.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[패트롤]대구시의회-경산시-영남대-대구시교육청-대구환경청",
-          "desc": "다만 12세 미만 감염취약시설 입원·입소자와 면역저하자는 백신 긴급 도입 절차가 진행 중인 점을 고려해... 지원에 활용해 '글로벌 교육수도 대구' 비전 실현으로 연결한다는 취지다. 강은희 교육감은 “AI 시대에 발맞춘...",
-          "src": "ekn",
-          "date": "09/30",
-          "url": "https://www.ekn.kr/web/view.php?key=20260930024220760",
-          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260930.c834f8c967404dfd8604bf9c3a1cbd78_R.jpg"
+          "title": "\"독파모 계속된다\"… 중단설 끊은 배경훈",
+          "desc": "배경훈 부총리 겸 과학기술정보통신부 장관(사진)이 '독자 AI(인공지능) 파운데이션 모델 개발'(이하... 프로젝트 초기 1차 평가에서 '네이버클라우드' 정예팀이 중국 모델을 활용했다는 의혹이 일며 '독자개발' 요건을...",
+          "src": "머니투데이",
+          "date": "10/01",
+          "url": "https://n.news.naver.com/mnews/article/008/0005420658?sid=105",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026093019473640928_1.jpg"
         },
         {
-          "title": "덴컴, 치과 AI 플랫폼 '덴트허브' 공개…서부장애인치과병원서 시범 운...",
-          "desc": "최근 서울특별시 서부장애인치과병원(서울대학교치과병원 수탁운영)과 AI 솔루션 도입 계약을 체결해... 여러 AI 기술을 실제 진료 과정에 연결해 의료진의 기록 부담을 줄이고, 장애인 진료와 공공의료 등에서 활용...",
-          "src": "mdtoday",
-          "date": "09/30",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616919",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202609/616919_323627_273.png"
+          "title": "충남, AI 인재양성에 국비 367억…'산업 AX 거점' 구축 본격화",
+          "desc": "특히 지역 중소기업의 경우 AI 도입에 필요한 전문인력과 기술 활용 역량을 갖추는 데 어려움이 있을 수 있어 대학의 교육·연구 자원을 기업 수요와 연결하는 후속 사업이 관건이 될 전망이다. 도는 앞으로 지역 대학의...",
+          "src": "그린포스트",
+          "date": "10/01",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351160",
+          "img": "https://cdn.greened.kr/news/thumbnail/202609/351160_402887_3012_v150.jpg"
         },
         {
-          "title": "[미디어 포커스] \"AI는 이미 일상\"… 김난도 교수, 트렌드 코리아 2027서...",
-          "desc": "환경에서도 AI 전환에 발맞춘 근본적인 체질 개선이 이뤄지고 있다. 기업들은 단순한 기술 도입을 넘어... AI가 무엇이든 순식간에 뚝딱 만들어내는 시대의 진정한 승자는 단순한 기술 활용자가 아니라, 남과 다른 것을...",
-          "src": "idaegu",
-          "date": "09/30",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561137",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "title": "거대해진 AI 칩이 밀어올린 패키지, 장비 업계는 나노미터 틈새서 길을...",
+          "desc": "좁혀지는 기술적 병목이 발생하고 있다. 반도체 전문 매체 이이타임스(EE Times)는 2026년 9월 30일(현지시각)... 장비 업계는 면적 활용도를 높이기 위해 대형 사각 패널 레벨 패키징 플랫폼 도입을 검토하고 있다. 사각 패널...",
+          "src": "g-enews",
+          "date": "10/01",
+          "url": "https://www.g-enews.com/view.php?ud=202609301948133763fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026093019563709288fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "진흥원, 지역 로봇산업 육성 '박차'",
-          "desc": "인프라를 활용한 지능형 로봇 기술개발, 로봇용 AI 모델 개발, 데이터 활용 및 실증 지원 방안을 논의했다.... 로봇 활용 수요가 확대될 가능성이 높다는 데 공감하고, 지역기업의 로봇 도입·실증 지원과 로봇 기업 육성...",
-          "src": "idaegu",
-          "date": "09/30",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561151",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "title": "95분 AI 영화, 14일 만에 제작…할리우드 시험대",
+          "desc": "AI 영상 스타트업들이 영화 기획부터 촬영, 편집, 더빙, 마케팅까지 제작 전 과정에 활용할 수 있는... AI가 도입될 수 있는 범위를 추산한 분석이다. 제작 현장의 반응은 엇갈린다. AI 기업들은 기술을 인간...",
+          "src": "tokenpost",
+          "date": "10/01",
+          "url": "https://www.tokenpost.kr/news/ai/416666",
+          "img": "https://www.tokenpost.kr/uploads/2026/09/l9qk5qj4ah.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성 AI 포럼 2026 개막… 에이전틱 전환과 피지컬 AI 상용화 주목",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3148151",
-      "img": "https://cdn.ttlnews.com/news/photo/202609/3148151_769014_354.jpg"
+      "title": "삼성전자, 평택 포승지구에 5000억 규모 물류센터",
+      "url": "https://www.betanews.net/article/view/beta202609290146",
+      "img": "https://www.betanews.net/data/beta/upload/save/company/beta17337054158058.400x.0.png"
     },
     {
       "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
     },
     {
-      "title": "[패트롤]대구시의회-경산시-영남대-대구시교육청-대구환경청",
-      "url": "https://www.ekn.kr/web/view.php?key=20260930024220760",
-      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260930.c834f8c967404dfd8604bf9c3a1cbd78_R.jpg"
+      "title": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
+      "url": "https://www.g-enews.com/view.php?ud=202609241800349289906806b77b_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092418563802615906806b77b1752093689.jpg"
     },
     {
-      "title": "덴컴, 치과 AI 플랫폼 '덴트허브' 공개…서부장애인치과병원서 시범 운...",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616919",
-      "img": "https://cdn.mdtoday.co.kr/news/photo/202609/616919_323627_273.png"
+      "title": "\"독파모 계속된다\"… 중단설 끊은 배경훈",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420658?sid=105",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026093019473640928_1.jpg"
     },
     {
-      "title": "[미디어 포커스] \"AI는 이미 일상\"… 김난도 교수, 트렌드 코리아 2027서...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561137",
-      "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+      "title": "충남, AI 인재양성에 국비 367억…'산업 AX 거점' 구축 본격화",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=351160",
+      "img": "https://cdn.greened.kr/news/thumbnail/202609/351160_402887_3012_v150.jpg"
     }
   ]
 };
