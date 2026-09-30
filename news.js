@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.01 (목) 04:23",
+  "updatedAt": "2026.10.01 (목) 08:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 평택 포승지구에 5000억 규모 물류센터",
-          "desc": "삼성전자가 경기경제자유구역 평택 포승(BIX)지구에 5000억원을 투자해 가전제품 전용 첨단자동화 물류센터를 세운다. 경기경제자유구역청은 29일 평택시, 삼성전자와 ‘삼성전자 CDC 물류센터 투자협약’을 맺었다고...",
-          "src": "betanews",
+          "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다”...",
+          "desc": "삼성전자는 모바일경험(MX) 사업의 원가 증가와 영상디스플레이·가전 부문의 일시적 비용, SK하이닉스는 차세대 고대역폭메모리(HBM)로 제품을 전환하는 과정에서 출하 구성과 매출 인식 시점이 달라진 점도 영향을...",
+          "src": "조선일보",
           "date": "10/01",
-          "url": "https://www.betanews.net/article/view/beta202609290146",
-          "img": "https://www.betanews.net/data/beta/upload/save/company/beta17337054158058.400x.0.png"
+          "url": "https://n.news.naver.com/mnews/article/366/0001195469?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/MJRWENLEGQZGKZDDGZTGMNLFMY.jpg?auth=2fac6d4ae3d59101e95946a75f734e0e5a306ccf24901dc8228309e12769c055&width=600&height=315&smart=true"
         },
         {
           "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
         },
         {
-          "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 정상",
-          "desc": "삼성전자는 TV와 휴대폰, PC, 냉장고, 세탁기, 김치냉장고, 에어컨, 건조기, 무선스틱청소기 등 총 9개 부문에서 1위를 차지했다. TV와 휴대폰은 29년 연속, PC는 25년 연속 1위를 기록했다. 냉장고와 세탁기도 각각 17년...",
-          "src": "thepublic",
-          "date": "09/30",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=320704",
-          "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
+          "title": "롯데하이마트-한국전력 '가전수리올케어' 론칭...'스마트가전 캐시백' ...",
+          "desc": "대상은 삼성전자와 LG전자의 세탁기, 건조기, 식기세척기, 의류관리기 등 스마트가전 4종이다. 가전사 플랫폼을 통해 확인된 지정 시간대 전기사용량을 기준으로 1kWh당 100원의 캐시백이 적립되며, 기존 주택용...",
+          "src": "wsobi",
+          "date": "10/01",
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=319023",
+          "img": "http://www.wsobi.com/news/photo/202610/319023_189888_3156.jpg"
         },
         {
-          "title": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
-          "desc": "SK하닉 vs 삼성전자 HBM 엇갈린 승부수와 패러다임의 대전환 인공지능(AI) 시대에 엔비디아 GPU와 함께... 보관하는 냉장고다.과거에는 요리사의 손놀림이 평범했기 때문에 일반 도로(통로)를 통해 재료를 날라도 작업에...",
-          "src": "g-enews",
+          "title": "삼성전자, iOS 품은 '갤럭시 스마트태그3' 공개…탐색거리 3배 넓혔다",
+          "desc": "버튼으로 가전 루틴을 작동하는 '스마트싱스 IoT 제어' 등을 제공한다. 배터리는 교체형 동전형 배터리(CR2032) 1개로 일반 모드 최대 550일, 절전 모드 최대 790일까지 사용할 수 있다. 삼성전자는 오는 7일 국내 출시를...",
+          "src": "아주경제",
           "date": "10/01",
-          "url": "https://www.g-enews.com/view.php?ud=202609241800349289906806b77b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092418563802615906806b77b1752093689.jpg"
+          "url": "https://www.ajunews.com/view/20261001082822136",
+          "img": "https://image.ajunews.com/content/image/2026/10/01/20261001083420634994.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"독파모 계속된다\"… 중단설 끊은 배경훈",
-          "desc": "배경훈 부총리 겸 과학기술정보통신부 장관(사진)이 '독자 AI(인공지능) 파운데이션 모델 개발'(이하... 프로젝트 초기 1차 평가에서 '네이버클라우드' 정예팀이 중국 모델을 활용했다는 의혹이 일며 '독자개발' 요건을...",
-          "src": "머니투데이",
+          "title": "대웅제약, 히포크랏랩스와 의료데이터 보안 사업 협력…'메디세이프' 공...",
+          "desc": "이번 계약에 따라 히포크랏랩스는 제품 개발과 기술 지원을 맡고, 대웅제약은 전국 병·의원 영업망을 활용해... 이창재 대웅제약 대표는 AI와 디지털 기술의 의료 현장 도입이 확대되면서 의료 데이터를 안전하게 관리하는...",
+          "src": "press9",
           "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/008/0005420658?sid=105",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026093019473640928_1.jpg"
+          "url": "http://www.press9.kr/news/articleView.html?idxno=83540",
+          "img": "http://www.press9.kr/news/thumbnail/202610/83540_95806_5124_v150.jpg"
         },
         {
-          "title": "충남, AI 인재양성에 국비 367억…'산업 AX 거점' 구축 본격화",
-          "desc": "특히 지역 중소기업의 경우 AI 도입에 필요한 전문인력과 기술 활용 역량을 갖추는 데 어려움이 있을 수 있어 대학의 교육·연구 자원을 기업 수요와 연결하는 후속 사업이 관건이 될 전망이다. 도는 앞으로 지역 대학의...",
-          "src": "그린포스트",
+          "title": "장애인 돌봄 공백 막는다…경기도, 'AI 자립비서' 가동",
+          "desc": "이번 사업은 실제 생활 현장에서 발생할 수 있는 돌봄 공백을 첨단 기술로 얼마나 줄일 수 있는지를... 장애인 본인과 자립지원 전담 인력의 AI 활용 역량을 높이는 동시에, 반복적인 행정 업무에도 AI를 도입해 업무...",
+          "src": "sidae",
           "date": "10/01",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=351160",
-          "img": "https://cdn.greened.kr/news/thumbnail/202609/351160_402887_3012_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/417/0001159762?sid=102",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/01/00/2026100108293177051_1.jpg"
         },
         {
-          "title": "거대해진 AI 칩이 밀어올린 패키지, 장비 업계는 나노미터 틈새서 길을...",
-          "desc": "좁혀지는 기술적 병목이 발생하고 있다. 반도체 전문 매체 이이타임스(EE Times)는 2026년 9월 30일(현지시각)... 장비 업계는 면적 활용도를 높이기 위해 대형 사각 패널 레벨 패키징 플랫폼 도입을 검토하고 있다. 사각 패널...",
-          "src": "g-enews",
+          "title": "韓·美 2000억 달러 전략투자 3대 사업 공식 발표… 텍사스 엔시날 발전...",
+          "desc": "기금을 활용해 미국 내 대형 원전 8기를 건설하는 'Project Power(한미 원전 프레임워크)'에 합의했다. 가장... 1978년 웨스팅하우스의 기술을 도입해 고리 원전을 지었던 한국이 50여 년 만에 미국 현지 원전 건설의 핵심...",
+          "src": "newsroad",
           "date": "10/01",
-          "url": "https://www.g-enews.com/view.php?ud=202609301948133763fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026093019563709288fbbec65dfb211211153121.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65139",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/65139_88276_4643_v150.jpg"
         },
         {
-          "title": "95분 AI 영화, 14일 만에 제작…할리우드 시험대",
-          "desc": "AI 영상 스타트업들이 영화 기획부터 촬영, 편집, 더빙, 마케팅까지 제작 전 과정에 활용할 수 있는... AI가 도입될 수 있는 범위를 추산한 분석이다. 제작 현장의 반응은 엇갈린다. AI 기업들은 기술을 인간...",
-          "src": "tokenpost",
+          "title": "NH농협캐피탈, AX 중장기 전략 로드맵 1.0 수립... AX 전환 속도↑",
+          "desc": "이와 함께 에이전틱 AI(Agentic AI) 기술 발전에 맞춰 AI 기반 업무 자동화와 생산성 향상도 지속적으로 확대한다는 계획이다. 장종환 대표이사는 “AX는 단순한 기술 도입을 넘어 우리 회사의 일하는 방식과 고객...",
+          "src": "서울경제TV",
           "date": "10/01",
-          "url": "https://www.tokenpost.kr/news/ai/416666",
-          "img": "https://www.tokenpost.kr/uploads/2026/09/l9qk5qj4ah.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202610010012",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/01/sentv20261001000012.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼전·닉스, 이달 '국내 최대 반도체 전시회'서 격돌…\"차세대 HBM 기술...",
+          "desc": "한국반도체산업협회장인 송재혁 삼성전자 디바이스솔루션(DS)부문 최고기술책임자(CTO) 사장은 행사 첫날 기조연설에 나설 것으로 보인다. 송 사장은 행사장 부스 투어를 통해 소부장(소재·부품·장비) 협력사들과...",
+          "src": "뉴시스",
+          "date": "10/01",
+          "url": "https://n.news.naver.com/mnews/article/003/0014225307?sid=101",
+          "img": "https://img1.newsis.com/2025/10/22/NISI20251022_0001972084_web.jpg"
+        },
         {
           "title": "삼성 파운드리 4나노 베이스 다이가 바꾼 적자 곡선… HBM4 타고 42% 손실...",
           "desc": "삼성전자 파운드리와 시스템엘에스아이(LSI) 사업부의 2026년 연간 합산 영업손실 추정치가 전년 대비 41.8... 파운드리 가동률 상승은 첨단 후공정 패키징과 테스트 협력사로 이어지는 국내 부품·소재 가치사슬의...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "hellot",
           "date": "09/30",
           "url": "https://www.hellot.net/news/article.html?no=115228",
-          "img": "https://www.hellot.net/data/photos/20260940/art_17907519769035_da1829.jpg"
+          "img": ""
         },
         {
           "title": "TSMC 반도체 공장 '대만 집중 리스크' 대응, 삼성전자 뒤따라 미국 텍사...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "09/30",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448297",
           "img": ""
-        },
-        {
-          "title": "[기자수첩] 알리고 싶은 엔비디아, 숨기고 싶은 애플",
-          "desc": "지난해 이재용 삼성전자 회장, 정의선 현대자동차그룹 회장과 이른바 '깐부 회동'을 가진 데 이어 올여름엔... 출시되지 않은 차세대 아이폰이나 아이패드에 들어가는 부품이라면 더욱 그렇다. 협력사들 사이에선 고객사의...",
-          "src": "sisajournal-e",
-          "date": "09/30",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424023",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/424023_240321_4235_v150.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+          "img": ""
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 평택 포승지구에 5000억 규모 물류센터",
-      "url": "https://www.betanews.net/article/view/beta202609290146",
-      "img": "https://www.betanews.net/data/beta/upload/save/company/beta17337054158058.400x.0.png"
+      "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다”...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195469?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/MJRWENLEGQZGKZDDGZTGMNLFMY.jpg?auth=2fac6d4ae3d59101e95946a75f734e0e5a306ccf24901dc8228309e12769c055&width=600&height=315&smart=true"
     },
     {
       "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
     },
     {
-      "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 정상",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320704",
-      "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
+      "title": "롯데하이마트-한국전력 '가전수리올케어' 론칭...'스마트가전 캐시백' ...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=319023",
+      "img": "http://www.wsobi.com/news/photo/202610/319023_189888_3156.jpg"
     },
     {
-      "title": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
-      "url": "https://www.g-enews.com/view.php?ud=202609241800349289906806b77b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092418563802615906806b77b1752093689.jpg"
+      "title": "삼성전자, iOS 품은 '갤럭시 스마트태그3' 공개…탐색거리 3배 넓혔다",
+      "url": "https://www.ajunews.com/view/20261001082822136",
+      "img": "https://image.ajunews.com/content/image/2026/10/01/20261001083420634994.jpg"
     },
     {
-      "title": "\"독파모 계속된다\"… 중단설 끊은 배경훈",
-      "url": "https://n.news.naver.com/mnews/article/008/0005420658?sid=105",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026093019473640928_1.jpg"
+      "title": "대웅제약, 히포크랏랩스와 의료데이터 보안 사업 협력…'메디세이프' 공...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=83540",
+      "img": "http://www.press9.kr/news/thumbnail/202610/83540_95806_5124_v150.jpg"
     },
     {
-      "title": "충남, AI 인재양성에 국비 367억…'산업 AX 거점' 구축 본격화",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=351160",
-      "img": "https://cdn.greened.kr/news/thumbnail/202609/351160_402887_3012_v150.jpg"
+      "title": "장애인 돌봄 공백 막는다…경기도, 'AI 자립비서' 가동",
+      "url": "https://n.news.naver.com/mnews/article/417/0001159762?sid=102",
+      "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/01/00/2026100108293177051_1.jpg"
     }
   ]
 };
