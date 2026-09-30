@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.09.30 (수) 14:36",
+  "updatedAt": "2026.09.30 (수) 21:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 석권",
-          "desc": "삼성전자가 올해도 국내 주요 제품·서비스 분야에서 고객만족도 1위를 이어갔다. 삼성전자는... 생활가전에서는 냉장고, 김치냉장고, 에어컨, 세탁기, 건조기, 무선스틱청소기 등 6개 부문에서 1위를 차지했다....",
-          "src": "ezyeconomy",
+          "title": "삼성 AI 포럼 2026 개막… 에이전틱 전환과 피지컬 AI 상용화 주목",
+          "desc": "삼성전자는 9월 30일 서울 서초사옥에서 글로벌 석학과 테크 리더 400여 명이 집결한 가운데 제10회 삼성 AI... DX 트랙에서는 스마트폰과 가전 등 개인용 디바이스의 제한된 전력과 메모리 환경에서 구동되는 고효율 플랫폼...",
+          "src": "ttlnews",
           "date": "09/30",
-          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240315",
-          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202609/240315_141773_265_v150.jpg"
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3148151",
+          "img": "https://cdn.ttlnews.com/news/photo/202609/3148151_769014_354.jpg"
         },
         {
-          "title": "‘프리미엄’ 쥔 中 로봇청소기 글로벌 독주…국내 가전업계 경종",
-          "desc": "삼성전자와 LG전자도 AI 기능을 앞세운 프리미엄 로봇청소기로 대응하고 있다. 하지만 글로벌 상위권은 중국 브랜드가 채우고 있고, 한국 시장에서도 중국 업체의 존재감이 커졌다. 로보락이 스스로 ‘다양한 기준의...",
-          "src": "dnews",
+          "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
+          "desc": "가정은 선택 폭 넓히고, 사업장은 전담 관리 삼성전자는 관리 횟수를 조정해 구독료를 낮춘 '방문케어 라이트'를 11월 도입할 예정이다. 정수기, 공기청정기, 로봇청소기, 에어드레서, 식기세척기 구독 고객이 대상이다....",
+          "src": "economytalk",
           "date": "09/30",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291541382530780",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/09/29/202609291541382530780-2-694102.jpg"
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424410",
+          "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
         },
         {
-          "title": "삼성전자, 25년 연속 1위 수성…TV·휴대폰 부문 29년째 정상",
-          "desc": "카메라 기반 식재료 자동 인식의 '비스포크 AI 패밀리허브', 맞춤형 의류 분석 케어, 사용자 동작 인식 'AI·모션 바람' 기능 등 가전 전반에 적용된 AI 경험이 고객 만족도를 이끈 것으로 평가된다. 한편 삼성전자...",
-          "src": "financialpost",
+          "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 정상",
+          "desc": "삼성전자는 TV와 휴대폰, PC, 냉장고, 세탁기, 김치냉장고, 에어컨, 건조기, 무선스틱청소기 등 총 9개 부문에서 1위를 차지했다. TV와 휴대폰은 29년 연속, PC는 25년 연속 1위를 기록했다. 냉장고와 세탁기도 각각 17년...",
+          "src": "thepublic",
           "date": "09/30",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278064",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/278064_365197_1816_v150.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=320704",
+          "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
         },
         {
-          "title": "[기자수첩] 일본 넘은 한국 가전, 중국에 밀리지 않으려면",
-          "desc": "IDC의 지난해 세계 로봇청소기 출하량 집계에서 상위 5개사는 모두 중국 기업이었다. 합산 점유율은 67.8%로... 삼성전자는 레인보우로보틱스를 자회사로 두고 로봇 사업을 키우고 있다. LG전자는 로봇 관절을 움직이는...",
-          "src": "kfenews",
-          "date": "09/29",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=665465",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/665465_138926_5822_v150.jpg"
+          "title": "[10월1일자] 비즈니스포스트 아침의 주요기사",
+          "desc": "대형가전 렌털 도전장, 서장원 '20년 영업망' 앞세워 수익다변화 노린다 ● 엑손모빌 등 화석연료 기업... 0' 시장' 전년보다 25% 성장, 삼성전자 점유율 4% ● JW중외제약 바이오 투자회사 '솔리더스' 직접 품어, 이경하...",
+          "src": "비즈니스포스트",
+          "date": "09/30",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448356",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "리모 ‘AI 페스타 2026’ 참여...1:1 체형관리 솔루션 ‘파인핏 AI 미러’...",
-          "desc": "등에 활용 가능하다. ‘가상공간 근골격계 시뮬레이션’은 실제 및 합성데이터를 활용, 사람의 움직임과... 2026’에서 기술 및 제품에 관심 있는 기업·기관 투자자들뿐만 아니라 AI 솔루션 도입과 제휴 관련 미팅도...",
-          "src": "gosiweek",
+          "title": "[패트롤]대구시의회-경산시-영남대-대구시교육청-대구환경청",
+          "desc": "다만 12세 미만 감염취약시설 입원·입소자와 면역저하자는 백신 긴급 도입 절차가 진행 중인 점을 고려해... 지원에 활용해 '글로벌 교육수도 대구' 비전 실현으로 연결한다는 취지다. 강은희 교육감은 “AI 시대에 발맞춘...",
+          "src": "ekn",
           "date": "09/30",
-          "url": "https://www.gosiweek.com/article/1065591210405470",
-          "img": "https://www.gosiweek.com/news/data/2026/09/30/p1065591210405470_781_thum.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20260930024220760",
+          "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260930.c834f8c967404dfd8604bf9c3a1cbd78_R.jpg"
         },
         {
-          "title": "\"AI 없이는 농촌의 미래도 없다\"…영양, 'AI 승부수' 던졌다",
-          "desc": "농업에서는 AI와 스마트 기술을 활용해 생산성을 높이고 농가 소득 증대를 꾀한다. 관광에서는 영양의... 그러나 AI를 지역의 성장동력으로 만드는 과정이 순탄한 것만은 아니다. 기술을 도입하는 것과 주민이 실제로...",
+          "title": "덴컴, 치과 AI 플랫폼 '덴트허브' 공개…서부장애인치과병원서 시범 운...",
+          "desc": "최근 서울특별시 서부장애인치과병원(서울대학교치과병원 수탁운영)과 AI 솔루션 도입 계약을 체결해... 여러 AI 기술을 실제 진료 과정에 연결해 의료진의 기록 부담을 줄이고, 장애인 진료와 공공의료 등에서 활용...",
+          "src": "mdtoday",
+          "date": "09/30",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616919",
+          "img": "https://cdn.mdtoday.co.kr/news/photo/202609/616919_323627_273.png"
+        },
+        {
+          "title": "[미디어 포커스] \"AI는 이미 일상\"… 김난도 교수, 트렌드 코리아 2027서...",
+          "desc": "환경에서도 AI 전환에 발맞춘 근본적인 체질 개선이 이뤄지고 있다. 기업들은 단순한 기술 도입을 넘어... AI가 무엇이든 순식간에 뚝딱 만들어내는 시대의 진정한 승자는 단순한 기술 활용자가 아니라, 남과 다른 것을...",
           "src": "idaegu",
           "date": "09/30",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=666007",
-          "img": "https://cdn.idaegu.com/news/photo/202609/666007_374408_351.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561137",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         },
         {
-          "title": "전북특별자치도, '이원택 도지사, 브라운백 미팅에서 직원들이 개발한 ...",
-          "desc": "도청 직원들이 직접 참여해 만든 AI 시스템은 단순한 기술 도입을 넘어 행정 방식 자체를 바꾸는 성과를... 중소형 선박을 활용해 지역 항만과 대형 환적항을 연결하는 이번 항로는 도내 기업들의 물류비 절감과 신규...",
-          "src": "queen",
+          "title": "진흥원, 지역 로봇산업 육성 '박차'",
+          "desc": "인프라를 활용한 지능형 로봇 기술개발, 로봇용 AI 모델 개발, 데이터 활용 및 실증 지원 방안을 논의했다.... 로봇 활용 수요가 확대될 가능성이 높다는 데 공감하고, 지역기업의 로봇 도입·실증 지원과 로봇 기업 육성...",
+          "src": "idaegu",
           "date": "09/30",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=464110",
-          "img": "http://cdn.queen.co.kr/news/thumbnail/202609/464110_210839_3243_v150.jpg"
-        },
-        {
-          "title": "소진공, 소상공인 AI 지원사업 점검 토론회 개최",
-          "desc": "AI 모델 적정성, AI 모델 성능평가 등 5개 항목으로 구성됐다. 이날 토론회에서는 체크리스트를 활용해... 소진공 인태연 이사장은 “AI 도입은 단지 새로운 기술을 쓰는 것보다 해결하려는 문제와 결과에 대한 검증...",
-          "src": "lawissue",
-          "date": "09/30",
-          "url": "http://www.lawissue.co.kr/view.php?ud=202609301433308637f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260930143338004680f4ab64559d21134207132.jpg&nmt=12"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561151",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성 파운드리 4나노 베이스 다이가 바꾼 적자 곡선… HBM4 타고 42% 손실...",
+          "desc": "삼성전자 파운드리와 시스템엘에스아이(LSI) 사업부의 2026년 연간 합산 영업손실 추정치가 전년 대비 41.8... 파운드리 가동률 상승은 첨단 후공정 패키징과 테스트 협력사로 이어지는 국내 부품·소재 가치사슬의...",
+          "src": "g-enews",
+          "date": "09/30",
+          "url": "https://www.g-enews.com/view.php?ud=202609301956496593fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026093020062301763fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "[AMXPO 2026 프리뷰] 동일전자, AC·콘덴서·BLDC·팬 모터 등 전동기 라...",
+          "desc": "삼성전자와 LG전자, 롯데, 힘펠 등 국내 주요 기업의 협력사로 기술력과 생산 경험을 쌓아 왔으며 500여 종의... 이번 전시는 금속 가공관과 스마트 팩토리관, 친환경·에너지 기술관, 소재·부품관으로 구성되며...",
+          "src": "hellot",
+          "date": "09/30",
+          "url": "https://www.hellot.net/news/article.html?no=115228",
+          "img": "https://www.hellot.net/data/photos/20260940/art_17907519769035_da1829.jpg"
+        },
         {
           "title": "TSMC 반도체 공장 '대만 집중 리스크' 대응, 삼성전자 뒤따라 미국 텍사...",
           "desc": "삼성전자 텍사스주 테일러 반도체 공장 건설현장 사진. <삼성전자> 미국 정부는 이를 고려해 TSMC의 반도체... TSMC의 협력사들이 미국 애리조나에 이어 텍사스에 추가로 공급망과 인력을 배치해야 한다는 점도 부담...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/30",
           "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424023",
           "img": "https://cdn.sisajournal-e.com/news/thumbnail/202609/424023_240321_4235_v150.jpg"
-        },
-        {
-          "title": "용인·평택 반도체 벨트 한가운데 안성테크노밸리 준공…입주 본격화에...",
-          "desc": "특정 팹 한 곳이 아니라 여러 팹을 동시에 상대해야 하는 소부장 기업과 협력사 입장에서는 세 거점 모두에 접근할 수 있는 중간 지점이 효율적인 입지가 될 수 있다. 단지는 서안성IC와 약 7km 거리로, 삼성전자...",
-          "src": "동아일보",
-          "date": "09/30",
-          "url": "https://edu.donga.com/news/articleView.html?idxno=112350",
-          "img": "https://cdn.edu.donga.com/news/photo/202609/112350_176831_3152.jpg"
-        },
-        {
-          "title": "[VC·PE 20년의 헌사] 곽동걸 스틱 부회장 \"한국 산업과 함께 큰 토종 자...",
-          "desc": "당시 삼성전자나 현대차는 글로벌 기업보다 국내 대기업에 가까웠다\"며 \"스틱은 이들 대기업 협력사와... 곽 부회장은 \"2000년대 중후반 소재·부품·장비 기업들은 기술이 있었지만 생산 라인을 추가할 자본이 없었다...",
-          "src": "블로터",
-          "date": "09/30",
-          "url": "https://n.news.naver.com/mnews/article/293/0000091035?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202609/674499_288221_4733_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 석권",
-      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240315",
-      "img": "https://cdn.ezyeconomy.com/news/thumbnail/202609/240315_141773_265_v150.jpg"
+      "title": "삼성 AI 포럼 2026 개막… 에이전틱 전환과 피지컬 AI 상용화 주목",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3148151",
+      "img": "https://cdn.ttlnews.com/news/photo/202609/3148151_769014_354.jpg"
     },
     {
-      "title": "‘프리미엄’ 쥔 中 로봇청소기 글로벌 독주…국내 가전업계 경종",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291541382530780",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/09/29/202609291541382530780-2-694102.jpg"
+      "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424410",
+      "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
     },
     {
-      "title": "삼성전자, 25년 연속 1위 수성…TV·휴대폰 부문 29년째 정상",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278064",
-      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202609/278064_365197_1816_v150.jpg"
+      "title": "삼성전자, KCSI 25년 연속 최다 1위…TV·휴대폰 29년째 정상",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320704",
+      "img": "https://cdn.thepublic.kr/news/photo/202609/320704_324182_487.jpg"
     },
     {
-      "title": "[기자수첩] 일본 넘은 한국 가전, 중국에 밀리지 않으려면",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=665465",
-      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202609/665465_138926_5822_v150.jpg"
+      "title": "[패트롤]대구시의회-경산시-영남대-대구시교육청-대구환경청",
+      "url": "https://www.ekn.kr/web/view.php?key=20260930024220760",
+      "img": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260930.c834f8c967404dfd8604bf9c3a1cbd78_R.jpg"
     },
     {
-      "title": "리모 ‘AI 페스타 2026’ 참여...1:1 체형관리 솔루션 ‘파인핏 AI 미러’...",
-      "url": "https://www.gosiweek.com/article/1065591210405470",
-      "img": "https://www.gosiweek.com/news/data/2026/09/30/p1065591210405470_781_thum.jpg"
+      "title": "덴컴, 치과 AI 플랫폼 '덴트허브' 공개…서부장애인치과병원서 시범 운...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616919",
+      "img": "https://cdn.mdtoday.co.kr/news/photo/202609/616919_323627_273.png"
     },
     {
-      "title": "\"AI 없이는 농촌의 미래도 없다\"…영양, 'AI 승부수' 던졌다",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666007",
-      "img": "https://cdn.idaegu.com/news/photo/202609/666007_374408_351.jpg"
+      "title": "[미디어 포커스] \"AI는 이미 일상\"… 김난도 교수, 트렌드 코리아 2027서...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561137",
+      "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
     }
   ]
 };
