@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.01 (목) 08:53",
+  "updatedAt": "2026.10.01 (목) 14:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다”...",
-          "desc": "삼성전자는 모바일경험(MX) 사업의 원가 증가와 영상디스플레이·가전 부문의 일시적 비용, SK하이닉스는 차세대 고대역폭메모리(HBM)로 제품을 전환하는 과정에서 출하 구성과 매출 인식 시점이 달라진 점도 영향을...",
-          "src": "조선일보",
+          "title": "[삼성 인사 시그널]④ DS는 승진잔치·DX는 쇄신…'차등인사' 예고",
+          "desc": "삼성전자의 올해 정기 임원인사는 AI(인공지능) 반도체 호황의 수혜를 본 디바이스솔루션(DS)부문과 수익성... DX부문은 지난 2분기 적자를 기록한 데다 TV와 생활가전, 스마트폰 등 주력 사업 전반에서 원가 부담이...",
+          "src": "블로터",
           "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/366/0001195469?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/MJRWENLEGQZGKZDDGZTGMNLFMY.jpg?auth=2fac6d4ae3d59101e95946a75f734e0e5a306ccf24901dc8228309e12769c055&width=600&height=315&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/293/0000091125?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/674812_288544_1118_v150.jpg"
         },
         {
-          "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
-          "desc": "가정은 선택 폭 넓히고, 사업장은 전담 관리 삼성전자는 관리 횟수를 조정해 구독료를 낮춘 '방문케어 라이트'를 11월 도입할 예정이다. 정수기, 공기청정기, 로봇청소기, 에어드레서, 식기세척기 구독 고객이 대상이다....",
+          "title": "[내예기] 가전기업에서 AI 플랫폼으로…'로봇'에 사활 건 SK인텔릭스",
+          "desc": "현재 이 시장의 대표적인 제품은 중국 '로보락' 로봇 청소기다. 강력한 흡인력과 로봇팔처럼 브러시가 튀어나오는 세척 기술, AI 장애물 인식 기능 등을 갖춰 인기를 얻고 있다. 국내시장에서는 삼성전자·LG전자를...",
+          "src": "CNB뉴스",
+          "date": "10/01",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017633",
+          "img": "https://cdn.cnbnews.com/news/photo/202609/1017633_519625_4621.jpg"
+        },
+        {
+          "title": "[Weekly 쇼핑] 홈플러스 익스프레스·SSG닷컴·롯데홈쇼핑·쿠팡·홈앤쇼...",
+          "desc": "스타카토 슈즈는 최대 75%, K2 패딩 점퍼와 디스커버리 재킷은 최대 60% 할인하며, 삼성전자 김치냉장고(221L)... 세탁기·건조기로 관리할 수 있다. 10월 5일 오후 7시 35분 TV홈쇼핑 방송에서 처음 판매한다. 헤리든 추가로...",
+          "src": "startuptoday",
+          "date": "10/01",
+          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814650",
+          "img": "https://cdn.startuptoday.co.kr/news/photo/202610/814650_613894_2154.png"
+        },
+        {
+          "title": "\"중고 가전도 케어한다\"… 롯데하이마트, '가전수리올케어' 승부수",
+          "desc": "냉장고, 세탁기 등 대형가전 8종을 비롯해 청소기, 식기세척기 등 생활·주방가전 21종, 노트북, 데스크톱 등... 삼성전자 역시 '삼성 AI 구독'을 통해 신혼·고령층 등 맞춤형 패스를 최근 선보였으며, 삼성 가전 고객의 약 30...",
           "src": "economytalk",
-          "date": "09/30",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424410",
-          "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
-        },
-        {
-          "title": "롯데하이마트-한국전력 '가전수리올케어' 론칭...'스마트가전 캐시백' ...",
-          "desc": "대상은 삼성전자와 LG전자의 세탁기, 건조기, 식기세척기, 의류관리기 등 스마트가전 4종이다. 가전사 플랫폼을 통해 확인된 지정 시간대 전기사용량을 기준으로 1kWh당 100원의 캐시백이 적립되며, 기존 주택용...",
-          "src": "wsobi",
           "date": "10/01",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=319023",
-          "img": "http://www.wsobi.com/news/photo/202610/319023_189888_3156.jpg"
-        },
-        {
-          "title": "삼성전자, iOS 품은 '갤럭시 스마트태그3' 공개…탐색거리 3배 넓혔다",
-          "desc": "버튼으로 가전 루틴을 작동하는 '스마트싱스 IoT 제어' 등을 제공한다. 배터리는 교체형 동전형 배터리(CR2032) 1개로 일반 모드 최대 550일, 절전 모드 최대 790일까지 사용할 수 있다. 삼성전자는 오는 7일 국내 출시를...",
-          "src": "아주경제",
-          "date": "10/01",
-          "url": "https://www.ajunews.com/view/20261001082822136",
-          "img": "https://image.ajunews.com/content/image/2026/10/01/20261001083420634994.jpg"
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424433",
+          "img": "https://cdn.economytalk.kr/news/photo/202610/424433_232413_296.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "대웅제약, 히포크랏랩스와 의료데이터 보안 사업 협력…'메디세이프' 공...",
-          "desc": "이번 계약에 따라 히포크랏랩스는 제품 개발과 기술 지원을 맡고, 대웅제약은 전국 병·의원 영업망을 활용해... 이창재 대웅제약 대표는 AI와 디지털 기술의 의료 현장 도입이 확대되면서 의료 데이터를 안전하게 관리하는...",
-          "src": "press9",
+          "title": "[이슈 포커스] AI가 무너뜨린 이력서 채용…‘경력보다 능력’ 보는 英...",
+          "desc": "영국 기업 3곳 중 2곳 ‘스킬 기반 채용’ 도입…AI 시대 판단력·대인관계·실무 평가 중요성 커져 생성형... 최고기술책임자(CTO)는 과거 엔지니어가 3주 동안 만들어야 했던 프로토타입을 이제는 AI를 활용해 오후...",
+          "src": "hellot",
           "date": "10/01",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=83540",
-          "img": "http://www.press9.kr/news/thumbnail/202610/83540_95806_5124_v150.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=115248",
+          "img": "https://www.hellot.net/data/photos/20261040/art_17908341906224_4955e8.jpg"
         },
         {
-          "title": "장애인 돌봄 공백 막는다…경기도, 'AI 자립비서' 가동",
-          "desc": "이번 사업은 실제 생활 현장에서 발생할 수 있는 돌봄 공백을 첨단 기술로 얼마나 줄일 수 있는지를... 장애인 본인과 자립지원 전담 인력의 AI 활용 역량을 높이는 동시에, 반복적인 행정 업무에도 AI를 도입해 업무...",
-          "src": "sidae",
+          "title": "한눈에 살펴보는 SCM FAIR 2026-②",
+          "desc": "관련해 △AI를 활용한 수요 예측, △운임 전략, △AI 검색 시스템, △예약 지원 에이전트 등을 도입하고 향후... 첨단기술 수요는 글로벌 항공화물 생태계에 새로운 과제를 던지고 있다. 화물의 가치가 올라가고...",
+          "src": "klnews",
           "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/417/0001159762?sid=102",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/01/00/2026100108293177051_1.jpg"
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322932",
+          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/322932_66480_26_v150.jpg"
         },
         {
-          "title": "韓·美 2000억 달러 전략투자 3대 사업 공식 발표… 텍사스 엔시날 발전...",
-          "desc": "기금을 활용해 미국 내 대형 원전 8기를 건설하는 'Project Power(한미 원전 프레임워크)'에 합의했다. 가장... 1978년 웨스팅하우스의 기술을 도입해 고리 원전을 지었던 한국이 50여 년 만에 미국 현지 원전 건설의 핵심...",
-          "src": "newsroad",
+          "title": "(주)에스앤씨랩, '2026 기술개발인의 날' 부총리 겸 과기정통부 장관 표...",
+          "desc": "에스앤씨랩은 전문가 수작업에 의존해 온 디지털 정보 접근성 평가에 자동화와 AI 기술을 도입하고, 이를... 현재 이 기술은 에스앤씨랩의 접근성 컨설팅 과정에서 전문가 진단을 보조하는 형태로 활용될 예정이다....",
+          "src": "enetnews",
           "date": "10/01",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65139",
-          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/65139_88276_4643_v150.jpg"
+          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54921",
+          "img": "https://cdn.enetnews.co.kr/news/thumbnail/202610/54921_73790_5444_v150.jpg"
         },
         {
-          "title": "NH농협캐피탈, AX 중장기 전략 로드맵 1.0 수립... AX 전환 속도↑",
-          "desc": "이와 함께 에이전틱 AI(Agentic AI) 기술 발전에 맞춰 AI 기반 업무 자동화와 생산성 향상도 지속적으로 확대한다는 계획이다. 장종환 대표이사는 “AX는 단순한 기술 도입을 넘어 우리 회사의 일하는 방식과 고객...",
-          "src": "서울경제TV",
+          "title": "몽고DB, AI 에이전트 운영 플랫폼 ‘아틀라스 에이전트 엔진’ 공개",
+          "desc": "검색에는 몽고DB의 보이지 AI 임베딩 모델과 검색 기술을 활용한다. 기업은 기존에 사용하던 AI 모델과 개발 프레임워크를 유지하면서 메모리와 통제 기능을 도입하거나, 에이전트 실행 환경까지 함께 사용할 수 있다....",
+          "src": "디지털데일리",
           "date": "10/01",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610010012",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/01/sentv20261001000012.png"
+          "url": "https://n.news.naver.com/mnews/article/138/0002243373?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/01/2026100114351336287_l.png"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "애리조나 359조 쏟아붓고도 텍사스 눈독 들인 TSMC, 삼성 안방 파고든다",
+          "desc": "있는 삼성전자와의 치열한 수주 쟁탈전으로 이어질 수 있다는 관측이 나온다. 애리조나 넘어 텍사스... 반면 특정 파운드리 공급 비중이 높은 협력사들은 현지 납품 경쟁 격화로 단가 인하 압박을 받거나 수주 변동...",
+          "src": "g-enews",
+          "date": "10/01",
+          "url": "https://www.g-enews.com/view.php?ud=202610010946524166fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100109575400451fbbec65dfb22210812861.jpg"
+        },
+        {
+          "title": "삼성·SK, 이달 'SEDEX'서 맞붙는다…차세대 HBM 공개 주목",
+          "desc": "이와 함께 한국반도체산업협회장을 맡고 있는 송재혁 삼성전자 디바이스솔루션(DS)부문 최고기술책임자(CTO) 사장은 오는 14일 기조연설에 나선다. 소재·부품·장비 협력사들과의 비즈니스 미팅도 진행할 것으로...",
+          "src": "iminju",
+          "date": "10/01",
+          "url": "http://www.iminju.net/news/articleView.html?idxno=170204",
+          "img": "https://cdn.iminju.net/news/thumbnail/202610/170204_180885_4120_v150.jpg"
+        },
         {
           "title": "삼전·닉스, 이달 '국내 최대 반도체 전시회'서 격돌…\"차세대 HBM 기술...",
           "desc": "한국반도체산업협회장인 송재혁 삼성전자 디바이스솔루션(DS)부문 최고기술책임자(CTO) 사장은 행사 첫날 기조연설에 나설 것으로 보인다. 송 사장은 행사장 부스 투어를 통해 소부장(소재·부품·장비) 협력사들과...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "09/30",
           "url": "https://www.g-enews.com/view.php?ud=202609301956496593fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026093020062301763fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "[AMXPO 2026 프리뷰] 동일전자, AC·콘덴서·BLDC·팬 모터 등 전동기 라...",
-          "desc": "삼성전자와 LG전자, 롯데, 힘펠 등 국내 주요 기업의 협력사로 기술력과 생산 경험을 쌓아 왔으며 500여 종의... 이번 전시는 금속 가공관과 스마트 팩토리관, 친환경·에너지 기술관, 소재·부품관으로 구성되며...",
-          "src": "hellot",
-          "date": "09/30",
-          "url": "https://www.hellot.net/news/article.html?no=115228",
-          "img": ""
-        },
-        {
-          "title": "TSMC 반도체 공장 '대만 집중 리스크' 대응, 삼성전자 뒤따라 미국 텍사...",
-          "desc": "삼성전자 텍사스주 테일러 반도체 공장 건설현장 사진. <삼성전자> 미국 정부는 이를 고려해 TSMC의 반도체... TSMC의 협력사들이 미국 애리조나에 이어 텍사스에 추가로 공급망과 인력을 배치해야 한다는 점도 부담...",
-          "src": "비즈니스포스트",
-          "date": "09/30",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448297",
-          "img": ""
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다”...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195469?sid=101",
-      "img": "https://biz.chosun.com/resizer/v2/MJRWENLEGQZGKZDDGZTGMNLFMY.jpg?auth=2fac6d4ae3d59101e95946a75f734e0e5a306ccf24901dc8228309e12769c055&width=600&height=315&smart=true"
+      "title": "[삼성 인사 시그널]④ DS는 승진잔치·DX는 쇄신…'차등인사' 예고",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091125?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202610/674812_288544_1118_v150.jpg"
     },
     {
-      "title": "삼성전자, 'AI 구독' 개편… 고객군별 관리 확대",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424410",
-      "img": "https://cdn.economytalk.kr/news/photo/202609/424410_232373_4446.jpg"
+      "title": "[내예기] 가전기업에서 AI 플랫폼으로…'로봇'에 사활 건 SK인텔릭스",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017633",
+      "img": "https://cdn.cnbnews.com/news/photo/202609/1017633_519625_4621.jpg"
     },
     {
-      "title": "롯데하이마트-한국전력 '가전수리올케어' 론칭...'스마트가전 캐시백' ...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=319023",
-      "img": "http://www.wsobi.com/news/photo/202610/319023_189888_3156.jpg"
+      "title": "[Weekly 쇼핑] 홈플러스 익스프레스·SSG닷컴·롯데홈쇼핑·쿠팡·홈앤쇼...",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814650",
+      "img": "https://cdn.startuptoday.co.kr/news/photo/202610/814650_613894_2154.png"
     },
     {
-      "title": "삼성전자, iOS 품은 '갤럭시 스마트태그3' 공개…탐색거리 3배 넓혔다",
-      "url": "https://www.ajunews.com/view/20261001082822136",
-      "img": "https://image.ajunews.com/content/image/2026/10/01/20261001083420634994.jpg"
+      "title": "\"중고 가전도 케어한다\"… 롯데하이마트, '가전수리올케어' 승부수",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424433",
+      "img": "https://cdn.economytalk.kr/news/photo/202610/424433_232413_296.jpg"
     },
     {
-      "title": "대웅제약, 히포크랏랩스와 의료데이터 보안 사업 협력…'메디세이프' 공...",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=83540",
-      "img": "http://www.press9.kr/news/thumbnail/202610/83540_95806_5124_v150.jpg"
+      "title": "[이슈 포커스] AI가 무너뜨린 이력서 채용…‘경력보다 능력’ 보는 英...",
+      "url": "https://www.hellot.net/news/article.html?no=115248",
+      "img": "https://www.hellot.net/data/photos/20261040/art_17908341906224_4955e8.jpg"
     },
     {
-      "title": "장애인 돌봄 공백 막는다…경기도, 'AI 자립비서' 가동",
-      "url": "https://n.news.naver.com/mnews/article/417/0001159762?sid=102",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/01/00/2026100108293177051_1.jpg"
+      "title": "한눈에 살펴보는 SCM FAIR 2026-②",
+      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322932",
+      "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/322932_66480_26_v150.jpg"
     }
   ]
 };
