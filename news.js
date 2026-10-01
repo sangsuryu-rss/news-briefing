@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.01 (목) 14:59",
+  "updatedAt": "2026.10.01 (목) 22:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[삼성 인사 시그널]④ DS는 승진잔치·DX는 쇄신…'차등인사' 예고",
-          "desc": "삼성전자의 올해 정기 임원인사는 AI(인공지능) 반도체 호황의 수혜를 본 디바이스솔루션(DS)부문과 수익성... DX부문은 지난 2분기 적자를 기록한 데다 TV와 생활가전, 스마트폰 등 주력 사업 전반에서 원가 부담이...",
-          "src": "블로터",
+          "title": "[가전 트렌드] 쿠쿠, 한·중서 신제품 밥솥 잇달아 출시하며 흥행몰이 ...",
+          "desc": "'가전 트렌드'는 아이를 키우는 가정에 도움이 되는 가전·스마트홈 분야의 주요 이슈를 모아 전하기... ◇ 삼성전자, JBL 80주년 기념 특별 기획전 진행 삼성전자, JBL 80 주년 기념 특별 기획전 진행 (1) JBL Grip....",
+          "src": "ibabynews",
           "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/293/0000091125?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/674812_288544_1118_v150.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154901",
+          "img": "https://www.ibabynews.com/news/photo/202610/154901_122738_1431.jpg"
         },
         {
-          "title": "[내예기] 가전기업에서 AI 플랫폼으로…'로봇'에 사활 건 SK인텔릭스",
-          "desc": "현재 이 시장의 대표적인 제품은 중국 '로보락' 로봇 청소기다. 강력한 흡인력과 로봇팔처럼 브러시가 튀어나오는 세척 기술, AI 장애물 인식 기능 등을 갖춰 인기를 얻고 있다. 국내시장에서는 삼성전자·LG전자를...",
-          "src": "CNB뉴스",
+          "title": "[오늘의 브랜드] 경동나비엔, '한국산업의 고객만족도(KCSI)' 보일러 부문...",
+          "desc": "◇ 삼성 6개사, AI 인프라 기업 '헬릭스'에 10억 달러 투자 삼성전자와 삼성물산, 삼성SDS, 삼성SDI, 삼성생명... 생활가전에서는 ▲냉장고 ▲김치냉장고 ▲에어컨 ▲세탁기 ▲건조기 ▲무선스틱청소기 등 6개 부문에서...",
+          "src": "ibabynews",
           "date": "10/01",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017633",
-          "img": "https://cdn.cnbnews.com/news/photo/202609/1017633_519625_4621.jpg"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154893",
+          "img": "https://www.ibabynews.com/news/photo/202610/154893_122709_4445.jpg"
+        },
+        {
+          "title": "“가전은 똑똑해졌는데 집안일은 멈췄다”…업데이트 한 번에 ‘훅’",
+          "desc": "겪어” 전자레인지가 스팀오븐용 기능을 표시하며 멈추고, 로봇청소기는 충전대를 찾지 못한 채... 1일 관련 업계에 따르면 최근 국내에서 추석을 앞두고 삼성전자 냉장고 일부 제품이 SW 오배포로 정상 작동하지 않는...",
+          "src": "매일경제",
+          "date": "10/01",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742781?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.37543b06f5d54328b0059244921a2758_R.png"
         },
         {
           "title": "[Weekly 쇼핑] 홈플러스 익스프레스·SSG닷컴·롯데홈쇼핑·쿠팡·홈앤쇼...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "10/01",
           "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814650",
           "img": "https://cdn.startuptoday.co.kr/news/photo/202610/814650_613894_2154.png"
-        },
-        {
-          "title": "\"중고 가전도 케어한다\"… 롯데하이마트, '가전수리올케어' 승부수",
-          "desc": "냉장고, 세탁기 등 대형가전 8종을 비롯해 청소기, 식기세척기 등 생활·주방가전 21종, 노트북, 데스크톱 등... 삼성전자 역시 '삼성 AI 구독'을 통해 신혼·고령층 등 맞춤형 패스를 최근 선보였으며, 삼성 가전 고객의 약 30...",
-          "src": "economytalk",
-          "date": "10/01",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424433",
-          "img": "https://cdn.economytalk.kr/news/photo/202610/424433_232413_296.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[이슈 포커스] AI가 무너뜨린 이력서 채용…‘경력보다 능력’ 보는 英...",
-          "desc": "영국 기업 3곳 중 2곳 ‘스킬 기반 채용’ 도입…AI 시대 판단력·대인관계·실무 평가 중요성 커져 생성형... 최고기술책임자(CTO)는 과거 엔지니어가 3주 동안 만들어야 했던 프로토타입을 이제는 AI를 활용해 오후...",
-          "src": "hellot",
+          "title": "현대차그룹, 도로공사와 피지컬 AI 실증 나서",
+          "desc": "기술 도입의 필요성이 커지고 있다. 현대차그룹은 이번 협약을 통해 전국에 구축된 고속도로를 실증 무대로 활용해 차세대 충전 기술과 피지컬 AI 기술을 함께 검증하고자 한다. 구체적으로는 △휴게소를 충전...",
+          "src": "ujeil",
           "date": "10/01",
-          "url": "https://www.hellot.net/news/article.html?no=115248",
-          "img": "https://www.hellot.net/data/photos/20261040/art_17908341906224_4955e8.jpg"
+          "url": "http://www.ujeil.com/news/articleView.html?idxno=392962",
+          "img": "http://cdn.ujeil.com/news/thumbnail/202610/392962_201516_5921_v150.jpg"
         },
         {
-          "title": "한눈에 살펴보는 SCM FAIR 2026-②",
-          "desc": "관련해 △AI를 활용한 수요 예측, △운임 전략, △AI 검색 시스템, △예약 지원 에이전트 등을 도입하고 향후... 첨단기술 수요는 글로벌 항공화물 생태계에 새로운 과제를 던지고 있다. 화물의 가치가 올라가고...",
-          "src": "klnews",
+          "title": "지역사회 통합돌봄 DX, 분산형 임상시험으로 근거 쌓아야",
+          "desc": "인공지능(AI)과 디지털 기술을 활용한 분산형 임상시험(DCT)의 발전 방향과 지역사회 통합돌봄의 연계... 등이 도입됐다. 고령자, 장애인, 거동이 불편한 만성질환자의 병원 방문 부담을 줄이고 가정과 지역 의료기관을...",
+          "src": "medicaltimes",
           "date": "10/01",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322932",
-          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/322932_66480_26_v150.jpg"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170986&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20261001/1790859589.jpg"
         },
         {
-          "title": "(주)에스앤씨랩, '2026 기술개발인의 날' 부총리 겸 과기정통부 장관 표...",
-          "desc": "에스앤씨랩은 전문가 수작업에 의존해 온 디지털 정보 접근성 평가에 자동화와 AI 기술을 도입하고, 이를... 현재 이 기술은 에스앤씨랩의 접근성 컨설팅 과정에서 전문가 진단을 보조하는 형태로 활용될 예정이다....",
-          "src": "enetnews",
+          "title": "[미디어포커스] 빌 게이츠 \"AI 자율규제는 미친 짓\"",
+          "desc": "Tax)' 도입을 주장했다. AI가 인간의 일자리를 대체하는 속도를 조절하는 동시에, 이를 통해 확보한 막대한 재원을 실직자 재교육 및 사회 안전망 강화에 활용하자는 복안이다. ◇저소득국 지원과 '극도의 풍요'를 향한...",
+          "src": "idaegu",
           "date": "10/01",
-          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54921",
-          "img": "https://cdn.enetnews.co.kr/news/thumbnail/202610/54921_73790_5444_v150.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561304",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         },
         {
-          "title": "몽고DB, AI 에이전트 운영 플랫폼 ‘아틀라스 에이전트 엔진’ 공개",
-          "desc": "검색에는 몽고DB의 보이지 AI 임베딩 모델과 검색 기술을 활용한다. 기업은 기존에 사용하던 AI 모델과 개발 프레임워크를 유지하면서 메모리와 통제 기능을 도입하거나, 에이전트 실행 환경까지 함께 사용할 수 있다....",
-          "src": "디지털데일리",
+          "title": "지식재산처 출범 1주년…80년 발자취 위에 새 도약 그린다",
+          "desc": "우수한 기술과 지식재산이 자금 조달을 넘어 사업화와 기업 성장으로 이어질 수 있도록 지원했다. 지식재산처는 앞으로 'K-지식재산'의 수익화와 K-브랜드 보호를 비롯해 인공지능(AI)을 활용한 지식재산 행정의 대전환...",
+          "src": "전자신문",
           "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243373?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/01/2026100114351336287_l.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003471862?sid=102",
+          "img": ""
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성과 애플, 폴더블폰 '4대3 전장'서 맞붙다 [IT+]",
+          "desc": "삼성전자가 늘어난 수요에 맞춰 부품 협력사에 100만대 규모의 추가 주문을 넣으며 연간 생산 계획을 380만대 수준까지 끌어올린 것도 눈길을 끈다. 이 때문인지 갤럭시Z8 시리즈 판매량이 올해 500만대에 달할 거란...",
+          "src": "thescoop",
+          "date": "10/01",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008267?sid=105",
+          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202610/311783_229439_1016_v150.jpg"
+        },
         {
           "title": "애리조나 359조 쏟아붓고도 텍사스 눈독 들인 TSMC, 삼성 안방 파고든다",
           "desc": "있는 삼성전자와의 치열한 수주 쟁탈전으로 이어질 수 있다는 관측이 나온다. 애리조나 넘어 텍사스... 반면 특정 파운드리 공급 비중이 높은 협력사들은 현지 납품 경쟁 격화로 단가 인하 압박을 받거나 수주 변동...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/01",
           "url": "https://n.news.naver.com/mnews/article/003/0014225307?sid=101",
           "img": "https://img1.newsis.com/2025/10/22/NISI20251022_0001972084_web.jpg"
-        },
-        {
-          "title": "삼성 파운드리 4나노 베이스 다이가 바꾼 적자 곡선… HBM4 타고 42% 손실...",
-          "desc": "삼성전자 파운드리와 시스템엘에스아이(LSI) 사업부의 2026년 연간 합산 영업손실 추정치가 전년 대비 41.8... 파운드리 가동률 상승은 첨단 후공정 패키징과 테스트 협력사로 이어지는 국내 부품·소재 가치사슬의...",
-          "src": "g-enews",
-          "date": "09/30",
-          "url": "https://www.g-enews.com/view.php?ud=202609301956496593fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026093020062301763fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,14 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[삼성 인사 시그널]④ DS는 승진잔치·DX는 쇄신…'차등인사' 예고",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091125?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202610/674812_288544_1118_v150.jpg"
+      "title": "[가전 트렌드] 쿠쿠, 한·중서 신제품 밥솥 잇달아 출시하며 흥행몰이 ...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154901",
+      "img": "https://www.ibabynews.com/news/photo/202610/154901_122738_1431.jpg"
     },
     {
-      "title": "[내예기] 가전기업에서 AI 플랫폼으로…'로봇'에 사활 건 SK인텔릭스",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017633",
-      "img": "https://cdn.cnbnews.com/news/photo/202609/1017633_519625_4621.jpg"
+      "title": "[오늘의 브랜드] 경동나비엔, '한국산업의 고객만족도(KCSI)' 보일러 부문...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=154893",
+      "img": "https://www.ibabynews.com/news/photo/202610/154893_122709_4445.jpg"
+    },
+    {
+      "title": "“가전은 똑똑해졌는데 집안일은 멈췄다”…업데이트 한 번에 ‘훅’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005742781?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.37543b06f5d54328b0059244921a2758_R.png"
     },
     {
       "title": "[Weekly 쇼핑] 홈플러스 익스프레스·SSG닷컴·롯데홈쇼핑·쿠팡·홈앤쇼...",
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.startuptoday.co.kr/news/photo/202610/814650_613894_2154.png"
     },
     {
-      "title": "\"중고 가전도 케어한다\"… 롯데하이마트, '가전수리올케어' 승부수",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424433",
-      "img": "https://cdn.economytalk.kr/news/photo/202610/424433_232413_296.jpg"
+      "title": "현대차그룹, 도로공사와 피지컬 AI 실증 나서",
+      "url": "http://www.ujeil.com/news/articleView.html?idxno=392962",
+      "img": "http://cdn.ujeil.com/news/thumbnail/202610/392962_201516_5921_v150.jpg"
     },
     {
-      "title": "[이슈 포커스] AI가 무너뜨린 이력서 채용…‘경력보다 능력’ 보는 英...",
-      "url": "https://www.hellot.net/news/article.html?no=115248",
-      "img": "https://www.hellot.net/data/photos/20261040/art_17908341906224_4955e8.jpg"
-    },
-    {
-      "title": "한눈에 살펴보는 SCM FAIR 2026-②",
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322932",
-      "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/322932_66480_26_v150.jpg"
+      "title": "지역사회 통합돌봄 DX, 분산형 임상시험으로 근거 쌓아야",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170986&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20261001/1790859589.jpg"
     }
   ]
 };
