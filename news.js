@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.02 (금) 08:54",
+  "updatedAt": "2026.10.02 (금) 14:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 분기 영업이익 100조 시대…\"주주환원 주가 올릴 것\"-IBK",
-          "desc": "IBK투자증권이 삼성전자에 대해 투자의견 매수, 목표주가 46만원을 유지했다. 메모리 공급 부족 장기화로... VD(영상디스플레이)·가전도 영업적자 규모가 커질 것으로 보인다. 주주환원은 주가 상승을 견인할 거란...",
-          "src": "머니투데이",
+          "title": "[기획] 800조 반도체가 바꿀 광주·전남…공장 넘어 ‘산업·생활지도’...",
+          "desc": "그동안 광주·전남 산업은 자동차와 가전, 철강, 석유화학 등 기존 주력산업을 중심으로 성장해 왔지만... 삼성전자와 SK하이닉스가 각각 메모리 반도체 팹 2기씩, 모두 4기를 구축하는 계획을 내놓으면서 서남권 반도체...",
+          "src": "ekn",
           "date": "10/02",
-          "url": "https://n.news.naver.com/mnews/article/008/0005421398?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100208093595178_1.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261002020151706",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261002.6fe073613f514eae9f2efd36587236a4_R.jpg"
         },
         {
-          "title": "롯데하이마트-마리오아울렛 '이사·웨딩 페스티벌' '청소기 브랜드 대전...",
-          "desc": "또한 청소기 전 모델 대상으로 40만원 이상 상품 구매 시 차량용 청소기를 무상증정하고, 5개 브랜드(삼성전자, LG전자, 다이슨, 쿠쿠, 로보락)의 로봇청소기 행사상품을 건타입 행사상품과 함께 구매 시, 추가...",
-          "src": "wsobi",
+          "title": "[위클리오늘] 롯데하이마트, GS리테일,(10.2)",
+          "desc": "전기주전자는 2개를 같은 가격에 선보인다. 청소기 브랜드 행사도 함께 진행한다. 대표적으로 로보락 'S10 MAXV ULTRA' 로봇청소기는 149만원, 드리미 '아쿠아10'은 59만9천원, 샤크 '파워클린360' 무선청소기는 67만9천원에...",
+          "src": "weeklytoday",
           "date": "10/02",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=319118",
-          "img": "http://www.wsobi.com/news/photo/202610/319118_189934_332.jpg"
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=796790",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202610/796790_988482_5119_v150.jpg"
         },
         {
-          "title": "500만원대 가사 로봇 등장…프리미엄 가전 가격대로 내려온 가사 로봇",
-          "desc": "세탁건조기와 TV 가격대로 대중화 기대 수천만 원대에 달하던 가사 로봇 가격이 500만원 안팎까지 내려오고... LG전자의 고급형 오브제컬렉션 워시타워 일부 모델은 출고가가 500만원을 넘고, 삼성전자의 80인치대 OLED TV도...",
-          "src": "조선일보",
+          "title": "가전 팔고 끝 아니다…롯데하이마트·삼성·LG·쿠팡 ‘수리 전쟁’",
+          "desc": "삼성전자 홈페이지에는 기존 제품 기준 세탁기와 냉장고, 김치냉장고, 건조기, 에어드레서, 식기세척기 등의 3년·5년형 월 이용료가 제품별로 제시돼 있다. 예를 들어 3년형 기준 일반 세탁기는 월 7040원, 드럼세탁기는...",
+          "src": "segye",
           "date": "10/02",
-          "url": "https://n.news.naver.com/mnews/article/023/0004001711?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/6BJSWGPIXVCFDKZUA4SEUT6GOI.jpg?auth=12da8f573a174b67b209c44e00f238535f2c2895836cd556c94ef1238378a060&width=1090&height=572&focal=331,207"
+          "url": "https://n.news.naver.com/mnews/article/022/0004163576?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/02/20261002506168.jpg"
         },
         {
-          "title": "롯데하이마트, 10월 할인전…이사·혼수 가전 최대 540만원 혜택",
-          "desc": "먼저 '이사·웨딩 페스티벌'에서는 삼성전자 가전을 중심으로 다품목 구매 혜택을 제공한다. TV·냉장고·세탁기 등 행사 대상 품목을 2개 이상 구매하면 구매 품목 수에 따라 최대 540만원 상당의 혜택을 받을 수...",
-          "src": "m-i",
+          "title": "[유통소식] 롯데마트·슈퍼, '청년농부 팝업스토어'",
+          "desc": "'이사·웨딩 페스티벌'에서는 삼성전자 TV, 냉장고, 세탁기 등 행사품목을 2개 이상 구매하면 품목 수에 따라 최대 540만원 상당의 혜택을 제공한다. '인피니트 냉장고(1도어)'와 '셰프에디션(500L)' 김치냉장고, 'Neo QLED 8K...",
+          "src": "4th",
           "date": "10/02",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2002121",
-          "img": "https://cdn.m-i.kr/news/photo/202610/2002121_2001826_3257.jpg"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2119079",
+          "img": "https://cdn.4th.kr/news/thumbnail/202610/2119079_219232_5733_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "환경산업기술원, 기후부 산하 첫 AI 윤리 준수기관 마크 획득",
-          "desc": "AI(인공지능) 활용 열풍이 부는 가운데 윤리 책임 강화가 요구되고 있는 상황이다. 한국환경산업기술원은 1일... 2024년 도입돼 올해부터 공공부문으로 확대됐다. 환경산업기술원은 인공지능 전환(AX)을 기관 경영혁신의 주요...",
-          "src": "ikld",
+          "title": "더존비즈온, 서울시 행정에 '실행형 AI' 심는다…공공 AX 확대",
+          "desc": "더존비즈온은 이번 사업 수행사에 AI 플랫폼을 제공하고 에이전트 구현을 위한 기술 기반을 지원한다.... 기업에도 도입됐다. 더존비즈온 관계자는 \"공공기관 폐쇄망에서도 AI를 안전하게 활용할 수 있음을 입증한 데...",
+          "src": "ZDNet코리아",
           "date": "10/02",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=341687",
-          "img": "http://www.ikld.kr/image/logo/snslogo_20210105105717.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002439703?sid=105",
+          "img": "https://image.zdnet.co.kr/2025/02/06/32ff9057e54f69f23b516c5fbec58894.jpg"
         },
         {
-          "title": "쿠팡, 식품·뷰티 등 '로켓직구 유럽' 출범…현지 브랜드 무료배송",
-          "desc": "허브 기반 제품 개발에 강점을 보유해, 주요 제품을 스위스에서 생산하며 자체 허브 추출 기술과 연구... 한편 쿠팡은 최근 주요 카테고리에 인공지능(AI)를 활용한 '상품 한눈에 보기' 기능을 도입했다. 고객은 상품...",
-          "src": "더팩트",
+          "title": "전지환 베슬AI CTO “MLOps 넘어 네오클라우드로 사업 강화··· 목표는 ...",
+          "desc": "복합적으로 활용해야 하지만 사후학습은 어느 곳에서 서비스되든 관리할 수 있어서 상대적으로 자유롭게 배치하고 균형을 잡는다”라고 말했다. 베슬AI, 에이전틱 AI 기반으로 차세대 스케쥴링 기법도 도입 中 넓은...",
+          "src": "동아일보",
           "date": "10/02",
-          "url": "https://n.news.naver.com/mnews/article/629/0000538841?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/10/02/202679281790897797.png"
+          "url": "https://it.donga.com/109640/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/10/2/a52c603af915475a-thumbnail-1920x1080-70.jpg"
         },
         {
-          "title": "공공부문 AI 윤리기준 마련…\"최종 책임·통제는 사람\"",
-          "desc": "행정안전부는 공공부문의 AI 도입 확대에 따라 신뢰할 수 있는 AI 활용을 위한 '공공부문 인공지능 윤리기준... 윤리기준은 '행정 혁신 촉진'과 '국민 신뢰 구축'을 목표로 국민·행정·기술의 세 가지 관점에서 ▲공공성...",
-          "src": "korea",
+          "title": "\"공격과 방어는 동전의 양면\"…허재영 세종대 경영학부 교수, '실전 핀테...",
+          "desc": "세종대학교(총장 엄종화)는 허재영 경영학부 교수가 2일 핀테크 산업의 혁신 기술과 금융 리스크 관리를... (Orange)'를 도입해 독자가 직접 AI 신용평가 모델 구축, 이상거래 탐지시스템(FDS) 설계, 위험가치(VaR) 산출 등을...",
+          "src": "dailysmart",
           "date": "10/02",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972891&call_from=naver_news",
-          "img": "https://www.korea.kr/newsWeb/resources/attaches/2026.10/01/7aa6cfc6194e299a5d8c53f1c90dbf25.jpg"
+          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130598",
+          "img": "https://cdn.dailysmart.co.kr/news/photo/202610/130598_129893_3557.jpg"
         },
         {
-          "title": "SBVA, 데이터브릭스에 투자...AI 중심 글로벌 투자 확대",
-          "desc": "SBVA는 AI 도입이 확대될수록 데이터를 효과적으로 관리하고 활용하는 기술의 중요성이 커지고 있다고 판단해 이번 투자를 결정했다. 데이터브릭스가 기업 데이터를 다양한 AI 모델과 연결할 수 있는 플랫폼을...",
-          "src": "newstopkorea",
+          "title": "현대건설 '사용후핵연료 처분' 굴착장비 개발...실증 마쳐",
+          "desc": "실증 과정에서는 AI 기술을 도입해 굴진 데이터를 실시간으로 분석하고 최적의 굴착 조건을 적용했다. 굴착 완료 후에는 라이다(LiDAR) 기반 디지털 매핑 기술을 활용해 시공 품질을 다각도로 평가하고 정밀도를...",
+          "src": "팝콘뉴스",
           "date": "10/02",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47971",
-          "img": "https://cdn.newstopkorea.com/news/photo/202610/47971_49224_422.png"
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=134843",
+          "img": "https://cdn.popcornnews.net/news/thumbnail/202610/134843_160744_3757_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성, 갤S27 부품 양산 돌입...모델 늘지만 '리유즈'는 수익성 변수",
+          "desc": "이는 부품협력사 수익에 영향을 줄 수 있다. 삼성전자가 갤럭시S27 시리즈를 4종으로 늘린 배경에는 애플 아이폰 출시 전략 변화도 있는 것으로 알려졌다. 애플이 지난해까지 하반기에만 아이폰 신제품을 출시했지만...",
+          "src": "ZDNet코리아",
+          "date": "10/02",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439691?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/02/3bfcbcf0c07b23d57a39c9e9bca1f215.png"
+        },
+        {
+          "title": "[단독] '고육지책' 머스크, 테슬라 AI5 칩 램 72GB 축소…옵티머스 양산...",
+          "desc": "AI5는 삼성전자와 대만 TSMC가 각각 미국 텍사스 테일러 팹과 애리조나 팹에서 2나노미터(nm) 공정을 통해... 실제로 테슬라는 최근 글로벌 제조업 핵심 기지인 중국 창장삼각주 지역을 찾아 협력사 실사를 진행하는...",
+          "src": "더구루",
+          "date": "10/02",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107806",
+          "img": "https://www.theguru.co.kr/data/photos/20261040/art_17909024632542_4450e2.jpg"
+        },
         {
           "title": "삼성과 애플, 폴더블폰 '4대3 전장'서 맞붙다 [IT+]",
           "desc": "삼성전자가 늘어난 수요에 맞춰 부품 협력사에 100만대 규모의 추가 주문을 넣으며 연간 생산 계획을 380만대 수준까지 끌어올린 것도 눈길을 끈다. 이 때문인지 갤럭시Z8 시리즈 판매량이 올해 500만대에 달할 거란...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/01",
           "url": "https://www.g-enews.com/view.php?ud=202610010946524166fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100109575400451fbbec65dfb22210812861.jpg"
-        },
-        {
-          "title": "삼성·SK, 이달 'SEDEX'서 맞붙는다…차세대 HBM 공개 주목",
-          "desc": "이와 함께 한국반도체산업협회장을 맡고 있는 송재혁 삼성전자 디바이스솔루션(DS)부문 최고기술책임자(CTO) 사장은 오는 14일 기조연설에 나선다. 소재·부품·장비 협력사들과의 비즈니스 미팅도 진행할 것으로...",
-          "src": "iminju",
-          "date": "10/01",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=170204",
-          "img": "https://cdn.iminju.net/news/thumbnail/202610/170204_180885_4120_v150.jpg"
-        },
-        {
-          "title": "삼전·닉스, 이달 '국내 최대 반도체 전시회'서 격돌…\"차세대 HBM 기술...",
-          "desc": "한국반도체산업협회장인 송재혁 삼성전자 디바이스솔루션(DS)부문 최고기술책임자(CTO) 사장은 행사 첫날 기조연설에 나설 것으로 보인다. 송 사장은 행사장 부스 투어를 통해 소부장(소재·부품·장비) 협력사들과...",
-          "src": "뉴시스",
-          "date": "10/01",
-          "url": "https://n.news.naver.com/mnews/article/003/0014225307?sid=101",
-          "img": "https://img1.newsis.com/2025/10/22/NISI20251022_0001972084_web.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 분기 영업이익 100조 시대…\"주주환원 주가 올릴 것\"-IBK",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421398?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100208093595178_1.jpg"
+      "title": "[기획] 800조 반도체가 바꿀 광주·전남…공장 넘어 ‘산업·생활지도’...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261002020151706",
+      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261002.6fe073613f514eae9f2efd36587236a4_R.jpg"
     },
     {
-      "title": "롯데하이마트-마리오아울렛 '이사·웨딩 페스티벌' '청소기 브랜드 대전...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=319118",
-      "img": "http://www.wsobi.com/news/photo/202610/319118_189934_332.jpg"
+      "title": "[위클리오늘] 롯데하이마트, GS리테일,(10.2)",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=796790",
+      "img": "https://cdn.weeklytoday.com/news/thumbnail/202610/796790_988482_5119_v150.jpg"
     },
     {
-      "title": "500만원대 가사 로봇 등장…프리미엄 가전 가격대로 내려온 가사 로봇",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001711?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/6BJSWGPIXVCFDKZUA4SEUT6GOI.jpg?auth=12da8f573a174b67b209c44e00f238535f2c2895836cd556c94ef1238378a060&width=1090&height=572&focal=331,207"
+      "title": "가전 팔고 끝 아니다…롯데하이마트·삼성·LG·쿠팡 ‘수리 전쟁’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163576?sid=101",
+      "img": "https://www.segye.com/content/image/2026/10/02/20261002506168.jpg"
     },
     {
-      "title": "롯데하이마트, 10월 할인전…이사·혼수 가전 최대 540만원 혜택",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2002121",
-      "img": "https://cdn.m-i.kr/news/photo/202610/2002121_2001826_3257.jpg"
+      "title": "[유통소식] 롯데마트·슈퍼, '청년농부 팝업스토어'",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2119079",
+      "img": "https://cdn.4th.kr/news/thumbnail/202610/2119079_219232_5733_v150.jpg"
     },
     {
-      "title": "환경산업기술원, 기후부 산하 첫 AI 윤리 준수기관 마크 획득",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=341687",
-      "img": "http://www.ikld.kr/image/logo/snslogo_20210105105717.jpg"
+      "title": "더존비즈온, 서울시 행정에 '실행형 AI' 심는다…공공 AX 확대",
+      "url": "https://n.news.naver.com/mnews/article/092/0002439703?sid=105",
+      "img": "https://image.zdnet.co.kr/2025/02/06/32ff9057e54f69f23b516c5fbec58894.jpg"
     },
     {
-      "title": "쿠팡, 식품·뷰티 등 '로켓직구 유럽' 출범…현지 브랜드 무료배송",
-      "url": "https://n.news.naver.com/mnews/article/629/0000538841?sid=101",
-      "img": "https://img.tf.co.kr/article/home/2026/10/02/202679281790897797.png"
+      "title": "전지환 베슬AI CTO “MLOps 넘어 네오클라우드로 사업 강화··· 목표는 ...",
+      "url": "https://it.donga.com/109640/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/10/2/a52c603af915475a-thumbnail-1920x1080-70.jpg"
     }
   ]
 };
