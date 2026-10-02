@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.02 (금) 21:40",
+  "updatedAt": "2026.10.03 (토) 04:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -29,28 +29,28 @@ window.NEWS_DATA = {
           "img": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.f66c9321c6844a9d90e87952dc6b6045_P1.jpg"
         },
         {
+          "title": "로봇청소기 센서 오류 전 닦을 곳",
+          "desc": "삼성전자 안내는 마른 극세사 천으로 센서를 닦도록 하고, LG전자 로봇청소기 안내도 부드러운 천이나 면봉을 사용하도록 설명한다. 긁히지 않게 문지르고 세정액이나 시너·아세톤 같은 용제는 센서에 사용하지 않는다....",
+          "src": "vegannews",
+          "date": "10/03",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=390707",
+          "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909634993234.jpg"
+        },
+        {
           "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
-          "desc": "삼성전자와 LG전자가 가전 구독 시장을 놓고 경쟁을 본격화하고 있다. 가전을 한 번 팔고 끝내는 기존 판매... 반면 NIQ는 로봇 청소기, 올인원 세탁 건조기, AI IT기기 등의 소비자 수요는 늘고 있다고 분석했다. AI 기능과...",
+          "desc": "삼성 AI 구독은 냉장고와 TV, 세탁기, 건조기 등 가전을 매월 일정 금액을 내고 이용하면서 상품에 따라 ‘무상수리’와 ‘전문 케어 서비스를 함께 받을 수 있는 방식이다. 삼성전자는 이번 개편을 통해 구독 사업의...",
           "src": "이데일리",
           "date": "10/02",
           "url": "https://n.news.naver.com/mnews/article/018/0006379832?sid=101",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "“오이 껍질 마르지 않게”…종이에 싸 10℃ 안팎 냉장 보관",
-          "desc": "삼성전자서비스도 자사 냉장고의 경우 냉장실 안쪽 벽면에서 나오는 냉기가 수분 많은 식품을 얼릴 수 있어 채소·과일은 채소 서랍에 두도록 안내한다. 냉장고마다 구조와 온도 설정이 다르므로 오이는 종이에 감싸...",
+          "title": "세제 뚜껑 가득 넣으면 될까? 빨래 무게·농축도 맞춰야",
+          "desc": "삼성전자는 일부 세탁기의 자동 세제 투입 기능이 세탁물 무게와 오염도에 맞춰 세제를 넣는다고 안내한다. 세제 포장에 표기된 표준 사용량표에서 빨래 양에 해당하는 기준을 먼저 찾는다. 퍼실 FAQ는 자사 제품의 권장...",
           "src": "vegannews",
-          "date": "10/02",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=390492",
-          "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909347651911.jpg"
-        },
-        {
-          "title": "롯데하이마트, 가전 묶음부터 소형가전까지 10월 할인전",
-          "desc": "삼성전자와 LG전자, 다이슨, 쿠쿠, 로보락 등 5개 브랜드의 행사 대상 로봇청소기를 건타입 청소기 행사상품과 함께 구매하면 5만원을 추가 할인한다. 가을철 러닝 수요를 겨냥한 '러닝 부스트 세일'도 진행한다....",
-          "src": "finomy",
-          "date": "10/02",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=262859",
-          "img": "https://cdn.finomy.com/news/thumbnail/202610/262859_257415_354_v150.jpg"
+          "date": "10/03",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=390642",
+          "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909547516676.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "별빛 아래 펼쳐지는 역사와 문화...고양 '행주가(街) 예술이야(夜)' 9일...",
-          "desc": "문화재 활용 축제다. 올해는 기존의 5야(夜)(야경·야사·야로·야시·야설)에 야화(夜畵)와 야식(夜食)을... 올해 새로 도입된 야화(夜畵) '그린 행주별밤'은 고양 8경을 AI 영상 기술로 재해석한 작품을 대형 스크린으로...",
-          "src": "mediafine",
-          "date": "10/02",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=91491",
-          "img": "https://cdn.mediafine.co.kr/news/photo/202610/91491_130198_3258.jpg"
+          "title": "안양시, '시민 설계 AI 미래도시' 민관협치 토론회 개최…취약계층 돌봄...",
+          "desc": "첨단 기술 정책에 대해 예리한 의견을 개진할 수 있도록 혁신적인 프로세스를 도입했다. 시는 토론회 개최 전... 최대호 안양시장은 \"이미 우리의 평범한 일상생활 속에서 깊숙이 활용되고 있는 인공지능(AI) 첨단 기술을...",
+          "src": "CNB뉴스",
+          "date": "10/03",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018061",
+          "img": "https://cdn.cnbnews.com/news/photo/202610/1018061_520081_594.jpg"
         },
         {
-          "title": "서울시의회 국민의힘, 'AI 시대 청년위기 대응' 토론회…\"끊어진 AI 사다...",
-          "desc": "토론회에서는 AI 기술 확산에 따라 청년층의 취업 환경이 변화하는 가운데 공공 차원의 AI 활용 기회를... 기조 발제에 나선 봉강호 소프트웨어정책연구소 선임연구원과 박정호 연세대 교수는 AI 도입으로 청년들의 첫...",
-          "src": "fntoday",
-          "date": "10/02",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394476",
-          "img": "https://cdn.fntoday.co.kr/news/thumbnail/202610/394476_318550_3015_v150.jpg"
+          "title": "[사설] KBW 2026 총평 - AI 시대에 블록체인의 쓸모를 증명해야 한다",
+          "desc": "큰 회사의 개발팀뿐 아니라 AI를 활용하는 개인도 기술을 가져다 쓰는 사람이 된다. 업계는 이들이 쉽게... 실제 서비스 도입과 거래로 이어지는지 봐야 한다. 지난해 본지는 총평에서 큰 인파와 수많은 행사를...",
+          "src": "tokenpost",
+          "date": "10/03",
+          "url": "https://www.tokenpost.kr/news/insights/417659",
+          "img": "https://www.tokenpost.kr/uploads/2026/10/lqfygfemrk.png"
         },
         {
-          "title": "국산 AI반도체, 한전 변전소서 실전 검증···리벨리온 NPU 투입",
-          "desc": "최적화와 기술지원을 맡는다. TTA는 전력 현장의 운영 환경을 반영해 성능과 신뢰성을 검증한다. 이번 실증에는 국산 AI반도체 성능평가 지표인 'K-Perf'가 처음으로 실제 도입 과정에 활용된다. K-Perf는 AI반도체를...",
-          "src": "enewstoday",
-          "date": "10/02",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476878",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2476878_1320531_135_v150.jpg"
+          "title": "中 추격에 AI 꺼낸 K-디스플레이… 한국디스플레이산업협회 \"투자 지원...",
+          "desc": "AI를 활용한 제조 혁신은 새로운 경쟁축으로 떠올랐다. 중국 기업들이 제조 전 공정에 AI 도입을 확대하면서 생산성과 원가 효율, 개발 속도 등을 끌어올리는 경쟁이 본격화되고 있다는 분석이다. 한철종 한국전자기술연...",
+          "src": "biztribune",
+          "date": "10/03",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=359916",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/359916_265650_5739_v150.jpg"
         },
         {
-          "title": "한국전력, 전력 분야 AI 영상 분석 강화…리벨리온·TTA와 3자 협약",
-          "desc": "| 내외경제TV=김슬빈 기자 | 한국전력이 리벨리온, 한국정보통신기술협회(TTA)와 전력 분야 AI 영상 분석 기술 협력을 위한 3자 업무협약을 체결했다고 2일 밝혔다. 협약에 따라 한국전력은 현장 적용 및 활용 모델을...",
-          "src": "nbntv",
-          "date": "10/02",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025666",
-          "img": "https://cdn.nbntv.co.kr/news/photo/202610/4025666_300340_2218.jpg"
+          "title": "AI가 예측·생성 비용 낮출수록, 판단의 무게는 커진다",
+          "desc": "이러한 기준 없이 기술 도입에만 머무는 것이 AI가 성과로 이어지지 못하는 중요한 이유 가운데 하나다. “AI를 전사적으로 활용하라”는 지시만 내려오면 각 부서는 회의록 요약이나 보고서 초안처럼 쉽고 눈에 띄는...",
+          "src": "중앙일보",
+          "date": "10/03",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056757?sid=105",
+          "img": ""
         }
       ]
     },
@@ -182,29 +182,29 @@ window.NEWS_DATA = {
       "img": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.f66c9321c6844a9d90e87952dc6b6045_P1.jpg"
     },
     {
+      "title": "로봇청소기 센서 오류 전 닦을 곳",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=390707",
+      "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909634993234.jpg"
+    },
+    {
       "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
       "url": "https://n.news.naver.com/mnews/article/018/0006379832?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "“오이 껍질 마르지 않게”…종이에 싸 10℃ 안팎 냉장 보관",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=390492",
-      "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909347651911.jpg"
+      "title": "세제 뚜껑 가득 넣으면 될까? 빨래 무게·농축도 맞춰야",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=390642",
+      "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909547516676.jpg"
     },
     {
-      "title": "롯데하이마트, 가전 묶음부터 소형가전까지 10월 할인전",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=262859",
-      "img": "https://cdn.finomy.com/news/thumbnail/202610/262859_257415_354_v150.jpg"
+      "title": "안양시, '시민 설계 AI 미래도시' 민관협치 토론회 개최…취약계층 돌봄...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018061",
+      "img": "https://cdn.cnbnews.com/news/photo/202610/1018061_520081_594.jpg"
     },
     {
-      "title": "별빛 아래 펼쳐지는 역사와 문화...고양 '행주가(街) 예술이야(夜)' 9일...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=91491",
-      "img": "https://cdn.mediafine.co.kr/news/photo/202610/91491_130198_3258.jpg"
-    },
-    {
-      "title": "서울시의회 국민의힘, 'AI 시대 청년위기 대응' 토론회…\"끊어진 AI 사다...",
-      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394476",
-      "img": "https://cdn.fntoday.co.kr/news/thumbnail/202610/394476_318550_3015_v150.jpg"
+      "title": "[사설] KBW 2026 총평 - AI 시대에 블록체인의 쓸모를 증명해야 한다",
+      "url": "https://www.tokenpost.kr/news/insights/417659",
+      "img": "https://www.tokenpost.kr/uploads/2026/10/lqfygfemrk.png"
     }
   ]
 };
