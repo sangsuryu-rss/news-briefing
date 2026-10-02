@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.03 (토) 04:21",
+  "updatedAt": "2026.10.03 (토) 08:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[인터뷰]“로봇도 가족처럼…정서적 유대감 주는 ‘AI홈’ 만들 것”[중...",
-          "desc": "김 센터장은 삼성전자에서 모바일 디자인을 담당한 뒤 미국 모토로라 모빌리티 등에서 제품 디자인과... SK인텔릭스는 지난해 7월 SK매직에서 현재의 사명으로 변경하고 기존 가전 중심에서 AI 기반 웰니스 플랫폼...",
-          "src": "헤럴드경제",
-          "date": "10/02",
-          "url": "https://n.news.naver.com/mnews/article/016/0002705049?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.f66c9321c6844a9d90e87952dc6b6045_P1.jpg"
+          "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
+          "desc": "삼성전자는 파운드리 사업의 적자와 가전·모바일 부문의 수익성 저하가 부담이다. SK하이닉스는 HBM4 품질과 해외 투자 확대에 대한 우려가 제기된다. 전문가들은 특정 목표주가보다 자신의 계좌에서 두 종목이...",
+          "src": "한국경제",
+          "date": "10/03",
+          "url": "https://n.news.naver.com/mnews/article/015/0005338843?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/01.45901163.1.jpg"
         },
         {
-          "title": "로봇청소기 센서 오류 전 닦을 곳",
-          "desc": "삼성전자 안내는 마른 극세사 천으로 센서를 닦도록 하고, LG전자 로봇청소기 안내도 부드러운 천이나 면봉을 사용하도록 설명한다. 긁히지 않게 문지르고 세정액이나 시너·아세톤 같은 용제는 센서에 사용하지 않는다....",
-          "src": "vegannews",
+          "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
+          "desc": "삼성전자는 인공지능(AI)과 케어 서비스를 결합한 구독을 기업간거래(B2B)로까지 확대하고 나섰다. 가전업체... 실제 로봇청소기를 주력으로 판매하는 한 업체도 유통사를 통한 렌털 상품을 운영하는 데 더해 자체 구독...",
+          "src": "뉴스1",
           "date": "10/03",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=390707",
-          "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909634993234.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
         },
         {
           "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "세제 뚜껑 가득 넣으면 될까? 빨래 무게·농축도 맞춰야",
-          "desc": "삼성전자는 일부 세탁기의 자동 세제 투입 기능이 세탁물 무게와 오염도에 맞춰 세제를 넣는다고 안내한다. 세제 포장에 표기된 표준 사용량표에서 빨래 양에 해당하는 기준을 먼저 찾는다. 퍼실 FAQ는 자사 제품의 권장...",
-          "src": "vegannews",
+          "title": "삼성메디슨, 카자흐 가전공장서 초음파기기 생산… 중앙亞 의료기지 구...",
+          "desc": "삼성전자의 의료기기 전문 자회사 삼성메디슨이 카자흐스탄에서 삼성 브랜드 가전제품을 조립·생산하는... 공장에서 삼성 브랜드의 TV와 세탁기 등 주요 가전제품을 위탁 생산하고 있다. 이번 사업 확장을 통해...",
+          "src": "the-today",
           "date": "10/03",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=390642",
-          "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909547516676.jpg"
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91138",
+          "img": "https://cdn.the-today.com/news/photo/202610/91138_112604_747.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "안양시, '시민 설계 AI 미래도시' 민관협치 토론회 개최…취약계층 돌봄...",
-          "desc": "첨단 기술 정책에 대해 예리한 의견을 개진할 수 있도록 혁신적인 프로세스를 도입했다. 시는 토론회 개최 전... 최대호 안양시장은 \"이미 우리의 평범한 일상생활 속에서 깊숙이 활용되고 있는 인공지능(AI) 첨단 기술을...",
-          "src": "CNB뉴스",
+          "title": "은행 채용도 'AI 중심'···신입 줄이고 전문인력 골라 뽑는다",
+          "desc": "KB국민은행은 지난해부터 영업 현장과 고객 응대 등에 에이전틱 AI를 도입했으며 올해 말까지 그룹 주요 59개... AI 활용 범위를 넓히고 있다. AI가 일부 디지털 부서에 국한된 기술이 아니라 은행의 영업과 업무 프로세스...",
+          "src": "sisajournal-e",
           "date": "10/03",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018061",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1018061_520081_594.jpg"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424090",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424090_240428_3036_v150.jpg"
         },
         {
-          "title": "[사설] KBW 2026 총평 - AI 시대에 블록체인의 쓸모를 증명해야 한다",
-          "desc": "큰 회사의 개발팀뿐 아니라 AI를 활용하는 개인도 기술을 가져다 쓰는 사람이 된다. 업계는 이들이 쉽게... 실제 서비스 도입과 거래로 이어지는지 봐야 한다. 지난해 본지는 총평에서 큰 인파와 수많은 행사를...",
-          "src": "tokenpost",
+          "title": "내 돈인데, AI 때문에 내가 마음대로 쓸 수 없다면",
+          "desc": "디지털화폐 활용성 테스트입니다. 정부는 2030년까지 국고금의 4분의 1을 한국은행 디지털화폐 시스템을... 국민이 기술과 시스템의 통제 아래 놓여서는 안 됩니다. 박순형 목사 웨이크신학원 교수 ‘AI 시대 과학과 성경’...",
+          "src": "christiantoday",
           "date": "10/03",
-          "url": "https://www.tokenpost.kr/news/insights/417659",
-          "img": "https://www.tokenpost.kr/uploads/2026/10/lqfygfemrk.png"
+          "url": "https://www.christiantoday.co.kr/news/377701",
+          "img": "https://images.christiantoday.co.kr/data/images/full/390912/image.jpg"
         },
         {
-          "title": "中 추격에 AI 꺼낸 K-디스플레이… 한국디스플레이산업협회 \"투자 지원...",
-          "desc": "AI를 활용한 제조 혁신은 새로운 경쟁축으로 떠올랐다. 중국 기업들이 제조 전 공정에 AI 도입을 확대하면서 생산성과 원가 효율, 개발 속도 등을 끌어올리는 경쟁이 본격화되고 있다는 분석이다. 한철종 한국전자기술연...",
-          "src": "biztribune",
+          "title": "공장 차지하는 휴머노이드, 내 일자리에 위협? 기회?",
+          "desc": "대체하기엔 기술적 장벽이 많이 남아 있다. AI 제작. 장경석 KB금융지주 경영연구소 연구위원은 최근 낸 보고서에서 “휴머노이드 로봇이 일부 산업 현장에서 실질적 성과를 내면서 다수 업종의 생산 라인에서 도입을 검토...",
+          "src": "이데일리",
           "date": "10/03",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=359916",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/359916_265650_5739_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006380001?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300256.jpg"
         },
         {
-          "title": "AI가 예측·생성 비용 낮출수록, 판단의 무게는 커진다",
-          "desc": "이러한 기준 없이 기술 도입에만 머무는 것이 AI가 성과로 이어지지 못하는 중요한 이유 가운데 하나다. “AI를 전사적으로 활용하라”는 지시만 내려오면 각 부서는 회의록 요약이나 보고서 초안처럼 쉽고 눈에 띄는...",
-          "src": "중앙일보",
+          "title": "전력 모자라 석탄 대신 LNG 발전소 늘린다면서 탄소 규제도 강화?",
+          "desc": "포집·활용·저장(CCUS) 기술 등을 적용하는 방안 등이 도입될 것으로 예상하고 있다. 기후에너지환경부... 정부가 LNG 발전 활용도를 높이려는 것은 반도체 클러스터와 인공지능(AI) 데이터센터 등 ‘3대 메가 프로젝트’...",
+          "src": "조선일보",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056757?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/023/0004001932?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/J2FCIAUXYRL3BFIVURHZN22UHI.jpg?auth=c7dabb1df01b3dcd664f974e2b1fec6dc856b7c286858bf6dfa8b328fbd3b168&width=500&height=262&smart=true"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[인터뷰]“로봇도 가족처럼…정서적 유대감 주는 ‘AI홈’ 만들 것”[중...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705049?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.f66c9321c6844a9d90e87952dc6b6045_P1.jpg"
+      "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338843?sid=101",
+      "img": "https://img.hankyung.com/photo/202610/01.45901163.1.jpg"
     },
     {
-      "title": "로봇청소기 센서 오류 전 닦을 곳",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=390707",
-      "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909634993234.jpg"
+      "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
     },
     {
       "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "세제 뚜껑 가득 넣으면 될까? 빨래 무게·농축도 맞춰야",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=390642",
-      "img": "https://www.vegannews.co.kr/data/photos/20261040/art_17909547516676.jpg"
+      "title": "삼성메디슨, 카자흐 가전공장서 초음파기기 생산… 중앙亞 의료기지 구...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=91138",
+      "img": "https://cdn.the-today.com/news/photo/202610/91138_112604_747.png"
     },
     {
-      "title": "안양시, '시민 설계 AI 미래도시' 민관협치 토론회 개최…취약계층 돌봄...",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018061",
-      "img": "https://cdn.cnbnews.com/news/photo/202610/1018061_520081_594.jpg"
+      "title": "은행 채용도 'AI 중심'···신입 줄이고 전문인력 골라 뽑는다",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424090",
+      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424090_240428_3036_v150.jpg"
     },
     {
-      "title": "[사설] KBW 2026 총평 - AI 시대에 블록체인의 쓸모를 증명해야 한다",
-      "url": "https://www.tokenpost.kr/news/insights/417659",
-      "img": "https://www.tokenpost.kr/uploads/2026/10/lqfygfemrk.png"
+      "title": "내 돈인데, AI 때문에 내가 마음대로 쓸 수 없다면",
+      "url": "https://www.christiantoday.co.kr/news/377701",
+      "img": "https://images.christiantoday.co.kr/data/images/full/390912/image.jpg"
     }
   ]
 };
