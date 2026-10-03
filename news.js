@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.03 (토) 14:22",
+  "updatedAt": "2026.10.03 (토) 20:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
-          "desc": "브랜드(삼성전자, LG전자, 다이슨, 쿠쿠, 로보락)의 로봇청소기 행사상품을 건타입 행사상품과 함께 구매 시, 추가 5만원 할인 혜택을 제공한다. 김보경 롯데하이마트 상품본부장은 \"10월에는 이사·혼수 가전 할인을...",
-          "src": "F투데이",
+          "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통...",
+          "desc": "삼성전자와 LG전자 등 가전 구매 고객에게는 결제 조건에 따라 최대 12.5% 수준의 포인트 혜택을, 에이스·씰리·지누스 등 주요 가구 브랜드 구매 고객도 최대 18% 수준의 사은 혜택을 제공한다. 롯데백화점도...",
+          "src": "한국경제",
           "date": "10/03",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005338904?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/ZN.32344315.1.jpg"
+        },
+        {
+          "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
+          "desc": "예슈무하메토프 CTO는 \"10년 전 로봇청소기가 나왔을 때도 누가 사겠느냐고 했지만 지금은 흔한 제품이 됐다... 삼성전자는 내년 세계 최대 IT·가전 박람회 CES 공개를 목표로 자체 휴머노이드를 개발하고 있으며 제조...",
+          "src": "머니투데이",
+          "date": "10/03",
+          "url": "https://n.news.naver.com/mnews/article/008/0005421858?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100307032031843_1.jpg"
         },
         {
           "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "핫도그값 지키던 유통 공룡도 백기… 메모리 폭등에 연말 가전 덮친 '칩...",
-          "desc": "노트북과 모바일 기기를 생산하는 삼성전자 모바일경험사업부와 인공지능 가전을 확대 중인 LG전자는 메모리 매입 단가 인상에 따른 세트 수익성 방어라는 현실적 과제에 직면했다. 부품 단가 상승분을 출고가에...",
-          "src": "g-enews",
+          "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
+          "desc": "'이사·웨딩 페스티벌'은 삼성전자 제품을 중심으로 TV, 냉장고, 세탁기 등 행사 품목을 2개 품목 이상 구매 시 최대 540만원 혜택을 선보인다. 동시 구매 혜택을 통해 '인피니트 냉장고(1도어)'와 '셰프에디션(500L)...",
+          "src": "F투데이",
           "date": "10/03",
-          "url": "https://www.g-enews.com/view.php?ud=202610031215433797fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100312181709801fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
-          "desc": "삼성전자는 인공지능(AI)과 케어 서비스를 결합한 구독을 기업간거래(B2B)로까지 확대하고 나섰다. 가전업체... 실제 로봇청소기를 주력으로 판매하는 한 업체도 유통사를 통한 렌털 상품을 운영하는 데 더해 자체 구독...",
-          "src": "뉴스1",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "챈들러 팡 \"XRP레저 AI에이전트 거래 1100만건 돌파…한국 최적의 시장\"",
-          "desc": "그는 “모든 XRP 보유자가 XRP를 일상적인 거래뿐 아니라 자신의 AI 에이전트를 위해 활용할 수 있도록... 다만 AI가 사람을 대신해 직접 돈을 움직이는 환경에서는 결제 기술만큼 ‘신뢰’가 중요하다고 강조했다....",
-          "src": "이데일리",
+          "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳' [시선'칩'중(...",
+          "desc": "SK하이닉스는 올 하반기 기술사무직 신입 채용부터 학력 제한을 없앴다. 기존 20~30분 면접 대신 반나절 동안 과제 수행과 인터뷰를 진행하는 '반나절 심층면접'을 도입했다. 직무 전문성, 인공지능(AI) 활용 능력, 논리적...",
+          "src": "한국경제",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/018/0006380125?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300472.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005338897?sid=105",
+          "img": "https://img.hankyung.com/photo/202610/ZN.34357034.1.jpg"
         },
         {
-          "title": "서울메트로환경, 홍길식 사장 안전경영 시동",
-          "desc": "IoT와 AI 등 첨단 기술을 활용해 사고 예방과 업무환경 개선을 추진하고, 단순한 비용 절감보다 안전 인프라... 기술 도입 자체보다 실제 작업 과정에서 위험 요소를 얼마나 조기에 파악하고 줄일 수 있는지가 향후 안전경영...",
-          "src": "핀포인트뉴스",
+          "title": "[테크 포커스] 인형 탈 쓴 닷츠·졸리·클로드…아이들 빠져들게 만드는...",
+          "desc": "앤트로픽은 개발자용 코딩 도구 '클로드 코드'에 픽셀그래픽 게 캐릭터 '클로드'를 도입했으며, 이 캐릭터의 봉제 인형이 일부 온라인 상점에서 150달러에 판매되고 있다. 이 같은 캐릭터 마케팅은 AI 기술에 대한 우려와...",
+          "src": "cbci",
           "date": "10/03",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492458",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492458_478192_5957_v150.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612202",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/612202_420337_3717_v150.jpg"
         },
         {
-          "title": "코스닥 노크하는 뱅샐, 유니콘 다리 놓는 Npay [핀테크 톡톡]",
-          "desc": "AI 기반 금융플랫폼으로 성장해 왔다. 2017년 국내 최초로 금융 마이데이터 개념을 자산관리 서비스에 도입... 'Npay 스타트업'은 혁신 기술을 갖춘 스타트업·벤처기업과 투자자를 연결하는 투자 플랫폼으로...",
-          "src": "m-i",
+          "title": "리플, '엑스알피 서울 2026'서 토큰화 예금·RWA 논의",
+          "desc": "논의하면서 'XRPL' 활용 논의가 기술 자체보다 실제 금융 업무와 맞닿는 단계로 이동 중이다. 'XRPL' 관련... 블록체인 도입, 온체인 활용 사례를 주요 주제로 한다. 엑스알피 레저 코리아는 국내 기관과 기업의 'XRPL...",
+          "src": "khgames",
           "date": "10/03",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2002449",
-          "img": "https://cdn.m-i.kr/news/photo/202610/2002449_2002171_3626.png"
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309007",
+          "img": "https://cdn.khgames.co.kr/news/photo/202610/309007_316350_2259.jpeg"
         },
         {
-          "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명...",
-          "desc": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해...",
-          "src": "AI타임스",
+          "title": "나스닥에 깜짝 진출한 한국계 재난 플랫폼 '로제AI' 화제",
+          "desc": "1970년대 광학식 연기감지기 도입, 1990년대 자동화 화재알림 시스템의 보급 등 기술적 진보가 없었던 것은 아니나, 이 모든 기술 역시 '화재 발생 이후'의 골든타임을 단 수분 단축하는 데 목적이 있었다. 그러나 로제AI...",
+          "src": "ilemonde",
           "date": "10/03",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215931",
-          "img": "https://cdn.aitimes.com/news/photo/202610/215931_219894_5821.png"
+          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30739",
+          "img": "https://cdn.ilemonde.com/news/photo/202610/30739_51702_3115.png"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
+      "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338904?sid=101",
+      "img": "https://img.hankyung.com/photo/202610/ZN.32344315.1.jpg"
+    },
+    {
+      "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421858?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100307032031843_1.jpg"
     },
     {
       "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "핫도그값 지키던 유통 공룡도 백기… 메모리 폭등에 연말 가전 덮친 '칩...",
-      "url": "https://www.g-enews.com/view.php?ud=202610031215433797fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100312181709801fbbec65dfb211211153121.jpg"
+      "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
     },
     {
-      "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
+      "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳' [시선'칩'중(...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338897?sid=105",
+      "img": "https://img.hankyung.com/photo/202610/ZN.34357034.1.jpg"
     },
     {
-      "title": "챈들러 팡 \"XRP레저 AI에이전트 거래 1100만건 돌파…한국 최적의 시장\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380125?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300472.jpg"
-    },
-    {
-      "title": "서울메트로환경, 홍길식 사장 안전경영 시동",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492458",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492458_478192_5957_v150.jpg"
+      "title": "[테크 포커스] 인형 탈 쓴 닷츠·졸리·클로드…아이들 빠져들게 만드는...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612202",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/612202_420337_3717_v150.jpg"
     }
   ]
 };
