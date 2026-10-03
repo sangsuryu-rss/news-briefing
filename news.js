@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.03 (토) 08:48",
+  "updatedAt": "2026.10.03 (토) 14:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
-          "desc": "삼성전자는 파운드리 사업의 적자와 가전·모바일 부문의 수익성 저하가 부담이다. SK하이닉스는 HBM4 품질과 해외 투자 확대에 대한 우려가 제기된다. 전문가들은 특정 목표주가보다 자신의 계좌에서 두 종목이...",
-          "src": "한국경제",
+          "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
+          "desc": "브랜드(삼성전자, LG전자, 다이슨, 쿠쿠, 로보락)의 로봇청소기 행사상품을 건타입 행사상품과 함께 구매 시, 추가 5만원 할인 혜택을 제공한다. 김보경 롯데하이마트 상품본부장은 \"10월에는 이사·혼수 가전 할인을...",
+          "src": "F투데이",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338843?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/01.45901163.1.jpg"
-        },
-        {
-          "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
-          "desc": "삼성전자는 인공지능(AI)과 케어 서비스를 결합한 구독을 기업간거래(B2B)로까지 확대하고 나섰다. 가전업체... 실제 로봇청소기를 주력으로 판매하는 한 업체도 유통사를 통한 렌털 상품을 운영하는 데 더해 자체 구독...",
-          "src": "뉴스1",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
         },
         {
           "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -45,12 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "삼성메디슨, 카자흐 가전공장서 초음파기기 생산… 중앙亞 의료기지 구...",
-          "desc": "삼성전자의 의료기기 전문 자회사 삼성메디슨이 카자흐스탄에서 삼성 브랜드 가전제품을 조립·생산하는... 공장에서 삼성 브랜드의 TV와 세탁기 등 주요 가전제품을 위탁 생산하고 있다. 이번 사업 확장을 통해...",
-          "src": "the-today",
+          "title": "핫도그값 지키던 유통 공룡도 백기… 메모리 폭등에 연말 가전 덮친 '칩...",
+          "desc": "노트북과 모바일 기기를 생산하는 삼성전자 모바일경험사업부와 인공지능 가전을 확대 중인 LG전자는 메모리 매입 단가 인상에 따른 세트 수익성 방어라는 현실적 과제에 직면했다. 부품 단가 상승분을 출고가에...",
+          "src": "g-enews",
           "date": "10/03",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=91138",
-          "img": "https://cdn.the-today.com/news/photo/202610/91138_112604_747.png"
+          "url": "https://www.g-enews.com/view.php?ud=202610031215433797fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100312181709801fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
+          "desc": "삼성전자는 인공지능(AI)과 케어 서비스를 결합한 구독을 기업간거래(B2B)로까지 확대하고 나섰다. 가전업체... 실제 로봇청소기를 주력으로 판매하는 한 업체도 유통사를 통한 렌털 상품을 운영하는 데 더해 자체 구독...",
+          "src": "뉴스1",
+          "date": "10/03",
+          "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "은행 채용도 'AI 중심'···신입 줄이고 전문인력 골라 뽑는다",
-          "desc": "KB국민은행은 지난해부터 영업 현장과 고객 응대 등에 에이전틱 AI를 도입했으며 올해 말까지 그룹 주요 59개... AI 활용 범위를 넓히고 있다. AI가 일부 디지털 부서에 국한된 기술이 아니라 은행의 영업과 업무 프로세스...",
-          "src": "sisajournal-e",
-          "date": "10/03",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424090",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424090_240428_3036_v150.jpg"
-        },
-        {
-          "title": "내 돈인데, AI 때문에 내가 마음대로 쓸 수 없다면",
-          "desc": "디지털화폐 활용성 테스트입니다. 정부는 2030년까지 국고금의 4분의 1을 한국은행 디지털화폐 시스템을... 국민이 기술과 시스템의 통제 아래 놓여서는 안 됩니다. 박순형 목사 웨이크신학원 교수 ‘AI 시대 과학과 성경’...",
-          "src": "christiantoday",
-          "date": "10/03",
-          "url": "https://www.christiantoday.co.kr/news/377701",
-          "img": "https://images.christiantoday.co.kr/data/images/full/390912/image.jpg"
-        },
-        {
-          "title": "공장 차지하는 휴머노이드, 내 일자리에 위협? 기회?",
-          "desc": "대체하기엔 기술적 장벽이 많이 남아 있다. AI 제작. 장경석 KB금융지주 경영연구소 연구위원은 최근 낸 보고서에서 “휴머노이드 로봇이 일부 산업 현장에서 실질적 성과를 내면서 다수 업종의 생산 라인에서 도입을 검토...",
+          "title": "챈들러 팡 \"XRP레저 AI에이전트 거래 1100만건 돌파…한국 최적의 시장\"",
+          "desc": "그는 “모든 XRP 보유자가 XRP를 일상적인 거래뿐 아니라 자신의 AI 에이전트를 위해 활용할 수 있도록... 다만 AI가 사람을 대신해 직접 돈을 움직이는 환경에서는 결제 기술만큼 ‘신뢰’가 중요하다고 강조했다....",
           "src": "이데일리",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/018/0006380001?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300256.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006380125?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300472.jpg"
         },
         {
-          "title": "전력 모자라 석탄 대신 LNG 발전소 늘린다면서 탄소 규제도 강화?",
-          "desc": "포집·활용·저장(CCUS) 기술 등을 적용하는 방안 등이 도입될 것으로 예상하고 있다. 기후에너지환경부... 정부가 LNG 발전 활용도를 높이려는 것은 반도체 클러스터와 인공지능(AI) 데이터센터 등 ‘3대 메가 프로젝트’...",
-          "src": "조선일보",
+          "title": "서울메트로환경, 홍길식 사장 안전경영 시동",
+          "desc": "IoT와 AI 등 첨단 기술을 활용해 사고 예방과 업무환경 개선을 추진하고, 단순한 비용 절감보다 안전 인프라... 기술 도입 자체보다 실제 작업 과정에서 위험 요소를 얼마나 조기에 파악하고 줄일 수 있는지가 향후 안전경영...",
+          "src": "핀포인트뉴스",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/023/0004001932?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/J2FCIAUXYRL3BFIVURHZN22UHI.jpg?auth=c7dabb1df01b3dcd664f974e2b1fec6dc856b7c286858bf6dfa8b328fbd3b168&width=500&height=262&smart=true"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492458",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492458_478192_5957_v150.jpg"
+        },
+        {
+          "title": "코스닥 노크하는 뱅샐, 유니콘 다리 놓는 Npay [핀테크 톡톡]",
+          "desc": "AI 기반 금융플랫폼으로 성장해 왔다. 2017년 국내 최초로 금융 마이데이터 개념을 자산관리 서비스에 도입... 'Npay 스타트업'은 혁신 기술을 갖춘 스타트업·벤처기업과 투자자를 연결하는 투자 플랫폼으로...",
+          "src": "m-i",
+          "date": "10/03",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2002449",
+          "img": "https://cdn.m-i.kr/news/photo/202610/2002449_2002171_3626.png"
+        },
+        {
+          "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명...",
+          "desc": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해...",
+          "src": "AI타임스",
+          "date": "10/03",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215931",
+          "img": "https://cdn.aitimes.com/news/photo/202610/215931_219894_5821.png"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"삼전·하닉 80% 담았는데 어쩌죠?\"…목표주가만 믿었다간",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338843?sid=101",
-      "img": "https://img.hankyung.com/photo/202610/01.45901163.1.jpg"
-    },
-    {
-      "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
+      "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
     },
     {
       "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "삼성메디슨, 카자흐 가전공장서 초음파기기 생산… 중앙亞 의료기지 구...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=91138",
-      "img": "https://cdn.the-today.com/news/photo/202610/91138_112604_747.png"
+      "title": "핫도그값 지키던 유통 공룡도 백기… 메모리 폭등에 연말 가전 덮친 '칩...",
+      "url": "https://www.g-enews.com/view.php?ud=202610031215433797fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100312181709801fbbec65dfb211211153121.jpg"
     },
     {
-      "title": "은행 채용도 'AI 중심'···신입 줄이고 전문인력 골라 뽑는다",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424090",
-      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424090_240428_3036_v150.jpg"
+      "title": "LG 판매 절반, 삼성 B2B까지…'구매의 종말' 가전 구독 판 커진다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207679?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8140182/high.jpg"
     },
     {
-      "title": "내 돈인데, AI 때문에 내가 마음대로 쓸 수 없다면",
-      "url": "https://www.christiantoday.co.kr/news/377701",
-      "img": "https://images.christiantoday.co.kr/data/images/full/390912/image.jpg"
+      "title": "챈들러 팡 \"XRP레저 AI에이전트 거래 1100만건 돌파…한국 최적의 시장\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380125?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300472.jpg"
+    },
+    {
+      "title": "서울메트로환경, 홍길식 사장 안전경영 시동",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492458",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492458_478192_5957_v150.jpg"
     }
   ]
 };
