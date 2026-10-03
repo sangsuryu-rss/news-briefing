@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.03 (토) 20:42",
+  "updatedAt": "2026.10.04 (일) 01:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통...",
-          "desc": "삼성전자와 LG전자 등 가전 구매 고객에게는 결제 조건에 따라 최대 12.5% 수준의 포인트 혜택을, 에이스·씰리·지누스 등 주요 가구 브랜드 구매 고객도 최대 18% 수준의 사은 혜택을 제공한다. 롯데백화점도...",
-          "src": "한국경제",
+          "title": "“주가 27만원? 너무 싸다”…내년에 ‘사상 최고가’ 넘어 46만원 간다...",
+          "desc": "삼성전자 주가가 27만원대를 기록하고 있는 가운데, 현 주가가 저평가돼 있다는 분석이 나왔다. 내년에도... MX·네트워크 사업에서는 매출액 34조3000억원, 영업적자는 1조1000억원 수준으로 예상되며, VD·가전도...",
+          "src": "헤럴드경제",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338904?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/ZN.32344315.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002705231?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/03/news-p.v1.20250317.244cc5fa2e5d4550adffc81f0fca961c_P1.png"
         },
         {
           "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳' [시선'칩'중(...",
-          "desc": "SK하이닉스는 올 하반기 기술사무직 신입 채용부터 학력 제한을 없앴다. 기존 20~30분 면접 대신 반나절 동안 과제 수행과 인터뷰를 진행하는 '반나절 심층면접'을 도입했다. 직무 전문성, 인공지능(AI) 활용 능력, 논리적...",
+          "title": "신작 출시 재개하는 카카오게임즈, '도깨비의세계'로 분기점 만들까",
+          "desc": "자체 개발 AI 챗봇 '묘롱'도 도입했다. 이용자의 플레이 기록과 성장 데이터를 분석해 비슷한 이용자군과... 획득에 활용할 수 있다. 지배구조 변화 속 사업 다각화 '잰걸음' 카카오게임즈가 신작 성과를 확보해야 하는...",
+          "src": "smartbizn",
+          "date": "10/04",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155499",
+          "img": "https://cdn.smartbizn.com/news/photo/202610/155499_262359_4448.jpg"
+        },
+        {
+          "title": "[이병태의 혁신 웨이브 <6>] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
+          "desc": "AI 활용 방식에 따른 생산성 양극화는 이미 시작됐다. 피지컬 AI(Physical AI·자율주행차나 로봇 등 물리 세계에... 범용 기술 도입 초기에는 측정 생산성이 오히려 하락하는 것이 정상이라고 설명한다. 지금 기업이 AI 투자...",
+          "src": "조선일보",
+          "date": "10/04",
+          "url": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html",
+          "img": "https://economychosun.com/site/data/img_dir/2026/09/19/2026091900026_0.jpg"
+        },
+        {
+          "title": "정부, 개인정보 유출·침해사고 더 빠르게 처리...투명성도 높여",
+          "desc": "최근 인공지능(AI) 기술 확산과 함께 개인정보를 대상으로 한 공격이 고도화·지능화하면서 개인정보 유출... 처리절차 도입 ▲조사절차 투명성 제고 ▲조사역량 강화 ▲처리현황 공개 등 5대 과제를 추진한다. ①...",
+          "src": "ZDNet코리아",
+          "date": "10/03",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439777?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/03/3cc754635339364aefd15609ed297a4b.png"
+        },
+        {
+          "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인...",
+          "desc": "여기에 생성형 AI 기술이 본격 도입되면서 기획부터 영상 제작, 성우 더빙에 이르는 과정이 대폭 단축됐다.... 배경에는 AI 기술이 가져온 역설과 기형적인 유통 구조가 자리 잡고 있다. AI를 활용해 촬영 및 편집 비용은...",
           "src": "한국경제",
           "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338897?sid=105",
-          "img": "https://img.hankyung.com/photo/202610/ZN.34357034.1.jpg"
-        },
-        {
-          "title": "[테크 포커스] 인형 탈 쓴 닷츠·졸리·클로드…아이들 빠져들게 만드는...",
-          "desc": "앤트로픽은 개발자용 코딩 도구 '클로드 코드'에 픽셀그래픽 게 캐릭터 '클로드'를 도입했으며, 이 캐릭터의 봉제 인형이 일부 온라인 상점에서 150달러에 판매되고 있다. 이 같은 캐릭터 마케팅은 AI 기술에 대한 우려와...",
-          "src": "cbci",
-          "date": "10/03",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612202",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/612202_420337_3717_v150.jpg"
-        },
-        {
-          "title": "리플, '엑스알피 서울 2026'서 토큰화 예금·RWA 논의",
-          "desc": "논의하면서 'XRPL' 활용 논의가 기술 자체보다 실제 금융 업무와 맞닿는 단계로 이동 중이다. 'XRPL' 관련... 블록체인 도입, 온체인 활용 사례를 주요 주제로 한다. 엑스알피 레저 코리아는 국내 기관과 기업의 'XRPL...",
-          "src": "khgames",
-          "date": "10/03",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309007",
-          "img": "https://cdn.khgames.co.kr/news/photo/202610/309007_316350_2259.jpeg"
-        },
-        {
-          "title": "나스닥에 깜짝 진출한 한국계 재난 플랫폼 '로제AI' 화제",
-          "desc": "1970년대 광학식 연기감지기 도입, 1990년대 자동화 화재알림 시스템의 보급 등 기술적 진보가 없었던 것은 아니나, 이 모든 기술 역시 '화재 발생 이후'의 골든타임을 단 수분 단축하는 데 목적이 있었다. 그러나 로제AI...",
-          "src": "ilemonde",
-          "date": "10/03",
-          "url": "https://www.ilemonde.com/news/articleView.html?idxno=30739",
-          "img": "https://cdn.ilemonde.com/news/photo/202610/30739_51702_3115.png"
+          "url": "https://n.news.naver.com/mnews/article/015/0005338911?sid=105",
+          "img": "https://img.hankyung.com/photo/202610/01.45915188.1.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338904?sid=101",
-      "img": "https://img.hankyung.com/photo/202610/ZN.32344315.1.jpg"
+      "title": "“주가 27만원? 너무 싸다”…내년에 ‘사상 최고가’ 넘어 46만원 간다...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705231?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/03/news-p.v1.20250317.244cc5fa2e5d4550adffc81f0fca961c_P1.png"
     },
     {
       "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
     },
     {
-      "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳' [시선'칩'중(...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338897?sid=105",
-      "img": "https://img.hankyung.com/photo/202610/ZN.34357034.1.jpg"
+      "title": "신작 출시 재개하는 카카오게임즈, '도깨비의세계'로 분기점 만들까",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155499",
+      "img": "https://cdn.smartbizn.com/news/photo/202610/155499_262359_4448.jpg"
     },
     {
-      "title": "[테크 포커스] 인형 탈 쓴 닷츠·졸리·클로드…아이들 빠져들게 만드는...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612202",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202610/612202_420337_3717_v150.jpg"
+      "title": "[이병태의 혁신 웨이브 <6>] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
+      "url": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html",
+      "img": "https://economychosun.com/site/data/img_dir/2026/09/19/2026091900026_0.jpg"
     }
   ]
 };
