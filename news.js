@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.04 (일) 01:20",
+  "updatedAt": "2026.10.04 (일) 06:19",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“주가 27만원? 너무 싸다”…내년에 ‘사상 최고가’ 넘어 46만원 간다...",
-          "desc": "삼성전자 주가가 27만원대를 기록하고 있는 가운데, 현 주가가 저평가돼 있다는 분석이 나왔다. 내년에도... MX·네트워크 사업에서는 매출액 34조3000억원, 영업적자는 1조1000억원 수준으로 예상되며, VD·가전도...",
-          "src": "헤럴드경제",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/016/0002705231?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/03/news-p.v1.20250317.244cc5fa2e5d4550adffc81f0fca961c_P1.png"
+          "title": "‘젊어진’ 삼성전자, 마케팅 문법 변화… “크리에이터로 팬덤 키우고...",
+          "desc": "삼성전자는 작년 독일 베를린에서 열린 유럽 최대 가전·IT 전시회 ‘IFA 2025′에서 크리에이터를 적극 지원한 바 있다. 틱톡 비즈니스에 따르면 삼성전자가 작년 IFA 2025에서 7일 동안 진행한 크리에이터 콘텐츠 연계...",
+          "src": "조선일보",
+          "date": "10/04",
+          "url": "https://n.news.naver.com/mnews/article/366/0001196035?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/W7DWLGLGC5HKXA3ZDINOK3PSRQ.jpg?auth=bea3712fcafcbe15d61ff75c706e0dbeb5ff70e95054e9c587a35b6c8e8100f4&width=1200&height=630&smart=true"
         },
         {
           "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
-          "desc": "'이사·웨딩 페스티벌'은 삼성전자 제품을 중심으로 TV, 냉장고, 세탁기 등 행사 품목을 2개 품목 이상 구매 시 최대 540만원 혜택을 선보인다. 동시 구매 혜택을 통해 '인피니트 냉장고(1도어)'와 '셰프에디션(500L)...",
-          "src": "F투데이",
-          "date": "10/03",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
+          "title": "[알뜰 주말] 결혼 늘자 혜택도 커졌다… 연휴에 혼수 장만 어때요",
+          "desc": "TV·냉장고·세탁기 등 삼성전자 행사 품목을 2개 이상 사면 품목 수에 따라 최대 540만원 혜택을 주고, 냉장고와 김치냉장고, TV와 사운드바 등 지정 상품을 함께 사면 최대 90만원을 추가로 깎아준다. 가구는 한샘이...",
+          "src": "조선일보",
+          "date": "10/04",
+          "url": "https://n.news.naver.com/mnews/article/366/0001196037?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/7D5CLVIV7VOHZDOZUCHR5IJ6YU.JPG?auth=a53ae1ba240ab9b0ae62e22bee8d077e4fbda61c0a587ee52c46cc28dd58717c&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "신작 출시 재개하는 카카오게임즈, '도깨비의세계'로 분기점 만들까",
-          "desc": "자체 개발 AI 챗봇 '묘롱'도 도입했다. 이용자의 플레이 기록과 성장 데이터를 분석해 비슷한 이용자군과... 획득에 활용할 수 있다. 지배구조 변화 속 사업 다각화 '잰걸음' 카카오게임즈가 신작 성과를 확보해야 하는...",
-          "src": "smartbizn",
+          "title": "엔비디아·인텔·퀄컴 넘나든 노타…'칩 스펙' 넘어 AI 운영 설루션 속도",
+          "desc": "플랫폼 '넷츠프레소'를 활용한 로봇 AI 모델 7종의 최적화 성과를 공개했다. 검증은 퀄컴 드래곤윙 IQ... 최적화 기술의 중요성이 커지는 이유다. 인텔과 영상관제 패키지 사업화 노타는 AI 모델 경량화·하드웨어...",
+          "src": "뉴스1",
           "date": "10/04",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155499",
-          "img": "https://cdn.smartbizn.com/news/photo/202610/155499_262359_4448.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009208571?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8139843/high.jpg"
         },
         {
-          "title": "[이병태의 혁신 웨이브 <6>] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
-          "desc": "AI 활용 방식에 따른 생산성 양극화는 이미 시작됐다. 피지컬 AI(Physical AI·자율주행차나 로봇 등 물리 세계에... 범용 기술 도입 초기에는 측정 생산성이 오히려 하락하는 것이 정상이라고 설명한다. 지금 기업이 AI 투자...",
-          "src": "조선일보",
+          "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
+          "desc": "특히 최근 은행권 사고에서는 인공지능(AI)을 활용한 공격 가능성까지 제기됐다. AI로 해킹의 기술적 문턱이... 전문가들은 기업이 보안 설루션 도입에 그치지 않고 접근 권한과 인증정보 관리, 외부 연결 경로, 업무용...",
+          "src": "연합뉴스",
           "date": "10/04",
-          "url": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html",
-          "img": "https://economychosun.com/site/data/img_dir/2026/09/19/2026091900026_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016356198?sid=105",
+          "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002138900017_04_i_P4.jpg"
         },
         {
-          "title": "정부, 개인정보 유출·침해사고 더 빠르게 처리...투명성도 높여",
-          "desc": "최근 인공지능(AI) 기술 확산과 함께 개인정보를 대상으로 한 공격이 고도화·지능화하면서 개인정보 유출... 처리절차 도입 ▲조사절차 투명성 제고 ▲조사역량 강화 ▲처리현황 공개 등 5대 과제를 추진한다. ①...",
-          "src": "ZDNet코리아",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439777?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/03/3cc754635339364aefd15609ed297a4b.png"
+          "title": "정부 고용·소득 충격 대비 'AI 기본사회' 정책화 착수, '인공지능세' 부...",
+          "desc": "정보기술(IT) 기업들은 AI 모델과 데이터센터, AI 에이전트 등 관련 사업에 투자를 늘리고 있다. 정부도 AI 경쟁력 강화를 국가 성장전략으로 추진하고 있어 기업의 투자 부담을 높이는 새로운 과세제도를 도입할 경우 AI...",
+          "src": "비즈니스포스트",
+          "date": "10/04",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448315",
+          "img": ""
         },
         {
-          "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인...",
-          "desc": "여기에 생성형 AI 기술이 본격 도입되면서 기획부터 영상 제작, 성우 더빙에 이르는 과정이 대폭 단축됐다.... 배경에는 AI 기술이 가져온 역설과 기형적인 유통 구조가 자리 잡고 있다. AI를 활용해 촬영 및 편집 비용은...",
-          "src": "한국경제",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338911?sid=105",
-          "img": "https://img.hankyung.com/photo/202610/01.45915188.1.png"
+          "title": "수입 '들쭉날쭉' 지출 '꼬박꼬박'…미래기금 지속가능성 관건",
+          "desc": "정부는 미래대응기금의 주요 재원으로 '추가 세수'라는 새로운 개념을 도입했다. 다음 해 내국세... 청년 일자리 사업, 인공지능(AI)과 전략기술, 지방미래성장지원금, 지방국립대 장학금 등에 쓰인다. 보고서는...",
+          "src": "연합뉴스",
+          "date": "10/04",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356171?sid=101",
+          "img": "https://img6.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092902160001300_P4.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“주가 27만원? 너무 싸다”…내년에 ‘사상 최고가’ 넘어 46만원 간다...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705231?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/03/news-p.v1.20250317.244cc5fa2e5d4550adffc81f0fca961c_P1.png"
+      "title": "‘젊어진’ 삼성전자, 마케팅 문법 변화… “크리에이터로 팬덤 키우고...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196035?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/W7DWLGLGC5HKXA3ZDINOK3PSRQ.jpg?auth=bea3712fcafcbe15d61ff75c706e0dbeb5ff70e95054e9c587a35b6c8e8100f4&width=1200&height=630&smart=true"
     },
     {
       "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "혼인 느는데 고물가 '부담'…유통업계, 웨딩 멤버십·혼수 행사 총출동",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366582",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202610/366582_376296_1516_v150.jpg"
+      "title": "[알뜰 주말] 결혼 늘자 혜택도 커졌다… 연휴에 혼수 장만 어때요",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196037?sid=101",
+      "img": "https://biz.chosun.com/resizer/v2/7D5CLVIV7VOHZDOZUCHR5IJ6YU.JPG?auth=a53ae1ba240ab9b0ae62e22bee8d077e4fbda61c0a587ee52c46cc28dd58717c&width=1200&height=630&smart=true"
     },
     {
-      "title": "신작 출시 재개하는 카카오게임즈, '도깨비의세계'로 분기점 만들까",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155499",
-      "img": "https://cdn.smartbizn.com/news/photo/202610/155499_262359_4448.jpg"
+      "title": "엔비디아·인텔·퀄컴 넘나든 노타…'칩 스펙' 넘어 AI 운영 설루션 속도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009208571?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8139843/high.jpg"
     },
     {
-      "title": "[이병태의 혁신 웨이브 <6>] 챗GPT 3년, 새로운 AI 시대에 대한 기대와 ...",
-      "url": "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900026.html",
-      "img": "https://economychosun.com/site/data/img_dir/2026/09/19/2026091900026_0.jpg"
+      "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356198?sid=105",
+      "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002138900017_04_i_P4.jpg"
     }
   ]
 };
