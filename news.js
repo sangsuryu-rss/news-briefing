@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.05 (월) 00:23",
+  "updatedAt": "2026.10.05 (월) 04:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "중국 상하이 금융당국, 은행·보험업 AI 활용 확대",
-          "desc": "데이터 관리와 모델 운영을 연계한 체계를 구축하고 기업 단위의 AI 플랫폼을 마련해 금융회사의 기술 도입 부담도 낮출 계획이다. AI 활용이 확대되는 만큼 규제와 위험관리도 강화한다. 금융회사는 AI 활용을 디지털...",
-          "src": "insnews",
+          "title": "카드사, AI 활용 다변화···고객 접점부터 내부 업무까지",
+          "desc": "등에 AI를 적용해 실제 업무에서 정확성과 활용성을 검증하고, 안정성이 확인되면 정식 솔루션 도입과... 카드업계 관계자는 \"데이터와 AI 기술을 활용한 마케팅은 고객 경험을 높이고 카드사의 자체 경쟁력을 강화하는...",
+          "src": "smartbizn",
           "date": "10/05",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93044",
-          "img": "https://cdn.insnews.co.kr/news/photo/202609/93044_58025_511.jpg"
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155501",
+          "img": "https://cdn.smartbizn.com/news/photo/202610/155501_262363_5318.jpeg"
         },
         {
-          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-          "desc": "시스템을 도입했다. 이를 통해 교육 접근성을 높이고 출결 관리 효율성을 개선하는 등 수요자 중심... “앞으로도 AI 등 첨단기술을 행정에 적극 활용해 시민이 일상에서 변화를 체감하는 '스마트 도시 안양'을 완성해...",
-          "src": "ekn",
-          "date": "10/04",
-          "url": "https://www.ekn.kr/web/view.php?key=20261004020322192",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261004.d83f889afae4416d96d779fe41f2cb9d_R.jpg"
+          "title": "뉴섬, 작년 거부했던 ‘로봇 상사 금지법’ 서명…AI 단독 해고·징계 막...",
+          "desc": "감정 읽는 감시, 화장실 감시, 해고 사유 공시까지같은 날 서명된 법은 해고 결정 밖의 AI 활용도 겨냥한다.... 결정이 전적으로 또는 대부분 AI 등 자동화 기술 도입과 연결돼 있다면 이를 공개하고 자동화되는 직무를...",
+          "src": "wikitree",
+          "date": "10/05",
+          "url": "https://www.wikitree.co.kr/articles/1163931",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/05/202610050308255675_ai.jpeg"
         },
         {
-          "title": "중국이 조선 수주 63% 가져가는데…한국·일본 살길은 '스마트로봇'",
-          "desc": "하지만 일부 전문가들은 중국 조선소가 용접 로봇과 스마트 시스템 도입 측면에서 이미 이들을 앞지르고... 생존은 AI와 자율주행 기술을 활용한 다목적 로봇을 개발할 수 있느냐에 달려 있다\"며 \"로봇은 인력 부족을...",
-          "src": "뉴스1",
-          "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009209352?sid=104",
-          "img": "https://i3n.news1.kr/system/photos/2025/12/25/7666967/high.jpg"
+          "title": "트럼프 \"초지능 TF 창설…수장에 클레이턴 DNI 국장\"(종합)",
+          "desc": "동안 AI의 위험과 활용 가능성을 연구하고 보고서를 작성할 계획\"이라고 밝혔다. 또한 새로운 기술과... 이들 기술 기업은 AI 모델이 의도한 대로 작동하는지 확인하기 위해 '4단계 통제 및 감사' 체계를 도입하기로...",
+          "src": "뉴시스",
+          "date": "10/05",
+          "url": "https://n.news.naver.com/mnews/article/003/0014233225?sid=104",
+          "img": "https://img1.newsis.com/2026/08/02/NISI20260802_0001473317_web.jpg"
         },
         {
-          "title": "한국 인터넷 매체 1만4천 여 개, 어떻게 살아남아?...“생존 무기를 다오...",
-          "desc": "인공지능(AI) 기술을 도입해 독자의 취향을 정밀하게 분석하고 기사별 광고 단가를... 적극적으로 활용한다. 과금 체계를 단계적으로 전환했다. 무조건 돈을 내라고...",
-          "src": "breaknews",
-          "date": "10/04",
-          "url": "http://www.breaknews.com/1240949",
-          "img": "https://www.breaknews.com/imgdata/breaknews_com/202601/2026011636181503.jpg"
+          "title": "[이천 민선 9기 공약 대해부⑨] 성수석 시장, 시민 목소리를 정책으로 ...",
+          "desc": "AI와 자동화 기술을 적절히 활용하면 자료를 정리하는 시간을 줄이고 업무처리 속도를 높일 수 있다.... 행정의 혁신은 새로운 기술을 도입하는 데서 끝나지 않는다. 시민의 의견을 더 빠르게 듣고 정확한 자료로 해법을...",
+          "src": "newstown",
+          "date": "10/05",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717639",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/717639_673202_5922_v150.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.thepublic.kr/news/photo/202610/320913_324397_81.jpg"
     },
     {
-      "title": "중국 상하이 금융당국, 은행·보험업 AI 활용 확대",
-      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93044",
-      "img": "https://cdn.insnews.co.kr/news/photo/202609/93044_58025_511.jpg"
+      "title": "카드사, AI 활용 다변화···고객 접점부터 내부 업무까지",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155501",
+      "img": "https://cdn.smartbizn.com/news/photo/202610/155501_262363_5318.jpeg"
     },
     {
-      "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-      "url": "https://www.ekn.kr/web/view.php?key=20261004020322192",
-      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261004.d83f889afae4416d96d779fe41f2cb9d_R.jpg"
+      "title": "뉴섬, 작년 거부했던 ‘로봇 상사 금지법’ 서명…AI 단독 해고·징계 막...",
+      "url": "https://www.wikitree.co.kr/articles/1163931",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/05/202610050308255675_ai.jpeg"
     }
   ]
 };
