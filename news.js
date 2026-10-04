@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.04 (일) 06:19",
+  "updatedAt": "2026.10.04 (일) 09:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘젊어진’ 삼성전자, 마케팅 문법 변화… “크리에이터로 팬덤 키우고...",
-          "desc": "삼성전자는 작년 독일 베를린에서 열린 유럽 최대 가전·IT 전시회 ‘IFA 2025′에서 크리에이터를 적극 지원한 바 있다. 틱톡 비즈니스에 따르면 삼성전자가 작년 IFA 2025에서 7일 동안 진행한 크리에이터 콘텐츠 연계...",
-          "src": "조선일보",
+          "title": "\"역대 최고가 '37만원' 뚫는다\"...삼성전자, 목표주가 46만 원 제시된 이...",
+          "desc": "메모리 반도체 공급 부족이 장기화하면서 삼성전자가 안정적인 이익 성장과 대규모 주주환원을 이어갈... (VD)와 가전 사업 역시 적자 폭이 확대될 것으로 관측됐다. 주가 반등의 핵심 촉매제로는 사상 최대 규모의...",
+          "src": "파이낸셜뉴스",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/366/0001196035?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/W7DWLGLGC5HKXA3ZDINOK3PSRQ.jpg?auth=bea3712fcafcbe15d61ff75c706e0dbeb5ff70e95054e9c587a35b6c8e8100f4&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/014/0005584619?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/04/202610040701363453_e.jpg"
         },
         {
           "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "[알뜰 주말] 결혼 늘자 혜택도 커졌다… 연휴에 혼수 장만 어때요",
-          "desc": "TV·냉장고·세탁기 등 삼성전자 행사 품목을 2개 이상 사면 품목 수에 따라 최대 540만원 혜택을 주고, 냉장고와 김치냉장고, TV와 사운드바 등 지정 상품을 함께 사면 최대 90만원을 추가로 깎아준다. 가구는 한샘이...",
-          "src": "조선일보",
+          "title": "[팩트체크] 가전, 백화점이 양판점보다 더 좋다?…모델명 같으면 동일 ...",
+          "desc": "예컨대 삼성전자의 비스포크 냉장고 4도어 슬림 아이스메이커의 경우 에너지 소비효율 1등급의 모델명은... 이 관계자는 \"예컨대 같은 양판점이라도 세탁기를 월 1천대 파는 A 매장은 월 500대 파는 B 매장보다...",
+          "src": "연합뉴스",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/366/0001196037?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/7D5CLVIV7VOHZDOZUCHR5IJ6YU.JPG?auth=a53ae1ba240ab9b0ae62e22bee8d077e4fbda61c0a587ee52c46cc28dd58717c&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/001/0016356273?sid=102",
+          "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "엔비디아·인텔·퀄컴 넘나든 노타…'칩 스펙' 넘어 AI 운영 설루션 속도",
-          "desc": "플랫폼 '넷츠프레소'를 활용한 로봇 AI 모델 7종의 최적화 성과를 공개했다. 검증은 퀄컴 드래곤윙 IQ... 최적화 기술의 중요성이 커지는 이유다. 인텔과 영상관제 패키지 사업화 노타는 AI 모델 경량화·하드웨어...",
-          "src": "뉴스1",
+          "title": "[글로벌 두뇌전쟁②]삼성 갤럭시 AI에 '베트남 두뇌'…현지 연구진 언어...",
+          "desc": "조직을 활용해 갤럭시 AI 언어모델을 개발했다. 각 연구소가 서로 다른 언어를 맡으면서도 기술과 경험을... 교육과정을 도입하고 AI·IoT·빅데이터와 함께 약 2200명의 학생을 대상으로 첨단기술 교육을 추진하고 있다....",
+          "src": "mediapen",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208571?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/2/8139843/high.jpg"
+          "url": "https://www.mediapen.com/news/view/1126975",
+          "img": "https://image.mediapen.com/news/202609/news_1126975_1790750418_m.png"
         },
         {
-          "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
-          "desc": "특히 최근 은행권 사고에서는 인공지능(AI)을 활용한 공격 가능성까지 제기됐다. AI로 해킹의 기술적 문턱이... 전문가들은 기업이 보안 설루션 도입에 그치지 않고 접근 권한과 인증정보 관리, 외부 연결 경로, 업무용...",
-          "src": "연합뉴스",
+          "title": "엔비디아, AI 안전 논의 전면에…미국 정부와 '자율 규범' 시험대",
+          "desc": "AI가 산업 현장에 더욱 깊숙이 도입되려면 기업과 정부가 기술을 신뢰할 수 있어야 하기 때문이다. 특히 금융, 제조, 의료, 국방 등 중요한 분야에서 AI 에이전트가 활용되기 위해서는 허가되지 않은 행동을 막고 문제 발생...",
+          "src": "jemin",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/001/0016356198?sid=105",
-          "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002138900017_04_i_P4.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=843804",
+          "img": "https://cdn.jemin.com/news/thumbnail/202610/843804_431303_3610_v150.jpg"
         },
         {
-          "title": "정부 고용·소득 충격 대비 'AI 기본사회' 정책화 착수, '인공지능세' 부...",
-          "desc": "정보기술(IT) 기업들은 AI 모델과 데이터센터, AI 에이전트 등 관련 사업에 투자를 늘리고 있다. 정부도 AI 경쟁력 강화를 국가 성장전략으로 추진하고 있어 기업의 투자 부담을 높이는 새로운 과세제도를 도입할 경우 AI...",
-          "src": "비즈니스포스트",
+          "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
+          "desc": "AI에 맞는 새로운 과금 체계가 필요하다는 목소리가 나온다. 기존 공공SW 사업은 제품이나 시스템을 도입하... AI 기술을 산업 현장에서 활용하는 응용SW 기업이 실제 고객을 확보하고 운영 경험을 쌓아 다시 제품을...",
+          "src": "ZDNet코리아",
           "date": "10/04",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448315",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/092/0002439788?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/16/6274993005f71de086b03acd8829fa0a.jpg"
         },
         {
-          "title": "수입 '들쭉날쭉' 지출 '꼬박꼬박'…미래기금 지속가능성 관건",
-          "desc": "정부는 미래대응기금의 주요 재원으로 '추가 세수'라는 새로운 개념을 도입했다. 다음 해 내국세... 청년 일자리 사업, 인공지능(AI)과 전략기술, 지방미래성장지원금, 지방국립대 장학금 등에 쓰인다. 보고서는...",
-          "src": "연합뉴스",
+          "title": "\"24시간 움직이는 시장 한눈에\"...두나무, AI 기반 정보 탐색 고도화",
+          "desc": "업비트를 운영하는 두나무가 AI 기술을 활용해 시장 흐름과 가격 변동 원인을 입체적으로 분석하는 신규... 새로 도입됐다. 업트레이스는 차트 내 아이콘 클릭만으로 해당 시점의 핵심 가격 변동 요인을 직관적으로...",
+          "src": "asiaa",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/001/0016356171?sid=101",
-          "img": "https://img6.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092902160001300_P4.jpg"
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264916",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202610/264916_287056_5853.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "‘젊어진’ 삼성전자, 마케팅 문법 변화… “크리에이터로 팬덤 키우고...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001196035?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/W7DWLGLGC5HKXA3ZDINOK3PSRQ.jpg?auth=bea3712fcafcbe15d61ff75c706e0dbeb5ff70e95054e9c587a35b6c8e8100f4&width=1200&height=630&smart=true"
+      "title": "\"역대 최고가 '37만원' 뚫는다\"...삼성전자, 목표주가 46만 원 제시된 이...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584619?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/10/04/202610040701363453_e.jpg"
     },
     {
       "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "[알뜰 주말] 결혼 늘자 혜택도 커졌다… 연휴에 혼수 장만 어때요",
-      "url": "https://n.news.naver.com/mnews/article/366/0001196037?sid=101",
-      "img": "https://biz.chosun.com/resizer/v2/7D5CLVIV7VOHZDOZUCHR5IJ6YU.JPG?auth=a53ae1ba240ab9b0ae62e22bee8d077e4fbda61c0a587ee52c46cc28dd58717c&width=1200&height=630&smart=true"
+      "title": "[팩트체크] 가전, 백화점이 양판점보다 더 좋다?…모델명 같으면 동일 ...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356273?sid=102",
+      "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
     },
     {
-      "title": "엔비디아·인텔·퀄컴 넘나든 노타…'칩 스펙' 넘어 AI 운영 설루션 속도",
-      "url": "https://n.news.naver.com/mnews/article/421/0009208571?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/10/2/8139843/high.jpg"
+      "title": "[글로벌 두뇌전쟁②]삼성 갤럭시 AI에 '베트남 두뇌'…현지 연구진 언어...",
+      "url": "https://www.mediapen.com/news/view/1126975",
+      "img": "https://image.mediapen.com/news/202609/news_1126975_1790750418_m.png"
     },
     {
-      "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356198?sid=105",
-      "img": "https://img6.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002138900017_04_i_P4.jpg"
+      "title": "엔비디아, AI 안전 논의 전면에…미국 정부와 '자율 규범' 시험대",
+      "url": "https://www.jemin.com/news/articleView.html?idxno=843804",
+      "img": "https://cdn.jemin.com/news/thumbnail/202610/843804_431303_3610_v150.jpg"
     }
   ]
 };
