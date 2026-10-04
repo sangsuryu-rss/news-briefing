@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.04 (일) 09:40",
+  "updatedAt": "2026.10.04 (일) 17:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"역대 최고가 '37만원' 뚫는다\"...삼성전자, 목표주가 46만 원 제시된 이...",
-          "desc": "메모리 반도체 공급 부족이 장기화하면서 삼성전자가 안정적인 이익 성장과 대규모 주주환원을 이어갈... (VD)와 가전 사업 역시 적자 폭이 확대될 것으로 관측됐다. 주가 반등의 핵심 촉매제로는 사상 최대 규모의...",
-          "src": "파이낸셜뉴스",
+          "title": "돌아온 가을 '웨딩 특수'에 뜨거워진 신혼부부 유치전",
+          "desc": "롯데하이마트는 10월 한 달간 전국 오프라인 매장에서 '이사·웨딩 페스티벌'을 실시하고 삼성전자 가전을 중심으로 다품목 구매 혜택을 제공한다. TV, 냉장고, 세탁기 등 행사 대상 제품을 2개 이상 구매하면 품목 수에...",
+          "src": "매일경제",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/014/0005584619?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/04/202610040701363453_e.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005743803?sid=103",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/05/20261005_01110113000006_S00.jpg"
         },
         {
-          "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
-          "desc": "예슈무하메토프 CTO는 \"10년 전 로봇청소기가 나왔을 때도 누가 사겠느냐고 했지만 지금은 흔한 제품이 됐다... 삼성전자는 내년 세계 최대 IT·가전 박람회 CES 공개를 목표로 자체 휴머노이드를 개발하고 있으며 제조...",
-          "src": "머니투데이",
-          "date": "10/03",
-          "url": "https://n.news.naver.com/mnews/article/008/0005421858?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100307032031843_1.jpg"
+          "title": "롯데하이마트, 전국 매장서 10월 할인혜텍 제공… '이사·웨딩 페스티벌...",
+          "desc": "40만원 이상 청소기를 구매하면 차량용 청소기를 증정하고, 삼성전자·LG전자·다이슨·쿠쿠·로보락 등 5개 브랜드 로봇청소기와 건타입 청소기 행사상품을 함께 사면 5만원을 추가 할인한다. '러닝 부스트 세일...",
+          "src": "biztribune",
+          "date": "10/04",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360052",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360052_265810_5420_v150.jpg"
         },
         {
           "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
         },
         {
-          "title": "[팩트체크] 가전, 백화점이 양판점보다 더 좋다?…모델명 같으면 동일 ...",
-          "desc": "예컨대 삼성전자의 비스포크 냉장고 4도어 슬림 아이스메이커의 경우 에너지 소비효율 1등급의 모델명은... 이 관계자는 \"예컨대 같은 양판점이라도 세탁기를 월 1천대 파는 A 매장은 월 500대 파는 B 매장보다...",
-          "src": "연합뉴스",
+          "title": "신형·구형폰 가격 다 오르자 부담 커진 소비자 '중고 쏠림'",
+          "desc": "시간이 지나면 내려가던 구형 모델 가격마저 수십만 원씩 오르고, 신제품은 웬만한 노트북·냉장고 값을... 삼성전자는 지난여름 폴더블 신제품 갤럭시 Z 폴드8 울트라와 플립8을 전작보다 20만원가량(256GB 기준)...",
+          "src": "매일경제",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/001/0016356273?sid=102",
-          "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005743809?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/05/20261005_01110110000004_S00.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[글로벌 두뇌전쟁②]삼성 갤럭시 AI에 '베트남 두뇌'…현지 연구진 언어...",
-          "desc": "조직을 활용해 갤럭시 AI 언어모델을 개발했다. 각 연구소가 서로 다른 언어를 맡으면서도 기술과 경험을... 교육과정을 도입하고 AI·IoT·빅데이터와 함께 약 2200명의 학생을 대상으로 첨단기술 교육을 추진하고 있다....",
-          "src": "mediapen",
+          "title": "용인특례시, 용인미르스타디움서 먹거리와 미래기술 한자리",
+          "desc": "농산물 공동브랜드 캐릭터 파미즈를 활용한 포토존과 체험 프로그램도 마련됐다. 3일 미르스타디움에서 시민들이 휴머노이드를 구경하고 있다 같은 기간 열린 사이버과학축제는 AI와 로봇, XR 등 첨단기술을 직접 경험할...",
+          "src": "discoverynews",
           "date": "10/04",
-          "url": "https://www.mediapen.com/news/view/1126975",
-          "img": "https://image.mediapen.com/news/202609/news_1126975_1790750418_m.png"
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103263",
+          "img": "https://cdn.discoverynews.kr/news/thumbnail/202610/1103263_1147076_2527_v150.jpg"
         },
         {
-          "title": "엔비디아, AI 안전 논의 전면에…미국 정부와 '자율 규범' 시험대",
-          "desc": "AI가 산업 현장에 더욱 깊숙이 도입되려면 기업과 정부가 기술을 신뢰할 수 있어야 하기 때문이다. 특히 금융, 제조, 의료, 국방 등 중요한 분야에서 AI 에이전트가 활용되기 위해서는 허가되지 않은 행동을 막고 문제 발생...",
-          "src": "jemin",
+          "title": "안 뚫린 데가 없다… \"업무에 AI 도입 늘고 있는데\" 기업들 노심초사",
+          "desc": "기업들은 사람의 해킹 기술과 AI의 무단 침투가 교묘하게 뒤섞이고 경계마저 불분명해지면서 보안 사고를... 규모의 도입 중 하나\"라고 했다. SK그룹, LG전자, LG유플러스, 삼성SDS, 카카오도 회사 차원에서 업무용 AI 활용...",
+          "src": "한국일보",
           "date": "10/04",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=843804",
-          "img": "https://cdn.jemin.com/news/thumbnail/202610/843804_431303_3610_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/469/0000957626?sid=105",
+          "img": "https://newsimg.hankookilbo.com/2026/10/04/92ffe29b-2233-4b14-8089-d7307b166596.jpg"
         },
         {
-          "title": "[소외된 SW ㊦] GPU·모델만으론 부족…AI 투자, '돈 버는 SW'로 이어져야",
-          "desc": "AI에 맞는 새로운 과금 체계가 필요하다는 목소리가 나온다. 기존 공공SW 사업은 제품이나 시스템을 도입하... AI 기술을 산업 현장에서 활용하는 응용SW 기업이 실제 고객을 확보하고 운영 경험을 쌓아 다시 제품을...",
-          "src": "ZDNet코리아",
+          "title": "금보원장 \"은행 공격 IP 동일, AI활용 추정\"",
+          "desc": "과학기술정보통신부와 개인정보보호위원회, 경찰청 등 관계부처도 자리를 함께했다. 이억원 금융위원장은 \"AI를 활용한 해킹공격의 가능성도 배제할 수 없다\"며 \"새로운 유형의, 빈도 높은 사이버 공격이 앞으로도...",
+          "src": "sidae",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439788?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/09/16/6274993005f71de086b03acd8829fa0a.jpg"
+          "url": "https://n.news.naver.com/mnews/article/417/0001160034?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/04/00/2026100417194193593_1.jpg"
         },
         {
-          "title": "\"24시간 움직이는 시장 한눈에\"...두나무, AI 기반 정보 탐색 고도화",
-          "desc": "업비트를 운영하는 두나무가 AI 기술을 활용해 시장 흐름과 가격 변동 원인을 입체적으로 분석하는 신규... 새로 도입됐다. 업트레이스는 차트 내 아이콘 클릭만으로 해당 시점의 핵심 가격 변동 요인을 직관적으로...",
-          "src": "asiaa",
+          "title": "상주 국립낙동강생물자원관 대화형 인공지능 설치",
+          "desc": "여진동 국립낙동강생물자원관 전시교육실장은 \"인공지능(AI) 전시 안내 서비스 도입으로 관람객이 자신의 관심사와 속도에 맞춰 전시를 보다 자유롭게 탐색할 수 있게 됐다\"며 \"앞으로도 디지털 기술을 활용해 관람객...",
+          "src": "hidomin",
           "date": "10/04",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264916",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202610/264916_287056_5853.jpg"
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=723574",
+          "img": "https://cdn.hidomin.com/news/photo/202610/723574_426181_1847.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"역대 최고가 '37만원' 뚫는다\"...삼성전자, 목표주가 46만 원 제시된 이...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584619?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/10/04/202610040701363453_e.jpg"
+      "title": "돌아온 가을 '웨딩 특수'에 뜨거워진 신혼부부 유치전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743803?sid=103",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/05/20261005_01110113000006_S00.jpg"
     },
     {
-      "title": "공 받아치고 찰 때마다 '찰칵'…\"로봇이 일상으로\" 삼성·LG도 추격전[르...",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421858?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100307032031843_1.jpg"
+      "title": "롯데하이마트, 전국 매장서 10월 할인혜텍 제공… '이사·웨딩 페스티벌...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360052",
+      "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360052_265810_5420_v150.jpg"
     },
     {
       "title": "삼성·LG, 가전 팔고 끝?…고객 묶는 ‘구독 전쟁’",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100201436.jpg"
     },
     {
-      "title": "[팩트체크] 가전, 백화점이 양판점보다 더 좋다?…모델명 같으면 동일 ...",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356273?sid=102",
-      "img": "https://img3.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073013420001300_P4.jpg"
+      "title": "신형·구형폰 가격 다 오르자 부담 커진 소비자 '중고 쏠림'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743809?sid=105",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/05/20261005_01110110000004_S00.jpg"
     },
     {
-      "title": "[글로벌 두뇌전쟁②]삼성 갤럭시 AI에 '베트남 두뇌'…현지 연구진 언어...",
-      "url": "https://www.mediapen.com/news/view/1126975",
-      "img": "https://image.mediapen.com/news/202609/news_1126975_1790750418_m.png"
+      "title": "용인특례시, 용인미르스타디움서 먹거리와 미래기술 한자리",
+      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103263",
+      "img": "https://cdn.discoverynews.kr/news/thumbnail/202610/1103263_1147076_2527_v150.jpg"
     },
     {
-      "title": "엔비디아, AI 안전 논의 전면에…미국 정부와 '자율 규범' 시험대",
-      "url": "https://www.jemin.com/news/articleView.html?idxno=843804",
-      "img": "https://cdn.jemin.com/news/thumbnail/202610/843804_431303_3610_v150.jpg"
+      "title": "안 뚫린 데가 없다… \"업무에 AI 도입 늘고 있는데\" 기업들 노심초사",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957626?sid=105",
+      "img": "https://newsimg.hankookilbo.com/2026/10/04/92ffe29b-2233-4b14-8089-d7307b166596.jpg"
     }
   ]
 };
