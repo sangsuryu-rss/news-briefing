@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.05 (월) 04:41",
+  "updatedAt": "2026.10.05 (월) 08:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
-          "desc": "삼성전자도 가전 구독 사업을 빠르게 늘리고 있다. 삼성전자에 따르면 주요 가전 구매자 3명 중 1명이 구독을 선택하고 있으며 구독 인지도는 2024년 44%에서 올해 7월 71%로 높아졌다. 올해 구독 매출은 1조원을 눈앞에...",
-          "src": "아이뉴스24",
-          "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
-          "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
+          "title": "K-공조 키우는 삼성·LG전자…생산능력 확대 '릴레이 투자'",
+          "desc": "이들 지역은 모두 삼성전자와 LG전자의 대규모 가전 생산기지를 갖춘 곳이다. 우선 삼성전자는 약 2400억원을 들여 광주사업장 제3 캠퍼스에 연면적 2만1800㎡(약 6600평) 규모의 생산라인을 구축한다는 계획이다. 지난달...",
+          "src": "daily",
+          "date": "10/05",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411811",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1411811_1591130_1219_v150.jpg"
         },
         {
           "title": "롯데하이마트, 전국 매장서 10월 할인혜텍 제공… '이사·웨딩 페스티벌...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360052_265810_5420_v150.jpg"
         },
         {
-          "title": "새 폰 사고 영화 보고…‘온라인쇼핑 시장’ 가파른 성장세",
-          "desc": "컴퓨터·주변기기나 가전제품 대신 통신기기 구입이 크게 늘었다. 통신기기 거래액은 7882억원으로 전년 동월(5439억원) 대비 2442억원(44.9%) 증가했다. 이같은 효과는 삼성전자의 신제품 발표가 영향을 미친 것으로...",
-          "src": "nongmin",
+          "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
+          "desc": "구독 품목도 정수기와 공기청정기뿐 아니라 냉장고, 세탁기, 건조기 등 대형 가전까지 대상에 포함됐다. LG전자 베스트샵에서 판매되는 가전 가운데 구독 비중도 절반 수준까지 올라왔다. 삼성전자도 가전 구독 사업을...",
+          "src": "아이뉴스24",
           "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/662/0000105554?sid=102",
-          "img": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/10/02/.cache/512/20261002500390.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
+          "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
         },
         {
-          "title": "롯데하이마트, 10월 가전 할인 행사…이사·웨딩 최대 540만원 혜택",
-          "desc": "삼성전자, LG전자, 다이슨, 쿠쿠, 로보락 등 5개 브랜드의 로봇청소기 행사상품과 건타입 청소기를 함께 구매하면 5만원을 추가 할인한다. 가을 러닝 수요를 겨냥한 '러닝 부스트세일'도 진행한다. 샥즈 '오픈닷 원...",
-          "src": "thepublic",
-          "date": "10/04",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=320913",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/320913_324397_81.jpg"
+          "title": "버크셔가 美 주택건설업체 레나 지분 11.0% 늘리고도 매입 속도 줄인 사...",
+          "desc": "삼성전자와 LG전자가 공을 들여온 북미 빌트인 가전 사업을 비롯해 KCC, LX하우시스 등 건자재 기업들의... 미국 신축 주택 공급이 줄어들면 완공 단계에 투입되는 냉장고, 오븐, 식기세척기 및 창호 수요 감소로...",
+          "src": "g-enews",
+          "date": "10/05",
+          "url": "https://www.g-enews.com/view.php?ud=202610041340207040fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100423542900270fda4f5ab7439122247205.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "카드사, AI 활용 다변화···고객 접점부터 내부 업무까지",
-          "desc": "등에 AI를 적용해 실제 업무에서 정확성과 활용성을 검증하고, 안정성이 확인되면 정식 솔루션 도입과... 카드업계 관계자는 \"데이터와 AI 기술을 활용한 마케팅은 고객 경험을 높이고 카드사의 자체 경쟁력을 강화하는...",
-          "src": "smartbizn",
+          "title": "“어디 출신?” 학연·지연은 한국 망신…양궁·현대차, ‘오직 실력’...",
+          "desc": "현대차그룹의 연구개발 역량을 활용한 AI(인공지능), 비전 인식, 3D 프린팅 등 첨단 기술을 접목한 훈련장비와 훈련기법을 도입했다. 2년 전 파리 올림픽을 앞두고는 국가대표 훈련을 돕기 위해 ‘개인 훈련용 슈팅 로봇’...",
+          "src": "매일경제",
           "date": "10/05",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155501",
-          "img": "https://cdn.smartbizn.com/news/photo/202610/155501_262363_5318.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005743917?sid=103",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20261002.fb21190cba214b9cb05229b88b9026a6_R.jpg"
         },
         {
-          "title": "뉴섬, 작년 거부했던 ‘로봇 상사 금지법’ 서명…AI 단독 해고·징계 막...",
-          "desc": "감정 읽는 감시, 화장실 감시, 해고 사유 공시까지같은 날 서명된 법은 해고 결정 밖의 AI 활용도 겨냥한다.... 결정이 전적으로 또는 대부분 AI 등 자동화 기술 도입과 연결돼 있다면 이를 공개하고 자동화되는 직무를...",
-          "src": "wikitree",
+          "title": "에스앤이컴퍼니, 농업 비즈니스 데이터 AI 의사결정 지원 [서울AI허브 2...",
+          "desc": "기 업 명 대표자명 설립연도 투자단계 주요제품 사업분야 기술분야 주요성과 협업유형 도입단계 타깃시장... 컴퓨터비전이 활용된다. AI 에이전트 기술은 생산·품질·유통 등 영역별 데이터 분석 후 필요 정보 제공에...",
+          "src": "조선일보",
           "date": "10/05",
-          "url": "https://www.wikitree.co.kr/articles/1163931",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/05/202610050308255675_ai.jpeg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171415",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171415_454015_4213_v150.jpg"
         },
         {
-          "title": "트럼프 \"초지능 TF 창설…수장에 클레이턴 DNI 국장\"(종합)",
-          "desc": "동안 AI의 위험과 활용 가능성을 연구하고 보고서를 작성할 계획\"이라고 밝혔다. 또한 새로운 기술과... 이들 기술 기업은 AI 모델이 의도한 대로 작동하는지 확인하기 위해 '4단계 통제 및 감사' 체계를 도입하기로...",
-          "src": "뉴시스",
+          "title": "\"공급망의 왕\" 애플의 위기…터너스의 애플은 어떤 모습일까",
+          "desc": "AI 데이터센터가 메모리와 첨단반도체 생산능력을 빠르게 흡수하면서 애플마저 원하는 가격에 반도체를... 애플 역시 터너스가 제품의 신뢰성과 내구성을 높이는 새로운 기술을 도입하고 재활용 알루미늄과 3D 프린팅...",
+          "src": "한국경제",
           "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/003/0014233225?sid=104",
-          "img": "https://img1.newsis.com/2026/08/02/NISI20260802_0001473317_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000111634?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/AD.45937789.1.jpg"
         },
         {
-          "title": "[이천 민선 9기 공약 대해부⑨] 성수석 시장, 시민 목소리를 정책으로 ...",
-          "desc": "AI와 자동화 기술을 적절히 활용하면 자료를 정리하는 시간을 줄이고 업무처리 속도를 높일 수 있다.... 행정의 혁신은 새로운 기술을 도입하는 데서 끝나지 않는다. 시민의 의견을 더 빠르게 듣고 정확한 자료로 해법을...",
-          "src": "newstown",
+          "title": "뜨거운 GPU·커지는 주민 민원…AIDC ‘보이지 않는 벽’",
+          "desc": "기존 공랭식 설비와 함께 쓰는 혼합형 구성도 가능해 AIDC에 도입하기 상대적으로 수월하다. 서버 전체를... SK엔무브와 GS칼텍스, HD현대오일뱅크, S-OIL 등 정유사들은 기유·윤활유 기술을 활용해 액침냉각유를 개발하고...",
+          "src": "economist",
           "date": "10/05",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717639",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/717639_673202_5922_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000103859?sid=105",
+          "img": "https://economist.co.kr/data/ecn/image/2026/09/29/ecn20260929000010.800x.0.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
-      "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
+      "title": "K-공조 키우는 삼성·LG전자…생산능력 확대 '릴레이 투자'",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411811",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1411811_1591130_1219_v150.jpg"
     },
     {
       "title": "롯데하이마트, 전국 매장서 10월 할인혜텍 제공… '이사·웨딩 페스티벌...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360052_265810_5420_v150.jpg"
     },
     {
-      "title": "새 폰 사고 영화 보고…‘온라인쇼핑 시장’ 가파른 성장세",
-      "url": "https://n.news.naver.com/mnews/article/662/0000105554?sid=102",
-      "img": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/10/02/.cache/512/20261002500390.jpg"
+      "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
+      "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
     },
     {
-      "title": "롯데하이마트, 10월 가전 할인 행사…이사·웨딩 최대 540만원 혜택",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320913",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/320913_324397_81.jpg"
+      "title": "버크셔가 美 주택건설업체 레나 지분 11.0% 늘리고도 매입 속도 줄인 사...",
+      "url": "https://www.g-enews.com/view.php?ud=202610041340207040fda4f5ab74_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100423542900270fda4f5ab7439122247205.jpg"
     },
     {
-      "title": "카드사, AI 활용 다변화···고객 접점부터 내부 업무까지",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155501",
-      "img": "https://cdn.smartbizn.com/news/photo/202610/155501_262363_5318.jpeg"
+      "title": "“어디 출신?” 학연·지연은 한국 망신…양궁·현대차, ‘오직 실력’...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743917?sid=103",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/05/news-p.v1.20261002.fb21190cba214b9cb05229b88b9026a6_R.jpg"
     },
     {
-      "title": "뉴섬, 작년 거부했던 ‘로봇 상사 금지법’ 서명…AI 단독 해고·징계 막...",
-      "url": "https://www.wikitree.co.kr/articles/1163931",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/05/202610050308255675_ai.jpeg"
+      "title": "에스앤이컴퍼니, 농업 비즈니스 데이터 AI 의사결정 지원 [서울AI허브 2...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171415",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171415_454015_4213_v150.jpg"
     }
   ]
 };
