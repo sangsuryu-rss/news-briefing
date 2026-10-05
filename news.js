@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.05 (월) 23:46",
+  "updatedAt": "2026.10.06 (화) 07:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LG전자, 美서 5GW 규모 AI 데이터센터 냉각 수주…K가전 새 돌파구",
-          "desc": "가전서 쌓은 냉각 기술, AI 인프라로 확장 3줄 요약 ㆍLG전자, 美 인프라 기업과 5GW 냉각 솔루션 장기 계약... 삼성전자는 지난해 유럽 냉난방 공조(HVAC) 업체 플랙트그룹을 인수한 데 이어 지난달 광주사업장에 신규...",
-          "src": "조선일보",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/023/0004002178?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/HOOEILH4GJEONPWCWLAZISM554.jpg?auth=e856631fc01c92c125cda2d8fd983d5fd03c22043c19bd32e8af2b52ce73464a&width=1200&height=630&smart=true"
+          "title": "구글까지 가격 인상 동참…픽셀10a 100달러 오른다[모닝폰]",
+          "desc": "블룸버그는 메모리 반도체 공급 부족이 소비자가전 업계 전반에 영향을 미치면서 스마트폰 제조사들이 잇따라 제품 가격을 올리고 있다고 전했다. 삼성전자도 최근 갤럭시 S26 시리즈 대부분의 가격을 100달러...",
+          "src": "이데일리",
+          "date": "10/06",
+          "url": "https://n.news.naver.com/mnews/article/018/0006381668?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600234.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
         },
         {
-          "title": "삼성, 베트남에 D램·낸드 ‘후공정 허브’ 구축…HBM 국내 집중, 범용은...",
-          "desc": "주승환 인하대 제조혁신전문대학원 교수는 “삼성전자 베트남 사업장이 저임금에 기댄 스마트폰·가전 조립 기지에서 AI 반도체 공급망의 핵심 축으로 탈바꿈하고 있다”며 “고대역폭메모리(HBM) 등 삼성의 미래가...",
-          "src": "서울경제",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/011/0004668282?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/05/news-p.v1.20261002.a044b7f42f054a3fbdf8011a6aac5d38_Z1.png"
+          "title": "\"초고가 건축·상업 공간 잡는다\"… 삼성전자, 인도에 'AI 카세트형 에어...",
+          "desc": "가정용 가전 넘어 고수익 B2B로 외연 확장… \"수익성 기여 검증은 과제\" 업계에서는 삼성전자가 냉장고, 세탁기 등 대중적 가정용 가전 시장에서 쌓아 올린 브랜드 인지도를 발판 삼아, 인도 내 신흥 부유층 주거지와...",
+          "src": "g-enews",
+          "date": "10/06",
+          "url": "https://www.g-enews.com/view.php?ud=2026100521595634700c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261005220051053980c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[주성하 기자의 서울과 평양 사이]군사분계선에 AI 경계도로를 깔자",
-          "desc": "우리 경제력과 기술력이면 북한이 넘보며 침을 질질 흘릴 세계적인 도로도 만들 수 있다. 그리고 철조망이나... 통일 후엔 동서 연결 도로와 관광도로로 활용하면 된다. 당연히 건설 비용을 따져야 한다. 도입과 유지에...",
-          "src": "동아일보",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/020/0003752813?sid=110",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788347.4.jpg"
+          "title": "美 외식업계 강자 '칙필레'의 마이웨이…상장·AI 대신 고객 환대",
+          "desc": "다만 매장 후방 운영 및 재고·수요 예측 영역에서는 업무 효율화를 위한 AI 활용 가능성을 검토 중이다. 대고객 접점에서는 인간적 교감을 유지하고, 내부 공정에서는 효율을 도모하는 선별적 기술 도입 전략이다....",
+          "src": "g-enews",
+          "date": "10/06",
+          "url": "https://www.g-enews.com/view.php?ud=202610052008253851fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100520183901825fda4f5ab7439122247205.jpg"
         },
         {
-          "title": "\"클라우드 대신 로컬서 320B 구동\"…AMD, '라이젠 AI 맥스' 포트폴리오 ...",
-          "desc": "AI 작업에 집중할 경우 최대 3000억개 매개변수 규모의 프론티어급 모델까지 직접 로컬 기기에서 활용... 에미상 수상 가상현실(VR) 제작사 라이트세일 VR(LightSail VR)은 라이젠 AI 맥스+ 395 시스템을 도입해...",
-          "src": "디지털데일리",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243670?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072313444295496_l.JPG"
+          "title": "마포구, 서울 자치구 첫 'AI 당직 보이스봇' 도입",
+          "desc": "민원전화를 AI가 응대하는 'AI 당직 보이스봇'을 도입해 이달부터 12월까지 3개월간 시범운영한다고 6일... 유동균 마포구청장은 \"AI 기술을 활용해 늦은 밤이나 휴일에도 구민들이 기다리지 않고 필요한 안내를 받을 수...",
+          "src": "view",
+          "date": "10/06",
+          "url": "https://n.news.naver.com/mnews/article/277/0005824724?sid=102",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100607210550726_1791238865.png"
         },
         {
-          "title": "10대 우선순위 사업·16개 현안 해결 국비 지원 요청",
-          "desc": "2027~2030년 UNIST에 총 450억원을 투입해 조선·플랜트 등 중후장대 산업에 적용할 AI 핵심기술과 Physical AI를... 솔루션 도입과 지역 AI기업의 서비스 고도화, 고성능 GPU 활용 등을 지원한다. 내년도 국비 요구액은...",
-          "src": "ulsanpress",
-          "date": "10/05",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584201",
-          "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584201_281190_238_v150.jpg"
+          "title": "서초구, 대화만으로 900개 서비스 예약…진화한 서초 AI전트 도입",
+          "desc": "서초구는 6일 전국 지자체 최초로 인공지능(AI) 에이전트 기술을 접목한 행정 챗봇 서비스 '서초 AI전트'의... 입력하면 AI가 즉각 조건에 맞는 일정을 찾아 예약을 돕는다. 이 밖에도 스마트폰 마이크를 활용한 '온디바이스...",
+          "src": "ebn",
+          "date": "10/06",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726730",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1726730_760607_623_v150.jpg"
         },
         {
-          "title": "영남대, 새마을운동·HRD…韓 발전 경험 우즈벡에 심는다",
-          "desc": "고도화, AI 활용 등을 주요 정부혁신 과제로 추진하고 있다. 특히 정부부처를 대상으로 HRD 인증제 도입을... 타슈켄트정보기술대학교와 2+2 복수학위제를 추진하고, 투린폴리텍대학과 공동학위 프로그램 협력 기반을...",
-          "src": "idaegu",
-          "date": "10/05",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561456",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202610/2026100601000116200005011.jpg"
+          "title": "[기획] 'K-수소 인프라' 보폭 넓히는 한국가스기술공사",
+          "desc": "향후 공사는 AI가 충전소 상태를 분석하고 원인을 진단해 최적의 운전·정비 방안을 제시하는 'Autonomous O&M... 이와 함께 탄소중립(Net-Zero) 실현을 위해 수소 생산 과정의 이산화탄소를 포집·활용하는 CCU 기술을 적극 도입...",
+          "src": "e2news",
+          "date": "10/06",
+          "url": "http://www.e2news.com/news/articleView.html?idxno=334588",
+          "img": "https://cdn.e2news.com/news/thumbnail/202609/334588_232696_5119_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[넥스트-샷] 채권은 22년 전으로, 나스닥은 새 역사로···또 'AI 勝'",
+          "desc": "반면 기존 협력사인 인텔은 TSMC의 참여 가능성에 역할 축소 우려가 부각됐습니다. 다만 AI 공급망 내부에도... 국내 시장 전망 국내 증시에서는 엔비디아 신고가와 미국 AI 대형주의 강세가 삼성전자·SK하이닉스 등...",
+          "src": "womaneconomy",
+          "date": "10/06",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259338",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202610/259338_463779_2230_v150.jpg"
+        },
+        {
+          "title": "포장재 머문 베트남 협력사 340곳…삼성, 핵심 부품 한국 공급망 유지 속...",
+          "desc": "공급망 양적 확대 속 저부가 부품 편중 베트남 산업무역부는 베트남 최대 외국인직접투자 기업인 삼성전자의 공급망에 참여하는 베트남 현지 기업이 1차와 2차 협력사를 합쳐 총 340곳이라고 집계했다. 2014년 당시 1차...",
+          "src": "g-enews",
+          "date": "10/06",
+          "url": "https://www.g-enews.com/view.php?ud=202610051952091095fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100519543901120fbbec65dfb211211153121.jpg"
+        },
+        {
+          "title": "납품단가 다음은 ‘데이터’⋯AI 시대 대기업·中企 ‘新 갑을관계’ 탄...",
+          "desc": "현대차·기아도 경북 경주 글로벌상생협력센터에 ‘AI 특화 공동훈련센터’를 열고 올해 1·2차 부품 협력사 임직원 900여 명을 대상으로 AI 실무 교육을 진행했다. 중소기업중앙회 역시 삼성전자·포스코 등과 상생형...",
+          "src": "이투데이",
+          "date": "10/06",
+          "url": "https://www.etoday.co.kr/news/view/2628659",
+          "img": "https://img.etoday.co.kr/pto_db/2026/10/20261005161046_2397168_1200_537.jpg"
+        },
+        {
           "title": "마이크론 호실적에 亞공장 증설까지… 국내 소부장 '청신호'",
           "desc": "있어 협력사들을 대상으로 한 발주 역시 꾸준히 이어질 전망이다. 5일 관련 업계에 따르면 한미반도체와... SK증권에 따르면 저스템 거래처별 매출 비중은 △마이크론 50% △SK하이닉스 30% △삼성전자 20% 수준으로 현재...",
           "src": "파이낸셜뉴스",
           "date": "10/05",
           "url": "https://n.news.naver.com/mnews/article/014/0005585064?sid=101",
           "img": "https://image.fnnews.com/resource/media/image/2026/10/05/202610051817131825_e.jpg"
-        },
-        {
-          "title": "[매경이코노미스트] AI는 연결하라는데, 노동법이 막는다",
-          "desc": "예컨대 삼성전자는 중소기업의 스마트공장 구축을 지원하며 제조혁신을 확산해 왔다. 최근에는 반도체 공정 전반의 데이터를 실시간으로 학습하는 'AI 팩토리' 구축에도 나섰다. TSMC도 협력사 공정 개선으로 부품 검증...",
-          "src": "매일경제",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/009/0005744081?sid=110",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/06/20261006_01110135000002_M00.jpg"
-        },
-        {
-          "title": "“HBM 굽느라 손 모자라요”… 후공정 일감 퍼주는 ‘삼전닉스’ 주방장",
-          "desc": "부품·장비) 업계의 실적 반등을 이끄는 낙수효과로 이어지는 양상이다. 삼성전자, SK하이닉스의 고부가 HBM 라인 확충에 따른 사내 생산능력(CAPA) 한계로, 표준 D램의 패키징 및 테스트 물량이 국내 후공정 협력사로...",
-          "src": "아시아타임즈",
-          "date": "10/05",
-          "url": "https://www.asiatime.co.kr/article/20261005500036",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/05/.cache/512/20261005500037.jpg"
-        },
-        {
-          "title": "17년 공장 돌려 674조원 수출한 삼성…베트남에 '기술 뿌리' 심는다",
-          "desc": "베트남 전체 수출의 77.3%를 외국인직접투자 기업이 이끄는 무역 구조 속에서 삼성전자의 이번 구상은 한국 부품 협력사의 기술 고도화 요구와 직결된다. 단순 생산기지서 현지 기술 축적으로 역할 이동 나 총괄사장은...",
-          "src": "g-enews",
-          "date": "10/05",
-          "url": "https://www.g-enews.com/view.php?ud=202610050913431160fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100509221301048fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LG전자, 美서 5GW 규모 AI 데이터센터 냉각 수주…K가전 새 돌파구",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002178?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/HOOEILH4GJEONPWCWLAZISM554.jpg?auth=e856631fc01c92c125cda2d8fd983d5fd03c22043c19bd32e8af2b52ce73464a&width=1200&height=630&smart=true"
+      "title": "구글까지 가격 인상 동참…픽셀10a 100달러 오른다[모닝폰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381668?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600234.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
     },
     {
-      "title": "삼성, 베트남에 D램·낸드 ‘후공정 허브’ 구축…HBM 국내 집중, 범용은...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668282?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/10/05/news-p.v1.20261002.a044b7f42f054a3fbdf8011a6aac5d38_Z1.png"
+      "title": "\"초고가 건축·상업 공간 잡는다\"… 삼성전자, 인도에 'AI 카세트형 에어...",
+      "url": "https://www.g-enews.com/view.php?ud=2026100521595634700c8c1c064d_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261005220051053980c8c1c064d22114611240.jpg"
     },
     {
-      "title": "[주성하 기자의 서울과 평양 사이]군사분계선에 AI 경계도로를 깔자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752813?sid=110",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788347.4.jpg"
+      "title": "美 외식업계 강자 '칙필레'의 마이웨이…상장·AI 대신 고객 환대",
+      "url": "https://www.g-enews.com/view.php?ud=202610052008253851fda4f5ab74_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100520183901825fda4f5ab7439122247205.jpg"
     },
     {
-      "title": "\"클라우드 대신 로컬서 320B 구동\"…AMD, '라이젠 AI 맥스' 포트폴리오 ...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243670?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072313444295496_l.JPG"
+      "title": "마포구, 서울 자치구 첫 'AI 당직 보이스봇' 도입",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824724?sid=102",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100607210550726_1791238865.png"
     }
   ]
 };
