@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.05 (월) 14:46",
+  "updatedAt": "2026.10.05 (월) 23:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "LG전자, 美서 5GW 규모 AI 데이터센터 냉각 수주…K가전 새 돌파구",
+          "desc": "가전서 쌓은 냉각 기술, AI 인프라로 확장 3줄 요약 ㆍLG전자, 美 인프라 기업과 5GW 냉각 솔루션 장기 계약... 삼성전자는 지난해 유럽 냉난방 공조(HVAC) 업체 플랙트그룹을 인수한 데 이어 지난달 광주사업장에 신규...",
+          "src": "조선일보",
+          "date": "10/05",
+          "url": "https://n.news.naver.com/mnews/article/023/0004002178?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/HOOEILH4GJEONPWCWLAZISM554.jpg?auth=e856631fc01c92c125cda2d8fd983d5fd03c22043c19bd32e8af2b52ce73464a&width=1200&height=630&smart=true"
+        },
+        {
           "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
-          "desc": "5일 웹이코노미 취재 등을 종합하면, 롯데하이마트는 삼성전자 가전을 여러 품목 구매하면 최대 540만원의 혜택을 제공하고, 생활·주방가전은 9,900원부터 판매한다. 롯데하이마트 측은 '이사·웨딩 페스티벌'에서...",
+          "desc": "삼성전자·LG전자·로보락·다이슨 등의 제품을 모은 '청소기 브랜드 대전'도 진행한다. 로보락 'S10 MAXV ULTRA' 로봇청소기는 149만원, 드리미 '아쿠아10'은 59만9,000원, 다이슨 'V10 옵틱과 오토 엠티 독'은 69만원에...",
           "src": "webeconomy",
           "date": "10/05",
           "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324718",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
         },
         {
-          "title": "삼성전자 반도체 성과급 세부안, 노노갈등 뇌관 되나",
-          "desc": "가전·스마트폰 등을 담당하는 DX부문과의 보상 격차가 더욱 부각될 수 있다는 점도 문제다. 현재 DX 중심의 삼성전자 노동조합 동행은 DX 구성원들의 보상 확대를 전사 차원의 공통 성과급 재원 마련할 것을 요구하면서...",
-          "src": "sidae",
+          "title": "삼성, 베트남에 D램·낸드 ‘후공정 허브’ 구축…HBM 국내 집중, 범용은...",
+          "desc": "주승환 인하대 제조혁신전문대학원 교수는 “삼성전자 베트남 사업장이 저임금에 기댄 스마트폰·가전 조립 기지에서 AI 반도체 공급망의 핵심 축으로 탈바꿈하고 있다”며 “고대역폭메모리(HBM) 등 삼성의 미래가...",
+          "src": "서울경제",
           "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/417/0001160070?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/02/00/2026100214495849933_1.jpg"
-        },
-        {
-          "title": "삼성·LG 'AI홈' 영토 넓힌다…中 공세에 애플까지 가세",
-          "desc": "삼성전자와 LG전자가 각각 스마트싱스와 씽큐를 앞세워 생태계를 확대하는 가운데 중국 업체들은 로봇청소기에서 확보한 입지를 발판으로 제품군을 넓히고 있다. 애플도 AI 비서와 기존 기기 생태계를 앞세운 홈허브...",
-          "src": "서울신문",
-          "date": "10/05",
-          "url": "http://www.metroseoul.co.kr/article/20261005500153",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/05/.cache/512/20261005500154.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004668282?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/05/news-p.v1.20261002.a044b7f42f054a3fbdf8011a6aac5d38_Z1.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "65억 쏟아부은 'AI 지뢰탐지기'…DMZ 지뢰 도발에도 군 도입 안돼",
-          "desc": "인공지능(AI) 기반 지뢰탐지 기술이 실제 현장에 도입되지 못한 것으로 나타났다. 목함지뢰 도발 계기... 환경에서 활용하기에는 탐지 성능에 한계가 있었던 것으로 나타났다. 2023년 하반기 종합성능평가에서...",
-          "src": "jnilbo",
+          "title": "[주성하 기자의 서울과 평양 사이]군사분계선에 AI 경계도로를 깔자",
+          "desc": "우리 경제력과 기술력이면 북한이 넘보며 침을 질질 흘릴 세계적인 도로도 만들 수 있다. 그리고 철조망이나... 통일 후엔 동서 연결 도로와 관광도로로 활용하면 된다. 당연히 건설 비용을 따져야 한다. 도입과 유지에...",
+          "src": "동아일보",
           "date": "10/05",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000070941",
-          "img": "https://cdn.jnilbo.com/news/photo/202610/90000070941_595407_3923.png"
+          "url": "https://n.news.naver.com/mnews/article/020/0003752813?sid=110",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788347.4.jpg"
         },
         {
-          "title": "美 롤리시, 드론·AI로 행정용 디지털 트윈 제작",
-          "desc": "전반적으로 도입하게 됐다\"고 밝혔다. ◇AI 기술의 참신한 활용 올버크는 기술에 밝은 리서치 트라이앵글에 뿌리를 둔 롤리시가 AI 기술의 활용을 전면적으로 받아들인 미국 내 첫 지역사회 중 하나이기도 하다고...",
-          "src": "irobotnews",
+          "title": "\"클라우드 대신 로컬서 320B 구동\"…AMD, '라이젠 AI 맥스' 포트폴리오 ...",
+          "desc": "AI 작업에 집중할 경우 최대 3000억개 매개변수 규모의 프론티어급 모델까지 직접 로컬 기기에서 활용... 에미상 수상 가상현실(VR) 제작사 라이트세일 VR(LightSail VR)은 라이젠 AI 맥스+ 395 시스템을 도입해...",
+          "src": "디지털데일리",
           "date": "10/05",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48831",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/48831_104373_307.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002243670?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072313444295496_l.JPG"
         },
         {
-          "title": "게임사와 게임학계 참여, 경콘진 민·관·학 상생 협의체 발족",
-          "desc": "협의체는 생성형 AI, 최신 게임 엔진 등 신기술 도입으로 빠르게 바뀌는 글로벌 게임 시장에 발맞춰 교육... 풀을 활용한 신작 포커스 그룹 테스트(FGT) 지원 프로그램 고도화 ▲플레이엑스포 연계 산학 프로젝트 및...",
-          "src": "gamemeca",
+          "title": "10대 우선순위 사업·16개 현안 해결 국비 지원 요청",
+          "desc": "2027~2030년 UNIST에 총 450억원을 투입해 조선·플랜트 등 중후장대 산업에 적용할 AI 핵심기술과 Physical AI를... 솔루션 도입과 지역 AI기업의 서비스 고도화, 고성능 GPU 활용 등을 지원한다. 내년도 국비 요구액은...",
+          "src": "ulsanpress",
           "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/356/0000086367?sid=004",
-          "img": "https://cdn.gamemeca.com/gmdata/0001/781/350/gm212272_thumb___.webp"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584201",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584201_281190_238_v150.jpg"
         },
         {
-          "title": "65억원 들인 'AI 지뢰탐지'…개발하고도 전력화 못 했다",
-          "desc": "인공지능(AI) 기반 지뢰탐지 기술이 실제 현장에 도입되지 못한 것으로 나타났다. 최종 평가에서도 성능에... 지뢰제거로봇의 도입 실적이 없는 것으로 나타났다. 사업 최종 평가에서도 실제 작전 환경에서 활용하기에...",
-          "src": "연합뉴스",
+          "title": "영남대, 새마을운동·HRD…韓 발전 경험 우즈벡에 심는다",
+          "desc": "고도화, AI 활용 등을 주요 정부혁신 과제로 추진하고 있다. 특히 정부부처를 대상으로 HRD 인증제 도입을... 타슈켄트정보기술대학교와 2+2 복수학위제를 추진하고, 투린폴리텍대학과 공동학위 프로그램 협력 기반을...",
+          "src": "idaegu",
           "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/001/0016357844?sid=100",
-          "img": "https://img2.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100119750006500_P4.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561456",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202610/2026100601000116200005011.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "마이크론 호실적에 亞공장 증설까지… 국내 소부장 '청신호'",
+          "desc": "있어 협력사들을 대상으로 한 발주 역시 꾸준히 이어질 전망이다. 5일 관련 업계에 따르면 한미반도체와... SK증권에 따르면 저스템 거래처별 매출 비중은 △마이크론 50% △SK하이닉스 30% △삼성전자 20% 수준으로 현재...",
+          "src": "파이낸셜뉴스",
+          "date": "10/05",
+          "url": "https://n.news.naver.com/mnews/article/014/0005585064?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/05/202610051817131825_e.jpg"
+        },
+        {
+          "title": "[매경이코노미스트] AI는 연결하라는데, 노동법이 막는다",
+          "desc": "예컨대 삼성전자는 중소기업의 스마트공장 구축을 지원하며 제조혁신을 확산해 왔다. 최근에는 반도체 공정 전반의 데이터를 실시간으로 학습하는 'AI 팩토리' 구축에도 나섰다. TSMC도 협력사 공정 개선으로 부품 검증...",
+          "src": "매일경제",
+          "date": "10/05",
+          "url": "https://n.news.naver.com/mnews/article/009/0005744081?sid=110",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/06/20261006_01110135000002_M00.jpg"
+        },
         {
           "title": "“HBM 굽느라 손 모자라요”… 후공정 일감 퍼주는 ‘삼전닉스’ 주방장",
           "desc": "부품·장비) 업계의 실적 반등을 이끄는 낙수효과로 이어지는 양상이다. 삼성전자, SK하이닉스의 고부가 HBM 라인 확충에 따른 사내 생산능력(CAPA) 한계로, 표준 D램의 패키징 및 테스트 물량이 국내 후공정 협력사로...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/05",
           "url": "https://www.g-enews.com/view.php?ud=202610050913431160fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100509221301048fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "\"삼성 협력사 잡아라\"..아산시 서울서 첫 투자설명회",
-          "desc": "아산시가 삼성전자와 삼성디스플레이의 대규모 투자계획과 연계해 서울에서 처음으로 '기업 투자유치 설명회'를 열었습니다. 반도체 소재·부품·장비와 로봇·인공지능 등 2백여 개 기업을 초청해 투자 상담과 인허가...",
-          "src": "tjb",
-          "date": "10/02",
-          "url": "https://www.tjb.co.kr/news05/bodo/view/id/104373",
-          "img": "https://www.tjb.co.kr/html1/images/noimg.png"
-        },
-        {
-          "title": "노태문 삼성전자 사장, 가격 인상 카드 통할까...갤 S26 인상 배경은",
-          "desc": "당시 노 사장은 \"공급망 최적화와 협력사 공동개발로 원가 부담을 흡수하겠다\"면서도 \"이를 넘어서는 원가... 늘었지만 부품 원가 부담으로 이익이 감소했다고 설명했다. 삼성전자는 2분기 실적 발표 당시 하반기에도...",
-          "src": "insightkorea",
-          "date": "10/02",
-          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255841",
-          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202610/255841_267877_1322_v150.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "LG전자, 美서 5GW 규모 AI 데이터센터 냉각 수주…K가전 새 돌파구",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002178?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/HOOEILH4GJEONPWCWLAZISM554.jpg?auth=e856631fc01c92c125cda2d8fd983d5fd03c22043c19bd32e8af2b52ce73464a&width=1200&height=630&smart=true"
+    },
+    {
       "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
       "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324718",
       "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2324718_1134350_2849.jpg"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
     },
     {
-      "title": "삼성전자 반도체 성과급 세부안, 노노갈등 뇌관 되나",
-      "url": "https://n.news.naver.com/mnews/article/417/0001160070?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/02/00/2026100214495849933_1.jpg"
+      "title": "삼성, 베트남에 D램·낸드 ‘후공정 허브’ 구축…HBM 국내 집중, 범용은...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668282?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/05/news-p.v1.20261002.a044b7f42f054a3fbdf8011a6aac5d38_Z1.png"
     },
     {
-      "title": "삼성·LG 'AI홈' 영토 넓힌다…中 공세에 애플까지 가세",
-      "url": "http://www.metroseoul.co.kr/article/20261005500153",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/05/.cache/512/20261005500154.jpg"
+      "title": "[주성하 기자의 서울과 평양 사이]군사분계선에 AI 경계도로를 깔자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752813?sid=110",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788347.4.jpg"
     },
     {
-      "title": "65억 쏟아부은 'AI 지뢰탐지기'…DMZ 지뢰 도발에도 군 도입 안돼",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000070941",
-      "img": "https://cdn.jnilbo.com/news/photo/202610/90000070941_595407_3923.png"
-    },
-    {
-      "title": "美 롤리시, 드론·AI로 행정용 디지털 트윈 제작",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48831",
-      "img": "https://cdn.irobotnews.com/news/photo/202610/48831_104373_307.jpg"
+      "title": "\"클라우드 대신 로컬서 320B 구동\"…AMD, '라이젠 AI 맥스' 포트폴리오 ...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002243670?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/07/23/2026072313444295496_l.JPG"
     }
   ]
 };
