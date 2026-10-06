@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.06 (화) 07:40",
+  "updatedAt": "2026.10.06 (화) 15:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "구글까지 가격 인상 동참…픽셀10a 100달러 오른다[모닝폰]",
-          "desc": "블룸버그는 메모리 반도체 공급 부족이 소비자가전 업계 전반에 영향을 미치면서 스마트폰 제조사들이 잇따라 제품 가격을 올리고 있다고 전했다. 삼성전자도 최근 갤럭시 S26 시리즈 대부분의 가격을 100달러...",
-          "src": "이데일리",
+          "title": "삼성전자, HBM4·메모리 호조..3분기 영업이익 100조 돌파 전망",
+          "desc": "삼성전자는 글로벌 IT 및 반도체 산업을 선도하는 종합 전자기업이다. 사업 부문은 크게 반도체를 담당하는 DS 부문, 스마트폰 및 통신장비를 생산하는 MX/Networks부문, TV와 가전제품을 담당하는 VD/DA(DX 부문)...",
+          "src": "kpenews",
           "date": "10/06",
-          "url": "https://n.news.naver.com/mnews/article/018/0006381668?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600234.jpg"
+          "url": "https://kpenews.com/View.aspx?No=4253570",
+          "img": "https://cdn.coenworks.com/Files/4/News/202607/8666_20260717150446232.jpg"
         },
         {
-          "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
-          "desc": "삼성전자·LG전자·로보락·다이슨 등의 제품을 모은 '청소기 브랜드 대전'도 진행한다. 로보락 'S10 MAXV ULTRA' 로봇청소기는 149만원, 드리미 '아쿠아10'은 59만9,000원, 다이슨 'V10 옵틱과 오토 엠티 독'은 69만원에...",
-          "src": "webeconomy",
-          "date": "10/05",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324718",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2324718_1134350_2849.jpg"
-        },
-        {
-          "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
-          "desc": "구독 품목도 정수기와 공기청정기뿐 아니라 냉장고, 세탁기, 건조기 등 대형 가전까지 대상에 포함됐다. LG전자 베스트샵에서 판매되는 가전 가운데 구독 비중도 절반 수준까지 올라왔다. 삼성전자도 가전 구독 사업을...",
-          "src": "아이뉴스24",
-          "date": "10/04",
-          "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
-          "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
-        },
-        {
-          "title": "\"초고가 건축·상업 공간 잡는다\"… 삼성전자, 인도에 'AI 카세트형 에어...",
-          "desc": "가정용 가전 넘어 고수익 B2B로 외연 확장… \"수익성 기여 검증은 과제\" 업계에서는 삼성전자가 냉장고, 세탁기 등 대중적 가정용 가전 시장에서 쌓아 올린 브랜드 인지도를 발판 삼아, 인도 내 신흥 부유층 주거지와...",
-          "src": "g-enews",
+          "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
+          "desc": "삼성전자 등 주요 기업에 로봇 부품 및 모듈을 공급하는 인탑스, 로봇 청소기 및 가전 부품을 생산하는 신성델타테크, 물류 및 산업용 로봇 솔루션 기업 나우로보틱스, 로봇청소기 개발사 에브리봇, 미국 로보틱스...",
+          "src": "핀포인트뉴스",
           "date": "10/06",
-          "url": "https://www.g-enews.com/view.php?ud=2026100521595634700c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261005220051053980c8c1c064d22114611240.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492985_478691_417_v150.jpg"
+        },
+        {
+          "title": "[미르의 알기쉬운 비즈니스]정수기 팔아 100만 계정…쿠쿠, 말레이시아...",
+          "desc": "여기에 쿠쿠는 이미 삼성전자의 TV·냉장고·세탁건조기·태블릿 등 다른 회사 제품까지 말레이시아에서 렌털 방식으로 판매하고 있다. ‘한국 정수기를 파는 회사’...",
+          "src": "mediapen",
+          "date": "10/06",
+          "url": "https://www.mediapen.com/news/view/1127990",
+          "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
+        },
+        {
+          "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
+          "desc": "남부 타밀나두주의 첸나이 공장은 TV와 냉장고, 세탁기 등 핵심 가전제품의 안정적인 생산을 전담하고 있다. 삼성전자는 인도가 글로벌 전자제품 제조 허브로 도약하기 위해 제조업 육성 정책을 강화하는 흐름에...",
+          "src": "the-today",
+          "date": "10/06",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
+          "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "美 외식업계 강자 '칙필레'의 마이웨이…상장·AI 대신 고객 환대",
-          "desc": "다만 매장 후방 운영 및 재고·수요 예측 영역에서는 업무 효율화를 위한 AI 활용 가능성을 검토 중이다. 대고객 접점에서는 인간적 교감을 유지하고, 내부 공정에서는 효율을 도모하는 선별적 기술 도입 전략이다....",
-          "src": "g-enews",
+          "title": "홈앤쇼핑, 업계 최초 AI 위조 상품 모니터링 도입…소비자 보호 강화",
+          "desc": "AI 기술은 상품 이미지와 상품명, 판매가격, 판매 패턴, 유통 경로 등 다양한 데이터를 종합적으로 분석해... 모니터링 도입은 고객 중심 품질관리 활동의 연장선상에서 추진됐다. 홈앤쇼핑은 VOC 데이터를 활용해 품질 취약...",
+          "src": "ziksir",
           "date": "10/06",
-          "url": "https://www.g-enews.com/view.php?ud=202610052008253851fda4f5ab74_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100520183901825fda4f5ab7439122247205.jpg"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=148454",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202610/148454_167957_2036_v150.jpg"
         },
         {
-          "title": "마포구, 서울 자치구 첫 'AI 당직 보이스봇' 도입",
-          "desc": "민원전화를 AI가 응대하는 'AI 당직 보이스봇'을 도입해 이달부터 12월까지 3개월간 시범운영한다고 6일... 유동균 마포구청장은 \"AI 기술을 활용해 늦은 밤이나 휴일에도 구민들이 기다리지 않고 필요한 안내를 받을 수...",
-          "src": "view",
+          "title": "4대 은행, 'AI 공격' 대응 시험대…은행장 국감 출석 압박도",
+          "desc": "공격에 AI 도구가 활용된 정황까지 발견되면서 업무 효율을 높이는 AI 활용 역량과 함께 고객정보를 지키는... 재발방지 대책에는 AI 보안 기술 도입과 함께 업무지원 시스템의 인증 강화, 접근권한 최소화, 취약점 조치와...",
+          "src": "sisaon",
           "date": "10/06",
-          "url": "https://n.news.naver.com/mnews/article/277/0005824724?sid=102",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100607210550726_1791238865.png"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204939",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202610/204939_307410_924.png"
         },
         {
-          "title": "서초구, 대화만으로 900개 서비스 예약…진화한 서초 AI전트 도입",
-          "desc": "서초구는 6일 전국 지자체 최초로 인공지능(AI) 에이전트 기술을 접목한 행정 챗봇 서비스 '서초 AI전트'의... 입력하면 AI가 즉각 조건에 맞는 일정을 찾아 예약을 돕는다. 이 밖에도 스마트폰 마이크를 활용한 '온디바이스...",
-          "src": "ebn",
+          "title": "KT \"AI 경쟁, 성능 아닌 성과로…'잘 쓰는 AX'가 중요\"",
+          "desc": "에이전틱 AI 시대이기 때문에 묻고 답하는 AI에서 일하는 AI로 바뀌었다\"며 \"이 일하는 AI를 활용해 어떻게... 업무에 도입하려니 제대로 작동하지 않는다는 고민도 있다\"며 AI를 기업 전체로 확산하려면 기술적 성능뿐...",
+          "src": "뉴스핌",
           "date": "10/06",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726730",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1726730_760607_623_v150.jpg"
+          "url": "https://www.newspim.com/news/view/20261006000730",
+          "img": "https://img.newspim.com/news/2026/10/06/2610061150046400_t1.jpg"
         },
         {
-          "title": "[기획] 'K-수소 인프라' 보폭 넓히는 한국가스기술공사",
-          "desc": "향후 공사는 AI가 충전소 상태를 분석하고 원인을 진단해 최적의 운전·정비 방안을 제시하는 'Autonomous O&M... 이와 함께 탄소중립(Net-Zero) 실현을 위해 수소 생산 과정의 이산화탄소를 포집·활용하는 CCU 기술을 적극 도입...",
-          "src": "e2news",
+          "title": "스물두 살 창업자의 Rollup, 사진첩으로 AI '콜드 스타트' 해결한다",
+          "desc": "해결하려는 기술이 개발됐다. 스탠퍼드대학교 출신 임지우(22)와 캘리포니아공과대(Caltech) 출신 노라 샤오(21)가 창업한 Kint AI는 스마트폰 사진을 기기 내부에서 분석해 AI가 활용할 수 있는 개인 맥락으로...",
+          "src": "한국경제",
           "date": "10/06",
-          "url": "http://www.e2news.com/news/articleView.html?idxno=334588",
-          "img": "https://cdn.e2news.com/news/thumbnail/202609/334588_232696_5119_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005339566?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/0D.45953964.1.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
+          "desc": "삼성전자는 인도가 글로벌 전자제품 제조 허브로 도약하기 위해 제조업 육성 정책을 강화하는 흐름에 맞춰, 현지 부품 생태계와의 협력 수준을 한층 더 끌어올릴 방침이다. 현지 협력사들과의 밸류체인 연계를...",
+          "src": "the-today",
+          "date": "10/06",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
+          "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
+        },
+        {
+          "title": "이재용 삼성전자 회장, 선대회장 밑그림 위에 '글로벌 삼성' 완성한다",
+          "desc": "삼성전자가 지난 7월 발표한 올해 2분기 실적은 연결 기준 매출 171조5000억원, 영업이익 89조5000억원으로... 실제로 이 회장은 회장 취임 직후 첫 공식 일정으로 삼성 계열사가 뿌리내린 지역의 협력사를 찾았다. 위에서...",
+          "src": "koreareport",
+          "date": "10/06",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53428",
+          "img": "https://cdn.koreareport.co.kr/news/photo/202610/53428_56410_4943.jpg"
+        },
+        {
+          "title": "'삼성전자·하이닉스' 주춤하자 날았다...\"지금은 소부장 담을 때\"",
+          "desc": "중소형 협력사들의 실질적인 수혜로 이어지고 있다고 분석한다. 노근창 세미콘 리서치 랩 대표는 \"AI 수요... 장비·부품 등으로 빠르게 확산하고 있다\"고 진단했다. 특히 삼성전자, SK하이닉스, TSMC 등 주요...",
+          "src": "파이낸셜뉴스",
+          "date": "10/06",
+          "url": "https://n.news.naver.com/mnews/article/014/0005585218?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060600479861_e.jpg"
+        },
+        {
           "title": "[넥스트-샷] 채권은 22년 전으로, 나스닥은 새 역사로···또 'AI 勝'",
           "desc": "반면 기존 협력사인 인텔은 TSMC의 참여 가능성에 역할 축소 우려가 부각됐습니다. 다만 AI 공급망 내부에도... 국내 시장 전망 국내 증시에서는 엔비디아 신고가와 미국 AI 대형주의 강세가 삼성전자·SK하이닉스 등...",
           "src": "womaneconomy",
           "date": "10/06",
           "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259338",
           "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202610/259338_463779_2230_v150.jpg"
-        },
-        {
-          "title": "포장재 머문 베트남 협력사 340곳…삼성, 핵심 부품 한국 공급망 유지 속...",
-          "desc": "공급망 양적 확대 속 저부가 부품 편중 베트남 산업무역부는 베트남 최대 외국인직접투자 기업인 삼성전자의 공급망에 참여하는 베트남 현지 기업이 1차와 2차 협력사를 합쳐 총 340곳이라고 집계했다. 2014년 당시 1차...",
-          "src": "g-enews",
-          "date": "10/06",
-          "url": "https://www.g-enews.com/view.php?ud=202610051952091095fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100519543901120fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "납품단가 다음은 ‘데이터’⋯AI 시대 대기업·中企 ‘新 갑을관계’ 탄...",
-          "desc": "현대차·기아도 경북 경주 글로벌상생협력센터에 ‘AI 특화 공동훈련센터’를 열고 올해 1·2차 부품 협력사 임직원 900여 명을 대상으로 AI 실무 교육을 진행했다. 중소기업중앙회 역시 삼성전자·포스코 등과 상생형...",
-          "src": "이투데이",
-          "date": "10/06",
-          "url": "https://www.etoday.co.kr/news/view/2628659",
-          "img": "https://img.etoday.co.kr/pto_db/2026/10/20261005161046_2397168_1200_537.jpg"
-        },
-        {
-          "title": "마이크론 호실적에 亞공장 증설까지… 국내 소부장 '청신호'",
-          "desc": "있어 협력사들을 대상으로 한 발주 역시 꾸준히 이어질 전망이다. 5일 관련 업계에 따르면 한미반도체와... SK증권에 따르면 저스템 거래처별 매출 비중은 △마이크론 50% △SK하이닉스 30% △삼성전자 20% 수준으로 현재...",
-          "src": "파이낸셜뉴스",
-          "date": "10/05",
-          "url": "https://n.news.naver.com/mnews/article/014/0005585064?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/05/202610051817131825_e.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "구글까지 가격 인상 동참…픽셀10a 100달러 오른다[모닝폰]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006381668?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600234.jpg"
+      "title": "삼성전자, HBM4·메모리 호조..3분기 영업이익 100조 돌파 전망",
+      "url": "https://kpenews.com/View.aspx?No=4253570",
+      "img": "https://cdn.coenworks.com/Files/4/News/202607/8666_20260717150446232.jpg"
     },
     {
-      "title": "롯데하이마트, 10월 가전 할인전…혼수 최대 540만원 혜택",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2324718",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2324718_1134350_2849.jpg"
+      "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492985_478691_417_v150.jpg"
     },
     {
-      "title": "삼성·LG전자, 가전 구독 키운다…판매 넘어 관리 서비스로 승부",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063413?sid=105",
-      "img": "https://image.inews24.com/v1/ebb8e5f978e3a4.jpg"
+      "title": "[미르의 알기쉬운 비즈니스]정수기 팔아 100만 계정…쿠쿠, 말레이시아...",
+      "url": "https://www.mediapen.com/news/view/1127990",
+      "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
     },
     {
-      "title": "\"초고가 건축·상업 공간 잡는다\"… 삼성전자, 인도에 'AI 카세트형 에어...",
-      "url": "https://www.g-enews.com/view.php?ud=2026100521595634700c8c1c064d_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261005220051053980c8c1c064d22114611240.jpg"
+      "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
+      "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
     },
     {
-      "title": "美 외식업계 강자 '칙필레'의 마이웨이…상장·AI 대신 고객 환대",
-      "url": "https://www.g-enews.com/view.php?ud=202610052008253851fda4f5ab74_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100520183901825fda4f5ab7439122247205.jpg"
+      "title": "홈앤쇼핑, 업계 최초 AI 위조 상품 모니터링 도입…소비자 보호 강화",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=148454",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202610/148454_167957_2036_v150.jpg"
     },
     {
-      "title": "마포구, 서울 자치구 첫 'AI 당직 보이스봇' 도입",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824724?sid=102",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100607210550726_1791238865.png"
+      "title": "4대 은행, 'AI 공격' 대응 시험대…은행장 국감 출석 압박도",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204939",
+      "img": "https://cdn.sisaon.co.kr/news/photo/202610/204939_307410_924.png"
     }
   ]
 };
