@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.06 (화) 15:25",
+  "updatedAt": "2026.10.07 (수) 00:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, HBM4·메모리 호조..3분기 영업이익 100조 돌파 전망",
-          "desc": "삼성전자는 글로벌 IT 및 반도체 산업을 선도하는 종합 전자기업이다. 사업 부문은 크게 반도체를 담당하는 DS 부문, 스마트폰 및 통신장비를 생산하는 MX/Networks부문, TV와 가전제품을 담당하는 VD/DA(DX 부문)...",
-          "src": "kpenews",
+          "title": "중국 D램 점유율 10% 돌파…“제2의 LCD 참사 우려”",
+          "desc": "허 의원이 국정감사에서 제시한 자료에 따르면 올해 2분기 글로벌 D램 시장 점유율은 삼성전자 39... 타 가전·PC 등에 사용되는 범용 DDR4 D램을 대량 공급하며 시장을 빠르게 확대했다고 지적했다.그는 이 같은 중국의...",
+          "src": "wemakenews",
           "date": "10/06",
-          "url": "https://kpenews.com/View.aspx?No=4253570",
-          "img": "https://cdn.coenworks.com/Files/4/News/202607/8666_20260717150446232.jpg"
+          "url": "https://wemakenews.co.kr/news/view.php?no=26471",
+          "img": ""
         },
         {
           "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
         },
         {
-          "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
-          "desc": "남부 타밀나두주의 첸나이 공장은 TV와 냉장고, 세탁기 등 핵심 가전제품의 안정적인 생산을 전담하고 있다. 삼성전자는 인도가 글로벌 전자제품 제조 허브로 도약하기 위해 제조업 육성 정책을 강화하는 흐름에...",
-          "src": "the-today",
+          "title": "메모리 반도체 호황 속 삼성전자 완제품은 '고전'…DX부문 3분기 실적 어...",
+          "desc": "삼성전자가 메모리 호황에 힘입어 올 3분기 사상 최대 수준의 실적을 낼 것으로 예상되는 가운데, 반도체... 세탁기·냉장고 등 대형 생활가전은 미국 관세와 물류비 등도 수익성을 압박하는 요인으로 작용하고 있다....",
+          "src": "뉴시스",
           "date": "10/06",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
-          "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
+          "url": "https://n.news.naver.com/mnews/article/003/0014236238?sid=101",
+          "img": "https://img1.newsis.com/2026/01/08/NISI20260108_0021119929_web.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "홈앤쇼핑, 업계 최초 AI 위조 상품 모니터링 도입…소비자 보호 강화",
-          "desc": "AI 기술은 상품 이미지와 상품명, 판매가격, 판매 패턴, 유통 경로 등 다양한 데이터를 종합적으로 분석해... 모니터링 도입은 고객 중심 품질관리 활동의 연장선상에서 추진됐다. 홈앤쇼핑은 VOC 데이터를 활용해 품질 취약...",
-          "src": "ziksir",
-          "date": "10/06",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=148454",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202610/148454_167957_2036_v150.jpg"
+          "title": "강원전역 바이오클러스터化, 초광역 넘어 글로벌로 뻗는다",
+          "desc": "두 번째 발표는 정지훈 대구경북과학기술원(DGIST) 교수가 ‘바이오 산업에서의 AI 활용’을 주제로 진행했다.... 프로세스 도입이 이뤄질 것”며 “우리가 좋은 모델을 만든다 한들 금방 따라 잡힐 것이고 결국 실험해서...",
+          "src": "kwnews",
+          "date": "10/07",
+          "url": "https://n.news.naver.com/mnews/article/087/0001222311?sid=100",
+          "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/10/06/.cache/512/20261006500277.jpg"
         },
         {
-          "title": "4대 은행, 'AI 공격' 대응 시험대…은행장 국감 출석 압박도",
-          "desc": "공격에 AI 도구가 활용된 정황까지 발견되면서 업무 효율을 높이는 AI 활용 역량과 함께 고객정보를 지키는... 재발방지 대책에는 AI 보안 기술 도입과 함께 업무지원 시스템의 인증 강화, 접근권한 최소화, 취약점 조치와...",
-          "src": "sisaon",
-          "date": "10/06",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204939",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202610/204939_307410_924.png"
+          "title": "노르웨이 \"공원·학교 등서 스마트 안경 사용 금지 추진… 동의 없는 촬...",
+          "desc": "신기술이 도입되고 있다\"며 \"감시받지 않는 것이 당연한 장소에서까지 촬영을 걱정하는 사회를 원하지... 회사 측은 \"스마트 안경은 음악 감상과 통화, 실시간 번역 등 다양한 용도로 활용되고 있으며 안전장치도 갖추고...",
+          "src": "뉴스핌",
+          "date": "10/07",
+          "url": "https://www.newspim.com/news/view/20261007000001",
+          "img": "https://img.newspim.com/news/2026/07/23/260723111917763_t1.jpg"
         },
         {
-          "title": "KT \"AI 경쟁, 성능 아닌 성과로…'잘 쓰는 AX'가 중요\"",
-          "desc": "에이전틱 AI 시대이기 때문에 묻고 답하는 AI에서 일하는 AI로 바뀌었다\"며 \"이 일하는 AI를 활용해 어떻게... 업무에 도입하려니 제대로 작동하지 않는다는 고민도 있다\"며 AI를 기업 전체로 확산하려면 기술적 성능뿐...",
+          "title": "[미국 특징주] 美 소프트웨어주 연고점…\"AI는 파괴자 아닌 조력자\"",
+          "desc": "기술 리서치 업체 밸로어의 레베카 웨트먼 최고경영자(CEO)는 \"SaaS 종말론은 월가 일부가 생각했던 것만큼 빠르게 오지 않았다\"며 AI 도입이 실험 단계를 넘어서면서 공급업체들이 고객 수요 증가를 보고하고 있다고...",
           "src": "뉴스핌",
           "date": "10/06",
-          "url": "https://www.newspim.com/news/view/20261006000730",
-          "img": "https://img.newspim.com/news/2026/10/06/2610061150046400_t1.jpg"
+          "url": "https://www.newspim.com/news/view/20261006001522",
+          "img": "https://img.newspim.com/news/2026/09/16/2609160412085560_126_tc.jpg"
         },
         {
-          "title": "스물두 살 창업자의 Rollup, 사진첩으로 AI '콜드 스타트' 해결한다",
-          "desc": "해결하려는 기술이 개발됐다. 스탠퍼드대학교 출신 임지우(22)와 캘리포니아공과대(Caltech) 출신 노라 샤오(21)가 창업한 Kint AI는 스마트폰 사진을 기기 내부에서 분석해 AI가 활용할 수 있는 개인 맥락으로...",
-          "src": "한국경제",
+          "title": "전기안전공사, AI 활용 전기화재 원인 빠르게 판별",
+          "desc": "인공지능(AI)을 도입해 데이터 기반 판별이 가능한 앱을 개발·운영하고 있다. 최장 10일이 걸리던 원인 판별... 활용해 전기화재 원인조사의 객관성과 신속성을 높일 수 있게 됐다\"라며 \"앞으로도 현장에 필요한 기술을...",
+          "src": "e-platform",
           "date": "10/06",
-          "url": "https://n.news.naver.com/mnews/article/015/0005339566?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/0D.45953964.1.jpg"
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=105941",
+          "img": "http://www.e-platform.net/image/logo/snslogo_20220218030847.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
-          "desc": "삼성전자는 인도가 글로벌 전자제품 제조 허브로 도약하기 위해 제조업 육성 정책을 강화하는 흐름에 맞춰, 현지 부품 생태계와의 협력 수준을 한층 더 끌어올릴 방침이다. 현지 협력사들과의 밸류체인 연계를...",
-          "src": "the-today",
+          "title": "\"막대한 이익 다 갖겠단 식 안돼\"...여야, 삼전 노조위원장 '질타'",
+          "desc": "성과급 지급 규모 등을 놓고 사측과 갈등했던 최승호 삼성그룹 초기업노동조합 삼성전자지부(초기업노조)... 삼성 반도체 성과는 조합원들도 노력했지만, 같은 라인의 비조합원과 소재 부품 장비 등을 납품하는 협력사...",
+          "src": "머니투데이",
           "date": "10/06",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
-          "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005422840?sid=100",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100617342796623_1.jpg"
         },
         {
-          "title": "이재용 삼성전자 회장, 선대회장 밑그림 위에 '글로벌 삼성' 완성한다",
-          "desc": "삼성전자가 지난 7월 발표한 올해 2분기 실적은 연결 기준 매출 171조5000억원, 영업이익 89조5000억원으로... 실제로 이 회장은 회장 취임 직후 첫 공식 일정으로 삼성 계열사가 뿌리내린 지역의 협력사를 찾았다. 위에서...",
-          "src": "koreareport",
+          "title": "\"노조 기본은 연대\"…여야 모두에 질타받은 삼전 반도체 노조위원장",
+          "desc": "소재·부품·장비 협력사 노동자들, 투자 세액 공제 정책 등 국가와 국민의 지원이 함께 만든 성과\"라며 \"삼성전자 DS 부문만 유일하게 노력해서 돈을 번 것처럼 노조를 운영해서는 안 된다\"고 지적했다. 박 의원은 그러면서...",
+          "src": "nocutnews",
           "date": "10/06",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53428",
-          "img": "https://cdn.koreareport.co.kr/news/photo/202610/53428_56410_4943.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004196189?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/06/202610061923374053_0.jpg"
         },
         {
-          "title": "'삼성전자·하이닉스' 주춤하자 날았다...\"지금은 소부장 담을 때\"",
-          "desc": "중소형 협력사들의 실질적인 수혜로 이어지고 있다고 분석한다. 노근창 세미콘 리서치 랩 대표는 \"AI 수요... 장비·부품 등으로 빠르게 확산하고 있다\"고 진단했다. 특히 삼성전자, SK하이닉스, TSMC 등 주요...",
-          "src": "파이낸셜뉴스",
+          "title": "조끼 계약·호남 반도체까지…최승호 삼성 노조위원장 전방위 추궁 (종...",
+          "desc": "﻿최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 6일 국정감사 증인석에서 성과급 배분과 노조... 박 의원은 반도체 성과가 비조합원과 DX 구성원, 소재·부품·장비 협력사 노동자, 투자 세액공제와 전력·용수...",
+          "src": "데일리안",
           "date": "10/06",
-          "url": "https://n.news.naver.com/mnews/article/014/0005585218?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060600479861_e.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003139975?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1791279046965_1698412_m_1.jpg"
         },
         {
-          "title": "[넥스트-샷] 채권은 22년 전으로, 나스닥은 새 역사로···또 'AI 勝'",
-          "desc": "반면 기존 협력사인 인텔은 TSMC의 참여 가능성에 역할 축소 우려가 부각됐습니다. 다만 AI 공급망 내부에도... 국내 시장 전망 국내 증시에서는 엔비디아 신고가와 미국 AI 대형주의 강세가 삼성전자·SK하이닉스 등...",
-          "src": "womaneconomy",
+          "title": "삼성전자 반도체는 성과급, DX는 타결금…최승호 \"함께 교섭했다\"",
+          "desc": "박 의원은 반도체 성과가 비조합원과 DX 구성원, 소재·부품·장비 협력사 노동자, 투자 세액공제와 전력... 원칙에 협력사와의 성과 공유와 사회적 책임이 반영돼야 한다고 주장했다. 최 위원장은 \"삼성전자 노동조합의...",
+          "src": "데일리안",
           "date": "10/06",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259338",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202610/259338_463779_2230_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003139965?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1791276339709_1698386_m_1.jpg"
         }
       ]
     },
@@ -177,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, HBM4·메모리 호조..3분기 영업이익 100조 돌파 전망",
-      "url": "https://kpenews.com/View.aspx?No=4253570",
-      "img": "https://cdn.coenworks.com/Files/4/News/202607/8666_20260717150446232.jpg"
-    },
-    {
       "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492985_478691_417_v150.jpg"
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
     },
     {
-      "title": "[단독] 삼성전자 인도 진출 30년…\"생산기지 넘어 글로벌 혁신 허브로\"",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=91256",
-      "img": "https://cdn.the-today.com/news/photo/202610/91256_112724_333.png"
+      "title": "메모리 반도체 호황 속 삼성전자 완제품은 '고전'…DX부문 3분기 실적 어...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014236238?sid=101",
+      "img": "https://img1.newsis.com/2026/01/08/NISI20260108_0021119929_web.jpg"
     },
     {
-      "title": "홈앤쇼핑, 업계 최초 AI 위조 상품 모니터링 도입…소비자 보호 강화",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=148454",
-      "img": "https://cdn.ziksir.com/news/thumbnail/202610/148454_167957_2036_v150.jpg"
+      "title": "강원전역 바이오클러스터化, 초광역 넘어 글로벌로 뻗는다",
+      "url": "https://n.news.naver.com/mnews/article/087/0001222311?sid=100",
+      "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/10/06/.cache/512/20261006500277.jpg"
     },
     {
-      "title": "4대 은행, 'AI 공격' 대응 시험대…은행장 국감 출석 압박도",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204939",
-      "img": "https://cdn.sisaon.co.kr/news/photo/202610/204939_307410_924.png"
+      "title": "노르웨이 \"공원·학교 등서 스마트 안경 사용 금지 추진… 동의 없는 촬...",
+      "url": "https://www.newspim.com/news/view/20261007000001",
+      "img": "https://img.newspim.com/news/2026/07/23/260723111917763_t1.jpg"
+    },
+    {
+      "title": "[미국 특징주] 美 소프트웨어주 연고점…\"AI는 파괴자 아닌 조력자\"",
+      "url": "https://www.newspim.com/news/view/20261006001522",
+      "img": "https://img.newspim.com/news/2026/09/16/2609160412085560_126_tc.jpg"
     }
   ]
 };
