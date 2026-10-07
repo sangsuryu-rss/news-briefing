@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.07 (수) 10:34",
+  "updatedAt": "2026.10.07 (수) 17:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 임직원 보유 '스킬' 분석해 맞춤형 성장 지원 나선다",
-          "desc": "삼성전자에서 스마트폰과 가전 등을 담당하는 디바이스경험(DX) 부문이 최근 임직원의 역량을 '스킬(Skill)' 단위로 분석해 맞춤형 성장을 돕는 커리어 지원 플랫폼 'My Skills(마이 스킬스)'을 오픈했다. 7일 삼성전자에...",
-          "src": "뉴시스",
+          "title": "기업들 “국내 실증·기후금융 확대”…李 “선불형 직접보조금도 검토...",
+          "desc": "7일 대한상공회의소에서 열린 K-GX 전략 국민보고회에서는 태양광과 철강·가전·풍력·반도체·원전 등... 삼성전자와 LG전자 역시 히트펌프와 넷제로 주택 확산 계획을 제시하며 실제 시장과 주거 현장에 연결하기 위한...",
+          "src": "서울경제",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/003/0014237567?sid=101",
-          "img": "https://img1.newsis.com/2026/10/07/NISI20261007_0002257220_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004669133?sid=100",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/07/rcv.YNA.20261007.PYH2026100721290001300_Z1.jpg"
         },
         {
-          "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
-          "desc": "삼성전자 등 주요 기업에 로봇 부품 및 모듈을 공급하는 인탑스, 로봇 청소기 및 가전 부품을 생산하는 신성델타테크, 물류 및 산업용 로봇 솔루션 기업 나우로보틱스, 로봇청소기 개발사 에브리봇, 미국 로보틱스...",
-          "src": "핀포인트뉴스",
-          "date": "10/06",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492985_478691_417_v150.jpg"
+          "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
+          "desc": "삼성전자와 SK하이닉스의 추가 매수는 실적과 금리 변수를 확인한 뒤 판단하고, 당장의 투자기회는 공급... 최 본부장은 \"완성된 휴머노이드를 보기 어려운 만큼 부품 쪽에 집중하는 게 맞다\"며, 로봇청소기처럼 성능이...",
+          "src": "kpinews",
+          "date": "10/07",
+          "url": "https://www.kpinews.kr/newsView/1065599218725578",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/07/p1065599218725578_922_thum.jpg"
         },
         {
           "title": "[미르의 알기쉬운 비즈니스]정수기 팔아 100만 계정…쿠쿠, 말레이시아...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
         },
         {
-          "title": "[미르의 알기쉬운 비즈니스]‘삼성·LG만 있는 게 아니다’…케냐서 냉...",
-          "desc": "아프리카에서 한국 가전이라고 하면 삼성전자와 LG전자부터 떠올리기 쉽다.... 있으며 세탁기·전자레인지·에어프라이어 등으로 현지 생산 품목을 확대할 계획이다....",
-          "src": "mediapen",
+          "title": "TV부터 스마트폰까지 안 오르는 게 없다…내년 칩플레이션 더 심화",
+          "desc": "예로 삼성전자는 최근 갤럭시S26 시리즈 가격을 출시가보다 올렸고, 애플도 전작인 아이폰17 시리즈 가격을 인상했다. 가전도 예외가 아니다. 과거 첨단 IT 제품에 국한됐던 반도체 가격 상승이 이제는 냉장고, 세탁기...",
+          "src": "g-enews",
           "date": "10/07",
-          "url": "https://www.mediapen.com/news/view/1128271",
-          "img": "https://image.mediapen.com/news/202610/news_1128271_1791330719_m.png"
+          "url": "https://www.g-enews.com/view.php?ud=20261007144205759127fa31d75c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2025121408301801351fbbec65dfb121131206187.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "가스공사, CEO 주도 '정보자산 기반 AX 추진 TF' 발족",
-          "desc": "가스공사는 단순한 AI 기술 도입을 넘어 업무수행 방식과 조직문화를 함께 혁신하는 전사적 AX 체계를... 한편, AI 적용 대상 업무 발굴과 우선 추진과제 선정, AI 활용 역량 강화 및 성과관리 등을 종합적으로 수행한다....",
-          "src": "gasnews",
+          "title": "[공공SW전략] 대기업참여제한 13년…체급 키웠다 | 아이티센㊦",
+          "desc": "아이티센그룹은 대기업 참여제한을 공공사업 확대의 기회로 활용해왔다. 출발점은 대기업과 함께 수행했던 프로젝트였다. 당시 아이티센은 삼성SDS와 LG CNS 등과 사업을 수행하며 확보한 업무 지식과 기술을...",
+          "src": "블로터",
           "date": "10/07",
-          "url": "https://www.gasnews.com/news/articleView.html?idxno=127085",
-          "img": "https://cdn.gasnews.com/news/thumbnail/202610/127085_103453_3313_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000091333?sid=105",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/675165_289025_3022_v150.jpg"
         },
         {
-          "title": "인핸스, 온톨로지 기반 엔터프라이즈 AI…\"데이터전문가 아니어도 OK\"",
-          "desc": "데이터를 활용할 수 있도록 하는 것이 인핸스의 차별점\"이라고 설명했다. 이어 그는 \"무형화한 지식과... 모두의 AI'를 주제로 과학기술정보통신부, 한국인공지능·소프트웨어산업협회(KOSA), AI페스타 조직위원회가...",
+          "title": "[핀테크 NOW] 네이버페이·토스",
+          "desc": "마이데이터 기술을 결합해 실손보험금 청구 절차를 대폭 간소화한다. 네이버페이는 'Npay 보험금 청구... 네이버페이 관계자는 \"이번 개편은 서류 없는 실손보험금 청구 대상 기관을 확대하고, 마이데이터를 활용해 결제...",
+          "src": "wikileaks-kr",
+          "date": "10/07",
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192928_209218_030_v150.jpg"
+        },
+        {
+          "title": "대화로 업무용 AI 만든다…와이즈넛, 에이전트 대중화 속도",
+          "desc": "만들어 활용할 수 있도록 하는 데 초점을 맞췄다. 와이즈넛 부스 참관객이 현장에 마련된 PC로 AI 에이전트... 강용성 와이즈넛 대표는 \"AI 에이전트 도입의 관건은 기술 자체보다 현장에서 각자 업무에 맞는 에이전트를...",
           "src": "ZDNet코리아",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440088?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/07/ba916f65b877552a9ee2cc83169dc975.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002440209?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/07/4189b00deb9dd9f34b3cb50bc4ef06f0.jpg"
         },
         {
-          "title": "가스공사, CEO 주도 'AX 추진 TF' 출범⋯\"AI 결합해 업무 혁신\"",
-          "desc": "단순한 기술 도입을 넘어 자사가 축적해 온 방대한 데이터와 업무 지식을 AI와 융합해 일하는 방식을... 이와 함께 AI 적용 대상 업무 발굴, 최우선 추진과제 선정, 임직원 AI 활용 역량 강화 및 성과 관리 등을...",
-          "src": "이투데이",
+          "title": "AMD 리사 수 CEO \"한국 이용자 피드백은 기술 발전의 강력한 동력\"",
+          "desc": "AI 기술 발전에 따른 게이밍 기술 변화에 대해서는 머신러닝 기술의 핵심 목표를 게이밍 성능 향상에 두고... 그는 \"AM4 플랫폼에 X3D 제품을 다시 도입해 기존 메인보드와 시스템을 활용해 쉽게 업그레이드할 수 있도록...",
+          "src": "game",
           "date": "10/07",
-          "url": "https://www.etoday.co.kr/news/view/2633271",
-          "img": "https://img.etoday.co.kr/pto_db/2025/07/20250716111932_2199688_1064_706.jpg"
-        },
-        {
-          "title": "최용철 소방청장 \"중증응급환자 이송체계 전국 확대…현장 대응 강화\"",
-          "desc": "첨단기술을 활용한 '과학 소방' 전환도 추진한다. 신고·출동·대응·예방 등 소방 전 분야에 인공지능(AI)과... 첨단기술이 소방 현장에 빠르게 적용될 수 있는 체계를 구축할 계획이다. 로봇과 드론 등 첨단장비의 개발·도입...",
-          "src": "뉴스1",
-          "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/421/0009213625?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/9/1/8081880/high.jpg"
+          "url": "https://m.sports.naver.com/esports/article/347/0000196003",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026100717375809187021ad998911221146230134.jpg&nmt=26"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "\"삼성 반도체 성과, 조합원만의 것 아냐\"…박희승 의원, 사회적 책임 강...",
-          "desc": "박 의원은 삼성 반도체의 성과가 조합원뿐 아니라 같은 라인의 비조합원과 DX부문 구성원, 소재·부품·장비를 대는 협력사 노동자들, 그리고 투자세액 공제와 전력·용수 인프라로 뒷받침해 온 국민의 지원이 함께 만든...",
-          "src": "pressian",
+          "title": "삼성전자, 히트펌프로 아파트 냉난방 전기화 추진…사업 계획 발표",
+          "desc": "고효율 설루션 보급을 통해 가계의 난방비 부담을 완화하는 한편, 국내 생산 설비 투자 확대와 핵심 부품 국산화도 적극 추진해 중소 협력사, 부품 제조사와의 상생 기반을 강화한다는 구상이다. 삼성전자 관계자는 \"향후...",
+          "src": "nocutnews",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/002/0002459838?sid=102",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/079/0004196638?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/07/202610071728225972_0.jpg"
         },
         {
-          "title": "박희승 의원, “삼성 반도체 성과 공유…사회적 책임도 담아야”",
-          "desc": "박 의원은 삼성 반도체의 성과가 조합원뿐 아니라 같은 라인의 비조합원과 DX부문 구성원, 소재·부품·장비를 대는 협력사 노동자들, 투자세액 공제와 전력·용수 인프라로 뒷받침해 온 국민의 지원이 함께 만든 결과물로...",
-          "src": "kukinews",
+          "title": "삼성전자, K-GX서 'EHS 올인원' 보급 청사진 공개…\"전국 단위 보급 추진...",
+          "desc": "삼성전자는 국내 생산 설비 투자 확대와 핵심 부품 국산화를 적극 추진해 중소 협력사 및 부품 제조사와의 상생 기반을 강화할 계획이다. 또 수원 CS 아카데미에 구축된 'EHS 히트펌프 전담 교육장'을 통해 배관 시공...",
+          "src": "shinailbo",
           "date": "10/07",
-          "url": "https://www.kukinews.com/article/view/kuk202610070069",
-          "img": ""
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069746",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5069746_2067385_1711.jpg"
         },
         {
-          "title": "알테오젠, 2000억원 투자 유치…대전 공장 세우고 ‘플랫폼 다각화’",
-          "desc": "“특허 침해 이어 기술 탈취도 기승…협력사 파고들며 둑 전체 무너뜨려” - 핵심 요약: 경찰청 자료에... 태우자” 라이프운용, 삼성전자에 ‘역제안’ ▶기사 바로가기: 거래시간 늘어난 개별주, VI 발동도 34% 급증",
-          "src": "서울경제",
+          "title": "삼성전자, K-GX 전략 협력…'EHS 올인원' 히트펌프 보급 계획 발표",
+          "desc": "삼성전자가 K-GX(한국형 녹색대전환) 전략에 협력한다. K-GX는 탄소중립과 지속가능한 경제성장을 동시... 국내 산업 생태계와의 상생도 추진한다. 핵심 부품 국산화를 통해 중소 협력사 및 부품 제조사와 협력할 계획이다.",
+          "src": "newspost",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/011/0004668888?sid=101",
-          "img": ""
+          "url": "https://www.newspost.kr/news/articleView.html?idxno=226201",
+          "img": "https://cdn.newspost.kr/news/thumbnail/202610/226201_228647_537_v150.jpg"
         },
         {
-          "title": "800조 반도체 '나비효과'…교육도, 도시개발도 곳곳 훈풍",
-          "desc": "삼성전자와 SK하이닉스의 800조원대 반도체 클러스터 투자 계획이 전남광주권 대학입시와 지역경제에... 심철의 전남광주특별시의원은 \"반도체 특성상 생산라인에 문제가 생기면 협력사, 특히 1차 밴더(협력사)는 20분...",
-          "src": "뉴시스",
+          "title": "\"반도체는 팀 스포츠\"…리사 수 \"삼성·SK와 HBM4 협력…전 세계 수백억...",
+          "desc": "웨이퍼·패키징·메모리·시스템 부품 등 여러 방면에서 협력을 강화하고 있다\"고 부연했다. 삼성전자와의 파운드리(반도체 위탁생산) 협력 확대 여부에 대해서도 긍정적인 메시지를 남겼다. 수 회장은 \"파운드리...",
+          "src": "view",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/003/0014237238?sid=102",
-          "img": "https://img1.newsis.com/2026/06/30/NISI20260630_0021343895_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005825836?sid=101",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 임직원 보유 '스킬' 분석해 맞춤형 성장 지원 나선다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014237567?sid=101",
-      "img": "https://img1.newsis.com/2026/10/07/NISI20261007_0002257220_web.jpg"
+      "title": "기업들 “국내 실증·기후금융 확대”…李 “선불형 직접보조금도 검토...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669133?sid=100",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/07/rcv.YNA.20261007.PYH2026100721290001300_Z1.jpg"
     },
     {
-      "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/492985_478691_417_v150.jpg"
+      "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
+      "url": "https://www.kpinews.kr/newsView/1065599218725578",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/07/p1065599218725578_922_thum.jpg"
     },
     {
       "title": "[미르의 알기쉬운 비즈니스]정수기 팔아 100만 계정…쿠쿠, 말레이시아...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
     },
     {
-      "title": "[미르의 알기쉬운 비즈니스]‘삼성·LG만 있는 게 아니다’…케냐서 냉...",
-      "url": "https://www.mediapen.com/news/view/1128271",
-      "img": "https://image.mediapen.com/news/202610/news_1128271_1791330719_m.png"
+      "title": "TV부터 스마트폰까지 안 오르는 게 없다…내년 칩플레이션 더 심화",
+      "url": "https://www.g-enews.com/view.php?ud=20261007144205759127fa31d75c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2025121408301801351fbbec65dfb121131206187.jpg"
     },
     {
-      "title": "가스공사, CEO 주도 '정보자산 기반 AX 추진 TF' 발족",
-      "url": "https://www.gasnews.com/news/articleView.html?idxno=127085",
-      "img": "https://cdn.gasnews.com/news/thumbnail/202610/127085_103453_3313_v150.jpg"
+      "title": "[공공SW전략] 대기업참여제한 13년…체급 키웠다 | 아이티센㊦",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091333?sid=105",
+      "img": "https://cdn.bloter.net/news/thumbnail/202610/675165_289025_3022_v150.jpg"
     },
     {
-      "title": "인핸스, 온톨로지 기반 엔터프라이즈 AI…\"데이터전문가 아니어도 OK\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002440088?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/10/07/ba916f65b877552a9ee2cc83169dc975.jpg"
+      "title": "[핀테크 NOW] 네이버페이·토스",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
+      "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192928_209218_030_v150.jpg"
     }
   ]
 };
