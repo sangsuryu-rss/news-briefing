@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.07 (수) 17:43",
+  "updatedAt": "2026.10.08 (목) 02:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "기업들 “국내 실증·기후금융 확대”…李 “선불형 직접보조금도 검토...",
-          "desc": "7일 대한상공회의소에서 열린 K-GX 전략 국민보고회에서는 태양광과 철강·가전·풍력·반도체·원전 등... 삼성전자와 LG전자 역시 히트펌프와 넷제로 주택 확산 계획을 제시하며 실제 시장과 주거 현장에 연결하기 위한...",
-          "src": "서울경제",
-          "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/011/0004669133?sid=100",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/07/rcv.YNA.20261007.PYH2026100721290001300_Z1.jpg"
+          "title": "\"애플 20주년 폰에 비싸게 판다\"…삼성 메모리 50% 폭등 예고",
+          "desc": "또한 원화 강세 등 환율로 인한 비우호적 환경에도 불구하고, 삼성전자의 강한 판매 정책 덕분에 메모리 판가가 산업 평균을 웃돌았다고 평가했다. 다만, 반도체 이외의 모바일과 생활가전 부문에서는 영업 적자가...",
+          "src": "cbci",
+          "date": "10/08",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613155",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/613155_421110_4658_v150.jpg"
         },
         {
           "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
         },
         {
-          "title": "TV부터 스마트폰까지 안 오르는 게 없다…내년 칩플레이션 더 심화",
-          "desc": "예로 삼성전자는 최근 갤럭시S26 시리즈 가격을 출시가보다 올렸고, 애플도 전작인 아이폰17 시리즈 가격을 인상했다. 가전도 예외가 아니다. 과거 첨단 IT 제품에 국한됐던 반도체 가격 상승이 이제는 냉장고, 세탁기...",
-          "src": "g-enews",
+          "title": "스마트폰 넘어 집으로 확장하는 애플 … LG전자 제품군 활용해 생태계 ...",
+          "desc": "LG전자는 이미 TV, 냉장고, 세탁기, 에어컨 등 핵심 가전을 생산하고 있으며 전 세계 판매·서비스망을 갖춘... 예를 들어 삼성전자의 스마트홈 플랫폼 '스마트싱스'를 사용하는 소비자는 새로운 가전을 선택할 때 삼성전자...",
+          "src": "매일경제",
           "date": "10/07",
-          "url": "https://www.g-enews.com/view.php?ud=20261007144205759127fa31d75c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2025121408301801351fbbec65dfb121131206187.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005745546?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/08/20261008_01160105000003_S00.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[공공SW전략] 대기업참여제한 13년…체급 키웠다 | 아이티센㊦",
-          "desc": "아이티센그룹은 대기업 참여제한을 공공사업 확대의 기회로 활용해왔다. 출발점은 대기업과 함께 수행했던 프로젝트였다. 당시 아이티센은 삼성SDS와 LG CNS 등과 사업을 수행하며 확보한 업무 지식과 기술을...",
-          "src": "블로터",
-          "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/293/0000091333?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/675165_289025_3022_v150.jpg"
+          "title": "새벽배송 규제 풀리나…이마트·롯데마트 '점포+온라인' 선제 대응 나섰...",
+          "desc": "제타 스마트센터 부산은 AI(인공지능)와 로봇 자동화 기술을 활용해 상품 입고부터 보관, 피킹, 포장... 박성민 국민의힘 의원은 규제 도입 당시와 현재의 유통 경쟁 구도가 달라졌다는 점을 강조하며 \"이제 대형마트는...",
+          "src": "pointdaily",
+          "date": "10/08",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321600",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321600_318302_4652_v150.jpg"
         },
         {
-          "title": "[핀테크 NOW] 네이버페이·토스",
-          "desc": "마이데이터 기술을 결합해 실손보험금 청구 절차를 대폭 간소화한다. 네이버페이는 'Npay 보험금 청구... 네이버페이 관계자는 \"이번 개편은 서류 없는 실손보험금 청구 대상 기관을 확대하고, 마이데이터를 활용해 결제...",
-          "src": "wikileaks-kr",
-          "date": "10/07",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192928_209218_030_v150.jpg"
+          "title": "[GAM] 파스칼 ① 노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창",
+          "desc": "낮춘다\"며 도입 기간 단축, 기존 데이터·컴퓨팅 자원과의 근접성 향상, 클라우드에서 자체 구축형(온프레미스) 시스템으로의 전환 용이성을 장점으로 꼽았다. 로스/MKM 역시 대규모 클라우드 인프라와 빅데이터·AI...",
+          "src": "뉴스핌",
+          "date": "10/08",
+          "url": "https://www.newspim.com/news/view/20261008000006",
+          "img": "https://img.newspim.com/news//2026/10/08/2610080100195810_t1.jpg"
         },
         {
-          "title": "대화로 업무용 AI 만든다…와이즈넛, 에이전트 대중화 속도",
-          "desc": "만들어 활용할 수 있도록 하는 데 초점을 맞췄다. 와이즈넛 부스 참관객이 현장에 마련된 PC로 AI 에이전트... 강용성 와이즈넛 대표는 \"AI 에이전트 도입의 관건은 기술 자체보다 현장에서 각자 업무에 맞는 에이전트를...",
-          "src": "ZDNet코리아",
-          "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440209?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/07/4189b00deb9dd9f34b3cb50bc4ef06f0.jpg"
+          "title": "AI가 일하고, AI가 팔고, AI가 산다…8권으로 읽는 'AI 세상' [도서 PICK]",
+          "desc": "스케일링은 AI 개발의 핵심 전략이 됐고 빅테크 기업들이 뒤따랐다. 저자 카렌 하오는 미국과 중국 기술... AI 도입 뒤 같은 업무에 쓰는 시간은 20%로 줄었다. 남은 시간에는 마케팅 효율을 분석하고 예산 조정을...",
+          "src": "econovill",
+          "date": "10/08",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751764",
+          "img": "https://cdn.econovill.com/news/thumbnail/202609/751764_727994_725_v150.jpg"
         },
         {
-          "title": "AMD 리사 수 CEO \"한국 이용자 피드백은 기술 발전의 강력한 동력\"",
-          "desc": "AI 기술 발전에 따른 게이밍 기술 변화에 대해서는 머신러닝 기술의 핵심 목표를 게이밍 성능 향상에 두고... 그는 \"AM4 플랫폼에 X3D 제품을 다시 도입해 기존 메인보드와 시스템을 활용해 쉽게 업그레이드할 수 있도록...",
-          "src": "game",
-          "date": "10/07",
-          "url": "https://m.sports.naver.com/esports/article/347/0000196003",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026100717375809187021ad998911221146230134.jpg&nmt=26"
+          "title": "한화 AI 에너지 관리, 美 '차세대 신기술' 선정…DC 전력 효율 높인다",
+          "desc": "AI 자동화의 효율성을 활용하면서도 핵심 판단 권한은 사람이 갖는 구조다. 패스트 컴퍼니는 이러한... 해당 기술을 도입한 사례도 함께 언급했다. AI 확산으로 데이터센터 전력 소비가 빠르게 늘고 있는 상황에서...",
+          "src": "apnews",
+          "date": "10/08",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051838",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051838_85163_5113_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자, 히트펌프로 아파트 냉난방 전기화 추진…사업 계획 발표",
-          "desc": "고효율 설루션 보급을 통해 가계의 난방비 부담을 완화하는 한편, 국내 생산 설비 투자 확대와 핵심 부품 국산화도 적극 추진해 중소 협력사, 부품 제조사와의 상생 기반을 강화한다는 구상이다. 삼성전자 관계자는 \"향후...",
-          "src": "nocutnews",
-          "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/079/0004196638?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/07/202610071728225972_0.jpg"
+          "title": "\"아파트 냉난방 전기화\"…삼성전자, 'EHS 올인원'으로 K-GX 앞장",
+          "desc": "◆ 부품 국산화·전문인력 양성…냉난방 전기화 생태계 키운다 삼성전자는 냉난방 전기화가 제품 보급에... 핵심 부품 국산화를 적극 추진한다. 이를 통해 중소 협력사와 부품 제조사까지 냉난방 전기화 확대 과정에...",
+          "src": "apnews",
+          "date": "10/08",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051841",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051841_85167_415_v150.jpg"
         },
         {
-          "title": "삼성전자, K-GX서 'EHS 올인원' 보급 청사진 공개…\"전국 단위 보급 추진...",
-          "desc": "삼성전자는 국내 생산 설비 투자 확대와 핵심 부품 국산화를 적극 추진해 중소 협력사 및 부품 제조사와의 상생 기반을 강화할 계획이다. 또 수원 CS 아카데미에 구축된 'EHS 히트펌프 전담 교육장'을 통해 배관 시공...",
-          "src": "shinailbo",
+          "title": "삼성·SK 숙련공 27명 삼킨 창신메모리, 2.9년 만에 뱉어내고 디램 12% 삼...",
+          "desc": "국회 과학기술정보방송통신위원회 소속 최수진 국민의힘 의원실은 2026년 10월 6일 삼성전자와 SK하이닉스... 전체 대상자 가운데 15명은 한국 기업을 떠난 뒤 소재·부품·장비 협력사나 외국계 법인, 대학 연구교수...",
+          "src": "g-enews",
           "date": "10/07",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069746",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5069746_2067385_1711.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610072054565826fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100721035903127fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "삼성전자, K-GX 전략 협력…'EHS 올인원' 히트펌프 보급 계획 발표",
-          "desc": "삼성전자가 K-GX(한국형 녹색대전환) 전략에 협력한다. K-GX는 탄소중립과 지속가능한 경제성장을 동시... 국내 산업 생태계와의 상생도 추진한다. 핵심 부품 국산화를 통해 중소 협력사 및 부품 제조사와 협력할 계획이다.",
-          "src": "newspost",
+          "title": "에어컨·보일러 하나로 합친다…삼성전자, '냉난방 올인원' 히트펌프 띄...",
+          "desc": "핵심 부품 국산화 및 전문 시공 인력 양성으로 상생 생태계 구축 삼성전자는 냉난방 전기화 전환 과정에서... 핵심 부품 국산화를 적극 추진해 중소 협력사 및 부품 제조사와의 상생 기반을 강화한다. 또 설계부터 시공...",
+          "src": "thepublic",
           "date": "10/07",
-          "url": "https://www.newspost.kr/news/articleView.html?idxno=226201",
-          "img": "https://cdn.newspost.kr/news/thumbnail/202610/226201_228647_537_v150.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=321470",
+          "img": "https://cdn.thepublic.kr/news/photo/202610/321470_325021_1450.jpg"
         },
         {
-          "title": "\"반도체는 팀 스포츠\"…리사 수 \"삼성·SK와 HBM4 협력…전 세계 수백억...",
-          "desc": "웨이퍼·패키징·메모리·시스템 부품 등 여러 방면에서 협력을 강화하고 있다\"고 부연했다. 삼성전자와의 파운드리(반도체 위탁생산) 협력 확대 여부에 대해서도 긍정적인 메시지를 남겼다. 수 회장은 \"파운드리...",
-          "src": "view",
+          "title": "[이슈국감] 800조 호남 반도체…기업보다 정부가 숙제",
+          "desc": "삼성전자와 SK하이닉스의 호남 반도체 클러스터 투자 구상을 형상화한 이미지.AI생성이미지 | 서울=한스경제... 용인과 평택이 단순히 반도체 공장만 들어선 지역이 아니라 수십 년에 걸쳐 협력사와 인력, 교통망이 쌓여...",
+          "src": "한스경제",
           "date": "10/07",
-          "url": "https://n.news.naver.com/mnews/article/277/0005825836?sid=101",
-          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870863",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/870863_895295_537_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "기업들 “국내 실증·기후금융 확대”…李 “선불형 직접보조금도 검토...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669133?sid=100",
-      "img": "https://wimg.sedaily.com/news/cms/2026/10/07/rcv.YNA.20261007.PYH2026100721290001300_Z1.jpg"
+      "title": "\"애플 20주년 폰에 비싸게 판다\"…삼성 메모리 50% 폭등 예고",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613155",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/613155_421110_4658_v150.jpg"
     },
     {
       "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://image.mediapen.com/news/202610/news_1127990_1791245979_m.png"
     },
     {
-      "title": "TV부터 스마트폰까지 안 오르는 게 없다…내년 칩플레이션 더 심화",
-      "url": "https://www.g-enews.com/view.php?ud=20261007144205759127fa31d75c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2025121408301801351fbbec65dfb121131206187.jpg"
+      "title": "스마트폰 넘어 집으로 확장하는 애플 … LG전자 제품군 활용해 생태계 ...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005745546?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/08/20261008_01160105000003_S00.jpg"
     },
     {
-      "title": "[공공SW전략] 대기업참여제한 13년…체급 키웠다 | 아이티센㊦",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091333?sid=105",
-      "img": "https://cdn.bloter.net/news/thumbnail/202610/675165_289025_3022_v150.jpg"
+      "title": "새벽배송 규제 풀리나…이마트·롯데마트 '점포+온라인' 선제 대응 나섰...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321600",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321600_318302_4652_v150.jpg"
     },
     {
-      "title": "[핀테크 NOW] 네이버페이·토스",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
-      "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192928_209218_030_v150.jpg"
+      "title": "[GAM] 파스칼 ① 노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창",
+      "url": "https://www.newspim.com/news/view/20261008000006",
+      "img": "https://img.newspim.com/news//2026/10/08/2610080100195810_t1.jpg"
     }
   ]
 };
