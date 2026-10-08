@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.08 (목) 15:09",
+  "updatedAt": "2026.10.08 (목) 22:35",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
-          "desc": "양대 가전 기업인 삼성전자와 LG전자도 가전 구독 사업을 확대하면서 제품 판매량뿐 아니라 고객과의 장기 계약을 새로운 경쟁력으로 삼기 시작했다. 8일 가전업계에 따르면 삼성전자와 LG전자는 가전을 중심으로 구독을...",
-          "src": "enewstoday",
+          "title": "[산업분석] 삼성전자·SK하이닉스 급락…메모리 공급부족은 안 끝났다",
+          "desc": "서버와 AI 고객사는 물량 확보를 위해 높은 메모리 가격을 감수하지만 스마트폰·PC·가전 업체에는 원가 상승으로 작용한다. 삼성전자는 메모리 공급자인 동시에 대규모 메모리 구매자라는 이중 구조를 갖고 있다....",
+          "src": "topstarnews",
           "date": "10/08",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242095",
+          "img": "https://cdn.topstarnews.net/news/photo/202610/16242095_2049511_5010_crop.jpg"
+        },
+        {
+          "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
+          "desc": "◇ 삼성전자, 삼성 아트 스토어에 '영국 박물관' 대표 소장품 30점 공개 삼성전자, 삼성 아트 스토어에... 오는 12일부터 18일까지 네이버 브랜드스토어에서 제품을 구매한 고객에게 로보락 로봇청소기 전용 클리너와...",
+          "src": "ibabynews",
+          "date": "10/08",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=155073",
+          "img": "https://www.ibabynews.com/news/photo/202610/155073_123183_745.jpg"
         },
         {
           "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "삼성전자·LG전자, 나란히 실적 상승...전자·배터리 업계 3분기 실적 '훈...",
-          "desc": "삼성전자와 LG전자가 올해 3분기 매출과 영업이익이 모두 전년동기 대비 증가한 잠정실적을 발표했다.... 생활가전과 전장 사업이 각각 B2C와 B2B 영역에서 탄탄한 수익성을 기반으로 캐시카우 역할을 하고 있다. TV...",
-          "src": "banronbodo",
+          "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
+          "desc": "한 번 구매하면 길게는 10년 이상 사용하는 냉장고, 세탁기 등 이른바 '백색가전' 분야에서 '구독형' 사업모델이 빠르게 증가하고 있기 때문이다. 양대 가전 기업인 삼성전자와 LG전자도 가전 구독 사업을 확대하면서 제품...",
+          "src": "enewstoday",
           "date": "10/08",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33152",
-          "img": "https://cdn.banronbodo.com/news/photo/202610/33152_49050_5450.png"
-        },
-        {
-          "title": "㈜한화 건설부문, ‘한화포레나 지제역’ 분양",
-          "desc": "삼성전자 평택캠퍼스를 배후에 두고, 평택지제역을 중심으로 KTX와 수도권 전철 1호선에 GTX-A·C 연장 등... 드라이기 수납장과 펫 프렌즈 세면대, 로봇청소기 수납장 등 특화상품과 삼성물산의 홈 플랫폼 ‘홈닉...",
-          "src": "헤럴드경제",
-          "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/016/0002706951?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/08/news-p.v1.20261008.faa03cfc8b7f4d57940a14e16de2a1c6_P1.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "(2026 국감)기상청 슈퍼컴 도입 난항·해양 관측망 부족…인프라 확충 과...",
-          "desc": "기상청의 차세대 슈퍼컴퓨터 도입이 반복된 유찰로 지연되는 가운데 예산은 늘었지만 목표 성능은 오히려... 기존 수치예보모델뿐 아니라 인공지능(AI) 기반 예측기술을 활용할 수 있도록 그래픽처리장치(GPU) 확보가...",
-          "src": "electimes",
+          "title": "한진, AI로 법률 리스크 사전 관리…컴플라이언스 프로그램 '대상'",
+          "desc": "한진은 AI와 정보기술(IT)을 준법관리 업무에 접목해 실무 활용도가 높은 컴플라이언스 프로그램을 도입·운영한 점에서 높은 평가를 받았다. 이번 수상의 대표적인 성과는 사내 'AI 법률자문 시스템' 구축이다. 한진은...",
+          "src": "apnews",
           "date": "10/08",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373241",
-          "img": "https://cdn.electimes.com/news/thumbnail/202610/373241_586725_5044_v150.jpg"
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051897",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051897_85234_2946_v150.jpg"
         },
         {
-          "title": "유인상號 3년차···CJ올리브네트웍스, 스마트물류로 넓히는 AX 사업",
-          "desc": "초기에는 AI·빅데이터·클라우드와 차세대 전사적자원관리(ERP)를 활용해 그룹 사업의 디지털 기반을 강화하고 관련 기술과 서비스를 외부 고객사에 제공하는 데 집중했다. 기존 IT 운영 사업에 더해 제조시설과...",
-          "src": "smartbizn",
+          "title": "민선 9기 공약실천계획 확정…2030년까지 9조 7576억원 투자",
+          "desc": "119' 도입 등을 추진한다. 기본사회·도민참여 분야에는 제주형 기본사회 구축과 주민참여예산제 2.0 운영, 제주 4·3의 정의로운 해결을 위한 사업 등이 포함됐다. 미래성장 분야에는 4대 과학기술원 연합캠퍼스...",
+          "src": "mediajeju",
           "date": "10/08",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155891",
-          "img": "https://cdn.smartbizn.com/news/photo/202610/155891_262883_3627.png"
+          "url": "https://www.mediajeju.com/news/articleView.html?idxno=366690",
+          "img": "https://cdn.mediajeju.com/news/photo/202610/366690_264297_1624.jpg"
         },
         {
-          "title": "게임이 된 일터, 상사가 된 알고리즘",
-          "desc": "배달 플랫폼 역시 특정 시간대에 투입할 수 있는 라이더를 최대한 오래 붙잡아 두려고 게임 설계를 활용한다.... 도입되는 기술의 상당수는 생성형 인공지능으로 챗봇이 대표적이다. 그러나 일터의 인공지능이 생성형 AI만...",
-          "src": "slownews",
+          "title": "AI 해킹 '0건'이라는 공공기관…알고 보니 판별 시스템조차 없었다",
+          "desc": "항공안전기술원이 같은 기간 탐지했다고 제출한 공격은 9건에 불과했다. 문제는 이들 기관이 AI 활용 공격... 지난해 같은 기간의 2.36배였지만 법원행정처는 보안장비 도입 예산 10억원을 늑장 발주해 전액 불용 처리한...",
+          "src": "서울신문",
           "date": "10/08",
-          "url": "https://slownews.kr/167612",
-          "img": "https://slownews.kr/wp-content/uploads/2026/10/GettyImages-jv12081390.jpg"
+          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523525",
+          "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523525_485382_1325.jpg"
         },
         {
-          "title": "'2026 말산업 R&D 심포지엄' 등 한국마사회의 알찬 소식들...",
-          "desc": "인공지능(AI)과 바이오 기술을 활용해 말의 생체 신호를 실시간으로 모니터링하고, 질병을 조기에... 식별하는 기술이 도입되고 있다. 가상현실(XR)이나 디지털 콘텐츠를 결합해 시공간의 제약 없이 말 문화를 접하고...",
-          "src": "CNB뉴스",
+          "title": "“느리고 비싼 맥북을 왜 사죠?”…MS·엔비디아 합작 AI노트북 성능이",
+          "desc": "인텔리전스’ 기술을 통해 간단한 AI 업무는 PC에서 직접 처리하고, 복잡한 작업은 클라우드 서버를 활용... 메타의 개인용 AI 에이전트 ‘뮤즈’도 윈도에 도입된다. 이번 제품은 엔비디아에도 의미가 크다. 그동안...",
+          "src": "매일경제",
           "date": "10/08",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018688",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1018688_520831_3631.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005746228?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.1174cff758264e4c87cbe31b92c6b86e_R.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "유니슨, K-GX 해상풍력 공급망 참여…2조8,500억 민간 투자 추진",
+          "desc": "LG전자, 삼성전자, SK하이닉스 등과 함께 국가대표 10대 녹색산업 육성 기업에 이름을 올렸다. 민간 차원에서... 유니슨은 대형 터빈의 생산 거점, 연구개발(R&D) 센터, 통합 정비 기지를 지역 부품 협력사와 결합한 독자...",
+          "src": "ttlnews",
+          "date": "10/08",
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3150323",
+          "img": "https://cdn.ttlnews.com/news/photo/202610/3150323_773683_2117.jpg"
+        },
+        {
+          "title": "삼성전자 주가 '엔비디아 대비 저평가' 장기간 지속 전망, 돈 버는 만큼...",
+          "desc": "인공지능 반도체의 핵심 부품인 고대역폭 메모리(HBM) 수요도 강세를 이어가고 있어 삼성전자의 실적 증가를... 엔비디아는 반도체 생산을 TSMC와 같은 외부 협력사에 맡기는 반면 삼성전자는 직접 메모리반도체에 막대한...",
+          "src": "비즈니스포스트",
+          "date": "10/08",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448945",
+          "img": ""
+        },
+        {
+          "title": "李 대통령 만난 김강학 유니슨 회장 \"우리 바람으로 우리 터빈 가동\"",
+          "desc": "정부가 선정한 '국가대표 10대 녹색산업' 중 풍력 분야에서 단독 대표로 선정된 유니슨은 이날 삼성전자와... 특히 대형 터빈의 연구·생산·정비 기능에 부품 협력사를 연계한 '해상풍력 클러스터'를 조성해 국내 풍력 산업...",
+          "src": "블로터",
+          "date": "10/08",
+          "url": "https://n.news.naver.com/mnews/article/293/0000091375?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/675297_289153_3645_v150.jpg"
+        },
+        {
           "title": "램리서치 팀 아처 CEO \"韓 반도체 협력 더 강화\"…전용펀드 출범",
           "desc": "국내 협력사에서 조달한 제품과 서비스 규모는 1조원을 넘었다. 지난 8월에는 삼성전자와 SK하이닉스, 세메스, 램리서치코리아, 원익IPS 등이 경북 구미에서 열린 반도체 공정용 세라믹 소재·부품 세미나에 함께...",
           "src": "아이뉴스24",
           "date": "10/08",
           "url": "https://n.news.naver.com/mnews/article/031/0001064470?sid=105",
           "img": "https://image.inews24.com/v1/63addad37655a3.jpg"
-        },
-        {
-          "title": "박희승 \"중소기업 기술탈취, '넘어간 뒤 조정' 아닌 '넘어가기 전 보호...",
-          "desc": "삼성전자와 4년간 방열부품을 공동개발한 이들은 한화 측이 인수 의향과 함께 기술자료를 요구하자... 것이 협력사 측 설명이다. 출판사는 침해 내용을 특정하라고 요구하지만 상대 서버를 들여다볼 수 없는 중소기업은...",
-          "src": "wikileaks-kr",
-          "date": "10/08",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192983",
-          "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192983_209323_5920_v150.jpg"
-        },
-        {
-          "title": "[2026 국감] \"기술 빼앗긴뒤 싸우지 말자\"…박희승, 기술탈취 '사전차단...",
-          "desc": "이 회사는 삼성전자와 4년간 방열부품을 공동개발한 뒤 한화 측이 인수 의향을 밝히며 기술자료를 요구하자... # AI 교과서 개발했는데 협력사 빠졌다…\"침해 특정하라\"는 요구 두 번째 사례로는 직원 10명 규모의 대전 소재...",
-          "src": "newsian",
-          "date": "10/08",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96718",
-          "img": "https://cdn.newsian.co.kr/news/thumbnail/202610/96718_91290_2825_v150.jpg"
-        },
-        {
-          "title": "[전자 레이더] 삼성전자·LG전자, K-GX서 무탄소 주거 솔루션 공개…주거...",
-          "desc": "삼성전자는 제주 및 용인 등 실증 거점에서 성능과 운전 소음 등을 검증하는 동시에 건설사들과 맞춤형 시공 표준을 마련하고 있다. 아울러 핵심 부품 국산화와 전문 시공 인력 양성을 병행하며 국내 냉난방 산업...",
-          "src": "thevaluenews",
-          "date": "10/08",
-          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202184",
-          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2610/028dceb1b23b49a01107350abf4889404943b293.jpeg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
+      "title": "[산업분석] 삼성전자·SK하이닉스 급락…메모리 공급부족은 안 끝났다",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242095",
+      "img": "https://cdn.topstarnews.net/news/photo/202610/16242095_2049511_5010_crop.jpg"
+    },
+    {
+      "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=155073",
+      "img": "https://www.ibabynews.com/news/photo/202610/155073_123183_745.jpg"
     },
     {
       "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "삼성전자·LG전자, 나란히 실적 상승...전자·배터리 업계 3분기 실적 '훈...",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33152",
-      "img": "https://cdn.banronbodo.com/news/photo/202610/33152_49050_5450.png"
+      "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
     },
     {
-      "title": "㈜한화 건설부문, ‘한화포레나 지제역’ 분양",
-      "url": "https://n.news.naver.com/mnews/article/016/0002706951?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/08/news-p.v1.20261008.faa03cfc8b7f4d57940a14e16de2a1c6_P1.jpg"
+      "title": "한진, AI로 법률 리스크 사전 관리…컴플라이언스 프로그램 '대상'",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051897",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051897_85234_2946_v150.jpg"
     },
     {
-      "title": "(2026 국감)기상청 슈퍼컴 도입 난항·해양 관측망 부족…인프라 확충 과...",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=373241",
-      "img": "https://cdn.electimes.com/news/thumbnail/202610/373241_586725_5044_v150.jpg"
-    },
-    {
-      "title": "유인상號 3년차···CJ올리브네트웍스, 스마트물류로 넓히는 AX 사업",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155891",
-      "img": "https://cdn.smartbizn.com/news/photo/202610/155891_262883_3627.png"
+      "title": "민선 9기 공약실천계획 확정…2030년까지 9조 7576억원 투자",
+      "url": "https://www.mediajeju.com/news/articleView.html?idxno=366690",
+      "img": "https://cdn.mediajeju.com/news/photo/202610/366690_264297_1624.jpg"
     }
   ]
 };
