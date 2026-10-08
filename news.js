@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.08 (목) 08:07",
+  "updatedAt": "2026.10.08 (목) 15:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 3분기 영업익 107.4조…한국 기업 '사상 첫 100조 돌파'",
-          "desc": "삼성전자가 올해 3분기 107조원이 넘는 영업이익을 올리며 국내 기업 사상 최초로 분기 영업이익 100조원... 반면 스마트폰, TV, 가전 등을 담당하는 완제품(DX) 부문은 부품 가격 급등에 따른 원가 부담으로 2분기 연속...",
-          "src": "view",
+          "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
+          "desc": "양대 가전 기업인 삼성전자와 LG전자도 가전 구독 사업을 확대하면서 제품 판매량뿐 아니라 고객과의 장기 계약을 새로운 경쟁력으로 삼기 시작했다. 8일 가전업계에 따르면 삼성전자와 LG전자는 가전을 중심으로 구독을...",
+          "src": "enewstoday",
           "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/277/0005825981?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082117375388804_1787301473.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
         },
         {
-          "title": "[경제인사이드] 신혼부터 B2B까지… AI 품은 100조원 '가전 구독'",
-          "desc": "예컨대 AI 로봇청소기가 거실 청소를 마치면 공기청정기가 자동으로 터보 모드로 전환되는 등 각 브랜드의 AI 에이전트가 가전들을 유기적으로 제어하는 시너지를 연출한다. 플랫폼 연동성은 삼성의 스마트싱스와 LG의...",
-          "src": "newscj",
+          "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
+          "desc": "올인원 세탁건조기 '비스포크 AI 콤보'의 누적 판매량이 30만대를 넘어서는 등 AI를 접목한 프리미엄 제품을 중심으로 외형 확대에 나서고 있다. ◆갤럭시 S27·AI 글라스·로봇…DX, '반전 카드' 총동원 삼성전자는...",
+          "src": "ebn",
           "date": "10/08",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3438535",
-          "img": "https://cdn.newscj.com/news/thumbnail/202610/3438535_3558455_2411_v150.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727126",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "삼성전자 3분기 영업익 107조4천억원…국내 첫 100조 시대 개막(종합)",
-          "desc": "기자 = 삼성전자가 올해 3분기 영업이익 107조4천억원을 기록해 국내 기업 사상 최초로 분기 영업익 100조원... TV(VD) 및 생활가전(DA) 사업부도 5천억원 수준의 적자를 기록했을 수 있다. 삼성디스플레이는 1조원...",
-          "src": "연합뉴스",
+          "title": "삼성전자·LG전자, 나란히 실적 상승...전자·배터리 업계 3분기 실적 '훈...",
+          "desc": "삼성전자와 LG전자가 올해 3분기 매출과 영업이익이 모두 전년동기 대비 증가한 잠정실적을 발표했다.... 생활가전과 전장 사업이 각각 B2C와 B2B 영역에서 탄탄한 수익성을 기반으로 캐시카우 역할을 하고 있다. TV...",
+          "src": "banronbodo",
           "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/001/0016364618?sid=101",
-          "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073007960001300_P4.jpg"
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33152",
+          "img": "https://cdn.banronbodo.com/news/photo/202610/33152_49050_5450.png"
         },
         {
-          "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
-          "desc": "삼성전자와 SK하이닉스의 추가 매수는 실적과 금리 변수를 확인한 뒤 판단하고, 당장의 투자기회는 공급... 최 본부장은 \"완성된 휴머노이드를 보기 어려운 만큼 부품 쪽에 집중하는 게 맞다\"며, 로봇청소기처럼 성능이...",
-          "src": "kpinews",
-          "date": "10/07",
-          "url": "https://www.kpinews.kr/newsView/1065599218725578",
-          "img": "https://kpinews.kr/data/upi/image/2026/10/07/p1065599218725578_922_thum.jpg"
+          "title": "㈜한화 건설부문, ‘한화포레나 지제역’ 분양",
+          "desc": "삼성전자 평택캠퍼스를 배후에 두고, 평택지제역을 중심으로 KTX와 수도권 전철 1호선에 GTX-A·C 연장 등... 드라이기 수납장과 펫 프렌즈 세면대, 로봇청소기 수납장 등 특화상품과 삼성물산의 홈 플랫폼 ‘홈닉...",
+          "src": "헤럴드경제",
+          "date": "10/08",
+          "url": "https://n.news.naver.com/mnews/article/016/0002706951?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/08/news-p.v1.20261008.faa03cfc8b7f4d57940a14e16de2a1c6_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[경영전략 써밋 2026] 윤두식 이로운앤컴퍼니 대표 \"사용자가 보안 신경...",
-          "desc": "내 AI 활용 현황을 파악하고 통제할 수 있는 서비스를 만드는 것을 목표로 하고 있다고 밝혔다. 동시에 국내 기술을 해외에도 제공할 수 있는 서비스로 발전시키겠다는 구상이다. 그는 AI를 빠르게 확산하는 것만큼 보안을...",
-          "src": "dealsite",
+          "title": "(2026 국감)기상청 슈퍼컴 도입 난항·해양 관측망 부족…인프라 확충 과...",
+          "desc": "기상청의 차세대 슈퍼컴퓨터 도입이 반복된 유찰로 지연되는 가운데 예산은 늘었지만 목표 성능은 오히려... 기존 수치예보모델뿐 아니라 인공지능(AI) 기반 예측기술을 활용할 수 있도록 그래픽처리장치(GPU) 확보가...",
+          "src": "electimes",
           "date": "10/08",
-          "url": "https://dealsite.co.kr/articles/169619",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/28/a101b758dacf47049cb083c8f8003cf6/thumb.jpg"
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373241",
+          "img": "https://cdn.electimes.com/news/thumbnail/202610/373241_586725_5044_v150.jpg"
         },
         {
-          "title": "콜센터품질 전체 최고 평점 LG전자, 고객 맞춤상담 구현한 “AI 상담비서...",
-          "desc": "AI 컨택센터(AICC)는 인공지능 기술을 통합한 시스템을 구축하고 ‘AI 상담비서’를 적극 활용하여 상담... 더불어 컨설턴트 스스로가 자신의 상담 역량을 점검하고 개선하도록 돕는 AI 트레이너(Trainer)의 도입을 앞두고...",
-          "src": "매일경제",
+          "title": "유인상號 3년차···CJ올리브네트웍스, 스마트물류로 넓히는 AX 사업",
+          "desc": "초기에는 AI·빅데이터·클라우드와 차세대 전사적자원관리(ERP)를 활용해 그룹 사업의 디지털 기반을 강화하고 관련 기술과 서비스를 외부 고객사에 제공하는 데 집중했다. 기존 IT 운영 사업에 더해 제조시설과...",
+          "src": "smartbizn",
           "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/009/0005745667?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/07/news-p.v1.20261007.58f2de12d4454b3291f754215c804fb9_R.png"
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=155891",
+          "img": "https://cdn.smartbizn.com/news/photo/202610/155891_262883_3627.png"
         },
         {
-          "title": "[주간 미디어동향] 이언주 MBC 보도국장 임명동의 통과 外",
-          "desc": "M&A 주관사 삼일회계법인은 9월 21일까지 인수의향서(LOI)를 제출한 △글로벌세아 △금보개발 △다우기술... 이와 함께 AI·데이터를 활용한 콘텐츠 제작·유통과 OTT의 해외 진출, 지역·중소·영세 방송사의 디지털 전환...",
-          "src": "banronbodo",
+          "title": "게임이 된 일터, 상사가 된 알고리즘",
+          "desc": "배달 플랫폼 역시 특정 시간대에 투입할 수 있는 라이더를 최대한 오래 붙잡아 두려고 게임 설계를 활용한다.... 도입되는 기술의 상당수는 생성형 인공지능으로 챗봇이 대표적이다. 그러나 일터의 인공지능이 생성형 AI만...",
+          "src": "slownews",
           "date": "10/08",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33131",
-          "img": "https://cdn.banronbodo.com/news/photo/202610/33131_48991_2916.jpg"
+          "url": "https://slownews.kr/167612",
+          "img": "https://slownews.kr/wp-content/uploads/2026/10/GettyImages-jv12081390.jpg"
         },
         {
-          "title": "업무엔 '조력자', 해킹엔 '공격자'…증권가, AI 에이전트 이중성에 '경계...",
-          "desc": "특히 증권사들이 AI 활용 영역을 넓히고 있는 만큼 기술 도입과 함께 정보보호 체계 역시 지속적으로 점검하고 강화해야 한다는 지적이다. 8일 금융투자업계에 따르면 증권사들은 MTS를 통해 주식 주문뿐 아니라 연금과...",
-          "src": "유스경제",
+          "title": "'2026 말산업 R&D 심포지엄' 등 한국마사회의 알찬 소식들...",
+          "desc": "인공지능(AI)과 바이오 기술을 활용해 말의 생체 신호를 실시간으로 모니터링하고, 질병을 조기에... 식별하는 기술이 도입되고 있다. 가상현실(XR)이나 디지털 콘텐츠를 결합해 시공간의 제약 없이 말 문화를 접하고...",
+          "src": "CNB뉴스",
           "date": "10/08",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=228059",
-          "img": ""
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018688",
+          "img": "https://cdn.cnbnews.com/news/photo/202610/1018688_520831_3631.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[오늘의 신문] 반도체·AI 투자 확대, 누리호 5차 발사 성공…가계 여윳...",
-          "desc": "국내 바이오기업들이 7~9일 일본 요코하마에서 열리는 행사에 참여해 해외 협력사 확보에 나섰다.... 소재·부품·장비 종목의 상승을 이끌었고, 시가총액 상위권에서도 반도체 비중이 커졌다.삼성전자와 SK하이닉스의...",
-          "src": "kor",
+          "title": "램리서치 팀 아처 CEO \"韓 반도체 협력 더 강화\"…전용펀드 출범",
+          "desc": "국내 협력사에서 조달한 제품과 서비스 규모는 1조원을 넘었다. 지난 8월에는 삼성전자와 SK하이닉스, 세메스, 램리서치코리아, 원익IPS 등이 경북 구미에서 열린 반도체 공정용 세라믹 소재·부품 세미나에 함께...",
+          "src": "아이뉴스24",
           "date": "10/08",
-          "url": "http://kor.theasian.asia/archives/417702",
-          "img": "https://kor.theasian.asia/wp-content/uploads/2026/10/AA2dIyy6.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001064470?sid=105",
+          "img": "https://image.inews24.com/v1/63addad37655a3.jpg"
         },
         {
-          "title": "박희승 \"기술탈취, 넘어간 뒤 조정 아닌 넘어가기 전 보호 필요\"",
-          "desc": "이 업체는 삼성전자와 4년간 방열부품을 공동개발한 뒤 한화 측의 인수 의향에 따라 공정조건과 수율... 이후 협력사에서 배제된 채 기술 구조만 반영됐다고 주장하고 있다. 박 의원은 출판사가 침해 내용을 특정하라고...",
-          "src": "뉴스핌",
+          "title": "박희승 \"중소기업 기술탈취, '넘어간 뒤 조정' 아닌 '넘어가기 전 보호...",
+          "desc": "삼성전자와 4년간 방열부품을 공동개발한 이들은 한화 측이 인수 의향과 함께 기술자료를 요구하자... 것이 협력사 측 설명이다. 출판사는 침해 내용을 특정하라고 요구하지만 상대 서버를 들여다볼 수 없는 중소기업은...",
+          "src": "wikileaks-kr",
           "date": "10/08",
-          "url": "https://www.newspim.com/news/view/20261008000029",
-          "img": "https://img.newspim.com/news/2026/10/08/2610080533572700_948_tc.jpg"
+          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192983",
+          "img": "http://www.wikileaks-kr.org/news/thumbnail/202610/192983_209323_5920_v150.jpg"
         },
         {
-          "title": "\"아파트 냉난방 전기화\"…삼성전자, 'EHS 올인원'으로 K-GX 앞장",
-          "desc": "◆ 부품 국산화·전문인력 양성…냉난방 전기화 생태계 키운다 삼성전자는 냉난방 전기화가 제품 보급에... 핵심 부품 국산화를 적극 추진한다. 이를 통해 중소 협력사와 부품 제조사까지 냉난방 전기화 확대 과정에...",
-          "src": "apnews",
+          "title": "[2026 국감] \"기술 빼앗긴뒤 싸우지 말자\"…박희승, 기술탈취 '사전차단...",
+          "desc": "이 회사는 삼성전자와 4년간 방열부품을 공동개발한 뒤 한화 측이 인수 의향을 밝히며 기술자료를 요구하자... # AI 교과서 개발했는데 협력사 빠졌다…\"침해 특정하라\"는 요구 두 번째 사례로는 직원 10명 규모의 대전 소재...",
+          "src": "newsian",
           "date": "10/08",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051841",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051841_85167_415_v150.jpg"
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96718",
+          "img": "https://cdn.newsian.co.kr/news/thumbnail/202610/96718_91290_2825_v150.jpg"
         },
         {
-          "title": "삼성·SK 숙련공 27명 삼킨 창신메모리, 2.9년 만에 뱉어내고 디램 12% 삼...",
-          "desc": "국회 과학기술정보방송통신위원회 소속 최수진 국민의힘 의원실은 2026년 10월 6일 삼성전자와 SK하이닉스... 전체 대상자 가운데 15명은 한국 기업을 떠난 뒤 소재·부품·장비 협력사나 외국계 법인, 대학 연구교수...",
-          "src": "g-enews",
-          "date": "10/07",
-          "url": "https://www.g-enews.com/view.php?ud=202610072054565826fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100721035903127fbbec65dfb211211153121.jpg"
+          "title": "[전자 레이더] 삼성전자·LG전자, K-GX서 무탄소 주거 솔루션 공개…주거...",
+          "desc": "삼성전자는 제주 및 용인 등 실증 거점에서 성능과 운전 소음 등을 검증하는 동시에 건설사들과 맞춤형 시공 표준을 마련하고 있다. 아울러 핵심 부품 국산화와 전문 시공 인력 양성을 병행하며 국내 냉난방 산업...",
+          "src": "thevaluenews",
+          "date": "10/08",
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202184",
+          "img": "https://www.thevaluenews.co.kr/data/cheditor4/2610/028dceb1b23b49a01107350abf4889404943b293.jpeg"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": ""
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 3분기 영업익 107.4조…한국 기업 '사상 첫 100조 돌파'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005825981?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026082117375388804_1787301473.jpg"
+      "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
+      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
     },
     {
-      "title": "[경제인사이드] 신혼부터 B2B까지… AI 품은 100조원 '가전 구독'",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3438535",
-      "img": "https://cdn.newscj.com/news/thumbnail/202610/3438535_3558455_2411_v150.jpg"
+      "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727126",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "삼성전자 3분기 영업익 107조4천억원…국내 첫 100조 시대 개막(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016364618?sid=101",
-      "img": "https://img5.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073007960001300_P4.jpg"
+      "title": "삼성전자·LG전자, 나란히 실적 상승...전자·배터리 업계 3분기 실적 '훈...",
+      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33152",
+      "img": "https://cdn.banronbodo.com/news/photo/202610/33152_49050_5450.png"
     },
     {
-      "title": "고금리에 갈리는 AI 주식…\"이젠 소부장 병목에 주목할 때\"",
-      "url": "https://www.kpinews.kr/newsView/1065599218725578",
-      "img": "https://kpinews.kr/data/upi/image/2026/10/07/p1065599218725578_922_thum.jpg"
+      "title": "㈜한화 건설부문, ‘한화포레나 지제역’ 분양",
+      "url": "https://n.news.naver.com/mnews/article/016/0002706951?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/08/news-p.v1.20261008.faa03cfc8b7f4d57940a14e16de2a1c6_P1.jpg"
     },
     {
-      "title": "[경영전략 써밋 2026] 윤두식 이로운앤컴퍼니 대표 \"사용자가 보안 신경...",
-      "url": "https://dealsite.co.kr/articles/169619",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/28/a101b758dacf47049cb083c8f8003cf6/thumb.jpg"
+      "title": "(2026 국감)기상청 슈퍼컴 도입 난항·해양 관측망 부족…인프라 확충 과...",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373241",
+      "img": "https://cdn.electimes.com/news/thumbnail/202610/373241_586725_5044_v150.jpg"
     },
     {
-      "title": "콜센터품질 전체 최고 평점 LG전자, 고객 맞춤상담 구현한 “AI 상담비서...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005745667?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202610/07/news-p.v1.20261007.58f2de12d4454b3291f754215c804fb9_R.png"
+      "title": "유인상號 3년차···CJ올리브네트웍스, 스마트물류로 넓히는 AX 사업",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155891",
+      "img": "https://cdn.smartbizn.com/news/photo/202610/155891_262883_3627.png"
     }
   ]
 };
