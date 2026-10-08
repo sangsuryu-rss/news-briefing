@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.08 (목) 22:35",
+  "updatedAt": "2026.10.09 (금) 04:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[산업분석] 삼성전자·SK하이닉스 급락…메모리 공급부족은 안 끝났다",
-          "desc": "서버와 AI 고객사는 물량 확보를 위해 높은 메모리 가격을 감수하지만 스마트폰·PC·가전 업체에는 원가 상승으로 작용한다. 삼성전자는 메모리 공급자인 동시에 대규모 메모리 구매자라는 이중 구조를 갖고 있다....",
-          "src": "topstarnews",
-          "date": "10/08",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242095",
-          "img": "https://cdn.topstarnews.net/news/photo/202610/16242095_2049511_5010_crop.jpg"
+          "title": "[출근길 포인트] 삼성전자 영업익 107조 '새 역사'…中 '레드웨이브' 韓...",
+          "desc": "삼성전자 서초사옥. 사진=연합뉴스 ◇삼성전자 3분기 영업익 107조…사상 첫 100조 돌파  삼성전자가 올해... 가전과 자동차 시장에서도 중국 업체의 영향력이 커지고 있다. 중국산 가전의 수입시장 점유율은...",
+          "src": "pointdaily",
+          "date": "10/09",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321808",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321808_318511_3314_v150.jpg"
         },
         {
           "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한진, AI로 법률 리스크 사전 관리…컴플라이언스 프로그램 '대상'",
-          "desc": "한진은 AI와 정보기술(IT)을 준법관리 업무에 접목해 실무 활용도가 높은 컴플라이언스 프로그램을 도입·운영한 점에서 높은 평가를 받았다. 이번 수상의 대표적인 성과는 사내 'AI 법률자문 시스템' 구축이다. 한진은...",
-          "src": "apnews",
-          "date": "10/08",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051897",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051897_85234_2946_v150.jpg"
+          "title": "MS·엔비디아, 2599달러 AI 노트북 공개…'하이브리드 인텔리전스' 시대...",
+          "desc": "새롭게 도입됐다. 아울러 메타 플랫폼의 개인 인공지능 비서 뮤즈도 윈도우 환경에 순차적으로 출시될... 모델을 활용해 전체적인 인공지능 운영 비용을 낮추는 구조다. 기업 최고기술책임자들의 가장 큰 고민인 치솟는...",
+          "src": "g-enews",
+          "date": "10/09",
+          "url": "https://www.g-enews.com/view.php?ud=2026100823202726862bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261008232537095872bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "민선 9기 공약실천계획 확정…2030년까지 9조 7576억원 투자",
-          "desc": "119' 도입 등을 추진한다. 기본사회·도민참여 분야에는 제주형 기본사회 구축과 주민참여예산제 2.0 운영, 제주 4·3의 정의로운 해결을 위한 사업 등이 포함됐다. 미래성장 분야에는 4대 과학기술원 연합캠퍼스...",
-          "src": "mediajeju",
-          "date": "10/08",
-          "url": "https://www.mediajeju.com/news/articleView.html?idxno=366690",
-          "img": "https://cdn.mediajeju.com/news/photo/202610/366690_264297_1624.jpg"
+          "title": "\"금리 올라도 주가 8만 간다\"… 日 메가뱅크 수장들 진단",
+          "desc": "여기에 중동 정세 악화로 원유 도입 비용이 치솟는 상황 역시 일본 경제의 발목을 잡을 위험 요소로 지목됐다. 나카지마 사장은 미국 주도의 AI 데이터센터 투자를 둘러싸고 차세대 기술이 실제 현금 흐름을 창출할 수...",
+          "src": "g-enews",
+          "date": "10/09",
+          "url": "https://www.g-enews.com/view.php?ud=202610090201153312e7e8286d56_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100902024705670e7e8286d563912477188.jpg"
         },
         {
-          "title": "AI 해킹 '0건'이라는 공공기관…알고 보니 판별 시스템조차 없었다",
-          "desc": "항공안전기술원이 같은 기간 탐지했다고 제출한 공격은 9건에 불과했다. 문제는 이들 기관이 AI 활용 공격... 지난해 같은 기간의 2.36배였지만 법원행정처는 보안장비 도입 예산 10억원을 늑장 발주해 전액 불용 처리한...",
-          "src": "서울신문",
-          "date": "10/08",
-          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523525",
-          "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523525_485382_1325.jpg"
+          "title": "[패트롤] 인천시 미추홀구-부평구-서해구-영종구-강화군-연수구의회",
+          "desc": "이번 수상은 시설 생활인들이 문화·여가 프로그램에서 배운 기술을 활용해 작품을 제작하고, 외부 공모전... 위치기반 민원 처리 현장 분석 시스템과 침수 대응 빗물받이 스마트 현장 지도도 도입했다. 민생 분야에서는...",
+          "src": "ekn",
+          "date": "10/09",
+          "url": "https://www.ekn.kr/web/view.php?key=20261009026394209",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261009.bf7b22de770e46d5a8267037c5275381_R.jpg"
         },
         {
-          "title": "“느리고 비싼 맥북을 왜 사죠?”…MS·엔비디아 합작 AI노트북 성능이",
-          "desc": "인텔리전스’ 기술을 통해 간단한 AI 업무는 PC에서 직접 처리하고, 복잡한 작업은 클라우드 서버를 활용... 메타의 개인용 AI 에이전트 ‘뮤즈’도 윈도에 도입된다. 이번 제품은 엔비디아에도 의미가 크다. 그동안...",
-          "src": "매일경제",
-          "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/009/0005746228?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.1174cff758264e4c87cbe31b92c6b86e_R.png"
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천테크노파크",
+          "desc": "인공지능(AI)과 로보틱스 등 첨단 기술을 활용한 치안 장비와 보안산업의 최신 동향을 소개한다. 인천시와... 이범석 대표의원은 “AI 기술 도입 자체보다 행정의 비효율을 줄이고 시민에게 필요한 서비스를 제공하는...",
+          "src": "ekn",
+          "date": "10/09",
+          "url": "https://www.ekn.kr/web/view.php?key=20261009026214198",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261009.1e1748be7a424d92a3a9a13424e74f17_R.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성, 반도체 웃고 모바일 울다…디램 값 폭등에 4분기 스마트폰 감산 ...",
+          "desc": "모바일용 부품 원가 압박과 감산 배경 폴란드 정보기술 전문매체 피피이 플은 삼성전자 MX 사업부가 최근 협력사들에 4분기 부품 주문을 20~30% 축소해 달라고 요청했다고 보도했다. 완제품 판매가를 부품 원가 상승...",
+          "src": "g-enews",
+          "date": "10/09",
+          "url": "https://www.g-enews.com/view.php?ud=202610081927463008fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100819295002144fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "유니슨, K-GX 해상풍력 공급망 참여…2조8,500억 민간 투자 추진",
           "desc": "LG전자, 삼성전자, SK하이닉스 등과 함께 국가대표 10대 녹색산업 육성 기업에 이름을 올렸다. 민간 차원에서... 유니슨은 대형 터빈의 생산 거점, 연구개발(R&D) 센터, 통합 정비 기지를 지역 부품 협력사와 결합한 독자...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/08",
           "url": "https://n.news.naver.com/mnews/article/293/0000091375?sid=101",
           "img": "https://cdn.bloter.net/news/thumbnail/202610/675297_289153_3645_v150.jpg"
-        },
-        {
-          "title": "램리서치 팀 아처 CEO \"韓 반도체 협력 더 강화\"…전용펀드 출범",
-          "desc": "국내 협력사에서 조달한 제품과 서비스 규모는 1조원을 넘었다. 지난 8월에는 삼성전자와 SK하이닉스, 세메스, 램리서치코리아, 원익IPS 등이 경북 구미에서 열린 반도체 공정용 세라믹 소재·부품 세미나에 함께...",
-          "src": "아이뉴스24",
-          "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/031/0001064470?sid=105",
-          "img": "https://image.inews24.com/v1/63addad37655a3.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[산업분석] 삼성전자·SK하이닉스 급락…메모리 공급부족은 안 끝났다",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242095",
-      "img": "https://cdn.topstarnews.net/news/photo/202610/16242095_2049511_5010_crop.jpg"
+      "title": "[출근길 포인트] 삼성전자 영업익 107조 '새 역사'…中 '레드웨이브' 韓...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321808",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321808_318511_3314_v150.jpg"
     },
     {
       "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
     },
     {
-      "title": "한진, AI로 법률 리스크 사전 관리…컴플라이언스 프로그램 '대상'",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051897",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051897_85234_2946_v150.jpg"
+      "title": "MS·엔비디아, 2599달러 AI 노트북 공개…'하이브리드 인텔리전스' 시대...",
+      "url": "https://www.g-enews.com/view.php?ud=2026100823202726862bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261008232537095872bd56fbc3c21121419978.jpg"
     },
     {
-      "title": "민선 9기 공약실천계획 확정…2030년까지 9조 7576억원 투자",
-      "url": "https://www.mediajeju.com/news/articleView.html?idxno=366690",
-      "img": "https://cdn.mediajeju.com/news/photo/202610/366690_264297_1624.jpg"
+      "title": "\"금리 올라도 주가 8만 간다\"… 日 메가뱅크 수장들 진단",
+      "url": "https://www.g-enews.com/view.php?ud=202610090201153312e7e8286d56_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100902024705670e7e8286d563912477188.jpg"
     }
   ]
 };
