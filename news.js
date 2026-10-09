@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.10 (토) 02:00",
+  "updatedAt": "2026.10.10 (토) 07:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"100원 팔아 80원 남긴다\"…SK하이닉스, 삼성 이어 '영업이익률 80%' 뚫을...",
-          "desc": "비메모리사업부, 스마트폰, 가전, TV 등 일부 사업부의 적자가 예상됨에도 불구하고, 메모리사업부만 놓고 보면 영업이익률이 80%를 넘어섰을 것이라는 전망도 있다. 삼성전자는 오는 29일 3분기 확정 실적을...",
-          "src": "cbci",
+          "title": "가을 입주·혼수 대목 왔다…가구업계, 할인·판촉 총력전",
+          "desc": "구체적으로 가전업체와 협업하거나 결제 금액에 따른 적립 혜택을 제공하는 방식으로 예비부부의 구매를 유도하고 있다. 시몬스는 삼성전자와 협업해 오는 31일까지 '삼성 웨딩&' 행사를 운영한다. 이 행사는...",
+          "src": "newsway",
           "date": "10/10",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613893",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/613893_421634_311_v150.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100810450989328",
+          "img": "https://nimage.newsway.co.kr/photo/2026/10/08/20261008003625_1200.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "LG전자, 자동차 반도체까지 도전…'이 회사'와 손잡았다",
-          "desc": "LG전자가 독일 자동차 부품업체 보쉬와 협력해 차량용 반도체 개발에 나선다.TV와 가전제품에 들어가는... 테슬라가 삼성전자 파운드리에서 생산하는 AI5 반도체 역시 차량용 고성능 연산과 관련된 사례로 거론된다. 다만...",
-          "src": "wikitree",
-          "date": "10/09",
-          "url": "https://www.wikitree.co.kr/articles/1165059",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/09/202610092152171655.jpg"
+          "title": "허리띠 졸라매고 뼈깎는 체질개선…전자업계 부진 탈출 시동",
+          "desc": "삼성 완제품 부문 \"체질 개선 통해 위기를 기회로\" 삼성전자는 3분기 전자·가전사업 부진이 이어졌지만, 이를 계기로 사업 전반의 체질 개선에 박차를 가하고 있다. 3분기 완제품 부문(DX)은 이전 분기 창사 이래 첫 적자...",
+          "src": "연합뉴스",
+          "date": "10/10",
+          "url": "https://n.news.naver.com/mnews/article/001/0016368038?sid=101",
+          "img": "https://img3.yna.co.kr/photo/yna/YH/2026/06/01/PYH2026060110010001300_P4.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "나이·학벌·경력 안 본다, 오직 AI 실력만 본다",
-          "desc": "대상 AI 해커톤을 열었다. 해커톤 도입 5년째인 올해, 역대 가장 많은 3393명이 지원했다. 공대생뿐 아니라... ☞AI 해커톤 인공지능(AI) 기술을 활용해 정해진 시간 안에 프로그램이나 서비스의 시제품을 만들어 겨루는...",
-          "src": "조선일보",
+          "title": "정재헌vs박윤영vs홍범식, AI 이용자서비스 개편…이통3사, AX 2차대전",
+          "desc": "정재헌·박윤영·홍범식 등 이동통신 3사 사장들이 AI(인공지능) 기술력을 바탕으로 이용자 서비스 개편에... 제안하는 '마케팅 AI 에이전트'를 도입했다. 박윤영 KT 사장은 대표 고객 접점인 '마이케이티' 앱을 AI...",
+          "src": "shinailbo",
           "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/023/0004003059?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/WIAXHXM7C5B6XNWJIGSOYVWIEI.jpg?auth=880c5947b119782fb30eb18349b4f24248e06866bb90eef862304b4d60665d28&width=1200&height=630&focal=1983,1822"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068387",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5068387_2066079_1225.jpg"
         },
         {
-          "title": "미국·유럽에서도 AI가 ‘취업 사다리’",
-          "desc": "독일 이포(Ifo)경제연구소가 지난 6월 발표한 조사에 따르면, AI를 도입한 기업 5곳 중 1곳(약 20%)은 ‘과거... 학위보다 AI 활용 역량을 채용의 우선 기준으로 삼고 있는 것으로 나타났다. 인도 정보기술(IT) 산업협회...",
-          "src": "조선일보",
+          "title": "'하드웨어' 넘어 시민 일상으로…오세훈이 '삶의 질' 내세운 이유",
+          "desc": "첨단기술을 활용하는 정책에서도 시민의 일상을 강조하고 있다. 2024년 도입한 '새벽동행 자율주행버스'가... 자율주행 기술을 활용했다. 오 시장은 지난 6일 '스마트라이프위크 2026' 개막식에서도 \"인공지능(AI)이 시민의...",
+          "src": "뉴스1",
           "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/023/0004003058?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/OVKQJPQ6N5KL7HG6232OYWPQMY.jpg?auth=0b1a4c5018386f090d8b748e51ba2745767fd0111add4acff20c0463d9cc30e9&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/421/0009219561?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/7/8146180/high.jpg"
         },
         {
-          "title": "[현장] 中 로봇 기업 '유비테크'를 가다…휴머노이드 로봇의 진화",
-          "desc": "세계 각국에서 활동하는 한인 경제인들은 쇼룸에 전시된 다양한 로봇을 살펴보며 중국 로봇산업의 기술... 로봇의 활용 가능성을 보여주는 장면이었다. 현장 관계자들은 이를 'AI 컴패니언 로봇(AI Companion Robot)'이라고...",
-          "src": "dongponews",
+          "title": "[단독] ‘공공기관 AI’ 성과는 뻥튀기, 예산은 누락…공시 기준이 없다",
+          "desc": "같은 AI 활용을 두고 기관별로 성과 건수와 예산 규모가 달리 잡히며 정부 공시가 실제 AI 도입 수준을... AI 예산이 ‘없다’고 제출했지만 올해 9월까지 생성형 AI 구독료 4118만원을 집행했고, 특허기술진흥원도 AI...",
+          "src": "kmib",
           "date": "10/10",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=60977",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202610/60977_217660_5623_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/005/0001877854?sid=100",
+          "img": "https://image.kmib.co.kr/online_image/2026/1010/01100201.20261009500213.png"
         },
         {
-          "title": "AI 에이전트 해킹 차단율 96%…감시 비용 50분의 1로 줄였다",
-          "desc": "추정하는 기술이다. 기존 연구에서도 신경망 내부 활성화 신호를 활용한 AI 행동 감시가 시도됐다. 이번... 회피공격, AI 에이전트 보안 등 5개 분야 17개 항목으로 구성됐다. 이 가운데 10개 항목은 AI 에이전트 도입으로...",
-          "src": "topstarnews",
-          "date": "10/09",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242765",
-          "img": "https://cdn.topstarnews.net/news/photo/202610/16242765_2050368_389_crop.jpg"
+          "title": "[김정래의 AI 국가론 ⑦] AI로 여는 24시간 행정",
+          "desc": "'김정래의 AI 국가론'은 AI를 기술의 문제가 아닌 국가의 능력과 책임의 문제로 바라본다. 국내외 실제... 영국의 텔퍼드앤드레킨 자치정부(Telford & Wrekin Council)가 2021년 도입한 AI 민원도우미 ‘Ask Tom’은 세금과...",
+          "src": "아주경제",
+          "date": "10/10",
+          "url": "https://www.ajunews.com/view/20261008171013148",
+          "img": "https://image.ajunews.com/content/image/2026/08/26/20260826171411986706.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"100원 팔아 80원 남긴다\"…SK하이닉스, 삼성 이어 '영업이익률 80%' 뚫을...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613893",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202610/613893_421634_311_v150.jpg"
+      "title": "가을 입주·혼수 대목 왔다…가구업계, 할인·판촉 총력전",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026100810450989328",
+      "img": "https://nimage.newsway.co.kr/photo/2026/10/08/20261008003625_1200.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "LG전자, 자동차 반도체까지 도전…'이 회사'와 손잡았다",
-      "url": "https://www.wikitree.co.kr/articles/1165059",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/09/202610092152171655.jpg"
+      "title": "허리띠 졸라매고 뼈깎는 체질개선…전자업계 부진 탈출 시동",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368038?sid=101",
+      "img": "https://img3.yna.co.kr/photo/yna/YH/2026/06/01/PYH2026060110010001300_P4.jpg"
     },
     {
-      "title": "나이·학벌·경력 안 본다, 오직 AI 실력만 본다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003059?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/WIAXHXM7C5B6XNWJIGSOYVWIEI.jpg?auth=880c5947b119782fb30eb18349b4f24248e06866bb90eef862304b4d60665d28&width=1200&height=630&focal=1983,1822"
+      "title": "정재헌vs박윤영vs홍범식, AI 이용자서비스 개편…이통3사, AX 2차대전",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068387",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5068387_2066079_1225.jpg"
     },
     {
-      "title": "미국·유럽에서도 AI가 ‘취업 사다리’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003058?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/OVKQJPQ6N5KL7HG6232OYWPQMY.jpg?auth=0b1a4c5018386f090d8b748e51ba2745767fd0111add4acff20c0463d9cc30e9&width=1200&height=630&smart=true"
+      "title": "'하드웨어' 넘어 시민 일상으로…오세훈이 '삶의 질' 내세운 이유",
+      "url": "https://n.news.naver.com/mnews/article/421/0009219561?sid=102",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/7/8146180/high.jpg"
     }
   ]
 };
