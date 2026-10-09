@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.09 (금) 04:58",
+  "updatedAt": "2026.10.09 (금) 09:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[출근길 포인트] 삼성전자 영업익 107조 '새 역사'…中 '레드웨이브' 韓...",
-          "desc": "삼성전자 서초사옥. 사진=연합뉴스 ◇삼성전자 3분기 영업익 107조…사상 첫 100조 돌파  삼성전자가 올해... 가전과 자동차 시장에서도 중국 업체의 영향력이 커지고 있다. 중국산 가전의 수입시장 점유율은...",
-          "src": "pointdaily",
+          "title": "다나와, TV 소비 양극화 분석",
+          "desc": "LG전자 스탠바이미2(왼쪽), 삼성전자 Mini LED KU85MH75AFXKR /커넥트웨이브 제공 | 서울=한스경제 김종효 기자... (IoT) 가전 제어 기능을 지원하는 등 편의성을 강화하고 있다. 김우중 다나와 디지털/영상팀 팀장은 \"최근...",
+          "src": "한스경제",
           "date": "10/09",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321808",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321808_318511_3314_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871325",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871325_895804_165_v150.jpg"
         },
         {
           "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
-          "desc": "한 번 구매하면 길게는 10년 이상 사용하는 냉장고, 세탁기 등 이른바 '백색가전' 분야에서 '구독형' 사업모델이 빠르게 증가하고 있기 때문이다. 양대 가전 기업인 삼성전자와 LG전자도 가전 구독 사업을 확대하면서 제품...",
-          "src": "enewstoday",
-          "date": "10/08",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
+          "title": "\"집값 올라 나만 벼락거지 돼\"...6년 뒤 200만원으로 10억 만든 비결",
+          "desc": "삼성전자와 현대차 등 익숙한 국내 기업부터 사들였다. 첫 투자수익 150만원으로 어머니에게 세탁기를 선물하기도 했다. 하지만 개별 종목을 선택해 수익을 내는 일은 생각처럼 쉽지 않았다. 전환점은 뱅가드그룹...",
+          "src": "머니투데이",
+          "date": "10/09",
+          "url": "https://n.news.naver.com/mnews/article/008/0005424184?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100815170935226_1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "MS·엔비디아, 2599달러 AI 노트북 공개…'하이브리드 인텔리전스' 시대...",
-          "desc": "새롭게 도입됐다. 아울러 메타 플랫폼의 개인 인공지능 비서 뮤즈도 윈도우 환경에 순차적으로 출시될... 모델을 활용해 전체적인 인공지능 운영 비용을 낮추는 구조다. 기업 최고기술책임자들의 가장 큰 고민인 치솟는...",
-          "src": "g-enews",
+          "title": "인스피언, 통합 보안 솔루션 조달 등록",
+          "desc": "솔루션을 도입할 수 있게 됐다. 조달청에 오른 품목은 WebMonitor(1Container)와 WebEngine(20Container) 등 2가지다.... 여기에 인공지능(AI)을 활용한 개인정보 탐지와 이상행위 분석, 자연어 검색 기능도 갖췄다. 이를...",
+          "src": "한스경제",
           "date": "10/09",
-          "url": "https://www.g-enews.com/view.php?ud=2026100823202726862bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261008232537095872bd56fbc3c21121419978.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871171",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871171_895906_212_v150.jpg"
         },
         {
-          "title": "\"금리 올라도 주가 8만 간다\"… 日 메가뱅크 수장들 진단",
-          "desc": "여기에 중동 정세 악화로 원유 도입 비용이 치솟는 상황 역시 일본 경제의 발목을 잡을 위험 요소로 지목됐다. 나카지마 사장은 미국 주도의 AI 데이터센터 투자를 둘러싸고 차세대 기술이 실제 현금 흐름을 창출할 수...",
-          "src": "g-enews",
+          "title": "동아출판, 초등 인정도서 2종 최종 승인",
+          "desc": "까망이고동이쌤, 행복한 김선생, 상권쌤 등 교사들과 개발한 수업 PPT와 도입 영상, 캔바 활용 에듀테크... 첨삭, AI 튜터 등 다양한 기술을 접목하고 있다. 두클래스를 통해 구글 애드온 기반 수업 도구 '워크북'과 '예스24...",
+          "src": "한스경제",
           "date": "10/09",
-          "url": "https://www.g-enews.com/view.php?ud=202610090201153312e7e8286d56_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100902024705670e7e8286d563912477188.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871166",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871166_895627_1811_v150.jpg"
         },
         {
-          "title": "[패트롤] 인천시 미추홀구-부평구-서해구-영종구-강화군-연수구의회",
-          "desc": "이번 수상은 시설 생활인들이 문화·여가 프로그램에서 배운 기술을 활용해 작품을 제작하고, 외부 공모전... 위치기반 민원 처리 현장 분석 시스템과 침수 대응 빗물받이 스마트 현장 지도도 도입했다. 민생 분야에서는...",
-          "src": "ekn",
+          "title": "[줌인] SK 최태원 회장의 AI 구상…데이터센터부터 '1인 1에이전트'까지",
+          "desc": "넘어 AI 에이전트가 조직 안에서 서로 연결되고 업무 생산성을 높이는 방식이다. AI를 도입하는 기업과... 기업 내부의 생산성을 높이는 데서 시작한 AI 활용이 산업과 도시, 공공 영역으로 확대되면 AI의 경제적 가치는...",
+          "src": "dailypop",
           "date": "10/09",
-          "url": "https://www.ekn.kr/web/view.php?key=20261009026394209",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261009.bf7b22de770e46d5a8267037c5275381_R.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=103206",
+          "img": "http://www.dailypop.kr/news/thumbnail/202610/103206_171063_174_v150.jpg"
         },
         {
-          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천테크노파크",
-          "desc": "인공지능(AI)과 로보틱스 등 첨단 기술을 활용한 치안 장비와 보안산업의 최신 동향을 소개한다. 인천시와... 이범석 대표의원은 “AI 기술 도입 자체보다 행정의 비효율을 줄이고 시민에게 필요한 서비스를 제공하는...",
-          "src": "ekn",
+          "title": "[의료영상 AI 국가 인프라 ⑥] DICOM 표준화, 의료영상 AI의 성능·보안을...",
+          "desc": "의료영상 AI의 책임 있는 사용에 대해 \"한 번의 도입으로 끝나는 일이 아니라 지속적인 과정\"이라고 강조했다. 그는 \"전담조직이 방법론과 기술을 바탕으로 정해진 절차를 계속 적용해야 한다\"며 의료영상 AI 운영의...",
+          "src": "koreaittimes",
           "date": "10/09",
-          "url": "https://www.ekn.kr/web/view.php?key=20261009026214198",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261009.1e1748be7a424d92a3a9a13424e74f17_R.png"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157964",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202610/157964_107529_657_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성 모바일 메모리 구매가 211% 상승, 스마트폰 평균 판매가는 7% 상승",
+          "desc": "메모리 수급 상황, 2027년 더 심해질 수 있다는 삼성 전망…PC·스마트폰 전반에 영향AI용 D램과 낸드 수요가 반도체 업계 이익을 끌어올리면서 일반 전자제품은 공급 부족과 부품 가격 상승을 겪고 있다. 더...",
+          "src": "wikitree",
+          "date": "10/09",
+          "url": "https://www.wikitree.co.kr/articles/1164954",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/09/202610090508218334_it.jpeg"
+        },
         {
           "title": "삼성, 반도체 웃고 모바일 울다…디램 값 폭등에 4분기 스마트폰 감산 ...",
           "desc": "모바일용 부품 원가 압박과 감산 배경 폴란드 정보기술 전문매체 피피이 플은 삼성전자 MX 사업부가 최근 협력사들에 4분기 부품 주문을 20~30% 축소해 달라고 요청했다고 보도했다. 완제품 판매가를 부품 원가 상승...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/08",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448945",
           "img": ""
-        },
-        {
-          "title": "李 대통령 만난 김강학 유니슨 회장 \"우리 바람으로 우리 터빈 가동\"",
-          "desc": "정부가 선정한 '국가대표 10대 녹색산업' 중 풍력 분야에서 단독 대표로 선정된 유니슨은 이날 삼성전자와... 특히 대형 터빈의 연구·생산·정비 기능에 부품 협력사를 연계한 '해상풍력 클러스터'를 조성해 국내 풍력 산업...",
-          "src": "블로터",
-          "date": "10/08",
-          "url": "https://n.news.naver.com/mnews/article/293/0000091375?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/675297_289153_3645_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[출근길 포인트] 삼성전자 영업익 107조 '새 역사'…中 '레드웨이브' 韓...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321808",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/321808_318511_3314_v150.jpg"
+      "title": "다나와, TV 소비 양극화 분석",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871325",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871325_895804_165_v150.jpg"
     },
     {
       "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "\"가전제품도 구독하세요\"···삼성·LG의 수익구조 전환 노력",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478345",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2478345_1322346_5258_v150.jpg"
+      "title": "\"집값 올라 나만 벼락거지 돼\"...6년 뒤 200만원으로 10억 만든 비결",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424184?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100815170935226_1.jpg"
     },
     {
-      "title": "MS·엔비디아, 2599달러 AI 노트북 공개…'하이브리드 인텔리전스' 시대...",
-      "url": "https://www.g-enews.com/view.php?ud=2026100823202726862bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261008232537095872bd56fbc3c21121419978.jpg"
+      "title": "인스피언, 통합 보안 솔루션 조달 등록",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871171",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871171_895906_212_v150.jpg"
     },
     {
-      "title": "\"금리 올라도 주가 8만 간다\"… 日 메가뱅크 수장들 진단",
-      "url": "https://www.g-enews.com/view.php?ud=202610090201153312e7e8286d56_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100902024705670e7e8286d563912477188.jpg"
+      "title": "동아출판, 초등 인정도서 2종 최종 승인",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871166",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871166_895627_1811_v150.jpg"
     }
   ]
 };
