@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.09 (금) 09:24",
+  "updatedAt": "2026.10.09 (금) 18:09",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "다나와, TV 소비 양극화 분석",
-          "desc": "LG전자 스탠바이미2(왼쪽), 삼성전자 Mini LED KU85MH75AFXKR /커넥트웨이브 제공 | 서울=한스경제 김종효 기자... (IoT) 가전 제어 기능을 지원하는 등 편의성을 강화하고 있다. 김우중 다나와 디지털/영상팀 팀장은 \"최근...",
-          "src": "한스경제",
+          "title": "[A 주간 서머리] 경제·산업계 \"금융권, AI 해킹 사태 일파만파...삼성전...",
+          "desc": "여야가 삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF) 도입을 둘러싸고 책임 공방을 벌였다.... 이번 호실적은 생활가전과 전장(VS) 사업이 각각 B2C와 B2B 영역에서 견조한 수익성을 내며 캐시카우 역할을...",
+          "src": "asiaa",
           "date": "10/09",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871325",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871325_895804_165_v150.jpg"
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202610/265532_287786_2111.jpg"
         },
         {
-          "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
-          "desc": "◇ 삼성전자, 삼성 아트 스토어에 '영국 박물관' 대표 소장품 30점 공개 삼성전자, 삼성 아트 스토어에... 오는 12일부터 18일까지 네이버 브랜드스토어에서 제품을 구매한 고객에게 로보락 로봇청소기 전용 클리너와...",
-          "src": "ibabynews",
-          "date": "10/08",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=155073",
-          "img": "https://www.ibabynews.com/news/photo/202610/155073_123183_745.jpg"
+          "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
+          "desc": "대란템', '청소기 브랜드 대전' 등으로 구성됐다. 이사·웨딩 페스티벌에서는 삼성전자 TV와 냉장고, 세탁기... 대표 상품은 로보락 'S10 MAXV ULTRA' 로봇청소기 149만원, 드리미 '아쿠아10' 로봇청소기 59만9000원, 다이슨 'r2...",
+          "src": "smartbizn",
+          "date": "10/09",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=156016",
+          "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
         },
         {
           "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "\"집값 올라 나만 벼락거지 돼\"...6년 뒤 200만원으로 10억 만든 비결",
-          "desc": "삼성전자와 현대차 등 익숙한 국내 기업부터 사들였다. 첫 투자수익 150만원으로 어머니에게 세탁기를 선물하기도 했다. 하지만 개별 종목을 선택해 수익을 내는 일은 생각처럼 쉽지 않았다. 전환점은 뱅가드그룹...",
-          "src": "머니투데이",
+          "title": "[10월10일자] 비즈니스포스트 아침의 주요기사",
+          "desc": "키운다 ● 삼성전자 'AI 구독'으로 가전 침체 돌파구 모색, 노태문 B2B로 확장해 '조 단위' 사업 키운다 ● 6년 만에 확 바뀐 현대차 '디 올 뉴 투싼', 정숙성·주행성능 다 잡은 패밀리 중형녚 ● 네이버웹툰 투자 전문가...",
+          "src": "비즈니스포스트",
           "date": "10/09",
-          "url": "https://n.news.naver.com/mnews/article/008/0005424184?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100815170935226_1.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448989",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인스피언, 통합 보안 솔루션 조달 등록",
-          "desc": "솔루션을 도입할 수 있게 됐다. 조달청에 오른 품목은 WebMonitor(1Container)와 WebEngine(20Container) 등 2가지다.... 여기에 인공지능(AI)을 활용한 개인정보 탐지와 이상행위 분석, 자연어 검색 기능도 갖췄다. 이를...",
-          "src": "한스경제",
+          "title": "AI로 넓어진 도전의 문, 더 중요해진 선별",
+          "desc": "과거 더 큰 팀이 필요했던 작업을 AI로 개인이 해낼 수 있게 되면서 기술적 진입장벽이 낮아지고 있다는... 검증모델'이 도입됐다. 도전자의 AI 활용을 지원하는 사업이 지원서를 AI로 썼는지도 따로 들여다보는...",
+          "src": "platum",
           "date": "10/09",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871171",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871171_895906_212_v150.jpg"
+          "url": "https://platum.kr/archives/295985",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/image-32.png"
         },
         {
-          "title": "동아출판, 초등 인정도서 2종 최종 승인",
-          "desc": "까망이고동이쌤, 행복한 김선생, 상권쌤 등 교사들과 개발한 수업 PPT와 도입 영상, 캔바 활용 에듀테크... 첨삭, AI 튜터 등 다양한 기술을 접목하고 있다. 두클래스를 통해 구글 애드온 기반 수업 도구 '워크북'과 '예스24...",
-          "src": "한스경제",
+          "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
+          "desc": "특히 이번 터치스크린 모델은 OLED 패널과 터치 기술 도입으로 가격이 기존 최상위 제품군 대비 최대 20... 코드명 'J510'으로 개발 중인 이 제품은 화면과 멀티미디어 기능을 개선해 활용도를 높이는 데 초점을 맞출...",
+          "src": "AI타임스",
           "date": "10/09",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871166",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871166_895627_1811_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
+          "img": "https://cdn.aitimes.com/news/photo/202610/216094_220085_5456.png"
         },
         {
-          "title": "[줌인] SK 최태원 회장의 AI 구상…데이터센터부터 '1인 1에이전트'까지",
-          "desc": "넘어 AI 에이전트가 조직 안에서 서로 연결되고 업무 생산성을 높이는 방식이다. AI를 도입하는 기업과... 기업 내부의 생산성을 높이는 데서 시작한 AI 활용이 산업과 도시, 공공 영역으로 확대되면 AI의 경제적 가치는...",
-          "src": "dailypop",
+          "title": "AI 기반 설계부터 CAM 자동화까지… Autodesk Fusion Roadshow, 대구·부산...",
+          "desc": "AI를 활용한 설계와 제조 자동화의 실무 적용 방안을 소개하는 'Fusion Roadshow: AI 기반 설계와 제조... 맞춤형 기술 상담을 통해 자사의 설계·가공 과제와 Fusion 도입·활용 방안을 논의할 수 있다. 행사 참가...",
+          "src": "mfgkr",
           "date": "10/09",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=103206",
-          "img": "http://www.dailypop.kr/news/thumbnail/202610/103206_171063_174_v150.jpg"
+          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28400",
+          "img": "https://cdn.mfgkr.com/news/photo/202610/28400_11149_29.png"
         },
         {
-          "title": "[의료영상 AI 국가 인프라 ⑥] DICOM 표준화, 의료영상 AI의 성능·보안을...",
-          "desc": "의료영상 AI의 책임 있는 사용에 대해 \"한 번의 도입으로 끝나는 일이 아니라 지속적인 과정\"이라고 강조했다. 그는 \"전담조직이 방법론과 기술을 바탕으로 정해진 절차를 계속 적용해야 한다\"며 의료영상 AI 운영의...",
-          "src": "koreaittimes",
+          "title": "[국감 첫 주] 조희대·'암살자(들)'에 달아오른 국회… 정책 검증은 시험...",
+          "desc": "등에 활용해야 한다는 입장을 내세웠다. 정무위에서는 단일종목 레버리지 ETF 도입 과정과 투자자 피해에... 과학기술정보방송통신위에서는 국내 피지컬AI 경쟁력과 독자 AI 파운데이션 모델 선정 과정의 공정성, 통신사...",
+          "src": "newscj",
           "date": "10/09",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157964",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202610/157964_107529_657_v150.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3439038",
+          "img": "https://cdn.newscj.com/news/thumbnail/202610/3439038_3559317_4617_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
+          "desc": "또 다른 관계자 B는 \"삼성전자가 부품협력사에 전달한 4분기 부품 발주량 전망치가 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄었다\"고 밝혔다. 그는 \"유통재고 등이 주 원인\"이라고 덧붙였다. 삼성전자...",
+          "src": "ZDNet코리아",
+          "date": "10/09",
+          "url": "https://n.news.naver.com/mnews/article/092/0002440378?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/06/18/506d619620a51b50535dfd97f6271214.png"
+        },
+        {
+          "title": "LG 넘어 삼성·현대차까지··· LX세미콘, 반도체 공급망 틀 깬다",
+          "desc": "제어하는 부품이다. 현대차·기아는 올 하반기 생산 차량부터 적용을 시작했다. 공급 차종은 점차... 기존 주요 파운드리 협력사로는 TSMC와 SK하이닉스시스템아이씨가 꼽힌다. 삼성전자 파운드리와는 차세대 DDI...",
+          "src": "greenpostkorea",
+          "date": "10/09",
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307637",
+          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202610/307637_311395_5246.png"
+        },
         {
           "title": "삼성 모바일 메모리 구매가 211% 상승, 스마트폰 평균 판매가는 7% 상승",
           "desc": "메모리 수급 상황, 2027년 더 심해질 수 있다는 삼성 전망…PC·스마트폰 전반에 영향AI용 D램과 낸드 수요가 반도체 업계 이익을 끌어올리면서 일반 전자제품은 공급 부족과 부품 가격 상승을 겪고 있다. 더...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/09",
           "url": "https://www.g-enews.com/view.php?ud=202610081927463008fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026100819295002144fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "유니슨, K-GX 해상풍력 공급망 참여…2조8,500억 민간 투자 추진",
-          "desc": "LG전자, 삼성전자, SK하이닉스 등과 함께 국가대표 10대 녹색산업 육성 기업에 이름을 올렸다. 민간 차원에서... 유니슨은 대형 터빈의 생산 거점, 연구개발(R&D) 센터, 통합 정비 기지를 지역 부품 협력사와 결합한 독자...",
-          "src": "ttlnews",
-          "date": "10/08",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3150323",
-          "img": "https://cdn.ttlnews.com/news/photo/202610/3150323_773683_2117.jpg"
-        },
-        {
-          "title": "삼성전자 주가 '엔비디아 대비 저평가' 장기간 지속 전망, 돈 버는 만큼...",
-          "desc": "인공지능 반도체의 핵심 부품인 고대역폭 메모리(HBM) 수요도 강세를 이어가고 있어 삼성전자의 실적 증가를... 엔비디아는 반도체 생산을 TSMC와 같은 외부 협력사에 맡기는 반면 삼성전자는 직접 메모리반도체에 막대한...",
-          "src": "비즈니스포스트",
-          "date": "10/08",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448945",
-          "img": ""
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "다나와, TV 소비 양극화 분석",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871325",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871325_895804_165_v150.jpg"
+      "title": "[A 주간 서머리] 경제·산업계 \"금융권, AI 해킹 사태 일파만파...삼성전...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202610/265532_287786_2111.jpg"
     },
     {
-      "title": "[가전 트렌드] 바디프랜드, 2026 한국산업의 고객만족도(KCSI) 1위 수상 外",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=155073",
-      "img": "https://www.ibabynews.com/news/photo/202610/155073_123183_745.jpg"
+      "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=156016",
+      "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
     },
     {
       "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "\"집값 올라 나만 벼락거지 돼\"...6년 뒤 200만원으로 10억 만든 비결",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424184?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100815170935226_1.jpg"
+      "title": "AI로 넓어진 도전의 문, 더 중요해진 선별",
+      "url": "https://platum.kr/archives/295985",
+      "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/image-32.png"
     },
     {
-      "title": "인스피언, 통합 보안 솔루션 조달 등록",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871171",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871171_895906_212_v150.jpg"
+      "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
+      "img": "https://cdn.aitimes.com/news/photo/202610/216094_220085_5456.png"
     },
     {
-      "title": "동아출판, 초등 인정도서 2종 최종 승인",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871166",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/871166_895627_1811_v150.jpg"
+      "title": "AI 기반 설계부터 CAM 자동화까지… Autodesk Fusion Roadshow, 대구·부산...",
+      "url": "https://www.mfgkr.com/news/articleView.html?idxno=28400",
+      "img": "https://cdn.mfgkr.com/news/photo/202610/28400_11149_29.png"
     }
   ]
 };
