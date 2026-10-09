@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.09 (금) 18:09",
+  "updatedAt": "2026.10.10 (토) 02:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[A 주간 서머리] 경제·산업계 \"금융권, AI 해킹 사태 일파만파...삼성전...",
-          "desc": "여야가 삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF) 도입을 둘러싸고 책임 공방을 벌였다.... 이번 호실적은 생활가전과 전장(VS) 사업이 각각 B2C와 B2B 영역에서 견조한 수익성을 내며 캐시카우 역할을...",
-          "src": "asiaa",
-          "date": "10/09",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202610/265532_287786_2111.jpg"
+          "title": "\"100원 팔아 80원 남긴다\"…SK하이닉스, 삼성 이어 '영업이익률 80%' 뚫을...",
+          "desc": "비메모리사업부, 스마트폰, 가전, TV 등 일부 사업부의 적자가 예상됨에도 불구하고, 메모리사업부만 놓고 보면 영업이익률이 80%를 넘어섰을 것이라는 전망도 있다. 삼성전자는 오는 29일 3분기 확정 실적을...",
+          "src": "cbci",
+          "date": "10/10",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613893",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/613893_421634_311_v150.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "[10월10일자] 비즈니스포스트 아침의 주요기사",
-          "desc": "키운다 ● 삼성전자 'AI 구독'으로 가전 침체 돌파구 모색, 노태문 B2B로 확장해 '조 단위' 사업 키운다 ● 6년 만에 확 바뀐 현대차 '디 올 뉴 투싼', 정숙성·주행성능 다 잡은 패밀리 중형녚 ● 네이버웹툰 투자 전문가...",
-          "src": "비즈니스포스트",
+          "title": "LG전자, 자동차 반도체까지 도전…'이 회사'와 손잡았다",
+          "desc": "LG전자가 독일 자동차 부품업체 보쉬와 협력해 차량용 반도체 개발에 나선다.TV와 가전제품에 들어가는... 테슬라가 삼성전자 파운드리에서 생산하는 AI5 반도체 역시 차량용 고성능 연산과 관련된 사례로 거론된다. 다만...",
+          "src": "wikitree",
           "date": "10/09",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448989",
-          "img": ""
+          "url": "https://www.wikitree.co.kr/articles/1165059",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/09/202610092152171655.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI로 넓어진 도전의 문, 더 중요해진 선별",
-          "desc": "과거 더 큰 팀이 필요했던 작업을 AI로 개인이 해낼 수 있게 되면서 기술적 진입장벽이 낮아지고 있다는... 검증모델'이 도입됐다. 도전자의 AI 활용을 지원하는 사업이 지원서를 AI로 썼는지도 따로 들여다보는...",
-          "src": "platum",
-          "date": "10/09",
-          "url": "https://platum.kr/archives/295985",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/image-32.png"
+          "title": "나이·학벌·경력 안 본다, 오직 AI 실력만 본다",
+          "desc": "대상 AI 해커톤을 열었다. 해커톤 도입 5년째인 올해, 역대 가장 많은 3393명이 지원했다. 공대생뿐 아니라... ☞AI 해커톤 인공지능(AI) 기술을 활용해 정해진 시간 안에 프로그램이나 서비스의 시제품을 만들어 겨루는...",
+          "src": "조선일보",
+          "date": "10/10",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003059?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/WIAXHXM7C5B6XNWJIGSOYVWIEI.jpg?auth=880c5947b119782fb30eb18349b4f24248e06866bb90eef862304b4d60665d28&width=1200&height=630&focal=1983,1822"
         },
         {
-          "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
-          "desc": "특히 이번 터치스크린 모델은 OLED 패널과 터치 기술 도입으로 가격이 기존 최상위 제품군 대비 최대 20... 코드명 'J510'으로 개발 중인 이 제품은 화면과 멀티미디어 기능을 개선해 활용도를 높이는 데 초점을 맞출...",
-          "src": "AI타임스",
-          "date": "10/09",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
-          "img": "https://cdn.aitimes.com/news/photo/202610/216094_220085_5456.png"
+          "title": "미국·유럽에서도 AI가 ‘취업 사다리’",
+          "desc": "독일 이포(Ifo)경제연구소가 지난 6월 발표한 조사에 따르면, AI를 도입한 기업 5곳 중 1곳(약 20%)은 ‘과거... 학위보다 AI 활용 역량을 채용의 우선 기준으로 삼고 있는 것으로 나타났다. 인도 정보기술(IT) 산업협회...",
+          "src": "조선일보",
+          "date": "10/10",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003058?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/OVKQJPQ6N5KL7HG6232OYWPQMY.jpg?auth=0b1a4c5018386f090d8b748e51ba2745767fd0111add4acff20c0463d9cc30e9&width=1200&height=630&smart=true"
         },
         {
-          "title": "AI 기반 설계부터 CAM 자동화까지… Autodesk Fusion Roadshow, 대구·부산...",
-          "desc": "AI를 활용한 설계와 제조 자동화의 실무 적용 방안을 소개하는 'Fusion Roadshow: AI 기반 설계와 제조... 맞춤형 기술 상담을 통해 자사의 설계·가공 과제와 Fusion 도입·활용 방안을 논의할 수 있다. 행사 참가...",
-          "src": "mfgkr",
-          "date": "10/09",
-          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28400",
-          "img": "https://cdn.mfgkr.com/news/photo/202610/28400_11149_29.png"
+          "title": "[현장] 中 로봇 기업 '유비테크'를 가다…휴머노이드 로봇의 진화",
+          "desc": "세계 각국에서 활동하는 한인 경제인들은 쇼룸에 전시된 다양한 로봇을 살펴보며 중국 로봇산업의 기술... 로봇의 활용 가능성을 보여주는 장면이었다. 현장 관계자들은 이를 'AI 컴패니언 로봇(AI Companion Robot)'이라고...",
+          "src": "dongponews",
+          "date": "10/10",
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=60977",
+          "img": "https://cdn.dongponews.net/news/thumbnail/202610/60977_217660_5623_v150.jpg"
         },
         {
-          "title": "[국감 첫 주] 조희대·'암살자(들)'에 달아오른 국회… 정책 검증은 시험...",
-          "desc": "등에 활용해야 한다는 입장을 내세웠다. 정무위에서는 단일종목 레버리지 ETF 도입 과정과 투자자 피해에... 과학기술정보방송통신위에서는 국내 피지컬AI 경쟁력과 독자 AI 파운데이션 모델 선정 과정의 공정성, 통신사...",
-          "src": "newscj",
+          "title": "AI 에이전트 해킹 차단율 96%…감시 비용 50분의 1로 줄였다",
+          "desc": "추정하는 기술이다. 기존 연구에서도 신경망 내부 활성화 신호를 활용한 AI 행동 감시가 시도됐다. 이번... 회피공격, AI 에이전트 보안 등 5개 분야 17개 항목으로 구성됐다. 이 가운데 10개 항목은 AI 에이전트 도입으로...",
+          "src": "topstarnews",
           "date": "10/09",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3439038",
-          "img": "https://cdn.newscj.com/news/thumbnail/202610/3439038_3559317_4617_v150.jpg"
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242765",
+          "img": "https://cdn.topstarnews.net/news/photo/202610/16242765_2050368_389_crop.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[A 주간 서머리] 경제·산업계 \"금융권, AI 해킹 사태 일파만파...삼성전...",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202610/265532_287786_2111.jpg"
+      "title": "\"100원 팔아 80원 남긴다\"…SK하이닉스, 삼성 이어 '영업이익률 80%' 뚫을...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613893",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/613893_421634_311_v150.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "AI로 넓어진 도전의 문, 더 중요해진 선별",
-      "url": "https://platum.kr/archives/295985",
-      "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/image-32.png"
+      "title": "LG전자, 자동차 반도체까지 도전…'이 회사'와 손잡았다",
+      "url": "https://www.wikitree.co.kr/articles/1165059",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/09/202610092152171655.jpg"
     },
     {
-      "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
-      "img": "https://cdn.aitimes.com/news/photo/202610/216094_220085_5456.png"
+      "title": "나이·학벌·경력 안 본다, 오직 AI 실력만 본다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003059?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/WIAXHXM7C5B6XNWJIGSOYVWIEI.jpg?auth=880c5947b119782fb30eb18349b4f24248e06866bb90eef862304b4d60665d28&width=1200&height=630&focal=1983,1822"
     },
     {
-      "title": "AI 기반 설계부터 CAM 자동화까지… Autodesk Fusion Roadshow, 대구·부산...",
-      "url": "https://www.mfgkr.com/news/articleView.html?idxno=28400",
-      "img": "https://cdn.mfgkr.com/news/photo/202610/28400_11149_29.png"
+      "title": "미국·유럽에서도 AI가 ‘취업 사다리’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003058?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/OVKQJPQ6N5KL7HG6232OYWPQMY.jpg?auth=0b1a4c5018386f090d8b748e51ba2745767fd0111add4acff20c0463d9cc30e9&width=1200&height=630&smart=true"
     }
   ]
 };
