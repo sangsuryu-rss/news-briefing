@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.11 (일) 03:38",
+  "updatedAt": "2026.10.11 (일) 08:35",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[더페어 돋보기] \"운임·원자재 이중고 넘는다\"…2027년 가전·화학 업종...",
-          "desc": "2027년까지 컨테이너선 신조선 인도 물량이 늘어나며 장기적인 운임 안정화가 기대되지만 지정학적 리스크 지속에 따른 운임 지수 고점 유지는 LG전자와 삼성전자 가전 부문의 영업이익률 방어에 과제로 작용할 전망이다....",
-          "src": "thefairnews",
+          "title": "[증시전망] 삼성전자 실적도 안 통했다...코스피 반등 열쇠는?",
+          "desc": "미디어, 화장품·의류, IT가전 등이 상대적으로 강했지만 반도체와 자동차 등 기존 대형 주도주는 약세를 보였다. 특히 삼성전자가 3분기 107조원 규모의 영업이익을 발표하며 시장 예상치를 웃돌았지만 주가는 오히려...",
+          "src": "digitaltoday",
           "date": "10/11",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90174",
-          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90174_136382_4135_v150.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706224",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/706224_653942_5351.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
-          "desc": "TV·생활가전 사업의 수익성 회복과 기업간거래(B2B) 사업 성장, 비용 절감이 실적 개선을 뒷받침했다. 반면 삼성전자는 반도체 등 부품 가격 상승으로 완제품 사업의 수익성이 악화되면서 저수익 사업 정리와 AI 기반...",
-          "src": "ebn",
-          "date": "10/10",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
+          "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
+          "desc": "경기 둔화 영향으로 TV·냉장고·세탁기 등 가전 판매량이 감소하고, 중국 기업은 저가 공세를 펼치면서... 삼성전자가 스마트홈 플랫폼 '스마트싱스'에 구글 AI '제미나이'를 연동하고, LG전자는 '씽큐'에 오픈AI '챗GPT'를...",
+          "src": "전자신문",
+          "date": "10/11",
+          "url": "https://n.news.naver.com/mnews/article/030/0003473752?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.87580122f6a2492b906bb37377194d23_P1.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "킨텍스, '건설·도시 안전박람회' 14일 동시 개막",
-          "desc": "이민우 킨텍스 대표이사는 \"AI와 데이터를 활용한 사전 위험관리의 중요성을 강조하며, 우수 안전기술이 공공·민간 현장에 도입될 수 있도록 지원하겠다\"라고 말했다. [비즈월드= / ]",
-          "src": "bizwnews",
+          "title": "AI 활용한 보안 혁신, 은행들이 해킹 위협에 맞서는 방법",
+          "desc": "주요 은행들은 정보보호 예산을 대폭 확대하고 AI 기술을 활용한 보안 솔루션을 강화하고 있다. 예를 들어, 한... 한 은행은 보안업체의 AI 솔루션을 도입하여 웹 서비스의 취약점을 찾아내는 체계를 운영 중이다. 또 다른...",
+          "src": "고코리아",
           "date": "10/11",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=148413",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202610/148413_165688_4139_v150.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=881004",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/881004_158384_3256_v150.jpg"
         },
         {
-          "title": "전략물자 1.2조 털려도 블랙리스트 0건…정부는 정작 '뒷짐'",
-          "desc": "고성능 AI 서버 등이 포함됐다. 이들 장비는 일반 산업현장에서 활용되지만 수출 대상과 최종 사용 목적에 따라 군집 드론 제어와 미사일 관련 기술 등 군사 분야에 전용될 가능성이 있는 품목이다. 이처럼 첨단...",
-          "src": "apnews",
+          "title": "아마존, 10년 적자 알렉사 수장 전격 교체... AI 유료화 배수진",
+          "desc": "또한 유사한 대화형 음성 AI 기술을 고도화 중인 네이버(Clova), SK텔레콤(A닷) 등 한국 기업들의 유료화 및 비즈니스 모델(BM) 다각화 전략에 벤치마킹 소재로 활용될 것으로 보인다. 아마존의 신형 태블릿 판매가 안착하면...",
+          "src": "g-enews",
           "date": "10/11",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051946",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051946_85316_428_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610101151381386fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101011592907624fda4f5ab7439122247205.jpg"
         },
         {
-          "title": "[크립토리뷰] 사일런티스트, KBW 2026 사이드 이벤트 '알파 인 서울' 성료...",
-          "desc": "담보로 활용해 고객의 결제 자금 일부를 조달할 것\"이라고 말했다. 이어 아킨옐레 시니어 디렉터는 키노트에서 영지식증명 기반 기밀 전송과 인공지능(AI) 에이전트 전용 인프라 등 XRP 레저에 새로 도입되는 기능을...",
-          "src": "더구루",
+          "title": "정의선의 현대차, 글로벌 빅3 진입과 미래 기술 혁신의 과제",
+          "desc": "이러한 성과는 정의선 회장이 주도한 전기차 전용 플랫폼 E-GMP 도입과 전동화 전략의 성공에 크게 기인한다.... AI 산업이 기술 개발에서 사업화와 수익성 확보로 변화하는 가운데, 피지컬 AI 역시 가시적인 성과로...",
+          "src": "고코리아",
           "date": "10/11",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108076",
-          "img": "https://www.theguru.co.kr/data/photos/20261041/art_17914687676613_c32d51.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=880990",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/880990_158370_2919_v150.jpg"
         },
         {
-          "title": "[짝퉁 OUT] 폰만 대면 \"가품입니다\"…조폐공사 기술로 해외 짝퉁 잡는다",
-          "desc": "제도를 도입했다. 이 제도는 7일 공식적으로 시행됐으며, 국가인증상표에는 조폐공사가 개발한 인공지능(AI) 기반 디지털 워터마크 기술이 적용됐다. 이 기술은 육안으로는 식별이 어렵지만, 스마트폰 카메라로 스캔하면...",
-          "src": "cbci",
+          "title": "차세대 무선 '와이파이 8' 온다… \"속도 경쟁 넘어 연결 품질로\"",
+          "desc": "향후 센싱 및 근접 거리 측정 등 상황 인식 기능과 AI를 결합한 활용도 기대된다. 최종 표준은 2028년 예상, 에이수스의 라우터는 이미 '출시' 단계 와이파이 8 표준은 지난 2021년 5월부터 논의가 시작된 기술이다....",
+          "src": "조선일보",
           "date": "10/11",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614007",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/614007_421688_4534_v150.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171746",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171746_454411_1718_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[폴더블 대전환③·끝] '접는 재미'는 끝났다… 승부는 두께와 화면",
+          "desc": "슬림화 경쟁이 고난도 부품의 수요 확대로 이어지면서 국내 협력사의 실적 성장을 직접 견인한 셈이다. 올해 삼성전자의 폴더블 3종에는 KH바텍과 중국 환리 등이 모델별로 힌지를 분할 공급한다. 벤더 간 납품 경쟁은...",
+          "src": "the-biz",
+          "date": "10/11",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728948",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202610/728948_934917_390.jpg"
+        },
+        {
+          "title": "삼성전자 S27 가격 인상 검토…메모리값 급등에 수익성 압박",
+          "desc": "MX사업부는 최근 협력사에 올해 4분기 부품 납품량을 30% 가까이 줄여달라고 요청한 것으로 알려졌다. 삼성전자는 통상 4분기에 차기 갤럭시S 시리즈 출시를 앞두고 기존 제품 생산량을 조정한다. 다만 올해 감축에는...",
+          "src": "조선일보",
+          "date": "10/11",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171656",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171656_454286_520_v150.jpg"
+        },
         {
           "title": "삼성전자·삼성전기가 베트남을 새 반도체 기지로 낙점한 진짜 배경",
           "desc": "4조 원대 자금 투입과 현지 역할 분담 삼성전자는 박닌과 타이응우옌 등 베트남 주요 거점에서 생산 공장과 연구개발센터를 운영하며 스마트폰 부품을 주로 생산해 왔다. 이번 투자를 통해 삼성전기는 기존 스마트폰...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/10",
           "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666021",
           "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666021_139454_4246_v150.jpg"
-        },
-        {
-          "title": "기후 대응과 지역 균형 한번에…220조 어느 동네 투자되나 봤더니[Pick코...",
-          "desc": "20㎿ 이상의 대형 해상풍력 터빈을 국산화하고 대형 터빈의 연구·생산·정비 기능에 부품 협력사를 연계한... 삼성전자와 LG전자는 히트펌프를 내세웠다. 정부는 2035년까지 히트펌프 350만 대를 보급해 온실가스 518만...",
-          "src": "서울경제",
-          "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/011/0004669836?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/10/news-p.v1.20261010.7645d91495474608942943d88a56a1b6_Z1.jpg"
-        },
-        {
-          "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
-          "desc": "또 다른 관계자 B는 \"삼성전자가 부품협력사에 전달한 4분기 부품 발주량 전망치가 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄었다\"고 밝혔다. 그는 \"유통재고 등이 주 원인\"이라고 덧붙였다. 삼성전자...",
-          "src": "ZDNet코리아",
-          "date": "10/09",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440378?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/06/18/506d619620a51b50535dfd97f6271214.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[더페어 돋보기] \"운임·원자재 이중고 넘는다\"…2027년 가전·화학 업종...",
-      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90174",
-      "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90174_136382_4135_v150.jpg"
+      "title": "[증시전망] 삼성전자 실적도 안 통했다...코스피 반등 열쇠는?",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706224",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/706224_653942_5351.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
+      "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003473752?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.87580122f6a2492b906bb37377194d23_P1.png"
     },
     {
-      "title": "킨텍스, '건설·도시 안전박람회' 14일 동시 개막",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=148413",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202610/148413_165688_4139_v150.jpg"
+      "title": "AI 활용한 보안 혁신, 은행들이 해킹 위협에 맞서는 방법",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=881004",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202610/881004_158384_3256_v150.jpg"
     },
     {
-      "title": "전략물자 1.2조 털려도 블랙리스트 0건…정부는 정작 '뒷짐'",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051946",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051946_85316_428_v150.jpg"
+      "title": "아마존, 10년 적자 알렉사 수장 전격 교체... AI 유료화 배수진",
+      "url": "https://www.g-enews.com/view.php?ud=202610101151381386fda4f5ab74_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101011592907624fda4f5ab7439122247205.jpg"
     }
   ]
 };
