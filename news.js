@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.10 (토) 21:36",
+  "updatedAt": "2026.10.11 (일) 03:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
-          "desc": "TV·생활가전 사업의 수익성 회복과 기업간거래(B2B) 사업 성장, 비용 절감이 실적 개선을 뒷받침했다. 반면 삼성전자는 반도체 등 부품 가격 상승으로 완제품 사업의 수익성이 악화되면서 저수익 사업 정리와 AI 기반...",
-          "src": "ebn",
-          "date": "10/10",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
+          "title": "[더페어 돋보기] \"운임·원자재 이중고 넘는다\"…2027년 가전·화학 업종...",
+          "desc": "2027년까지 컨테이너선 신조선 인도 물량이 늘어나며 장기적인 운임 안정화가 기대되지만 지정학적 리스크 지속에 따른 운임 지수 고점 유지는 LG전자와 삼성전자 가전 부문의 영업이익률 방어에 과제로 작용할 전망이다....",
+          "src": "thefairnews",
+          "date": "10/11",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90174",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90174_136382_4135_v150.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
         },
         {
-          "title": "정청래 미국 비자 지연, 조선일보 \"친북·친중 의심 아닌가\" 한겨레 \"납...",
-          "desc": "삼성전자 실적 환영하면서도 반도체 쏠림 우려 삼성전자는 3분기 매출 195조 원, 영업이익 107조4000억 원의... 이어 \"메모리 가격이 꺾이면 지금의 이익 구조가 흔들릴 수 있다\"며 스마트폰과 가전 사업의 어려움, 사업부 간...",
-          "src": "mediatoday",
+          "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
+          "desc": "TV·생활가전 사업의 수익성 회복과 기업간거래(B2B) 사업 성장, 비용 절감이 실적 개선을 뒷받침했다. 반면 삼성전자는 반도체 등 부품 가격 상승으로 완제품 사업의 수익성이 악화되면서 저수익 사업 정리와 AI 기반...",
+          "src": "ebn",
           "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/006/0000138139?sid=102",
-          "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202610/337637_484349_244_v150.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "전략물자 1조2000억원 불법 수출…제재 명단엔 기업 0곳",
-          "desc": "전략물자는 민간 산업에서 활용되더라도 일정한 사양과 성능을 갖추면 군사기술 개발이나 무기체계 생산에... 다만 일률적인 제재 도입에 앞서 위반의 고의성, 위반 유형별 법적 근거, 수사상 비밀 보호, 행정처분의...",
-          "src": "goodkyung",
-          "date": "10/10",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=292211",
-          "img": "https://cdn.goodkyung.com/news/thumbnail/202610/292211_265825_1430_v150.jpg"
+          "title": "킨텍스, '건설·도시 안전박람회' 14일 동시 개막",
+          "desc": "이민우 킨텍스 대표이사는 \"AI와 데이터를 활용한 사전 위험관리의 중요성을 강조하며, 우수 안전기술이 공공·민간 현장에 도입될 수 있도록 지원하겠다\"라고 말했다. [비즈월드= / ]",
+          "src": "bizwnews",
+          "date": "10/11",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=148413",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202610/148413_165688_4139_v150.jpg"
         },
         {
-          "title": "\"손발이 오그라든다\"…부산영화제 등장한 파격 AI에 '술렁' [김예랑의 K...",
-          "desc": "이후 주요 영화상과 영화제가 AI 활용에 관한 기준을 차례로 마련하면서 논의는 규범의 영역으로 옮겨갔다. 기술의 도입 여부를 묻던 시기는 지나가고, 그 기술을 통해 어떤 영화를 만들 것인가를 묻는 시기가 시작된...",
-          "src": "한국경제",
-          "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/015/0005341046?sid=103",
-          "img": "https://img.hankyung.com/photo/202610/02.46004760.1.jpg"
+          "title": "전략물자 1.2조 털려도 블랙리스트 0건…정부는 정작 '뒷짐'",
+          "desc": "고성능 AI 서버 등이 포함됐다. 이들 장비는 일반 산업현장에서 활용되지만 수출 대상과 최종 사용 목적에 따라 군집 드론 제어와 미사일 관련 기술 등 군사 분야에 전용될 가능성이 있는 품목이다. 이처럼 첨단...",
+          "src": "apnews",
+          "date": "10/11",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3051946",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051946_85316_428_v150.jpg"
         },
         {
-          "title": "NH농협캐피탈, AI 전환 중장기 전략 수립…자동차담보대출 신용평가 고...",
-          "desc": "NH농협캐피탈이 인공지능(AI)을 활용한 업무 혁신과 금융서비스 고도화를 추진한다. 10일 웹이코노미 취재... 기술 검증을 거친 과제를 실제 서비스로 전환하는 실용적 AI 도입에 중점을 뒀다. 자동차담보대출 전용...",
-          "src": "webeconomy",
-          "date": "10/10",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2329817",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2329817_1139481_4942.png"
+          "title": "[크립토리뷰] 사일런티스트, KBW 2026 사이드 이벤트 '알파 인 서울' 성료...",
+          "desc": "담보로 활용해 고객의 결제 자금 일부를 조달할 것\"이라고 말했다. 이어 아킨옐레 시니어 디렉터는 키노트에서 영지식증명 기반 기밀 전송과 인공지능(AI) 에이전트 전용 인프라 등 XRP 레저에 새로 도입되는 기능을...",
+          "src": "더구루",
+          "date": "10/11",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108076",
+          "img": "https://www.theguru.co.kr/data/photos/20261041/art_17914687676613_c32d51.jpg"
         },
         {
-          "title": "작업자 갑자기 쓰러지자 '자동 경고'…AI로 '안전' 지킨다",
-          "desc": "AI 기술이 메우고 있습니다. 공사장의 돌발 상황, 시설물의 안전 관리에 AI가 어떻게 활용되고 있는지, 박재현 기자가 취재했습니다. <기자> 대규모 빌딩 건설 현장. 곳곳에 이동식 CCTV가 설치돼 있습니다. 새로 도입된...",
-          "src": "news",
-          "date": "10/10",
-          "url": "https://n.news.naver.com/mnews/article/055/0001394458?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20261010/202230213_1280.jpg"
+          "title": "[짝퉁 OUT] 폰만 대면 \"가품입니다\"…조폐공사 기술로 해외 짝퉁 잡는다",
+          "desc": "제도를 도입했다. 이 제도는 7일 공식적으로 시행됐으며, 국가인증상표에는 조폐공사가 개발한 인공지능(AI) 기반 디지털 워터마크 기술이 적용됐다. 이 기술은 육안으로는 식별이 어렵지만, 스마트폰 카메라로 스캔하면...",
+          "src": "cbci",
+          "date": "10/11",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614007",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/614007_421688_4534_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성전자·삼성전기가 베트남을 새 반도체 기지로 낙점한 진짜 배경",
+          "desc": "4조 원대 자금 투입과 현지 역할 분담 삼성전자는 박닌과 타이응우옌 등 베트남 주요 거점에서 생산 공장과 연구개발센터를 운영하며 스마트폰 부품을 주로 생산해 왔다. 이번 투자를 통해 삼성전기는 기존 스마트폰...",
+          "src": "g-enews",
+          "date": "10/11",
+          "url": "https://www.g-enews.com/view.php?ud=20261010190357345fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101019060803792fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "[창립 43주년] SK하이닉스, 나스닥 입성에 최대 실적까지",
           "desc": "2025년 창립 42주년 당일 장중 시가총액 300조원을 처음 넘어선 데 이어, 올해 6월 22일에는 장중 삼성전자를... SK하이닉스가 7월 내놓은 협력사 지원 계획은 반도체 소재·부품·장비 업체를 대상으로 한다. 향후 5년에...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "10/10",
           "url": "https://n.news.naver.com/mnews/article/011/0004669836?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/10/news-p.v1.20261010.7645d91495474608942943d88a56a1b6_Z1.jpg"
         },
         {
           "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/09",
           "url": "https://n.news.naver.com/mnews/article/092/0002440378?sid=105",
           "img": "https://image.zdnet.co.kr/2026/06/18/506d619620a51b50535dfd97f6271214.png"
-        },
-        {
-          "title": "LG 넘어 삼성·현대차까지··· LX세미콘, 반도체 공급망 틀 깬다",
-          "desc": "제어하는 부품이다. 현대차·기아는 올 하반기 생산 차량부터 적용을 시작했다. 공급 차종은 점차... 기존 주요 파운드리 협력사로는 TSMC와 SK하이닉스시스템아이씨가 꼽힌다. 삼성전자 파운드리와는 차세대 DDI...",
-          "src": "greenpostkorea",
-          "date": "10/09",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307637",
-          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202610/307637_311395_5246.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
+      "title": "[더페어 돋보기] \"운임·원자재 이중고 넘는다\"…2027년 가전·화학 업종...",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90174",
+      "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90174_136382_4135_v150.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
     },
     {
-      "title": "정청래 미국 비자 지연, 조선일보 \"친북·친중 의심 아닌가\" 한겨레 \"납...",
-      "url": "https://n.news.naver.com/mnews/article/006/0000138139?sid=102",
-      "img": "https://cdn.mediatoday.co.kr/news/thumbnail/202610/337637_484349_244_v150.jpg"
+      "title": "[EBN 오늘(10일) 이슈 종합] 서울 아파트값 87주째 상승, 은행 예금금리...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727303",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727303_761445_510_v150.jpg"
     },
     {
-      "title": "전략물자 1조2000억원 불법 수출…제재 명단엔 기업 0곳",
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=292211",
-      "img": "https://cdn.goodkyung.com/news/thumbnail/202610/292211_265825_1430_v150.jpg"
+      "title": "킨텍스, '건설·도시 안전박람회' 14일 동시 개막",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=148413",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202610/148413_165688_4139_v150.jpg"
     },
     {
-      "title": "\"손발이 오그라든다\"…부산영화제 등장한 파격 AI에 '술렁' [김예랑의 K...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341046?sid=103",
-      "img": "https://img.hankyung.com/photo/202610/02.46004760.1.jpg"
+      "title": "전략물자 1.2조 털려도 블랙리스트 0건…정부는 정작 '뒷짐'",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3051946",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3051946_85316_428_v150.jpg"
     }
   ]
 };
