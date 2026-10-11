@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.11 (일) 21:55",
+  "updatedAt": "2026.10.12 (월) 03:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
-          "desc": "참여하려면 한전 에너지마켓플레이스에서 에너지캐시백에 가입하고 스마트가전 캐시백을 신청한 뒤, 제조사 앱에서 대상 기기를 연결해야 한다. 삼성전자는 SmartThings 앱의 ‘라이프’ 탭에서 ‘에너지’ 서비스를...",
-          "src": "vegannews",
-          "date": "10/11",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
-          "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+          "title": "폰으로 몸 관리, 톡으로 관계 관리… 한국인 건강 도우미 된 테크 기업",
+          "desc": "조사에서 삼성전자가 10점 만점에 6.02점으로 종합 1위를 했다. 이어 카카오(5.91점), LG전자(5.85점), 아성다이소... LG전자도 이번 조사에서는 3위로 뛰어올랐다. LG전자는 공기청정기·정수기 등 건강과 직결된 생활 가전이...",
+          "src": "조선일보",
+          "date": "10/12",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003258?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/MM4TQNJUGZSDOYZQG44TIYZQGA.jpg?auth=0e830b0bc543307a0f2f35bb3f69a65d276db163bdfff4b217b33b5a7e75ff1f&width=1200&height=630&smart=true"
         },
         {
           "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
         },
         {
-          "title": "美 진출 10년 'LG 시그니처'…디자인·AI로 '전통 강자'에 도전",
-          "desc": "미국 고급 주방가전 시장에는 냉장고의 '서브제로(Sub-Zero)', 조리기기의 '울프(Wolf)', 식기세척기의 '코브(Cove)'를 비롯해 BSH그룹의 가게나우·서마도어, 독일 밀레 등이 포진해 있다. 삼성전자도 2016년 인수한 미국...",
-          "src": "kpinews",
-          "date": "10/11",
-          "url": "https://www.kpinews.kr/newsView/1065614480668255",
-          "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065614480668255_384_thum.png"
+          "title": "30대가 꼽은 건강 기업 1위 “다이소”… 6070은 “국민연금공단”",
+          "desc": "종합 점수 상위권인 삼성전자, 카카오를 택한 남성 응답자와는 다른 선택이었다. 통상 식재료나 생필품, 위생용품 등 가족 건강 관리와 직결된 제품을 여성이 구매하는 경우가 많고, 건조기·청소기 등 가전제품을 주로...",
+          "src": "조선일보",
+          "date": "10/12",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003250?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/MZTDGM3FMRQTCZRQGI2DCZRWGY.jpg?auth=a969951fa70f757bed3e60960b716eb4f5f3dcb27060e801ca32a7c82e1204bd&width=1200&height=630&smart=true"
         },
         {
-          "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
-          "desc": "한국 시장 진입 2년 만인 지난 2022년 출하량 기준 로봇청소기 시장점유율 1위를 차지했다. 지난해까지 4년... 지난 6~7월 삼성전자(005930)가 대규모 프로모션을 통해 월간 시장점유율이 일시적으로 1위를 차지하며 화제가 된...",
-          "src": "이데일리",
+          "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
+          "desc": "품목은 세탁기, 건조기, 식기세척기, 의류관리기다. 모든 제품이 해당하는 것은 아니며, 제조사 앱에 등록돼 사용량 측정이 가능한 지원 모델이어야 한다. 삼성전자 안내는 SmartThings에 등록된 측정 가능 기기를...",
+          "src": "vegannews",
           "date": "10/11",
-          "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100805.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
+          "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[PAC 2026] 주충호 수석연구원 “단순 아이디어 넘어 즉시 도입 수준… ...",
-          "desc": "주 수석연구원은 \"앞으로 열릴 해커톤 대회에서도 AI 활용이 필수불가결하다는 생각이 들었다. 최신 기술 트렌드를 참가자들이 유연하게 녹여내어 결과물이 더욱 풍성해졌다\"고 강조했다.향후 대회의 발전 방향에...",
-          "src": "yeongnam",
-          "date": "10/11",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261011022423573",
-          "img": "https://www.yeongnam.com/mnt/file/202610/ams.001.photo.202610102247482544002894_R.jpg"
+          "title": "테슬라 PER 343배…로보택시 사업성 입증 시험대",
+          "desc": "지표로 활용된다. 반면 테슬라는 미래 자율주행 서비스와 로봇 사업에서 창출할 수 있는 수익에 대한... 바차트는 테슬라가 기존 자동차 사업의 수익성을 유지하면서 동시에 AI와 자율주행 기술에 막대한 자금을...",
+          "src": "g-enews",
+          "date": "10/12",
+          "url": "https://www.g-enews.com/view.php?ud=2026101121241468899a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261011212443085479a1f30943117511616074.jpg"
         },
         {
-          "title": "240억원 투입 지역 주도형 AI 대전환사업 '박차'",
-          "desc": "'지역 주도형 AI 대전환 사업'은 광역지자체가 지역 특성에 맞춰 기획한 인공지능 활용·확산 사업이다.... 또 제조 AI 컴퓨팅센터를 구축해 최신 GPU 클러스터를 도입하고 기술실증 15개사, AI 플랫폼 서비스 등을 지원해...",
-          "src": "ulsanpress",
-          "date": "10/11",
-          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584461",
-          "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584461_281443_4030_v150.jpg"
+          "title": "로봇·AI로… 현대차 진화, 경계를 넘다",
+          "desc": "현대차그룹은 전기차 전용 플랫폼 E-GMP 도입을 필두로 △전용전기차 라인업 확대 △하이브리드... 구축하고 데이터 기반 의사결정과 AI 활용이 일상화한 조직문화를 조성하며 미래기술기업으로의 전환기반을 다진다.",
+          "src": "머니투데이",
+          "date": "10/12",
+          "url": "https://n.news.naver.com/mnews/article/008/0005424564?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101119372011709_1.jpg"
         },
         {
-          "title": "[대구논단] 그 많던 4차 산업혁명과 메타버스 이야기는 어디로 갔나?",
-          "desc": "솔루션 도입에만 매달린다면, AI 시대 역시 또 다른 형태의 값비싼 시행착오로 끝날 수 있다. 새로운 개념과... 유용하게 활용하는 실사구시(實事求是)의 지혜다. 기술의 이름에 현혹되지 않고 기술이 바꿀 본질적...",
-          "src": "idaegu",
-          "date": "10/11",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561911",
-          "img": "https://cdn.idaegu.co.kr/news/photo/202610/2026101201000258400014141.jpg"
+          "title": "계룡시 미래 행정, 젊은 공직자에게 길을 묻다…AI·도시재생에서 혁신...",
+          "desc": "우수사례를 그대로 도입하기보다 계룡시 실정에 맞게 재구성하는 과정이 중요한 이유다. ■ 2023년 출범... 특히 AI 기술을 활용한 행정서비스 개선과 공공공간의 효율적 활용은 시민 편의와 직결될 수 있는 분야인 만큼...",
+          "src": "tournews21",
+          "date": "10/12",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=145418",
+          "img": "https://cdn.tournews21.com/news/photo/202610/145418_271498_4124.jpg"
         },
         {
-          "title": "240억 규모 '지역 주도형 AI 대전환' 가속화",
-          "desc": "최신 그래픽처리장치(GPU) 협력지구 도입, 기술 실증 지원 15개사, AI활용 기반 서비스를 운영해 중소기업 공유형 핵심 기반으로 조성하고 있다. 현장 밀착형 맞춤 지원도 강화한다. 기업진단 및 상담 150개사...",
-          "src": "ujeil",
-          "date": "10/11",
-          "url": "http://www.ujeil.com/news/articleView.html?idxno=393301",
-          "img": "http://www.ujeil.com/image/logo/snslogo_20180604105612.jpg"
+          "title": "대전시의회, AI로 의정활동 혁신 시동…'스마트 의회' 시대 연다",
+          "desc": "단순히 새로운 기술을 도입하는 데 그치지 않고, AI를 활용해 정책 검토의 속도와 깊이를 높이고 시민이 체감할 수 있는 정책성과로 연결하는 것이 핵심이다. 대전광역시의회 의원연구단체인 'AI 042 LAB 연구회'는 지난 8일...",
+          "src": "tournews21",
+          "date": "10/12",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=145417",
+          "img": "https://cdn.tournews21.com/news/photo/202610/145417_271497_400.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
-      "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+      "title": "폰으로 몸 관리, 톡으로 관계 관리… 한국인 건강 도우미 된 테크 기업",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003258?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/MM4TQNJUGZSDOYZQG44TIYZQGA.jpg?auth=0e830b0bc543307a0f2f35bb3f69a65d276db163bdfff4b217b33b5a7e75ff1f&width=1200&height=630&smart=true"
     },
     {
       "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
     },
     {
-      "title": "美 진출 10년 'LG 시그니처'…디자인·AI로 '전통 강자'에 도전",
-      "url": "https://www.kpinews.kr/newsView/1065614480668255",
-      "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065614480668255_384_thum.png"
+      "title": "30대가 꼽은 건강 기업 1위 “다이소”… 6070은 “국민연금공단”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003250?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/MZTDGM3FMRQTCZRQGI2DCZRWGY.jpg?auth=a969951fa70f757bed3e60960b716eb4f5f3dcb27060e801ca32a7c82e1204bd&width=1200&height=630&smart=true"
     },
     {
-      "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100805.jpg"
+      "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
+      "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
     },
     {
-      "title": "[PAC 2026] 주충호 수석연구원 “단순 아이디어 넘어 즉시 도입 수준… ...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261011022423573",
-      "img": "https://www.yeongnam.com/mnt/file/202610/ams.001.photo.202610102247482544002894_R.jpg"
+      "title": "테슬라 PER 343배…로보택시 사업성 입증 시험대",
+      "url": "https://www.g-enews.com/view.php?ud=2026101121241468899a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261011212443085479a1f30943117511616074.jpg"
     },
     {
-      "title": "240억원 투입 지역 주도형 AI 대전환사업 '박차'",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584461",
-      "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584461_281443_4030_v150.jpg"
+      "title": "로봇·AI로… 현대차 진화, 경계를 넘다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424564?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101119372011709_1.jpg"
     }
   ]
 };
