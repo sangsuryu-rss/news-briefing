@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.12 (월) 03:57",
+  "updatedAt": "2026.10.12 (월) 08:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "폰으로 몸 관리, 톡으로 관계 관리… 한국인 건강 도우미 된 테크 기업",
-          "desc": "조사에서 삼성전자가 10점 만점에 6.02점으로 종합 1위를 했다. 이어 카카오(5.91점), LG전자(5.85점), 아성다이소... LG전자도 이번 조사에서는 3위로 뛰어올랐다. LG전자는 공기청정기·정수기 등 건강과 직결된 생활 가전이...",
+          "title": "삼성전자 냉장고, 美 포브스 '스마트홈 혁신 제품' 선정",
+          "desc": "삼성전자는 오늘(12일) 두 제품이 포브스의 제품평가 전문 플랫폼 '포브스 베티드(Forbes Vetted)'가 주관한 '2026 스마트홈 어워드'에서 수상했다고 밝혔습니다. 올해 처음 신설된 스마트홈 어워드는 주방·가전, 청소...",
+          "src": "biz",
+          "date": "10/12",
+          "url": "https://n.news.naver.com/mnews/article/374/0000537193?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/10/12/Zct1791761857869-850.jpg"
+        },
+        {
+          "title": "[더벨][신일전자 톺아보기] 종합가전 향한 문어발 확장, 성장동력 확보...",
+          "desc": "출처:신일전자 다만 로봇청소기 시장은 중국 업체들의 강세로 경쟁이 치열하다. 삼성전자와 LG전자도 고전하는 상황에서 신일전자가 입지를 넓히기는 쉽지 않다. 공기청정기 시장 역시 대형 가전업체의 입지가 탄탄해...",
+          "src": "더벨",
+          "date": "10/12",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610071620058800109554",
+          "img": ""
+        },
+        {
+          "title": "LG 시그니처 美 진출 10년…주방가전 늘려 10개 라인업·일반 매장 진출",
+          "desc": "LG전자는 이번 확장을 통해 기존 냉장고, 세탁기, 건조기, 올레드 TV 등에 더해 오븐레인지, 월오븐, 후드... 앞세운 삼성전자가 치열한 바닥 면적(Floor space) 경쟁을 펼치는 격전지\"라며 \"LG전자가 가전 풀라인업과 AI...",
+          "src": "the-today",
+          "date": "10/12",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91529",
+          "img": "https://cdn.the-today.com/news/photo/202610/91529_112996_3821.png"
+        },
+        {
+          "title": "초고령사회, 로봇이 가족이 될 수 있을까 ②",
+          "desc": "LG전자 클로이드 | 집안일을 하는 로봇 삼성의 출발점이 제조 현장이라면 LG전자의 출발점은 '집'이다. 냉장고와 세탁기, 에어컨 등 생활가전을 만들어온 경험에 AI와 로봇 기술을 결합해, 가전을 스스로 제어하는 것을 넘어...",
           "src": "조선일보",
           "date": "10/12",
-          "url": "https://n.news.naver.com/mnews/article/023/0004003258?sid=102",
-          "img": "https://www.chosun.com/resizer/v2/MM4TQNJUGZSDOYZQG44TIYZQGA.jpg?auth=0e830b0bc543307a0f2f35bb3f69a65d276db163bdfff4b217b33b5a7e75ff1f&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
-          "desc": "[삼성전자 제공] 삼성전자가 로봇청소기가 만든 집 안 지도에 실제 사진을 결합하고, 이미지가 없는 영역은 생성형 인공지능(AI)으로 채우는 기술을 개발했다. 단순한 평면도 형태의 지도를 가구와 가전의 모습까지 담은...",
-          "src": "kpinews",
-          "date": "10/11",
-          "url": "https://www.kpinews.kr/newsView/1065596238741499",
-          "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
-        },
-        {
-          "title": "30대가 꼽은 건강 기업 1위 “다이소”… 6070은 “국민연금공단”",
-          "desc": "종합 점수 상위권인 삼성전자, 카카오를 택한 남성 응답자와는 다른 선택이었다. 통상 식재료나 생필품, 위생용품 등 가족 건강 관리와 직결된 제품을 여성이 구매하는 경우가 많고, 건조기·청소기 등 가전제품을 주로...",
-          "src": "조선일보",
-          "date": "10/12",
-          "url": "https://n.news.naver.com/mnews/article/023/0004003250?sid=102",
-          "img": "https://www.chosun.com/resizer/v2/MZTDGM3FMRQTCZRQGI2DCZRWGY.jpg?auth=a969951fa70f757bed3e60960b716eb4f5f3dcb27060e801ca32a7c82e1204bd&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
-          "desc": "품목은 세탁기, 건조기, 식기세척기, 의류관리기다. 모든 제품이 해당하는 것은 아니며, 제조사 앱에 등록돼 사용량 측정이 가능한 지원 모델이어야 한다. 삼성전자 안내는 SmartThings에 등록된 측정 가능 기기를...",
-          "src": "vegannews",
-          "date": "10/11",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
-          "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+          "url": "http://woman.chosun.com/news/articleView.html?idxno=126674",
+          "img": "https://cdn.woman.chosun.com/news/thumbnail/202610/126674_156324_162_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "테슬라 PER 343배…로보택시 사업성 입증 시험대",
-          "desc": "지표로 활용된다. 반면 테슬라는 미래 자율주행 서비스와 로봇 사업에서 창출할 수 있는 수익에 대한... 바차트는 테슬라가 기존 자동차 사업의 수익성을 유지하면서 동시에 AI와 자율주행 기술에 막대한 자금을...",
-          "src": "g-enews",
+          "title": "일레븐랩스, 기업가치 220억 달러 달성 ··· 대화형 에이전트 성장 견...",
+          "desc": "지난 2월 이후 일레븐에이전트를 활용해 멀티채널 고객지원을 도입한 기업 수는 두 배로 증가했다. 일레븐랩스는 연구와 제품, 배포를 하나의 기술 스택으로 운영하는 전략을 추진하고 있다. 연구...",
+          "src": "datanet",
           "date": "10/12",
-          "url": "https://www.g-enews.com/view.php?ud=2026101121241468899a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261011212443085479a1f30943117511616074.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214995",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/214995_139304_3128_v150.jpg"
         },
         {
-          "title": "로봇·AI로… 현대차 진화, 경계를 넘다",
-          "desc": "현대차그룹은 전기차 전용 플랫폼 E-GMP 도입을 필두로 △전용전기차 라인업 확대 △하이브리드... 구축하고 데이터 기반 의사결정과 AI 활용이 일상화한 조직문화를 조성하며 미래기술기업으로의 전환기반을 다진다.",
-          "src": "머니투데이",
+          "title": "화성시, AI로 고액 체납자 추적 징수",
+          "desc": "인공지능(AI)를 활용한 가택과 사업장 수색을 추진한다고 12일 밝혔다. 시는 지난해 지방세를 500만 원 이상... 이번 현장 징수에는 AI 기술이 도입된다. 체납자의 거주지 정보를 바탕으로 방문 동선을 자동 편성하고, 방문...",
+          "src": "서울경제",
           "date": "10/12",
-          "url": "https://n.news.naver.com/mnews/article/008/0005424564?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101119372011709_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004670140?sid=102",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/12/news-p.v1.20261012.af43cbe79c104415b2595148b829b922_Z1.jpg"
         },
         {
-          "title": "계룡시 미래 행정, 젊은 공직자에게 길을 묻다…AI·도시재생에서 혁신...",
-          "desc": "우수사례를 그대로 도입하기보다 계룡시 실정에 맞게 재구성하는 과정이 중요한 이유다. ■ 2023년 출범... 특히 AI 기술을 활용한 행정서비스 개선과 공공공간의 효율적 활용은 시민 편의와 직결될 수 있는 분야인 만큼...",
-          "src": "tournews21",
+          "title": "삼성물산, 반포푸르지오에 '넥스트 리모델링' 제안",
+          "desc": "Shield)'를 도입해 디자인과 에너지 성능을 함께 고려했다. 리모델링은 기존 구조물을 활용해 사업기간을 줄일... 박인숙 삼성물산 리모델링팀장은 \"넥스트 리모델링은 삼성물산이 가진 기술과 디자인 역량으로 구축...",
+          "src": "핀포인트뉴스",
           "date": "10/12",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=145418",
-          "img": "https://cdn.tournews21.com/news/photo/202610/145418_271498_4124.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494277",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/494277_479901_359_v150.jpg"
         },
         {
-          "title": "대전시의회, AI로 의정활동 혁신 시동…'스마트 의회' 시대 연다",
-          "desc": "단순히 새로운 기술을 도입하는 데 그치지 않고, AI를 활용해 정책 검토의 속도와 깊이를 높이고 시민이 체감할 수 있는 정책성과로 연결하는 것이 핵심이다. 대전광역시의회 의원연구단체인 'AI 042 LAB 연구회'는 지난 8일...",
-          "src": "tournews21",
+          "title": "6년 항해한 정의선號…이룬 성과와 다음 과제는",
+          "desc": "연구개발 단계의 로봇을 실제 생산 현장에 투입하기에 앞서 활용 가능성을 확인하는 역할을 맡는다. 글로벌 기술기업과의 협력도 확대하고 있다. 현대차그룹은 엔비디아와 자율주행 및 피지컬 AI 인프라 강화를...",
+          "src": "economist",
           "date": "10/12",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=145417",
-          "img": "https://cdn.tournews21.com/news/photo/202610/145417_271497_400.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000104089?sid=103",
+          "img": "https://economist.co.kr/data/ecn/image/2026/08/02/ecn20260802000003.800x.0.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "폰으로 몸 관리, 톡으로 관계 관리… 한국인 건강 도우미 된 테크 기업",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003258?sid=102",
-      "img": "https://www.chosun.com/resizer/v2/MM4TQNJUGZSDOYZQG44TIYZQGA.jpg?auth=0e830b0bc543307a0f2f35bb3f69a65d276db163bdfff4b217b33b5a7e75ff1f&width=1200&height=630&smart=true"
+      "title": "삼성전자 냉장고, 美 포브스 '스마트홈 혁신 제품' 선정",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537193?sid=101",
+      "img": "https://img.biz.sbs.co.kr/upload/2026/10/12/Zct1791761857869-850.jpg"
     },
     {
-      "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
-      "url": "https://www.kpinews.kr/newsView/1065596238741499",
-      "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
+      "title": "LG 시그니처 美 진출 10년…주방가전 늘려 10개 라인업·일반 매장 진출",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=91529",
+      "img": "https://cdn.the-today.com/news/photo/202610/91529_112996_3821.png"
     },
     {
-      "title": "30대가 꼽은 건강 기업 1위 “다이소”… 6070은 “국민연금공단”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003250?sid=102",
-      "img": "https://www.chosun.com/resizer/v2/MZTDGM3FMRQTCZRQGI2DCZRWGY.jpg?auth=a969951fa70f757bed3e60960b716eb4f5f3dcb27060e801ca32a7c82e1204bd&width=1200&height=630&smart=true"
+      "title": "초고령사회, 로봇이 가족이 될 수 있을까 ②",
+      "url": "http://woman.chosun.com/news/articleView.html?idxno=126674",
+      "img": "https://cdn.woman.chosun.com/news/thumbnail/202610/126674_156324_162_v150.jpg"
     },
     {
-      "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
-      "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+      "title": "일레븐랩스, 기업가치 220억 달러 달성 ··· 대화형 에이전트 성장 견...",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214995",
+      "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/214995_139304_3128_v150.jpg"
     },
     {
-      "title": "테슬라 PER 343배…로보택시 사업성 입증 시험대",
-      "url": "https://www.g-enews.com/view.php?ud=2026101121241468899a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261011212443085479a1f30943117511616074.jpg"
+      "title": "화성시, AI로 고액 체납자 추적 징수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670140?sid=102",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/12/news-p.v1.20261012.af43cbe79c104415b2595148b829b922_Z1.jpg"
     },
     {
-      "title": "로봇·AI로… 현대차 진화, 경계를 넘다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424564?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101119372011709_1.jpg"
+      "title": "삼성물산, 반포푸르지오에 '넥스트 리모델링' 제안",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494277",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/494277_479901_359_v150.jpg"
     }
   ]
 };
