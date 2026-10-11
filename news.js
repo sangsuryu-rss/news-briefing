@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.11 (일) 08:35",
+  "updatedAt": "2026.10.11 (일) 14:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[증시전망] 삼성전자 실적도 안 통했다...코스피 반등 열쇠는?",
-          "desc": "미디어, 화장품·의류, IT가전 등이 상대적으로 강했지만 반도체와 자동차 등 기존 대형 주도주는 약세를 보였다. 특히 삼성전자가 3분기 107조원 규모의 영업이익을 발표하며 시장 예상치를 웃돌았지만 주가는 오히려...",
-          "src": "digitaltoday",
+          "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
+          "desc": "삼성전자는 반도체 슈퍼사이클로 늘어난 이익을 나누기 위해 가전제품 구매 시 구매액의 20%를 온누리상품권으로 돌려주는 파격적인 행사를 앞서 전개한 바 있다. 김 대표는 “경쟁사의 신제품 출시나 대규모 프로모션이...",
+          "src": "이데일리",
           "date": "10/11",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706224",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/706224_653942_5351.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100281.jpg"
+        },
+        {
+          "title": "LG 시그니처 美 진출 10년…제품군 넓히고 유통망 확대",
+          "desc": "LG전자에 따르면 시그니처 세탁기와 건조기 세트는 최근 미국 소비자매체 컨슈머리포트의 '2026년 최고의... 삼성전자도 올해 북미 주방욕실 전시회 'KBIS 2026'에서 비스포크 AI와 고급 빌트인 브랜드 데이코를 선보였다....",
+          "src": "4th",
+          "date": "10/11",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2119508",
+          "img": "https://cdn.4th.kr/news/thumbnail/202610/2119508_219942_4739_v150.jpg"
+        },
+        {
+          "title": "뉴욕 셀럽들 홀린 ‘시그니처’...드류 배리모어 “LG 워시타워 사랑해...",
+          "desc": "그 뒤를 한 자릿수 점유율인 LG전자와 일렉트로룩스, 보쉬, 삼성전자 등이 3위 자리를 놓고 치열하게... 이날 행사에서는 유명 가수 존 메이어가 LG 세탁기의 작동 종료음에서 영감을 얻은 ‘세탁기 송’ 등 여러 곡을...",
+          "src": "서울경제",
+          "date": "10/11",
+          "url": "https://n.news.naver.com/mnews/article/011/0004669945?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/11/news-p.v1.20261011.9c6f7ee8b9c24a2a8ad0f2c99c83d617_Z1.jpg"
         },
         {
           "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/09",
           "url": "https://www.smartbizn.com/news/articleView.html?idxno=156016",
           "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
-        },
-        {
-          "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
-          "desc": "올인원 세탁건조기 '비스포크 AI 콤보'의 누적 판매량이 30만대를 넘어서는 등 AI를 접목한 프리미엄 제품을 중심으로 외형 확대에 나서고 있다. ◆갤럭시 S27·AI 글라스·로봇…DX, '반전 카드' 총동원 삼성전자는...",
-          "src": "ebn",
-          "date": "10/08",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727126",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
-        },
-        {
-          "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
-          "desc": "경기 둔화 영향으로 TV·냉장고·세탁기 등 가전 판매량이 감소하고, 중국 기업은 저가 공세를 펼치면서... 삼성전자가 스마트홈 플랫폼 '스마트싱스'에 구글 AI '제미나이'를 연동하고, LG전자는 '씽큐'에 오픈AI '챗GPT'를...",
-          "src": "전자신문",
-          "date": "10/11",
-          "url": "https://n.news.naver.com/mnews/article/030/0003473752?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.87580122f6a2492b906bb37377194d23_P1.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI 활용한 보안 혁신, 은행들이 해킹 위협에 맞서는 방법",
-          "desc": "주요 은행들은 정보보호 예산을 대폭 확대하고 AI 기술을 활용한 보안 솔루션을 강화하고 있다. 예를 들어, 한... 한 은행은 보안업체의 AI 솔루션을 도입하여 웹 서비스의 취약점을 찾아내는 체계를 운영 중이다. 또 다른...",
-          "src": "고코리아",
+          "title": "금융권 해킹에 보안 투자 늘리는 은행들",
+          "desc": "KB국민은행은 올해 약 51억원 규모의 AI 위협 대응 사업을 추진하고 있으며, 관련 솔루션 연구와 도입 검토도... 도구를 활용해 웹 서비스의 취약점을 확인하고 있다. KB국민은행은 복수의 보안업체와 AI 방어 기술의...",
+          "src": "newscj",
           "date": "10/11",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=881004",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/881004_158384_3256_v150.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3439327",
+          "img": "https://cdn.newscj.com/news/thumbnail/202610/3439327_3559856_4013_v150.jpg"
         },
         {
-          "title": "아마존, 10년 적자 알렉사 수장 전격 교체... AI 유료화 배수진",
-          "desc": "또한 유사한 대화형 음성 AI 기술을 고도화 중인 네이버(Clova), SK텔레콤(A닷) 등 한국 기업들의 유료화 및 비즈니스 모델(BM) 다각화 전략에 벤치마킹 소재로 활용될 것으로 보인다. 아마존의 신형 태블릿 판매가 안착하면...",
-          "src": "g-enews",
+          "title": "충남 아산폴리텍, '기계설비보전 실무' 재직자 향상교육 성료",
+          "desc": "이유영 산학협력처장(시각디자인과 교수)은 \"현장에서 즉시 활용 가능한 실무 중심 교육을 통해 재직자들의 직무역량 향상과 기업의 생산성 향상에 도움이 되길 바란다\"며 \"설비보전 분야에도 AI 기술 도입이 확산되고...",
+          "src": "ccdn",
           "date": "10/11",
-          "url": "https://www.g-enews.com/view.php?ud=202610101151381386fda4f5ab74_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101011592907624fda4f5ab7439122247205.jpg"
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103877",
+          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202610/1103877_615692_3505_v150.jpg"
         },
         {
-          "title": "정의선의 현대차, 글로벌 빅3 진입과 미래 기술 혁신의 과제",
-          "desc": "이러한 성과는 정의선 회장이 주도한 전기차 전용 플랫폼 E-GMP 도입과 전동화 전략의 성공에 크게 기인한다.... AI 산업이 기술 개발에서 사업화와 수익성 확보로 변화하는 가운데, 피지컬 AI 역시 가시적인 성과로...",
-          "src": "고코리아",
+          "title": "AI 도입, 일자리 감소 아닌 창출한다",
+          "desc": "기업 현장에서는 AI 도입이 아직 초기 확산 단계에 머물러 있는 것으로 조사됐다. 기업들은 AI를 노동자를 직접 대체하기보다는 기존 업무를 지원하고 수행 방식을 바꿔 생산성을 높이는 도구로 활용하는 경향이 강했다....",
+          "src": "브릿지경제",
           "date": "10/11",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=880990",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/880990_158370_2919_v150.jpg"
+          "url": "https://www.viva100.com/article/20260914501027",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/14/.cache/512/20260914501026.png?v=20261011145152"
         },
         {
-          "title": "차세대 무선 '와이파이 8' 온다… \"속도 경쟁 넘어 연결 품질로\"",
-          "desc": "향후 센싱 및 근접 거리 측정 등 상황 인식 기능과 AI를 결합한 활용도 기대된다. 최종 표준은 2028년 예상, 에이수스의 라우터는 이미 '출시' 단계 와이파이 8 표준은 지난 2021년 5월부터 논의가 시작된 기술이다....",
-          "src": "조선일보",
+          "title": "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란",
+          "desc": "규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧... 줄리아 파울스 UCLA 법학전문대학원 교수는 블룸버그에 \"디지털 인프라에 대한 깊은 의존성을 만들어낸 기술기업들...",
+          "src": "ZDNet코리아",
           "date": "10/11",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171746",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171746_454411_1718_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002440468?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/11/de66f0eae7aac4c27001136bb0a24eaa.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성은 수익성, 애플은 수요에 발목…스마트폰 양강의 '이중고'",
+          "desc": "삼성전자는 부품 원가 상승으로 적자 확대가 우려되고, 애플은 아이폰18 프로 시리즈의 수요 둔화 가능성이... 지난 9일(현지시간) 닛케이아시아는 애플이 일부 협력사에 아이폰18 프로와 프로맥스용 부품 생산을...",
+          "src": "서울신문",
+          "date": "10/11",
+          "url": "http://www.metroseoul.co.kr/article/20261011500179",
+          "img": ""
+        },
         {
           "title": "[폴더블 대전환③·끝] '접는 재미'는 끝났다… 승부는 두께와 화면",
           "desc": "슬림화 경쟁이 고난도 부품의 수요 확대로 이어지면서 국내 협력사의 실적 성장을 직접 견인한 셈이다. 올해 삼성전자의 폴더블 3종에는 KH바텍과 중국 환리 등이 모델별로 힌지를 분할 공급한다. 벤더 간 납품 경쟁은...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/11",
           "url": "https://www.g-enews.com/view.php?ud=20261010190357345fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101019060803792fbbec65dfb211211153121.jpg"
-        },
-        {
-          "title": "[창립 43주년] SK하이닉스, 나스닥 입성에 최대 실적까지",
-          "desc": "2025년 창립 42주년 당일 장중 시가총액 300조원을 처음 넘어선 데 이어, 올해 6월 22일에는 장중 삼성전자를... SK하이닉스가 7월 내놓은 협력사 지원 계획은 반도체 소재·부품·장비 업체를 대상으로 한다. 향후 5년에...",
-          "src": "kfenews",
-          "date": "10/10",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666021",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666021_139454_4246_v150.jpg"
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[증시전망] 삼성전자 실적도 안 통했다...코스피 반등 열쇠는?",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706224",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/706224_653942_5351.jpg"
+      "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100281.jpg"
+    },
+    {
+      "title": "LG 시그니처 美 진출 10년…제품군 넓히고 유통망 확대",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2119508",
+      "img": "https://cdn.4th.kr/news/thumbnail/202610/2119508_219942_4739_v150.jpg"
+    },
+    {
+      "title": "뉴욕 셀럽들 홀린 ‘시그니처’...드류 배리모어 “LG 워시타워 사랑해...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669945?sid=104",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/11/news-p.v1.20261011.9c6f7ee8b9c24a2a8ad0f2c99c83d617_Z1.jpg"
     },
     {
       "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
     },
     {
-      "title": "삼성전자, 3Q 매출 195조·영업익 107조 '사상 최대'…메모리 호황 속 DX...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727126",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727126_761188_5941_v150.jpg"
+      "title": "금융권 해킹에 보안 투자 늘리는 은행들",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3439327",
+      "img": "https://cdn.newscj.com/news/thumbnail/202610/3439327_3559856_4013_v150.jpg"
     },
     {
-      "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003473752?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/10/08/news-p.v1.20261008.87580122f6a2492b906bb37377194d23_P1.png"
-    },
-    {
-      "title": "AI 활용한 보안 혁신, 은행들이 해킹 위협에 맞서는 방법",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=881004",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202610/881004_158384_3256_v150.jpg"
-    },
-    {
-      "title": "아마존, 10년 적자 알렉사 수장 전격 교체... AI 유료화 배수진",
-      "url": "https://www.g-enews.com/view.php?ud=202610101151381386fda4f5ab74_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101011592907624fda4f5ab7439122247205.jpg"
+      "title": "충남 아산폴리텍, '기계설비보전 실무' 재직자 향상교육 성료",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103877",
+      "img": "https://cdn.ccdn.co.kr/news/thumbnail/202610/1103877_615692_3505_v150.jpg"
     }
   ]
 };
