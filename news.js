@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.11 (일) 14:51",
+  "updatedAt": "2026.10.11 (일) 21:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
+          "desc": "참여하려면 한전 에너지마켓플레이스에서 에너지캐시백에 가입하고 스마트가전 캐시백을 신청한 뒤, 제조사 앱에서 대상 기기를 연결해야 한다. 삼성전자는 SmartThings 앱의 ‘라이프’ 탭에서 ‘에너지’ 서비스를...",
+          "src": "vegannews",
+          "date": "10/11",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
+          "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+        },
+        {
+          "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
+          "desc": "[삼성전자 제공] 삼성전자가 로봇청소기가 만든 집 안 지도에 실제 사진을 결합하고, 이미지가 없는 영역은 생성형 인공지능(AI)으로 채우는 기술을 개발했다. 단순한 평면도 형태의 지도를 가구와 가전의 모습까지 담은...",
+          "src": "kpinews",
+          "date": "10/11",
+          "url": "https://www.kpinews.kr/newsView/1065596238741499",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
+        },
+        {
+          "title": "美 진출 10년 'LG 시그니처'…디자인·AI로 '전통 강자'에 도전",
+          "desc": "미국 고급 주방가전 시장에는 냉장고의 '서브제로(Sub-Zero)', 조리기기의 '울프(Wolf)', 식기세척기의 '코브(Cove)'를 비롯해 BSH그룹의 가게나우·서마도어, 독일 밀레 등이 포진해 있다. 삼성전자도 2016년 인수한 미국...",
+          "src": "kpinews",
+          "date": "10/11",
+          "url": "https://www.kpinews.kr/newsView/1065614480668255",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065614480668255_384_thum.png"
+        },
+        {
           "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
-          "desc": "삼성전자는 반도체 슈퍼사이클로 늘어난 이익을 나누기 위해 가전제품 구매 시 구매액의 20%를 온누리상품권으로 돌려주는 파격적인 행사를 앞서 전개한 바 있다. 김 대표는 “경쟁사의 신제품 출시나 대규모 프로모션이...",
+          "desc": "한국 시장 진입 2년 만인 지난 2022년 출하량 기준 로봇청소기 시장점유율 1위를 차지했다. 지난해까지 4년... 지난 6~7월 삼성전자(005930)가 대규모 프로모션을 통해 월간 시장점유율이 일시적으로 1위를 차지하며 화제가 된...",
           "src": "이데일리",
           "date": "10/11",
           "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100281.jpg"
-        },
-        {
-          "title": "LG 시그니처 美 진출 10년…제품군 넓히고 유통망 확대",
-          "desc": "LG전자에 따르면 시그니처 세탁기와 건조기 세트는 최근 미국 소비자매체 컨슈머리포트의 '2026년 최고의... 삼성전자도 올해 북미 주방욕실 전시회 'KBIS 2026'에서 비스포크 AI와 고급 빌트인 브랜드 데이코를 선보였다....",
-          "src": "4th",
-          "date": "10/11",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2119508",
-          "img": "https://cdn.4th.kr/news/thumbnail/202610/2119508_219942_4739_v150.jpg"
-        },
-        {
-          "title": "뉴욕 셀럽들 홀린 ‘시그니처’...드류 배리모어 “LG 워시타워 사랑해...",
-          "desc": "그 뒤를 한 자릿수 점유율인 LG전자와 일렉트로룩스, 보쉬, 삼성전자 등이 3위 자리를 놓고 치열하게... 이날 행사에서는 유명 가수 존 메이어가 LG 세탁기의 작동 종료음에서 영감을 얻은 ‘세탁기 송’ 등 여러 곡을...",
-          "src": "서울경제",
-          "date": "10/11",
-          "url": "https://n.news.naver.com/mnews/article/011/0004669945?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/11/news-p.v1.20261011.9c6f7ee8b9c24a2a8ad0f2c99c83d617_Z1.jpg"
-        },
-        {
-          "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
-          "desc": "대란템', '청소기 브랜드 대전' 등으로 구성됐다. 이사·웨딩 페스티벌에서는 삼성전자 TV와 냉장고, 세탁기... 대표 상품은 로보락 'S10 MAXV ULTRA' 로봇청소기 149만원, 드리미 '아쿠아10' 로봇청소기 59만9000원, 다이슨 'r2...",
-          "src": "smartbizn",
-          "date": "10/09",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=156016",
-          "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100805.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "금융권 해킹에 보안 투자 늘리는 은행들",
-          "desc": "KB국민은행은 올해 약 51억원 규모의 AI 위협 대응 사업을 추진하고 있으며, 관련 솔루션 연구와 도입 검토도... 도구를 활용해 웹 서비스의 취약점을 확인하고 있다. KB국민은행은 복수의 보안업체와 AI 방어 기술의...",
-          "src": "newscj",
+          "title": "[PAC 2026] 주충호 수석연구원 “단순 아이디어 넘어 즉시 도입 수준… ...",
+          "desc": "주 수석연구원은 \"앞으로 열릴 해커톤 대회에서도 AI 활용이 필수불가결하다는 생각이 들었다. 최신 기술 트렌드를 참가자들이 유연하게 녹여내어 결과물이 더욱 풍성해졌다\"고 강조했다.향후 대회의 발전 방향에...",
+          "src": "yeongnam",
           "date": "10/11",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3439327",
-          "img": "https://cdn.newscj.com/news/thumbnail/202610/3439327_3559856_4013_v150.jpg"
+          "url": "https://www.yeongnam.com/web/view.php?key=20261011022423573",
+          "img": "https://www.yeongnam.com/mnt/file/202610/ams.001.photo.202610102247482544002894_R.jpg"
         },
         {
-          "title": "충남 아산폴리텍, '기계설비보전 실무' 재직자 향상교육 성료",
-          "desc": "이유영 산학협력처장(시각디자인과 교수)은 \"현장에서 즉시 활용 가능한 실무 중심 교육을 통해 재직자들의 직무역량 향상과 기업의 생산성 향상에 도움이 되길 바란다\"며 \"설비보전 분야에도 AI 기술 도입이 확산되고...",
-          "src": "ccdn",
+          "title": "240억원 투입 지역 주도형 AI 대전환사업 '박차'",
+          "desc": "'지역 주도형 AI 대전환 사업'은 광역지자체가 지역 특성에 맞춰 기획한 인공지능 활용·확산 사업이다.... 또 제조 AI 컴퓨팅센터를 구축해 최신 GPU 클러스터를 도입하고 기술실증 15개사, AI 플랫폼 서비스 등을 지원해...",
+          "src": "ulsanpress",
           "date": "10/11",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103877",
-          "img": "https://cdn.ccdn.co.kr/news/thumbnail/202610/1103877_615692_3505_v150.jpg"
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584461",
+          "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584461_281443_4030_v150.jpg"
         },
         {
-          "title": "AI 도입, 일자리 감소 아닌 창출한다",
-          "desc": "기업 현장에서는 AI 도입이 아직 초기 확산 단계에 머물러 있는 것으로 조사됐다. 기업들은 AI를 노동자를 직접 대체하기보다는 기존 업무를 지원하고 수행 방식을 바꿔 생산성을 높이는 도구로 활용하는 경향이 강했다....",
-          "src": "브릿지경제",
+          "title": "[대구논단] 그 많던 4차 산업혁명과 메타버스 이야기는 어디로 갔나?",
+          "desc": "솔루션 도입에만 매달린다면, AI 시대 역시 또 다른 형태의 값비싼 시행착오로 끝날 수 있다. 새로운 개념과... 유용하게 활용하는 실사구시(實事求是)의 지혜다. 기술의 이름에 현혹되지 않고 기술이 바꿀 본질적...",
+          "src": "idaegu",
           "date": "10/11",
-          "url": "https://www.viva100.com/article/20260914501027",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/14/.cache/512/20260914501026.png?v=20261011145152"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561911",
+          "img": "https://cdn.idaegu.co.kr/news/photo/202610/2026101201000258400014141.jpg"
         },
         {
-          "title": "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란",
-          "desc": "규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧... 줄리아 파울스 UCLA 법학전문대학원 교수는 블룸버그에 \"디지털 인프라에 대한 깊은 의존성을 만들어낸 기술기업들...",
-          "src": "ZDNet코리아",
+          "title": "240억 규모 '지역 주도형 AI 대전환' 가속화",
+          "desc": "최신 그래픽처리장치(GPU) 협력지구 도입, 기술 실증 지원 15개사, AI활용 기반 서비스를 운영해 중소기업 공유형 핵심 기반으로 조성하고 있다. 현장 밀착형 맞춤 지원도 강화한다. 기업진단 및 상담 150개사...",
+          "src": "ujeil",
           "date": "10/11",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440468?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/11/de66f0eae7aac4c27001136bb0a24eaa.jpg"
+          "url": "http://www.ujeil.com/news/articleView.html?idxno=393301",
+          "img": "http://www.ujeil.com/image/logo/snslogo_20180604105612.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성은 수익성, 애플은 수요에 발목…스마트폰 양강의 '이중고'",
-          "desc": "삼성전자는 부품 원가 상승으로 적자 확대가 우려되고, 애플은 아이폰18 프로 시리즈의 수요 둔화 가능성이... 지난 9일(현지시간) 닛케이아시아는 애플이 일부 협력사에 아이폰18 프로와 프로맥스용 부품 생산을...",
-          "src": "서울신문",
+          "title": "\"옆팀은 연 10억 받는다는데\"...삼성맨들 '울분' 폭발",
+          "desc": "DX 부문 노조는 이재용 삼성전자 회장 자택 앞에서 시위를 벌이며 성과급 제도 전면 백지화를 요구 중이다. 같은 반도체 업계에서도 소부장(소재·부품·장비) 협력사의 소외감도 심각하다. 협력사가 원가 절감과 기술...",
+          "src": "wowtv",
           "date": "10/11",
-          "url": "http://www.metroseoul.co.kr/article/20261011500179",
+          "url": "https://n.news.naver.com/mnews/article/215/0001268793?sid=105",
           "img": ""
         },
         {
-          "title": "[폴더블 대전환③·끝] '접는 재미'는 끝났다… 승부는 두께와 화면",
-          "desc": "슬림화 경쟁이 고난도 부품의 수요 확대로 이어지면서 국내 협력사의 실적 성장을 직접 견인한 셈이다. 올해 삼성전자의 폴더블 3종에는 KH바텍과 중국 환리 등이 모델별로 힌지를 분할 공급한다. 벤더 간 납품 경쟁은...",
-          "src": "the-biz",
+          "title": "\"옆팀은 10억 '로또 성과급' 받았다는데…\" 속 타는 삼성맨",
+          "desc": "DX 부문 노조는 이재용 삼성전자 회장 자택 앞에서 시위를 벌이며 성과급 제도의 전면 백지화를 요구하고 있다. 반도체 소부장(소재·부품·장비) 협력사의 소외감도 깊어지고 있다. 초대형 성과는 원가 절감과 기술 개발...",
+          "src": "한국경제",
           "date": "10/11",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728948",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202610/728948_934917_390.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005341226?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/02.45207185.1.jpg"
         },
         {
-          "title": "삼성전자 S27 가격 인상 검토…메모리값 급등에 수익성 압박",
-          "desc": "MX사업부는 최근 협력사에 올해 4분기 부품 납품량을 30% 가까이 줄여달라고 요청한 것으로 알려졌다. 삼성전자는 통상 4분기에 차기 갤럭시S 시리즈 출시를 앞두고 기존 제품 생산량을 조정한다. 다만 올해 감축에는...",
-          "src": "조선일보",
+          "title": "삼성 협력사, 베트남서 340곳으로 확대... 현지 공급망 고도화 과제",
+          "desc": "삼성 협력사 340곳으로 확대…첨단 부품 공급은 여전히 제한적 삼성전자 베트남 타이응우옌 법인의 공장 [사진=삼성 베트남 제공] 삼성의 베트남 투자 확대와 함께 현지 기업들의 공급망 참여도 늘어나고 있다. .베트남...",
+          "src": "아주경제",
           "date": "10/11",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171656",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171656_454286_520_v150.jpg"
+          "url": "https://www.ajunews.com/view/20261011155307773",
+          "img": "https://image.ajunews.com/content/image/2026/10/11/20261011161738850509.jpeg"
         },
         {
-          "title": "삼성전자·삼성전기가 베트남을 새 반도체 기지로 낙점한 진짜 배경",
-          "desc": "4조 원대 자금 투입과 현지 역할 분담 삼성전자는 박닌과 타이응우옌 등 베트남 주요 거점에서 생산 공장과 연구개발센터를 운영하며 스마트폰 부품을 주로 생산해 왔다. 이번 투자를 통해 삼성전기는 기존 스마트폰...",
-          "src": "g-enews",
+          "title": "[재계 핫이슈] 삼성전자 이재용, 짚신 장수와 우산 장수 아들 둔 엄마보...",
+          "desc": "주요 부품의 가격 급등을 완제품 가격에 충분히 반영하지 못하고 있다. 급기야 감산설도 나왔다. 지난 8일 머니투데이는 전날인 7일 복수의 IT업계 관계자에게 확인한 내용을 토대로 삼성전자 MX사업부가 최근 협력사에...",
+          "src": "pennmike",
           "date": "10/11",
-          "url": "https://www.g-enews.com/view.php?ud=20261010190357345fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101019060803792fbbec65dfb211211153121.jpg"
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=129308",
+          "img": "https://cdn.pennmike.com/news/thumbnail/202610/129308_175317_65_v150.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "주말 낮 가전 사용량에 kWh당 100원…시범사업 10월 종료",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=392056",
+      "img": "https://www.vegannews.co.kr/data/photos/20261041/art_17917225088965.jpg"
+    },
+    {
+      "title": "삼성전자, 사진·AI로 집 안 구조 쉽게 파악…로봇청소기 美 특허출원 공...",
+      "url": "https://www.kpinews.kr/newsView/1065596238741499",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065596238741499_401_thum.jpg"
+    },
+    {
+      "title": "美 진출 10년 'LG 시그니처'…디자인·AI로 '전통 강자'에 도전",
+      "url": "https://www.kpinews.kr/newsView/1065614480668255",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/11/p1065614480668255_384_thum.png"
+    },
+    {
       "title": "韓 안방 장악한 로보락 \"수도권 넘어 지방 시장 공략 집중\"",
       "url": "https://n.news.naver.com/mnews/article/018/0006385671?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100281.jpg"
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101100805.jpg"
     },
     {
-      "title": "LG 시그니처 美 진출 10년…제품군 넓히고 유통망 확대",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2119508",
-      "img": "https://cdn.4th.kr/news/thumbnail/202610/2119508_219942_4739_v150.jpg"
+      "title": "[PAC 2026] 주충호 수석연구원 “단순 아이디어 넘어 즉시 도입 수준… ...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261011022423573",
+      "img": "https://www.yeongnam.com/mnt/file/202610/ams.001.photo.202610102247482544002894_R.jpg"
     },
     {
-      "title": "뉴욕 셀럽들 홀린 ‘시그니처’...드류 배리모어 “LG 워시타워 사랑해...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669945?sid=104",
-      "img": "https://wimg.sedaily.com/news/cms/2026/10/11/news-p.v1.20261011.9c6f7ee8b9c24a2a8ad0f2c99c83d617_Z1.jpg"
-    },
-    {
-      "title": "롯데하이마트, 10월 가전 할인전···로보락·드리미 로봇청소기도 특...",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=156016",
-      "img": "https://cdn.smartbizn.com/news/photo/202610/156016_263049_4114.jpg"
-    },
-    {
-      "title": "금융권 해킹에 보안 투자 늘리는 은행들",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3439327",
-      "img": "https://cdn.newscj.com/news/thumbnail/202610/3439327_3559856_4013_v150.jpg"
-    },
-    {
-      "title": "충남 아산폴리텍, '기계설비보전 실무' 재직자 향상교육 성료",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103877",
-      "img": "https://cdn.ccdn.co.kr/news/thumbnail/202610/1103877_615692_3505_v150.jpg"
+      "title": "240억원 투입 지역 주도형 AI 대전환사업 '박차'",
+      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584461",
+      "img": "https://cdn.ulsanpress.net/news/thumbnail/202610/584461_281443_4030_v150.jpg"
     }
   ]
 };
