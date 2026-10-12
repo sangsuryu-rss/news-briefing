@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.13 (화) 00:32",
+  "updatedAt": "2026.10.13 (화) 08:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "中창신메모리 \"차세대 D램 기술 진전\"… 연내 신제품 띄운다",
-          "desc": "또 서버용 메모리 시장은 삼성전자·SK하이닉스·마이크론 등이 우위를 보여왔고 CXMT는 가전제품에 집중해왔는데, 이번 신제품 출시 예고는 CXMT가 서버용 메모리 시장으로 영역을 넓히려는 시도라고 해석했다....",
+          "title": "'칩플레이션'에 저가 TV 수익성 비상…삼성·LG '프리미엄 승부' 세진다",
+          "desc": "국내 양대 가전회사인 삼성전자와 LG전자는 유기발광다이오드(OLED)와 마이크로 적·녹·청(RGB) TV 등 고부가 제품군을 앞세워 프리미엄 시장 공략에 힘을 실을 것으로 예상된다. 13일 시장조사업체 옴디아에 따르면...",
           "src": "파이낸셜뉴스",
-          "date": "10/12",
-          "url": "https://n.news.naver.com/mnews/article/014/0005588080?sid=104",
-          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+          "date": "10/13",
+          "url": "https://n.news.naver.com/mnews/article/014/0005588148?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/02/202609021101032120_e.jpg"
         },
         {
-          "title": "[ER현장] \"혼수 가전 구독 또는 구매? 고민되네\"…삼성스토어 청담점서...",
-          "desc": "여기에 현재 진행 중인 구독 2주년 이벤트와 삼성전자가 판매관리비로 제공하는 현금 페이백 등을 더하면 가격은 경쟁사보다 크게 내려간다. 냉장고, 세탁기, 로봇청소기와 85인치 미니LED TV 등을 함께 골랐는데도 2000만원...",
-          "src": "econovill",
-          "date": "10/12",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=753327",
-          "img": "https://cdn.econovill.com/news/thumbnail/202610/753327_729823_2246_v150.jpg"
+          "title": "쿠팡, 하반기 최대 규모 가전·디지털 행사 '쿠가세' 개막…'2시 오픈런...",
+          "desc": "삼성전자와 LG전자의 대형 가전부터 디지털 가전까지 인기 상품을 특별가에 판매한다. 로보락, 드리미, 에코백스 등 주요 로봇청소기 브랜드가 모두 참여하며, 김장철을 맞아 필립스, 샤크닌자, 바이타믹스 등...",
+          "src": "biztribune",
+          "date": "10/13",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360434",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360434_266233_1651_v150.jpg"
         },
         {
           "title": "\"인수 시너지 확장\"…삼전, 중남미 공조 거래처 韓 초청",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://wimg.dt.co.kr/news/cms/2026/10/12/news-p.v1.20261012.c5fdd41439254c7d9b9731c4c1726af1_R.png"
         },
         {
-          "title": "[비즈투데이] 삼성 '냉장고·무빙스타일' 포브스 스마트홈 어워드",
-          "desc": "삼성전자의 '비스포크 AI 패밀리허브' 냉장고와 이동형 스크린 '무빙스타일'이 미국 포브스의 '2026 스마트홈 어워드' 수상 제품으로 선정됐습니다. 제품평가 전문 '포브스 베티드'는 올해 처음 신설한 스마트홈...",
-          "src": "obsnews",
-          "date": "10/12",
-          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540217",
-          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540217_739182_4152_v150.jpg"
+          "title": "삼성 냉장고, 美 포브스 스마트홈상…50개 수상작 중 유일한 냉장고",
+          "desc": "ABC뉴스=오현성 기자 / 삼성전자의 인공지능(AI) 냉장고와 이동형 스크린이 미국 포브스의 스마트홈 혁신 제품 평가에서 나란히 수상했다. 냉장고는 식재료 관리와 생활 편의 기능을, 이동형 스크린은 업무와 여가를...",
+          "src": "abcn",
+          "date": "10/13",
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=93013",
+          "img": "https://cdn.abcn.kr/news/thumbnail/202610/93013_51933_3821_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "르노, 2028년 韓 전기차에 ‘레벨2++’ 적용 추진…“AI 결합한 스마트카...",
-          "desc": "브뤼네 CTO는 “단순한 전기자동차가 아니라 스마트카도 함께 결합해 도입해야 한다”며 차량 자체의 지능화뿐 아니라 주행 보조 시스템에도 AI 기술을 활용하겠다는 방향을 밝혔다. 중국 지리자동차와의 기술 협력에...",
-          "src": "디지털타임스",
+          "title": "[TECH한주] 크라우드웍스, '로봇의 행동'까지 데이터로 만든다",
+          "desc": "여기에 기업용 AI 제품과 자회사 크라우드아카데미의 교육 사업을 더해 기업의 AI 도입과 활용을 지원하고... LG전자가 주관하는 '피지컬 AI 모델 학습을 위한 월드 파운데이션 모델 기술개발' 사업에서는 데이터 수집과...",
+          "src": "epnc",
           "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/029/0003052666?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/10/12/news-p.v1.20261012.0b3230eff79747bfac433cd0164c0855_R.jpg"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407979",
+          "img": "https://cdn.epnc.co.kr/news/photo/202610/407979_408564_1358.png"
         },
         {
-          "title": "[포토] GS건설, 협력사와 '피지컬 AI' 손잡고 건설현장 대전환 나선다",
-          "desc": "GS건설은 피지컬 AI 전문가 강연을 통해 실제 시공 현장에 이미 도입됐거나 향후 적용을 앞둔 AI 기술과 로봇 시스템을 협력사에 공유했다. 이 자리에서 경영진과 협력사 대표들은 로봇 활용의 구체적 확대 방안과...",
+          "title": "中 CXMT, 기술 공개에 SK하닉·마이크론 등 반도체 급락 [뉴욕증시 무버...",
+          "desc": "중국 반도체 자립의 대표주자 창신메모리(CXMT)가 D램 메모리 기술에서 새로운 진전을 이뤘다며 이를... 데이터센터에 도입할 준비를 하고 있다”면서 “AI 소프트웨어 운영에 자사 하드웨어를 최대한 활용하려는...",
+          "src": "이투데이",
+          "date": "10/13",
+          "url": "https://www.etoday.co.kr/news/view/2634904",
+          "img": "https://img.etoday.co.kr/pto_db/2026/01/20260106110833_2277659_1200_800.jpg"
+        },
+        {
+          "title": "엔비디아, 시스코와 광통신 기술 개발…AI 데이터센터 효율 높인다.",
+          "desc": "전송 용량뿐 아니라 전력 소비와 공간 활용도 주요 과제다. 엔비디아는 해당 설계가 기존 초당 200기가비트... 대규모 AI 시설 구축 수요에 대응할 수 있다. 그러나 기술 발표만으로 실제 매출 증가나 고객사 도입이...",
+          "src": "jemin",
+          "date": "10/13",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844335",
+          "img": "https://cdn.jemin.com/news/thumbnail/202610/844335_431848_5315_v150.jpg"
+        },
+        {
+          "title": "AI가 도운 발명·디자인, 권리의 기준은 ‘사람의 실질적 기여’",
+          "desc": "특허 분야에서는 AI 자체를 발명자로 인정하지 않는다. 사람이 기술적 문제를 구체화하고 해결 과정에... 인공지능 활용 정보명세서’ 도입을 추진한다. 한국저작권위원회의 AI 기업 특화 상담창구는 올해 2월부터 8월까지...",
           "src": "dailyt",
           "date": "10/13",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202610130001",
-          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/10/13/dlt202610130001.jpg"
-        },
-        {
-          "title": "[울산리부트-AI헬스케어로 산업 전환의 해법을 찾다]개별 장비 넘어 공...",
-          "desc": "기업이 활용할 수 있는 피지컬 AI 플랫폼 기술과 연구·교육·창업 전략을 발표할 계획이다. ◇공장 전체를... 현대자동차를 중심으로 한 자동차 산업과 조선업이 주력인 울산에서 자율공장 의미는 로봇 도입...",
-          "src": "ksilbo",
-          "date": "10/13",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069360",
-          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202610/1069360_647564_3233_v150.jpg"
-        },
-        {
-          "title": "[GS 뉴 퓨처] ②주유소 넘어 분산에너지 거점으로",
-          "desc": "전력 수요와 공급을 예측해 분산된 에너지 자원을 효율적으로 활용하는 사업이다. 그룹 내 다른 계열사도 관련 기술을 확보하고 있다. GS E&R은 풍력 발전량을 예측하는 인공지능(AI) 솔루션을 상용화했으며 이를 VPP...",
-          "src": "kfenews",
-          "date": "10/13",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666143",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666143_139568_2817_v150.jpg"
+          "url": "https://www.dailyt.co.kr/newsView/dlt202610130003",
+          "img": "https://www.dailyt.co.kr/data/dlt/image/2026/10/13/dlt202610130004.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "조선 3사 손잡고 1조 4000억 AI 대전환 나섰다…설계부터 건조까지 로봇...",
+          "desc": "지난 9월 영암 조선소에서 진행된 삼성전자와 케이티의 5세대 이동통신망 기반 용접·도장 로봇 시험 운용... 협력사가 표준 설계 데이터를 실시간 연동하면 부품 조립 오차와 재작업이 줄어 원가 부담을 낮출 수 있다....",
+          "src": "g-enews",
+          "date": "10/13",
+          "url": "https://www.g-enews.com/view.php?ud=202610130628471279fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101306540306939fbbec65dfb211211153121.jpg"
+        },
         {
           "title": "\"군공항 이전 더 앞당긴다…호남 반도체 전력·용수 문제없어\"[와이드이...",
           "desc": "세계적인 기업들이 제가 해외에 다니면 각 나라 갈 때마다 무슨 이야기를 하냐면, '삼성전자나 SK 반도체 공장... 중소 협력사들까지 같이 해서 한번 AI를 전환을 해보겠다. 그래서 단순하게 혼자 사는 게 아니라 지역에 있는...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/12",
           "url": "https://n.news.naver.com/mnews/article/009/0005747362?sid=101",
           "img": "https://pimg.mk.co.kr/news/cms/202610/13/20261013_01110114000006_L00.jpg"
-        },
-        {
-          "title": "최태원 이어 김정관도 광주 군 공항 달려가 \"반도체 투자 적기 이행 뒷...",
-          "desc": "삼성전자와 SK하이닉스가 광주 군 공항 일대에 반도체 공장(팹)을 2기씩 구축할 계획이다. 이와 관련해 최... 지역 산업단지별로 대형 조선소 등 앵커기업과 협력사가 한 팀을 이뤄 앵커기업이 개발·검증한 AI 기술을...",
-          "src": "한국일보",
-          "date": "10/12",
-          "url": "https://n.news.naver.com/mnews/article/469/0000958988?sid=101",
-          "img": "https://newsimg.hankookilbo.com/2026/10/12/e1d871dd-12bb-4ef3-a7ae-f47286b359f7.jpg"
         }
       ]
     },
@@ -157,34 +157,34 @@ window.NEWS_DATA = {
           "img": "https://image.newdaily.co.kr/site/data/img/2026/09/14/2026091400134_0.png?u=20260914160220?u=20260914160220"
         },
         {
-          "title": "완성차 수요 둔화 우려에 자동차부품주 흔…3분기 실적 부담",
-          "desc": "열관리 지주사 우리산업홀딩스와 자동차용 부직포 업체 GH신소재, 드라이브 샤프트 제조사 한국무브넥스, 전장 디스플레이 솔루션 업체 탑런토탈솔루션도 약세다. 전력 변환·와이어링 하네스 업체 에코캡과 파워트레인...",
-          "src": "핀포인트뉴스",
-          "date": "10/12",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494361",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/494361_479987_397_v150.jpg"
-        },
-        {
           "title": "티에이치엔, 카자흐 최대 車기업과 전장 생산기지 구축…현대차·기아 ...",
           "desc": "티에이치엔은 와이어링 하네스와 자동차 전장부품을 주력으로 하는 현대차·기아 1차 협력사다. 중국과 베트남, 필리핀, 멕시코 등지에 생산망을 두고 현대차·기아 글로벌 공장에 제품을 공급하고 있다....",
           "src": "더구루",
           "date": "09/16",
           "url": "https://www.theguru.co.kr/news/article.html?no=107137",
           "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+        },
+        {
+          "title": "완성차 수요 둔화 우려에 자동차부품주 흔…3분기 실적 부담",
+          "desc": "열관리 지주사 우리산업홀딩스와 자동차용 부직포 업체 GH신소재, 드라이브 샤프트 제조사 한국무브넥스, 전장 디스플레이 솔루션 업체 탑런토탈솔루션도 약세다. 전력 변환·와이어링 하네스 업체 에코캡과 파워트레인...",
+          "src": "핀포인트뉴스",
+          "date": "10/12",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494361",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/494361_479987_397_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "中창신메모리 \"차세대 D램 기술 진전\"… 연내 신제품 띄운다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588080?sid=104",
-      "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+      "title": "'칩플레이션'에 저가 TV 수익성 비상…삼성·LG '프리미엄 승부' 세진다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588148?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/02/202609021101032120_e.jpg"
     },
     {
-      "title": "[ER현장] \"혼수 가전 구독 또는 구매? 고민되네\"…삼성스토어 청담점서...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=753327",
-      "img": "https://cdn.econovill.com/news/thumbnail/202610/753327_729823_2246_v150.jpg"
+      "title": "쿠팡, 하반기 최대 규모 가전·디지털 행사 '쿠가세' 개막…'2시 오픈런...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360434",
+      "img": "http://www.biztribune.co.kr/news/thumbnail/202610/360434_266233_1651_v150.jpg"
     },
     {
       "title": "\"인수 시너지 확장\"…삼전, 중남미 공조 거래처 韓 초청",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://wimg.dt.co.kr/news/cms/2026/10/12/news-p.v1.20261012.c5fdd41439254c7d9b9731c4c1726af1_R.png"
     },
     {
-      "title": "[비즈투데이] 삼성 '냉장고·무빙스타일' 포브스 스마트홈 어워드",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540217",
-      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540217_739182_4152_v150.jpg"
+      "title": "삼성 냉장고, 美 포브스 스마트홈상…50개 수상작 중 유일한 냉장고",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=93013",
+      "img": "https://cdn.abcn.kr/news/thumbnail/202610/93013_51933_3821_v150.jpg"
     },
     {
-      "title": "르노, 2028년 韓 전기차에 ‘레벨2++’ 적용 추진…“AI 결합한 스마트카...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052666?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/10/12/news-p.v1.20261012.0b3230eff79747bfac433cd0164c0855_R.jpg"
+      "title": "[TECH한주] 크라우드웍스, '로봇의 행동'까지 데이터로 만든다",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407979",
+      "img": "https://cdn.epnc.co.kr/news/photo/202610/407979_408564_1358.png"
     },
     {
-      "title": "[포토] GS건설, 협력사와 '피지컬 AI' 손잡고 건설현장 대전환 나선다",
-      "url": "https://www.dailyt.co.kr/newsView/dlt202610130001",
-      "img": "https://www.dailyt.co.kr/data/dlt/image/2026/10/13/dlt202610130001.jpg"
+      "title": "中 CXMT, 기술 공개에 SK하닉·마이크론 등 반도체 급락 [뉴욕증시 무버...",
+      "url": "https://www.etoday.co.kr/news/view/2634904",
+      "img": "https://img.etoday.co.kr/pto_db/2026/01/20260106110833_2277659_1200_800.jpg"
     }
   ]
 };
