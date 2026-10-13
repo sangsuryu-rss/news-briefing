@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.13 (화) 15:49",
+  "updatedAt": "2026.10.14 (수) 01:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "유일로보틱스, CES 2027서 '세미 휴머노이드' 실물 첫선",
-          "desc": "이 임원은 삼성전자 디지털가전(DA)사업부 선행기술 랩장과 에브리봇 최고기술책임자(CTO)를 지냈다. 연구팀에는 삼성전자 글로벌기술연구소(GTR)에서 무인운반차(AGV)와 산업용 로봇 개발을 지휘한 권영도 연구임원...",
-          "src": "ZDNet코리아",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440771?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/13/f73ccac41dba3bdd6ab6e7e711ed6155.jpg"
+          "title": "“싸고 실용적” 불황에도 소형 가전엔 지갑 연다",
+          "desc": "고가의 프리미엄 대형 가전보다 합리적인 가격으로 생활의 번거로움을 덜 수 있는 중저가 가전을 찾는 소비자가 늘고 있는 것이다. ◇삼성·LG도 참전 삼성전자와 LG전자도 크기를 줄이면서 성능과 디자인을 살린 ‘소형...",
+          "src": "조선일보",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003649?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/LFHIJSZSZNB6XNGHRVNOBAUVUY.jpg?auth=585586cb4901d5c6bb932edc12ade41113b8757fb81e41b36e074ff1d2343080&width=1200&height=630&smart=true"
         },
         {
-          "title": "[가전트렌드] 쿠팡, 하반기 최대 가전·디지털 행사 '쿠가세' 개막 外",
-          "desc": "삼성전자와 LG전자의 대형 가전부터 다양한 디지털 제품까지 특별가에 만나볼 수 있다. 로보락과 드리미, 에코백스 등 주요 로봇청소기 브랜드도 참여한다. 김장철을 앞두고 필립스와 샤크닌자, 바이타믹스 등...",
-          "src": "ibabynews",
+          "title": "10월 2주 주요 제조업 전망",
+          "desc": "산업용 로봇청소기 공급 - 세림로보틱스가 건설 현장 청소·환경 관리를 위한 산업용 로봇청소기... 경우 삼성전자·SK하이닉스보다 앞설 수 있단 전망이 나옴 - D램의 구조는 데이터를 담는 수십~수백억 개의 셀로...",
+          "src": "laborplus",
           "date": "10/13",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=155202",
-          "img": "https://www.ibabynews.com/news/photo/202610/155202_123464_4239.png"
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
         },
         {
-          "title": "삼성·LG전자, 한국전자전 2026 참가…일상 속 AI 혁신 기술 소개",
-          "desc": "삼성전자, 일상에 스며든 AI 라이프 공개 LG전자, 일상 외 산업 AI 기술도 소개 삼성전자와 LG전자가 국내... 세탁부터 건조까지 한 번에 해결하는 일체형 세탁건조기 비스포크 AI 콤보를 통해 세탁물의 상태를 자동 감지...",
-          "src": "더팩트",
+          "title": "삼성전자, 'KES 2026' 참가...AI 가전·갤럭시 폴드8 체험 공간 마련",
+          "desc": "삼성전자가 13일부터 16일까지 나흘간 서울 삼성동 코엑스에서 열리는 'KES 2026(한국전자전)'에 참가해... 세탁부터 건조까지 한 번에 처리하는 일체형 세탁건조기 '비스포크 AI 콤보'는 세탁물 상태를 자동 감지해 세탁...",
+          "src": "koreareport",
           "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/629/0000541596?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/10/13/202629721791871193.jpg"
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53605",
+          "img": "https://cdn.koreareport.co.kr/news/photo/202610/53605_56631_4351.jpg"
         },
         {
-          "title": "KES서 넓어진 가전의 수익 공식…삼성은 '구독'·LG는 '산업 기술'",
-          "desc": "삼성전자와 LG전자가 인공지능(AI)을 앞세워 가전 사업의 수익원을 다변화하고 있다. 삼성전자는 모바일·TV... LG전자는 세탁기 등에 사용한 모터 기술을 바탕으로 개발한 로봇용 액추에이터 브랜드 '악시움'을...",
-          "src": "IT데일리",
+          "title": "커지는 동남아 빨래방 시장… 삼성·LG가 잡는다",
+          "desc": "이에 따라 가정용(B2C) 세탁기 시장의 성장세가 주춤하는 가운데 LG전자와 삼성전자, 중국 하이얼 등 글로벌 가전업체들은 상업용 세탁기 시장에서 새로운 성장 동력을 찾고 있다. 동남아 각국의 상업용 세탁 시장은...",
+          "src": "파이낸셜뉴스",
           "date": "10/13",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=242149",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242149_248089_1152_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005588616?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/13/202610131815284675_e.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "안양시의회 박순임 의원, 어르신 위한 AI 교육 확대 촉구",
-          "desc": "AI 기술을 배울 수 있는 교육 기회를 마련할 것을 촉구했다. 박 의원은 시청 상담 창구에 AI가 빠르게 도입되... “어르신들이 AI 기술을 배우고 활용할 수 있는 환경을 조성, 모두가 편리한 도시를 만들어 가자”고...",
-          "src": "브릿지경제",
-          "date": "10/13",
-          "url": "https://www.viva100.com/article/20261013500979",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/13/.cache/512/20261013500975.jpg?v=20261013154950"
+          "title": "택시노조 ‘데이터 주권’ 요구… 자율주행 택시 협의 ‘공회전’",
+          "desc": "“운행 데이터, 기술 개발에 사용” 자율 주행 택시 도입을 위해 국토교통부 주도로 지난 1월 마련된 ‘자율... 인공지능(AI)·자율주행 기술 발전에 활용될 수 있지만, 기사는 그 경제적 가치에서 배제돼 왔다고 주장했다....",
+          "src": "조선일보",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/023/0004003646?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/MUZTAMRWMUZDGOJUGY4TGZBYGI.jpg?auth=1c6476043de2434abeeca52136c18e5e63ec69e0435beda0814b6c1664fd1b8a&width=1200&height=630&focal=969,767"
         },
         {
-          "title": "개보위, '보호' 떼고 개인정보위원회로 바꾸자 제안 나왔다…송경희 \"신...",
-          "desc": "가명정보가 도입돼 개인정보를 보호하면서 연구와 기술 혁신에 활용할 길이 열렸다고 설명했다. 그러나 산업 현장에서는 아직 갈 길이 멀다는 것이다. 박 의원이 제시한 자료에 따르면 AI 프로젝트 개발 업무의 80%는...",
-          "src": "디지털데일리",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/138/0002244573?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/13/2026101315203917990_l.png"
+          "title": "“여러분 회사의 AX 잘 되고 있나요”",
+          "desc": "기조연설에 나선 장재용 코오롱베니트 DX본부장은 국내 기업의 AI 활용률이 58%에 이르지만 AI 전략을 갖춘... AI 얼라이언스는 AI 전문기업 기술을 고객이 실제 도입할 수 있는 솔루션으로 전환하는 사업 협력 체계로...",
+          "src": "동아일보",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/020/0003754753?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134834706.3.jpg"
         },
         {
-          "title": "“가상화부터 AI까지 한 번에”…뉴타닉스, 라이액스 품고 GPU 최적화 사...",
-          "desc": "열고 AI·하이브리드 클라우드 전략과 한화시스템 도입 사례를 소개했다. 같은 날 프랑스 AI 컴퓨팅 자원... ◆GPU 활용률 높이는 라이액스 기술…AI 작업 배치 고도화 라이액스 인수는 고가 GPU를 효율적으로 운영하는...",
-          "src": "디지털데일리",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/138/0002244572?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/13/2026101315315604712_l.png"
+          "title": "AI 도입 넘어 성과 창출로… 코오롱베니트 “AX 여정 끝까지 함께”",
+          "desc": "강이구 코오롱베니트 대표가 기업의 인공지능(AI) 도입을 통한 생산성 향상과 관련해 “초기 성과 정체... 기조연설에 나선 장재용 코오롱베니트 DX 본부장은 국내 기업의 AI 활용률이 58%에 이르지만 실제 전략까지...",
+          "src": "kmib",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/005/0001878505?sid=101",
+          "img": "https://image.kmib.co.kr/online_image/2026/1014/01100201.20261013501993.jpg"
         },
         {
-          "title": "노타, AI 최적화로 영상관제 인프라 부담↓…제조·건설·교통 공략",
-          "desc": "환경별 활용 방안을 소개할 예정이다. 노타에 따르면 최적화 기술을 적용하면 동일한 서버 자원으로 분석할... 고객이 기존 인프라 활용도를 높이고 AI 도입과 운영 비용을 낮출 수 있도록 지원하고 있다\"고 밝혔다.",
-          "src": "ZDNet코리아",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/092/0002440770?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/13/a4420f90035dec92f307bffe162a0bdf.jpg"
+          "title": "뉴타닉스, VM웨어 대안 수요 겨냥… 서버·스토리지 활용 폭 넓혀",
+          "desc": "AI가 각각 다른 조직과 도구를 통해 운영되는 구조를 기업 IT 환경의 문제로 꼽았다. 새로운 기술을 도입할... 배분하고 활용률을 높이는 기술을 확보하겠다는 계획이다. 회사는 프랑스의 AI 컴퓨팅 오케스트레이션...",
+          "src": "newscj",
+          "date": "10/14",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3440043",
+          "img": "https://cdn.newscj.com/news/thumbnail/202610/3440043_3561030_5957_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "갤럭시 고가 라인업 늘린다…아이폰과 프리미엄 대결",
-          "desc": "삼성전자(005930)가 차세대 갤럭시S27 시리즈에 고급형 ‘프로’ 모델을 추가할 전망입니다. 메모리 등 부품... 삼성전자가 차기 플래그십 스마트폰 라인업을 기존보다 확대하는 방안을 추진하고 있습니다. 최근 협력사에...",
+          "title": "삼성전자, 반도체 협력사 5만8000명에 감사 행사",
+          "desc": "협력사 기술 고도화를 위한 인프라 제공도 이어가고 있다. 삼성전자는 2023년부터 첨단 공정으로 제작한 ‘패턴 웨이퍼’ 3192장을 국내 소부장(소재, 부품, 장비) 기업 94곳에 연구개발용으로 지원했다. 올 한 해...",
+          "src": "동아일보",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/020/0003754748?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134835229.4.jpg"
+        },
+        {
+          "title": "10월 2주 주요 제조업 전망",
+          "desc": "AX 기술이 적용된 등대 공장을 구축하고, 인근 9개 협력사에 기술을 확산할 계획임. 앵커기업인... 경우 삼성전자·SK하이닉스보다 앞설 수 있단 전망이 나옴 - D램의 구조는 데이터를 담는 수십~수백억 개의 셀로...",
+          "src": "laborplus",
+          "date": "10/13",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
+        },
+        {
+          "title": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 13일)",
+          "desc": "원문 링크 삼성 믿고 샀더니 대박 났다…바닥 찍고 77% 급등한 주식삼성전자의 공급망 다변화와 차세대 설비 투자 집행에 힘입어 바닥권에 머물던 중소형 부품 협력사의 주가가 가파른 턴어라운드를 연출했다. 삼성의...",
+          "src": "한국경제",
+          "date": "10/13",
+          "url": "https://n.news.naver.com/mnews/article/015/0005342193?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/01.46039791.1.png"
+        },
+        {
+          "title": "삼성전자, 협력사에 커피·영화부터 펀드까지 쏜다",
+          "desc": "총무·보안 분야 협력사 68개사에는 추석 명절 격려금 약 25억5000만원을 전달했습니다. 기술 경쟁력 강화도 지원도 진행 중입니다. 삼성전자는 2023년부터 지난해까지 국내 소재·부품·장비(소부장) 기업과 연구소...",
           "src": "newstomato",
           "date": "10/13",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316491&inflow=N",
-          "img": "https://image.newstomato.com/newsimg/2026/10/13/1316491/attach.jpg?v=202610131538"
-        },
-        {
-          "title": "삼성전자, 협력사 2만7천명에 커피차…자금·기술 지원도 확대",
-          "desc": "삼성전자와 협력사 경영진이 만나 소통하는 자리도 마련됐다. 우형동 삼성전자 DS부문 상생협력팀 상무는... 국내 소재·부품·장비 기업과 연구소에는 반도체 회로 패턴이 형성된 웨이퍼를 제공해 연구개발을 돕는다....",
-          "src": "파이낸셜뉴스",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/014/0005588502?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/13/202610131414104930_e.jpg"
-        },
-        {
-          "title": "삼성전자, 반도체 협력사 직원에 감사 이벤트…커피차-영화관람 지원",
-          "desc": "협력사 기술 고도화를 위한 인프라 제공도 이어가고 있다. 삼성전자는 2023년부터 첨단 공정으로 제작한 ‘패턴 웨이퍼’ 3192매를 국내 소부장(소재, 부품, 장비) 기업 94곳에 연구개발용으로 지원했다. 올 한 해...",
-          "src": "동아일보",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/020/0003754611?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134833194.1.jpg"
-        },
-        {
-          "title": "\"정규직만 성과급 잔치\" 시선에… 삼전닉스, 협력사 상생 잇따라",
-          "desc": "나오면서 삼성전자와 SK하이닉스가 협력사와의 성과 나눔에 공을 들이고 있다. 본사 직원에게만 호황의... SK하이닉스는 앞으로 5년간 1조4,000억 원 규모의 상생 자금을 활용해 소재·부품·장비 협력사의 기술...",
-          "src": "한국일보",
-          "date": "10/13",
-          "url": "https://n.news.naver.com/mnews/article/469/0000959120?sid=105",
-          "img": "https://newsimg.hankookilbo.com/2026/10/13/6e0d5afd-6673-4d3a-b836-3ab74a8afc6f.png"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316508&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/10/13/1316508/attach.jpg?v=202610131615"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "유일로보틱스, CES 2027서 '세미 휴머노이드' 실물 첫선",
-      "url": "https://n.news.naver.com/mnews/article/092/0002440771?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/10/13/f73ccac41dba3bdd6ab6e7e711ed6155.jpg"
+      "title": "“싸고 실용적” 불황에도 소형 가전엔 지갑 연다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003649?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/LFHIJSZSZNB6XNGHRVNOBAUVUY.jpg?auth=585586cb4901d5c6bb932edc12ade41113b8757fb81e41b36e074ff1d2343080&width=1200&height=630&smart=true"
     },
     {
-      "title": "[가전트렌드] 쿠팡, 하반기 최대 가전·디지털 행사 '쿠가세' 개막 外",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=155202",
-      "img": "https://www.ibabynews.com/news/photo/202610/155202_123464_4239.png"
+      "title": "10월 2주 주요 제조업 전망",
+      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
+      "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
     },
     {
-      "title": "삼성·LG전자, 한국전자전 2026 참가…일상 속 AI 혁신 기술 소개",
-      "url": "https://n.news.naver.com/mnews/article/629/0000541596?sid=101",
-      "img": "https://img.tf.co.kr/article/home/2026/10/13/202629721791871193.jpg"
+      "title": "삼성전자, 'KES 2026' 참가...AI 가전·갤럭시 폴드8 체험 공간 마련",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53605",
+      "img": "https://cdn.koreareport.co.kr/news/photo/202610/53605_56631_4351.jpg"
     },
     {
-      "title": "KES서 넓어진 가전의 수익 공식…삼성은 '구독'·LG는 '산업 기술'",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=242149",
-      "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242149_248089_1152_v150.jpg"
+      "title": "커지는 동남아 빨래방 시장… 삼성·LG가 잡는다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588616?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/10/13/202610131815284675_e.jpg"
     },
     {
-      "title": "안양시의회 박순임 의원, 어르신 위한 AI 교육 확대 촉구",
-      "url": "https://www.viva100.com/article/20261013500979",
-      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/13/.cache/512/20261013500975.jpg?v=20261013154950"
+      "title": "택시노조 ‘데이터 주권’ 요구… 자율주행 택시 협의 ‘공회전’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003646?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/MUZTAMRWMUZDGOJUGY4TGZBYGI.jpg?auth=1c6476043de2434abeeca52136c18e5e63ec69e0435beda0814b6c1664fd1b8a&width=1200&height=630&focal=969,767"
     },
     {
-      "title": "개보위, '보호' 떼고 개인정보위원회로 바꾸자 제안 나왔다…송경희 \"신...",
-      "url": "https://n.news.naver.com/mnews/article/138/0002244573?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/10/13/2026101315203917990_l.png"
+      "title": "“여러분 회사의 AX 잘 되고 있나요”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003754753?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134834706.3.jpg"
     }
   ]
 };
