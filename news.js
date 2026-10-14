@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.14 (수) 10:14",
+  "updatedAt": "2026.10.14 (수) 16:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "中 CXMT 충격파 이틀째 월가 \"삼전닉스 위협 제한적…반응 과도해\"",
-          "desc": "그러나 시장에서는 창신메모리가 삼성전자·SK하이닉스·마이크론의 시장 점유율을 공격적으로 빼앗을 가능성은 낮다고 본다. 창신메모리는 그동안 PC·스마트폰·가전용 D램에 주력해왔고 고난도 기술인 서버용 D램...",
-          "src": "머니투데이",
+          "title": "\"AI 홈 환경 완벽 구현\"..삼성·LG전자, 저탄소 주거 에너지 솔루션 시연",
+          "desc": "삼성전자는 기업간거래용 솔루션인 스마트싱스 프로를 활용해 단지 전체의 에너지 사용 현황을 통합 관리한다. 국내에서도 히트펌프와 고효율 가전을 결합한 사업을 확대한다. ■LG전자, 공조 기술과 HEMS 결합한...",
+          "src": "kpenews",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/008/0005426041?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101409381791373_1.jpg"
+          "url": "https://kpenews.com/View.aspx?No=4263535",
+          "img": "https://cdn.coenworks.com/Files/4/News/202610/8674_20261014162430800.jpg"
         },
         {
-          "title": "10월 2주 주요 제조업 전망",
-          "desc": "산업용 로봇청소기 공급 - 세림로보틱스가 건설 현장 청소·환경 관리를 위한 산업용 로봇청소기... 경우 삼성전자·SK하이닉스보다 앞설 수 있단 전망이 나옴 - D램의 구조는 데이터를 담는 수십~수백억 개의 셀로...",
-          "src": "laborplus",
-          "date": "10/13",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
+          "title": "롯데하이마트, 이사·결혼 앞둔 알뜰족 … 지금 하이마트 가면 득템 찬...",
+          "desc": "40만원 이상 상품 구매 시 차량용 청소기를 무상증정하고 삼성전자, LG전자, 다이슨, 쿠쿠, 로보락 등 5개 브랜드의 로봇청소기 행사 상품을 건타입 행사 제품과 함께 구매하면 추가 5만원 할인 혜택을 제공한다....",
+          "src": "매일경제",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/009/0005748501?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/15/20261015_01110205000001_L00.jpg"
         },
         {
-          "title": "Z폴드8·비스포크 AI 총출동… 삼성전자, KES 2026서 일상 속 AI 제시",
-          "desc": "서울 코엑스에서 열린 'KES 2026(한국전자전)' 삼성전자관에서 삼성전자 모델이 압도적인 화질과 뛰어난 색... 세탁건조기 '비스포크 AI 콤보'의 'AI 맞춤+' 기능을 직접 체험할 수 있다. 또한 사용자와의 대화를 통해 TV...",
-          "src": "서울신문",
+          "title": "[르포] 삼성·LG전자, 일상 속 AI 경험 정면승부…'KES 2026 가보니",
+          "desc": "▲KES 2026 행사장에 전시된 삼성전자 부스. [사진=메가경제] ◆ 삼성전자, 대형 디스플레이부터 갤럭시까지... 세탁부터 건조까지 한 번에 해결하는 일체형 세탁건조기 '비스포크 AI 콤보'를 통해 세탁물의 상태를...",
+          "src": "megaeconomy",
           "date": "10/14",
-          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523652",
-          "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523652_485584_1059.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580556351189",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261014/p1065580556351189_310_thum.jpg"
         },
         {
-          "title": "불붙는 'AI홈' 대전…LG, 25억대 애플 생태계 업고 삼성 맞선다",
-          "desc": "삼성전자와 비교하면 차이가 더 선명하다. 삼성은 갤럭시 스마트폰과 갤럭시 워치를 비롯해 TV와 냉장고·세탁기·에어컨까지 직접 만든다. 이 제품들을 '스마트싱스'에 묶어 사용자의 위치와 생활 패턴에 따라 가전을...",
-          "src": "아주경제",
+          "title": "‘국민주’ 삼성전자 실적은 활활 주가는 꽁꽁…이유는?",
+          "desc": "연합뉴스 주식을 잘 모르는 분들도 삼성전자는 익숙하실 겁니다. 매일 사용하는 휴대전화부터 텔레비전과 냉장고까지 일상 곳곳에서 만나는 기업이기 때문입니다. 주식 투자를 처음 시작할 때 삼성전자를 떠올리는...",
+          "src": "kookbang",
           "date": "10/14",
-          "url": "https://www.ajunews.com/view/20261014094214503",
-          "img": "https://image.ajunews.com/content/image/2026/10/14/20261014095138772442.jpg"
+          "url": "https://kookbang.dema.mil.kr/newsWeb/20261015/1/ATCE_CTGR_0020020007/view.do",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "KG스틸, 소둔로 AI 사용율 80% 이상 확대 추진",
-          "desc": "AI 예측제어 기술 도입 이후 최근 1년간 LNG 사용량 약 400천 Nm³를 줄여 약 4억원의 비용을 절감했다. 향후 AI... 소둔로 AI 사용률을 80% 이상으로 확대하고, 향후 AI 적용이 가능한 유사 공정으로 활용 범위를 확대할...",
-          "src": "헤럴드경제",
+          "title": "\"AI 의료혁신, 모두의 혜택으로\"···세계 바이오 리더 21일 서울 집결",
+          "desc": "기술 격차가 곧 건강 격차로 이어질 수 있다는 우려가 있다. 의료 AI가 아무리 빠르게 발전해도 도입 여건과 의료 인프라가 나라마다 다른 만큼, 국가 간 의료격차가 오히려 벌어질 수 있다. 안전하고 책임 있는 활용...",
+          "src": "ziksir",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/016/0002709052?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/14/news-p.v1.20261014.c1f32567fc174f10976d3a06190926e9_P1.jpg"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=149389",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202610/149389_168853_3812_v150.jpg"
         },
         {
-          "title": "동아ST, 부산대병원과 스마트병동 구축···AI·웨어러블 해상의료 시스...",
-          "desc": "솔루션과 기술을 제공한다. 피플앤드테크놀러지는 의료기기와 시스템의 도입·설치·운영을 지원한다. 동아에스티와 부산대병원, 메쥬는 AI·웨어러블 의료기기를 활용한 해상의료 지원시스템도 공동개발한다. 원양선박...",
-          "src": "globale",
+          "title": "{이슈] \"3대 메가프로젝트 전력 수요, 정확히 검증하고 합리적으로 관리...",
+          "desc": "석 위원은 AI 데이터센터 붐을 닷컴버블과 비교하며 기술 효율 개선이 인프라 수요를 빠르게 약화시킬 수... 문 부연구위원은 전국 11개 권역의 2030년 시간별 전력 운영을 분석하는 모형(PyPSA-GESI)을 활용해 ▲11차...",
+          "src": "energydaily",
           "date": "10/14",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41032",
-          "img": "https://cdn.globale.co.kr/news/thumbnail/202610/41032_68064_5218_v150.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204040",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202610/204040_203677_3858.jpg"
         },
         {
-          "title": "[강기윤 창원시장 인터뷰] \"일자리가 곧 복지…제조도시 다음 50년 준비...",
-          "desc": "시내버스 노사 갈등과 NC 다이노스 연고지 문제, 진해해양공원 짚트랙 활용방안 등 시민의 관심이 큰 현안을... 제조현장으로 AI 기반 자율제조 모델을 확산할 계획이다. 개별 기업의 기술 도입을 넘어 지역 제조업 전반의...",
-          "src": "view",
+          "title": "영남이공대, 네이버 현직 개발자 초청 AI 융합실무 특강",
+          "desc": "AI 융합실무 특강을 열었다고 14일 밝혔다. 이번 특강은 생성형 AI와 AI 에이전트, 데이터·클라우드·보안 기술 등 인공지능 기반 기술의 산업 현장 도입이 확대됨에 따라 학생들이 최신 기술 흐름과 실제 업무 활용...",
+          "src": "nocutnews",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/277/0005828237?sid=102",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100810232854720_1791422608.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004198816?sid=102",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/14/202610141626364541_0.jpg"
         },
         {
-          "title": "[패트롤]경북도-경북교육청-경북연구원-한국국학진흥원",
-          "desc": "이번 포럼에서는 신라 천년의 역사와 불교문화 등 경북의 문화자산을 인공지능(AI)과 디지털 기술에 접목해... 디지털·AI, 지역과 세계, 역사·문화 등 4개 분야별 논의를 통해 지역 문화자산의 산업적 활용 가능성을...",
-          "src": "ekn",
+          "title": "“AI 투자 ROI 아직 체감 못 해”…한국넷앱, 제로 카피·‘노버스’로...",
+          "desc": "기술총괄 전무에 따르면, 최신 GPU는 수 테라바이트 단위 데이터를 소비하는데 기존 스토리지는 그 속도로 공급하도록 설계되지 않았다. 공급이 막히면 GPU 활용률이 30% 미만까지 떨어질 수도 있다. 강 전무는 “AI 시대의...",
+          "src": "디지털데일리",
           "date": "10/14",
-          "url": "https://www.ekn.kr/web/view.php?key=20261014025115915",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261014.ec7ca820104547eebe335d810fb6d0f8_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002244735?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/14/2026101415574596715_l.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개",
-          "desc": "용인 국가산단에는 약 70개 소재·부품·장비 및 팹리스 기업이 입주할 예정이다. 삼성전자는 제조와 연구개발, 협력사를 연결하는 반도체 생태계를 구축한다는 구상이다. 도로·교통·주거 등 생활 인프라...",
-          "src": "한국경제",
+          "title": "삼성전자, 반도체 협력사에 “AI로 장비 고장·오류 사전 대응” 주문.....",
+          "desc": "사안에 밝은 업계 관계자는 “삼성전자가 장비 협력사에 장비 고장과 오류를 사전에 파악하고 사람이 직접... “단순히 부품이나 웨이퍼를 자동으로 이동시키는 수준을 넘어 AI 기반 스마트 팩토리를 구현하려는 것”...",
+          "src": "전자신문",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/015/0005342318?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/01.46046363.1.gif"
+          "url": "https://n.news.naver.com/mnews/article/030/0003475093?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.ba7e642193474bca89106b4bb50b3755_P1.jpg"
         },
         {
-          "title": "삼성전자, 360조 투입 '용인 반도체 클러스터' 청사진 공개",
-          "desc": "산단에는 약 70개 소재·부품·장비(소부장) 및 팹리스 기업이 입주할 예정이다. 반도체 제조와 연구개발... 삼성전자는 1981년 협력사 협의체인 ‘협성회’를 창립한 이후 45년간 협력사와의 동반성장을 추진해...",
-          "src": "이데일리",
+          "title": "삼성전자, 'AI 메모리' 신기술 제시…용인산단 로드맵도 소개",
+          "desc": "산단에는 약 70개 소재·부품·장비, 팹리스 기업이 입주할 예정이다. 삼성전자 관계자는 \"제조와 연구개발, 협력사가 유기적으로 연결되는 반도체 생태계가 구축될 것\"이라며 \"산단 조성과 함께 도로·교통·주거...",
+          "src": "nocutnews",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006387616?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101400471.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004198806?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/14/202610141623030373_0.jpg"
         },
         {
-          "title": "삼성전자, SEDEX서 360조원 투자 '용인 국가산단' 비전 제시…\"2029년 첫...",
-          "desc": "소재·부품·장비 및 팹리스 기업이 입주해 유기적인 반도체 생태계를 구축할 예정이다. '상생협력존'을 통해 자금·기술·인력·교육 등 다양한 협력사 지원 프로그램과 동반성장 성과를 공개한다. 삼성전자는...",
-          "src": "아주경제",
+          "title": "中 CXMT 차세대 메모리 쇼크에 … 송재혁 삼성전자 사장 \"4F 스퀘어 준비...",
+          "desc": "송 사장은 이날 와이씨, 동진쎄미켐, 신성이엔지, 코미코 등 소재·부품·장비 기업과 팹리스 업체... 삼성전자와 SK하이닉스 부스를 방문했다. 삼성 파운드리 협력사인 에이직랜드 부스에서는 관계자와...",
+          "src": "biz",
           "date": "10/14",
-          "url": "https://www.ajunews.com/view/20261014084248170",
-          "img": "https://image.ajunews.com/content/image/2026/10/14/20261014085043929783.png"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400312.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/10/14/2026101400312_0.jpg?u=20261014161309?u=20261014161309"
         },
         {
-          "title": "삼성전자, 반도체대전서 AI 메모리 솔루션 선보여...생산·상생협력 비전...",
-          "desc": "산단에는 약 70개 소재·부품·장비 및 팹리스 기업이 입주할 예정이다. 상생협력존에서는 협력사 대상 자금·기술·인력·교육 지원 프로그램을 소개한다. 삼성전자는 1981년 협력사 협의체 '협성회'를 설립한...",
-          "src": "파이낸셜뉴스",
+          "title": "[현장] 파워오토로보틱스 \"다크팩토리 시대 연다…내년 하반기 IPO 본격...",
+          "desc": "파워오토로보틱스는 주력 제품인 AI 기반 이형부품 삽입·압입 자동화 로봇 'i-Series(아이시리즈)' 라인업을... 이어 \"삼성전자 글로벌 7개국 생산 거점에 적용돼 1차 협력사 평가 A등급을 받았고, LG이노텍 협력사...",
+          "src": "ebn",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/014/0005588895?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/14/202610141004023288_e.gif"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727807",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727807_762164_4815_v150.jpg"
         }
       ]
     },
@@ -165,46 +165,46 @@ window.NEWS_DATA = {
           "img": "https://image.newdaily.co.kr/site/data/img/2026/09/14/2026091400134_0.png?u=20260914160220?u=20260914160220"
         },
         {
-          "title": "경신그룹 창립 52년…\"글로벌 전장기업 도약\"",
-          "desc": "경신은 1974년 창립 이후 자동차 전장부품 분야에서 성장해왔다. 자동차용 '와이어링 하네스'를 생산해 한국 최초의 고유 자동차 모델인 현대자동차 '포니'에 제품을 공급했으며, 이후 글로벌 기술 협력체계를 기반으로...",
-          "src": "incheonilbo",
-          "date": "09/14",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331994",
-          "img": "https://cdn.incheonilbo.com/news/thumbnail/202609/1331994_672302_3437_v150.jpg"
+          "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
+          "desc": "원천 재료 배합과 세라믹 칩 제조 역량을 바탕으로 ▲온도 센서 ▲전장용 와이어링 하네스 ▲전압·온도 복합 감지 모듈 ▲박막형 필름히터(Film Heater) 등으로 제품군을 단계적으로 확장해 왔다. 이러한 소자 제조...",
+          "src": "digitalchosun",
+          "date": "09/11",
+          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180166.html",
+          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "中 CXMT 충격파 이틀째 월가 \"삼전닉스 위협 제한적…반응 과도해\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005426041?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101409381791373_1.jpg"
+      "title": "\"AI 홈 환경 완벽 구현\"..삼성·LG전자, 저탄소 주거 에너지 솔루션 시연",
+      "url": "https://kpenews.com/View.aspx?No=4263535",
+      "img": "https://cdn.coenworks.com/Files/4/News/202610/8674_20261014162430800.jpg"
     },
     {
-      "title": "10월 2주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
+      "title": "롯데하이마트, 이사·결혼 앞둔 알뜰족 … 지금 하이마트 가면 득템 찬...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748501?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/15/20261015_01110205000001_L00.jpg"
     },
     {
-      "title": "Z폴드8·비스포크 AI 총출동… 삼성전자, KES 2026서 일상 속 AI 제시",
-      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523652",
-      "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523652_485584_1059.jpg"
+      "title": "[르포] 삼성·LG전자, 일상 속 AI 경험 정면승부…'KES 2026 가보니",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580556351189",
+      "img": "https://www.megaeconomy.co.kr/news/data/20261014/p1065580556351189_310_thum.jpg"
     },
     {
-      "title": "불붙는 'AI홈' 대전…LG, 25억대 애플 생태계 업고 삼성 맞선다",
-      "url": "https://www.ajunews.com/view/20261014094214503",
-      "img": "https://image.ajunews.com/content/image/2026/10/14/20261014095138772442.jpg"
+      "title": "\"AI 의료혁신, 모두의 혜택으로\"···세계 바이오 리더 21일 서울 집결",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=149389",
+      "img": "https://cdn.ziksir.com/news/thumbnail/202610/149389_168853_3812_v150.jpg"
     },
     {
-      "title": "KG스틸, 소둔로 AI 사용율 80% 이상 확대 추진",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709052?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/14/news-p.v1.20261014.c1f32567fc174f10976d3a06190926e9_P1.jpg"
+      "title": "{이슈] \"3대 메가프로젝트 전력 수요, 정확히 검증하고 합리적으로 관리...",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204040",
+      "img": "https://cdn.energydaily.co.kr/news/photo/202610/204040_203677_3858.jpg"
     },
     {
-      "title": "동아ST, 부산대병원과 스마트병동 구축···AI·웨어러블 해상의료 시스...",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=41032",
-      "img": "https://cdn.globale.co.kr/news/thumbnail/202610/41032_68064_5218_v150.jpg"
+      "title": "영남이공대, 네이버 현직 개발자 초청 AI 융합실무 특강",
+      "url": "https://n.news.naver.com/mnews/article/079/0004198816?sid=102",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/14/202610141626364541_0.jpg"
     }
   ]
 };
