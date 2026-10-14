@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.14 (수) 06:17",
+  "updatedAt": "2026.10.14 (수) 10:14",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[단독] ‘대우전자’ 법인 200만원에 공매… 위니아전자 파산에 매각",
-          "desc": "2012년 ‘옛 대우전자’ 청산 후 대우일렉이 별도 법인 신설 사업자등록 안 돼 있어… 대우 브랜드 권리는 별개 한때 삼성전자, LG전자와 함께 국내 가전업계를 대표했던 ‘대우전자’의 이름을 가진 법인이 200만원에...",
-          "src": "조선일보",
+          "title": "中 CXMT 충격파 이틀째 월가 \"삼전닉스 위협 제한적…반응 과도해\"",
+          "desc": "그러나 시장에서는 창신메모리가 삼성전자·SK하이닉스·마이크론의 시장 점유율을 공격적으로 빼앗을 가능성은 낮다고 본다. 창신메모리는 그동안 PC·스마트폰·가전용 D램에 주력해왔고 고난도 기술인 서버용 D램...",
+          "src": "머니투데이",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/366/0001197755?sid=102",
-          "img": "https://biz.chosun.com/resizer/v2/NTPEDL5CL5FF7INPXJ4YYBAY3Q.jpg?auth=bb5815cee29c83f34ddacd445f6d9bf588e845772c3d43b1a6007618d87ec6af&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/008/0005426041?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101409381791373_1.jpg"
         },
         {
           "title": "10월 2주 주요 제조업 전망",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
         },
         {
-          "title": "삼성전자, 'KES 2026' 참가...AI 가전·갤럭시 폴드8 체험 공간 마련",
-          "desc": "삼성전자가 13일부터 16일까지 나흘간 서울 삼성동 코엑스에서 열리는 'KES 2026(한국전자전)'에 참가해... 세탁부터 건조까지 한 번에 처리하는 일체형 세탁건조기 '비스포크 AI 콤보'는 세탁물 상태를 자동 감지해 세탁...",
-          "src": "koreareport",
-          "date": "10/13",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53605",
-          "img": "https://cdn.koreareport.co.kr/news/photo/202610/53605_56631_4351.jpg"
-        },
-        {
-          "title": "갤럭시의 삼성 vs 홈로봇의 LG… AI 가전·미래 기술 총출동",
-          "desc": "삼성, 폴드8·비스포크 AI 일상 혁신 LG, 스마트공장·데이터센터도 소개 삼성전자와 LG전자가 국내 최대 전자... 세탁기 모터 기술을 발전시킨 로봇 관절용 구동장치 ‘악시움’도 공개했다. AI 데이터센터의 발열을...",
+          "title": "Z폴드8·비스포크 AI 총출동… 삼성전자, KES 2026서 일상 속 AI 제시",
+          "desc": "서울 코엑스에서 열린 'KES 2026(한국전자전)' 삼성전자관에서 삼성전자 모델이 압도적인 화질과 뛰어난 색... 세탁건조기 '비스포크 AI 콤보'의 'AI 맞춤+' 기능을 직접 체험할 수 있다. 또한 사용자와의 대화를 통해 TV...",
           "src": "서울신문",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/081/0003688702?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/10/14/SSC_20261014002309_O2.jpg"
+          "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523652",
+          "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523652_485584_1059.jpg"
+        },
+        {
+          "title": "불붙는 'AI홈' 대전…LG, 25억대 애플 생태계 업고 삼성 맞선다",
+          "desc": "삼성전자와 비교하면 차이가 더 선명하다. 삼성은 갤럭시 스마트폰과 갤럭시 워치를 비롯해 TV와 냉장고·세탁기·에어컨까지 직접 만든다. 이 제품들을 '스마트싱스'에 묶어 사용자의 위치와 생활 패턴에 따라 가전을...",
+          "src": "아주경제",
+          "date": "10/14",
+          "url": "https://www.ajunews.com/view/20261014094214503",
+          "img": "https://image.ajunews.com/content/image/2026/10/14/20261014095138772442.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"슈퍼 AI 에이전트 금융권 새 고객 접점 된다\"",
-          "desc": "인공지능(AI) 기술의 발전으로 '슈퍼 AI 에이전트'가 분야별 전문 AI 에이전트들에게 지시를 내려 업무를... AI 활용도 단순 정보 검색을 넘어 상품 발견·비교·추천·구매 결정으로 이어지는 소비자 구매 여정 전체로...",
-          "src": "아시아타임즈",
+          "title": "KG스틸, 소둔로 AI 사용율 80% 이상 확대 추진",
+          "desc": "AI 예측제어 기술 도입 이후 최근 1년간 LNG 사용량 약 400천 Nm³를 줄여 약 4억원의 비용을 절감했다. 향후 AI... 소둔로 AI 사용률을 80% 이상으로 확대하고, 향후 AI 적용이 가능한 유사 공정으로 활용 범위를 확대할...",
+          "src": "헤럴드경제",
           "date": "10/14",
-          "url": "https://www.asiatime.co.kr/article/20261008500352",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/08/.cache/512/20261008500351.png"
+          "url": "https://n.news.naver.com/mnews/article/016/0002709052?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/14/news-p.v1.20261014.c1f32567fc174f10976d3a06190926e9_P1.jpg"
         },
         {
-          "title": "자율주행 대중교통 도입·지하주차장 800면 확충…인천시, 미래 모빌리...",
-          "desc": "서비스 도입을 본격화한다. □ 내년부터 AI 기반 자율주행 대중교통 본격 추진…BRT·영종·송도 투입... 통해 기술적 안전성과 행정 실효성을 검증할 방침이다. 박성순 인천시 교통정책국장은 \"자율주행 추진을 위한...",
-          "src": "cstimes",
+          "title": "동아ST, 부산대병원과 스마트병동 구축···AI·웨어러블 해상의료 시스...",
+          "desc": "솔루션과 기술을 제공한다. 피플앤드테크놀러지는 의료기기와 시스템의 도입·설치·운영을 지원한다. 동아에스티와 부산대병원, 메쥬는 AI·웨어러블 의료기기를 활용한 해상의료 지원시스템도 공동개발한다. 원양선박...",
+          "src": "globale",
           "date": "10/14",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=723840",
-          "img": "https://www.cstimes.com/news/photo/202610/723840_645003_300.jpg"
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41032",
+          "img": "https://cdn.globale.co.kr/news/thumbnail/202610/41032_68064_5218_v150.jpg"
         },
         {
-          "title": "부산 ‘블록체인·AI 디지털금융 허브’ 날개",
-          "desc": "블록체인과 AI를 활용한 디지털금융 기술 연구와 기업 지원을 전담하는 전국 최초의 연구센터다. 센터는... 기업이 새로운 기술을 도입하거나 금융서비스에 적용하려면 기술 검증과 전문인력 확보가 필수적이지만, 개별...",
-          "src": "segye",
+          "title": "[강기윤 창원시장 인터뷰] \"일자리가 곧 복지…제조도시 다음 50년 준비...",
+          "desc": "시내버스 노사 갈등과 NC 다이노스 연고지 문제, 진해해양공원 짚트랙 활용방안 등 시민의 관심이 큰 현안을... 제조현장으로 AI 기반 자율제조 모델을 확산할 계획이다. 개별 기업의 기술 도입을 넘어 지역 제조업 전반의...",
+          "src": "view",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/022/0004166490?sid=102",
-          "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005828237?sid=102",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026100810232854720_1791422608.jpg"
         },
         {
-          "title": "공장서 골목까지… 천안 ‘AI 전환’ 잰걸음",
-          "desc": "시민이 기술을 배우는 거점도 마련된다. 천안은 6월 AI 라운지 운영 사업의 충청권 대상지로 선정됐다. 봉명동 도시재생 거점 공간을 활용해 시민에게 AI 체험과 교육 기회를 제공하고 지역대학·기업과 연계한...",
-          "src": "segye",
+          "title": "[패트롤]경북도-경북교육청-경북연구원-한국국학진흥원",
+          "desc": "이번 포럼에서는 신라 천년의 역사와 불교문화 등 경북의 문화자산을 인공지능(AI)과 디지털 기술에 접목해... 디지털·AI, 지역과 세계, 역사·문화 등 4개 분야별 논의를 통해 지역 문화자산의 산업적 활용 가능성을...",
+          "src": "ekn",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/022/0004166489?sid=102",
-          "img": "https://www.segye.com/content/image/2026/10/13/20261013524505.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261014025115915",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261014.ec7ca820104547eebe335d810fb6d0f8_R.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[단독] 삼성 테일러 효과…韓 기업 300곳 텍사스로, 협력사 145곳 입지 검...",
-          "desc": "삼성전자 첨단 파운드리(반도체 위탁생산) 공장 가동이 임박한 미국 텍사스주 테일러시 일대에 한국... 중이며, 삼성 파운드리 공급망과 연계된 한국 협력사만 약 145곳이 중부 텍사스 지역 입지를 유력하게 검토하고...",
-          "src": "the-today",
+          "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개",
+          "desc": "용인 국가산단에는 약 70개 소재·부품·장비 및 팹리스 기업이 입주할 예정이다. 삼성전자는 제조와 연구개발, 협력사를 연결하는 반도체 생태계를 구축한다는 구상이다. 도로·교통·주거 등 생활 인프라...",
+          "src": "한국경제",
           "date": "10/14",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=91672",
-          "img": "https://cdn.the-today.com/news/photo/202610/91672_113143_925.png"
+          "url": "https://n.news.naver.com/mnews/article/015/0005342318?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/01.46046363.1.gif"
         },
         {
-          "title": "[반도체 인재리포트⑤] ‘대기업 쏠림’에 흔들리는 소부장 생태계",
-          "desc": "반도체 업계에서는 삼성전자와 SK하이닉스가 대표적이다. 하지만 반도체 산업 경쟁력은 대기업 역량만으로 완성되지 않는다. 그들을 뒷받침하는 수많은 협력사들이 함께 크고, 유기적으로 맞물릴 때 산업 생태계도...",
-          "src": "브릿지경제",
+          "title": "삼성전자, 360조 투입 '용인 반도체 클러스터' 청사진 공개",
+          "desc": "산단에는 약 70개 소재·부품·장비(소부장) 및 팹리스 기업이 입주할 예정이다. 반도체 제조와 연구개발... 삼성전자는 1981년 협력사 협의체인 ‘협성회’를 창립한 이후 45년간 협력사와의 동반성장을 추진해...",
+          "src": "이데일리",
           "date": "10/14",
-          "url": "https://www.viva100.com/article/20261013500310",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/12/.cache/512/20261012501249.jpg?v=20261014061753"
+          "url": "https://n.news.naver.com/mnews/article/018/0006387616?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101400471.jpg"
         },
         {
-          "title": "삼성전자, 반도체 협력사 5만8000명에 감사 행사",
-          "desc": "협력사 기술 고도화를 위한 인프라 제공도 이어가고 있다. 삼성전자는 2023년부터 첨단 공정으로 제작한 ‘패턴 웨이퍼’ 3192장을 국내 소부장(소재, 부품, 장비) 기업 94곳에 연구개발용으로 지원했다. 올 한 해...",
-          "src": "동아일보",
+          "title": "삼성전자, SEDEX서 360조원 투자 '용인 국가산단' 비전 제시…\"2029년 첫...",
+          "desc": "소재·부품·장비 및 팹리스 기업이 입주해 유기적인 반도체 생태계를 구축할 예정이다. '상생협력존'을 통해 자금·기술·인력·교육 등 다양한 협력사 지원 프로그램과 동반성장 성과를 공개한다. 삼성전자는...",
+          "src": "아주경제",
           "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/020/0003754748?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/13/134835229.4.jpg"
+          "url": "https://www.ajunews.com/view/20261014084248170",
+          "img": "https://image.ajunews.com/content/image/2026/10/14/20261014085043929783.png"
         },
         {
-          "title": "10월 2주 주요 제조업 전망",
-          "desc": "AX 기술이 적용된 등대 공장을 구축하고, 인근 9개 협력사에 기술을 확산할 계획임. 앵커기업인... 경우 삼성전자·SK하이닉스보다 앞설 수 있단 전망이 나옴 - D램의 구조는 데이터를 담는 수십~수백억 개의 셀로...",
-          "src": "laborplus",
-          "date": "10/13",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41633",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
+          "title": "삼성전자, 반도체대전서 AI 메모리 솔루션 선보여...생산·상생협력 비전...",
+          "desc": "산단에는 약 70개 소재·부품·장비 및 팹리스 기업이 입주할 예정이다. 상생협력존에서는 협력사 대상 자금·기술·인력·교육 지원 프로그램을 소개한다. 삼성전자는 1981년 협력사 협의체 '협성회'를 설립한...",
+          "src": "파이낸셜뉴스",
+          "date": "10/14",
+          "url": "https://n.news.naver.com/mnews/article/014/0005588895?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/14/202610141004023288_e.gif"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[단독] ‘대우전자’ 법인 200만원에 공매… 위니아전자 파산에 매각",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197755?sid=102",
-      "img": "https://biz.chosun.com/resizer/v2/NTPEDL5CL5FF7INPXJ4YYBAY3Q.jpg?auth=bb5815cee29c83f34ddacd445f6d9bf588e845772c3d43b1a6007618d87ec6af&width=1200&height=630&smart=true"
+      "title": "中 CXMT 충격파 이틀째 월가 \"삼전닉스 위협 제한적…반응 과도해\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005426041?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101409381791373_1.jpg"
     },
     {
       "title": "10월 2주 주요 제조업 전망",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.laborplus.co.kr/news/photo/202610/41633_74418_2617.jpg"
     },
     {
-      "title": "삼성전자, 'KES 2026' 참가...AI 가전·갤럭시 폴드8 체험 공간 마련",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53605",
-      "img": "https://cdn.koreareport.co.kr/news/photo/202610/53605_56631_4351.jpg"
+      "title": "Z폴드8·비스포크 AI 총출동… 삼성전자, KES 2026서 일상 속 AI 제시",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523652",
+      "img": "https://cdn.ilyoseoul.co.kr/news/photo/202610/523652_485584_1059.jpg"
     },
     {
-      "title": "갤럭시의 삼성 vs 홈로봇의 LG… AI 가전·미래 기술 총출동",
-      "url": "https://n.news.naver.com/mnews/article/081/0003688702?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/10/14/SSC_20261014002309_O2.jpg"
+      "title": "불붙는 'AI홈' 대전…LG, 25억대 애플 생태계 업고 삼성 맞선다",
+      "url": "https://www.ajunews.com/view/20261014094214503",
+      "img": "https://image.ajunews.com/content/image/2026/10/14/20261014095138772442.jpg"
     },
     {
-      "title": "\"슈퍼 AI 에이전트 금융권 새 고객 접점 된다\"",
-      "url": "https://www.asiatime.co.kr/article/20261008500352",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/08/.cache/512/20261008500351.png"
+      "title": "KG스틸, 소둔로 AI 사용율 80% 이상 확대 추진",
+      "url": "https://n.news.naver.com/mnews/article/016/0002709052?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/14/news-p.v1.20261014.c1f32567fc174f10976d3a06190926e9_P1.jpg"
     },
     {
-      "title": "자율주행 대중교통 도입·지하주차장 800면 확충…인천시, 미래 모빌리...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=723840",
-      "img": "https://www.cstimes.com/news/photo/202610/723840_645003_300.jpg"
+      "title": "동아ST, 부산대병원과 스마트병동 구축···AI·웨어러블 해상의료 시스...",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=41032",
+      "img": "https://cdn.globale.co.kr/news/thumbnail/202610/41032_68064_5218_v150.jpg"
     }
   ]
 };
