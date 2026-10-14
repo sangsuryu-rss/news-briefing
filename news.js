@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.14 (수) 22:45",
+  "updatedAt": "2026.10.15 (목) 03:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "아이폰 비싸진 이유 있었다…'품귀'에 10배 급등",
-          "desc": "삼성전자가 3분기 역대 최대인 107조 원 영업이익을 기록했지만, 모바일과 가전 사업부는 2분기 첫 적자를 기록한 데 이어 3분기도 1조 원대 적자를 낸 것으로 추정됩니다. 최근엔 반도체 장비, 소재 공급 기업들까지...",
-          "src": "news",
-          "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/055/0001395510?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20261014/202231486_1280.jpg"
+          "title": "[모듈러주택 녹색전환] 스마트홈과 모듈러의 결합…정부, 삼성·LG 손잡...",
+          "desc": "삼성전자는 태양광 패널, 에너지 저장 시스템(ESS), 고효율 가전 제품이 통합된 에너지 관리 체계를 선보였으며, 스마트싱스 에너지를 통해 태양광 발전과 전력 사용량을 실시간으로 모니터링·제어할 수 있는 점을...",
+          "src": "cbci",
+          "date": "10/15",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615433",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/615433_422796_1356_v150.jpg"
         },
         {
           "title": "[미리보는 이데일리 신문]지금도 오픈런·점심 40분 대기…은행, 언제 가...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
         },
         {
-          "title": "삼성전자, KES 2026서 AI 가전·갤럭시 신제품 공개···구독 서비스도...",
-          "desc": "삼성전자가 인공지능(AI)을 적용한 가전제품과 갤럭시 신제품을 한자리에서 선보이며 일상생활 전반으로 AI... 생활가전 분야에서는 냉장고와 세탁건조기, TV 등에 적용된 AI 기능을 집중적으로 소개한다. '비스포크 AI...",
-          "src": "enewstoday",
-          "date": "10/14",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480096",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2480096_1324416_3121_v150.jpg"
+          "title": "삼성전자, AI 가전·모바일·헬스 서비스 확대…히트펌프 사업 본격화",
+          "desc": "삼성전자가 인공지능(AI)을 적용한 가전·모바일·헬스 서비스를 확대하는 동시에 히트펌프를 활용한 주거... '비스포크 AI 패밀리허브' 냉장고는 내부 카메라로 식재료를 인식·관리하고, 일체형 세탁건조기 '비스포크...",
+          "src": "webeconomy",
+          "date": "10/15",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2333852",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2333852_1143590_816.jpg"
         },
         {
-          "title": "가전 수익 고민 커진 삼성…인도 성수기 수요에 기대",
-          "desc": "대규모 할인 행사를 진행하면서 TV와 냉장고, 세탁기 등 상대적으로 가격이 높은 제품에 대한 소비자 관심도 커진다. 삼성전자 입장에서는 성수기 수요를 활용해 가전 판매를 늘릴 수 있는 기회다.삼성전자는 인도를...",
-          "src": "asiatoday",
-          "date": "10/14",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004371",
-          "img": "https://img.asiatoday.co.kr/file/2026y/10m/15d/2026101401000820500043711.jpg"
+          "title": "대형 가전도 구독 시대...\"실속형 소비 트렌드로\"",
+          "desc": "구독경제 시장이 점점 커지는 가운데, 세탁기와 에어컨 같은 대형 가전의 소비패턴도 소유에서 구독으로... 주자인 삼성전자 역시 올해 구독 매출 1조 원 돌파를 눈앞에 두고 있습니다. [이성호 / LG전자 구독마케팅2팀 팀장...",
+          "src": "ytn",
+          "date": "10/15",
+          "url": "https://n.news.naver.com/mnews/article/052/0002418861?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/1015/202610150123564236_t.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "고양시, 퇴원환자 중간집 운영…지역사회 복귀 지원 강화",
-          "desc": "AI 기술을 활용한 돌봄 서비스도 도입 대상에 포함됐다. '고양온돌-서로이음'은 대상자 가정에 AI 돌봄 로봇을 설치해 낙상 예방 체조와 인지자극 활동, 복약 알림 등을 지원하는 서비스다. 카메라로 움직임을 감지해 낙상...",
-          "src": "CNB뉴스",
-          "date": "10/14",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018957",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1018957_521148_857.jpg"
+          "title": "GC녹십자, LG CNS와 'AI 스마트팩토리' 구축…2030년 자율운영 전환",
+          "desc": "기능을 도입한다. 문제가 발생한 뒤 대응하는 방식에서 벗어나 데이터를 활용해 이상 가능성을 미리 파악함으로써 생산 안정성과 운영 효율을 함께 높이겠다는 것이다. 품질관리 업무에도 자동화 기술을 적용한다....",
+          "src": "apnews",
+          "date": "10/15",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052090",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052090_85520_3751_v150.jpg"
         },
         {
-          "title": "식품진흥원, 4개 기업지원시설 제조공정 데이터 통합관리",
-          "desc": "데이터에 AI 이상탐지 등 지능형 관제 기능을 단계적으로 도입할 예정이다. 장기적으로는 데이터를 수집... 데이터와 AI 기술을 적극 활용해 식품기업의 기술 경쟁력을 높이고, 국가식품클러스터가 미래 식품산업 혁신의...",
-          "src": "youngnong",
-          "date": "10/14",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71016",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202610/71016_61085_485.jpg"
+          "title": "LG유플러스, AI 고객서비스·통신 데이터 활용 확대…디지털 접근성 강...",
+          "desc": "처리하는 AI 기능을 도입하고, 매장 방문이 어려운 지역에는 이동형 상담 차량을 운영한다. 아울러 산악 조난자 수색 범위를 줄이는 통신 데이터 분석 기술도 실증했으며, 고객 제안을 상품·서비스에 반영한 마케팅...",
+          "src": "webeconomy",
+          "date": "10/15",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2334205",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2334205_1143932_4930.jpg"
         },
         {
-          "title": "고양시, 글로벌 AI 허브 유치전 본격화…정부 공모 대응 착수",
-          "desc": "킨텍스의 국제회의 시설과 광역교통망, 기존 업무 공간 등을 활용해 국제기구가 곧바로 활동할 수 있다는... 국제기구 파견 인력이 상주하면서 국내외 산·학·연 기관과 공동으로 개발도상국의 AI 도입을 지원하는 역할을...",
-          "src": "CNB뉴스",
-          "date": "10/14",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019215",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1019215_521438_5049.png"
+          "title": "\"스팀보다 1.8배 빠르다\" 에픽, 새 런처 프리뷰 공개",
+          "desc": "- 에픽게임즈, 14일 새 PC 런처 프리뷰 배포 및 리눅스 첫 공식 지원 - AI 도구 활용해 전면 재설계…구동 속도... 게임별 상태와 실행 제어, 추가 콘텐츠를 한 화면에 모은 전용 페이지를 도입하고 실시간 검색·필터와...",
+          "src": "inven",
+          "date": "10/15",
+          "url": "https://m.sports.naver.com/esports/article/442/0000197731",
+          "img": "https://static.inven.co.kr/column/2026/10/15/news/i1902410280.png"
         },
         {
-          "title": "가스공사, CEO 주도 AI 전환으로 업무혁신 가속",
-          "desc": "이번 TF는 공사가 축적해 온 업무지식과 데이터, 정보시스템을 체계적으로 분석하고 AI 활용 가능성을 발굴해 실질적인 업무혁신 성과를 창출하기 위해 구성됐다. 특히 단순한 AI 기술 도입에 머물지 않고 업무수행...",
-          "src": "kdpress",
-          "date": "10/14",
-          "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209289",
-          "img": "https://cdn.kdpress.co.kr/news/photo/202610/209289_135075_244.jpg"
+          "title": "‘출산율 대신 삶의 질’ 인구정책 대전환",
+          "desc": "인공지능(AI) 등 첨단기술 기반 제품·서비스를 뜻하는 에이지 테크(Age-Tech) 기반의 청년 돌봄 전문인력 양성도 제시됐다. 청년들의 디지털 친화성을 살려 AI·로봇 등을 활용하는 전문인력을 양성해 청년 일자리를...",
+          "src": "kmib",
+          "date": "10/15",
+          "url": "https://n.news.naver.com/mnews/article/005/0001878781?sid=102",
+          "img": "https://image.kmib.co.kr/online_image/2026/1015/01100201.20261014502010.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "아이폰 비싸진 이유 있었다…'품귀'에 10배 급등",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395510?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20261014/202231486_1280.jpg"
+      "title": "[모듈러주택 녹색전환] 스마트홈과 모듈러의 결합…정부, 삼성·LG 손잡...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615433",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/615433_422796_1356_v150.jpg"
     },
     {
       "title": "[미리보는 이데일리 신문]지금도 오픈런·점심 40분 대기…은행, 언제 가...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
     },
     {
-      "title": "삼성전자, KES 2026서 AI 가전·갤럭시 신제품 공개···구독 서비스도...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480096",
-      "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2480096_1324416_3121_v150.jpg"
+      "title": "삼성전자, AI 가전·모바일·헬스 서비스 확대…히트펌프 사업 본격화",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2333852",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2333852_1143590_816.jpg"
     },
     {
-      "title": "가전 수익 고민 커진 삼성…인도 성수기 수요에 기대",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004371",
-      "img": "https://img.asiatoday.co.kr/file/2026y/10m/15d/2026101401000820500043711.jpg"
+      "title": "대형 가전도 구독 시대...\"실속형 소비 트렌드로\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002418861?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/1015/202610150123564236_t.jpg"
     },
     {
-      "title": "고양시, 퇴원환자 중간집 운영…지역사회 복귀 지원 강화",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018957",
-      "img": "https://cdn.cnbnews.com/news/photo/202610/1018957_521148_857.jpg"
+      "title": "GC녹십자, LG CNS와 'AI 스마트팩토리' 구축…2030년 자율운영 전환",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052090",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052090_85520_3751_v150.jpg"
     },
     {
-      "title": "식품진흥원, 4개 기업지원시설 제조공정 데이터 통합관리",
-      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71016",
-      "img": "https://cdn.youngnong.co.kr/news/photo/202610/71016_61085_485.jpg"
+      "title": "LG유플러스, AI 고객서비스·통신 데이터 활용 확대…디지털 접근성 강...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2334205",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2334205_1143932_4930.jpg"
     }
   ]
 };
