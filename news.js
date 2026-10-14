@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.15 (목) 03:39",
+  "updatedAt": "2026.10.15 (목) 08:15",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[모듈러주택 녹색전환] 스마트홈과 모듈러의 결합…정부, 삼성·LG 손잡...",
-          "desc": "삼성전자는 태양광 패널, 에너지 저장 시스템(ESS), 고효율 가전 제품이 통합된 에너지 관리 체계를 선보였으며, 스마트싱스 에너지를 통해 태양광 발전과 전력 사용량을 실시간으로 모니터링·제어할 수 있는 점을...",
-          "src": "cbci",
+          "title": "[Who Is ?] 조용철 농심 대표이사 사장",
+          "desc": "삼성전자 생활가전사업부 리빙제품 글로벌 사업담당과 태국법인장으로 근무했다. 2019년 농심에 마케팅부문장 전무로 합류했다. 2022년 농심 부사장으로 승진했다. 2024년 농심 영업부문장을 맡았다. 2026년 농심...",
+          "src": "비즈니스포스트",
           "date": "10/15",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615433",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/615433_422796_1356_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449014",
+          "img": ""
         },
         {
-          "title": "[미리보는 이데일리 신문]지금도 오픈런·점심 40분 대기…은행, 언제 가...",
-          "desc": "냉장고·로봇청소기도 해킹”…커지는 스마트홈 리스크 △인구정책 대전환 -연봉 4000만원 ‘노인 돌봄’... 2만곳 연결…전력 유통시장 승부” -유승현 휴롬 품질본부장, 산업부장관 표창 △오피니언 -삼성전자...",
-          "src": "이데일리",
-          "date": "10/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006388102?sid=102",
-          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+          "title": "[더벨][신일전자 톺아보기] 곳간에 쌓인 '552억', 신사업 투자 '미흡'",
+          "desc": "브러시 모터를 개발해 진공청소기를 생산하기도 했다. 이후 세탁기와 비데, 김치냉장고 등을 개발하며... 가전업계 관계자는 \"중국 업체들의 공세로 중견 가전업체는 물론 삼성전자와 LG전자 등 대형 업체들도 상당한...",
+          "src": "더벨",
+          "date": "10/15",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610121552524880105983",
+          "img": ""
         },
         {
           "title": "삼성전자, AI 가전·모바일·헬스 서비스 확대…히트펌프 사업 본격화",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2333852_1143590_816.jpg"
         },
         {
-          "title": "대형 가전도 구독 시대...\"실속형 소비 트렌드로\"",
-          "desc": "구독경제 시장이 점점 커지는 가운데, 세탁기와 에어컨 같은 대형 가전의 소비패턴도 소유에서 구독으로... 주자인 삼성전자 역시 올해 구독 매출 1조 원 돌파를 눈앞에 두고 있습니다. [이성호 / LG전자 구독마케팅2팀 팀장...",
-          "src": "ytn",
+          "title": "로봇청소기로 한국시장 문 연 중국…이젠 ‘생활가전 전체’ 노린다",
+          "desc": "▲삼성전자 로봇청소기/사진=삼성전자 제공 ◇ 로봇청소기 ‘성공 공식’ 품목으로 중국 가전이 한국 시장에서 가능성을 확인한 곳은 로봇청소기다. 국내 로봇청소기 시장은 2021년 2000억원대에서 올해 1조원 규모로...",
+          "src": "socialvalue",
           "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/052/0002418861?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/1015/202610150123564236_t.jpg"
+          "url": "https://www.socialvalue.kr/news/view/1065599137911670",
+          "img": "http://www.socialvalue.kr/news/data/20261014/p1065599137911670_623_thum.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "GC녹십자, LG CNS와 'AI 스마트팩토리' 구축…2030년 자율운영 전환",
-          "desc": "기능을 도입한다. 문제가 발생한 뒤 대응하는 방식에서 벗어나 데이터를 활용해 이상 가능성을 미리 파악함으로써 생산 안정성과 운영 효율을 함께 높이겠다는 것이다. 품질관리 업무에도 자동화 기술을 적용한다....",
-          "src": "apnews",
+          "title": "\"은행원 수천 명을 AI 개발자로\"…日, 사무·영업직 대전환",
+          "desc": "AI의 발전으로 전문적인 프로그래밍 지식이 없는 직원도 AI 시스템을 개발할 수 있게 되면서다. AI 도입으로... 그동안 은행 직원들은 사무직과 영업직, 기술직으로 나뉘어 업무를 수행했다. 그러나 생성형 AI를 활용하면...",
+          "src": "한국경제",
           "date": "10/15",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052090",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052090_85520_3751_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005342706?sid=104",
+          "img": "https://img.hankyung.com/photo/202610/01.46059010.1.png"
         },
         {
-          "title": "LG유플러스, AI 고객서비스·통신 데이터 활용 확대…디지털 접근성 강...",
-          "desc": "처리하는 AI 기능을 도입하고, 매장 방문이 어려운 지역에는 이동형 상담 차량을 운영한다. 아울러 산악 조난자 수색 범위를 줄이는 통신 데이터 분석 기술도 실증했으며, 고객 제안을 상품·서비스에 반영한 마케팅...",
-          "src": "webeconomy",
+          "title": "카카오 ‘모두의 AI’, 외부 기업·개발자 연결해 개방형 AI 생태계 구축",
+          "desc": "외부 기술 기업과 개인 개발자가 각자의 특화 AI를 등록하고 활용할 수 있는 플랫폼을 구축할 계획이라고... 2027년부터는 개인 맞춤형 비서인 ‘1인 1에이전트’ 체제를 단계적으로 도입할 계획이다. 이용자가 대화를 통해...",
+          "src": "byline",
           "date": "10/15",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2334205",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2334205_1143932_4930.jpg"
+          "url": "https://byline.network/?p=9004111222623309",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/10/kakao-5.jpg"
         },
         {
-          "title": "\"스팀보다 1.8배 빠르다\" 에픽, 새 런처 프리뷰 공개",
-          "desc": "- 에픽게임즈, 14일 새 PC 런처 프리뷰 배포 및 리눅스 첫 공식 지원 - AI 도구 활용해 전면 재설계…구동 속도... 게임별 상태와 실행 제어, 추가 콘텐츠를 한 화면에 모은 전용 페이지를 도입하고 실시간 검색·필터와...",
-          "src": "inven",
+          "title": "델, 기업용 AI 데이터 플랫폼 개편…정보 활용체계 고도화",
+          "desc": "업무 활용도를 높이겠다는 구상이다. 델 테크놀로지스는 15일 기업용 AI 데이터 플랫폼의 기능을 확대하고 데이터 검색과 분석, 관리체계를 통합하는 기술을 도입한다고 밝혔다. 델 AI 데이터 플랫폼 [사진=델...",
+          "src": "discoverynews",
           "date": "10/15",
-          "url": "https://m.sports.naver.com/esports/article/442/0000197731",
-          "img": "https://static.inven.co.kr/column/2026/10/15/news/i1902410280.png"
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104075",
+          "img": "https://cdn.discoverynews.kr/news/thumbnail/202610/1104075_1148056_658_v150.jpg"
         },
         {
-          "title": "‘출산율 대신 삶의 질’ 인구정책 대전환",
-          "desc": "인공지능(AI) 등 첨단기술 기반 제품·서비스를 뜻하는 에이지 테크(Age-Tech) 기반의 청년 돌봄 전문인력 양성도 제시됐다. 청년들의 디지털 친화성을 살려 AI·로봇 등을 활용하는 전문인력을 양성해 청년 일자리를...",
-          "src": "kmib",
+          "title": "애플, 12월 중국서 AI 서비스 출시 추진…신형 시리는 제외",
+          "desc": "방식을 도입하는 것이다. 또 다른 중국 기술기업인 바이두와도 검색 및 시리 관련 기능을 공동 개발하고 있다. 이러한 협력은 중국 정부의 승인 요건을 충족하는 동시에 현지 이용자에게 적합한 AI 서비스를 제공하기...",
+          "src": "g-enews",
           "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/005/0001878781?sid=102",
-          "img": "https://image.kmib.co.kr/online_image/2026/1015/01100201.20261014502010.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026101508030883169a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261015080503014799a1f30943117511616074.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"더 잘하겠습니다\"… K반도체 '양강' 출동",
+          "desc": "올해 전시회는 메모리반도체(이하 메모리)와 시스템반도체, 소재·부품·장비 등과 관련한 300여개 기업이... 삼성전자는 2029년 10월 첫 생산라인 가동을 목표로 한다. 협력사 지원 프로그램과 동반성장 성과를 집약한...",
+          "src": "머니투데이",
+          "date": "10/15",
+          "url": "https://n.news.naver.com/mnews/article/008/0005426483?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101419572561050_1.jpg"
+        },
         {
           "title": "이재용 日 체류 중 삼성 핵심 경영진 도쿄행...반도체 현안·협력 논의 ...",
           "desc": "삼성전자는 지난달 8일 일본 요코하마에 첨단 패키징 연구개발 거점인 '어드밴스드 패키지 랩(APL)'을 열었다. 2024년부터 5년간 약 400억엔을 투자해 현지 소재·부품·장비 기업 및 연구기관과 고대역폭메모리(HBM) 등...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/14",
           "url": "https://n.news.naver.com/mnews/article/008/0005426407?sid=101",
           "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101415484054610_1.jpg"
-        },
-        {
-          "title": "[현장] \"HBM4E부터 360조 산단까지\"…'SEDEX 2026'서 격돌한 K-반도체 초...",
-          "desc": "올해 전시는 메모리와 파운드리, 소부장(소재·부품·장비) 전 분야에 걸쳐 300여 개 기업이 참가해 역대 최대 규모인 888개 부스를 꾸렸다. 현장에는 송재혁 삼성전자 최고기술책임자(CTO) 사장과 안현 SK하이닉스...",
-          "src": "인더스트리뉴스",
-          "date": "10/14",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87535",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202610/87535_108569_3644.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[모듈러주택 녹색전환] 스마트홈과 모듈러의 결합…정부, 삼성·LG 손잡...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615433",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202610/615433_422796_1356_v150.jpg"
-    },
-    {
-      "title": "[미리보는 이데일리 신문]지금도 오픈런·점심 40분 대기…은행, 언제 가...",
-      "url": "https://n.news.naver.com/mnews/article/018/0006388102?sid=102",
-      "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
-    },
-    {
       "title": "삼성전자, AI 가전·모바일·헬스 서비스 확대…히트펌프 사업 본격화",
       "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2333852",
       "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2333852_1143590_816.jpg"
     },
     {
-      "title": "대형 가전도 구독 시대...\"실속형 소비 트렌드로\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002418861?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/1015/202610150123564236_t.jpg"
+      "title": "로봇청소기로 한국시장 문 연 중국…이젠 ‘생활가전 전체’ 노린다",
+      "url": "https://www.socialvalue.kr/news/view/1065599137911670",
+      "img": "http://www.socialvalue.kr/news/data/20261014/p1065599137911670_623_thum.jpg"
     },
     {
-      "title": "GC녹십자, LG CNS와 'AI 스마트팩토리' 구축…2030년 자율운영 전환",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052090",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052090_85520_3751_v150.jpg"
+      "title": "\"은행원 수천 명을 AI 개발자로\"…日, 사무·영업직 대전환",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342706?sid=104",
+      "img": "https://img.hankyung.com/photo/202610/01.46059010.1.png"
     },
     {
-      "title": "LG유플러스, AI 고객서비스·통신 데이터 활용 확대…디지털 접근성 강...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2334205",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2334205_1143932_4930.jpg"
+      "title": "카카오 ‘모두의 AI’, 외부 기업·개발자 연결해 개방형 AI 생태계 구축",
+      "url": "https://byline.network/?p=9004111222623309",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/10/kakao-5.jpg"
+    },
+    {
+      "title": "델, 기업용 AI 데이터 플랫폼 개편…정보 활용체계 고도화",
+      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104075",
+      "img": "https://cdn.discoverynews.kr/news/thumbnail/202610/1104075_1148056_658_v150.jpg"
+    },
+    {
+      "title": "애플, 12월 중국서 AI 서비스 출시 추진…신형 시리는 제외",
+      "url": "https://www.g-enews.com/view.php?ud=2026101508030883169a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261015080503014799a1f30943117511616074.jpg"
     }
   ]
 };
