@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.16 (금) 02:04",
+  "updatedAt": "2026.10.16 (금) 06:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
-          "desc": "14일 삼성전자는 베트남 하노이 ‘비즈니스 익스피리언스 스튜디오(BES)’에서 태국, 베트남, 싱가포르 등 동남아 주요국 미디어를 초청해 가전 테크세미나 ‘더 브리프(The Brief)’를 열었다. BES는 삼성전자가 8월...",
-          "src": "동아일보",
+          "title": "다시 車·가전으로…내후년까지 메모리 수급 '비상등' [칩플레이션③]",
+          "desc": "인공지능(AI)발 칩플레이션의 파고가 스마트폰과 PC에 이어 소프트웨어 중심 자동차(SDV)와 생활가전 등 전방... 시장조사업체 S&P 글로벌 모빌리티에 따르면 지난해 차량용 D램 생산의 약 90%를 마이크론과 삼성전자...",
+          "src": "조선일보",
           "date": "10/16",
-          "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171673",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171673_454302_175_v150.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.8c335d83f1114fa4878ad1a04052424d_P1.png"
         },
         {
-          "title": "삼성·LG 주도 북미 백색가전 시장, 한·미·중·유럽 ‘4파전’ 격화",
-          "desc": "현재 미국 냉장고·세탁기 시장은 하이얼(GE어플라이언스)과 미국 월풀의 양강 구도 속에 삼성전자와 LG전자, 일렉트로룩스가 치열한 점유율 경쟁을 벌이고 있다. 여기에 메이디가 일렉트로룩스와의 합작을 지렛대 삼아...",
-          "src": "munhwa",
-          "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/021/0002825464?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/10/15/news-p.v1.20261015.18ab655ed8dd4cf0ad126afc13e509ab_R.png"
+          "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
+          "desc": "14일 삼성전자는 베트남 하노이 ‘비즈니스 익스피리언스 스튜디오(BES)’에서 태국, 베트남, 싱가포르 등 동남아 주요국 미디어를 초청해 가전 테크세미나 ‘더 브리프(The Brief)’를 열었다. BES는 삼성전자가 8월...",
+          "src": "동아일보",
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "쓰레기 매립장이 생태정원으로…울산, 2028 국제정원박람회 밑그림 공개",
-          "desc": "AI 정원 시험장에는 자동 물 공급 시설과 식물 생육 센서, 관리 로봇 등을 도입한다. 실제 정원에서 기술을... 오염된 땅을 다시 활용하는 방안을 논의하는 국제학술회의도 추진한다. 조직위는 박람회가 끝난 뒤에도...",
-          "src": "mhns",
+          "title": "비뇨의학회 \"신기술·복합제, 필요한 환자에 급여 길 열어야\"",
+          "desc": "이날 방우진 이사는 요로결석 수술에 사용하는 모세스(MOSES) 레이저가 국내에 도입된 지 6년이 지났지만, 전용 일회용 광섬유에 대한 별도 보상이 없어 현장에서 활용하기 어렵다고 지적했다. 모세스 기술은 레이저...",
+          "src": "bosa",
           "date": "10/16",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764349",
-          "img": "https://cdn.mhns.co.kr/news/thumbnail/202610/764349_899331_5738_v150.jpg"
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014020",
+          "img": "https://cdn.bosa.co.kr/news/photo/202610/3014020_414964_4910.jpg"
         },
         {
-          "title": "두나무, 글로벌 온체인 금융 인프라 확대 추진…AI 시장분석·투자자 보...",
-          "desc": "인공지능(AI)을 활용한 시장정보 서비스와 투자자 보호 체계를 강화하고 있다. 15일 웹이코노미 취재 등을... 관련 기술을 소개했다고 밝혔다. 오경석 두나무 대표는 9월 30일 발표에서 한국이 글로벌 디지털 금융...",
-          "src": "webeconomy",
+          "title": "[AI 프리즘] \"AI가 인간보다 관계 더 잘 관리\"…고객 상시 감시 시대 오...",
+          "desc": "미국 실리콘밸리의 한 스타트업이 기업 고객의 활동을 지속적으로 추적하고 분석하는 AI 에이전트 기술을... 데이터를 활용하고 있다. AI 에이전트의 도입은 이러한 정보 수집과 분석 과정을 한층 자동화하는 방향으로...",
+          "src": "wikileaks-kr",
           "date": "10/16",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336018",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336018_1145812_2310.jpg"
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193310",
+          "img": ""
         },
         {
-          "title": "\"기술보다 첫 고객이 어렵다\", 대전서 나온 딥테크 창업 조건",
-          "desc": "스튜디오 도입, 공공기관의 실증 및 첫 구매 지원 등이 제시됐다. 정부출연연구기관 연구자가 기업 지원에... 인재를 활용하면서 기술을 고도화하고 사업을 확장할 가능성을 확인했다고 했다. 출연연 연구자의 기업 지원...",
-          "src": "platum",
+          "title": "\"모델보다 데이터 연결…韓기업 AI전환 성패 가른다\"[인터뷰]",
+          "desc": "어떤 기술과 API로 다른 시스템을 참조할 것인지가 준비돼 있어야 한다”고 설명했다. 박 대표는 한국 기업의 에이전틱 AI 도입이 PoC(개념검증)를 넘어 실제 업무 적용으로 이어지는 사례가 늘고 있다고 평가했다. 고객...",
+          "src": "이데일리",
           "date": "10/16",
-          "url": "https://platum.kr/archives/296382",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/4-1-1024x683.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006389044?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101600175.jpg"
         },
         {
-          "title": "현대차, 인도 푸네 신공장 준공…2032년까지 155억달러 투자",
-          "desc": "공장에는 인공지능(AI) 기반 품질검사 시스템과 용접 로봇 200여대 등을 도입했다. 현대차의 인도 연간... 전기모터를 활용한 승차감·주행 안정성 개선 기술과 실내 전력공급 기능도 적용했다. 현대차그룹은 2008년...",
-          "src": "webeconomy",
+          "title": "[김학도 칼럼] 청년 취업의 '잃어버린 출발선', 중기에서 되찾아야",
+          "desc": "어떤 기술로 제품을 만들고, 어떤 일을 배우고, 어떤 경력을 만들 수 있는 기업인지를 세세히 보여줄 수 있어야 한다. 구인기업과 구직자 간 일대일 맞춤형 채용과 취업을 연계해 주는 ‘AI를 활용한 인력매칭시스템’...",
+          "src": "아주경제",
           "date": "10/16",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2335193",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2335193_1144988_1617.jpeg"
+          "url": "https://www.ajunews.com/view/20261014142230498",
+          "img": "https://image.ajunews.com/content/image/2025/03/12/20250312171631673363.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "ZDNet코리아",
           "date": "10/15",
           "url": "https://n.news.naver.com/mnews/article/092/0002441146?sid=105",
-          "img": ""
+          "img": "https://image.zdnet.co.kr/2026/07/03/fe11e9f49eb73f1c1da0ee8154275fb1.png"
         },
         {
           "title": "메모리값 급등에 도미노 '직격탄'…PC·스마트폰 이어 부품업계까지",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
+      "title": "다시 車·가전으로…내후년까지 메모리 수급 '비상등' [칩플레이션③]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171673",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171673_454302_175_v150.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.8c335d83f1114fa4878ad1a04052424d_P1.png"
     },
     {
-      "title": "삼성·LG 주도 북미 백색가전 시장, 한·미·중·유럽 ‘4파전’ 격화",
-      "url": "https://n.news.naver.com/mnews/article/021/0002825464?sid=101",
-      "img": "https://wimg.munhwa.com/news/cms/2026/10/15/news-p.v1.20261015.18ab655ed8dd4cf0ad126afc13e509ab_R.png"
+      "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
     },
     {
-      "title": "쓰레기 매립장이 생태정원으로…울산, 2028 국제정원박람회 밑그림 공개",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764349",
-      "img": "https://cdn.mhns.co.kr/news/thumbnail/202610/764349_899331_5738_v150.jpg"
+      "title": "비뇨의학회 \"신기술·복합제, 필요한 환자에 급여 길 열어야\"",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014020",
+      "img": "https://cdn.bosa.co.kr/news/photo/202610/3014020_414964_4910.jpg"
     },
     {
-      "title": "두나무, 글로벌 온체인 금융 인프라 확대 추진…AI 시장분석·투자자 보...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336018",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336018_1145812_2310.jpg"
+      "title": "\"모델보다 데이터 연결…韓기업 AI전환 성패 가른다\"[인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006389044?sid=105",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101600175.jpg"
     }
   ]
 };
