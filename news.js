@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.15 (목) 20:34",
+  "updatedAt": "2026.10.16 (금) 02:04",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[뉴스인사이드 뉴스톡톡] '검은 목요일'…코스피·코스닥, 7% 폭락 外",
-          "desc": "삼성전자, 동남아 AI가전·공조 공략…B2B 매출 20%↑ 삼성전자가 14일 베트남 하노이에서 가전 테크세미나를 열고 인공지능 냉장고와 공조 솔루션을 선보였습니다. 냉장고 내부 식재료를 인식하는 AI 비전과 에너지...",
-          "src": "뉴스인사이드",
-          "date": "10/15",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5025238",
-          "img": "https://cdn.newsinside.kr/news/photo/202610/5025238_941552_3134.jpg"
+          "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
+          "desc": "14일 삼성전자는 베트남 하노이 ‘비즈니스 익스피리언스 스튜디오(BES)’에서 태국, 베트남, 싱가포르 등 동남아 주요국 미디어를 초청해 가전 테크세미나 ‘더 브리프(The Brief)’를 열었다. BES는 삼성전자가 8월...",
+          "src": "동아일보",
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "롯데·GS·LGD 등 대기업 '생성형 AI 검문소' 세운다",
-          "desc": "솔루션을 도입 중인 것으로 확인됐다. 챗GPT, 제미나이 등 AI를 활용한 업무가 잦아지면서 주요 정보가 AI 질문창(프롬프트)을 통해 유출될 우려가 커졌기 때문이다. 최강호 안랩클라우드메이트 최고기술책임자(CTO)는...",
-          "src": "thelec",
-          "date": "10/15",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=63786",
-          "img": "https://cdn.thelec.kr/news/photo/202610/63786_50169_250.png"
+          "title": "쓰레기 매립장이 생태정원으로…울산, 2028 국제정원박람회 밑그림 공개",
+          "desc": "AI 정원 시험장에는 자동 물 공급 시설과 식물 생육 센서, 관리 로봇 등을 도입한다. 실제 정원에서 기술을... 오염된 땅을 다시 활용하는 방안을 논의하는 국제학술회의도 추진한다. 조직위는 박람회가 끝난 뒤에도...",
+          "src": "mhns",
+          "date": "10/16",
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764349",
+          "img": "https://cdn.mhns.co.kr/news/thumbnail/202610/764349_899331_5738_v150.jpg"
         },
         {
-          "title": "건강검진 결과지 접어 서랍에... 이건 미처 몰랐다",
-          "desc": "입원을 앞둔 사람에게 긴 동의서와 기술 설명을 읽고 모든 위험을 판단하라고 요구하기는 어렵다.... 우선 공공재정이 투입되는 의료 데이터 연구와 AI 사업부터, 활용 목적과 자료의 범위, 책임기관, 결과를 시민이 이해할...",
-          "src": "ohmynews",
-          "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/047/0002532371?sid=102",
-          "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1012/A0003274582_T.jpg"
+          "title": "두나무, 글로벌 온체인 금융 인프라 확대 추진…AI 시장분석·투자자 보...",
+          "desc": "인공지능(AI)을 활용한 시장정보 서비스와 투자자 보호 체계를 강화하고 있다. 15일 웹이코노미 취재 등을... 관련 기술을 소개했다고 밝혔다. 오경석 두나무 대표는 9월 30일 발표에서 한국이 글로벌 디지털 금융...",
+          "src": "webeconomy",
+          "date": "10/16",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336018",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336018_1145812_2310.jpg"
         },
         {
-          "title": "휴로틱스, 250억원 시리즈A 투자 유치…대웅·네이버·롯데 합류로 웨어...",
-          "desc": "로봇 기술의 활용 범위가 산업 현장을 넘어 의료 재활과 일상생활로 확대되고... 등에 도입됐다. 지난 6월에는 미국 일리노이대학교 시카고(UIC)에 수출돼 뇌졸중 환자의...",
-          "src": "venturesquare",
-          "date": "10/15",
-          "url": "https://www.venturesquare.net/1120296/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/MEDI-2.png"
+          "title": "\"기술보다 첫 고객이 어렵다\", 대전서 나온 딥테크 창업 조건",
+          "desc": "스튜디오 도입, 공공기관의 실증 및 첫 구매 지원 등이 제시됐다. 정부출연연구기관 연구자가 기업 지원에... 인재를 활용하면서 기술을 고도화하고 사업을 확장할 가능성을 확인했다고 했다. 출연연 연구자의 기업 지원...",
+          "src": "platum",
+          "date": "10/16",
+          "url": "https://platum.kr/archives/296382",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/10/4-1-1024x683.jpg"
         },
         {
-          "title": "[기고] 이차전지 산업의 '구조 전환기' 지역이 준비할 것은 결국 사람이...",
-          "desc": "장비와 시설, 기술과 자본이 아무리 중요하더라도 이를 이해하고 운용하며 개선할 전문 인재가 없다면 산업 생태계는 지속될 수 없다. 한국폴리텍Ⅳ대학 대전캠퍼스 전기전자제어과의 이차전지 전공 도입은 단순한...",
-          "src": "뉴스핌",
-          "date": "10/15",
-          "url": "https://www.newspim.com/news/view/20261015001300",
-          "img": "https://img.newspim.com/news/2025/10/29/2510291918239000_t1.jpg"
+          "title": "현대차, 인도 푸네 신공장 준공…2032년까지 155억달러 투자",
+          "desc": "공장에는 인공지능(AI) 기반 품질검사 시스템과 용접 로봇 200여대 등을 도입했다. 현대차의 인도 연간... 전기모터를 활용한 승차감·주행 안정성 개선 기술과 실내 전력공급 기능도 적용했다. 현대차그룹은 2008년...",
+          "src": "webeconomy",
+          "date": "10/16",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2335193",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2335193_1144988_1617.jpeg"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "ZDNet코리아",
           "date": "10/15",
           "url": "https://n.news.naver.com/mnews/article/092/0002441146?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/03/fe11e9f49eb73f1c1da0ee8154275fb1.png"
+          "img": ""
         },
         {
           "title": "메모리값 급등에 도미노 '직격탄'…PC·스마트폰 이어 부품업계까지",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[뉴스인사이드 뉴스톡톡] '검은 목요일'…코스피·코스닥, 7% 폭락 外",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5025238",
-      "img": "https://cdn.newsinside.kr/news/photo/202610/5025238_941552_3134.jpg"
+      "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://wimg.munhwa.com/news/cms/2026/10/15/news-p.v1.20261015.18ab655ed8dd4cf0ad126afc13e509ab_R.png"
     },
     {
-      "title": "롯데·GS·LGD 등 대기업 '생성형 AI 검문소' 세운다",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63786",
-      "img": "https://cdn.thelec.kr/news/photo/202610/63786_50169_250.png"
+      "title": "쓰레기 매립장이 생태정원으로…울산, 2028 국제정원박람회 밑그림 공개",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764349",
+      "img": "https://cdn.mhns.co.kr/news/thumbnail/202610/764349_899331_5738_v150.jpg"
     },
     {
-      "title": "건강검진 결과지 접어 서랍에... 이건 미처 몰랐다",
-      "url": "https://n.news.naver.com/mnews/article/047/0002532371?sid=102",
-      "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1012/A0003274582_T.jpg"
+      "title": "두나무, 글로벌 온체인 금융 인프라 확대 추진…AI 시장분석·투자자 보...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336018",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336018_1145812_2310.jpg"
     }
   ]
 };
