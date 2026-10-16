@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.16 (금) 22:16",
+  "updatedAt": "2026.10.17 (토) 03:05",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[비즈투데이] 삼성 3종·LG 1종, 타임지 '최고의 발명품'",
-          "desc": "삼성전자 갤럭시 S26 울트라와 비스포크 인공지능 패밀리허브 냉장고, 오디세이 G8 게이밍 모니터가 미국... LG전자 무선 월페이퍼 TV 'LG 시그니처 올레드 W'도 올해 가전제품 부문 최고 발명품에 선정됐습니다.",
-          "src": "obsnews",
-          "date": "10/16",
-          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540774",
-          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540774_739736_4949_v150.jpg"
+          "title": "“미국도 인정한 삼성의 기술력”…세계 최고 발명품에 오른 ‘이 제품...",
+          "desc": "美타임지에 선정된 삼성전자 제품 세 가지는 15일(현지시간) 타임이 발표한 ‘2026 최고의 발명품’에 따르면 삼성전자의 ‘갤럭시 S26 울트라’는 소비자 가전, ‘비스포크 AI 패밀리허브’ 냉장고는 생활가전...",
+          "src": "서울경제",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/011/0004672175?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/16/news-p.v1.20261016.c38c5d5070c84bdc9b922245c054b4b2_Z1.png"
         },
         {
           "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
         },
         {
-          "title": "이재용 삼성 회장, 중동 파견 임직원·가족에 격려 선물 전달...730명 대...",
-          "desc": "이재용 삼성전자 회장이 건설 현장을 둘러보고 임직원들을 격려하고 있다. (삼성전자 제공) 삼성전자... 플랜트 건설, 모바일·가전 등 IT 사업 협력을 추진하며 글로벌 사업을 이어가고 있다. 이코노미퀸 류정현 기자",
-          "src": "queen",
+          "title": "이재용 삼성 회장, 중동 직원 730명에 최대 500만원…국내 가족도 지원",
+          "desc": "사진 ai이미지생성 이재용 삼성전자 회장이 중동 지역의 불안정한 정세 속에서 근무하는 임직원들에게 특별... 인공지능 관련 시설 투자와 발전소 건설, 모바일 기기 및 가전제품 사업 등 여러 분야에서 협력이 진행되고...",
+          "src": "jemin",
           "date": "10/16",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=464862",
-          "img": "http://www.queen.co.kr/news/thumbnail/202610/464862_211759_938_v150.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844667",
+          "img": "https://cdn.jemin.com/news/thumbnail/202610/844667_432203_2248_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[현장] 한화솔루션, 전력사업 다각화 속도",
-          "desc": "한화큐셀은 관련 제도 도입을 전제로 2030년 국내 VPP 시장 진출을 목표로 제시한 것으로 알려졌다. 따라서... 유럽에서는 이탈리아 밀라노 거점을 활용해 고객사와의 기술 협력 및 공급망 확보에도 나서고 있다....",
-          "src": "kfenews",
-          "date": "10/16",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666440",
-          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666440_139848_2929_v150.jpg"
+          "title": "흔들린 군사분계선, 붕괴된 정전협정, 복원할 9.19남북군사합의서",
+          "desc": "그리고 그가 추진했던 사업의 특성상 보다 축척이 큰 지도가 필요했으므로 대축척 지도를 활용하였고... 따라서 선이 아니라 틀을 먼저 만들고 합의를 통한 봉합을 위해 기술적 정확성을 도입하는 것이 순서이다....",
+          "src": "tongilnews",
+          "date": "10/17",
+          "url": "http://www.tongilnews.com/news/articleView.html?idxno=217823",
+          "img": "https://cdn.tongilnews.com/news/thumbnail/202610/217823_118941_5552_v150.jpg"
         },
         {
-          "title": "[이슈] '흑자 AI' 인텔리빅스 코스닥行...로봇·국방·해외 진출로 성장...",
-          "desc": "인텔리빅스의 AI 기술은 공공, 산업, 교통, 국방 등 5000개 현장에 적용됐고, 전국 지자체의 68.5%가 도입했... 회사가 보유한 AI 영상분석 기술력을 활용해 방대한 CCTV 영상 속에서 원하는 장면을 실시간으로 찾아낼 수...",
-          "src": "paxetv",
-          "date": "10/16",
-          "url": "http://www.paxetv.com/news/articleView.html?idxno=284393",
-          "img": "http://www.paxetv.com/news/thumbnail/202610/284393_260005_622_v150.jpg"
+          "title": "아이돌 뺨치는 에이아이돌…K팝 미래엔 인간이 있을까",
+          "desc": "머무르는 앨범 소개글에 “본 앨범의 보컬은 Suno AI 기술을 통해 생성되었으며”라 명시했다. 6월 발매된 이... 한국음악저작권협회가 AI를 일부 활용한 곡에 대해서도 저작권 신탁 등록을 허용하는 방침을 도입하겠다...",
+          "src": "중앙일보",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056926?sid=103",
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/17/77848104-bc8e-4c60-9d43-949340b7441d.jpg"
         },
         {
-          "title": "HS효성더클래스, AI 기반 차량 점검 시스템 최초 도입",
-          "desc": "인공지능(AI) 기반 차량 스캔 시스템(XENTRY Vehicle Detector·이하 XVD)’를 국내 메르세데스-벤츠 공식 파트너사 중 최초로 도입했다. 이번 XVD 시스템 도입은 첨단 디지털 기술을 활용해 프리미엄 브랜드에 걸맞은 고객...",
-          "src": "동아일보",
-          "date": "10/16",
-          "url": "https://evlounge.donga.com/FOREV/3/all/20261016/134857441/3",
-          "img": "https://dimg.donga.com/wps/EVLOUNGE/IMAGE/2026/10/16/134857438.3.jpg"
+          "title": "[최지혜의 요즘 트렌드] 완벽함이 흔해진 시대, 휴먼엣지",
+          "desc": "통역, AI 홀로그램 진행자, 자동 영상 편집 기술 등을 도입했다. 기계가 업무 부담을 줄여준 만큼 전담... AI가 인간의 손길을 ‘대체(replace)’하기보다 정교하게 ‘보완(refine)’하는 수단으로 활용한 예다. 마지막은...",
+          "src": "한국경제",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/015/0005343509?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "aT, 농산물 가격조사 정확도 높이는 도구개발…AI 경진대회 우수상",
-          "desc": "업무에 AI를 적용한 성과를 발표하는 행사다. AI 프런티어는 aT가 올해 처음 도입한 AI 전문인력 양성... AI 챔피언은 행정안전부가 공공분야 직원을 대상으로 AI 기술을 활용한 실무 과제 수행 수준을 평가하여 수여하는...",
-          "src": "busan",
-          "date": "10/16",
-          "url": "https://n.news.naver.com/mnews/article/082/0001402826?sid=101",
-          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/10/16/2026101619454589831_l.JPG"
+          "title": "[미스터리경제] AI가 은행을 털었다?…5대 은행 노린 '보이지 않는 해커...",
+          "desc": "AI가 공격에 활용될 가능성이 커지는 시대일수록 금융사도 탐지와 대응 역량을 높여야 하는 게 당연하고요. 하지만 새로운 기술을 도입하는 것만큼 기본적인 보안 관리도 중요하겠죠. 결국 은행이 지켜야 할 가장 중요한...",
+          "src": "더팩트",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/629/0000542926?sid=101",
+          "img": "https://img.tf.co.kr/article/home/2026/10/16/202665221792123054.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[비즈투데이] 삼성 3종·LG 1종, 타임지 '최고의 발명품'",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540774",
-      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540774_739736_4949_v150.jpg"
+      "title": "“미국도 인정한 삼성의 기술력”…세계 최고 발명품에 오른 ‘이 제품...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672175?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/16/news-p.v1.20261016.c38c5d5070c84bdc9b922245c054b4b2_Z1.png"
     },
     {
       "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
     },
     {
-      "title": "이재용 삼성 회장, 중동 파견 임직원·가족에 격려 선물 전달...730명 대...",
-      "url": "http://www.queen.co.kr/news/articleView.html?idxno=464862",
-      "img": "http://www.queen.co.kr/news/thumbnail/202610/464862_211759_938_v150.jpg"
+      "title": "이재용 삼성 회장, 중동 직원 730명에 최대 500만원…국내 가족도 지원",
+      "url": "https://www.jemin.com/news/articleView.html?idxno=844667",
+      "img": "https://cdn.jemin.com/news/thumbnail/202610/844667_432203_2248_v150.jpg"
     },
     {
-      "title": "[현장] 한화솔루션, 전력사업 다각화 속도",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666440",
-      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666440_139848_2929_v150.jpg"
+      "title": "흔들린 군사분계선, 붕괴된 정전협정, 복원할 9.19남북군사합의서",
+      "url": "http://www.tongilnews.com/news/articleView.html?idxno=217823",
+      "img": "https://cdn.tongilnews.com/news/thumbnail/202610/217823_118941_5552_v150.jpg"
     },
     {
-      "title": "[이슈] '흑자 AI' 인텔리빅스 코스닥行...로봇·국방·해외 진출로 성장...",
-      "url": "http://www.paxetv.com/news/articleView.html?idxno=284393",
-      "img": "http://www.paxetv.com/news/thumbnail/202610/284393_260005_622_v150.jpg"
+      "title": "아이돌 뺨치는 에이아이돌…K팝 미래엔 인간이 있을까",
+      "url": "https://n.news.naver.com/mnews/article/353/0000056926?sid=103",
+      "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/17/77848104-bc8e-4c60-9d43-949340b7441d.jpg"
     }
   ]
 };
