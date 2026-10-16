@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.16 (금) 16:13",
+  "updatedAt": "2026.10.16 (금) 22:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이재용 회장, 중동 파견 임직원·가족에 격려 선물 전달",
-          "desc": "건설 ▲모바일·가전을 비롯한 정보기술(IT) 사업 협력 등 미래 먹거리를 발굴 및 육성 중입니다. 지난 2022년 12월 6일(현지 시각) 아랍에미리트(UAE)에 위치한 바라카 원자력 발전소 건설 현장에 방문한 이재용 삼성전자...",
-          "src": "inthenews",
+          "title": "[비즈투데이] 삼성 3종·LG 1종, 타임지 '최고의 발명품'",
+          "desc": "삼성전자 갤럭시 S26 울트라와 비스포크 인공지능 패밀리허브 냉장고, 오디세이 G8 게이밍 모니터가 미국... LG전자 무선 월페이퍼 TV 'LG 시그니처 올레드 W'도 올해 가전제품 부문 최고 발명품에 선정됐습니다.",
+          "src": "obsnews",
           "date": "10/16",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=93167",
-          "img": "https://www.inthenews.co.kr/data/photos/20261042/art_17921335243453_f9d0b2.jpg"
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540774",
+          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540774_739736_4949_v150.jpg"
         },
         {
           "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495530_481069_5949_v150.jpg"
         },
         {
-          "title": "\"중국산, 가성비 높아봐야\"… 삼성·LG, 프리미엄 가전 전략 '신뢰와 보...",
-          "desc": "중국 가전업체들이 가격 경쟁력을 앞세워 글로벌 시장 공략을 강화하는 가운데 삼성전자와 LG전자는 축적된... 실제 AI 냉장고는 식재료 정보를 관리하고 세탁기는 사용 패턴을 분석해 맞춤형 기능을 제공한다....",
-          "src": "mediapen",
+          "title": "[분양핫이슈] 20여 년 비어있던 메타폴리스 부지에 49층 하이퍼엔드 '아...",
+          "desc": "삼성전자 사업장을 오가는 셔틀버스 정류장도 단지 앞에 있어 직주근접을 선호하는 수요자들의 이동도... 다용도실은 세탁기와 건조기를 나란히 두고도 하부장을 놓을 만큼 여유 있게 꾸며졌다. 워크인 드레스룸. [사진...",
+          "src": "paxetv",
           "date": "10/16",
-          "url": "https://www.mediapen.com/news/view/1130467",
-          "img": "https://image.mediapen.com/news/202610/news_1130467_1792118718_m.jpg"
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=284401",
+          "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
         },
         {
-          "title": "삼성전자, 타임 '2026 최고의 발명품' 3개 제품 선정…LG유플러스, '네트...",
-          "desc": "삼성전자, 타임 '2026 최고의 발명품' 3개 제품 선정 삼성전자는 '갤럭시 S26 울트라'와 '비스포크 AI 패밀리허브' 냉장고, '오디세이 G8' 게이밍 모니터가 미국 시사주간지 타임(TIME)의 '2026 최고의 발명품'에 이름을...",
-          "src": "sisaon",
+          "title": "이재용 삼성 회장, 중동 파견 임직원·가족에 격려 선물 전달...730명 대...",
+          "desc": "이재용 삼성전자 회장이 건설 현장을 둘러보고 임직원들을 격려하고 있다. (삼성전자 제공) 삼성전자... 플랜트 건설, 모바일·가전 등 IT 사업 협력을 추진하며 글로벌 사업을 이어가고 있다. 이코노미퀸 류정현 기자",
+          "src": "queen",
           "date": "10/16",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205218",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202610/205218_307838_4245.jpg"
+          "url": "http://www.queen.co.kr/news/articleView.html?idxno=464862",
+          "img": "http://www.queen.co.kr/news/thumbnail/202610/464862_211759_938_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차증권, '트렌드코리아 2027' 특강 개최",
-          "desc": "바꾸면서 기술 도입을 넘어 조직과 일하는 방식의 변화에 대응하는 역량이 중요해지고 있다. 금융투자업계에서도 AI를 업무에 접목하고 임직원의 활용 역량을 높이려는 움직임이 이어지는 가운데 현대차증권이 미래...",
-          "src": "lcnews",
+          "title": "[현장] 한화솔루션, 전력사업 다각화 속도",
+          "desc": "한화큐셀은 관련 제도 도입을 전제로 2030년 국내 VPP 시장 진출을 목표로 제시한 것으로 알려졌다. 따라서... 유럽에서는 이탈리아 밀라노 거점을 활용해 고객사와의 기술 협력 및 공급망 확보에도 나서고 있다....",
+          "src": "kfenews",
           "date": "10/16",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209791",
-          "img": "https://cdn.lcnews.co.kr/news/photo/202610/209791_212760_843.jpg"
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666440",
+          "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666440_139848_2929_v150.jpg"
         },
         {
-          "title": "동남보건대 방사선학과 제41회 노송빛 학술제 개최.. '논문 14편 발표/동...",
-          "desc": "동남보건대 방사선학과는 2024년 도입한 AI 기반 다중검출기 컴퓨터단층촬영장치(MDCT)와 의료영상융합실습실 등 첨단 의료영상 장비를 활용해 이론과 임상실습을 연계한 현장중심형 교육과정을 운영하고 있다. 국내...",
-          "src": "veritas-a",
+          "title": "[이슈] '흑자 AI' 인텔리빅스 코스닥行...로봇·국방·해외 진출로 성장...",
+          "desc": "인텔리빅스의 AI 기술은 공공, 산업, 교통, 국방 등 5000개 현장에 적용됐고, 전국 지자체의 68.5%가 도입했... 회사가 보유한 AI 영상분석 기술력을 활용해 방대한 CCTV 영상 속에서 원하는 장면을 실시간으로 찾아낼 수...",
+          "src": "paxetv",
           "date": "10/16",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=632249",
-          "img": "https://cdn.veritas-a.com/news/thumbnail/202610/632249_546264_823_v150.jpg"
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=284393",
+          "img": "http://www.paxetv.com/news/thumbnail/202610/284393_260005_622_v150.jpg"
         },
         {
-          "title": "KISA, 보안사업 예산 35억3100만원 유지보수에 활용…시스템 절반 노후화",
-          "desc": "활용한 것으로 나타났다. 더불어민주당 김남국 국회의원(안산시갑)은 지난 15일 국회 과학기술정보방송... 사이에 도입된 시스템도 44개에 달했다. 향후 인공지능(AI) 기반 침해대응체계 확충에 따른 유지관리...",
-          "src": "shinailbo",
+          "title": "HS효성더클래스, AI 기반 차량 점검 시스템 최초 도입",
+          "desc": "인공지능(AI) 기반 차량 스캔 시스템(XENTRY Vehicle Detector·이하 XVD)’를 국내 메르세데스-벤츠 공식 파트너사 중 최초로 도입했다. 이번 XVD 시스템 도입은 첨단 디지털 기술을 활용해 프리미엄 브랜드에 걸맞은 고객...",
+          "src": "동아일보",
           "date": "10/16",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072652",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5072652_2070265_419.jpg"
+          "url": "https://evlounge.donga.com/FOREV/3/all/20261016/134857441/3",
+          "img": "https://dimg.donga.com/wps/EVLOUNGE/IMAGE/2026/10/16/134857438.3.jpg"
         },
         {
-          "title": "동남보건대 방사선학과 김승현 학생 대한방사선사협회 경기도회 국제학...",
-          "desc": "방사선기술 향상과 정보 교류를 통해 의료의 질을 높이자는 취지로 마련됐으며, 'Beyond: 지식의 깊이를... 동남보건대 방사선학과는 AI 기반 다중검출기 전산화단층스캐너(MDCT)를 새로 도입하고...",
-          "src": "veritas-a",
+          "title": "aT, 농산물 가격조사 정확도 높이는 도구개발…AI 경진대회 우수상",
+          "desc": "업무에 AI를 적용한 성과를 발표하는 행사다. AI 프런티어는 aT가 올해 처음 도입한 AI 전문인력 양성... AI 챔피언은 행정안전부가 공공분야 직원을 대상으로 AI 기술을 활용한 실무 과제 수행 수준을 평가하여 수여하는...",
+          "src": "busan",
           "date": "10/16",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=632248",
-          "img": "https://cdn.veritas-a.com/news/thumbnail/202610/632248_546263_718_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/082/0001402826?sid=101",
+          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/10/16/2026101619454589831_l.JPG"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
+          "desc": "16일 복수 업계 관계자에 따르면 애플이 여러 협력사에 아이폰 듀오 부품 생산량 확대를 요청했지만, 닛토보... 한편, 삼성전자의 올해 폴더블폰 출하량은 연말까지 700만대 중후반을 기록할 것으로 예상된다. 신제품과...",
+          "src": "ZDNet코리아",
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/092/0002441279?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/09/10/e4e0acf319fe1ac446ce07f7d4847274.png"
+        },
         {
           "title": "삼성·SK하이닉스, 중동 파견 임직원-가족에 격려 선물 전달·'ThanksFULL ...",
           "desc": "주요 협력사 구성원 및 가족 등을 초청한 행사를 열었다. 16일 삼성에 따르면 이재용 삼성전자 회장은 전쟁... 앞서 지난 7월에는 향후 5년간 1조4000억원 규모의 상생 자금을 활용해 반도체 소재ㆍ부품ㆍ장비 협력사...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "dealsite",
           "date": "10/16",
           "url": "https://dealsite.co.kr/articles/170817",
-          "img": ""
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/16/a7b9790455154a12bc4f502935bf71ab/thumb.png"
         },
         {
           "title": "반도체 특화단지·113조 삼성 투자…'e편한세상 시티 천안아산역'에 수...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/16",
           "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65893",
           "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/65893_89380_3954_v150.jpg"
-        },
-        {
-          "title": "53조 쏟아붓는 삼성의 美 승부수, 텍사스 들판서 2공장 '첫 삽' 채비",
-          "desc": "소재·부품·장비 협력사의 현지 사업에도 직접적인 파급 경로를 형성한다. 오스틴 비즈니스저널 \"추가 반도체 공장 착공 돌입\" 오스틴 비즈니스저널는 삼성전자가 텍사스 테일러에서 추가 반도체 제조 시설 착공을...",
-          "src": "g-enews",
-          "date": "10/16",
-          "url": "https://www.g-enews.com/view.php?ud=202610160828254695fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101608521608793fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -157,12 +157,12 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
         },
         {
-          "title": "韓·튀니지 자동차 산업협력 확대…현대차 현지 파트너·유라 등 가교 역...",
-          "desc": "와이어링 하네스와 전장·전자부품, 엔진 부품, 플라스틱·고무 등을 주로 생산하며 연간 수출액은 25억 달러를 웃돈다. 프랑스와 독일, 이탈리아 등 유럽 주요 자동차 생산국과도 인접해 있다. 앞서...",
+          "title": "티에이치엔, 카자흐 최대 車기업과 전장 생산기지 구축…현대차·기아 ...",
+          "desc": "티에이치엔은 와이어링 하네스와 자동차 전장부품을 주력으로 하는 현대차·기아 1차 협력사다. 중국과 베트남, 필리핀, 멕시코 등지에 생산망을 두고 현대차·기아 글로벌 공장에 제품을 공급하고 있다....",
           "src": "더구루",
-          "date": "10/13",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108178",
-          "img": "https://www.theguru.co.kr/data/photos/20261042/art_17918699164796_fe24c0.jpg"
+          "date": "09/16",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107137",
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         },
         {
           "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "이재용 회장, 중동 파견 임직원·가족에 격려 선물 전달",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=93167",
-      "img": "https://www.inthenews.co.kr/data/photos/20261042/art_17921335243453_f9d0b2.jpg"
+      "title": "[비즈투데이] 삼성 3종·LG 1종, 타임지 '최고의 발명품'",
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540774",
+      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1540774_739736_4949_v150.jpg"
     },
     {
       "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495530_481069_5949_v150.jpg"
     },
     {
-      "title": "\"중국산, 가성비 높아봐야\"… 삼성·LG, 프리미엄 가전 전략 '신뢰와 보...",
-      "url": "https://www.mediapen.com/news/view/1130467",
-      "img": "https://image.mediapen.com/news/202610/news_1130467_1792118718_m.jpg"
+      "title": "[분양핫이슈] 20여 년 비어있던 메타폴리스 부지에 49층 하이퍼엔드 '아...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=284401",
+      "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
     },
     {
-      "title": "삼성전자, 타임 '2026 최고의 발명품' 3개 제품 선정…LG유플러스, '네트...",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205218",
-      "img": "https://cdn.sisaon.co.kr/news/photo/202610/205218_307838_4245.jpg"
+      "title": "이재용 삼성 회장, 중동 파견 임직원·가족에 격려 선물 전달...730명 대...",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=464862",
+      "img": "http://www.queen.co.kr/news/thumbnail/202610/464862_211759_938_v150.jpg"
     },
     {
-      "title": "현대차증권, '트렌드코리아 2027' 특강 개최",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209791",
-      "img": "https://cdn.lcnews.co.kr/news/photo/202610/209791_212760_843.jpg"
+      "title": "[현장] 한화솔루션, 전력사업 다각화 속도",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666440",
+      "img": "https://cdn.kfenews.co.kr/news/thumbnail/202610/666440_139848_2929_v150.jpg"
     },
     {
-      "title": "동남보건대 방사선학과 제41회 노송빛 학술제 개최.. '논문 14편 발표/동...",
-      "url": "https://www.veritas-a.com/news/articleView.html?idxno=632249",
-      "img": "https://cdn.veritas-a.com/news/thumbnail/202610/632249_546264_823_v150.jpg"
+      "title": "[이슈] '흑자 AI' 인텔리빅스 코스닥行...로봇·국방·해외 진출로 성장...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=284393",
+      "img": "http://www.paxetv.com/news/thumbnail/202610/284393_260005_622_v150.jpg"
     }
   ]
 };
