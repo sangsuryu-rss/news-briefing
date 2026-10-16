@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.16 (금) 06:26",
+  "updatedAt": "2026.10.16 (금) 09:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "다시 車·가전으로…내후년까지 메모리 수급 '비상등' [칩플레이션③]",
-          "desc": "인공지능(AI)발 칩플레이션의 파고가 스마트폰과 PC에 이어 소프트웨어 중심 자동차(SDV)와 생활가전 등 전방... 시장조사업체 S&P 글로벌 모빌리티에 따르면 지난해 차량용 D램 생산의 약 90%를 마이크론과 삼성전자...",
-          "src": "조선일보",
+          "title": "[디깅노트] 반도체 잔칫집 옆 '문전냉락'된 KES",
+          "desc": "삼성전자 DS(반도체)부문이 차세대 메모리와 첨단 패키징 기술을 앞세워 미래 시장의 청사진을 펼칠 때 DX... LG전자 역시 가전 소비 둔화로 B2B(기업간거래)에 손을 뻗어 수익구조를 손질하고 있다. 한쪽은 밀려드는...",
+          "src": "블로터",
           "date": "10/16",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171673",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171673_454302_175_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000091672?sid=110",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/675757_289698_1746_v150.jpg"
         },
         {
           "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.8c335d83f1114fa4878ad1a04052424d_P1.png"
         },
         {
-          "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
-          "desc": "14일 삼성전자는 베트남 하노이 ‘비즈니스 익스피리언스 스튜디오(BES)’에서 태국, 베트남, 싱가포르 등 동남아 주요국 미디어를 초청해 가전 테크세미나 ‘더 브리프(The Brief)’를 열었다. BES는 삼성전자가 8월...",
-          "src": "동아일보",
+          "title": "[비즈&플러스] 삼성·LG 'AI 홈' 각축전‥SK는 '차세대 메모리'",
+          "desc": "삼성전자가 한국전자전에 선보인 비스포크AI패밀리허브 냉장고인데요. AI가 내부 세탁물 상태를 스스로 인식해 맞춤형으로 기능을 선택하는 비스포크AI콤보 세탁기, 사용자와 대화하며 방송 콘텐츠를 안내하는...",
+          "src": "imnews",
           "date": "10/16",
-          "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001529443?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/10/16/today_20261016_074208_2_37_Large.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "비뇨의학회 \"신기술·복합제, 필요한 환자에 급여 길 열어야\"",
-          "desc": "이날 방우진 이사는 요로결석 수술에 사용하는 모세스(MOSES) 레이저가 국내에 도입된 지 6년이 지났지만, 전용 일회용 광섬유에 대한 별도 보상이 없어 현장에서 활용하기 어렵다고 지적했다. 모세스 기술은 레이저...",
-          "src": "bosa",
+          "title": "\"가입설계 10건중 7건 AI가 처리\"…신한라이프, 'LICO 2.0'으로 영업 현장...",
+          "desc": "신한라이프가 생성형 AI 기술을 활용해 영업 현장의 가입설계 절차를 간소화하고 전반적인 업무 효율성을... LICO는 신한라이프가 지난 2월 도입한 자연어 처리 기반 가입설계 솔루션이다. 설계사가 고객 정보와...",
+          "src": "thefairnews",
           "date": "10/16",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014020",
-          "img": "https://cdn.bosa.co.kr/news/photo/202610/3014020_414964_4910.jpg"
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90881",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90881_137117_2323_v150.jpg"
         },
         {
-          "title": "[AI 프리즘] \"AI가 인간보다 관계 더 잘 관리\"…고객 상시 감시 시대 오...",
-          "desc": "미국 실리콘밸리의 한 스타트업이 기업 고객의 활동을 지속적으로 추적하고 분석하는 AI 에이전트 기술을... 데이터를 활용하고 있다. AI 에이전트의 도입은 이러한 정보 수집과 분석 과정을 한층 자동화하는 방향으로...",
-          "src": "wikileaks-kr",
+          "title": "에이아이매틱스, 운전자 스코어링 시스템 화물차로 공급 확대",
+          "desc": "교육에 활용할 수 있다(아래). | 서울=한스경제 김종효 기자 | 인공지능(AI) 영상인식 전문기업... 전국전세버스공제조합 자료에 따르면 시스템을 도입한 18개 운송사 차량 1077대의 2024년 하반기 보험금 지급액은...",
+          "src": "한스경제",
           "date": "10/16",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193310",
-          "img": ""
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873409",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873409_898199_45_v150.jpg"
         },
         {
-          "title": "\"모델보다 데이터 연결…韓기업 AI전환 성패 가른다\"[인터뷰]",
-          "desc": "어떤 기술과 API로 다른 시스템을 참조할 것인지가 준비돼 있어야 한다”고 설명했다. 박 대표는 한국 기업의 에이전틱 AI 도입이 PoC(개념검증)를 넘어 실제 업무 적용으로 이어지는 사례가 늘고 있다고 평가했다. 고객...",
-          "src": "이데일리",
+          "title": "대구시, 3,539억 투입 AI 승부수…수성알파시티 글로벌 혁신거점 도약",
+          "desc": "특히 AI 기술 도입에 어려움을 겪는 중소기업이 연구시설과 전문인력을 활용할 수 있도록 지원하고, 지역 기업의 참여 기회를 넓히는 것이 중요하다. 기업의 기술 수요를 반영한 연구과제와 현장 중심 교육을 확대하면...",
+          "src": "g-enews",
           "date": "10/16",
-          "url": "https://n.news.naver.com/mnews/article/018/0006389044?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101600175.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610160905214542d2e64277d7_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101608263709910d2e64277d711419955133.jpg"
         },
         {
-          "title": "[김학도 칼럼] 청년 취업의 '잃어버린 출발선', 중기에서 되찾아야",
-          "desc": "어떤 기술로 제품을 만들고, 어떤 일을 배우고, 어떤 경력을 만들 수 있는 기업인지를 세세히 보여줄 수 있어야 한다. 구인기업과 구직자 간 일대일 맞춤형 채용과 취업을 연계해 주는 ‘AI를 활용한 인력매칭시스템’...",
-          "src": "아주경제",
+          "title": "자원봉사 현장에 AI를 활용한다면",
+          "desc": "ⓒ 한국중앙자원봉사센터 은하투표 참여자 713명 가운데 96.2%는 AI를 활용하면 도움이 필요한 사람과 도움을 주고 싶은 사람을 더 잘 연결할 수 있다는 문항에 긍정적으로 답했다. 자원봉사 현장에 AI를 도입할 때는 기술...",
+          "src": "ohmynews",
           "date": "10/16",
-          "url": "https://www.ajunews.com/view/20261014142230498",
-          "img": "https://image.ajunews.com/content/image/2025/03/12/20250312171631673363.jpg"
+          "url": "https://n.news.naver.com/mnews/article/047/0002532389?sid=102",
+          "img": "https://ojsfile.ohmynews.com/CT_T_IMG/2026/1015/IE003684640_LT.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "'4분기 스마트폰 감산' 삼성전자, PCB 원재료 수급 차질",
-          "desc": "삼성전자 부품협력사 관계자 D는 \"예년이면 지금쯤 이미 삼성전자가 내년 스마트폰 사업계획을 협력사와 공유했어야 한다\"며 \"올해는 아직 내년 사업계획을 받지 못했다\"고 밝혔다. 그는 \"삼성전자 사업계획을 받지...",
-          "src": "ZDNet코리아",
-          "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/092/0002441146?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/07/03/fe11e9f49eb73f1c1da0ee8154275fb1.png"
+          "title": "53조 쏟아붓는 삼성의 美 승부수, 텍사스 들판서 2공장 '첫 삽' 채비",
+          "desc": "소재·부품·장비 협력사의 현지 사업에도 직접적인 파급 경로를 형성한다. 오스틴 비즈니스저널 \"추가 반도체 공장 착공 돌입\" 오스틴 비즈니스저널는 삼성전자가 텍사스 테일러에서 추가 반도체 제조 시설 착공을...",
+          "src": "g-enews",
+          "date": "10/16",
+          "url": "https://www.g-enews.com/view.php?ud=202610160828254695fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101608521608793fbbec65dfb211211153121.jpg"
         },
         {
-          "title": "메모리값 급등에 도미노 '직격탄'…PC·스마트폰 이어 부품업계까지",
+          "title": "AI가 결함 찾고 로봇 200대가 용접…현대차, 신공장 짓고 '세계 3위' 인도...",
+          "desc": "▶ 인터뷰 : 데벤드라 파드나비스 / 인도 마하라슈트라주 주총리 - \"자동차 협력사에만 1만8천 개의... LG전자는 오는 연말 3번째 공장 가동에 들어가고, 삼성전자도 세계 최대 스마트폰 생산기지를 운영하는 등 국내...",
+          "src": "MBN",
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/057/0001973726?sid=101",
+          "img": "http://img.vod.mbn.co.kr/vod2/605/2026/10/16/20261016080040_20_605_1431371_1080_7.jpg"
+        },
+        {
+          "title": "엑시노스 품은 울트라 '없던 일로'…메모리값 폭등에 PC·스마트폰 '충격...",
           "desc": "삼성전자 MX(모바일경험)사업부는 최근 협력사에 부품 납품량을 20~30% 줄여달라고 요청했다. 닛케이아시아에 따르면 애플 역시 최근 출시한 아이폰18 프로 등에 사용되는 일부 부품의 주문량을 15~20% 축소했다. 지난달...",
           "src": "머니투데이",
-          "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/008/0005426819?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101316114356741_1.jpg"
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/008/0005427224?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=780,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101522493126583_1.jpg"
         },
         {
-          "title": "삼성·SK 협력사 폼팩터·테라다인 맞손… HBM 불량 줄인다",
-          "desc": "삼성전자와 SK하이닉스의 협력사들이 차세대 반도체 테스트 기술 고도화를 위해 손을 맞잡았다. 고대역폭메모리(HBM) 경쟁력 강화에도 힘이 실릴 것으로 전망된다. 15일 업계에 따르면 반도체 테스트 부품 기업 폼팩터와...",
-          "src": "the-biz",
-          "date": "10/15",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729314",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202610/729314_935465_3131.jpg"
-        },
-        {
-          "title": "스톤브릿지캐피탈도 반도체 소부장 베팅… 포이스 1970억원에 인수",
-          "desc": "반도체 증착 공정에 쓰이는 화학물질인 전구체 이송장비 제조·판매가 주력으로, 삼성전자와 SK하이닉스를... 스톤브릿지캐피탈은 반도체 협력사 투자로 성과를 내기도 했다. 전자부품 기업 솔루엠이 대표적이다....",
-          "src": "조선일보",
-          "date": "10/15",
-          "url": "https://n.news.naver.com/mnews/article/366/0001198141?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/HSZAEODL65D47GU47LSZXVRRPY.jpg?auth=f5e4e673d3fd5d48b08144f6e1a99985649337dac180c137d0b0f6731d7a3a54&width=572&height=300&smart=true"
+          "title": "[비즈&플러스] 삼성·LG 'AI 홈' 각축전‥SK는 '차세대 메모리'",
+          "desc": "삼성전자와 LG전자, SK하이닉스가 차세대 제품을 선보이는 등, 두 달 앞으로 다가온 CES의 전초전을 벌이고... 협력사들도 함께 진출해 인도 매출이 50%가량 동반 상승 중이라고 합니다. [정의선/현대차 회장] \"동반 진출...",
+          "src": "imnews",
+          "date": "10/16",
+          "url": "https://n.news.naver.com/mnews/article/214/0001529443?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/10/16/today_20261016_074208_2_37_Large.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "다시 車·가전으로…내후년까지 메모리 수급 '비상등' [칩플레이션③]",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171673",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171673_454302_175_v150.jpg"
+      "title": "[디깅노트] 반도체 잔칫집 옆 '문전냉락'된 KES",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091672?sid=110",
+      "img": "https://cdn.bloter.net/news/thumbnail/202610/675757_289698_1746_v150.jpg"
     },
     {
       "title": "[TOP's Pick] [전자·IT] 삼성전자, '실리콘밸리 미래 통신 서밋 2026' 개최...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.8c335d83f1114fa4878ad1a04052424d_P1.png"
     },
     {
-      "title": "삼성전자, 동남아 기후 맞춘 AI 가전-공조 솔루션 공개",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755341?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/15/134849991.4.jpg"
+      "title": "[비즈&플러스] 삼성·LG 'AI 홈' 각축전‥SK는 '차세대 메모리'",
+      "url": "https://n.news.naver.com/mnews/article/214/0001529443?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/10/16/today_20261016_074208_2_37_Large.jpg"
     },
     {
-      "title": "비뇨의학회 \"신기술·복합제, 필요한 환자에 급여 길 열어야\"",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014020",
-      "img": "https://cdn.bosa.co.kr/news/photo/202610/3014020_414964_4910.jpg"
+      "title": "\"가입설계 10건중 7건 AI가 처리\"…신한라이프, 'LICO 2.0'으로 영업 현장...",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90881",
+      "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202610/90881_137117_2323_v150.jpg"
     },
     {
-      "title": "\"모델보다 데이터 연결…韓기업 AI전환 성패 가른다\"[인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389044?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101600175.jpg"
+      "title": "에이아이매틱스, 운전자 스코어링 시스템 화물차로 공급 확대",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873409",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873409_898199_45_v150.jpg"
     }
   ]
 };
