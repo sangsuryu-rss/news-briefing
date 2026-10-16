@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.17 (토) 03:05",
+  "updatedAt": "2026.10.17 (토) 06:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“미국도 인정한 삼성의 기술력”…세계 최고 발명품에 오른 ‘이 제품...",
-          "desc": "美타임지에 선정된 삼성전자 제품 세 가지는 15일(현지시간) 타임이 발표한 ‘2026 최고의 발명품’에 따르면 삼성전자의 ‘갤럭시 S26 울트라’는 소비자 가전, ‘비스포크 AI 패밀리허브’ 냉장고는 생활가전...",
-          "src": "서울경제",
+          "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
+          "desc": "삼성전자의 '갤럭시 XR' 체험 공간에서다. 오후 1시 40분 기준 18팀이 차례를 기다리고 있었다. 안내된 예상... 16일까지 서울 강남구 코엑스에서 열리는 '한국전자전(KES 2026)'에서는 인공지능(AI)이 가전과 자동차, 공장으로...",
+          "src": "ekn",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/011/0004672175?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/16/news-p.v1.20261016.c38c5d5070c84bdc9b922245c054b4b2_Z1.png"
+          "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+        },
+        {
+          "title": "[투데이온] 삼성 美 반도체 수장 \"공장 크기보다 남는 게 중요\"…테일러...",
+          "desc": "삼성전자의 미국 반도체 사업을 진두지휘하는 조상연 DS부문 미주총괄 사장이 반도체 제조 거점 투자의... 뉴베리 세탁기 가전공장과, 62만 명 이상의 청소년이 참여한 미국 내 대표 STEM 사회공헌 프로그램 '솔브 포...",
+          "src": "the-today",
+          "date": "10/17",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91882",
+          "img": "https://cdn.the-today.com/news/photo/202610/91882_113358_5941.png"
+        },
+        {
+          "title": "‘삼전’이 확인한 슈퍼사이클, ‘하닉’ 바통 잇는다[이상현의 전자수...",
+          "desc": "삼성전자 역시 반도체 부문의 호실적과 별개로 모바일·TV·생활가전 등 완제품 사업에서는 부품 가격 상승에 따른 원가 부담이 커졌을 것으로 추정된다. 시장에서는 AI 서버와 데이터센터 투자가 지속되고 메모리 공급...",
+          "src": "디지털타임스",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/029/0003053528?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/10/15/news-p.v1.20260906.843278dce3d946b087553dc70e924ced_R.png"
         },
         {
           "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/16",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495530",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495530_481069_5949_v150.jpg"
-        },
-        {
-          "title": "[분양핫이슈] 20여 년 비어있던 메타폴리스 부지에 49층 하이퍼엔드 '아...",
-          "desc": "삼성전자 사업장을 오가는 셔틀버스 정류장도 단지 앞에 있어 직주근접을 선호하는 수요자들의 이동도... 다용도실은 세탁기와 건조기를 나란히 두고도 하부장을 놓을 만큼 여유 있게 꾸며졌다. 워크인 드레스룸. [사진...",
-          "src": "paxetv",
-          "date": "10/16",
-          "url": "http://www.paxetv.com/news/articleView.html?idxno=284401",
-          "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
-        },
-        {
-          "title": "이재용 삼성 회장, 중동 직원 730명에 최대 500만원…국내 가족도 지원",
-          "desc": "사진 ai이미지생성 이재용 삼성전자 회장이 중동 지역의 불안정한 정세 속에서 근무하는 임직원들에게 특별... 인공지능 관련 시설 투자와 발전소 건설, 모바일 기기 및 가전제품 사업 등 여러 분야에서 협력이 진행되고...",
-          "src": "jemin",
-          "date": "10/16",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=844667",
-          "img": "https://cdn.jemin.com/news/thumbnail/202610/844667_432203_2248_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "흔들린 군사분계선, 붕괴된 정전협정, 복원할 9.19남북군사합의서",
-          "desc": "그리고 그가 추진했던 사업의 특성상 보다 축척이 큰 지도가 필요했으므로 대축척 지도를 활용하였고... 따라서 선이 아니라 틀을 먼저 만들고 합의를 통한 봉합을 위해 기술적 정확성을 도입하는 것이 순서이다....",
-          "src": "tongilnews",
+          "title": "비만약 급여부터 허가·재평가까지… 국감서 짚은 제약 현안",
+          "desc": "회사는 기술이전 후 피키아 파스토리스 발현 시스템을 활용해 100리터와 1000리터 규모로 효소를 생산할... 특히 생산시설별 특성에 맞는 자동화 설비를 도입하고, 제조 과정에서 발생하는 데이터를 AI로 분석해 공정...",
+          "src": "hitnews",
           "date": "10/17",
-          "url": "http://www.tongilnews.com/news/articleView.html?idxno=217823",
-          "img": "https://cdn.tongilnews.com/news/thumbnail/202610/217823_118941_5552_v150.jpg"
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79974",
+          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79974_108927_278_v150.jpg"
         },
         {
-          "title": "아이돌 뺨치는 에이아이돌…K팝 미래엔 인간이 있을까",
-          "desc": "머무르는 앨범 소개글에 “본 앨범의 보컬은 Suno AI 기술을 통해 생성되었으며”라 명시했다. 6월 발매된 이... 한국음악저작권협회가 AI를 일부 활용한 곡에 대해서도 저작권 신탁 등록을 허용하는 방침을 도입하겠다...",
-          "src": "중앙일보",
+          "title": "[종합] 심평원장 '공사 구분' 의혹…심사 신뢰까지 흔들",
+          "desc": "추진하는 AI 기반 심사체계에서는 기술 도입 속도와 정확성 검증 사이의 간극이 쟁점으로 떠올랐다.... AI 모델에 대한 현장 평가도 문제 삼았다. 내부 자료에는 심사기준 챗봇의 업무 활용이 어렵다는 의견과 AI가 선정한...",
+          "src": "medipana",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056926?sid=103",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/17/77848104-bc8e-4c60-9d43-949340b7441d.jpg"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=419479",
+          "img": "https://cdn.medipana.com/news/photo/202610/419479_326944_5456.jpg"
         },
         {
-          "title": "[최지혜의 요즘 트렌드] 완벽함이 흔해진 시대, 휴먼엣지",
-          "desc": "통역, AI 홀로그램 진행자, 자동 영상 편집 기술 등을 도입했다. 기계가 업무 부담을 줄여준 만큼 전담... AI가 인간의 손길을 ‘대체(replace)’하기보다 정교하게 ‘보완(refine)’하는 수단으로 활용한 예다. 마지막은...",
-          "src": "한국경제",
+          "title": "[인터뷰] 김종덕 이사장 “어민에 실질적 도움 줘야…결국 현장이 중요...",
+          "desc": "조성기법별 표준 과업지시서와 상세 설계도를 도입해 수심·암반·유속 등을 고려한 맞춤형 시공으로 해조류... 바다숲을 탄소흡수원으로 활용하기 위한 탄소거래 시범사업도 추진하고 있다. 공단은 올해 국비 예산을...",
+          "src": "데일리안",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005343509?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/119/0003143771?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792050348217_1702071_m_1.jpg"
         },
         {
-          "title": "[미스터리경제] AI가 은행을 털었다?…5대 은행 노린 '보이지 않는 해커...",
-          "desc": "AI가 공격에 활용될 가능성이 커지는 시대일수록 금융사도 탐지와 대응 역량을 높여야 하는 게 당연하고요. 하지만 새로운 기술을 도입하는 것만큼 기본적인 보안 관리도 중요하겠죠. 결국 은행이 지켜야 할 가장 중요한...",
-          "src": "더팩트",
+          "title": "\"탈탄소 위해 대규모 전력 필요\"…포스코, 원전 사업 추진 주목 [에너지...",
+          "desc": "포스코그룹이 철강 생산 체제 전반에서 탈(脫)탄소 생산 체제 구축을 위해 수소 환원 제철 기술 도입을... 포스코는 현재 철강 공정에서 발생하는 부생가스 등을 활용해 철강 생산에 필요한 전력의 약 90%를 자체 조달하고...",
+          "src": "뉴시스",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/629/0000542926?sid=101",
-          "img": "https://img.tf.co.kr/article/home/2026/10/16/202665221792123054.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014259346?sid=101",
+          "img": "https://img1.newsis.com/2026/09/16/NISI20260916_0021440269_web.jpg"
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "“미국도 인정한 삼성의 기술력”…세계 최고 발명품에 오른 ‘이 제품...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672175?sid=101",
-      "img": "https://wimg.sedaily.com/news/cms/2026/10/16/news-p.v1.20261016.c38c5d5070c84bdc9b922245c054b4b2_Z1.png"
+      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
+      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
+      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+    },
+    {
+      "title": "[투데이온] 삼성 美 반도체 수장 \"공장 크기보다 남는 게 중요\"…테일러...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=91882",
+      "img": "https://cdn.the-today.com/news/photo/202610/91882_113358_5941.png"
+    },
+    {
+      "title": "‘삼전’이 확인한 슈퍼사이클, ‘하닉’ 바통 잇는다[이상현의 전자수...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053528?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/10/15/news-p.v1.20260906.843278dce3d946b087553dc70e924ced_R.png"
     },
     {
       "title": "[현장] \"일상 속 AI\" 삼성 vs \"산업 속 AI\" LG…KES서 맞붙은 韓 전자 양...",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495530_481069_5949_v150.jpg"
     },
     {
-      "title": "[분양핫이슈] 20여 년 비어있던 메타폴리스 부지에 49층 하이퍼엔드 '아...",
-      "url": "http://www.paxetv.com/news/articleView.html?idxno=284401",
-      "img": "http://www.paxetv.com/news/thumbnail/202610/284401_260013_4625_v150.jpg"
+      "title": "비만약 급여부터 허가·재평가까지… 국감서 짚은 제약 현안",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79974",
+      "img": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79974_108927_278_v150.jpg"
     },
     {
-      "title": "이재용 삼성 회장, 중동 직원 730명에 최대 500만원…국내 가족도 지원",
-      "url": "https://www.jemin.com/news/articleView.html?idxno=844667",
-      "img": "https://cdn.jemin.com/news/thumbnail/202610/844667_432203_2248_v150.jpg"
-    },
-    {
-      "title": "흔들린 군사분계선, 붕괴된 정전협정, 복원할 9.19남북군사합의서",
-      "url": "http://www.tongilnews.com/news/articleView.html?idxno=217823",
-      "img": "https://cdn.tongilnews.com/news/thumbnail/202610/217823_118941_5552_v150.jpg"
-    },
-    {
-      "title": "아이돌 뺨치는 에이아이돌…K팝 미래엔 인간이 있을까",
-      "url": "https://n.news.naver.com/mnews/article/353/0000056926?sid=103",
-      "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/17/77848104-bc8e-4c60-9d43-949340b7441d.jpg"
+      "title": "[종합] 심평원장 '공사 구분' 의혹…심사 신뢰까지 흔들",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=419479",
+      "img": "https://cdn.medipana.com/news/photo/202610/419479_326944_5456.jpg"
     }
   ]
 };
