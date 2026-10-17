@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.17 (토) 09:31",
+  "updatedAt": "2026.10.17 (토) 15:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "중동 정세 불안 속…이재용, 현지 파견 임직원·가족 격려",
-          "desc": "이재용 삼성전자 회장이 중동 지역 정세 불안으로 어려움을 겪는 현지 파견 임직원과 가족들에게 격려... 등 에너지 플랜트 건설 사업, 모바일·가전 등 정보기술(IT) 분야 협력 사업을 추진하고 있다. 더퍼블릭",
-          "src": "thepublic",
+          "title": "삼성·LG, 美 타임 '올해 최고 발명품' 나란히 선정",
+          "desc": "삼성전자는 모바일·생활가전·게이밍 모니터 등 3개 부문을 석권. 소비자 가전 부문의 '갤럭시 S26 울트라'는 측면 시선을 차단하는 '프라이버시 디스플레이' 기술이 사생활 보호에 유연성을 더했다는 평가를 받아....",
+          "src": "news",
           "date": "10/17",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=322564",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/322564_326215_3558.jpg"
+          "url": "https://n.news.naver.com/mnews/article/648/0000051679?sid=101",
+          "img": ""
         },
         {
-          "title": "냉장고 온도가 50도 '펄펄'…무차별 해킹에 업계 비상",
-          "desc": "실제로 과거 아파트 월패드 해킹으로 사생활 영상이 외부에 유출되는 사건이 발생했으며, 일부 로봇청소기에서도 카메라 보안 문제가 제기된 바 있다. 지난달에는 삼성전자 일부 냉장고에서 잘못된 소프트웨어...",
-          "src": "wowtv",
+          "title": "우리집 냉장고는 안전할까?…프랑스 냉장설비 해킹에 커지는 불안감",
+          "desc": "과거 아파트 월패드 해킹으로 사생활 영상이 유출되면서 사회적 파장이 일었고, 일부 로봇청소기의 카메라 보안 취약점도 논란이 된 바 있다. 지난달에는 삼성전자 일부 냉장고에 소프트웨어 업데이트가 잘못 배포돼...",
+          "src": "jasm",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/215/0001269468?sid=105",
-          "img": ""
+          "url": "https://www.jasm.co.kr/news/view/321920/?sc=Naver",
+          "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1792211685_321920_m_1.jpg"
         },
         {
           "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "ekn",
           "date": "10/17",
           "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+          "img": ""
         },
         {
           "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 서류 맡고 공무원은 주민 곁으로…스마트빌리지 서밋이 그린 지방...",
-          "desc": "이어 \"따라서 중요한 것은 AI 기술을 얼마나 많이 도입하느냐가 아니라, 그 기술을 통해 지역 주민의 삶이... 그는 농어촌 돌봄과 지방 중소기업의 자동화, 행정의 반복 업무 경감을 활용 분야로 꼽았다. 더퍼블릭도 지역...",
-          "src": "thepublic",
+          "title": "인하공전, 'AI와 미래차 혁신' 세미나 개최",
+          "desc": "기술 발전의 속도를 언급하며, 실제 산업 현장에서 새로운 가치를 창출하는 주체는 사람임을 강조했다. 그는 그동안 변화하는 산업 환경에 적응할 수 있도록 교육에 힘썼으며, 앞으로는 AI를 적극적으로 활용해 산업...",
+          "src": "gukjenews",
           "date": "10/17",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=322599",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/322599_326262_3618.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724387",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3724387_3901269_829_v150.jpg"
         },
         {
-          "title": "은퇴해도 기술은 남는다…AI·로봇으로 부활하는 현장 명장의 '암묵지'",
-          "desc": "포스텍DX(022100)는 온톨로지(Ontology) 기반의 에이전틱 AI 기술을 앞세워 기업 현장의 암묵지 자산화에 나섰다.... 엔터프라이즈 AI 운영체제 '에이전트OS'를 보유한 스타트업이다. 이를 활용하면 숙련자의 비공식적 경험...",
-          "src": "thepublic",
+          "title": "AI의 '눈' VLM과 '미래 예측' 월드모델, 무엇이 다를까 [IT 백과]",
+          "desc": "피지컬 AI의 핵심 기술로 떠오르면서 두 기술의 강점을 결합하는 연구도 확대되고 있다. 두 모델은 모두 시각 정보를 활용하지만 역할은 다르다. VLM이 이미지와 영상 속 사물이나 주변 상황을 이해하는 데 강점이...",
+          "src": "디지털데일리",
           "date": "10/17",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=322520",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/322520_326166_5852.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002245067?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/17/2026101709232799068_l.jpg"
         },
         {
-          "title": "수출·협력 장애물 vs 기술·이익 보호…'K-톡신 국가핵심기술' 갑론을박",
-          "desc": "제품 기술’에 대해서는 국가핵심기술 해제 또는 네거티브 방식의 승인 패스트트랙 도입이 시급하며... 상업적으로 활용할 수 있는 수준까지 고도화한 기술력에 있다는 것이다. 또한 2014년 일부 적응증 관련 특허가...",
-          "src": "megaeconomy",
+          "title": "[봇규가 간다] The Next AI ② | ‘AI’는 어떻게 판단하나...카메라에 잡...",
+          "desc": "자체 모델 최적화 기술 ‘TC-Pruner’를 활용해 불필요한 데이터를 줄이고, 저사양 에지(Edge) 환경에서도... 피지컬 AI가 많이 도입되면서 교육계도 기존 제조 방식에 이를 어떻게 접목할지 고민하고 있다”며 “기본 기술...",
+          "src": "hellot",
           "date": "10/17",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579720563080",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261016/p1065579720563080_415_thum.png"
+          "url": "https://www.hellot.net/news/article.html?no=115566",
+          "img": "https://www.hellot.net/data/photos/20261042/art_17922067413493_27daba.jpg"
         },
         {
-          "title": "김기문, 기업계 대표로 인구전략회의서 비전 선포... 출생률 넘어 '삶의...",
-          "desc": "출산·양육 지원에 집중했던 기존 정책의 범위를 청년 주거와 일자리, 고령인력 활용, 인공지능(AI) 기술혁신... 이와 함께 근로자가 육아휴직과 유연근무를 개인 상황에 맞게 활용하도록 '유연근무 선택제' 도입에 나선다....",
-          "src": "kbiznews",
+          "title": "北, AI 적용 신형 초고속 어뢰 시험발사 주장…\"5년간 180차례 시험\"",
+          "desc": "북한이 인공지능(AI)을 활용해 목표물을 추적하는 신형 초고속 어뢰 개발에 나섰다. 5년간 180차례 시험을 거쳐... 특히 목표물을 탐색하고 유도하는 과정에 AI 기술을 도입했다고 주장했다. 다만 어뢰의 속도와 사거리 등...",
+          "src": "아이뉴스24",
           "date": "10/17",
-          "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114987",
-          "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202610/114987_78025_1233_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001066877?sid=100",
+          "img": "https://image.inews24.com/v1/98c1cd8e7a0133.jpg"
         }
       ]
     },
@@ -157,12 +157,12 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
         },
         {
-          "title": "티에이치엔, 카자흐 최대 車기업과 전장 생산기지 구축…현대차·기아 ...",
-          "desc": "티에이치엔은 와이어링 하네스와 자동차 전장부품을 주력으로 하는 현대차·기아 1차 협력사다. 중국과 베트남, 필리핀, 멕시코 등지에 생산망을 두고 현대차·기아 글로벌 공장에 제품을 공급하고 있다....",
+          "title": "韓·튀니지 자동차 산업협력 확대…현대차 현지 파트너·유라 등 가교 역...",
+          "desc": "와이어링 하네스와 전장·전자부품, 엔진 부품, 플라스틱·고무 등을 주로 생산하며 연간 수출액은 25억 달러를 웃돈다. 프랑스와 독일, 이탈리아 등 유럽 주요 자동차 생산국과도 인접해 있다. 앞서...",
           "src": "더구루",
-          "date": "09/16",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
+          "date": "10/13",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108178",
+          "img": "https://www.theguru.co.kr/data/photos/20261042/art_17918699164796_fe24c0.jpg"
         },
         {
           "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "중동 정세 불안 속…이재용, 현지 파견 임직원·가족 격려",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=322564",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/322564_326215_3558.jpg"
-    },
-    {
-      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
-      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+      "title": "우리집 냉장고는 안전할까?…프랑스 냉장설비 해킹에 커지는 불안감",
+      "url": "https://www.jasm.co.kr/news/view/321920/?sc=Naver",
+      "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1792211685_321920_m_1.jpg"
     },
     {
       "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
@@ -192,19 +187,24 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/10/17/20261017504649.png"
     },
     {
-      "title": "AI가 서류 맡고 공무원은 주민 곁으로…스마트빌리지 서밋이 그린 지방...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=322599",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/322599_326262_3618.jpg"
+      "title": "인하공전, 'AI와 미래차 혁신' 세미나 개최",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724387",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3724387_3901269_829_v150.jpg"
     },
     {
-      "title": "은퇴해도 기술은 남는다…AI·로봇으로 부활하는 현장 명장의 '암묵지'",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=322520",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/322520_326166_5852.jpg"
+      "title": "AI의 '눈' VLM과 '미래 예측' 월드모델, 무엇이 다를까 [IT 백과]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002245067?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/10/17/2026101709232799068_l.jpg"
     },
     {
-      "title": "수출·협력 장애물 vs 기술·이익 보호…'K-톡신 국가핵심기술' 갑론을박",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579720563080",
-      "img": "https://www.megaeconomy.co.kr/news/data/20261016/p1065579720563080_415_thum.png"
+      "title": "[봇규가 간다] The Next AI ② | ‘AI’는 어떻게 판단하나...카메라에 잡...",
+      "url": "https://www.hellot.net/news/article.html?no=115566",
+      "img": "https://www.hellot.net/data/photos/20261042/art_17922067413493_27daba.jpg"
+    },
+    {
+      "title": "北, AI 적용 신형 초고속 어뢰 시험발사 주장…\"5년간 180차례 시험\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001066877?sid=100",
+      "img": "https://image.inews24.com/v1/98c1cd8e7a0133.jpg"
     }
   ]
 };
