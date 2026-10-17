@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.17 (토) 21:13",
+  "updatedAt": "2026.10.18 (일) 00:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러...",
+          "desc": "증권가가 내년 삼성전자 영업이익을 500조원대 중후반으로 보는 가운데 메리츠증권은 전망치를 기존 562조원에서 632조원으로 13% 높였다. 다만 스마트폰을 담당하는 MX·네트워크사업부와 TV·가전을 맡는 VD...",
+          "src": "조선일보",
+          "date": "10/17",
+          "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html",
+          "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200016_0.jpg"
+        },
+        {
           "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
-          "desc": "\" 가전업계도 보안 강화에 나서고 있습니다. 삼성전자는 연결된 기기끼리 서로의 보안 상태를 점검하고 위협을 감지해 대응하는 '녹스 매트릭스' 등을 지원하고 있습니다. LG전자도 연결된 가전과 서비스, 고객 데이터를...",
+          "desc": "[기자] 냉장고와 TV, 로봇청소기 등 모든 사물이 네트워크로 연결된 '초연결 사회'. 인공지능(AI) 기술까지... 삼성전자는 연결된 기기끼리 서로의 보안 상태를 점검하고 위협을 감지해 대응하는 '녹스 매트릭스' 등을...",
           "src": "연합뉴스TV",
           "date": "10/17",
           "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
@@ -34,23 +42,15 @@ window.NEWS_DATA = {
           "src": "ekn",
           "date": "10/17",
           "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+          "img": ""
         },
         {
-          "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
-          "desc": "삼성전자의 혜택은 여러 가전을 한꺼번에 구매하는 고객에게 초점이 맞춰져 있다. 냉장고와 세탁기, TV 등 구매 품목이 늘어날수록 포인트 혜택을 받을 수 있지만, 구매 금액과 가입 조건을 충족해야 한다. 특히 최대...",
-          "src": "segye",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/022/0004167366?sid=101",
-          "img": "https://www.segye.com/content/image/2026/10/17/20261017504649.png"
-        },
-        {
-          "title": "오랜만에 숨통 트인 코스피...88주 째 오르는 서울 아파트 가격 [뉴스와...",
-          "desc": "이게 그동안 중국 하면 저가, 그나마 가전용, 스마트폰용 정도 만들겠지라고 생각했는데 삼성전자 로드맵으로는 2028년 상용화 가능한 걸 올해 말에 상용화할 것이라는 뉴스가 나오니까 이건 뭐지? 이른바 메모리 빅3인...",
-          "src": "ytn",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/052/0002420080?sid=101",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/1017/202610171846578597_t.jpg"
+          "title": "[전라 Insight] 1970년 경제정책의 재평가",
+          "desc": "1969년 전자공업육성법이 제정된 해에 창업한 삼성전자는 TV, 세탁기, 냉장고를 만들었고, 지금은 반도체, 노트북, 스마트폰을 팔고 있다. 삼성전자의 올해 영업이익 예상치는 370조 원에 달한다. 내년도 나라 전체...",
+          "src": "jeollailbo",
+          "date": "10/18",
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
+          "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[증권가H] 금융위 부위원장 신진창/200배 레버리지 선물 당국 경고 등",
-          "desc": "주요 기술 분야 변화와 투자 기회에 대한 구체적인 전망도 제시했다. AI 분야에서는 생성형 AI 플랫폼과 AI... 기금형 퇴직연금 도입에 따른 제도 변화에 대응하는 한편 타깃데이트펀드(TDF)를 활용한 자산배분과 기업의...",
-          "src": "한스경제",
-          "date": "10/17",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873836",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873836_898706_043_v150.jpg"
+          "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
+          "desc": "프로그램도 도입했다. 17일 웹이코노미 취재 등을 종합하면 LG유플러스는 이와 함께 유럽 통신 전시회에서는 인공지능(AI)을 활용한 와이파이 품질 관리와 차세대 와이파이8 기술을 공개했다. 아이폰 듀오 사전예약...",
+          "src": "webeconomy",
+          "date": "10/18",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336973",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336973_1146791_1540.jpg"
         },
         {
-          "title": "일본 ‘직무형 고용’ 실험 5년이 남긴 것 [JAPAN NOW]",
-          "desc": "반면, 일본 대표 정보통신기술(ICT) 기업인 후지쯔는 직무형 인사를 기업 체질 개선 수단으로 활용하고 있다. 2020년 임원부터 직무 중심 인사를 도입해 일반 직원으로 확대했고, 올해부터는 신입사원 일괄채용도 사실상...",
-          "src": "매일경제",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/024/0000108992?sid=102",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "[TF초점] A2O SOUL·LITE의 음악에 담긴 '새로움 속 익숙함'",
+          "desc": "Splatting)'나 AI 기술을 접목한 '블루밍톡' 등 '신기술을 활용한 콘텐츠'를 소개하는 데 많은 시간을... 설치해 '신기술 알리기'에 공을 들였다. 재미있는 점은 A2O엔터테인먼트가 신기술을 적극적으로 도입하며...",
+          "src": "더팩트",
+          "date": "10/18",
+          "url": "https://m.entertain.naver.com/article/629/0000542980",
+          "img": "https://img.tf.co.kr/article/home/2026/10/14/20267502179214200100.jpg"
         },
         {
-          "title": "[기자수첩] 자동차가 하늘을 나는 시대, 테슬라 로드스터가 던진 AI 경영...",
-          "desc": "불가능하다고 여겼던 기술에 도전하고 서로 다른 산업의 전문성을 결합해 새로운 가능성을 제시했다는 점에서다. 우리 기업들 역시 이러한 변화를 주목해야 한다. AI를 도입했다는 사실만으로 혁신기업이 되는 것은...",
-          "src": "아이뉴스24",
+          "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
+          "desc": "일부 기업은 지원서 검토와 후보자 선별에 AI 시스템을 활용하고 있으며, 비대면 면접 중 부정행위나 부적절한 지원 행태를 탐지하는 기술을 도입하는 사례도 나타나고 있다. 자파르 파트너는 채용의 궁극적인 목적은 입사...",
+          "src": "전자신문",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/031/0001066901?sid=102",
-          "img": "https://image.inews24.com/v1/d965394c292af3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003475961?sid=104",
+          "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.2728f3f01e1d43fa826ddbc0c5d49f95_P1.png"
         },
         {
-          "title": "“성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부...",
-          "desc": "IoT 센서와 AI 영상관제, 위험예측 시스템 등 디지털 기술을 활용해 위험을 조기에 발견하려는 시도도 늘고 있다. 그러나 전담조직을 만들거나 장비를 도입했다는...",
-          "src": "venturesquare",
+          "title": "[해외 칼럼] 당신의 가격… 소비자 절박감을 이윤으로 바꾸는 기업들",
+          "desc": "제너럴모터스(GM) 같은 자동차 회사는 온스타 같은 기술을 통해 수백만 운전자의 정확한 위치와 운전 행태 데이터를 축적한 뒤, 이를 보험사에 팔아 자동차보험료 산정에 활용하도록 했다. 비지오TV를 인수한 월마트는...",
+          "src": "조선일보",
           "date": "10/17",
-          "url": "https://www.venturesquare.net/1120741/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/lee-2.png"
+          "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200032.html",
+          "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200032_0.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러...",
+      "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html",
+      "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200016_0.jpg"
+    },
+    {
       "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
       "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
       "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
     },
     {
-      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
-      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+      "title": "[전라 Insight] 1970년 경제정책의 재평가",
+      "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
+      "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
     },
     {
-      "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004167366?sid=101",
-      "img": "https://www.segye.com/content/image/2026/10/17/20261017504649.png"
+      "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336973",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336973_1146791_1540.jpg"
     },
     {
-      "title": "오랜만에 숨통 트인 코스피...88주 째 오르는 서울 아파트 가격 [뉴스와...",
-      "url": "https://n.news.naver.com/mnews/article/052/0002420080?sid=101",
-      "img": "https://image.ytn.co.kr/general/jpg/2026/1017/202610171846578597_t.jpg"
+      "title": "[TF초점] A2O SOUL·LITE의 음악에 담긴 '새로움 속 익숙함'",
+      "url": "https://m.entertain.naver.com/article/629/0000542980",
+      "img": "https://img.tf.co.kr/article/home/2026/10/14/20267502179214200100.jpg"
     },
     {
-      "title": "[증권가H] 금융위 부위원장 신진창/200배 레버리지 선물 당국 경고 등",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873836",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873836_898706_043_v150.jpg"
-    },
-    {
-      "title": "일본 ‘직무형 고용’ 실험 5년이 남긴 것 [JAPAN NOW]",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108992?sid=102",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+      "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003475961?sid=104",
+      "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.2728f3f01e1d43fa826ddbc0c5d49f95_P1.png"
     }
   ]
 };
