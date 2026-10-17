@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.17 (토) 15:59",
+  "updatedAt": "2026.10.17 (토) 21:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·LG, 美 타임 '올해 최고 발명품' 나란히 선정",
-          "desc": "삼성전자는 모바일·생활가전·게이밍 모니터 등 3개 부문을 석권. 소비자 가전 부문의 '갤럭시 S26 울트라'는 측면 시선을 차단하는 '프라이버시 디스플레이' 기술이 사생활 보호에 유연성을 더했다는 평가를 받아....",
-          "src": "news",
+          "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
+          "desc": "\" 가전업계도 보안 강화에 나서고 있습니다. 삼성전자는 연결된 기기끼리 서로의 보안 상태를 점검하고 위협을 감지해 대응하는 '녹스 매트릭스' 등을 지원하고 있습니다. LG전자도 연결된 가전과 서비스, 고객 데이터를...",
+          "src": "연합뉴스TV",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/648/0000051679?sid=101",
-          "img": ""
-        },
-        {
-          "title": "우리집 냉장고는 안전할까?…프랑스 냉장설비 해킹에 커지는 불안감",
-          "desc": "과거 아파트 월패드 해킹으로 사생활 영상이 유출되면서 사회적 파장이 일었고, 일부 로봇청소기의 카메라 보안 취약점도 논란이 된 바 있다. 지난달에는 삼성전자 일부 냉장고에 소프트웨어 업데이트가 잘못 배포돼...",
-          "src": "jasm",
-          "date": "10/17",
-          "url": "https://www.jasm.co.kr/news/view/321920/?sc=Naver",
-          "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1792211685_321920_m_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
         },
         {
           "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -42,7 +34,7 @@ window.NEWS_DATA = {
           "src": "ekn",
           "date": "10/17",
           "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-          "img": ""
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
         },
         {
           "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "10/17",
           "url": "https://n.news.naver.com/mnews/article/022/0004167366?sid=101",
           "img": "https://www.segye.com/content/image/2026/10/17/20261017504649.png"
+        },
+        {
+          "title": "오랜만에 숨통 트인 코스피...88주 째 오르는 서울 아파트 가격 [뉴스와...",
+          "desc": "이게 그동안 중국 하면 저가, 그나마 가전용, 스마트폰용 정도 만들겠지라고 생각했는데 삼성전자 로드맵으로는 2028년 상용화 가능한 걸 올해 말에 상용화할 것이라는 뉴스가 나오니까 이건 뭐지? 이른바 메모리 빅3인...",
+          "src": "ytn",
+          "date": "10/17",
+          "url": "https://n.news.naver.com/mnews/article/052/0002420080?sid=101",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/1017/202610171846578597_t.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인하공전, 'AI와 미래차 혁신' 세미나 개최",
-          "desc": "기술 발전의 속도를 언급하며, 실제 산업 현장에서 새로운 가치를 창출하는 주체는 사람임을 강조했다. 그는 그동안 변화하는 산업 환경에 적응할 수 있도록 교육에 힘썼으며, 앞으로는 AI를 적극적으로 활용해 산업...",
-          "src": "gukjenews",
+          "title": "[증권가H] 금융위 부위원장 신진창/200배 레버리지 선물 당국 경고 등",
+          "desc": "주요 기술 분야 변화와 투자 기회에 대한 구체적인 전망도 제시했다. AI 분야에서는 생성형 AI 플랫폼과 AI... 기금형 퇴직연금 도입에 따른 제도 변화에 대응하는 한편 타깃데이트펀드(TDF)를 활용한 자산배분과 기업의...",
+          "src": "한스경제",
           "date": "10/17",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724387",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3724387_3901269_829_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873836",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873836_898706_043_v150.jpg"
         },
         {
-          "title": "AI의 '눈' VLM과 '미래 예측' 월드모델, 무엇이 다를까 [IT 백과]",
-          "desc": "피지컬 AI의 핵심 기술로 떠오르면서 두 기술의 강점을 결합하는 연구도 확대되고 있다. 두 모델은 모두 시각 정보를 활용하지만 역할은 다르다. VLM이 이미지와 영상 속 사물이나 주변 상황을 이해하는 데 강점이...",
-          "src": "디지털데일리",
+          "title": "일본 ‘직무형 고용’ 실험 5년이 남긴 것 [JAPAN NOW]",
+          "desc": "반면, 일본 대표 정보통신기술(ICT) 기업인 후지쯔는 직무형 인사를 기업 체질 개선 수단으로 활용하고 있다. 2020년 임원부터 직무 중심 인사를 도입해 일반 직원으로 확대했고, 올해부터는 신입사원 일괄채용도 사실상...",
+          "src": "매일경제",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/138/0002245067?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/17/2026101709232799068_l.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000108992?sid=102",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "[봇규가 간다] The Next AI ② | ‘AI’는 어떻게 판단하나...카메라에 잡...",
-          "desc": "자체 모델 최적화 기술 ‘TC-Pruner’를 활용해 불필요한 데이터를 줄이고, 저사양 에지(Edge) 환경에서도... 피지컬 AI가 많이 도입되면서 교육계도 기존 제조 방식에 이를 어떻게 접목할지 고민하고 있다”며 “기본 기술...",
-          "src": "hellot",
-          "date": "10/17",
-          "url": "https://www.hellot.net/news/article.html?no=115566",
-          "img": "https://www.hellot.net/data/photos/20261042/art_17922067413493_27daba.jpg"
-        },
-        {
-          "title": "北, AI 적용 신형 초고속 어뢰 시험발사 주장…\"5년간 180차례 시험\"",
-          "desc": "북한이 인공지능(AI)을 활용해 목표물을 추적하는 신형 초고속 어뢰 개발에 나섰다. 5년간 180차례 시험을 거쳐... 특히 목표물을 탐색하고 유도하는 과정에 AI 기술을 도입했다고 주장했다. 다만 어뢰의 속도와 사거리 등...",
+          "title": "[기자수첩] 자동차가 하늘을 나는 시대, 테슬라 로드스터가 던진 AI 경영...",
+          "desc": "불가능하다고 여겼던 기술에 도전하고 서로 다른 산업의 전문성을 결합해 새로운 가능성을 제시했다는 점에서다. 우리 기업들 역시 이러한 변화를 주목해야 한다. AI를 도입했다는 사실만으로 혁신기업이 되는 것은...",
           "src": "아이뉴스24",
           "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/031/0001066877?sid=100",
-          "img": "https://image.inews24.com/v1/98c1cd8e7a0133.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001066901?sid=102",
+          "img": "https://image.inews24.com/v1/d965394c292af3.jpg"
+        },
+        {
+          "title": "“성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부...",
+          "desc": "IoT 센서와 AI 영상관제, 위험예측 시스템 등 디지털 기술을 활용해 위험을 조기에 발견하려는 시도도 늘고 있다. 그러나 전담조직을 만들거나 장비를 도입했다는...",
+          "src": "venturesquare",
+          "date": "10/17",
+          "url": "https://www.venturesquare.net/1120741/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/lee-2.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[HARFKO 2026] 에프원공조, 국내 최초 'SUS 배관 가공 복합기' 공개",
+          "desc": "LG전자·삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 핵심 부품 공급을 넘어 전문 생산 설비로 사업 영역을 넓히며 고객사의 생산 효율과 품질 경쟁력을 높이는 데...",
+          "src": "e2news",
+          "date": "10/17",
+          "url": "http://www.e2news.com/news/articleView.html?idxno=335186",
+          "img": "https://cdn.e2news.com/news/thumbnail/202610/335186_233373_78_v150.jpg"
+        },
         {
           "title": "애플 '접는 폰' 출시 임박...생산 차질, 흥행 변수로",
           "desc": "공개 당시부터 삼성전자가 주도해 온 폴더블폰 시장에 애플이 도전장을 내민다는 점에서 주목받았다. 시장의 관심이 집중된 만큼 초기 흥행에 대한 기대도 크다. 문제는 공급 물량이다. 업계에서는 애플이 최근 부품...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/16",
           "url": "https://n.news.naver.com/mnews/article/092/0002441279?sid=105",
           "img": "https://image.zdnet.co.kr/2026/09/10/e4e0acf319fe1ac446ce07f7d4847274.png"
-        },
-        {
-          "title": "삼성·SK하이닉스, 중동 파견 임직원-가족에 격려 선물 전달·'ThanksFULL ...",
-          "desc": "주요 협력사 구성원 및 가족 등을 초청한 행사를 열었다. 16일 삼성에 따르면 이재용 삼성전자 회장은 전쟁... 앞서 지난 7월에는 향후 5년간 1조4000억원 규모의 상생 자금을 활용해 반도체 소재ㆍ부품ㆍ장비 협력사...",
-          "src": "wsobi",
-          "date": "10/16",
-          "url": "http://www.wsobi.com/news/articleView.html?idxno=319845",
-          "img": "http://www.wsobi.com/news/photo/202610/319845_190262_4039.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "우리집 냉장고는 안전할까?…프랑스 냉장설비 해킹에 커지는 불안감",
-      "url": "https://www.jasm.co.kr/news/view/321920/?sc=Naver",
-      "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1792211685_321920_m_1.jpg"
+      "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
+      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
+    },
+    {
+      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
+      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
+      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
     },
     {
       "title": "이사할 때 3만원 내면 3만원 돌려준다…오늘의집·이케아·삼성의 고객...",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/10/17/20261017504649.png"
     },
     {
-      "title": "인하공전, 'AI와 미래차 혁신' 세미나 개최",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724387",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3724387_3901269_829_v150.jpg"
+      "title": "오랜만에 숨통 트인 코스피...88주 째 오르는 서울 아파트 가격 [뉴스와...",
+      "url": "https://n.news.naver.com/mnews/article/052/0002420080?sid=101",
+      "img": "https://image.ytn.co.kr/general/jpg/2026/1017/202610171846578597_t.jpg"
     },
     {
-      "title": "AI의 '눈' VLM과 '미래 예측' 월드모델, 무엇이 다를까 [IT 백과]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002245067?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/10/17/2026101709232799068_l.jpg"
+      "title": "[증권가H] 금융위 부위원장 신진창/200배 레버리지 선물 당국 경고 등",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873836",
+      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/873836_898706_043_v150.jpg"
     },
     {
-      "title": "[봇규가 간다] The Next AI ② | ‘AI’는 어떻게 판단하나...카메라에 잡...",
-      "url": "https://www.hellot.net/news/article.html?no=115566",
-      "img": "https://www.hellot.net/data/photos/20261042/art_17922067413493_27daba.jpg"
-    },
-    {
-      "title": "北, AI 적용 신형 초고속 어뢰 시험발사 주장…\"5년간 180차례 시험\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001066877?sid=100",
-      "img": "https://image.inews24.com/v1/98c1cd8e7a0133.jpg"
+      "title": "일본 ‘직무형 고용’ 실험 5년이 남긴 것 [JAPAN NOW]",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108992?sid=102",
+      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     }
   ]
 };
