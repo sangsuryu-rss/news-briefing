@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.18 (일) 00:39",
+  "updatedAt": "2026.10.18 (일) 03:31",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "ekn",
           "date": "10/17",
           "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-          "img": ""
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
         },
         {
           "title": "[전라 Insight] 1970년 경제정책의 재평가",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "AI 동향",
       "color": "#00a86b",
       "items": [
+        {
+          "title": "손정의 소프트뱅크, 세계 최대 민간 보안업체 인수 추진",
+          "desc": "얼라이드 유니버설을 인수하면 기존 보안 서비스망과 고객 기반을 활용해 로봇 기술의 실제 산업 적용을 추진할 수 있다. 데이터센터 경비사업도 중요한 연결점이다. 소프트뱅크가 AI 인프라에 대한 투자를 확대하는...",
+          "src": "g-enews",
+          "date": "10/18",
+          "url": "https://www.g-enews.com/view.php?ud=2026101723082522099a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261017230857025959a1f30943117511616074.jpg"
+        },
         {
           "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
           "desc": "프로그램도 도입했다. 17일 웹이코노미 취재 등을 종합하면 LG유플러스는 이와 함께 유럽 통신 전시회에서는 인공지능(AI)을 활용한 와이파이 품질 관리와 차세대 와이파이8 기술을 공개했다. 아이폰 듀오 사전예약...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "10/17",
           "url": "https://n.news.naver.com/mnews/article/030/0003475961?sid=104",
           "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.2728f3f01e1d43fa826ddbc0c5d49f95_P1.png"
-        },
-        {
-          "title": "[해외 칼럼] 당신의 가격… 소비자 절박감을 이윤으로 바꾸는 기업들",
-          "desc": "제너럴모터스(GM) 같은 자동차 회사는 온스타 같은 기술을 통해 수백만 운전자의 정확한 위치와 운전 행태 데이터를 축적한 뒤, 이를 보험사에 팔아 자동차보험료 산정에 활용하도록 했다. 비지오TV를 인수한 월마트는...",
-          "src": "조선일보",
-          "date": "10/17",
-          "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200032.html",
-          "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200032_0.jpg"
         }
       ]
     },
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
     },
     {
+      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
+      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
+      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+    },
+    {
       "title": "[전라 Insight] 1970년 경제정책의 재평가",
       "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
       "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
     },
     {
+      "title": "손정의 소프트뱅크, 세계 최대 민간 보안업체 인수 추진",
+      "url": "https://www.g-enews.com/view.php?ud=2026101723082522099a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261017230857025959a1f30943117511616074.jpg"
+    },
+    {
       "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
       "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336973",
       "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336973_1146791_1540.jpg"
-    },
-    {
-      "title": "[TF초점] A2O SOUL·LITE의 음악에 담긴 '새로움 속 익숙함'",
-      "url": "https://m.entertain.naver.com/article/629/0000542980",
-      "img": "https://img.tf.co.kr/article/home/2026/10/14/20267502179214200100.jpg"
-    },
-    {
-      "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003475961?sid=104",
-      "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.2728f3f01e1d43fa826ddbc0c5d49f95_P1.png"
     }
   ]
 };
