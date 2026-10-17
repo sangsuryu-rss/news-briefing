@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.18 (일) 03:31",
+  "updatedAt": "2026.10.18 (일) 07:22",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러...",
-          "desc": "증권가가 내년 삼성전자 영업이익을 500조원대 중후반으로 보는 가운데 메리츠증권은 전망치를 기존 562조원에서 632조원으로 13% 높였다. 다만 스마트폰을 담당하는 MX·네트워크사업부와 TV·가전을 맡는 VD...",
-          "src": "조선일보",
-          "date": "10/17",
-          "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html",
-          "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200016_0.jpg"
-        },
-        {
-          "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
-          "desc": "[기자] 냉장고와 TV, 로봇청소기 등 모든 사물이 네트워크로 연결된 '초연결 사회'. 인공지능(AI) 기술까지... 삼성전자는 연결된 기기끼리 서로의 보안 상태를 점검하고 위협을 감지해 대응하는 '녹스 매트릭스' 등을...",
-          "src": "연합뉴스TV",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
+          "title": "[체험기] ‘역시 로보락인가’…韓 맞춤형 ‘S10 MaxV Ultra Steam’ 써보...",
+          "desc": "국내 가전 시장은 삼성전자와 LG전자가 양분하고 있다. ‘외산 가전의 무덤’이라는 말이 나올 정도로 진입 장벽이 높다. 아주 오래전 이야기지만 글로벌 가전 기업 월풀도 한국 시장의 성장성을 높이 평가해 국내...",
+          "src": "news2day",
+          "date": "10/18",
+          "url": "https://www.news2day.co.kr/article/20261016500257",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500242.gif"
         },
         {
           "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "10/18",
           "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
           "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
+        },
+        {
+          "title": "[Who Is ?] 한남희 삼아알미늄 대표이사 회장",
+          "desc": "연포장용, 가전 Hair Line용, 제약포장재용 등을 만든다. 가공부문은 포장용 제품과 산업·건축용 제품을... 이같은 인연으로 서울대 의대에 삼성전자 주식 2만 주를 기증했다. 한 명예회장 부부는 당시 외부에 알리지...",
+          "src": "비즈니스포스트",
+          "date": "10/18",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447135",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "손정의 소프트뱅크, 세계 최대 민간 보안업체 인수 추진",
-          "desc": "얼라이드 유니버설을 인수하면 기존 보안 서비스망과 고객 기반을 활용해 로봇 기술의 실제 산업 적용을 추진할 수 있다. 데이터센터 경비사업도 중요한 연결점이다. 소프트뱅크가 AI 인프라에 대한 투자를 확대하는...",
-          "src": "g-enews",
+          "title": "계열사 넘어 해외로…삼성SDS·LG CNS, AI로 고객 넓힌다",
+          "desc": "AI 도입을 추진하는 국내외 기업의 기술 파트너로 사업 범위를 넓히는 모습이다. 한 업계 관계자는 \"과거에는 계열사 시스템 구축과 운영이 안정적인 수익 기반이었다면 최근에는 AI와 클라우드를 활용한 외부...",
+          "src": "newsway",
           "date": "10/18",
-          "url": "https://www.g-enews.com/view.php?ud=2026101723082522099a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261017230857025959a1f30943117511616074.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026101510342107184",
+          "img": "https://nimage.newsway.co.kr/photo/2026/07/20/20260720000029_1200.png"
         },
         {
-          "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
-          "desc": "프로그램도 도입했다. 17일 웹이코노미 취재 등을 종합하면 LG유플러스는 이와 함께 유럽 통신 전시회에서는 인공지능(AI)을 활용한 와이파이 품질 관리와 차세대 와이파이8 기술을 공개했다. 아이폰 듀오 사전예약...",
-          "src": "webeconomy",
+          "title": "2금융권 해킹 확산…저축은행중앙회, 1400억 '차세대 전산망' 구축",
+          "desc": "최근 금융권에서는 AI를 활용한 것으로 추정되는 해킹 공격과 개인정보 유출 사고가 잇따르고 있다.... 자체 AI 플랫폼을 구축해 지능형 챗봇을 도입하고, 시스템 개발·운영 업무에도 AI 기술을 적용해 업무 자동화와 개발...",
+          "src": "데일리안",
           "date": "10/18",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336973",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336973_1146791_1540.jpg"
+          "url": "https://n.news.naver.com/mnews/article/119/0003143865?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1790917901125_1697382_m_1.jpg"
         },
         {
-          "title": "[TF초점] A2O SOUL·LITE의 음악에 담긴 '새로움 속 익숙함'",
-          "desc": "Splatting)'나 AI 기술을 접목한 '블루밍톡' 등 '신기술을 활용한 콘텐츠'를 소개하는 데 많은 시간을... 설치해 '신기술 알리기'에 공을 들였다. 재미있는 점은 A2O엔터테인먼트가 신기술을 적극적으로 도입하며...",
-          "src": "더팩트",
-          "date": "10/18",
-          "url": "https://m.entertain.naver.com/article/629/0000542980",
-          "img": "https://img.tf.co.kr/article/home/2026/10/14/20267502179214200100.jpg"
-        },
-        {
-          "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
-          "desc": "일부 기업은 지원서 검토와 후보자 선별에 AI 시스템을 활용하고 있으며, 비대면 면접 중 부정행위나 부적절한 지원 행태를 탐지하는 기술을 도입하는 사례도 나타나고 있다. 자파르 파트너는 채용의 궁극적인 목적은 입사...",
+          "title": "'해킹 국감' 앞둔 5대 은행장…보안 투자보다 예방 실패 책임 도마 [이슈...",
+          "desc": "AI 기반 보안시스템의 실효성도 검증 대상이다. 보안 관제에 AI를 도입하면 이상 징후 탐지와 분석 업무의... 이 가운데 국민·신한·하나은행은 AI 기술을 활용한 탐지·관제 역량 강화에 무게를 뒀다. 국감에서는 각 은행에...",
           "src": "전자신문",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/030/0003475961?sid=104",
-          "img": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.2728f3f01e1d43fa826ddbc0c5d49f95_P1.png"
+          "date": "10/18",
+          "url": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
+          "img": "https://cdn.ngetnews.com/news/thumbnail/202610/554623_122572_5022_v150.jpg"
+        },
+        {
+          "title": "AI가 바꾼 검색 지형…구글 크롬, 네이버 제치고 5개월째 선두",
+          "desc": "이어 구글은 지난 4월에는 국내 크롬에 AI 비서 ‘제미나이 인 크롬’을 도입했다. 브라우저에 탑재된 AI가... 외부 AI 서비스의 데이터 무단 수집을 금지한 이후에도, 정책을 우회하는 무단 탈취를 막기 위한 기술 대응을...",
+          "src": "ceoscoredaily",
+          "date": "10/18",
+          "url": "https://www.ceoscoredaily.com/page/view/2026101615370541265",
+          "img": "https://www.ceoscoredaily.com/photos/2026/10/16/2026101615205782923_l.JPG"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[Who Is ?] 한남희 삼아알미늄 대표이사 회장",
+          "desc": "압연, 가공, 전자부품판매 등 3개 부분 사업 체제를 구축하고 있다. 압연부문은 리튬이온 베터리용 호일... 국내외 협력사 관계자들을 초청해 창립 기념행사를 진행 후 기념촬영을 하고 있다. <삼아알미늄...",
+          "src": "비즈니스포스트",
+          "date": "10/18",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447135",
+          "img": ""
+        },
         {
           "title": "[HARFKO 2026] 에프원공조, 국내 최초 'SUS 배관 가공 복합기' 공개",
           "desc": "LG전자·삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 핵심 부품 공급을 넘어 전문 생산 설비로 사업 영역을 넓히며 고객사의 생산 효율과 품질 경쟁력을 높이는 데...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/17",
           "url": "https://n.news.naver.com/mnews/article/015/0005343525?sid=101",
           "img": "https://img.hankyung.com/photo/202610/01.45940330.1.jpg"
-        },
-        {
-          "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
-          "desc": "16일 복수 업계 관계자에 따르면 애플이 여러 협력사에 아이폰 듀오 부품 생산량 확대를 요청했지만, 닛토보... 한편, 삼성전자의 올해 폴더블폰 출하량은 연말까지 700만대 중후반을 기록할 것으로 예상된다. 신제품과...",
-          "src": "ZDNet코리아",
-          "date": "10/16",
-          "url": "https://n.news.naver.com/mnews/article/092/0002441279?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/09/10/e4e0acf319fe1ac446ce07f7d4847274.png"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러...",
-      "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html",
-      "img": "https://economychosun.com/site/data/img_dir/2026/10/12/2026101200016_0.jpg"
-    },
-    {
-      "title": "우리집 냉장고·TV가 해킹 통로?…가전 보안 '빨간불'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000916687?sid=161",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261017/MYH20261017191101ZH4.jpg"
+      "title": "[체험기] ‘역시 로보락인가’…韓 맞춤형 ‘S10 MaxV Ultra Steam’ 써보...",
+      "url": "https://www.news2day.co.kr/article/20261016500257",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500242.gif"
     },
     {
       "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
     },
     {
-      "title": "손정의 소프트뱅크, 세계 최대 민간 보안업체 인수 추진",
-      "url": "https://www.g-enews.com/view.php?ud=2026101723082522099a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261017230857025959a1f30943117511616074.jpg"
+      "title": "계열사 넘어 해외로…삼성SDS·LG CNS, AI로 고객 넓힌다",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026101510342107184",
+      "img": "https://nimage.newsway.co.kr/photo/2026/07/20/20260720000029_1200.png"
     },
     {
-      "title": "LG유플러스, 아이폰 듀오 사전예약 돌입…최대 113만원 혜택",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336973",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202610/2336973_1146791_1540.jpg"
+      "title": "2금융권 해킹 확산…저축은행중앙회, 1400억 '차세대 전산망' 구축",
+      "url": "https://n.news.naver.com/mnews/article/119/0003143865?sid=101",
+      "img": "https://cdnimage.dailian.co.kr/news/202610/news_1790917901125_1697382_m_1.jpg"
+    },
+    {
+      "title": "'해킹 국감' 앞둔 5대 은행장…보안 투자보다 예방 실패 책임 도마 [이슈...",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
+      "img": "https://cdn.ngetnews.com/news/thumbnail/202610/554623_122572_5022_v150.jpg"
     }
   ]
 };
