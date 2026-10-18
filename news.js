@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.18 (일) 13:38",
+  "updatedAt": "2026.10.18 (일) 20:11",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,8 +21,16 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "삼성전자, 하노이서 AI 가전·상업용 냉방 시연",
+          "desc": "가정용 에어컨부터 건물 통합 제어까지 삼성전자가 지난 14일 베트남 하노이에서 가전 테크 세미나 ‘더 브리프’를 열고 AI 가전과 기업용 공조 솔루션을 선보였다. 삼성전자 뉴스룸이 지난 15일 공개한 자료에 따르면...",
+          "src": "vegannews",
+          "date": "10/18",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=394076",
+          "img": "https://www.vegannews.co.kr/data/photos/aimaker/2026101806ec06.png"
+        },
+        {
           "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
-          "desc": "삼성전자는 지난 2018년부터 와이파이가 탑재된 스마트 가전에 보안 플랫폼 '삼성 녹스'를 기본 적용하고 있습니다. 또 스마트싱스에 연결된 기기들이 서로 보안 상태를 점검하고 위협을 감지하는 '녹스 매트릭스'와...",
+          "desc": "과거 아파트 월패드 해킹으로 가정 내부의 사생활 영상이 유출돼 논란이 일었고, 일부 로봇청소기에서도 카메라 보안 취약점이 지적됐습니다. 지난달에는 삼성전자 일부 냉장고에 잘못된 소프트웨어 업데이트가...",
           "src": "tjb",
           "date": "10/18",
           "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
         },
         {
-          "title": "미국 주방 장악한 LG전자…컨슈머리포트 3개 품목 신뢰도 1위",
-          "desc": "시장조사기관 오픈브랜드에 따르면 LG전자는 올해 1분기 미국 주요 가전 시장 매출 점유율 21.6%를 기록하며 1위에 올라섰다. 이는 현지 정통 브랜드인 GE(13.1%)와 월풀(11.7%)은 물론 삼성전자(13.1%)를 크게 앞지른 수치다.",
-          "src": "nocutnews",
+          "title": "中 마이디어-스웨덴 일렉트로룩스 백색가전 북미 연합 가동…삼성전자...",
+          "desc": "삼성전자·LG전자 보급형 냉장고·세탁기가 가격 인하 압박을 받을 수 있다는 분석이다. 주택 건설사 대상 B2B 시장도 변수다. 일렉트로룩스 빌트인 납품 채널에 마이디어 제품군이 더해지면 삼성전자·LG전자와 수주...",
+          "src": "전자신문",
           "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/079/0004199847?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/18/202610181146236500_0.jpg"
-        },
-        {
-          "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
-          "desc": "삼성전자는 이 밖에도 일체형 세탁건조기 '비스포크 AI 콤보'와 초고화질 마이크로 RGB 디스플레이 등을 전시했다. 갤럭시 헤리티지존에서는 2019년 첫 폴더블폰 출시 이후 7년간 이어진 갤럭시 폴더블 시리즈의 변화를...",
-          "src": "ekn",
-          "date": "10/17",
-          "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003476072?sid=101",
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "피지컬AI부터 하늘 나는 택시까지…대구 엑스코서 미래기술 총집결",
-          "desc": "신기술이 공개된다. 올해로 21회째를 맞는 이번 전시회는 제조현장의 AI 도입과 업무 자동화 등 실제... 엠엔비젼은 AI 기반 산업안전 관리 시스템을, 파미티는 AI 비전과 레이더 기술을 활용한 산업안전·스마트 돌봄...",
-          "src": "idaegu",
+          "title": "[한국 추월, 메이드 인 차이나의 반란 ⑲]' 완스리쓰처우(萬事利絲綢)(하...",
+          "desc": "디지털 기술을 활용한 생산 구조의 혁신 역시 간단치 않은 경쟁력이라고 할 수 있다. 한마디로 디지털 프린팅, AI 기반 디자인, 개인 맞춤형 생산 시스템 등의 도입으로 전통 산업의 고질적인 문제인 소량 다품종, 재고 부담...",
+          "src": "newsquest",
           "date": "10/18",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=666332",
-          "img": "https://cdn.idaegu.com/news/photo/202610/666332_375065_355.png"
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302872",
+          "img": "https://cdn.newsquest.co.kr/news/photo/202610/302872_203385_838.png"
         },
         {
-          "title": "경산시, AI 시대 청년 정착·도시 경쟁력 논의…송길영 작가 초청 토크...",
-          "desc": "미래 인재에게는 새로운 문제를 발굴하고 AI를 활용해 해결하는 역량이 필요하다고 설명했다. 조 시장은 대중교통과 돌봄서비스, 청년 지원정보 제공 등 시민 생활과 밀접한 분야에 디지털 기술을 도입하되, 디지털 기기...",
-          "src": "shinailbo",
+          "title": "한전KDN, 청년·고졸 인재 ‘발굴-육성-채용’ 경로 넓힌다",
+          "desc": "이번 협약은 한전KDN과 광주청년일자리스테이션, 광주고용복지플러스센터가 협력해 에너지 정보통신기술... 아울러 채용 전 과정에 ‘인공지능(AI) 활용 채용 프로세스’를 본격 도입해 채용의 공정성과 효율성을...",
+          "src": "kjdaily",
           "date": "10/18",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072943",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5072943_2070556_575.jpg"
+          "url": "http://www.kjdaily.com/article.php?aid=1792321366689450004",
+          "img": ""
         },
         {
-          "title": "숏폼·AI 챗봇 청소년 보호 미흡…카톡 AI 비서 탑재[뉴스잇(IT)쥬]",
-          "desc": "안드로이드 이용자 중심의 민간 패널조사를 활용하는 데다 법정 기준인 일평균 이용자 수 대신 월간... 이어왔다\"며 \"이제 AI 기술로 다음 10년의 연결을 만들어 간다\"고 말했다. 이어 \"카카오톡 어디서나 AI를 불러 말로...",
-          "src": "뉴스1",
+          "title": "日 도요타 자동화 물류, 고객들에게 만능칼같은 다양한 창고기술 옵션",
+          "desc": "◇자동화 물류창고 내 AI 도입 TAL의 현재 및 미래 프로세스는 내부적인 인공지능(AI) 도입을 통해 혁신을 이루고 있으며, 특히 지속적 개선을 뜻하는 '카이젠(Kaizen·改善)' 철학의 일환으로 활용되고 있다. 헤인즈는 AI가...",
+          "src": "irobotnews",
           "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/421/0009234317?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/12/8153805/high.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49053",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49053_104742_1126.jpg"
         },
         {
-          "title": "경북도, AI 활용 '도지사 직인날인 관리 시스템' 전국 최초 구축",
-          "desc": "생성형 AI를 활용해 담당 공무원이 직접 개발하는 과정에서 상용 소프트웨어나 신규 서버 구매 없이 기존... 이번 시스템 도입은 공공 디지털 지식자산 확보와 적극 행정의 좋은 사례로 평가받으며, AI 기술을 통한 스마트...",
-          "src": "straightnews",
+          "title": "“장부 뒤지던 회계사, 이젠 ‘AI 감사’ 지휘자로”",
+          "desc": "여러 AI 에이전트가 역할을 나눠 협업하는 체계를 도입했다. 손 리더는 “기존 생성형 AI가 주로 질문에... 그는 “AI 기술은 감사시간을 줄일 수는 있지만, AI를 활용한 새로운 형태의 문서 위변조, 해킹, 분식회계로...",
+          "src": "매일경제",
           "date": "10/18",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313376",
-          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/313376_225633_5135_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005750303?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261015.3182d8a00e854b5485501294088f1637_R.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[HARFKO 2026] 에프원공조, 스테인리스 배관 가공 복합기 공개",
+          "desc": "이를 바탕으로 LG전자와 삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 기존 냉동공조 핵심 부품 공급에서 전문 생산 설비 분야로 사업 영역을 확대하고, 고객사의 생산...",
+          "src": "e-platform",
+          "date": "10/18",
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=106192",
+          "img": "https://cdn.e-platform.net/news/thumbnail/202610/106192_78247_256_v150.jpg"
+        },
+        {
+          "title": "중국 CXMT 차세대 D램 위협인가 [한경 프리미엄9 TODAY]",
+          "desc": "부진으로 삼성전기 주가가 고점 대비 절반 수준으로 떨어진 반면 네오티스(58.95%)와 코리아써키트(27.31%) 등 일부 협력사 및 경쟁사는 가파른 상승세를 타고 있다. 고부가가치 기판과 전자장치 부품 수요에 따라 동일...",
+          "src": "한국경제",
+          "date": "10/18",
+          "url": "https://n.news.naver.com/mnews/article/015/0005343745?sid=101",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
         {
           "title": "삼성이 갤럭시폰 생산량 줄이는 이유... 기회일까 위기일까",
           "desc": "메모리는 돈 벌고, 스마트폰은 원가 부담 커졌다 매체의 설명에 따르면 삼성전자 MX사업부는 최근 협력사에 부품 공급량을 20~30% 줄여달라고 요청했으며, 이에 따라 올해 4분기 스마트폰 생산량이 최대 30% 감소할...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/18",
           "url": "https://n.news.naver.com/mnews/article/277/0005829866?sid=101",
           "img": "https://cphoto.asiae.co.kr/listimglink/1/2026101514364962237_1792042610.png"
-        },
-        {
-          "title": "[Who Is ?] 한남희 삼아알미늄 대표이사 회장",
-          "desc": "압연, 가공, 전자부품판매 등 3개 부분 사업 체제를 구축하고 있다. 압연부문은 리튬이온 베터리용 호일... 국내외 협력사 관계자들을 초청해 창립 기념행사를 진행 후 기념촬영을 하고 있다. <삼아알미늄...",
-          "src": "비즈니스포스트",
-          "date": "10/18",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447135",
-          "img": ""
-        },
-        {
-          "title": "[HARFKO 2026] 에프원공조, 국내 최초 'SUS 배관 가공 복합기' 공개",
-          "desc": "LG전자·삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 핵심 부품 공급을 넘어 전문 생산 설비로 사업 영역을 넓히며 고객사의 생산 효율과 품질 경쟁력을 높이는 데...",
-          "src": "e2news",
-          "date": "10/17",
-          "url": "http://www.e2news.com/news/articleView.html?idxno=335186",
-          "img": "https://cdn.e2news.com/news/thumbnail/202610/335186_233373_78_v150.jpg"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "삼성전자, 하노이서 AI 가전·상업용 냉방 시연",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=394076",
+      "img": "https://www.vegannews.co.kr/data/photos/aimaker/2026101806ec06.png"
+    },
+    {
       "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
       "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
       "img": "https://www.tjb.co.kr/html1/images/noimg.png"
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
     },
     {
-      "title": "미국 주방 장악한 LG전자…컨슈머리포트 3개 품목 신뢰도 1위",
-      "url": "https://n.news.naver.com/mnews/article/079/0004199847?sid=101",
-      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/18/202610181146236500_0.jpg"
+      "title": "[한국 추월, 메이드 인 차이나의 반란 ⑲]' 완스리쓰처우(萬事利絲綢)(하...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302872",
+      "img": "https://cdn.newsquest.co.kr/news/photo/202610/302872_203385_838.png"
     },
     {
-      "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
-      "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
-      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
+      "title": "日 도요타 자동화 물류, 고객들에게 만능칼같은 다양한 창고기술 옵션",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49053",
+      "img": "https://cdn.irobotnews.com/news/photo/202610/49053_104742_1126.jpg"
     },
     {
-      "title": "피지컬AI부터 하늘 나는 택시까지…대구 엑스코서 미래기술 총집결",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666332",
-      "img": "https://cdn.idaegu.com/news/photo/202610/666332_375065_355.png"
-    },
-    {
-      "title": "경산시, AI 시대 청년 정착·도시 경쟁력 논의…송길영 작가 초청 토크...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072943",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5072943_2070556_575.jpg"
+      "title": "“장부 뒤지던 회계사, 이젠 ‘AI 감사’ 지휘자로”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005750303?sid=102",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261015.3182d8a00e854b5485501294088f1637_R.jpg"
     }
   ]
 };
