@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.18 (일) 20:11",
+  "updatedAt": "2026.10.19 (월) 00:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 하노이서 AI 가전·상업용 냉방 시연",
-          "desc": "가정용 에어컨부터 건물 통합 제어까지 삼성전자가 지난 14일 베트남 하노이에서 가전 테크 세미나 ‘더 브리프’를 열고 AI 가전과 기업용 공조 솔루션을 선보였다. 삼성전자 뉴스룸이 지난 15일 공개한 자료에 따르면...",
-          "src": "vegannews",
-          "date": "10/18",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=394076",
-          "img": "https://www.vegannews.co.kr/data/photos/aimaker/2026101806ec06.png"
+          "title": "[뉴스룸에서] 주주와 직원의 셈법이 다를 때",
+          "desc": "삼성전자 주가가 지난주 10% 넘게 떨어졌다. 그즈음 직장인 익명 커뮤니티 삼성전자 게시판에는 주가 하락을... 초기업노조는 지난달 조합원 투표를 거쳐 가전·모바일(DX·디바이스경험) 부문을 제외한 DS 중심 노조로...",
+          "src": "kmib",
+          "date": "10/19",
+          "url": "https://n.news.naver.com/mnews/article/005/0001879409?sid=110",
+          "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501505.jpg"
         },
         {
-          "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
-          "desc": "과거 아파트 월패드 해킹으로 가정 내부의 사생활 영상이 유출돼 논란이 일었고, 일부 로봇청소기에서도 카메라 보안 취약점이 지적됐습니다. 지난달에는 삼성전자 일부 냉장고에 잘못된 소프트웨어 업데이트가...",
-          "src": "tjb",
+          "title": "\"2시간 반 만에 홈캠 뚫려\"‥AI 해킹에 경고등 켜진 가전",
+          "desc": "◀ 리포트 ▶ 홈캠부터 스마트TV, 냉장고, 로봇청소기까지, 집 안 곳곳에 자리 잡은 이른바 '스마트 가전'들.... 서버 계속 넣어주면…\" 삼성전자와 LG전자 등은 이상 징후가 감지되면 스마트폰과 가전의 연결을 스스로 끊는...",
+          "src": "imnews",
           "date": "10/18",
-          "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
-          "img": "https://www.tjb.co.kr/html1/images/noimg.png"
+          "url": "https://n.news.naver.com/mnews/article/214/0001529787?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/10/18/desk_20261018_201837_1_10_Large.jpg"
         },
         {
           "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "10/18",
           "url": "https://n.news.naver.com/mnews/article/030/0003476072?sid=101",
-          "img": ""
+          "img": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.740b97a3a40541d5bfd321ed54f37afc_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[한국 추월, 메이드 인 차이나의 반란 ⑲]' 완스리쓰처우(萬事利絲綢)(하...",
-          "desc": "디지털 기술을 활용한 생산 구조의 혁신 역시 간단치 않은 경쟁력이라고 할 수 있다. 한마디로 디지털 프린팅, AI 기반 디자인, 개인 맞춤형 생산 시스템 등의 도입으로 전통 산업의 고질적인 문제인 소량 다품종, 재고 부담...",
-          "src": "newsquest",
-          "date": "10/18",
-          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302872",
-          "img": "https://cdn.newsquest.co.kr/news/photo/202610/302872_203385_838.png"
+          "title": "\"글로벌 AI 허브 평가에 '시민사회 준비도' 30% 반영해야\"",
+          "desc": "경험을 AI 기술과 결합하면 생물다양성 분석, 탄소흡수원 관리, 기후변화 영향 예측 등의 실증사업을 추진할 수 있다고 밝혔다. 특히 고양시가 접한 한강하구와 서해 연안의 지리적 특성을 활용하면 해수면 상승과...",
+          "src": "mygoyang",
+          "date": "10/19",
+          "url": "http://www.mygoyang.com/news/articleView.html?idxno=90783",
+          "img": "https://cdn.mygoyang.com/news/thumbnail/202610/90783_144730_4631_v150.jpg"
         },
         {
-          "title": "한전KDN, 청년·고졸 인재 ‘발굴-육성-채용’ 경로 넓힌다",
-          "desc": "이번 협약은 한전KDN과 광주청년일자리스테이션, 광주고용복지플러스센터가 협력해 에너지 정보통신기술... 아울러 채용 전 과정에 ‘인공지능(AI) 활용 채용 프로세스’를 본격 도입해 채용의 공정성과 효율성을...",
-          "src": "kjdaily",
-          "date": "10/18",
-          "url": "http://www.kjdaily.com/article.php?aid=1792321366689450004",
-          "img": ""
+          "title": "[글로벌 포커스] 핵잠 도입 경주 합의 1년",
+          "desc": "한국은 탄소중립, 에너지 위기, 핵연료 공급망 불안정, 인공지능(AI)의 전력 수요 급증에 대응하기 위해 핵연료의 안정적 공급을 위한 우라늄 농축과 사용후핵연료의 효율적 관리, 재활용을 위한 재처리가 절실하다. 또한...",
+          "src": "kmib",
+          "date": "10/19",
+          "url": "https://n.news.naver.com/mnews/article/005/0001879405?sid=110",
+          "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501402.jpg"
         },
         {
-          "title": "日 도요타 자동화 물류, 고객들에게 만능칼같은 다양한 창고기술 옵션",
-          "desc": "◇자동화 물류창고 내 AI 도입 TAL의 현재 및 미래 프로세스는 내부적인 인공지능(AI) 도입을 통해 혁신을 이루고 있으며, 특히 지속적 개선을 뜻하는 '카이젠(Kaizen·改善)' 철학의 일환으로 활용되고 있다. 헤인즈는 AI가...",
-          "src": "irobotnews",
-          "date": "10/18",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49053",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49053_104742_1126.jpg"
+          "title": "[시론] 피지컬 AI, 승부처는 제조다",
+          "desc": "이런 기술적 난제와 도입·운영 비용을 고려하면 성능, 경제성, 안전성을 동시에 갖춘 범용 로봇의 단기간 내... 제조 현장에 축적된 공정 지식과 데이터를 AI·로봇 기술에 결합해 한국만의 경쟁 우위를 만들어야 한다....",
+          "src": "한국경제",
+          "date": "10/19",
+          "url": "https://n.news.naver.com/mnews/article/015/0005343779?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "“장부 뒤지던 회계사, 이젠 ‘AI 감사’ 지휘자로”",
-          "desc": "여러 AI 에이전트가 역할을 나눠 협업하는 체계를 도입했다. 손 리더는 “기존 생성형 AI가 주로 질문에... 그는 “AI 기술은 감사시간을 줄일 수는 있지만, AI를 활용한 새로운 형태의 문서 위변조, 해킹, 분식회계로...",
-          "src": "매일경제",
-          "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/009/0005750303?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261015.3182d8a00e854b5485501294088f1637_R.jpg"
+          "title": "이문화 삼성화재 대표, 생애주기별 건강관리…‘케어 내비게이터’ 도...",
+          "desc": "삼성화재는 씨어스와 웨어러블 기기 기반의 생체정보 모니터링 기술을 활용한 애프터케어 모델을 공동... 가족 단위 건강관리도 서비스 확대를 검토하고 있으며, 구체적인 서비스 형태와 도입 여부는 고객 수요와 서비스...",
+          "src": "fntimes",
+          "date": "10/19",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026101516061377529efc5ce4ae_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202610151606580574709efc5ce4ae2207211534.jpg&nmt=18"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성전자, 하노이서 AI 가전·상업용 냉방 시연",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=394076",
-      "img": "https://www.vegannews.co.kr/data/photos/aimaker/2026101806ec06.png"
+      "title": "[뉴스룸에서] 주주와 직원의 셈법이 다를 때",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879409?sid=110",
+      "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501505.jpg"
     },
     {
-      "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
-      "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
-      "img": "https://www.tjb.co.kr/html1/images/noimg.png"
+      "title": "\"2시간 반 만에 홈캠 뚫려\"‥AI 해킹에 경고등 켜진 가전",
+      "url": "https://n.news.naver.com/mnews/article/214/0001529787?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/10/18/desk_20261018_201837_1_10_Large.jpg"
     },
     {
       "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
     },
     {
-      "title": "[한국 추월, 메이드 인 차이나의 반란 ⑲]' 완스리쓰처우(萬事利絲綢)(하...",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302872",
-      "img": "https://cdn.newsquest.co.kr/news/photo/202610/302872_203385_838.png"
+      "title": "中 마이디어-스웨덴 일렉트로룩스 백색가전 북미 연합 가동…삼성전자...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003476072?sid=101",
+      "img": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.740b97a3a40541d5bfd321ed54f37afc_P1.jpg"
     },
     {
-      "title": "日 도요타 자동화 물류, 고객들에게 만능칼같은 다양한 창고기술 옵션",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49053",
-      "img": "https://cdn.irobotnews.com/news/photo/202610/49053_104742_1126.jpg"
+      "title": "\"글로벌 AI 허브 평가에 '시민사회 준비도' 30% 반영해야\"",
+      "url": "http://www.mygoyang.com/news/articleView.html?idxno=90783",
+      "img": "https://cdn.mygoyang.com/news/thumbnail/202610/90783_144730_4631_v150.jpg"
     },
     {
-      "title": "“장부 뒤지던 회계사, 이젠 ‘AI 감사’ 지휘자로”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750303?sid=102",
-      "img": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261015.3182d8a00e854b5485501294088f1637_R.jpg"
+      "title": "[글로벌 포커스] 핵잠 도입 경주 합의 1년",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879405?sid=110",
+      "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501402.jpg"
     }
   ]
 };
