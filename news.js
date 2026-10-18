@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.18 (일) 07:22",
+  "updatedAt": "2026.10.18 (일) 13:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[체험기] ‘역시 로보락인가’…韓 맞춤형 ‘S10 MaxV Ultra Steam’ 써보...",
-          "desc": "국내 가전 시장은 삼성전자와 LG전자가 양분하고 있다. ‘외산 가전의 무덤’이라는 말이 나올 정도로 진입 장벽이 높다. 아주 오래전 이야기지만 글로벌 가전 기업 월풀도 한국 시장의 성장성을 높이 평가해 국내...",
-          "src": "news2day",
+          "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
+          "desc": "삼성전자는 지난 2018년부터 와이파이가 탑재된 스마트 가전에 보안 플랫폼 '삼성 녹스'를 기본 적용하고 있습니다. 또 스마트싱스에 연결된 기기들이 서로 보안 상태를 점검하고 위협을 감지하는 '녹스 매트릭스'와...",
+          "src": "tjb",
           "date": "10/18",
-          "url": "https://www.news2day.co.kr/article/20261016500257",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500242.gif"
+          "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
+          "img": "https://www.tjb.co.kr/html1/images/noimg.png"
+        },
+        {
+          "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
+          "desc": "세부 품목별로는 냉장고 분야에서 삼성전자, 세탁기·건조기와 에어컨, TV 분야에서는 LG전자가 1위를 차지했다. 로봇청소기 분야에서는 로보락이 35.0점으로 가장 높은 점수를 받았다. 가구 분야에서는 한샘이...",
+          "src": "ibabynews",
+          "date": "10/18",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=155309",
+          "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
+        },
+        {
+          "title": "미국 주방 장악한 LG전자…컨슈머리포트 3개 품목 신뢰도 1위",
+          "desc": "시장조사기관 오픈브랜드에 따르면 LG전자는 올해 1분기 미국 주요 가전 시장 매출 점유율 21.6%를 기록하며 1위에 올라섰다. 이는 현지 정통 브랜드인 GE(13.1%)와 월풀(11.7%)은 물론 삼성전자(13.1%)를 크게 앞지른 수치다.",
+          "src": "nocutnews",
+          "date": "10/18",
+          "url": "https://n.news.naver.com/mnews/article/079/0004199847?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/18/202610181146236500_0.jpg"
         },
         {
           "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/17",
           "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
           "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
-        },
-        {
-          "title": "[전라 Insight] 1970년 경제정책의 재평가",
-          "desc": "1969년 전자공업육성법이 제정된 해에 창업한 삼성전자는 TV, 세탁기, 냉장고를 만들었고, 지금은 반도체, 노트북, 스마트폰을 팔고 있다. 삼성전자의 올해 영업이익 예상치는 370조 원에 달한다. 내년도 나라 전체...",
-          "src": "jeollailbo",
-          "date": "10/18",
-          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
-          "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
-        },
-        {
-          "title": "[Who Is ?] 한남희 삼아알미늄 대표이사 회장",
-          "desc": "연포장용, 가전 Hair Line용, 제약포장재용 등을 만든다. 가공부문은 포장용 제품과 산업·건축용 제품을... 이같은 인연으로 서울대 의대에 삼성전자 주식 2만 주를 기증했다. 한 명예회장 부부는 당시 외부에 알리지...",
-          "src": "비즈니스포스트",
-          "date": "10/18",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447135",
-          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "계열사 넘어 해외로…삼성SDS·LG CNS, AI로 고객 넓힌다",
-          "desc": "AI 도입을 추진하는 국내외 기업의 기술 파트너로 사업 범위를 넓히는 모습이다. 한 업계 관계자는 \"과거에는 계열사 시스템 구축과 운영이 안정적인 수익 기반이었다면 최근에는 AI와 클라우드를 활용한 외부...",
-          "src": "newsway",
+          "title": "피지컬AI부터 하늘 나는 택시까지…대구 엑스코서 미래기술 총집결",
+          "desc": "신기술이 공개된다. 올해로 21회째를 맞는 이번 전시회는 제조현장의 AI 도입과 업무 자동화 등 실제... 엠엔비젼은 AI 기반 산업안전 관리 시스템을, 파미티는 AI 비전과 레이더 기술을 활용한 산업안전·스마트 돌봄...",
+          "src": "idaegu",
           "date": "10/18",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101510342107184",
-          "img": "https://nimage.newsway.co.kr/photo/2026/07/20/20260720000029_1200.png"
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=666332",
+          "img": "https://cdn.idaegu.com/news/photo/202610/666332_375065_355.png"
         },
         {
-          "title": "2금융권 해킹 확산…저축은행중앙회, 1400억 '차세대 전산망' 구축",
-          "desc": "최근 금융권에서는 AI를 활용한 것으로 추정되는 해킹 공격과 개인정보 유출 사고가 잇따르고 있다.... 자체 AI 플랫폼을 구축해 지능형 챗봇을 도입하고, 시스템 개발·운영 업무에도 AI 기술을 적용해 업무 자동화와 개발...",
-          "src": "데일리안",
+          "title": "경산시, AI 시대 청년 정착·도시 경쟁력 논의…송길영 작가 초청 토크...",
+          "desc": "미래 인재에게는 새로운 문제를 발굴하고 AI를 활용해 해결하는 역량이 필요하다고 설명했다. 조 시장은 대중교통과 돌봄서비스, 청년 지원정보 제공 등 시민 생활과 밀접한 분야에 디지털 기술을 도입하되, 디지털 기기...",
+          "src": "shinailbo",
           "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/119/0003143865?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1790917901125_1697382_m_1.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072943",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5072943_2070556_575.jpg"
         },
         {
-          "title": "'해킹 국감' 앞둔 5대 은행장…보안 투자보다 예방 실패 책임 도마 [이슈...",
-          "desc": "AI 기반 보안시스템의 실효성도 검증 대상이다. 보안 관제에 AI를 도입하면 이상 징후 탐지와 분석 업무의... 이 가운데 국민·신한·하나은행은 AI 기술을 활용한 탐지·관제 역량 강화에 무게를 뒀다. 국감에서는 각 은행에...",
-          "src": "전자신문",
+          "title": "숏폼·AI 챗봇 청소년 보호 미흡…카톡 AI 비서 탑재[뉴스잇(IT)쥬]",
+          "desc": "안드로이드 이용자 중심의 민간 패널조사를 활용하는 데다 법정 기준인 일평균 이용자 수 대신 월간... 이어왔다\"며 \"이제 AI 기술로 다음 10년의 연결을 만들어 간다\"고 말했다. 이어 \"카카오톡 어디서나 AI를 불러 말로...",
+          "src": "뉴스1",
           "date": "10/18",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
-          "img": "https://cdn.ngetnews.com/news/thumbnail/202610/554623_122572_5022_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009234317?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/12/8153805/high.jpg"
         },
         {
-          "title": "AI가 바꾼 검색 지형…구글 크롬, 네이버 제치고 5개월째 선두",
-          "desc": "이어 구글은 지난 4월에는 국내 크롬에 AI 비서 ‘제미나이 인 크롬’을 도입했다. 브라우저에 탑재된 AI가... 외부 AI 서비스의 데이터 무단 수집을 금지한 이후에도, 정책을 우회하는 무단 탈취를 막기 위한 기술 대응을...",
-          "src": "ceoscoredaily",
+          "title": "경북도, AI 활용 '도지사 직인날인 관리 시스템' 전국 최초 구축",
+          "desc": "생성형 AI를 활용해 담당 공무원이 직접 개발하는 과정에서 상용 소프트웨어나 신규 서버 구매 없이 기존... 이번 시스템 도입은 공공 디지털 지식자산 확보와 적극 행정의 좋은 사례로 평가받으며, AI 기술을 통한 스마트...",
+          "src": "straightnews",
           "date": "10/18",
-          "url": "https://www.ceoscoredaily.com/page/view/2026101615370541265",
-          "img": "https://www.ceoscoredaily.com/photos/2026/10/16/2026101615205782923_l.JPG"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313376",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/313376_225633_5135_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "삼성이 갤럭시폰 생산량 줄이는 이유... 기회일까 위기일까",
+          "desc": "메모리는 돈 벌고, 스마트폰은 원가 부담 커졌다 매체의 설명에 따르면 삼성전자 MX사업부는 최근 협력사에 부품 공급량을 20~30% 줄여달라고 요청했으며, 이에 따라 올해 4분기 스마트폰 생산량이 최대 30% 감소할...",
+          "src": "betanews",
+          "date": "10/18",
+          "url": "https://www.betanews.net/article/view/beta202610180004",
+          "img": "https://www.betanews.net/data/beta/image/2026/10/18/beta20261018000004.png"
+        },
+        {
+          "title": "[칩톡]\"연구 끝, 제대로 돈 번다\"…리사 수 사로잡은 국산 NPU, 본격 수익...",
+          "desc": "대만 에이온과 3년간 양산 부품 공급 협약을 맺었으며, 삼성전자 2나노 공정을 적용해 소형 로봇 환경에서... 이처럼 국산 NPU가 상용화 문턱을 넘는 데에는 소프트웨어 최적화와 후공정을 뒷받침한 협력사들의 지원...",
+          "src": "view",
+          "date": "10/18",
+          "url": "https://n.news.naver.com/mnews/article/277/0005829866?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026101514364962237_1792042610.png"
+        },
         {
           "title": "[Who Is ?] 한남희 삼아알미늄 대표이사 회장",
           "desc": "압연, 가공, 전자부품판매 등 3개 부분 사업 체제를 구축하고 있다. 압연부문은 리튬이온 베터리용 호일... 국내외 협력사 관계자들을 초청해 창립 기념행사를 진행 후 기념촬영을 하고 있다. <삼아알미늄...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/17",
           "url": "http://www.e2news.com/news/articleView.html?idxno=335186",
           "img": "https://cdn.e2news.com/news/thumbnail/202610/335186_233373_78_v150.jpg"
-        },
-        {
-          "title": "애플 '접는 폰' 출시 임박...생산 차질, 흥행 변수로",
-          "desc": "공개 당시부터 삼성전자가 주도해 온 폴더블폰 시장에 애플이 도전장을 내민다는 점에서 주목받았다. 시장의 관심이 집중된 만큼 초기 흥행에 대한 기대도 크다. 문제는 공급 물량이다. 업계에서는 애플이 최근 부품...",
-          "src": "newsway",
-          "date": "10/17",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101513363898985",
-          "img": "https://nimage.newsway.co.kr/photo/2026/09/10/20260910001795_1200.png"
-        },
-        {
-          "title": "삼성전기는 '반토막' 났는데…한 달만에 58% 급등한 '이곳' [대기업 협력...",
-          "desc": "롯데에너지머티리얼즈는 삼성전기와 직접적인 사업 연관 관계는 없지만, 차세대 전고체 배터리와 전자... 23%) 삼성전기 협력사인 아모텍은 적층세라믹콘덴서(MLCC) 및 전장용 부품 체질 개선 성과가 주가를...",
-          "src": "한국경제",
-          "date": "10/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005343525?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/01.45940330.1.jpg"
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[체험기] ‘역시 로보락인가’…韓 맞춤형 ‘S10 MaxV Ultra Steam’ 써보...",
-      "url": "https://www.news2day.co.kr/article/20261016500257",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500242.gif"
+      "title": "\"우리 집 냉장고도 해킹될까?\"…프랑스 사태에 커지는 불안",
+      "url": "https://www.tjb.co.kr/news05/bodo/view/id/104968",
+      "img": "https://www.tjb.co.kr/html1/images/noimg.png"
+    },
+    {
+      "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=155309",
+      "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
+    },
+    {
+      "title": "미국 주방 장악한 LG전자…컨슈머리포트 3개 품목 신뢰도 1위",
+      "url": "https://n.news.naver.com/mnews/article/079/0004199847?sid=101",
+      "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/18/202610181146236500_0.jpg"
     },
     {
       "title": "[현장] 토마토 알아보는 냉장고, 문자 보내는 차창…삼성·LG의 AI 신기술",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261016.2ea79a4a556f4c888f1cfa26f67e8316_R.jpg"
     },
     {
-      "title": "[전라 Insight] 1970년 경제정책의 재평가",
-      "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
-      "img": "https://cdn.jeollailbo.com/news/thumbnail/202610/813816_201336_132_v150.jpg"
+      "title": "피지컬AI부터 하늘 나는 택시까지…대구 엑스코서 미래기술 총집결",
+      "url": "https://www.idaegu.com/news/articleView.html?idxno=666332",
+      "img": "https://cdn.idaegu.com/news/photo/202610/666332_375065_355.png"
     },
     {
-      "title": "계열사 넘어 해외로…삼성SDS·LG CNS, AI로 고객 넓힌다",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026101510342107184",
-      "img": "https://nimage.newsway.co.kr/photo/2026/07/20/20260720000029_1200.png"
-    },
-    {
-      "title": "2금융권 해킹 확산…저축은행중앙회, 1400억 '차세대 전산망' 구축",
-      "url": "https://n.news.naver.com/mnews/article/119/0003143865?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202610/news_1790917901125_1697382_m_1.jpg"
-    },
-    {
-      "title": "'해킹 국감' 앞둔 5대 은행장…보안 투자보다 예방 실패 책임 도마 [이슈...",
-      "url": "https://www.ngetnews.com/news/articleView.html?idxno=554623",
-      "img": "https://cdn.ngetnews.com/news/thumbnail/202610/554623_122572_5022_v150.jpg"
+      "title": "경산시, AI 시대 청년 정착·도시 경쟁력 논의…송길영 작가 초청 토크...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072943",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5072943_2070556_575.jpg"
     }
   ]
 };
