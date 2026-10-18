@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.19 (월) 03:39",
+  "updatedAt": "2026.10.19 (월) 07:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[뉴스룸에서] 주주와 직원의 셈법이 다를 때",
-          "desc": "삼성전자 주가가 지난주 10% 넘게 떨어졌다. 그즈음 직장인 익명 커뮤니티 삼성전자 게시판에는 주가 하락을... 초기업노조는 지난달 조합원 투표를 거쳐 가전·모바일(DX·디바이스경험) 부문을 제외한 DS 중심 노조로...",
-          "src": "kmib",
+          "title": "삼성 100조 벌 때 저가폰 사라진다…메모리 사이클의 역설 [정길준의 위...",
+          "desc": "삼성전자가 사상 최초로 분기 영업이익 100조원 고지를 넘어섰다. 하지만 이 같은 호실적의 이면에는... (모바일·TV·가전)은 부품 원가 압박 등으로 매출 48조원에 영업이익 8000억원 적자를 기록하며 극명한 대조를...",
+          "src": "economist",
           "date": "10/19",
-          "url": "https://n.news.naver.com/mnews/article/005/0001879409?sid=110",
-          "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501505.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000104373?sid=105",
+          "img": "https://economist.co.kr/data/ecn/image/2026/10/16/ecn20261016000025.800x.0.png"
+        },
+        {
+          "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
+          "desc": "◀ 리포트 ▶ 홈캠부터 스마트TV, 냉장고, 로봇청소기까지, 집 안 곳곳에 자리 잡은 이른바 '스마트 가전'들.... 삼성전자와 LG전자 등은 이상 징후가 감지되면 스마트폰과 가전의 연결을 스스로 끊는 방법으로 AI 해킹...",
+          "src": "imnews",
+          "date": "10/19",
+          "url": "https://n.news.naver.com/mnews/article/214/0001529841?sid=102",
+          "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/10/19/today_20261019_064418_2_13_Large.jpg"
+        },
+        {
+          "title": "[구독경제의 명암①] 가전부터 모빌리티까지 100조 시장으로...사지 않고...",
+          "desc": "국내 대표 가전사인 삼성전자와 LG전자도 가전 구독 사업을 확대하며 시장이 폭발적으로 성장하고 있다.... 가전 구독이 특히 주목되는 점은 세탁건조기와 냉장고, 에어컨 등 고가의 대형 프리미엄 가전으로 서비스...",
+          "src": "소비자가만드는신문",
+          "date": "10/19",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765768",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765768_319579_2758_v150.jpg"
         },
         {
           "title": "\"2시간 반 만에 홈캠 뚫려\"‥AI 해킹에 경고등 켜진 가전",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/18",
           "url": "https://n.news.naver.com/mnews/article/214/0001529787?sid=101",
           "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/10/18/desk_20261018_201837_1_10_Large.jpg"
-        },
-        {
-          "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
-          "desc": "세부 품목별로는 냉장고 분야에서 삼성전자, 세탁기·건조기와 에어컨, TV 분야에서는 LG전자가 1위를 차지했다. 로봇청소기 분야에서는 로보락이 35.0점으로 가장 높은 점수를 받았다. 가구 분야에서는 한샘이...",
-          "src": "ibabynews",
-          "date": "10/18",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=155309",
-          "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
-        },
-        {
-          "title": "中 마이디어-스웨덴 일렉트로룩스 백색가전 북미 연합 가동…삼성전자...",
-          "desc": "삼성전자·LG전자 보급형 냉장고·세탁기가 가격 인하 압박을 받을 수 있다는 분석이다. 주택 건설사 대상 B2B 시장도 변수다. 일렉트로룩스 빌트인 납품 채널에 마이디어 제품군이 더해지면 삼성전자·LG전자와 수주...",
-          "src": "전자신문",
-          "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/030/0003476072?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.740b97a3a40541d5bfd321ed54f37afc_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "충남교육청, AI로 평가 혁신 승부수…서울·세종·경북과 손잡았다",
-          "desc": "■ 공정성·신뢰도가 관건…AI 활용 기준도 세워야 AI 기반 평가 시스템이 학교 현장에 안착하려면 기술 도입뿐 아니라 평가의 공정성과 신뢰도를 뒷받침하는 관리체계가 함께 마련돼야 한다. 학생 답변의 맥락과 표현...",
-          "src": "tournews21",
+          "title": "화성특례시, 인공지능 첨단기술 도입",
+          "desc": "화성특례시가 인공지능 첨단기술을 도입해 더욱 안전한 스마트 도시로 거듭난다. 화성특례시는 한국과학기술연구원과 함께 AI 기술을 활용한 실종자 고속검색 시스템...",
+          "src": "breaknews",
           "date": "10/19",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146028",
-          "img": "https://cdn.tournews21.com/news/photo/202610/146028_272406_199.jpg"
+          "url": "http://www.breaknews.com/1243794",
+          "img": "https://www.breaknews.com/data/breaknews_com/upload/sns_thumbnail.jpg"
         },
         {
-          "title": "스마트 공장서 본 중기부 장관의 진심[투데이窓/박영선]",
-          "desc": "대기업이 가진 기술과 경험·인프라를 중소기업과 나누고 이를 통해 함께 성장하는 생태계를 만들자는... 스마트공장 구축 지원이 설비와 시스템 도입에 머물지 않고, 데이터의 품질과 활용도, AI를 통한 공정 개선...",
-          "src": "머니투데이",
+          "title": "삼성전자 사우디, 통신 타워 기업 '타왈'과 네트워크 자산 관리 계약",
+          "desc": "Pro) 활용에 협력하는 공급 및 교육 계약을 체결했다고 18일(현지 시간) 보도했다. 스마트싱스 프로는 다양한... 타왈 최고 경영자인 모하메드 알 하크바니는 이번 계약에 대해 \"스마트 기술을 도입하고 운영 효율성과...",
+          "src": "kpinews",
           "date": "10/19",
-          "url": "https://n.news.naver.com/mnews/article/008/0005427986?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=928,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101814411539492_1.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065564879818161",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/19/p1065564879818161_573_thum.jpg"
         },
         {
-          "title": "[미국 특징주] 英 경쟁당국, MS 규제 칼 빼들어 엑셀·팀즈·코파일럿 묶...",
-          "desc": "이번 조치로 미국 거대 기술기업인 마이크로소프트가 엑셀, 팀즈, AI 비서 코파일럿 등의 제품을 묶어... 여기에는 언론사 등 콘텐츠 발행자가 자사 콘텐츠를 구글 AI 기능에 활용되지 않도록 막을 수 있게 하는...",
-          "src": "뉴스핌",
+          "title": "현대차그룹, 의왕연구소서 피지컬 AI 로봇·디지털 트윈 시연",
+          "desc": "이 기술은 부품 변형이나 작은 오류로 인한 생산 중단 위험을 줄이고 정교한 제어가 가능하도록 설계됐다. 엔비디아 협력 디지털 트윈과 AI 에이전트 도입 현대자동차그룹은 엔비디아와의 협력을 통해 실제 공장 환경을...",
+          "src": "g-enews",
           "date": "10/19",
-          "url": "https://www.newspim.com/news/view/20261019000015",
-          "img": "https://img.newspim.com/news/2026/10/19/2610190156477180_t1.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026101907054857072bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261019070923032532bd56fbc3c21121419978.jpg"
         },
         {
-          "title": "컴투스 '제우스: 오만의 신', 경쟁 게임의 새 방정식",
-          "desc": "높은 전투력을 다투는 직접 대결 외에도 개인 도전, 길드원과의 협력 플레이, AI 페르소나를 활용한 간접... 정식 출시 이후에도 길드 레이드, 콜로세움, 점령전, 아카디아 제전 등 다채로운 콘텐츠를 순차 도입해 경쟁의...",
-          "src": "gameple",
+          "title": "[보험사 AX 레이스①] 보험업계 IT 경쟁 후끈…AI로 승부수",
+          "desc": "데이터를 활용한 'AI스마트 청약'으로 설계사별 패턴에 맞는 맞춤 설계를 지원한다. 심사 사유를 미리 분류해 보여주는 '신호등 기능'도 도입해 심사 대기 없이 청약이 가능해졌다. DB손해보험은 시스템을 통째로...",
+          "src": "news2day",
           "date": "10/19",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216723",
-          "img": "https://cdn.gameple.co.kr/news/photo/202610/216723_249774_417.jpg"
+          "url": "https://www.news2day.co.kr/article/20261016500248",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500247.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "AI가 장비 고장 먼저 잡는다...반도체 ‘자율형 팹’ 경쟁 본격화",
+          "desc": "지능화해 부품 재고를 약 30% 줄일 것으로 SK하이닉스는 기대하고 있다. AI가 원인과 대응책을 제시하면... 삼성전자가 공정 데이터 일부를 협력사와 공유하기 위해 구축한 플랫폼 ‘DSEP’에는 장비사를 중심으로...",
+          "src": "socialvalue",
+          "date": "10/19",
+          "url": "https://www.socialvalue.kr/news/view/1065596056818637",
+          "img": "http://www.socialvalue.kr/news/data/20261016/p1065596056818637_741_thum.jpg"
+        },
         {
           "title": "[HARFKO 2026] 에프원공조, 스테인리스 배관 가공 복합기 공개",
           "desc": "이를 바탕으로 LG전자와 삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 기존 냉동공조 핵심 부품 공급에서 전문 생산 설비 분야로 사업 영역을 확대하고, 고객사의 생산...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/18",
           "url": "https://www.betanews.net/article/view/beta202610180004",
           "img": "https://www.betanews.net/data/beta/image/2026/10/18/beta20261018000004.png"
-        },
-        {
-          "title": "[칩톡]\"연구 끝, 제대로 돈 번다\"…리사 수 사로잡은 국산 NPU, 본격 수익...",
-          "desc": "대만 에이온과 3년간 양산 부품 공급 협약을 맺었으며, 삼성전자 2나노 공정을 적용해 소형 로봇 환경에서... 이처럼 국산 NPU가 상용화 문턱을 넘는 데에는 소프트웨어 최적화와 후공정을 뒷받침한 협력사들의 지원...",
-          "src": "view",
-          "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/277/0005829866?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026101514364962237_1792042610.png"
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[뉴스룸에서] 주주와 직원의 셈법이 다를 때",
-      "url": "https://n.news.naver.com/mnews/article/005/0001879409?sid=110",
-      "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501505.jpg"
+      "title": "삼성 100조 벌 때 저가폰 사라진다…메모리 사이클의 역설 [정길준의 위...",
+      "url": "https://n.news.naver.com/mnews/article/243/0000104373?sid=105",
+      "img": "https://economist.co.kr/data/ecn/image/2026/10/16/ecn20261016000025.800x.0.png"
+    },
+    {
+      "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
+      "url": "https://n.news.naver.com/mnews/article/214/0001529841?sid=102",
+      "img": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/10/19/today_20261019_064418_2_13_Large.jpg"
+    },
+    {
+      "title": "[구독경제의 명암①] 가전부터 모빌리티까지 100조 시장으로...사지 않고...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765768",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765768_319579_2758_v150.jpg"
     },
     {
       "title": "\"2시간 반 만에 홈캠 뚫려\"‥AI 해킹에 경고등 켜진 가전",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/10/18/desk_20261018_201837_1_10_Large.jpg"
     },
     {
-      "title": "웨딩 102개 카테고리 AI 인용 순위 공개… 예식장은 더채플, 예물은 까르...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=155309",
-      "img": "https://www.ibabynews.com/news/photo/202610/155309_123754_3953.png"
+      "title": "화성특례시, 인공지능 첨단기술 도입",
+      "url": "http://www.breaknews.com/1243794",
+      "img": "https://www.breaknews.com/data/breaknews_com/upload/sns_thumbnail.jpg"
     },
     {
-      "title": "中 마이디어-스웨덴 일렉트로룩스 백색가전 북미 연합 가동…삼성전자...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003476072?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.740b97a3a40541d5bfd321ed54f37afc_P1.jpg"
-    },
-    {
-      "title": "충남교육청, AI로 평가 혁신 승부수…서울·세종·경북과 손잡았다",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=146028",
-      "img": "https://cdn.tournews21.com/news/photo/202610/146028_272406_199.jpg"
-    },
-    {
-      "title": "스마트 공장서 본 중기부 장관의 진심[투데이窓/박영선]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427986?sid=110",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=928,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101814411539492_1.jpg"
+      "title": "삼성전자 사우디, 통신 타워 기업 '타왈'과 네트워크 자산 관리 계약",
+      "url": "https://www.kpinews.kr/newsView/1065564879818161",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/19/p1065564879818161_573_thum.jpg"
     }
   ]
 };
