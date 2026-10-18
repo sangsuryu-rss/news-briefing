@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.19 (월) 00:54",
+  "updatedAt": "2026.10.19 (월) 03:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"글로벌 AI 허브 평가에 '시민사회 준비도' 30% 반영해야\"",
-          "desc": "경험을 AI 기술과 결합하면 생물다양성 분석, 탄소흡수원 관리, 기후변화 영향 예측 등의 실증사업을 추진할 수 있다고 밝혔다. 특히 고양시가 접한 한강하구와 서해 연안의 지리적 특성을 활용하면 해수면 상승과...",
-          "src": "mygoyang",
+          "title": "충남교육청, AI로 평가 혁신 승부수…서울·세종·경북과 손잡았다",
+          "desc": "■ 공정성·신뢰도가 관건…AI 활용 기준도 세워야 AI 기반 평가 시스템이 학교 현장에 안착하려면 기술 도입뿐 아니라 평가의 공정성과 신뢰도를 뒷받침하는 관리체계가 함께 마련돼야 한다. 학생 답변의 맥락과 표현...",
+          "src": "tournews21",
           "date": "10/19",
-          "url": "http://www.mygoyang.com/news/articleView.html?idxno=90783",
-          "img": "https://cdn.mygoyang.com/news/thumbnail/202610/90783_144730_4631_v150.jpg"
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=146028",
+          "img": "https://cdn.tournews21.com/news/photo/202610/146028_272406_199.jpg"
         },
         {
-          "title": "[글로벌 포커스] 핵잠 도입 경주 합의 1년",
-          "desc": "한국은 탄소중립, 에너지 위기, 핵연료 공급망 불안정, 인공지능(AI)의 전력 수요 급증에 대응하기 위해 핵연료의 안정적 공급을 위한 우라늄 농축과 사용후핵연료의 효율적 관리, 재활용을 위한 재처리가 절실하다. 또한...",
-          "src": "kmib",
+          "title": "스마트 공장서 본 중기부 장관의 진심[투데이窓/박영선]",
+          "desc": "대기업이 가진 기술과 경험·인프라를 중소기업과 나누고 이를 통해 함께 성장하는 생태계를 만들자는... 스마트공장 구축 지원이 설비와 시스템 도입에 머물지 않고, 데이터의 품질과 활용도, AI를 통한 공정 개선...",
+          "src": "머니투데이",
           "date": "10/19",
-          "url": "https://n.news.naver.com/mnews/article/005/0001879405?sid=110",
-          "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501402.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005427986?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=928,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101814411539492_1.jpg"
         },
         {
-          "title": "[시론] 피지컬 AI, 승부처는 제조다",
-          "desc": "이런 기술적 난제와 도입·운영 비용을 고려하면 성능, 경제성, 안전성을 동시에 갖춘 범용 로봇의 단기간 내... 제조 현장에 축적된 공정 지식과 데이터를 AI·로봇 기술에 결합해 한국만의 경쟁 우위를 만들어야 한다....",
-          "src": "한국경제",
+          "title": "[미국 특징주] 英 경쟁당국, MS 규제 칼 빼들어 엑셀·팀즈·코파일럿 묶...",
+          "desc": "이번 조치로 미국 거대 기술기업인 마이크로소프트가 엑셀, 팀즈, AI 비서 코파일럿 등의 제품을 묶어... 여기에는 언론사 등 콘텐츠 발행자가 자사 콘텐츠를 구글 AI 기능에 활용되지 않도록 막을 수 있게 하는...",
+          "src": "뉴스핌",
           "date": "10/19",
-          "url": "https://n.news.naver.com/mnews/article/015/0005343779?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://www.newspim.com/news/view/20261019000015",
+          "img": "https://img.newspim.com/news/2026/10/19/2610190156477180_t1.jpg"
         },
         {
-          "title": "이문화 삼성화재 대표, 생애주기별 건강관리…‘케어 내비게이터’ 도...",
-          "desc": "삼성화재는 씨어스와 웨어러블 기기 기반의 생체정보 모니터링 기술을 활용한 애프터케어 모델을 공동... 가족 단위 건강관리도 서비스 확대를 검토하고 있으며, 구체적인 서비스 형태와 도입 여부는 고객 수요와 서비스...",
-          "src": "fntimes",
+          "title": "컴투스 '제우스: 오만의 신', 경쟁 게임의 새 방정식",
+          "desc": "높은 전투력을 다투는 직접 대결 외에도 개인 도전, 길드원과의 협력 플레이, AI 페르소나를 활용한 간접... 정식 출시 이후에도 길드 레이드, 콜로세움, 점령전, 아카디아 제전 등 다채로운 콘텐츠를 순차 도입해 경쟁의...",
+          "src": "gameple",
           "date": "10/19",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026101516061377529efc5ce4ae_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202610151606580574709efc5ce4ae2207211534.jpg&nmt=18"
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216723",
+          "img": "https://cdn.gameple.co.kr/news/photo/202610/216723_249774_417.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.740b97a3a40541d5bfd321ed54f37afc_P1.jpg"
     },
     {
-      "title": "\"글로벌 AI 허브 평가에 '시민사회 준비도' 30% 반영해야\"",
-      "url": "http://www.mygoyang.com/news/articleView.html?idxno=90783",
-      "img": "https://cdn.mygoyang.com/news/thumbnail/202610/90783_144730_4631_v150.jpg"
+      "title": "충남교육청, AI로 평가 혁신 승부수…서울·세종·경북과 손잡았다",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=146028",
+      "img": "https://cdn.tournews21.com/news/photo/202610/146028_272406_199.jpg"
     },
     {
-      "title": "[글로벌 포커스] 핵잠 도입 경주 합의 1년",
-      "url": "https://n.news.naver.com/mnews/article/005/0001879405?sid=110",
-      "img": "https://image.kmib.co.kr/online_image/2026/1019/01100201.20261018501402.jpg"
+      "title": "스마트 공장서 본 중기부 장관의 진심[투데이窓/박영선]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427986?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=928,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101814411539492_1.jpg"
     }
   ]
 };
