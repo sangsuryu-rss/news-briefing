@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.19 (월) 22:23",
+  "updatedAt": "2026.10.20 (화) 04:58",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "코파스·삼진지에스·도티오와 MOU 체결...기고만장, 물류·AI·HR 통합 솔...",
-          "desc": "도티오는 AI 업무 진단과 시스템 구축·운영을 맡으며, 기고만장은 HR 콘텐츠와 네트워크를 활용한 교육... 이번 협약은 물류 현장의 자동화·AI 도입 확산에 맞춰 설비와 운영, AI 기술, 사람과 조직을 하나로 연결해 원스톱...",
-          "src": "아이뉴스24",
-          "date": "10/19",
-          "url": "https://n.news.naver.com/mnews/article/031/0001067374?sid=102",
-          "img": "https://image.inews24.com/v1/3102e61a20524f.jpg"
+          "title": "월드, 금융권에 인간 증명 기술 도입…AI 사칭·딥페이크 대응",
+          "desc": "월드(World)가 인공지능(AI)을 이용한 사칭과 딥페이크 사기에 대응하기 위해 은행·금융기관용 인간 증명... 검증 기술의 활용 범위도 넓어지고 있다. 월드ID 앱은 이용자가 자신에 관한 증명을 발급받아 관리하고...",
+          "src": "khgames",
+          "date": "10/20",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309457",
+          "img": "https://cdn.khgames.co.kr/news/photo/202610/309457_317064_443.png"
         },
         {
-          "title": "딥브레인AI, 15억원 규모 정부 R&D 단독 수행…대화로 영상 제작·편집하...",
-          "desc": "생성형 인공지능(AI)이 영상 제작 과정에 도입되면서 콘텐츠를 만드는 방식에도... 구축하고, AI 기반 영상 제작 기술의 활용 범위를 확대해 나가겠다”고 말했다....",
-          "src": "venturesquare",
-          "date": "10/19",
-          "url": "https://www.venturesquare.net/1121150/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/DEEP-AI.jpg"
+          "title": "정명근 화성시장 \"AI 행정으로 시민 삶 풍요롭게, 세계 무대 선보일 것...",
+          "desc": "위해 AI 기술을 행정 전반에 과감하게 도입했다”고 말했다. 화성시는 2024년 전국 최초로 도입한 ‘AI... 그는 “시민과 공직자가 AI를 직접 경험하고 활용할 수 있도록 ‘AI 영상 공모전(별별화성 Awards)’과...",
+          "src": "한국일보",
+          "date": "10/20",
+          "url": "https://n.news.naver.com/mnews/article/469/0000960437?sid=102",
+          "img": "https://newsimg.hankookilbo.com/2026/10/19/d9e28180-fac1-4173-8944-975b98c97d98.jpg"
         },
         {
-          "title": "법무법인 지주, '청구스' 도입해 미수금 및 계약 관리 통합",
-          "desc": "를 도입하면서 기존에 여러 시스템에서 처리하던 업무를 하나로 통합했다. 이번 도입은 과학기술정보통신부... 시스템을 도입했다고 설명했다. AI를 활용한 입금 대조와 미입금 안내 기능으로 의뢰인에게 직접 대금을...",
-          "src": "CNB뉴스",
-          "date": "10/19",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019847",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1019847_522163_2945.png"
+          "title": "'AI 행정' 개척 화성시, 'MARS 2026' 통해 미래산업 키운다 [2026 미지답 ...",
+          "desc": "생성형 AI인 제미나이(Gemini) 등을 활용해 문서와 동영상을 만들었다. 복잡한 용어와 개념 설명에도... 화성시는 올해까지 총 91개 사업에 AI기술을 도입해 진행중이다. AI 경쟁력, 글로벌 경쟁 시장으로 화성시는...",
+          "src": "한국일보",
+          "date": "10/20",
+          "url": "https://n.news.naver.com/mnews/article/469/0000960432?sid=102",
+          "img": "https://newsimg.hankookilbo.com/2026/10/16/58390361-6616-4438-8e7e-7e023904765f.jpg"
         },
         {
-          "title": "로바이, 중국 링커봇과 로봇 자율 제어 기술 검증…AI가 로봇 신체 구조...",
-          "desc": "새로운 로봇을 도입할 때마다 제어 소프트웨어를 개발하고 보정해야 하는 과정은... 로바이는 AI 자가탐색 기술을 활용해 이러한 작업의 반복을 줄이고, 다양한 로봇...",
-          "src": "venturesquare",
-          "date": "10/19",
-          "url": "https://www.venturesquare.net/1121128/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/ROBAI.jpg"
+          "title": "[시론] 피지컬 AI 시대, 건설현장은 ‘다크 사이트’를 향한다",
+          "desc": "정도 활용하고 있다고 답했다. 2025년 29%에서 크게 늘어 현장 로봇 활용이 빠르게 확대되고 있음을... 이제 과제는 기술 도입을 실제 생산성 향상으로 연결하는 데 있다. 개별 장비 몇 대의 자동화로는 부족하다. 현장...",
+          "src": "dnews",
+          "date": "10/20",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180831401590999",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/10/18/202610180831401590999-2-698200.jpg"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://idsn.co.kr/news/data/20261019/p1065603309112802_806_thum.jpg"
     },
     {
-      "title": "코파스·삼진지에스·도티오와 MOU 체결...기고만장, 물류·AI·HR 통합 솔...",
-      "url": "https://n.news.naver.com/mnews/article/031/0001067374?sid=102",
-      "img": "https://image.inews24.com/v1/3102e61a20524f.jpg"
+      "title": "월드, 금융권에 인간 증명 기술 도입…AI 사칭·딥페이크 대응",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309457",
+      "img": "https://cdn.khgames.co.kr/news/photo/202610/309457_317064_443.png"
     },
     {
-      "title": "딥브레인AI, 15억원 규모 정부 R&D 단독 수행…대화로 영상 제작·편집하...",
-      "url": "https://www.venturesquare.net/1121150/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/DEEP-AI.jpg"
+      "title": "정명근 화성시장 \"AI 행정으로 시민 삶 풍요롭게, 세계 무대 선보일 것...",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960437?sid=102",
+      "img": "https://newsimg.hankookilbo.com/2026/10/19/d9e28180-fac1-4173-8944-975b98c97d98.jpg"
     }
   ]
 };
