@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.19 (월) 13:45",
+  "updatedAt": "2026.10.19 (월) 22:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "스마트공장 도입한 中企 제조혁신 성과 '한자리에'",
-          "desc": "이번 행사에는 생활용품·산업용품·기계설비·부품소재·생활가전 분야 37개사와 AI 특별관 6개사, 상생마켓 10개사 등 총 53개사가 참여했다. 사업 참여 中企 90.2%가 만족 중기중앙회와 중기부·삼성전자는 지난...",
-          "src": "kbiznews",
+          "title": "지금 우리가 이건희 회장을 소환하는 이유(上)",
+          "desc": "이재용 삼성전자 회장을 비롯한 유족과 삼성 사장단이 참석해 고인의 경영철학과 업적을 기릴 것으로... 중심가에 삼성이라는 이름이 등장했다. 세계인의 손에는 삼성 스마트폰이 들렸고, 가정에는 삼성 TV와 가전제품이...",
+          "src": "dongponews",
           "date": "10/19",
-          "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115017",
-          "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202610/115017_78069_4156_v150.jpg"
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=61143",
+          "img": "https://cdn.dongponews.net/news/thumbnail/202610/61143_217958_1926_v150.jpg"
         },
         {
-          "title": "갤럭시 카메라 만들던 나무가, 글로벌 휴머노이드 뚫었다",
-          "desc": "나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기에 카메라 모듈을 공급하는 업체다. 지난해 연결 매출 4599억원 가운데 카메라 모듈이 4591억원을 차지했다. 거래처 기준으로는 삼성전자 비중이 2024년과 2025년...",
-          "src": "thelec",
+          "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
+          "desc": "◀ 리포트 ▶ 홈캠부터 스마트TV, 냉장고, 로봇청소기까지, 집 안 곳곳에 자리 잡은 이른바 '스마트 가전'들.... 삼성전자와 LG전자 등은 이상 징후가 감지되면 스마트폰과 가전의 연결을 스스로 끊는 방법으로 AI 해킹...",
+          "src": "imnews",
           "date": "10/19",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=63821",
-          "img": "https://cdn.thelec.kr/news/photo/202610/63821_50197_843.jpg"
+          "url": "https://n.news.naver.com/mnews/article/214/0001529963?sid=101",
+          "img": "https://image.imnews.imbc.com/replay/2026/nw1400/article/__icsFiles/afieldfile/2026/10/19/14news_20261019_152619_1_7_Large.jpg"
         },
         {
-          "title": "[기업家] LG전자 ⑮ㅣ 美 프리미엄 가전 1위 굳히고 AI홈·로봇 사업 확...",
-          "desc": "삼성전자는 비스포크 AI 콤보 세탁건조기와 비스포크 AI 패밀리허브 냉장고의 AI 기능을 직접 체험할 수 있도록 했고, 배송·설치·케어 서비스를 강화한 '삼성 AI 구독' 서비스도 소개했다. 갤럭시 헤리티지존에서는...",
-          "src": "cbci",
+          "title": "삼성전자, 가전 설치비 기준 변경…사다리차 최대 15만 원 추가",
+          "desc": "| 이코노미사이언스 박성현 기자 | 삼성전자가 가전제품 배송·설치 과정에서 발생하는 특수장비 이용료와... 19일 업계에 따르면 변경된 기준은 지난 1일 이후 주문한 냉장고와 세탁기, 건조기, TV, 에어컨 등...",
+          "src": "e-science",
           "date": "10/19",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=616853",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/616853_423865_1244_v150.jpg"
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137568",
+          "img": "https://cdn.e-science.co.kr/news/photo/202610/137568_70381_1957.jpg"
         },
         {
-          "title": "산불·화재 피해 가전도 무상수리…삼성·LG, 지원 범위 확대",
-          "desc": "태풍이나 호우뿐 아니라 대형 산불과 화재, 폭발 등 사회재난으로 가전제품 피해를 입은 주민도 삼성전자와... 냉장고·세탁기 등 대형 가전은 개별 수리팀의 방문을 신청해 가정에서 수리받을 수 있다. 행정안전부는...",
-          "src": "thepowernews",
+          "title": "재난 피해 가전제품 무상수리 지원 확대...정부, 삼성·LG전자와 업무협...",
+          "desc": "행정안전부는 오는 20일 삼성전자㈜, LG전자㈜와 '재난피해지역 가전제품 무상수리 지원을 위한 업무협약(MOU)... 냉장고나 세탁기 등 크기가 커서 현장 부스로 옮기기 어려운 가전제품은 개별 수리팀의 방문 서비스를...",
+          "src": "idsn",
           "date": "10/19",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=202610191328572308de3f0aa1be_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261019132956020420de3f0aa1be2208661207.jpg&nmt=7"
+          "url": "https://idsn.co.kr/news/view/1065603309112802",
+          "img": "https://idsn.co.kr/news/data/20261019/p1065603309112802_806_thum.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스마트공장 도입한 中企 제조혁신 성과 '한자리에'",
-          "desc": "인공지능(AI) 기술과 제조혁신 성과를 한자리에 선보였다. 중소기업중앙회는 중소벤처기업부, 삼성전자와... 검사에도 AI가 활용되고 있다. 개인 맞춤형 안경렌즈 제조기업 옵티컴은 국내 안경렌즈 업계 최초로 도입한...",
-          "src": "kbiznews",
+          "title": "코파스·삼진지에스·도티오와 MOU 체결...기고만장, 물류·AI·HR 통합 솔...",
+          "desc": "도티오는 AI 업무 진단과 시스템 구축·운영을 맡으며, 기고만장은 HR 콘텐츠와 네트워크를 활용한 교육... 이번 협약은 물류 현장의 자동화·AI 도입 확산에 맞춰 설비와 운영, AI 기술, 사람과 조직을 하나로 연결해 원스톱...",
+          "src": "아이뉴스24",
           "date": "10/19",
-          "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115017",
-          "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202610/115017_78069_4156_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001067374?sid=102",
+          "img": "https://image.inews24.com/v1/3102e61a20524f.jpg"
         },
         {
-          "title": "네이버클라우드, 무료 '보안 자가진단' 사이트 오픈…AI 보안까지 21문항...",
-          "desc": "보안 자가진단은 네이버클라우드의 클라우드·보안 기술과 운영 경험을 바탕으로 마련한 참여형 진단 서비스로, 네트워크 보안, 접근제어, 데이터 보호·암호화 등 7개 영역, 21개 문항으로 구성됐다. 특히 'AI 활용 환경...",
-          "src": "팝콘뉴스",
+          "title": "딥브레인AI, 15억원 규모 정부 R&D 단독 수행…대화로 영상 제작·편집하...",
+          "desc": "생성형 인공지능(AI)이 영상 제작 과정에 도입되면서 콘텐츠를 만드는 방식에도... 구축하고, AI 기반 영상 제작 기술의 활용 범위를 확대해 나가겠다”고 말했다....",
+          "src": "venturesquare",
           "date": "10/19",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=136447",
-          "img": "https://cdn.popcornnews.net/news/thumbnail/202610/136447_162592_4126_v150.jpg"
+          "url": "https://www.venturesquare.net/1121150/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/DEEP-AI.jpg"
         },
         {
-          "title": "[재계는 지금] LG, 전 계열사 사업보고회 돌입 外",
-          "desc": "한 대기업 구매팀은 드로우엑스 도입 후 도면 검토 및 관리 시간을 최대 90% 줄였고 또 다른 대기업... 과학기술정보통신부 '전국민 AI 경진대회' 민간 트랙 시니어 부문 연계 행사로 '찾아가는 시니어 디지털 스쿨...",
-          "src": "dealsite",
+          "title": "법무법인 지주, '청구스' 도입해 미수금 및 계약 관리 통합",
+          "desc": "를 도입하면서 기존에 여러 시스템에서 처리하던 업무를 하나로 통합했다. 이번 도입은 과학기술정보통신부... 시스템을 도입했다고 설명했다. AI를 활용한 입금 대조와 미입금 안내 기능으로 의뢰인에게 직접 대금을...",
+          "src": "CNB뉴스",
           "date": "10/19",
-          "url": "https://dealsite.co.kr/articles/170897",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/09/17/6d5bcd99414c4c5babb2844f1cef4a3f/thumb.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019847",
+          "img": "https://cdn.cnbnews.com/news/photo/202610/1019847_522163_2945.png"
         },
         {
-          "title": "코오롱베니트, 중기부 상생형 AX 선도모델 구축 사업 도입기업 확정",
-          "desc": "중소기업기술정보진흥원이 주관하는 '상생형 인공지능 전환(AX) 선도모델 구축지원사업'의 도입기업으로... AI 얼라이언스 참여사와 파트너사 네트워크를 활용해 현장에 알맞은 기술을 결합하며, 협력 기업을 대상으로 AX...",
-          "src": "dailysecu",
+          "title": "로바이, 중국 링커봇과 로봇 자율 제어 기술 검증…AI가 로봇 신체 구조...",
+          "desc": "새로운 로봇을 도입할 때마다 제어 소프트웨어를 개발하고 보정해야 하는 과정은... 로바이는 AI 자가탐색 기술을 활용해 이러한 작업의 반복을 줄이고, 다양한 로봇...",
+          "src": "venturesquare",
           "date": "10/19",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=208927",
-          "img": "https://cdn.dailysecu.com/news/photo/202610/208927_209953_4040.jpg"
+          "url": "https://www.venturesquare.net/1121128/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/ROBAI.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "반도체 팹 들어서니···ASML에 소부장 기업들까지 우르르",
-          "desc": "ASML과 같은 글로벌 기업뿐만 아니라 국내 굴지의 1·2차 협력사들도 평택 일대에 R&D 센터와 제조 시설을... 구체적으로 전체 반도체 기업 중 약 75%가 소기업이고, 업종의 94%가 장비·부품 제조업체다. 즉, 삼성전자나...",
-          "src": "mdilbo",
+          "title": "곽노정 SK하이닉스 사장 \"美·中·日 생태계 강화…우리도 키워야\"",
+          "desc": "등 협력사 관계자들이 참석했다. 이들은 반도체 공급망 안정화와 기술 경쟁력 강화 방안을 논의했다. 이번... 인근 삼성전자도 약 360조원을 투자해 팹 6기를 짓는 용인 첨단시스템반도체 국가산단 조성에 속도를 내고...",
+          "src": "아이뉴스24",
           "date": "10/19",
-          "url": "http://www.mdilbo.com/detail/0kIA7d/759750",
-          "img": "http://www.mdilbo.com/lib/thumb.html?type=file&src=202610/19/20261019110003622735.jpg&w=1200&h=630"
+          "url": "https://n.news.naver.com/mnews/article/031/0001067352?sid=105",
+          "img": "https://image.inews24.com/v1/5259683ecb3060.jpg"
         },
         {
-          "title": "AI가 장비 고장 먼저 잡는다...반도체 ‘자율형 팹’ 경쟁 본격화",
-          "desc": "지능화해 부품 재고를 약 30% 줄일 것으로 SK하이닉스는 기대하고 있다. AI가 원인과 대응책을 제시하면... 삼성전자가 공정 데이터 일부를 협력사와 공유하기 위해 구축한 플랫폼 ‘DSEP’에는 장비사를 중심으로...",
-          "src": "socialvalue",
+          "title": "삼성, 내년 OLED 갤럭시A 출하목표 1.2억→1억대 하향...2000만대 감소",
+          "desc": "삼성전자가 최근 부품 협력사에 전달한 올해 4분기 스마트폰 부품 발주량 전망치가 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄어든 것도 같은 이유다. 삼성전자 기준으로 플래그십 신제품이 없는 2분기와...",
+          "src": "ZDNet코리아",
           "date": "10/19",
-          "url": "https://www.socialvalue.kr/news/view/1065596056818637",
-          "img": "http://www.socialvalue.kr/news/data/20261016/p1065596056818637_741_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002441530?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/07/01/a0fa24b7bf22a5d6953ffe9ad2efba90.png"
         },
         {
-          "title": "[HARFKO 2026] 에프원공조, 스테인리스 배관 가공 복합기 공개",
-          "desc": "이를 바탕으로 LG전자와 삼성전자의 1·2차 협력사 등 국내 주요 기업에 생산 설비를 납품하고 있다. 에프원공조는 기존 냉동공조 핵심 부품 공급에서 전문 생산 설비 분야로 사업 영역을 확대하고, 고객사의 생산...",
-          "src": "e-platform",
-          "date": "10/18",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=106192",
-          "img": "https://cdn.e-platform.net/news/thumbnail/202610/106192_78247_256_v150.jpg"
+          "title": "첫발 뗀 호남 반도체… 앰코 광주공장 착공",
+          "desc": "정부는 반도체 대기업의 호황이 소재·부품·장비(소부장) 기업으로 확산될 수 있도록 2조원 규모의 상생... 한편 삼성전자도 반도체 협력사를 대상으로 금융·기술 지원을 확대하며 상생협력에 나서고 있다. 삼성전자...",
+          "src": "파이낸셜뉴스",
+          "date": "10/19",
+          "url": "https://n.news.naver.com/mnews/article/014/0005591373?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/19/202610191821409753_e.jpg"
         },
         {
-          "title": "중국 CXMT 차세대 D램 위협인가 [한경 프리미엄9 TODAY]",
-          "desc": "부진으로 삼성전기 주가가 고점 대비 절반 수준으로 떨어진 반면 네오티스(58.95%)와 코리아써키트(27.31%) 등 일부 협력사 및 경쟁사는 가파른 상승세를 타고 있다. 고부가가치 기판과 전자장치 부품 수요에 따라 동일...",
-          "src": "한국경제",
-          "date": "10/18",
-          "url": "https://n.news.naver.com/mnews/article/015/0005343745?sid=101",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "title": "SK하이닉스, 소부장 협력사에 2조 규모 지원… 정부·금융권과 손잡았다",
+          "desc": "소재·부품·장비(소부장) 협력사 지원에 나선다. 총 2조 원 규모의 상생 금융 프로그램을 가동해 협력사들의... 한편, 산통부는 같은 날 서울 양재동 엘타워에서 ‘산업부-삼성전자 기술나눔 행사’를 열었다. 모바일...",
+          "src": "mediawatch",
+          "date": "10/19",
+          "url": "https://www.mediawatch.kr/news/article.html?no=261404",
+          "img": "https://www.mediawatch.kr/data/photos/20261043/art_17923971537005_cb2af8.jpg"
         }
       ]
     },
@@ -165,46 +165,46 @@ window.NEWS_DATA = {
           "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
         },
         {
-          "title": "韓·튀니지 자동차 산업협력 확대…현대차 현지 파트너·유라 등 가교 역...",
-          "desc": "와이어링 하네스와 전장·전자부품, 엔진 부품, 플라스틱·고무 등을 주로 생산하며 연간 수출액은 25억 달러를 웃돈다. 프랑스와 독일, 이탈리아 등 유럽 주요 자동차 생산국과도 인접해 있다. 앞서...",
+          "title": "티에이치엔, 카자흐 최대 車기업과 전장 생산기지 구축…현대차·기아 ...",
+          "desc": "티에이치엔은 와이어링 하네스와 자동차 전장부품을 주력으로 하는 현대차·기아 1차 협력사다. 중국과 베트남, 필리핀, 멕시코 등지에 생산망을 두고 현대차·기아 글로벌 공장에 제품을 공급하고 있다....",
           "src": "더구루",
-          "date": "10/13",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108178",
-          "img": "https://www.theguru.co.kr/data/photos/20261042/art_17918699164796_fe24c0.jpg"
+          "date": "09/16",
+          "url": "https://www.theguru.co.kr/news/article.html?no=107137",
+          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "스마트공장 도입한 中企 제조혁신 성과 '한자리에'",
-      "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115017",
-      "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202610/115017_78069_4156_v150.jpg"
+      "title": "지금 우리가 이건희 회장을 소환하는 이유(上)",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=61143",
+      "img": "https://cdn.dongponews.net/news/thumbnail/202610/61143_217958_1926_v150.jpg"
     },
     {
-      "title": "갤럭시 카메라 만들던 나무가, 글로벌 휴머노이드 뚫었다",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63821",
-      "img": "https://cdn.thelec.kr/news/photo/202610/63821_50197_843.jpg"
+      "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
+      "url": "https://n.news.naver.com/mnews/article/214/0001529963?sid=101",
+      "img": "https://image.imnews.imbc.com/replay/2026/nw1400/article/__icsFiles/afieldfile/2026/10/19/14news_20261019_152619_1_7_Large.jpg"
     },
     {
-      "title": "[기업家] LG전자 ⑮ㅣ 美 프리미엄 가전 1위 굳히고 AI홈·로봇 사업 확...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=616853",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202610/616853_423865_1244_v150.jpg"
+      "title": "삼성전자, 가전 설치비 기준 변경…사다리차 최대 15만 원 추가",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137568",
+      "img": "https://cdn.e-science.co.kr/news/photo/202610/137568_70381_1957.jpg"
     },
     {
-      "title": "산불·화재 피해 가전도 무상수리…삼성·LG, 지원 범위 확대",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202610191328572308de3f0aa1be_7",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261019132956020420de3f0aa1be2208661207.jpg&nmt=7"
+      "title": "재난 피해 가전제품 무상수리 지원 확대...정부, 삼성·LG전자와 업무협...",
+      "url": "https://idsn.co.kr/news/view/1065603309112802",
+      "img": "https://idsn.co.kr/news/data/20261019/p1065603309112802_806_thum.jpg"
     },
     {
-      "title": "스마트공장 도입한 中企 제조혁신 성과 '한자리에'",
-      "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115017",
-      "img": "https://cdn.kbiznews.co.kr/news/thumbnail/202610/115017_78069_4156_v150.jpg"
+      "title": "코파스·삼진지에스·도티오와 MOU 체결...기고만장, 물류·AI·HR 통합 솔...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001067374?sid=102",
+      "img": "https://image.inews24.com/v1/3102e61a20524f.jpg"
     },
     {
-      "title": "네이버클라우드, 무료 '보안 자가진단' 사이트 오픈…AI 보안까지 21문항...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=136447",
-      "img": "https://cdn.popcornnews.net/news/thumbnail/202610/136447_162592_4126_v150.jpg"
+      "title": "딥브레인AI, 15억원 규모 정부 R&D 단독 수행…대화로 영상 제작·편집하...",
+      "url": "https://www.venturesquare.net/1121150/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/DEEP-AI.jpg"
     }
   ]
 };
