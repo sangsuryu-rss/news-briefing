@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.20 (화) 04:58",
+  "updatedAt": "2026.10.20 (화) 08:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "지금 우리가 이건희 회장을 소환하는 이유(上)",
-          "desc": "이재용 삼성전자 회장을 비롯한 유족과 삼성 사장단이 참석해 고인의 경영철학과 업적을 기릴 것으로... 중심가에 삼성이라는 이름이 등장했다. 세계인의 손에는 삼성 스마트폰이 들렸고, 가정에는 삼성 TV와 가전제품이...",
-          "src": "dongponews",
-          "date": "10/19",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=61143",
-          "img": "https://cdn.dongponews.net/news/thumbnail/202610/61143_217958_1926_v150.jpg"
+          "title": "중국이 한국 D램 따라잡는다더니… 한계 왔나? 둔화 쇼크 맞은 CXMT [반도...",
+          "desc": "정부 반대로 이들이 D램을 해외 국가에 판매하지 못할 경우 PC와 가전제품용 칩 등 저가 메모리 시장을... 최근 CXMT는 포에프스퀘어를 비롯한 신기술을 공개하며 삼성전자와 SK하이닉스, 마이크론의 메모리 3강에...",
+          "src": "segye",
+          "date": "10/20",
+          "url": "https://n.news.naver.com/mnews/article/022/0004168051?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/19/20261019520724.jpg"
         },
         {
           "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.e-science.co.kr/news/photo/202610/137568_70381_1957.jpg"
         },
         {
-          "title": "재난 피해 가전제품 무상수리 지원 확대...정부, 삼성·LG전자와 업무협...",
-          "desc": "행정안전부는 오는 20일 삼성전자㈜, LG전자㈜와 '재난피해지역 가전제품 무상수리 지원을 위한 업무협약(MOU)... 냉장고나 세탁기 등 크기가 커서 현장 부스로 옮기기 어려운 가전제품은 개별 수리팀의 방문 서비스를...",
-          "src": "idsn",
-          "date": "10/19",
-          "url": "https://idsn.co.kr/news/view/1065603309112802",
-          "img": "https://idsn.co.kr/news/data/20261019/p1065603309112802_806_thum.jpg"
+          "title": "삼성·LG전자, 클라우드 4조 비용 부담에 'AI 반도체·OS' 독립 선언",
+          "desc": "삼성전자(대표 전영현·노태문)와 LG전자(대표 류재철)가 가전 제품에 탑재되는 인공지능(AI) 반도체와... 적용되는 제품군은 세탁기, 에어컨 등 주요 가전 5종에서 시작해 2024년 말 국내 기준 총 8가지 제품군, 46개...",
+          "src": "소비자가만드는신문",
+          "date": "10/20",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766189",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/766189_319631_3551_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "월드, 금융권에 인간 증명 기술 도입…AI 사칭·딥페이크 대응",
-          "desc": "월드(World)가 인공지능(AI)을 이용한 사칭과 딥페이크 사기에 대응하기 위해 은행·금융기관용 인간 증명... 검증 기술의 활용 범위도 넓어지고 있다. 월드ID 앱은 이용자가 자신에 관한 증명을 발급받아 관리하고...",
-          "src": "khgames",
+          "title": "카카오페이, 스테이블코인 생태계 구축 속도..결제·유통 기반 확대",
+          "desc": "인공지능(AI) 기반 거래까지 기술 실증을 이어가고 있다. 이를 바탕으로 기존 간편결제 서비스를 디지털자산... 스테이블코인 발행·유통 관련 기술과 디지털자산 보안·관리 인프라를 연결해 향후 금융서비스에 활용할...",
+          "src": "kpenews",
           "date": "10/20",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309457",
-          "img": "https://cdn.khgames.co.kr/news/photo/202610/309457_317064_443.png"
+          "url": "https://kpenews.com/View.aspx?No=4270424",
+          "img": "https://cdn.coenworks.com/Files/4/News/202610/8611_20261020082707922.jpg"
         },
         {
-          "title": "정명근 화성시장 \"AI 행정으로 시민 삶 풍요롭게, 세계 무대 선보일 것...",
-          "desc": "위해 AI 기술을 행정 전반에 과감하게 도입했다”고 말했다. 화성시는 2024년 전국 최초로 도입한 ‘AI... 그는 “시민과 공직자가 AI를 직접 경험하고 활용할 수 있도록 ‘AI 영상 공모전(별별화성 Awards)’과...",
-          "src": "한국일보",
+          "title": "\"30% 급락하자 저점매수?\"…트럼프 계좌서 반도체 팔고 '이 기업' 담았다",
+          "desc": "이들 플랫폼에서 수집한 이용자 데이터를 콘텐츠 추천과 맞춤형 광고에 활용하고 있다. 이용자가... AI 기술 도입으로 광고 노출 횟수와 광고 단가가 모두 상승했다는 것이다. 메타는 최근 기업과 개인 이용자의...",
+          "src": "view",
           "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/469/0000960437?sid=102",
-          "img": "https://newsimg.hankookilbo.com/2026/10/19/d9e28180-fac1-4173-8944-975b98c97d98.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005830716?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026092209131037547_1790035990.jpg"
         },
         {
-          "title": "'AI 행정' 개척 화성시, 'MARS 2026' 통해 미래산업 키운다 [2026 미지답 ...",
-          "desc": "생성형 AI인 제미나이(Gemini) 등을 활용해 문서와 동영상을 만들었다. 복잡한 용어와 개념 설명에도... 화성시는 올해까지 총 91개 사업에 AI기술을 도입해 진행중이다. AI 경쟁력, 글로벌 경쟁 시장으로 화성시는...",
-          "src": "한국일보",
+          "title": "KAIST, 위성영상 복원하는 AI 개발…구름 속 지표도 정밀하게 구현",
+          "desc": "인공지능(AI) 기술을 개발했다. 지구의 지형과 도시 구조뿐 아니라 촬영 위치와 실제 지표면의 크기까지 학습한 모델로, 위성자료의 활용 범위를 넓힐 수 있을 것으로 전망된다. KAIST는 전기및전자공학부 김문철 교수...",
+          "src": "worktoday",
           "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/469/0000960432?sid=102",
-          "img": "https://newsimg.hankookilbo.com/2026/10/16/58390361-6616-4438-8e7e-7e023904765f.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90642",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202610/90642_130519_3455_v150.jpg"
         },
         {
-          "title": "[시론] 피지컬 AI 시대, 건설현장은 ‘다크 사이트’를 향한다",
-          "desc": "정도 활용하고 있다고 답했다. 2025년 29%에서 크게 늘어 현장 로봇 활용이 빠르게 확대되고 있음을... 이제 과제는 기술 도입을 실제 생산성 향상으로 연결하는 데 있다. 개별 장비 몇 대의 자동화로는 부족하다. 현장...",
-          "src": "dnews",
+          "title": "삼일PwC, '2026 산업AI EXPO' 첫 참가…제조업 AI 전환 지원",
+          "desc": "생산계획 수립부터 현장 의사결정까지 AI 활용 범위를 확대하고, 기업별 업무 환경에 적합한 기술 도입 전략을 제시한다는 구상이다. 삼일PwC는 이달 21일부터 23일까지 경기 고양시 일산 킨텍스 제1전시장에서...",
+          "src": "이투데이",
           "date": "10/20",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180831401590999",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/10/18/202610180831401590999-2-698200.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2637658",
+          "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "지금 우리가 이건희 회장을 소환하는 이유(上)",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61143",
-      "img": "https://cdn.dongponews.net/news/thumbnail/202610/61143_217958_1926_v150.jpg"
+      "title": "중국이 한국 D램 따라잡는다더니… 한계 왔나? 둔화 쇼크 맞은 CXMT [반도...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004168051?sid=101",
+      "img": "https://www.segye.com/content/image/2026/10/19/20261019520724.jpg"
     },
     {
       "title": "2시간 반 만에 뚫린 홈캠‥가전 AI 해킹 '경고등'",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.e-science.co.kr/news/photo/202610/137568_70381_1957.jpg"
     },
     {
-      "title": "재난 피해 가전제품 무상수리 지원 확대...정부, 삼성·LG전자와 업무협...",
-      "url": "https://idsn.co.kr/news/view/1065603309112802",
-      "img": "https://idsn.co.kr/news/data/20261019/p1065603309112802_806_thum.jpg"
+      "title": "삼성·LG전자, 클라우드 4조 비용 부담에 'AI 반도체·OS' 독립 선언",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766189",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/766189_319631_3551_v150.jpg"
     },
     {
-      "title": "월드, 금융권에 인간 증명 기술 도입…AI 사칭·딥페이크 대응",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309457",
-      "img": "https://cdn.khgames.co.kr/news/photo/202610/309457_317064_443.png"
+      "title": "카카오페이, 스테이블코인 생태계 구축 속도..결제·유통 기반 확대",
+      "url": "https://kpenews.com/View.aspx?No=4270424",
+      "img": "https://cdn.coenworks.com/Files/4/News/202610/8611_20261020082707922.jpg"
     },
     {
-      "title": "정명근 화성시장 \"AI 행정으로 시민 삶 풍요롭게, 세계 무대 선보일 것...",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960437?sid=102",
-      "img": "https://newsimg.hankookilbo.com/2026/10/19/d9e28180-fac1-4173-8944-975b98c97d98.jpg"
+      "title": "\"30% 급락하자 저점매수?\"…트럼프 계좌서 반도체 팔고 '이 기업' 담았다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005830716?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026092209131037547_1790035990.jpg"
     }
   ]
 };
