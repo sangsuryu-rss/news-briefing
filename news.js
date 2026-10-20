@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.21 (수) 02:12",
+  "updatedAt": "2026.10.21 (수) 06:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
-          "desc": "우리 증시에서는 메모리 반도체 비중이 높은 데다 특히 SK하이닉스의 경우 가전과 모바일 등으로 사업이 다각화된 삼성전자보다도 더 높은 변동성에 노출돼 있다는 분석입니다. [이효섭/자본시장연구원 금융산업실장...",
-          "src": "news",
+          "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
+          "desc": "삼성전자 관계자는 \"가전 구독은 제품 구매 시 초기 부담 비용을 줄이면서 소비자가 필요한 관리 서비스를 선택할 수 있다\"며 \"제품 특성에 맞춘 다양한 관리 서비스를 고객이 원하는 방식에 맞춰 선택할 수 있다는...",
+          "src": "소비자가만드는신문",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/055/0001396943?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20261021/202233262_1280.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+        },
+        {
+          "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
+          "desc": "로봇청소기는 복합가전의 기술적 집합체다. 삼성전자 ‘비스포크 AI 스팀’, LG전자 ‘LG 홈봇 AI 오브제컬렉션 로니’, 로보락의 ‘Qrevo(큐레보)’ 계열 제품 등은 먼지 흡입과 물걸레 청소는 물론 걸레 세척과 건조까지...",
+          "src": "서울신문",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/081/0003690930?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
+        },
+        {
+          "title": "\"AI 의료혁신, 병원 자동화 넘어 환자 일상까지 연결해야\"",
+          "desc": "삼성전자 MX사업부 디지털 헬스팀장인 혼 박(Hon Pak) 부사장은 20일 서울 코엑스 마곡 컨벤션센터에서 열린... 특히 스마트폰과 가전제품 등 가정 내 기기를 활용해 건강관리를 일상생활에 통합하는 미래 구상을 제시했다....",
+          "src": "kmedinfo",
+          "date": "10/21",
+          "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98342",
+          "img": "https://cdn.kmedinfo.co.kr/news/thumbnail/202610/98342_62699_2734_v150.jpg"
         },
         {
           "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/20",
           "url": "https://n.news.naver.com/mnews/article/081/0003690824?sid=101",
           "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
-        },
-        {
-          "title": "SNS서 뜨는 ‘이건희 신경영’… “기업가정신에 향수”",
-          "desc": "당시 삼성전자는 이미 세계 D램 시장 1위에 올라 있었지만, 세탁기 불량 부품을 칼로 깎아 조립하는 것을 보고 격노한 이 선대회장은 200여 명의 삼성 수뇌부를 프랑크푸르트로 호출해 전면적인 혁신을 주문했다. 같은 해...",
-          "src": "동아일보",
-          "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/020/0003756386?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/20/134879032.1.jpg"
-        },
-        {
-          "title": "삼성전자, 완제품 비용 조정 …갤럭시 출하 줄이고 가전 설치비까지",
-          "desc": "삼성전자는 이달 1일부터 냉장고와 세탁기 등 가전제품 설치 과정에서 사다리차 등 특수장비를 사용하거나 별도 운반 작업이 필요한 경우 고객에게 추가 요금을 청구하고 있다. 추가 요금은 엘리베이터가 없거나...",
-          "src": "서울신문",
-          "date": "10/20",
-          "url": "http://www.metroseoul.co.kr/article/20261020500458",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/20/.cache/512/20261020500459.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "해킹 문턱 낮춘 AI,어떻게 막을까[MT시평/장항배]",
-          "desc": "기업이 주목해야 할 변화는 공격기술의 고도화만이 아니다. 과거에는 시간과 노력이 많이 들어 공격... 보안관제에 AI를 활용하면 여러 시스템의 경보와 로그를 연결해 분석하고 대응의 우선순위를 정할 수 있다. 다만 분석...",
-          "src": "머니투데이",
+          "title": "[서학개미 안테나] AI판 카드 돌려막기…빚으로 몸집 키운 코어위브의 ...",
+          "desc": "당시 엔비디아 GPU를 대량 확보했으며, 암호화폐 가격이 급락하자 보유한 GPU를 활용해 고성능 클라우드... 최초로 도입한 기업이 됐으며, 올해 1월 엔비디아는 코어위브에 20억달러를 추가 투자했다. ◆AI 투자, 기술...",
+          "src": "ebn",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/008/0005429250?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102009461163015_1.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728543",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1728543_763273_1049_v150.jpg"
         },
         {
-          "title": "코드 수정 없이 칩 갈아탄다… 빅테크, ‘엔비디아 천하’ 흔들기",
-          "desc": "ROCm은 자체 AI 반도체 ‘인스팅트 GPU’를 활용해 AI 프로그램을 개발할 수 있도록 돕는 기술이다. 실제 도입 사례도 나오고 있다. 프랑스 클라우드 기업 스케일웨이는 최근 AMD의 인스팅트 GPU를 활용한 AI 슈퍼컴퓨터를...",
-          "src": "kmib",
+          "title": "[금융보안 경고등②] 저축은행은 정보유출, 보험사는 관리 미흡… 2금융...",
+          "desc": "특히 지난해 책무구조도 도입으로 최고경영자(CEO)를 비롯한 경영진의 내부통제 책임이 강화되면서 제도의... 전산업무 위탁은 전문인력과 인프라를 활용할 수 있다는 장점이 있지만 보안관리 책임까지 외부로 넘길 수...",
+          "src": "the-biz",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/005/0001879896?sid=101",
-          "img": ""
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729554",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202610/729554_935863_5419.jpg"
         },
         {
-          "title": "전남광주교육청 국감, '1만 명 양성'... 미래 산업 투자와 실습 기반 격...",
-          "desc": "장비 도입뿐 아니라 전기와 공조시설, 엄격한 안전관리 체계와 정기 유지보수 비용이 지속적으로 투입되는 고비용 시설로 꼽힌다. 이에 따라 관계 대학 및 기업과의 공동 활용 방안을 추진하는 과정에서도 실질적인...",
-          "src": "newsworker",
+          "title": "[미국 특징주] 넷플릭스, 호실적에도 매출 전망 하향에 시간외 6%↓",
+          "desc": "일부 광고 상품 기능의 도입이 예상보다 늦어지고 있는 점이 전망 하향의 배경이라고 설명했다. 4분기... 회원들에게 더 큰 엔터테인먼트 가치를 제공하고, 기술을 활용해 서비스 전반을 개선하며, 수익화 역량을...",
+          "src": "뉴스핌",
           "date": "10/21",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509683",
-          "img": "https://cdn.newsworker.co.kr/news/photo/202610/509683_513031_4223.jpg"
+          "url": "https://www.newspim.com/news/view/20261021000018",
+          "img": "https://img.newspim.com/news/2026/05/13/2605130904078880_300_tc.jpg"
         },
         {
-          "title": "오픈제플린, 체인링크 CCIP·ACE 개발 도구에 통합",
-          "desc": "금융 도입을 뒷받침하겠다고 밝혔다. 크립토브리핑은 이번 통합이 공개·사설·기업용 블록체인을 잇는 애플리케이션 구축을 지원한다고 전했다. 통합 기능은 오픈제플린의 위저드(Wizards), AI 도구, 스킬(Skills)...",
-          "src": "tokenpost",
+          "title": "\"사람 돌보는 사람부터 돌봐야\"…병원 리더십의 새로운 해법",
+          "desc": "AI 도입 역시 업무 효율성이나 생산성을 높이는 데 그치지 않고 의료진이 환자와 더 많은 시간을 보낼 수 있도록 활용해야 한다고 강조했다. 그는 \"AI가 하루에 한 시간을 절약해 준다면 그 시간을 어떻게 사용할 것인지...",
+          "src": "docdocdoc",
           "date": "10/21",
-          "url": "https://www.tokenpost.kr/news/blockchain/425044",
-          "img": "https://f1.tokenpost.kr/2026/10/844wud4hge_th_1600x900.webp"
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043798",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043798_3047671_102_v150.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "돈 넘어 기술로…새판 짜는 4대 그룹 상생협력",
+          "desc": "삼성그룹은 총 3조5000억원 규모의 상생펀드와 ESG 펀드를 통해 협력사의 시설투자와 기술개발 자금을 지원하고 있다. 삼성전자는 국내 소재·부품·장비 기업의 기술개발을 돕기 위해 '패턴 웨이퍼' 제공도 확대할...",
+          "src": "sidae",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/417/0001161535?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/20/00/2026102009520486886_1.jpg"
+        },
         {
           "title": "TSMC, 초미세 공정에 생산량 까지 늘린다…‘만년 2등’ 삼성 파운드리...",
           "desc": "이 곳에는 대규모 반도체 팹 6기와 발전소 3기, 소재·부품·장비(소부장) 협력사 60곳 이상이 들어선다. 삼성전자는 반도체 팹 6기 중 첫 번째 팹의 가동 시점을 오는 2029년으로 설정했다. 이는 당초 1기 팹 가동 예상...",
@@ -122,15 +130,7 @@ window.NEWS_DATA = {
           "src": "서울신문",
           "date": "10/20",
           "url": "http://www.metroseoul.co.kr/article/20261020500458",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/20/.cache/512/20261020500459.jpg"
-        },
-        {
-          "title": "美 엑셀리스, 평택에 575억 투자…아시아 거점센터 착공",
-          "desc": "관계자, 삼성전자·SK하이닉스 등 주요 고객사 관계자 50여명이 참석했다. 엑셀리스는 오성... 러셀 로우(Russell Low) 엑셀리스 최고경영자(CEO)는 “국내 고객사 및 협력사와의 긴밀한 파트너십을 바탕으로 AI 시대...",
-          "src": "kyeonggi",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/666/0000128326?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/10/20/.cache/512/20261020580399.jpg?v=20261021021224"
+          "img": ""
         }
       ]
     },
@@ -177,9 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396943?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20261021/202233262_1280.jpg"
+      "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+    },
+    {
+      "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003690930?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
+    },
+    {
+      "title": "\"AI 의료혁신, 병원 자동화 넘어 환자 일상까지 연결해야\"",
+      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98342",
+      "img": "https://cdn.kmedinfo.co.kr/news/thumbnail/202610/98342_62699_2734_v150.jpg"
     },
     {
       "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
@@ -187,24 +197,14 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
     },
     {
-      "title": "SNS서 뜨는 ‘이건희 신경영’… “기업가정신에 향수”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003756386?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/20/134879032.1.jpg"
+      "title": "[서학개미 안테나] AI판 카드 돌려막기…빚으로 몸집 키운 코어위브의 ...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728543",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1728543_763273_1049_v150.jpg"
     },
     {
-      "title": "삼성전자, 완제품 비용 조정 …갤럭시 출하 줄이고 가전 설치비까지",
-      "url": "http://www.metroseoul.co.kr/article/20261020500458",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/20/.cache/512/20261020500459.jpg"
-    },
-    {
-      "title": "해킹 문턱 낮춘 AI,어떻게 막을까[MT시평/장항배]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005429250?sid=110",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102009461163015_1.jpg"
-    },
-    {
-      "title": "전남광주교육청 국감, '1만 명 양성'... 미래 산업 투자와 실습 기반 격...",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509683",
-      "img": "https://cdn.newsworker.co.kr/news/photo/202610/509683_513031_4223.jpg"
+      "title": "[금융보안 경고등②] 저축은행은 정보유출, 보험사는 관리 미흡… 2금융...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729554",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202610/729554_935863_5419.jpg"
     }
   ]
 };
