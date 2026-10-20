@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.20 (화) 20:42",
+  "updatedAt": "2026.10.21 (수) 02:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -22,11 +22,11 @@ window.NEWS_DATA = {
       "items": [
         {
           "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
-          "desc": "우리 증시에서는 메모리 반도체 비중이 높은 데다, 특히 SK하이닉스의 경우 가전과 모바일 등으로 사업이 다각화된 삼성전자보다도 더 높은 변동성에 노출돼 있다는 분석입니다. [이효섭/자본시장연구원 금융산업실장...",
+          "desc": "우리 증시에서는 메모리 반도체 비중이 높은 데다 특히 SK하이닉스의 경우 가전과 모바일 등으로 사업이 다각화된 삼성전자보다도 더 높은 변동성에 노출돼 있다는 분석입니다. [이효섭/자본시장연구원 금융산업실장...",
           "src": "news",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/055/0001396904?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20261020/202233200_1280.jpg"
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/055/0001396943?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20261021/202233262_1280.jpg"
         },
         {
           "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
         },
         {
+          "title": "SNS서 뜨는 ‘이건희 신경영’… “기업가정신에 향수”",
+          "desc": "당시 삼성전자는 이미 세계 D램 시장 1위에 올라 있었지만, 세탁기 불량 부품을 칼로 깎아 조립하는 것을 보고 격노한 이 선대회장은 200여 명의 삼성 수뇌부를 프랑크푸르트로 호출해 전면적인 혁신을 주문했다. 같은 해...",
+          "src": "동아일보",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/020/0003756386?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/20/134879032.1.jpg"
+        },
+        {
           "title": "삼성전자, 완제품 비용 조정 …갤럭시 출하 줄이고 가전 설치비까지",
           "desc": "삼성전자는 이달 1일부터 냉장고와 세탁기 등 가전제품 설치 과정에서 사다리차 등 특수장비를 사용하거나 별도 운반 작업이 필요한 경우 고객에게 추가 요금을 청구하고 있다. 추가 요금은 엘리베이터가 없거나...",
           "src": "서울신문",
           "date": "10/20",
           "url": "http://www.metroseoul.co.kr/article/20261020500458",
           "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/20/.cache/512/20261020500459.jpg"
-        },
-        {
-          "title": "성과급 넘어 교섭권까지…\"우리가 대표\" 노노 갈등",
-          "desc": "[기자] 성과급을 놓고 벌어진 삼성전자 내 노조 간 갈등이 다시 점화되는 분위깁니다. 휴대전화ㆍ가전 등 완제품 부문 중심의 동행노조가 반도체 부문 중심의 초기업노조에 공문을 보내 교섭대표 지위를 인정할 수 없다는...",
-          "src": "연합뉴스TV",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/422/0000917640?sid=101",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020200105mZA.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경주 자동차부품 공장에 AI 도입…60억 규모 정부과제 선정",
-          "desc": "인공지능(AI) 제조시스템 개발에 나선다. 개별 설비의 데이터 활용을 공장 단위로 확대해 생산 효율과 품질관리를 개선하는 사업이다. 경주시는 산업부와 한국산업기술기획평가원(KEIT)의 ‘2026년도...",
-          "src": "이데일리",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006392469?sid=100",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102001553.jpg"
-        },
-        {
-          "title": "베스핀글로벌, '2026 산업별 AX 고객 사례집' 발간",
-          "desc": "사례집에 활용된 주요 솔루션은 HelpNow AI Platform, HelpNow AI Foundry, HelpNow DataOps 등 베스핀글로벌의 자체 AI... 최신 AI 기술이 적용됐다. 한선호 베스핀글로벌 CAIO 부사장은 이번 사례집이 산업별 AI 전환의 구체적...",
-          "src": "한스경제",
-          "date": "10/20",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874576",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/874576_899597_3244_v150.jpg"
-        },
-        {
-          "title": "\"트래픽 말고 신뢰를 팔아라\"…AI 검색 시대 언론의 생존 공식은",
-          "desc": "그는 기술 변화에 따라 언론사의 위치가 어떻게 달라졌는지도 정리했다. 신문·방송 시대에 언론은 뉴스를... 뉴스룸의 AI 도입 현황을 짚었다. 그는 \"AI가 기자를 대체하는 것이 아니라 기자의 판단을 강화하는 '증강...",
+          "title": "해킹 문턱 낮춘 AI,어떻게 막을까[MT시평/장항배]",
+          "desc": "기업이 주목해야 할 변화는 공격기술의 고도화만이 아니다. 과거에는 시간과 노력이 많이 들어 공격... 보안관제에 AI를 활용하면 여러 시스템의 경보와 로그를 연결해 분석하고 대응의 우선순위를 정할 수 있다. 다만 분석...",
           "src": "머니투데이",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/008/0005429233?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=675,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026102008213851238_1.jpg"
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/008/0005429250?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102009461163015_1.jpg"
         },
         {
-          "title": "[산업AI EXPO 프리뷰] AI 사업화 ④ | AI 교육은 끝났는데 업무는 그대로...",
-          "desc": "조직에 필요한 AI 도입 과제를 선정하고 교육·솔루션 적용을 거쳐 실제 생산성 변화까지 확인하는... 제조를 비롯한 다양한 산업의 AI 활용 사례를 짚고, 관련 생태계가 AI를 활용해 기술 혁신과 새로운 비즈니스를...",
-          "src": "hellot",
-          "date": "10/20",
-          "url": "https://www.hellot.net/news/article.html?no=115652",
-          "img": "https://www.hellot.net/data/photos/20261043/art_17924943076928_064d19.jpg"
+          "title": "코드 수정 없이 칩 갈아탄다… 빅테크, ‘엔비디아 천하’ 흔들기",
+          "desc": "ROCm은 자체 AI 반도체 ‘인스팅트 GPU’를 활용해 AI 프로그램을 개발할 수 있도록 돕는 기술이다. 실제 도입 사례도 나오고 있다. 프랑스 클라우드 기업 스케일웨이는 최근 AMD의 인스팅트 GPU를 활용한 AI 슈퍼컴퓨터를...",
+          "src": "kmib",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/005/0001879896?sid=101",
+          "img": ""
+        },
+        {
+          "title": "전남광주교육청 국감, '1만 명 양성'... 미래 산업 투자와 실습 기반 격...",
+          "desc": "장비 도입뿐 아니라 전기와 공조시설, 엄격한 안전관리 체계와 정기 유지보수 비용이 지속적으로 투입되는 고비용 시설로 꼽힌다. 이에 따라 관계 대학 및 기업과의 공동 활용 방안을 추진하는 과정에서도 실질적인...",
+          "src": "newsworker",
+          "date": "10/21",
+          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509683",
+          "img": "https://cdn.newsworker.co.kr/news/photo/202610/509683_513031_4223.jpg"
+        },
+        {
+          "title": "오픈제플린, 체인링크 CCIP·ACE 개발 도구에 통합",
+          "desc": "금융 도입을 뒷받침하겠다고 밝혔다. 크립토브리핑은 이번 통합이 공개·사설·기업용 블록체인을 잇는 애플리케이션 구축을 지원한다고 전했다. 통합 기능은 오픈제플린의 위저드(Wizards), AI 도구, 스킬(Skills)...",
+          "src": "tokenpost",
+          "date": "10/21",
+          "url": "https://www.tokenpost.kr/news/blockchain/425044",
+          "img": "https://f1.tokenpost.kr/2026/10/844wud4hge_th_1600x900.webp"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "kyeonggi",
           "date": "10/20",
           "url": "https://n.news.naver.com/mnews/article/666/0000128326?sid=101",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/10/20/.cache/512/20261020580399.jpg?v=20261020204310"
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/10/20/.cache/512/20261020580399.jpg?v=20261021021224"
         }
       ]
     },
@@ -178,8 +178,8 @@ window.NEWS_DATA = {
   "ranking": [
     {
       "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396904?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20261020/202233200_1280.jpg"
+      "url": "https://n.news.naver.com/mnews/article/055/0001396943?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20261021/202233262_1280.jpg"
     },
     {
       "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
     },
     {
+      "title": "SNS서 뜨는 ‘이건희 신경영’… “기업가정신에 향수”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003756386?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/20/134879032.1.jpg"
+    },
+    {
       "title": "삼성전자, 완제품 비용 조정 …갤럭시 출하 줄이고 가전 설치비까지",
       "url": "http://www.metroseoul.co.kr/article/20261020500458",
       "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/20/.cache/512/20261020500459.jpg"
     },
     {
-      "title": "성과급 넘어 교섭권까지…\"우리가 대표\" 노노 갈등",
-      "url": "https://n.news.naver.com/mnews/article/422/0000917640?sid=101",
-      "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020200105mZA.jpg"
+      "title": "해킹 문턱 낮춘 AI,어떻게 막을까[MT시평/장항배]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005429250?sid=110",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102009461163015_1.jpg"
     },
     {
-      "title": "경주 자동차부품 공장에 AI 도입…60억 규모 정부과제 선정",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392469?sid=100",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102001553.jpg"
-    },
-    {
-      "title": "베스핀글로벌, '2026 산업별 AX 고객 사례집' 발간",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874576",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/874576_899597_3244_v150.jpg"
+      "title": "전남광주교육청 국감, '1만 명 양성'... 미래 산업 투자와 실습 기반 격...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509683",
+      "img": "https://cdn.newsworker.co.kr/news/photo/202610/509683_513031_4223.jpg"
     }
   ]
 };
