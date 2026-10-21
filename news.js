@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.21 (수) 16:42",
+  "updatedAt": "2026.10.21 (수) 22:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LH, 모듈러주택 대량 발주로 공급 속도…2030년까지 1만6천호",
-          "desc": "LH는 21일 경기남부지역본부에서 모듈러 제조사와 삼성전자·LG전자 등 가전사, 학계 전문가들이 참석한 ‘모듈러주택 활성화 간담회’도 열었다. 지난 13일 국무총리가 민간재개발 현장을 방문해 논의한 ‘공업화...",
-          "src": "lawissue",
+          "title": "한국토지주택공사, 모듈러주택 1만 6,000호…2030년까지 발주",
+          "desc": "간담회에서는 삼성전자와 엘지전자가 참여한 가운데 인공지능 가전과 모듈러주택을 결합하는 차세대 주거모델도 논의됐다. 설계 단계부터 인공지능 가전과 에너지 관리 플랫폼을 통합해 입주민에게 생활 편의와...",
+          "src": "newstown",
           "date": "10/21",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261021163658747167191f6c6e_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102116374204683067191f6c6e219250129182.jpg&nmt=12"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719300",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/719300_675227_540_v150.jpg"
         },
         {
-          "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
-          "desc": "그사이 중국 업체들은 국내 로봇청소기 시장 과반을 가져가며 안방까지 파고들었다. 같은 그룹 안에서도... 부문장이 사업부장을 겸하고 있는 삼성전자의 겸직 해소 여부, 6명이던 부회장단이 1명으로 줄어든 LG의 1인...",
-          "src": "전자신문",
+          "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
+          "desc": "“중국 로봇청소기·드론·액션캠·전기차보다 로봇의 국내 시장 잠식 속도가 더 빠를 것으로 예상합니다”... 뒤이어 무대에 오른 삼성전자 자회사 레인보우로보틱스의 이정호 대표는 ‘K-AI 로봇 생태계 구축을 위한...",
+          "src": "헤럴드경제",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/030/0003477361?sid=101",
-          "img": "https://img.etnews.com/news/article/2023/12/13/news-p.v1.20231213.3dd37b71e82a4e8f90ecfc5a338e8812_P3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002712555?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/21/rcv.YNA.20260610.PYH2026061020590005100_P1.jpg"
         },
         {
           "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
         },
         {
-          "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
-          "desc": "어보브반도체가 기존에 세탁기 등에 활용하던 반도체 기술을 활용해 차량용 통신·제어 반도체를 개발... 삼성전자와도 지난해부터 자동차 내부 전자장치 간 데이터 통신을 담당하는 네트워크 반도체를 공동 개발, 현재...",
-          "src": "조선일보",
+          "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\"",
+          "desc": "세탁기, 냉장고에 쓰이는 저전력 모터 제어 MCU에서 불필요한 산업용 인터페이스를 덜어내고 차량용... 올해 포럼은 삼성전자(005930), SK키파운드리, 글로벌테크놀로지, 어보브반도체, LX세미콘, 동운아나텍(094170) 등...",
+          "src": "뉴스1",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/421/0009242250?sid=103",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/21/8172041/high.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "네덜란드 주지사 일행, 안양 스마트도시 기술에 주목…AI 현장 벤치마킹",
-          "desc": "단순한 기술 도입을 넘어 시민의 일상을 보호하고 도시 문제에 대응하는 데 첨단기술을 활용한다는 점에서 의미를 더했다. 이나 아데마 주지사는 \"안양시의 뛰어난 통합관제 역량과 인공지능(AI) 기술력을 직접 확인할 수...",
-          "src": "더팩트",
+          "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+          "desc": "데이터와 AI 기술을 활용해 고객의 다양한 금융 수요에 적극 대응하고, 금융 소비자가 체감할 수 있는... IT·AI 역량을 결합해 ‘AI 네이티브 뱅킹’을 구현하는 것이 목표다. 업무 전반에 AI 에이전트를 도입해 생산성과...",
+          "src": "byline",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/629/0000544223?sid=102",
-          "img": "https://img.tf.co.kr/article/home/2026/10/21/202676591792568182.jpg"
+          "url": "https://byline.network/?p=9004111222624211",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/10/1021.jpg"
         },
         {
-          "title": "가트너, 2027년 10대 전략기술 발표…AI 성능보다 '통제'",
-          "desc": "생체·합성 생물학 시스템을 연산에 활용하는 서비스형 웻웨어는 기존 실리콘 반도체의 에너지 한계를 보완할 기술로 제시됐다. 진 알바레즈 가트너 수석 부사장 애널리스트는 \"AI가 소프트웨어를 만드는 속도가...",
-          "src": "m-i",
+          "title": "벤츠·볼보·폭스바겐까지⋯엔비디아 자율주행 플랫폼 확산",
+          "desc": "관련 기술을 도입하거나 개발에 활용한다. 엔비디아는 유럽 자동차·모빌리티 업체들이 하이페리온을... 자율주행 AI 개발도 고도화한다. '알파마요 2 엣지(Alpamayo 2 Edge)'는 20억 파라미터 규모 추론 모델로 엔비디아...",
+          "src": "autodaily",
           "date": "10/21",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2008678",
-          "img": "https://cdn.m-i.kr/news/photo/202610/2008678_2008725_3819.png"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601374",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202610/601374_202667_1327.jpg"
         },
         {
-          "title": "딥엘 보이스, 아모레퍼시픽 글로벌 협업에 활용…월간 이용 회의 100건 ...",
-          "desc": "기업들이 기존 업무 환경에서 활용할 수 있는 AI 기반 실시간 음성 번역 기술을 검토하는 배경이다. 글로벌... 아모레퍼시픽은 중장기 전략 과제인 ‘AI 퍼스트(AI First)’에 따라 업무 전반에 AI 기술을 도입하고 있다....",
-          "src": "venturesquare",
+          "title": "안양시, 네덜란드 방문단 스마트도시 통합센터 체험",
+          "desc": "분야의 AI 활용 사례를 확인, 로봇과 드론 등 스마트 도시 기술의 현장 운영을 살펴봤다고 밝혔다. 아데마... 최대호 시장은 “우리시는 첨단 기술을 도심 현장에 적극 도입, 스마트도시 경쟁력을 높이고 있다“며 “이번...",
+          "src": "브릿지경제",
           "date": "10/21",
-          "url": "https://www.venturesquare.net/1121688/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/deepl.jpg"
+          "url": "https://www.viva100.com/article/20261021501546",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/21/.cache/512/20261021501543.jpg?v=20261021225038"
         },
         {
-          "title": "원프레딕트, 제조 데이터부터 운영 판단까지 AI 공장 시연",
-          "desc": "원프레딕트는 행사에서 만난 기업·기관과 기술검증(PoC) 및 도입 협의를 추진할 계획이다. 오는 22일에는 FIX 2026 이노베이션 어워즈 미래 모빌리티 분야에서 'AI 네이티브 솔루션'으로 '최고 혁신 기술상'을 받을...",
-          "src": "kdfnews",
+          "title": "KT, 병원별 맞춤형 AI 도입 지원… 의료 AX 표준모델 확산 나서",
+          "desc": "ㅣKT KT가 병원별 환경에 맞춰 인공지능(AI) 기술을 도입할 수 있는 의료 AX(인공지능 전환) 표준모델을... 만큼 AI 도입에는 기존 시스템과의 연계가 주요 과제로 꼽힌다. KT는 의료 데이터 플랫폼과 AI 에이전트 활용...",
+          "src": "biztribune",
           "date": "10/21",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=189683",
-          "img": "http://www.kdfnews.com/news/thumbnail/202610/189683_242104_3625_v150.jpg"
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361001",
+          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/361001_266872_4953_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자 메모리값 급등에 갤럭시A시리즈 2천만대 감산, 노태문 점유율...",
-          "desc": "삼성전자는 갤럭시 A시리즈의 디스플레이와 주요 부품을 공급하는 협력사에 물량 조절을 통보하고 있는 것으로 알려졌다. 갤럭시 A시리즈는 2014년 말부터 출시되고 있는 중저가 보급형 모델이다. 시장조사업체...",
-          "src": "비즈니스포스트",
+          "title": "K-차량반도체 결집…현대모비스, 53개사와 '차량반도체 국산화' 시동",
+          "desc": "이날 행사에는 이규석 현대모비스 사장과 김정관 산업통상자원부 장관을 비롯해 삼성전자, SK키파운드리... 현대모비스가 생태계 컨트롤 타워로 나선 것는 1차 협력사(Tier 1)이자 반도체 독자 설계 역량을 보유한...",
+          "src": "srtimes",
           "date": "10/21",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449921",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215461",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215461_220559_4140_v150.jpg"
+        },
+        {
+          "title": "美서 만들던 반도체 장비도 한국으로…국산 부품 조달 확대 주목",
+          "desc": "소재·부품·장비(소부장) 업체들의 공급 기회가 확대될지 주목된다. 엑셀리스는 평택 생산거점을 운영하며... 삼성전자와 SK하이닉스 등 국내 반도체 제조사에 장비를 공급하고 중국과 일본, 싱가포르 등에도 수출한다....",
+          "src": "g-enews",
+          "date": "10/21",
+          "url": "https://www.g-enews.com/view.php?ud=2026102114240690483084322ec9_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261021142738088193084322ec91182166987.jpg"
+        },
+        {
+          "title": "이재용의 ‘승어부’…“협력사가 잘돼야 삼성도 잘돼” 代 잇는 상생",
+          "desc": "“협력회사가 잘돼야 우리 회사도 잘됩니다.” 이재용 삼성전자(005930) 회장은 2022년 10월 28일 회장 취임 이후 첫 현장 방문지로 광주의 생활가전 부품 협력사 디케이를 찾아 이같이 말했다. 디케이는 당시 삼성전자...",
+          "src": "서울경제",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/011/0004673697?sid=101",
           "img": ""
         },
         {
-          "title": "[위클리오늘] 현대모비스, 車반도체 협력사 53곳으로 확대···국산화 개...",
-          "desc": "완성차와 부품사, 반도체 설계기업(팹리스), 위탁생산기업(파운드리) 등을 연결하기 위해 지난해 출범했다. 올해는 설계자산(IP), 소프트웨어, 패키징, 시험평가, 기능안전 분야까지 참여 범위를 넓혔다. 삼성전자와...",
-          "src": "weeklytoday",
+          "title": "기술금고는 열기 전에 지켜야 한다",
+          "desc": "씨지아이는 삼성전자와 4년간 방열부품을 공동개발한 회사다. 한 대기업 계열사가 \"인수하겠다\"며... 다음 학년 개발에서는 배제됐는데, 기술 구조는 그대로 들어갔다는 것이 협력사의 말이다. 출판사는 \"침해 내용을...",
+          "src": "jjn",
           "date": "10/21",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=799017",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202610/799017_993107_3046_v150.jpg"
-        },
-        {
-          "title": "[비즈+]현대모비스, 차량용 반도체 13종 개발 착수…국산화 협력 '원팀'...",
-          "desc": "삼성전자와 SK키파운드리, 글로벌테크놀로지, 어보브반도체, LX세미콘, 동운아나텍 등 기존 참여사에 더해... 차량용 반도체를 사용하는 1차 협력사(Tier 1)이면서 반도체를 자체 설계하고 외부 전문기업과 공동 개발하는...",
-          "src": "비즈니스플러스",
-          "date": "10/21",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=118527",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202610/118527_119373_1250_v150.jpg"
-        },
-        {
-          "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
-          "desc": "국내 전자업계의 기존 반도체 기술을 자동차용으로 전환하는 전략을 택했다. 1차 협력사이자 반도체... 삼성전자와도 지난해부터 자동차 내부 전자장치 간 데이터 통신을 담당하는 네트워크 반도체를 공동 개발, 현재...",
-          "src": "조선일보",
-          "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
+          "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1055176",
+          "img": "https://cdn.jjn.co.kr/news/thumbnail/202610/1055176_273281_2827_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LH, 모듈러주택 대량 발주로 공급 속도…2030년까지 1만6천호",
-      "url": "https://www.lawissue.co.kr/view.php?ud=20261021163658747167191f6c6e_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102116374204683067191f6c6e219250129182.jpg&nmt=12"
+      "title": "한국토지주택공사, 모듈러주택 1만 6,000호…2030년까지 발주",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719300",
+      "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/719300_675227_540_v150.jpg"
     },
     {
-      "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
-      "url": "https://n.news.naver.com/mnews/article/030/0003477361?sid=101",
-      "img": "https://img.etnews.com/news/article/2023/12/13/news-p.v1.20231213.3dd37b71e82a4e8f90ecfc5a338e8812_P3.jpg"
+      "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712555?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/21/rcv.YNA.20260610.PYH2026061020590005100_P1.jpg"
     },
     {
       "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
     },
     {
-      "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
+      "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009242250?sid=103",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/21/8172041/high.jpg"
     },
     {
-      "title": "네덜란드 주지사 일행, 안양 스마트도시 기술에 주목…AI 현장 벤치마킹",
-      "url": "https://n.news.naver.com/mnews/article/629/0000544223?sid=102",
-      "img": "https://img.tf.co.kr/article/home/2026/10/21/202676591792568182.jpg"
+      "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+      "url": "https://byline.network/?p=9004111222624211",
+      "img": "https://cdn.byline.network/wp-content/uploads/2026/10/1021.jpg"
     },
     {
-      "title": "가트너, 2027년 10대 전략기술 발표…AI 성능보다 '통제'",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2008678",
-      "img": "https://cdn.m-i.kr/news/photo/202610/2008678_2008725_3819.png"
+      "title": "벤츠·볼보·폭스바겐까지⋯엔비디아 자율주행 플랫폼 확산",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601374",
+      "img": "https://cdn.autodaily.co.kr/news/photo/202610/601374_202667_1327.jpg"
     }
   ]
 };
