@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.22 (목) 03:40",
+  "updatedAt": "2026.10.22 (목) 08:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "美가 만들고 한국·대만이 키운 반도체 시장… 이젠 중국이 노린다",
-          "desc": "미국이 일군 산업, 한국·대만과 분업 체제로 반도체는 컴퓨터·스마트폰부터 가전·자동차·완구 등, 정보... 삼성전자는 1983년 64K D램을 개발했고, 1992년엔 세계 최초 64M D램을 내놓으며 일본을 제치고 D램 세계 1위가...",
-          "src": "조선일보",
+          "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
+          "desc": "신혼가전을 하나의 경험으로…삼성 AI 통합 캠페인 두 번째 주제에서는 이지은 삼성전자 한국총괄 마케팅팀 IMC그룹 파트장이 '혼수 가전 경쟁력 강화를 위한 삼성 AI 신혼가전 통합 캠페인'을 소개한다. 삼성전자는 올해...",
+          "src": "banronbodo",
           "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005256?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/SM5XWR746ZEX7IKVINLPGYOAV4.jpg?auth=6fcc5a36c11449aee82c3388e55d329fdd0adfc95b49330d7363eb39e13697a9&width=1024&height=537&focal=528,435"
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216",
+          "img": "https://cdn.banronbodo.com/news/photo/202610/33216_49267_4338.png"
         },
         {
-          "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
-          "desc": "“중국 로봇청소기·드론·액션캠·전기차보다 로봇의 국내 시장 잠식 속도가 더 빠를 것으로 예상합니다”... 뒤이어 무대에 오른 삼성전자 자회사 레인보우로보틱스의 이정호 대표는 ‘K-AI 로봇 생태계 구축을 위한...",
-          "src": "헤럴드경제",
-          "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/016/0002712555?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/21/rcv.YNA.20260610.PYH2026061020590005100_P1.jpg"
+          "title": "G마켓, '빅스마일데이'서 AI기반 특가상품 선별",
+          "desc": "특가딜 참여가 확정된 상품으로는 '인스파이어 리조트 올인클루시브 패키지' '올리브영 블랙프라이데이 기프트카드', '로보락 S10 MaxV Ultra 로봇청소기', '삼성전자 갤럭시 Z폴드8 울트라', '조은해남 절임배추', '앤커...",
+          "src": "slist",
+          "date": "10/22",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=775326",
+          "img": "https://cdn.slist.kr/news/thumbnail/202610/775326_1185490_1047_v150.jpg"
         },
         {
-          "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
-          "desc": "반면 국내 시장은 포화상태인데다 LG전자와 삼성전자 등 대기업의 시장 지배력이 강해 위닉스 입장에서 해외... 공기청정기와 제습기를 비롯해 미니건조기, 창문형 에어컨 등 계절가전을 중심으로 제품군을 확대했다....",
-          "src": "뉴스핌",
-          "date": "10/21",
-          "url": "https://www.newspim.com/news/view/20261021000869",
-          "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
+          "title": "굿 디자인 어워드 사로잡은 한국 제품…'작고 쓰기 쉽게'",
+          "desc": "코웨이와 앳홈, 삼성전자 등 국내 기업 7곳은 정수기와 음식물처리기, 선풍기부터 점자 라벨 프린터와 5G... 미니건조기 '더 에어드라이', 톰 뷰티 디바이스 '투앤티업' 등 4개 제품이 수상했다. 심사위원단은 더 플렌더를...",
+          "src": "cstimes",
+          "date": "10/22",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=724796",
+          "img": "https://www.cstimes.com/news/photo/202610/724796_646095_4835.jpg"
         },
         {
           "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI 로봇산업, 기술 개발 넘어 공공수요 창출·양산 생태계 구축 시급\"",
-          "desc": "현장에서 활용할 수 있는 피지컬 AI가 나온다\"고 말했다. 그는 로봇 제조기업과 시스템통합(SI) 기업 간 협력 부족도 문제로 지적하면서 \"교육과 기술 협력을 통해 중소 제조기업의 실제 생산 현장에서부터 피지컬 AI 도입을...",
-          "src": "irobotnews",
+          "title": "\"핀테크 첫 저축은행 인수\"…핀다, 대원저축은행 지분 60% 확보",
+          "desc": "IT, AI 역량을 결합해 'AI 네이티브 뱅킹'을 구현하고, 업무 전반에 AI 에이전트를 도입해 생산성과 운영... 데이터와 AI 기술을 활용해 고객의 다양한 금융 수요에 적극적으로 대응하고, 금융 소비자가 체감할 수 있는...",
+          "src": "joongangenews",
           "date": "10/22",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49136",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49136_104846_179.png"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=557187",
+          "img": "https://cdn.joongangenews.com/news/photo/202610/557187_364454_2036.jpg"
         },
         {
-          "title": "한국AI·로봇산업협회 주관 \"AI·로봇 산업 생태계 전략 국회포럼\" 성료",
-          "desc": "추진\" 'AI로봇 M.AX 얼라이언스 추진 현황 및 향후 방안'을 발표한 박일우 한국산업기술기획평가원 로봇PD는 \"현행법상 휴머노이드는 표준과 안전기준이 없어 산업 현장 도입에 제한이 있었지만 규제샌드박스로 이를...",
-          "src": "irobotnews",
+          "title": "진학사 캐치, 'AX 직무역량검사' AI 제품·서비스 확인서 획득",
+          "desc": "인공지능제품·서비스 확인서는 제품이나 서비스에 AI 기술이 활용됐음을 확인하는 제도다. 'CATCH-UP AX... 대학과 기업의 도입도 진행되고 있다. 캐치에 따르면 22일 기준 대학 11곳과 기업 2곳 등 총 13개 기관이 계약을...",
+          "src": "beyondpost",
           "date": "10/22",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49137",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49137_104858_1955.png"
+          "url": "http://www.beyondpost.co.kr/view.php?ud=20261022081914511146a9e4dd7f_30",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102208195105773046a9e4dd7f220867377.jpg&nmt=30"
         },
         {
-          "title": "태안군, \"출산장려금 셋째부터 1000만원\"… 아이부터 어르신까지 '복지...",
-          "desc": "도입해 총 100가정에 보급할 계획이다. AI 돌봄로봇을 활용해 홀몸 어르신 등 돌봄 취약가구의 정서적 고립을 완화하고, 일상 속 돌봄서비스를 강화한다는 취지다. 고령화로 늘어나는 돌봄 수요에 대응하기 위해 기술을...",
-          "src": "tournews21",
+          "title": "산하기관엔 ‘인증 점검’ 주문한 산업부, 정작 본부는 ‘다중인증 미흡...",
+          "desc": "하는 AI 모의해킹 사업도 반영했다. 이처럼 첨단 기술을 활용한 보안 강화에 나섰지만, 정작 기본적인 인증... 것”이라며 “AI 보안관제를 도입했다는 사실만으로 보안 수준이 입증되는 것은 아니다. 무엇을 파악했고...",
+          "src": "khan",
           "date": "10/22",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146367",
-          "img": "https://cdn.tournews21.com/news/photo/202610/146367_272852_5916.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003477820?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/10/22/news-p.v1.20261022.898d302947e543ccac204bf8eab91f2c_P1.jpg"
         },
         {
-          "title": "MD-한국 지방공무원, AI로 공공 서비스 혁신",
-          "desc": "공공부문의 AI 활용, 디지털 전환 및 첨단 기술 도입 방안 등을 논의했다. 수잔 리 주무장관은“메릴랜드주와 한국은 자매결연 등을 통해 오랜 기간 우호와 협력을 이어오고 있다”며“이번 혁신 협력 교류를 통해 양측의...",
-          "src": "koreatimes",
+          "title": "GM, 실리콘밸리식 파괴적 혁신으로 '차세대 배터리·AI' 대반격",
+          "desc": "생성형 AI 가상 시뮬레이션을 활용하는 엔지니어링 혁신이 정착됐다. GM은 자율주행 로보택시 사업 대신 자율주행 기술 자산을 차세대 첨단 운전자 보조 시스템(ADAS)인 '슈퍼 크루즈'로 집약해 2028년 선보일...",
+          "src": "g-enews",
           "date": "10/22",
-          "url": "http://www.koreatimes.com/article/1634685",
-          "img": "http://mimg.koreatimes.com/286/172/article/2026/10/21/202610210643386a1.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026102208180559240c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261022081856088430c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "K-차량반도체 결집…현대모비스, 53개사와 '차량반도체 국산화' 시동",
-          "desc": "이날 행사에는 이규석 현대모비스 사장과 김정관 산업통상자원부 장관을 비롯해 삼성전자, SK키파운드리... 현대모비스가 생태계 컨트롤 타워로 나선 것는 1차 협력사(Tier 1)이자 반도체 독자 설계 역량을 보유한...",
-          "src": "srtimes",
-          "date": "10/21",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215461",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215461_220559_4140_v150.jpg"
+          "title": "[분석] 젠슨 황의 야심 ··· AI산업 금융·제조 질서 장악 시도",
+          "desc": "AI 반도체의 성능이 높아질수록 이 부품의 설계와 제조 기술도 중요해지고 있다. 엔비디아가 삼성전자와... <용어설명> ▲순환금융=기업이 고객사나 협력사에 투자·금융 지원을 제공하고, 지원받은 기업이 다시 해당...",
+          "src": "datasom",
+          "date": "10/22",
+          "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210454",
+          "img": "https://cdn.datasom.co.kr/news/thumbnail/202610/210454_39779_1620_v150.jpg"
         },
         {
-          "title": "美서 만들던 반도체 장비도 한국으로…국산 부품 조달 확대 주목",
-          "desc": "소재·부품·장비(소부장) 업체들의 공급 기회가 확대될지 주목된다. 엑셀리스는 평택 생산거점을 운영하며... 삼성전자와 SK하이닉스 등 국내 반도체 제조사에 장비를 공급하고 중국과 일본, 싱가포르 등에도 수출한다....",
-          "src": "g-enews",
-          "date": "10/21",
-          "url": "https://www.g-enews.com/view.php?ud=2026102114240690483084322ec9_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261021142738088193084322ec91182166987.jpg"
+          "title": "359만원 짜리 애플 첫 폴더블폰, 벌써부터 공급난",
+          "desc": "애플의 과제는 특정 부품의 공급량을 늘리는 데 그치지 않는다. 여러 협력사의 생산 일정과 품질 기준을... 애플의 경우 삼성전자와의 경쟁을 위해서는 공급 안정성을 확보해야 하는 입장이다. 삼성전자는 2019년부터...",
+          "src": "enewstoday",
+          "date": "10/22",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482891",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2482891_1328006_3546_v150.jpg"
         },
         {
-          "title": "이재용의 ‘승어부’…“협력사가 잘돼야 삼성도 잘돼” 代 잇는 상생",
-          "desc": "“협력회사가 잘돼야 우리 회사도 잘됩니다.” 이재용 삼성전자(005930) 회장은 2022년 10월 28일 회장 취임 이후 첫 현장 방문지로 광주의 생활가전 부품 협력사 디케이를 찾아 이같이 말했다. 디케이는 당시 삼성전자...",
-          "src": "서울경제",
-          "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/011/0004673697?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/21/news-p.v1.20251230.15cecbcd22054202b69d7c20b4c7d48d_Z1.jpg"
+          "title": "자율주행 시대 수요 폭발… 차량용 반도체 국산화 속도",
+          "desc": "현대모비스와 협력사들이 차량용 반도체 개발 관련 양해각서(MOU)를 체결한 뒤 기념촬영을 하고 있다.... 삼성전자, SK키파운드리, LX세미콘, 동운아나텍 등과 함께 소프트웨어, 설계자산(IP), 패키징, 시험평가, 기능안전...",
+          "src": "segye",
+          "date": "10/22",
+          "url": "https://n.news.naver.com/mnews/article/022/0004168690?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/21/20261021521220.jpg"
         },
         {
-          "title": "기술금고는 열기 전에 지켜야 한다",
-          "desc": "씨지아이는 삼성전자와 4년간 방열부품을 공동개발한 회사다. 한 대기업 계열사가 \"인수하겠다\"며... 다음 학년 개발에서는 배제됐는데, 기술 구조는 그대로 들어갔다는 것이 협력사의 말이다. 출판사는 \"침해 내용을...",
-          "src": "jjn",
-          "date": "10/21",
-          "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1055176",
-          "img": "https://cdn.jjn.co.kr/news/thumbnail/202610/1055176_273281_2827_v150.jpg"
+          "title": "[이재용의 4년㊤] '절박하다'던 취임 일성…4년 만에 답 내놨다",
+          "desc": "취임 다음 날인 2022년 10월 28일 이 회장은 회장으로서 첫 현장 행보로 광주를 찾아 1994년부터 삼성전자와 거래해 온 가전 부품 협력사 디케이를 방문했다. 이 회장은 생산 라인을 둘러보며 \"협력회사가 잘 돼야 우리...",
+          "src": "데일리안",
+          "date": "10/22",
+          "url": "https://n.news.naver.com/mnews/article/119/0003145388?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792470151265_1703633_m_1.jpg"
         }
       ]
     },
@@ -177,19 +177,19 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "美가 만들고 한국·대만이 키운 반도체 시장… 이젠 중국이 노린다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005256?sid=105",
-      "img": "https://www.chosun.com/resizer/v2/SM5XWR746ZEX7IKVINLPGYOAV4.jpg?auth=6fcc5a36c11449aee82c3388e55d329fdd0adfc95b49330d7363eb39e13697a9&width=1024&height=537&focal=528,435"
+      "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
+      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216",
+      "img": "https://cdn.banronbodo.com/news/photo/202610/33216_49267_4338.png"
     },
     {
-      "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
-      "url": "https://n.news.naver.com/mnews/article/016/0002712555?sid=101",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/21/rcv.YNA.20260610.PYH2026061020590005100_P1.jpg"
+      "title": "G마켓, '빅스마일데이'서 AI기반 특가상품 선별",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=775326",
+      "img": "https://cdn.slist.kr/news/thumbnail/202610/775326_1185490_1047_v150.jpg"
     },
     {
-      "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
-      "url": "https://www.newspim.com/news/view/20261021000869",
-      "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
+      "title": "굿 디자인 어워드 사로잡은 한국 제품…'작고 쓰기 쉽게'",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=724796",
+      "img": "https://www.cstimes.com/news/photo/202610/724796_646095_4835.jpg"
     },
     {
       "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.chosun.com/resizer/v2/MZSDIN3GMI4TGNRXHA2TENZVGU.jpg?auth=11edbfc1c0e98b5ef21ef1f7cebce902cbf177258b4527d09a5d00159972cdf1&width=928&height=487&smart=true"
     },
     {
-      "title": "\"AI 로봇산업, 기술 개발 넘어 공공수요 창출·양산 생태계 구축 시급\"",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49136",
-      "img": "https://cdn.irobotnews.com/news/photo/202610/49136_104846_179.png"
+      "title": "\"핀테크 첫 저축은행 인수\"…핀다, 대원저축은행 지분 60% 확보",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=557187",
+      "img": "https://cdn.joongangenews.com/news/photo/202610/557187_364454_2036.jpg"
     },
     {
-      "title": "한국AI·로봇산업협회 주관 \"AI·로봇 산업 생태계 전략 국회포럼\" 성료",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49137",
-      "img": "https://cdn.irobotnews.com/news/photo/202610/49137_104858_1955.png"
+      "title": "진학사 캐치, 'AX 직무역량검사' AI 제품·서비스 확인서 획득",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=20261022081914511146a9e4dd7f_30",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102208195105773046a9e4dd7f220867377.jpg&nmt=30"
     }
   ]
 };
