@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.21 (수) 09:38",
+  "updatedAt": "2026.10.21 (수) 16:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "힐링미, 10월 이용자 대상 '비스포크 정수기' 경품 이벤트 진행",
-          "desc": "암요양병원 비교·검색 플랫폼 힐링미가 10월 이용자 대상 경품으로 삼성전자 '비스포크 정수기'를 제공하는 이벤트를 진행한다고 밝혔다. 힐링미는 2026년 1월부터 매월 가전제품과 IT기기, 생활·건강 관련 제품 등을...",
-          "src": "handmk",
+          "title": "LH, 모듈러주택 대량 발주로 공급 속도…2030년까지 1만6천호",
+          "desc": "LH는 21일 경기남부지역본부에서 모듈러 제조사와 삼성전자·LG전자 등 가전사, 학계 전문가들이 참석한 ‘모듈러주택 활성화 간담회’도 열었다. 지난 13일 국무총리가 민간재개발 현장을 방문해 논의한 ‘공업화...",
+          "src": "lawissue",
           "date": "10/21",
-          "url": "https://www.handmk.com/news/articleView.html?idxno=44266",
-          "img": "https://cdn.handmk.com/news/photo/202610/44266_107068_449.jpg"
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261021163658747167191f6c6e_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102116374204683067191f6c6e219250129182.jpg&nmt=12"
         },
         {
-          "title": "내 집 도면이 해외로?…AI 인테리어 확산에 '공간 데이터' 보호 과제",
-          "desc": "개인정보보호위원회도 지난달 로보락과 삼성전자, LG전자, 에코백스, 샤오미 등 주요 로봇청소기 5개 브랜드의 개인정보 처리 실태를 점검했다. 영상과 음성, 지도 정보 등이 전반적으로 안전하게 관리되고 있는 것으로...",
-          "src": "shinailbo",
+          "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
+          "desc": "그사이 중국 업체들은 국내 로봇청소기 시장 과반을 가져가며 안방까지 파고들었다. 같은 그룹 안에서도... 부문장이 사업부장을 겸하고 있는 삼성전자의 겸직 해소 여부, 6명이던 부회장단이 1명으로 줄어든 LG의 1인...",
+          "src": "전자신문",
           "date": "10/21",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073905",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5073905_2071446_2039.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003477361?sid=101",
+          "img": "https://img.etnews.com/news/article/2023/12/13/news-p.v1.20231213.3dd37b71e82a4e8f90ecfc5a338e8812_P3.jpg"
         },
         {
-          "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
-          "desc": "복합가전 시장을 이끄는 또 다른 축은 세탁건조기다. 삼성전자 ‘비스포크 AI 콤보’와 LG전자 ‘트롬 AI 워시콤보’는 세탁물을 옮기지 않고 세탁부터 건조까지 한 번에 할 수 있다. 과거에도 세탁건조 겸용 제품은...",
-          "src": "서울신문",
+          "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
+          "desc": "반면 국내 시장은 포화상태인데다 LG전자와 삼성전자 등 대기업의 시장 지배력이 강해 위닉스 입장에서 해외... 공기청정기와 제습기를 비롯해 미니건조기, 창문형 에어컨 등 계절가전을 중심으로 제품군을 확대했다....",
+          "src": "뉴스핌",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/081/0003690930?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
+          "url": "https://www.newspim.com/news/view/20261021000869",
+          "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
         },
         {
-          "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
-          "desc": "21일 가전업계에 따르면 삼성전자와 LG전자는 냉장고와 세탁기 등 대형가전까지 구독 서비스를 확대하고 있다. 초기 비용 부담이 적고 다양한 관리 서비스를 이용할 수 있다는 점을 앞세우고 있지만 주요 제품...",
-          "src": "소비자가만드는신문",
+          "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
+          "desc": "어보브반도체가 기존에 세탁기 등에 활용하던 반도체 기술을 활용해 차량용 통신·제어 반도체를 개발... 삼성전자와도 지난해부터 자동차 내부 전자장치 간 데이터 통신을 담당하는 네트워크 반도체를 공동 개발, 현재...",
+          "src": "조선일보",
           "date": "10/21",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"x86 파편화 줄인다\"…인텔·AMD, 파이토치 기반 x86 CPU AI 개발 간소화...",
-          "desc": "최대한 활용하기 위해 별도의 소프트웨어 경로를 고민할 필요가 없어야 한다\"며 \"원DNN을 통해 AMD와... 향후 AI 컴퓨트 익스텐션을 포함한 새로운 기능을 프레임워크에 도입할 수 있는 길을 열었다\"고 말했다....",
-          "src": "디지털데일리",
+          "title": "네덜란드 주지사 일행, 안양 스마트도시 기술에 주목…AI 현장 벤치마킹",
+          "desc": "단순한 기술 도입을 넘어 시민의 일상을 보호하고 도시 문제에 대응하는 데 첨단기술을 활용한다는 점에서 의미를 더했다. 이나 아데마 주지사는 \"안양시의 뛰어난 통합관제 역량과 인공지능(AI) 기술력을 직접 확인할 수...",
+          "src": "더팩트",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/138/0002245413?sid=105",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/629/0000544223?sid=102",
+          "img": "https://img.tf.co.kr/article/home/2026/10/21/202676591792568182.jpg"
         },
         {
-          "title": "[인터뷰] 신규섭 아트앤디자인 공동대표 \"기업의 성장은 덩치보다 시스...",
-          "desc": "데이터와 문안을 만드는 과정에서 AI를 활용하더라도 결과를 확인하고 최종적으로 결정하는 것은 사람이다. 기술을 도입하는 데 그치지 않고 업무의 흐름 자체를 바꾸는 것이 핵심이다\" - 이러한 경영 방식이 K-뷰티...",
-          "src": "meconomynews",
+          "title": "가트너, 2027년 10대 전략기술 발표…AI 성능보다 '통제'",
+          "desc": "생체·합성 생물학 시스템을 연산에 활용하는 서비스형 웻웨어는 기존 실리콘 반도체의 에너지 한계를 보완할 기술로 제시됐다. 진 알바레즈 가트너 수석 부사장 애널리스트는 \"AI가 소프트웨어를 만드는 속도가...",
+          "src": "m-i",
           "date": "10/21",
-          "url": "https://www.meconomynews.com/news/articleView.html?idxno=202764",
-          "img": "https://cdn.meconomynews.com/news/photo/202610/202764_205612_281.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2008678",
+          "img": "https://cdn.m-i.kr/news/photo/202610/2008678_2008725_3819.png"
         },
         {
-          "title": "박상근 시의원 \"사전 예방 중심의 정보보호 체계 구축할 것\"",
-          "desc": "최근 일선 학교에 AI 기반 디지털 교육자료와 다양한 에듀테크 서비스가 빠르게 도입되면서, 학생들의 방대한 학습 이력과 개인정보가 디지털 형태로 축적되고 있다. 그러나 기술 도입 속도에 비해 교육 현장의 개인정보를...",
-          "src": "뉴스핌",
+          "title": "딥엘 보이스, 아모레퍼시픽 글로벌 협업에 활용…월간 이용 회의 100건 ...",
+          "desc": "기업들이 기존 업무 환경에서 활용할 수 있는 AI 기반 실시간 음성 번역 기술을 검토하는 배경이다. 글로벌... 아모레퍼시픽은 중장기 전략 과제인 ‘AI 퍼스트(AI First)’에 따라 업무 전반에 AI 기술을 도입하고 있다....",
+          "src": "venturesquare",
           "date": "10/21",
-          "url": "https://www.newspim.com/news/view/20261021000259",
-          "img": "https://img.newspim.com/news/2026/10/21/2610210933526670_t1.jpg"
+          "url": "https://www.venturesquare.net/1121688/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/deepl.jpg"
         },
         {
-          "title": "“프롬프트 인젝션부터 섀도우 AI까지 방어”… 포티넷, 차세대 AI 보안...",
-          "desc": "AI 도입을 둘러싼 불확실성이 커지면서 보안 논의가 기술 문제에서 조직 정책과 사용자 보호 문제로 확대되고 있다고 설명했다. 그는 “고객과의 논의는 AI를 차단하자는 데서 안전하게 활용할 방법을 찾자는 방향으로...",
-          "src": "kidd",
+          "title": "원프레딕트, 제조 데이터부터 운영 판단까지 AI 공장 시연",
+          "desc": "원프레딕트는 행사에서 만난 기업·기관과 기술검증(PoC) 및 도입 협의를 추진할 계획이다. 오는 22일에는 FIX 2026 이노베이션 어워즈 미래 모빌리티 분야에서 'AI 네이티브 솔루션'으로 '최고 혁신 기술상'을 받을...",
+          "src": "kdfnews",
           "date": "10/21",
-          "url": "https://kidd.co.kr/news/247797",
-          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/10/21/1792541924_7.jpg"
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=189683",
+          "img": "http://www.kdfnews.com/news/thumbnail/202610/189683_242104_3625_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[전기요금 차등제 논란]③전기료에 눌린 中企 투자…지역요금제가 해법...",
-          "desc": "납품단가에 못 얹는 전력비…협력사 이익·투자 여력 동반 위축 기간산업, 저가 공세 속 탄소중립·제조 AX... 삼성전자 구미 스마트시티 전경.(사진=삼성전자) 21일 업계에 따르면 포항·울산·여수 등 산업단지에서 부품...",
-          "src": "아시아타임즈",
+          "title": "삼성전자 메모리값 급등에 갤럭시A시리즈 2천만대 감산, 노태문 점유율...",
+          "desc": "삼성전자는 갤럭시 A시리즈의 디스플레이와 주요 부품을 공급하는 협력사에 물량 조절을 통보하고 있는 것으로 알려졌다. 갤럭시 A시리즈는 2014년 말부터 출시되고 있는 중저가 보급형 모델이다. 시장조사업체...",
+          "src": "비즈니스포스트",
           "date": "10/21",
-          "url": "https://www.asiatime.co.kr/article/20261020500400",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/20/.cache/512/20261020500401.png"
-        },
-        {
-          "title": "경기도, 엑셀리스 아시아 거점센터 착공식 개최...추미애 지사 \"경기도...",
-          "desc": "경기도는 삼성전자와 SK하이닉스 등 반도체 제조기업과 소재·부품·장비 기업이 밀집한 경기 남부에... 고객사와 협력사 간 파트너십을 바탕으로 인공지능(AI) 시대 반도체 혁신과 산업 생태계의 동반 성장을...",
-          "src": "서울신문",
-          "date": "10/21",
-          "url": "http://www.metroseoul.co.kr/article/20261020500315",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449921",
           "img": ""
         },
         {
-          "title": "돈 넘어 기술로…새판 짜는 4대 그룹 상생협력",
-          "desc": "삼성그룹은 총 3조5000억원 규모의 상생펀드와 ESG 펀드를 통해 협력사의 시설투자와 기술개발 자금을 지원하고 있다. 삼성전자는 국내 소재·부품·장비 기업의 기술개발을 돕기 위해 '패턴 웨이퍼' 제공도 확대할...",
-          "src": "sidae",
+          "title": "[위클리오늘] 현대모비스, 車반도체 협력사 53곳으로 확대···국산화 개...",
+          "desc": "완성차와 부품사, 반도체 설계기업(팹리스), 위탁생산기업(파운드리) 등을 연결하기 위해 지난해 출범했다. 올해는 설계자산(IP), 소프트웨어, 패키징, 시험평가, 기능안전 분야까지 참여 범위를 넓혔다. 삼성전자와...",
+          "src": "weeklytoday",
           "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/417/0001161535?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/20/00/2026102009520486886_1.jpg"
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=799017",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202610/799017_993107_3046_v150.jpg"
         },
         {
-          "title": "TSMC, 초미세 공정에 생산량 까지 늘린다…‘만년 2등’ 삼성 파운드리...",
-          "desc": "이 곳에는 대규모 반도체 팹 6기와 발전소 3기, 소재·부품·장비(소부장) 협력사 60곳 이상이 들어선다. 삼성전자는 반도체 팹 6기 중 첫 번째 팹의 가동 시점을 오는 2029년으로 설정했다. 이는 당초 1기 팹 가동 예상...",
-          "src": "ceoscoredaily",
-          "date": "10/20",
-          "url": "https://www.ceoscoredaily.com/page/view/2026102015432865084",
-          "img": "https://www.ceoscoredaily.com/photos/2024/09/03/2024090316571068969_l.jpg"
+          "title": "[비즈+]현대모비스, 차량용 반도체 13종 개발 착수…국산화 협력 '원팀'...",
+          "desc": "삼성전자와 SK키파운드리, 글로벌테크놀로지, 어보브반도체, LX세미콘, 동운아나텍 등 기존 참여사에 더해... 차량용 반도체를 사용하는 1차 협력사(Tier 1)이면서 반도체를 자체 설계하고 외부 전문기업과 공동 개발하는...",
+          "src": "비즈니스플러스",
+          "date": "10/21",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=118527",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202610/118527_119373_1250_v150.jpg"
+        },
+        {
+          "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
+          "desc": "국내 전자업계의 기존 반도체 기술을 자동차용으로 전환하는 전략을 택했다. 1차 협력사이자 반도체... 삼성전자와도 지난해부터 자동차 내부 전자장치 간 데이터 통신을 담당하는 네트워크 반도체를 공동 개발, 현재...",
+          "src": "조선일보",
+          "date": "10/21",
+          "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -140,6 +140,14 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "자동차의 신경망, '와이어링 하네스'… 베트남 조달 비중 33.3%까지 확대",
+          "desc": "차량 한 대를 생산하기 위해서는 엔진룸, 계기판, 도어, 차체 등 연결하는 구역과 장치에 따라 여러 종류의 와이어링 하네스가 사용된다. 또한 동일한 차종이라 하더라도, 그 기능과 전장(電裝) 사양에 따라...",
+          "src": "dream",
+          "date": "10/21",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244335",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+        },
         {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
           "desc": "자동차 전장 회로보드. (사진: 김병주 기자) 조널 구조 양산 적용…배선 길이·무게 줄여 BMW는 차세대 차량 '노이에 클라쎄'에 조널 구조를 적용했다. 와이어링 하네스를 전면·중앙·후면·루프 등 4개 구역으로 나누고...",
@@ -163,48 +171,40 @@ window.NEWS_DATA = {
           "date": "09/11",
           "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180166.html",
           "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
-        },
-        {
-          "title": "티에이치엔, 카자흐 최대 車기업과 전장 생산기지 구축…현대차·기아 ...",
-          "desc": "티에이치엔은 와이어링 하네스와 자동차 전장부품을 주력으로 하는 현대차·기아 1차 협력사다. 중국과 베트남, 필리핀, 멕시코 등지에 생산망을 두고 현대차·기아 글로벌 공장에 제품을 공급하고 있다....",
-          "src": "더구루",
-          "date": "09/16",
-          "url": "https://www.theguru.co.kr/news/article.html?no=107137",
-          "img": "https://www.theguru.co.kr/data/photos/20260938/art_17895261082506_c3e6c1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "힐링미, 10월 이용자 대상 '비스포크 정수기' 경품 이벤트 진행",
-      "url": "https://www.handmk.com/news/articleView.html?idxno=44266",
-      "img": "https://cdn.handmk.com/news/photo/202610/44266_107068_449.jpg"
+      "title": "LH, 모듈러주택 대량 발주로 공급 속도…2030년까지 1만6천호",
+      "url": "https://www.lawissue.co.kr/view.php?ud=20261021163658747167191f6c6e_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102116374204683067191f6c6e219250129182.jpg&nmt=12"
     },
     {
-      "title": "내 집 도면이 해외로?…AI 인테리어 확산에 '공간 데이터' 보호 과제",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073905",
-      "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5073905_2071446_2039.png"
+      "title": "[ET톡] '호황' 속 재계 인사, 불황의 청구서까지 내다봐야",
+      "url": "https://n.news.naver.com/mnews/article/030/0003477361?sid=101",
+      "img": "https://img.etnews.com/news/article/2023/12/13/news-p.v1.20231213.3dd37b71e82a4e8f90ecfc5a338e8812_P3.jpg"
     },
     {
-      "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003690930?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
+      "title": "'해외 비중 60%' 위닉스, 日·태국 시장 공략 강화",
+      "url": "https://www.newspim.com/news/view/20261021000869",
+      "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
     },
     {
-      "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+      "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑...",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005126?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/HAYWGYLBHEYDCYRTGEZWKZTCHA.jpg?auth=4951f33f0969eac0d79e0b87204d90a9b9b0d1dbf9c28283998e8cf516275151&width=1200&height=630&smart=true"
     },
     {
-      "title": "[인터뷰] 신규섭 아트앤디자인 공동대표 \"기업의 성장은 덩치보다 시스...",
-      "url": "https://www.meconomynews.com/news/articleView.html?idxno=202764",
-      "img": "https://cdn.meconomynews.com/news/photo/202610/202764_205612_281.jpg"
+      "title": "네덜란드 주지사 일행, 안양 스마트도시 기술에 주목…AI 현장 벤치마킹",
+      "url": "https://n.news.naver.com/mnews/article/629/0000544223?sid=102",
+      "img": "https://img.tf.co.kr/article/home/2026/10/21/202676591792568182.jpg"
     },
     {
-      "title": "박상근 시의원 \"사전 예방 중심의 정보보호 체계 구축할 것\"",
-      "url": "https://www.newspim.com/news/view/20261021000259",
-      "img": "https://img.newspim.com/news/2026/10/21/2610210933526670_t1.jpg"
+      "title": "가트너, 2027년 10대 전략기술 발표…AI 성능보다 '통제'",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2008678",
+      "img": "https://cdn.m-i.kr/news/photo/202610/2008678_2008725_3819.png"
     }
   ]
 };
