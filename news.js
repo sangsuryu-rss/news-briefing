@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.21 (수) 06:39",
+  "updatedAt": "2026.10.21 (수) 09:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
-          "desc": "삼성전자 관계자는 \"가전 구독은 제품 구매 시 초기 부담 비용을 줄이면서 소비자가 필요한 관리 서비스를 선택할 수 있다\"며 \"제품 특성에 맞춘 다양한 관리 서비스를 고객이 원하는 방식에 맞춰 선택할 수 있다는...",
-          "src": "소비자가만드는신문",
+          "title": "힐링미, 10월 이용자 대상 '비스포크 정수기' 경품 이벤트 진행",
+          "desc": "암요양병원 비교·검색 플랫폼 힐링미가 10월 이용자 대상 경품으로 삼성전자 '비스포크 정수기'를 제공하는 이벤트를 진행한다고 밝혔다. 힐링미는 2026년 1월부터 매월 가전제품과 IT기기, 생활·건강 관련 제품 등을...",
+          "src": "handmk",
           "date": "10/21",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+          "url": "https://www.handmk.com/news/articleView.html?idxno=44266",
+          "img": "https://cdn.handmk.com/news/photo/202610/44266_107068_449.jpg"
+        },
+        {
+          "title": "내 집 도면이 해외로?…AI 인테리어 확산에 '공간 데이터' 보호 과제",
+          "desc": "개인정보보호위원회도 지난달 로보락과 삼성전자, LG전자, 에코백스, 샤오미 등 주요 로봇청소기 5개 브랜드의 개인정보 처리 실태를 점검했다. 영상과 음성, 지도 정보 등이 전반적으로 안전하게 관리되고 있는 것으로...",
+          "src": "shinailbo",
+          "date": "10/21",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073905",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5073905_2071446_2039.png"
         },
         {
           "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
-          "desc": "로봇청소기는 복합가전의 기술적 집합체다. 삼성전자 ‘비스포크 AI 스팀’, LG전자 ‘LG 홈봇 AI 오브제컬렉션 로니’, 로보락의 ‘Qrevo(큐레보)’ 계열 제품 등은 먼지 흡입과 물걸레 청소는 물론 걸레 세척과 건조까지...",
+          "desc": "복합가전 시장을 이끄는 또 다른 축은 세탁건조기다. 삼성전자 ‘비스포크 AI 콤보’와 LG전자 ‘트롬 AI 워시콤보’는 세탁물을 옮기지 않고 세탁부터 건조까지 한 번에 할 수 있다. 과거에도 세탁건조 겸용 제품은...",
           "src": "서울신문",
           "date": "10/21",
           "url": "https://n.news.naver.com/mnews/article/081/0003690930?sid=101",
           "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
         },
         {
-          "title": "\"AI 의료혁신, 병원 자동화 넘어 환자 일상까지 연결해야\"",
-          "desc": "삼성전자 MX사업부 디지털 헬스팀장인 혼 박(Hon Pak) 부사장은 20일 서울 코엑스 마곡 컨벤션센터에서 열린... 특히 스마트폰과 가전제품 등 가정 내 기기를 활용해 건강관리를 일상생활에 통합하는 미래 구상을 제시했다....",
-          "src": "kmedinfo",
+          "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
+          "desc": "21일 가전업계에 따르면 삼성전자와 LG전자는 냉장고와 세탁기 등 대형가전까지 구독 서비스를 확대하고 있다. 초기 비용 부담이 적고 다양한 관리 서비스를 이용할 수 있다는 점을 앞세우고 있지만 주요 제품...",
+          "src": "소비자가만드는신문",
           "date": "10/21",
-          "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98342",
-          "img": "https://cdn.kmedinfo.co.kr/news/thumbnail/202610/98342_62699_2734_v150.jpg"
-        },
-        {
-          "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
-          "desc": "로봇청소기는 복합가전의 기술적 집합체다. 삼성전자 ‘비스포크 AI 스팀’, LG전자 ‘로보킹 AI 올인원’, 로보락의 ‘Qrevo(큐레보)’ 계열 제품 등은 먼지 흡입과 물걸레 청소는 물론 걸레 세척과 건조까지 자동으로...",
-          "src": "서울신문",
-          "date": "10/20",
-          "url": "https://n.news.naver.com/mnews/article/081/0003690824?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[서학개미 안테나] AI판 카드 돌려막기…빚으로 몸집 키운 코어위브의 ...",
-          "desc": "당시 엔비디아 GPU를 대량 확보했으며, 암호화폐 가격이 급락하자 보유한 GPU를 활용해 고성능 클라우드... 최초로 도입한 기업이 됐으며, 올해 1월 엔비디아는 코어위브에 20억달러를 추가 투자했다. ◆AI 투자, 기술...",
-          "src": "ebn",
+          "title": "\"x86 파편화 줄인다\"…인텔·AMD, 파이토치 기반 x86 CPU AI 개발 간소화...",
+          "desc": "최대한 활용하기 위해 별도의 소프트웨어 경로를 고민할 필요가 없어야 한다\"며 \"원DNN을 통해 AMD와... 향후 AI 컴퓨트 익스텐션을 포함한 새로운 기능을 프레임워크에 도입할 수 있는 길을 열었다\"고 말했다....",
+          "src": "디지털데일리",
           "date": "10/21",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728543",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1728543_763273_1049_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002245413?sid=105",
+          "img": ""
         },
         {
-          "title": "[금융보안 경고등②] 저축은행은 정보유출, 보험사는 관리 미흡… 2금융...",
-          "desc": "특히 지난해 책무구조도 도입으로 최고경영자(CEO)를 비롯한 경영진의 내부통제 책임이 강화되면서 제도의... 전산업무 위탁은 전문인력과 인프라를 활용할 수 있다는 장점이 있지만 보안관리 책임까지 외부로 넘길 수...",
-          "src": "the-biz",
+          "title": "[인터뷰] 신규섭 아트앤디자인 공동대표 \"기업의 성장은 덩치보다 시스...",
+          "desc": "데이터와 문안을 만드는 과정에서 AI를 활용하더라도 결과를 확인하고 최종적으로 결정하는 것은 사람이다. 기술을 도입하는 데 그치지 않고 업무의 흐름 자체를 바꾸는 것이 핵심이다\" - 이러한 경영 방식이 K-뷰티...",
+          "src": "meconomynews",
           "date": "10/21",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729554",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202610/729554_935863_5419.jpg"
+          "url": "https://www.meconomynews.com/news/articleView.html?idxno=202764",
+          "img": "https://cdn.meconomynews.com/news/photo/202610/202764_205612_281.jpg"
         },
         {
-          "title": "[미국 특징주] 넷플릭스, 호실적에도 매출 전망 하향에 시간외 6%↓",
-          "desc": "일부 광고 상품 기능의 도입이 예상보다 늦어지고 있는 점이 전망 하향의 배경이라고 설명했다. 4분기... 회원들에게 더 큰 엔터테인먼트 가치를 제공하고, 기술을 활용해 서비스 전반을 개선하며, 수익화 역량을...",
+          "title": "박상근 시의원 \"사전 예방 중심의 정보보호 체계 구축할 것\"",
+          "desc": "최근 일선 학교에 AI 기반 디지털 교육자료와 다양한 에듀테크 서비스가 빠르게 도입되면서, 학생들의 방대한 학습 이력과 개인정보가 디지털 형태로 축적되고 있다. 그러나 기술 도입 속도에 비해 교육 현장의 개인정보를...",
           "src": "뉴스핌",
           "date": "10/21",
-          "url": "https://www.newspim.com/news/view/20261021000018",
-          "img": "https://img.newspim.com/news/2026/05/13/2605130904078880_300_tc.jpg"
+          "url": "https://www.newspim.com/news/view/20261021000259",
+          "img": "https://img.newspim.com/news/2026/10/21/2610210933526670_t1.jpg"
         },
         {
-          "title": "\"사람 돌보는 사람부터 돌봐야\"…병원 리더십의 새로운 해법",
-          "desc": "AI 도입 역시 업무 효율성이나 생산성을 높이는 데 그치지 않고 의료진이 환자와 더 많은 시간을 보낼 수 있도록 활용해야 한다고 강조했다. 그는 \"AI가 하루에 한 시간을 절약해 준다면 그 시간을 어떻게 사용할 것인지...",
-          "src": "docdocdoc",
+          "title": "“프롬프트 인젝션부터 섀도우 AI까지 방어”… 포티넷, 차세대 AI 보안...",
+          "desc": "AI 도입을 둘러싼 불확실성이 커지면서 보안 논의가 기술 문제에서 조직 정책과 사용자 보호 문제로 확대되고 있다고 설명했다. 그는 “고객과의 논의는 AI를 차단하자는 데서 안전하게 활용할 방법을 찾자는 방향으로...",
+          "src": "kidd",
           "date": "10/21",
-          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043798",
-          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043798_3047671_102_v150.jpg"
+          "url": "https://kidd.co.kr/news/247797",
+          "img": "https://pimg3.daara.co.kr/kidd/photo/2026/10/21/1792541924_7.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[전기요금 차등제 논란]③전기료에 눌린 中企 투자…지역요금제가 해법...",
+          "desc": "납품단가에 못 얹는 전력비…협력사 이익·투자 여력 동반 위축 기간산업, 저가 공세 속 탄소중립·제조 AX... 삼성전자 구미 스마트시티 전경.(사진=삼성전자) 21일 업계에 따르면 포항·울산·여수 등 산업단지에서 부품...",
+          "src": "아시아타임즈",
+          "date": "10/21",
+          "url": "https://www.asiatime.co.kr/article/20261020500400",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/20/.cache/512/20261020500401.png"
+        },
+        {
+          "title": "경기도, 엑셀리스 아시아 거점센터 착공식 개최...추미애 지사 \"경기도...",
+          "desc": "경기도는 삼성전자와 SK하이닉스 등 반도체 제조기업과 소재·부품·장비 기업이 밀집한 경기 남부에... 고객사와 협력사 간 파트너십을 바탕으로 인공지능(AI) 시대 반도체 혁신과 산업 생태계의 동반 성장을...",
+          "src": "서울신문",
+          "date": "10/21",
+          "url": "http://www.metroseoul.co.kr/article/20261020500315",
+          "img": ""
+        },
         {
           "title": "돈 넘어 기술로…새판 짜는 4대 그룹 상생협력",
           "desc": "삼성그룹은 총 3조5000억원 규모의 상생펀드와 ESG 펀드를 통해 협력사의 시설투자와 기술개발 자금을 지원하고 있다. 삼성전자는 국내 소재·부품·장비 기업의 기술개발을 돕기 위해 '패턴 웨이퍼' 제공도 확대할...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/20",
           "url": "https://www.ceoscoredaily.com/page/view/2026102015432865084",
           "img": "https://www.ceoscoredaily.com/photos/2024/09/03/2024090316571068969_l.jpg"
-        },
-        {
-          "title": "엑셀리스, 평택 생산시설 키운다…기술 개발·인력 양성까지 확대",
-          "desc": "삼성전자와 SK하이닉스 등에 이온주입 장비를 공급해 온 기존 사업장의 생산 기반을 늘리고, 연구개발과... 있다\"며 \"국내 협력사와의 거래 및 부품 조달 실적도 국내 산업과의 연계 수준을 판단하는 기준이 될 것\"이라고...",
-          "src": "polinews",
-          "date": "10/20",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746291",
-          "img": "https://cdn.polinews.co.kr/news/photo/202610/746291_570129_591.jpg"
-        },
-        {
-          "title": "삼성전자, 완제품 비용 조정 …갤럭시 출하 줄이고 가전 설치비까지",
-          "desc": "삼성전자가 최근 협력사에 전달한 4분기 부품 발주량 전망치를 낮춘 데 따른 것으로 올해에 이어 내년 스마트폰 출하 목표도 하향 조정할 가능성이 제기된다. 출하 목표 조정에는 메모리 가격 상승과 중저가 스마트폰...",
-          "src": "서울신문",
-          "date": "10/20",
-          "url": "http://www.metroseoul.co.kr/article/20261020500458",
-          "img": ""
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
+      "title": "힐링미, 10월 이용자 대상 '비스포크 정수기' 경품 이벤트 진행",
+      "url": "https://www.handmk.com/news/articleView.html?idxno=44266",
+      "img": "https://cdn.handmk.com/news/photo/202610/44266_107068_449.jpg"
+    },
+    {
+      "title": "내 집 도면이 해외로?…AI 인테리어 확산에 '공간 데이터' 보호 과제",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073905",
+      "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5073905_2071446_2039.png"
     },
     {
       "title": "빨래 이동 끝낸 삼성·LG, 양말 줍기 시작한 로보락…‘손 뗄 날’ 머지...",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020210414_O2.jpg"
     },
     {
-      "title": "\"AI 의료혁신, 병원 자동화 넘어 환자 일상까지 연결해야\"",
-      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98342",
-      "img": "https://cdn.kmedinfo.co.kr/news/thumbnail/202610/98342_62699_2734_v150.jpg"
+      "title": "[구독경제의 명암②] 초기 부담 적지만 계약 기간 길수록 '비용 폭탄'.....",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765896",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/765896_319752_3922_v150.jpg"
     },
     {
-      "title": "세탁·건조부터 가습·공기청정까지…‘한 대로 다 되는’ 복합가전 진...",
-      "url": "https://n.news.naver.com/mnews/article/081/0003690824?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020180925_O2.jpg"
+      "title": "[인터뷰] 신규섭 아트앤디자인 공동대표 \"기업의 성장은 덩치보다 시스...",
+      "url": "https://www.meconomynews.com/news/articleView.html?idxno=202764",
+      "img": "https://cdn.meconomynews.com/news/photo/202610/202764_205612_281.jpg"
     },
     {
-      "title": "[서학개미 안테나] AI판 카드 돌려막기…빚으로 몸집 키운 코어위브의 ...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728543",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1728543_763273_1049_v150.jpg"
-    },
-    {
-      "title": "[금융보안 경고등②] 저축은행은 정보유출, 보험사는 관리 미흡… 2금융...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729554",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202610/729554_935863_5419.jpg"
+      "title": "박상근 시의원 \"사전 예방 중심의 정보보호 체계 구축할 것\"",
+      "url": "https://www.newspim.com/news/view/20261021000259",
+      "img": "https://img.newspim.com/news/2026/10/21/2610210933526670_t1.jpg"
     }
   ]
 };
