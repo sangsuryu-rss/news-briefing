@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.21 (수) 22:50",
+  "updatedAt": "2026.10.22 (목) 03:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한국토지주택공사, 모듈러주택 1만 6,000호…2030년까지 발주",
-          "desc": "간담회에서는 삼성전자와 엘지전자가 참여한 가운데 인공지능 가전과 모듈러주택을 결합하는 차세대 주거모델도 논의됐다. 설계 단계부터 인공지능 가전과 에너지 관리 플랫폼을 통합해 입주민에게 생활 편의와...",
-          "src": "newstown",
-          "date": "10/21",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719300",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/719300_675227_540_v150.jpg"
+          "title": "美가 만들고 한국·대만이 키운 반도체 시장… 이젠 중국이 노린다",
+          "desc": "미국이 일군 산업, 한국·대만과 분업 체제로 반도체는 컴퓨터·스마트폰부터 가전·자동차·완구 등, 정보... 삼성전자는 1983년 64K D램을 개발했고, 1992년엔 세계 최초 64M D램을 내놓으며 일본을 제치고 D램 세계 1위가...",
+          "src": "조선일보",
+          "date": "10/22",
+          "url": "https://n.news.naver.com/mnews/article/023/0004005256?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/SM5XWR746ZEX7IKVINLPGYOAV4.jpg?auth=6fcc5a36c11449aee82c3388e55d329fdd0adfc95b49330d7363eb39e13697a9&width=1024&height=537&focal=528,435"
         },
         {
           "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
         },
         {
-          "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\"",
-          "desc": "세탁기, 냉장고에 쓰이는 저전력 모터 제어 MCU에서 불필요한 산업용 인터페이스를 덜어내고 차량용... 올해 포럼은 삼성전자(005930), SK키파운드리, 글로벌테크놀로지, 어보브반도체, LX세미콘, 동운아나텍(094170) 등...",
-          "src": "뉴스1",
-          "date": "10/21",
-          "url": "https://n.news.naver.com/mnews/article/421/0009242250?sid=103",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/21/8172041/high.jpg"
+          "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
+          "desc": "구체적으로 ▲세탁기용 반도체 기술을 차량 통신·제어용으로(어보브반도체) ▲TV 구동 기술을 차량용... 반도체(삼성전자, 현재 시제품 평가 중) 등 미래차 핵심 칩 개발이 전방위로 이뤄지고 있다. 현대모비스는 이날...",
+          "src": "조선일보",
+          "date": "10/22",
+          "url": "https://n.news.naver.com/mnews/article/023/0004005190?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/MZSDIN3GMI4TGNRXHA2TENZVGU.jpg?auth=11edbfc1c0e98b5ef21ef1f7cebce902cbf177258b4527d09a5d00159972cdf1&width=928&height=487&smart=true"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
-          "desc": "데이터와 AI 기술을 활용해 고객의 다양한 금융 수요에 적극 대응하고, 금융 소비자가 체감할 수 있는... IT·AI 역량을 결합해 ‘AI 네이티브 뱅킹’을 구현하는 것이 목표다. 업무 전반에 AI 에이전트를 도입해 생산성과...",
-          "src": "byline",
-          "date": "10/21",
-          "url": "https://byline.network/?p=9004111222624211",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/10/1021.jpg"
+          "title": "\"AI 로봇산업, 기술 개발 넘어 공공수요 창출·양산 생태계 구축 시급\"",
+          "desc": "현장에서 활용할 수 있는 피지컬 AI가 나온다\"고 말했다. 그는 로봇 제조기업과 시스템통합(SI) 기업 간 협력 부족도 문제로 지적하면서 \"교육과 기술 협력을 통해 중소 제조기업의 실제 생산 현장에서부터 피지컬 AI 도입을...",
+          "src": "irobotnews",
+          "date": "10/22",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49136",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49136_104846_179.png"
         },
         {
-          "title": "벤츠·볼보·폭스바겐까지⋯엔비디아 자율주행 플랫폼 확산",
-          "desc": "관련 기술을 도입하거나 개발에 활용한다. 엔비디아는 유럽 자동차·모빌리티 업체들이 하이페리온을... 자율주행 AI 개발도 고도화한다. '알파마요 2 엣지(Alpamayo 2 Edge)'는 20억 파라미터 규모 추론 모델로 엔비디아...",
-          "src": "autodaily",
-          "date": "10/21",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601374",
-          "img": "https://cdn.autodaily.co.kr/news/photo/202610/601374_202667_1327.jpg"
+          "title": "한국AI·로봇산업협회 주관 \"AI·로봇 산업 생태계 전략 국회포럼\" 성료",
+          "desc": "추진\" 'AI로봇 M.AX 얼라이언스 추진 현황 및 향후 방안'을 발표한 박일우 한국산업기술기획평가원 로봇PD는 \"현행법상 휴머노이드는 표준과 안전기준이 없어 산업 현장 도입에 제한이 있었지만 규제샌드박스로 이를...",
+          "src": "irobotnews",
+          "date": "10/22",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49137",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49137_104858_1955.png"
         },
         {
-          "title": "안양시, 네덜란드 방문단 스마트도시 통합센터 체험",
-          "desc": "분야의 AI 활용 사례를 확인, 로봇과 드론 등 스마트 도시 기술의 현장 운영을 살펴봤다고 밝혔다. 아데마... 최대호 시장은 “우리시는 첨단 기술을 도심 현장에 적극 도입, 스마트도시 경쟁력을 높이고 있다“며 “이번...",
-          "src": "브릿지경제",
-          "date": "10/21",
-          "url": "https://www.viva100.com/article/20261021501546",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/21/.cache/512/20261021501543.jpg?v=20261021225038"
+          "title": "태안군, \"출산장려금 셋째부터 1000만원\"… 아이부터 어르신까지 '복지...",
+          "desc": "도입해 총 100가정에 보급할 계획이다. AI 돌봄로봇을 활용해 홀몸 어르신 등 돌봄 취약가구의 정서적 고립을 완화하고, 일상 속 돌봄서비스를 강화한다는 취지다. 고령화로 늘어나는 돌봄 수요에 대응하기 위해 기술을...",
+          "src": "tournews21",
+          "date": "10/22",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=146367",
+          "img": "https://cdn.tournews21.com/news/photo/202610/146367_272852_5916.jpg"
         },
         {
-          "title": "KT, 병원별 맞춤형 AI 도입 지원… 의료 AX 표준모델 확산 나서",
-          "desc": "ㅣKT KT가 병원별 환경에 맞춰 인공지능(AI) 기술을 도입할 수 있는 의료 AX(인공지능 전환) 표준모델을... 만큼 AI 도입에는 기존 시스템과의 연계가 주요 과제로 꼽힌다. KT는 의료 데이터 플랫폼과 AI 에이전트 활용...",
-          "src": "biztribune",
-          "date": "10/21",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361001",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202610/361001_266872_4953_v150.jpg"
+          "title": "MD-한국 지방공무원, AI로 공공 서비스 혁신",
+          "desc": "공공부문의 AI 활용, 디지털 전환 및 첨단 기술 도입 방안 등을 논의했다. 수잔 리 주무장관은“메릴랜드주와 한국은 자매결연 등을 통해 오랜 기간 우호와 협력을 이어오고 있다”며“이번 혁신 협력 교류를 통해 양측의...",
+          "src": "koreatimes",
+          "date": "10/22",
+          "url": "http://www.koreatimes.com/article/1634685",
+          "img": "http://mimg.koreatimes.com/286/172/article/2026/10/21/202610210643386a1.jpg"
         }
       ]
     },
@@ -122,7 +122,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "10/21",
           "url": "https://n.news.naver.com/mnews/article/011/0004673697?sid=101",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/21/news-p.v1.20251230.15cecbcd22054202b69d7c20b4c7d48d_Z1.jpg"
         },
         {
           "title": "기술금고는 열기 전에 지켜야 한다",
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "한국토지주택공사, 모듈러주택 1만 6,000호…2030년까지 발주",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719300",
-      "img": "https://cdn.newstown.co.kr/news/thumbnail/202610/719300_675227_540_v150.jpg"
+      "title": "美가 만들고 한국·대만이 키운 반도체 시장… 이젠 중국이 노린다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005256?sid=105",
+      "img": "https://www.chosun.com/resizer/v2/SM5XWR746ZEX7IKVINLPGYOAV4.jpg?auth=6fcc5a36c11449aee82c3388e55d329fdd0adfc95b49330d7363eb39e13697a9&width=1024&height=537&focal=528,435"
     },
     {
       "title": "현대차 “中, 로봇이 로청기·드론·전기차보다 韓 시장 잠식 더 빠를 것...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.newspim.com/news/2026/10/21/2610211441550410_272_tc.jpg"
     },
     {
-      "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009242250?sid=103",
-      "img": "https://i3n.news1.kr/system/photos/2026/10/21/8172041/high.jpg"
+      "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005190?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/MZSDIN3GMI4TGNRXHA2TENZVGU.jpg?auth=11edbfc1c0e98b5ef21ef1f7cebce902cbf177258b4527d09a5d00159972cdf1&width=928&height=487&smart=true"
     },
     {
-      "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
-      "url": "https://byline.network/?p=9004111222624211",
-      "img": "https://cdn.byline.network/wp-content/uploads/2026/10/1021.jpg"
+      "title": "\"AI 로봇산업, 기술 개발 넘어 공공수요 창출·양산 생태계 구축 시급\"",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49136",
+      "img": "https://cdn.irobotnews.com/news/photo/202610/49136_104846_179.png"
     },
     {
-      "title": "벤츠·볼보·폭스바겐까지⋯엔비디아 자율주행 플랫폼 확산",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601374",
-      "img": "https://cdn.autodaily.co.kr/news/photo/202610/601374_202667_1327.jpg"
+      "title": "한국AI·로봇산업협회 주관 \"AI·로봇 산업 생태계 전략 국회포럼\" 성료",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49137",
+      "img": "https://cdn.irobotnews.com/news/photo/202610/49137_104858_1955.png"
     }
   ]
 };
