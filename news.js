@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.23 (금) 02:13",
+  "updatedAt": "2026.10.23 (금) 06:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "LH, 2030년까지 모듈러주택 1.6만 호 발주",
-          "desc": "이 자리에서 박현근 LH 공공주택본부장 주재로 국내 모듈러 산업을 선도하는 제조사를 비롯해 삼성전자, LG전자 등 가전기업, 학계 전문가들이 참석해 모듈러 공급 확대 및 기술 고도화 방안을 논의했다. 특히...",
-          "src": "idaegu",
-          "date": "10/22",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563106",
-          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+          "title": "[구독경제의 명암③] 목돈 안드니 좋다고?...중도 해지시 렌탈보다 더 높...",
+          "desc": "가전부터 자동차까지 '구독' 서비스가 일상을 파고 들고 있다. 초기 구매 부담을 낮추고 청소·고장 등... 삼성전자도 할인 전 기본 구독료를 기준으로 삼는다. 코웨이 또한 정수기, 비데 등 제품의 구독 계약이...",
+          "src": "소비자가만드는신문",
+          "date": "10/23",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766293",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/766293_319707_4844_v150.jpg"
         },
         {
           "title": "G마켓, 빅스마일데이에 AI 상품 선별 도입···특가상품 3배 확대",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[K-Security in Japan] 티오리, AI 모의해킹 SaaS 솔루션으로 일본 시장 장...",
-          "desc": "티오리는 도입 결정까지 시간이 오래 걸리고 검토가 까다롭지만, 한 번 파트너십을 맺으면 장기간 견고한... 티오리는 방어자의 입장에서도 AI 기술을 적극 활용해 압도적인 속도와 정확성으로 기업의 취약점을 선제...",
-          "src": "boannews",
+          "title": "젠슨 황 “2029년 메모리 공급과잉 징후 없어⋯더 많이 쓸 것”",
+          "desc": "장기간 활용…LPDDR 데이터센터 도입 중국 메모리 도입 가능성에는 “열려 있어” 젠슨 황 엔비디아 최고경영자(CEO)가 2029년 메모리 반도체 공급과잉 가능성이 크지 않다고 밝혔다. AI 산업의 성장에 따라 메모리...",
+          "src": "이투데이",
           "date": "10/23",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146676",
-          "img": "https://cdn.boannews.com/news/photo/202610/146676_129201_4519.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2639155",
+          "img": "https://img.etoday.co.kr/pto_db/2026/10/20261014070114_2400978_1200_800.jpg"
         },
         {
-          "title": "[K-Security in Japan] 엔키화이트햇, 2027년 1월 일본 지사 설립… '오펜...",
-          "desc": "ASM)과 '오펜 AI DAST'다. 공격자의 관점에서 취약점을 찾아내는 '오펜시브(Offensive)' 보안에 대한 일본 내 관심이 뜨거운 가운데, 이미 현지 대기업 한 곳과 자사 제품을 활용한 보안 진단 도입을 긴밀하게 논의하고 있다....",
-          "src": "boannews",
-          "date": "10/23",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146672",
-          "img": "https://cdn.boannews.com/news/photo/202610/146672_129197_3114.jpg"
-        },
-        {
-          "title": "목포시, 체력 측정 장비 첨단화로 맞춤형 처방 나선다",
-          "desc": "특히 새롭게 도입된 장비는 AI 모션 인식 기술을 적극 활용해 신체 움직임과 동작을 정밀하게 분석한다. 이를 통해 체계적이고 과학적인 체력 평가가 가능해져 개인별 특성에 맞춘 세밀한 운동 처방을 내릴 수 있다....",
-          "src": "jnilbo",
-          "date": "10/23",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075856",
-          "img": "https://cdn.jnilbo.com/news/photo/202610/90000075856_603532_4336.png"
-        },
-        {
-          "title": "“요즘 꽂힌 그 노래, AI로 찍어냈다고?”…‘쓰레기 음원’ 5000만곡 삭...",
-          "desc": "다만 AI 음원을 완벽하게 가려내기는 어렵다는 점도 인정했다. 생성형 AI 기술이 발전하면서 기존 음악을... 올해 초에는 창작자가 음원 제작에 AI를 활용했는지 공개할 수 있는 ‘AI 표시’ 기능을 도입했다. AI 생성이...",
+          "title": "[단독]이광재 “잠자는 대학 부지에 주택 건설…출생아에 1억씩 ‘국민...",
+          "desc": "창업에 활용하고 나머지는 장기 투자해 노후자금으로 불리자는 것이다. 이 위원장은 “AI 세상이 보편화됐을... 미국 대학도시의 어떤 점을 국내에 도입하려는 것인가. A. 미국 스탠퍼드대는 대학 부지를 기업에 90년간...",
           "src": "서울경제",
           "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/011/0004674277?sid=104",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/22/news-p.v1.20261021.3dc8903df86746c5b0f9acd7bd4923d8_Z1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004674308?sid=100",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/22/news-p.v1.20261022.d4c3632fed8e4df49c16e7b7f7077195_Z1.jpg"
+        },
+        {
+          "title": "30년 공들인 인도 시장 '흔들'… 현대차, 20조원·현지화로 맞불",
+          "desc": "가격·기술 경쟁에서 더 큰 압박을 받을 수 있다. 현대차그룹은 생산능력 확대와 현지화로 대응에 나섰다. 현대차는 GM으로부터 인수한 푸네 공장에 약 1조원을 투입해 인공지능(AI) 기반 품질 검사 시스템을 도입하고...",
+          "src": "조선일보",
+          "date": "10/23",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172579",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092172579_455314_042_v150.jpg"
+        },
+        {
+          "title": "\"AI 도입하면 끝?\"…세계 병원들 \"AI 성과를 숫자로 증명하라’”",
+          "desc": "시더스사이나이는 외부에서 제안받는 수많은 AI 제품을 곧바로 도입하지 않는다. 먼저 기술의 활용 목적과 기대 효과를 평가하고, IT 인프라와 보안 위험, 임상적 필요성 등을 검토한다. 이후 임상의와 행정 담당자...",
+          "src": "medigatenews",
+          "date": "10/23",
+          "url": "https://www.medigatenews.com/news/1387980206",
+          "img": "https://medigatenews.com/file/news/535889"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "대기업·중소기업 노하우 나눴더니 생산성 46% 뛰었다",
+          "desc": "다른 협력사로 확대할 계획이다. 대기업이 축적한 제조 노하우를 현장에 전수하는 움직임도 이어진다. 삼성... LG전자 냉장고 부품 협력사는 AI 비전 검사 시스템을 도입해 생산 현황 관리시간을 75% 줄였다. 포스코 지원을...",
+          "src": "sidae",
+          "date": "10/23",
+          "url": "https://n.news.naver.com/mnews/article/417/0001161822?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/10/20/00/2026102016364595920_1.jpg"
+        },
         {
           "title": "현대차·기아, SDV·전동화 대응 車반도체 로드맵 제시",
           "desc": "각 분야 상위 5개 업체 가운데 국내 기업은 이미지센서 시장에서 점유율 5%를 기록한 삼성전자가 유일했다.... 개발된 제품은 1차 협력사와 연계해 조기 검증하고 양산 적용에 필요한 사항을 함께 보완한다는 방침이다. 김...",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "amenews",
           "date": "10/22",
           "url": "http://amenews.kr/news/view.php?idx=68393",
-          "img": ""
+          "img": "http://amenews.kr/data/cheditor4/2610/3554368046_EMt2930W_EC96B4ED948CEB9DBCEC9DB4EB939C.jpeg"
         },
         {
           "title": "오산시, AI·반도체 소부장 중심 자족도시 조성 본격화",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/22",
           "url": "https://www.kmaeil.com/news/articleView.html?idxno=655388",
           "img": "https://cdn.kmaeil.com/news/photo/202610/655388_454024_533.jpg"
-        },
-        {
-          "title": "[전자는 지금] 이재용 삼성전자 회장, UAE 방문해 미래 사업 점검 外",
-          "desc": "이재용 삼성전자 회장이 아랍에미리트(UAE)를 방문해 주요 사업 현황을 점검하고 현지 임직원들을... ◆한미반도체, 마이크론 최우수 협력사상 2년 연속 수상 한미반도체가 지난 20일(현지시간) 미국 아이다호주...",
-          "src": "dealsite",
-          "date": "10/22",
-          "url": "https://dealsite.co.kr/articles/171140",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/22/97baaef778a04431b0943531ff0f542e/thumb.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "LH, 2030년까지 모듈러주택 1.6만 호 발주",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563106",
-      "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
+      "title": "[구독경제의 명암③] 목돈 안드니 좋다고?...중도 해지시 렌탈보다 더 높...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766293",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/766293_319707_4844_v150.jpg"
     },
     {
       "title": "G마켓, 빅스마일데이에 AI 상품 선별 도입···특가상품 3배 확대",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ezyeconomy.com/news/thumbnail/202610/241105_142616_5828_v150.jpg"
     },
     {
-      "title": "[K-Security in Japan] 티오리, AI 모의해킹 SaaS 솔루션으로 일본 시장 장...",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=146676",
-      "img": "https://cdn.boannews.com/news/photo/202610/146676_129201_4519.jpg"
+      "title": "젠슨 황 “2029년 메모리 공급과잉 징후 없어⋯더 많이 쓸 것”",
+      "url": "https://www.etoday.co.kr/news/view/2639155",
+      "img": "https://img.etoday.co.kr/pto_db/2026/10/20261014070114_2400978_1200_800.jpg"
     },
     {
-      "title": "[K-Security in Japan] 엔키화이트햇, 2027년 1월 일본 지사 설립… '오펜...",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=146672",
-      "img": "https://cdn.boannews.com/news/photo/202610/146672_129197_3114.jpg"
+      "title": "[단독]이광재 “잠자는 대학 부지에 주택 건설…출생아에 1억씩 ‘국민...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674308?sid=100",
+      "img": "https://wimg.sedaily.com/news/cms/2026/10/22/news-p.v1.20261022.d4c3632fed8e4df49c16e7b7f7077195_Z1.jpg"
     }
   ]
 };
