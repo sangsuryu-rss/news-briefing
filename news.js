@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.22 (목) 08:23",
+  "updatedAt": "2026.10.22 (목) 13:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
-          "desc": "신혼가전을 하나의 경험으로…삼성 AI 통합 캠페인 두 번째 주제에서는 이지은 삼성전자 한국총괄 마케팅팀 IMC그룹 파트장이 '혼수 가전 경쟁력 강화를 위한 삼성 AI 신혼가전 통합 캠페인'을 소개한다. 삼성전자는 올해...",
-          "src": "banronbodo",
+          "title": "경동나비엔, 굿디자인 코리아서 4개 제품 인정받아",
+          "desc": "삼성전자는 스피커 '뮤직 스튜디오 5'와 지속가능한 가전 소모품 선행 콘셉트로 금상을 받았으며, LG전자는 홈로봇 'LG 클로이드'와 무선 월페이퍼 TV 'LG 올레드 에보 W6' 등을 수상작에 포함했다",
+          "src": "lcnews",
           "date": "10/22",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216",
-          "img": "https://cdn.banronbodo.com/news/photo/202610/33216_49267_4338.png"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210097",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202610/210097_213160_396.jpg"
         },
         {
-          "title": "G마켓, '빅스마일데이'서 AI기반 특가상품 선별",
-          "desc": "특가딜 참여가 확정된 상품으로는 '인스파이어 리조트 올인클루시브 패키지' '올리브영 블랙프라이데이 기프트카드', '로보락 S10 MaxV Ultra 로봇청소기', '삼성전자 갤럭시 Z폴드8 울트라', '조은해남 절임배추', '앤커...",
-          "src": "slist",
+          "title": "[유통레이더] G마켓, 홈앤쇼핑, 롯데온, SSG닷컴, SK스토아, 오뚜기, 올리...",
+          "desc": "로보락 로봇청소기, 삼성전자 갤럭시 Z폴드8 울트라, 조은해남 절임배추 등을 선보인다. 또한 '빼빼로×모나미 기획팩'과 '다이브인 세럼·앰플' 등 단독 기획상품도 판매한다. G마켓은 고객 선택 폭과 판매자의 상품...",
+          "src": "daily",
           "date": "10/22",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=775326",
-          "img": "https://cdn.slist.kr/news/thumbnail/202610/775326_1185490_1047_v150.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417247",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1417247_1596378_4529_v150.jpg"
         },
         {
-          "title": "굿 디자인 어워드 사로잡은 한국 제품…'작고 쓰기 쉽게'",
-          "desc": "코웨이와 앳홈, 삼성전자 등 국내 기업 7곳은 정수기와 음식물처리기, 선풍기부터 점자 라벨 프린터와 5G... 미니건조기 '더 에어드라이', 톰 뷰티 디바이스 '투앤티업' 등 4개 제품이 수상했다. 심사위원단은 더 플렌더를...",
-          "src": "cstimes",
+          "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
+          "desc": "삼성전자 세탁기·건조기 FAQ는 Bespoke AI 콤보의 예약 기능을 원하는 빨래 종료 시간을 설정하는 기능으로 설명한다. LG전자 구형 세탁기 자료에도 예약 설정 후 “7시간 후에 세탁이 종료”된다는 안내가 나온다. 따라서...",
+          "src": "vegannews",
           "date": "10/22",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=724796",
-          "img": "https://www.cstimes.com/news/photo/202610/724796_646095_4835.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=395446",
+          "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
         },
         {
-          "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
-          "desc": "구체적으로 ▲세탁기용 반도체 기술을 차량 통신·제어용으로(어보브반도체) ▲TV 구동 기술을 차량용... 반도체(삼성전자, 현재 시제품 평가 중) 등 미래차 핵심 칩 개발이 전방위로 이뤄지고 있다. 현대모비스는 이날...",
-          "src": "조선일보",
+          "title": "[생생르포] 57살 생일 맞은 삼성전자···사사(社史) 담은 수원 삼성이...",
+          "desc": "11월 1일은 삼성전자 창립기념일이다. 이 회사가 설립된 날은 1969년 1월 13일이지만, 삼성반도체통신을... 1929년에 사용했던 냉장고나 1875년에 나온 전화기 등이 흥미롭다. 이곳에는 4층이 없다. 3층으로 내려가면 반도체...",
+          "src": "CNB뉴스",
           "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005190?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/MZSDIN3GMI4TGNRXHA2TENZVGU.jpg?auth=11edbfc1c0e98b5ef21ef1f7cebce902cbf177258b4527d09a5d00159972cdf1&width=928&height=487&smart=true"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1020429",
+          "img": "https://cdn.cnbnews.com/news/photo/202610/1020429_522807_5439.png"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"핀테크 첫 저축은행 인수\"…핀다, 대원저축은행 지분 60% 확보",
-          "desc": "IT, AI 역량을 결합해 'AI 네이티브 뱅킹'을 구현하고, 업무 전반에 AI 에이전트를 도입해 생산성과 운영... 데이터와 AI 기술을 활용해 고객의 다양한 금융 수요에 적극적으로 대응하고, 금융 소비자가 체감할 수 있는...",
-          "src": "joongangenews",
+          "title": "현대차그룹, '소프티어 테크톡'서 AX 경험 첫 공유",
+          "desc": "새만금 AI 데이터센터에서 GPU 만 장 이상을 활용하는 대규모 인프라를 운영한다는 목표를 세웠습니다. 진은숙 현대차·기아 ICT담당 사장은 \"AX는 특정 기술 하나를 도입해 끝나는 것이 아니라 끊임없이 답을 찾아가는...",
+          "src": "news",
           "date": "10/22",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=557187",
-          "img": "https://cdn.joongangenews.com/news/photo/202610/557187_364454_2036.jpg"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114023",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4114023_776055_4931_v150.jpg"
         },
         {
-          "title": "진학사 캐치, 'AX 직무역량검사' AI 제품·서비스 확인서 획득",
-          "desc": "인공지능제품·서비스 확인서는 제품이나 서비스에 AI 기술이 활용됐음을 확인하는 제도다. 'CATCH-UP AX... 대학과 기업의 도입도 진행되고 있다. 캐치에 따르면 22일 기준 대학 11곳과 기업 2곳 등 총 13개 기관이 계약을...",
-          "src": "beyondpost",
+          "title": "\"18년 커머스 기술이 기반\"…버즈니, 세이코드·노이로 AX 사업 본격화",
+          "desc": "올해 대형 카드사와 대기업 제조사가 에이플러스AI를 도입했다. 백화점·면세점·교육 분야 고객도 늘었다.... 버즈니는 자사 AX 과정에 세이코드를 활용해 검증도 마쳤다. 버즈니는 세이코드를 전사 직원들이...",
+          "src": "디지털데일리",
           "date": "10/22",
-          "url": "http://www.beyondpost.co.kr/view.php?ud=20261022081914511146a9e4dd7f_30",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102208195105773046a9e4dd7f220867377.jpg&nmt=30"
+          "url": "https://n.news.naver.com/mnews/article/138/0002245632?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/22/2026102213441605601_l.jpeg"
         },
         {
-          "title": "산하기관엔 ‘인증 점검’ 주문한 산업부, 정작 본부는 ‘다중인증 미흡...",
-          "desc": "하는 AI 모의해킹 사업도 반영했다. 이처럼 첨단 기술을 활용한 보안 강화에 나섰지만, 정작 기본적인 인증... 것”이라며 “AI 보안관제를 도입했다는 사실만으로 보안 수준이 입증되는 것은 아니다. 무엇을 파악했고...",
-          "src": "khan",
+          "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+          "desc": "분야 AI 활용사례를 확인했다. 특히 로봇-드론 등 스마트도시 기술이 현장에서 어떻게 운영되는지 지켜봤다.... 최대호 안양시장은 이에 대해 “안양시는 첨단기술을 도심 현장에 적극 도입하며 스마트도시 경쟁력을...",
+          "src": "ekn",
           "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/032/0003477820?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/10/22/news-p.v1.20261022.898d302947e543ccac204bf8eab91f2c_P1.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261022027449801",
+          "img": ""
         },
         {
-          "title": "GM, 실리콘밸리식 파괴적 혁신으로 '차세대 배터리·AI' 대반격",
-          "desc": "생성형 AI 가상 시뮬레이션을 활용하는 엔지니어링 혁신이 정착됐다. GM은 자율주행 로보택시 사업 대신 자율주행 기술 자산을 차세대 첨단 운전자 보조 시스템(ADAS)인 '슈퍼 크루즈'로 집약해 2028년 선보일...",
-          "src": "g-enews",
+          "title": "BNK금융, 그룹 공통 AI 시스템 도입 추진…삼성SDS 우선협상대상 선정",
+          "desc": "별도로 구축하는 'AI 거버넌스 포털'에서는 AI 서비스의 도입 계획부터 개발, 성능 평가와 검증, 운영 과정까지 관리할 수 있도록 할 계획이다. 이를 통해 기술 활용에 따른 위험요인을 점검하고 계열사별 관리 절차를...",
+          "src": "digitaltoday",
           "date": "10/22",
-          "url": "https://www.g-enews.com/view.php?ud=2026102208180559240c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261022081856088430c8c1c064d22114611240.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709155",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/709155_656747_2834.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[분석] 젠슨 황의 야심 ··· AI산업 금융·제조 질서 장악 시도",
-          "desc": "AI 반도체의 성능이 높아질수록 이 부품의 설계와 제조 기술도 중요해지고 있다. 엔비디아가 삼성전자와... <용어설명> ▲순환금융=기업이 고객사나 협력사에 투자·금융 지원을 제공하고, 지원받은 기업이 다시 해당...",
-          "src": "datasom",
+          "title": "어플라이드 박광선 대표, 반도체의 날 산업포장…글로벌 R&D 협력 공로",
+          "desc": "삼성전자와 SK하이닉스 등 글로벌 반도체 기업이 창립 파트너로 참여한 EPIC 센터는 반도체 제조사들이... 국내 100여 개 협력사와 손잡고 소재·부품 기업의 해외 진출 기회를 모색하고 있으며, 한국벤처투자(KVIC)와 약...",
+          "src": "한스경제",
           "date": "10/22",
-          "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210454",
-          "img": "https://cdn.datasom.co.kr/news/thumbnail/202610/210454_39779_1620_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875099",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/875099_900196_3212_v150.jpg"
         },
         {
-          "title": "359만원 짜리 애플 첫 폴더블폰, 벌써부터 공급난",
-          "desc": "애플의 과제는 특정 부품의 공급량을 늘리는 데 그치지 않는다. 여러 협력사의 생산 일정과 품질 기준을... 애플의 경우 삼성전자와의 경쟁을 위해서는 공급 안정성을 확보해야 하는 입장이다. 삼성전자는 2019년부터...",
-          "src": "enewstoday",
+          "title": "어플라이드, '제19회 반도체의 날' 산업포장 수훈",
+          "desc": "협력사 간 공동 기술개발을 촉진하고 차세대 반도체 기술 경쟁력 강화에 기여한 점을 평가받았다. 어플라이드 머티어리얼즈는 최근 미국 실리콘밸리에 반도체 공동 연구개발 시설인 'EPIC 센터'를 공개했다. 삼성전자와...",
+          "src": "디지털데일리",
           "date": "10/22",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482891",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2482891_1328006_3546_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002245606?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/22/2026102211121605384_l.jpeg"
         },
         {
-          "title": "자율주행 시대 수요 폭발… 차량용 반도체 국산화 속도",
-          "desc": "현대모비스와 협력사들이 차량용 반도체 개발 관련 양해각서(MOU)를 체결한 뒤 기념촬영을 하고 있다.... 삼성전자, SK키파운드리, LX세미콘, 동운아나텍 등과 함께 소프트웨어, 설계자산(IP), 패키징, 시험평가, 기능안전...",
-          "src": "segye",
+          "title": "[기업家] SK하이닉스 ④ㅣ 40조 자사주 소각·반도체 투자 가속…주주환...",
+          "desc": "소재·부품·장비(소부장) 기업에 2조원 규모의 보증 지원을 실시한다. 산업통상자원부는 19일 경기 용인에... 다한 협력사와 국내외 구성원, 그리고 가족들에게 감사의 뜻을 전했다. ● 2026-10-16 삼성전자 21.8...",
+          "src": "cbci",
           "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/022/0004168690?sid=101",
-          "img": "https://www.segye.com/content/image/2026/10/21/20261021521220.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618067",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/618067_424705_4038_v150.jpg"
         },
         {
-          "title": "[이재용의 4년㊤] '절박하다'던 취임 일성…4년 만에 답 내놨다",
-          "desc": "취임 다음 날인 2022년 10월 28일 이 회장은 회장으로서 첫 현장 행보로 광주를 찾아 1994년부터 삼성전자와 거래해 온 가전 부품 협력사 디케이를 방문했다. 이 회장은 생산 라인을 둘러보며 \"협력회사가 잘 돼야 우리...",
-          "src": "데일리안",
+          "title": "중국 낸드 거점 고단화 나선 삼성과 SK, 미국 수출 규제 넘을 돌파구 찾...",
+          "desc": "삼성전자와 SK하이닉스가 인공지능 데이터센터 시장의 수요에 발맞추기 위해 중국 현지 공장의 낸드플래시... 소재·부품 협력사의 공급 가동률을 안정적으로 유지하는 데 힘이 실린다. 다만 2022년부터 시행된 미국...",
+          "src": "g-enews",
           "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/119/0003145388?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792470151265_1703633_m_1.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610221039019579fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102210462205540fbbec65dfb22210812861.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216",
-      "img": "https://cdn.banronbodo.com/news/photo/202610/33216_49267_4338.png"
+      "title": "경동나비엔, 굿디자인 코리아서 4개 제품 인정받아",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210097",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202610/210097_213160_396.jpg"
     },
     {
-      "title": "G마켓, '빅스마일데이'서 AI기반 특가상품 선별",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=775326",
-      "img": "https://cdn.slist.kr/news/thumbnail/202610/775326_1185490_1047_v150.jpg"
+      "title": "[유통레이더] G마켓, 홈앤쇼핑, 롯데온, SSG닷컴, SK스토아, 오뚜기, 올리...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417247",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1417247_1596378_4529_v150.jpg"
     },
     {
-      "title": "굿 디자인 어워드 사로잡은 한국 제품…'작고 쓰기 쉽게'",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=724796",
-      "img": "https://www.cstimes.com/news/photo/202610/724796_646095_4835.jpg"
+      "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=395446",
+      "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
     },
     {
-      "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에...",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005190?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/MZSDIN3GMI4TGNRXHA2TENZVGU.jpg?auth=11edbfc1c0e98b5ef21ef1f7cebce902cbf177258b4527d09a5d00159972cdf1&width=928&height=487&smart=true"
+      "title": "[생생르포] 57살 생일 맞은 삼성전자···사사(社史) 담은 수원 삼성이...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1020429",
+      "img": "https://cdn.cnbnews.com/news/photo/202610/1020429_522807_5439.png"
     },
     {
-      "title": "\"핀테크 첫 저축은행 인수\"…핀다, 대원저축은행 지분 60% 확보",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=557187",
-      "img": "https://cdn.joongangenews.com/news/photo/202610/557187_364454_2036.jpg"
+      "title": "현대차그룹, '소프티어 테크톡'서 AX 경험 첫 공유",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114023",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4114023_776055_4931_v150.jpg"
     },
     {
-      "title": "진학사 캐치, 'AX 직무역량검사' AI 제품·서비스 확인서 획득",
-      "url": "http://www.beyondpost.co.kr/view.php?ud=20261022081914511146a9e4dd7f_30",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026102208195105773046a9e4dd7f220867377.jpg&nmt=30"
+      "title": "\"18년 커머스 기술이 기반\"…버즈니, 세이코드·노이로 AX 사업 본격화",
+      "url": "https://n.news.naver.com/mnews/article/138/0002245632?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/10/22/2026102213441605601_l.jpeg"
     }
   ]
 };
