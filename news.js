@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.22 (목) 20:57",
+  "updatedAt": "2026.10.23 (금) 02:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이재용, 삼성전자 로봇 개발 현장 찾는다…CES 2027 공개 준비 점검",
-          "desc": "이 회장은 내년 1월 미국 라스베이거스에서 열리는 세계 최대 가전·IT(정보기술) 전시회 'CES 2027'에서 공개할 로봇 기술의 완성도와 준비 상황을 직접 점검할 것으로 보인다. 삼성전자는 앞서 지난 7월 노태문 DX...",
-          "src": "thepublic",
+          "title": "LH, 2030년까지 모듈러주택 1.6만 호 발주",
+          "desc": "이 자리에서 박현근 LH 공공주택본부장 주재로 국내 모듈러 산업을 선도하는 제조사를 비롯해 삼성전자, LG전자 등 가전기업, 학계 전문가들이 참석해 모듈러 공급 확대 및 기술 고도화 방안을 논의했다. 특히...",
+          "src": "idaegu",
           "date": "10/22",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=323380",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/323380_327064_910.jpg"
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563106",
+          "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
         },
         {
           "title": "G마켓, 빅스마일데이에 AI 상품 선별 도입···특가상품 3배 확대",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "경남농기원, 아제르바이잔 스마트농업 기술 전수",
-          "desc": "주요 교육 내용은 △농업 인공지능(AI) 활용 △스마트팜 구축·운영 △원예·노지·과수 스마트농업 기술... 토마토·오이 등 시설원예 작물을 중심으로 농업 생산성 향상과 스마트농업 기술 도입을 추진하고 있다.",
-          "src": "gnnews",
-          "date": "10/22",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=648040",
-          "img": "https://cdn.gnnews.co.kr/news/photo/202610/648040_448403_913.jpg"
+          "title": "[K-Security in Japan] 티오리, AI 모의해킹 SaaS 솔루션으로 일본 시장 장...",
+          "desc": "티오리는 도입 결정까지 시간이 오래 걸리고 검토가 까다롭지만, 한 번 파트너십을 맺으면 장기간 견고한... 티오리는 방어자의 입장에서도 AI 기술을 적극 활용해 압도적인 속도와 정확성으로 기업의 취약점을 선제...",
+          "src": "boannews",
+          "date": "10/23",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146676",
+          "img": "https://cdn.boannews.com/news/photo/202610/146676_129201_4519.jpg"
         },
         {
-          "title": "LG CNS, 기업용 챗GPT 확산…이용 임직원 3만명",
-          "desc": "기업마다 보유한 데이터와 기존 정보기술(IT) 시스템, 보안정책, AI 활용 역량이 다른 만큼 AI 서비스를 도입한 뒤 실제 업무에 안착시키는 과정이 중요하다는 판단이다. LG CNS는 현장에서 고객과 함께 활용 업무를...",
-          "src": "이데일리",
-          "date": "10/22",
-          "url": "https://n.news.naver.com/mnews/article/018/0006394052?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102201723.jpg"
+          "title": "[K-Security in Japan] 엔키화이트햇, 2027년 1월 일본 지사 설립… '오펜...",
+          "desc": "ASM)과 '오펜 AI DAST'다. 공격자의 관점에서 취약점을 찾아내는 '오펜시브(Offensive)' 보안에 대한 일본 내 관심이 뜨거운 가운데, 이미 현지 대기업 한 곳과 자사 제품을 활용한 보안 진단 도입을 긴밀하게 논의하고 있다....",
+          "src": "boannews",
+          "date": "10/23",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146672",
+          "img": "https://cdn.boannews.com/news/photo/202610/146672_129197_3114.jpg"
         },
         {
-          "title": "[인공지능 줌인] \"동아시아 의존 벗어날 것\"…오픈AI 전 임원, 자동화로...",
-          "desc": "아르다의 AI 모델이 이미 방산 테크 기업인 앤두릴(Anduril)에 도입되어 활용되고 있다고 전했다. 맥그루는... 맥그루는 2017년 오픈AI에 합류해 챗GPT 출시 전 초기 모델들의 추론 능력 개발에 참여했다. 그는 최고기술책임...",
-          "src": "wikileaks-kr",
-          "date": "10/22",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193520",
-          "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193520_210470_5910_v150.jpg"
+          "title": "목포시, 체력 측정 장비 첨단화로 맞춤형 처방 나선다",
+          "desc": "특히 새롭게 도입된 장비는 AI 모션 인식 기술을 적극 활용해 신체 움직임과 동작을 정밀하게 분석한다. 이를 통해 체계적이고 과학적인 체력 평가가 가능해져 개인별 특성에 맞춘 세밀한 운동 처방을 내릴 수 있다....",
+          "src": "jnilbo",
+          "date": "10/23",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075856",
+          "img": "https://cdn.jnilbo.com/news/photo/202610/90000075856_603532_4336.png"
         },
         {
-          "title": "BNK금융, 전 계열사 생성형 AI 통합…디지털 금융혁신 본격화",
-          "desc": "이번 사업은 단순한 AI 기술 도입을 넘어 금융그룹 전체의 업무체계와 위험관리 방식을 함께 개선한다는 점에서 의미가 있다. BNK금융그룹 관계자는 \"그룹 전체가 공동 활용할 수 있는 AI 기반과 관리체계를 함께...",
-          "src": "인더스트리뉴스",
-          "date": "10/22",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88061",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202610/88061_109275_3034.jpg"
+          "title": "“요즘 꽂힌 그 노래, AI로 찍어냈다고?”…‘쓰레기 음원’ 5000만곡 삭...",
+          "desc": "다만 AI 음원을 완벽하게 가려내기는 어렵다는 점도 인정했다. 생성형 AI 기술이 발전하면서 기존 음악을... 올해 초에는 창작자가 음원 제작에 AI를 활용했는지 공개할 수 있는 ‘AI 표시’ 기능을 도입했다. AI 생성이...",
+          "src": "서울경제",
+          "date": "10/23",
+          "url": "https://n.news.naver.com/mnews/article/011/0004674277?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/22/news-p.v1.20261021.3dc8903df86746c5b0f9acd7bd4923d8_Z1.jpg"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "dealsite",
           "date": "10/22",
           "url": "https://dealsite.co.kr/articles/171140",
-          "img": ""
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/22/97baaef778a04431b0943531ff0f542e/thumb.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "이재용, 삼성전자 로봇 개발 현장 찾는다…CES 2027 공개 준비 점검",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=323380",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/323380_327064_910.jpg"
+      "title": "LH, 2030년까지 모듈러주택 1.6만 호 발주",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563106",
+      "img": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
     },
     {
       "title": "G마켓, 빅스마일데이에 AI 상품 선별 도입···특가상품 3배 확대",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.ezyeconomy.com/news/thumbnail/202610/241105_142616_5828_v150.jpg"
     },
     {
-      "title": "경남농기원, 아제르바이잔 스마트농업 기술 전수",
-      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=648040",
-      "img": "https://cdn.gnnews.co.kr/news/photo/202610/648040_448403_913.jpg"
+      "title": "[K-Security in Japan] 티오리, AI 모의해킹 SaaS 솔루션으로 일본 시장 장...",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=146676",
+      "img": "https://cdn.boannews.com/news/photo/202610/146676_129201_4519.jpg"
     },
     {
-      "title": "LG CNS, 기업용 챗GPT 확산…이용 임직원 3만명",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394052?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102201723.jpg"
+      "title": "[K-Security in Japan] 엔키화이트햇, 2027년 1월 일본 지사 설립… '오펜...",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=146672",
+      "img": "https://cdn.boannews.com/news/photo/202610/146672_129197_3114.jpg"
     }
   ]
 };
