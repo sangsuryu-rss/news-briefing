@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.23 (금) 22:29",
+  "updatedAt": "2026.10.24 (토) 03:23",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -20,6 +20,14 @@ window.NEWS_DATA = {
       "title": "삼성전자 가전",
       "color": "#1428a0",
       "items": [
+        {
+          "title": "대한민국 모빌리티, 로봇, AI·ICT 부문 혁신 기업 성과 다룬 “FIX 2026 이...",
+          "desc": "SWM은 2005년 삼성전자 휴대전화 소프트웨어 개발로 출발해 20년 가량 모빌리티 소프트웨어 부문에 매진한... 소비자 가전 등 다양한 제품에 적용 가능하다. 네 번째는 원가 절감이다. 무겁고 비싼 알루미늄을 깎아...",
+          "src": "동아일보",
+          "date": "10/24",
+          "url": "https://it.donga.com/109761/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/10/24/38632b1b762740f3-thumbnail-960x540-70.jpg"
+        },
         {
           "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
           "desc": "작품에는 ▲갤럭시 Z 폴드8 ▲갤럭시 워치9 ▲갤럭시 XR ▲뮤직 스튜디오 5 등 삼성전자 제품 14종이 등장한다. 스마트폰과 웨어러블 기기부터 냉장고·공기청정기·로봇청소기 등 생활가전까지 다양한 제품이 작품의...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://n.news.naver.com/mnews/article/119/0003146173?sid=101",
           "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
-        },
-        {
-          "title": "[A 주간 서머리] 경제·산업계 \"여야, 해킹 피해 은행 질타...정용진 신...",
-          "desc": "삼성전자는 갤럭시 버즈 시리즈 첫 클립형 무선 이어폰 '갤럭시 버즈 온'을 오는 27일 공식 출시한다. KT는... 김 신임 대표는 이마트 가전문화담당과 상품본부장 등을 거친 상품기획·영업 전문가다. 신세계TV쇼핑 대표...",
-          "src": "asiaa",
-          "date": "10/23",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
-          "img": "https://cdn.asiaa.co.kr/news/photo/202610/267434_289926_2840.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "더존비즈온, 법무법인 세종과 AI 규제 대응 협력…법률자문·시스템 구...",
-          "desc": "금융회사들은 AI 활용에 따른 규제 준수뿐 아니라 내부 통제와 사후관리 절차를 실제 시스템에 반영해야... 자문과 기술 구축을 결합한 사업 모델을 추진한다는 점에서 의미가 있다. 기업의 AI 도입이 확산할수록 규제...",
-          "src": "lawissue",
-          "date": "10/23",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610232123352788204ead0791_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261023212354036610204ead079118023320059.jpg&nmt=12"
+          "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야...",
+          "desc": "김 팀장은 이날 방산기술보호·보안협의회가 주최한 '2026 AI기반 방산기술보호 컨퍼런스'에서 'AI 시대의... 에브리존은 피해를 겪은 뒤 자사 제품을 도입한 국내 한 제약사 사례도 소개했다. 이 업체는 2022년 랜섬웨어에...",
+          "src": "ZDNet코리아",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/092/0002442226?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/24/1ff6635b2b602e67bb85ef0ba63158ae.jpg"
         },
         {
-          "title": "\"보상 쿠폰 쓰려다 또 털렸다\"…티빙·따릉이·은행·대한항공, 당신 개...",
-          "desc": "과학기술정보통신부 민관합동조사단에 따르면 로그인이 가능한 활성 계정은 2206만 개였다. 나머지는 1년... 이억원 금융위원장은 긴급 점검회의에서 \"AI를 활용한 해킹 가능성도 배제할 수 없다\"고 말했다. 하나은행은...",
-          "src": "imaeil",
-          "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/088/0001036229?sid=102",
-          "img": "https://www.imaeil.com/photos/2026/10/05/2026100522144765482_l.jpg"
+          "title": "농협중앙회, AI환각 막는 5대 기술 특허 출원…NH농협생명, 이상거래탐...",
+          "desc": "강호동 농협중앙회장이 생성형 AI 기반 데이터 검색의 정확도를 높이기 위한 기술 특허를 출원한 가운데, 계열사인 NH농협생명은 이상거래탐지시스템(FDS)을 도입해 정교해지는 금융사기 대응에 나섰다. 농협중앙회는 지난...",
+          "src": "newstnt",
+          "date": "10/24",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=724699",
+          "img": "https://cdn.newstnt.com/news/photo/202610/724699_729505_5931.jpg"
         },
         {
-          "title": "'프런티어 AI' 투명성 공방…배경훈 \"공개 자료 최선 다해 제공\"(종합)",
-          "desc": "배경훈 부총리 겸 과학기술정보통신부 장관은 '미토스 쇼크' 이후 글로벌 AI 경쟁 환경이 급변하면서 사업... GPU 도입 일정 및 전력·데이터센터 확보 로드맵 △기존 독파 모 3개 팀에 대한 3차 평가 기준 및 프런티어 AI...",
-          "src": "뉴스1",
-          "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/421/0009247248?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/23/8175518/high.jpg"
+          "title": "AI 투자 불안에 국채 급등…메타 증자·스페이스X 통신 진출 주목[박신...",
+          "desc": "이 과정에서 활용할 수 있는 방식이 ATM(At-the-Market) 증자입니다. 기업이 신주를 한꺼번에 발행하지 않고... AI가 기업의 업무와 정보기술 시스템에 깊숙이 도입될수록 보호해야 할 데이터와 시스템이 늘어납니다. 동시에...",
+          "src": "한국경제",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/015/0005346015?sid=104",
+          "img": "https://img.hankyung.com/photo/202610/01.46171462.1.jpg"
         },
         {
-          "title": "코어라인소프트, 폐암검진 AI 경쟁력 확대…조기 발견 넘어 운영·추적...",
-          "desc": "추적관리까지 활용할 수 있는지가 중요한 평가 기준이 될 수 있다는 의미다. 이번 I-ELCAP 학술대회는 폐암검진 AI의 발전 방향이 조기 발견 기술을 넘어 검진·판독·추적관리·데이터를 연결하는 통합 운영체계로...",
-          "src": "koreaittimes",
-          "date": "10/23",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158475",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202610/158475_108057_1054_v150.jpg"
+          "title": "[오승민의 HR이노베이션] AI가 드러내는 불편한 진실",
+          "desc": "AI가 만들어낸 전략적 여유를 이런 일에 재투자하는 것이 AI 활용의 궁극적 목적이 돼야 한다. (2) 기술 뒤... (3) 저항의 실체를 직시하라 AI 도입이 실패하는 것은 기술적 결함보다 조직 내부의 보이지 않는 저항 때문이다....",
+          "src": "한국경제",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/015/0005346009?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         }
       ]
     },
@@ -177,6 +177,11 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "대한민국 모빌리티, 로봇, AI·ICT 부문 혁신 기업 성과 다룬 “FIX 2026 이...",
+      "url": "https://it.donga.com/109761/",
+      "img": "https://it.donga.com/media/__sized__/images/2026/10/24/38632b1b762740f3-thumbnail-960x540-70.jpg"
+    },
+    {
       "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
       "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193670",
       "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193670_210792_5058_v150.jpg"
@@ -192,19 +197,14 @@ window.NEWS_DATA = {
       "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
     },
     {
-      "title": "[A 주간 서머리] 경제·산업계 \"여야, 해킹 피해 은행 질타...정용진 신...",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
-      "img": "https://cdn.asiaa.co.kr/news/photo/202610/267434_289926_2840.jpg"
+      "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002442226?sid=105",
+      "img": "https://image.zdnet.co.kr/2026/10/24/1ff6635b2b602e67bb85ef0ba63158ae.jpg"
     },
     {
-      "title": "더존비즈온, 법무법인 세종과 AI 규제 대응 협력…법률자문·시스템 구...",
-      "url": "https://www.lawissue.co.kr/view.php?ud=202610232123352788204ead0791_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261023212354036610204ead079118023320059.jpg&nmt=12"
-    },
-    {
-      "title": "\"보상 쿠폰 쓰려다 또 털렸다\"…티빙·따릉이·은행·대한항공, 당신 개...",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036229?sid=102",
-      "img": "https://www.imaeil.com/photos/2026/10/05/2026100522144765482_l.jpg"
+      "title": "농협중앙회, AI환각 막는 5대 기술 특허 출원…NH농협생명, 이상거래탐...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=724699",
+      "img": "https://cdn.newstnt.com/news/photo/202610/724699_729505_5931.jpg"
     }
   ]
 };
