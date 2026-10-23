@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.24 (토) 03:23",
+  "updatedAt": "2026.10.24 (토) 08:10",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "대한민국 모빌리티, 로봇, AI·ICT 부문 혁신 기업 성과 다룬 “FIX 2026 이...",
-          "desc": "SWM은 2005년 삼성전자 휴대전화 소프트웨어 개발로 출발해 20년 가량 모빌리티 소프트웨어 부문에 매진한... 소비자 가전 등 다양한 제품에 적용 가능하다. 네 번째는 원가 절감이다. 무겁고 비싼 알루미늄을 깎아...",
-          "src": "동아일보",
+          "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현...",
+          "desc": "삼성전자와 LG전자가 내년 세계 최대 IT·가전 전시회 'CES 2027'을 약 2개월 앞두고 로봇 기술 고도화에 속도를 내고 있다. 양사 경영진은 로봇 개발 현장을 점검하며 CES에서 공개할 로봇 기술의 완성도를 끌어올리는 데...",
+          "src": "view",
           "date": "10/24",
-          "url": "https://it.donga.com/109761/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/10/24/38632b1b762740f3-thumbnail-960x540-70.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005832873?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026102316023572476_1792738955.jpg"
         },
         {
           "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
         },
         {
-          "title": "[이건희 6주기] 삼성 운명 바꾼 27년…그 결정적 순간들",
-          "desc": "13년 뒤 삼성전자는 연간 매출액 기준 세계 TV 시장 1위에 올랐다. 그 사이 삼성에서는 차세대 반도체를... 생산 현장 영상에서는 작업자가 규격이 맞지 않는 세탁기 덮개를 칼로 깎아 조립하고 있었다. 그해 6월 7일...",
-          "src": "데일리안",
-          "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/119/0003146173?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
+          "title": "삼성전자, 올해 낙도 방문 AS 6000건…'보이스피싱 예방' 미담도",
+          "desc": "거주 인구가 상대적으로 많고 정기 여객선이 운영되는 한산도·백령도 등은 엔지니어가 정기적으로 방문해 냉장고·세탁기·에어컨 등 삼성전자 전 제품군에 대한 점검과 수리, 소모품 교체, 사용법 안내를 제공한다....",
+          "src": "뉴스1",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/421/0009247349?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/22/8174741/high.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야...",
-          "desc": "김 팀장은 이날 방산기술보호·보안협의회가 주최한 '2026 AI기반 방산기술보호 컨퍼런스'에서 'AI 시대의... 에브리존은 피해를 겪은 뒤 자사 제품을 도입한 국내 한 제약사 사례도 소개했다. 이 업체는 2022년 랜섬웨어에...",
-          "src": "ZDNet코리아",
+          "title": "\"비트코인 해킹당하면 0달러!\" 억만장자 투자자의 파격 전망",
+          "desc": "억만장자 투자자 차마스 팔리하피티야(Chamath Palihapitiya)가 비트코인(BTC)이 인공지능(AI) 기술을 활용한... 해킹 위협에 대응하기 위한 양자내성 암호기술(Quantum-Resistant Cryptography) 도입 가능성에 대해서도 회의적인...",
+          "src": "coinreaders",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/092/0002442226?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/24/1ff6635b2b602e67bb85ef0ba63158ae.jpg"
+          "url": "http://coinreaders.com/264992",
+          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202603/800_800_2026030952359400.jpg"
         },
         {
-          "title": "농협중앙회, AI환각 막는 5대 기술 특허 출원…NH농협생명, 이상거래탐...",
-          "desc": "강호동 농협중앙회장이 생성형 AI 기반 데이터 검색의 정확도를 높이기 위한 기술 특허를 출원한 가운데, 계열사인 NH농협생명은 이상거래탐지시스템(FDS)을 도입해 정교해지는 금융사기 대응에 나섰다. 농협중앙회는 지난...",
-          "src": "newstnt",
+          "title": "정유사, AI 데이터센터 냉각 시장 정조준…새 수익원 찾는다",
+          "desc": "AI 서버를 활용한 성능 평가도 이어가고 있다. 데이터센터 설비와의 호환성을 확인하고 실제 도입 사례를... 액침냉각은 기존 윤활기유 생산 기술을 활용하면서 AI 인프라 투자 확대에 따른 신규 수요를 공략할 수 있다는...",
+          "src": "서울경제TV",
           "date": "10/24",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=724699",
-          "img": "https://cdn.newstnt.com/news/photo/202610/724699_729505_5931.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202610230143",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/23/sentv20261023000156.jpg"
         },
         {
-          "title": "AI 투자 불안에 국채 급등…메타 증자·스페이스X 통신 진출 주목[박신...",
-          "desc": "이 과정에서 활용할 수 있는 방식이 ATM(At-the-Market) 증자입니다. 기업이 신주를 한꺼번에 발행하지 않고... AI가 기업의 업무와 정보기술 시스템에 깊숙이 도입될수록 보호해야 할 데이터와 시스템이 늘어납니다. 동시에...",
-          "src": "한국경제",
+          "title": "HBM에 가려진 낸드 경쟁…中 YMTC 추격에 삼성·SK 대응 고심",
+          "desc": "현재 267단 낸드 양산과 300단 이상 제품 개발을 추진하며 기술 격차를 좁히는 중이다. 다만 매출... 양사 입장에서는 이미 확보한 중국 생산시설의 활용도를 높이는 것이 유리하다. 신규 공장을 건설하는 것보다 투자...",
+          "src": "더뷰어스",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/015/0005346015?sid=104",
-          "img": "https://img.hankyung.com/photo/202610/01.46171462.1.jpg"
+          "url": "https://theviewers.co.kr/View.aspx?No=4276428",
+          "img": "https://cdn.coenworks.com/Files/30/News/202610/7122_20261023125208202.jpg"
         },
         {
-          "title": "[오승민의 HR이노베이션] AI가 드러내는 불편한 진실",
-          "desc": "AI가 만들어낸 전략적 여유를 이런 일에 재투자하는 것이 AI 활용의 궁극적 목적이 돼야 한다. (2) 기술 뒤... (3) 저항의 실체를 직시하라 AI 도입이 실패하는 것은 기술적 결함보다 조직 내부의 보이지 않는 저항 때문이다....",
-          "src": "한국경제",
+          "title": "美, 中 바이오 지분·합작투자 규제 예고…신약 기술도입은 제외",
+          "desc": "미 재무부는 22일(현지시간) 미국 자본이 중국의 민감 기술 발전에 활용되는 것을 제한하기 위한 '포괄적 대외투자 국가안보법(COINS법)' 규정안을 공개했다. 반도체, 인공지능(AI) 등 기존 대외투자 규제 분야에 바이오를...",
+          "src": "전자신문",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/015/0005346009?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://n.news.naver.com/mnews/article/030/0003478223?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/10/23/news-p.v1.20261023.324366c8a4cf40c9bd3d36d08f2df776_P1.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "대한민국 모빌리티, 로봇, AI·ICT 부문 혁신 기업 성과 다룬 “FIX 2026 이...",
-      "url": "https://it.donga.com/109761/",
-      "img": "https://it.donga.com/media/__sized__/images/2026/10/24/38632b1b762740f3-thumbnail-960x540-70.jpg"
+      "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832873?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026102316023572476_1792738955.jpg"
     },
     {
       "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
     },
     {
-      "title": "[이건희 6주기] 삼성 운명 바꾼 27년…그 결정적 순간들",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146173?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
+      "title": "삼성전자, 올해 낙도 방문 AS 6000건…'보이스피싱 예방' 미담도",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247349?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/10/22/8174741/high.jpg"
     },
     {
-      "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야...",
-      "url": "https://n.news.naver.com/mnews/article/092/0002442226?sid=105",
-      "img": "https://image.zdnet.co.kr/2026/10/24/1ff6635b2b602e67bb85ef0ba63158ae.jpg"
+      "title": "\"비트코인 해킹당하면 0달러!\" 억만장자 투자자의 파격 전망",
+      "url": "http://coinreaders.com/264992",
+      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202603/800_800_2026030952359400.jpg"
     },
     {
-      "title": "농협중앙회, AI환각 막는 5대 기술 특허 출원…NH농협생명, 이상거래탐...",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=724699",
-      "img": "https://cdn.newstnt.com/news/photo/202610/724699_729505_5931.jpg"
+      "title": "정유사, AI 데이터센터 냉각 시장 정조준…새 수익원 찾는다",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610230143",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/23/sentv20261023000156.jpg"
     }
   ]
 };
