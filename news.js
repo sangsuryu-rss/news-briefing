@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.23 (금) 16:35",
+  "updatedAt": "2026.10.23 (금) 22:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[현장 포토] 2026 한국광고주대회...'반가운 만남, 빛나는 순간'",
-          "desc": "신혼가전 캠페인(삼성전자 한국총괄 IMC그룹 CE파트) △ 필요에 답하다(동원그룹 커뮤니케이션실) 마케팅전략 부문 : △ 심플랩(Simple.Lab) 캠페인(LG유플러스 브랜드마케팅팀) △ 생활공기솔루션 캠페인 '우리집 공기는...",
-          "src": "banronbodo",
+          "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
+          "desc": "작품에는 ▲갤럭시 Z 폴드8 ▲갤럭시 워치9 ▲갤럭시 XR ▲뮤직 스튜디오 5 등 삼성전자 제품 14종이 등장한다. 스마트폰과 웨어러블 기기부터 냉장고·공기청정기·로봇청소기 등 생활가전까지 다양한 제품이 작품의...",
+          "src": "wikileaks-kr",
           "date": "10/23",
-          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33226",
-          "img": "https://cdn.banronbodo.com/news/photo/202610/33226_49360_4252.jpg"
-        },
-        {
-          "title": "교통·교육·생활편의 한곳에… '기흥역 더 플래티넘 펜타원' 공급",
-          "desc": "또한 처인구 원삼면의 SK하이닉스 '용인 반도체 클러스터'와 이동·남사읍의 삼성전자 '첨단시스템반도체... 고급 로봇청소기 지급 등 네 가지 혜택을 제공한다. 계약 시 발생하는 이자 부담과 필수 옵션 비용을 고려해...",
-          "src": "woodkorea",
-          "date": "10/23",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92067",
-          "img": "https://cdn.woodkorea.co.kr/news/photo/202610/92067_105693_2534.jpg"
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193670",
+          "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193670_210792_5058_v150.jpg"
         },
         {
           "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://n.news.naver.com/mnews/article/119/0003146173?sid=101",
           "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
+        },
+        {
+          "title": "[A 주간 서머리] 경제·산업계 \"여야, 해킹 피해 은행 질타...정용진 신...",
+          "desc": "삼성전자는 갤럭시 버즈 시리즈 첫 클립형 무선 이어폰 '갤럭시 버즈 온'을 오는 27일 공식 출시한다. KT는... 김 신임 대표는 이마트 가전문화담당과 상품본부장 등을 거친 상품기획·영업 전문가다. 신세계TV쇼핑 대표...",
+          "src": "asiaa",
+          "date": "10/23",
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
+          "img": "https://cdn.asiaa.co.kr/news/photo/202610/267434_289926_2840.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "오픈AI, '데브데이 익스체인지 서울' 진행...한국 개발자들과 AI 서비스...",
-          "desc": "이어진 발표에서 AWS와 LG CNS는 AI 기술을 기업 실제 업무에 적용하는 방안을 공유했다. AWS는 기업 기존 환경에서 오픈AI 모델과 개발 도구를 활용해 에이전트를 개발·운영하는 방법을 설명했다. 이 과정에서 접근...",
-          "src": "dailysecu",
+          "title": "더존비즈온, 법무법인 세종과 AI 규제 대응 협력…법률자문·시스템 구...",
+          "desc": "금융회사들은 AI 활용에 따른 규제 준수뿐 아니라 내부 통제와 사후관리 절차를 실제 시스템에 반영해야... 자문과 기술 구축을 결합한 사업 모델을 추진한다는 점에서 의미가 있다. 기업의 AI 도입이 확산할수록 규제...",
+          "src": "lawissue",
           "date": "10/23",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209030",
-          "img": "https://cdn.dailysecu.com/news/photo/202610/209030_210055_3212.jpg"
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610232123352788204ead0791_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261023212354036610204ead079118023320059.jpg&nmt=12"
         },
         {
-          "title": "허가 전 만든 의약품도 허가 후 판매 허용 추진…식약처 규제 정비",
-          "desc": "등을 도입한다. 수출 목적의 위탁개발생산 사업에 맞는 규제체계를 마련하고, 국내 CDMO 기업과 원료물질 생산업체가 해외에서 신뢰를 확보할 수 있도록 지원한다는 구상이다. AI·소프트웨어 등 디지털 기술과 의약품이...",
-          "src": "kukinews",
+          "title": "\"보상 쿠폰 쓰려다 또 털렸다\"…티빙·따릉이·은행·대한항공, 당신 개...",
+          "desc": "과학기술정보통신부 민관합동조사단에 따르면 로그인이 가능한 활성 계정은 2206만 개였다. 나머지는 1년... 이억원 금융위원장은 긴급 점검회의에서 \"AI를 활용한 해킹 가능성도 배제할 수 없다\"고 말했다. 하나은행은...",
+          "src": "imaeil",
           "date": "10/23",
-          "url": "https://www.kukinews.com/article/view/kuk202610230176",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/088/0001036229?sid=102",
+          "img": "https://www.imaeil.com/photos/2026/10/05/2026100522144765482_l.jpg"
         },
         {
-          "title": "당근, AI 에이전트로 장애 추적 40분→2분…사내 AI에이전트 180개 돌파",
-          "desc": "내 AI 에이전트 180개… 장애 추적 40분→2분 단축 박 엔지니어는 “사내 업무 환경에서도 직군 간 경계가 무너지는 대전환이 이뤄지고 있다”며 “코딩 에이전트 도입과 기술 문서화 플라이휠(Flywheel) 구축으로...",
-          "src": "이데일리",
+          "title": "'프런티어 AI' 투명성 공방…배경훈 \"공개 자료 최선 다해 제공\"(종합)",
+          "desc": "배경훈 부총리 겸 과학기술정보통신부 장관은 '미토스 쇼크' 이후 글로벌 AI 경쟁 환경이 급변하면서 사업... GPU 도입 일정 및 전력·데이터센터 확보 로드맵 △기존 독파 모 3개 팀에 대한 3차 평가 기준 및 프런티어 AI...",
+          "src": "뉴스1",
           "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/018/0006395008?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102301465.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009247248?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/23/8175518/high.jpg"
         },
         {
-          "title": "예이린사회적협동조합, 3대 조직체계 정립…AI 기반 업무혁신 추진",
-          "desc": "전반에 AI 활용을 적극 도입함으로써 업무 생산성과 돌봄서비스의 전문성을 동시에 높인다는 구상이다. 윤상현 예이린 최고기술책임자(CTO)는 \"AI 전환은 단순히 새로운 기술을 도입하는 것이 아니라, 조직의 목표와 업무...",
-          "src": "동아일보",
+          "title": "코어라인소프트, 폐암검진 AI 경쟁력 확대…조기 발견 넘어 운영·추적...",
+          "desc": "추적관리까지 활용할 수 있는지가 중요한 평가 기준이 될 수 있다는 의미다. 이번 I-ELCAP 학술대회는 폐암검진 AI의 발전 방향이 조기 발견 기술을 넘어 검진·판독·추적관리·데이터를 연결하는 통합 운영체계로...",
+          "src": "koreaittimes",
           "date": "10/23",
-          "url": "https://edu.donga.com/news/articleView.html?idxno=113126",
-          "img": "https://cdn.edu.donga.com/news/photo/202610/113126_177661_2759.jpg"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158475",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202610/158475_108057_1054_v150.jpg"
         }
       ]
     },
@@ -177,14 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[현장 포토] 2026 한국광고주대회...'반가운 만남, 빛나는 순간'",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33226",
-      "img": "https://cdn.banronbodo.com/news/photo/202610/33226_49360_4252.jpg"
-    },
-    {
-      "title": "교통·교육·생활편의 한곳에… '기흥역 더 플래티넘 펜타원' 공급",
-      "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92067",
-      "img": "https://cdn.woodkorea.co.kr/news/photo/202610/92067_105693_2534.jpg"
+      "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193670",
+      "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193670_210792_5058_v150.jpg"
     },
     {
       "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://cdnimage.dailian.co.kr/news/202610/news_1792720484318_1705163_m_1.jpg"
     },
     {
-      "title": "오픈AI, '데브데이 익스체인지 서울' 진행...한국 개발자들과 AI 서비스...",
-      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209030",
-      "img": "https://cdn.dailysecu.com/news/photo/202610/209030_210055_3212.jpg"
+      "title": "[A 주간 서머리] 경제·산업계 \"여야, 해킹 피해 은행 질타...정용진 신...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
+      "img": "https://cdn.asiaa.co.kr/news/photo/202610/267434_289926_2840.jpg"
     },
     {
-      "title": "당근, AI 에이전트로 장애 추적 40분→2분…사내 AI에이전트 180개 돌파",
-      "url": "https://n.news.naver.com/mnews/article/018/0006395008?sid=105",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102301465.jpg"
+      "title": "더존비즈온, 법무법인 세종과 AI 규제 대응 협력…법률자문·시스템 구...",
+      "url": "https://www.lawissue.co.kr/view.php?ud=202610232123352788204ead0791_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261023212354036610204ead079118023320059.jpg&nmt=12"
+    },
+    {
+      "title": "\"보상 쿠폰 쓰려다 또 털렸다\"…티빙·따릉이·은행·대한항공, 당신 개...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001036229?sid=102",
+      "img": "https://www.imaeil.com/photos/2026/10/05/2026100522144765482_l.jpg"
     }
   ]
 };
