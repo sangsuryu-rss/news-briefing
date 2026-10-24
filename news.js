@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.24 (토) 20:06",
+  "updatedAt": "2026.10.25 (일) 00:59",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
-          "desc": "삼성의 가전 플랫폼 '스마트싱스(SmartThings)' 개발자 문서에는 아기 울음과 개 짖는 소리를 식별하는 기능이 공식 지원 항목으로 명시돼 있다. 삼성전자는 이를 '펫 케어'(반려동물 돌봄) 등 특정 서비스에서 활용하고...",
-          "src": "kpinews",
+          "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
+          "desc": "이에 따라 현대자동차(대표 호세 무뇨스)와 기아(대표 송호성)는 유럽 수출 자동차부품의 적용 범위를, 삼성전자(대표 전영현·노태문)와 LG전자(대표 류재철)는 가전제품별 탄소배출 정보와 조달구조를 점검해야 하는...",
+          "src": "sateconomy",
           "date": "10/24",
-          "url": "https://www.kpinews.kr/newsView/1065604418870384",
-          "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
+          "url": "https://sateconomy.co.kr/news/view/1065616522751180",
+          "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
         },
         {
           "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -37,12 +37,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
         },
         {
-          "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
-          "desc": "삼성전자 세탁기·건조기 FAQ는 Bespoke AI 콤보의 예약 기능을 원하는 빨래 종료 시간을 설정하는 기능으로 설명한다. LG전자 구형 세탁기 자료에도 예약 설정 후 “7시간 후에 세탁이 종료”된다는 안내가 나온다. 따라서...",
-          "src": "vegannews",
-          "date": "10/22",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=395446",
-          "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
+          "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
+          "desc": "삼성의 가전 플랫폼 '스마트싱스(SmartThings)' 개발자 문서에는 아기 울음과 개 짖는 소리를 식별하는 기능이 공식 지원 항목으로 명시돼 있다. 삼성전자는 이를 '펫 케어'(반려동물 돌봄) 등 특정 서비스에서 활용하고...",
+          "src": "kpinews",
+          "date": "10/24",
+          "url": "https://www.kpinews.kr/newsView/1065604418870384",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
         },
         {
           "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“어중간한 사무직은 짐싼다”…英 바클레이스, AI 도입하며 5000명 감원",
-          "desc": "영국의 금융사 바클레이스가 올해 전사적으로 인공지능(AI)을 도입하는 대신, 5000명을 감원하기로 했다.... 앞서 글로벌 금융사 HSBC도 이달 초 부유층 고객들에게 제공하는 자산관리 사업에서 AI를 활용하려는 계획을...",
-          "src": "헤럴드경제",
-          "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/016/0002713862?sid=104",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/24/news-p.v1.20261023.bfacae31aa7945489af5e7ddb006c6fc_P1.jpg"
+          "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
+          "desc": "이 회사는 기업 고객을 대상으로 AI 활용 신제품 설계와 기술 도입 지원을 제공하며, Hg의 포트폴리오 기업들과도 협업할 예정이다. 양사는 5년 이내에 이 신설 법인의 기업가치를 100억 달러(약 13조8천억 원) 이상으로...",
+          "src": "cbci",
+          "date": "10/25",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618932",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_618932_20261024163917_1_v150.jpg"
         },
         {
-          "title": "한국공학대, '5타석 5홈런' KAIST 배현민 창업원장 초청…AI 시대 창업 전...",
-          "desc": "원천기술을 글로벌 시장의 실질적 가치로 전환한 굵직한 궤적을 지녔다. 배 원장은 강연을 통해 AI 도입에... 완성하라\"며 \"기술 전문성과 AI 활용 능력은 물론 불확실성 속에서 결단을 내리고 고객과 투자자를...",
-          "src": "cstimes",
+          "title": "용산구, 지역 내 개업공인중개사와 소속공인중개사 630여 명을 대상 연...",
+          "desc": "신기술 확산에 대응해 현장에서 필요한 실무 역량을 강화하는 데 초점을 맞췄다. 교육 과정에는 취득세·재산세·종합부동산세 등 부동산 관련 세법을 비롯해 생성형 AI를 활용한 중개 실무, 토지거래계약 허가제...",
+          "src": "cnbizm",
           "date": "10/24",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=725173",
-          "img": "https://www.cstimes.com/news/photo/202610/725173_646530_3544.jpg"
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=319135",
+          "img": "https://cdn.cnbizm.com/news/photo/202610/319135_227816_5949.jpg"
         },
         {
-          "title": "[헬로즈업] “스펙 경쟁 넘어 '사용 편의성'으로”… ‘VISION 2026’ 폐막...",
-          "desc": "엣지 AI 기반 스마트 카메라와 코그넥스(Cognex) 등 글로벌 선도사들의 노코드(No-code) 셋업 툴은 비전 도입의 문턱을 극적으로 낮췄다. 참가 기업들은 하드웨어 단품 가격 경쟁에서 벗어나 장기적인 신뢰성, 기술...",
-          "src": "hellot",
+          "title": "국방정보통신협회, AI 기반 국방 사이버보안 대응 전략 논의",
+          "desc": "AI) 서비스 확산과 국가 망 보안체계(N2SF) 도입 등 국방 정보환경의 변화에 대응하기 위한 정책과 기술적... 주제로 AI 채팅 기반 통합 모니터링 솔루션 'ACM'을 소개했다. ACM은 AI 에이전트를 활용해 시스템 장애 진단부터...",
+          "src": "전자신문",
           "date": "10/24",
-          "url": "https://www.hellot.net/news/article.html?no=115757",
-          "img": "https://www.hellot.net/data/photos/20261043/art_17928372895997_e5ada1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003478263?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/10/24/news-p.v1.20261024.17251cf5ba214312bc06e300f171a7dc_P1.png"
         },
         {
-          "title": "한국건강관리협회, 세계은행과 아프리카 보건의료 AI 협력 모색…검진 ...",
-          "desc": "보건의료 AI 활용을 위한 협력을 기획할 예정\"이라며 \"한국이 보유한 기술과 경험을 개발도상국에 도입하고 지속적으로 협력할 수 있는 방안이 마련되기를 기대한다\"고 말했다. 건협 관계자는 \"60여 년간 국가건강검진...",
-          "src": "thefirstmedia",
+          "title": "공무원용 AI ‘온AI’, 주간 평균 접속률 54.7%…행안부 40.4%",
+          "desc": "국회 과학기술정보방송통신위원회 조국혁신당 김선민 의원이 23일 행정안전부로부터 제출받은 자료를 분석한 결과, 정부가 공무원의 인공지능 활용을 위해 도입한 지능형 업무관리 플랫폼 ‘온AI’의 주간 평균...",
+          "src": "medigatenews",
           "date": "10/24",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211702",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211702_195690_5311_v150.jpg"
+          "url": "https://www.medigatenews.com/news/1380213892",
+          "img": "https://medigatenews.com/file/news/536085"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
-      "url": "https://www.kpinews.kr/newsView/1065604418870384",
-      "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
+      "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
+      "url": "https://sateconomy.co.kr/news/view/1065616522751180",
+      "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
     },
     {
       "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -187,9 +187,9 @@ window.NEWS_DATA = {
       "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
     },
     {
-      "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=395446",
-      "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
+      "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
+      "url": "https://www.kpinews.kr/newsView/1065604418870384",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
     },
     {
       "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
     },
     {
-      "title": "“어중간한 사무직은 짐싼다”…英 바클레이스, AI 도입하며 5000명 감원",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713862?sid=104",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/24/news-p.v1.20261023.bfacae31aa7945489af5e7ddb006c6fc_P1.jpg"
+      "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618932",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_618932_20261024163917_1_v150.jpg"
     },
     {
-      "title": "한국공학대, '5타석 5홈런' KAIST 배현민 창업원장 초청…AI 시대 창업 전...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=725173",
-      "img": "https://www.cstimes.com/news/photo/202610/725173_646530_3544.jpg"
+      "title": "용산구, 지역 내 개업공인중개사와 소속공인중개사 630여 명을 대상 연...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=319135",
+      "img": "https://cdn.cnbizm.com/news/photo/202610/319135_227816_5949.jpg"
     }
   ]
 };
