@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.25 (일) 00:59",
+  "updatedAt": "2026.10.25 (일) 03:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "머스크, AI 데이터센터에 최대 5000억달러 베팅…테슬라·스페이스X 합병...",
+          "desc": "사실상 AI 인프라 시장의 미래에 대한 초대형 투자이며 기술적 장벽과 자금 조달 부담이 성공 여부를 가를... 그러나 FT는 기업들의 AI 도입이 예상보다 늦어질 경우 컴퓨팅 자원에 대한 수요와 임대가격이 모두 압박받을...",
+          "src": "g-enews",
+          "date": "10/25",
+          "url": "https://www.g-enews.com/view.php?ud=2026102421074920749a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261024210819089649a1f30943117511616074.jpg"
+        },
+        {
           "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
           "desc": "이 회사는 기업 고객을 대상으로 AI 활용 신제품 설계와 기술 도입 지원을 제공하며, Hg의 포트폴리오 기업들과도 협업할 예정이다. 양사는 5년 이내에 이 신설 법인의 기업가치를 100억 달러(약 13조8천억 원) 이상으로...",
           "src": "cbci",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "10/24",
           "url": "https://n.news.naver.com/mnews/article/030/0003478263?sid=105",
           "img": "https://img.etnews.com/news/article/2026/10/24/news-p.v1.20261024.17251cf5ba214312bc06e300f171a7dc_P1.png"
-        },
-        {
-          "title": "공무원용 AI ‘온AI’, 주간 평균 접속률 54.7%…행안부 40.4%",
-          "desc": "국회 과학기술정보방송통신위원회 조국혁신당 김선민 의원이 23일 행정안전부로부터 제출받은 자료를 분석한 결과, 정부가 공무원의 인공지능 활용을 위해 도입한 지능형 업무관리 플랫폼 ‘온AI’의 주간 평균...",
-          "src": "medigatenews",
-          "date": "10/24",
-          "url": "https://www.medigatenews.com/news/1380213892",
-          "img": "https://medigatenews.com/file/news/536085"
         }
       ]
     },
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
     },
     {
+      "title": "머스크, AI 데이터센터에 최대 5000억달러 베팅…테슬라·스페이스X 합병...",
+      "url": "https://www.g-enews.com/view.php?ud=2026102421074920749a1f309431_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261024210819089649a1f30943117511616074.jpg"
+    },
+    {
       "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618932",
       "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_618932_20261024163917_1_v150.jpg"
-    },
-    {
-      "title": "용산구, 지역 내 개업공인중개사와 소속공인중개사 630여 명을 대상 연...",
-      "url": "https://www.cnbizm.com/news/articleView.html?idxno=319135",
-      "img": "https://cdn.cnbizm.com/news/photo/202610/319135_227816_5949.jpg"
     }
   ]
 };
