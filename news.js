@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.24 (토) 13:40",
+  "updatedAt": "2026.10.24 (토) 20:06",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[내집마련 캘린더] 동탄·부산서 대단지 공급… 27일 나란히 1순위 청약",
-          "desc": "삼성전자 화성캠퍼스가 인접해 있다. 인근에는 동탄인덕원선 반송역(가칭)이 들어설 예정이다. 아크메르... 단지 내에는 스마트폰과 가전제품, 사물인터넷(IoT) 기기를 연계하는 AI Home 시스템이 적용될 예정이다....",
-          "src": "the-biz",
+          "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
+          "desc": "삼성의 가전 플랫폼 '스마트싱스(SmartThings)' 개발자 문서에는 아기 울음과 개 짖는 소리를 식별하는 기능이 공식 지원 항목으로 명시돼 있다. 삼성전자는 이를 '펫 케어'(반려동물 돌봄) 등 특정 서비스에서 활용하고...",
+          "src": "kpinews",
           "date": "10/24",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729828",
-          "img": "https://cdn.the-biz.co.kr/news/photo/202610/729828_936265_4953.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065604418870384",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
         },
         {
           "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"좋은 규제는 제때 고칠 수 있는 규제\"",
-          "desc": "\"규제는 입법 당시의 예측만으로 정당화될 수 없다.\" 인공지능(AI) 등 신기술에 대한 규제를 도입할 때부터... 개인정보 보호와 데이터 활용의 조화, 플랫폼 사업자의 법적 책임, 시장지배력 규제, 알고리즘의 공정성과...",
-          "src": "lawtimes",
+          "title": "“어중간한 사무직은 짐싼다”…英 바클레이스, AI 도입하며 5000명 감원",
+          "desc": "영국의 금융사 바클레이스가 올해 전사적으로 인공지능(AI)을 도입하는 대신, 5000명을 감원하기로 했다.... 앞서 글로벌 금융사 HSBC도 이달 초 부유층 고객들에게 제공하는 자산관리 사업에서 AI를 활용하려는 계획을...",
+          "src": "헤럴드경제",
           "date": "10/24",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228292",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202610/228292_130074_2923.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002713862?sid=104",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/24/news-p.v1.20261023.bfacae31aa7945489af5e7ddb006c6fc_P1.jpg"
         },
         {
-          "title": "이든크루, 증권사 개발 경험을 기업용 앱 플랫폼 ‘Lucy’로 확장",
-          "desc": "한 번 개발한 기술을 다음 프로젝트에서도 활용할 수 있다면 개발 방식 자체를... 이든크루는 플러터가 정식 출시되던 무렵부터 기술을 도입했지만, 하나의 코드로 여러...",
-          "src": "venturesquare",
+          "title": "한국공학대, '5타석 5홈런' KAIST 배현민 창업원장 초청…AI 시대 창업 전...",
+          "desc": "원천기술을 글로벌 시장의 실질적 가치로 전환한 굵직한 궤적을 지녔다. 배 원장은 강연을 통해 AI 도입에... 완성하라\"며 \"기술 전문성과 AI 활용 능력은 물론 불확실성 속에서 결단을 내리고 고객과 투자자를...",
+          "src": "cstimes",
           "date": "10/24",
-          "url": "https://www.venturesquare.net/1122596/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/edencrew-1.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=725173",
+          "img": "https://www.cstimes.com/news/photo/202610/725173_646530_3544.jpg"
         },
         {
-          "title": "삼성물산, 반포푸르지오 품었다…‘넥스트 리모델링’ 첫 결실",
-          "desc": "또 슬라이딩 도어로 공간 활용도를 높이고 호텔식 욕실과 빌트인 수납시스템 등도 적용했다. 공용공간에는 인공지능(AI) 주차관리와 로봇 발렛 시스템을 도입했다. 신축에 걸맞은 5개 층 규모의 커뮤니티 시설도 조성한다....",
-          "src": "news",
+          "title": "[헬로즈업] “스펙 경쟁 넘어 '사용 편의성'으로”… ‘VISION 2026’ 폐막...",
+          "desc": "엣지 AI 기반 스마트 카메라와 코그넥스(Cognex) 등 글로벌 선도사들의 노코드(No-code) 셋업 툴은 비전 도입의 문턱을 극적으로 낮췄다. 참가 기업들은 하드웨어 단품 가격 경쟁에서 벗어나 장기적인 신뢰성, 기술...",
+          "src": "hellot",
           "date": "10/24",
-          "url": "https://news.mtn.co.kr/article/2026102413033652824",
-          "img": "https://files.mtn.co.kr/article-asset/2026/10/24/92d7aca8-775c-490a-9d19-99eb94e7c7b0.jpg"
+          "url": "https://www.hellot.net/news/article.html?no=115757",
+          "img": "https://www.hellot.net/data/photos/20261043/art_17928372895997_e5ada1.jpg"
         },
         {
-          "title": "[VC's Pick]韓 상륙한 리걸테크 '레고라', 시리즈E 투자 유치",
-          "desc": "이번 투자 유치는 국내 로펌과 기업 법무팀을 중심으로 도입 문의가 늘어나는 시점에 이뤄졌다. 레고라는... 생성 기술과 이용자 데이터, 서비스 운영 경험을 활용했다. 네이션에이는 이번 투자를 계기로 AI 영상 제작...",
-          "src": "이데일리",
+          "title": "한국건강관리협회, 세계은행과 아프리카 보건의료 AI 협력 모색…검진 ...",
+          "desc": "보건의료 AI 활용을 위한 협력을 기획할 예정\"이라며 \"한국이 보유한 기술과 경험을 개발도상국에 도입하고 지속적으로 협력할 수 있는 방안이 마련되기를 기대한다\"고 말했다. 건협 관계자는 \"60여 년간 국가건강검진...",
+          "src": "thefirstmedia",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/018/0006395250?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102400399.600x.0.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211702",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211702_195690_5311_v150.jpg"
         }
       ]
     },
@@ -101,12 +101,20 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "\"24시간 멈추지 않는 반도체 생태계 내 노동 사각지대 깬다\"",
+          "desc": "노조는 19일부터 3일간 삼성전자가 있는 동탄·평택, SK하이닉스가 있는 이천에서 선전전을 진행했다. 반도체... ASML코리아지회장은 \"사내하청과 협력사에서 일하는 노동자들은 사내식당 이용시간 차별 및 제한, 작업복...",
+          "src": "worknworld",
+          "date": "10/24",
+          "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510170",
+          "img": "https://cdn.worknworld.kctu.org/news/thumbnail/202610/510170_141741_5638_v150.jpg"
+        },
+        {
           "title": "공장 생산라인 파고드는 로봇기업들…자동화 사업 속도 [빛이 나는 비즈...",
           "desc": "회사는 삼성전자 반도체 협력사로 장비 공급을 확대하는 한편 삼성전자 온양캠퍼스 반도체 생산라인 관련 신규 장비 도입도 협의 중이라고 밝혔다. 삼현, 로봇 구동부품 넘어 제조·물류 자동화 확대 자동차 구동부품...",
           "src": "서울경제",
           "date": "10/24",
           "url": "https://n.news.naver.com/mnews/article/011/0004674691?sid=105",
-          "img": ""
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/23/news-p.v1.20261023.20393ffe1f8640ce90f31d5e815a86d2_Z1.jpg"
         },
         {
           "title": "삼성전기 엔비디아 타고 '매출 20조' 고지 앞당기나, 장덕현 반도체 기...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://www.g-enews.com/view.php?ud=202610231355145061fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261015151115095950c8c1c064d22114611240.jpg"
-        },
-        {
-          "title": "AI 반도체 호황, 50년 전 결단에서…故 이건희 선대회장 6주기",
-          "desc": "삼성전자의 반도체 투자는 국내 산업 생태계 성장에도 기여하고 있다. 용인 반도체 클러스터 투자와 협력사 지원은 국내 소재·부품·장비 기업의 기술 개발과 공급망 진입을 뒷받침한다. 반도체를 중심으로 투자와...",
-          "src": "view",
-          "date": "10/23",
-          "url": "https://n.news.naver.com/mnews/article/277/0005832633?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2014120517133643906_2.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[내집마련 캘린더] 동탄·부산서 대단지 공급… 27일 나란히 1순위 청약",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729828",
-      "img": "https://cdn.the-biz.co.kr/news/photo/202610/729828_936265_4953.jpg"
+      "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
+      "url": "https://www.kpinews.kr/newsView/1065604418870384",
+      "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
     },
     {
       "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -197,14 +197,14 @@ window.NEWS_DATA = {
       "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
     },
     {
-      "title": "\"좋은 규제는 제때 고칠 수 있는 규제\"",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228292",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202610/228292_130074_2923.jpg"
+      "title": "“어중간한 사무직은 짐싼다”…英 바클레이스, AI 도입하며 5000명 감원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713862?sid=104",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/24/news-p.v1.20261023.bfacae31aa7945489af5e7ddb006c6fc_P1.jpg"
     },
     {
-      "title": "이든크루, 증권사 개발 경험을 기업용 앱 플랫폼 ‘Lucy’로 확장",
-      "url": "https://www.venturesquare.net/1122596/",
-      "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/edencrew-1.jpg"
+      "title": "한국공학대, '5타석 5홈런' KAIST 배현민 창업원장 초청…AI 시대 창업 전...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=725173",
+      "img": "https://www.cstimes.com/news/photo/202610/725173_646530_3544.jpg"
     }
   ]
 };
