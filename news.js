@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.24 (토) 08:10",
+  "updatedAt": "2026.10.24 (토) 13:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현...",
-          "desc": "삼성전자와 LG전자가 내년 세계 최대 IT·가전 전시회 'CES 2027'을 약 2개월 앞두고 로봇 기술 고도화에 속도를 내고 있다. 양사 경영진은 로봇 개발 현장을 점검하며 CES에서 공개할 로봇 기술의 완성도를 끌어올리는 데...",
-          "src": "view",
+          "title": "[내집마련 캘린더] 동탄·부산서 대단지 공급… 27일 나란히 1순위 청약",
+          "desc": "삼성전자 화성캠퍼스가 인접해 있다. 인근에는 동탄인덕원선 반송역(가칭)이 들어설 예정이다. 아크메르... 단지 내에는 스마트폰과 가전제품, 사물인터넷(IoT) 기기를 연계하는 AI Home 시스템이 적용될 예정이다....",
+          "src": "the-biz",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/277/0005832873?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026102316023572476_1792738955.jpg"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729828",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202610/729828_936265_4953.jpg"
         },
         {
-          "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
-          "desc": "작품에는 ▲갤럭시 Z 폴드8 ▲갤럭시 워치9 ▲갤럭시 XR ▲뮤직 스튜디오 5 등 삼성전자 제품 14종이 등장한다. 스마트폰과 웨어러블 기기부터 냉장고·공기청정기·로봇청소기 등 생활가전까지 다양한 제품이 작품의...",
-          "src": "wikileaks-kr",
-          "date": "10/23",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193670",
-          "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193670_210792_5058_v150.jpg"
+          "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
+          "desc": "삼성전자와 LG전자는 글로벌 로봇청소기 시장에서 아직 두각을 나타내지 못한 채 중국 업체들을 추격하는 입장에 머물러 있어 해외 시장 공략에 속도를 내야 한다는 지적이 나온다. 가전업계 관계자는 \"유럽을 비롯한...",
+          "src": "블로터",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/293/0000092074?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
         },
         {
           "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
         },
         {
-          "title": "삼성전자, 올해 낙도 방문 AS 6000건…'보이스피싱 예방' 미담도",
-          "desc": "거주 인구가 상대적으로 많고 정기 여객선이 운영되는 한산도·백령도 등은 엔지니어가 정기적으로 방문해 냉장고·세탁기·에어컨 등 삼성전자 전 제품군에 대한 점검과 수리, 소모품 교체, 사용법 안내를 제공한다....",
-          "src": "뉴스1",
+          "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
+          "desc": "삼성전자, LG전자, 애플, TCL, HP, 샤크닌자 등 국내외 300여개 브랜드가 참여한다. 이번 행사에는 상반기보다 약 1.5배 늘어난 400여개 특가 상품을 마련했다. 냉장고와 세탁기, TV, 노트북, 로봇청소기 등이 할인 대상이다....",
+          "src": "segye",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/421/0009247349?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/10/22/8174741/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004169291?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"비트코인 해킹당하면 0달러!\" 억만장자 투자자의 파격 전망",
-          "desc": "억만장자 투자자 차마스 팔리하피티야(Chamath Palihapitiya)가 비트코인(BTC)이 인공지능(AI) 기술을 활용한... 해킹 위협에 대응하기 위한 양자내성 암호기술(Quantum-Resistant Cryptography) 도입 가능성에 대해서도 회의적인...",
-          "src": "coinreaders",
+          "title": "\"좋은 규제는 제때 고칠 수 있는 규제\"",
+          "desc": "\"규제는 입법 당시의 예측만으로 정당화될 수 없다.\" 인공지능(AI) 등 신기술에 대한 규제를 도입할 때부터... 개인정보 보호와 데이터 활용의 조화, 플랫폼 사업자의 법적 책임, 시장지배력 규제, 알고리즘의 공정성과...",
+          "src": "lawtimes",
           "date": "10/24",
-          "url": "http://coinreaders.com/264992",
-          "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202603/800_800_2026030952359400.jpg"
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228292",
+          "img": "https://cdn.lawtimes.co.kr/news/photo/202610/228292_130074_2923.jpg"
         },
         {
-          "title": "정유사, AI 데이터센터 냉각 시장 정조준…새 수익원 찾는다",
-          "desc": "AI 서버를 활용한 성능 평가도 이어가고 있다. 데이터센터 설비와의 호환성을 확인하고 실제 도입 사례를... 액침냉각은 기존 윤활기유 생산 기술을 활용하면서 AI 인프라 투자 확대에 따른 신규 수요를 공략할 수 있다는...",
-          "src": "서울경제TV",
+          "title": "이든크루, 증권사 개발 경험을 기업용 앱 플랫폼 ‘Lucy’로 확장",
+          "desc": "한 번 개발한 기술을 다음 프로젝트에서도 활용할 수 있다면 개발 방식 자체를... 이든크루는 플러터가 정식 출시되던 무렵부터 기술을 도입했지만, 하나의 코드로 여러...",
+          "src": "venturesquare",
           "date": "10/24",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610230143",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/23/sentv20261023000156.jpg"
+          "url": "https://www.venturesquare.net/1122596/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/edencrew-1.jpg"
         },
         {
-          "title": "HBM에 가려진 낸드 경쟁…中 YMTC 추격에 삼성·SK 대응 고심",
-          "desc": "현재 267단 낸드 양산과 300단 이상 제품 개발을 추진하며 기술 격차를 좁히는 중이다. 다만 매출... 양사 입장에서는 이미 확보한 중국 생산시설의 활용도를 높이는 것이 유리하다. 신규 공장을 건설하는 것보다 투자...",
-          "src": "더뷰어스",
+          "title": "삼성물산, 반포푸르지오 품었다…‘넥스트 리모델링’ 첫 결실",
+          "desc": "또 슬라이딩 도어로 공간 활용도를 높이고 호텔식 욕실과 빌트인 수납시스템 등도 적용했다. 공용공간에는 인공지능(AI) 주차관리와 로봇 발렛 시스템을 도입했다. 신축에 걸맞은 5개 층 규모의 커뮤니티 시설도 조성한다....",
+          "src": "news",
           "date": "10/24",
-          "url": "https://theviewers.co.kr/View.aspx?No=4276428",
-          "img": "https://cdn.coenworks.com/Files/30/News/202610/7122_20261023125208202.jpg"
+          "url": "https://news.mtn.co.kr/article/2026102413033652824",
+          "img": "https://files.mtn.co.kr/article-asset/2026/10/24/92d7aca8-775c-490a-9d19-99eb94e7c7b0.jpg"
         },
         {
-          "title": "美, 中 바이오 지분·합작투자 규제 예고…신약 기술도입은 제외",
-          "desc": "미 재무부는 22일(현지시간) 미국 자본이 중국의 민감 기술 발전에 활용되는 것을 제한하기 위한 '포괄적 대외투자 국가안보법(COINS법)' 규정안을 공개했다. 반도체, 인공지능(AI) 등 기존 대외투자 규제 분야에 바이오를...",
-          "src": "전자신문",
+          "title": "[VC's Pick]韓 상륙한 리걸테크 '레고라', 시리즈E 투자 유치",
+          "desc": "이번 투자 유치는 국내 로펌과 기업 법무팀을 중심으로 도입 문의가 늘어나는 시점에 이뤄졌다. 레고라는... 생성 기술과 이용자 데이터, 서비스 운영 경험을 활용했다. 네이션에이는 이번 투자를 계기로 AI 영상 제작...",
+          "src": "이데일리",
           "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/030/0003478223?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/10/23/news-p.v1.20261023.324366c8a4cf40c9bd3d36d08f2df776_P1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006395250?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102400399.600x.0.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "공장 생산라인 파고드는 로봇기업들…자동화 사업 속도 [빛이 나는 비즈...",
+          "desc": "회사는 삼성전자 반도체 협력사로 장비 공급을 확대하는 한편 삼성전자 온양캠퍼스 반도체 생산라인 관련 신규 장비 도입도 협의 중이라고 밝혔다. 삼현, 로봇 구동부품 넘어 제조·물류 자동화 확대 자동차 구동부품...",
+          "src": "서울경제",
+          "date": "10/24",
+          "url": "https://n.news.naver.com/mnews/article/011/0004674691?sid=105",
+          "img": ""
+        },
         {
           "title": "삼성전기 엔비디아 타고 '매출 20조' 고지 앞당기나, 장덕현 반도체 기...",
           "desc": "엔비디아가 삼성전기를 첨단 패키지 기판 공급망의 주요 협력사로 공식화하면서 그동안 쌓아 온 생산... 삼성전기가 장 사장 체제를 갖춘 뒤 5년 만에 글로벌 전자부품업계에서 경쟁력을 인정받고 매출을 2배 이상...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://n.news.naver.com/mnews/article/277/0005832633?sid=101",
           "img": "https://cphoto.asiae.co.kr/listimglink/1/2014120517133643906_2.jpg"
-        },
-        {
-          "title": "[더벨][신규 ETF 리뷰 | RISE 반도체소부장액티브] KB운용, 반도체 소부...",
-          "desc": "KB자산운용이 반도체 소재·부품·장비(소부장) 기업에 투자하는 액티브 상장지수펀드(ETF)를 내놨다. 메모리 가격 급등으로 삼성전자와 SK하이닉스가 거둔 초과이익이 아직 협력업체로 흘러가지 않았다는 판단에서...",
-          "src": "더벨",
-          "date": "10/23",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610210928368400105379",
-          "img": ""
         }
       ]
     },
@@ -177,14 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832873?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026102316023572476_1792738955.jpg"
+      "title": "[내집마련 캘린더] 동탄·부산서 대단지 공급… 27일 나란히 1순위 청약",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729828",
+      "img": "https://cdn.the-biz.co.kr/news/photo/202610/729828_936265_4953.jpg"
     },
     {
-      "title": "[WIKI 현장] 액자처럼 변신한 삼성전자 OLED TV…맞춤형 디자인 영역 넓...",
-      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193670",
-      "img": "https://www.wikileaks-kr.org/news/thumbnail/202610/193670_210792_5058_v150.jpg"
+      "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092074?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
     },
     {
       "title": "세탁기 예약 시간, 종료 기준인지 설명서에서 확인",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20261043/art_17926290558796.jpg"
     },
     {
-      "title": "삼성전자, 올해 낙도 방문 AS 6000건…'보이스피싱 예방' 미담도",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247349?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/10/22/8174741/high.jpg"
+      "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
+      "url": "https://n.news.naver.com/mnews/article/022/0004169291?sid=101",
+      "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
     },
     {
-      "title": "\"비트코인 해킹당하면 0달러!\" 억만장자 투자자의 파격 전망",
-      "url": "http://coinreaders.com/264992",
-      "img": "https://www.coinreaders.com/imgdata/coinreaders_com/202603/800_800_2026030952359400.jpg"
+      "title": "\"좋은 규제는 제때 고칠 수 있는 규제\"",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228292",
+      "img": "https://cdn.lawtimes.co.kr/news/photo/202610/228292_130074_2923.jpg"
     },
     {
-      "title": "정유사, AI 데이터센터 냉각 시장 정조준…새 수익원 찾는다",
-      "url": "https://www.sentv.co.kr/article/view/sentv202610230143",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/23/sentv20261023000156.jpg"
+      "title": "이든크루, 증권사 개발 경험을 기업용 앱 플랫폼 ‘Lucy’로 확장",
+      "url": "https://www.venturesquare.net/1122596/",
+      "img": "https://www.venturesquare.net/wp-content/uploads/2026/10/edencrew-1.jpg"
     }
   ]
 };
