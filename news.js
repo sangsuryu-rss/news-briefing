@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.25 (일) 03:48",
+  "updatedAt": "2026.10.25 (일) 07:30",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
-          "desc": "이에 따라 현대자동차(대표 호세 무뇨스)와 기아(대표 송호성)는 유럽 수출 자동차부품의 적용 범위를, 삼성전자(대표 전영현·노태문)와 LG전자(대표 류재철)는 가전제품별 탄소배출 정보와 조달구조를 점검해야 하는...",
-          "src": "sateconomy",
-          "date": "10/24",
-          "url": "https://sateconomy.co.kr/news/view/1065616522751180",
-          "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
+          "title": "삼전닉스, 이번주 3분기 확정실적…HBM4로 영업익 185조 전망",
+          "desc": "삼성전자는 이달 초 잠정실적을 발표하고 올해 3분기 매출 195조원, 영업이익 107조4천억원을 기록했다고 밝혔다. 당시 부문별 실적은 공개되지 않았지만, 가전과 TV·스마트폰 등을 담당하는 DX(디바이스경험) 부문과...",
+          "src": "연합뉴스",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/001/0016398383?sid=101",
+          "img": "https://img8.yna.co.kr/photo/cms/2026/06/24/43/PCM20260624000043990_P4.jpg"
         },
         {
           "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
         },
         {
-          "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
-          "desc": "삼성의 가전 플랫폼 '스마트싱스(SmartThings)' 개발자 문서에는 아기 울음과 개 짖는 소리를 식별하는 기능이 공식 지원 항목으로 명시돼 있다. 삼성전자는 이를 '펫 케어'(반려동물 돌봄) 등 특정 서비스에서 활용하고...",
-          "src": "kpinews",
+          "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
+          "desc": "가전제품에서는 세탁기와 의류 건조기, 냉장고 등이 포함됐다. 다만 이들 제품도 품목별 세부 규격과... 이에 따라 현대자동차(대표 호세 무뇨스)와 기아(대표 송호성)는 유럽 수출 자동차부품의 적용 범위를, 삼성전자...",
+          "src": "sateconomy",
           "date": "10/24",
-          "url": "https://www.kpinews.kr/newsView/1065604418870384",
-          "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
+          "url": "https://sateconomy.co.kr/news/view/1065616522751180",
+          "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
         },
         {
-          "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
-          "desc": "삼성전자, LG전자, 애플, TCL, HP, 샤크닌자 등 국내외 300여개 브랜드가 참여한다. 이번 행사에는 상반기보다 약 1.5배 늘어난 400여개 특가 상품을 마련했다. 냉장고와 세탁기, TV, 노트북, 로봇청소기 등이 할인 대상이다....",
-          "src": "segye",
-          "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/022/0004169291?sid=101",
-          "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
+          "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+          "desc": "25일 재계에 따르면 삼성전자의 내년 사업계획 기조는 오는 29일 3분기 실적 발표 이후 콘퍼런스콜과 다음... 반도체에서 확보한 현금을 미래 성장동력에 재투자하는 한편 파운드리와 시스템LSI, 스마트폰·가전 등...",
+          "src": "연합뉴스",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/001/0016398350?sid=101",
+          "img": "https://img1.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P4.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "머스크, AI 데이터센터에 최대 5000억달러 베팅…테슬라·스페이스X 합병...",
-          "desc": "사실상 AI 인프라 시장의 미래에 대한 초대형 투자이며 기술적 장벽과 자금 조달 부담이 성공 여부를 가를... 그러나 FT는 기업들의 AI 도입이 예상보다 늦어질 경우 컴퓨팅 자원에 대한 수요와 임대가격이 모두 압박받을...",
-          "src": "g-enews",
+          "title": "정연태의 전문지식 GPT 혁명 ⑧ | 엔비디아가 설계하는 AI 산업혁명의 미...",
+          "desc": "11.7 노동시장 전환과 전문인력 양성 AI 도입으로 업무가 변화하는 근로자들이 새로운 기술을 활용할 수 있도록 교육체계를 마련해야 한다. 로봇 운영·유지보수, AI 안전검증, 산업 데이터 분석 등 새로운...",
+          "src": "koreaittimes",
           "date": "10/25",
-          "url": "https://www.g-enews.com/view.php?ud=2026102421074920749a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261024210819089649a1f30943117511616074.jpg"
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158481",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202610/158481_108069_00_v150.jpg"
         },
         {
-          "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
-          "desc": "이 회사는 기업 고객을 대상으로 AI 활용 신제품 설계와 기술 도입 지원을 제공하며, Hg의 포트폴리오 기업들과도 협업할 예정이다. 양사는 5년 이내에 이 신설 법인의 기업가치를 100억 달러(약 13조8천억 원) 이상으로...",
-          "src": "cbci",
+          "title": "SK에코플랜트, 용인 백암초에 AI 스마트 횡단보도 설치",
+          "desc": "지난 4월에는 울산지역 해양환경 개선을 위해 AI 해양정화 로봇을 도입했다. SK에코플랜트 관계자는 “AI 기술을 활용한 교통안전시설이 어린이들의 안전한 통학환경을 조성하는 데 실질적인 도움이 되길 바란다”며...",
+          "src": "segye",
           "date": "10/25",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618932",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_618932_20261024163917_1_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004169393?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/23/20261023510895.jpg"
         },
         {
-          "title": "용산구, 지역 내 개업공인중개사와 소속공인중개사 630여 명을 대상 연...",
-          "desc": "신기술 확산에 대응해 현장에서 필요한 실무 역량을 강화하는 데 초점을 맞췄다. 교육 과정에는 취득세·재산세·종합부동산세 등 부동산 관련 세법을 비롯해 생성형 AI를 활용한 중개 실무, 토지거래계약 허가제...",
-          "src": "cnbizm",
-          "date": "10/24",
-          "url": "https://www.cnbizm.com/news/articleView.html?idxno=319135",
-          "img": "https://cdn.cnbizm.com/news/photo/202610/319135_227816_5949.jpg"
+          "title": "오비맥주 AB인베브, 글로벌 전략 '대수술'…브랜드 500개→50개로 슬림화",
+          "desc": "집중 육성 브랜드를 기존 500개에서 50개로 대폭 줄이고, 핵심 브랜드와 인공지능(AI) 기술, 기업 간 거래... AI를 활용한 디지털 전환도 핵심축이다. AB인베브는 물류 최적화 솔루션 '로지스틱스.ai'를 통해 5000만...",
+          "src": "더구루",
+          "date": "10/25",
+          "url": "https://www.theguru.co.kr/news/article.html?no=108658",
+          "img": ""
         },
         {
-          "title": "국방정보통신협회, AI 기반 국방 사이버보안 대응 전략 논의",
-          "desc": "AI) 서비스 확산과 국가 망 보안체계(N2SF) 도입 등 국방 정보환경의 변화에 대응하기 위한 정책과 기술적... 주제로 AI 채팅 기반 통합 모니터링 솔루션 'ACM'을 소개했다. ACM은 AI 에이전트를 활용해 시스템 장애 진단부터...",
-          "src": "전자신문",
-          "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/030/0003478263?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/10/24/news-p.v1.20261024.17251cf5ba214312bc06e300f171a7dc_P1.png"
+          "title": "\"미란다 원칙부터 난감\"…외국인 사건 급증에 경찰 '골머리'",
+          "desc": "통역 담당 직원이 상주하는 112 신고센터와 달리, 민간인 통역요원은 경찰이 건별로 섭외해 활용한다. 이들은... 전문가들은 AI 통역 시스템이 도입되더라도 오역 가능성 등 기술적 한계가 있는 만큼, 사람에 의한 현장...",
+          "src": "연합뉴스",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/001/0016398425?sid=102",
+          "img": "https://img8.yna.co.kr/photo/cms/2025/09/05/40/PCM20250905000040990_P4.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "전자만 잘 나가는게 아니다…삼성, 그룹 전반 실적 대도약",
+          "desc": "기간 전자부품 사업을 영위해온 삼성전기는 새로운 성장 국면을 맞았다. 과거 삼성전자에 대한 매출... 엔비디아는 고성능 반도체 기판인 플립 칩 볼 그리드 어레이(FC BGA) 생산능력 확대를 위한 주요 협력사로...",
+          "src": "헤럴드경제",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/016/0002713888?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/23/news-p.v1.20260730.ba8511c9963f42149703a30ada1867e8_P1.jpg"
+        },
         {
           "title": "\"24시간 멈추지 않는 반도체 생태계 내 노동 사각지대 깬다\"",
           "desc": "노조는 19일부터 3일간 삼성전자가 있는 동탄·평택, SK하이닉스가 있는 이천에서 선전전을 진행했다. 반도체... ASML코리아지회장은 \"사내하청과 협력사에서 일하는 노동자들은 사내식당 이용시간 차별 및 제한, 작업복...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://www.huffingtonpost.kr/article/261494",
           "img": "https://cdn.huffingtonpost.kr/news/photo/202609/202609029151.png?v=261494"
-        },
-        {
-          "title": "모터 자석까지 번진 희토류 전쟁… TSMC가 ASML에 보낸 SOS",
-          "desc": "부품 설계 변경 시 재인증 소요… 진동 제어가 기술 분수령 TSMC 발 모터 설계 변경 논의는 글로벌 장비를 공통으로 들여오는 반도체 업계 전반의 기술 과제로 이어진다. 삼성전자와 SK하이닉스 역시 노광·식각·증착...",
-          "src": "g-enews",
-          "date": "10/23",
-          "url": "https://www.g-enews.com/view.php?ud=202610231355145061fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261015151115095950c8c1c064d22114611240.jpg"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
-      "url": "https://sateconomy.co.kr/news/view/1065616522751180",
-      "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
+      "title": "삼전닉스, 이번주 3분기 확정실적…HBM4로 영업익 185조 전망",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398383?sid=101",
+      "img": "https://img8.yna.co.kr/photo/cms/2026/06/24/43/PCM20260624000043990_P4.jpg"
     },
     {
       "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
     },
     {
-      "title": "\"내 말 듣고 있었나\"… 삼성 TV '주변 소리 수집' 주장에 오픈AI 계정 정...",
-      "url": "https://www.kpinews.kr/newsView/1065604418870384",
-      "img": "https://kpinews.kr/data/upi/image/2026/10/24/p1065604418870384_773_thum.jpg"
+      "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
+      "url": "https://sateconomy.co.kr/news/view/1065616522751180",
+      "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
     },
     {
-      "title": "국물 간편식 15%·캠핑 먹거리 50% 할인…주말 온라인 쇼핑 어디가 쌀까",
-      "url": "https://n.news.naver.com/mnews/article/022/0004169291?sid=101",
-      "img": "https://www.segye.com/content/image/2026/10/24/20261024502957.jpg"
+      "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398350?sid=101",
+      "img": "https://img1.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P4.jpg"
     },
     {
-      "title": "머스크, AI 데이터센터에 최대 5000억달러 베팅…테슬라·스페이스X 합병...",
-      "url": "https://www.g-enews.com/view.php?ud=2026102421074920749a1f309431_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261024210819089649a1f30943117511616074.jpg"
+      "title": "정연태의 전문지식 GPT 혁명 ⑧ | 엔비디아가 설계하는 AI 산업혁명의 미...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158481",
+      "img": "https://www.koreaittimes.com/news/thumbnail/202610/158481_108069_00_v150.jpg"
     },
     {
-      "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=618932",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_618932_20261024163917_1_v150.jpg"
+      "title": "SK에코플랜트, 용인 백암초에 AI 스마트 횡단보도 설치",
+      "url": "https://n.news.naver.com/mnews/article/022/0004169393?sid=101",
+      "img": "https://www.segye.com/content/image/2026/10/23/20261023510895.jpg"
     }
   ]
 };
