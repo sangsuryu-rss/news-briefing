@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.25 (일) 07:30",
+  "updatedAt": "2026.10.25 (일) 13:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼전닉스, 이번주 3분기 확정실적…HBM4로 영업익 185조 전망",
-          "desc": "삼성전자는 이달 초 잠정실적을 발표하고 올해 3분기 매출 195조원, 영업이익 107조4천억원을 기록했다고 밝혔다. 당시 부문별 실적은 공개되지 않았지만, 가전과 TV·스마트폰 등을 담당하는 DX(디바이스경험) 부문과...",
-          "src": "연합뉴스",
+          "title": "LG전자, 독일에 대용량 상업용 세탁가전 공급…유럽 B2B 시장 확대",
+          "desc": "한편 삼성전자도 상업용 세탁기와 건조기 제품을 공급하며 기업 고객을 대상으로 한 세탁가전 사업을 운영하고 있다. 글로벌 가전업계에서는 제품 판매뿐 아니라 설치 이후 유지관리와 운영 효율을 지원하는...",
+          "src": "srtimes",
           "date": "10/25",
-          "url": "https://n.news.naver.com/mnews/article/001/0016398383?sid=101",
-          "img": "https://img8.yna.co.kr/photo/cms/2026/06/24/43/PCM20260624000043990_P4.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215760",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215760_220848_16_v150.jpg"
         },
         {
           "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -37,20 +37,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
         },
         {
-          "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
-          "desc": "가전제품에서는 세탁기와 의류 건조기, 냉장고 등이 포함됐다. 다만 이들 제품도 품목별 세부 규격과... 이에 따라 현대자동차(대표 호세 무뇨스)와 기아(대표 송호성)는 유럽 수출 자동차부품의 적용 범위를, 삼성전자...",
-          "src": "sateconomy",
-          "date": "10/24",
-          "url": "https://sateconomy.co.kr/news/view/1065616522751180",
-          "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
+          "title": "삼성·LG 가전 구독, 구매보다 유리할까…총비용 따져보니",
+          "desc": "삼성전자 '비스포크 양문형 냉장고' 651L 모델의 일시불 판매가격은 155만원이다. 무상수리와 방문관리가 포함된 6년 약정 구독료는 월 3만690원이다. 72개월간 총 220만9680원을 내야 한다. 일시불보다 65만9680원, 42.6% 비싼...",
+          "src": "블로터",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/293/0000092091?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202610/676591_290645_1716_v150.jpg"
         },
         {
-          "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
-          "desc": "25일 재계에 따르면 삼성전자의 내년 사업계획 기조는 오는 29일 3분기 실적 발표 이후 콘퍼런스콜과 다음... 반도체에서 확보한 현금을 미래 성장동력에 재투자하는 한편 파운드리와 시스템LSI, 스마트폰·가전 등...",
-          "src": "연합뉴스",
+          "title": "이재용 회장 취임 4년…반도체 초격차 유지·신성장 동력 육성 과제",
+          "desc": "파운드리 시장에서 삼성전자의 점유율은 5.9%에 그친다. CXMT 등 중국의 거센 반도체 굴기를 막아내는 것도 숙제다. TV 및 생활가전 사업의 부진 탈출도 시급하다. 지난 5월 이원진 사장을 영상디스플레이사업부장 겸...",
+          "src": "segyebiz",
           "date": "10/25",
-          "url": "https://n.news.naver.com/mnews/article/001/0016398350?sid=101",
-          "img": "https://img1.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P4.jpg"
+          "url": "http://www.segyebiz.com/newsView/20261025506405?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/10/25/20261025506404.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "정연태의 전문지식 GPT 혁명 ⑧ | 엔비디아가 설계하는 AI 산업혁명의 미...",
-          "desc": "11.7 노동시장 전환과 전문인력 양성 AI 도입으로 업무가 변화하는 근로자들이 새로운 기술을 활용할 수 있도록 교육체계를 마련해야 한다. 로봇 운영·유지보수, AI 안전검증, 산업 데이터 분석 등 새로운...",
-          "src": "koreaittimes",
+          "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
+          "desc": "슬라이딩 도어와 빌트인 가구·가전 등을 활용해 공간 활용도와 개방감을 높인다는 구상이다. 커뮤니티... 위한 기술도 적용한다. 외단열과 컬러 건물일체형태양광(BIPV)을 결합한 '그린쉴드' 외장 시스템을 도입하고...",
+          "src": "delighti",
           "date": "10/25",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158481",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202610/158481_108069_00_v150.jpg"
+          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123802",
+          "img": "https://cdn.delighti.co.kr/news/thumbnail/202610/123802_104284_1837_v150.jpg"
         },
         {
-          "title": "SK에코플랜트, 용인 백암초에 AI 스마트 횡단보도 설치",
-          "desc": "지난 4월에는 울산지역 해양환경 개선을 위해 AI 해양정화 로봇을 도입했다. SK에코플랜트 관계자는 “AI 기술을 활용한 교통안전시설이 어린이들의 안전한 통학환경을 조성하는 데 실질적인 도움이 되길 바란다”며...",
-          "src": "segye",
+          "title": "과학기술계 여성 인력 늘었지만…'유리천장'은 여전",
+          "desc": "위해 AI(인공지능)를 활용해 제작했습니다. [사진=챗GPT] [뉴스투데이=김소연 기자] 과학기술 분야 여성... 사업장 규모가 작은 연구기관은 성평등가족부가 내년부터 도입할 예정인 고용평등공시제 대상에 포함되지...",
+          "src": "news2day",
           "date": "10/25",
-          "url": "https://n.news.naver.com/mnews/article/022/0004169393?sid=101",
-          "img": "https://www.segye.com/content/image/2026/10/23/20261023510895.jpg"
+          "url": "https://www.news2day.co.kr/article/20261025500026",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/25/.cache/512/20261025500025.png"
         },
         {
-          "title": "오비맥주 AB인베브, 글로벌 전략 '대수술'…브랜드 500개→50개로 슬림화",
-          "desc": "집중 육성 브랜드를 기존 500개에서 50개로 대폭 줄이고, 핵심 브랜드와 인공지능(AI) 기술, 기업 간 거래... AI를 활용한 디지털 전환도 핵심축이다. AB인베브는 물류 최적화 솔루션 '로지스틱스.ai'를 통해 5000만...",
-          "src": "더구루",
+          "title": "이재용 ‘5년 6만명 채용’ 약속 속도… 삼성, 19개사 하반기 GSAT 치렀다",
+          "desc": "PC를 활용해 응시했다. 삼성은 원활한 시험 운영을 위해 지난 17~18일 사전 예비소집을 열고 네트워크와... 삼성은 1957년 국내 기업 최초로 신입사원 공채를 도입한 이래 1970년대 오일쇼크, 2000년대 글로벌 금융위기...",
+          "src": "mediapen",
           "date": "10/25",
-          "url": "https://www.theguru.co.kr/news/article.html?no=108658",
-          "img": ""
+          "url": "https://www.mediapen.com/news/view/1132282",
+          "img": "https://image.mediapen.com/news/202610/news_1132282_1792894157_m.jpg"
         },
         {
-          "title": "\"미란다 원칙부터 난감\"…외국인 사건 급증에 경찰 '골머리'",
-          "desc": "통역 담당 직원이 상주하는 112 신고센터와 달리, 민간인 통역요원은 경찰이 건별로 섭외해 활용한다. 이들은... 전문가들은 AI 통역 시스템이 도입되더라도 오역 가능성 등 기술적 한계가 있는 만큼, 사람에 의한 현장...",
-          "src": "연합뉴스",
+          "title": "70년 이어온 '공채 전통'…삼성, 하반기 GSAT 마무리",
+          "desc": "응시자들은 독립된 장소에서 PC를 활용해 시험을 치렀다. 앞서 17~18일 예비소집을 열고 PC 환경과 시험... 숙련 기술인재 지원도 확대하고 있다. 미취업 청년 대상 무상 교육인 '삼성청년SW·AI아카데미(SSAFY)'는 2025년...",
+          "src": "아주경제",
           "date": "10/25",
-          "url": "https://n.news.naver.com/mnews/article/001/0016398425?sid=102",
-          "img": "https://img8.yna.co.kr/photo/cms/2025/09/05/40/PCM20250905000040990_P4.jpg"
+          "url": "https://www.ajunews.com/view/20261025101521659",
+          "img": "https://image.ajunews.com/content/image/2026/10/25/20261025103308271221.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "테일러에 장비 밀어 넣는 삼성… 2나노 승부수로 파운드리 판 흔든다",
+          "desc": "한국 소재·부품·장비 동반 진출과 수율 시험대 삼성전자의 테일러 팹 장비 발주 본격화는 한국 반도체... 고순도 전자재료 공급사와 원익IPS 등 식각·증착 장비 협력사의 현지 공급망 동반 진출이 속도를 낼 전망이다....",
+          "src": "g-enews",
+          "date": "10/25",
+          "url": "https://www.g-enews.com/view.php?ud=202610251003281288fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102116214207403139bf6e4b21752113777.jpg"
+        },
         {
           "title": "전자만 잘 나가는게 아니다…삼성, 그룹 전반 실적 대도약",
           "desc": "기간 전자부품 사업을 영위해온 삼성전기는 새로운 성장 국면을 맞았다. 과거 삼성전자에 대한 매출... 엔비디아는 고성능 반도체 기판인 플립 칩 볼 그리드 어레이(FC BGA) 생산능력 확대를 위한 주요 협력사로...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/24",
           "url": "https://n.news.naver.com/mnews/article/011/0004674691?sid=105",
           "img": "https://wimg.sedaily.com/news/cms/2026/10/23/news-p.v1.20261023.20393ffe1f8640ce90f31d5e815a86d2_Z1.jpg"
-        },
-        {
-          "title": "삼성전기 엔비디아 타고 '매출 20조' 고지 앞당기나, 장덕현 반도체 기...",
-          "desc": "엔비디아가 삼성전기를 첨단 패키지 기판 공급망의 주요 협력사로 공식화하면서 그동안 쌓아 온 생산... 삼성전기가 장 사장 체제를 갖춘 뒤 5년 만에 글로벌 전자부품업계에서 경쟁력을 인정받고 매출을 2배 이상...",
-          "src": "huffingtonpost",
-          "date": "10/23",
-          "url": "https://www.huffingtonpost.kr/article/261494",
-          "img": "https://cdn.huffingtonpost.kr/news/photo/202609/202609029151.png?v=261494"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "삼전닉스, 이번주 3분기 확정실적…HBM4로 영업익 185조 전망",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398383?sid=101",
-      "img": "https://img8.yna.co.kr/photo/cms/2026/06/24/43/PCM20260624000043990_P4.jpg"
+      "title": "LG전자, 독일에 대용량 상업용 세탁가전 공급…유럽 B2B 시장 확대",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=215760",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215760_220848_16_v150.jpg"
     },
     {
       "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
     },
     {
-      "title": "포스코·동국씨엠·KG스틸, 中 철강 규제에 기회…현대차·삼성전자, EU ...",
-      "url": "https://sateconomy.co.kr/news/view/1065616522751180",
-      "img": "http://sateconomy.co.kr/news/data/20261024/p1065616522751180_200_thum.jpg"
+      "title": "삼성·LG 가전 구독, 구매보다 유리할까…총비용 따져보니",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092091?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202610/676591_290645_1716_v150.jpg"
     },
     {
-      "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398350?sid=101",
-      "img": "https://img1.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P4.jpg"
+      "title": "이재용 회장 취임 4년…반도체 초격차 유지·신성장 동력 육성 과제",
+      "url": "http://www.segyebiz.com/newsView/20261025506405?OutUrl=naver",
+      "img": "http://www.segyebiz.com//content/image/2026/10/25/20261025506404.jpg"
     },
     {
-      "title": "정연태의 전문지식 GPT 혁명 ⑧ | 엔비디아가 설계하는 AI 산업혁명의 미...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158481",
-      "img": "https://www.koreaittimes.com/news/thumbnail/202610/158481_108069_00_v150.jpg"
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123802",
+      "img": "https://cdn.delighti.co.kr/news/thumbnail/202610/123802_104284_1837_v150.jpg"
     },
     {
-      "title": "SK에코플랜트, 용인 백암초에 AI 스마트 횡단보도 설치",
-      "url": "https://n.news.naver.com/mnews/article/022/0004169393?sid=101",
-      "img": "https://www.segye.com/content/image/2026/10/23/20261023510895.jpg"
+      "title": "과학기술계 여성 인력 늘었지만…'유리천장'은 여전",
+      "url": "https://www.news2day.co.kr/article/20261025500026",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/25/.cache/512/20261025500025.png"
     }
   ]
 };
