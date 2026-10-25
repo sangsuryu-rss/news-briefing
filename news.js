@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.25 (일) 20:36",
+  "updatedAt": "2026.10.26 (월) 01:26",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
-          "desc": "이재용 삼성전자 회장이 오는 27일 취임 4주년을 맞는다. 인공지능(AI) 투자 확대에 따른 반도체... TV와 가전 등 완제품 사업의 수익성을 개선하고 반도체에 집중된 실적 구조를 보완해야 한다는 지적도 나온다. 이 회장이...",
-          "src": "moneystorm",
-          "date": "10/25",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
-          "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
+          "title": "‘워싱턴 로비’ 공들이는 기업들… 대관 지출 확대·네트워크 강화",
+          "desc": "삼성전자 미국법인의 정치활동위원회(PAC)는 올해 1~9월 미국 정치인과 정치위원회 등에 16만5000달러를... 같은 기간 LG전자의 신고액은 116만 달러로 전년보다 25% 감소했지만, 가전 에너지 효율과 공급망 세액공제 등...",
+          "src": "kmib",
+          "date": "10/26",
+          "url": "https://n.news.naver.com/mnews/article/005/0001880767?sid=101",
+          "img": ""
         },
         {
           "title": "[트렌드 '요즘'] '싼맛에 쓰던 중국산' 옛말…국산 가전과 성능·가격 경...",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
-          "desc": "역량을 활용하려는 움직임을 이어가고 있다. 다만 실적 개선이 삼성전자의 모든 사업 부문에서 동일하게... 과정에도 AI를 접목해 생산성과 경쟁력을 높여야 한다는 요구가 나온다. 반도체 기술 투자와 함께 그룹 전반의...",
-          "src": "moneystorm",
-          "date": "10/25",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
-          "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
+          "title": "해외 전시장 운영, 잠실 마이스 사업… 글로벌 전시컨벤션 운영사로 도...",
+          "desc": "AI) 기술을 도입한다. 킨텍스는 안전과 시설 운영, 고객 서비스 등 5개 분야에서 15개 인공지능 전환(AX) 과제를 추진하고 있다. 지능형 CCTV와 통합관제 시스템으로 위험 상황을 파악하고, 사물인터넷(IoT) 센서를 활용해...",
+          "src": "조선일보",
+          "date": "10/26",
+          "url": "https://n.news.naver.com/mnews/article/023/0004005830?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/EOJKV72DQFHRRHEOHFDJM7BDE4.jpg?auth=3df45995cdcc837205e4e4f557ce37646a485ea840e6402c835af6a0b66fcf53&width=1200&height=630&smart=true"
         },
         {
-          "title": "加 프로미스로보틱스, 美 D.R.호튼과 주택건설용 피지컬AI 제휴",
-          "desc": "건설 산업은 파편화돼 있으며 새로운 기술을 도입하는 데 비교적 보수적이었으나 피지컬AI가 주택 건설을... 디알호튼은 프로미스 로보틱스의 서비스형 팩토리(FaaS) 역량을 활용해 미국 전역에 1250채 이상의 주택을 건설할...",
-          "src": "irobotnews",
-          "date": "10/25",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49204",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49204_104950_4650.jpg"
+          "title": "‘AX실증산단 오픈랩’으로 기업의 AI 지원",
+          "desc": "한국공학대학교 경기 시흥시 반월·시화국가산업단지에 자리한 한국공학대학교가 인공지능(AI)을 활용한 제조업 혁신의 거점으로 나서고 있다. 기업들이 생산 현장에 AI와 로봇 기술을 도입하기 전 성능을 검증할 수...",
+          "src": "조선일보",
+          "date": "10/26",
+          "url": "https://n.news.naver.com/mnews/article/023/0004005833?sid=102",
+          "img": "https://www.chosun.com/resizer/v2/P2AD3QDSHFD2RCI2UKVORTIIBE.jpg?auth=7efad8d040f697074f5360f2c173e1da967264e191ecdcb55bd158a2a9ddf9aa&width=1200&height=630&smart=true"
         },
         {
-          "title": "美 애질리티, 초고속 충전배터리 공급사로 英 나이오볼트와 협력",
-          "desc": "자사의 기술이 까다로운 산업 분야 적용을 가능케 하고 로봇 활용의 주요 제약 요인인 가동 중단 시간을 줄여준다고 덧붙였다. 나이오볼트는 자사의 특허 포트폴리오와 글로벌 입지가 AI 데이터센터, 피지컬 AI 및...",
-          "src": "irobotnews",
-          "date": "10/25",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49200",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49200_104940_659.jpg"
+          "title": "\"강원 고유 콘텐츠, AI 입혀 관광·예술시장 공략해야\"",
+          "desc": "AI 기술을 활용해 작품을 제작하는 것만으로는 부족하다. 관객에게 어떤 메시지를 전달할 것인지, 작가만의... 교육기관은 AR 미술 수업과 AI 창작 워크숍에, 지자체들은 관광지와 축제를 위한 미디어 아트투어 도입에...",
+          "src": "kado",
+          "date": "10/26",
+          "url": "https://n.news.naver.com/mnews/article/654/0000207305?sid=102",
+          "img": "https://cdn.kado.net/news/photo/202610/2080283_890696_3757.jpg"
         },
         {
-          "title": "게코 로보틱스, 美 해군과 4000억원 규모 함정 검사 계약",
-          "desc": "작전용 AI와 로봇 공학을 도입한 사례 중 가장 강력한 공개적 지지 중 하나라고 주장했다. 게코는 이번 결과는 자사가 실험적 기술이 아닌 실질적 성과를 내는 핵심 군사 능력을 제공하고 있다는 펜타곤(미 전쟁부)의...",
-          "src": "irobotnews",
-          "date": "10/25",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49207",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49207_104959_1636.jpg"
+          "title": "도쿄해상일동, 생성형 AI 조작 이미지 탐지로 보험사기 대응 강화",
+          "desc": "AI)으로 제작·조작한 이미지와 보험금 청구 과정에서 반복 사용된 이미지를 탐지하는 기능을 도입해... 도쿄해상일동은 AI와 데이터 분석 기술을 활용해 보험사기 대응을 고도화하고 손해서비스 품질을 높이는 한편...",
+          "src": "insnews",
+          "date": "10/26",
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93381",
+          "img": "https://cdn.insnews.co.kr/news/photo/202610/93381_58416_5329.jpg"
         }
       ]
     },
@@ -146,7 +146,7 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "10/21",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244335",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "img": ""
         },
         {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
@@ -177,11 +177,6 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
-      "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
-    },
-    {
       "title": "[트렌드 '요즘'] '싼맛에 쓰던 중국산' 옛말…국산 가전과 성능·가격 경...",
       "url": "https://n.news.naver.com/mnews/article/448/0000646879?sid=101",
       "img": "https://img.tvchosun.com/sitedata/image/202610/25/2026102590110_thumb.jpg"
@@ -197,14 +192,19 @@ window.NEWS_DATA = {
       "img": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.6a6555d57f2c4ca7b1b00a91a6c089f2_P1.jpg"
     },
     {
-      "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
-      "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
+      "title": "해외 전시장 운영, 잠실 마이스 사업… 글로벌 전시컨벤션 운영사로 도...",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005830?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/EOJKV72DQFHRRHEOHFDJM7BDE4.jpg?auth=3df45995cdcc837205e4e4f557ce37646a485ea840e6402c835af6a0b66fcf53&width=1200&height=630&smart=true"
     },
     {
-      "title": "加 프로미스로보틱스, 美 D.R.호튼과 주택건설용 피지컬AI 제휴",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49204",
-      "img": "https://cdn.irobotnews.com/news/photo/202610/49204_104950_4650.jpg"
+      "title": "‘AX실증산단 오픈랩’으로 기업의 AI 지원",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005833?sid=102",
+      "img": "https://www.chosun.com/resizer/v2/P2AD3QDSHFD2RCI2UKVORTIIBE.jpg?auth=7efad8d040f697074f5360f2c173e1da967264e191ecdcb55bd158a2a9ddf9aa&width=1200&height=630&smart=true"
+    },
+    {
+      "title": "\"강원 고유 콘텐츠, AI 입혀 관광·예술시장 공략해야\"",
+      "url": "https://n.news.naver.com/mnews/article/654/0000207305?sid=102",
+      "img": "https://cdn.kado.net/news/photo/202610/2080283_890696_3757.jpg"
     }
   ]
 };
