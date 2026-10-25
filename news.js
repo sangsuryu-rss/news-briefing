@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.25 (일) 13:46",
+  "updatedAt": "2026.10.25 (일) 20:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,6 +21,22 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
+          "desc": "이재용 삼성전자 회장이 오는 27일 취임 4주년을 맞는다. 인공지능(AI) 투자 확대에 따른 반도체... TV와 가전 등 완제품 사업의 수익성을 개선하고 반도체에 집중된 실적 구조를 보완해야 한다는 지적도 나온다. 이 회장이...",
+          "src": "moneystorm",
+          "date": "10/25",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
+          "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
+        },
+        {
+          "title": "[트렌드 '요즘'] '싼맛에 쓰던 중국산' 옛말…국산 가전과 성능·가격 경...",
+          "desc": "중국산 전자제품이 기술력을 더해 고급화 전략으로 국내 시장을 공략하고 있습니다. 이어폰부터 TV... 중국 업체들이 강세인 로봇청소기 시장에서도 삼성과 LG가 신제품과 사후서비스를 앞세워 맞서고 있습니다. 정수연...",
+          "src": "조선일보",
+          "date": "10/25",
+          "url": "https://n.news.naver.com/mnews/article/448/0000646879?sid=101",
+          "img": "https://img.tvchosun.com/sitedata/image/202610/25/2026102590110_thumb.jpg"
+        },
+        {
           "title": "LG전자, 독일에 대용량 상업용 세탁가전 공급…유럽 B2B 시장 확대",
           "desc": "한편 삼성전자도 상업용 세탁기와 건조기 제품을 공급하며 기업 고객을 대상으로 한 세탁가전 사업을 운영하고 있다. 글로벌 가전업계에서는 제품 판매뿐 아니라 설치 이후 유지관리와 운영 효율을 지원하는...",
           "src": "srtimes",
@@ -29,28 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215760_220848_16_v150.jpg"
         },
         {
-          "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
-          "desc": "삼성전자와 LG전자는 글로벌 로봇청소기 시장에서 아직 두각을 나타내지 못한 채 중국 업체들을 추격하는 입장에 머물러 있어 해외 시장 공략에 속도를 내야 한다는 지적이 나온다. 가전업계 관계자는 \"유럽을 비롯한...",
-          "src": "블로터",
-          "date": "10/24",
-          "url": "https://n.news.naver.com/mnews/article/293/0000092074?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
-        },
-        {
-          "title": "삼성·LG 가전 구독, 구매보다 유리할까…총비용 따져보니",
-          "desc": "삼성전자 '비스포크 양문형 냉장고' 651L 모델의 일시불 판매가격은 155만원이다. 무상수리와 방문관리가 포함된 6년 약정 구독료는 월 3만690원이다. 72개월간 총 220만9680원을 내야 한다. 일시불보다 65만9680원, 42.6% 비싼...",
-          "src": "블로터",
+          "title": "유럽 가전 '구조조정' 칼바람 …韓·中 '빈틈' 격돌",
+          "desc": "현지 기업이 주춤한 가운데 삼성전자·LG전자와 하이얼·마이디어 등 한·중 기업이 유럽 시장점유율을... 가정용 세탁기 생산은 2027년까지 폴란드 공장으로 모두 옮긴다. 보쉬 가전 자회사 BSH는 2027년까지 3500명을...",
+          "src": "전자신문",
           "date": "10/25",
-          "url": "https://n.news.naver.com/mnews/article/293/0000092091?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/676591_290645_1716_v150.jpg"
-        },
-        {
-          "title": "이재용 회장 취임 4년…반도체 초격차 유지·신성장 동력 육성 과제",
-          "desc": "파운드리 시장에서 삼성전자의 점유율은 5.9%에 그친다. CXMT 등 중국의 거센 반도체 굴기를 막아내는 것도 숙제다. TV 및 생활가전 사업의 부진 탈출도 시급하다. 지난 5월 이원진 사장을 영상디스플레이사업부장 겸...",
-          "src": "segyebiz",
-          "date": "10/25",
-          "url": "http://www.segyebiz.com/newsView/20261025506405?OutUrl=naver",
-          "img": "http://www.segyebiz.com//content/image/2026/10/25/20261025506404.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003478379?sid=101",
+          "img": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.6a6555d57f2c4ca7b1b00a91a6c089f2_P1.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
-          "desc": "슬라이딩 도어와 빌트인 가구·가전 등을 활용해 공간 활용도와 개방감을 높인다는 구상이다. 커뮤니티... 위한 기술도 적용한다. 외단열과 컬러 건물일체형태양광(BIPV)을 결합한 '그린쉴드' 외장 시스템을 도입하고...",
-          "src": "delighti",
+          "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
+          "desc": "역량을 활용하려는 움직임을 이어가고 있다. 다만 실적 개선이 삼성전자의 모든 사업 부문에서 동일하게... 과정에도 AI를 접목해 생산성과 경쟁력을 높여야 한다는 요구가 나온다. 반도체 기술 투자와 함께 그룹 전반의...",
+          "src": "moneystorm",
           "date": "10/25",
-          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123802",
-          "img": "https://cdn.delighti.co.kr/news/thumbnail/202610/123802_104284_1837_v150.jpg"
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
+          "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
         },
         {
-          "title": "과학기술계 여성 인력 늘었지만…'유리천장'은 여전",
-          "desc": "위해 AI(인공지능)를 활용해 제작했습니다. [사진=챗GPT] [뉴스투데이=김소연 기자] 과학기술 분야 여성... 사업장 규모가 작은 연구기관은 성평등가족부가 내년부터 도입할 예정인 고용평등공시제 대상에 포함되지...",
-          "src": "news2day",
+          "title": "加 프로미스로보틱스, 美 D.R.호튼과 주택건설용 피지컬AI 제휴",
+          "desc": "건설 산업은 파편화돼 있으며 새로운 기술을 도입하는 데 비교적 보수적이었으나 피지컬AI가 주택 건설을... 디알호튼은 프로미스 로보틱스의 서비스형 팩토리(FaaS) 역량을 활용해 미국 전역에 1250채 이상의 주택을 건설할...",
+          "src": "irobotnews",
           "date": "10/25",
-          "url": "https://www.news2day.co.kr/article/20261025500026",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/25/.cache/512/20261025500025.png"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49204",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49204_104950_4650.jpg"
         },
         {
-          "title": "이재용 ‘5년 6만명 채용’ 약속 속도… 삼성, 19개사 하반기 GSAT 치렀다",
-          "desc": "PC를 활용해 응시했다. 삼성은 원활한 시험 운영을 위해 지난 17~18일 사전 예비소집을 열고 네트워크와... 삼성은 1957년 국내 기업 최초로 신입사원 공채를 도입한 이래 1970년대 오일쇼크, 2000년대 글로벌 금융위기...",
-          "src": "mediapen",
+          "title": "美 애질리티, 초고속 충전배터리 공급사로 英 나이오볼트와 협력",
+          "desc": "자사의 기술이 까다로운 산업 분야 적용을 가능케 하고 로봇 활용의 주요 제약 요인인 가동 중단 시간을 줄여준다고 덧붙였다. 나이오볼트는 자사의 특허 포트폴리오와 글로벌 입지가 AI 데이터센터, 피지컬 AI 및...",
+          "src": "irobotnews",
           "date": "10/25",
-          "url": "https://www.mediapen.com/news/view/1132282",
-          "img": "https://image.mediapen.com/news/202610/news_1132282_1792894157_m.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49200",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49200_104940_659.jpg"
         },
         {
-          "title": "70년 이어온 '공채 전통'…삼성, 하반기 GSAT 마무리",
-          "desc": "응시자들은 독립된 장소에서 PC를 활용해 시험을 치렀다. 앞서 17~18일 예비소집을 열고 PC 환경과 시험... 숙련 기술인재 지원도 확대하고 있다. 미취업 청년 대상 무상 교육인 '삼성청년SW·AI아카데미(SSAFY)'는 2025년...",
-          "src": "아주경제",
+          "title": "게코 로보틱스, 美 해군과 4000억원 규모 함정 검사 계약",
+          "desc": "작전용 AI와 로봇 공학을 도입한 사례 중 가장 강력한 공개적 지지 중 하나라고 주장했다. 게코는 이번 결과는 자사가 실험적 기술이 아닌 실질적 성과를 내는 핵심 군사 능력을 제공하고 있다는 펜타곤(미 전쟁부)의...",
+          "src": "irobotnews",
           "date": "10/25",
-          "url": "https://www.ajunews.com/view/20261025101521659",
-          "img": "https://image.ajunews.com/content/image/2026/10/25/20261025103308271221.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49207",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49207_104959_1636.jpg"
         }
       ]
     },
@@ -177,34 +177,34 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
+      "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
+      "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
+    },
+    {
+      "title": "[트렌드 '요즘'] '싼맛에 쓰던 중국산' 옛말…국산 가전과 성능·가격 경...",
+      "url": "https://n.news.naver.com/mnews/article/448/0000646879?sid=101",
+      "img": "https://img.tvchosun.com/sitedata/image/202610/25/2026102590110_thumb.jpg"
+    },
+    {
       "title": "LG전자, 독일에 대용량 상업용 세탁가전 공급…유럽 B2B 시장 확대",
       "url": "http://www.srtimes.kr/news/articleView.html?idxno=215760",
       "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215760_220848_16_v150.jpg"
     },
     {
-      "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092074?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202610/676537_290582_3218_v150.jpg"
+      "title": "유럽 가전 '구조조정' 칼바람 …韓·中 '빈틈' 격돌",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478379?sid=101",
+      "img": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.6a6555d57f2c4ca7b1b00a91a6c089f2_P1.jpg"
     },
     {
-      "title": "삼성·LG 가전 구독, 구매보다 유리할까…총비용 따져보니",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092091?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202610/676591_290645_1716_v150.jpg"
+      "title": "[비즈 인사이트] 취임 4주년 이재용, '실적 반등' 넘어 AI·M&A·바이오 승...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7631",
+      "img": "https://cdn.moneystorm.kr/news/photo/202610/7631_7832_87.jpg"
     },
     {
-      "title": "이재용 회장 취임 4년…반도체 초격차 유지·신성장 동력 육성 과제",
-      "url": "http://www.segyebiz.com/newsView/20261025506405?OutUrl=naver",
-      "img": "http://www.segyebiz.com//content/image/2026/10/25/20261025506404.jpg"
-    },
-    {
-      "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
-      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123802",
-      "img": "https://cdn.delighti.co.kr/news/thumbnail/202610/123802_104284_1837_v150.jpg"
-    },
-    {
-      "title": "과학기술계 여성 인력 늘었지만…'유리천장'은 여전",
-      "url": "https://www.news2day.co.kr/article/20261025500026",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/25/.cache/512/20261025500025.png"
+      "title": "加 프로미스로보틱스, 美 D.R.호튼과 주택건설용 피지컬AI 제휴",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49204",
+      "img": "https://cdn.irobotnews.com/news/photo/202610/49204_104950_4650.jpg"
     }
   ]
 };
