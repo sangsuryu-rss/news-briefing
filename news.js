@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.26 (월) 01:26",
+  "updatedAt": "2026.10.26 (월) 05:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,11 +21,11 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘워싱턴 로비’ 공들이는 기업들… 대관 지출 확대·네트워크 강화",
-          "desc": "삼성전자 미국법인의 정치활동위원회(PAC)는 올해 1~9월 미국 정치인과 정치위원회 등에 16만5000달러를... 같은 기간 LG전자의 신고액은 116만 달러로 전년보다 25% 감소했지만, 가전 에너지 효율과 공급망 세액공제 등...",
-          "src": "kmib",
+          "title": "[글로벌뷰] 첨단산업 생산기지로 도약하는 인도",
+          "desc": "자동차·철강·화학·가전 등 전통 제조업 분야에서는 이미 탄탄한 공급망이 자리 잡았다. 현대차·기아, 삼성전자, LG전자 등 우리 기업들도 일찍이 현지 생산기지를 구축하며 이러한 성장에 함께해왔다. 인도는 세계 4위...",
+          "src": "서울경제",
           "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/005/0001880767?sid=101",
+          "url": "https://n.news.naver.com/mnews/article/011/0004674998?sid=110",
           "img": ""
         },
         {
@@ -50,7 +50,7 @@ window.NEWS_DATA = {
           "src": "전자신문",
           "date": "10/25",
           "url": "https://n.news.naver.com/mnews/article/030/0003478379?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.6a6555d57f2c4ca7b1b00a91a6c089f2_P1.jpg"
+          "img": ""
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "해외 전시장 운영, 잠실 마이스 사업… 글로벌 전시컨벤션 운영사로 도...",
-          "desc": "AI) 기술을 도입한다. 킨텍스는 안전과 시설 운영, 고객 서비스 등 5개 분야에서 15개 인공지능 전환(AX) 과제를 추진하고 있다. 지능형 CCTV와 통합관제 시스템으로 위험 상황을 파악하고, 사물인터넷(IoT) 센서를 활용해...",
-          "src": "조선일보",
+          "title": "'장모 살해' 그 끔찍한 범행 막을 수 있었을 텐데...국회서 잠든 안전 법...",
+          "desc": "AI(인공지능), 자율주행 등 첨단기술을 활용한 순찰장비 도입을 위한 것으로 신설 항목이다. 국회 심의 과정을 통과하면 내년에 AI 기반의 자율주행 4륜형 순찰로봇이 도입된다. 112는 고도화에 나선다. 정부는 '112 시스템...",
+          "src": "머니투데이",
           "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005830?sid=102",
-          "img": "https://www.chosun.com/resizer/v2/EOJKV72DQFHRRHEOHFDJM7BDE4.jpg?auth=3df45995cdcc837205e4e4f557ce37646a485ea840e6402c835af6a0b66fcf53&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/008/0005431366?sid=102",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=653,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026102517254385217_1.jpg"
         },
         {
-          "title": "‘AX실증산단 오픈랩’으로 기업의 AI 지원",
-          "desc": "한국공학대학교 경기 시흥시 반월·시화국가산업단지에 자리한 한국공학대학교가 인공지능(AI)을 활용한 제조업 혁신의 거점으로 나서고 있다. 기업들이 생산 현장에 AI와 로봇 기술을 도입하기 전 성능을 검증할 수...",
-          "src": "조선일보",
+          "title": "의료 AI 수가 구체화…제품별 임상 지표로 기관 보상",
+          "desc": "정부는 GPU와 네트워크, 보안 등 공통 인프라를 제공하고 의료기관이 AI의 도입과 활용을 주도하는 구조다.... 현행 의료 AI 선진입·후평가 제도의 보완도 촉구했다. 임상적 유효성이 충분히 입증되지 않은 기술의 한시적...",
+          "src": "medicaltimes",
           "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005833?sid=102",
-          "img": "https://www.chosun.com/resizer/v2/P2AD3QDSHFD2RCI2UKVORTIIBE.jpg?auth=7efad8d040f697074f5360f2c173e1da967264e191ecdcb55bd158a2a9ddf9aa&width=1200&height=630&smart=true"
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171366&ref=naverpc",
+          "img": "https://pds.medicaltimes.com/Thumnail/20261023/1792742855.png"
         },
         {
-          "title": "\"강원 고유 콘텐츠, AI 입혀 관광·예술시장 공략해야\"",
-          "desc": "AI 기술을 활용해 작품을 제작하는 것만으로는 부족하다. 관객에게 어떤 메시지를 전달할 것인지, 작가만의... 교육기관은 AR 미술 수업과 AI 창작 워크숍에, 지자체들은 관광지와 축제를 위한 미디어 아트투어 도입에...",
-          "src": "kado",
+          "title": "안전·복지·교통에 AI 더한다… 스마트한 일상 펼치는 청주",
+          "desc": "AI 활용은 돌봄 현장으로도 확대된다. 시는 과학기술정보통신부의 ‘정서고립 선제감지 및 적시개입... 대중교통에는 AI 기반 버스정보시스템을 도입한다. AI와 빅데이터를 활용해 버스 위치와 도착 예정 시간의...",
+          "src": "서울신문",
           "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/654/0000207305?sid=102",
-          "img": "https://cdn.kado.net/news/photo/202610/2080283_890696_3757.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003692238?sid=102",
+          "img": "https://imggo.seoul.co.kr/img/go_share.png"
         },
         {
-          "title": "도쿄해상일동, 생성형 AI 조작 이미지 탐지로 보험사기 대응 강화",
-          "desc": "AI)으로 제작·조작한 이미지와 보험금 청구 과정에서 반복 사용된 이미지를 탐지하는 기능을 도입해... 도쿄해상일동은 AI와 데이터 분석 기술을 활용해 보험사기 대응을 고도화하고 손해서비스 품질을 높이는 한편...",
-          "src": "insnews",
+          "title": "IPARK현대산업개발, 스마트 서비스 확대… AI 플랫폼 구축",
+          "desc": "로봇 활용 범위를 넓히고, AI와 로봇, 생활 서비스를 통합한 ‘AI 라이프 솔루션’을 추진한다. HDC랩스의 AI 홈 에이전트와 로봇 관련 계열사 제로웍스의 기술을 연계해 ﻿스마트 주거 환경을 구축한다는 계획이다....",
+          "src": "서울신문",
           "date": "10/26",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93381",
-          "img": "https://cdn.insnews.co.kr/news/photo/202610/93381_58416_5329.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003692246?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/10/26/SSC_20261026000127_O2.jpg"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "10/24",
           "url": "https://n.news.naver.com/mnews/article/011/0004674691?sid=105",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/23/news-p.v1.20261023.20393ffe1f8640ce90f31d5e815a86d2_Z1.jpg"
+          "img": ""
         }
       ]
     },
@@ -146,7 +146,7 @@ window.NEWS_DATA = {
           "src": "dream",
           "date": "10/21",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244335",
-          "img": ""
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
@@ -187,24 +187,24 @@ window.NEWS_DATA = {
       "img": "https://cdn.srtimes.kr/news/thumbnail/202610/215760_220848_16_v150.jpg"
     },
     {
-      "title": "유럽 가전 '구조조정' 칼바람 …韓·中 '빈틈' 격돌",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478379?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.6a6555d57f2c4ca7b1b00a91a6c089f2_P1.jpg"
+      "title": "'장모 살해' 그 끔찍한 범행 막을 수 있었을 텐데...국회서 잠든 안전 법...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431366?sid=102",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=653,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026102517254385217_1.jpg"
     },
     {
-      "title": "해외 전시장 운영, 잠실 마이스 사업… 글로벌 전시컨벤션 운영사로 도...",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005830?sid=102",
-      "img": "https://www.chosun.com/resizer/v2/EOJKV72DQFHRRHEOHFDJM7BDE4.jpg?auth=3df45995cdcc837205e4e4f557ce37646a485ea840e6402c835af6a0b66fcf53&width=1200&height=630&smart=true"
+      "title": "의료 AI 수가 구체화…제품별 임상 지표로 기관 보상",
+      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171366&ref=naverpc",
+      "img": "https://pds.medicaltimes.com/Thumnail/20261023/1792742855.png"
     },
     {
-      "title": "‘AX실증산단 오픈랩’으로 기업의 AI 지원",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005833?sid=102",
-      "img": "https://www.chosun.com/resizer/v2/P2AD3QDSHFD2RCI2UKVORTIIBE.jpg?auth=7efad8d040f697074f5360f2c173e1da967264e191ecdcb55bd158a2a9ddf9aa&width=1200&height=630&smart=true"
+      "title": "안전·복지·교통에 AI 더한다… 스마트한 일상 펼치는 청주",
+      "url": "https://n.news.naver.com/mnews/article/081/0003692238?sid=102",
+      "img": "https://imggo.seoul.co.kr/img/go_share.png"
     },
     {
-      "title": "\"강원 고유 콘텐츠, AI 입혀 관광·예술시장 공략해야\"",
-      "url": "https://n.news.naver.com/mnews/article/654/0000207305?sid=102",
-      "img": "https://cdn.kado.net/news/photo/202610/2080283_890696_3757.jpg"
+      "title": "IPARK현대산업개발, 스마트 서비스 확대… AI 플랫폼 구축",
+      "url": "https://n.news.naver.com/mnews/article/081/0003692246?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/10/26/SSC_20261026000127_O2.jpg"
     }
   ]
 };
