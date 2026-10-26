@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.26 (월) 16:50",
+  "updatedAt": "2026.10.27 (화) 00:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[증권家] 11월 ‘슈퍼 먼스’ 개막… 美 중간선거·엔비디아 실적·한국...",
-          "desc": "가이던스가 삼성전자와 SK하이닉스를 비롯한 국내 반도체 소부장 밸류체인의 명운을 가를 전망이다.... 블랙프라이데이에서 사이버먼데이, 12월 크리스마스로 이어지는 연말 소비 지표는 IT 세트기기, 프리미엄 가전...",
-          "src": "megaeconomy",
-          "date": "10/26",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598391780562",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261026/p1065598391780562_549_thum.png"
+          "title": "하루 1조씩 남겨도…숙제도 남긴 ‘이재용 4년’",
+          "desc": "“창업 이래 가장 중시한 가치가 인재와 기술입니다.” 이재용 삼성전자 회장이 지난 2022년 10월 회장 취임... 스마트폰·TV·가전 등 제품에 반도체가 탑재되는 디바이스경험(DX) 부문에는 원가 부담이 되고 있다. 같은...",
+          "src": "중앙일보",
+          "date": "10/27",
+          "url": "https://n.news.naver.com/mnews/article/025/0003560641?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/27/f92e21c4-63b3-41a3-8698-c175526daf70.jpg"
         },
         {
           "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://pimg.mk.co.kr/news/cms/202610/27/20261027_01110204000003_L00.jpg"
         },
         {
-          "title": "가전 구독, 가격 넘어 '관리' 경쟁…삼성·LG, 맞춤형 관리 강화",
-          "desc": "기자] 삼성전자와 LG전자가 가전 구독 시장에서 고객별 맞춤 서비스와 전문 관리를 앞세워 경쟁에 나섰다.... 식기세척기나 로봇청소기를 설치·철거할 때 가구장을 복원하는 '가구 원복'도 지원한다. 평일에 시간을 내기...",
-          "src": "아시아타임즈",
+          "title": "코웨이 '에어메가 마이티2', 美 타임 '2026 최고의 발명품'에 이름 올려",
+          "desc": "이 가운데 삼성전자 냉장고는 코웨이 제품과 같은 생활가전 부문에서 선정됐다. 에어메가 마이티2는 북미에서 판매돼 온 '에어메가 마이티'의 후속 모델이다. 전작은 뉴욕타임스(NYT)의 제품 리뷰 매체...",
+          "src": "tournews21",
           "date": "10/26",
-          "url": "https://www.asiatime.co.kr/article/20261026500230",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/26/.cache/512/20261026500220.png"
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=146666",
+          "img": "https://cdn.tournews21.com/news/photo/202610/146666_273233_2557.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "반도체 호황의 역설… 성장해도 일자리 찔끔, 노동 몫은 감소",
-          "desc": "AI 전환(AX) 지원도 설비 도입과 기존 직원 교육에 그치지 않고 청년 신규 채용과 중장년 숙련 인력 활용으로 연결해야 한다고 제안했다. 청년에게는 일하면서 경력을 쌓을 기회를 주고, 중장년에게는 경험과 기술을...",
-          "src": "조선일보",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/023/0004005993?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/LB4UKVR46VODNOK3LSTTDR3LVQ.jpg?auth=fc03db147bb1835e3ee67cfe49ec5a839b14be9195e99b6a92718339fc71d861&width=1200&height=630&smart=true"
+          "title": "\"지역 산업 AI 전환 속도\"…경북도-경산시-퓨리오사AI, 업무협약",
+          "desc": "기술원 초거대 AI 클라우드팜에 구축된 공공형 GPU 클러스터에 국산 NPU(신경망처리장치)를 추가 도입해... 다양한 AI 모델의 최적화와 산업 현장 적용 가능성을 검증하는 데 활용될 예정이다. 협약에 따라 경북도와...",
+          "src": "gukjenews",
+          "date": "10/27",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732719",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3732719_3912093_5952_v150.jpg"
         },
         {
-          "title": "룰라 4선 역전승…아마존 보호·핵심광물 개발 시험대 [ESG 뉴스 5]",
-          "desc": "최빈국에도 기술 지원을 확대한다. 나디아 칼비뇨 EIB 총재는 기후재난 예방과 적응에 1유로를 투자하면 피해 복구 비용 10유로를 줄일 수 있다고 강조했다. 클로드, 미국 선거자료 무단 조회 앤트로픽의 인공지능(AI)...",
-          "src": "한국경제",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/050/0000112392?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/AD.46198432.1.jpg"
+          "title": "울산항만공사, 항만정보 공유 AI 서비스 구축",
+          "desc": "울산항만공사(사장 변재영·UPA)가 인공지능(AI)을 활용한 항만 정보 공유체계 구축을 본격화한다. UPA는... 내년 상반기까지 진행되는 이번 사업은 UPA 홈페이지와 항만정보공유플랫폼인 포트와이즈(Port-Wise)에 AI 기술을...",
+          "src": "ksilbo",
+          "date": "10/27",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070649",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         },
         {
-          "title": "경기도의회 ‘대한민국 SNS대상’ 9년 연속 수상… AI 숏폼으로 도민 소...",
-          "desc": "캐릭터를 활용한 AI 숏폼 등 콘텐츠 다변화 - 전년 동기 대비 인스타그램 팔로워 20.6%(5,814명), 블로그 조회수... 특히 올해는 최신 AI 기술을 접목한 영상 콘텐츠를 도입해 의정 홍보의 외연을 확장했다. 대표적인 사례로...",
-          "src": "서울신문",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/081/0003692547?sid=102",
-          "img": "https://imggo.seoul.co.kr/img/go_share.png"
+          "title": "\"AI 도입, 일자리 확대·탈울산 억제…청년은 소외\"",
+          "desc": "자료이미지 / Ai 생성이미지 AI(인공지능) 확산이 일자리 감소로 이어질 것이라는 우려와 달리 AI 도입이... 보고서에 따르면 지난 2022년 말 생성형 AI 등장 이후 지역 내 일자리와 AI 기술 간 연계성을 의미하는 'AI...",
+          "src": "ksilbo",
+          "date": "10/27",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070648",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202610/1070648_648747_3350_v150.jpg"
         },
         {
-          "title": "UPA, 인공지능 기반 항만 정보공유 시스템 구축 착수",
-          "desc": "인공지능(AI) 기반 서비스 도입에 나선다. UPA는 내년 상반기 완료를 목표로 ‘울산항 정보공유 인공지능... 답을 얻는 체계로 전환하는 시도라며, AI를 활용해 고객 접근성을 높이고 현장 업무 편의를 개선하겠다고 말했다.",
-          "src": "데일리안",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/119/0003147167?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202610/news_1793000716302_1706311_m_1.jpeg"
+          "title": "[울산리부트-AI헬스케어로 산업 전환의 해법을 찾다]울산 AI헬스케어 활...",
+          "desc": "캘거리대학교 연구진은 울산 AI생태계 구축에 대해 \"기술이 아니라 파트너십에서 출발해야 한다\"며 \"병원과 대학의 협력을 기업의 제품 개발과 현장 도입까지 확장해야 한다\"고 강조했다. 캐나다 UHN측은 \"첫 번째...",
+          "src": "ksilbo",
+          "date": "10/27",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070634",
+          "img": "https://cdn.ksilbo.co.kr/news/thumbnail/202610/1070634_648733_2505_v150.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "아이씨에이치, 삼성전자 1차 벤더 등록…주가 상한가 '급등'",
-          "desc": "아이씨에이치 CI 삼성전자에 소재와 부품을 간접 납품해 온 아이씨에이치가 직접 공급할 수 있는 자격을... 그동안 아이씨에이치는 삼성전자 1차 협력사로 등록된 업체를 통해 제품을 납품해 왔다. 주요 공급 품목은 전자파...",
-          "src": "핀포인트뉴스",
+          "title": "[영상] 구매한지 6시간만에 화면이 ‘쩍’…아이폰 듀오의 처참한 내구...",
+          "desc": "넬슨은 “이제 수리비로 1000달러가 나가게 생겼다”라며 “삼성전자의 ‘갤럭시Z 폴드8’을 같은 방식으로... 파인엠텍은 직접적으로 아이폰 듀오를 언급하지 않았지만, 애플의 협력사로서 부품을 공급 중인만큼 대응에...",
+          "src": "매일경제",
           "date": "10/26",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498530",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/498530_483875_508_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005754341?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/26/news-p.v1.20261026.3bf6102c17904f6ea7016071f9232dd2_R.png"
         },
         {
-          "title": "[오늘의 특징주] 루닛·아이씨에이치 상한가, 항암제 AI 협력·삼성전자...",
-          "desc": "사용되는 전자파 차폐와 완충 소재 분야에서 사업을 확대해 왔다. 스마트폰의 고성능화와 부품 집적도가... 장 초반 하락세를 보였으나 삼성전자 1차 협력사 코드 취득 소식이 전해진 이후 상승 전환해 오후 들어...",
-          "src": "ppss",
+          "title": "호남권 반도체 성공 열쇠는 정주 여건… ‘공장’ 아닌 ‘생태계’ 갖춰...",
+          "desc": "삼성전자와 SK하이닉스가 정부에 제출한 자료를 보면, 호남 반도체 메가특구에 짓는 팹 4기와 협력사가 쓸... TSMC는 JASM 공장에도 대만 기업의 장비·부품·공정을 그대로 옮겨왔다. 새로운 지역 협력사를 찾기보다 기존...",
+          "src": "한겨레",
           "date": "10/26",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=317364",
-          "img": "https://cdn.ppss.kr/news/photo/202610/317364_140266_3329.png"
+          "url": "https://n.news.naver.com/mnews/article/036/0000054368?sid=101",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/637/imgdb/original/2026/1022/20261022503834.jpg"
         },
         {
-          "title": "이재용 회장 취임 4주년…AI·인프라 직접 투자로 '미래 먹거리' 속도",
-          "desc": "고객사와 협력사까지 잇는 AI 기반 반도체 생태계를 만든다는 구상이다. 전영현 삼성전자 DS부문장은... 삼성은 이번 투자를 계기로 '부품 공급사'에 머물지 않고 인프라 구축에 직접 참여하겠다는 입장이다. 로봇...",
-          "src": "g-enews",
+          "title": "'품질 논란' 아이폰 듀오...\"결국 힌지가 발목\"",
+          "desc": "삼성전자가 3분기 출시한 폴더블폰 신제품 3종에선 큰 문제가 없고, 아이폰 듀오는 화면 결함 등 문제가 보도되고 있다. 파인엠텍은 26일 최근 아이폰 듀오와 자신들이 만든 부품은 무관하다는 내용의 입장문을 발표했다....",
+          "src": "ZDNet코리아",
           "date": "10/26",
-          "url": "https://www.g-enews.com/view.php?ud=20261026140743169139bf6e4b2_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102614090601772139bf6e4b2115951676.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002442447?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/26/1b3682aa553bc0b14757c41919df1fb0.png"
         },
         {
-          "title": "아이씨에이치, 삼성전자 1차 협력사 등록…소재·완제품 직접 공급",
-          "desc": "첨단·복합소재 전문기업 아이씨에이치가 삼성전자 1차 협력사로 등록되면서 직접 공급체계 구축에 나선다.... 전자파 차폐용 가스켓은 전자기기 내부에서 발생하는 전자파의 간섭을 줄이는 부품이며, PU 폼은 충격 흡수와...",
-          "src": "팝콘뉴스",
+          "title": "스페이스X '美 8만 기지국' 추진…K-통신장비 수혜 기대 속 '신중론'",
+          "desc": "다만 인프라 부지 확보가 곧바로 부품사 수주로 이어지는 건 아닌 만큼 섣부른 장밋빛 전망을 경계해야... 알에프텍 역시 삼성전자의 5G 안테나·필터 1차 협력사로 미국 버라이즌에 장비를 공급 중이다. 기지국용...",
+          "src": "kpinews",
           "date": "10/26",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=137309",
-          "img": "https://cdn.popcornnews.net/news/thumbnail/202610/137309_163620_316_v150.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065594233699981",
+          "img": "https://kpinews.kr/data/upi/image/2026/10/26/p1065594233699981_531_thum.png"
         }
       ]
     },
@@ -177,9 +177,9 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[증권家] 11월 ‘슈퍼 먼스’ 개막… 美 중간선거·엔비디아 실적·한국...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598391780562",
-      "img": "https://www.megaeconomy.co.kr/news/data/20261026/p1065598391780562_549_thum.png"
+      "title": "하루 1조씩 남겨도…숙제도 남긴 ‘이재용 4년’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560641?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/27/f92e21c4-63b3-41a3-8698-c175526daf70.jpg"
     },
     {
       "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
@@ -192,19 +192,19 @@ window.NEWS_DATA = {
       "img": "https://pimg.mk.co.kr/news/cms/202610/27/20261027_01110204000003_L00.jpg"
     },
     {
-      "title": "가전 구독, 가격 넘어 '관리' 경쟁…삼성·LG, 맞춤형 관리 강화",
-      "url": "https://www.asiatime.co.kr/article/20261026500230",
-      "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/26/.cache/512/20261026500220.png"
+      "title": "코웨이 '에어메가 마이티2', 美 타임 '2026 최고의 발명품'에 이름 올려",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=146666",
+      "img": "https://cdn.tournews21.com/news/photo/202610/146666_273233_2557.jpg"
     },
     {
-      "title": "반도체 호황의 역설… 성장해도 일자리 찔끔, 노동 몫은 감소",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005993?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/LB4UKVR46VODNOK3LSTTDR3LVQ.jpg?auth=fc03db147bb1835e3ee67cfe49ec5a839b14be9195e99b6a92718339fc71d861&width=1200&height=630&smart=true"
+      "title": "\"지역 산업 AI 전환 속도\"…경북도-경산시-퓨리오사AI, 업무협약",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732719",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202610/3732719_3912093_5952_v150.jpg"
     },
     {
-      "title": "룰라 4선 역전승…아마존 보호·핵심광물 개발 시험대 [ESG 뉴스 5]",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112392?sid=101",
-      "img": "https://img.hankyung.com/photo/202610/AD.46198432.1.jpg"
+      "title": "울산항만공사, 항만정보 공유 AI 서비스 구축",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070649",
+      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
     }
   ]
 };
