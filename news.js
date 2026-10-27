@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.27 (화) 23:33",
+  "updatedAt": "2026.10.28 (수) 05:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "취임 4주년 이재용의 첫 행선지, 반도체 아니었다…3개월된 신생조직 방...",
-          "desc": "이재용 삼성전자 회장이 취임 4주년을 맞은 27일 RX사업추진실(Robotics eXperience Office)을 방문하고 내년 1월 미국 라스베이거스에서 열리는 소비자가전전시회(CES)에 내놓을 수 있는 삼성의 로봇 기술을 점검했다. 삼성의...",
+          "title": "기념식 대신 로봇… 이재용의 반도체 넘어서기",
+          "desc": "삼성전자는 내년 1월 미국 라스베이거스에서 열리는 세계 최대 가전·IT 전시회 ‘CES 2027’에서 로봇 기술의 청사진을 선보일 예정이다. 출품할 자체 휴머노이드 로봇은 사실상 최종 승인 단계만 남겨둔 것으로...",
+          "src": "서울신문",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/081/0003693130?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/10/27/SSC_20261027174911_O2.jpg"
+        },
+        {
+          "title": "삼성전자, AI로 맞춤 건조부터 에너지 절약까지",
+          "desc": "의류건조기 부문 삼성전자는 '2026 한국품질만족지수(KS-QEI)' 의류건조기 부문에서 3년 연속 1위에 선정되었다. 삼성전자는 세탁물의 소재와 특성을 분석해 최적의 건조 환경을 제공하는 '비스포크 AI 건조기'를 선보이며...",
           "src": "매일경제",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/009/0005754927?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.04777461a2a144038fde525b72720bf1_R.jpg"
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/009/0005755000?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110205000001_L00.jpg"
+        },
+        {
+          "title": "삼성전자, 세탁·헹굼·탈수까지 특성에 맞춰 관리",
+          "desc": "드럼세탁기 부문 삼성전자는 '2026 한국품질만족지수(KS-QEI)' 드럼세탁기 부문에서 17년 연속 1위에 선정되었다. 삼성전자는 세탁물의 종류와 무게, 오염도를 분석해 최적의 세탁 과정을 제공하는 '비스포크 AI 세탁기...",
+          "src": "매일경제",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/009/0005755001?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110205000002_L00.jpg"
         },
         {
           "title": "[가전 트렌드] 마포구, 가정용 음식물쓰레기 감량기 구매비 최대 17만50...",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/27",
           "url": "https://www.ibabynews.com/news/articleView.html?idxno=156233",
           "img": "https://www.ibabynews.com/news/photo/202610/w100234_59d0d351.png"
-        },
-        {
-          "title": "삼성 갤럭시 전체 1위… 이동통신 업종 불황 딛고 반등 [2026 국가브랜드...",
-          "desc": "공기청정기와 김치냉장고, 세탁기, 식기세척기는 78점을 기록했다. 서비스업에서는 패스트푸드와... LG전자 구독이 74점, 삼성전자 AI 구독클럽이 68점을 기록하며 조사 대상 두 브랜드 모두 전년보다 점수가...",
-          "src": "파이낸셜뉴스",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/014/0005595316?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/10/27/202610271812508171_e.jpg"
-        },
-        {
-          "title": "삼성전자, 동남아 '빨래방' 정조준…상업용 세탁기로 B2B 확대",
-          "desc": "앞서 삼성전자는 2018년 11월 국내에서 17kg 세탁기와 11kg 건조기를 내놓으며 상업용 시장에 본격 진출한 이후, 동남아로 기반을 넓히는 중이다. 앞서 3월 필리핀에서 스마트싱스 기반 빨래방 운영 솔루션을 공개했다....",
-          "src": "전자신문",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/030/0003479228?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.1bb120a31c344369b274ad09c4473458_P1.png"
         }
       ]
     },
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "\"현대차, 車공장에 로봇 2만5000대…'피지컬 AI' 상용화 속도\"NH투자證",
+          "desc": "전동화차 판매 확대를 통한 수익성 회복이 신사업 투자 여력을 뒷받침할 것이란 분석이다. 로보틱스 분야에서는 보스턴다이나믹스의 휴머노이드 '아틀라스' 양산이 핵심이다. 현대차그룹은 2028년까지 연간 3만대...",
+          "src": "파이낸셜뉴스",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/014/0005595435?sid=103",
+          "img": "https://image.fnnews.com/resource/media/image/2026/09/22/202609220842382797_e.jpg"
+        },
+        {
+          "title": "세계 자동차 부품시장 상위 쏠림 뚜렷",
+          "desc": "9곳 중 6곳의 매출이 늘었는데, 현대트랜시스(+9.7%)와 서연이화(+6.9%)가 상대적으로 높았고 현대위아(-7.0%)와 유라코퍼레이션(-2.0%)은 줄었다. 보고서는 지역별 매출 다변화를 이룬 기업에서 상대적으로 긍정적인...",
+          "src": "gjdream",
+          "date": "10/28",
+          "url": "http://www.gjdream.com/news/articleView.html?idxno=673802",
+          "img": "https://cdn.gjdream.com/news/photo/202610/673802_290553_1146.jpg"
+        },
+        {
           "title": "[단독] 원가절감·기술 보안·탈중국…아틀라스가 소집한 'K부품 군단'",
           "desc": "로봇 관절을 움직이는 액추에이터엔 모터와 감속기, 제어기 등 자동차 전동화 부품 기술이 거의 그대로 들어간다. 현대차그룹은 이르면 2028년부터 아틀라스 등 로봇을 연간 3만 대 생산할 계획이어서 추가 발주의...",
           "src": "한국경제",
@@ -69,28 +85,12 @@ window.NEWS_DATA = {
           "img": "https://img.hankyung.com/photo/202610/AA.46210771.1.jpg"
         },
         {
-          "title": "‘효율·고용’ 절충…현대차·기아 공장 재편안 나왔다",
-          "desc": "현대자동차와 기아가 잇달아 노동조합과 고용안정위원회 합의를 이끌어내면서 전동화 시대 공장 재편의... (사진=현대차그룹) 27일 업계에 따르면 현대차 노사는 지난 23일 울산 1공장과 4공장 2라인(42라인) 재건축에...",
-          "src": "이데일리",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/018/0006397370?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102701668.jpg"
-        },
-        {
           "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
           "desc": "자동차 전장부품 전문기업 유라코퍼레이션이 멕시코 산루이스포토시(SLP)주 시우다드바예스(Ciudad Valles)를 신규 생산 거점 후보지로 검토하고 있다. 현지 투자자가 산업 시설을 건립하면 유라코퍼레이션이 이를 장기...",
           "src": "the-today",
           "date": "10/23",
           "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
           "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
-        },
-        {
-          "title": "[미르의 글로벌 레이더]유라코퍼레이션, 멕시코 신규 거점 검토…2만500...",
-          "desc": "현대차·기아에 자동차 배선과 전장부품을 공급하는 유라코퍼레이션이 멕시코 산루이스포토시주 시우다드 바예스를 신규 사업 거점 후보지로 검토하고 있는 것으로...",
-          "src": "mediapen",
-          "date": "10/23",
-          "url": "https://www.mediapen.com/news/view/1131906",
-          "img": "https://image.mediapen.com/news/202610/news_1131906_1792713250_m.png"
         }
       ]
     },
@@ -141,20 +141,20 @@ window.NEWS_DATA = {
       "color": "#e8842c",
       "items": [
         {
-          "title": "[더벨][티에스모스트 IPO] 자동차 전장부품으로 상장 도전…구주매출 추...",
-          "desc": "코스닥 상장을 추진중인 자동차 전장부품 기업 티에스모스트가 공모물량의 약 10%를 구주매출로 매각한다.... 전력을 전달하는 버스바와 배터리팩 와이어링 하네스를 비롯해 액추에이터, 전류센서 등이 주요...",
-          "src": "더벨",
-          "date": "10/26",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610221323458080108448",
-          "img": ""
-        },
-        {
           "title": "자동차의 신경망, '와이어링 하네스'… 베트남 조달 비중 33.3%까지 확대",
           "desc": "차량 한 대를 생산하기 위해서는 엔진룸, 계기판, 도어, 차체 등 연결하는 구역과 장치에 따라 여러 종류의 와이어링 하네스가 사용된다. 또한 동일한 차종이라 하더라도, 그 기능과 전장(電裝) 사양에 따라...",
           "src": "dream",
           "date": "10/21",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244335",
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+        },
+        {
+          "title": "[더벨][티에스모스트 IPO] 자동차 전장부품으로 상장 도전…구주매출 추...",
+          "desc": "코스닥 상장을 추진중인 자동차 전장부품 기업 티에스모스트가 공모물량의 약 10%를 구주매출로 매각한다.... 전력을 전달하는 버스바와 배터리팩 와이어링 하네스를 비롯해 액추에이터, 전류센서 등이 주요...",
+          "src": "더벨",
+          "date": "10/26",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610221323458080108448",
+          "img": ""
         },
         {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
@@ -181,45 +181,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "10월 4주 주요 제조업 전망",
-          "desc": "신기술을 도입하고, 데이터를 기반으로 설계부터 생산에 이르는 과정 전반을 수행하겠다고 밝힘. 양사는... 기관의 기술과 전문성을 연계하고, 친환경 선박·기자재 연구 성과 활용과 친환경 산업 전환을 도모하기...",
-          "src": "laborplus",
-          "date": "10/27",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41703",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202610/41703_74676_2416.jpg"
+          "title": "“AI에 절대 비번 주지 마!” 美 은행 비상 걸린 이유가[김창영의 실리...",
+          "desc": "위해 AI를 비롯한 혁신 기술에 지속적으로 투자하고 있다”며 “앞으로 더욱 다양한 금융 관리 도구를 도입... 있게 활용되는 AI가 가져다줄 가능성에 큰 기대를 걸고 있다. 혁신적인 서비스를 제공하는 동시에 고객...",
+          "src": "서울경제",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/011/0004675835?sid=104",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/28/rcv.YNA.20261001.PRU20261001097201009_Z1.jpg"
         },
         {
-          "title": "배우 정준호가 부르고 'AI가 길 안내'… 홍성바비큐축제 손님맞이 눈길",
-          "desc": "홍성군은 이 같은 불편을 줄이기 위해 인공지능 기반 축제 안내 챗봇을 도입했다. 방문객이 여러 안내문이나... 직접 AI 기술을 활용해 만들었다는 점에서도 관심을 끈다. 군에 따르면 AI 사용료를 제외하면 추가 개발비가...",
-          "src": "그린포스트",
-          "date": "10/27",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353200",
-          "img": "https://cdn.greened.kr/news/thumbnail/202610/353200_405145_152_v150.jpg"
+          "title": "샘 올트먼, \"당장 기업이 AI로 할 일은 보안 위협 대비\" [오라클AI월드]",
+          "desc": "샘 올트먼 CEO는 AI 활용 과제로 보안 위협 대응을 꼽으며 \"AI가 찾아내는 취약점이 빠르게 늘면서... 올트먼 CEO는 GPT-6 도입 속도가 역대 오픈AI 모델 가운데 가장 빠르다며 코딩과 기업용 SW, 보안, 과학 등 산업...",
+          "src": "디지털데일리",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/138/0002246232?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/28/2026102802474988338_l.jpg"
         },
         {
-          "title": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 ...",
-          "desc": "자사의 AI 모델이 인류에게 재앙적이거나 실존적인 위험을 초래할 가능성이 있다고 경고했습니다. AI 기술... 로젠블랫은 기업들이 AI를 시험적으로 활용하는 단계를 넘어 실제 업무에 대규모로 도입하기 시작했다는...",
-          "src": "한국경제",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005347256?sid=104",
-          "img": "https://img.hankyung.com/photo/202610/01.46212570.1.jpg"
+          "title": "QR로 인력관리…인건비 20%↓ 농업강국 네덜란드서도 통했다",
+          "desc": "국내 농장에서 검증한 스마트농업 기술이 북미와 유럽 농장의 인건비 부담을 줄이고 생산성을 높이는 수출... 자율주행과 과실 인식, 수확량 예측 등에 AI를 활용해 농작업 자동화 범위를 넓혀갈 계획이다. 조 대표는...",
+          "src": "이데일리",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/018/0006397506?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102800073.jpg"
         },
         {
-          "title": "한국수자원공사, AI·기후테크 기업 39곳과 협약 체결",
-          "desc": "인공지능(AI) 융합을 위한 업무협약을 체결했다고 밝혔다. 이번 협약은 창업지원기관별 공모에서... 오픈이노베이션은 공공기관과 민간기업이 보유한 데이터와 실증 자원을 활용해 외부 기업의 기술을 도입하고...",
-          "src": "lawissue",
-          "date": "10/27",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610272308304211f4ab64559d_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261027230838043410f4ab64559d3911894142.jpg&nmt=12"
+          "title": "고리원전 3·4호기, 다시 돈다",
+          "desc": "AI 데이터센터를 구동할 전력도 필요하다. 정부는 재생에너지와 원전을 병행하는 ‘에너지 믹스’ 전략을 펴고 있다. 2037~2038년까지 총 2.8GW 규모의 신규 대형 원전 2기를 건설하고 소형모듈원자로(SMR)를 도입하는...",
+          "src": "서울신문",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/081/0003693067?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/10/28/SSC_20261028003928_O2.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "취임 4주년 이재용의 첫 행선지, 반도체 아니었다…3개월된 신생조직 방...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005754927?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.04777461a2a144038fde525b72720bf1_R.jpg"
+      "title": "기념식 대신 로봇… 이재용의 반도체 넘어서기",
+      "url": "https://n.news.naver.com/mnews/article/081/0003693130?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/10/27/SSC_20261027174911_O2.jpg"
+    },
+    {
+      "title": "삼성전자, AI로 맞춤 건조부터 에너지 절약까지",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755000?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110205000001_L00.jpg"
+    },
+    {
+      "title": "삼성전자, 세탁·헹굼·탈수까지 특성에 맞춰 관리",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755001?sid=101",
+      "img": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110205000002_L00.jpg"
     },
     {
       "title": "[가전 트렌드] 마포구, 가정용 음식물쓰레기 감량기 구매비 최대 17만50...",
@@ -227,24 +237,14 @@ window.NEWS_DATA = {
       "img": "https://www.ibabynews.com/news/photo/202610/w100234_59d0d351.png"
     },
     {
-      "title": "삼성 갤럭시 전체 1위… 이동통신 업종 불황 딛고 반등 [2026 국가브랜드...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595316?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/10/27/202610271812508171_e.jpg"
+      "title": "\"현대차, 車공장에 로봇 2만5000대…'피지컬 AI' 상용화 속도\"NH투자證",
+      "url": "https://n.news.naver.com/mnews/article/014/0005595435?sid=103",
+      "img": "https://image.fnnews.com/resource/media/image/2026/09/22/202609220842382797_e.jpg"
     },
     {
-      "title": "삼성전자, 동남아 '빨래방' 정조준…상업용 세탁기로 B2B 확대",
-      "url": "https://n.news.naver.com/mnews/article/030/0003479228?sid=101",
-      "img": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.1bb120a31c344369b274ad09c4473458_P1.png"
-    },
-    {
-      "title": "[단독] 원가절감·기술 보안·탈중국…아틀라스가 소집한 'K부품 군단'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347189?sid=101",
-      "img": "https://img.hankyung.com/photo/202610/AA.46210771.1.jpg"
-    },
-    {
-      "title": "‘효율·고용’ 절충…현대차·기아 공장 재편안 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006397370?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102701668.jpg"
+      "title": "세계 자동차 부품시장 상위 쏠림 뚜렷",
+      "url": "http://www.gjdream.com/news/articleView.html?idxno=673802",
+      "img": "https://cdn.gjdream.com/news/photo/202610/673802_290553_1146.jpg"
     }
   ]
 };
