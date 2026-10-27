@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.27 (화) 10:29",
+  "updatedAt": "2026.10.27 (화) 15:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "오승환 “선수시절 삼성서 받은 금 1000돈 넘는다”",
-          "desc": "정호철이 “삼성인데 금만 받았냐”고 묻자 오승환은 “가전제품도 많이 받았다”고 했다. 그는 “470돈 공을 받으면서 삼성전자에서 가전제품 팸플릿을 주더라”고 말했다.",
-          "src": "헤럴드경제",
+          "title": "4만개 기업 참여 '코리아 그랜드 페스티벌' 29일 개막…우본도 동참",
+          "desc": "현대자동차와 기아 등 국내 완성차 5개 업체와 삼성전자, LG전자는 11월 1일부터 주요 차종과 가전제품을 할인 판매한다. 대형마트에서는 농축수산물과 가공식품 등을 최대 50% 할인하고 백화점에서는 겨울철 의류를...",
+          "src": "digitaltoday",
           "date": "10/27",
-          "url": "https://m.entertain.naver.com/article/016/0002714791",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/rcv.YNA.20250930.PYH2025093024650005300_P1.jpg"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710097",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/710097_657662_2435.png"
         },
         {
-          "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
-          "desc": "나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기 등에 카메라 모듈을 공급해 온 업체다. 최근에는 기존 모바일 중심 사업에서 로봇과 모빌리티 분야로 영역을 확대하고 있다. 앞서 올해 1월 글로벌 완성차...",
-          "src": "news2day",
+          "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
+          "desc": "당시 삼성전자는 로봇청소기 구매 고객에게 구매 금액의 20%에 해당하는 디지털 온누리 상품권을 지급했다. 일부 고객들은 신제품 배송까지 1~2달을 기다려야 할 정도로 주문이 급증하기도 했다. LG전자도 올해 6월...",
+          "src": "biz",
           "date": "10/27",
-          "url": "https://www.news2day.co.kr/article/20261027500081",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
-        },
-        {
-          "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
-          "desc": "삼성전자와 LG전자, 드리미, 쿠쿠, 경동나비엔 등 주요 가전 브랜드를 중심으로 상품군을 구성했으며, 로봇청소기와 냉장고, 세탁·건조기 등 대형가전뿐 아니라 온수매트와 카본매트 등 계절가전도 포함했다. 패션과...",
-          "src": "thefirstmedia",
-          "date": "10/26",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700126.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
         },
         {
           "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
@@ -51,46 +43,54 @@ window.NEWS_DATA = {
           "date": "10/27",
           "url": "https://dealsite.co.kr/articles/171280",
           "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
+        },
+        {
+          "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
+          "desc": "삼성전자와 LG전자, 드리미, 쿠쿠, 경동나비엔 등 주요 가전 브랜드를 중심으로 상품군을 구성했으며, 로봇청소기와 냉장고, 세탁·건조기 등 대형가전뿐 아니라 온수매트와 카본매트 등 계절가전도 포함했다. 패션과...",
+          "src": "thefirstmedia",
+          "date": "10/26",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
         }
       ]
     },
     {
-      "cls": "ai",
-      "icon": "🤖",
-      "title": "AI 동향",
-      "color": "#00a86b",
+      "cls": "auto",
+      "icon": "🚗",
+      "title": "자동차·유라",
+      "color": "#0d9488",
       "items": [
         {
-          "title": "경산시, 국산 AI반도체 실증 거점으로 뜬다…퓨리오사AI ‘레니게이드’...",
-          "desc": "특히 제조기업들이 AI 기술을 도입하는 과정에서 겪는 인프라 확보와 기술 검증 부담을 줄이는 데 초점을 맞추고 있다. 제조업 현장에서 AI를 활용하려면 데이터 처리와 모델 운영에 필요한 컴퓨팅 자원은 물론 실제...",
-          "src": "아이뉴스24",
+          "title": "코나, 내년 3월 ‘풀체인지’로 출격…셀토스 독주에 도전장 [여車저車...",
+          "desc": "있던 전동화 선점 효과도 약해지고 있다. 이번 신형 코나의 승부처는 소프트웨어 중심 자동차(SDV)다. 신형 코나에는 현대차그룹의 차세대 인포테인먼트 시스템 ‘플레오스 커넥트’가 적용될 전망이다. 대화면...",
+          "src": "헤럴드경제",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/031/0001069568?sid=102",
-          "img": "https://image.inews24.com/v1/0f831107eb78fe.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002715041?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20260407.08c833489d0546ebb770c8030e4c783e_P1.jpg"
         },
         {
-          "title": "하나자산운용, 1Q 미국AI테크플랫폼TOP10 신규 상장",
-          "desc": "이번 상품은 AI 산업이 반도체·데이터센터 중심의 인프라 구축 단계를 넘어 실제 서비스와 업무에 활용되... 등 AI 도입과 운영에 필수적인 서비스 수요 증가에 주목했다. 기초지수는 'iSelect 미국AI테크플랫폼TOP10...",
-          "src": "wowtv",
+          "title": "현대자동차, WHE 2026서 수소전기차 '넥쏘'·수소충전로봇 공개... \"수소...",
+          "desc": "현대자동차는 자동차를 넘어 미래 모빌리티 생태계로 사업 영역을 넓혀 온 기업으로, 전동화와 수소... 특히 현대자동차그룹은 수소의 생산부터 공급, 활용에 이르는 밸류체인 전반을 하나의 전시 구성으로 묶어...",
+          "src": "kr",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/215/0001270596?sid=101",
-          "img": ""
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1816196",
+          "img": "https://cdn.kr.aving.net/news/photo/202610/1816196_784124_2722.png"
         },
         {
-          "title": "대면 이벤트 공간 중개 플랫폼 '쉐어잇', AI 상담 서비스 출시",
-          "desc": "비교표는 PDF로 내려받아 내부 보고나 장소 선정에 활용할 수 있고, 실제 예약은 기존 플랫폼 절차로... 견적 및 예약 과정까지 AI와 자동화 기술을 확대 적용해 이벤트 중개 시장의 디지털 전환을 앞당기겠다\"고 덧붙였다.",
-          "src": "datanet",
-          "date": "10/27",
-          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215373",
-          "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/215373_139714_2152_v150.jpg"
+          "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
+          "desc": "자동차 전장부품 전문기업 유라코퍼레이션이 멕시코 산루이스포토시(SLP)주 시우다드바예스(Ciudad Valles)를 신규 생산 거점 후보지로 검토하고 있다. 현지 투자자가 산업 시설을 건립하면 유라코퍼레이션이 이를 장기...",
+          "src": "the-today",
+          "date": "10/23",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
+          "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
         },
         {
-          "title": "GM, 차량용 AI ‘온스타’ 공개… 자율주행 실내 활용도 확대",
-          "desc": "관리자는 AI 비서에 자연어로 질문해 주요 추세를 확인하고 차량 활용도를 높이기 위한 의사결정에 활용할 수 있다. GM은 자율주행 기술 발전에 따라 차량 실내의 역할도 달라질 것으로 보고 있다. 컨셉 호라이즌은 차량이...",
-          "src": "동아일보",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/020/0003757931?sid=103",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/27/134915247.2.jpg"
+          "title": "[미르의 글로벌 레이더]유라코퍼레이션, 멕시코 신규 거점 검토…2만500...",
+          "desc": "현대차·기아에 자동차 배선과 전장부품을 공급하는 유라코퍼레이션이 멕시코 산루이스포토시주 시우다드 바예스를 신규 사업 거점 후보지로 검토하고 있는 것으로...",
+          "src": "mediapen",
+          "date": "10/23",
+          "url": "https://www.mediapen.com/news/view/1131906",
+          "img": "https://image.mediapen.com/news/202610/news_1131906_1792713250_m.png"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
-          "desc": "핵심 부품이다. 나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기 등에 카메라 모듈을 공급해 온... 앞서 올해 1월 글로벌 완성차 기업의 로봇 플랫폼에 적용될 3차원(3D) 센싱 카메라 모듈 협력사로 선정됐다고...",
-          "src": "news2day",
+          "title": "동원파츠 \"AI 반도체 호황 타고 고성장세\"…코스닥 상장 도전",
+          "desc": "동원파츠는 삼성전자의 장비 관련 자회사인 세메스와 글로벌 장비사인 램리서치를 고객사로 두고 있다. 조... 이 회사는 챔버부품 관련 독점 협력사로 등록돼 있다고 밝혔다. 이같은 고객사 확대와 함께 고마진...",
+          "src": "daily",
           "date": "10/27",
-          "url": "https://www.news2day.co.kr/article/20261027500081",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418889",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1418889_1597823_2125_v150.jpg"
         },
         {
-          "title": "AI 거품론 속 삼성·SK하이닉스 실적 시험대",
-          "desc": "삼성전자와 SK하이닉스 모두 고대역폭 메모리 생산을 늘리기 위한 설비 투자를 지속해왔고, 두 기업의 실적 흐름은 국내 반도체 생태계 전반에 영향을 미칠 수밖에 없는 구조다. 메모리 반도체 공급망에는 소재, 부품, 장비...",
-          "src": "고코리아",
+          "title": "전자업계, 반도체 호황에 원가부담 가중…부품사까지 비용절감",
+          "desc": "삼성전자와 LG전자도 TV 시장에서 유기발광다이오드(OLED), 마이크로 RGB 등 프리미엄 제품군을 강화하고 있다. 부품 구매비용을 낮추려는 움직임도 나타나고 있다. LG 올레드 TV. 연합뉴스 애플 등 주요 완제품 제조사가...",
+          "src": "서울경제뉴스",
           "date": "10/27",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=882859",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/882859_160351_747_v150.jpg"
+          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94613",
+          "img": "http://www.seouleconews.com/news/thumbnail/202610/94613_101825_78_v150.jpg"
         },
         {
-          "title": "갤럭시 카메라 만들던 나무가…현대차 '아틀라스' 공급망 기대에 23% 급...",
-          "desc": "나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기에 카메라 모듈을 공급하는 업체다. 27일 한국거래소에... 특히 카메라 모듈 전문기업인 나무가가 글로벌 완성차 기업의 로봇 플랫폼 협력사로 선정된 데 이어 아틀라스...",
-          "src": "newsquest",
+          "title": "[특징주] 나무가, 현대차그룹 로봇 핵심 부품 공급 기대감에 매수세 폭...",
+          "desc": "모듈 협력사로 선정된 바 있다. 시장 조사기관 및 리서치에 따르면 지난 6월에는 로봇 전용 생산라인 구축까지 마치며 양산 준비를 본격화했다. 한편, 2004년 설립된 나무가는 삼성전자 갤럭시 스마트폰 등에 주요 제품을...",
+          "src": "widedaily",
           "date": "10/27",
-          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303466",
-          "img": "https://cdn.newsquest.co.kr/news/photo/202610/303466_204174_120.png"
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=302370",
+          "img": "https://cdn.widedaily.com/news/thumbnail/202610/302370_309844_1731_v150.jpg"
         },
         {
-          "title": "[애프터마켓 리뷰] 루닛, 미 서밋과 항암 신약 개발 협력에 급등",
-          "desc": "카메라 협력사로 선정됐고 로봇 전용 생산라인도 이미 구축한 상태입니다. 단순 부품 공급을 넘어 로봇... 그래도 메인 마켓과 달리, 애프터마켓에서는 삼성전자 0.70% 하락한 반면, SK하이닉스는 양전에 성공하면서 1%대...",
-          "src": "biz",
+          "title": "[IPO챗] 동원파츠 \"글로벌 장비사 매출 비중 70%대로 확대 계획\"",
+          "desc": "2023년에는 어플라이드 머티어리얼즈의 협력사로 등록하기도 했다. 이들 장비사의 제품에 동원파츠 부품이 탑재돼 삼성전자와 SK하이닉스, 인텔, TSMC 등 반도체 제조사에 공급되는 식이다. 특히 회사 측은 램리서치의...",
+          "src": "연합뉴스",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/374/0000539910?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/10/27/MEl1793054902041.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016403352?sid=101",
+          "img": "https://img1.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027119800008_01_i_P4.jpg"
         }
       ]
     },
@@ -173,23 +173,58 @@ window.NEWS_DATA = {
           "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
         }
       ]
+    },
+    {
+      "cls": "ai",
+      "icon": "🤖",
+      "title": "AI 동향",
+      "color": "#00a86b",
+      "items": [
+        {
+          "title": "한국수자원공사, AI·사족보행 로봇으로 누수 탐사…39개 기업과 물관리...",
+          "desc": "인공지능(AI)과 사족보행 로봇, 위성·드론 기술이 물관리 현장에 본격적으로 도입된다. 한국수자원공사가... 필요한 기술을 공동으로 개발·검증하는 방식이다. 주요 과제는 위성영상과 드론을 활용한 시설 감시, 사족보행...",
+          "src": "e-science",
+          "date": "10/27",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138296",
+          "img": "https://cdn.e-science.co.kr/news/photo/202610/138296_71172_4021.jpg"
+        },
+        {
+          "title": "현대해상, 전사 AI 전환 속도…업무 혁신 사례 공유",
+          "desc": "이날 기조연설에 나선 김택수 현대해상 기술지원부문장(CTO) 부사장은 \"AX는 단순히 AI 기술을 도입하는 것을 넘어 이를 활용해 업무를 혁신하고 고객에게 더 큰 가치를 제공하는 과정\"이라고 말했다. 이어 \"개인의 작은...",
+          "src": "megaeconomy",
+          "date": "10/27",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594808389927",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261027/p1065594808389927_248_thum.jpg"
+        },
+        {
+          "title": "한국공항공사, 김포공항 국제선 주차장서 AI 로봇 발레파킹 시범 운영",
+          "desc": "인공지능(AI) 기반 로봇 발레파킹 서비스를 도입한다. 이용객이 지정 구역에 차량을 맡기면 로봇이 주차면까지 자동으로 옮기는 방식으로, 공항 주차 편의를 높이고 주차 공간 활용 효율을 개선한다는 계획이다....",
+          "src": "financialreview",
+          "date": "10/27",
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45858",
+          "img": "http://www.financialreview.co.kr/news/thumbnail/202610/45858_68843_3846_v150.jpg"
+        },
+        {
+          "title": "LG CNS, 준법경영 국제 인증…“AI·클라우드 등 미래 사업 전반 적용 가...",
+          "desc": "미래 기술 발전이 속도를 내는 상황에서 법적 인증을 획득하며 사업 기반을 위한 정당성을 강화하고 있다. LG CNS는 최근 준법경영 시스템 국제표준 ‘ISO 37301’ 인증을 획득했다고 27일 밝혔다. 최근 AI 도입이...",
+          "src": "munhwa",
+          "date": "10/27",
+          "url": "https://n.news.naver.com/mnews/article/021/0002828213?sid=101",
+          "img": "https://wimg.munhwa.com/news/cms/2026/10/27/news-p.v1.20261027.8972e8b7096343979b88386e1158f181_R.jpg"
+        }
+      ]
     }
   ],
   "ranking": [
     {
-      "title": "오승환 “선수시절 삼성서 받은 금 1000돈 넘는다”",
-      "url": "https://m.entertain.naver.com/article/016/0002714791",
-      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/rcv.YNA.20250930.PYH2025093024650005300_P1.jpg"
+      "title": "4만개 기업 참여 '코리아 그랜드 페스티벌' 29일 개막…우본도 동참",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710097",
+      "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/710097_657662_2435.png"
     },
     {
-      "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
-      "url": "https://www.news2day.co.kr/article/20261027500081",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
-    },
-    {
-      "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
+      "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700126.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
     },
     {
       "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
@@ -197,14 +232,19 @@ window.NEWS_DATA = {
       "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
     },
     {
-      "title": "경산시, 국산 AI반도체 실증 거점으로 뜬다…퓨리오사AI ‘레니게이드’...",
-      "url": "https://n.news.naver.com/mnews/article/031/0001069568?sid=102",
-      "img": "https://image.inews24.com/v1/0f831107eb78fe.jpg"
+      "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
     },
     {
-      "title": "대면 이벤트 공간 중개 플랫폼 '쉐어잇', AI 상담 서비스 출시",
-      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215373",
-      "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/215373_139714_2152_v150.jpg"
+      "title": "코나, 내년 3월 ‘풀체인지’로 출격…셀토스 독주에 도전장 [여車저車...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002715041?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20260407.08c833489d0546ebb770c8030e4c783e_P1.jpg"
+    },
+    {
+      "title": "현대자동차, WHE 2026서 수소전기차 '넥쏘'·수소충전로봇 공개... \"수소...",
+      "url": "https://kr.aving.net/news/articleView.html?idxno=1816196",
+      "img": "https://cdn.kr.aving.net/news/photo/202610/1816196_784124_2722.png"
     }
   ]
 };
