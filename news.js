@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.27 (화) 06:02",
+  "updatedAt": "2026.10.27 (화) 10:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[이재용 취임 4년-과제] ②미완의 ‘뉴삼성’…파운드리·완제품 부진에...",
-          "desc": "삼성전자 파운드리의 글로벌 시장점유율은 5.9% 수준에 머물러 있으며, 선두인 대만 TSMC와의 격차는 좀처럼... 스마트폰, TV, 생활가전을 담당하는 DX(디바이스경험) 부문은 부품 가격 인상이 완제품 원가 부담으로...",
-          "src": "dnews",
+          "title": "오승환 “선수시절 삼성서 받은 금 1000돈 넘는다”",
+          "desc": "정호철이 “삼성인데 금만 받았냐”고 묻자 오승환은 “가전제품도 많이 받았다”고 했다. 그는 “470돈 공을 받으면서 삼성전자에서 가전제품 팸플릿을 주더라”고 말했다.",
+          "src": "헤럴드경제",
           "date": "10/27",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260955495430068",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/10/26/202610260955495430068-2-700369.png"
+          "url": "https://m.entertain.naver.com/article/016/0002714791",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/rcv.YNA.20250930.PYH2025093024650005300_P1.jpg"
+        },
+        {
+          "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
+          "desc": "나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기 등에 카메라 모듈을 공급해 온 업체다. 최근에는 기존 모바일 중심 사업에서 로봇과 모빌리티 분야로 영역을 확대하고 있다. 앞서 올해 1월 글로벌 완성차...",
+          "src": "news2day",
+          "date": "10/27",
+          "url": "https://www.news2day.co.kr/article/20261027500081",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
         },
         {
           "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
         },
         {
-          "title": "고물가 시대, 통신·가전구독 경쟁력 개선",
-          "desc": "공기청정기·김치냉장고·세탁기·식기세척기는 78점, 에어컨·무선청소기·의류건조기·의류관리기... LG전자 구독이 74점으로 1점, 삼성전자 AI 구독클럽이 68점으로 3점 올라 두 브랜드가 모두 개선됐다. 아파트는...",
-          "src": "매일경제",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/009/0005754145?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/27/20261027_01110204000003_L00.jpg"
-        },
-        {
-          "title": "코웨이 '에어메가 마이티2', 美 타임 '2026 최고의 발명품'에 이름 올려",
-          "desc": "이 가운데 삼성전자 냉장고는 코웨이 제품과 같은 생활가전 부문에서 선정됐다. 에어메가 마이티2는 북미에서 판매돼 온 '에어메가 마이티'의 후속 모델이다. 전작은 뉴욕타임스(NYT)의 제품 리뷰 매체...",
-          "src": "tournews21",
-          "date": "10/26",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146666",
-          "img": "https://cdn.tournews21.com/news/photo/202610/146666_273233_2557.jpg"
+          "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
+          "desc": "삼성전자와 삼성자동차를 거쳐 독일 자동차부품업체 보쉬에서 근무했으며, 2018년 말 LG전자에 전무로... 영남대 전자공학과를 졸업하고 1995년 LG전자에 입사한 백 부사장은 세탁기 구매그룹장...",
+          "src": "dealsite",
+          "date": "10/27",
+          "url": "https://dealsite.co.kr/articles/171280",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "로봇에 일 가르치고 운영까지…통신사, 새 먹거리 찾는다",
-          "desc": "통신망과 데이터센터, 인공지능(AI) 기술을 결합해 로봇 도입 이후에도 지속적으로 수익을 창출할 수 있는... 국내 통신사들도 로봇 학습에 필요한 데이터를 생산하거나 작업 경험을 축적·활용하는 기술 개발에 나섰다....",
-          "src": "디지털데일리",
+          "title": "경산시, 국산 AI반도체 실증 거점으로 뜬다…퓨리오사AI ‘레니게이드’...",
+          "desc": "특히 제조기업들이 AI 기술을 도입하는 과정에서 겪는 인프라 확보와 기술 검증 부담을 줄이는 데 초점을 맞추고 있다. 제조업 현장에서 AI를 활용하려면 데이터 처리와 모델 운영에 필요한 컴퓨팅 자원은 물론 실제...",
+          "src": "아이뉴스24",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/138/0002246072?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/26/2026102616493236946_l.png"
+          "url": "https://n.news.naver.com/mnews/article/031/0001069568?sid=102",
+          "img": "https://image.inews24.com/v1/0f831107eb78fe.jpg"
         },
         {
-          "title": "‘아이폰 쇼크’에 첫 창업, ‘알파고 쇼크’에 또 창업…세상 뒤집힐 ...",
-          "desc": "접목해 상담 내용 기록·분석과 업무 자동화 등에 활용할 계획이다. 그는 “인터넷과 모바일 시대에는 스타트업이 새로운 시장을 만들었다면 AI 시대에는 기존 산업과 기술을 결합하는 역량이 더욱 중요하다”고 강조했다.",
-          "src": "한국경제",
+          "title": "하나자산운용, 1Q 미국AI테크플랫폼TOP10 신규 상장",
+          "desc": "이번 상품은 AI 산업이 반도체·데이터센터 중심의 인프라 구축 단계를 넘어 실제 서비스와 업무에 활용되... 등 AI 도입과 운영에 필수적인 서비스 수요 증가에 주목했다. 기초지수는 'iSelect 미국AI테크플랫폼TOP10...",
+          "src": "wowtv",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/015/0005346787?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/01.46194448.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/215/0001270596?sid=101",
+          "img": ""
         },
         {
-          "title": "AI 시대, 동맹 간 신뢰 더 중요해진다",
-          "desc": "따라서 AI 투자의 성과는 새로운 기술의 도입 규모보다 실제 전투력 향상으로 평가해야 한다. 한·미 연합방위의 새로운 경쟁력 AI의 군사적 활용이 확대되면서 한·미 연합방위체제의 상호운용성도 새로운 국면을 맞았다....",
-          "src": "조선일보",
+          "title": "대면 이벤트 공간 중개 플랫폼 '쉐어잇', AI 상담 서비스 출시",
+          "desc": "비교표는 PDF로 내려받아 내부 보고나 장소 선정에 활용할 수 있고, 실제 예약은 기존 플랫폼 절차로... 견적 및 예약 과정까지 AI와 자동화 기술을 확대 적용해 이벤트 중개 시장의 디지털 전환을 앞당기겠다\"고 덧붙였다.",
+          "src": "datanet",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/053/0000062606?sid=104",
-          "img": "https://cdn.weekly.chosun.com/news/thumbnail/202610/56485_86937_344_v150.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215373",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/215373_139714_2152_v150.jpg"
         },
         {
-          "title": "로봇 밀도 세계 1위? 피지컬 AI 인재는 준비됐나 [이승현의 AI 네이티브...",
-          "desc": "준비도가 높거나 매우 높다는 응답이 19%로, 기술 인프라(42%)나 전략(41%)의 절반에도 못 미쳤고 전년보다 6%포인트 떨어졌다. 더 눈여겨볼 대목은 직원의 AI 활용 역량을 높이는 교육을 한다는 기업은 53%였는데, AI에 맞춰...",
-          "src": "조선일보",
+          "title": "GM, 차량용 AI ‘온스타’ 공개… 자율주행 실내 활용도 확대",
+          "desc": "관리자는 AI 비서에 자연어로 질문해 주요 추세를 확인하고 차량 활용도를 높이기 위한 의사결정에 활용할 수 있다. GM은 자율주행 기술 발전에 따라 차량 실내의 역할도 달라질 것으로 보고 있다. 컨셉 호라이즌은 차량이...",
+          "src": "동아일보",
           "date": "10/27",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172828",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092172828_455601_451_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003757931?sid=103",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/27/134915247.2.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성, 갤럭시A 1000만 대 덜 만드나… 칩값 급등에 공급망 긴장",
-          "desc": "변수 삼성전자의 보급형 물량 조정이 현실화할 경우 부품 공급망 구조상 한국 협력업체 역시 수주 둔화 영향을 피하기 어려울 것으로 보인다. 카메라 모듈과 인쇄회로기판처럼 보급형 제품 납품 비중이 높은 협력사들은...",
-          "src": "g-enews",
+          "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
+          "desc": "핵심 부품이다. 나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기 등에 카메라 모듈을 공급해 온... 앞서 올해 1월 글로벌 완성차 기업의 로봇 플랫폼에 적용될 3차원(3D) 센싱 카메라 모듈 협력사로 선정됐다고...",
+          "src": "news2day",
           "date": "10/27",
-          "url": "https://www.g-enews.com/view.php?ud=20261026171831241fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102617210201378fbbec65dfb211211153121.jpg"
+          "url": "https://www.news2day.co.kr/article/20261027500081",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
         },
         {
-          "title": "[기자수첩] 삼성은 덜어야 했고, 애플은 더해야 했다",
-          "desc": "삼성전자와 삼성디스플레이의 협력사 중에는 폴더블폰 부품 생산이력이 최대 7년에 이르는 업체도 있었지만, 애플은 납품이력보다 자신의 주도권이 중요했다. 존 터너스 애플 CEO가 지난 9월 첫 번째 폴더블폰 아이폰...",
-          "src": "ZDNet코리아",
+          "title": "AI 거품론 속 삼성·SK하이닉스 실적 시험대",
+          "desc": "삼성전자와 SK하이닉스 모두 고대역폭 메모리 생산을 늘리기 위한 설비 투자를 지속해왔고, 두 기업의 실적 흐름은 국내 반도체 생태계 전반에 영향을 미칠 수밖에 없는 구조다. 메모리 반도체 공급망에는 소재, 부품, 장비...",
+          "src": "고코리아",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/092/0002442463?sid=110",
-          "img": "https://image.zdnet.co.kr/2026/10/27/5711cfc3ae5b0f4e09a4c281a385cbd1.png"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=882859",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/882859_160351_747_v150.jpg"
         },
         {
-          "title": "[영상] 구매한지 6시간만에 화면이 ‘쩍’…아이폰 듀오의 처참한 내구...",
-          "desc": "넬슨은 “이제 수리비로 1000달러가 나가게 생겼다”라며 “삼성전자의 ‘갤럭시Z 폴드8’을 같은 방식으로... 파인엠텍은 직접적으로 아이폰 듀오를 언급하지 않았지만, 애플의 협력사로서 부품을 공급 중인만큼 대응에...",
-          "src": "매일경제",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/009/0005754341?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202610/26/news-p.v1.20261026.3bf6102c17904f6ea7016071f9232dd2_R.png"
+          "title": "갤럭시 카메라 만들던 나무가…현대차 '아틀라스' 공급망 기대에 23% 급...",
+          "desc": "나무가는 삼성전자 갤럭시 스마트폰과 로봇청소기에 카메라 모듈을 공급하는 업체다. 27일 한국거래소에... 특히 카메라 모듈 전문기업인 나무가가 글로벌 완성차 기업의 로봇 플랫폼 협력사로 선정된 데 이어 아틀라스...",
+          "src": "newsquest",
+          "date": "10/27",
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303466",
+          "img": "https://cdn.newsquest.co.kr/news/photo/202610/303466_204174_120.png"
         },
         {
-          "title": "호남권 반도체 성공 열쇠는 정주 여건… ‘공장’ 아닌 ‘생태계’ 갖춰...",
-          "desc": "삼성전자와 SK하이닉스가 정부에 제출한 자료를 보면, 호남 반도체 메가특구에 짓는 팹 4기와 협력사가 쓸... TSMC는 JASM 공장에도 대만 기업의 장비·부품·공정을 그대로 옮겨왔다. 새로운 지역 협력사를 찾기보다 기존...",
-          "src": "한겨레",
-          "date": "10/26",
-          "url": "https://n.news.naver.com/mnews/article/036/0000054368?sid=101",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/970/637/imgdb/original/2026/1022/20261022503834.jpg"
+          "title": "[애프터마켓 리뷰] 루닛, 미 서밋과 항암 신약 개발 협력에 급등",
+          "desc": "카메라 협력사로 선정됐고 로봇 전용 생산라인도 이미 구축한 상태입니다. 단순 부품 공급을 넘어 로봇... 그래도 메인 마켓과 달리, 애프터마켓에서는 삼성전자 0.70% 하락한 반면, SK하이닉스는 양전에 성공하면서 1%대...",
+          "src": "biz",
+          "date": "10/27",
+          "url": "https://n.news.naver.com/mnews/article/374/0000539910?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/10/27/MEl1793054902041.jpg"
         }
       ]
     },
@@ -177,9 +177,14 @@ window.NEWS_DATA = {
   ],
   "ranking": [
     {
-      "title": "[이재용 취임 4년-과제] ②미완의 ‘뉴삼성’…파운드리·완제품 부진에...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260955495430068",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/10/26/202610260955495430068-2-700369.png"
+      "title": "오승환 “선수시절 삼성서 받은 금 1000돈 넘는다”",
+      "url": "https://m.entertain.naver.com/article/016/0002714791",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/rcv.YNA.20250930.PYH2025093024650005300_P1.jpg"
+    },
+    {
+      "title": "[N2 증시 풍향계] ‘삼전·닉스’ 끌고 ‘소부장’ 밀고 반도체株 대거...",
+      "url": "https://www.news2day.co.kr/article/20261027500081",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/10/27/.cache/512/20261027500066.jpg"
     },
     {
       "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
@@ -187,24 +192,19 @@ window.NEWS_DATA = {
       "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
     },
     {
-      "title": "고물가 시대, 통신·가전구독 경쟁력 개선",
-      "url": "https://n.news.naver.com/mnews/article/009/0005754145?sid=105",
-      "img": "https://pimg.mk.co.kr/news/cms/202610/27/20261027_01110204000003_L00.jpg"
+      "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
+      "url": "https://dealsite.co.kr/articles/171280",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
     },
     {
-      "title": "코웨이 '에어메가 마이티2', 美 타임 '2026 최고의 발명품'에 이름 올려",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=146666",
-      "img": "https://cdn.tournews21.com/news/photo/202610/146666_273233_2557.jpg"
+      "title": "경산시, 국산 AI반도체 실증 거점으로 뜬다…퓨리오사AI ‘레니게이드’...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001069568?sid=102",
+      "img": "https://image.inews24.com/v1/0f831107eb78fe.jpg"
     },
     {
-      "title": "로봇에 일 가르치고 운영까지…통신사, 새 먹거리 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002246072?sid=105",
-      "img": "https://www.ddaily.co.kr/photos/2026/10/26/2026102616493236946_l.png"
-    },
-    {
-      "title": "‘아이폰 쇼크’에 첫 창업, ‘알파고 쇼크’에 또 창업…세상 뒤집힐 ...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346787?sid=101",
-      "img": "https://img.hankyung.com/photo/202610/01.46194448.1.jpg"
+      "title": "대면 이벤트 공간 중개 플랫폼 '쉐어잇', AI 상담 서비스 출시",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215373",
+      "img": "https://cdn.datanet.co.kr/news/thumbnail/202610/215373_139714_2152_v150.jpg"
     }
   ]
 };
