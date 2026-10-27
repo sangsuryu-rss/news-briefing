@@ -32,9 +32,11 @@ import requests
 SECTIONS = [
     {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "sort": "date", "count": 4,
      "queries": ["삼성전자 가전", "삼성전자 로봇청소기", "삼성전자 건조기", "삼성전자 세탁기", "삼성전자 냉장고"]},
-    {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
+    {"cls": "auto",    "icon": "🚗", "title": "자동차·유라",       "color": "#0d9488", "sort": "date", "count": 4,
+     "queries": ["유라코퍼레이션", "현대차그룹 전동화"]},
     {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
     {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
+    {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
 ]
 
 # 언론사 도메인 → 한글 표기 (없으면 도메인 그대로)
@@ -121,6 +123,15 @@ def og_image(url: str) -> str:
     return ""
 
 
+def _pub_ts(pub):
+    """pubDate → 정렬용 epoch(최신순). 실패 시 0."""
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(pub).timestamp()
+    except Exception:
+        return 0.0
+
+
 def search_news(query: str, count: int, sort: str = "date", with_image: bool = True):
     """네이버 뉴스 검색. 결과가 count 개가 될 때까지 유효 기사 수집."""
     if not CLIENT_ID or not CLIENT_SECRET:
@@ -146,6 +157,7 @@ def search_news(query: str, count: int, sort: str = "date", with_image: bool = T
             "url": link,
             "img": og_image(art_url) if with_image else "",
             "_src": art_url,
+            "_ts": _pub_ts(it.get("pubDate", "")),
         })
         if len(items) >= count:
             break
@@ -177,6 +189,7 @@ def collect_section(sec):
                 if len(merged) >= n:
                     break
         i += 1
+    merged.sort(key=lambda x: x.get("_ts", 0), reverse=True)   # 섹션 안에서 최신 기사 먼저
     for it in merged:            # 최종 선정분만 대표이미지 수집
         it["img"] = og_image(it["_src"])
     return merged
@@ -212,6 +225,7 @@ def main():
             items = []
         for it in items:
             it.pop("_src", None)   # 내부용 필드 제거
+            it.pop("_ts", None)
         sections.append({k: sec[k] for k in ("cls", "icon", "title", "color")} | {"items": items})
         all_items += items
 
