@@ -20,9 +20,9 @@ header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap
 .main-wrap{min-width:0}
 @media(max-width:1024px){.page-layout{grid-template-columns:1fr}}
 .section-title{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:700;margin:24px 0 12px;padding-left:10px;border-left:5px solid #1428a0}
-.section-title.ai{border-left-color:#00a86b}.section-title.harness{border-left-color:#e8842c}.section-title.partner{border-left-color:#7b3fe4}
+.section-title.ai{border-left-color:#00a86b}.section-title.harness{border-left-color:#e8842c}.section-title.partner{border-left-color:#7b3fe4}.section-title.auto{border-left-color:#0d9488}
 .section-title .badge{font-size:11px;font-weight:600;color:#fff;background:#1428a0;padding:2px 8px;border-radius:10px}
-.section-title.ai .badge{background:#00a86b}.section-title.harness .badge{background:#e8842c}.section-title.partner .badge{background:#7b3fe4}
+.section-title.ai .badge{background:#00a86b}.section-title.harness .badge{background:#e8842c}.section-title.partner .badge{background:#7b3fe4}.section-title.auto .badge{background:#0d9488}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
 .card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08);text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s;border:1px solid #eaeaea}
 .card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
@@ -33,7 +33,7 @@ header.top .hd-right{display:flex;flex-direction:column;align-items:flex-end;gap
 .card-desc{font-size:12px;color:#555;flex:1;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .card-meta{margin-top:8px;font-size:11px;color:#999}
 .card-meta .src{color:#1428a0;font-weight:600}
-.sec-ai .card-meta .src{color:#00a86b}.sec-harness .card-meta .src{color:#e8842c}.sec-partner .card-meta .src{color:#7b3fe4}
+.sec-ai .card-meta .src{color:#00a86b}.sec-harness .card-meta .src{color:#e8842c}.sec-partner .card-meta .src{color:#7b3fe4}.sec-auto .card-meta .src{color:#0d9488}
 .side-col{display:flex;flex-direction:column;gap:14px}
 @media(min-width:1025px){.side-col{position:sticky;top:16px}}
 .widget{background:#fff;border-radius:14px;box-shadow:0 1px 4px rgba(0,0,0,.09);border:1px solid #eaeaea;overflow:hidden}
@@ -106,6 +106,14 @@ footer.foot{margin-top:28px;text-align:center;font-size:11px;color:#bbb}
 .festival-banner .fest-dday .dday-val{font-size:20px;font-weight:900;color:#ffd700;line-height:1.1}
 .festival-banner .fest-dday .dday-date{font-size:10px;color:rgba(255,255,255,.6);margin-top:2px}
 .data-error{background:#fff3f3;border:1px solid #ffd0d0;color:#c0392b;border-radius:12px;padding:16px 18px;font-size:13px;margin-bottom:18px}
+.gw-bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.gw-btn{display:inline-flex;align-items:center;gap:7px;font-size:13px;font-weight:700;background:#1428a0;color:#fff;border-radius:10px;padding:9px 16px;text-decoration:none;box-shadow:0 2px 8px rgba(20,40,160,.25);transition:transform .12s,box-shadow .12s;white-space:nowrap}
+.gw-btn:hover{transform:translateY(-1px);box-shadow:0 5px 14px rgba(20,40,160,.35)}
+.gw-notice{flex:1 1 240px;min-width:0;display:flex;align-items:center;gap:9px;font-size:13px;color:#333;background:#f1f4ff;border:1px solid #d8e0ff;border-radius:10px;padding:8px 14px}
+.gw-notice .gn-hd{font-weight:800;font-size:11px;color:#1428a0;white-space:nowrap}
+.gw-notice .gn-body{min-width:0;white-space:pre-line;line-height:1.5}
+.gw-notice.urgent{background:#fff0f0;border-color:#ffc4c4;color:#c0292e}
+.gw-notice.urgent .gn-hd{color:#e23b3b}
 </style>
 </head>
 <body>
@@ -181,7 +189,7 @@ function renderNews(){
       return '<span class="fest-badge'+(bd.highlight?' highlight':'')+'">'+esc(bd.text)+'</span>';
     }).join('');
     var links = (b.links||[]).map(function(lk){
-      return '<a class="fest-link" href="'+esc(lk.url)+'" target="_blank" rel="noopener">'+esc(lk.label)+'</a>';
+      return '<a class="gw-btn" href="'+esc(lk.url)+'" target="_blank" rel="noopener">'+esc(lk.label)+'</a>';
     }).join('');
 
     // 공지: notice.txt 를 실시간으로 읽음 — 파일에 글자가 있으면 표시, 비어 있으면 미표시
@@ -194,35 +202,17 @@ function renderNews(){
       ntext = (typeof b.notice === 'string') ? b.notice : (b.notice.text || '');
     }
 
-    // 오른쪽 영역(빨간 네모 자리): 공지 있으면 공지, 없으면 D-day, 둘 다 없으면 빈칸
+    // 공지 있으면 버튼 옆에 작은 공지바로 표시, 없으면 버튼만
     var rightHtml = '';
     if(ntext){
       var urgent = /^\s*(긴급|!)/.test(ntext) ? ' urgent' : '';   // '긴급' 또는 '!' 로 시작하면 빨간색 강조
-      rightHtml = '<div class="fest-notice'+urgent+'">'+
-                    '<div class="fn-hd">📢 공지사항</div>'+
-                    '<div class="fn-body">'+esc(ntext)+'</div>'+
+      rightHtml = '<div class="gw-notice'+urgent+'">'+
+                    '<span class="gn-hd">📢 공지</span>'+
+                    '<span class="gn-body">'+esc(ntext)+'</span>'+
                   '</div>';
-    } else if(b.dday){
-      var end2 = new Date(b.dday.date + 'T23:59:59+09:00');
-      var diff = Math.ceil((end2 - new Date())/(1000*60*60*24));
-      var dval = diff===0 ? 'D-Day' : 'D-'+diff;
-      rightHtml = '<div class="fest-dday"><div class="dday-label">'+esc(b.dday.label||'')+'</div>'+
-                  '<div class="dday-val">'+dval+'</div>'+
-                  '<div class="dday-date">'+esc(b.dday.dateText||'')+'</div></div>';
     }
 
-    slot.innerHTML =
-      '<div class="festival-banner'+(ntext?'':' solo')+'">'+
-        '<div class="fest-gw">'+
-          '<div class="fest-icon">'+esc(b.icon||'📢')+'</div>'+
-          '<div class="fest-body">'+
-            '<div class="fest-title">'+esc(b.title||'')+'</div>'+
-            '<div class="fest-desc">'+esc(b.desc||'')+'</div>'+
-            (badges?'<div class="fest-badge-wrap">'+badges+'</div>':'')+
-            (links?'<div class="fest-link-wrap">'+links+'</div>':'')+
-          '</div>'+
-        '</div>'+ rightHtml +
-      '</div>';
+    slot.innerHTML = '<div class="gw-bar">'+ links + rightHtml +'</div>';
   })();
 
   // 뉴스 카드 썸네일 (이미지 없으면 색상 플레이스홀더)
@@ -235,7 +225,7 @@ function renderNews(){
   }
 
   // 섹션 렌더
-  var secClsMap = {'ai':'sec-ai','harness':'sec-harness','partner':'sec-partner','':''};
+  var secClsMap = {'ai':'sec-ai','harness':'sec-harness','partner':'sec-partner','auto':'sec-auto','':''};
   var html = '';
   D.sections.forEach(function(sec){
     var color = sec.color || '#1428a0';
