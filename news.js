@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.27 (화) 15:43",
+  "updatedAt": "2026.10.27 (화) 15:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "4만개 기업 참여 '코리아 그랜드 페스티벌' 29일 개막…우본도 동참",
-          "desc": "현대자동차와 기아 등 국내 완성차 5개 업체와 삼성전자, LG전자는 11월 1일부터 주요 차종과 가전제품을 할인 판매한다. 대형마트에서는 농축수산물과 가공식품 등을 최대 50% 할인하고 백화점에서는 겨울철 의류를...",
-          "src": "digitaltoday",
+          "title": "자동차부터 한우까지…4만 기업 참여 ‘코리아 그랜드 페스티벌’ 29일...",
+          "desc": "삼성전자와 LG전자 역시 다음 달 1일부터 주요 가전제품 할인행사를 진행하며, 구체적인 대상 차종과 제품, 할인율은 같은 날 공개할 예정이다. 농축수산물 할인은 김장철 장바구니 부담을 낮추는 데 초점을 맞췄다....",
+          "src": "mediapen",
           "date": "10/27",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710097",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/710097_657662_2435.png"
+          "url": "https://www.mediapen.com/news/view/1132864",
+          "img": "https://image.mediapen.com/news/202610/news_1132864_1793083227_m.jpg"
         },
         {
           "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
@@ -181,45 +181,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한국수자원공사, AI·사족보행 로봇으로 누수 탐사…39개 기업과 물관리...",
-          "desc": "인공지능(AI)과 사족보행 로봇, 위성·드론 기술이 물관리 현장에 본격적으로 도입된다. 한국수자원공사가... 필요한 기술을 공동으로 개발·검증하는 방식이다. 주요 과제는 위성영상과 드론을 활용한 시설 감시, 사족보행...",
-          "src": "e-science",
+          "title": "[현장] 반세기 역사 IPARK현산 \"AI 접목 미래 주거란 바로 이것\" 목동 선...",
+          "desc": "라운지 입구에는 현대산업개발의 새로운 심볼과 함께 목동 신시가지의 역사성을 상징하는 국내 최초 도입... 인공지능(AI) 기술을 활용한 미래 주거 서비스도 이번 라운지의 핵심 콘텐츠 중 하나다. 현재는 AI 기반 로봇팔...",
+          "src": "financialpost",
           "date": "10/27",
-          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138296",
-          "img": "https://cdn.e-science.co.kr/news/photo/202610/138296_71172_4021.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282814",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202610/282814_374294_4419_v150.jpg"
         },
         {
-          "title": "현대해상, 전사 AI 전환 속도…업무 혁신 사례 공유",
-          "desc": "이날 기조연설에 나선 김택수 현대해상 기술지원부문장(CTO) 부사장은 \"AX는 단순히 AI 기술을 도입하는 것을 넘어 이를 활용해 업무를 혁신하고 고객에게 더 큰 가치를 제공하는 과정\"이라고 말했다. 이어 \"개인의 작은...",
-          "src": "megaeconomy",
+          "title": "한국건강관리협회, 세계은행과 아프리카 보건 현장 AI 활용 방안 논의",
+          "desc": "보건의료 AI 활용을 위한 협력을 기획할 예정”이라며 “한국이 보유한 우수한 노하우와 기술, 학습 경험을 개도국에 도입하고 지속적으로 협력할 수 있는 방안이 마련되기를 기대한다”라고 말했다. 건협 관계자는...",
+          "src": "busan",
           "date": "10/27",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594808389927",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261027/p1065594808389927_248_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/082/0001404321?sid=102",
+          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/10/27/2026102715400211845_m.JPG"
         },
         {
-          "title": "한국공항공사, 김포공항 국제선 주차장서 AI 로봇 발레파킹 시범 운영",
-          "desc": "인공지능(AI) 기반 로봇 발레파킹 서비스를 도입한다. 이용객이 지정 구역에 차량을 맡기면 로봇이 주차면까지 자동으로 옮기는 방식으로, 공항 주차 편의를 높이고 주차 공간 활용 효율을 개선한다는 계획이다....",
-          "src": "financialreview",
+          "title": "김재원 \"AI 음악, 사람이 창작 주체였느냐가 핵심\"…신탁·저작권료 분배...",
+          "desc": "것\"이라며 \"AI 활용 음악을 어떤 기준으로 신탁하고 저작권료를 분배할 것인지 이제는 구체적인 답을 찾아야 한다\"고 강조했다. 이어 \"기술의 발전과 창작자의 권리 보호가 서로 충돌하는 문제가 아니라고 생각한다\"며 \"AI가...",
+          "src": "뉴스핌",
           "date": "10/27",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45858",
-          "img": "http://www.financialreview.co.kr/news/thumbnail/202610/45858_68843_3846_v150.jpg"
+          "url": "https://www.newspim.com/news/view/20261027001159",
+          "img": "https://img.newspim.com/news/2026/10/27/2610271547113510_446_tc.jpg"
         },
         {
-          "title": "LG CNS, 준법경영 국제 인증…“AI·클라우드 등 미래 사업 전반 적용 가...",
-          "desc": "미래 기술 발전이 속도를 내는 상황에서 법적 인증을 획득하며 사업 기반을 위한 정당성을 강화하고 있다. LG CNS는 최근 준법경영 시스템 국제표준 ‘ISO 37301’ 인증을 획득했다고 27일 밝혔다. 최근 AI 도입이...",
-          "src": "munhwa",
+          "title": "신약 개발에 슈퍼컴 쓰는 美·英…박용갑 \"韓도 바이오 슈퍼컴 검토해야...",
+          "desc": "개발에 활용하고 있다. 반면 국내에서는 2020년 한국과학기술정보연구원(KISTI)의 '누리온'으로 코로나19... AI, 제약, 바이오헬스 강국 실현'이라며, 정부가 이 목표를 이루려면 의료·바이오 분야 슈퍼컴퓨터 도입을...",
+          "src": "betanews",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/021/0002828213?sid=101",
-          "img": "https://wimg.munhwa.com/news/cms/2026/10/27/news-p.v1.20261027.8972e8b7096343979b88386e1158f181_R.jpg"
+          "url": "https://www.betanews.net/article/view/beta202610270121",
+          "img": "https://www.betanews.net/data/beta/image/2026/10/27/beta20261027000108.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "4만개 기업 참여 '코리아 그랜드 페스티벌' 29일 개막…우본도 동참",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710097",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202610/710097_657662_2435.png"
+      "title": "자동차부터 한우까지…4만 기업 참여 ‘코리아 그랜드 페스티벌’ 29일...",
+      "url": "https://www.mediapen.com/news/view/1132864",
+      "img": "https://image.mediapen.com/news/202610/news_1132864_1793083227_m.jpg"
     },
     {
       "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
