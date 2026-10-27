@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.27 (화) 15:52",
+  "updatedAt": "2026.10.27 (화) 16:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "자동차부터 한우까지…4만 기업 참여 ‘코리아 그랜드 페스티벌’ 29일...",
-          "desc": "삼성전자와 LG전자 역시 다음 달 1일부터 주요 가전제품 할인행사를 진행하며, 구체적인 대상 차종과 제품, 할인율은 같은 날 공개할 예정이다. 농축수산물 할인은 김장철 장바구니 부담을 낮추는 데 초점을 맞췄다....",
-          "src": "mediapen",
+          "title": "“이재용이 직접 챙긴다” 삼성의 ‘비밀병기’",
+          "desc": "내년 1월 열리는 세계 최대 가전·정보기술(IT) 전시회 CES 2027 공개 준비 상황도 살펴볼 것으로 전해졌다. 삼성전자는 지난 7월 대표이사 직속으로 RX 사업추진실을 신설해 로봇 전략 수립부터 핵심기술 개발과...",
+          "src": "한국경제",
           "date": "10/27",
-          "url": "https://www.mediapen.com/news/view/1132864",
-          "img": "https://image.mediapen.com/news/202610/news_1132864_1793083227_m.jpg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000112437?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/AD.46209473.1.jpg"
+        },
+        {
+          "title": "中 하이얼, LG 거점 태국서 세탁기 공장 착공…중동 수출 경쟁",
+          "desc": "하이얼 제품을 취급하는 알자브르트레이딩은 12%, 삼성전자와 애드미럴 제품을 취급하는 유나이티드 마트불리그룹은 18%를 차지했다. 다만 해당 점유율은 세탁기와 건조기 등을 포함한 가정용 세탁가전 전체 시장...",
+          "src": "서울신문",
+          "date": "10/27",
+          "url": "http://www.metroseoul.co.kr/article/20261027500598",
+          "img": ""
+        },
+        {
+          "title": "이재용, 취임 4주년 맞아 로봇 개발 현장 방문… 휴머노이드 사업화 점...",
+          "desc": "삼성전자는 내년 1월 미국 라스베이거스에서 열리는 세계 최대 가전·정보기술(IT) 전시회 ‘CES 2027’에서 관련 로봇 기술을 공개하는 방안을 검토하고 있다. 삼성전자는 지난 7월 노태문 삼성전자 디바이스경험(DX)...",
+          "src": "조선일보",
+          "date": "10/27",
+          "url": "https://n.news.naver.com/mnews/article/366/0001200670?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/GMYDCNRXG5SGENRXHE2WIZRTGE.jpg?auth=18a13d3fac06a317234c8c25465dc3ea26537304cb377a13008e9c6dd825b9ce&width=1200&height=630&smart=true"
         },
         {
           "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "10/27",
           "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700126.html",
           "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
-        },
-        {
-          "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
-          "desc": "삼성전자와 삼성자동차를 거쳐 독일 자동차부품업체 보쉬에서 근무했으며, 2018년 말 LG전자에 전무로... 영남대 전자공학과를 졸업하고 1995년 LG전자에 입사한 백 부사장은 세탁기 구매그룹장...",
-          "src": "dealsite",
-          "date": "10/27",
-          "url": "https://dealsite.co.kr/articles/171280",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
-        },
-        {
-          "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
-          "desc": "삼성전자와 LG전자, 드리미, 쿠쿠, 경동나비엔 등 주요 가전 브랜드를 중심으로 상품군을 구성했으며, 로봇청소기와 냉장고, 세탁·건조기 등 대형가전뿐 아니라 온수매트와 카본매트 등 계절가전도 포함했다. 패션과...",
-          "src": "thefirstmedia",
-          "date": "10/26",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
         }
       ]
     },
@@ -61,20 +61,20 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "정의선 현대차 회장, '4선' 룰라 손잡고 브라질에 수소 거점 만드나",
+          "desc": "정 회장은 현대차그룹의 전동화 전략을 소개하는 한편, 평소 중요성을 역설해 온 수소의 필요성도 강조했다. 수소가 기후변화 대응의 핵심 수단이자 전동화를 보완하는 중요한 에너지원이라는 게 그의 생각이다. 정...",
+          "src": "insightkorea",
+          "date": "10/27",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257400",
+          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202610/257400_269914_3339_v150.jpg"
+        },
+        {
           "title": "코나, 내년 3월 ‘풀체인지’로 출격…셀토스 독주에 도전장 [여車저車...",
           "desc": "있던 전동화 선점 효과도 약해지고 있다. 이번 신형 코나의 승부처는 소프트웨어 중심 자동차(SDV)다. 신형 코나에는 현대차그룹의 차세대 인포테인먼트 시스템 ‘플레오스 커넥트’가 적용될 전망이다. 대화면...",
           "src": "헤럴드경제",
           "date": "10/27",
           "url": "https://n.news.naver.com/mnews/article/016/0002715041?sid=101",
           "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20260407.08c833489d0546ebb770c8030e4c783e_P1.jpg"
-        },
-        {
-          "title": "현대자동차, WHE 2026서 수소전기차 '넥쏘'·수소충전로봇 공개... \"수소...",
-          "desc": "현대자동차는 자동차를 넘어 미래 모빌리티 생태계로 사업 영역을 넓혀 온 기업으로, 전동화와 수소... 특히 현대자동차그룹은 수소의 생산부터 공급, 활용에 이르는 밸류체인 전반을 하나의 전시 구성으로 묶어...",
-          "src": "kr",
-          "date": "10/27",
-          "url": "https://kr.aving.net/news/articleView.html?idxno=1816196",
-          "img": "https://cdn.kr.aving.net/news/photo/202610/1816196_784124_2722.png"
         },
         {
           "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
@@ -181,45 +181,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[현장] 반세기 역사 IPARK현산 \"AI 접목 미래 주거란 바로 이것\" 목동 선...",
-          "desc": "라운지 입구에는 현대산업개발의 새로운 심볼과 함께 목동 신시가지의 역사성을 상징하는 국내 최초 도입... 인공지능(AI) 기술을 활용한 미래 주거 서비스도 이번 라운지의 핵심 콘텐츠 중 하나다. 현재는 AI 기반 로봇팔...",
-          "src": "financialpost",
+          "title": "'AI 토큰 공장' 가동하는 KT…모델 중개 넘어 생산자로(종합)",
+          "desc": "특히 과금에는 통신사업의 경험을 활용했다. 통화상세기록(CDR) 기술을 응용한 '토큰상세기록(TDR)'을 도입해 AI 모델별 토큰 사용량을 기록하고, 각 모델의 요금 정책에 따라 통합 청구하는 방식이다. 기업이 여러 모델을...",
+          "src": "디지털데일리",
           "date": "10/27",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282814",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202610/282814_374294_4419_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002246207?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/27/2026102716464054347_l.jpg"
         },
         {
-          "title": "한국건강관리협회, 세계은행과 아프리카 보건 현장 AI 활용 방안 논의",
-          "desc": "보건의료 AI 활용을 위한 협력을 기획할 예정”이라며 “한국이 보유한 우수한 노하우와 기술, 학습 경험을 개도국에 도입하고 지속적으로 협력할 수 있는 방안이 마련되기를 기대한다”라고 말했다. 건협 관계자는...",
-          "src": "busan",
+          "title": "SOOP 플레이디, 구글 AI 마케팅 콘테스트 수상",
+          "desc": "사내 AI 전담조직을 통해 임직원이 직접 업무용 AI 에이전트를 개발하는 등 내부 활용 역량을 강화하는 중이다. 조명진 플레이디 대표는 \"AI 시대 광고 운영의 경쟁력은 기술을 얼마나 빠르게 도입하느냐가...",
+          "src": "더뷰어스",
           "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/082/0001404321?sid=102",
-          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/10/27/2026102715400211845_m.JPG"
+          "url": "https://theviewers.co.kr/View.aspx?No=4283342",
+          "img": "https://cdn.coenworks.com/Files/30/News/202610/7122_20261027164948088.jpg"
         },
         {
-          "title": "김재원 \"AI 음악, 사람이 창작 주체였느냐가 핵심\"…신탁·저작권료 분배...",
-          "desc": "것\"이라며 \"AI 활용 음악을 어떤 기준으로 신탁하고 저작권료를 분배할 것인지 이제는 구체적인 답을 찾아야 한다\"고 강조했다. 이어 \"기술의 발전과 창작자의 권리 보호가 서로 충돌하는 문제가 아니라고 생각한다\"며 \"AI가...",
-          "src": "뉴스핌",
+          "title": "현대해상, 전사 AI 활용 확산…업무 혁신 사례 공유",
+          "desc": "현대해상이 임직원의 인공지능(AI) 활용 역량을 높이고 업무 혁신을 확산하기 위한 행사를 열었다. 개별... 기조연설에 나선 김택수 현대해상 기술지원부문장(CTO) 부사장은 AI 전환의 핵심은 기술 도입 자체가 아니라...",
+          "src": "뉴시스",
           "date": "10/27",
-          "url": "https://www.newspim.com/news/view/20261027001159",
-          "img": "https://img.newspim.com/news/2026/10/27/2610271547113510_446_tc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014282240?sid=101",
+          "img": "https://img1.newsis.com/2026/10/27/NISI20261027_0002274957_web.jpg"
         },
         {
-          "title": "신약 개발에 슈퍼컴 쓰는 美·英…박용갑 \"韓도 바이오 슈퍼컴 검토해야...",
-          "desc": "개발에 활용하고 있다. 반면 국내에서는 2020년 한국과학기술정보연구원(KISTI)의 '누리온'으로 코로나19... AI, 제약, 바이오헬스 강국 실현'이라며, 정부가 이 목표를 이루려면 의료·바이오 분야 슈퍼컴퓨터 도입을...",
-          "src": "betanews",
+          "title": "글로벌 기업 한 목소리 \"AI 인사 결정, 판단은 사람이\" [현장]",
+          "desc": "27일 서울 그랜드 하얏트 호텔에서 열린 주한미국상공회의소(암참) '2026 HR 워크숍'에서는 AI 도입에 따른 인력... 기술기업들은 AI 활용을 조직의 실제 성과와 연결해야 한다는 입장을 제시했다. 윤채은 구글 아시아태평양...",
+          "src": "디지털데일리",
           "date": "10/27",
-          "url": "https://www.betanews.net/article/view/beta202610270121",
-          "img": "https://www.betanews.net/data/beta/image/2026/10/27/beta20261027000108.jpg"
+          "url": "https://n.news.naver.com/mnews/article/138/0002246206?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/10/27/2026102715172193873_l.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "자동차부터 한우까지…4만 기업 참여 ‘코리아 그랜드 페스티벌’ 29일...",
-      "url": "https://www.mediapen.com/news/view/1132864",
-      "img": "https://image.mediapen.com/news/202610/news_1132864_1793083227_m.jpg"
+      "title": "“이재용이 직접 챙긴다” 삼성의 ‘비밀병기’",
+      "url": "https://n.news.naver.com/mnews/article/050/0000112437?sid=101",
+      "img": "https://img.hankyung.com/photo/202610/AD.46209473.1.jpg"
+    },
+    {
+      "title": "이재용, 취임 4주년 맞아 로봇 개발 현장 방문… 휴머노이드 사업화 점...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200670?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/GMYDCNRXG5SGENRXHE2WIZRTGE.jpg?auth=18a13d3fac06a317234c8c25465dc3ea26537304cb377a13008e9c6dd825b9ce&width=1200&height=630&smart=true"
     },
     {
       "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
@@ -227,14 +232,9 @@ window.NEWS_DATA = {
       "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
     },
     {
-      "title": "[LG전자 인사 시계] 장기 재임 지속·사장 승진…사업본부장단 변화 주...",
-      "url": "https://dealsite.co.kr/articles/171280",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/10/23/736f6c3907cb4c3790e09817a3aca05d/thumb.jpg"
-    },
-    {
-      "title": "11번가, '그랜드십일절' 앞두고 200여 종 사전예약 진행",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211746",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202610/211746_195734_3839_v150.jpg"
+      "title": "정의선 현대차 회장, '4선' 룰라 손잡고 브라질에 수소 거점 만드나",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257400",
+      "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202610/257400_269914_3339_v150.jpg"
     },
     {
       "title": "코나, 내년 3월 ‘풀체인지’로 출격…셀토스 독주에 도전장 [여車저車...",
@@ -242,9 +242,9 @@ window.NEWS_DATA = {
       "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20260407.08c833489d0546ebb770c8030e4c783e_P1.jpg"
     },
     {
-      "title": "현대자동차, WHE 2026서 수소전기차 '넥쏘'·수소충전로봇 공개... \"수소...",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1816196",
-      "img": "https://cdn.kr.aving.net/news/photo/202610/1816196_784124_2722.png"
+      "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
+      "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
     }
   ]
 };
