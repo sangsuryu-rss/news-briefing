@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.28 (수) 15:50",
+  "updatedAt": "2026.10.28 (수) 17:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "쿠팡, 다음 달 2일 '와우 멤버스데이'…할인 혜택 강화",
-          "desc": "이번 행사에는 삼성전자와 엘지전자, 다이슨, 씨제이제일제당 등 90여 개 인기 브랜드를 비롯해 수천 개 브랜드가 참여합니다. 상품 수는 37만여 개로, 식품과 생활용품, 가전·디지털, 뷰티, 패션 등 16개 카테고리에서...",
+          "title": "쿠팡, 90여개 인기 브랜드 참여…와우회원 전용 할인 확대",
+          "desc": "행사에는 삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당, 코카콜라, 청정원, 하림, 유한킴벌리 등 90여개 주요 브랜드를 포함해 수천개 브랜드가 참여한다. 할인 대상은 로켓프레시 신선식품과 가공식품, 생활용품, 가전...",
+          "src": "thepowernews",
+          "date": "10/28",
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202610281447161573de3f0aa1be_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261028144806055380de3f0aa1be2208661207.jpg&nmt=7"
+        },
+        {
+          "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으...",
+          "desc": "서울 강남구 코엑스에서 열린 제 28회 반도체대전(SEDEX 2026)의 삼성전자 부스에 차세대 고대역폭 메모리(HBM)인 HBM4E(7세대)가 전시돼 있다. [사진=연합뉴스] 셋째, 삼성전자와 SK하이닉스는 HBM의 성공에 안주해서는 안 된다....",
+          "src": "아주경제",
+          "date": "10/28",
+          "url": "https://www.ajunews.com/view/20261028172135342",
+          "img": "https://image.ajunews.com/content/image/2026/10/28/20261028172545760807.jpg"
+        },
+        {
+          "title": "[재계 투데이] 삼성전자, 한국품질만족지수 평가서 18년 연속 최다 부문...",
+          "desc": "삼성전자는 ▲냉장고 ▲김치냉장고 ▲올인원 세탁건조기 ▲드럼세탁기 ▲건조기 ▲에어컨 ▲의류관리기 ▲시스템냉난방기 ▲인덕션 ▲무선스틱청소기 등 생활가전 10개 제품군에서 최고 점수를 획득하며 1위를...",
           "src": "news",
           "date": "10/28",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115306",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115306_778238_4857_v150.jpg"
+          "url": "https://news.dealsitetv.com/articles/177674",
+          "img": ""
         },
         {
-          "title": "삼성전자, 亞 유일 글로벌 브랜드가치 5위…현대차 29위 기록",
-          "desc": "삼성전자가 28일 글로벌 브랜드 컨설팅 업체 인터브랜드가 발표한 '2026 글로벌 100대 브랜드'에서 종합... DX 부문은 모바일·TV·생활가전 등 전 제품에 개인화된 AI 경험과 연결성을 제공하고 있다. 최근에는 화면...",
-          "src": "jasm",
+          "title": "\"11월 쇼핑 대목 잡아라\"…유통업계, 대규모 할인전 총력",
+          "desc": "로봇청소기와 음식물처리기 등 가전제품도 할인 대상에 포함했다. 트레이더스와 이마트 에브리데이도... 삼성전자와 LG전자 등 90여개 대표 브랜드를 포함한 수천개 브랜드의 37만개 이상 상품을 최대 70% 할인 판매한다....",
+          "src": "daily",
           "date": "10/28",
-          "url": "https://www.jasm.co.kr/news/view/323255/?sc=Naver",
-          "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1793166014_323255_m_1.jpg"
-        },
-        {
-          "title": "삼성전자, '2026 KS-QEI' 18년 연속 최다 부문 1위 달성…\"생활가전 10개...",
-          "desc": "삼성전자가 한국표준협회(KSA)가 주관하는 '2026 한국품질만족지수(KS-QEI)' 조사에서 역대 최다 부문 1위... 이와 함께 ▲드럼세탁기(17년 연속 1위) ▲올인원 세탁건조기(3년 연속 1위) ▲김치냉장고(14년 연속 1위) 등...",
-          "src": "thepublic",
-          "date": "10/28",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324103",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/324103_327860_1614.jpg"
-        },
-        {
-          "title": "11번가, 상품 등록부터 첫 판매까지 지원…'신규셀러 성장미션' 마련",
-          "desc": "대표 상품은 로보락 로봇청소기 'Qrevo Curv 2 Flow'(59만 원), LG 트롬 오브제컬렉션 워시타워(247만 원대), 삼성전자 비스포크 양문형 냉장고(89만 원대) 등이다. 몽클레르·버버리 등 명품 패션과 가구, 식품도 포함됐다....",
-          "src": "소비자가만드는신문",
-          "date": "10/28",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=767004",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/767004_320198_3741_v150.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419223",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1419223_1598270_5112_v150.jpg"
         }
       ]
     },
@@ -61,20 +61,20 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대차 브랜드 가치 250억달러…세계 車 브랜드 4위 기록",
-          "desc": "인터브랜드 관계자는 “로보틱스와 전동화 등 미래 모빌리티 기술에서 실질적인 경쟁력을 입증하며... 올해의 차’ 대형 SUV 부문에서 수상했다. 로보틱스와 소프트웨어 분야 투자도 이어가고 있다. 현대차그룹의...",
-          "src": "조선일보",
+          "title": "현대차, 글로벌 브랜드 가치 250억달러…자동차 부문 첫 4위",
+          "desc": "전동화 대형 스포츠유틸리티차량(SUV) 아이오닉 9은 ‘2026 세계 여성 올해의 차’에서 최고의 대형 SUV로... 현대차그룹은 지난 1월 세계 최대 가전·정보기술 전시회 ‘CES 2026’에서 인간 중심 AI 로보틱스 생태계 전략과...",
+          "src": "todayeconomic",
           "date": "10/28",
-          "url": "https://n.news.naver.com/mnews/article/023/0004006442?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/GFTGIMRZG44DAY3GMVSGIOLFGM.jpg?auth=35549d71c64a9d55fcd9b6efc815c187e4b4822b75d0f72ca2f04b3307cf7594&width=1200&height=630&smart=true"
+          "url": "https://www.todayeconomic.com/news/article.html?no=32632",
+          "img": "https://www.todayeconomic.com/data/photos/20261044/art_17931760180749_d8e757.jpg"
         },
         {
-          "title": "현대차, 글로벌 브랜드 가치 250억 달러…자동차 톱4까지 올랐다",
-          "desc": "전동화 플래그십 SUV '아이오닉 9'은 '2026 세계 여성 올해의 차(Women's Worldwide Car of the Year, WWCOTY)'에서... 현대차그룹은 올해 1월 CES 2026에서 인간 중심 AI 로보틱스 생태계 전략과 중장기 사업화 계획, 기술 실증...",
-          "src": "newsroad",
+          "title": "현대차, 17년 연속 브랜드 가치 상승...세계 29위",
+          "desc": "전동화 플래그십 SUV '아이오닉 9'은 '2026 세계 여성 올해의 차(WWCOTY)'에서 최고의 대형 SUV 부문을... 현대차그룹은 지난 1월 'CES 2026'에서 인간 중심 AI 로보틱스 생태계 전략과 중장기 사업화 계획, 기술 실증 성과를...",
+          "src": "koreareport",
           "date": "10/28",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66637",
-          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/66637_90441_4611_v150.jpg"
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54058",
+          "img": "https://cdn.koreareport.co.kr/news/photo/202610/54058_57192_2543.png"
         },
         {
           "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "충남도의회, 수산식품산업 육성 제도화…환경교육·AI 의정지원 강화",
-          "desc": "전통 수산식품 기술 교육과 계승도 지원 대상에 포함했다. 편 의원은 \"충남의 풍부한 수산자원이 고부가가치... 또한 도의회는 오는 2026년도 행정사무감사부터 AI를 활용한 자료 분석과 질의 지원도 도입한다. 28일부터...",
-          "src": "aflnews",
+          "title": "[이슈체크] 구미서 시작되는 AI 제조혁신…13개 산단 잇는 초연결 중심...",
+          "desc": "다양한 AI 서비스를 보다 쉽게 활용할 수 있게 된다. 이날 문추연 구미시 MINI 얼라이언스 위원장은 반도체... 핵심은 기술 도입 자체가 아니라, 산업구조 혁신\"이라며 \"구미가 축적해온 제조 경쟁력에 AI를 더해 미래형...",
+          "src": "idaegu",
           "date": "10/28",
-          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330587",
-          "img": "https://cdn.aflnews.co.kr/news/thumbnail/202610/330587_192470_4134_v150.jpg"
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=666574",
+          "img": "https://cdn.idaegu.com/news/photo/202610/666574_375577_352.png"
         },
         {
-          "title": "한전, AI로 전력기자재 수요 예측…연 130억 절감 기대",
-          "desc": "한전/ 전력기자재의 과잉 재고와 수급 부족 문제를 줄이기 위해 인공지능(AI)을 활용한 수요예측 체계가... 이를 보완하기 위해 도입한 기술이 AI와 온톨로지(Ontology)다. 온톨로지는 서로 다른 데이터 사이의 관계를...",
-          "src": "핀포인트뉴스",
+          "title": "[사설] AGI는 적그리스도인가",
+          "desc": "AI를 둘러싼 담론에는 공포가 넘쳐난다. AI를 배우지 않으면 직장을 잃을 것이라고 한다. 기업이 AI 도입에... AI를 통한 감시 기술은 이미 얼굴과 목소리, 이동 경로와 소비 기록, 온라인 활동을 분석하는 데 활용되고 있다....",
+          "src": "tokenpost",
           "date": "10/28",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499369",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/499369_484657_4612_v150.jpg"
+          "url": "https://www.tokenpost.kr/news/insights/427040",
+          "img": "https://f1.tokenpost.kr/2026/10/36ms7c6brd_th_1600x900.webp"
         },
         {
-          "title": "디웨이브 \"한국에 양자컴퓨팅 공급 확대\"…LG CNS와 시장 공략",
-          "desc": "LG CNS와의 협력을 바탕으로 국내 기업들의 양자컴퓨팅 도입을 지원하고, 실제 산업 현장에 적용할 수 있는... 랜팅 CDO는 \"AI 학습과 추론에는 상당한 에너지가 필요하다\"며 \"양자 어닐링 기술을 활용해 데이터 샘플을...",
-          "src": "더뷰어스",
+          "title": "전력자립도 11%… 서울의 '에너지 자립' 해법은",
+          "desc": "◇ 버려지는 열을 에너지로… 하수열·폐열 활용 확대 하지만 당장 서울시의 전력자립도를 높이는 것은 쉽지... 서울시도 관련 기술 도입을 위한 사업을 진행 중이다. 지난 21일엔 서울에너지공사, 한화큐셀과 탠덤셀...",
+          "src": "sisaweek",
           "date": "10/28",
-          "url": "https://theviewers.co.kr/View.aspx?No=4287022",
-          "img": "https://cdn.coenworks.com/Files/30/News/202610/7122_20261028145613610.jpg"
+          "url": "https://www.sisaweek.com/news/articleView.html?idxno=238661",
+          "img": "https://cdn.sisaweek.com/news/thumbnail/202610/238661_257849_2039_v150.jpg"
         },
         {
-          "title": "[Telecom & Now] KT, 초고속인터넷 11년·IPTV 10년 연속 품질만족 1위 등",
-          "desc": "AI 기술을 적용했다. 이용자가 원하는 방송과 주문형비디오(VOD)를 보다 쉽게 찾을 수 있도록 시청 환경을 개선한 것이다. 고객 상담과 보호 영역에도 AI 활용을 확대하고 있다. 고객 문의에 대한 응답 속도와...",
-          "src": "ebn",
+          "title": "오픈AI·오라클, 기업용 인공지능 동맹 확대… 챗GPT로 업무 처리하고 보...",
+          "desc": "이는 대규모 자체 정보기술 조직을 갖추기 어려운 기업이 인공지능 도구와 클라우드 기반시설을 함께 활용하도록 지원하려는 취지다. 이번 협력은 오픈AI가 기업용 시장에서 인공지능 모델의 활용 경로를 넓히는 동시에...",
+          "src": "jemin",
           "date": "10/28",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729537",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729537_764704_4037_v150.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845586",
+          "img": "https://cdn.jemin.com/news/thumbnail/202610/845586_433159_2438_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "쿠팡, 다음 달 2일 '와우 멤버스데이'…할인 혜택 강화",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115306",
-      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115306_778238_4857_v150.jpg"
+      "title": "쿠팡, 90여개 인기 브랜드 참여…와우회원 전용 할인 확대",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202610281447161573de3f0aa1be_7",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261028144806055380de3f0aa1be2208661207.jpg&nmt=7"
     },
     {
-      "title": "삼성전자, 亞 유일 글로벌 브랜드가치 5위…현대차 29위 기록",
-      "url": "https://www.jasm.co.kr/news/view/323255/?sc=Naver",
-      "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1793166014_323255_m_1.jpg"
+      "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으...",
+      "url": "https://www.ajunews.com/view/20261028172135342",
+      "img": "https://image.ajunews.com/content/image/2026/10/28/20261028172545760807.jpg"
     },
     {
-      "title": "삼성전자, '2026 KS-QEI' 18년 연속 최다 부문 1위 달성…\"생활가전 10개...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324103",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/324103_327860_1614.jpg"
+      "title": "\"11월 쇼핑 대목 잡아라\"…유통업계, 대규모 할인전 총력",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419223",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1419223_1598270_5112_v150.jpg"
     },
     {
-      "title": "11번가, 상품 등록부터 첫 판매까지 지원…'신규셀러 성장미션' 마련",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=767004",
-      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/767004_320198_3741_v150.jpg"
+      "title": "현대차, 글로벌 브랜드 가치 250억달러…자동차 부문 첫 4위",
+      "url": "https://www.todayeconomic.com/news/article.html?no=32632",
+      "img": "https://www.todayeconomic.com/data/photos/20261044/art_17931760180749_d8e757.jpg"
     },
     {
-      "title": "현대차 브랜드 가치 250억달러…세계 車 브랜드 4위 기록",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006442?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/GFTGIMRZG44DAY3GMVSGIOLFGM.jpg?auth=35549d71c64a9d55fcd9b6efc815c187e4b4822b75d0f72ca2f04b3307cf7594&width=1200&height=630&smart=true"
+      "title": "현대차, 17년 연속 브랜드 가치 상승...세계 29위",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54058",
+      "img": "https://cdn.koreareport.co.kr/news/photo/202610/54058_57192_2543.png"
     },
     {
-      "title": "현대차, 글로벌 브랜드 가치 250억 달러…자동차 톱4까지 올랐다",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66637",
-      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/66637_90441_4611_v150.jpg"
+      "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
+      "url": "https://www.g-enews.com/view.php?ud=202610281445054271fbbec65dfb_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102814485208047fbbec65dfb22210812861.jpg"
     }
   ]
 };
