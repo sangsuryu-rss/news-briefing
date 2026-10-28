@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.28 (수) 17:36",
+  "updatedAt": "2026.10.29 (목) 01:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "쿠팡, 90여개 인기 브랜드 참여…와우회원 전용 할인 확대",
-          "desc": "행사에는 삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당, 코카콜라, 청정원, 하림, 유한킴벌리 등 90여개 주요 브랜드를 포함해 수천개 브랜드가 참여한다. 할인 대상은 로켓프레시 신선식품과 가공식품, 생활용품, 가전...",
-          "src": "thepowernews",
+          "title": "삼성전자, 中 본토 이어 홍콩서도 냉장고·세탁기사업 철수",
+          "desc": "이번 홍콩 생활가전 사업 철수는 중국 본토에서 시작된 삼성전자의 가전 판매사업 축소와 맞물려 있다. 삼성전자 홍콩법인은 약 1~2개월 전부터 생활가전 사업 철수를 준비해 왔으며, 지난 5월 결정된 중국에서의 가전 판매...",
+          "src": "autodaily",
           "date": "10/28",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=202610281447161573de3f0aa1be_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261028144806055380de3f0aa1be2208661207.jpg&nmt=7"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601573",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202610/601573_203084_5547.png"
         },
         {
-          "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으...",
-          "desc": "서울 강남구 코엑스에서 열린 제 28회 반도체대전(SEDEX 2026)의 삼성전자 부스에 차세대 고대역폭 메모리(HBM)인 HBM4E(7세대)가 전시돼 있다. [사진=연합뉴스] 셋째, 삼성전자와 SK하이닉스는 HBM의 성공에 안주해서는 안 된다....",
-          "src": "아주경제",
+          "title": "오승환, 3억 잭팟 터졌다→삼성 라이온즈 시절 받은 '470돈 야구공'→시...",
+          "desc": "그러자 정호철은 \"삼성인데 금만 받았냐\"고 물었고, 오승환은 \"470돈 공을 받을 때 삼성전자에서 가전제품 팸플릿을 주고 고르라고 하더라\"라고 떠올렸다. 요즘은 형평성 때문에 구단 포상을 모두 KBO에 신고해야 한다고....",
+          "src": "mhnse",
           "date": "10/28",
-          "url": "https://www.ajunews.com/view/20261028172135342",
-          "img": "https://image.ajunews.com/content/image/2026/10/28/20261028172545760807.jpg"
+          "url": "https://m.entertain.naver.com/article/445/0000483177",
+          "img": "https://cdn.mhnse.com/mhnsports/2026/10/28224111/thumb_ccms_80142.jpg"
         },
         {
-          "title": "[재계 투데이] 삼성전자, 한국품질만족지수 평가서 18년 연속 최다 부문...",
-          "desc": "삼성전자는 ▲냉장고 ▲김치냉장고 ▲올인원 세탁건조기 ▲드럼세탁기 ▲건조기 ▲에어컨 ▲의류관리기 ▲시스템냉난방기 ▲인덕션 ▲무선스틱청소기 등 생활가전 10개 제품군에서 최고 점수를 획득하며 1위를...",
-          "src": "news",
+          "title": "[똑똑한소비] 이마트, 롯데마트, 홈플러스, 쿠팡",
+          "desc": "가전은 다음 달 8일까지 에코백스 로봇청소기를 49만9000원, 쿠쿠 음식물처리기를 24만9000원에 각각... 이번 행사에는 삼성전자, LG전자, 다이슨, CJ제일제당, 코카콜라 등 90여 개 대표 브랜드를 비롯한 수천 개...",
+          "src": "ekn",
           "date": "10/28",
-          "url": "https://news.dealsitetv.com/articles/177674",
-          "img": ""
+          "url": "https://www.ekn.kr/web/view.php?key=20261028027272460",
+          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261028.b27a05da6b334c9980e1d44fe4820292_R.png"
         },
         {
-          "title": "\"11월 쇼핑 대목 잡아라\"…유통업계, 대규모 할인전 총력",
-          "desc": "로봇청소기와 음식물처리기 등 가전제품도 할인 대상에 포함했다. 트레이더스와 이마트 에브리데이도... 삼성전자와 LG전자 등 90여개 대표 브랜드를 포함한 수천개 브랜드의 37만개 이상 상품을 최대 70% 할인 판매한다....",
-          "src": "daily",
+          "title": "삼성전자, 2026 한국품질만족지수 14개 부문 1위…18년 연속 최다 수상",
+          "desc": "가운데, 삼성전자가 국가 공인 품질 지표에서 18년 연속 최다관왕에 오르며 기술 초격차를 재입증했다.... ◆ 키친핏 맥스·콤보 세탁건조기 약진 가장 치열한 격전지인 생활가전 영역에서 10개 부문 최고 평점을...",
+          "src": "ttlnews",
           "date": "10/28",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419223",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1419223_1598270_5112_v150.jpg"
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156069",
+          "img": "https://cdn.ttlnews.com/news/photo/202610/3156069_784482_1054.jpg"
         }
       ]
     },
@@ -61,20 +61,20 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대차, 글로벌 브랜드 가치 250억달러…자동차 부문 첫 4위",
-          "desc": "전동화 대형 스포츠유틸리티차량(SUV) 아이오닉 9은 ‘2026 세계 여성 올해의 차’에서 최고의 대형 SUV로... 현대차그룹은 지난 1월 세계 최대 가전·정보기술 전시회 ‘CES 2026’에서 인간 중심 AI 로보틱스 생태계 전략과...",
-          "src": "todayeconomic",
-          "date": "10/28",
-          "url": "https://www.todayeconomic.com/news/article.html?no=32632",
-          "img": "https://www.todayeconomic.com/data/photos/20261044/art_17931760180749_d8e757.jpg"
+          "title": "현대차, 브랜드 가치 34조 육박…글로벌 車 부문 최초 'TOP 4'",
+          "desc": "전동화 플래그십 스포츠유틸리티차량(SUV) 아이오닉 9은 '2026 세계 여성 올해의 차(Women's Worldwide Car of... 실제로 현대차그룹은 지난 1월 세계 최대 가전·정보기술 전시회 'CES 2026'에서 인간 중심의 AI 로보틱스...",
+          "src": "apnews",
+          "date": "10/29",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052594",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052594_86304_5453_v150.jpg"
         },
         {
-          "title": "현대차, 17년 연속 브랜드 가치 상승...세계 29위",
-          "desc": "전동화 플래그십 SUV '아이오닉 9'은 '2026 세계 여성 올해의 차(WWCOTY)'에서 최고의 대형 SUV 부문을... 현대차그룹은 지난 1월 'CES 2026'에서 인간 중심 AI 로보틱스 생태계 전략과 중장기 사업화 계획, 기술 실증 성과를...",
-          "src": "koreareport",
-          "date": "10/28",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54058",
-          "img": "https://cdn.koreareport.co.kr/news/photo/202610/54058_57192_2543.png"
+          "title": "현대차, 브랜드 가치 250억달러… 글로벌 車 브랜드 '톱4' 진입",
+          "desc": "인터브랜드는 로보틱스와 전동화 등 미래 모빌리티 기술 경쟁력과 미국·유럽 등 주요 시장에서의 브랜드... 현대차그룹은 로보틱스와 피지컬 인공지능(AI), 자율주행 및 소프트웨어 중심 차량(SDV) 관련 기술 개발을...",
+          "src": "조선일보",
+          "date": "10/29",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173023",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092173023_455832_376_v150.jpg"
         },
         {
           "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
@@ -101,6 +101,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "램리서치, 국산 부품 조달 2조로 확대…“韓 소부장 글로벌 진출 플랫폼...",
+          "desc": "국산 부품을 탑재한 장비를 삼성전자(005930)·SK하이닉스(000660)를 넘어 TSMC·마이크론·인텔 등 해외 반도체... 램리서치는 한국 제조 시설인 ‘램리서치매뉴팩춰링센터’에서 국내 협력사에서 구매한 부품으로 장비를...",
+          "src": "서울경제",
+          "date": "10/28",
+          "url": "https://n.news.naver.com/mnews/article/011/0004676202?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/10/28/news-p.v1.20261026.3f8e3581e4774e85a2d847e3145a22f6_Z1.png"
+        },
+        {
           "title": "329만원 아이폰 듀오 '쩍'…애플도 피하지 못한 폴더블 성장통",
           "desc": "등을 협력사로 확보한 것으로 알려졌다. 폴더블 화면과 힌지는 제품별 두께와 접힘 구조에 맞춰 설계되는... 삼성전자는 2022년 갤럭시 Z 폴드4부터 기존 기어 연동 구조를 선형 구동 방식으로 바꿔 부품 수와 무게를 줄였다....",
           "src": "한스경제",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/28",
           "url": "https://www.g-enews.com/view.php?ud=202610281109283254fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102811241007553fbbec65dfb22210812861.jpg"
-        },
-        {
-          "title": "1000만 대 로봇 장담한 머스크… 한국 반도체가 계산기 두드리는 이유",
-          "desc": "SK하이닉스와 삼성전자는 로봇의 메인 연산 프로세서를 지원하는 고성능 LPDDR5X 및 차세대 저전력 메모리... 이는 시장 일각의 1000만 대 가정과 차이가 크며, 테슬라가 부품 협력사에 요청한 것으로 알려진 초기 물량 역시...",
-          "src": "g-enews",
-          "date": "10/28",
-          "url": "https://www.g-enews.com/view.php?ud=202610281057248076fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102214504003783906806b77b1752093689.jpg"
         }
       ]
     },
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[이슈체크] 구미서 시작되는 AI 제조혁신…13개 산단 잇는 초연결 중심...",
-          "desc": "다양한 AI 서비스를 보다 쉽게 활용할 수 있게 된다. 이날 문추연 구미시 MINI 얼라이언스 위원장은 반도체... 핵심은 기술 도입 자체가 아니라, 산업구조 혁신\"이라며 \"구미가 축적해온 제조 경쟁력에 AI를 더해 미래형...",
-          "src": "idaegu",
-          "date": "10/28",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=666574",
-          "img": "https://cdn.idaegu.com/news/photo/202610/666574_375577_352.png"
+          "title": "AI가 일하는 시대… ‘서비스 과금 방식’ 확 바뀐다",
+          "desc": "결국 AI가 실제 업무를 얼마나 처리했는지 측정하기 위해 AWU라는 개념을 도입한 것이다. AI가 ‘일을 세는... 컨설팅 기업 BCG의 AI 기술 설계·구축 전문 조직인 BCG X 코리아 장진석 총괄은 “성과 기반 모델이 확산되려면...",
+          "src": "조선일보",
+          "date": "10/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0004006523?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/DCILJM3HQJAGHELQEAJKGUSZYQ.png?auth=bd17cd3cdccdc23a8fbac37d7603c6f3a03b49370b805eccb4537f4e73ab064f&width=1200&height=630&smart=true"
         },
         {
-          "title": "[사설] AGI는 적그리스도인가",
-          "desc": "AI를 둘러싼 담론에는 공포가 넘쳐난다. AI를 배우지 않으면 직장을 잃을 것이라고 한다. 기업이 AI 도입에... AI를 통한 감시 기술은 이미 얼굴과 목소리, 이동 경로와 소비 기록, 온라인 활동을 분석하는 데 활용되고 있다....",
-          "src": "tokenpost",
-          "date": "10/28",
-          "url": "https://www.tokenpost.kr/news/insights/427040",
-          "img": "https://f1.tokenpost.kr/2026/10/36ms7c6brd_th_1600x900.webp"
+          "title": "생산직도 AI 다룰 줄 알면 임금 더 높아",
+          "desc": "공장에 도입하고 있다. 딜로이트와 미국 제조업연구소는 2025~2030년 제조업 기술자 고용 증가 속도가 일반 생산직보다 6배 빠를 것으로 예상했다. 기계를 직접 다루는 숙련에 센서와 데이터를 읽고 AI의 판단을 활용하...",
+          "src": "조선일보",
+          "date": "10/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0004006511?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/KQJHWLVKS5FPPIGQILSSVSRL6I.png?auth=a34481762391719477336a127da15c3fb99e90042d3bf198c91f05c4a314ad9f&width=1200&height=630&smart=true"
         },
         {
-          "title": "전력자립도 11%… 서울의 '에너지 자립' 해법은",
-          "desc": "◇ 버려지는 열을 에너지로… 하수열·폐열 활용 확대 하지만 당장 서울시의 전력자립도를 높이는 것은 쉽지... 서울시도 관련 기술 도입을 위한 사업을 진행 중이다. 지난 21일엔 서울에너지공사, 한화큐셀과 탠덤셀...",
-          "src": "sisaweek",
-          "date": "10/28",
-          "url": "https://www.sisaweek.com/news/articleView.html?idxno=238661",
-          "img": "https://cdn.sisaweek.com/news/thumbnail/202610/238661_257849_2039_v150.jpg"
+          "title": "“데이터 싸게 저장”… 자기테이프·HDD 다시 호황",
+          "desc": "AI 시대 떠오르는 구식 저장 기술 인공지능(AI) 데이터센터 투자 열풍에 힘입어 구식 데이터 저장 기술인... 보관에 활용되는 식으로 ‘데이터센터 저장 분업’ 체계가 뚜렷해지고 있다. 자기테이프는 오래된 비디오...",
+          "src": "조선일보",
+          "date": "10/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0004006515?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/IH7NFXGJKBDJXCLO6KRECZFOZA.jpg?auth=af4651e842d847ea337f9f3a7d0518d2260f19a3136d74dbab4df58ab2f89035&width=1200&height=630&smart=true"
         },
         {
-          "title": "오픈AI·오라클, 기업용 인공지능 동맹 확대… 챗GPT로 업무 처리하고 보...",
-          "desc": "이는 대규모 자체 정보기술 조직을 갖추기 어려운 기업이 인공지능 도구와 클라우드 기반시설을 함께 활용하도록 지원하려는 취지다. 이번 협력은 오픈AI가 기업용 시장에서 인공지능 모델의 활용 경로를 넓히는 동시에...",
-          "src": "jemin",
-          "date": "10/28",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845586",
-          "img": "https://cdn.jemin.com/news/thumbnail/202610/845586_433159_2438_v150.jpg"
+          "title": "검색창 밖으로 사업 넓히는 네이버… 식당·공연장으로 결제 서비스 연...",
+          "desc": "이 데이터를 사업자의 매출 분석과 고객 관리, 맞춤형 마케팅에 활용하고, 자체 AI가 이용자 취향에 맞는... 네이버랩스의 디지털 트윈 기술로 공연장 공간을 가상으로 재현하고, 스마트폰 화면에 실제 모습과 이동...",
+          "src": "조선일보",
+          "date": "10/29",
+          "url": "https://n.news.naver.com/mnews/article/023/0004006513?sid=105",
+          "img": "https://www.chosun.com/resizer/v2/GU4TMMBWG5RWGMDGGUZTKN3EGY.jpg?auth=e6a62a4833d89b75debc5df06b38b728052bc86240fed9cee960eddd190de390&width=1200&height=630&smart=true"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "쿠팡, 90여개 인기 브랜드 참여…와우회원 전용 할인 확대",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202610281447161573de3f0aa1be_7",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261028144806055380de3f0aa1be2208661207.jpg&nmt=7"
+      "title": "삼성전자, 中 본토 이어 홍콩서도 냉장고·세탁기사업 철수",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601573",
+      "img": "https://cdn.autodaily.co.kr/news/photo/202610/601573_203084_5547.png"
     },
     {
-      "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으...",
-      "url": "https://www.ajunews.com/view/20261028172135342",
-      "img": "https://image.ajunews.com/content/image/2026/10/28/20261028172545760807.jpg"
+      "title": "오승환, 3억 잭팟 터졌다→삼성 라이온즈 시절 받은 '470돈 야구공'→시...",
+      "url": "https://m.entertain.naver.com/article/445/0000483177",
+      "img": "https://cdn.mhnse.com/mhnsports/2026/10/28224111/thumb_ccms_80142.jpg"
     },
     {
-      "title": "\"11월 쇼핑 대목 잡아라\"…유통업계, 대규모 할인전 총력",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419223",
-      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1419223_1598270_5112_v150.jpg"
+      "title": "[똑똑한소비] 이마트, 롯데마트, 홈플러스, 쿠팡",
+      "url": "https://www.ekn.kr/web/view.php?key=20261028027272460",
+      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261028.b27a05da6b334c9980e1d44fe4820292_R.png"
     },
     {
-      "title": "현대차, 글로벌 브랜드 가치 250억달러…자동차 부문 첫 4위",
-      "url": "https://www.todayeconomic.com/news/article.html?no=32632",
-      "img": "https://www.todayeconomic.com/data/photos/20261044/art_17931760180749_d8e757.jpg"
+      "title": "삼성전자, 2026 한국품질만족지수 14개 부문 1위…18년 연속 최다 수상",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156069",
+      "img": "https://cdn.ttlnews.com/news/photo/202610/3156069_784482_1054.jpg"
     },
     {
-      "title": "현대차, 17년 연속 브랜드 가치 상승...세계 29위",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54058",
-      "img": "https://cdn.koreareport.co.kr/news/photo/202610/54058_57192_2543.png"
+      "title": "현대차, 브랜드 가치 34조 육박…글로벌 車 부문 최초 'TOP 4'",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052594",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052594_86304_5453_v150.jpg"
     },
     {
-      "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
-      "url": "https://www.g-enews.com/view.php?ud=202610281445054271fbbec65dfb_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102814485208047fbbec65dfb22210812861.jpg"
+      "title": "현대차, 브랜드 가치 250억달러… 글로벌 車 브랜드 '톱4' 진입",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173023",
+      "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092173023_455832_376_v150.jpg"
     }
   ]
 };
