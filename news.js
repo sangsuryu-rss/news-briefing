@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.29 (목) 01:40",
+  "updatedAt": "2026.10.29 (목) 07:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 中 본토 이어 홍콩서도 냉장고·세탁기사업 철수",
-          "desc": "이번 홍콩 생활가전 사업 철수는 중국 본토에서 시작된 삼성전자의 가전 판매사업 축소와 맞물려 있다. 삼성전자 홍콩법인은 약 1~2개월 전부터 생활가전 사업 철수를 준비해 왔으며, 지난 5월 결정된 중국에서의 가전 판매...",
-          "src": "autodaily",
-          "date": "10/28",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601573",
-          "img": "https://cdn.autodaily.co.kr/news/photo/202610/601573_203084_5547.png"
+          "title": "[오늘의 이슈] 삼성 실적 발표·美 물가가 코스피 향방 가른다",
+          "desc": "메모리 값이 오르면 반도체 부문 이익은 늘지만 스마트폰·가전 부문은 원가 부담을 진다. 주주에게 가장 직접적인 숫자는 배당이다. 삼성전자는 3분기 정규배당을 포함해 약 30조원을 현금배당하겠다고 밝혔다....",
+          "src": "newskr",
+          "date": "10/29",
+          "url": "http://www.newskr.kr/news/articleView.html?idxno=107532",
+          "img": "https://cdn.newskr.kr/news/thumbnail/202610/107532_96939_3348_v150.jpg"
         },
         {
-          "title": "오승환, 3억 잭팟 터졌다→삼성 라이온즈 시절 받은 '470돈 야구공'→시...",
-          "desc": "그러자 정호철은 \"삼성인데 금만 받았냐\"고 물었고, 오승환은 \"470돈 공을 받을 때 삼성전자에서 가전제품 팸플릿을 주고 고르라고 하더라\"라고 떠올렸다. 요즘은 형평성 때문에 구단 포상을 모두 KBO에 신고해야 한다고....",
-          "src": "mhnse",
-          "date": "10/28",
-          "url": "https://m.entertain.naver.com/article/445/0000483177",
-          "img": "https://cdn.mhnse.com/mhnsports/2026/10/28224111/thumb_ccms_80142.jpg"
+          "title": "[KFT 모닝 브리프] 2026.10.29 — 오늘 꼭 알아야 할 국내외 경제뉴스",
+          "desc": "♣수치·데이터: 28일 마감 기준 코스닥 771.28(+3.69%), 삼성전자 +9.01%(24만2000원), SK하이닉스 +10.89... ♣인사이트: 전장과 데이터센터 냉각 같은 B2B 사업이 실적의 버팀목으로 올라서는 가운데, 가전·TV 수익성이...",
+          "src": "fntimes",
+          "date": "10/29",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610290707592832141825007d_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261029071349089040141825007d12411124362.jpg&nmt=18"
         },
         {
-          "title": "[똑똑한소비] 이마트, 롯데마트, 홈플러스, 쿠팡",
-          "desc": "가전은 다음 달 8일까지 에코백스 로봇청소기를 49만9000원, 쿠쿠 음식물처리기를 24만9000원에 각각... 이번 행사에는 삼성전자, LG전자, 다이슨, CJ제일제당, 코카콜라 등 90여 개 대표 브랜드를 비롯한 수천 개...",
-          "src": "ekn",
-          "date": "10/28",
-          "url": "https://www.ekn.kr/web/view.php?key=20261028027272460",
-          "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261028.b27a05da6b334c9980e1d44fe4820292_R.png"
+          "title": "[2026 NBCI] 소비자 마음 사로잡은 '브랜드의 힘'…삼성 갤럭시 1위·가전...",
+          "desc": "제조업에서는 LG 트롬(세탁기·의류건조기)과 노스페이스, 카스 등이 각각 81점으로 상위권에 올랐다.... LG전자 구독은 74점으로 1위를 유지했고 삼성전자 AI 구독클럽도 68점으로 전년보다 3점 올랐다. 단순히 제품을...",
+          "src": "아주경제",
+          "date": "10/29",
+          "url": "https://www.ajunews.com/view/20261028004206607",
+          "img": "https://image.ajunews.com/content/image/2026/10/28/20261028004240272575.png"
         },
         {
-          "title": "삼성전자, 2026 한국품질만족지수 14개 부문 1위…18년 연속 최다 수상",
-          "desc": "가운데, 삼성전자가 국가 공인 품질 지표에서 18년 연속 최다관왕에 오르며 기술 초격차를 재입증했다.... ◆ 키친핏 맥스·콤보 세탁건조기 약진 가장 치열한 격전지인 생활가전 영역에서 10개 부문 최고 평점을...",
-          "src": "ttlnews",
-          "date": "10/28",
-          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156069",
-          "img": "https://cdn.ttlnews.com/news/photo/202610/3156069_784482_1054.jpg"
+          "title": "[와이앤하우] 가전 구독 승부는 ‘케어’②",
+          "desc": "식기세척기·로봇청소기 설치 후 가구 원복, 이사 후 종합점검을 제공한다. 이사 후 종합점검과 가구 원복은 유상이며, 결제한 금액을 삼성전자 멤버십 포인트로 돌려준다. 가구 원복은 기본 상품 비용 10만원까지만...",
+          "src": "dnews",
+          "date": "10/29",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271512254170373",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/10/28/202610271512254170373-2-701151.png"
         }
       ]
     },
@@ -61,20 +61,28 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대차, 브랜드 가치 34조 육박…글로벌 車 부문 최초 'TOP 4'",
-          "desc": "전동화 플래그십 스포츠유틸리티차량(SUV) 아이오닉 9은 '2026 세계 여성 올해의 차(Women's Worldwide Car of... 실제로 현대차그룹은 지난 1월 세계 최대 가전·정보기술 전시회 'CES 2026'에서 인간 중심의 AI 로보틱스...",
-          "src": "apnews",
+          "title": "해외 IPO 흔들리자 성장자금도 비상…현대차·LG·두산·CJ 셈법 복잡",
+          "desc": "29일 재계에 따르면 현대차그룹은 미국 로봇 기업 보스턴다이내믹스의 나스닥 상장 가능성을 검토하고... 보스턴다이내믹스에 추가 자금을 투입할 경우 전동화와 소프트웨어 등 기존 전략 사업의 투자 계획과 자금 배분을...",
+          "src": "newsian",
           "date": "10/29",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052594",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052594_86304_5453_v150.jpg"
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100159",
+          "img": "https://cdn.newsian.co.kr/news/photo/202610/100159_100188_74.png"
         },
         {
-          "title": "현대차, 브랜드 가치 250억달러… 글로벌 車 브랜드 '톱4' 진입",
-          "desc": "인터브랜드는 로보틱스와 전동화 등 미래 모빌리티 기술 경쟁력과 미국·유럽 등 주요 시장에서의 브랜드... 현대차그룹은 로보틱스와 피지컬 인공지능(AI), 자율주행 및 소프트웨어 중심 차량(SDV) 관련 기술 개발을...",
-          "src": "조선일보",
+          "title": "[인터브랜드 발표] 글로벌 명차들 주춤할 때 나홀로 질주…현대차, 사상...",
+          "desc": "조지아주 현대차그룹 메타플랜트 아메리카(HMGMA) 내 로보틱스 메타플랜트 응용 센터(RMAC)에서는... 인터브랜드 측은 현대차가 로보틱스와 전동화 등 미래 모빌리티 기술에서 실질적인 경쟁력을 보여줬으며, 이...",
+          "src": "cbci",
           "date": "10/29",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173023",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092173023_455832_376_v150.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620314",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_620314_20261028142108_1_v150.jpg"
+        },
+        {
+          "title": "현대차, 세계 자동차 브랜드 ‘톱4’ 진입",
+          "desc": "인터브랜드는 현대차가 로보틱스와 전동화 등 미래 모빌리티 기술에서 실질적 경쟁력을 입증하고 미국... 현대차그룹은 다음 달 4∼6일 경기 고양 킨텍스에서 열리는 ‘월드 하이드로젠 엑스포(WHE) 2026’에 참가해...",
+          "src": "segye",
+          "date": "10/29",
+          "url": "https://n.news.naver.com/mnews/article/022/0004170660?sid=101",
+          "img": "https://img.segye.com/static/2019_segye/resources/images/logo_bk.jpg"
         },
         {
           "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "10/28",
           "url": "https://www.g-enews.com/view.php?ud=202610281445054271fbbec65dfb_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102814485208047fbbec65dfb22210812861.jpg"
-        },
-        {
-          "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
-          "desc": "자동차 전장부품 전문기업 유라코퍼레이션이 멕시코 산루이스포토시(SLP)주 시우다드바예스(Ciudad Valles)를 신규 생산 거점 후보지로 검토하고 있다. 현지 투자자가 산업 시설을 건립하면 유라코퍼레이션이 이를 장기...",
-          "src": "the-today",
-          "date": "10/23",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
-          "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
         }
       ]
     },
@@ -106,7 +106,7 @@ window.NEWS_DATA = {
           "src": "서울경제",
           "date": "10/28",
           "url": "https://n.news.naver.com/mnews/article/011/0004676202?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/10/28/news-p.v1.20261026.3f8e3581e4774e85a2d847e3145a22f6_Z1.png"
+          "img": ""
         },
         {
           "title": "329만원 아이폰 듀오 '쩍'…애플도 피하지 못한 폴더블 성장통",
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 일하는 시대… ‘서비스 과금 방식’ 확 바뀐다",
-          "desc": "결국 AI가 실제 업무를 얼마나 처리했는지 측정하기 위해 AWU라는 개념을 도입한 것이다. AI가 ‘일을 세는... 컨설팅 기업 BCG의 AI 기술 설계·구축 전문 조직인 BCG X 코리아 장진석 총괄은 “성과 기반 모델이 확산되려면...",
-          "src": "조선일보",
+          "title": "'딸깍 음악' 대중화 시대…정책은 '공백'",
+          "desc": "AI 음악이라는 점을 알기가 어렵다. 제작자가 앨범 소개란 마지막 줄에 \"본 앨범의 보컬은 수노 AI 기술을... 라벨을 도입한다\"고 설명했다. 재생 화면 바로 밑에 AI 활용 사실을 알리는 라벨을 다는 방식이다. 유튜브는...",
+          "src": "뉴스1",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0004006523?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/DCILJM3HQJAGHELQEAJKGUSZYQ.png?auth=bd17cd3cdccdc23a8fbac37d7603c6f3a03b49370b805eccb4537f4e73ab064f&width=1200&height=630&smart=true"
+          "url": "https://n.news.naver.com/mnews/article/421/0009256750?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/10/28/8184836/high.jpg"
         },
         {
-          "title": "생산직도 AI 다룰 줄 알면 임금 더 높아",
-          "desc": "공장에 도입하고 있다. 딜로이트와 미국 제조업연구소는 2025~2030년 제조업 기술자 고용 증가 속도가 일반 생산직보다 6배 빠를 것으로 예상했다. 기계를 직접 다루는 숙련에 센서와 데이터를 읽고 AI의 판단을 활용하...",
-          "src": "조선일보",
+          "title": "[EZ 분석] 보험사 AI 경쟁, 영업 현장으로…상담 지원부터 인재 확보까지",
+          "desc": "KB손해보험도 보험업무에 특화된 AI 시스템을 개발하는 한편, 하반기 공개채용에서 AI·데이터 분야 인재 확보에 나서는 등 기술 도입과 인력 확충을 병행하고 있다. 삼성화재, 전속 설계사 전체에 AI 도입…사전 활용률...",
+          "src": "ezyeconomy",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0004006511?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/KQJHWLVKS5FPPIGQILSSVSRL6I.png?auth=a34481762391719477336a127da15c3fb99e90042d3bf198c91f05c4a314ad9f&width=1200&height=630&smart=true"
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241305",
+          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202610/241305_142837_127_v150.jpg"
         },
         {
-          "title": "“데이터 싸게 저장”… 자기테이프·HDD 다시 호황",
-          "desc": "AI 시대 떠오르는 구식 저장 기술 인공지능(AI) 데이터센터 투자 열풍에 힘입어 구식 데이터 저장 기술인... 보관에 활용되는 식으로 ‘데이터센터 저장 분업’ 체계가 뚜렷해지고 있다. 자기테이프는 오래된 비디오...",
+          "title": "\"국가 양자·HPC 인프라 구축 본격화…다음 과제는 산업 활용\"",
+          "desc": "양자-AI 하이브리드 환경의 활용에 대한 논의도 이어졌다. 허정민 딜로이트 상무는 \"양자에 대한 기대감이 커지고 있지만 그만큼 기업의 준비도 많이 필요하다\"며 \"경영 측면에서 양자 기술 도입은 '보안'과 '계산'이라는...",
           "src": "조선일보",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0004006515?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/IH7NFXGJKBDJXCLO6KRECZFOZA.jpg?auth=af4651e842d847ea337f9f3a7d0518d2260f19a3136d74dbab4df58ab2f89035&width=1200&height=630&smart=true"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173022",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092173022_455827_4432_v150.jpg"
         },
         {
-          "title": "검색창 밖으로 사업 넓히는 네이버… 식당·공연장으로 결제 서비스 연...",
-          "desc": "이 데이터를 사업자의 매출 분석과 고객 관리, 맞춤형 마케팅에 활용하고, 자체 AI가 이용자 취향에 맞는... 네이버랩스의 디지털 트윈 기술로 공연장 공간을 가상으로 재현하고, 스마트폰 화면에 실제 모습과 이동...",
-          "src": "조선일보",
+          "title": "'맥은 터치 안 한다'더니...터너스 체제 애플, 제품 경계 넓힌다",
+          "desc": "유기발광다이오드(OLED) 디스플레이와 터치를 결합해 전문가용 노트북의 활용 범위를 넓히면서, 아이패드와 맥을 나눴던 사용 경험의 경계도 낮아졌다. 애플은 28일(현지시간) 탠덤 OLED 기술을 적용한 'PROLED XDR...",
+          "src": "테크M",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/023/0004006513?sid=105",
-          "img": "https://www.chosun.com/resizer/v2/GU4TMMBWG5RWGMDGGUZTKN3EGY.jpg?auth=e6a62a4833d89b75debc5df06b38b728052bc86240fed9cee960eddd190de390&width=1200&height=630&smart=true"
+          "url": "https://www.techm.kr/news/articleView.html?idxno=156620",
+          "img": "https://cdn.techm.kr/news/thumbnail/202610/156620_224028_2236_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 中 본토 이어 홍콩서도 냉장고·세탁기사업 철수",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601573",
-      "img": "https://cdn.autodaily.co.kr/news/photo/202610/601573_203084_5547.png"
+      "title": "[오늘의 이슈] 삼성 실적 발표·美 물가가 코스피 향방 가른다",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=107532",
+      "img": "https://cdn.newskr.kr/news/thumbnail/202610/107532_96939_3348_v150.jpg"
     },
     {
-      "title": "오승환, 3억 잭팟 터졌다→삼성 라이온즈 시절 받은 '470돈 야구공'→시...",
-      "url": "https://m.entertain.naver.com/article/445/0000483177",
-      "img": "https://cdn.mhnse.com/mhnsports/2026/10/28224111/thumb_ccms_80142.jpg"
+      "title": "[KFT 모닝 브리프] 2026.10.29 — 오늘 꼭 알아야 할 국내외 경제뉴스",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610290707592832141825007d_18",
+      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261029071349089040141825007d12411124362.jpg&nmt=18"
     },
     {
-      "title": "[똑똑한소비] 이마트, 롯데마트, 홈플러스, 쿠팡",
-      "url": "https://www.ekn.kr/web/view.php?key=20261028027272460",
-      "img": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261028.b27a05da6b334c9980e1d44fe4820292_R.png"
+      "title": "[2026 NBCI] 소비자 마음 사로잡은 '브랜드의 힘'…삼성 갤럭시 1위·가전...",
+      "url": "https://www.ajunews.com/view/20261028004206607",
+      "img": "https://image.ajunews.com/content/image/2026/10/28/20261028004240272575.png"
     },
     {
-      "title": "삼성전자, 2026 한국품질만족지수 14개 부문 1위…18년 연속 최다 수상",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156069",
-      "img": "https://cdn.ttlnews.com/news/photo/202610/3156069_784482_1054.jpg"
+      "title": "[와이앤하우] 가전 구독 승부는 ‘케어’②",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271512254170373",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/10/28/202610271512254170373-2-701151.png"
     },
     {
-      "title": "현대차, 브랜드 가치 34조 육박…글로벌 車 부문 최초 'TOP 4'",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052594",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202610/3052594_86304_5453_v150.jpg"
+      "title": "해외 IPO 흔들리자 성장자금도 비상…현대차·LG·두산·CJ 셈법 복잡",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100159",
+      "img": "https://cdn.newsian.co.kr/news/photo/202610/100159_100188_74.png"
     },
     {
-      "title": "현대차, 브랜드 가치 250억달러… 글로벌 車 브랜드 '톱4' 진입",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173023",
-      "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092173023_455832_376_v150.jpg"
+      "title": "[인터브랜드 발표] 글로벌 명차들 주춤할 때 나홀로 질주…현대차, 사상...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620314",
+      "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_620314_20261028142108_1_v150.jpg"
     }
   ]
 };
