@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.28 (수) 10:25",
+  "updatedAt": "2026.10.28 (수) 15:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 한품질만족지수(KS-QEI) 평가 18년 연속 최다 1위 … 가전·TV...",
-          "desc": "삼성전자는 특히 생활가전 분야에서 10개 제품군의 1위를 차지하며 강세를 보였다. 냉장고와 김치냉장고를 비롯해 올인원 세탁건조기, 드럼세탁기, 건조기, 에어컨, 의류관리기, 시스템냉난방기, 인덕션...",
-          "src": "worktoday",
+          "title": "쿠팡, 다음 달 2일 '와우 멤버스데이'…할인 혜택 강화",
+          "desc": "이번 행사에는 삼성전자와 엘지전자, 다이슨, 씨제이제일제당 등 90여 개 인기 브랜드를 비롯해 수천 개 브랜드가 참여합니다. 상품 수는 37만여 개로, 식품과 생활용품, 가전·디지털, 뷰티, 패션 등 16개 카테고리에서...",
+          "src": "news",
           "date": "10/28",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91069",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202610/91069_131139_1842_v150.jpg"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115306",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115306_778238_4857_v150.jpg"
         },
         {
-          "title": "\"웬만하면 깎아드립니다\"…정부, '코리아 그랜드 페스티벌' 예고",
-          "desc": "삼성전자와 LG전자 역시 주요 가전 할인에 돌입한다. 대형마트와 기업형 슈퍼마켓(SSM)은 본격적인 김장철을 맞아 배추와 무 등 주요 김장재료를 최대 40% 인하하고 한우와 수산물도 최대 50% 저렴하게 내놓는다....",
-          "src": "jnilbo",
+          "title": "삼성전자, 亞 유일 글로벌 브랜드가치 5위…현대차 29위 기록",
+          "desc": "삼성전자가 28일 글로벌 브랜드 컨설팅 업체 인터브랜드가 발표한 '2026 글로벌 100대 브랜드'에서 종합... DX 부문은 모바일·TV·생활가전 등 전 제품에 개인화된 AI 경험과 연결성을 제공하고 있다. 최근에는 화면...",
+          "src": "jasm",
           "date": "10/28",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077351",
-          "img": "https://cdn.jnilbo.com/news/photo/202610/90000077351_606152_1113.jpg"
+          "url": "https://www.jasm.co.kr/news/view/323255/?sc=Naver",
+          "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1793166014_323255_m_1.jpg"
         },
         {
-          "title": "[가전 트렌드] 마포구, 가정용 음식물쓰레기 감량기 구매비 최대 17만50...",
-          "desc": "◇ 삼성전자, 클립형 무선 이어폰 '갤럭시 버즈 온' 국내 출시 삼성전자가 갤럭시 버즈 시리즈 최초의... ◇ 에코백스, 네이버 넾다세일·신세계 쓱데이서 로봇청소기 할인 글로벌 가정용 서비스 로봇 기업 에코백스...",
-          "src": "ibabynews",
-          "date": "10/27",
-          "url": "https://www.ibabynews.com/news/articleView.html?idxno=156233",
-          "img": "https://www.ibabynews.com/news/photo/202610/w100234_59d0d351.png"
+          "title": "삼성전자, '2026 KS-QEI' 18년 연속 최다 부문 1위 달성…\"생활가전 10개...",
+          "desc": "삼성전자가 한국표준협회(KSA)가 주관하는 '2026 한국품질만족지수(KS-QEI)' 조사에서 역대 최다 부문 1위... 이와 함께 ▲드럼세탁기(17년 연속 1위) ▲올인원 세탁건조기(3년 연속 1위) ▲김치냉장고(14년 연속 1위) 등...",
+          "src": "thepublic",
+          "date": "10/28",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324103",
+          "img": "https://cdn.thepublic.kr/news/photo/202610/324103_327860_1614.jpg"
         },
         {
-          "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
-          "desc": "당시 삼성전자는 로봇청소기 구매 고객에게 구매 금액의 20%에 해당하는 디지털 온누리 상품권을 지급했다. 일부 고객들은 신제품 배송까지 1~2달을 기다려야 할 정도로 주문이 급증하기도 했다. LG전자도 올해 6월...",
-          "src": "biz",
-          "date": "10/27",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700126.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
+          "title": "11번가, 상품 등록부터 첫 판매까지 지원…'신규셀러 성장미션' 마련",
+          "desc": "대표 상품은 로보락 로봇청소기 'Qrevo Curv 2 Flow'(59만 원), LG 트롬 오브제컬렉션 워시타워(247만 원대), 삼성전자 비스포크 양문형 냉장고(89만 원대) 등이다. 몽클레르·버버리 등 명품 패션과 가구, 식품도 포함됐다....",
+          "src": "소비자가만드는신문",
+          "date": "10/28",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=767004",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202610/767004_320198_3741_v150.jpg"
         }
       ]
     },
@@ -61,28 +61,28 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대모비스, '2026 모빌리티 애플리케이션 해커톤' 개최",
-          "desc": "현대모비스는 자동차의 핵심 부품과 전자·전동화 기술을 개발하고 공급하는 현대자동차그룹의 주요 계열사다. 현대자동차와 기아에 부품을 공급하고 글로벌 완성차 업체를 대상으로 고객사를 넓혀 가고 있다....",
-          "src": "CNB뉴스",
+          "title": "현대차 브랜드 가치 250억달러…세계 車 브랜드 4위 기록",
+          "desc": "인터브랜드 관계자는 “로보틱스와 전동화 등 미래 모빌리티 기술에서 실질적인 경쟁력을 입증하며... 올해의 차’ 대형 SUV 부문에서 수상했다. 로보틱스와 소프트웨어 분야 투자도 이어가고 있다. 현대차그룹의...",
+          "src": "조선일보",
           "date": "10/28",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021244",
-          "img": "https://cdn.cnbnews.com/news/photo/202610/1021244_523734_4815.jpg"
+          "url": "https://n.news.naver.com/mnews/article/023/0004006442?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/GFTGIMRZG44DAY3GMVSGIOLFGM.jpg?auth=35549d71c64a9d55fcd9b6efc815c187e4b4822b75d0f72ca2f04b3307cf7594&width=1200&height=630&smart=true"
         },
         {
-          "title": "[Car & Now] 현대차, 차세대 '상용 연료전지시스템' 최초 공개·벤츠코리...",
-          "desc": "현대차그룹은 이번 행사에서 내구성을 높인 '상용 수소 연료전지시스템'을 처음 선보인다. 또한 수소... 참가 현대위아가 폭스바겐이 주최하는 국제 자동차 부품 전시회 'IZB 2026'에 참가해 차세대 전동화 부품을...",
-          "src": "ebn",
+          "title": "현대차, 글로벌 브랜드 가치 250억 달러…자동차 톱4까지 올랐다",
+          "desc": "전동화 플래그십 SUV '아이오닉 9'은 '2026 세계 여성 올해의 차(Women's Worldwide Car of the Year, WWCOTY)'에서... 현대차그룹은 올해 1월 CES 2026에서 인간 중심 AI 로보틱스 생태계 전략과 중장기 사업화 계획, 기술 실증...",
+          "src": "newsroad",
           "date": "10/28",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729443",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729443_764542_5916_v150.jpg"
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66637",
+          "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/66637_90441_4611_v150.jpg"
         },
         {
-          "title": "세계 자동차 부품시장 상위 쏠림 뚜렷",
-          "desc": "9곳 중 6곳의 매출이 늘었는데, 현대트랜시스(+9.7%)와 서연이화(+6.9%)가 상대적으로 높았고 현대위아(-7.0%)와 유라코퍼레이션(-2.0%)은 줄었다. 보고서는 지역별 매출 다변화를 이룬 기업에서 상대적으로 긍정적인...",
-          "src": "gjdream",
+          "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
+          "desc": "HS효성이 대규모 자동차 카펫 공장 설립을 발표한 가운데, 자동차 배선 시스템 기업인 유라코퍼레이션도 산루이스포토시주 내륙 지자체인 마테우알라를 방문해 투자 여건과 산업단지를 살펴본 것으로 확인됐다. 멕시코...",
+          "src": "g-enews",
           "date": "10/28",
-          "url": "http://www.gjdream.com/news/articleView.html?idxno=673802",
-          "img": "https://cdn.gjdream.com/news/photo/202610/673802_290553_1146.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610281445054271fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102814485208047fbbec65dfb22210812861.jpg"
         },
         {
           "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "D램 급등에 ‘고가폰’ 힘주는 삼성… 수익성·점유율 사이 줄타기",
-          "desc": "업계와 외신 등에 따르면 삼성전자는 주요 협력사에 보급형 제품인 갤럭시 A 시리즈 4분기 생산량을 당초... 판매 가격이 낮을수록 부품 원가 상승분을 제품 가격에 반영하기 어렵기 때문이다. 시장조사업체 IDC에...",
-          "src": "kmib",
+          "title": "329만원 아이폰 듀오 '쩍'…애플도 피하지 못한 폴더블 성장통",
+          "desc": "등을 협력사로 확보한 것으로 알려졌다. 폴더블 화면과 힌지는 제품별 두께와 접힘 구조에 맞춰 설계되는... 삼성전자는 2022년 갤럭시 Z 폴드4부터 기존 기어 연동 구조를 선형 구동 방식으로 바꿔 부품 수와 무게를 줄였다....",
+          "src": "한스경제",
           "date": "10/28",
-          "url": "https://n.news.naver.com/mnews/article/005/0001881358?sid=101",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877095",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/877095_902351_228_v150.jpg"
+        },
+        {
+          "title": "애플 아이폰 듀오 '크랙게이트' 논란 확산, 삼성전자 기술 우위 홍보할...",
+          "desc": "지지하는 부품에 문제가 있을 가능성을 제기했다. 파이낸셜타임스는 삼성전자도 2019년 처음 폴더블... 그는 애플이 수많은 제품을 사전에 시험했더라도 발생 빈도가 낮은 결함은 발견하기 어렵다며 특정 협력사의 부품에만...",
+          "src": "비즈니스포스트",
+          "date": "10/28",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450518",
           "img": ""
         },
         {
-          "title": "나스닥에 ‘삼성그룹’ ETF가 있어?…최초로 ‘K-그룹’ 투자 상품까지...",
-          "desc": "최근 엔비디아는 향후 플립칩 볼그리드어레이(FCBGA) 생산능력 확대를 위한 주요 협력사로 삼성전기를... 시장에서는 삼성전기의 존재감이 압도적이다. 나스닥에 상장된 ‘라운드힐 MLCC & 전자부품 ETF(Roundhill...",
-          "src": "헤럴드경제",
-          "date": "10/27",
-          "url": "https://n.news.naver.com/mnews/article/016/0002715170?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261017.8b9b87a929374016bf572bd155bff2f8_P1.png"
+          "title": "10년 공급 매달린 中 클라우드 공룡들, 반도체 자급 장벽에 멈춰 섰다",
+          "desc": "알리바바와 텐센트, 바이트댄스를 포함한 중국 대형 정보기술 기업 일부가 삼성전자와 SK하이닉스에... 핵심 공정의 생산 가시성이 확보되면 소재와 가공 부품 협력사의 생산 예측도 한층 수월해질 가능성이 있다. 계약의...",
+          "src": "g-enews",
+          "date": "10/28",
+          "url": "https://www.g-enews.com/view.php?ud=202610281109283254fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102811241007553fbbec65dfb22210812861.jpg"
         },
         {
-          "title": "[주식마감] 현대차그룹 로봇 부품 공급 기대감에 '나무가' 상한가... 루...",
-          "desc": "아울러 주요 사업의 실적은 스마트폰 시장 수요와 고객사 생산 계획, 자동차 전장 부품 시장의 성장 및 관련 제품 채택 여부 등에 영향을 받을 수 있다. 한편 이날 코스피 시장 거래 상위종목 30위는 삼성전자...",
-          "src": "ggilbo",
-          "date": "10/27",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189444",
-          "img": "https://cdn.ggilbo.com/news/photo/202610/1189444_1042415_241.jpg"
-        },
-        {
-          "title": "삼성 폰 사업의 '칩플레이션' 딜레마",
-          "desc": "27일 업계에 따르면 삼성전자 스마트폰 사업을 담당하는 모바일경험(MX)사업부는 올해 4분기 협력사에 스마트폰 부품 공급량을 20~30% 줄여달라고 요청한 것으로 알려졌다. 실제 생산량 축소 규모와 대상 모델은 확인되지...",
-          "src": "enewstoday",
-          "date": "10/27",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485102",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202610/2485102_1330698_1931_v150.jpg"
+          "title": "1000만 대 로봇 장담한 머스크… 한국 반도체가 계산기 두드리는 이유",
+          "desc": "SK하이닉스와 삼성전자는 로봇의 메인 연산 프로세서를 지원하는 고성능 LPDDR5X 및 차세대 저전력 메모리... 이는 시장 일각의 1000만 대 가정과 차이가 크며, 테슬라가 부품 협력사에 요청한 것으로 알려진 초기 물량 역시...",
+          "src": "g-enews",
+          "date": "10/28",
+          "url": "https://www.g-enews.com/view.php?ud=202610281057248076fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102214504003783906806b77b1752093689.jpg"
         }
       ]
     },
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] \"반도체 안전 심사, AI로 해결\" 유승훈 헤르메스솔루션 대표",
-          "desc": "블록체인 도입 컨설팅 프로그램'에 선정, 블록체인 기술의 사업 적용 가능성을 구체화하고 있다. 헤르메스솔루션은 창업 이래로 외부 투자 유치 없이 자체 컨설팅 및 교육 수익을 기반으로 '백두 AI' 연구개발을 진행해...",
-          "src": "newsprime",
+          "title": "충남도의회, 수산식품산업 육성 제도화…환경교육·AI 의정지원 강화",
+          "desc": "전통 수산식품 기술 교육과 계승도 지원 대상에 포함했다. 편 의원은 \"충남의 풍부한 수산자원이 고부가가치... 또한 도의회는 오는 2026년도 행정사무감사부터 AI를 활용한 자료 분석과 질의 지원도 도입한다. 28일부터...",
+          "src": "aflnews",
           "date": "10/28",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=752683",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20261044/art_752683_1793149223.jpg"
+          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330587",
+          "img": "https://cdn.aflnews.co.kr/news/thumbnail/202610/330587_192470_4134_v150.jpg"
         },
         {
-          "title": "진주시 10월 축제 160만 명 찾아…외국인 1만3000명 유치",
-          "desc": "수상 무대 객석의 예약제 도입과 공연 일정 조정을 비롯해 진주성 경관조명과 유등의 조화, 인접 공연장 간... 진주남강유등축제의 역사성과 정체성을 살린 콘텐츠를 발굴하고 첨단기술을 활용한 체험 프로그램을...",
-          "src": "daily",
+          "title": "한전, AI로 전력기자재 수요 예측…연 130억 절감 기대",
+          "desc": "한전/ 전력기자재의 과잉 재고와 수급 부족 문제를 줄이기 위해 인공지능(AI)을 활용한 수요예측 체계가... 이를 보완하기 위해 도입한 기술이 AI와 온톨로지(Ontology)다. 온톨로지는 서로 다른 데이터 사이의 관계를...",
+          "src": "핀포인트뉴스",
           "date": "10/28",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419161",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1419161_1598069_5943_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499369",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/499369_484657_4612_v150.jpg"
         },
         {
-          "title": "췌장암 징후 475일 먼저 찾는 AI…민감도 방사선 전문의의 2배",
-          "desc": "방식을 활용한다. 사람의 눈으로는 식별할 수 없는 특징을 측정하는 방식이다. 또 AI가 췌장을 주변... 다만 REDMOD가 일상적 의료 현장에 도입되려면 추가 연구가 필요하다. 연구 집단의 인종적 다양성이 충분하지...",
-          "src": "imaeil",
+          "title": "디웨이브 \"한국에 양자컴퓨팅 공급 확대\"…LG CNS와 시장 공략",
+          "desc": "LG CNS와의 협력을 바탕으로 국내 기업들의 양자컴퓨팅 도입을 지원하고, 실제 산업 현장에 적용할 수 있는... 랜팅 CDO는 \"AI 학습과 추론에는 상당한 에너지가 필요하다\"며 \"양자 어닐링 기술을 활용해 데이터 샘플을...",
+          "src": "더뷰어스",
           "date": "10/28",
-          "url": "https://n.news.naver.com/mnews/article/088/0001036919?sid=103",
-          "img": "https://www.imaeil.com/photos/2026/10/28/2026102810163015005_l.jpg"
+          "url": "https://theviewers.co.kr/View.aspx?No=4287022",
+          "img": "https://cdn.coenworks.com/Files/30/News/202610/7122_20261028145613610.jpg"
         },
         {
-          "title": "SWM, 강남서 입증한 자율주행 기술력…'인지·판단·제어'",
-          "desc": "데이터 플라이휠은 실제 주행에서 수집한 데이터를 AI 모델 학습과 검증에 반복적으로 활용해 기술을 개선하는 체계다. 차세대 AI 모델 도입도 추진하고 있다. SWM은 비전·언어·행동(VLA) 모델을 자율주행 시스템에...",
-          "src": "블로터",
+          "title": "[Telecom & Now] KT, 초고속인터넷 11년·IPTV 10년 연속 품질만족 1위 등",
+          "desc": "AI 기술을 적용했다. 이용자가 원하는 방송과 주문형비디오(VOD)를 보다 쉽게 찾을 수 있도록 시청 환경을 개선한 것이다. 고객 상담과 보호 영역에도 AI 활용을 확대하고 있다. 고객 문의에 대한 응답 속도와...",
+          "src": "ebn",
           "date": "10/28",
-          "url": "https://n.news.naver.com/mnews/article/293/0000092263?sid=105",
-          "img": "https://cdn.bloter.net/news/thumbnail/202610/676892_291033_4153_v150.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729537",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729537_764704_4037_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 한품질만족지수(KS-QEI) 평가 18년 연속 최다 1위 … 가전·TV...",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91069",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202610/91069_131139_1842_v150.jpg"
+      "title": "쿠팡, 다음 달 2일 '와우 멤버스데이'…할인 혜택 강화",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115306",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115306_778238_4857_v150.jpg"
     },
     {
-      "title": "\"웬만하면 깎아드립니다\"…정부, '코리아 그랜드 페스티벌' 예고",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077351",
-      "img": "https://cdn.jnilbo.com/news/photo/202610/90000077351_606152_1113.jpg"
+      "title": "삼성전자, 亞 유일 글로벌 브랜드가치 5위…현대차 29위 기록",
+      "url": "https://www.jasm.co.kr/news/view/323255/?sc=Naver",
+      "img": "https://cdn.jasm.co.kr/news/photo/202610/news_1793166014_323255_m_1.jpg"
     },
     {
-      "title": "[가전 트렌드] 마포구, 가정용 음식물쓰레기 감량기 구매비 최대 17만50...",
-      "url": "https://www.ibabynews.com/news/articleView.html?idxno=156233",
-      "img": "https://www.ibabynews.com/news/photo/202610/w100234_59d0d351.png"
+      "title": "삼성전자, '2026 KS-QEI' 18년 연속 최다 부문 1위 달성…\"생활가전 10개...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324103",
+      "img": "https://cdn.thepublic.kr/news/photo/202610/324103_327860_1614.jpg"
     },
     {
-      "title": "K-로봇청소기 반격에 유탄 맞은 中 에코백스·드리미 … 국내 소비자 눈...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700126.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700126_0.jpg?u=20261027113143?u=20261027113143"
+      "title": "11번가, 상품 등록부터 첫 판매까지 지원…'신규셀러 성장미션' 마련",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=767004",
+      "img": "http://www.consumernews.co.kr/news/thumbnail/202610/767004_320198_3741_v150.jpg"
     },
     {
-      "title": "현대모비스, '2026 모빌리티 애플리케이션 해커톤' 개최",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021244",
-      "img": "https://cdn.cnbnews.com/news/photo/202610/1021244_523734_4815.jpg"
+      "title": "현대차 브랜드 가치 250억달러…세계 車 브랜드 4위 기록",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006442?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/GFTGIMRZG44DAY3GMVSGIOLFGM.jpg?auth=35549d71c64a9d55fcd9b6efc815c187e4b4822b75d0f72ca2f04b3307cf7594&width=1200&height=630&smart=true"
     },
     {
-      "title": "[Car & Now] 현대차, 차세대 '상용 연료전지시스템' 최초 공개·벤츠코리...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729443",
-      "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729443_764542_5916_v150.jpg"
+      "title": "현대차, 글로벌 브랜드 가치 250억 달러…자동차 톱4까지 올랐다",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66637",
+      "img": "https://cdn.newsroad.co.kr/news/thumbnail/202610/66637_90441_4611_v150.jpg"
     }
   ]
 };
