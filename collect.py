@@ -32,8 +32,8 @@ import requests
 SECTIONS = [
     {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "sort": "date", "count": 4,
      "queries": ["삼성전자 가전", "삼성전자 로봇청소기", "삼성전자 건조기", "삼성전자 세탁기", "삼성전자 냉장고"]},
-    {"cls": "auto",    "icon": "🚗", "title": "자동차·유라",       "color": "#0d9488", "sort": "date", "count": 4,
-     "queries": ["유라코퍼레이션", "현대차그룹 전동화"]},
+    {"cls": "auto",    "icon": "🚗", "title": "자동차·유라",       "color": "#0d9488", "sort": "date", "count": 4, "per_query": 2,
+     "queries": [{"q": "유라코퍼레이션", "need": "유라", "block": ["최유라"]}, "현대차그룹 전동화"]},
     {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
     {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
     {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
@@ -172,23 +172,52 @@ def collect_section(sec):
     qs = sec.get("queries")
     if not qs:
         return search_news(sec["query"], n, sort)
-    # 여러 키워드 각각 검색(이미지 생략) → 1순위부터 라운드로빈으로 병합
+    per_q = sec.get("per_query")   # 쿼리별 고정 건수(예: 자동차·유라 = 각 2건). 없으면 라운드로빈
+    fetch_n = (per_q + 6) if per_q else 3   # 제목필터로 걸러질 걸 감안해 넉넉히
+    # 여러 키워드 각각 검색(이미지 생략). 쿼리는 문자열 또는 {q, need, block} dict.
     pools = []
     for q in qs:
+        qstr = q["q"] if isinstance(q, dict) else q
+        need = q.get("need") if isinstance(q, dict) else None   # 제목에 반드시 포함
+        block = q.get("block", []) if isinstance(q, dict) else []  # 제목에 있으면 제외(예: 최유라)
         try:
-            pools.append(search_news(q, 3, sort, with_image=False))
+            res = search_news(qstr, fetch_n, sort, with_image=False)
         except Exception as e:
-            print("   (검색 실패: %s %s)" % (q, e))
-            pools.append([])
-    merged, seen, i = [], set(), 0
-    while len(merged) < n and any(i < len(p) for p in pools):
+            print("   (검색 실패: %s %s)" % (qstr, e))
+            res = []
+        if need:
+            res = [a for a in res if need in a["title"]]
+        if block:
+            res = [a for a in res if not any(b in a["title"] for b in block)]
+        pools.append(res)
+    merged, seen = [], set()
+    if per_q:
+        # 1차: 쿼리별 per_q 건씩(최신순) → 유라 2 + 자동차 2 균형
         for p in pools:
-            if i < len(p) and p[i]["url"] not in seen:
-                seen.add(p[i]["url"])
-                merged.append(p[i])
-                if len(merged) >= n:
+            took = 0
+            for it in p:
+                if took >= per_q:
                     break
-        i += 1
+                if it["url"] not in seen:
+                    seen.add(it["url"]); merged.append(it); took += 1
+        # 2차: 유라가 부족한 날엔 나머지 풀에서 채워 count(4건) 유지
+        if len(merged) < n:
+            for p in pools:
+                for it in p:
+                    if len(merged) >= n:
+                        break
+                    if it["url"] not in seen:
+                        seen.add(it["url"]); merged.append(it)
+    else:
+        i = 0
+        while len(merged) < n and any(i < len(p) for p in pools):
+            for p in pools:
+                if i < len(p) and p[i]["url"] not in seen:
+                    seen.add(p[i]["url"])
+                    merged.append(p[i])
+                    if len(merged) >= n:
+                        break
+            i += 1
     merged.sort(key=lambda x: x.get("_ts", 0), reverse=True)   # 섹션 안에서 최신 기사 먼저
     for it in merged:            # 최종 선정분만 대표이미지 수집
         it["img"] = og_image(it["_src"])
