@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.29 (목) 14:52",
+  "updatedAt": "2026.10.29 (목) 22:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 영업익 100조 넘은 '大호황'…반도체가 99% 차지",
-          "desc": "반도체 부문이 106조 5000억 원의 영업이익을 거둔 반면, 스마트폰·TV·가전을 맡는 DX부문은 8000억 원의 적자를 냈다. 삼성전자는 연결 기준 올해 3분기 매출 195조 3000억 원, 영업이익 107조 4000억 원을 기록했다고...",
-          "src": "kgnews",
+          "title": "107조 축포 뒤 8천억 적자…삼성전자 역대급 실적의 두 얼굴",
+          "desc": "반도체만 훨훨 날고, 스마트폰과 가전은 영 맥을 못췄습니다. 역대급 실적에 가려진 삼성전자의 민낯을, 석민혁 기자가 짚어봤습니다. [리포트] 삼성전자의 3분기 매출은 195조 원, 영업이익은 107조 4천억 원입니다....",
+          "src": "조선일보",
           "date": "10/29",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=917237",
-          "img": "https://www.kgnews.co.kr/data/design/logo/default_image_share_20200714111358.jpg"
+          "url": "https://n.news.naver.com/mnews/article/448/0000647866?sid=101",
+          "img": "https://img.tvchosun.com/sitedata/image/202610/29/2026102990292_thumb.jpg"
         },
         {
-          "title": "삼성전자, 반도체로 3분기 107조 돌파하며 글로벌 최초 기록 달성",
-          "desc": "생활가전 부문은 국내 마케팅 강화를 통해 판매가 호조를 보였으나, 원자재 및 물류비용 상승으로 이익이 줄었다. 삼성전자는 4분기에도 반도체 중심으로 실적 성장을 기대하고 있다. DS 부문은 인공지능 도입...",
-          "src": "고코리아",
+          "title": "반도체로만 106조 벌었다…내년 HBM '완판'",
+          "desc": "SK하이닉스의 역대급 실적에 이어 삼성전자도 오늘 역대급 세부 실적을 발표했습니다. 3분기 영업이익... 스마트폰과 TV, 가전 등은 3분기 8천억 원 적자를 기록하면서 또 희비가 분명했습니다. OBS뉴스 정철호입니다....",
+          "src": "obsnews",
           "date": "10/29",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883294",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/883294_160806_4555_v150.jpg"
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542109",
+          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1542109_741091_4122_v150.jpg"
         },
         {
-          "title": "교보생명·유한양행·삼성전자 등 수상·순위 평가 잇따라…금융위원장...",
-          "desc": "5위 삼성전자는 한국표준협회(KSA)가 주관하는 한국품질만족지수 조사에서 14개 부문 1위에 올랐다. 올해 조사는 121개 부문, 369개 기업을 대상으로 진행됐다. 생활가전에서는 냉장고·김치냉장고·올인원 세탁건조기...",
-          "src": "dailypop",
+          "title": "LG 세탁기는 왜 ‘11시까지 끝내기’ 기능을 만들었나",
+          "desc": "그가 자문했던 LG전자 세탁기 사례를 예로 들었다. 보통 세탁기에는 이불, 울, 색깔 옷처럼 세탁물 종류에... 삼성전자와 LG전자는 2018년 무렵부터 가전에 와이파이 센서를 달아 고객이 언제 냉장고를 여닫고 어떤 버튼을...",
+          "src": "womennews",
           "date": "10/29",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=103881",
-          "img": "http://www.dailypop.kr/news/thumbnail/202610/103881_172080_2942_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/310/0000141277?sid=101",
+          "img": "https://cdn.womennews.co.kr/news/thumbnail/202610/283910_456954_2051_v150.jpg"
         },
         {
-          "title": "11번가, '그랜드십일절'에 AI 쇼핑 도입…180여개 브랜드 참여",
-          "desc": "11번가는 행사에 맞춰 로보락 로봇청소기와 바디프랜드 안마의자, 삼성전자 TV, LG전자 냉장고 등 주요 가전제품을 확보했다. 국내 호텔 및 해외 리조트와 협업한 여행 상품과 산지 직송 신선식품, 단독 구성 뷰티...",
-          "src": "thefirstmedia",
+          "title": "삼성전자, 혼수 가전 전문 매장 새단장…신혼 맞춤 구독 서비스 강화",
+          "desc": "삼성전자가 신혼부부의 생활 방식에 맞춘 혼수 가전 전문 매장을 새롭게 단장하고, 가전 구독 서비스에 신혼... '비스포크 AI 스팀' 로봇청소기와 '비스포크 AI 식기세척기' 등 인공지능 가전을 중심으로 편리한 일상을...",
+          "src": "news",
           "date": "10/29",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212121",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/212121_196112_258_v150.jpg"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115661",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115661_778764_544_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "자동차는 '쿼터' 타이어는 '관세'…EU 통상 압박, 수출전략 흔들린다",
-          "desc": "현대차·기아의 유럽 전동화 모델 판매 실적은 긍정적이었다. 현대차는 2025년 유럽에서 전기차 11만2266대... 현대차그룹은 중국 기업과 배터리 소재·부품 공급망으로 연결돼 있다. 현대차는 중국 간펑리튬 등과 배터리...",
-          "src": "한스경제",
+          "title": "현대차, 6년 만에 매출 역성장…판매 목표 낮추고 수익성 방어 안간힘",
+          "desc": "[사진=현대차그룹] 현대자동차가 하이브리드차 판매 확대와 환율 효과로 3분기 영업이익을 늘렸지만... 그러나 글로벌 전동화 차량 판매는 2.7% 감소했다. 하이브리드차 선전이 전체 판매 부진을 상쇄하지는 못한...",
+          "src": "straightnews",
           "date": "10/29",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877420",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/877420_902693_2610_v150.jpg"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314261",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/314261_226889_1022_v150.jpg"
         },
         {
-          "title": "현대차, 파업·전쟁에도 HEV로 3Q 수익성 개선…연간 목표치는 하향(종합...",
-          "desc": "3Q 영업익 5.5% 뛴 2조6천억…매출액 3.4% 감소한 45조1천억 현대차그룹 양재동 본사 사옥[출처: 연합뉴스... 글로벌 전동화 차량 판매는 HEV 판매 호조에도 EV 등의 판매 물량 감소로 전년보다 2.7% 감소한...",
-          "src": "news",
+          "title": "현대차, 3분기 글로벌 판매 11.3% 감소…연간 판매·수익성 목표 하향",
+          "desc": "글로벌 전동화 차량 판매는 24만5540대로 2.7% 감소했다. 전기차는 6만9117대로 약 9%, 제네시스는 약... 판매 물량을 회복하고 원가절감 활동을 지속해 수익성을 개선하겠다\"고 밝혔다. /지피코리아 , 사진=현대차그룹",
+          "src": "gpkorea",
           "date": "10/29",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441945",
-          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4441945_352959_454_v150.jpg"
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148083",
+          "img": "https://cdn.gpkorea.com/news/photo/202610/148083_314946_83.jpg"
         },
         {
-          "title": "현대차그룹, HEV·미국 판매로 실적 방어…현대차 영업익 늘고 기아 판매...",
-          "desc": "8% 늘어…현대차 주당 2500원 분기배당 유지 ▲ 현대차 3분기 실적 [토요경제] 현대자동차그룹이 올해 3분기... 전동화 사업 역시 매출 증가와 수익성 개선 여부를 따로 확인해야 한다. 현대글로비스는 완성차 물동량과...",
-          "src": "sateconomy",
+          "title": "\"하이브리드보다 싼 中 PHEV\"…현대차·기아, 신흥시장서 경쟁 격화",
+          "desc": "높은 전동화 사양을 낮은 가격에 제공하고 있다. 이 애널리스트는 \"기존 업체들이 다음 세대에 공급하려던... 다만 전문가들은 현대차그룹의 다중 파워트레인 전략이 불확실성에 대응하는 적절한 선택이라고 평가했다....",
+          "src": "머니투데이",
           "date": "10/29",
-          "url": "http://sateconomy.co.kr/news/view/1065591234336787",
-          "img": "http://sateconomy.co.kr/news/data/20261029/p1065591234336787_956_thum.png"
+          "url": "https://n.news.naver.com/mnews/article/008/0005433944?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102916325071223_1.jpg"
         },
         {
-          "title": "\"B필러 없애고 안전은 더 높였다\"…제네시스 GV90에 숨은 '기술의 집념'",
-          "desc": "플래그십 전동화 SUV GV90의 핵심 기술과 개발 과정을 국내 미디어에 공개했다. 행사는 '기술로 완성한... 멀티 챔버 에어 서스펜션과 현대차그룹 최초로 양산 적용한 모노튜브 타입 듀얼 밸브 전자제어...",
-          "src": "smarttimes",
+          "title": "[단독]현대차 미래항공·새만금 사업 가속..신차로 본업 경쟁력↑",
+          "desc": "29일 관련업계에 따르면 현대차는 최근 조직개편으로 제조솔루션본부 전동화생기(생산기술)센터 내에... 앞서 2019년 정의선 현대차그룹 회장(당시 수석부회장)도 \"미래에는 (현대차그룹 사업 비중이) 자동차가 50%, 30...",
+          "src": "머니투데이",
           "date": "10/29",
-          "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50144",
-          "img": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/50144_49214_853_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005433941?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102915262747319_1.jpg"
         }
       ]
     },
@@ -100,6 +100,22 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "[의료기기업계 소식] 10월 29일",
+          "desc": "■ 위코멧, '삼성전자 EHS 협력사 데이' CPR 체험존 운영 위코멧(대표 이정훈)이 지난 28일 삼성전자 DX부문... 파커스는 50년동안 정밀 부품 제조 사업을 이어오며 글로벌 대기업 1차 벤더로 제품을 공급하고 있다. 국내...",
+          "src": "doctorstimes",
+          "date": "10/29",
+          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240768",
+          "img": "http://www.doctorstimes.com/news/thumbnail/202610/240768_113907_2654_v150.jpg"
+        },
+        {
+          "title": "베트남 부총리 만난 애플, 직접전력구매(DPPA) 제도 개선 건의…청정에...",
+          "desc": "현재 베트남 내 DPPA 제도에 참여 중인 기업은 삼성전자타이응우옌(SEVT)이 유일한 상황이다. 삼성전자는... 베트남 협력사 육성 프로그램을 만들어 달라고 요청했다. 또한 베트남 유망 기업들이 품질·안전·원산지 추적...",
+          "src": "insidevina",
+          "date": "10/29",
+          "url": "https://www.insidevina.com/news/articleView.html?idxno=44380",
+          "img": "https://cdn.insidevina.com/news/photo/202610/44380_45321_5147.png"
+        },
         {
           "title": "토스증권 \"AI 확산에 메모리 반도체 수요 변화\"…삼성·SK하이닉스 HBM 전...",
           "desc": "SK하이닉스는 고객사와 파운드리 기업 등 외부 협력사와 설계 초기 단계부터 협력하는 방식을 내세웠다.... 삼성전자·SK하이닉스 집중형, 시가총액 상위 종목 중심형, 반도체 밸류체인·액티브형, 소재·부품·장비...",
@@ -115,22 +131,6 @@ window.NEWS_DATA = {
           "date": "10/29",
           "url": "http://www.press9.kr/news/articleView.html?idxno=85205",
           "img": "http://www.press9.kr/news/thumbnail/202610/85205_97286_4950_v150.jpg"
-        },
-        {
-          "title": "삼성전자 내년 HBM 전량 완판 공급협상 마무리",
-          "desc": "핵심 부품으로 들어간다. 삼성전자는 내년 공급 물량이 완판된 상태에서도 거래처로부터 추가 공급을... 반도체 장비업체에서 근무하는 김모 씨(41)는 \"최근 들어 HBM 관련 설비 발주 문의가 눈에 띄게 늘었다\"며 \"협력사들...",
-          "src": "고코리아",
-          "date": "10/29",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883236",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/883236_160746_2057_v150.jpg"
-        },
-        {
-          "title": "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전...",
-          "desc": "제품 개발 초기부터 고객 요구를 반영하고 협력사와 설계·생산 공정을 조율하는 전략이다. 메모리 업황의... (ETF)를 삼성전자·SK하이닉스 집중형, 시가총액 상위형, 반도체 밸류체인·액티브형, 소재·부품·장비형 등...",
-          "src": "디지털데일리",
-          "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/138/0002246470?sid=101",
-          "img": "https://www.ddaily.co.kr/photos/2026/10/29/2026102910382079422_l.png"
         }
       ]
     },
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "정부, 제약·바이오 혁신기업 200곳 집중 육성...정책금융 1,500억원 투입",
-          "desc": "개방과 활용도도 높이기로 했다. 이를 위해 R&D 전담은행 투자 600억원과 기술보증기금 보증 900억원 등 향후 3년간 총 1,500억원 규모의 정책금융을 투입한다. 중소 제조업의 디지털 전환과 AI 도입도 확대한다. 한 총리는...",
-          "src": "m-economynews",
+          "title": "통물협-센디, '한 줄의 데이터, 스스로 움직이는 물류' 세미나 개최",
+          "desc": "각 기업이 자체 시스템을 도입하더라도 업무가 다른 기업으로 넘어가는 순간 정보가 끊기면 전화와 수기... 없이 활용할 수 있도록 제공하는 구독형 소프트웨어다. 센디는 그동안 200억 원 이상을 기술에 투자하며 축적한...",
+          "src": "klnews",
           "date": "10/29",
-          "url": "https://www.m-economynews.com/news/article.html?no=72288",
-          "img": "https://www.m-economynews.com/data/photos/20260937/shp_1788941644.jpg"
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323278",
+          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/323278_66883_5654_v150.jpg"
         },
         {
-          "title": "[컨콜] 삼성SDS \"내년 3월 베라 루빈 GPU 서비스 개시…아시아 최초 기대...",
-          "desc": "최초 도입 사례가 될 것으로 기대하고 있다\"고 밝혔다. 베라 루빈은 엔비디아 차세대 AI 컴퓨팅 플랫폼이다. 삼성SDS는 과학기술정보통신부 GPU 구축·운용 사업자 선정에 따라 올해 말 B300 GPU 서비스를 시작하고...",
-          "src": "ZDNet코리아",
+          "title": "엠로, GS칼텍스에 구매 자동화 AI 에이전트 구축",
+          "desc": "에이전트 도입을 결정했다. GS칼텍스 전략구매부문은 연간 2,700여 건에 달하는 소액 자재 구매 업무를 혁신하기 위해 회사 내 DAX(Digital & AI Transformation) 센터와 함께 관련 기술 발전 동향 모니터링 등을 꾸준히...",
+          "src": "klnews",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/092/0002442983?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/03/17/a3fe1b85deaa28dd3970a7b7dd980382.jpg"
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323280",
+          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/323280_66884_5749_v150.jpg"
         },
         {
-          "title": "\"데이터 관리 넘어 AI 팩토리로\"…클라우데라, 기업용 AI 시장 공략 가속",
-          "desc": "관리부터 AI 모델, 음성 인터페이스, 인프라까지 아우르는 기술 생태계 확장에 나섰다. 기업들이 AI를 활용... 향후에는 신규 파트너 기술의 실제 적용 범위와 고객 도입 성과가 AI 팩토리 전략의 사업화 수준을 가늠하는...",
-          "src": "ZDNet코리아",
+          "title": "대웅제약·동탄시티병원, MARS 2026서 AI 스마트 병원 공개…\"진단부터 ...",
+          "desc": "향후 지자체와 의료기관, 기술기업 간 협력을 바탕으로 실제 의료현장에서의 활용 사례를 축적하고 관련 모델의 확산을 추진할 계획이다. 김미영 동탄시티병원 행정원장은 \"AI 스마트 병원의 가치는 첨단기술 도입...",
+          "src": "thefirstmedia",
           "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/092/0002442984?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/29/c000420317fc09d2007a08c46b37403c.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212214",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/212214_196203_3023_v150.jpg"
         },
         {
-          "title": "삼성SDI, 2026년 3분기 실적발표 컨퍼런스콜 전문",
-          "desc": "등 AI 데이터센터용 제품 포트폴리오도 확대하고 있다. 미래 시장 선점을 위한 차세대 기술과 신규 응용처... 시너지셀즈 활용 계획 구체화 현황과 양산 시점도 궁금하다. A1. AI 데이터센터 투자 확대와 서버당 전력...",
-          "src": "thelec",
+          "title": "원격중환자실, 강원·충북 이어 11월 서울까지…전국 4개 권역으로",
+          "desc": "◆거점병원이 지역 중환자실 원격으로 연결 원격중환자실은 정보통신기술(ICT)로 권역 거점병원과 지역... 환자 상태 악화 예측, 영상 기반 생체정보 분석, 음성인식 협진 요약 등 세 가지 AI를 도입해 의료진의 빠른...",
+          "src": "medicalworldnews",
           "date": "10/29",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=64513",
-          "img": "https://cdn.thelec.kr/news/photo/202610/64513_50740_4243.png"
+          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978162",
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 영업익 100조 넘은 '大호황'…반도체가 99% 차지",
-      "url": "https://www.kgnews.co.kr/news/article.html?no=917237",
-      "img": "https://www.kgnews.co.kr/data/design/logo/default_image_share_20200714111358.jpg"
+      "title": "107조 축포 뒤 8천억 적자…삼성전자 역대급 실적의 두 얼굴",
+      "url": "https://n.news.naver.com/mnews/article/448/0000647866?sid=101",
+      "img": "https://img.tvchosun.com/sitedata/image/202610/29/2026102990292_thumb.jpg"
     },
     {
-      "title": "삼성전자, 반도체로 3분기 107조 돌파하며 글로벌 최초 기록 달성",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=883294",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202610/883294_160806_4555_v150.jpg"
+      "title": "반도체로만 106조 벌었다…내년 HBM '완판'",
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542109",
+      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1542109_741091_4122_v150.jpg"
     },
     {
-      "title": "교보생명·유한양행·삼성전자 등 수상·순위 평가 잇따라…금융위원장...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=103881",
-      "img": "http://www.dailypop.kr/news/thumbnail/202610/103881_172080_2942_v150.jpg"
+      "title": "LG 세탁기는 왜 ‘11시까지 끝내기’ 기능을 만들었나",
+      "url": "https://n.news.naver.com/mnews/article/310/0000141277?sid=101",
+      "img": "https://cdn.womennews.co.kr/news/thumbnail/202610/283910_456954_2051_v150.jpg"
     },
     {
-      "title": "11번가, '그랜드십일절'에 AI 쇼핑 도입…180여개 브랜드 참여",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212121",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202610/212121_196112_258_v150.jpg"
+      "title": "삼성전자, 혼수 가전 전문 매장 새단장…신혼 맞춤 구독 서비스 강화",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115661",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115661_778764_544_v150.jpg"
     },
     {
-      "title": "자동차는 '쿼터' 타이어는 '관세'…EU 통상 압박, 수출전략 흔들린다",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877420",
-      "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202610/877420_902693_2610_v150.jpg"
+      "title": "현대차, 6년 만에 매출 역성장…판매 목표 낮추고 수익성 방어 안간힘",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314261",
+      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/314261_226889_1022_v150.jpg"
     },
     {
-      "title": "현대차, 파업·전쟁에도 HEV로 3Q 수익성 개선…연간 목표치는 하향(종합...",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441945",
-      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4441945_352959_454_v150.jpg"
+      "title": "현대차, 3분기 글로벌 판매 11.3% 감소…연간 판매·수익성 목표 하향",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=148083",
+      "img": "https://cdn.gpkorea.com/news/photo/202610/148083_314946_83.jpg"
     }
   ]
 };
