@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.29 (목) 22:07",
+  "updatedAt": "2026.10.30 (금) 04:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "107조 축포 뒤 8천억 적자…삼성전자 역대급 실적의 두 얼굴",
-          "desc": "반도체만 훨훨 날고, 스마트폰과 가전은 영 맥을 못췄습니다. 역대급 실적에 가려진 삼성전자의 민낯을, 석민혁 기자가 짚어봤습니다. [리포트] 삼성전자의 3분기 매출은 195조 원, 영업이익은 107조 4천억 원입니다....",
-          "src": "조선일보",
-          "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/448/0000647866?sid=101",
-          "img": "https://img.tvchosun.com/sitedata/image/202610/29/2026102990292_thumb.jpg"
+          "title": "삼전 실적, 매출 3배 증가 HBM이 견인… 10개社와 장기계약도",
+          "desc": "다만 스마트폰과 가전 등 완제품(DX) 부문은 메모리 등 원가 부담에 2개 분기 연속 적자를 냈다. ● 바뀌는 메모리 거래 방식… 장기공급계약에 고객들 줄 섰다 29일 삼성전자는 DS 부문이 3분기 매출 147조1000억 원...",
+          "src": "동아일보",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/020/0003758878?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134936848.1.jpg"
         },
         {
-          "title": "반도체로만 106조 벌었다…내년 HBM '완판'",
-          "desc": "SK하이닉스의 역대급 실적에 이어 삼성전자도 오늘 역대급 세부 실적을 발표했습니다. 3분기 영업이익... 스마트폰과 TV, 가전 등은 3분기 8천억 원 적자를 기록하면서 또 희비가 분명했습니다. OBS뉴스 정철호입니다....",
-          "src": "obsnews",
-          "date": "10/29",
-          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542109",
-          "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1542109_741091_4122_v150.jpg"
+          "title": "107조 번 삼전, 주주들은 더 큰 걸 원했다",
+          "desc": "영상디스플레이(VD)·생활가전(DA) 부문 역시 물류비 상승 등으로 2000억원의 영업손실을 냈다. 이날 삼성전자는 3분기 30조원 규모(주당 4601원)의 현금배당을 의결했다. 2024년부터 3년간 잉여현금흐름(FCF)의 50%를...",
+          "src": "중앙일보",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/025/0003561630?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/30/4071b4a7-29bb-4590-a0f5-211da2abf3d1.jpg"
         },
         {
-          "title": "LG 세탁기는 왜 ‘11시까지 끝내기’ 기능을 만들었나",
-          "desc": "그가 자문했던 LG전자 세탁기 사례를 예로 들었다. 보통 세탁기에는 이불, 울, 색깔 옷처럼 세탁물 종류에... 삼성전자와 LG전자는 2018년 무렵부터 가전에 와이파이 센서를 달아 고객이 언제 냉장고를 여닫고 어떤 버튼을...",
-          "src": "womennews",
-          "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/310/0000141277?sid=101",
-          "img": "https://cdn.womennews.co.kr/news/thumbnail/202610/283910_456954_2051_v150.jpg"
+          "title": "LG전자·LG유플·삼성전자·코웨이·귀뚜라미…‘AI 기능 제품’ 품질 만...",
+          "desc": "KCC글라스(PVC 바닥재), 한일시멘트(포틀랜드 시멘트), 경동나비엔(콘덴싱 가스보일러), 현대자동차(준중형승용차, 중형승용차, 준중형SUV, 대형SUV), 삼성전자(TV, 드럼세탁기)가 17년 연속 1위에 올랐고, 현대자동차...",
+          "src": "중앙일보",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/025/0003561590?sid=101",
+          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
         },
         {
           "title": "삼성전자, 혼수 가전 전문 매장 새단장…신혼 맞춤 구독 서비스 강화",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차·유라",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "이번엔 '하늘 동력'… 특별팀 꾸린 현대차",
+          "desc": "29일 관련업계에 따르면 현대차는 최근 조직개편으로 제조솔루션본부 전동화생산기술센터 내에... 앞서 2019년 정의선 현대차그룹 회장(당시 수석부회장)도 \"미래에는 (현대차그룹 사업 비중이) 자동차가 50%, 30%는 PAV...",
+          "src": "머니투데이",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/008/0005434009?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102919333420256_1.jpg"
+        },
         {
           "title": "현대차, 6년 만에 매출 역성장…판매 목표 낮추고 수익성 방어 안간힘",
           "desc": "[사진=현대차그룹] 현대자동차가 하이브리드차 판매 확대와 환율 효과로 3분기 영업이익을 늘렸지만... 그러나 글로벌 전동화 차량 판매는 2.7% 감소했다. 하이브리드차 선전이 전체 판매 부진을 상쇄하지는 못한...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "10/29",
           "url": "https://n.news.naver.com/mnews/article/008/0005433944?sid=101",
           "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102916325071223_1.jpg"
-        },
-        {
-          "title": "[단독]현대차 미래항공·새만금 사업 가속..신차로 본업 경쟁력↑",
-          "desc": "29일 관련업계에 따르면 현대차는 최근 조직개편으로 제조솔루션본부 전동화생기(생산기술)센터 내에... 앞서 2019년 정의선 현대차그룹 회장(당시 수석부회장)도 \"미래에는 (현대차그룹 사업 비중이) 자동차가 50%, 30...",
-          "src": "머니투데이",
-          "date": "10/29",
-          "url": "https://n.news.naver.com/mnews/article/008/0005433941?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102915262747319_1.jpg"
         }
       ]
     },
@@ -181,55 +181,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "통물협-센디, '한 줄의 데이터, 스스로 움직이는 물류' 세미나 개최",
-          "desc": "각 기업이 자체 시스템을 도입하더라도 업무가 다른 기업으로 넘어가는 순간 정보가 끊기면 전화와 수기... 없이 활용할 수 있도록 제공하는 구독형 소프트웨어다. 센디는 그동안 200억 원 이상을 기술에 투자하며 축적한...",
-          "src": "klnews",
-          "date": "10/29",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323278",
-          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/323278_66883_5654_v150.jpg"
+          "title": "“AI 포트폴리오, 50만원이면 뚝딱” 취준생 노리는 대행업체",
+          "desc": "그런데 최근 AI 기술이 발전해 개발 현장에서 이를 활용하는 경우가 늘자 기업도 ‘실무 경험’을... 단순히 AI 전문 인력 채용을 강조하며 프로젝트 진행 여부만 확인하는 것으론 한계가 있다”며 “기업별 AI 도입 수준과...",
+          "src": "동아일보",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/020/0003758831?sid=102",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134936816.1.jpg"
         },
         {
-          "title": "엠로, GS칼텍스에 구매 자동화 AI 에이전트 구축",
-          "desc": "에이전트 도입을 결정했다. GS칼텍스 전략구매부문은 연간 2,700여 건에 달하는 소액 자재 구매 업무를 혁신하기 위해 회사 내 DAX(Digital & AI Transformation) 센터와 함께 관련 기술 발전 동향 모니터링 등을 꾸준히...",
-          "src": "klnews",
-          "date": "10/29",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323280",
-          "img": "https://cdn.klnews.co.kr/news/thumbnail/202610/323280_66884_5749_v150.jpg"
+          "title": "[오늘의 경제뉴스] 제조업 '게임체인저' 로봇손, 감각·정밀도·경량화...",
+          "desc": "손을 활용한 정밀 조작 기술 등을 살펴본 것으로 알려졌다. 삼성전자는 2030년까지 국내외 생산공장을 'AI... 생산라인과 설비를 관리하는 로봇부터 자재 운반과 조립을 수행하는 로봇까지 단계적으로 도입해 제조 현장의...",
+          "src": "newsverse",
+          "date": "10/30",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11796",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202610/11796_20202_1811_v150.jpg"
         },
         {
-          "title": "대웅제약·동탄시티병원, MARS 2026서 AI 스마트 병원 공개…\"진단부터 ...",
-          "desc": "향후 지자체와 의료기관, 기술기업 간 협력을 바탕으로 실제 의료현장에서의 활용 사례를 축적하고 관련 모델의 확산을 추진할 계획이다. 김미영 동탄시티병원 행정원장은 \"AI 스마트 병원의 가치는 첨단기술 도입...",
-          "src": "thefirstmedia",
-          "date": "10/29",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212214",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202610/212214_196203_3023_v150.jpg"
+          "title": "올마이투어, 싱가포르 ‘ITB Asia 2026’ 참가… AI 호텔 직판 홈페이지...",
+          "desc": "해외 도입 방안을 모색했다. 국내 4성급 호텔인 ‘서울가든호텔’과 지난 6월부터 기술검증(PoC)을... 탈로스 허브 API는 자사의 직계약 숙소 상품을 전 세계 수요 기업에 실시간 공급하는 유통 기술로, 이를 활용해...",
+          "src": "sports",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/144/0001147146?sid=103",
+          "img": "https://images.khan.co.kr/article/2026/10/30/news-p.v1.20261030.97c2052a73e04228bf8408b2d2634ea7_P1.jpg"
         },
         {
-          "title": "원격중환자실, 강원·충북 이어 11월 서울까지…전국 4개 권역으로",
-          "desc": "◆거점병원이 지역 중환자실 원격으로 연결 원격중환자실은 정보통신기술(ICT)로 권역 거점병원과 지역... 환자 상태 악화 예측, 영상 기반 생체정보 분석, 음성인식 협진 요약 등 세 가지 AI를 도입해 의료진의 빠른...",
-          "src": "medicalworldnews",
-          "date": "10/29",
-          "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978162",
-          "img": ""
+          "title": "\"AI 인프라 공급망 병목, 함께 풀자\"",
+          "desc": "빅테크(대형 IT기업) 기술에 종속되지 않고 자체 인프라와 프레임워크를 구비하려는 수요가 매우 크다는 것이다. 그러면서 \"기업뿐만 아니라 개개인까지 독립적으로 AI를 활용할 수 있는 단계에 이르러야 진정한 의미의...",
+          "src": "머니투데이",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/008/0005434006?sid=105",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102919434117867_1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "107조 축포 뒤 8천억 적자…삼성전자 역대급 실적의 두 얼굴",
-      "url": "https://n.news.naver.com/mnews/article/448/0000647866?sid=101",
-      "img": "https://img.tvchosun.com/sitedata/image/202610/29/2026102990292_thumb.jpg"
+      "title": "삼전 실적, 매출 3배 증가 HBM이 견인… 10개社와 장기계약도",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758878?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134936848.1.jpg"
     },
     {
-      "title": "반도체로만 106조 벌었다…내년 HBM '완판'",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542109",
-      "img": "https://cdn.obsnews.co.kr/news/thumbnail/202610/1542109_741091_4122_v150.jpg"
+      "title": "107조 번 삼전, 주주들은 더 큰 걸 원했다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561630?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/30/4071b4a7-29bb-4590-a0f5-211da2abf3d1.jpg"
     },
     {
-      "title": "LG 세탁기는 왜 ‘11시까지 끝내기’ 기능을 만들었나",
-      "url": "https://n.news.naver.com/mnews/article/310/0000141277?sid=101",
-      "img": "https://cdn.womennews.co.kr/news/thumbnail/202610/283910_456954_2051_v150.jpg"
+      "title": "LG전자·LG유플·삼성전자·코웨이·귀뚜라미…‘AI 기능 제품’ 품질 만...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561590?sid=101",
+      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
     },
     {
       "title": "삼성전자, 혼수 가전 전문 매장 새단장…신혼 맞춤 구독 서비스 강화",
@@ -237,14 +237,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115661_778764_544_v150.jpg"
     },
     {
+      "title": "이번엔 '하늘 동력'… 특별팀 꾸린 현대차",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434009?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102919333420256_1.jpg"
+    },
+    {
       "title": "현대차, 6년 만에 매출 역성장…판매 목표 낮추고 수익성 방어 안간힘",
       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314261",
       "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/314261_226889_1022_v150.jpg"
-    },
-    {
-      "title": "현대차, 3분기 글로벌 판매 11.3% 감소…연간 판매·수익성 목표 하향",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=148083",
-      "img": "https://cdn.gpkorea.com/news/photo/202610/148083_314946_83.jpg"
     }
   ]
 };
