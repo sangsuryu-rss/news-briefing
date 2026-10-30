@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.31 (토) 04:25",
+  "updatedAt": "2026.10.31 (토) 08:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 코리아 그랜드 페스티벌 동참 … 가전·모바일 할인에 소상공...",
-          "desc": "삼성전자가 11월 한 달간 열리는 국가 차원의 소비 촉진 행사에 참여해 가전과 모바일, IT 제품의 할인 혜택을 확대한다. 고물가로 위축된 소비심리를 살리고 소상공인의 사업 운영 부담을 줄이기 위한 별도 프로모션도...",
-          "src": "worktoday",
+          "title": "[주말장보기] 이마트 쓱데이 한우 반값…삼성전자·LG전자 가전 할인까...",
+          "desc": "삼성전자·LG전자 가전제품도 쓱데이 혜택으로 선보이며, 쿠팡은 다음 주부터 와우회원 대상 할인전을 연다. 이마트는 11월 8일까지 쓱데이를 진행한다. 신선식품과 가공식품, 생활용품, 가전제품 등을 대상으로 올해...",
+          "src": "kizmom",
           "date": "10/31",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91255",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202610/91255_131387_5033_v150.jpg"
+          "url": "https://www.kizmom.com/news/articleView.html?idxno=113657",
+          "img": "https://cdn.kizmom.com/news/photo/202610/113657_60013126_1611.png"
         },
         {
-          "title": "\"소상공인 전용 혜택 2배로 확대\"… 삼성전자, 최대 50% 핫딜 쏜다",
-          "desc": "세탁건조기와 TV, 냉장고 등 주요 가전제품을 비롯해 갤럭시 스마트폰과 태블릿, 노트북 등에 할인 혜택을 제공한다. 삼성전자는 2016년부터 올해까지 11년 연속 국가 차원의 소비 진작 캠페인에 참여하고 있다. 올해는...",
-          "src": "woodkorea",
+          "title": "삼성·LG전자, '코리아 그랜드 페스티벌'…연말 가전 대전 포문",
+          "desc": "◇삼성전자, 가전·모바일 전방위 할인…소상공인 지원 사격 삼성전자도 11월 1일부터 30일까지 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 열고 가전·모바일·정보기술(IT) 제품 전반에 할인 혜택을 진행한다....",
+          "src": "서울경제TV",
           "date": "10/31",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92269",
-          "img": "https://cdn.woodkorea.co.kr/news/photo/202610/92269_105883_2618.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202610300122",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/30/sentv20261030000124.jpg"
         },
         {
           "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+          "desc": "엔진 시동·발전을 담당하는 시동 모터(P1)와 구동·회생 제동을 담당하는 구동 모터를 결합한 병렬형 구조로, 현대차그룹이 제네시스를 위해 별도 개발한 전동화 파워트레인이다. 통상 하이브리드차는 엔진과 전기...",
+          "src": "연합뉴스",
+          "date": "10/31",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413082?sid=101",
+          "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030163600003_01_i_P4.jpg"
+        },
+        {
+          "title": "'형님' 현대차 주춤, '아우' 기아 약진…실적 온도 차",
+          "desc": "com 현대자동차그룹 양재 사옥 [사진=현대차] 현대자동차와 기아의 실적 온도 차가 뚜렷해지고 있다.... 실제 기아의 올해 1~9월 전동화 차량(xEV) 소매 판매 대수는 30만대로 전년 동기 대비 47% 증가했다. 같은 기간...",
+          "src": "아주경제",
+          "date": "10/31",
+          "url": "https://www.ajunews.com/view/20261030161842103",
+          "img": "https://image.ajunews.com/content/image/2026/10/30/20261030161939338526.jpg"
+        },
+        {
           "title": "현대차그룹 3사, 3분기 부담 속 영업익 증가…4분기 회복 기반 다져",
           "desc": "30일 현대차그룹에 따르면 현대차는 3분기 매출 45조1102억 원, 영업이익 2조6772억 원을 기록했다. 매출은... 전동화차 판매는 47% 증가한 30만 대를 기록했고 미국 HEV 판매와 서유럽 EV 판매도 각각 118%, 163% 증가했다....",
           "src": "g-enews",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "10/30",
           "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301902557110993",
           "img": "https://image.dnews.co.kr/photo/photo/2026/10/30/202610301902557110993-2-701741.png"
-        },
-        {
-          "title": "車 목표 낮췄는데 부품사는 성장…현대차그룹 3분기 실적 온도차",
-          "desc": "현대모비스는 전동화와 애프터서비스(A/S) 사업을 중심으로 수익성을 높였고, 현대위아는 엔진·모듈 공급... 현대차그룹 주요 계열사들의 실적 차이는 각 회사의 사업 구조와 수익 기반이 서로 다르다는 점에서 살펴볼...",
-          "src": "kukinews",
-          "date": "10/30",
-          "url": "https://www.kukinews.com/article/view/kuk202610300161",
-          "img": ""
-        },
-        {
-          "title": "기아, 수요 한파 속 3분기 영업이익 24% 증가...국내·미국 점유율 역대...",
-          "desc": "국내와 미국에서 분기 기준 역대 최고 점유율을 기록했고, 하이브리드(HEV)와 전기차(EV) 등 전동화 차량... ▲현대차 그룹 양재사옥/사진=현대차 제공 국내에서는 산업수요가 10.7% 줄었는데도 소매판매가...",
-          "src": "socialvalue",
-          "date": "10/30",
-          "url": "https://www.socialvalue.kr/news/view/1065602179442132",
-          "img": "http://www.socialvalue.kr/news/data/20261030/p1065602179442132_975_thum.jpg"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "'전기 먹는 하마' 덕에 황금알된 재생에너지…우리는? [취재여담]",
+          "desc": "해외에서 데이터센터를 빌려 쓸 때 현지 전력 사정에 밝은 협력사의 경험을 활용할 수 있다는 것입니다.... 삼성전자 반도체 부문과 SK하이닉스는 해외 사업장의 재생에너지 전환을 각각 2020년과 2022년 완료했습니다....",
+          "src": "biz",
+          "date": "10/31",
+          "url": "https://n.news.naver.com/mnews/article/374/0000540926?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/10/30/l4z1793339234570-850.png"
+        },
         {
           "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
           "desc": "서버 부품이나 전력·냉각 장치처럼 한국이 약한 고리를 메우는 투자에는 세제와 규제 특례를 집중할 필요가 있다. 대만이 TSMC를 앞세워 폭스콘과 델타를 키웠듯, 한국도 LG전자와 애플을 축으로 협력사의 두께를 쌓을...",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/30",
           "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420346",
           "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1420346_1599140_3418_v150.jpg"
-        },
-        {
-          "title": "삼성전자 57주년…전영현은 '호황 경계'·노태문은 'AI 쇄신'",
-          "desc": "사상 최대 실적을 거둔 반도체 부문은 호황에 안주하지 않는 기술·품질 경쟁력을, 부품 가격 상승과 공급망 불확실성에 직면한 완제품 부문은 인공지능 전환(AX)을 통한 체질 개선을 강조했다. 삼성전자는 오는 11월 1일...",
-          "src": "뉴스인사이드",
-          "date": "10/30",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5036837",
-          "img": "https://cdn.newsinside.kr/news/photo/202610/5036837_942223_3635.jpg"
         }
       ]
     },
@@ -181,50 +181,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[금융권 AI 해킹-下] 외부접점 확대에 금융권 보안체계 재설계 필요",
-          "desc": "인공지능(AI) 에이전트를 활용한 공격이 외부에 노출된 시스템과 계정의 취약점을 찾아낼 수 있어 접근... 보안체계 도입을 추진하고 있다. 제로트러스트는 내부망과 외부망을 구분해 신뢰하는 기존 방식에서 벗어나...",
-          "src": "pointdaily",
+          "title": "에이아이매틱스가 '월드모델'로 제조 현장 문제 푸는 법",
+          "desc": "채정훈 에이아이매틱스 AI미래기술개발그룹장은 지난 26일 지디넷코리아와 만나 “처음에는 결함 데이터를... 문제로 AI를 도입하기 어려웠던 분야에도 적용할 수 있다”고 설명했다. 정답 가르치기 전 사전 지식부터...",
+          "src": "ZDNet코리아",
           "date": "10/31",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324336",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/324336_321308_450_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002443261?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/10/30/dc4b8fa6eefac6c880837be7a54dbf43.jpg"
         },
         {
-          "title": "고장 징후부터 제동 전력까지 철도 운영 개선",
-          "desc": "데이터의 성격에 맞는 보호 기준을 세워 AI 활용을 지원하겠다는 취지다. 협약은 기술 도입에 앞선 검증의 출발점이다. 두 기관은 11월부터 실무협의체를 구성해 세부 과제를 구체화하고 현장 실증을 추진한다. 예측정비와...",
-          "src": "ccdailynews",
+          "title": "피직스심랩, 물리 시뮬레이션으로 로봇 학습 데이터 생성·검증 [서울AI...",
+          "desc": "'서울 AI 허브 2027' 기획시리즈는 서울 AI 허브에 입주한 스타트업들의 인공지능(AI) 기술과 서비스, 사업화... 기 업 명 대표자명 설립연도 투자단계 주요제품 사업분야 기술분야 주요성과 협업유형 도입단계 타깃시장...",
+          "src": "조선일보",
           "date": "10/31",
-          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2449007",
-          "img": "https://cdn.ccdailynews.com/news/thumbnail/202610/2449007_886215_4442_v150.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172991",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092172991_455789_1619_v150.jpg"
         },
         {
-          "title": "GS네오텍, AWS ‘Agentic AI 컴피턴시’ 취득",
-          "desc": "GS네오텍은 아마존 베드록 및 아마존 세이지메이커 AI 기반 모델 활용 역량을 비롯해 AWS 호환 에이전트... 기술 방법론과 GS네오텍의 클라우드 운영 노하우를 결합해 기업들이 AI 에이전트를 안정적으로 도입하고...",
-          "src": "sports",
+          "title": "[오늘의 경제뉴스] 금융권 덮친 AI 활용 해킹 공포...보안업계는 뒤에서...",
+          "desc": "이에 관련 기술을 보유한 보안기업들의 사업 기회도 넓어지게 될 것으로 보인다. 서울 시내 설치된 은행 ATM기. (사진=연합뉴스) 최근 들어 인공지능(AI)을 악용한 금융권 해킹 사례가 크게 늘고 있다. AI를 통해 보안이...",
+          "src": "newsverse",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/144/0001147313?sid=105",
-          "img": "https://images.khan.co.kr/article/2026/10/31/news-p.v1.20261031.9ef777c7a7414d18a438944ff5663854_P1.jpg"
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11805",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202610/11805_20221_73_v150.jpg"
         },
         {
-          "title": "“AI 의료 성큼… 암-심혈관 질환도 컨트롤한다”",
-          "desc": "이미 AI 첨단 기술을 도입한 병원들도 있다. ‘미래병원’으로의 변신을 꾀하고 있는 미국의 시더스-시나이... AI 연합 학습 데이터를 활용하면 이런 약점을 극복할 수 있다. 존 할람카 메이요 클리닉 플랫폼 대표...",
-          "src": "동아일보",
+          "title": "AI가 서면 쓰는 시대…'변호사 육성 공식'이 바뀐다",
+          "desc": "생성형 AI를 도입했고, 지난해부터 하비를 글로벌 자문 업무에 활용하고 있다. 올해는 레고라(Legora)·챗GPT... 중요해진다\"며 AI 결과물을 고객에게 설명하는 능력도 꼽았다. 지평은 특정 도구의 숙련도보다 새로운 기술을...",
+          "src": "sisajournal",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/020/0003759093?sid=103",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134939999.4.jpg"
+          "url": "https://n.news.naver.com/mnews/article/586/0000141296?sid=102",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202610/392004_401285_5516_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 코리아 그랜드 페스티벌 동참 … 가전·모바일 할인에 소상공...",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91255",
-      "img": "http://www.worktoday.co.kr/news/thumbnail/202610/91255_131387_5033_v150.jpg"
+      "title": "[주말장보기] 이마트 쓱데이 한우 반값…삼성전자·LG전자 가전 할인까...",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=113657",
+      "img": "https://cdn.kizmom.com/news/photo/202610/113657_60013126_1611.png"
     },
     {
-      "title": "\"소상공인 전용 혜택 2배로 확대\"… 삼성전자, 최대 50% 핫딜 쏜다",
-      "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92269",
-      "img": "https://cdn.woodkorea.co.kr/news/photo/202610/92269_105883_2618.jpg"
+      "title": "삼성·LG전자, '코리아 그랜드 페스티벌'…연말 가전 대전 포문",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610300122",
+      "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/30/sentv20261030000124.jpg"
     },
     {
       "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
@@ -237,14 +237,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.sisaweek.com/news/thumbnail/202610/238706_257947_1551_v150.jpg"
     },
     {
-      "title": "현대차그룹 3사, 3분기 부담 속 영업익 증가…4분기 회복 기반 다져",
-      "url": "https://www.g-enews.com/view.php?ud=202610301713516763112616b072_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026103018073803299112616b0722112125164.jpg"
+      "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413082?sid=101",
+      "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030163600003_01_i_P4.jpg"
     },
     {
-      "title": "[컨콜 줍줍] 기아 “수익성 떨어져도 전기차 늘린다…2~3년 안에 하이브...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301902557110993",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/10/30/202610301902557110993-2-701741.png"
+      "title": "'형님' 현대차 주춤, '아우' 기아 약진…실적 온도 차",
+      "url": "https://www.ajunews.com/view/20261030161842103",
+      "img": "https://image.ajunews.com/content/image/2026/10/30/20261030161939338526.jpg"
     }
   ]
 };
