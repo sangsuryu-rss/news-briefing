@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.30 (금) 08:57",
+  "updatedAt": "2026.10.30 (금) 14:53",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 11월 한달간 코리아 페스티벌",
-          "desc": "행사 모델에는 올인원 세탁건조기 '비스포크(맞춤형) AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등 가사 부담을 대폭 줄여주는 핵심 AI 가전들이 대거 포함됐다. (삼성전자 제공. 재판매 및 DB 금지) 2026.10.30/뉴스1",
-          "src": "뉴스1",
+          "title": "전영현·노태문, 삼성전자 창립 57주년 기념사서 \"미래 대비\"강조",
+          "desc": "전영현 \"신속 유연 대응체계\" 강조…노태문 \"지속 성장 기반 만들 것\" 전영현 삼성전자 부회장이 반도체... 인텔리전트 아이웨어, AI 컴패니언 디바이스, 홈 엔터테인먼트 AI TV, 홈 컴패니언 가전 등 새로운 혁신 제품 성공...",
+          "src": "srtimes",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/421/0009259952?sid=101",
-          "img": "https://image.news1.kr/system/photos/2026/10/30/8187852/high.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=216331",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202610/216331_221399_395_v150.jpg"
         },
         {
-          "title": "삼성전자, '코리아 그랜드 페스티벌' 맞아 가전 할인 행사",
-          "desc": "= 삼성전자는 대한민국 최대 쇼핑 행사인 '코리아 그랜드 페스티벌'을 맞아 다음 달 1일부터 30일까지 한 달간 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 진행한다고 30일 밝혔다. 행사 기간 세탁건조기, TV...",
-          "src": "뉴스1",
+          "title": "\"100조 벌고도 주가 급락\"…삼성전자에 빠진 마지막 퍼즐",
+          "desc": "MS투데이] 삼성전자가 분기 영업이익 100조원 시대를 처음 열었지만 주가는 오히려 급락했다. 역대 최대... 반면 스마트폰과 가전 등을 담당하는 디바이스경험(DX) 부문은 8000억원의 영업손실을 기록했다. ◆ 30조원...",
+          "src": "mstoday",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/421/0009259951?sid=101",
-          "img": "https://image.news1.kr/system/photos/2026/10/30/8187854/high.jpg"
+          "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200324",
+          "img": "https://cdn.mstoday.co.kr/news/photo/202610/200324_200395_420.png"
         },
         {
-          "title": "삼성전자, 11월 코리아 그랜드 페스티벌 진행",
-          "desc": "행사 모델에는 올인원 세탁건조기 '비스포크(맞춤형) AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등 가사 부담을 대폭 줄여주는 핵심 AI 가전들이 대거 포함됐다. (삼성전자 제공. 재판매 및 DB 금지) 2026.10.30/뉴스1",
-          "src": "뉴스1",
+          "title": "삼성전자, '코리아 그랜드 페스티벌' 개최…가전·모바일 할인",
+          "desc": "삼성전자는 2016년부터 11년 연속 국가 차원의 소비 진작 행사에 참여하고 있다. 올해 행사에서는 세탁건조기와 TV, 청소기, 냉장고 등 주요 가전제품 11개 품목을 대상으로 할인 등을 제공한다. 행사 모델에는 올인원...",
+          "src": "pointdaily",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/421/0009259953?sid=101",
-          "img": "https://image.news1.kr/system/photos/2026/10/30/8187851/high.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324333",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/324333_321296_1839_v150.jpg"
         },
         {
-          "title": "LG전자·LG유플·삼성전자·코웨이·귀뚜라미…‘AI 기능 제품’ 품질 만...",
-          "desc": "KCC글라스(PVC 바닥재), 한일시멘트(포틀랜드 시멘트), 경동나비엔(콘덴싱 가스보일러), 현대자동차(준중형승용차, 중형승용차, 준중형SUV, 대형SUV), 삼성전자(TV, 드럼세탁기)가 17년 연속 1위에 올랐고, 현대자동차...",
-          "src": "중앙일보",
+          "title": "'제2회 코리아 그랜드 페스티벌' 최대 50% 할인",
+          "desc": "또한 삼성전자와 LG전자, 위닉스 등 주요 가전업체들도 세탁기, 냉장고, 노트북 등 대표 가전 라인업에 대한 대대적인 할인 프로모션을 펼친다. 서민 물가 안정과 직접 연결된 먹거리 및 김장철 물가 부담 완화 대책도...",
+          "src": "이데일리",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/025/0003561590?sid=101",
-          "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365448",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202610/365448_300462_1429_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK",
-          "desc": "이 연구원은 “북미를 중심으로 HEV 판매가 견조하게 유지되고 있으며, 하반기 주요 신차 투입과 전동화... 현대차그룹은 로보택시 공급 확대와 보스턴다이내믹스의 휴머노이드 로봇 ‘아틀라스(Atlas)’ 상용화를...",
-          "src": "이데일리",
+          "title": "2028년 미국 공장에 투입되는 아틀라스... 현대모비스가 '움직임' 책임진...",
+          "desc": "2028년으로 예상되는 공급 시점에 맞춰 고객사와 함께 성능과 신뢰성을 검증할 계획이다.현대차그룹은... 유럽 시장을 중심으로 전기차 부품 공급이 확대되면서 전동화사업 매출이 증가했다. 제품 구성 개선도 더해져...",
+          "src": "insight",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/018/0006399625?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26103000497.jpg"
+          "url": "https://www.insight.co.kr/news/579921",
+          "img": "https://img.insight.co.kr/static/2026/10/30/1200/img_20261030142232_o5eln01r.jpg"
         },
         {
-          "title": "투자 1.8조 줄인 현대차…미래 성장동력 확보 ‘딜레마’",
-          "desc": "특히 현대차그룹이 9조원 규모의 새만금 AI 밸리 구축을 비롯해 대규모 신사업 투자를 추진하고 있어 기존... 새만금뿐 아니라 미국 현지 생산 확대와 전동화 전환, 소프트웨어 중심 차량(SDV), 자율주행, 로보틱스 등도...",
-          "src": "디지털타임스",
+          "title": "[THE COMPASS] 방산 떼어낸 현대위아, ‘독자 생존’ vs ‘내부 종속’ 갈...",
+          "desc": "현대위아는 현대차그룹의 전동화 플랫폼에 적용될 열관리 모듈 공급을 시작으로 관련 기술력을 대폭 강화하고 있다. 그러나 전문가들은 통합 열관리 시스템과 로봇 부품 사업이 성공적으로 안착하더라도, 공급처가...",
+          "src": "fntimes",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/029/0003056193?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/10/29/news-p.v1.20261029.cfbe923dfba74f85a67b28366e84f22a_R.png"
+          "url": "https://www.fntimes.com/html/view.php?ud=202610301412402287492587736_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026103014145907662074925877361211627527.jpg&nmt=18"
         },
         {
-          "title": "이번엔 '하늘 동력'… 특별팀 꾸린 현대차",
-          "desc": "29일 관련업계에 따르면 현대차는 최근 조직개편으로 제조솔루션본부 전동화생산기술센터 내에... 앞서 2019년 정의선 현대차그룹 회장(당시 수석부회장)도 \"미래에는 (현대차그룹 사업 비중이) 자동차가 50%, 30%는 PAV...",
-          "src": "머니투데이",
+          "title": "[중국차 공습]① 전기차만이 아니다…하이브리드까지 파고드는 중국차",
+          "desc": "중국 업체들은 내수 시장에서 축적한 전동화 기술과 가격 경쟁력을 바탕으로 하이브리드와 PHEV까지 수출... 모빌리티 글로벌은 현대자동차그룹의 다중 파워트레인 전략에 대해 \"시장 불확실성이 지속되는 상황에서는...",
+          "src": "아시아타임즈",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/008/0005434009?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102919333420256_1.jpg"
+          "url": "https://www.asiatime.co.kr/article/20261030500234",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/10/30/.cache/512/20261030500233.png"
         },
         {
-          "title": "현대차, 6년 만에 매출 역성장…판매 목표 낮추고 수익성 방어 안간힘",
-          "desc": "[사진=현대차그룹] 현대자동차가 하이브리드차 판매 확대와 환율 효과로 3분기 영업이익을 늘렸지만... 그러나 글로벌 전동화 차량 판매는 2.7% 감소했다. 하이브리드차 선전이 전체 판매 부진을 상쇄하지는 못한...",
-          "src": "straightnews",
-          "date": "10/29",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314261",
-          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202610/314261_226889_1022_v150.jpg"
+          "title": "베이징현대 주주 갈등, 첫 중국인 사장 퇴진, 경영재기 노력 난항",
+          "desc": "현대차그룹이 중국 시장에 정통한 현지 인력을 전면에 내세워 경영 혁신을 추진하려는 의지를 보여준... 베이징현대의 전동화 전환도 속도를 내고 있다. 현대차는 올해 4월 중국에 전기차 전용 브랜드 아이오닉을...",
+          "src": "뉴스핌",
+          "date": "10/30",
+          "url": "https://www.newspim.com/news/view/20261030000683",
+          "img": "https://img.newspim.com/news/2026/10/30/2610301340353640_t1.jpg"
         }
       ]
     },
@@ -101,36 +101,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "전영현 “호황일수록 겸손” vs 노태문 “원가 파고 넘자”…창립 57주...",
-          "desc": "노태문 DX부문장(대표)은 부품 가격 상승에 맞선 원가 경쟁력 확보를 주문했다. AI발 반도체 호황이 두 부문에 엇갈린 영향을 주고 있다는 방증이다. 삼성전자는 11월 1일 창립 57주년을 맞는다. 전 대표는 기념사에서 AI...",
-          "src": "전자신문",
+          "title": "삼성전자 창립 57주년, 반도체 호황에도 위기 강조…DS·DX 경쟁력 강화...",
+          "desc": "삼성전자가 창립 57주년을 맞아 반도체 호황에 안주하지 않는 기술 경쟁력 확보와 인공지능(AI) 중심의 사업... 구성원 간 소통과 일하는 방식의 개선을 추진하고, 협력사와 지역사회와의 상생 및 준법 경영도 지속적인...",
+          "src": "thepowernews",
           "date": "10/30",
-          "url": "https://n.news.naver.com/mnews/article/030/0003480322?sid=101",
-          "img": "https://img.etnews.com/news/article/2026/03/18/news-p.v1.20260318.65123a19ecaf43919a934820e6515a61_P1.jpg"
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202610301402582203de3f0aa1be_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261030140351091110de3f0aa1be2208661207.jpg&nmt=7"
         },
         {
-          "title": "[오늘의 이슈]빅테크 실적 쇼크, 코스피 반도체 버틸까",
-          "desc": "삼성전자가 4% 넘게 떨어지며 하락을 이끌었다. 30일 장에서는 미국의 AI 투자 회의론이 반도체주... 현대차 판매 목표 하향은 부품 협력사의 4분기 물량 계획과 직결된다. 일본은행은 이틀간의 금융정책결정회의를...",
-          "src": "newskr",
+          "title": "삼성전자 창립 57주년…전영현·노태문 “근원적 경쟁력 강화” 주문",
+          "desc": "부품 가격 상승에 대응해 제품 완성도와 원가 경쟁력을 강화해야 한다고 당부했습니다. 전영현 삼성전자... 고객 신뢰와 협력사 상생도 강조했습니다. 전 부회장은 “호황을 이유로 고객에게 무리한 요구를 하거나...",
+          "src": "newstomato",
           "date": "10/30",
-          "url": "http://www.newskr.kr/news/articleView.html?idxno=107573",
-          "img": "https://cdn.newskr.kr/news/thumbnail/202610/107573_96978_5111_v150.jpg"
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1318647&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/10/30/1318647/attach.jpg?v=202610301338"
         },
         {
-          "title": "[의료기기업계 소식] 10월 29일",
-          "desc": "■ 위코멧, '삼성전자 EHS 협력사 데이' CPR 체험존 운영 위코멧(대표 이정훈)이 지난 28일 삼성전자 DX부문... 파커스는 50년동안 정밀 부품 제조 사업을 이어오며 글로벌 대기업 1차 벤더로 제품을 공급하고 있다. 국내...",
-          "src": "doctorstimes",
-          "date": "10/29",
-          "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240768",
-          "img": "http://www.doctorstimes.com/news/thumbnail/202610/240768_113907_2654_v150.jpg"
+          "title": "창립 57주년 삼성전자 “호황일수록 더 겸손해야”",
+          "desc": "아직 가야 할 길이 많이 남아 있습니다” 삼성전자가 다음달 1일 창립 57주년을 앞둔 가운데 양대 사업부문... 전 부회장은 “우리가 거둔 성과가 협력사와 지역사회에도 새로운 기회로 이어질 수 있도록 노력해야 한다”...",
+          "src": "헤럴드경제",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/016/0002716706?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/10/30/news-p.v1.20261030.4d611f4d73804b1b8048bb3246eeae23_P1.png"
         },
         {
-          "title": "베트남 부총리 만난 애플, 직접전력구매(DPPA) 제도 개선 건의…청정에...",
-          "desc": "현재 베트남 내 DPPA 제도에 참여 중인 기업은 삼성전자타이응우옌(SEVT)이 유일한 상황이다. 삼성전자는... 베트남 협력사 육성 프로그램을 만들어 달라고 요청했다. 또한 베트남 유망 기업들이 품질·안전·원산지 추적...",
-          "src": "insidevina",
-          "date": "10/29",
-          "url": "https://www.insidevina.com/news/articleView.html?idxno=44380",
-          "img": "https://cdn.insidevina.com/news/photo/202610/44380_45321_5147.png"
+          "title": "삼성전자 창립 57주년…전영현 \"자축보다 현실 냉정히 돌아봐야\"",
+          "desc": "전환\" 삼성전자 반도체(DS)와 완제품(DX) 부문을 이끄는 전영현·노태문 대표이사가 창립 57주년을 맞아 사상... 협력사 및 고객사에 대한 겸손한 태도도 당부했다. 전 부회장은 \"호황을 이유로 고객에게 무리한 요구를...",
+          "src": "sisajournal",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/586/0000141199?sid=101",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202610/392310_401419_5024_v150.jpg"
         }
       ]
     },
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[아주초대석] 최영철 SGA솔루션즈 대표 \"제로트러스트·N2SF 신사업 연 1...",
-          "desc": "트러스트 도입이다. N2SF는 정보의 중요도에 따라 보안 수준을 차등 적용하는 국가망보안체계로 공공기관의 클라우드 활용이 확대되고 보안체계 전환이 추진되면서 관련 수요가 늘어날 것으로 보고 있다. AI 기술도...",
-          "src": "아주경제",
+          "title": "채용에도 AI 바람…'역량 분석부터 인재 선발' 한계와 역할",
+          "desc": "점에서 활용 가능성을 보여준다. 카카오 역시 채용 과정에 AI 사전 인터뷰 도입을 추진하고 있다. AI가... 현재 보유한 지식이나 기술은 시험과 면접으로 어느 정도 확인할 수 있지, 새로운 업무를 얼마나 빨리 익히고...",
+          "src": "mediapen",
           "date": "10/30",
-          "url": "https://www.ajunews.com/view/20261028151130663",
-          "img": "https://image.ajunews.com/content/image/2026/10/28/20261028151337718796.jpg"
+          "url": "https://www.mediapen.com/news/view/1133888",
+          "img": "https://image.mediapen.com/news/202610/news_1133888_1793338397_m.jpg"
         },
         {
-          "title": "[아주초대석] 최영철 SGA솔루션즈 대표 \"AI 해킹 막으려면 보안 기본부터...",
-          "desc": "AI 기술을 활용한 보안 대응도 필요하지만 기업들이 인증과 접근통제 등 기존 보안체계의 취약점부터... AI로 취약점 탐색이 쉬워질수록 침해 발생을 가정한 보안체계가 중요해진다.\" -국내 기업들의 제로트러스트 도입...",
-          "src": "아주경제",
+          "title": "효성重, 지멘스와 디지털 전력망·AI 데이터센터 협력",
+          "desc": "유럽과 중동 등 디지털 변전소 도입이 확대되는 시장의 수요에 대응한다는 전략입니다. AI 데이터센터 분야에서는 전력변환 설비와 에너지관리 기술을 결합한 통합 솔루션 개발에 나섭니다. 효성중공업의 차세대 전력변환...",
+          "src": "biz",
           "date": "10/30",
-          "url": "https://www.ajunews.com/view/20261028145420560",
-          "img": "https://image.ajunews.com/content/image/2026/10/28/20261028150309275971.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000540850?sid=101",
+          "img": "https:"
         },
         {
-          "title": "대구기계부품연구원, 제조AI 기술교류회 개최…지역 기업 AI 전환 지원",
-          "desc": "송규호 DMI 원장은 “이번 기술교류회는 제조AI의 최신 기술과 현장 적용 사례를 공유하고, 지역 제조기업이 데이터 활용과 AI 도입 과정에서 겪는 어려움을 함께...",
-          "src": "breaknews",
+          "title": "태림산업, 생산성 혁신으로 국무총리 표창",
+          "desc": "도입 자체보다 생산 현장의 비효율을 줄이고 공정 경쟁력을 높이는 데 초점을 맞췄다. 디지털 기술을 활용한... 태림산업은 앞으로 인공지능(AI) 기반 제조혁신과 차세대 자동차 부품 기술개발을 강화해 생산 경쟁력을...",
+          "src": "매일경제",
           "date": "10/30",
-          "url": "http://www.breaknews.com/1246968",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/009/0005756599?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.cddab8f68f8446e59a432ff75e76edb5_R.jpg"
         },
         {
-          "title": "충남도의회, AI로 고령화·돌봄 공백 해법 찾는다",
-          "desc": "위해서는 기술 도입에 그치지 않는 실질적인 정책 설계가 필요하다는 데 공감했다. 연구모임 대표인 민병희 의원(더불어민주당·부여1)은 “AI 기술이 어르신들의...",
-          "src": "breaknews",
+          "title": "제이브이엠, 3분기 매출 405억원﻿·영업이익 99억원..전년比 30% 증가",
+          "desc": "로봇 및 인공지능(AI) 관련 기술 개발과 특허 확보를 지속하는 한편, 약국·병원 조제 환경 변화에 대응한 신제품을 꾸준히 선보이며 제품 경쟁력을 높이고 있다. 특히 의약품 자동조제 장비부터 현장 활용도를 높이는...",
+          "src": "getnews",
           "date": "10/30",
-          "url": "http://www.breaknews.com/1247023",
-          "img": ""
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885439",
+          "img": "https://cdn.getnews.co.kr/news/photo/202610/885439_543534_480.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 11월 한달간 코리아 페스티벌",
-      "url": "https://n.news.naver.com/mnews/article/421/0009259952?sid=101",
-      "img": "https://image.news1.kr/system/photos/2026/10/30/8187852/high.jpg"
+      "title": "전영현·노태문, 삼성전자 창립 57주년 기념사서 \"미래 대비\"강조",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216331",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202610/216331_221399_395_v150.jpg"
     },
     {
-      "title": "삼성전자, '코리아 그랜드 페스티벌' 맞아 가전 할인 행사",
-      "url": "https://n.news.naver.com/mnews/article/421/0009259951?sid=101",
-      "img": "https://image.news1.kr/system/photos/2026/10/30/8187854/high.jpg"
+      "title": "\"100조 벌고도 주가 급락\"…삼성전자에 빠진 마지막 퍼즐",
+      "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200324",
+      "img": "https://cdn.mstoday.co.kr/news/photo/202610/200324_200395_420.png"
     },
     {
-      "title": "삼성전자, 11월 코리아 그랜드 페스티벌 진행",
-      "url": "https://n.news.naver.com/mnews/article/421/0009259953?sid=101",
-      "img": "https://image.news1.kr/system/photos/2026/10/30/8187851/high.jpg"
+      "title": "삼성전자, '코리아 그랜드 페스티벌' 개최…가전·모바일 할인",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324333",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202610/324333_321296_1839_v150.jpg"
     },
     {
-      "title": "LG전자·LG유플·삼성전자·코웨이·귀뚜라미…‘AI 기능 제품’ 품질 만...",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561590?sid=101",
-      "img": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+      "title": "'제2회 코리아 그랜드 페스티벌' 최대 50% 할인",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365448",
+      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202610/365448_300462_1429_v150.jpg"
     },
     {
-      "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK",
-      "url": "https://n.news.naver.com/mnews/article/018/0006399625?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26103000497.jpg"
+      "title": "2028년 미국 공장에 투입되는 아틀라스... 현대모비스가 '움직임' 책임진...",
+      "url": "https://www.insight.co.kr/news/579921",
+      "img": "https://img.insight.co.kr/static/2026/10/30/1200/img_20261030142232_o5eln01r.jpg"
     },
     {
-      "title": "투자 1.8조 줄인 현대차…미래 성장동력 확보 ‘딜레마’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056193?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/10/29/news-p.v1.20261029.cfbe923dfba74f85a67b28366e84f22a_R.png"
+      "title": "[THE COMPASS] 방산 떼어낸 현대위아, ‘독자 생존’ vs ‘내부 종속’ 갈...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610301412402287492587736_18",
+      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026103014145907662074925877361211627527.jpg&nmt=18"
     }
   ]
 };
