@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.31 (토) 14:48",
+  "updatedAt": "2026.10.31 (토) 21:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 수뇌부, 샘 올트먼 초청해 주말 ‘AI 간담회’",
-          "desc": "간담회에는 삼성전자 대표이사인 전영현 부회장, 노태문 사장을 비롯해 박학규 삼성전자 사업지원실장... 창립 기념일인 30일에도 별도 행사를 갖지 않고, 반도체와 완제품(가전·스마트폰) 사업을 이끄는 CEO들이 각각...",
-          "src": "조선일보",
+          "title": "'자동차도 할인…', 전국민 소비축제 '코그페' 내수 불 지핀다",
+          "desc": "삼성전자와 LG전자 등 주요 가전사도 제품을 할인 판매한다. 이마트, 롯데마트, 홈플러스, 하나로마트 등 대형마트, 준대규모점포(SSM)도 인기 육류와 제철 수산물 등을 최대 50% 할인 또는 '1+1 행사'를 통해 보다 싸게...",
+          "src": "서울신문",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/023/0004007068?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/APHK6FBUWVABNFVEIOD4KW3RYE.jpg?auth=e1c7cc65d96cf1afce77a498934bc555223f5b8d545ccbf76de99da91fe5f472&width=1200&height=630&smart=true"
+          "url": "http://www.metroseoul.co.kr/article/20261031500037",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/31/.cache/512/20261031500039.jpg"
         },
         {
-          "title": "삼성전자, 갤럭시 A18 LTE·코리아 그랜드 페스티벌로 '소비자·소상공인...",
-          "desc": "삼성전자와 함께 하는 코리아 그랜드 페스티벌'을 진행한다. 할인 대상은 세탁건조기, TV, 청소기... 가전 행사 모델에는 올인원 세탁건조기 '비스포크 AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등이 포함됐다....",
-          "src": "dailypop",
+          "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
+          "desc": "위해 삼성전자 B2B 사업자몰에서는 '소상공인 특별전'을 연다. 지난해 6개 품목·11개 모델이던 소상공인 전용 혜택 대상은 올해 13개 품목·104개 모델로 늘었다. 비스포크 AI 스팀 울트라 로봇청소기와 갤럭시 Z 폴드8...",
+          "src": "jnilbo",
           "date": "10/31",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=104016",
-          "img": "http://www.dailypop.kr/news/thumbnail/202610/104016_172239_623_v150.jpg"
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
+          "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
+        },
+        {
+          "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
+          "desc": "삼성전자는 올해까지 11년 연속 국가 차원의 소비 진작 캠페인에 참여하고 있으며, 가전과 모바일, IT 제품 전반에 걸쳐 다양한 구매 혜택을 마련했다고 오늘 밝혔습니다. 행사 기간 세탁건조기와 TV, 청소기, 냉장고 등...",
+          "src": "news",
+          "date": "10/31",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
         },
         {
           "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "10/31",
           "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
           "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
-        },
-        {
-          "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
-          "desc": "대표 상품으로는 로보락 S10 MaxV Ultra 로봇청소기, 삼성전자 갤럭시 Z폴드8 울트라, 올리브영 블랙프라이데이 기프트카드, 인스파이어 리조트 숙박 패키지 등이 제시됐다. 11번가는 11월 1일부터 11일까지 '그랜드십일절...",
-          "src": "segye",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101",
-          "img": "https://www.segye.com/content/image/2026/10/31/20261031502526.jpg"
         }
       ]
     },
@@ -181,60 +181,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "삼성 사장단 50명, 올트먼 만났다…그룹 AI 대전환 속도",
-          "desc": "'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 열린 행사에서는 AI 기술 발전 방향과 활용 가능성, 이에 따른... 삼성은 지난 6월부터 연구개발·생산·마케팅·지원 업무 전반에 AI를 도입하는 'AI 대전환'을 추진하고...",
-          "src": "newsway",
+          "title": "삼성, 샘 올트먼과 AI 혁신 간담회…전사적 AX 가속",
+          "desc": "참석자들은 AI 기술의 발전 방향과 활용 가능성을 살펴보고, 이를 통해 새롭게 형성될 시장과 사업 기회에... 삼성은 지난 6월부터 연구개발과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을...",
+          "src": "고코리아",
           "date": "10/31",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026103114433993453",
-          "img": "https://nimage.newsway.co.kr/photo/2026/10/31/20261031005716_1200.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883607",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/883607_161132_1622_v150.jpg"
         },
         {
-          "title": "삼성 사장단 50여명, 샘 올트먼과 회동…AI 미래전략 논의",
-          "desc": "삼성 사장단은 올트먼 CEO와 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 AI 기술의 발전 방향과 활용... 삼성은 지난 6월부터 연구개발(R&D)과 생산·마케팅·지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을 본격...",
-          "src": "MBN",
+          "title": "샘 올트먼, 삼성 사장단·최태원 연쇄 회동…韓 AI 동맹 확대",
+          "desc": "특히 AI를 단순히 도입하는 수준을 넘어 제품 개발과 경영 의사결정, 조직 운영 전반의 경쟁력을 높이는 방안에 초점을 맞췄다. 올트먼 CEO는 AI 기술을 활용하는 방식과 실행 속도가 향후 기업 경쟁력을 좌우할...",
+          "src": "ebn",
           "date": "10/31",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005951789",
-          "img": ""
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729969",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729969_765288_5234_v150.jpg"
         },
         {
-          "title": "삼성, 샘 올트먼과 AI 미래전략 논의…'AI Driven' 경영 가속",
-          "desc": "삼성 사장단과 올트먼 CEO는 AI 기술의 발전 방향과 활용 가능성을 비롯해 AI를 기반으로 새롭게 형성될... 삼성은 지난 6월부터 연구개발(R&D)과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을...",
-          "src": "g-enews",
+          "title": "보고서 쓰고 위험 찾는 현장 AI…영상·날씨 분석해 작업 지원",
+          "desc": "현장 방문 자체를 줄이는 기술도 도입되고 있다. 벤틀리시스템즈는 자사가 지원한 한 철도 사업에서 실제 시설물을 가상공간에 구현한 모형인 ‘디지털 트윈’을 활용해 현장 방문을 50%, 사람이 직접 수행하는 조사를...",
+          "src": "뉴시스",
           "date": "10/31",
-          "url": "https://www.g-enews.com/view.php?ud=202610311439023051112616b072_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026103114404100585112616b0722112125164.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014292231?sid=104",
+          "img": "https://img1.newsis.com/2026/06/01/NISI20260601_0002149643_web.jpg"
         },
         {
-          "title": "삼성 사장단 50명, 올트먼과 AI 미래 논의…반도체 동맹 넘어 AX 전면전",
-          "desc": "반도체 공급과 데이터센터 구축을 중심으로 형성된 양사의 협력 관계를 산업별 AI 활용과 그룹 차원의 경영... 기술 도입 자체를 넘어 AI가 기업의 사업 구조와 의사결정 방식에 미칠 변화에 대응하겠다는 취지다. 이번...",
-          "src": "newsian",
+          "title": "샘 올트먼, 최태원·삼성 사장단 연쇄 회동…韓 AI 동맹 확대",
+          "desc": "지난 6월부터 연구개발(R&D)과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 AI 대전환도 추진하고... 대상 AI 활용 사례를 발굴하기로 했다. 차세대 데이터센터 기술 개발과 AI 인프라 운영 효율화 분야에서도...",
+          "src": "4th",
           "date": "10/31",
-          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100359",
-          "img": "https://cdn.newsian.co.kr/news/photo/202610/100359_100427_3832.jpg"
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120862",
+          "img": "https://cdn.4th.kr/news/thumbnail/202610/2120862_222381_1252_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성 수뇌부, 샘 올트먼 초청해 주말 ‘AI 간담회’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007068?sid=101",
-      "img": "https://www.chosun.com/resizer/v2/APHK6FBUWVABNFVEIOD4KW3RYE.jpg?auth=e1c7cc65d96cf1afce77a498934bc555223f5b8d545ccbf76de99da91fe5f472&width=1200&height=630&smart=true"
+      "title": "'자동차도 할인…', 전국민 소비축제 '코그페' 내수 불 지핀다",
+      "url": "http://www.metroseoul.co.kr/article/20261031500037",
+      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/31/.cache/512/20261031500039.jpg"
     },
     {
-      "title": "삼성전자, 갤럭시 A18 LTE·코리아 그랜드 페스티벌로 '소비자·소상공인...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=104016",
-      "img": "http://www.dailypop.kr/news/thumbnail/202610/104016_172239_623_v150.jpg"
+      "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
+      "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
+    },
+    {
+      "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
     },
     {
       "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
       "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
       "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
-    },
-    {
-      "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101",
-      "img": "https://www.segye.com/content/image/2026/10/31/20261031502526.jpg"
     },
     {
       "title": "중국 늪 피한 현대차, 직격탄 맞은 폭스바겐···3분기 실적 희비 극명",
