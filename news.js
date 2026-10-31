@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 06:50",
+  "updatedAt": "2026.11.01 (일) 08:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "간판은 GE·소니, 뒤에는 중국…LG전자, '가전 흑자' 사수 비결은",
+          "desc": "삼성전자는 '적자 탈출'부터 고심 반면 삼성전자는 가전사업의 적자 탈출이 과제다. 3분기 TV·생활가전 등에서 2000억원의 영업손실을 기록했다. 생활가전도 적자를 냈으며 단독 손익은 공개하지 않았다. TV는 글로벌...",
+          "src": "아이뉴스24",
+          "date": "11/01",
+          "url": "https://n.news.naver.com/mnews/article/031/0001071075?sid=101",
+          "img": "https://image.inews24.com/v1/49950bcd4a058b.jpg"
+        },
+        {
           "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
           "desc": "값비싼 완제품을 파는 갑(甲)들인 TSMC, 삼성전자, 인텔조차도 ASML의 장비 없이는 3나노, 2나노 이하의... 1984년 네덜란드의 거대 가전·IT 기업인 필립스(Philips)와 반도체 장비 업체인 ASM 인터내셔널(ASMI)의 50대 50...",
           "src": "g-enews",
           "date": "11/01",
           "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
           "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
-        },
-        {
-          "title": "김구라, 재산 300억설에 아들 그리 입 열었다…“진짜 안 쉬고 일해”",
-          "desc": "이어 “가전제품이라도 해주실 수 있는 거 아니겠냐. 집은 있으니까 집 해달라는 게 아니다”라고... 한편 김구라는 5월 장기 보유한 삼성전자 주식의 수익률이 약 524%에 달한다고 밝혔으며 약 1억 1000만 원에 매입한 금의...",
-          "src": "동아일보",
-          "date": "10/31",
-          "url": "https://m.entertain.naver.com/article/382/0001302125",
-          "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/31/134942927.1.png"
         },
         {
           "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
@@ -45,12 +45,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
         },
         {
-          "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
-          "desc": "당시 삼성전자공업을 설립한 삼성은 이듬해 흑백TV 생산을 시작하며 전자산업에 진출했다. 이후 냉장고와 세탁기, 에어컨, 전자레인지 등으로 제품군을 넓히고 해외시장 진출에도 나섰다. 1970년대에는 흑백TV 생산과...",
-          "src": "press9",
+          "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
+          "desc": "삼성전자는 올해까지 11년 연속 국가 차원의 소비 진작 캠페인에 참여하고 있으며, 가전과 모바일, IT 제품 전반에 걸쳐 다양한 구매 혜택을 마련했다고 오늘 밝혔습니다. 행사 기간 세탁건조기와 TV, 청소기, 냉장고 등...",
+          "src": "news",
           "date": "10/31",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
-          "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"AI로 뚫는 해커, AI로 막는다\"… 日, 앤트로픽·오픈AI에 '첨단 보안 모...",
-          "desc": "인공지능(AI) 기술로 무장한 해커들의 시스템 침투와 대규모 데이터 유출 공격이 급증하자, 일본 정부가... 오픈AI(OpenAI)의 최고 성능 모델을 조기 도입해 전력·가스·통신 등 국가 기간 인프라와 민간 기업의 보안...",
-          "src": "g-enews",
+          "title": "“인간 중심의 미래 대학”…계명대, AI 대전환 비전 선포",
+          "desc": "계명대학교가 단순한 기술 도입을 넘어 교육·연구·행정 등 대학 운영 전반을 인공지능(AI) 기반으로... 교육과 연구, 행정 등 대학의 주요 기능을 AI와 연계하고, 기술 활용 역량과 인간 중심의 가치를 함께...",
+          "src": "전자신문",
           "date": "11/01",
-          "url": "https://www.g-enews.com/view.php?ud=2026103122145457000c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261031221604052280c8c1c064d22114611240.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003480682?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/11/01/news-p.v1.20261101.61ecb2334bbe43cb9022f19cc38aced6_P1.jpg"
         },
         {
-          "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협...",
-          "desc": "기술을 실제 업무에 활용해 제품과 서비스를 개선하고, 의사결정과 실행 속도를 높이는 능력이 기업 경쟁력을 좌우할 수 있다는 설명이다. 이는 AI 도입 자체보다 사업 현장에 얼마나 효과적으로 적용하느냐가...",
-          "src": "jemin",
+          "title": "카페24, AI로 쇼핑몰 매출 분석…개선 방안까지 제시",
+          "desc": "카페24는 올해 초 자연어 기반 AI 어시스턴트를 도입한 데 이어 이번 리포트 기능을 추가했다. 향후 데이터 분석 기능을 고도화해 온라인 사업자의 의사결정을 지원할 계획이다. 이재석 카페24 대표는 AI 기술을 활용해...",
+          "src": "shinailbo",
           "date": "11/01",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
-          "img": "https://cdn.jemin.com/news/thumbnail/202611/845821_433430_3538_v150.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078091",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5078091_2075606_89.png"
         },
         {
-          "title": "[탐사경] 국민 정보가 줄줄 새는 디지털 강국…한국의 보안 시계는 거꾸...",
-          "desc": "10월의 해킹 사고를 모두 동일한 공격자나 AI 도구 탓으로 돌릴 수는 없지만, 공격에 활용되는 기술과 수법이... (MFA)을 도입하지 않은 경우도 확인됐다. 이는 AI를 활용한 고도화된 공격에 앞서 기본적인 보안 수칙부터...",
-          "src": "moneystorm",
+          "title": "에이비엘·보로노이, 유럽서 항암 성과…루닛은 美 신약개발 합류 [바이...",
+          "desc": "권리를 도입해 글로벌 임상을 진행하고 있다. 이보네시맙은 암세포의 면역 회피에 관여하는... 데에도 활용할 예정이다. 이번 협력은 루닛의 AI 병리 기술이 암 진단을 넘어 글로벌 항암 신약 개발에 적용된...",
+          "src": "이데일리",
           "date": "11/01",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7912",
-          "img": "https://cdn.moneystorm.kr/news/photo/202611/7912_8124_3035.png"
+          "url": "https://n.news.naver.com/mnews/article/018/0006401102?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100025.1280x.0.jpg"
         },
         {
-          "title": "[전통N] AI가 읽은 산조, 사람이 빚은 음악...김명옥 '토리의 진화 III'가...",
-          "desc": "활용될 수 있다는 점에서도 의미가 있다. 다만 기술의 도입이 곧 전통의 계승을 보장하지는 않는다. 산조의 음악적 가치는 선율과 장단의 조합뿐 아니라 연주자가 음악을 이해하고 표현하는 과정에도 있기 때문이다. AI가...",
-          "src": "nc",
+          "title": "팀에브리웨어, AI로 제조 데이터 연결해 생산관리 효율 높인다 [서울AI허...",
+          "desc": "기술분야 주요성과 협업유형 도입단계 타깃시장 홈페이지 ※ 기업 현황은 2026년 9월 기준입니다 AI 기능... 현장에서는 자체 개발한 센서와 AI 비전, 엣지디바이스를 활용해 설비 데이터를 수집한다. 내장 프로그램 가능...",
+          "src": "조선일보",
           "date": "11/01",
-          "url": "https://www.nc.press/news/articleView.html?idxno=629940",
-          "img": "https://cdn.nc.press/news/photo/202611/629940_867837_2145.jpg"
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171961",
+          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171961_454657_2547_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "간판은 GE·소니, 뒤에는 중국…LG전자, '가전 흑자' 사수 비결은",
+      "url": "https://n.news.naver.com/mnews/article/031/0001071075?sid=101",
+      "img": "https://image.inews24.com/v1/49950bcd4a058b.jpg"
+    },
+    {
       "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
       "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
       "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
-    },
-    {
-      "title": "김구라, 재산 300억설에 아들 그리 입 열었다…“진짜 안 쉬고 일해”",
-      "url": "https://m.entertain.naver.com/article/382/0001302125",
-      "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/31/134942927.1.png"
     },
     {
       "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
@@ -272,9 +272,9 @@ window.NEWS_DATA = {
       "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
     },
     {
-      "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
-      "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
+      "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
+      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
     },
     {
       "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
