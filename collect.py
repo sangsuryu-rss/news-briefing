@@ -32,8 +32,10 @@ import requests
 SECTIONS = [
     {"cls": "",        "icon": "📺", "title": "삼성전자 가전",     "color": "#1428a0", "sort": "date", "count": 4,
      "queries": ["삼성전자 가전", "삼성전자 로봇청소기", "삼성전자 건조기", "삼성전자 세탁기", "삼성전자 냉장고"]},
-    {"cls": "auto",    "icon": "🚗", "title": "자동차·유라",       "color": "#0d9488", "sort": "date", "count": 4, "per_query": 2,
-     "queries": [{"q": "유라코퍼레이션", "need": "유라", "block": ["최유라"], "sort": "sim"}, "현대차그룹 전동화"]},
+    {"cls": "auto",    "icon": "🚗", "title": "자동차",           "color": "#0d9488", "sort": "date", "count": 4,
+     "query": "현대차 기아 자동차"},
+    {"cls": "yura",    "icon": "🏭", "title": "유라",             "color": "#db2777", "sort": "sim",  "count": 4, "per_query": 4,
+     "queries": [{"q": "유라코퍼레이션", "need": "유라", "block": ["최유라"], "sort": "sim"}]},
     {"cls": "partner", "icon": "🤝", "title": "삼성 협력사 동향",  "color": "#7b3fe4", "query": "삼성전자 협력사 부품",   "sort": "date", "count": 4},
     {"cls": "harness", "icon": "🔌", "title": "와이어하네스·전장", "color": "#e8842c", "query": "와이어링 하네스 전장", "sort": "sim",  "count": 4},
     {"cls": "ai",      "icon": "🤖", "title": "AI 동향",           "color": "#00a86b", "query": "AI 기술 도입 활용",     "sort": "date", "count": 4},
