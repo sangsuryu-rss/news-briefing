@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 06:40",
+  "updatedAt": "2026.11.01 (일) 06:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -57,25 +57,49 @@ window.NEWS_DATA = {
     {
       "cls": "auto",
       "icon": "🚗",
-      "title": "자동차·유라",
+      "title": "자동차",
       "color": "#0d9488",
       "items": [
         {
-          "title": "중국 늪 피한 현대차, 직격탄 맞은 폭스바겐···3분기 실적 희비 극명",
-          "desc": "글로벌 시장을 둘러싼 수요 위축과 통상 불확실성 속에서 현대차그룹과 폭스바겐그룹의 분기 성적표가... 주력 시장 침체와 전동화 차질이 겹치자 폭스바겐그룹은 연간 경영 목표를 대폭 낮춰 잡았다. 글로벌...",
-          "src": "seoulfn",
-          "date": "10/31",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=641499",
-          "img": "https://cdn.seoulfn.com/news/photo/202610/641499_445343_3540.jpg"
+          "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
+          "desc": "개선” 기아가 올 3분기 역대 최고 수준의 글로벌 자동차 시장점유율을 기록하고도 수익성에선 뒷걸음질 쳤다. 영업이익률은 한 분기 만에 8%에서 5.8%로 떨어져 현대차(5.9%)에 역전당했다. 전기차 값을 내리고...",
+          "src": "조선일보",
+          "date": "10/30",
+          "url": "https://n.news.naver.com/mnews/article/366/0001201635?sid=103",
+          "img": "https://biz.chosun.com/resizer/v2/6JLKSLVZFRIATPXKII77BNO23Q.jpg?auth=5d17506c2b44363334e695d24796ac1b52a5ef21eac1d7d99ff878ff9ccada1a&width=1200&height=630&smart=true"
         },
         {
-          "title": "\"35억서 250억달러로\"···현대차 이름값 달라졌다",
-          "desc": "전동화 분야에서 실질적인 경쟁력을 입증해 차별성과 신뢰를 높였다고 평가했다. 미국과 유럽 등 주요 시장에서 확보한 사업 기반이 미래 기술과 맞물려 브랜드 가치 상승으로 이어졌다는 설명이다. 현대차그룹이...",
-          "src": "sisajournal-e",
-          "date": "10/31",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424682",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424682_241577_2019_v150.jpg"
+          "title": "현대캐피탈, 장기렌트 확장 기회…20년 규제 손질",
+          "desc": "현대캐피탈은 현대차·기아의 자동차금융을 기반으로 할부·리스사업을 영위하고 있다. 개정안이 시행되면 기존 할부금융자산을 한도 산정에 활용할 수 있어 차량 운용 여력이 넓어진다. 시장점유율 회복도 과제다....",
+          "src": "press9",
+          "date": "10/29",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=85098",
+          "img": "http://www.press9.kr/news/thumbnail/202610/85098_97184_2358_v150.jpg"
         },
+        {
+          "title": "삼성전자·현대차·기아, 글로벌 100대 브랜드 진입…가치 상승분 95% 삼...",
+          "desc": "한국 기업 가운데서는 삼성전자가 이러한 AI 중심의 가치 상승을 이끌었고, 현대차와 기아는 자동차업계의 약세를 거스르며 브랜드 경쟁력을 유지했다. 다만 세계 100대 브랜드에 이름을 올린 한국 기업이 세 곳에...",
+          "src": "sateconomy",
+          "date": "10/28",
+          "url": "http://sateconomy.co.kr/news/view/1065598096418965",
+          "img": "http://sateconomy.co.kr/news/data/20261028/p1065598096418965_698_thum.png"
+        },
+        {
+          "title": "전기차, 보급만큼 결함·피해구제 늘어나…리콜한 뒤 동일 결함 재발도",
+          "desc": "다만, ICCU는 현대차·기아 자동차 제작자에서 개발 및 사용하는 장치의 용어로, 관련 집계 또한 해당 제작자 차량에 한정된다. 2024년부터 올해 8월까지 제작자 별 전기차 리콜 현황으로 보면...",
+          "src": "m-i",
+          "date": "10/28",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2011267",
+          "img": "https://cdn.m-i.kr/news/photo/202610/2011267_2011434_614.jpg"
+        }
+      ]
+    },
+    {
+      "cls": "yura",
+      "icon": "🏭",
+      "title": "유라",
+      "color": "#db2777",
+      "items": [
         {
           "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
           "desc": "HS효성이 대규모 자동차 카펫 공장 설립을 발표한 가운데, 자동차 배선 시스템 기업인 유라코퍼레이션도 산루이스포토시주 내륙 지자체인 마테우알라를 방문해 투자 여건과 산업단지를 살펴본 것으로 확인됐다. 멕시코...",
@@ -91,6 +115,22 @@ window.NEWS_DATA = {
           "date": "10/23",
           "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
           "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
+        },
+        {
+          "title": "[미르의 글로벌 레이더]유라코퍼레이션, 멕시코 신규 거점 검토…2만500...",
+          "desc": "현대차·기아에 자동차 배선과 전장부품을 공급하는 유라코퍼레이션이 멕시코 산루이스포토시주 시우다드 바예스를 신규 사업 거점 후보지로 검토하고 있는 것으로...",
+          "src": "mediapen",
+          "date": "10/23",
+          "url": "https://www.mediapen.com/news/view/1131906",
+          "img": "https://image.mediapen.com/news/202610/news_1131906_1792713250_m.png"
+        },
+        {
+          "title": "[단독] 유라코퍼레이션, 美 조지아에 첫 공장 짓는다…현대차 메타플랜...",
+          "desc": "현대자동차그룹의 핵심 1차 협력사이자 자동차 전장부품 전문기업인 유라코퍼레이션이 미국 조지아주에 첫 제조 거점을 구축하고 현대차그룹 메타플랜트 아메리카(HMGMA)에 핵심 배선 부품 공급을 개시한다. HMGMA가...",
+          "src": "the-today",
+          "date": "10/19",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91958",
+          "img": "https://cdn.the-today.com/news/photo/202610/91958_113427_56.png"
         }
       ]
     },
@@ -181,6 +221,14 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
+          "title": "\"AI로 뚫는 해커, AI로 막는다\"… 日, 앤트로픽·오픈AI에 '첨단 보안 모...",
+          "desc": "인공지능(AI) 기술로 무장한 해커들의 시스템 침투와 대규모 데이터 유출 공격이 급증하자, 일본 정부가... 오픈AI(OpenAI)의 최고 성능 모델을 조기 도입해 전력·가스·통신 등 국가 기간 인프라와 민간 기업의 보안...",
+          "src": "g-enews",
+          "date": "11/01",
+          "url": "https://www.g-enews.com/view.php?ud=2026103122145457000c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261031221604052280c8c1c064d22114611240.jpg"
+        },
+        {
           "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협...",
           "desc": "기술을 실제 업무에 활용해 제품과 서비스를 개선하고, 의사결정과 실행 속도를 높이는 능력이 기업 경쟁력을 좌우할 수 있다는 설명이다. 이는 AI 도입 자체보다 사업 현장에 얼마나 효과적으로 적용하느냐가...",
           "src": "jemin",
@@ -203,14 +251,6 @@ window.NEWS_DATA = {
           "date": "11/01",
           "url": "https://www.nc.press/news/articleView.html?idxno=629940",
           "img": "https://cdn.nc.press/news/photo/202611/629940_867837_2145.jpg"
-        },
-        {
-          "title": "中 전기차의 '무자비한 과잉 생산 공세', 세계 자동차 산업 뒤흔든다",
-          "desc": "기술적 완성도와 압도적인 원가 경쟁력을 무기로 무장한 중국산 전기차(EV)와 하이브리드(PHEV)의... 줄이고 AI를 활용해 신차 개발 주기를 절반으로 단축하는 원가 절감에 사활을 걸고 있다. \"중국 車도 피투성이 적자...",
-          "src": "g-enews",
-          "date": "11/01",
-          "url": "https://www.g-enews.com/view.php?ud=2026103121523913810c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261031215458062730c8c1c064d22114611240.jpg"
         }
       ]
     }
@@ -237,14 +277,14 @@ window.NEWS_DATA = {
       "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
     },
     {
-      "title": "중국 늪 피한 현대차, 직격탄 맞은 폭스바겐···3분기 실적 희비 극명",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641499",
-      "img": "https://cdn.seoulfn.com/news/photo/202610/641499_445343_3540.jpg"
+      "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201635?sid=103",
+      "img": "https://biz.chosun.com/resizer/v2/6JLKSLVZFRIATPXKII77BNO23Q.jpg?auth=5d17506c2b44363334e695d24796ac1b52a5ef21eac1d7d99ff878ff9ccada1a&width=1200&height=630&smart=true"
     },
     {
-      "title": "\"35억서 250억달러로\"···현대차 이름값 달라졌다",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424682",
-      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424682_241577_2019_v150.jpg"
+      "title": "현대캐피탈, 장기렌트 확장 기회…20년 규제 손질",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=85098",
+      "img": "http://www.press9.kr/news/thumbnail/202610/85098_97184_2358_v150.jpg"
     }
   ]
 };
