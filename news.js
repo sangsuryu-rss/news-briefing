@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.31 (토) 21:38",
+  "updatedAt": "2026.11.01 (일) 03:35",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'자동차도 할인…', 전국민 소비축제 '코그페' 내수 불 지핀다",
-          "desc": "삼성전자와 LG전자 등 주요 가전사도 제품을 할인 판매한다. 이마트, 롯데마트, 홈플러스, 하나로마트 등 대형마트, 준대규모점포(SSM)도 인기 육류와 제철 수산물 등을 최대 50% 할인 또는 '1+1 행사'를 통해 보다 싸게...",
-          "src": "서울신문",
+          "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
+          "desc": "값비싼 완제품을 파는 갑(甲)들인 TSMC, 삼성전자, 인텔조차도 ASML의 장비 없이는 3나노, 2나노 이하의... 1984년 네덜란드의 거대 가전·IT 기업인 필립스(Philips)와 반도체 장비 업체인 ASM 인터내셔널(ASMI)의 50대 50...",
+          "src": "g-enews",
+          "date": "11/01",
+          "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
+        },
+        {
+          "title": "김구라, 재산 300억설에 아들 그리 입 열었다…“진짜 안 쉬고 일해”",
+          "desc": "이어 “가전제품이라도 해주실 수 있는 거 아니겠냐. 집은 있으니까 집 해달라는 게 아니다”라고... 한편 김구라는 5월 장기 보유한 삼성전자 주식의 수익률이 약 524%에 달한다고 밝혔으며 약 1억 1000만 원에 매입한 금의...",
+          "src": "동아일보",
           "date": "10/31",
-          "url": "http://www.metroseoul.co.kr/article/20261031500037",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/31/.cache/512/20261031500039.jpg"
+          "url": "https://m.entertain.naver.com/article/382/0001302125",
+          "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/31/134942927.1.png"
         },
         {
           "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "10/31",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
           "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
-        },
-        {
-          "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
-          "desc": "삼성전자는 올해까지 11년 연속 국가 차원의 소비 진작 캠페인에 참여하고 있으며, 가전과 모바일, IT 제품 전반에 걸쳐 다양한 구매 혜택을 마련했다고 오늘 밝혔습니다. 행사 기간 세탁건조기와 TV, 청소기, 냉장고 등...",
-          "src": "news",
-          "date": "10/31",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
         },
         {
           "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
@@ -181,55 +181,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "삼성, 샘 올트먼과 AI 혁신 간담회…전사적 AX 가속",
-          "desc": "참석자들은 AI 기술의 발전 방향과 활용 가능성을 살펴보고, 이를 통해 새롭게 형성될 시장과 사업 기회에... 삼성은 지난 6월부터 연구개발과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을...",
-          "src": "고코리아",
-          "date": "10/31",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=883607",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202610/883607_161132_1622_v150.jpg"
+          "title": "챗GPT 샘 올트먼…삼성·SK 연쇄 회동으로 '글로벌 AI 동맹' 다진다",
+          "desc": "삼성 사장단은 올트먼 CEO와 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 AI 기술의 발전 방향과 활용... 간담회에서는 이미 도입한 기업용 AI 서비스인 '챗GPT 엔터프라이즈'의 업무 활용을 확대하고 실질적인 경쟁력...",
+          "src": "dailysportshankook",
+          "date": "11/01",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435032",
+          "img": "https://cdn.dailysportshankook.co.kr/news/photo/202611/435032_451292_140.jpg"
         },
         {
-          "title": "샘 올트먼, 삼성 사장단·최태원 연쇄 회동…韓 AI 동맹 확대",
-          "desc": "특히 AI를 단순히 도입하는 수준을 넘어 제품 개발과 경영 의사결정, 조직 운영 전반의 경쟁력을 높이는 방안에 초점을 맞췄다. 올트먼 CEO는 AI 기술을 활용하는 방식과 실행 속도가 향후 기업 경쟁력을 좌우할...",
-          "src": "ebn",
-          "date": "10/31",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729969",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202610/1729969_765288_5234_v150.jpg"
+          "title": "[패트롤] 광명시-김포시-시흥시-안산시-하남시",
+          "desc": "또한 지역 특성을 반영한 골목상권 활성화 사업과 문화-관광 자원을 활용한 소비 촉진 사업 등 소상공인과... 개척, 기술 협력 등 다양한 해외 진출 가능성을 모색했다. 인공지능(AI) 기반 건강관리 및 방문간호 사업을...",
+          "src": "ekn",
+          "date": "11/01",
+          "url": "https://www.ekn.kr/web/view.php?key=20261101024003779",
+          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261101.b053983ed29646449b334d3ed563038e_R.jpg"
         },
         {
-          "title": "보고서 쓰고 위험 찾는 현장 AI…영상·날씨 분석해 작업 지원",
-          "desc": "현장 방문 자체를 줄이는 기술도 도입되고 있다. 벤틀리시스템즈는 자사가 지원한 한 철도 사업에서 실제 시설물을 가상공간에 구현한 모형인 ‘디지털 트윈’을 활용해 현장 방문을 50%, 사람이 직접 수행하는 조사를...",
-          "src": "뉴시스",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292231?sid=104",
-          "img": "https://img1.newsis.com/2026/06/01/NISI20260601_0002149643_web.jpg"
+          "title": "다우기술, 그룹사 임직원 겨냥 첫 경진대회 열었다",
+          "desc": "심사 과정에서도 AI가 적극적으로 활용되었으며, 다우기술은 내외부 AX 전문가 평가에 AI 평가를 결합하는 방식을 도입해 과제의 성과와 완성도, 확장 가능성 등을 다각도로 검증했다. 사람과 AI의 복합 심사 구조를 통해...",
+          "src": "technoa",
+          "date": "11/01",
+          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101595",
+          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
         },
         {
-          "title": "샘 올트먼, 최태원·삼성 사장단 연쇄 회동…韓 AI 동맹 확대",
-          "desc": "지난 6월부터 연구개발(R&D)과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 AI 대전환도 추진하고... 대상 AI 활용 사례를 발굴하기로 했다. 차세대 데이터센터 기술 개발과 AI 인프라 운영 효율화 분야에서도...",
-          "src": "4th",
-          "date": "10/31",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2120862",
-          "img": "https://cdn.4th.kr/news/thumbnail/202610/2120862_222381_1252_v150.jpg"
+          "title": "피지컬 AI부터 모빌리티까지…FIX 2026 글로벌 미디어가 고른 혁신기업...",
+          "desc": "토프모빌리티는 전기항공기 도입부터 정비와 운항 데이터 관리까지 지원하는 ‘EV Air Care’를... 코리아는 AI 뇌파 분석 소프트웨어 ‘NeuroMatch’를, 옵토전자는 반도체 공정을 활용한 웨이퍼 레벨 옵틱스 기술을...",
+          "src": "cnet",
+          "date": "11/01",
+          "url": "https://www.cnet.co.kr/view/?no=20261031233834",
+          "img": "https://image.cnet.co.kr/2026/10/31/57e9b43cf59b285962eaa746aae05a4a-770xAAA.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "'자동차도 할인…', 전국민 소비축제 '코그페' 내수 불 지핀다",
-      "url": "http://www.metroseoul.co.kr/article/20261031500037",
-      "img": "https://cdn.emetro.co.kr/data2/content/image/2026/10/31/.cache/512/20261031500039.jpg"
+      "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
+      "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
+    },
+    {
+      "title": "김구라, 재산 300억설에 아들 그리 입 열었다…“진짜 안 쉬고 일해”",
+      "url": "https://m.entertain.naver.com/article/382/0001302125",
+      "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/31/134942927.1.png"
     },
     {
       "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
       "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
       "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
-    },
-    {
-      "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
-      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
     },
     {
       "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
