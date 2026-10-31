@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 03:35",
+  "updatedAt": "2026.11.01 (일) 06:40",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -77,20 +77,20 @@ window.NEWS_DATA = {
           "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424682_241577_2019_v150.jpg"
         },
         {
-          "title": "[휴머노이드 로봇] 보스턴다이내믹스 '아틀라스' 핵심부품 생산 나서는...",
-          "desc": "유럽 시장에서 전동화 사업 매출이 확대되고, 애프터서비스(AS) 부품의 글로벌 판매 증가와 환율, 관세... 재판매 및 DB 금지] 현대차그룹 로봇 계열사인 보스턴다이내믹스는 지난 9월 21일 미국 조지아주 현대차그룹...",
-          "src": "cbci",
-          "date": "10/31",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621675",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_621675_20261031090855_1_v150.jpg"
+          "title": "HS효성 788억 투자 이어 유라코퍼레이션도 멕시코 내륙 산업단지 둘러봤...",
+          "desc": "HS효성이 대규모 자동차 카펫 공장 설립을 발표한 가운데, 자동차 배선 시스템 기업인 유라코퍼레이션도 산루이스포토시주 내륙 지자체인 마테우알라를 방문해 투자 여건과 산업단지를 살펴본 것으로 확인됐다. 멕시코...",
+          "src": "g-enews",
+          "date": "10/28",
+          "url": "https://www.g-enews.com/view.php?ud=202610281445054271fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102814485208047fbbec65dfb22210812861.jpg"
         },
         {
-          "title": "유럽 車 '연쇄 감원 칼바람'…현대차그룹은 '구조조정 무풍지대'",
-          "desc": "자동차업계 관계자는 “유럽의 감원 도미노는 무리한 전동화 올인과 중국 의존도가 부른 필연적 대가이고, 현대차그룹은 유연한 전략으로 고용 위기를 넘기는 모양새”라며 “그럼에도 불구하고 미국 통상 환경 급변과...",
-          "src": "전자신문",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/030/0003480620?sid=103",
-          "img": "https://img.etnews.com/news/article/2026/10/26/news-p.v1.20261026.ade57a456b384b9b9faf887c2d38a98c_P1.png"
+          "title": "[단독] 유라코퍼레이션, 멕시코 시우다드바예스 입지 검토…'7500평 공장...",
+          "desc": "자동차 전장부품 전문기업 유라코퍼레이션이 멕시코 산루이스포토시(SLP)주 시우다드바예스(Ciudad Valles)를 신규 생산 거점 후보지로 검토하고 있다. 현지 투자자가 산업 시설을 건립하면 유라코퍼레이션이 이를 장기...",
+          "src": "the-today",
+          "date": "10/23",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=92281",
+          "img": "https://cdn.the-today.com/news/photo/202610/92281_113786_4753.png"
         }
       ]
     },
@@ -181,36 +181,36 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "챗GPT 샘 올트먼…삼성·SK 연쇄 회동으로 '글로벌 AI 동맹' 다진다",
-          "desc": "삼성 사장단은 올트먼 CEO와 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 AI 기술의 발전 방향과 활용... 간담회에서는 이미 도입한 기업용 AI 서비스인 '챗GPT 엔터프라이즈'의 업무 활용을 확대하고 실질적인 경쟁력...",
-          "src": "dailysportshankook",
+          "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협...",
+          "desc": "기술을 실제 업무에 활용해 제품과 서비스를 개선하고, 의사결정과 실행 속도를 높이는 능력이 기업 경쟁력을 좌우할 수 있다는 설명이다. 이는 AI 도입 자체보다 사업 현장에 얼마나 효과적으로 적용하느냐가...",
+          "src": "jemin",
           "date": "11/01",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435032",
-          "img": "https://cdn.dailysportshankook.co.kr/news/photo/202611/435032_451292_140.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/845821_433430_3538_v150.jpg"
         },
         {
-          "title": "[패트롤] 광명시-김포시-시흥시-안산시-하남시",
-          "desc": "또한 지역 특성을 반영한 골목상권 활성화 사업과 문화-관광 자원을 활용한 소비 촉진 사업 등 소상공인과... 개척, 기술 협력 등 다양한 해외 진출 가능성을 모색했다. 인공지능(AI) 기반 건강관리 및 방문간호 사업을...",
-          "src": "ekn",
+          "title": "[탐사경] 국민 정보가 줄줄 새는 디지털 강국…한국의 보안 시계는 거꾸...",
+          "desc": "10월의 해킹 사고를 모두 동일한 공격자나 AI 도구 탓으로 돌릴 수는 없지만, 공격에 활용되는 기술과 수법이... (MFA)을 도입하지 않은 경우도 확인됐다. 이는 AI를 활용한 고도화된 공격에 앞서 기본적인 보안 수칙부터...",
+          "src": "moneystorm",
           "date": "11/01",
-          "url": "https://www.ekn.kr/web/view.php?key=20261101024003779",
-          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261101.b053983ed29646449b334d3ed563038e_R.jpg"
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7912",
+          "img": "https://cdn.moneystorm.kr/news/photo/202611/7912_8124_3035.png"
         },
         {
-          "title": "다우기술, 그룹사 임직원 겨냥 첫 경진대회 열었다",
-          "desc": "심사 과정에서도 AI가 적극적으로 활용되었으며, 다우기술은 내외부 AX 전문가 평가에 AI 평가를 결합하는 방식을 도입해 과제의 성과와 완성도, 확장 가능성 등을 다각도로 검증했다. 사람과 AI의 복합 심사 구조를 통해...",
-          "src": "technoa",
+          "title": "[전통N] AI가 읽은 산조, 사람이 빚은 음악...김명옥 '토리의 진화 III'가...",
+          "desc": "활용될 수 있다는 점에서도 의미가 있다. 다만 기술의 도입이 곧 전통의 계승을 보장하지는 않는다. 산조의 음악적 가치는 선율과 장단의 조합뿐 아니라 연주자가 음악을 이해하고 표현하는 과정에도 있기 때문이다. AI가...",
+          "src": "nc",
           "date": "11/01",
-          "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101595",
-          "img": "http://www.technoa.co.kr/image2006/logo.jpg"
+          "url": "https://www.nc.press/news/articleView.html?idxno=629940",
+          "img": "https://cdn.nc.press/news/photo/202611/629940_867837_2145.jpg"
         },
         {
-          "title": "피지컬 AI부터 모빌리티까지…FIX 2026 글로벌 미디어가 고른 혁신기업...",
-          "desc": "토프모빌리티는 전기항공기 도입부터 정비와 운항 데이터 관리까지 지원하는 ‘EV Air Care’를... 코리아는 AI 뇌파 분석 소프트웨어 ‘NeuroMatch’를, 옵토전자는 반도체 공정을 활용한 웨이퍼 레벨 옵틱스 기술을...",
-          "src": "cnet",
+          "title": "中 전기차의 '무자비한 과잉 생산 공세', 세계 자동차 산업 뒤흔든다",
+          "desc": "기술적 완성도와 압도적인 원가 경쟁력을 무기로 무장한 중국산 전기차(EV)와 하이브리드(PHEV)의... 줄이고 AI를 활용해 신차 개발 주기를 절반으로 단축하는 원가 절감에 사활을 걸고 있다. \"중국 車도 피투성이 적자...",
+          "src": "g-enews",
           "date": "11/01",
-          "url": "https://www.cnet.co.kr/view/?no=20261031233834",
-          "img": "https://image.cnet.co.kr/2026/10/31/57e9b43cf59b285962eaa746aae05a4a-770xAAA.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=2026103121523913810c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261031215458062730c8c1c064d22114611240.jpg"
         }
       ]
     }
