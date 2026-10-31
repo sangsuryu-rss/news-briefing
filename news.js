@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.10.31 (토) 08:50",
+  "updatedAt": "2026.10.31 (토) 14:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[주말장보기] 이마트 쓱데이 한우 반값…삼성전자·LG전자 가전 할인까...",
-          "desc": "삼성전자·LG전자 가전제품도 쓱데이 혜택으로 선보이며, 쿠팡은 다음 주부터 와우회원 대상 할인전을 연다. 이마트는 11월 8일까지 쓱데이를 진행한다. 신선식품과 가공식품, 생활용품, 가전제품 등을 대상으로 올해...",
-          "src": "kizmom",
+          "title": "삼성 수뇌부, 샘 올트먼 초청해 주말 ‘AI 간담회’",
+          "desc": "간담회에는 삼성전자 대표이사인 전영현 부회장, 노태문 사장을 비롯해 박학규 삼성전자 사업지원실장... 창립 기념일인 30일에도 별도 행사를 갖지 않고, 반도체와 완제품(가전·스마트폰) 사업을 이끄는 CEO들이 각각...",
+          "src": "조선일보",
           "date": "10/31",
-          "url": "https://www.kizmom.com/news/articleView.html?idxno=113657",
-          "img": "https://cdn.kizmom.com/news/photo/202610/113657_60013126_1611.png"
+          "url": "https://n.news.naver.com/mnews/article/023/0004007068?sid=101",
+          "img": "https://www.chosun.com/resizer/v2/APHK6FBUWVABNFVEIOD4KW3RYE.jpg?auth=e1c7cc65d96cf1afce77a498934bc555223f5b8d545ccbf76de99da91fe5f472&width=1200&height=630&smart=true"
         },
         {
-          "title": "삼성·LG전자, '코리아 그랜드 페스티벌'…연말 가전 대전 포문",
-          "desc": "◇삼성전자, 가전·모바일 전방위 할인…소상공인 지원 사격 삼성전자도 11월 1일부터 30일까지 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 열고 가전·모바일·정보기술(IT) 제품 전반에 할인 혜택을 진행한다....",
-          "src": "서울경제TV",
+          "title": "삼성전자, 갤럭시 A18 LTE·코리아 그랜드 페스티벌로 '소비자·소상공인...",
+          "desc": "삼성전자와 함께 하는 코리아 그랜드 페스티벌'을 진행한다. 할인 대상은 세탁건조기, TV, 청소기... 가전 행사 모델에는 올인원 세탁건조기 '비스포크 AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등이 포함됐다....",
+          "src": "dailypop",
           "date": "10/31",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610300122",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/30/sentv20261030000124.jpg"
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=104016",
+          "img": "http://www.dailypop.kr/news/thumbnail/202610/104016_172239_623_v150.jpg"
         },
         {
-          "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
-          "desc": "메모리반도체 가격 상승 혜택은 삼성전자와 SK하이닉스 두 기업에 쏠렸다. 2분기 설비투자는 11% 늘었지만... 거실 에어컨과 세탁기는 전기요금이 싼 시간대에 맞춰 움직인다. 하지만 기대만큼 조건도 있다. 애플은...",
-          "src": "중앙일보",
+          "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
+          "desc": "당시 삼성전자공업을 설립한 삼성은 이듬해 흑백TV 생산을 시작하며 전자산업에 진출했다. 이후 냉장고와 세탁기, 에어컨, 전자레인지 등으로 제품군을 넓히고 해외시장 진출에도 나섰다. 1970년대에는 흑백TV 생산과...",
+          "src": "press9",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/353/0000057087?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/31/d0cbad52-0656-4820-bd0f-94701cb8293e.jpg"
+          "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
+          "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
         },
         {
-          "title": "'반도체 초호황' 삼성전자, 가전은 어떨까",
-          "desc": "특히 TV를 제외한 세탁기, 건조기 등 일반 생활가전 중심 사업서 차이가 크게 두드려졌다. 삼성전자는 생활가전 사업 매출을 별도 공개하지 않았다. 다만 VD·DA 사업 전체 매출서 VD매출을 제외하면 생활가전...",
-          "src": "sisaweek",
-          "date": "10/30",
-          "url": "https://www.sisaweek.com/news/articleView.html?idxno=238706",
-          "img": "https://cdn.sisaweek.com/news/thumbnail/202610/238706_257947_1551_v150.jpg"
+          "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
+          "desc": "대표 상품으로는 로보락 S10 MaxV Ultra 로봇청소기, 삼성전자 갤럭시 Z폴드8 울트라, 올리브영 블랙프라이데이 기프트카드, 인스파이어 리조트 숙박 패키지 등이 제시됐다. 11번가는 11월 1일부터 11일까지 '그랜드십일절...",
+          "src": "segye",
+          "date": "10/31",
+          "url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101",
+          "img": "https://www.segye.com/content/image/2026/10/31/20261031502526.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
-          "desc": "엔진 시동·발전을 담당하는 시동 모터(P1)와 구동·회생 제동을 담당하는 구동 모터를 결합한 병렬형 구조로, 현대차그룹이 제네시스를 위해 별도 개발한 전동화 파워트레인이다. 통상 하이브리드차는 엔진과 전기...",
-          "src": "연합뉴스",
+          "title": "중국 늪 피한 현대차, 직격탄 맞은 폭스바겐···3분기 실적 희비 극명",
+          "desc": "글로벌 시장을 둘러싼 수요 위축과 통상 불확실성 속에서 현대차그룹과 폭스바겐그룹의 분기 성적표가... 주력 시장 침체와 전동화 차질이 겹치자 폭스바겐그룹은 연간 경영 목표를 대폭 낮춰 잡았다. 글로벌...",
+          "src": "seoulfn",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/001/0016413082?sid=101",
-          "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030163600003_01_i_P4.jpg"
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=641499",
+          "img": "https://cdn.seoulfn.com/news/photo/202610/641499_445343_3540.jpg"
         },
         {
-          "title": "'형님' 현대차 주춤, '아우' 기아 약진…실적 온도 차",
-          "desc": "com 현대자동차그룹 양재 사옥 [사진=현대차] 현대자동차와 기아의 실적 온도 차가 뚜렷해지고 있다.... 실제 기아의 올해 1~9월 전동화 차량(xEV) 소매 판매 대수는 30만대로 전년 동기 대비 47% 증가했다. 같은 기간...",
-          "src": "아주경제",
+          "title": "\"35억서 250억달러로\"···현대차 이름값 달라졌다",
+          "desc": "전동화 분야에서 실질적인 경쟁력을 입증해 차별성과 신뢰를 높였다고 평가했다. 미국과 유럽 등 주요 시장에서 확보한 사업 기반이 미래 기술과 맞물려 브랜드 가치 상승으로 이어졌다는 설명이다. 현대차그룹이...",
+          "src": "sisajournal-e",
           "date": "10/31",
-          "url": "https://www.ajunews.com/view/20261030161842103",
-          "img": "https://image.ajunews.com/content/image/2026/10/30/20261030161939338526.jpg"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424682",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424682_241577_2019_v150.jpg"
         },
         {
-          "title": "현대차그룹 3사, 3분기 부담 속 영업익 증가…4분기 회복 기반 다져",
-          "desc": "30일 현대차그룹에 따르면 현대차는 3분기 매출 45조1102억 원, 영업이익 2조6772억 원을 기록했다. 매출은... 전동화차 판매는 47% 증가한 30만 대를 기록했고 미국 HEV 판매와 서유럽 EV 판매도 각각 118%, 163% 증가했다....",
-          "src": "g-enews",
-          "date": "10/30",
-          "url": "https://www.g-enews.com/view.php?ud=202610301713516763112616b072_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026103018073803299112616b0722112125164.jpg"
+          "title": "[휴머노이드 로봇] 보스턴다이내믹스 '아틀라스' 핵심부품 생산 나서는...",
+          "desc": "유럽 시장에서 전동화 사업 매출이 확대되고, 애프터서비스(AS) 부품의 글로벌 판매 증가와 환율, 관세... 재판매 및 DB 금지] 현대차그룹 로봇 계열사인 보스턴다이내믹스는 지난 9월 21일 미국 조지아주 현대차그룹...",
+          "src": "cbci",
+          "date": "10/31",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621675",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202610/mn_621675_20261031090855_1_v150.jpg"
         },
         {
-          "title": "[컨콜 줍줍] 기아 “수익성 떨어져도 전기차 늘린다…2~3년 안에 하이브...",
-          "desc": "향후 3년 동안 배터리뿐 아니라 모터, 히트펌프 등 주변 부품과 전동화 시스템까지 연간 10% 수준의 원가... 현대차그룹 메타플랜트 아메리카(HMGMA)는 현대차 연결 생산법인인데 여기서 만드는 스포티지 HEV 등 기아...",
-          "src": "dnews",
-          "date": "10/30",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301902557110993",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/10/30/202610301902557110993-2-701741.png"
+          "title": "유럽 車 '연쇄 감원 칼바람'…현대차그룹은 '구조조정 무풍지대'",
+          "desc": "자동차업계 관계자는 “유럽의 감원 도미노는 무리한 전동화 올인과 중국 의존도가 부른 필연적 대가이고, 현대차그룹은 유연한 전략으로 고용 위기를 넘기는 모양새”라며 “그럼에도 불구하고 미국 통상 환경 급변과...",
+          "src": "전자신문",
+          "date": "10/31",
+          "url": "https://n.news.naver.com/mnews/article/030/0003480620?sid=103",
+          "img": "https://img.etnews.com/news/article/2026/10/26/news-p.v1.20261026.ade57a456b384b9b9faf887c2d38a98c_P1.png"
         }
       ]
     },
@@ -100,6 +100,14 @@ window.NEWS_DATA = {
       "title": "삼성 협력사 동향",
       "color": "#7b3fe4",
       "items": [
+        {
+          "title": "\"협력사 대표 무릎 꿇리겠다\"던 애플 이후…LTA가 새로운 시대 열까 [박...",
+          "desc": "이 이야기에는 애플과 부품업체들의 오랜 갈등이 담겨 있다. 그의 입장에선 과도했을 애플의 부품업체 관리... 삼성전자 역시 10개 고객과 계약을 체결했고 추가로 10개 기업과 협상 중이다. 물론 주식시장에서는 여전히...",
+          "src": "한국경제",
+          "date": "10/31",
+          "url": "https://n.news.naver.com/mnews/article/015/0005348738?sid=101",
+          "img": "https://img.hankyung.com/photo/202610/01.46252740.1.jpg"
+        },
         {
           "title": "'전기 먹는 하마' 덕에 황금알된 재생에너지…우리는? [취재여담]",
           "desc": "해외에서 데이터센터를 빌려 쓸 때 현지 전력 사정에 밝은 협력사의 경험을 활용할 수 있다는 것입니다.... 삼성전자 반도체 부문과 SK하이닉스는 해외 사업장의 재생에너지 전환을 각각 2020년과 2022년 완료했습니다....",
@@ -114,7 +122,7 @@ window.NEWS_DATA = {
           "src": "중앙일보",
           "date": "10/31",
           "url": "https://n.news.naver.com/mnews/article/353/0000057087?sid=101",
-          "img": ""
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/31/d0cbad52-0656-4820-bd0f-94701cb8293e.jpg"
         },
         {
           "title": "삼성전자, 中 TCL CSOT 지분 1조2718억원에 인수…TV용 LCD 공급망 강화",
@@ -123,14 +131,6 @@ window.NEWS_DATA = {
           "date": "10/30",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=560022",
           "img": "https://cdn.joongangenews.com/news/photo/202610/560022_367485_4019.jpg"
-        },
-        {
-          "title": "[테크 안테나] 삼성전자 SK하이닉스 라온로보틱스",
-          "desc": "◇삼성전자, 42만원대 실속폰 갤럭시 A18 LTE 국내 출시 삼성전자 '갤럭시 A18 LTE' 제품 이미지. 사진... 그리고 부품·인프라 기업까지 5개 분야 파트너사가 함께했다. SK하이닉스는 매년 국내 주요 협력사 경영진을...",
-          "src": "daily",
-          "date": "10/30",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420346",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202610/1420346_1599140_3418_v150.jpg"
         }
       ]
     },
@@ -181,70 +181,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "에이아이매틱스가 '월드모델'로 제조 현장 문제 푸는 법",
-          "desc": "채정훈 에이아이매틱스 AI미래기술개발그룹장은 지난 26일 지디넷코리아와 만나 “처음에는 결함 데이터를... 문제로 AI를 도입하기 어려웠던 분야에도 적용할 수 있다”고 설명했다. 정답 가르치기 전 사전 지식부터...",
-          "src": "ZDNet코리아",
+          "title": "삼성 사장단 50명, 올트먼 만났다…그룹 AI 대전환 속도",
+          "desc": "'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 열린 행사에서는 AI 기술 발전 방향과 활용 가능성, 이에 따른... 삼성은 지난 6월부터 연구개발·생산·마케팅·지원 업무 전반에 AI를 도입하는 'AI 대전환'을 추진하고...",
+          "src": "newsway",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/092/0002443261?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/10/30/dc4b8fa6eefac6c880837be7a54dbf43.jpg"
+          "url": "https://www.newsway.co.kr/news/view?ud=2026103114433993453",
+          "img": "https://nimage.newsway.co.kr/photo/2026/10/31/20261031005716_1200.jpg"
         },
         {
-          "title": "피직스심랩, 물리 시뮬레이션으로 로봇 학습 데이터 생성·검증 [서울AI...",
-          "desc": "'서울 AI 허브 2027' 기획시리즈는 서울 AI 허브에 입주한 스타트업들의 인공지능(AI) 기술과 서비스, 사업화... 기 업 명 대표자명 설립연도 투자단계 주요제품 사업분야 기술분야 주요성과 협업유형 도입단계 타깃시장...",
-          "src": "조선일보",
+          "title": "삼성 사장단 50여명, 샘 올트먼과 회동…AI 미래전략 논의",
+          "desc": "삼성 사장단은 올트먼 CEO와 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 AI 기술의 발전 방향과 활용... 삼성은 지난 6월부터 연구개발(R&D)과 생산·마케팅·지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을 본격...",
+          "src": "MBN",
           "date": "10/31",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172991",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092172991_455789_1619_v150.jpg"
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005951789",
+          "img": ""
         },
         {
-          "title": "[오늘의 경제뉴스] 금융권 덮친 AI 활용 해킹 공포...보안업계는 뒤에서...",
-          "desc": "이에 관련 기술을 보유한 보안기업들의 사업 기회도 넓어지게 될 것으로 보인다. 서울 시내 설치된 은행 ATM기. (사진=연합뉴스) 최근 들어 인공지능(AI)을 악용한 금융권 해킹 사례가 크게 늘고 있다. AI를 통해 보안이...",
-          "src": "newsverse",
+          "title": "삼성, 샘 올트먼과 AI 미래전략 논의…'AI Driven' 경영 가속",
+          "desc": "삼성 사장단과 올트먼 CEO는 AI 기술의 발전 방향과 활용 가능성을 비롯해 AI를 기반으로 새롭게 형성될... 삼성은 지난 6월부터 연구개발(R&D)과 생산, 마케팅, 지원 업무 등 전 분야에 AI를 도입하는 'AI 대전환'을...",
+          "src": "g-enews",
           "date": "10/31",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11805",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202610/11805_20221_73_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202610311439023051112616b072_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026103114404100585112616b0722112125164.jpg"
         },
         {
-          "title": "AI가 서면 쓰는 시대…'변호사 육성 공식'이 바뀐다",
-          "desc": "생성형 AI를 도입했고, 지난해부터 하비를 글로벌 자문 업무에 활용하고 있다. 올해는 레고라(Legora)·챗GPT... 중요해진다\"며 AI 결과물을 고객에게 설명하는 능력도 꼽았다. 지평은 특정 도구의 숙련도보다 새로운 기술을...",
-          "src": "sisajournal",
+          "title": "삼성 사장단 50명, 올트먼과 AI 미래 논의…반도체 동맹 넘어 AX 전면전",
+          "desc": "반도체 공급과 데이터센터 구축을 중심으로 형성된 양사의 협력 관계를 산업별 AI 활용과 그룹 차원의 경영... 기술 도입 자체를 넘어 AI가 기업의 사업 구조와 의사결정 방식에 미칠 변화에 대응하겠다는 취지다. 이번...",
+          "src": "newsian",
           "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/586/0000141296?sid=102",
-          "img": "https://cdn.sisajournal.com/news/thumbnail/202610/392004_401285_5516_v150.jpg"
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100359",
+          "img": "https://cdn.newsian.co.kr/news/photo/202610/100359_100427_3832.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[주말장보기] 이마트 쓱데이 한우 반값…삼성전자·LG전자 가전 할인까...",
-      "url": "https://www.kizmom.com/news/articleView.html?idxno=113657",
-      "img": "https://cdn.kizmom.com/news/photo/202610/113657_60013126_1611.png"
+      "title": "삼성 수뇌부, 샘 올트먼 초청해 주말 ‘AI 간담회’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007068?sid=101",
+      "img": "https://www.chosun.com/resizer/v2/APHK6FBUWVABNFVEIOD4KW3RYE.jpg?auth=e1c7cc65d96cf1afce77a498934bc555223f5b8d545ccbf76de99da91fe5f472&width=1200&height=630&smart=true"
     },
     {
-      "title": "삼성·LG전자, '코리아 그랜드 페스티벌'…연말 가전 대전 포문",
-      "url": "https://www.sentv.co.kr/article/view/sentv202610300122",
-      "img": "https://www.sentv.co.kr/data/sentv/image/2026/10/30/sentv20261030000124.jpg"
+      "title": "삼성전자, 갤럭시 A18 LTE·코리아 그랜드 페스티벌로 '소비자·소상공인...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=104016",
+      "img": "http://www.dailypop.kr/news/thumbnail/202610/104016_172239_623_v150.jpg"
     },
     {
-      "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
-      "url": "https://n.news.naver.com/mnews/article/353/0000057087?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/31/d0cbad52-0656-4820-bd0f-94701cb8293e.jpg"
+      "title": "가전에서 반도체, 다시 AI로…삼성전자 57년의 변신",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=85287",
+      "img": "http://www.press9.kr/news/thumbnail/202610/85287_97368_111_v150.jpg"
     },
     {
-      "title": "'반도체 초호황' 삼성전자, 가전은 어떨까",
-      "url": "https://www.sisaweek.com/news/articleView.html?idxno=238706",
-      "img": "https://cdn.sisaweek.com/news/thumbnail/202610/238706_257947_1551_v150.jpg"
+      "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
+      "url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101",
+      "img": "https://www.segye.com/content/image/2026/10/31/20261031502526.jpg"
     },
     {
-      "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413082?sid=101",
-      "img": "https://img3.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030163600003_01_i_P4.jpg"
+      "title": "중국 늪 피한 현대차, 직격탄 맞은 폭스바겐···3분기 실적 희비 극명",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641499",
+      "img": "https://cdn.seoulfn.com/news/photo/202610/641499_445343_3540.jpg"
     },
     {
-      "title": "'형님' 현대차 주춤, '아우' 기아 약진…실적 온도 차",
-      "url": "https://www.ajunews.com/view/20261030161842103",
-      "img": "https://image.ajunews.com/content/image/2026/10/30/20261030161939338526.jpg"
+      "title": "\"35억서 250억달러로\"···현대차 이름값 달라졌다",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424682",
+      "img": "https://cdn.sisajournal-e.com/news/thumbnail/202610/424682_241577_2019_v150.jpg"
     }
   ]
 };
