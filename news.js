@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 08:24",
+  "updatedAt": "2026.11.01 (일) 15:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "간판은 GE·소니, 뒤에는 중국…LG전자, '가전 흑자' 사수 비결은",
-          "desc": "삼성전자는 '적자 탈출'부터 고심 반면 삼성전자는 가전사업의 적자 탈출이 과제다. 3분기 TV·생활가전 등에서 2000억원의 영업손실을 기록했다. 생활가전도 적자를 냈으며 단독 손익은 공개하지 않았다. TV는 글로벌...",
+          "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 운영",
+          "desc": "한강타임즈 김광호 기자 = 삼성전자가 AI 가전 크리에이터 운영을 통해 소비자 공감 콘텐츠 확산에 나선다. 삼성전자는 지난 10월 30일 청담 CGV 더 프라이빗 시네마에서 삼성 크루 1기 발대식을 가졌다고 1일 밝혔다....",
+          "src": "hg-times",
+          "date": "11/01",
+          "url": "https://www.hg-times.com/news/articleView.html?idxno=306606",
+          "img": "https://cdn.hg-times.com/news/photo/202611/306606_307269_418.jpg"
+        },
+        {
+          "title": "中 CXMT, 차세대 D램 '4F²' 시제품 검증 완료⋯\"연말 DDR5 샘플 공급\"",
+          "desc": "삼성전자와 SK하이닉스가 양분해 온 D램 시장을 넘보는 중국 창신메모리(CXMT)가 차세대 '4F²... 징지웨 모닝스타 애널리스트는 \"글로벌 메모리 수요의 30∼40%는 여전히 가전제품\"이라며 소비자 저항으로 CXMT가...",
           "src": "아이뉴스24",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/031/0001071075?sid=101",
-          "img": "https://image.inews24.com/v1/49950bcd4a058b.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001071120?sid=101",
+          "img": "https://image.inews24.com/v1/d7f2cc67f25e4b.jpg"
         },
         {
-          "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
-          "desc": "값비싼 완제품을 파는 갑(甲)들인 TSMC, 삼성전자, 인텔조차도 ASML의 장비 없이는 3나노, 2나노 이하의... 1984년 네덜란드의 거대 가전·IT 기업인 필립스(Philips)와 반도체 장비 업체인 ASM 인터내셔널(ASMI)의 50대 50...",
-          "src": "g-enews",
+          "title": "美 매체가 꼽은 올해 가전…LG 냉장고·세탁기 등 선정",
+          "desc": "LG전자 냉장고와 세탁·건조기, TV 등이 미국 유력 매체 '올해 최고 제품' 명단에 잇따라 이름을 올렸다. 1일... 매출액 기준으로 삼성전자와 GE가 각각 13.1%, 월풀이 11.7%로 뒤를 이었다. LG전자의 판매량 기준 점유율은 전...",
+          "src": "파이낸셜뉴스",
           "date": "11/01",
-          "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005597466?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/01/202611011117568410_e.jpg"
         },
         {
-          "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
-          "desc": "위해 삼성전자 B2B 사업자몰에서는 '소상공인 특별전'을 연다. 지난해 6개 품목·11개 모델이던 소상공인 전용 혜택 대상은 올해 13개 품목·104개 모델로 늘었다. 비스포크 AI 스팀 울트라 로봇청소기와 갤럭시 Z 폴드8...",
-          "src": "jnilbo",
-          "date": "10/31",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
-          "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
-        },
-        {
-          "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
-          "desc": "삼성전자는 올해까지 11년 연속 국가 차원의 소비 진작 캠페인에 참여하고 있으며, 가전과 모바일, IT 제품 전반에 걸쳐 다양한 구매 혜택을 마련했다고 오늘 밝혔습니다. 행사 기간 세탁건조기와 TV, 청소기, 냉장고 등...",
-          "src": "news",
-          "date": "10/31",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
+          "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
+          "desc": "대표 상품으로는 로보락 △S10 MaxV Ultra 로봇청소기 △삼성전자 갤럭시 Z폴드8 울트라 △올리브영 블랙프라이데이 기프트카드 △인스파이어 리조트 숙박 패키지 등을 선보인다. 11번가는 이날부터 11일까지...",
+          "src": "이데일리",
+          "date": "11/01",
+          "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
+          "desc": "연말 자동차 수요 확보에 나섰다. 현대차는 주요 차종의 구매 가격 할인과 고객 선호 사양 무상 장착에 더해 차량 구매 이후 활용할 수 있는 관리 서비스를 강화했다. 기아는 쏘렌토와 타스만 등 16개 차종, 총 1만대를...",
+          "src": "비즈니스플러스",
+          "date": "11/01",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119061",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119061_120257_942_v150.jpg"
+        },
         {
           "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
           "desc": "개선” 기아가 올 3분기 역대 최고 수준의 글로벌 자동차 시장점유율을 기록하고도 수익성에선 뒷걸음질 쳤다. 영업이익률은 한 분기 만에 8%에서 5.8%로 떨어져 현대차(5.9%)에 역전당했다. 전기차 값을 내리고...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "10/28",
           "url": "http://sateconomy.co.kr/news/view/1065598096418965",
           "img": "http://sateconomy.co.kr/news/data/20261028/p1065598096418965_698_thum.png"
-        },
-        {
-          "title": "전기차, 보급만큼 결함·피해구제 늘어나…리콜한 뒤 동일 결함 재발도",
-          "desc": "다만, ICCU는 현대차·기아 자동차 제작자에서 개발 및 사용하는 장치의 용어로, 관련 집계 또한 해당 제작자 차량에 한정된다. 2024년부터 올해 8월까지 제작자 별 전기차 리콜 현황으로 보면...",
-          "src": "m-i",
-          "date": "10/28",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2011267",
-          "img": "https://cdn.m-i.kr/news/photo/202610/2011267_2011434_614.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[지방시대 新성장엔진]<2> 대경 '소부장·AI로봇'·동남 '조선·방산·車...",
+          "desc": "삼성전자(로봇), LIG DA(방산), LS전선(희토류), 삼성SDS(AI데이터센터) 등 7개 기업이 참석했다. 이들의 구미 투자계획은 총 약 25조원이다. 반도체 소재·부품 기업이 다수 포함돼 대경권이 소부장 기반 위에 로봇과 방산, AI...",
+          "src": "전자신문",
+          "date": "11/01",
+          "url": "https://n.news.naver.com/mnews/article/030/0003480734?sid=100",
+          "img": "https://img.etnews.com/news/article/2026/10/31/news-p.v1.20261031.1a36034f96cf43408329cfddbeb65786_P1.jpg"
+        },
+        {
           "title": "\"협력사 대표 무릎 꿇리겠다\"던 애플 이후…LTA가 새로운 시대 열까 [박...",
           "desc": "이 이야기에는 애플과 부품업체들의 오랜 갈등이 담겨 있다. 그의 입장에선 과도했을 애플의 부품업체 관리... 삼성전자 역시 10개 고객과 계약을 체결했고 추가로 10개 기업과 협상 중이다. 물론 주식시장에서는 여전히...",
           "src": "한국경제",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "10/31",
           "url": "https://n.news.naver.com/mnews/article/353/0000057087?sid=101",
           "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/31/d0cbad52-0656-4820-bd0f-94701cb8293e.jpg"
-        },
-        {
-          "title": "삼성전자, 中 TCL CSOT 지분 1조2718억원에 인수…TV용 LCD 공급망 강화",
-          "desc": "삼성전자는 공시에서 이번 지분 취득 목적을 '전략적 협업관계 강화'라고 명시했다. 단순한 재무적 투자보다 디스플레이 패널 공급망을 안정적으로 관리하고 핵심 협력사와의 사업 관계를 공고히 하는 데 무게를 둔...",
-          "src": "joongangenews",
-          "date": "10/30",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=560022",
-          "img": "https://cdn.joongangenews.com/news/photo/202610/560022_367485_4019.jpg"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“인간 중심의 미래 대학”…계명대, AI 대전환 비전 선포",
-          "desc": "계명대학교가 단순한 기술 도입을 넘어 교육·연구·행정 등 대학 운영 전반을 인공지능(AI) 기반으로... 교육과 연구, 행정 등 대학의 주요 기능을 AI와 연계하고, 기술 활용 역량과 인간 중심의 가치를 함께...",
-          "src": "전자신문",
+          "title": "임문영, AI·반도체 국가전략부터 민생까지…첫 국감서 해법 제시",
+          "desc": "제도를 도입하자는 것이다. 제조업 인력 고령화로 사라질 위기에 놓인 숙련공의 기술과 노하우를 데이터로 축적해 AI 학습과 제조업 경쟁력 강화에 활용하자는 취지다. 임 의원은 국감에 앞서 관련 법안도 대표발의했다....",
+          "src": "jnilbo",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/030/0003480682?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/11/01/news-p.v1.20261101.61ecb2334bbe43cb9022f19cc38aced6_P1.jpg"
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078517",
+          "img": "https://cdn.jnilbo.com/news/photo/202611/90000078517_608050_06.jpg"
         },
         {
-          "title": "카페24, AI로 쇼핑몰 매출 분석…개선 방안까지 제시",
-          "desc": "카페24는 올해 초 자연어 기반 AI 어시스턴트를 도입한 데 이어 이번 리포트 기능을 추가했다. 향후 데이터 분석 기능을 고도화해 온라인 사업자의 의사결정을 지원할 계획이다. 이재석 카페24 대표는 AI 기술을 활용해...",
-          "src": "shinailbo",
+          "title": "한국형 국방 아웃소싱, ‘역할·권한·책임’ 담은 설계도 그려야",
+          "desc": "인공지능(AI) 기반 유·무인 복합전투체계 중심으로 전환하고, 현역병을 줄이는 대신 기술집약형 간부를... 우리 군에서도 민간업체 활용 범위에 관한 논의가 활발하지만, 전투 임무와 비전투 임무의 경계를 두고는 해석이...",
+          "src": "kookbang",
           "date": "11/01",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078091",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202610/5078091_2075606_89.png"
+          "url": "https://kookbang.dema.mil.kr/newsWeb/20261102/1/ATCE_CTGR_0050140000/view.do",
+          "img": "https://kookbang.dema.mil.kr/newspaper/tmplat/upload/20261101/thumb1/BBS_202611010301218860.jpg"
         },
         {
-          "title": "에이비엘·보로노이, 유럽서 항암 성과…루닛은 美 신약개발 합류 [바이...",
-          "desc": "권리를 도입해 글로벌 임상을 진행하고 있다. 이보네시맙은 암세포의 면역 회피에 관여하는... 데에도 활용할 예정이다. 이번 협력은 루닛의 AI 병리 기술이 암 진단을 넘어 글로벌 항암 신약 개발에 적용된...",
+          "title": "쿼드 “자의적 수출 규제·과잉생산”…중국 ‘공급망 교란’ 공동대응...",
+          "desc": "이들은 인도·태평양 지역 국가들의 인공지능(AI) 활용을 돕기 위해 8500만달러(1135억원) 이상의 기술·재정적 지원 계획도 설명했다. 일본 니혼게이자이신문은 “중국의 저가형 인공지능 모델을 도입하려는 글로벌사우스...",
+          "src": "한겨레",
+          "date": "11/01",
+          "url": "https://n.news.naver.com/mnews/article/028/0002830133?sid=104",
+          "img": "https://flexible.img.hani.co.kr/flexible/normal/1000/714/imgdb/original/2026/1101/20261101501279.webp"
+        },
+        {
+          "title": "'챗GPT 아버지' 올트먼 만난 삼성 사장단…AX 속도 낸다",
+          "desc": "참석자들은 AI 기술의 발전 방향과 활용 가능성을 살펴보고 새롭게 형성될 시장과 사업 기회에 대해... 올트먼 CEO는 이 자리에서 “단순한 AI 도입만으로는 지속 가능한 경쟁 우위를 확보하기 어렵다”며 “경쟁...",
           "src": "이데일리",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/018/0006401102?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100025.1280x.0.jpg"
-        },
-        {
-          "title": "팀에브리웨어, AI로 제조 데이터 연결해 생산관리 효율 높인다 [서울AI허...",
-          "desc": "기술분야 주요성과 협업유형 도입단계 타깃시장 홈페이지 ※ 기업 현황은 2026년 9월 기준입니다 AI 기능... 현장에서는 자체 개발한 센서와 AI 비전, 엣지디바이스를 활용해 설비 데이터를 수집한다. 내장 프로그램 가능...",
-          "src": "조선일보",
-          "date": "11/01",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171961",
-          "img": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092171961_454657_2547_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006401438?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100501.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "간판은 GE·소니, 뒤에는 중국…LG전자, '가전 흑자' 사수 비결은",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071075?sid=101",
-      "img": "https://image.inews24.com/v1/49950bcd4a058b.jpg"
+      "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 운영",
+      "url": "https://www.hg-times.com/news/articleView.html?idxno=306606",
+      "img": "https://cdn.hg-times.com/news/photo/202611/306606_307269_418.jpg"
     },
     {
-      "title": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
-      "url": "https://www.g-enews.com/view.php?ud=20261014190002247906806b77b_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026101419034508843906806b77b1752093689.jpg"
+      "title": "中 CXMT, 차세대 D램 '4F²' 시제품 검증 완료⋯\"연말 DDR5 샘플 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001071120?sid=101",
+      "img": "https://image.inews24.com/v1/d7f2cc67f25e4b.jpg"
     },
     {
-      "title": "삼성전자 11월 1일부터 '코리아 그랜드 페스티벌' 동참…소상공인 특별...",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078392",
-      "img": "https://cdn.jnilbo.com/news/photo/202610/90000078392_607848_396.jpg"
+      "title": "美 매체가 꼽은 올해 가전…LG 냉장고·세탁기 등 선정",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597466?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/11/01/202611011117568410_e.jpg"
     },
     {
-      "title": "삼성전자, 코리아 그랜드 페스티벌 맞아 한 달간 할인 행사",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115930",
-      "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202610/4115930_779189_4517_v150.jpg"
+      "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
+    },
+    {
+      "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=119061",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119061_120257_942_v150.jpg"
     },
     {
       "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
       "url": "https://n.news.naver.com/mnews/article/366/0001201635?sid=103",
       "img": "https://biz.chosun.com/resizer/v2/6JLKSLVZFRIATPXKII77BNO23Q.jpg?auth=5d17506c2b44363334e695d24796ac1b52a5ef21eac1d7d99ff878ff9ccada1a&width=1200&height=630&smart=true"
-    },
-    {
-      "title": "현대캐피탈, 장기렌트 확장 기회…20년 규제 손질",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=85098",
-      "img": "http://www.press9.kr/news/thumbnail/202610/85098_97184_2358_v150.jpg"
     }
   ]
 };
