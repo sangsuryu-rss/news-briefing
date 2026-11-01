@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 22:29",
+  "updatedAt": "2026.11.02 (월) 03:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "한화투자증권, 블록체인 데이터 인프라 기업 체인링크와 전략적 파트너...",
-          "desc": "올해 1월 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 'CES 2026'에서 삼성전자와 협업한 스마트싱스 펫 케어 AI 건강 분석 기능을 처음 공개한 데 이어, 6월에는 프랑스 파리에서 열린 유럽 최대 규모의 기술...",
-          "src": "rcast",
-          "date": "11/01",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31940",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/31940_62086_41_v150.jpg"
+          "title": "[시론] 티후아나의 복잡한 속사정",
+          "desc": "가전·전자부터 자동차, 의료기기, 항공·정밀기계까지 글로벌 기업의 생산시설이 밀집해 있다. 삼성전자와 LG전자도 이곳에서 북미 시장을 겨냥한 제품을 제조한다. 물류·패션·전자상거래 기업까지 몰려들면서...",
+          "src": "한국경제",
+          "date": "11/02",
+          "url": "https://n.news.naver.com/mnews/article/015/0005349003?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
+          "title": "정문철 KB라이프 대표, 'KB골든라이프'로 금융·돌봄 연결 [보험사 시니...",
+          "desc": "삼성전자와는 지난 3월 디지털 기반 시니어 헬스케어 협력을 위한 업무협약을 체결했다. 은평·강동빌리지에는 이미 '스마트싱스 프로'와 AI 가전을 도입했다. 양사는 향후 실내 온·습도와 공기질 관리, 가전 연동 기능을...",
+          "src": "fntimes",
+          "date": "11/02",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261022171332056780ed56b8e1f8219248180215.jpg&nmt=18"
         },
         {
           "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/01",
           "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
-        },
-        {
-          "title": "삼성전자, 11월부터 '코리아 그랜드 페스티벌' 참가…모바일·가전·IT 등...",
-          "desc": "삼성전자는 행사 기간 동안 세탁건조기·TV·청소기·냉장고 등 주요 가전제품 11개 품목을 대상으로 할인을 제공한다. 올인원 세탁건조기 '비스포크 AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등 가사 부담을 줄여주는...",
-          "src": "thepublic",
-          "date": "11/01",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324578",
-          "img": "https://cdn.thepublic.kr/news/photo/202610/324578_328379_2846.jpg"
         }
       ]
     },
@@ -221,45 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한국교통안전공단, '항공의 날' 국무총리 표창…\"항공안전·산업 발전 기...",
-          "desc": "데이터를 활용한 예방 중심의 항공안전관리 체계 확립, 체계적인 항공종사자 자격 관리, 드론 산업 활성화... 항공종사자 자격 관리 분야에서는 현업 수요를 반영한 상시 시험 체계와 자격 진위 확인 서비스를 도입해...",
-          "src": "cstimes",
-          "date": "11/01",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=726131",
-          "img": "https://www.cstimes.com/news/photo/202611/726131_647579_921.jpg"
+          "title": "엔비디아 칩 임대료까지 '하락 보험'…월가 AI 파생상품 확산",
+          "desc": "(WSJ)은 AI 산업에 수조달러의 자금이 투입된 가운데 투자자와 기술기업 경영진들이 대규모 손실 가능성에 대비하기 위해 기존 금융상품뿐 아니라 컴퓨팅 연산능력 자체를 거래 대상으로 하는 새로운 파생상품까지 활용...",
+          "src": "g-enews",
+          "date": "11/02",
+          "url": "https://www.g-enews.com/view.php?ud=2026110120441638469a1f309431_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261101204455043889a1f30943117511616074.jpg"
         },
         {
-          "title": "\"국민 체감 공공서비스 혁신\" 한전KDN, 코레일과 '에너지·철도 혁신' 맞...",
-          "desc": "정보통신기술(ICT)과 철도 인프라 운영 노하우를 결합해 철도 전력망의 예지보전 체계를 고도화하고 에너지... 재생에너지 활용 확대를 위한 실증 △생성형 AI 등 인공지능 전환(AX) 서비스의 보안체계 실증 등 3대 핵심...",
-          "src": "cstimes",
-          "date": "11/01",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=726132",
-          "img": "https://www.cstimes.com/news/photo/202611/726132_647580_1423.jpg"
+          "title": "서대문구, ‘홍제천 상상더하기 공모전’ 개최…AI·친환경 수변 미래상...",
+          "desc": "장비에 도입하는 기술적 접목 방안을 모색한다. ‘AI·스마트’ 분야는 빅데이터와 인공지능을 이용한... 공간 활용성을 극대화하는 아이디어를 발굴한다. 특히 AI 기술을 생태 관찰에 접목하거나 신재생에너지를 야간...",
+          "src": "megaeconomy",
+          "date": "11/02",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065547996536189",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261102/p1065547996536189_987_thum.jpg"
         },
         {
-          "title": "美 '오픈트론스 랩웍스', 4천만 달러 투자 유치…AI 기반 실험실 자동화...",
-          "desc": "이번 투자금은 로봇 기술과 소프트웨어, 데이터 인프라를 확장하는 데 활용할 계획이다. 지난 2014년... 시스템을 도입한 것으로 나타났다. 회사는 앞으로 지능형 실험 장비와 로봇 기술을 결합해 피지컬 AI 기반의...",
-          "src": "irobotnews",
-          "date": "11/01",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49311",
-          "img": "https://cdn.irobotnews.com/news/photo/202610/49311_105099_5327.jpg"
+          "title": "“미래차 산업 생태계 만들어야… 국내생산세액공제 도입을”",
+          "desc": "“미래차 산업의 경쟁력을 높이려면 기술개발에 그치지 않고 실제 국내 생산과 수주로 이어지는 산업... 자동차 경쟁력이 배터리와 모터 성능을 넘어 차량 데이터, 소프트웨어, AI를 얼마나 빠르고 안전하게 활용하느냐에...",
+          "src": "kmib",
+          "date": "11/02",
+          "url": "https://n.news.naver.com/mnews/article/005/0001882290?sid=101",
+          "img": ""
         },
         {
-          "title": "BI-MU 2026 현장 취재 | 기업별 기술과 장비 - 정밀가공에서 측정·후처리...",
-          "desc": "원격 서비스를 활용하면서도 사용자가 접근 범위를 관리할 수 있도록 한다는 취지다. GrindTech Service+는 연삭기의 정밀도와 생산성을 장비 도입 시점의 사양으로만 보지 않고, 운전 데이터와 진단·유지관리까지...",
-          "src": "mfgkr",
-          "date": "11/01",
-          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28414",
-          "img": "https://cdn.mfgkr.com/news/photo/202610/28414_11192_2920.jpg"
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천교통공사",
+          "desc": "검토해 도입 여부를 판단할 계획이다. LNG 분야에서는 에너지 공급망 안정과 함께 냉열 에너지를 활용한 반도체·바이오·냉동물류 산업의 신규 사업 발굴을 추진한다. 시설 안전관리 기술을 공유하고 에너지 분야 규제...",
+          "src": "ekn",
+          "date": "11/02",
+          "url": "https://www.ekn.kr/web/view.php?key=20261102024183987",
+          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261102.d1d086cc93cd4a88bf973dd8faa893f3_R.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "한화투자증권, 블록체인 데이터 인프라 기업 체인링크와 전략적 파트너...",
-      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31940",
-      "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/31940_62086_41_v150.jpg"
+      "title": "[시론] 티후아나의 복잡한 속사정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349003?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+    },
+    {
+      "title": "정문철 KB라이프 대표, 'KB골든라이프'로 금융·돌봄 연결 [보험사 시니...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18",
+      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261022171332056780ed56b8e1f8219248180215.jpg&nmt=18"
     },
     {
       "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
@@ -270,11 +275,6 @@ window.NEWS_DATA = {
       "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
       "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
-    },
-    {
-      "title": "삼성전자, 11월부터 '코리아 그랜드 페스티벌' 참가…모바일·가전·IT 등...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324578",
-      "img": "https://cdn.thepublic.kr/news/photo/202610/324578_328379_2846.jpg"
     },
     {
       "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
