@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.02 (월) 03:57",
+  "updatedAt": "2026.11.02 (월) 08:38",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[시론] 티후아나의 복잡한 속사정",
-          "desc": "가전·전자부터 자동차, 의료기기, 항공·정밀기계까지 글로벌 기업의 생산시설이 밀집해 있다. 삼성전자와 LG전자도 이곳에서 북미 시장을 겨냥한 제품을 제조한다. 물류·패션·전자상거래 기업까지 몰려들면서...",
-          "src": "한국경제",
+          "title": "쿠팡, 최대 할인전 '와멤데' 개막...최대 70%부터 반값상품",
+          "desc": "생활용품, 가전·디지털, 홈인테리어, 뷰티, 패션, 티켓·숙박까지 총 16개 카테고리에서 수천개 브랜드의 37만개가 넘는 상품을 최대 70% 할인 혜택과 함께 선보인다. 대표 브랜드로는 삼성전자, LG전자, 로보락, 다이슨...",
+          "src": "slist",
           "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/015/0005349003?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778199",
+          "img": "https://cdn.slist.kr/news/thumbnail/202611/778199_1189329_323_v150.jpg"
         },
         {
-          "title": "정문철 KB라이프 대표, 'KB골든라이프'로 금융·돌봄 연결 [보험사 시니...",
-          "desc": "삼성전자와는 지난 3월 디지털 기반 시니어 헬스케어 협력을 위한 업무협약을 체결했다. 은평·강동빌리지에는 이미 '스마트싱스 프로'와 AI 가전을 도입했다. 양사는 향후 실내 온·습도와 공기질 관리, 가전 연동 기능을...",
-          "src": "fntimes",
+          "title": "G마켓 3000개 특가에 쿠팡 70% 할인…11월 쇼핑대전 막 올랐다",
+          "desc": "첫날인 2일에는 삼성전자 비스포크 AI 4도어 냉장고와 HP 빅터스 게이밍 노트북, 노스페이스 아우터, 애플 아이패드 에어, 칠갑농산 감자수제비 등을 판매한다. 이 밖에 '빅스마일 대표 특가' 코너에서는 카테고리별로...",
+          "src": "segye",
           "date": "11/02",
-          "url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261022171332056780ed56b8e1f8219248180215.jpg&nmt=18"
+          "url": "https://n.news.naver.com/mnews/article/022/0004171634?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/02/20261102502738.jpg"
+        },
+        {
+          "title": "삼성·LG, 11월 가전 할인전…쿠폰·다품목 혜택 경쟁",
+          "desc": "(사진=LG전자) 컨슈머타임스=이필립 기자 | 정부 소비축제 '코리아 그랜드 페스티벌'에 맞춰 삼성전자와 LG전자가 이달 한 달 동안 TV·냉장고·세탁건조기 등 주요 가전 할인 행사에 들어간다. 산업통상부가 지난 27일...",
+          "src": "cstimes",
+          "date": "11/02",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=726042",
+          "img": "https://www.cstimes.com/news/photo/202610/726042_647475_3642.jpg"
         },
         {
           "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
-          "desc": "냉장고와 세탁건조기세트, TV에 의류 관리기까지 가전제품 6개를 합친 가격은 2천만원. 하지만 구독을... LG전자는 전용 매장 매출 가운데 구독 비중이 63%를 넘었고, 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객 3명...",
+          "desc": "냉장고나 세탁기 같은 대형 가전을 매달 요금을 나눠 내는 구독 방식으로 사는 소비자들이 늘고 있습니다.... LG전자는 전용 매장 매출 가운데 구독 비중이 63%를 넘었고, 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객...",
           "src": "news",
           "date": "11/01",
           "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
           "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
-        },
-        {
-          "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
-          "desc": "대표 상품으로는 로보락 △S10 MaxV Ultra 로봇청소기 △삼성전자 갤럭시 Z폴드8 울트라 △올리브영 블랙프라이데이 기프트카드 △인스파이어 리조트 숙박 패키지 등을 선보인다. 11번가는 이날부터 11일까지...",
-          "src": "이데일리",
-          "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "이재용 회장, 삼성전자 日 요코하마 패키징 거점 첫 점검… \"AI 반도체 ...",
+          "desc": "삼성전자 회장이 일본 요코하마에 구축된 첨단 반도체 패키징 R&D 거점을 찾아 글로벌 '소부장(소재·부품... 후공정 협력사들이 밀집해 있다. 여기에 일본 정부의 파격적인 반도체·AI 투자 지원책도 시너지를 더하고...",
+          "src": "인더스트리뉴스",
+          "date": "11/02",
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88654",
+          "img": "https://cdn.industrynews.co.kr/news/photo/202611/88654_110104_2710.jpg"
+        },
+        {
           "title": "삼성 투자 업고 지역성장 선순환…자족형 첨단 산업도시 대전환",
           "desc": "지난달 21일 경기도 평택시 고덕동 삼성전자 평택캠퍼스 P5 건설현장에 세워진 수많은 타워크레인이... 이는 첨단기업 유치가 단순한 생산시설 확충을 넘어 수많은 소부장(소재·부품·장비) 협력사와...",
           "src": "kjdaily",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/01",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450851",
           "img": ""
-        },
-        {
-          "title": "이재용, 日 반도체 패키징 연구거점 찾았다…AI칩 핵심기술 점검",
-          "desc": "일본에는 세계적인 반도체 장비업체와 부품·소재 기업들이 포진해 있다. 특히 요코하마는 도쿄와 인접해... 주요 협력사 관계자들이 참석했다. 최근 삼성전자는 일본 내 연구 기반을 확대하고 있다. 삼성전자는 올해 3월...",
-          "src": "이데일리",
-          "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/018/0006401608?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100855.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "엔비디아 칩 임대료까지 '하락 보험'…월가 AI 파생상품 확산",
-          "desc": "(WSJ)은 AI 산업에 수조달러의 자금이 투입된 가운데 투자자와 기술기업 경영진들이 대규모 손실 가능성에 대비하기 위해 기존 금융상품뿐 아니라 컴퓨팅 연산능력 자체를 거래 대상으로 하는 새로운 파생상품까지 활용...",
+          "title": "“한미약품, 잇따른 기술이전에 목표가 높여”-IBK",
+          "desc": "이번 도입을 통해 투여 편의성을 개선하고 치료 선택지를 확대하려는 것”이라고 판단했다. 정 연구원은... 그러면서 “향후 AI를 활용한 개발효율 개선이 신규 파이프라인 발굴과 후속 기술이전으로 이어질 것”...",
+          "src": "itooza",
+          "date": "11/02",
+          "url": "https://www.itooza.com/common/iview.php?no=2026110208364169486",
+          "img": "https://menu.itooza.com/cmsupload/2026/11/02/20261102083628__0_fd_image_120_142_87_2_7238.gif"
+        },
+        {
+          "title": "\"마이데이터 이용 10배↑\"…기보, 비대면 금융 개선",
+          "desc": "기술보증기금(기보)은 공공 마이데이터 활용을 확대하고 비대면 금융서비스 전반을 개선할 계획이라고 2일 밝혔다. 기보는 행정안전부와 지난 1월 업무협약을 맺고 공공부문 최초로 기업 공공 마이데이터 서비스를 도입...",
+          "src": "뉴시스",
+          "date": "11/02",
+          "url": "https://n.news.naver.com/mnews/article/003/0014293654?sid=101",
+          "img": "https://img1.newsis.com/2026/11/02/NISI20261102_0002279874_web.jpg"
+        },
+        {
+          "title": "삼성전자, 다카르 청소년올림픽 후원…갤럭시로 '빅토리 셀피'",
+          "desc": "빅토리 셀피는 이번 대회에서 청소년올림픽 최초로 도입된다. 메달 수여식에서 선수들이 시상대 위에서... 빅토리 월에서는 갤럭시 AI를 활용해 올림픽 테마가 적용된 사진을 만들 수 있다. 빅토리 토크는...",
           "src": "g-enews",
           "date": "11/02",
-          "url": "https://www.g-enews.com/view.php?ud=2026110120441638469a1f309431_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261101204455043889a1f30943117511616074.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202611020823256637139bf6e4b2_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110208251805755139bf6e4b2106101138117.jpg"
         },
         {
-          "title": "서대문구, ‘홍제천 상상더하기 공모전’ 개최…AI·친환경 수변 미래상...",
-          "desc": "장비에 도입하는 기술적 접목 방안을 모색한다. ‘AI·스마트’ 분야는 빅데이터와 인공지능을 이용한... 공간 활용성을 극대화하는 아이디어를 발굴한다. 특히 AI 기술을 생태 관찰에 접목하거나 신재생에너지를 야간...",
-          "src": "megaeconomy",
+          "title": "[뷰펠]재난 반복되는 네팔...\"피해 줄이려면 예방교육 필수죠\"",
+          "desc": "그럼에도 불구하고 디팍 대표는 교육 대상을 늘리기 위해 인공지능(AI)과 디지털 기술을 활용한 비대면 교육도 도입할 예정이다. 기존에는 강사가 학교와 지역사회를 직접 방문했지만, 앞으로는 비대면 교육 콘텐츠를...",
+          "src": "newstree",
           "date": "11/02",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065547996536189",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261102/p1065547996536189_987_thum.jpg"
-        },
-        {
-          "title": "“미래차 산업 생태계 만들어야… 국내생산세액공제 도입을”",
-          "desc": "“미래차 산업의 경쟁력을 높이려면 기술개발에 그치지 않고 실제 국내 생산과 수주로 이어지는 산업... 자동차 경쟁력이 배터리와 모터 성능을 넘어 차량 데이터, 소프트웨어, AI를 얼마나 빠르고 안전하게 활용하느냐에...",
-          "src": "kmib",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/005/0001882290?sid=101",
+          "url": "https://www.newstree.kr/newsView/ntr202610290011",
           "img": ""
-        },
-        {
-          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천교통공사",
-          "desc": "검토해 도입 여부를 판단할 계획이다. LNG 분야에서는 에너지 공급망 안정과 함께 냉열 에너지를 활용한 반도체·바이오·냉동물류 산업의 신규 사업 발굴을 추진한다. 시설 안전관리 기술을 공유하고 에너지 분야 규제...",
-          "src": "ekn",
-          "date": "11/02",
-          "url": "https://www.ekn.kr/web/view.php?key=20261102024183987",
-          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261102.d1d086cc93cd4a88bf973dd8faa893f3_R.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[시론] 티후아나의 복잡한 속사정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349003?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "쿠팡, 최대 할인전 '와멤데' 개막...최대 70%부터 반값상품",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=778199",
+      "img": "https://cdn.slist.kr/news/thumbnail/202611/778199_1189329_323_v150.jpg"
     },
     {
-      "title": "정문철 KB라이프 대표, 'KB골든라이프'로 금융·돌봄 연결 [보험사 시니...",
-      "url": "https://www.fntimes.com/html/view.php?ud=202610221108205302ed56b8e1f8_18",
-      "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261022171332056780ed56b8e1f8219248180215.jpg&nmt=18"
+      "title": "G마켓 3000개 특가에 쿠팡 70% 할인…11월 쇼핑대전 막 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004171634?sid=101",
+      "img": "https://www.segye.com/content/image/2026/11/02/20261102502738.jpg"
+    },
+    {
+      "title": "삼성·LG, 11월 가전 할인전…쿠폰·다품목 혜택 경쟁",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=726042",
+      "img": "https://www.cstimes.com/news/photo/202610/726042_647475_3642.jpg"
     },
     {
       "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
       "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
       "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
-    },
-    {
-      "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
     },
     {
       "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
