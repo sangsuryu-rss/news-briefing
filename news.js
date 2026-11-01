@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.01 (일) 15:12",
+  "updatedAt": "2026.11.01 (일) 22:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 운영",
-          "desc": "한강타임즈 김광호 기자 = 삼성전자가 AI 가전 크리에이터 운영을 통해 소비자 공감 콘텐츠 확산에 나선다. 삼성전자는 지난 10월 30일 청담 CGV 더 프라이빗 시네마에서 삼성 크루 1기 발대식을 가졌다고 1일 밝혔다....",
-          "src": "hg-times",
+          "title": "한화투자증권, 블록체인 데이터 인프라 기업 체인링크와 전략적 파트너...",
+          "desc": "올해 1월 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 'CES 2026'에서 삼성전자와 협업한 스마트싱스 펫 케어 AI 건강 분석 기능을 처음 공개한 데 이어, 6월에는 프랑스 파리에서 열린 유럽 최대 규모의 기술...",
+          "src": "rcast",
           "date": "11/01",
-          "url": "https://www.hg-times.com/news/articleView.html?idxno=306606",
-          "img": "https://cdn.hg-times.com/news/photo/202611/306606_307269_418.jpg"
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31940",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/31940_62086_41_v150.jpg"
         },
         {
-          "title": "中 CXMT, 차세대 D램 '4F²' 시제품 검증 완료⋯\"연말 DDR5 샘플 공급\"",
-          "desc": "삼성전자와 SK하이닉스가 양분해 온 D램 시장을 넘보는 중국 창신메모리(CXMT)가 차세대 '4F²... 징지웨 모닝스타 애널리스트는 \"글로벌 메모리 수요의 30∼40%는 여전히 가전제품\"이라며 소비자 저항으로 CXMT가...",
-          "src": "아이뉴스24",
+          "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
+          "desc": "냉장고와 세탁건조기세트, TV에 의류 관리기까지 가전제품 6개를 합친 가격은 2천만원. 하지만 구독을... LG전자는 전용 매장 매출 가운데 구독 비중이 63%를 넘었고, 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객 3명...",
+          "src": "news",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/031/0001071120?sid=101",
-          "img": "https://image.inews24.com/v1/d7f2cc67f25e4b.jpg"
-        },
-        {
-          "title": "美 매체가 꼽은 올해 가전…LG 냉장고·세탁기 등 선정",
-          "desc": "LG전자 냉장고와 세탁·건조기, TV 등이 미국 유력 매체 '올해 최고 제품' 명단에 잇따라 이름을 올렸다. 1일... 매출액 기준으로 삼성전자와 GE가 각각 13.1%, 월풀이 11.7%로 뒤를 이었다. LG전자의 판매량 기준 점유율은 전...",
-          "src": "파이낸셜뉴스",
-          "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/014/0005597466?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/01/202611011117568410_e.jpg"
+          "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
+          "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
         },
         {
           "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
@@ -51,6 +43,14 @@ window.NEWS_DATA = {
           "date": "11/01",
           "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
           "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
+        },
+        {
+          "title": "삼성전자, 11월부터 '코리아 그랜드 페스티벌' 참가…모바일·가전·IT 등...",
+          "desc": "삼성전자는 행사 기간 동안 세탁건조기·TV·청소기·냉장고 등 주요 가전제품 11개 품목을 대상으로 할인을 제공한다. 올인원 세탁건조기 '비스포크 AI 콤보'와 로봇청소기 '비스포크 AI 스팀' 등 가사 부담을 줄여주는...",
+          "src": "thepublic",
+          "date": "11/01",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324578",
+          "img": "https://cdn.thepublic.kr/news/photo/202610/324578_328379_2846.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[지방시대 新성장엔진]<2> 대경 '소부장·AI로봇'·동남 '조선·방산·車...",
-          "desc": "삼성전자(로봇), LIG DA(방산), LS전선(희토류), 삼성SDS(AI데이터센터) 등 7개 기업이 참석했다. 이들의 구미 투자계획은 총 약 25조원이다. 반도체 소재·부품 기업이 다수 포함돼 대경권이 소부장 기반 위에 로봇과 방산, AI...",
-          "src": "전자신문",
+          "title": "삼성 투자 업고 지역성장 선순환…자족형 첨단 산업도시 대전환",
+          "desc": "지난달 21일 경기도 평택시 고덕동 삼성전자 평택캠퍼스 P5 건설현장에 세워진 수많은 타워크레인이... 이는 첨단기업 유치가 단순한 생산시설 확충을 넘어 수많은 소부장(소재·부품·장비) 협력사와...",
+          "src": "kjdaily",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/030/0003480734?sid=100",
-          "img": "https://img.etnews.com/news/article/2026/10/31/news-p.v1.20261031.1a36034f96cf43408329cfddbeb65786_P1.jpg"
+          "url": "http://www.kjdaily.com/article.php?aid=1793526355690862004",
+          "img": ""
         },
         {
-          "title": "\"협력사 대표 무릎 꿇리겠다\"던 애플 이후…LTA가 새로운 시대 열까 [박...",
-          "desc": "이 이야기에는 애플과 부품업체들의 오랜 갈등이 담겨 있다. 그의 입장에선 과도했을 애플의 부품업체 관리... 삼성전자 역시 10개 고객과 계약을 체결했고 추가로 10개 기업과 협상 중이다. 물론 주식시장에서는 여전히...",
-          "src": "한국경제",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/015/0005348738?sid=101",
-          "img": "https://img.hankyung.com/photo/202610/01.46252740.1.jpg"
+          "title": "이재용, 日 소부장과 밀착…AI 반도체 패키징 키운다",
+          "desc": "소재·부품·장비 기업과의 협력 확대 방안을 논의했다. 삼성전자는 이 회장이 1일 일본 요코하마에 있는... SK하이닉스는 지난달 29일 일본 지바현에서 도쿄일렉트론·신에쓰 등 협력사 20여곳과 첫 '파트너스데이'를...",
+          "src": "4th",
+          "date": "11/01",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120887",
+          "img": "https://cdn.4th.kr/news/thumbnail/202611/2120887_222412_1950_v150.jpg"
         },
         {
-          "title": "'전기 먹는 하마' 덕에 황금알된 재생에너지…우리는? [취재여담]",
-          "desc": "해외에서 데이터센터를 빌려 쓸 때 현지 전력 사정에 밝은 협력사의 경험을 활용할 수 있다는 것입니다.... 삼성전자 반도체 부문과 SK하이닉스는 해외 사업장의 재생에너지 전환을 각각 2020년과 2022년 완료했습니다....",
-          "src": "biz",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/374/0000540926?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/10/30/l4z1793339234570-850.png"
+          "title": "이재용 삼성전자 일본 반도체 패키징 연구소 현장점검, 현지 소부장 기...",
+          "desc": "2023년 삼성전자가 설립한 APL은 반도체 역량과 일본 소부장(소재·부품·장비) 생태계를 잇는 핵심... 도쿄와 인접해 산학연 인프라와 전문 인력 유치에 유리하고 소부장 협력사가 밀집해 거점으로 적합하다\"고 설명했다.",
+          "src": "비즈니스포스트",
+          "date": "11/01",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450851",
+          "img": ""
         },
         {
-          "title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
-          "desc": "서버 부품이나 전력·냉각 장치처럼 한국이 약한 고리를 메우는 투자에는 세제와 규제 특례를 집중할 필요가 있다. 대만이 TSMC를 앞세워 폭스콘과 델타를 키웠듯, 한국도 LG전자와 애플을 축으로 협력사의 두께를 쌓을...",
-          "src": "중앙일보",
-          "date": "10/31",
-          "url": "https://n.news.naver.com/mnews/article/353/0000057087?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202610/31/d0cbad52-0656-4820-bd0f-94701cb8293e.jpg"
+          "title": "이재용, 日 반도체 패키징 연구거점 찾았다…AI칩 핵심기술 점검",
+          "desc": "일본에는 세계적인 반도체 장비업체와 부품·소재 기업들이 포진해 있다. 특히 요코하마는 도쿄와 인접해... 주요 협력사 관계자들이 참석했다. 최근 삼성전자는 일본 내 연구 기반을 확대하고 있다. 삼성전자는 올해 3월...",
+          "src": "이데일리",
+          "date": "11/01",
+          "url": "https://n.news.naver.com/mnews/article/018/0006401608?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100855.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "임문영, AI·반도체 국가전략부터 민생까지…첫 국감서 해법 제시",
-          "desc": "제도를 도입하자는 것이다. 제조업 인력 고령화로 사라질 위기에 놓인 숙련공의 기술과 노하우를 데이터로 축적해 AI 학습과 제조업 경쟁력 강화에 활용하자는 취지다. 임 의원은 국감에 앞서 관련 법안도 대표발의했다....",
-          "src": "jnilbo",
+          "title": "한국교통안전공단, '항공의 날' 국무총리 표창…\"항공안전·산업 발전 기...",
+          "desc": "데이터를 활용한 예방 중심의 항공안전관리 체계 확립, 체계적인 항공종사자 자격 관리, 드론 산업 활성화... 항공종사자 자격 관리 분야에서는 현업 수요를 반영한 상시 시험 체계와 자격 진위 확인 서비스를 도입해...",
+          "src": "cstimes",
           "date": "11/01",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078517",
-          "img": "https://cdn.jnilbo.com/news/photo/202611/90000078517_608050_06.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=726131",
+          "img": "https://www.cstimes.com/news/photo/202611/726131_647579_921.jpg"
         },
         {
-          "title": "한국형 국방 아웃소싱, ‘역할·권한·책임’ 담은 설계도 그려야",
-          "desc": "인공지능(AI) 기반 유·무인 복합전투체계 중심으로 전환하고, 현역병을 줄이는 대신 기술집약형 간부를... 우리 군에서도 민간업체 활용 범위에 관한 논의가 활발하지만, 전투 임무와 비전투 임무의 경계를 두고는 해석이...",
-          "src": "kookbang",
+          "title": "\"국민 체감 공공서비스 혁신\" 한전KDN, 코레일과 '에너지·철도 혁신' 맞...",
+          "desc": "정보통신기술(ICT)과 철도 인프라 운영 노하우를 결합해 철도 전력망의 예지보전 체계를 고도화하고 에너지... 재생에너지 활용 확대를 위한 실증 △생성형 AI 등 인공지능 전환(AX) 서비스의 보안체계 실증 등 3대 핵심...",
+          "src": "cstimes",
           "date": "11/01",
-          "url": "https://kookbang.dema.mil.kr/newsWeb/20261102/1/ATCE_CTGR_0050140000/view.do",
-          "img": "https://kookbang.dema.mil.kr/newspaper/tmplat/upload/20261101/thumb1/BBS_202611010301218860.jpg"
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=726132",
+          "img": "https://www.cstimes.com/news/photo/202611/726132_647580_1423.jpg"
         },
         {
-          "title": "쿼드 “자의적 수출 규제·과잉생산”…중국 ‘공급망 교란’ 공동대응...",
-          "desc": "이들은 인도·태평양 지역 국가들의 인공지능(AI) 활용을 돕기 위해 8500만달러(1135억원) 이상의 기술·재정적 지원 계획도 설명했다. 일본 니혼게이자이신문은 “중국의 저가형 인공지능 모델을 도입하려는 글로벌사우스...",
-          "src": "한겨레",
+          "title": "美 '오픈트론스 랩웍스', 4천만 달러 투자 유치…AI 기반 실험실 자동화...",
+          "desc": "이번 투자금은 로봇 기술과 소프트웨어, 데이터 인프라를 확장하는 데 활용할 계획이다. 지난 2014년... 시스템을 도입한 것으로 나타났다. 회사는 앞으로 지능형 실험 장비와 로봇 기술을 결합해 피지컬 AI 기반의...",
+          "src": "irobotnews",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/028/0002830133?sid=104",
-          "img": "https://flexible.img.hani.co.kr/flexible/normal/1000/714/imgdb/original/2026/1101/20261101501279.webp"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49311",
+          "img": "https://cdn.irobotnews.com/news/photo/202610/49311_105099_5327.jpg"
         },
         {
-          "title": "'챗GPT 아버지' 올트먼 만난 삼성 사장단…AX 속도 낸다",
-          "desc": "참석자들은 AI 기술의 발전 방향과 활용 가능성을 살펴보고 새롭게 형성될 시장과 사업 기회에 대해... 올트먼 CEO는 이 자리에서 “단순한 AI 도입만으로는 지속 가능한 경쟁 우위를 확보하기 어렵다”며 “경쟁...",
-          "src": "이데일리",
+          "title": "BI-MU 2026 현장 취재 | 기업별 기술과 장비 - 정밀가공에서 측정·후처리...",
+          "desc": "원격 서비스를 활용하면서도 사용자가 접근 범위를 관리할 수 있도록 한다는 취지다. GrindTech Service+는 연삭기의 정밀도와 생산성을 장비 도입 시점의 사양으로만 보지 않고, 운전 데이터와 진단·유지관리까지...",
+          "src": "mfgkr",
           "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/018/0006401438?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100501.jpg"
+          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28414",
+          "img": "https://cdn.mfgkr.com/news/photo/202610/28414_11192_2920.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 운영",
-      "url": "https://www.hg-times.com/news/articleView.html?idxno=306606",
-      "img": "https://cdn.hg-times.com/news/photo/202611/306606_307269_418.jpg"
+      "title": "한화투자증권, 블록체인 데이터 인프라 기업 체인링크와 전략적 파트너...",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=31940",
+      "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/31940_62086_41_v150.jpg"
     },
     {
-      "title": "中 CXMT, 차세대 D램 '4F²' 시제품 검증 완료⋯\"연말 DDR5 샘플 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071120?sid=101",
-      "img": "https://image.inews24.com/v1/d7f2cc67f25e4b.jpg"
-    },
-    {
-      "title": "美 매체가 꼽은 올해 가전…LG 냉장고·세탁기 등 선정",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597466?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/01/202611011117568410_e.jpg"
+      "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
+      "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
     },
     {
       "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
       "url": "https://n.news.naver.com/mnews/article/018/0006401153?sid=101",
       "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110100140.jpg"
+    },
+    {
+      "title": "삼성전자, 11월부터 '코리아 그랜드 페스티벌' 참가…모바일·가전·IT 등...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324578",
+      "img": "https://cdn.thepublic.kr/news/photo/202610/324578_328379_2846.jpg"
     },
     {
       "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
