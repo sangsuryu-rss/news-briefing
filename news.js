@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.03 (화) 01:03",
+  "updatedAt": "2026.11.03 (화) 08:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"미래 팬덤 잡아라\"...삼성·LG, Z세대 타깃 마케팅 행보 강화",
-          "desc": "이를 두고 업계 안팎에선 삼성전자가 가전과 모바일을 아우르는 크루 마케팅에 공을 들이는 것은 1020세대를 중심으로 한 미래 고객을 선점하고 브랜드 충성도를 강화하기 위한 전략적 포석으로 분석한다. 재계...",
-          "src": "wolyo",
-          "date": "11/02",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319936",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202611/319936_228977_1345.jpg"
+          "title": "[이재용 취임 4주년 ] 30년 미래 구상 시작됐다… AI·로봇 기업 변모",
+          "desc": "가전·모바일 등 세트(완제품) 사업 중심에서 반도체 중심 기업으로 삼성전자를 탈바꿈시킨 이 회장이 다음 30년을 책임질 핵심 사업으로 AI·로봇을 낙점하고 관련 기술과 사업 경쟁력 확보에 속도를 내고 있는 것이다....",
+          "src": "news",
+          "date": "11/03",
+          "url": "https://news.dealsitetv.com/articles/177851",
+          "img": ""
         },
         {
           "title": "쿠팡, 8일까지 '와우 멤버스데이'",
@@ -141,6 +141,22 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "애플은 아이폰을 만들지 않는다",
+          "desc": "예컨대 메모리 반도체 시장을 선도하는 삼성전자의 경우 1차 협력사만 천 곳이 넘는다고 알려져 있다. 그렇다면 호황의 한가운데서, 반도체 산업의 기반인 소재·부품·장비를 만드는 수천 개 공급업체 노동자들은 어떻게...",
+          "src": "labortoday",
+          "date": "11/03",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237535",
+          "img": "https://cdn.labortoday.co.kr/news/thumbnail/202611/237535_115772_4822_v150.jpg"
+        },
+        {
+          "title": "\"中 반도체 추격 거세지자 日과 손잡았다\"…삼성·SK, '초격차 수성' 승...",
+          "desc": "[연합뉴스]  중국의 반도체 기술 추격이 거세지면서 삼성전자와 SK하이닉스가 일본 소재·부품·장비(소부장)... 삼성전자는 1993년부터 일본 협력사 모임인 LJF를 통해 교류해 왔으며 올해 9월에는 현지에서 첨단 패키징...",
+          "src": "ziksir",
+          "date": "11/03",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151637",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202611/151637_171013_4613_v150.jpg"
+        },
+        {
           "title": "\"제조현장 데이터 모아 피지컬AI 고도화… 선순환 만들 것\" [fn이사람]",
           "desc": "정문식 CAIO는 한국과학기술원(KAIST) 기계공학 학사와 석사, 박사 과정을 마친 뒤 LG CNS를 거쳐 삼성전자에서... 그는 \"아이엘은 자회사와 협력사 제조 현장을 실제 피지컬 AI 실증 공간으로 활용할 수 있는 기반을 갖췄다...",
           "src": "파이낸셜뉴스",
@@ -155,22 +171,6 @@ window.NEWS_DATA = {
           "date": "11/02",
           "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257824",
           "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202611/257824_270498_538_v150.jpg"
-        },
-        {
-          "title": "日소부장 협력 속도내는 삼성전자·SK하이닉스…AI 반도체 공급망 확보...",
-          "desc": "삼성전자와 SK하이닉스가 일본 반도체 소재·부품·장비(소부장) 기업들과의 협력을 강화하고 있다.... SK하이닉스는 지난달 29일 일본 지바현에서 현지 주요 협력사 경영진을 초청해 첫 '파트너스데이'를 개최했다. 그동안...",
-          "src": "뉴시스",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/003/0014295906?sid=101",
-          "img": "https://img1.newsis.com/2026/11/01/NISI20261101_0021513579_web.jpg"
-        },
-        {
-          "title": "사람인, AI 인재 추천·채용관리·인사등록 연결…영업이익 28% 성장 기반...",
-          "desc": "2일 관련 업계에 따르면 사람인은 최근 삼성전자 협력사 온라인 채용박람회 운영을 맡아 반도체·전자... 반도체 검사장비와 전자부품, 산업용 가스, 제조설비 등 각 기업이 요구하는 기술과 직무 역량이 다른 만큼...",
-          "src": "upkoreanews",
-          "date": "11/02",
-          "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=100925",
-          "img": "https://cdn.upkoreanews.kr/news/photo/202610/100925_95472_934.jpg"
         }
       ]
     },
@@ -205,12 +205,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242217_248171_1153_v150.jpg"
         },
         {
-          "title": "현대모비스부터 태양금속까지…전동화·로봇 모멘텀에 자동차부품주 '부...",
-          "desc": "티에이치엔은 자동차용 와이어링 하네스를 공급하며, 한라캐스트는 알루미늄 다이캐스팅 부품을 생산한다. 차량 전장화가 진행될수록 배선과 전력 전달 부품의 중요성도 커질 전망이다. 열관리와 차량용 음향 시스템...",
-          "src": "핀포인트뉴스",
-          "date": "11/02",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500619",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/500619_485828_2136_v150.jpg"
+          "title": "[中 거인의 공급망] ①커넥터부터 전장까지 '럭스쉐어' 없으면 '화웨이...",
+          "desc": "커넥터와 통신부품에서 시작된 양사의 접점은 소비전자와 자동차 전장으로 영역을 넓혀왔으며... 자동차 와이어링 하네스·커넥터·스마트 콕핏·스마트 주행, 기업용 통신의 고속 인터커넥트·광모듈·열관리·전원...",
+          "src": "뉴스핌",
+          "date": "10/07",
+          "url": "https://www.newspim.com/news/view/20261006001251",
+          "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
         }
       ]
     },
@@ -221,46 +221,41 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한국보건산업진흥원, 호주 오스바이오텍 2026서 AI 신약개발·자율실험...",
-          "desc": "진흥원은 국내 AI 신약개발·바이오제조 분야의 정책·사업 지원 현황을 소개하고, AI와 자동화 기술을 활용한 연구개발 및 전문인력 양성 협력 방향을 제시했다. 한국제약바이오협회는 제약기업의 AI 기술 도입과...",
-          "src": "medigatenews",
+          "title": "'얼굴 소멸 모자'도 AI가 골라준다…쇼핑 추천 경쟁",
+          "desc": "검색 도입…구매 이력, 상황까지 반영 온라인 쇼핑몰에서 원하는 옷을 찾는 방식이 달라지고 있다.... 자체 AI 추천 기술을 운영하고 있다. 이 기술은 의류 추천뿐 아니라 오프라인 체험 상품에도 활용된다. 공방과...",
+          "src": "segye",
           "date": "11/03",
-          "url": "https://www.medigatenews.com/news/308012722",
-          "img": "https://medigatenews.com/file/news/539015"
+          "url": "https://n.news.naver.com/mnews/article/022/0004171963?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/03/20261103503254.png"
         },
         {
-          "title": "경북 제조현장에 이식된 'AI 심장'… 구미·포항 산단, 자율제조 대전환...",
-          "desc": "데이터 활용과 AI 실증 기반을 AX 실증산단 사업이 선제적으로 담당할 예정이기 때문에 그 의미가 더욱... 인해 AI 기술 도입에 상당한 제약을 받아왔으며, 정밀공정의 수작업 불량 검사나 설비고장 사전 예측 측면에서도...",
-          "src": "전자신문",
+          "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 음성 공급…한 달 만에 누적 사...",
+          "desc": "생성형 인공지능(AI)이 영상 제작 과정에 도입되면서 음성 합성 기술의 활용 범위도 넓어지고 있다. 과거에는 영상에 내레이션을 넣기 위해 별도의 녹음과 편집 작업이 필요했지만, 최근에는 대본을 입력해 AI 음성을...",
+          "src": "venturesquare",
           "date": "11/03",
-          "url": "https://n.news.naver.com/mnews/article/030/0003481325?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/10/29/news-p.v1.20261029.cce68d2b0a6d44a1872785dce0929c49_P1.jpg"
+          "url": "https://www.venturesquare.net/1125086/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-66.gif"
         },
         {
-          "title": "北자폭드론 위협 나흘 후… 軍, 몸집 줄인 드론본부 출범",
-          "desc": "드론을 활용하고, AI(인공지능)·자율화 첨단 기술을 무인 전투 체계 발전에 접목해 전 영역에서 드론의... 제도를 도입하겠다고 국방부는 밝혔다. 드론 실전 경험 연구도 시급 그동안 우리 군의 드론 정책은 국내 정치의...",
-          "src": "조선일보",
+          "title": "폴라리스AI, 유비테크와 '로보월드 2026' 참가…휴머노이드 사업 확장",
+          "desc": "양사는 전시 현장에서 각 제품의 활용 사례를 소개하고 국내 제조·물류·서비스 기업을 대상으로 도입... AI는 이번 전시를 국내 사업 기회를 발굴하는 자리로 활용할 계획이다. 유비테크 본사와 함께 기술 시연을...",
+          "src": "epnc",
           "date": "11/03",
-          "url": "https://n.news.naver.com/mnews/article/023/0004007414?sid=100",
-          "img": "https://www.chosun.com/resizer/v2/XHF6UZFOGNFG3G66EVFFREOWAE.jpg?auth=ff33d91e12b984db7f0ea3d3ec79e501adc67abe630743a8ef838f36bcce07b9&width=667&height=350&smart=true"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409136",
+          "img": "https://cdn.epnc.co.kr/news/photo/202611/409136_409777_1415.jpg"
         },
         {
-          "title": "챗GPT 광고 89개국 확대…누적 광고주 10만곳 넘었다",
-          "desc": "광고주는 기술 파트너를 통하거나 오픈AI의 광고 관리자 도구를 직접 이용해 캠페인을 집행할 수 있다.... 이용자의 국가와 설정에 따라 더 넓은 사용 맥락을 활용할 수도 있다고 오픈AI는 설명했다. 오픈AI는 10월...",
-          "src": "tokenpost",
+          "title": "에쓰핀테크놀로지, MS 애저 데이터 분석 전문 역량 인증 획득",
+          "desc": "클라우드·AI 플랫폼 기업 에쓰핀테크놀로지가 마이크로소프트(MS)의 데이터 분석 분야 고급 기술 인증을... 이승근 에쓰핀테크놀로지 대표는 \"AI 도입의 성패는 데이터를 얼마나 잘 준비하고 활용하느냐에 달려 있다...",
+          "src": "issuenbiz",
           "date": "11/03",
-          "url": "https://www.tokenpost.kr/news/ai/431473",
-          "img": "https://f1.tokenpost.kr/2026/11/js69qjzzff_th_1600x900.webp"
+          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81148",
+          "img": "https://cdn.issuenbiz.com/news/thumbnail/202611/81148_81732_2726_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
-    {
-      "title": "\"미래 팬덤 잡아라\"...삼성·LG, Z세대 타깃 마케팅 행보 강화",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319936",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202611/319936_228977_1345.jpg"
-    },
     {
       "title": "쿠팡, 8일까지 '와우 멤버스데이'",
       "url": "https://n.news.naver.com/mnews/article/092/0002443523?sid=103",
@@ -285,6 +280,11 @@ window.NEWS_DATA = {
       "title": "'현대·기아차 1차 하청 갑질사건' 피해자 항고이유서 제출",
       "url": "https://n.news.naver.com/mnews/article/047/0002534323?sid=102",
       "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1102/A0003280811_T.jpg"
+    },
+    {
+      "title": "[개장 시황] 코스피, 美기술주 변동성 혼조세 속 1.5% 하락 출발 후 5,80...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280174",
+      "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280174_287968_2437_v150.jpg"
     }
   ]
 };
