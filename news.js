@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.02 (월) 08:38",
+  "updatedAt": "2026.11.02 (월) 15:12",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "쿠팡, 최대 할인전 '와멤데' 개막...최대 70%부터 반값상품",
-          "desc": "생활용품, 가전·디지털, 홈인테리어, 뷰티, 패션, 티켓·숙박까지 총 16개 카테고리에서 수천개 브랜드의 37만개가 넘는 상품을 최대 70% 할인 혜택과 함께 선보인다. 대표 브랜드로는 삼성전자, LG전자, 로보락, 다이슨...",
-          "src": "slist",
+          "title": "삼성SDS 구미 AI 데이터센터 첫 삽…60MW급 2029년 가동 목표",
+          "desc": "옛 삼성전자 1캠퍼스 부지에서 열렸다. 기공식에는 이철우 경북도지사, 김장호 구미시장, 이준희 삼성SDS... 이날 행사는 올해 1월 세계 최대 정보기술(IT)·가전 전시회인 CES 2026현장에서 경북도·구미시·삼성SDS가 구미...",
+          "src": "연합뉴스",
           "date": "11/02",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778199",
-          "img": "https://cdn.slist.kr/news/thumbnail/202611/778199_1189329_323_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/001/0016416410?sid=101",
+          "img": "https://img3.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102107900053_01_i_P4.jpg"
         },
         {
-          "title": "G마켓 3000개 특가에 쿠팡 70% 할인…11월 쇼핑대전 막 올랐다",
-          "desc": "첫날인 2일에는 삼성전자 비스포크 AI 4도어 냉장고와 HP 빅터스 게이밍 노트북, 노스페이스 아우터, 애플 아이패드 에어, 칠갑농산 감자수제비 등을 판매한다. 이 밖에 '빅스마일 대표 특가' 코너에서는 카테고리별로...",
-          "src": "segye",
+          "title": "[반론닷컴TV] 영상으로 보는 '2026 한국광고주대회 KAA어워즈'",
+          "desc": "향한다' △삼성전자 한국총괄 IMC그룹 CE파트 '2026 CE 통합 삼성 AI 신혼가전 캠페인' △동원그룹 커뮤니케이션실 '필요에 답하다'가 수상했다. 마케팅전략 부문에서는 △LG유플러스 브랜드마케팅팀 '심플랩(Simple. Lab)...",
+          "src": "banronbodo",
           "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/022/0004171634?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/02/20261102502738.jpg"
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33282",
+          "img": "https://cdn.banronbodo.com/news/photo/202611/33282_49476_5552.jpg"
         },
         {
-          "title": "삼성·LG, 11월 가전 할인전…쿠폰·다품목 혜택 경쟁",
-          "desc": "(사진=LG전자) 컨슈머타임스=이필립 기자 | 정부 소비축제 '코리아 그랜드 페스티벌'에 맞춰 삼성전자와 LG전자가 이달 한 달 동안 TV·냉장고·세탁건조기 등 주요 가전 할인 행사에 들어간다. 산업통상부가 지난 27일...",
-          "src": "cstimes",
+          "title": "삼성 DA사업부, 외형 성장에도 이익 감소…\"AI 가전 통해 반전 모색\"",
+          "desc": "삼성전자는 최근 3분기 실적발표에서 올해 4분기 생활가전 사업의 프리미엄 제품 판매 비중을 확대해 수익성을 개선하겠다고 밝혔다. 특히 '비스포크 AI'를 중심으로 냉장고와 세탁기, 에어컨, 로봇청소기 등 주요...",
+          "src": "ebn",
           "date": "11/02",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=726042",
-          "img": "https://www.cstimes.com/news/photo/202610/726042_647475_3642.jpg"
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730054",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202611/1730054_765404_4950_v150.jpg"
         },
         {
-          "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
-          "desc": "냉장고나 세탁기 같은 대형 가전을 매달 요금을 나눠 내는 구독 방식으로 사는 소비자들이 늘고 있습니다.... LG전자는 전용 매장 매출 가운데 구독 비중이 63%를 넘었고, 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객...",
-          "src": "news",
-          "date": "11/01",
-          "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
-          "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
+          "title": "[유통레이더] 한국콜마, 앳홈, 로보락, NS홈쇼핑, 시몬스, 컬리, G마켓 외",
+          "desc": "삼성전자, LG전자, CJ제일제당 등 90여개 주요 브랜드가 참여한다. 신선식품과 가공식품을 할인하는... 세탁건조기 'Zeo X' 등 브랜드 핵심 라인업이 포함됐다. 행사 기간 중 다양한 모바일 라이브 방송도 함께 전개한다....",
+          "src": "daily",
+          "date": "11/02",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420611",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1420611_1599353_3424_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "'현대·기아차 1차 하청 갑질사건' 피해자 항고이유서 제출",
+          "desc": "ⓒ 오마이뉴스 구영식 현대·기아자동차 2차 하청업체를 운영했던 송 전 대표는 지난 2016년 1차 하청업체인... 전 현대차 구매팀장 등 총 6명을 '모해위증죄'로 천안지청에 고소했다(2024년 6월 7일). 이들이 1심 재판에...",
+          "src": "ohmynews",
+          "date": "11/02",
+          "url": "https://n.news.naver.com/mnews/article/047/0002534323?sid=102",
+          "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1102/A0003280811_T.jpg"
+        },
+        {
+          "title": "[개장 시황] 코스피, 美기술주 변동성 혼조세 속 1.5% 하락 출발 후 5,80...",
+          "desc": "실적 컨센서스 우려가 제기되었던 현대차·기아 등 자동차 주는 전주 급락세 이후 숨 고르기에 들어갔으며, 2차전지 및 바이오 관련 대형주들은 종목별로 차별화된 주가 흐름을 보이고 있다. 시총 상위단 전 종목이...",
+          "src": "businesskorea",
+          "date": "11/02",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280174",
+          "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280174_287968_2437_v150.jpg"
+        },
         {
           "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
           "desc": "연말 자동차 수요 확보에 나섰다. 현대차는 주요 차종의 구매 가격 할인과 고객 선호 사양 무상 장착에 더해 차량 구매 이후 활용할 수 있는 관리 서비스를 강화했다. 기아는 쏘렌토와 타스만 등 16개 차종, 총 1만대를...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "10/30",
           "url": "https://n.news.naver.com/mnews/article/366/0001201635?sid=103",
           "img": "https://biz.chosun.com/resizer/v2/6JLKSLVZFRIATPXKII77BNO23Q.jpg?auth=5d17506c2b44363334e695d24796ac1b52a5ef21eac1d7d99ff878ff9ccada1a&width=1200&height=630&smart=true"
-        },
-        {
-          "title": "현대캐피탈, 장기렌트 확장 기회…20년 규제 손질",
-          "desc": "현대캐피탈은 현대차·기아의 자동차금융을 기반으로 할부·리스사업을 영위하고 있다. 개정안이 시행되면 기존 할부금융자산을 한도 산정에 활용할 수 있어 차량 운용 여력이 넓어진다. 시장점유율 회복도 과제다....",
-          "src": "press9",
-          "date": "10/29",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=85098",
-          "img": "http://www.press9.kr/news/thumbnail/202610/85098_97184_2358_v150.jpg"
-        },
-        {
-          "title": "삼성전자·현대차·기아, 글로벌 100대 브랜드 진입…가치 상승분 95% 삼...",
-          "desc": "한국 기업 가운데서는 삼성전자가 이러한 AI 중심의 가치 상승을 이끌었고, 현대차와 기아는 자동차업계의 약세를 거스르며 브랜드 경쟁력을 유지했다. 다만 세계 100대 브랜드에 이름을 올린 한국 기업이 세 곳에...",
-          "src": "sateconomy",
-          "date": "10/28",
-          "url": "http://sateconomy.co.kr/news/view/1065598096418965",
-          "img": "http://sateconomy.co.kr/news/data/20261028/p1065598096418965_698_thum.png"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "이재용 회장, 삼성전자 日 요코하마 패키징 거점 첫 점검… \"AI 반도체 ...",
-          "desc": "삼성전자 회장이 일본 요코하마에 구축된 첨단 반도체 패키징 R&D 거점을 찾아 글로벌 '소부장(소재·부품... 후공정 협력사들이 밀집해 있다. 여기에 일본 정부의 파격적인 반도체·AI 투자 지원책도 시너지를 더하고...",
-          "src": "인더스트리뉴스",
+          "title": "AI 반도체 패권 경쟁, 삼성·SK가 일본으로 향한 이유",
+          "desc": "인공지능(AI) 반도체 시장이 급성장하면서 삼성전자와 SK하이닉스가 일본 반도체 소재·부품·장비(소부장)... 지난달 29일 일본 지바현에서 현지 핵심 협력사 20여곳의 경영진을 초청해 일본에서 처음으로 파트너스데이를...",
+          "src": "sidae",
           "date": "11/02",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88654",
-          "img": "https://cdn.industrynews.co.kr/news/photo/202611/88654_110104_2710.jpg"
+          "url": "https://n.news.naver.com/mnews/article/417/0001162933?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/11/02/00/2026110210332685281_1.jpg"
         },
         {
-          "title": "삼성 투자 업고 지역성장 선순환…자족형 첨단 산업도시 대전환",
-          "desc": "지난달 21일 경기도 평택시 고덕동 삼성전자 평택캠퍼스 P5 건설현장에 세워진 수많은 타워크레인이... 이는 첨단기업 유치가 단순한 생산시설 확충을 넘어 수많은 소부장(소재·부품·장비) 협력사와...",
-          "src": "kjdaily",
-          "date": "11/01",
-          "url": "http://www.kjdaily.com/article.php?aid=1793526355690862004",
-          "img": ""
+          "title": "[뉴스+]'일본 소부장' 찾는 삼성전자·SK하이닉스",
+          "desc": "/사진=삼성전자 국내 반도체 기업들이 일본 소재·부품·장비(소부장) 생태계와 접점을 넓히고 있다. 삼성전자는 요코하마에서 차세대 패키징 기술 확보에 나섰고, SK하이닉스는 지바에서 핵심 협력사와 중장기...",
+          "src": "비즈니스플러스",
+          "date": "11/02",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119132",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119132_120362_100_v150.jpg"
         },
         {
-          "title": "이재용, 日 소부장과 밀착…AI 반도체 패키징 키운다",
-          "desc": "소재·부품·장비 기업과의 협력 확대 방안을 논의했다. 삼성전자는 이 회장이 1일 일본 요코하마에 있는... SK하이닉스는 지난달 29일 일본 지바현에서 도쿄일렉트론·신에쓰 등 협력사 20여곳과 첫 '파트너스데이'를...",
-          "src": "4th",
-          "date": "11/01",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2120887",
-          "img": "https://cdn.4th.kr/news/thumbnail/202611/2120887_222412_1950_v150.jpg"
+          "title": "이재용, 日 요코하마 패키징 연구소 첫 점검… 현지 소부장 기업과 협력",
+          "desc": "소재·부품·장비 기업과의 협력 방안을 점검했다. 삼성전자는 이 회장이 지난 1일 요코하마... 패키징 경쟁이 개별 공정 기술을 넘어 협력사와 함께 제품을 완성하는 능력의 싸움으로 번지고 있다는 평가가 나온다....",
+          "src": "thepublic",
+          "date": "11/02",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324632",
+          "img": "https://cdn.thepublic.kr/news/photo/202611/324632_328448_303.jpg"
         },
         {
-          "title": "이재용 삼성전자 일본 반도체 패키징 연구소 현장점검, 현지 소부장 기...",
-          "desc": "2023년 삼성전자가 설립한 APL은 반도체 역량과 일본 소부장(소재·부품·장비) 생태계를 잇는 핵심... 도쿄와 인접해 산학연 인프라와 전문 인력 유치에 유리하고 소부장 협력사가 밀집해 거점으로 적합하다\"고 설명했다.",
-          "src": "비즈니스포스트",
-          "date": "11/01",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450851",
-          "img": ""
+          "title": "‘현장 경영’ 이재용, 차세대 기술 점검 박차",
+          "desc": "특히 다수의 반도체 소재·부품·장비 협력사가 위치한 일본은 이 회장의 단골 출장국가이기도 하다.... APL은 삼성전자의 반도체 설계·제조 역량과 일본의 우수한 소재·부품·장비 기술 생태계를 연결하는 역할을...",
+          "src": "헤럴드경제",
+          "date": "11/02",
+          "url": "https://n.news.naver.com/mnews/article/016/0002717593?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/02/news-p.v1.20261102.f8a864548f7e4097b57817389f8ef8bf_P1.png"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“한미약품, 잇따른 기술이전에 목표가 높여”-IBK",
-          "desc": "이번 도입을 통해 투여 편의성을 개선하고 치료 선택지를 확대하려는 것”이라고 판단했다. 정 연구원은... 그러면서 “향후 AI를 활용한 개발효율 개선이 신규 파이프라인 발굴과 후속 기술이전으로 이어질 것”...",
-          "src": "itooza",
+          "title": "국방부, '국방드론본부' 공식 출범…드론·대드론 전력 발전 총괄",
+          "desc": "인공지능(AI)과 자율화 기술을 활용한 무인전투체계 발전도 주요 과제로 제시됐다. 국방드론본부는 한반도의... 개선 △첨단기술 실증 및 전력화 지원 등이다. 이를 통해 다양한 드론 기술을 군에 안정적으로 도입하고...",
+          "src": "shinailbo",
           "date": "11/02",
-          "url": "https://www.itooza.com/common/iview.php?no=2026110208364169486",
-          "img": "https://menu.itooza.com/cmsupload/2026/11/02/20261102083628__0_fd_image_120_142_87_2_7238.gif"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078740",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202611/5078740_2076239_5957.jpg"
         },
         {
-          "title": "\"마이데이터 이용 10배↑\"…기보, 비대면 금융 개선",
-          "desc": "기술보증기금(기보)은 공공 마이데이터 활용을 확대하고 비대면 금융서비스 전반을 개선할 계획이라고 2일 밝혔다. 기보는 행정안전부와 지난 1월 업무협약을 맺고 공공부문 최초로 기업 공공 마이데이터 서비스를 도입...",
-          "src": "뉴시스",
+          "title": "중진공 청년창업사관학교, 졸업기업 성장 지원 '지속'",
+          "desc": "중소벤처기업부의 창업성공패키지 청년창업사관학교 사업은 유망 창업아이템 및 혁신기술을 보유한 우수... 고객의 AI 활용 수요와 도입 시 검토 기준을 직접 확인할 수 있었다\"며 \"상담 기업과 후속 협의를 통해...",
+          "src": "머니투데이",
           "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/003/0014293654?sid=101",
-          "img": "https://img1.newsis.com/2026/11/02/NISI20261102_0002279874_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005435283?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110213141123334_1.jpg"
         },
         {
-          "title": "삼성전자, 다카르 청소년올림픽 후원…갤럭시로 '빅토리 셀피'",
-          "desc": "빅토리 셀피는 이번 대회에서 청소년올림픽 최초로 도입된다. 메달 수여식에서 선수들이 시상대 위에서... 빅토리 월에서는 갤럭시 AI를 활용해 올림픽 테마가 적용된 사진을 만들 수 있다. 빅토리 토크는...",
-          "src": "g-enews",
+          "title": "신한투자증권, AI로 투자전략 짠다…'프리미어 AI 파인더' 출시",
+          "desc": "SOL증권'에 AI 조건검색 서비스 '신한 Premier AI Finder(프리미어 AI 파인더)'를 도입한다고 2일 밝혔다. 이번... 탐색까지 AI 활용 범위를 확대한다. AI의 매매 관여에 따른 위험을 줄이기 위한 통제 장치도 마련한다. AI가 투자...",
+          "src": "ziksir",
           "date": "11/02",
-          "url": "https://www.g-enews.com/view.php?ud=202611020823256637139bf6e4b2_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110208251805755139bf6e4b2106101138117.jpg"
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151685",
+          "img": "https://cdn.ziksir.com/news/thumbnail/202611/151685_171058_1150_v150.jpg"
         },
         {
-          "title": "[뷰펠]재난 반복되는 네팔...\"피해 줄이려면 예방교육 필수죠\"",
-          "desc": "그럼에도 불구하고 디팍 대표는 교육 대상을 늘리기 위해 인공지능(AI)과 디지털 기술을 활용한 비대면 교육도 도입할 예정이다. 기존에는 강사가 학교와 지역사회를 직접 방문했지만, 앞으로는 비대면 교육 콘텐츠를...",
-          "src": "newstree",
+          "title": "‘성장’ 36번·‘투자’ 24번·‘지원’ 24번 나온 시정연설…“관건은...",
+          "desc": "미래대응기금의 완충 기능과 관련해선 여유 자금을 세수 부족 시 재정 여력 보강에 활용함으로써 재정의... 아울러 이 대통령은 ‘미래’를 향한 ‘투자’는 인공지능(AI)과 첨단기술에 집중될 것이라고 밝혔다....",
+          "src": "헤럴드경제",
           "date": "11/02",
-          "url": "https://www.newstree.kr/newsView/ntr202610290011",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/016/0002717713?sid=100",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/02/rcv.YNA.20261102.PYH2026110203230001300_P1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "쿠팡, 최대 할인전 '와멤데' 개막...최대 70%부터 반값상품",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=778199",
-      "img": "https://cdn.slist.kr/news/thumbnail/202611/778199_1189329_323_v150.jpg"
+      "title": "삼성SDS 구미 AI 데이터센터 첫 삽…60MW급 2029년 가동 목표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016416410?sid=101",
+      "img": "https://img3.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102107900053_01_i_P4.jpg"
     },
     {
-      "title": "G마켓 3000개 특가에 쿠팡 70% 할인…11월 쇼핑대전 막 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171634?sid=101",
-      "img": "https://www.segye.com/content/image/2026/11/02/20261102502738.jpg"
+      "title": "[반론닷컴TV] 영상으로 보는 '2026 한국광고주대회 KAA어워즈'",
+      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33282",
+      "img": "https://cdn.banronbodo.com/news/photo/202611/33282_49476_5552.jpg"
     },
     {
-      "title": "삼성·LG, 11월 가전 할인전…쿠폰·다품목 혜택 경쟁",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=726042",
-      "img": "https://www.cstimes.com/news/photo/202610/726042_647475_3642.jpg"
+      "title": "삼성 DA사업부, 외형 성장에도 이익 감소…\"AI 가전 통해 반전 모색\"",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730054",
+      "img": "https://cdn.ebn.co.kr/news/thumbnail/202611/1730054_765404_4950_v150.jpg"
     },
     {
-      "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
-      "url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
-      "img": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/11/01/20261101201954580001.jpg"
+      "title": "[유통레이더] 한국콜마, 앳홈, 로보락, NS홈쇼핑, 시몬스, 컬리, G마켓 외",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420611",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1420611_1599353_3424_v150.jpg"
     },
     {
-      "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=119061",
-      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119061_120257_942_v150.jpg"
+      "title": "'현대·기아차 1차 하청 갑질사건' 피해자 항고이유서 제출",
+      "url": "https://n.news.naver.com/mnews/article/047/0002534323?sid=102",
+      "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1102/A0003280811_T.jpg"
     },
     {
-      "title": "기아 “지금 전기차 안 팔면 유럽서 설 자리 없다”… ‘할인으로 키운...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201635?sid=103",
-      "img": "https://biz.chosun.com/resizer/v2/6JLKSLVZFRIATPXKII77BNO23Q.jpg?auth=5d17506c2b44363334e695d24796ac1b52a5ef21eac1d7d99ff878ff9ccada1a&width=1200&height=630&smart=true"
+      "title": "[개장 시황] 코스피, 美기술주 변동성 혼조세 속 1.5% 하락 출발 후 5,80...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280174",
+      "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280174_287968_2437_v150.jpg"
     }
   ]
 };
