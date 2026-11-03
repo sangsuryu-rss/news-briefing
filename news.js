@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.04 (수) 01:16",
+  "updatedAt": "2026.11.04 (수) 06:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자서비스, 폭염에도 빈틈없는 에어컨 A/S, AI로 서비스 품질 강화",
-          "desc": "비롯한 가전제품에 대한 출장서비스를 제공한다. 올해도 흑산도, 마라도, 욕지도 등 지역별 섬 지역 서비스를 담당하는 엔지니어가 도서지역 방문 서비스를 제공 중이다. 삼성전자서비스는 '서비스는 삼성, 안전도 삼성...",
-          "src": "매일경제",
+          "title": "[전자 3형제 경쟁 공식①] 삼성전자 우상향·LG전자 상고하저, 이유는",
+          "desc": "[사진 = ChatGPT, 양사 제공 사진 및 뉴스투데이 촬영 이미지 활용] [뉴스투데이=전소영 기자] 삼성전자와 LG전자는 가전과 TV, 한때는 스마트폰이라는 공통분모까지 국내를 대표하는 가전·전자 제조 기업으로 어깨를...",
+          "src": "news2day",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/009/0005758578?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110302000001_L00.jpg"
+          "url": "https://www.news2day.co.kr/article/20261103500326",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/03/.cache/512/20261103500313.png"
         },
         {
-          "title": "11월 1주 주요 제조업 전망",
-          "desc": "가전·TV 부문은 월드컵 등 국제 스포츠 이벤트가 종료하며 매출이 하락해 2,000억원의 분기 적자를 기록했다고 설명함 - 삼성전자는 \"4분기에도 반도체의 호실적이 이어지며 전사 실적은 성장할 것으로 전망된다...",
-          "src": "laborplus",
-          "date": "11/03",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41751",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41751_74791_378.jpg"
+          "title": "AI발 메모리값 급등…로봇청소기도 비상",
+          "desc": "중국 로봇청소기 업체 에코백스는 최근 실적 발표에서 메모리 가격 상승을 수익성 악화 요인으로 지목했다. 삼성전자와 LG전자도 부품 가격 상승의 영향을 받는 만큼 제조사들이 원가 부담을 얼마나 흡수할 수 있을지가...",
+          "src": "조선일보",
+          "date": "11/04",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000118",
+          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000118_500088_1358.png"
+        },
+        {
+          "title": "中 가전, 韓 안방 공략 가속…로봇청소기 넘어 TV·생활가전으로",
+          "desc": "세탁건조기 ‘제오 엑스’ 등을 빅스마일데이 행사 제품으로 선보인다. 로봇청소기 외에 바닥 청소와... 국내 로봇청소기 시장에서는 삼성전자와 LG전자의 반격도 이어지고 있다. 올해 1분기 중국 브랜드가 약 70%의...",
+          "src": "디지털타임스",
+          "date": "11/04",
+          "url": "https://n.news.naver.com/mnews/article/029/0003056974?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/11/03/news-p.v1.20261103.366f42127a3e46aca5534cc8fcc681e9_R.jpg"
         },
         {
           "title": "\"할인으로 지갑 열고, 상품권으로 상권 살리고\"…전남광주, 소비 활력 기...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/03",
           "url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
           "img": "https://cdn.namdonews.com/news/photo/202611/928066_634698_4946.jpg"
-        },
-        {
-          "title": "[단독] 충전기 옮겨도 '척척'…삼성전자, 로봇 자율 충전기술 특허 공개",
-          "desc": "◇ 공장·물류창고까지 활용 기대…자율충전 시장 2032년 2조8,000억원 전망 이번 기술은 가정용 로봇청소기에만 한정되지 않는다. 삼성전자는 특허에서도 \"무인운반차(AGV), 자율이동로봇(AMR), 소셜 로봇 등 다양한 이동형...",
-          "src": "sisaweek",
-          "date": "11/03",
-          "url": "https://www.sisaweek.com/news/articleView.html?idxno=238754",
-          "img": "https://cdn.sisaweek.com/news/thumbnail/202611/238754_258047_1536_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "11월 1주 주요 제조업 전망",
-          "desc": "또 \"업계 의견을 반영해 이달 중 자율주행 기술력 제고, 핵심 부품과 기술 연구·개발(R&D) 확대 등을 담은... 조성하고, 협력사와의 상생협력 및 노동약자 보호를 위한 공동의 노력을 강화하기로 함 □ 삼성전자...",
-          "src": "laborplus",
-          "date": "11/03",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41751",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41751_74791_378.jpg"
+          "title": "초호황의 그늘⋯ K-반도체, 소부장 함께 커야 삼전닉스도 산다",
+          "desc": "(소재·부품·장비) 기업 성장 기반도 함께 마련해야 할 때입니다. 정부와 주요 대기업 주도의 현실적인 소부장 육성안이 시급합니다.” 국내 소부장 기업들이 반도체 간판 삼성전자와 SK하이닉스의 실적 호조가 협력사에도...",
+          "src": "브릿지경제",
+          "date": "11/04",
+          "url": "https://www.viva100.com/article/20261103501085",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/03/.cache/512/20261103500819.png?v=20261104065059"
         },
         {
-          "title": "삼성은 기술 확보, SK는 공급망 선점…엇갈린 日 반도체 공략법",
-          "desc": "소재·부품·장비(소부장) 기업과의 협력을 강화하며 공급망 선점에 무게를 두고 있다. 3일 업계에 따르면 삼성전자는 일본 요코하마에 구축한 첨단 패키징 연구거점 '어드밴스드 패키징 랩(APL)'을 중심으로 현지...",
-          "src": "아주경제",
-          "date": "11/03",
-          "url": "https://www.ajunews.com/view/20261103153904453",
-          "img": "https://image.ajunews.com/content/image/2026/11/03/20261103154041488176.jpg"
-        },
-        {
-          "title": "590억 달러 투자한 삼성, 단순 제조 벗어나 중국에 공정 두뇌 심은 사연",
-          "desc": "누적 투자액 590억 달러 가운데 반도체와 전기 부품을 비롯한 첨단 산업 투자 비중은 90%에 육박한다. 1992년... 쑤저우 삼성전자 협력사인 장쑤신안전기는 공정 관리 지원을 받아 연간 매출이 2억~3억 위안에서 30억 위안(약...",
+          "title": "\"전력 98% 줄이고 속도 10배\"… 日 아이신, '차세대 MRAM 통합' 차량용 A...",
+          "desc": "토요타(Toyota) 자동차의 핵심 부품 및 전장 계열사인 일본 아이신(Aisin)이 기존 차량용 반도체 대비 전력... 현재 파운드리 1위 대만 TSMC와 삼성전자 등 글로벌 최선두 칩 제조사들이 상용화에 공을 들이고 있는...",
           "src": "g-enews",
-          "date": "11/03",
-          "url": "https://www.g-enews.com/view.php?ud=202611031739134130fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110317412005574fbbec65dfb211211153121.jpg"
+          "date": "11/04",
+          "url": "https://www.g-enews.com/view.php?ud=2026110317354110000c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261103173629085070c8c1c064d22114611240.jpg"
         },
         {
-          "title": "반도체 소재 국산화 성공 7년…삼성·SK, 다시 日 찾는 이유는",
-          "desc": "소재·부품·장비(소부장) 기업과의 협력 방안을 논의했다. 삼성전자는 2023년 APL을 설립하고 이듬해부터... 지난달 29일엔 일본 지바현에서 현지 주요 협력사 경영진을 초청해 첫 '파트너스데이'를 개최했다. 국내에서...",
-          "src": "블로터",
-          "date": "11/03",
-          "url": "https://n.news.naver.com/mnews/article/293/0000092611?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202611/677542_291868_4116_v150.jpg"
+          "title": "아이폰 잘 팔려도 메모리값 폭등에 휘청…애플의 역설",
+          "desc": "후퇴와 부품 선점 움직임은 메모리 반도체 공급망에 복합적인 계산서를 내밀고 있다. 글로벌 스마트폰 제조사에 모바일 디램과 낸드플래시를 공급하는 삼성전자와 SK하이닉스는 서버용 인공지능 메모리 수요 폭증에...",
+          "src": "g-enews",
+          "date": "11/04",
+          "url": "https://www.g-enews.com/view.php?ud=202611031718156022fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261028082245059459a1f30943117511616074.jpg"
+        },
+        {
+          "title": "'추론 메모리 병목' 깬 퀄컴…LPDDR 수직 적층으로 데이터센터 정조준",
+          "desc": "웨이퍼 결합 공정은 파운드리와 후공정 협력사를 통해 검증 절차를 밟았다. 구체적인 칩 공급 단가는... 한국 반도체 산업은 SK하이닉스와 삼성전자가 주도하는 HBM 공급망에 주력하고 있으나, 퀄컴이 적층에 활용하는...",
+          "src": "g-enews",
+          "date": "11/04",
+          "url": "https://www.g-enews.com/view.php?ud=20261103171535410fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110317180107050fbbec65dfb211211153121.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "음식물 쓰레기, 무게만 재면 될까…FAO가 짚은 디지털 감축 조건",
-          "desc": "◆ 앱 도입과 감축 성과는 별개 FAO는 이번 논의에서 기술만으로 문제가 해결되지는 않는다고 짚었다. 도구의 시험·검증뿐 아니라 사용자의 기기 접근성, 디지털 활용 능력, 교육과 지속적인 기술 지원이 필요하다는...",
-          "src": "vegannews",
+          "title": "AMD, 데이터센터 매출 두 배 가까이 급증…시간외 주가 7%↑",
+          "desc": "인공지능(AI) 반도체 시장에서 엔비디아를 추격하고 있는 AMD가 대형 기술기업들의 투자 확대에 힘입어... 성장 배경에는 AI를 실제 업무에 활용하는 기업이 늘어나면서 반도체 수요가 확대된 점이 있다. AMD는 AI...",
+          "src": "매일경제",
           "date": "11/04",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=400106",
-          "img": "https://www.vegannews.co.kr/data/photos/20261145/art_17937220206359_1566d3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005758602?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261104.f1484ad86220441eaa2686f72b13200c_R.png"
         },
         {
-          "title": "[인터뷰] 변우진 ETRI 대경권연구본부장 “대구·경북을 대한민국 '피지...",
-          "desc": "수행하는 기술이다. 우리나라는 특히 세계에서 가장 빠르게 피지컬 AI가 도입될 것이다. 대구·경북이... AI 기술의 눈부신 발전을 적극 활용하고 구성원 간 소통과 창의적 협력을 극대화해 연구 생산성을 지금보다 3~5배...",
-          "src": "전자신문",
+          "title": "첫 보건의료발전계획 밑그림…공공병원 별도 수가체계 제안",
+          "desc": "의료기관 기능별 재편과 건강보험·실손보험 통합관리, 주치의제 도입 등 의료체계 전반의 구조 개편 방안도... 디지털·인공지능 분야에서는 의료데이터의 병원 간 공유와 활용, AI 혁신병원 육성, AI 기반 진료지원 확산...",
+          "src": "docdocdoc",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/030/0003481823?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.2a952aea225a416ba72c4f51c4dc1659_P1.png"
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044271",
+          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044271_3048209_227_v150.jpg"
         },
         {
-          "title": "투자 앱 이름까지 바꾼 미래에셋증권, AI로 무엇을 노리나",
-          "desc": "회의록과 업무 문서를 플랫폼에 올려 문서끼리 비교·분석하고, 보고서 초안을 쓰는 데도 활용한다. AI를 도입할 때는 실제 업무를 맡은 부서와 정보기술(IT) 부서가 함께 업무 방식을 다시 짠다. 한 가지 업무에 AI를...",
-          "src": "byline",
+          "title": "\"AI가 답변 찾고 상담 요약까지\"…KT 고객센터 가보니",
+          "desc": "KTis는 고객센터에서 축적한 AI 활용 경험을 바탕으로 금융·공공·의료 등 다양한 산업으로 AICC 사업을 확대하고 있다. 현재 120여 개 고객사의 169개 고객센터를 운영 중이다. KTis는 앞으로도 KT의 AI 기술과 현장 운영...",
+          "src": "뉴스1",
           "date": "11/04",
-          "url": "https://byline.network/?p=9004111222623154",
-          "img": "https://cdn.byline.network/wp-content/uploads/2026/11/1103.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009268717?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/3/8193789/high.jpg"
         },
         {
-          "title": "행복청, 예산 'zero'로 자체 AI 검색 서비스 구축",
-          "desc": "행정중심복합도시건설청(청장 강주엽)이 인공지능(AI)과 협업 기술을 활용한 적극행정 우수사례 5건을... 박상옥 행복청 기획조정관은 \"신기술을 적극 도입해 현장 문제를 주도적으로 해결한 노력이 행복도시 발전의...",
-          "src": "ccnnews",
+          "title": "바이낸스 창업자 \"AI 해킹 급증할 것…은행이 더 위험\"",
+          "desc": "인공지능 기술 발전으로 가상화폐 거래소와 은행을 겨냥한 사이버 공격이 늘어날 것으로 내다봤습니다. 자오창펑 창업자는 \"AI 해킹을 막기 위해서는 업계가 AI를 활용하는 수밖에 다른 방법은 없다\"고 가상화폐 전문매체...",
+          "src": "연합뉴스TV",
           "date": "11/04",
-          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417211",
-          "img": "http://www.ccnnews.co.kr/news/thumbnail/202611/417211_522997_363_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000922651?sid=104",
+          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20261103/AKR20261104061043sTn_01_i.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자서비스, 폭염에도 빈틈없는 에어컨 A/S, AI로 서비스 품질 강화",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758578?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110302000001_L00.jpg"
+      "title": "[전자 3형제 경쟁 공식①] 삼성전자 우상향·LG전자 상고하저, 이유는",
+      "url": "https://www.news2day.co.kr/article/20261103500326",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/03/.cache/512/20261103500313.png"
     },
     {
-      "title": "11월 1주 주요 제조업 전망",
-      "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41751",
-      "img": "https://cdn.laborplus.co.kr/news/photo/202611/41751_74791_378.jpg"
+      "title": "AI발 메모리값 급등…로봇청소기도 비상",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000118",
+      "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000118_500088_1358.png"
+    },
+    {
+      "title": "中 가전, 韓 안방 공략 가속…로봇청소기 넘어 TV·생활가전으로",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056974?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/11/03/news-p.v1.20261103.366f42127a3e46aca5534cc8fcc681e9_R.jpg"
     },
     {
       "title": "\"할인으로 지갑 열고, 상품권으로 상권 살리고\"…전남광주, 소비 활력 기...",
       "url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
       "img": "https://cdn.namdonews.com/news/photo/202611/928066_634698_4946.jpg"
-    },
-    {
-      "title": "[단독] 충전기 옮겨도 '척척'…삼성전자, 로봇 자율 충전기술 특허 공개",
-      "url": "https://www.sisaweek.com/news/articleView.html?idxno=238754",
-      "img": "https://cdn.sisaweek.com/news/thumbnail/202611/238754_258047_1536_v150.jpg"
     },
     {
       "title": "韓 증시 영향은?...美 중간선거 결과에 쏠린 눈",
