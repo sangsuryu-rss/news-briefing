@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.03 (화) 08:34",
+  "updatedAt": "2026.11.03 (화) 15:52",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[이재용 취임 4주년 ] 30년 미래 구상 시작됐다… AI·로봇 기업 변모",
-          "desc": "가전·모바일 등 세트(완제품) 사업 중심에서 반도체 중심 기업으로 삼성전자를 탈바꿈시킨 이 회장이 다음 30년을 책임질 핵심 사업으로 AI·로봇을 낙점하고 관련 기술과 사업 경쟁력 확보에 속도를 내고 있는 것이다....",
-          "src": "news",
+          "title": "[기업인사이드] 이마트·롯데케미칼, 영업익으로 이자 충당 못해...삼성...",
+          "desc": "반도체·스마트폰·가전 기업인 삼성전자의 상반기 연결 기준 영업이익은 전년 동기 대비 1191.4% 증가한 146조7252억원이다. 같은 기간 삼성전자의 이자비용은 46.2% 증가한 4747억원이다. 삼성전자의 이자보상배율은...",
+          "src": "thebigdata",
           "date": "11/03",
-          "url": "https://news.dealsitetv.com/articles/177851",
-          "img": ""
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611031452262422bbceadc3c9_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261103145643079660bbceadc3c91061012101.jpg&nmt=23"
         },
         {
-          "title": "쿠팡, 8일까지 '와우 멤버스데이'",
-          "desc": "삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당, 코카콜라, 청정원, 하림, 유한킴벌리 등 주요 브랜드 상품도... 가전·디지털 분야에서는 다이슨 슈퍼소닉 뉴럴 헤어드라이어와 로보락 S10 MaxV 시리즈 로봇청소기 등을...",
-          "src": "ZDNet코리아",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/092/0002443523?sid=103",
-          "img": "https://image.zdnet.co.kr/2026/11/02/719763bfaecbe5ae5045ca2eb020b67a.png"
+          "title": "신축 아파트서 병원·호텔·은행까지…구독 판 키우는 삼성·LG",
+          "desc": "LG전자는 2009년 정수기 렌털 사업을 시작으로 2022년 냉장고와 세탁기 등 대형 가전으로 사업 영역을 넓혔으며, 2023년부터 이를 가전 구독 사업으로 확대해 왔습니다. 삼성전자도 빠르게 사업 규모를 키우고 있습니다....",
+          "src": "newstomato",
+          "date": "11/03",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1319059&inflow=N",
+          "img": "https://image.newstomato.com/newsimg/2026/11/3/1319059/attach.jpg?v=202611031515"
         },
         {
-          "title": "김정관 산업부 장관, 홍대 K-세일페스타 유통 매장 방문.. “K-소비재, 글...",
-          "desc": "가전업체 역시 삼성전자, LG전자, 위닉스, 쿠쿠 등 주요 기업들이 TV, 냉장고, 세탁기 등 핵심 가전제품을 비롯해 스마트폰, PC, 모바일 액세서리까지 다양한 품목을 실속 있는 가격에 선보인다. 코그페 할인 혜택은...",
-          "src": "전자신문",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/030/0003481291?sid=100",
-          "img": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.c15e06e90a5d4561bf3b97cc5f14d15c_P1.jpg"
+          "title": "[단독] 충전기 옮겨도 '척척'…삼성전자, 로봇 자율 충전기술 특허 공개",
+          "desc": "◇ 공장·물류창고까지 활용 기대…자율충전 시장 2032년 2조8,000억원 전망 이번 기술은 가정용 로봇청소기에만 한정되지 않는다. 삼성전자는 특허에서도 \"무인운반차(AGV), 자율이동로봇(AMR), 소셜 로봇 등 다양한 이동형...",
+          "src": "sisaweek",
+          "date": "11/03",
+          "url": "https://www.sisaweek.com/news/articleView.html?idxno=238754",
+          "img": "https://cdn.sisaweek.com/news/thumbnail/202611/238754_258047_1536_v150.jpg"
         },
         {
-          "title": "구독 경제 시장 100조원 시대...대형 가전도 63%가 '구독'",
-          "desc": "냉장고와 세탁건조기세트, TV에 의류관리기까지 가전제품 6개를 합친 가격은 2천만원. 하지만 구독을... 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객 3명 중 1명이 구독을 선택했습니다. [복기철/LG전자 플래그십 D5...",
-          "src": "news",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/437/0000518705?sid=101",
-          "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/11/02/20261102155239869001.png"
+          "title": "삼성전자, 2032년 117조 스마트 가전시장 정조준…스마트싱스·AI로 승부",
+          "desc": "올해 미국 JD파워 가전 고객만족도 조사에서는 냉장고·식기세척기·건조기 등 6개 부문에서 1위를 차지했다. 삼성전자는 올해 세탁가전과 냉장고, 에어컨, 로봇청소기 등에 AI 기능을 확대하고 있다. 세탁가전에는 옷감과...",
+          "src": "mydaily",
+          "date": "11/03",
+          "url": "https://n.news.naver.com/mnews/article/117/0004121255?sid=105",
+          "img": "https://mydaily.co.kr/photos/2026/11/03/2026110311031534610_l.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "[현장] \"자동차 공장은 더 스마트하게\"…기아 '맞춤형 생산', 현대차그룹...",
+          "desc": "◆ \"수소를 만들고, 옮기고, 쓴다\"…현대차그룹, 7개 계열사 뭉쳐 수소 생태계 구축 ▲ 현대자동차그룹이 수소 생산부터 저장·운송·활용까지 연결하는 HTWO 수소 생태계를 선보이고 있다. [사진=메가경제] 기아의...",
+          "src": "megaeconomy",
+          "date": "11/03",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586885685026",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261103/p1065586885685026_539_thum.jpg"
+        },
+        {
+          "title": "매출 후진에 라인 중단까지…현대차, 연이은 악재에 '진통'",
+          "desc": "기아자동차지부에 따르면 기아 노사는 최근 고용안정위원회에서 카니발 후속 차종에 수소연료전지차를 추가하기로 합의했다. 카니발 수소차는 오는 2029년부터 광명1공장에서 생산할 예정이다. 현대차에 이어 기아도...",
+          "src": "financialpost",
+          "date": "11/03",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284219",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202611/284219_376453_141_v150.jpg"
+        },
         {
           "title": "현대차 내수 부진, 기아가 메워...10월 그룹 판매 전년比 소폭 증가",
           "desc": "▲기아자동차 ‘더 기아 PV7(The Kia PV7)’/사진=현대차 제공 승용은 레이 4497대, K5 2683대, 모닝 1495대 등 1만1116대, 상용은 봉고Ⅲ 2704대, PV5 2688대 등 5518대가 판매됐다. 글로벌 기준 최다 판매 모델도...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "11/02",
           "url": "https://n.news.naver.com/mnews/article/047/0002534323?sid=102",
           "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1102/A0003280811_T.jpg"
-        },
-        {
-          "title": "[개장 시황] 코스피, 美기술주 변동성 혼조세 속 1.5% 하락 출발 후 5,80...",
-          "desc": "실적 컨센서스 우려가 제기되었던 현대차·기아 등 자동차 주는 전주 급락세 이후 숨 고르기에 들어갔으며, 2차전지 및 바이오 관련 대형주들은 종목별로 차별화된 주가 흐름을 보이고 있다. 시총 상위단 전 종목이...",
-          "src": "businesskorea",
-          "date": "11/02",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280174",
-          "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280174_287968_2437_v150.jpg"
-        },
-        {
-          "title": "현대차·기아, K-세일페스타 동시 참가…신차 할인부터 인증중고차까지",
-          "desc": "연말 자동차 수요 확보에 나섰다. 현대차는 주요 차종의 구매 가격 할인과 고객 선호 사양 무상 장착에 더해 차량 구매 이후 활용할 수 있는 관리 서비스를 강화했다. 기아는 쏘렌토와 타스만 등 16개 차종, 총 1만대를...",
-          "src": "비즈니스플러스",
-          "date": "11/01",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119061",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119061_120257_942_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "애플은 아이폰을 만들지 않는다",
-          "desc": "예컨대 메모리 반도체 시장을 선도하는 삼성전자의 경우 1차 협력사만 천 곳이 넘는다고 알려져 있다. 그렇다면 호황의 한가운데서, 반도체 산업의 기반인 소재·부품·장비를 만드는 수천 개 공급업체 노동자들은 어떻게...",
-          "src": "labortoday",
+          "title": "반도체 소재 국산화 성공 7년…삼성·SK, 다시 日 찾는 이유는",
+          "desc": "소재·부품·장비(소부장) 기업과의 협력 방안을 논의했다. 삼성전자는 2023년 APL을 설립하고 이듬해부터... 지난달 29일엔 일본 지바현에서 현지 주요 협력사 경영진을 초청해 첫 '파트너스데이'를 개최했다. 국내에서...",
+          "src": "블로터",
           "date": "11/03",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237535",
-          "img": "https://cdn.labortoday.co.kr/news/thumbnail/202611/237535_115772_4822_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000092611?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202611/677542_291868_4116_v150.jpg"
         },
         {
-          "title": "\"中 반도체 추격 거세지자 日과 손잡았다\"…삼성·SK, '초격차 수성' 승...",
-          "desc": "[연합뉴스]  중국의 반도체 기술 추격이 거세지면서 삼성전자와 SK하이닉스가 일본 소재·부품·장비(소부장)... 삼성전자는 1993년부터 일본 협력사 모임인 LJF를 통해 교류해 왔으며 올해 9월에는 현지에서 첨단 패키징...",
-          "src": "ziksir",
+          "title": "애플 상대로 삼성전자 SK하이닉스 메모리반도체 협상력 강화, 중국의 진...",
+          "desc": "터너스 CEO는 메모리반도체 가격 상승세가 2027년까지 지속되면서 부품 원가 부담이 앞으로 여러 분기에 걸쳐 애플의 수익성을 압박할 것이라고 덧붙였다. 삼성전자와 SK하이닉스, 마이크론 등 애플 주요 협력사의 D램과...",
+          "src": "비즈니스포스트",
           "date": "11/03",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=151637",
-          "img": "https://cdn.ziksir.com/news/thumbnail/202611/151637_171013_4613_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451026",
+          "img": ""
         },
         {
-          "title": "\"제조현장 데이터 모아 피지컬AI 고도화… 선순환 만들 것\" [fn이사람]",
-          "desc": "정문식 CAIO는 한국과학기술원(KAIST) 기계공학 학사와 석사, 박사 과정을 마친 뒤 LG CNS를 거쳐 삼성전자에서... 그는 \"아이엘은 자회사와 협력사 제조 현장을 실제 피지컬 AI 실증 공간으로 활용할 수 있는 기반을 갖췄다...",
-          "src": "파이낸셜뉴스",
-          "date": "11/02",
-          "url": "https://n.news.naver.com/mnews/article/014/0005598274?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/02/202611021834297221_e.jpg"
+          "title": "TSMC 美 생태계 포위망…삼성전자, '日 소부장 연합'으로 찾은 출구",
+          "desc": "소재 협력사 중심의 대만계 클러스터를 동반 이식하며 대대적인 포위망을 구축하는 모양새다. 다만... 소재·부품·장비 기업들과의 긴밀한 오픈 이노베이션을 당부했다. 삼성전자가 5년간 400억 엔(약 3500억원)을...",
+          "src": "financialpost",
+          "date": "11/03",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284243",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202611/284243_376469_4011_v150.jpg"
         },
         {
-          "title": "이재용 삼성 회장, 한 달 새 두 번 일본행…통신·스마트폰 공략 시작되...",
-          "desc": "이건희 선대회장은 1993년 일본 전자·부품·소재 기업 경영진과의 교류 모임인 'LJF'를 출범시켰다. 이재용 회장도 2023년 TDK·무라타제작소 등 일본 협력사 8곳의 경영진과 모임을 주재했고, 지난해 일본 방문 때도...",
-          "src": "insightkorea",
-          "date": "11/02",
-          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257824",
-          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202611/257824_270498_538_v150.jpg"
+          "title": "﻿‘버티기’ 대신 ‘갈아타기’ 나선 독일 자동차부품 업계, 사업 재편...",
+          "desc": "ZF는 2025년 12월 승용차용 첨단운전자보조시스템(ADAS) 사업을 삼성전자 자회사인 하만(HARMAN)에... 1차 협력사의 신규 견적요청서(RFQ)에는 단가 인하뿐 아니라 유럽 내 생산 여부와 부품 원산지 증빙 요구가...",
+          "src": "dream",
+          "date": "11/03",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244805",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'얼굴 소멸 모자'도 AI가 골라준다…쇼핑 추천 경쟁",
-          "desc": "검색 도입…구매 이력, 상황까지 반영 온라인 쇼핑몰에서 원하는 옷을 찾는 방식이 달라지고 있다.... 자체 AI 추천 기술을 운영하고 있다. 이 기술은 의류 추천뿐 아니라 오프라인 체험 상품에도 활용된다. 공방과...",
-          "src": "segye",
+          "title": "우주로 향하는 K제약, '우주의학 인프라' 구축한 보령...\"상용화 궤도 진...",
+          "desc": "이병환 스카이랩스 대표는 \"보령과 스카이랩스의 AI 의료 데이터 플랫폼은 지상 의료를 넘어 우주의학이라는 차세대 시장으로 나아갈 것\"이라며 \"기존 선행 연구와 기술력을 바탕으로 실제 우주 환경에서 실증을 추진하고...",
+          "src": "서울신문",
           "date": "11/03",
-          "url": "https://n.news.naver.com/mnews/article/022/0004171963?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/03/20261103503254.png"
+          "url": "http://www.metroseoul.co.kr/article/20261103500391",
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/11/03/.cache/512/20261103500392.jpg"
         },
         {
-          "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 음성 공급…한 달 만에 누적 사...",
-          "desc": "생성형 인공지능(AI)이 영상 제작 과정에 도입되면서 음성 합성 기술의 활용 범위도 넓어지고 있다. 과거에는 영상에 내레이션을 넣기 위해 별도의 녹음과 편집 작업이 필요했지만, 최근에는 대본을 입력해 AI 음성을...",
-          "src": "venturesquare",
+          "title": "TYM, 새만금 피지컬 AI 생태계 구축 제안",
+          "desc": "구체적으로 ▲농업·실외 작업 분야 피지컬 AI 기술 개발 지원 ▲시스템 통합(SI) 기업과 지역 중소기업 간 컨소시엄 과제 추진 ▲공공 스포츠시설과 군 체력단련시설 등을 활용한 로봇 시범 도입 및 초기 수요 확보 등을...",
+          "src": "newsfarm",
           "date": "11/03",
-          "url": "https://www.venturesquare.net/1125086/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-66.gif"
+          "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102821",
+          "img": "https://cdn.newsfarm.co.kr/news/thumbnail/202611/102821_75886_2842_v150.jpg"
         },
         {
-          "title": "폴라리스AI, 유비테크와 '로보월드 2026' 참가…휴머노이드 사업 확장",
-          "desc": "양사는 전시 현장에서 각 제품의 활용 사례를 소개하고 국내 제조·물류·서비스 기업을 대상으로 도입... AI는 이번 전시를 국내 사업 기회를 발굴하는 자리로 활용할 계획이다. 유비테크 본사와 함께 기술 시연을...",
-          "src": "epnc",
+          "title": "제조AI, 개별 공장 넘어 산업 생태계로…정부 '4단계 확산전략' 가동",
+          "desc": "방식으로 기술 재활용을 확대한다. 업종별 제조AI 전문기업 육성도 병행한다. 세 번째는 공급망과 지역... 공통 AI 수요를 발굴할 예정이다. 개별 기업의 기술 도입을 넘어 지역 산업 생태계의 공동 혁신을 추진하는...",
+          "src": "newsian",
           "date": "11/03",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409136",
-          "img": "https://cdn.epnc.co.kr/news/photo/202611/409136_409777_1415.jpg"
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100536",
+          "img": "https://cdn.newsian.co.kr/news/photo/202611/100536_100659_507.jpg"
         },
         {
-          "title": "에쓰핀테크놀로지, MS 애저 데이터 분석 전문 역량 인증 획득",
-          "desc": "클라우드·AI 플랫폼 기업 에쓰핀테크놀로지가 마이크로소프트(MS)의 데이터 분석 분야 고급 기술 인증을... 이승근 에쓰핀테크놀로지 대표는 \"AI 도입의 성패는 데이터를 얼마나 잘 준비하고 활용하느냐에 달려 있다...",
-          "src": "issuenbiz",
+          "title": "HBF, 낸드 공급지형 뒤흔드나…제조원가 10분의 1, 웨이퍼 소모량 6.5배",
+          "desc": "HBF는 낸드 칩을 여러 층으로 쌓고 데이터 전송통로를 넓혀 이 간극을 메우는 기술이다. 빠른 연산... 글로벌 투자은행(IB) 골드만삭스는 HBF 도입으로 AI 가속기의 활용률을 높이면 추론 처리비용을 약 30% 절감할 수...",
+          "src": "서울경제뉴스",
           "date": "11/03",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81148",
-          "img": "https://cdn.issuenbiz.com/news/thumbnail/202611/81148_81732_2726_v150.jpg"
+          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94761",
+          "img": "http://www.seouleconews.com/news/thumbnail/202611/94761_102063_042_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "쿠팡, 8일까지 '와우 멤버스데이'",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443523?sid=103",
-      "img": "https://image.zdnet.co.kr/2026/11/02/719763bfaecbe5ae5045ca2eb020b67a.png"
+      "title": "[기업인사이드] 이마트·롯데케미칼, 영업익으로 이자 충당 못해...삼성...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=202611031452262422bbceadc3c9_23",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261103145643079660bbceadc3c91061012101.jpg&nmt=23"
     },
     {
-      "title": "김정관 산업부 장관, 홍대 K-세일페스타 유통 매장 방문.. “K-소비재, 글...",
-      "url": "https://n.news.naver.com/mnews/article/030/0003481291?sid=100",
-      "img": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.c15e06e90a5d4561bf3b97cc5f14d15c_P1.jpg"
+      "title": "신축 아파트서 병원·호텔·은행까지…구독 판 키우는 삼성·LG",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1319059&inflow=N",
+      "img": "https://image.newstomato.com/newsimg/2026/11/3/1319059/attach.jpg?v=202611031515"
     },
     {
-      "title": "구독 경제 시장 100조원 시대...대형 가전도 63%가 '구독'",
-      "url": "https://n.news.naver.com/mnews/article/437/0000518705?sid=101",
-      "img": "https://thumb.jtbc.co.kr/photo/r600x0/etc/2026/11/02/20261102155239869001.png"
+      "title": "[단독] 충전기 옮겨도 '척척'…삼성전자, 로봇 자율 충전기술 특허 공개",
+      "url": "https://www.sisaweek.com/news/articleView.html?idxno=238754",
+      "img": "https://cdn.sisaweek.com/news/thumbnail/202611/238754_258047_1536_v150.jpg"
     },
     {
-      "title": "현대차 내수 부진, 기아가 메워...10월 그룹 판매 전년比 소폭 증가",
-      "url": "https://www.socialvalue.kr/news/view/1065597438832412",
-      "img": "http://www.socialvalue.kr/news/data/20261102/p1065597438832412_541_thum.jpg"
+      "title": "삼성전자, 2032년 117조 스마트 가전시장 정조준…스마트싱스·AI로 승부",
+      "url": "https://n.news.naver.com/mnews/article/117/0004121255?sid=105",
+      "img": "https://mydaily.co.kr/photos/2026/11/03/2026110311031534610_l.jpg"
     },
     {
-      "title": "'현대·기아차 1차 하청 갑질사건' 피해자 항고이유서 제출",
-      "url": "https://n.news.naver.com/mnews/article/047/0002534323?sid=102",
-      "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1102/A0003280811_T.jpg"
+      "title": "[현장] \"자동차 공장은 더 스마트하게\"…기아 '맞춤형 생산', 현대차그룹...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586885685026",
+      "img": "https://www.megaeconomy.co.kr/news/data/20261103/p1065586885685026_539_thum.jpg"
     },
     {
-      "title": "[개장 시황] 코스피, 美기술주 변동성 혼조세 속 1.5% 하락 출발 후 5,80...",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280174",
-      "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280174_287968_2437_v150.jpg"
+      "title": "매출 후진에 라인 중단까지…현대차, 연이은 악재에 '진통'",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284219",
+      "img": "https://cdn.financialpost.co.kr/news/thumbnail/202611/284219_376453_141_v150.jpg"
     }
   ]
 };
