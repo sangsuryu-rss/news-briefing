@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.04 (수) 21:11",
+  "updatedAt": "2026.11.05 (목) 04:48",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "튀르키예 대통령, 서울서 韓기업인 연쇄 회동…정의선·노태문 만나",
-          "desc": "삼성전자는 튀르키예에 전자제품 판매법인을 두고 TV와 생활가전, 스마트폰 등을 판매하고 있다. LG전자는 이스탄불에 판매법인을 운영하고 있다. 코자엘리주 게브제에서는 현지 가전업체 아르첼릭과 각각 지분 50%를...",
-          "src": "뉴스1",
-          "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009270736?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/4/8197537/high.jpg"
+          "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로운...",
+          "desc": "삼성전자와 관계사들이 임원 평가를 예년보다 앞당기면서 연말 정기 인사도 이르면 이달 중순 단행될... 최대 관전 포인트는 반도체를 담당하는 디바이스솔루션(DS)부문과 스마트폰과 가전 등을 맡은 디바이스경험(DX)...",
+          "src": "동아일보",
+          "date": "11/05",
+          "url": "https://n.news.naver.com/mnews/article/020/0003760148?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/04/134968743.1.jpg"
         },
         {
           "title": "현대차그룹, 국내 로봇기업과 '모베드 동맹'…로봇 생태계 확장",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
+          "desc": "양사 역량 융합과 사업 청사진 DYA는 한국에서 현대자동차와 기아에 자동차 시트를 공급해 온 검증된 제조사다. 현대차그룹의 엄격한 품질 평가에서 최고 수준인 별 5개 등급을 획득하며 설계와 제조 경쟁력을...",
+          "src": "g-enews",
+          "date": "11/05",
+          "url": "https://www.g-enews.com/view.php?ud=2026110422335946972bd56fbc3c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261104224132017052bd56fbc3c21121419978.jpg"
+        },
+        {
           "title": "장중 4% 급락 딛고 살아난 코스피…'블루 쓰나미' 소화하며 5680선 회복[...",
           "desc": "현대차와 기아 등 자동차주도 강세를 보이며 지수 반등에 힘을 보탰다. ■美민주당 압승..중간선거 불확실성 해소되며 상승 반전해 이날 국내 증시의 방향을 좌우한 핵심 변수는 미국 중간선거였다. 민주당은 3일...",
           "src": "파이낸셜뉴스",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/04",
           "url": "https://www.gokorea.kr/news/articleView.html?idxno=884027",
           "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884027_161568_747_v150.jpg"
-        },
-        {
-          "title": "기아의 작심발언 \"첨단 기술이 운전 재미 빼앗는다\"…왜?",
-          "desc": "기아가 자동차에 적용되는 첨단 기술이 오히려 운전의 즐거움을 떨어뜨릴 수 있다는 견해를 밝혔다.... 기아와 현대차가 주요 시장별로 승차감과 핸들링을 조율하는 전담 조직을 유지하는 것도 이러한 이유에서다. 비용...",
-          "src": "gpkorea",
-          "date": "11/04",
-          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148254",
-          "img": "https://cdn.gpkorea.com/news/photo/202611/148254_315299_1938.png"
         }
       ]
     },
@@ -162,7 +162,7 @@ window.NEWS_DATA = {
           "src": "dealsite",
           "date": "11/04",
           "url": "https://dealsite.co.kr/articles/172056",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/04/81604fc9b8084db7a22adf2ba6222b86/thumb.jpg"
+          "img": ""
         },
         {
           "title": "AMD \"HBM 가격 상승 고객사와 분담\", 삼성전자 SK하이닉스 메모리반도체...",
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "구글, LLM 재킹 주의보...\"하루 10만달러 부정 사용 적발\"",
-          "desc": "리테일, 기술, 운송 기업 등 다양한 산업군을 겨냥했다. ▲초기 접근 경로: 위협 행위자는 자격 증명... 또 “기업이 빠르게 도입 중인 AI 모델과 컴퓨팅 자원을 면밀히 모니터링하고 보호하지 않으면 제3자가...",
-          "src": "ZDNet코리아",
-          "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/092/0002443906?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/04/f3a5bde482fbb0a555aa8d90973cfc0b.png"
+          "title": "강원 유일 어린이병원… 적자에도 24시간 응급진료",
+          "desc": "● 국내 최초 ‘AI 간호 에이전트’ 도입 의료인력 부족에 대응하고 환자 돌봄의 질을 높이기 위해 디지털... 인공지능(AI) 기술을 활용한 선제적인 환자 안전 관리와 지역사회 협력을 바탕으로 의료 서비스의 질을 높이는...",
+          "src": "동아일보",
+          "date": "11/05",
+          "url": "https://n.news.naver.com/mnews/article/020/0003760229?sid=103",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134966617.5.jpg"
         },
         {
-          "title": "현대차그룹, 모베드 활용처 넓힌다… 국내 로봇기업과 솔루션 공동 개발",
-          "desc": "인공지능(AI) 학습·추론 기술의 적용 가능성을 소개했다. 배송이나 순찰이 이동 기능을 중심으로 한 활용... 다만 실제 현장 도입을 확대하기 위해서는 작업 환경별 성능 검증과 서비스 운영체계 구축 등이 뒷받침돼야...",
-          "src": "biztribune",
-          "date": "11/04",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361925",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202611/361925_267927_371_v150.jpg"
+          "title": "시민의 삶 바꾸는 화성시 AI 행정, 정책 효율화 머리 맞댔다 [2026 미지답...",
+          "desc": "전문가들은 지방정부로는 선제적으로 AI 기술을 행정 전반에 도입해 활용하고 있는 화성시의 도전에 후한 평가를 내놨다. 특히 생성형 AI를 정책에 활용하는 지자체 등 공공기관이 전국적으로 38.4...",
+          "src": "한국일보",
+          "date": "11/05",
+          "url": "https://n.news.naver.com/mnews/article/469/0000963700?sid=102",
+          "img": "https://newsimg.hankookilbo.com/2026/11/04/7bf927a3-e6d2-459f-ae62-6afcc87214bc.jpg"
         },
         {
-          "title": "스마트 안경, 수능 공정성 시험하다",
-          "desc": "강의 활용 방안까지 제시했다. 기술의 발전이 가져올 교육과 생활의 변화를 기대하게 하는 대목이다. 그러나... 장기적으로는 전자기기를 판별할 수 있는 전문 장비 도입도 검토할 필요가 있다. 아울러 시험 전 수험생과...",
-          "src": "gnmaeil",
-          "date": "11/04",
-          "url": "http://www.gnmaeil.com/news/articleView.html?idxno=598079",
-          "img": "http://www.gnmaeil.com/news/thumbnail/202611/598079_599673_1319_v150.jpg"
+          "title": "미국 50개 주: 워싱턴주 2부",
+          "desc": "조례를 도입하는 등, 혁신과 공존의 균형을 맞추기 위한 치열한 고민을 이어가고 있습니다. 진행자: 마지막으로, 워싱턴주가 기술이나 항공 말고, 전 세계 시장에 영향을 미치는 숨은 농업 강자라는 사실도 있죠? 기자...",
+          "src": "voakorea",
+          "date": "11/05",
+          "url": "https://www.voakorea.com/a/8218857.html",
+          "img": "https://gdb.voanews.com/1ef4bb0e-d249-4856-3e92-08df13be6539_w1200_h630.jpeg"
         },
         {
-          "title": "돈 되는 플랫폼…빅테크 ‘지도 전쟁’",
-          "desc": "네이버는 검색·예약·결제를 연결하는 통합 서비스와 해외 진출을, 구글은 글로벌 지도 데이터와 AI 기술을... 정보가 활용된다. 올 8월에는 미국에서 AI 기반 음식 주문 기능도 도입했다. 장소 탐색을 넘어 이용자...",
-          "src": "매일경제",
-          "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/024/0000109396?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "title": "충남 18개 공공기관 '한 방향'…AI·의료·민생 현장 실행력 높인다",
+          "desc": "다만 구체적인 기술 도입 범위와 시행 일정은 향후 사업 추진 과정에서 확인해야 할 부분이다. 충남체육회는 선수들의 훈련에 AI 기반 분석기술을 활용하는 과학적 훈련체계 고도화에 집중한다. 주거와 지역경제...",
+          "src": "그린포스트",
+          "date": "11/05",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353888",
+          "img": "https://cdn.greened.kr/news/thumbnail/202611/353888_405922_4046_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "튀르키예 대통령, 서울서 韓기업인 연쇄 회동…정의선·노태문 만나",
-      "url": "https://n.news.naver.com/mnews/article/421/0009270736?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/11/4/8197537/high.jpg"
+      "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로운...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760148?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/04/134968743.1.jpg"
     },
     {
       "title": "삼성전자, CES 2027 단독 전시관서 차세대 로봇 공개?",
@@ -272,6 +272,11 @@ window.NEWS_DATA = {
       "img": "https://image.dnews.co.kr/photo/photo/2026/11/04/202611040958309820538-2-702761.jpg"
     },
     {
+      "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
+      "url": "https://www.g-enews.com/view.php?ud=2026110422335946972bd56fbc3c_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261104224132017052bd56fbc3c21121419978.jpg"
+    },
+    {
       "title": "장중 4% 급락 딛고 살아난 코스피…'블루 쓰나미' 소화하며 5680선 회복[...",
       "url": "https://n.news.naver.com/mnews/article/014/0005599390?sid=101",
       "img": "https://image.fnnews.com/resource/media/image/2026/11/04/202611041219382171_e.jpg"
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "[한진칼 지분 경쟁] 현대차·SK·효성...'조원태 백기사' 다시 뭉치나",
       "url": "https://n.news.naver.com/mnews/article/293/0000092694?sid=101",
       "img": "https://cdn.bloter.net/news/thumbnail/202611/677696_292088_3350_v150.jpg"
-    },
-    {
-      "title": "현대·기아, 미국 시장에서 사상 최고 10월 기록 달성... 하이브리드와...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=884027",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884027_161568_747_v150.jpg"
     }
   ]
 };
