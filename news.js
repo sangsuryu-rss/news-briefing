@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.04 (수) 06:50",
+  "updatedAt": "2026.11.04 (수) 11:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[전자 3형제 경쟁 공식①] 삼성전자 우상향·LG전자 상고하저, 이유는",
-          "desc": "[사진 = ChatGPT, 양사 제공 사진 및 뉴스투데이 촬영 이미지 활용] [뉴스투데이=전소영 기자] 삼성전자와 LG전자는 가전과 TV, 한때는 스마트폰이라는 공통분모까지 국내를 대표하는 가전·전자 제조 기업으로 어깨를...",
-          "src": "news2day",
+          "title": "삼성전자서비스, 에어컨 서비스 품질지수 2년 연속 1위",
+          "desc": "고객의 불편을 최소화하기 위해 엔지니어 인력을 50% 이상 확충하는 등 서비스 대응 역량도 강화했다. 삼성전자의 가전 구독 서비스인 ‘삼성 AI 구독’ 고객을 위한 ‘블루패스’ 서비스도 확대하고 있다.",
+          "src": "헤럴드경제",
           "date": "11/04",
-          "url": "https://www.news2day.co.kr/article/20261103500326",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/03/.cache/512/20261103500313.png"
+          "url": "https://n.news.naver.com/mnews/article/016/0002718682?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.65119f75267344f9a9bbbc6f4de7c0ef_P1.jpg"
         },
         {
-          "title": "AI발 메모리값 급등…로봇청소기도 비상",
-          "desc": "중국 로봇청소기 업체 에코백스는 최근 실적 발표에서 메모리 가격 상승을 수익성 악화 요인으로 지목했다. 삼성전자와 LG전자도 부품 가격 상승의 영향을 받는 만큼 제조사들이 원가 부담을 얼마나 흡수할 수 있을지가...",
-          "src": "조선일보",
+          "title": "[가전 트렌드] 삼성전자서비스, 한국서비스품질지수 에어컨 AS 부문 2년...",
+          "desc": "삼성전자와의 개발 협력을 지속하고 장기 공급이 가능한 가전용 카메라의 적용 제품군을 확대하는 한편, 로봇 등 비모바일 분야에서도 신규 사업 기회를 확보해 나갈 것”이라고 말했다. ◇ 로보락, 로봇청소기 구독...",
+          "src": "ibabynews",
           "date": "11/04",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000118",
-          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000118_500088_1358.png"
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=156525",
+          "img": "https://www.ibabynews.com/news/photo/202611/w105157_ae35ccf9.jpg"
         },
         {
-          "title": "中 가전, 韓 안방 공략 가속…로봇청소기 넘어 TV·생활가전으로",
-          "desc": "세탁건조기 ‘제오 엑스’ 등을 빅스마일데이 행사 제품으로 선보인다. 로봇청소기 외에 바닥 청소와... 국내 로봇청소기 시장에서는 삼성전자와 LG전자의 반격도 이어지고 있다. 올해 1분기 중국 브랜드가 약 70%의...",
-          "src": "디지털타임스",
+          "title": "로보락, ‘구독’으로 AS 약점 보완… 삼성·LG ‘안방 요새’ 파고든다",
+          "desc": "약점으로 꼽혀 온 사후서비스(AS)와 관리 영역을 보완해, 삼성전자와 LG전자가 내세우는 방문 케어 강점을... 로보락은 무선청소기, 진공 물걸레 청소기, 올인원 세탁건조기로 영역을 넓혔다. 에코백스는 창문...",
+          "src": "dnews",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/029/0003056974?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/11/03/news-p.v1.20261103.366f42127a3e46aca5534cc8fcc681e9_R.jpg"
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611040958309820538",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/11/04/202611040958309820538-2-702761.jpg"
         },
         {
-          "title": "\"할인으로 지갑 열고, 상품권으로 상권 살리고\"…전남광주, 소비 활력 기...",
-          "desc": "삼성전자 세탁건조기와 TV, 청소기, 냉장고 등 가전 11개 품목을 대상으로 하며, '비스포크 AI 콤보'와 '비스포크 AI 스팀' 등 인공지능(AI) 가전도 포함됐다. 대형마트와 백화점, 편의점도 소비촉진에 힘을 보탠다....",
-          "src": "namdonews",
-          "date": "11/03",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
-          "img": "https://cdn.namdonews.com/news/photo/202611/928066_634698_4946.jpg"
+          "title": "삼성 8인치 파운드리 철수에 팹리스 비상…전력·디스플레이 반도체 차...",
+          "desc": "삼성전자가 2030년까지 8인치 파운드리 생산라인을 단계적으로 정리하기로 하면서 국내 중소 팹리스... 삼성 8인치 라인에서 만들던 MCU는 자동차 전장과 세탁기·에어컨 등 가전을 제어하는 칩이고, DDI는 TV와 스마트폰...",
+          "src": "뉴스핌",
+          "date": "11/04",
+          "url": "https://www.newspim.com/news/view/20261104000337",
+          "img": "https://img.newspim.com/news/2026/11/04/2611040939376660_t1.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "현대·기아, 미국 시장에서 사상 최고 10월 기록 달성... 하이브리드와...",
+          "desc": "현대 및 기아자동차는 미국 시장에서 10월 동안 괄목할 만한 판매 성과를 올렸다. 현대차는 7만3,452대를 판매하며 전년 대비 5% 증가를 기록했다. 산타페가 52%의 높은 판매 증가율을 보였으며, 코나와 아이오닉5...",
+          "src": "고코리아",
+          "date": "11/04",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884027",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884027_161568_747_v150.jpg"
+        },
+        {
+          "title": "기아의 작심발언 \"첨단 기술이 운전 재미 빼앗는다\"…왜?",
+          "desc": "기아가 자동차에 적용되는 첨단 기술이 오히려 운전의 즐거움을 떨어뜨릴 수 있다는 견해를 밝혔다.... 기아와 현대차가 주요 시장별로 승차감과 핸들링을 조율하는 전담 조직을 유지하는 것도 이러한 이유에서다. 비용...",
+          "src": "gpkorea",
+          "date": "11/04",
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148254",
+          "img": "https://cdn.gpkorea.com/news/photo/202611/148254_315299_1938.png"
+        },
         {
           "title": "韓 증시 영향은?...美 중간선거 결과에 쏠린 눈",
           "desc": "현대차와 기아 등 자동차 업체는 미국의 관세 정책과 현지 생산 비중이, LG에너지솔루션과 삼성SDI 등 배터리 업체는 세액공제와 원산지 규정이 주요 변수로 꼽힌다. 다만 민주당이 승리하더라도 미국 제조업 보호와...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "11/03",
           "url": "https://www.goodkyung.com/news/articleView.html?idxno=293036",
           "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293036_267251_3830_v150.jpg"
-        },
-        {
-          "title": "[현장] \"자동차 공장은 더 스마트하게\"…기아 '맞춤형 생산', 현대차그룹...",
-          "desc": "◆ \"수소를 만들고, 옮기고, 쓴다\"…현대차그룹, 7개 계열사 뭉쳐 수소 생태계 구축 ▲ 현대자동차그룹이 수소 생산부터 저장·운송·활용까지 연결하는 HTWO 수소 생태계를 선보이고 있다. [사진=메가경제] 기아의...",
-          "src": "megaeconomy",
-          "date": "11/03",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586885685026",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261103/p1065586885685026_539_thum.jpg"
-        },
-        {
-          "title": "매출 후진에 라인 중단까지…현대차, 연이은 악재에 '진통'",
-          "desc": "기아자동차지부에 따르면 기아 노사는 최근 고용안정위원회에서 카니발 후속 차종에 수소연료전지차를 추가하기로 합의했다. 카니발 수소차는 오는 2029년부터 광명1공장에서 생산할 예정이다. 현대차에 이어 기아도...",
-          "src": "financialpost",
-          "date": "11/03",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284219",
-          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202611/284219_376453_141_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "팬스타그룹 \"한중일 넘어 동남아·유럽으로, 글로벌종합선사 발돋움\"",
+          "desc": "베트남 북부 하이퐁에는 삼성전자와 LG이노텍 등 전자산업 클러스터가 형성돼 있어 한국발 원부자재와 중간재, 완제품 운송 수요가 있다. 중국 협력사 시노라인이 부산과 하이퐁을 연결하고 있어 환적 없이 서비스를...",
+          "src": "view",
+          "date": "11/04",
+          "url": "https://n.news.naver.com/mnews/article/277/0005837843?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026102915192479546_1793254764.png"
+        },
+        {
+          "title": "[Who Is ?] 조현범 한국앤컴퍼니 회장",
+          "desc": "이재용 삼성전자 회장과 함께 행사를 관람하고 있다. <연합뉴스> △한국앤컴퍼니로 회사이름 변경... 조현범은 현대자동차 1차 협력사인 리한의 부실한 경영 상황을 알면서도 이 업체 대표와 개인적 친분을 앞세워...",
+          "src": "비즈니스포스트",
+          "date": "11/04",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450721",
+          "img": ""
+        },
+        {
+          "title": "AMD, 데이터센터 매출 2배 폭증… 시간외 9% 폭등",
+          "desc": "수 CEO는 TSMC, SK하이닉스, 삼성전자 등 핵심 제조·메모리 협력사들과의 연쇄 회동을 지속해 왔으며 오는 2027년까지 부품 공급 능력을 대폭 끌어올릴 방침이다. 아울러 AI 생태계 확장을 위해 앤스로픽에 최대 50억...",
+          "src": "g-enews",
+          "date": "11/04",
+          "url": "https://www.g-enews.com/view.php?ud=20261104064935333e250e8e188_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110406511509236e250e8e188391236112.jpg"
+        },
+        {
           "title": "초호황의 그늘⋯ K-반도체, 소부장 함께 커야 삼전닉스도 산다",
           "desc": "(소재·부품·장비) 기업 성장 기반도 함께 마련해야 할 때입니다. 정부와 주요 대기업 주도의 현실적인 소부장 육성안이 시급합니다.” 국내 소부장 기업들이 반도체 간판 삼성전자와 SK하이닉스의 실적 호조가 협력사에도...",
           "src": "브릿지경제",
           "date": "11/04",
           "url": "https://www.viva100.com/article/20261103501085",
-          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/03/.cache/512/20261103500819.png?v=20261104065059"
-        },
-        {
-          "title": "\"전력 98% 줄이고 속도 10배\"… 日 아이신, '차세대 MRAM 통합' 차량용 A...",
-          "desc": "토요타(Toyota) 자동차의 핵심 부품 및 전장 계열사인 일본 아이신(Aisin)이 기존 차량용 반도체 대비 전력... 현재 파운드리 1위 대만 TSMC와 삼성전자 등 글로벌 최선두 칩 제조사들이 상용화에 공을 들이고 있는...",
-          "src": "g-enews",
-          "date": "11/04",
-          "url": "https://www.g-enews.com/view.php?ud=2026110317354110000c8c1c064d_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261103173629085070c8c1c064d22114611240.jpg"
-        },
-        {
-          "title": "아이폰 잘 팔려도 메모리값 폭등에 휘청…애플의 역설",
-          "desc": "후퇴와 부품 선점 움직임은 메모리 반도체 공급망에 복합적인 계산서를 내밀고 있다. 글로벌 스마트폰 제조사에 모바일 디램과 낸드플래시를 공급하는 삼성전자와 SK하이닉스는 서버용 인공지능 메모리 수요 폭증에...",
-          "src": "g-enews",
-          "date": "11/04",
-          "url": "https://www.g-enews.com/view.php?ud=202611031718156022fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261028082245059459a1f30943117511616074.jpg"
-        },
-        {
-          "title": "'추론 메모리 병목' 깬 퀄컴…LPDDR 수직 적층으로 데이터센터 정조준",
-          "desc": "웨이퍼 결합 공정은 파운드리와 후공정 협력사를 통해 검증 절차를 밟았다. 구체적인 칩 공급 단가는... 한국 반도체 산업은 SK하이닉스와 삼성전자가 주도하는 HBM 공급망에 주력하고 있으나, 퀄컴이 적층에 활용하는...",
-          "src": "g-enews",
-          "date": "11/04",
-          "url": "https://www.g-enews.com/view.php?ud=20261103171535410fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110317180107050fbbec65dfb211211153121.jpg"
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/03/.cache/512/20261103500819.png?v=20261104112220"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AMD, 데이터센터 매출 두 배 가까이 급증…시간외 주가 7%↑",
-          "desc": "인공지능(AI) 반도체 시장에서 엔비디아를 추격하고 있는 AMD가 대형 기술기업들의 투자 확대에 힘입어... 성장 배경에는 AI를 실제 업무에 활용하는 기업이 늘어나면서 반도체 수요가 확대된 점이 있다. AMD는 AI...",
-          "src": "매일경제",
+          "title": "강원 유망기업 10곳, 글로벌 투자자 앞 기술 경쟁력 선보여 … 해외 진출...",
+          "desc": "네오에이블은 AI 기반 개별 에어셀 압력 자동 분산 기술을 활용해 거동이 불편한 환자와 고령자의 욕창 예방을 돕는 의료기기 솔루션을 선보였다. 모빌리티 분야에서는 토프모빌리티가 전기항공기 도입과 인증, 정비, 운항...",
+          "src": "gw",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/009/0005758602?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261104.f1484ad86220441eaa2686f72b13200c_R.png"
+          "url": "https://gw.newdaily.co.kr/site/data/html/2026/11/04/2026110400167.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/04/2026110400167_0.jpg"
         },
         {
-          "title": "첫 보건의료발전계획 밑그림…공공병원 별도 수가체계 제안",
-          "desc": "의료기관 기능별 재편과 건강보험·실손보험 통합관리, 주치의제 도입 등 의료체계 전반의 구조 개편 방안도... 디지털·인공지능 분야에서는 의료데이터의 병원 간 공유와 활용, AI 혁신병원 육성, AI 기반 진료지원 확산...",
-          "src": "docdocdoc",
+          "title": "HDC랩스, 생활 패턴 기반 스마트홈 자동화 기술 '컴패니언 AI' 소개",
+          "desc": "참가해 AI 기술을 활용한 주거 서비스의 적용 사례와 향후 사업 계획을 발표했다. HDC랩스 AI LAB 이건희... HDC랩스는 이러한 기술을 실제 주거시설에 단계적으로 도입할 예정이다. 2027년 6월 준공 예정인 '르엘...",
+          "src": "datanet",
           "date": "11/04",
-          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044271",
-          "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044271_3048209_227_v150.jpg"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215588",
+          "img": "https://cdn.datanet.co.kr/news/thumbnail/202611/215588_139958_1548_v150.jpg"
         },
         {
-          "title": "\"AI가 답변 찾고 상담 요약까지\"…KT 고객센터 가보니",
-          "desc": "KTis는 고객센터에서 축적한 AI 활용 경험을 바탕으로 금융·공공·의료 등 다양한 산업으로 AICC 사업을 확대하고 있다. 현재 120여 개 고객사의 169개 고객센터를 운영 중이다. KTis는 앞으로도 KT의 AI 기술과 현장 운영...",
-          "src": "뉴스1",
+          "title": "AMD, 퓨리오사AI·망고부스트와 AI 인프라 동맹",
+          "desc": "세 회사는 서울에 있는 망고부스트의 AI 인프라를 활용한 참조 시스템 구축도 검토한다. 참조 시스템은 기술의 실제 작동과 성능을 확인하고 향후 도입의 기준으로 삼는 인프라다. 망고부스트는 첫 통합 참조...",
+          "src": "view",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/421/0009268717?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/3/8193789/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005837914?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026110411053386319_1793757933.jpg"
         },
         {
-          "title": "바이낸스 창업자 \"AI 해킹 급증할 것…은행이 더 위험\"",
-          "desc": "인공지능 기술 발전으로 가상화폐 거래소와 은행을 겨냥한 사이버 공격이 늘어날 것으로 내다봤습니다. 자오창펑 창업자는 \"AI 해킹을 막기 위해서는 업계가 AI를 활용하는 수밖에 다른 방법은 없다\"고 가상화폐 전문매체...",
-          "src": "연합뉴스TV",
+          "title": "신보, 대구 혁신도시 미래인재 양성 협약…AI·디지털금융 교육 지원",
+          "desc": "바탕으로 AI·디지털금융 등 특화교육과정을 운영할 계획이다. 신보 직원이 학교 수업에 직접 참여하는 프로젝트형 공동수업인 '코티칭(Co-teaching)' 프로그램도 도입한다. 이를 통해 학생들이 금융 현장의 업무와 기술 활용...",
+          "src": "lcnews",
           "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/422/0000922651?sid=104",
-          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20261103/AKR20261104061043sTn_01_i.jpg"
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210825",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202611/210825_214118_3535.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[전자 3형제 경쟁 공식①] 삼성전자 우상향·LG전자 상고하저, 이유는",
-      "url": "https://www.news2day.co.kr/article/20261103500326",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/03/.cache/512/20261103500313.png"
+      "title": "삼성전자서비스, 에어컨 서비스 품질지수 2년 연속 1위",
+      "url": "https://n.news.naver.com/mnews/article/016/0002718682?sid=101",
+      "img": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.65119f75267344f9a9bbbc6f4de7c0ef_P1.jpg"
     },
     {
-      "title": "AI발 메모리값 급등…로봇청소기도 비상",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000118",
-      "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000118_500088_1358.png"
+      "title": "[가전 트렌드] 삼성전자서비스, 한국서비스품질지수 에어컨 AS 부문 2년...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=156525",
+      "img": "https://www.ibabynews.com/news/photo/202611/w105157_ae35ccf9.jpg"
     },
     {
-      "title": "中 가전, 韓 안방 공략 가속…로봇청소기 넘어 TV·생활가전으로",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056974?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/11/03/news-p.v1.20261103.366f42127a3e46aca5534cc8fcc681e9_R.jpg"
+      "title": "로보락, ‘구독’으로 AS 약점 보완… 삼성·LG ‘안방 요새’ 파고든다",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611040958309820538",
+      "img": "https://image.dnews.co.kr/photo/photo/2026/11/04/202611040958309820538-2-702761.jpg"
     },
     {
-      "title": "\"할인으로 지갑 열고, 상품권으로 상권 살리고\"…전남광주, 소비 활력 기...",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
-      "img": "https://cdn.namdonews.com/news/photo/202611/928066_634698_4946.jpg"
+      "title": "삼성 8인치 파운드리 철수에 팹리스 비상…전력·디스플레이 반도체 차...",
+      "url": "https://www.newspim.com/news/view/20261104000337",
+      "img": "https://img.newspim.com/news/2026/11/04/2611040939376660_t1.jpg"
     },
     {
-      "title": "韓 증시 영향은?...美 중간선거 결과에 쏠린 눈",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712295",
-      "img": "https://cdn.digitaltoday.co.kr/news/photo/202611/712295_659782_461.jpg"
+      "title": "현대·기아, 미국 시장에서 사상 최고 10월 기록 달성... 하이브리드와...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=884027",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884027_161568_747_v150.jpg"
     },
     {
-      "title": "현대, 기아, 전월 대비 판매 실적 반등… KGM만 울상",
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293036",
-      "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293036_267251_3830_v150.jpg"
+      "title": "기아의 작심발언 \"첨단 기술이 운전 재미 빼앗는다\"…왜?",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=148254",
+      "img": "https://cdn.gpkorea.com/news/photo/202611/148254_315299_1938.png"
     }
   ]
 };
