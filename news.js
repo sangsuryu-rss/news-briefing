@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.05 (목) 04:48",
+  "updatedAt": "2026.11.05 (목) 09:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로운...",
-          "desc": "삼성전자와 관계사들이 임원 평가를 예년보다 앞당기면서 연말 정기 인사도 이르면 이달 중순 단행될... 최대 관전 포인트는 반도체를 담당하는 디바이스솔루션(DS)부문과 스마트폰과 가전 등을 맡은 디바이스경험(DX)...",
-          "src": "동아일보",
+          "title": "11번가, 'AI 쇼핑' 그랜드십일절 흥행…초개인화 추천 거래액 3배↑",
+          "desc": "드리미 X50 Master 로봇청소기 200대와 삼성 갤럭시북4 50대, LG 컨버터블 패키지 50대가 모두 판매됐다. 삼성... 11번가는 오는 11일까지 필립스와 롯데웰푸드, 설화수 등의 원데이 빅딜과 삼성전자·LG전자·로보락 등 인기...",
+          "src": "전자신문",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/020/0003760148?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/04/134968743.1.jpg"
-        },
-        {
-          "title": "현대차그룹, 국내 로봇기업과 '모베드 동맹'…로봇 생태계 확장",
-          "desc": "올해 초 미국 라스베이거스에서 개최된 'CES 2026' 현장에서 정의선 현대차그룹 회장이 삼성전자 부스를 방문해 로봇 청소기를 둘러보면서 삼성전자 측에 \"모베드와 결합하면 뒤집어지지도 않고 어디든 갈 수 있다\"며...",
-          "src": "서울신문",
-          "date": "11/04",
-          "url": "http://www.metroseoul.co.kr/article/20261104500433",
+          "url": "https://n.news.naver.com/mnews/article/030/0003482401?sid=101",
           "img": ""
         },
         {
-          "title": "삼성전자, CES 2027 단독 전시관서 차세대 로봇 공개?",
-          "desc": "삼성전자가 내년 CES에서도 대규모 단독 전시관을 운영하며 인공지능(AI)과 신제품을 독자적인 공간에서... 예를 들어 세탁기의 작동을 제어하는 것과 세탁물을 집어 기기에 넣는 것은 서로 다른 기술을 요구한다....",
-          "src": "choicenews",
-          "date": "11/04",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172904",
-          "img": "https://cdn.choicenews.co.kr/news/thumbnail/202611/172904_132558_918_v150.jpg"
+          "title": "[마켓포인트] KG파이낸셜, 3분기 영업익 104억…전년比 2.6%↑",
+          "desc": "삼성전자 가전환급 행사와 갤럭시Z 폴드8·플립8 시리즈 판매 증가에 따라 신용카드 전자지급결제대행(PG) 거래금액이 확대됐다는 설명이다. 3분기 PG 거래금액은 2조3000억원을 기록했으며, 올해 누적 거래금액은...",
+          "src": "핀포인트뉴스",
+          "date": "11/05",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501482",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/501482_486624_4917_v150.jpg"
         },
         {
-          "title": "로보락, ‘구독’으로 AS 약점 보완… 삼성·LG ‘안방 요새’ 파고든다",
-          "desc": "약점으로 꼽혀 온 사후서비스(AS)와 관리 영역을 보완해, 삼성전자와 LG전자가 내세우는 방문 케어 강점을... 로보락은 무선청소기, 진공 물걸레 청소기, 올인원 세탁건조기로 영역을 넓혔다. 에코백스는 창문...",
-          "src": "dnews",
-          "date": "11/04",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611040958309820538",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/11/04/202611040958309820538-2-702761.jpg"
+          "title": "[유통갤러리] 이마트, 쓱데이 마지막 주말 총력전…먹거리·가전·완구 ...",
+          "desc": "‘삼성전자 콤보 세탁건조기’는 320만원대, ‘삼성 비스포크 4도어 하이브리드 냉장고’는 300만원대에 선보인다. ‘닌텐도 스위치 본체 OLED 패키지 스플래툰 에디션’은 한정 수량으로 45만원대에 판매하며 ‘닌텐도...",
+          "src": "더뷰어스",
+          "date": "11/05",
+          "url": "https://theviewers.co.kr/View.aspx?No=4298443",
+          "img": "https://cdn.coenworks.com/Files/30/News/202611/8305_20261105085144273.jpg"
+        },
+        {
+          "title": "이마트, '쓱데이' 마지막 주말 '먹거리→가전·완구' 최대 50% 할인",
+          "desc": "TV, 냉장고, 세탁기 등 대형가전도 쓱데이 특가에 만나볼 수 있다. LG전자 대형가전은 행사카드 결제 시... 삼성전자 TV 행사 상품을 구매하면 최대 35만점 삼성전자 멤버십 포인트 추가 적립 혜택을 받을 수 있다....",
+          "src": "slist",
+          "date": "11/05",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=779064",
+          "img": "https://cdn.slist.kr/news/thumbnail/202611/779064_1190402_1036_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "현대차·기아, 차량용 반도체 개발체계 국제 인증…기능안전 강화",
+          "desc": "자동차·기아가 차량용 반도체 개발 절차와 기능안전 관리체계에 대한 국제표준 인증을 받았다. 자체 구축한 개발체계의 적합성을 검증받은 것을 바탕으로 반도체 개발 전반의 안전성과 신뢰성을 높일 방침이다. 현대차...",
+          "src": "pointdaily",
+          "date": "11/05",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324861",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/324861_321883_3929_v150.jpg"
+        },
         {
           "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
           "desc": "양사 역량 융합과 사업 청사진 DYA는 한국에서 현대자동차와 기아에 자동차 시트를 공급해 온 검증된 제조사다. 현대차그룹의 엄격한 품질 평가에서 최고 수준인 별 5개 등급을 획득하며 설계와 제조 경쟁력을...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/04",
           "url": "https://n.news.naver.com/mnews/article/293/0000092694?sid=101",
           "img": "https://cdn.bloter.net/news/thumbnail/202611/677696_292088_3350_v150.jpg"
-        },
-        {
-          "title": "현대·기아, 미국 시장에서 사상 최고 10월 기록 달성... 하이브리드와...",
-          "desc": "현대 및 기아자동차는 미국 시장에서 10월 동안 괄목할 만한 판매 성과를 올렸다. 현대차는 7만3,452대를 판매하며 전년 대비 5% 증가를 기록했다. 산타페가 52%의 높은 판매 증가율을 보였으며, 코나와 아이오닉5...",
-          "src": "고코리아",
-          "date": "11/04",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884027",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884027_161568_747_v150.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@ window.NEWS_DATA = {
           "src": "서울신문",
           "date": "11/04",
           "url": "http://www.metroseoul.co.kr/article/20261104500501",
-          "img": ""
+          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/11/04/.cache/512/20261104500502.jpg"
         },
         {
           "title": "AI 호황에 날개 단 AMD…인텔과 엇갈린 성장 전망",
@@ -221,55 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "강원 유일 어린이병원… 적자에도 24시간 응급진료",
-          "desc": "● 국내 최초 ‘AI 간호 에이전트’ 도입 의료인력 부족에 대응하고 환자 돌봄의 질을 높이기 위해 디지털... 인공지능(AI) 기술을 활용한 선제적인 환자 안전 관리와 지역사회 협력을 바탕으로 의료 서비스의 질을 높이는...",
-          "src": "동아일보",
+          "title": "한전 AI 진단기술 품은 LS일렉트릭…반도체·데이터센터 시장 공략 강화",
+          "desc": "데이터를 AI 학습에 활용해 진단 정확도를 높인 것이 핵심 경쟁력으로 꼽힌다. LS일렉트릭은 이번 기술이전... 이상 징후가 감지되면 경보를 보내 설비 운영자가 사전에 대응할 수 있도록 하는 기능도 도입한다. 실제...",
+          "src": "econovill",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/020/0003760229?sid=103",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134966617.5.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756104",
+          "img": "https://cdn.econovill.com/news/thumbnail/202611/756104_733483_523_v150.jpg"
         },
         {
-          "title": "시민의 삶 바꾸는 화성시 AI 행정, 정책 효율화 머리 맞댔다 [2026 미지답...",
-          "desc": "전문가들은 지방정부로는 선제적으로 AI 기술을 행정 전반에 도입해 활용하고 있는 화성시의 도전에 후한 평가를 내놨다. 특히 생성형 AI를 정책에 활용하는 지자체 등 공공기관이 전국적으로 38.4...",
-          "src": "한국일보",
+          "title": "금융권 해킹에 47만건 정보유출·10억원 탈취…이억원 “보안 부실 CEO 책...",
+          "desc": "보이스피싱 대응에도 AI를 활용한다. 금융권 공동 정보공유·분석 플랫폼인 ‘ASAP’에 의심거래의 범죄 연루 가능성을 0~100점으로 산출하는 ‘피싱지수’를 이달부터 시범 도입한다. 보이스피싱 피해에 대한 금융회사의...",
+          "src": "mydaily",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/469/0000963700?sid=102",
-          "img": "https://newsimg.hankookilbo.com/2026/11/04/7bf927a3-e6d2-459f-ae62-6afcc87214bc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/117/0004122246?sid=103",
+          "img": "https://mydaily.co.kr/photos/2026/11/05/2026110509502306625_l.jpg"
         },
         {
-          "title": "미국 50개 주: 워싱턴주 2부",
-          "desc": "조례를 도입하는 등, 혁신과 공존의 균형을 맞추기 위한 치열한 고민을 이어가고 있습니다. 진행자: 마지막으로, 워싱턴주가 기술이나 항공 말고, 전 세계 시장에 영향을 미치는 숨은 농업 강자라는 사실도 있죠? 기자...",
-          "src": "voakorea",
+          "title": "현대건설, AI·빅데이터로 건설현장 품질관리 전 과정 디지털화",
+          "desc": "인공지능(AI)과 빅데이터를 활용해 건설현장 품질관리를 디지털화한다. 콘크리트 타설 계획부터 균열... 기능도 도입했다. 현장에서 수기로 작성한 품질관리 기록은 AI 문자 인식 기술을 이용해 사진 촬영만으로...",
+          "src": "segye",
           "date": "11/05",
-          "url": "https://www.voakorea.com/a/8218857.html",
-          "img": "https://gdb.voanews.com/1ef4bb0e-d249-4856-3e92-08df13be6539_w1200_h630.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004172687?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/05/20261105505213.jpg"
         },
         {
-          "title": "충남 18개 공공기관 '한 방향'…AI·의료·민생 현장 실행력 높인다",
-          "desc": "다만 구체적인 기술 도입 범위와 시행 일정은 향후 사업 추진 과정에서 확인해야 할 부분이다. 충남체육회는 선수들의 훈련에 AI 기반 분석기술을 활용하는 과학적 훈련체계 고도화에 집중한다. 주거와 지역경제...",
-          "src": "그린포스트",
+          "title": "KT, 기업 AX 도입 지원 플랫폼 개설…솔루션 추천부터 전문가 상담까지",
+          "desc": "KT가 기업의 인공지능 전환(AX) 도입을 지원하는 전문 플랫폼을 개설했다. KT는 기업 고객을 대상으로 AX 관련... 이를 통해 기업은 인공지능 인프라 구축과 데이터 활용, AI 에이전트 적용, 운영·관리 등에 필요한 기술과...",
+          "src": "비즈니스플러스",
           "date": "11/05",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353888",
-          "img": "https://cdn.greened.kr/news/thumbnail/202611/353888_405922_4046_v150.jpg"
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119326",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119326_120662_5243_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로운...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003760148?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/04/134968743.1.jpg"
+      "title": "[마켓포인트] KG파이낸셜, 3분기 영업익 104억…전년比 2.6%↑",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501482",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/501482_486624_4917_v150.jpg"
     },
     {
-      "title": "삼성전자, CES 2027 단독 전시관서 차세대 로봇 공개?",
-      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172904",
-      "img": "https://cdn.choicenews.co.kr/news/thumbnail/202611/172904_132558_918_v150.jpg"
+      "title": "[유통갤러리] 이마트, 쓱데이 마지막 주말 총력전…먹거리·가전·완구 ...",
+      "url": "https://theviewers.co.kr/View.aspx?No=4298443",
+      "img": "https://cdn.coenworks.com/Files/30/News/202611/8305_20261105085144273.jpg"
     },
     {
-      "title": "로보락, ‘구독’으로 AS 약점 보완… 삼성·LG ‘안방 요새’ 파고든다",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611040958309820538",
-      "img": "https://image.dnews.co.kr/photo/photo/2026/11/04/202611040958309820538-2-702761.jpg"
+      "title": "이마트, '쓱데이' 마지막 주말 '먹거리→가전·완구' 최대 50% 할인",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=779064",
+      "img": "https://cdn.slist.kr/news/thumbnail/202611/779064_1190402_1036_v150.jpg"
+    },
+    {
+      "title": "현대차·기아, 차량용 반도체 개발체계 국제 인증…기능안전 강화",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324861",
+      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/324861_321883_3929_v150.jpg"
     },
     {
       "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "장중 4% 급락 딛고 살아난 코스피…'블루 쓰나미' 소화하며 5680선 회복[...",
       "url": "https://n.news.naver.com/mnews/article/014/0005599390?sid=101",
       "img": "https://image.fnnews.com/resource/media/image/2026/11/04/202611041219382171_e.jpg"
-    },
-    {
-      "title": "[한진칼 지분 경쟁] 현대차·SK·효성...'조원태 백기사' 다시 뭉치나",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092694?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202611/677696_292088_3350_v150.jpg"
     }
   ]
 };
