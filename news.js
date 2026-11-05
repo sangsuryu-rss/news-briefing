@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.06 (금) 03:02",
+  "updatedAt": "2026.11.06 (금) 08:39",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "혈액 냉장실까지 당했다…해커 표적 된 ‘스마트 가전’",
-          "desc": "매터는 서로 다른 브랜드의 가전제품을 하나의 플랫폼에서 연결·제어할 수 있도록 돕는 공통 통신 규격으로, 삼성전자·LG전자·애플 등 주요 업체들이 스마트홈 생태계 확장을 위해 활용하고 있다. 숭실대 연구진은 지난...",
-          "src": "kmib",
+          "title": "LG그룹 유일 저PBR 기업 LG헬로비전, 기업가치 제고 시험대",
+          "desc": "온라인동영상서비스(OTT)와 유튜브 중심으로 영상 소비가 재편되면서 케이블TV 시장이 위축되는 데다 삼성전자와 LG전자 등이 가전 구독 사업을 확대하면서 렌탈 시장의 경쟁도 심화하고 있기 때문이다. 안재민...",
+          "src": "news",
           "date": "11/06",
-          "url": "https://n.news.naver.com/mnews/article/005/0001883411?sid=101",
-          "img": ""
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443367",
+          "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4443367_354884_322_v150.jpg"
         },
         {
-          "title": "이마트, 쓱데이 마지막 주말 조개류 반값…온라인·아울렛은 겨울옷 할...",
-          "desc": "삼성전자 콤보 세탁건조기는 320만원대, 비스포크 4도어 하이브리드 냉장고는 300만원대에 판매한다. 게임·완구도 할인한다. 닌텐도 스위치2와 플레이스테이션5(PS5)용 게임 타이틀·주변기기는 행사카드로 결제하면...",
-          "src": "newsprime",
-          "date": "11/05",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=753805",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20261145/art_753805_1793840834.jpg"
+          "title": "로봇청소기 1위 로보락의 판 흔들기…삼성·LG와 '구독 시장' 격돌",
+          "desc": "실제 지난 9월 주요 오프라인 유통 채널의 로봇청소기 매출을 합산한 결과 올해 초 각각 10% 초반대에 불과했던 삼성전자와 LG전자의 로봇청소기 합산 점유율이 최근 50%에 육박한 것으로 집계됐다. 국내 주거환경에...",
+          "src": "F투데이",
+          "date": "11/06",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369013",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/369013_379067_5030_v150.jpg"
+        },
+        {
+          "title": "롯데하이마트-전자랜드 '하이마트 블프' 진행...창립 38주년 전국동시세...",
+          "desc": "또한 캐시백, 즉시할인 등을 더해 삼성전자 '김치플러스 스탠드형 3도어 김치냉장고(328L)' 153만원, LG전자... 마이디어는 '드럼 세탁기 타워세트(세탁기 12kg, 건조기 10kg)'구매시 '에코 디지털 전자레인지(20L)'를...",
+          "src": "wsobi",
+          "date": "11/06",
+          "url": "http://www.wsobi.com/news/articleView.html?idxno=321170",
+          "img": "http://www.wsobi.com/news/photo/202611/321170_190865_055.jpg"
         },
         {
           "title": "확 달라진 '한경 프리미엄9'…'뜨는 종목' 가장 먼저 찾아준다",
@@ -42,15 +50,7 @@ window.NEWS_DATA = {
           "src": "한국경제",
           "date": "11/05",
           "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/AA.46325921.1.jpg"
-        },
-        {
-          "title": "하이마트 4년 만의 희망퇴직",
-          "desc": "이사는 냉장고·세탁기 같은 대형가전을 바꾸는 대표적인 계기다. 한국은행의 3분기 국내총생산(GDP)... 삼성전자와 LG전자가 직접 판매 채널을 강화하고, 이커머스가 빠르게 성장하면서 양판점의 입지가 좁아졌다는...",
-          "src": "이데일리",
-          "date": "11/05",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365784",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
+          "img": ""
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자 노조 1만명 집결…“DX 성과 보상·교섭 참여 보장하라”",
-          "desc": "특히 메모리 반도체 가격 상승에 따른 부품 원가 부담과 완제품 판매가격 정책 등 경영진의 사업 판단이 DX... 일하는 협력사와 더 큰 연대를 만들어야 한다\"고 강조했다. 삼성전자 내부 사업부 간 갈등에 대해서는 공동...",
-          "src": "thetracker",
-          "date": "11/05",
-          "url": "https://thetracker.co.kr/View.aspx?No=4300015",
-          "img": "https://cdn.coenworks.com/Files/478/News/202611/8458_20261105202943590_edit.jpg"
+          "title": "[박정식의 국내 주식시황] 미국발 블루웨이브 영향으로 반도체 차익 매...",
+          "desc": "자동차부품, 타이어 테마 상승. ▷美 민주당 승리에 따른 관세압박 완화 기대 및 美 식품·화장품 업종 상승... 삼성전자가 네온가스 재활용 설비를 상용화하고 생산 현장에 적용하기 시작했다는 소식에 협력사...",
+          "src": "newsquest",
+          "date": "11/06",
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304367",
+          "img": "https://cdn.newsquest.co.kr/news/photo/202611/304367_205197_3845.png"
         },
         {
-          "title": "차세대 '갤럭시S27' 시리즈 가격 오를까…삼성D, OLED 패널값 최대 20달러...",
-          "desc": "소식통은 삼성디스플레이가 모든 협력사에 내년 OLED 패널 공급 가격을 대폭 인상하겠다고 통보했다고... 디스플레이는 스마트폰 제조원가에서 상당한 비중을 차지하는 핵심 부품이다. 삼성디스플레이는 삼성전자...",
-          "src": "kbench",
-          "date": "11/05",
-          "url": "https://kbench.com/?q=node/283099",
-          "img": ""
+          "title": "미국 민주당 압승이 반도체 위기? 우린 훨씬 유리해졌다 [반도체 특별과...",
+          "desc": "생성형 AI 열풍 이후 글로벌 빅테크 기업들이 앞다퉈 서버 증설에 나서면서 메모리 3사(삼성전자, SK하이닉스... 2030년까지 부품 공급망 전체에서 100% 탄소 중립 및 재생에너지 사용을 달성하겠다'고 선언하고 협력사들을...",
+          "src": "ohmynews",
+          "date": "11/06",
+          "url": "https://n.news.naver.com/mnews/article/047/0002534830?sid=101",
+          "img": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/1105/A0003281976_T.jpg"
         },
         {
-          "title": "인피니언, 韓 AI 전력 인프라 협력 속도···삼성전자 등 첨단 패키징도...",
-          "desc": "솔루엠은 지난 2015년 삼성전기의 파워모듈 사업부, 튜너 사업부, ESL(전자가격표시기) 사업부 등이 분사해 설립된 국내 전자부품 제조사다. 인피니언과 솔루엠이 공동 개발하기로 한 PSU는 서버에 필요한 전력을...",
-          "src": "sisajournal-e",
-          "date": "11/05",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424820",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424820_241847_1717_v150.jpg"
+          "title": "[가보니] 칩 만들고 국내 소부장과 협력하고… '한국의 아이멕' 나노종...",
+          "desc": "조 실장은 삼성전자와 SK하이닉스의 1·2차 협력사들도 공정 시험을 위해 나노종합기술원을 찾는다고 설명했다. 이들 기업은 기술원의 분석·평가 설비를 활용해 개발한 소재나 부품을 반도체 공정에 적용하고 결과를...",
+          "src": "newscj",
+          "date": "11/06",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446414",
+          "img": "https://cdn.newscj.com/news/thumbnail/202611/3446414_3571292_522_v150.jpg"
         },
         {
-          "title": "씨엠티엑스, 국내 유일 TSMC 1차 벤더…신규 글로벌사 공급 승인 단계 진...",
-          "desc": "IBK투자증권에 따르면 씨엠티엑스는 국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있다. 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다고 평가했다.",
-          "src": "이투데이",
-          "date": "11/05",
-          "url": "https://www.etoday.co.kr/news/view/2644102",
-          "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
+          "title": "삼성·구글과 AI 안경 승부수…젠틀몬스터, 새 수익원 시험대",
+          "desc": "젠틀몬스터가 삼성전자·구글과 손잡고 AI 글라스 시장 공략에 나선다. 운영사 아이아이컴바인드의 지난해... 구글은 제품 개발 협력사이자 젠틀몬스터 운영사인 아이아이컴바인드의 주주다. 지난해 아이아이컴바인드에...",
+          "src": "asiatoday",
+          "date": "11/06",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002137",
+          "img": "https://img.asiatoday.co.kr/file/2026y/11m/06d/2026110501000404900021371.jpg"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"IT 장애 스스로 고친다\"… 제조업 68%, AI 자율 대응 선점",
-          "desc": "방식을 활용한다는 응답도 25%로, 전체 산업 평균(17%)과 IT 업계(21%)를 웃돌았다. ■ AI 도입 장애 요인 1위는... 관련 기술 및 교육 부족이 34%, AI의 가치나 비즈니스 효과에 대한 불확실성이 32%로 뒤를 이었다. 특히 AI의...",
-          "src": "woodkorea",
+          "title": "미래에셋, AI·디지털자산에 승부수...128명 승진 인사로 '금융 대전환'",
+          "desc": "금융회사의 경쟁력이 전통적인 영업망과 운용 역량뿐 아니라 데이터 활용 능력, AI 기술 적용 수준, 디지털... 다만 AI 기술의 도입이 곧바로 수익성 개선으로 연결되는 것은 아니다. 기술 투자와 조직 개편이 실제 고객...",
+          "src": "핀포인트뉴스",
           "date": "11/06",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92381",
-          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501783",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/501783_486903_3440_v150.jpg"
         },
         {
-          "title": "\"무선 전송 4배 빨라진다\"… 블루투스 SIG, 'Bluetooth HDT' 발표",
-          "desc": "블루투스 기술의 활용 가능성을 크게 넓힐 것\"이라며 \"스마트워치에 수 시간 동안 쌓인 운동 데이터를 단 몇 초 만에 스마트폰으로 옮기거나 스마트 글래스의 데이터를 외부에서 처리해 더욱 향상된 AI 기능을...",
-          "src": "woodkorea",
+          "title": "연어, 암모니아, AI... 실적의 시간 다가온 오너 2세의 GS건설 신사업",
+          "desc": "기술을 육상양식에 접목한 데 이어 플랜트 역량을 발전소 운영과 전력 공급으로 확장하려는 시도다. 기업용 AI 도입부터 사내 경진대회까지... 업무 혁신 지속 사업 영역을 넓히는 동시에 조직 내부에서는 AI를 활용한...",
+          "src": "meconomynews",
           "date": "11/06",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92377",
-          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
+          "url": "https://www.meconomynews.com/news/articleView.html?idxno=203282",
+          "img": "https://cdn.meconomynews.com/news/photo/202611/203282_206674_416.png"
         },
         {
-          "title": "스테이블코인 결제, 달러자산 수요 가능성…해맥은 규제 공백 지적",
-          "desc": "해맥은 기술적 활용 가능성과 금융기관 도입에 필요한 제도적 조건을 함께 짚었다. 스마트계약은 정해진 조건에 따라 코드가 자동으로 실행되는 방식이다. 에이전트형 업무 흐름은 AI가 이용자를 대신해 여러...",
-          "src": "tokenpost",
+          "title": "자비스, 경기도 피지컬 AI 실증과제 선정",
+          "desc": "자비스는 9월 임시주주총회에서 AI 기반 소프트웨어업, AI 도입·활용 컨설팅업, 기술용역 및 데이터 수집·가공업 등을 사업목적에 추가했다. 20여 년간 축적한 X-ray 검사 데이터와 결함 판정 알고리즘을 활용해...",
+          "src": "vegannews",
           "date": "11/06",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/433423",
-          "img": "https://f1.tokenpost.kr/2026/11/pmj6q7k9nu_th_1600x900.webp"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=401076",
+          "img": "https://www.vegannews.co.kr/data/photos/20261145/art_17938830316593_bb291a.jpg"
         },
         {
-          "title": "\"뇌전증 신약 대박 터졌다\"… SK바이오팜, 분기 영업익 첫 1000억 돌파",
-          "desc": "(AI)을 활용한 신약 발굴과 외부 협력도 이어간다. 인실리코 메디슨(Insilico Medicine)과 AI 기반 신약 발굴 공동연구를 진행하고 있으며, 퍼스트바이오테라퓨틱스(1ST Biotherapeutics)와는 파킨슨병 관련 기술도입 계약...",
-          "src": "woodkorea",
+          "title": "자비스, 'X-ray+피지컬AI'로 신성장동력 확보…경기도 실증 최종 선정",
+          "desc": "자비스는 지난 9월 임시주주총회에서 인공지능(AI) 기반 소프트웨어업, AI 도입·활용 컨설팅업, 기술용역 및 데이터 수집·가공업 등을 사업목적에 추가했다. 20여 년간 축적한 X-ray 검사 데이터와 AI 기반 결함 판정...",
+          "src": "전자신문",
           "date": "11/06",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92375",
-          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003482865?sid=101",
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "이마트, 쓱데이 마지막 주말 조개류 반값…온라인·아울렛은 겨울옷 할...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753805",
-      "img": "https://www.newsprime.co.kr/data/photos/cdn/20261145/art_753805_1793840834.jpg"
+      "title": "LG그룹 유일 저PBR 기업 LG헬로비전, 기업가치 제고 시험대",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443367",
+      "img": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4443367_354884_322_v150.jpg"
     },
     {
-      "title": "확 달라진 '한경 프리미엄9'…'뜨는 종목' 가장 먼저 찾아준다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
-      "img": "https://img.hankyung.com/photo/202611/AA.46325921.1.jpg"
+      "title": "로봇청소기 1위 로보락의 판 흔들기…삼성·LG와 '구독 시장' 격돌",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369013",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/369013_379067_5030_v150.jpg"
     },
     {
-      "title": "하이마트 4년 만의 희망퇴직",
-      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365784",
-      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
+      "title": "롯데하이마트-전자랜드 '하이마트 블프' 진행...창립 38주년 전국동시세...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=321170",
+      "img": "http://www.wsobi.com/news/photo/202611/321170_190865_055.jpg"
     },
     {
       "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
