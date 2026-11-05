@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.05 (목) 09:54",
+  "updatedAt": "2026.11.05 (목) 18:32",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "11번가, 'AI 쇼핑' 그랜드십일절 흥행…초개인화 추천 거래액 3배↑",
-          "desc": "드리미 X50 Master 로봇청소기 200대와 삼성 갤럭시북4 50대, LG 컨버터블 패키지 50대가 모두 판매됐다. 삼성... 11번가는 오는 11일까지 필립스와 롯데웰푸드, 설화수 등의 원데이 빅딜과 삼성전자·LG전자·로보락 등 인기...",
-          "src": "전자신문",
+          "title": "삼성전자 제6노조 출범하나…초기업·동행 출신 인사 주도",
+          "desc": "스마트폰과 가전 등 완제품 사업을 담당하는 디바이스경험(DX)부문을 중심으로 활동할 가능성이 거론된다. 다만 설립을 주도한 인사들의 과거 소속만으로 노조의 성격과 활동 범위를 단정하기는 어렵다. 현재 삼성전자...",
+          "src": "srtimes",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/030/0003482401?sid=101",
-          "img": ""
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=216846",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/216846_221949_4157_v150.jpg"
         },
         {
-          "title": "[마켓포인트] KG파이낸셜, 3분기 영업익 104억…전년比 2.6%↑",
-          "desc": "삼성전자 가전환급 행사와 갤럭시Z 폴드8·플립8 시리즈 판매 증가에 따라 신용카드 전자지급결제대행(PG) 거래금액이 확대됐다는 설명이다. 3분기 PG 거래금액은 2조3000억원을 기록했으며, 올해 누적 거래금액은...",
-          "src": "핀포인트뉴스",
+          "title": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9'",
+          "desc": "삼성전자, SK하이닉스, 현대자동차 등 대형주가 급락하면 과거 사례와 1일·5일·10일·20일 후 수익률을... 신규 구독자에게는 추첨을 거쳐 갤럭시Z 폴드8, 삼성 로봇청소기, ‘스페인 미술 500년’ 전시회 티켓 등을 준다....",
+          "src": "한국경제",
           "date": "11/05",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501482",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/501482_486624_4917_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
+          "img": "https://img.hankyung.com/photo/202611/AA.46323302.1.jpg"
         },
         {
-          "title": "[유통갤러리] 이마트, 쓱데이 마지막 주말 총력전…먹거리·가전·완구 ...",
-          "desc": "‘삼성전자 콤보 세탁건조기’는 320만원대, ‘삼성 비스포크 4도어 하이브리드 냉장고’는 300만원대에 선보인다. ‘닌텐도 스위치 본체 OLED 패키지 스플래툰 에디션’은 한정 수량으로 45만원대에 판매하며 ‘닌텐도...",
-          "src": "더뷰어스",
+          "title": "하이마트 4년 만의 희망퇴직",
+          "desc": "이사는 냉장고·세탁기 같은 대형가전을 바꾸는 대표적인 계기다. 한국은행의 3분기 국내총생산(GDP)... 삼성전자와 LG전자가 직접 판매 채널을 강화하고, 이커머스가 빠르게 성장하면서 양판점의 입지가 좁아졌다는...",
+          "src": "이데일리",
           "date": "11/05",
-          "url": "https://theviewers.co.kr/View.aspx?No=4298443",
-          "img": "https://cdn.coenworks.com/Files/30/News/202611/8305_20261105085144273.jpg"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365784",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
         },
         {
-          "title": "이마트, '쓱데이' 마지막 주말 '먹거리→가전·완구' 최대 50% 할인",
-          "desc": "TV, 냉장고, 세탁기 등 대형가전도 쓱데이 특가에 만나볼 수 있다. LG전자 대형가전은 행사카드 결제 시... 삼성전자 TV 행사 상품을 구매하면 최대 35만점 삼성전자 멤버십 포인트 추가 적립 혜택을 받을 수 있다....",
-          "src": "slist",
+          "title": "이마트, 쓱데이 마지막 주말 총력전…먹거리부터 가전·완구까지",
+          "desc": "삼성전자에서는 TV와 콤보 세탁건조기, 비스포크 4도어 하이브리드 냉장고 등을 준비했다. 게임과 완구 부문에서는 닌텐도 스위치 OLED 패키지 스플래툰 에디션과 닌텐도 스위치2, 플레이스테이션5(PS5) 관련 상품을...",
+          "src": "thefirstmedia",
           "date": "11/05",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779064",
-          "img": "https://cdn.slist.kr/news/thumbnail/202611/779064_1190402_1036_v150.jpg"
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212768",
+          "img": "http://www.thefirstmedia.net/news/thumbnail/202611/212768_196737_3119_v150.jpg"
         }
       ]
     },
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
-          "title": "현대차·기아, 차량용 반도체 개발체계 국제 인증…기능안전 강화",
-          "desc": "자동차·기아가 차량용 반도체 개발 절차와 기능안전 관리체계에 대한 국제표준 인증을 받았다. 자체 구축한 개발체계의 적합성을 검증받은 것을 바탕으로 반도체 개발 전반의 안전성과 신뢰성을 높일 방침이다. 현대차...",
-          "src": "pointdaily",
+          "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
+          "desc": "현대차와 기아 등 자동차 업계도 관세 부담이 이어질 전망입니다. ▶ 인터뷰(☎) : 김태황 / 명지대 국제통상학과 교수 - \"관세 정책의 본질이 바뀌어지지는 않을 거고요. 민주당도 근로자들에 대한 고용 창출과 고용 유지에...",
+          "src": "MBN",
           "date": "11/05",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324861",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/324861_321883_3929_v150.jpg"
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005955930",
+          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/11/05/20261105163757_10_103_0_MM1005955930_4_115.jpg"
         },
         {
-          "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
-          "desc": "양사 역량 융합과 사업 청사진 DYA는 한국에서 현대자동차와 기아에 자동차 시트를 공급해 온 검증된 제조사다. 현대차그룹의 엄격한 품질 평가에서 최고 수준인 별 5개 등급을 획득하며 설계와 제조 경쟁력을...",
-          "src": "g-enews",
+          "title": "[증시 프리즘] 코스피, 美 AI 규제 우려에 4%대 급락…삼전닉스 6~8%↓·...",
+          "desc": "현대차와 기아 등 자동차주는 민주당의 의회 장악으로 트럼프 행정부의 강경한 관세 정책이 의회의 견제를 받을 수 있다는 기대가 반영된 것으로 풀이된다. 코스닥지수도 낙폭을 키우고 있다. 같은 시각...",
+          "src": "moneystorm",
           "date": "11/05",
-          "url": "https://www.g-enews.com/view.php?ud=2026110422335946972bd56fbc3c_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261104224132017052bd56fbc3c21121419978.jpg"
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8100",
+          "img": "https://cdn.moneystorm.kr/news/photo/202611/8100_8319_5512.jpg"
         },
         {
-          "title": "장중 4% 급락 딛고 살아난 코스피…'블루 쓰나미' 소화하며 5680선 회복[...",
-          "desc": "현대차와 기아 등 자동차주도 강세를 보이며 지수 반등에 힘을 보탰다. ■美민주당 압승..중간선거 불확실성 해소되며 상승 반전해 이날 국내 증시의 방향을 좌우한 핵심 변수는 미국 중간선거였다. 민주당은 3일...",
-          "src": "파이낸셜뉴스",
-          "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/014/0005599390?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/04/202611041219382171_e.jpg"
+          "title": "[증시 오늘(5일) 주요 특징주] 美 정치 리스크·AI 규제 우려에 대형주 ...",
+          "desc": "이 밖에 KB금융, 신한지주 등 금융주와 현대차, 기아 등 자동차주를 포함한 시가총액 상위 종목 전반에 걸쳐 매도세가 이어지며 시장 전체의 수급 경색이 심화하는 분위기다. 증권가에서는 글로벌 시장의 변동성 확대와...",
+          "src": "thefairnews",
+          "date": "11/05",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93138",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202611/93138_139808_4427_v150.jpg"
         },
         {
-          "title": "[한진칼 지분 경쟁] 현대차·SK·효성...'조원태 백기사' 다시 뭉치나",
-          "desc": "현대차와 기아는 자동차 제조업체로 한진그룹의 물류사업과 접점이 있다. 삼구아이앤씨 역시 한진그룹 계열사에 인력과 시설관리 서비스를 제공해 왔다. 이마트를 계열사로 둔 신세계그룹은 한진그룹과의 사업 관계...",
-          "src": "블로터",
-          "date": "11/04",
-          "url": "https://n.news.naver.com/mnews/article/293/0000092694?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202611/677696_292088_3350_v150.jpg"
+          "title": "현대차·기아, 차량용 반도체 개발 프로세스 ISO 국제표준 인증 획득",
+          "desc": "/사진=현대차·기아 현대자동차와 기아가 자체 개발한 차량용 반도체 개발 프로세스에 대해 국제 표준 인증을 받으며 품질 관리 및 기술 신뢰성을 입증했다. 현대차·기아는 지난 4일 경기도 성남시 판교테크원에서...",
+          "src": "비즈니스플러스",
+          "date": "11/05",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119333",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119333_120670_912_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "빅테크, 민주 의회發 규제 긴장",
-          "desc": "삼성전자는 장중 5.24%, SK하이닉스는 장중 6.80%까지 떨어졌다. 두 종목은 장 막판 낙폭을 대부분 만회해 각각... 애플·테슬라 협력사가 많은 국내 부품·소재 중소기업들도 빅테크의 투자 계획 변화와 미국 규제 일정을...",
-          "src": "이데일리",
-          "date": "11/04",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365711",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365711_300711_229_v150.jpg"
-        },
-        {
-          "title": "AMD 역대 최대 실적에…삼전닉스, HBM4 판매 ‘청신호’",
-          "desc": "확대 삼성전자, 신형 가속기 HBM4 우선 공급 SK하이닉스, 연말까지 M15X 생산능력 확대 생성형 AI로 제작한... 주요 부품을 확보해 왔다\"고 설명했다. 그러면서 \"수요가 공급보다 많다\"며 공급망 협력사들과 공급...",
-          "src": "서울신문",
-          "date": "11/04",
-          "url": "http://www.metroseoul.co.kr/article/20261104500501",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/11/04/.cache/512/20261104500502.jpg"
-        },
-        {
-          "title": "AI 호황에 날개 단 AMD…인텔과 엇갈린 성장 전망",
-          "desc": "핵심 부품의 안정적인 공급망을 확보해야 한다. 리사 수 CEO도 현재 수요가 공급을 웃돌며 공급망 협력사들과 생산능력 확대를 추진하고 있다고 밝혔다. AI 가속기 경쟁 확대는 삼성전자와 SK하이닉스 등 국내...",
-          "src": "dealsite",
-          "date": "11/04",
-          "url": "https://dealsite.co.kr/articles/172056",
+          "title": "차세대 '갤럭시S27' 시리즈 가격 오를까…삼성D, OLED 패널값 최대 20달러...",
+          "desc": "소식통은 삼성디스플레이가 모든 협력사에 내년 OLED 패널 공급 가격을 대폭 인상하겠다고 통보했다고... 디스플레이는 스마트폰 제조원가에서 상당한 비중을 차지하는 핵심 부품이다. 삼성디스플레이는 삼성전자...",
+          "src": "kbench",
+          "date": "11/05",
+          "url": "https://kbench.com/?q=node/283099",
           "img": ""
         },
         {
-          "title": "AMD \"HBM 가격 상승 고객사와 분담\", 삼성전자 SK하이닉스 메모리반도체...",
-          "desc": "체결해 부품 단가 상승에 대응하고 있다고 말했다. 삼성전자와 SK하이닉스, 마이크론은 현재 전 세계 HBM... 반도체 공급 협력사들에 단가 인하를 요구하거나 AMD가 가격 상승분을 모두 흡수하기는 사실상 어렵다는...",
-          "src": "비즈니스포스트",
-          "date": "11/04",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451128",
-          "img": ""
+          "title": "인피니언, 韓 AI 전력 인프라 협력 속도···삼성전자 등 첨단 패키징도...",
+          "desc": "솔루엠은 지난 2015년 삼성전기의 파워모듈 사업부, 튜너 사업부, ESL(전자가격표시기) 사업부 등이 분사해 설립된 국내 전자부품 제조사다. 인피니언과 솔루엠이 공동 개발하기로 한 PSU는 서버에 필요한 전력을...",
+          "src": "sisajournal-e",
+          "date": "11/05",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424820",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424820_241847_1717_v150.jpg"
+        },
+        {
+          "title": "씨엠티엑스, 국내 유일 TSMC 1차 벤더…신규 글로벌사 공급 승인 단계 진...",
+          "desc": "IBK투자증권에 따르면 씨엠티엑스는 국내 반도체 부품 기업 중 유일하게 TSMC 1차 벤더로 등록돼 있다. 삼성전자 1차 협력사이자 마이크론 최우수 협력사로 시장에서 기술력과 공급 역량을 인정받고 있다고 평가했다.",
+          "src": "이투데이",
+          "date": "11/05",
+          "url": "https://www.etoday.co.kr/news/view/2644102",
+          "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
+        },
+        {
+          "title": "[산업 콕!] 삼전닉스 日에 공들이는 이유",
+          "desc": "삼성전자와 SK하이닉스도 반도체 '도공'을 찾아 일본에서 보폭을 넓히고 있다. 첨단 패키징 연구거점을 세우고 현지 인재를 뽑는 한편 일본 소재·부품·장비(소부장) 기업들과의 접점도 늘리는 모습이다. 인공지능(AI)...",
+          "src": "00news",
+          "date": "11/05",
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=107752",
+          "img": "https://cdn.00news.co.kr/news/thumbnail/202611/107752_245068_5218_v150.jpg"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "한전 AI 진단기술 품은 LS일렉트릭…반도체·데이터센터 시장 공략 강화",
-          "desc": "데이터를 AI 학습에 활용해 진단 정확도를 높인 것이 핵심 경쟁력으로 꼽힌다. LS일렉트릭은 이번 기술이전... 이상 징후가 감지되면 경보를 보내 설비 운영자가 사전에 대응할 수 있도록 하는 기능도 도입한다. 실제...",
-          "src": "econovill",
+          "title": "\"보험 실무에 AI 도입 확산… 생산성 높지만 연쇄 오류 우려도\"",
+          "desc": "AI 도입으로 분명한 생산성 향상을 경험했다고 응답했다. 다만 아직까진 대량 문서 처리나 정보 검색 등 반복적인 업무에 주로 쓰인다. 문제는 에이전틱 AI 활용에 따른 위험이 곳곳에 있다는 점이다. 사이버 보안...",
+          "src": "파이낸셜뉴스",
           "date": "11/05",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756104",
-          "img": "https://cdn.econovill.com/news/thumbnail/202611/756104_733483_523_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005600226?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/05/202611051827504724_e.jpg"
         },
         {
-          "title": "금융권 해킹에 47만건 정보유출·10억원 탈취…이억원 “보안 부실 CEO 책...",
-          "desc": "보이스피싱 대응에도 AI를 활용한다. 금융권 공동 정보공유·분석 플랫폼인 ‘ASAP’에 의심거래의 범죄 연루 가능성을 0~100점으로 산출하는 ‘피싱지수’를 이달부터 시범 도입한다. 보이스피싱 피해에 대한 금융회사의...",
-          "src": "mydaily",
+          "title": "DMTS 2026 성황리 개최…AI·블록체인 융합으로 글로벌 시장 진출 모색",
+          "desc": "김 회장은 \"앞으로의 경쟁력은 어느 한 가지 기술만을 잘 활용하는 데 있지 않고, AI와 블록체인, DID와... 박효진 세종디엑스 대표이사는 'AI 특이점 시대, 디지털 기업의 성공전략' 발표에서 기업의 AI 도입이...",
+          "src": "fntimes",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/117/0004122246?sid=103",
-          "img": "https://mydaily.co.kr/photos/2026/11/05/2026110509502306625_l.jpg"
+          "url": "https://www.fntimes.com/html/view.php?ud=2026110517455465922a735e27af_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611051806120823402a735e27af12411124362.jpg&nmt=18"
         },
         {
-          "title": "현대건설, AI·빅데이터로 건설현장 품질관리 전 과정 디지털화",
-          "desc": "인공지능(AI)과 빅데이터를 활용해 건설현장 품질관리를 디지털화한다. 콘크리트 타설 계획부터 균열... 기능도 도입했다. 현장에서 수기로 작성한 품질관리 기록은 AI 문자 인식 기술을 이용해 사진 촬영만으로...",
-          "src": "segye",
+          "title": "신한증권, 보이스피싱 예방체계 강화",
+          "desc": "신한투자증권이 휴대전화 개통 이력까지 금융사기 탐지에 활용하며 보이스피싱 예방망을 한층 강화했다.... 위한 기술 도입도 추진한다. 2027년에는 고객과 사기범 간 통화패턴을 분석하는 '보이스피싱 통화패턴 AI 분석...",
+          "src": "파이낸셜뉴스",
           "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/022/0004172687?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/05/20261105505213.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005600211?sid=101",
+          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
         },
         {
-          "title": "KT, 기업 AX 도입 지원 플랫폼 개설…솔루션 추천부터 전문가 상담까지",
-          "desc": "KT가 기업의 인공지능 전환(AX) 도입을 지원하는 전문 플랫폼을 개설했다. KT는 기업 고객을 대상으로 AX 관련... 이를 통해 기업은 인공지능 인프라 구축과 데이터 활용, AI 에이전트 적용, 운영·관리 등에 필요한 기술과...",
-          "src": "비즈니스플러스",
+          "title": "우리은행 해외송금 심사에 AI 도입, 서류 분석부터 송금정보 입력까지 ...",
+          "desc": "우리은행이 인공지능(AI)을 활용해 해외송금 심사 업무의 효율성과 정확성을 높인다. 우리은행은 5일부터... 강엄필 우리은행 외환사업부장은 \"AI 기술 도입으로 외환 업무의 정확성과 내부통제 수준을 동시에 높일 수...",
+          "src": "비즈니스포스트",
           "date": "11/05",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119326",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119326_120662_5243_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451307",
+          "img": ""
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[마켓포인트] KG파이낸셜, 3분기 영업익 104억…전년比 2.6%↑",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501482",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/501482_486624_4917_v150.jpg"
+      "title": "삼성전자 제6노조 출범하나…초기업·동행 출신 인사 주도",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216846",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202611/216846_221949_4157_v150.jpg"
     },
     {
-      "title": "[유통갤러리] 이마트, 쓱데이 마지막 주말 총력전…먹거리·가전·완구 ...",
-      "url": "https://theviewers.co.kr/View.aspx?No=4298443",
-      "img": "https://cdn.coenworks.com/Files/30/News/202611/8305_20261105085144273.jpg"
+      "title": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
+      "img": "https://img.hankyung.com/photo/202611/AA.46323302.1.jpg"
     },
     {
-      "title": "이마트, '쓱데이' 마지막 주말 '먹거리→가전·완구' 최대 50% 할인",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=779064",
-      "img": "https://cdn.slist.kr/news/thumbnail/202611/779064_1190402_1036_v150.jpg"
+      "title": "하이마트 4년 만의 희망퇴직",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365784",
+      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
     },
     {
-      "title": "현대차·기아, 차량용 반도체 개발체계 국제 인증…기능안전 강화",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324861",
-      "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/324861_321883_3929_v150.jpg"
+      "title": "이마트, 쓱데이 마지막 주말 총력전…먹거리부터 가전·완구까지",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212768",
+      "img": "http://www.thefirstmedia.net/news/thumbnail/202611/212768_196737_3119_v150.jpg"
     },
     {
-      "title": "인도 NDR·한국 DYA 합작법인 출범…현대차·기아 현지 시트 공급 정조준",
-      "url": "https://www.g-enews.com/view.php?ud=2026110422335946972bd56fbc3c_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261104224132017052bd56fbc3c21121419978.jpg"
+      "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
+      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005955930",
+      "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/11/05/20261105163757_10_103_0_MM1005955930_4_115.jpg"
     },
     {
-      "title": "장중 4% 급락 딛고 살아난 코스피…'블루 쓰나미' 소화하며 5680선 회복[...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005599390?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/04/202611041219382171_e.jpg"
+      "title": "[증시 프리즘] 코스피, 美 AI 규제 우려에 4%대 급락…삼전닉스 6~8%↓·...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8100",
+      "img": "https://cdn.moneystorm.kr/news/photo/202611/8100_8319_5512.jpg"
     }
   ]
 };
