@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.05 (목) 18:32",
+  "updatedAt": "2026.11.06 (금) 03:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 제6노조 출범하나…초기업·동행 출신 인사 주도",
-          "desc": "스마트폰과 가전 등 완제품 사업을 담당하는 디바이스경험(DX)부문을 중심으로 활동할 가능성이 거론된다. 다만 설립을 주도한 인사들의 과거 소속만으로 노조의 성격과 활동 범위를 단정하기는 어렵다. 현재 삼성전자...",
-          "src": "srtimes",
-          "date": "11/05",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=216846",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/216846_221949_4157_v150.jpg"
+          "title": "혈액 냉장실까지 당했다…해커 표적 된 ‘스마트 가전’",
+          "desc": "매터는 서로 다른 브랜드의 가전제품을 하나의 플랫폼에서 연결·제어할 수 있도록 돕는 공통 통신 규격으로, 삼성전자·LG전자·애플 등 주요 업체들이 스마트홈 생태계 확장을 위해 활용하고 있다. 숭실대 연구진은 지난...",
+          "src": "kmib",
+          "date": "11/06",
+          "url": "https://n.news.naver.com/mnews/article/005/0001883411?sid=101",
+          "img": ""
         },
         {
-          "title": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9'",
+          "title": "이마트, 쓱데이 마지막 주말 조개류 반값…온라인·아울렛은 겨울옷 할...",
+          "desc": "삼성전자 콤보 세탁건조기는 320만원대, 비스포크 4도어 하이브리드 냉장고는 300만원대에 판매한다. 게임·완구도 할인한다. 닌텐도 스위치2와 플레이스테이션5(PS5)용 게임 타이틀·주변기기는 행사카드로 결제하면...",
+          "src": "newsprime",
+          "date": "11/05",
+          "url": "http://www.newsprime.co.kr/news/article.html?no=753805",
+          "img": "https://www.newsprime.co.kr/data/photos/cdn/20261145/art_753805_1793840834.jpg"
+        },
+        {
+          "title": "확 달라진 '한경 프리미엄9'…'뜨는 종목' 가장 먼저 찾아준다",
           "desc": "삼성전자, SK하이닉스, 현대자동차 등 대형주가 급락하면 과거 사례와 1일·5일·10일·20일 후 수익률을... 신규 구독자에게는 추첨을 거쳐 갤럭시Z 폴드8, 삼성 로봇청소기, ‘스페인 미술 500년’ 전시회 티켓 등을 준다....",
           "src": "한국경제",
           "date": "11/05",
           "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/AA.46323302.1.jpg"
+          "img": "https://img.hankyung.com/photo/202611/AA.46325921.1.jpg"
         },
         {
           "title": "하이마트 4년 만의 희망퇴직",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/05",
           "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365784",
           "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
-        },
-        {
-          "title": "이마트, 쓱데이 마지막 주말 총력전…먹거리부터 가전·완구까지",
-          "desc": "삼성전자에서는 TV와 콤보 세탁건조기, 비스포크 4도어 하이브리드 냉장고 등을 준비했다. 게임과 완구 부문에서는 닌텐도 스위치 OLED 패키지 스플래툰 에디션과 닌텐도 스위치2, 플레이스테이션5(PS5) 관련 상품을...",
-          "src": "thefirstmedia",
-          "date": "11/05",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212768",
-          "img": "http://www.thefirstmedia.net/news/thumbnail/202611/212768_196737_3119_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
+          "desc": "현대자동차·기아가 자체 구축한 차량용 반도체 개발 프로세스에 대해 국제 인증을 획득하고, 관련 안전성 강화에 나선다. 현대차·기아는 최근 경기 성남 판교테크원에서 유지한 SDV플랫폼담당 부사장 등 임직원과 국제...",
+          "src": "ksilbo",
+          "date": "11/06",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071749",
+          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
+        },
         {
           "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
           "desc": "현대차와 기아 등 자동차 업계도 관세 부담이 이어질 전망입니다. ▶ 인터뷰(☎) : 김태황 / 명지대 국제통상학과 교수 - \"관세 정책의 본질이 바뀌어지지는 않을 거고요. 민주당도 근로자들에 대한 고용 창출과 고용 유지에...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/05",
           "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93138",
           "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202611/93138_139808_4427_v150.jpg"
-        },
-        {
-          "title": "현대차·기아, 차량용 반도체 개발 프로세스 ISO 국제표준 인증 획득",
-          "desc": "/사진=현대차·기아 현대자동차와 기아가 자체 개발한 차량용 반도체 개발 프로세스에 대해 국제 표준 인증을 받으며 품질 관리 및 기술 신뢰성을 입증했다. 현대차·기아는 지난 4일 경기도 성남시 판교테크원에서...",
-          "src": "비즈니스플러스",
-          "date": "11/05",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119333",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119333_120670_912_v150.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "삼성전자 노조 1만명 집결…“DX 성과 보상·교섭 참여 보장하라”",
+          "desc": "특히 메모리 반도체 가격 상승에 따른 부품 원가 부담과 완제품 판매가격 정책 등 경영진의 사업 판단이 DX... 일하는 협력사와 더 큰 연대를 만들어야 한다\"고 강조했다. 삼성전자 내부 사업부 간 갈등에 대해서는 공동...",
+          "src": "thetracker",
+          "date": "11/05",
+          "url": "https://thetracker.co.kr/View.aspx?No=4300015",
+          "img": "https://cdn.coenworks.com/Files/478/News/202611/8458_20261105202943590_edit.jpg"
+        },
+        {
           "title": "차세대 '갤럭시S27' 시리즈 가격 오를까…삼성D, OLED 패널값 최대 20달러...",
           "desc": "소식통은 삼성디스플레이가 모든 협력사에 내년 OLED 패널 공급 가격을 대폭 인상하겠다고 통보했다고... 디스플레이는 스마트폰 제조원가에서 상당한 비중을 차지하는 핵심 부품이다. 삼성디스플레이는 삼성전자...",
           "src": "kbench",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/05",
           "url": "https://www.etoday.co.kr/news/view/2644102",
           "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
-        },
-        {
-          "title": "[산업 콕!] 삼전닉스 日에 공들이는 이유",
-          "desc": "삼성전자와 SK하이닉스도 반도체 '도공'을 찾아 일본에서 보폭을 넓히고 있다. 첨단 패키징 연구거점을 세우고 현지 인재를 뽑는 한편 일본 소재·부품·장비(소부장) 기업들과의 접점도 늘리는 모습이다. 인공지능(AI)...",
-          "src": "00news",
-          "date": "11/05",
-          "url": "http://www.00news.co.kr/news/articleView.html?idxno=107752",
-          "img": "https://cdn.00news.co.kr/news/thumbnail/202611/107752_245068_5218_v150.jpg"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"보험 실무에 AI 도입 확산… 생산성 높지만 연쇄 오류 우려도\"",
-          "desc": "AI 도입으로 분명한 생산성 향상을 경험했다고 응답했다. 다만 아직까진 대량 문서 처리나 정보 검색 등 반복적인 업무에 주로 쓰인다. 문제는 에이전틱 AI 활용에 따른 위험이 곳곳에 있다는 점이다. 사이버 보안...",
-          "src": "파이낸셜뉴스",
-          "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/014/0005600226?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/05/202611051827504724_e.jpg"
+          "title": "\"IT 장애 스스로 고친다\"… 제조업 68%, AI 자율 대응 선점",
+          "desc": "방식을 활용한다는 응답도 25%로, 전체 산업 평균(17%)과 IT 업계(21%)를 웃돌았다. ■ AI 도입 장애 요인 1위는... 관련 기술 및 교육 부족이 34%, AI의 가치나 비즈니스 효과에 대한 불확실성이 32%로 뒤를 이었다. 특히 AI의...",
+          "src": "woodkorea",
+          "date": "11/06",
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92381",
+          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
         },
         {
-          "title": "DMTS 2026 성황리 개최…AI·블록체인 융합으로 글로벌 시장 진출 모색",
-          "desc": "김 회장은 \"앞으로의 경쟁력은 어느 한 가지 기술만을 잘 활용하는 데 있지 않고, AI와 블록체인, DID와... 박효진 세종디엑스 대표이사는 'AI 특이점 시대, 디지털 기업의 성공전략' 발표에서 기업의 AI 도입이...",
-          "src": "fntimes",
-          "date": "11/05",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026110517455465922a735e27af_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611051806120823402a735e27af12411124362.jpg&nmt=18"
+          "title": "\"무선 전송 4배 빨라진다\"… 블루투스 SIG, 'Bluetooth HDT' 발표",
+          "desc": "블루투스 기술의 활용 가능성을 크게 넓힐 것\"이라며 \"스마트워치에 수 시간 동안 쌓인 운동 데이터를 단 몇 초 만에 스마트폰으로 옮기거나 스마트 글래스의 데이터를 외부에서 처리해 더욱 향상된 AI 기능을...",
+          "src": "woodkorea",
+          "date": "11/06",
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92377",
+          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
         },
         {
-          "title": "신한증권, 보이스피싱 예방체계 강화",
-          "desc": "신한투자증권이 휴대전화 개통 이력까지 금융사기 탐지에 활용하며 보이스피싱 예방망을 한층 강화했다.... 위한 기술 도입도 추진한다. 2027년에는 고객과 사기범 간 통화패턴을 분석하는 '보이스피싱 통화패턴 AI 분석...",
-          "src": "파이낸셜뉴스",
-          "date": "11/05",
-          "url": "https://n.news.naver.com/mnews/article/014/0005600211?sid=101",
-          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+          "title": "스테이블코인 결제, 달러자산 수요 가능성…해맥은 규제 공백 지적",
+          "desc": "해맥은 기술적 활용 가능성과 금융기관 도입에 필요한 제도적 조건을 함께 짚었다. 스마트계약은 정해진 조건에 따라 코드가 자동으로 실행되는 방식이다. 에이전트형 업무 흐름은 AI가 이용자를 대신해 여러...",
+          "src": "tokenpost",
+          "date": "11/06",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/433423",
+          "img": "https://f1.tokenpost.kr/2026/11/pmj6q7k9nu_th_1600x900.webp"
         },
         {
-          "title": "우리은행 해외송금 심사에 AI 도입, 서류 분석부터 송금정보 입력까지 ...",
-          "desc": "우리은행이 인공지능(AI)을 활용해 해외송금 심사 업무의 효율성과 정확성을 높인다. 우리은행은 5일부터... 강엄필 우리은행 외환사업부장은 \"AI 기술 도입으로 외환 업무의 정확성과 내부통제 수준을 동시에 높일 수...",
-          "src": "비즈니스포스트",
-          "date": "11/05",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451307",
-          "img": ""
+          "title": "\"뇌전증 신약 대박 터졌다\"… SK바이오팜, 분기 영업익 첫 1000억 돌파",
+          "desc": "(AI)을 활용한 신약 발굴과 외부 협력도 이어간다. 인실리코 메디슨(Insilico Medicine)과 AI 기반 신약 발굴 공동연구를 진행하고 있으며, 퍼스트바이오테라퓨틱스(1ST Biotherapeutics)와는 파킨슨병 관련 기술도입 계약...",
+          "src": "woodkorea",
+          "date": "11/06",
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92375",
+          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자 제6노조 출범하나…초기업·동행 출신 인사 주도",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216846",
-      "img": "https://cdn.srtimes.kr/news/thumbnail/202611/216846_221949_4157_v150.jpg"
+      "title": "이마트, 쓱데이 마지막 주말 조개류 반값…온라인·아울렛은 겨울옷 할...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=753805",
+      "img": "https://www.newsprime.co.kr/data/photos/cdn/20261145/art_753805_1793840834.jpg"
     },
     {
-      "title": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9'",
+      "title": "확 달라진 '한경 프리미엄9'…'뜨는 종목' 가장 먼저 찾아준다",
       "url": "https://n.news.naver.com/mnews/article/015/0005350816?sid=101",
-      "img": "https://img.hankyung.com/photo/202611/AA.46323302.1.jpg"
+      "img": "https://img.hankyung.com/photo/202611/AA.46325921.1.jpg"
     },
     {
       "title": "하이마트 4년 만의 희망퇴직",
@@ -272,9 +272,9 @@ window.NEWS_DATA = {
       "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365784_300782_5319_v150.jpg"
     },
     {
-      "title": "이마트, 쓱데이 마지막 주말 총력전…먹거리부터 가전·완구까지",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212768",
-      "img": "http://www.thefirstmedia.net/news/thumbnail/202611/212768_196737_3119_v150.jpg"
+      "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071749",
+      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
     },
     {
       "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
