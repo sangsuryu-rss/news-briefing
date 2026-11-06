@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.06 (금) 15:52",
+  "updatedAt": "2026.11.07 (토) 00:56",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[노성열의 AI경제] AI 거품론을 돌파할 진정한 생산성 혁명은",
-          "desc": "AI 고대역폭메모리(HBM) 핵심 공급처인 삼성전자와 SK하이닉스 중심으로 대형주들이 폭락하며 지수 전체를... 자동차 공장에서 조립 공정 단계를 100개에서 70개로 줄이고 싶은지, 가전 마케팅팀에서 개인화된 무저항...",
+          "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
+          "desc": "LG전자 대형가전을 행사카드로 사면 구매 금액별로 최대 190만원의 신세계상품권을 준다. 삼성전자 TV 행사 상품을 사면 삼성전자 멤버십 포인트를 최대 35만점 추가로 적립해준다. 완구에서는 '닌텐도 스위치 OLED...",
+          "src": "newskr",
+          "date": "11/07",
+          "url": "http://www.newskr.kr/news/articleView.html?idxno=107784",
+          "img": "https://cdn.newskr.kr/news/thumbnail/202611/107784_97218_3213_v150.jpg"
+        },
+        {
+          "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
+          "desc": "TV, 냉장고, 세탁기 등 대형가전도 쓱데이 특가에 만나볼 수 있다. LG전자 대형가전은 행사카드 결제 시, 구매 금액별 최대 190만원 신세계상품권을 증정한다. 삼성전자 TV 행사 상품을 구매하면 최대 35만점 삼성전자...",
+          "src": "newsclaim",
+          "date": "11/07",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081771",
+          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202611/3081771_124282_1731_v150.jpg"
+        },
+        {
+          "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
+          "desc": "삼성전자 김치냉장고와 LG전자 김치냉장고, 쿠쿠 전기밥솥 등 주요 가전제품도 할인 및 캐시백 혜택을... OLED TV와 에어컨, 세탁건조기 등 주요 제품을 대상으로 추가 혜택을 마련했으며 TV와 사운드바, 냉장고 등을 함께...",
+          "src": "megaeconomy",
+          "date": "11/06",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
+        },
+        {
+          "title": "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
+          "desc": "시장에서는 로봇청소기 출하량 1위에 올랐다. ▲ 2022~2025년 LG전자 구독 사업 매출 추이. [자료= LG전자]... 지난 2024년부터 가전 구독사업을 시작한 삼성전자는 연매출 1조 원 달성을 앞두고 있다. 이달말까지 '삼성 AI...",
           "src": "kpinews",
           "date": "11/06",
-          "url": "https://www.kpinews.kr/newsView/1065594726250313",
-          "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065594726250313_831_thum.jpg"
-        },
-        {
-          "title": "냉장고도 온라인으로…가전시장 성장 이끈 온라인 쇼핑",
-          "desc": "삼성전자와 LG전자도 자체 온라인몰을 강화하며 변화에 대응하고 있다. 가전 매출 절반이 온라인... TV는 판매량 제자리인데 매출 10%↑…냉장고·건조기 희비 제품별 판매 실적도 엇갈렸다. TV 매출은 지난해...",
-          "src": "아이뉴스24",
-          "date": "11/06",
-          "url": "https://n.news.naver.com/mnews/article/031/0001072939?sid=101",
-          "img": "https://image.inews24.com/v1/53e73f63fbb4fc.jpg"
-        },
-        {
-          "title": "LG전자, 구글 ‘애즈 임팩트 어워즈’ 2개 부문 수상…“마케팅 성과 극...",
-          "desc": "로보락과 삼성전자가 장악하고 있는 로봇청소기 시장에서 신제품 출시 초기에 소비자 인식을 끌어올린 점이 이번 수상에서 평가받은 것으로 보인다. 오성택 LG전자 한국마케팅커뮤니케이션담당(상무)은 “LG전자의...",
-          "src": "동아일보",
-          "date": "11/06",
-          "url": "https://n.news.naver.com/mnews/article/020/0003760629?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134978639.2.png"
-        },
-        {
-          "title": "로봇청소기 1위 로보락의 판 흔들기…삼성·LG와 '구독 시장' 격돌",
-          "desc": "실제 지난 9월 주요 오프라인 유통 채널의 로봇청소기 매출을 합산한 결과 올해 초 각각 10% 초반대에 불과했던 삼성전자와 LG전자의 로봇청소기 합산 점유율이 최근 50%에 육박한 것으로 집계됐다. 국내 주거환경에...",
-          "src": "F투데이",
-          "date": "11/06",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369013",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/369013_379067_5030_v150.jpg"
+          "url": "https://www.kpinews.kr/newsView/1065598044863292",
+          "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065598044863292_140_thum.jpg"
         }
       ]
     },
@@ -197,12 +197,12 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "코스피 장중 폭락에도 10종목 20% 이상 상승…덕성·한진칼우 강세",
-          "desc": "자동차용 전선과 와이어링하네스 등 전장부품을 생산하는 에코캡은 전날 29.87% 급등한 데 이어 이날도 두 자릿수 상승률을 기록했다. 거래대금은 약 69억원이다. 19위 혜인은 14.33% 오른 8천60원을 기록했다....",
-          "src": "kjdaily",
-          "date": "11/06",
-          "url": "http://www.kjdaily.com/article.php?aid=1793937971691480276",
-          "img": ""
+          "title": "[中 거인의 공급망] ①커넥터부터 전장까지 '럭스쉐어' 없으면 '화웨이...",
+          "desc": "커넥터와 통신부품에서 시작된 양사의 접점은 소비전자와 자동차 전장으로 영역을 넓혀왔으며... 자동차 와이어링 하네스·커넥터·스마트 콕핏·스마트 주행, 기업용 통신의 고속 인터커넥트·광모듈·열관리·전원...",
+          "src": "뉴스핌",
+          "date": "10/07",
+          "url": "https://www.newspim.com/news/view/20261006001251",
+          "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
         },
         {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[디엘지 law 인사이트] AI가 일하기 시작...책임은 누가 어떻게 지나",
-          "desc": "AI를 도입하며, 고객 상담과 상품 추천에도 AI를 활용하고 있다. 최근에는 여기서 한 단계 더 나아가고 있다.... AX 과정에서의 법률 검토는 기술혁신에 브레이크를 거는 일이 아니라, 기업이 AI에게 더 많은 일을 안전하게...",
-          "src": "ZDNet코리아",
-          "date": "11/06",
-          "url": "https://n.news.naver.com/mnews/article/092/0002444245?sid=110",
-          "img": "https://image.zdnet.co.kr/2025/05/01/348e62bf974dd522b25f9481a16ae8ad.png"
+          "title": "인간 빠진 피지컬 AI 시대, 안전의 정의는?... 한국정보처리학회, 연례 ...",
+          "desc": "학술대회에서 '피지컬 AI의 보안'(Securing Physical AI)를 주제로 기조발표에 나서 \"AI 기반 시스템이 도입되면... 이현우 KENTECH 교수, 김태욱 한양대 교수, 유영재 서울대 교수가 AI 실전 활용에 대한 실습을 적용한...",
+          "src": "boannews",
+          "date": "11/07",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147076",
+          "img": "https://cdn.boannews.com/news/photo/202611/147076_129785_710.jpg"
         },
         {
-          "title": "서울대학교 동물병원 전자차트 교체..‘플러스벳’ 도입",
-          "desc": "서울대동물병원의 수의학적 전문성 및 연구 경험과 벳칭의 EMR 기술, 데이터 분석 역량을 바탕으로 연구 방향을 정할 예정이다.특히, 양 기관은 EMR 데이터의 표준화·활용 가능성 연구와 AI·임상 의사결정지원 등 동물병원...",
-          "src": "dailyvet",
-          "date": "11/06",
-          "url": "https://www.dailyvet.co.kr/news/industry/303402",
-          "img": "https://cdn.dailyvet.co.kr/wp-content/uploads/2026/11/07003517/20261104plusvet_vetching_snu.jpg"
+          "title": "[시사천국] 환대와 적대 사이…AI 시대에 인간의 자리를 묻다",
+          "desc": "그러니까 맥도날드가 기계를 키오스크를 도입한 이유는 일단 인건비를 절감하고 그 다음에 주문의 실수도... 우리는 AI 이미지를 활용한 메뉴판을 사용하지 않습니다. 오로지 손글씨와 손그림으로만 메뉴판을 제작합니다....",
+          "src": "news",
+          "date": "11/07",
+          "url": "https://news.cpbc.co.kr/article/1176865?division=NAVER",
+          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/11/06/VZh1793972960276.jpg"
         },
         {
-          "title": "[사이언스8] 슈퍼컴퓨터 '한강', 우리 삶을 어떻게 바꿀까?｜이식 KISTI ...",
-          "desc": "AI 연구를 하고 있고 그것을 어떤 제품을 만들고 있기 때문에 그러한 측면에서 저희가 기여가 클 거라고 생각하고 있습니다.\" 대덕연구개발특구가 있는 대전에는 다양한 기술 기업들이 모여 있습니다. 슈퍼컴퓨터를 활용...",
-          "src": "tjb",
-          "date": "11/06",
-          "url": "https://www.tjb.co.kr/news05/bodo/view/id/105777",
-          "img": ""
+          "title": "AI 쓰나미, 호실적에도 자른다…MS, 올해만 세 번째 감원",
+          "desc": "“기업에서 AI를 활용해 기존 2~3인의 업무를 1인이 담당하도록 배정하는 구조 재편이 일어나고 있다”고... 한국개발연구원(KDI)은 지난 7월 보고서에서 AI 도입 증가 및 생성형 AI 등의 기술 발전으로 10년 후 국내...",
+          "src": "중앙일보",
+          "date": "11/07",
+          "url": "https://n.news.naver.com/mnews/article/353/0000057129?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202611/07/6f6f05f0-d71e-4cf5-89ec-a268a1af0909.jpg"
         },
         {
-          "title": "대전시교육청, 충남대와 손잡고 4대 과제 중심 대전형 AI 미래교육 포럼...",
-          "desc": "AI시대, 우리는 무엇을 가르치고 어떻게 배우게 할 것인가'라는 화두를 던지며, 인공지능 기술이 인간... 특히 기초학력을 탄탄히 보장하는 AI 기초학력 책임제 도입을 필두로 학생 한 명마다 디지털 학습 파트너를...",
-          "src": "newsworker",
+          "title": "SK네트웍스, 3분기 영업익 201억원 … 전사 AI 전환·사업 체질 개선 속...",
+          "desc": "업스테이지와 피닉스랩 등 투자기업의 기술 역량을 기존 사업과 연결하고, 내부적으로는 임직원의 AI 활용 능력과 업무 프로세스를 개선해 사업 전반의 경쟁력을 높이겠다는 것이다. 특히 AI 기술 도입이 기업의 비용...",
+          "src": "worktoday",
           "date": "11/06",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512749",
-          "img": "https://cdn.newsworker.co.kr/news/photo/202611/512749_517298_4831.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91633",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91633_131881_3610_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[노성열의 AI경제] AI 거품론을 돌파할 진정한 생산성 혁명은",
-      "url": "https://www.kpinews.kr/newsView/1065594726250313",
-      "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065594726250313_831_thum.jpg"
+      "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=107784",
+      "img": "https://cdn.newskr.kr/news/thumbnail/202611/107784_97218_3213_v150.jpg"
     },
     {
-      "title": "냉장고도 온라인으로…가전시장 성장 이끈 온라인 쇼핑",
-      "url": "https://n.news.naver.com/mnews/article/031/0001072939?sid=101",
-      "img": "https://image.inews24.com/v1/53e73f63fbb4fc.jpg"
+      "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081771",
+      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202611/3081771_124282_1731_v150.jpg"
     },
     {
-      "title": "LG전자, 구글 ‘애즈 임팩트 어워즈’ 2개 부문 수상…“마케팅 성과 극...",
-      "url": "https://n.news.naver.com/mnews/article/020/0003760629?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134978639.2.png"
+      "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
+      "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
     },
     {
-      "title": "로봇청소기 1위 로보락의 판 흔들기…삼성·LG와 '구독 시장' 격돌",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369013",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/369013_379067_5030_v150.jpg"
+      "title": "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
+      "url": "https://www.kpinews.kr/newsView/1065598044863292",
+      "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065598044863292_140_thum.jpg"
     },
     {
       "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
