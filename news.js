@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.07 (토) 00:56",
+  "updatedAt": "2026.11.07 (토) 06:31",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
-          "desc": "LG전자 대형가전을 행사카드로 사면 구매 금액별로 최대 190만원의 신세계상품권을 준다. 삼성전자 TV 행사 상품을 사면 삼성전자 멤버십 포인트를 최대 35만점 추가로 적립해준다. 완구에서는 '닌텐도 스위치 OLED...",
-          "src": "newskr",
+          "title": "[이상현의 전자수첩] 美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대...",
+          "desc": "반도체부터 다양한 가전 신제품, 전자 산업 현장에서 보고 듣고 느낀 이야기들을 수첩에 옮기듯 기록하는... 삼성전자와 SK하이닉스 주가 역시 외국인 매도세가 집중되며 변동성이 커졌다. AI 데이터센터 투자가 메모리...",
+          "src": "디지털타임스",
           "date": "11/07",
-          "url": "http://www.newskr.kr/news/articleView.html?idxno=107784",
-          "img": "https://cdn.newskr.kr/news/thumbnail/202611/107784_97218_3213_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/029/0003057592?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/11/05/news-p.v1.20261105.b2328f95acf74b48b56e1d1cda08e246_R.jpg"
         },
         {
           "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "인간 빠진 피지컬 AI 시대, 안전의 정의는?... 한국정보처리학회, 연례 ...",
-          "desc": "학술대회에서 '피지컬 AI의 보안'(Securing Physical AI)를 주제로 기조발표에 나서 \"AI 기반 시스템이 도입되면... 이현우 KENTECH 교수, 김태욱 한양대 교수, 유영재 서울대 교수가 AI 실전 활용에 대한 실습을 적용한...",
-          "src": "boannews",
+          "title": "FAO, 바이오에너지 부산물 활용 논의…품질·인증이 관건",
+          "desc": "이번 발표는 활용 가능성과 도입 조건을 논의한 내용으로, 개별 제품의 감축량이나 농가 수익을 보장하는 결과는 아니다. 바이오에너지 부산물의 농업 활용을 표현한 AI 생성 이미지. 실제 시설이나 행사 현장 사진이...",
+          "src": "vegannews",
           "date": "11/07",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147076",
-          "img": "https://cdn.boannews.com/news/photo/202611/147076_129785_710.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=401505",
+          "img": "https://www.vegannews.co.kr/data/photos/20261145/art_1793999342445_aecbd8.jpg"
         },
         {
-          "title": "[시사천국] 환대와 적대 사이…AI 시대에 인간의 자리를 묻다",
-          "desc": "그러니까 맥도날드가 기계를 키오스크를 도입한 이유는 일단 인건비를 절감하고 그 다음에 주문의 실수도... 우리는 AI 이미지를 활용한 메뉴판을 사용하지 않습니다. 오로지 손글씨와 손그림으로만 메뉴판을 제작합니다....",
-          "src": "news",
+          "title": "건강보험 신속등재 문 열리고 품목허가 비용은 오르고",
+          "desc": "삼성바이오로직스 노사 갈등과 국내 제약사들의 실적 및 기술수출 소식도 있었습니다. 이번 주 히트뉴스... 이현숙 서울대 교수는 부처별로 흩어진 데이터를 연결하고 AI가 활용할 수 있는 고품질 연구데이터를...",
+          "src": "hitnews",
           "date": "11/07",
-          "url": "https://news.cpbc.co.kr/article/1176865?division=NAVER",
-          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/11/06/VZh1793972960276.jpg"
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80588",
+          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202611/80588_109861_2616_v150.jpg"
         },
         {
-          "title": "AI 쓰나미, 호실적에도 자른다…MS, 올해만 세 번째 감원",
-          "desc": "“기업에서 AI를 활용해 기존 2~3인의 업무를 1인이 담당하도록 배정하는 구조 재편이 일어나고 있다”고... 한국개발연구원(KDI)은 지난 7월 보고서에서 AI 도입 증가 및 생성형 AI 등의 기술 발전으로 10년 후 국내...",
-          "src": "중앙일보",
+          "title": "'AIDC 규제' 美민주당 양원 장악 …삼성·SK 실제 영향은 얼마나",
+          "desc": "청정에너지를 활용한 데이터센터 건설은 지원하겠다는 방침도 함께 제시했다. 지난 9월 상원 표결에서는... 이는 엔비디아 등의 AI 가속기 도입 속도를 늦춰 고대역폭메모리(HBM)와 서버용 D램, 기업용...",
+          "src": "nocutnews",
           "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/353/0000057129?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202611/07/6f6f05f0-d71e-4cf5-89ec-a268a1af0909.jpg"
+          "url": "https://n.news.naver.com/mnews/article/079/0004207439?sid=101",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/06/202611061716321374_0.jpg"
         },
         {
-          "title": "SK네트웍스, 3분기 영업익 201억원 … 전사 AI 전환·사업 체질 개선 속...",
-          "desc": "업스테이지와 피닉스랩 등 투자기업의 기술 역량을 기존 사업과 연결하고, 내부적으로는 임직원의 AI 활용 능력과 업무 프로세스를 개선해 사업 전반의 경쟁력을 높이겠다는 것이다. 특히 AI 기술 도입이 기업의 비용...",
-          "src": "worktoday",
-          "date": "11/06",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91633",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91633_131881_3610_v150.jpg"
+          "title": "강도형 전 장관 “바다는 KTX, 제도는 무궁화호…수산 체질 전면 바꿔야...",
+          "desc": "장관직에서 물러나 한국해양과학기술원(KIOST) 제주연구소 연구원으로 복귀한 강 전 장관은 데일리안과의... 특히 고수온 피해와 어종 변화에 대응하기 위해 기존 조업 규제를 유연하게 개편하고, 인공지능(AI)을 활용한...",
+          "src": "데일리안",
+          "date": "11/07",
+          "url": "https://n.news.naver.com/mnews/article/119/0003152391?sid=101",
+          "img": "https://cdnimage.dailian.co.kr/news/202611/news_1793976241873_1712018_m_1.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
-      "url": "http://www.newskr.kr/news/articleView.html?idxno=107784",
-      "img": "https://cdn.newskr.kr/news/thumbnail/202611/107784_97218_3213_v150.jpg"
+      "title": "[이상현의 전자수첩] 美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057592?sid=101",
+      "img": "https://wimg.dt.co.kr/news/cms/2026/11/05/news-p.v1.20261105.b2328f95acf74b48b56e1d1cda08e246_R.jpg"
     },
     {
       "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
