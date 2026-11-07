@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.07 (토) 06:31",
+  "updatedAt": "2026.11.07 (토) 10:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[이상현의 전자수첩] 美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대...",
-          "desc": "반도체부터 다양한 가전 신제품, 전자 산업 현장에서 보고 듣고 느낀 이야기들을 수첩에 옮기듯 기록하는... 삼성전자와 SK하이닉스 주가 역시 외국인 매도세가 집중되며 변동성이 커졌다. AI 데이터센터 투자가 메모리...",
-          "src": "디지털타임스",
+          "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
+          "desc": "삼성전자에서 DX는 Device eXperience(디바이스 경험)의 약자로 쉽게 말하면 완제품(갤럭시 스마트폰, TV, 냉장고, 세탁기, 생활가전 등). DS는 Device Solutions(디바이스 솔루션)의 약자로 메모리, HBM, 파운드리 사업부다. 삼성전자...",
+          "src": "lawleader",
           "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/029/0003057592?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/11/05/news-p.v1.20261105.b2328f95acf74b48b56e1d1cda08e246_R.jpg"
+          "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
+          "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
         },
         {
-          "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
-          "desc": "TV, 냉장고, 세탁기 등 대형가전도 쓱데이 특가에 만나볼 수 있다. LG전자 대형가전은 행사카드 결제 시, 구매 금액별 최대 190만원 신세계상품권을 증정한다. 삼성전자 TV 행사 상품을 구매하면 최대 35만점 삼성전자...",
-          "src": "newsclaim",
+          "title": "유통업계, 블랙프라이데이 맞이 대규모 할인전 공세",
+          "desc": "삼성전자와 LG전자 김치냉장고, 쿠쿠 전기밥솥 등 주요 가전제품을 특가에 선보이며, 캐시백과 즉시 할인 혜택을 더했다. 이사·혼수 고객을 겨냥한 'LG 연말결산 페스타'에서는 다품목 동시 구매 시 최대 600만원 할인...",
+          "src": "ekn",
           "date": "11/07",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081771",
-          "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202611/3081771_124282_1731_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261107026546664",
+          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261107.f84e6a7acf6a407d9ee9ef60a8762f2e_R.png"
+        },
+        {
+          "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
+          "desc": "이번 행사에는 삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당 등 주요 브랜드가 참여한다. 식품과... 드리미 로봇청소기 200대와 삼성 갤럭시북 50대 등 주요 가전제품은 준비된 수량이 모두 판매됐다. 지난 1~3일 국내...",
+          "src": "thebigdata",
+          "date": "11/07",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026110615171552570a47484cf8_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611061523410912300a47484cf82192501880.jpg&nmt=23"
         },
         {
           "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/06",
           "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
           "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
-        },
-        {
-          "title": "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
-          "desc": "시장에서는 로봇청소기 출하량 1위에 올랐다. ▲ 2022~2025년 LG전자 구독 사업 매출 추이. [자료= LG전자]... 지난 2024년부터 가전 구독사업을 시작한 삼성전자는 연매출 1조 원 달성을 앞두고 있다. 이달말까지 '삼성 AI...",
-          "src": "kpinews",
-          "date": "11/06",
-          "url": "https://www.kpinews.kr/newsView/1065598044863292",
-          "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065598044863292_140_thum.jpg"
         }
       ]
     },
@@ -197,20 +197,20 @@ window.NEWS_DATA = {
           "img": ""
         },
         {
-          "title": "[中 거인의 공급망] ①커넥터부터 전장까지 '럭스쉐어' 없으면 '화웨이...",
-          "desc": "커넥터와 통신부품에서 시작된 양사의 접점은 소비전자와 자동차 전장으로 영역을 넓혀왔으며... 자동차 와이어링 하네스·커넥터·스마트 콕핏·스마트 주행, 기업용 통신의 고속 인터커넥트·광모듈·열관리·전원...",
-          "src": "뉴스핌",
-          "date": "10/07",
-          "url": "https://www.newspim.com/news/view/20261006001251",
-          "img": "https://img.newspim.com/news/2026/10/06/2610060423196510_998_tc.jpg"
-        },
-        {
           "title": "SDV에 달라지는 車 전자부품…ECU 줄이고 기능은 집적",
           "desc": "자동차 전장 회로보드. (사진: 김병주 기자) 조널 구조 양산 적용…배선 길이·무게 줄여 BMW는 차세대 차량 '노이에 클라쎄'에 조널 구조를 적용했다. 와이어링 하네스를 전면·중앙·후면·루프 등 4개 구역으로 나누고...",
           "src": "IT데일리",
           "date": "10/15",
           "url": "https://www.itdaily.kr/news/articleView.html?idxno=242217",
           "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242217_248171_1153_v150.jpg"
+        },
+        {
+          "title": "코스피 장중 폭락에도 10종목 20% 이상 상승…덕성·한진칼우 강세",
+          "desc": "자동차용 전선과 와이어링하네스 등 전장부품을 생산하는 에코캡은 전날 29.87% 급등한 데 이어 이날도 두 자릿수 상승률을 기록했다. 거래대금은 약 69억원이다. 19위 혜인은 14.33% 오른 8천60원을 기록했다....",
+          "src": "kjdaily",
+          "date": "11/06",
+          "url": "http://www.kjdaily.com/article.php?aid=1793937971691480276",
+          "img": ""
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "FAO, 바이오에너지 부산물 활용 논의…품질·인증이 관건",
-          "desc": "이번 발표는 활용 가능성과 도입 조건을 논의한 내용으로, 개별 제품의 감축량이나 농가 수익을 보장하는 결과는 아니다. 바이오에너지 부산물의 농업 활용을 표현한 AI 생성 이미지. 실제 시설이나 행사 현장 사진이...",
-          "src": "vegannews",
+          "title": "제조업종 32% \"AI 효과 불확실\"···IT업계 2배",
+          "desc": "제조기업들이 AI 도입을 검토할 때 이제는 도입할 것인가보다 어디에 적용해 어떤 성과를 만들 것인가를 고민해야 할 시점\"이라며 \"IT 장애 예방, 반복 업무 자동화 등 명확한 활용 사례에서 시작해 성과를 확인하고...",
+          "src": "sisajournal-e",
           "date": "11/07",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=401505",
-          "img": "https://www.vegannews.co.kr/data/photos/20261145/art_1793999342445_aecbd8.jpg"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424866",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424866_241939_5511_v150.jpg"
         },
         {
-          "title": "건강보험 신속등재 문 열리고 품목허가 비용은 오르고",
-          "desc": "삼성바이오로직스 노사 갈등과 국내 제약사들의 실적 및 기술수출 소식도 있었습니다. 이번 주 히트뉴스... 이현숙 서울대 교수는 부처별로 흩어진 데이터를 연결하고 AI가 활용할 수 있는 고품질 연구데이터를...",
-          "src": "hitnews",
+          "title": "한국금융연구원, AI 금융서비스 확산에 소비자보호 체계 개편 필요성 제...",
+          "desc": "대상 AI 활용 사실 고지, 공정한 대우 원칙 강화, 성과 중심 감독 체계 도입 등을 검토할 필요가 있다고... 연구진은 기술 발전 자체보다 금융소비자가 신뢰할 수 있는 환경을 조성하는 것이 AI 기반 금융혁신의 지속...",
+          "src": "lawissue",
           "date": "11/07",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80588",
-          "img": "https://cdn.hitnews.co.kr/news/thumbnail/202611/80588_109861_2616_v150.jpg"
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611071047036135204ead0791_12",
+          "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
         },
         {
-          "title": "'AIDC 규제' 美민주당 양원 장악 …삼성·SK 실제 영향은 얼마나",
-          "desc": "청정에너지를 활용한 데이터센터 건설은 지원하겠다는 방침도 함께 제시했다. 지난 9월 상원 표결에서는... 이는 엔비디아 등의 AI 가속기 도입 속도를 늦춰 고대역폭메모리(HBM)와 서버용 D램, 기업용...",
-          "src": "nocutnews",
+          "title": "챗GPT로 일 더 잘했는데…상사 신뢰는 24%로 뚝 떨어졌다",
+          "desc": "현장 연구에서는 대학원생의 AI 활용 비중이 높을수록 지도 교수의 신뢰도가 낮아지는 경향이 나타났다.... 조직은 AI 도입이 기술적 과제인 동시에 심리적·관리적 과제임을 인식해야 한다\"고 밝혔다. 모든 연구는...",
+          "src": "imaeil",
           "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/079/0004207439?sid=101",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/06/202611061716321374_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/088/0001038923?sid=103",
+          "img": "https://www.imaeil.com/photos/2026/11/07/2026110710431556791_l.jpg"
         },
         {
-          "title": "강도형 전 장관 “바다는 KTX, 제도는 무궁화호…수산 체질 전면 바꿔야...",
-          "desc": "장관직에서 물러나 한국해양과학기술원(KIOST) 제주연구소 연구원으로 복귀한 강 전 장관은 데일리안과의... 특히 고수온 피해와 어종 변화에 대응하기 위해 기존 조업 규제를 유연하게 개편하고, 인공지능(AI)을 활용한...",
-          "src": "데일리안",
+          "title": "제주도·도의회, 5극3특 성장엔진 국비 500억 원 확보 총력",
+          "desc": "성장산업의 기술개발과 기반시설 구축, 인재양성을 지원하는 지역자율형 연구개발 사업이다. 제주 바이오센터에 구축되는 0.3MW급 AI 데이터센터를 활용해 재생에너지와 인공지능 산업을 연계하는 제주권 AX 실증사업에...",
+          "src": "newsjeju",
           "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/119/0003152391?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202611/news_1793976241873_1712018_m_1.jpg"
+          "url": "https://www.newsjeju.net/news/articleView.html?idxno=428076",
+          "img": "https://cdn.newsjeju.net/news/thumbnail/202611/428076_532910_2255_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[이상현의 전자수첩] 美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대...",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057592?sid=101",
-      "img": "https://wimg.dt.co.kr/news/cms/2026/11/05/news-p.v1.20261105.b2328f95acf74b48b56e1d1cda08e246_R.jpg"
+      "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
+      "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
+      "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
     },
     {
-      "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081771",
-      "img": "https://cdn.newsclaim.co.kr/news/thumbnail/202611/3081771_124282_1731_v150.jpg"
+      "title": "유통업계, 블랙프라이데이 맞이 대규모 할인전 공세",
+      "url": "https://www.ekn.kr/web/view.php?key=20261107026546664",
+      "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261107.f84e6a7acf6a407d9ee9ef60a8762f2e_R.png"
+    },
+    {
+      "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=2026110615171552570a47484cf8_23",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611061523410912300a47484cf82192501880.jpg&nmt=23"
     },
     {
       "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
       "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
-    },
-    {
-      "title": "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
-      "url": "https://www.kpinews.kr/newsView/1065598044863292",
-      "img": "https://kpinews.kr/data/upi/image/2026/11/06/p1065598044863292_140_thum.jpg"
     },
     {
       "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
