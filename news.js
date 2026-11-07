@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.07 (토) 17:49",
+  "updatedAt": "2026.11.08 (일) 01:28",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "이마트, 쓱데이 마지막 주말… 신세계스퀘어, 크리스마스 영상 내년 1월...",
-          "desc": "LG전자 대형가전은 행사카드 결제 금액에 따라 최대 190만원의 신세계상품권을 증정하고 일부 상품에 최대 12% 추가 혜택을 제공한다. 삼성전자 TV 행사 상품은 최대 35만점의 멤버십 포인트를 추가 적립하며, 닌텐도...",
-          "src": "webeconomy",
-          "date": "11/07",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2365550",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2365550_1176151_1827.jpg"
+          "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽'",
+          "desc": "외국인 SK 5261억 순매수…반도체 집중 매도 기관 삼성전자 7447억 매수…SK도 4355억 담아 개인 삼성전자... 외국인의 매도세가 반도체뿐 아니라 IT하드웨어와 IT가전 관련 종목으로 확산한 셈이다. 실제 같은 기간...",
+          "src": "news2day",
+          "date": "11/08",
+          "url": "https://www.news2day.co.kr/article/20261107500004",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/07/.cache/512/20261107500001.png"
         },
         {
           "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "\"경쟁 치열한 배터리…검증 등은 한중 협력 가능\"",
+          "desc": "김 교수는 한중 기업 간 협력시 사전에 준비가 필요하다며 \"중국 협력사가 어떤 부분을 협력해주면 좋겠는지... 이번 수입박람회에는 삼성전자 등 대기업뿐만 아니라 중소기업 등 한국 기업 210곳 정도가 참가했으며...",
+          "src": "연합뉴스",
+          "date": "11/07",
+          "url": "https://n.news.naver.com/mnews/article/001/0016428361?sid=104",
+          "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/07/AKR20261107051400089_01_i_P4.jpg"
+        },
+        {
           "title": "반복 작업은 정확, 스스로 판단은 아직…휴머노이드 현장 투입 ‘시작 ...",
           "desc": "● 레인보우로보틱스, 공장용 ‘RB-Y2’ 개발…이족보행보다 바퀴형에 주목 삼성전자 자회사... ● 뉴로메카, 자동차 부품 공장서 양손 조립 실증…하네스 작업은 아직 뉴로메카는 대구 지역 현대자동차 1차 협력사의 제조...",
           "src": "동아일보",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/06",
           "url": "https://www.thelec.kr/news/articleView.html?idxno=64923",
           "img": "https://cdn.thelec.kr/news/photo/202611/64923_51185_5356.png"
-        },
-        {
-          "title": "삼성·SK 반도체 벨트 한가운데 '안성테크노밸리'… 이달 말 준공식 개최...",
-          "desc": "반도체 산업 특성상 대형 팹이 구축되면 장비·소재·부품 협력사와 유지보수 인력이 인근으로 집적된다.... 삼성전자와 SK하이닉스의 반도체 장비 협력사인 코스닥 상장사 씨앤지하이테크는 지난 3월 착공식을 열고 약...",
-          "src": "ikld",
-          "date": "11/06",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=343512",
-          "img": "http://www.ikld.kr/news/thumbnail/202611/343512_190716_4853_v150.jpg"
         }
       ]
     },
@@ -205,12 +205,12 @@ window.NEWS_DATA = {
           "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242217_248171_1153_v150.jpg"
         },
         {
-          "title": "코스피 장중 폭락에도 10종목 20% 이상 상승…덕성·한진칼우 강세",
-          "desc": "자동차용 전선과 와이어링하네스 등 전장부품을 생산하는 에코캡은 전날 29.87% 급등한 데 이어 이날도 두 자릿수 상승률을 기록했다. 거래대금은 약 69억원이다. 19위 혜인은 14.33% 오른 8천60원을 기록했다....",
-          "src": "kjdaily",
-          "date": "11/06",
-          "url": "http://www.kjdaily.com/article.php?aid=1793937971691480276",
-          "img": ""
+          "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
+          "desc": "원천 재료 배합과 세라믹 칩 제조 역량을 바탕으로 ▲온도 센서 ▲전장용 와이어링 하네스 ▲전압·온도 복합 감지 모듈 ▲박막형 필름히터(Film Heater) 등으로 제품군을 단계적으로 확장해 왔다. 이러한 소자 제조...",
+          "src": "digitalchosun",
+          "date": "09/11",
+          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180166.html",
+          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
-          "desc": "작업을 활용해 모델을 학습했다. 기존에는 작성한 코드가 테스트를 통과했는지에 집중했다면... 무라티 CEO는 오픈AI 최고기술책임자(CTO)를 지낸 뒤 지난해 회사를 설립했으며, 기업과 개발자가 자신의...",
-          "src": "AI타임스",
-          "date": "11/07",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
-          "img": "https://cdn.aitimes.com/news/photo/202611/217132_221331_4039.jpeg"
+          "title": "디즈니 캐릭터가 주차 안내?…주차장에 로봇 도입 가능성 검토",
+          "desc": "로봇 도입 가능성을 검토하고 있다. 주차 안내뿐 아니라 놀이기구용 3D 안경 정리 등 직원들의 백스테이지 업무를 돕는 로봇 활용도 함께 시험 중이다. 디즈니는 이번 주 열린 ‘Disney Accelerator Demo Day 2026’에서 AI 로봇...",
+          "src": "koreadaily",
+          "date": "11/08",
+          "url": "https://www.koreadaily.com/article/20261107080031018",
+          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/11/06/6a965e21-4ba5-418a-bd1a-c13f2e810fa3.jpg"
         },
         {
-          "title": "인성디지털, AIS 2026서 소나타입 공급망 보안 플랫폼 소개…AI 코딩 단...",
-          "desc": "한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.... AI를 활용한 소프트웨어 개발에서도 컴포넌트 선택과 사용 이력을 관리하고, 개발 전 과정에 보안 통제를...",
-          "src": "dailysecu",
+          "title": "로보월드 2026이 던진 질문…피지컬 AI·휴머노이드 시대, 로봇기업 보도...",
+          "desc": "생성형 AI와 AI 검색 서비스가 기업과 기술을 설명하는 시대에는 회사 홈페이지에 적힌 자기소개 문구만으로 기업의 위치가 결정되지 않는다. 언론기사와 고객사의 발표, 정부와 공공기관의 사업자료, 논문, 실제 도입...",
+          "src": "고코리아",
           "date": "11/07",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209377",
-          "img": "https://cdn.dailysecu.com/news/photo/202611/209377_210414_1716.jpg"
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884577",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884577_162140_1237_v150.jpg"
         },
         {
-          "title": "앤트로픽 상장 전부터 옵션 거래 열린다…하이퍼콜, 24시간 시장 개설 ...",
-          "desc": "비상장 기술기업을 둘러싼 투자 방식에도 변화가 나타나고 있다. 가상자산 전문매체 더블록(The Block)은 6일... market」 [AI의 조력이 일부 활용됐다. 특정 종목의 매수 또는 매도를 권유하지 않으며 투자 판단과 책임은...",
-          "src": "cbci",
+          "title": "aT·한전, AI 기반 업무혁신 위해 손잡았다… 청년 직원들 '나주 맞손'",
+          "desc": "이날 참석자들은 사내 AI 시스템 도입 현황과 실제 활용 사례, 'AI 혁신 챌린지' 참여 경험 등 최신 기술 트렌드를 업무에 적용한 경험을 집중적으로 다뤘다. 특히 본사와 지사 간 순환근무 과정에서 발생하는 업무 인수인계...",
+          "src": "ccnnews",
           "date": "11/07",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624394",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202611/624394_429096_256_v150.jpg"
+          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417401",
+          "img": "http://www.ccnnews.co.kr/news/thumbnail/202611/417401_523260_5730_v150.jpg"
         },
         {
-          "title": "엑소스피어랩스, AIS 2026서 백신·DLP 통합 보안 서비스 '엑소스피어' ...",
-          "desc": "한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.... 기업이 업무에 AI 서비스를 활용하면서도 데이터 취급 기준에 따라 접속과 반출을 관리할 수 있도록 지원한다....",
-          "src": "dailysecu",
+          "title": "중앙대, 베트남 AI 연구소와 SW저작권 보호 협력",
+          "desc": "기술개발, 전문인력 양성 등에 협력하기로 했다. 특히 생성형 AI 확산에 따른 소스코드 무단 활용과 SW 복제... 부합하는 기술적 보호 수단과 SW저작권 보호 기술의 도입 가능성을 살폈다. 이와 함께 한국저작권보호원...",
+          "src": "pointdaily",
           "date": "11/07",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209376",
-          "img": "https://cdn.dailysecu.com/news/photo/202611/209376_210411_1251.jpg"
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325167",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325167_322193_210_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "이마트, 쓱데이 마지막 주말… 신세계스퀘어, 크리스마스 영상 내년 1월...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2365550",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2365550_1176151_1827.jpg"
+      "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽'",
+      "url": "https://www.news2day.co.kr/article/20261107500004",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/07/.cache/512/20261107500001.png"
     },
     {
       "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
