@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.08 (일) 01:28",
+  "updatedAt": "2026.11.08 (일) 06:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽'",
-          "desc": "외국인 SK 5261억 순매수…반도체 집중 매도 기관 삼성전자 7447억 매수…SK도 4355억 담아 개인 삼성전자... 외국인의 매도세가 반도체뿐 아니라 IT하드웨어와 IT가전 관련 종목으로 확산한 셈이다. 실제 같은 기간...",
-          "src": "news2day",
+          "title": "[단독] 삼성 TV, 18개월 만에 화면 두 번 먹통…인도 소비자 \"수리비만 ...",
+          "desc": "인도 프리미엄 가전 시장에서 브랜드 신뢰도를 앞세워 온 삼성전자의 품질 관리와 부품 재보증 정책을 둘러싸고 현지 소비자들의 이목이 쏠리고 있다. 7일(현지시간) 인도 현지 IT 및 소비자 전문 매체 보도에 따르면...",
+          "src": "the-today",
           "date": "11/08",
-          "url": "https://www.news2day.co.kr/article/20261107500004",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/07/.cache/512/20261107500001.png"
+          "url": "https://www.the-today.com/news/articleView.html?idxno=93259",
+          "img": "https://cdn.the-today.com/news/photo/202611/93259_114778_5753.png"
         },
         {
           "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "49경 원 빚더미 삼킨 세계 시장… 반도체 호황 흔드는 채권 뇌관",
+          "desc": "배런스는 외국인 매도세와 더불어 한국 개인 투자자들의 SK하이닉스 및 삼성전자 단일 종목 레버리지 상품... 이는 국내 소재·부품·장비 협력사의 수주 잔고에도 순차적인 부담을 안길 수 있다. 국채 금리가 높은...",
+          "src": "g-enews",
+          "date": "11/08",
+          "url": "https://www.g-enews.com/view.php?ud=202611071723104729fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110717255801948fbbec65dfb211211153121.jpg"
+        },
+        {
           "title": "\"경쟁 치열한 배터리…검증 등은 한중 협력 가능\"",
           "desc": "김 교수는 한중 기업 간 협력시 사전에 준비가 필요하다며 \"중국 협력사가 어떤 부분을 협력해주면 좋겠는지... 이번 수입박람회에는 삼성전자 등 대기업뿐만 아니라 중소기업 등 한국 기업 210곳 정도가 참가했으며...",
           "src": "연합뉴스",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/06",
           "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325072",
           "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325072_322097_4119_v150.jpg"
-        },
-        {
-          "title": "[기자수첩] 329만원짜리 '뽑기'",
-          "desc": "그런데 협력사가 자기 부품에는 문제가 없다고 해명한 것마저 문제 삼았다. 취재 현장에서 만나는 사람마다... 삼성전자도 2019년 첫 갤럭시 폴드에서 화면 결함을 겪었다. 출시를 연기했고, 화면 보호막을 늘리고 힌지를...",
-          "src": "thelec",
-          "date": "11/06",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=64923",
-          "img": "https://cdn.thelec.kr/news/photo/202611/64923_51185_5356.png"
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "디즈니 캐릭터가 주차 안내?…주차장에 로봇 도입 가능성 검토",
-          "desc": "로봇 도입 가능성을 검토하고 있다. 주차 안내뿐 아니라 놀이기구용 3D 안경 정리 등 직원들의 백스테이지 업무를 돕는 로봇 활용도 함께 시험 중이다. 디즈니는 이번 주 열린 ‘Disney Accelerator Demo Day 2026’에서 AI 로봇...",
-          "src": "koreadaily",
+          "title": "AI가 여성 일자리 뺏는다...교육·보건 분야 취약",
+          "desc": "통신회사 AT&T가 자동교환 기술을 도입하면서 여성 일자리 7만5천여 개가 사라졌습니다. 신기술이 등장하면 인간의 일자리가 없어지곤 하는데, 때로는 남녀에 차이가 나타납니다. 인공지능, AI도 그렇다는 연구 결과가...",
+          "src": "ytn",
           "date": "11/08",
-          "url": "https://www.koreadaily.com/article/20261107080031018",
-          "img": "https://www.koreadaily.com/resources/usa/thumbnail_image/2026/11/06/6a965e21-4ba5-418a-bd1a-c13f2e810fa3.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002429809?sid=102",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/1108/202611080633043406_t.jpg"
         },
         {
-          "title": "로보월드 2026이 던진 질문…피지컬 AI·휴머노이드 시대, 로봇기업 보도...",
-          "desc": "생성형 AI와 AI 검색 서비스가 기업과 기술을 설명하는 시대에는 회사 홈페이지에 적힌 자기소개 문구만으로 기업의 위치가 결정되지 않는다. 언론기사와 고객사의 발표, 정부와 공공기관의 사업자료, 논문, 실제 도입...",
-          "src": "고코리아",
-          "date": "11/07",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884577",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884577_162140_1237_v150.jpg"
+          "title": "[위클리 수입차 리포트] BYD코리아, 씨라이언 6 DM-i 1000번째 고객 인도...",
+          "desc": "볼보자동차는 새로운 신차 전략에 따라 선보일 차세대 모델에 도입을 목표로 업계를 선도하는 안전 시스템과 엔지니어링 전문성을 엔비디아의 인공지능(AI) 및 가속 컴퓨팅 기술과 결합할 계획이다. 여기에는...",
+          "src": "goodkyung",
+          "date": "11/08",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293222",
+          "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293222_267572_3344_v150.jpg"
         },
         {
-          "title": "aT·한전, AI 기반 업무혁신 위해 손잡았다… 청년 직원들 '나주 맞손'",
-          "desc": "이날 참석자들은 사내 AI 시스템 도입 현황과 실제 활용 사례, 'AI 혁신 챌린지' 참여 경험 등 최신 기술 트렌드를 업무에 적용한 경험을 집중적으로 다뤘다. 특히 본사와 지사 간 순환근무 과정에서 발생하는 업무 인수인계...",
-          "src": "ccnnews",
-          "date": "11/07",
-          "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417401",
-          "img": "http://www.ccnnews.co.kr/news/thumbnail/202611/417401_523260_5730_v150.jpg"
+          "title": "인간과 봇을 함께 관리하는 조직을 만들자…'HBRM' 제안",
+          "desc": "책은 팀역할균형을 뜻하는 TRB 등의 개념을 활용해 개인의 특성과 조직 안에서 맡는 기여의 형태를 구분하고... 기술을 도입한 뒤에도 업무의 윤리와 검수 체계를 설계할 책임은 남는다. 인간과 AI의 공존을 선언에서 운영...",
+          "src": "뉴스1",
+          "date": "11/08",
+          "url": "https://n.news.naver.com/mnews/article/421/0009276385?sid=103",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/5/8199716/high.jpg"
         },
         {
-          "title": "중앙대, 베트남 AI 연구소와 SW저작권 보호 협력",
-          "desc": "기술개발, 전문인력 양성 등에 협력하기로 했다. 특히 생성형 AI 확산에 따른 소스코드 무단 활용과 SW 복제... 부합하는 기술적 보호 수단과 SW저작권 보호 기술의 도입 가능성을 살폈다. 이와 함께 한국저작권보호원...",
-          "src": "pointdaily",
-          "date": "11/07",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325167",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325167_322193_210_v150.jpg"
+          "title": "애플, ‘아이폰 듀오’로 떨어진 위상, ‘터치 맥북’으로 만회할까",
+          "desc": "그간 맥북은 마우스와 트랙패드 등을 활용한 간접 입력 방식을 채택해 왔다. 그러나 이번 신제품부터는 화면을 직접 터치해 기기를 조작할 수 있게 됐다. 터치 기술은 별도의 센서를 화면 위에 부착하는 대신...",
+          "src": "news2day",
+          "date": "11/08",
+          "url": "https://www.news2day.co.kr/article/20261106500267",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/06/.cache/512/20261106500256.gif"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽'",
-      "url": "https://www.news2day.co.kr/article/20261107500004",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/07/.cache/512/20261107500001.png"
+      "title": "[단독] 삼성 TV, 18개월 만에 화면 두 번 먹통…인도 소비자 \"수리비만 ...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93259",
+      "img": "https://cdn.the-today.com/news/photo/202611/93259_114778_5753.png"
     },
     {
       "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
