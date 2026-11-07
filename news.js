@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.07 (토) 10:57",
+  "updatedAt": "2026.11.07 (토) 17:49",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "이마트, 쓱데이 마지막 주말… 신세계스퀘어, 크리스마스 영상 내년 1월...",
+          "desc": "LG전자 대형가전은 행사카드 결제 금액에 따라 최대 190만원의 신세계상품권을 증정하고 일부 상품에 최대 12% 추가 혜택을 제공한다. 삼성전자 TV 행사 상품은 최대 35만점의 멤버십 포인트를 추가 적립하며, 닌텐도...",
+          "src": "webeconomy",
+          "date": "11/07",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2365550",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2365550_1176151_1827.jpg"
+        },
+        {
           "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
           "desc": "삼성전자에서 DX는 Device eXperience(디바이스 경험)의 약자로 쉽게 말하면 완제품(갤럭시 스마트폰, TV, 냉장고, 세탁기, 생활가전 등). DS는 Device Solutions(디바이스 솔루션)의 약자로 메모리, HBM, 파운드리 사업부다. 삼성전자...",
           "src": "lawleader",
           "date": "11/07",
           "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
           "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
-        },
-        {
-          "title": "유통업계, 블랙프라이데이 맞이 대규모 할인전 공세",
-          "desc": "삼성전자와 LG전자 김치냉장고, 쿠쿠 전기밥솥 등 주요 가전제품을 특가에 선보이며, 캐시백과 즉시 할인 혜택을 더했다. 이사·혼수 고객을 겨냥한 'LG 연말결산 페스타'에서는 다품목 동시 구매 시 최대 600만원 할인...",
-          "src": "ekn",
-          "date": "11/07",
-          "url": "https://www.ekn.kr/web/view.php?key=20261107026546664",
-          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261107.f84e6a7acf6a407d9ee9ef60a8762f2e_R.png"
         },
         {
           "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "반복 작업은 정확, 스스로 판단은 아직…휴머노이드 현장 투입 ‘시작 ...",
+          "desc": "● 레인보우로보틱스, 공장용 ‘RB-Y2’ 개발…이족보행보다 바퀴형에 주목 삼성전자 자회사... ● 뉴로메카, 자동차 부품 공장서 양손 조립 실증…하네스 작업은 아직 뉴로메카는 대구 지역 현대자동차 1차 협력사의 제조...",
+          "src": "동아일보",
+          "date": "11/07",
+          "url": "https://n.news.naver.com/mnews/article/020/0003760788?sid=105",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134979737.3.jpg"
+        },
+        {
           "title": "3조 쏟는 정부·보따리 푼 대기업···피지컬 AI 육성 민관 총력전",
           "desc": "산업부는 지난 3일 발표한 'AI 팩토리 확산전략'으로 개별 공정의 AI 활용 성과를 협력사와 산업단지, 공장... 사진=연합뉴스 ◇삼성·LG·현대차도 로봇 사업 확대…개발에서 현장 적용으로 삼성전자는 자회사...",
           "src": "pointdaily",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/06",
           "url": "http://www.ikld.kr/news/articleView.html?idxno=343512",
           "img": "http://www.ikld.kr/news/thumbnail/202611/343512_190716_4853_v150.jpg"
-        },
-        {
-          "title": "[박정식의 국내 주식시황] 美 AI 규제 공포에 반도체 투매…코스피 5000...",
-          "desc": "삼성전자와 SK하이닉스를 비롯해 HBM, 반도체 장비·소재·부품, AI 데이터센터와 전력 인프라 관련주가... 삼성전자가 네온가스 재활용 설비를 상용화하고 생산 현장에 적용하기 시작했다는 소식에 협력사 티이엠씨도...",
-          "src": "newsquest",
-          "date": "11/06",
-          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304367",
-          "img": "https://cdn.newsquest.co.kr/news/photo/202611/304367_205197_3845.png"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "제조업종 32% \"AI 효과 불확실\"···IT업계 2배",
-          "desc": "제조기업들이 AI 도입을 검토할 때 이제는 도입할 것인가보다 어디에 적용해 어떤 성과를 만들 것인가를 고민해야 할 시점\"이라며 \"IT 장애 예방, 반복 업무 자동화 등 명확한 활용 사례에서 시작해 성과를 확인하고...",
-          "src": "sisajournal-e",
+          "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+          "desc": "작업을 활용해 모델을 학습했다. 기존에는 작성한 코드가 테스트를 통과했는지에 집중했다면... 무라티 CEO는 오픈AI 최고기술책임자(CTO)를 지낸 뒤 지난해 회사를 설립했으며, 기업과 개발자가 자신의...",
+          "src": "AI타임스",
           "date": "11/07",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424866",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424866_241939_5511_v150.jpg"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+          "img": "https://cdn.aitimes.com/news/photo/202611/217132_221331_4039.jpeg"
         },
         {
-          "title": "한국금융연구원, AI 금융서비스 확산에 소비자보호 체계 개편 필요성 제...",
-          "desc": "대상 AI 활용 사실 고지, 공정한 대우 원칙 강화, 성과 중심 감독 체계 도입 등을 검토할 필요가 있다고... 연구진은 기술 발전 자체보다 금융소비자가 신뢰할 수 있는 환경을 조성하는 것이 AI 기반 금융혁신의 지속...",
-          "src": "lawissue",
+          "title": "인성디지털, AIS 2026서 소나타입 공급망 보안 플랫폼 소개…AI 코딩 단...",
+          "desc": "한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.... AI를 활용한 소프트웨어 개발에서도 컴포넌트 선택과 사용 이력을 관리하고, 개발 전 과정에 보안 통제를...",
+          "src": "dailysecu",
           "date": "11/07",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611071047036135204ead0791_12",
-          "img": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209377",
+          "img": "https://cdn.dailysecu.com/news/photo/202611/209377_210414_1716.jpg"
         },
         {
-          "title": "챗GPT로 일 더 잘했는데…상사 신뢰는 24%로 뚝 떨어졌다",
-          "desc": "현장 연구에서는 대학원생의 AI 활용 비중이 높을수록 지도 교수의 신뢰도가 낮아지는 경향이 나타났다.... 조직은 AI 도입이 기술적 과제인 동시에 심리적·관리적 과제임을 인식해야 한다\"고 밝혔다. 모든 연구는...",
-          "src": "imaeil",
+          "title": "앤트로픽 상장 전부터 옵션 거래 열린다…하이퍼콜, 24시간 시장 개설 ...",
+          "desc": "비상장 기술기업을 둘러싼 투자 방식에도 변화가 나타나고 있다. 가상자산 전문매체 더블록(The Block)은 6일... market」 [AI의 조력이 일부 활용됐다. 특정 종목의 매수 또는 매도를 권유하지 않으며 투자 판단과 책임은...",
+          "src": "cbci",
           "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/088/0001038923?sid=103",
-          "img": "https://www.imaeil.com/photos/2026/11/07/2026110710431556791_l.jpg"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624394",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202611/624394_429096_256_v150.jpg"
         },
         {
-          "title": "제주도·도의회, 5극3특 성장엔진 국비 500억 원 확보 총력",
-          "desc": "성장산업의 기술개발과 기반시설 구축, 인재양성을 지원하는 지역자율형 연구개발 사업이다. 제주 바이오센터에 구축되는 0.3MW급 AI 데이터센터를 활용해 재생에너지와 인공지능 산업을 연계하는 제주권 AX 실증사업에...",
-          "src": "newsjeju",
+          "title": "엑소스피어랩스, AIS 2026서 백신·DLP 통합 보안 서비스 '엑소스피어' ...",
+          "desc": "한국과학기술회관 국제회의실에서 700여 명의 보안담당자와 관계자가 참여한 가운데 성황리에 개최됐다.... 기업이 업무에 AI 서비스를 활용하면서도 데이터 취급 기준에 따라 접속과 반출을 관리할 수 있도록 지원한다....",
+          "src": "dailysecu",
           "date": "11/07",
-          "url": "https://www.newsjeju.net/news/articleView.html?idxno=428076",
-          "img": "https://cdn.newsjeju.net/news/thumbnail/202611/428076_532910_2255_v150.jpg"
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209376",
+          "img": "https://cdn.dailysecu.com/news/photo/202611/209376_210411_1251.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "이마트, 쓱데이 마지막 주말… 신세계스퀘어, 크리스마스 영상 내년 1월...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2365550",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2365550_1176151_1827.jpg"
+    },
+    {
       "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
       "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
       "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
-    },
-    {
-      "title": "유통업계, 블랙프라이데이 맞이 대규모 할인전 공세",
-      "url": "https://www.ekn.kr/web/view.php?key=20261107026546664",
-      "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261107.f84e6a7acf6a407d9ee9ef60a8762f2e_R.png"
     },
     {
       "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
