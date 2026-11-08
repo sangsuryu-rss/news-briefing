@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.08 (일) 06:54",
+  "updatedAt": "2026.11.08 (일) 10:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[단독] 삼성 TV, 18개월 만에 화면 두 번 먹통…인도 소비자 \"수리비만 ...",
-          "desc": "인도 프리미엄 가전 시장에서 브랜드 신뢰도를 앞세워 온 삼성전자의 품질 관리와 부품 재보증 정책을 둘러싸고 현지 소비자들의 이목이 쏠리고 있다. 7일(현지시간) 인도 현지 IT 및 소비자 전문 매체 보도에 따르면...",
-          "src": "the-today",
+          "title": "“팔고 나면 끝?”…가전 업계, 구독 넘어 ‘관리 경쟁’ 시작",
+          "desc": "삼성전자에 따르면 삼성스토어에서 판매되는 주요 가전제품의 3대 중 1대는 구독 방식으로 판매되고 있는데 구독 서비스 이용자의 43%는 신속하고 편리한 애프터서비스(AS)가 가장 큰 장점이라고 답했다. 기술이...",
+          "src": "중앙일보",
           "date": "11/08",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93259",
-          "img": "https://cdn.the-today.com/news/photo/202611/93259_114778_5753.png"
+          "url": "https://n.news.naver.com/mnews/article/025/0003563551?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/08/6013931c-d49a-4717-bae6-a693956b9efc.jpg"
+        },
+        {
+          "title": "얼룩 찾아 15번 닦고, 110도 스팀 살균까지…청소기 4사 기술 경쟁",
+          "desc": "신제품 2종과 로봇청소기 전 라인업을 한자리에서 선보인다. 삼성전자는 올해 3월 출시한 '비스포크 AI 스팀'에 이어 6월 일반형 모델을 추가하며 제품군을 확대했다. 비스포크 AI 스팀 울트라와 플러스는 최대 10W의...",
+          "src": "segye",
+          "date": "11/08",
+          "url": "https://n.news.naver.com/mnews/article/022/0004173329?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/08/20261108502604.jpg"
         },
         {
           "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "11/07",
           "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
           "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
-        },
-        {
-          "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
-          "desc": "이번 행사에는 삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당 등 주요 브랜드가 참여한다. 식품과... 드리미 로봇청소기 200대와 삼성 갤럭시북 50대 등 주요 가전제품은 준비된 수량이 모두 판매됐다. 지난 1~3일 국내...",
-          "src": "thebigdata",
-          "date": "11/07",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=2026110615171552570a47484cf8_23",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611061523410912300a47484cf82192501880.jpg&nmt=23"
         },
         {
           "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
@@ -61,36 +61,36 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "현대차·기아, 루크 동커볼케 디자인 여정 담은 아카이브 전시 개최",
+          "desc": "이번 전시는 현대차·기아가 자동차 디자인을 제품 경쟁력의 영역에서 대중과 소통하는 문화·브랜드 자산으로 확장하려는 시도로 볼 수 있다. 특히 루크 동커볼케 사장의 10년간 디자인 혁신 성과를 단순히 소개하는...",
+          "src": "worktoday",
+          "date": "11/08",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91664",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91664_131935_221_v150.jpg"
+        },
+        {
+          "title": "[주간 산업 나침반] 한화 美 군함 첫 수주·현대차·기아 판매 호조...LI...",
+          "desc": "기아 스포티지[사진=기아] 자동차업계에서는 현대차와 기아가 미국 시장 판매 호조에 힘입어 긍정적인 성과를 거뒀다. 현대차와 기아의 미국 판매법인은 지난 10월 각각 7만3452대와 8만8대를 판매하며 역대 10월 최대...",
+          "src": "joongangenews",
+          "date": "11/08",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=561918",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/561918_369474_2130.png"
+        },
+        {
+          "title": "기아 자동차, 10년 만에 연간 판매 목표 달성 눈앞…신차 효과로 상승세...",
+          "desc": "현대차가 올해 목표를 하향 조정한 것과는 대조적으로, 기아는 이번 목표 달성이 2014년 이후 처음이 될 가능성이 높다. 2014년 이후 기아는 매년 목표에 미치지 못했으며, 특히 2017년에는 중국 시장에서의...",
+          "src": "고코리아",
+          "date": "11/08",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884627",
+          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884627_162189_3615_v150.jpg"
+        },
+        {
           "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
           "desc": "현대자동차·기아가 자체 구축한 차량용 반도체 개발 프로세스에 대해 국제 인증을 획득하고, 관련 안전성 강화에 나선다. 현대차·기아는 최근 경기 성남 판교테크원에서 유지한 SDV플랫폼담당 부사장 등 임직원과 국제...",
           "src": "ksilbo",
           "date": "11/06",
           "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071749",
           "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
-        },
-        {
-          "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
-          "desc": "현대차와 기아 등 자동차 업계도 관세 부담이 이어질 전망입니다. ▶ 인터뷰(☎) : 김태황 / 명지대 국제통상학과 교수 - \"관세 정책의 본질이 바뀌어지지는 않을 거고요. 민주당도 근로자들에 대한 고용 창출과 고용 유지에...",
-          "src": "MBN",
-          "date": "11/05",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005955930",
-          "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/11/05/20261105163757_10_103_0_MM1005955930_4_115.jpg"
-        },
-        {
-          "title": "[증시 프리즘] 코스피, 美 AI 규제 우려에 4%대 급락…삼전닉스 6~8%↓·...",
-          "desc": "현대차와 기아 등 자동차주는 민주당의 의회 장악으로 트럼프 행정부의 강경한 관세 정책이 의회의 견제를 받을 수 있다는 기대가 반영된 것으로 풀이된다. 코스닥지수도 낙폭을 키우고 있다. 같은 시각...",
-          "src": "moneystorm",
-          "date": "11/05",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8100",
-          "img": "https://cdn.moneystorm.kr/news/photo/202611/8100_8319_5512.jpg"
-        },
-        {
-          "title": "[증시 오늘(5일) 주요 특징주] 美 정치 리스크·AI 규제 우려에 대형주 ...",
-          "desc": "이 밖에 KB금융, 신한지주 등 금융주와 현대차, 기아 등 자동차주를 포함한 시가총액 상위 종목 전반에 걸쳐 매도세가 이어지며 시장 전체의 수급 경색이 심화하는 분위기다. 증권가에서는 글로벌 시장의 변동성 확대와...",
-          "src": "thefairnews",
-          "date": "11/05",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93138",
-          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202611/93138_139808_4427_v150.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "노사 분규 줄었는데 근로손실 45% 급증…車·조선 파업 여파",
+          "desc": "일정과 협력사 매출·고용에도 영향을 미칠 수 있다고 지적했다. 특히 HL만도는 현대차·기아에 공급되는... 삼성전자와 SK하이닉스에서 제기된 이른바 'N% 성과배분' 요구가 자동차와 조선, 부품업계로 번졌다....",
+          "src": "ebn",
+          "date": "11/08",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730819",
+          "img": "https://cdn.ebn.co.kr/news/thumbnail/202611/1730819_766517_3755_v150.jpg"
+        },
+        {
           "title": "49경 원 빚더미 삼킨 세계 시장… 반도체 호황 흔드는 채권 뇌관",
           "desc": "배런스는 외국인 매도세와 더불어 한국 개인 투자자들의 SK하이닉스 및 삼성전자 단일 종목 레버리지 상품... 이는 국내 소재·부품·장비 협력사의 수주 잔고에도 순차적인 부담을 안길 수 있다. 국채 금리가 높은...",
           "src": "g-enews",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/07",
           "url": "https://n.news.naver.com/mnews/article/020/0003760788?sid=105",
           "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134979737.3.jpg"
-        },
-        {
-          "title": "3조 쏟는 정부·보따리 푼 대기업···피지컬 AI 육성 민관 총력전",
-          "desc": "산업부는 지난 3일 발표한 'AI 팩토리 확산전략'으로 개별 공정의 AI 활용 성과를 협력사와 산업단지, 공장... 사진=연합뉴스 ◇삼성·LG·현대차도 로봇 사업 확대…개발에서 현장 적용으로 삼성전자는 자회사...",
-          "src": "pointdaily",
-          "date": "11/06",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325072",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325072_322097_4119_v150.jpg"
         }
       ]
     },
@@ -221,45 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 여성 일자리 뺏는다...교육·보건 분야 취약",
-          "desc": "통신회사 AT&T가 자동교환 기술을 도입하면서 여성 일자리 7만5천여 개가 사라졌습니다. 신기술이 등장하면 인간의 일자리가 없어지곤 하는데, 때로는 남녀에 차이가 나타납니다. 인공지능, AI도 그렇다는 연구 결과가...",
-          "src": "ytn",
+          "title": "현대차그룹, ‘WHE 2026’ 전시 성료…미래 혁신 수소 기술 비전 선봬",
+          "desc": "인공지능(AI) 밸리 디오라마를 최초 공개했다. 구체적으로 현대차그룹은 고분자전해질막(PEM) 수전해 플랜트 기술과 폐자원을 활용한 수소 생산 모델 ‘W2H(Waste-to-Hydrogen)’을 선보였다. 특히, PEM 수전해 플랜트 기술의...",
+          "src": "헤럴드경제",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/052/0002429809?sid=102",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/1108/202611080633043406_t.jpg"
+          "url": "https://n.news.naver.com/mnews/article/016/0002720367?sid=101",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/08/news-p.v1.20261108.891ccc5361f5494a8c0bc429165c01b6_P1.jpg"
         },
         {
-          "title": "[위클리 수입차 리포트] BYD코리아, 씨라이언 6 DM-i 1000번째 고객 인도...",
-          "desc": "볼보자동차는 새로운 신차 전략에 따라 선보일 차세대 모델에 도입을 목표로 업계를 선도하는 안전 시스템과 엔지니어링 전문성을 엔비디아의 인공지능(AI) 및 가속 컴퓨팅 기술과 결합할 계획이다. 여기에는...",
-          "src": "goodkyung",
+          "title": "현대차그룹, 월드 하이드로젠 엑스포서 수소 기술·사업 역량 선보여",
+          "desc": "새만금 AI 밸리 디오라마 등을 처음 선보였다. 수소 생산 분야에서는 고분자전해질막(PEM) 수전해 플랜트 기술과 폐자원을 활용한 수소 생산 모델 'W2H(Waste-to-Hydrogen)'를 전시했다. PEM 수전해 기술은 스택 12개를...",
+          "src": "view",
           "date": "11/08",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293222",
-          "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293222_267572_3344_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/277/0005839517?sid=103",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026110810215290840_1794100912.jpg"
         },
         {
-          "title": "인간과 봇을 함께 관리하는 조직을 만들자…'HBRM' 제안",
-          "desc": "책은 팀역할균형을 뜻하는 TRB 등의 개념을 활용해 개인의 특성과 조직 안에서 맡는 기여의 형태를 구분하고... 기술을 도입한 뒤에도 업무의 윤리와 검수 체계를 설계할 책임은 남는다. 인간과 AI의 공존을 선언에서 운영...",
-          "src": "뉴스1",
+          "title": "\"고개 숙이면 집중력 부족?\"…中 대학 AI 감시 교실에 발칵 [차이나 워치...",
+          "desc": "중국 교육 현장에서 AI 도입이 빨라지는 가운데 기술을 활용한 교육 혁신과 학생·교사의 자율성 보장 사이에서 논쟁이 확산하는 모습이다. \"수업 듣는 자세까지 점수 매기나\" 8일 중국 경제매체 경제관찰보와 차이신 등에...",
+          "src": "한국경제",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/421/0009276385?sid=103",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/5/8199716/high.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005351450?sid=101",
+          "img": "https://img.hankyung.com/photo/202611/01.46342852.1.jpg"
         },
         {
-          "title": "애플, ‘아이폰 듀오’로 떨어진 위상, ‘터치 맥북’으로 만회할까",
-          "desc": "그간 맥북은 마우스와 트랙패드 등을 활용한 간접 입력 방식을 채택해 왔다. 그러나 이번 신제품부터는 화면을 직접 터치해 기기를 조작할 수 있게 됐다. 터치 기술은 별도의 센서를 화면 위에 부착하는 대신...",
-          "src": "news2day",
+          "title": "AMD, 2027년 매출 80% 이상 성장 전망…엔비디아 겨냥 AI 반도체 공급 확...",
+          "desc": "AI 서버 시스템인 헬리오스(Helios)와 에픽 베니스(EPYC Venice) 프로세서의 생산을 늘리고, 글로벌 기술기업들... 로이터는 지난 7월 보도에서 오픈AI가 2026년 말부터 헬리오스 시스템 도입을 시작하고 2027년에는 활용...",
+          "src": "cbci",
           "date": "11/08",
-          "url": "https://www.news2day.co.kr/article/20261106500267",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/06/.cache/512/20261106500256.gif"
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624520",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202611/624520_429197_50_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[단독] 삼성 TV, 18개월 만에 화면 두 번 먹통…인도 소비자 \"수리비만 ...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93259",
-      "img": "https://cdn.the-today.com/news/photo/202611/93259_114778_5753.png"
+      "title": "“팔고 나면 끝?”…가전 업계, 구독 넘어 ‘관리 경쟁’ 시작",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563551?sid=101",
+      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/08/6013931c-d49a-4717-bae6-a693956b9efc.jpg"
+    },
+    {
+      "title": "얼룩 찾아 15번 닦고, 110도 스팀 살균까지…청소기 4사 기술 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173329?sid=101",
+      "img": "https://www.segye.com/content/image/2026/11/08/20261108502604.jpg"
     },
     {
       "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
@@ -267,24 +272,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
     },
     {
-      "title": "블프 특수 노리는 K-이커머스...쿠팡·네이버·SSG닷컴 할인 경쟁 '치열...",
-      "url": "https://www.thebigdata.co.kr/view.php?ud=2026110615171552570a47484cf8_23",
-      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611061523410912300a47484cf82192501880.jpg&nmt=23"
-    },
-    {
       "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
       "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
     },
     {
-      "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
-      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071749",
-      "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
+      "title": "현대차·기아, 루크 동커볼케 디자인 여정 담은 아카이브 전시 개최",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91664",
+      "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91664_131935_221_v150.jpg"
     },
     {
-      "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
-      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005955930",
-      "img": "https://imgmm.mbn.co.kr/vod/news/103/2026/11/05/20261105163757_10_103_0_MM1005955930_4_115.jpg"
+      "title": "[주간 산업 나침반] 한화 美 군함 첫 수주·현대차·기아 판매 호조...LI...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561918",
+      "img": "https://cdn.joongangenews.com/news/photo/202611/561918_369474_2130.png"
     }
   ]
 };
