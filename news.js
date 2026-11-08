@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.08 (일) 10:27",
+  "updatedAt": "2026.11.08 (일) 18:02",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“팔고 나면 끝?”…가전 업계, 구독 넘어 ‘관리 경쟁’ 시작",
-          "desc": "삼성전자에 따르면 삼성스토어에서 판매되는 주요 가전제품의 3대 중 1대는 구독 방식으로 판매되고 있는데 구독 서비스 이용자의 43%는 신속하고 편리한 애프터서비스(AS)가 가장 큰 장점이라고 답했다. 기술이...",
-          "src": "중앙일보",
+          "title": "삼성, 축구 승격 이어 라이온즈 12년 만의 우승…실적 호조 속 그룹 분위...",
+          "desc": "이번 우승을 계기로 삼성전자가 가전제품 할인 등 스포츠 연계 마케팅에 나설 가능성도 제기된다. 삼성전자는 과거 삼성 라이온즈가 한국시리즈에서 우승했을 때 가전 할인 행사를 진행한 바 있다. 2014년 11월11일...",
+          "src": "뉴시스",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/025/0003563551?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/08/6013931c-d49a-4717-bae6-a693956b9efc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/003/0014309313?sid=101",
+          "img": "https://img1.newsis.com/2026/11/08/NISI20261108_0021524951_web.jpg"
         },
         {
-          "title": "얼룩 찾아 15번 닦고, 110도 스팀 살균까지…청소기 4사 기술 경쟁",
-          "desc": "신제품 2종과 로봇청소기 전 라인업을 한자리에서 선보인다. 삼성전자는 올해 3월 출시한 '비스포크 AI 스팀'에 이어 6월 일반형 모델을 추가하며 제품군을 확대했다. 비스포크 AI 스팀 울트라와 플러스는 최대 10W의...",
-          "src": "segye",
+          "title": "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
+          "desc": "최근 삼성전자 주가 하락을 두고 ‘우승 기념 세일’ 아니냐며 자조해 웃프다(우스우면서도 슬프다)는... 2023년 LG 트윈스가 29년 만에 한국시리즈에서 우승하자 이를 기념해 LG전자 가전제품을 대폭 할인한 등의 전례가...",
+          "src": "한국경제",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/022/0004173329?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/08/20261108502604.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005351542?sid=103",
+          "img": "https://img.hankyung.com/photo/202611/ZN.46352672.1.jpg"
         },
         {
-          "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
-          "desc": "삼성전자에서 DX는 Device eXperience(디바이스 경험)의 약자로 쉽게 말하면 완제품(갤럭시 스마트폰, TV, 냉장고, 세탁기, 생활가전 등). DS는 Device Solutions(디바이스 솔루션)의 약자로 메모리, HBM, 파운드리 사업부다. 삼성전자...",
-          "src": "lawleader",
-          "date": "11/07",
-          "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
-          "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
+          "title": "삼성 라이온즈 우승에 “12년 전엔 최대 40% 할인했는데”…올해도 혜택...",
+          "desc": "삼성전자는 30일까지 가전과 모바일·IT 제품 할인 혜택을 제공하고, 소상공인 대상 사업자몰 전용 할인 행사도 마련했다. 행사 기간 세탁건조기와 TV, 청소기, 냉장고 등 주요 가전 11개 품목을 할인 판매한다. 올인원...",
+          "src": "서울경제",
+          "date": "11/08",
+          "url": "https://n.news.naver.com/mnews/article/011/0004679890?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/11/08/rcv.YNA.20261108.PYH2026110810980001300_Z1.jpg"
         },
         {
-          "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
-          "desc": "삼성전자 김치냉장고와 LG전자 김치냉장고, 쿠쿠 전기밥솥 등 주요 가전제품도 할인 및 캐시백 혜택을... OLED TV와 에어컨, 세탁건조기 등 주요 제품을 대상으로 추가 혜택을 마련했으며 TV와 사운드바, 냉장고 등을 함께...",
-          "src": "megaeconomy",
-          "date": "11/06",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
+          "title": "“제품값에 AS까지 월납으로”…삼성전자 '스마트플랜' 싱가포르서 첫선",
+          "desc": "삼성전자는 이달 초 싱가포르에서 스마트플랜을 출시했다. 제품 가격과 케어 비용을 합산해 매달 고정 금액으로 나눠 내는 구조다. 대상은 스마트폰·태블릿·TV·냉장고·세탁기 일부 모델이다. 납부 기간은 1~5년이다....",
+          "src": "전자신문",
+          "date": "11/08",
+          "url": "https://n.news.naver.com/mnews/article/030/0003483303?sid=101",
+          "img": ""
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "노사 분규 줄었는데 근로손실 45% 급증…車·조선 파업 여파",
-          "desc": "일정과 협력사 매출·고용에도 영향을 미칠 수 있다고 지적했다. 특히 HL만도는 현대차·기아에 공급되는... 삼성전자와 SK하이닉스에서 제기된 이른바 'N% 성과배분' 요구가 자동차와 조선, 부품업계로 번졌다....",
-          "src": "ebn",
+          "title": "배터리부터 스마트홈까지…삼성·현대차 ‘기술 동맹’ 확대",
+          "desc": "협력도 삼성그룹과 현대자동차그룹은 배터리·디스플레이 등 차량 부품에서 스마트홈과 제조 현장으로... 삼성전기는 2023년 10월 현대차·기아의 카메라 분야 1차 협력사로 선정됐다. 신형 팰리세이드에도 운전자의...",
+          "src": "이투데이",
           "date": "11/08",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730819",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202611/1730819_766517_3755_v150.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2645431",
+          "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
         },
         {
-          "title": "49경 원 빚더미 삼킨 세계 시장… 반도체 호황 흔드는 채권 뇌관",
-          "desc": "배런스는 외국인 매도세와 더불어 한국 개인 투자자들의 SK하이닉스 및 삼성전자 단일 종목 레버리지 상품... 이는 국내 소재·부품·장비 협력사의 수주 잔고에도 순차적인 부담을 안길 수 있다. 국채 금리가 높은...",
-          "src": "g-enews",
+          "title": "삼성, 현대차에 특별한 '러브콜'…170명 초청한 까닭",
+          "desc": "삼성전자는 그간 해외에서 산업별 주요 협력사들을 초청하는 네트워킹 행사를 열어왔지만, 국내에서 단일... 자동차 경쟁력이 기계적 성능에서 반도체·소프트웨어로 이동하면서 삼성의 첨단 부품 기술과 현대차그룹의...",
+          "src": "블로터",
           "date": "11/08",
-          "url": "https://www.g-enews.com/view.php?ud=202611071723104729fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026110717255801948fbbec65dfb211211153121.jpg"
+          "url": "https://n.news.naver.com/mnews/article/293/0000092900?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202611/678059_292564_01_v150.jpg"
         },
         {
-          "title": "\"경쟁 치열한 배터리…검증 등은 한중 협력 가능\"",
-          "desc": "김 교수는 한중 기업 간 협력시 사전에 준비가 필요하다며 \"중국 협력사가 어떤 부분을 협력해주면 좋겠는지... 이번 수입박람회에는 삼성전자 등 대기업뿐만 아니라 중소기업 등 한국 기업 210곳 정도가 참가했으며...",
-          "src": "연합뉴스",
-          "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/001/0016428361?sid=104",
-          "img": "https://img5.yna.co.kr/etc/inner/KR/2026/11/07/AKR20261107051400089_01_i_P4.jpg"
+          "title": "'삼성·현대차' 미래 혈맹으로…첫 경영진 '부부동반' 네트워킹 개최",
+          "desc": "삼성전자가 특정 그룹사 임원진을 단독 초청해 연수원에서 네트워킹 행사를 마련한 것은 창사 이래 처음이다. 그간 협력사 대상의 네트워킹 행사는 종종 있었으나, 동등한 규모의 대기업 그룹과 사장단 부부동반...",
+          "src": "뉴스핌",
+          "date": "11/08",
+          "url": "https://www.newspim.com/news/view/20261108000072",
+          "img": "https://img.newspim.com/news/2026/02/23/260223183403585_769_tc.jpg"
         },
         {
-          "title": "반복 작업은 정확, 스스로 판단은 아직…휴머노이드 현장 투입 ‘시작 ...",
-          "desc": "● 레인보우로보틱스, 공장용 ‘RB-Y2’ 개발…이족보행보다 바퀴형에 주목 삼성전자 자회사... ● 뉴로메카, 자동차 부품 공장서 양손 조립 실증…하네스 작업은 아직 뉴로메카는 대구 지역 현대자동차 1차 협력사의 제조...",
-          "src": "동아일보",
-          "date": "11/07",
-          "url": "https://n.news.naver.com/mnews/article/020/0003760788?sid=105",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134979737.3.jpg"
+          "title": "이재용·정의선 빠져도 '깐부'는 굳건 … 삼성·현대차, 경영진 170명 한...",
+          "desc": "삼성전자는 해외에서 여러 협력사를 대상으로 네트워킹 행사를 열어왔지만 국내 특정 그룹만을 위한 별도... 완성차에 필요한 반도체와 배터리, 디스플레이의 중요성이 커지면서 삼성의 전자부품 기술과 현대차의 자동차...",
+          "src": "biz",
+          "date": "11/08",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800058.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/08/2026110800058_0.png"
         }
       ]
     },
@@ -180,6 +180,14 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "전기화재 예방 기준 강화…제일일렉트릭 신제품 수혜 기대",
+          "desc": "와이어링 하네스는 자동차 내부의 각종 전장부품과 전기장치를 연결해 전력과 신호를 전달하는 배선 시스템이다. 자동차에 탑재되는 전자장치가 늘어나면서 관련 부품의 적용 범위와 중요성도 커지고 있다....",
+          "src": "핀포인트뉴스",
+          "date": "11/08",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502162",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/502162_487238_176_v150.jpg"
+        },
         {
           "title": "자동차의 신경망, '와이어링 하네스'… 베트남 조달 비중 33.3%까지 확대",
           "desc": "차량 한 대를 생산하기 위해서는 엔진룸, 계기판, 도어, 차체 등 연결하는 구역과 장치에 따라 여러 종류의 와이어링 하네스가 사용된다. 또한 동일한 차종이라 하더라도, 그 기능과 전장(電裝) 사양에 따라...",
@@ -203,14 +211,6 @@ window.NEWS_DATA = {
           "date": "10/15",
           "url": "https://www.itdaily.kr/news/articleView.html?idxno=242217",
           "img": "https://cdn.itdaily.kr/news/thumbnail/202610/242217_248171_1153_v150.jpg"
-        },
-        {
-          "title": "'K-배터리쇼 2026' “원천 칩부터 하네스까지 수직계열화”…래트론, 고...",
-          "desc": "원천 재료 배합과 세라믹 칩 제조 역량을 바탕으로 ▲온도 센서 ▲전장용 와이어링 하네스 ▲전압·온도 복합 감지 모듈 ▲박막형 필름히터(Film Heater) 등으로 제품군을 단계적으로 확장해 왔다. 이러한 소자 제조...",
-          "src": "digitalchosun",
-          "date": "09/11",
-          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180166.html",
-          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/11/2026091180162_0.jpg"
         }
       ]
     },
@@ -221,60 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "현대차그룹, ‘WHE 2026’ 전시 성료…미래 혁신 수소 기술 비전 선봬",
-          "desc": "인공지능(AI) 밸리 디오라마를 최초 공개했다. 구체적으로 현대차그룹은 고분자전해질막(PEM) 수전해 플랜트 기술과 폐자원을 활용한 수소 생산 모델 ‘W2H(Waste-to-Hydrogen)’을 선보였다. 특히, PEM 수전해 플랜트 기술의...",
-          "src": "헤럴드경제",
+          "title": "김현수 총장 직무대행 \"경기대, AI·로봇 첨단산업 실무 인재 육성\"",
+          "desc": "/전광현 기자 maggie@incheonilbo.com \"인공지능(AI)과 로봇 기술이 미래 산업의 핵심 동력으로 자리 잡고 있습니다. 이제 대학도 단순한 이론 교육을 넘어 실제 산업현장에서 활용할 수 있는 기술과 인재를 길러내야 합니다\" 8일...",
+          "src": "incheonilbo",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/016/0002720367?sid=101",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/08/news-p.v1.20261108.891ccc5361f5494a8c0bc429165c01b6_P1.jpg"
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336268",
+          "img": "https://cdn.incheonilbo.com/news/thumbnail/202611/1336268_678731_5625_v150.jpg"
         },
         {
-          "title": "현대차그룹, 월드 하이드로젠 엑스포서 수소 기술·사업 역량 선보여",
-          "desc": "새만금 AI 밸리 디오라마 등을 처음 선보였다. 수소 생산 분야에서는 고분자전해질막(PEM) 수전해 플랜트 기술과 폐자원을 활용한 수소 생산 모델 'W2H(Waste-to-Hydrogen)'를 전시했다. PEM 수전해 기술은 스택 12개를...",
-          "src": "view",
+          "title": "[VS 기획] AI는 진화하는데 정부는 산업화 시대에…토니블레어연구소가...",
+          "desc": "한 부처에서 효과를 확인한 기술이 다른 기관에서도 활용될 수 있도록 공통 절차를 만들고, AI 서비스를 도입할 때부터 기존 행정 시스템과 연결할 수 있는지 검토해야 한다. 새로운 정책의 효과를 사전에 분석하고 실행...",
+          "src": "venturesquare",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/277/0005839517?sid=103",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026110810215290840_1794100912.jpg"
+          "url": "https://www.venturesquare.net/1126542/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/ai-2.png"
         },
         {
-          "title": "\"고개 숙이면 집중력 부족?\"…中 대학 AI 감시 교실에 발칵 [차이나 워치...",
-          "desc": "중국 교육 현장에서 AI 도입이 빨라지는 가운데 기술을 활용한 교육 혁신과 학생·교사의 자율성 보장 사이에서 논쟁이 확산하는 모습이다. \"수업 듣는 자세까지 점수 매기나\" 8일 중국 경제매체 경제관찰보와 차이신 등에...",
-          "src": "한국경제",
+          "title": "[단독]작업·충전·생산 스케줄 연결…10년 묵은 ‘로봇 규격화’ 급물...",
+          "desc": "문제는 이기종 로봇을 도입할 때 발생하는 관리 측면의 비효율이다. 가장 먼저 거론되는 지점은 충전소... 장영재 한국과학기술원(KAIST) 제조 피지컬 AI 연구소장은 “이기종 로봇의 상호 운용성은 반도체뿐 아니라 물류...",
+          "src": "서울경제",
           "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/015/0005351450?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/01.46342852.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/011/0004679901?sid=105",
+          "img": "https://wimg.sedaily.com/news/cms/2026/11/08/news-p.v1.20261108.cd9d8805b6b9407f95d0fad6816f95b0_Z1.jpg"
         },
         {
-          "title": "AMD, 2027년 매출 80% 이상 성장 전망…엔비디아 겨냥 AI 반도체 공급 확...",
-          "desc": "AI 서버 시스템인 헬리오스(Helios)와 에픽 베니스(EPYC Venice) 프로세서의 생산을 늘리고, 글로벌 기술기업들... 로이터는 지난 7월 보도에서 오픈AI가 2026년 말부터 헬리오스 시스템 도입을 시작하고 2027년에는 활용...",
-          "src": "cbci",
+          "title": "손으로 쓴 세금 고지서도 AI가 읽는다…양평군 11일부터 도입",
+          "desc": "군 관계자는 \"이번 자동화 시스템 도입으로 보다 신속하고 정확한 세입 관리가 가능해질 것으로 기대한다\"며 \"앞으로도 AI 기술을 활용해 군민이 체감할 수 있는 편리하고 효율적인 세무 행정 서비스를 제공하겠다\"고...",
+          "src": "뉴스1",
           "date": "11/08",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624520",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202611/624520_429197_50_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009277497?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2025/12/11/7646011/high.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "“팔고 나면 끝?”…가전 업계, 구독 넘어 ‘관리 경쟁’ 시작",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563551?sid=101",
-      "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/08/6013931c-d49a-4717-bae6-a693956b9efc.jpg"
+      "title": "삼성, 축구 승격 이어 라이온즈 12년 만의 우승…실적 호조 속 그룹 분위...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014309313?sid=101",
+      "img": "https://img1.newsis.com/2026/11/08/NISI20261108_0021524951_web.jpg"
     },
     {
-      "title": "얼룩 찾아 15번 닦고, 110도 스팀 살균까지…청소기 4사 기술 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/022/0004173329?sid=101",
-      "img": "https://www.segye.com/content/image/2026/11/08/20261108502604.jpg"
+      "title": "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351542?sid=103",
+      "img": "https://img.hankyung.com/photo/202611/ZN.46352672.1.jpg"
     },
     {
-      "title": "손용호 \"이재용에 직원들 목소리 외쳤다…대화할 때까지 노숙 농성\"",
-      "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20352",
-      "img": "https://cdn.lawleader.co.kr/news/thumbnail/202611/20352_73350_2643_v150.jpg"
-    },
-    {
-      "title": "롯데하이마트, 블랙프라이데이 할인전 돌입…연말 가전 수요 잡는다",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
-      "img": "https://www.megaeconomy.co.kr/news/data/20261106/p1065619897273599_190_thum.jpg"
+      "title": "삼성 라이온즈 우승에 “12년 전엔 최대 40% 할인했는데”…올해도 혜택...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679890?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/11/08/rcv.YNA.20261108.PYH2026110810980001300_Z1.jpg"
     },
     {
       "title": "현대차·기아, 루크 동커볼케 디자인 여정 담은 아카이브 전시 개최",
@@ -285,6 +280,11 @@ window.NEWS_DATA = {
       "title": "[주간 산업 나침반] 한화 美 군함 첫 수주·현대차·기아 판매 호조...LI...",
       "url": "https://www.joongangenews.com/news/articleView.html?idxno=561918",
       "img": "https://cdn.joongangenews.com/news/photo/202611/561918_369474_2130.png"
+    },
+    {
+      "title": "기아 자동차, 10년 만에 연간 판매 목표 달성 눈앞…신차 효과로 상승세...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=884627",
+      "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884627_162189_3615_v150.jpg"
     }
   ]
 };
