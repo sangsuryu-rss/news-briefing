@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.09 (월) 01:41",
+  "updatedAt": "2026.11.09 (월) 10:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자·현대차 경영진 부부 170명 한자리",
-          "desc": "지난해 삼성전자의 스마트홈 플랫폼인 ‘삼성 스마트싱스’로 현대차·기아의 차량을 원격 제어하는 ‘홈투카’ 서비스를 도입했고 지난 3월에는 현대차·기아 차량에서 집안의 삼성전자 가전을 제어하는 ‘카투홈’...",
-          "src": "kmib",
+          "title": "삼성·현대차 경영진 부부 170여 명 회동…식구도 '깐부'",
+          "desc": "올해 3월에는 현대차·기아 차량에서 삼성전자 가전을 제어할 수 있는 '카투홈' 서비스도 시작했다. 부품 분야에서도 협력이 이어지고 있다. 올해 하반기 출시된 제네시스 GV90에는 삼성SDI의 각형 배터리가 탑재된 것으로...",
+          "src": "sisajournal",
           "date": "11/09",
-          "url": "https://n.news.naver.com/mnews/article/005/0001883779?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/586/0000141862?sid=101",
+          "img": "https://cdn.sisajournal.com/news/thumbnail/202611/393274_402590_3740_v150.jpg"
         },
         {
-          "title": "삼성·현대차, 170명 규모 첫 교류 행사…경영진·배우자 초청 협력",
-          "desc": "실제 정 회장은 올해 1월 미국 라스베이거스에서 열린 'CES 2026' 당시 삼성전자 전시 공간을 방문해 노태문 사장과 로봇 기술 협력 가능성을 논의했다. 정 회장은 삼성 로봇청소기와 현대차그룹의 소형 모빌리티 플랫폼...",
-          "src": "biztribune",
-          "date": "11/08",
-          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362115",
-          "img": "http://www.biztribune.co.kr/news/thumbnail/202611/362115_268141_5856_v150.jpg"
+          "title": "롯데하이마트, 김치냉장고 최대 85만원 할인···소형 제품도 34만원대",
+          "desc": "LG전자와 삼성전자의 김치냉장고 행사상품을 포함해 냉장고·세탁기·TV 등 행사상품을 오는 16일까지 2개 품목 이상 구매하면 상품과 품목 수에 따라 최대 85만원을 할인한다. 단품 구매 고객을 위한 가격 혜택도...",
+          "src": "smartbizn",
+          "date": "11/09",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=158809",
+          "img": "https://cdn.smartbizn.com/news/photo/202611/158809_266500_2659.jpg"
         },
         {
-          "title": "삼성 라이온즈 12년 만의 우승…'통 큰 할인' 나설까",
-          "desc": "삼성전자는 이달 30일까지 ‘삼성전자와 함께하는 코리아 그랜드 페스티벌’을 열고 TV와 냉장고, 세탁기 등 주요 가전 11개 품목과 모바일·IT 제품 5개 품목을 할인 판매하고 있다. 행사 대상에는 ‘비스포크 AI 콤보’...",
-          "src": "이데일리",
-          "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/018/0006406327?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110800701.jpg"
+          "title": "'12년 만에 KS 우승' 삼성, 또다시 대국민 감사 행사 나서나",
+          "desc": "오는 30일까지 세탁건조기와 TV, 냉장고 등 가전 11개 품목과 모바일·정보기술(IT) 제품 5개 품목에 할인 혜택을 제공한다. 삼성전자는 2014년 라이온즈 우승 이틀 만에 할인행사를 발표한 전례도 있어, 별개의 우승 기념...",
+          "src": "뉴시스",
+          "date": "11/09",
+          "url": "https://n.news.naver.com/mnews/article/003/0014310093?sid=101",
+          "img": "https://img1.newsis.com/2026/11/08/NISI20261108_0021525228_web.jpg"
         },
         {
-          "title": "\"삼성 우승, TV 냉장고 할인할까?\"…12년 전엔 111만원 혜택",
-          "desc": "30일까지 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 진행하고 있다. 국가 차원의 소비 진작 행사에 참여하는 것으로, 라이온즈 우승과 별도로 마련된 행사다. 행사 대상에는 TV와 냉장고, 세탁건조기, 청소기 등...",
-          "src": "파이낸셜뉴스",
-          "date": "11/08",
-          "url": "https://n.news.naver.com/mnews/article/014/0005601088?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081859025012_e.jpg"
+          "title": "삼성·현대차, 미래 모빌리티 동맹 강화…반도체서 로봇까지",
+          "desc": "올해 1월 미국 라스베이거스에서 열린 CES 2026에서 정의선 현대차그룹 회장은 삼성전자 부스를 찾아 노태문 사장에게 현대차그룹의 소형 자율주행 모빌리티 플랫폼 모베드와 삼성전자 로봇청소기의 협업을 제안하기도...",
+          "src": "thetracker",
+          "date": "11/09",
+          "url": "https://thetracker.co.kr/View.aspx?No=4303210",
+          "img": "https://cdn.coenworks.com/Files/478/News/202611/8664_20261109103029429.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "현대차·기아, 협력사 온실가스 감축 지원 확대…민관 협력체계 구축",
+          "desc": "/사진=현대차·기아 현대자동차·기아가 글로벌 공급망의 온실가스 규제 강화에 대응하기 위해 정부 및 유관기관과 협력사 지원체계를 구축한다. 기존 설비 교체 중심의 온실가스 감축 지원에서 나아가 규제 대응 교육과...",
+          "src": "비즈니스플러스",
+          "date": "11/09",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119488",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119488_120936_4724_v150.jpg"
+        },
         {
           "title": "현대차·기아, 루크 동커볼케 디자인 여정 담은 아카이브 전시 개최",
           "desc": "이번 전시는 현대차·기아가 자동차 디자인을 제품 경쟁력의 영역에서 대중과 소통하는 문화·브랜드 자산으로 확장하려는 시도로 볼 수 있다. 특히 루크 동커볼케 사장의 10년간 디자인 혁신 성과를 단순히 소개하는...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/08",
           "url": "https://www.gokorea.kr/news/articleView.html?idxno=884627",
           "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884627_162189_3615_v150.jpg"
-        },
-        {
-          "title": "현대차·기아, 자동차 반도체 개발 체계 국제인증",
-          "desc": "현대자동차·기아가 자체 구축한 차량용 반도체 개발 프로세스에 대해 국제 인증을 획득하고, 관련 안전성 강화에 나선다. 현대차·기아는 최근 경기 성남 판교테크원에서 유지한 SDV플랫폼담당 부사장 등 임직원과 국제...",
-          "src": "ksilbo",
-          "date": "11/06",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071749",
-          "img": "https://www.ksilbo.co.kr/image/logo/snslogo_20210331020923.png"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자, 현대차그룹 초청 ‘감사 데이’… 양사 경영진 오늘 부부 동...",
-          "desc": "그간 삼성전자는 해외에서 특정 산업군 협력사를 초청하는 교류 행사를 열어왔으나, 국내에서 단일... 전장 부품과 배터리 등 다방면에서 양사의 협력 필요성이 커졌다는 판단이 작용한 것으로 풀이된다. 실제 양사는...",
-          "src": "조선일보",
+          "title": "美·유럽 데이터센터 제동, TSMC 메모리 재진출 … K-반도체 전방위 도전...",
+          "desc": "로직 부품인 베이스다이 생산에 참여하고 있는데, HBM용 D램까지 직접 생산하면 AI 가속기 제조부터 메모리, 패키징까지 사업 범위를 넓힐 수 있다\"며 \"삼성전자와 SK하이닉스에는 주요 협력사가 메모리 경쟁자로...",
+          "src": "biz",
           "date": "11/09",
-          "url": "https://n.news.naver.com/mnews/article/023/0004008464?sid=101",
-          "img": "https://www.chosun.com/resizer/v2/GIYDKMJZGA2TOOBQGEYDEZLCGE.jpg?auth=4276f38915714f4bcaabb664b0e0304bd77ebcf598395b4d8dd6ef9f741a2457&width=1200&height=630&smart=true"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900072.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/09/2026110900072_0.jpg?u=20261109100847?u=20261109100847"
         },
         {
-          "title": "삼성-현대차 “파트너십 강화”… 사장단 내외 등 170명 한자리에",
-          "desc": "삼성과 현대자동차그룹 주요 경영진이 전장(電裝·전자 부품), 로보틱스 등 다양한 분야에서 파트너십을... 자리로, 삼성이 현대차 측에 제안한 것으로 알려졌다. 그간 삼성이 여러 협력사들을 초청해 네트워킹 행사를...",
-          "src": "동아일보",
+          "title": "6년 전 배터리로 만난 삼성·현대차, 이번엔 경영진 배우자까지 한자리...",
+          "desc": "삼성전자는 그동안 해외에서 여러 협력사를 초청하는 교류 행사를 열었지만, 국내에서 단일 기업 그룹을... 있다.삼성과 현대차그룹은 차량용 반도체와 디스플레이 등 전장 부품을 중심으로 협력해 왔다. 최근에는...",
+          "src": "insight",
           "date": "11/09",
-          "url": "https://n.news.naver.com/mnews/article/020/0003760905?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/08/134988667.1.jpg"
+          "url": "https://www.insight.co.kr/news/581161",
+          "img": "https://img.insight.co.kr/static/2026/11/09/1200/img_20261109095909_8zmubn4f.jpg"
         },
         {
-          "title": "삼성·현대차, 사장단 부부동반 '감사데이' 개최…전장·로봇 협력 확대",
-          "desc": "이번 행사는 삼성전자가 현대차그룹에 먼저 제안한 것으로 알려졌다. 삼성전자가 복수의 협력사를 대상으로... 배터리와 삼성전기 전자부품이 적용될 가능성도 거론된다. 다만 구체적인 공급 여부는 확정되지 않았다....",
-          "src": "ebn",
-          "date": "11/08",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730839",
-          "img": "https://cdn.ebn.co.kr/news/thumbnail/202611/1730839_766555_2458_v150.jpg"
+          "title": "[위클리오늘] 삼성·현대차, 미래 모빌리티 동맹 강화…경영진 170명 한...",
+          "desc": "이번 행사는 삼성전자가 현대차그룹과의 협력에 감사를 전하기 위해 먼저 제안한 것으로 알려졌다. 삼성이 그동안 국내외 협력사들과 교류 행사를 진행한 사례는 있지만, 국내에서 특정 기업집단의 경영진만을...",
+          "src": "weeklytoday",
+          "date": "11/09",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=801385",
+          "img": "https://cdn.weeklytoday.com/news/thumbnail/202611/801385_998904_2429_v150.jpg"
         },
         {
-          "title": "배터리부터 스마트홈까지…삼성·현대차 ‘기술 동맹’ 확대",
-          "desc": "협력도 삼성그룹과 현대자동차그룹은 배터리·디스플레이 등 차량 부품에서 스마트홈과 제조 현장으로... 삼성전기는 2023년 10월 현대차·기아의 카메라 분야 1차 협력사로 선정됐다. 신형 팰리세이드에도 운전자의...",
-          "src": "이투데이",
-          "date": "11/08",
-          "url": "https://www.etoday.co.kr/news/view/2645431",
-          "img": "https://img.etoday.co.kr/pto_db/2026/06/20260605081713_2342184_1200_795.jpg"
+          "title": "아이폰 듀오, 화면 파손 이어 이번엔 앱 최적화 논란",
+          "desc": "삼성전자 갤럭시 Z 폴드 시리즈가 지원하는 3개 앱 동시 분할 실행이나 자유로운 팝업 창 기능도 제공하지... 업계 관계자는 \"아이폰 듀오는 현재 협력사 자재 관리 실패로 불거진 '깨지는 화면'과 생태계 준비 부족으로...",
+          "src": "파이낸셜뉴스",
+          "date": "11/09",
+          "url": "https://n.news.naver.com/mnews/article/014/0005601176?sid=105",
+          "img": "https://image.fnnews.com/resource/media/image/2026/10/26/202610261718485382_e.jpg"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "【박란희의 TalkTalk】민주당의 승리, 불안한 2027년",
-          "desc": "반면 우드맥킨지는 연방 차원의 규칙 도입에는 법적·정치적 제약이 있어 주정부가 비용분담 정책을 주도할... AI를 업무에 얼마나 많이 활용하는가와 함께 AI 사용으로 발생하는 전력·물 소비와 관련 위험도 확인해야...",
-          "src": "impacton",
+          "title": "넥센타이어, 현대차 '디 올 뉴 투싼'에 신차용 타이어 공급",
+          "desc": "정숙성과 승차감 구현을 위해 AI 빅데이터 기술인 CNN(이미지 인공신경망)을 활용했다. 이를 통해 저소음... 또한 패턴 형상 유지 기술을 도입해 타이어가 절반가량 마모된 상태에서도 본연의 성능을 일정하게 유지하도록...",
+          "src": "businesskorea",
           "date": "11/09",
-          "url": "https://www.impacton.net/news/articleView.html?idxno=30575",
-          "img": "https://cdn.impacton.net/news/photo/202611/30575_40643_393.jpeg"
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280774",
+          "img": "https://www.businesskorea.co.kr/news/thumbnail/202611/280774_288595_4226_v150.jpg"
         },
         {
-          "title": "강남구, 생성형 AI로 그린… '2026 강남 대전환!! AI 홍보콘텐츠 공모전...",
-          "desc": "이번 공모전은 생성형 AI 기술을 활용해 ‘강남 대전환’을 이끄는 구의 주요 정책과 사업, 문화, 관광, 축제... “앞으로도 AI를 비롯한 디지털 혁신 기술을 구정 홍보에 다각도로 도입해 강남의 브랜드 가치를 높이고...",
-          "src": "weeklytrade",
+          "title": "메디팔, 'ASLS KOREA 2026'서 병원 운영 자동화 AI 전략 제시",
+          "desc": "의료현장에서의 AI 활용방안을 공유했다. 특히 강종일 대표는 AI를 단순한 만능 도구가 아닌 '병원이... 강종일 대표는 \"병원의 AI 전환은 단순한 기술 도입을 넘어 실제 의료현장의 업무 방식과 환경을 반영하는 것이...",
+          "src": "k-health",
           "date": "11/09",
-          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=102103",
-          "img": "https://weeklytrade.co.kr/PEG/17941549218821.png"
+          "url": "https://www.k-health.com/news/articleView.html?idxno=102089",
+          "img": "https://cdn.k-health.com/news/photo/202611/102089_203864_4038.jpg"
         },
         {
-          "title": "국가 기상의 심장부, 날씨 예측 자료 하루 80만건씩 쌓여",
-          "desc": "최근에는 AI를 활용해 관측 후 16분 만에 7시간 뒤까지의 위성 영상을 예측하는 기술이 도입됐다. 구름의 생성과 발달, 움직임을 미리 엿볼 수 있게 된 것이다. 이를 통해 기존보다 ‘구름 많음’ ‘흐림’에 대한 예보...",
-          "src": "kmib",
+          "title": "메디팔, 'ASLS 코리아' 참가…병원 운영 자동화 AI 전략 제시",
+          "desc": "학회 기간에는 총 4개 강연 세션을 통해 병원 운영 자동화 구현 전략과 의료 현장에서의 AI 활용 방안을... 강종일 대표는 \"병원의 AI 전환은 단순한 기술 도입을 넘어 실제 의료 현장의 업무방식과 환경을 반영하는...",
+          "src": "rapportian",
           "date": "11/09",
-          "url": "https://n.news.naver.com/mnews/article/005/0001883807?sid=102",
-          "img": ""
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=242179",
+          "img": "https://cdn.rapportian.com/news/thumbnail/202611/242179_145978_3933_v150.jpg"
         },
         {
-          "title": "[業살린 ESG] GS리테일, '미디어나눔버스' 10년…2.3만명 특별한 동행",
-          "desc": "디지털 기술을 경험할 수 있도록 교육 영역을 확대했다. 특히 지난해 AI와 VR을 활용한 체험교육을 시범 도입한 데 이어 올해부터 정규 프로그램으로 운영하고 있다. 기존 방송 제작 중심의 교육에서 한발 더 나아가...",
-          "src": "apnews",
+          "title": "심플랫폼, ‘제조AI 솔루션 공모전’ 중기부 장관상 수상",
+          "desc": "등을 활용해 신규 고객을 확보하고, 기존 구축 경험과 산업별 적용 사례를 바탕으로 중소·중견 제조기업의 AI 도입 수요에 대응할 방침이다. 심플랫폼 관계자는 “이번 대상 선정은 제조 AI 기술력과 현장 적용...",
+          "src": "서울경제TV",
           "date": "11/09",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052943",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3052943_86858_1440_v150.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202611090074",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/11/09/sentv20261109000081.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성·현대차, 170명 규모 첫 교류 행사…경영진·배우자 초청 협력",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362115",
-      "img": "http://www.biztribune.co.kr/news/thumbnail/202611/362115_268141_5856_v150.jpg"
+      "title": "삼성·현대차 경영진 부부 170여 명 회동…식구도 '깐부'",
+      "url": "https://n.news.naver.com/mnews/article/586/0000141862?sid=101",
+      "img": "https://cdn.sisajournal.com/news/thumbnail/202611/393274_402590_3740_v150.jpg"
     },
     {
-      "title": "삼성 라이온즈 12년 만의 우승…'통 큰 할인' 나설까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406327?sid=101",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26110800701.jpg"
+      "title": "롯데하이마트, 김치냉장고 최대 85만원 할인···소형 제품도 34만원대",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=158809",
+      "img": "https://cdn.smartbizn.com/news/photo/202611/158809_266500_2659.jpg"
     },
     {
-      "title": "\"삼성 우승, TV 냉장고 할인할까?\"…12년 전엔 111만원 혜택",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601088?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/08/202611081859025012_e.jpg"
+      "title": "'12년 만에 KS 우승' 삼성, 또다시 대국민 감사 행사 나서나",
+      "url": "https://n.news.naver.com/mnews/article/003/0014310093?sid=101",
+      "img": "https://img1.newsis.com/2026/11/08/NISI20261108_0021525228_web.jpg"
+    },
+    {
+      "title": "삼성·현대차, 미래 모빌리티 동맹 강화…반도체서 로봇까지",
+      "url": "https://thetracker.co.kr/View.aspx?No=4303210",
+      "img": "https://cdn.coenworks.com/Files/478/News/202611/8664_20261109103029429.jpg"
+    },
+    {
+      "title": "현대차·기아, 협력사 온실가스 감축 지원 확대…민관 협력체계 구축",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=119488",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/119488_120936_4724_v150.jpg"
     },
     {
       "title": "현대차·기아, 루크 동커볼케 디자인 여정 담은 아카이브 전시 개최",
       "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91664",
       "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91664_131935_221_v150.jpg"
-    },
-    {
-      "title": "[주간 산업 나침반] 한화 美 군함 첫 수주·현대차·기아 판매 호조...LI...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561918",
-      "img": "https://cdn.joongangenews.com/news/photo/202611/561918_369474_2130.png"
-    },
-    {
-      "title": "기아 자동차, 10년 만에 연간 판매 목표 달성 눈앞…신차 효과로 상승세...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=884627",
-      "img": "https://cdn.gokorea.kr/news/thumbnail/202611/884627_162189_3615_v150.jpg"
     }
   ]
 };
