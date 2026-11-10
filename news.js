@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.10 (화) 05:47",
+  "updatedAt": "2026.11.10 (화) 13:08",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "달리는 AI 패권 쥔다… 삼성·현대차 ‘초격차 동맹’",
-          "desc": "삼성전자와 현대자동차그룹이 창립 이래 처음으로 경영진 부부 동반 행사로 파트너십 확대에 나섰다.... 김필수 대림대 미래자동차학부 교수는 “가전·전자·자동차 등 각 산업 분야가 철저히 분리돼 있던 과거와 달리...",
-          "src": "서울신문",
+          "title": "[삼성전자] C랩 스타트업 30개사 데모데이·천장형 디지털 엑스레이 출...",
+          "desc": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 출범 삼성전자는 AI 가전 사용 경험을 콘텐츠로 소개하는 크리에이터 '삼성 크루' 1기를 출범했다고 밝혔다. 유튜브·인스타그램·블로그 등에서 활동하는 크리에이터...",
+          "src": "webeconomy",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/081/0003697495?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/11/09/SSC_20261109180202_O2.jpg"
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2368201",
+          "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2368201_1178935_310.jpg"
         },
         {
-          "title": "'연말 할인전' 삼성·LG, 남는 장사 될까",
-          "desc": "삼성전자는 TV와 냉장고, 세탁기 등 가전 11개 품목과 모바일·IT(정보기술) 제품 5개 품목을 할인판매하고 LG전자는 다품목 구매·구독 고객에게 최대 700만원 상당의 혜택을 제공한다. 연말 할인 열기에 더해...",
+          "title": "자동차·가전·김장재료·패션까지…끝나지 않은 '코그페' 할인은 '쭈욱...",
+          "desc": "삼성전자는 오는 30일까지 TV·생활가전과 모바일·PC 등 주요 제품을 대상으로 할인행사를 진행한다. 여러... 위닉스와 쿠쿠 등 국내 가전기업도 공기청정기, 정수기, 밥솥, 로봇청소기 등 특별 할인행사를 진행한다....",
           "src": "머니투데이",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/008/0005438713?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110919352672649_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/008/0005438997?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110921421764124_1.jpg"
         },
         {
-          "title": "[전자는 지금] LS머트리얼즈·LS일렉트릭, E-STATCOM 공동개발…해외 시...",
-          "desc": "◆삼성전자, 천장형 디지털 엑스레이 'GC85A Fit'출시 삼성전자 의료기기사업부가 의료 현장의 다양한... 이번 프로모션에서는 다이슨의 대표 무선·로봇 청소기, 헤어케어 기기를 비롯해 공기청정기, 조명, 헤드폰...",
-          "src": "dealsite",
-          "date": "11/09",
-          "url": "https://dealsite.co.kr/articles/172331",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/09/8e3d11e9c42f40cfab9c73591cc1c888/thumb.jpg"
+          "title": "삼성전자 베트남, KiN호텔그룹과 협력…숙박 공간서 AI 가전 체험 서비...",
+          "desc": "삼성전자 베트남 법인이 현지 호텔·라이프스타일 서비스 기업 KiN 호텔그룹과 손잡고 숙박 공간 내 삼성의... 세탁·건조기 등 삼성의 핵심 가전 라인업이 상호 연결되어 배치된다. 이들 기기는 스마트싱스 플랫폼을...",
+          "src": "파이낸셜뉴스",
+          "date": "11/10",
+          "url": "https://n.news.naver.com/mnews/article/014/0005601997?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/10/202611101148174040_e.jpg"
         },
         {
-          "title": "중국 가전, 세탁기·냉장고까지 안방 넘보나… 'AS·신뢰' 꼬리표",
-          "desc": "최근 주요 오프라인 유통채널에서 삼성전자와 LG전자의 로봇청소기 매출 비중이 높아지는 가운데 중국... 로보락은 무선청소기와 물걸레 청소기, 올인원 세탁건조기 등을 선보였고 에코백스는 창문 청소용 로봇으로...",
-          "src": "mediapen",
-          "date": "11/09",
-          "url": "https://www.mediapen.com/news/view/1136242",
-          "img": "https://image.mediapen.com/news/202611/news_1136242_1794203386_m.jpg"
+          "title": "LG전자·두산로보틱스, 실패까지 학습한다..피지컬 AI 현장 적용 속도전",
+          "desc": "삼성전자와 SK하이닉스, LG전자, 두산로보틱스 등 국내외 20개 파트너사가 참여한다. 개발자와 기업 관계자... 미국 테네시 세탁기 공정을 본뜬 제조 공간을 비롯해 LG CNS의 물류 자동화 솔루션과 LG이노텍의 로봇 손 학습...",
+          "src": "kpenews",
+          "date": "11/10",
+          "url": "https://kpenews.com/View.aspx?No=4304971",
+          "img": "https://cdn.coenworks.com/Files/4/News/202611/8821_20261110101303614.jpg"
         }
       ]
     },
@@ -66,7 +66,7 @@ window.NEWS_DATA = {
           "src": "ujeil",
           "date": "11/09",
           "url": "http://www.ujeil.com/news/articleView.html?idxno=394965",
-          "img": "http://cdn.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
+          "img": "http://www.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
         },
         {
           "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[분석] 美 의회 권력 바뀌어도 관세는 '상수'···韓 기업 대미 투자, 이...",
-          "desc": "삼성전자는 텍사스주 테일러에, SK하이닉스는 인디애나주에 첨단 패키징 시설을 짓고 있다. 미국 내국세법... 인건비, 부품 조달비, 신규 설비 감가상각, 현지 협력사 공급망 구축비가 모두 수익성에 영향을 준다....",
-          "src": "polinews",
-          "date": "11/09",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748083",
-          "img": "https://cdn.polinews.co.kr/news/photo/202611/748083_572719_387.jpg"
+          "title": "삼성 C랩, 벤처 1천개 육성…15개사 기술 검증",
+          "desc": "전시 분야는 AI와 디지털헬스, 로봇, 소재·부품, 모빌리티, 자원 재활용 등이다. 혈당 관리 스타트업 랜식은... 삼성전자는 C랩 기업들의 CES와 비바 테크놀로지 등 해외 전시회 참가를 지원해 현지 고객과 투자자, 협력사...",
+          "src": "4th",
+          "date": "11/10",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2121522",
+          "img": "https://cdn.4th.kr/news/thumbnail/202611/2121522_223509_020_v150.jpg"
         },
         {
-          "title": "천안서 시작된 '이재용-정의선 동맹'... 전기차 배터리에서 로봇까지",
-          "desc": "삼성의 부품·완제품 역량을 결합해 새로운 사업 기회를 열기를 기대한다\"고 덧붙였다. ▲  삼성전자... 10월엔 삼성전기가 현대차·기아의 차량용 카메라 1차 협력사로 선정됐고, 삼성SDI는 현대차와 첫 전기차 배터리...",
-          "src": "ohmynews",
-          "date": "11/09",
-          "url": "https://n.news.naver.com/mnews/article/047/0002535192?sid=101",
-          "img": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2025/1119/IE003550225_BIG.jpg"
+          "title": "[S-이슈] 젠슨 황 리스크, HBM 주문보다 규제 비용이 변수…삼성·SK하이...",
+          "desc": "\\ 삼성전자와 SK하이닉스의 고대역폭메모리(HBM) 공급에 당장 차질이 발생할 가능성은 제한적이지만, 미국의... 특히 자금 여력이 상대적으로 부족한 중소 협력사는 발주가 취소되지 않더라도 납품 일정이 늦춰지는...",
+          "src": "s-journal",
+          "date": "11/10",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45187",
+          "img": "https://cdn.s-journal.co.kr/news/photo/202611/45187_56426_3333.png"
         },
         {
-          "title": "삼성 AI 안경, 판매는 젠틀몬스터…AS는?",
-          "desc": "안경 브랜드가 AS를 접수하고 전자부품 수리가 필요한 경우 삼성전자 등 기술 협력사에 연계하는 방안이 검토되고 있다. 다만 실제 수리 주체와 보증 범위 등 구체적인 정책은 아직 공개되지 않았다. 워비파커는 공식...",
-          "src": "조선일보",
-          "date": "11/09",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000547",
-          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000547_500581_148.png"
+          "title": "[新한일경제②] 韓기업이 일본행 티켓을 끊은 이유",
+          "desc": "삼성전자는 2024년부터 5년간 400억엔(약 3500억원)을 투입해 일본 소재·부품·장비 기업과 차세대 반도체... 일본 협력사들이 향후 반도체 수요를 예측하고 필요한 설비투자와 생산능력을 사전에 확보할 수 있도록 하기...",
+          "src": "pointdaily",
+          "date": "11/10",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325407",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325407_322437_1446_v150.jpg"
         },
         {
-          "title": "삼성전자, 현대차그룹과 첫 단독교류…반도체·배터리 넘어 로봇까지 '...",
-          "desc": "이번 행사는 삼성전자의 제안으로 마련됐다. 삼성전자는 그동안 해외에서 특정산업군의 협력사들을 초청해... 실제 양사는 핵심부품 분야에서 협력범위를 넓혀왔다. 삼성전자 파운드리사업부는 지난해 현대차그룹이...",
+          "title": "삼성·현대차그룹, 부품 공급 넘어 공동개발로…로봇 협력 확대",
+          "desc": "전영현 삼성전자 부회장(앞줄 오른쪽)과 장재훈 현대차그룹 부회장(앞줄 왼쪽)이 'HMG(현대모터스그룹) 감사... 이번 행사는 삼성이 먼저 제안했다. 그동안 해외 협력사들을 대상으로 교류행사를 진행해 왔지만...",
           "src": "서울경제뉴스",
-          "date": "11/09",
-          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94891",
-          "img": "http://www.seouleconews.com/news/thumbnail/202611/94891_102246_1343_v150.jpg"
+          "date": "11/10",
+          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94898",
+          "img": "http://www.seouleconews.com/news/thumbnail/202611/94898_102259_857_v150.jpg"
         }
       ]
     },
@@ -221,65 +221,65 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[기자수첩] AI 시대, 변호사의 길",
-          "desc": "태평양은 글로벌 리걸 AI 플랫폼 하비(Harvey)를 전 구성원에게 도입했고, 율촌 역시 AI 검색 서비스 '아이율... AI를 활용하는 로펌들도, 기술을 개발하는 기업도 생존 방식을 고민하고 있다. 실제 국내 대표 리걸테크...",
-          "src": "머니투데이",
+          "title": "일손 덜어도 돌봄 끊기면 '반쪽'···병원·요양시설·집 정보 잇는 돌...",
+          "desc": "△전자의무기록(EMR) 기반 낙상·골절 위험예측 AI △의료진 판단을 돕는 시스템 △지역사회 경로당을 활용한 예방관리 프로그램도 추진한다. 세 번째 전략인 '잇는 기술'은 병원·요양시설·재가 돌봄 사이의 의료·돌봄...",
+          "src": "womaneconomy",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/008/0005438760?sid=102",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1599,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026110908384931274_1.jpg"
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260881",
+          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202611/260881_465172_2746_v150.jpg"
         },
         {
-          "title": "美 중간선거에 주목받는 친환경·ESS ETF…정책 기대, 실적으로 이어질...",
-          "desc": "위해 AI(인공지능)를 활용해 제작했습니다. [사진=챗GPT] [뉴스투데이=김소연 기자] 미국 중간선거 이후... ESS 도입이 확대될 가능성도 있기 때문이다. 이와 관련해 정원석 iM증권 연구원은 \"AI 기술 경쟁 속에서 연산...",
-          "src": "news2day",
+          "title": "생명·안전 규제 ‘완화’도 규제합리화위 심사 받는다",
+          "desc": "공공저작물을 AI 학습에 활용할 수 있도록 공공누리 표시 기준을 신설했다. 자율주행 분야에서는 기술 개발... 제도도 도입했다. 기업 활동과 관련해서는 에너지저장장치(ESS) 시설물의 법적 분류 기준을 명확히 해...",
+          "src": "naeil",
           "date": "11/10",
-          "url": "https://www.news2day.co.kr/article/20261110500003",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/10/.cache/512/20261110500004.png"
+          "url": "https://www.naeil.com/news/read/608260?ref=naver",
+          "img": "https://wimg.naeil.com/paper/2026/11/10/20261110_01100102000001_L01.jpg"
         },
         {
-          "title": "아마존, 지역사회 지원 펀드 울산으로 확대…15만 달러 지원",
-          "desc": "올해는 클라우드 컴퓨팅과 AI 등 디지털 기술을 활용하는 ‘디지털 혁신 트랙’을 새롭게 도입했다. 학생들이 지역사회 문제를 해결할 모바일 애플리케이션을 개발하거나 디지털 기술을 활용해 환경 문제를 해결하는...",
-          "src": "서울경제",
+          "title": "미국 AI 투자 늦어지면 중국에 추격 기회 온다",
+          "desc": "좋은 AI 모델을 개발할 시간을 벌 수 있다는 설명이다. 가격이 낮고 도입하기 쉬운 중국산 개방형 AI 모델을... 중국 기술기업들은 자국에서 구하기 어려운 첨단 AI 칩을 해외 데이터센터에서 활용해 왔다. 정치위험...",
+          "src": "naeil",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/011/0004680384?sid=105",
-          "img": ""
+          "url": "https://www.naeil.com/news/read/608267?ref=naver",
+          "img": "https://wimg.naeil.com/paper/2026/11/10/20261110_01100101000004_L01.jpg"
         },
         {
-          "title": "[젠슨 황 논란] '모두의 AI'와 국내 스타트업까지 지원… 엔비디아, 한국...",
-          "desc": "NV링크 퓨전 플랫폼을 활용해 외부 업체의 가속기를 엔비디아 컴퓨팅 시스템에 연결하는 방식으로, SK텔레콤·리벨리온·엔비디아 3사는 AI 추론을 프리필과 디코드 단계로 분산 처리하는 기술을 도입한다. 프리필...",
-          "src": "cbci",
+          "title": "앤트로픽, 클로드 신형 모델 2종 선보여… 코딩 넘어 금융·과학 분야까...",
+          "desc": "업무에서 활용 범위를 넓히려는 회사의 기술 개발 방향을 보여준다. 앤트로픽은 공식 뉴스룸을 통해 두... 기업 고객들이 새로운 모델을 도입한 뒤 어떤 성과를 거두는지, 연구기관과 개발자들이 이를 얼마나 폭넓게...",
+          "src": "jemin",
           "date": "11/10",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624958",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202611/mn_624958_20261109212334_1_v150.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846705",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/846705_434310_4343_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "달리는 AI 패권 쥔다… 삼성·현대차 ‘초격차 동맹’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003697495?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/11/09/SSC_20261109180202_O2.jpg"
+      "title": "[삼성전자] C랩 스타트업 30개사 데모데이·천장형 디지털 엑스레이 출...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2368201",
+      "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2368201_1178935_310.jpg"
     },
     {
-      "title": "'연말 할인전' 삼성·LG, 남는 장사 될까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438713?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110919352672649_1.jpg"
+      "title": "자동차·가전·김장재료·패션까지…끝나지 않은 '코그페' 할인은 '쭈욱...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438997?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110921421764124_1.jpg"
     },
     {
-      "title": "[전자는 지금] LS머트리얼즈·LS일렉트릭, E-STATCOM 공동개발…해외 시...",
-      "url": "https://dealsite.co.kr/articles/172331",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/09/8e3d11e9c42f40cfab9c73591cc1c888/thumb.jpg"
+      "title": "삼성전자 베트남, KiN호텔그룹과 협력…숙박 공간서 AI 가전 체험 서비...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601997?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/11/10/202611101148174040_e.jpg"
     },
     {
-      "title": "중국 가전, 세탁기·냉장고까지 안방 넘보나… 'AS·신뢰' 꼬리표",
-      "url": "https://www.mediapen.com/news/view/1136242",
-      "img": "https://image.mediapen.com/news/202611/news_1136242_1794203386_m.jpg"
+      "title": "LG전자·두산로보틱스, 실패까지 학습한다..피지컬 AI 현장 적용 속도전",
+      "url": "https://kpenews.com/View.aspx?No=4304971",
+      "img": "https://cdn.coenworks.com/Files/4/News/202611/8821_20261110101303614.jpg"
     },
     {
       "title": "현대차·기아, 협력사 탄소규제 대응 돕는다",
       "url": "http://www.ujeil.com/news/articleView.html?idxno=394965",
-      "img": "http://cdn.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
+      "img": "http://www.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
     },
     {
       "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
