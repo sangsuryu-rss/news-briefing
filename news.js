@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.10 (화) 13:08",
+  "updatedAt": "2026.11.10 (화) 21:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[삼성전자] C랩 스타트업 30개사 데모데이·천장형 디지털 엑스레이 출...",
-          "desc": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 출범 삼성전자는 AI 가전 사용 경험을 콘텐츠로 소개하는 크리에이터 '삼성 크루' 1기를 출범했다고 밝혔다. 유튜브·인스타그램·블로그 등에서 활동하는 크리에이터...",
-          "src": "webeconomy",
+          "title": "발 대신 바퀴…피겨 선수처럼 '360도 폴짝'",
+          "desc": "몇 달 전엔 인간처럼 춤추고 무거운 냉장고를 들어 올려 옮기더니, 이제 공중 돌기까지 해 낸 겁니다. [앤디... 어제 삼성전자와 현대차그룹이 로봇 분야까지 협력을 더 확대하기로 발표한 직후에 나왔습니다. 현대차는 2년...",
+          "src": "news",
           "date": "11/10",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2368201",
-          "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2368201_1178935_310.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001402070?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20261110/202239778_1280.jpg"
         },
         {
-          "title": "자동차·가전·김장재료·패션까지…끝나지 않은 '코그페' 할인은 '쭈욱...",
-          "desc": "삼성전자는 오는 30일까지 TV·생활가전과 모바일·PC 등 주요 제품을 대상으로 할인행사를 진행한다. 여러... 위닉스와 쿠쿠 등 국내 가전기업도 공기청정기, 정수기, 밥솥, 로봇청소기 등 특별 할인행사를 진행한다....",
-          "src": "머니투데이",
+          "title": "보람그룹, 소비자 소리 반영한 '상조 4.0'로 라이프케어로의 첫 혁신 일...",
+          "desc": "그 가운데 대표적으로 진행하고 있는 사업은 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 해당 상품은 소비자가 삼성스토어에서 가전을 구매하거나 구독하는 과정에서 상조서비스를 함께...",
+          "src": "s-journal",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/008/0005438997?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110921421764124_1.jpg"
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45223",
+          "img": "https://cdn.s-journal.co.kr/news/photo/202611/45223_56463_3318.png"
         },
         {
-          "title": "삼성전자 베트남, KiN호텔그룹과 협력…숙박 공간서 AI 가전 체험 서비...",
-          "desc": "삼성전자 베트남 법인이 현지 호텔·라이프스타일 서비스 기업 KiN 호텔그룹과 손잡고 숙박 공간 내 삼성의... 세탁·건조기 등 삼성의 핵심 가전 라인업이 상호 연결되어 배치된다. 이들 기기는 스마트싱스 플랫폼을...",
-          "src": "파이낸셜뉴스",
+          "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
+          "desc": "10일 CES를 주최하는 미국 소비자기술협회(CTA)에 따르면 삼성전자의 갤럭시Z 폴드8과 울트라는 모바일... 그 외 초대형 무선 월페이퍼 TV인 LG 시그니처 올레드 W, 세탁기와 건조기가 결합한 LG 워시타워 등 총 8개...",
+          "src": "한국경제",
           "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/014/0005601997?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/10/202611101148174040_e.jpg"
+          "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "LG전자·두산로보틱스, 실패까지 학습한다..피지컬 AI 현장 적용 속도전",
-          "desc": "삼성전자와 SK하이닉스, LG전자, 두산로보틱스 등 국내외 20개 파트너사가 참여한다. 개발자와 기업 관계자... 미국 테네시 세탁기 공정을 본뜬 제조 공간을 비롯해 LG CNS의 물류 자동화 솔루션과 LG이노텍의 로봇 손 학습...",
-          "src": "kpenews",
+          "title": "11번가, ‘그랜드십일절’ 마지막 날 특가 확대…G마켓·쿠팡도 할인 경...",
+          "desc": "삼성전자 85인치 TV와 LG전자 냉장고, 세탁건조기 세트 등 대형 가전부터 애플 아이폰 18 프로, 삼성전자 갤럭시 탭 등 디지털 기기를 판매한다. 로봇청소기와 음식물처리기 등은 라이브방송을 통해 별도 할인한다....",
+          "src": "sateconomy",
           "date": "11/10",
-          "url": "https://kpenews.com/View.aspx?No=4304971",
-          "img": "https://cdn.coenworks.com/Files/4/News/202611/8821_20261110101303614.jpg"
+          "url": "https://sateconomy.co.kr/news/view/1065596599011121",
+          "img": "http://sateconomy.co.kr/news/data/20261110/p1065596599011121_888_thum.png"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "\"디지털자산 패권 경쟁 속 한국의 선택은?\"… 'D-CON 2026'서 해법 모색",
+          "desc": "\"삼성폰·현대차에 스테이블코인 탑재\"…글로벌 결제시장 공략 제안 글로벌 시장에서 원화 기반... 민 의원은 \"20억 개 팔린 삼성폰에 탑재하고, 전 세계에 널리 퍼져 있는 현대자동차, 기아자동차에 탑재하면 된다\"며...",
+          "src": "econovill",
+          "date": "11/10",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756737",
+          "img": "https://cdn.econovill.com/news/thumbnail/202611/756737_734328_579_v150.jpg"
+        },
         {
           "title": "현대차·기아, 협력사 탄소규제 대응 돕는다",
           "desc": "사진제공=현대차·기아 현대자동차·기아(이하 현대차·기아)는 국가기술표준원, 현대차·기아 협력회, K-Mobility 브릿지 재단과 '2026 미래차 전환을 위한 기술규제 대응 지원 업무협약'을 체결하고, 부품 협력사들과...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/09",
           "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/09/2026110980124.html",
           "img": "https://www.dizzotv.com/site/data/img_dir/2026/11/09/2026110980123_0.jpg"
-        },
-        {
-          "title": "삼성전자, 현대차 경영진 부부동반 공동 행사",
-          "desc": "삼성전자 파운드리 사업부는 지난해 현대차가 개발한 자율주행용 칩 양산을 수주했고, 삼성의 스마트홈 플랫폼인 '스마트싱스'로 현대차·기아 자동차를 원격 제어하는 '홈투카' 서비스가 도입됐다. 3월에는 현대차·기아...",
-          "src": "koreareport",
-          "date": "11/09",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54455",
-          "img": "https://cdn.koreareport.co.kr/news/photo/202611/54455_57673_1356.png"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성 C랩, 벤처 1천개 육성…15개사 기술 검증",
-          "desc": "전시 분야는 AI와 디지털헬스, 로봇, 소재·부품, 모빌리티, 자원 재활용 등이다. 혈당 관리 스타트업 랜식은... 삼성전자는 C랩 기업들의 CES와 비바 테크놀로지 등 해외 전시회 참가를 지원해 현지 고객과 투자자, 협력사...",
-          "src": "4th",
+          "title": "김정관 \"호남 팹 배치 이달 마무리\"",
+          "desc": "남은 공백은 소재·부품·장비(소부장) 협력사의 자리다. 이달 맺을 입주협약의 당사자는 삼성전자·SK하이닉스와 정부, LH, 전남광주통합특별시다. 협력사 입지 계획은 아직 공개된 일정이 없다. 조인철 의원은...",
+          "src": "이데일리",
           "date": "11/10",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2121522",
-          "img": "https://cdn.4th.kr/news/thumbnail/202611/2121522_223509_020_v150.jpg"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365991",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365991_301000_3341_v150.jpg"
         },
         {
-          "title": "[S-이슈] 젠슨 황 리스크, HBM 주문보다 규제 비용이 변수…삼성·SK하이...",
-          "desc": "\\ 삼성전자와 SK하이닉스의 고대역폭메모리(HBM) 공급에 당장 차질이 발생할 가능성은 제한적이지만, 미국의... 특히 자금 여력이 상대적으로 부족한 중소 협력사는 발주가 취소되지 않더라도 납품 일정이 늦춰지는...",
-          "src": "s-journal",
+          "title": "스타트업엔 투자하고 대기업과 공동개발···韓피지컬AI 공들이는 엔비...",
+          "desc": "엔비디아가 로봇 기업을 투자 대상에 포함한 것은 피지컬 AI 기술을 산업 현장에 적용할 협력사를... 삼성전자는 엔비디아의 가속 컴퓨팅과 AI 기반 물리 시뮬레이션을 반도체 소재 연구와 공정·소자 개발에 활용하고...",
+          "src": "sisajournal-e",
           "date": "11/10",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45187",
-          "img": "https://cdn.s-journal.co.kr/news/photo/202611/45187_56426_3333.png"
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424932",
+          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424932_242033_725_v150.jpg"
         },
         {
-          "title": "[新한일경제②] 韓기업이 일본행 티켓을 끊은 이유",
-          "desc": "삼성전자는 2024년부터 5년간 400억엔(약 3500억원)을 투입해 일본 소재·부품·장비 기업과 차세대 반도체... 일본 협력사들이 향후 반도체 수요를 예측하고 필요한 설비투자와 생산능력을 사전에 확보할 수 있도록 하기...",
-          "src": "pointdaily",
+          "title": "반도체와 휴머노이드의 결합… 삼성·현대차 '미래 동맹' 전격 가동",
+          "desc": "시작했고, 삼성전기도 현대차·기아의 차량용 카메라 1차 협력사로 선정됐다. 삼성은 완성차 시장에서 공급처를 확보하고, 현대차그룹은 핵심 부품의 조달처를 넓히고 있다. 제조 현장에서도 협력이 이어졌다. 삼성전자...",
+          "src": "greenpostkorea",
           "date": "11/10",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325407",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/325407_322437_1446_v150.jpg"
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307993",
+          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202611/307993_311921_040.jpg"
         },
         {
-          "title": "삼성·현대차그룹, 부품 공급 넘어 공동개발로…로봇 협력 확대",
-          "desc": "전영현 삼성전자 부회장(앞줄 오른쪽)과 장재훈 현대차그룹 부회장(앞줄 왼쪽)이 'HMG(현대모터스그룹) 감사... 이번 행사는 삼성이 먼저 제안했다. 그동안 해외 협력사들을 대상으로 교류행사를 진행해 왔지만...",
-          "src": "서울경제뉴스",
+          "title": "가전 협력사 생산라인도 AX 본격화…프레스부터 조립·물류까지 맡긴다",
+          "desc": "대기업 완제품 생산라인을 중심으로 추진되던 AI 자율제조 기술이 중견·중소기업 부품 가공과 조립, 품질검사, 물류 공정으로 확산하는 양상이다. 삼성전자 생활가전 1차 협력사인 디케이는 2028년말까지 약 69억원을...",
+          "src": "전자신문",
           "date": "11/10",
-          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94898",
-          "img": "http://www.seouleconews.com/news/thumbnail/202611/94898_102259_857_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003484184?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/10/30/news-p.v1.20261030.a3ce00a2c32c479db3e0f13e0a06ba70_P1.png"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "일손 덜어도 돌봄 끊기면 '반쪽'···병원·요양시설·집 정보 잇는 돌...",
-          "desc": "△전자의무기록(EMR) 기반 낙상·골절 위험예측 AI △의료진 판단을 돕는 시스템 △지역사회 경로당을 활용한 예방관리 프로그램도 추진한다. 세 번째 전략인 '잇는 기술'은 병원·요양시설·재가 돌봄 사이의 의료·돌봄...",
-          "src": "womaneconomy",
+          "title": "부산테크노파크, 제조 AI 기업 80여 명 참여…맞춤형 기술 상담",
+          "desc": "심재운 부산테크노파크 원장은 \"제조 AI 도입은 기업별 생산공정과 데이터 활용 수준을 진단하고, 현장 과제에 적합한 기술을 연계하는 것이 핵심\"이라며 \"이번 매칭데이에서 발굴한 기업 수요를 바탕으로 기술 적용...",
+          "src": "newstown",
           "date": "11/10",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260881",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202611/260881_465172_2746_v150.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721445",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/721445_677720_816_v150.jpg"
         },
         {
-          "title": "생명·안전 규제 ‘완화’도 규제합리화위 심사 받는다",
-          "desc": "공공저작물을 AI 학습에 활용할 수 있도록 공공누리 표시 기준을 신설했다. 자율주행 분야에서는 기술 개발... 제도도 도입했다. 기업 활동과 관련해서는 에너지저장장치(ESS) 시설물의 법적 분류 기준을 명확히 해...",
-          "src": "naeil",
+          "title": "한국남부발전, 6개월 훈련한 '척돌이'…사람 못 가는 저탄장 점검",
+          "desc": "설비 표면의 온도 차이를 영상으로 확인하는 열화상 점검은 과열 등 이상 징후를 조기에 발견하는 데 활용되... 것\"이라며 \"앞으로도 AI와 자율주행 로봇 등 첨단 기술을 설비 관리에 선도적으로 도입해 안전하고 스마트한...",
+          "src": "newstown",
           "date": "11/10",
-          "url": "https://www.naeil.com/news/read/608260?ref=naver",
-          "img": "https://wimg.naeil.com/paper/2026/11/10/20261110_01100102000001_L01.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721439",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/721439_677713_5554_v150.jpg"
         },
         {
-          "title": "미국 AI 투자 늦어지면 중국에 추격 기회 온다",
-          "desc": "좋은 AI 모델을 개발할 시간을 벌 수 있다는 설명이다. 가격이 낮고 도입하기 쉬운 중국산 개방형 AI 모델을... 중국 기술기업들은 자국에서 구하기 어려운 첨단 AI 칩을 해외 데이터센터에서 활용해 왔다. 정치위험...",
-          "src": "naeil",
+          "title": "의왕시, 전세사기 꼼수 원천 차단…AI '경기 안심 부동산' 전격 홍보",
+          "desc": "'경기 안심 부동산'은 촘촘한 AI 기술을 활용해 등기부등본, 주변 시세, 근저당 등 복잡한 부동산 핵심 정보를... 정식 도입을 앞두고 있다. 시는 제도의 성공적인 안착을 위해 관내 공인중개사사무소를 직접 발로 뛰며 주요...",
+          "src": "CNB뉴스",
           "date": "11/10",
-          "url": "https://www.naeil.com/news/read/608267?ref=naver",
-          "img": "https://wimg.naeil.com/paper/2026/11/10/20261110_01100101000004_L01.jpg"
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1023186",
+          "img": "https://cdn.cnbnews.com/news/photo/202611/1023186_525931_825.jpg"
         },
         {
-          "title": "앤트로픽, 클로드 신형 모델 2종 선보여… 코딩 넘어 금융·과학 분야까...",
-          "desc": "업무에서 활용 범위를 넓히려는 회사의 기술 개발 방향을 보여준다. 앤트로픽은 공식 뉴스룸을 통해 두... 기업 고객들이 새로운 모델을 도입한 뒤 어떤 성과를 거두는지, 연구기관과 개발자들이 이를 얼마나 폭넓게...",
-          "src": "jemin",
+          "title": "기술은 다 있는데 시장이 없다, 에너지 스타트업이 마주한 데스밸리",
+          "desc": "상용 도입을 했다고 설명했다. 김종규 대표는 2024년 손익분기점을 넘겨 흑자를 냈다. 2025년에는 시장... 입주 기업은 한전의 연구개발 시설을 활용해 기술 지원과 실증을 받을 수 있다. 장 대표는 한전과 함께 나간...",
+          "src": "platum",
           "date": "11/10",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846705",
-          "img": "https://cdn.jemin.com/news/thumbnail/202611/846705_434310_4343_v150.jpg"
+          "url": "https://platum.kr/archives/298259",
+          "img": "https://cdn.platum.kr/wp-content/uploads/2026/11/KakaoTalk_20261110_201053219_03-1024x768.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[삼성전자] C랩 스타트업 30개사 데모데이·천장형 디지털 엑스레이 출...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2368201",
-      "img": "https://cdn.webeconomy.co.kr/news/photo/202611/2368201_1178935_310.jpg"
+      "title": "발 대신 바퀴…피겨 선수처럼 '360도 폴짝'",
+      "url": "https://n.news.naver.com/mnews/article/055/0001402070?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20261110/202239778_1280.jpg"
     },
     {
-      "title": "자동차·가전·김장재료·패션까지…끝나지 않은 '코그페' 할인은 '쭈욱...",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438997?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110921421764124_1.jpg"
+      "title": "보람그룹, 소비자 소리 반영한 '상조 4.0'로 라이프케어로의 첫 혁신 일...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45223",
+      "img": "https://cdn.s-journal.co.kr/news/photo/202611/45223_56463_3318.png"
     },
     {
-      "title": "삼성전자 베트남, KiN호텔그룹과 협력…숙박 공간서 AI 가전 체험 서비...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601997?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/10/202611101148174040_e.jpg"
+      "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
+      "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "LG전자·두산로보틱스, 실패까지 학습한다..피지컬 AI 현장 적용 속도전",
-      "url": "https://kpenews.com/View.aspx?No=4304971",
-      "img": "https://cdn.coenworks.com/Files/4/News/202611/8821_20261110101303614.jpg"
+      "title": "11번가, ‘그랜드십일절’ 마지막 날 특가 확대…G마켓·쿠팡도 할인 경...",
+      "url": "https://sateconomy.co.kr/news/view/1065596599011121",
+      "img": "http://sateconomy.co.kr/news/data/20261110/p1065596599011121_888_thum.png"
+    },
+    {
+      "title": "\"디지털자산 패권 경쟁 속 한국의 선택은?\"… 'D-CON 2026'서 해법 모색",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=756737",
+      "img": "https://cdn.econovill.com/news/thumbnail/202611/756737_734328_579_v150.jpg"
     },
     {
       "title": "현대차·기아, 협력사 탄소규제 대응 돕는다",
       "url": "http://www.ujeil.com/news/articleView.html?idxno=394965",
       "img": "http://www.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
-    },
-    {
-      "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
-      "url": "https://www.news2day.co.kr/article/20261109500055",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/09/.cache/512/20261109500038.jpg"
     }
   ]
 };
