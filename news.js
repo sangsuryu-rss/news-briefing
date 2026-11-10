@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.10 (화) 21:42",
+  "updatedAt": "2026.11.11 (수) 05:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "발 대신 바퀴…피겨 선수처럼 '360도 폴짝'",
-          "desc": "몇 달 전엔 인간처럼 춤추고 무거운 냉장고를 들어 올려 옮기더니, 이제 공중 돌기까지 해 낸 겁니다. [앤디... 어제 삼성전자와 현대차그룹이 로봇 분야까지 협력을 더 확대하기로 발표한 직후에 나왔습니다. 현대차는 2년...",
-          "src": "news",
-          "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/055/0001402070?sid=101",
-          "img": "https://img.sbs.co.kr/newimg/news/20261110/202239778_1280.jpg"
-        },
-        {
-          "title": "보람그룹, 소비자 소리 반영한 '상조 4.0'로 라이프케어로의 첫 혁신 일...",
-          "desc": "그 가운데 대표적으로 진행하고 있는 사업은 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 해당 상품은 소비자가 삼성스토어에서 가전을 구매하거나 구독하는 과정에서 상조서비스를 함께...",
-          "src": "s-journal",
-          "date": "11/10",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45223",
-          "img": "https://cdn.s-journal.co.kr/news/photo/202611/45223_56463_3318.png"
+          "title": "보람그룹, '상조 4.0' 본격화…토탈 라이프케어 전환 속도",
+          "desc": "대표적인 사례는 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 소비자가 삼성스토어 등 공식 유통채널에서 가전제품을 구매하거나 구독하면서 상조서비스를 함께 선택할 수 있도록...",
+          "src": "view",
+          "date": "11/11",
+          "url": "https://n.news.naver.com/mnews/article/277/0005840813?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111104250794287_1794338708.png"
         },
         {
           "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
@@ -42,6 +34,14 @@ window.NEWS_DATA = {
           "src": "한국경제",
           "date": "11/10",
           "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+        },
+        {
+          "title": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
+          "desc": "학습용 데이터로 만들어 학습시키는 기술을 삼성전자와 공동 개발하고 있다. AI 기반 3D 설계 솔루션 기업 더디멘션컴퍼니는 삼성전자 디바이스경험(DX)사업부와 협업해 냉장고 세탁기 등의 부품 설계를 AI로 자동화했다.",
+          "src": "한국경제",
+          "date": "11/10",
+          "url": "https://n.news.naver.com/mnews/article/015/0005352469?sid=101",
           "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
@@ -141,6 +141,22 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[단독] 삼성전자, '파산' 애플 협력사서 '실리콘 포토닉스' 특허 4건 인...",
+          "desc": "핵심 부품으로 꼽힌다. 특히 삼성전자가 인수한 광변조기 특허는 미국·영국·중국에 패밀리... 과거 애플의 웨어러블 혈당 측정 광학 센서 협력사로 이름을 알리며 2021년 뉴욕증권거래소(NYSE)에도 상장됐다....",
+          "src": "shinailbo",
+          "date": "11/11",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081784",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202611/5081784_2079301_3836.jpg"
+        },
+        {
+          "title": "11월 2주 주요 제조업 전망",
+          "desc": "양 그룹은 차량용 반도체·배터리·디스플레이 등 차량 핵심 부품에서 협력을 확대하고 있음. 삼성전자... 40개 협력사와 함께 '상생협력 비전선포식'을 개최함. 국내 최대 민간 발사체 인프라 완공을 계기로...",
+          "src": "laborplus",
+          "date": "11/11",
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41789",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41789_74924_5731.jpg"
+        },
+        {
           "title": "김정관 \"호남 팹 배치 이달 마무리\"",
           "desc": "남은 공백은 소재·부품·장비(소부장) 협력사의 자리다. 이달 맺을 입주협약의 당사자는 삼성전자·SK하이닉스와 정부, LH, 전남광주통합특별시다. 협력사 입지 계획은 아직 공개된 일정이 없다. 조인철 의원은...",
           "src": "이데일리",
@@ -155,22 +171,6 @@ window.NEWS_DATA = {
           "date": "11/10",
           "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424932",
           "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424932_242033_725_v150.jpg"
-        },
-        {
-          "title": "반도체와 휴머노이드의 결합… 삼성·현대차 '미래 동맹' 전격 가동",
-          "desc": "시작했고, 삼성전기도 현대차·기아의 차량용 카메라 1차 협력사로 선정됐다. 삼성은 완성차 시장에서 공급처를 확보하고, 현대차그룹은 핵심 부품의 조달처를 넓히고 있다. 제조 현장에서도 협력이 이어졌다. 삼성전자...",
-          "src": "greenpostkorea",
-          "date": "11/10",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307993",
-          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202611/307993_311921_040.jpg"
-        },
-        {
-          "title": "가전 협력사 생산라인도 AX 본격화…프레스부터 조립·물류까지 맡긴다",
-          "desc": "대기업 완제품 생산라인을 중심으로 추진되던 AI 자율제조 기술이 중견·중소기업 부품 가공과 조립, 품질검사, 물류 공정으로 확산하는 양상이다. 삼성전자 생활가전 1차 협력사인 디케이는 2028년말까지 약 69억원을...",
-          "src": "전자신문",
-          "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/030/0003484184?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/10/30/news-p.v1.20261030.a3ce00a2c32c479db3e0f13e0a06ba70_P1.png"
         }
       ]
     },
@@ -221,54 +221,54 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "부산테크노파크, 제조 AI 기업 80여 명 참여…맞춤형 기술 상담",
-          "desc": "심재운 부산테크노파크 원장은 \"제조 AI 도입은 기업별 생산공정과 데이터 활용 수준을 진단하고, 현장 과제에 적합한 기술을 연계하는 것이 핵심\"이라며 \"이번 매칭데이에서 발굴한 기업 수요를 바탕으로 기술 적용...",
-          "src": "newstown",
-          "date": "11/10",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721445",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/721445_677720_816_v150.jpg"
+          "title": "[산소카페 청송의 맛(16)·끝] 윤경희 청송군수 “청송사과·산소카페, ...",
+          "desc": "대구가톨릭대, AI역노화연구원 등과 손잡고 'K-U시티 역노화' 사업을 추진하며 연구지원센터와 전문인력 양성 기반을 마련하고 있다. 청송사과와 농특산물을 활용한 역노화 소재 연구도 진행 중이다. 또 청송읍 월막리...",
+          "src": "yeongnam",
+          "date": "11/11",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261110024588548",
+          "img": "https://www.yeongnam.com/mnt/file/202611/news-p.v1.20261025.ec5cd0f45861449c8d3a82d5df9c4b5f_R.jpg"
         },
         {
-          "title": "한국남부발전, 6개월 훈련한 '척돌이'…사람 못 가는 저탄장 점검",
-          "desc": "설비 표면의 온도 차이를 영상으로 확인하는 열화상 점검은 과열 등 이상 징후를 조기에 발견하는 데 활용되... 것\"이라며 \"앞으로도 AI와 자율주행 로봇 등 첨단 기술을 설비 관리에 선도적으로 도입해 안전하고 스마트한...",
-          "src": "newstown",
-          "date": "11/10",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721439",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/721439_677713_5554_v150.jpg"
+          "title": "“전작권 전환은 군사 능력뿐 아니라, 對中 전략·AI 지휘체계 함께 고...",
+          "desc": "한국은 관세정책의 지속적인 활용, 핵추진잠수함 도입 문제와 대미 투자를 연계한 압박, 전작권 전환을 방위... 최근 미 패권 이후 국제질서, 한국의 중장기 외교전략, AI와 신기술이 국제정치에 미치는 영향 등에 관심을...",
+          "src": "서울신문",
+          "date": "11/11",
+          "url": "https://n.news.naver.com/mnews/article/081/0003698019?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/11/10/SSC_20261110204632_O2.jpg"
         },
         {
-          "title": "의왕시, 전세사기 꼼수 원천 차단…AI '경기 안심 부동산' 전격 홍보",
-          "desc": "'경기 안심 부동산'은 촘촘한 AI 기술을 활용해 등기부등본, 주변 시세, 근저당 등 복잡한 부동산 핵심 정보를... 정식 도입을 앞두고 있다. 시는 제도의 성공적인 안착을 위해 관내 공인중개사사무소를 직접 발로 뛰며 주요...",
-          "src": "CNB뉴스",
-          "date": "11/10",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1023186",
-          "img": "https://cdn.cnbnews.com/news/photo/202611/1023186_525931_825.jpg"
+          "title": "지워도 지워도… 생겨나는 AI딥페이크 범죄",
+          "desc": "삭제 기술에 AI가 도입됐다. 디성센터는 지난 4월 이런 AI 시스템을 이용한 후 1명당 하루 평균 아청물... 디성센터 관계자는 “굉장히 많은 딥페이크 제작 사이트가 온라인에 배포됐고 10세 이하도 활용이 가능할...",
+          "src": "서울신문",
+          "date": "11/11",
+          "url": "https://n.news.naver.com/mnews/article/081/0003697957?sid=102",
+          "img": "https://img.seoul.co.kr//img/n24/seoul_share.png"
         },
         {
-          "title": "기술은 다 있는데 시장이 없다, 에너지 스타트업이 마주한 데스밸리",
-          "desc": "상용 도입을 했다고 설명했다. 김종규 대표는 2024년 손익분기점을 넘겨 흑자를 냈다. 2025년에는 시장... 입주 기업은 한전의 연구개발 시설을 활용해 기술 지원과 실증을 받을 수 있다. 장 대표는 한전과 함께 나간...",
-          "src": "platum",
-          "date": "11/10",
-          "url": "https://platum.kr/archives/298259",
-          "img": "https://cdn.platum.kr/wp-content/uploads/2026/11/KakaoTalk_20261110_201053219_03-1024x768.jpg"
+          "title": "日 자위대 정원 감축 추진… AI로 전력 보완",
+          "desc": "기술 도입을 병행할 방침이다. 전국에 분산된 자위대 주둔지와 기지를 통폐합하고 지역별 방면대 등 중간 지휘조직을 정비해 인력을 최전선 임무에 집중 배치할 계획이다. 지휘통제 시스템에 AI를 도입하고 무인기 활용...",
+          "src": "서울신문",
+          "date": "11/11",
+          "url": "https://n.news.naver.com/mnews/article/081/0003697967?sid=104",
+          "img": "https://img.seoul.co.kr//img/n24/seoul_share.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "발 대신 바퀴…피겨 선수처럼 '360도 폴짝'",
-      "url": "https://n.news.naver.com/mnews/article/055/0001402070?sid=101",
-      "img": "https://img.sbs.co.kr/newimg/news/20261110/202239778_1280.jpg"
-    },
-    {
-      "title": "보람그룹, 소비자 소리 반영한 '상조 4.0'로 라이프케어로의 첫 혁신 일...",
-      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45223",
-      "img": "https://cdn.s-journal.co.kr/news/photo/202611/45223_56463_3318.png"
+      "title": "보람그룹, '상조 4.0' 본격화…토탈 라이프케어 전환 속도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840813?sid=101",
+      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111104250794287_1794338708.png"
     },
     {
       "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
       "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+    },
+    {
+      "title": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
+      "url": "https://n.news.naver.com/mnews/article/015/0005352469?sid=101",
       "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
