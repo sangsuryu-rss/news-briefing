@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.11 (수) 18:28",
+  "updatedAt": "2026.11.12 (목) 02:54",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[fn광장] 생각 좀 하며 세상을 보자",
-          "desc": "전영현 삼성전자 반도체(DS)부문장(부회장)이 사과한 지 2년 만의 반전이다. 그러나 이익이 한쪽으로 쏠린 구조는 불안요인이다. 3·4분기 영업이익의 99.2%인 106조5000억원이 DS부문에서 나지만 영상디스플레이·생활가전...",
-          "src": "파이낸셜뉴스",
-          "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/014/0005602903?sid=110",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/11/202611111824038656_e.jpg"
+          "title": "[사설] ‘젠슨 황, 중국 스파이’ 한국이었으면 잡아낼 수 있었겠나",
+          "desc": "한때 한국을 먹여 살리던 철강, 석유화학, 가전과 디스플레이, 이차전지가 위기를 겪고 있고, 조선과... 경제는 삼성전자와 SK하이닉스의 반도체가 없으면 존립이 어렵다. 첨단 메모리 기술이 중국에 탈취당하면 국가...",
+          "src": "조선일보",
+          "date": "11/12",
+          "url": "https://n.news.naver.com/mnews/article/023/0004009084?sid=110",
+          "img": "https://www.chosun.com/resizer/v2/HA2GMZBVMY3DIYRSGIZTAYZZGU.jpg?auth=a2b5485d43608dbb4af021e4afc95faf5f363d805bd3b4de14a21def6b371548&width=1200&height=630&smart=true"
+        },
+        {
+          "title": "'V9' 삼성 라이온즈, 우승 공약· 할인은?",
+          "desc": "삼성전자는 현재도 11월 한 달간 '코리아 그랜드 페스티벌'을 통해 TV와 냉장고, 세탁건조기, 갤럭시 등 다양한 제품의 할인 행사를 진행하고 있다. 다만 이는 한국시리즈 우승과 별개로 진행되는 행사다. 12년 만에...",
+          "src": "ggilbo",
+          "date": "11/12",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191798",
+          "img": "https://cdn.ggilbo.com/news/photo/202611/1191798_1044939_1721.jpg"
         },
         {
           "title": "가전매장, 유·무료 멤버십으로 단골 고객 잡기 경쟁",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "11/11",
           "url": "https://www.kpinews.kr/newsView/1065597647253592",
           "img": "https://kpinews.kr/data/upi/image/2026/11/11/p1065597647253592_524_thum.jpg"
-        },
-        {
-          "title": "이사·혼수가전 한번에 사면 최대 600만원 할인",
-          "desc": "또한 캐시백, 즉시할인 등 다양한 혜택을 더해 삼성전자 '김치플러스 스탠드형 3도어 김치냉장고'(328ℓ)... 마이디어는 '드럼 세탁기 타워세트'(세탁기 12㎏·건조기 10㎏) 구매 시 '에코 디지털 전자레인지'(20ℓ)를...",
-          "src": "매일경제",
-          "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/009/0005762243?sid=101",
-          "img": "https://pimg.mk.co.kr/news/cms/202611/12/20261112_01110207000005_L00.jpg"
         },
         {
           "title": "印 가전시장 진출한 中 샤오미, 현지 생산 확대 위해 파트너 물색 중",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "변동성 장세에 투자 수요 몰린다…커버드콜 ETF 경쟁",
+          "desc": "상장일 기준 삼성전자와 SK하이닉스의 편입 비중이 가장 높았고, 삼성전기·LG이노텍 등 전자부품주와 현대차·기아 등 자동차주, 조선주인 HD한국조선해양도 상위 편입 종목에 포함됐다. 비교지수는 '코스피200...",
+          "src": "newstopkorea",
+          "date": "11/11",
+          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
+          "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
+        },
         {
           "title": "[더벨][JB우리캐피탈 중앙아 승부수] 키르기스스탄서 맞붙는 JB vs BNK…지...",
           "desc": "노후 차량 교체 수요와 중고차 수요가 꾸준하고 현대차·기아가 자동차 시장의 절반을 차지할 만큼 한국차 선호가 뚜렷하다. ◇JB, 대출사·리스사 한 번에 사들여 중고차 리스로 출발 JB우리캐피탈은 지난달...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/09",
           "url": "http://www.ujeil.com/news/articleView.html?idxno=394965",
           "img": "http://www.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
-        },
-        {
-          "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
-          "desc": "현대차·기아는 자동차 디자인에 대한 전문 지식이 없는 관람객도 전시 내용을 쉽게 이해하고 경험할 수 있도록 공간을 구성할 예정이다. 전시는 디자인 관련 학과 학생과 자동차·디자인 애호가는 물론 어린이를...",
-          "src": "news2day",
-          "date": "11/09",
-          "url": "https://www.news2day.co.kr/article/20261109500055",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/09/.cache/512/20261109500038.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "경남 기업 4곳, 동반성장지수 ‘최우수’",
+          "desc": "부문에서 삼성전자와 나란히 최고 득점을 기록하며 상생 체계의 모범 사례로 꼽혔다. 이들 기업은 창원... 2~3차 협력사까지 확대하는 방안을 검토하는 등 향후 평가의 실효성을 높이기 위해 현장 의견을 바탕으로...",
+          "src": "knnews",
+          "date": "11/11",
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554876",
+          "img": "https://cdn.knnews.co.kr/images/logo-1.gif"
+        },
+        {
           "title": "용인시, 2026 탄소중립 녹색성장 포럼 11일 개최",
           "desc": "최근 글로벌 반도체 시장에서는 제조기업뿐 아니라 협력사인 소부장 기업에도 탄소배출 감축과 재생에너지... 이동·남사읍의 삼성전자 '용인첨단시스템반도체 국가산업단지'와 원삼면의 SK하이닉스 '용인반도체클러스터...",
           "src": "gukjenews",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/11",
           "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748259",
           "img": "https://cdn.polinews.co.kr/news/photo/202611/748259_572966_4117.jpg"
-        },
-        {
-          "title": "삼성전자, 동반성장 15년 연속 최우수…중소기업 AI 전환 지원",
-          "desc": "/삼성전자 삼성전자가 국내 기업 최초로 동반성장지수 평가에서 15년 연속 최우수 등급을 받으며 중소기업... 2024년에는 5대 금융지주와 8000억원 규모의 환경·사회·지배구조(ESG) 펀드를 조성해 협력사의 ESG 경영...",
-          "src": "서울신문",
-          "date": "11/11",
-          "url": "http://www.metroseoul.co.kr/article/20261111500513",
-          "img": "https://cdn.emetro.co.kr/data2/content/image/2026/11/11/.cache/512/20261111500514.jpg"
         }
       ]
     },
@@ -221,45 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "초성만 써도 AI가 잡아낸다…성착취물 처리 10배 늘어",
-          "desc": "AI 기술 도입 후 삭제 요청한 영상은 9만 6천 건으로, 이미 지난해 삭제 요청 건수의 두 배를 넘었습니다.... \" 정부는 삭제 요청에서 나아가, '합법적 해킹'을 통해 사이트 접속을 차단하는 등 국제 공조를 활용한...",
-          "src": "연합뉴스TV",
-          "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/422/0000925182?sid=102",
-          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261111/MYH20261111182635rpl.jpg"
+          "title": "“다가오는 KTX 시대… ‘50만 생활정주권 도시’ 만드는 데 집중”",
+          "desc": "재해 예방과 대응, 양식 품종과 방식의 다변화, 인공지능(AI) 등 스마트 기술을 도입하는 방안을 검토하고... 통영에는 신선한 수산물을 활용해 이색 먹거리를 선보이는 지역 축제들도 열린다. 최근 통영시가 선보인 ‘통영...",
+          "src": "kmib",
+          "date": "11/12",
+          "url": "https://n.news.naver.com/mnews/article/005/0001884641?sid=102",
+          "img": ""
         },
         {
-          "title": "큐냅, 내년 데이터 복구·프라이빗 AI로 사업 확대",
-          "desc": "기업의 스토리지 도입 기준이 저장용량과 가격에서 업무 연속성, 보안, AI 활용으로 달라지는 시장 변화에... 고가용성(HA) 기술로 장비 장애에 따른 서비스 중단을 최소화하고, 별도 백업 체계를 통해 데이터 손상이나...",
-          "src": "ZDNet코리아",
-          "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/092/0002444928?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/11/43c1af26c2de010c2ca20aa0e3bdd51e.jpg"
+          "title": "AI·로봇이 바꿀 농업, 2045년 농촌은 국민 모두의 공간으로",
+          "desc": "첨단기술을 활용한 생산성 향상이 꼽혔다. 분산된 농지를 효율적으로 재편하고 AI와 로봇, 자율주행 농기계 등을 현장에 도입해 노동력 부족에 대응한다는 구상이다. 농업을 1차 생산에 한정하지 않고 푸드테크와...",
+          "src": "youngnong",
+          "date": "11/12",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71814",
+          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71814_61938_2214.jpeg"
         },
         {
-          "title": "[경북도의회 행감] 문화환경위, 산림·환경 정책 전반 개선책 촉구·박정...",
-          "desc": "학교부지를 활용한 협력 모델 도입, 지자체와의 정례 통학로 협의, 초·중학교 통학로 지원 확대를 촉구했다. 또한 박 의원은 경북의 학생 AI 교육이 선도·중점학교 지정과 캠프 같은 대회형 프로그램으로 흩어져 있어...",
-          "src": "뉴스웍스",
-          "date": "11/11",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902790",
-          "img": "https://cdn.newsworks.co.kr/news/photo/202611/902790_903859_4654.jpg"
+          "title": "600만달러 유치한 헬릭스, 음성으로 사람 판별…시리 공동창업자 투자",
+          "desc": "도입 비용을 낮춘다고 밝혔다. 회사는 이 기술을 캡차의 대체재나 보완재로 제시하며 자동화 프로그램의 공격을 막는 데 활용할 수 있다고 설명했다. 알렉스 오버그(Alex Oberg) 헬릭스 공동창업자 겸 CEO는 “AI가...",
+          "src": "tokenpost",
+          "date": "11/12",
+          "url": "https://www.tokenpost.kr/news/tech/436681",
+          "img": "https://f1.tokenpost.kr/2026/11/8bhb16j9z4_th_1600x900.webp"
         },
         {
-          "title": "강원대병원, ‘공공의료 AI 고속도로’ 첫 개통⋯지역 공공의료 혁신 선...",
-          "desc": "AI)을 활용해 환자 전원부터 수술, 퇴원과 지역 의료기관 회송까지 이어지는 진료 지원 시스템이 도입된다.... 공공의료 AI 고속도로는 수도권 대형병원에서 개발·검증된 의료 AI 기술을 지역 공공병원에서도 활용할 수...",
-          "src": "kwnews",
-          "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/087/0001230224?sid=102",
-          "img": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/11/11/.cache/512/20261111501559.jpg"
+          "title": "\"한글·MS 오피스 편집 무료\"… AI 오피스 'VORA AI DOCS' 출시",
+          "desc": "이 과정에서 온톨로지 기반 'HYPER RAG' 기술은 문서에 포함된 개념과 관계를 파악해 필요한 근거 자료를... 작업에 활용할 수 있도록 설계했다고 설명했다. 지윤성 대표는 \"지금까지의 AI 문서 도구는 그럴듯한...",
+          "src": "woodkorea",
+          "date": "11/12",
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92506",
+          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[fn광장] 생각 좀 하며 세상을 보자",
-      "url": "https://n.news.naver.com/mnews/article/014/0005602903?sid=110",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/11/202611111824038656_e.jpg"
+      "title": "[사설] ‘젠슨 황, 중국 스파이’ 한국이었으면 잡아낼 수 있었겠나",
+      "url": "https://n.news.naver.com/mnews/article/023/0004009084?sid=110",
+      "img": "https://www.chosun.com/resizer/v2/HA2GMZBVMY3DIYRSGIZTAYZZGU.jpg?auth=a2b5485d43608dbb4af021e4afc95faf5f363d805bd3b4de14a21def6b371548&width=1200&height=630&smart=true"
+    },
+    {
+      "title": "'V9' 삼성 라이온즈, 우승 공약· 할인은?",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191798",
+      "img": "https://cdn.ggilbo.com/news/photo/202611/1191798_1044939_1721.jpg"
     },
     {
       "title": "가전매장, 유·무료 멤버십으로 단골 고객 잡기 경쟁",
@@ -267,24 +272,19 @@ window.NEWS_DATA = {
       "img": "https://kpinews.kr/data/upi/image/2026/11/11/p1065597647253592_524_thum.jpg"
     },
     {
-      "title": "이사·혼수가전 한번에 사면 최대 600만원 할인",
-      "url": "https://n.news.naver.com/mnews/article/009/0005762243?sid=101",
-      "img": "https://pimg.mk.co.kr/news/cms/202611/12/20261112_01110207000005_L00.jpg"
-    },
-    {
       "title": "印 가전시장 진출한 中 샤오미, 현지 생산 확대 위해 파트너 물색 중",
       "url": "https://www.newspim.com/news/view/20261111001047",
       "img": "https://img.newspim.com/news/2026/11/11/2611111425526660_t1.jpg"
     },
     {
+      "title": "변동성 장세에 투자 수요 몰린다…커버드콜 ETF 경쟁",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
+      "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
+    },
+    {
       "title": "\"디지털자산 패권 경쟁 속 한국의 선택은?\"… 'D-CON 2026'서 해법 모색",
       "url": "https://www.econovill.com/news/articleView.html?idxno=756737",
       "img": "https://cdn.econovill.com/news/thumbnail/202611/756737_734328_579_v150.jpg"
-    },
-    {
-      "title": "현대차·기아, 협력사 탄소규제 대응 돕는다",
-      "url": "http://www.ujeil.com/news/articleView.html?idxno=394965",
-      "img": "http://www.ujeil.com/news/thumbnail/202611/394965_202906_3413_v150.jpg"
     }
   ]
 };
