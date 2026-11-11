@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.11 (수) 05:51",
+  "updatedAt": "2026.11.11 (수) 10:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "보람그룹, '상조 4.0' 본격화…토탈 라이프케어 전환 속도",
-          "desc": "대표적인 사례는 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 소비자가 삼성스토어 등 공식 유통채널에서 가전제품을 구매하거나 구독하면서 상조서비스를 함께 선택할 수 있도록...",
-          "src": "view",
+          "title": "11번가 '십일절' 행사…500개 상품 할인전",
+          "desc": "가전 부문에서는 삼성전자와 LG전자가 고가 생활가전을 앞세웠다. 삼성전자는 85인치 네오 QLED TV와 AI 세탁건조기 세트를 내놓고, TV 구매 고객에게 20만원 상당의 사운드바를 증정한다. LG전자는 AI 기능을 탑재한 디오스...",
+          "src": "이데일리",
           "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/277/0005840813?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111104250794287_1794338708.png"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365997",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365997_301012_4145_v150.jpg"
         },
         {
-          "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
-          "desc": "10일 CES를 주최하는 미국 소비자기술협회(CTA)에 따르면 삼성전자의 갤럭시Z 폴드8과 울트라는 모바일... 그 외 초대형 무선 월페이퍼 TV인 LG 시그니처 올레드 W, 세탁기와 건조기가 결합한 LG 워시타워 등 총 8개...",
-          "src": "한국경제",
-          "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "title": "'한화포레나 지제역' 4채 중 3채 미달…특공 이어 1순위도 '참패'",
+          "desc": "한화가 삼성전자 평택캠퍼스 직주근접을 내세워 경기 평택에서 선보인 '한화포레나 지제역'이... 발코니 확장비(평균 2674만원)와 가전을 뺀 유상옵션(1581만원)을 더한 실부담은 7억3784만원이다. 같은 날 1순위를...",
+          "src": "straightnews",
+          "date": "11/11",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315089",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202611/315089_228069_012_v150.jpg"
         },
         {
-          "title": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
-          "desc": "학습용 데이터로 만들어 학습시키는 기술을 삼성전자와 공동 개발하고 있다. AI 기반 3D 설계 솔루션 기업 더디멘션컴퍼니는 삼성전자 디바이스경험(DX)사업부와 협업해 냉장고 세탁기 등의 부품 설계를 AI로 자동화했다.",
-          "src": "한국경제",
-          "date": "11/10",
-          "url": "https://n.news.naver.com/mnews/article/015/0005352469?sid=101",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "title": "삼성은 현장 적용, LG는 신사업…스타트업 활용법",
+          "desc": "삼성전자와 LG가 스타트업 협력을 통해 차세대 기술 확보에 속도를 내고 있다. 두 회사는 모두 스타트업을... 생활가전사업부와 협력한 '더디멘션컴퍼니'는 3D CAD 역설계 AI를 통해 세탁기와 냉장고 등 10종 부품의 설계...",
+          "src": "조선일보",
+          "date": "11/11",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000696",
+          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000696_500734_2958.jpg"
         },
         {
           "title": "11번가, ‘그랜드십일절’ 마지막 날 특가 확대…G마켓·쿠팡도 할인 경...",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[단독] 삼성전자, '파산' 애플 협력사서 '실리콘 포토닉스' 특허 4건 인...",
-          "desc": "핵심 부품으로 꼽힌다. 특히 삼성전자가 인수한 광변조기 특허는 미국·영국·중국에 패밀리... 과거 애플의 웨어러블 혈당 측정 광학 센서 협력사로 이름을 알리며 2021년 뉴욕증권거래소(NYSE)에도 상장됐다....",
+          "title": "삼성전자, 공공나노팹 노하우 나누고 유휴 장비 이전",
+          "desc": "이번 컨설팅은 삼성전자가 반도체 소재·부품·장비 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'을 공공나노팹의 특성에 맞게 진행한 것으로, 한국나노기술원의 팹 운영 관리 방법을 장비별 표준작업절차서(SOP)...",
+          "src": "g-enews",
+          "date": "11/11",
+          "url": "https://www.g-enews.com/view.php?ud=20261111104121594527fa31d75c_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026102916065502857923c501012125247190193.jpg"
+        },
+        {
+          "title": "삼성전자, 반도체 측정장비 무상 이전…\"공공나노팹 고도화\"",
+          "desc": "삼성전자는 또 소재·부품·장비 협력사를 대상으로 운영해 온 컨설팅도 공공나노팹에 맞춰 진행했습니다. 이를 통해 팹 운영 관리 방법을 장비별 표준작업절차서와 점검표, 교육·운영 기준에 반영하고, 현장점검 매뉴얼도...",
+          "src": "연합뉴스TV",
+          "date": "11/11",
+          "url": "https://n.news.naver.com/mnews/article/422/0000924974?sid=101",
+          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20261111/AKR2026111110480959V_01_i.jpg"
+        },
+        {
+          "title": "삼성전자, '공공나노팹'에 측정·분석 장비 지원…반도체 연구 인프라 ...",
+          "desc": "해당 컨설팅은 삼성전자가 반도체 소재·부품·장비(소부장) 협력사를 대상으로 추진해 온 '소부장 눈높이 컨설팅'을 공공나노팹의 특성에 맞게 진행됐다. 한국나노기술원의 팹 운영 관리 방법을 장비별 표준작업절차서...",
           "src": "shinailbo",
           "date": "11/11",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081784",
-          "img": "https://cdn.shinailbo.co.kr/news/photo/202611/5081784_2079301_3836.jpg"
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082002",
+          "img": "https://cdn.shinailbo.co.kr/news/photo/202611/5082002_2079503_424.jpg"
         },
         {
-          "title": "11월 2주 주요 제조업 전망",
-          "desc": "양 그룹은 차량용 반도체·배터리·디스플레이 등 차량 핵심 부품에서 협력을 확대하고 있음. 삼성전자... 40개 협력사와 함께 '상생협력 비전선포식'을 개최함. 국내 최대 민간 발사체 인프라 완공을 계기로...",
-          "src": "laborplus",
+          "title": "삼성전자, 공공나노팹에 반도체 장비 이전...제조혁신 노하우 공유",
+          "desc": "소재·부품·장비 기업과 연구기관의 기술개발을 지원한다는 방침이다. 삼성전자는 장비 이전과 함께 공공나노팹의 운영 효율성을 높이기 위한 컨설팅도 진행했다. 기존에 반도체 소부장 협력사를 대상으로 추진해 온...",
+          "src": "m-economynews",
           "date": "11/11",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41789",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41789_74924_5731.jpg"
-        },
-        {
-          "title": "김정관 \"호남 팹 배치 이달 마무리\"",
-          "desc": "남은 공백은 소재·부품·장비(소부장) 협력사의 자리다. 이달 맺을 입주협약의 당사자는 삼성전자·SK하이닉스와 정부, LH, 전남광주통합특별시다. 협력사 입지 계획은 아직 공개된 일정이 없다. 조인철 의원은...",
-          "src": "이데일리",
-          "date": "11/10",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365991",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365991_301000_3341_v150.jpg"
-        },
-        {
-          "title": "스타트업엔 투자하고 대기업과 공동개발···韓피지컬AI 공들이는 엔비...",
-          "desc": "엔비디아가 로봇 기업을 투자 대상에 포함한 것은 피지컬 AI 기술을 산업 현장에 적용할 협력사를... 삼성전자는 엔비디아의 가속 컴퓨팅과 AI 기반 물리 시뮬레이션을 반도체 소재 연구와 공정·소자 개발에 활용하고...",
-          "src": "sisajournal-e",
-          "date": "11/10",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424932",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/424932_242033_725_v150.jpg"
+          "url": "https://www.m-economynews.com/news/article.html?no=72879",
+          "img": "https://www.m-economynews.com/data/photos/20261146/art_17943599719721_8f5e37.jpg"
         }
       ]
     },
@@ -180,6 +180,22 @@ window.NEWS_DATA = {
       "title": "와이어하네스·전장",
       "color": "#e8842c",
       "items": [
+        {
+          "title": "두산, 독일 '일렉트로니카 2026' 참가… AI·전장용 첨단 소재 선보인다",
+          "desc": "두산은 AI 가속기와 광모듈용 하이엔드 CCL을 비롯해 데이터 센터, 서버, 반도체 패키징, 자동차 전장... 회사 측에 따르면 기존 와이어링 하네스와 비교해 무게와 부피를 80% 이상 줄일 수 있다. 롤투롤 공정을 활용한...",
+          "src": "financialpost",
+          "date": "11/11",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=286072",
+          "img": "https://cdn.financialpost.co.kr/news/thumbnail/202611/286072_380126_1847_v150.jpg"
+        },
+        {
+          "title": "두산, 유럽서 AI·전장 소재 총력전…글로벌 하이엔드 시장 영토 넓힌다",
+          "desc": "배터리 셀을 연결하는 전기차용 패턴플랫케이블(PFC)과 빔포밍 기술이 적용된 5G 안테나 모듈 등 전장·통신 분야 고부가 제품도 함께 제시됐다. 특히 PFC는 독자적인 롤투롤 공법을 통해 기존 와이어링 하네스 대비...",
+          "src": "opinionnews",
+          "date": "11/11",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146925",
+          "img": "http://www.opinionnews.co.kr/news/thumbnail/202611/146925_108629_5649_v150.jpg"
+        },
         {
           "title": "전기화재 예방 기준 강화…제일일렉트릭 신제품 수혜 기대",
           "desc": "와이어링 하네스는 자동차 내부의 각종 전장부품과 전기장치를 연결해 전력과 신호를 전달하는 배선 시스템이다. 자동차에 탑재되는 전자장치가 늘어나면서 관련 부품의 적용 범위와 중요성도 커지고 있다....",
@@ -195,22 +211,6 @@ window.NEWS_DATA = {
           "date": "10/21",
           "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244335",
           "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
-        },
-        {
-          "title": "[주식마감] '호반VS조원태' 경영권 분쟁에 한진칼우·대한항공우 '上'.....",
-          "desc": "(Wire&Cable), 와이어링하네스(Wiring Harness), 벌브 소켓(Bulb Socket), LED 모듈 등이 있다. 자동차용 전선은 차량... 지수는 전장 대비 25.49포인트(0.50%) 내린 5,034.20으로 출발해 장중 상승전환과 하락전환 등으로 방향성을...",
-          "src": "ggilbo",
-          "date": "11/09",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192030",
-          "img": "https://cdn.ggilbo.com/news/photo/202611/1192030_1045200_2918.jpg"
-        },
-        {
-          "title": "[더벨][티에스모스트 IPO] 자동차 전장부품으로 상장 도전…구주매출 추...",
-          "desc": "코스닥 상장을 추진중인 자동차 전장부품 기업 티에스모스트가 공모물량의 약 10%를 구주매출로 매각한다.... 전력을 전달하는 버스바와 배터리팩 와이어링 하네스를 비롯해 액추에이터, 전류센서 등이 주요...",
-          "src": "더벨",
-          "date": "10/26",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610221323458080108448",
-          "img": ""
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[산소카페 청송의 맛(16)·끝] 윤경희 청송군수 “청송사과·산소카페, ...",
-          "desc": "대구가톨릭대, AI역노화연구원 등과 손잡고 'K-U시티 역노화' 사업을 추진하며 연구지원센터와 전문인력 양성 기반을 마련하고 있다. 청송사과와 농특산물을 활용한 역노화 소재 연구도 진행 중이다. 또 청송읍 월막리...",
-          "src": "yeongnam",
+          "title": "KT텔레캅, 보건복지부 응급안전안심서비스 전국 10만 가구에 제공",
+          "desc": "응급안전안심서비스는 사물인터넷(IoT) 센서와 음성인식 기술을 활용해 독거노인과 장애인 등의 안전을 관리하는 서비스다. 대상 가구에 화재·활동·출입 감지기와 응급호출기를 설치하고 AI 케어콜을 통해...",
+          "src": "비즈니스포스트",
           "date": "11/11",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261110024588548",
-          "img": "https://www.yeongnam.com/mnt/file/202611/news-p.v1.20261025.ec5cd0f45861449c8d3a82d5df9c4b5f_R.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451706",
+          "img": ""
         },
         {
-          "title": "“전작권 전환은 군사 능력뿐 아니라, 對中 전략·AI 지휘체계 함께 고...",
-          "desc": "한국은 관세정책의 지속적인 활용, 핵추진잠수함 도입 문제와 대미 투자를 연계한 압박, 전작권 전환을 방위... 최근 미 패권 이후 국제질서, 한국의 중장기 외교전략, AI와 신기술이 국제정치에 미치는 영향 등에 관심을...",
-          "src": "서울신문",
+          "title": "두나무, 'D-CON 2026' 개최...디지털자산기본법·규제 개선 논의",
+          "desc": "특히 인공지능(AI) 에이전트가 상품과 서비스를 자율적으로 거래하는 환경에서 블록체인과 스테이블코인이 결제 인프라로 활용될 수 있다는 전망도 나왔다. 마지막 세션에서는 미국과 유럽연합(EU), 일본, 싱가포르...",
+          "src": "thepublic",
           "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/081/0003698019?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/11/10/SSC_20261110204632_O2.jpg"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326046",
+          "img": "https://cdn.thepublic.kr/news/photo/202611/326046_329951_2831.jpg"
         },
         {
-          "title": "지워도 지워도… 생겨나는 AI딥페이크 범죄",
-          "desc": "삭제 기술에 AI가 도입됐다. 디성센터는 지난 4월 이런 AI 시스템을 이용한 후 1명당 하루 평균 아청물... 디성센터 관계자는 “굉장히 많은 딥페이크 제작 사이트가 온라인에 배포됐고 10세 이하도 활용이 가능할...",
-          "src": "서울신문",
+          "title": "단양군, 폐교 활용 전국 우수사례 선정… 장관상 수상",
+          "desc": "이후 소유권은 군이 유지하고, 민간사업자가 18억 원을 투자해 시설을 조성·운영하는 협력 방식을 도입했다. 2023년 7월 개장한 팝스월드는 단양의 '다자구할머니' 설화를 인공지능(AI)과 미디어아트, 확장현실(XR) 기술로...",
+          "src": "thepublic",
           "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/081/0003697957?sid=102",
-          "img": "https://img.seoul.co.kr//img/n24/seoul_share.png"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326047",
+          "img": "https://cdn.thepublic.kr/news/photo/202611/326047_329952_3028.png"
         },
         {
-          "title": "日 자위대 정원 감축 추진… AI로 전력 보완",
-          "desc": "기술 도입을 병행할 방침이다. 전국에 분산된 자위대 주둔지와 기지를 통폐합하고 지역별 방면대 등 중간 지휘조직을 정비해 인력을 최전선 임무에 집중 배치할 계획이다. 지휘통제 시스템에 AI를 도입하고 무인기 활용...",
-          "src": "서울신문",
+          "title": "[기자수첩] AI·반도체 강국 외치면서…신규 원전 건설 더는 미뤄선 안...",
+          "desc": "아무리 뛰어난 반도체와 인공지능(AI) 기술을 확보해도 전력이 부족하면 무용지물이다. 정부는 AI와 반도체... 수립에 활용될 예정이다. 앞서 제11차 전력수급기본계획에는 대형 원전 2기와 소형모듈원자로(SMR) 1기 도입...",
+          "src": "thepublic",
           "date": "11/11",
-          "url": "https://n.news.naver.com/mnews/article/081/0003697967?sid=104",
-          "img": "https://img.seoul.co.kr//img/n24/seoul_share.png"
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326068",
+          "img": "https://cdn.thepublic.kr/news/photo/202611/326068_329972_2035.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "보람그룹, '상조 4.0' 본격화…토탈 라이프케어 전환 속도",
-      "url": "https://n.news.naver.com/mnews/article/277/0005840813?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111104250794287_1794338708.png"
+      "title": "11번가 '십일절' 행사…500개 상품 할인전",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365997",
+      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/365997_301012_4145_v150.jpg"
     },
     {
-      "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352470?sid=101",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "'한화포레나 지제역' 4채 중 3채 미달…특공 이어 1순위도 '참패'",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315089",
+      "img": "https://cdn.straightnews.co.kr/news/thumbnail/202611/315089_228069_012_v150.jpg"
     },
     {
-      "title": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352469?sid=101",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "삼성은 현장 적용, LG는 신사업…스타트업 활용법",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000696",
+      "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000696_500734_2958.jpg"
     },
     {
       "title": "11번가, ‘그랜드십일절’ 마지막 날 특가 확대…G마켓·쿠팡도 할인 경...",
