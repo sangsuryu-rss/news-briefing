@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.12 (목) 02:54",
+  "updatedAt": "2026.11.12 (목) 09:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[사설] ‘젠슨 황, 중국 스파이’ 한국이었으면 잡아낼 수 있었겠나",
-          "desc": "한때 한국을 먹여 살리던 철강, 석유화학, 가전과 디스플레이, 이차전지가 위기를 겪고 있고, 조선과... 경제는 삼성전자와 SK하이닉스의 반도체가 없으면 존립이 어렵다. 첨단 메모리 기술이 중국에 탈취당하면 국가...",
-          "src": "조선일보",
+          "title": "[삼성전자 사장단 인사] '유일한 부사장' 가전 수장 김철기…노태문 체...",
+          "desc": "⑤AI 가전·구독 판매 확대에도 이익 하락…수익성 개선 성과가 변수 삼성전자 연말 사장단 인사에서 김철기 생활가전사업부장 부사장의 승진 여부에 관심이 쏠린다. TV·MX·네트워크 등 DX부문 주요 사업부를 모두 사장이...",
+          "src": "dealsite",
           "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/023/0004009084?sid=110",
-          "img": "https://www.chosun.com/resizer/v2/HA2GMZBVMY3DIYRSGIZTAYZZGU.jpg?auth=a2b5485d43608dbb4af021e4afc95faf5f363d805bd3b4de14a21def6b371548&width=1200&height=630&smart=true"
+          "url": "https://dealsite.co.kr/articles/172558",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/11/745ba6b586f742c39b553dc225caa715/thumb.jpg"
         },
         {
           "title": "'V9' 삼성 라이온즈, 우승 공약· 할인은?",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "젠슨 황 불륜 '후폭풍'…삼성·SK도 불똥 튀나",
+          "desc": "삼성전자와 SK하이닉스의 차세대 메모리 사업에서 중요한 고객사다. 특히 AI 연산 성능을 높이는 핵심 부품... 또한 엔비디아의 제품 개발과 생산은 황 CEO 개인이 아닌 여러 사업 조직과 글로벌 협력사를 통해 이뤄진다....",
+          "src": "한스경제",
+          "date": "11/12",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882441",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/882441_908327_5956_v150.jpg"
+        },
+        {
+          "title": "\"1인당 최대 7억 보너스 잔치\"… AI 반도체 호황에 亞 노동시장 ‘임금...",
+          "desc": "글로벌 메모리 반도체 3강인 삼성전자, SK하이닉스, 미국 마이크론 테크놀로지가 나란히 분기 총이익률 80... 반도체 밸류체인의 최하단인 소부장(소재·부품·장비) 협력사 노동자들의 소외감은 더욱 심각하다. 지난 10월...",
+          "src": "g-enews",
+          "date": "11/12",
+          "url": "https://www.g-enews.com/view.php?ud=2026111118222864480c8c1c064d_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261111182314076940c8c1c064d22114611240.jpg"
+        },
+        {
+          "title": "\"성과급 7억 원 터지자 대만이 멈췄다\"… 삼성전자 호황이 부른 아시아...",
+          "desc": "삼성전자와 SK하이닉스 등 주요 메모리 기업의 수익성 급증은 한국 반도체 생태계 전반에 새로운 비용 상승 요인으로 작용하고 있다. 제조사의 높은 영업이익률과 파격적인 성과급 기준이 확인되면서 부품 협력사...",
+          "src": "g-enews",
+          "date": "11/12",
+          "url": "https://www.g-enews.com/view.php?ud=202611111925134530fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111119280200437fbbec65dfb211211153121.jpg"
+        },
+        {
           "title": "경남 기업 4곳, 동반성장지수 ‘최우수’",
           "desc": "부문에서 삼성전자와 나란히 최고 득점을 기록하며 상생 체계의 모범 사례로 꼽혔다. 이들 기업은 창원... 2~3차 협력사까지 확대하는 방안을 검토하는 등 향후 평가의 실효성을 높이기 위해 현장 의견을 바탕으로...",
           "src": "knnews",
           "date": "11/11",
           "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554876",
-          "img": "https://cdn.knnews.co.kr/images/logo-1.gif"
-        },
-        {
-          "title": "용인시, 2026 탄소중립 녹색성장 포럼 11일 개최",
-          "desc": "최근 글로벌 반도체 시장에서는 제조기업뿐 아니라 협력사인 소부장 기업에도 탄소배출 감축과 재생에너지... 이동·남사읍의 삼성전자 '용인첨단시스템반도체 국가산업단지'와 원삼면의 SK하이닉스 '용인반도체클러스터...",
-          "src": "gukjenews",
-          "date": "11/11",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749165",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3749165_3930736_756_v150.jpg"
-        },
-        {
-          "title": "장관 후보였던 조동호 교수, 삼성 C랩서 새 도전",
-          "desc": "AMR 무선충전 시스템은 유럽 CE 인증을 획득해 글로벌 영업을 진행 중이며, 삼성전자가 투자한 레인보우로보틱스의 공식 부품 협력사로 등록됐다. 최근에는 프리B 브릿지 라운드 투자를 유치했고, 삼성전자와의...",
-          "src": "조선일보",
-          "date": "11/11",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000785",
-          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000000785_500861_1931.jpg"
-        },
-        {
-          "title": "[진단] 대기업 상생 성적은 올랐는데 협력사 체감은 뒷걸음···동반성...",
-          "desc": "38점 하락 이번 평가에서 가장 눈여겨볼 대목은 대기업 실적과 협력사 체감도가 서로 다른 방향으로 움직였다는 점이다. 동반성장 실적평가 평균 점수는 57.56점에서 62.58점으로 5.02점 올랐다. 삼성전자와 LG전자가 공동...",
-          "src": "polinews",
-          "date": "11/11",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748259",
-          "img": "https://cdn.polinews.co.kr/news/photo/202611/748259_572966_4117.jpg"
+          "img": ""
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“다가오는 KTX 시대… ‘50만 생활정주권 도시’ 만드는 데 집중”",
-          "desc": "재해 예방과 대응, 양식 품종과 방식의 다변화, 인공지능(AI) 등 스마트 기술을 도입하는 방안을 검토하고... 통영에는 신선한 수산물을 활용해 이색 먹거리를 선보이는 지역 축제들도 열린다. 최근 통영시가 선보인 ‘통영...",
-          "src": "kmib",
+          "title": "3년간 사업 재편한 SK, 이제는 성과 낼 차례 … 다음 승부처는 'AI 전력시...",
+          "desc": "E&S는 가스전 개발부터 LNG 도입·저장, 천연가스 발전까지 사업망을 갖추고 있다. 미국 자회사 KCE는 뉴욕과... 서버를 전기가 통하지 않는 냉각액에 담가 열을 제거하는 액침냉각 기술을 활용해 AI 데이터센터의 전력...",
+          "src": "biz",
           "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/005/0001884641?sid=102",
-          "img": ""
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200048.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/12/2026111200048_0.jpg?u=20261112094612?u=20261112094612"
         },
         {
-          "title": "AI·로봇이 바꿀 농업, 2045년 농촌은 국민 모두의 공간으로",
-          "desc": "첨단기술을 활용한 생산성 향상이 꼽혔다. 분산된 농지를 효율적으로 재편하고 AI와 로봇, 자율주행 농기계 등을 현장에 도입해 노동력 부족에 대응한다는 구상이다. 농업을 1차 생산에 한정하지 않고 푸드테크와...",
-          "src": "youngnong",
+          "title": "네오사피엔스, 코바코 AI 광고창작 툴에 AI 목소리 제공",
+          "desc": "타입캐스트가 도입된 것은 자사 기술력과 서비스 경쟁력을 공식적으로 인정받았다는 의미”라며 “아이작 이용자들이 광고 분위기에 맞는 다양한 AI 목소리를 손쉽게 활용할 수 있도록 앞으로도 음성 AI 기술을...",
+          "src": "ditoday",
           "date": "11/12",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71814",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71814_61938_2214.jpeg"
+          "url": "https://ditoday.com/%eb%84%a4%ec%98%a4%ec%82%ac%ed%94%bc%ec%97%94%ec%8a%a4-%ec%bd%94%eb%b0%94%ec%bd%94-ai-%ea%b4%91%ea%b3%a0%ec%b0%bd%ec%9e%91-%ed%88%b4%ec%97%90-ai-%eb%aa%a9%ec%86%8c%eb%a6%ac-%ec%a0%9c%ea%b3%b5/",
+          "img": "https://ditoday.com/wp-content/uploads/2026/11/ditoday-157325.webp"
         },
         {
-          "title": "600만달러 유치한 헬릭스, 음성으로 사람 판별…시리 공동창업자 투자",
-          "desc": "도입 비용을 낮춘다고 밝혔다. 회사는 이 기술을 캡차의 대체재나 보완재로 제시하며 자동화 프로그램의 공격을 막는 데 활용할 수 있다고 설명했다. 알렉스 오버그(Alex Oberg) 헬릭스 공동창업자 겸 CEO는 “AI가...",
-          "src": "tokenpost",
+          "title": "AI 주권 확보 나선 대만…플랫폼 키우고 연산 인프라 확대",
+          "desc": "국가망센터가 기술 플랫폼을 제공하면 민간기업이 이를 활용해 최종 이용자용 서비스를 개발한다. 연산 인프라도 확대한다. 현재 나노4와 나노5 플랫폼을 운영 중이며, 추가로 AMD 기반 AI 연산 장비를 도입한다....",
+          "src": "digitaltoday",
           "date": "11/12",
-          "url": "https://www.tokenpost.kr/news/tech/436681",
-          "img": "https://f1.tokenpost.kr/2026/11/8bhb16j9z4_th_1600x900.webp"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714804",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202611/714804_662146_3332.jpg"
         },
         {
-          "title": "\"한글·MS 오피스 편집 무료\"… AI 오피스 'VORA AI DOCS' 출시",
-          "desc": "이 과정에서 온톨로지 기반 'HYPER RAG' 기술은 문서에 포함된 개념과 관계를 파악해 필요한 근거 자료를... 작업에 활용할 수 있도록 설계했다고 설명했다. 지윤성 대표는 \"지금까지의 AI 문서 도구는 그럴듯한...",
-          "src": "woodkorea",
+          "title": "구글 딥마인드 '제미나이 로보틱스 2.5' 출시",
+          "desc": "딥마인드는 제미나이 4 아르곤을 활용해 로봇 연구를 가속했으며, 이를 바탕으로 로봇이 새로운 기술을 더... 벤치마크도 도입했다. 제미나이 로보틱스 2.5는 다양한 로봇 플랫폼에서 작동한다. 아폴로 2뿐 아니라 양손에...",
+          "src": "digitaltoday",
           "date": "11/12",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92506",
-          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714805",
+          "img": "https://cdn.digitaltoday.co.kr/news/photo/202611/714805_662139_2245.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[사설] ‘젠슨 황, 중국 스파이’ 한국이었으면 잡아낼 수 있었겠나",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009084?sid=110",
-      "img": "https://www.chosun.com/resizer/v2/HA2GMZBVMY3DIYRSGIZTAYZZGU.jpg?auth=a2b5485d43608dbb4af021e4afc95faf5f363d805bd3b4de14a21def6b371548&width=1200&height=630&smart=true"
+      "title": "[삼성전자 사장단 인사] '유일한 부사장' 가전 수장 김철기…노태문 체...",
+      "url": "https://dealsite.co.kr/articles/172558",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/11/745ba6b586f742c39b553dc225caa715/thumb.jpg"
     },
     {
       "title": "'V9' 삼성 라이온즈, 우승 공약· 할인은?",
