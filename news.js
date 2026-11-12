@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.12 (목) 18:52",
+  "updatedAt": "2026.11.13 (금) 03:20",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "'코그페' 소비 심리 살리나…상생복권 응모자 94만명 훌쩍",
-          "desc": "삼성전자와 LG전자는 주요 가전제품을, 국내 완성차 5개사는 인기 차종을 할인 판매하고 있다. 전통시장과 골목상권에서 시작된 소비 촉진 행사가 가전·자동차 등 주요 소비재 분야로 폭넓게 이어지는 모습이다....",
-          "src": "파이낸셜뉴스",
-          "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/014/0005603661?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/12/202611121202175110_e.jpg"
+          "title": "[데스크 칼럼] 레드 쓰나미…우리는 절박한가",
+          "desc": "삼성전자와 SK하이닉스가 물량을 더 늘리지 못한 틈을 노렸다. \"우리가 중국 추격해야 할 판\" 다른 산업은... 석유화학, 철강, 가전 등은 진작부터 중국이 패권을 잡고 있다. 모두 한국이 쥐락펴락하던 산업이다. 최근...",
+          "src": "한국경제",
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353413?sid=110",
+          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
         },
         {
-          "title": "낯선 타국 생활에 따뜻한 보금자리…구미 외국인노동자쉼터 새 단장",
-          "desc": "현재 30명 이상이 생활하고 있지만, 별도의 세탁 공간이 없어 주방에 설치된 세탁기를 공동으로 사용했고... 삼성전자 구미사업장, ㈜신창메디칼, 따뜻한동행, 대형건업, 지구촌공생회, ㈜대성산업개발, 캄보디아공동체...",
-          "src": "kyongbuk",
+          "title": "[강연] 원재호 앵커노드 대표 \"AI 시대, 작은 팀이 게임계 판을 바꿔나갈...",
+          "desc": "만들어 삼성전자를 이기거나 자동차를 만들어 현대차나 토요타를 이기는 건 불가능하지만, 게임은 맨손으로... 그는 1925년 세탁기가 처음 출시됐을 때 평생 차가운 물에 손빨래를 하던 가정부가 억울함에 주저앉아...",
+          "src": "inven",
           "date": "11/12",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090650",
-          "img": "https://cdn.kyongbuk.co.kr/news/photo/202611/4090650_830098_0252.jpg"
+          "url": "https://m.sports.naver.com/esports/article/442/0000198814",
+          "img": "https://static.inven.co.kr/column/2026/11/12/news/i1043938282.jpg"
         },
         {
           "title": "\"우승 턱 쏜다\"…삼성, 가전·패션 할인 에버랜드 무료 초청(종합)",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "李, 참여기업 애로 개선 약속… 삼성 과감한 투자 호평도",
-          "desc": "이재용 삼성전자 회장은 “대통령의 리더십 아래 중앙정부와 지방정부, 기업이 함께 힘을 모으면 국가... 이 대통령은 비공개 회의에서 납품대급 지급 기한 단축 등 소부장(소재·부품·장비) 협력사의 유동성 문제를...",
-          "src": "kmib",
+          "title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중...",
+          "desc": "이재명 대통령은 12일, 충남 아산시 삼성전자 온양캠퍼스에서 열린 충청권 메가프로젝트 착공식에 참석한... 삼성 협력사 194곳, 18.1조원 투자...SK하이닉스, 반도체 R&D 지원 확대 민간기업들도 협력사의 생산능력 확대와...",
+          "src": "AI타임스",
           "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/005/0001884807?sid=100",
-          "img": ""
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
+          "img": "https://cdn.aitimes.kr/news/thumbnail/202611/42714_64167_3659_v150.jpg"
         },
         {
-          "title": "‘3대 메가사업’ 충청서 첫 삽… 李대통령 “원팀 지원”",
-          "desc": "삼성전자는 협력사와 신규 설비 및 소재를 공동 개발해 기술 국산화와 공급망 안정화를 추진할 계획이라고... (소재·부품·장비) 기업의 기술개발과 사업화를 지원하기로 했다. 이 대통령도 납품대금 지급 기한 단축 등...",
-          "src": "segye",
+          "title": "엔비디아, 젠슨 황 퇴장…삼성·SK 'AI 동맹'도 시험대(2부)",
+          "desc": "국내 기업들은 엔비디아에 핵심 부품을 공급하면서 동시에 AI 반도체와 소프트웨어를 구매하는 관계여서... 12일(현지시간) 엔비디아와 국내 협력사 발표와 언론사 보도 등을 종합하면 젠슨 황은 이재용 삼성전자 회장...",
+          "src": "the-today",
           "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/022/0004174715?sid=100",
-          "img": "https://www.segye.com/content/image/2026/11/12/20261112516605.jpg"
+          "url": "https://www.the-today.com/news/articleView.html?idxno=93475",
+          "img": "https://cdn.the-today.com/news/photo/202611/93475_115036_2955.jpg"
         },
         {
-          "title": "\"8개월 걸릴 걸 4개월 만에\"…李대통령·이재용 나란히 '첫 삽'",
-          "desc": "삼성전자는 점검회의에서 삼성과 함께 성장한 협력사 194개사가 2030년까지 국내에 약 18조1000억원을 투자해... 실제 양산환경과 유사한 트리니티팹도 내년 5월까지 구축해 소재·부품·장비 기업의 기술개발과 사업화를...",
-          "src": "asiatoday",
+          "title": "\"다음 주 삼성 면접 봅니다\"…李대통령·이재용 빵 터진 한마디",
+          "desc": "행사는 이 회장의 환영사, 전영현 삼성전자 대표의 추진현황 보고, 협력사 대표인 김영재 대덕전자 회장의... HBM은 D램을 수직으로 쌓아 데이터 처리 속도를 높인 메모리로, AI 가속기의 핵심 부품으로 꼽힌다. 이 회장은...",
+          "src": "wowtv",
           "date": "11/12",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004985",
-          "img": "https://img.asiatoday.co.kr/file/2026y/11m/13d/2026111201000944500049851.jpg"
+          "url": "https://n.news.naver.com/mnews/article/215/0001272591?sid=100",
+          "img": "https://img.wowtv.co.kr/vodimg/WebEditor/w1794473089845.jpg"
         },
         {
-          "title": "李 “약속 아닌 실행 중요”…충청권 메가프로젝트 첫 삽",
-          "desc": "김영재 대덕전자 회장(삼성전자 협성회 회장)도 국내 반도체 소재·부품·장비 기업 194개사가 2030년까지 약... 대기업과 협력사의 투자 실행이 실제 고용과 지역 주민의 삶의 질 개선으로 이어질 수 있을지가...",
-          "src": "kukinews",
+          "title": "충남서 392조 메가프로젝트 첫삽…이재명 \"중요한 건 행동과 실행\"",
+          "desc": "삼성전자와 SK하이닉스는 협력사들과의 상생협력 방안을 공유하기도 했다. 가장 먼저 다룬 안건은 충청권... 삼성디스플레이 등 삼성 그룹의 첨단 투자사업 3건이 첫 삽을 뜰 수 있었다”며 “앵커기업 연계 소재 부품...",
+          "src": "이데일리",
           "date": "11/12",
-          "url": "https://www.kukinews.com/article/view/kuk202611120150",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/018/0006409118?sid=102",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111201265.jpg"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "'식단 개발 시행착오 80%↓'..메디쏠라, \"AI 영양설계 B2B 확대\"",
-          "desc": "이어 \"유전 알고리즘(Genetic Algorithm)을 활용해 여러 영양 조건과 맛, 생산 가능성을 동시에 충족하는... 이 대표는 \"RD는 의료진·임상영양 전문가, 연구소, 알고리즘 개발 AI 전문가, 사내 기술 전문팀 등이 함께...",
-          "src": "머니투데이",
-          "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/008/0005440549?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=921,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026111216550657451_1.jpg"
+          "title": "“내년 평양대부흥 120주년, 회개·각성 의미 환기 필요”",
+          "desc": "자문위는 올해 1월 1일부터 시작한 한국교회 기도운동인 국민일보 ‘365 기도 ON’에 성경 읽기를 도입해... 차세대 목회자들에게 AI 활용에 대한 가이드라인을 제공해 명확한 경계를 알려야 한다. △김여호수아 목사...",
+          "src": "kmib",
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/005/0001884911?sid=103",
+          "img": ""
         },
         {
-          "title": "산업 현장으로 확장되는 AI - 인텔이 제시한 컴퓨팅과 협력 전략",
-          "desc": "엣지 AI와 피지컬 AI를 핵심 주제로 묶고, 로보틱스 AI와 관련 생태계를 기술 세션으로 연결했다. AI의 활용... 현장의 AI 도입과 확장을 위한 기술적 판단 기준을 제시했다. 23개 기업이 참여하는 국내 AI 풀스택 협력...",
-          "src": "mfgkr",
-          "date": "11/12",
-          "url": "https://www.mfgkr.com/news/articleView.html?idxno=28475",
-          "img": "https://cdn.mfgkr.com/news/photo/202611/28475_11318_4250.jpg"
+          "title": "\"성장 기대 유효\"…증권가, 최수연의 '2조 AI 수주'에 베팅했다",
+          "desc": "냉각 기술을 활용해 글로벌 고객의 수요에 대응하고, 이를 추가 계약 확보로 연결한다는 계획이다. 이러한 사업 확장이 현실화될 경우 AI 팩토리의 실적 기여도 크게 높아질 것으로 기대된다. 이준호 하나증권...",
+          "src": "apnews",
+          "date": "11/13",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053102",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053102_87082_2728_v150.jpg"
         },
         {
-          "title": "[게임뉴스] 크래프톤 및 플레이위드코리아 소식 외",
-          "desc": "R2 ORIGIN은 이번 웹젠 링크 도입을 통해 기존 크로스 플랫폼 환경의 활용성을 한 층 더 높인다는... 피지컬 AI와 로보틱스 기술을 결합한 차세대 엔터테인먼트 솔루션을 선보인다. 리마엔터테인먼트는...",
-          "src": "gamevu",
-          "date": "11/12",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62248",
-          "img": "https://cdn.gamevu.co.kr/news/photo/202611/62248_101963_5558.jpg"
+          "title": "\"해커가 AI 의사결정 조종한다\"… 구글, 2027 보안 위기 경고",
+          "desc": "구글은 인공지능(AI) 에이전트의 활용이 확대되면서 기업의 의사결정 과정과 소프트웨어 공급망을 겨냥한... 무분별한 AI 에이전트 확산, 새로운 보안 사각지대 구글은 기업들이 AI 에이전트 기반 솔루션을 빠르게 도입...",
+          "src": "woodkorea",
+          "date": "11/13",
+          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92541",
+          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
         },
         {
-          "title": "펀진, AI로 전투계획 짜고 훈련 결과 분석한다…공군·육군 국방 AX 사업...",
-          "desc": "이번 개발 과제는 이러한 전투계획 작성 업무에 AI를 도입해 소요 시간을 단축하고, 계획의 정확성과... 업무에서 활용할 수 있는 AI 기술을 확보한다는 전략이다. 공군에서는 전투계획 작성 과정의 효율성과...",
-          "src": "digitalchosun",
-          "date": "11/12",
-          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/12/2026111280043.html",
-          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/11/12/2026111280043_0.jpg"
+          "title": "퇴장한 '깐부' 젠슨 황…삼성·SK·현대차 '엔비디아 동맹' 안갯속",
+          "desc": "삼성전자는 엔비디아 GPU 5만개 이상을 도입해 설계부터 품질 관리까지 AI를 적용하는 '반도체 AI 팩토리'를... 두산은 엔비디아에 AI 반도체용 동박적층판(CCL)을 공급하고 있으며, HD현대는 엔비디아 기술을 활용해 가상...",
+          "src": "ntoday",
+          "date": "11/13",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130831",
+          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202611/130831_118499_5112_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "'코그페' 소비 심리 살리나…상생복권 응모자 94만명 훌쩍",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603661?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/12/202611121202175110_e.jpg"
+      "title": "[데스크 칼럼] 레드 쓰나미…우리는 절박한가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353413?sid=110",
+      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
     },
     {
-      "title": "낯선 타국 생활에 따뜻한 보금자리…구미 외국인노동자쉼터 새 단장",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090650",
-      "img": "https://cdn.kyongbuk.co.kr/news/photo/202611/4090650_830098_0252.jpg"
+      "title": "[강연] 원재호 앵커노드 대표 \"AI 시대, 작은 팀이 게임계 판을 바꿔나갈...",
+      "url": "https://m.sports.naver.com/esports/article/442/0000198814",
+      "img": "https://static.inven.co.kr/column/2026/11/12/news/i1043938282.jpg"
     },
     {
       "title": "\"우승 턱 쏜다\"…삼성, 가전·패션 할인 에버랜드 무료 초청(종합)",
