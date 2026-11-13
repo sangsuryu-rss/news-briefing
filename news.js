@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.13 (금) 03:20",
+  "updatedAt": "2026.11.13 (금) 10:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[데스크 칼럼] 레드 쓰나미…우리는 절박한가",
-          "desc": "삼성전자와 SK하이닉스가 물량을 더 늘리지 못한 틈을 노렸다. \"우리가 중국 추격해야 할 판\" 다른 산업은... 석유화학, 철강, 가전 등은 진작부터 중국이 패권을 잡고 있다. 모두 한국이 쥐락펴락하던 산업이다. 최근...",
-          "src": "한국경제",
+          "title": "[오늘의 신문] 젠슨 황 퇴진 후폭풍·한국 수출 1조 달러 임박…세계 경...",
+          "desc": "삼성전자와 LG전자는 AI 가전과 로봇 기술을 선보일 전망이며, 기아는 목적기반모빌리티(PBV)를 중심으로 독립 전시관을 운영할 것으로 보인다. SK그룹은 2년 연속 그룹 차원의 전시에 불참하지만 SK하이닉스는 별도...",
+          "src": "kor",
           "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/015/0005353413?sid=110",
-          "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          "url": "http://kor.theasian.asia/archives/421636",
+          "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-144.png"
         },
         {
-          "title": "[강연] 원재호 앵커노드 대표 \"AI 시대, 작은 팀이 게임계 판을 바꿔나갈...",
-          "desc": "만들어 삼성전자를 이기거나 자동차를 만들어 현대차나 토요타를 이기는 건 불가능하지만, 게임은 맨손으로... 그는 1925년 세탁기가 처음 출시됐을 때 평생 차가운 물에 손빨래를 하던 가정부가 억울함에 주저앉아...",
-          "src": "inven",
-          "date": "11/12",
-          "url": "https://m.sports.naver.com/esports/article/442/0000198814",
-          "img": "https://static.inven.co.kr/column/2026/11/12/news/i1043938282.jpg"
+          "title": "삼성전자, 라이온즈 'V9' 기념 경품·구독 혜택 행사 진행",
+          "desc": "13일 가전업계에 따르면 삼성전자는 이날부터 오는 24일까지 12일간 공식 온라인몰 삼성닷컴을 통해 '라이온즈 우승 기념 삼성전자 대축제'를 진행한다. 이번 행사는 삼성라이온즈가 한국시리즈에서 KT 위즈를 꺾고...",
+          "src": "wolyo",
+          "date": "11/13",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320441",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202611/320441_229679_5153.jpg"
         },
         {
-          "title": "\"우승 턱 쏜다\"…삼성, 가전·패션 할인 에버랜드 무료 초청(종합)",
-          "desc": "한편 삼성전자는 현재 이달 30일까지 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 진행하고 있다. 세탁건조기·TV·청소기·냉장고 등 주요 가전 11개 품목과 모바일·정보기술(IT) 제품 5개 품목을 할인 판매하고...",
+          "title": "삼성전자, 라이온즈 우승 기념 축제…구독료 6개월 포인트 추가 지급",
+          "desc": "삼성전자(005930)가 프로야구 삼성 라이온즈의 한국시리즈 우승을 기념해 가전 구독 고객에게 구독료 6개월... 식기세척기·인덕션·정수기·로봇청소기·PC·스탠드형 김치냉장고는 기존 6개월에 6개월을 추가해 총...",
           "src": "뉴스1",
-          "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/421/0009286566?sid=101",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/12/8211689/high.jpg"
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/421/0009287209?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/13/8212283/high.jpg"
         },
         {
-          "title": "삼성 우승…방금 뜬 '삼성스토어' 할인행사 정보",
-          "desc": "삼성전자는 11월 30일까지 '삼성전자와 함께하는 코리아 그랜드 페스티벌'을 진행 중이다. 세탁건조기·TV·청소기·냉장고 등 주요 가전 11개 품목을 할인 판매하고 있다. 올인원 세탁건조기 '비스포크 AI 콤보'와 로봇청...",
-          "src": "wikitree",
-          "date": "11/12",
-          "url": "https://www.wikitree.co.kr/articles/1174134",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/12/img_20261112161638_56e107c2.jpg"
+          "title": "\"함께 이룬 V9, 함께 누릴 12일\" 삼성전자, 라이온즈 우승 기념 할인행사...",
+          "desc": "삼성전자는 지난 6월 반도체 성과를 국민과 함께 나누리 위해 제품 구매액의 20%를 온누리 상품권으로 지급하는 '국민과 함께, 감사 페스티벌'을 진행한 바 있다. 또 이달에도 세탁건조기와 TV, 냉장고 등 가전 11개...",
+          "src": "뉴시스",
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/003/0014320020?sid=101",
+          "img": "https://img1.newsis.com/2026/11/13/NISI20261113_0002290919_web.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중...",
-          "desc": "이재명 대통령은 12일, 충남 아산시 삼성전자 온양캠퍼스에서 열린 충청권 메가프로젝트 착공식에 참석한... 삼성 협력사 194곳, 18.1조원 투자...SK하이닉스, 반도체 R&D 지원 확대 민간기업들도 협력사의 생산능력 확대와...",
-          "src": "AI타임스",
-          "date": "11/12",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
-          "img": "https://cdn.aitimes.kr/news/thumbnail/202611/42714_64167_3659_v150.jpg"
+          "title": "\"소·부·장 핵심기술 협업필요\" 삼성전자, 협력사 1000명과 '반도체 테...",
+          "desc": "삼성전자는 협력사가 급변하는 기술 환경을 빠르게 이해하고 성장 방향을 설정할 수 있도록 정보 공유의 장을 꾸준히 마련한다는 방침이다. 한편, AI 시대에 고성능·고집적 반도체 수요가 급증하면서 소재·부품·장비...",
+          "src": "뉴시스",
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/003/0014320066?sid=101",
+          "img": "https://img1.newsis.com/2026/11/13/NISI20261113_0002290887_web.jpg"
         },
         {
-          "title": "엔비디아, 젠슨 황 퇴장…삼성·SK 'AI 동맹'도 시험대(2부)",
-          "desc": "국내 기업들은 엔비디아에 핵심 부품을 공급하면서 동시에 AI 반도체와 소프트웨어를 구매하는 관계여서... 12일(현지시간) 엔비디아와 국내 협력사 발표와 언론사 보도 등을 종합하면 젠슨 황은 이재용 삼성전자 회장...",
-          "src": "the-today",
-          "date": "11/12",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93475",
-          "img": "https://cdn.the-today.com/news/photo/202611/93475_115036_2955.jpg"
+          "title": "삼성전자 DS부문, 협력사 1000명과 차세대 반도체 기술 공유",
+          "desc": "새로운 물질 개발뿐 아니라 기능성 소재의 순도와 품질을 높이는 것이 중요하다며 소재·부품·장비 협력사와의 협업 필요성을 강조했다. 지현기 삼성전자 DS부문 상생협력센터장(부사장)은 \"반도체 산업은 AI 혁신의...",
+          "src": "뉴스1",
+          "date": "11/13",
+          "url": "https://n.news.naver.com/mnews/article/421/0009287178?sid=101",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/13/8212229/high.jpg"
         },
         {
-          "title": "\"다음 주 삼성 면접 봅니다\"…李대통령·이재용 빵 터진 한마디",
-          "desc": "행사는 이 회장의 환영사, 전영현 삼성전자 대표의 추진현황 보고, 협력사 대표인 김영재 대덕전자 회장의... HBM은 D램을 수직으로 쌓아 데이터 처리 속도를 높인 메모리로, AI 가속기의 핵심 부품으로 꼽힌다. 이 회장은...",
-          "src": "wowtv",
-          "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/215/0001272591?sid=100",
-          "img": "https://img.wowtv.co.kr/vodimg/WebEditor/w1794473089845.jpg"
+          "title": "정부, 삼성전자·SK하이닉스·소부장 기업과 '52시간제' 논의…초광역특...",
+          "desc": "이날 간담회에는 삼성전자와 SK하이닉스를 비롯해 원익IPS, 동진쎄미켐, 에프에스티, 미코세라믹스, 엘오티베큠 등 주요 반도체 및 소재·부품·장비(소부장) 기업 관계자들이 참석했다. 산업통상부 당국자도 자리해 반도체...",
+          "src": "joongangenews",
+          "date": "11/13",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563571",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/563571_371208_3036.jpg"
         },
         {
-          "title": "충남서 392조 메가프로젝트 첫삽…이재명 \"중요한 건 행동과 실행\"",
-          "desc": "삼성전자와 SK하이닉스는 협력사들과의 상생협력 방안을 공유하기도 했다. 가장 먼저 다룬 안건은 충청권... 삼성디스플레이 등 삼성 그룹의 첨단 투자사업 3건이 첫 삽을 뜰 수 있었다”며 “앵커기업 연계 소재 부품...",
-          "src": "이데일리",
-          "date": "11/12",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409118?sid=102",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111201265.jpg"
+          "title": "[인문자의 젠슨 황 비문(秘聞) 이야기 | 인간·문화·자연] AI 황제의 위...",
+          "desc": "이번 사태에서 한국이 가장 먼저 살펴야 할 것은 삼성전자와 SK하이닉스의 미래다. 한국은 세계 메모리 반도체 산업의 핵심 국가다. 특히 HBM은 첨단 AI 반도체의 성능을 좌우하는 중요한 부품이다. 엔비디아의 AI 가속기가...",
+          "src": "아주경제",
+          "date": "11/13",
+          "url": "https://www.ajunews.com/view/20261113091058080",
+          "img": "https://image.ajunews.com/content/image/2026/11/13/20261113093007558671.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "“내년 평양대부흥 120주년, 회개·각성 의미 환기 필요”",
-          "desc": "자문위는 올해 1월 1일부터 시작한 한국교회 기도운동인 국민일보 ‘365 기도 ON’에 성경 읽기를 도입해... 차세대 목회자들에게 AI 활용에 대한 가이드라인을 제공해 명확한 경계를 알려야 한다. △김여호수아 목사...",
-          "src": "kmib",
+          "title": "베트남 디지털·AI 경쟁력, 세계 70개국 중 37위…동남아선 세 번째",
+          "desc": "AI 활용이 13위, 디지털·AI 거버넌스가 15위, 효율성이 21위에 올랐다. 이를 두 고 베트남 과학기술부는 \"다른... 가속화 △기술 도입 확대 △거버넌스 현대화 노력을 반영한다\"고 평가했다. 베트남은 정치국의 '과학·기술...",
+          "src": "insidevina",
           "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/005/0001884911?sid=103",
+          "url": "https://www.insidevina.com/news/articleView.html?idxno=44500",
+          "img": "https://cdn.insidevina.com/news/photo/202611/44500_45489_492.jpg"
+        },
+        {
+          "title": "대한상의, AI 커머스 시대 돌파구 찾는다...'에이전틱 유통 전환' 논의",
+          "desc": "단순히 상품과 서비스를 제공하는 것을 넘어 AI가 활용할 수 있는 데이터와 거래 환경을 갖추는 것이 중요해진다는 의미다. 정지영 대한상의 유통위원장은 유통업계가 AI 인프라 구축 경험과 도입 성공 사례를 공유하고...",
+          "src": "cwn",
+          "date": "11/13",
+          "url": "https://www.cwn.kr/news/articleView.html?idxno=61699",
+          "img": "https://cdn.cwn.kr/news/photo/202611/61699_62272_345.jpg"
+        },
+        {
+          "title": "[뉴공 아카이브]백년위원회: AI기본사회, 의료부터 바꾼다… 실행 타임...",
+          "desc": "기술적인 거는 큰 문제가 아닌.차지호 : 돈벌이라고 하면 조금 이상하지만 그냥 비즈니스 모델.▶김어준 : (웃음) 비즈니스 모델.차지호 : 근데 AI도 마찬가지예요. AI가 뭐 하면 도움이 될 것 같잖아요. 근데 그걸 도입하려...",
+          "src": "ddanzi",
+          "date": "11/13",
+          "url": "http://www.ddanzi.com/89879762",
           "img": ""
         },
         {
-          "title": "\"성장 기대 유효\"…증권가, 최수연의 '2조 AI 수주'에 베팅했다",
-          "desc": "냉각 기술을 활용해 글로벌 고객의 수요에 대응하고, 이를 추가 계약 확보로 연결한다는 계획이다. 이러한 사업 확장이 현실화될 경우 AI 팩토리의 실적 기여도 크게 높아질 것으로 기대된다. 이준호 하나증권...",
-          "src": "apnews",
+          "title": "버즈빌, 같은 상품도 사람마다 다른 광고…AI 엔진 '프리즘' 공개",
+          "desc": "버즈빌이 AI를 활용해 이용자마다 광고 내용과 참여 방식을 달리하는 기술을 선보였다. 기존 디지털 광고가... 이달부터 도입을 희망하는 광고주를 대상으로 적용된다. 기존 디지털 광고 기술은 광고를 노출할 대상을...",
+          "src": "econovill",
           "date": "11/13",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053102",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053102_87082_2728_v150.jpg"
-        },
-        {
-          "title": "\"해커가 AI 의사결정 조종한다\"… 구글, 2027 보안 위기 경고",
-          "desc": "구글은 인공지능(AI) 에이전트의 활용이 확대되면서 기업의 의사결정 과정과 소프트웨어 공급망을 겨냥한... 무분별한 AI 에이전트 확산, 새로운 보안 사각지대 구글은 기업들이 AI 에이전트 기반 솔루션을 빠르게 도입...",
-          "src": "woodkorea",
-          "date": "11/13",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92541",
-          "img": "https://www.woodkorea.co.kr/image/logo/snslogo_20220718041630.png"
-        },
-        {
-          "title": "퇴장한 '깐부' 젠슨 황…삼성·SK·현대차 '엔비디아 동맹' 안갯속",
-          "desc": "삼성전자는 엔비디아 GPU 5만개 이상을 도입해 설계부터 품질 관리까지 AI를 적용하는 '반도체 AI 팩토리'를... 두산은 엔비디아에 AI 반도체용 동박적층판(CCL)을 공급하고 있으며, HD현대는 엔비디아 기술을 활용해 가상...",
-          "src": "ntoday",
-          "date": "11/13",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130831",
-          "img": "https://cdn.ntoday.co.kr/news/thumbnail/202611/130831_118499_5112_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=757132",
+          "img": "https://cdn.econovill.com/news/thumbnail/202611/757132_734831_152_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[데스크 칼럼] 레드 쓰나미…우리는 절박한가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353413?sid=110",
-      "img": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+      "title": "[오늘의 신문] 젠슨 황 퇴진 후폭풍·한국 수출 1조 달러 임박…세계 경...",
+      "url": "http://kor.theasian.asia/archives/421636",
+      "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-144.png"
     },
     {
-      "title": "[강연] 원재호 앵커노드 대표 \"AI 시대, 작은 팀이 게임계 판을 바꿔나갈...",
-      "url": "https://m.sports.naver.com/esports/article/442/0000198814",
-      "img": "https://static.inven.co.kr/column/2026/11/12/news/i1043938282.jpg"
+      "title": "삼성전자, 라이온즈 'V9' 기념 경품·구독 혜택 행사 진행",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320441",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202611/320441_229679_5153.jpg"
     },
     {
-      "title": "\"우승 턱 쏜다\"…삼성, 가전·패션 할인 에버랜드 무료 초청(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009286566?sid=101",
-      "img": "https://i3n.news1.kr/system/photos/2026/11/12/8211689/high.jpg"
+      "title": "삼성전자, 라이온즈 우승 기념 축제…구독료 6개월 포인트 추가 지급",
+      "url": "https://n.news.naver.com/mnews/article/421/0009287209?sid=101",
+      "img": "https://i3n.news1.kr/system/photos/2026/11/13/8212283/high.jpg"
     },
     {
-      "title": "삼성 우승…방금 뜬 '삼성스토어' 할인행사 정보",
-      "url": "https://www.wikitree.co.kr/articles/1174134",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/12/img_20261112161638_56e107c2.jpg"
+      "title": "\"함께 이룬 V9, 함께 누릴 12일\" 삼성전자, 라이온즈 우승 기념 할인행사...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014320020?sid=101",
+      "img": "https://img1.newsis.com/2026/11/13/NISI20261113_0002290919_web.jpg"
     },
     {
       "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
