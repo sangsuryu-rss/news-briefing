@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.13 (금) 18:35",
+  "updatedAt": "2026.11.14 (토) 02:46",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 또 신규 노조 설립 추진…제7노조 신청서 제출",
-          "desc": "가전·휴대폰을 만드는 디바이스 경험(DX) 중심의 동행노조는 이에 대해 초기업노조의 내분이 부각되고 그 과정에서 새로운 노조가 연이어 만들어지는 현 상황이 안타깝다며 우려를 표했습니다. #삼성전자 #노동조합 #교섭",
-          "src": "연합뉴스TV",
+          "title": "[김진안의 글로벌 산업진단⑤] 엔비디아 화물 150억원어치 증발 사건, 낯...",
+          "desc": "아시아엔은 삼성전자에서 오랫동안 글로벌 영업과 해외 경영을 담당한 김진안 전 전무가 최근 페이스북에... 중국 우루무치 창고에서 카자흐스탄 알마티 창고로 향하던 국제 운송 열차에서도 냉장고와 TV 등 대량의 가전제...",
+          "src": "kor",
           "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/422/0000925958?sid=101",
-          "img": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113175042luO_01_i.jpg"
+          "url": "http://kor.theasian.asia/archives/421444",
+          "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-129.png"
         },
         {
-          "title": "\"최민희 감찰\" \"김민석 해당행위\"…친명·친청계 정면충돌 [짤e몽땅]",
-          "desc": "\"폴드8에 TV, 세탁기까지\"…삼성, 한국시리즈 우승에 '대축제' 삼성전자가 삼성 라이온즈의 2026 한국시리즈 우승을 기념하는 특별 경품 이벤트를 오늘부터 진행합니다. '12년 만의 통산 9번째 우승'이라는 의미로 12일 동안...",
+          "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
+          "desc": "삼성전자 세탁기 지원 안내도 캡슐형 세제는 자동 투입구가 아닌 세탁조 안에 직접 넣도록 안내한다. 다만 세탁기 모델별 사용법과 캡슐 제품의 투입량·사용 조건이 다를 수 있으므로, 해당 세탁기 설명서와 제품 포장에...",
+          "src": "vegannews",
+          "date": "11/13",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
+          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
+        },
+        {
+          "title": "2027 산업 기상도 들여다보니",
+          "desc": "디스플레이·전기전자-흐림 OLED 성장·가전은 침체 디스플레이 산업은 유기발광다이오드(OLED)가 성장세를 이끌 전망이다. 스마트폰에 집중됐던 OLED 수요가 노트북과 모니터로 확산하며 삼성디스플레이와...",
           "src": "매일경제",
           "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/057/0001978106?sid=102",
-          "img": "https://img.mbn.co.kr//filewww/news/2026/11/13/17945580356af6c85354750.gif"
+          "url": "https://n.news.naver.com/mnews/article/024/0000109624?sid=101",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "\"가전제품부터 패션까지\" 삼성라이온즈, V9 우승 기념 줄줄이 기념 행사",
-          "desc": "행사기간, TV와 냉장고, 세탁기, 식기세척기, 로봇청소기 등 10개 품목 구독 시 6개월치 구독료에 해당하는 삼성전자 멤버십 포인트를 추가 지급한다. 기존 '삼성 AI 구독 페스티벌'에서 제공하는 최대 6개월치 구독료...",
-          "src": "hidomin",
+          "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
+          "desc": "삼성전자가 삼성 라이온즈의 2026년 한국시리즈 우승을 기념해 가전제품 구독 혜택과 경품 이벤트를... PC, 로봇청소기 등이다. 다만 TV와 모니터, 일부 냉장고·세탁기 등은 기존 3개월 지원에 추가 6개월이 적용되는 등...",
+          "src": "topstarnews",
           "date": "11/13",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=729267",
-          "img": "https://cdn.hidomin.com/news/photo/202611/729267_432599_224.jpg"
-        },
-        {
-          "title": "삼성전자, 라이온즈 우승 기념 혜택 나왔다…구독료 최대 '12개월' 지원",
-          "desc": "삼성전자가 삼성 라이온즈의 한국시리즈 우승을 기념해 이달 13일부터 24일까지 구독료 지원과 경품... 기존 '삼성 AI 구독 페스티벌'은 추천 모델을 최장 기간 구독할 경우 TV·세탁기·건조기 등은 3개월치, 식기세척기...",
-          "src": "뉴스웍스",
-          "date": "11/13",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902991",
-          "img": "https://cdn.newsworks.co.kr/news/photo/202611/902991_904161_3754.jpg"
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275997",
+          "img": "https://cdn.topstarnews.net/news/photo/202611/16275997_2087810_230_crop.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성전자 DS부문, 협력사 대상 '반도체 테크 세미나' 개최",
-          "desc": "이어 지난달 산업통상부 주관 '2026 소재·부품·장비-뿌리기술대전' 행사에서 차세대 반도체 극자외선(EUV)... 불가능하다\"며 \"삼성전자 DS부문은 협력사의 기술 역량을 강화할 수 있는 다양한 활동을 지속적으로...",
-          "src": "wolyo",
-          "date": "11/13",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320488",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202611/320488_229742_169.jpg"
+          "title": "\"고점에 물렸다고 겁먹지 마세요\"…삼전닉스 반등의 열쇠는?",
+          "desc": "허준희 인턴 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 불명예 퇴진에도 삼성전자와 SK하이닉스 등 국내... 계획과 부품 공급망 형성 여부를 살펴야 한다고 조언했다. 변 대표는 \"현대차와 밀접성을 갖고 있는 협력사...",
+          "src": "뉴시스",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/003/0014321712?sid=101",
+          "img": "https://img1.newsis.com/2026/11/13/NISI20261113_0002291406_web.jpg"
         },
         {
-          "title": "삼성메디슨, 홍천에 500억 투입 신규 제조동 준공…“2030년 생산능력 2...",
-          "desc": "삼성전자의 의료기기 자회사인 삼성메디슨이 강원특별자치도 홍천군에 초음파 진단기기 신규 제조동을... 주요 협력사 관계자와 유규태 삼성메디슨 대표 및 임직원 등이 참석했다. 이번에 준공된 신규 제조동은...",
-          "src": "dnews",
+          "title": "유규태 삼성메디슨 대표 \"글로벌 초음파 '톱3' 진입 눈앞…무결점 품질...",
+          "desc": "홍천군수, 협력사 관계자 등이 참석한 가운데 제조동 증축 준공식을 열었다. 이번 시설은 2011년 삼성전자... 핵심 부품 자체 생산을 통해 공급망 불확실성 속에서도 안정적으로 장비를 공급하겠다\"고 강조했다. 영상...",
+          "src": "financialpost",
           "date": "11/13",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611131800512400015",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/11/13/202611131800512400015-2-705490.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=300867",
+          "img": "https://cdn.financialpost.co.kr/news/photo/202611/300867_401344_344.jpg"
         },
         {
-          "title": "삼성메디슨, 2030년까지 생산능력 2배 확대...홍천 신규 제조동 준공",
-          "desc": "아울러 홍천공장은 인근 도시로 협력사들이 자리 잡아 역내 생산·공급망을 구축하고 고용 창출로 지역... 부품 수급 여건 변화에 능동적으로 대응하고 공급 안정성 역시 강화했다. 특히, 신규 제조동에 삼성전자...",
-          "src": "womentimes",
+          "title": "삼성메디슨, 홍천 신규 제조동 준공… 2030년 생산능력 2배 확대",
+          "desc": "홍천군수, 협력사 관계자, 유규태 삼성전자 의료기기사업부장 겸 삼성메디슨 대표 등이 참석했다. 신규... 부품 입고부터 조립·검사·출하까지 공정 동선을 재배치하고, 제품별 생산 단계에서 전수 검사를 실시하는...",
+          "src": "newscj",
           "date": "11/13",
-          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107929",
-          "img": "https://cdn.womentimes.co.kr/news/photo/202611/107929_209482_4136.jpg"
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3448610",
+          "img": "https://cdn.newscj.com/news/thumbnail/202611/3448610_3574960_2655_v150.jpg"
         },
         {
-          "title": "삼성전자 DS, 협력사 1000명과 AI 반도체 기술 공유",
-          "desc": "김 팀장은 \"이전에 경험하지 못한 고품질의 순도 높은 기능성 소재 역시 새로운 개념의 신소재\"라며 \"개발을 위해서는 소재·부품·장비 협력사들과의 논의와 협업이 필요하다\"고 말했다. 지현기 삼성전자 DS부문...",
-          "src": "아이뉴스24",
+          "title": "삼성메디슨, 홍천 제조라인 확충… 세계 의료기기시장 공략 '가속'",
+          "desc": "4400평)규모로 삼성전자가 인수한 이후 최대 증설 규모다. 이번 증축과 함께 구미사업장과의 제조 시너지도 강화할 계획이다. 2012년 설립한 구미사업장은 초음파를 생성하고 수신하는 핵심 부품인 프로브(Probe)를 전담...",
+          "src": "newsbrite",
           "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/031/0001074984?sid=105",
-          "img": "https://image.inews24.com/v1/43ae22e49e20ad.jpg"
+          "url": "http://www.newsbrite.net/news/articleView.html?idxno=201477",
+          "img": "https://cdn.newsbrite.net/news/thumbnail/202611/201477_108052_133_v150.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "배경훈 \"엔비디아 GPU 26만장 공급 예정대로\"…AI 협력 지속",
-          "desc": "정부는 기술지원과 GPU 공급 일정은 물론 투자 및 협력계획에 대한 영향을 확인하면서, 국산 AI 반도체 등 여러 컴퓨팅 자원을 활용하는 방안도 찾기로 했다. 정부 설명에 따르면 지난해 발표한 GPU 26만장 이상 도입을...",
-          "src": "mdtoday",
-          "date": "11/13",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625163",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202611/625163_334149_3152.jpg"
+          "title": "[CPS 시큐어 AX 서밋 2026] 김일용 앤앤에스피 대표, AI 시대 산업제어망...",
+          "desc": "그는 \"AI가 기업과 산업 현장에 빠르게 도입되면서 데이터를 연결하는 일과 현장을 안정적으로 운영하는... 기업이 AI나 외부 서비스를 활용하려면 필요한 데이터를 주고받을 통로가 있어야 한다. 김 대표는 이 과정에서...",
+          "src": "dailysecu",
+          "date": "11/14",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209517",
+          "img": "https://cdn.dailysecu.com/news/photo/202611/209517_210562_3440.jpg"
         },
         {
-          "title": "아마존, 기후테크 상용화 프로그램 확대…한국 내일테크놀로지도 참여",
-          "desc": "아마존이 저탄소 소재와 에너지 효율, 재활용 기술을 보유한 스타트업을 발굴해 실제 사업에 적용하는... 선정 기업들은 아마존의 기술·구매 담당자와 직접 협력하며 제품 도입 가능성을 검증하고, 공급계약이나...",
-          "src": "impacton",
-          "date": "11/13",
-          "url": "https://www.impacton.net/news/articleView.html?idxno=30670",
-          "img": "https://cdn.impacton.net/news/photo/202611/30670_40748_845.jpg"
+          "title": "[오늘의 경제뉴스] '황 없는 엔비디아' 불확실성…AMD·브로드컴, 삼성엔...",
+          "desc": "오픈AI가 칩과 시스템을 설계하고 브로드컴이 개발·구축과 네트워크 기술을 지원하는 구조다. 발표 당시 양사는 올해 하반기부터 도입을 시작해 2029년 말까지 구축을 완료하는 일정을 제시했다. 알파벳은 구글의...",
+          "src": "newsverse",
+          "date": "11/14",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11928",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202611/11928_20427_1832_v150.jpg"
         },
         {
-          "title": "[카카오] 카카오인베스트먼트, 'AI 돛 출항 2기' 성료…UNIST 로콘 대상 ...",
-          "desc": "카카오인베스트먼트가 4대 과학기술원의 유망 AI 기술을 발굴해 창업과 사업화로 연결하는 창업지원사업... 분기점 전방 2km부터 정체 상황에 따른 차로 변경을 추천하는 기능도 도입한다. 500m 이내에 갈림길이...",
-          "src": "worktoday",
-          "date": "11/13",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91976",
-          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/91976_132400_254_v150.jpg"
+          "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영...",
+          "desc": "특히 주요 클라우드 기업들이 엔비디아 의존도를 낮추기 위해 자체 AI 반도체나 경쟁사 제품 도입을... 황 전 CEO는 막대한 현금을 활용해 AI 생태계 전반에 공격적으로 투자했습니다. 고객사와 공급업체 지분을...",
+          "src": "한국경제",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353778?sid=104",
+          "img": "https://img.hankyung.com/photo/202611/01.46418267.1.jpg"
         },
         {
-          "title": "삼성메디슨, 홍천 제조동 증축…2030년까지 생산능력 2배 확대",
-          "desc": "IoT'를 도입해 공조와 에너지 사용을 통합 관리하고, 건물에너지관리시스템(BEMS)을 활용해 공조 설비의... 삼성의 전자·IT 기술과 기존 초음파 기술을 결합해 영상 성능과 AI 진단 보조 기능, 사용자 편의성을 강화해...",
-          "src": "고코리아",
-          "date": "11/13",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=885563",
-          "img": "https://cdn.gokorea.kr/news/thumbnail/202611/885563_163183_2729_v150.jpg"
+          "title": "[기업家] 삼성전자 ㉓ㅣ AI 데이터센터 공략 가속…AMD 협력·스타트업 ...",
+          "desc": "이번에 도입되는 수온 저감 시설은 냉각탑 대신 열에너지를 활용해 방류수의 온도를 낮추는 방식으로, 기존 냉각탑 방식에 비해 온실가스 배출과 소음이 적은 점이 특징이다. 평택시는 이 기술을 통해 방류수의...",
+          "src": "cbci",
+          "date": "11/14",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=626727",
+          "img": "https://www.cbci.co.kr/news/thumbnail/202611/626727_430760_4719_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자 또 신규 노조 설립 추진…제7노조 신청서 제출",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925958?sid=101",
-      "img": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113175042luO_01_i.jpg"
+      "title": "[김진안의 글로벌 산업진단⑤] 엔비디아 화물 150억원어치 증발 사건, 낯...",
+      "url": "http://kor.theasian.asia/archives/421444",
+      "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-129.png"
     },
     {
-      "title": "\"최민희 감찰\" \"김민석 해당행위\"…친명·친청계 정면충돌 [짤e몽땅]",
-      "url": "https://n.news.naver.com/mnews/article/057/0001978106?sid=102",
-      "img": "https://img.mbn.co.kr//filewww/news/2026/11/13/17945580356af6c85354750.gif"
+      "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
+      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
     },
     {
-      "title": "\"가전제품부터 패션까지\" 삼성라이온즈, V9 우승 기념 줄줄이 기념 행사",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=729267",
-      "img": "https://cdn.hidomin.com/news/photo/202611/729267_432599_224.jpg"
+      "title": "2027 산업 기상도 들여다보니",
+      "url": "https://n.news.naver.com/mnews/article/024/0000109624?sid=101",
+      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     },
     {
-      "title": "삼성전자, 라이온즈 우승 기념 혜택 나왔다…구독료 최대 '12개월' 지원",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902991",
-      "img": "https://cdn.newsworks.co.kr/news/photo/202611/902991_904161_3754.jpg"
+      "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275997",
+      "img": "https://cdn.topstarnews.net/news/photo/202611/16275997_2087810_230_crop.jpg"
     },
     {
       "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
