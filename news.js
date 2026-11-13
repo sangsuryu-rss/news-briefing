@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.14 (토) 02:46",
+  "updatedAt": "2026.11.14 (토) 08:36",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[김진안의 글로벌 산업진단⑤] 엔비디아 화물 150억원어치 증발 사건, 낯...",
-          "desc": "아시아엔은 삼성전자에서 오랫동안 글로벌 영업과 해외 경영을 담당한 김진안 전 전무가 최근 페이스북에... 중국 우루무치 창고에서 카자흐스탄 알마티 창고로 향하던 국제 운송 열차에서도 냉장고와 TV 등 대량의 가전제...",
-          "src": "kor",
-          "date": "11/13",
-          "url": "http://kor.theasian.asia/archives/421444",
-          "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-129.png"
+          "title": "김장 안 하고 사 먹는 집 늘었다…삼성·LG부터 쿠쿠·미닉스까지 김치...",
+          "desc": "통해 가전제품 패키지를 제공한다. 소형 제품이 인기를 얻고 있지만 김치를 직접 담가 장기간 보관하는 가구를 위한 중대형 김치냉장고 시장도 여전히 주요 판매 영역이다. 삼성전자와 LG전자는 보관 용량뿐 아니라...",
+          "src": "segye",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/022/0004175049?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/14/20261114502207.jpg"
+        },
+        {
+          "title": "[단독] 인도, 전자폐기물 재활용 2000곳 전수 감사…삼성 협력사 4곳 우...",
+          "desc": "LG전자는 기존 노이다·푸네 공장에 이어 남부 안드라프라데시주 스리시티에 약 6억 달러(약 8067억원)를 투자해 세 번째 가전공장을 건립 중이며, 삼성전자 역시 노이다 스마트폰 공장과 첸나이 가전공장을 핵심 기지로...",
+          "src": "the-today",
+          "date": "11/14",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=93545",
+          "img": "https://cdn.the-today.com/news/photo/202611/93545_115103_2918.png"
         },
         {
           "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "11/13",
           "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
           "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
-        },
-        {
-          "title": "2027 산업 기상도 들여다보니",
-          "desc": "디스플레이·전기전자-흐림 OLED 성장·가전은 침체 디스플레이 산업은 유기발광다이오드(OLED)가 성장세를 이끌 전망이다. 스마트폰에 집중됐던 OLED 수요가 노트북과 모니터로 확산하며 삼성디스플레이와...",
-          "src": "매일경제",
-          "date": "11/13",
-          "url": "https://n.news.naver.com/mnews/article/024/0000109624?sid=101",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
           "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
@@ -141,6 +141,22 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[칩톡]일본과는 손잡고, 국산화도 계속…K반도체의 두 가지 숙제",
+          "desc": "첨단 반도체 기술 경쟁력을 높이기 위해 일본의 소재·부품·장비(소부장) 기술을 적극적으로 활용하는 동시에 국내 기업들의 경쟁력도 키워야 한다는 목소리가 나온다. 14일 업계에 따르면 이재용 삼성전자 회장은 최근...",
+          "src": "view",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/277/0005842541?sid=101",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111313264298703_1794544003.jpg"
+        },
+        {
+          "title": "삼성메디슨, 홍천 신규 제조동 준공…”2030년까지 생산능력 2배\"",
+          "desc": "부품 입고부터 조립, 검사, 출하까지 공정 동선을 최적화했다. 무결점(Zero-defect) 품질을 목표로 모든 제품에 생산 단계별 전수 검사도 실시한다. 에너지 효율도 높였다. 삼성전자의 빌딩 통합 솔루션 ‘b.IoT’로 공조...",
+          "src": "segye",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/022/0004175036?sid=101",
+          "img": "https://www.segye.com/content/image/2026/11/13/20261113513063.jpg"
+        },
+        {
           "title": "\"고점에 물렸다고 겁먹지 마세요\"…삼전닉스 반등의 열쇠는?",
           "desc": "허준희 인턴 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 불명예 퇴진에도 삼성전자와 SK하이닉스 등 국내... 계획과 부품 공급망 형성 여부를 살펴야 한다고 조언했다. 변 대표는 \"현대차와 밀접성을 갖고 있는 협력사...",
           "src": "뉴시스",
@@ -155,22 +171,6 @@ window.NEWS_DATA = {
           "date": "11/13",
           "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=300867",
           "img": "https://cdn.financialpost.co.kr/news/photo/202611/300867_401344_344.jpg"
-        },
-        {
-          "title": "삼성메디슨, 홍천 신규 제조동 준공… 2030년 생산능력 2배 확대",
-          "desc": "홍천군수, 협력사 관계자, 유규태 삼성전자 의료기기사업부장 겸 삼성메디슨 대표 등이 참석했다. 신규... 부품 입고부터 조립·검사·출하까지 공정 동선을 재배치하고, 제품별 생산 단계에서 전수 검사를 실시하는...",
-          "src": "newscj",
-          "date": "11/13",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3448610",
-          "img": "https://cdn.newscj.com/news/thumbnail/202611/3448610_3574960_2655_v150.jpg"
-        },
-        {
-          "title": "삼성메디슨, 홍천 제조라인 확충… 세계 의료기기시장 공략 '가속'",
-          "desc": "4400평)규모로 삼성전자가 인수한 이후 최대 증설 규모다. 이번 증축과 함께 구미사업장과의 제조 시너지도 강화할 계획이다. 2012년 설립한 구미사업장은 초음파를 생성하고 수신하는 핵심 부품인 프로브(Probe)를 전담...",
-          "src": "newsbrite",
-          "date": "11/13",
-          "url": "http://www.newsbrite.net/news/articleView.html?idxno=201477",
-          "img": "https://cdn.newsbrite.net/news/thumbnail/202611/201477_108052_133_v150.jpg"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[CPS 시큐어 AX 서밋 2026] 김일용 앤앤에스피 대표, AI 시대 산업제어망...",
-          "desc": "그는 \"AI가 기업과 산업 현장에 빠르게 도입되면서 데이터를 연결하는 일과 현장을 안정적으로 운영하는... 기업이 AI나 외부 서비스를 활용하려면 필요한 데이터를 주고받을 통로가 있어야 한다. 김 대표는 이 과정에서...",
-          "src": "dailysecu",
+          "title": "[이슈 픽 쌤과 함께] 유승훈 서울과기대 교수, AI 시대 대한민국 에너지...",
+          "desc": "물을 활용한 에너지 기술을 중심으로 국내 에너지 산업의 현황과 미래 가능성을 짚어본다. AI 산업과... 함께 활용하는 '교차 송전'을 도입한 사례다. 낮에는 태양광으로 전기를 생산해 수력발전에 필요한 물을 아껴두고...",
+          "src": "lecturernews",
           "date": "11/14",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209517",
-          "img": "https://cdn.dailysecu.com/news/photo/202611/209517_210562_3440.jpg"
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=213712",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202611/213712_484232_5150_v150.jpg"
         },
         {
-          "title": "[오늘의 경제뉴스] '황 없는 엔비디아' 불확실성…AMD·브로드컴, 삼성엔...",
-          "desc": "오픈AI가 칩과 시스템을 설계하고 브로드컴이 개발·구축과 네트워크 기술을 지원하는 구조다. 발표 당시 양사는 올해 하반기부터 도입을 시작해 2029년 말까지 구축을 완료하는 일정을 제시했다. 알파벳은 구글의...",
-          "src": "newsverse",
+          "title": "엘리스그룹, B300 모듈형 AI 데이터센터 가동…PUE 1.1 이하 목표",
+          "desc": "엘리스그룹은 지난 6월 사업자로 선정된 뒤 자체 개발한 모듈형 AI 데이터센터 'AI PMDC'를 활용해 B300 GPU... 향후 고성능 GPU 도입에 맞춰 AI PMDC의 전력·냉각 효율과 클라우드 운영 기술도 고도화한다는 계획이다....",
+          "src": "epnc",
           "date": "11/14",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11928",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202611/11928_20427_1832_v150.jpg"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409767",
+          "img": "https://cdn.epnc.co.kr/news/photo/202611/409767_410471_4612.jpg"
         },
         {
-          "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영...",
-          "desc": "특히 주요 클라우드 기업들이 엔비디아 의존도를 낮추기 위해 자체 AI 반도체나 경쟁사 제품 도입을... 황 전 CEO는 막대한 현금을 활용해 AI 생태계 전반에 공격적으로 투자했습니다. 고객사와 공급업체 지분을...",
-          "src": "한국경제",
+          "title": "젠슨 황 퇴진에 엔비디아 흔들…인텔, 한국 AI 기업 23곳과 손잡았다",
+          "desc": "기술 연동이 이뤄지면 개발자들이 기존 AI 모델과 개발 도구를 활용하면서 국산 NPU를 보다 쉽게 적용할 수... 정명수 대표는 “PCIe-CXL 퓨전 스위치 기반의 대규모 메모리 패브릭을 AI 데이터센터에 도입하는 시점을...",
+          "src": "이데일리",
           "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/015/0005353778?sid=104",
-          "img": "https://img.hankyung.com/photo/202611/01.46418267.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006409769?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111400463.jpg"
         },
         {
-          "title": "[기업家] 삼성전자 ㉓ㅣ AI 데이터센터 공략 가속…AMD 협력·스타트업 ...",
-          "desc": "이번에 도입되는 수온 저감 시설은 냉각탑 대신 열에너지를 활용해 방류수의 온도를 낮추는 방식으로, 기존 냉각탑 방식에 비해 온실가스 배출과 소음이 적은 점이 특징이다. 평택시는 이 기술을 통해 방류수의...",
-          "src": "cbci",
+          "title": "전북대학교 양오봉 총장, 국제 고등교육 무대서 AI 기반 교육혁신 전략...",
+          "desc": "특히 대학의 AI 활용을 단순한 기술 도입에 그치지 않고 학생 중심의 맞춤형 교육과 연구 경쟁력 강화, 지역사회 문제 해결로 연결하려는 전략을 제시했다는 평가다. 전북대는 이번 국제행사를 계기로 글로벌...",
+          "src": "lecturernews",
           "date": "11/14",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=626727",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202611/626727_430760_4719_v150.jpg"
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=213771",
+          "img": "https://cdn.lecturernews.com/news/thumbnail/202611/213771_484319_4732_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[김진안의 글로벌 산업진단⑤] 엔비디아 화물 150억원어치 증발 사건, 낯...",
-      "url": "http://kor.theasian.asia/archives/421444",
-      "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/image-129.png"
+      "title": "김장 안 하고 사 먹는 집 늘었다…삼성·LG부터 쿠쿠·미닉스까지 김치...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175049?sid=101",
+      "img": "https://www.segye.com/content/image/2026/11/14/20261114502207.jpg"
+    },
+    {
+      "title": "[단독] 인도, 전자폐기물 재활용 2000곳 전수 감사…삼성 협력사 4곳 우...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93545",
+      "img": "https://cdn.the-today.com/news/photo/202611/93545_115103_2918.png"
     },
     {
       "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
       "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
       "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
-    },
-    {
-      "title": "2027 산업 기상도 들여다보니",
-      "url": "https://n.news.naver.com/mnews/article/024/0000109624?sid=101",
-      "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
     },
     {
       "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
