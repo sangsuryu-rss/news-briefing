@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.14 (토) 15:29",
+  "updatedAt": "2026.11.15 (일) 00:07",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "인도 정부, 127조 원 가전 시장의 전자폐기물 재활용 공급망 고강도 실...",
-          "desc": "삼성전자와 LG전자 등 글로벌 가전과 IT 기업은 인도 현지에서 제품을 판매하며 생산자책임재활용 제도를 준수하기 위해 현지 재활용업체와 인증서 거래 계약을 맺고 있다. 우타르프라데시주 감사 대상 33개사 중 삼성전자...",
-          "src": "g-enews",
+          "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
+          "desc": "삼성전자와 LG전자는 가전제품과 플랫폼 간 연결성을 높이고 관련 서비스의 수익성을 확보할 수 있는지가 주요 변수다. 현대에이치티와 코콤, 경동나비엔, 제일일렉트릭, 에스원, HDC랩스, 옴니시스템 등 전문 기업은...",
+          "src": "핀포인트뉴스",
           "date": "11/14",
-          "url": "https://www.g-enews.com/view.php?ud=20261114114952599fda4f5ab74_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111411595102087fda4f5ab7439122247205.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
         },
         {
           "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
@@ -141,6 +141,22 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "엔비디아 위기는 삼전에 기회? '깐부' 젠슨 황 스캔들의 역설 [주말 Q&A]",
+          "desc": "엔비디아의 위기가 협력사나 경쟁사엔 새로운 기회가 될 수 있기 때문이다. 우리로선 삼성전자와... 핵심 부품 고대역폭메모리(HBM)의 70%를 SK하이닉스로부터, 나머지 30%를 삼성전자와 미국 마이크론한테서 나눠...",
+          "src": "thescoop",
+          "date": "11/14",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008568?sid=101",
+          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202611/312294_230656_1510_v150.jpg"
+        },
+        {
+          "title": "“글로벌 톱3 도약”..삼성메디슨, 홍천사업장 제조동 준공·생산 능력...",
+          "desc": "부품 입고부터 출하까지 물류 동선을 최적화한 자동화 라인과 전 공정 전수 검사 시스템을 도입해 무결점(Zero-defect) 품질 체계를 구축했다. 또 삼성전자의 빌딩 통합 솔루션 ‘b.IoT’와 건물에너지관리시스템(BEMS)...",
+          "src": "dailycar",
+          "date": "11/14",
+          "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63169",
+          "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000307/ns153432.webp"
+        },
+        {
           "title": "[칩톡]일본과는 손잡고, 국산화도 계속…K반도체의 두 가지 숙제",
           "desc": "첨단 반도체 기술 경쟁력을 높이기 위해 일본의 소재·부품·장비(소부장) 기술을 적극적으로 활용하는 동시에 국내 기업들의 경쟁력도 키워야 한다는 목소리가 나온다. 14일 업계에 따르면 이재용 삼성전자 회장은 최근...",
           "src": "view",
@@ -155,22 +171,6 @@ window.NEWS_DATA = {
           "date": "11/14",
           "url": "https://n.news.naver.com/mnews/article/022/0004175036?sid=101",
           "img": "https://www.segye.com/content/image/2026/11/13/20261113513063.jpg"
-        },
-        {
-          "title": "\"고점에 물렸다고 겁먹지 마세요\"…삼전닉스 반등의 열쇠는?",
-          "desc": "허준희 인턴 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 불명예 퇴진에도 삼성전자와 SK하이닉스 등 국내... 계획과 부품 공급망 형성 여부를 살펴야 한다고 조언했다. 변 대표는 \"현대차와 밀접성을 갖고 있는 협력사...",
-          "src": "뉴시스",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/003/0014321712?sid=101",
-          "img": "https://img1.newsis.com/2026/11/13/NISI20261113_0002291406_web.jpg"
-        },
-        {
-          "title": "유규태 삼성메디슨 대표 \"글로벌 초음파 '톱3' 진입 눈앞…무결점 품질...",
-          "desc": "홍천군수, 협력사 관계자 등이 참석한 가운데 제조동 증축 준공식을 열었다. 이번 시설은 2011년 삼성전자... 핵심 부품 자체 생산을 통해 공급망 불확실성 속에서도 안정적으로 장비를 공급하겠다\"고 강조했다. 영상...",
-          "src": "financialpost",
-          "date": "11/13",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=300867",
-          "img": "https://cdn.financialpost.co.kr/news/photo/202611/300867_401344_344.jpg"
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "발효유 넘어 화장품·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
-          "desc": "hy는 2023년 '프레딧뷰티'를 통해 유산균 기술을 활용한 앰플을 출시한 뒤 크림과 선 에센스 등으로 제품군을... 향후 수의사 상담을 도입하고 라이프스타일 용품까지 취급 범위를 넓힐 계획이다. hy는 과거에도 교육과...",
-          "src": "daily",
+          "title": "제주형 스마트팜 '제빛나' 고도화 추진",
+          "desc": "노지 감귤의 토양수분과 과실 품질자료를 활용한 물관리 모델을 도입해 재배환경에 적합한 정밀 물관리 체계를 구축한다는 구상이다. 한편, 제주농업기술원은 지난달 21일 사업 담당자와 관계자가 참석한 가운데 고도화...",
+          "src": "youngnong",
           "date": "11/14",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
-          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1424967_1603354_2737_v150.jpg"
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71896",
+          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71896_62010_5036.jpg"
         },
         {
-          "title": "[CEO 위클리] 이재용·최태원·정의선 등 재계 11인…투자·사업 재편·해...",
-          "desc": "이찬우 NH농협금융 회장과 정철동 LG디스플레이 사장은 AI 활용과 기술 개발에 관한 주문을 내놨다. 정태영... 이찬우 NH농협금융지주 회장은 AI 도입 실적보다 고객에게 필요한 상품과 서비스를 제공하는 일이...",
-          "src": "서울타임즈",
+          "title": "“AI 안경, 열화상 카메라엔 딱 걸린다?”…초음파 세척기까지 등장한 ...",
+          "desc": "시험 중 AI 안경을 착용하기만 해도 해당 시험이 무효 처리되고 다음 해 응시 자격도 박탈된다. 교육부는 전국 시험장에 스마트안경 판별 전담 인력을 지정해 배치할 예정이다. 열화상 카메라를 활용한 보조 검사는 기술적...",
+          "src": "weekly",
           "date": "11/14",
-          "url": "https://www.seoultimes.news/news/article.html?no=2000102186",
-          "img": "https://www.seoultimes.news/data/photos/20261146/art_17946338670422_47c7fc.jpg"
+          "url": "https://n.news.naver.com/mnews/article/033/0000053383?sid=103",
+          "img": "https://img.khan.co.kr/weekly/2026/11/14/news-p.v1.20261114.ed03dddb7b0c4eb483976ea1e7fe3757_P1.jpg"
         },
         {
-          "title": "미국 공항 이륙 중단 여파는?...'불명예 퇴진' 젠슨 황, 엔비디아의 미...",
-          "desc": "물론 이착륙은 야간시간은 피하고 있지만 그런데 브리핑에서 뭐라고 얘기했느냐, 새로 도입한 첨단기술과... 특성상 AI 반도체 기술을 선도하는 곳이기 때문에 미래기술전략까지 직접적으로 이끌 수 있을지는 의문입니다....",
-          "src": "ytn",
+          "title": "축산물품질평가원, 농식품 정책콘서트 최우수상…AI 등급판정 성과 인정",
+          "desc": "특히 돼지고기 AI 등급판정 장비 도입 과정에서 국산 기술을 활용해 약 150억 원의 예산을 절감한 성과가 주목받았다. 계란은 AI 품질평가를 통해 등급판정 소요 시간을 최대 64% 단축하는 등 업무 효율성을 높였다. AI 기반...",
+          "src": "youngnong",
           "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/052/0002432808?sid=104",
-          "img": "https://image.ytn.co.kr/general/jpg/2026/1114/202611141422343424_t.jpg"
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71773",
+          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71773_61893_5435.jpg"
         },
         {
-          "title": "AI 건강 코치, 제2형 당뇨병 환자 혈당 관리 효과 임상시험 착수",
-          "desc": "인공지능(AI)을 활용해 제2형 당뇨병 환자의 식습관과 운동, 약물 복용을 관리하는 디지털 건강 코치가... 또한 개인의 식사와 운동, 약물 복용에 따른 혈당 변화를 예측하는 '디지털 트윈' 기술도 개발하고 있다. 디지털...",
-          "src": "mdtoday",
+          "title": "광주영상위원회, AI 영상산업 발전 전략 모색…국제 AI영상제 구상",
+          "desc": "생성형 AI 기술의 최신 동향과 해외 영상 제작 활용 사례를 소개하고 지역 영상산업의 기술적·산업적 대응 방향을 제시할 것으로 알려졌다. 주요 의제로는 가칭 '국제전남광주AI영상제(페스타)' 도입 방안이 다뤄진다. AI...",
+          "src": "joongangenews",
           "date": "11/14",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625242",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202611/625242_334255_4240.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563873",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/563873_371528_5358.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "인도 정부, 127조 원 가전 시장의 전자폐기물 재활용 공급망 고강도 실...",
-      "url": "https://www.g-enews.com/view.php?ud=20261114114952599fda4f5ab74_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111411595102087fda4f5ab7439122247205.jpg"
+      "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
     },
     {
       "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
