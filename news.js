@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.15 (일) 00:07",
+  "updatedAt": "2026.11.15 (일) 05:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "“휴가모드 켜도 될까”…냉장실 식품 온도 확인해야",
+          "desc": "이는 해당 제품의 설정값으로, 모든 냉장고에 공통 적용되는 것은 아니다. 식품안전나라에 따르면 조리한... 옮기는 방법을 고려할 수 있다. 삼성전자도 모델별 기능은 사용설명서나 제품 매뉴얼에서 확인하도록 안내한다.",
+          "src": "vegannews",
+          "date": "11/15",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=405130",
+          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_1794684048625.jpg"
+        },
+        {
+          "title": "방수 매트 탈수 전 세탁 표시·기기 금지 품목 확인",
+          "desc": "매트의 취급 표시와 세탁기 사용설명서에서 방수 소재나 매트가 금지 품목인지 함께 살펴야 한다. 삼성전자서비스는 방수성 시트와 매트, 일부 의류를 세탁·헹굼·탈수하지 말라고 안내한다. 두껍고 딱딱한 매트는 세탁...",
+          "src": "vegannews",
+          "date": "11/15",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=405075",
+          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17946770366679.jpg"
+        },
+        {
           "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
           "desc": "삼성전자와 LG전자는 가전제품과 플랫폼 간 연결성을 높이고 관련 서비스의 수익성을 확보할 수 있는지가 주요 변수다. 현대에이치티와 코콤, 경동나비엔, 제일일렉트릭, 에스원, HDC랩스, 옴니시스템 등 전문 기업은...",
           "src": "핀포인트뉴스",
           "date": "11/14",
           "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
           "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
-        },
-        {
-          "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
-          "desc": "국내 가전업체에서는 매직 스페이스(LG전자), 푸드 쇼케이스(삼성전자) 명칭을 쓴다. 홈바는 냉장고 문 전체를 열지 않고 겉면 혹은 일부 작은 문을 열어 음료·식재료 등을 꺼낼 수 있는 ‘이중문’ 기능이다. 도어 인...",
-          "src": "매일경제",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/009/0005763602?sid=102",
-          "img": "https://pimg.mk.co.kr/news/cms/202611/14/news-p.v1.20261113.e0aa8d125e3645a58d1f7a6676c99901_R.png"
-        },
-        {
-          "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
-          "desc": "삼성전자 세탁기 지원 안내도 캡슐형 세제는 자동 투입구가 아닌 세탁조 안에 직접 넣도록 안내한다. 다만 세탁기 모델별 사용법과 캡슐 제품의 투입량·사용 조건이 다를 수 있으므로, 해당 세탁기 설명서와 제품 포장에...",
-          "src": "vegannews",
-          "date": "11/13",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
-          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
         },
         {
           "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "삼성전자 오스틴 센서 개발설에 애플 아이폰 18 출시 일정 변동 관측 나...",
+          "desc": "원인을 삼성전자 부품과 연결 짓는 시각은 아직 업계 추측 단계라고 명시했다. 일본 매체발 오스틴 센서... 후공정·테스트 협력사로 연관 물량이 이어질 수 있다는 관측이 나온다. 다만 삼성전자의 아이폰 센서 공급...",
+          "src": "g-enews",
+          "date": "11/15",
+          "url": "https://www.g-enews.com/view.php?ud=202611141654581540fbbec65dfb_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111417281401743fbbec65dfb211211153121.jpg"
+        },
+        {
           "title": "엔비디아 위기는 삼전에 기회? '깐부' 젠슨 황 스캔들의 역설 [주말 Q&A]",
           "desc": "엔비디아의 위기가 협력사나 경쟁사엔 새로운 기회가 될 수 있기 때문이다. 우리로선 삼성전자와... 핵심 부품 고대역폭메모리(HBM)의 70%를 SK하이닉스로부터, 나머지 30%를 삼성전자와 미국 마이크론한테서 나눠...",
           "src": "thescoop",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/14",
           "url": "https://n.news.naver.com/mnews/article/277/0005842541?sid=101",
           "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111313264298703_1794544003.jpg"
-        },
-        {
-          "title": "삼성메디슨, 홍천 신규 제조동 준공…”2030년까지 생산능력 2배\"",
-          "desc": "부품 입고부터 조립, 검사, 출하까지 공정 동선을 최적화했다. 무결점(Zero-defect) 품질을 목표로 모든 제품에 생산 단계별 전수 검사도 실시한다. 에너지 효율도 높였다. 삼성전자의 빌딩 통합 솔루션 ‘b.IoT’로 공조...",
-          "src": "segye",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/022/0004175036?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/13/20261113513063.jpg"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "제주형 스마트팜 '제빛나' 고도화 추진",
-          "desc": "노지 감귤의 토양수분과 과실 품질자료를 활용한 물관리 모델을 도입해 재배환경에 적합한 정밀 물관리 체계를 구축한다는 구상이다. 한편, 제주농업기술원은 지난달 21일 사업 담당자와 관계자가 참석한 가운데 고도화...",
-          "src": "youngnong",
-          "date": "11/14",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71896",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71896_62010_5036.jpg"
+          "title": "외부 용역 없이 AI 시스템 개발…경기도 행정혁신 실험",
+          "desc": "경기도가 수억 원대 외부 정보기술(IT) 용역에 의존하던 행정 시스템 개발 관행을 깨고 실무 공무원이... 전문 개발업체에 맡기지 않고 생성형 AI를 활용해 계약심사 시스템을 자체 구축한 것으로, 내년 1월부터 공공 발주...",
+          "src": "nocutnews",
+          "date": "11/15",
+          "url": "https://n.news.naver.com/mnews/article/079/0004209825?sid=102",
+          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/13/202611131610450481_0.jpg"
         },
         {
-          "title": "“AI 안경, 열화상 카메라엔 딱 걸린다?”…초음파 세척기까지 등장한 ...",
-          "desc": "시험 중 AI 안경을 착용하기만 해도 해당 시험이 무효 처리되고 다음 해 응시 자격도 박탈된다. 교육부는 전국 시험장에 스마트안경 판별 전담 인력을 지정해 배치할 예정이다. 열화상 카메라를 활용한 보조 검사는 기술적...",
-          "src": "weekly",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/033/0000053383?sid=103",
-          "img": "https://img.khan.co.kr/weekly/2026/11/14/news-p.v1.20261114.ed03dddb7b0c4eb483976ea1e7fe3757_P1.jpg"
+          "title": "미 국방부, '인공' 지우고 초지능 사무국 출범…트럼프 지침 반영",
+          "desc": "주소로 활용할 SI.mil 웹사이트도 새로 개설했다. 가설 개념의 공식 명칭 도입과 용어 혼선 가능성 미 국방부의 이번 용어 교체를 두고 기술계에서는 의문이 제기되고 있다. 역사적으로 초지능은 인간의 지능 전반을...",
+          "src": "g-enews",
+          "date": "11/15",
+          "url": "https://www.g-enews.com/view.php?ud=20261115034244659920990b2dc5_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202611150344290552820990b2dc512113665185.jpg"
         },
         {
-          "title": "축산물품질평가원, 농식품 정책콘서트 최우수상…AI 등급판정 성과 인정",
-          "desc": "특히 돼지고기 AI 등급판정 장비 도입 과정에서 국산 기술을 활용해 약 150억 원의 예산을 절감한 성과가 주목받았다. 계란은 AI 품질평가를 통해 등급판정 소요 시간을 최대 64% 단축하는 등 업무 효율성을 높였다. AI 기반...",
-          "src": "youngnong",
-          "date": "11/14",
-          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71773",
-          "img": "https://cdn.youngnong.co.kr/news/photo/202611/71773_61893_5435.jpg"
+          "title": "경기도 42조 1946억 원 규모 2027년도 '민생사수예산' 도의회 제출",
+          "desc": "원 △기술개발사업 23억 원 △경기도 자율주행 광역버스 도입 30억 원 △경기 AI 혁신 클러스터 조성 사업 9억 원 △경기 햇빛자립마을 25억 원 등이 편성됐다. 다만 지방채와 기금 등 활용 가능한 재원을 최대한...",
+          "src": "m-i",
+          "date": "11/15",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2018536",
+          "img": "https://cdn.m-i.kr/news/photo/202611/2018536_2019154_849.jpg"
         },
         {
-          "title": "광주영상위원회, AI 영상산업 발전 전략 모색…국제 AI영상제 구상",
-          "desc": "생성형 AI 기술의 최신 동향과 해외 영상 제작 활용 사례를 소개하고 지역 영상산업의 기술적·산업적 대응 방향을 제시할 것으로 알려졌다. 주요 의제로는 가칭 '국제전남광주AI영상제(페스타)' 도입 방안이 다뤄진다. AI...",
-          "src": "joongangenews",
-          "date": "11/14",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563873",
-          "img": "https://cdn.joongangenews.com/news/photo/202611/563873_371528_5358.png"
+          "title": "\"왜 AX를 하는가\"...AX 출발점은 기술보다 경영자의 판단",
+          "desc": "확인하고 활용할 수 있는 회사를 만들겠다는 목표를 세웠다고 한다. AI를 도입해 경영에 필요한 데이터를... 모든 소프트웨어를 직접 만들라는 뜻이 아니라 외부 기술을 활용하더라도 회사의 데이터와 업무를...",
+          "src": "newsverse",
+          "date": "11/15",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11931",
+          "img": "https://cdn.newsverse.kr/news/thumbnail/202611/11931_20435_3114_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
+      "title": "“휴가모드 켜도 될까”…냉장실 식품 온도 확인해야",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405130",
+      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_1794684048625.jpg"
+    },
+    {
+      "title": "방수 매트 탈수 전 세탁 표시·기기 금지 품목 확인",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405075",
+      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17946770366679.jpg"
+    },
+    {
       "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
-    },
-    {
-      "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763602?sid=102",
-      "img": "https://pimg.mk.co.kr/news/cms/202611/14/news-p.v1.20261113.e0aa8d125e3645a58d1f7a6676c99901_R.png"
-    },
-    {
-      "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=404622",
-      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17945768552345.jpg"
     },
     {
       "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
