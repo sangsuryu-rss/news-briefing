@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.14 (토) 08:36",
+  "updatedAt": "2026.11.14 (토) 15:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "김장 안 하고 사 먹는 집 늘었다…삼성·LG부터 쿠쿠·미닉스까지 김치...",
-          "desc": "통해 가전제품 패키지를 제공한다. 소형 제품이 인기를 얻고 있지만 김치를 직접 담가 장기간 보관하는 가구를 위한 중대형 김치냉장고 시장도 여전히 주요 판매 영역이다. 삼성전자와 LG전자는 보관 용량뿐 아니라...",
-          "src": "segye",
+          "title": "인도 정부, 127조 원 가전 시장의 전자폐기물 재활용 공급망 고강도 실...",
+          "desc": "삼성전자와 LG전자 등 글로벌 가전과 IT 기업은 인도 현지에서 제품을 판매하며 생산자책임재활용 제도를 준수하기 위해 현지 재활용업체와 인증서 거래 계약을 맺고 있다. 우타르프라데시주 감사 대상 33개사 중 삼성전자...",
+          "src": "g-enews",
           "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/022/0004175049?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/14/20261114502207.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=20261114114952599fda4f5ab74_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111411595102087fda4f5ab7439122247205.jpg"
         },
         {
-          "title": "[단독] 인도, 전자폐기물 재활용 2000곳 전수 감사…삼성 협력사 4곳 우...",
-          "desc": "LG전자는 기존 노이다·푸네 공장에 이어 남부 안드라프라데시주 스리시티에 약 6억 달러(약 8067억원)를 투자해 세 번째 가전공장을 건립 중이며, 삼성전자 역시 노이다 스마트폰 공장과 첸나이 가전공장을 핵심 기지로...",
-          "src": "the-today",
+          "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
+          "desc": "국내 가전업체에서는 매직 스페이스(LG전자), 푸드 쇼케이스(삼성전자) 명칭을 쓴다. 홈바는 냉장고 문 전체를 열지 않고 겉면 혹은 일부 작은 문을 열어 음료·식재료 등을 꺼낼 수 있는 ‘이중문’ 기능이다. 도어 인...",
+          "src": "매일경제",
           "date": "11/14",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93545",
-          "img": "https://cdn.the-today.com/news/photo/202611/93545_115103_2918.png"
+          "url": "https://n.news.naver.com/mnews/article/009/0005763602?sid=102",
+          "img": "https://pimg.mk.co.kr/news/cms/202611/14/news-p.v1.20261113.e0aa8d125e3645a58d1f7a6676c99901_R.png"
         },
         {
           "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
+          "desc": "현대차·기아와 자동차 부품업체, 배터리 관련 기업에는 미중 간 수출통제 유예가 얼마나 지속되는지와 함께 중국 외 공급망 확보 여부가 중요하다. 특히 현재의 미중 무역휴전이 2027년 1월 10일을 기한으로 연장된 만큼...",
+          "src": "topstarnews",
+          "date": "11/14",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
+          "img": "https://cdn.topstarnews.net/news/photo/202611/16276324_2088270_2550_crop.jpg"
+        },
+        {
           "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
           "desc": "현대모비스와 현대차, 기아는 자동차 부품 및 완성차 사업을 기반으로 자율주행과 로봇 기술의 산업적 확장 가능성과 연결돼 있다. LG전자와 LG이노텍도 전자제품과 부품 사업을 통해 로봇 및 미래 모빌리티 산업과 접점을...",
           "src": "핀포인트뉴스",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/11",
           "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611081902460240103984",
           "img": ""
-        },
-        {
-          "title": "\"디지털자산 패권 경쟁 속 한국의 선택은?\"… 'D-CON 2026'서 해법 모색",
-          "desc": "\"삼성폰·현대차에 스테이블코인 탑재\"…글로벌 결제시장 공략 제안 글로벌 시장에서 원화 기반... 민 의원은 \"20억 개 팔린 삼성폰에 탑재하고, 전 세계에 널리 퍼져 있는 현대자동차, 기아자동차에 탑재하면 된다\"며...",
-          "src": "econovill",
-          "date": "11/10",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756737",
-          "img": "https://cdn.econovill.com/news/thumbnail/202611/756737_734328_579_v150.jpg"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[이슈 픽 쌤과 함께] 유승훈 서울과기대 교수, AI 시대 대한민국 에너지...",
-          "desc": "물을 활용한 에너지 기술을 중심으로 국내 에너지 산업의 현황과 미래 가능성을 짚어본다. AI 산업과... 함께 활용하는 '교차 송전'을 도입한 사례다. 낮에는 태양광으로 전기를 생산해 수력발전에 필요한 물을 아껴두고...",
-          "src": "lecturernews",
+          "title": "발효유 넘어 화장품·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
+          "desc": "hy는 2023년 '프레딧뷰티'를 통해 유산균 기술을 활용한 앰플을 출시한 뒤 크림과 선 에센스 등으로 제품군을... 향후 수의사 상담을 도입하고 라이프스타일 용품까지 취급 범위를 넓힐 계획이다. hy는 과거에도 교육과...",
+          "src": "daily",
           "date": "11/14",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=213712",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202611/213712_484232_5150_v150.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1424967_1603354_2737_v150.jpg"
         },
         {
-          "title": "엘리스그룹, B300 모듈형 AI 데이터센터 가동…PUE 1.1 이하 목표",
-          "desc": "엘리스그룹은 지난 6월 사업자로 선정된 뒤 자체 개발한 모듈형 AI 데이터센터 'AI PMDC'를 활용해 B300 GPU... 향후 고성능 GPU 도입에 맞춰 AI PMDC의 전력·냉각 효율과 클라우드 운영 기술도 고도화한다는 계획이다....",
-          "src": "epnc",
+          "title": "[CEO 위클리] 이재용·최태원·정의선 등 재계 11인…투자·사업 재편·해...",
+          "desc": "이찬우 NH농협금융 회장과 정철동 LG디스플레이 사장은 AI 활용과 기술 개발에 관한 주문을 내놨다. 정태영... 이찬우 NH농협금융지주 회장은 AI 도입 실적보다 고객에게 필요한 상품과 서비스를 제공하는 일이...",
+          "src": "서울타임즈",
           "date": "11/14",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409767",
-          "img": "https://cdn.epnc.co.kr/news/photo/202611/409767_410471_4612.jpg"
+          "url": "https://www.seoultimes.news/news/article.html?no=2000102186",
+          "img": "https://www.seoultimes.news/data/photos/20261146/art_17946338670422_47c7fc.jpg"
         },
         {
-          "title": "젠슨 황 퇴진에 엔비디아 흔들…인텔, 한국 AI 기업 23곳과 손잡았다",
-          "desc": "기술 연동이 이뤄지면 개발자들이 기존 AI 모델과 개발 도구를 활용하면서 국산 NPU를 보다 쉽게 적용할 수... 정명수 대표는 “PCIe-CXL 퓨전 스위치 기반의 대규모 메모리 패브릭을 AI 데이터센터에 도입하는 시점을...",
-          "src": "이데일리",
+          "title": "미국 공항 이륙 중단 여파는?...'불명예 퇴진' 젠슨 황, 엔비디아의 미...",
+          "desc": "물론 이착륙은 야간시간은 피하고 있지만 그런데 브리핑에서 뭐라고 얘기했느냐, 새로 도입한 첨단기술과... 특성상 AI 반도체 기술을 선도하는 곳이기 때문에 미래기술전략까지 직접적으로 이끌 수 있을지는 의문입니다....",
+          "src": "ytn",
           "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409769?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111400463.jpg"
+          "url": "https://n.news.naver.com/mnews/article/052/0002432808?sid=104",
+          "img": "https://image.ytn.co.kr/general/jpg/2026/1114/202611141422343424_t.jpg"
         },
         {
-          "title": "전북대학교 양오봉 총장, 국제 고등교육 무대서 AI 기반 교육혁신 전략...",
-          "desc": "특히 대학의 AI 활용을 단순한 기술 도입에 그치지 않고 학생 중심의 맞춤형 교육과 연구 경쟁력 강화, 지역사회 문제 해결로 연결하려는 전략을 제시했다는 평가다. 전북대는 이번 국제행사를 계기로 글로벌...",
-          "src": "lecturernews",
+          "title": "AI 건강 코치, 제2형 당뇨병 환자 혈당 관리 효과 임상시험 착수",
+          "desc": "인공지능(AI)을 활용해 제2형 당뇨병 환자의 식습관과 운동, 약물 복용을 관리하는 디지털 건강 코치가... 또한 개인의 식사와 운동, 약물 복용에 따른 혈당 변화를 예측하는 '디지털 트윈' 기술도 개발하고 있다. 디지털...",
+          "src": "mdtoday",
           "date": "11/14",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=213771",
-          "img": "https://cdn.lecturernews.com/news/thumbnail/202611/213771_484319_4732_v150.jpg"
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625242",
+          "img": "https://cdn.mdtoday.co.kr/news/photo/202611/625242_334255_4240.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "김장 안 하고 사 먹는 집 늘었다…삼성·LG부터 쿠쿠·미닉스까지 김치...",
-      "url": "https://n.news.naver.com/mnews/article/022/0004175049?sid=101",
-      "img": "https://www.segye.com/content/image/2026/11/14/20261114502207.jpg"
+      "title": "인도 정부, 127조 원 가전 시장의 전자폐기물 재활용 공급망 고강도 실...",
+      "url": "https://www.g-enews.com/view.php?ud=20261114114952599fda4f5ab74_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111411595102087fda4f5ab7439122247205.jpg"
     },
     {
-      "title": "[단독] 인도, 전자폐기물 재활용 2000곳 전수 감사…삼성 협력사 4곳 우...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93545",
-      "img": "https://cdn.the-today.com/news/photo/202611/93545_115103_2918.png"
+      "title": "냉장고 문 말고 따로 여는 작은 문…근데 그거 뭐지? [그거사전2]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005763602?sid=102",
+      "img": "https://pimg.mk.co.kr/news/cms/202611/14/news-p.v1.20261113.e0aa8d125e3645a58d1f7a6676c99901_R.png"
     },
     {
       "title": "캡슐 세제 찌꺼기 줄이려면… 빨래보다 먼저 넣으세요",
@@ -277,14 +277,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.topstarnews.net/news/photo/202611/16275997_2087810_230_crop.jpg"
     },
     {
+      "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
+      "img": "https://cdn.topstarnews.net/news/photo/202611/16276324_2088270_2550_crop.jpg"
+    },
+    {
       "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503347",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/503347_488303_659_v150.jpg"
-    },
-    {
-      "title": "변동성 장세에 투자 수요 몰린다…커버드콜 ETF 경쟁",
-      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
-      "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
     }
   ]
 };
