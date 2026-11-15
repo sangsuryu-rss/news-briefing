@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.15 (일) 10:57",
+  "updatedAt": "2026.11.15 (일) 18:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, CES 2027 혁신상 19개 수상…최고 혁신상 4관왕",
-          "desc": "삼성전자는 미국소비자기술협회(CTA)가 9일(현지시간) 발표한 'CES 2027 혁신상'에서 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개 상을 받았다고 15일 밝혔다. CES 혁신상은 CTA가 매년 CES...",
-          "src": "이투데이",
+          "title": "삼성전자, CES 2027 혁신상 19개 수상",
+          "desc": "CES 혁신상 로고와 수상 제품 이미지 삼성전자는 내년 1월 미국 라스베이거스에서 열리는 세계 최대... 이 회사는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을 받았다. 특히...",
+          "src": "segyebiz",
           "date": "11/15",
-          "url": "https://www.etoday.co.kr/news/view/2648257",
-          "img": "https://img.etoday.co.kr/pto_db/2026/11/20261115103351_2417632_1000_550.jpg"
+          "url": "http://www.segyebiz.com/newsView/20261115509703?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/11/15/20261115509701.jpg"
         },
         {
-          "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 혁신상 수상",
-          "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을 받았다. 특히 최고 혁신상은 영상디스플레이 부문 2개와 모바일 부문 2개 등 총 4개 제품이 수상해 지난해보다...",
-          "src": "뉴스웍스",
+          "title": "쿠팡, 16∼29일 가전·디지털 블랙프라이데이…삼성·LG 등 할인 판매",
+          "desc": "(사진=쿠팡) 쿠팡은 블랙프라이데이 시즌을 맞아 오는 16일부터 29일까지 삼성전자와 LG전자 등 국내외 주요 브랜드의 가전제품과 디지털 기기를 할인 판매하는 기획전을 진행한다고 15일 밝혔다. 이번 행사에는...",
+          "src": "delighti",
           "date": "11/15",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903111",
-          "img": "https://cdn.newsworks.co.kr/news/photo/202611/903111_904330_3827.jpg"
+          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124975",
+          "img": "https://cdn.delighti.co.kr/news/thumbnail/202611/124975_105218_1433_v150.jpg"
         },
         {
-          "title": "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전",
-          "desc": "기념 삼성전자 대축제'와 연계하고 롯데하이마트에서만 받을 수 있는 할인과 카드 혜택을 더했다. 롯데하이마트는 23일까지 전국 매장에서 냉장고, 김치냉장고, TV, 세탁기 등 인기 행사 상품 14개를 12만원 일괄 추가...",
-          "src": "머니투데이",
+          "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
+          "desc": "삼성전자와 LG전자, 인텔, HP, 쿠첸, TCL 등 국내외 주요 브랜드가 참여해 인기 가전과 디지털 기기를 특가에... 다이슨코리아는 무선·로봇청소기와 헤어케어 기기, 공기청정기 등 주요 가전제품을 최대 57% 할인 판매한다....",
+          "src": "news2day",
           "date": "11/15",
-          "url": "https://n.news.naver.com/mnews/article/008/0005441168?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111509573874153_1.jpg"
+          "url": "https://www.news2day.co.kr/article/20261115500055",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/15/.cache/512/20261115500054.png"
         },
         {
           "title": "야구 우승 기념 행사도 '구독 혜택'…가전업계, '월정액' 서비스 경쟁 불...",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[주간 재계 나침반] 이재용·정의선 협력 본격화…최태원 AI 승부수에 젠...",
+          "desc": "차량 부품을 넘어 로봇과 에너지 등 미래 산업으로 협력 가능성을 확대하고 있다고 강조했다. 삼성전자... 투자 속도나 협력사 지원 방식이 달라질 경우 메모리 수요 전망에도 영향을 미칠 수 있다. 국내 기업들은...",
+          "src": "joongangenews",
+          "date": "11/15",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563706",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/563706_371353_2935.png"
+        },
+        {
           "title": "[글로벌 줍줍] GTA6 하라고 모두 쉬라는 회사 어디?",
           "desc": "특정 협력사의 불량 부품 때문이라는 분석이 제기됐습니다. IT 팁스터들에 따르면 힌지 내부 지지 부품에... …삼성 '갤럭시Z 롤' 개발설 삼성전자가 슬라이딩 디스플레이를적용한 스마트폰을 개발 중이라는 소식이...",
           "src": "ZDNet코리아",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/14",
           "url": "https://n.news.naver.com/mnews/article/665/0000008568?sid=101",
           "img": "https://cdn.thescoop.co.kr/news/thumbnail/202611/312294_230656_1510_v150.jpg"
-        },
-        {
-          "title": "“글로벌 톱3 도약”..삼성메디슨, 홍천사업장 제조동 준공·생산 능력...",
-          "desc": "부품 입고부터 출하까지 물류 동선을 최적화한 자동화 라인과 전 공정 전수 검사 시스템을 도입해 무결점(Zero-defect) 품질 체계를 구축했다. 또 삼성전자의 빌딩 통합 솔루션 ‘b.IoT’와 건물에너지관리시스템(BEMS)...",
-          "src": "dailycar",
-          "date": "11/14",
-          "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63169",
-          "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000307/ns153432.webp"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "스마트안경 부정행위 물렀거라~ ‘AI인스펙터’ 나가신다",
-          "desc": "이어 “전파탐지기 도입과 관련해서도 관계기관과 계속 실무적으로 협의하고 있다”고 밝혔다. 세무사 자격시험 수석 합격자도 AI안경을 활용해 부정 행위를 한 것으로 알려졌다. 제63회 세무사 자격시험 수석 합격자...",
-          "src": "매일경제",
+          "title": "경기도, '42조1946억원' 내년도 예산안 제출…인건비 3개월분 미반영",
+          "desc": "추가로 활용할 계획이다. 비슷하거나 중복되는 사업은 통폐합하고, 예산 집행이 더딘 사업은 규모를... 첨단산업과 교통 분야에는 자율주행 광역버스 도입 30억원, 경기도 반도체 기술센터 운영 21억원, 인공지능(AI)...",
+          "src": "전자신문",
           "date": "11/15",
-          "url": "https://n.news.naver.com/mnews/article/024/0000109648?sid=102",
-          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
+          "url": "https://n.news.naver.com/mnews/article/030/0003485775?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/11/15/news-p.v1.20261115.71a795c9630b40af9dd74031213d624e_P1.jpg"
         },
         {
-          "title": "창립 96주년 CJ대한통운... 신영수 대표 \"외형 성장 넘어 기업가치 증명...",
-          "desc": "인공지능(AI) 휴머노이드의 물류현장 투입 등 기술 적용도 추진했다. 개인 간 배송 서비스 '보내오네'를... 소상공인과 자영업자를 위한 가맹점주용 택배 서비스를 도입하고, 토스 가맹점을 택배 취급점으로 활용하는...",
-          "src": "아주경제",
+          "title": "\"글로벌 의대·빅파마도 인정한 생체현미경… 세계 1위 목표\" [C리즈]",
+          "desc": "인공지능(AI) 모델도 개발할 것이다. 생체현미경을 활용해 세상에 없던 다양한 영상분석 솔루션을 만들어낼... 김 대표는 \"서울대에서 박사 학위를 받는 과정에 글로벌 정보기술(IT) 버블을 경험했다\"라며 \"IT보다 더 오래...",
+          "src": "파이낸셜뉴스",
           "date": "11/15",
-          "url": "https://www.ajunews.com/view/20261115095217541",
-          "img": "https://image.ajunews.com/content/image/2026/11/15/20261115100509467594.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005604438?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/15/202611151824457785_e.jpg"
         },
         {
-          "title": "풀무원, 직원이 직접 AI 만든다…현장 중심 AX 전환 속도",
-          "desc": "풀무원이 인공지능(AI)을 활용한 업무 혁신을 본격화하고 있다. 전문 개발 인력 중심의 기술 도입에서 벗어나 일반 실무자들이 직접 AI 기반 업무 도구를 개발하고 현장에 적용하는 방식으로 디지털 전환의 범위를...",
-          "src": "megaeconomy",
+          "title": "진화하는 AI 커닝 D-3 수능 초비상",
+          "desc": "올해 제63회 세무사 자격시험 수석 합격자가 초소형 카메라와 AI를 활용한 부정행위를 시인하고 경찰에... 특히 이번 사건을 통해 AI 기술이 하루가 다르게 발전하는 상황에서 각종 기기를 육안으로 적발하기 쉽지 않다는...",
+          "src": "busan",
           "date": "11/15",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577705536920",
-          "img": "https://www.megaeconomy.co.kr/news/data/20261115/p1065577705536920_340_thum.jpg"
+          "url": "https://n.news.naver.com/mnews/article/082/0001407238?sid=102",
+          "img": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/11/15/2026111518195104698_l.jpg"
         },
         {
-          "title": "유럽 냉장고 50도 해킹에 韓 긴장…마트·병원 보안 안전할까?",
-          "desc": "점포별 기술 담당자가 설비 이상을 확인하고 현장에서 대응하는 구조로, 여러 매장을 동시에 조작하는 공격... AI를 활용한 자동화 공격이 확산하면서 정기 점검만으로는 새로운 보안 위협을 따라잡기 어려워졌다....",
-          "src": "한스경제",
+          "title": "신영수 CJ대한통운 대표 \"외형 성장 넘어 수익성 강화\"…사업구조 개선",
+          "desc": "인공지능(AI) 휴머노이드를 물류 현장에 도입하는 등 기술 기반의 운영 혁신을 추진하고 있다. 신규 사업 발굴에도 속도를 내고 있다. 개인 간 배송 서비스 '보내오네'를 활용해 중고거래 배송시장을 공략하고 전통시장...",
+          "src": "g-enews",
           "date": "11/15",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/883296_909323_55_v150.jpg"
+          "url": "https://www.g-enews.com/view.php?ud=202611151820156417e30fcb1ba8_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111518213006226e30fcb1ba8582271579.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, CES 2027 혁신상 19개 수상…최고 혁신상 4관왕",
-      "url": "https://www.etoday.co.kr/news/view/2648257",
-      "img": "https://img.etoday.co.kr/pto_db/2026/11/20261115103351_2417632_1000_550.jpg"
+      "title": "삼성전자, CES 2027 혁신상 19개 수상",
+      "url": "http://www.segyebiz.com/newsView/20261115509703?OutUrl=naver",
+      "img": "http://www.segyebiz.com//content/image/2026/11/15/20261115509701.jpg"
     },
     {
-      "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 혁신상 수상",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903111",
-      "img": "https://cdn.newsworks.co.kr/news/photo/202611/903111_904330_3827.jpg"
+      "title": "쿠팡, 16∼29일 가전·디지털 블랙프라이데이…삼성·LG 등 할인 판매",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124975",
+      "img": "https://cdn.delighti.co.kr/news/thumbnail/202611/124975_105218_1433_v150.jpg"
     },
     {
-      "title": "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441168?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111509573874153_1.jpg"
+      "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
+      "url": "https://www.news2day.co.kr/article/20261115500055",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/15/.cache/512/20261115500054.png"
     },
     {
       "title": "야구 우승 기념 행사도 '구독 혜택'…가전업계, '월정액' 서비스 경쟁 불...",
