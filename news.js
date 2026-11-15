@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.16 (월) 02:13",
+  "updatedAt": "2026.11.16 (월) 07:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 폴드8·DRAM·UFS 5.0으로 CES 2027 혁신상…최고혁신상 2배 늘...",
-          "desc": "다만 이 수치들은 삼성전자 발표 자료 기준으로 확인된 내용이 아니라 해당 매체의 보도다.최고혁신상 2배…디스플레이·가전도 수상삼성전자는 이번 CTA 시상에서 최고혁신상(Best of Innovation) 수상 건수가...",
-          "src": "wikitree",
+          "title": "[더벨]삼성전자 파운드리, 방산·로봇 신규 시장 공략",
+          "desc": "자동차·가전·로봇·방산 분야 수요기업과 국내 팹리스, 소프트웨어 기업이 협력해 실제 제품에 탑재할 수 있는 국산 AI반도체를 개발하는 사업이다. 삼성전자는 이번 프로젝트에서 반도체 제조를 지원하는 역할을...",
+          "src": "더벨",
           "date": "11/16",
-          "url": "https://www.wikitree.co.kr/articles/1174826",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/16/img_20261116020802_07bba929.jpeg"
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121757404160102172",
+          "img": ""
         },
         {
-          "title": "삼성전자, 'CES 2027' 혁신상 19개 휩쓸었다…갤Z 폴드8 '최고상'",
-          "desc": "삼성전자는 미국소비자기술협회(The Consumer Technology Association, CTA)가 발표한 'CES 2027 혁신상'에서 최고... 대용량 열교환기를 탑재해 일체형 제품이면서도 단독 건조기 수준의 건조 성능을 구현했다. 사용자의...",
-          "src": "apnews",
+          "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…'폴드8 울트라' 첫...",
+          "desc": "삼성전자가 내년 1월 열리는 세계 최대 전자·IT 전시회 'CES 2027'을 앞두고 혁신상을 대거 거머쥐었다. TV와... 생활가전 부문에서는 일체형 세탁건조기 '비스포크 AI 콤보'가 혁신상을 받았다. 대용량 열교환기를...",
+          "src": "econovill",
           "date": "11/16",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053152",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053152_87194_4533_v150.jpg"
+          "url": "https://www.econovill.com/news/articleView.html?idxno=757286",
+          "img": "https://cdn.econovill.com/news/thumbnail/202611/757286_735048_5915_v150.jpg"
         },
         {
           "title": "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사",
@@ -42,7 +42,7 @@ window.NEWS_DATA = {
           "src": "동아일보",
           "date": "11/16",
           "url": "https://n.news.naver.com/mnews/article/020/0003762579?sid=101",
-          "img": ""
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/15/135027600.4.jpg"
         },
         {
           "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
+          "desc": "현대차·기아는 탐사체 통합…달 물류로 이어질 기술 확보 현대차·기아는 자동차와 로봇 기술을 달 표면에서 작동하는 탐사체로 구현한다. 2023년 공개한 로버 개발모델의 목표 중량은 최대 70㎏이다. 과학 탐사 기능을...",
+          "src": "블로터",
+          "date": "11/16",
+          "url": "https://n.news.naver.com/mnews/article/293/0000093274?sid=101",
+          "img": "https://cdn.bloter.net/news/thumbnail/202611/678601_293413_1745_v150.jpg"
+        },
         {
           "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
           "desc": "현대차·기아와 자동차 부품업체, 배터리 관련 기업에는 미중 간 수출통제 유예가 얼마나 지속되는지와 함께 중국 외 공급망 확보 여부가 중요하다. 특히 현재의 미중 무역휴전이 2027년 1월 10일을 기한으로 연장된 만큼...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/11",
           "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
           "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
-        },
-        {
-          "title": "[더벨][JB우리캐피탈 중앙아 승부수] 키르기스스탄서 맞붙는 JB vs BNK…지...",
-          "desc": "노후 차량 교체 수요와 중고차 수요가 꾸준하고 현대차·기아가 자동차 시장의 절반을 차지할 만큼 한국차 선호가 뚜렷하다. ◇JB, 대출사·리스사 한 번에 사들여 중고차 리스로 출발 JB우리캐피탈은 지난달...",
-          "src": "더벨",
-          "date": "11/11",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611081902460240103984",
-          "img": ""
         }
       ]
     },
@@ -221,55 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "부정행위 첨단장비 무방비 유통… 감독관 ‘맨눈 감시’론 한계",
-          "desc": "첨단기기를 활용한 부정행위를 막을 장비 도입도 당장은 쉽지 않다. 산업인력공단이 도입하려는... 기기 탐지 대신 시험장 내 전파를 아예 차단하는 ‘재밍’ 기술을 도입해야 한다는 주장도 있지만 법 개정이 필요한...",
-          "src": "kmib",
+          "title": "맞춤형 교육 '2030 미래교실' 전남광주 확대한다",
+          "desc": "전남광주통합특별시교육청이 내년부터 광주에도 2030교실을 도입하고 전남에서도 더욱 확대하기로... 학생들은 AI와 디지털 기술을 기반으로 스스로 질문하며 궁금한 점을 알아갑니다. * 김서안/강진중앙초 4학년 AI...",
+          "src": "kjmbc",
           "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/005/0001885296?sid=102",
-          "img": ""
+          "url": "https://kjmbc.co.kr/NewsArticle/1545811",
+          "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
         },
         {
-          "title": "美 상무, 中 AI칩 규제 제동 걸더니…가족 회사와 '이해충돌' 논란",
-          "desc": "하워드 러트닉 미국 상무장관이 중국의 미국산 첨단 인공지능(AI) 반도체 접근을 제한하는 규제 도입을... 내년 가동 예정인 이 시설에는 수억 달러 규모의 엔비디아 최신 AI 서버 수백 대가 설치될 예정이며, 중국 기술기업...",
-          "src": "뉴시스",
+          "title": "젠슨 황 스캔들에 흔들리는 엔비디아 ‘중국 우회 공급망’···베선트...",
+          "desc": "월스트리트저널(WSJ)은 15일(현지시간) 미국 AI 기업들이 중국과의 기술 경쟁에서 우위를 확보하기 위해... 조 바이든 전 행정부가 2022년 첨단 AI 반도체에 대한 엄격한 수출 통제를 도입한 후 엔비디아의 중국 매출은 2021년...",
+          "src": "khan",
           "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/003/0014323384?sid=104",
-          "img": "https://img1.newsis.com/2026/10/21/NISI20261021_0002269610_web.jpg"
+          "url": "https://n.news.naver.com/mnews/article/032/0003482846?sid=101",
+          "img": "https://img.khan.co.kr/news/2026/11/16/news-p.v1.20261116.5b347ab7fb604f3081179cf962cbc116_P1.png"
         },
         {
-          "title": "[한국보건산업진흥원 보건신기술(NET) 인증기업 CEO] AI·코호트 생체 빅...",
-          "desc": "지표로 활용할 수 있습니다. 추적 검사까지 예측 가능해 임상적 활용도가 매우 높습니다. 또한 공공기관에... 빅데이터와 AI 기술을 통해 골 연령을 예측하는 기술이다. 국내, 글로벌 유일의 데이터이자 기술이라고 볼...",
-          "src": "한국경제",
+          "title": "금천구, AI 다국어 번역 서비스 개시…외국인 주민 행정정보 접근성 높...",
+          "desc": "서울 금천구(구청장 최기찬)가 인공지능(AI)을 활용한 다국어 자동 번역 서비스를 도입해 외국인 주민의... “앞으로도 디지털 기술을 활용해 주민들이 편리하게 이용할 수 있는 행정서비스를 확대해 나가겠다”고 말했다.",
+          "src": "헤럴드경제",
           "date": "11/16",
-          "url": "https://magazine.hankyung.com/job-joy/article/202611167760d",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/016/0002723746?sid=102",
+          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/16/news-p.v1.20261116.f01cb6f1a45e4971b21b866ad7c45c05_P1.jpg"
         },
         {
-          "title": "[한국보건산업진흥원 보건신기술(NET) 인증기업 CEO] 엑스레이 영상의 노...",
-          "desc": "그리고 AI 기술을 활용한 영상 처리 소프트웨어 통합 솔루션까지 의료 진단 전반을 아우르는 제품군을... 장비 도입 효율성과 임상 진단 편의성을 극대화했다. 두번째, 0.1mSv 미만의 초저선량으로 피폭을 저감한다....",
-          "src": "한국경제",
+          "title": "전남광주특별시, ‘2026년 ITS 도시상’ 광역자치단체 부문 수상",
+          "desc": "‘ITS 도시상’은 국내 지능형교통체계 도입 30주년을 기념해 2023년 제정된... 이번 평가에서 전남광주통합특별시는 첨단 ITS 기술을 활용해 행정 통합에 따른...",
+          "src": "breaknews",
           "date": "11/16",
-          "url": "https://magazine.hankyung.com/job-joy/article/202611167758d",
-          "img": ""
+          "url": "http://www.breaknews.com/1251112",
+          "img": "https://www.breaknews.com/data/breaknews_com/mainimages/202611/2026111632054460.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 폴드8·DRAM·UFS 5.0으로 CES 2027 혁신상…최고혁신상 2배 늘...",
-      "url": "https://www.wikitree.co.kr/articles/1174826",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/16/img_20261116020802_07bba929.jpeg"
+      "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…'폴드8 울트라' 첫...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=757286",
+      "img": "https://cdn.econovill.com/news/thumbnail/202611/757286_735048_5915_v150.jpg"
     },
     {
-      "title": "삼성전자, 'CES 2027' 혁신상 19개 휩쓸었다…갤Z 폴드8 '최고상'",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053152",
-      "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053152_87194_4533_v150.jpg"
+      "title": "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사",
+      "url": "https://n.news.naver.com/mnews/article/020/0003762579?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/15/135027600.4.jpg"
     },
     {
       "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
       "url": "https://www.news2day.co.kr/article/20261115500055",
       "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/15/.cache/512/20261115500054.png"
+    },
+    {
+      "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
+      "url": "https://n.news.naver.com/mnews/article/293/0000093274?sid=101",
+      "img": "https://cdn.bloter.net/news/thumbnail/202611/678601_293413_1745_v150.jpg"
     },
     {
       "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503347",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/503347_488303_659_v150.jpg"
-    },
-    {
-      "title": "변동성 장세에 투자 수요 몰린다…커버드콜 ETF 경쟁",
-      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
-      "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
     }
   ]
 };
