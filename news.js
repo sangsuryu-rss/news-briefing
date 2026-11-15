@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.15 (일) 05:44",
+  "updatedAt": "2026.11.15 (일) 10:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "“휴가모드 켜도 될까”…냉장실 식품 온도 확인해야",
-          "desc": "이는 해당 제품의 설정값으로, 모든 냉장고에 공통 적용되는 것은 아니다. 식품안전나라에 따르면 조리한... 옮기는 방법을 고려할 수 있다. 삼성전자도 모델별 기능은 사용설명서나 제품 매뉴얼에서 확인하도록 안내한다.",
-          "src": "vegannews",
+          "title": "삼성전자, CES 2027 혁신상 19개 수상…최고 혁신상 4관왕",
+          "desc": "삼성전자는 미국소비자기술협회(CTA)가 9일(현지시간) 발표한 'CES 2027 혁신상'에서 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개 상을 받았다고 15일 밝혔다. CES 혁신상은 CTA가 매년 CES...",
+          "src": "이투데이",
           "date": "11/15",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=405130",
-          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_1794684048625.jpg"
+          "url": "https://www.etoday.co.kr/news/view/2648257",
+          "img": "https://img.etoday.co.kr/pto_db/2026/11/20261115103351_2417632_1000_550.jpg"
         },
         {
-          "title": "방수 매트 탈수 전 세탁 표시·기기 금지 품목 확인",
-          "desc": "매트의 취급 표시와 세탁기 사용설명서에서 방수 소재나 매트가 금지 품목인지 함께 살펴야 한다. 삼성전자서비스는 방수성 시트와 매트, 일부 의류를 세탁·헹굼·탈수하지 말라고 안내한다. 두껍고 딱딱한 매트는 세탁...",
-          "src": "vegannews",
+          "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 혁신상 수상",
+          "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을 받았다. 특히 최고 혁신상은 영상디스플레이 부문 2개와 모바일 부문 2개 등 총 4개 제품이 수상해 지난해보다...",
+          "src": "뉴스웍스",
           "date": "11/15",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=405075",
-          "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17946770366679.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903111",
+          "img": "https://cdn.newsworks.co.kr/news/photo/202611/903111_904330_3827.jpg"
         },
         {
-          "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
-          "desc": "삼성전자와 LG전자는 가전제품과 플랫폼 간 연결성을 높이고 관련 서비스의 수익성을 확보할 수 있는지가 주요 변수다. 현대에이치티와 코콤, 경동나비엔, 제일일렉트릭, 에스원, HDC랩스, 옴니시스템 등 전문 기업은...",
-          "src": "핀포인트뉴스",
-          "date": "11/14",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
+          "title": "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전",
+          "desc": "기념 삼성전자 대축제'와 연계하고 롯데하이마트에서만 받을 수 있는 할인과 카드 혜택을 더했다. 롯데하이마트는 23일까지 전국 매장에서 냉장고, 김치냉장고, TV, 세탁기 등 인기 행사 상품 14개를 12만원 일괄 추가...",
+          "src": "머니투데이",
+          "date": "11/15",
+          "url": "https://n.news.naver.com/mnews/article/008/0005441168?sid=101",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111509573874153_1.jpg"
         },
         {
-          "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
-          "desc": "삼성전자가 삼성 라이온즈의 2026년 한국시리즈 우승을 기념해 가전제품 구독 혜택과 경품 이벤트를... PC, 로봇청소기 등이다. 다만 TV와 모니터, 일부 냉장고·세탁기 등은 기존 3개월 지원에 추가 6개월이 적용되는 등...",
-          "src": "topstarnews",
-          "date": "11/13",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275997",
-          "img": "https://cdn.topstarnews.net/news/photo/202611/16275997_2087810_230_crop.jpg"
+          "title": "야구 우승 기념 행사도 '구독 혜택'…가전업계, '월정액' 서비스 경쟁 불...",
+          "desc": "삼성 라이온즈의 12년 만의 한국시리즈 우승을 기념한 삼성전자의 가전 행사에 구독 혜택이 포함된 가운데... 로봇청소기 시장 강자인 중국 로보락도 구독 경쟁에 합류했다. 로보락코리아는 이달 초 국내 공식 유통사...",
+          "src": "thebigdata",
+          "date": "11/15",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026111316571434410ecbf9426b_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611131700450980200ecbf9426b2233984248.jpg&nmt=23"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[글로벌 줍줍] GTA6 하라고 모두 쉬라는 회사 어디?",
+          "desc": "특정 협력사의 불량 부품 때문이라는 분석이 제기됐습니다. IT 팁스터들에 따르면 힌지 내부 지지 부품에... …삼성 '갤럭시Z 롤' 개발설 삼성전자가 슬라이딩 디스플레이를적용한 스마트폰을 개발 중이라는 소식이...",
+          "src": "ZDNet코리아",
+          "date": "11/15",
+          "url": "https://n.news.naver.com/mnews/article/092/0002445303?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/11/14/ff60360b04b889bc65ffb12292be8d25.png"
+        },
+        {
           "title": "삼성전자 오스틴 센서 개발설에 애플 아이폰 18 출시 일정 변동 관측 나...",
           "desc": "원인을 삼성전자 부품과 연결 짓는 시각은 아직 업계 추측 단계라고 명시했다. 일본 매체발 오스틴 센서... 후공정·테스트 협력사로 연관 물량이 이어질 수 있다는 관측이 나온다. 다만 삼성전자의 아이폰 센서 공급...",
           "src": "g-enews",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/14",
           "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63169",
           "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000307/ns153432.webp"
-        },
-        {
-          "title": "[칩톡]일본과는 손잡고, 국산화도 계속…K반도체의 두 가지 숙제",
-          "desc": "첨단 반도체 기술 경쟁력을 높이기 위해 일본의 소재·부품·장비(소부장) 기술을 적극적으로 활용하는 동시에 국내 기업들의 경쟁력도 키워야 한다는 목소리가 나온다. 14일 업계에 따르면 이재용 삼성전자 회장은 최근...",
-          "src": "view",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/277/0005842541?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026111313264298703_1794544003.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "외부 용역 없이 AI 시스템 개발…경기도 행정혁신 실험",
-          "desc": "경기도가 수억 원대 외부 정보기술(IT) 용역에 의존하던 행정 시스템 개발 관행을 깨고 실무 공무원이... 전문 개발업체에 맡기지 않고 생성형 AI를 활용해 계약심사 시스템을 자체 구축한 것으로, 내년 1월부터 공공 발주...",
-          "src": "nocutnews",
+          "title": "스마트안경 부정행위 물렀거라~ ‘AI인스펙터’ 나가신다",
+          "desc": "이어 “전파탐지기 도입과 관련해서도 관계기관과 계속 실무적으로 협의하고 있다”고 밝혔다. 세무사 자격시험 수석 합격자도 AI안경을 활용해 부정 행위를 한 것으로 알려졌다. 제63회 세무사 자격시험 수석 합격자...",
+          "src": "매일경제",
           "date": "11/15",
-          "url": "https://n.news.naver.com/mnews/article/079/0004209825?sid=102",
-          "img": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/13/202611131610450481_0.jpg"
+          "url": "https://n.news.naver.com/mnews/article/024/0000109648?sid=102",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "미 국방부, '인공' 지우고 초지능 사무국 출범…트럼프 지침 반영",
-          "desc": "주소로 활용할 SI.mil 웹사이트도 새로 개설했다. 가설 개념의 공식 명칭 도입과 용어 혼선 가능성 미 국방부의 이번 용어 교체를 두고 기술계에서는 의문이 제기되고 있다. 역사적으로 초지능은 인간의 지능 전반을...",
-          "src": "g-enews",
+          "title": "창립 96주년 CJ대한통운... 신영수 대표 \"외형 성장 넘어 기업가치 증명...",
+          "desc": "인공지능(AI) 휴머노이드의 물류현장 투입 등 기술 적용도 추진했다. 개인 간 배송 서비스 '보내오네'를... 소상공인과 자영업자를 위한 가맹점주용 택배 서비스를 도입하고, 토스 가맹점을 택배 취급점으로 활용하는...",
+          "src": "아주경제",
           "date": "11/15",
-          "url": "https://www.g-enews.com/view.php?ud=20261115034244659920990b2dc5_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202611150344290552820990b2dc512113665185.jpg"
+          "url": "https://www.ajunews.com/view/20261115095217541",
+          "img": "https://image.ajunews.com/content/image/2026/11/15/20261115100509467594.jpg"
         },
         {
-          "title": "경기도 42조 1946억 원 규모 2027년도 '민생사수예산' 도의회 제출",
-          "desc": "원 △기술개발사업 23억 원 △경기도 자율주행 광역버스 도입 30억 원 △경기 AI 혁신 클러스터 조성 사업 9억 원 △경기 햇빛자립마을 25억 원 등이 편성됐다. 다만 지방채와 기금 등 활용 가능한 재원을 최대한...",
-          "src": "m-i",
+          "title": "풀무원, 직원이 직접 AI 만든다…현장 중심 AX 전환 속도",
+          "desc": "풀무원이 인공지능(AI)을 활용한 업무 혁신을 본격화하고 있다. 전문 개발 인력 중심의 기술 도입에서 벗어나 일반 실무자들이 직접 AI 기반 업무 도구를 개발하고 현장에 적용하는 방식으로 디지털 전환의 범위를...",
+          "src": "megaeconomy",
           "date": "11/15",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2018536",
-          "img": "https://cdn.m-i.kr/news/photo/202611/2018536_2019154_849.jpg"
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577705536920",
+          "img": "https://www.megaeconomy.co.kr/news/data/20261115/p1065577705536920_340_thum.jpg"
         },
         {
-          "title": "\"왜 AX를 하는가\"...AX 출발점은 기술보다 경영자의 판단",
-          "desc": "확인하고 활용할 수 있는 회사를 만들겠다는 목표를 세웠다고 한다. AI를 도입해 경영에 필요한 데이터를... 모든 소프트웨어를 직접 만들라는 뜻이 아니라 외부 기술을 활용하더라도 회사의 데이터와 업무를...",
-          "src": "newsverse",
+          "title": "유럽 냉장고 50도 해킹에 韓 긴장…마트·병원 보안 안전할까?",
+          "desc": "점포별 기술 담당자가 설비 이상을 확인하고 현장에서 대응하는 구조로, 여러 매장을 동시에 조작하는 공격... AI를 활용한 자동화 공격이 확산하면서 정기 점검만으로는 새로운 보안 위협을 따라잡기 어려워졌다....",
+          "src": "한스경제",
           "date": "11/15",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=11931",
-          "img": "https://cdn.newsverse.kr/news/thumbnail/202611/11931_20435_3114_v150.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/883296_909323_55_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "“휴가모드 켜도 될까”…냉장실 식품 온도 확인해야",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=405130",
-      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_1794684048625.jpg"
+      "title": "삼성전자, CES 2027 혁신상 19개 수상…최고 혁신상 4관왕",
+      "url": "https://www.etoday.co.kr/news/view/2648257",
+      "img": "https://img.etoday.co.kr/pto_db/2026/11/20261115103351_2417632_1000_550.jpg"
     },
     {
-      "title": "방수 매트 탈수 전 세탁 표시·기기 금지 품목 확인",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=405075",
-      "img": "https://www.vegannews.co.kr/data/photos/20261146/art_17946770366679.jpg"
+      "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 혁신상 수상",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903111",
+      "img": "https://cdn.newsworks.co.kr/news/photo/202611/903111_904330_3827.jpg"
     },
     {
-      "title": "AI가 바꾸는 주거 공간…스마트홈 관련주 매수세 뜨겁다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504096",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/504096_489014_2740_v150.jpg"
+      "title": "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441168?sid=101",
+      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111509573874153_1.jpg"
     },
     {
-      "title": "삼성 라이온즈, 우승 기념 삼성전자 대축제…12개월 구독료 지원·경품...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275997",
-      "img": "https://cdn.topstarnews.net/news/photo/202611/16275997_2087810_230_crop.jpg"
+      "title": "야구 우승 기념 행사도 '구독 혜택'…가전업계, '월정액' 서비스 경쟁 불...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=2026111316571434410ecbf9426b_23",
+      "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202611131700450980200ecbf9426b2233984248.jpg&nmt=23"
     },
     {
       "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
