@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.16 (월) 07:51",
+  "updatedAt": "2026.11.16 (월) 15:35",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[더벨]삼성전자 파운드리, 방산·로봇 신규 시장 공략",
-          "desc": "자동차·가전·로봇·방산 분야 수요기업과 국내 팹리스, 소프트웨어 기업이 협력해 실제 제품에 탑재할 수 있는 국산 AI반도체를 개발하는 사업이다. 삼성전자는 이번 프로젝트에서 반도체 제조를 지원하는 역할을...",
-          "src": "더벨",
+          "title": "“겨울 옷 장만할 기회”…유통가, 블프 할인 릴레이",
+          "desc": "쿠팡은 오는 29일까지 진행하는 가전·디지털 블프 기획전에서 삼성전자, LG전자, 인텔, HP, 쿠첸, TCL, 마이디어, 하이센스 등 인기 브랜드 상품을 특가에 선보인다. 오는 23일부터 27일까지는 라이브방송을 통해 유명 브랜드...",
+          "src": "segyebiz",
           "date": "11/16",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121757404160102172",
-          "img": ""
+          "url": "http://www.segyebiz.com/newsView/20261116512315?OutUrl=naver",
+          "img": "http://www.segyebiz.com//content/image/2026/11/16/20261116512589.jpg"
         },
         {
-          "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…'폴드8 울트라' 첫...",
-          "desc": "삼성전자가 내년 1월 열리는 세계 최대 전자·IT 전시회 'CES 2027'을 앞두고 혁신상을 대거 거머쥐었다. TV와... 생활가전 부문에서는 일체형 세탁건조기 '비스포크 AI 콤보'가 혁신상을 받았다. 대용량 열교환기를...",
-          "src": "econovill",
+          "title": "삼성전자서비스, 수능 고사장 시스템에어컨 긴급 서비스 지원",
+          "desc": "퍼블릭타임스=삼성전자서비스가 2027학년도 대학수학능력시험을 앞두고 수험생들의 시험 환경 보호를 위한... AI 기술을 활용한 가전제품 원격진단(HRM) 서비스도 함께 운영한다. 스마트싱스(SmartThings)에 연결된...",
+          "src": "public25",
           "date": "11/16",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=757286",
-          "img": "https://cdn.econovill.com/news/thumbnail/202611/757286_735048_5915_v150.jpg"
+          "url": "https://www.public25.com/news/articleView.html?idxno=58554",
+          "img": "https://cdn.public25.com/news/photo/202611/58554_57945_5514.jpg"
         },
         {
-          "title": "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사",
-          "desc": "롯데하이마트가 삼성 라이온즈의 2026 프로야구 한국시리즈 우승을 기념해 23일까지 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다고 15일 밝혔다. 행사 기간 냉장고, 김치냉장고, TV, 세탁기...",
-          "src": "동아일보",
+          "title": "[유통레이더] 갤러리아백화점, 쿠팡, 더후, 아누아, 에이블리, 다이소몰...",
+          "desc": "돌려주는 '최저가보상제'와 삼성전자·LG전자·자코모·리바트·쿠쿠 등이 참여하는 '브랜드 원데이'를... 공모 주제는 오래 사용한 주방 도구를 소개하는 '훈장템', 하루 영업을 마친 뒤의 모습을 담은 '냉장고', 하루...",
+          "src": "daily",
           "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/020/0003762579?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/15/135027600.4.jpg"
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425372",
+          "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1425372_1603727_78_v150.jpg"
         },
         {
-          "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
-          "desc": "삼성전자와 LG전자, 인텔, HP, 쿠첸, TCL 등 국내외 주요 브랜드가 참여해 인기 가전과 디지털 기기를 특가에... 다이슨코리아는 무선·로봇청소기와 헤어케어 기기, 공기청정기 등 주요 가전제품을 최대 57% 할인 판매한다....",
-          "src": "news2day",
-          "date": "11/15",
-          "url": "https://www.news2day.co.kr/article/20261115500055",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/15/.cache/512/20261115500054.png"
+          "title": "이스라엘 소비재전자 시장, 가성비·실용성 소비 확산",
+          "desc": "삼성의 패밀리허브 냉장고, 에코백스의 로봇청소기처럼 AI·스마트 기술과 자동화 기능을 갖춘 제품이 출시되며 관련 시장의 성장 가능성도 커지고 있다. 주거공간이 상대적으로 협소해 에어프라이어 겸용 전자...",
+          "src": "dream",
+          "date": "11/16",
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245189",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[주간 재계 나침반] 이재용·정의선 협력 본격화…최태원 AI 승부수에 젠...",
-          "desc": "차량 부품을 넘어 로봇과 에너지 등 미래 산업으로 협력 가능성을 확대하고 있다고 강조했다. 삼성전자... 투자 속도나 협력사 지원 방식이 달라질 경우 메모리 수요 전망에도 영향을 미칠 수 있다. 국내 기업들은...",
-          "src": "joongangenews",
-          "date": "11/15",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563706",
-          "img": "https://cdn.joongangenews.com/news/photo/202611/563706_371353_2935.png"
+          "title": "[가보니] SK하닉, 트리니티팹 내년 가동…소부장과 한솥밥",
+          "desc": "구성원들은 협력사를 공급망의 일부가 아닌 함께 성장하는 파트너로 인식하고 협력회사의 실력이... ASML을 비롯해 삼성전자, 도쿄일렉트론 등의 기업이 이 같은 시설을 보유하고 있지만, 양산형 실증 형태로 구축되는...",
+          "src": "news",
+          "date": "11/16",
+          "url": "https://news.dealsitetv.com/articles/178613",
+          "img": ""
         },
         {
-          "title": "[글로벌 줍줍] GTA6 하라고 모두 쉬라는 회사 어디?",
-          "desc": "특정 협력사의 불량 부품 때문이라는 분석이 제기됐습니다. IT 팁스터들에 따르면 힌지 내부 지지 부품에... …삼성 '갤럭시Z 롤' 개발설 삼성전자가 슬라이딩 디스플레이를적용한 스마트폰을 개발 중이라는 소식이...",
-          "src": "ZDNet코리아",
-          "date": "11/15",
-          "url": "https://n.news.naver.com/mnews/article/092/0002445303?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/14/ff60360b04b889bc65ffb12292be8d25.png"
+          "title": "“3년 걸리던 소부장 양산, 1년으로 단축”…SK하이닉스, 용인 트리니티...",
+          "desc": "삼성전자나 SK하이닉스의 생산라인을 활용하고 싶어도 원하는 시기에 검증 기회를 잡기란 쉽지 않다.... IP를 협력사에 무상으로 제공하는 ‘지식재산권 공유 지원센터’도 운영할 예정이다. 반도체 장비업체 테스(TES)의...",
+          "src": "중앙일보",
+          "date": "11/16",
+          "url": "https://n.news.naver.com/mnews/article/025/0003565461?sid=101",
+          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/16/cddb92b7-b39e-4dd8-8379-819f046f975d.jpg"
         },
         {
-          "title": "삼성전자 오스틴 센서 개발설에 애플 아이폰 18 출시 일정 변동 관측 나...",
-          "desc": "원인을 삼성전자 부품과 연결 짓는 시각은 아직 업계 추측 단계라고 명시했다. 일본 매체발 오스틴 센서... 후공정·테스트 협력사로 연관 물량이 이어질 수 있다는 관측이 나온다. 다만 삼성전자의 아이폰 센서 공급...",
-          "src": "g-enews",
-          "date": "11/15",
-          "url": "https://www.g-enews.com/view.php?ud=202611141654581540fbbec65dfb_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026111417281401743fbbec65dfb211211153121.jpg"
+          "title": "삼성과 함께 큰 협력사 194곳, 국내에 18.1조 투자",
+          "desc": "삼성전자(005930)의 지원을 받으며 성장해 온 협력회사들이 국내 반도체 산업에 대규모 투자를 하는... 소재·부품·장비(소부장) 국산화에도 힘을 쏟고 있다. 극자외선(EUV) 공정용 감광제(PR)와 블랭크마스크 등을 국내...",
+          "src": "서울경제",
+          "date": "11/16",
+          "url": "https://n.news.naver.com/mnews/article/011/0004682607?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/11/16/news-p.v1.20261029.aab7656db1ed4c9a90880cffc180c8de_Z1.jpeg"
         },
         {
-          "title": "엔비디아 위기는 삼전에 기회? '깐부' 젠슨 황 스캔들의 역설 [주말 Q&A]",
-          "desc": "엔비디아의 위기가 협력사나 경쟁사엔 새로운 기회가 될 수 있기 때문이다. 우리로선 삼성전자와... 핵심 부품 고대역폭메모리(HBM)의 70%를 SK하이닉스로부터, 나머지 30%를 삼성전자와 미국 마이크론한테서 나눠...",
-          "src": "thescoop",
-          "date": "11/14",
-          "url": "https://n.news.naver.com/mnews/article/665/0000008568?sid=101",
-          "img": "https://cdn.thescoop.co.kr/news/thumbnail/202611/312294_230656_1510_v150.jpg"
+          "title": "삼성전자·SK하이닉스, 소부장 '양산 문턱' 낮춘다…기술검증 지원확대",
+          "desc": "삼성전자·SK하이닉스 자료사진. 연합뉴스  삼성전자와 SK하이닉스가 국내 반도체 소재·부품·장비(소부장)... 방식으로 협력사의 기술 검증을 지원하고 있다. 삼성전자 지속가능경영 자료에 따르면 지난 2007년부터...",
+          "src": "서울경제뉴스",
+          "date": "11/16",
+          "url": "http://www.seouleconews.com/news/articleView.html?idxno=95032",
+          "img": "http://www.seouleconews.com/news/thumbnail/202611/95032_102491_218_v150.jpg"
         }
       ]
     },
@@ -221,55 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "맞춤형 교육 '2030 미래교실' 전남광주 확대한다",
-          "desc": "전남광주통합특별시교육청이 내년부터 광주에도 2030교실을 도입하고 전남에서도 더욱 확대하기로... 학생들은 AI와 디지털 기술을 기반으로 스스로 질문하며 궁금한 점을 알아갑니다. * 김서안/강진중앙초 4학년 AI...",
-          "src": "kjmbc",
+          "title": "최교진 장관, 교육위 출석해 \"부정행위 시 응시자격 최대 10년간 박탈\"",
+          "desc": "등 기술적 수단 활용 가능성을 점검하고 내년도 수능 도입을 검토할 것\"이라고 강조했다. 더불어민주당 교육위원들은 교육위 전체회의 후 소통관 기자회견장을 찾아 \"AI를 활용한 부정행위에 대해 응시 자격 제한을 10년...",
+          "src": "서울신문",
           "date": "11/16",
-          "url": "https://kjmbc.co.kr/NewsArticle/1545811",
-          "img": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
+          "url": "http://www.metroseoul.co.kr/article/20261116500387",
+          "img": ""
         },
         {
-          "title": "젠슨 황 스캔들에 흔들리는 엔비디아 ‘중국 우회 공급망’···베선트...",
-          "desc": "월스트리트저널(WSJ)은 15일(현지시간) 미국 AI 기업들이 중국과의 기술 경쟁에서 우위를 확보하기 위해... 조 바이든 전 행정부가 2022년 첨단 AI 반도체에 대한 엄격한 수출 통제를 도입한 후 엔비디아의 중국 매출은 2021년...",
-          "src": "khan",
+          "title": "LG유플러스, 기업 네트워크·보안 통합 관리 플랫폼 ‘U+SASE’ 출시",
+          "desc": "또한, 네트워크 회선은 통신사업자가 제공하고 보안은 개별 보안기업의 솔루션을 도입하는 과거... 관련 기술 경쟁력을 지속 강화하고 있습니다. U+SASE는 생성형 AI에 대응한 보안 기능도 지원합니다. 임직원이...",
+          "src": "inthenews",
           "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/032/0003482846?sid=101",
-          "img": "https://img.khan.co.kr/news/2026/11/16/news-p.v1.20261116.5b347ab7fb604f3081179cf962cbc116_P1.png"
+          "url": "https://www.inthenews.co.kr/news/article.html?no=94555",
+          "img": "https://www.inthenews.co.kr/data/photos/20261147/art_17948044718233_ddc089.jpg"
         },
         {
-          "title": "금천구, AI 다국어 번역 서비스 개시…외국인 주민 행정정보 접근성 높...",
-          "desc": "서울 금천구(구청장 최기찬)가 인공지능(AI)을 활용한 다국어 자동 번역 서비스를 도입해 외국인 주민의... “앞으로도 디지털 기술을 활용해 주민들이 편리하게 이용할 수 있는 행정서비스를 확대해 나가겠다”고 말했다.",
-          "src": "헤럴드경제",
+          "title": "[초점]가스기술공사, LNG 설비 안정성 높인다…'안전·청렴' 기반 에너지...",
+          "desc": "향후에는 기존 LNG 설비 유지보수 역량을 안정적으로 유지하면서 예방정비와 AI 기반 안전관리, 내부통제를 얼마나 효과적으로 결합하느냐가 중요할 것으로 보인다. 현장에서 축적된 기술과 데이터를 활용해 설비 이상과...",
+          "src": "energydaily",
           "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/016/0002723746?sid=102",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/16/news-p.v1.20261116.f01cb6f1a45e4971b21b866ad7c45c05_P1.jpg"
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205139",
+          "img": "https://cdn.energydaily.co.kr/news/photo/202611/205139_204751_254.png"
         },
         {
-          "title": "전남광주특별시, ‘2026년 ITS 도시상’ 광역자치단체 부문 수상",
-          "desc": "‘ITS 도시상’은 국내 지능형교통체계 도입 30주년을 기념해 2023년 제정된... 이번 평가에서 전남광주통합특별시는 첨단 ITS 기술을 활용해 행정 통합에 따른...",
-          "src": "breaknews",
+          "title": "수능 시험장 와이파이 차단 추진…교육부, 17일 추가 대책 발표",
+          "desc": "최교진 교육부 장관이 16일 국회에서 열린 교육위원회 전체회의에서 인공지능(AI)을 활용한 부정행위 방지... 과학기술정보통신부에는 수능 시간 동안 시험장 내 공공 와이파이를 차단하는 방안을 관계기관과 적극...",
+          "src": "straightnews",
           "date": "11/16",
-          "url": "http://www.breaknews.com/1251112",
-          "img": "https://www.breaknews.com/data/breaknews_com/mainimages/202611/2026111632054460.jpg"
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315444",
+          "img": "https://cdn.straightnews.co.kr/news/thumbnail/202611/315444_228510_2850_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…'폴드8 울트라' 첫...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=757286",
-      "img": "https://cdn.econovill.com/news/thumbnail/202611/757286_735048_5915_v150.jpg"
+      "title": "“겨울 옷 장만할 기회”…유통가, 블프 할인 릴레이",
+      "url": "http://www.segyebiz.com/newsView/20261116512315?OutUrl=naver",
+      "img": "http://www.segyebiz.com//content/image/2026/11/16/20261116512589.jpg"
     },
     {
-      "title": "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사",
-      "url": "https://n.news.naver.com/mnews/article/020/0003762579?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/15/135027600.4.jpg"
+      "title": "삼성전자서비스, 수능 고사장 시스템에어컨 긴급 서비스 지원",
+      "url": "https://www.public25.com/news/articleView.html?idxno=58554",
+      "img": "https://cdn.public25.com/news/photo/202611/58554_57945_5514.jpg"
     },
     {
-      "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
-      "url": "https://www.news2day.co.kr/article/20261115500055",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/15/.cache/512/20261115500054.png"
+      "title": "[유통레이더] 갤러리아백화점, 쿠팡, 더후, 아누아, 에이블리, 다이소몰...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425372",
+      "img": "https://cdn.daily.hankooki.com/news/thumbnail/202611/1425372_1603727_78_v150.jpg"
+    },
+    {
+      "title": "이스라엘 소비재전자 시장, 가성비·실용성 소비 확산",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245189",
+      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
     },
     {
       "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
       "img": "https://cdn.topstarnews.net/news/photo/202611/16276324_2088270_2550_crop.jpg"
-    },
-    {
-      "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503347",
-      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/503347_488303_659_v150.jpg"
     }
   ]
 };
