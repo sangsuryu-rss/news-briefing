@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.17 (화) 03:36",
+  "updatedAt": "2026.11.17 (화) 11:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"이젠 상용화\" 삼성·LG, 휴머노이드 승부",
-          "desc": "삼성전자와 LG전자가 내년 1월 미국 라스베이거스에서 열리는 세계 최대 IT(정보기술)·가전 전시회 'CES 2027'을 앞두고 휴머노이드(인 간형) 로봇 사업화 준비에 속도를 낸다. 삼성전자는 이재용 회장이 고난도...",
-          "src": "머니투데이",
+          "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
+          "desc": "롯데하이마트가 프로야구단 삼성 라이온즈의 한국시리즈 우승을 기념해 23일까지 ‘라이온즈 우승 기념 삼성전자 대축제’와 연계한 단독 할인 행사(사진)를 연다. 먼저 전국 오프라인 매장에서 냉장고, 김치냉장고, TV...",
+          "src": "동아일보",
           "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/008/0005441985?sid=101",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111619365469458_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
+          "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
         },
         {
-          "title": "\"폴더블 최초 '울트라'가 일냈다\"… 삼성, CES 2027 최고 혁신상 4개 석권",
-          "desc": "삼성전자가 2027년 1월 미국 라스베이거스에서 열리는 세계 최대 전자 전시회 'CES 2027'을 앞두고 최고... ■ 비스포크 AI 콤보, 생활가전 부문 혁신상 수상 생활가전 부문에서는 일체형 세탁건조기 '비스포크 AI...",
-          "src": "woodkorea",
+          "title": "군살 빼는 해외공장, 국내만 ‘비대’…노동 규제 묶인 삼성",
+          "desc": "삼성전자는 지난 10년간 중국 시장 내 스마트폰 점유율 하락과 인건비 상승에 대응해 현지 스마트폰·가전 생산공장을 철수하고, 베트남과 인도 등으로 생산 거점을 재편했다. 이 과정에서 기존 공장의 유휴 인력을...",
+          "src": "mediapen",
           "date": "11/17",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92616",
-          "img": "https://cdn.woodkorea.co.kr/news/photo/202611/92616_106222_120.jpg"
+          "url": "https://www.mediapen.com/news/view/1137929",
+          "img": "https://image.mediapen.com/news/202611/news_1137929_1794880063_m.jpg"
         },
         {
-          "title": "‘알쏭달쏭’ 삼성 AI 구독 광고…비구독 고객은 홀대? [재계톡톡]",
-          "desc": "가전업계 등에 따르면, 온라인상에서 일부 소비자들은 삼성전자 AI 구독클럽 광고를 두고 고개를 갸웃거리는 반응이다. 광고에는 세탁기 수리를 받으려면 일주일을 더 기다려야 하거나, TV 설치 일정이 출국 날짜와 맞지...",
-          "src": "매일경제",
-          "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/024/0000109684?sid=101",
-          "img": "https://wimg.mk.co.kr/news/cms/202611/16/news-p.v1.20261113.140cf488ff7a4959ab553af0bb976de8_R.jpg"
+          "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
+          "desc": "삼성전자와 LG전자는 프리미엄 스탠드형을 중심으로 기술과 디자인 경쟁을 벌이고 있다. 다나와 리서치가... 신일전자만이 아니다. 밥솥으로 알려진 쿠쿠는 냉장고뿐 아니라 세탁기까지 내놓았고, 자사 첫 건조기로...",
+          "src": "newsq",
+          "date": "11/17",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500912",
+          "img": "https://cdn.newsq.co.kr/news/photo/202611/500912_579509_1457.jpg"
         },
         {
           "title": "[단독] 내년 CES 공개 삼성 휴머노이드…'5개' 손가락에 '직구동' 방식 ...",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성 “소부장-팹리스… 기술-자금지원 확대”",
-          "desc": "인공지능(AI)발 반도체 호황으로 대기업과 협력사 간 동반성장이 주목받는 가운데, 삼성전자가 국내 소재·부품·장비(소부장)와 팹리스(반도체 설계) 기업에 대한 기술·자금 지원을 확대하고 있다. 16일 삼성전자는...",
-          "src": "동아일보",
+          "title": "[N2 증시 풍향계] 가온칩스·오픈엣지·인디에프·좋은사람들·나노팀 ‘...",
+          "desc": "가온칩스는 삼성전자 파운드리 협력사로 관련 사업 확대에 대한 기대를 받고 있다. ■ 옵토닉스, 코스닥 상장 첫날 110% 넘게 급등 방산용 초정밀 광학부품 전문기업 옵토닉스가 코스닥 상장 첫날 공모가의 두 배를...",
+          "src": "news2day",
           "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/020/0003762879?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/16/135032912.1.jpg"
+          "url": "https://www.news2day.co.kr/article/20261117500106",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/17/.cache/512/20261117500096.jpg"
         },
         {
-          "title": "제품 검증 애먹던 소부장…‘대기업 실험실’ 쓴다",
-          "desc": "삼성전자나 SK하이닉스의 생산라인을 활용하고 싶어도 원하는 시기에 맞춰 검증 기회를 잡기란 쉽지 않다.... 이현철 SK하이닉스 구매전략담당(부사장)은 “협력사의 실력이 곧 SK하이닉스의 경쟁력이며 반도체 생태계...",
-          "src": "중앙일보",
+          "title": "[특징주] 가온칩스, 8000억 'K-온디바이스 AI' 프로젝트 수혜 기대감에 ...",
+          "desc": "정부 차원의 국산 AI 반도체 육성 의지가 구체화되면서, 삼성전자 파운드리의 핵심 디자인하우스 협력사인... 집약적 부품이다. 증시 전문가들은 \"코스닥 제도 개선 기조와 더불어 8,000억 원 규모의 대규모 국책 사업...",
+          "src": "widedaily",
           "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/025/0003565631?sid=101",
-          "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/17/cddb92b7-b39e-4dd8-8379-819f046f975d.jpg"
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=303826",
+          "img": "https://cdn.widedaily.com/news/thumbnail/202611/303826_311257_3738_v150.jpg"
         },
         {
-          "title": "SK하닉 반도체공장 안 '상생 거점'… \"소부장과 함께 '기술 허들' 넘는다...",
-          "desc": "트리니티팹은 국내 소재·부품·장비(소부장) 기업들이 개발한 기술을 실제 양산 환경에서 검증할 수... 삼성전자는 협력사의 설비투자와 연구개발 등을 지원하기 위해 1조4000억원 규모의 상생펀드와 1조원 규모의 환경...",
-          "src": "파이낸셜뉴스",
-          "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/014/0005605095?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/16/202611161839443030_e.jpg"
+          "title": "[부산에서 발굴한 초기 스타트업 ⑥] 진성호 케이알첨단전자재료 대표 ...",
+          "desc": "시험에서 우수한 결과를 얻더라도 부품업체의 평가와 최종 제조사의 승인을 거쳐야 하며, 실제 생산라인에서 문제가 없는지도 확인해야 한다. 삼성전자에서도 SDCP의 적용 가능성을 내부 과제로 등록해 평가하고 있다....",
+          "src": "venturesquare",
+          "date": "11/17",
+          "url": "https://www.venturesquare.net/1126995/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/CEO-1.jpg"
         },
         {
-          "title": "하이닉스 공장 속 소부장 실험실…\"협력사 생산기간 30% 단축\"",
-          "desc": "협력사는 이 공간을 빌려 설비 투자비를 절감하고, 자체 기술을 자유롭게 검사할 수 있다. 주성엔지니어링... 삼성전자도 소부장 협력회사와의 상생협력을 자금, 기술, 인력 등 전방위로 넓히며 국내 반도체 생태계...",
-          "src": "한국경제",
-          "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/015/0005354501?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/AA.46443929.1.jpg"
+          "title": "[총수 신년공약 성적표②] 정의선 회장, AI 협력·현장경영 'A+'…자율주...",
+          "desc": "역량, 부품 공급망을 강화하기로 했다.▲미국 라스베이거스에서 우버와 함께 시범 서비스 중인 모셔널 아이오닉 5 로보택시. 사진=현대차그룹 제공 ◆ 5500개 협력사 상생 지원…완전자율주행 상용화 시험대 정 회장은...",
+          "src": "소비자가만드는신문",
+          "date": "11/17",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768392",
+          "img": "http://www.consumernews.co.kr/news/thumbnail/202611/768392_321220_1540_v150.jpg"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[박근종 칼럼] AI '실력 위조' 시대, 가능한 모든 입체적 방어막 강구 수...",
-          "desc": "인공지능(AI)을 활용한 부정행위를 스스로 자백하면서 대한민국 사회에 큰 충격파를 던졌다. 1차 시험에서... 근본적이고 장기적인 대책으로는 첨단 기술에 첨단 기술로 맞불을 놓는 과학적 방어 체계의 전면적 도입이...",
-          "src": "mhns",
+          "title": "SK이노베이션, 혁신 AI 솔루션 사업 성과 발표회…올해 우수팀 3곳 선정",
+          "desc": "SK이노베이션이 인공지능(AI) 기술을 활용해 에너지 효율화와 복지·의료 등 우리 사회의 난제 해결에... 단위 도입 확대를 목표로 사업을 발전시켜 나가겠다\"고 소감을 말했다. SK이노베이션은 최종 선정된 우수...",
+          "src": "srtimes",
           "date": "11/17",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769345",
-          "img": "https://www.mhns.co.kr/image/logo/snslogo_20251204040314.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=217822",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/217822_222913_5415_v150.jpg"
         },
         {
-          "title": "미한 등 10개국, ‘AI 공급망 보호’ 선언…5개 분야 실무그룹 추진",
-          "desc": "정책·산업 활용·공급망·보안 등 5개 분야 협력 추진국무부는 공동 원칙을 실제 협력으로 옮기기 위해 5개... AI 도입, 공급망 전반의 협력, 공급망 보안 거점 등이 논의 분야에 포함됐습니다.또한 AI 기술과 기반시설을...",
-          "src": "voakorea",
+          "title": "암 치료도 AI 시대…유럽종양학회서 임상 성과 잇따라 공개",
+          "desc": "암 진단과 치료, 신약개발에 활용되는 AI 기술의 임상적 근거와 안전성, 규제 문제 등을 전문적으로 다룰... 의료진과 AI의 역할 분담 등 실제 의료현장 도입에 필요한 과제도 폭넓게 논의되고 있다. ESMO AI & Digital...",
+          "src": "medipana",
           "date": "11/17",
-          "url": "https://www.voakorea.com/a/us-rok-pax-silica-san-francisco-declaration/8224240.html",
-          "img": "https://gdb.voanews.com/f49425d1-9b2d-4ea0-efd4-08df3efe22be_w1200_h630.png"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=422005",
+          "img": "https://cdn.medipana.com/news/photo/202611/422005_329998_415.jpg"
         },
         {
-          "title": "중부발전, 발전소 현장 피지컬 AI 기술 발굴 '앞장'",
-          "desc": "개발·활용(6팀)' 두 부문으로 나뉘어 진행됐다. 현장의 위험 요인 해결 방안을 제시한 아이디어 기획... 본선 진출팀을 대상으로 'KAIST 역량강화 프로그램'을 도입해 피지컬 AI 핵심 기술 교육을 지원하고, 한국로봇학회...",
-          "src": "e-platform",
+          "title": "[아시아라운드업 20261117] 아시아 'AI 커닝' 비상…중국은 전파 차단, 일...",
+          "desc": "이에 따라 중국 지방 정부는 AI 폐쇄회로TV(CCTV) 감시 시스템을 도입하거나 무선통신 차단 장비를 동원하는 도입.- 이와 함께 중국 정보기술(IT) 기업 텐센트의 위안바오, 알리바바의 첸원, 딥시크 등은 시험문제 풀이에...",
+          "src": "kor",
           "date": "11/17",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=107023",
-          "img": "https://cdn.e-platform.net/news/thumbnail/202611/107023_78999_4434_v150.jpg"
+          "url": "http://kor.theasian.asia/archives/422051",
+          "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/PYH2026111612880005300-scaled.jpg"
         },
         {
-          "title": "\"젠슨 황 돌려달라\" 커지는 투자자 목소리…악재 겹친 인텔[박신영의 개...",
-          "desc": "반도체를 중국으로 직접 반입하지 않고도 미국의 첨단 AI 기술을 활용할 수 있었던 셈입니다. 2. 앤트로픽... 안정, AI 투자 및 도입 확대가 주가 상승을 뒷받침할 것으로 전망했습니다. 현재 주식시장 밸류에이션이 적정...",
-          "src": "한국경제",
+          "title": "윤수혁 서울시의원 “공무원 채용시험의 공정성은 서울시 행정 신뢰의 ...",
+          "desc": "인공지능(AI)과 초소형 전자기기를 활용한 부정행위에 대비해 서울시 공무원 채용시험의 관리체계를 강화할... 모의훈련의 도입을 제기했다. 아울러 전문 확인 인력과 전자기기 탐지 장비 등 다각적인 보완 수단을 검토해...",
+          "src": "서울신문",
           "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/015/0005354554?sid=104",
-          "img": "https://img.hankyung.com/photo/202611/01.46445447.1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003700191?sid=102",
+          "img": "https://imggo.seoul.co.kr/img/go_share.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"이젠 상용화\" 삼성·LG, 휴머노이드 승부",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441985?sid=101",
-      "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111619365469458_1.jpg"
+      "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
+      "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
+      "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
     },
     {
-      "title": "\"폴더블 최초 '울트라'가 일냈다\"… 삼성, CES 2027 최고 혁신상 4개 석권",
-      "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92616",
-      "img": "https://cdn.woodkorea.co.kr/news/photo/202611/92616_106222_120.jpg"
+      "title": "군살 빼는 해외공장, 국내만 ‘비대’…노동 규제 묶인 삼성",
+      "url": "https://www.mediapen.com/news/view/1137929",
+      "img": "https://image.mediapen.com/news/202611/news_1137929_1794880063_m.jpg"
     },
     {
-      "title": "‘알쏭달쏭’ 삼성 AI 구독 광고…비구독 고객은 홀대? [재계톡톡]",
-      "url": "https://n.news.naver.com/mnews/article/024/0000109684?sid=101",
-      "img": "https://wimg.mk.co.kr/news/cms/202611/16/news-p.v1.20261113.140cf488ff7a4959ab553af0bb976de8_R.jpg"
+      "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
+      "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500912",
+      "img": "https://cdn.newsq.co.kr/news/photo/202611/500912_579509_1457.jpg"
     },
     {
       "title": "[단독] 내년 CES 공개 삼성 휴머노이드…'5개' 손가락에 '직구동' 방식 ...",
