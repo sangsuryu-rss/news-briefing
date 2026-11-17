@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.17 (화) 11:57",
+  "updatedAt": "2026.11.17 (화) 22:29",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
+          "title": "CES",
+          "desc": "미국소비자기술협회(CTA)가 매년 1월 미국 라스베이거스에서 여는 정보기술(IT)·가전 전시회다. 1967년... 삼성전자는 폴더블폰 '갤럭시 Z 폴드8'과 '폴드8 울트라'로, LG전자는 투명·무선 TV '시그니처 올레드 T...",
+          "src": "danbinews",
+          "date": "11/17",
+          "url": "https://www.danbinews.com/news/articleView.html?idxno=34119",
+          "img": "https://www.danbinews.com/image/logo/snslogo_20250106114059.jpg"
+        },
+        {
           "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
-          "desc": "롯데하이마트가 프로야구단 삼성 라이온즈의 한국시리즈 우승을 기념해 23일까지 ‘라이온즈 우승 기념 삼성전자 대축제’와 연계한 단독 할인 행사(사진)를 연다. 먼저 전국 오프라인 매장에서 냉장고, 김치냉장고, TV...",
+          "desc": "기념 삼성전자 대축제’와 연계한 단독 할인 행사(사진)를 연다. 먼저 전국 오프라인 매장에서 냉장고, 김치냉장고, TV, 세탁기 등 14개 인기 행사상품을 대상으로 12만 원을 추가로 할인한다. 삼성 제휴카드 할인 혜택을...",
           "src": "동아일보",
           "date": "11/17",
           "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
-          "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
-        },
-        {
-          "title": "군살 빼는 해외공장, 국내만 ‘비대’…노동 규제 묶인 삼성",
-          "desc": "삼성전자는 지난 10년간 중국 시장 내 스마트폰 점유율 하락과 인건비 상승에 대응해 현지 스마트폰·가전 생산공장을 철수하고, 베트남과 인도 등으로 생산 거점을 재편했다. 이 과정에서 기존 공장의 유휴 인력을...",
-          "src": "mediapen",
-          "date": "11/17",
-          "url": "https://www.mediapen.com/news/view/1137929",
-          "img": "https://image.mediapen.com/news/202611/news_1137929_1794880063_m.jpg"
+          "img": ""
         },
         {
           "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
+          "desc": "강성호 금속노조 기아자동차지부장은 \"최근 5년간 현대차그룹사 정년퇴직자는 3만명에 육박하고 있으며 신규 충원은 미미했다\"고 주장했다. 촉탁직이나 베테랑 등의 명칭으로 퇴직자를 계약직 재고용하는 방식도...",
+          "src": "finomy",
+          "date": "11/17",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
+          "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
+        },
+        {
+          "title": "현대차 노조, 65세 정년연장 압박..청년 일자리 논란 재점화",
+          "desc": "전국금속노동조합 현대자동차지부와 기아자동차지부는 17일 오후 서울 여의도 국회 본관 앞 계단에서 '현대차그룹사 3대 핵심 요구안 공표 및 65세 정년연장 입법 촉구 기자회견'을 개최했다. 이날 노조가 제시한 요구안은...",
+          "src": "4th",
+          "date": "11/17",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
+          "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
+        },
+        {
           "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
           "desc": "현대차·기아는 탐사체 통합…달 물류로 이어질 기술 확보 현대차·기아는 자동차와 로봇 기술을 달 표면에서 작동하는 탐사체로 구현한다. 2023년 공개한 로버 개발모델의 목표 중량은 최대 70㎏이다. 과학 탐사 기능을...",
           "src": "블로터",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "11/14",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
           "img": "https://cdn.topstarnews.net/news/photo/202611/16276324_2088270_2550_crop.jpg"
-        },
-        {
-          "title": "AI 다음 성장 동력은 로봇…핵심 기술 보유 기업에 시선 집중",
-          "desc": "현대모비스와 현대차, 기아는 자동차 부품 및 완성차 사업을 기반으로 자율주행과 로봇 기술의 산업적 확장 가능성과 연결돼 있다. LG전자와 LG이노텍도 전자제품과 부품 사업을 통해 로봇 및 미래 모빌리티 산업과 접점을...",
-          "src": "핀포인트뉴스",
-          "date": "11/12",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503347",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/503347_488303_659_v150.jpg"
-        },
-        {
-          "title": "변동성 장세에 투자 수요 몰린다…커버드콜 ETF 경쟁",
-          "desc": "상장일 기준 삼성전자와 SK하이닉스의 편입 비중이 가장 높았고, 삼성전기·LG이노텍 등 전자부품주와 현대차·기아 등 자동차주, 조선주인 HD한국조선해양도 상위 편입 종목에 포함됐다. 비교지수는 '코스피200...",
-          "src": "newstopkorea",
-          "date": "11/11",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48955",
-          "img": "https://cdn.newstopkorea.com/news/photo/202611/48955_50325_1641.png"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[N2 증시 풍향계] 가온칩스·오픈엣지·인디에프·좋은사람들·나노팀 ‘...",
-          "desc": "가온칩스는 삼성전자 파운드리 협력사로 관련 사업 확대에 대한 기대를 받고 있다. ■ 옵토닉스, 코스닥 상장 첫날 110% 넘게 급등 방산용 초정밀 광학부품 전문기업 옵토닉스가 코스닥 상장 첫날 공모가의 두 배를...",
-          "src": "news2day",
+          "title": "지슨·인디에프 29%대 급등…코스피 5천선 붕괴",
+          "desc": "모터 부품이다. 실제 공급과 매출은 향후 확정되는 1차 협력사를 통해 이뤄질 예정이다. 이날... 삼성전자는 3.30%, SK하이닉스는 1.96% 하락했다. 미국 반도체주 급락과 AI 산업을 둘러싼 투자 불확실성이 국내...",
+          "src": "kjdaily",
           "date": "11/17",
-          "url": "https://www.news2day.co.kr/article/20261117500106",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/17/.cache/512/20261117500096.jpg"
+          "url": "http://www.kjdaily.com/article.php?aid=1794918617692714276",
+          "img": ""
         },
         {
-          "title": "[특징주] 가온칩스, 8000억 'K-온디바이스 AI' 프로젝트 수혜 기대감에 ...",
-          "desc": "정부 차원의 국산 AI 반도체 육성 의지가 구체화되면서, 삼성전자 파운드리의 핵심 디자인하우스 협력사인... 집약적 부품이다. 증시 전문가들은 \"코스닥 제도 개선 기조와 더불어 8,000억 원 규모의 대규모 국책 사업...",
-          "src": "widedaily",
+          "title": "11월 3주 주요 제조업 전망",
+          "desc": "5% 성장했으나 삼성전자는 애플 대비 중저가폰 비중이 높아 2분기 연속 영업 손실을 기록함. 3분기 한국의 휴대폰 수출은 지난해 동기 대비 35% 증가한 51억 달러. 프리미엄 완제품 및 고부가 부품 중심 수출 구조로...",
+          "src": "laborplus",
           "date": "11/17",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=303826",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202611/303826_311257_3738_v150.jpg"
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41817",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41817_75038_2815.jpg"
         },
         {
-          "title": "[부산에서 발굴한 초기 스타트업 ⑥] 진성호 케이알첨단전자재료 대표 ...",
-          "desc": "시험에서 우수한 결과를 얻더라도 부품업체의 평가와 최종 제조사의 승인을 거쳐야 하며, 실제 생산라인에서 문제가 없는지도 확인해야 한다. 삼성전자에서도 SDCP의 적용 가능성을 내부 과제로 등록해 평가하고 있다....",
-          "src": "venturesquare",
+          "title": "[주식마감] 'AI 시험 부정행위 논란'에 지슨 이틀 연속 상한가… 인디에...",
+          "desc": "다만 실제 제품 공급과 매출은 향후 확정되는 완성차업체의 1차 협력사(시트 모듈 공급사 등)를 통해... 사진=연합뉴스 한편 이날 코스피 시장 거래 상위종목 30위는 삼성전자, 삼성전자우, 계양전기, 금호건설...",
+          "src": "ggilbo",
           "date": "11/17",
-          "url": "https://www.venturesquare.net/1126995/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/CEO-1.jpg"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193787",
+          "img": "https://cdn.ggilbo.com/news/photo/202611/1193787_1047034_5253.jpg"
         },
         {
-          "title": "[총수 신년공약 성적표②] 정의선 회장, AI 협력·현장경영 'A+'…자율주...",
-          "desc": "역량, 부품 공급망을 강화하기로 했다.▲미국 라스베이거스에서 우버와 함께 시범 서비스 중인 모셔널 아이오닉 5 로보택시. 사진=현대차그룹 제공 ◆ 5500개 협력사 상생 지원…완전자율주행 상용화 시험대 정 회장은...",
-          "src": "소비자가만드는신문",
+          "title": "[단독] 아이폰 원가 40% 메모리 …'슈퍼甲' 애플, 결국 삼전닉스에 SOS",
+          "desc": "계약 협력사 쥐어짜던 애플도 '백기' K메모리에 유리한 조건 제시 D램 장기 공급처 확보에 총력 \"애플과의... 모든 부품 공급업체에 막강한 협상력을 행사해왔다. 반면 이번에 삼성전자, SK하이닉스 등 메모리 반도체...",
+          "src": "매일경제",
           "date": "11/17",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768392",
-          "img": "http://www.consumernews.co.kr/news/thumbnail/202611/768392_321220_1540_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/009/0005765091?sid=101",
+          "img": "https://pimg.mk.co.kr/news/cms/202611/18/20261118_01160103000001_L00.jpg"
         }
       ]
     },
@@ -221,50 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "SK이노베이션, 혁신 AI 솔루션 사업 성과 발표회…올해 우수팀 3곳 선정",
-          "desc": "SK이노베이션이 인공지능(AI) 기술을 활용해 에너지 효율화와 복지·의료 등 우리 사회의 난제 해결에... 단위 도입 확대를 목표로 사업을 발전시켜 나가겠다\"고 소감을 말했다. SK이노베이션은 최종 선정된 우수...",
-          "src": "srtimes",
+          "title": "AI로 여는 항공우주 미래… 한국항공대·고양특례시 'AeroAI 심포지엄 20...",
+          "desc": "이어 박근영 방위사업청 첨단기술사업단장이 민간의 첨단기술을 군에 빠르게 도입하는 '신속획득' 제도를... 체계에 활용되는 AI 기술을 발표했다. 무인이동체 군집제어 전문기업 파블로항공의 김영준 의장은 군집...",
+          "src": "irobotnews",
           "date": "11/17",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=217822",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/217822_222913_5415_v150.jpg"
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49652",
+          "img": "https://cdn.irobotnews.com/news/photo/202611/49652_105776_215.jpg"
         },
         {
-          "title": "암 치료도 AI 시대…유럽종양학회서 임상 성과 잇따라 공개",
-          "desc": "암 진단과 치료, 신약개발에 활용되는 AI 기술의 임상적 근거와 안전성, 규제 문제 등을 전문적으로 다룰... 의료진과 AI의 역할 분담 등 실제 의료현장 도입에 필요한 과제도 폭넓게 논의되고 있다. ESMO AI & Digital...",
-          "src": "medipana",
+          "title": "KT알파 쇼핑, 방송 화면 개편…AI로 상품 정보 제공 강화",
+          "desc": "AI를 활용한 정보 제공 기능도 도입한다. 방송 중 상품 잔여 수량과 주문 건수 등이 설정된 기준에 도달하면... 있다”며 “AI 기술을 활용해 상품 정보와 콘텐츠를 효과적으로 전달하겠다”고 말했다. 글....",
+          "src": "byline",
           "date": "11/17",
-          "url": "https://www.medipana.com/news/articleView.html?idxno=422005",
-          "img": "https://cdn.medipana.com/news/photo/202611/422005_329998_415.jpg"
+          "url": "https://byline.network/?p=9004111222628230",
+          "img": "https://cdn.byline.network/wp-content/uploads/2026/11/ktalpha_20261117.jpg"
         },
         {
-          "title": "[아시아라운드업 20261117] 아시아 'AI 커닝' 비상…중국은 전파 차단, 일...",
-          "desc": "이에 따라 중국 지방 정부는 AI 폐쇄회로TV(CCTV) 감시 시스템을 도입하거나 무선통신 차단 장비를 동원하는 도입.- 이와 함께 중국 정보기술(IT) 기업 텐센트의 위안바오, 알리바바의 첸원, 딥시크 등은 시험문제 풀이에...",
-          "src": "kor",
+          "title": "벤츠, 시속 130km 핸즈프리 주행 도입⋯내년엔 도심까지 확대",
+          "desc": "메르세데스-벤츠가 고속도로에서 운전대에 손을 대지 않고 주행할 수 있는 기능을 독일에 도입한다.... 웨이브의 AI 드라이버와 체화형 인공지능(Embodied AI) 기술을 활용해 도심과 고속도로에서 적용할 수 있는...",
+          "src": "autodaily",
           "date": "11/17",
-          "url": "http://kor.theasian.asia/archives/422051",
-          "img": "https://kor.theasian.asia/wp-content/uploads/2026/11/PYH2026111612880005300-scaled.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602177",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202611/602177_204210_1626.jpg"
         },
         {
-          "title": "윤수혁 서울시의원 “공무원 채용시험의 공정성은 서울시 행정 신뢰의 ...",
-          "desc": "인공지능(AI)과 초소형 전자기기를 활용한 부정행위에 대비해 서울시 공무원 채용시험의 관리체계를 강화할... 모의훈련의 도입을 제기했다. 아울러 전문 확인 인력과 전자기기 탐지 장비 등 다각적인 보완 수단을 검토해...",
-          "src": "서울신문",
+          "title": "쿠기, DAMEX 2026서 수침식 초음파 C-scan 분석기 공개... \"국내 자체 개...",
+          "desc": "장비와 AI 영상 분석, 검사 로봇 솔루션을 선보였다. 쿠기는 초음파를 활용한 비파괴검사 장비를 전문으로... 로봇과 AI 분석 기술을 결합한 솔루션 라인업을 지속적으로 강화해 나갈 계획이라고 밝혔다. 한편, 'DAMEX...",
+          "src": "kr",
           "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/081/0003700191?sid=102",
-          "img": "https://imggo.seoul.co.kr/img/go_share.png"
+          "url": "https://kr.aving.net/news/articleView.html?idxno=1817133",
+          "img": "https://cdn.kr.aving.net/news/photo/202611/1817133_786876_3054.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
-      "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
-      "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
-    },
-    {
-      "title": "군살 빼는 해외공장, 국내만 ‘비대’…노동 규제 묶인 삼성",
-      "url": "https://www.mediapen.com/news/view/1137929",
-      "img": "https://image.mediapen.com/news/202611/news_1137929_1794880063_m.jpg"
+      "title": "CES",
+      "url": "https://www.danbinews.com/news/articleView.html?idxno=34119",
+      "img": "https://www.danbinews.com/image/logo/snslogo_20250106114059.jpg"
     },
     {
       "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
@@ -277,14 +272,19 @@ window.NEWS_DATA = {
       "img": "https://cdn.newsworks.co.kr/news/photo/202611/903155_904533_4213.jpg"
     },
     {
+      "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
+      "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
+    },
+    {
+      "title": "현대차 노조, 65세 정년연장 압박..청년 일자리 논란 재점화",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
+      "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
+    },
+    {
       "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
       "url": "https://n.news.naver.com/mnews/article/293/0000093274?sid=101",
       "img": "https://cdn.bloter.net/news/thumbnail/202611/678601_293413_1745_v150.jpg"
-    },
-    {
-      "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
-      "img": "https://cdn.topstarnews.net/news/photo/202611/16276324_2088270_2550_crop.jpg"
     }
   ]
 };
