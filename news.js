@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.18 (수) 16:34",
+  "updatedAt": "2026.11.19 (목) 02:17",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 인사 임박…이재용 회장, '선택적 쇄신' 카드 꺼낼까",
-          "desc": "반도체 사업의 성장세를 이어가면서 스마트폰과 가전 등 완제품 사업의 수익성을 개선해야 하기 때문이다. 여기에 AI와 로봇 등 미래사업을 이끌 조직과 인력을 어떻게 배치할지도 눈여겨볼 부분이다. 삼성전자의 올해...",
-          "src": "newspost",
+          "title": "딥엑스 \"광주 임대주택 1만호, 국산 AI반도체 실증 거점으로\"",
+          "desc": "삼성전자와 SK하이닉스의 800조원 규모 반도체 투자에 발맞춰 광주에 생산시설뿐 아니라 설계·검증·사업화... 가전·에너지·돌봄·안전·관제 등 5개 분야에 국산 NPU를 적용해 실제 주거환경에서 성능을 검증하는...",
+          "src": "아이뉴스24",
           "date": "11/18",
-          "url": "https://www.newspost.kr/news/articleView.html?idxno=227543",
-          "img": "https://cdn.newspost.kr/news/thumbnail/202611/227543_230100_3623_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/031/0001076405?sid=105",
+          "img": "https://image.inews24.com/v1/a904e95bebd4a5.jpg"
         },
         {
-          "title": "삼성·LG가 휩쓴 CES 혁신상, 로봇은 중국에 뺏겨 \"쫓기는 미래 기술\"",
-          "desc": "삼성전자와 LG전자를 비롯한 한국 기업들이 'CES 2027 혁신상' 전체 수상을 휩쓸었지만 미래 먹거리로 꼽히는... 테네시 세탁기 공장에서 실증도 진행 중이다. ◆ 내년 본행사서 휴머노이드 정면 승부…상용화 성패가 관건...",
-          "src": "mediapen",
+          "title": "﻿삼성전자 제7노조 '광주노조' 출범…\"내년 임단협 참여 추진\"",
+          "desc": "삼성전자의 일곱 번째 노동조합인 '삼성전자 광주노동조합(이하 광주노조)'이 공식 출범했다. 이로써... 광주노조는 이날 발표한 출범 입장문을 통해 냉장고·세탁기 등 생활가전을 생산하는 DX부문 광주사업장을 중심으로...",
+          "src": "mdtoday",
           "date": "11/18",
-          "url": "https://www.mediapen.com/news/view/1138242",
-          "img": "https://image.mediapen.com/news/202611/news_1138242_1794967644_m.png"
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626077",
+          "img": ""
         },
         {
           "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "엔비디아, 메모리 장기 확보 이어간다…삼성·SK HBM4 공급 탄력",
-          "desc": "위해 협력사들과 긴밀히 협력하고 있다고도 설명했다. 업계에서는 이번 약정액 증가에 향후 수년에 걸친 메모리 장기 구매계약 확대가 반영된 것으로 보고 있다. 이에 따라 엔비디아에 HBM을 공급하는 삼성전자와...",
-          "src": "파이낸셜뉴스",
+          "title": "삼성·SK 현금 329조…반도체 장비업계 희비",
+          "desc": "삼성전자는 평택과 온양 등 국내 반도체 생산거점 확대에 나섰고 SK하이닉스 역시 용인 반도체 클러스터 조성과 첨단 메모리 생산능력 확충을 추진하고 있다. 특히 SK하이닉스는 향후 5년간 국내 소재·부품·장비...",
+          "src": "한스경제",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/014/0005606263?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/18/202611181304120732_e.jpg"
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884627",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/884627_910825_1444_v150.jpg"
         },
         {
-          "title": "삼성전자 138%·SK하이닉스 173% 괴리…반도체주 바닥론 힘 받나",
-          "desc": "사진=연합뉴스 삼성전자와 SK하이닉스의 주가가 급락하면서 증권가가 제시한 목표주가와 실제 주가... SK하이닉스가 국내 반도체 소재·부품·장비 협력사를 지원하기 위해 향후 5년간 투자 계획을 발표한 점도 국내...",
-          "src": "핀포인트뉴스",
+          "title": "[미리보는 이데일리 신문]벤츠도 '탈독일'…韓, 남일 아니다",
+          "desc": "이끄는 삼성전자 -비틀스가 인정하고 맥라렌이 품었다…60년 명품 사운드 -3중 보안 방패…청소 넘어... ‘맞손’ -“협력사 4100곳과 동행” 현대모비스,책자 발간 -해녀 쉽터·마을 투어버스…현대차 “어촌 맞춤형...",
+          "src": "이데일리",
           "date": "11/18",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505566",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/505566_490372_1240_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/018/0006412092?sid=102",
+          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
         },
         {
-          "title": "분기 최대 매출 엔비디아 \"삼성전기 기판 증산에 추가 자금 지원\"",
-          "desc": "시장 예상을 웃돈 엔비디아의 매출 전망과 장기 메모리 조달 확대는 국내 부품업체에 수요가 이어질 것이라는 신호로 해석된다. 엔비디아의 차세대 AI 시스템 '베라 루빈' 출하가 본격화하면서 삼성전자는 지난달...",
-          "src": "한국일보",
+          "title": "GST, 머스크 '테라팹'에 스크러버·칠러 수천대 공급 타진",
+          "desc": "미국에서는 마이크론, 글로벌파운드리, 삼성전자 등에 공급한다. 올해 3분기 누적 연결 매출에서 수출이... 한편 테라팹은 공장 가동을 앞당기기 위해 협력사 샘플 확보에도 속도를 내고 있다. 운송 시간을 줄이기 위해...",
+          "src": "thelec",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/469/0000966333?sid=105",
-          "img": "https://newsimg.hankookilbo.com/2026/11/18/dc7e44f5-f828-404e-a5ef-154a78118d93.jpg"
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=65598",
+          "img": "https://cdn.thelec.kr/news/photo/202611/65598_51692_4939.png"
         },
         {
-          "title": "젠슨 황 없는 엔비디아, 매출 155조 '괴력'…K반도체엔 양날의 검?",
-          "desc": "삼성전자와 SK하이닉스는 엔비디아 AI 가속기에 고대역폭메모리(HBM)를 공급하는 핵심 협력사다. 차세대... 삼성전기와 두산그룹, LS일렉트릭 등 AI 반도체 부품·전력 인프라 업체도 영향권에 있다. 황 전 CEO가 국내 주요...",
-          "src": "news",
+          "title": "[증시 인사이트] 엔비디아 덕에 코스피 5천선 회복…상승세 이어갈까",
+          "desc": "크레스 \"고객·공급업체·협력사도 엔비디아 지지\" - 크레스 \"호퍼 기반 부품 수출로 24억달러 벌어들여... 레인보우로보, 삼성전자 계열사와 로봇 사업 협력 - 로봇주, 매출 뛰어도 적자 확대되며 우려도 여전 (자세한...",
+          "src": "biz",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/648/0000052753?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/11/12/677f812d1ad8e71581eb84c1ecc6e881.jpg"
+          "url": "https://n.news.naver.com/mnews/article/374/0000544530?sid=101",
+          "img": "https://img.biz.sbs.co.kr/upload/2026/11/18/JdS1794987407867.jpg"
         }
       ]
     },
@@ -221,50 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"GPU·네트워크 넘어 스토리지까지\"...아크릴, '넥스트 2026' 개최",
-          "desc": "스토리지까지 AI 인프라 전반의 병목을 해결하는 통합 최적화 기술을 공개한다. 아크릴은 다음달 9일... AI 정책, 병원 AX 전환, 암 진료 AI 임상 실증 등 3개 세션을 통해 의료 AI 도입 및 활용 사례를 공유할 예정이다.",
-          "src": "ZDNet코리아",
-          "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/092/0002445879?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/18/942c081e188287f39829d77c772cd20b.jpg"
+          "title": "국산화 넘어 세계가 믿는 K드론으로[청계광장/황호원]",
+          "desc": "아무리 우수한 기술을 개발하더라도 이를 구매하고 지속적으로 활용할 시장이 없다면 산업은 성장할 수... 이러한 분야는 비행제어· 통신· 모터· 배터리· AI 등 전략 기술의 설계·검증을 바탕으로 성공적인 임무 수행...",
+          "src": "머니투데이",
+          "date": "11/19",
+          "url": "https://n.news.naver.com/mnews/article/008/0005443229?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1416,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026111815525130319_1.jpg"
         },
         {
-          "title": "공격자, 몇 분 만에 취약점 탐지·무기화···기업의 평균 패치 시간 1...",
-          "desc": "개발 도입 이후 클라우드 인프라 업데이트 빈도가 증가했다고 답했다. 그러나 기업들이 배포 전 수행하는 보안 점검 항목은 측정 대상 8개 중 평균 3개 미만으로 부실했으며, 특히 AI를 활용해 코드형 인프라(IaC)...",
-          "src": "datanet",
-          "date": "11/18",
-          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300294",
-          "img": "https://cdn.datanet.co.kr/news/photo/202611/300294_200287_2953.png"
+          "title": "[긴급] \"로그인 없이 서버에서 코드 실행\"…티오리·Xint, 엔진엑스 취약...",
+          "desc": "2015년 도입된 HTTP/2 코드에 결함…'1,180만'은 영향 버전 추정치 우선 점검할 취약점은 CVE-2026-123007이다.... Xint의 기술 보고서에 따르면 연구원이 먼저 CVE-2026-123007을 발견했고, 며칠 뒤 오픈AI(OpenAI) 모델을 활용...",
+          "src": "dailysecu",
+          "date": "11/19",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209609",
+          "img": "https://cdn.dailysecu.com/news/photo/202611/209609_210679_4933.jpeg"
         },
         {
-          "title": "가스公 홍의락 사장 \"가스는 전기다\"…AI 기반 에너지 플랫폼으로 전환",
-          "desc": "해외 LNG 프로젝트에 공동 투자해 생산 물량을 국내에 도입하거나 트레이딩에 활용하는 방안도 제시했다.... LNG 수요예측과 조달, 공급망 운영, 트레이딩은 물론 현장 안전과 설비관리에도 AI·디지털 기술을 적용한다....",
-          "src": "electimes",
-          "date": "11/18",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374940",
-          "img": "https://cdn.electimes.com/news/thumbnail/202611/374940_588918_158_v150.jpg"
+          "title": "다음, AI 뉴스 서비스·데이터 사업 추진…언론사와 수익 나눈다",
+          "desc": "임 부사장은 다음이 검색과 대화형 서비스, 각종 서비스 영역에 AI를 전면 도입하는 것을 핵심 과제로... 검색 기술로 가공해 국내외 AI 기업에 판매할 계획이다. 상품은 단순 검색용, 기사 본문 활용용, AI 학습용 패키지...",
+          "src": "mdtoday",
+          "date": "11/19",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626172",
+          "img": "https://cdn.mdtoday.co.kr/news/photo/202611/626172_335575_1646.jpg"
         },
         {
-          "title": "[똑똑한유통] 형지에스콰이아, 중고나라, SK인텔릭스, 토리든, 우아한형...",
-          "desc": "차단하는 AI 기반 사기 탐지 기술을 대응책으로 제시했다. 또, 안심결제·안심거래지수 등 사전... 이 밖에 사기 수법과 유형 정보를 공동 연구에 활용해 탐지 체계의 빈틈을 줄이는 민관 협력 방안을 제안했다....",
-          "src": "ekn",
-          "date": "11/18",
-          "url": "https://www.ekn.kr/web/view.php?key=20261118022161422",
-          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261118.e9662e4d65fd4ca88beaa8c3c9d5bd74_R.png"
+          "title": "美 데치코앤선즈, 전매장에 심비의 탤리로봇 배치",
+          "desc": "이를 활용하고 있다\"고 덧붙였다. 심비 로봇의 확대 도입으로 이 가족 경영 식료품점은 매장 운영을 이끄는... 데치코 앤 선즈의 이번 확대 도입은 일상적인 업무 실행력 개선을 넘어 기술 기반 리테일 운영에 대한 더...",
+          "src": "irobotnews",
+          "date": "11/19",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49669",
+          "img": "https://cdn.irobotnews.com/news/photo/202611/49669_105805_3543.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자 인사 임박…이재용 회장, '선택적 쇄신' 카드 꺼낼까",
-      "url": "https://www.newspost.kr/news/articleView.html?idxno=227543",
-      "img": "https://cdn.newspost.kr/news/thumbnail/202611/227543_230100_3623_v150.jpg"
-    },
-    {
-      "title": "삼성·LG가 휩쓴 CES 혁신상, 로봇은 중국에 뺏겨 \"쫓기는 미래 기술\"",
-      "url": "https://www.mediapen.com/news/view/1138242",
-      "img": "https://image.mediapen.com/news/202611/news_1138242_1794967644_m.png"
+      "title": "딥엑스 \"광주 임대주택 1만호, 국산 AI반도체 실증 거점으로\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001076405?sid=105",
+      "img": "https://image.inews24.com/v1/a904e95bebd4a5.jpg"
     },
     {
       "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
@@ -285,6 +280,11 @@ window.NEWS_DATA = {
       "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
       "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
       "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
+    },
+    {
+      "title": "현대차 노조, 65세 정년연장 압박..청년 일자리 논란 재점화",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
+      "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
     }
   ]
 };
