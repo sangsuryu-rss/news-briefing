@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.18 (수) 07:26",
+  "updatedAt": "2026.11.18 (수) 16:34",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "\"연 100조원 경제효과\"…우주 기술이 미래 먹거리",
-          "desc": "달 표면을 뚫을 드릴을 만들던 기술은 무선 청소기가 됐다. 항공기 좌석 충격을 줄이려고 개발한 소재는... 지난해 말 기준 삼성전자 국내 임직원(약 12만5000명)의 4분의 3 수준이다. 빌 넬슨 당시 NASA 국장이 \"NASA에...",
-          "src": "sidae",
+          "title": "삼성전자 인사 임박…이재용 회장, '선택적 쇄신' 카드 꺼낼까",
+          "desc": "반도체 사업의 성장세를 이어가면서 스마트폰과 가전 등 완제품 사업의 수익성을 개선해야 하기 때문이다. 여기에 AI와 로봇 등 미래사업을 이끌 조직과 인력을 어떻게 배치할지도 눈여겨볼 부분이다. 삼성전자의 올해...",
+          "src": "newspost",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/417/0001164690?sid=101",
-          "img": "https://menu.sidae.com/moneyweek/thumb/2026/11/17/00/2026111710572351240_2.jpg"
+          "url": "https://www.newspost.kr/news/articleView.html?idxno=227543",
+          "img": "https://cdn.newspost.kr/news/thumbnail/202611/227543_230100_3623_v150.jpg"
         },
         {
-          "title": "삼성·LG, 휴머노이드 사업화 채비…CES서 기술 진전 주목",
-          "desc": "내년 1월 열리는 세계 최대 가전·정보기술(IT) 전시회 'CES 2027'을 앞두고 삼성전자와 LG전자가 휴머노이드 로봇 사업화 준비에 속도를 내고 있다. 로봇의 움직임을 정교하게 제어하는 기술부터 인공지능(AI) 학습 데이터...",
-          "src": "데일리안",
+          "title": "삼성·LG가 휩쓴 CES 혁신상, 로봇은 중국에 뺏겨 \"쫓기는 미래 기술\"",
+          "desc": "삼성전자와 LG전자를 비롯한 한국 기업들이 'CES 2027 혁신상' 전체 수상을 휩쓸었지만 미래 먹거리로 꼽히는... 테네시 세탁기 공장에서 실증도 진행 중이다. ◆ 내년 본행사서 휴머노이드 정면 승부…상용화 성패가 관건...",
+          "src": "mediapen",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/119/0003156378?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202611/news_1794897328501_1716226_m_1.gif"
+          "url": "https://www.mediapen.com/news/view/1138242",
+          "img": "https://image.mediapen.com/news/202611/news_1138242_1794967644_m.png"
         },
         {
-          "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
-          "desc": "온라인 쇼핑몰에서는 냉장고, 김치냉장고, TV 등 17개 행사상품을 대상으로 최대 12% 추가 카드 할인 혜택을 제공한다. 삼성전자가 전 유통 채널에서 진행하는 공통 혜택도 제공한다는 게 회사 측 설명이다.",
-          "src": "동아일보",
-          "date": "11/17",
-          "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
-          "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
+          "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
+          "desc": "삼성전자는 라이프스타일 TV ‘더 프레임 프로’가미국 유명 라이프스타일 미디어 플랫폼 ‘오프라... ◆로보락, 로봇청소기 이어 진공 물걸레 청소기도 1위 기록 로보락이 2026년 상반기 국내 가정용 진공 물걸레...",
+          "src": "dealsite",
+          "date": "11/18",
+          "url": "https://dealsite.co.kr/articles/173045",
+          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/18/7d08aa2f0d0340d1ad014aee98c088d7/thumb.jpg"
         },
         {
           "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[투데이온] 단기계약 고수하던 애플 '물량 확보형' 선회…글로벌 메모리...",
-          "desc": "주기마다 부품 협력사에 단가 인하를 요구해 온 것으로 알려져 있다. 한 반도체업계 관계자는 애플의 기존 거래 관행을 고려하면 이번 삼성전자와의 장기공급계약 추진은 과거에는 보기 어려웠던 이례적 합의라고...",
-          "src": "the-today",
+          "title": "엔비디아, 메모리 장기 확보 이어간다…삼성·SK HBM4 공급 탄력",
+          "desc": "위해 협력사들과 긴밀히 협력하고 있다고도 설명했다. 업계에서는 이번 약정액 증가에 향후 수년에 걸친 메모리 장기 구매계약 확대가 반영된 것으로 보고 있다. 이에 따라 엔비디아에 HBM을 공급하는 삼성전자와...",
+          "src": "파이낸셜뉴스",
           "date": "11/18",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93756",
-          "img": "https://cdn.the-today.com/news/photo/202611/93756_115317_1036.png"
+          "url": "https://n.news.naver.com/mnews/article/014/0005606263?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/18/202611181304120732_e.jpg"
         },
         {
-          "title": "[뉴스이슈&비즈] 젠슨황·앤트로픽·금리 '삼중고'에 코스피 9개월만에...",
-          "desc": "관련주인 SK스퀘어(-1.31%), 삼성전자우(-5.77%), 삼성생명(-4.54%), 삼성물산(-3.98%) 등도 하락했다. '투 톱'이 하락하면서 코스닥 시장에서 반도체 소부장(소재·부품·장비)주도 대부분 약세를 보였다. 주성엔지니어링(-2.83...",
-          "src": "issuenbiz",
+          "title": "삼성전자 138%·SK하이닉스 173% 괴리…반도체주 바닥론 힘 받나",
+          "desc": "사진=연합뉴스 삼성전자와 SK하이닉스의 주가가 급락하면서 증권가가 제시한 목표주가와 실제 주가... SK하이닉스가 국내 반도체 소재·부품·장비 협력사를 지원하기 위해 향후 5년간 투자 계획을 발표한 점도 국내...",
+          "src": "핀포인트뉴스",
           "date": "11/18",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81700",
-          "img": "https://cdn.issuenbiz.com/news/thumbnail/202611/81700_82321_5150_v150.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505566",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/505566_490372_1240_v150.jpg"
         },
         {
-          "title": "지슨·인디에프 29%대 급등…코스피 5천선 붕괴",
-          "desc": "모터 부품이다. 실제 공급과 매출은 향후 확정되는 1차 협력사를 통해 이뤄질 예정이다. 이날... 삼성전자는 3.30%, SK하이닉스는 1.96% 하락했다. 미국 반도체주 급락과 AI 산업을 둘러싼 투자 불확실성이 국내...",
-          "src": "kjdaily",
-          "date": "11/17",
-          "url": "http://www.kjdaily.com/article.php?aid=1794918617692714276",
-          "img": ""
+          "title": "분기 최대 매출 엔비디아 \"삼성전기 기판 증산에 추가 자금 지원\"",
+          "desc": "시장 예상을 웃돈 엔비디아의 매출 전망과 장기 메모리 조달 확대는 국내 부품업체에 수요가 이어질 것이라는 신호로 해석된다. 엔비디아의 차세대 AI 시스템 '베라 루빈' 출하가 본격화하면서 삼성전자는 지난달...",
+          "src": "한국일보",
+          "date": "11/18",
+          "url": "https://n.news.naver.com/mnews/article/469/0000966333?sid=105",
+          "img": "https://newsimg.hankookilbo.com/2026/11/18/dc7e44f5-f828-404e-a5ef-154a78118d93.jpg"
         },
         {
-          "title": "11월 3주 주요 제조업 전망",
-          "desc": "5% 성장했으나 삼성전자는 애플 대비 중저가폰 비중이 높아 2분기 연속 영업 손실을 기록함. 3분기 한국의 휴대폰 수출은 지난해 동기 대비 35% 증가한 51억 달러. 프리미엄 완제품 및 고부가 부품 중심 수출 구조로...",
-          "src": "laborplus",
-          "date": "11/17",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41817",
-          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41817_75038_2815.jpg"
+          "title": "젠슨 황 없는 엔비디아, 매출 155조 '괴력'…K반도체엔 양날의 검?",
+          "desc": "삼성전자와 SK하이닉스는 엔비디아 AI 가속기에 고대역폭메모리(HBM)를 공급하는 핵심 협력사다. 차세대... 삼성전기와 두산그룹, LS일렉트릭 등 AI 반도체 부품·전력 인프라 업체도 영향권에 있다. 황 전 CEO가 국내 주요...",
+          "src": "news",
+          "date": "11/18",
+          "url": "https://n.news.naver.com/mnews/article/648/0000052753?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/11/12/677f812d1ad8e71581eb84c1ecc6e881.jpg"
         }
       ]
     },
@@ -221,55 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "앤트로픽 상장 추진에 쏠린 글로벌 시선…AI 산업의 성장성과 수익성 검...",
-          "desc": "기업들이 업무 자동화와 소프트웨어 개발, 데이터 분석 등에 AI를 도입하면서 관련 서비스 수요도 관심을... 기존 기술기업은 매출과 영업이익, 현금 창출 능력 등이 주요 평가 기준으로 활용돼 왔다. 반면 AI 기업은 기술...",
-          "src": "jemin",
+          "title": "\"GPU·네트워크 넘어 스토리지까지\"...아크릴, '넥스트 2026' 개최",
+          "desc": "스토리지까지 AI 인프라 전반의 병목을 해결하는 통합 최적화 기술을 공개한다. 아크릴은 다음달 9일... AI 정책, 병원 AX 전환, 암 진료 AI 임상 실증 등 3개 세션을 통해 의료 AI 도입 및 활용 사례를 공유할 예정이다.",
+          "src": "ZDNet코리아",
           "date": "11/18",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=847548",
-          "img": "https://cdn.jemin.com/news/thumbnail/202611/847548_434990_4858_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002445879?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/11/18/942c081e188287f39829d77c772cd20b.jpg"
         },
         {
-          "title": "노원구, 서울시 기후변화 혁신기술 실증사업 3건 선정…자치구 최다",
-          "desc": "서울 노원구가 서울시 기후변화 대응 혁신기술 실증사업에서 자치구 가운데 가장 많은 3개 과제를 따내며... 선정된 과제는 ▷기존 설비 활용형 AI 공공건물 전력관리 ▷전기차와 건물을 연결하는 도심형 가상발전소(VPP)...",
-          "src": "헤럴드경제",
+          "title": "공격자, 몇 분 만에 취약점 탐지·무기화···기업의 평균 패치 시간 1...",
+          "desc": "개발 도입 이후 클라우드 인프라 업데이트 빈도가 증가했다고 답했다. 그러나 기업들이 배포 전 수행하는 보안 점검 항목은 측정 대상 8개 중 평균 3개 미만으로 부실했으며, 특히 AI를 활용해 코드형 인프라(IaC)...",
+          "src": "datanet",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/016/0002724823?sid=102",
-          "img": "https://wimg.heraldcorp.com/news/cms/2026/11/18/news-p.v1.20261118.d0ddbee8bf0a44089e406e4dcb463421_P1.png"
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300294",
+          "img": "https://cdn.datanet.co.kr/news/photo/202611/300294_200287_2953.png"
         },
         {
-          "title": "월러 연준 이사 \"토큰화금융도 중앙은행 결제망이 중요 역할해야\"",
-          "desc": "이어 “두 기술 모두 신뢰와 표준, 개방형 또는 폐쇄형 네트워크의 활용이라는 비슷한 문제들을 해결해야 하는 상황”이라고 설명했다. 이는 AI 에이전트가 자율적으로 거래를 수행하는 환경에서 토큰화된 자산과...",
-          "src": "이데일리",
+          "title": "가스公 홍의락 사장 \"가스는 전기다\"…AI 기반 에너지 플랫폼으로 전환",
+          "desc": "해외 LNG 프로젝트에 공동 투자해 생산 물량을 국내에 도입하거나 트레이딩에 활용하는 방안도 제시했다.... LNG 수요예측과 조달, 공급망 운영, 트레이딩은 물론 현장 안전과 설비관리에도 AI·디지털 기술을 적용한다....",
+          "src": "electimes",
           "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/018/0006411500?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111800279.jpg"
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374940",
+          "img": "https://cdn.electimes.com/news/thumbnail/202611/374940_588918_158_v150.jpg"
         },
         {
-          "title": "이 대통령 \"수능 부정행위 신고 포상금 1억원 이상\"…AI 커닝 전방위 대...",
-          "desc": "포상제도 도입을 지시했다. 첨단 전자장비를 이용한 수능 부정행위를 신고하면 건당 1억원 이상의 포상금을... AI를 활용한 시험 부정행위에 대한 사후 조사도 확대한다. 이 대통령은 수능 시험 시간에 문제지를 촬영해...",
-          "src": "econovill",
+          "title": "[똑똑한유통] 형지에스콰이아, 중고나라, SK인텔릭스, 토리든, 우아한형...",
+          "desc": "차단하는 AI 기반 사기 탐지 기술을 대응책으로 제시했다. 또, 안심결제·안심거래지수 등 사전... 이 밖에 사기 수법과 유형 정보를 공동 연구에 활용해 탐지 체계의 빈틈을 줄이는 민관 협력 방안을 제안했다....",
+          "src": "ekn",
           "date": "11/18",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=757608",
-          "img": "https://cdn.econovill.com/news/thumbnail/202611/757608_735467_1255_v150.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261118022161422",
+          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261118.e9662e4d65fd4ca88beaa8c3c9d5bd74_R.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"연 100조원 경제효과\"…우주 기술이 미래 먹거리",
-      "url": "https://n.news.naver.com/mnews/article/417/0001164690?sid=101",
-      "img": "https://menu.sidae.com/moneyweek/thumb/2026/11/17/00/2026111710572351240_2.jpg"
+      "title": "삼성전자 인사 임박…이재용 회장, '선택적 쇄신' 카드 꺼낼까",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=227543",
+      "img": "https://cdn.newspost.kr/news/thumbnail/202611/227543_230100_3623_v150.jpg"
     },
     {
-      "title": "삼성·LG, 휴머노이드 사업화 채비…CES서 기술 진전 주목",
-      "url": "https://n.news.naver.com/mnews/article/119/0003156378?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202611/news_1794897328501_1716226_m_1.gif"
+      "title": "삼성·LG가 휩쓴 CES 혁신상, 로봇은 중국에 뺏겨 \"쫓기는 미래 기술\"",
+      "url": "https://www.mediapen.com/news/view/1138242",
+      "img": "https://image.mediapen.com/news/202611/news_1138242_1794967644_m.png"
     },
     {
-      "title": "롯데하이마트, 삼성라이온즈 우승 기념 가전 할인",
-      "url": "https://n.news.naver.com/mnews/article/382/0001305248?sid=101",
-      "img": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/17/135028912.1.jpg"
+      "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
+      "url": "https://dealsite.co.kr/articles/173045",
+      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/18/7d08aa2f0d0340d1ad014aee98c088d7/thumb.jpg"
     },
     {
       "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
