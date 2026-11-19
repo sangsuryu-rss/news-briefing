@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.19 (목) 02:17",
+  "updatedAt": "2026.11.19 (목) 09:25",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "딥엑스 \"광주 임대주택 1만호, 국산 AI반도체 실증 거점으로\"",
-          "desc": "삼성전자와 SK하이닉스의 800조원 규모 반도체 투자에 발맞춰 광주에 생산시설뿐 아니라 설계·검증·사업화... 가전·에너지·돌봄·안전·관제 등 5개 분야에 국산 NPU를 적용해 실제 주거환경에서 성능을 검증하는...",
-          "src": "아이뉴스24",
-          "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/031/0001076405?sid=105",
-          "img": "https://image.inews24.com/v1/a904e95bebd4a5.jpg"
+          "title": "AI 기술, 부동산 시장까지 침투… 스마트홈 시스템부터 로봇청소기 수납...",
+          "desc": "인식해 가전제품을 자동으로 제어하는 등 맞춤형 서비스를 제공하는 단계로 발전하고 있다. 실제 AI 기술은... 수도권 전철 1호선과 고속철도를 이용할 수 있는 평택지제역 생활권에 위치하며 삼성전자 평택캠퍼스도...",
+          "src": "rcast",
+          "date": "11/19",
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32097",
+          "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/32097_62446_1013_v150.jpg"
         },
         {
-          "title": "﻿삼성전자 제7노조 '광주노조' 출범…\"내년 임단협 참여 추진\"",
-          "desc": "삼성전자의 일곱 번째 노동조합인 '삼성전자 광주노동조합(이하 광주노조)'이 공식 출범했다. 이로써... 광주노조는 이날 발표한 출범 입장문을 통해 냉장고·세탁기 등 생활가전을 생산하는 DX부문 광주사업장을 중심으로...",
-          "src": "mdtoday",
+          "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
+          "desc": "이 같은 흐름 속에서 삼성전자와 LG전자도 휴머노이드의 정밀 조작 능력과 AI 학습 기술을 고도화하며... 미국 테네시 세탁기 공장에서는 바퀴형 클로이드를 활용해 세탁기 상판 운반과 부품 정렬·적재 등 생산공정에...",
+          "src": "뉴시스",
+          "date": "11/19",
+          "url": "https://n.news.naver.com/mnews/article/003/0014331445?sid=101",
+          "img": "https://img1.newsis.com/2026/11/04/NISI20261104_0021519179_web.jpg"
+        },
+        {
+          "title": "삼성전자 광주노조 닻 올렸다 호남 ‘반도체 도시’ 영향 촉각",
+          "desc": "삼성전자 광주사업장 임직원들을 중심으로 하는 사내노조가 새로 출범하면서 광주 군공항 일대 반도체... 광주사업장은 냉장고 등 생활가전을 생산하는 DX 부문 사업장으로, 2600여명의 노동자가 근무하고 있다. 노조는...",
+          "src": "kwangju",
           "date": "11/18",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626077",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1795003200805517006",
           "img": ""
-        },
-        {
-          "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
-          "desc": "삼성전자는 라이프스타일 TV ‘더 프레임 프로’가미국 유명 라이프스타일 미디어 플랫폼 ‘오프라... ◆로보락, 로봇청소기 이어 진공 물걸레 청소기도 1위 기록 로보락이 2026년 상반기 국내 가정용 진공 물걸레...",
-          "src": "dealsite",
-          "date": "11/18",
-          "url": "https://dealsite.co.kr/articles/173045",
-          "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/18/7d08aa2f0d0340d1ad014aee98c088d7/thumb.jpg"
         },
         {
           "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
+          "desc": "1999년 현대정공(현 현대모비스)에 입사한 뒤 현대차 구매실장과 영업지원사업부장 등을 거치며 자동차산업 전반에 대한 경영 경험을 쌓았다. 2005년 기아자동차(현 기아) 사장에 선임된 이후 '디자인 경영'을 주도하며...",
+          "src": "뉴스인사이드",
+          "date": "11/19",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
+          "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
+        },
         {
           "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
           "desc": "현대차와 기아에 자동차를 모두 한국에서 만들라고 요구할 수는 없다. 미국과 유럽, 인도가 관세와 보조금을 지렛대로 현지 생산을 요구하는 시대다. 해외 생산은 시장을 지키기 위해서라도 불가피하다. ‘자동차가...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/17",
           "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
           "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
-        },
-        {
-          "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
-          "desc": "현대차·기아는 탐사체 통합…달 물류로 이어질 기술 확보 현대차·기아는 자동차와 로봇 기술을 달 표면에서 작동하는 탐사체로 구현한다. 2023년 공개한 로버 개발모델의 목표 중량은 최대 70㎏이다. 과학 탐사 기능을...",
-          "src": "블로터",
-          "date": "11/16",
-          "url": "https://n.news.naver.com/mnews/article/293/0000093274?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202611/678601_293413_1745_v150.jpg"
         }
       ]
     },
@@ -141,6 +141,22 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "[KFT 모닝 브리프] 2026.11.19 — 오늘 꼭 알아야 할 국내외 경제뉴스",
+          "desc": "삼성전자와 SK하이닉스 등 반도체 대형주는 올랐다. ♣수치·데이터: 코스피 5067.44(+1.99%, 18일 마감, 장중... 협력사 설비에 자금을 직접 지원하는 구조는 공급 확보를 위한 선제 투자 성격이 강해 국내 부품사의...",
+          "src": "fntimes",
+          "date": "11/19",
+          "url": "https://www.fntimes.com/html/view.php?ud=202611190712172370141825007d_18",
+          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261119072016080140141825007d12411124362.jpg&nmt=18"
+        },
+        {
+          "title": "[더벨][thebell Forum | 2026 thebell 경영전략 Forum] \"생산적 금융 확대...",
+          "desc": "소재·부품·장비 기업의 자금조달 방식이 대표적인 차이로 제시됐다. 삼성전자와 SK하이닉스 등 대형 반도체 제조사는 영업활동으로 확보한 현금을 설비투자에 활용할 수 있다. 반면 장비·소재 협력사는 생산설비와...",
+          "src": "더벨",
+          "date": "11/19",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181124330960103346",
+          "img": ""
+        },
+        {
           "title": "삼성·SK 현금 329조…반도체 장비업계 희비",
           "desc": "삼성전자는 평택과 온양 등 국내 반도체 생산거점 확대에 나섰고 SK하이닉스 역시 용인 반도체 클러스터 조성과 첨단 메모리 생산능력 확충을 추진하고 있다. 특히 SK하이닉스는 향후 5년간 국내 소재·부품·장비...",
           "src": "한스경제",
@@ -155,22 +171,6 @@ window.NEWS_DATA = {
           "date": "11/18",
           "url": "https://n.news.naver.com/mnews/article/018/0006412092?sid=102",
           "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
-        },
-        {
-          "title": "GST, 머스크 '테라팹'에 스크러버·칠러 수천대 공급 타진",
-          "desc": "미국에서는 마이크론, 글로벌파운드리, 삼성전자 등에 공급한다. 올해 3분기 누적 연결 매출에서 수출이... 한편 테라팹은 공장 가동을 앞당기기 위해 협력사 샘플 확보에도 속도를 내고 있다. 운송 시간을 줄이기 위해...",
-          "src": "thelec",
-          "date": "11/18",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=65598",
-          "img": "https://cdn.thelec.kr/news/photo/202611/65598_51692_4939.png"
-        },
-        {
-          "title": "[증시 인사이트] 엔비디아 덕에 코스피 5천선 회복…상승세 이어갈까",
-          "desc": "크레스 \"고객·공급업체·협력사도 엔비디아 지지\" - 크레스 \"호퍼 기반 부품 수출로 24억달러 벌어들여... 레인보우로보, 삼성전자 계열사와 로봇 사업 협력 - 로봇주, 매출 뛰어도 적자 확대되며 우려도 여전 (자세한...",
-          "src": "biz",
-          "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/374/0000544530?sid=101",
-          "img": "https://img.biz.sbs.co.kr/upload/2026/11/18/JdS1794987407867.jpg"
         }
       ]
     },
@@ -221,55 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "국산화 넘어 세계가 믿는 K드론으로[청계광장/황호원]",
-          "desc": "아무리 우수한 기술을 개발하더라도 이를 구매하고 지속적으로 활용할 시장이 없다면 산업은 성장할 수... 이러한 분야는 비행제어· 통신· 모터· 배터리· AI 등 전략 기술의 설계·검증을 바탕으로 성공적인 임무 수행...",
-          "src": "머니투데이",
+          "title": "[2027 수능]수능 출제위원장 \"영어 난도 미세 조정…1등급 비율 안정적 ...",
+          "desc": "절대평가 도입 취지에 따라 적정 난이도를 유지하려고 부단히 노력했다. 지난 6월과 9월 모의평가 결과를... 사교육에서 문제풀이 기술을 반복 훈련한 학생에게 유리한 문항은 구체적으로 어떤 문항인가. (오) 수능 출제가...",
+          "src": "파이낸셜뉴스",
           "date": "11/19",
-          "url": "https://n.news.naver.com/mnews/article/008/0005443229?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1416,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026111815525130319_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005606607?sid=102",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190918446768_e.jpg"
         },
         {
-          "title": "[긴급] \"로그인 없이 서버에서 코드 실행\"…티오리·Xint, 엔진엑스 취약...",
-          "desc": "2015년 도입된 HTTP/2 코드에 결함…'1,180만'은 영향 버전 추정치 우선 점검할 취약점은 CVE-2026-123007이다.... Xint의 기술 보고서에 따르면 연구원이 먼저 CVE-2026-123007을 발견했고, 며칠 뒤 오픈AI(OpenAI) 모델을 활용...",
-          "src": "dailysecu",
+          "title": "수능 시작 2분 만에 끝난 ‘리트 만점자’ 검증… 40만 명 지켜봤지만 ...",
+          "desc": "■ 시험 도입 18년 만의 첫 만점… 경찰에 접수된 고발 2건 과거 수능에서 하위권 성적을 기록했던 것으로... 지문을 활용하는 간접 연계 방식으로 출제했습니다. ■ 내시경까지 등장한 검증 절차… AI 시대 시험 감독의...",
+          "src": "jibs",
           "date": "11/19",
-          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209609",
-          "img": "https://cdn.dailysecu.com/news/photo/202611/209609_210679_4933.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/661/0000086774?sid=102",
+          "img": ""
         },
         {
-          "title": "다음, AI 뉴스 서비스·데이터 사업 추진…언론사와 수익 나눈다",
-          "desc": "임 부사장은 다음이 검색과 대화형 서비스, 각종 서비스 영역에 AI를 전면 도입하는 것을 핵심 과제로... 검색 기술로 가공해 국내외 AI 기업에 판매할 계획이다. 상품은 단순 검색용, 기사 본문 활용용, AI 학습용 패키지...",
-          "src": "mdtoday",
+          "title": "밀레니얼웍스, 日 최대 오픈이노베이션 거점 ‘STATION Ai’ 최종 선정",
+          "desc": "Ai의 대기업 및 파트너사 네트워크를 활용해 일본의 주요 제조·유통·엔터테인먼트 기업들과 직접 기술... 등에 AI 콘텐츠를 공급한 실적을 바탕으로 현지 IP 홀더 및 상업시설 운영사들로부터 공간 도입 문의를...",
+          "src": "서울경제TV",
           "date": "11/19",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626172",
-          "img": "https://cdn.mdtoday.co.kr/news/photo/202611/626172_335575_1646.jpg"
+          "url": "https://www.sentv.co.kr/article/view/sentv202611190027",
+          "img": "https://www.sentv.co.kr/data/sentv/image/2026/11/19/sentv20261119000020.jpg"
         },
         {
-          "title": "美 데치코앤선즈, 전매장에 심비의 탤리로봇 배치",
-          "desc": "이를 활용하고 있다\"고 덧붙였다. 심비 로봇의 확대 도입으로 이 가족 경영 식료품점은 매장 운영을 이끄는... 데치코 앤 선즈의 이번 확대 도입은 일상적인 업무 실행력 개선을 넘어 기술 기반 리테일 운영에 대한 더...",
-          "src": "irobotnews",
+          "title": "원주시설관리공단, 공영버스 5대 'AI 안전운전 시스템' 시범도입",
+          "desc": "인공지능(AI) 안전운전 플랫폼을 시범 도입한다. 19일 공단에 따르면 이번 플랫폼은 차량에 설치된 영상분석... 송영민 공단 이사장은 \"AI 기술을 활용한 사고 예방 체계를 구축해 시민들이 공영버스를 더욱 안전하게 이용할...",
+          "src": "enewstoday",
           "date": "11/19",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49669",
-          "img": "https://cdn.irobotnews.com/news/photo/202611/49669_105805_3543.jpg"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494444",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202611/2494444_1341719_2223_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "딥엑스 \"광주 임대주택 1만호, 국산 AI반도체 실증 거점으로\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001076405?sid=105",
-      "img": "https://image.inews24.com/v1/a904e95bebd4a5.jpg"
+      "title": "AI 기술, 부동산 시장까지 침투… 스마트홈 시스템부터 로봇청소기 수납...",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32097",
+      "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/32097_62446_1013_v150.jpg"
     },
     {
-      "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
-      "url": "https://dealsite.co.kr/articles/173045",
-      "img": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/18/7d08aa2f0d0340d1ad014aee98c088d7/thumb.jpg"
+      "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014331445?sid=101",
+      "img": "https://img1.newsis.com/2026/11/04/NISI20261104_0021519179_web.jpg"
     },
     {
       "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
       "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500912",
       "img": "https://cdn.newsq.co.kr/news/photo/202611/500912_579509_1457.jpg"
+    },
+    {
+      "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
+      "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
     },
     {
       "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
       "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
       "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
-    },
-    {
-      "title": "현대차 노조, 65세 정년연장 압박..청년 일자리 논란 재점화",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
-      "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
     }
   ]
 };
