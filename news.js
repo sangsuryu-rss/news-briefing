@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.19 (목) 19:24",
+  "updatedAt": "2026.11.20 (금) 05:41",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 전영현·노태문 '투톱' 유지 전망 … 최대 실적 메모리 승진...",
-          "desc": "뉴데일리 전성무 = 삼성전자가 이르면 20일 2027년 정기 사장단 인사를 단행한다. 반도체와 완제품 사업을... 지난 5월 선임된 이원진 영상디스플레이(VD)사업부장(사장)과 김철기 생활가전사업부장(부사장)이 대표적이다....",
-          "src": "biz",
-          "date": "11/19",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950357.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950357_0.jpg?u=20261119190015?u=20261119190015"
+          "title": "삼성전자 오늘 사장단 인사…전영현·노태문 유임 속 겸직 해소",
+          "desc": "가전(DA)사업부장의 거취에는 관심이 쏠린다. 사업지원실은 실장인 박학규 사장의 유임 속에 일부 팀장(사장급)의 보직 이동과 승진이 점쳐진다. 올해 사장단 인사는 지난해 11월 21일보다 하루 앞당겨졌다. 삼성전자는...",
+          "src": "아이뉴스24",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/031/0001076830?sid=101",
+          "img": "https://image.inews24.com/v1/3db12291cd3aa3.jpg"
         },
         {
-          "title": "AI가 바꾸는 아파트 설계… 스마트홈부터 로봇청소기 전용 공간까지 확...",
-          "desc": "㈜한화 건설부문은 이 단지에 삼성물산의 주거 플랫폼 ‘홈닉(Homeniq)’을 적용하고 로봇청소기 수납장과 LG전자의 빌트인 로봇청소기 ‘AI 로니’를 유상옵션으로 제공할 예정이다. 홈닉은 스마트폰 앱으로 조명과...",
-          "src": "lawissue",
-          "date": "11/19",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261119165640102907f28b58b8_12",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026111916575201978007f28b58b822223641210.jpg&nmt=12"
+          "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
+          "desc": "삼성전자도 AI를 활용해 가전 구매 후 관리에 집중하고 있다. AI와 3차원(3D) 기술을 활용한 ‘맵뷰’는... 특히 로봇청소기 등 라이다 센서를 가진 제품을 등록하면 집의 구조와 크기를 측정해 실제 집과 유사한 형태로...",
+          "src": "서울신문",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
         },
         {
           "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "지진·코로나·AI 커닝…고3 수험생 수난사",
-          "desc": "올해는 첨단기술을 이용한 부정행위가 새로운 시험 관리 과제로 떠올랐다. ◇포항 지진에 수능 하루 전... ◇올해는 수능 직전 'AI 커닝' 논란 올해 수능에서는 AI를 활용한 부정행위가 새로운 변수로 떠올랐다. 수능을...",
-          "src": "namdonews",
-          "date": "11/19",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=929918",
-          "img": "https://cdn.namdonews.com/news/photo/202611/929918_639139_2324.jpg"
+          "title": "형평성·공정성 논란까지 나온 재초환, 이대로 괜찮나[부동산 인사이트...",
+          "desc": "재건축초과이익환수제 도입 20년 만에 첫 부담금 부과가 이뤄지게 되면서 논란이 확산되고 있다. 실현되지... [본 이미지는 AI 기술을 활용해 제작되었습니다.] 앞서 소개한 사례처럼 관리처분계획인가 신청 시점에 따라...",
+          "src": "이데일리",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/018/0006412841?sid=101",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112000091.jpg"
         },
         {
-          "title": "김영훈 대성그룹 회장 \"AI 시대 에너지 효율화가 최우선 과제\"",
-          "desc": "이날 포럼에서는 AI 전문가들이 기술 활용 사례와 발전 방향을 공유했다. 김재경 KAIST 교수는 AI를 활용한... 차원철 삼성서울병원 교수와 김동혁 KAIST 교수는 각각 의료 현장의 생성형 AI 도입과 AI 기반 DNA 분석 연구...",
-          "src": "biz",
-          "date": "11/19",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950358.html",
-          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950358_0.jpg?u=20261119191853?u=20261119191853"
+          "title": "“한국 은행들, 해킹 안당하려면”…‘그 비서’ 너무 믿어선 안된다는...",
+          "desc": "늦어…사전예방해야” 도입중인 AI에이전트 통제권 확보부터 “인공지능(AI) 에이전트를 앞세운 공격자들은... 않으면 AI 기술을 온전히 활용할 수 없다”고 강조했다. 일반인에게는 패스키를 비롯한 다중인증과 기기...",
+          "src": "매일경제",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/009/0005766479?sid=105",
+          "img": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.0b2097f47e6a49e1aa2b29cdbdfc91ac_R.png"
         },
         {
-          "title": "국가기술자격 부정행위자 응시제한 3년→10년 추진…수석·차석 점수 공...",
-          "desc": "도입 2027학년도 대학수학능력시험이 치러진 19일 세종시 새롬고등학교 시험장에 AI 부정행위 방지를 위해 휴대용 스캐너를 지참한 복도감독관이 배치돼 있다. [사진=연합뉴스] [뉴스투데이=장지우 기자] 정부가 국가기술자...",
-          "src": "news2day",
-          "date": "11/19",
-          "url": "https://www.news2day.co.kr/article/20261119500319",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/19/.cache/512/20261119500315.jpg"
+          "title": "국방 AI법, 국제법 관련 규정 보완해야 'K-방산' 수출 걸림돌 안 된다",
+          "desc": "보고서에서 AI 기술은 개발 후 군사 영역에 핵심적으로 쓰이기까지 채 10년이 걸리지 않을 정도로 빠르게... 진 선임연구위원은 또 AI 무기체계의 신속한 전력화와 군사적 활용을 위해 개발 및 도입 절차를 간소화할 수...",
+          "src": "뉴스1",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/421/0009300385?sid=100",
+          "img": "https://i3n.news1.kr/system/photos/2025/5/21/7300376/high.jpg"
         },
         {
-          "title": "충남도, 농어업·소상공인도 AI 전환…지역경제 혁신 46개 과제 발굴",
-          "desc": "핵심은 AI 기술 도입 자체가 아닌 현장에서의 활용 가능성과 정책 효과다. 참석자들은 중복사업의 통합과 실현 가능성이 높은 과제의 선별, 산업현장의 수요를 반영한 신규 사업 발굴 등을 논의했다. 다만 발굴된...",
-          "src": "아주경제",
-          "date": "11/19",
-          "url": "https://www.ajunews.com/view/20261119101949387",
-          "img": "https://image.ajunews.com/content/image/2026/11/19/20261119190939984264.jpg"
+          "title": "'AI 커닝' 막는 보안시장 커진다…전파탐지·AI 감독 기술 총출동",
+          "desc": "정부가 향후 시험장에 첨단 탐지 기술 도입을 검토하겠다고 밝힌 만큼 업계는 향후 관련 시장이 성장할... 업계 관계자는 \"기존에는 불법촬영·도청 탐지나 비대면 시험감독에 활용되던 기술들이 AI 부정행위 대응...",
+          "src": "뉴스1",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/421/0009300387?sid=105",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/19/8223451/high.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 전영현·노태문 '투톱' 유지 전망 … 최대 실적 메모리 승진...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950357.html",
-      "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950357_0.jpg?u=20261119190015?u=20261119190015"
+      "title": "삼성전자 오늘 사장단 인사…전영현·노태문 유임 속 겸직 해소",
+      "url": "https://n.news.naver.com/mnews/article/031/0001076830?sid=101",
+      "img": "https://image.inews24.com/v1/3db12291cd3aa3.jpg"
     },
     {
-      "title": "AI가 바꾸는 아파트 설계… 스마트홈부터 로봇청소기 전용 공간까지 확...",
-      "url": "https://www.lawissue.co.kr/view.php?ud=20261119165640102907f28b58b8_12",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026111916575201978007f28b58b822223641210.jpg&nmt=12"
+      "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
     },
     {
       "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
