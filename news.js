@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.19 (목) 09:25",
+  "updatedAt": "2026.11.19 (목) 19:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 기술, 부동산 시장까지 침투… 스마트홈 시스템부터 로봇청소기 수납...",
-          "desc": "인식해 가전제품을 자동으로 제어하는 등 맞춤형 서비스를 제공하는 단계로 발전하고 있다. 실제 AI 기술은... 수도권 전철 1호선과 고속철도를 이용할 수 있는 평택지제역 생활권에 위치하며 삼성전자 평택캠퍼스도...",
-          "src": "rcast",
+          "title": "삼성전자, 전영현·노태문 '투톱' 유지 전망 … 최대 실적 메모리 승진...",
+          "desc": "뉴데일리 전성무 = 삼성전자가 이르면 20일 2027년 정기 사장단 인사를 단행한다. 반도체와 완제품 사업을... 지난 5월 선임된 이원진 영상디스플레이(VD)사업부장(사장)과 김철기 생활가전사업부장(부사장)이 대표적이다....",
+          "src": "biz",
           "date": "11/19",
-          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32097",
-          "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/32097_62446_1013_v150.jpg"
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950357.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950357_0.jpg?u=20261119190015?u=20261119190015"
+        },
+        {
+          "title": "AI가 바꾸는 아파트 설계… 스마트홈부터 로봇청소기 전용 공간까지 확...",
+          "desc": "㈜한화 건설부문은 이 단지에 삼성물산의 주거 플랫폼 ‘홈닉(Homeniq)’을 적용하고 로봇청소기 수납장과 LG전자의 빌트인 로봇청소기 ‘AI 로니’를 유상옵션으로 제공할 예정이다. 홈닉은 스마트폰 앱으로 조명과...",
+          "src": "lawissue",
+          "date": "11/19",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261119165640102907f28b58b8_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026111916575201978007f28b58b822223641210.jpg&nmt=12"
         },
         {
           "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
@@ -35,14 +43,6 @@ window.NEWS_DATA = {
           "date": "11/19",
           "url": "https://n.news.naver.com/mnews/article/003/0014331445?sid=101",
           "img": "https://img1.newsis.com/2026/11/04/NISI20261104_0021519179_web.jpg"
-        },
-        {
-          "title": "삼성전자 광주노조 닻 올렸다 호남 ‘반도체 도시’ 영향 촉각",
-          "desc": "삼성전자 광주사업장 임직원들을 중심으로 하는 사내노조가 새로 출범하면서 광주 군공항 일대 반도체... 광주사업장은 냉장고 등 생활가전을 생산하는 DX 부문 사업장으로, 2600여명의 노동자가 근무하고 있다. 노조는...",
-          "src": "kwangju",
-          "date": "11/18",
-          "url": "http://www.kwangju.co.kr/article.php?aid=1795003200805517006",
-          "img": ""
         },
         {
           "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "[KFT 모닝 브리프] 2026.11.19 — 오늘 꼭 알아야 할 국내외 경제뉴스",
-          "desc": "삼성전자와 SK하이닉스 등 반도체 대형주는 올랐다. ♣수치·데이터: 코스피 5067.44(+1.99%, 18일 마감, 장중... 협력사 설비에 자금을 직접 지원하는 구조는 공급 확보를 위한 선제 투자 성격이 강해 국내 부품사의...",
-          "src": "fntimes",
+          "title": "SK하이닉스, '수출 1조달러' 이끈 HBM 생태계 이끈다...고부가 메모리가...",
+          "desc": "SK하이닉스는 국내 소부장 협력사들과 기술적 요구에 함께 대응해 HBM 경쟁력을 강화해온 점이 수출 1조... 대만 시장조사업체 트렌드포스는 최근 삼성전자의 증설로 2027년 HBM 시장 점유율 선두가 바뀔 가능성도...",
+          "src": "job-post",
           "date": "11/19",
-          "url": "https://www.fntimes.com/html/view.php?ud=202611190712172370141825007d_18",
-          "img": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261119072016080140141825007d12411124362.jpg&nmt=18"
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239707",
+          "img": "https://cdn.job-post.co.kr/news/photo/202611/239707_344112_2828.png"
         },
         {
-          "title": "[더벨][thebell Forum | 2026 thebell 경영전략 Forum] \"생산적 금융 확대...",
-          "desc": "소재·부품·장비 기업의 자금조달 방식이 대표적인 차이로 제시됐다. 삼성전자와 SK하이닉스 등 대형 반도체 제조사는 영업활동으로 확보한 현금을 설비투자에 활용할 수 있다. 반면 장비·소재 협력사는 생산설비와...",
-          "src": "더벨",
+          "title": "코스피, 장중 4960선 밀렸다 5137.89로 상승 마감…앤트로픽 IPO에 반도체...",
+          "desc": "반도체·전자부품주도 강세를 보였다. SK하이닉스는 3% 넘게 올랐고 삼성전기는 9% 이상 급등했다.... 엔비디아와 AMD 등 주요 반도체 협력사에 배정된 투자 물량을 포함하면 전체 조달액은 940억달러(약 125조원)에...",
+          "src": "goodkyung",
           "date": "11/19",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181124330960103346",
-          "img": ""
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293642",
+          "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293642_268321_1157_v150.jpg"
         },
         {
-          "title": "삼성·SK 현금 329조…반도체 장비업계 희비",
-          "desc": "삼성전자는 평택과 온양 등 국내 반도체 생산거점 확대에 나섰고 SK하이닉스 역시 용인 반도체 클러스터 조성과 첨단 메모리 생산능력 확충을 추진하고 있다. 특히 SK하이닉스는 향후 5년간 국내 소재·부품·장비...",
-          "src": "한스경제",
-          "date": "11/18",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884627",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/884627_910825_1444_v150.jpg"
+          "title": "[마켓뷰] 앤트로픽 ‘사상 최대’ IPO 앞두고… 코스피 1.4% 상승",
+          "desc": "삼성전자도 소폭 상승했다. 생성형 AI ‘클로드’를 만든 앤트로픽이 역대 최대 규모 IPO 기록을 달성할... 여기에 엔비디아·AMD 등 주요 반도체 협력사에 배정한 투자 물량까지 포함하면 전체 조달액은 940억달러(약...",
+          "src": "조선일보",
+          "date": "11/19",
+          "url": "https://n.news.naver.com/mnews/article/366/0001206040?sid=101",
+          "img": "https://biz.chosun.com/resizer/v2/5FITAUHUERNPTCISCEXXH4C3YM.jpg?auth=8fff65430c460131c4e00f119ea09f43d8bf02238372a6e626e723ca5bb76c7d&width=1200&height=630&smart=true"
         },
         {
-          "title": "[미리보는 이데일리 신문]벤츠도 '탈독일'…韓, 남일 아니다",
-          "desc": "이끄는 삼성전자 -비틀스가 인정하고 맥라렌이 품었다…60년 명품 사운드 -3중 보안 방패…청소 넘어... ‘맞손’ -“협력사 4100곳과 동행” 현대모비스,책자 발간 -해녀 쉽터·마을 투어버스…현대차 “어촌 맞춤형...",
-          "src": "이데일리",
-          "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/018/0006412092?sid=102",
-          "img": "https://image.edaily.co.kr/images/content/defaultimg.jpg"
+          "title": "[기획]재계, 상생협력 확 넓혔다…소부장과 성장판 함께 키운다",
+          "desc": "첨단산업에서 소재·부품·장비(소부장) 경쟁력이 완제품 성능과 생산성을 좌우하면서 협력사를 미래... 약 6700개 협력사가 혜택을 볼 전망이다. 삼성전자는 공동투자형 기술개발사업과 보유 특허 무상 개방을 통해...",
+          "src": "m-i",
+          "date": "11/19",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2020851",
+          "img": "https://cdn.m-i.kr/news/photo/202611/2020851_2021566_621.jpg"
         }
       ]
     },
@@ -221,45 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[2027 수능]수능 출제위원장 \"영어 난도 미세 조정…1등급 비율 안정적 ...",
-          "desc": "절대평가 도입 취지에 따라 적정 난이도를 유지하려고 부단히 노력했다. 지난 6월과 9월 모의평가 결과를... 사교육에서 문제풀이 기술을 반복 훈련한 학생에게 유리한 문항은 구체적으로 어떤 문항인가. (오) 수능 출제가...",
-          "src": "파이낸셜뉴스",
+          "title": "지진·코로나·AI 커닝…고3 수험생 수난사",
+          "desc": "올해는 첨단기술을 이용한 부정행위가 새로운 시험 관리 과제로 떠올랐다. ◇포항 지진에 수능 하루 전... ◇올해는 수능 직전 'AI 커닝' 논란 올해 수능에서는 AI를 활용한 부정행위가 새로운 변수로 떠올랐다. 수능을...",
+          "src": "namdonews",
           "date": "11/19",
-          "url": "https://n.news.naver.com/mnews/article/014/0005606607?sid=102",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190918446768_e.jpg"
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929918",
+          "img": "https://cdn.namdonews.com/news/photo/202611/929918_639139_2324.jpg"
         },
         {
-          "title": "수능 시작 2분 만에 끝난 ‘리트 만점자’ 검증… 40만 명 지켜봤지만 ...",
-          "desc": "■ 시험 도입 18년 만의 첫 만점… 경찰에 접수된 고발 2건 과거 수능에서 하위권 성적을 기록했던 것으로... 지문을 활용하는 간접 연계 방식으로 출제했습니다. ■ 내시경까지 등장한 검증 절차… AI 시대 시험 감독의...",
-          "src": "jibs",
+          "title": "김영훈 대성그룹 회장 \"AI 시대 에너지 효율화가 최우선 과제\"",
+          "desc": "이날 포럼에서는 AI 전문가들이 기술 활용 사례와 발전 방향을 공유했다. 김재경 KAIST 교수는 AI를 활용한... 차원철 삼성서울병원 교수와 김동혁 KAIST 교수는 각각 의료 현장의 생성형 AI 도입과 AI 기반 DNA 분석 연구...",
+          "src": "biz",
           "date": "11/19",
-          "url": "https://n.news.naver.com/mnews/article/661/0000086774?sid=102",
-          "img": ""
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950358.html",
+          "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950358_0.jpg?u=20261119191853?u=20261119191853"
         },
         {
-          "title": "밀레니얼웍스, 日 최대 오픈이노베이션 거점 ‘STATION Ai’ 최종 선정",
-          "desc": "Ai의 대기업 및 파트너사 네트워크를 활용해 일본의 주요 제조·유통·엔터테인먼트 기업들과 직접 기술... 등에 AI 콘텐츠를 공급한 실적을 바탕으로 현지 IP 홀더 및 상업시설 운영사들로부터 공간 도입 문의를...",
-          "src": "서울경제TV",
+          "title": "국가기술자격 부정행위자 응시제한 3년→10년 추진…수석·차석 점수 공...",
+          "desc": "도입 2027학년도 대학수학능력시험이 치러진 19일 세종시 새롬고등학교 시험장에 AI 부정행위 방지를 위해 휴대용 스캐너를 지참한 복도감독관이 배치돼 있다. [사진=연합뉴스] [뉴스투데이=장지우 기자] 정부가 국가기술자...",
+          "src": "news2day",
           "date": "11/19",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611190027",
-          "img": "https://www.sentv.co.kr/data/sentv/image/2026/11/19/sentv20261119000020.jpg"
+          "url": "https://www.news2day.co.kr/article/20261119500319",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/19/.cache/512/20261119500315.jpg"
         },
         {
-          "title": "원주시설관리공단, 공영버스 5대 'AI 안전운전 시스템' 시범도입",
-          "desc": "인공지능(AI) 안전운전 플랫폼을 시범 도입한다. 19일 공단에 따르면 이번 플랫폼은 차량에 설치된 영상분석... 송영민 공단 이사장은 \"AI 기술을 활용한 사고 예방 체계를 구축해 시민들이 공영버스를 더욱 안전하게 이용할...",
-          "src": "enewstoday",
+          "title": "충남도, 농어업·소상공인도 AI 전환…지역경제 혁신 46개 과제 발굴",
+          "desc": "핵심은 AI 기술 도입 자체가 아닌 현장에서의 활용 가능성과 정책 효과다. 참석자들은 중복사업의 통합과 실현 가능성이 높은 과제의 선별, 산업현장의 수요를 반영한 신규 사업 발굴 등을 논의했다. 다만 발굴된...",
+          "src": "아주경제",
           "date": "11/19",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494444",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202611/2494444_1341719_2223_v150.jpg"
+          "url": "https://www.ajunews.com/view/20261119101949387",
+          "img": "https://image.ajunews.com/content/image/2026/11/19/20261119190939984264.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "AI 기술, 부동산 시장까지 침투… 스마트홈 시스템부터 로봇청소기 수납...",
-      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32097",
-      "img": "https://cdn.rcast.co.kr/news/thumbnail/202611/32097_62446_1013_v150.jpg"
+      "title": "삼성전자, 전영현·노태문 '투톱' 유지 전망 … 최대 실적 메모리 승진...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950357.html",
+      "img": "https://image.newdaily.co.kr/site/data/img/2026/11/19/2026111950357_0.jpg?u=20261119190015?u=20261119190015"
+    },
+    {
+      "title": "AI가 바꾸는 아파트 설계… 스마트홈부터 로봇청소기 전용 공간까지 확...",
+      "url": "https://www.lawissue.co.kr/view.php?ud=20261119165640102907f28b58b8_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026111916575201978007f28b58b822223641210.jpg&nmt=12"
     },
     {
       "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
       "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
       "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
-    },
-    {
-      "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
-      "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
     }
   ]
 };
