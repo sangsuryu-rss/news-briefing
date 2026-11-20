@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.20 (금) 05:41",
+  "updatedAt": "2026.11.20 (금) 12:21",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자 오늘 사장단 인사…전영현·노태문 유임 속 겸직 해소",
-          "desc": "가전(DA)사업부장의 거취에는 관심이 쏠린다. 사업지원실은 실장인 박학규 사장의 유임 속에 일부 팀장(사장급)의 보직 이동과 승진이 점쳐진다. 올해 사장단 인사는 지난해 11월 21일보다 하루 앞당겨졌다. 삼성전자는...",
-          "src": "아이뉴스24",
+          "title": "삼성전자, 전영현·노태문 투톱 유지…사장 승진 3명 모두 반도체",
+          "desc": "삼성전자가 전영현·노태문 2인 대표이사 체제를 유지하면서 반도체 주요 사업부장과 기술 수장을... 노 사장에게는 스마트폰·가전·TV 등 세트 사업의 실적 반등이 요구된다. 글로벌 수요 부진에 대응해 비용을 줄이고...",
+          "src": "slist",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/031/0001076830?sid=101",
-          "img": "https://image.inews24.com/v1/3db12291cd3aa3.jpg"
+          "url": "https://www.slist.kr/news/articleView.html?idxno=783438",
+          "img": "https://cdn.slist.kr/news/thumbnail/202611/783438_1196245_554_v150.jpg"
         },
         {
           "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
@@ -61,6 +61,14 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
+          "desc": "현대·기아차가 언론에 눈길을 끌었습니다. 현대자동차는 그동안 베일에 가려져 있던 새 엘란트라를 공개했습니다. 2027년형 엘란트라는 한층 강렬해진 외관과 운전자 중심의 실내 디자인이 특징입니다. 현대차는 철강...",
+          "src": "radiokorea",
+          "date": "11/20",
+          "url": "https://www.radiokorea.com/news/article.php?uid=510194",
+          "img": ""
+        },
+        {
           "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
           "desc": "1999년 현대정공(현 현대모비스)에 입사한 뒤 현대차 구매실장과 영업지원사업부장 등을 거치며 자동차산업 전반에 대한 경영 경험을 쌓았다. 2005년 기아자동차(현 기아) 사장에 선임된 이후 '디자인 경영'을 주도하며...",
           "src": "뉴스인사이드",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/17",
           "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
           "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
-        },
-        {
-          "title": "현대차 노조, 65세 정년연장 압박..청년 일자리 논란 재점화",
-          "desc": "전국금속노동조합 현대자동차지부와 기아자동차지부는 17일 오후 서울 여의도 국회 본관 앞 계단에서 '현대차그룹사 3대 핵심 요구안 공표 및 65세 정년연장 입법 촉구 기자회견'을 개최했다. 이날 노조가 제시한 요구안은...",
-          "src": "4th",
-          "date": "11/17",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122066",
-          "img": "https://cdn.4th.kr/news/thumbnail/202611/2122066_224460_3447_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "SK하이닉스, '수출 1조달러' 이끈 HBM 생태계 이끈다...고부가 메모리가...",
-          "desc": "SK하이닉스는 국내 소부장 협력사들과 기술적 요구에 함께 대응해 HBM 경쟁력을 강화해온 점이 수출 1조... 대만 시장조사업체 트렌드포스는 최근 삼성전자의 증설로 2027년 HBM 시장 점유율 선두가 바뀔 가능성도...",
-          "src": "job-post",
-          "date": "11/19",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239707",
-          "img": "https://cdn.job-post.co.kr/news/photo/202611/239707_344112_2828.png"
+          "title": "수출 1조달러 넘어선 한국 기업들…신흥시장 제2의 성장판 키워",
+          "desc": "현지 협력사와 함께 20억달러를 투자해 연간 20만대 규모의 생산능력을 추가 확보하는 것이 골자다. 2030년 초... 삼성전자는 베트남을 스마트폰 등 전자제품의 핵심 생산기지로 운영하는 한편 현지 반도체 후공정 사업...",
+          "src": "press9",
+          "date": "11/20",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=86745",
+          "img": "http://www.press9.kr/news/thumbnail/202611/86745_98784_2539_v150.jpg"
         },
         {
-          "title": "코스피, 장중 4960선 밀렸다 5137.89로 상승 마감…앤트로픽 IPO에 반도체...",
-          "desc": "반도체·전자부품주도 강세를 보였다. SK하이닉스는 3% 넘게 올랐고 삼성전기는 9% 이상 급등했다.... 엔비디아와 AMD 등 주요 반도체 협력사에 배정된 투자 물량을 포함하면 전체 조달액은 940억달러(약 125조원)에...",
-          "src": "goodkyung",
-          "date": "11/19",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293642",
-          "img": "https://cdn.goodkyung.com/news/thumbnail/202611/293642_268321_1157_v150.jpg"
+          "title": "삼성전자 SOCAMM2로 AI 서버 메모리 혁신…삼성전기·엔비디아, 기판·ML...",
+          "desc": "엔비디아가 여러 지역의 협력사를 통해 기판과 패키징 생산능력을 동시에 확대하는 가운데 삼성전기는... 안정화 부품으로 넓어지고 있다. 삼성전자와 삼성전기의 최근 행보는 한국 반도체 산업이 이러한 변화...",
+          "src": "koreaittimes",
+          "date": "11/20",
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159338",
+          "img": "https://www.koreaittimes.com/news/thumbnail/202611/159338_108948_1152_v150.jpg"
         },
         {
-          "title": "[마켓뷰] 앤트로픽 ‘사상 최대’ IPO 앞두고… 코스피 1.4% 상승",
-          "desc": "삼성전자도 소폭 상승했다. 생성형 AI ‘클로드’를 만든 앤트로픽이 역대 최대 규모 IPO 기록을 달성할... 여기에 엔비디아·AMD 등 주요 반도체 협력사에 배정한 투자 물량까지 포함하면 전체 조달액은 940억달러(약...",
-          "src": "조선일보",
-          "date": "11/19",
-          "url": "https://n.news.naver.com/mnews/article/366/0001206040?sid=101",
-          "img": "https://biz.chosun.com/resizer/v2/5FITAUHUERNPTCISCEXXH4C3YM.jpg?auth=8fff65430c460131c4e00f119ea09f43d8bf02238372a6e626e723ca5bb76c7d&width=1200&height=630&smart=true"
+          "title": "위기 속 중책 맡은 최원준 신임 삼성 MX사업부장, 수익성 개선이 과제",
+          "desc": "삼성전자가 지난 10월 부품협력사에 전달한 4분기 부품 발주량 전망치는 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄어든 것으로 알려졌다. (자료=카운터포인트) (자료=카운터포인트) 시장조사업체...",
+          "src": "ZDNet코리아",
+          "date": "11/20",
+          "url": "https://n.news.naver.com/mnews/article/092/0002446198?sid=105",
+          "img": "https://image.zdnet.co.kr/2024/06/07/544783edba7ecfccdae135ec762d356c.jpg"
         },
         {
-          "title": "[기획]재계, 상생협력 확 넓혔다…소부장과 성장판 함께 키운다",
-          "desc": "첨단산업에서 소재·부품·장비(소부장) 경쟁력이 완제품 성능과 생산성을 좌우하면서 협력사를 미래... 약 6700개 협력사가 혜택을 볼 전망이다. 삼성전자는 공동투자형 기술개발사업과 보유 특허 무상 개방을 통해...",
-          "src": "m-i",
-          "date": "11/19",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2020851",
-          "img": "https://cdn.m-i.kr/news/photo/202611/2020851_2021566_621.jpg"
+          "title": "키움증권 \"스페이스X 통신시장 진출에 삼성전자 낙점될까…RFHIC·LIG아큐...",
+          "desc": "중국 업체들이 공급망에서 배제될 경우 삼성전자를 비롯한 글로벌 통신장비 업체들이 국내 부품·장비업체를... 수혜 범위가 삼성전자 협력사에만 머물지 않을 가능성도 제기된다. 미국이 중국산 광트랜시버와...",
+          "src": "핀포인트뉴스",
+          "date": "11/20",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506171",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/506171_490950_507_v150.jpg"
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "형평성·공정성 논란까지 나온 재초환, 이대로 괜찮나[부동산 인사이트...",
-          "desc": "재건축초과이익환수제 도입 20년 만에 첫 부담금 부과가 이뤄지게 되면서 논란이 확산되고 있다. 실현되지... [본 이미지는 AI 기술을 활용해 제작되었습니다.] 앞서 소개한 사례처럼 관리처분계획인가 신청 시점에 따라...",
-          "src": "이데일리",
+          "title": "일본, 배터리 제조 기반 확충과 ESS 활용 다변화 추진",
+          "desc": "재생에너지 도입, 전력 수급 안정화, 에너지 안보 확보와 맞물려 사업 영역을 넓히고 있다. 배터리는 전동화와 탈탄소화를 뒷받침하는 핵심 기술인 동시에, 주요 소재 및 부품의 공급망 확보와 자원 재활용...",
+          "src": "dream",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/018/0006412841?sid=101",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112000091.jpg"
+          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245076",
+          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
         },
         {
-          "title": "“한국 은행들, 해킹 안당하려면”…‘그 비서’ 너무 믿어선 안된다는...",
-          "desc": "늦어…사전예방해야” 도입중인 AI에이전트 통제권 확보부터 “인공지능(AI) 에이전트를 앞세운 공격자들은... 않으면 AI 기술을 온전히 활용할 수 없다”고 강조했다. 일반인에게는 패스키를 비롯한 다중인증과 기기...",
-          "src": "매일경제",
+          "title": "ASI 파운드리, 스탠퍼드대서 AI 포럼 개최…존 헤네시·지미 리 한국 AI ...",
+          "desc": "3%가 AI를 경영에 활용하지 못하고 있는 것으로 나타났다. 중소기업의 AI 활용률은 4.2%로 집계됐다.... 이를 통해 공장 진단부터 기술 적용과 확산까지 지원하고, 중견·중소 제조기업의 AI 도입 부담을 낮춘다는...",
+          "src": "epnc",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/009/0005766479?sid=105",
-          "img": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.0b2097f47e6a49e1aa2b29cdbdfc91ac_R.png"
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410083",
+          "img": "https://cdn.epnc.co.kr/news/photo/202611/410083_410819_643.jpg"
         },
         {
-          "title": "국방 AI법, 국제법 관련 규정 보완해야 'K-방산' 수출 걸림돌 안 된다",
-          "desc": "보고서에서 AI 기술은 개발 후 군사 영역에 핵심적으로 쓰이기까지 채 10년이 걸리지 않을 정도로 빠르게... 진 선임연구위원은 또 AI 무기체계의 신속한 전력화와 군사적 활용을 위해 개발 및 도입 절차를 간소화할 수...",
-          "src": "뉴스1",
+          "title": "봉화군, 2027년 예산 6,980억 편성…농업·산림 중심 지역경제 전환 추진",
+          "desc": "축산 부산물을 재활용하는 자원순환체계를 확대하고 친환경 생산 기반을 조성해 축산업의 부가가치를... 행정업무에는 인공지능(AI) 기술을 단계적으로 도입한다. 인공지능 기반 민원 응대 시스템을 마련해 주민 편의를...",
+          "src": "newstown",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/421/0009300385?sid=100",
-          "img": "https://i3n.news1.kr/system/photos/2025/5/21/7300376/high.jpg"
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722741",
+          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/722741_679169_5049_v150.jpg"
         },
         {
-          "title": "'AI 커닝' 막는 보안시장 커진다…전파탐지·AI 감독 기술 총출동",
-          "desc": "정부가 향후 시험장에 첨단 탐지 기술 도입을 검토하겠다고 밝힌 만큼 업계는 향후 관련 시장이 성장할... 업계 관계자는 \"기존에는 불법촬영·도청 탐지나 비대면 시험감독에 활용되던 기술들이 AI 부정행위 대응...",
-          "src": "뉴스1",
+          "title": "남인천폴리텍, 미래 항공기술 인력 7명 배출",
+          "desc": "특히 국방부의 상용 드론 도입사업 등 무인항공기 활용이 확대되는 산업환경을 고려해 항공기와 소형... 항공모빌리티 분야를 비롯해 용접, 솔리드웍스, 인공지능(AI) 등 지역 산업체의 기술 수요를 반영한 교육과정을...",
+          "src": "livesnews",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/421/0009300387?sid=105",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/19/8223451/high.jpg"
+          "url": "https://www.livesnews.com/news/article.html?no=66218",
+          "img": "https://www.livesnews.com/data/photos/20261147/art_17951438887549_08f42b.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자 오늘 사장단 인사…전영현·노태문 유임 속 겸직 해소",
-      "url": "https://n.news.naver.com/mnews/article/031/0001076830?sid=101",
-      "img": "https://image.inews24.com/v1/3db12291cd3aa3.jpg"
+      "title": "삼성전자, 전영현·노태문 투톱 유지…사장 승진 3명 모두 반도체",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=783438",
+      "img": "https://cdn.slist.kr/news/thumbnail/202611/783438_1196245_554_v150.jpg"
     },
     {
       "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
