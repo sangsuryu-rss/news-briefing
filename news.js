@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.20 (금) 12:21",
+  "updatedAt": "2026.11.20 (금) 21:57",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 전영현·노태문 투톱 유지…사장 승진 3명 모두 반도체",
-          "desc": "삼성전자가 전영현·노태문 2인 대표이사 체제를 유지하면서 반도체 주요 사업부장과 기술 수장을... 노 사장에게는 스마트폰·가전·TV 등 세트 사업의 실적 반등이 요구된다. 글로벌 수요 부진에 대응해 비용을 줄이고...",
-          "src": "slist",
+          "title": "'검은 금요일' 삼전닉스 급락…잇단 손실에 \"대응 못 해\"",
+          "desc": "삼성전자와 TSMC가 중국 고객사에 일부 반도체 출하를 중단했다는 외신 보도까지 나왔습니다. 인공지능 개발용은 물론이고 스마트폰과 가전용 반도체까지 규제 대상에 포함되면서 수출 차질이 우려됩니다. 여기에...",
+          "src": "news",
           "date": "11/20",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=783438",
-          "img": "https://cdn.slist.kr/news/thumbnail/202611/783438_1196245_554_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/055/0001404638?sid=101",
+          "img": "https://img.sbs.co.kr/newimg/news/20261120/202242915_1280.jpg"
+        },
+        {
+          "title": "TCL, 韓에 '푸른빛' 미래 그린다…기술력 한판 승부",
+          "desc": "중국에서는 12㎏ 세탁물을 처리하는 일체형(콤보) 세탁건조기를 판매 중이지만 국내에서는 삼성전자와 LG전자가 이미 더 큰 용량의 일체형 제품을 대중화한 만큼 10㎏+10㎏ 제품으로 틈새를 공략할 것으로...",
+          "src": "econovill",
+          "date": "11/20",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=758002",
+          "img": "https://cdn.econovill.com/news/thumbnail/202611/758002_736047_2932_v150.jpg"
+        },
+        {
+          "title": "삼성전자, 글로벌 최저한세 뚫고 베트남서 '투자지원금' 확보…호찌민시...",
+          "desc": "SEHC는 삼성전자가 지난 2014년 호찌민시 하이테크파크에 설립한 가전제품 생산법인이다. 2016년 5월 공장 가동을 시작했으며 스마트TV와 냉장고, 세탁기 등을 생산하고 있다. 누적 투자액은 28억4000만 달러에 달하며 생산...",
+          "src": "더구루",
+          "date": "11/20",
+          "url": "https://www.theguru.co.kr/news/article.html?no=110028",
+          "img": "https://www.theguru.co.kr/data/photos/20261147/art_17951553967896_3c9223.jpg"
         },
         {
           "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "11/20",
           "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
           "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
-        },
-        {
-          "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
-          "desc": "이 같은 흐름 속에서 삼성전자와 LG전자도 휴머노이드의 정밀 조작 능력과 AI 학습 기술을 고도화하며... 미국 테네시 세탁기 공장에서는 바퀴형 클로이드를 활용해 세탁기 상판 운반과 부품 정렬·적재 등 생산공정에...",
-          "src": "뉴시스",
-          "date": "11/19",
-          "url": "https://n.news.naver.com/mnews/article/003/0014331445?sid=101",
-          "img": "https://img1.newsis.com/2026/11/04/NISI20261104_0021519179_web.jpg"
-        },
-        {
-          "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
-          "desc": "삼성전자와 LG전자는 프리미엄 스탠드형을 중심으로 기술과 디자인 경쟁을 벌이고 있다. 다나와 리서치가... 신일전자만이 아니다. 밥솥으로 알려진 쿠쿠는 냉장고뿐 아니라 세탁기까지 내놓았고, 자사 첫 건조기로...",
-          "src": "newsq",
-          "date": "11/17",
-          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500912",
-          "img": "https://cdn.newsq.co.kr/news/photo/202611/500912_579509_1457.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "수출 1조달러 넘어선 한국 기업들…신흥시장 제2의 성장판 키워",
-          "desc": "현지 협력사와 함께 20억달러를 투자해 연간 20만대 규모의 생산능력을 추가 확보하는 것이 골자다. 2030년 초... 삼성전자는 베트남을 스마트폰 등 전자제품의 핵심 생산기지로 운영하는 한편 현지 반도체 후공정 사업...",
-          "src": "press9",
+          "title": "앤트로픽 상장에 대박 낸 韓 기업들··· SKT·LG, 선제 투자 빛났다",
+          "desc": "위해 삼성전자의 2나노미터(㎚) 파운드리 공정과 첨단 패키징 기술 활용을 협의한 것으로 전해졌다. 최태원 SK그룹 회장도 앤트로픽이 SK하이닉스에 자체 칩 제작에 필요한 부품 공급을 요청했다고 밝힌 바 있다....",
+          "src": "greenpostkorea",
           "date": "11/20",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=86745",
-          "img": "http://www.press9.kr/news/thumbnail/202611/86745_98784_2539_v150.jpg"
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308113",
+          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202611/308113_312054_2144.png"
         },
         {
-          "title": "삼성전자 SOCAMM2로 AI 서버 메모리 혁신…삼성전기·엔비디아, 기판·ML...",
-          "desc": "엔비디아가 여러 지역의 협력사를 통해 기판과 패키징 생산능력을 동시에 확대하는 가운데 삼성전기는... 안정화 부품으로 넓어지고 있다. 삼성전자와 삼성전기의 최근 행보는 한국 반도체 산업이 이러한 변화...",
-          "src": "koreaittimes",
+          "title": "[화성 골드러시] ③ AI 옵티머스가 공장을 걷기 시작했다, 데이터로 돌아...",
+          "desc": "테슬라가 모델 S 라인을 옵티머스 라인으로 바꿨듯, 같은 설비와 협력사를 로봇으로 돌리는 전환 비용이 한국만큼 낮은 나라는 드물다. 현대차그룹의 보스턴다이나믹스와 삼성전자의 레인보우로보틱스가 그...",
+          "src": "동아일보",
           "date": "11/20",
-          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159338",
-          "img": "https://www.koreaittimes.com/news/thumbnail/202611/159338_108948_1152_v150.jpg"
+          "url": "https://it.donga.com/109970/",
+          "img": "https://it.donga.com/media/__sized__/images/2026/11/20/79f4f6e202e74053-thumbnail-960x540-70.jpg"
         },
         {
-          "title": "위기 속 중책 맡은 최원준 신임 삼성 MX사업부장, 수익성 개선이 과제",
-          "desc": "삼성전자가 지난 10월 부품협력사에 전달한 4분기 부품 발주량 전망치는 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄어든 것으로 알려졌다. (자료=카운터포인트) (자료=카운터포인트) 시장조사업체...",
-          "src": "ZDNet코리아",
+          "title": "[기업보안성적표] 10대 기업 외부 해킹 '철벽'...한전 정보유출 결과 주...",
+          "desc": "삼성전자는 올해 KISA 공시 기준으로 정보보호에 4,121억 원을 투자했다. 전년 3,478억 원보다 18.5% 늘렸고... 올해는 협력사에 네트워크 접근제어와 데이터유출방지 솔루션 구축을 지원해 부품 공급망 전체의 보안을...",
+          "src": "globale",
           "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/092/0002446198?sid=105",
-          "img": "https://image.zdnet.co.kr/2024/06/07/544783edba7ecfccdae135ec762d356c.jpg"
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41745",
+          "img": "https://cdn.globale.co.kr/news/thumbnail/202611/41745_69651_5437_v150.jpg"
         },
         {
-          "title": "키움증권 \"스페이스X 통신시장 진출에 삼성전자 낙점될까…RFHIC·LIG아큐...",
-          "desc": "중국 업체들이 공급망에서 배제될 경우 삼성전자를 비롯한 글로벌 통신장비 업체들이 국내 부품·장비업체를... 수혜 범위가 삼성전자 협력사에만 머물지 않을 가능성도 제기된다. 미국이 중국산 광트랜시버와...",
-          "src": "핀포인트뉴스",
+          "title": "스코프3 감축, 구매 협상까지 확대…애질런트 250명 교육·삼성전자 협력...",
+          "desc": "국내 삼성전자도 협력사 종합평가에 온실가스 관리 항목을 반영하고 있다. 배출량 산정과 감축목표 설정... 고객이 요구하는 제품별 탄소발자국을 산정하려면 원재료와 부품을 공급하는 협력사까지 배출정보를...",
+          "src": "impacton",
           "date": "11/20",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506171",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/506171_490950_507_v150.jpg"
+          "url": "https://www.impacton.net/news/articleView.html?idxno=30763",
+          "img": "https://cdn.impacton.net/news/photo/202611/30763_40849_1156.jpeg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "일본, 배터리 제조 기반 확충과 ESS 활용 다변화 추진",
-          "desc": "재생에너지 도입, 전력 수급 안정화, 에너지 안보 확보와 맞물려 사업 영역을 넓히고 있다. 배터리는 전동화와 탈탄소화를 뒷받침하는 핵심 기술인 동시에, 주요 소재 및 부품의 공급망 확보와 자원 재활용...",
-          "src": "dream",
+          "title": "청년 취업정보·고용정책 한자리에…청주·전주서 현장형 팝업스토어 열...",
+          "desc": "고용노동부는 청년들의 고용정책 활용도를 높이고 지역 일자리 정보를 제공하기 위해 청년고용정책... 사진=연합뉴스 제공 청주 행사에는 이틀 동안 다양한 제조·기술·바이오·항공 분야 기업이 참여한다. 20일에는 심텍...",
+          "src": "worktoday",
           "date": "11/20",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245076",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92415",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/92415_133032_5010_v150.jpg"
         },
         {
-          "title": "ASI 파운드리, 스탠퍼드대서 AI 포럼 개최…존 헤네시·지미 리 한국 AI ...",
-          "desc": "3%가 AI를 경영에 활용하지 못하고 있는 것으로 나타났다. 중소기업의 AI 활용률은 4.2%로 집계됐다.... 이를 통해 공장 진단부터 기술 적용과 확산까지 지원하고, 중견·중소 제조기업의 AI 도입 부담을 낮춘다는...",
-          "src": "epnc",
+          "title": "대한민국, UN 전자정부 평가 1위 탈환…AI 행정혁신으로 디지털 강국 입...",
+          "desc": "2014년 이후 12년 만에 1위를 되찾은 것으로, 디지털 행정서비스와 통신 기반시설, 국민의 디지털 활용 역량... 이를 뒷받침할 공공부문 AI 전문인력 육성도 주요 과제로 추진된다. 기술 도입에 따른 부작용을 예방하기 위한...",
+          "src": "worktoday",
           "date": "11/20",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410083",
-          "img": "https://cdn.epnc.co.kr/news/photo/202611/410083_410819_643.jpg"
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92408",
+          "img": "http://www.worktoday.co.kr/news/thumbnail/202611/92408_133030_4038_v150.jpg"
         },
         {
-          "title": "봉화군, 2027년 예산 6,980억 편성…농업·산림 중심 지역경제 전환 추진",
-          "desc": "축산 부산물을 재활용하는 자원순환체계를 확대하고 친환경 생산 기반을 조성해 축산업의 부가가치를... 행정업무에는 인공지능(AI) 기술을 단계적으로 도입한다. 인공지능 기반 민원 응대 시스템을 마련해 주민 편의를...",
-          "src": "newstown",
+          "title": "[제10회 대학생 아이디어 공모전] '지정학적 위기' 대응, 미래 금융세대...",
+          "desc": "인공지능(AI) 기술 발전에 따른 새로운 피해 등 급변하는 사회·경제 환경을 반영한 보험·금융상품 및... 이와 함께 ▲주요 해협의 선박 통항 지수를 활용해 해상 물류 차질을 보장하는 '해상 초크포인트 통항 지수...",
+          "src": "insnews",
           "date": "11/20",
-          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722741",
-          "img": "https://cdn.newstown.co.kr/news/thumbnail/202611/722741_679169_5049_v150.jpg"
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93963",
+          "img": "https://cdn.insnews.co.kr/news/photo/202611/93963_59139_1117.jpg"
         },
         {
-          "title": "남인천폴리텍, 미래 항공기술 인력 7명 배출",
-          "desc": "특히 국방부의 상용 드론 도입사업 등 무인항공기 활용이 확대되는 산업환경을 고려해 항공기와 소형... 항공모빌리티 분야를 비롯해 용접, 솔리드웍스, 인공지능(AI) 등 지역 산업체의 기술 수요를 반영한 교육과정을...",
-          "src": "livesnews",
+          "title": "[대학소식]경남정보대, 산업체 협력 넓히고 AI 역량 높인다",
+          "desc": "기업의 기술과 서비스 방식을 교육과정에 반영해 학생들이 재학 중 산업 현장을 경험한 뒤 취업으로... 교과목에도 AI 활용 교육을 도입하는 등 교육과 행정을 함께 전환하는 방안을 추진하고 있다. 주원식 부총장은...",
+          "src": "아주경제",
           "date": "11/20",
-          "url": "https://www.livesnews.com/news/article.html?no=66218",
-          "img": "https://www.livesnews.com/data/photos/20261147/art_17951438887549_08f42b.jpg"
+          "url": "https://www.ajunews.com/view/20261120205947742",
+          "img": "https://image.ajunews.com/content/image/2026/11/20/20261120210629102506.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 전영현·노태문 투톱 유지…사장 승진 3명 모두 반도체",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=783438",
-      "img": "https://cdn.slist.kr/news/thumbnail/202611/783438_1196245_554_v150.jpg"
+      "title": "'검은 금요일' 삼전닉스 급락…잇단 손실에 \"대응 못 해\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001404638?sid=101",
+      "img": "https://img.sbs.co.kr/newimg/news/20261120/202242915_1280.jpg"
+    },
+    {
+      "title": "TCL, 韓에 '푸른빛' 미래 그린다…기술력 한판 승부",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=758002",
+      "img": "https://cdn.econovill.com/news/thumbnail/202611/758002_736047_2932_v150.jpg"
+    },
+    {
+      "title": "삼성전자, 글로벌 최저한세 뚫고 베트남서 '투자지원금' 확보…호찌민시...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=110028",
+      "img": "https://www.theguru.co.kr/data/photos/20261147/art_17951553967896_3c9223.jpg"
     },
     {
       "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
       "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
       "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
-    },
-    {
-      "title": "'움직임' 넘어 '작업 능력' 경쟁…삼성·LG전자, CES 앞두고 로봇 기술 ...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014331445?sid=101",
-      "img": "https://img1.newsis.com/2026/11/04/NISI20261104_0021519179_web.jpg"
-    },
-    {
-      "title": "1인 가구 증가, 소형 김치냉장고 주도권 레이스 [뉴스Q]",
-      "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500912",
-      "img": "https://cdn.newsq.co.kr/news/photo/202611/500912_579509_1457.jpg"
     },
     {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
