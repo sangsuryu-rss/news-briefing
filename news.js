@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.21 (토) 06:50",
+  "updatedAt": "2026.11.21 (토) 12:13",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 튀르키예 COP31서 UNDP와 AI 교육성과 발표…이탈리아서 제품...",
-          "desc": "한편 삼성전자 이탈리아법인은 같은 날 '2026 아키프로덕츠 디자인 어워드(Archiproducts Design Awards)'에서 제품 4종이 수상했다고 발표했다. 수상 제품은 비스포크 AI 세탁기 9㎏ 모델, 윈드프리 프리미에르 플러스...",
-          "src": "sateconomy",
+          "title": "삼성전자도 결국 멈췄다...중국 '초비상'",
+          "desc": "삼성전자와 TSMC는 가전 고객사에도 출하 중단을 통보했다고 두 관계자가 전했다. 스마트폰 등 AI와 무관한 용도로 설계된 칩은 제한 대상에서 벗어난다고 인정하던 예외가 사라졌기 때문이다. 사안을 아는 한 변호사는...",
+          "src": "한국경제",
           "date": "11/21",
-          "url": "https://sateconomy.co.kr/news/view/1065539739999655",
-          "img": "http://sateconomy.co.kr/news/data/20261121/p1065539739999655_745_thum.jpeg"
+          "url": "https://n.news.naver.com/mnews/article/050/0000113572?sid=101",
+          "img": "https://img.hankyung.com/photo/202611/AD.46500554.1.jpg"
+        },
+        {
+          "title": "반도체 무게 둔 삼성, 가전·TV 힘 실은 LG…내년 사업 전략 윤곽",
+          "desc": "삼성전자와 LG전자가 주요 사업부 수장 인사와 조직개편을 단행하면서 양사의 2027 경영 전략 윤곽이... 1990년 금성사 입사 이후 세탁기·건조기·청소기 등을 생산·판매하는 리빙솔루션과 냉장고·정수기 등을 다루는...",
+          "src": "wolyo",
+          "date": "11/21",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320839",
+          "img": "https://cdn.wolyo.co.kr/news/photo/202611/320839_230263_918.jpg"
         },
         {
           "title": "로봇으로 광산 점검·음식 배달…인텔·엔비디아·퀄컴 ‘현장 AI’ 경쟁",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://files.mtn.co.kr/article-asset/2026/11/20/bc998232-a4a4-4619-885f-722061a4e512.png"
         },
         {
-          "title": "[Lawyter] 멕시코 주 40시간 근무, 2030년까지 단계 시행",
-          "desc": "삼성전자가 운영하는 케레타로 가전공장도 근로시간 단축의 영향을 받을 수 있는 대표적인 한국 기업의 생산시설이다. 삼성전자가 2024년 공개한 자료에 따르면 당시 해당 공장에는 3,000명 이상이 근무하고 있었으며...",
-          "src": "lawtimes",
-          "date": "11/21",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229777",
-          "img": "https://cdn.lawtimes.co.kr/news/photo/202611/229777_131243_1123.jpg"
-        },
-        {
-          "title": "TCL, 韓에 '푸른빛' 미래 그린다…기술력 한판 승부",
-          "desc": "중국에서는 12㎏ 세탁물을 처리하는 일체형(콤보) 세탁건조기를 판매 중이지만 국내에서는 삼성전자와 LG전자가 이미 더 큰 용량의 일체형 제품을 대중화한 만큼 10㎏+10㎏ 제품으로 틈새를 공략할 것으로...",
-          "src": "econovill",
+          "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
+          "desc": "삼성전자도 AI를 활용해 가전 구매 후 관리에 집중하고 있다. AI와 3차원(3D) 기술을 활용한 ‘맵뷰’는... 특히 로봇청소기 등 라이다 센서를 가진 제품을 등록하면 집의 구조와 크기를 측정해 실제 집과 유사한 형태로...",
+          "src": "서울신문",
           "date": "11/20",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=758002",
-          "img": "https://cdn.econovill.com/news/thumbnail/202611/758002_736047_2932_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
+          "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "이상일 ‘전력·용수·도로’ 혈맥 뚫자…31조원 용인 첫 팹, 내년 2월 클...",
+          "desc": "삼성전자가 팹 6기를 짓는 첨단시스템반도체 국가산업단지 역시 부지 조성 공사에 돌입하며 본격적인... 미니팹이 들어서면 협력사들은 실제 반도체 공정과 유사한 환경에서 소재와 장비를 시험할 수 있다. 양산 공장...",
+          "src": "view",
+          "date": "11/21",
+          "url": "https://n.news.naver.com/mnews/article/277/0005845878?sid=102",
+          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026112111315118284_1795228311.jpg"
+        },
+        {
           "title": "[핫이슈] 美 수출통제 발효에 엔비디아 서버 동남아 출하 중단…삼성 파...",
           "desc": "서버 협력사들이 동남아시아행 출하를 멈추고, 삼성전자와 대만 TSMC는 일부 중국 고객사 물량을 일시... 한 수동부품 업체 임원은 향후 최소 6개월간 공급 부족이 이어질 만큼 AI 서버 수요가 견조하다면서도 중장기...",
           "src": "the-today",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/20",
           "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308113",
           "img": "https://cdn.greenpostkorea.co.kr/news/photo/202611/308113_312054_2144.png"
-        },
-        {
-          "title": "[화성 골드러시] ③ AI 옵티머스가 공장을 걷기 시작했다, 데이터로 돌아...",
-          "desc": "테슬라가 모델 S 라인을 옵티머스 라인으로 바꿨듯, 같은 설비와 협력사를 로봇으로 돌리는 전환 비용이 한국만큼 낮은 나라는 드물다. 현대차그룹의 보스턴다이나믹스와 삼성전자의 레인보우로보틱스가 그...",
-          "src": "동아일보",
-          "date": "11/20",
-          "url": "https://it.donga.com/109970/",
-          "img": "https://it.donga.com/media/__sized__/images/2026/11/20/79f4f6e202e74053-thumbnail-960x540-70.jpg"
         }
       ]
     },
@@ -221,45 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "건설업계 미래 경쟁력 '생태계'…협력사 기술·인재 육성 확산",
-          "desc": "한 건설노조 관계자는 \"건설업계의 협력사 상생이 AI와 스마트 기술 도입에만 머물러서는 안 된다\"고 강조했다. 또 \"CCTV, GPS, 보디캠 등 스마트기기의 현장 보급도 중요하지만, 이를 활용해 현장 노동자들이 겪는 불편과...",
+          "title": "[인터뷰] 유니티·오픈AI \"AI 게임 시대, 개발자 역할과 역량이 더욱 중...",
+          "desc": "AI 게임잼에서는 오픈AI도 스폰서 및 멘토링으로 참가, 게임 개발 지망생과 개발자들이 AI를 효율적으로 도입... 엔진과 AI를 어떻게 함께 쓰시는지, 새로운 기술을 활용해 어떤 새로운 프로세스나 아이디어를...",
+          "src": "inven",
+          "date": "11/21",
+          "url": "https://m.sports.naver.com/esports/article/442/0000199108",
+          "img": "https://static.inven.co.kr/column/2026/11/21/news/i1947268846.jpg"
+        },
+        {
+          "title": "엔비디아·IBM, 양자컴 약점 AI로 메운다…과학 난제 '도전'",
+          "desc": "독일 기후컴퓨팅센터는 2028년 초 가동을 목표로 하는 차세대 슈퍼컴퓨터 HLRE-5에 베라 CPU를 도입하기로 했다. 이 장비는 엔비디아 GB200 그레이스 블랙웰 시스템도 함께 활용해 고해상도 기후 시뮬레이션과 AI 연구를...",
+          "src": "이데일리",
+          "date": "11/21",
+          "url": "https://n.news.naver.com/mnews/article/018/0006413484?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112100349.jpg"
+        },
+        {
+          "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의...",
+          "desc": "또 다른 예술가는 사족보행 로봇 ‘스팟(SPOT)’을 활용해 인간과 로봇이 협력하는 미래를 탐구했다.... ● “로봇 도입의 가장 큰 비용은 사회적 합의” 노 상무는 피지컬 AI 스타트업 투자에서도 기술력 못지않게 실제...",
+          "src": "동아일보",
+          "date": "11/21",
+          "url": "https://n.news.naver.com/mnews/article/020/0003764129?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/20/135043991.3.png"
+        },
+        {
+          "title": "[분석] 보험사 AI 활용 확대…업무 효율 높였지만 한계도 뚜렷",
+          "desc": "다만 보험사들의 AI 도입 성과와 별개로 보험 관련 업무 전체를 놓고 보면 기술적 활용 가능성에 비해 실제 사용 수준은 낮은 것으로 분석됐다. AI로 업무시간을 줄일 수 있는 분야는 많지만 실제 활용으로 이어지는 데는...",
           "src": "financialpost",
           "date": "11/21",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302296",
-          "img": "https://cdn.financialpost.co.kr/news/photo/202611/302296_404454_3544.jpg"
-        },
-        {
-          "title": "[인공지능 줌인] 기업용 AI로 화려하게 증시 데뷔한 앤트로픽…다음 격...",
-          "desc": "자금과 AI 모델의 급속한 발전, 그리고 일반 소비자 및 기업 전반으로 확산하는 도입 추세는 업계 전체에... 그는 \"앤트로픽은 자사 기술을 점점 더 많은 애플리케이션에 지속적으로 탑재할 것이며, 이는 고객 이탈이...",
-          "src": "wikileaks-kr",
-          "date": "11/21",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194982",
-          "img": "https://www.wikileaks-kr.org/news/thumbnail/202611/194982_213506_1636_v150.jpg"
-        },
-        {
-          "title": "앤트로픽에 투자하고 HBM 팔고 클로드 심는다…K기업의 AI 삼각 포석",
-          "desc": "글로벌 AI 모델 개발사와 일찍부터 협력 관계를 구축해 통신 산업의 AI 전환에 활용할 기술적 기반을... 운영할 기술 인력과 경험을 인정받았다는 의미다. 기업 고객을 대상으로 AI 도입 컨설팅부터 라이선스 공급...",
-          "src": "newsway",
-          "date": "11/21",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026112015524029384",
-          "img": "https://nimage.newsway.co.kr/photo/2026/11/09/20261109006372_1200.jpg"
-        },
-        {
-          "title": "300조원대로 내려 앉은 ETF 시장···상품 늘어도 투자 쏠림 심화",
-          "desc": "신규 ETF 165개 중 AI, 반도체, 로봇 등 기술 관련 테마의 상품이 73개로 전체 상품의 44.2% 비중을 차지했다.... 체계의 도입을 제안하는 목소리가 나온다. 최근 증권사들이 연금자산을 운용하기 위한 투자...",
-          "src": "sisajournal-e",
-          "date": "11/21",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425209",
-          "img": "https://cdn.sisajournal-e.com/news/thumbnail/202611/425209_242560_1121_v150.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302287",
+          "img": "https://cdn.financialpost.co.kr/news/photo/202611/302287_404450_2811.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 튀르키예 COP31서 UNDP와 AI 교육성과 발표…이탈리아서 제품...",
-      "url": "https://sateconomy.co.kr/news/view/1065539739999655",
-      "img": "http://sateconomy.co.kr/news/data/20261121/p1065539739999655_745_thum.jpeg"
+      "title": "삼성전자도 결국 멈췄다...중국 '초비상'",
+      "url": "https://n.news.naver.com/mnews/article/050/0000113572?sid=101",
+      "img": "https://img.hankyung.com/photo/202611/AD.46500554.1.jpg"
+    },
+    {
+      "title": "반도체 무게 둔 삼성, 가전·TV 힘 실은 LG…내년 사업 전략 윤곽",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320839",
+      "img": "https://cdn.wolyo.co.kr/news/photo/202611/320839_230263_918.jpg"
     },
     {
       "title": "로봇으로 광산 점검·음식 배달…인텔·엔비디아·퀄컴 ‘현장 AI’ 경쟁",
@@ -267,14 +272,9 @@ window.NEWS_DATA = {
       "img": "https://files.mtn.co.kr/article-asset/2026/11/20/bc998232-a4a4-4619-885f-722061a4e512.png"
     },
     {
-      "title": "[Lawyter] 멕시코 주 40시간 근무, 2030년까지 단계 시행",
-      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229777",
-      "img": "https://cdn.lawtimes.co.kr/news/photo/202611/229777_131243_1123.jpg"
-    },
-    {
-      "title": "TCL, 韓에 '푸른빛' 미래 그린다…기술력 한판 승부",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=758002",
-      "img": "https://cdn.econovill.com/news/thumbnail/202611/758002_736047_2932_v150.jpg"
+      "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
+      "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
     },
     {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
