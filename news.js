@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.21 (토) 12:13",
+  "updatedAt": "2026.11.21 (토) 21:42",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자도 결국 멈췄다...중국 '초비상'",
-          "desc": "삼성전자와 TSMC는 가전 고객사에도 출하 중단을 통보했다고 두 관계자가 전했다. 스마트폰 등 AI와 무관한 용도로 설계된 칩은 제한 대상에서 벗어난다고 인정하던 예외가 사라졌기 때문이다. 사안을 아는 한 변호사는...",
-          "src": "한국경제",
+          "title": "‘물티슈캡’ 버리지 말고 세탁기 옆에 둬보세요…이 쉬운 걸 다들 몰라...",
+          "desc": "삼성전자 서비스센터는 일부 대용량 모델 안내에서 먼지 필터를 물티슈나 키친타월 등으로 닦아내면 건조... 컨슈머리포트의 가전 담당 책임자가 설명한 대로 섬유유연제 시트와 세제 성분은 장기간 쓰면 필터 망에 보이지...",
+          "src": "wikitree",
           "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/050/0000113572?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/AD.46500554.1.jpg"
+          "url": "https://www.wikitree.co.kr/articles/1176320",
+          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/20/202611201452322718.jpg"
         },
         {
-          "title": "반도체 무게 둔 삼성, 가전·TV 힘 실은 LG…내년 사업 전략 윤곽",
-          "desc": "삼성전자와 LG전자가 주요 사업부 수장 인사와 조직개편을 단행하면서 양사의 2027 경영 전략 윤곽이... 1990년 금성사 입사 이후 세탁기·건조기·청소기 등을 생산·판매하는 리빙솔루션과 냉장고·정수기 등을 다루는...",
-          "src": "wolyo",
+          "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
+          "desc": "MSI의 27형 QHD 모니터와 삼성전자의 32형 4K 모니터 등 총 92대를 전시해 깊은 블랙 표현과 높은 명암비, 0.03ms... 점유율 14.3% 1위…로보락, 물걸레 시장도 접수 로봇청소기 강자로 자리 잡은 로보락이 국내 진공 물걸레...",
+          "src": "news",
           "date": "11/21",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320839",
-          "img": "https://cdn.wolyo.co.kr/news/photo/202611/320839_230263_918.jpg"
+          "url": "https://n.news.naver.com/mnews/article/648/0000052851?sid=101",
+          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+        },
+        {
+          "title": "성수동 팝업 3배나 늘린 中 TCL…'SQD 미니 LED'에 집중하는 이유",
+          "desc": "삼성전자와 LG전자가 적색·녹색·청색(RGB) LED를 백라이트 광원으로 사용하는 마이크로 RGB TV를 확대하는... 이번 팝업에서 TV와 모니터뿐 아니라 태블릿, 냉장고, 에어컨 등 다양한 제품군을 전시한 것도 이 같은...",
+          "src": "디지털데일리",
+          "date": "11/21",
+          "url": "https://n.news.naver.com/mnews/article/138/0002249445?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/11/20/2026112017202178851_l.jpg"
         },
         {
           "title": "로봇으로 광산 점검·음식 배달…인텔·엔비디아·퀄컴 ‘현장 AI’ 경쟁",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/21",
           "url": "https://news.mtn.co.kr/article/2026112014265942299",
           "img": "https://files.mtn.co.kr/article-asset/2026/11/20/bc998232-a4a4-4619-885f-722061a4e512.png"
-        },
-        {
-          "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
-          "desc": "삼성전자도 AI를 활용해 가전 구매 후 관리에 집중하고 있다. AI와 3차원(3D) 기술을 활용한 ‘맵뷰’는... 특히 로봇청소기 등 라이다 센서를 가진 제품을 등록하면 집의 구조와 크기를 측정해 실제 집과 유사한 형태로...",
-          "src": "서울신문",
-          "date": "11/20",
-          "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
-          "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
         }
       ]
     },
@@ -66,7 +66,7 @@ window.NEWS_DATA = {
           "src": "radiokorea",
           "date": "11/20",
           "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-          "img": ""
+          "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
         },
         {
           "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
@@ -221,50 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] 유니티·오픈AI \"AI 게임 시대, 개발자 역할과 역량이 더욱 중...",
-          "desc": "AI 게임잼에서는 오픈AI도 스폰서 및 멘토링으로 참가, 게임 개발 지망생과 개발자들이 AI를 효율적으로 도입... 엔진과 AI를 어떻게 함께 쓰시는지, 새로운 기술을 활용해 어떤 새로운 프로세스나 아이디어를...",
-          "src": "inven",
+          "title": "[AI 시대, 책임의 경계 上] 발전할수록 커지는 부작용…표류하는 책임",
+          "desc": "AI 악용 수법이 고도화하고 자율형 AI의 활용 범위가 확대되는 가운데, 사고 예방과 피해 복구에 필요한... 다만 AI 악용에 따른 사회적 비용이 모두 범죄자에게 귀속되는 것은 아니다. 이를 예방하기 위한 장비·기술 도입과...",
+          "src": "ekn",
           "date": "11/21",
-          "url": "https://m.sports.naver.com/esports/article/442/0000199108",
-          "img": "https://static.inven.co.kr/column/2026/11/21/news/i1947268846.jpg"
+          "url": "https://www.ekn.kr/web/view.php?key=20261121020552550",
+          "img": "https://www.ekn.kr/mnt/file/202611/rcv.YNA.20261118.PYH2026111820450006300_R.jpg"
         },
         {
-          "title": "엔비디아·IBM, 양자컴 약점 AI로 메운다…과학 난제 '도전'",
-          "desc": "독일 기후컴퓨팅센터는 2028년 초 가동을 목표로 하는 차세대 슈퍼컴퓨터 HLRE-5에 베라 CPU를 도입하기로 했다. 이 장비는 엔비디아 GB200 그레이스 블랙웰 시스템도 함께 활용해 고해상도 기후 시뮬레이션과 AI 연구를...",
-          "src": "이데일리",
+          "title": "네이버페이 및 네이버×Apple, 예비 새내기 대상 이벤트 소식 외",
+          "desc": "조성되며, AI 기술을 활용해 관광 분야에 진출하는 지역 기반 초기 기업을 발굴・육성하는 것을 목적으로... 이번 협약을 통해 양사는 대한안경사협회 산하 안경원 내 'Npay 커넥트'를 통한 디지털 결제 서비스 도입...",
+          "src": "gamevu",
           "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/018/0006413484?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112100349.jpg"
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62480",
+          "img": "https://cdn.gamevu.co.kr/news/photo/202611/62480_103472_5849.png"
         },
         {
-          "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의...",
-          "desc": "또 다른 예술가는 사족보행 로봇 ‘스팟(SPOT)’을 활용해 인간과 로봇이 협력하는 미래를 탐구했다.... ● “로봇 도입의 가장 큰 비용은 사회적 합의” 노 상무는 피지컬 AI 스타트업 투자에서도 기술력 못지않게 실제...",
-          "src": "동아일보",
+          "title": "블록체인 뜨는데…내 코인은 왜 안 오를까 [홍익희의 비트코인 이야기]",
+          "desc": "거래 정산 기반으로는 미국 코인베이스가 개발한 이더리움 확장망 블록체인 ‘베이스(Base)’가 활용됐으며... 기술 도입 뉴스가 나왔다고 거래소에 상장된 특정 코인이 자동으로 수혜를 입는 것은 아니다. 설령 코인이...",
+          "src": "매일경제",
           "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/020/0003764129?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/20/135043991.3.png"
+          "url": "https://n.news.naver.com/mnews/article/024/0000109801?sid=110",
+          "img": "https://static.mk.co.kr/2025/economy/images/economy600600.png"
         },
         {
-          "title": "[분석] 보험사 AI 활용 확대…업무 효율 높였지만 한계도 뚜렷",
-          "desc": "다만 보험사들의 AI 도입 성과와 별개로 보험 관련 업무 전체를 놓고 보면 기술적 활용 가능성에 비해 실제 사용 수준은 낮은 것으로 분석됐다. AI로 업무시간을 줄일 수 있는 분야는 많지만 실제 활용으로 이어지는 데는...",
-          "src": "financialpost",
+          "title": "AI로 신약개발 속도전…빅파마는 '시간 단축', 국내는 '성과 검증'",
+          "desc": "AI를 활용한 연구기간 단축 성과를 잇달아 공개하는 가운데 국내 기업들도 후보물질 설계와 기술이전, 연구 효율화 등에서 구체적인 사례를 쌓아가고 있다. AI 신약개발 경쟁의 무게중심도 기술 도입 자체에서 실험과...",
+          "src": "medipana",
           "date": "11/21",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302287",
-          "img": "https://cdn.financialpost.co.kr/news/photo/202611/302287_404450_2811.png"
+          "url": "https://www.medipana.com/news/articleView.html?idxno=422345",
+          "img": "https://cdn.medipana.com/news/photo/202611/422345_330380_4145.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자도 결국 멈췄다...중국 '초비상'",
-      "url": "https://n.news.naver.com/mnews/article/050/0000113572?sid=101",
-      "img": "https://img.hankyung.com/photo/202611/AD.46500554.1.jpg"
+      "title": "‘물티슈캡’ 버리지 말고 세탁기 옆에 둬보세요…이 쉬운 걸 다들 몰라...",
+      "url": "https://www.wikitree.co.kr/articles/1176320",
+      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/20/202611201452322718.jpg"
     },
     {
-      "title": "반도체 무게 둔 삼성, 가전·TV 힘 실은 LG…내년 사업 전략 윤곽",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320839",
-      "img": "https://cdn.wolyo.co.kr/news/photo/202611/320839_230263_918.jpg"
+      "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052851?sid=101",
+      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
+    },
+    {
+      "title": "성수동 팝업 3배나 늘린 中 TCL…'SQD 미니 LED'에 집중하는 이유",
+      "url": "https://n.news.naver.com/mnews/article/138/0002249445?sid=105",
+      "img": "https://www.ddaily.co.kr/photos/2026/11/20/2026112017202178851_l.jpg"
     },
     {
       "title": "로봇으로 광산 점검·음식 배달…인텔·엔비디아·퀄컴 ‘현장 AI’ 경쟁",
@@ -272,19 +277,14 @@ window.NEWS_DATA = {
       "img": "https://files.mtn.co.kr/article-asset/2026/11/20/bc998232-a4a4-4619-885f-722061a4e512.png"
     },
     {
-      "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
-      "img": "https://img.seoul.co.kr//img/upload/2026/11/19/SSC_20261119230843_O2.jpg"
+      "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
+      "url": "https://www.radiokorea.com/news/article.php?uid=510194",
+      "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
     },
     {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
       "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
-    },
-    {
-      "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
-      "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
-      "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
     }
   ]
 };
