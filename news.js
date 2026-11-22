@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.23 (월) 02:51",
+  "updatedAt": "2026.11.23 (월) 08:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "증시 급락에도 로봇주 강세…레인보우로보틱스 12% 상승",
-          "desc": "내년 초 열리는 세계 최대 가전·IT 전시회 CES 2027을 앞두고 휴머노이드와 피지컬 인공지능(AI)에 대한... 최건 한국투자증권 연구원은 최근 보고서에서 CES 2027의 주요 관전 요소로 삼성전자의 휴머노이드 공개 여부를...",
-          "src": "kjdaily",
+          "title": "[미래 주거의 조건/①]버튼 누르는 집에서 먼저 움직이는 집으로…AI홈...",
+          "desc": "생성형 AI가 가전과 주거 설비, 단지 내 서비스까지 연결하면서 미래 주거 경쟁의 중심도 단순한 스마트홈... 삼성전자는 이미 대규모 연결 생태계를 확보하는 데 주력하고 있다. 지난 10월 발표한 스마트싱스(SmartThings)...",
+          "src": "비즈니스플러스",
           "date": "11/23",
-          "url": "http://www.kjdaily.com/article.php?aid=1795362268693040276",
-          "img": ""
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=120267",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120267_122205_230_v150.jpg"
         },
         {
-          "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
-          "desc": "세탁기 부품을 생산하는 한 협력사는 부품 투입부터 사출, 절단, 배출까지 이어지는 공정을 자동화해 제품... 한편, 삼성전자도 중소·중견 제조기업의 생산공정 개선을 지원하는 스마트공장 구축 사업을 운영하고...",
-          "src": "srtimes",
-          "date": "11/22",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+          "title": "백화점서 1042억 더 벌고 6억 남았다···현대백화점 '지누스 블랙홀'",
+          "desc": "패션·가전·식품은 각각 7% 증가했다. 외국인 매출 증가율은 7월 86%, 8월 60%, 9월 30%로 둔화했으나 외국인... 하나증권은 삼성전자·SK하이닉스 임직원의 2027년 현금화 가능한 세후 성과급을 21조9000억원으로 추산했다....",
+          "src": "newsfreezone",
+          "date": "11/23",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720681",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720681_770275_5432_v150.jpg"
+        },
+        {
+          "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
+          "desc": "삼성전자와 LG전자는 폴란드에 유럽 가전 생산기지를 두고 있어 향후 제도 확정 범위에 따라 품목별 영향이 달라질 전망이다. 22일(현지시간) 외신 보도에 따르면 유럽가전협회(APPLiA)는 세탁기·냉장고·건조기뿐...",
+          "src": "the-today",
+          "date": "11/23",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
+          "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
         },
         {
           "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/22",
           "url": "https://www.news2day.co.kr/article/20261122500037",
           "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
-        },
-        {
-          "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
-          "desc": "배수 방식과 모델별 안내에 따라 남은 물 제거 겨울 베란다에 둔 의류건조기는 물통을 비워도 배수부나... 삼성전자서비스는 지난 19일 공개한 겨울철 결빙 안내에서 베란다 창문을 닫고, 사용 후 물통을 비우도록 권했다....",
-          "src": "vegannews",
-          "date": "11/22",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=409117",
-          "img": "https://www.vegannews.co.kr/data/photos/20261147/art_17952871272771.jpg"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
+          "desc": "\"3년 안에 흑자 낸다\" 부실 기아차를 떠안다 1998년 외환위기 당시 기아자동차는 자금난으로 법정관리를 받고 있었다. 현대차는 그해 10월 인수자로 선정됐지만 생산시설과 판매망 정비, 부품체계 통합 등 해결해야 할...",
+          "src": "파이낸셜뉴스",
+          "date": "11/23",
+          "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
+        },
         {
           "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
           "desc": "현대·기아차가 언론에 눈길을 끌었습니다. 현대자동차는 그동안 베일에 가려져 있던 새 엘란트라를 공개했습니다. 2027년형 엘란트라는 한층 강렬해진 외관과 운전자 중심의 실내 디자인이 특징입니다. 현대차는 철강...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/18",
           "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
           "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
-        },
-        {
-          "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
-          "desc": "강성호 금속노조 기아자동차지부장은 \"최근 5년간 현대차그룹사 정년퇴직자는 3만명에 육박하고 있으며 신규 충원은 미미했다\"고 주장했다. 촉탁직이나 베테랑 등의 명칭으로 퇴직자를 계약직 재고용하는 방식도...",
-          "src": "finomy",
-          "date": "11/17",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
-          "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "한국AI·로봇산업협회, 회원사 500곳 돌파",
+          "desc": "완제품과 부품을 만드는 기업, 반도체·AI 기업에 이어 공장과 물류센터에서 로봇을 쓰는 기업까지 회원사로 참여하고 있다. 회원사는 2024년 280여곳에서 2025년 말 376곳, 올해 4월에는 400곳을 넘었다. 현재 삼성전자(005930)...",
+          "src": "이데일리",
+          "date": "11/23",
+          "url": "https://n.news.naver.com/mnews/article/018/0006413882?sid=105",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300125.jpg"
+        },
+        {
+          "title": "[초점] 대기업 상생협력, 돈 풀기 넘어 기술·양산 문턱 낮춘다",
+          "desc": "총사업비 8746억원이 투입되는 이 시설은 소재·부품·장비(소부장) 기업이 개발한 기술을 실제 양산라인에... 삼성전자는 반도체 생산·연구시설의 미사용 설비를 협력사와 외부 연구기관에 제공하거나 할인된 가격으로...",
+          "src": "newsian",
+          "date": "11/23",
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101755",
+          "img": "https://cdn.newsian.co.kr/news/photo/202611/101755_102261_3345.png"
+        },
+        {
+          "title": "전차 수출 다음은 현지화⋯폴란드서 넓어지는 금융 영토 [K-금융, 경계를...",
+          "desc": "역 바로 앞 빌딩에는 거대한 삼성전자 간판이 낯선 도시에서 눈길을 끈다. 발걸음을 옮기니 폴란드 최대... 무기 도입은 현지 생산과 기술이전, 부품 조달로 이어진다. 한국 방산기업과 협력사는 폴란드에 생산 기반을...",
+          "src": "이투데이",
+          "date": "11/23",
+          "url": "https://www.etoday.co.kr/news/view/2650939",
+          "img": "https://img.etoday.co.kr/pto_db/2026/11/20261122172022_2421591_1200_2410.jpg"
+        },
+        {
           "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
           "desc": "부품 경쟁력이 제품 경쟁력으로 직결되듯 협력사의 경쟁력이 곧 LG전자의 경쟁력\"이라며 \"LG전자와 협력사가 함께 기존의 한계를 뛰어넘는 제조 혁신을 지속하며 미래 성장 기회를 만들어가자\"고 말했다. 한편, 삼성전...",
           "src": "srtimes",
           "date": "11/22",
           "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
           "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
-        },
-        {
-          "title": "공정 자동화부터 AI 도입까지…LG·삼성·SK, 협력사 '상생 3사 3색'",
-          "desc": "LG전자와 삼성전자, SK하이닉스가 협력사의 제조·기술 경쟁력을 높이는 상생협력을 강화하고 있다. 공정... 협력회는 LG전자 협력사들이 동반성장을 위해 구성한 자발적 협의체다. 이날 소개된 세탁기 부품 제조...",
-          "src": "아시아타임즈",
-          "date": "11/22",
-          "url": "https://www.asiatime.co.kr/article/20261122500071",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/11/22/.cache/512/20261122500068.jpg"
-        },
-        {
-          "title": "칩플레이션에 원자잿값 부담까지… 부품업계 비용 수조원 증가",
-          "desc": "업계에서는 반도체 가격 상승에 따른 원가 부담이 1차 협력사를 넘어 2·3차 협력사로 번지는 이른바... 원가 부담은 부품을 공급받는 완제품 업체에서도 나타나고 있다. 삼성전자의 올해 3분기 누적 원재료 비용은...",
-          "src": "newscj",
-          "date": "11/22",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3451021",
-          "img": "https://cdn.newscj.com/news/thumbnail/202611/3451021_3578681_3759_v150.jpg"
-        },
-        {
-          "title": "AI 칩 지각변동·EU 규제 쇼크···연말 공급망 '초비상'",
-          "desc": "벌이는 삼성전자 역시 새로운 경쟁 구도에 놓였다. 국내 반도체 소재·부품·장비(소부장) 업계도 기존... 3%가 협력사에 탄소 배출 데이터를 요구하고 있다. 하지만 인력과 예산이 부족한 중소 협력사들이 전산...",
-          "src": "newsfreezone",
-          "date": "11/22",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648",
-          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720648_770234_116_v150.jpg"
         }
       ]
     },
@@ -221,45 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[인터뷰] 김송현 시에라베이스 대표 \"사람이 오르던 굴뚝, 이제 드론이...",
-          "desc": "40만 장 이상의 손상 데이터로 학습한 AI는 촬영 조건이 확보된 영상에서 폭 0.3mm 균열까지 잡아낸다. 회사는 도입 효과로 점검 시간 80% 단축, 인력·비용 50% 절감을 제시한다. 김 대표는 \"그동안 자동 점검 기술이 현장에...",
-          "src": "irobotnews",
+          "title": "국산 NPU 상용 시대 열었다...리벨리온, SKT에 '리벨' 칩 서버 40대 공급",
+          "desc": "리벨-100 서버.(사진=리벨리온) 이번 공급은 단순 기술검증(PoC)이나 연구용 테스트를 넘어, 실제 상용 서비스 인프라에 국산 NPU가 전격 배치된다는 점에서 의미가 크다. 도입 물량의 70~80% 수준은 SK텔레콤의 AI...",
+          "src": "ZDNet코리아",
           "date": "11/23",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49700",
-          "img": "https://cdn.irobotnews.com/news/photo/202611/49700_105841_716.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002446370?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/11/23/2090ac71bae5fee3e5948e00b6253460.png"
         },
         {
-          "title": "기술 유출 없이 AI를 이용하려면[MT시평/장항배]",
-          "desc": "기술정보가 어디에 저장되고, 누가 접근하며, 어떤 목적으로 쓰이는지 확인하기 어렵다면 기업은 AI 도입을 망설일 수밖에 없다. 결국 중요한 것은 AI 활용을 막는 것이 아니라, 기술정보를 안전하게 보호하면서 활용할 수...",
-          "src": "머니투데이",
+          "title": "디지털 교육 앞서가던 노르웨이, 다시 종이책 꺼냈다...왜",
+          "desc": "도입하는 방향을 제시했다. 고등학교에서는 학생들이 향후 학업과 직업생활에 대비해 AI를 적절하게 활용하... 다만 기술 사용을 제한하는 것만으로 근본적인 문제가 해결되지는 않는다는 지적도 나온다....",
+          "src": "ZDNet코리아",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/008/0005444675?sid=110",
-          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111809082422038_1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/092/0002446369?sid=105",
+          "img": "https://image.zdnet.co.kr/2026/11/23/f2ad9d7c730ba7c12c8eb7489d7b9529.jpg"
         },
         {
-          "title": "팔란티어 주가 6.63% 하락…방산 AI 협력 확대에도 투자심리 위축",
-          "desc": "이러한 기술이 주목받고 있다. AI 분석 기능을 활용하면서도 핵심 데이터와 운영 환경에 대한 관리 권한을... 그러나 공개된 발표 자료에서는 새롭게 체결된 계약의 금액이나 고객사, 실제 시스템 도입 일정이 제시되지...",
-          "src": "jemin",
+          "title": "성남시, '2026 복지×에이지테크 커넥트'서 돌봄모델 논의",
+          "desc": "첨단기술을 활용한 돌봄모델을 모색하는 '2026 복지×에이지테크 커넥트' 포럼을 개최한다.... 성남시 관계자는 \"이번 포럼이 인공지능(AI) 등 첨단기술의 복지현장 도입 가능성과 과제를 살펴보고, 돌봄 관련 기관과 기업 간...",
+          "src": "m-i",
           "date": "11/23",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=848106",
-          "img": "https://cdn.jemin.com/news/thumbnail/202611/848106_435644_3821_v150.jpg"
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2021837",
+          "img": "https://cdn.m-i.kr/news/photo/202611/2021837_2022572_326.jpg"
         },
         {
-          "title": "지멘스·애지봇, AI 에이전트 활용한 휴머노이드 로봇 그리퍼 설계 기술...",
-          "desc": "인공지능(AI) 에이전트를 활용한 로봇 그리퍼 자동 설계 기술을 선보였다. 지멘스는 지난 16일(현지시간)... 이와 함께 적층제조 분야의 산업용 AI 도입을 지원하는 'AM I 내비게이터(AM I Navigator)'도 강화했다. 이...",
-          "src": "irobotnews",
+          "title": "대전시, AI 기반 '119 의료정보조회 챗봇' 선보여",
+          "desc": "올해 AI 기반 증상분석 기능을 도입하고 서비스 범위를 전국으로 확대했다. 외국어 지원도 기존보다 강화해... 임재진 기획조정실장은 \"AI 기술을 활용해 시민의 안전과 편의를 높이는 대전시의 혁신 성과를 전국에...",
+          "src": "뉴스1",
           "date": "11/23",
-          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49728",
-          "img": "https://cdn.irobotnews.com/news/photo/202611/49728_105875_1320.jpg"
+          "url": "https://n.news.naver.com/mnews/article/421/0009303948?sid=102",
+          "img": "https://i3n.news1.kr/system/photos/2026/11/23/8227292/high.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
-      "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+      "title": "[미래 주거의 조건/①]버튼 누르는 집에서 먼저 움직이는 집으로…AI홈...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120267",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120267_122205_230_v150.jpg"
+    },
+    {
+      "title": "백화점서 1042억 더 벌고 6억 남았다···현대백화점 '지누스 블랙홀'",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720681",
+      "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720681_770275_5432_v150.jpg"
+    },
+    {
+      "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
+      "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
     },
     {
       "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
@@ -267,24 +277,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
     },
     {
-      "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=409117",
-      "img": "https://www.vegannews.co.kr/data/photos/20261147/art_17952871272771.jpg"
+      "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
     },
     {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
       "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
-    },
-    {
-      "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
-      "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
-      "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
-    },
-    {
-      "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
-      "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
     }
   ]
 };
