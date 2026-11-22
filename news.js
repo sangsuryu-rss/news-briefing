@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.22 (일) 18:55",
+  "updatedAt": "2026.11.23 (월) 02:51",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성 4대 베트남법인 올 9월까지 매출 83조원",
-          "desc": "22일 삼성전자 3·4분기 연결재무제표에 따르면 △삼성전자 베트남 타이응우옌(SEVT) △삼성전자 베트남(SEV) △삼성디스플레이 베트남(SDV) △삼성전자 호찌민 가전복합단지(SEHC) 등 4대 법인의 올해 9개월...",
-          "src": "파이낸셜뉴스",
-          "date": "11/22",
-          "url": "https://n.news.naver.com/mnews/article/014/0005607844?sid=101",
-          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+          "title": "증시 급락에도 로봇주 강세…레인보우로보틱스 12% 상승",
+          "desc": "내년 초 열리는 세계 최대 가전·IT 전시회 CES 2027을 앞두고 휴머노이드와 피지컬 인공지능(AI)에 대한... 최건 한국투자증권 연구원은 최근 보고서에서 CES 2027의 주요 관전 요소로 삼성전자의 휴머노이드 공개 여부를...",
+          "src": "kjdaily",
+          "date": "11/23",
+          "url": "http://www.kjdaily.com/article.php?aid=1795362268693040276",
+          "img": ""
         },
         {
           "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
@@ -221,46 +221,41 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "이 와중에 또… 경비지도사 시험 부정행위 6건 [‘AI 커닝’ 후폭풍]",
-          "desc": "정부는 국가자격시험 감독 강화에 더해 국가기술자격증 불법 대여 범죄도 이참에 뿌리 뽑겠다는 계획이다.... 나머지 5명은 첨단기기 활용 부정행위 감시 전문인력인 ‘AI 인스펙터’가 잡아냈다. 정부의 ‘감독 강화’...",
-          "src": "segye",
-          "date": "11/22",
-          "url": "https://n.news.naver.com/mnews/article/022/0004177163?sid=102",
-          "img": "https://www.segye.com/content/image/2026/11/22/20261122509395.jpg"
+          "title": "[인터뷰] 김송현 시에라베이스 대표 \"사람이 오르던 굴뚝, 이제 드론이...",
+          "desc": "40만 장 이상의 손상 데이터로 학습한 AI는 촬영 조건이 확보된 영상에서 폭 0.3mm 균열까지 잡아낸다. 회사는 도입 효과로 점검 시간 80% 단축, 인력·비용 50% 절감을 제시한다. 김 대표는 \"그동안 자동 점검 기술이 현장에...",
+          "src": "irobotnews",
+          "date": "11/23",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49700",
+          "img": "https://cdn.irobotnews.com/news/photo/202611/49700_105841_716.jpg"
         },
         {
-          "title": "[인터뷰]박균택 더불어민주당 국회의원 “군공항 이전·반도체 산단 조...",
-          "desc": "등에 활용할 수 있도록 했다. 또한 ‘부패재산의 몰수 및 회복에 관한 특례법’ 개정안을 통과시켜... 핵심기술 보호를 함께 추진하겠다. 아울러 독립몰수제 도입을 계기로 전두환·노태우 일가와 헌정질서 파괴범죄자들의...",
-          "src": "kjdaily",
-          "date": "11/22",
-          "url": "http://www.kjdaily.com/article.php?aid=1795340510693131052",
-          "img": ""
+          "title": "기술 유출 없이 AI를 이용하려면[MT시평/장항배]",
+          "desc": "기술정보가 어디에 저장되고, 누가 접근하며, 어떤 목적으로 쓰이는지 확인하기 어렵다면 기업은 AI 도입을 망설일 수밖에 없다. 결국 중요한 것은 AI 활용을 막는 것이 아니라, 기술정보를 안전하게 보호하면서 활용할 수...",
+          "src": "머니투데이",
+          "date": "11/23",
+          "url": "https://n.news.naver.com/mnews/article/008/0005444675?sid=110",
+          "img": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111809082422038_1.jpg"
         },
         {
-          "title": "[사설] 교육부 장관 교체, 시험과 교육 개혁의 시작 계기로",
-          "desc": "하루라도 신속한 기술적 대응으로 시험의 공정성을 확보해야 한다. 다음으로 정부가 AI를 활용한 부정행위에... 이렇게 대응할 수 있는 일이었는데, 사태가 심각해지자 현장에 도입했다는 게 문제다. 충분히 예측 가능한...",
-          "src": "파이낸셜뉴스",
-          "date": "11/22",
-          "url": "https://n.news.naver.com/mnews/article/014/0005607916?sid=110",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/22/202611221843565485_e.jpg"
-        },
-        {
-          "title": "AI가 찾아낸 보안 결함에 전산망 비상…미국 금융·항공 시스템 잇단 장...",
-          "desc": "이제는 AI 도구를 활용해 훨씬 짧은 시간에 찾아낼 수 있다. 문제는 발견되는 결함이 늘어날수록 이를... 보안 기술의 도입만큼 시스템 변경에 따른 위험을 사전에 점검하는 절차도 중요하다고 강조한다. AI가 디지털...",
+          "title": "팔란티어 주가 6.63% 하락…방산 AI 협력 확대에도 투자심리 위축",
+          "desc": "이러한 기술이 주목받고 있다. AI 분석 기능을 활용하면서도 핵심 데이터와 운영 환경에 대한 관리 권한을... 그러나 공개된 발표 자료에서는 새롭게 체결된 계약의 금액이나 고객사, 실제 시스템 도입 일정이 제시되지...",
           "src": "jemin",
-          "date": "11/22",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=848096",
-          "img": "https://cdn.jemin.com/news/thumbnail/202611/848096_435633_402_v150.jpg"
+          "date": "11/23",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848106",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/848106_435644_3821_v150.jpg"
+        },
+        {
+          "title": "지멘스·애지봇, AI 에이전트 활용한 휴머노이드 로봇 그리퍼 설계 기술...",
+          "desc": "인공지능(AI) 에이전트를 활용한 로봇 그리퍼 자동 설계 기술을 선보였다. 지멘스는 지난 16일(현지시간)... 이와 함께 적층제조 분야의 산업용 AI 도입을 지원하는 'AM I 내비게이터(AM I Navigator)'도 강화했다. 이...",
+          "src": "irobotnews",
+          "date": "11/23",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=49728",
+          "img": "https://cdn.irobotnews.com/news/photo/202611/49728_105875_1320.jpg"
         }
       ]
     }
   ],
   "ranking": [
-    {
-      "title": "삼성 4대 베트남법인 올 9월까지 매출 83조원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607844?sid=101",
-      "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
-    },
     {
       "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
       "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
@@ -285,6 +280,11 @@ window.NEWS_DATA = {
       "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
       "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
       "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
+    },
+    {
+      "title": "\"대통령 약속 이행하라\"···현대차그룹 노조, 정부·그룹에 정년연장...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=266985",
+      "img": "https://cdn.finomy.com/news/thumbnail/202611/266985_260802_935_v150.jpg"
     }
   ]
 };
