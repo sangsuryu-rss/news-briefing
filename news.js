@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.22 (일) 05:32",
+  "updatedAt": "2026.11.22 (일) 11:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,12 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "전 USTR 부대표·미 상무부·정보기술업계, 한국 디지털 규제 잇단 경고...",
-          "desc": "마란티스 전 부대표는 1990년대에는 가전과 자동차 분야의 차별적 관행이 쟁점이었고, 조지 W. 부시 행정부가... 그는 미국에서 현대자동차의 기록적인 판매와 삼성전자의 성공을 보면서 미국 기업이 한국에서 같은...",
-          "src": "asiatoday",
+          "title": "CES 가까워지자 로봇주 약진",
+          "desc": "가전·정보기술(IT) 전시회 'CES 2027'을 앞두고 국내 증시에서 로봇 관련주가 강세를 보이고 있다. 최근 코스피와 코스닥이 동반 급락한 가운데서도 주요 로봇 기업의 주가는 두 자릿수 상승률을 기록했다. 삼성전자의...",
+          "src": "이데일리",
           "date": "11/22",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008223",
-          "img": "https://img.asiatoday.co.kr/file/2026y/11m/22d/2026112201001528200082231.jpg"
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366436",
+          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/366436_301460_2129_v150.jpg"
         },
         {
           "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
@@ -66,7 +66,7 @@ window.NEWS_DATA = {
           "src": "radiokorea",
           "date": "11/20",
           "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-          "img": ""
+          "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
         },
         {
           "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "AI 칩 지각변동·EU 규제 쇼크···연말 공급망 '초비상'",
+          "desc": "벌이는 삼성전자 역시 새로운 경쟁 구도에 놓였다. 국내 반도체 소재·부품·장비(소부장) 업계도 기존... 3%가 협력사에 탄소 배출 데이터를 요구하고 있다. 하지만 인력과 예산이 부족한 중소 협력사들이 전산...",
+          "src": "newsfreezone",
+          "date": "11/22",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648",
+          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720648_770234_116_v150.jpg"
+        },
+        {
           "title": "이상일 ‘전력·용수·도로’ 혈맥 뚫자…31조원 용인 첫 팹, 내년 2월 클...",
           "desc": "삼성전자가 팹 6기를 짓는 첨단시스템반도체 국가산업단지 역시 부지 조성 공사에 돌입하며 본격적인... 미니팹이 들어서면 협력사들은 실제 반도체 공정과 유사한 환경에서 소재와 장비를 시험할 수 있다. 양산 공장...",
           "src": "view",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/21",
           "url": "https://n.news.naver.com/mnews/article/353/0000057336?sid=102",
           "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202611/21/b85f8e86-af35-4bc1-ab10-5c4ac06bcf04.jpg"
-        },
-        {
-          "title": "앤트로픽 상장에 대박 낸 韓 기업들··· SKT·LG, 선제 투자 빛났다",
-          "desc": "위해 삼성전자의 2나노미터(㎚) 파운드리 공정과 첨단 패키징 기술 활용을 협의한 것으로 전해졌다. 최태원 SK그룹 회장도 앤트로픽이 SK하이닉스에 자체 칩 제작에 필요한 부품 공급을 요청했다고 밝힌 바 있다....",
-          "src": "greenpostkorea",
-          "date": "11/20",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308113",
-          "img": "https://cdn.greenpostkorea.co.kr/news/photo/202611/308113_312054_2144.png"
         }
       ]
     },
@@ -221,45 +221,45 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "골프공 하나 주웠을 뿐인데 월 500만원?…잠수부·AI까지 뛰어든 ‘이 시...",
-          "desc": "특허 등록이 실제 현장 도입이나 상용화를 뜻하는 것은 아니다. 다만 AI를 활용한 품질 분류부터 QR 기반 제품 정보, 무인매장 유통까지 로스트볼 산업의 자동화를 겨냥한 기술이 등장했다는 점에서 주목된다....",
-          "src": "segye",
+          "title": "류재철 LG전자 CEO \"한계 넘는 제조 혁신으로 미래 기회 만들자\"",
+          "desc": "LG전자 경영진과 협력사 대표들이 한자리에 모여 공정 자동화와 인공지능(AI) 등 신기술 도입을 통한 제조... 제조 현장에서는 방대한 공정 데이터를 분석하고 작업자에게 필요한 정보를 요약·제공하는 데 활용된다....",
+          "src": "todayenergy",
           "date": "11/22",
-          "url": "https://n.news.naver.com/mnews/article/022/0004177028?sid=101",
-          "img": "https://www.segye.com/content/image/2026/11/22/20261122500425.png"
+          "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305889",
+          "img": "https://cdn.todayenergy.kr/news/thumbnail/202611/305889_179142_717_v150.jpg"
         },
         {
-          "title": "[2027 증시 앵글 ⑤] 최도연 SK증권 센터장 “반도체, 성장주 아닌 가치...",
-          "desc": "인공지능(AI) 도입에 따른 생산성 개선이 산업 전반으로 확산될 경우 1만1000선까지도 도달할 수 있다는... AI 활용이 비정보기술(IT) 산업으로 확산돼 생산성 개선이 확인된다면 상단을 약 1만1000선까지 열어둘 수 있다는...",
-          "src": "news2day",
+          "title": "김치 제조에 AI 접목…비건 제품으로 세계화 ‘시동’",
+          "desc": "제조기술 개선과 현지 맞춤형 제품 개발에 나선다. 인공지능(AI)을 활용해 제조공정을 자동화하고 김치의... 해외 유통 과정에서 김치가 익는 속도를 조절하는 기술도 고도화한다. 제조공정에는 AI와 푸드테크를 도입한다....",
+          "src": "디지털타임스",
           "date": "11/22",
-          "url": "https://www.news2day.co.kr/article/20261119500127",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/19/.cache/512/20261119500126.png"
+          "url": "https://n.news.naver.com/mnews/article/029/0003060397?sid=101",
+          "img": "https://wimg.dt.co.kr/news/cms/2026/11/22/news-p.v1.20261122.93775d43154f4c74a2443b74e4f5c351_R.jpeg"
         },
         {
-          "title": "“변별력 괴물 된 수능, 차라리 없애는 게 낫다”… ‘수능 창시자: 한...",
-          "desc": "제도 도입 초기 현장에 있었던 인물들의 증언을 교차하며 시험이 변질된 구조적 원인을 추적한다. 교과서 밖 출제 논란과 사교육 팽창, 그리고 최근 치러진 2027학년도 수능 직후 불거진 인공지능(AI) 및 전자기기 활용...",
-          "src": "news-s",
+          "title": "세종대 경영전문대학원, 'AI 기술경영 DBA' 과정 입학설명회 개최",
+          "desc": "세종대학교(총장 엄종화) 경영전문대학원이 2027학년도부터 인공지능(AI) 기술과 기업 경영을 접목한 실무... 이론을 활용해 실질적인 해결 방안을 도출하는 데 초점을 맞춘다\"고 설명했다. 이어 \"기업에 도입한 AI...",
+          "src": "enewstoday",
           "date": "11/22",
-          "url": "https://news-s.kr/view.html?id=L2611220228488059",
-          "img": "https://www.suwonilbo.kr/img/write/p574b6e8b6737305a53ef0fbca124f1a453fc11e7.png"
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495453",
+          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202611/2495453_1342780_856_v150.jpg"
         },
         {
-          "title": "[뉴스이슈&비즈] SK, 울산서 'AI 전력전쟁' 첫발…15GW 승부수",
-          "desc": "◇ MBK, 갤럭시 S펜 기술기업 와콤 1조1,600억원 인수 MBK파트너스가 삼성전자 갤럭시 S펜의 핵심 기술... AI 빵 스캐너를 통한 결제와 네이버페이 안면인식 결제 서비스도 도입됐다. 페이스사인으로 결제한...",
-          "src": "issuenbiz",
+          "title": "LG전자 류재철 대표 \"협력사와 제조 혁신 지속해 미래 성장 기회 만들자...",
+          "desc": "엑사원 기반 AI 에이전트도 도입했다. 이를 통해 생산량과 불량률 등 현장 데이터를 간편하게 확인할 수 있도록 제조 현장의 데이터 활용 역량을 높였다. LG전자는 협력사의 제조 경쟁력을 높이기 위한 지원도 확대하고...",
+          "src": "비즈니스포스트",
           "date": "11/22",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81863",
-          "img": "https://cdn.issuenbiz.com/news/thumbnail/202611/81863_82496_2119_v150.jpg"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452579",
+          "img": "https://www.businesspost.co.kr/news/photo/202611/20261122110213_188605.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "전 USTR 부대표·미 상무부·정보기술업계, 한국 디지털 규제 잇단 경고...",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008223",
-      "img": "https://img.asiatoday.co.kr/file/2026y/11m/22d/2026112201001528200082231.jpg"
+      "title": "CES 가까워지자 로봇주 약진",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366436",
+      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/366436_301460_2129_v150.jpg"
     },
     {
       "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
@@ -277,14 +277,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
     },
     {
+      "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
+      "url": "https://www.radiokorea.com/news/article.php?uid=510194",
+      "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
+    },
+    {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
       "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
-    },
-    {
-      "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
-      "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
-      "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
     }
   ]
 };
