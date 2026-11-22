@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.22 (일) 11:16",
+  "updatedAt": "2026.11.22 (일) 18:55",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "CES 가까워지자 로봇주 약진",
-          "desc": "가전·정보기술(IT) 전시회 'CES 2027'을 앞두고 국내 증시에서 로봇 관련주가 강세를 보이고 있다. 최근 코스피와 코스닥이 동반 급락한 가운데서도 주요 로봇 기업의 주가는 두 자릿수 상승률을 기록했다. 삼성전자의...",
-          "src": "이데일리",
+          "title": "삼성 4대 베트남법인 올 9월까지 매출 83조원",
+          "desc": "22일 삼성전자 3·4분기 연결재무제표에 따르면 △삼성전자 베트남 타이응우옌(SEVT) △삼성전자 베트남(SEV) △삼성디스플레이 베트남(SDV) △삼성전자 호찌민 가전복합단지(SEHC) 등 4대 법인의 올해 9개월...",
+          "src": "파이낸셜뉴스",
           "date": "11/22",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366436",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/366436_301460_2129_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005607844?sid=101",
+          "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+        },
+        {
+          "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
+          "desc": "세탁기 부품을 생산하는 한 협력사는 부품 투입부터 사출, 절단, 배출까지 이어지는 공정을 자동화해 제품... 한편, 삼성전자도 중소·중견 제조기업의 생산공정 개선을 지원하는 스마트공장 구축 사업을 운영하고...",
+          "src": "srtimes",
+          "date": "11/22",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+        },
+        {
+          "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
+          "desc": "한국전자정보통신산업진흥회에 따르면, 삼성전자의 지난해 세계 로봇청소기 판매량 점유율은 1.4%였다. 다만 글로벌 로봇시장은 아직 태동기라는 점에서 가능성은 무궁무진하다. 같은 분기 세계 로봇청소기 출하량은...",
+          "src": "news2day",
+          "date": "11/22",
+          "url": "https://www.news2day.co.kr/article/20261122500037",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
         },
         {
           "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
@@ -35,22 +51,6 @@ window.NEWS_DATA = {
           "date": "11/22",
           "url": "https://www.vegannews.co.kr/news/article.html?no=409117",
           "img": "https://www.vegannews.co.kr/data/photos/20261147/art_17952871272771.jpg"
-        },
-        {
-          "title": "‘물티슈캡’ 버리지 말고 세탁기 옆에 둬보세요…이 쉬운 걸 다들 몰라...",
-          "desc": "건조기·세탁기 옆 시트 수거함방법은 접착면이 있는 캡을 건조기나 세탁기 본체 옆면처럼 손이 닿기 쉬운... 삼성전자 서비스센터는 일부 대용량 모델 안내에서 먼지 필터를 물티슈나 키친타월 등으로 닦아내면 건조...",
-          "src": "wikitree",
-          "date": "11/21",
-          "url": "https://www.wikitree.co.kr/articles/1176320",
-          "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/20/202611201452322718.jpg"
-        },
-        {
-          "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
-          "desc": "MSI의 27형 QHD 모니터와 삼성전자의 32형 4K 모니터 등 총 92대를 전시해 깊은 블랙 표현과 높은 명암비, 0.03ms... 점유율 14.3% 1위…로보락, 물걸레 시장도 접수 로봇청소기 강자로 자리 잡은 로보락이 국내 진공 물걸레...",
-          "src": "news",
-          "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/648/0000052851?sid=101",
-          "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
         }
       ]
     },
@@ -66,7 +66,7 @@ window.NEWS_DATA = {
           "src": "radiokorea",
           "date": "11/20",
           "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-          "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
+          "img": ""
         },
         {
           "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
+          "desc": "부품 경쟁력이 제품 경쟁력으로 직결되듯 협력사의 경쟁력이 곧 LG전자의 경쟁력\"이라며 \"LG전자와 협력사가 함께 기존의 한계를 뛰어넘는 제조 혁신을 지속하며 미래 성장 기회를 만들어가자\"고 말했다. 한편, 삼성전...",
+          "src": "srtimes",
+          "date": "11/22",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+        },
+        {
+          "title": "공정 자동화부터 AI 도입까지…LG·삼성·SK, 협력사 '상생 3사 3색'",
+          "desc": "LG전자와 삼성전자, SK하이닉스가 협력사의 제조·기술 경쟁력을 높이는 상생협력을 강화하고 있다. 공정... 협력회는 LG전자 협력사들이 동반성장을 위해 구성한 자발적 협의체다. 이날 소개된 세탁기 부품 제조...",
+          "src": "아시아타임즈",
+          "date": "11/22",
+          "url": "https://www.asiatime.co.kr/article/20261122500071",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/11/22/.cache/512/20261122500068.jpg"
+        },
+        {
+          "title": "칩플레이션에 원자잿값 부담까지… 부품업계 비용 수조원 증가",
+          "desc": "업계에서는 반도체 가격 상승에 따른 원가 부담이 1차 협력사를 넘어 2·3차 협력사로 번지는 이른바... 원가 부담은 부품을 공급받는 완제품 업체에서도 나타나고 있다. 삼성전자의 올해 3분기 누적 원재료 비용은...",
+          "src": "newscj",
+          "date": "11/22",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3451021",
+          "img": "https://cdn.newscj.com/news/thumbnail/202611/3451021_3578681_3759_v150.jpg"
+        },
+        {
           "title": "AI 칩 지각변동·EU 규제 쇼크···연말 공급망 '초비상'",
           "desc": "벌이는 삼성전자 역시 새로운 경쟁 구도에 놓였다. 국내 반도체 소재·부품·장비(소부장) 업계도 기존... 3%가 협력사에 탄소 배출 데이터를 요구하고 있다. 하지만 인력과 예산이 부족한 중소 협력사들이 전산...",
           "src": "newsfreezone",
           "date": "11/22",
           "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720648",
           "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720648_770234_116_v150.jpg"
-        },
-        {
-          "title": "이상일 ‘전력·용수·도로’ 혈맥 뚫자…31조원 용인 첫 팹, 내년 2월 클...",
-          "desc": "삼성전자가 팹 6기를 짓는 첨단시스템반도체 국가산업단지 역시 부지 조성 공사에 돌입하며 본격적인... 미니팹이 들어서면 협력사들은 실제 반도체 공정과 유사한 환경에서 소재와 장비를 시험할 수 있다. 양산 공장...",
-          "src": "view",
-          "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/277/0005845878?sid=102",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026112111315118284_1795228311.jpg"
-        },
-        {
-          "title": "[핫이슈] 美 수출통제 발효에 엔비디아 서버 동남아 출하 중단…삼성 파...",
-          "desc": "서버 협력사들이 동남아시아행 출하를 멈추고, 삼성전자와 대만 TSMC는 일부 중국 고객사 물량을 일시... 한 수동부품 업체 임원은 향후 최소 6개월간 공급 부족이 이어질 만큼 AI 서버 수요가 견조하다면서도 중장기...",
-          "src": "the-today",
-          "date": "11/21",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93889",
-          "img": "https://cdn.the-today.com/news/photo/202611/93889_115469_4253.png"
-        },
-        {
-          "title": "‘전기 먹는 하마’ 데이터센터, 2060년엔 전력 13배 필요…재생에너지...",
-          "desc": "애플은 2030년까지 공급망 전체를 100% 재생에너지로 전환한다고 선언하면서 협력사에 이행을 요구 중이다.... 고대역폭메모리(HBM) 등 반도체로 글로벌 AI 공급망의 중심축으로 떠오른 삼성전자와 SK하이닉스는...",
-          "src": "중앙일보",
-          "date": "11/21",
-          "url": "https://n.news.naver.com/mnews/article/353/0000057336?sid=102",
-          "img": "https://pds.joongang.co.kr/news/component/joongang_sunday/202611/21/b85f8e86-af35-4bc1-ab10-5c4ac06bcf04.jpg"
         }
       ]
     },
@@ -221,45 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "류재철 LG전자 CEO \"한계 넘는 제조 혁신으로 미래 기회 만들자\"",
-          "desc": "LG전자 경영진과 협력사 대표들이 한자리에 모여 공정 자동화와 인공지능(AI) 등 신기술 도입을 통한 제조... 제조 현장에서는 방대한 공정 데이터를 분석하고 작업자에게 필요한 정보를 요약·제공하는 데 활용된다....",
-          "src": "todayenergy",
+          "title": "이 와중에 또… 경비지도사 시험 부정행위 6건 [‘AI 커닝’ 후폭풍]",
+          "desc": "정부는 국가자격시험 감독 강화에 더해 국가기술자격증 불법 대여 범죄도 이참에 뿌리 뽑겠다는 계획이다.... 나머지 5명은 첨단기기 활용 부정행위 감시 전문인력인 ‘AI 인스펙터’가 잡아냈다. 정부의 ‘감독 강화’...",
+          "src": "segye",
           "date": "11/22",
-          "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305889",
-          "img": "https://cdn.todayenergy.kr/news/thumbnail/202611/305889_179142_717_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/022/0004177163?sid=102",
+          "img": "https://www.segye.com/content/image/2026/11/22/20261122509395.jpg"
         },
         {
-          "title": "김치 제조에 AI 접목…비건 제품으로 세계화 ‘시동’",
-          "desc": "제조기술 개선과 현지 맞춤형 제품 개발에 나선다. 인공지능(AI)을 활용해 제조공정을 자동화하고 김치의... 해외 유통 과정에서 김치가 익는 속도를 조절하는 기술도 고도화한다. 제조공정에는 AI와 푸드테크를 도입한다....",
-          "src": "디지털타임스",
+          "title": "[인터뷰]박균택 더불어민주당 국회의원 “군공항 이전·반도체 산단 조...",
+          "desc": "등에 활용할 수 있도록 했다. 또한 ‘부패재산의 몰수 및 회복에 관한 특례법’ 개정안을 통과시켜... 핵심기술 보호를 함께 추진하겠다. 아울러 독립몰수제 도입을 계기로 전두환·노태우 일가와 헌정질서 파괴범죄자들의...",
+          "src": "kjdaily",
           "date": "11/22",
-          "url": "https://n.news.naver.com/mnews/article/029/0003060397?sid=101",
-          "img": "https://wimg.dt.co.kr/news/cms/2026/11/22/news-p.v1.20261122.93775d43154f4c74a2443b74e4f5c351_R.jpeg"
+          "url": "http://www.kjdaily.com/article.php?aid=1795340510693131052",
+          "img": ""
         },
         {
-          "title": "세종대 경영전문대학원, 'AI 기술경영 DBA' 과정 입학설명회 개최",
-          "desc": "세종대학교(총장 엄종화) 경영전문대학원이 2027학년도부터 인공지능(AI) 기술과 기업 경영을 접목한 실무... 이론을 활용해 실질적인 해결 방안을 도출하는 데 초점을 맞춘다\"고 설명했다. 이어 \"기업에 도입한 AI...",
-          "src": "enewstoday",
+          "title": "[사설] 교육부 장관 교체, 시험과 교육 개혁의 시작 계기로",
+          "desc": "하루라도 신속한 기술적 대응으로 시험의 공정성을 확보해야 한다. 다음으로 정부가 AI를 활용한 부정행위에... 이렇게 대응할 수 있는 일이었는데, 사태가 심각해지자 현장에 도입했다는 게 문제다. 충분히 예측 가능한...",
+          "src": "파이낸셜뉴스",
           "date": "11/22",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495453",
-          "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202611/2495453_1342780_856_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/014/0005607916?sid=110",
+          "img": "https://image.fnnews.com/resource/media/image/2026/11/22/202611221843565485_e.jpg"
         },
         {
-          "title": "LG전자 류재철 대표 \"협력사와 제조 혁신 지속해 미래 성장 기회 만들자...",
-          "desc": "엑사원 기반 AI 에이전트도 도입했다. 이를 통해 생산량과 불량률 등 현장 데이터를 간편하게 확인할 수 있도록 제조 현장의 데이터 활용 역량을 높였다. LG전자는 협력사의 제조 경쟁력을 높이기 위한 지원도 확대하고...",
-          "src": "비즈니스포스트",
+          "title": "AI가 찾아낸 보안 결함에 전산망 비상…미국 금융·항공 시스템 잇단 장...",
+          "desc": "이제는 AI 도구를 활용해 훨씬 짧은 시간에 찾아낼 수 있다. 문제는 발견되는 결함이 늘어날수록 이를... 보안 기술의 도입만큼 시스템 변경에 따른 위험을 사전에 점검하는 절차도 중요하다고 강조한다. AI가 디지털...",
+          "src": "jemin",
           "date": "11/22",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452579",
-          "img": "https://www.businesspost.co.kr/news/photo/202611/20261122110213_188605.jpg"
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848096",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/848096_435633_402_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "CES 가까워지자 로봇주 약진",
-      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366436",
-      "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/366436_301460_2129_v150.jpg"
+      "title": "삼성 4대 베트남법인 올 9월까지 매출 83조원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607844?sid=101",
+      "img": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg"
+    },
+    {
+      "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
+      "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+    },
+    {
+      "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
+      "url": "https://www.news2day.co.kr/article/20261122500037",
+      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
     },
     {
       "title": "“물통만 비우면 될까”…겨울 베란다 건조기 잔수 관리",
@@ -267,24 +277,14 @@ window.NEWS_DATA = {
       "img": "https://www.vegannews.co.kr/data/photos/20261147/art_17952871272771.jpg"
     },
     {
-      "title": "‘물티슈캡’ 버리지 말고 세탁기 옆에 둬보세요…이 쉬운 걸 다들 몰라...",
-      "url": "https://www.wikitree.co.kr/articles/1176320",
-      "img": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/20/202611201452322718.jpg"
-    },
-    {
-      "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052851?sid=101",
-      "img": "https://cdn.bizwatch.co.kr/news/photo/2026/02/06/8cd8e1572001377336b567f23a6e3295.jpg"
-    },
-    {
-      "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
-      "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-      "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
-    },
-    {
       "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
       "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
+    },
+    {
+      "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
+      "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
+      "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
     }
   ]
 };
