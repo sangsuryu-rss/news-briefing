@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.23 (월) 16:44",
+  "updatedAt": "2026.11.24 (화) 05:16",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "반도체 삼성·로봇 LG·미주 강화 SK하닉…‘AI 고도화’ 준비하는 3사",
-          "desc": "삼성전자와 SK하이닉스, LG전자 등 국내 기업이 최근 잇따라 사장단·임원 인사를 내놓았다. AI 반도체... 가전을 포함한 전 사업이 이익을 내는 가운데 신사업 조직을 다듬는 셈이다. SK하이닉스는 지난달 30일 SK그룹...",
+          "title": "[단독]삼성 첫 휴머노이드, 한손당 모터 20개 탑재 ‘초정밀 작업’ 가...",
+          "desc": "23일 복수의 삼성전자 관계자에 따르면 삼성전자는 내년 1월 미국 라스베이거스에서 열리는 세계 최대 정보기술(IT)·가전 전시회 ‘CES 2027’에서 자체 휴머노이드를 처음 선보이는 것을 목표로, 그동안 스마트폰과...",
           "src": "동아일보",
-          "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/020/0003764446?sid=101",
-          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135074860.2.jpg"
+          "date": "11/24",
+          "url": "https://n.news.naver.com/mnews/article/020/0003764636?sid=101",
+          "img": ""
         },
         {
-          "title": "스마트가전 보안 자체 표준까지 꺼내든 EU...내년 의무화 추진한다",
-          "desc": "세탁기도 초기 설치 단계의 보안 설정부터 소프트웨어 업데이트, 취약점 관리, 지원 종료에 이르기까지... 삼성전자와 LG전자 등 국내 가전업체들도 유럽 수출제품의 보안 위험평가와 소프트웨어 관리체계를 점검하는...",
-          "src": "전자신문",
+          "title": "\"세탁기 문은 열어둬야 할까, 닫아야 할까\"",
+          "desc": "보일러를 켠 욕실이 짧게 따뜻해졌다가 식기를 반복하면 습기만 남아, 세탁기 틈이 곰팡이의 집이 된다. 제조사들이 말하는 답은 의외로 단순하다. 통세척 코스다. 삼성전자는 세척 코스가 물을 60~70도까지 올려 드럼과...",
+          "src": "gukjenews",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/030/0003488724?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.b1315a30ce914ff29dad200f15cbfac9_P1.png"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760663",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3760663_3944478_535_v150.jpg"
+        },
+        {
+          "title": "날이 갈수록 커지는 AI 가전 해킹 위협…삼성·LG, 자체 보안체계 강화",
+          "desc": "이런 상황에서 삼성전자는 자체 보안 플랫폼 '삼성 녹스'를 기반으로 가전 보안을 강화하고 있다. 로봇청소기와 냉장고 등에서 한국인터넷진흥원(KISA)의 IoT 보안인증 최고등급인 '스탠다드'를 획득했으며, 독일...",
+          "src": "아주경제",
+          "date": "11/23",
+          "url": "https://www.ajunews.com/view/20261123155528717",
+          "img": "https://image.ajunews.com/content/image/2026/11/23/20261123155933629210.jpg"
         },
         {
           "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
@@ -43,14 +51,6 @@ window.NEWS_DATA = {
           "date": "11/23",
           "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
           "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
-        },
-        {
-          "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
-          "desc": "한국전자정보통신산업진흥회에 따르면, 삼성전자의 지난해 세계 로봇청소기 판매량 점유율은 1.4%였다. 다만 글로벌 로봇시장은 아직 태동기라는 점에서 가능성은 무궁무진하다. 같은 분기 세계 로봇청소기 출하량은...",
-          "src": "news2day",
-          "date": "11/22",
-          "url": "https://www.news2day.co.kr/article/20261122500037",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
         }
       ]
     },
@@ -74,7 +74,7 @@ window.NEWS_DATA = {
           "src": "이데일리",
           "date": "11/23",
           "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300275.jpg"
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112301168.jpg"
         },
         {
           "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
@@ -90,7 +90,7 @@ window.NEWS_DATA = {
           "src": "radiokorea",
           "date": "11/20",
           "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-          "img": ""
+          "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
         }
       ]
     },
@@ -141,6 +141,14 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "담합 제재기업 절반 이상 CP 도입…산업계 ESG 준법관리 실효성은",
+          "desc": "삼성전자와 현대자동차, SK하이닉스 등 주요 기업들은 공정거래 관련 준법관리 체계를 운영하고 있다. 공급망 ESG 관리에서는 협력사의 법규 위반 이력과 거래조건 시정 여부, 대금 지급 실적, 동일 유형 위반의 재발...",
+          "src": "한스경제",
+          "date": "11/23",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886344",
+          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/886344_912718_3736_v150.jpg"
+        },
+        {
           "title": "한컴, AI 워크포스 '노마디안' 미국 사업 본격화…LG전자, 동남아 시장에...",
           "desc": "LG유플러스, 협력사 160곳 보안 취약점 점검 완료 LG유플러스는 안전한 공급망 보안 체계를 갖추기 위해... 삼성 TV 플러스, 다이나믹 듀오 콘서트 무료 생중계 삼성전자는 힙합 듀오 '다이나믹 듀오'의 단독 콘서트...",
           "src": "sisaon",
@@ -163,14 +171,6 @@ window.NEWS_DATA = {
           "date": "11/23",
           "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195214",
           "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202611/7195214_255972_2421_v150.jpg"
-        },
-        {
-          "title": "'리모컨 명가' 삼진, AIoT 기업으로 체질 개선… 신사업·주주환원 '투트...",
-          "desc": "세트 시장 부진으로 부품 단가 하방 압력이 이어지면서 주력인 리모컨 평균 단가는 2024년 4264원에서 올해... 미래 핵심 성장축으로 낙점한 AIoT 분야에서는 2016년부터 삼성전자 스마트싱스(SmartThings) 플랫폼 협력사로...",
-          "src": "디지털데일리",
-          "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/138/0002249562?sid=105",
-          "img": "https://www.ddaily.co.kr/photos/2026/11/23/2026112312514546983_l.jpg"
         }
       ]
     },
@@ -221,60 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "결제·송금 기록으로 신용도까지 본다… 카카오페이의 데이터 승부",
-          "desc": "이용자의 소비와 금융 거래를 분석해 자산관리와 마케팅에 활용하고, 기존 신용평가에서 파악하기... 금융 니즈를 압도적인 데이터와 AI 기술로 해결하는 '나만을 위한 금융 AI 에이전트'로 나아가겠다\"는 포부를 밝혔다.",
-          "src": "insnews",
-          "date": "11/23",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93985",
-          "img": "https://cdn.insnews.co.kr/news/photo/202611/93985_59163_3330.jpg"
+          "title": "주거시장 '스마트 그린라이프' 뜬다…세종 5-1생활권 '이목 집중'",
+          "desc": "23일 부동산업계에 따르면 주거지 선택에서 자연환경을 중시하는 수요가 꾸준한 가운데, 인공지능(AI) 기반... 이곳에는 자연환경을 활용한 여가생활뿐 아니라 첨단기술을 통한 건강관리와 생활 편의 기능도 도입된다....",
+          "src": "apnews",
+          "date": "11/24",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053465",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053465_87713_521_v150.jpg"
         },
         {
-          "title": "경북대, 국내 대학 최초 전 구성원 대상 국산 AI 무제한 서비스 '크누아...",
-          "desc": "고석주 경북대 정보화본부장은 “AI 시대 국립대학의 역할은 새로운 기술을 도입하고 활용하는 데 그치지 않고, 그 기술이 국가와 사회의 발전에 기여하도록 이끄는 데 있다. 경북대는 공공성과 책임성...",
-          "src": "전자신문",
-          "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/030/0003488752?sid=102",
-          "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.8cecffee017d446193486cc30c9a2c31_P1.jpg"
+          "title": "“AI가 푸는 시험은 의미 없어… 구술·실습 등 다변화해야” [대입 이렇...",
+          "desc": "면접 등 구술 형태 시험을 도입하는 등 시험 제도를 다변화해야 한다. 출제 및 관리 단위도 작아져야 한다.”... 기초 지식이 있어야 AI를 활용하고 응용할 수 있다. AI가 교사의 반복 업무를 줄이면 학생별 맞춤형 교육에도...",
+          "src": "서울신문",
+          "date": "11/24",
+          "url": "https://n.news.naver.com/mnews/article/081/0003702365?sid=102",
+          "img": "https://img.seoul.co.kr//img/upload/2026/11/23/SSC_20261123180835_O2.png"
         },
         {
-          "title": "김승연 넥스트증권 대표, AI·콘텐츠 앞세워 '개미 투심' 잡는다",
-          "desc": "김 대표는 구글과 틱톡 등 글로벌 정보기술(IT) 기업을 거쳐 토스증권 대표를 지냈다. 지난 2024년 10월... 이후 출시할 MTS에는 AI를 활용한 영상 콘텐츠를 핵심 기능으로 도입한다. 투자자가 콘텐츠를 통해 시장과 기업...",
-          "src": "insightkorea",
-          "date": "11/23",
-          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259549",
-          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202611/259549_272610_2638_v150.jpg"
+          "title": "AI 스마트안경 부정행위 현실화…소방·경찰시험도 관리 ‘주의보’",
+          "desc": "스마트안경이나 초소형 카메라·스피커 등 첨단 기기를 활용한 부정행위 발생 시 공직사회 신뢰가 추락할 수... 관련 기술이 시급히 도입돼야 한다고 제언한다. 최병호 고려대 AI연구소 교수는 “첨단기기 반입 금지, 적발...",
+          "src": "kyeonggi",
+          "date": "11/24",
+          "url": "https://n.news.naver.com/mnews/article/666/0000133469?sid=102",
+          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/11/23/.cache/512/20261123580545.jpg"
         },
         {
-          "title": "한컴, AI 워크포스 '노마디안' 미국 사업 본격화…LG전자, 동남아 시장에...",
-          "desc": "이번 협약은 행정안전부의 사회연대경제 생태계 조성 사업에 KT의 AI 기술과 교육 역량을 더해 주민과... 춘천시에서는 지역 상인과 청년이 AI를 활용해 점포 운영·홍보를 개선하는 원도심 상권 활성화 모델에...",
-          "src": "sisaon",
-          "date": "11/23",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206320",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202611/206320_309719_812.jpg"
+          "title": "AI가 설계안 만들고 오류 찾는다…SK에코플랜트, 'AXen' 가동",
+          "desc": "설계안 작성부터 오류 검토까지 반복적으로 이뤄지던 작업을 AI로 지원해 엔지니어가 전문적인 기술... 이를 위해 구성원별로 AI를 업무에 활용하는 '1인 1에이전트' 도입을 추진하며 반복 업무는 AI가 지원하고 사람은...",
+          "src": "apnews",
+          "date": "11/24",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053464",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053464_87712_050_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "반도체 삼성·로봇 LG·미주 강화 SK하닉…‘AI 고도화’ 준비하는 3사",
-      "url": "https://n.news.naver.com/mnews/article/020/0003764446?sid=101",
-      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135074860.2.jpg"
+      "title": "\"세탁기 문은 열어둬야 할까, 닫아야 할까\"",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760663",
+      "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3760663_3944478_535_v150.jpg"
     },
     {
-      "title": "스마트가전 보안 자체 표준까지 꺼내든 EU...내년 의무화 추진한다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488724?sid=105",
-      "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.b1315a30ce914ff29dad200f15cbfac9_P1.png"
+      "title": "날이 갈수록 커지는 AI 가전 해킹 위협…삼성·LG, 자체 보안체계 강화",
+      "url": "https://www.ajunews.com/view/20261123155528717",
+      "img": "https://image.ajunews.com/content/image/2026/11/23/20261123155933629210.jpg"
     },
     {
       "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
       "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
       "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
-    },
-    {
-      "title": "[이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험...",
-      "url": "https://www.news2day.co.kr/article/20261122500037",
-      "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
     },
     {
       "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
@@ -284,7 +279,12 @@ window.NEWS_DATA = {
     {
       "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
       "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300275.jpg"
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112301168.jpg"
+    },
+    {
+      "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
+      "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
     }
   ]
 };
