@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.23 (월) 08:37",
+  "updatedAt": "2026.11.23 (월) 16:44",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,20 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[미래 주거의 조건/①]버튼 누르는 집에서 먼저 움직이는 집으로…AI홈...",
-          "desc": "생성형 AI가 가전과 주거 설비, 단지 내 서비스까지 연결하면서 미래 주거 경쟁의 중심도 단순한 스마트홈... 삼성전자는 이미 대규모 연결 생태계를 확보하는 데 주력하고 있다. 지난 10월 발표한 스마트싱스(SmartThings)...",
-          "src": "비즈니스플러스",
+          "title": "반도체 삼성·로봇 LG·미주 강화 SK하닉…‘AI 고도화’ 준비하는 3사",
+          "desc": "삼성전자와 SK하이닉스, LG전자 등 국내 기업이 최근 잇따라 사장단·임원 인사를 내놓았다. AI 반도체... 가전을 포함한 전 사업이 이익을 내는 가운데 신사업 조직을 다듬는 셈이다. SK하이닉스는 지난달 30일 SK그룹...",
+          "src": "동아일보",
           "date": "11/23",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=120267",
-          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120267_122205_230_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/020/0003764446?sid=101",
+          "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135074860.2.jpg"
         },
         {
-          "title": "백화점서 1042억 더 벌고 6억 남았다···현대백화점 '지누스 블랙홀'",
-          "desc": "패션·가전·식품은 각각 7% 증가했다. 외국인 매출 증가율은 7월 86%, 8월 60%, 9월 30%로 둔화했으나 외국인... 하나증권은 삼성전자·SK하이닉스 임직원의 2027년 현금화 가능한 세후 성과급을 21조9000억원으로 추산했다....",
-          "src": "newsfreezone",
+          "title": "스마트가전 보안 자체 표준까지 꺼내든 EU...내년 의무화 추진한다",
+          "desc": "세탁기도 초기 설치 단계의 보안 설정부터 소프트웨어 업데이트, 취약점 관리, 지원 종료에 이르기까지... 삼성전자와 LG전자 등 국내 가전업체들도 유럽 수출제품의 보안 위험평가와 소프트웨어 관리체계를 점검하는...",
+          "src": "전자신문",
           "date": "11/23",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720681",
-          "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720681_770275_5432_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003488724?sid=105",
+          "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.b1315a30ce914ff29dad200f15cbfac9_P1.png"
         },
         {
           "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
@@ -61,6 +61,22 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
+          "desc": "현대차·기아가 자동차 디자이너 루크 동커볼케(Luc Donckerwolke) 사장의 창의적 여정과 디자인 철학을 한눈에 조망하는 아카이브 전시를 연다. 현대자동차·기아는 CCO(최고 크리에이티브 책임자) 겸 CDO(최고 디자인...",
+          "src": "dailycar",
+          "date": "11/23",
+          "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63272",
+          "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000308/ns153684.webp"
+        },
+        {
+          "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
+          "desc": "현대차·기아는 자동차 및 디자인 업계 관계자뿐 아니라 일반 관람객과 어린이에게도 창작의 가치와 새로운 영감을 전달한다는 계획이다. 동커볼케 사장은 “꿈은 한 사람에게서 시작되지만 여러 사람의 손길을 통해...",
+          "src": "이데일리",
+          "date": "11/23",
+          "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300275.jpg"
+        },
+        {
           "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
           "desc": "\"3년 안에 흑자 낸다\" 부실 기아차를 떠안다 1998년 외환위기 당시 기아자동차는 자금난으로 법정관리를 받고 있었다. 현대차는 그해 10월 인수자로 선정됐지만 생산시설과 판매망 정비, 부품체계 통합 등 해결해야 할...",
           "src": "파이낸셜뉴스",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "11/20",
           "url": "https://www.radiokorea.com/news/article.php?uid=510194",
           "img": ""
-        },
-        {
-          "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
-          "desc": "1999년 현대정공(현 현대모비스)에 입사한 뒤 현대차 구매실장과 영업지원사업부장 등을 거치며 자동차산업 전반에 대한 경영 경험을 쌓았다. 2005년 기아자동차(현 기아) 사장에 선임된 이후 '디자인 경영'을 주도하며...",
-          "src": "뉴스인사이드",
-          "date": "11/19",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
-          "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
-        },
-        {
-          "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차...",
-          "desc": "현대차와 기아에 자동차를 모두 한국에서 만들라고 요구할 수는 없다. 미국과 유럽, 인도가 관세와 보조금을 지렛대로 현지 생산을 요구하는 시대다. 해외 생산은 시장을 지키기 위해서라도 불가피하다. ‘자동차가...",
-          "src": "sisain",
-          "date": "11/18",
-          "url": "https://n.news.naver.com/mnews/article/308/0000038992?sid=101",
-          "img": "https://cdn.sisain.co.kr/news/photo/202611/58793_114733_1793887553.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "한국AI·로봇산업협회, 회원사 500곳 돌파",
-          "desc": "완제품과 부품을 만드는 기업, 반도체·AI 기업에 이어 공장과 물류센터에서 로봇을 쓰는 기업까지 회원사로 참여하고 있다. 회원사는 2024년 280여곳에서 2025년 말 376곳, 올해 4월에는 400곳을 넘었다. 현재 삼성전자(005930)...",
-          "src": "이데일리",
+          "title": "한컴, AI 워크포스 '노마디안' 미국 사업 본격화…LG전자, 동남아 시장에...",
+          "desc": "LG유플러스, 협력사 160곳 보안 취약점 점검 완료 LG유플러스는 안전한 공급망 보안 체계를 갖추기 위해... 삼성 TV 플러스, 다이나믹 듀오 콘서트 무료 생중계 삼성전자는 힙합 듀오 '다이나믹 듀오'의 단독 콘서트...",
+          "src": "sisaon",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/018/0006413882?sid=105",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300125.jpg"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206320",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202611/206320_309719_812.jpg"
         },
         {
-          "title": "[초점] 대기업 상생협력, 돈 풀기 넘어 기술·양산 문턱 낮춘다",
-          "desc": "총사업비 8746억원이 투입되는 이 시설은 소재·부품·장비(소부장) 기업이 개발한 기술을 실제 양산라인에... 삼성전자는 반도체 생산·연구시설의 미사용 설비를 협력사와 외부 연구기관에 제공하거나 할인된 가격으로...",
-          "src": "newsian",
+          "title": "아산 KS오토시스, 반도체·로봇 자동화 분야 진출 본격화",
+          "desc": "협력사 관계자, 지역 주민 등 150여 명이 참석했다. 지난 1987년 설립된 KS오토시스는 전자제품과 자동차부품... 특히 삼성의 113조 원 규모 투자계획이 아산에서 본격화하는 가운데 지역 중견·중소 제조기업이 첨단산업...",
+          "src": "cctimes",
           "date": "11/23",
-          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101755",
-          "img": "https://cdn.newsian.co.kr/news/photo/202611/101755_102261_3345.png"
+          "url": "http://www.cctimes.kr/news/articleView.html?idxno=938657",
+          "img": "http://www.cctimes.kr/image/logo/snslogo_20180427033645.jpg"
         },
         {
-          "title": "전차 수출 다음은 현지화⋯폴란드서 넓어지는 금융 영토 [K-금융, 경계를...",
-          "desc": "역 바로 앞 빌딩에는 거대한 삼성전자 간판이 낯선 도시에서 눈길을 끈다. 발걸음을 옮기니 폴란드 최대... 무기 도입은 현지 생산과 기술이전, 부품 조달로 이어진다. 한국 방산기업과 협력사는 폴란드에 생산 기반을...",
-          "src": "이투데이",
+          "title": "KS오토시스, 아산서 FA사업부 개소…반도체·로봇으로 사업 확장",
+          "desc": "고객사·협력사 관계자, 마을주민 등 약 150명이었다. KS오토시스는 1987년 설립 이후 전자제품·자동차부품... 아산시는 삼성의 113조 원 규모 투자가 아산에서 본격화하는 상황에서 이번 사업 확대를 산업환경 변화에 지역...",
+          "src": "weekly",
           "date": "11/23",
-          "url": "https://www.etoday.co.kr/news/view/2650939",
-          "img": "https://img.etoday.co.kr/pto_db/2026/11/20261122172022_2421591_1200_2410.jpg"
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195214",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202611/7195214_255972_2421_v150.jpg"
         },
         {
-          "title": "LG전자, 협력사 제조혁신 확대…자동화로 불량률 90% 감소",
-          "desc": "부품 경쟁력이 제품 경쟁력으로 직결되듯 협력사의 경쟁력이 곧 LG전자의 경쟁력\"이라며 \"LG전자와 협력사가 함께 기존의 한계를 뛰어넘는 제조 혁신을 지속하며 미래 성장 기회를 만들어가자\"고 말했다. 한편, 삼성전...",
-          "src": "srtimes",
-          "date": "11/22",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218292",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218292_223345_1321_v150.jpg"
+          "title": "'리모컨 명가' 삼진, AIoT 기업으로 체질 개선… 신사업·주주환원 '투트...",
+          "desc": "세트 시장 부진으로 부품 단가 하방 압력이 이어지면서 주력인 리모컨 평균 단가는 2024년 4264원에서 올해... 미래 핵심 성장축으로 낙점한 AIoT 분야에서는 2016년부터 삼성전자 스마트싱스(SmartThings) 플랫폼 협력사로...",
+          "src": "디지털데일리",
+          "date": "11/23",
+          "url": "https://n.news.naver.com/mnews/article/138/0002249562?sid=105",
+          "img": "https://www.ddaily.co.kr/photos/2026/11/23/2026112312514546983_l.jpg"
         }
       ]
     },
@@ -221,50 +221,50 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "국산 NPU 상용 시대 열었다...리벨리온, SKT에 '리벨' 칩 서버 40대 공급",
-          "desc": "리벨-100 서버.(사진=리벨리온) 이번 공급은 단순 기술검증(PoC)이나 연구용 테스트를 넘어, 실제 상용 서비스 인프라에 국산 NPU가 전격 배치된다는 점에서 의미가 크다. 도입 물량의 70~80% 수준은 SK텔레콤의 AI...",
-          "src": "ZDNet코리아",
+          "title": "결제·송금 기록으로 신용도까지 본다… 카카오페이의 데이터 승부",
+          "desc": "이용자의 소비와 금융 거래를 분석해 자산관리와 마케팅에 활용하고, 기존 신용평가에서 파악하기... 금융 니즈를 압도적인 데이터와 AI 기술로 해결하는 '나만을 위한 금융 AI 에이전트'로 나아가겠다\"는 포부를 밝혔다.",
+          "src": "insnews",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/092/0002446370?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/23/2090ac71bae5fee3e5948e00b6253460.png"
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93985",
+          "img": "https://cdn.insnews.co.kr/news/photo/202611/93985_59163_3330.jpg"
         },
         {
-          "title": "디지털 교육 앞서가던 노르웨이, 다시 종이책 꺼냈다...왜",
-          "desc": "도입하는 방향을 제시했다. 고등학교에서는 학생들이 향후 학업과 직업생활에 대비해 AI를 적절하게 활용하... 다만 기술 사용을 제한하는 것만으로 근본적인 문제가 해결되지는 않는다는 지적도 나온다....",
-          "src": "ZDNet코리아",
+          "title": "경북대, 국내 대학 최초 전 구성원 대상 국산 AI 무제한 서비스 '크누아...",
+          "desc": "고석주 경북대 정보화본부장은 “AI 시대 국립대학의 역할은 새로운 기술을 도입하고 활용하는 데 그치지 않고, 그 기술이 국가와 사회의 발전에 기여하도록 이끄는 데 있다. 경북대는 공공성과 책임성...",
+          "src": "전자신문",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/092/0002446369?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/11/23/f2ad9d7c730ba7c12c8eb7489d7b9529.jpg"
+          "url": "https://n.news.naver.com/mnews/article/030/0003488752?sid=102",
+          "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.8cecffee017d446193486cc30c9a2c31_P1.jpg"
         },
         {
-          "title": "성남시, '2026 복지×에이지테크 커넥트'서 돌봄모델 논의",
-          "desc": "첨단기술을 활용한 돌봄모델을 모색하는 '2026 복지×에이지테크 커넥트' 포럼을 개최한다.... 성남시 관계자는 \"이번 포럼이 인공지능(AI) 등 첨단기술의 복지현장 도입 가능성과 과제를 살펴보고, 돌봄 관련 기관과 기업 간...",
-          "src": "m-i",
+          "title": "김승연 넥스트증권 대표, AI·콘텐츠 앞세워 '개미 투심' 잡는다",
+          "desc": "김 대표는 구글과 틱톡 등 글로벌 정보기술(IT) 기업을 거쳐 토스증권 대표를 지냈다. 지난 2024년 10월... 이후 출시할 MTS에는 AI를 활용한 영상 콘텐츠를 핵심 기능으로 도입한다. 투자자가 콘텐츠를 통해 시장과 기업...",
+          "src": "insightkorea",
           "date": "11/23",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2021837",
-          "img": "https://cdn.m-i.kr/news/photo/202611/2021837_2022572_326.jpg"
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259549",
+          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202611/259549_272610_2638_v150.jpg"
         },
         {
-          "title": "대전시, AI 기반 '119 의료정보조회 챗봇' 선보여",
-          "desc": "올해 AI 기반 증상분석 기능을 도입하고 서비스 범위를 전국으로 확대했다. 외국어 지원도 기존보다 강화해... 임재진 기획조정실장은 \"AI 기술을 활용해 시민의 안전과 편의를 높이는 대전시의 혁신 성과를 전국에...",
-          "src": "뉴스1",
+          "title": "한컴, AI 워크포스 '노마디안' 미국 사업 본격화…LG전자, 동남아 시장에...",
+          "desc": "이번 협약은 행정안전부의 사회연대경제 생태계 조성 사업에 KT의 AI 기술과 교육 역량을 더해 주민과... 춘천시에서는 지역 상인과 청년이 AI를 활용해 점포 운영·홍보를 개선하는 원도심 상권 활성화 모델에...",
+          "src": "sisaon",
           "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/421/0009303948?sid=102",
-          "img": "https://i3n.news1.kr/system/photos/2026/11/23/8227292/high.jpg"
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206320",
+          "img": "https://cdn.sisaon.co.kr/news/photo/202611/206320_309719_812.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[미래 주거의 조건/①]버튼 누르는 집에서 먼저 움직이는 집으로…AI홈...",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120267",
-      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120267_122205_230_v150.jpg"
+      "title": "반도체 삼성·로봇 LG·미주 강화 SK하닉…‘AI 고도화’ 준비하는 3사",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764446?sid=101",
+      "img": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135074860.2.jpg"
     },
     {
-      "title": "백화점서 1042억 더 벌고 6억 남았다···현대백화점 '지누스 블랙홀'",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720681",
-      "img": "https://cdn.newsfreezone.co.kr/news/thumbnail/202611/720681_770275_5432_v150.jpg"
+      "title": "스마트가전 보안 자체 표준까지 꺼내든 EU...내년 의무화 추진한다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003488724?sid=105",
+      "img": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.b1315a30ce914ff29dad200f15cbfac9_P1.png"
     },
     {
       "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
@@ -277,14 +277,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/22/.cache/512/20261122500038.png"
     },
     {
-      "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
+      "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
+      "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63272",
+      "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000308/ns153684.webp"
     },
     {
-      "title": "[정해균의 Zoom-人] 내가 대한민국 CEO다",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051089",
-      "img": "https://cdn.newsinside.kr/news/photo/202611/5051089_943062_5458.jpg"
+      "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
+      "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
+      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112300275.jpg"
     }
   ]
 };
