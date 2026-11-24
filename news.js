@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.24 (화) 05:16",
+  "updatedAt": "2026.11.24 (화) 13:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,28 +21,28 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[단독]삼성 첫 휴머노이드, 한손당 모터 20개 탑재 ‘초정밀 작업’ 가...",
-          "desc": "23일 복수의 삼성전자 관계자에 따르면 삼성전자는 내년 1월 미국 라스베이거스에서 열리는 세계 최대 정보기술(IT)·가전 전시회 ‘CES 2027’에서 자체 휴머노이드를 처음 선보이는 것을 목표로, 그동안 스마트폰과...",
-          "src": "동아일보",
+          "title": "삼성전자, 9년만에 최소 131명 승진…반도체서만 70명 발탁(종합2보)",
+          "desc": "삼성전자 임원 승진자는 2021년 214명으로 정점을 찍은 뒤 매년 감소하고 있다. 역대 최고 실적에도 승진자를 줄인 데에는 조직을 더 효율적으로 운영하겠다는 뜻을 담은 것으로 보인다. 스마트폰·가전 등을 담당하는...",
+          "src": "연합뉴스",
           "date": "11/24",
-          "url": "https://n.news.naver.com/mnews/article/020/0003764636?sid=101",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/001/0016460503?sid=101",
+          "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124044652003_03_i_P4.jpg"
         },
         {
-          "title": "\"세탁기 문은 열어둬야 할까, 닫아야 할까\"",
-          "desc": "보일러를 켠 욕실이 짧게 따뜻해졌다가 식기를 반복하면 습기만 남아, 세탁기 틈이 곰팡이의 집이 된다. 제조사들이 말하는 답은 의외로 단순하다. 통세척 코스다. 삼성전자는 세척 코스가 물을 60~70도까지 올려 드럼과...",
-          "src": "gukjenews",
-          "date": "11/23",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760663",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3760663_3944478_535_v150.jpg"
+          "title": "\"로봇 수익화 경쟁 시작됐다\"…삼성·LG·SK, 상용화 전략 3색",
+          "desc": "LG 클로이드가 세탁기 제조 공정에서 데이터를 학습하고 있다. [사진=LG전자] ◆ 제조 경쟁 대신 플랫폼 택한 SK…내년 사업성 시험대 SK는 삼성·LG와 다른 방식으로 로봇 시장에 접근하고 있다. 완제품이나 부품을 직접...",
+          "src": "뉴스핌",
+          "date": "11/24",
+          "url": "https://www.newspim.com/news/view/20261124000759",
+          "img": "https://img.newspim.com/news/2026/11/24/2611241135503230_t1.jpg"
         },
         {
-          "title": "날이 갈수록 커지는 AI 가전 해킹 위협…삼성·LG, 자체 보안체계 강화",
-          "desc": "이런 상황에서 삼성전자는 자체 보안 플랫폼 '삼성 녹스'를 기반으로 가전 보안을 강화하고 있다. 로봇청소기와 냉장고 등에서 한국인터넷진흥원(KISA)의 IoT 보안인증 최고등급인 '스탠다드'를 획득했으며, 독일...",
-          "src": "아주경제",
-          "date": "11/23",
-          "url": "https://www.ajunews.com/view/20261123155528717",
-          "img": "https://image.ajunews.com/content/image/2026/11/23/20261123155933629210.jpg"
+          "title": "[단독] 오픈AI·애플, 신체 변화로 음성 알아듣는 기술 특허 선봬…구글...",
+          "desc": "출원했으며, 삼성전자는 온디바이스 AI와 로봇, 모바일 네트워크 관련 특허를 다수 제출했다. 미국 특허... 로봇청소기가 장애물 주변에서 움직임을 정교하게 제어하는 기술과 로봇 물걸레 청소기가 오염된 걸레를...",
+          "src": "bizwnews",
+          "date": "11/24",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=152838",
+          "img": "https://cdn.bizwnews.com/news/thumbnail/202611/152838_170344_427_v150.jpg"
         },
         {
           "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "중국 전기차 경쟁력 인정하면서도 구매는 테슬라…소비자의 ‘전기차 역...",
+          "desc": "현대자동차는 14.7%, 기아자동차는 6.1%로 뒤를 이었다. 반면 실제 보유·운전·동승 경험에서는 국산... 현대 아이오닉을 ‘독립적인 전기차 브랜드’로 보는 것보다 ‘현대차 모델 가운데 하나’로 인식하는 비율이...",
+          "src": "thepowernews",
+          "date": "11/24",
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202611231614161223de3f0aa1be_7",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261123161849016390de3f0aa1be2208661207.jpg&nmt=7"
+        },
         {
           "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
           "desc": "현대차·기아가 자동차 디자이너 루크 동커볼케(Luc Donckerwolke) 사장의 창의적 여정과 디자인 철학을 한눈에 조망하는 아카이브 전시를 연다. 현대자동차·기아는 CCO(최고 크리에이티브 책임자) 겸 CDO(최고 디자인...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/23",
           "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
           "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
-        },
-        {
-          "title": "현대차·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
-          "desc": "현대·기아차가 언론에 눈길을 끌었습니다. 현대자동차는 그동안 베일에 가려져 있던 새 엘란트라를 공개했습니다. 2027년형 엘란트라는 한층 강렬해진 외관과 운전자 중심의 실내 디자인이 특징입니다. 현대차는 철강...",
-          "src": "radiokorea",
-          "date": "11/20",
-          "url": "https://www.radiokorea.com/news/article.php?uid=510194",
-          "img": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/11/19/510194/1.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "담합 제재기업 절반 이상 CP 도입…산업계 ESG 준법관리 실효성은",
-          "desc": "삼성전자와 현대자동차, SK하이닉스 등 주요 기업들은 공정거래 관련 준법관리 체계를 운영하고 있다. 공급망 ESG 관리에서는 협력사의 법규 위반 이력과 거래조건 시정 여부, 대금 지급 실적, 동일 유형 위반의 재발...",
-          "src": "한스경제",
-          "date": "11/23",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886344",
-          "img": "https://cdn.hansbiz.co.kr/news/thumbnail/202611/886344_912718_3736_v150.jpg"
+          "title": "한국항공대 재학생 30명, 국회서 고동진 의원과 진로·취업 고민 나눠",
+          "desc": "한국항공대학교 재학생들이 첫 직장을 고르는 기준과 인공지능(AI) 시대에 갖춰야 할 역량을 두고 삼성전자... 사고 이후에는 배터리 규격과 협력사 관리부터 시생산품의 품질, 부품 구매·납품과 조립에 이르기까지...",
+          "src": "ekn",
+          "date": "11/24",
+          "url": "https://www.ekn.kr/web/view.php?key=20261124028143879",
+          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261124.a7ec10deab7e4e98acf99e2bcc7c570b_R.png"
         },
         {
-          "title": "한컴, AI 워크포스 '노마디안' 미국 사업 본격화…LG전자, 동남아 시장에...",
-          "desc": "LG유플러스, 협력사 160곳 보안 취약점 점검 완료 LG유플러스는 안전한 공급망 보안 체계를 갖추기 위해... 삼성 TV 플러스, 다이나믹 듀오 콘서트 무료 생중계 삼성전자는 힙합 듀오 '다이나믹 듀오'의 단독 콘서트...",
-          "src": "sisaon",
-          "date": "11/23",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206320",
-          "img": "https://cdn.sisaon.co.kr/news/photo/202611/206320_309719_812.jpg"
+          "title": "[특징주] 도우인시스, IT·폴더블 부품주 투자심리 개선에 강세…11.08%↑",
+          "desc": "IT 부품 관련주 전반으로 매수세가 유입되며 주가가 동반 상승하는 흐름을 나타냈다. 이날 같은 시각... 현재 삼성디스플레이의 1차 협력사로서 삼성전자 갤럭시 Z 폴드 시리즈와 글로벌 제조사에 폴더블...",
+          "src": "widedaily",
+          "date": "11/24",
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=304535",
+          "img": "https://cdn.widedaily.com/news/thumbnail/202611/304535_311933_2517_v150.jpg"
         },
         {
-          "title": "아산 KS오토시스, 반도체·로봇 자동화 분야 진출 본격화",
-          "desc": "협력사 관계자, 지역 주민 등 150여 명이 참석했다. 지난 1987년 설립된 KS오토시스는 전자제품과 자동차부품... 특히 삼성의 113조 원 규모 투자계획이 아산에서 본격화하는 가운데 지역 중견·중소 제조기업이 첨단산업...",
-          "src": "cctimes",
-          "date": "11/23",
-          "url": "http://www.cctimes.kr/news/articleView.html?idxno=938657",
-          "img": "http://www.cctimes.kr/image/logo/snslogo_20180427033645.jpg"
+          "title": "GPU 공급 불확실성 걷히나…이수페타시스·ISC까지 번지는 젠슨 황 엔비...",
+          "desc": "엔비디아의 GPU 생산이 안정적으로 확대되면 고대역폭메모리(HBM)와 첨단 패키징, 반도체 검사 부품, 서버용... 삼성전기처럼 엔비디아가 공급망 협력사로 직접 언급한 기업과 SK하이닉스·삼성전자처럼 AI 메모리 수요에...",
+          "src": "핀포인트뉴스",
+          "date": "11/24",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507434",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/507434_492099_587_v150.jpg"
         },
         {
-          "title": "KS오토시스, 아산서 FA사업부 개소…반도체·로봇으로 사업 확장",
-          "desc": "고객사·협력사 관계자, 마을주민 등 약 150명이었다. KS오토시스는 1987년 설립 이후 전자제품·자동차부품... 아산시는 삼성의 113조 원 규모 투자가 아산에서 본격화하는 상황에서 이번 사업 확대를 산업환경 변화에 지역...",
-          "src": "weekly",
-          "date": "11/23",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195214",
-          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202611/7195214_255972_2421_v150.jpg"
+          "title": "[르포]상전벽해의 용인 원삼, ‘초격차 속도전’ 현장 가다…내년 2월 ...",
+          "desc": "및 협력사 1000여 곳 집적…삼성전자·기흥 R&D 잇는 메가클러스터 내년 3월 용인반도체고 개교·최대 1조 원... 전체 부지의 47.3%(197만㎡)를 차지하는 SK하이닉스 구역에는 팹 4기와 소재·부품·장비(소부장) 협력단지...",
+          "src": "dnews",
+          "date": "11/24",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231950206210269",
+          "img": "https://image.dnews.co.kr/photo/photo/2026/11/23/202611231950206210269-2-707833.jpg"
         }
       ]
     },
@@ -205,12 +205,12 @@ window.NEWS_DATA = {
           "img": "http://www.opinionnews.co.kr/news/thumbnail/202611/146925_108629_5649_v150.jpg"
         },
         {
-          "title": "전기화재 예방 기준 강화…제일일렉트릭 신제품 수혜 기대",
-          "desc": "와이어링 하네스는 자동차 내부의 각종 전장부품과 전기장치를 연결해 전력과 신호를 전달하는 배선 시스템이다. 자동차에 탑재되는 전자장치가 늘어나면서 관련 부품의 적용 범위와 중요성도 커지고 있다....",
-          "src": "핀포인트뉴스",
-          "date": "11/08",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502162",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/502162_487238_176_v150.jpg"
+          "title": "[단독] 한국 車부품사 'UNI', 멕시코 두랑고 첫 공장…1억3500만페소 투자",
+          "desc": "주력 생산품은 차량 내부에서 고속 데이터를 전송하는 와이어링 하네스다. 여러 전선과 커넥터를 하나로 묶은 핵심 배선 장치로, 차량용 카메라와 첨단운전자보조시스템(ADAS), 차량 내외부 통신 등 최신 전장 부품의...",
+          "src": "the-today",
+          "date": "11/24",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=94026",
+          "img": "https://cdn.the-today.com/news/photo/202611/94026_115606_408.png"
         }
       ]
     },
@@ -221,50 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "주거시장 '스마트 그린라이프' 뜬다…세종 5-1생활권 '이목 집중'",
-          "desc": "23일 부동산업계에 따르면 주거지 선택에서 자연환경을 중시하는 수요가 꾸준한 가운데, 인공지능(AI) 기반... 이곳에는 자연환경을 활용한 여가생활뿐 아니라 첨단기술을 통한 건강관리와 생활 편의 기능도 도입된다....",
-          "src": "apnews",
+          "title": "\"경쟁사가 뭘 내놓든 고객 요구가 먼저\"…AWS, AI 에이전트 시대 클라우...",
+          "desc": "윤 에반젤리스트는 경쟁사들도 AI에이전트 서비스를 갖고 있을 것이라고 인정하면서, 차별점으로 기술... 고객 요구도 칩 구매와 모델 훈련을 직접 하려는 곳부터 직원용 AI 도구만 도입하려는 곳까지 폭이 넓어...",
+          "src": "뉴스웍스",
           "date": "11/24",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053465",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053465_87713_521_v150.jpg"
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904210",
+          "img": "https://cdn.newsworks.co.kr/news/photo/202611/904210_906046_5248.jpg"
         },
         {
-          "title": "“AI가 푸는 시험은 의미 없어… 구술·실습 등 다변화해야” [대입 이렇...",
-          "desc": "면접 등 구술 형태 시험을 도입하는 등 시험 제도를 다변화해야 한다. 출제 및 관리 단위도 작아져야 한다.”... 기초 지식이 있어야 AI를 활용하고 응용할 수 있다. AI가 교사의 반복 업무를 줄이면 학생별 맞춤형 교육에도...",
-          "src": "서울신문",
+          "title": "데이터독, LG유플러스 '익시오'에 AI 분석 기술 적용",
+          "desc": "기존에는 LG유플러스가 문제 원인을 찾기 위해 데이터를 각각 확인해야 했지만, Bits AI 도입 후에는 관련... 있다\"며 \"앞으로도 AI 기술을 적극 활용해 더 안정적이고 편리한 서비스를 제공하겠다\"고 말했다. 김성민...",
+          "src": "thebigdata",
           "date": "11/24",
-          "url": "https://n.news.naver.com/mnews/article/081/0003702365?sid=102",
-          "img": "https://img.seoul.co.kr//img/upload/2026/11/23/SSC_20261123180835_O2.png"
+          "url": "https://www.thebigdata.co.kr/view.php?ud=20261124134420570337600e7ec7_23",
+          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026112413454400428037600e7ec712116214060.jpg&nmt=23"
         },
         {
-          "title": "AI 스마트안경 부정행위 현실화…소방·경찰시험도 관리 ‘주의보’",
-          "desc": "스마트안경이나 초소형 카메라·스피커 등 첨단 기기를 활용한 부정행위 발생 시 공직사회 신뢰가 추락할 수... 관련 기술이 시급히 도입돼야 한다고 제언한다. 최병호 고려대 AI연구소 교수는 “첨단기기 반입 금지, 적발...",
-          "src": "kyeonggi",
+          "title": "AWS, 'AI 에이전트 클라우드' 전략 공개…\"워크로드 80%는 CPU\"",
+          "desc": "격리 기술, 전 계층(풀스택) 신규 업데이트 내용을 공개했다. 이날 발표를 맡은 윤석찬 AWS 수석 테크... 제한' 기능, 클로드 코드·커서 등 AI 코딩 환경 내 계정 즉시 생성 기능을 도입해 서비스 진입장벽을 낮췄다.",
+          "src": "IT데일리",
           "date": "11/24",
-          "url": "https://n.news.naver.com/mnews/article/666/0000133469?sid=102",
-          "img": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/11/23/.cache/512/20261123580545.jpg"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243161",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202611/243161_249227_97_v150.jpg"
         },
         {
-          "title": "AI가 설계안 만들고 오류 찾는다…SK에코플랜트, 'AXen' 가동",
-          "desc": "설계안 작성부터 오류 검토까지 반복적으로 이뤄지던 작업을 AI로 지원해 엔지니어가 전문적인 기술... 이를 위해 구성원별로 AI를 업무에 활용하는 '1인 1에이전트' 도입을 추진하며 반복 업무는 AI가 지원하고 사람은...",
-          "src": "apnews",
+          "title": "세종국제기술교육센터, 바이오산업 AX 교육거점 '구축'",
+          "desc": "시는 기존 세종국제기술교육센터를 활용, 지역별 인공지능(AI)·바이오·제조 분야를 연계한 충청권 인공지능... 시는 2027년 1월부터 교육운영계획 구체화와 교육훈련 장비 도입 협의를 시작해 같은 해 하반기 중...",
+          "src": "srtimes",
           "date": "11/24",
-          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053464",
-          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053464_87712_050_v150.jpg"
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218455",
+          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218455_223513_1033_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "\"세탁기 문은 열어둬야 할까, 닫아야 할까\"",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760663",
-      "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3760663_3944478_535_v150.jpg"
+      "title": "삼성전자, 9년만에 최소 131명 승진…반도체서만 70명 발탁(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016460503?sid=101",
+      "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124044652003_03_i_P4.jpg"
     },
     {
-      "title": "날이 갈수록 커지는 AI 가전 해킹 위협…삼성·LG, 자체 보안체계 강화",
-      "url": "https://www.ajunews.com/view/20261123155528717",
-      "img": "https://image.ajunews.com/content/image/2026/11/23/20261123155933629210.jpg"
+      "title": "\"로봇 수익화 경쟁 시작됐다\"…삼성·LG·SK, 상용화 전략 3색",
+      "url": "https://www.newspim.com/news/view/20261124000759",
+      "img": "https://img.newspim.com/news/2026/11/24/2611241135503230_t1.jpg"
+    },
+    {
+      "title": "[단독] 오픈AI·애플, 신체 변화로 음성 알아듣는 기술 특허 선봬…구글...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=152838",
+      "img": "https://cdn.bizwnews.com/news/thumbnail/202611/152838_170344_427_v150.jpg"
     },
     {
       "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
@@ -272,19 +277,14 @@ window.NEWS_DATA = {
       "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
     },
     {
+      "title": "중국 전기차 경쟁력 인정하면서도 구매는 테슬라…소비자의 ‘전기차 역...",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202611231614161223de3f0aa1be_7",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261123161849016390de3f0aa1be2208661207.jpg&nmt=7"
+    },
+    {
       "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
       "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63272",
       "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000308/ns153684.webp"
-    },
-    {
-      "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
-      "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
-      "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112301168.jpg"
-    },
-    {
-      "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
-      "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
     }
   ]
 };
