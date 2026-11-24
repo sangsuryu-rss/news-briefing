@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.24 (화) 13:50",
+  "updatedAt": "2026.11.25 (수) 02:50",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, 9년만에 최소 131명 승진…반도체서만 70명 발탁(종합2보)",
-          "desc": "삼성전자 임원 승진자는 2021년 214명으로 정점을 찍은 뒤 매년 감소하고 있다. 역대 최고 실적에도 승진자를 줄인 데에는 조직을 더 효율적으로 운영하겠다는 뜻을 담은 것으로 보인다. 스마트폰·가전 등을 담당하는...",
-          "src": "연합뉴스",
-          "date": "11/24",
-          "url": "https://n.news.naver.com/mnews/article/001/0016460503?sid=101",
-          "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124044652003_03_i_P4.jpg"
+          "title": "삼성전자, 임원 131명 승진…AI·로봇·파운드리 경영진 후보군 확대",
+          "desc": "©AP신문(AP뉴스)/이미지 제공 = 삼성전자 ▲삼성전자 화성 나노시티 삼성전자가 역대 최대 실적을 견인한... AI 가전의 성능을 최적화해 매출 성장과 고객경험 향상에 기여했다. 북미총괄 SEA법인 MX Business의 김태영...",
+          "src": "apnews",
+          "date": "11/25",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053501",
+          "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053501_87754_4026_v150.jpg"
         },
         {
-          "title": "\"로봇 수익화 경쟁 시작됐다\"…삼성·LG·SK, 상용화 전략 3색",
-          "desc": "LG 클로이드가 세탁기 제조 공정에서 데이터를 학습하고 있다. [사진=LG전자] ◆ 제조 경쟁 대신 플랫폼 택한 SK…내년 사업성 시험대 SK는 삼성·LG와 다른 방식으로 로봇 시장에 접근하고 있다. 완제품이나 부품을 직접...",
-          "src": "뉴스핌",
+          "title": "결국 그 김치통은 열렸을까…26시간째 이어진 김치통과의 사투 온라인 ...",
+          "desc": "김치냉장고에 2년가량 보관했던 김치통의 뚜껑이 전날 밤부터 열리지 않는다는 것이다. 칼을 동원하고... 삼성전자까지 소환됐다. 한 이용자는 삼성스토어 공식 계정을 태그하며 김치통 뚜껑을 열 방법을 알려달라고...",
+          "src": "weekly",
           "date": "11/24",
-          "url": "https://www.newspim.com/news/view/20261124000759",
-          "img": "https://img.newspim.com/news/2026/11/24/2611241135503230_t1.jpg"
+          "url": "https://n.news.naver.com/mnews/article/033/0000053620?sid=103",
+          "img": "https://img.khan.co.kr/weekly/2026/11/24/news-p.v1.20261124.bc182bab87da4f7887aa9232757ce7dd_P1.jpg"
         },
         {
-          "title": "[단독] 오픈AI·애플, 신체 변화로 음성 알아듣는 기술 특허 선봬…구글...",
-          "desc": "출원했으며, 삼성전자는 온디바이스 AI와 로봇, 모바일 네트워크 관련 특허를 다수 제출했다. 미국 특허... 로봇청소기가 장애물 주변에서 움직임을 정교하게 제어하는 기술과 로봇 물걸레 청소기가 오염된 걸레를...",
-          "src": "bizwnews",
+          "title": "LG전자 류재철 사장, '2026 대한전자공학대상' 수상…가전 혁신·미래사...",
+          "desc": "대한전자공학대상은 대한전자공학회가 주관하고 삼성전자가 후원하는 상으로, 전자공학 기술 발전과 산업... 트윈워시는 두 개의 세탁 공간을 활용해 세탁 편의성을 높였으며, 워시타워는 세탁기와 건조기를 일체형으로...",
+          "src": "joongangenews",
           "date": "11/24",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=152838",
-          "img": "https://cdn.bizwnews.com/news/thumbnail/202611/152838_170344_427_v150.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=566209",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/566209_374086_3943.jpg"
         },
         {
-          "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
-          "desc": "삼성전자와 LG전자는 폴란드에 유럽 가전 생산기지를 두고 있어 향후 제도 확정 범위에 따라 품목별 영향이 달라질 전망이다. 22일(현지시간) 외신 보도에 따르면 유럽가전협회(APPLiA)는 세탁기·냉장고·건조기뿐...",
-          "src": "the-today",
-          "date": "11/23",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
-          "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
+          "title": "[EZ 진단] 분실물 찾던 스마트태그의 진화…삼성, 스마트홈 생태계 넓힌...",
+          "desc": "삼성전자의 스마트싱스 국내 등록 고객 수는 2024년 12월 기준 2000만명을 넘어섰다. 당시 '비스포크 AI 스팀' 로봇청소기 구매자의 92%, '비스포크 AI 콤보' 올인원 세탁건조기 구매자의 80%가 스마트싱스에 제품을 연결한...",
+          "src": "ezyeconomy",
+          "date": "11/24",
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242145",
+          "img": "https://cdn.ezyeconomy.com/news/thumbnail/202611/242145_143811_3148_v150.jpg"
         }
       ]
     },
@@ -60,6 +60,22 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "케첩 쏟아도 걱정 NO… 현대차·기아, 스스로 청소하는 시트 기술 개발",
+          "desc": "현대차와 기아가 자동차 시트에 떨어진 과자 부스러기나 쏟아진 커피를 스스로 청소하는 기술을 고안했다. 시트 아래에 숨겨진 로봇팔이 오염물을 감지해 세정액을 뿌리고 닦아내는 방식이다. 미국 특허청(USPTO)이 최근...",
+          "src": "thedrive",
+          "date": "11/24",
+          "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
+          "img": "https://thedrive.co.kr/news/data/20261124/p1065605180847307_282_thum.JPG"
+        },
+        {
+          "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 배출…부총리 표창",
+          "desc": "/사진=현대차·기아 현대자동차·기아가 연구개발 현장의 안전관리 체계를 강화하며 3년 연속 정부 선정 안전관리 최우수연구실을 배출했다. 올해 인증을 신청한 15개 연구실도 모두 인증을 획득하면서 연구시설 전반의...",
+          "src": "비즈니스플러스",
+          "date": "11/24",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=120404",
+          "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120404_122411_1955_v150.jpg"
+        },
         {
           "title": "중국 전기차 경쟁력 인정하면서도 구매는 테슬라…소비자의 ‘전기차 역...",
           "desc": "현대자동차는 14.7%, 기아자동차는 6.1%로 뒤를 이었다. 반면 실제 보유·운전·동승 경험에서는 국산... 현대 아이오닉을 ‘독립적인 전기차 브랜드’로 보는 것보다 ‘현대차 모델 가운데 하나’로 인식하는 비율이...",
@@ -75,22 +91,6 @@ window.NEWS_DATA = {
           "date": "11/23",
           "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63272",
           "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000308/ns153684.webp"
-        },
-        {
-          "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
-          "desc": "현대차·기아는 자동차 및 디자인 업계 관계자뿐 아니라 일반 관람객과 어린이에게도 창작의 가치와 새로운 영감을 전달한다는 계획이다. 동커볼케 사장은 “꿈은 한 사람에게서 시작되지만 여러 사람의 손길을 통해...",
-          "src": "이데일리",
-          "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/018/0006413969?sid=103",
-          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112301168.jpg"
-        },
-        {
-          "title": "\"아버지, 이번엔 못 물러납니다\" 정주영에 맞선 정몽구…그날 밤 현대차...",
-          "desc": "\"3년 안에 흑자 낸다\" 부실 기아차를 떠안다 1998년 외환위기 당시 기아자동차는 자금난으로 법정관리를 받고 있었다. 현대차는 그해 10월 인수자로 선정됐지만 생산시설과 판매망 정비, 부품체계 통합 등 해결해야 할...",
-          "src": "파이낸셜뉴스",
-          "date": "11/23",
-          "url": "https://n.news.naver.com/mnews/article/014/0005607949?sid=101",
-          "img": "https://image.fnnews.com/resource/media/image/2026/11/21/202611210946532051_e.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "한국항공대 재학생 30명, 국회서 고동진 의원과 진로·취업 고민 나눠",
-          "desc": "한국항공대학교 재학생들이 첫 직장을 고르는 기준과 인공지능(AI) 시대에 갖춰야 할 역량을 두고 삼성전자... 사고 이후에는 배터리 규격과 협력사 관리부터 시생산품의 품질, 부품 구매·납품과 조립에 이르기까지...",
-          "src": "ekn",
+          "title": "11월 4주 주요 제조업 전망",
+          "desc": "12pt) □ 국내 선박 수주 동향(출처 SK증권) - 삼성중공업 덴마크의 Celsius Tanker로부터 LNG 운반선(LNGC) 1척을... 또 다른 에어컨 부품 제조 협력사는 원재료 가격 상승에 대응해 LG전자 생산기술원과 협업, 스테인리스 등...",
+          "src": "laborplus",
           "date": "11/24",
-          "url": "https://www.ekn.kr/web/view.php?key=20261124028143879",
-          "img": "https://www.ekn.kr/mnt/file/202611/news-p.v1.20261124.a7ec10deab7e4e98acf99e2bcc7c570b_R.png"
+          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41883",
+          "img": "https://cdn.laborplus.co.kr/news/photo/202611/41883_75252_2633.jpg"
         },
         {
-          "title": "[특징주] 도우인시스, IT·폴더블 부품주 투자심리 개선에 강세…11.08%↑",
-          "desc": "IT 부품 관련주 전반으로 매수세가 유입되며 주가가 동반 상승하는 흐름을 나타냈다. 이날 같은 시각... 현재 삼성디스플레이의 1차 협력사로서 삼성전자 갤럭시 Z 폴드 시리즈와 글로벌 제조사에 폴더블...",
-          "src": "widedaily",
+          "title": "[젠슨 황 귀환①] 한·일·대만 증시 '환호'…TSMC 상한가·반도체주 폭...",
+          "desc": "엔비디아의 주요 협력사인 TSMC가 상한가로 치솟았고 삼성전자와 SK하이닉스, 일본 반도체 장비주에도... 도쿄일렉트론은 7.67%, 전자부품업체 TDK는 7.16% 상승했다. 미국에서 대규모 데이터센터 사업을 추진하는...",
+          "src": "newsian",
           "date": "11/24",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=304535",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202611/304535_311933_2517_v150.jpg"
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101947",
+          "img": "https://cdn.newsian.co.kr/news/photo/202611/101947_102456_2424.jpg"
         },
         {
-          "title": "GPU 공급 불확실성 걷히나…이수페타시스·ISC까지 번지는 젠슨 황 엔비...",
-          "desc": "엔비디아의 GPU 생산이 안정적으로 확대되면 고대역폭메모리(HBM)와 첨단 패키징, 반도체 검사 부품, 서버용... 삼성전기처럼 엔비디아가 공급망 협력사로 직접 언급한 기업과 SK하이닉스·삼성전자처럼 AI 메모리 수요에...",
-          "src": "핀포인트뉴스",
+          "title": "류재철 LG전자 사장, 2026 대한전자공학대상 '영예'",
+          "desc": "LG전자 대표이사 사장을 선정했다고 24일 밝혔다. 대한전자공학대상은 대한전자공학회가 주관하고 삼성전자... 류 사장은 행사 인사말에서 \"부품 경쟁력이 제품 경쟁력으로 직결되듯 협력사의 경쟁력이 곧 LG전자의...",
+          "src": "financialpost",
           "date": "11/24",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507434",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/507434_492099_587_v150.jpg"
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302841",
+          "img": "https://cdn.financialpost.co.kr/news/photo/202611/302841_405184_1327.jpg"
         },
         {
-          "title": "[르포]상전벽해의 용인 원삼, ‘초격차 속도전’ 현장 가다…내년 2월 ...",
-          "desc": "및 협력사 1000여 곳 집적…삼성전자·기흥 R&D 잇는 메가클러스터 내년 3월 용인반도체고 개교·최대 1조 원... 전체 부지의 47.3%(197만㎡)를 차지하는 SK하이닉스 구역에는 팹 4기와 소재·부품·장비(소부장) 협력단지...",
-          "src": "dnews",
+          "title": "삼성전자·SK하이닉스, 800조원 반도체 투자 실행 속도…전문인력 확보...",
+          "desc": "삼성전자, SK하이닉스, 삼성물산, SK에코플랜트, 한국토지주택공사(LH), 주요 협력사 및 건설 관련 단체... 정부는 이를 중심으로 소재·부품·장비(소부장) 협력기업과 연구개발·인력양성 기반을 집적해 수도권에 이은...",
+          "src": "joongangenews",
           "date": "11/24",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231950206210269",
-          "img": "https://image.dnews.co.kr/photo/photo/2026/11/23/202611231950206210269-2-707833.jpg"
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=566220",
+          "img": "https://cdn.joongangenews.com/news/photo/202611/566220_374096_4639.png"
         }
       ]
     },
@@ -205,12 +205,12 @@ window.NEWS_DATA = {
           "img": "http://www.opinionnews.co.kr/news/thumbnail/202611/146925_108629_5649_v150.jpg"
         },
         {
-          "title": "[단독] 한국 車부품사 'UNI', 멕시코 두랑고 첫 공장…1억3500만페소 투자",
-          "desc": "주력 생산품은 차량 내부에서 고속 데이터를 전송하는 와이어링 하네스다. 여러 전선과 커넥터를 하나로 묶은 핵심 배선 장치로, 차량용 카메라와 첨단운전자보조시스템(ADAS), 차량 내외부 통신 등 최신 전장 부품의...",
-          "src": "the-today",
+          "title": "현대모비스·삼현 '부르릉'… 자동차부품주 실적 개선 기대 커졌다",
+          "desc": "전선과 와이어링 하네스 사업을 전개한다. 배터리팩과 구동 부품 분야에서는 삼기에너지솔루션즈와 디아이씨가 관련 종목으로 분류된다. 한국단자는 자동차용 커넥터와 전장 부품을 공급하며, 휴림에이텍과 디젠스는...",
+          "src": "핀포인트뉴스",
           "date": "11/24",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=94026",
-          "img": "https://cdn.the-today.com/news/photo/202611/94026_115606_408.png"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507601",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/507601_492256_4457_v150.jpg"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "\"경쟁사가 뭘 내놓든 고객 요구가 먼저\"…AWS, AI 에이전트 시대 클라우...",
-          "desc": "윤 에반젤리스트는 경쟁사들도 AI에이전트 서비스를 갖고 있을 것이라고 인정하면서, 차별점으로 기술... 고객 요구도 칩 구매와 모델 훈련을 직접 하려는 곳부터 직원용 AI 도구만 도입하려는 곳까지 폭이 넓어...",
-          "src": "뉴스웍스",
-          "date": "11/24",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904210",
-          "img": "https://cdn.newsworks.co.kr/news/photo/202611/904210_906046_5248.jpg"
+          "title": "[뉴스이슈&비즈] AI 서버가 메모리 싹쓸이…삼성·SK 공급난 장기화 '우...",
+          "desc": "김유진 상무는 생산기술과 공정 효율화 업무를 맡았으며, 이번 인사에서 30대 여성 임원으로 발탁됐다.... ◇ SOOP, 영상 속 장면 찾아주는 AI 검색 도입 SOOP은 24일 플랫폼에 자체 인공지능 기반 콘텐츠 검색 기능을...",
+          "src": "issuenbiz",
+          "date": "11/25",
+          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81979",
+          "img": "https://cdn.issuenbiz.com/news/thumbnail/202611/81979_82624_5731_v150.jpg"
         },
         {
-          "title": "데이터독, LG유플러스 '익시오'에 AI 분석 기술 적용",
-          "desc": "기존에는 LG유플러스가 문제 원인을 찾기 위해 데이터를 각각 확인해야 했지만, Bits AI 도입 후에는 관련... 있다\"며 \"앞으로도 AI 기술을 적극 활용해 더 안정적이고 편리한 서비스를 제공하겠다\"고 말했다. 김성민...",
-          "src": "thebigdata",
-          "date": "11/24",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=20261124134420570337600e7ec7_23",
-          "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026112413454400428037600e7ec712116214060.jpg&nmt=23"
+          "title": "메타, 600억 달러 자본 확충에 제동…주주 반발에 AI 투자 전략 차질",
+          "desc": "메타는 당초 내년 1월 의결권이 없는 새로운 종류의 주식을 도입할 계획이었다. 기존 주주들에게 신주를... 글로벌 기술기업들의 AI 투자 경쟁이 치열해지는 상황에서 메타가 경영권 안정성과 일반 주주의 권익 보호...",
+          "src": "jemin",
+          "date": "11/25",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848386",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/848386_435923_01_v150.jpg"
         },
         {
-          "title": "AWS, 'AI 에이전트 클라우드' 전략 공개…\"워크로드 80%는 CPU\"",
-          "desc": "격리 기술, 전 계층(풀스택) 신규 업데이트 내용을 공개했다. 이날 발표를 맡은 윤석찬 AWS 수석 테크... 제한' 기능, 클로드 코드·커서 등 AI 코딩 환경 내 계정 즉시 생성 기능을 도입해 서비스 진입장벽을 낮췄다.",
-          "src": "IT데일리",
-          "date": "11/24",
-          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243161",
-          "img": "https://cdn.itdaily.kr/news/thumbnail/202611/243161_249227_97_v150.jpg"
+          "title": "\"AI 확산에 저연차 회계사 수요 감소\"… 내년 회계사 최소선발 1,100명으...",
+          "desc": "인공지능(AI) 기술 확산에 따른 저연차 회계사 대체 효과와 수습처를 찾지 못한 합격자 누적 등의 영향으로... AI 활용 확대에 따른 회계 환경 변화 등을 종합적으로 반영한 결과다. 실제로 회계업계에서는 AI 도입에...",
+          "src": "dailysportshankook",
+          "date": "11/25",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435915",
+          "img": "https://cdn.dailysportshankook.co.kr/news/photo/202611/435915_452643_4259.jpg"
         },
         {
-          "title": "세종국제기술교육센터, 바이오산업 AX 교육거점 '구축'",
-          "desc": "시는 기존 세종국제기술교육센터를 활용, 지역별 인공지능(AI)·바이오·제조 분야를 연계한 충청권 인공지능... 시는 2027년 1월부터 교육운영계획 구체화와 교육훈련 장비 도입 협의를 시작해 같은 해 하반기 중...",
-          "src": "srtimes",
-          "date": "11/24",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=218455",
-          "img": "https://cdn.srtimes.kr/news/thumbnail/202611/218455_223513_1033_v150.jpg"
+          "title": "경기도교육청, 'AX 시대 경기영어교육 대전환 포럼' 개최…\"사교육 경감...",
+          "desc": "현장 활용 및 확산 사례를 공유했으며 참석자들의 생생한 현장 의견을 수렴해 향후 정책 제언을 도출했다.... 이혁규 경기도교육청 진로직업교육과장은 \"인공지능 전환(AX) 시대 영어교육의 핵심은 새로운 기술을 도입하...",
+          "src": "cstimes",
+          "date": "11/25",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=729259",
+          "img": "https://www.cstimes.com/news/photo/202611/729259_650994_5937.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, 9년만에 최소 131명 승진…반도체서만 70명 발탁(종합2보)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016460503?sid=101",
-      "img": "https://img8.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124044652003_03_i_P4.jpg"
+      "title": "삼성전자, 임원 131명 승진…AI·로봇·파운드리 경영진 후보군 확대",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053501",
+      "img": "https://cdn.apnews.kr/news/thumbnail/202611/3053501_87754_4026_v150.jpg"
     },
     {
-      "title": "\"로봇 수익화 경쟁 시작됐다\"…삼성·LG·SK, 상용화 전략 3색",
-      "url": "https://www.newspim.com/news/view/20261124000759",
-      "img": "https://img.newspim.com/news/2026/11/24/2611241135503230_t1.jpg"
+      "title": "결국 그 김치통은 열렸을까…26시간째 이어진 김치통과의 사투 온라인 ...",
+      "url": "https://n.news.naver.com/mnews/article/033/0000053620?sid=103",
+      "img": "https://img.khan.co.kr/weekly/2026/11/24/news-p.v1.20261124.bc182bab87da4f7887aa9232757ce7dd_P1.jpg"
     },
     {
-      "title": "[단독] 오픈AI·애플, 신체 변화로 음성 알아듣는 기술 특허 선봬…구글...",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=152838",
-      "img": "https://cdn.bizwnews.com/news/thumbnail/202611/152838_170344_427_v150.jpg"
+      "title": "LG전자 류재철 사장, '2026 대한전자공학대상' 수상…가전 혁신·미래사...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566209",
+      "img": "https://cdn.joongangenews.com/news/photo/202611/566209_374086_3943.jpg"
     },
     {
-      "title": "[투데이온] \"식기세척기·오븐까지 탄소장벽 확대 요구\"…삼성·LG 폴란...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93960",
-      "img": "https://cdn.the-today.com/news/photo/202611/93960_115535_284.png"
+      "title": "[EZ 진단] 분실물 찾던 스마트태그의 진화…삼성, 스마트홈 생태계 넓힌...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242145",
+      "img": "https://cdn.ezyeconomy.com/news/thumbnail/202611/242145_143811_3148_v150.jpg"
     },
     {
-      "title": "중국 전기차 경쟁력 인정하면서도 구매는 테슬라…소비자의 ‘전기차 역...",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202611231614161223de3f0aa1be_7",
-      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261123161849016390de3f0aa1be2208661207.jpg&nmt=7"
+      "title": "케첩 쏟아도 걱정 NO… 현대차·기아, 스스로 청소하는 시트 기술 개발",
+      "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
+      "img": "https://thedrive.co.kr/news/data/20261124/p1065605180847307_282_thum.JPG"
     },
     {
-      "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’...",
-      "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63272",
-      "img": "https://www.dailycar.co.kr/data/news_xml_img/Id0000000308/ns153684.webp"
+      "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 배출…부총리 표창",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120404",
+      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120404_122411_1955_v150.jpg"
     }
   ]
 };
