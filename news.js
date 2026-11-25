@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.25 (수) 11:31",
+  "updatedAt": "2026.11.25 (수) 23:27",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성, '물건 정리'하는 로봇청소기 출시하나…中과 불 붙은 경쟁",
-          "desc": "삼성전자가 바닥에 놓인 옷과 쓰레기 등을 직접 옮기는 로봇청소기 기술을 잇달아 확보하면서 차세대 제품에... 드리미 역시 지난해 독일 국제가전박람회(IFA)에서 최대 500g의 물체를 들어 옮길 수 있는 로봇팔을 장착한...",
-          "src": "블로터",
+          "title": "AI 가전 경쟁, 기능 넘어 데이터·실증으로···중소기업 사업화 역량 ...",
+          "desc": "25일 산업계에 따르면 삼성전자와 LG전자는 개별 가전의 AI 기능을 고도화하는 동시에 여러 제품과 서비스를 연결하는 생태계 구축에 힘을 싣고 있다. 삼성전자는 스마트싱스를 기반으로 냉장고·세탁기·청소기 등...",
+          "src": "polinews",
           "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/293/0000093792?sid=101",
-          "img": "https://cdn.bloter.net/news/thumbnail/202611/679635_294736_5918_v150.jpg"
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749184",
+          "img": "https://cdn.polinews.co.kr/news/photo/202611/749184_574308_2434.jpg"
         },
         {
-          "title": "전세난 심화되는 동탄…3억대 전세 ‘힐스테이트 동탄 르센텀’ 주거 대...",
-          "desc": "삼성전자와 SK하이닉스 등 인근 반도체 업계의 성과급 지급 여파로 직주근접을 원하는 직장인 전세 수요가... 현관에는 외출용품과 계절용품 등을 넉넉히 수납할 수 있는 대형 팬트리를 마련했으며, 주방에는 김치냉장고...",
-          "src": "view",
+          "title": "[같이경제] 삼성라이온즈 우승…지역 경제 효과 높이려면?",
+          "desc": "삼성전자와 삼성물산 등도 프로야구 우승을 기념해 가전 구독료나 의류 할인 행사를 진행했는데요. 이런 혜택 외에도 프로야구는 지역경제에 큰 영향을 미칩니다. 가장 직접적인 건 소비 증가로 인한 주변 상권 활성화...",
+          "src": "news",
           "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/277/0005847541?sid=101",
-          "img": "https://cphoto.asiae.co.kr/listimglink/1/2026112510510123041_1795571460.jpg"
+          "url": "https://n.news.naver.com/mnews/article/056/0012301106?sid=101",
+          "img": "http://news.kbs.co.kr/data/news/2026/11/25/20261125_JzL8ug.jpg"
         },
         {
-          "title": "삼성전자 임원 승진 10년 만에 최소…반도체·여성 인재 전면에 섰다",
-          "desc": "삼성전자 임직원이 반도체 생산 클린룸에서 작업을 하고 있다. (삼성전자 제공) 삼성전자가 올해 정기... 이 밖에도 DX부문에서는 AI 가전 성능 고도화에 기여한 방은숙 세탁기플랫폼랩장과 북미 스마트폰 영업 전문가...",
-          "src": "queen",
+          "title": "'로보락 폭발' 소비자 글 확산…중국산 로봇청소기 '안전·보안' 도마 위...",
+          "desc": "한편, 중국산 로봇청소기에 대한 안전성, 보안 문제가 대두되자, 삼성전자·LG전자 등 국내 업체들은 점유율 확대의 기회로 삼고 있다. 그간 로보락은 국내 로봇청소기 시장에서 50% 이상을 차지하며 1위를 지켜왔다....",
+          "src": "뉴스웍스",
           "date": "11/25",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=466894",
-          "img": ""
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904366",
+          "img": "https://cdn.newsworks.co.kr/news/photo/202611/904366_906306_5225.png"
         },
         {
-          "title": "2026년 이집트 가전산업 정보",
-          "desc": "하위 품목군 중에서는 오븐이 11%, 자동 세탁·건조기가 9%(판매량은 약 6000대), 전자레인지가 5... 한국의 삼성전자(Samsung Electronics) 독일의 보쉬(Bosch) 계열의 BSH, 튀르키예의 베코(Beko) 등이 있다. <이집트...",
-          "src": "dream",
+          "title": "광군제 이어 블프까지…내수 한파 中 가전, 해외서 삼성·LG 위협",
+          "desc": "로보락은 세탁건조기를, TCL은 지난 6월 에어컨을 국내에 내놨다. 이런 가운데 삼성전자와 LG전자의 수익성도 흔들리고 있다. 삼성전자 영상디스플레이(VD)·생활가전(DA) 사업부는 3분기 약 2000억 원의 영업손실을...",
+          "src": "g-enews",
           "date": "11/25",
-          "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=245364",
-          "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+          "url": "https://www.g-enews.com/view.php?ud=202611251423342505139bf6e4b2_1",
+          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026112514240406696139bf6e4b2175123208181.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "‘AI 커닝’ 원천 차단…국가시험에 보디캠·탐지기 도입",
-          "desc": "■ 삼성, 성과주의 인사로 DS·DX 희비 엇갈려: 삼성전자가 2027년 정기 임원 인사에서 승진자를 지난해... 대기업과 소부장 협력사 간 개방형 혁신 생태계가 확대되면서, 반도체 소재·부품·장비 분야로 진출을...",
-          "src": "서울경제",
+          "title": "iM증권, 삼성 휴머노이드 부품 외주 전망",
+          "desc": "기존 자동차 부품 공급망을 활용할 수 있는 현대차그룹과 달리 새로운 협력사를 확보할 여지가 있다는... 이 연구원은 여러 업체가 삼성전자 관련 부품 시험과 수주 가능성을 강조하고 있다며, 수주나 공급 일정이 늦어질...",
+          "src": "아시아타임즈",
           "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/011/0004685940?sid=101",
-          "img": "https://wimg.sedaily.com/news/cms/2026/11/25/news-p.v1.20260805.d3a5f89296ba4e1d826c152ecabcf9fe_Z1.png"
+          "url": "https://www.asiatime.co.kr/article/20261125500433",
+          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/11/25/.cache/512/20261125500432.jpg"
         },
         {
-          "title": "골드만삭스 \"韓, 금리 인상보다 원화 안정이 물가 억제에 효과적\"",
-          "desc": "권 이코노미스트는 \"생산량이 늘어나면 소재·부품 협력사들이 즉각적인 수혜를 입지만, 가격만 오르면 초과 이익이 (삼성전자·SK하이닉스 등) 두 대형 반도체 제조사에 집중된다\"며 \"파급 효과를 보려면 그 자금이...",
-          "src": "더구루",
+          "title": "유안타증권 \"삼성전자 로봇 손에 누가 참여하나…원익홀딩스·대성하이...",
+          "desc": "이 가운데 대성하이텍은 테솔로에 지분을 투자하고 로봇핸드 관련 정밀부품 협력을 추진하고 있다는 점에서 관련주로 거론된다. 삼성전자의 로봇 사업 확대와 함께 자회사 레인보우로보틱스의 협력사들도 증시의 관심...",
+          "src": "핀포인트뉴스",
           "date": "11/25",
-          "url": "https://www.theguru.co.kr/news/article.html?no=110155",
-          "img": "https://www.theguru.co.kr/data/photos/20261148/art_17955617757298_3d380f.jpg"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508097",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508097_492722_4117_v150.jpg"
         },
         {
-          "title": "[Who Is ?] 이봉관 서희건설 회장",
-          "desc": "투자목적의 삼성전자와 네이버 등 주식은 처분했다. 국민권익위원회 중앙행정심판위원회는 박 전 실장이... 서희건설 관계자는 주요공정인 철근 콘트리트 등 협력사의 공사중단 및 태업으로 공사 진행이 더 이상...",
-          "src": "비즈니스포스트",
+          "title": "불붙은 한·일 로봇 경쟁…\"휴머노이드 실전 배치 속도전\"",
+          "desc": "도요타그룹은 직접 개발한 휴머노이드를 자사 공장과 부품 협력사에 납품할 예정이다. 계열사와 협력사에서... 조립 부품 수 감축에 나서는 방식이다. 모빌리티 기업만 휴머노이드 제조에 집중하는 건 아니다. 삼성전자...",
+          "src": "한국경제",
           "date": "11/25",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452344",
-          "img": ""
+          "url": "https://n.news.naver.com/mnews/article/015/0005358166?sid=101",
+          "img": "https://img.hankyung.com/photo/202611/AA.46542471.1.jpg"
         },
         {
-          "title": "[출근길 포인트]젠슨 황 복귀에 엔비디아·한국 기업 협력 기대감 높아...",
-          "desc": "삼성전자 역시 HBM4 공급을 비롯해 차세대 HBM4E·HBM5와 파운드리 분야로 협력 확대를 모색해 왔다. 황 CEO의... 기존 협력 사업을 예정대로 추진한다는 입장을 재확인했다. 업계에서는 황 CEO의 복귀를 단순한 경영...",
-          "src": "pointdaily",
+          "title": "[CEO A to Z] 두산 박정원, 어두운 터널의 끝에서 빛난 '반도체 베팅'",
+          "desc": "SK하이닉스, 삼성전자, TSMC가 실트론의 고객사들이다. 두산은 반도체 시장의 성장에 따라 웨이퍼 사업이... 두산에너빌리티는 국내 유일의 원전 주기기 제작 기업으로 협력사와 함께 현재까지 원자로와 증기발생기를...",
+          "src": "economist",
           "date": "11/25",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327239",
-          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/327239_324434_2314_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/243/0000106298?sid=101",
+          "img": "https://economist.co.kr/data/ecn/image/2026/04/14/ecn20260414000065.800x.0.jpg"
         }
       ]
     },
@@ -205,12 +205,12 @@ window.NEWS_DATA = {
           "img": "http://www.opinionnews.co.kr/news/thumbnail/202611/146925_108629_5649_v150.jpg"
         },
         {
-          "title": "현대모비스·삼현 '부르릉'… 자동차부품주 실적 개선 기대 커졌다",
-          "desc": "전선과 와이어링 하네스 사업을 전개한다. 배터리팩과 구동 부품 분야에서는 삼기에너지솔루션즈와 디아이씨가 관련 종목으로 분류된다. 한국단자는 자동차용 커넥터와 전장 부품을 공급하며, 휴림에이텍과 디젠스는...",
+          "title": "전기화재 예방 기준 강화…제일일렉트릭 신제품 수혜 기대",
+          "desc": "와이어링 하네스는 자동차 내부의 각종 전장부품과 전기장치를 연결해 전력과 신호를 전달하는 배선 시스템이다. 자동차에 탑재되는 전자장치가 늘어나면서 관련 부품의 적용 범위와 중요성도 커지고 있다....",
           "src": "핀포인트뉴스",
-          "date": "11/24",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507601",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/507601_492256_4457_v150.jpg"
+          "date": "11/08",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502162",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/502162_487238_176_v150.jpg"
         }
       ]
     },
@@ -221,55 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[똑똑한리빙] 유한클로락스, 피죤, 바디프랜드, 우아한형제들 딜리, 한...",
-          "desc": "플라랩은 2016년 도시재생 활동을 계기로 출범한 새활용 연구소다. 독자적인 사출 기술과 3D 금형 디자인을... 양사는 타워피엠씨가 관리하는 아파트 단지에 배달로봇 '딜리'를 도입해 개별 세대 출입문 앞까지 상품을...",
-          "src": "ekn",
+          "title": "임동현 충북도의원, 지역경제 활성화·안전한 AI 활용 제도 정비 추진",
+          "desc": "인공지능 활용 지침 마련과 윤리·인권 등 전문가의 위원회 참여 및 도민 교육과 기업의 인공지능 도입 지원 근거도 담았다. 임동현 의원은 \"지역기업이 공공시장에 참여할 기회를 넓히고, 인공지능 기술 발전의 혜택에서...",
+          "src": "newstnt",
           "date": "11/25",
-          "url": "https://www.ekn.kr/web/view.php?key=20261125025454385",
-          "img": "https://www.ekn.kr/mnt/thum/202611/news-a.v1.20261125.c3aa5a8bfbd64988b7b1ffc3bdb1ada6_T1.jpg"
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=730618",
+          "img": "https://cdn.newstnt.com/news/photo/202611/730618_736607_4956.png"
         },
         {
-          "title": "동양생명·ABL생명, AI 기반 개발 '역량 강화' 나서",
-          "desc": "임직원의 기술 활용 역량을 높이고 협업 기반을 다지는 데 초점을 맞췄다. 특히 이번 해커톤에는 지식 베이스(Source of Truth, SoT)를 기반으로 한 자율형 에이전트 코딩 개발 방식이 도입됐다. 기존 AI가 정보를 검색하고...",
-          "src": "insnews",
+          "title": "AI 확산에 여성 첫 취업·재취업 문 좁아질 우려",
+          "desc": "박수범 한국여성정책연구원 연구위원이 발표한 'AI 기술발전에 따른 여성고용정책 방향' 연구에서도 여성 집중 직종에 대한 맞춤형 지원 필요성이 제기됐다. 직업별 AI 노출도와 산업 현장의 AI 도입 수준에 여성고용...",
+          "src": "womennews",
           "date": "11/25",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=94042",
-          "img": "https://cdn.insnews.co.kr/news/photo/202611/94042_59232_4919.jpg"
+          "url": "https://n.news.naver.com/mnews/article/310/0000142061?sid=102",
+          "img": "https://cdn.womennews.co.kr/news/thumbnail/202611/284946_458564_4252_v150.jpg"
         },
         {
-          "title": "SK스토아, AI 쇼호스트 '아이사' 스튜디오 투입…인간 쇼호스트와 첫 합...",
-          "desc": "협업형 AI 방송을 공개한다고 밝혔다. 생활용품부터 건강기능식품까지 서로 다른 카테고리의 상품군에... 이번 시도는 단순한 신기술 도입을 넘어 방송 제작 현장에서 인간과 AI의 역할을 새롭게 정의했다는 점에서...",
-          "src": "widedaily",
+          "title": "스튜디오키코, 의사의 차트 작성 시간을 70% 줄였다…‘니어닥’ 출시 ...",
+          "desc": "스튜디오키코의 의료 AI 스크라이브 서비스 ‘니어닥(Neardoc)’이 정식 출시 6개월 만에 누적 진료 기록 100만건을 돌파했다. (자료 제공: 스튜디오키코) 도입 기관 수뿐 아니라 의료진의 실제 서비스 활용 빈도도 높다....",
+          "src": "venturesquare",
           "date": "11/25",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=304733",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202611/304733_312125_2812_v150.jpg"
+          "url": "https://www.venturesquare.net/1131501/",
+          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/kiko.png"
         },
         {
-          "title": "[분석] 디지털자산법 지각변동, 업비트·빗썸 지배구조 변수, KB·신한·...",
-          "desc": "글로벌 거래소의 자본과 기술력을 활용한 국내 사업 확대 과정에서 지분 규제를 충족하면서 전략적 협력... 정부는 제도 도입 초기 은행권이 합산 과반 지분을 보유한 컨소시엄부터 스테이블코인 발행을 허용할 계획이다....",
-          "src": "womaneconomy",
+          "title": "담양군, 12월 3일 'AI 정책토론회' 개최…지역 미래전략 모색",
+          "desc": "AI 스마트 농업 도시' 실현을 위한 구체적인 정책 과제를 논의할 예정이다. 주제 발표에는 광주과학기술원... AI 도입을 위한 준비 과제를 제시한다. 이대권 대표는 '인구감소·고령화 대응 AI 활용 및 플랫폼 구축'을...",
+          "src": "fntoday",
           "date": "11/25",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261555",
-          "img": "https://cdn.womaneconomy.co.kr/news/thumbnail/202611/261555_465872_3324_v150.jpg"
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400322",
+          "img": "https://www.fntoday.co.kr/news/thumbnail/202611/400322_325112_3743_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성, '물건 정리'하는 로봇청소기 출시하나…中과 불 붙은 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/293/0000093792?sid=101",
-      "img": "https://cdn.bloter.net/news/thumbnail/202611/679635_294736_5918_v150.jpg"
+      "title": "AI 가전 경쟁, 기능 넘어 데이터·실증으로···중소기업 사업화 역량 ...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749184",
+      "img": "https://cdn.polinews.co.kr/news/photo/202611/749184_574308_2434.jpg"
     },
     {
-      "title": "전세난 심화되는 동탄…3억대 전세 ‘힐스테이트 동탄 르센텀’ 주거 대...",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847541?sid=101",
-      "img": "https://cphoto.asiae.co.kr/listimglink/1/2026112510510123041_1795571460.jpg"
+      "title": "[같이경제] 삼성라이온즈 우승…지역 경제 효과 높이려면?",
+      "url": "https://n.news.naver.com/mnews/article/056/0012301106?sid=101",
+      "img": "http://news.kbs.co.kr/data/news/2026/11/25/20261125_JzL8ug.jpg"
     },
     {
-      "title": "2026년 이집트 가전산업 정보",
-      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=245364",
-      "img": "https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"
+      "title": "'로보락 폭발' 소비자 글 확산…중국산 로봇청소기 '안전·보안' 도마 위...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904366",
+      "img": "https://cdn.newsworks.co.kr/news/photo/202611/904366_906306_5225.png"
+    },
+    {
+      "title": "광군제 이어 블프까지…내수 한파 中 가전, 해외서 삼성·LG 위협",
+      "url": "https://www.g-enews.com/view.php?ud=202611251423342505139bf6e4b2_1",
+      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026112514240406696139bf6e4b2175123208181.jpg"
     },
     {
       "title": "미국서 기아 상대 소비자 소송 잇따라…국내서도 품질 논란·집단소송 ...",
@@ -280,11 +285,6 @@ window.NEWS_DATA = {
       "title": "케첩 쏟아도 걱정 NO… 현대차·기아, 스스로 청소하는 시트 기술 개발",
       "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
       "img": "https://thedrive.co.kr/news/data/20261124/p1065605180847307_282_thum.JPG"
-    },
-    {
-      "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 배출…부총리 표창",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120404",
-      "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120404_122411_1955_v150.jpg"
     }
   ]
 };
