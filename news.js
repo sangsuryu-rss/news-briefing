@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.25 (수) 23:27",
+  "updatedAt": "2026.11.26 (목) 09:24",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "AI 가전 경쟁, 기능 넘어 데이터·실증으로···중소기업 사업화 역량 ...",
-          "desc": "25일 산업계에 따르면 삼성전자와 LG전자는 개별 가전의 AI 기능을 고도화하는 동시에 여러 제품과 서비스를 연결하는 생태계 구축에 힘을 싣고 있다. 삼성전자는 스마트싱스를 기반으로 냉장고·세탁기·청소기 등...",
-          "src": "polinews",
-          "date": "11/25",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749184",
-          "img": "https://cdn.polinews.co.kr/news/photo/202611/749184_574308_2434.jpg"
+          "title": "롯데하이마트 가전수리올케어, 출시 50일 만에 가입자 5만명 넘어",
+          "desc": "1인당 평균 등록 가전은 9대였으며, 30대 이상을 등록한 사례도 확인됐다. 삼성전자와 LG전자 외에도 쿠쿠, 다이슨, 애플, 로보락, ASUS, 레노버 등 여러 제조사의 제품이 등록됐다. 가전수리올케어는 대형가전과 생활...",
+          "src": "lawissue",
+          "date": "11/26",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611260919358365204ead0791_12",
+          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261126091955091240204ead079118023320059.jpg&nmt=12"
         },
         {
-          "title": "[같이경제] 삼성라이온즈 우승…지역 경제 효과 높이려면?",
-          "desc": "삼성전자와 삼성물산 등도 프로야구 우승을 기념해 가전 구독료나 의류 할인 행사를 진행했는데요. 이런 혜택 외에도 프로야구는 지역경제에 큰 영향을 미칩니다. 가장 직접적인 건 소비 증가로 인한 주변 상권 활성화...",
-          "src": "news",
-          "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/056/0012301106?sid=101",
-          "img": "http://news.kbs.co.kr/data/news/2026/11/25/20261125_JzL8ug.jpg"
+          "title": "삼성전자서비스, 엔지니어 기술·안전 역량 점검…경진대회 개최",
+          "desc": "삼성전자서비스가 제품 수리 기술과 현장 안전 개선 사례를 평가하는 기술 경진대회를 열었다. 인공지능(AI)... 평가 대상에는 냉장고와 식기세척기, 세탁건조기, 로봇청소기, 에어컨, TV, PC, 스마트폰, 웨어러블 기기 등이...",
+          "src": "nongaek",
+          "date": "11/26",
+          "url": "http://www.nongaek.com/news/articleView.html?idxno=97628",
+          "img": "https://cdn.nongaek.com/news/thumbnail/202611/97628_48527_1253_v150.jpg"
         },
         {
-          "title": "'로보락 폭발' 소비자 글 확산…중국산 로봇청소기 '안전·보안' 도마 위...",
-          "desc": "한편, 중국산 로봇청소기에 대한 안전성, 보안 문제가 대두되자, 삼성전자·LG전자 등 국내 업체들은 점유율 확대의 기회로 삼고 있다. 그간 로보락은 국내 로봇청소기 시장에서 50% 이상을 차지하며 1위를 지켜왔다....",
-          "src": "뉴스웍스",
-          "date": "11/25",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904366",
-          "img": "https://cdn.newsworks.co.kr/news/photo/202611/904366_906306_5225.png"
+          "title": "삼성전자서비스, 엔지니어 AI 역량 높인다…기술경진·안전혁신대회 개...",
+          "desc": "삼성전자서비스는 안전한 서비스 환경을 위한 현장 사례도 함께 발굴한다. 삼성전자서비스는 25일부터... 수리 경진은 ▲키친(냉장고, 식기세척기, 시스템에어컨) ▲리빙(세탁건조기, 로봇청소기, 시스템에어컨) ▲에어...",
+          "src": "lcnews",
+          "date": "11/26",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212040",
+          "img": "https://cdn.lcnews.co.kr/news/photo/202611/212040_215773_1858.jpg"
         },
         {
-          "title": "광군제 이어 블프까지…내수 한파 中 가전, 해외서 삼성·LG 위협",
-          "desc": "로보락은 세탁건조기를, TCL은 지난 6월 에어컨을 국내에 내놨다. 이런 가운데 삼성전자와 LG전자의 수익성도 흔들리고 있다. 삼성전자 영상디스플레이(VD)·생활가전(DA) 사업부는 3분기 약 2000억 원의 영업손실을...",
-          "src": "g-enews",
-          "date": "11/25",
-          "url": "https://www.g-enews.com/view.php?ud=202611251423342505139bf6e4b2_1",
-          "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026112514240406696139bf6e4b2175123208181.jpg"
+          "title": "롯데하이마트 ‘가전수리올케어’, 50일 만에 가입자 5만명 돌파",
+          "desc": "냉장고·세탁기 등 대형가전 8종과 생활·주방가전 21종, 노트북 등 IT기기 5종이 대상이다. 이미 사용 중인... 등록 제품의 브랜드는 삼성전자와 LG전자, 쿠쿠, 다이슨, 애플, 로보락 등 1000개를 넘었다. 가전을 30대 넘게...",
+          "src": "브릿지경제",
+          "date": "11/26",
+          "url": "https://www.viva100.com/article/20261126500121",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/26/.cache/512/20261126500119.png?v=20261126092450"
         }
       ]
     },
@@ -60,6 +60,14 @@ window.NEWS_DATA = {
       "title": "자동차",
       "color": "#0d9488",
       "items": [
+        {
+          "title": "美 관세 압박 속 조선업은 기회?…HD현대중공업·한화오션 협력 기대",
+          "desc": "자동차 업종은 미국 시장 의존도가 높은 현대차와 기아, 자동차 부품업체들의 부담이 커질 수 있다. 기존 관세 체계가 유지되는 가운데 추가 관세 우려가 제기되면 현지 생산 확대와 부품 조달 비용 관리가 중요해질...",
+          "src": "핀포인트뉴스",
+          "date": "11/26",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508160",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508160_492775_510_v150.jpg"
+        },
         {
           "title": "미국서 기아 상대 소비자 소송 잇따라…국내서도 품질 논란·집단소송 ...",
           "desc": "ABC뉴스=이경 기자 / 기아자동차를 상대로 한 소비자 소송이 미국에서 잇따라 제기되면서 글로벌... 현대차와 기아차는 2019년 미국에서 진행된 세타2 GDi 엔진 집단소송 합의와 관련해 국내 고객에게도 엔진 평생...",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/24",
           "url": "https://www.businessplus.kr/news/articleView.html?idxno=120404",
           "img": "https://cdn.businessplus.kr/news/thumbnail/202611/120404_122411_1955_v150.jpg"
-        },
-        {
-          "title": "중국 전기차 경쟁력 인정하면서도 구매는 테슬라…소비자의 ‘전기차 역...",
-          "desc": "현대자동차는 14.7%, 기아자동차는 6.1%로 뒤를 이었다. 반면 실제 보유·운전·동승 경험에서는 국산... 현대 아이오닉을 ‘독립적인 전기차 브랜드’로 보는 것보다 ‘현대차 모델 가운데 하나’로 인식하는 비율이...",
-          "src": "thepowernews",
-          "date": "11/24",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=202611231614161223de3f0aa1be_7",
-          "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261123161849016390de3f0aa1be2208661207.jpg&nmt=7"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "iM증권, 삼성 휴머노이드 부품 외주 전망",
-          "desc": "기존 자동차 부품 공급망을 활용할 수 있는 현대차그룹과 달리 새로운 협력사를 확보할 여지가 있다는... 이 연구원은 여러 업체가 삼성전자 관련 부품 시험과 수주 가능성을 강조하고 있다며, 수주나 공급 일정이 늦어질...",
-          "src": "아시아타임즈",
-          "date": "11/25",
-          "url": "https://www.asiatime.co.kr/article/20261125500433",
-          "img": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/11/25/.cache/512/20261125500432.jpg"
+          "title": "내년 CES 휴머노이드 공개 예고에 개인 투심 쏠렸다…미래에셋 'TIGER 코...",
+          "desc": "중 삼성전자의 로봇 계열사인 레인보우로보틱스를 가장 높은 비중으로 편입한 것이 특징이다. 또한 휴머노이드가 주력 사업이 아닌 완성차 대기업 등은 제외하고 액추에이터와 감속기 등 핵심 부품 기업부터 로봇...",
+          "src": "thefairnews",
+          "date": "11/26",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95550",
+          "img": "https://cdn.thefairnews.co.kr/news/thumbnail/202611/95550_143067_852_v150.jpg"
         },
         {
-          "title": "유안타증권 \"삼성전자 로봇 손에 누가 참여하나…원익홀딩스·대성하이...",
-          "desc": "이 가운데 대성하이텍은 테솔로에 지분을 투자하고 로봇핸드 관련 정밀부품 협력을 추진하고 있다는 점에서 관련주로 거론된다. 삼성전자의 로봇 사업 확대와 함께 자회사 레인보우로보틱스의 협력사들도 증시의 관심...",
+          "title": "미국 AI 칩 규제에 66억 달러 대출도 지연…SK하이닉스·한미반도체 영...",
+          "desc": "서버 부품 업종에 미칠 영향을 주의 깊게 살펴볼 필요가 있다. SK하이닉스는 엔비디아 AI 가속기에 탑재되는 고대역폭메모리(HBM) 공급망의 핵심 기업이다. 삼성전자 역시 메모리 반도체와 HBM 사업을 통해 AI 데이터센터...",
           "src": "핀포인트뉴스",
-          "date": "11/25",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508097",
-          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508097_492722_4117_v150.jpg"
+          "date": "11/26",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508230",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508230_492841_5329_v150.jpg"
         },
         {
-          "title": "불붙은 한·일 로봇 경쟁…\"휴머노이드 실전 배치 속도전\"",
-          "desc": "도요타그룹은 직접 개발한 휴머노이드를 자사 공장과 부품 협력사에 납품할 예정이다. 계열사와 협력사에서... 조립 부품 수 감축에 나서는 방식이다. 모빌리티 기업만 휴머노이드 제조에 집중하는 건 아니다. 삼성전자...",
-          "src": "한국경제",
-          "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/015/0005358166?sid=101",
-          "img": "https://img.hankyung.com/photo/202611/AA.46542471.1.jpg"
+          "title": "삼성전자, 메모리 이을 차세대 먹거리 로봇···휴머노이드 공개 기대...",
+          "desc": "다만 로보티즈는 LG전자가 지분을 보유하고 있어 삼성전자에 부품을 공급할 가능성이 낮다고 판단했다. 삼성전자의 로봇 사업 확대에 따른 수혜 범위가 레인보우로보틱스의 협력사까지 넓어질 가능성도 제기된다....",
+          "src": "smartbizn",
+          "date": "11/26",
+          "url": "https://www.smartbizn.com/news/articleView.html?idxno=160645",
+          "img": "https://cdn.smartbizn.com/news/photo/202611/160645_268765_022.png"
         },
         {
-          "title": "[CEO A to Z] 두산 박정원, 어두운 터널의 끝에서 빛난 '반도체 베팅'",
-          "desc": "SK하이닉스, 삼성전자, TSMC가 실트론의 고객사들이다. 두산은 반도체 시장의 성장에 따라 웨이퍼 사업이... 두산에너빌리티는 국내 유일의 원전 주기기 제작 기업으로 협력사와 함께 현재까지 원자로와 증기발생기를...",
-          "src": "economist",
-          "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/243/0000106298?sid=101",
-          "img": "https://economist.co.kr/data/ecn/image/2026/04/14/ecn20260414000065.800x.0.jpg"
+          "title": "[Invest]LB PE, '삼전닉스 협력사' 유정시스템 인수 추진",
+          "desc": "같은 해 SK하이닉스, 2016년엔 삼성전자 협력업체로 등록됐다. 미국 마이크론과 일본 키옥시아에도... 2024년 산업통상자원부의 소재·부품·장비 으뜸기업에 선정되기도 했다.유정시스템의 실적은 지난해 큰 폭으로...",
+          "src": "조선일보",
+          "date": "11/26",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/25/2026112580093.html",
+          "img": "https://img.investchosun.com/site/data/img_dir/2026/11/25/2026112580092_0.png"
         }
       ]
     },
@@ -221,70 +221,70 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "임동현 충북도의원, 지역경제 활성화·안전한 AI 활용 제도 정비 추진",
-          "desc": "인공지능 활용 지침 마련과 윤리·인권 등 전문가의 위원회 참여 및 도민 교육과 기업의 인공지능 도입 지원 근거도 담았다. 임동현 의원은 \"지역기업이 공공시장에 참여할 기회를 넓히고, 인공지능 기술 발전의 혜택에서...",
-          "src": "newstnt",
-          "date": "11/25",
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=730618",
-          "img": "https://cdn.newstnt.com/news/photo/202611/730618_736607_4956.png"
+          "title": "파마리서치 리쥬란코스메틱 4종, K-브랜드 정부인증 획득",
+          "desc": "기업은 인증 데이터를 활용해 위조상품의 유통 지역과 규모를 파악할 수 있다. 파마리서치는 기존에도... 침해금지 소송에서 승소했다. 의료기기 리쥬란 제품에는 위·변조 방지 기술을 적용한 정품인증 시스템도 도입했다.",
+          "src": "weekly",
+          "date": "11/26",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195777",
+          "img": "https://cdn.weekly.hankooki.com/news/thumbnail/202611/7195777_256466_715_v150.jpg"
         },
         {
-          "title": "AI 확산에 여성 첫 취업·재취업 문 좁아질 우려",
-          "desc": "박수범 한국여성정책연구원 연구위원이 발표한 'AI 기술발전에 따른 여성고용정책 방향' 연구에서도 여성 집중 직종에 대한 맞춤형 지원 필요성이 제기됐다. 직업별 AI 노출도와 산업 현장의 AI 도입 수준에 여성고용...",
-          "src": "womennews",
-          "date": "11/25",
-          "url": "https://n.news.naver.com/mnews/article/310/0000142061?sid=102",
-          "img": "https://cdn.womennews.co.kr/news/thumbnail/202611/284946_458564_4252_v150.jpg"
+          "title": "삼성전자서비스, AI 시대 엔지니어 경쟁력 높인다…기술경진대회 개최",
+          "desc": "삼성전자서비스는 1986년 업계 최초로 서비스 기술경진대회를 도입한 이후 우수 엔지니어 육성과 서비스... 엔지니어의 제품 수리 전문성뿐 아니라 다양한 제품을 종합적으로 점검하는 역량과 AI 기술 활용 능력까지...",
+          "src": "epnc",
+          "date": "11/26",
+          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410329",
+          "img": "https://cdn.epnc.co.kr/news/photo/202611/410329_411099_2233.jpg"
         },
         {
-          "title": "스튜디오키코, 의사의 차트 작성 시간을 70% 줄였다…‘니어닥’ 출시 ...",
-          "desc": "스튜디오키코의 의료 AI 스크라이브 서비스 ‘니어닥(Neardoc)’이 정식 출시 6개월 만에 누적 진료 기록 100만건을 돌파했다. (자료 제공: 스튜디오키코) 도입 기관 수뿐 아니라 의료진의 실제 서비스 활용 빈도도 높다....",
-          "src": "venturesquare",
-          "date": "11/25",
-          "url": "https://www.venturesquare.net/1131501/",
-          "img": "https://www.venturesquare.net/wp-content/uploads/2026/11/kiko.png"
+          "title": "실리콘밸리의 논리에 맞서는 페미니스트 AI",
+          "desc": "행정기관에서 정보를 체계적으로 정리하고 활용하기 위해 인공지능 도구를 도입하려면 상당한 비용이... (페미니스트 AI)의 지원 덕분에 기술 도구를 개발하는 과정에서 새로운 방법론을 활용할 수 있었다고 평가한다....",
+          "src": "newscham",
+          "date": "11/26",
+          "url": "https://newscham.net/130223/",
+          "img": "https://newscham.net/wp/wp-content/uploads/2026/11/2026_11_26_fe_2.jpg"
         },
         {
-          "title": "담양군, 12월 3일 'AI 정책토론회' 개최…지역 미래전략 모색",
-          "desc": "AI 스마트 농업 도시' 실현을 위한 구체적인 정책 과제를 논의할 예정이다. 주제 발표에는 광주과학기술원... AI 도입을 위한 준비 과제를 제시한다. 이대권 대표는 '인구감소·고령화 대응 AI 활용 및 플랫폼 구축'을...",
-          "src": "fntoday",
-          "date": "11/25",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400322",
-          "img": "https://www.fntoday.co.kr/news/thumbnail/202611/400322_325112_3743_v150.jpg"
+          "title": "SK하이닉스·中 CXMT, 차세대 D램 기술 정면승부⋯중국 반도체 추격 가속",
+          "desc": "기존 6F² 구조의 미세화 기술을 최대한 활용하면서 기술 성숙도에 따라 4F²와 3D D램을 단계적으로 도입... 차세대 D램 기술은 향후 서버와 PC용 DDR5뿐 아니라 모바일용 저전력 D램(LPDDR), 인공지능(AI) 가속기용...",
+          "src": "autodaily",
+          "date": "11/26",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602457",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202611/602457_204704_2028.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "AI 가전 경쟁, 기능 넘어 데이터·실증으로···중소기업 사업화 역량 ...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749184",
-      "img": "https://cdn.polinews.co.kr/news/photo/202611/749184_574308_2434.jpg"
+      "title": "롯데하이마트 가전수리올케어, 출시 50일 만에 가입자 5만명 넘어",
+      "url": "https://www.lawissue.co.kr/view.php?ud=202611260919358365204ead0791_12",
+      "img": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20261126091955091240204ead079118023320059.jpg&nmt=12"
     },
     {
-      "title": "[같이경제] 삼성라이온즈 우승…지역 경제 효과 높이려면?",
-      "url": "https://n.news.naver.com/mnews/article/056/0012301106?sid=101",
-      "img": "http://news.kbs.co.kr/data/news/2026/11/25/20261125_JzL8ug.jpg"
+      "title": "삼성전자서비스, 엔지니어 기술·안전 역량 점검…경진대회 개최",
+      "url": "http://www.nongaek.com/news/articleView.html?idxno=97628",
+      "img": "https://cdn.nongaek.com/news/thumbnail/202611/97628_48527_1253_v150.jpg"
     },
     {
-      "title": "'로보락 폭발' 소비자 글 확산…중국산 로봇청소기 '안전·보안' 도마 위...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904366",
-      "img": "https://cdn.newsworks.co.kr/news/photo/202611/904366_906306_5225.png"
+      "title": "삼성전자서비스, 엔지니어 AI 역량 높인다…기술경진·안전혁신대회 개...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212040",
+      "img": "https://cdn.lcnews.co.kr/news/photo/202611/212040_215773_1858.jpg"
     },
     {
-      "title": "광군제 이어 블프까지…내수 한파 中 가전, 해외서 삼성·LG 위협",
-      "url": "https://www.g-enews.com/view.php?ud=202611251423342505139bf6e4b2_1",
-      "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026112514240406696139bf6e4b2175123208181.jpg"
+      "title": "롯데하이마트 ‘가전수리올케어’, 50일 만에 가입자 5만명 돌파",
+      "url": "https://www.viva100.com/article/20261126500121",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/26/.cache/512/20261126500119.png?v=20261126092450"
+    },
+    {
+      "title": "美 관세 압박 속 조선업은 기회?…HD현대중공업·한화오션 협력 기대",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508160",
+      "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508160_492775_510_v150.jpg"
     },
     {
       "title": "미국서 기아 상대 소비자 소송 잇따라…국내서도 품질 논란·집단소송 ...",
       "url": "https://www.abcn.kr/news/articleView.html?idxno=94966",
       "img": "https://cdn.abcn.kr/news/thumbnail/202611/94966_54711_4443_v150.jpg"
-    },
-    {
-      "title": "케첩 쏟아도 걱정 NO… 현대차·기아, 스스로 청소하는 시트 기술 개발",
-      "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
-      "img": "https://thedrive.co.kr/news/data/20261124/p1065605180847307_282_thum.JPG"
     }
   ]
 };
