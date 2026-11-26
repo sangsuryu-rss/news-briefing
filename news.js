@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.26 (목) 19:57",
+  "updatedAt": "2026.11.27 (금) 06:37",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "삼성전자, M&A 전담조직 신설…대형 인수합병 속도 붙나",
-          "desc": "홈 AI팀은 스마트폰을 중심으로 TV와 생활가전 등 삼성전자의 다양한 기기 연결을 강화하고 사업부 간 시너지를 높이기 위한 조직입니다. 생활가전(DA)사업부는 가전(HA·Home Appliance)사업팀과 냉난방공조(HVAC)사업팀...",
-          "src": "news",
-          "date": "11/26",
-          "url": "https://n.news.naver.com/mnews/article/056/0012301979?sid=101",
-          "img": "http://news.kbs.co.kr/data/news/2026/11/26/20261126_YrVZwl.jpg"
+          "title": "美 암바렐라, 삼성 파운드리와 두 번째 2나노 AI칩 내놓는다",
+          "desc": "삼성전자(005930) 파운드리(반도체 위탁 생산) 사업부의 주요 고객사인 미국 암바렐라가 두 번째 2... 두 번째 2나노 칩은 조만간 최종 설계를 마무리하고 내년 초 소비자가전박람회(CES)에서 윤곽을 공개한다는 구상이다....",
+          "src": "서울경제",
+          "date": "11/27",
+          "url": "https://n.news.naver.com/mnews/article/011/0004686734?sid=101",
+          "img": "https://wimg.sedaily.com/news/cms/2026/11/26/news-p.v1.20261126.eaf2200f90d747a296a5309f00803b3f_Z1.png"
         },
         {
-          "title": "삼성 세탁기 종료 멜로디, 모델별로 음소거 방법 달라",
-          "desc": "버튼 이름과 메뉴 구성은 제품별로 다를 수 있어 안내된 조작을 모든 삼성 세탁기에 그대로 적용하기는 어렵다. 삼성전자서비스는 모델에 따라 차이가 있으므로 사용 중인 제품의 설명서를 확인하도록 안내한다. 모델별...",
-          "src": "vegannews",
-          "date": "11/26",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=411684",
-          "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17956866959032.jpg"
+          "title": "롯데하이마트, ‘가전수리올케어’ 50일 만에 5만명 돌파… 수익성 회복...",
+          "desc": "가입비 5만원을 내면 냉장고·세탁기·노트북 등 사용 중인 가전 34종을 구매처와 브랜드에 관계없이... 엎친데 덮친 격으로 가전양판 4개사(롯데하이마트, 전자랜드, 삼성전자판매, 하이프라자) 내 점유율도 낮아지고...",
+          "src": "브릿지경제",
+          "date": "11/27",
+          "url": "https://www.viva100.com/article/20261126500957",
+          "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/26/.cache/512/20261126500950.png?v=20261127063714"
         },
         {
-          "title": "삼성전자, 반도체 경쟁력 높이고 미래 먹거리 키운다…조직개편 단행",
-          "desc": "삼성전자가 사장단·임원인사에 이어 조직개편을 단행하며 내년도 사업 체계를 재정비했다. 반도체 부문은... 생활가전(DA)사업부는 기존 냉장고·세탁기 등 제품별로 운영해 온 생활가전 조직을 생활가전(HA)사업팀으로...",
-          "src": "ceoscoredaily",
-          "date": "11/26",
-          "url": "https://www.ceoscoredaily.com/page/view/2026112617381807155",
-          "img": "https://www.ceoscoredaily.com/photos/2026/11/24/2026112416590475228_l.jpg"
+          "title": "관세·中 공세에도 LG전자 美 법인 ‘흑자 전환’… 3분기 누적 순이익...",
+          "desc": "관세 환급 반영… 1·3분기 합산 순이익도 14.5배 고가 TV 판매 확대… 평균판매가격 10.6% 상승 삼성전자 美... 오픈브랜드에 따르면 올해 2분기 냉장고·세탁기·건조기·식기세척기 등 미국 대형 생활가전 시장에서...",
+          "src": "조선일보",
+          "date": "11/27",
+          "url": "https://n.news.naver.com/mnews/article/366/0001207666?sid=105",
+          "img": "https://biz.chosun.com/resizer/v2/XWLXRDSFJZDLHHFFKLVXLOZZW4.jpg?auth=7d8e989da28ccf0bf32884f0e1f066bef33477297c4e240f47c91144c1c696bf&width=1200&height=630&smart=true"
         },
         {
-          "title": "삼성전자서비스, 제31회 기술경진·안전혁신대회 개최…10개 종목 운영",
-          "desc": "삼성전자서비스는 경기도 수원에 위치한 삼성전자 CS 아카데미에서 제31회 '서비스 기술경진 및... 수리 경진은 키친(냉장고, 식기세척기, 시스템에어컨), 리빙(세탁건조기, 로봇청소기, 시스템에어컨), 에어(에어컨...",
-          "src": "cbci",
-          "date": "11/26",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=630836",
-          "img": "https://www.cbci.co.kr/news/thumbnail/202611/630836_433714_447_v150.jpg"
+          "title": "삼성·LG전자가 만드는 AI홈 생태계",
+          "desc": "\"세탁이 종료되면 바닥 청소 좀 해줘.\" 세탁기가 마지막 탈수를 마치고 세탁을 끝내면 로봇청소기가 움직이기 시작한다. 삼성전자가 2026년형 일부 가전에 적용한 음성 비서 '빅스비'의 활용 사례다. 이용자는...",
+          "src": "IT데일리",
+          "date": "11/27",
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243236",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202611/243236_249308_5337_v150.jpg"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
+          "title": "로봇에 '감각' 입히는 K센서, 쓸 곳 확보가 숙제",
+          "desc": "AI 반도체와 로봇 두뇌, 센서·인지, 구동부품, 완성 로봇으로 이어지는 'AI 풀스택'이 산업현장에서 쓰이고... 현대차 1차 협력사 에스엘을 거치는 방식이다. 삼성전자 자회사 세메스의 반도체 웨이퍼 이송장비에도 장애물...",
+          "src": "sidae",
+          "date": "11/27",
+          "url": "https://n.news.naver.com/mnews/article/417/0001165841?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/11/24/00/2026112415081544929_1.jpg"
+        },
+        {
+          "title": "요코하마에 세운 삼성 패키징 연구소, 일본서 투자액 절반 지원",
+          "desc": "한국과 일본이 소재·부품을 사고파는 관계에서 함께 연구하고 투자하는 사이로 바뀌고 있다. 삼성전자는... SK하이닉스는 이미 도쿄일렉트론·나믹스 등 일본 장비·소재 기업을 주요 협력사로 두고 있고 소니·닌텐도...",
+          "src": "sidae",
+          "date": "11/27",
+          "url": "https://n.news.naver.com/mnews/article/417/0001165839?sid=101",
+          "img": "https://menu.sidae.com/moneyweek/thumb/2026/11/23/00/2026112307470539205_1.jpg"
+        },
+        {
+          "title": "[출근길 포인트] 삼성전자, M&A 실행조직 신설···미래 먹거리 확보 속...",
+          "desc": "삼성전자 서초사옥. 사진=연합뉴스 ◇M&A 전문가 부사장 발탁 이어 전담팀 신설 삼성전자가 인수합병(M&A)... ◇한성숙 총리 \"상생협력, 2·3차 협력사까지 확대해야\" 한성숙 국무총리가 대기업과 1차 협력사 중심의...",
+          "src": "pointdaily",
+          "date": "11/27",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327671",
+          "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202611/327671_324888_953_v150.jpg"
+        },
+        {
           "title": "[위클리 IT뷰] 애플의 허위광고 제재와 한전 개인정보 유출",
           "desc": "그리고 삼성전자 MX부문 노태문 사장의 퇴진 등의 소식을 전합니다. ■ 공정위, \"시리 한국어 지원... 지난 10월 임직원과 퇴직자, 협력사 직원 등 3만 5,528명의 정보가 외부에 노출된 데 이어 한 달여 만에 또다시 대규모...",
           "src": "gamevu",
           "date": "11/26",
           "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62616",
           "img": "https://cdn.gamevu.co.kr/news/photo/202611/62616_104441_4334.jpg"
-        },
-        {
-          "title": "[증권가 소식] 미래에셋자산운용ㆍ메리츠증권ㆍ대신자산운용(11.26)",
-          "desc": "가운데 삼성전자 로봇 계열사인 레인보우로보틱스를 가장 높은 비중으로 편입하고 있다. 현대차 등 휴머노이드가 주력 사업이 아닌 기업은 제외하고 액추에이터·감속기 등 핵심 부품 제조사와 로봇 완제품 및...",
-          "src": "weeklytoday",
-          "date": "11/26",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=803630",
-          "img": "https://cdn.weeklytoday.com/news/thumbnail/202611/803630_1005214_5820_v150.jpg"
-        },
-        {
-          "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-          "desc": "복수의 국내 로봇 기업이 협력사 선정 참여를 준비 중이다. 삼성전자가 별도 조직을 신설한 것은 반도체... 반도체 공장은 웨이퍼 이송 등 핵심 생산 공정이 상당 부분 자동화됐지만, 제조 장비 유지보수와 부품 공급...",
-          "src": "전자신문",
-          "date": "11/26",
-          "url": "https://n.news.naver.com/mnews/article/030/0003490412?sid=105",
-          "img": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.1ea0f92701c84d6f8aeae3e844c7a42f_P1.jpg"
-        },
-        {
-          "title": "美 과잉생산 관세 석화·TV 최대 2.5%p 더 낸다",
-          "desc": "추가 부담 가능성이 남은 쪽은 TV와 소형가전, 일부 전자부품이다. 삼성전자·LG전자의 대미 가전은 국내... 베트남에 생산법인을 둔 전자 대기업과 현지에 동반 진출한 부품 협력사는 대미 출하분의 원산지별 관세를...",
-          "src": "이데일리",
-          "date": "11/26",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366647",
-          "img": "https://cdn.smedaily.co.kr/news/thumbnail/202611/366647_301688_2655_v150.jpg"
         }
       ]
     },
@@ -221,60 +221,60 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "AI가 산불 확인하고, 드론이 사각지대 살핀다",
-          "desc": "/서형우 기자산불 위험이 큰 산악지역에 인공지능(AI) 감시 카메라와 다목적 드론이 도입되는 등 첨단기술을 활용한 안전 감시체계가 확대되고 있다. 최근 찾은 전남광주통합특별시 화순 국립공원공단 무등산국립공원...",
-          "src": "kjdaily",
-          "date": "11/26",
-          "url": "http://www.kjdaily.com/article.php?aid=1795690291693696005",
-          "img": ""
+          "title": "[THE CEO] 김슬아 컬리 대표",
+          "desc": "김 대표는 AI 기술을 내부에 확보해 상품 추천과 고객응대, 마케팅 등 사업 전반의 효율성을 높이겠다는 구상을 세웠다. 조직 운영 방식도 바꿨다. 컬리는 지난 4월 창사 이후 처음으로 임원 직제를 도입했다....",
+          "src": "the-biz",
+          "date": "11/27",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730701",
+          "img": "https://cdn.the-biz.co.kr/news/photo/202611/730701_937519_2757.jpg"
         },
         {
-          "title": "[2026 대한민국 지속가능경영 소통대상] 고동진 의원, '최우수 의정활동...",
-          "desc": "경험과 기술산업에 대한 이해를 바탕으로 제22대 국회에서 대한민국 첨단산업의 글로벌 경쟁력 확보와 기업... 규제샌드박스 도입, AI 데이터 이용 활성화, 데이터센터 지원 및 AI 특별회계 설치 등의 내용이 포함됐다. 또...",
+          "title": "\"굳이 비싼 모델 써야 하나\" 기업들이 중국 AI로 눈 돌리는 이유",
+          "desc": "사미나탄은 \"최근 상담하는 고객 상당수는 처음부터 오픈웨이트 모델을 도입한다\"며 \"비공개 모델은 아예... 김 부사장은 \"오픈웨이트 기술을 활용하면 우리가 원하는 작업에 특화된 AI 모델을 만들 수 있다\"며 \"특히...",
+          "src": "fortunekorea",
+          "date": "11/27",
+          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54889",
+          "img": "https://cdn.fortunekorea.co.kr/news/thumbnail/202611/54889_49297_2359_v150.jpg"
+        },
+        {
+          "title": "[제약사 성장점검④] 종근당, 신약 개발·연구 서비스 확대...매출 기반...",
+          "desc": "3분기 매출 전분기比 9.2% 감소...신규 도입 제품군으로 대응 누적 연구개발비 1610억...이상지질혈증... [자료=종근당, 금융감독원 / 이미지=AI 활용] CKD-508은 콜레스테롤에스테르 전이단백질(Cholesteryl Ester Transfer...",
           "src": "news2day",
-          "date": "11/26",
-          "url": "https://www.news2day.co.kr/article/20261126500375",
-          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/26/.cache/512/20261126500374.jpg"
+          "date": "11/27",
+          "url": "https://www.news2day.co.kr/article/20261126500301",
+          "img": "https://cdn.news2day.co.kr/data2/content/image/2026/11/26/.cache/512/20261126500277.jpg"
         },
         {
-          "title": "벤츠, 올해 신차 11종 쏟아냈다…\"연말 EQS 출격\"",
-          "desc": "4세대 MBUX 인포테인먼트 시스템에는 챗GPT와 마이크로소프트 빙, 구글 맵스 기술을 활용한 생성형 AI 기반... (개별소비세 5% 반영 기준) 판매 방식도 변화…전국 동일 가격 체계 도입 벤츠 코리아는 신차 출시와 함께...",
-          "src": "digitalchosun",
-          "date": "11/26",
-          "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/26/2026112680248.html",
-          "img": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/11/26/2026112680246_0.jpg"
-        },
-        {
-          "title": "앤트로픽 CEO \"AI에 인간 결정권 넘길 생각 없어\"",
-          "desc": "등에서 AI가 업무 전반을 수행하는 것은 경제적 가치를 창출하고 기술 발전을 촉진할 수 있다는 설명이다.... 일자리 충격이 큰 분야에서는 AI 도입을 늦추거나 중단할 필요성도 언급했다. 아모데이 CEO는 주요 AI...",
-          "src": "ZDNet코리아",
-          "date": "11/26",
-          "url": "https://n.news.naver.com/mnews/article/092/0002447168?sid=105",
-          "img": "https://image.zdnet.co.kr/2026/03/05/313229a41399e4294091008670ccc557.jpg"
+          "title": "환경·에너지 자격시험도 ‘AI 커닝’ 대비…기후부, 예방책 마련",
+          "desc": "최근 세무사 시험에서 인공지능(AI)을 활용한 부정행위가 불거지면서 다른 자격시험에서도 유사한 일이... 기술자격은 부정행위자의 응시 제한 기간을 3년에서 10년으로 연장하고, 형사처벌을 2년 이하 징역에서 5년 이하...",
+          "src": "이데일리",
+          "date": "11/27",
+          "url": "https://n.news.naver.com/mnews/article/018/0006416327?sid=102",
+          "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112700059.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "삼성전자, M&A 전담조직 신설…대형 인수합병 속도 붙나",
-      "url": "https://n.news.naver.com/mnews/article/056/0012301979?sid=101",
-      "img": "http://news.kbs.co.kr/data/news/2026/11/26/20261126_YrVZwl.jpg"
+      "title": "美 암바렐라, 삼성 파운드리와 두 번째 2나노 AI칩 내놓는다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686734?sid=101",
+      "img": "https://wimg.sedaily.com/news/cms/2026/11/26/news-p.v1.20261126.eaf2200f90d747a296a5309f00803b3f_Z1.png"
     },
     {
-      "title": "삼성 세탁기 종료 멜로디, 모델별로 음소거 방법 달라",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=411684",
-      "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17956866959032.jpg"
+      "title": "롯데하이마트, ‘가전수리올케어’ 50일 만에 5만명 돌파… 수익성 회복...",
+      "url": "https://www.viva100.com/article/20261126500957",
+      "img": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/26/.cache/512/20261126500950.png?v=20261127063714"
     },
     {
-      "title": "삼성전자, 반도체 경쟁력 높이고 미래 먹거리 키운다…조직개편 단행",
-      "url": "https://www.ceoscoredaily.com/page/view/2026112617381807155",
-      "img": "https://www.ceoscoredaily.com/photos/2026/11/24/2026112416590475228_l.jpg"
+      "title": "관세·中 공세에도 LG전자 美 법인 ‘흑자 전환’… 3분기 누적 순이익...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207666?sid=105",
+      "img": "https://biz.chosun.com/resizer/v2/XWLXRDSFJZDLHHFFKLVXLOZZW4.jpg?auth=7d8e989da28ccf0bf32884f0e1f066bef33477297c4e240f47c91144c1c696bf&width=1200&height=630&smart=true"
     },
     {
-      "title": "삼성전자서비스, 제31회 기술경진·안전혁신대회 개최…10개 종목 운영",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=630836",
-      "img": "https://www.cbci.co.kr/news/thumbnail/202611/630836_433714_447_v150.jpg"
+      "title": "삼성·LG전자가 만드는 AI홈 생태계",
+      "url": "https://www.itdaily.kr/news/articleView.html?idxno=243236",
+      "img": "https://cdn.itdaily.kr/news/thumbnail/202611/243236_249308_5337_v150.jpg"
     },
     {
       "title": "현대차그룹 사장단 인사 발표, '성과·전문성' 중심…미래 먹거리 '로보...",
