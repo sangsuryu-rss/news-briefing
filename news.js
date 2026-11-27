@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.27 (금) 13:16",
+  "updatedAt": "2026.11.27 (금) 23:00",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,36 +21,36 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "주주 소송에 노조 간 셈법도 복잡…삼성전자 성과급 갈등 2라운드",
-          "desc": "삼성전자가 올해 성과급 노사합의를 둘러싼 논란을 해소하지 못한 채 내년도 임금·단체협약(임단협)을... 생활가전(DA), 네트워크사업부는 12%에 그쳤다. 같은 DX부문 내에서도 사업부별 성과급 지급률 격차가 38%포인트에...",
-          "src": "데일리안",
+          "title": "[특징주] 코스모로보틱스·제닉스로보틱스 상한가…휴머노이드 수요 확...",
+          "desc": "김석환 미래에셋증권 연구원은 \"삼성전자가 내년 CES(세계 가전·IT 전시회)에서 자체 휴머노이드 로봇을 처음 공개할 것이란 기대감과 반도체 부문에서 운용하는 로봇이 올해 약 100대 수준에서 2030년 1만대 이상으로...",
+          "src": "moneystorm",
           "date": "11/27",
-          "url": "https://n.news.naver.com/mnews/article/119/0003160266?sid=101",
-          "img": "https://cdnimage.dailian.co.kr/news/202611/news_1795751244433_1720554_m_1.jpeg"
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8943",
+          "img": "https://www.moneystorm.kr/image/logo/snslogotrans_20260623031632.png"
         },
         {
-          "title": "세계 10대 반도체 기업 중 8곳 CES 집결…AI 칩 경쟁 무대",
-          "desc": "CES 측은 최근 공식 사회관계망서비스(SNS)를 통해 삼성전자, SK하이닉스, 엔비디아, AMD, 인텔, 마이크론... 전통적으로 CES는 TV와 냉장고, 세탁기 등 가전 신제품을 공개하는 무대였다. 최근에는 AI와 로봇, 자율주행...",
-          "src": "아이뉴스24",
+          "title": "“겉만 말랐어요”…겨울 이불은 눅눅한 면을 건조기 문 쪽으로",
+          "desc": "추가 건조는 제품에 이불 코스나 시간 건조 기능이 있는지 확인한 뒤 선택한다. 삼성전자서비스는 모델에 따라 코스 기능이 다르다고 밝히며, 센서 건조 뒤 덜 마른 부분에는 시간 건조를 이용할 수 있다고 설명한다. 모든...",
+          "src": "vegannews",
           "date": "11/27",
-          "url": "https://n.news.naver.com/mnews/article/031/0001078989?sid=101",
-          "img": "https://image.inews24.com/v1/cd646651e29066.jpg"
+          "url": "https://www.vegannews.co.kr/news/article.html?no=412285",
+          "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17957762813771.jpg"
         },
         {
-          "title": "12월의 스타일 & 리빙 뉴스",
-          "desc": "플래그십 로봇청소기. 6,000Pa의 강력한 흡입력과 진동 물걸레 청소 기능을 지원하며, 물걸레 세척과 건조... 문의 1544-7011 삼성전자, 생활가전 고객만족도 평가 최다 부문 1위 삼성전자가 '2026 한국산업의...",
-          "src": "조선일보",
+          "title": "[체험기] 가볍게 밀고 틈새까지 쓱…다이슨 '펜슬백 플러피 콘' 써보니",
+          "desc": "무선청소기 분야는 다이슨이 먼저 국내 프리미엄 시장을 선점해 왔으나 삼성전자와 LG전자를 비롯해 중국... 하지만 로봇청소기와 함께 쓰는 세컨드 청소기나 부피·무게 부담이 적은 실속형 제품을 찾는 1~2인 가구라면...",
+          "src": "F투데이",
           "date": "11/27",
-          "url": "http://woman.chosun.com/news/articleView.html?idxno=126912",
-          "img": "https://cdn.woman.chosun.com/news/thumbnail/202611/126912_156987_2810_v150.jpg"
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370740",
+          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/370740_381143_547_v150.jpg"
         },
         {
-          "title": "관세·中 공세에도 LG전자 美 법인 ‘흑자 전환’… 3분기 누적 순이익...",
-          "desc": "관세 환급 반영… 1·3분기 합산 순이익도 14.5배 고가 TV 판매 확대… 평균판매가격 10.6% 상승 삼성전자 美... 오픈브랜드에 따르면 올해 2분기 냉장고·세탁기·건조기·식기세척기 등 미국 대형 생활가전 시장에서...",
-          "src": "조선일보",
+          "title": "인도서 몸집 키우는 삼성·LG ‘희비’ … 삼성, 스마트폰 정체 vs LG, 가...",
+          "desc": "삼성전자와 LG전자가 주요 성장시장으로 꼽히는 인도에서 나란히 매출 성장세를 이어갔지만... 냉장고와 세탁기, 가정용 에어컨 등 주요 제품군이 두 자릿수 성장률을 기록한 가운데 프리미엄 제품과 인도 시장에...",
+          "src": "ceoscoredaily",
           "date": "11/27",
-          "url": "https://n.news.naver.com/mnews/article/366/0001207666?sid=105",
-          "img": "https://biz.chosun.com/resizer/v2/XWLXRDSFJZDLHHFFKLVXLOZZW4.jpg?auth=7d8e989da28ccf0bf32884f0e1f066bef33477297c4e240f47c91144c1c696bf&width=1200&height=630&smart=true"
+          "url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
+          "img": "https://www.ceoscoredaily.com/photos/2026/11/27/2026112717161032978_l.jpeg"
         }
       ]
     },
@@ -61,12 +61,20 @@ window.NEWS_DATA = {
       "color": "#0d9488",
       "items": [
         {
+          "title": "韓 서진산업, 현대자동차에 조작된 불량 부품 납품 의혹…안전 우려",
+          "desc": "현대·기아는 그런 줄로 안다”고 주장했다. 이런 식으로 불량 캠샤프트가 장기간 현대차·기아차 중국... 한편 중국 내에서 생산되는 현대·기아 자동차에 해당 제품이 사용되는지를 묻자 “중국에서 생산되는 자동차에...",
+          "src": "kr",
+          "date": "11/27",
+          "url": "http://kr.people.com.cn/n3/2026/1127/c208059-20523994.html",
+          "img": ""
+        },
+        {
           "title": "현대차그룹 사장단 인사 발표, '성과·전문성' 중심…미래 먹거리 '로보...",
           "desc": "특히 현대차가 새로운 성장동력으로 추진 중인 '로보틱스 산업'과 연관돼있다는 업계의 해석이다.... 기아자동차에서 기아엔진생기실장과 전동화생기센터장을, 현대케피코에서 대표이사를 역임한 오 부사장은 생산체계...",
           "src": "그린포스트",
           "date": "11/26",
           "url": "https://www.greened.kr/news/articleView.html?idxno=355693",
-          "img": "https://cdn.greened.kr/news/photo/202611/355693_407881_3710.png"
+          "img": "https://www.greened.kr/news/photo/202611/355693_407881_3710.png"
         },
         {
           "title": "美 관세 압박 속 조선업은 기회?…HD현대중공업·한화오션 협력 기대",
@@ -83,14 +91,6 @@ window.NEWS_DATA = {
           "date": "11/25",
           "url": "https://www.abcn.kr/news/articleView.html?idxno=94966",
           "img": "https://cdn.abcn.kr/news/thumbnail/202611/94966_54711_4443_v150.jpg"
-        },
-        {
-          "title": "케첩 쏟아도 걱정 NO… 현대차·기아, 스스로 청소하는 시트 기술 개발",
-          "desc": "현대차와 기아가 자동차 시트에 떨어진 과자 부스러기나 쏟아진 커피를 스스로 청소하는 기술을 고안했다. 시트 아래에 숨겨진 로봇팔이 오염물을 감지해 세정액을 뿌리고 닦아내는 방식이다. 미국 특허청(USPTO)이 최근...",
-          "src": "thedrive",
-          "date": "11/24",
-          "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
-          "img": "https://thedrive.co.kr/news/data/20261124/p1065605180847307_282_thum.JPG"
         }
       ]
     },
@@ -141,36 +141,36 @@ window.NEWS_DATA = {
       "color": "#7b3fe4",
       "items": [
         {
-          "title": "삼성·LG, 미국 현지서 로봇·피지컬 AI 인재 확보 총력…연구개발부터...",
-          "desc": "해당 직무는 기존 차량용 메모리 마케팅 부서에 소속되어 글로벌 완성차 제조사 및 부품 협력사와 소통하고, 고객사별 수요 분석과 가격·공급 전략을 수립하는 역할을 맡는다. 삼성전자는 채용 공고를 통해 자동차용...",
-          "src": "widedaily",
+          "title": "삼성 전영현·노태문 첫 승부수…DS는 '무인 팹', DX는 'M&A·로봇'",
+          "desc": "삼성전자 투톱 대표이사인 전영현 디바이스솔루션(DS)부문장(부회장)과 노태문 디바이스경험(DX)부문장... 로보틱스팀은 연내 외부 로봇 협력사를 선정해 내년 기술 평가를 거쳐 2028년부터 생산 현장에 투입한다는...",
+          "src": "insightkorea",
           "date": "11/27",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=305008",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202611/305008_312405_3934_v150.jpg"
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259955",
+          "img": "https://cdn.insightkorea.co.kr/news/thumbnail/202611/259955_273113_2135_v150.jpg"
         },
         {
-          "title": "美 스마트폰 출하량 9% 감소… 애플·삼성 점유율 확대",
-          "desc": "이에 따라 애플과 삼성전자의 미국 시장 합산 점유율은 지난해 3분기 74%에서 올해 3분기 82%로 뛰며 양강 체제가 더욱 뚜렷해졌다. 반면 중저가 안드로이드 진영은 부품 원가 상승의 여파를 고스란히 떠안았다. 저가형...",
-          "src": "newscj",
+          "title": "[CEO풍향계] 'KB 새 얼굴' 이재근…'AI 재도약' 김범수",
+          "desc": "류 사장은 \"협력사의 경쟁력이 곧 LG전자의 경쟁력\"이라며 제조 현장의 한계를 함께 뛰어넘자고 강조했습니다. 특히 눈에 띄는 건 구체적 협력 성과입니다. 한 세탁기 부품 협력사는 공정 자동화를 통해 불량률을 90...",
+          "src": "연합뉴스TV",
           "date": "11/27",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3452584",
-          "img": "https://cdn.newscj.com/news/thumbnail/202611/3452584_3581270_1814_v150.jpg"
+          "url": "https://n.news.naver.com/mnews/article/422/0000930550?sid=101",
+          "img": "https://media.yonhapnewstv.co.kr/article/MYH/20261127/MYH202611271415064A8.jpg"
         },
         {
-          "title": "[특징주] 라온로보틱스, 삼성 반도체 공장 로봇이 대체한다…'국내 유일...",
-          "desc": "복수의 국내 로봇 기업이 협력사 선정 참여를 준비 중이다. 삼성전자가 별도 조직을 신설한 것은 반도체... 핵심 부품이다. 특히 AI 반도체와 HBM 등 첨단 공정이 확대되면서 고정밀·고속 웨이퍼 이송 기술의 중요성이...",
-          "src": "newsprime",
+          "title": "[2026 IT 결산] AI가 바꾼 SW·인프라·보안 지형",
+          "desc": "글로벌 빅테크의 고대역폭메모리(HBM) 수요가 폭증하자 삼성전자·SK하이닉스·마이크론 등 메모리 업체들이... 시스템이나 협력사 그룹웨어 등 상대적으로 관리가 느슨한 공급망 고리를 우회 침투한 것으로 파악됐다....",
+          "src": "IT데일리",
           "date": "11/27",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=756789",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20261148/art_756789_1795741127.png"
+          "url": "https://www.itdaily.kr/news/articleView.html?idxno=243283",
+          "img": "https://cdn.itdaily.kr/news/thumbnail/202611/243283_249372_3546_v150.jpg"
         },
         {
-          "title": "[특징주] 한국피아이엠, 휴머노이드 부품 공급망 기대감에 10%대 급등",
-          "desc": "부품 기업으로의 낙수효과 기대감도 커지고 있다. 시장에서는 지난 7월 RX사업추진실을 신설한 삼성전자가... 전자가 손과 액추에이터를 직접 설계하더라도 모든 단품 생산까지 내재화할 필요는 없어 신규 협력사가...",
-          "src": "widedaily",
+          "title": "삼성전자, 2028년 반도체 공장에 로봇 투입⋯무인 생산체계 추진",
+          "desc": "삼성전자는 올해 말까지 로봇 개발 및 공급 협력사를 선정하고 2027년 기술 평가를 거쳐 2028년부터 반도체... 삼성전자의 로봇 도입이 본격화되면 국내 산업용 로봇과 자율주행 로봇, 정밀제어 부품 시장에도 새로운 사업...",
+          "src": "autodaily",
           "date": "11/27",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=304913",
-          "img": "https://cdn.widedaily.com/news/thumbnail/202611/304913_312303_3648_v150.jpg"
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602515",
+          "img": "https://cdn.autodaily.co.kr/news/photo/202611/602515_204838_4442.jpg"
         }
       ]
     },
@@ -221,65 +221,65 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "KERIS·KCUE 대학도서관 엑스포서 '논문 넘어 특허로'… 마크웍스, 연구...",
-          "desc": "AI는 입력 자료에서 핵심 기술요소를 추출해 검색어를 확장한 뒤 특허와 논문을 함께 검색한다. 검색... 연구자는 이 초안을 산학협력단·변리사와의 협의 자료로 활용하게 된다. 출원 대리 업무는 하지 않으며...",
-          "src": "이투데이",
+          "title": "[현장] \"AI 업무 출발점은 정확한 음성\" 자브라, '게이트웨이 투 AI 테크...",
+          "desc": "함께 AI 시대 업무 환경과 협업 기술 변화를 소개했다. 이날 발표에서는 AI 중심의 업무 방식 재설계부터 회의·음성 명령 활용 사례, 이를 뒷받침하는 하드웨어 역할이 주요 의제로 다뤄졌다. ■ AI 도입 넘어 업무 방식...",
+          "src": "cnet",
           "date": "11/27",
-          "url": "https://www.etoday.co.kr/news/view/2653911",
-          "img": "https://www.etoday.co.kr/images/etoday_og.jpg"
+          "url": "https://www.cnet.co.kr/view/?no=20261126232055",
+          "img": "https://image.cnet.co.kr/2026/11/26/5ca852f620b7702c12d8c7662b7a2b6a-770xAAA.jpg"
         },
         {
-          "title": "공공SW 시장 새국면...상출제 대기업 700억 이상 사업 참여 전면 허용",
-          "desc": "다만 공공 정보시스템 대형화와 AI 등 신기술 도입 확대에 따라 기업 규모를 기준으로 사업 참여를... 2015년 신기술 분야에 대한 대기업 참여가 허용된 이후 AI와 빅데이터 기술을 활용하는 공공 SW 사업이 늘면서 기존...",
-          "src": "digitaltoday",
+          "title": "[시사천국] 강정수 \"AI가 대치동 권력 무너뜨릴 것\"…지식민주화, 공존...",
+          "desc": "즉 AI 경제에 대해서 저는 워낙 여러분 아시는 것처럼 기술 그 자체가 아니라 이것이 기술이 어떻게 산업에... AI를 얼마나 잘 활용해서 어떤 더 어려운 문제를 풀어낼 수 있는가 협력해서. 똑같은 지금 같은 문제 내면 다...",
+          "src": "news",
           "date": "11/27",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718602",
-          "img": "https://cdn.digitaltoday.co.kr/news/photo/202611/718602_665900_5438.png"
+          "url": "https://news.cpbc.co.kr/article/1177335?division=NAVER",
+          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/11/27/I1v1795787400558.jpg"
         },
         {
-          "title": "알바천국 K-HIRE, AI 지원자 매칭률 서비스 도입…외국인 채용 효율성 강...",
-          "desc": "(AI) 기술을 활용해 외국인 채용시장의 구인·구직 편의성을 높인다. 알바천국(대표이사 우태경)은 외국인 일자리 생활정보 플랫폼 'K-HIRE(케이하이어)'에 구인자를 위한 'AI 지원자 매칭률 서비스'를 도입했다고 밝혔다....",
-          "src": "job-post",
+          "title": "인천TP·인천시, 제3회 미래차 테크포럼…부품 혁신기술 논의",
+          "desc": "진단하고, AI, 로봇, 첨단소재 등 혁신기술을 활용한 새로운 성장 기회를 모색했다. 행사에서는 인천시... 혁신기술의 적극적인 도입이 중요하다\"며, \"앞으로도 기업 현장의 수요를 바탕으로 기술혁신과 미래차 산업...",
+          "src": "gukjenews",
           "date": "11/27",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241437",
-          "img": "https://cdn.job-post.co.kr/news/photo/202611/241437_345925_1023.jpg"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765751",
+          "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3765751_3950239_1035_v150.jpg"
         },
         {
-          "title": "CS쉐어링 'CS 전문가 설계' AICC로 승부수…반품 접수·발주 원스톱 처리",
-          "desc": "노하우와 AI 기술을 결합했다. 최근 이커머스 업계를 중심으로 AICC 도입이 빠르게 확산하고 있다. 하지만... 즉시 도입할 수 있는 구조다. 고객사 담당자를 위한 OMS 활용 교육도 동시에 지원한다. 정비된 운영 체계 위에...",
-          "src": "newsprime",
+          "title": "어촌어항공단, AI·데이터 기반 스마트양식 전환 논의",
+          "desc": "수출까지 AI와 데이터를 연결하고 순환여과양식시스템(RAS)과 AI 기반 환경제어·자동화 기술을 현장에 도입... 스마트양식 기술과 AI·데이터 활용 방안을 발표했습니다. 이어진 종합토론에서는 첨단기술의 현장 적용과...",
+          "src": "news",
           "date": "11/27",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=756817",
-          "img": "https://www.newsprime.co.kr/data/photos/cdn/20261148/art_756817_1795751629.png"
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121524",
+          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202611/4121524_788422_5550_v150.jpg"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "주주 소송에 노조 간 셈법도 복잡…삼성전자 성과급 갈등 2라운드",
-      "url": "https://n.news.naver.com/mnews/article/119/0003160266?sid=101",
-      "img": "https://cdnimage.dailian.co.kr/news/202611/news_1795751244433_1720554_m_1.jpeg"
+      "title": "[특징주] 코스모로보틱스·제닉스로보틱스 상한가…휴머노이드 수요 확...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8943",
+      "img": "https://www.moneystorm.kr/image/logo/snslogotrans_20260623031632.png"
     },
     {
-      "title": "세계 10대 반도체 기업 중 8곳 CES 집결…AI 칩 경쟁 무대",
-      "url": "https://n.news.naver.com/mnews/article/031/0001078989?sid=101",
-      "img": "https://image.inews24.com/v1/cd646651e29066.jpg"
+      "title": "“겉만 말랐어요”…겨울 이불은 눅눅한 면을 건조기 문 쪽으로",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=412285",
+      "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17957762813771.jpg"
     },
     {
-      "title": "12월의 스타일 & 리빙 뉴스",
-      "url": "http://woman.chosun.com/news/articleView.html?idxno=126912",
-      "img": "https://cdn.woman.chosun.com/news/thumbnail/202611/126912_156987_2810_v150.jpg"
+      "title": "[체험기] 가볍게 밀고 틈새까지 쓱…다이슨 '펜슬백 플러피 콘' 써보니",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370740",
+      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/370740_381143_547_v150.jpg"
     },
     {
-      "title": "관세·中 공세에도 LG전자 美 법인 ‘흑자 전환’… 3분기 누적 순이익...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001207666?sid=105",
-      "img": "https://biz.chosun.com/resizer/v2/XWLXRDSFJZDLHHFFKLVXLOZZW4.jpg?auth=7d8e989da28ccf0bf32884f0e1f066bef33477297c4e240f47c91144c1c696bf&width=1200&height=630&smart=true"
+      "title": "인도서 몸집 키우는 삼성·LG ‘희비’ … 삼성, 스마트폰 정체 vs LG, 가...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
+      "img": "https://www.ceoscoredaily.com/photos/2026/11/27/2026112717161032978_l.jpeg"
     },
     {
       "title": "현대차그룹 사장단 인사 발표, '성과·전문성' 중심…미래 먹거리 '로보...",
       "url": "https://www.greened.kr/news/articleView.html?idxno=355693",
-      "img": "https://cdn.greened.kr/news/photo/202611/355693_407881_3710.png"
+      "img": "https://www.greened.kr/news/photo/202611/355693_407881_3710.png"
     },
     {
       "title": "美 관세 압박 속 조선업은 기회?…HD현대중공업·한화오션 협력 기대",
