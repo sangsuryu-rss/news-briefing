@@ -1,6 +1,6 @@
 /* collect.py 가 자동 생성 — 직접 수정하지 마세요 */
 window.NEWS_DATA = {
-  "updatedAt": "2026.11.27 (금) 23:00",
+  "updatedAt": "2026.11.28 (토) 07:43",
   "banner": {
     "show": true,
     "icon": "🔗",
@@ -21,12 +21,20 @@ window.NEWS_DATA = {
       "color": "#1428a0",
       "items": [
         {
-          "title": "[특징주] 코스모로보틱스·제닉스로보틱스 상한가…휴머노이드 수요 확...",
-          "desc": "김석환 미래에셋증권 연구원은 \"삼성전자가 내년 CES(세계 가전·IT 전시회)에서 자체 휴머노이드 로봇을 처음 공개할 것이란 기대감과 반도체 부문에서 운용하는 로봇이 올해 약 100대 수준에서 2030년 1만대 이상으로...",
-          "src": "moneystorm",
-          "date": "11/27",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8943",
-          "img": "https://www.moneystorm.kr/image/logo/snslogotrans_20260623031632.png"
+          "title": "\"토네이도에 박살 났는데 오히려 대박?\"…블랙프라이데이 강자 된 '이 가...",
+          "desc": "이처럼 미국 최대 쇼핑 시즌에 소비자들이 즐겨 찾는 대표적인 가전매장이 있습니다. 바로 베스트바이(Best... 삼성전자는 2014년 베스트바이 매장에 커브드 UHD TV 등을 체험할 수 있는 전용 공간을 마련했는데요. 매장...",
+          "src": "view",
+          "date": "11/28",
+          "url": "https://n.news.naver.com/mnews/article/277/0005849025?sid=104",
+          "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news_2026.png"
+        },
+        {
+          "title": "로봇청소기 경쟁 2라운드…성능 넘어 AS로",
+          "desc": "삼성전자는 전국 169개 서비스센터 가운데 117곳에 로봇청소기 전담 서비스 인력을 배치했다. 구독 고객에게 계약 기간 무상수리를 제공한다. 방문케어를 선택한 고객에게는 전문 엔지니어가 제품 진단과 내·외부 세척...",
+          "src": "조선일보",
+          "date": "11/28",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001994",
+          "img": "https://cdn.it.chosun.com/news/photo/202611/3000000001994_502270_3622.png"
         },
         {
           "title": "“겉만 말랐어요”…겨울 이불은 눅눅한 면을 건조기 문 쪽으로",
@@ -37,20 +45,12 @@ window.NEWS_DATA = {
           "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17957762813771.jpg"
         },
         {
-          "title": "[체험기] 가볍게 밀고 틈새까지 쓱…다이슨 '펜슬백 플러피 콘' 써보니",
-          "desc": "무선청소기 분야는 다이슨이 먼저 국내 프리미엄 시장을 선점해 왔으나 삼성전자와 LG전자를 비롯해 중국... 하지만 로봇청소기와 함께 쓰는 세컨드 청소기나 부피·무게 부담이 적은 실속형 제품을 찾는 1~2인 가구라면...",
-          "src": "F투데이",
-          "date": "11/27",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370740",
-          "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/370740_381143_547_v150.jpg"
-        },
-        {
           "title": "인도서 몸집 키우는 삼성·LG ‘희비’ … 삼성, 스마트폰 정체 vs LG, 가...",
           "desc": "삼성전자와 LG전자가 주요 성장시장으로 꼽히는 인도에서 나란히 매출 성장세를 이어갔지만... 냉장고와 세탁기, 가정용 에어컨 등 주요 제품군이 두 자릿수 성장률을 기록한 가운데 프리미엄 제품과 인도 시장에...",
           "src": "ceoscoredaily",
           "date": "11/27",
           "url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
-          "img": "https://www.ceoscoredaily.com/photos/2026/11/27/2026112717161032978_l.jpeg"
+          "img": ""
         }
       ]
     },
@@ -221,60 +221,55 @@ window.NEWS_DATA = {
       "color": "#00a86b",
       "items": [
         {
-          "title": "[현장] \"AI 업무 출발점은 정확한 음성\" 자브라, '게이트웨이 투 AI 테크...",
-          "desc": "함께 AI 시대 업무 환경과 협업 기술 변화를 소개했다. 이날 발표에서는 AI 중심의 업무 방식 재설계부터 회의·음성 명령 활용 사례, 이를 뒷받침하는 하드웨어 역할이 주요 의제로 다뤄졌다. ■ AI 도입 넘어 업무 방식...",
-          "src": "cnet",
-          "date": "11/27",
-          "url": "https://www.cnet.co.kr/view/?no=20261126232055",
-          "img": "https://image.cnet.co.kr/2026/11/26/5ca852f620b7702c12d8c7662b7a2b6a-770xAAA.jpg"
+          "title": "앤트로픽에 128억달러 몰렸다…삼성SDS·LG CNS도 AI 수혜 기대",
+          "desc": "생성형 AI 도입이 기업용 소프트웨어와 정보기술(IT) 서비스 시장의 성장으로 이어질 것이라는 기대가... 등으로 활용 범위를 넓히면서 기업들의 AI 도입과 관련 서비스 투자가 확대될 수 있다는 전망이 반영된 것으로...",
+          "src": "핀포인트뉴스",
+          "date": "11/28",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509092",
+          "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/509092_493657_3936_v150.jpg"
         },
         {
-          "title": "[시사천국] 강정수 \"AI가 대치동 권력 무너뜨릴 것\"…지식민주화, 공존...",
-          "desc": "즉 AI 경제에 대해서 저는 워낙 여러분 아시는 것처럼 기술 그 자체가 아니라 이것이 기술이 어떻게 산업에... AI를 얼마나 잘 활용해서 어떤 더 어려운 문제를 풀어낼 수 있는가 협력해서. 똑같은 지금 같은 문제 내면 다...",
-          "src": "news",
-          "date": "11/27",
-          "url": "https://news.cpbc.co.kr/article/1177335?division=NAVER",
-          "img": "https://img.cpbc.co.kr/newsimg/upload/2026/11/27/I1v1795787400558.jpg"
+          "title": "경북 청도군, AI로 방문 돌봄 기록 자동화 시범 사업 추진",
+          "desc": "행정안전부와 KT는 11월 23일 지역의 사회연대 경제 조직에 인공지능 기술을 도입할 수 있도록 지원하는... 인공지능을 활용할 계획입니다. 춘천에서는 소상공인과 청년의 점포 운영과 홍보를 지원합니다. 행안부와 KT는...",
+          "src": "dgmbc",
+          "date": "11/28",
+          "url": "https://n.news.naver.com/mnews/article/657/0000057901?sid=102",
+          "img": "https://dgmbc.com/main/images/news/dg1.jpg"
         },
         {
-          "title": "인천TP·인천시, 제3회 미래차 테크포럼…부품 혁신기술 논의",
-          "desc": "진단하고, AI, 로봇, 첨단소재 등 혁신기술을 활용한 새로운 성장 기회를 모색했다. 행사에서는 인천시... 혁신기술의 적극적인 도입이 중요하다\"며, \"앞으로도 기업 현장의 수요를 바탕으로 기술혁신과 미래차 산업...",
-          "src": "gukjenews",
-          "date": "11/27",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765751",
-          "img": "https://cdn.gukjenews.com/news/thumbnail/202611/3765751_3950239_1035_v150.jpg"
+          "title": "팔란티어, 유럽 국방 AI 시장서 영토 확장…폴란드 수주에 주가 강세",
+          "desc": "폴란드가 도입하는 기술은 팔란티어의 메이븐 스마트 시스템(Maven Smart System)이다. 여러 경로를 통해 수집된 정보를 통합하고 분석해 군 지휘부의 판단을 지원하는 AI 기반 플랫폼으로, 정보처리 효율성을 높이는 데...",
+          "src": "jemin",
+          "date": "11/28",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=848715",
+          "img": "https://cdn.jemin.com/news/thumbnail/202611/848715_436260_3654_v150.jpg"
         },
         {
-          "title": "어촌어항공단, AI·데이터 기반 스마트양식 전환 논의",
-          "desc": "수출까지 AI와 데이터를 연결하고 순환여과양식시스템(RAS)과 AI 기반 환경제어·자동화 기술을 현장에 도입... 스마트양식 기술과 AI·데이터 활용 방안을 발표했습니다. 이어진 종합토론에서는 첨단기술의 현장 적용과...",
-          "src": "news",
-          "date": "11/27",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121524",
-          "img": "https://cdn.news.bbsi.co.kr/news/thumbnail/202611/4121524_788422_5550_v150.jpg"
+          "title": "[오늘의 경제뉴스] K-뷰티 뜨니 인플루언서들 화장품 개발 열풍...유튜버...",
+          "desc": "제조사가 처방 개발부터 생산까지 맡는 ODM 방식을 활용하면 브랜드 운영자는 자체 연구·생산 조직을 갖추는... 위해 기술력이나 제품성 검증 도입 등의 프로세스가 정례화될 필요는 있다고 생각한다. 아울러 인플루언서들...",
+          "src": "newsverse",
+          "date": "11/28",
+          "url": "https://www.newsverse.kr/news/articleView.html?idxno=12070",
+          "img": "https://cdn.newsverse.kr/news/photo/202611/12070_20582_5929.png"
         }
       ]
     }
   ],
   "ranking": [
     {
-      "title": "[특징주] 코스모로보틱스·제닉스로보틱스 상한가…휴머노이드 수요 확...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8943",
-      "img": "https://www.moneystorm.kr/image/logo/snslogotrans_20260623031632.png"
+      "title": "\"토네이도에 박살 났는데 오히려 대박?\"…블랙프라이데이 강자 된 '이 가...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005849025?sid=104",
+      "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news_2026.png"
+    },
+    {
+      "title": "로봇청소기 경쟁 2라운드…성능 넘어 AS로",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001994",
+      "img": "https://cdn.it.chosun.com/news/photo/202611/3000000001994_502270_3622.png"
     },
     {
       "title": "“겉만 말랐어요”…겨울 이불은 눅눅한 면을 건조기 문 쪽으로",
       "url": "https://www.vegannews.co.kr/news/article.html?no=412285",
       "img": "https://www.vegannews.co.kr/data/photos/20261148/art_17957762813771.jpg"
-    },
-    {
-      "title": "[체험기] 가볍게 밀고 틈새까지 쓱…다이슨 '펜슬백 플러피 콘' 써보니",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370740",
-      "img": "https://cdn.ftoday.co.kr/news/thumbnail/202611/370740_381143_547_v150.jpg"
-    },
-    {
-      "title": "인도서 몸집 키우는 삼성·LG ‘희비’ … 삼성, 스마트폰 정체 vs LG, 가...",
-      "url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
-      "img": "https://www.ceoscoredaily.com/photos/2026/11/27/2026112717161032978_l.jpeg"
     },
     {
       "title": "현대차그룹 사장단 인사 발표, '성과·전문성' 중심…미래 먹거리 '로보...",
@@ -285,6 +280,11 @@ window.NEWS_DATA = {
       "title": "美 관세 압박 속 조선업은 기회?…HD현대중공업·한화오션 협력 기대",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508160",
       "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202611/508160_492775_510_v150.jpg"
+    },
+    {
+      "title": "미국서 기아 상대 소비자 소송 잇따라…국내서도 품질 논란·집단소송 ...",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=94966",
+      "img": "https://cdn.abcn.kr/news/thumbnail/202611/94966_54711_4443_v150.jpg"
     }
   ]
 };
